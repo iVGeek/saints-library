@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Zebina of Caesarea"
 honorific: Saint
 summary: "Christian man who was scourged and martyred in the persecutions of Diocletian and Galerius. Just before he died, the saint chewed out his pagan judge as a coward for torturing the young woman, Saint Ennatha of Caesarea."

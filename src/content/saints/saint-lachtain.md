@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Lachtain"
 honorific: Saint
 summary: "All details about his life have been lost."

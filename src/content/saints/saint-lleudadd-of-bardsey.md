@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Lleudadd of Bardsey"
 honorific: Saint
 summary: "Monk. Abbot of Bardsey, Gwynedd, Wales. Worked with Saint Cadfan in Brittany."

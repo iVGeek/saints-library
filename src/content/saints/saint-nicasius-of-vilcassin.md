@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Nicasius of Vilcassin"
 honorific: Saint
 summary: "Martyr."

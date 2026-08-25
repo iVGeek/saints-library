@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Beatrice of Belmonte"
 honorific: Blessed
 summary: "A member of the royal family of Navarre (in modern Spain), she became a Poor Clare nun who was described as an example of the Franciscan religious life."

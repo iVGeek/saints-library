@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Canog ap Brychan"
 honorific: Saint
 summary: "Born a Prince, the eldest son of Saint Brychan of Brecknock, and Benedulved. Martyr. Defynnog, Ystradgynlais, Penderyn, Battle, Llangynog, and Merthyr Cynog and several churches in Wales are named for or dedicated to him."

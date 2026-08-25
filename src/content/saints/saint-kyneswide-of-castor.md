@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Kyneswide of Castor"
 honorific: Saint
 summary: "Daughter of Pendra of Mercia, a fierce opponent of Christianity. Sister of Saint Kyneburga. Relative of Saint Tibba. Benedictine nun. Abbess at Dormancaster (now Castor) abbey in Northamptonshire, England."

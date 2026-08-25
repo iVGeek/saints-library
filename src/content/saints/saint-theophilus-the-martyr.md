@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Theophilus the Martyr"
 honorific: Saint
 summary: "Deacon. Martyr."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Paul of Caesarea"
 honorific: Saint
 summary: "Martyred in the pesecutions of emperor Maximilian and governor Firmilian."

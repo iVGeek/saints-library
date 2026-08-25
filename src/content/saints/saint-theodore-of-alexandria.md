@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Theodore of Alexandria"
 honorific: Saint
 summary: "Patriarch of Alexandria, Egypt. Martyr."

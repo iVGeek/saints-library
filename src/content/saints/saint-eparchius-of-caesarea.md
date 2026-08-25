@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Eparchius of Caesarea"
 honorific: Saint
 summary: "Martyred by Julian the Apostate."

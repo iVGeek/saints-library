@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Peter of Antioch"
 honorific: Saint
 summary: "Priest. Martyr."

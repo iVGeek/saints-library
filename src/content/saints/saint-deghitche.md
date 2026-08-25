@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Deghitche"
 honorific: Saint
 summary: "Listed on several early Irish calendars and martyrologies, but no information about her has survived."

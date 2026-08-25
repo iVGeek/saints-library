@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Maurus of San Felice"
 honorific: Saint
 summary: "Sixth-century bishop. Pilgrim to Rome, Italy. Settle in the village of San Felice near Narni, Italy."

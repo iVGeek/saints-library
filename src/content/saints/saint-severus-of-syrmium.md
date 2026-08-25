@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Severus of Syrmium"
 honorific: Saint
 summary: "The only one of a group of 62 martyrs whose name has come down to us."

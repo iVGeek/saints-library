@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Spes of Spoleto"
 honorific: Saint
 title: "Bishop"

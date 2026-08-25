@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Antonio Frutos Tena Amaya"
 honorific: Blessed
 summary: "Priest of the diocese of Córdoba, Spain, serving in the Peraleda del Zaucejo community. Martyred in the Spanish Civil War."

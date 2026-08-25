@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Herman of Scheda"
 honorific: Blessed
 summary: "Jewish convert to Christianity. Premonstratensian monk. Abbot of Scheda, archdiocese of Cologne, Germany."

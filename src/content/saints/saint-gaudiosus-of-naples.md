@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Gaudiosus of Naples"
 honorific: Saint
 summary: "Bishop of Abitinae in North Africa. Exiled by the Arian Vandal king Genseric in 440, he fled to Naples, Italy, where he founded a monastery."

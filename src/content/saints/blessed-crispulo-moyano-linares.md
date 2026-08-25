@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Crispulo Moyano Linares"
 honorific: Blessed
 summary: "Priest. Member of the Carmelites of the Ancient Observance. Martyred in the Spanish Civil War."

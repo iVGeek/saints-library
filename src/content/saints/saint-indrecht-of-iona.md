@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Indrecht of Iona"
 honorific: Saint
 summary: "Monk. Abbot of Iona Abbey. Martyred by Saxons while travelling to Rome, Italy."

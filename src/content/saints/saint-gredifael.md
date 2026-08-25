@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Gredifael of Wales"
 honorific: Saint
 summary: "Friend and co-worker with Saint Paternus of Wales. Abbot of Whitland abbey, Dyfed, Wales."

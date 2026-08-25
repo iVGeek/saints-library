@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Hadelin of Lobbes"
 honorific: Saint
 summary: "Benedictine monk. Spiritual student of Saint Landelin of Crespin at Lobbes, Belgium. Friend of Saint Domitian of Lobbes."

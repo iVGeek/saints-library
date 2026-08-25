@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Martin of Saujon"
 honorific: Saint
 summary: "Sixth century priest, monk and abbot in Saujon, Saintes, France."

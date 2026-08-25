@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Frithbert of Hexham"
 honorific: Saint
 summary: "Priest. Bishop of Hexham, England for 34 years. Administered the diocese of Lindisfarne while Bishop Cynewulf was in prison."

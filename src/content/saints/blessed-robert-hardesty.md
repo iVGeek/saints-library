@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Robert Hardesty"
 honorific: Blessed
 summary: "Layman, martyred for the crime of hiding and supporting the work of Blessed William Spenser."

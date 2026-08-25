@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Mercurius and Companions"
 honorific: Saint
 summary: "A group of Roman soldiers was ordered to escort a body of Christian prisoners to Lentini, Sicily where they were to be executed for their faith. The soldiers were so impressed by the prisoners that they converted to Christianity. The soldiers and prisoners were all martyred toget"

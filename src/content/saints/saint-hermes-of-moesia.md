@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Hermes of Moesia"
 honorific: Saint
 summary: "Exorcist. Martyr. No other information has survived."

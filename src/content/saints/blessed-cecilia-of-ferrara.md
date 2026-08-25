@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Cecilia of Ferrara"
 honorific: Blessed
 summary: "Married to a very pious young man, each was devoted to the Church and spiritual growth. After eight years together they each entered religious life, joining the Dominicans, Cecilia at the monastery of Saint Catherine the Martyr in Ferrara, Italy where she was known for her person"

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Joan Torrents Figueras"
 honorific: Blessed
 summary: "Member of the Claretians, making his profession on 8 December 1889. Ordained a priest on 3 April 1897. Martyred in the Spanish Civil War."

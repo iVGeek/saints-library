@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Dionisio Senmartin"
 honorific: Blessed
 summary: "Mercedarian friar known for devotion to praying for souls in Purgatory. Ransomed 216 Christians from slavery in Muslim Tunis, Tunisia in 1279, and preacher the faith throughout the region as they travelled."

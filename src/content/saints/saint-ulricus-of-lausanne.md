@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Ulricus of Lausanne"
 honorific: Saint
 title: "Bishop"

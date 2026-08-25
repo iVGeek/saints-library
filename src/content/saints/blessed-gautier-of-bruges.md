@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Gautier of Bruges"
 honorific: Blessed
 summary: "Member of the Franciscans, joining at the convent of Bruges, Belgium c.1240. Studied in Paris, France where he was the spiritual student of Saint Bonaventure of Bagnoregio. He taught theology and served as regent master in Paris from 1267 to 1269. Franciscan provincial minister f"

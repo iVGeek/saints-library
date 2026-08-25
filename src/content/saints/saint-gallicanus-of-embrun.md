@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Gallicanus of Embrun"
 honorific: Saint
 summary: "Fifth bishop of Embrun, France."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Piperion the Martyr"
 honorific: Saint
 summary: "One of a group of 22 martyrs who died together."

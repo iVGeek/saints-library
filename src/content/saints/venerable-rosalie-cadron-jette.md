@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Venerable Rosalie Cadron-Jetté"
 honorific: Venerable
 summary: "Founded the Institute of the Misericordia Sisters."

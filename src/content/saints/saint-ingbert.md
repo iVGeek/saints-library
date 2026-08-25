@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Ingbert"
 honorific: Saint
 title: "Hermit"

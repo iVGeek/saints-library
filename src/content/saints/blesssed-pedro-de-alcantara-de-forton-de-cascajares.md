@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blesssed Pedro de Alcantara de Forton de Cascajares"
 honorific: Venerable
 summary: "Discalced Carmelite priest. Martyred in the Spanish Civil War."

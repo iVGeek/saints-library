@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Antoni Bosch Verdura"
 honorific: Blessed
 summary: "Priest. Member of the Discalced Carmelites. Martyred in the Spanish Civil War."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Thomas of Dover"
 honorific: Saint
 summary: "A 13th century monk known for his prayerful and austere life. Murdered by pirates for refusing to give them the altar vessels of the church he served. Martyr."

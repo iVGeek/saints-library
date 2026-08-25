@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Obdulia"
 honorific: Saint
 summary: "Nun. Her story has been lost, but she may be the same as Saint Odilia."

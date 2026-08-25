@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Lucia Yun Un-hye"
 honorific: Blessed
 summary: "Married lay woman martyr in the apostolic vicariate of Korea."

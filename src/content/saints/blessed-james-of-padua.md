@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed James of Padua"
 honorific: Blessed
 summary: "Franciscan. Missionary. Martyred with Blessed Thomas of Tolentino, Blessed Peter of Siena, and Blessed Demetrius of Triflis while en route to evangelize Ceylon and China."

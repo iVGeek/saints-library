@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Bosone of Chiaravalle"
 honorific: Blessed
 summary: "Born to the Italian nobility, he was one of the first brought to the monastic life by Saint Bernard of Clairvaux."

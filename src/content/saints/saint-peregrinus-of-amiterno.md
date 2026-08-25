@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Peregrinus of Amiterno"
 honorific: Saint
 summary: "Bishop of Amiterno (modern San Vittorino, Italy). Murdered by Arian Lombards for asking for mercy for a condemned prisoner. Martyr."

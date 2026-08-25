@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Florentin of Arles"
 honorific: Saint
 summary: "First abbot of Holy Apostles Abbey in Arles, France."

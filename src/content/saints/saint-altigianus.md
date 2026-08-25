@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Altigianus"
 honorific: Saint
 summary: "Benedictine monk martyred by Saracens."

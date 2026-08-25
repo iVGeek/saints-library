@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Venerable Adolfo Barberis"
 honorific: Venerable
 summary: "Priest in the diocese of Turin, Italy. Founded the Suore del Famulato Cristiano (Sisters of Christian Servanthood)."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Silvia of Constantinople"
 honorific: Saint
 summary: "Considered the most learned woman of her day. Fought against heresies."

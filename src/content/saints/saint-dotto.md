@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Dotto"
 honorific: Saint
 summary: "Sixth century abbot of a monastery in the Orkney Islands, Scotland."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Domninus of Rome"
 honorific: Saint
 summary: "Travelling preacher throughout Italy. Martyr."

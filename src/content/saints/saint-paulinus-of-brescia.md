@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Paulinus of Brescia"
 honorific: Saint
 summary: "Bishop of Brescia, Italy c.524."

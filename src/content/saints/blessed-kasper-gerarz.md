@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Kasper Gerarz"
 honorific: Blessed
 summary: "Premonstratensian monk. Canon of the monastery in Heylissem, Belgium. Spiritual director of the convent of Langwaden in Grevenbroich, Germany."

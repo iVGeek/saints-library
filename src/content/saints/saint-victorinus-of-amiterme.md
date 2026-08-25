@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Victorinus of Amiterme"
 honorific: Saint
 summary: "Sixth-century bishop of Amiterme, Italy (outskirts of Rome). Martyr."

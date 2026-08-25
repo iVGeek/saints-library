@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Israel of Limoges"
 honorific: Saint
 title: "Priest"

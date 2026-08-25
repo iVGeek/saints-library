@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint John of the Goths"
 honorific: Saint
 summary: "Bishop of the Goths in South Russia. Noted defender of religious images, opposing the iconoclasts. Driven from his see by invading Khazars, and never able to return."

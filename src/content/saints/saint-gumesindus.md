@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Gumesindus of Cordoba"
 honorific: Saint
 summary: "Priest. Martyred in the persecutions of Abderrahman II."

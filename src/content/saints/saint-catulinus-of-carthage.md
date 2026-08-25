@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Catulinus of Carthage"
 honorific: Saint
 summary: "Deacon martyred in the persecutions of Diocletian."

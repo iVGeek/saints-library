@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Hilary of Javols"
 honorific: Saint
 summary: "Sixth-century bishop of Javols, France."

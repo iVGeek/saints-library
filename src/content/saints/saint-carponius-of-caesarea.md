@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Carponius of Caesarea"
 honorific: Saint
 summary: "Brother of Saint Evaristus of Caesarea, Saint Priscianus of Caesarea and Saint Fortunata of Caesarea. Martyred in the persecutions of Diocletian."

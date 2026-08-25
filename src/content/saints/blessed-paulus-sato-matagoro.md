@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Paulus Sato Matagoro"
 honorific: Blessed
 summary: "Married layman in the diocese of Niigata, Japan. Brother of Blessed Alexius Sato Seisuke. Martyr."

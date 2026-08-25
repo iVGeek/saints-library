@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Francesc Maria de Paula Sánchez Solé"
 honorific: Blessed
 summary: "Benedictine monk in the Subiaco Congregation. Martyred in the Spanish Civil War."

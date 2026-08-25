@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Vulflagius of Abbeville"
 honorific: Saint
 summary: "Priest who lived as a hermit near Abbeville, France. Greatly venerated in Montreuil-sur-Mer, France."

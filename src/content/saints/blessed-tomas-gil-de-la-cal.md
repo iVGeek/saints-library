@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Tomás Gil de La Cal"
 honorific: Blessed
 summary: "Postulant in the Salesians of Don Bosco. Martyred in the Spanish Civil War."

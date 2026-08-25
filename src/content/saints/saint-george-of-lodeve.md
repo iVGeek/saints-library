@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint George of Lodève"
 honorific: Saint
 summary: "Benedictine monk at Saint-Foi-de-Conques, Rouergue. The monastery was destroyed by Norsemen in 862, and George fled to Vabres in the diocese of Rodez, France. In his later years he was elected bishop of Lodève, France."

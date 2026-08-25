@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Venerable María Josefa Recio Martín"
 honorific: Venerable
 summary: "Nun. Founded the Congregation of the Hospitaller Sisters of the Sacred Heart of Jesus."

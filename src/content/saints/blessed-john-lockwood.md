@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed John Lockwood"
 honorific: Blessed
 summary: "Studied for the priesthood in Rome, Italy during the persecution of Catholics in England. Ordained in 1597. Worked covertly in England until his arrest in 1642. Martyr."

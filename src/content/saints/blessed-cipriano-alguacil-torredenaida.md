@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Cipriano Alguacil Torredenaida"
 honorific: Blessed
 summary: "Dominican friar. Martyred in the Spanish Civil War."

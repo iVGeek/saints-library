@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Stracteus of Tivoli"
 honorific: Saint
 summary: "Martyred in the persecutions of Hadrian."

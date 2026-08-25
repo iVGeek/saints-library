@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Primianus of Ancona"
 honorific: Saint
 summary: "In 1376, a pious woman in Ancona, Italy, name Cecola, had a dream in which Saint Primianus appeared to her; he was dressed as a bishop and explained that he had been martyred for the faith over 1,000 years earlier, that his body had been taken from a pagan area to Ancona by sailo"

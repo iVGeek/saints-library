@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Martha of Kyoto"
 honorific: Blessed
 summary: "Daughter of Blessed Rufina of Kyoto. One of the Martyrs of Kyoto, murdered at the age of 4."

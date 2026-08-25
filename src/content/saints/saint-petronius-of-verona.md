@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Petronius of Verona"
 honorific: Saint
 summary: "Bishop of Verona, Italy. Noted for establishing ministries to the poor."

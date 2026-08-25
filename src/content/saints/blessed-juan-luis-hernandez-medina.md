@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Juan Luis Hernández Medina"
 honorific: Blessed
 summary: "Cleric in the Salesians of Don Bosco. Martyred in the Spanish Civil War."

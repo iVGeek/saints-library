@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Dioscorus of Kynopolis"
 honorific: Saint
 summary: "Lector in a church in Kynopolis, Egypt. Martyr."

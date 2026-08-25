@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Balbina the Younger"
 honorific: Blessed
 summary: "Granddaughter of Saint Clare of Assisi. Balbina joined the Poor Clares at the monastery of San Damiano. Helped found the Poor Clare monastery in Arezzo, Italy. Known for a life of Christian virtues and supernatural gifts."

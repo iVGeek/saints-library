@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Eusebius of Aschia"
 honorific: Saint
 summary: "Fifth century hermit in Aschia, Syria."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Primus of Cyzicus"
 honorific: Saint
 summary: "Soldier in the Roman army. Martyr."

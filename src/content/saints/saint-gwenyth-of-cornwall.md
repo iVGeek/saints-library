@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Gwenyth of Cornwall"
 honorific: Saint
 summary: "Sister of Saint Samson of York. Nun."

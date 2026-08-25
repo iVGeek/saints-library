@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Baralo of Antioch"
 honorific: Saint
 summary: "Nun. Martyr."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Herculanus the Soldier"
 honorific: Saint
 summary: "Second century imperial Roman soldier. Converted by Pope Saint Alexander I, and martyred soon after."

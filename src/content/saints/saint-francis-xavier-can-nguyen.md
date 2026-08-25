@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Francis Xavier Can Nguyen"
 honorific: Saint
 summary: "Layman. Catechist. Worked to help the Paris Foreign Mission Society. Arrested for his faith, he was offered the chance for freedom if he would renounce his faith; he declined. One of the Martyrs of Vietnam."

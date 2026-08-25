@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Victorius of Caesarea"
 honorific: Saint
 summary: "Martyr."

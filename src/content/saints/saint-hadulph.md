@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Hadulph"
 honorific: Saint
 summary: "Benedictine monk. Travelled, worked and martyred with Saint Boniface."

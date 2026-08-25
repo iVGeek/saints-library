@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Cottidus of Cappadocia"
 honorific: Saint
 summary: "Deacon. Martyr. No other information has survived."

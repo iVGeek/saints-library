@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Illuminatus"
 honorific: Blessed
 summary: "Franciscan monk; spiritual student of Saint Francis of Assisi."

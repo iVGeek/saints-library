@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Masculas of Africa"
 honorific: Saint
 summary: "High-born noble in the court of Arian Vandal king Genseric. Martyr."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Troiano of Saintes"
 honorific: Saint
 title: "Bishop"

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Theodore of Bologna"
 honorific: Saint
 summary: "Bishop of Bologna, Italy for 20 years."

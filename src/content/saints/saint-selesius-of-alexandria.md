@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Selesius of Alexandria"
 honorific: Saint
 summary: "Martyred in the persecutions of Diocletian."

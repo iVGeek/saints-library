@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Marcian of Tomis"
 honorific: Saint
 summary: "Martyr."

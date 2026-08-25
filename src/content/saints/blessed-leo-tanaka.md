@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Leo Tanaka"
 honorific: Blessed
 summary: "Layman catechist in the Archdiocese of Nagasaki, Japan. Martyr."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Michaël Himonoya"
 honorific: Blessed
 summary: "Married lay man. Father of Blessed Paul Himonoya. Convert. Member of the Lay Dominican tertiary. Ordered by authorities to renounce his faith; he refused. Martyr."

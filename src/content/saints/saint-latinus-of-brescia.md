@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Latinus of Brescia"
 honorific: Saint
 summary: "Spiritual student of Saint Viator of Bergamo. Third bishop of Brescia, Italy c.84 where he served for 30 years. Imprisoned, tortured and executed for his faith in the persecutions of Trajan. Martyr."

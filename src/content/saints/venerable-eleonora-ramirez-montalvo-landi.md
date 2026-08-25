@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Venerable Eleonora Ramírez Montalvo Landi"
 honorific: Venerable
 summary: "Married. Widow. Founder of the Minim Sisters Handmaids of the Holy Trinity."

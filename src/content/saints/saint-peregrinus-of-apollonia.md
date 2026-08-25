@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Peregrinus of Apollonia"
 honorific: Saint
 summary: "Christian who fled to a cave near Apollonia, Macedonia to escape persecution for his faith, but was caught and executed. Martyr."

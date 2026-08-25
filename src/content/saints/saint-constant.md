@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Constant"
 honorific: Saint
 summary: "Priest. Hermit at Lough Erne. Martyr."

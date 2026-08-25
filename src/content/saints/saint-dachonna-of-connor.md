@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Dachonna of Connor"
 honorific: Saint
 summary: "Fourth bishop of Connor, Ireland, serving in the early 8th century."

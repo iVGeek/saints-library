@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Gislain of Luxemburg"
 honorific: Saint
 summary: "Twelfth century forest hermit in Luxemburg who trusted so strongly to provide that he didn't even bother with shelter. Legend says that Gislain's reputation for holiness was that Saint Bernard sent Saint Acardo to visit the hermit and ask for his prayers for their new monastery i"

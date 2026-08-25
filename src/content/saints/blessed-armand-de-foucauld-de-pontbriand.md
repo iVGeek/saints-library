@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Armand de Foucauld de Pontbriand"
 honorific: Blessed
 summary: "Priest in the archdiocese of Arles, France. One of the Martyrs of September."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Pierre Brisse"
 honorific: Blessed
 summary: "Priest in the diocese of Beauvais, France. One of the Martyrs of September."

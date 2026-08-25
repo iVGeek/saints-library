@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Thecusa of Ancyra"
 honorific: Saint
 summary: "Nun martyred in the persecutions of Diocletian."

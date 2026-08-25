@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Mark of Antioch"
 honorific: Saint
 summary: "Layman shepherd. One of the Martyrs of Antioch."

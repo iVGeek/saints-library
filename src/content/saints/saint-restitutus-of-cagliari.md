@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Restitutus of Cagliari"
 honorific: Saint
 summary: "Early bishop of Cagliari, Sardinia, Italy. Martyr."

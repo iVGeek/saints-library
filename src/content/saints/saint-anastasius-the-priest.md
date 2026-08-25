@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Anastasius the Priest"
 honorific: Saint
 summary: "Friend and spiritual student of Saint Acacius. Priest. Papal legate. Imprisoned and exiled for failure to adopt the Monothelite heresy. Martyr."

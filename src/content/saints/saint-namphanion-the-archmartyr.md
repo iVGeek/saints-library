@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Namphanion the Archmartyr"
 honorific: Saint
 summary: "Martyred with several companions whose names have not come down to us. No other information has survived."

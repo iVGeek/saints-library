@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Euphemia Domitilla"
 honorific: Blessed
 summary: "Born to the nobility, daughter of Duke Przemislao of Racibórz, Silesia (in modern Poland). Dominican nun. Prioress of her house. Her Cause for Canonization has opened."

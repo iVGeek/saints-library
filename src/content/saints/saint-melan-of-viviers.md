@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Melan of Viviers"
 honorific: Saint
 title: "Bishop"

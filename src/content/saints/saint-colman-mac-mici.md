@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Colman mac Mici"
 honorific: Saint
 summary: "No details about him have survived."

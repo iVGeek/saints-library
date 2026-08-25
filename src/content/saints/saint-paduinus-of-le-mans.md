@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Paduinus of Le Mans"
 honorific: Saint
 summary: "Monk at Saint Vincent Abbey, Le Mans, France. First abbot of Saint Mary's Abbey, Le Mans."

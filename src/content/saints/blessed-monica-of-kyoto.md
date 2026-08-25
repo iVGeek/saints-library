@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Monica of Kyoto"
 honorific: Blessed
 summary: "Daughter of Blessed Maria of Kyoto. One of the Martyrs of Kyoto, Murdered at the age of 4."

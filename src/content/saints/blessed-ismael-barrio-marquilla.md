@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Ismael Barrio Marquilla"
 honorific: Blessed
 summary: "Salesian brother. Martyred in the Spanish Civil War."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Winnow of Cornwall"
 honorific: Saint
 summary: "Sixth century saint who lived in Cornwall. A church is dedicated to him, but no information about him has survived."

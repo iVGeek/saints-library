@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Felix of Rome"
 honorific: Saint
 summary: "Martyred in Rome, Italy. No other information has survived."

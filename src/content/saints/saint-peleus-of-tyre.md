@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Peleus of Tyre"
 honorific: Saint
 summary: "Bishop in Egypt. Martyred in the persecutions of Diocletian."

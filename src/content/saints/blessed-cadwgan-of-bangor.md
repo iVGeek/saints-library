@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Cadwgan of Bangor"
 honorific: Blessed
 summary: "Benedictine Cistercian monk. Abbot of Whitland monastery in Wales in the early 13th century. Chosen bishop of Bangor, Gwynedd (in modern Wales) on 12 June 1215. He served for over 20 years, abdicating on 1 March 1236 to retire to life as a Cistercian monk in the Dore monastery in"

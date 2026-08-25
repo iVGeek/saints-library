@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Ethnea"
 honorific: Saint
 summary: "Nun. Sister of Feidelma, mentioned in the “Acts” of Saint Patrick."

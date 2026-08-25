@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Dositheus of Egypt"
 honorific: Saint
 summary: "Sixth-century desert hermit whose deep prayer life led to deep personal holiness."

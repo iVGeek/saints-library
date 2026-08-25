@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Ithier of Nevers"
 honorific: Saint
 summary: "Physician. Taught medicine. Treated the poor for free. Chosen bishop of Nevers, France, he became a priest in order to be consecrated."

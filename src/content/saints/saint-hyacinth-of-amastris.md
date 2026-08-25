@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Hyacinth of Amastris"
 honorific: Saint
 summary: "Christian who cut down a tree dedicated to a pagan god. Martyr."

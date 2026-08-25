@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Felicita of Capua"
 honorific: Saint
 summary: "Martyred in the persecutions of Decius."

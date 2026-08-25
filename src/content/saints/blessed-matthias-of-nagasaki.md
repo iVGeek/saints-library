@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Matthias of Nagasaki"
 honorific: Blessed
 summary: "Layman catechism in the archdiocese of Nagasaki, Japan. Martyr."

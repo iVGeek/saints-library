@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Martyrs of Rhaitu"
 honorific: Saint
 summary: "43 monks martyred by Blemmyes."

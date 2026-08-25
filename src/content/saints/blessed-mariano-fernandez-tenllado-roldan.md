@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Mariano Fernández-Tenllado Roldán"
 honorific: Blessed
 summary: "Priest of the diocese of Córdoba, Spain, serving in the Posadas community. Martyred in the Spanish Civil War."

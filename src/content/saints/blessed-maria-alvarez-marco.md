@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Maria Alvarez Marco"
 honorific: Blessed
 summary: "Married lay woman in 15th century Spain, the mother of at least two daughters. Widowed, she joined the Secular Franciscans, and spent her remaining 22 years in pious seclusion, living with her daughters Marina and Caterina in a house near the cathedral in Albacete, Spain."

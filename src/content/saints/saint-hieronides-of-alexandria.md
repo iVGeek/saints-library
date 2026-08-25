@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Hieronides of Alexandria"
 honorific: Saint
 summary: "Aged deacon. Martyred in the persecutions of Diocletian."

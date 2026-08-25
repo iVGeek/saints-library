@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Bodard of Poitiers"
 honorific: Blessed
 summary: "Hermit near Poitiers, France."

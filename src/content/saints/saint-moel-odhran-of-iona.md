@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Moel-Odhran of Iona"
 honorific: Saint
 summary: "7th century monk of Iona, Scotland."

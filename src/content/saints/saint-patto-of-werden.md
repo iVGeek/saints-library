@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Patto of Werden"
 honorific: Saint
 summary: "Abbot of a monastery in Saxony. Bishop of Werden, Germany."

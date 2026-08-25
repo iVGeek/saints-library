@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Dionysius of Bologna"
 honorific: Saint
 summary: "Martyr, date and location unknown."

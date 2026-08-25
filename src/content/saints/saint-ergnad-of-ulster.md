@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Ergnad of Ulster"
 honorific: Saint
 summary: "Nun who received the veil from Saint Patrick."

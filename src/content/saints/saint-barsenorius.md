@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Barsenorius"
 honorific: Saint
 summary: "Monk. Spiritual student of Saint Leutfridus. Abbot of La-Croix-Saint-Leuffroi Abbey in France."

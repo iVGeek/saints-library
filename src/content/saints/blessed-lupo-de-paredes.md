@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Lupo de Paredes"
 honorific: Blessed
 summary: "Joined the Mercedarians at age 34, and served for the next 80 (!) years at the convent of Santa Maria in Logrono, Spain."

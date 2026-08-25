@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Raynerius Inclusus"
 honorific: Saint
 title: "Hermit"

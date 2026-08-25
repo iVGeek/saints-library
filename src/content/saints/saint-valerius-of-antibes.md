@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Valerius of Antibes"
 honorific: Saint
 title: "Bishop"

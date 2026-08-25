@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Rogellus of Cordoba"
 honorific: Saint
 summary: "Monk in Spain. After preaching against Islam, he and his student, Saint Servus Dei, were murdered by Moors. Martyr."

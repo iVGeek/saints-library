@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Nestor of Thessalonica"
 honorific: Saint
 summary: "Young man martyred in the persecutions of Diocletian. There is a legend of him being involved in gladatorial matches as a way to prove something about his faith, but it's apparently a late addition."

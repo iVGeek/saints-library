@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Drausinus of Soissons"
 honorific: Saint
 summary: "Bishop of Soissons, France. Established several foundations, even getting the tyrant Ebroin, who cared nothing for the Church, to help establish a chapel for sick nuns. Mediaeval legend says that to spend the night at Drausinus' tomb made one invincible; whole platoons of soldier"

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Nicephorus of Tiberiopolis"
 honorific: Saint
 summary: "Priest. Martyred in the persecutions of Julian the Apostate. No other information has survived."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Venerable James Harrison"
 honorific: Venerable
 summary: "James studied at the English College at Reims, France, and was ordained a priest there in September 1583. In 1584 he returned from minister to covert Catholics during the persecutions of Queen Elizabeth I. He was arrested in Yorkshire in 1602 at the home of Venerable Anthony Bate"

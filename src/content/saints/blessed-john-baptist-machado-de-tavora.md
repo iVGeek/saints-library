@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed John Baptist Machado de Tavora"
 honorific: Blessed
 summary: "Jesuit at Coimbra, Portugal. Missionary to Japan in 1609. One of the Franciscan Martyrs of Japan."

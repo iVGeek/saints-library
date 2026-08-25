@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Nicolás Alberich Lluch"
 honorific: Blessed
 summary: "Member of the Salesians. Martyred in the Spanish Civil War."

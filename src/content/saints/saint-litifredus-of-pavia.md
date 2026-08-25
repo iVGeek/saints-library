@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Litifredus of Pavia"
 honorific: Saint
 title: "Bishop"

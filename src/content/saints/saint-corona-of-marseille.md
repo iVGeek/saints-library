@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Corona of Marseille"
 honorific: Saint
 summary: "Martyr."

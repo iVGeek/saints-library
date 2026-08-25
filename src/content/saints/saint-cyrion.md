@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Cyrion"
 honorific: Saint
 summary: "Soldier. One of the Forty Armenian Martyrs killed in the persecutions of Licinius."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Venerable María Séiquer Gayá"
 honorific: Venerable
 summary: "Founded the Apostolic Sisters of Christ Crucified."

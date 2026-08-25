@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Valens of Jerusalem"
 honorific: Saint
 summary: "Deacon in Jerusalem. Imprisoned and sentenced to forced labour in the mines of Cilicia. Martyr."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Antonia of Cirta"
 honorific: Saint
 summary: "Martyr."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Eberwin of Helfenstein"
 honorific: Blessed
 summary: "Augustinian canon. In 1121 he and several companions took over the abandoned Benedictine monastery of Springiersbach in Steinfeld, Germany. In 1130 they joined the Premonstratensians, and Eberwin served as provost. Fought heretical teaching throughout the region. Friend of Saint"

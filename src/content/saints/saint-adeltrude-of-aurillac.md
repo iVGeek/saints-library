@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Adeltrude of Aurillac"
 honorific: Saint
 summary: "A countess, married to Count Gerard of Aurillac. Mother of Saint Gerald of Aurillac."

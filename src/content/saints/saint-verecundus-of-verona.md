@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Verecundus of Verona"
 honorific: Saint
 summary: "Bishop of Verona, Italy."

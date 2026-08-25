@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Phileas"
 honorific: Saint
 summary: "Rural bishop in Egypt. Martyred in the persecutions of Maximian Galerius."

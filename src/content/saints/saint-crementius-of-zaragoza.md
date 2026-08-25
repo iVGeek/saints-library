@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Crementius of Zaragoza"
 honorific: Saint
 summary: "Martyr."

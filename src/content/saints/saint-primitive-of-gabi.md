@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Primitive of Gabi"
 honorific: Saint
 summary: "Martyr."

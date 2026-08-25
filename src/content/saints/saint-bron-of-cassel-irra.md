@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Bron of Cassel-Irra"
 honorific: Saint
 summary: "Spiritual student of Saint Patrick. Bishop of Cassel-Irra, Ireland."

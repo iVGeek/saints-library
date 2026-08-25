@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Habet-Deus"
 honorific: Saint
 summary: "Bishop of Luna, Tuscany, an Italian city which exists now only in ruins. Martyred by Arian Vandals."

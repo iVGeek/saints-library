@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Lorenzo Ilarregui Goñi"
 honorific: Blessed
 summary: "Franciscan Capuchin monk. Martyred in the Spanish Civil War."

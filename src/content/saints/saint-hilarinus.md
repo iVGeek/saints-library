@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Hilarinus"
 honorific: Saint
 summary: "Benedictine monk martyred by Saracens."

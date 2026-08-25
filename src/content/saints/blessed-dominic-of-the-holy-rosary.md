@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Dominic of the Holy Rosary"
 honorific: Blessed
 summary: "Dominican novice. Marytr."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Peter of Anea"
 honorific: Saint
 summary: "Martyr. No other information as survived."

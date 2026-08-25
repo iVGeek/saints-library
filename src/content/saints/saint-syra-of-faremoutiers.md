@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Syra of Faremoutiers"
 honorific: Saint
 summary: "Nun at Faremoutiers, France. Abbess of Châlons-sur-Marne, France."

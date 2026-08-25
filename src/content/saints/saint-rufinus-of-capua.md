@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Rufinus of Capua"
 honorific: Saint
 summary: "Fifth-century bishop of Capua, Italy."

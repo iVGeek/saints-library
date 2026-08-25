@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Lluis Fontdecava Quiroga"
 honorific: Blessed
 summary: "Carmelites of the Ancient Observance friar. Martyred in the Spanish Civil War."

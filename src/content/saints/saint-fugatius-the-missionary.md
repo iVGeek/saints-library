@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Fugatius the Missionary"
 honorific: Saint
 summary: "Second century missionary from Rome, Italy to the British Isles, sent by Pope Saint Eleutherius at the request of King Lucius. Apparently worked in south Wales to judge by the churches dedicated to him."

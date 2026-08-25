@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Rathard of Diessen"
 honorific: Saint
 title: "Priest"

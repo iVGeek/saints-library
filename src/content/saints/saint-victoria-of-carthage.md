@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Victoria of Carthage"
 honorific: Saint
 summary: "During the persecutions of Diocletian, Victoria refused a marriage in order to devote herself to religious life. Exposed as a Christian, she was executed. Martyr."

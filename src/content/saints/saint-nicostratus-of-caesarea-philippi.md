@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Nicostratus of Caesarea Philippi"
 honorific: Saint
 summary: "Soldier. Tribune in the imperial Roman army. Martyred with other soldiers."

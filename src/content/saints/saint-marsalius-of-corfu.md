@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Marsalius of Corfu"
 honorific: Saint
 summary: "A criminal, he was converted by Saint Jason and Saint Sosipater while in prison with them. Killed for his new faith, he is one of the Martyrs of Corfu."

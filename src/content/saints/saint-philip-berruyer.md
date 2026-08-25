@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Philip Berruyer"
 honorific: Saint
 title: "Bishop"

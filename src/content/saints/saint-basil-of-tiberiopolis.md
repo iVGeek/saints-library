@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Basil of Tiberiopolis"
 honorific: Saint
 summary: "Deacon. Martyred in the persecutions of Julian the Apostate. No other information has survived."

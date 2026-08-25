@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Venerable Giovanna Meneghini"
 honorific: Venerable
 summary: "Founded the Ursulines of the Sacred Heart of Mary."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Donatus of Libya"
 honorific: Saint
 summary: "Bishop in Libya."

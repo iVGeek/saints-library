@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Revocatus of Smyrna"
 honorific: Saint
 summary: "Deacon. Martyr. No other information has suvived."

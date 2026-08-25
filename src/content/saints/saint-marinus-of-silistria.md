@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Marinus of Silistria"
 honorific: Saint
 summary: "Martyr."

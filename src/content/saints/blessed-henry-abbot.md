@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Henry Abbot"
 honorific: Blessed
 summary: "Layman. Convert. He was approached by a Protestant minister who claimed to be searching for a priest so he could reconcile with the Church; Henry arranged a meeting with a priest who was in hiding due to state persecution of Catholics, the minister betrayed them to the authoritie"

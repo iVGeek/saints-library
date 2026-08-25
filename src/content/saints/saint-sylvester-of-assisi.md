@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Sylvester of Assisi"
 honorific: Blessed
 title: "Priest"

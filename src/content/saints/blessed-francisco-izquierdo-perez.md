@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Francisco Izquierdo Pérez"
 honorific: Blessed
 summary: "Layman of the diocese of Córdoba Martyred in the Spanish Civil War."

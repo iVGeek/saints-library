@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed François Dumasrambaud de Calandelle"
 honorific: Blessed
 summary: "Priest of the diocese of Limoges, France. Vicar of Ahun, France. Professor in the Royal College of Limoges. Chosen chaplain of the diocese of Limoges and assistant to the bishop in that cleric's civil responsibilities. One of the Martyrs of September."

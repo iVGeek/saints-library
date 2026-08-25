@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Antonia of Constantinople"
 honorific: Saint
 summary: "Christian maiden who was tortured and martyred in the persecutions of Diocletian and Galerius."

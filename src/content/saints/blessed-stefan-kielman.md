@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Stefan Kielman"
 honorific: Blessed
 summary: "Premonstratensian monk in 1641. Canon of the Strahov monastery outside Prague, Bohemia (modern Czech Republic). Ordained in 1647. Prior of his monastery. Spiritual director and confessor to the sisters in the Doksany convent."

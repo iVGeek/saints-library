@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Trea of Ardtree"
 honorific: Saint
 summary: "Daughter of the chieftain Cairthenn Bec mac Eircc and Mugain. An adult convert, she and her parents were brought to the faith by Saint Patrick. Trea became a nun, receiving the veil from Patrick. Anchoress at Ardtree (formerly Ardtrea and Ard Tréa before that) in Derry, Ireland."

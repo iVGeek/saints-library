@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Fechno"
 honorific: Saint
 summary: "Spiritual student of Saint Columbanus. Went with Columbanus to evangelize in Scotland."

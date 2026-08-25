@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Daniel of Schönau"
 honorific: Blessed
 summary: "Cistercian monk at Himmerod Abbey in Großlittgen, Germany. Prior of the house. Abbot of the Schönau Abbey in Heidelberg, Germany."

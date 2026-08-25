@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Gerard of Clairvaux"
 honorific: Blessed
 summary: "Brother of Saint Bernard of Clairvaux. Soldier. When wounded in combat at the siege of Grancy, Gerard resolved to become a monk. Benedictine Cistercian monk at Citeaux. Worked with Saint Bernard at Clairvaux, and became his closest confidant. Cellarer."

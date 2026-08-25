@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Niceta"
 honorific: Saint
 summary: "Sister of Saint Aquilina. Third-century convert, brought to the faith by Saint Christopher. Martyr."

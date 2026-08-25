@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Isidoro Martínez Izquierdo"
 honorific: Blessed
 summary: "Novice in the Hospitallers of Saint John of God. Martyred in the Spanish Civil War."

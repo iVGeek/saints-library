@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Enogatus of Aleth"
 honorific: Saint
 summary: "Monk. Abbot of Saint Meen Abbey. Bishop of Aleth, Brittany, France."

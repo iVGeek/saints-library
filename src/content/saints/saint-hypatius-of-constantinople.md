@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Hypatius of Constantinople"
 honorific: Saint
 summary: "Monk. Priest. Bishop. Imprisoned, tortured and martyred for the defense of icons in the iconoclast persecutions of emperor Leo the Isaurian."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Domitian the Deacon"
 honorific: Saint
 summary: "Deacon. Martyr. No other information has survived."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Guimérra of Carcassone"
 honorific: Saint
 title: "Bishop"

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Paul of Damascus"
 honorific: Saint
 summary: "Married to Saint Tatta of Damascus; father of Saint Eugenia, Saint Maximus, Saint Rufus and Saint . Tortured to death in a persecution by Roman authorities."

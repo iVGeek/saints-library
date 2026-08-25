@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Rufinus the Martyr"
 honorific: Saint
 summary: "One of a group of 13 martyrs in North Africa."

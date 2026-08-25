@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Odolric of Lyon"
 honorific: Blessed
 summary: "Canon and archdeacon of Langres, France. Archbishop of Lyon, France in 1041 at the request of Emperor Henry III of Germany. Though he brought several years of stability and return to regular ecclesastical matters to the diocese, he was murdered by a group who, for political reaso"

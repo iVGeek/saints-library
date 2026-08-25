@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Theodore of Antioch"
 honorific: Saint
 died: "martyred in Antioch"

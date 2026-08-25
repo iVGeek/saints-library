@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Frodulphus"
 honorific: Saint
 summary: "Spiritual student of Saint Medericus. Monk at Saint Martin's Abbey in Autun, France. Fled to Barjon, France to escape invading Saracens."

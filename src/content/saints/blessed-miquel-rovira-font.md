@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Miquel Rovira Font"
 honorific: Blessed
 summary: "Member of the Claretians, professed on 2 April 1881. Martyred in the Spanish Civil War."

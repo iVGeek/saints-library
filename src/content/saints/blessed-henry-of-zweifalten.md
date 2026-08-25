@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Henry of Zweifalten"
 honorific: Blessed
 summary: "Benedictine monk at Zwiefalten, Swabia (in modern Germany). Prior of Ochsenhausen, Swabia."

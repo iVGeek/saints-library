@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Pedro Meca Moreno"
 honorific: Blessed
 summary: "Ordained a priest of the diocese of Almería, Spain on 9 June 1906. Parish priest of Sierro. Martyred in the Spanish Civil War."

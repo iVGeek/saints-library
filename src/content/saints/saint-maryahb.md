@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Maryáhb"
 honorific: Saint
 summary: "Priest. Martyred in the persecutions of Shapur II."

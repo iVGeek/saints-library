@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Dominanda of Rome"
 honorific: Saint
 summary: "One of a group of Roman women martyred in an  early persecution, date unknown."

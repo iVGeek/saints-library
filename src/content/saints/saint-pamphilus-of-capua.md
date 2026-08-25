@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Pamphilus of Capua"
 honorific: Saint
 summary: "Bishop of Capua, Italy."

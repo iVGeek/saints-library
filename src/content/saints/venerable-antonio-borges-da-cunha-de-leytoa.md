@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Venerable António Borges da Cunha de Leytoa"
 honorific: Venerable
 summary: "Priest. Member of the Canons Regular of Saint John the Evangelist."

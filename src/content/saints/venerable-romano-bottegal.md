@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Venerable Romano Bottegal"
 honorific: Venerable
 summary: "Trappist priest."

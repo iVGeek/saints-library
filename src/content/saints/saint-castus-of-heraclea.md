@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Castus of Heraclea"
 honorific: Saint
 summary: "Martyr."

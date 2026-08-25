@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Claudia Weinhardt"
 honorific: Blessed
 summary: "Poor Clare nun in Brixon, Italy."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Rumon of Audierne"
 honorific: Saint
 summary: "May have been the son of Saint Thumette. Hermit in the region of Audierne, France."

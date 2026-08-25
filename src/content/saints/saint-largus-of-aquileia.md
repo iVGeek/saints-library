@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Largus of Aquileia"
 honorific: Saint
 summary: "Christian lay man in Aquileia, Italy. Martyred in the persecutions of Numerian."

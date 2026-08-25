@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Edbert of Lindisfarne"
 honorific: Saint
 summary: "Monk of Lindisfarne Abbey. Noted for his personal sanctity, his extensive Bible knowledge, and his charity to the poor; he annually gave away a tenth of his goods and property. Bishop of Lindisfarne, England for eleven years; successor to Saint Cuthbert. Even as bishop he would m"

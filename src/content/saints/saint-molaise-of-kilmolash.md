@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Molaise of Kilmolash"
 honorific: Saint
 summary: "Priest in Kilmolash, Ireland who helped convert the people in the Inishlounaght region."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Paganus"
 honorific: Blessed
 summary: "Benedictine monk in Sicily. Hermit."

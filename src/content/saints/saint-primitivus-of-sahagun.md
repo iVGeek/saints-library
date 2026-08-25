@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Primitivus of Sahagun"
 honorific: Saint
 summary: "Martyr."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Agnofleta"
 honorific: Saint
 summary: "Seventh century nun. Friend of Saint Longis."

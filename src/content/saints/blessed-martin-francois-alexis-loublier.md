@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Martin-François-Alexis Loublier"
 honorific: Blessed
 summary: "Priest of the diocese of Sées, France. One of the Martyrs of September."

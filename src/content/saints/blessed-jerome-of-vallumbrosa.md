@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Jerome of Vallumbrosa"
 honorific: Blessed
 summary: "Benedictine Vallumbrosan monk. Hermit who lived 35 years on bread and water."

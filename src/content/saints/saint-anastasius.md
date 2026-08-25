@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Anastasius"
 honorific: Saint
 summary: "During an early persecution of Christians, Anastasius publicly proclaimed his faith. Martyr."

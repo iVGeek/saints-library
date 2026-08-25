@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Elias of Syracuse"
 honorific: Saint
 summary: "Monk. Bishop of Syracuse, Sicily."

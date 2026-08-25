@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Modesta of Nicomedia"
 honorific: Saint
 summary: "Daughter of Saint Patricia of Nicomedia and Saint Macedonius of Nicomedia. The whole family was martyred with several other Christians whose names have not come down to us."

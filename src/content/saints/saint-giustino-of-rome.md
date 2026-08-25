@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Giustino of Rome"
 honorific: Saint
 summary: "Born to the imperial Roman aristocracy, in his late teens Giustino was martyred in the persecutions of Nero."

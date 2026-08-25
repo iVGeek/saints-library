@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Peter Aymillo"
 honorific: Blessed
 summary: "Mercedarian friar. Priest. Bishop."

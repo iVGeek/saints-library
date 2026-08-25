@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Urban the Martyr"
 honorific: Saint
 summary: "Student of Saint Babylas. Martyr."

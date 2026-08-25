@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Sarbelius"
 honorific: Saint
 summary: "Brother of Saint Barbea. Pagan high priest at Edessa, Mesopotamia. Convert to Christianity. Tortured with red-hot irons, and martyred in the persecutions of Emperor Trajan."

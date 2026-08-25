@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Lassa of Membressa"
 honorific: Saint
 summary: "One of a group of 44 Christians martyred together."

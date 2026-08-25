@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Gabriel Albiol Plou"
 honorific: Blessed
 summary: "Salesian brother. Teacher. Martyred in the Spanish Civil War."

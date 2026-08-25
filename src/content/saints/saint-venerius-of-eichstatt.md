@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Venerius of Eichstätt"
 honorific: Saint
 summary: "Martyr."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed John Burke"
 honorific: Blessed
 summary: "Layman in the diocese of Limerick, Ireland. One of the Irish Martyrs."

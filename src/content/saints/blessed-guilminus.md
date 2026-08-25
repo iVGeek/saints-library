@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Guilminus"
 honorific: Blessed
 summary: "Benedictine monk at Thouace in Anjou, France. Friend and co-worker with Saint Burginus."

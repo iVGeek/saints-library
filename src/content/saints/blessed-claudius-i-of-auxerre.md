@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Claudius I of Auxerre"
 honorific: Blessed
 title: "Bishop"

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Colman of Kilmacduagh"
 honorific: Saint
 summary: "Son of a chieftain named Duagh. Hermit in Arranmore where he built two churches. His reputation for holiness attracted too much attention, so he retreated to the woods of Burren in 592 to live in isolation. In 610, on land donated by King Guaire of Connacht, he founded a monaster"

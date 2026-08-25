@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Sébastien Desbrielles"
 honorific: Blessed
 summary: "Layman in the archdiocese of Paris, France. One of the Martyrs of September."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Isaac of Cordoba"
 honorific: Saint
 summary: "Though Christian, his knowledge of Arabic allowed him to acquire the position of notary in the Moorish government of the day. He resigned to become a monk at Tabanos. Pulled into public religious debate at Cordoba, Spain, he denounced Mohammed, and was martyred."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Theotychus of Alexandria"
 honorific: Saint
 summary: "Layman. Having witnessed the courage of Christian martyrs, he became interested in the faint, and became a convert. Martyr."

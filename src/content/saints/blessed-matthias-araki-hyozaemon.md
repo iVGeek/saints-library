@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Matthias Araki Hyozaemon"
 honorific: Blessed
 summary: "Layman in the archdiocese of Nagasaki, Japan. Martyr."

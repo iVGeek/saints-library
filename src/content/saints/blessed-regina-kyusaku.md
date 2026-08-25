@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Regina Kyusaku"
 honorific: Blessed
 summary: "Daughter of Blessed Ioannes Kyusaku and Blessed Magdalena Kyusaku in the diocese of Kyoto, Japan. ONe of the Martyrs of Kyoto, murdered at the age of two."

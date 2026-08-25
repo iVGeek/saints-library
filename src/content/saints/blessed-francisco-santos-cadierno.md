@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Francisco Santos Cadierno"
 honorific: Blessed
 summary: "Francisco joined the Dominicans on 30 September 1930 in Almagro, Spain, making his profession on 7 May 1934. Martyred in the Spanish Civil War."

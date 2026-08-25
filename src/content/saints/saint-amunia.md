@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Amunia of San Millán"
 honorific: Saint
 title: "Hermit"

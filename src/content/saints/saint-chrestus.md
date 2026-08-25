@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Chrestus"
 honorific: Saint
 summary: "Martyr."

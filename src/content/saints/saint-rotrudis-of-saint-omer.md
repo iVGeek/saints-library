@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Rotrudis of Saint-Omer"
 honorific: Saint
 summary: "No information has survived."

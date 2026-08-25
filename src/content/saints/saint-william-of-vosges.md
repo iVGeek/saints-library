@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint William of Vosges"
 honorific: Saint
 summary: "Hermit at a monastery in the Vosges region of France."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Justa of Sardinia"
 honorific: Saint
 summary: "Martyred  in the persecutions of Hadrian."

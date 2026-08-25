@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Anianas of Chartres"
 honorific: Saint
 summary: "Fifth century bishop of Chartres, France."

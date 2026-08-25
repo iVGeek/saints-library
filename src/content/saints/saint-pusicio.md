@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Pusicio"
 honorific: Saint
 summary: "Courtier to Shapur II of Persia. Martyr."

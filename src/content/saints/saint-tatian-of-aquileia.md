@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Tatian of Aquileia"
 honorific: Saint
 summary: "Deacon in Aquileia, Italy. Martyred in the persecutions of Numerian."

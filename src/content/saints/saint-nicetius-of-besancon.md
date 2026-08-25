@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Nicetius of Besançon"
 honorific: Saint
 summary: "Bishop of Besançon, France. Friend of Saint Columbanus of Luxeuil."

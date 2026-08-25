@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Marcellianus of Thessalonica"
 honorific: Saint
 summary: "Two Christians with the same name who were martyred."

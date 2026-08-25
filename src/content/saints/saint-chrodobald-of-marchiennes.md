@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Chrodobald of Marchiennes"
 honorific: Saint
 summary: "Spiritual student of Saint Amandus of Belgium. Benedictine monk at the monastery of Elnone (modern Saint-Amand-les-Eaux) in Tournai, Flanders (in modern Belgium). Provost (administrative assistant to the abbot) of the abbey of Marchiennes near Douai, France. Legend says that Crod"

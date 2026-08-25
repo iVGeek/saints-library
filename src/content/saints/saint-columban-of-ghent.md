@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Columban of Ghent"
 honorific: Saint
 summary: "Hermit who lived in the cemetery of the abbey of Saint Bavo in Ghent, Belgium from 957 until his death."

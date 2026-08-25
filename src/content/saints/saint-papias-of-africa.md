@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Papias of Africa"
 honorific: Saint
 summary: "Martyr."

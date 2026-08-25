@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Audentius of Milan"
 honorific: Saint
 summary: "Born to the imperial Roman nobility, and a senator from Milan. When visited by Saint Julius of Novara on the island of Orta, he was so taken by Julius' obvious holiness that he gave him moral, spiritual and financial support in his evangelization work."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Bernold of Ottobeuren"
 honorific: Saint
 summary: "Benedictine monk and priest of Ottobeuren in Bavaria (in modern Germany) in the first half of the 11th century. Known in his day as a “wonder worker”."

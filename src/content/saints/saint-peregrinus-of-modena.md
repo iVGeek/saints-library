@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Peregrinus of Modena"
 honorific: Saint
 summary: "Celtic monk. Pilgrim to the Holy Lands. On his return, he spent the rest of his life as a hermit in the Apennines near Modena, Italy where he was known by the locals for his sanctity."

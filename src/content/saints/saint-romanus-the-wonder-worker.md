@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Romanus the Wonder Worker"
 honorific: Saint
 title: "Hermit"

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Quadratus of Herbipolis"
 honorific: Saint
 summary: "Imprisoned for several years and then martyred for his faith in the persecutions of Valerian."

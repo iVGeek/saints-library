@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Anthusa the Younger"
 honorific: Saint
 summary: "Martyr."

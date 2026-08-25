@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Victorinus of Como"
 honorific: Saint
 summary: "Bishop of Como, Italy. Fought Arianism."

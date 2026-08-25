@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Firminus of Gabales"
 honorific: Saint
 title: "Bishop"

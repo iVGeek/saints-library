@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Saturninus of Alexandria"
 honorific: Saint
 summary: "Marytred in the persecutions of Diocletian. Nothing else is known about him."

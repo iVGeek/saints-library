@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Nestita of Corinth"
 honorific: Saint
 summary: "Martyr."

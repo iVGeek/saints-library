@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Theodulus of Pamphylia"
 honorific: Saint
 summary: "Son of Saint Exsuperius and Saint Zoe; brother of Saint Cyriacus. Slave, owned by a rich devout worshipper of the ancient Roman gods in Attalia, Pamphylia. One pagan feast day, the family of slave saints was given meat to sacrifice to an idol. They refused, and the entire family"

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Ignatius of Africa"
 honorific: Saint
 summary: "Uncle of Saint Celerinus. Martyr. Saint Cyprian wrote about him."

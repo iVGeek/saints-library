@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Deodatus of Lagny"
 honorific: Saint
 summary: "Eighth century monk at Lagny, France."

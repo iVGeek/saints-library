@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Vincent of Léon"
 honorific: Saint
 summary: "Benedictine monk. Abbot of the monastery of Saint Claudius, Léon, Spain. Martyred by Arian Visigoths."

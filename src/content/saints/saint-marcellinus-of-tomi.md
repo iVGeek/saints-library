@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Marcellinus of Tomi"
 honorific: Saint
 summary: "Brother of Saint Argeus and Saint Narcissus. Young soldier in the army of Emperor Licinius. Martyred with his brothers."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Fionnchan of Druim-Eanaigh"
 honorific: Saint
 summary: "6th century bishop of Druim-Eanaigh, Ireland."

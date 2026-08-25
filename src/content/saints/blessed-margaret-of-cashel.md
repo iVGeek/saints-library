@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Margaret of Cashel"
 honorific: Blessed
 summary: "Lay woman in the diocese of Cashel, Ireland. One of the Irish Martyrs."

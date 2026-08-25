@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Gundisalvus"
 honorific: Saint
 summary: "Cistercian Benedictine monk. First prior of the Cistercian abbey at Las Junias, Portugal in 1135."

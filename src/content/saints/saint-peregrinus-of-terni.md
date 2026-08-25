@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Peregrinus of Terni"
 honorific: Saint
 summary: "Bishop of Terni, Italy, and founder of its cathedral."

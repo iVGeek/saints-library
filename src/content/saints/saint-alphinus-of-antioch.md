@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Alphinus of Antioch"
 honorific: Saint
 summary: "Layman. One of the Martyrs of Antioch."

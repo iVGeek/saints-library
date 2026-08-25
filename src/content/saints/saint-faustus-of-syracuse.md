@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Faustus of Syracuse"
 honorific: Saint
 summary: "Abbot of Santa Lucia monastery in Syracuse, Sicily. Teacher of Saint Zosimus of Syracuse."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Silvinus of Cremona"
 honorific: Saint
 title: "Bishop"

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Drogo of Baume"
 honorific: Blessed
 summary: "After leading a worldly and dissolute life, Drogo became a Benedictine monk at the abbeys of Fleury-sur-Loire and Baume-les-Messieurs in France. Noted for his piety. Around 950, he received a vision of Saint Benedict of Nursia, confirming his conversion to religious life."

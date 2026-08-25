@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Eugenio Andrés Amo"
 honorific: Blessed
 summary: "Dominican friar. Martyred in the Spanish Civil War."

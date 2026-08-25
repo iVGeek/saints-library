@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Martinô Tho"
 honorific: Venerable
 summary: "Layman martyr."

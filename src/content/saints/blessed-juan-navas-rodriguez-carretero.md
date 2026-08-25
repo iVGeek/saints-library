@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Juan Navas Rodríguez-Carretero"
 honorific: Blessed
 summary: "Priest of the diocese of Córdoba, Spain, serving in the Palma del Río community. Martyred in the Spanish Civil War."

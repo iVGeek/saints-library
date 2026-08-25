@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Caterina della Colonna"
 honorific: Blessed
 summary: "Poor Clare nun, professed at the Santa Chiara of Belalcázar convent in Cordoba, Spain where she served as novice mistress for many years."

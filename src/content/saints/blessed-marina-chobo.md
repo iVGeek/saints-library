@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Marina Chobo"
 honorific: Blessed
 summary: "Young lay woman in the diocese of Niigata, Japan. Daughter of Blessed Maria Ito. Martyr."

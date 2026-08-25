@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Isidore of Antioch"
 honorific: Saint
 summary: "Bishop of Zaragoza, Spain. Martyred, possibly by Arians."

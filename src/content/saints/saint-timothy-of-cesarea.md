@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Timothy of Cesarea"
 honorific: Saint
 summary: "Martyred in the persecutions of Maximian."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Casto of Teano"
 honorific: Saint
 summary: "Bishop of Teano, Italy."

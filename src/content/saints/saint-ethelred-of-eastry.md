@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Ethelred of Eastry"
 honorific: Saint
 summary: "Great-grandson of Saint Ethelbert of Kent. Martyr."

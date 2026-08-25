@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Martín Donamaría Valencia"
 honorific: Blessed
 summary: "Member of the Benedictine Solesmes Congregation. Martyred in the Spanish Civil War."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Tetricus of Auxerre"
 honorific: Saint
 summary: "Abbot of Saint Germanus Abbey, Auxerre, France. Bishop of Auxerre by popular acclamation."

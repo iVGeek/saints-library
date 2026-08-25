@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Aper of Sens"
 honorific: Saint
 summary: "First priest in 7th century LaTerrasse, diocese of Grenoble, France. After years of bickering among his parishioners and slander from every corner, he retired to live as a hermit at LaChambre, diocese of Saint-Jean-de-Maurienne, France. Built a cell for private prayers, and a nur"

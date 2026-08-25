@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Schotin"
 honorific: Saint
 summary: "Left his homeland to become a spiritual student of Saint David of Wales. Hermit on Mount Mairge in Ireland. Founded a boy's school in Kilkenny, Ireland."

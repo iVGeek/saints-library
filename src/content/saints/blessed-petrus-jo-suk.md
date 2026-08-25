@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Petrus Jo Suk"
 honorific: Blessed
 summary: "Married layman of the archdiocese of Seoul, Korea. Martyr."

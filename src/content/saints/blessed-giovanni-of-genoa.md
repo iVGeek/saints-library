@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Giovanni of Genoa"
 honorific: Blessed
 summary: "Camaldolese monk. Abbot of the Cistercian monastery of Sant'Andrea near Sestri, Italy in 1110. Abbot of the Camaldolese monastery of San Stefano in Genoa, Italy in 1129; he served there for his remaining 37 years."

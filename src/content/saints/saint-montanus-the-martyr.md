@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Montanus the Martyr"
 honorific: Saint
 summary: "Priest. Married to and martyred with Saint Maxima the Martyr."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Ranulf of Arras"
 honorific: Saint
 summary: "Father of Saint Hadulph. Martyr."

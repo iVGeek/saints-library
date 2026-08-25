@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Marcellinus of Ravenna"
 honorific: Saint
 summary: "Third century bishop of Ravenna, Italy."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Robert-François Guérin du Rocher"
 honorific: Blessed
 summary: "Jesuit priest. One of the Martyrs of September."

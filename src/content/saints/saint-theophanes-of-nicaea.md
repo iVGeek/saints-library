@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Theophanes of Nicaea"
 honorific: Saint
 summary: " Priest. Strong defender of sacred images Son of Venerable Jonah the Presbyter. Brother of Saint Theodorus. Grew up in Jerusalem as a pious youth, but little is known of his early life. Monk at Saint Sabas' laura in Jerusalem. Known for his intelligence and fidelity to their rule."

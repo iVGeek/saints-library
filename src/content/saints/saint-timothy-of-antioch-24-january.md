@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Timothy of Antioch"
 honorific: Saint
 summary: "Spiritual student of Saint Babylas of Antioch. Martyr."

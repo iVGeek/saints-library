@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Valentín Díez Serna"
 honorific: Blessed
 summary: "One of ten children born to Antonio and Maria Diez-Serna, pious people who lived in a village so small that it had no school or priest. Baptised at the age of three days, he made his First Communion in 1923 and Confirmed on 7 October 1924. Valentin early felt a call to religious"

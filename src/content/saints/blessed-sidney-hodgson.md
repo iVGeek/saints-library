@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Sidney Hodgson"
 honorific: Blessed
 summary: "Layman. Convert. Martyred for assisting priests during a period of English history when Catholicism was outlawed."

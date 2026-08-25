@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Proculus of Illyria"
 honorific: Saint
 summary: "Sculptor. Stone-cutter who worked to build Christian churches. Martyr."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Edmund Daniel"
 honorific: Blessed
 summary: "Jesuit seminarian. One of the Irish Martyrs. First Jesuit martyr in Europe."

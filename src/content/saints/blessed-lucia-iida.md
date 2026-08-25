@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Lucia Iida"
 honorific: Blessed
 summary: "Lifelong lay woman in the diocese of Niigata, Japan. Married to Blessed Ignatius Iida Soemon. Martyr."

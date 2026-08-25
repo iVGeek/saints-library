@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Magdalena of Hokusanbara"
 honorific: Blessed
 summary: "Lay woman in the diocese of Niigata, Japan. Married to Blessed N. Shichizaemon. The couple and their two young daughters were martyred together."

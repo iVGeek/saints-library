@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Pion of Smyrna"
 honorific: Saint
 summary: "Martyr."

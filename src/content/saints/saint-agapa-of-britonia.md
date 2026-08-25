@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Agapa of Britonia"
 honorific: Saint
 summary: "Martyred nun."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Detlev of Ratzeburg"
 honorific: Blessed
 summary: "Born to the nobility. Premonstratensian canon. Canon of the Premonstratensian monastery in Ratzeburg (in modern Germany). Bishop of Ratzeburg. Lived as a simple friar, but was known for his charity."

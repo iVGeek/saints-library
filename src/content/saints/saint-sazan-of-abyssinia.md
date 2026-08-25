@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Sazan of Abyssinia"
 honorific: Saint
 summary: "Brother of Saint Aizan; friend of Saint Athanasius of Alexandria. Chieftain in Abyssinia (modern Ethiopia). Worked to spread Christianity in Africa."

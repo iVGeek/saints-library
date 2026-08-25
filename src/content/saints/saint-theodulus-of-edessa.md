@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Theodulus of Edessa"
 honorific: Saint
 summary: "Prefect in the court of Theodosius the Great in Constantinople. Married. When his wife died, Theodulus felt drawn to the life of a hermit, claiming that all the world's glories meant nothing to him. He sold his estate, gave his fortune to the poor, and lived as a hermit on top of"

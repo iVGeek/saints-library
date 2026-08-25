@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Jaume Payás Fargas"
 honorific: Blessed
 summary: "Member of the Claretians, professed on 15 August 1924. Ordained a priest on 21 June 1931. Martyred in the Spanish Civil War."

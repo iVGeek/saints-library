@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Raynald de Bar"
 honorific: Blessed
 summary: "Cistercian monk at Clairvaux Abbey in France. Abbot of Citeaux Abbey in 1133. Compiled the first collection of Cistercian statutes."

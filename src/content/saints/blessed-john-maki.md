@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed John Maki"
 honorific: Blessed
 summary: "Layman in the diocese of Funai, Japan. Adopted son of Blessed Ludovicus Maki Soetsu, and martyred with him."

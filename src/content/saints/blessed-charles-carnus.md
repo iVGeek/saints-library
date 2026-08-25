@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Charles Carnus"
 honorific: Blessed
 summary: "Priest of the diocese of Rodez, France. One of the Martyrs of September."

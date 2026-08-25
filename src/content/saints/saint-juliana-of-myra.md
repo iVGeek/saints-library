@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Juliana of Myra"
 honorific: Saint
 summary: "Martyr."

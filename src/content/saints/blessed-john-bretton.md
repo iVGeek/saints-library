@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed John Bretton"
 honorific: Blessed
 summary: "Married layman. Father. Martyred in the persecutions of Queen Elizabeth I for remaining loyal to the Catholic Church."

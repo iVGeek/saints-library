@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Engelmaro"
 honorific: Saint
 summary: "Born to a poor peasant family. Hermit in the forest near Passau, Germany. As his reputation for piety and wisdom spread, the people of the region came to him for advice. Murdered by a man who was envious of Engelmaro's popularity."

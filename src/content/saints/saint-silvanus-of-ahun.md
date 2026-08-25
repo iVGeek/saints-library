@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Silvanus of Ahun"
 honorific: Saint
 summary: "Deacon martyred by Vandals."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Secundarius"
 honorific: Saint
 summary: "Martyred in one of the early persecutions, date unknown. No other information has survived."

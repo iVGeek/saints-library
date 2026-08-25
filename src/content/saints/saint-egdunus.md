@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Egdunus"
 honorific: Saint
 summary: "Martyred in the persecutions of Diocletian with seven other Christians. No other information has survived."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Flavius of Thessalonica"
 honorific: Saint
 summary: "Martyr."

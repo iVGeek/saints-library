@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Ulpia Candida"
 honorific: Saint
 summary: "Martyr, apparently dying in the persecutions of Diocletian."

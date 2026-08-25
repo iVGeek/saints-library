@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Berno of Cluny"
 honorific: Saint
 summary: "For a man whose work has had such an impact, surprisingly little is known about him. May have been a member of a noble and wealthy family, but records are obscure. Benedictine monk at Saint Martin's monastery, Autun, France. Abbot of the Baume Abbey where he rebuilt, restored and"

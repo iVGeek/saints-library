@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Mechthild of Hochsal"
 honorific: Blessed
 summary: "Anchoress at Hochsal, Waldshut in southern Germany."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Cutias of Rome"
 honorific: Saint
 summary: "Martyred in the persecutions of Diocletian. No other information has survived."

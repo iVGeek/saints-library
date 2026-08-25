@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Waltram"
 honorific: Saint
 summary: "Brother of Saint Lantfrid and Saint Elilantus. With them he founded the monastery of Benediktbeuren in Bavaria, Germany, and served as its abbot."

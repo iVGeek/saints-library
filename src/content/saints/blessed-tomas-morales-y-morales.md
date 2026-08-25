@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Tomás Morales y Morales"
 honorific: Blessed
 summary: "Member of the Domincans. Ordained a priest in 1931. Professor of Greek and Hebrew in Almería, Spain in 1933. On 21 July 1936, at the outbreak of the Spanish Civil War, he and Blessed Fernando Grund Jiménez fled the anti-Catholic Communist milita, but were found on the road, impri"

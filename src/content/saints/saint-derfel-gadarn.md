@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Derfel Gadarn"
 honorific: Saint
 summary: "Born a prince, the son of King Hywel Mawr; grandson of Hoel I Mawr the Great. Brother of Saint Tudwal. Brother of Saint Arthfael. Soldier whose skill was celebrated the bards of his day; he fought in the battle of Camlan in 537. A life at war caused him to turn to religion. Hermi"

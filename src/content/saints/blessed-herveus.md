@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Herveus"
 honorific: Blessed
 summary: "Hermit on Chalonnes Island, Anjou, France."

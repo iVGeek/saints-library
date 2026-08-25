@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Venerable Filippo Lo Verde"
 honorific: Venerable
 summary: "Franciscan Friar Minor Conventual cleric."

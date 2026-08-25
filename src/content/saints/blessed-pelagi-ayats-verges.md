@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Pelagi Ayats Vergés"
 honorific: Blessed
 summary: "Franciscan Capuchin friar, joining on 25 August 1931; he was never able to make his solemn profession, being murdered by Marxists in the Spanish Civil War."

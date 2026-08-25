@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Pergentinus of Arezzo"
 honorific: Saint
 summary: "Brother of Saint Laurentinus of Arezzo. Martyred in the persecutions of Decius."

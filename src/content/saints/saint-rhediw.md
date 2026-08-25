@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Rhediw"
 honorific: Saint
 summary: "A church in Llanllyfni, Gwynedd, Wales is dedicated to this saint; he may have founded it, and there are any number of legends and guesses about him, but nothing certain has survived."

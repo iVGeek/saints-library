@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Venerandus of Clermont"
 honorific: Blessed
 summary: "Member of a senatorial family. Bishop of Clermont, France from 385 until his death 38 years later. Supported evangelists throughout the region."

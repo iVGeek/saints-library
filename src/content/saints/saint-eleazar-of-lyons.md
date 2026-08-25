@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Eleazar of Lyons"
 honorific: Saint
 summary: "Martyr."

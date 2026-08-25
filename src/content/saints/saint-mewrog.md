@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Mewrog"
 honorific: Saint
 summary: "A saint from Denbighshire, Wales. No other information has survived."

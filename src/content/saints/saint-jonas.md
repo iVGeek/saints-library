@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Jonas"
 honorific: Saint
 summary: "Disciple of Saint Dionysius of Paris. Priest. Evangelized near Paris, France. Marytred by order of the Roman prefect Julian."

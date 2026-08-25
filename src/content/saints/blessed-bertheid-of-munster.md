@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Bertheid of Münster"
 honorific: Blessed
 summary: "Raised in a pious family; her brother became Bishop Hermann I of Münster, Germany. Nun. Abbess of Liebfrauenpfarrei which ran a school for girls born to the nobility."

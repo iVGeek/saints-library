@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Demetrius of Antioch"
 honorific: Saint
 summary: "Bishop of Antioch. Exiled and martyred with 22 companions by king Shapur I."

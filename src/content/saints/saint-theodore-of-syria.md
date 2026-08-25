@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Theodore of Syria"
 honorific: Saint
 summary: "Martyr. Known to Saint John Chrysostom who preached on his feast day. No other information has survived."

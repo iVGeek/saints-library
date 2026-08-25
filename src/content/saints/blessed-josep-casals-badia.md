@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Josep Casals Badía"
 honorific: Blessed
 summary: "Member of the Claretians, professed on 2 February 1911. Martyred in the Spanish Civil War."

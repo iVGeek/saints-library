@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Franciscus Takeya"
 honorific: Blessed
 summary: "Son of Blessed Cosmas Takeya Sozaburo and Blessed Agnes Takeya in the archdiocese of Nagasaki, Japan. Martyred at age 12."

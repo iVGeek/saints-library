@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Orasus of Rome"
 honorific: Saint
 died: "Rome, Italy, date unknown"

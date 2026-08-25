@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Milagros Ortells Gimeno"
 honorific: Blessed
 summary: "Franciscan Capuchin Poor Clare nun. Martyred in the Spanish Civil War."

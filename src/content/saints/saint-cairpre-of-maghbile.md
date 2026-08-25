@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Cairpre of Maghbile"
 honorific: Saint
 summary: "Early Irish bishop."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Edward Coleman"
 honorific: Blessed
 summary: "Educated at Cambridge. Convert to Catholicism. Secretary to the duchess of York. Falsely condemned as being part of the Titus Oates Plot. Martyr."

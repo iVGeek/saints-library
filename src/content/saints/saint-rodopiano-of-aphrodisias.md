@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Rodopiano of Aphrodisias"
 honorific: Saint
 summary: "Martyred in the persecutions of Diocletian."

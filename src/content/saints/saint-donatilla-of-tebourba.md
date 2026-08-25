@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Donatilla of Tebourba"
 honorific: Saint
 summary: "Martyred in the persecutions of Diocletian."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Maximus of Chinon"
 honorific: Saint
 summary: "Spiritual student of Saint Martin of Tours. Founded the monastery of Chinon in France."

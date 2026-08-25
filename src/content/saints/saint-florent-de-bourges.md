@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Florent de Bourges"
 honorific: Saint
 title: "Bishop"

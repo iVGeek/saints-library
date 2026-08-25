@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Faustus of Rome"
 honorific: Saint
 summary: "Martyred in the persecutions of emperor Julian the Apostate."

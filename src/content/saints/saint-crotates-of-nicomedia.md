@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Crotates of Nicomedia"
 honorific: Saint
 summary: "Palace attendant to Empress Alexandra, wife of Diocletian. When the persecutions of Diocletian began, Crotates was imprisoned, abused and martyred."

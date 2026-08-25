@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Arcanus of Sansepolcro"
 honorific: Saint
 summary: "With Saint Aegidius he made a pilgrimage to Palestine where they collected relics which they brought back to Italy. They founded a Benedictine monastery, which grew into Borgo San Sepulcro (modern Sansepolcro), Italy, to house them."

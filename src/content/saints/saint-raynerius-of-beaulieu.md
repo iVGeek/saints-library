@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Raynerius of Beaulieu"
 honorific: Saint
 summary: "Monk at Beaulieu Abbey near Limoges, France."

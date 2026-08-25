@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Bruno of Paris"
 honorific: Blessed
 summary: "Cistercian monk in Paris, France. He died while on pilgrimage to the Holy Land."

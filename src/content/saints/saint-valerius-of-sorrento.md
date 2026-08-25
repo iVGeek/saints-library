@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Valerius of Sorrento"
 honorific: Saint
 summary: "Hermit for many years near Sorrento, Italy. Reluctant bishop of Sorrento, chosen by the people of that city due to his wisdom and piety."

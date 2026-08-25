@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Julia of Troyes"
 honorific: Saint
 summary: "Captured as a spoil of war by the forces of Roman emperor Aurelian following his victory over Tetricus. Given as a prize to Claudius of Troyes, an army officer. She converted him, and they were martyred together."

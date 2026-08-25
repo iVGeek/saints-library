@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Joan Ayats Plantalech"
 honorific: Blessed
 summary: "Baptized on the day of his birth. Franciscan Capuchin friar, making his solemn profession on 26 June 1904. Murdered by Marxists in the Spanish Civil War."

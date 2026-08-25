@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Pedro Leoz Portillo"
 honorific: Blessed
 summary: "Member of the Passionists. Martyred in the Spanish Civil War."

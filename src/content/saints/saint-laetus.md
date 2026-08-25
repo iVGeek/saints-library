@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Laetus of Africa"
 honorific: Saint
 summary: "Bishop. One of thousands of Christians exiled, tortured and martyred in the late 5th century by the Arian King Hunneric."

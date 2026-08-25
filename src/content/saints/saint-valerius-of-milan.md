@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Valerius of Milan"
 honorific: Saint
 summary: "Venerated in Milan, Italy, but no details have survived."

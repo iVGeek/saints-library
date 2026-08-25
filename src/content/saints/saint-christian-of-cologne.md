@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Christian of Cologne"
 honorific: Saint
 summary: "Monk in the monastery of Fulda, Germany. First abbot of the St-Pantaleon Abbey in Cologne, Germany. He wrote several works on theology that were widely read in his time."

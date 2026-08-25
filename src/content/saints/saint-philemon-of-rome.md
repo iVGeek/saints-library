@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Philemon of Rome"
 honorific: Saint
 summary: "Preached across Italy. Martyr."

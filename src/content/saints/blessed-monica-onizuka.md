@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Monica Onizuka"
 honorific: Blessed
 summary: "Lay woman in the archdiocese of Nagasaki, Japan. Married to Blessed Ioannes Onizuka Naizen. Mother of Blessed Ludovicus Onizuka. Martyr."

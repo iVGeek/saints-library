@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed John of Warneton"
 honorific: Blessed
 summary: "Spiritual student of Saint Ivo of Chartres. Canon regular at Mont-Saint-Eloi. Archdeacon of Arles. Bishop of Thérouanne, which he accepted only under papal order. Founded several monasteries. While he had a reputation for strictness to discipline for himself, he was seen to be ve"

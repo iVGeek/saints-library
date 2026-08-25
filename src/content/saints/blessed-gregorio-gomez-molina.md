@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Gregorio Gómez Molina"
 honorific: Blessed
 summary: "Priest of the diocese of Córdoba, Spain, serving in the Adamuz community. Martyred in the Spanish Civil War."

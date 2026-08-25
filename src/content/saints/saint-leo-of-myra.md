@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Leo of Myra"
 honorific: Saint
 summary: "Martyr."

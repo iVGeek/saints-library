@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed John Larke"
 honorific: Blessed
 summary: "Parish priest. Rector of Saint Ethelburga's, Bishopgate, London, England from 1504 to 1524. Rector of Woodford, Essex from 1526 to 1527. Rector at Chelsea, London. Friend of and imprisoned with Saint Thomas More. Martyred with Blessed German Gardiner and Blessed John Ireland for"

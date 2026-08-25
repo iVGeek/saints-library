@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Cuán of Ahascragh"
 honorific: Saint
 summary: "Listed in early saint lists, but we have no details about him."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Racho of Autun"
 honorific: Saint
 title: "Bishop"

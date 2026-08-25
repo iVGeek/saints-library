@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Venerable Guglielmo Giacomo Ghilardi"
 honorific: Venerable
 summary: "Franciscan priest at San Vivaldo di Montaione, Italy for 44 years."

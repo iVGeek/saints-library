@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Nidger of Augsburg"
 honorific: Saint
 title: "Bishop"

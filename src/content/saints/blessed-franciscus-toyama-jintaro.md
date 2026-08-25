@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Franciscus Toyama Jintaro"
 honorific: Blessed
 summary: "Young layman of the diocese of Hiroshima, Japan. Martyr."

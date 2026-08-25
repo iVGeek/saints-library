@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Dulcissimus of Fiesole"
 honorific: Saint
 summary: "Martyred in the persecutions of emperor Domitian."

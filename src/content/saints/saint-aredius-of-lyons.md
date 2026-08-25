@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Aredius of Lyons"
 honorific: Saint
 summary: "Archbishop of Lyons, France."

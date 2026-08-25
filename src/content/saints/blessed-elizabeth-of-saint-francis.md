@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Elizabeth of Saint Francis"
 honorific: Blessed
 summary: "Born to pious Portugese noble family. Poor Clare nun at Saint Clare Vila do Conde, diocese of Braga, Portutal."

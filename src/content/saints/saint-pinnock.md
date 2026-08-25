@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Pinnock"
 honorific: Saint
 summary: "A church in Cornwall, England is dedicated to this saint, but no information about him has survived."

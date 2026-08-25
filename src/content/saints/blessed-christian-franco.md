@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Christian Franco"
 honorific: Blessed
 summary: "Brother of Blessed Desiderio Franco. Joined the Augustinians in 1362. Monk at the Carbonara convent in Naples, Italy in 1421. Augustinian superior general."

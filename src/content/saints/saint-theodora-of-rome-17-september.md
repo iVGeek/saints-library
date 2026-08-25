@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Theodora of Rome"
 honorific: Saint
 summary: "Born to the wealthy nobility of imperial Rome. During the persecutions of Diocletian, she devoted her life and her wealth to the care of martyrs prior of their execution, and to giving them Christian burial."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Palladius of Rome"
 honorific: Saint
 summary: "Martyred at age 14 in the persecutions of Diocletian."

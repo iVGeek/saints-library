@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Ramon Gros Ballbé"
 honorific: Blessed
 summary: "Franciscan Capuchin friar, making his solemn profession on 13 October 1898. Murdered by Marxists in the Spanish Civil War."

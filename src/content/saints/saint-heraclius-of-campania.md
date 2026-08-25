@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Heraclius of Campania"
 honorific: Saint
 title: "Priest"

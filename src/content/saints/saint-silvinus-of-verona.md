@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Silvinus of Verona"
 honorific: Saint
 summary: "Bishop of Verona, Italy."

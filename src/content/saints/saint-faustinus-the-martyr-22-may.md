@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Faustinus the Martyr"
 honorific: Saint
 summary: "Martyred in the persecutions of Julian the Apostate."

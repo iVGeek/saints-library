@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Cronan of Lismore"
 honorific: Saint
 summary: "Monk. Abbot of Lismore Abbey."

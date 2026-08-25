@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Luis Ramírez y Ramírez"
 honorific: Blessed
 summary: "Priest of the diocese of Córdoba, Spain, serving in the Luque, El Carpio, Villaralto and Peñarroya-Pueblonuevo communities. Martyred in the Spanish Civil War."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Magdalena Minami"
 honorific: Blessed
 summary: "Lay woman in the diocese of Fukuoka, Japan. Married to Blessed Ioannes Minami Gorozaemon. Martyr."

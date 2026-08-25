@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Maria of Aquileia"
 honorific: Saint
 summary: "Martyr."

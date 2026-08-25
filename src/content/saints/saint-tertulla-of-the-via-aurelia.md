@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Tertulla of the Via Aurelia"
 honorific: Saint
 summary: "Martyr."

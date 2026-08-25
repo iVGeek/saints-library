@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Phaolô Tong Viet Buong"
 honorific: Venerable
 summary: "Lifelong layman in the apostolic vicariate of Cochinchina. Convert to Christianity. Soldier. Captain of the guard for Emperor Ming Mang. Worked with the Society for Foreign Missions. When Ming Mang began a new round of persecutions of Christians, he ordered the apostasy of Christ"

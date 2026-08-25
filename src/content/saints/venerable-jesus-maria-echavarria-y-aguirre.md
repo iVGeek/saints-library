@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Venerable Jesús María Echavarría y Aguirre"
 honorific: Venerable
 summary: "Priest, ordained on 18 October 1886 in the diocese of Sinaloa, Mexico. Taught and served as rector of his seminary. Vicar of the cathedral of Culiacan, Mexico. Started the construction of the Shrine of the Sacred Heart of Jesus of Culiacan. Bishop of the diocese of Saltillo, Coah"

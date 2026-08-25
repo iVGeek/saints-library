@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Richard Butler"
 honorific: Blessed
 summary: "Franciscan Friar Minor priest. One of the Irish Martyrs."

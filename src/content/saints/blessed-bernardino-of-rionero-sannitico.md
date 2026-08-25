@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Bernardino of Rionero Sannitico"
 honorific: Blessed
 summary: "Franciscan friar."

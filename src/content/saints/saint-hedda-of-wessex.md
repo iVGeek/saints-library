@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Hedda of Wessex"
 honorific: Saint
 summary: "Benedictine monk. Abbot at Whitby, Yorkshire, England. Bishop of the Wessex, England region in 676; he served for almost 40 years. Established his see at Dorchester, then Winchester. Adviser to King Ina."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Peone of Rome"
 honorific: Saint
 summary: "One of a group of spiritual students of Saint Justin Martyr who died with him and about whom we know nothing else."

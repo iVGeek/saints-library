@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Gotteschalk"
 honorific: Saint
 summary: "Son of Udo, Prince of the Abrodites. Prince of the Wends. Raised a Christian, he turned apostate following the murder of his father, led armies into lands held by the Slavs, and then into England. There, for reasons never clearly explained, he returned to the faith. On his return"

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Gudelia"
 honorific: Saint
 summary: "Maiden martyred in the persecutions of Shapur II."

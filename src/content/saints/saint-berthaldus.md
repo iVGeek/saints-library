@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Berthaldus"
 honorific: Saint
 summary: "Hermit in the Ardennes region of France. Ordained by Saint Remigius of Rheims. The town of Chaumont grew up around his titular abbey and church in the archdiocese of Rheims, France. Indulgences for pilgrimages to Berhaldus' shrine were granted in 1451 and 1466."

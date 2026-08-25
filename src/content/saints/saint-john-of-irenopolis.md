@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint John of Irenopolis"
 honorific: Saint
 title: "Bishop"

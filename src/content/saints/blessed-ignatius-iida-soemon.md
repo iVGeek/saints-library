@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Ignatius Iida Soemon"
 honorific: Blessed
 summary: "Layman in the diocese of Niigata, Japan. Married to Blessed Lucia Iida. Martyr."

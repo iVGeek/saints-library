@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Basila of Sirmium"
 honorific: Saint
 summary: "Martyr."

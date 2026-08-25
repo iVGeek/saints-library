@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Anastasius of Tombolenia"
 honorific: Saint
 summary: "Monk on the island of Tombolenia of the coast of Brittany, France. Monk at the monastery of Cluny. Hermit in the region of the Pyrenees in western France."

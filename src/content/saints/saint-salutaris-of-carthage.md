@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Salutaris of Carthage"
 honorific: Saint
 summary: "Exiled from Carthage, North Africa to the desert of Tripoli by Arian Vandals. Martyr."

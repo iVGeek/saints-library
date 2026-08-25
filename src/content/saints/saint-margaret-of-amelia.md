@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Margaret of Amelia"
 honorific: Saint
 summary: "Benedictine abbess at Saint Catherine of Amelia abbey. Mystic."

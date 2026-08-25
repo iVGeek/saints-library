@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Zoticus of Laodicea"
 honorific: Saint
 summary: "Martyr."

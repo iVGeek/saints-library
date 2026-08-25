@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Federico Cobo-Sanz"
 honorific: Blessed
 summary: "Aspirant to the Salesians of Don Bosco. Martyred in the Spanish Civil War."

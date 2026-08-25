@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Francisco Vicente Edo"
 honorific: Blessed
 summary: "Member of the De La Salle Brothers. Martyred in the Spanish Civil War."

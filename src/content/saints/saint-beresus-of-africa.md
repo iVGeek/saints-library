@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Beresus of Africa"
 honorific: Saint
 deathYear: 300

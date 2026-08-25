@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Barbara Ko Sun-I"
 honorific: Venerable
 summary: "Married lay woman in the apostolic vicariate of Korea. Martyr."

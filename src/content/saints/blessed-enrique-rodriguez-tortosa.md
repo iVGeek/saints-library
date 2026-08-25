@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Enrique Rodríguez Tortosa"
 honorific: Blessed
 summary: "Orphaned when he was very small, Enrique was raised by his aunt Araceli. He grew to be a pious and committed Christian, an honest, humble and well-liked layman in his community in the diocese of Almería, Spain. Member of Catholic Action. When Communist militia came to his down in"

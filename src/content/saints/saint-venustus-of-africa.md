@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Venustus of Africa"
 honorific: Saint
 summary: "Martyred in Africa. No other information has survived."

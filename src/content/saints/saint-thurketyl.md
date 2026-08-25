@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Thurketyl"
 honorific: Saint
 summary: "Restored Croyland Abbey, a house that had been destroyed by pagan Danes. Abbot of the monastery at Bedford, England."

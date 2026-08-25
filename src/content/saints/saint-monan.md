@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Monan"
 honorific: Saint
 summary: "Monk at Saint Andrew's abbey. Spiritual student of Saint Adrian, bishop of Saint Andrew's. Missionary to the Isle of May in the Firth of Forth area in Scotland. Missionary to Fife, Scotland. Murdered with a group of Christians by Danish raiders."

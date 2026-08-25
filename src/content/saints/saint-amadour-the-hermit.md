@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Amadour the Hermit"
 honorific: Saint
 searchAliases:

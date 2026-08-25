@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint John of Verona"
 honorific: Saint
 summary: "Seventh century bishop of Verona, Italy. Noted for his ministry to the poor."

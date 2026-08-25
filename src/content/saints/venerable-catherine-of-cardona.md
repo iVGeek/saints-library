@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Venerable Catherine of Cardona"
 honorific: Venerable
 summary: "Born to the nobility, a member of ducal house of Cordona, and descended from the kings of Aragon. Catherine received a vision of her father in Purgatory; he told her that he could be released if she did penance for her life to that point, and she became extremely penitent. She wo"

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Kigwe"
 honorific: Saint
 summary: "Sister of Saint Congar. She lived a life of quiet sanctity and private vows. Once when she visited her brother in his hermit's cell he refused to see her, fearing that even the sight of his sister would prove a distraction. To prove her holiness, she summoned a wild boar, and mir"

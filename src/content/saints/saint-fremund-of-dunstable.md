@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Fremund of Dunstable"
 honorific: Saint
 summary: "Hermit. Martyred by pagan Danish invaders."

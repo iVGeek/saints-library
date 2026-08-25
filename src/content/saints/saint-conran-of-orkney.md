@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Conran of Orkney"
 honorific: Saint
 summary: "Bishop of the Orkney Islands, Scotland."

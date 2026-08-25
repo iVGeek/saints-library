@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Julia of Arezzo"
 honorific: Blessed
 summary: "Camaldolese nun at Arezzo, Italy."

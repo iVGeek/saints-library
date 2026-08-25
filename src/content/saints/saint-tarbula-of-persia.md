@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Tarbula of Persia"
 honorific: Saint
 summary: "Sister of Saint Simeon. Accused of witchcraft because of her Christianity. Martyred in the persecutions of King Sapor II of Persia."

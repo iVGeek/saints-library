@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Juan of San Domenico"
 honorific: Blessed
 summary: "Dominican priest. Martyr</a."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Hunger of Utrecht"
 honorific: Saint
 summary: "Priest. Bishop of Utrecht, Netherlands in 856. He fled to Roermond, then Deventer in the Netherlands, and finally Prum, Germany to escape the Norman invasion; he spent his last days in exile in Prum."

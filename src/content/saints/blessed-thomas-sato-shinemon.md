@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Thomas Sato Shin'emon"
 honorific: Blessed
 summary: "Member of the Secular Franciscan in the archdiocse of Nagasaki, Japan. Martyr."

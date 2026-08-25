@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Peter of Montepiano"
 honorific: Blessed
 summary: "Vallombrosan monk. Abbot of the San Virgilio Abbey in Brescia, Italy. Late in life he retired to live as a hermit in Montepiano, Tuscany, Italy."

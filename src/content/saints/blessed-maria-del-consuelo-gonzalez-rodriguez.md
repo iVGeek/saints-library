@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed María del Consuelo González Rodríguez"
 honorific: Blessed
 summary: "Sister in the Daughters of the Patronage of Mary. Martyred in the Spanish Civil War."

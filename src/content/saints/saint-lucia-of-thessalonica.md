@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Lucia of Thessalonica"
 honorific: Saint
 summary: "Nun. Martyr."

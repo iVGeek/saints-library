@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Dativus of Sigum"
 honorific: Saint
 summary: "Bishop in Numidia, North Africa. Sentenced along with a large number of clergy and laity to slavery in the marble quarries in Sigum as punishment for being Christian. Martyr."

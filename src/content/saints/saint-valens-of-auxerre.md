@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Valens of Auxerre"
 honorific: Saint
 summary: "Priest. Bishop. Martyred with three boys whose names have not come down to us."

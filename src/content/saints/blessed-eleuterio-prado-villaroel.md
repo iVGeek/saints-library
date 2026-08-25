@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Eleuterio Prado Villaroel"
 honorific: Blessed
 summary: "Professed religious brother in the Missionary Oblates of Mary Immaculate. Martyred in the Spanish Civil War."

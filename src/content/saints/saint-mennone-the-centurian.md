@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Mennone the Centurian"
 honorific: Saint
 summary: "Centurian in the imperial army in the reign of Diocletian and Maximian. Convert, brought to the faith by Saint Severus of Bizye. Tortured and murdered for his new faith. Martyr."

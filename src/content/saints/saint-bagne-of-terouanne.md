@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Bagne of Terouanne"
 honorific: Saint
 summary: "Spiritual student of Saint Wandrille. Benedictine monk at Fontenelle Abbey in Gaul (modern France). Bishop of Terouanne, France in 689. Missionary in the area of modern Calais, France. After twelve years he resigned his see and retired to Fontenelle. Elected abbot in 704. Abbot o"

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Colman of Glendalough"
 honorific: Saint
 summary: "Abbot of Glendalough, Ireland."

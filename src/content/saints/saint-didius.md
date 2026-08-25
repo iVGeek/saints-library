@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Didius"
 honorific: Saint
 summary: "Martyred in the persecutions of Maximian Galerius."

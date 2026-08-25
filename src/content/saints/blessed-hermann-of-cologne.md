@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Hermann of Cologne"
 honorific: Blessed
 summary: "Benedictine monk. Abbot of the Saint Pantaleon monastery of Cologne, Germany."

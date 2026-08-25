@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Francesc Casademunt Ribas"
 honorific: Blessed
 summary: "Member of the Christian Brothers. Teacher. Martyred in the Spanish Civil War."

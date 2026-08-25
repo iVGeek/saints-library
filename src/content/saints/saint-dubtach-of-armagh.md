@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Dubtach of Armagh"
 honorific: Saint
 summary: "Archbishop of Armagh, Ireland from 497 to 513. He build churches on the northern and western coasts, send missionaries and evanglists to these areas, and sought always to base his life and work on that of Saint Patrick."

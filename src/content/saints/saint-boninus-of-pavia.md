@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Boninus of Pavia"
 honorific: Saint
 summary: "Martyr."

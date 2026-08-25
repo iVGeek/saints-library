@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Gregory of Besians"
 honorific: Blessed
 summary: "Spanish Dominican. With Blessed Dominic, he preached in the villages of the Somontano, near Barbastro, near the Spanish Pyrenees. While travelling from one village to another, they were caught in strong thunderstorm; they sought refuge under and overhanging rock, which was loosen"

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Maelmuire O'Gorman"
 honorific: Saint
 summary: "Abbot of Knock, Louth, Ireland. Noted as a poet."

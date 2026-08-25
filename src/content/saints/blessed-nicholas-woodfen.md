@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Nicholas Woodfen"
 honorific: Blessed
 summary: "Studied in Rheims, France. Priest. Returned to London, England to minister to covert Catholics at the Inns of Court, all the while living in Fleet Street under the name Woodfen and dressing like a lawyer. He was eventually imprisoned, tortured and executed for the crime of being"

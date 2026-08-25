@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Rufus of Melitene"
 honorific: Saint
 summary: "Martyr."

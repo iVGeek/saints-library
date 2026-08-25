@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Milles of Persia"
 honorific: Saint
 summary: "Bishop in Persia. Martyred in the persecutions of King Sapor II."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Venerable Magín Morera y Feixas"
 honorific: Venerable
 summary: "Member of the Congregation of the Holy Family of Jesus, Mary and Joseph. Priest."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed John of Hungary"
 honorific: Blessed
 summary: "First Franciscan to work in Hungary."

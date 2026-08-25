@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Josep Casas Juliá"
 honorific: Blessed
 summary: "Discalced Carmelites friar. Martyred in the Spanish Civil War."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Heraclius the Martyr"
 honorific: Saint
 summary: "Soldier who witnessed the martyrdom of Saint Alexander and companions, and was so moved, he converted and died with them. Martyr."

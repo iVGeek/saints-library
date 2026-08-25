@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed James Oldo"
 honorific: Blessed
 summary: "The son of Marchese and Fiordonina Oldo, his father died when the boy was young, leaving him a legacy that allowed to grow up a rich and self-indulgent youth. Married to Catharine Bocconi, a woman of similar disposition; father of three children. The death of a friend to disease"

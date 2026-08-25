@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed James of Nocera"
 honorific: Blessed
 summary: "Monk at Santa Croce di' Fontavellana."

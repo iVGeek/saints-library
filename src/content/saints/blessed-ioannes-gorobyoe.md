@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Ioannes Gorobyoe"
 honorific: Blessed
 summary: "Married layman in the diocese of Niigata, Japan. Martyr."

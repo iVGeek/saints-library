@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Constantine of Scotland"
 honorific: Saint
 summary: "King of Scotland. Died in battle fighting invading heathens, and thus considered a martyr."

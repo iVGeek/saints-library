@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Cosconius of Nicaea"
 honorific: Saint
 summary: "Martyr."

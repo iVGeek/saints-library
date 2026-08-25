@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Raymond of Granada"
 honorific: Blessed
 summary: "Mercedarian friar. Martyred for preaching Christianity in Moorish-occupied Granada, Spain."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Antonio of Rosate"
 honorific: Blessed
 summary: "Franciscan missionary priest assigned to preach Christianity in the area of the Holy Land. He was imprisoned and tortured by Muslims who ordered him to renounce his faith; he refused. Martyr."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Lucius of Adrianople"
 honorific: Saint
 summary: "Bishop of Adrianople. Spoke zealously against Arianism at the Council of Sardica in 343; the feelings against orthodox Catholics were so strong that the Arian emperor Constantius agreed that Lucius was under the protection of Pope Julius before the bishop could return home after"

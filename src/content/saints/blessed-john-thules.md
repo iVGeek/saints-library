@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed John Thules"
 honorific: Blessed
 summary: "Priest of the apostolic vicariate of England, ministering to covert Catholics during the persecutions of James I. Martyr."

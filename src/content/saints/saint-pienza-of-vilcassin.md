@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Pienza of Vilcassin"
 honorific: Saint
 summary: "Martyr."

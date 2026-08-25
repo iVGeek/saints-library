@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint John of Autun"
 honorific: Saint
 summary: "Bishop venerated at Autun, France."

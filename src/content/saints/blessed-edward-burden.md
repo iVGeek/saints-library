@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Edward Burden"
 honorific: Blessed
 summary: "Seminarian in Rheims, France. Priest in the apostolic vicariate of England. Martyred in the persecutions of Queen Elizabeth I."

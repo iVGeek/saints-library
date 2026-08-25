@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Symphronius the Slave"
 honorific: Saint
 summary: "Slave in imperial Rome. Helped bring Saint Olympius the Tribune, Saint Exuperia the Martyr and Saint Theodulus the Martyr to the faith. Martyred in the persecutions of Valerian."

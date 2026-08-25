@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint John Zedazneli"
 honorific: Saint
 summary: " His companions were A Priest. Leader of a group of twelve 6th century Syrian monks who evangelized Georgia, and introduced the monastic life to the region. Said to have befriended the bears that lived near his hermitage, and to have found them friendlier than most of the natives!"

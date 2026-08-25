@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Lucius of Africa"
 honorific: Saint
 deathYear: 300

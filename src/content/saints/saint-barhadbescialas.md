@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Barhadbescialas"
 honorific: Saint
 summary: "Deacon. Martyred in the persecutions of Sapor II. The Acts of the his martyrdom, written in Aramaic, have survived."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Hatto of Ottobeuren"
 honorific: Blessed
 summary: "Born to the Swabian nobility, when Hatto came of age he gave all his property to the Benedictine abbey at Ottobeuren, and became a monk there. He left the abbey to live as a hermit on his old lands; his abbot saw that being a hermit was merely an excuse to live on his old propert"

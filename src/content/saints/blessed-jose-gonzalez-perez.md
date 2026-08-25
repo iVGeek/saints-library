@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed José González Pérez"
 honorific: Blessed
 summary: "Priest in the diocese of Córdoba, Spain, serving in the Villanueva community. Martyred in the Spanish Civil War."

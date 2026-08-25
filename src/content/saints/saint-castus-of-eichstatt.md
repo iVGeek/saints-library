@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Castus of Eichstätt"
 honorific: Saint
 summary: "Martyr."

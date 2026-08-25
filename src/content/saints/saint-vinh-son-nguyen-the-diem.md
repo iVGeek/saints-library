@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Vinh Son Nguyen The Ðiem"
 honorific: Venerable
 summary: "Priest in the apostolic vicariate of West Tonkin. Worked with bishop Saint Peter Dumoulin. One of the Martyrs of Vietnam."

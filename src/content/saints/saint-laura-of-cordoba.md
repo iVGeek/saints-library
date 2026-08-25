@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Laura of Cordoba"
 honorific: Saint
 summary: "Married. Widow. Nun and then abbess at Cuteclara during the period of Moorish occupation of Spain. Killed by Muslim authorities for the crime of Christianity. Martyr. One of the Martyrs of Córdoba. The Estadio Santa Laura in Santiago, Chile, and the Humberstone and Santa Laura Sa"

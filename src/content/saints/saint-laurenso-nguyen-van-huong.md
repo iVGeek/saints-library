@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Laurensô Nguyen Van Huong"
 honorific: Saint
 summary: "Priest of the apostolic vicariate of West Tonkin (in modern Vietnam). Arrested as he was visiting a dying man during the persecutions of Emperor Tu-Duc; he was ordered to trample a cross; he refused. Flogged and executed. Martyr."

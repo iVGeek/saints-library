@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Jacinto García Riesco"
 honorific: Blessed
 summary: "Dominican cleric. Martyred in the Spanish Civil War."

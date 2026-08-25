@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Wulfric of Holme"
 honorific: Saint
 title: "Hermit"

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Roswinda"
 honorific: Saint
 summary: "Sister of Saint Ottilia. Benedictine nun at Hohenburg, Alsace, France."

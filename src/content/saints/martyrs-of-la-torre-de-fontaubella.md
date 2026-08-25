@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Martyrs of La Torre de Fontaubella"
 honorific: Venerable
 deathYear: 1936

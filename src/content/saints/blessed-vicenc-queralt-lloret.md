@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Vicenç Queralt Lloret"
 honorific: Blessed
 summary: "Vincentian priest. Martyred in the Spanish Civil War."

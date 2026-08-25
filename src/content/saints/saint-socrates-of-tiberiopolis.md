@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Socrates of Tiberiopolis"
 honorific: Saint
 summary: "Monk. Martyred in the persecutions of Julian the Apostate. No other information has survived."

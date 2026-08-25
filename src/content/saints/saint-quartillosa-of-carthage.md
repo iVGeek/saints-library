@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Quartillosa of Carthage"
 honorific: Saint
 summary: "Married lay woman, and a mother. Martyred with her husband and son, whose names have not come down to us, the persecutions of Valerian."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Conor MacCarthy"
 honorific: Blessed
 summary: "Priest in the diocese of Kerry, Ireland. One of the Irish Martyrs."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Florida of Dijon"
 honorific: Saint
 summary: "Young woman who may have been a nun, may have just lived very piously; records are unclear. May have been a martyr; records are unclear."

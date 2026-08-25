@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Jean-Baptiste Lego"
 honorific: Blessed
 summary: "Brother of Blessed René Lego. Priest in the diocese of Angers, France. Martyred in the persecutions of the French Revolution for refusing to swear the oath imposed on the clergy by the secular Revolutionary government."

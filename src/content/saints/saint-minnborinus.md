@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Minnborinus"
 honorific: Saint
 summary: "Monk. Abbot of Saint Martin's Abbey in Cologne, Germany from 974 to 986."

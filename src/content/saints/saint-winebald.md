@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Winebald"
 honorific: Saint
 summary: "Monk and then abbot at Saint-Loup-de-Troyes, France."

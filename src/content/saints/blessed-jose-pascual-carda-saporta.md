@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed José Pascual Carda Saporta"
 honorific: Blessed
 summary: "Ordained on 12 August 1918. Member of the Diocesan Laborer Priests of the Sacred Heart of Jesus. Prefect of the seminary in Zaragoza, Spain and then of Tarragona, Spain. Parish priest in Mexico for two years, expelled in the anti-Catholic revolt. Spiritual director of seminaries"

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Davíd Carlos-Marañon"
 honorific: Blessed
 summary: "Born to a wealthy family, the son of Domenico Carlos and Gregoria Marañon. Served in the military. He then disappointed his family by following a call to religious life, becoming a Piarist lay brother in Estella, Spain on 4 June 1931, and making his solemn profession on 28 June 1"

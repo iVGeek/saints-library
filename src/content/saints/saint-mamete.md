@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Mamete"
 honorific: Saint
 title: "Priest"

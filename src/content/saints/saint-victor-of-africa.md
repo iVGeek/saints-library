@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Victor of Africa"
 honorific: Saint
 summary: "African martyr. No other information has survived."

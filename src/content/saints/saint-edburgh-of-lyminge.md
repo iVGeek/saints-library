@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Edburgh of Lyminge"
 honorific: Saint
 summary: "Seventh century nun at Lyminge in Kent, England."

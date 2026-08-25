@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Fingen of Metz"
 honorific: Saint
 summary: "Monk. Abbot. Known for restoring old monasteries."

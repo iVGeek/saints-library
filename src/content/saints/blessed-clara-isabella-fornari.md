@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Clara Isabella Fornari"
 honorific: Blessed
 summary: "Novice in the Poor Clares of Todi, Italy at age 15, and took her vows under the name Clara Isabella at 16. Given to long and frequent ecstatic visions of Jesus, Our Lady, Saint Clare of Assisi, and Saint Catherine of Siena. During one of these, Jesus placed a ring on her finger,"

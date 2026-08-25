@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Quirinus of Vilcassin"
 honorific: Saint
 summary: "Martyr."

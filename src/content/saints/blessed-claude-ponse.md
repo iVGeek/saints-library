@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Claude Ponse"
 honorific: Blessed
 summary: "Canon Regular of the Congregation of France priest. One of the Martyrs of September."

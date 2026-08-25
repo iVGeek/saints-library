@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Provinus of Como"
 honorific: Saint
 title: "Bishop"

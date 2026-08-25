@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Súairlech of Linn Duachaille"
 honorific: Saint
 summary: "Monk. Abbot of Linn Duachaille."

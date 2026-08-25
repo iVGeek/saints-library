@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Helimenas of Persia"
 honorific: Saint
 summary: "Priest martyred in Persia."

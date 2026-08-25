@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Josep Ros Florensa"
 honorific: Blessed
 summary: "Member of the Claretians. Martyred in the Spanish Civil War."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Peter de Amer"
 honorific: Blessed
 summary: "Mercedarian secular knight. Elected Master-General of the Mercedarians in 1271. Wrote the first Constitutions of the Order. Founded at least 15 new Mercedarian convents in Spain and France. Led the Order for nearly 30 years until his brother Mercedarians began calling for a cleri"

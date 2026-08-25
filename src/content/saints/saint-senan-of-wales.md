@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Senan of Wales"
 honorific: Saint
 summary: "Seventh century hermit in north Wales."

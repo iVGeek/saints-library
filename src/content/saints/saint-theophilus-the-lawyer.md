@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Theophilus the Lawyer"
 honorific: Saint
 summary: "Pagan lawyer brought to the faith through a miracle received through the intervention of Saint Dorothy of Caesarea. Martyr."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Eudo of Carméry"
 honorific: Saint
 summary: "Monk at Lerins Abbey in France. Founded the monastery of Corméry-en-Velay."

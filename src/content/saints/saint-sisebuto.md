@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Sisebuto"
 honorific: Saint
 summary: "Monk. Abbot of the Spanish monastery of Cardena."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Suibhne the Sage"
 honorific: Saint
 summary: "Eighth century bishop of Armagh, Ireland for 12 to 15 years (records very)."

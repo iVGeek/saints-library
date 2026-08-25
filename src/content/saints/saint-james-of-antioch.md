@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint James of Antioch"
 honorific: Saint
 summary: "Bishop. Travelled with and martyred with Saint Ursula."

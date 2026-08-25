@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Dorotheus of Rome"
 honorific: Saint
 summary: "Executioner who killed Saint Marcellinus and Saint Peter the Exorcist; he saw their souls leave the bodies and ascend to heaven. He converted to Christianity and did penance for his previous life and the murder of the saints."

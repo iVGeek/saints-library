@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Dyfnog"
 honorific: Saint
 summary: "Venerated in Clwyd, Wales."

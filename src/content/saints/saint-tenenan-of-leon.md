@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Tenenan of Léon"
 honorific: Saint
 summary: "Seventh century hermit in Brittany (in modern France). Bishop of Léon, France."

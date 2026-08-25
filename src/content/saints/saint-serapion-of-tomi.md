@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Serapion of Tomi"
 honorific: Saint
 summary: "Priest. One of group of 17 Christians imprisoned and excuted for their faith during the persecutions of Diocletian."

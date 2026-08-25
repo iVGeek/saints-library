@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Vincent of Bevagna"
 honorific: Saint
 summary: "First Bishop of Bevagna, Italy. Martyred in the persecutions of Diocletian."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Venerable Praxedes Fernández García de Fernández"
 honorific: Venerable
 summary: "Married lay woman in the diocese of Oviedo, Spain. Dominican tertiary."

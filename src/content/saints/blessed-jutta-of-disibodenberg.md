@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Jutta of Disibodenberg"
 honorific: Blessed
 summary: "Born to the German nobility, the sister of Count Megenhard of Spanheim. On 1 November 1106 she took up life as a hermitess, living in a small house near the Disibodenberg Abbey of Saint Disibod in the Rhineland (in modern Germany). She taught local children for a living, includin"

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Agapa of Nicea"
 honorific: Saint
 summary: "Martyr."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Absolon of Caesarea"
 honorific: Saint
 summary: "Martyred at Caesarea, Cappadocia, date unknown."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Wenog"
 honorific: Saint
 summary: "Listed on several liturgical calendars, but no details of his life have survived."

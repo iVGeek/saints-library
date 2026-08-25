@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Venerable Maurin of Auxerre"
 honorific: Venerable
 title: "Bishop"

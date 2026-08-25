@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Dasius of Dorostorum"
 honorific: Saint
 summary: " Some stories say that he was not a bishop but a Christian soldier who kept his faith to himself as a w Bishop at Dorostorum (modern Silistra, Bulgaria). Fought against the immorality involved in the Saturnalia and other pagan festivals. Martyred in the persecutions of Diocletian."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Innocent of Verona"
 honorific: Saint
 summary: "Bishop of the diocese of Verona, Italy, serving in the mid-5th century."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Bonavita of Lugo"
 honorific: Blessed
 summary: "Layman blacksmith, wheelwright and locksmith. Franciscan tertiary. Known for his deep prayer life and charitable works."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Flos of Catania"
 honorific: Saint
 summary: "One of a group early martyrs. No other information has survived."

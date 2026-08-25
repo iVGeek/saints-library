@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Liceria of Sens"
 honorific: Blessed
 summary: "Nun. Martyr. While other traditions have attached to her over the years, we have no real information about her life."

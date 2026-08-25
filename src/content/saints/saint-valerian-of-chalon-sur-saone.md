@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Valerian of Châlon-sur-Saône"
 honorific: Saint
 summary: "One of a group of 50 Christians who were imprisoned in Lyon, Gaul (in modern France) in the persecutions of Marcus Aurelius. Valerian escaped and became an evangelist in the area of modern Burgundy, France. Imprisoned again for his faith, by order of the governor Priscus he was t"

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Giusto of Condat"
 honorific: Saint
 summary: "Monk in area of Condat, France."

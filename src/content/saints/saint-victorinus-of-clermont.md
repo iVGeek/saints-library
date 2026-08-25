@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Victorinus of Clermont"
 honorific: Saint
 summary: "Convert. Martyred by Teutonic barbarians led by Chrocas."

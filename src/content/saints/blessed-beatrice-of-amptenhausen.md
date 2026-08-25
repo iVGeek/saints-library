@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Beatrice of Amptenhausen"
 honorific: Blessed
 summary: "An 11th-12th century Benedictine nun at Amptenhausen, diocese of Cologne, Germany."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Geslar"
 honorific: Saint
 summary: "Seventh century confessor of the faith. No details about him have survived."

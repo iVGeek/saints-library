@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Eduardo Romero Cortés"
 honorific: Blessed
 summary: "Priest in the archdiocese of Granada, Spain. Martyred in the Spanish Civil War."

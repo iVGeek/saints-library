@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Eustadiola of Moyen-Moutier"
 honorific: Saint
 summary: "Married. Wealthy widow. She spent her fortune building the convent of Moyen-Moutier, Francewhere she became a nun and then abbess."

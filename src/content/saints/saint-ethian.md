@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Ethian"
 honorific: Saint
 summary: "Bishop of Domhnach-Mor-mie-Laithbhe; we do not know where this would be in modern Ireland."

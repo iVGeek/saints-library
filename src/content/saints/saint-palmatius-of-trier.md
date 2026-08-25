@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Palmatius of Trier"
 honorific: Saint
 summary: "Martyred with a group of Christians in the persecutions of Maximian Herculeus."

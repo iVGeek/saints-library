@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Eochod of Galloway"
 honorific: Saint
 summary: "Spiritual student of Saint Columba, and of the twelve chosen by him to evangelize northern Britain."

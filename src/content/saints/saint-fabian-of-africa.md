@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Fabian of Africa"
 honorific: Saint
 summary: "Martyr. No other detail have survived."

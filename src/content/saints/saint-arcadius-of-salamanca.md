@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Arcadius of Salamanca"
 honorific: Saint
 summary: "Courtier who accompanied the Vandal King Genseric to Africa. When anti-Christian persecutions began, he was first banished from court, then, when he continue to use the Nicene Creed, was imprisoned, tortured and martyred."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Venerable Antonio Alonso Bermejo"
 honorific: Venerable
 summary: "Secular Franciscan in the archdiocese of Valladolid, Spain who devoted himself to caring for the sick in the hospital of Saint Michael in Nava del Ray, Spain."

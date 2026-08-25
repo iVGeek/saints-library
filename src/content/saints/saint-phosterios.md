@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Phosterios"
 honorific: Saint
 summary: "Sixth-century mountain hermit noted for going into the community to defend orthodox Christianity against the heresies of the day. Later legends added that he lived on a high rock, ate nothing but bread brought to him by an angel, that the angel brought so much that he distributed"

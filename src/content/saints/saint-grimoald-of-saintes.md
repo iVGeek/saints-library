@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Grimoald of Saintes"
 honorific: Saint
 summary: "Deacon in Saintes, Belgium. Martyred by pagan Frisian invaders."

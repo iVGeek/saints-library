@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Pascual Aláez Medina"
 honorific: Blessed
 summary: "Priest. Member of the Missionary Oblates of Mary Immaculate. Martyr."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Zosimus of Carthage"
 honorific: Saint
 summary: "Martyred in Carthage in the persecutions of Valerian and Gallienus."

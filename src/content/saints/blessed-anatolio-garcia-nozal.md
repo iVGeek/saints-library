@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Anatolio García Nozal"
 honorific: Blessed
 summary: "Passionist priest martyred in the Spanish Civil War."

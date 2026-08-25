@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Paolo de Lara"
 honorific: Blessed
 title: "Priest"

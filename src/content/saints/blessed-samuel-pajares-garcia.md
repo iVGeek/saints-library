@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Samuel Pajares García"
 honorific: Blessed
 summary: "Augustinian priest. Martyred in the Spanish Civil War."

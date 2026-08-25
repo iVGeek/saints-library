@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Gerlac of Obermarchtal"
 honorific: Blessed
 summary: "Premonstratensian monk at Mönchsrot monastery in southern Germany. Spiritual student of Blessed Eberhard of Obermarchtal and Blessed Ulrik of Obermarchtal. Prior of his house, and then its third abbot where he served until struck down by a stroke."

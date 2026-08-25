@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Severo of Catania"
 honorific: Saint
 title: "Bishop"

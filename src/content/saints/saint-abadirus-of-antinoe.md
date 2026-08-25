@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Abadirus of Antinoë"
 honorific: Saint
 summary: "Brother of Saint Rhaïs  of Alexandria. Imprisoned, tortured and executed in the persecutions of Severus. Martyr."

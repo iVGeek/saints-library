@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Bertuin of Malonne"
 honorific: Saint
 summary: "Raised in an English monastery. Monk at Othelle. Missionary bishop in Belgium. Founded the monastery of Malonne near Namur, Belgium."

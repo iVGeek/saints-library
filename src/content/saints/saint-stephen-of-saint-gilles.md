@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Stephen of Saint-Gilles"
 honorific: Saint
 summary: "Cistercian abbot. Martyred by Albigensians."

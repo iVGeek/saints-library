@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed William Boyton"
 honorific: Blessed
 summary: "Jesuit priest. One of the Irish Martyrs."

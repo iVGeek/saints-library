@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Cipriano Polo García"
 honorific: Blessed
 summary: "Augustinian priest. Martyred in the Spanish Civil War."

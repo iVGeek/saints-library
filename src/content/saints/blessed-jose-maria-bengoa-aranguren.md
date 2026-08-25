@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Jose María Bengoa Aranguren"
 honorific: Blessed
 summary: "Passionist priest. Martyred in the Spanish Civil War."

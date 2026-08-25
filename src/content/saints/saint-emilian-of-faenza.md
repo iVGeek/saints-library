@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Emilian of Faenza"
 honorific: Saint
 title: "Bishop"

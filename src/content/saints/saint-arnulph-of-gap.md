@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Arnulph of Gap"
 honorific: Saint
 title: "Bishop"

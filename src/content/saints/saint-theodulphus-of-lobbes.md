@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Theodulphus of Lobbes"
 honorific: Saint
 summary: "Benedictine monk. Abbot of Lobbes Abbey in Belgium. Bishop of Lobbes."

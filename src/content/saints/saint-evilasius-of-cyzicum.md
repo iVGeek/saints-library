@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Evilasius of Cyzicum"
 honorific: Saint
 summary: "A girl of 13 who was tortured and executed for her faith."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Antonio Pérez Vacas"
 honorific: Blessed
 summary: "Priest of the diocese of Córdoba, Spain, serving in the Pedro Abad community. Martyred in the Spanish Civil War."

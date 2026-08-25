@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Tomaseu Son Cha-son"
 honorific: Venerable
 summary: "Korean layman who worked with Catholic missionaries to spread Christianity in his country. Martyr."

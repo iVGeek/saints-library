@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Celsinus"
 honorific: Saint
 title: "Priest"

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Francisco Roda Rodríguez"
 honorific: Blessed
 summary: "Priest of the diocese of Almeria Spain. Martyred in the Spanish Civil War."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Venerable Rafael Sánchez García"
 honorific: Venerable
 summary: "Ordained a priest of the archdiocese of Mérida-Badajoz, Spain on 29 June 1936. Being ordained at the start of the Spanish Civil War, he began his ministry covertly, hiding from the anti-Catholic authorities, administering the sacraments in secret. Worked with Father Leocadio Galá"

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Victalicus"
 honorific: Saint
 summary: "Child martyr."

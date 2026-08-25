@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed José María Roig Llorca"
 honorific: Blessed
 summary: "Franciscan friar. Martyred in the Spanish Civil War."

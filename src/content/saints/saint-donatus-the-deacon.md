@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Donatus the Deacon"
 honorific: Saint
 summary: "Deacon. Martyred by Donatist heretics for his defense of orthodox Christianity."

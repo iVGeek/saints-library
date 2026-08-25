@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Tatian of Cilicia"
 honorific: Saint
 summary: "Scourged, burned, tortured and martyred in the persecutions of Diocletian."

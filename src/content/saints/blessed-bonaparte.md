@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Bonaparte"
 honorific: Blessed
 summary: "Priest. Spiritual student of Saint Sylvester Gozzolini. Sylvestrine monk at the San Tommaso di Jesi monastery."

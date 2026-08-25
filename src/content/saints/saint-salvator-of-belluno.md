@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Salvator of Belluno"
 honorific: Saint
 title: "Bishop"

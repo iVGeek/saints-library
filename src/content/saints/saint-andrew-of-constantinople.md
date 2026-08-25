@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Andrew of Constantinople"
 honorific: Saint
 summary: "Christian desert hermit. One of over 300 martyred together for opposing iconoclasm."

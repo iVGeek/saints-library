@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Idus of Ath-Fadha"
 honorific: Saint
 summary: "Fifth century disciple of Saint Patrick by whom he was baptized, and who appointed him bishop of Ath-Fadha, Leinster, Ireland."

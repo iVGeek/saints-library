@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Liberata of Pavia"
 honorific: Saint
 summary: "Sister of Saint Honorata and Saint Ephiphanius of Pavia. Nun."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Eoghan of Concullen"
 honorific: Saint
 summary: "Son of Saran of Cloncullen. Monk."

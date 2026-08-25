@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Valentin of Ravenna"
 honorific: Saint
 summary: "Martyr."

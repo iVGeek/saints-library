@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Ventura of Spello"
 honorific: Blessed
 summary: "Born wealthy. Joined the Benedictine Italian Cruciferi. Built an abbey and hospital on his family estate near Assisi, Italy, and served as its abbot the rest of his life."

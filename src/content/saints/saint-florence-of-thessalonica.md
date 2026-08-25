@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Florence of Thessalonica"
 honorific: Saint
 summary: "Tortured and martyred in the persecutions of Emperor Maximinus Daza."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Gondulphus of Metz"
 honorific: Saint
 summary: "Priest. Bishop of Metz, France, December 816."

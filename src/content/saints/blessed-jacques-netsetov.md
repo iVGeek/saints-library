@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Jacques Netsetov"
 honorific: Blessed
 summary: "Born to a Russian father and an Aleut mother. Studied at the seminary in Irkutsk, Russia. Priest. Missionary to the indigenous people on the Aleutian Islands, travelling by kayak and dogsled; he often had to deal with the opposition of native shamans. Translated the New Testament"

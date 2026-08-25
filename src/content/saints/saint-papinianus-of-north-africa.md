@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Papinianus of North Africa"
 honorific: Saint
 summary: "Fifth century African bishop. Martyred in the persecutions of the Arian Vandal king Genseric."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Lucia of Kyoto"
 honorific: Blessed
 summary: "Child in the Kyoto, Japan. Daughter of Blessed Mencia of Kyoto. One of the Martyrs of Kyoto."

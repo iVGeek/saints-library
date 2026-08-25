@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed John Angelus"
 honorific: Blessed
 summary: "Benedictine monk at Pomposa, diocese of Ferrara, Italy. Spiritual student of Saint Guy of Pomposa."

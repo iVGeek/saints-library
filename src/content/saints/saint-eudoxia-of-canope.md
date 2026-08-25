@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Eudoxia of Canope"
 honorific: Saint
 summary: "Daughter of Saint Athanasia of Canope. Martyred in the persecutions of Diocletian."

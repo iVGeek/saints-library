@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Ammon of Heraclea"
 honorific: Saint
 summary: "Deacon. Martyred in the persecutions of Emperor Licinius along with 40 young women whom he brought to Christianity."

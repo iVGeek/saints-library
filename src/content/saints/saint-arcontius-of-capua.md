@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Arcontius of Capua"
 honorific: Saint
 summary: "Martyr; no other information has survived. Long venerated in Capua, Italy."

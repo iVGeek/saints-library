@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed José Ruiz Cuesta"
 honorific: Blessed
 summary: "Postulant in the Hospitallers of Saint John of God. Martyred in the Spanish Civil War."

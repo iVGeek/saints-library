@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Hedda of Peterborough"
 honorific: Saint
 summary: "Benedictine abbot of Peterborough Abbey. Martyred with many of his brother monks by pagan Danish raiders."

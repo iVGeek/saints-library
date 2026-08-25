@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Cassius of Clermont"
 honorific: Saint
 summary: "Priest. Martyred by Teutonic barbarians led by Chrocas."

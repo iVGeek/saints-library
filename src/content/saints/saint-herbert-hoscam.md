@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Herbert Hoscam"
 honorific: Saint
 title: "Bishop"

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Taziano of Claudiopolis"
 honorific: Saint
 summary: "Martyr."

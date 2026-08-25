@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Gelduin"
 honorific: Blessed
 summary: "Monk. Abbot of a monastery near Douai, France. Friend of and extensive correspondent with Saint Anselm of Canterbury."

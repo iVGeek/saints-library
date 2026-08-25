@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Maximus of Rome"
 honorific: Saint
 summary: "Priest. Martyred in the persecutions of Valerian."

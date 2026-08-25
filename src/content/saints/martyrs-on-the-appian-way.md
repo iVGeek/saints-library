@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Martyrs on the Appian Way"
 honorific: Saint
 summary: "Group of 900 martyrs buried in the catacombs of Saint Callistus on the Appian Way, Rome, Italy."

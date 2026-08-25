@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Theotimus of Tripoli"
 honorific: Saint
 summary: "Martyr."

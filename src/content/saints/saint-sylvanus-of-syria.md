@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Sylvanus of Syria"
 honorific: Saint
 summary: "Bishop condemned to work the mines during the persecutions of Maximian. Martyr."

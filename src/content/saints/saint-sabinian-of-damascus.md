@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Sabinian of Damascus"
 honorific: Saint
 summary: "Son of Saint Tatta of Damascus and Saint Paul of Damascus. Tortured to death in a persecution by Roman authorities."

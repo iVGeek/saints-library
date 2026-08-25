@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Louis-François Rigot"
 honorific: Blessed
 summary: "Layman in the archdiocese of Paris, France. He became a sacristan in the hospital of the Pietà in Paris in 1760. One of the Martyrs of September."

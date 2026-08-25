@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Goswin"
 honorific: Saint
 summary: "Studied in Paris, France. Taught theology in Douai, France. Benedictine monk at Anchin Abbey in 1113. Abbot at Anchin c.1130."

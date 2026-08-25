@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Timothy of Prusa"
 honorific: Saint
 summary: "Bishop of Prusa, Bithynia (in modern Turkey). Martyred in the persecutions of Julian the Apostate."

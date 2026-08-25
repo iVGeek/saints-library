@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Alexis Choemon"
 honorific: Blessed
 summary: "Married layman in the diocese of Niigata, Japan. Brother-in-law of Blessed Candidus “Bozu”. Martyr."

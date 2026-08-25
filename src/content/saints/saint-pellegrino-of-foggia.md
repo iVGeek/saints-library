@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Pellegrino of Foggia"
 honorific: Saint
 title: "Hermit"

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Vicente Álvarez Cienfuegos"
 honorific: Blessed
 summary: "Dominican priest. Martyred in the Spanish Civil War."

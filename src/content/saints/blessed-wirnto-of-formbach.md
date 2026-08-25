@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Wirnto of Formbach"
 honorific: Blessed
 summary: "Benedictine monk at the Saint Blase monastery in the Black Forest in Germany. Prior of Göttweig monastery in Austria. Monk at Formbach in Lower Bavaria (in modern Germany) in 1107 where he worked with Blessed Beregar. Abbot of Formbach on 29 October 1108. Noted for his personal a"

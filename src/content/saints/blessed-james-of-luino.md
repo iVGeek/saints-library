@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed James of Luino"
 honorific: Blessed
 title: "Virgin"

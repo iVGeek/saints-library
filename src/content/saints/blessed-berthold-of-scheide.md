@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Berthold of Scheide"
 honorific: Blessed
 summary: "Older brother of Blessed Menrich of Lübeck. Priest. Member of the Premonstratensians. Lay brother at the Scheide monastery near Fröndenberg-on-der-Ruhr, Westphalia (in modern Germany). Hermit at Berg Haslei. There he started speaking out against immorality, standing in the shade"

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Maximus of Vienne"
 honorific: Saint
 summary: "Son of Gundebertus and Magneldis. Studied at the convent school of Saint-Etienne, Cahors, France. His family arranged a marriage to one Hebrildis, but he refused which led to a beating by his father, and Maximus leaving home to live as a hermit. While on a bear hunt, his father f"

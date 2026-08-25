@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Joseph the Martyr"
 honorific: Saint
 summary: "Spiritual student of Saint Narses the Martyr, and martyred with him in Persia in the persecutions of king Shapur II for refusing to worship the sun."

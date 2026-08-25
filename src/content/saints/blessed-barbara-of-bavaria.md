@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Barbara of Bavaria"
 honorific: Blessed
 summary: "Born to the nobility, the daughter of Duke Albert of Bavaria (in modern Germany). She became a Poor Clare nun in Munich, Germany."

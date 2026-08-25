@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Bernard of Carinola"
 honorific: Saint
 summary: "Studied at Monte Cassino Abbey; spiritual student of the abbot who later became Pope Victor III; fellow student of Saint Peter Damian. Priest. Counselor and chaplain to prince Jordan of Capua, Italy. Bishop of Forum Claudii, Italy, consecrated on 21 March 1087; he moved the see c"

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Dagamondo of Condat"
 honorific: Saint
 summary: "Monk. Ninth abbot of San Eugendo di Condat Abbey for nine years in the late 6th and early 7th centuries."

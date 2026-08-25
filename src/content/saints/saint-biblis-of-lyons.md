@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Biblis of Lyons"
 honorific: Saint
 summary: "Tortured to admit to the crime of cannibalism, a slur often ascribed to early Christians. Martyred with 45 other Christians in the persecutions of Marcus Aurelius. One of the Martyrs of Lyons and Vienne."

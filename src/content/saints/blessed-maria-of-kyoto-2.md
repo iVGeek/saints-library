@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Maria of Kyoto"
 honorific: Blessed
 summary: "Married lay woman in the diocese of Kyoto, Japan. Mother of Blessed Monica of Kyoto. One of the Martyrs of Kyoto."

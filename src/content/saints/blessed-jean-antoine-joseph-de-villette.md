@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Jean-Antoine-Joseph de Villette"
 honorific: Blessed
 summary: "Layman in the archdiocese of Paris, France. One of the Martyrs of September."

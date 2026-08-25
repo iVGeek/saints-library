@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Pascuál Roda Díaz"
 honorific: Blessed
 summary: "Layman in the diocese of Almería, Spain. Martyred in the Spanish Civil War."

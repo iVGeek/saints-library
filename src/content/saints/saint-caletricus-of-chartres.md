@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Caletricus of Chartres"
 honorific: Saint
 title: "Bishop"

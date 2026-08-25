@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Benedetto of Como"
 honorific: Saint
 title: "Bishop"

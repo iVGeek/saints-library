@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Lupus of Caesarea"
 honorific: Saint
 summary: "Martyr."

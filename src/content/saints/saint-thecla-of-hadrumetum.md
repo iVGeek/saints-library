@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Thecla of Hadrumetum"
 honorific: Saint
 summary: "Married to Saint Boniface of Hadrumetum. Mother of the Twelve Holy Brothers. Martyred in the persecutions of Maximian Herculeaus."

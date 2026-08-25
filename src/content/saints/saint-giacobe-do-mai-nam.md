@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Giacôbê Ðo Mai Nam"
 honorific: Venerable
 summary: "Priest in the apostolic vicariate of West Tonkin. Worked with the Society of Foreign Missions of Paris. One of the Martyrs of Vietnam."

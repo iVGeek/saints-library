@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Manuel López Orbara"
 honorific: Blessed
 summary: "Joined the Hospitallers of Saint John of God on 24 November 1935. Martyred in the Spanish Civil War as a novice. One of the Martyred Hospitallers of Spain."

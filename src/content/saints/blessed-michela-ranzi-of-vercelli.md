@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Michela Ranzi of Vercelli"
 honorific: Blessed
 summary: "Related to Blessed Demosthenes Ranzi, Blessed Angela Bartolomea dei Ranzi, Blessed Angela Isabella dei Ranzi and Blessed Candido Ranzi. Augustinian nun. Elected prioress of her monastery in Vercelli, Italy in 1485. Greatly admired by all who knew her for her purity, peity and dev"

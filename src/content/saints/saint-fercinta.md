@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Fercinta"
 honorific: Saint
 summary: "Sixth century nun. Martyr. There was an altar dedicated to her in the church of Saint-Savin-dur-Gartempe, France."

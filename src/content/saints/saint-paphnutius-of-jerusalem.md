@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Paphnutius of Jerusalem"
 honorific: Saint
 summary: "Priest in Jerusalem. Martyr."

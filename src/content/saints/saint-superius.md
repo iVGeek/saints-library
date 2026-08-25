@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Superius"
 honorific: Saint
 summary: "Missionary to the Flemish in Valenciennes (in modern France) with Saint Salvius. Murdered by a greedy local noble who opposed the work. Martyr."

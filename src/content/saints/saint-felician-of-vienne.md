@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Felician of Vienne"
 honorific: Saint
 summary: "Martyred in the persecutions of Marcus Aurelius."

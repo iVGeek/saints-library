@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Hermogenes of Syracuse"
 honorific: Saint
 summary: "Martyr."

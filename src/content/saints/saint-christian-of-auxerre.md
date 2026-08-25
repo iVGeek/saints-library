@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Christian of Auxerre"
 honorific: Saint
 title: "Bishop"

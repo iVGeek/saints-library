@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Narcissus of Tomi"
 honorific: Saint
 summary: "Brother of Saint Argeus and Saint Marcellinus. Soldier in the army of Emperor Licinius. Martyred with his brothers."

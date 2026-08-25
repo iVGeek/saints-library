@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Demetrius of Fragalata"
 honorific: Saint
 title: "Deacon"

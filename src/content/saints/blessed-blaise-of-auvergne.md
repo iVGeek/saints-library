@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Blaise of Auvergne"
 honorific: Blessed
 summary: "Fourteenth century Dominican. Spiritual student of Saint Vincent Ferrer. Noted and passionate preacher."

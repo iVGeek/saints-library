@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Manuel Alvarez y Alvarez"
 honorific: Blessed
 summary: "Dominican priest. Martyred in the Spanish Civil War."

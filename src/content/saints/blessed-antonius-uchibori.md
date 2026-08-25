@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Antonius Uchibori"
 honorific: Blessed
 summary: "Teenaged layman in the archdiocese of Nagasaki, Japan. Son of Blessed Paulus Uchibori Sakuemon; brother of Blessed Balthasar Uchibori and Blessed Ignatius Uchibori."

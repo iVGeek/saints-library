@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Celedonius of Africa"
 honorific: Saint
 summary: "Martyr."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Julian the Hermit"
 honorific: Saint
 summary: "Fourth-century hermit with a cell near Edessa, Mesopotamia. Hermit on Mount Sinai."

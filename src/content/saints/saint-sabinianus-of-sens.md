@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Sabinianus of Sens"
 honorific: Saint
 summary: "Shepherd. Martyr."

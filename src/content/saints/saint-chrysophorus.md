@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Chrysophorus"
 honorific: Saint
 summary: "There is an old Eastern tradition that he converted after watching the martyrdom of Saint George, but all we know for sure is that this is the name of yet another early Christianity murdered for his faith. Martyr."

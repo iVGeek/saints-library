@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Hyacinth the Soldier"
 honorific: Saint
 summary: "One of a group of ten soldier martyrs."

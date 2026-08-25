@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Lucas of Persia"
 honorific: Saint
 summary: "Deacon martyred in Persia."

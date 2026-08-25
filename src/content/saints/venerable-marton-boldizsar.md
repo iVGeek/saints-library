@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Venerable Marton Boldizsár"
 honorific: Venerable
 summary: "Discalced Carmelite priest."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Florentius"
 honorific: Saint
 summary: "Sixth century holy man at Amboise, Touraine, France. Friend of Saint Germain in Paris, France."

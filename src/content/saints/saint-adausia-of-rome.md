@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Adausia of Rome"
 honorific: Saint
 summary: "Martyred in Rome, Italy. No other information has survived."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Abdas of Cascar"
 honorific: Saint
 summary: "Bishop of Beth-Cascar, Chaldea (Susa, Persia). When he destroyed a Zoroastrian temple and refused to re-build it, he was imprisoned, tortured, maimed and martyred in the persecutions of King Isdegard. Abdas was tempted with release and rewards to break the seal of confession; he"

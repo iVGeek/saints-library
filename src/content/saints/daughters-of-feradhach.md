@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Daughters of Feradhach"
 honorific: Saint
 summary: "Mentioned in early calendars and martyrologies, but no information about them has survived."

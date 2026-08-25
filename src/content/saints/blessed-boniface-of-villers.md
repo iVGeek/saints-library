@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Boniface of Villers"
 honorific: Blessed
 summary: "Cistercian monk. Prior of the abbey in Villers, Belgium."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Besas of Alexandria"
 honorific: Saint
 summary: "Soldier. He was on duty when Saint Julian of Alexandria and Saint Cronion Eunus were being led to their deaths. When Besas tried to shield the two from spectator abuse, he was seized by the mob, and killed in the street. His story was recorded by Saint Dionysius of Alexandria."

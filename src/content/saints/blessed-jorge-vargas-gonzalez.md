@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Jorge Vargas González"
 honorific: Blessed
 summary: "The son of a physician, Jorge's family moved to Guadalajara, Mexico when the boy was fifteen years old. As a young man he worked for the local hydroelectric company. Martyred in the Mexican Revolution."

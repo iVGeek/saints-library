@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed María Consuelo Cuñado González"
 honorific: Blessed
 summary: "Member of the Carmelite Sisters of Charity. Martyred in the Spanish Civil War."

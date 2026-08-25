@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed William of Pontoise"
 honorific: Blessed
 summary: "May have been a Benedictine monk. Priest. Hermit at Pontoise, France."

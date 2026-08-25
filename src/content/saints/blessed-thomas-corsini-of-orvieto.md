@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Thomas Corsini of Orvieto"
 honorific: Blessed
 summary: "Member of the Servites. Served his house as a beggar. Visionary."

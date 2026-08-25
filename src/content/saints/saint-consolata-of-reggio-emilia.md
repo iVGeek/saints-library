@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Consolata of Reggio Emilia"
 honorific: Saint
 summary: "Martyr."

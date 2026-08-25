@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Roger of Todi"
 honorific: Blessed
 summary: "Franciscan, receiving the habit from Saint Francis himself in 1236. Spiritual director of Blessed Philippa Mareria's community of Poor Clares at Rieti, Italy."

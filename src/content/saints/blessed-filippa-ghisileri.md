@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Filippa Ghisileri"
 honorific: Blessed
 summary: "Her father was named Leonardo, and she Filipa was related to Pope Saint Pius V. She became a spiritual student of Saint Clare of Assisi, and became one of the first Poor Clare nuns. No other information has survived."

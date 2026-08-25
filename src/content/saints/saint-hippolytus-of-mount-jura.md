@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Hippolytus of Mount Jura"
 honorific: Saint
 summary: "Monk. Abbot of the monastery on Mount Jura in the Lugdunese region of Gaul (in modern France). Bishop."

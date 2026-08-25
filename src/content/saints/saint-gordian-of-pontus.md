@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Gordian of Pontus"
 honorific: Saint
 summary: "Martyred with several unnamed companions."

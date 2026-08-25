@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Julian of Beauvais"
 honorific: Saint
 summary: "Missionary to Beauvais, France. Martyr."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Gregorio Escribano"
 honorific: Blessed
 summary: "Jesuit and co-adjutor with Blessed Ignatius de Azevedo. Martyred by the Huguenot Jacques Sourie while en route to Brazil."

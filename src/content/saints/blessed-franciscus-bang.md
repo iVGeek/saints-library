@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Franciscus Bang"
 honorific: Blessed
 summary: "Military officer in the Korean army. Layman martyr in the apostolic vicariate of Korea."

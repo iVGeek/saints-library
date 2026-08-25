@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Votus de Atarés"
 honorific: Saint
 title: "Hermit"

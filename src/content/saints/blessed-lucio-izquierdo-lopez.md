@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Lucio Izquierdo López"
 honorific: Blessed
 summary: "Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."

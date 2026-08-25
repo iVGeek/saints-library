@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Zaira"
 honorific: Saint
 summary: "Martyred by Moors."

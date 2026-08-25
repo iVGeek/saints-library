@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Placidia of Verona"
 honorific: Blessed
 summary: "Nun, known for her piety and for her healing miracles."

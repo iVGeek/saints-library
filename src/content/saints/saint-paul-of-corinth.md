@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Paul of Corinth"
 honorific: Saint
 summary: "Martyr."

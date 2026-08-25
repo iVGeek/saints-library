@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Revocatus of Carthage"
 honorific: Saint
 summary: "Catechumen. Martyr."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Lucy of Rome"
 honorific: Saint
 summary: "Married. Widow. Tortured and martyred at age 75 in the persecutions of Diocletian."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Malard of Chartres"
 honorific: Saint
 title: "Bishop"

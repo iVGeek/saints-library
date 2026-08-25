@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Macedonius Kritophagos"
 honorific: Saint
 summary: "Hermit in Syria. Called Kriptophagus (the barley eater) as he ate nothing but moistened grain for 40 years. Healer in Syria, Phoenicia, and Cilicia using prayer and holy water."

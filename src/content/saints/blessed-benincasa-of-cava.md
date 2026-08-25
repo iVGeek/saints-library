@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Benincasa of Cava"
 honorific: Blessed
 summary: "Benedictine monk. Abbot of La Cava, Salerno, Italy from 1171 to 1194. Helped found a new monastery at Monreale, Sicily, sending a hundred monks to staff it."

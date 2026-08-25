@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Pinytus of Crete"
 honorific: Saint
 summary: "Bishop of Crete. His contemporaries considered him one of the greatest ecclesiastical writers of his time."

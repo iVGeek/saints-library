@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Hardulph"
 honorific: Saint
 summary: "The church at Breedon-on-the-Hill, Leicestershire, England is dedicated to this saint, but nothing of his story has survived."

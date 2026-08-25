@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Prosdoce"
 honorific: Saint
 summary: "Daughter of Saint Domnina; sister of Saint Berenice. Martyred in the persecutions of Diocletian."

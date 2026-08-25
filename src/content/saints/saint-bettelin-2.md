@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Bettelin"
 honorific: Saint
 summary: "I have no details on this saint."

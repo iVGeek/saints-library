@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Cándido del Cacho Cruz"
 honorific: Blessed
 summary: "Priest of the diocese of Córdoba, Spain, serving in the parish of Fuente Obejuna. Martyred in the Spanish Civil War."

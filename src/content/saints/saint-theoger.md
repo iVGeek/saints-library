@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Theoger"
 honorific: Saint
 summary: "Benedictine monk. Leading supporter of the monastic reform at Hirsau Abbey and the Cluniac reform in general. Abbot of Saint George's Abbey in the Black Forest c.1100."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Maimbod"
 honorific: Saint
 summary: "Wandering missionary who made pilgrimages to tombs of saints and martyrs throughout Gaul and northern Italy, preaching to those he met on the way."

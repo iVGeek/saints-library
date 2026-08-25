@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Amelberga of Susteren"
 honorific: Saint
 summary: "Benedictine nun. Abbess of Susteren Abbey."

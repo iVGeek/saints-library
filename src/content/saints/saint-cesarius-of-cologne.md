@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Cesarius of Cologne"
 honorific: Saint
 summary: "Priest. Travelled with and martyred with Saint Ursula."

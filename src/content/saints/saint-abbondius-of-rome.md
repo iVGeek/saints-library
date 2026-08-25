@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Abbondius of Rome"
 honorific: Saint
 summary: "Martyr."

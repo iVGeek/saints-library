@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Valeria of Rome"
 honorific: Saint
 summary: "Two Christians with the same name who were martyred together."

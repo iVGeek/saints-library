@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Aurelio Leyva Garzón"
 honorific: Blessed
 summary: "Priest of the diocese of Guadix, Spain. Martyred in the Spanish Civil War."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Straton"
 honorific: Saint
 summary: "Martyr."

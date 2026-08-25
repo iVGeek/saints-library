@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed José Flores Beltrán"
 honorific: Blessed
 summary: "Ordained a priest in the diocese of Almería, Spain in December 1899. he served over 30 years in the parish of Cuevas de Almanzora. Martyred in the Spanish Civil War."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Photinus of Marmora"
 honorific: Saint
 summary: "Tortured and martyred in the persecutions of Diocletian."

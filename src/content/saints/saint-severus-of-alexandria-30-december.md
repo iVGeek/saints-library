@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Severus of Alexandria"
 honorific: Saint
 summary: "Martyred with nine other Christians during disturbances caused by the heretical Monophysites."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Landericus of Novalese"
 honorific: Saint
 summary: "Monk at Novalèse abbey in Savoy (part of modern France). Martyr."

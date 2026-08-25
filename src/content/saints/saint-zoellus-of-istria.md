@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Zöellus of Istria"
 honorific: Saint
 summary: "Martyr."

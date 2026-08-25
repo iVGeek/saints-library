@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Paulus Nakajima"
 honorific: Blessed
 summary: "Son of Blessed Leo Nakajima Sokan. Layman of the archdiocese of Nagasaki, Japan. One of the Martyrs of Unzen."

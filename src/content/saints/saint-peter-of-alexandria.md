@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Peter of Alexandria"
 honorific: Saint
 summary: "Martyred for publicly proclaiming the faith."

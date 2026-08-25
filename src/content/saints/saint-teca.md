@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Teca"
 honorific: Saint
 summary: "Nun in or near Rúscach, County Louth, Ireland."

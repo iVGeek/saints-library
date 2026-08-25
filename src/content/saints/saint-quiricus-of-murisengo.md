@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Quiricus of Murisengo"
 honorific: Saint
 summary: "Martyr whose death became linked to the Theban Legion."

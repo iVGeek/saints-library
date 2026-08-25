@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Odilo of Stavelot"
 honorific: Blessed
 summary: "Benedictine monk. Abbot of the monastery of Stavelot-Malmédy Abbey in Belgium."

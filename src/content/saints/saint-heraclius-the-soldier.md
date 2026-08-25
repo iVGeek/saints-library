@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Heraclius the Soldier"
 honorific: Saint
 summary: "Martyred with Saint Alban in the persecutions of Diocletian."

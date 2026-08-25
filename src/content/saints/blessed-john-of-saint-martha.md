@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed John of Saint Martha"
 honorific: Blessed
 summary: "Franciscan priest, ordained in 1606. Missionary to Japan where he was noted for his quick mastery of the language. Arrested at Macao in 1615, he was imprisoned for three years, then executed for his faith. Martyr."

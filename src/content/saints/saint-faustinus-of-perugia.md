@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Faustinus of Perugia"
 honorific: Saint
 summary: "Martyred in the persecutions of Decius."

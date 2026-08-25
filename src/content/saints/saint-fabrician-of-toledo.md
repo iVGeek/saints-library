@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Fabrician of Toledo"
 honorific: Saint
 summary: "Martyr."

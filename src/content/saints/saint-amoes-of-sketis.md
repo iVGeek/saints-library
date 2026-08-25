@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Amoes of Sketis"
 honorific: Saint
 title: "Hermit"

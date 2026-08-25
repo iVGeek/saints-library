@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Macrobius of Damascus"
 honorific: Saint
 summary: "Martyr."

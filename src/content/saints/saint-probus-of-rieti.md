@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Probus of Rieti"
 honorific: Saint
 summary: "Bishop of Rieti, Italy."

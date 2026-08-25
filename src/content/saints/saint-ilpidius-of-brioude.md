@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Ilpidius of Brioude"
 honorific: Saint
 summary: "Raised a pagan, Ilpidius was an adult convert to Christianity who, after coming to the faith, sold all he had, gave his wealth to the poor, and lived as a hermit in the valley of the Allier River in central France. Known for a great devotion to the saints and their relics. He bur"

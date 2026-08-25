@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Liberius of Achad-Bo"
 honorific: Saint
 summary: "Tradition says that Liberius was a wild and sinful youth before a conversion experience brought him to live as a Christian monk, and then to serve as abbot of the Achad-Bo monastery, Aghaboe, Ireland in the early 7th century."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Roger Wrenno"
 honorific: Blessed
 summary: "Layman of the apostolic vicariate of England, ministering to covert Catholics during the persecutions of James I. Martyr."

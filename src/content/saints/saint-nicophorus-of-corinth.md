@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Nicophorus of Corinth"
 honorific: Saint
 summary: "Martyr."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed José Ruiz Montero"
 honorific: Blessed
 summary: "Seminarian in the diocese of Córdoba, Spain. Martyred in the Spanish Civil War."

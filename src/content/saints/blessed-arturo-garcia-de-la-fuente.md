@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Arturo García de la Fuente"
 honorific: Blessed
 summary: "Augustinian priest. Martyred in the Spanish Civil War."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Paoliniano"
 honorific: Saint
 summary: "Martyr."

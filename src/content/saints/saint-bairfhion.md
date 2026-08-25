@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Bairfhion"
 honorific: Saint
 summary: "Bishop. No other information has survived."

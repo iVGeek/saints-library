@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Victor the Martyr"
 honorific: Saint
 summary: "Martyred with nine other Christians whose names have not come down to us. No other information as survived."

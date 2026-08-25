@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Ursula Nishi"
 honorific: Blessed
 summary: "Lay woman of the archdiocese of Nagasaki, Japan. Married to Blessed Gaspar Nishi Genka; mother of Blessed Ioannes Nishi Mataishi. Martyr."

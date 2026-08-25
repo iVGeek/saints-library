@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Paternian of Bologna"
 honorific: Saint
 summary: "Bishop of Bologna, Italy from c.450 until his death."

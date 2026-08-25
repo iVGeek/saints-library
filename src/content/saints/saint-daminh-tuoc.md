@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Ðaminh Tuoc"
 honorific: Venerable
 summary: "Dominican tertiary and priest. One of the Martyrs of Vietnam."

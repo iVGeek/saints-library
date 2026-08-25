@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Ioannes Imamura"
 honorific: Blessed
 summary: "Lay Dominican in the archdiocese of Nagasaki, Japan. Martyr."

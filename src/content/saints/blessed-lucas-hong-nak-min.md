@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Lucas Hong Nak-min"
 honorific: Blessed
 summary: "Layman martyr in the apostolic vicariate of Korea."

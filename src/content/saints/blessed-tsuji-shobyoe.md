@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Tsuji Shobyoe"
 honorific: Blessed
 summary: "Member of the Secular Francisicans in the archdiocese of Nagasaki, Japan. Married to Blessed Maria Shobyoe. Martyr."

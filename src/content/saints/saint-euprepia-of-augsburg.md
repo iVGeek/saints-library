@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Euprepia of Augsburg"
 honorific: Saint
 summary: "Companion of Saint Hilaria of Augsburg on her trip to her mother's tomb, she was arrested and executed in the persecutions of Diocletian."

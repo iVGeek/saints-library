@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Senzio of Bieda"
 honorific: Saint
 title: "Hermit"

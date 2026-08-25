@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Chaeremon of Nilopolis"
 honorific: Saint
 summary: "Bishop of Nilopolis, Egypt, a small island in the middle of the River Nile south of Memphis. He was a very old man when the persecutions of Decius began in 250. To escape, Charemon fled into the desert and was never seen again. Considered a martyr as he died due to fleeing persec"

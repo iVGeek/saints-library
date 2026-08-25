@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Amado Cubeñas Díaz-Madrazo"
 honorific: Blessed
 summary: "Dominican priest. Martyred in the Spanish Civil War."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Ioannes Kyusaku"
 honorific: Blessed
 summary: "Layman in the diocese of Kyoto, Japan. Married to Blessed Magdalena Kyusaku. Father of Blessed Regina Kyusaku. One of the Martyrs of Kyoto."

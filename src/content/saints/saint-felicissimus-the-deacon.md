@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Felicissimus the Deacon"
 honorific: Saint
 summary: "Deacon. Martyred with Pope Saint Sixtus II and other deacons."

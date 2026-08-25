@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Luis Cabrera Sotelo"
 honorific: Blessed
 summary: "Member of the Franciscan Friars Minor (Observants). Priest. Martyr."

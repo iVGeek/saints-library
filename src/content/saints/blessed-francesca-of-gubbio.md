@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Francesca of Gubbio"
 honorific: Blessed
 summary: "Franciscan tertiary."

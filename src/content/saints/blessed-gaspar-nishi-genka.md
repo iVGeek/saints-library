@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Gaspar Nishi Genka"
 honorific: Blessed
 summary: "Layman of the archdiocese of Nagasaki, Japan where he served as a catechist. Married to Blessed Ursula Nishi; father of Blessed Ioannes Nishi Mataishi. Martyr."

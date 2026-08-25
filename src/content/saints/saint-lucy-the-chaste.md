@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Lucy the Chaste"
 honorific: Saint
 summary: "Dominican tertiary. Spiritual student of Saint Vincent Ferrer."

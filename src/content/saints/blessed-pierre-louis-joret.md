@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Pierre-Louis Joret"
 honorific: Blessed
 summary: "Priest of the diocese of Amiens, France. One of the Martyrs of September."

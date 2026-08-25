@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Efflam of Brittany"
 honorific: Saint
 summary: "Son of a British prince. Founded a monastery in Brittany, France and served as its first abbot."

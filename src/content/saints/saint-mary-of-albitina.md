@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Mary of Albitina"
 honorific: Saint
 summary: "Daughter of Saint Saturninus of Albitinia the Elder. One of a group of 46 Christians arrested in Albitina, North Africa during Mass, shipped to Carthage for judgment and torture, and then died together in prison. Martyr."

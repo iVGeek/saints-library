@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Septimius"
 honorific: Saint
 summary: "Martyr."

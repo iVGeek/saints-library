@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Sidonius of Saint-Saens"
 honorific: Saint
 summary: "Monk at Jumièges Abbey in France in 664. Spiritual student of Saint Philibert. Spent several years travelling from monastery to monastery. Companion to Saint Ouen of Rouen in Rome, Italy for more than ten years. Sent by Ouen to found a monastery near the city of Rouen; it was kno"

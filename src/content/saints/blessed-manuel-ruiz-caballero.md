@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Manuel Ruiz Caballero"
 honorific: Blessed
 summary: "Priest of the diocese of Córdoba, Spain, serving int he Hinojosa del Duque community. Martyred in the Spanish Civil War."

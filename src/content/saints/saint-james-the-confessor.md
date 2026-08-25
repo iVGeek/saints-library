@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint James the Confessor"
 honorific: Saint
 summary: "Martyred for opposing iconoclasm."

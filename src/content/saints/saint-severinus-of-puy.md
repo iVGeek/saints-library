@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Severinus of Puy"
 honorific: Saint
 summary: "Missionary, sent by Saint Fronto of Périgueux to the area of Puy, France. Tortured and martyred by local pagans."

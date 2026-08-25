@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Natalio Camazón Junquera"
 honorific: Blessed
 summary: "The son of Marcelino and Jacoba, Natalio was baptized at the age of two days. He was educated by the parish priest, joined the Dominicans in Corias, Spain in 1888, and made his profession there on 29 December 1889. Studied theology at San Esteban de Salamanca, was ordained a prie"

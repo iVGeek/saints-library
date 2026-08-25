@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Amandus of Lérins"
 honorific: Saint
 summary: "Abbot of Lérins Abbey in 676."

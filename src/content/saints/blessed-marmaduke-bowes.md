@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Marmaduke Bowes"
 honorific: Blessed
 summary: "Married layman and father. Fearful of the persecutions of the day, he was a covert Catholic who put in appearances in the Established church to keep the authorities away. He sheltered priests on the run, and had his children raised Catholic. In 1585 his children's tutor was arres"

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Magdalveus of Verdun"
 honorific: Saint
 summary: "Benedictine Monk at Saint Vannes. Bishop of Verdun, France c.736."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Luis Francés Toledano"
 honorific: Blessed
 summary: "Member of the Claretians, professed on 31 August 1926. Ordained a priest on 26 May 1934. Martyred in the Spanish Civil War."

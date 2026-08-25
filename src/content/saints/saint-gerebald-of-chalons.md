@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Gerebald of Chalons"
 honorific: Saint
 title: "Bishop"

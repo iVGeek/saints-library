@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Mary the Mother of John Mark"
 honorific: Saint
 summary: "Mother of Saint Mark the Evangelist. Mentioned in Acts 12:12 when a meeting of the Church was held at her home."

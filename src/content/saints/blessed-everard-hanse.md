@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Everard Hanse"
 honorific: Blessed
 summary: "Raised Protestant. Educated at Cambridge University. Anglican minister. A near-fatal illness caused him to re-examine his life and ministery, and with the support of his brother, William, he converted to Catholicism in 1568. Studied in Rheims, France, and was ordained on 25 March"

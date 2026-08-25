@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Jacques Friteyre-Durvé"
 honorific: Blessed
 summary: "Educated by the Jesuits at Boillons, France. Entered the Jesuit novitiate in Toulouse, France in 1742. Priest. Taught literature and philosophy at several schools. Noted preacher. When the persecution of the Church began in the French Revolution, Father Jacques disguised himself"

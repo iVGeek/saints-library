@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Hugh of Ostia"
 honorific: Blessed
 summary: "Born to the French nobility. Benedictine Cistercian monk at Clairvaux Abbey. Friend, spiritual student and future correspondent with Saint Bernard of Clairvaux. Abbot of Trois-Fontaines Abbey, diocese of Châlons-sur-Marne, France in 1147. Sent to Rome, Italy in 1150 to deal with"

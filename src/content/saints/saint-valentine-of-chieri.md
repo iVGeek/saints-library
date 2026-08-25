@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Valentine of Chieri"
 honorific: Saint
 summary: "Martyr."

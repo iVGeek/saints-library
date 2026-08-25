@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Trien of Killelga"
 honorific: Saint
 summary: "Son of Ded mc Luchtae of Cell Elge. Spiritual student of Saint Patrick. Missionary abbot of the monastery in Killelga, Ireland."

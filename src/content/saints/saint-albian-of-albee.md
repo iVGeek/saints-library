@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Albian of Albee"
 honorific: Saint
 summary: "Bishop of Albee. Martyred with a group of his disciples."

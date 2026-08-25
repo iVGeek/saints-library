@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Primolus of Carthage"
 honorific: Saint
 summary: "When a civil revolt erupted in Carthage in 259 during a period of persecution by Valerian, the procurator Solon blamed it on the Christians, and began suppressing them. Martyr."

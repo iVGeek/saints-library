@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Socrates of Pergen"
 honorific: Saint
 summary: "Roman soldier. Martyred in the persecutions of Emperor Elagabalus."

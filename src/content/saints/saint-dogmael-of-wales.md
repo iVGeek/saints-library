@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Dogmael of Wales"
 honorific: Saint
 summary: "Monk at Dyfed, Wales, in Anglesey, Wales, and in Brittany in northern France."

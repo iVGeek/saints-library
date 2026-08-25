@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Antoni Perich Comas"
 honorific: Blessed
 summary: "Member of the Claretians, professed on 15 August 1928. Martyred in the Spanish Civil War."

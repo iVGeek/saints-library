@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Rufus of Egypt"
 honorific: Saint
 summary: "An ascetic hermit in the desert of 5th century Egypt."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Follamon mac Nath Fraich"
 honorific: Saint
 summary: "A convert, brought to the faith by Saint Patrick. Evangelizing bishop/a>, based in the area of modern Santry just north of Dublin, Ireland. Martyr."

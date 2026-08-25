@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Gaudinus of Soissons"
 honorific: Saint
 summary: "Bishop of Soissons, France in the late 7th and early 8th centuries. Martyred by loan sharks for preaching against them and their business."

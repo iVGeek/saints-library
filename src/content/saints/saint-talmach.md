@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Talmach"
 honorific: Saint
 summary: "Seventh century spiritual student of Saint Finbar at Lough Erc, Ireland. Founded a monastery."

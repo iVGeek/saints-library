@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Maria Mine"
 honorific: Blessed
 summary: "Lay woman in the archdiocese of Nagasaki, Japan. Married to Blessed Ioachim Mine Sukedayu. One of the Martyrs of Unzen."

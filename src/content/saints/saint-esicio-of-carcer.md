@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Esicio of Carcer"
 honorific: Saint
 summary: "Early missionary and bishop of Carcer (modern Carcesa, Spain)."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Bianor of Pisidia"
 honorific: Saint
 summary: "Tortured and martyred in the persecutions of Severian."

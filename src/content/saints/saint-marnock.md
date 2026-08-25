@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Marnock"
 honorific: Saint
 summary: "Spiritual student of Saint Columba an Iona Abbey. Bishop. Kilmarnock, Scotland is named for him."

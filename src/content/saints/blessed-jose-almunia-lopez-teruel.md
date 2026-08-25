@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed José Almunia López-Teruel"
 honorific: Blessed
 summary: "Brother of Blessed Alfredo Almunia López-Teruel. After studying at the seminary of San Indalecio de Almería, José was ordained a priest in the diocese of Almería, Spain on 23 June 1893. Parish priest, and supporter of the group Daughters of Mary. He earned a doctorate in theology"

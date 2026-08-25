@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Duonius of Nicomedia"
 honorific: Saint
 summary: "Martyr."

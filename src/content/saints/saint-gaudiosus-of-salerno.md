@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Gaudiosus of Salerno"
 honorific: Saint
 summary: "Seventh century bishop of Salerno, Italy."

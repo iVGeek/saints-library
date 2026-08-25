@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Gerard of La-Charite"
 honorific: Saint
 summary: "Benedictine monk. Prior of the Cluniac house of La-Charite-sur-Loire, diocese of Namur in modern France. He founded several houses in France, served as abbot at Soignies (in modern Belgium), and in later life resigned to live out his days as a choir monk at La-Charite."

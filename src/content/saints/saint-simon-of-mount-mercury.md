@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Simon of Mount Mercury"
 honorific: Saint
 summary: "Tenth century monk in Calabria, Italy. Abbot. He travelled to North Africa to obtain the relesae of some monks held captive by Muslims, he was captured himself. When the Saracens demanded that the Christian prisoners renounce their faith; when they refused, the captors prepared t"

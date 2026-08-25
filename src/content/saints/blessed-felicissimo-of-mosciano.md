@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Felicissimo of Mosciano"
 honorific: Blessed
 summary: "As a young man he became a Benedictine monk at the monstery of San Eutizio near Norcia, Italy, but was soon forced to leave to help support his poor farming family. Worked as a cowherd, praying while in the fields, and giving all that he could to people even poorer than himself."

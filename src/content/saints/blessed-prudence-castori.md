@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Prudence Castori"
 honorific: Blessed
 summary: "Augustinian nun in Milan, Italy. Founded an Augustinian convent in Como, Italy, and served as its abbess."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Agatonico of Thrace"
 honorific: Saint
 summary: "Martyr."

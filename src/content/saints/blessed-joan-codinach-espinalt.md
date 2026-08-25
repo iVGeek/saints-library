@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Joan Codinach Espinalt"
 honorific: Blessed
 summary: "Member of the Claretians. Priest. Martyred in the Spanish Civil War."

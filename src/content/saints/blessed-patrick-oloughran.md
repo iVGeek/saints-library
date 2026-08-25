@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Patrick O'Loughran"
 honorific: Blessed
 summary: "Priest in the archdiocese of Armagh, Ireland. One of the Irish Martyrs."

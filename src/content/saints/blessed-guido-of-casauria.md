@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Guido of Casauria"
 honorific: Blessed
 summary: "Benedictine monk at Farfa, Italy. Abbot of the monastery at Casauria, Abruzzi, Italy."

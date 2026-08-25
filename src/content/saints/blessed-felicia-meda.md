@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Felicia Meda"
 honorific: Blessed
 summary: "Eldest of three children, she was orphaned as a small girl, and had to care for her brother and sister. At age 12 she took a personal of chastity. At age 20 she gave away all she owned and joined the Poor Clares, becoming a nun at the convent of Saint Urusla in Milan, Italy; her"

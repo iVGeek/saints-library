@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Flavitas"
 honorific: Saint
 summary: " At one po Captured by invading Lombards in 568, he was deported to Gaul, and sold as a slave in Champagne; his new owner, Montain, paid 30 sous, about the same price as a horse. Montain put him on an estate near Troyes, made him a steward, and married him to a slave named Aponia."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Antonia of Cologne"
 honorific: Saint
 summary: "One of the companions of Saint Ursula. Martyr."

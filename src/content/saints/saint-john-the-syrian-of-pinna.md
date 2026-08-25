@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint John the Syrian of Pinna"
 honorific: Saint
 summary: "Hermit in Syria. Fled to Pinna, Italy to escape Monophysite persecution. He arrived in the dead of winter; some hunters witnessed him sit beside a bare, leafless pear tree which burst full bloom due to the holy man's proximity. Founded abbeys in Pinna and Pesaro, Italy, and serve"

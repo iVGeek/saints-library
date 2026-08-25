@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Victrix of Africa"
 honorific: Saint
 deathYear: 300

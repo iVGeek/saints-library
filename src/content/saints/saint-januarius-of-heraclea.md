@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Januarius of Heraclea"
 honorific: Saint
 summary: "Martyred at Heraclea. No other information has survived."

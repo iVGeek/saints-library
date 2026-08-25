@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Winewald of Beverley"
 honorific: Saint
 summary: "Abbot of Beverley Abbey in England."

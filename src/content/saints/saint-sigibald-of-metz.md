@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Sigibald of Metz"
 honorific: Saint
 title: "Bishop"

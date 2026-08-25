@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed George Biandrate"
 honorific: Blessed
 title: "Virgin"

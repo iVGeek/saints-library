@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Juliana of Pavilly"
 honorific: Saint
 summary: "Servant girl. Benedictine nun at Pavilly, Normandy, France. Spiritual student of Saint Benedicta. Abbess at Pavilly."

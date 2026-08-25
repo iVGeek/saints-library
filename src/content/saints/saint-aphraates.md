@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Aphraates of Antioch"
 honorific: Saint
 summary: "Studied pagan magic as a young man, but converted to Christianity in Jerusalem. He then retired to Edessa, Mesopotamia as an anchorite living in a small house outside the city walls. Preached and wrote against the Arian heresy."

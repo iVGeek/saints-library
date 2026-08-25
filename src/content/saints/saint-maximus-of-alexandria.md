@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Maximus of Alexandria"
 honorific: Saint
 summary: "Bishop of Alexandria, Egypt. Exiled to Libya in the persecutions of Decius in 250. Arrested, brought to Alexandria, Egypt in 257 in the persecutions of Valerian. Martyr."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Cyran of Brenne"
 honorific: Saint
 region: "France"

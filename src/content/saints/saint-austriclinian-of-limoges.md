@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Austriclinian of Limoges"
 honorific: Saint
 summary: "Priest in the diocese of Limoges, France. Worked with Saint Martial of Limoges."

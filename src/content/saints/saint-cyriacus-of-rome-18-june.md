@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Cyriacus of Rome"
 honorific: Saint
 summary: "Martyr."

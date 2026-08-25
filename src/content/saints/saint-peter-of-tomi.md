@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Peter of Tomi"
 honorific: Saint
 summary: "Soldier. One of group of 17 Christians imprisoned and excuted for their faith during the persecutions of Diocletian."

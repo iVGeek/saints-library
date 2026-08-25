@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Pientius of Poitiers"
 honorific: Saint
 summary: "Bishop of Poitiers, France. Helped Saint Radegunde to found her convent."

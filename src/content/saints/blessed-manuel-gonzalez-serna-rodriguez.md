@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Manuel González-Serna Rodríguez"
 honorific: Blessed
 summary: "Ordained a priest of the archdiocese of Sevilla, Spain on 20 September 1902. Imprisoned on the night of 19 July 1936 at the start of the Spanish Civil War, he was executed four days later for the offense of being a faithful priest. Martyr."

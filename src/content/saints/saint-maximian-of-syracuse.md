@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Maximian of Syracuse"
 honorific: Saint
 summary: "Monk at the monastery of Saint Andrew, Coelian Hill, Rome, Italy. Brother monk with Pope Saint Gregory the Great. Papal ambassador to Contantinople. Bishop of Syracuse, Sicily."

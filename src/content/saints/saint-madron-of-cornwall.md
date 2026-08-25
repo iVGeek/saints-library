@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Madron of Cornwall"
 honorific: Saint
 summary: "Monk and hermit. Cures worked at Saint Madron's Church, Cornwall, England. Honoured in Brittany. Like many holy people of the time, there is a well that is considered “his”, and is noted for its healing powers. Tradition says that you ask for healing from some ill, then leave a p"

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Ciriacus of Hierapolis"
 honorific: Saint
 summary: "Martyr."

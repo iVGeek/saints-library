@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Antonio María Arriaga Anduiza"
 honorific: Blessed
 summary: "Augustinian cleric. Martyred in the Spanish Civil War."

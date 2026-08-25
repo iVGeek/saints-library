@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Parmenius of Persia"
 honorific: Saint
 summary: "Priest martyred in Persia."

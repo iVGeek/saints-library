@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Stefano Corumano"
 honorific: Blessed
 title: "Hermit"

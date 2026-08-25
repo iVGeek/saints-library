@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed José Ricardo Díez Rodríguez"
 honorific: Blessed
 summary: "Augustinian Recollect brother. Martyred in the Spanish Civil War."

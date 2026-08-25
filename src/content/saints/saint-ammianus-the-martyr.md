@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Ammianus the Martyr"
 honorific: Saint
 summary: "Martyred in the persecutions of Maximian Herculeus."

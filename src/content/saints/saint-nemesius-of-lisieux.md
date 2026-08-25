@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Nemesius of Lisieux"
 honorific: Saint
 summary: "No information about him has survived."

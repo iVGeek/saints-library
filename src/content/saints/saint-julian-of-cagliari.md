@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Julian of Cagliari"
 honorific: Saint
 summary: "Believed to have been a count. Martyr, date unknown."

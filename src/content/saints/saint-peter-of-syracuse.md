@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Peter of Syracuse"
 honorific: Saint
 summary: "Deported from Syracuse, Sicily by invading Saracens and sent to North Africa where he was tortured and executed for his faith. Martyr."

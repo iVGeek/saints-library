@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Corbasius of Quimperlé"
 honorific: Saint
 summary: "Seventh-century monk in Brittany, France. Abbot of the monastery of Quimperlé in Finistère, France."

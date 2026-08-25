@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed William of Sann"
 honorific: Blessed
 summary: "Count of Sann. Married to Blessed Hemma of Gurk. Died while returning home from pilgrimage."

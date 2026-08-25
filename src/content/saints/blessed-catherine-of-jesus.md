@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Catherine of Jesus"
 honorific: Blessed
 summary: "Poor Clare nun at the monastery of Saint Anthony of Padua in Baeza, Spain."

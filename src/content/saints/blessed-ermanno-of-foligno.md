@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Ermanno of Foligno"
 honorific: Blessed
 summary: "Franciscan friar minor at the convent in Foligno, Italy. Known as a miracle worker."

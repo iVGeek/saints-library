@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Antoni Casany Villarrasa"
 honorific: Blessed
 summary: "Member of the Claretians, professed on 15 August 1920. Martyred in the Spanish Civil War."

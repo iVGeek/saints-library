@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Nivitus of Lucania"
 honorific: Saint
 summary: "Martyr."

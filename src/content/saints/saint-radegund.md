@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Radegund"
 honorific: Saint
 summary: "Poor servant girl in 13th century Augsburg, Germany who made a personal vow of devotion to God. Known for her piety and charity to those even poorer than herself, she developed a ministry to lepers and other outcasts in her rural area."

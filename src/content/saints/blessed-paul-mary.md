@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Paul Mary"
 honorific: Blessed
 summary: "Dominican lay brother in Seville, Spain. Miracle worker and healer. When he was in charge of giving bread to the poor, the bins never ran empty."

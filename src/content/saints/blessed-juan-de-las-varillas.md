@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Juan de Las Varillas"
 honorific: Blessed
 title: "Missionary"

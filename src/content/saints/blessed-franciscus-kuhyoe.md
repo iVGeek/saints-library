@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Franciscus Kuhyoe"
 honorific: Blessed
 summary: "Member of the Secular Franciscans in the archdiocese of Nagasaki, Japan. Catechist. Martyr."

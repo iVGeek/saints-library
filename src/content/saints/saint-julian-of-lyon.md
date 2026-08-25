@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Julian of Lyon"
 honorific: Saint
 summary: "Martyr."

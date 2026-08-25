@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Felicissimus of Carthage"
 honorific: Saint
 summary: "Layman. Martyr."

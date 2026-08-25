@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Honoratus of Potenza"
 honorific: Saint
 summary: "Martyred in the persecutions of Maximian."

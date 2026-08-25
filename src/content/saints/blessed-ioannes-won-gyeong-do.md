@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Ioannes Won Gyeong-do"
 honorific: Blessed
 summary: "Layman martyr in the apostolic vicariate of Korea."

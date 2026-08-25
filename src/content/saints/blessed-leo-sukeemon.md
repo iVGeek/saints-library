@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Leo Sukeemon"
 honorific: Blessed
 summary: "Layman in the archdiocese of Nagasaki, Japan. Member of the Confraternity of the Rosary. Martyr."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Lasar"
 honorific: Saint
 summary: "Sixth century nun in Ireland. Niece of Saint Forchera."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Malcoldia of Asti"
 honorific: Saint
 summary: "Benedictine nun. Anchoress at Asti, Italy."

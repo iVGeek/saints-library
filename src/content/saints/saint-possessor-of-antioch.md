@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Possessor of Antioch"
 honorific: Saint
 summary: "Soldier. Martyr."

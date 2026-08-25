@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Desiderio Franco"
 honorific: Blessed
 summary: "Brother of Blessed Christian Franco. Augustinian monk in Piedmont and then Naples in Italy. Chosen Vicar-General of the Augustinian monasteries in the regions of Naples, Rome, Umbria and Tuscany."

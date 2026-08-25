@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint James of Sasseau"
 honorific: Saint
 summary: "Army officer, he travelled extensively. He was eventually assigned to Gaul where he retired. Priest at Clermont, France. Benedictine monk at Bourges, France. Hermit at Sasseau, France."

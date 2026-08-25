@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Theodore of Cagliari"
 honorific: Saint
 summary: "Martyr."

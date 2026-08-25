@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed José Gorastazu Labayen"
 honorific: Blessed
 summary: "Married layman in the archdiocese of Madrid, Spain. Martyred in the Spanish Civil War."

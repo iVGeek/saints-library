@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Pancharius of Besançon"
 honorific: Saint
 summary: "Bishop of Besançon, France. Much persecuted by the Arian Emperor Constantius."

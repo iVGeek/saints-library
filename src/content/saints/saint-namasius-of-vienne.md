@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Namasius of Vienne"
 honorific: Saint
 title: "Bishop"

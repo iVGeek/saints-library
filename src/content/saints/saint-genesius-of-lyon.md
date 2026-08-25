@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Genesius of Lyon"
 honorific: Saint
 summary: "Benedictine monk. Abbot of Fontenelle. Part of the court and camp of King Clovis II. Chief almoner to Queen Saint Bathildis. Succeeded Saint Chamond as bishop and archbishop of Lyons, France in 657. Chartered the Abbey of Corbie, France. Chartered the Convent of the Blessed Virgi"

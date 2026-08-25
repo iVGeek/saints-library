@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Jaume Puigferrer Mora"
 honorific: Blessed
 summary: "Member of the Brothers of the Christian Schools. Martyred in the Spanish Civil War."

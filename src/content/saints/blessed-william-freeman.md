@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed William Freeman"
 honorific: Blessed
 summary: "Priest in the Vicariate Apostlic of England. Martyred in the persecutions of Queen Elizabeth I for the crime of being a priest."

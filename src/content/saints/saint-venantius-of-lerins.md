@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Venantius of Lérins"
 honorific: Saint
 summary: "Elder brother of Saint Honoratus of Arles. Lived as a hermit on an island near Cannes, France. Lived and studied monasticism in Greece, Egypt and Palestine."

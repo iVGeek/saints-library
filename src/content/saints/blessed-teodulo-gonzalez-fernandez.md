@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Teódulo González Fernández"
 honorific: Blessed
 summary: "Salesian of Don Bosco brother. Martyred in the Spanish Civil War."

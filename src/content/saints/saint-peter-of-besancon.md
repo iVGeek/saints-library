@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Peter of Besançon"
 honorific: Saint
 summary: "Bishop of Besançon, France."

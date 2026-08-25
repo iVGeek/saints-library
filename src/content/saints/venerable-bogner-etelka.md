@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Venerable Bogner Etelka"
 honorific: Venerable
 summary: "Visitation nun."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Donat"
 honorific: Saint
 summary: "No information has survived."

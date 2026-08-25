@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Thecla of Rome"
 honorific: Saint
 summary: "Martyred with four companions, date unknown."

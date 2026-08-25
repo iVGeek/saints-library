@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Bernard-François de Cucsac"
 honorific: Blessed
 summary: "Sulpician priest. One of the Martyrs of September."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Satyrus"
 honorific: Saint
 summary: "Destroyed a pagan idol by making the sign of the cross at it. Martyred by the pagans who had worshipped the thing."

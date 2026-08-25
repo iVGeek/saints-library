@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Heliodorus the Martyr"
 honorific: Saint
 summary: "Third century martyr in Africa in the persecutions Diocletian."

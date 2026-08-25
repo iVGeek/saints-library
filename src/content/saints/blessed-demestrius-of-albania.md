@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Demestrius of Albania"
 honorific: Blessed
 title: "Hermit"

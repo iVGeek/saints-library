@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Domna of Nicomedia"
 honorific: Saint
 summary: "Pagan priestess who converted to become a Christian nun. Martyred in the persecutions of Diocletian for the crime of giving Christian burial to martyrs. One of the 20,000 Martyrs of Nicomedia."

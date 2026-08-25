@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Gordian of Noviodunum"
 honorific: Saint
 summary: "Martyr."

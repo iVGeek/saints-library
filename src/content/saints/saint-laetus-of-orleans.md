@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Laetus of Orléans"
 honorific: Saint
 summary: "Monk from age 12. Priest. Spiritual advisor to Saint Leonard of Noblac."

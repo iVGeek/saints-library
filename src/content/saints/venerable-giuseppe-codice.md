@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Venerable Giuseppe Codicè"
 honorific: Venerable
 summary: "Priest in the archdiocese of Bologna, Italy. Founded the Visitation Sisters of the Immaculata."

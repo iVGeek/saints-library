@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Felix of Furcona"
 honorific: Saint
 summary: "One of a group of soldiers martyred in the persecutions of Maximinius the Thracian."

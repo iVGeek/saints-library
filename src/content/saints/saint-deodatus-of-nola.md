@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Deodatus of Nola"
 honorific: Saint
 summary: "Deacon to Saint Paulinus of Nola. Archpriest of Nola, Italy. Bishop of Nola."

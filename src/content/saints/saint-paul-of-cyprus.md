@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Paul of Cyprus"
 honorific: Saint
 summary: "Cypriot monk. During the reign of the iconoclast emperor Constantine Copronymus, Paul was ordered to trample a crucifix. He refused, and was tortured and martryed."

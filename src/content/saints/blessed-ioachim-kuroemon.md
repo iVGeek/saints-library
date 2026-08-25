@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Ioachim Kuroemon"
 honorific: Blessed
 summary: "Layman catechist in the diocese of Hiroshima, Japan. Martyr."

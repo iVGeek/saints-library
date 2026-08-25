@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Maximus"
 honorific: Saint
 summary: "Martyred in the persecutions of Decius."

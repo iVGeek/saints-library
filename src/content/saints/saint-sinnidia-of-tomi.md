@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Sinnidia of Tomi"
 honorific: Saint
 summary: "Martyr. No further information has survived."

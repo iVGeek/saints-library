@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Pastor of Rome"
 honorific: Saint
 summary: "Brother of Pope Pius I. Priest in Rome, Italy."

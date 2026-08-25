@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Marcellinus of Africa"
 honorific: Saint
 summary: "Martyred in Africa, date unknown. No other information has survived."

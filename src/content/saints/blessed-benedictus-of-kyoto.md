@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Benedictus of Kyoto"
 honorific: Blessed
 summary: "Son of Blessed Martha of Kyoto. One of the Martyrs of Kyoto, murdered at the age of 2."

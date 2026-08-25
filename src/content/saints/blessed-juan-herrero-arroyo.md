@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Juan Herrero Arroyo"
 honorific: Blessed
 summary: "Dominican friar. Martyred in the Spanish Civil War."

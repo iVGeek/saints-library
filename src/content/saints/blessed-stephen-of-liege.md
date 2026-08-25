@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Stephen of Liège"
 honorific: Blessed
 summary: "Canon of Saint Denis, Liège, Belgium. Benedictine monk at Saint Vannes monastery, Verdun, France. Founded the monastery of Saint Laurence at Liège, and served as its first abbot."

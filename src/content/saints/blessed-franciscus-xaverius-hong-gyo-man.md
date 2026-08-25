@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Franciscus Xaverius Hong Gyo-man"
 honorific: Blessed
 summary: "Layman martyr in the apostolic vicariate of Korea."

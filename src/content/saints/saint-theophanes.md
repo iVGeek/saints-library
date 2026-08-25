@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Theophanes"
 honorific: Saint
 summary: "Officer in the Byzantine imperial court of Leo the Armenian. He was arrested with three others officers for treason because they opposed Leo's Iconoclasm. The other survived the torture and imprisonment and became monks, but Theophanes did not. Martyr."

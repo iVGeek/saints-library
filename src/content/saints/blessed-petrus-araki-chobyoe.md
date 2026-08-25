@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Petrus Araki Chobyoe"
 honorific: Blessed
 summary: "Layman in the archdiocese of Nagasaki, Japan. Married to Blessed Susanna Chobyoe. Martyr."

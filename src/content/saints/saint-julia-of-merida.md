@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Julia of Merida"
 honorific: Saint
 summary: "Martyred with Saint Eulalia of Merida in the persecutions of Diocletian."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Venerable José Estanislao Zavala López"
 honorific: Venerable
 summary: "Augustinian priest."

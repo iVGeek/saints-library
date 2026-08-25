@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Patroclus of Colombier"
 honorific: Saint
 summary: "Missionary priest and hermit in the Berry region of modern France."

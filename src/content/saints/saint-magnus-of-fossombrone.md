@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Magnus of Fossombrone"
 honorific: Saint
 summary: "Third century martyr. No other information has survived."

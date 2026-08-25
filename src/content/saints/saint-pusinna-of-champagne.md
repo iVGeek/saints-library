@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Pusinna of Champagne"
 honorific: Saint
 summary: "She lived many of her adult years as a hermit in her parent's house. Hermitess in Binson, Chalons-en-Champagne, France."

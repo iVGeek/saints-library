@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Derlugha of Lemmagh"
 honorific: Saint
 summary: "Nun."

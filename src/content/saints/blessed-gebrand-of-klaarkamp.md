@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Gebrand of Klaarkamp"
 honorific: Blessed
 summary: "Benedictine Cistercian monk. Abbot of the monastery at Klaarkamp, Frisia. Founder of the house at Bloemkamp in 1191."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Papias of Perga"
 honorific: Saint
 summary: "Shepherd. Martyred in the persecutions of Decius."

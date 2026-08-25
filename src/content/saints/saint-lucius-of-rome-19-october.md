@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Lucius of Rome"
 honorific: Saint
 summary: "Protested the martyrdom of Saint Ptolemy of Rome in the persecutions of Antoninus Pius. Martyred for his objections. His story was written by Saint Justin Martyr."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Quintilianus of Thessalonica"
 honorific: Saint
 summary: "Martyr. No other information has survived."

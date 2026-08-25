@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Arator of Verdun"
 honorific: Saint
 summary: "Fourth bishop of Verdun, France."

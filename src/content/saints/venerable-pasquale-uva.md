@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Venerable Pasquale Uva"
 honorific: Venerable
 title: "Priest"

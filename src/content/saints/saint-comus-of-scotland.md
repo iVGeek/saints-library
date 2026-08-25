@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Comus of Scotland"
 honorific: Saint
 summary: "6th-century monk and abbot in Scotland."

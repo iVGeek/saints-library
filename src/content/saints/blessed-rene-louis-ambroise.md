@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed René-Louis Ambroise"
 honorific: Blessed
 summary: "Priest at Holy Trinity parish in the diocese of Laval, France. Martyred in the French Revolution."

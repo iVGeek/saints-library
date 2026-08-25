@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Nerses of Sahgerd"
 honorific: Saint
 summary: "Bishop of Sahgerd in Persia. Arrested with 10 or 12 parishioners during the persecutions of Shapur II. They were offered their freedom if they would worship the sun; they declined. Martyr."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Deifer of Bodfari"
 honorific: Saint
 summary: "Sixth century founder and abbot of Bodfari Abbey in Clwyd, Wales."

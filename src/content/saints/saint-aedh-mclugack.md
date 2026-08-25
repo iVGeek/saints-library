@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Aedh McLugack"
 honorific: Saint
 summary: "No information has survived."

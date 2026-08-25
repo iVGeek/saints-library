@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Gregory of Nonantula"
 honorific: Blessed
 summary: "Benedictine monk. Abbot at Nonantula, Italy."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Tôma Ðinh Viet Du"
 honorific: Venerable
 summary: "Dominican priest. One of the Martyrs of Vietnam."

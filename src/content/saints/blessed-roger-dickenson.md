@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Roger Dickenson"
 honorific: Blessed
 summary: "Priest. Imprisoned, tortured and martyred with Blessed Ralph Milner in the persecutions of Queen Elizabeth I."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Juan of Cetina"
 honorific: Blessed
 summary: "Franciscan. Missionary with Blessed Peter de Dueñas to the Moors in Granada, Spain. Martyr."

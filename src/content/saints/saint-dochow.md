@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Dochow"
 honorific: Saint
 summary: "Immigrated to Cornwall where he founded a monastery. May have become a bishop; records are inconclusive."

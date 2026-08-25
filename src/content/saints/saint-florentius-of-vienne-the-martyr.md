@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Florentius of Vienne the Martyr"
 honorific: Saint
 summary: "Third century bishop of Vienne, France. Exiled from Vienne by Emperor Gallienus. Martyred while in exile."

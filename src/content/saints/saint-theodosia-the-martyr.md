@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Theodosia the Martyr"
 honorific: Saint
 summary: "Martyred by Julian the Apostate."

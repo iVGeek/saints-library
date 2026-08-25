@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Mawnan of Cornwall"
 honorific: Saint
 summary: "Listed on various calendars in the British Isles. A town in Cornwall is named for him. No reliable information about him has survived."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed William Andleby"
 honorific: Blessed
 summary: "Raised Protestant. Studied at Saint Johns College, Cambridge, England. Soldier. Convert to Catholicism. Studied in Douai, France. Ordained in 1577. Returning to England, he spent 20 years ministering to covert Catholics in Yorkshire and Lincolnshire. Arrested for the crime of pri"

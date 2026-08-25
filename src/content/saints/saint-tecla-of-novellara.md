@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Tecla of Novellara"
 honorific: Saint
 summary: "Martyred in the persecutions of Diocletian."

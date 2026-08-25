@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Phêrô Võ Ðang Khoa"
 honorific: Venerable
 summary: "Priest in the apostolic vicariate of West Tonkin. One of the Martyrs of Vietnam."

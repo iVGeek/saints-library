@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Colman of Armagh"
 honorific: Saint
 summary: "Fifth century disciple of Saint Patrick."

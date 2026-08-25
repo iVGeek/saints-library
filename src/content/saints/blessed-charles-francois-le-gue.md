@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Charles-François le Gué"
 honorific: Blessed
 summary: "Jesuit priest One of the Martyrs of September."

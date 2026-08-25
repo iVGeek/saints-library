@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Socrates of Pamphylia"
 honorific: Saint
 summary: "Martyred in the persecutions of emperor Aurelian."

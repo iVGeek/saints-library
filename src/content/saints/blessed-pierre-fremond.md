@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Pierre Frémond"
 honorific: Blessed
 summary: "Layman of the diocese of Angers, France. Martyred in the persecutions of the French Revolution."

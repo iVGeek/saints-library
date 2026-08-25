@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Narnus of Bergamo"
 honorific: Saint
 summary: "First bishop of Bergamo, Italy."

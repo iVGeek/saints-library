@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Drithelm"
 honorific: Saint
 summary: "Wealthy and pious layman, a husband and father. Following a terrifying vision of the afterlife during a near-death experience during an epidemic in 696, he became a hermit and then monk at Melrose, Scotland. Bede writes of him in his History (see link below)."

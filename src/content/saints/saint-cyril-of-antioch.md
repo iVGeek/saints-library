@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Cyril of Antioch"
 honorific: Saint
 summary: "Patriarch of Antioch in 280."

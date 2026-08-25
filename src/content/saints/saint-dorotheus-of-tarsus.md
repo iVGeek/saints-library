@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Dorotheus of Tarsus"
 honorific: Saint
 summary: "Martyred in Tarsus, Cilicia. No other information has survived."

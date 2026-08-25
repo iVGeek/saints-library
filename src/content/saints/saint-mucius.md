@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Mucius"
 honorific: Saint
 summary: "Priest. Martyred in the persecutions of Diocletian for overturning a pagan altar."

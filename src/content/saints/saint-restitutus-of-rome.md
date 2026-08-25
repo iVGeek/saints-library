@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Restitutus of Rome"
 honorific: Saint
 summary: "Martyred in the persecutions of Emperor Nero. No other information has survived."

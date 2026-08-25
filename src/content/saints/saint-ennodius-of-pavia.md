@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Ennodius of Pavia"
 honorific: Saint
 summary: "Born to the Gallo-Roman nobility. Well educated in the sciences and rhetoric. Married to a wealthy member of the nobility. Recovering from a serious illness, Ennodius examined his life, decided to put away worldly things, and consecrated himself to God. His wife retired to a conv"

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Vicente Cecilia Gallardo"
 honorific: Blessed
 summary: "Novice in the Vincentian Congregation of the Mission. Martyred in the Spanish Civil War."

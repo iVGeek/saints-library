@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Robert of Matallana"
 honorific: Blessed
 summary: "Benedictine Cistercian monk of La Criste in Champagne, France. Abbot at the Matallana monastery in Valladolid, Spain."

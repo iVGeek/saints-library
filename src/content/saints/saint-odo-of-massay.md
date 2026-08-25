@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Odo of Massay"
 honorific: Saint
 summary: "Benedictine monk. Abbot at Massay the last 32 years of his life."

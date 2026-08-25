@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Pastor of Nicomedia"
 honorific: Saint
 summary: "One of a group of seven Christians who were martyred together in the persecutions of Diocletian."

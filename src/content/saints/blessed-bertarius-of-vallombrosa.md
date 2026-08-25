@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Bertarius of Vallombrosa"
 honorific: Blessed
 summary: "Spiritual student of Saint Giovanni Gualbert, and one of the first Vallombrosan monks. In 1070 he was sent to Lombardy, Italy by Saint Giovanni to argue against the Simoniac heresy. Around 1107, he and some brother monks from Vallombrosa founded a monastery in the Valle di Astino"

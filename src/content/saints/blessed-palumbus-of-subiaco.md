@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Palumbus of Subiaco"
 honorific: Blessed
 summary: "Benedictine monk. Priest in the abbey of Subiaco, Italy. Lived several years as a hermit near the monastery."

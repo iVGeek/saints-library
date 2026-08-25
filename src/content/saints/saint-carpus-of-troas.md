@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Carpus of Troas"
 honorific: Saint
 summary: "First century convert with whom Saint Paul the Apostle (1 Timothy 4:13) says “he had left his cloak.” Nothing about him is known with any certainty."

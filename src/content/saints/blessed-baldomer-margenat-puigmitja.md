@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Baldomer Margenat Puigmitja"
 honorific: Blessed
 summary: "Member of the Christian Brothers. Martyred in the Spanish Civil War."

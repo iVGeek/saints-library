@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Bertinus the Younger"
 honorific: Saint
 summary: "Benedictine monk at the abbey of Sithiu, France. Spiritual student of Saint Bertin the Great."

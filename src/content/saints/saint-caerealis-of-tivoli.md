@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Caerealis of Tivoli"
 honorific: Saint
 summary: "Imperial Roman guard. Sent by Emperor Hadrian with Primitivus to arrest the brother converts Saint Getulius and Saint Amantius. Instead, the brothers converted the guards. Hadrian ordered the judge Licinius to condemn the whole group to death. They were offered a reprieve if they"

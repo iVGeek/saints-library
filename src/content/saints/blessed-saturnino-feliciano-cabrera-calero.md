@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Saturnino Feliciano Cabrera Calero"
 honorific: Blessed
 summary: "Married layman of the diocese of Córdoba, Spain. Martyred in the Spanish Civil War."

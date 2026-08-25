@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Arcadius of Cyprus"
 honorific: Saint
 summary: "Fourth century missionary, possibly a bishop, who worked for the conversion of people on the island of Cyprus."

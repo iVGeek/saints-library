@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Ravennus of Macé"
 honorific: Saint
 summary: "Fifth-century hermit in northern France. Martyr."

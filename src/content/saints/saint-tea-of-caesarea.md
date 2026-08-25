@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Tea of Caesarea"
 honorific: Saint
 summary: "Nun. Martyred in the pesecutions of emperor Maximilian and governor Firmilian."

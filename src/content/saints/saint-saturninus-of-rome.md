@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Saturninus of Rome"
 honorific: Saint
 summary: "Priest in Rome, Italy. With his deacon Saint Sisinius, he was sentenced to hard labor, exiled, tortured and executed for his faith in the persecutions of Decius. Martyr."

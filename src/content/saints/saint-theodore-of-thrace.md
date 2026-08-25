@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Theodore of Thrace"
 honorific: Saint
 summary: "Martyred in Thrace in the persecutions of Hadrian. No other information has survived."

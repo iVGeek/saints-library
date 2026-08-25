@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Terence of Rome"
 honorific: Saint
 summary: "Layman soldier and commander of an imperial Roman bodyguard during the reign of Julian the Apostate. Father of at least one son. Witness to the death sentencing of Saint John and Saint Paul. Convert. Martyr. Some sources say that his son was martyred with him."

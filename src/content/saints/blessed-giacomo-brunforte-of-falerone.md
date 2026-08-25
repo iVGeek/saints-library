@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Giacomo Brunforte of Falerone"
 honorific: Blessed
 summary: "Franciscan friar and priest. Confessor of Blessed Giovanni della Verna."

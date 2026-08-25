@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Renée Bourgeais veuve Juret"
 honorific: Blessed
 summary: "Married lay woman of the diocese of Angers, France. Martyred in the persecutions of the French Revolution."

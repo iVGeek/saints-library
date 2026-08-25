@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Venustus of Africa"
 honorific: Saint
 summary: "Martyred with 75 other Christians in the perscutions of Diocletian."

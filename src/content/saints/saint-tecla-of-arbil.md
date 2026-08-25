@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Tecla of Arbil"
 honorific: Saint
 summary: "Nun. Executed in the persecutions of Tamsabur for refusing to renounce Christianity for sun-worship. Martyr."

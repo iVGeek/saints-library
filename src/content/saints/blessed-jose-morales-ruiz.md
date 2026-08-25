@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed José Morales Ruiz"
 honorific: Blessed
 summary: "Priest of the diocese of Córdoba, Spain, serving in the El Viso community. Martyred in the Spanish Civil War."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed José Prieto Fuentes"
 honorific: Blessed
 summary: "Dominican friar. Martyred in the Spanish Civil War."

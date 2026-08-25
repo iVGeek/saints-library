@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Richard Overton"
 honorific: Blessed
 summary: "Dominican priest. One of the Irish Martyrs."

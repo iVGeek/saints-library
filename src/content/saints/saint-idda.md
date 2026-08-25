@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Idda"
 honorific: Saint
 summary: "Born to the southern German nobility, Idda spent as much of her time in prayer as possible. Married. Widowed, she spent her final days at the Benedictine abbey of Fischingen, Germany."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Carlos Rubio Álvarez"
 honorific: Blessed
 summary: "Joined the Hospitallers of Saint John of God in 1882 in Ciempozuelos, Spain, taking the name Federico and making his perpetual vows in 1889. Studied at the Pontifical Gregorian University in Rome, Italy. Ordained in Rome on 12 February 1899. Provincial of his Order. Served as pri"

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Martinus of Thessalonica"
 honorific: Saint
 summary: "Three Christians with the same name who were martyred."

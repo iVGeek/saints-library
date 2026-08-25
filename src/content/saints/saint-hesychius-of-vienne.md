@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Hesychius of Vienne"
 honorific: Saint
 title: "Bishop"

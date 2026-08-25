@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Emmanuel Lê Van Phung"
 honorific: Saint
 summary: "Married layman of the diocese of Long Xuyên, Vietnam. Imprisoned for seven months and then executed in the persecutions of Emperor Tu-Duc. Martyr."

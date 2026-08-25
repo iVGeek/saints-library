@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Titus the Deacon"
 honorific: Saint
 summary: "Deacon. Martyred by Goths during the sacking of Rome, he was murdered while distributing alms to starving Romans."

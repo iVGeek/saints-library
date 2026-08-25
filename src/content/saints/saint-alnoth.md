@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Alnoth"
 honorific: Saint
 summary: "Born a serf, he worked as a cow-herd near the monastery of Saint Werburgh at Weedon, Northamptonshire, England. Hermit in the forest near Stowe, England. Martyr."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Felician of Africa"
 honorific: Saint
 summary: "Marytred with 125 companions. No other information has survived."

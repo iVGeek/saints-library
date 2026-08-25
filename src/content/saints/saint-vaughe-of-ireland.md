@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Vaughe of Ireland"
 honorific: Saint
 summary: "Priest in the diocese of Armagh, Ireland. When he heard rumours that he was going to be chosen bishop of Armagh, Vaughe retired to live as a hermit in Penmarch, Cornwall, England. From his hermitage he would venture out to preach and evangelize the area residents."

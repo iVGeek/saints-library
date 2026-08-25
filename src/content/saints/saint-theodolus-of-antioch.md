@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Theodolus of Antioch"
 honorific: Saint
 summary: "Priest in Antioch, Syria. No other information has survived."

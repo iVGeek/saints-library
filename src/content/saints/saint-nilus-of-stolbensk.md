@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Nilus of Stolbensk"
 honorific: Saint
 summary: "Spiritual student of Saint Sabas of Pskov. Hermit in the forests in the Tver region. He attracted so many would be students that he moved to a deserted island in Lake Seliguer."

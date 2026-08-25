@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed James the Beggar"
 honorific: Blessed
 summary: "Supporter and advocate for the poor and oppressed in the 13th century."

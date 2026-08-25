@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Daniel of Bergamo"
 honorific: Blessed
 summary: "Venerated in Bergamo, Italy, but no details about him have survived."

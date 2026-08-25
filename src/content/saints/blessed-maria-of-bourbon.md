@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Maria of Bourbon"
 honorific: Blessed
 summary: "Related to the French royalty. Poor Clare nun at the monastery of Saint George and Santa Chiara in Amiens, France."

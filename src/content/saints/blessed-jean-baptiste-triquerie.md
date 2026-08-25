@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Jean-Baptiste Triquerie"
 honorific: Blessed
 summary: "Franciscan Conventual priest. Martyred in the French Revolution."

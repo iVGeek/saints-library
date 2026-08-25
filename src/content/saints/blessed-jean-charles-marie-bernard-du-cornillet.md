@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Jean-Charles-Marie Bernard du Cornillet"
 honorific: Blessed
 summary: "Canon Regular of Saint Victor priest. One of the Martyrs of September."

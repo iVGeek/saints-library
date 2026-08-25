@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Vincent of Siena"
 honorific: Blessed
 summary: "Franciscan friar, serving in the Order for 22 years. Travelled and worked with Saint Bernadine of Siena."

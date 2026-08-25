@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Coliano of Adria"
 honorific: Saint
 title: "Bishop"

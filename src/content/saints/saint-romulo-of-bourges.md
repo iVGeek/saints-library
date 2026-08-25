@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Rómulo of Bourges"
 honorific: Saint
 summary: "Fifth-century priest, monk and abbot in Bourges, Aquitaine (in modern France)."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Belengerius of Montauto"
 honorific: Blessed
 summary: "Born to the Italian nobility, a member of the Conti da Montauto family. Franciscan tertiary at the convent of Genoa, Italy. Known for his personal piety and holiness, and for a life of constant prayer."

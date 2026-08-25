@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Vambert of Normandy"
 honorific: Saint
 summary: "Ninth- or tenth-century priest in the area of modern Normandy, France. Martyred by invading Normans."

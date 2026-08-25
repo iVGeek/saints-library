@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Leucius of Alexandria"
 honorific: Saint
 summary: "Martyred for publicly proclaiming the faith. No other information has survived."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Alrick the Hermit"
 honorific: Saint
 summary: "Eleventh century hermit in northern England. Friend of Saint Godric of Finchale."

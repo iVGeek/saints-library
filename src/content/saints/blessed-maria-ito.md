@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Maria Ito"
 honorific: Blessed
 summary: "Married lay woman in the diocese of Niigata, Japan. Mother of Blessed Marina Chobo. Martyr."

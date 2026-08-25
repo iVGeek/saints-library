@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Miguel Molina de La Torre"
 honorific: Blessed
 summary: "Priest in the Salesians of Don Bosco. Martyred in the Spanish Civil War."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Juan José Orellana del Moral"
 honorific: Blessed
 summary: "Priest of the diocese of Córdoba, Spain, serving the Montalbán and Espejo communities. Martyred in the Spanish Civil War."

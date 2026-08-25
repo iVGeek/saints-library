@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Basura of Masil"
 honorific: Saint
 summary: "Bishop of Masil. Martyred in the persecutions of Diocletian."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Faustus of Cologne"
 honorific: Saint
 summary: "Martyr."

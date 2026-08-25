@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Hilary the Hermit"
 honorific: Saint
 summary: "Hermit. Martyr."

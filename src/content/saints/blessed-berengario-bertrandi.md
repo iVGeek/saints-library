@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Berengario Bertrandi"
 honorific: Blessed
 summary: "Franciscan friar and priest. He taught theology in Montpellier, France, and Franciscan records list him as a confessor."

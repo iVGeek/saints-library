@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Hadrian of Haarlem"
 honorific: Blessed
 summary: "Layman government official. Martyred by Calvinists."

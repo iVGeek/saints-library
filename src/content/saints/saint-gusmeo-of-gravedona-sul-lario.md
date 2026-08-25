@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Gusmeo of Gravedona sul Lario"
 honorific: Saint
 summary: "May have been a soldier in the Theban Legion. Martyr."

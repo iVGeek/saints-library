@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Pedro Luque Cano"
 honorific: Blessed
 summary: "Priest of the diocese of Córdoba, Spain, serving as the chaplain of the Montoro hospital. Martyred in the Spanish Civil War."

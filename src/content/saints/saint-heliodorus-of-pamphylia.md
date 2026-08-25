@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Heliodorus of Pamphylia"
 honorific: Saint
 summary: "Martyred in the persecutions of Aurelian."

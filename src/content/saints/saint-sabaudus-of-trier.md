@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Sabaudus of Trier"
 honorific: Saint
 title: "Bishop"

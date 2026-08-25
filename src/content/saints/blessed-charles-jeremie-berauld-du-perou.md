@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Charles-Jéremie Bérauld du Pérou"
 honorific: Blessed
 summary: "Jesuit priest. One of the Martyrs of September."

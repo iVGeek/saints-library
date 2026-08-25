@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Modestus the Deacon"
 honorific: Saint
 summary: "Deacon. Martyred in the persecutions of Diocletian."

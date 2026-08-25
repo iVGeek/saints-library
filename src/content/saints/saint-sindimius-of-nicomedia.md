@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Sindimius of Nicomedia"
 honorific: Saint
 summary: "Martyred in the persecutions of Diocletian."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Concordius of Arles"
 honorific: Saint
 summary: "Fourth-century monk at Lerins Abbey. Bishop of Arles, France."

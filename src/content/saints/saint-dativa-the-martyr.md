@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Dativa the Martyr"
 honorific: Saint
 summary: "Sister of Saint Dionysia. Aunt of Saint Majoricus. Martyred in the persecutions of the Arian Vandal king Huneric."

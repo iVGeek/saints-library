@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Lawrence Wang"
 honorific: Venerable
 summary: "Layman catechist in the apostolic vicariate of Guizhou. One of the Martyrs of China"

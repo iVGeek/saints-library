@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Primitivus of North Africa"
 honorific: Saint
 died: "martyred in North Africa"

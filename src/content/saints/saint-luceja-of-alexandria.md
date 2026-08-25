@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Luceja of Alexandria"
 honorific: Saint
 summary: "Nun. Martyr."

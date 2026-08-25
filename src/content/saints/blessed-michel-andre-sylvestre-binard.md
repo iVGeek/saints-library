@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Michel-André-Sylvestre Binard"
 honorific: Blessed
 summary: "Priest in the archdiocese of Paris, France. One of the Martyrs of September."

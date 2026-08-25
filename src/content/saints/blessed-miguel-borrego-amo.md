@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Miguel Borrego Amo"
 honorific: Blessed
 summary: "Priest of the diocese of Córdoba, Spain, serving in the Fuente la Lancha and Adamuz communities. Martyred in the Spanish Civil War."

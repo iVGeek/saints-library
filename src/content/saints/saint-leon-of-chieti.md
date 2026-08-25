@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Leon of Chieti"
 honorific: Saint
 title: "Bishop"

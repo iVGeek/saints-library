@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Nemesius of Rome"
 honorific: Saint
 summary: "Father of Saint Lucilla. Roman military tribune. Convert, brought to Christianity by Pope Saint Stephen I. Deacon in Rome, Italy. Martyred in the persecutions of Valerian."

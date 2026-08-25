@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Lucillian of Byzantium"
 honorific: Saint
 summary: "Converted in his old age. Martyr."

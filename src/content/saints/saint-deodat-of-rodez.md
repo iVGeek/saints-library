@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Déodat of Rodez"
 honorific: Saint
 summary: "Franciscan friar. Priest. Missionary to Palestine in 1384. Martyred by the Muslim authorities."

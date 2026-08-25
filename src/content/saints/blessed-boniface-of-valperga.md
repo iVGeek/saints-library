@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Boniface of Valperga"
 honorific: Blessed
 summary: "Born to the Italian nobility, a member of the family of the Counts of Valperga, the son of Matthew and Anna Levi Villars. He received a good Christian education at home, and from his uncle Arduino, the bishop of Turin, Italy. Benedictine monk at the abbey of Fruttuaria (modern Sa"

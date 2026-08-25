@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Peter of Melitene"
 honorific: Saint
 summary: "Deacon. Martyr."

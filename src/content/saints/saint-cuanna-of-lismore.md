@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Cuanna of Lismore"
 honorific: Saint
 summary: "Seventh century bishop of Lismore, Ireland. Monk. Abbot at Cuannach, Ireland. Abbot of Connacie, Ireland."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint John of Rome"
 honorific: Saint
 summary: "Priest in Rome, Italy in the early days of the Church. With Saint Crispus he recovered and properly buried the bodies of martyrs - and was martyred for it."

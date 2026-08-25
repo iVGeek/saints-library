@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Ritbert of Varennes"
 honorific: Saint
 summary: "Monk and then abbot of a monastery in Varennes, France."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Dorbhene of Iona"
 honorific: Saint
 summary: "Relative of Saint Columba. Monk. Abbot of Iona Abbey."

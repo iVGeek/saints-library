@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Cumgar"
 honorific: Saint
 summary: "Son of Geraint, prince of Devon. Founded and served as abbot at monasteries in Badgworth and Congresbury in Somerset, England, and in Llangennith, Wales. Bishop in the area that became the Diocese of Bath and Wells, England. Died while on pilgrimage to the Holy Lands. Congresbury"

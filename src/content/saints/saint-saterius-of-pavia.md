@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Saterius of Pavia"
 honorific: Saint
 summary: "Martyr."

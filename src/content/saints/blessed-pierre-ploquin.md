@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Pierre Ploquin"
 honorific: Blessed
 summary: "Priest of the archdiocese of Tours, France. One of the Martyrs of September."

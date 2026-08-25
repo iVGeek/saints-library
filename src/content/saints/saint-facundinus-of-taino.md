@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Facundinus of Taino"
 honorific: Saint
 summary: "Bishop of Taino, Italy."

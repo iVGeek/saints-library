@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Macarius of Collesano"
 honorific: Saint
 summary: "Monk. Abbot."

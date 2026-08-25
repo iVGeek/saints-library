@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Gabriel Olivares Roda"
 honorific: Blessed
 summary: "Franciscan Friar Minor. Priest. Martyred in the Spanish Civil War."

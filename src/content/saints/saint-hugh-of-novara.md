@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Hugh of Novara"
 honorific: Saint
 summary: "Cistercian Benedictine monk. Spiritual student of Saint Bernard of Clairvaux. Served as first abbot at the abbey in Novara, Sicily."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Gobban Saer"
 honorific: Saint
 summary: "Architect and builder of churches and related structures."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Peter James of Pesaro"
 honorific: Blessed
 summary: "Augustinian friar at the convent of Saint Nicholas in Pesaro, Italy."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Junian of Mairé"
 honorific: Saint
 title: "Hermit"

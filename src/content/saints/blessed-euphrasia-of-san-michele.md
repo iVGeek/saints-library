@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Euphrasia of San Michele"
 honorific: Blessed
 summary: "Franciscan Poor Clare nun. Reforming abbess of the Poor Clare monastery in Lisbon, Portugal."

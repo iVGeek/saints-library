@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Thomian of Armagh"
 honorific: Saint
 summary: "Bishop of Armagh, Ireland, from c.623. Involved in the controversy over the proper date for celebrating Easter."

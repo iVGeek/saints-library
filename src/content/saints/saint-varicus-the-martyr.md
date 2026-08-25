@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Varicus the Martyr"
 honorific: Saint
 died: "martyred in North Africa"

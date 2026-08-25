@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Zosimus of Spoleto"
 honorific: Saint
 summary: "Martyred in the persecutions of Emperor Trajan."

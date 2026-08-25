@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Silvanus"
 honorific: Saint
 summary: "Monk at Constantinople. Bishop of Troas, Phrygia. Prohibited his priests from working in secular courts."

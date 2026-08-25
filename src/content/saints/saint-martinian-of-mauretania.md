@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Martinian of Mauretania"
 honorific: Saint
 summary: "Enslaved by Arian Vandals in Mauretania in North Africa. Martyred in the persecutions of Genseric."

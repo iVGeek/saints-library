@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Reverianus of Autun"
 honorific: Saint
 summary: "Evangelizing bishop. Missionary to Gaul with Saint Paulus of Autun and ten companions whose names have not come down to us. Bishop of Autun, France, which formed the base of operations for the group. They were all martyred by order of Emperor Aurelian who was at war with the loca"

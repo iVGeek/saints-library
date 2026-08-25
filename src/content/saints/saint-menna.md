@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Menna"
 honorific: Saint
 summary: "Relative of Saint Eucherius and Saint Elaptius. Nun."

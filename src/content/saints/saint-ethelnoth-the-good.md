@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Ethelnoth the Good"
 honorific: Saint
 summary: "Monk of Glastonbury, England. Archbishop of Canterbury, England in 1020. Famed for his wisdom."

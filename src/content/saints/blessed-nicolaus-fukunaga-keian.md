@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Nicolaus Fukunaga Keian"
 honorific: Blessed
 summary: "Jesuit lay brother. Martyr."

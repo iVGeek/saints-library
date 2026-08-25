@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Isidoro Fernández Rubio"
 honorific: Blessed
 summary: "Married layman of the diocese of Córdoba, Spain. Martyred in the Spanish Civil War."

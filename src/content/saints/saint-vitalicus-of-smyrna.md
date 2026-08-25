@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Vitalicus of Smyrna"
 honorific: Saint
 summary: "Bishop. Martyr. No other information has suvived."

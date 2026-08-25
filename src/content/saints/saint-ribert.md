@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Ribert"
 honorific: Saint
 summary: "Monk. Abbot of Saint-Valèry-sur-Somme, France. May have been a bishop in the Normandy and Picardy areas of modern France."

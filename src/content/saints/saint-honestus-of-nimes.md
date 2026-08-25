@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Honestus of Nimes"
 honorific: Saint
 summary: "Convert. Priest. Evangelized in Spain with Saint Saturninus, who had brought him into the faith. Martyr."

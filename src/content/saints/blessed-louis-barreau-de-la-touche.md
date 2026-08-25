@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Louis Barreau de La Touche"
 honorific: Blessed
 summary: "Benedictine Maurist priest. One of the Martyrs of September."

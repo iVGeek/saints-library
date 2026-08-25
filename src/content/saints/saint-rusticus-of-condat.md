@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Rusticus of Condat"
 honorific: Saint
 summary: "Monk. Abbot of Condat Abbey from 697 to 731, serving for 34 years."

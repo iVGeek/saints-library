@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Eusebius of Nicomedia"
 honorific: Saint
 summary: "Martyred at Nicomedia (in modern Turkey). No other information has survived."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Ioannes Kisaki Kyuhachi"
 honorific: Blessed
 summary: "Layman of the archdiocese of Nagasaki, Japan. One of the Martyrs of Unzen."

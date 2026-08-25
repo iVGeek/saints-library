@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Trophimus of Ephesus"
 honorific: Saint
 summary: "Gentile first century convert. Missionary with Saint Paul. Pilgim to Jerusalem where his Gentile presence in the temple stated a riot."

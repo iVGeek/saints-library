@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Mariano Sierra Almázor"
 honorific: Blessed
 summary: "Benedictine priest in the Solesmes Congregation. Martyred in the Spanish Civil War."

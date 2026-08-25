@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Wolfang of Steinkirchen"
 honorific: Blessed
 summary: "Franciscan priest, noted for his charismatic preaching. Martyred by invading Turks for refusing to renounce Christianity."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Aucias of Thessalonica"
 honorific: Saint
 summary: "Reported to be a king, but of where is unknown. Martyr."

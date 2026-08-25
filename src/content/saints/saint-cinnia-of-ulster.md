@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Cinnia of Ulster"
 honorific: Saint
 summary: "Princess of Ulster, Ireland. Converted to Christianity by Saint Patrick; when she became a nun, Saint Patrick gave her the veil. Greatly honoured in County Louth, Ireland."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Joseph of Persia"
 honorific: Saint
 summary: "Priest. Martyred with Saint Acepsimas in the persecution of King Shapur II."

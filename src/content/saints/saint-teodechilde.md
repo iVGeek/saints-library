@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Teodechilde"
 honorific: Saint
 summary: "Nun. Abbess of Jouarre Abbey, Meaux, France c.630 where she was a noted spiritual teacher of her sisters."

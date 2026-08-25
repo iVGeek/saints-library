@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Christiana the Slave"
 honorific: Saint
 summary: "Fourth century Christian maiden kidnapped and enslaved by the pagan Iberi around the Caspian and Black Sea; her real name is lost to us, and she was called Christiana because she refused to give up her faith. Having performed miracles by praying, Christiana converted members of t"

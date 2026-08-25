@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Verda of Persia"
 honorific: Saint
 summary: "Persian Christian martyred in the persecutions of King Shapur II."

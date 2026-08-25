@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Antonio of Saint Dominic"
 honorific: Blessed
 summary: "Dominican friar. Martyr."

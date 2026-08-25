@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Marciana of Galatia"
 honorific: Saint
 summary: "One of a group of wives of 2nd century martyred soldiers under the command of Saint Meletius. Following the death of the soldiers, the wives and children were murdered, as well."

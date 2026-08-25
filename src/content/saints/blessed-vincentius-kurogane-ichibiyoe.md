@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Vincentius Kurogane Ichibiyoe"
 honorific: Blessed
 summary: "The son of Blessed Ludovicus Amagasu Uemon. Layman in the diocese of Niigata, Japan. Married to Blessed Thecla Kurogane. Martyr."

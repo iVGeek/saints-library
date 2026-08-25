@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Maura of Ravenna"
 honorific: Saint
 summary: "Nurse to Saint Fusca of Ravenna. Martyred in the persecutions of Decius."

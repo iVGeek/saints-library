@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Ursicinus of Cahors"
 honorific: Saint
 summary: "Monk. Abbot. Chancellor of Queen Ultragotha. Ninth bishop of Cahors, France in the early 580's. Saint Gregory of Tours mentions him in several writings. At one point he came into conflict with a fellow bishop who accused Ursicinus of taking charge of several parishes outside of t"

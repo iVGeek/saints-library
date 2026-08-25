@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Monica of Kyoto"
 honorific: Blessed
 summary: "Married lay woman in the Kyoto, Japan. One of the Martyrs of Kyoto."

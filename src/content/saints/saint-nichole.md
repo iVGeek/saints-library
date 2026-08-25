@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Nichole"
 honorific: Saint
 summary: "Abbess of the convent at Almenêches Abbey, France."

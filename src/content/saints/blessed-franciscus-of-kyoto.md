@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Franciscus of Kyoto"
 honorific: Blessed
 summary: "Layman in the Kyoto, Japan. One of the Martyrs of Kyoto."

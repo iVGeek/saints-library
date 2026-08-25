@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Daniel of Wichterich"
 honorific: Blessed
 title: "Bishop"

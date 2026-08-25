@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Porphyrius of Alexandria"
 honorific: Saint
 summary: "Student of Saint Pamphilus of Alexandria with whom he was tortured and martyred."

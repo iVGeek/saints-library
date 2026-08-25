@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Optatus of Auxerre"
 honorific: Saint
 summary: "Bishop of Auxerre, France c.529."

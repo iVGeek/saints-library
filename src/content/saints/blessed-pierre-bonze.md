@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Pierre Bonzé"
 honorific: Blessed
 summary: "Parish priest of Massey in the diocese of Versailles, France. One of the Martyrs of September."

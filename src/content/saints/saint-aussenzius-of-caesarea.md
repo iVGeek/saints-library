@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Aussenzius  of Caesarea"
 honorific: Saint
 summary: "Martyred in the persecutions of Maximian."

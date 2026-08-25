@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Romeo of Lucca"
 honorific: Blessed
 summary: "Carmelite brother. Pilgrim to the Holy Land and to Rome, Italy. He travelled and is associated with Blessed Avertano of Lucca. There are some records that list Blessed Enrico as Avertano's companion, Enrico and Romeo are apparently the same person."

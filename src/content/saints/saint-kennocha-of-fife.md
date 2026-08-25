@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Kennocha of Fife"
 honorific: Saint
 summary: "The only daughter of a wealthy family, she rejected the worldly life and a series of suitors, feeling a call to a life of prayer. Nun at Fife, Scotland. Miracle worker. Highly venerated in the area of Glasgow, Scotland."

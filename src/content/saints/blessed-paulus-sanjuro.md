@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Paulus Sanjuro"
 honorific: Blessed
 summary: "Layman in the diocese of Niigata, Japan. Married to Blessed Rufina Banzai; son-in-law of Blessed Ioannes Banzai Kazue. Martyr."

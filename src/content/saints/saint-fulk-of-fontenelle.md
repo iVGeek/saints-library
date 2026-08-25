@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Fulk of Fontenelle"
 honorific: Saint
 summary: "Benedictine monk. Abbot at Fontenelle in France."

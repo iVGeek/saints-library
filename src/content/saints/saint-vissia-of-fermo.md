@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Vissia of Fermo"
 honorific: Saint
 summary: "Consecrated virgin martyred in the persecutions of Decius."

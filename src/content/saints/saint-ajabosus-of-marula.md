@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Ajabosus of Marula"
 honorific: Saint
 summary: "Martyr."

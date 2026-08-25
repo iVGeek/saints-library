@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Euflamia"
 honorific: Saint
 summary: "Soldier. Imperial Roman legionaire. Martyr."

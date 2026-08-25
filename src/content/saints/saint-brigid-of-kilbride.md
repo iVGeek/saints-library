@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Brigid of Kilbride"
 honorific: Saint
 summary: "Friend of Saint Brigid of Kildare. Venerated in the diocese of Lismore, Ireland."

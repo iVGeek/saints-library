@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Paul of Jamnia"
 honorific: Saint
 summary: "Imprisoned and sentenced to forced labour in the mines of Cilicia. Martyr."

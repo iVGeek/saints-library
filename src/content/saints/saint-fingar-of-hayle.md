@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Fingar of Hayle"
 honorific: Saint
 summary: "Brother of Saint Phiala. Martyred with several companions by pagans. No other information has survived."

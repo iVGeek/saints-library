@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Frunumius of North Africa"
 honorific: Saint
 summary: "Martyr. No other information has survived."

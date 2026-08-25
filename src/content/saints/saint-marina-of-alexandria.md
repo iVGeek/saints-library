@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Marina of Alexandria"
 honorific: Saint
 summary: "Martyr."

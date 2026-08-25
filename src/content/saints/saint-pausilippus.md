@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Pausilippus"
 honorific: Saint
 summary: "Martyred in the persecutions of Emperor Hadrian."

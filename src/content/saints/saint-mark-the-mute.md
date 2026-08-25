@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Mark the Mute"
 honorific: Saint
 summary: "A deaf-mute man known for his piety and ascetic lifestyle. No other information about him has survived."

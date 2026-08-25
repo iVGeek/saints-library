@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Elisabeth Chong Chong-Hye"
 honorific: Venerable
 summary: "Lay woman in the apostolic vicariate of Korea. Martyr."

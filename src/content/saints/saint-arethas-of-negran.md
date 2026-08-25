@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Arethas of Negran"
 honorific: Saint
 summary: "Sixth-century governor of the town of Negran in Arabia Felix. Martyred with a large number of Christians in the persecutions of Dunaan."

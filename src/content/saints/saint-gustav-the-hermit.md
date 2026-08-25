@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Gustav the Hermit"
 honorific: Saint
 title: "Hermit"

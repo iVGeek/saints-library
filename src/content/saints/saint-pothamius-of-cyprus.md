@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Pothamius of Cyprus"
 honorific: Saint
 summary: "Martyr."

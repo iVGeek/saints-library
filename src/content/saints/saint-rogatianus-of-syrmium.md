@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Rogatianus of Syrmium"
 honorific: Saint
 summary: "One of a group of 4th century martyrs."

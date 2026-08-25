@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Theodota of Nicaea"
 honorific: Saint
 summary: "Martyr."

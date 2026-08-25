@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Enguerrammus the Wise"
 honorific: Saint
 summary: "Monk and then abbot of the abbey of Saint-Riquier, France. Noted for being a great spiritual teacher to his brother monks."

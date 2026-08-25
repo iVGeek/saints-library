@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Diemut of Saint Gall"
 honorific: Saint
 title: "Hermit"

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Félix of Cîteaux"
 honorific: Blessed
 summary: "No information has survived."

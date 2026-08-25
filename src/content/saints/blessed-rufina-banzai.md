@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Rufina Banzai"
 honorific: Blessed
 summary: "Lay woman in the diocese of Niigata, Japan. Married to Blessed Paulus Sanjuro. Martyr."

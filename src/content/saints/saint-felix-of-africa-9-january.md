@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Felix of Africa"
 honorific: Saint
 summary: "One of a group of 21 Christians martyred together in the persecutions of Decius."

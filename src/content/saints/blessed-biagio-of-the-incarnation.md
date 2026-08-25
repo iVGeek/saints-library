@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Biagio of the Incarnation"
 honorific: Blessed
 title: "Deacon"

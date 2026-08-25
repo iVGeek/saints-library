@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Ruf of Avignon"
 honorific: Saint
 summary: "Fourth century missionary to Avignon, France. He was the first to lead a Christian community there, and has long been considered the first bishop of Avignon."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Theodore of Cyrene"
 honorific: Saint
 summary: "Scribe and manuscript copyist. Bishop of Cyrene, Libya. Arrested in the persecutions of Diocletian. Theodore was ordered to surrender his copies of the Scriptures; when he refused he was scourged, his tongue was cut out, and he was executed. Martyr."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Modoald of Trier"
 honorific: Saint
 summary: "Born to the nobility. Brother of Saint Severa of Saint Gemma. Uncle of Saint Gertrude of Nivelles, Saint Begga of Ardenne and Saint Modesta of Trier. Counselor to King Dagobert I of the Franks. Bishop of Trier, Germany in 628. Attended the Council of Rheims. He spoke so strongly"

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Nicetas of Pereaslav"
 honorific: Blessed
 summary: "Married layman who worked as a tax collector in Pereaslav, Russia; he was well known for his greed and merciless collection methods. At one point, though, he had a complete conversion experience, quit his job, left his family, gave up worldly life, and became a monk, giving himse"

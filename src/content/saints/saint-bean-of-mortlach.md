@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Bean of Mortlach"
 honorific: Saint
 summary: "Bishop of Mortlach, Banff, Scotland, chosen by Pope Benedict VIII. Evangelized in Aberdeen, Scotland."

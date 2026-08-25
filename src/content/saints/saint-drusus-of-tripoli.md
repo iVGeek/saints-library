@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Drusus of Tripoli"
 honorific: Saint
 summary: "Martyr."

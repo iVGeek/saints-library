@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Thomas-René Dubuisson"
 honorific: Blessed
 summary: "Priest of the diocese of Orléans, France. Served in the Holy Cross parish in Sens, France in 1781, and then at the Saint Dionysius parish in Barville. In the French Revolution, he refused to take the oath of loyalty to the civil government, which opposed loyalty to the Vatican. O"

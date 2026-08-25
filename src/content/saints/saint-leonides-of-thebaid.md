@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Leonides of Thebaid"
 honorific: Saint
 summary: "Martyred with a group of fellow Christians in the persecutions of Diocletian."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Cyrinus of Antwerp"
 honorific: Saint
 summary: "Martyr."

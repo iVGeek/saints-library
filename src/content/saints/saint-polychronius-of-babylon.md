@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Polychronius of Babylon"
 honorific: Saint
 summary: "Bishop of Babylon. Martyr. No other reliable information has survived."

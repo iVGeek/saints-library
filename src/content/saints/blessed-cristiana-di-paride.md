@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Cristiana di Paride"
 honorific: Blessed
 summary: "Cristiana was born to the nobility, the daughter of Cristiano di Paride, a knight who served as consol of Assisi. She entered the Poor Clare monastery of San Damiano in 1246 or 1247. Spiritual student of Saint Clare of Assisi, who in the summer of 1252 cured Christiana of deafnes"

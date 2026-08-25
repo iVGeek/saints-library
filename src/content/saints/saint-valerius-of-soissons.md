@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Valerius of Soissons"
 honorific: Saint
 summary: "Lived at Soissons, Gaul (in modern France). May have been a missionary from Rome, Italy. Fled during the persecution of Diocletian, but was captured. When brought to court, he made a bold, public statement of faith. Tortured and martyred with Saint Rufinus."

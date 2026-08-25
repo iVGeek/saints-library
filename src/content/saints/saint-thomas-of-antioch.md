@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Thomas of Antioch"
 honorific: Saint
 summary: "Hermit near Antioch, Syria."

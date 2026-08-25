@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Julian the Martyr"
 honorific: Saint
 summary: "Martyred in the persecutions of Emperor Maximian Herculeus."

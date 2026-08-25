@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Owen"
 honorific: Saint
 summary: "Steward in the household of Saint Etheldreda. Monk at Lastingham, England, and then near Lichfield, England. Spiritual student of Saint Chad."

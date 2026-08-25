@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Ruma of Najran"
 honorific: Saint
 summary: "Christian princess of the city of Nagrana (modern Najran, Saudi Arabia). She, her husband and children were part of the Martyrs of Najran who were killed by order of Dhu Nuwas, king of the Omeritani who had converted to Judaism and demanded that everyone in his kingdom do so, too"

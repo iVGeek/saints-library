@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Gregory of Fragalata"
 honorific: Saint
 title: "Bishop"

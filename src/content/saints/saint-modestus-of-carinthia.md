@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Modestus of Carinthia"
 honorific: Saint
 summary: "Benedictine monk. Spiritual student of Saint Virgilius at Salzburg, Austria. Bishop of Carinthia, Austria, and largely responsible for the region's evangelization."

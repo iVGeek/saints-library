@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Agathodorus of Pergamus"
 honorific: Saint
 summary: "Servant of Saint Papylus of Pergamus and Saint Agathonica of Pergamus. Martyred in the persecutions of Decius."

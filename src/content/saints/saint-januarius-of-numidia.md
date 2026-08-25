@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Januarius of Numidia"
 honorific: Saint
 summary: "Second century martyr."

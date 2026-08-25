@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Isala"
 honorific: Saint
 summary: "Travelling companion of, and martyred with Saint Ursula. Nothing else is known about her."

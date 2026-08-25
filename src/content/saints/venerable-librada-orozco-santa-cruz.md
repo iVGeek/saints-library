@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Venerable Librada Orozco Santa Cruz"
 honorific: Venerable
 summary: "Founded the Franciscan Sisters of Our Lady of Refuge."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Melorius"
 honorific: Saint
 summary: "Venerated in Amesbury, Wiltshire, England and in Quimper, Brittany, France."

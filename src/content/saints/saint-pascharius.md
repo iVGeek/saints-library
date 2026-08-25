@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Pascharius of Nantes"
 honorific: Saint
 title: "Bishop"

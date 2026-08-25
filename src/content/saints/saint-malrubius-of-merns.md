@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Malrubius of Merns"
 honorific: Saint
 summary: "Hermit in Merns, Kincardineshire, Scotland. Martyred by Norwegian invaders."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Jean-Robert Quéneau"
 honorific: Blessed
 summary: "Priest in the diocese of Angers, France. One of the Martyrs of September."

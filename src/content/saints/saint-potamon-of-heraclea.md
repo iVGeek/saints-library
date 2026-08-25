@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Potamon of Heraclea"
 honorific: Saint
 summary: "Bishop of Heraclea, Egypt. Tortured, mutilated and crippled for his faith during the persecutions of Maximinus Daia in the early 4th century. Attended the Council of Nice in 325 and zealously opposed Arianism. Friend of Saint Athanasius whom he defended in the Council of Tyre in"

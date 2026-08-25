@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Glunshallaich"
 honorific: Saint
 summary: "Seventh century convert, led to the faith by Saint Kevin of Glendalough; noted for a life of penance."

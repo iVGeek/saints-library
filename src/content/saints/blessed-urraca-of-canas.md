@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Urraca of Cañas"
 honorific: Blessed
 summary: "Born to the Castilian nobility, the daughter of Diego Leopez II of Haro and Toda Perez de Azagra; niece of Queen Urraca of León. Married to Count Alvaro Núñez de Lara in her early 20's, she was widowed in 1218 at age 26. Instead to continuing her life in the world, Urraca retired"

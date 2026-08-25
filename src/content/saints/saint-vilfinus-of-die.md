@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Vilfinus of Die"
 honorific: Saint
 title: "Bishop"

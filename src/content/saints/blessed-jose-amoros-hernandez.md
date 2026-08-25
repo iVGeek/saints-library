@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed José Amorós Hernández"
 honorific: Blessed
 summary: "Claretian priest. Martyred in the Spanish Civil War."

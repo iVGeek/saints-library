@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Robert of Frassinoro"
 honorific: Blessed
 summary: "Benedictine monk. Abbot of the abbey of Frassinoro near Modena, Italy."

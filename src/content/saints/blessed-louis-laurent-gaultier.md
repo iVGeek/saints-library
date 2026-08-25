@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Louis-Laurent Gaultier"
 honorific: Blessed
 summary: "Priest of the archdiocese of Paris, France. One of the Martyrs of September."

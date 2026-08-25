@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Robert Sutton"
 honorific: Blessed
 summary: "Protestant minister; rector of Lutterworth, Leicestershire, England in 1571. Convert to Catholicism, led to the faith by his younger brother William who became a Jesuit priest. With his younger brother Abraham, he studied in Douai, France in 1576. Ordained in February 1577 for th"

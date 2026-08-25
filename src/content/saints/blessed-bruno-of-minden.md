@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Bruno of Minden"
 honorific: Blessed
 title: "Bishop"

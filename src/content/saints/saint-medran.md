@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Medran"
 honorific: Saint
 summary: "Brother of Saint Odran. Disciple of Saint Kieran of Saghir."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Lindru of Partois"
 honorific: Saint
 summary: "Nun in Partois, France."

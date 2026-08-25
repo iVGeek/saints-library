@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Caius of Korea"
 honorific: Blessed
 summary: "Layman catechist in the archdiocese of Nagasaki, Japan. Martyr. Caius was accepted into the Jesuits, but had been executed before the notice reached him."

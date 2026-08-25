@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed José Serrano Pastor"
 honorific: Blessed
 summary: "Member of the Claretians, professed on 15 August 1915. Ordained a priest on 25 May 1923. Martyred in the Spanish Civil War."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Venerable Anthony Battie"
 honorific: Venerable
 summary: "Layman farmer of Masham, Yorkshire, England. Martyred in the persecutions of Queen Elizabeth I for harbouring priests."

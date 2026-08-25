@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Tomás Alonso Sanjuán"
 honorific: Blessed
 summary: "Salesian priest. Martyred in the Spanish Civil War."

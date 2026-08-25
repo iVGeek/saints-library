@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Edigna of Puch"
 honorific: Blessed
 birthYear: 1055

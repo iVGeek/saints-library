@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Adelheidis of Tennenbach"
 honorific: Blessed
 summary: "Born to an aristocratic family. Benedictine Cistercian nun and recluse at Tennenbach Abbey."

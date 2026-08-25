@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Dimitrianus of Verona"
 honorific: Saint
 summary: "Second bishop of Verona, Italy."

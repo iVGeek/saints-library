@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Magdalena Kiyota"
 honorific: Blessed
 summary: "Married member of the Lay Dominicans in the archdiocese of Nagasaki, Japan. Martyr."

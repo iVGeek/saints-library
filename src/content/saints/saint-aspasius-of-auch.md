@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Aspasius of Auch"
 honorific: Saint
 title: "Bishop"

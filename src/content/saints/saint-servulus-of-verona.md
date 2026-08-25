@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Servulus of Verona"
 honorific: Saint
 title: "Bishop"

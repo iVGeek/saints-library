@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Louis Mauduit"
 honorific: Blessed
 summary: "Feeling a call to religious life, Louis studied at the seminary in Sens, France. Ordained a priest of the archdiocese of Orléans, France in 1785. He served as curate in Noyers, France. At the start of the French Revolution, he refused to take the oath to the Civil Constitution, w"

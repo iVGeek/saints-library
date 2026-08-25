@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Doucelin"
 honorific: Saint
 summary: "Spiritual student of Saint Martin of Tours. Evangelist."

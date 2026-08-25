@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Thespesius of Cappadocia"
 honorific: Saint
 summary: "Martyred in the persecutions of Emperor Alexander Severus."

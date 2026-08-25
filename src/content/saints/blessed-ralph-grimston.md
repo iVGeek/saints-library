@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Ralph Grimston"
 honorific: Blessed
 summary: "Married layman in the apostolic vicariate of England during a period of persecutions of Catholics. Martyr."

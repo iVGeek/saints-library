@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Zeno of Nicaea"
 honorific: Saint
 summary: "Martyr."

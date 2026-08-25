@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Paul of Byzantium"
 honorific: Saint
 summary: "Martyr."

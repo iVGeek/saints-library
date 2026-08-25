@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Ioachim Watanabe Jirozaemon"
 honorific: Blessed
 summary: "Married layman in the diocese of Fukuoka, Japan. Martyr."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Secunda of Tebourba"
 honorific: Saint
 summary: "Martyred at age 12 in the persecutions of Diocletian."

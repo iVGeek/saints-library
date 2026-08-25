@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Robert of Syracuse"
 honorific: Saint
 summary: "Abbot of a monastery in Syracuse, Sicily."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed David of Himmerod"
 honorific: Blessed
 summary: "Studied in Paris, France. Benedictine Cistercian monk at Clairvaux Abbey in 1131; spiritual student of Saint Bernard of Clairvaux who accepted David after he had been initially rejected due to health problems. Assigned by Saint Bernard to found and lead the Himmerod Abbey, Trier,"

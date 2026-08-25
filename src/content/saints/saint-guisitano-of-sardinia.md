@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Guisitano of Sardinia"
 honorific: Saint
 summary: "Martyr. No details have survived."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Venerable Juan Sáez Hurtado"
 honorific: Venerable
 summary: "Priest of the diocese of Cartagena, Spain."

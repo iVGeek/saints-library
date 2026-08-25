@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Pedro López Delgado"
 honorific: Blessed
 summary: "Pedro joined the Dominicans in 1926, making his solemn professedon on 10 February 1930. Ordained a priest on 16 July 1933. Martyred in the Spanish Civil War."

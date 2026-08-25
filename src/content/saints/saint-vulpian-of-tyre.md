@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Vulpian of Tyre"
 honorific: Saint
 summary: "Martyred in the persecutions of Diocletian and Maximian Galerius."

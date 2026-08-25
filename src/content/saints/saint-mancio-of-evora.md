@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Mancio of Évora"
 honorific: Saint
 summary: "Sixth century bishop of Évora, Portugal. Martyr."

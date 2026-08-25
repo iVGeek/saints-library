@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Talulla of Kildare"
 honorific: Saint
 summary: "Nun. Abbess of Cell Dara monastery (in modern Kildare, Ireland)."

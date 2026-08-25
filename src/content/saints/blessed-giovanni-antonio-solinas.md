@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Giovanni Antonio Solinas"
 honorific: Blessed
 summary: "Jesuit priest. Missionary to the Tobas, Mocovíes and Mataguayos people in Argentina. Martyred with a fellow priest and 23 converts by Tobas and Mocovíes members for bringing Christianity."

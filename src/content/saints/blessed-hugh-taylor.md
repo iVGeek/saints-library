@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Hugh Taylor"
 honorific: Blessed
 summary: "Studied at Rheims, France. Ordained in 1584. Ministered to covert and oppressed Catholics in England starting in March 1585. He worked for only a few months, being the first person martyred in the persecutions of Queen Elizabeth. One of the Martyrs of England, Scotland and Wales."

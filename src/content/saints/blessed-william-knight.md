@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed William Knight"
 honorific: Blessed
 summary: "Layman in the apostolic vicariate of England during a period of persecutions of Catholics. Martyr."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Charbel"
 honorific: Saint
 summary: "Martyred in the persecutions of Trajan."

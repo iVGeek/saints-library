@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Marcellinus Choe Chang-ju"
 honorific: Blessed
 summary: "Layman martyr in the apostolic vicariate of Korea."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Antôn Nguyen Ðích"
 honorific: Venerable
 summary: "Married layman in the apostolic vicariate of West Tonkin. A wealthy farmer, solid citizen, and patron of his church. He worked to help the missionaries of the Paris Foreign Mission Society, supporting them financially, and hiding priests from government oppression. Arrested and t"

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Arealdo of Brescia"
 honorific: Saint
 summary: "Martyred with his sons Carillo and Oderico by invading Lombards."

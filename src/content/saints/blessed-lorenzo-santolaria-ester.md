@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Lorenzo Santolaria Ester"
 honorific: Blessed
 summary: "Benedictine monk in the Solesmes Congregation. Martyred in the Spanish Civil War."

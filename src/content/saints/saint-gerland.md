@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Gerland"
 honorific: Saint
 summary: "Thirteenth century knight."

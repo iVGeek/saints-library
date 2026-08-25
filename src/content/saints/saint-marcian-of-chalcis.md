@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Marcian of Chalcis"
 honorific: Saint
 summary: "Born to the nobility. Soldier, commander and member of the imperial court. He abandoned the worldly life to become a desert hermit at Chalcis near Antioch. His reputation for holiness attracted so many students that he founded a monastery for them. Miracle worker; when he wished"

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Luppus"
 honorific: Saint
 summary: "Christian slave. Martyr, date and location unknown."

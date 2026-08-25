@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Eusician"
 honorific: Saint
 title: "Hermit"

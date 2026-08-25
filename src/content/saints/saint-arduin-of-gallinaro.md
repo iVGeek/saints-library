@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Arduin of Gallinaro"
 honorific: Saint
 summary: "English pilgrim."

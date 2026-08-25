@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Oda of Aquitaine"
 honorific: Saint
 summary: "Princess. Married to the Duke of Aquitaine (in modern France. Widow. Devoted her life after marriage, and her fortune, to care of the poor and suffering."

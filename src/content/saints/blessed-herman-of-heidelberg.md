@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Herman of Heidelberg"
 honorific: Blessed
 summary: "Brother of Blessed Otto of Heidelberg. Benedictine monk at Niederaltaich, Bavaria in 1320, living in a hermit's cell in the monastery."

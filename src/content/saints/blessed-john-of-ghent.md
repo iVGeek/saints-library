@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed John of Ghent"
 honorific: Blessed
 summary: "Benedictine monk at the abbey of Sainte-Claude in the Jura Mountains. Worked with Saint Joan of Arc."

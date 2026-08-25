@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Abundus of Villers"
 honorific: Blessed
 summary: "Cistercian monk at Villers in Brabant (in modern Belgium). Known from his youth for his unworldly innocence and simplicity. Had the gift of prophecy and devotion to the Blessed Virgin Mary who appeared to him in visions on multiple occasions."

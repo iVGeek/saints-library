@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Ceollach"
 honorific: Saint
 summary: "Bishop of the Mercians. Monk at Iona, Scotland. Spent his final years in Ireland."

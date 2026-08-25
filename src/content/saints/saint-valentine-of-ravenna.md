@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Valentine of Ravenna"
 honorific: Saint
 summary: "Martyred in the persecutions of Diocletian."

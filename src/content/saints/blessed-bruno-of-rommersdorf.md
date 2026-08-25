@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Bruno of Rommersdorf"
 honorific: Blessed
 summary: "Born to the noblity in Braunschweig, Germany. Knight. He gave up worldly privilete and joined the Premonstratensians. Abbot of the Rommersdorf cloister near Engers am Rhein, Germany; he expanded the house and enlarged its library. Assigned by Pope Honorius III to preach Crusade i"

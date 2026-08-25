@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Fulgentius of Afflighem"
 honorific: Blessed
 summary: "Benedictine monk at the monastery of Saint Airy in Verdun, France. When the monastery, was dissolved due to political conflicts, Fulgentius became monk and then abbot of the monastery of Afflighem, Belgium."

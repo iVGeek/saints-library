@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Wulfhilda"
 honorific: Saint
 summary: "May have been a member of the Anglo-Saxon nobility. While a novice at Wilton abbey, King Edgar the Peaceful sought her hand in marriage. She declined, and eventually took her vows as a Benedictine nun. Abbess of convents in Barking and Ilorton in 993."

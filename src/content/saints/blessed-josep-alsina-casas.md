@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Josep Alsina Casas"
 honorific: Blessed
 summary: "Franciscan Capuchin friar, professed on 19 December 1928. Ordained a priest on 20 February 1932. Murdered by Marxists in the Spanish Civil War."

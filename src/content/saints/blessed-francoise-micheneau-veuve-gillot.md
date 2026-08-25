@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Françoise Micheneau veuve Gillot"
 honorific: Blessed
 summary: "Married lay woman of the diocese of Angers, France. Martyred in the persecutions of the French Revolution."

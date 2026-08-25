@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Eugraphus of Alexandria"
 honorific: Saint
 summary: "Martyr."

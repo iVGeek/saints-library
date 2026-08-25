@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Peter the Librarian"
 honorific: Saint
 summary: "Martyr."

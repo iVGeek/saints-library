@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed John of Valence"
 honorific: Blessed
 summary: "Canon at Lyons, France. Pilgrim to Compostela, Spain. Benedictine Cistercian monk at Clairvaux Abbey under Saint Bernard. Founded the Cistercian Bonneval Abbey in 1117, and later served as its abbot. Bishop of Valence, France in 1141; he felt so unworthy of the position that he h"

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Theofrid of Corbie"
 honorific: Saint
 summary: "Benedictine monk at Luxeuil Abbey. Abbot of Corbie Abbey. Bishop."

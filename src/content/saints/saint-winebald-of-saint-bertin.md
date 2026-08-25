@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Winebald of Saint Bertin"
 honorific: Saint
 summary: "Deacon at Saint Bertin Abbey. Murdered by invading Danes. Martyr."

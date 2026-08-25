@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Severinus of Tivoli"
 honorific: Saint
 summary: "Benedictine monk. Hermit at Tivoli, Italy."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Juan Antonio Pérez Mayo"
 honorific: Blessed
 summary: "One of seven children born to Modesto Pérez and Beatriz Mayo; his was a pious family, and Juan was baptized on 23 March 1908. Member of the Tarsicios, a religious association for children; at age 14 he started doing over-night Eucharistic adoration and started talking about becom"

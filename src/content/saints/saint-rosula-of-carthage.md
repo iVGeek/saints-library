@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Rosula of Carthage"
 honorific: Saint
 summary: "Martyr."

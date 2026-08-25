@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Scoth"
 honorific: Saint
 summary: "Irish nun."

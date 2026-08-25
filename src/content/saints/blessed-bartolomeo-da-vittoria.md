@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Bartolomeo da Vittoria"
 honorific: Blessed
 summary: "A 15th-16th century Franciscan friar known as a humble man with a deep prayer life and the gift of prophecy."

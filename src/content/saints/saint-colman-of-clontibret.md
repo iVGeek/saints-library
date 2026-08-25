@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Colman of Clontibret"
 honorific: Saint
 summary: "Mentioned in some martyrologies, but no information has survived."

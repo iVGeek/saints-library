@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Baldegundis"
 honorific: Saint
 summary: "Abbess of Saint-Croix in Poitiers, France."

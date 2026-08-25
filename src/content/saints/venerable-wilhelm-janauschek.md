@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Venerable Wilhelm Janauschek"
 honorific: Venerable
 summary: "Remptorist priest."

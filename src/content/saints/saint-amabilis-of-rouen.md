@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Amabilis of Rouen"
 honorific: Saint
 summary: "Born to the English nobility. Nun at Saint-Amand in Rouen, France."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Zeno of Gaza"
 honorific: Saint
 summary: "Brother of Saint Eusebius and Nestulus. Seized, dragged through the street, beaten and murdered by a pagan mob celebrating the renunciation of Christianity by Julian the Apostate. Martyr."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Vitus of Bergamo"
 honorific: Saint
 summary: "Benedictine monk near Bergamo, Italy. Spiritual student of Saint Albert."

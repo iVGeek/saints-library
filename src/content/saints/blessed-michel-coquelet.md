@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Michel Coquelet"
 honorific: Blessed
 summary: "Member of the Missionary Oblates of Mary Immaculate. Priest. Martyr."

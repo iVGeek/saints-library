@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Nunctus of Mérida"
 honorific: Saint
 summary: "Monk. Abbot of a monastery near Mérida, Spain. Murdered by robbers of his house. Martyr."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Eginus of Verona"
 honorific: Blessed
 summary: "Born to the Alemannic nobility, he was related to Hildegard, second wife of Blessed Charlemagne, and a served in the imperial court. Bishop of the diocese of Verona, Italy in 780. He built the Saints Peter and Paul convent on Reichenau Island (in modern Germany, and in 799, reali"

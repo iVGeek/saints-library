@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Leo Aibara"
 honorific: Blessed
 summary: "Lifelong layman in the archdiocese of Nagasaki, Japan. Grandson of Blessed Romanus Aibara; son of Blessed Paulus Aibara Sandayu. Member of the Lay Dominicans. Martyr."

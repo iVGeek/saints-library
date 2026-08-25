@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Jean-Baptiste-Claude Aubert"
 honorific: Blessed
 summary: "Priest in the diocese of Versailles, France. One of the Martyrs of September."

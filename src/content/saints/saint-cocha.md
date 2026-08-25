@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Cocha"
 honorific: Saint
 summary: "Sixth-century abbess of Ross-Benchuir, Ireland."

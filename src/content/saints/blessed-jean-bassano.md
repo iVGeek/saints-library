@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Jean Bassano"
 honorific: Blessed
 summary: "Canon regular. Celestine Benedictine at Paris, France. Spiritual director of Saint Colette. Held several offices in his congregation, and worked to establish it in England and the Aragon region of Spain."

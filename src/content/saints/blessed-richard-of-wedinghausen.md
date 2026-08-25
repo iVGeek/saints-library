@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Richard of Wedinghausen"
 honorific: Blessed
 summary: "Member of the Premonstratensians. Canon of the Norbertine monastery of Wedinghausen in Arnsberg, Germany. Theological writer."

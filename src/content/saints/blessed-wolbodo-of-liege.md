@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Wolbodó of Liège"
 honorific: Blessed
 summary: "May have been born to the Flemish nobility. Educated at the Domschool in Utrecht, Netherlands; he later taught there, became the head teacher in 1012, and today's student society of Menschen Vereeniging Wolbodo is named for him. Provost of the cathedral of Saint Martin of Tours i"

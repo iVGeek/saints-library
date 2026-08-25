@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Severus de Rustan"
 honorific: Saint
 title: "Priest"

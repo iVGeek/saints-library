@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Francesco dei Maleficii"
 honorific: Blessed
 summary: "Franciscan missionary to Corsica."

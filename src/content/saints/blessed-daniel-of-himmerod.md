@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Daniel of Himmerod"
 honorific: Blessed
 summary: "Cistercian monk. No other information has survived."

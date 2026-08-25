@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Saturninus of Numidia"
 honorific: Saint
 summary: "Second century martyr."

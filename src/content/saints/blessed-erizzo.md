@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Erizzo"
 honorific: Blessed
 summary: "First spiritual student of Saint John Gualbert. Vallombrosan monk. Fourth superior-general of the Vallombrosans."

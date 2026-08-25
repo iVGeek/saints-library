@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Dionysius of Ruthenia"
 honorific: Saint
 summary: "Monk in Ruthenia (in modern Ukraine)."

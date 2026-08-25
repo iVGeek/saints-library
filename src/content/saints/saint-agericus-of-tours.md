@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Agericus of Tours"
 honorific: Saint
 summary: "Spiritual student of Saint Eligius. Abbot of Saint Martin's in Tours, France."

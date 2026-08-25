@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Severa of Oehren"
 honorific: Saint
 summary: "Abbess of the convent of Oehren in Trier, Germany."

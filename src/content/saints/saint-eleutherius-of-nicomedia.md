@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Eleutherius of Nicomedia"
 honorific: Saint
 summary: "Soldier. Martyred with a number of unnamed companions in the persecutions of Diocletian. No other reliable information has survived."

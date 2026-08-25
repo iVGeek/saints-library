@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Rúnach"
 honorific: Saint
 summary: "Runach is listed in the Tallaght, Donegal and Gorman martyrologies, and there was a church dedicated to him in Galway Bay, but no information about him has come down to us."

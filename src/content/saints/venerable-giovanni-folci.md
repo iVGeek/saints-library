@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Venerable Giovanni Folci"
 honorific: Venerable
 summary: "Priest in the diocese of Como, Italy. Founded the Work of the Divine Prisoner."

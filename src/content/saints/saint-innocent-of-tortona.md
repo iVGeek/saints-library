@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Innocent of Tortona"
 honorific: Saint
 summary: "Confessor of the faith, imprisoned and scourged in the Diocletian persecution. Priest. Bishop of Tortona, Italy in 326."

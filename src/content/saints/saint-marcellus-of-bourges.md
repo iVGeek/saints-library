@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Marcellus of Bourges"
 honorific: Saint
 summary: "Martyr. No other information as survived."

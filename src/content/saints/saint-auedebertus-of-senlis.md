@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Auedebertus of Senlis"
 honorific: Saint
 summary: "Bishop of Senlis, France. The exact dates have been lost, but there are documents with his signature between 652 and 667. Late in life he apparently retired from his see to spend his last days as a prayerful monk."

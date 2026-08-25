@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint John of Persia"
 honorific: Saint
 summary: "Bishop. Martyred with Saint James of Persia in the persecutions of King Shapur II."

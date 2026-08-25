@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Julian of Apamea"
 honorific: Saint
 summary: "Third century bishop of Apamea, Syria. Worked against the Montanist and Kata-Phrygian heresies."

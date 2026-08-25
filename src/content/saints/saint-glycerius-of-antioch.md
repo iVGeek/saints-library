@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Glycerius of Antioch"
 honorific: Saint
 summary: "Deacon. Tortured and martyred for his faith."

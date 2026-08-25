@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Ebontius of Babastro"
 honorific: Blessed
 summary: "Benedictine monk in Sainte-Foi, Tomieres, France. Abbot of San Victorian, Ainsa, Aragon, Spain. Bishop of Roda de Isábena, Aragon, Spain. The see was moved to Babastro, Spain after it was re-captured from the Moors."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Bernard of Toulouse"
 honorific: Blessed
 summary: "Dominican friar. Opposed Albigensianism. Martyr."

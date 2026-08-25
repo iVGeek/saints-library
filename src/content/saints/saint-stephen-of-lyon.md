@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Stephen of Lyon"
 honorific: Saint
 summary: "Bishop of Lyon, France. Worked to convert the Arian Burgundians to orthodox Christianity."

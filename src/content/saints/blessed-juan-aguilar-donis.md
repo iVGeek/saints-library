@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Juan Aguilar Donis"
 honorific: Blessed
 summary: "Dominican friar. After studying philosophy and theology in Almagro, Spain. Ordained a priest in 1913, he was assigned to several Dominican houses, including in Almería, Spain. At the outbreak of the Spanish Civil War, he went into hiding to escape the anti-Catholic Communist mili"

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Montanus of Gaeta"
 honorific: Saint
 summary: "Soldier. Martyr."

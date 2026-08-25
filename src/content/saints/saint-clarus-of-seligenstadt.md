@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Clarus of Seligenstadt"
 honorific: Saint
 title: "Hermit"

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Jocundus of Lucania"
 honorific: Saint
 summary: "Martyr."

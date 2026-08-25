@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Benno of Osnabruck"
 honorific: Blessed
 summary: "Monk. Courtier to Emperor Henry III. Bishop of Osnabruck, Germany in 1068; he served for 20 years. Involved in the disputes between Emperor Henry IV and Pope Gregory VII. Founded Iburg Abbey in Bad Iburg, Germany."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Guglielmo de Carraria"
 honorific: Blessed
 summary: "Soldier. Mercedarian knight at the convent of Santa Maria d'Esteron in Menorca, Spain. Noted for his austere lifestyle and personal piety."

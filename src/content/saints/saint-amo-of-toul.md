@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Amo of Toul"
 honorific: Saint
 summary: "Fourth-century bishop of Toul, France."

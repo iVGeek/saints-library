@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Simplicio of Autun"
 honorific: Saint
 summary: "Born to the Frankish nobility. Married. Bishop of Autun, Gaul (in modern France)."

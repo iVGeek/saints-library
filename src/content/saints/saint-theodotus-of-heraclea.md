@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Theodotus of Heraclea"
 honorific: Saint
 summary: "Priest. Martyr."

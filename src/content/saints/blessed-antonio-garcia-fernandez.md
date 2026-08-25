@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Antonio García Fernández"
 honorific: Blessed
 summary: "Priest in the diocese of Almería, Spain. Martyred in the Spanish Civil War."

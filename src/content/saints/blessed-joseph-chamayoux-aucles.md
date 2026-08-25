@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Joseph Chamayoux Auclés"
 honorific: Blessed
 summary: "Member of the Salesians. Teacher. Martyred in the Spanish Civil War."

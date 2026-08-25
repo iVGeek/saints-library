@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Martín Pozo Díaz"
 honorific: Blessed
 summary: "Married layman in the diocese of Córdoba, Spain."

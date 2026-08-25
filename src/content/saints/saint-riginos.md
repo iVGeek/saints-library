@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Riginos"
 honorific: Saint
 summary: "Bishop. Martyr."

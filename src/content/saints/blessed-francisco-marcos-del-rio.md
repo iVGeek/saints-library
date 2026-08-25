@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Francisco Marcos Del Río"
 honorific: Blessed
 summary: "Augustinian priest. Martyred in the Spanish Civil War."

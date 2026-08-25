@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Melitus of Pontus"
 honorific: Saint
 summary: "Late 3rd-century bishop in Pontus (in modern Turkey); known as an eloquent speaker. He was frequently abused for his faith during the persecutions of Diocletian, but there are no records of him being a martyr."

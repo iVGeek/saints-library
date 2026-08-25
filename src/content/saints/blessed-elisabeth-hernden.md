@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Elisabeth Hernden"
 honorific: Blessed
 summary: "Leader of a group of Franciscan tertiaries in Germany."

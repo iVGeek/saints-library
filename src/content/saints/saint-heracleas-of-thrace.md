@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Heracleas of Thrace"
 honorific: Saint
 summary: "Martyred in Thrace. No other information has survived."

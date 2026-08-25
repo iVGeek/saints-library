@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Ferrario of Saragossa"
 honorific: Blessed
 summary: "Mercedarian friar known for his piety and as a miracle worker."

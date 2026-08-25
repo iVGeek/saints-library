@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Namatius of Clermont"
 honorific: Saint
 title: "Bishop"

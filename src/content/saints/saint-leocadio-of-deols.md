@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Leocadio of Déols"
 honorific: Saint
 title: "Priest"

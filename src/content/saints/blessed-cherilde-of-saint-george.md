@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Cherilde of Saint George"
 honorific: Blessed
 title: "Hermit"

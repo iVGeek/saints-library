@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Francis Galvez"
 honorific: Blessed
 summary: "Joined the Franciscan Friars Minor in 1591. Missionary to Manila, Philippines in 1609. Missionary to Japan in 1612. Forced to return to Manila in 1614 due to the persecutions in Japan. In 1618 he dyed his skin, assumed a disguise, and returned to evangelize Japan. He worked there"

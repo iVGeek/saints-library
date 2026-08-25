@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Eliseo Maneus Besalduch"
 honorific: Blessed
 summary: "Professed priest in the Carmelites of the Ancient Observance. Martyred in the Spanish Civil War."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Irenaeus of Chiusi"
 honorific: Saint
 summary: "Deacon. Tortured and martyred with Saint Mustiola for ministering to Christian prisoners, and giving proper burial to martyrs."

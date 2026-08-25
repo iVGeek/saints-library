@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Deodatus of Jointures"
 honorific: Saint
 title: "Bishop"

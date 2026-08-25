@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Solemnis of Chartres"
 honorific: Saint
 summary: "Brother of Saint Aventinus of Chartres. Bishop of Chartres, France from c.490."

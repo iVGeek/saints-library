@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Maria of Haarlem"
 honorific: Blessed
 summary: "Widow. Martyred by Calvinists."

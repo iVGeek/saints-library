@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Peter of Juilly"
 honorific: Blessed
 summary: "Benedictine monk. Noted preacher. Friend of Saint Stephen Harding, and worked with him at the monastery in Molesme. Chaplain, rector and confessor to the convent of Juilly les Nonnais, France where he worked with Saint Humbeline. Miracle worker."

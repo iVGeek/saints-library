@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Daria"
 honorific: Saint
 summary: "Mother of Saint Ursula."

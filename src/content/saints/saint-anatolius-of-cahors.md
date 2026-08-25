@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Anatolius of Cahors"
 honorific: Saint
 title: "Bishop"

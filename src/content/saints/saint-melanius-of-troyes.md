@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Melanius of Troyes"
 honorific: Saint
 summary: "Married to a pious young woman in his youth, the two lived as brother and sister. Priest. Bishop of Troyes, France in the late 4th century."

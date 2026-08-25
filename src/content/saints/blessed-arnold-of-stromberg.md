@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Arnold of Stromberg"
 honorific: Blessed
 summary: "A servant of Blessed Walter of Himmerode, the two men joined the Cistercians together and spent their days as prayerful monks at the Heisterbach Abbey near Oberdollendorf, North Rhine-Westphalia, Germany."

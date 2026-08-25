@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Gaspar Koteda"
 honorific: Blessed
 summary: "Young layman catechist in the archdiocese of Nagasaki, Japan. Dominican tertiary. Martyr."

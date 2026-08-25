@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Offa of Benevento"
 honorific: Saint
 summary: "Benedictine nun and abbess at Saint Peter's convent, Benevento, Italy."

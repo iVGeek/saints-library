@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Quintius of Capua"
 honorific: Saint
 summary: "Martyr."

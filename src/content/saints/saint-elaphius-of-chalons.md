@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Elaphius of Châlons"
 honorific: Saint
 summary: "Bishop of Châlons-sur-Marne, France. Envoy to Spain."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Cristiana of Assisi"
 honorific: Blessed
 summary: "Daughter of Suppo di Bernardo. Poor Clare nun. May have been one of the founders of the monastery of San Damiano in Carpello, Italy in 1217. Witnessed several of the miracles performed by Saint Clare of Assisi."

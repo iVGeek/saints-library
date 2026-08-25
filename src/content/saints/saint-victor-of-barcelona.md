@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Victor of Barcelona"
 honorific: Saint
 summary: "Priest. Bishop of Barcelona, Spain. Martyr."

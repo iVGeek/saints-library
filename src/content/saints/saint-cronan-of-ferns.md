@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Cronan of Ferns"
 honorific: Saint
 summary: "Monk. Abbot of Ferns in the latter 7th-century."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Priscus of Auxerre"
 honorific: Saint
 summary: "Officer in the imperial Roman army. He along with several of his soldiers and some citizens of Besançon, France were martyred for their faith."

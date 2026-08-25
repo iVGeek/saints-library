@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed James Saul"
 honorific: Blessed
 summary: "Franciscan Friar Minor monk. One of the Irish Martyrs."

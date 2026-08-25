@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Theoctiste of Lesbos"
 honorific: Saint
 summary: "Orphaned as a child, Theoctiste was raised in a convent. Kidnapped by Arab raiders and forced into slavery on Paros island. She escaped and lived for for over 30 years as a hermitess in an old church. She was discovered one day by a hunter named Simon; she begged him to bring her"

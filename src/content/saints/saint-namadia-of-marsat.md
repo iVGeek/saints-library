@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Namadia of Marsat"
 honorific: Saint
 summary: "Married to Saint Calminius. Widow. Nun at Marsat, France."

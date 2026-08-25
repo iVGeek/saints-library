@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Deodatus of Blois"
 honorific: Saint
 summary: "Hermit near Blois, France. The town of Saint-Dié, France grew up around his cell. Bishop."

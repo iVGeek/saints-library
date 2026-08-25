@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Frameilde"
 honorific: Saint
 summary: "Born to a noble Alemannic family. Married to Count Badefrid, an official in the court of King Dagobert, in an arranged, political marriage. Mother of Saint Austrebertha of Pavilly. Though she first opposed her daughters' vocation to religious life, but both eventually became nuns"

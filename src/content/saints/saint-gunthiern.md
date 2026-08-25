@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Gunthiern"
 honorific: Saint
 summary: " Legend says that insects once threatened to destroy the region's crops. Count Prince who became a hermit in Brittany. The local lord, Grallon, gave Gunthiern land on the Isle of Groie, near River Blavet to found a monastery. It survives today as the Benedictine house of Kemperle."

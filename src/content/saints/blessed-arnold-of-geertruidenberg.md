@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Arnold of Geertruidenberg"
 honorific: Blessed
 summary: "Carthusian monk in Capella, Belgium."

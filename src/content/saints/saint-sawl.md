@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Sawl"
 honorific: Saint
 summary: "Welsh chieftain. Father of Saint Asaph."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Gerard of Sassoferrato"
 honorific: Blessed
 title: "Priest"

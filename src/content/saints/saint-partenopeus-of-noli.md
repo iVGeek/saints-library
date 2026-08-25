@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Partenopeus of Noli"
 honorific: Saint
 summary: "Soldier. Martyr. A late legend makes him an escaped member of the Theban Legend, but that's doubtful."

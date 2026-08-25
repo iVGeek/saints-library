@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Brigid of Picardy"
 honorific: Saint
 summary: "Martyred while on pilgrimage to Rome, Italy."

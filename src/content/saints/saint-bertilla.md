@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Bertilla"
 honorific: Saint
 summary: "Born to the early 7th century Frankish nobility. Married to Saint Gualberto."

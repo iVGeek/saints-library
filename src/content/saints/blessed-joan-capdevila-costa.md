@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Joan Capdevila Costa"
 honorific: Blessed
 summary: "Member of the Claretians, professed on 16 July 1901. Martyred in the Spanish Civil War."

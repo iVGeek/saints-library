@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Faustinus of Brescia"
 honorific: Saint
 summary: "Bishop of Brescia, Italy c.360. Legend says that he was a relative of Saint Faustinus and Saint Jovita, and we know that he researched and wrote their Acts."

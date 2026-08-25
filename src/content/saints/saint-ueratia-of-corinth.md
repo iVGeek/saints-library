@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Ueratia of Corinth"
 honorific: Saint
 summary: "Martyr."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Maximus of Silistria"
 honorific: Saint
 summary: "Martyr."

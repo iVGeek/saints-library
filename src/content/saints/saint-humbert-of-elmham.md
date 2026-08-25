@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Humbert of Elmham"
 honorific: Saint
 summary: "Ninth-century bishop. Crowned Saint Edmund as king of East Anglia in 855. Martyred by pagan Danish raiders."

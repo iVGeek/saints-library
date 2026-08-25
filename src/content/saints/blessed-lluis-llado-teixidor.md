@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Lluís Lladó Teixidor"
 honorific: Blessed
 summary: "Member of the Claretians. Martyred in the Spanish Civil War."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Simon Takahashi Seizaemon"
 honorific: Blessed
 summary: "Married layman in the diocese of Niigata, Japan. Father of Blessed Thecla Takahashi. Martyr."

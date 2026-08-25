@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Maria Roqueta Serra"
 honorific: Blessed
 summary: "Member of the Carmelite Missionaries. Martyred in the Spanish Civil War."

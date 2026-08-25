@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Paschasius of Rome"
 honorific: Saint
 summary: "Deacon in Rome, Italy. Wrote on theology."

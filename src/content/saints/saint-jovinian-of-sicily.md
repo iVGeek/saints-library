@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Jovinian of Sicily"
 honorific: Saint
 summary: "Martyr."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Archelaus of Ostia"
 honorific: Saint
 summary: "Deacon. One of a group martyred in the persecutions of Alexander Severus."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Maximus of Alexandria"
 honorific: Saint
 summary: "Priest in Alexandria, Egypt. When Saint Dionysius of Alexandria was exiled in 257, Maximus governed the patriarchate of Alexandria. Chosen bishop of Alexandria in 265. Studied at and supported the catechetical school in Alexandria. Drove the corrupt heretical bishop Paul of Samos"

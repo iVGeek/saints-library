@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint George of Périgueux"
 honorific: Saint
 summary: "Third-century missionary priest of the Périgueux region of France."

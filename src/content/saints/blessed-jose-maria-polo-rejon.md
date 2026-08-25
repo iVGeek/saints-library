@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed José María Polo Rejón"
 honorific: Blessed
 summary: "Priest of the archdiocese of Granada, Spain. Martyred in the Spanish Civil War."

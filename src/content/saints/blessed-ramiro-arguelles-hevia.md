@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Ramiro Argüelles Hevia"
 honorific: Blessed
 summary: "Priest of the diocese of Almería, Spain. Martyred in the Spanish Civil War."

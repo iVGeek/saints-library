@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Domnina"
 honorific: Saint
 summary: "Mother of Saint Domnina and Saint Berenice. Martyred in the persecutions of Diocletian."

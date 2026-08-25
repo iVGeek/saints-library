@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Rufinus the Potter"
 honorific: Saint
 summary: "Potter. Martyred in the persecutions of Decius."

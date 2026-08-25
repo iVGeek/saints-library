@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Stylianus"
 honorific: Saint
 summary: "Hermit in the area of Adrianopolis."

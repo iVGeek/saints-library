@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Gratus of Chalons"
 honorific: Saint
 title: "Bishop"

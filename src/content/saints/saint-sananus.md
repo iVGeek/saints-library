@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Sananus"
 honorific: Saint
 summary: "One of the many 5th-century holy men who immigrated from Ireland to the Brittany coast."

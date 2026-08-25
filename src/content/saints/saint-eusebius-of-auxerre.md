@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Eusebius of Auxerre"
 honorific: Saint
 title: "Priest"

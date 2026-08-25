@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Madelgisilus"
 honorific: Saint
 summary: "Spiritual student of Saint Fursey. Monk at Saint Riquier Abbey in France. Retired to live as a hermit with Saint Pulgan near Monstrelet, France."

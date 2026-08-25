@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Dominic of Brescia"
 honorific: Saint
 summary: "Bishop of Brescia, Italy."

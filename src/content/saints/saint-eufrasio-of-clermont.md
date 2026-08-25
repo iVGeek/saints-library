@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Eufrasio of Clermont"
 honorific: Saint
 title: "Bishop"

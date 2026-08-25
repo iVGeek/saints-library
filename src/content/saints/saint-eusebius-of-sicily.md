@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Eusebius of Sicily"
 honorific: Saint
 summary: "Exile."

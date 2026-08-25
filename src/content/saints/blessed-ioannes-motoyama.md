@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Ioannes Motoyama"
 honorific: Blessed
 summary: "Member of the royal house of Firando. Relative of Blessed Ioannes Iwanga. Layman. Martyr."

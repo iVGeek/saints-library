@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed John Grove"
 honorific: Blessed
 summary: "Layman. Servant of Blessed William Ireland and other Jesuits in London, England. Arrested on 28 September 1678, accused of having received &pound;1500 to help in the Titus Oates Plot. Served time with Blessed Thomas Pickering. Martyr."

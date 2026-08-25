@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Anthony of Ilbenstadt"
 honorific: Blessed
 summary: "Anthony heard Saint Norbert of Xanten preach in Nivelles, Belgium c.1120, and was so impressed that he gave away everything to become Saint Norbert's 3rd spiritual student. Studied with Blessed Hugh of Fosse and Blessed Evermod of Ratzeburg. One of the first Premonstratensian mon"

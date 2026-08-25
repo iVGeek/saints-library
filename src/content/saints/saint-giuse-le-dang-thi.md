@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Giuse Lê Dang Thi"
 honorific: Venerable
 summary: "Layman. Soldier. Captain in the army of King Tu-duc. Convert. Martyr."

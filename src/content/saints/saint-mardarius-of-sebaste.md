@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Mardarius of Sebaste"
 honorific: Saint
 summary: "Martyred in the persecutions of Diocletian."

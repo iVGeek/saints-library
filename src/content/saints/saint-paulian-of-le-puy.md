@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Paulian of Le Puy"
 honorific: Saint
 title: "Bishop"

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Olympus of Condat"
 honorific: Saint
 summary: "Benedictine monk. Sixth abbot of Condat Abbey, serving from 533 to 566. Olympus instituted a policy of letting lay people rent, live on and work the monastery land. This led to the founding of the town of Saint-Claude."

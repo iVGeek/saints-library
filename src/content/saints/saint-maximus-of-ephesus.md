@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Maximus of Ephesus"
 honorific: Saint
 summary: "Lay man merchant Christian in Ephesus. Beaten, racked and martyred in the persecutions of Decius."

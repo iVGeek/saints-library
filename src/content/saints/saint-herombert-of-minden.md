@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Hérombert of Minden"
 honorific: Saint
 summary: "Bishop of Minden, Westphalia (in modern Germany), chosen with the support of Blessed Charlemagne. Missionary to the Saxons."

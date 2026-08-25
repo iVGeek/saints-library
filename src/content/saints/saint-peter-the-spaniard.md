@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Peter the Spaniard"
 honorific: Saint
 title: "Hermit"

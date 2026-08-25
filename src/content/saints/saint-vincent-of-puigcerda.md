@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Vincent of Puigcerda"
 honorific: Saint
 summary: "Brother of Saint Orontius of Puigcerda. Missionary in the Pyrenees, working with Saint Orontius and Saint Victor of Puigcerda. Martyr."

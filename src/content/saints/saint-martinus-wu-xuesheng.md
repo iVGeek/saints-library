@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Martinus Wu Xuesheng"
 honorific: Venerable
 summary: "Layman in the apostolic vicariate of Guizhou, China. Convert. Catechist. Martyred for sheltering Blessed John Peter Neel."

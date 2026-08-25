@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Caramnan"
 honorific: Saint
 summary: "No information has survived."

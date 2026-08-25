@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Neon of Aegea"
 honorific: Saint
 summary: "Denounced by his step-mother as a Christian during the persecutions of Pro-consul Lysias. Tortured and martyred."

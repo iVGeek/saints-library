@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed José Peris Ramos"
 honorific: Blessed
 summary: "Priest in the archdiocese of Granada, Spain. Martyred in the Spanish Civil War."

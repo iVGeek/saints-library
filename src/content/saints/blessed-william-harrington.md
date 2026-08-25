@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed William Harrington"
 honorific: Blessed
 summary: "After meeting Saint Edmund Campion, William travelled to Rheims, France were he studied for the priesthood. Ordained in 1592, he returned to England to minister to covert Catholics. Arrested in 1593, he was held for several months before being executed for the crime of being a pr"

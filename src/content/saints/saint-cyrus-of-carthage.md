@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Cyrus of Carthage"
 honorific: Saint
 summary: "Bishop of Carthage."

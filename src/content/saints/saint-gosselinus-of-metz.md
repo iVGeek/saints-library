@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Gosselinus of Metz"
 honorific: Saint
 title: "Bishop"

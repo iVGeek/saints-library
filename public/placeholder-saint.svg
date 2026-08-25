@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600" viewBox="0 0 600 600">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="40%" r="70%">
+      <stop offset="0%" stop-color="#27385f"/>
+      <stop offset="100%" stop-color="#111a36"/>
+    </radialGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#e5d3a7"/>
+      <stop offset="50%" stop-color="#a87f2e"/>
+      <stop offset="100%" stop-color="#e5d3a7"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="600" fill="url(#bg)"/>
+  <!-- Cross -->
+  <rect x="280" y="120" width="40" height="200" rx="4" fill="url(#gold)" opacity="0.85"/>
+  <rect x="230" y="175" width="140" height="36" rx="4" fill="url(#gold)" opacity="0.85"/>
+  <!-- Circle halo -->
+  <circle cx="300" cy="160" r="80" fill="none" stroke="#c6a155" stroke-width="2.5" opacity="0.6"/>
+  <!-- Book base -->
+  <rect x="240" y="370" width="120" height="80" rx="6" fill="#1a2749" stroke="#c6a155" stroke-width="1.5" opacity="0.7"/>
+  <line x1="260" y1="395" x2="340" y2="395" stroke="#c6a155" stroke-width="1" opacity="0.5"/>
+  <line x1="260" y1="415" x2="340" y2="415" stroke="#c6a155" stroke-width="1" opacity="0.5"/>
+  <line x1="260" y1="435" x2="320" y2="435" stroke="#c6a155" stroke-width="1" opacity="0.5"/>
+  <!-- Text -->
+  <text x="300" y="510" text-anchor="middle" font-family="Georgia, serif" font-size="18" fill="#b3a9a0" opacity="0.7">Saint</text>
+</svg>

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed José Noriega González"
 honorific: Blessed
 summary: "Augustinian friar. Martyred in the Spanish Civil War."

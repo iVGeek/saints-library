@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Juan Alcalde y Alcalde"
 honorific: Blessed
 summary: "Novice in the Hospitallers of Saint John of God. Martyred in the Spanish Civil War."

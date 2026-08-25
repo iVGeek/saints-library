@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Bartholomaeus Chong Mun-Ho"
 honorific: Venerable
 summary: "Layman of the apostolic vicariate of Korea. Martyr."

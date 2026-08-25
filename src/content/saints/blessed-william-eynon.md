@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed William Eynon"
 honorific: Blessed
 summary: "Benedictine monk. Priest at Saint Giles, Reading, England. He refused to surrender his parish to non-Catholic authorities, was arrested, and executed. Martyr."

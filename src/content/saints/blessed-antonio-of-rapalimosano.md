@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Antonio of Rapalimosano"
 honorific: Blessed
 summary: "Franciscan lay brother. Known for the gift of healing."

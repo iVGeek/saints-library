@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Tertricus of Langres"
 honorific: Saint
 title: "Bishop"

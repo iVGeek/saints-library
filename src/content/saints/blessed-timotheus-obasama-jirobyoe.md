@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Timotheus Obasama Jirobyoe"
 honorific: Blessed
 summary: "Layman in the diocese of Niigata, Japan. Married to Blessed Lucia Obasama. Martyr."

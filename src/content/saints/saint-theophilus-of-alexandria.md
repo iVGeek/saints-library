@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Theophilus of Alexandria"
 honorific: Saint
 summary: "Martyr."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed German Gardiner"
 honorific: Blessed
 summary: "Educated at the University of Cambridge, England. Secretary to the bishop of Winchester, England. Martyred with Blessed John Larke for refusing to recognize the spiritual supremacy of the King of England."

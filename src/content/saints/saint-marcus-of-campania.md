@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Marcus of Campania"
 honorific: Saint
 title: "Priest"

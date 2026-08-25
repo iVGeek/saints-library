@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Domnina of Terni"
 honorific: Saint
 summary: "Consecrated virgin martyr."

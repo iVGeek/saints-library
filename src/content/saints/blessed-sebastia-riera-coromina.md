@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Sebastià Riera Coromina"
 honorific: Blessed
 summary: "Member of the Claretians. Martyred in the Spanish Civil War."

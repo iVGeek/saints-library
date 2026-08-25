@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Thomas of Saint Hyacinth"
 honorific: Blessed
 summary: "Dominican friar who assisted missionaries in Japan. Catechist. Martyr."

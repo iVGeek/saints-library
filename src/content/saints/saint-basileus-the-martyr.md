@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Basileus the Martyr"
 honorific: Saint
 summary: "Martyred in the persecution of Valerian."

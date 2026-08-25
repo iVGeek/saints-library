@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Liberio González Nombela"
 honorific: Blessed
 summary: "Priest in the archdiocese of Toledo, Spain. Martyred in the Spanish Civil War."

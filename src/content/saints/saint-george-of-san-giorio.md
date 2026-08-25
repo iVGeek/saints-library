@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint George of San Giorio"
 honorific: Saint
 summary: "Martyr. Later writers associate him with the Theban Legion, but they were in an entirely different location."

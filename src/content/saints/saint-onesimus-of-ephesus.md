@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Onesimus of Ephesus"
 honorific: Saint
 summary: "Priest. Bishop of Ephesus. Supported Saint Ignatius of Antioch."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Eucharius II of Tongeren-Maastricht"
 honorific: Saint
 title: "Bishop"

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Dionysus of Armenia"
 honorific: Saint
 summary: "Armenian monk. Martyr."

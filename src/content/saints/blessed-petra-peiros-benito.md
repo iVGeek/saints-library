@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Petra Peirós Benito"
 honorific: Blessed
 summary: "Conceptionist nun. Martyred in the Spanish Civil War."

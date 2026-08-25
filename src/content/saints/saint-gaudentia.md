@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Gaudentia"
 honorific: Saint
 summary: "Roman maiden. Early martyr. No other information has survived."

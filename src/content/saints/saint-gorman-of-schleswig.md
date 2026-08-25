@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Gorman of Schleswig"
 honorific: Saint
 summary: "Benedictine monk at Reichenau, Germany. Missionary preacher throughout northern Europe. Bishop of Schleswig, Denmark."

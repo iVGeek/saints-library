@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Pierre-Louis Gervais"
 honorific: Blessed
 summary: "Priest of the archdiocese of Paris, France. One of the Martyrs of September."

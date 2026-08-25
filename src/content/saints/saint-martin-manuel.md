@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Martin Manuel"
 honorific: Saint
 summary: "Priest in Siure, Portugal. Captured by Saracens. Martyr."

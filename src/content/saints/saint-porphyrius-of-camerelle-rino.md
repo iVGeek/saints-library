@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Porphyrius of Camerelle Rino"
 honorific: Saint
 summary: "Priest who evangelized in the area of Umbria, Italy, working from Camerelle Rino. Martyred in the persecutions of Decius."

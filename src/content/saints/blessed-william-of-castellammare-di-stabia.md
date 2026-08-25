@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed William of Castellammare di Stabia"
 honorific: Blessed
 summary: "Franciscan friar. Missionary to Palestine. Imprisoned and murdered by Muslims for this work. Martyr."

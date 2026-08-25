@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Anna Petronilla of Silesia"
 honorific: Blessed
 summary: "Poor Clare nun and then abbess at the convent in Znojmo, Moravia. She was known to sleep stretched out on a cross each night instead of a bed as a form of penance."

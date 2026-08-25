@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Francesc Mayol Oliver"
 honorific: Blessed
 summary: "Professed religious brother. Member of the Missionaries of the Sacred Hearts of Jesus and Mary of Mallorca. Martyred in the Spanish Civil War."

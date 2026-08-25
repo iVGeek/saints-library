@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Haruch of Werden"
 honorific: Saint
 summary: "Benedictine monk, abbot and bishop in Werden, Germany."

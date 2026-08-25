@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Colmán of Orkney"
 honorific: Saint
 title: "Bishop"

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Pablo Meléndez Gonzalo"
 honorific: Blessed
 summary: "Married layman in the archdiocese of Valencia, Spain. Martyred in the Spanish Civil War."

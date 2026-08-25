@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Bartholomeus Baba Han'emon"
 honorific: Blessed
 summary: "Married layman of the archdiocese of Nagasaki, Japan. Martyr."

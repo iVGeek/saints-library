@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Pere Vallmitjana Abarca"
 honorific: Blessed
 summary: "Priest. Member of the Benedictine Subiaco Congregation. Martyred in the Spanish Civil War."

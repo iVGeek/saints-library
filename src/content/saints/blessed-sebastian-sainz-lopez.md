@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Sebastián Sáinz López"
 honorific: Blessed
 summary: "Joined the Dominicans on 4 October 1933. Martyred in the Spanish Civil War."

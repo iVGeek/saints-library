@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Donatian of Châlons-sur-Marne"
 honorific: Saint
 summary: "Fourth-century bishop of Châlons-sur-Marne, France. One of the signatories of the documents of the Council of Sardica in 343."

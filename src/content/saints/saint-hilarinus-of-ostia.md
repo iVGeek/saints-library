@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Hilarinus of Ostia"
 honorific: Saint
 deathYear: 361

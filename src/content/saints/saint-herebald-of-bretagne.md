@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Herebald of Bretagne"
 honorific: Saint
 summary: "Eighth century hermit in Brittany."

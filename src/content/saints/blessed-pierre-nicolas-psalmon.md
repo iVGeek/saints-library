@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Pierre-Nicolas Psalmon"
 honorific: Blessed
 summary: "Sulpician priest. One of the Martyrs of September."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Amnichad of Fulda"
 honorific: Saint
 summary: "Migrated to Germany to become a monk, and then became a hermit at Fulda."

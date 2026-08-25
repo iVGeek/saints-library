@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Yolanda"
 honorific: Saint
 summary: "Daughter of the count of Vianden. Dominican nun against the fierce opposition of her father."

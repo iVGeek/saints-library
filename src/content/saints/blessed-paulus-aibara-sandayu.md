@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Paulus Aibara Sandayu"
 honorific: Blessed
 summary: "Son of Blessed Romanus Aibara; father of Blessed Leo Aibara. Convert to Catholicism. Dominican tertiary. Martyr."

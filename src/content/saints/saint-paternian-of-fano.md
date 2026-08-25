@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Paternian of Fano"
 honorific: Saint
 summary: "Fled into the mountains for a period to escape the persecutions of Diocletian. Bishop of Fano, Italy."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Gonval of Scotland"
 honorific: Saint
 summary: "King an area of Scotland, noted for his personal piety, his promotion of the faith, and his refusal to use his civil power to meddle in Church affairs. Noted for his piety by Saint Columba, and mentioned in the ancient Dunkeld Litany."

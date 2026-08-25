@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Daniel of Villiers"
 honorific: Blessed
 summary: "Soldier. Knight. Benedictine Cistercian monk. Cellarer of the great Cistercian abbey of Villiers in the Brabant region."

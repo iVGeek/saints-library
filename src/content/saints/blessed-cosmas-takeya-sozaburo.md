@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Cosmas Takeya Sozaburo"
 honorific: Blessed
 summary: "Layman member of the Confraternity of the Holy Rosary in the archdiocese of Nagasaki, Japan. Married to Blessed Agnes Takeya; father of Franciscus Takeya. Martyr."

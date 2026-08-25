@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Simon Phan Ðac Hòa"
 honorific: Venerable
 summary: "Married, father, family man, physician and mayor who worked with local charities and the missionaries working in the apostolic vicariate of Cochinchina (modern Vietnam). Imprisoned, flogged and executed for his faith in the persecutions of Minh Mang."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Dositheus of Gaza"
 honorific: Saint
 summary: "Born a rich pagan, Dositheus spent a wild and worldly youth. During a visit to Jerusalem he was so impressed by Christians, by an horrific image of the torments of hell, and by the message of a woman he saw in a vision, he converted, and became a monk at Gaza. He was placed under"

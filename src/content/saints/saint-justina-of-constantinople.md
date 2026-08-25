@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Justina of Constantinople"
 honorific: Saint
 summary: "Martyred maiden. No other information has survived."

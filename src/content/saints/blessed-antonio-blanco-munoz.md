@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Antonio Blanco Muñoz"
 honorific: Blessed
 summary: "Priest of the diocese of Córdoba, Spain, serving as a prison chaplain. Martyred in the Spanish Civil War."

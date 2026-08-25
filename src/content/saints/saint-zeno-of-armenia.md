@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Zeno of Armenia"
 honorific: Saint
 summary: "One of a group of Christian soldiers in the 2nd century imperial Roman army of Trajan, stationed in Gaul. Ordered to sacrifice to pagan gods, he refused and was transferred to Armenia. Ordered again to sacrifice to pagan gods, he refused again. Martyr."

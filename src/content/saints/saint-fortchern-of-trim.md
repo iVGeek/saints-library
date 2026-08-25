@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Fortchern of Trim"
 honorific: Saint
 summary: "The son of a pagan chieftain, he was converted to Christianity by Saint Loman of Trim. Sixth century bishop of Trim, Ireland. Hermit."

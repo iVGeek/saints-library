@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Astolfus of Mainz"
 honorific: Saint
 summary: "Monk in Wissemburg, Germany. Early 9th century bishop of Mainz, Germany. Ordained Blessed Rabanus Maurus as a priest."

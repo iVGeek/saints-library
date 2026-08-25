@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Cuan"
 honorific: Saint
 summary: "Career soldier who gave up the life of war for the religious life. Founded several churches and monasteries in Ireland. Lived to nearly 100."

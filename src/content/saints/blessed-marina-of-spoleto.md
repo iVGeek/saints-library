@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Marina of Spoleto"
 honorific: Blessed
 summary: "Member of the Canonesses Regular of Saint Augustine, taking the name Marina in honour of Mary, Star of the Sea. Founded the monastery of San Matteo in 1265, a house devoted to strict observation of the Augustinian rule. Led a life dedicated to prayer."

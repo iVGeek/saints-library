@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Tigernach of Clogher"
 honorific: Saint
 summary: "Son of Dearfraych, daughter of the Irish king Eochod, and a famous general named Corbre. Baptized by Bishop Saint Conleth of Kildare, Ireland. God-son of Saint Brigid of Ireland. Captured by pirates as a child, given to the British king, who placed him in the monastery of Rosnat."

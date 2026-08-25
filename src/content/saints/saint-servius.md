@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Servius"
 honorific: Saint
 summary: "Martyred in the persecutions of the Arian Vandal king Huneric."

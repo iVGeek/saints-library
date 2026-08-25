@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Arcontius of Viviers"
 honorific: Saint
 summary: "Bishop of Viviers, France. Killed by a mob for defending the rights of the Church in a local matter. Martyr."

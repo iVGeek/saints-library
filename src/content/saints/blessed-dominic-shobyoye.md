@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Dominic Shobyoye"
 honorific: Blessed
 summary: "Dominican lay tertiary. Sheltered missionaries during the persecutions in Japan. Martyr."

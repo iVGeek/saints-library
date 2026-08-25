@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Arator of Alexandria"
 honorific: Saint
 summary: "Priest. Martyr. No other information has survived."

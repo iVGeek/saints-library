@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Brogan"
 honorific: Saint
 summary: "Mentioned in the Gorman Martyrology. No other information has survived."

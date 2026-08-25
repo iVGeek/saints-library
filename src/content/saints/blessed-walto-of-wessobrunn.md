@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Walto of Wessobrünn"
 honorific: Blessed
 summary: "Benedictine monk. Abbot of Wessobr&uuml;nn in Bavaria in 1129. Brought many benefactors to the abbey due to his goodness and miracles."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Day"
 honorific: Saint
 summary: "A church near Redruth, Cornwall, England is named for him. No information about him has survived."

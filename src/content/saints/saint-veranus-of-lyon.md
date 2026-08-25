@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Veranus of Lyon"
 honorific: Saint
 summary: "Fifth century bishop of Lyon, France."

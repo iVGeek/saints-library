@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Joseph-Thomas Pazery de Thorame"
 honorific: Blessed
 summary: "Priest in the diocese of Blois, France. One of the Martyrs of September."

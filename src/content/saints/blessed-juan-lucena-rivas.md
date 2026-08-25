@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Juan Lucena Rivas"
 honorific: Blessed
 summary: "Priest of the diocese of Córdoba, Spain, serving in the Puente Genil community. Martyred in the Spanish Civil War."

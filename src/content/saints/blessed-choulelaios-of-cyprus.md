@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Choulélaios of Cyprus"
 honorific: Blessed
 summary: "Christian who retired to Cyprus to live as a cave hermit, devoting himself to prayer and an ascetic life devoted to God. Tortured and martyred for his faith."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Theodora of Rossano"
 honorific: Blessed
 summary: "Nun. Spiritual student of Saint Nilus the Younger. Abbess."

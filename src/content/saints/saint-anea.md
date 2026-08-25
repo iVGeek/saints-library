@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Anea of Como"
 honorific: Saint
 summary: "Child martyr."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Grwst"
 honorific: Saint
 summary: "Namesake for Llanrwst, Clwyd, Wales."

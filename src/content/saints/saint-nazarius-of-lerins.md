@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Nazarius of Lérins"
 honorific: Saint
 summary: "Monk and later abbot of Lérins Abbey in France."

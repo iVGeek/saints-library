@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Pelagia Leonti of Milazzo"
 honorific: Blessed
 summary: "Daughter of Domenico Leonti and Bernarda Maiolino; sister of Blessed Angelica of Milazzo. Franciscan Minim tertiary lay woman. Her guardian angel was sometimes visible to other people."

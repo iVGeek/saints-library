@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Hugh of Macon"
 honorific: Blessed
 summary: "Cistercian Benedictine monk. Abbot at Pontigny in 1114. Bishop of Auxerre, France in 1137, the first Cistercian monk to become a bishop."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Gobert of Apremont"
 honorific: Saint
 summary: "Count of Apremont. Crusader. Benedictine Cistercian monk at Villers, Brabant, Belgium."

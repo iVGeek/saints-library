@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Donatus of Lucania"
 honorific: Saint
 summary: "Martyred by Saracens."

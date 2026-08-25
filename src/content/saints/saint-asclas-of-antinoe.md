@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Asclas of Antinoe"
 honorific: Saint
 summary: "Arrested and tortured for his faith by order of Arrian, governor of Egypt, during the persecutions of Diocletian. While Asclas was in prison, Arrian had reason to cross the River Nile on government business - but found he was absolutely unable to leave the water's edge. Asclas se"

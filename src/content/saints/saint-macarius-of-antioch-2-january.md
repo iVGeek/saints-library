@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Macarius of Antioch"
 honorific: Saint
 summary: "Soldier. Martyr."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Ebrulfus"
 honorific: Saint
 summary: "Hermit. Founded a monastery at Saint-Fuscien-aux-Bois."

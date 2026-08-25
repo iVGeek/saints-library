@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Palladius of Ireland"
 honorific: Saint
 summary: "Born to an ancient Gallo-Roman family. Deacon in Rome. Dispatched Saint Germanus of Auxerre to Britain in 429 to fight Pelagianism. Missionary bishop for Ireland in 431, sent by Pope Saint Celestine I. Consecrated bishop of the Scots in 431. Evangelized around Leinster where he b"

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Severus of Heraclea"
 honorific: Saint
 summary: "Deacon to Saint Philip in Heraclea. Arrested in the persecutions of Diocletian and ordered to turn over all scriptures; he refused. Martyr."

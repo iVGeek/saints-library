@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Francesc Trullen Gilisbarts"
 honorific: Blessed
 summary: "Member of the Christian Brothers. Martyred in the Spanish Civil War."

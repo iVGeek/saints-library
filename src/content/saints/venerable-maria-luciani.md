@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Venerable Maria Luciani"
 honorific: Venerable
 summary: "Member of the Sisters of the Passion of Jesus Christ."

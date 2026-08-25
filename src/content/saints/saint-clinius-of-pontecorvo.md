@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Clinius of Pontecorvo"
 honorific: Saint
 summary: "Benedictine monk at Monte Cassino Abbey. Abbot of Saint Peter's abbey near Pontecorvo, Italy."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Clement of Verna"
 honorific: Blessed
 title: "Hermit"

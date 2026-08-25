@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Guerembaldus"
 honorific: Saint
 summary: "Benedictine monk at Hirschau, Germany. Elected to the bishopric of Spire, Germany, but turned it down, citing his own unworthiness."

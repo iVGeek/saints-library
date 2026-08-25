@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Faustinus of Africa"
 honorific: Saint
 searchAliases:

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Peter of Pavia"
 honorific: Saint
 summary: "Bishop of Pavia, Italy."

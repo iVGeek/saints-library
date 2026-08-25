@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Diego Balmaseda López"
 honorific: Blessed
 summary: "Priest of the diocese of Córdoba, Spain, serving in the Cabeza de Buey community. Martyred in the Spanish Civil War."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Porphyrius of Caesarea"
 honorific: Saint
 summary: "Servant of Saint Pamphilus. Protested that the bodies of the martyred Saints Elias, Jeremy, Isaias, Samuel, and Daniel should be buried. Denounced as a Christian, he was tortured to death. His martyrdom led to the death of Saint Seleucus."

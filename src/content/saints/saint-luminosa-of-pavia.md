@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Luminosa of Pavia"
 honorific: Saint
 summary: "Fifth century nun in Pavia, Lombardy, Italy."

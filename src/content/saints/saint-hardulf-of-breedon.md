@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Hardulf of Breedon"
 honorific: Saint
 summary: "Hermit in Breedon, Leicestershire, England."

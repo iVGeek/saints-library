@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Maprilis of Ostia"
 honorific: Saint
 summary: "Martyr honoured in Ostia, Italy."

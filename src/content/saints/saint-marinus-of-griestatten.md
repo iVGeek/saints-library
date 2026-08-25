@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Marinus of Griestatten"
 honorific: Saint
 summary: "Benedictine monk at the Saint James Abbey in Regensburg, Germany. Hermit at Griestatten."

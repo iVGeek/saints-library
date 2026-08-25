@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Jacques Laigneau de Langellerie"
 honorific: Blessed
 summary: "Priest of the diocese of Angers, France. Martyred in the persecutions of the French Revolution."

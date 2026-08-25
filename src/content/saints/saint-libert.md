@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Libert"
 honorific: Saint
 summary: "Adult convert. Monk at Malines, Belgium with Saint Rumold. Monk at Saint-Trond monastery. Martyr."

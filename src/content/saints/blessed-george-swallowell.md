@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed George Swallowell"
 honorific: Blessed
 summary: "Layman schoolmaster and Protestant minister. He converted to Catholicism, which led to his execution in the persecutions of Queen Elizabeth I. Martyr."

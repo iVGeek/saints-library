@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Eudald Rodas Saurina"
 honorific: Blessed
 summary: "Member of the Salesians. Teacher. Martyred in the Spanish Civil War."

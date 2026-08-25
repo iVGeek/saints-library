@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Feredarius of Iona"
 honorific: Saint
 summary: "Monk. Abbot of Iona in Scotland in 863."

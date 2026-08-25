@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Francisco de Paula Roda Díaz"
 honorific: Blessed
 summary: "Layman of the diocese of Almería, Spain. Martyred in the Spanish Civil War."

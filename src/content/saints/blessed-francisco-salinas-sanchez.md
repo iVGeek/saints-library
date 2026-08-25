@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Francisco Salinas Sánchez"
 honorific: Blessed
 summary: "Layman in the diocese of Almeria, Spain. Franciscan Friars Minor aspirant. Martyred in the Spanish Civil War."

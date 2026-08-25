@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Gaspare Burgherre"
 honorific: Blessed
 summary: "Mercedarian friar. A member of the Roman Curia, he resigned his position to work to free Christians enslaved by Muslims. Freed 200 of them in the Andalusia region of Spain."

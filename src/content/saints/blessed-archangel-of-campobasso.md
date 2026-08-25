@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Archangel of Campobasso"
 honorific: Blessed
 summary: "15th century Franciscan friar who served as vicar for the Franciscan Province of Sant'Angelo in Puglia, Italy. He was known for his personal austerity and his promotion of Franciscan spirituality."

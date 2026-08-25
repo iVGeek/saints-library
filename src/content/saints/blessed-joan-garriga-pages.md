@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Joan Garriga Pagés"
 honorific: Blessed
 summary: "Member of the Claretians, professed on 8 December 1926. Martyred in the Spanish Civil War."

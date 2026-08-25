@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Henry of Gheest"
 honorific: Saint
 summary: "Cistercian monk."

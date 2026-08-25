@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Classicus of North Africa"
 honorific: Saint
 summary: "Martyr in North Africa. No other information has survived."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Jean-Philippe Marchand"
 honorific: Blessed
 summary: "Priest in the diocese of Poitiers, France. One of the Martyrs of September."

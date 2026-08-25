@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Remigius of Lyons"
 honorific: Saint
 summary: "Chaplain to the court of King Charles the Bald. Archbishop of Lyons, France in 852. Fought heresy but also fought against harsh treatment of heretics."

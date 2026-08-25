@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Nicon of Sicily"
 honorific: Saint
 summary: "Distinguished Roman soldier. Converted to Christianity while travelling in Palestine. Spiritual student of Theodosius of Cyzicus. Leader of 200 Christian disciples who fled to Sicily to escape persecutions of Decius in Palestine. They could not escape it, however, and all were ma"

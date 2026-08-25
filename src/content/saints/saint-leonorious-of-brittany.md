@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Leonorious of Brittany"
 honorific: Saint
 summary: "Born a prince, Son of King Hoel I and Saint Koupaïa. Bishop, consecrated by Saint Dubricius of Wales. Founded the monastery of Pontual in Brittany (in modern France)."

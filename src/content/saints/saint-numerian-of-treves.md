@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Numerian of Treves"
 honorific: Saint
 summary: "Son of a rich senator. Benedictine monk at Remiremont Abbey, at Treves (Trier, Germany) and at Luxeuil, France. Spiritual student of Saint Arnulf and Saint Waldebert. Bishop of Trier."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Benedict the Hermit"
 honorific: Saint
 summary: "Camaldolese hermit in Moravia and Hungary. Martyr."

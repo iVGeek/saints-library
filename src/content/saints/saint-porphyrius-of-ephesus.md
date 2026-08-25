@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Porphyrius of Ephesus"
 honorific: Saint
 summary: "Martyred in the persecutions of Emperor Aurelian."

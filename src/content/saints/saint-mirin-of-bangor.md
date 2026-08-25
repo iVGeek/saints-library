@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Mirin of Bangor"
 honorific: Saint
 summary: "Spiritual student of Saint Comgall of Bangor. Monk. Evangelized the area of Strathclyde, Scotland. Founded Paisley Abbey in Paisley, Renfrewshire, Scotland, and served as its first abbot. He is venerated in Ireland and Scotland, and in the Orthodox tradition."

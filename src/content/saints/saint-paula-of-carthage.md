@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Paula of Carthage"
 honorific: Saint
 summary: "Nun. Martyr."

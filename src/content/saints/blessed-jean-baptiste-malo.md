@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Jean-Baptiste Malo"
 honorific: Blessed
 summary: "Member of the Paris Foreign Missions Society. Priest. Martyr."

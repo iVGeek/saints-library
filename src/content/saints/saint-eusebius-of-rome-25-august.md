@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Eusebius of Rome"
 honorific: Saint
 summary: "Martyred in the persecution of Emperor Commodus. No other information has survived."

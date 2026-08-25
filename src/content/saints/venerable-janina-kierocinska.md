@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Venerable Janina Kierocinska"
 honorific: Venerable
 summary: "Founded the Congregation of the Carmelite Sisters of the Child Jesus."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed John of Ioannina"
 honorific: Blessed
 summary: "A tailor by trade, John was murdered by Muslims for refusing to renounce Christianity. Martyr."

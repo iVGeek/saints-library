@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Victorius of Le Mans"
 honorific: Saint
 summary: "Sub-deacon. Married and the father of one son. Spiritual student of Saint Martin of Tours. At the recommendation of Saint Martin, Victorius was chosen bishop of Le Mans, France c.450; his wife became a nun and Victorius served for approximately 40 years. He attended the Council o"

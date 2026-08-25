@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Servusdei of Cordoba"
 honorific: Saint
 summary: "Monk. Martyred in the persecutions of Abderrahman II."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Auspicius of Toul"
 honorific: Saint
 title: "Bishop"

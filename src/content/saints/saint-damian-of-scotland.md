@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Damian of Scotland"
 honorific: Saint
 title: "Priest"

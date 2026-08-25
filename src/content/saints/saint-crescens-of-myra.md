@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Crescens of Myra"
 honorific: Saint
 summary: "Martyr. No other information has survived."

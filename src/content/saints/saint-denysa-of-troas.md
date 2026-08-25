@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Denysa of Troas"
 honorific: Saint
 summary: "A Christian girl ordered to sacrifice to pagan idols during the persecutions of Decius. She refused and was given over to a house of prostitution to be raped into submission. She fought against her “customers” until exhausted at which point her guardian angel appeared and frighte"

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Simon of Crépy"
 honorific: Saint
 summary: "Born to the nobility, he was raised in the court of William the Conqueror in Normandy, France. Count of Crépy, France. His family arranged two marriages for him, but Simon felt a call to religious life, gave up his title and wealth, became a monk at the Condat Abbey in the Jura M"

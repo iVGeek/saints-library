@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Francisco of Saint Mary"
 honorific: Blessed
 summary: "Member of the Franciscan Friars Minor (Alcantarines). Priest. Martyr."

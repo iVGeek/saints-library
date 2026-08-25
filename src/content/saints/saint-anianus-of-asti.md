@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Anianus of Asti"
 honorific: Saint
 title: "Bishop"

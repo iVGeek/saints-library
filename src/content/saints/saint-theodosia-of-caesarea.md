@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Theodosia of Caesarea"
 honorific: Saint
 summary: "Martyred in the persecutions of Diocletian; she died with 12 other Christian women, but none of their names have come down to us."

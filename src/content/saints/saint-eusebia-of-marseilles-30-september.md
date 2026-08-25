@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Eusebia of Marseilles"
 honorific: Saint
 summary: "Nun in Marseilles, Provence, France."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Servus of Carthage"
 honorific: Saint
 summary: "Monk. Sub-deacon.Martyred in the persecutions of the Arian King Hunneric."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Stephen of Gaza"
 honorific: Saint
 died: "beheaded in Gaza, Palestine"

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Cyrus"
 honorific: Saint
 summary: "No details have survived."

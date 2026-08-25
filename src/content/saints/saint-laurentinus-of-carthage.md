@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Laurentinus of Carthage"
 honorific: Saint
 summary: "Brother of Saint Laurentius and Saint Clerina. Uncle of Saint Celerinus. Martyred in the persecutions of Decius."

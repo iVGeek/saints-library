@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Grimbald"
 honorific: Saint
 summary: "Benedictine monk, and prior of Saint Bertin monastery. Alfred of England was impressed with the man's holiness, and when he ascended the throne, Alfred asked Grimbald to come to England to share his knowledge and holiness. Grimbald arrived in England around 885, and impressed man"

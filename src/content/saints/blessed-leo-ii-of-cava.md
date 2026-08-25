@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Leo II of Cava"
 honorific: Blessed
 summary: "Benedictine monk. Fourteenth abbot of the monastery of Cava de Tirreni in Campania, Italy, chosen on 25 January 1268, consecrated on 5 February 1268, granted a bull of confirmation by Pope Gregory X and served for 27 years. Partipated in the Council of Lyons in 1274, and used the"

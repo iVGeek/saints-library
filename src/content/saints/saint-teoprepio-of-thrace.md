@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Teoprepio of Thrace"
 honorific: Saint
 summary: "Martyr."

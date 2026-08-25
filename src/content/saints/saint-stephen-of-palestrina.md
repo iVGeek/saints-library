@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Stephen of Palestrina"
 honorific: Saint
 summary: "Cistercian monk from the Clairvaux Abbey. Cardinal-bishop of Palestrina in 1141."

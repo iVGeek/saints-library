@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Paschasius of Salamanca"
 honorific: Saint
 summary: "Brother of Saint Eutychianus of Salamanca and Saint Paulillus of Salamanca. Courtier who accompanied the Vandal King Genseric to Africa. When anti-Christian persecutions began, he was first banished from court, then, when he continue to use the Nicene Creed, was imprisoned, tortu"

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Successus of Saragossa"
 honorific: Saint
 summary: "One of the Martyrs of Saragossa about whom nothing is known except their deaths in the persecutions of Diocletian and the prefect Dacean."

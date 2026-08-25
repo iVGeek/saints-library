@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Polycarp of Rome"
 honorific: Saint
 summary: "Priest in Rome, Italy who was known for his ministry to people imprisoned for their faith."

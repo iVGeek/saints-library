@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Savinus of Perugia"
 honorific: Blessed
 title: "Hermit"

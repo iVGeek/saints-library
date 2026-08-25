@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Redemptus of Ferentini"
 honorific: Saint
 summary: "Bishop of Ferentini, Italy."

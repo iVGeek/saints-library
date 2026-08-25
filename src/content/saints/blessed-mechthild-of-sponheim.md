@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Mechthild of Sponheim"
 honorific: Blessed
 title: "Virgin"

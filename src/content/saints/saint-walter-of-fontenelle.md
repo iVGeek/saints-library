@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Walter of Fontenelle"
 honorific: Saint
 summary: "Benedictine monk and then abbot of the monastery at Fontenelle, France, a noted spiritual center. Recognized by Pope Innocent II for this holiness and zeal to spread the Faith."

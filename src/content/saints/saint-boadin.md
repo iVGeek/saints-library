@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Boadin"
 honorific: Saint
 summary: "Benedictine monk, taking the cowl in France. Noted for strict observance of the Benedictine Rule, and for his gentle kindness."

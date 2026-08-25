@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Nicephorus of Corinth"
 honorific: Saint
 summary: "During the persecutions of Valerian, Anectus was arrested for his faith, tortured, and martyred with a group of fellow Christians."

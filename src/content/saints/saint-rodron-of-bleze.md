@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Rodron of Bèze"
 honorific: Saint
 summary: "Benedictine monk. Killed defending the altar at the Bèze Abbey, C&ocirc;te-d'Or, France against Norman invaders."

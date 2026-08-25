@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Saturninus of Africa"
 honorific: Saint
 summary: "Priest. Martyred in the persecutions of Diocletian."

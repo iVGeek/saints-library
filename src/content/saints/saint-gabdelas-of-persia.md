@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Gabdelas of Persia"
 honorific: Saint
 summary: "May have been the son of Saint Dadas and Saint Casdoes. Martyred with them for refusing to deny Christianity during the persecution of Shapur II."

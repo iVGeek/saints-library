@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Odrada of Alem"
 honorific: Saint
 summary: "Eleventh-century nun in Alem, Flanders (in modern Netherlands)."

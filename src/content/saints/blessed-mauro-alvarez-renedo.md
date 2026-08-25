@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Mauro Álvarez Renedo"
 honorific: Blessed
 summary: "Monk. Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."

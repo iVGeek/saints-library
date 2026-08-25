@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Santiago Maté Calzada"
 honorific: Blessed
 summary: "Franciscan Friars Minor cleric. Martyred in the Spanish Civil War."

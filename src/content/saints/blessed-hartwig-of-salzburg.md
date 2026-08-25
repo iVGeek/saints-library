@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Hartwig of Salzburg"
 honorific: Blessed
 title: "Bishop"

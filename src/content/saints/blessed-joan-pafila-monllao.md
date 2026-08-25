@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Joan Páfila Monllaó"
 honorific: Blessed
 summary: "Member of the Discalced Carmelites. Martyred in the Spanish Civil War."

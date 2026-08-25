@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Baricus of Africa"
 honorific: Saint
 summary: "Martyr."

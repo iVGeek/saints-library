@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Ammon of Alexandria"
 honorific: Saint
 summary: "Priest. Martyred by Diocletian."

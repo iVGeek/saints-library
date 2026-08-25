@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Gervinus of Aldenberg"
 honorific: Blessed
 summary: "Benedictine monk at Saint-Winnoc. Hermit at M&uuml;nster in Aldenberg, Germany. Abbot there in 1095."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Berius of Constantinople"
 honorific: Saint
 summary: "Martyr."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Cuthbert of Brittany"
 honorific: Saint
 summary: "No information has survived."

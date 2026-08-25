@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Claudon of Tomi"
 honorific: Saint
 summary: "One of a group of Christians martyred together. No other information has survived."

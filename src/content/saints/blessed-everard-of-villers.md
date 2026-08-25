@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Everard of Villers"
 honorific: Blessed
 summary: "Cistercian lay brother at Villers abbey in Brabant (in modern Belgium). He was a farm worker, and part of the rural religious group in the Court-Saint-Etienne area that was associated with the abbey. Everard was known for his piety and strict adherence to the rule and discipline"

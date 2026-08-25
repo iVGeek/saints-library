@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Theognia of Mineo"
 honorific: Saint
 summary: " The relics of Saint Agrappina were brought from Rome, Italy to a cave near the home of Saint Euprexia where exposure to them cured Saint Theognia of her paralysis. In gratitude, Euprexia built Daughter of Saint Euprexia of Mineo. She became paralyzed under unknown circumstances."

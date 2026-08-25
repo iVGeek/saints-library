@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Julian of Alexandria"
 honorific: Saint
 summary: "Summoned by authorities to answer a charge of Christianity in the persecutions of Decius, Julian was too crippled with gout to walk there. He was carried to court by two Christian servants, one of whom apostacized; the other was Saint Cronion Eunus. Martyred with Saint Cronion an"

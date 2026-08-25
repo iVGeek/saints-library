@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Mordeyren"
 honorific: Saint
 summary: "No information about him has survived."

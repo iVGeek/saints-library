@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Nemesio García-Arévalo Hinojosa"
 honorific: Blessed
 summary: "Layman in the diocese of Córdoba, Spain. Martyred in the Spanish Civil War."

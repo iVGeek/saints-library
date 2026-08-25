@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Marculo of Numidia"
 honorific: Saint
 summary: "Bishop. Murdered for his faith by a man named Macario in the reign of emperor Constantine. Martyr."

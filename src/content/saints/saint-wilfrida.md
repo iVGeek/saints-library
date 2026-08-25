@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Wilfrida"
 honorific: Saint
 summary: "Mother of Saint Edith of Wilton, the result of adultery with King Edgar the Peaceable. Benedictine nun at Wilton, England, hoping that a life in the convent would make up for her sins. Spiritual student of Saint Ethelwald. Abbess of Wilton."

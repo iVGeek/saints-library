@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Martia of Syracuse"
 honorific: Saint
 summary: "Martyr. No other details have survived."

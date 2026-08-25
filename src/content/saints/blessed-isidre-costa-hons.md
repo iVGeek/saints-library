@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Isidre Costa Hons"
 honorific: Blessed
 summary: "Member of the Claretians, professed on 16 May 1931. Martyred in the Spanish Civil War."

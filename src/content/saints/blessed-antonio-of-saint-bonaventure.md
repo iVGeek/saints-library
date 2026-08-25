@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Antonio of Saint Bonaventure"
 honorific: Blessed
 summary: "Franciscan Alcantarine missionary priest to Japan. He worked for ten years before his arrest, ministering to the faithful, hiding from the authorities. Martyr."

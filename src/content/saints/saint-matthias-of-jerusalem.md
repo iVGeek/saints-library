@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Matthias of Jerusalem"
 honorific: Saint
 summary: "Bishop of Jerusalem during a period of oppression by the Roman government, Jewish opposition, and general political upheaval in Palestine."

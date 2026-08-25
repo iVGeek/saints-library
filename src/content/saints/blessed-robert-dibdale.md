@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Robert Dibdale"
 honorific: Blessed
 summary: "Priest for the apostolic vicariate of England. Martyr."

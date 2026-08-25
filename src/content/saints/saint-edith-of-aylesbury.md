@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Edith of Aylesbury"
 honorific: Saint
 summary: "Born a princess, the daughter of King Penda of Mercia, sister of Saint Edburga of Bicester. Nun at the Aylesbury monastery in County Buckingham, England."

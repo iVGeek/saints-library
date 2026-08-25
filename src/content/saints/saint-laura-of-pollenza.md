@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Laura of Pollenza"
 honorific: Saint
 summary: "Martyred in the persecutions of Diocletian."

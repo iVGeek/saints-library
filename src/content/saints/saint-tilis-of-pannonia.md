@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Tilis of Pannonia"
 honorific: Saint
 summary: "Fourth-century martyr."

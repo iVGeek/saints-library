@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Volker of Segeberg"
 honorific: Blessed
 summary: "Priest. Augustinian canon at the Segeberg monastery and fortress in modern Schleswig-Holstein, Germany, where he was a spiritual student of Saint Vicelin of Oldenburg. He served as a missionary to the surrounding area until he was killed by pagans. Martyr."

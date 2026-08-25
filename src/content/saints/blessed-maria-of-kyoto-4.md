@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Maria of Kyoto"
 honorific: Blessed
 summary: "Lay woman in the Kyoto, Japan. One of the Martyrs of Kyoto."

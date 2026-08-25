@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Jacques de la Lande"
 honorific: Blessed
 summary: "Priest in the diocese of Evreux, France. One of the Martyrs of September."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Ormond of Mairé"
 honorific: Saint
 summary: "Monk. Abbot of the monastery of Saint Mairé in France, c.587. He supported monastic expansion and evangelization in his region."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Leoncio Lope García"
 honorific: Blessed
 summary: "Augustinian friar."

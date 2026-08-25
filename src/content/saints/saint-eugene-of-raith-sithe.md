@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Eugene of Raith-Sithe"
 honorific: Saint
 title: "Bishop"

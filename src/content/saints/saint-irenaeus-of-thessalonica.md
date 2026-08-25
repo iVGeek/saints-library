@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Irenaeus of Thessalonica"
 honorific: Saint
 summary: "Martyred in the persecution of Diocletian."

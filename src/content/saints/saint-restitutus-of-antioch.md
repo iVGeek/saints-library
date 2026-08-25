@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Restitutus of Antioch"
 honorific: Saint
 summary: "One of a group of sixteen Christians who were martyred together. No other details have survived."

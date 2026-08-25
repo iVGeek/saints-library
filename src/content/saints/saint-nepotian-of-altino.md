@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Nepotian of Altino"
 honorific: Saint
 summary: "Nephew of Saint Helidorus. Soldier. Officer in the imperial body guard, a post he resigned to become a priest."

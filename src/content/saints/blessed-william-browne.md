@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed William Browne"
 honorific: Blessed
 summary: "Layman servant in the house of nobleman Thomas Darcy. Known for his love of the Faith and the Church, he refused to acknowledge the king as head of Christianity in England, refused to attend Protestant services, and continued to encourage people to join and support Catholicism. F"

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Bonifacio of Siena"
 honorific: Blessed
 summary: "Franciscan friar."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Matthias Hikosuke"
 honorific: Blessed
 summary: "Young layman in the diocese of Niigata, Japan. Son of Blessed Maria Ito. Martyr."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Julia of Lisbon"
 honorific: Saint
 summary: "Martyred with her brother Saint Verissimus of Lisbon and sister Saint Maxima of Lisbon in the persecution of Diocletian."

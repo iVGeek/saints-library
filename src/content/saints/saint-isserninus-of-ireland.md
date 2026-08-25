@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Isserninus of Ireland"
 honorific: Saint
 summary: "Bishop. Worked with Saint Patrick to evangelize Ireland in the fifth century."

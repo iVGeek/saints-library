@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Torthred of Thorney"
 honorific: Saint
 summary: "Hermit and monk at Thorney Abbey. Martyr."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Saturus of Africa"
 honorific: Saint
 summary: "Wealthy master of the household of the anti-Christian Arian and then pagan Vandal king Genseric. When Genseric cracked down on the faithful, he tortured Saturus and threatened him with complete poverty and loss of his family and freedom. Saturus refused to deny his faith. Genseri"

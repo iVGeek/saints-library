@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Genocus"
 honorific: Saint
 summary: "Sixth-century monk in Wales. Travelled with and helped Saint Finian of Clonard in his work in Ireland."

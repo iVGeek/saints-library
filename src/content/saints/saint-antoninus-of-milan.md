@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Antoninus of Milan"
 honorific: Saint
 summary: "Archbishop of Milan, Italy."

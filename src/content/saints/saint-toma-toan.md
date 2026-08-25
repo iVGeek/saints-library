@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Tôma Toán"
 honorific: Venerable
 summary: "Layman in the apostolic vicariate of East Tonkin, Vietnam. Member of the lay Dominicans. Catechist and head of Mission Linh Trung. Arrested, tortured and left to die of hunger and thirst in the persecutions of Emperor Minh Mang. Martyr."

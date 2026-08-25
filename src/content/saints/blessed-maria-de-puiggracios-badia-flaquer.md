@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Maria de Puiggraciós Badia Flaquer"
 honorific: Blessed
 summary: "Carmelites of the Ancient Observance nun. Martyred in the Spanish Civil War."

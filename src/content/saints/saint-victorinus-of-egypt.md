@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Victorinus of Egypt"
 honorific: Saint
 summary: "Exiled to Egypt in 249. Tortured and martyred in the persecutions of Numerian."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Esteve Santacana Armengol"
 honorific: Blessed
 summary: "Franciscan Capuchin, making his profession on 4 October 1905. Ordained a priest on 5 June 1909. Murdered by Marxists in the Spanish Civil War."

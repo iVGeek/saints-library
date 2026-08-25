@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Settimino of Carthage"
 honorific: Saint
 summary: "Lector martyred in the persecutions of Diocletian."

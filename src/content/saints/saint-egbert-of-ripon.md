@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Egbert of Ripon"
 honorific: Saint
 summary: "Monk at Ripon, England."

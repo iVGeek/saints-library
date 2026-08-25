@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Arsenius of Konev"
 honorific: Saint
 summary: "Monk on Mount Athos in Greece for three years. Monk at the Valaam monastery in northern Russia. Founded a monastery in the island of Konev, putting it under the Rule he had learned on Mount Athos."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Severian the Martyr"
 honorific: Saint
 summary: "Married to Saint Aquila. Martyr."

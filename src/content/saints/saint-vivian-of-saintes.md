@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Vivian of Saintes"
 honorific: Saint
 summary: "Bishop of Saintes, France. Protected his people during the Visigoth invasion."

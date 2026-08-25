@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Aquilinus of Evreux"
 honorific: Saint
 summary: "Married. Aquilinus and his wife agreed to live by good works. When they moved to Evreux, France, Aquilinus's reputation for holiness was such that he was chosen bishop, but he lived more as a prayerful hermit than an active pastor among the people."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed François Balmain"
 honorific: Blessed
 summary: "Jesuit priest. Teacher in Pont-à-Mousson, France. Chaplain for the Daughters of the Cross in Paris, France. One of the Martyrs of September killed in the anti-Christian excesses of the French Revolution."

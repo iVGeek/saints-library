@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Leontius the Elder"
 honorific: Saint
 summary: "Bishop of Bordeaux, France."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Marcian of Lycaonia"
 honorific: Saint
 summary: "Young Christian man who publicly proclaimed his faith during persections led by governor Perennio; it led to his arrest, torture, having his tongue cut out to stop him praying, and execution. Martyr."

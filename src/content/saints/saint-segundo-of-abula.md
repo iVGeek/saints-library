@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Segundo of Ábula"
 honorific: Saint
 summary: "Early missionary and bishop of Ábula (modern Abla, Spain)."

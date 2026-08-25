@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Matrona of Capua"
 honorific: Saint
 summary: "Nun in Capua, Italy."

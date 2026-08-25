@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Clare of Orléans"
 honorific: Blessed
 summary: "12th century Cistercian nun. Devotion developed around her, and lasted for centuries, but all record of her life has been lost."

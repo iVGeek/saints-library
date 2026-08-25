@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Stephen of Rieti"
 honorific: Saint
 summary: "Abbot at Rieti, Italy. Pope Saint Gregory the Great describes him as “rude of speech, but cultured of life”. Stephen devoted himself almost wholly to prayer, and was known for his concern with the spiritual lives even of those who wronged him."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Marcus Ji Tianxiang"
 honorific: Saint
 summary: "Married layman in the apostolic vicariate of Southeastern Zhili, China. Father. Physician. An opium addiction led to him being forbidden to take Communion, and though he could not break his dependency for 30 years, he never lost his faith, never wanted to leave the Church, and wh"

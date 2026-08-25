@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Salonius of Geneva"
 honorific: Saint
 summary: "Son of Galla, who became a nun late in life, and of Saint Eucherius of Lyon; brother of Saint Veranus of Vence. Educated at Lérins Abbey where he became a monk. Bishop of Geneva, Switzerland in 439. Attended the Council of Orange in 441. Attended the Councils of Vaison in 442 and"

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Daganus"
 honorific: Saint
 summary: "Bishop honoured in Galloway, Scotland, who was known for his personal piety. Involved in the dispute over using the Roman or Celtic computation for Easter. Saint Bede the Venerable wrote about him, and his name is part of the Dunkeld Litany."

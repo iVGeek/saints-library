@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Saturnino Río Rojo"
 honorific: Blessed
 summary: "Franciscan Friars Minor cleric. Martyred in the Spanish Civil War."

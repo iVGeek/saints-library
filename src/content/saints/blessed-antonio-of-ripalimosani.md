@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Antonio of Ripalimosani"
 honorific: Blessed
 summary: "Franciscan lay brother in the province of Campobasso, Italy. Had the gift of miraculous healing."

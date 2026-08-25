@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Eutychius of Valcastoria"
 honorific: Saint
 summary: "Sixth-century hermit and monk whose piety led many to God. Miracle worker. Abbot of a monastery in Valcastoria, Italy. Pope Gregory the Great wrote about him."

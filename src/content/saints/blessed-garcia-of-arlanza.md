@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Garcia of Arlanza"
 honorific: Blessed
 summary: "Soldier. Monk. Abbot of Arlanza monastery, Burgos, Spain in 1039. Friend and counsellor of King Ferdinand I of Castile."

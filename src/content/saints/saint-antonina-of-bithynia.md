@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Antonina of Bithynia"
 honorific: Saint
 summary: "Tortured and martyred for refusing to sacrifice to pagan gods."

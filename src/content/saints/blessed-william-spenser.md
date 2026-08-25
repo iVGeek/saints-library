@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed William Spenser"
 honorific: Blessed
 summary: "Raised in an Anglican family. Studied at Trinity College, Oxford, England but left in 1580 and joined the Catholic Church in 1582. Studied at the seminary in Rheims, France. Ordained as a priest in the apostolic vicariate of England on 24 September 1583. Father William returned t"

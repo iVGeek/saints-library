@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Anianus the Deacon"
 honorific: Saint
 summary: "Deacon. Martyred with 22 companions. No other information has survived."

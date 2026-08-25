@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Theodoret of Antioch"
 honorific: Saint
 summary: "Priest in Antioch (in modern Turkey) where he served as the treasurer of the diocese. Effectively eliminated paganism in area of influence. Imprisoned, tortured and martyred in the persecutions of Julian the Apostate for refusing to surrender sacred vessels used in the Mass."

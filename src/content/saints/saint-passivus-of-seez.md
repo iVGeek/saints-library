@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Passivus of Séez"
 honorific: Saint
 title: "Bishop"

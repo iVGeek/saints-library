@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Silvanus of Gerona"
 honorific: Saint
 summary: "Two Christians with this name martyred together. No other details have survived."

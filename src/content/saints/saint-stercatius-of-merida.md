@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Stercatius of Merida"
 honorific: Saint
 summary: "Martyr."

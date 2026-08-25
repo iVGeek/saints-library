@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Auxentius of Mopsuetia"
 honorific: Saint
 summary: "Officer in the personal guard of the Emperor Augustus Licinus. Dismissed from his post for refusing to sacrifice to the pagan god Bacchus. Priest. Bishop of Mopsuestia, Cilicia. He gave refuge to anyone exiled by emperor Constantine the Great."

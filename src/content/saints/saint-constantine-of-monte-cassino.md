@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Constantine of Monte Cassino"
 honorific: Saint
 summary: "Monk. Spiritual student of Saint Benedict of Nursia, and succeeded him as abbot of Monte Cassino in Italy."

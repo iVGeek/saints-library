@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Humatus"
 honorific: Saint
 summary: "Martyr. No other information has survived."

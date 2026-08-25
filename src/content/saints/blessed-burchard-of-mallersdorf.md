@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Burchard of Mallersdorf"
 honorific: Blessed
 summary: "Benedictine monk at the monastery of Saint Michael in Bamberg, Bavaria, Germany. First abbot of the monastery of Mallersdorf in Bavaria in 1109."

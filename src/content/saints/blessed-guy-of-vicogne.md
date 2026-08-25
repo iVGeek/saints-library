@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Guy of Vicogne"
 honorific: Blessed
 summary: "Founded the Premonstratensian abbey of Vicogne in the diocese of Arras, France. He retired there as a Premonstratensian monk, and then served as superior of the community."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Moses the Hermit"
 honorific: Saint
 summary: "Hermit in the area between Syria and Egypt. Evangelized the nomadic tribes in the Syro-Arabian desert. Mavia, their queen, agreed to this on the provision that Moses be named their bishop. Moses agreed, but a controversy ensued when he refused to deal with the archbishop of Alexa"

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Florentius of Trois-Châteaux"
 honorific: Saint
 summary: "Martyr."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Divitianus of Soissons"
 honorific: Saint
 title: "Bishop"

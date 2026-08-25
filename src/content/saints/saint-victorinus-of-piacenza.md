@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Victorinus of Piacenza"
 honorific: Saint
 summary: "Monk. Abbot of the San Sabinus monastery in Piacenza, Italy."

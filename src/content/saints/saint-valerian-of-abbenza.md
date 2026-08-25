@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Valerian of Abbenza"
 honorific: Saint
 summary: "Bishop of Abbenza in North Africa. Arian Vandals demanded that he turn over his sacred vessels to them; he refused and so was exiled with a public order that no one was permitted to give him shelter. Martyr."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Macedonius"
 honorific: Saint
 summary: "Patriarch of Constantinople. Exiled by Arians for defending the decisions of the Council of Chalcedon."

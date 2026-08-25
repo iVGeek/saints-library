@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Aphrodisius of Alexandria"
 honorific: Saint
 summary: "Priest martyred with about 30 of his parishioners whose names have not come down to us."

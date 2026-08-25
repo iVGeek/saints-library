@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Moeliai of Nendrum"
 honorific: Saint
 summary: "Baptised by Saint Patrick. Abbot of Nendrum Monastery."

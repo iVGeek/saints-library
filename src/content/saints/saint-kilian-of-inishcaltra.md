@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Kilian of Inishcaltra"
 honorific: Saint
 summary: "Monk. Abbot of monastery on the island of Inishcaltra. Wrote a biography of Saint Brigid."

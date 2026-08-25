@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Januarius of Africa"
 honorific: Saint
 summary: "African martyr whose name appears on ancient lists, but about whom nothing is known."

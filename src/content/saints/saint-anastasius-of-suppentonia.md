@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Anastasius of Suppentonia"
 honorific: Saint
 summary: "Benedictine monk at Suppentonia (modern Castel Sant'Elia), diocese of Nepi, Italy. Abbot at Suppentonia. Pope Saint Gregory the Great wrote that an angel appeared to summon Anastasius and his monks, all of whom died in rapid succession within the next eight days."

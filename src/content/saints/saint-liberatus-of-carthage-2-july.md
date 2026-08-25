@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Liberatus of Carthage"
 honorific: Saint
 summary: "Monk. Abbot. Martyred in the persecutions of the Arian King Hunneric."

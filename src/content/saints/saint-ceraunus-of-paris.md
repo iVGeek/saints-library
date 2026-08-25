@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Ceraunus of Paris"
 honorific: Saint
 title: "Bishop"

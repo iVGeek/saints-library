@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Arnold of Hildesheim"
 honorific: Blessed
 summary: "Benedictine monk in 12th century Fulda in modern Germany. Abbot of the monastery of Saint Godehard in Hildesheim, Germany."

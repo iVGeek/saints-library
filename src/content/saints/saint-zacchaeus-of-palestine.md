@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Zacchaeus of Palestine"
 honorific: Saint
 summary: "Tortured and martyred in the persecutions of Diocletian."

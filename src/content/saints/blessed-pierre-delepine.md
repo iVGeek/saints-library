@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Pierre Delépine"
 honorific: Blessed
 summary: "Layman in the diocese of Angers, France. Martyred in the persecutions of the French Revolution."

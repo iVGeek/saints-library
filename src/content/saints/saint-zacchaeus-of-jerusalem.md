@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Zacchaeus of Jerusalem"
 honorific: Saint
 summary: "Fourth bishop of Jerusalem."

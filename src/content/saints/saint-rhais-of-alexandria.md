@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Rhais of Alexandria"
 honorific: Saint
 summary: "Catechumen and spiritual student of Origen. Martyred in the persecutions of Severus."

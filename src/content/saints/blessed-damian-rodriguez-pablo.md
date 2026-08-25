@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Damián Rodríguez Pablo"
 honorific: Blessed
 summary: "Discalced Carmelite friar. Martyred in the Spanish Civil War."

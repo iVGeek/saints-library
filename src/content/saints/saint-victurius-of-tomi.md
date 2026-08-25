@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Victurius of Tomi"
 honorific: Saint
 summary: "Martyr."

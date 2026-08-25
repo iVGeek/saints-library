@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Christopher of Penne"
 honorific: Blessed
 summary: "Franciscan monk who lived his entire life in religion at the convent of Santissima Annunziata del Poggio of Orsogna, Chieti, Italy."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Vittore of Piacenza"
 honorific: Saint
 title: "Deacon"

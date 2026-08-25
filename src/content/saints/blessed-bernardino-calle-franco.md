@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Bernardino Calle Franco"
 honorific: Blessed
 summary: "Augustinian friar. Martyred in the Spanish Civil War."

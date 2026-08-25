@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Anrê Tran Van Trông"
 honorific: Venerable
 summary: "Raised Catholic, but he kept quiet about it in public. Lifelong layman. Career soldier and officer. Worked to help the missionaries of the Paris Foreign Mission Society. In 1834 authorities discovered Andrew's Catholicism; he was stripped of rank and imprisoned for the faith. He"

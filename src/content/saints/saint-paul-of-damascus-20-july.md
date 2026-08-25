@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Paul of Damascus"
 honorific: Saint
 summary: "Martyr."

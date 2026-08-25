@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Saba the Younger"
 honorific: Saint
 summary: "Brother of Saint Macarius. Monk. Worked with his brother to spread the monastic life through the Calabria and Lucania regions of Italy during a time when Muslim Saracen invaders were disrupting religious life."

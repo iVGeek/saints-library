@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Isabella Fernandes"
 honorific: Blessed
 summary: "Married to Blessed Domingos Jorge. Mother of Blessed Ignatius Jorge-Fernandes. Member of the Confraternity of the Rosary. Widowed when Blessed Domingos was martyred. She and her son were executed for aiding Blessed Charles Spinola. Martyr."

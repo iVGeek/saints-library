@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Heliodorus"
 honorific: Saint
 summary: "Martyred with 75 other Christians in the perscutions of Diocletian."

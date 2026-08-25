@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Thecla Kurogane"
 honorific: Blessed
 summary: "Young lay woman in the diocese of Niigata, Japan. Married to Blessed Vincentius Kurogane Ichibiyoe. Martyr."

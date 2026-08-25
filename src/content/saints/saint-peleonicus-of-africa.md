@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Peleonicus of Africa"
 honorific: Saint
 summary: "Martyr. No other details have survived."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Hermas of Rome"
 honorific: Saint
 summary: "Martyred by a pagan mob."

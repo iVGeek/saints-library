@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Sigolinus of Stavelot"
 honorific: Saint
 summary: "Monk. Abbot of Stavelot-Malmédy Abbey in Belgium."

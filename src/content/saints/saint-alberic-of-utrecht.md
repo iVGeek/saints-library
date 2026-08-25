@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Alberic of Utrecht"
 honorific: Saint
 summary: "Nephew of Saint Gregory of Utrecht. Friend of Blessed Alcuin. Benedictine monk in Utrecht, Netherlands. Prior of the cathedral of Utrecht. Noted for his encyclopedic knowledge of the faith, his joy for living in Christ, and his zeal for bringing both to any who would listen. Bish"

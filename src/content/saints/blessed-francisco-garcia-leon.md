@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Francisco García León"
 honorific: Blessed
 summary: "Teenaged boy in the diocese of Córdoba, Spain. Martyred in the Spanish Civil War."

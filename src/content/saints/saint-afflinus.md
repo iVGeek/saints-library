@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Afflinus"
 honorific: Saint
 summary: "Bishop. No other information has survived."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Barnabas Gim I-u"
 honorific: Blessed
 summary: "Layman martyr in the apostolic vicariate of Korea."

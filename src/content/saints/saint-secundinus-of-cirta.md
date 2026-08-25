@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Secundinus of Cirta"
 honorific: Saint
 summary: "Priest. Martyr."

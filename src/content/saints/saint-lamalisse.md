@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Lamalisse"
 honorific: Saint
 summary: "Hermit in Scotland. The small island of Lamlash near Arran, Scotland is named for him."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Baltasar Mariano Muñoz Martínez"
 honorific: Blessed
 summary: "Franciscan Friar Minor. Martyred in the Spanish Civil War."

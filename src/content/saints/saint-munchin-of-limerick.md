@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Munchin of Limerick"
 honorific: Saint
 summary: "First bishop of Limerick (Luimneach), occupying the see in the 7th century. A prince gave him the island, possibly in exchange for Munchin giving up a claim to the throne. Established the school at Mungret and served as abbot to its 1,500 monks."

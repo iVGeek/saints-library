@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed William de Paulo"
 honorific: Blessed
 summary: "Benedictine monk at San Niccolo dell' Arena. Abbot at Maniaco, assigned to restore discipline."

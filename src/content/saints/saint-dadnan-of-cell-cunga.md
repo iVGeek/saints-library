@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Dadnan of Cell Cunga"
 honorific: Saint
 summary: "Bishop mentioned in the Tallaght martyrology; no other information has survived."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Margaret of Hulme"
 honorific: Saint
 summary: "Martyr."

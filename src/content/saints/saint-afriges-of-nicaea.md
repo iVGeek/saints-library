@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Afriges of Nicaea"
 honorific: Saint
 summary: "One of 279 Christians martyred together."

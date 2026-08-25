@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Potenzianus of Sens"
 honorific: Saint
 summary: "Shepherd. Martyr."

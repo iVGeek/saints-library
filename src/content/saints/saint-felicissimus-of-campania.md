@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Felicissimus of Campania"
 honorific: Saint
 summary: "Marytred in the persecutions of Diocletian. No other information has survived."

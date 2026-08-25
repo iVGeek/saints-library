@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Theophilis of Alexandria"
 honorific: Saint
 summary: "Imperial Roman soldier assigned to guard a group of Egyptian Christians who were imprisoned for their faith in the persecutions of Decius. During their trial, he encouraged the prisoners not to apostatize. Arrested as a Christian and executed. Martyr."

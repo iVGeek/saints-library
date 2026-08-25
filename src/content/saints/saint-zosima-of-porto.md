@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Zosima of Porto"
 honorific: Saint
 summary: "Martyred in the persecutions of Aurelian."

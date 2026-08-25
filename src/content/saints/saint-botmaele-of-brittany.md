@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Botmaele of Brittany"
 honorific: Saint
 summary: "Sixth century monk in Brittany, France. Spiritual student of Saint Mawes."

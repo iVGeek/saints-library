@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Saturninus the Martyr"
 honorific: Saint
 summary: "Martyred with nine Christian companions whose names have not come down to us."

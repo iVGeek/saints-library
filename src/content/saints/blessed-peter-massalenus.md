@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Peter Massalenus"
 honorific: Blessed
 summary: "As a layman, Peter made several pilgrimages to the Holy Land. Camaldolese Benedictine monk at San Michele di Murano, Venice, Italy in 1410. Known for his gift of mystical contemplation."

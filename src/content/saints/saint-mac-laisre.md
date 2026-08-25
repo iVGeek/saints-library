@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Mac Laisre"
 honorific: Saint
 summary: "Monk and abbot who is reported to have lived at Bennchor or Bangor abbey in County Down, Ireland, in the 6th and 7th centuries."

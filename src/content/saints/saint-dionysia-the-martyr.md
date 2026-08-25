@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Dionysia the Martyr"
 honorific: Saint
 summary: "Born to the nobility. Widow. Sister of Saint Dativa. Mother of Saint Majoricus the Martyr. Martyred during the persecutions of the Arian Vandal king Huneric. A witness records that as she was being scourged, she called to her son not to lose his faith."

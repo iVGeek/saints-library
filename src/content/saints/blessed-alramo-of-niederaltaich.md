@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Alramo of Niederaltaich"
 honorific: Blessed
 summary: "Benedictine monk at the Niederaltaich monastery no later than 1099. Details about his life have been lost."

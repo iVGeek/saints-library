@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Juan Antonio López Pérez"
 honorific: Blessed
 summary: "Priest of the diocese of Almería, Spain. Martyred in the Spanish Civil War."

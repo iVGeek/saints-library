@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Peter Wright"
 honorific: Blessed
 summary: "Born to a Protestant family, Peter converted to Catholicism. Worked in a country lawyer's office for ten years. He enlisted in the army, was assigned to the Netherlands, but deserted after a month. Studied in at the Jesuit seminary in Ghent, Belgium, and in Rome, Italy. Priest. J"

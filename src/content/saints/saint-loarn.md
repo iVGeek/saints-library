@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Loarn"
 honorific: Saint
 summary: "Fifth-century spiritual student of Saint Patrick."

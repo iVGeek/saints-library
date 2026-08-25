@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Bertrand-Antoine de Caupenne"
 honorific: Blessed
 summary: "Priest of the diocese of Versailles, France. One of the Martyrs of September."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Thomas Tomachi"
 honorific: Blessed
 summary: "Young son of Blessed Ioannes Tomachi in the archdiocese of Nagasaki, Japan. Martyr."

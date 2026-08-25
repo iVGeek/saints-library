@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Juan María Coca González-Saavedra"
 honorific: Blessed
 summary: "Ordained a priest of the archdiocese of Sevilla, Spain on 18 December 1909. Assistant parish priest of Lora del Río on 14 October 1911. Martyred in the Spanish Civil War."

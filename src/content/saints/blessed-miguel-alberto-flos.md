@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Miguel Alberto Flos"
 honorific: Blessed
 summary: "Salesian brother. Teacher. Martyred in the Spanish Civil War."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Antoninus of Rome"
 honorific: Saint
 summary: "Imperial government executioner in the reign of Commodus. Convert who had to immediately turn his back on all his previous life."

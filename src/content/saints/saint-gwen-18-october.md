@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Gwen of Caer Goch"
 honorific: Saint
 summary: "Born to the British nobility, the daughter of Lord Cynyr Ceinfarfog, king of Dyfed; she was the sister of Saint Nonna, and aunt of Saint David of Wales. She married Prince Salom of Cerniw. Mother of Saint Cyby and Saint Cadfan, and possibly others. Widow. Besides her connections"

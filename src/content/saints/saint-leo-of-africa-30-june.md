@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Leo of Africa"
 honorific: Saint
 summary: "Sub-deacon. Martyr."

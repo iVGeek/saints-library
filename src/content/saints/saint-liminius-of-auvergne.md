@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Liminius of Auvergne"
 honorific: Saint
 summary: "Companion of Saint Antholian of Auvergne. Martyred by pagan Alamanni under the leadership of Chrocus during their invasion of the Auvergne region of Gaul. Saint Gregory of Tours wrote about him in his history of the time."

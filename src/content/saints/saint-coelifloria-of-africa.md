@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Coelifloria of Africa"
 honorific: Saint
 summary: "One of a group of Christians martyred together in Africa, date unknown, exact location unknown."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Peregrinus of Thessalonica"
 honorific: Saint
 summary: "Martyred in the persecution of Diocletian"

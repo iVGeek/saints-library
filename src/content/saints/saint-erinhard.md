@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Erinhard"
 honorific: Saint
 summary: "Monk. Prior."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Lupulo of Capua"
 honorific: Saint
 summary: "Martyr."

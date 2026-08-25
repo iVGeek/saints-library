@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Leontius of Caesarea"
 honorific: Saint
 summary: "Bishop of Caesarea. Worked in the Council of Nicaea in 325. Highly praised in the writings of Saint Athanasius of Alexandria."

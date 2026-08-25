@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Phêrô Ðoàn Công Quý"
 honorific: Saint
 summary: "Priest of the diocese of Vinh Long, Vietnam. Imprisoned for seven months and then executed in the persecutions of Emperor Tu-Duc. Martyr."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Machudd of Llanfechel"
 honorific: Saint
 summary: "Founded Llanfechell Abbey, Anglesey, Wales, and served as its first abbot."

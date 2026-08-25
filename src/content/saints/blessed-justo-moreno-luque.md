@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Justo Moreno Luque"
 honorific: Blessed
 summary: "Priest of the diocese of Córdoba, Spain, serving in the Montemayor community. Martyred in the Spanish Civil War."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Tato"
 honorific: Saint
 summary: "Brother of Saint Paldo and Saint Taso. Benedictine monk at Farfa, Sabina, Italy. The three brothers founded the monastery of San Vincenzo on the Voltorno river. Third abbot of the house."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Pansofius of Alexandria"
 honorific: Saint
 summary: "Son of the imperial pro-consul of Alexandria, Egypt. When Pansofius came into his inheritance, he gave away his entire fortune to the poor and lived as a hermit outside the city for over 20 years. During the persecutions of Decius, Pansofius' reputation for sanctity led to his ar"

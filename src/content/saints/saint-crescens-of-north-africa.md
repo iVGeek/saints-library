@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Crescens of North Africa"
 honorific: Saint
 summary: "Fifth century North African bishop exiled by the Arian Vandal king Genseric for maintaining orthodox Christianity. No other information has survived."

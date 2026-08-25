@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Thomasello"
 honorific: Saint
 summary: "Dominican. Student of Saint Thomas Aquinas."

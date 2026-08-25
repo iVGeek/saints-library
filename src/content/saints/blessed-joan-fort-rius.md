@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Joan Fort Rius"
 honorific: Blessed
 summary: "Discalced Carmelite brother. Martyred in the Spanish Civil War."

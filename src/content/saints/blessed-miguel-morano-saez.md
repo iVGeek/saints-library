@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Miguel Morano Sáez"
 honorific: Blessed
 summary: "Priest of the diocese of Almeria Spain. Martyred in the Spanish Civil War."

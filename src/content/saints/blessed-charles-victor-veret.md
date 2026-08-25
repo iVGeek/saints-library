@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Charles-Victor Véret"
 honorific: Blessed
 summary: "Priest in the archdiocese of Paris, France. One of the Martyrs of September."

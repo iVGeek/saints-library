@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint James of Persia"
 honorific: Saint
 summary: "Fourth century priest in Persia, martyred in the persecutions of King Shapur II"

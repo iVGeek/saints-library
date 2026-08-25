@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Cantianus of Lucania"
 honorific: Saint
 summary: "Martyr."

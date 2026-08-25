@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Maurus of Rome"
 honorific: Saint
 summary: "Child martyr, celebrated by Pope Damasus."

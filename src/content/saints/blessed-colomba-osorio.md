@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Colomba Osorio"
 honorific: Blessed
 summary: "Nun. Abbess at Archen. Martyred with several of her sisters."

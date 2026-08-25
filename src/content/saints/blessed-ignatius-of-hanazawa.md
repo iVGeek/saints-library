@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Ignatius of Hanazawa"
 honorific: Blessed
 summary: "a href=”patrons-of-children”>Child in the diocese of Niigata, Japan. Nephew of Blessed Candidus “Bozu”. Martyr."

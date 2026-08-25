@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Christian of Douai"
 honorific: Blessed
 title: "Priest"

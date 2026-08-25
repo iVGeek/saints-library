@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Practextatus of Rome"
 honorific: Saint
 summary: "Martyred in the persecutions of Diocletian for ministering to Christian prisoners."

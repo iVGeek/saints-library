@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Rogatian of Carthage"
 honorific: Saint
 summary: "Priest. Martyr."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Pere Verdaguer Saurina"
 honorific: Blessed
 summary: "Priest. Member of the Sons of the Holy Family. Prefect of the Marian congregation at Vilafranca del Penedès, Barcelona, Spain. Worked in the community school. Martyred in the Spanish Civil War."

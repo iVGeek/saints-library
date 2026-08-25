@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Philibert Fougères"
 honorific: Blessed
 summary: "Priest in the diocese of Nevers, France. One of the Martyrs of September."

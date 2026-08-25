@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Sighardus of Bonlieu"
 honorific: Blessed
 summary: "Benedictine monk. Cistercian monk of Jouy, France. Founded the Carbon-Blanc (Bonlieu) Abbey near Bordeaux, France in 1141, and served as its first abbot."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Pedro Rodrigues"
 honorific: Blessed
 summary: "Commander of the Knights of Santiago de Castilla. During the re-conquest of the Iberian peninsula from the Muslims by Christian forces, in a period of truce between the armies, Pedro was allowed to leave the Portuguese camp to hunt. Near Tavira, Portugal, he and his companions we"

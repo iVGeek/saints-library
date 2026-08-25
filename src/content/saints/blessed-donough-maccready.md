@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Donough MacCready"
 honorific: Blessed
 summary: "Priest in the diocese of Down and Connor, Ireland. One of the Irish Martyrs."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Ioannes Banzai Kazue"
 honorific: Blessed
 summary: "Layman in the diocese of Niigata, Japan. Married to Blessed Aurea Banzai. Martyr."

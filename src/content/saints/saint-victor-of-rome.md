@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Victor of Rome"
 honorific: Saint
 summary: "Martyred in the persecutions of Nero."

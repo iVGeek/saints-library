@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Platonides of Ashkelon"
 honorific: Saint
 summary: "Deaconess. Founded a convent at Nisibis, Mesopotamia. Martyred with two others about whom we know nothing."

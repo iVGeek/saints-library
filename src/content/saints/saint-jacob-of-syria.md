@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Jacob of Syria"
 honorific: Saint
 summary: "Fourth century monk. Feeling a call to a more solitary and ascetic life, he became a desert hermit."

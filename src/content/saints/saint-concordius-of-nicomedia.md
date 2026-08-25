@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Concordius of Nicomedia"
 honorific: Saint
 summary: "Son of Saint Zenone of Nicomedia. Martyred in the persecutions of Diocletian."

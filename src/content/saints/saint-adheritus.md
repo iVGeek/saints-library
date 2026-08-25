@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Adheritus"
 honorific: Saint
 summary: "Priest. Bishop of Ravenna, Italy."

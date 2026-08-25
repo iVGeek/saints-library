@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Antonio Sáez de Ibarra López"
 honorific: Blessed
 summary: "Franciscan Friar Minor postulant, entering the novitiate on 17 January 1931 and taking the name Antonio; his novitiate was interrupted by the Spanish Civil War during which his convent was burned. Studied theology, but failing health caused him to withdraw from college and settle"

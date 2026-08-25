@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Matthias of Arima"
 honorific: Blessed
 summary: "Layman catechist who worked with Jesuit missionaries in Japan. Seized and tortured to get information about the missionaries; he told his torturers nothing. Martyr."

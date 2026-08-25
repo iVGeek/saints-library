@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Gebuinus of Lyons"
 honorific: Saint
 title: "Bishop"

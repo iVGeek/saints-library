@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Concordius of Saintes"
 honorific: Saint
 title: "Bishop"

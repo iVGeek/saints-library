@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Viktor of Africa"
 honorific: Saint
 deathYear: 300

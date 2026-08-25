@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Baltasar Torrero Béjar"
 honorific: Blessed
 summary: "Layman in the diocese of Córdoba, Spain. Martyred in the Spanish Civil War."

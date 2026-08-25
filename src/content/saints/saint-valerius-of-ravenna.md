@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Valerius of Ravenna"
 honorific: Saint
 title: "Bishop"

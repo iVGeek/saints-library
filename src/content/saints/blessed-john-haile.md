@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed John Haile"
 honorific: Blessed
 summary: "Priest. Fellow of King's Hall, Cambridge. Vicar of Isleworth, Middlesex, England. Martyred with Saint John Houghton and three others."

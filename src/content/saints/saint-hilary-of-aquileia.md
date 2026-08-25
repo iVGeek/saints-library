@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Hilary of Aquileia"
 honorific: Saint
 summary: "Bishop of Aquileia, Italy. His prayers would cause the collapse of pagan temples and idols. Martyred in the persecutions of Numerian by order of the prefect Beronius."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Nicholas the Deacon"
 honorific: Saint
 summary: "Convert. One of the first seven deacons ordained by the Apostles. Miracle worker. Martyr."

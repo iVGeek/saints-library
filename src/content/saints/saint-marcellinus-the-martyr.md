@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Marcellinus the Martyr"
 honorific: Saint
 summary: "Brother of Saint Agrarius the Martyr. Imperial Roman representative in North Africa. When he opposed the Donatism heresy, he was murdered by Donatists. Martyr."

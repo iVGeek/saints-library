@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Amor of Amorbach"
 honorific: Saint
 summary: "Worked with Saint Pirmin as an 8th-century missionary in Germany. Founded the monastery of Amorbach in Franconia."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Julian of Syria"
 honorific: Saint
 summary: "Priest. No other information has survived."

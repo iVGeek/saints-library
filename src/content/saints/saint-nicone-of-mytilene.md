@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Nicone of Mytilene"
 honorific: Saint
 summary: "Martyred with several fellow Christians in the persecutions of Diocletian."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Venerable Maria Elisa Andreoli"
 honorific: Venerable
 summary: "Founder of the Congregation of the Reparatrix Sisters, Servants of Mary (Serve di Maria Riparatrici)."

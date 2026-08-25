@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Nicolas Colin"
 honorific: Blessed
 summary: "Priest of the diocese of Langres, France. One of the Martyrs of September."

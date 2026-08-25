@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Maurilius of Cahors"
 honorific: Saint
 summary: "Bishop of Cahors, France. Known for knowing the entire Bible by heart."

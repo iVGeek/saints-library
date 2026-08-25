@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Marcellus the Martyr"
 honorific: Saint
 summary: "Martyr."

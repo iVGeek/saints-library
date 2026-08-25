@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Venerable Serafin Kaszuba"
 honorific: Venerable
 searchAliases:

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Aquilinus of Africa"
 honorific: Saint
 summary: "Martyred by the Arian Vandal king Hunneric."

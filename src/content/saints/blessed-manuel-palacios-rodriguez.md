@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Manuel Palacios Rodríguez"
 honorific: Blessed
 summary: "Lifelong layman of the archdiocese of Sevilla, Spain. He married Luisa Monrabá Canela on 4 October 1909; the couple had seven children, including Blessed Enrique Palacios Monrabá. Manuel was a member of the Society of Saint Vincent de Paul, and of his parish council. Martyred wit"

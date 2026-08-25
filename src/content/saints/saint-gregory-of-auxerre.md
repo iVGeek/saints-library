@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Gregory of Auxerre"
 honorific: Saint
 summary: "Bishop of Auxerre, France for 13 years."

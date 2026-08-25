@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Christiana"
 honorific: Saint
 summary: "Anglo-Saxon princess. Nun in Flanders, Belgium."

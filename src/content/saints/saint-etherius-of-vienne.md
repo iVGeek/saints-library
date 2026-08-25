@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Etherius of Vienne"
 honorific: Saint
 summary: "Seventh-century bishop of Vienne, France."

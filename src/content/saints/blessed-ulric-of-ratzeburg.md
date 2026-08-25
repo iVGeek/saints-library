@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Ulric of Ratzeburg"
 honorific: Blessed
 summary: "Born to the nobility. Premonstratensian canon at the monastery of Ratzeburg, Germany. Priest. Bishop of Ratzeburg in 1257; he served for 27 years. Known for his zeal for the faith, his dedication to the Norbertine Rule, his piety, charity, and his care for the poor of his diocese"

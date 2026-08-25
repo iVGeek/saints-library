@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Cele-Christ"
 honorific: Saint
 summary: "Hermit. Reluctant bishop of Leinster, Ireland."

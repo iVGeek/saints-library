@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Tiberio of Pinerolo"
 honorific: Saint
 summary: "Soldier of the Theban Legion. Martyr."

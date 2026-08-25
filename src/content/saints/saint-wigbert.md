@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Wigbert"
 honorific: Saint
 summary: "Spiritual student of Saint Egbert in Ireland. Spent two years as a missionary in Friesland (in modern Netherlands)."

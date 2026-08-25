@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Maria Consolatrice of Verona"
 honorific: Saint
 summary: "A consecrated virgin and sister of Saint Annone, bishop of Verona, Italy. With her brother, and the financial assistance of the matrons of Verona, she recovered the relics of Saint Firmus, Saint Rusticus, Saint Primo, Saint Lazzaro, Saint Marco and Saint Apollinare to Verona; the"

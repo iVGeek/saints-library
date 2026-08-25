@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Martin of Saujon"
 honorific: Saint
 summary: "Spiritual student of Saint Martin of Tours. Founded the monastery of Saujon, France."

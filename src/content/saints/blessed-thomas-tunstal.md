@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Thomas Tunstal"
 honorific: Blessed
 summary: "Benedictine. Studied at the seminary in Douai, France. Priest. He returned to England to minister to covert Catholics, using false names to hide from the authorities. Martyred for the crime of priesthood in the persecutions of King James I."

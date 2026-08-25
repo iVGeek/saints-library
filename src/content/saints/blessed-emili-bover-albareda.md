@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Emili Bover Albareda"
 honorific: Blessed
 summary: "Member of the Claretians, professed on 1 October 1889. Ordained a priest on 16 January 1898. Martyred in the Spanish Civil War."

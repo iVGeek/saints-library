@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Thomas Mitsuishi"
 honorific: Blessed
 summary: "Young son of Blessed Michaël Mitsuishi Hikoemon. Martyr."

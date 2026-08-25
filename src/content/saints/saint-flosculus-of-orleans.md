@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Flosculus of Orleans"
 honorific: Saint
 summary: "Bishop of Orleans, France."

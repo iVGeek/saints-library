@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Mark of Jerusalem"
 honorific: Saint
 summary: "First Gentile bishop of Jerusalem c.135, serving for over 20 years. Martyr."

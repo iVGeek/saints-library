@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Leonianus of Autun"
 honorific: Blessed
 summary: "Lay man who was captured and taken to Gaul as a slave. When he regained his freedom he became a hermit near Autun (in modern France). Monk at the Saint Symphorianus Abbey at Autun."

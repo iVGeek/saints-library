@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Rafael Reyes Moreno"
 honorific: Blessed
 summary: "Priest of the diocese of Córdoba, Spain, serving in the Fernán Núñez community. Martyred in the Spanish Civil War."

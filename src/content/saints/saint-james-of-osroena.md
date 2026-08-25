@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint James of Osroena"
 honorific: Saint
 title: "Hermit"

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Colman of Clonard"
 honorific: Saint
 summary: "Related to Saint Finnian of Clonard. Monk. Abbot of Clonard Abbey."

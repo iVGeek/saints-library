@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Fintán of Clonenagh"
 honorific: Saint
 summary: "Spiritual student of Saint Columba. Austere hermit at Clonenagh, Ireland. Many would-be students gathered around him that he founded a house for them and served as their abbot. He set such an austere example that neighboring monasteries complained they could not keep up; though h"

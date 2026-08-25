@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Giomaria of Lorvão"
 honorific: Blessed
 summary: "Cistercian nun who spent her entire life in religion in the convent at Lorvão, Coimbra, Portugal where she was noted for her devotion to prayer and penance."

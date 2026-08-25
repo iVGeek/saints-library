@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Philip of Fermo"
 honorific: Saint
 summary: "Bishop of Fermo, Italy. Martyred in the persecutions of Aurelian."

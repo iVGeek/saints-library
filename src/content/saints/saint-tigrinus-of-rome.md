@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Tigrinus of Rome"
 honorific: Saint
 summary: "Martyr."

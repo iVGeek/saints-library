@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Arnold of Gemblours"
 honorific: Blessed
 summary: "Benedictine monk at Saint-Nicaise Abbey, Rheims, France. Abbot of Gemblours Abbey in Belgium."

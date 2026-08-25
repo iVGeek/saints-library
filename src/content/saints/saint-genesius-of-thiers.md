@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Genesius of Thiers"
 honorific: Saint
 summary: "Martyr."

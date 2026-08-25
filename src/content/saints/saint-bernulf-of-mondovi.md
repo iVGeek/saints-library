@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Bernulf of Mondovì"
 honorific: Saint
 title: "Bishop"

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Bonannus of Roio"
 honorific: Blessed
 summary: "Benedictine monk of the Celestine Congregation at the monastery of Saint Laurence, Abruzzi, Italy."

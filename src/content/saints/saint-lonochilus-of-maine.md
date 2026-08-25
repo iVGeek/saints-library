@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Lonochilus of Maine"
 honorific: Saint
 title: "Priest"

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Francisco Alarcón Rubio"
 honorific: Blessed
 summary: "Priest of the diocese of Córdoba, Spain, serving in the El Viso de los Pedroches community. Martyred in the Spanish Civil War."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Ursus of Troyes"
 honorific: Saint
 summary: "Priest. Bishop of Troyes, France in the late 4th and early 5th centuries."

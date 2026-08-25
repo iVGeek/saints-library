@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Ventureta Sauleda Paulís"
 honorific: Blessed
 summary: "Dominican nun. Martyred in the Spanish Civil War."

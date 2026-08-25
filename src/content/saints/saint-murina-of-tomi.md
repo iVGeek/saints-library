@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Murina of Tomi"
 honorific: Saint
 summary: "Martyr."

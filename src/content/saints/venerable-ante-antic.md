@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Venerable Ante Antic"
 honorific: Venerable
 summary: "Franciscan Friar Minor. Priest."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Eduardo Valverde Rodríguez"
 honorific: Blessed
 summary: "Priest in the diocese of Almeria Spain. Martyred in the Spanish Civil War."

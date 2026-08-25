@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Vincent of Porto Romano"
 honorific: Saint
 summary: "Martyr. No other information survives."

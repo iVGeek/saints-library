@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed John Rugg"
 honorific: Blessed
 summary: "Former fellow of the two Saint Mary Winton colleges. Priest. First holder of the Wykehamical prebend “Bursalis” at the Chichester Cathedral. Obtained a dispensation from residence, and was living as a Benedictine monk at Reading, Berkshire, England in 1532. Believed to have hidde"

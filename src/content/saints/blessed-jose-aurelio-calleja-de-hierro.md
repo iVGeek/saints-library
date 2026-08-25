@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed José Aurelio Calleja de Hierro"
 honorific: Blessed
 summary: "Augustinian priest. Martyred in the Spanish Civil War."

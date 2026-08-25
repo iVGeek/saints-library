@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Januaria of Porto Romano"
 honorific: Saint
 summary: "Martyred in the persecution of Diocletian."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Pedro of the Assumption"
 honorific: Blessed
 summary: "Franciscan Friars Minor (Alcantarines) missionary priest. Martyr."

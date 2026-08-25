@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Compagno of Recanati"
 honorific: Blessed
 summary: "Franciscan friar who had a reputation for piety, but about whom all information has been lost."

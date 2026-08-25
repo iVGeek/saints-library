@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Senary of Avranches"
 honorific: Saint
 title: "Bishop"

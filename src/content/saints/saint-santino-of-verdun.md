@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Santino of Verdun"
 honorific: Saint
 summary: "Missionary bishop in Verdun, France."

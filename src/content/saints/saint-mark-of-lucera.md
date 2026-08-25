@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Mark of Lucera"
 honorific: Saint
 summary: "Fourth-century bishop in southern Italy."

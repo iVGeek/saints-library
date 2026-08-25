@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Antonia of Siena"
 honorific: Blessed
 summary: "15th century Franciscan tertiary who lived in the Santa Maria Nuova monastery in Ancona, Italy."

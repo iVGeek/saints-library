@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Mathurin-Nicolas de la VilleCrohain le Bous de Villeneuve"
 honorific: Blessed
 summary: "Jesuit priest. One of the Martyrs of September."

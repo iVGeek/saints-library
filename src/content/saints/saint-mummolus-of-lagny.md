@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Mummolus of Lagny"
 honorific: Saint
 summary: "Monk. Friend of Saint Fursey of Peronne. Abbot of Lagny in Meaux, France."

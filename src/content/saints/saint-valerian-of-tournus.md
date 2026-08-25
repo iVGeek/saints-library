@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Valerian of Tournus"
 honorific: Saint
 summary: "Companion of Saint Photinus of Lyon. Arrested for his evangelism work, he escaped prison, went to Tournus in eastern France, resumed his preaching, and was soon arrested again. Martyr."

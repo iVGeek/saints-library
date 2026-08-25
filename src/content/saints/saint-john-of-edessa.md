@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint John of Edessa"
 honorific: Saint
 summary: "Monk at Edessa, Syria. Longtime friend of Saint Simeon Salus."

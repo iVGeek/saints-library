@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Andrew of Antioch"
 honorific: Saint
 summary: "Martyr."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Luis Suárez-Valdés Díaz de Miranda"
 honorific: Blessed
 summary: "Augustinian priest. Martyred in the Spanish Civil War."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Sabinian of Sens"
 honorific: Saint
 summary: "First bishop of Sens, France. Martyr. Some legends list him as a disciple of Saint Peter, but because of the dates, this is clearly impossible."

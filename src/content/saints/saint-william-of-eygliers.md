@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint William of Eygliers"
 honorific: Saint
 summary: "Raised in a poor family, William was born with crippled legs and missing his right hand. Priest. Pastor to the brothers of the monastery of Olux on the Durance River; he later served there as a canon regular. Legend says that he received three visits from an angel; the angel orde"

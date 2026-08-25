@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Joan Bonavida Dellá"
 honorific: Blessed
 summary: "Franciscan Capuchin friar, making his solemn profession on 23 January 1926. Murdered by Marxists in the Spanish Civil War."

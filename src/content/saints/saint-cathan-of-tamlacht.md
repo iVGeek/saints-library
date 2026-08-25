@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Cathan of Tamlacht"
 honorific: Saint
 summary: "One of the Breton Missionaries to Britain."

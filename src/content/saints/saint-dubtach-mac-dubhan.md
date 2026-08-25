@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Dubtach Mac Dubhan"
 honorific: Saint
 summary: "Ninth century priest."

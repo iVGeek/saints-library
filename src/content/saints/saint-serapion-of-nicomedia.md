@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Serapion of Nicomedia"
 honorific: Saint
 summary: "Martyr. No other information has survived."

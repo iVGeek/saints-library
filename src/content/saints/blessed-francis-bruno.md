@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Francis Bruno"
 honorific: Blessed
 summary: "Franciscan. A pious mystic, he received several visions, including one of Paradise. Known as a miracle worker."

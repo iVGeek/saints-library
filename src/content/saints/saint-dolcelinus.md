@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Dolcelinus"
 honorific: Saint
 summary: "Spiritual student of Saint Martin of Tours. Missionary priest and preacher to the pagans in the area of Allones, Gaul (modern France)."

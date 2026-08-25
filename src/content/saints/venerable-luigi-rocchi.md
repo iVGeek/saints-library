@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Venerable Luigi Rocchi"
 honorific: Venerable
 summary: "Layman in the diocese of Macerata-Tolentino-Recanati-Cingoli-Treia, Italy."

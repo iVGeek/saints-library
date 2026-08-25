@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Notburga of Cologne"
 honorific: Saint
 summary: "Benedictine nun at the convent of Saint Mary, Cologne, Germany."

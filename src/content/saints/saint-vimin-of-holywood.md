@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Vimin of Holywood"
 honorific: Saint
 summary: "Sixth century bishop in Scotland. Founded the monastery of Holywood."

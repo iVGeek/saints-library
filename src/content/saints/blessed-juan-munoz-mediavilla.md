@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Juan Muñoz Mediavilla"
 honorific: Blessed
 summary: "Priest of the diocese of Córdoba, Spain, serving in the Cabeza del Buey community. Martyred in the Spanish Civil War."

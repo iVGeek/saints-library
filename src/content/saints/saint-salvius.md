@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Salvius"
 honorific: Saint
 summary: "Bishop near Angouleme, France. Missionary to the Flemish in Valenciennes (in modern France) with Saint Superius. Murdered by a greedy local noble who opposed the work. Martyr."

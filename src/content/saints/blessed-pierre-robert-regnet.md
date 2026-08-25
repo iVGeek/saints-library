@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Pierre-Robert Regnet"
 honorific: Blessed
 summary: "Pierre began studying at the Collège d'Harcourt (modern Lycée Saint-Louis) in Paris, France in 1774, earning doctorates in literature and philosophy on 13 August 1782, and then a law license in 1787. Priest in the archdiocese of Paris, France. Tutor to Baron Thirry of Ville-d'Avr"

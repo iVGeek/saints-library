@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Dorotea Llamanzares Fernández"
 honorific: Blessed
 summary: "Nun of the Congregation of Franciscan Missionaries of the Divine Motherhood. Martyred in the Spanish Civil War."

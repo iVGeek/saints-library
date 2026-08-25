@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Bessa of Africa"
 honorific: Saint
 summary: "An early martyr of the Church. No other information has survived."

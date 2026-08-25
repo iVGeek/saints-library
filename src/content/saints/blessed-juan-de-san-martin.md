@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Juan de San Martín"
 honorific: Blessed
 summary: "Jesuit novice missionary. Martyred by the Huguenot Jacques Sourie while en route to Brazil."

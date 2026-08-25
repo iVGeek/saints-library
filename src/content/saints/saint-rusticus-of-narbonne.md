@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Rusticus of Narbonne"
 honorific: Saint
 summary: "Monk at Lérins Abbey. Bishop of Narbonne, France. Attended the 3rd Ecumenical Council in Ephesus in 431."

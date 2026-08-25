@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Alexander of Apema"
 honorific: Saint
 summary: "Missionary preacher in the area of Apema, Phrygia (part of modern Turkey). Worked with Saint Caius of Apema. Fought the Montanist heresy. Martyred in the persecutions of Emperor Marcus Aurelius."

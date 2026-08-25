@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Lucian"
 honorific: Saint
 summary: "Spent his early life as a demon worshipper and sorcerer. When a Christian woman fended off his spells simply by making the Sign of the Cross, he gave up his idolatrous life and converted to Christianity. He turned his devotion to study of magic to a study of the faith, and like m"

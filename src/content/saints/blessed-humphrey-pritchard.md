@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Humphrey Pritchard"
 honorific: Blessed
 summary: "Layman. Studied at the University of Oxford, England. Worked at the Catherine Wheel Inn, Saint Giles', Oxford for twelve years. Martyred in the persecutions of Queen Elizabeth I."

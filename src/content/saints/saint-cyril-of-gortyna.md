@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Cyril of Gortyna"
 honorific: Saint
 summary: "Elderly bishop of Gortyna, Crete. Tortured and martyred in the persecutions of Decius."

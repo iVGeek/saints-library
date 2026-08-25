@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Theodore"
 honorific: Saint
 summary: "One of 23 Christians martyred in the persecutions of Gallienus."

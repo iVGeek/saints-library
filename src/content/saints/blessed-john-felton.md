@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed John Felton"
 honorific: Blessed
 summary: " When Pope Saint P Wealthy layman in Southwark, England. Father of Blessed Thomas Felton. His wife had been a playmate and maid of honour to Queen Elizabeth, and was the widow of an auditor of the former Queen. John was referred to as “a man of little statue and complexion black”."

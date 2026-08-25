@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Manuel Arenas Castro"
 honorific: Blessed
 summary: "Priest of the diocese of Córdoba, Spain, serving in the Fuente Tójar and Castil de Campos communities. Martyred in the Spanish Civil War."

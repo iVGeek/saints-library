@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Thomas Eustace"
 honorific: Blessed
 summary: "Layman in the archdiocese of Dublin, Ireland. One of the Irish Martyrs."

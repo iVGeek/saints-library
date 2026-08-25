@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Fillan"
 honorific: Saint
 summary: "Son of Feriach and Saint Kentigerna, and related to Saint Comgan. Became a monk in his youth, taking the habit at Saint Fintan Munnu monastery. Accompanied Kentigerna and Comgan to Scotland in the 8th century. Hermit, living most of his life in prayer at Ptiienweem near the Saint"

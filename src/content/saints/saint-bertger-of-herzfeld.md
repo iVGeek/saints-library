@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Bertger of Herzfeld"
 honorific: Saint
 summary: "Priest in Herzfeld, Germany. Spiritual director and confessor of Saint Ida of Herzfeld."

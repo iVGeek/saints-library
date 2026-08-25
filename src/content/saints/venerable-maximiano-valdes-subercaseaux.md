@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Venerable Maximiano Valdés Subercaseaux"
 honorific: Venerable
 summary: "Franciscan Capuchin friar. Priest, ordained on 17 March 1934. Bishop of Osorno, Chile on 20 June 1956. Council Father at Vatican II."

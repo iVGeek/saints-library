@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Philocalus of Thessalonica"
 honorific: Saint
 summary: "Martyred in the persecutions of Maximian Herculeus."

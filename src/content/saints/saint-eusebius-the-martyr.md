@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Eusebius the Martyr"
 honorific: Saint
 summary: "Priest. Martyred in the persecutions of Valerian."

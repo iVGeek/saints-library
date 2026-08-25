@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Maurice Mackenraghty"
 honorific: Blessed
 summary: "Parish priest in the diocese of Limerick, Ireland. Spent two years in prison and then executed for refusing to accept Queen Elizabeth I as head of the Church. One of the Irish Martyrs."

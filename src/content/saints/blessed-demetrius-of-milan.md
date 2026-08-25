@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Demetrius of Milan"
 honorific: Blessed
 summary: "Soldier who fought in Hungary and in Albania. Returning to Italy, Demetrius had a conversion experience, and felt drawn to his faith and religious life. He became a Franciscan friar at the convent of Monteluco near Spoleto, Italy, then lived for over 50 years in a nearby cave as"

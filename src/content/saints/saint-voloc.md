@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Voloc"
 honorific: Saint
 summary: "Bishop. Missionary to Scotland."

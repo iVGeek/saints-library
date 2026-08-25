@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed João Fernandes"
 honorific: Blessed
 summary: "Jesuit temporal-coadjutor missionary. Martyred by the Huguenot Jacques Sourie while en route to Brazil."

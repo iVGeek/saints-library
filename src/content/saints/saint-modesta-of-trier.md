@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Modesta of Trier"
 honorific: Saint
 summary: "Niece of Saint Modoald of Trier. Benedictine. First abbess of the convent of Oehren, Trier, Germany, appointed by Saint Modoald."

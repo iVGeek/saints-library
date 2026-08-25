@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Sacer"
 honorific: Saint
 summary: "Descendant of Roderic, king of Ireland. Founded the monastery of Saggard, Dublin, Ireland, and served as its first abbot."

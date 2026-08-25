@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Flamidianus"
 honorific: Saint
 summary: "Martyr."

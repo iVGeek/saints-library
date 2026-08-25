@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Abruncolo of Langres"
 honorific: Saint
 summary: "Bishop of Langres, France in the latter 5th century, he operated from the city of Dijon, France. Exiled from the diocese by the Arian Burgundian king Gundobald, he became bishop of Clermont-Ferrand, France as the previous bishop, a friend and frequent correspondent of Abruncolo,"

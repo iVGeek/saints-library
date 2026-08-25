@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Rhian"
 honorific: Saint
 summary: "Monk. Abbot. Llanhrian, Wales is named for him, and an abandoned church built in 1493 is dedicated to him."

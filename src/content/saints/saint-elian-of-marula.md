@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Elian of Marula"
 honorific: Saint
 summary: "Martyr."

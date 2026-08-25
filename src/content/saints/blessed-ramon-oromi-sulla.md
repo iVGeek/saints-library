@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Ramon Oromí Sullà"
 honorific: Blessed
 summary: "Priest. Member of the Sons of the Holy Family; worked as secretary for his Institute. Publisher of their magazine. Wrote the first biography of Saint Josep Manyanet-y-Vives. Catechist and spiritual director for young people, working closely with those with a call to religious lif"

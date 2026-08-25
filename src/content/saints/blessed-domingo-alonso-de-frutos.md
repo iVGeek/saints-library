@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Domingo Alonso De Frutos"
 honorific: Blessed
 summary: "Franciscan Friars Minor priest. Martyred in the Spanish Civil War."

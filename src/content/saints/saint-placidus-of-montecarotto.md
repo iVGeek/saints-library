@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Placidus of Montecarotto"
 honorific: Saint
 summary: "Priest martyred while celebrating Mass for the crime of having given Christian burial to other Christian martyrs."

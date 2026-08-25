@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Francisco Escura Foix"
 honorific: Blessed
 summary: "Priest of the diocese of Córdoba, Spain. Martyred in the Spanish Civil War."

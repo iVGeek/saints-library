@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Benedict Cerretani"
 honorific: Blessed
 summary: "Vallombrosan abbot."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Roland of Chézery"
 honorific: Blessed
 summary: "Benedictine monk at the Abbey of Chézery, diocese of Belley, France. Chosen abbot the house in 1170. Known for his piety, humility and his concern for the spiritual well-bring of his brother monks."

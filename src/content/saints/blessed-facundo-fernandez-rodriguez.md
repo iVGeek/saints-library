@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Facundo Fernández Rodríguez"
 honorific: Blessed
 summary: "Priest of the archdiocese of Granada, Spain. Martyred in the Spanish Civil War."

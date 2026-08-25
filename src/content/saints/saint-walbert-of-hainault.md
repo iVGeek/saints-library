@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Walbert of Hainault"
 honorific: Saint
 title: "Priest"

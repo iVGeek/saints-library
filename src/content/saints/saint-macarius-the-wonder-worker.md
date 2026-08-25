@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Macarius the Wonder Worker"
 honorific: Saint
 summary: "Monk at the monastery at Pelekete, taking the name Macarius. Abbot. Miracle worker. Ordained by Patriarch Tarasius of Constantinople. Imprisoned and tortured for his opposition to Emperor Leo's orders of iconoclasm. Released by Emperor Michael the Stammerer, then exiled for his c"

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Secundinus of Sinuessa"
 honorific: Saint
 summary: "Bishop in Sinuessa, Campania, Italy, a town since destroyed by earthquake. Martyr."

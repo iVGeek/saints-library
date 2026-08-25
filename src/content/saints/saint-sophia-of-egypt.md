@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Sophia of Egypt"
 honorific: Saint
 summary: "Martyr."

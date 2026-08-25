@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Gerbald of Saint Bertin"
 honorific: Saint
 summary: "Monk of Saint Bertin Abbey. Murdered by invading Danes. Martyr."

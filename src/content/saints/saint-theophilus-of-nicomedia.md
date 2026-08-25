@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Theophilus of Nicomedia"
 honorific: Saint
 summary: "Deacon in service to Saint Anthimos of Nicomedia. During the persecutions of Diocletian, he was captured while taking letters to Christian prisoners, tortured for the hiding place of other Christians. Martyr."

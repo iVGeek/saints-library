@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Francisco Rodríguez Carmona"
 honorific: Blessed
 summary: "Priest of the diocese of Almería, Spain. Martyred in the Spanish Civil War."

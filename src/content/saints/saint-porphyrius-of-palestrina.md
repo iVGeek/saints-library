@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Porphyrius of Palestrina"
 honorific: Saint
 summary: "Martyr."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Gardan of Etting"
 honorific: Blessed
 title: "Hermit"

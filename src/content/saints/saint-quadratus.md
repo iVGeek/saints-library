@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Quadratus"
 honorific: Saint
 summary: "Martyr. Saint Augustine of Hippo wrote about him."

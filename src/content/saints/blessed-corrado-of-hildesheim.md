@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Corrado of Hildesheim"
 honorific: Blessed
 summary: "Franciscan friar in 13th century Prussia remembered for his virtuous life and as a miracle worker."

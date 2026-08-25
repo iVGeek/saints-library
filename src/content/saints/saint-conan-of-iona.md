@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Conan of Iona"
 honorific: Saint
 summary: "Monk at Iona. Tutor to the sons of King Eugene IV of Scotland. Spiritual teacher of Saint Fiacre. Missionary to the Isle of Man. Bishop of the Southern Hebrides and the Isle of Man."

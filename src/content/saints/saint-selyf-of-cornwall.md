@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Selyf of Cornwall"
 honorific: Saint
 summary: "Sixth century hermit in Saint Levan, Cornwall, England."

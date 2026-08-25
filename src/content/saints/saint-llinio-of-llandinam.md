@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Llinio of Llandinam"
 honorific: Saint
 summary: "Monk. Founded the abbey at Llandinam, Powys, Wales, and served as its first abbot."

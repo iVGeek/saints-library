@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Librén"
 honorific: Saint
 summary: "No certain information about this man has survived, but he is listed in very early martyrologies."

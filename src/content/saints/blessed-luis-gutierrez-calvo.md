@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Luis Gutiérrez Calvo"
 honorific: Blessed
 summary: "Augustinian brother. Martyred in the Spanish Civil War."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint John Xenos"
 honorific: Saint
 summary: "Introduced the monastic life to the island for Crete."

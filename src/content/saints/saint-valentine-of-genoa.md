@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Valentine of Genoa"
 honorific: Saint
 title: "Bishop"

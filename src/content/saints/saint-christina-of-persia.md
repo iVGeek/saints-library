@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Christina of Persia"
 honorific: Saint
 summary: "Martyred in the persecutions of Khosrau I of Persia."

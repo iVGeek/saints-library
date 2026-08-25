@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Antonius of Saint Francis"
 honorific: Blessed
 summary: "Member of the Alcantarine Franciscan Friars Minor. Martyr."

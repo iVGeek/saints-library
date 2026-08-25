@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Alvera of Limeuil"
 honorific: Saint
 summary: "Fourth century Christian. No other information has survived."

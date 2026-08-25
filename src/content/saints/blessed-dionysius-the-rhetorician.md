@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Dionysius the Rhetorician"
 honorific: Blessed
 summary: "Monk at the Studion monastery in Constantinople. Spiritual student of Saint Metrophanes."

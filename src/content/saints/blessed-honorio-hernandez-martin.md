@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Honorio Hernández Martín"
 honorific: Blessed
 summary: "Cleric in the Salesians of Don Bosco. Martyred in the Spanish Civil War."

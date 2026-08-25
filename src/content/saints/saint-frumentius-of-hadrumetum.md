@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Frumentius of Hadrumetum"
 honorific: Saint
 summary: "Wealthy merchant. Martyred in the persecutions of the Arian Vandal King Hunneric."

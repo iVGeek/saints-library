@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Tesifonte of Bergium"
 honorific: Saint
 summary: "Early missionary and bishop of Bergium (modern Berja, Spain)."

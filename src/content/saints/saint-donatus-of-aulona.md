@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Donatus of Aulona"
 honorific: Saint
 summary: "Martyr."

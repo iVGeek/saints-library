@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed José Ignacio Gordón de la Serna"
 honorific: Blessed
 summary: "Member of the Claretians, professed on 20 May 1923. Ordained a priest on 22 September 1929. Martyred in the Spanish Civil War."

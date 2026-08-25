@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Numerius of Nicomedia"
 honorific: Saint
 summary: "Martyred in the persecutions of the Arian Emperor Constantius."

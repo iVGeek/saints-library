@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Vyevain of York"
 honorific: Blessed
 summary: "Archbishop of York, England in the latter 13th century."

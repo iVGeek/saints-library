@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Sacerdos of Limoges"
 honorific: Saint
 summary: "Monk. Founded Calabre Abbey and served as its first abbot. Bishop of Limoges, France."

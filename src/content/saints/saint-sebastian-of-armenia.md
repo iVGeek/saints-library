@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Sebastian of Armenia"
 honorific: Saint
 summary: "Armenian monk. Martyr."

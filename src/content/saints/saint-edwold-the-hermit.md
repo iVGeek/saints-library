@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Edwold the Hermit"
 honorific: Saint
 summary: "May have been the brother of Saint Edmund the Martyr. Ninth-century hermit at Cerne, Doresetshire, England, having moved there from East Anglia to avoid Danish raiders. Legend says that he lived on nothing but bread and water, and was known as a miracle worker."

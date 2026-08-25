@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Leus"
 honorific: Saint
 title: "Priest"

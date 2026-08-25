@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Athanasia of Canope"
 honorific: Saint
 summary: "Married Christian lay woman and mother. Tortured and martyred with her three daughters."

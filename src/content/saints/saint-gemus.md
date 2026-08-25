@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Gemus"
 honorific: Saint
 summary: "Monk, probably at Moyenmoutier in the Alsace (part of modern France)."

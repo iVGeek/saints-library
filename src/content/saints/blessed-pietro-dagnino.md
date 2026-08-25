@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Pietro Dagnino"
 honorific: Blessed
 summary: "Pietro became a Camaldolese monk in 1012. A spiritual student of Saint Romuald who chose him to be the first leader of the hermitage in Camaldoli, Italy. Known for his personal piety and his respect for the Rule of the Order."

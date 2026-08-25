@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Elgiva of Shaftesbury"
 honorific: Saint
 summary: "Queen; wife of King Edmund I. Mother of King Edwy of Saxony, and Saint Edgar the Peaceful. Widowed young. Known all her life for her personal piety and support of the Church, endowing several churches and monasteries Later in life she retired to become a Benedictine nun and then"

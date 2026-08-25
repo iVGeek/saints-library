@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Urpasian of Nicomedia"
 honorific: Saint
 summary: "Christian member of the imperial household of Roman emperor Diocletian in Nicomedia (in modern Turkey). Martyred for his faith."

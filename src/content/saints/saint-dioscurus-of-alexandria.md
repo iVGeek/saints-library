@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Dioscurus of Alexandria"
 honorific: Saint
 summary: "A young boy arrested, beaten and scourged in the persecutions of Decius, but released while all the adults were executed."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Quieta of Dijon"
 honorific: Saint
 summary: "Wife of Saint Hilary, with whom she was martyred."

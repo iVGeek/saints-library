@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Hippolytus of Saint-Claude"
 honorific: Saint
 summary: "Benedictine monk. Abbot and bishop of Saint-Claude, France."

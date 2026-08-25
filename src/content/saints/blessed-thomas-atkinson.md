@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Thomas Atkinson"
 honorific: Blessed
 summary: "Studied and was ordained at Rheims, France. Returned to England in 1588 to minister to covert Catholics. He travelled by night, hid by day, and served his flock for decades. Betrayed to the authorities, he was arrested along with the family who was hiding him. Martyred for the cr"

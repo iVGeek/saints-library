@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Valentine of Segovia"
 honorific: Saint
 summary: "Brother of Saint Fructus of Segovia and Saint Engratia of Segovia. Martyred by invading Moors."

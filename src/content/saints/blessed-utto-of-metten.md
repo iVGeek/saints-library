@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Utto of Metten"
 honorific: Blessed
 summary: "Nephew of Blessed Gamelbert of Michaelsbuch. Helped found the monastery of Metten in Bavaria, Germany, and served as its first abbot."

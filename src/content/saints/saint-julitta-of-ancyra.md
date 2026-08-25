@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Julitta of Ancyra"
 honorific: Saint
 summary: "Nun martyred in the persecutions of Diocletian."

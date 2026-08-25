@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Servilian"
 honorific: Saint
 summary: "Converted by the prayers of Saint Flavia Domitilla. Martyred in the persecutions of Trajan."

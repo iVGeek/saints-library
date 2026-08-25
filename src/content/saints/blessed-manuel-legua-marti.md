@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Manuel Legua Martí"
 honorific: Blessed
 summary: "Member of the Capuchin Tertiary Fathers and Brothers of Our Lady of Sorrows. Priest. Martyred in the Spanish Civil War."

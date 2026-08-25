@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Elbod of Bangor"
 honorific: Saint
 summary: "Young monk at Holyhead monastery in Anglesey, Wales. He worked to align the calendar and practices of Welsh Christians with Rome as outlined in the synod of Whitby; documents from 768 record his direct involvement. Bishop of Bangor, Gwynedd, Wales. One of his spiritual students d"

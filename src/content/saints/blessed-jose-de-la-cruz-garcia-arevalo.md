@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed José de La Cruz García-Arévalo"
 honorific: Blessed
 summary: "Priest of the diocese of Córdoba, Spain, serving in the Dos Torres community. Martyred in the Spanish Civil War."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Jesús Villaverde Andrés"
 honorific: Blessed
 summary: "Dominican priest. Martyred in the Spanish Civil War."

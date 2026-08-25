@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed José Tapia Díaz de Villachica"
 honorific: Blessed
 summary: "Young layman in the diocese of Almería, Spain, he was the son of merchants and early began working as a clerk to learn the family trade. Member of Catholic Action. Martyred in the Spanish Civil War for refusing to renounce his faith."

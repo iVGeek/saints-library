@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Paulus Yun Ji-chung"
 honorific: Blessed
 summary: "Layman martyr in the apostolic vicariate of Korea."

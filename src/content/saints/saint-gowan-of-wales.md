@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Gowan of Wales"
 honorific: Saint
 summary: "Queen, the wife of King Tewdrig of Glamorgan, an area of modern Wales. The parish of Llangoven, Monmouthshire, and a chapel in Pembrokeshire are named for her."

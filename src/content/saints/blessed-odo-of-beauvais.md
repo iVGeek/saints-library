@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Odo of Beauvais"
 honorific: Blessed
 summary: "A soldier when young, Odo initially planned on a military career. He gave up the military life to become a Benedictine monk at Corbie, France under Saint Pascasius Radbert. Tutor to the sons of Charles Martel. Abbot in 851. Bishop of Beauvais in 861. Known as a reformer in his di"

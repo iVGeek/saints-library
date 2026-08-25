@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Dioscorus"
 honorific: Saint
 summary: "Companion of Saint Themistocles of Lycia. Martyred in the persecutions of Valerian."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Josep Clavería Mas"
 honorific: Blessed
 summary: "Member of the Claretians, professed on 3 November 1901. Martyred in the Spanish Civil War."

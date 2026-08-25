@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Cyrinus of Salerno"
 honorific: Saint
 summary: "Bishop. Martyr. No other information has surived."

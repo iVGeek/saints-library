@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Ermengyth of Minster-in-Thanet"
 honorific: Saint
 summary: "Sister of Saint Ermenburgh. Nun at Minster-in-Thanet, Kent, England."

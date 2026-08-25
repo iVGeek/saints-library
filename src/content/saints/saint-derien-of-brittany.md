@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Derien of Brittany"
 honorific: Saint
 summary: " Legend says that on his return from the Holy Lands, travelling wit Seventh century knight from the British Isles. Pilgrim to the Holy Lands. Several churches in Brittany, France are named in his honour as he is considered one of the British who brought Christianity to the region."

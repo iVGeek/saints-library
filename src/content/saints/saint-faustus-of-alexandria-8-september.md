@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Faustus of Alexandria"
 honorific: Saint
 summary: "Priest. Martyred in the Diocletian."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Gaudentius of Ossero"
 honorific: Saint
 summary: "Bishop of Ossero, Istria (in modern Croatia) in 1030. Falsely accused by some of the nobility who objected to his spiritual reforms, Guadentius travelled to Rome, Italy in 1032 to defend his name. On the way home, he fell ill in Ancona, and stayed there to recover. He then resign"

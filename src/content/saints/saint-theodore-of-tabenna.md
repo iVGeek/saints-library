@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Theodore of Tabenna"
 honorific: Saint
 summary: "Monk at age 14. Spiritual student of Saint Pachomius at the monastery in Tabenna, Egypt; Pachomius delegated Theodore to bury him in secret. Chosen abbot of Tabenna in 350. Founded several monasteries in Egypt. Miracle worker."

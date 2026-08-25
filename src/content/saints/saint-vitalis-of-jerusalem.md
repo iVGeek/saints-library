@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Vitalis of Jerusalem"
 honorific: Saint
 summary: "Martyr. No other information has survived."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Romaric of Remiremont"
 honorific: Saint
 summary: "Merovingian noble, Lord of Austrasia, and part of the court of King Clotaire II. Married layman. Converted by Saint Amatus. Monk at Luxeuil Abbey in Burgundy (in modern France). Founded the convent and monastery of Habendum at Remiremont (Romarici mons) and served as prior with A"

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Enrique Vidaurreta Palma"
 honorific: Blessed
 summary: "Priest in the diocese of Málaga, Spain. Martyred in the Spanish Civil War."

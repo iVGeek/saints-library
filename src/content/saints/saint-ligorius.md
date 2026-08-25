@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Ligorius"
 honorific: Saint
 summary: "Desert-living Christian murdered by a pagan mob. Martyr."

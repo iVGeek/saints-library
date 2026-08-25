@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Crescentiana"
 honorific: Saint
 summary: "Martyr."

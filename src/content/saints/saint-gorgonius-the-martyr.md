@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Gorgonius the Martyr"
 honorific: Saint
 summary: "Third century martyr."

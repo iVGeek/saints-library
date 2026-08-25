@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Venerable Sélim Abu Mrad"
 honorific: Venerable
 summary: "Basilian Salvatorians of the Melkites priest."

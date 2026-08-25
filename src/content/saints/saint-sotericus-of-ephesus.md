@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Sotericus of Ephesus"
 honorific: Saint
 summary: "Martyr."

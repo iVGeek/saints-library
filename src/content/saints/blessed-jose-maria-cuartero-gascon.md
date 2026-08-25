@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed José María Cuartero Gascón"
 honorific: Blessed
 summary: "Passionist cleric martyred in the Spanish Civil War."

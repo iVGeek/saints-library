@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Guy of Baume"
 honorific: Saint
 summary: "Benedictine monk at Baume with Saint Berno of Cluny. Abbot at Baume. Resigned the position c.940 to retire as a hermit near Fayen-Bresse."

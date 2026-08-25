@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Bernard of Gallinaro"
 honorific: Saint
 summary: "English pilgrim."

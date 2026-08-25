@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Arnulf of Leuven"
 honorific: Blessed
 summary: "Cistercian monk. Abbot at Villers-la-Ville, Brabant (in modern Belgium) for 10 years. He expanded the abbey, made it a center of piety and mysticism, and compiled the first records of the abbey, covering the years 1146 to 1240. Noted poet. He opposed the scholasticism and formal"

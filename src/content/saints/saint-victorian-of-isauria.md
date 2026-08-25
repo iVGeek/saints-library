@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Victorian of Isauria"
 honorific: Saint
 summary: "Martyr. No other information has survived."

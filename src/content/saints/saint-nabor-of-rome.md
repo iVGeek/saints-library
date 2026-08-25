@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Nabor of Rome"
 honorific: Saint
 summary: "Born to the Imperial Roman nobility. Soldier, and possibly an officer. Martyred in the persecutions of Diocletian."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Triduna"
 honorific: Saint
 summary: "Eighth century consecrated virgin who worked with Saint Regulus in Scotland. Legend says that she was pursued by a young nobleman who raved about the beauty of her eyes; she went into hiding, plucked out her eyes, and sent them back to the noble, impaled on a pin to show how much"

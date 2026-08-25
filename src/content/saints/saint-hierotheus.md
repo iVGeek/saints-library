@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Hierotheus"
 honorific: Saint
 summary: "Friend and teacher of Saint Dionysius the Aeropagite."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Zota of Cyrene"
 honorific: Saint
 summary: "Arrested by judge Dadio during the persecutions of emperor Maximian, Zota was tortured, ordered to sacrifice to the gods, refused, was tortured, ordered to sacrifice, etc. Martyr."

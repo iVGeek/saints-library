@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Lewina of Seaford"
 honorific: Saint
 summary: "Fifth-century nun, martyr by pagan Saxon invaders, and venerated in Seaford, Sussex, England."

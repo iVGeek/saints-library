@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Iusta Amagasu"
 honorific: Blessed
 summary: "Child in the diocese of Niigata, Japan, the daughter of Blessed Dominica Amagasu and Blessed Michaël Amagasu Tayemon. Martyr."

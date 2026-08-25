@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Rafaél Calatrava Ros"
 honorific: Blessed
 summary: "Married layman of the diocese of Almería, Spain. Martyred in the Spanish Civil War."

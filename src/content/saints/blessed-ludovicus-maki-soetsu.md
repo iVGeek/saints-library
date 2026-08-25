@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Ludovicus Maki Soetsu"
 honorific: Blessed
 summary: "Married layman in the archdiocese of Nagasaki, Japan. Member of the Secular Franciscans. Adoptive father of Blessed John Maki. Allowed Blessed Thomas Tsughi to celebrate Mass in his home, for which he was arrested and executed. Martyr."

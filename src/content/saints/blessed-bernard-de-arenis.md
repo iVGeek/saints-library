@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Bernard de Arenis"
 honorific: Blessed
 summary: "Mercedarian friar. Sent to north Africa, he was abused throughout his travels for his faith, but managed to free 222 Christians who had been imprisoned and enslaved by Muslims."

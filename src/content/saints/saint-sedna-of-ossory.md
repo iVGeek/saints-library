@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Sedna of Ossory"
 honorific: Saint
 summary: "Benedictine monk. Abbot of Seir-Kieran abbey. Bishop of Ossory, Ireland. Friend of Saint Luanus."

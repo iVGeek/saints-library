@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Secundinus of Pannonia"
 honorific: Saint
 summary: "Fourth century martyr. No other information has survived."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Leo Kyusuke"
 honorific: Blessed
 summary: "Layman in the Kyoto, Japan. Married of Blessed Martha Kyusuke. One of the Martyrs of Kyoto."

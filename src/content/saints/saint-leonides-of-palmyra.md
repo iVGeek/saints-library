@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Leonides of Palmyra"
 honorific: Saint
 summary: "Sister of Saint Libya of Palmyra. Martyred in the persecutions of Diocletian."

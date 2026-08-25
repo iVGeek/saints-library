@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Leudomer"
 honorific: Saint
 summary: "Bishop of Chartres, France."

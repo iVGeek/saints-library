@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Cruciatus of Ravenna"
 honorific: Saint
 summary: "Martyr."

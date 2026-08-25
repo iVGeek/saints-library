@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Paternus of Auch"
 honorific: Saint
 summary: "Second-century bishop of Auch, France."

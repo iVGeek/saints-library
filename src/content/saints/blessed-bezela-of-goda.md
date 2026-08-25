@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Bezela of Göda"
 honorific: Blessed
 summary: "Mother of Saint Benno of Meissen."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Cumine the White"
 honorific: Saint
 summary: "Brother of Saint Comman of Iona. Monk. Abbot of Iona, Scotland. Wrote a biography of Saint Columba of Iona."

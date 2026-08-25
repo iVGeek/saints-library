@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Ares of Ashkelon"
 honorific: Saint
 deathYear: 308

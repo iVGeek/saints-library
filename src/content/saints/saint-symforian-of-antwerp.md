@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Symforian of Antwerp"
 honorific: Saint
 summary: "Martyr."

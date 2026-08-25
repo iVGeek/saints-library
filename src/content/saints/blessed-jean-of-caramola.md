@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Jean of Caramola"
 honorific: Blessed
 title: "Hermit"

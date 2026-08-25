@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Croniacke"
 honorific: Saint
 summary: "Benedictine monk in northern Scotland."

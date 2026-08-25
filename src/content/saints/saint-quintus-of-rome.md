@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Quintus of Rome"
 honorific: Saint
 summary: "Two Christians with the same name who were martyred together."

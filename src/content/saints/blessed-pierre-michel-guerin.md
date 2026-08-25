@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Pierre-Michel Guérin"
 honorific: Blessed
 summary: "Sulpician priest. One of the Martyrs of September."

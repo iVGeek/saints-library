@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Julio Alameda Camarero"
 honorific: Blessed
 summary: "Member of the Carmelite Tertiaries of Education. Martyred in the Spanish Civil War."

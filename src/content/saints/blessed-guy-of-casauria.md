@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Guy of Casauria"
 honorific: Blessed
 summary: "Benedictine monk at Farfa. Abbot of Casauria, Italy."

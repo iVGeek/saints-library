@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Urban of Teano"
 honorific: Saint
 summary: "Bishop of Teano, Campania, Italy."

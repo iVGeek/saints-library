@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Egilhard of Cornelimünster"
 honorific: Saint
 summary: "Abbot of Cornelimünster Abbey near Aachen, Germany. Killed by Viking raiders."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Christopher of Pavia"
 honorific: Blessed
 summary: "Franciscan Conventual Friar Minor at the Borgo San Sepolcro convent in Tuscany, Italy. He is listed in the Franciscan martryology, and buried in the convent, both obvious signs of piety, but no details about his life have survived."

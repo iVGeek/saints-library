@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Linus Rihyoe"
 honorific: Blessed
 summary: "Layman in the diocese of Kyoto, Japan. Married to Blessed Maria of Kyoto. One of the Martyrs of Kyoto."

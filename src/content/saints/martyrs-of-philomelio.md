@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Martyrs of Philomelio"
 honorific: Saint
 summary: "31 soldiers martyred for their faith in the persecutions of prefect Magno, date unknown. The only name that has come down to us is Alexander."

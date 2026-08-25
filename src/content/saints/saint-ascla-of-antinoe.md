@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Ascla of Antinoe"
 honorific: Saint
 summary: "Tortured and martyred by governor Arrian of Thebaid, Egypt in the persecutions of Diocletian for publicly proclaiming his faith."

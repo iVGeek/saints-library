@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Philip of Piacenza"
 honorific: Blessed
 summary: "Priest. Augustinian hermit at Piacenza, Italy. Wore iron armor at all times as a way of reducing his concern for things of the flesh. Known for healing through prayer."

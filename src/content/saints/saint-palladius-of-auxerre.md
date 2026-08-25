@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Palladius of Auxerre"
 honorific: Saint
 title: "Bishop"

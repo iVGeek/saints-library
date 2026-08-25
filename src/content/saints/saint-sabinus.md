@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Sabinus"
 honorific: Saint
 summary: "During the persecutions of Decius, Sabinus and fifteen fellow parishioners, hearing they were about to be arrested, spent the night of 22-23 February 250 in prayer; they were arrested in the morning at the end of Mass. They had put on their own chains and shackles to make it obvi"

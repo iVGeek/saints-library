@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Juan Castro Luque"
 honorific: Blessed
 summary: "Priest of the diocese of Córdoba, Spain, serving in the Castro del Río community. Martyred in the Spanish Civil War."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Paulinus of Capua"
 honorific: Saint
 summary: "Pilgrim from the British Isles who emigrated to Capua, Italy. He was such an obvious holy man and teacher that the locals demanded that he become their bishop. He served for eight years, fled the area during the Saracen invasion, served as best he could from Sicopli, Italy, and d"

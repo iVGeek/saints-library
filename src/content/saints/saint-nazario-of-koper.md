@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Nazario of Koper"
 honorific: Saint
 title: "Bishop"

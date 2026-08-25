@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Urbicius of Clermont"
 honorific: Saint
 summary: "Born a member of an imperial Roman senatorial family, Urbicius was drawn to the Church and lived a pious married life. His reputation for learning and piety led to him being chosen the second bishop of the diocese of Clermont in the Auvergne region of modern France in 288; his wi"

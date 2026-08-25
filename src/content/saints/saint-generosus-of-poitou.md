@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Generosus of Poitou"
 honorific: Saint
 summary: "Monk. Abbot of Saint-Jouin-de-Marnes, Poitou, France."

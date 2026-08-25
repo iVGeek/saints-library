@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Juliana of Stobylum"
 honorific: Saint
 summary: "Martyr."

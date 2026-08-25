@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Dorotheus of Alexandria"
 honorific: Saint
 summary: "Confessor of the faith, abused by Arian heretics for remaining loyal to orthodox Christianity."

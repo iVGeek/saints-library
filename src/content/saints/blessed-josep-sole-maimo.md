@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Josep Solé Maimó"
 honorific: Blessed
 summary: "Member of the Claretians, professed on 6 January 1917. Martyred in the Spanish Civil War."

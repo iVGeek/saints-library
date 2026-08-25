@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Franciscus Nihachi"
 honorific: Blessed
 summary: "Son of Blessed Ludovicus Nihachi; brother of Blessed Dominicus Nihachi. Martyred at the age of five (!) because of his family's faith."

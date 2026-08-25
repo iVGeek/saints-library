@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Robustian of Milan"
 honorific: Saint
 summary: "Early martyr. No other information has survived."

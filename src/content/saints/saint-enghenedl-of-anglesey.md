@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Enghenedl of Anglesey"
 honorific: Saint
 summary: "Lived in the 7th-century. A church in Anglesey, Wales was dedicated to him. No other information has survived."

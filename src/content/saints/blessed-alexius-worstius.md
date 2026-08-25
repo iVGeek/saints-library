@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Alexius Worstius"
 honorific: Blessed
 summary: "17th century Premonstratensian friar. Canon of the Norbertine monastery in Hradisko, Olomouc, Moravia. Abbot of Hradisko of in 1671, a position in which he served his remaining eight years. A humble and pious man, he treated his Premonstratensian brothers more as sons, endlessly"

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Cassán of Cluain-Ratha"
 honorific: Saint
 summary: "No information about this subject has survived."

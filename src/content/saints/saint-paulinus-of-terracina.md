@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Paulinus of Terracina"
 honorific: Saint
 summary: "Sixth century Benedictine monk. Dispatched by Saint Benedict of Nursia to found a monastery in Terracina, Italy."

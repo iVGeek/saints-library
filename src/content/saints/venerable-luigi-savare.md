@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Venerable Luigi Savaré"
 honorific: Venerable
 summary: "Priest in the diocese of Lodi, Italy."

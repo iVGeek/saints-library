@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Brian O'Carolan"
 honorific: Blessed
 summary: "Priest in the diocese of Meath, Ireland. One of the Irish Martyrs."

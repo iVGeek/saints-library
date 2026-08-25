@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Waningus of Fécamp"
 honorific: Saint
 summary: "Frankish nobleman, living a worldly and dissolute life in the court of King Clotaire III of Neustria. Father of Saint Desiderius of Fontenelle. One night he had a dream in which Saint Eulalia of Barcelona, to whom he had a devotion, told him of the difficulties the rich had enter"

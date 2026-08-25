@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Nicholas Spira"
 honorific: Blessed
 summary: "Son of a lawyer, Nicholas received a good education, and became known as a good administrator. Premonstratensian monk at the monastery of Grimbergen, Brabant, Flanders (in modern Belgium); he served as sub-prior, then prior, and then was chosen abbot in 1543. Noted for his devoti"

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Ethelburgh of Kent"
 honorific: Saint
 summary: "Born a princess, the daughter of King Saint Ethelbert of Kent (part of modern England). Married to King Edwin of Northumbria (also part of modern England). Friend of Saint Paulinus of York. Widow. After Edwin's death, Ethelburgh returned to Kent, founded the convent in Lyminge, e"

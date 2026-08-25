@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Constantino Miguel Moncalvillo"
 honorific: Blessed
 summary: "Member of the Claretians. Martyred in the Spanish Civil War."

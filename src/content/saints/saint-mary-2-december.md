@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Mary"
 honorific: Saint
 summary: "Martyred in the persecutions of Valerian."

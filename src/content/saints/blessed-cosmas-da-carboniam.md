@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Cosmas da Carboniam"
 honorific: Blessed
 summary: "Priest in the Armenian Church in 1683. Convert to Catholicism in 1696. Pastor of Saint George's in Sulu Monastir from 1697 to 1707 during a period of bitter persecution of Uniats in the Ottoman Empire. Father Carboniam was arrested in April, 1707, as “rebellious to the laws of th"

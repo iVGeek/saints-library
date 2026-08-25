@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Leonard of Avranches"
 honorific: Saint
 title: "Bishop"

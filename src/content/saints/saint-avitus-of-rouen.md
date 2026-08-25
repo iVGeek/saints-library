@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Avitus of Rouen"
 honorific: Saint
 title: "Bishop"

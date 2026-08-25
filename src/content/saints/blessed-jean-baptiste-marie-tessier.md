@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Jean-Baptiste-Marie Tessier"
 honorific: Blessed
 summary: "Sulpician priest. One of the Martyrs of September."

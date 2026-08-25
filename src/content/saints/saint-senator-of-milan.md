@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Senator of Milan"
 honorific: Saint
 summary: "Priest. Papal legate to the Byzantine court of Theodosius II for Pope Saint Leo the Great. Attended the Council of Chalcedon. Archbishop of Milan, Italy in 472."

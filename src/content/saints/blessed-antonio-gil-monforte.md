@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Antonio Gil-Monforte"
 honorific: Blessed
 summary: "Member of the De La Salle Brothers. Martyred in the Spanish Civil War."

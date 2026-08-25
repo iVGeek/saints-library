@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Venerable Sebastián Elorza Arizmendi"
 honorific: Venerable
 summary: "Augustinian friar."

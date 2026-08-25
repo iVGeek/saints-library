@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Julian of Africa"
 honorific: Saint
 summary: "Priest of an African church. During a visit to Italy, he witnessed a pagan celebration of Apollo; Julian objected to the human sacrifice it involved. He was imprisoned for two years, and then martyred with Saint Caesarius."

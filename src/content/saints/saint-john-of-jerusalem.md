@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint John of Jerusalem"
 honorific: Saint
 title: "Bishop"

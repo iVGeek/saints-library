@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Erluph of Werden"
 honorific: Saint
 summary: "Missionary to Germany. Bishop of Werden, Germany. Martyred by pagans."

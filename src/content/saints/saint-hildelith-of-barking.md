@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Hildelith of Barking"
 honorific: Saint
 summary: "Anglo-Saxon princess; she was well educated, very cultured, and could read Latin. Spent most of her youth in France. Nun at Chelles and Faremoutiers-en-Brie, France. Recalled to England by Saint Erconwald to train his sister, Saint Ethelburga of Barking. Friend of Saint Cuthburgh"

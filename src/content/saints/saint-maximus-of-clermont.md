@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Maximus of Clermont"
 honorific: Saint
 summary: "Martyred by Teutonic barbarians led by Chrocas."

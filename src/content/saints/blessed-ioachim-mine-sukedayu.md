@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Ioachim Mine Sukedayu"
 honorific: Blessed
 summary: "Layman of the archdiocese of Nagasaki, Japan. Married to Blessed Maria Mine. Martyr."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Benigno Prieto Del Pozo"
 honorific: Blessed
 summary: "Franciscan Friars Minor priest. Martyred in the Spanish Civil War."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Lycarion of Egypt"
 honorific: Saint
 summary: "Tortured extensively and executed for his faith. Martyr."

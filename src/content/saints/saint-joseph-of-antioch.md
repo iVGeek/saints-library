@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Joseph of Antioch"
 honorific: Saint
 summary: "Deacon. Hymnist. Martyred with seven others whose names have not come down to us during the iconoclast persecutions of emperor Theophilus."

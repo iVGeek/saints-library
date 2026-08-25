@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Julià Gibrat Marcé"
 honorific: Blessed
 summary: "Franciscan Capuchin friar, professed on 8 December 1899. Ordained a priest on 28 March 1903. Murdered by Marxists in the Spanish Civil War."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Peter Cho Hwa-so"
 honorific: Venerable
 summary: "Son of Andrew Cho, who was killed for his faith in 1839. Peter moved to Sinchang, Chungcheong where he assisted the work of Father Thomas Choe Yang-eop. He then moved to Jeonju to become a farmer in a remote mountain area. Married to Magdalene Han; they had one son, Saint Joseph"

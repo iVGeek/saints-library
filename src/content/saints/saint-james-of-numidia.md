@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint James of Numidia"
 honorific: Saint
 summary: "Deacon in the same church as Saint Marianus, and imprisoned with him at Cirta (modern Constantine, Algeria) in the persecutions of Valerian. Tortured over several days to force him from his faith. During this torment he had a dream that showed him final triumph. Martyred with hun"

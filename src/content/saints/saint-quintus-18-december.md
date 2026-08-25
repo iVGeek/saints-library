@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Quintus"
 honorific: Saint
 summary: "Martyred in the persecutions of Decius. No other information has survived."

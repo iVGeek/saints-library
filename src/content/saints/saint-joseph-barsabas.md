@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Joseph Barsabas"
 honorific: Saint
 summary: "A disciple of Jesus. Mentioned in Acts as the other candidate for the 12th Apostle's position, the one vacated by Judas Iscariot. The lot fell to Saint Matthias."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Maximus of Persia"
 honorific: Saint
 summary: "Born to the Persian nobility. Martyred in the persecutions of Decius."

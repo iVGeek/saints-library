@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Damian of Campania"
 honorific: Blessed
 summary: "Franciscan Friar Minor."

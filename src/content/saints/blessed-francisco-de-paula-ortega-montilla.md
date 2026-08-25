@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Francisco de Paula Ortega Montilla"
 honorific: Blessed
 summary: "Married layman in the diocese of Córdoba, Spain. Martyred in the Spanish Civil War."

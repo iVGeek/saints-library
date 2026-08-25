@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Boniface I"
 honorific: Blessed
 title: "Bishop"

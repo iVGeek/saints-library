@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Dyfnan of Anglesey"
 honorific: Saint
 summary: "Founded a church in Anglesey, Wales."

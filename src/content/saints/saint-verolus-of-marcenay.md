@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Verolus of Marcenay"
 honorific: Saint
 summary: " One day during Mass, Father Verolus fell into a trance and stood motionless at Born to the aristocracy; his family was close to the Burgundian royals. Priest. Known as a miracle worker, he gave his wealth, work and miracles for the physical and spiritual improvement of the poor."

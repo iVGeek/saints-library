@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Gerard de Bazonches"
 honorific: Saint
 summary: "Benedictine monk at Saint Aubin Monastery, Angers, France. Priest."

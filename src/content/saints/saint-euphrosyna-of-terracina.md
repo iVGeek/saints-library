@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Euphrosyna of Terracina"
 honorific: Saint
 summary: "Foster sister of Saint Flavia Domitilla and Saint Theodora of Terracina. Exiled and then martyred with her."

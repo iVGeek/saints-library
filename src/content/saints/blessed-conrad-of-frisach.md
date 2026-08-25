@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Conrad of Frisach"
 honorific: Blessed
 title: "Missionary"

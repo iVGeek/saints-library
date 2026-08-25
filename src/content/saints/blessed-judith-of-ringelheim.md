@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Judith of Ringelheim"
 honorific: Blessed
 summary: "Sister of Saint Bernward of Hildesheim. All traces of her history were destroyed by Protestants."

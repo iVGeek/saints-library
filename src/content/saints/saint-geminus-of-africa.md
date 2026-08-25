@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Geminus of Africa"
 honorific: Saint
 summary: "Martyred by the Arian Vandal king Hunneric."

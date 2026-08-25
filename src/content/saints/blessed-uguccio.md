@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Uguccio"
 honorific: Blessed
 summary: "No information."

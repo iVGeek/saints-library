@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Papias of Rome"
 honorific: Saint
 summary: "Imperial Roman soldier. Martyred for defending the faith. No other information has survived."

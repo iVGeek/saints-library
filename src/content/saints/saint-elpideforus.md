@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Elpideforus"
 honorific: Saint
 summary: "One of a group of young Christian men who protested to city authorities that gifts to temples of pagan gods should be used to feed the poor during a regional famine. When the officials refused, the group went to local temples, broke up the idols and fixtures, and gave the gold an"

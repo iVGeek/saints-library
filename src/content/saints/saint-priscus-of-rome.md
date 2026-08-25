@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Priscus of Rome"
 honorific: Saint
 summary: "Priest. Martyred in the persecutions of Julian the Apostate."

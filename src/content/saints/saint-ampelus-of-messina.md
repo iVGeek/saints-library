@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Ampelus of Messina"
 honorific: Saint
 summary: "Martyred in the persecutions of Diocletian. No other information has survived."

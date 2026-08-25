@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Bazalota of Abyssinia"
 honorific: Saint
 summary: "4th century nun in Abyssinia (modern Ethiopia)."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Liberatus of Carthage"
 honorific: Saint
 summary: "Martyred with his wife and children in the persecutions of the Arians; only the father's name has come down to us."

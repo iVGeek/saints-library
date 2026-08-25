@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Hugh of Ambronay"
 honorific: Saint
 summary: "Benedictine monk. Abbot of Ambronay Abbey, diocese of Belley, France."

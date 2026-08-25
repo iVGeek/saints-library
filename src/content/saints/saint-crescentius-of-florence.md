@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Crescentius of Florence"
 honorific: Saint
 summary: "Sub-deacon in Florence, Italy. Spiritual student of Saint Zenobius and Saint Ambrose."

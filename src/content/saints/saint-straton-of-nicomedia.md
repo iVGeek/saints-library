@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Straton of Nicomedia"
 honorific: Saint
 summary: "Martyr."

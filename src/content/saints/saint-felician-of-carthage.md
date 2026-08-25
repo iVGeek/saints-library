@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Felician of Carthage"
 honorific: Saint
 summary: "Martyr."

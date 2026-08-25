@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Serapion of Alexandria"
 honorific: Saint
 summary: "Tortured and martyred in the persecutions of Decius for permitting Christian worship in his home."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Michaël Yamada Kasahashi"
 honorific: Blessed
 summary: "Married layman in the archdiocese of Nagasaki, Japan; father of Blessed Laurentius Yamada. Convert to Catholicism. Member of the Lay Dominicans and Secular Franciscans. Martyred for aiding foreign missionaries."

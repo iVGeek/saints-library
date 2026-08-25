@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Drusus of Syria"
 honorific: Saint
 summary: "Martyr whose death was written and preached about by Saint John Chrysostom, possibly for giving Christian burial to other martyrs."

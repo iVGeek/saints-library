@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Curcodomus"
 honorific: Saint
 summary: "Benedictine abbot at Maroilles, diocese of Cambrai, France."

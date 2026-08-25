@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Stephen of Burgos"
 honorific: Saint
 summary: "Ninth-century Benedictine monk. Abbot in Burgos, Spain. Martyred with 200 of his brother monks by invading Muslims."

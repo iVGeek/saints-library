@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Silvanus of Istria"
 honorific: Saint
 summary: "Early martyr in the Istria peninsula."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Céronne"
 honorific: Saint
 summary: "Raised in a pagan family. Convert, baptized at Bordeaux, France where she became an evangelist."

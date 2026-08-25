@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Thomas Khampheuane Inthirath"
 honorific: Blessed
 summary: "Teenaged layman in the apostolic vicariate of Pakse (in modern Laos). His father had served as catechist for his parish, and Thomas was studying to become a catechist himself. Martyr."

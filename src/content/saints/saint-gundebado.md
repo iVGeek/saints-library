@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Gundebado"
 honorific: Saint
 summary: "Son of Saint Sigismund of Burgundy. With his parents, he was captured and murdered by invading Franks in 523. Martyr."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Anastasius of Bourges"
 honorific: Saint
 summary: "Soldier. Martyr. No other information as survived."

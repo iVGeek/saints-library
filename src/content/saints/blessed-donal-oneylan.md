@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Donal O'Neylan"
 honorific: Blessed
 summary: "Franciscan priest. Martyr."

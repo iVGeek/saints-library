@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Giovanni Avogadro of Vercelli"
 honorific: Blessed
 summary: "15th-century Augustinian canon noted for his piety and humility."

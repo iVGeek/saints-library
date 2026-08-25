@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Paul Himonoya"
 honorific: Blessed
 summary: "Son of Blessed Michael Himonoya. Dominican tertiary. Ordered by authorities to renounce his faith; he refused. Martyr."

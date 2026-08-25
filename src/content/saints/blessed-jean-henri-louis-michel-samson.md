@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Jean-Henri-Louis-Michel Samson"
 honorific: Blessed
 summary: "Priest of the diocese of Bayeux, France. One of the Martyrs of September."

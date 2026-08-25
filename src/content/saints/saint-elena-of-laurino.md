@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Elena of Laurino"
 honorific: Saint
 summary: "Born to a poor family, as a young woman Elena felt a call to religious life. She was hounded by slander from the local people, fled from her home town and became a hermitess in a cave in nearby Pruno, Italy. Though she felt shunned by the local people, her faith led her to a mini"

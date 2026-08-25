@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Theophila of Nicomedia"
 honorific: Saint
 summary: "Nun. Martyred in the persecutions of Diocletian. One of the 20,000 Martyrs of Nicomedia."

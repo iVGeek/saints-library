@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Quiriacus of Ostia"
 honorific: Saint
 summary: "Bishop. One of a group martyred in the persecutions of Alexander Severus."

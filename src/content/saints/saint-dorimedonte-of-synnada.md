@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Dorimedonte of Synnada"
 honorific: Saint
 summary: "Martyr."

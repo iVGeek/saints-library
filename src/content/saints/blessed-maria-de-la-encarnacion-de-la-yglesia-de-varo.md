@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed María De La Encarnación de La Yglesia de Varo"
 honorific: Blessed
 summary: "Member of the Sisters of the Pious Schools. Martyred in the Spanish Civil War."

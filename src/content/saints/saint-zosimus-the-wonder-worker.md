@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Zosimus the Wonder Worker"
 honorific: Saint
 summary: "Hermit at Palestine. Miracle worker."

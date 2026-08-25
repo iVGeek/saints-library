@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Giovanni Battista Bonetti"
 honorific: Blessed
 summary: "A physically small and very humble man, Giovanni joined the Franciscan friars in Turin, Italy in 1635, and was assigned to the house in Piobesi Torinese. Priest. Sent to north Africa as a missionary to the Muslim Moors, his public preaching of Christianity led to him being arrest"

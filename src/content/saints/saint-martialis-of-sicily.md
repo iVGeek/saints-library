@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Martialis of Sicily"
 honorific: Saint
 summary: "Martyr."

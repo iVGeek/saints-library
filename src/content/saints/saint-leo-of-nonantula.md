@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Leo of Nonantula"
 honorific: Saint
 summary: "Monk and later abbot of Nonantula Abbey near Modena, Italy."

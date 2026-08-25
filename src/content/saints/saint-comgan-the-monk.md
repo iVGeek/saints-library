@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Comgan the Monk"
 honorific: Saint
 summary: "Born to the Irish royalty, the son of a prince of Leinster, Ireland; brother of Saint Kentigern, nephew of Saint Fillan. Soldier, wounded in battle with a neighboring clan, he and his sister fled to Scotland where he became a monk at Lochaise."

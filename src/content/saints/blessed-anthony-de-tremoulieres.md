@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Anthony de Tremoulières"
 honorific: Blessed
 summary: "Mercedarian friar. Commander of the convent of Santa Maria in Tolosa, Spain. Provincial of the Mercedarians in France. Chosen Master General of the Mercedarians on 6 November 1575. Known for his piety, and as a miracle worker."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Maurus of Verona"
 honorific: Saint
 summary: "32nd bishop of Verona, Italy, serving from 612 to 622. When first chosen for the office, he declared himself unworthy, and withdrew to live as a prayerful hermit. Known for his own religious zeal, and as a miracle worker, he set an example for the whole diocese which led to the c"

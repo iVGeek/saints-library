@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Iacobus Won Si-bo"
 honorific: Blessed
 summary: "Layman martyr in the apostolic vicariate of Korea."

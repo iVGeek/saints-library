@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Henry the Hagiographer"
 honorific: Blessed
 summary: "Benedictine monk. Headmaster of the monastic school at Saint-Germain d'Auxerre. Noted hagiographer."

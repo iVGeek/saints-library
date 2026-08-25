@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Jean-Thomas Leroy"
 honorific: Blessed
 summary: "Priest of the diocese of Meaux, France. One of the Martyrs of September."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Leo of Sens"
 honorific: Saint
 summary: "Bishop of Sens, France for 22 years."

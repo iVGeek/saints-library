@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Antonius of Noto"
 honorific: Blessed
 summary: "Franciscan friar at the monastery in Noto, Italy. All other information about him was lost when the monastery was destroyed by earthquake in 1693."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed André-Abel Alricy"
 honorific: Blessed
 summary: "Priest in the archdiocese of Paris, France. Arrested and murdered in the persecutions of the French Revolution for refusing to take the oath of allegiance to the civil constitution. One of the Martyrs of September."

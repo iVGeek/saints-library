@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Gabriel Mary"
 honorific: Blessed
 summary: "Gabriel was refused admission by several houses of the Franciscan Observants before being received at Notre Dame de la Fon, Rochelle, France. Priest. Served as confessor to Saint Jane of Valois. Worked with Saint Jane to found the order of the Annonciades in 1532."

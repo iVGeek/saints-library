@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Hanz Wagner"
 honorific: Blessed
 summary: "As a young man, Hanz joined the Carthusians at a lay brother at the Ittingen convent near Frauenfeld, Thurgau, Switzerland in 1475; he made his vows in 1476. The house had been abandoned for several years, and the lay brothers had to work to re-build it. This took so much time aw"

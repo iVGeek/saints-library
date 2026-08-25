@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Martinian of Belozersk"
 honorific: Saint
 summary: "Born to a poor family, they entrusted the boy Martinian to the monastery at White Lake. Spiritual student of Saint Cyril. Monk. Priest. Abbot of the Trinity Laura of Saint Sergius. Advisor to the Grand Prince of Moscow. In his old age he retired to the monastery at White Lake."

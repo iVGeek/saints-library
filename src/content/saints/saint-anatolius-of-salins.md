@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Anatolius of Salins"
 honorific: Saint
 summary: "Bishop in Scotland. Pilgrim to Rome, Italy. He abandoned his see to live as a hermit at Salins, France."

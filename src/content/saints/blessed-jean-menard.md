@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Jean Ménard"
 honorific: Blessed
 summary: "Married layman of the diocese of Angers, France. Martyred in the persecutions of the French Revolution."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Diuma"
 honorific: Saint
 summary: "Missionary and evangelizing bishop in Mercia, England. The modern town of Peterborough, England, grew up around a monastery he founded."

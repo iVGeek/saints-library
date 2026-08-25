@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Miguel Faúndez López"
 honorific: Blessed
 summary: "Franciscan priest. Martyred in the Spanish Civil War."

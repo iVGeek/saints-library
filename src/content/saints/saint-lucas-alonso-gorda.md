@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Lucas Alonso Gorda"
 honorific: Venerable
 summary: "Dominican missionary priest. Martyr."

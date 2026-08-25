@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Rufinus of Mantua"
 honorific: Saint
 summary: "Long venerated in Mantua, Italy, but all details have been lost."

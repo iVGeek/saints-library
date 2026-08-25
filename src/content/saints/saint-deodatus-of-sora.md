@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Deodatus of Sora"
 honorific: Saint
 summary: "Martyr. No other information as survived."

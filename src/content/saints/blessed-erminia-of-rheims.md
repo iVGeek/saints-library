@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Erminia of Rheims"
 honorific: Blessed
 summary: "A holy woman, very poor, humble, and patient. She moved from Picardy to Rheims, lived near a monastery, and became known for her mystical spirituality, and for a series of visions."

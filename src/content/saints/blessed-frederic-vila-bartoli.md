@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Frederíc Vila Bartolì"
 honorific: Blessed
 summary: "Claretian priest. Martyred in the Spanish Civil War."

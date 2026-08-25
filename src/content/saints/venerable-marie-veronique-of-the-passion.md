@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Venerable Marie-Veronique of the Passion"
 honorific: Venerable
 summary: "Daughter of an Anglican chaplain assigned to the British Embassy in Constantinople. An adult convert, joining the Catholic Church on 2 February 1850. Professed nun in the Congregation of the Sisters of Saint Joseph of the Apparition, making her vows on 14 September 1851 and takin"

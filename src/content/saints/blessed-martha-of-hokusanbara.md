@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Martha of Hokusanbara"
 honorific: Blessed
 summary: "A child in the diocese of Niigata, Japan, the daughter of Blessed Paulus Sanjuro and Blessed Rufina Banzai, martyred with her parents."

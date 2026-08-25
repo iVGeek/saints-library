@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Designatus of Maastricht"
 honorific: Saint
 title: "Bishop"

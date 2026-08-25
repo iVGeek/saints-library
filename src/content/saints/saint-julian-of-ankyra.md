@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Julian of Ankyra"
 honorific: Saint
 summary: "Priest. Martyed in the persecution of emperor Licinius."

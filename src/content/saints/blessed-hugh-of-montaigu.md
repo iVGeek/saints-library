@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Hugh of Montaigu"
 honorific: Blessed
 summary: "Nephew of Saint Hugh of Cluny, who was his teacher and spiritual director. Benedictine monk at Cluny Abbey in France. Bishop of Auxerre, France in 1096."

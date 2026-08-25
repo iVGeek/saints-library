@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Victor of Saint Gall"
 honorific: Saint
 summary: "Monk at Saint Gall in Switzerland. Hermit in the Vosges, France."

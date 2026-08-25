@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Indreachtach of Bangor"
 honorific: Saint
 summary: "Son of Dobhailen. Monk. Abbot of Bangor Abbey."

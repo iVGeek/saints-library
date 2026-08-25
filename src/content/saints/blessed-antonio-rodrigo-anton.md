@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Antonio Rodrigo Antón"
 honorific: Blessed
 summary: "Franciscan Friars Minor cleric. Martyred in the Spanish Civil War."

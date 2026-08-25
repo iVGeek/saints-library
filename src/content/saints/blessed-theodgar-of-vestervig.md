@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Theodgar of Vestervig"
 honorific: Blessed
 summary: "Studied theology in England. Priest. Missionary to Norway. Courtier to King Olav Haraldsson II. Known to heal the sick by praying over them. Went into exile in Sweden with King Olav in 1028. Missionary to the area of Jutland, Denmark; he was making little headway until one mornin"

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Ursula Sakurai"
 honorific: Blessed
 summary: "Married lay woman in the Kyoto, Japan. Daughter-in-law of Blessed Ioannes Sakurai. One of the Martyrs of Kyoto."

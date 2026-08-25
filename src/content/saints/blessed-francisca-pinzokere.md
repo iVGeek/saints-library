@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Francisca Pinzokere"
 honorific: Blessed
 summary: "Member of the Lay Dominicans in the archdiocese of Nagasaki, Japan. Martyr."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Hygbald"
 honorific: Saint
 summary: "Benedictine abbot at Bardney, Lincolnshire, England. Mentioned by the Venerable Bede as an acquaintance of Saint Chad. Hermit in later life. Some churches, the village of Hibaldstowe, and other locations are named in his honour."

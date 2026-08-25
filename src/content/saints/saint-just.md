@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Just"
 honorific: Saint
 summary: "Martyr."

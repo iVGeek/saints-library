@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Sabbatius of Antioch"
 honorific: Saint
 summary: "Tortured and martyred in the persecutions of Emperor Probus."

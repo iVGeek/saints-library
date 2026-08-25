@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Hippolytus of Atripalda"
 honorific: Saint
 summary: "Priest, wandering preacher and miracle worker from Antioch. In the area of Abellinum (near modern Atripalda, Italy), he converted many from the worship of the pagan goddess Diana. Seeing that the region was fertile ground for the faith, Hippolytus stayed to work as a missionary,"

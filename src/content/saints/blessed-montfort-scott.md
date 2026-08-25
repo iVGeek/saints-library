@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Montfort Scott"
 honorific: Blessed
 summary: "Seminarian at Douai College in France beginning in 1574. As a sub-deacon he returned to England in 1575, was arrested, interrogated by civil and ecclesiastical authorities, and then released. Scott returned to Douai on 22 May 1577, was ordained in Brussels, Belgium, and then retu"

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Vincent of Xaintes"
 honorific: Saint
 summary: "First bishop of Dax, France. Worked with Saint Laetus of Dax. Martyr."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Leo of Saint-Bertin"
 honorific: Blessed
 summary: "Benedictine monk of Anchin Abbey in Pecquencourt, France. Abbot of Lobbes Abbey in Belgium. Abbot of Saint-Bertin Abbey in Saint-Omer, France. From a pilgrimage to Jerusalem, he brought back a vial with the reputed blood of Jesus which is enshrined in the Blasius Chapel in Bruges"

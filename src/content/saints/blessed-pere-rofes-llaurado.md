@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Pere Rofes Llauradó"
 honorific: Blessed
 summary: "Priest in the archdiocese of Tarragona, Spain. Martyred in the Spanish Civil War."

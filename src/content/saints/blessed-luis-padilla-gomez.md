@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Luis Padilla Gómez"
 honorific: Blessed
 summary: "After studying at the concilar seminary of Guadalajara, Mexico from 1917 to 1921, Luis suffered doubts about his vocation and put off further studies. He worked as a teacher, but also conducted free classes for poor boys. One of the founders of the Catholic Youth Association of M"

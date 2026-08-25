@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Dioscorus of Pergen"
 honorific: Saint
 summary: "Martyred in the persecutions of Emperor Elagabalus."

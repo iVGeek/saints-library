@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint David of Bourges"
 honorific: Saint
 title: "Bishop"

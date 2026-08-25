@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Mun"
 honorific: Saint
 summary: "Fifth century bishop, ordained by his uncle Saint Patrick. Late in life he became a hermit on the island of Lough Ree, Ireland."

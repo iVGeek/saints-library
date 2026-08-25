@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Romanus of Auxerre"
 honorific: Saint
 summary: "Bishop of Auxerre, France."

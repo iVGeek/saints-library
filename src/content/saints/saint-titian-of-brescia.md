@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Titian of Brescia"
 honorific: Saint
 summary: "Evangelizing bishop of Brescia, Italy."

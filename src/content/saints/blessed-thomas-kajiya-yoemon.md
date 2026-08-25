@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Thomas Kajiya Yoemon"
 honorific: Blessed
 summary: "Child in the Kyoto, Japan, the son of Blessed Anna Kajiya. One of the Martyrs of Kyoto."

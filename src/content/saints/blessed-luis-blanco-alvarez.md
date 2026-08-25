@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Luis Blanco Álvarez"
 honorific: Blessed
 summary: "Augustinian cleric. Martyred in the Spanish Civil War."

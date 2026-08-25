@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Ambrosinian of Armenia"
 honorific: Saint
 title: "Bishop"

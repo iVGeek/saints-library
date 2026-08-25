@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Miguel Aguado Camarillo"
 honorific: Blessed
 summary: "Married layman in the archdiocese of Madrid, Spain. Member of the Association of the Miraculous Medal. Martyred in the Spanish Civil War."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Keverne"
 honorific: Saint
 summary: "Friend of and co-worker with Saint Kieran."

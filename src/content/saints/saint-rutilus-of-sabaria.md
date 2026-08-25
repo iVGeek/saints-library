@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Rutilus of Sabaria"
 honorific: Saint
 summary: "One of a group of martyrs, and the only one whose name has come down to us."

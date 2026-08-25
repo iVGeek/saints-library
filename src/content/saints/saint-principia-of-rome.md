@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Principia of Rome"
 honorific: Saint
 summary: "Nun in Rome, Italy. Spiritual student of Saint Marcella."

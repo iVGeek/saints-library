@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Kata Ivaniševic"
 honorific: Blessed
 summary: "Member of the Daughters of Divine Charity. Martyred while fighting off Chetnik rapists."

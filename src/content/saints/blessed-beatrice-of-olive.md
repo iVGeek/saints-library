@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Beatrice of Olive"
 honorific: Blessed
 summary: "Cistercian nun at the convent of the Olive in Morlanwelz, Belgium. Her life in the convent led her to question her vocation, and she became a pilgrim for 15 years after which she received a vision of the Blessed Virgin Mary telling her it was time to return to Cistercian life. Be"

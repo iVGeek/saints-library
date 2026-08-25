@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Fidelis of Mérida"
 honorific: Saint
 summary: "Originally from the East, he travelled to Mérida, Spain with a group of merchants, settled there, trained with the bishop of the city, and then succeeded him c.560."

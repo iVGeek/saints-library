@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Crescentius of Mainz"
 honorific: Saint
 summary: "Friend of Bishop Aureus of Mainz, Germany. He may have served as bishop when Aureus was driven into exile. Martyred by invading Huns. There are several variations in his story due to the similarity of his name with others, some variants in the records of Aureus, and simply sixtee"

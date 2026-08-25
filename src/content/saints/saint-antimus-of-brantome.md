@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Antimus of Brantôme"
 honorific: Saint
 summary: "8th century Benedictine monk. One of the first abbots of Brantôme Abbey in modern Brantôme en Périgord, France."

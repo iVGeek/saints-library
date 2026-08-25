@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Joseph Lambton"
 honorific: Blessed
 summary: "Second son of Thomas Lambton of Malton-in-Rydall, Yorkshire, England, and Katharine, daughter of Robert Birkhead of West Brandon, Durham, England. Joseph studied at the English College in Reims, France beginning in 1584, then at the English College in Rome, Italy beginning in 158"

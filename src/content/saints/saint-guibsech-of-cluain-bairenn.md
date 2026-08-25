@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Guibsech of Cluain-Bairenn"
 honorific: Saint
 summary: "Founded a community of nuns in Cluain-Bairenn, Ireland."

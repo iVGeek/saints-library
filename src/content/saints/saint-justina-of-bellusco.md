@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Justina of Bellusco"
 honorific: Saint
 summary: "Martyr."

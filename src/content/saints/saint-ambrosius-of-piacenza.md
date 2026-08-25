@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Ambrosius of Piacenza"
 honorific: Saint
 summary: "Monk at the San Sabinus monastery in Piacenza, Italy."

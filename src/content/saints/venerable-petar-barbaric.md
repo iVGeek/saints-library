@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Venerable Petar Barbaric"
 honorific: Venerable
 summary: "Jesuit novice."

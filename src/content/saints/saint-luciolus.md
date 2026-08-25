@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Luciolus"
 honorific: Saint
 summary: "One of a group of martyrs. No other information has survived."

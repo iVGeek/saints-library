@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Sunaman of Sweden"
 honorific: Saint
 summary: "Nephew of Saint Sigfrid. Monk. Missionary to Sweden with Sigfrid. Martyred by pagans."

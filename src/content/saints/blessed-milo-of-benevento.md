@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Milo of Benevento"
 honorific: Blessed
 summary: "Studied for the priesthood in Paris, France. Priest in Auvergne, France. Canon of the cathedral of Auvergne. He was the teacher of the young Saint Stephen of Muret. Milo's reputation for piety led to the people of Benevento, Italy to choose him as their bishop where he served the"

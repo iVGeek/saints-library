@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Andronicus"
 honorific: Saint
 summary: "Roman soldier. Convert. Arrested, tortured and thrown to the arena animals during the persecutions of Diocletian and Maximian."

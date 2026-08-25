@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Syagrius of Autun"
 honorific: Saint
 summary: "Bishop of Autun, France c.560. Known for his learning and zeal for the faith in the councils he attended."

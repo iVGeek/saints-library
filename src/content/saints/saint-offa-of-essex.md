@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Offa of Essex"
 honorific: Saint
 summary: "King of Essex, England. He gave up the crown to become a monk in Rome, Italy."

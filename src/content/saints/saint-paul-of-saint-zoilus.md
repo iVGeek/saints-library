@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Paul of Saint Zoilus"
 honorific: Saint
 summary: "Deacon in Moorish-occupied Cordoba, Spain. Monk at the Saint Zoilus monastery in Cordoba. Had a special ministry caring for Christians imprisoned for their faith by the Muslims. Martyr."

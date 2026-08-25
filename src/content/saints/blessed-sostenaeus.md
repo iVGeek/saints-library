@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Sostenaeus"
 honorific: Blessed
 summary: "No information."

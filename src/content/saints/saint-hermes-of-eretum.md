@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Hermes of Eretum"
 honorific: Saint
 summary: "Martyr."

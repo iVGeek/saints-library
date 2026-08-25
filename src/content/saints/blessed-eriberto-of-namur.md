@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Eriberto of Namur"
 honorific: Blessed
 summary: "The details of this person's life have been lost."

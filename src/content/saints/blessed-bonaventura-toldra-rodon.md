@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Bonaventura Toldrà Rodon"
 honorific: Blessed
 summary: "Member of the Carmelite Tertiaries of Education. Martyred in the Spanish Civil War."

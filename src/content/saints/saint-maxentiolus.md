@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Maxentiolus"
 honorific: Saint
 summary: "Disciple of Saint Martin of Tours. Abbot. Founder of Our Lady of Cunault abbey in France."

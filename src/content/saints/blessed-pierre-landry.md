@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Pierre Landry"
 honorific: Blessed
 summary: "Priest of the diocese of Potiers, France. One of the Martyrs of September."

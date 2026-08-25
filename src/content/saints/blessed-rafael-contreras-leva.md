@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Rafael Contreras Leva"
 honorific: Blessed
 summary: "Priest of the diocese of Córdoba, Spain, serving in the Baena community. Martyred in the Spanish Civil War."

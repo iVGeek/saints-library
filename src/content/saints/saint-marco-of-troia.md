@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Marco of Troia"
 honorific: Saint
 title: "Bishop"

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Fiorenzo of Micy"
 honorific: Saint
 summary: "Monk at the abbey of Micy, France. All details of his life have been lost."

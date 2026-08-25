@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Metrano of Alexandria"
 honorific: Saint
 summary: "Martyred in the persecutions of Decius for refusing to take an oath to pagan gods."

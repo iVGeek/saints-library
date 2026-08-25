@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Valentina of Nevers"
 honorific: Saint
 summary: "No information has survived."

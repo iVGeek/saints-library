@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Hildebrand of Saint-Gilles"
 honorific: Saint
 summary: "Cistercian monk. Martyred by Albigensians."

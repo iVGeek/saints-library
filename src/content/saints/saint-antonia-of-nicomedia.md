@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Antonia of Nicomedia"
 honorific: Saint
 summary: "Imprisoned for two years, repeatedly tortured and eventually executed for her faith during the persecutions of governor Priscillian."

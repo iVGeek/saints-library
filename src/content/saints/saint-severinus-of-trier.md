@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Severinus of Trier"
 honorific: Saint
 summary: "Bishop of Trier in modern Germany."

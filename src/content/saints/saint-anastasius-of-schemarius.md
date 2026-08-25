@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Anastasius of Schemarius"
 honorific: Saint
 summary: "Monk in the Caucasus mountains. Spiritual student of Saint Maximus the Confessor. Imprisoned, tortured and martyred."

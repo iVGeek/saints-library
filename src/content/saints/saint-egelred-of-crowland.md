@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Egelred of Crowland"
 honorific: Saint
 summary: "Monk at Crowland Abbey in England. Martyred by pagan Danish invaders."

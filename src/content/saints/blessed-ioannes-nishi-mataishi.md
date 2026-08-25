@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Ioannes Nishi Mataishi"
 honorific: Blessed
 summary: "Young layman of the archdiocese of Nagasaki, Japan. Son of Blessed Ursula Nishi and Blessed Ioannes Nishi Mataishi. Martyr."

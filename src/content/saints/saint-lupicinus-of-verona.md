@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Lupicinus of Verona"
 honorific: Saint
 summary: "Bishop of Verona, Italy in the early 5th century."

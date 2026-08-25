@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Christina of Retters"
 honorific: Blessed
 summary: "Premonstratensian nun who developed a mystical prayer life after receiving a vision of the Child Jesus."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Berthoald of Cambrai"
 honorific: Saint
 title: "Bishop"

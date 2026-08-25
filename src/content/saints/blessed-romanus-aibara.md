@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Romanus Aibara"
 honorific: Blessed
 summary: "Layman in the archdiocese of Nagasaki, Japan. Father of Blessed Paulus Aibara Sandayu; grandfather of Blessed Leo Aibara. Member of the lay Dominicans and the Secular Franciscans. Martyr."

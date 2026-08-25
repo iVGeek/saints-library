@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed William Ward"
 honorific: Blessed
 summary: "Raised Protestant. Teacher. Travelled to Spain with a Catholic friend, and there joined the Church. Back home, he converted his mother. Repeatedly imprisoned for professing his faith. At 40 he went to Belgium to study for the priesthood. Ordained. Took the name Father William War"

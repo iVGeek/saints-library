@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Gabriel of Saint Magdalen"
 honorific: Blessed
 summary: "Franciscan lay brother. Assigned to Manila, Philippines in 1612 where he studied medicine. Beginning in 1622, he spent a decade ministering to the sick in Japan in a time when Christianity was outlawed. He was eventually arrested for his faith and martyred."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Thecla of the Via Aurelia"
 honorific: Saint
 summary: "Martyr."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Proculus of Terni"
 honorific: Saint
 summary: "Gave Christian burial to Saint Valentine of Terni. Martyred in the persecutions of Aurelius."

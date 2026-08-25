@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Teofredo of Vellaicum"
 honorific: Saint
 summary: "Monk. Abbot. Martyr."

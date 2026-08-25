@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed François Lefranc"
 honorific: Blessed
 summary: "Eudist priest. One of the Martyrs of September."

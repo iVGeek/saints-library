@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Vitus of Pontida"
 honorific: Blessed
 summary: "Benedictine monk. Friend and fellow student of Blessed Albert of Pontida. First abbot of the Cluniac abbey of Saint James in Pontida, Italy."

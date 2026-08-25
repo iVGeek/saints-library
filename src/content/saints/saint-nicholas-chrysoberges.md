@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Nicholas Chrysoberges"
 honorific: Saint
 summary: "Patriarch of Constantinople from 983."

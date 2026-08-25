@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Antonio Caixal"
 honorific: Blessed
 summary: "Well-educated Mercedarian friar. Chosen 15th Master-General of the Mercedarians in 1405, he worked to build up the interior life of its members, and the financial resources they used to ransom Christians from slavery in Muslim countries. Served as diplomat for the King of Aragon."

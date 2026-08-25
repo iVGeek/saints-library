@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Ansologus of Salzburg"
 honorific: Saint
 summary: "Monk. Abbot. Third bishop of Salzburg in modern Austria. Known for supporting monastic life in his diocese."

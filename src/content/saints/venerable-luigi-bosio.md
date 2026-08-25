@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Venerable Luigi Bosio"
 honorific: Venerable
 summary: "Priest of the diocese of Verona, Italy."

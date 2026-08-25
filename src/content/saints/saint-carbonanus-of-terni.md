@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Carbonanus of Terni"
 honorific: Saint
 summary: "Christian soldier in the imperial Roman army. Executed during the persecutions of emperor Claudius. Martyr."

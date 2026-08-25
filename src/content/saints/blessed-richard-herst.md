@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Richard Herst"
 honorific: Blessed
 summary: "Layman land owner of Preston in Lancaster in the apostolic vicariate of England. During the persecutions of Catholics by King James I, three Protestant subjects were sent to arrest Richard, who was working in his fields at the time. Richard's farm workers convinced him to run; on"

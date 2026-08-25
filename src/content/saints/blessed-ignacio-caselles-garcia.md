@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Ignacio Caselles García"
 honorific: Blessed
 summary: "Franciscan Capuchin priest. Martyred in the Spanish Civil War."

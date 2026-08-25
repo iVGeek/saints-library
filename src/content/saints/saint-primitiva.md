@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Primitiva"
 honorific: Saint
 summary: "An early martyr in Rome, Italy. No other information has survived."

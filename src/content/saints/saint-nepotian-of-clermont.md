@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Nepotian of Clermont"
 honorific: Saint
 summary: " Tradition says that in 395 he received imperial representatives as part of the investigation of the Priscilliantists. One of the representatives, Artemius, fell ill, and Nepotian healed him Priest. Bishop of Clermont, France in 386. We know almost nothing about his life and work."

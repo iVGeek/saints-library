@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Venerable Maria Brigida Postorino"
 honorific: Venerable
 summary: "Nun. Founded the Daughters of Mary Immaculate."

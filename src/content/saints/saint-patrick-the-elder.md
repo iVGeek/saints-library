@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Patrick the Elder"
 honorific: Saint
 summary: "Bishop in Ireland."

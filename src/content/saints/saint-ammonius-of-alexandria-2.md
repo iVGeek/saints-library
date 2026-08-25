@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Ammonius of Alexandria"
 honorific: Saint
 summary: "Martyred with approximately 600 Christians in the persecution of Maximian Galerius."

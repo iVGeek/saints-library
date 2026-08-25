@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Lambert Roesenveld"
 honorific: Blessed
 summary: "Mayor of Haarlem, Netherlands. Martyred by Calvinists."

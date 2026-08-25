@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Rogatian of Albitina"
 honorific: Saint
 summary: "Three members, all named Rogation, of a group of 46 Christians arrested in Albitina, North Africa during Mass, shipped to Carthage for judgment and torture, and then died together in prison. We know nothing about them except that they died as martyrs in this persecution."

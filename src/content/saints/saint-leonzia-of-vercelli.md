@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Leonzia of Vercelli"
 honorific: Saint
 summary: "Nun in Vercelli, Italy in the latter 5th century in a monastery founded by Saint Eusebius of Vercelli. There are inscriptions and writings that praise her piety, but no records of her life."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Mars of Nantes"
 honorific: Saint
 summary: "Sixth century bishop of Nantes, France."

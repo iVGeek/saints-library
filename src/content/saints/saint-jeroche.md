@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Jéroche"
 honorific: Saint
 summary: "Seventh-century parish priest in a small village in the Brie region of France."

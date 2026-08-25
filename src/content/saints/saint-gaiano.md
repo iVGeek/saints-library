@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Gaiano"
 honorific: Saint
 summary: "Martyr."

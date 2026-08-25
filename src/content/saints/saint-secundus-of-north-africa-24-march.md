@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Secundus of North Africa"
 honorific: Saint
 summary: "Brother of Saint Romulus. Martyr."

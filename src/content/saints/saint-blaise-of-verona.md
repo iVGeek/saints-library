@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Blaise of Verona"
 honorific: Saint
 title: "Bishop"

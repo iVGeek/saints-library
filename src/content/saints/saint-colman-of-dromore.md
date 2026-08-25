@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Colman of Dromore"
 honorific: Saint
 summary: "Knew Saint Patrick. Studied at Noendrum under Saint Mochae of Noendrum, and then under Saint Ailbe of Emly. First abbot of Muckmore Abbey, County Antrim, Ireland. Founding abbot-bishop of the diocese of Dromore, County Down, Ireland c.514. Taught Saint Finnian of Clonard. Friend"

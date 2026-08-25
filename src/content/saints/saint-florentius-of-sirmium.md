@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Florentius of Sirmium"
 honorific: Saint
 summary: "One of a group of fourth century martyrs at Sirmium, Pannonia (modern Sremska Mitrovica, Serbia)."

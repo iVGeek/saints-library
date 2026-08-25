@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Francis Ingleby"
 honorific: Blessed
 summary: "Studied at Rheims, France. Ordained on 21 March 1581, he returned to England in April 1581 to minister to covert Catholics during a period of official persecution. Imprisoned and executed for the crime of being a priest. Martyr."

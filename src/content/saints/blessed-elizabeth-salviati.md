@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Elizabeth Salviati"
 honorific: Blessed
 summary: "Camaldolese nun. Abbess at the convent of San Giovanni Evangelista di Boldrone in Florence, Italy."

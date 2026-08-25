@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Marinus of Caesarea"
 honorific: Saint
 summary: "Soldier in the Roman army, and a closet Christian. When a centurian's post fell open, he and another soldier applied. Marinus was the first choice, but his rival cited an ancient law that required a centurian to offer sacrifice to the emperor. Marinus confessed his Christianity,"

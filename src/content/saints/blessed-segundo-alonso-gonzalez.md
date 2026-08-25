@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Segundo Alonso González"
 honorific: Blessed
 summary: "Segundo grew up in a pious family; two his brothers became Dominican missionaries, and a sister became a Dominican nun. He married a local girl name Maria, and they had twelve children, two of whom became priests; Maria died in childbirth in 1926. Segundo worked as a carpenter, s"

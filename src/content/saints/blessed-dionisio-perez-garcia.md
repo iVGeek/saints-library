@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Dionisio Pérez García"
 honorific: Blessed
 summary: "Dionesio joined the Dominicans in Almagro, Spain on 30 September 1930 and made his solemn vows as a cooperator brother on 25 May 1933. He lived for two years in Cordoba, Spain, but returned with Almagro with a desire to become a missionary. However, his brothers and his house bec"

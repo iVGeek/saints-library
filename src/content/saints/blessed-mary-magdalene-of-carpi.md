@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Mary Magdalene of Carpi"
 honorific: Blessed
 summary: "Nun who served as alms-beggar for her house in Carpi, Italy."

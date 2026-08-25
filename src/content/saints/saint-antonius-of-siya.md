@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Antonius of Siya"
 honorific: Saint
 summary: "Married to the daughter of his employer, a wealthy merchant. Moved to Novgorod with the business. Widower. Monk in Kensk. Hermit in the forest around the White Sea. His reputation for holiness attracted disciples, and the Prince of Moscow built a monastery for them. In his later"

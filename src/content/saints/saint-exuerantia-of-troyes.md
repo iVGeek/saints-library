@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Exuerantia of Troyes"
 honorific: Saint
 summary: "Nun. Her relics are venerated in Troyes, France. No other information has survived."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Jeanne Onillon veuve Onillon"
 honorific: Blessed
 summary: "Married lay woman of the diocese of Angers, France. Martyred in the persecutions of the French Revolution."

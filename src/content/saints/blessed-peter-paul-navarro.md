@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Peter Paul Navarro"
 honorific: Blessed
 summary: " An imperial edict in 1614 expelled all foreig Joined the Jesuits in Naples, Italy in 1578. Ordained in Goa, India. Missionary to Japan. Became fluent in Japanese, and lived as much like a native as he could, wanting to show that Christianity was no threat to a Japanese lifestyle."

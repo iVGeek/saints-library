@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Prothadius of Besançon"
 honorific: Saint
 title: "Bishop"

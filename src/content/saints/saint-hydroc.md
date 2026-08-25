@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Hydroc"
 honorific: Saint
 summary: "Fifth century. No other information has survived."

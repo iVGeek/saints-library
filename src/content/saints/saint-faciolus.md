@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Faciolus"
 honorific: Saint
 summary: "Benedictine monk of Saint Cyprian abbey, Poitiers, France."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Lucius of Constantinople"
 honorific: Saint
 summary: "Priest. Imprisoned and tortured at Amphipolis and then Constantinople during the persecutions of Diocletian and Laudicius. Martyr."

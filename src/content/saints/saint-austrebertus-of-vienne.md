@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Austrebertus of Vienne"
 honorific: Saint
 summary: "Bishop of Vienne, France from 726 till 742. Supported the missionary work of Saint Boniface."

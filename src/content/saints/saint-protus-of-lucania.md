@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Protus of Lucania"
 honorific: Saint
 summary: "Martyr."

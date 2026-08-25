@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Rodigus of Antioch"
 honorific: Saint
 summary: "Martyr."

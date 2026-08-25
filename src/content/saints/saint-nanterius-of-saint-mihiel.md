@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Nanterius of Saint-Mihiel"
 honorific: Saint
 summary: "Monk. Abbot of Saint-Mihiel Abbey in Lorraine, France."

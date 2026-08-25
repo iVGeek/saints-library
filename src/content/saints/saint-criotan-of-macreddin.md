@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Criotan of Macreddin"
 honorific: Saint
 summary: "Son of Illudion (Iladon, Lolladon). After inadvertently killing his father, Criotan withdrew from the world to live as a swineherd. Spiritual student of Saint Petroc. Monk. Travelled to Ireland to study with holy men in Ireland for 20 years, and then returned to Cornwall. Founded"

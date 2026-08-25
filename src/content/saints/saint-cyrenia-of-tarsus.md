@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Cyrenia of Tarsus"
 honorific: Saint
 summary: "Martyred with Saint Juliana in the persecutions of Galerius and Maximian."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Venerable María Antonia Pereira Andrade"
 honorific: Venerable
 summary: "Discaled Carmelite nun."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Andrew of Elnone"
 honorific: Saint
 summary: "Monk. Spiritual student of Saint Amandus of Maastricht at Elnone-en-Pevele, France. Abbot there."

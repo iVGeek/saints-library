@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Sebastian of the Holy Spirit"
 honorific: Blessed
 summary: "Mercedarian lay brother at the convent of the Holy Spirit in Lima, Peru. Miracle worker known to heal the sick by singing the Magnificat."

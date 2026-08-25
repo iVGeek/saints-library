@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Froilan"
 honorific: Saint
 summary: "Benedictine monk. With his friend, Saint Attilanus, he reorganized the monastic community at Moreruela in Old Castile (part of modern Spain). From there the two worked to restore and revitalize Benedictine monasticism in western Spain, and area subjected to Moorish occupation. Bi"

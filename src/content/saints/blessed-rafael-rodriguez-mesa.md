@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Rafael Rodríguez Mesa"
 honorific: Blessed
 summary: "Member of the Salesians of Don Bosco. Martyred in the Spanish Civil War."

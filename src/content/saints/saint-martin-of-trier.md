@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Martin of Trier"
 honorific: Saint
 summary: "Tenth bishop of Trier, Germany."

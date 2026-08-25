@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Heraclius of Todi"
 honorific: Saint
 summary: "Martyred in the persecutions of Diocletian."

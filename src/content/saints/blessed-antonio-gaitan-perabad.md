@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Antonio Gaitán Perabad"
 honorific: Blessed
 summary: "A teenaged boy in the diocese of Córdoba, Spain. Martyred in the Spanish Civil War."

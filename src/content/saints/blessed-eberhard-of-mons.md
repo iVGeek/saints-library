@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Eberhard of Mons"
 honorific: Blessed
 summary: "Born to the nobility, the Count of Mons in modern Belgium. After fighting as a soldier and commander for Limburg in a war against Brabant, he went on pilgrimage to Rome, Italy and Compostella, Spain in penance. Wishing to withdraw from the world, he became a swineherd for the Cis"

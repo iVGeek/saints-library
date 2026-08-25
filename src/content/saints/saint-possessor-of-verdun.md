@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Possessor of Verdun"
 honorific: Saint
 title: "Bishop"

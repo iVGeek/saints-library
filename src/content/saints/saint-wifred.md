@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Wifred"
 honorific: Saint
 summary: "Monk and then abbot of Saint Victor Abbey in Marseilles, France."

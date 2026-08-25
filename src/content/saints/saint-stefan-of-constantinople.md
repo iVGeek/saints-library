@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Stefan of Constantinople"
 honorific: Saint
 summary: "One of over 300 Christians martyred together for opposing iconoclasm. No other information has survived."

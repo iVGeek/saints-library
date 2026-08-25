@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Conon the Elder"
 honorific: Saint
 summary: "Father of Conon the Younger. On the death of his wife, the Elder urged his son to religious life, and lived as a hermit himself. He and his son were charged with the treason of being Christian; both freely admitted it. Tortured and martyred."

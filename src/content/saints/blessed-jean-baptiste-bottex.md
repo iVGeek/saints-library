@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Jean-Baptiste Bottex"
 honorific: Blessed
 summary: "Priest in the diocese of Belley, France. One of the Martyrs of September."

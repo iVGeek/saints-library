@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Jucundus of Rheims"
 honorific: Saint
 summary: "Lector. Martyred in the barbarian invasion of Rheims, France."

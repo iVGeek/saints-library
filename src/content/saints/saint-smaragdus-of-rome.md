@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Smaragdus of Rome"
 honorific: Saint
 summary: "Martyr."

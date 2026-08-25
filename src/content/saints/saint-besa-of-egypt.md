@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Besa of Egypt"
 honorific: Saint
 summary: "Fifth century abbot in Egypt."

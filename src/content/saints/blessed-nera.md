@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Nera"
 honorific: Blessed
 summary: "Dominican tertiary. Cared for the sick in Siena, Italy."

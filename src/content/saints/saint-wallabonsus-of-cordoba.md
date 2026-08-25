@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Wallabonsus of Cordoba"
 honorific: Saint
 summary: "His mother was a Christan convert from Islam; his sister Maria became a nun. Educated at the monastery of Saint Felix. Deacon in Moorish-occupied Cordoba, Spain, working with Saint Peter. Martyred in the persecutions of Abderrahman for denouncing Mohammed."

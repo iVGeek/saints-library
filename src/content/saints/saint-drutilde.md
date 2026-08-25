@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Drutilde"
 honorific: Saint
 summary: "Eighth century Anglo-Saxon nun. Spiritual student of Saint Lioba of Bischofsheim."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Boethian of Pierrepont"
 honorific: Saint
 summary: "Seventh century spiritual student of Saint Fursey of Perrone. Built the Pierrepont Monastery near Laon, France. Murdered by some locals for preaching against their vices. Martyr."

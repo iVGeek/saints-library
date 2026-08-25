@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Pietro Parenzo"
 honorific: Blessed
 summary: "Born to the Italian nobility, the son of Giovanni, a senator and judge; his mother's name was Odolina. We know he had brothers, and was married at one point, but nothing else survives of his early life. Served in the court of Pope Innocent III. Chosen rector and papal governor of"

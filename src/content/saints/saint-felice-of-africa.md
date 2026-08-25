@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Felice of Africa"
 honorific: Saint
 summary: "One of a group of 35 martyrs who died together. No other information has survived."

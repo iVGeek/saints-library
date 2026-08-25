@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed José Arner Margalef"
 honorific: Blessed
 summary: "Member of the Claretians, professed on 8 September 1908. Ordained a priest on 17 July 1916. Martyred in the Spanish Civil War."

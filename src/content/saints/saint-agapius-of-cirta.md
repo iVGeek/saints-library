@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Agapius of Cirta"
 honorific: Saint
 summary: "Priest. Exiled to North Africa. Martyred in the persecutions of Valerian."

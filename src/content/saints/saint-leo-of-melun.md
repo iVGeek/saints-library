@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Leo of Melun"
 honorific: Saint
 summary: "Venerated at Melun, France, but no details of their life have survived."

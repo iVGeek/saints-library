@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Romanus of Nepi"
 honorific: Saint
 summary: "Spiritual student of Saint Ptolemy of Nepi. Bishop of Nepi, Italy. Martyr."

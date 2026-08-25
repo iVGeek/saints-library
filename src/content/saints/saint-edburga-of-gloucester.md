@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Edburga of Gloucester"
 honorific: Saint
 summary: "Born a princess, the sister of King Osric of Hwicce (an area in modern Worcestershire, England). Benedictine nun, consecrated in 710 by Saint Egwin of Worcester. Abbess of Saint Peter's Abbey in Gloucester, England where she served about 20 years."

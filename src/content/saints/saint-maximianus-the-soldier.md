@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Maximianus the Soldier"
 honorific: Saint
 summary: "Soldier in the imperial Herculean Legion serving under an uncle of Julian the Apostate. Tortured and executed for refusing to change the Labarum of Constantine, a Christian banner, for a pagan one. Martyr."

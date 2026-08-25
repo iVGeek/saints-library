@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Donal Breen"
 honorific: Blessed
 summary: "Priest in the diocese of Ferns, Ireland. One of the Irish Martyrs."

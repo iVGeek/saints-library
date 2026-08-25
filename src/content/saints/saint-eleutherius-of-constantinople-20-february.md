@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Eleutherius of Constantinople"
 honorific: Saint
 summary: "Bishop in Constantinople. Martyr."

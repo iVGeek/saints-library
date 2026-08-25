@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Zeno the Martyr"
 honorific: Saint
 summary: "Martyr."

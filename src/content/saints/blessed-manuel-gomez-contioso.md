@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Manuel Gómez Contioso"
 honorific: Blessed
 summary: "Priest. Member of the Salesians of Don Bosco. Martyred in the Spanish Civil War."

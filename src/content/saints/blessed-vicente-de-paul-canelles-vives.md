@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Vicente de Paúl Canelles Vives"
 honorific: Blessed
 summary: "Joined the Carmelites at age 24 but realized that his vocation was work with the sick. Joined the Hospitallers of Saint John of God, making his solemn vows on 28 August 1927. Martyred in the Spanish Civil War. One of the Martyred Hospitallers of Spain."

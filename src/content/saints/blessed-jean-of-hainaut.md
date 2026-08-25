@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Jean of Hainaut"
 honorific: Blessed
 summary: "Civil and canon lawyer. Premonstratensian monk. Canon of the Joyenval monastery in the area of Ile-de-France. Abbot of his house in 1441; he served for over 30 years. Norbertine visitor for areas of Austria, Hungary, and the German areas of Swabia and Bavaria which required him t"

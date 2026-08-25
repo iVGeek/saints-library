@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Macarius of Arabia"
 honorific: Saint
 summary: "Priest. With Saint Eugene, he was scourged and exiled into the Arabian desert for his faith. When they were strong enough, the two returned to preach the faith some more. Martyred in the persecutions of Julian the Apostate."

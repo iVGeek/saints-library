@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Januaria of Rome"
 honorific: Saint
 summary: "Three Christians with the same name who were martyred together."

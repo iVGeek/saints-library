@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Venerable Giovanni Bacile"
 honorific: Venerable
 summary: "Priest of the diocese of Monreale, Italy."

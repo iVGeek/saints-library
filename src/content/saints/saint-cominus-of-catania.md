@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Cominus of Catania"
 honorific: Saint
 summary: "Martyr."

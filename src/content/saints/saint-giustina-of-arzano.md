@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Giustina of Arzano"
 honorific: Saint
 summary: "Young Christian woman in Trieste, Italy who had consecrated herself to God during a period of persecution. A pagan friend of the city's imperial consol Fabiano sought Giuliana in marriage, but she refused, and was discovered to be a Christian. She was arrested, ordered to renouce"

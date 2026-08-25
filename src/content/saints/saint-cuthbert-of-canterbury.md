@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Cuthbert of Canterbury"
 honorific: Saint
 summary: "Born to the nobility. Monk and then abbot at Lyminge Abbey in Kent, England. Bishop of Hereford, England c.736. Archbishop of Canterbury, England c.740."

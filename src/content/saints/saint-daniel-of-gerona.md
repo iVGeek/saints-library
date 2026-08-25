@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Daniel of Gerona"
 honorific: Saint
 summary: "Hermit. Martyr."

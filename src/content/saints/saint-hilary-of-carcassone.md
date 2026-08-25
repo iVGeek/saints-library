@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Hilary of Carcassone"
 honorific: Saint
 title: "Bishop"

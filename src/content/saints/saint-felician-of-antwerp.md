@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Felician of Antwerp"
 honorific: Saint
 summary: "Martyr."

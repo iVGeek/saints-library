@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Reinhildis of Riesenbeck"
 honorific: Saint
 summary: "Martyr."

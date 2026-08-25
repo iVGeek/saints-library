@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed José Polo Benito"
 honorific: Blessed
 summary: "Priest in the archdiocese of Toledo, Spain. Martyred in the Spanish Civil War."

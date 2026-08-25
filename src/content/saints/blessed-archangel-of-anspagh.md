@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Archangel of Anspagh"
 honorific: Blessed
 summary: "Franciscan friar and confessor known for his zeal for the faith and his simple, ascetic life."

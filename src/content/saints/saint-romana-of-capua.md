@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Romana of Capua"
 honorific: Saint
 summary: "One group of seven Christians martyred together. No other details have survived."

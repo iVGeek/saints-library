@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Laurentius Yamada"
 honorific: Blessed
 summary: "Lifelong layman in the archdiocese of Nagasaki, Japan; son of Blessed Michaël Yamada Kasahashi. Domincan tertiary. Martyr."

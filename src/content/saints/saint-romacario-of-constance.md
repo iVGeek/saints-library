@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Romacario of Constance"
 honorific: Saint
 title: "Bishop"

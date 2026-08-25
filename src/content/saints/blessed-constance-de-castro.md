@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Constance de Castro"
 honorific: Blessed
 summary: "Born to the Spanish nobility. Married to Captain Rodrigo Diaz de Andrade. Widowed c.1245 when the captain died fighting the Moors in Granada. Franciscan tertiary, spending the rest of her days in prayer and pious devotions."

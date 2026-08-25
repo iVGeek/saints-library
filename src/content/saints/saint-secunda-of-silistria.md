@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Secunda of Silistria"
 honorific: Saint
 summary: "Martyr."

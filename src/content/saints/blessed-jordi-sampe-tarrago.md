@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Jordi Sampé Tarragó"
 honorific: Blessed
 summary: "Franciscan Capuchin friar, making his profession on 27 January 1929. Ordained a priest on 26 March 1932. Murdered by Marxists in the Spanish Civil War."

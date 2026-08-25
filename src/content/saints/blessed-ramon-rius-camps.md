@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Ramon Rius Camps"
 honorific: Blessed
 summary: "Member of the Claretians, professed on 15 August 1929/a>. Martyred in the Spanish Civil War."

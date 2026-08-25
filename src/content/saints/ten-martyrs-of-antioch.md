@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Ten Martyrs of Antioch"
 honorific: Saint
 summary: "Ten Christians murdered together by Arabs after their seizure of Antioch, Syria. No names or other details about them have come down to us."

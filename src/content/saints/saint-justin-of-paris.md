@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Justin of Paris"
 honorific: Saint
 summary: "Small child martyr. No other information has survived."

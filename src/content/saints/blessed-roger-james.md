@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Roger James"
 honorific: Blessed
 summary: "Sub-treasurer of, sacristan for and the youngest Benedictine monk in Glastonbury Abbey. Arrested for refusing to acknowledge King Henry VIII as head of the Church. Martyr."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Sarapion of Alexandria"
 honorific: Saint
 summary: "Brother of Saint Leontius of Alexandria. Martyred in the persecutions of Diocletian."

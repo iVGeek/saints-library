@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Vicenta of Coria"
 honorific: Saint
 summary: "Nun. Martyr."

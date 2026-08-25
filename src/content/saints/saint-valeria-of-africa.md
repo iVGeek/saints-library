@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Valeria of Africa"
 honorific: Saint
 summary: "Martyr."

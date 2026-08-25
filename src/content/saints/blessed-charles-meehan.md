@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Charles Meehan"
 honorific: Blessed
 summary: "Franciscan priest. Martyred in connection with the Titus Oates Plot."

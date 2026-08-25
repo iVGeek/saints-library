@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Cawrdaf"
 honorific: Saint
 summary: "Chieftain in Brecknock (in modern Wales) and Hereford (in modern England). Abdicated and retired to a monastery under the leadership of Saint Illtyd."

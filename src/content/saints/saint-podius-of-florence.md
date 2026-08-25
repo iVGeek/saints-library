@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Podius of Florence"
 honorific: Saint
 summary: "Podius studied in Pavia, Italy. Priest. Canon of the cathedral in Florence, Italy.  Seventeenth bishop of Florence, serving from 990 to 1002."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Desideratus of Besançon"
 honorific: Saint
 title: "Bishop"

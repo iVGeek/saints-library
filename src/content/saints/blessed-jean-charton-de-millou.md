@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Jean Charton de Millou"
 honorific: Blessed
 summary: "Jesuit priest. One of the Martyrs of September."

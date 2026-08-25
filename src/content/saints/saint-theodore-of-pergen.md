@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Theodore of Pergen"
 honorific: Saint
 summary: "Son of Saint Philippa. Roman soldier. Martyred in the persecutions of Emperor Elagabalus."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Filemon of Antwerp"
 honorific: Saint
 summary: "Martyr."

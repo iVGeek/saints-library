@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Pappus"
 honorific: Saint
 summary: "Martyr."

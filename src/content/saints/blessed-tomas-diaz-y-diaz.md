@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Tomás Díaz y Díaz"
 honorific: Blessed
 summary: "Franciscan Capuchin friar. Murdered by Marxists in the Spanish Civil War."

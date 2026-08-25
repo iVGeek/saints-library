@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Pierre-Florent Leclercq"
 honorific: Blessed
 summary: "Deacon in the diocese of Amiens, France. One of the Martyrs of September."

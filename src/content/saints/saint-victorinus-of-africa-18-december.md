@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Victorinus of Africa"
 honorific: Saint
 summary: "One of a group of 35 martyrs, date unknown. No other information has survived."

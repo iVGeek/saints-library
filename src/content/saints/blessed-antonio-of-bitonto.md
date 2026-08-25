@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Antonio of Bitonto"
 honorific: Blessed
 summary: "Franciscan friar known as a passionate and popular preacher."

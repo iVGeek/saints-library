@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Xavier Sorribas Dot"
 honorific: Blessed
 summary: "Member of the Claretians, professed on 11 February 1926. Ordained a priest on 21 May 1932. Martyred in the Spanish Civil War."

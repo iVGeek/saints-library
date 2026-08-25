@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Étienne-François-Dieudonné de Ravinel"
 honorific: Blessed
 summary: "Deacon in the diocese of Nancy, France. One of the Martyrs of September."

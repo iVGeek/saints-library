@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Moses of Arabia"
 honorific: Saint
 summary: "Arab missionary bishop to the nomadic tribes in the Syro-Arabian desert."

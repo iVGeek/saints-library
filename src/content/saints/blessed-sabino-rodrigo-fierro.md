@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Sabino Rodrigo Fierro"
 honorific: Blessed
 summary: "Augustinian priest. Martyred in the Spanish Civil War."

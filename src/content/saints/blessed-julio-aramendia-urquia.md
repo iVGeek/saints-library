@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Julio Aramendía Urquía"
 honorific: Blessed
 summary: "Member of the Claretians, professed on 15 August 1917. Ordained a priest on 19 September 1925. Martyred in the Spanish Civil War."

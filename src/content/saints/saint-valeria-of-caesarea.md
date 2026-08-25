@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Valeria of Caesarea"
 honorific: Saint
 summary: "Convert. Martyr."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint John of Vilna"
 honorific: Saint
 summary: "Young nobleman at the court of Duke Olgierd. Originally a fire worshipper, he converted to Christianity. Martyred for refusing to eat meat on a day of abstinence."

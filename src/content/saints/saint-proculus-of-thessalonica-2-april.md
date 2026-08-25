@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Proculus of Thessalonica"
 honorific: Saint
 summary: "Martyred in Thessalonica in Greece, date unknown. No other information has survived."

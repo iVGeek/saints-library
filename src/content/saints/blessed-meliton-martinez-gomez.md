@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Melitón Martínez Gomez"
 honorific: Blessed
 summary: "Ordained a priest in the diocese of Guadix, Spain on 1 June 1901. Martyred in the Spanish Civil War."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Sacerdos of Saguntum"
 honorific: Saint
 summary: "Bishop of Saguntum (now Murviedro), Spain."

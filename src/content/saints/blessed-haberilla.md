@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Haberilla of Mehrerau"
 honorific: Blessed
 title: "Hermit"

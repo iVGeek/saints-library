@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Leontius of Rostov"
 honorific: Blessed
 summary: "Missionary to Russia. Monk at the Caves of Kiev. Bishop of Rostov in 1051 where he served for over 25 years."

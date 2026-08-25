@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Edmund of Scotland"
 honorific: Blessed
 summary: "Born a prince, the son of Saint Margaret of Scotland and King Malcoem Ceanmore. Soldier, fighting beside his maternal uncle, Donal Bane. In 1097 he moved to England and entered religious life, becoming a monk in the Cluniac monastery of Montague in Somerset, England."

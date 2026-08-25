@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Sabinian the Abbot"
 honorific: Saint
 summary: "Abbot of Moutier-Saint-Chaffre in the Diocese of Le Puy, France."

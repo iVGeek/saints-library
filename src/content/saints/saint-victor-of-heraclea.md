@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Victor of Heraclea"
 honorific: Saint
 summary: "Martyr."

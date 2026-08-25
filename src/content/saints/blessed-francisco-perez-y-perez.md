@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Francisco Pérez y Pérez"
 honorific: Blessed
 summary: "Member of the Carmelites of the Ancient Observance. Martyred in the Spanish Civil War."

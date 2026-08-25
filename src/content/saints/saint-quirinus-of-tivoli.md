@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Quirinus of Tivoli"
 honorific: Saint
 summary: "Martyr. No reliable information has survived."

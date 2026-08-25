@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Fiachan of Lismore"
 honorific: Saint
 summary: "Monk at Lismore, Ireland. Spiritual student of Saint Carthage the Younger."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Julius of Carthage"
 honorific: Saint
 summary: "One of 39 Christians martyred together in Carthage, date unknown. We have no other information about them."

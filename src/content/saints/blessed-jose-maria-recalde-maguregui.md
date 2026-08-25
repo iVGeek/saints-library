@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed José María Recalde Magúregui"
 honorific: Blessed
 summary: "Franciscan Capuchin priest. Martyred in the Spanish Civil War."

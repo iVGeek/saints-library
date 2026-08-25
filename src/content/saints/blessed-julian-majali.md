@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Julian Majali"
 honorific: Blessed
 summary: "Benedictine monk at San Martino delle Scale monastery in Sicily. Abbot. Hermit in 1464. Highly regarded by kings and popes."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Damhnade"
 honorific: Saint
 summary: "Virgin venerated in Ireland. No other information has survived."

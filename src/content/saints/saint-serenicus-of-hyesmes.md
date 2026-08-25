@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Serenicus of Hyesmes"
 honorific: Saint
 summary: "Born to the Italian nobility. Monk. Hermit near the River Sarthe in France. Abbot of a local monastery."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Majoricus the Martyr"
 honorific: Saint
 summary: "Son of Saint Dionysia. Nephew of Saint Dativa. Child martyr in the persecutions of the Arian Vandal king Huneric."

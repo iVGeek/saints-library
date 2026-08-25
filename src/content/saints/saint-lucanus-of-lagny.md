@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Lucanus of Lagny"
 honorific: Saint
 summary: "Martyr."

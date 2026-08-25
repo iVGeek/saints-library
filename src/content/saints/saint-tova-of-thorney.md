@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Tova of Thorney"
 honorific: Saint
 summary: "Hermitess at Thorney Abbey. Martyr."

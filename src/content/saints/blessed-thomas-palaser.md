@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Thomas Palaser"
 honorific: Blessed
 summary: "Seminarian at Rheims, France, and at Valladolid, Spain. Ordained in 1596. Returned to England to minister to covert Catholics in the north. Arrested almost immediately, but managed to escape. Arrested again, he was condemned for the crime of priesthood. Marytr."

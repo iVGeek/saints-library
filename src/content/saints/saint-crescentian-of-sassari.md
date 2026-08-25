@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Crescentian of Sassari"
 honorific: Saint
 summary: "Martyred in the persecutions of Hadrian."

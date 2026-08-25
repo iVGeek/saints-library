@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Sebastian Montanol"
 honorific: Blessed
 summary: "Dominican missionary to Zacateca, Mexico. When some natives treated the Eucharist with disrespect, Sebastian chastised them; they murdered him."

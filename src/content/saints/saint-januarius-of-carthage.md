@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Januarius of Carthage"
 honorific: Saint
 summary: "Priest. Martyred in the persecutions of Diocletian."

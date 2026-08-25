@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Berhard of Amiens"
 honorific: Saint
 title: "Bishop"

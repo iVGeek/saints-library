@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Genari Pinyol Ricard"
 honorific: Blessed
 summary: "Member of the Claretians, professed on 15 August 1931. Martyred in the Spanish Civil War."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Egole of the Eegoilse Desert"
 honorific: Saint
 summary: "No details about this saint have survived."

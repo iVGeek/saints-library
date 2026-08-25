@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Saturninus of Caesarea"
 honorific: Saint
 summary: "Martyr."

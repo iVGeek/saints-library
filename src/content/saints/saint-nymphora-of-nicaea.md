@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Nymphora of Nicaea"
 honorific: Saint
 summary: "Martyr."

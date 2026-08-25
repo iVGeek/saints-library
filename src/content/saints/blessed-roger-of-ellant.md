@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Roger of Ellant"
 honorific: Blessed
 summary: "Cistercian monk at Lorroyen-Berry, France. Founding abbot of a monastery at Ellent, archdiocese of Rheims, France in 1156. Known for his dedication to the monastic life, and his care for the area sick."

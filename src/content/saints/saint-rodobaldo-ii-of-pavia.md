@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Rodobaldo II of Pavia"
 honorific: Saint
 summary: "Arch-deacon of the cathedral of diocese of Pavia, Italy. Chosen 53rd bishop of Pavia in 1230 by Pope Gregory IX. Preached crusade against Frederick II, which led to his imprisonment. On his released, he worked to reconcile Frederick with Pope Innocent IV. Noted for his charity, p"

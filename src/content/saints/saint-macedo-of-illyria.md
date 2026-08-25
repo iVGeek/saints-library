@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Macedo of Illyria"
 honorific: Saint
 summary: "Son of Saint Philetus of Illyria and Saint Lydia of Illyria; brother of Saint Theoprepius of Illyria. Martyred in the persecutions of Hadrian."

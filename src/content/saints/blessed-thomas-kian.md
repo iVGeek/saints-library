@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Thomas Kian"
 honorific: Blessed
 summary: "Layman in the diocese of Kyoto, Japan. One of the Martyrs of Kyoto."

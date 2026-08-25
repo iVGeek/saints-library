@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Ammonius"
 honorific: Saint
 summary: "Soldier. Arrested with Saint Moseus for the crime of hiring and supporting Christians during the persecutions of Decius. Condemned to labour in the mines of Bithynia. Martyr."

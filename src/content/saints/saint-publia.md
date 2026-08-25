@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Publia"
 honorific: Saint
 summary: "Mother of one son, John, who became bishop of Antioch. Widow. Formed a group of local Christian women into an informal community. When Julian the Apostate came through the area in 362, he stopped to hear the community singing Psalms during their prayers. He took part of their tra"

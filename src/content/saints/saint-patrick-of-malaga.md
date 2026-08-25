@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Patrick of Málaga"
 honorific: Saint
 summary: "Bishop of Malaga, Spain. At one point he was forced to flee to Auvergne, France to escape persecution. Little else is known about him."

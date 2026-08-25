@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Dada of Durostorum"
 honorific: Saint
 summary: "Martyred in the persecutions of Diocletian. No other information have survived."

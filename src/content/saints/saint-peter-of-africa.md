@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Peter of Africa"
 honorific: Saint
 summary: "Martyred in the 5th century by Arian Vandals in North Africa."

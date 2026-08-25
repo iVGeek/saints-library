@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Lua of Limerick"
 honorific: Saint
 summary: "Spiritual student of Saint Comgall of Bangor. Founded several monasteries; tradition says he founded 120 of them in Ireland and Scotland. Known for his ascetic life and his simple gentleness with man and beast."

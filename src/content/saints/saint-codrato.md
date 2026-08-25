@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Codrato"
 honorific: Saint
 summary: "Martyr."

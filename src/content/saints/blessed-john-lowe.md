@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed John Lowe"
 honorific: Blessed
 summary: "Priest for the apostolic vicariate of England. Martyr."

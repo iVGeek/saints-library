@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Patrick of Bayeux"
 honorific: Saint
 title: "Bishop"

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Maximinus of Antioch"
 honorific: Saint
 summary: "Member of the imperial guard of Julian the Apostate. When Julian issued orders prohibiting the veneration of the relics of saints, Maximinus and Saint Juventius protested; they were arrested, scourged, and martyred. Saint John Chrysostom wrote their eulogy."

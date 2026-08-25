@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Columbanus the Younger"
 honorific: Saint
 summary: "A spiritual student of Saint Columbanus of Bobbio in Bangor, Wales, he was one of the 12 monks who travelled to France with Columbanus. He became one of the founding monks at the Luxeuil Abbey. Listed as a martyr, though no details of his death have survived."

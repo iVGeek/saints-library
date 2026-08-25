@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Constantine of Cornwall"
 honorific: Saint
 summary: "Born a Cornish prince, the son of King Paternus. After a life of vice, Constantine had a conversion experience, repented his sins, and studied the faith in Wales and Ireland. Missionary to the Scottish Picts. Worked with Saint Columbanus. Abbot of a monastery at Govan. Two places"

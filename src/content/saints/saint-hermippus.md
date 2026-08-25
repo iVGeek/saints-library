@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Hermippus"
 honorific: Saint
 summary: "Martyr."

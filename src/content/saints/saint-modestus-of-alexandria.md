@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Modestus of Alexandria"
 honorific: Saint
 summary: "Child martyr."

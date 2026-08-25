@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Exuperantius of Ravenna"
 honorific: Saint
 summary: "Bishop of Ravenna, Italy c.397. He served for 20 years and was known not just for his spiritual leadership, but for his great charity."

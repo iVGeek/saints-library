@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Margherita Tornielli"
 honorific: Blessed
 summary: "Poor Clare nun."

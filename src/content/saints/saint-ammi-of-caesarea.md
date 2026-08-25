@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Ammi of Caesarea"
 honorific: Saint
 summary: "Foster-mother of Saint Mamas. Martyred in the persecutions of Aurelian."

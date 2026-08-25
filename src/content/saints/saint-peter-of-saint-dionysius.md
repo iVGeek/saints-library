@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Peter of Saint Dionysius"
 honorific: Saint
 summary: "Mercedarian priest. In 1247, he and Blessed Bernard de Prades were sent to Tunis, Tunisia to ransom Christians held in slavery and prison by the Moors under King Mohammed Alicur. They rescued 209 Christians. Bernard led them back to Spain, and planned to return with more money to"

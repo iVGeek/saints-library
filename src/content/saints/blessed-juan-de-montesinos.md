@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Juan de Montesinos"
 honorific: Blessed
 summary: "Mercedarian friar. Missionary. Martyr."

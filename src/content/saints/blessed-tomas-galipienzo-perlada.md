@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Tomás Galipienzo Perlada"
 honorific: Blessed
 summary: "Member of the Claretians, professed on 15 August 1914. Ordained a priest on 21 May 1921. Martyred in the Spanish Civil War."

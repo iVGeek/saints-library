@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed John Zakoly"
 honorific: Blessed
 summary: "Bishop of Csanád, Hungary. Pauline monk. Prior of the house at Diósgyor (modern Miskolc), Hungary."

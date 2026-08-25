@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Mariano Brandi"
 honorific: Blessed
 summary: "Franciscan tertiary. Noted in Franciscan writings for his effectiveness against demons."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Cynibild of Laestingaeu"
 honorific: Saint
 summary: "Born to the nobility, the brother of Saint Chad and Saint Cedd. Educated at Lindisfarne by Saint Aidan and Saint Finan, and then in Ireland. Priest. Evangelized the Anglo-Saxons in Northumbria. Founded a monastery in Laestingaeu in north Yorkshire (modern Lastingham), England in"

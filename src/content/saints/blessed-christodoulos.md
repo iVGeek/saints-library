@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Christodoulos"
 honorific: Blessed
 summary: "Layman tailor in Thessaloniki during a period of occupation by Ottoman Turks. Seeing local Christians giving in to pressure and proclaming themselves Muslim, Christodoulus took a cross and went into the streets to encourage Christians, and to offer them the cross to kiss as a sig"

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Castor of Tarsus"
 honorific: Saint
 summary: "Martyred in one of the early persecutions in Asia Minor."

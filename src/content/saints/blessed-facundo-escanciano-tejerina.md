@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Facundo Escanciano Tejerina"
 honorific: Blessed
 summary: "Franciscan Capuchin monk. Martyred in the Spanish Civil War."

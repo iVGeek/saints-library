@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Leovigild of Cordoba"
 honorific: Saint
 summary: "Priest. Monk in Cordoba, Spain. Martyred in the persecutions of Abderrahman II."

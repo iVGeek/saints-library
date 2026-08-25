@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Maximus of Ancyra"
 honorific: Saint
 summary: "One of a group of seventeen martyrs that died together."

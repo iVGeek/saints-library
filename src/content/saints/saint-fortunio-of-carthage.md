@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Fortunio of Carthage"
 honorific: Saint
 summary: "Imprisoned for his faith, he spent his time ministering to other prisoners. Martyred in the persecutions of Decius."

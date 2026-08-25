@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Ioannes Nagata Matashichi"
 honorific: Blessed
 summary: "Layman sailor of the archdiocese of Nagasaki, Japan. Member of the Confraternity of the Rosary. Martyrs."

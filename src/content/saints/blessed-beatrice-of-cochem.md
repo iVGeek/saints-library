@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Beatrice of Cochem"
 honorific: Blessed
 summary: "A Premonstratensian nun who lived her entire religious life in the monastery of Porta Angelica in Kochem, Rhineland-Palatinate (in modern Germany)."

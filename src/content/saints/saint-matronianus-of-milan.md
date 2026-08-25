@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Matronianus of Milan"
 honorific: Saint
 summary: "Hermit. No other information has survived."

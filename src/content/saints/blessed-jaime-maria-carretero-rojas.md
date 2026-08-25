@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Jaime María Carretero Rojas"
 honorific: Blessed
 summary: "Professed cleric in the Carmelites of the Ancient Observance. Martyred in the Spanish Civil War."

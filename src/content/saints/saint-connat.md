@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Connat"
 honorific: Saint
 summary: "Nun and abbess of Saint Brigid's convent in Kildare, Ireland."

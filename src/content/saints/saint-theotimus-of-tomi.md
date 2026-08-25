@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Theotimus of Tomi"
 honorific: Saint
 summary: "Bishop of Scytha or Tomi on the Black Sea. His sanctity won the admiration even of the barbarians. Defended Origen against Saint Epiphanius of Salamis. Evangelized the tribes of the Lower Danube."

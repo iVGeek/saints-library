@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Ronan of Kilmaronen"
 honorific: Saint
 title: "Bishop"

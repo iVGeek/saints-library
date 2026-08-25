@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Emiliano of Valence"
 honorific: Saint
 title: "Bishop"

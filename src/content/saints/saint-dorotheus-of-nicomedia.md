@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Dorotheus of Nicomedia"
 honorific: Saint
 summary: "Favourite and trusted servant in the court of Emperor Diocletian. Convert to Christianity. Tortured and martyred with a group of other Christians during the persecutions of Diocletian."

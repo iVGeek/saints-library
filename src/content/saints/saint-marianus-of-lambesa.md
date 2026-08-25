@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Marianus of Lambesa"
 honorific: Saint
 summary: "Lector. Martyr."

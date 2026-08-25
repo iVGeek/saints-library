@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Askega of Croyland"
 honorific: Saint
 summary: "Monk at Croyland Abbey. Martyred by pagan Danes."

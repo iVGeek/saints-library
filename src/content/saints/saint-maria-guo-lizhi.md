@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Maria Guo Lizhi"
 honorific: Saint
 summary: "Married lay woman. Imprisoned and tortured with seven members of her family during the Boxer Rebellion, she spent her time in prison encouraging the others to keep their faith. Martyr."

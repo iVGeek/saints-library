@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Paul of Numidia"
 honorific: Saint
 summary: "Second century martyr."

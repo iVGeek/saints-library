@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Johannes Riedgasser"
 honorific: Blessed
 summary: "Member of the Premonstratensians. Canon of the monastery in Obermarchtal, Swabia (in modern Germany); spiritual student of Blessed Ulkirk. Abbot of the house in 1591. His dedication to the discipline and rule of the Order led to his appointment as visitor in the region, responsib"

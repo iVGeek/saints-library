@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Eusebius of Languedoc"
 honorific: Saint
 summary: "Martyr. Saint Gregory of Tours wrote about him."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Everard of Georgenthal"
 honorific: Blessed
 summary: "Born to the nobility, the son of Count Adolf I of Berg and his wife Adelheid von Lauffen; he became the Count of Berg (in the modern Rhineland in Germany). However, he felt a call to religious life and gave up his position to become a Cistercian monk at Morimond Abbey in Parnoy-e"

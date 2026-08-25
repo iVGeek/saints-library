@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Teige O'Daly"
 honorific: Blessed
 summary: "Franciscan priest. One of the Irish Martyrs."

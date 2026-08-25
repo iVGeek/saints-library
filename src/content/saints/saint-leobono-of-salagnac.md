@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Leobono of Salagnac"
 honorific: Saint
 title: "Hermit"

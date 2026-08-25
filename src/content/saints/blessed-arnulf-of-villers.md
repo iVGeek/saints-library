@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Arnulf of Villers"
 honorific: Blessed
 summary: "After a wasted youth, at age 22 he had a conversion and became a Cistercian lay brother at Villers, Belgium. There he became known for the his ascetic life and charity, his prayer life, and desire to make up for his past. Had a great devotion to the Blessed Virgin Mary."

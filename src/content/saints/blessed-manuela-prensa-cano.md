@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Manuela Prensa Cano"
 honorific: Blessed
 summary: "Conceptionist nun. Martyred in the Spanish Civil War."

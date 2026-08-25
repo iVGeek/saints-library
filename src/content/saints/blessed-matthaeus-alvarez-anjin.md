@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Matthaeus Alvarez Anjin"
 honorific: Blessed
 summary: "Layman in the archdiocese of Nagasaki, Japan. Member of the Lay Dominicans and Secular Franciscans. Martyr."

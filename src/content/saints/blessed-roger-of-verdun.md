@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Roger of Verdun"
 honorific: Blessed
 summary: "Born to the nobility. Courtier to Emperor Lothair III of Süpplingenburg. Having heard Saint Norbert of Xanten preach, Roger gave up the worldly life to become a wandering Premonstratensian preacher. Monk at the Prémontré monastery in Laon, France. In 1135 he was assigned by Bless"

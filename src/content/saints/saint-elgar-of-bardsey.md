@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Elgar of Bardsey"
 honorific: Saint
 summary: "Spent several years in captivity in Ireland. Hermit on the Isle of Badsey, Carnarvonshire, Wales."

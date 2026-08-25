@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Degan"
 honorific: Saint
 summary: "Sixth century spiritual student of Saint Petroc in Cornwall."

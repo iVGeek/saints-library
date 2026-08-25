@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Martius of Auvergne"
 honorific: Saint
 title: "Hermit"

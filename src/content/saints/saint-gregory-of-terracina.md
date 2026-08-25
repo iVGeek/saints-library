@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Gregory of Terracina"
 honorific: Saint
 summary: "Brother of Saint Speciosus. Spiritual student of Saint Benedict of Nursia. Benedictine monk at Terracina, Italy. Pope Saint Gregory the Great wrote of him in his Dialogues."

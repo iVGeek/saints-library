@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Venerable Louis Tijssen"
 honorific: Venerable
 summary: "Priest in the diocese of Roermond, Netherlands."

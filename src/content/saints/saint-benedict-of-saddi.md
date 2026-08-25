@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Benedict of Saddi"
 honorific: Saint
 summary: "Martyred in the persecutions of Decius."

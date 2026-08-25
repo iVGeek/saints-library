@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Solone of Concordia"
 honorific: Saint
 summary: "Evangelist in the area of Iulia Concordia (modern Concodia Saggitaria), Italy who brought many people to the faith, and then died with them during the persecutions Diocletian. One of the Martyrs of Concordia."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Robert Sutton"
 honorific: Blessed
 summary: "Layman martyr."

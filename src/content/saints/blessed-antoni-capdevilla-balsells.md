@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Antoni Capdevilla Balsells"
 honorific: Blessed
 summary: "Claretian brother. Martyred in the Spanish Civil War."

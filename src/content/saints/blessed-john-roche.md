@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed John Roche"
 honorific: Blessed
 summary: "Waterman, and servant of Saint Margaret Ward. He helped Father Richard Watson, a condemned priest, escape by meeting him outside the prison with a boat, then changing clothes with him to lead pursuers off his trail. Condemned to death for aiding a priest, he was offered freedom i"

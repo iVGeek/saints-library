@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Domitian of Lerins"
 honorific: Saint
 summary: "Orphaned young, when he was old enough he gave away all his possessions to the poor and became a monk in Rome, Italy. He emigrated to Gaul and became a monk at Lerins Abbey. Built an oratory dedicated to Saint Christopher in the neighborhood of Lyons, France, and lived there as a"

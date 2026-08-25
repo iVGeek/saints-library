@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Demosthenes Ranzi"
 honorific: Blessed
 summary: "Graduated with a law degree from the University of Turin, Italy. Joined the Franciscans in 1477 at the convent of Santa Maria degli Angeli in Turin. A noted preacher, in 1497 he was given a commission by Pope Alexander VI to preach against Waldensianism."

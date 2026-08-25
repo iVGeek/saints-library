@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Donatus the Martyr"
 honorific: Saint
 summary: "Martyred with 23 companions. No other information has survived."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint John of Ratzenburg"
 honorific: Saint
 summary: "Missionary to Germany. Bishop of Ratzenburg, Germany. Evangelized the Baltic Coast. Martyred by local pagans."

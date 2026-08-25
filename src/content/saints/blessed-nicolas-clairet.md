@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Nicolas Clairet"
 honorific: Blessed
 summary: "Priest in the archdiocese of Paris, France. He served as hospital chaplain with a special ministry to the terminally ill. In the French Revolution, he refused to take the oath of loyalty to the civil government. One of the Martyrs of September."

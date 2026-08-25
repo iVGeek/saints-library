@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Diman Dubh of Connor"
 honorific: Saint
 summary: "Monk. Spiritual student of Saint Columba. Sixth century Apostolic Delegate to Ireland. Abbot at Connor, Ireland. Bishop of Connor. One of the bishops who received a letter from the Roman Church in 640 about the controversy over Easter dating, and the Pelagian heresy."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Josep Capdevila Portet"
 honorific: Blessed
 summary: "Member of the Claretians. Priest. Martyred in the Spanish Civil War."

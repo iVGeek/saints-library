@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Rusticus of Lyon"
 honorific: Saint
 title: "Bishop"

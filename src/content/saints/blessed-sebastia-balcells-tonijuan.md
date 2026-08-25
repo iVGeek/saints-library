@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Sebastià Balcells Tonijuan"
 honorific: Blessed
 summary: "Claretian brother. Martyred in the Spanish Civil War."

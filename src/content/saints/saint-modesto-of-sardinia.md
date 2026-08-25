@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Modesto of Sardinia"
 honorific: Saint
 summary: "Deacon. Martyred in the persecutions of Diocletian."

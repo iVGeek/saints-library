@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint John Cirita"
 honorific: Saint
 summary: "Benedictine monk. Hermit in Galacia, Spain. Monk at Toronca, Portugal, which he helped turn into a Cistercian monastery. Wrote the Rule of the Knights of Avis."

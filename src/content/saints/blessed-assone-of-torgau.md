@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Assone of Torgau"
 honorific: Blessed
 summary: "Franciscan friar known for the holiness of his life and as a miracle worker."

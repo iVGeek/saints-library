@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Mary Mamala"
 honorific: Blessed
 summary: "Member of the family of the dukes of Medina-Sidonia. Married Henry de Guzmán. Widow. Joined the Poor Clares in Seville, Spain."

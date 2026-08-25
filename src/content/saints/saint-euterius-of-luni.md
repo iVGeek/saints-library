@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Euterius of Luni"
 honorific: Saint
 title: "Bishop"

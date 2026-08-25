@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Beatrix of Lens"
 honorific: Blessed
 summary: "Founded the Benedictine Cistercian monastery of Epinklieu near Mons, Belgium and lived the rest of her life as a nun there."

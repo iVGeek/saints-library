@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Septimus of Carthage"
 honorific: Saint
 summary: "Monk. Martyred in the persecutions of the Arian King Hunneric."

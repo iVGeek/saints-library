@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Dionysius the Martyr"
 honorific: Saint
 summary: "Martyr. No other reliable information has survived."

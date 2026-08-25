@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Pompejanus"
 honorific: Saint
 summary: "Martyred at age 26. No other information has survived."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Victorinus of Ravenna"
 honorific: Saint
 summary: "Martyr."

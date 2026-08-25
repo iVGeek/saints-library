@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Venerando the Centurian"
 honorific: Saint
 summary: "Roman centurian. Convert to Christianity. Martyr."

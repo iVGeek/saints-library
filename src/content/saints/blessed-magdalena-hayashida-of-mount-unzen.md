@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Magdalena Hayashida of Mount Unzen"
 honorific: Blessed
 summary: "Married layman of the archdiocese of Nagasaki, Japan. Martyr."

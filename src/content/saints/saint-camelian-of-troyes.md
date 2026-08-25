@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Camelian of Troyes"
 honorific: Saint
 title: "Bishop"

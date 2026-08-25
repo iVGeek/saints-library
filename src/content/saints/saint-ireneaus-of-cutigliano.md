@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Ireneaus of Cutigliano"
 honorific: Saint
 summary: "Martyr."

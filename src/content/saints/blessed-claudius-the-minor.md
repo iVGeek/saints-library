@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Claudius the Minor"
 honorific: Blessed
 summary: "Franciscan monk."

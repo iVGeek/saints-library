@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Socrates of Nicaea"
 honorific: Saint
 summary: "Priest in Bithynia (modern Iznik, Turkey). Martyr."

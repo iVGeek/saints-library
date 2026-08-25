@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Nathchaoimhe of Terryglass"
 honorific: Saint
 summary: "Monk. Abbot at Tir-da-ghlas (Terryglass), Ireland."

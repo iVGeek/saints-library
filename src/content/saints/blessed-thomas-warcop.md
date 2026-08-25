@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Thomas Warcop"
 honorific: Blessed
 summary: "Landed gentleman in Yorkshire, England. Arrested and executed for the crime of giving shelter to Blessed William Andleby, a priest. Martyr."

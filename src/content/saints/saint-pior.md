@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Pior"
 honorific: Saint
 summary: "Hermit in a cave in the Baid desert on the Nile in Egypt. Spiritual student of Saint Anthony the Abbot."

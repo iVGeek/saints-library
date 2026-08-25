@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Nicolas of Montecorpino"
 honorific: Blessed
 summary: "Franciscan Friar Minor. Martyred for trying to bring apostates back to the faith."

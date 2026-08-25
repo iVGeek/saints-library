@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Cassian of Benevento"
 honorific: Saint
 title: "Bishop"

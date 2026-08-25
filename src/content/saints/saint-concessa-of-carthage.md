@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Concessa of Carthage"
 honorific: Saint
 summary: "Martyr venerated in Carthage, North Africa."

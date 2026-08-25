@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Nissen of Wexford"
 honorific: Saint
 summary: "Convert, brought to the faith by Saint Patrick. Fifth-century abbot of Montgarth Abbey, Wexford, Ireland."

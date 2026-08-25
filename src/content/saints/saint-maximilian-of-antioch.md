@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Maximilian of Antioch"
 honorific: Saint
 summary: "Christian soldier of the Herculean cohort. Ordered by Julian the Apostate to remove the monogram of Christ from the cohort's standard; he refused. Martyr."

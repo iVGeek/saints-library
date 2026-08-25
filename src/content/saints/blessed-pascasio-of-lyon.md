@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Pascasio of Lyon"
 honorific: Blessed
 title: "Bishop"

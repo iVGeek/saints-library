@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Hermes of Numidia"
 honorific: Saint
 summary: "Martyred in the persecution of Maximian Herculeus."

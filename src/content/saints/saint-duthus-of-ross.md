@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Duthus of Ross"
 honorific: Saint
 summary: "Educated in Ireland. Bishop of Ross, Scotland."

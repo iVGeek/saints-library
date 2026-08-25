@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Modesto Allepuz Vera"
 honorific: Blessed
 summary: "Married layman in the diocese of Cartegena, Spain. Member of the Association of the Sons of Mary of the Miraculous Medal. Martyred in the Spanish Civil War."

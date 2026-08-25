@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Eustosius of Antioch"
 honorific: Saint
 summary: "Martyred with 22 companions."

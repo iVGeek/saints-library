@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Zacharias the Angelic"
 honorific: Saint
 summary: "Hermit and monk on Mount Mercury, Lucania, Italy."

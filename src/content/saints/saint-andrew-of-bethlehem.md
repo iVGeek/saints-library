@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Andrew of Bethlehem"
 honorific: Saint
 summary: "First century convert martyred in the persecutions of King Herod Antipas."

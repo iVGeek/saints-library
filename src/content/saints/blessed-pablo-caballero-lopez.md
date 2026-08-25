@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Pablo Caballero López"
 honorific: Blessed
 summary: "Priest in the Salesians of Don Bosco. Martyred in the Spanish Civil War."

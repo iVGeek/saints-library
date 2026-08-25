@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Hypatius"
 honorific: Saint
 summary: "Martyr."

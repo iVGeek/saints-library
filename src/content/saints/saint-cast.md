@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Cast"
 honorific: Saint
 summary: "Monk in 6th-century Ireland and Wales. Spiritual student of Saint Jacut. He travelled from Wales to Armorica, an area of France now known as Brittany; legend says that once, when he wanted to consult with Saint Jacut, the sea split and allowed him to walk back to the monastery. P"

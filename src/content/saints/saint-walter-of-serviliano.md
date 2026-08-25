@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Walter of Serviliano"
 honorific: Saint
 summary: "Benedictine hermit. Abbot. Founded the monastery of Serviliano in the Marches of Ancona, Italy, and served as its first abbot. The house became a leader in the resurgence of the Faith during that period."

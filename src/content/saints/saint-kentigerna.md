@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Kentigerna"
 honorific: Saint
 summary: "Daughter of Prince Kelly of Leinster, and Saint Coellen. Sister of Saint Comghan. Married lay woman. Mother of Saint Fillan. When her bother Comghan had to flee the country due to opposition to his dedication to the faith, Kentigerna fled to Scotland. Widow. Anchoress on Inchebro"

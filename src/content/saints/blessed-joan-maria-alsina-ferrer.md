@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Joan Maria Alsina Ferrer"
 honorific: Blessed
 summary: "Member of the Claretians, professed on 8 December 1900. Ordained a priest on 22 December 1907. Martyred in the Spanish Civil War."

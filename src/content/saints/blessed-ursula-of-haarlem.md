@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Ursula of Haarlem"
 honorific: Blessed
 summary: "Beguine sister. Martyred by Calvinists."

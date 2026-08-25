@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Dominicus of Saint Francis"
 honorific: Blessed
 summary: "While studying to join the Franciscan Friars Minor (Alcantarines), Dominicus was imprisoned for his faith in Omura, Japan. There he joined the Franciscans, receiving the habit from Blessed Anthony of Saint Bonaventure. Martyr."

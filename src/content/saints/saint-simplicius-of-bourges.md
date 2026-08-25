@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Simplicius of Bourges"
 honorific: Saint
 summary: "Married layman father of a large family; his wife was a member of the Roman senatorial Paladii family. His reputation for personal holiness led local bishops, led by Sidonius Apollinaris of Clermont, to choose him as bishop of Bourges, France c.470. Defended the Church against Ar"

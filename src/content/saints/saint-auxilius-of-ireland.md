@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Auxilius of Ireland"
 honorific: Saint
 summary: "Worked with Saint Patrick to evangelize Ireland in the fifth century. Bishop of Killossey, Ireland."

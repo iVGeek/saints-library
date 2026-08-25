@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint John the Georgian"
 honorific: Saint
 summary: "Born to the 10th century Iberian nobility. Married layman, and outstanding military commander. Father of Saint Euthymius the Illuminator. With his wife's approval, he became a monk on Mount Olympus in Bithynia. Travelled to Constantinople to his son, who was being held hostage by"

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Aitheachan of Colpe"
 honorific: Saint
 summary: "Sixth century. While listed in multiple martyrologies, no details about him have surived."

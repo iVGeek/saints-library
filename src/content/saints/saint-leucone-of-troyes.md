@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Leucone of Troyes"
 honorific: Saint
 title: "Bishop"

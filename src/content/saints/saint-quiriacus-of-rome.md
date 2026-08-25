@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Quiriacus of Rome"
 honorific: Saint
 summary: "Martyr."

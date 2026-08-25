@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed John Bathe"
 honorific: Blessed
 summary: "Jesuit priest. One of the Irish Martyrs."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Herefrith of Lindsey"
 honorific: Saint
 summary: "Bishop of Lindsey, England. Martyred by Danes."

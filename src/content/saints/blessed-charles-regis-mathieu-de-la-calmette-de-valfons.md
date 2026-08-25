@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Charles-Regis-Mathieu de la Calmette de Valfons"
 honorific: Blessed
 summary: "Count of Valfons. Layman in the archdiocese of Paris, France. One of the Martyrs of September."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Engelmer"
 honorific: Saint
 summary: "Son of a poor labourer. Known for his piety, he retreated to live as a hermit near Passau, Germany. Martyr."

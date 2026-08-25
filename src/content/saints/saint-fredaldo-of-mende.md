@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Fredaldo of Mende"
 honorific: Saint
 summary: "Ninth-century bishop of Mende, Aquitaine (in modern France). Worked to eradicate idolatry in the region. Martyr."

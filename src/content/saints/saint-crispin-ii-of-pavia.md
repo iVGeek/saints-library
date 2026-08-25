@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Crispin II of Pavia"
 honorific: Saint
 summary: "Fifth century bishop of Pavia, Lombardy, Italy. Supported the acts of the Council of Milan."

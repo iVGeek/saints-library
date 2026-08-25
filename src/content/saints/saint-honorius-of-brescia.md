@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Honorius of Brescia"
 honorific: Saint
 summary: "Hermit near Brescia, Italy. Bishop of Brescia c.577."

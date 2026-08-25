@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Balbina of Assisi"
 honorific: Blessed
 summary: "A spiritual student of Saint Clare of Assisi, Balbina became a Poor Clare nun at the monastery of San Damiano. Helped found the Poor Clare monastery at Spello, Italy."

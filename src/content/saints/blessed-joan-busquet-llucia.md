@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Joan Busquet Llucia"
 honorific: Blessed
 summary: "Member of the Claretians, professed on 25 March 1884. Ordained a priest on 15 August 1891. Martyred in the Spanish Civil War."

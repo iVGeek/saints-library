@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Zenobius of Antioch"
 honorific: Saint
 summary: "Physcian. Priest in Sidon. Martyred in the persecutions of Diocletian."

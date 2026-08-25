@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Cogitosus"
 honorific: Saint
 summary: "Eighth-century monk at Kildare, Ireland. Wrote a biography of Saint Brigid."

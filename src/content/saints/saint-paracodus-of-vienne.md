@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Paracodus of Vienne"
 honorific: Saint
 summary: "Bishop of Vienne, France in 199. Pope Victor consulted him about the proper dates for Easter. Led his diocese during the persecutions of Emperor Alexander Severus."

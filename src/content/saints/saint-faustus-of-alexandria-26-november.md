@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Faustus of Alexandria"
 honorific: Saint
 summary: "Priest in Alexandria, Egypt. Martyred with approximately 600 Christians in the persecution of Maximian Galerius."

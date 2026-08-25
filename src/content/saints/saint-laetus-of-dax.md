@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Laetus of Dax"
 honorific: Saint
 summary: "Deacon in the diocese of Dax, France. Worked with Saint Vincent of Xaintes."

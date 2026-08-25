@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Elsiar of Lavedan"
 honorific: Saint
 summary: "Monk at Saint-Savin, Lavedan, France."

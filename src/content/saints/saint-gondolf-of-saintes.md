@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Gondolf of Saintes"
 honorific: Saint
 summary: "Layman servant of Saint Grimoald of Saintes. Martyred by pagan Frisian invaders."

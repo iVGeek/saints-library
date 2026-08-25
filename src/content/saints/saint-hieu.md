@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Hieu"
 honorific: Saint
 summary: "Nun, receiving the veil from Saint Aidan of Lindesfarne. Abbess at Tadcaster, Yorkshire, England. Some writings identify her with Saint Bega."

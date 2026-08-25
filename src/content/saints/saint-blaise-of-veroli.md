@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Blaise of Veroli"
 honorific: Saint
 summary: "Martyr."

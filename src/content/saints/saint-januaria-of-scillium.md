@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Januaria of Scillium"
 honorific: Saint
 summary: "One of a group of twelve Christians martyred together, the final deaths in the persecutions of Emperor Marcus Aurelius. Upon their conviction for the crime of being Christians, the group was offered 30 days to reconsider their allegiance to the faith; they all declined. Their off"

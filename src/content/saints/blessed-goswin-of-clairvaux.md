@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Goswin of Clairvaux"
 honorific: Blessed
 summary: "Benedictine Cistercian monk at Clairvaux Abbey, and then at Cheminon, France."

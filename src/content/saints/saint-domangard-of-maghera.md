@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Domangard of Maghera"
 honorific: Saint
 summary: "Hermit on the mountain now Slieve-Donard, Ireland after his memory."

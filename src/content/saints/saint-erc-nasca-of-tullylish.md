@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Erc Nasca of Tullylish"
 honorific: Saint
 summary: "Confessor of the faith in Ireland. His memorial is found on several calendars and martyrologies, but the details of his life have been lost."

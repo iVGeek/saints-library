@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Uni"
 honorific: Saint
 summary: "Brother of Saint Breaca of Cornwall. Immigrated from Ireland to Cornwall, England. No other details about him have survived."

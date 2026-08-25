@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Cynwl"
 honorific: Saint
 summary: "Brother of Saint Deiniol. Bishop of Bangor, Wales. Known for his ascetic life, there are several churches dedicated to him."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed John Amero"
 honorific: Blessed
 summary: "Dominican lay-brother at Baeza, Spain. Noted for having only two interests in life: study and prayer. Directed by his spiritual directors to take holy orders."

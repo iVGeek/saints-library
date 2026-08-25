@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Diego of Valdieri"
 honorific: Blessed
 summary: "Franciscan friar minor. Sent to the Pinerolo region to preach against Waldensianism, he brought many back to the faith."

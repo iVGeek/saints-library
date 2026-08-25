@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Benignus of Moyenmoutier"
 honorific: Saint
 summary: "Twin brother of Saint John. Monk at Moyenmoutier. Spiritual student of Saint Hidulphus."

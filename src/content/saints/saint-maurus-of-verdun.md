@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Maurus of Verdun"
 honorific: Saint
 summary: "Bishop of Verdun, Gaul (in modern France) from 353 to 383."

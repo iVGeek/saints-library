@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Blanca de Lucía y Ortiz de Velasco"
 honorific: Blessed
 summary: "Married lay woman in the diocese of Córdoba, Spain. Martyred in the Spanish Civil War."

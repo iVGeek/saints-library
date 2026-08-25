@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Venerable Elisabetta Tasca Serena"
 honorific: Venerable
 summary: "Married lay woman in the diocese of Vicenza, Italy."

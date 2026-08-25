@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Peter II of La Cava"
 honorific: Blessed
 summary: "Benedictine monk at Santissima Trinita monastery, Cava dei Tirreni, Salerno, Campania, Italy under the leadership of Blessed Benincasa. Abbot of the house in 1195. Obtained the support of Emperor Henry VI for the house. Involved in the region's politics of the day. Founded the ho"

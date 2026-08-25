@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Leontius of Aegea"
 honorific: Saint
 summary: "Martyred with Saints Cosmas and Damian in the persecutions of Diocletian."

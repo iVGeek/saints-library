@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Nectarius of Constantinople"
 honorific: Saint
 summary: "Born to the imperial Roman nobility, the son of a senator of Constantinople (modern Istanbul, Turkey). Imperial magistrate. Bishop of Constantinople in 381; even though Necatrius was married and a yet un-baptized Christian catechumen layman, his piety and skills were obvious. One"

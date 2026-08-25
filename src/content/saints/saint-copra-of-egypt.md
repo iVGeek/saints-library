@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Copra of Egypt"
 honorific: Saint
 summary: "Desert hermit in Egypt. Helped lead Saint Patermutius to the faith. At age 45 he was arrested in the persecutions of Julian the Apostate for refusing to sacrifice to idols. Through flattery and the offer of riches, Julian convinced Copra to renounce Christianity. Copra was then s"

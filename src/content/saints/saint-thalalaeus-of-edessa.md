@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Thalalaeus of Edessa"
 honorific: Saint
 summary: "Martyred in the persecutions of Numerian."

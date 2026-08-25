@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Felix of Sentianum"
 honorific: Saint
 summary: "Martyred in the persecutions of Maximian Herculeaus."

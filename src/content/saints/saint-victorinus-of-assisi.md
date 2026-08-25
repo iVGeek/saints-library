@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Victorinus of Assisi"
 honorific: Saint
 summary: "Chosen bishop of Assisi, Italy by Pope Fabian in the mid-3rd-century. Martyred with several companions outside of Assisi during the persecutions of emperor Gordian III."

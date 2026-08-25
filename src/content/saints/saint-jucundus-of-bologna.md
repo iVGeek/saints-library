@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Jucundus of Bologna"
 honorific: Saint
 summary: "Bishop of Bologna, Italy."

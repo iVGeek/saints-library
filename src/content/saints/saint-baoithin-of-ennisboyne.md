@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Baoithin of Ennisboyne"
 honorific: Saint
 summary: "No information available."

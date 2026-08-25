@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Nicephorus of Antioch"
 honorific: Saint
 summary: "Martyred in the persecutions of Valerian."

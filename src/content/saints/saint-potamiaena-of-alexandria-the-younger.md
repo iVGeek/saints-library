@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Potamiaena of Alexandria the Younger"
 honorific: Saint
 summary: "Young Christian girl martyred in the persecutions of Diocletian."

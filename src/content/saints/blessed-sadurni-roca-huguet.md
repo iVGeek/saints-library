@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Sadurní Roca Huguet"
 honorific: Blessed
 summary: "Member of the Hospitallers of Saint John of God, making his final vows on 11 November 1914. Martyred in the Spanish Civil War. One of the Martyred Hospitallers of Spain."

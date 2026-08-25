@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Malou of Hautvillers"
 honorific: Saint
 summary: "Priest at Hautvillers, Marne, France. No other information has survived."

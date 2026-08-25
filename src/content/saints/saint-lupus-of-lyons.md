@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Lupus of Lyons"
 honorific: Saint
 summary: "Monk near Lyons, France. Archbishop of Lyons. Suffered in the turmoil which followed the death of Saint Sigismund of Burgundy."

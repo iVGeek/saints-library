@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Paul of Narbonne"
 honorific: Saint
 summary: "Third century priest, ordained in Rome, Italy. Missionary to Gaul. Very successful in Narbonne, France."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Ruperto García Arce"
 honorific: Blessed
 searchAliases:

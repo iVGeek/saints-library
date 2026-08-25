@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Theodorus of Apamea"
 honorific: Saint
 summary: " Strong defender of sacred ima Son of Venerable Jonah the Presbyter. Brother of Saint Theophanes of Nicaea. Grew up in Jerusalem as a pious youth, but little is known of his early life. Monk at Saint Sabas' laura in Jerusalem. Known for his intelligence and fidelity to their rule."

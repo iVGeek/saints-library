@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Theodore of Verona"
 honorific: Saint
 summary: "Early 6th century bishop of Verona, Italy who was noted for tireless preaching and evangelizing to the Goths in the area."

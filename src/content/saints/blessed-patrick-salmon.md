@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Patrick Salmon"
 honorific: Blessed
 summary: "Servant of Blessed Thomas Bosgrave. With Thomas, he was arrested and martyred for the crime of sheltering priests."

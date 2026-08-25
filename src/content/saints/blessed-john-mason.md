@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed John Mason"
 honorific: Blessed
 summary: "Layman. Servant to a Mr Owen of Oxfordshire. Arrested for harbouring priests in general, and Saint Edmund Gennings in particular, physically restraining the men who were going to arrest Gennings during Mass. Martyr."

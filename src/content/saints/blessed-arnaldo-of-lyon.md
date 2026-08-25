@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Arnaldo of Lyon"
 honorific: Blessed
 summary: "Some records list him as a martyred bishop of Lyon, France, but the records of bishops in Lyon itself are very thorough and do not mention him."

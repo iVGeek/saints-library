@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Tangwn ab Caradog"
 honorific: Saint
 summary: "Sixth-century confessor. Brother of Saint Cadfarch, Saint Cawrdaf, and Saint Maethlu, legend says he was the son of Caradog Freichfras, a Knight of the Round Table."

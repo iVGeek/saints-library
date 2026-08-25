@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Festus of Tuscany"
 honorific: Saint
 summary: "Martyr honoured in Tuscany, Italy. No other information has survived."

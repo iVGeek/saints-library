@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Macarius the Potter"
 honorific: Saint
 summary: "Potter. Martyred in the persecutions of Decius."

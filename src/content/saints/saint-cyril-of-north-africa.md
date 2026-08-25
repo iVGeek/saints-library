@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Cyril of North Africa"
 honorific: Saint
 summary: "Bishop. Martyred in North Africa."

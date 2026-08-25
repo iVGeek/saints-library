@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Theogenes of Cyzicus"
 honorific: Saint
 summary: "Priest. Bishop of Parios, Asia Minor. Ordered to join the imperial Roman army during the reign of emperor Licinius, he refused as it would require him to sacrifice to idols. Arrested, he was imprisoned without food for 40 days; he prayed for and converted some of soldiers, and su"

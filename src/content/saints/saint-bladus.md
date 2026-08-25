@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Bladus"
 honorific: Saint
 summary: "Early bishop on the Isle of Man."

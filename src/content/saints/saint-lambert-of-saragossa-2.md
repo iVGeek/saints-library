@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Lambert of Saragossa"
 honorific: Saint
 summary: "Having survived the official persecutions of Diocletian, Lambert was murdered by local pagans who refused to accept any toleration of Christianity. Martyr."

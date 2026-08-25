@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Melchu of Armagh"
 honorific: Saint
 title: "Bishop"

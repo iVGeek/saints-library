@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Jean-François Burté"
 honorific: Blessed
 summary: "Franciscan Conventuals priest. Teacher. One of the Martyrs of September."

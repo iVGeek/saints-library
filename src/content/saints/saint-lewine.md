@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Lewine"
 honorific: Saint
 summary: "Fourth century nun in England. Martyred by invading pagan Saxons."

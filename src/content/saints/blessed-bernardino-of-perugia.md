@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Bernardino of Perugia"
 honorific: Blessed
 summary: "Franciscan friar; one of the early spiritual students of Saint Francis of Assisi and Blessed Francesco of Pavia."

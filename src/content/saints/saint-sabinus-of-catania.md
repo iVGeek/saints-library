@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Sabinus of Catania"
 honorific: Saint
 summary: "Bishop of Catania, Sicily. In later years he resigned to become a hermit."

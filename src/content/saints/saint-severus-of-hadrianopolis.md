@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Severus of Hadrianopolis"
 honorific: Saint
 summary: "Martyr."

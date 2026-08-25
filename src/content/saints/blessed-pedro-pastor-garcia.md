@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Pedro Pastor García"
 honorific: Blessed
 summary: "Monk. Member of the Hospitallers of Saint John of God. Martyred in the Spanish Civil War."

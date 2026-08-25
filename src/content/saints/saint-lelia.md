@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Lelia"
 honorific: Saint
 summary: "Daughter of Prince Cairthenn. Lived in the Irish cities of Limerick and Kerry. Nun. Superior of a convent in Munster, Ireland. Several Irish place names keep her memory alive, and her house was renamed Saint Lelias's in honour of her holiness."

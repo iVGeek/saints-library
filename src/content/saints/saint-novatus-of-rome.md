@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Novatus of Rome"
 honorific: Saint
 summary: "Son of Pudens, imperial Roman senator. Brother of Saint Praxedes and Saint Pudentiana."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed José Gomez De Haro"
 honorific: Blessed
 summary: "Priest in the diocese of Almería, Spain. Martyred in the Spanish Civil War."

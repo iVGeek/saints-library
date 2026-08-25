@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Isidro Fernández Cordero"
 honorific: Blessed
 summary: "Born to a pious family, he received a strong religious education in his youth. Married to Celsa, with whom he had seven children in the diocese of Oviedo, Spain. He ran a business, cultivated a small farm, and worked in the Hullera Española mines to support his family. Imprisoned"

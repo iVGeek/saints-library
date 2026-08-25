@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Heliodorus of Persia"
 honorific: Saint
 summary: "Martyred with several hundred companions during the persecutions of Shapur II."

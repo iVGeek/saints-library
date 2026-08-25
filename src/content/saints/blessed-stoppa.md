@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Stoppa"
 honorific: Blessed
 summary: "Franciscan tertiary. At one point she travelled from Italy to Spain to help establish houses for religious life, then returned to Siena, Italy for a life of prayer. No details of her life survive, but all records of her speak of her piety."

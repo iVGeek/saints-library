@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Lucian of Lentini"
 honorific: Saint
 title: "Bishop"

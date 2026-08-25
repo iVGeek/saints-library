@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Venerable Thomas Belchiam"
 honorific: Venerable
 summary: "Franciscan who denounced King Henry VIII as a heretic and clergy who accepted his persecution as faithless. Martyr."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Evodius of Syracuse"
 honorific: Saint
 summary: "Martyr."

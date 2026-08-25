@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Rafaél García Torres"
 honorific: Blessed
 summary: "Layan of the diocese of Almería, Spain. Martyred in the Spanish Civil War."

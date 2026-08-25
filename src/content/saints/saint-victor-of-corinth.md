@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Victor of Corinth"
 honorific: Saint
 summary: "During the persecutions of Valerian, Victor was arrested for his faith, tortured, and martyred with a group of fellow Christians."

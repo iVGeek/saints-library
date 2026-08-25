@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Josep Puigdeséns Pujol"
 honorific: Blessed
 summary: "Member of the Claretians, professed on 20 August 1893. Ordained a priest on 29 September 1901. Martyred in the Spanish Civil War."

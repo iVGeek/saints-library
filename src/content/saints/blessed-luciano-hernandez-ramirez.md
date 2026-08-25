@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Luciano Hernández Ramírez"
 honorific: Blessed
 summary: "Priest. Dominican. Martyred in the Spanish Civil War."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Edward Catherick"
 honorific: Blessed
 summary: "Studied at Douai, France. Priest. Returned to England in 1635 to minister to covert Catholics during a period of persecution by King Charles I. Martyr."

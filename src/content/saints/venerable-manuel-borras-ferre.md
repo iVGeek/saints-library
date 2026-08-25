@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Venerable Manuel Borràs Ferré"
 honorific: Venerable
 summary: "Auxiliary bishop of Tarragona, Spain. Martyred in the Spanish Civil War."

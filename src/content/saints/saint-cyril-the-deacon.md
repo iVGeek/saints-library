@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Cyril the Deacon"
 honorific: Saint
 summary: "Deacon in Palestine. Tortured and martyred in the persecutions of Julian the Apostate."

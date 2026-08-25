@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Mary of Seyne"
 honorific: Saint
 summary: "Born to the nobility, the family of the Count of Seyne (an area of modern Germany). Many of the noble families sought the girl for an arranged marriage, but Mary was drawn to religious life with a special devotion to the Mother of God. She entered the Premonstratensians and becam"

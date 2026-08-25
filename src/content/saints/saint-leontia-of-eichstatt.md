@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Leontia of Eichstätt"
 honorific: Saint
 summary: "Martyr."

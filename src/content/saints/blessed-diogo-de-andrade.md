@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Diogo de Andrade"
 honorific: Blessed
 summary: "Jesuit priest. Martyred by the Huguenot Jacques Sourie while en route to Brazil."

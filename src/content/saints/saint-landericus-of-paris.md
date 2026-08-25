@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Landericus of Paris"
 honorific: Saint
 summary: "Bishop of Paris, France from 650. Founded the first hospital in Paris. Noted for his work with the poor. Encouraged the Benedictines to establish houses in his diocese."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Valentine of Langres"
 honorific: Saint
 summary: "Fifth century priest and hermit at Langres, Aquitaine (in modern France)."

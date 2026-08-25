@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Illuminatus of San Severino"
 honorific: Saint
 summary: "Benedictine monk at San Mariano Abbey, San Severino, Marches of Ancona, Italy."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Michaël Kusuriya"
 honorific: Blessed
 summary: "Lifelong layman of the archdiocese of Nagasaki, Japan. Known as the Good Samaritan of Nagasaki due to his ministry of mercy to the poor, the neglected, widows and orphans, especially those created by martyrdom. Executed for the crime of being a Christian and helping Christians. M"

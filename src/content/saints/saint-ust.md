@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Ust"
 honorific: Saint
 summary: "Hermit. The town of Saint Just near Penzance, Cornwall, England is named after him."

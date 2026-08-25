@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Pelagius the Hermit"
 honorific: Saint
 summary: "Hermit near Burgos, Old Castile, Spain. Martyred by Saracens."

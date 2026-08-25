@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Magina of Africa"
 honorific: Saint
 summary: "Martyred in North Africa. No other information has survived."

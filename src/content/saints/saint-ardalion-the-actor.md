@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Ardalion the Actor"
 honorific: Saint
 summary: "An actor who specialized in mocking Christianity, and who was very popular with pagan audiences. One day during a performance in Asia Minor he suddenly announced that he had converted and was now a Christian. Martyr."

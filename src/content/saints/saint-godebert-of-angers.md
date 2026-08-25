@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Godebert of Angers"
 honorific: Saint
 title: "Bishop"

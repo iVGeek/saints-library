@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Ethelgitha of Northumbria"
 honorific: Saint
 summary: "Nun. Abbess of a convent in Northumbria, England."

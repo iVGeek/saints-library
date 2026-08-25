@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Gilbert the Theologian"
 honorific: Blessed
 summary: "Benedictine Cistercian monk at Ourscamp Abbey in the diocese of Noyon, France. Abbot at Ourscamp in 1147. Abbot at Citeaux in 1163."

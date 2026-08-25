@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Paschasia of Dijon"
 honorific: Saint
 summary: "Consecrated virgin (an early type of nun). Spiritual student of Saint Benigne and and helped in his missionary work. Martyr. Saint Gregory of Tours mentions her."

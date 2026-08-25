@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Eufrasio of Ilitirgi"
 honorific: Saint
 summary: "Early missionary and bishop of Iliturgi (modern Andújar, Spain)."

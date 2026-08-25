@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Nelson Rutilio Lemus Chávez"
 honorific: Blessed
 summary: "Young, single layman in the archdiocese of San Salvador, El Salvador. Murdered by El Salvadoran security forces while on his way to serve at Saturday night Mass. Martyr."

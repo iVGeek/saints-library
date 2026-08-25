@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Felícitas Cendoya Araquistain"
 honorific: Blessed
 summary: "Member of the Visitation Nuns. Martyred in the Spanish Civil War."

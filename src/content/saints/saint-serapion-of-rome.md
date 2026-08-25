@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Serapion of Rome"
 honorific: Saint
 summary: "Martyred by a pagan mob."

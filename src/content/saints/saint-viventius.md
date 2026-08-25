@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Viventius"
 honorific: Saint
 summary: "Hermit. Priest. Travelled from Palestine to Europe. Worked with Saint Hilary of Poitiers to oppose Arianism."

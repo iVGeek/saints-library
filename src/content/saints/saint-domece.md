@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Domèce"
 honorific: Saint
 summary: "Pagan physician in service of Roman Emperor Valens. Sometime between 364 and 378, an angel appeared to Domèce and rebuked him for his abuse of Christians. He was led to a cave hermit on Mount Qouros in Armenia where he learned about Christianity, converted, was baptized, and stay"

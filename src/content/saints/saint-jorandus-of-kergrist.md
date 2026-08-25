@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Jorandus of Kergrist"
 honorific: Saint
 summary: "Benedictine monk and hermit at Kergrist, France. Hermit at Saint-Juhee monastery at Pedernec, France."

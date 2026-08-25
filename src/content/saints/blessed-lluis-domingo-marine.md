@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Lluís Domingo Mariné"
 honorific: Blessed
 summary: "Priest in the archdiocese of Tarragona, Spain. Martyred in the Spanish Civil War."

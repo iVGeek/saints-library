@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Mella of Doire-Melle"
 honorific: Saint
 summary: "Married. Mother of Saint Cannech and Saint Tigernach. Widow. Nun. Abbess of Doire-Melle in County Leitrim, Ireland."

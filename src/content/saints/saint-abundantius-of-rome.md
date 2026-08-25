@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Abundantius of Rome"
 honorific: Saint
 summary: "Deacon in Rome, Italy. Arrested with Saint Abundius for refusing to sacrifice to Hercules. Tortured at Mammertine prison, and condemned to death for their Christianity during the persecutions of Diocletian. Martyred."

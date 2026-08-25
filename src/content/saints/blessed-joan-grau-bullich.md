@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Joan Grau Bullich"
 honorific: Blessed
 summary: "Member of the Benedictines (Subiaco Congregation). Priest. Martyred in the Spanish Civil War."

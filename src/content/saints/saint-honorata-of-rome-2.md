@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Honorata of Rome"
 honorific: Saint
 summary: "One of a group of 226 Christians martyred in Rome, Italy, date unknown; no details of their lives have survived."

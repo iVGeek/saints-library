@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Erth of Cornwall"
 honorific: Saint
 summary: "Brother of Saint Uny and Saint Ia. Evangelist in Cornwall where the village of Saint Erth is named for him."

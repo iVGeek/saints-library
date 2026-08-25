@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint William of Foggia"
 honorific: Saint
 title: "Hermit"

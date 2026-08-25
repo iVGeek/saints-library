@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Genitus"
 honorific: Saint
 summary: "Third century monk at Celle-sur-Naton, France."

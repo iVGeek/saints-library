@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Marianus of Entreaigues"
 honorific: Saint
 summary: "Hermit in the forest of Entreaigues in Berry, France. Saint Gregory of Tours wrote a biography of him."

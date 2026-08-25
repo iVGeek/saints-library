@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Beatus of Trier"
 honorific: Saint
 summary: "Sixth century priest and hermit."

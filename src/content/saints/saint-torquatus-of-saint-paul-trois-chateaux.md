@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Torquatus of Saint-Paul-Trois-Châteaux"
 honorific: Saint
 title: "Bishop"

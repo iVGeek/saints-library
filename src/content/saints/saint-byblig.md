@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Byblig"
 honorific: Saint
 summary: "A holy man with some connection to Carnarvon, Wales. No other information has survived."

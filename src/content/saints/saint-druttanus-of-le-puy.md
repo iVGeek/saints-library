@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Druttanus of Le Puy"
 honorific: Saint
 summary: "Monk and later abbot of the monastery of Saint-Chaffre near Le Puy-en-Velay, France. Bishop of Le Puy-en-Velay c.810 to c.840."

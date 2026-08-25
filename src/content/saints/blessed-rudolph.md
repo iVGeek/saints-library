@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Rudolph"
 honorific: Blessed
 summary: "Vallombrosan monk. Spiritual student of Saint John Gualbert. Abbot general."

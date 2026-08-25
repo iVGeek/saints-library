@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Salvius of Albelda"
 honorific: Saint
 summary: "Abbot at Albelda, Spain."

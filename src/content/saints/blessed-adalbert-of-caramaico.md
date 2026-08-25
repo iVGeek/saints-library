@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Adalbert of Caramaico"
 honorific: Blessed
 summary: "Benedictine monk at Casauria, Abruzzi, Italy. He retired to live as a hermit in the Caramaico mountain area near Chieti, Italy. There he attracted so many would-be spiritual students that he founded the Saint Nicholas monastery for them."

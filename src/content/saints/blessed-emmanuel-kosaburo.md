@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Emmanuel Kosaburo"
 honorific: Blessed
 summary: "Layman in the Kyoto, Japan. One of the Martyrs of Kyoto."

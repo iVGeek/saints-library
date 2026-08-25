@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed François-Louis Méallet de Fargues"
 honorific: Blessed
 summary: "Born to the French nobility. Priest in the diocese of Clermont, France. One of the Martyrs of September."

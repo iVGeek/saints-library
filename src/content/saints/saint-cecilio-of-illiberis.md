@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Cecilio of Illiberis"
 honorific: Saint
 summary: "Early missionary and bishop of Illiberis (modern Elvira, Granada, Spain)."

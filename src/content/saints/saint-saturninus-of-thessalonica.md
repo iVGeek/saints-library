@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Saturninus of Thessalonica"
 honorific: Saint
 summary: "Martyr. No other information has survived."

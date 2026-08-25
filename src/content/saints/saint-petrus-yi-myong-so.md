@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Petrus Yi Myong-So"
 honorific: Venerable
 summary: "Married layman in the apostolic vicariate of Korea."

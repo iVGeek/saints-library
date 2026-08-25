@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Andrew of Poland"
 honorific: Saint
 summary: "One of four brothers who became hermits, Benedictine monks and saints."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Gaudentius of Arezzo"
 honorific: Saint
 summary: "Bishop. Martyred in the persecutions of Valentian I along with 53 companions whose names have not come down to us."

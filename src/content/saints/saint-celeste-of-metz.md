@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Celeste of Metz"
 honorific: Saint
 summary: "Priest. Evangelist in the area of Metz, France. Second bishop of Metz."

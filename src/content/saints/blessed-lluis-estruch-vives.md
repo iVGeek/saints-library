@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Lluís Estruch Vives"
 honorific: Blessed
 summary: "Franciscan Capuchin friar, making his first profession on 9 September 1934. He never made his solemn profession as he was murdered by Marxists in the Spanish Civil War."

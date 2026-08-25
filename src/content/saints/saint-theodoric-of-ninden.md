@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Theodoric of Ninden"
 honorific: Saint
 summary: "Bishop of Ninden, Germany. One of the Martyrs of Ebsdorf."

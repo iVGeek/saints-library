@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Diego Botello"
 honorific: Blessed
 summary: "Franciscan friar and missionary in the Caribbean. Martyred with Blessed Ferdinando di Salcedo and a companion whose name has not come down to us."

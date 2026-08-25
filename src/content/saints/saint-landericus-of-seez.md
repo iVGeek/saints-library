@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Landericus of Séez"
 honorific: Saint
 summary: "Bishop of Séez, Normandy, France c.450. Martyr."

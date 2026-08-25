@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Alexius Sato Seisuke"
 honorific: Blessed
 summary: "Layman in the diocese of Niigata, Japan. Brother of Blessed Paulus Sato Matagoro. Married to Blessed Lucia Sato; father of Blessed Elisabeth Sato. Martyr."

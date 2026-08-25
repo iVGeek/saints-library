@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Theodotus"
 honorific: Saint
 summary: "Martyr."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Onesimus of Soissons"
 honorific: Saint
 title: "Bishop"

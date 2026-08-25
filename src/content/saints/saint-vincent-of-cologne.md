@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Vincent of Cologne"
 honorific: Saint
 summary: "Cardinal-priest. Travelled with and martyred with Saint Ursula."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Ioannes Hara Mondo"
 honorific: Blessed
 summary: "Layman in the archdiocese of Funari, Japan. Franciscan Tertiary. Martyr."

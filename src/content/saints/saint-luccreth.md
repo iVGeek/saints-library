@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Luccreth"
 honorific: Saint
 summary: "Monk. Abbot of Clonmacnois (Cluain Mhic Nóis) monastery, County Offaly, Ireland from 740 to 753."

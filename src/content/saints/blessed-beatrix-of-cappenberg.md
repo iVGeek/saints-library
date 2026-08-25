@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Beatrix of Cappenberg"
 honorific: Blessed
 summary: "Born to the nobility, she was Countess of Cappenberg in modern Germany. Sister of Blessed Godfrey of Cappenberg and Blessed Otto of Cappenberg. When the family turned their estate over to the Premonstratensians and turned the castle lands into a monastery, Beatrix became a Premon"

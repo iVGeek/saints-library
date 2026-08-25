@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Cronan of Clashmore"
 honorific: Saint
 summary: "Martyred by pagan Danes."

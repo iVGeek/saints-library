@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Peter of Chavanon"
 honorific: Blessed
 title: "Priest"

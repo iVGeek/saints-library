@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Martyrs of Volitani"
 honorific: Saint
 summary: "A group of martyrs who were praised by Saint Augustine of Hippo"

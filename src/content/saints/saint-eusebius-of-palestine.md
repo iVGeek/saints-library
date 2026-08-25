@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Eusebius of Palestine"
 honorific: Saint
 summary: "Priest. Martyred in the persecutions of Maximian Herculeus."

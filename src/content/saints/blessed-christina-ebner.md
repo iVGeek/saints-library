@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Christina Ebner"
 honorific: Blessed
 summary: "Daughter of Seyfried Ebner and Elizabeth Kuhdorf. Entered the Dominican monastery of Saint John the Baptist in Engeltal in the Burgraviate of Nuremberg (in modern Germany) at age twelve. Nun. Visionary. Wrote an account of her visions and spiritual journey. Prioress of her house."

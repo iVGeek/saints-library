@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Quintian of Armenia"
 honorific: Saint
 summary: "Martyred with Saint Irenaeus. Nothing else is known."

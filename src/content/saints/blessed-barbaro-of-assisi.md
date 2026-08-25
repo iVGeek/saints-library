@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Barbaro of Assisi"
 honorific: Blessed
 summary: "Franciscan friar and companion of Saint Francis of Assisi in the 12th-13th centuries known for his love of the pious life."

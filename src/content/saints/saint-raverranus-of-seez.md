@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Raverranus of Séez"
 honorific: Saint
 summary: "Bishop of Séez, France."

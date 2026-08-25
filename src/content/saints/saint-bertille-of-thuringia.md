@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Bertille of Thuringia"
 honorific: Saint
 summary: "Born a princess. Married to Saint Walbert of Hainault. Mother of Saint Waltrude and Saint Aldegundis."

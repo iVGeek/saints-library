@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Mary the Consoler"
 honorific: Saint
 summary: "Sister of Saint Anno of Verona."

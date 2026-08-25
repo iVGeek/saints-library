@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Richard Langley"
 honorific: Blessed
 summary: "Member of the English gentry and lifelong layman. Condemned for travelling with Blessed Robert Morton, and for paying sixpence for Robert's supper. Martyr."

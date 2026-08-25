@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Constantine of Javron"
 honorific: Saint
 summary: "Monk at the Saint-Mesmin de Micy Abbey, France. Hermit at Jaron, Maine, France. Founded and served as first abbot of Javron Abbey."

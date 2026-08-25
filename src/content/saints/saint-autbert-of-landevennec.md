@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Autbert of Landevennec"
 honorific: Saint
 summary: "Benedictine monk at Landevennec, Brittany, France. Chaplain to the nuns of Saint Sulpice, Rheims, France."

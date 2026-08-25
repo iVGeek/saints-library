@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Wulfsi"
 honorific: Saint
 summary: "Eleventh-century hermit in the west of England. Spiritual advisor to Saint Wolstan of Worcester."

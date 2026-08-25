@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Ymar of Reculver"
 honorific: Saint
 summary: "Monk at Reculver Abbey, Kent, England. Martyr."

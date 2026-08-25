@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Ferran Llovera Pulgsech"
 honorific: Blessed
 summary: "Carmelites of the Ancient Observance  priest. Martyred in the Spanish Civil War."

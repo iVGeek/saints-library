@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Cuimmein of Nendrum"
 honorific: Saint
 summary: "Bishop of Aendruim, Ireland (modern Mahee Island, Strangford Lough, Down)."

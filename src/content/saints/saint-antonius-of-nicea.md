@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Antonius of Nicea"
 honorific: Saint
 summary: "Martyr."

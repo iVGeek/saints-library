@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Honorino Carracedo Ramos"
 honorific: Blessed
 summary: "Passionist cleric martyred in the Spanish Civil War."

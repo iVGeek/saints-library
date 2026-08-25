@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Antonio Sierra Leyva"
 honorific: Blessed
 summary: "Member of the Servants of the Divine Child Mary. Priest. Martyred in the Spanish Civil War."

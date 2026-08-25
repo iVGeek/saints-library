@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Damianus"
 honorific: Blessed
 summary: "Layman who served as a catechist in the diocese of Hiroshima, Japan. Martyr."

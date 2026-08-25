@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Clarence of Venice"
 honorific: Saint
 summary: "Bishop of Venice, Italy."

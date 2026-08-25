@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Rosalie du Verdier de la Sorinière"
 honorific: Blessed
 summary: "Our Lady of Calvary Benedictine nun of the diocese of Angers, France. Martyred in the persecutions of the French Revolution."

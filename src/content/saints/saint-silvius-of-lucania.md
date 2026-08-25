@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Silvius of Lucania"
 honorific: Saint
 summary: "Martyr."

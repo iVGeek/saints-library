@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Eutropia of Auvergne"
 honorific: Saint
 summary: "Holy 5th century widow in Auvergne, France. No other information has survived."

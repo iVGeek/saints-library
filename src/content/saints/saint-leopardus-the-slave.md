@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Leopardus the Slave"
 honorific: Saint
 summary: "Slave-servant in the household of Julian the Apostate. Martyr."

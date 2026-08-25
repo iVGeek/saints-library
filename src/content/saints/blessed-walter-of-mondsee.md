@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Walter of Mondsee"
 honorific: Blessed
 summary: "Benedictine monk. Abbot of the Mondsee monastery in Upper Austria."

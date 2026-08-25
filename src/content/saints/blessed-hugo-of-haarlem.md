@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Hugo of Haarlem"
 honorific: Blessed
 summary: "Layman. Martyred by Calvinists."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Bassa of Carthage"
 honorific: Saint
 summary: "Nun. Martyr."

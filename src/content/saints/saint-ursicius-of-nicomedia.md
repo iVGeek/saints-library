@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Ursicius of Nicomedia"
 honorific: Saint
 summary: "Tribune in the imperial Roman army. Martyred in the persecutions of Diocletian."

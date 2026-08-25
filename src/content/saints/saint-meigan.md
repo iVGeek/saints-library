@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Meigan"
 honorific: Saint
 summary: "Monk at Cor Beuno, Carnarvon, Wales."

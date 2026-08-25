@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Venerable Maurice-Marie-Mathieu Garrigou"
 honorific: Venerable
 summary: "Priest in the archdiocese of Tolouse, France. Founded the Institute of the Sisters of Our Lady of Compassion."

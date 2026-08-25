@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Diethardus of Eichstätt"
 honorific: Saint
 summary: "Monk who evangelized the area of Eichstätt, Germany in the 8th century."

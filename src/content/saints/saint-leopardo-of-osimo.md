@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Leopardo of Osimo"
 honorific: Saint
 title: "Bishop"

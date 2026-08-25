@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Victor Roma"
 honorific: Saint
 summary: "Martyr."

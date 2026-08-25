@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Saturninus of Crete"
 honorific: Saint
 summary: "One of the Ten Martyrs of Crete who died in the persecutions of Decius."

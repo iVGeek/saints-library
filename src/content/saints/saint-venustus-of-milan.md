@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Venustus of Milan"
 honorific: Saint
 summary: "Martyr in Milan, Italy in the persecutions of Diocletian."

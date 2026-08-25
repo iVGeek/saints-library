@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Betharius of Chartres"
 honorific: Saint
 summary: "Studied philosophy at the chapter school of Chartres, France. Monk. Priest. Hermit. Court chaplain to King Clotaire II. Reluctant bishop of Chartres, France, c.595. Directed the defenses of Chartres during a siege by Theodoric II of Burgundy; the city fell, Betharius was captured"

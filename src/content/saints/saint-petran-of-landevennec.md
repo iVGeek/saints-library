@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Petran of Landévennec"
 honorific: Saint
 summary: "Missionary, working in the 4th and 5th century with Saint Germanus of Auxerre in the Champagne region of France. Monk at Landévennec, France."

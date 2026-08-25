@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Goscelinus of Toul"
 honorific: Saint
 summary: "Bishop of Toul, Lotharingia (in modern France). Promoted monastic institutions in his diocese, and monastic discipline on those houses."

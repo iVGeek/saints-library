@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Louis Gastineau"
 honorific: Blessed
 summary: "Priest in the diocese of Laval, France. Martyred in the French Revolution."

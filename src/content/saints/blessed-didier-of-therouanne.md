@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Didier of Thérouanne"
 honorific: Blessed
 title: "Bishop"

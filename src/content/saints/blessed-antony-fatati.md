@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Antony Fatati"
 honorific: Blessed
 summary: "Priest. Archpriest of Ancona, Italy. Vicar-general of Siena, Italy. Canon of the Vatican in Rome, Italy. Bishop of Teramo, Italy. Bishop of Ancona."

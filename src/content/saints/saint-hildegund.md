@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Hildegund"
 honorific: Saint
 summary: "Born to the 12th-century German nobility, the daughter of Count Herman of Lidtberg. Countess, married to Count Lothair. Mother of three, one of whom died in his youth; the other two were Blessed Herman Joseph and Blessed Hadewych. Widowed, in 1178 she turned her castle at Meer, G"

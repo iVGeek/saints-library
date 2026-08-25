@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Donatilla of Africa"
 honorific: Saint
 summary: "One of a group of thirteen African martyrs. No other information has survived."

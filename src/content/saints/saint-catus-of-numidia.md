@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Catus of Numidia"
 honorific: Saint
 summary: "Second century martyr."

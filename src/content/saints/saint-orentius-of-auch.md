@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Orentius of Auch"
 honorific: Saint
 summary: "Hermit in the Lavendan Valley of France. His reputation for holiness was such that the people of Auch, France insisted that he be their bishop; he served in that capacity for over 40 years."

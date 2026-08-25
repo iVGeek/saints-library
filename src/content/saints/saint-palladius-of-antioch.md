@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Palladius of Antioch"
 honorific: Saint
 summary: "Hermit in the desert near Antioch, Syria. Friend of Saint Simeon."

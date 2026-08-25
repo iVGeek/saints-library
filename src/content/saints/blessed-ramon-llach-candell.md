@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Ramon Llach-Candell"
 honorific: Blessed
 summary: "Priest. Member of the Sons of the Holy Family. Treasurer. Teacher. Director of several centers run by the Sons. Writer and poet. One of the Martyrs of the Spanish Civil War."

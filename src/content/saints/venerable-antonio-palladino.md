@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Venerable Antonio Palladino"
 honorific: Venerable
 summary: "Priest in the diocese of Cerignola-Ascoli Satriano, Italy. Founder of the Dominican Sisters of the Blessed Sacrament."

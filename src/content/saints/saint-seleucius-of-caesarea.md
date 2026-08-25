@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Seleucius of Caesarea"
 honorific: Saint
 summary: "After watching the martyrdom of Saint Porphyrius, Seleucus praised the saint's actions. Some soldiers overheard him, dragged him in front of the tribunal, and he was martyred without further investigation."

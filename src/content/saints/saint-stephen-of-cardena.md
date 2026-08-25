@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Stephen of Cardeña"
 honorific: Saint
 summary: "Monk. Abbot of the Castilian monastery of Cardeña in the archdiocese of Burgos, Spain where he led over 200 brother monks. Martyred by Saracens."

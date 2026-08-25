@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Nicholas Plutzer"
 honorific: Blessed
 title: "Virgin"

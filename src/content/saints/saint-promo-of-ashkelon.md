@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Promo of Ashkelon"
 honorific: Saint
 deathYear: 308

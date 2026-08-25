@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Three Daughters of Eltin"
 honorific: Saint
 summary: "Listed in several Irish martyrologies, but no details about them have survived."

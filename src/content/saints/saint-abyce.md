@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Abyce"
 honorific: Saint
 summary: "Nun at an unknown monastery in England where she served for a while as its prioress."

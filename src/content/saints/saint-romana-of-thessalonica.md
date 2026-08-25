@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Romana of Thessalonica"
 honorific: Saint
 summary: "Martyr."

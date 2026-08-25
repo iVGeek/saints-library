@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Killene mac Lubney"
 honorific: Saint
 summary: "Monk. Abbot of Saighir Abbey. Bishop. Assisted at the Synod of Armagh in 695."

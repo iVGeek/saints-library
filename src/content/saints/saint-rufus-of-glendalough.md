@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Rufus of Glendalough"
 honorific: Saint
 summary: "Hermit at Glendalough, Ireland."

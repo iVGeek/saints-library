@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Sciath of Ardskeagh"
 honorific: Saint
 summary: "Daughter of Meacher; descended from High-King Conor. Sixth-century nun associated with the church in Feart Scéithe (modern Ardskeagh), Buttevant, Ireland."

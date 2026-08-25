@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Einard of Zurich"
 honorific: Blessed
 title: "Priest"

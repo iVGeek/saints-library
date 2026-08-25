@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Faustino Chiari"
 honorific: Blessed
 summary: "15th century Franciscan friar who is remembered by the Order for his holiness, but no details of his life have survived."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Jožefa Fabjan"
 honorific: Blessed
 summary: "Member of the Daughters of Divine Charity. Martyred while fighting off Chetnik rapists."

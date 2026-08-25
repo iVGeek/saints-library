@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Leo of the Agro Verano"
 honorific: Saint
 summary: "Married. Adult convert to Christianity. Bishop. Martyred by Arians."

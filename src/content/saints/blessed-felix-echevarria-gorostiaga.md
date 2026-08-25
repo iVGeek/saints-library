@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Félix Echevarría Gorostiaga"
 honorific: Blessed
 summary: "Born to a pious family; two of his brothers became Franciscan priests and missionaries. Franciscan Friar Minor, making his solumn vows on 7 September 1912. Priest, ordained on 16 July 1916. College rector, professor, organist and choirmaster at Librija, Spain in April 1919. Vicar"

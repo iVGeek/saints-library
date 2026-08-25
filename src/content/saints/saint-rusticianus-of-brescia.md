@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Rusticianus of Brescia"
 honorific: Saint
 summary: "Sixth century bishop of Brescia, Italy."

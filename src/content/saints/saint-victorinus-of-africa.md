@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Victorinus of Africa"
 honorific: Saint
 summary: "Martyred by Arian Vandals."

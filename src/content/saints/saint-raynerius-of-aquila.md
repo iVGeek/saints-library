@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Raynerius of Aquila"
 honorific: Saint
 summary: "Bishop of Forconium (modern Aquila), Abruzzi region, Italy. Noted for his excellent administrative skills, but no details about the man have survived."

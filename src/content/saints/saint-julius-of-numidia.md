@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Julius of Numidia"
 honorific: Saint
 summary: "Second century martyr."

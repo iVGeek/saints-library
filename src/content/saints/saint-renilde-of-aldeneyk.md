@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Renilde of Aldeneyk"
 honorific: Saint
 summary: "Nun. Abbess of the Aldeneyk monastery at Tongeren, Brabant, Austrasia (in modern Belgium)."

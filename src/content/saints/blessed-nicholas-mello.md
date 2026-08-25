@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Nicholas Mello"
 honorific: Blessed
 summary: "Augustinian canon. Evangelized along the eastern shore of the Caspian sea in the 17th century. Martyred for loyalty to the Vatican."

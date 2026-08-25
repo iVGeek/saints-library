@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Leo of Africo"
 honorific: Saint
 title: "Hermit"

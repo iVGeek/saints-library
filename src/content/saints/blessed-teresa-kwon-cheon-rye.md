@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Teresa Kwon Cheon-Rye"
 honorific: Blessed
 summary: "Married lay woman of the archdiocese of Seoul, Korea. Martyr."

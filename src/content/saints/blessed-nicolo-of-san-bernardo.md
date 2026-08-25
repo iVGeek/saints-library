@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Nicolò of San Bernardo"
 honorific: Blessed
 summary: "Benedictine monk at the abbey outside Gembloux, Belgium. Feeling a call to a more austere life, he joined the Cistercians at the monastery at Villers Abbey near Villiers-la-Villes, Belgium."

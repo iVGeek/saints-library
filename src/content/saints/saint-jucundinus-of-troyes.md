@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Jucundinus of Troyes"
 honorific: Saint
 summary: "Martyred in the persecutions of Aurelian. No other information has survived."

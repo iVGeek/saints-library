@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Bodian of Hanvec"
 honorific: Saint
 summary: "I can find no information on this saint."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Venerable Tomás Suárez Fernández"
 honorific: Venerable
 summary: "Augustinian priest."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Tibba of Castor"
 honorific: Saint
 summary: "Related to Saint Kyneswide and Saint Kyneburga. Benedictine nun at Dormancaster abbey, Northamptonshire, England."

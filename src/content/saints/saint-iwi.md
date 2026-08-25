@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Iwi"
 honorific: Saint
 summary: "Monk of Lindisfarne Abbey. Deacon. Spiritual student of Saint Cuthbert at Lindisfarne. Following the Irish ideal of an “exile for Christ”, he took ship without bothering to ask its destination, planning to evangelize where it landed. It turned out to be Brittany, where he lived a"

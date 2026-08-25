@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Donatus of Carthage"
 honorific: Saint
 summary: "Martyr."

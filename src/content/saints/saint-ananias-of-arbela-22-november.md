@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Ananias of Arbela"
 honorific: Saint
 summary: "Imprisoned, tortured and martyred in the persecutions of king Shapur II."

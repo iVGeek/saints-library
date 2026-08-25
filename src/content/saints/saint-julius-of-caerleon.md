@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Julius of Caerleon"
 honorific: Saint
 summary: "Martyred with several companions. No other information has survived."

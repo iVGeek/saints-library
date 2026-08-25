@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Dolores Puig Bonany"
 honorific: Blessed
 summary: "Nun. Member of the Little Sisters of the Abandoned Elderly. Martyred in the Spanish Civil War."

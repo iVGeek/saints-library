@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Magnericus of Trier"
 honorific: Saint
 summary: "Grew up in the Trier, Germany residence of bishop Nicetius. Ordained by Nicetius. Accompanied the bishop into exile when Nicetius was banished by King Clotaire I as revenge for the king being excommunicated. Magnericus returned to Trier the next year. Bishop of Trier in 566. Orda"

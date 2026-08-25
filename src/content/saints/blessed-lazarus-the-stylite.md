@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Lazarus the Stylite"
 honorific: Blessed
 summary: "Set an example of turning his back on the world and living for prayer by living without shelter on top of a series of columns for many year, often surviving on nothing but bread and water."

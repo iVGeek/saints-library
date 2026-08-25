@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Oncho of Clonmore"
 honorific: Saint
 summary: "Poet and pilgrim who roamed the memorials and shrines of Ireland, collecting and preserving information about and relics of the saints. He finally retired to the Clonmore monastery who inherited his collection of relics, and who enshrined Oncho as well."

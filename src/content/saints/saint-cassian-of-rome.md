@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Cassian of Rome"
 honorific: Saint
 summary: "Martyred with four companions, date unknown."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Simplician of Catania"
 honorific: Saint
 summary: "One of a group of Christians martyred together, date unknown. No other information has survived."

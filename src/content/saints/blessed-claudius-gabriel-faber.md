@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Claudius Gabriel Faber"
 honorific: Blessed
 summary: "Minim monk. Prior of his house. Martyred by heretics."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Michel-François de la Gardette"
 honorific: Blessed
 summary: "Jesuit priest. One of the Martyrs of September."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Antonius Yi Hyeon"
 honorific: Blessed
 summary: "Layman convert and martyr in the apostolic vicariate of Korea who read himsel into the faith."

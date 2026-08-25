@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Elfgete of Croyland"
 honorific: Saint
 summary: "Monk at Croyland Abbey. Deacon. Martyred by pagan Danes."

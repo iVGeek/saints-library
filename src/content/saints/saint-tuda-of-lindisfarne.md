@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Tuda of Lindisfarne"
 honorific: Saint
 summary: "Monk in Ireland. Bishop of Lindisfarne, England."

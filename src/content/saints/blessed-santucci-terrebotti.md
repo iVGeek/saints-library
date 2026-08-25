@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Santucci Terrebotti"
 honorific: Blessed
 summary: "Married. Mother of one daughter who died in childhood. She and her husband agreed to split up, each entering religious life. Benedictine nun in Gubbio, Italy. Abbess of her house. She moved her community to Santa Maria in Via Lata, the Via Iulia in Rome, Italy where they lived in"

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Luke Bergin"
 honorific: Blessed
 summary: "Cistercian priest. One of the Irish Martyrs."

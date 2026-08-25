@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Etelgita of Northumbria"
 honorific: Saint
 summary: "Nun and then abbess in Northumberland, England; we do not know at what house."

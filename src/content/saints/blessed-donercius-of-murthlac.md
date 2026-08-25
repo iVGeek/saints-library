@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Donercius of Murthlac"
 honorific: Blessed
 title: "Bishop"

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Celestine"
 honorific: Saint
 summary: "Martyr."

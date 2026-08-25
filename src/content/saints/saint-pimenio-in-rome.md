@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Pimenio in Rome"
 honorific: Saint
 summary: "Priest. Martyr."

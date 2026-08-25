@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Iosephus Ma Taishun"
 honorific: Venerable
 summary: "Lifelong layman in the apostolic vicariate of Southeastern Zhili, China. Physician. Catechist. During the anti-Western, anti-Christian persecutions of the Boxer Rebellion, most of Joseph's family renounced their Christianity; Joseph refused to. Martyr."

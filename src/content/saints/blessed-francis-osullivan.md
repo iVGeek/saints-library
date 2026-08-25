@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Francis O'Sullivan"
 honorific: Blessed
 summary: "Franciscan Friars Minor priest. One of the Irish Martyrs."

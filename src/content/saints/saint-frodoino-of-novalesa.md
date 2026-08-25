@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Frodoino of Novalesa"
 honorific: Saint
 summary: "Born to the Frankish nobility, the son of Magafredo, Frodoino became an oblate, then a monk, and then on 10 February 773 he was chosen abbot at the monastery of Saints Peter and Andrew in Novalesa, Italy; he served as abbot for 43 years. Friend of Blessed Charlemagne who became a"

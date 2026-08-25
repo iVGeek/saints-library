@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed James Bird"
 honorific: Blessed
 summary: "Lay man in the apostolic vicariate of England, raised as a Protestant and converting to Catholicism at age 19. Considered entering the Douai seminary in Rheims, France, but decided against it and returned to England. He refused to take the Oath of Sumpremacy and was executed for"

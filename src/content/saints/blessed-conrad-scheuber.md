@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Conrad Scheuber"
 honorific: Blessed
 title: "Hermit"

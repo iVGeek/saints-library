@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Emilian of Citra"
 honorific: Saint
 summary: "Soldier. Martyr. No other information has survived."

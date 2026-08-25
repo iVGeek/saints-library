@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Odo the Good"
 honorific: Saint
 summary: "Odo's parents were pagan Danish nobility who had come to East Anglia as part of a colonizing/invading force. Uncle of Saint Oswald of Worcester. Benedictine monk. Bishop of Rambury, Wessex, England. Present at the battle of Brunanburk, England where he spent the day praying for E"

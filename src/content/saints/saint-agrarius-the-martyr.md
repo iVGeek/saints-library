@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Agrarius the Martyr"
 honorific: Saint
 summary: "Brother of Saint Marcellinus the Martyr. Imperial Roman judge in North Africa. When he opposed the Donatism heresy, he was murdered by Donatists. Martyr."

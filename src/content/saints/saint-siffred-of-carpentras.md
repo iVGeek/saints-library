@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Siffred of Carpentras"
 honorific: Saint
 summary: "Monk at Lérins Abbey. Bishop of Carpentras, France."

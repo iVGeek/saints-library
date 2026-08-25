@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Antoninus of Capua"
 honorific: Saint
 summary: "A young boy martyr."

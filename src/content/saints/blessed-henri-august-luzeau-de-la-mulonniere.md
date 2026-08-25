@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Henri-August Luzeau de la Mulonnière"
 honorific: Blessed
 summary: "Sulpician priest. One of the Martyrs of September."

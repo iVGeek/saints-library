@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Llewellyn"
 honorific: Saint
 summary: "Monk at Welshpool and Bardsey, Wales. Friend of Saint Gwrnerth."

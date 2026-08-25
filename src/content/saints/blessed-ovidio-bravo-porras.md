@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Ovidio Bravo Porras"
 honorific: Blessed
 summary: "Dominican lay brother, making his professionon 2 July 1935. Martyred in the Spanish Civil War."

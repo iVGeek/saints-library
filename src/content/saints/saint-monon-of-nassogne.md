@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Monon of Nassogne"
 honorific: Saint
 summary: "Hermit in the Ardennes region of France. Murdered by a pack of local thugs who were offended by his personal holiness."

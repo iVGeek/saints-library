@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Patrick O'Lougham"
 honorific: Blessed
 summary: "Bishop in Ireland. Martyr."

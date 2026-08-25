@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Rigaldo"
 honorific: Saint
 summary: "Martyr."

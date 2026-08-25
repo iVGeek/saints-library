@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Nicon of Sparta"
 honorific: Saint
 summary: "Born to a wealthy, land-owning family. Monk. Wandering preacher and evangelist, especially in Greece, calling everyone to repent (metanoete)."

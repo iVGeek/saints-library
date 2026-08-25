@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Bertoara"
 honorific: Saint
 summary: "Abbess of the Columbanian house of Notre Dame de Sales, Bourges, France from 612 until her death."

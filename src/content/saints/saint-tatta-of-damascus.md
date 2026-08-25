@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Tatta of Damascus"
 honorific: Saint
 summary: "Married to Saint Paul of Damascus; mother of Saint Eugenia, Saint Maximus, Saint Rufus and Saint . Tortured to death in a persecution by Roman authorities."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Joan Puig Serra"
 honorific: Blessed
 summary: "Vincentian priest. Martyred in the Spanish Civil War."

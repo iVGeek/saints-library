@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Mandal of Rome"
 honorific: Saint
 summary: "One of a group of 23 martyrs who died together in the persecutions of Aurelian."

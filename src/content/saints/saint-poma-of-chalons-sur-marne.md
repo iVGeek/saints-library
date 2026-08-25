@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Poma of Châlons-sur-Marne"
 honorific: Saint
 summary: "Third-fourth century nun in Châlons-sur-Marne, France. We have no details about her life."

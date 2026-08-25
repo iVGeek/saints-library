@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Hildegard the Empress"
 honorific: Blessed
 summary: "Daughter of the Duke of Swabia, Germany. Married Emperor Charlemagne in 771. Empress. Mother of nine during her twelve years of married life. Friend and supporter of many monks and nuns including Saint Lioba of Bischofsheim. Founded Kempten abbey."

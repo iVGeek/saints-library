@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Liafdag"
 honorific: Saint
 summary: "Bishop in Jutland, Denmark. Martyred by local pagans."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Fortunato Arias Sánchez"
 honorific: Blessed
 summary: "Priest in the diocese of Albacete, Spain. Martyred in the Spanish Civil War."

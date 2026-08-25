@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Lucia de Freitas"
 honorific: Blessed
 summary: "Lay woman in the archdiocese of Nagasaki, Japan. Married to Philip de Freitas. Member of the Secular Franciscans and the Confraternity of the Rosary. Martyred for sheltering missionaries."

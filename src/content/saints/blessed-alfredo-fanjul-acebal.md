@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Alfredo Fanjul Acebal"
 honorific: Blessed
 summary: "Dominican priest. Martyred in the Spanish Civil War."

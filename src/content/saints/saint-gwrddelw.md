@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Gwrddelw"
 honorific: Saint
 title: "Priest"

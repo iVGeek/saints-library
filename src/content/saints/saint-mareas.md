@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Mareas"
 honorific: Saint
 summary: "Bishop in Persia. Martyred in the persecutions of King Sapor II."

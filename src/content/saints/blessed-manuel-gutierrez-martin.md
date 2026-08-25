@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Manuel Gutiérrez Martín"
 honorific: Blessed
 summary: "Priest. Member of the Missionary Oblates of Mary Immaculate. Martyr."

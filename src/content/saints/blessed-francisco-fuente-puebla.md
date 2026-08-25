@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Francisco Fuente Puebla"
 honorific: Blessed
 summary: "Augustinian friar. Martyred in the Spanish Civil War."

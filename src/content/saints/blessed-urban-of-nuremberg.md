@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Urban of Nuremberg"
 honorific: Blessed
 summary: "Franciscan priest. Martyred by invading Turks for refusing to renounce Christianity."

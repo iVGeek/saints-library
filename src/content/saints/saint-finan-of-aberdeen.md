@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Finan of Aberdeen"
 honorific: Saint
 summary: "Spiritual student of Saint Kentigern."

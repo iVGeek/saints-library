@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Bonaventura Relli"
 honorific: Blessed
 summary: "Drawn to the religious life, Bonaventure considered joining the Augustinians, but became a Franciscan in Giaveno, Italy. Sent to the convent of Santa Maria degli Angeli in Turin, Italy where he preached against the Waldensians in the region. Assigned by Pope Urban VIII to preach"

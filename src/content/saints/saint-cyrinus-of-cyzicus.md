@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Cyrinus of Cyzicus"
 honorific: Saint
 summary: "Soldier in the Roman army. Martyred."

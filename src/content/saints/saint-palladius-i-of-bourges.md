@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Palladius I of Bourges"
 honorific: Saint
 title: "Bishop"

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Jacques Burin"
 honorific: Blessed
 summary: "Priest in the diocese of Le Mans, France. Martyred in the French Revolution."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Saturninus of Nicomedië"
 honorific: Saint
 summary: "Arrested, tortured and executed in the persecutions of Emperor Valerian."

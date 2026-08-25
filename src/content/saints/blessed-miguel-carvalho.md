@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Miguel Carvalho"
 honorific: Blessed
 summary: "Entered the Jesuits in 1597. Missionary to Goa, India. Priest. Taught theology for 15 years. Missionary to Japan. Arrested in July 1863 for spreading Christianity, he spent several months in prison before being killed. Martyr."

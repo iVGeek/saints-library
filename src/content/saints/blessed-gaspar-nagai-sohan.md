@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Gaspar Nagai Sohan"
 honorific: Blessed
 summary: "Married layman of the archdiocese of Nagasaki, Japan. One of the Martyrs of Unzen."

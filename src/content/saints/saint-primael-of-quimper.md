@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Primael of Quimper"
 honorific: Saint
 summary: "Hermit near Quimper, France."

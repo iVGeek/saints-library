@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Luis Abia Melendro"
 honorific: Blessed
 summary: "Augustinian friar. Martyred in the Spanish Civil War."

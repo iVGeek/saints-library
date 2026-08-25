@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Marceliano Alonso Santamaría"
 honorific: Blessed
 summary: "Member of the Claretians, professed on 15 August 1923. Ordained a priest on 21 June 1931. Martyred in the Spanish Civil War."

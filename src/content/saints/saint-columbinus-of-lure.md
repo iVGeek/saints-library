@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Columbinus of Lure"
 honorific: Saint
 summary: "Monk. Spiritual student of Saint Deicola. Abbot of Lure in France."

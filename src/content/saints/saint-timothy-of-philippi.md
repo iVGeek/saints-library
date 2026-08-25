@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Timothy of Philippi"
 honorific: Saint
 summary: "Martyr."

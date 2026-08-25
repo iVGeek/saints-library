@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Stephen of Apt"
 honorific: Saint
 title: "Bishop"

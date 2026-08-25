@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Gibitrudis"
 honorific: Saint
 summary: "Nun at Faremoutiers-en-Brie, France. Spiritual student of Saint Fara."

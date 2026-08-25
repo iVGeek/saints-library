@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Crewanna"
 honorific: Saint
 summary: "Assisted with Saint Breaca's missionary work in Cornwall, England. The town of Crowan was named for him."

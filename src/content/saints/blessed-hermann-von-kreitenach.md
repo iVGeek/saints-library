@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Hermann von Kreitenach"
 honorific: Blessed
 summary: "Franciscan priest. Pilgrim to the Holy Lands. Martyred by invading Turks for refusing to renounce Christianity."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Abundus of Cordoba"
 honorific: Saint
 summary: "Imprisoned and executed for refusing to convert from Christianity to Islam during the Moorish occupation of Spain."

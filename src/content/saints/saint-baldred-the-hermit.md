@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Baldred the Hermit"
 honorific: Saint
 summary: "Eighth century hermit. Priest. Miracle worker. No other information has survived."

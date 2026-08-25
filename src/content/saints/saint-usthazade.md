@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Usthazade"
 honorific: Saint
 summary: "Eunuch in the royal court of Persia. Tutor to Shapur II who had Usthazade executed at the start of his persecution of Christians. Martyr."

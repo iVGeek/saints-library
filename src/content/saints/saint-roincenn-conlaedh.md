@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Roincenn Conlaedh"
 honorific: Saint
 summary: "Son of Ugaine Mor. Bishop in the area of Cill-dara, Ireland."

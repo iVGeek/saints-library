@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Huno"
 honorific: Saint
 summary: "Priest and Benedictine monk at Ely, England under Saint Etheldreda. After Etheldreda's death, Huno retired to a hermitage in The Fens region of England."

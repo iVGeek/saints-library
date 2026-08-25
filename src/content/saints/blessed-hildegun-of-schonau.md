@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Hildegun of Schönau"
 honorific: Blessed
 summary: "Dressed as a boy for her own safety, Hildegun accompanied her father on a pilgrimage to the Holy Land. On her return home, she kept the male disguise, joined the Cistercian monks at Schönau, Germany, and lived the rest of her life as a brother, using the name Joseph. Legend descr"

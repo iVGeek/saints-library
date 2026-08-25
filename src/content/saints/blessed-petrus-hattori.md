@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Petrus Hattori"
 honorific: Blessed
 summary: "Young son of Blessed Ioannes Hattori Jingoro. Martyr."

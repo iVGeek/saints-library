@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Erlafrid of Hirschau"
 honorific: Saint
 summary: "Count of Calw, Swabia (modern Germany). Founded Hirschau Abbey which he entered as a Benedictine monk, and where he eventually served as abbot."

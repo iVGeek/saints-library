@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint John of Kathara"
 honorific: Saint
 summary: "Entered a monastery at age nine. Attended the Second Council of Nicaea in 787. Ordained at the Dalmatus monastery in Constantinople. Hegumen (abbot) of the Kathara monastery in Bithynia (in modern Turkey) in 805. Removed from his office, beaten and sent into exile in 815 for oppo"

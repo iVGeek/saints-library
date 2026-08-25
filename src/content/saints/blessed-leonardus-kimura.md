@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Leonardus Kimura"
 honorific: Blessed
 summary: "His grandfather was the first Japanese person baptized by Saint Francis Xavier, and Leonard was raised Christian; he was related to Blessed Anthony Kimura. Attended the Jesuit school in Nagasaki, Japan. Served as lay catechist. Travelled with Jesuit priests on missionary trips. J"

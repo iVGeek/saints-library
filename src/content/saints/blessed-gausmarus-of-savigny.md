@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Gausmarus of Savigny"
 honorific: Blessed
 summary: "Benedictine monk. Abbot at Saint Martin of Savigny from 954 to 984."

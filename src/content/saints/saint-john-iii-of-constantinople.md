@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint John III of Constantinople"
 honorific: Saint
 title: "Bishop"

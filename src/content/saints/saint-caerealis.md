@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Caerealis"
 honorific: Saint
 summary: "Imperial Roman soldier. Married to Saint Sallustia. Convert to Christianity, instructed in the faith by Pope Saint Cornelius. Martyred in the persecutions of Decius."

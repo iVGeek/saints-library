@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Silvinus of Auchy"
 honorific: Saint
 summary: "Silvinus spent his youth in the courts of King Childeric II and King Thierry III. On the eve of his marriage, he left for a pilgrimage to the Holy Land, and decided to turn his back on worldly life. Priest, ordained in Rome, Italy. Regional bishop with his see in Toulouse. Succes"

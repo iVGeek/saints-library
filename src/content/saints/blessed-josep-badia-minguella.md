@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Josep Badía Minguella"
 honorific: Blessed
 summary: "Priest of the archdiocese of Tarragona, Spain. Martyred in the Spanish Civil War."

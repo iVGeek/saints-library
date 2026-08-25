@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Bernard of Fountains"
 honorific: Blessed
 summary: "Thirteenth abbot of the Cistercian monastery of Fountains, England, chosen in September 1184, and serving the remaining year and a half of his life."

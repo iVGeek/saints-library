@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Paulus Nishida Kyuhachi"
 honorific: Blessed
 summary: "Layman of the archdiocese of Nagasaki, Japan. Martyr."

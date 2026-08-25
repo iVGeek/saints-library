@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Jambert of Canterbury"
 honorific: Saint
 title: "Bishop"

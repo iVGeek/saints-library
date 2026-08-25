@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Patermuzio of Phunon"
 honorific: Saint
 summary: "Bishop in Egypt. Sentenced to forced labour in a rock quarry and martyred in the persecution of Diocletian. Noted for celebrating Mass in prison."

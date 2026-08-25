@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Erembert I of Kremsmünster"
 honorific: Saint
 summary: "Benedictine monk. Abbot of Kremsmünster in Austria in 1050."

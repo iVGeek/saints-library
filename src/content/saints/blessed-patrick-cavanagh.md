@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Patrick Cavanagh"
 honorific: Blessed
 summary: "Lifelong layman in the diocese of Ferns, Ireland; worked as a sailor. One of the Irish Martyrs."

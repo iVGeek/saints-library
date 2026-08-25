@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Sadoth of Seleucia"
 honorific: Saint
 summary: "Deacon in service to Saint Barbasymas in the diocese of Seleucia-Ctesiphon. Attended the Council of Nicaea in 325. After Saint Barbasymas was martyred, Sadoth was chosen the new bishop of Seleucia-Ctesiphon. He and his priests went into hiding, covertly ministering to his flock."

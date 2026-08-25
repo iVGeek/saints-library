@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Modestus of Trier"
 honorific: Saint
 summary: "Bishop of Trier, Germany in 486 during a period of great political turmoil when the city came under the rule of the Franks."

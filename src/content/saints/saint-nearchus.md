@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Nearchus"
 honorific: Saint
 summary: "Christian soldier in the 12th imperial Roman legion assigned to Armenia in the 3rd century. Friend of Saint Polyeucte. Ordered to offer a sacrifice of incense to the emperor as a god, Nearchus refused. Martyr."

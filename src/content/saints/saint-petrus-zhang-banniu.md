@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Petrus Zhang Banniu"
 honorific: Venerable
 summary: "Married layman in the apostolic vicariate of Northern Shansi, China, Member of the Secular Franciscans.  Martyred in the Boxer Rebellion."

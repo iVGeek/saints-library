@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed John of Vallombrosa"
 honorific: Blessed
 summary: "Benedictine Vallombrosan monk at Florence, Italy, taking the religious name John of the Holy Trinity. Developed a fascination with black magic, and began to study and practice it in secret, collecting occult and forbidden writings. Eventually found out and summoned before the abb"

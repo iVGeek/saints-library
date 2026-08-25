@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Aneurin"
 honorific: Saint
 summary: "Father of Saint Gwinoc. Sixth century Welsh monk in Wales."

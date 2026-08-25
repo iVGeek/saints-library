@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Erfo of Münster"
 honorific: Blessed
 summary: "Priest. Provost of the cathedral of Saint Paul in Münster, Germany. Chosen bishop of Münster, Germany in 1084; he served the remaining 13 years of his life. Erfo supported Henry IV in the investiture controversy. He built several churches and other works in the diocese, supported"

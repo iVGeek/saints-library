@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint John of Gorze"
 honorific: Saint
 summary: "Born to a wealthy family. Studied at the Benedictine monastery of Saint-Mihiel in Metz, France. Reputed to have a prodigious memory, what today was would call “photographic”. Administrator of landed estates. Pilgrim to Rome, Italy. Spent some time at the Monte Cassino Abbey. Bene"

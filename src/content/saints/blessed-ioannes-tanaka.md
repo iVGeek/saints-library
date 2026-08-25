@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Ioannes Tanaka"
 honorific: Blessed
 summary: "Married layman. Sheltered Blessed Balthadar de Torres from persecutors. Imprisoned at Omura, Japan. Martyr."

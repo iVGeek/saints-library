@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Phêrô Lê Tùy"
 honorific: Venerable
 summary: "Studied at the seminary in Vinh-Tri in the apostolic vicariate of West Tonkin (in modern Vietnam). Parish priest in Dong-Thanh, Chan-Loc, Nam-Duong and Thanh-Trai. Arrested for his faith in the persecutions of Emperor Minh Mang while minstering to a sick prishioner in Thanh-Trai."

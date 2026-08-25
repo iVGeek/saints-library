@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Ida of Hohenfels"
 honorific: Blessed
 summary: "Married to Eberhard, Count of Spanheim. Widow. Benedictine nun at Bingen."

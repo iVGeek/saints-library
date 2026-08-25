@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Cassiano of Novellara"
 honorific: Saint
 summary: "Bishop. Martyred in the persecutions of Diocletian with several of his flock."

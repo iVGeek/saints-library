@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Quintius the Martyr"
 honorific: Saint
 summary: "One of a group of three sisters and a brother who were martyred together."

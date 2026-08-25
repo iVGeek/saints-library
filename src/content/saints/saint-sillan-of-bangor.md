@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Sillan of Bangor"
 honorific: Saint
 summary: "Spiritual student of Saint Comgall of Bangor. Abbot of Bangor Abbey."

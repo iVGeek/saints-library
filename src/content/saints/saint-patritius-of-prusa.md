@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Patritius of Prusa"
 honorific: Saint
 summary: "Bishop. Martyr. No other information has survived."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Monitor of Orleans"
 honorific: Saint
 summary: "Bishop of Orleans, France. Supported monastic expansion in his diocese."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Enrique Cañal Gómez"
 honorific: Blessed
 summary: "Dominican priest. Martyred in the Spanish Civil War."

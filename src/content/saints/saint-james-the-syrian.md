@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint James the Syrian"
 honorific: Saint
 summary: "Monk at Amida (Diarbekir), Mesopotamia. Known as a miracle worker, and for his great austerities."

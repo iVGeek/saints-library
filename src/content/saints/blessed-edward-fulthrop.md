@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Edward Fulthrop"
 honorific: Blessed
 summary: "Martyr."

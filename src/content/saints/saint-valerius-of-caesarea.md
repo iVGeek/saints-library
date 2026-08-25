@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Valerius of Caesarea"
 honorific: Saint
 summary: "Archdeacon of Jerusalem. Martyred in the persecutions of Galerius."

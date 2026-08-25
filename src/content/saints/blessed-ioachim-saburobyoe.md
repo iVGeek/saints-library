@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Ioachim Saburobyoe"
 honorific: Blessed
 summary: "Layman in the diocese of Niigata, Japan. Martyr."

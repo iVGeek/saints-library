@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Berthanc of Kirkwall"
 honorific: Saint
 summary: "Monk at Iona Abbey in Scotland. Bishop of Kirkwall in the Orkney Islands of Scotland."

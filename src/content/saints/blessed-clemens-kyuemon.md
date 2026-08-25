@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Clemens Kyuemon"
 honorific: Blessed
 summary: "Layman martyr in the archdiocese of Nagasaki, Japan."

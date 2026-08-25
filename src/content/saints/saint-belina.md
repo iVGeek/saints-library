@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Belina of Troyes"
 honorific: Saint
 summary: "A peasant shepherd girl who died fighting off a rape by the feudal lord of her district."

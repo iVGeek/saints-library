@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Simon of Saint Bertin"
 honorific: Blessed
 summary: "Benedictine monk at the Abbey of Saint-Bertin, France. Abbot at Auchy, France. Abbot at Saint-Bertin in 1138."

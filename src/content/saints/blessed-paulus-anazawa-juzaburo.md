@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Paulus Anazawa Juzaburo"
 honorific: Blessed
 summary: "Layman in the diocese of Niigata, Japan. Son of Blessed Antonius Anazawa Han'emon and Blessed Crescentia Anazawa. Martyr."

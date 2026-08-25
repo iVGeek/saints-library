@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Firminus of Metz"
 honorific: Saint
 summary: "Bishop of Metz, France for eight years."

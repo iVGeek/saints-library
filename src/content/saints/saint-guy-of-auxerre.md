@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Guy of Auxerre"
 honorific: Saint
 summary: "Educated at the cathedral school at Auxerre, France. Priest. Chaplain and counselor to the court of king Raoul and queen Emma. Archdeacon of Auxerre. Bishop of Auxerre from 933 to 961. Waged an on-going fight with the nobility who tried to confiscate church goods. Built and resto"

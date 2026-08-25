@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Ampelius of Africa"
 honorific: Saint
 summary: "Martyr in the persecutions of Diocletian."

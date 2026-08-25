@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Victorinus of Messina"
 honorific: Saint
 summary: "Brother of Saint Placidus of Messina. Benedictine monk. Martyr."

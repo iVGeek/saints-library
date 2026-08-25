@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Modanic"
 honorific: Saint
 summary: "Eighth century bishop, possibly at Aberdeen, Scotland. No other information has survived."

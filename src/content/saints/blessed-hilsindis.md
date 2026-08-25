@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Hilsindis"
 honorific: Blessed
 summary: "Daughter of the Duke of Lorraine. Married lay woman. Widow. Founded a convent at Thorn (now in the Netherlands), and joined it as a Benedictine nun. Abbess at Thorn."

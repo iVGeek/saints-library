@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Tyfrydog"
 honorific: Saint
 summary: "Son of Arwystli Glof ab Seithenyn. Sixth-century monk on Bardsey Island, Wales. Built a church in the village of Lladyfrydog, Wales. A standing stone nearby is said to be a man who stole the bible from that church and got turned into stone."

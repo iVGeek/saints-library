@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Ioannes Yoshida Shoun"
 honorific: Blessed
 summary: "Convert, baptized by Jesuits in the archdiocese of Nagasaki, Japan. Layman member of the Confraternity of the Holy Rosary. Martyr."

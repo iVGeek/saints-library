@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Papa of Seleucia"
 honorific: Saint
 summary: "Martyr."

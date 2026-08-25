@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Theodule of Cilicia"
 honorific: Saint
 summary: "Elderly servant of governor Firmilian. Martyr."

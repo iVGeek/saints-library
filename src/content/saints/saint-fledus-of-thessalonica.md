@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Fledus of Thessalonica"
 honorific: Saint
 summary: "Martyr."

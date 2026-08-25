@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Philoterus"
 honorific: Saint
 summary: "Born to the nobility, the son of imperial Roman proconsul Pacian. Marytred in the persecutions of Diocletian."

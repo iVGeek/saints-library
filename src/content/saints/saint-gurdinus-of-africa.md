@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Gurdinus of Africa"
 honorific: Saint
 summary: "Martyr. No other detail have survived."

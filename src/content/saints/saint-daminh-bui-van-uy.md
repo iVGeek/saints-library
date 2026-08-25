@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Ðaminh Bùi Van Úy"
 honorific: Venerable
 summary: "Lay Dominican in the apostolic vicariate of East Tonkin. Catechist. One of the Martyrs of Vietnam."

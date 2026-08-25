@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Simeon the Logothete"
 honorific: Saint
 summary: "Logothete (secretary of state) to Emperor Constantine VII Porphyrogenitus. Wrote history, prayers, letters, and collections of wisdom of Basil and Macarius of Egypt, but is most famous for his collection of legends and stories of the Byzantine saints similar to Blessed Jacopo de"

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Euerotas of Nicaea"
 honorific: Saint
 summary: "Martyr."

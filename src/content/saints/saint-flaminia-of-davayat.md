@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Flaminia of Davayat"
 honorific: Saint
 summary: "Martyr."

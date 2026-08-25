@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Tudclyd"
 honorific: Saint
 summary: "Nun. A church in Dyfed, Wales is named for her."

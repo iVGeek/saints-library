@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Antiochiano"
 honorific: Saint
 summary: "Martyr."

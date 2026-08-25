@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Lupicinus of Lyon"
 honorific: Saint
 summary: "Bishop of Lyon, France in 486."

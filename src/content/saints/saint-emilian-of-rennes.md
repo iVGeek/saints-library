@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Emilian of Rennes"
 honorific: Saint
 summary: "Hermit in Rennes, Brittany, France."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Ermen"
 honorific: Saint
 summary: "Nun, praised for her charity. No other information has survived."

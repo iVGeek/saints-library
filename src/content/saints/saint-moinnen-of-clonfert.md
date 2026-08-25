@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Moinnen of Clonfert"
 honorific: Saint
 summary: "Sixth century bishop of Clonfert, County Galway, Ireland."

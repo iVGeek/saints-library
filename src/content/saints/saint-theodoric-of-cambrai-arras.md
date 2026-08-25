@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Theodoric of Cambrai-Arras"
 honorific: Saint
 summary: "Bishop of Cambrai-Arras, France from c.830 to 863."

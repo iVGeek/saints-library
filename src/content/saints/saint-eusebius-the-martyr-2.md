@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Eusebius the Martyr"
 honorific: Saint
 summary: "One of a group of ten martyrs who died in a group in North Africa."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Hugh of Vaucelles"
 honorific: Blessed
 summary: "Dean of the church in Cambrai, France. Cistercian monk at Vaucelles, France."

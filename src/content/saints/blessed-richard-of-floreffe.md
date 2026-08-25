@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Richard of Floreffe"
 honorific: Blessed
 summary: "One of the first Premonstratensian canons, joining at the Prémontré monastery at Laon, Aisne, Picardy, France in 1120. First prior of the monastery at Floreffe, Vallonia (in modern Belgium) in 1122 where he served the rest of his life. Richard was a pious man, known for his chari"

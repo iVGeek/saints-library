@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Meallan of Cell Rois"
 honorific: Saint
 summary: "An Irish priest, he received a blessing from Saint Patrick for his desire for religious work."

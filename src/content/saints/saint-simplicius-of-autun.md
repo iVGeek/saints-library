@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Simplicius of Autun"
 honorific: Saint
 summary: "Married, but he and his wife lived as brother and sister. Evangelizing bishop of Autun, France."

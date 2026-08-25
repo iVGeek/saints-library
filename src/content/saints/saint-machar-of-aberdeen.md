@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Machar of Aberdeen"
 honorific: Saint
 summary: "Baptized by Saint Colman. Spiritual student of Saint Columba at Iona Abbey. Bishop of Aberdeen, Scotland. Missionary to the Picts with twelve companions."

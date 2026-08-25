@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Hedda the Abbot"
 honorific: Saint
 summary: "Benedictine abbot. He and 84 of his brother monks were martyred by invading pagan Danes."

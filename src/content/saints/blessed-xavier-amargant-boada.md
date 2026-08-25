@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Xavier Amargant Boada"
 honorific: Blessed
 summary: "Member of the Claretians, professed on 27 September 1932. Martyred in the Spanish Civil War."

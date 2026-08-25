@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Josep Ros Nadal"
 honorific: Blessed
 summary: "Member of the Claretians, professed on 8 December 1899. Martyred in the Spanish Civil War."

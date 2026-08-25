@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Jean-André Capeau"
 honorific: Blessed
 summary: "Priest of the archdiocese of Avignon, France. One of the Martyrs of September."

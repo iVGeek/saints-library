@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Proculus of Nicaea"
 honorific: Saint
 summary: "One of 279 Christians martyred together."

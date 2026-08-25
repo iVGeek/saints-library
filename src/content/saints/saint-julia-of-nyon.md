@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Julia of Nyon"
 honorific: Saint
 summary: "Martyred for refusing to sacrifice to imperial Roman idols."

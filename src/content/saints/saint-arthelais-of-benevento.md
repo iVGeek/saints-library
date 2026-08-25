@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Arthelais of Benevento"
 honorific: Saint
 summary: "Daughter of Roman imperial proconsul Lucius and Aithuesa. The emperor Justinian desired her, but she had taken vows of holy chastity and so fled to Benevento, Italy where she stayed with her uncle Narses Patricius. En route she was kidnapped by highway men, but was miraculously f"

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed William Patenson"
 honorific: Blessed
 summary: "Studied at Rheims, France. Ordained in September 1587. Returned to England in 1588 to minister to covert Catholics. Arrested in Clerkwenwell, England in December 1591 at a private home where he was saying Mass. He was condemned to death for the crime of priesthood. While in await"

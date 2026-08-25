@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Philip of Varano"
 honorific: Blessed
 summary: "Benedictine monk in the monastery of Grottafucile in Fabriano, Italy. First spiritual student of Saint Sylvester Gozzolini and member of the Sylvestrines. Priest."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Oliva of Brescia"
 honorific: Saint
 summary: "Martyred in the persecutions of Hadrian."

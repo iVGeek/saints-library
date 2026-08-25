@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Mundus"
 honorific: Saint
 summary: "Abbot who founded several monasteries in Argyle, Scotland."

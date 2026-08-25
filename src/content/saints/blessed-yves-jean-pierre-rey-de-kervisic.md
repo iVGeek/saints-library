@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Yves-Jean-Pierre Rey de Kervisic"
 honorific: Blessed
 summary: "Studied at the Saint-Nicolas-du-Chardonnet Seminary in Paris, France. Ordained a priest on 6 October 1788. Chaplain to the college of Navarre, France. Parish priest at Saint-Jacques-du-Haut-Pas in Paris in 1790. Father Yves had to go into hiding during the French Revolution for r"

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Sixtus of Kyoto"
 honorific: Blessed
 summary: "Son of Blessed Maria of Kyoto. One of the Martyrs of Kyoto, murdered at the age of 3."

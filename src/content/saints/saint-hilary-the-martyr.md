@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Hilary the Martyr"
 honorific: Saint
 summary: "Martyr. No other details are known."

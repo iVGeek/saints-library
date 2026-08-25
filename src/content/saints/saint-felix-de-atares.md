@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Felix de Atarés"
 honorific: Saint
 title: "Hermit"

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Secundinus of Hadrumetum"
 honorific: Saint
 summary: "One of a group of 26 martyrs killed by Vandals."

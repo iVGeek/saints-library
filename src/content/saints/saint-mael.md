@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Mael"
 honorific: Saint
 summary: "Travelled with Saint Cadfan to Wales in the 6th century. Spent the rest of his life as a hermit on the isle of Bardsey, noted for his holiness and wisdom."

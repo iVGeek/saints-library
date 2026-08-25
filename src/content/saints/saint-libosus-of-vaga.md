@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Libosus of Vaga"
 honorific: Saint
 summary: "Bishop of Vaga (modern Béja, Tunisia). Part of the Council of Carthage in 256. Several of his letters have survived to today. Martyred in the persecutions of Valerian."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed León Inchausti Minteguía"
 honorific: Blessed
 summary: "Augustinian Recollect priest. Martyred in the Spanish Civil War."

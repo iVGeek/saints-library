@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Pelinus of Confinium"
 honorific: Saint
 summary: "Priest. Bishop of Brindisi, Italy. During the persecutions of Julian the Apostate, Pelinus prayed in front of a temple to the pagan god Mars; it collapsed. Martyr."

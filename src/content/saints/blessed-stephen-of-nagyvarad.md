@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Stephen of Nagyvárad"
 honorific: Blessed
 summary: "Franciscan friar. Imprisoned for his faith, he escaped and sought shelter in Sarai Batu (modern Selitrennoye, Russia). To save himself from his persecutors, he denied that he was Christian and announced his conversion to Islam. He immediately repented this apostasy, declared that"

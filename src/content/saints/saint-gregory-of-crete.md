@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Gregory of Crete"
 honorific: Saint
 summary: "Grew up a shepherd on the island of Crete. He lived as a prayerful pilgrim beggar in Jerusalem and the Holy Lands for 12 years where he was regularly abused for his faith by the area Muslims. He then made a pilgrimage to the tombs of the Apostles in Rome, Italy, and stayed to ent"

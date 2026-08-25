@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Gratus of Thagura"
 honorific: Saint
 summary: "One of a group of twelve African Christians who were martyred together in the persecutions of Diocletian. No other details have survived."

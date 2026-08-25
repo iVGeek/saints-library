@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Leobazio"
 honorific: Saint
 summary: "Fifth-century monk. Spiritual student of Saint Urso. Abbot of Saint Orso Sénevière abbey in Lugdunense, Gaul (in modern France)."

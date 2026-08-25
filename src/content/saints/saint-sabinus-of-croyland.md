@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Sabinus of Croyland"
 honorific: Saint
 summary: "Monk at Croyland Abbey. Sub-deacon. Martyred by pagan Danes."

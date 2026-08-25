@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Prudentius of Laodicea"
 honorific: Saint
 summary: "Martyr."

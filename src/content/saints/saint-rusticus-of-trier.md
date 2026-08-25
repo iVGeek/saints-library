@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Rusticus of Trier"
 honorific: Saint
 summary: "Bishop of Trier, Germany. Accused of sexual impurity, Rusticus feared the scandal would harm the faith of this parishioners, so he resigned and spent his remaining days as a hermit at Saint Goar."

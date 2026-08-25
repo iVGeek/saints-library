@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Theodolus of Phrygia"
 honorific: Saint
 summary: "Martyred for destroying pagan idols."

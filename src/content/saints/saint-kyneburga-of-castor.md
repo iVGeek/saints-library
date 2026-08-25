@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Kyneburga of Castor"
 honorific: Saint
 summary: "Daughter of Pendra of Mercia; her father was a pagan who fiercely opposed Christianity, but many in her family grew strong in the new faith - her sister was Saint Kyneswide, and she was related to Saint Tibba. Kyneburga became a Benedictine nun, and later founded and served as ab"

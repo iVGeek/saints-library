@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Rufus of Tomi"
 honorific: Saint
 summary: "Martyr. No further information has survived."

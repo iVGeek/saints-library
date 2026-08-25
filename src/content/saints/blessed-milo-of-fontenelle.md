@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Milo of Fontenelle"
 honorific: Blessed
 summary: "Born to the Frankish nobility, Milo and his father both gave it up to become Benedictine monks at Fontenelle Abbey. Milo later left the monastery to live as a hermit."

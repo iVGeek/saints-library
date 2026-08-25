@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Richard of Saint Vannes"
 honorific: Saint
 summary: "Monk at the monastery of Saint Vannes, Verdun, France."

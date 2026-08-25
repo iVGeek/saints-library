@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Edwen of Northumbria"
 honorific: Saint
 summary: "Seventh century consecrated virgin. Daughter of Saint Edwin of Northumbria."

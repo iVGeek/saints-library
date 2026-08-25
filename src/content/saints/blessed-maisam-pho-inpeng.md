@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Maisam Pho Inpèng"
 honorific: Blessed
 summary: "Married layman in the apostolic vicariate of Vientiane (in modern Laos). Martyr."

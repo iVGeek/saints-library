@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Domnus of Vienne"
 honorific: Saint
 summary: "Priest. Bishop of Vienne, France. He was zealous in ransoming captives."

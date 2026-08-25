@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Rufinus of Marsi"
 honorific: Saint
 summary: "Early bishop. Martyred with several Christian companions whose names have not come down to us."

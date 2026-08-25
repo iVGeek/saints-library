@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Phillip Ciardella"
 honorific: Blessed
 summary: "Francsican friar."

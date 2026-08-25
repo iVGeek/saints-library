@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Romanus of Corinth"
 honorific: Saint
 summary: "Martyr."

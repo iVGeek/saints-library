@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Secundus of Puglia"
 honorific: Saint
 title: "Bishop"

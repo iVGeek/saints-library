@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Ennatha of Caesarea"
 honorific: Saint
 summary: "Young Christian woman who was scourged and martyred in the persecutions of Diocletian and Galerius."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Prosper of Orléans"
 honorific: Saint
 summary: "Chosen bishop of Orléans, France in 453. Formally received Saint Genevieve of Paris when she passed through Orléans."

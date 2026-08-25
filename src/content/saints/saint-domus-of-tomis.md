@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Domus of Tomis"
 honorific: Saint
 summary: "Martyr."

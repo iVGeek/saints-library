@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Martirio of Constantinople"
 honorific: Saint
 summary: "Sub-deacon. Martyred by Arians in the persecutions of emperor Constantius."

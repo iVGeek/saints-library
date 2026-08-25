@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Cantidianus"
 honorific: Saint
 summary: "Martyred in Egypt. No other information has survived."

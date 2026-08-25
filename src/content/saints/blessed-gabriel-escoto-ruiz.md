@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Gabriel Escoto Ruiz"
 honorific: Blessed
 summary: "Carmelites of the Ancient Observance novice. Martyred in the Spanish Civil War."

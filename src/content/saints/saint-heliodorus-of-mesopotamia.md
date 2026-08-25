@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Heliodorus of Mesopotamia"
 honorific: Saint
 summary: "Bishop in Mesopotamia. Martyred in the persecution of Shapur II."

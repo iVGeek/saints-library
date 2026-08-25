@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Toribia Marticorena Sola"
 honorific: Blessed
 summary: "Member of the Daughters of Charity of Saint Vincent de Paul. Martyred in the Spanish Civil War."

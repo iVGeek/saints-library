@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Pedro Velasco Narbona"
 honorific: Blessed
 summary: "A postulant in the Carmelites of the Ancient Observance. Martyred in the Spanish Civil War."

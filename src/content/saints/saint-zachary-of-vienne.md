@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Zachary of Vienne"
 honorific: Saint
 summary: "Second bishop of Vienne, France. Martyred in the persecutions of Trajan."

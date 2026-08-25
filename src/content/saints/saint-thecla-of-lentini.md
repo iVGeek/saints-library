@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Thecla of Lentini"
 honorific: Saint
 summary: "Daughter of Saint Isidore of Lentini; niece of Saint Neofyta; cousin of Saint Neofytus. Thecla was a consecrated virgin, a form of nun that pre-dates congregations. She worked with the poor in Lentini until an unspecified disease left her paralyzed and bed-ridden for six years; s"

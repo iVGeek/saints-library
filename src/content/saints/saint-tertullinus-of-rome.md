@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Tertullinus of Rome"
 honorific: Saint
 summary: "Priest. Martyred two days after his ordination in the persecutions of Valerian."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Crescentius of Carthage"
 honorific: Saint
 summary: "Priest. Martyred in the persecutions of the Arians."

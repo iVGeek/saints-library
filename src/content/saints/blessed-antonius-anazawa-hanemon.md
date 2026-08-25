@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Antonius Anazawa Han'emon"
 honorific: Blessed
 summary: "Layman in the diocese of Niigata, Japan. Married to Blessed Crescentia Anazawa. Martyr."

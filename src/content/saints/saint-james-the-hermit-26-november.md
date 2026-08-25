@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint James the Hermit"
 honorific: Saint
 summary: "Monk. Hermit. Miracle worker. His reputation for wisdom and holiness led the emperor to ask James to attend the Council of Chalcedon in 451."

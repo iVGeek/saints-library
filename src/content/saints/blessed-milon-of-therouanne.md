@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Milon of Thérouanne"
 honorific: Blessed
 summary: "Premonstratensian monk. First abbot of the monastery at Dommartin, France. Bishop of Thérouanne, France in 1131 where he served for 25 years. Worked to revitalize and reform his clergy during a period of spiritual lethargy and lax discipline. Founded two Premonstratensian abbeys."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Demetrios of Philadelphia"
 honorific: Blessed
 summary: "Son of an Orthodox priest, at age 13 Demetrios converted from Christianity to Islam. However, by age 25 he realized his error and returned to Christianity. Kidnapped as he approached a church, he was beaten, tortured, mutilated and finally murdered by Turkish Muslims who insisted"

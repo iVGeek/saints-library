@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Severus of Auch"
 honorific: Saint
 title: "Priest"

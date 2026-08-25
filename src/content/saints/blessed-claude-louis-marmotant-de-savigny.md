@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Claude-Louis Marmotant de Savigny"
 honorific: Blessed
 summary: "Priest of the diocese of Meaux, France. One of the Martyrs of September."

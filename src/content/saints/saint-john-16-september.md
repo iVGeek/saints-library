@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint John of Rome"
 honorific: Saint
 summary: "Son of Saint Marcian the Senator. Died of unknown causes, but was brought back to life through the prayers of Saint Abundius. He immediately converted to Christianity, and was immediately condemned for his faith. Martyred with Saint Marcian the Senator, Saint Abundius, and Saint"

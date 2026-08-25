@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Henry of Cologne"
 honorific: Blessed
 title: "Priest"

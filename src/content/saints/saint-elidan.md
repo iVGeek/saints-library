@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Elidan"
 honorific: Saint
 summary: "Nun in Llangurig, Denbigshire, Wales."

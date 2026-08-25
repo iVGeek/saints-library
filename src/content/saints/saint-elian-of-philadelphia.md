@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Elian of Philadelphia"
 honorific: Saint
 summary: "Elian was a weaver and zealous Christian in the city of Philadelphia (modern Amman, Jordan). During a period of food shortages, the city was rocked by disturbances against the civil authorities. The civic leaders were imprisoned by the provincial governor for letting things get o"

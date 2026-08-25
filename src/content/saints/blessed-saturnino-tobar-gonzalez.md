@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Saturnino Tobar González"
 honorific: Blessed
 summary: "Member of the Vincentian Congregation of the Mission. Martyred in the Spanish Civil War."

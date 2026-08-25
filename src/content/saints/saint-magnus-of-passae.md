@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Magnus of Passae"
 honorific: Saint
 summary: "Christian in the diocese of Saint Valetine in Terni, Italy. Martyr."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Ogasawara Tsuchi"
 honorific: Blessed
 summary: "Lifelong lay woman in the diocese of Fukuoka, Japan. Daughter of Blessed Ogasawara Yosaburo Gen'ya and Blessed Ogasawara Miya Luisa. Martyr."

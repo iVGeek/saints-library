@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Gerasimus of San Lorenzo"
 honorific: Saint
 title: "Hermit"

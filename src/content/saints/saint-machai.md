@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Machai"
 honorific: Saint
 summary: "Spiritual student of Saint Patrick. Founded a monastery on the isle of Bute, Ireland, served as its first abbot, and led evangelical missions that were based from it."

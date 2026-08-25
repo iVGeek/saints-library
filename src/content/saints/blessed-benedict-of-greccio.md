@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Benedict of Greccio"
 honorific: Blessed
 summary: "Thirteenth century Franciscan friar in Rieti, Italy."

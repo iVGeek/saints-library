@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Clemente Capponi"
 honorific: Blessed
 summary: "Born to the Florentine nobility, Clemente joined the lay Franciscans in 1399 at the convent of Santa Maria del Fiore in Fiesole, Italy where he became known for a life of penance, subsisting on only bread and water, and for his ministry to and support of the poor."

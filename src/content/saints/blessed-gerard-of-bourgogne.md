@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Gerard of Bourgogne"
 honorific: Blessed
 summary: "Cistercian Benedictine monk. Abbot at Cambron, France."

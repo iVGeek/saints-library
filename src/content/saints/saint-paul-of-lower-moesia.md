@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Paul of Lower Moesia"
 honorific: Saint
 summary: "Martyr. No other information has survived."

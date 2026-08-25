@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Giuliano Mayali"
 honorific: Blessed
 summary: "Feeling a call to the contemplative religious life of a hermit, Giuliano became a Benedictine monk at Santa Maria delle Ciambre near Monreale, Italy in 1417, and gave over all his wealth and possession to the house. However, he was soon called from a hermit's life to one of publi"

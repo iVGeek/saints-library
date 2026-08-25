@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Liberius of Ravenna"
 honorific: Saint
 summary: "One of the first bishops of the diocese of Ravenna, Italy."

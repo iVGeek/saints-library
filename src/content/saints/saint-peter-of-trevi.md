@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Peter of Trevi"
 honorific: Saint
 summary: "Evangelist who preached to peasants in the Tivoli, Anagni and Subiaco areas of Italy."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Domnina of Antioch"
 honorific: Saint
 summary: "Martyr."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Galata of Melitene"
 honorific: Saint
 summary: "Martyr."

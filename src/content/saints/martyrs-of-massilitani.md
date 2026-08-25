@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Martyrs of Massilitani"
 honorific: Saint
 summary: "A group of Christians martyred together in northern Africa. Saint Augustine of Hippo wrote about them."

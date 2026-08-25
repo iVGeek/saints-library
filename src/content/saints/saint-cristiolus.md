@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Cristiolus"
 honorific: Saint
 summary: "Brother of Saint Sulian. Founded churches, including in Anglesey and Pembrokeshire in Wales."

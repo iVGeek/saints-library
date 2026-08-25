@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Martin of Moyenmoutier"
 honorific: Saint
 summary: "Monk in the monastery in Moyenmoutier, France. Helped found the monastery in the area of Romont in modern Switzerland."

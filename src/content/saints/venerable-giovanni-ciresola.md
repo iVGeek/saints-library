@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Venerable Giovanni Ciresola"
 honorific: Venerable
 summary: "Priest of the diocese of Verona, Italy. Founded the Congregation of the Poor Handmaids of the Precious Blood, Cenacle of Charity."

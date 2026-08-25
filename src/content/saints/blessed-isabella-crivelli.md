@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Isabella Crivelli"
 honorific: Blessed
 summary: "Poor Clare nun at the convent of Sant'Apollinare in Porta Romana, Milan, Italy known for her mystical prayer life."

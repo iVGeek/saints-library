@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Leo Nakajima Sokan"
 honorific: Blessed
 summary: "Married layman of the archdiocese of Nagasaki, Japan. Father of Blessed Paulus Nakajima. One of the Martyrs of Unzen."

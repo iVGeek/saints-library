@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Romulus of Berry"
 honorific: Saint
 summary: "Priest. Founded a monastery in Berry, France."

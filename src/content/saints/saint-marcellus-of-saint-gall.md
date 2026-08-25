@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Marcellus of Saint Gall"
 honorific: Saint
 summary: "Monk at Saint Gall Abbey in Switzerland."

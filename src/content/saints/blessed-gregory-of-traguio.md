@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Gregory of Traguio"
 honorific: Blessed
 summary: "Franciscan friar. Betrayed by a heretic monk, he and several of his religious brothers were martyred by order of King Bazarath."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Epiphana"
 honorific: Saint
 summary: "Martyr. No other reliable information has survived."

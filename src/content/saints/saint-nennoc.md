@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Nennoc"
 honorific: Saint
 summary: "Daughter of Saint Brychan of Brycheiniog. Nun who followed Saint Germanus of Auxerre to France. Abbess of one or more convents in Brittany."

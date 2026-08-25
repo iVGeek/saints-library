@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Sadwen of Wales"
 honorific: Saint
 summary: "Son of a prince, Bicanus Farchog of Llydaw; brother of Saint Illtyd. Educated by Saint Garmon of Manaw. Soldier. Married to Saint Canna verch Tewdr Marw. Father of Saint Crallo. Disciple of Saint Cadfan. Missionary to the British Isles. Hermit on Anglesey Island. Several Welsh ch"

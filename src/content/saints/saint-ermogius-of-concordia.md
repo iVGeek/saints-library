@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Ermogius of Concordia"
 honorific: Saint
 summary: "One of a group of about 80 Christians martyred together during the persecutions Diocletian. One of the Martyrs of Concordia."

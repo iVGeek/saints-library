@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Gothalm"
 honorific: Saint
 summary: "Monk in Melk, Austria."

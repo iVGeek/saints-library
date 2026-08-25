@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed John of Grace-Dieu"
 honorific: Blessed
 summary: "Benedictine Cistercian monk at Saint Denis monastery. Abbot of Igny. Abbot of Clairvaux in 1257. Abbot of Grace-Dieu c.1262."

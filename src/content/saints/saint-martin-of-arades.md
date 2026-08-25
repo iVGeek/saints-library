@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Martin of Arades"
 honorific: Saint
 summary: "Monk at Corbie Abbey in France. Priest. Court chaplain and confessor of Charles Martel."

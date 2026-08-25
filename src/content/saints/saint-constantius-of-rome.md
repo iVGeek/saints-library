@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Constantius of Rome"
 honorific: Saint
 summary: "Priest in Rome, Italy. Opposed Pelagianism, and murdered by its adherents."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Quadragesimus of Policastro"
 honorific: Saint
 summary: "Shepherd. Deacon at Policastro, Salerno, Italy. According to Saint Gregory the Great, he raised a dead man to life."

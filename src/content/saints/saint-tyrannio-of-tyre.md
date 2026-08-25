@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Tyrannio of Tyre"
 honorific: Saint
 summary: "Bishop of Tyre, Phoenicia (modern Sur, Lebanon). Martyred in the persecutions of Diocletian."

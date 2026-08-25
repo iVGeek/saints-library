@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Antonius Banzai Orusu"
 honorific: Blessed
 summary: "Child in the diocese of Niigata, Japan. Son of Blessed Ioannes Banzai Kazue and Blessed Aurea Banzai. Martyr."

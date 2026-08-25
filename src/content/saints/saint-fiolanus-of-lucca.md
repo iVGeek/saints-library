@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Fiolanus of Lucca"
 honorific: Saint
 summary: "Bishop. Travelled with and martyred with Saint Ursula."

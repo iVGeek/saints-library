@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Andrew of Strumi"
 honorific: Saint
 summary: "Benedictine. Spiritual student and chief supporter of Saint Arialdo of Milan in the campaign against simony in Milan, Italy. Vallombrosan monk. Abbot of San Fedele at Strumi on the Arno. Peacemaker between the Italian cities of Florence and Arezzo. Biographer of Saint John Gualbe"

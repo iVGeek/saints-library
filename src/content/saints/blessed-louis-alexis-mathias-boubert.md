@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Louis-Alexis-Mathias Boubert"
 honorific: Blessed
 summary: "Deacon of the diocese of Amiens, France. One of the Martyrs of September."

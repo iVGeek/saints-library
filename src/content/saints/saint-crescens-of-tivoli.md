@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Crescens of Tivoli"
 honorific: Saint
 summary: "Child of Saint Symphorosa of Tivoli. Martyred in the persecutions of Hadrian."

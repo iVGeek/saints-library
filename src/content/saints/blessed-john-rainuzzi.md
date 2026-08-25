@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed John Rainuzzi"
 honorific: Blessed
 summary: "Benedictine monk at Saint Margaret's monastery at Todi, Italy. Noted for his charity."

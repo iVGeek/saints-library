@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Stephen of Sweden"
 honorific: Saint
 summary: "Monk at New Corbie monastery, Saxony. Priest. Missionary bishop to Sweden. Achieved many conversions, and was the first to bring Christianity to the area between Denmark and Sweden. Murdered by worshippers of the pagan god Woden. Martyr."

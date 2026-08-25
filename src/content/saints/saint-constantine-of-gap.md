@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Constantine of Gap"
 honorific: Saint
 summary: "First bishop of Gap, France. Attended the Council of Orange in 519. Fought against the Arian heresy."

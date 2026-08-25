@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Cuaran the Wise"
 honorific: Saint
 summary: "Bishop in Ireland. When the requirements of the office crowded out his prayer life, Cuaran moved to Iona, hid his identity, and became a monk. However, he was recognized by Saint Columba and returned to his duty. Called “the Wise” due to his extensive knowledge of the canons of t"

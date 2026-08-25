@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Hermogenes of Melitene"
 honorific: Saint
 summary: "Servant to a deacon, Saint Peter, with whom he was martyred."

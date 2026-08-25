@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Pandwyna"
 honorific: Saint
 summary: "Nun. The church in Eltisley, England is dedicated to her."

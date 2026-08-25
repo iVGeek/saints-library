@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Tírechán"
 honorific: Saint
 summary: "Probably born to the wealthy Irish upper class; records are scant, but his level of education and references in his writings argue for it. Seventh century spiritual student of Saint Ultan of Ardbraccan. Priest in Meath, Ireland. May have been a bishop in the region of Calliaghsto"

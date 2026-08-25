@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Francisco Carlés González"
 honorific: Blessed
 summary: "Franciscan Friar Minor, entering the novitiate on 19 March 1909 and making his solemn vows on 12 April 1913. Ordained in Cordoba, Spain on 2 June 1917. Served in the Holy Lands in the sanctuaries of the Holy Sepulchre, in Bethlehem and Hain Karem. Studied Arabic in Syria. Co-adju"

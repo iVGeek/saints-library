@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Foircheallach of Fobhar"
 honorific: Saint
 summary: "Monk and abbot of the abbey of Fobhar and/or Clonmachoise. No information about his life have survived."

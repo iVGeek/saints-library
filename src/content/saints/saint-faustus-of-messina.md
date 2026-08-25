@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Faustus of Messina"
 honorific: Saint
 summary: "Benedictine monk. Martyr."

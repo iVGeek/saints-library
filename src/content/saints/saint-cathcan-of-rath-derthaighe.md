@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Cathcan of Rath-derthaighe"
 honorific: Saint
 title: "Bishop"

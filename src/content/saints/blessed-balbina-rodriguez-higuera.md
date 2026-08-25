@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Balbina Rodríguez Higuera"
 honorific: Blessed
 summary: "Conceptionist nun. Martyred in the Spanish Civil War."

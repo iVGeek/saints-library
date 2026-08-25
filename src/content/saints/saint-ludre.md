@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Ludre"
 honorific: Saint
 summary: "Son of Saint Leocadio of Déols. A convert, he died almost immediately after baptism, still wearing the white robes."

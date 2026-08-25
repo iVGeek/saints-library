@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Concordius of Toledo"
 honorific: Saint
 summary: "8th-century archbishop of Toledo, Spain."

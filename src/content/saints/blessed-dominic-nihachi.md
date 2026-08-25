@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Dominic Nihachi"
 honorific: Blessed
 summary: "Son of Blessed Ludovicus Nihachi; brother of Blessed Franciscus Nihachi. Martyred at the age of two (!) because of his family's faith."

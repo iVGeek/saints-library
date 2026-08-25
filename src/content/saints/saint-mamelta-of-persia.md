@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Mamelta of Persia"
 honorific: Saint
 summary: "Pagan priest in Bethfarme, Persia. Convert to Christianity. Martyr."

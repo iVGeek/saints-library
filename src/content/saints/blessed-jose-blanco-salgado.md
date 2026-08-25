@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed José Blanco Salgado"
 honorific: Blessed
 summary: "Friar in the Salesians of Don Bosco. Martyred in the Spanish Civil War."

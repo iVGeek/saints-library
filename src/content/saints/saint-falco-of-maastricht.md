@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Falco of Maastricht"
 honorific: Saint
 title: "Bishop"

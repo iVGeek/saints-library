@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Rufinus of Ancyra"
 honorific: Saint
 summary: "Child martyr."

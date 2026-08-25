@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Faustina of Rome"
 honorific: Saint
 summary: "Virgin martyr."

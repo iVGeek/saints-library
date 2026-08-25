@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Zenobius of Tripoli"
 honorific: Saint
 summary: "Martyr."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Priscus of Caesarea"
 honorific: Saint
 summary: "Hermit in the area of Caesarea in Palestine. During a period of persecution in the region, he went into the city and publicly proclaimed himself a Christian. Tortured and executed for his faith and for showing courage in the face of anti-Christian government."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Balthasar Kagayama Hanzaemon"
 honorific: Blessed
 summary: "Married layman in the diocese of Fukuoka, Japan. Father of Blessed Iacobus of Hiji. Martyr."

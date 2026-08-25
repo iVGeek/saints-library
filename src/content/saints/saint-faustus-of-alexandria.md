@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Faustus of Alexandria"
 honorific: Saint
 summary: "One of a number of Christians martyred in the persecutions of Decius."

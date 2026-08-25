@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed José Franco Gómez"
 honorific: Blessed
 summary: "Joined the Hospitallers of Saint John of God in 1893, making his vows on 7 April 1895. Martyred in the Spanish Civil War."

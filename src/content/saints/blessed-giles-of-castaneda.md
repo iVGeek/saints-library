@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Giles of Castaneda"
 honorific: Blessed
 summary: "Benedictine Cistercian monk. Abbot of the monastery of San Martín de Castaneda. In his old age he retired from community life to live as a prayerful hermits."

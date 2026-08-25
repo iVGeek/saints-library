@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed William of Assisi"
 honorific: Blessed
 summary: "May have been a priest. Joined the Franciscans and travelled with Saint Francis of Assisi in the early days of the Order."

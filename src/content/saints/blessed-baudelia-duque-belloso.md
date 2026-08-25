@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Baudelia Duque Belloso"
 honorific: Blessed
 summary: "Member of the Franciscan Sisters of the Sacred Hearts. Martyred in the Spanish Civil War."

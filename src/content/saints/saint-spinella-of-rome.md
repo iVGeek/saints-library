@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Spinella of Rome"
 honorific: Saint
 summary: "One of a group of nine Christians, including seven brothers, martyred together."

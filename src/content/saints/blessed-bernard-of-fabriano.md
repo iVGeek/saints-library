@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Bernard of Fabriano"
 honorific: Blessed
 summary: "Franciscan friar noted for his piety and the depth of his prayer and meditative life."

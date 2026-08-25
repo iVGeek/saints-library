@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Orlando of Vallombrosa"
 honorific: Blessed
 summary: "Lay-brother in the Vallombrosan Order. Noted exorcist."

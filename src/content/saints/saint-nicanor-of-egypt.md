@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Nicanor of Egypt"
 honorific: Saint
 summary: "Martyred in the persecutions of Galerius Maximian."

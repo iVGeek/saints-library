@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Maelrhys"
 honorific: Saint
 summary: "Lived on the isle of Bardsey. Venerated in northern Wales where an ancient stone church is dedicated to him."

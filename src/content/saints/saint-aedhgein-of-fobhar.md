@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Aedhgein of Fobhar"
 honorific: Saint
 summary: "Priest. Bishop. Monk. Abbot of Fobhar Abbey, Fobhar, Westmeath, Ireland."

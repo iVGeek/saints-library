@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Theodichildis"
 honorific: Saint
 summary: "Nun at Faremoutiers, France. First Abbess of Jouarre Abbey, Seine-et-Marne, France."

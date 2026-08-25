@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Virginio"
 honorific: Saint
 summary: "Soldier. Imperial Roman legionaire. Martyr."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Eurgain"
 honorific: Saint
 summary: "Sixth century Welsh princess, the daughter of chieftain Caradog of Glamorgan, Wales. Founded the convent of Cor-Eurgain in Wales, a house later known as Llanwit."

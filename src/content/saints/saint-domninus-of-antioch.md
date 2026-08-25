@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Domninus of Antioch"
 honorific: Saint
 summary: "Martyr. No other information has survived."

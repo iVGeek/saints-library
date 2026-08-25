@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Onesima of Cologne"
 honorific: Saint
 summary: "Pious nun in the area of Cologne, Germany c.360."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Urbain Lefebvre"
 honorific: Blessed
 summary: "Priest. Member of the Paris Foreign Missions Society. One of the Martyrs of September."

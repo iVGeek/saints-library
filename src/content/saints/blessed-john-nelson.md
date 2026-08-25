@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed John Nelson"
 honorific: Blessed
 summary: "Studied for the priesthood at Douai, France, beginning at age 39. Ordained at Binche, Hainault (in modern Belgium) on 11 June 1576. Two of his four brothers followed him into the priesthood. John returned to England on 7 November 1576 as a missioner to London. Joined the Jesuits"

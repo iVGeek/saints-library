@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Venerable Angela Giorgi"
 honorific: Venerable
 summary: "Nun in the Sisters Servants of Our Lady of Sorrows of Florence."

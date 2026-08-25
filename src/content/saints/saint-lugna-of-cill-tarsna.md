@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Lugna of Cill Tarsna"
 honorific: Saint
 title: "Priest"

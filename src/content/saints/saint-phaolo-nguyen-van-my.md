@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Phaolô Nguyen Van My"
 honorific: Venerable
 summary: "Convert. Assisted the Paris Foreign Missions to spread the faith in Vietnam. Martyr."

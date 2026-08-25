@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Attius of Perga"
 honorific: Saint
 summary: "Martyred with several companions by order of Flavian for destroying the altar of a pagan goddess during the persecutions of Diocletian. No other information has survived."

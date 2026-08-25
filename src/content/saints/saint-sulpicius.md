@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Sulpicius"
 honorific: Saint
 summary: "Converted by the prayers of Saint Flavia Domitilla. Martyr."

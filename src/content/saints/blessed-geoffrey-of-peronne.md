@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Geoffrey of Peronne"
 honorific: Blessed
 summary: "Friend of Saint Bernard of Clairvaux. Prior of Clairvaux Abbey. Refused the bishopric of Tournai, Belgium."

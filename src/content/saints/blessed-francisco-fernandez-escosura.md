@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Francisco Fernández Escosura"
 honorific: Blessed
 summary: "Member of the Dominicans. Martyred in the Spanish Civil War."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Fortunato Barrón Nanclares"
 honorific: Blessed
 summary: "Priest. Member of the Picpus Fathers. Martyred in the Spanish Civil War."

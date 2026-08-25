@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint John of Nicomedia"
 honorific: Saint
 summary: "When an edict of Christian persecution was posted in Nicomedia, John ripped it down and tore it to pieces. Martyr."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Elfleda of Glastonbury"
 honorific: Saint
 summary: "Born an Anglo-Saxon princess and widow, she lived as an anchoress in Glastonbury, England, and was highly revered by Saint Dunstan of Canterbury."

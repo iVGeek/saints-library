@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Rafaél Flamarique Salinas"
 honorific: Blessed
 summary: "Joined the Hospitallers of Saint John of God on 7 December 1935. Martyred in the Spanish Civil War while still a novice. One of the Martyred Hospitallers of Spain."

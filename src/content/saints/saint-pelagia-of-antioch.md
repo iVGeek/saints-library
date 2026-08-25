@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Pelagia of Antioch"
 honorific: Saint
 summary: "Disciple of Saint Lucian of Antioch. When soldiers arrived to arrest her for her faith, she believed she would be raped. To escape she invited the soldiers in, claimed she was going to change, then jumped out of an upper floor window; she was killed by the fall."

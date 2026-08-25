@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Lucius of North Africa"
 honorific: Saint
 summary: "One of a group of Christians who were martyred together, date unknown. No other information has survived."

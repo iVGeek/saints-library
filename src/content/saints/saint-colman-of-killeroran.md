@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Colman of Killeroran"
 honorific: Saint
 summary: "His name appears on several ancient martyrologies, and some places may have been named for him, but no information about this saint has survived."

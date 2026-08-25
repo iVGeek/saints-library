@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Begu of Hackness"
 honorific: Saint
 summary: "Nun at Hackness, Yorkshire, England."

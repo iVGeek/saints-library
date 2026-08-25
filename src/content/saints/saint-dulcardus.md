@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Dulcardus"
 honorific: Saint
 summary: "Monk at Saint-Mesmin Abbey in Orleans, France. Hermit near Bourges, France where the village of Saint-Doulchard was named for him."

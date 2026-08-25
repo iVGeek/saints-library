@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Innocent of Sirmium"
 honorific: Saint
 summary: "Martyred with 31 companions, most of whose names have not come down to us. No other information has survived."

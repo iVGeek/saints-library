@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Eoin O'Mulkern"
 honorific: Blessed
 summary: "Premonstratensian priest. One of the Irish Martyrs."

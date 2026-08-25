@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Valentio of Dorostorum"
 honorific: Saint
 summary: "One of a group of four martyrs executed together. No details about them have survived."

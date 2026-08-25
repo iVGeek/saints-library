@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Godwin of Stavelot"
 honorific: Saint
 summary: "Benedictine monk. Abbot of the monastery of Stavelot-Malmedy, Belgium."

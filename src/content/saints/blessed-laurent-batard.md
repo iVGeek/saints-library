@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Laurent Bâtard"
 honorific: Blessed
 summary: "Priest of the diocese of Angers, France. Martyred in the persecutions of the French Revolution."

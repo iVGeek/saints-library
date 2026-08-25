@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Irenaeus of Rome"
 honorific: Saint
 summary: "Martyred during the persecutions of Valerian."

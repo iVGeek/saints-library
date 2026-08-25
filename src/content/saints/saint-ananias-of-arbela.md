@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Ananias of Arbela"
 honorific: Saint
 summary: "Layman. Martyr. No other information has survived."

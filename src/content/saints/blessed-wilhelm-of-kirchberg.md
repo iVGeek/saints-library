@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Wilhelm of Kirchberg"
 honorific: Blessed
 title: "Hermit"

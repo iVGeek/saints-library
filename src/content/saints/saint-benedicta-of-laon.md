@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Benedicta of Laon"
 honorific: Saint
 summary: "Virgin-martyr in Laon, France."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Elias Garet Ventejo"
 honorific: Blessed
 summary: "Monk. Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Sylvanus the Hermit"
 honorific: Saint
 summary: "Hermit near Burgos, Old Castile, Spain. Martyred by Saracens."

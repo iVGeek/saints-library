@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Catharina Tanaka"
 honorific: Blessed
 summary: "Lay woman in the archdiocese of Nagasaki, Japan. Married to Blessed Ioannes Tanaka. Martyr."

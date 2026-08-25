@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Joseph of Palestine"
 honorific: Saint
 summary: "Jewish layman who was attached to the biblical school of Tiberius, and served as assistant to the famous Rabbi Hillel. Secretly a Christian believer, Hillel was baptized on his death bed, and entrusted his holy books to Joseph. As head of the synagogue in Tarsus, his congregation"

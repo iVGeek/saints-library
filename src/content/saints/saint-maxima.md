@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Maxima"
 honorific: Saint
 summary: "Slave in imperial Rome. Martyred with Saint Ansanus in the persecutions of Diocletian."

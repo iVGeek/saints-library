@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Benvenuta of Perugia"
 honorific: Blessed
 summary: "One of the first of the Poor Clare nun, joining the Order in 1213 at the San Damiano convent in Assisi, Italy, and accepted into the Order by Saint Clare of Assisi herself. She became a friend, companion and spiritual student of Saint Clare, and testified in the canonization proc"

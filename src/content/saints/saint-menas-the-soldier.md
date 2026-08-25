@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Menas the Soldier"
 honorific: Saint
 summary: "Christian soldier. Martyred for his faith, but the time and place of his death have been lost."

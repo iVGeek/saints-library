@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Mlada of Prague"
 honorific: Saint
 summary: "Daughter of Duke Boleslav of Czechia. Founded the convent of Saint George in Prague (in the modern Czech Republic)."

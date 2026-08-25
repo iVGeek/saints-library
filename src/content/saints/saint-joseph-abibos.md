@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Joseph Abibos"
 honorific: Saint
 summary: "Abbot of Alavendi, Georgia. Disciple of Saint John Zedazneli."

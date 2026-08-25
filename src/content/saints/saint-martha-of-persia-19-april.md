@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Martha of Persia"
 honorific: Saint
 summary: "Daughter of Saint Pusicio. Nun. Martyred in the persecutions of Shapur II."

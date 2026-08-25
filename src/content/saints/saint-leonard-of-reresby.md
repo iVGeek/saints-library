@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Leonard of Reresby"
 honorific: Saint
 summary: "Crusader. Captured by Saracens, but miraculously freed."

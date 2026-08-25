@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Martyrs of Ebsdorf"
 honorific: Saint
 searchAliases:

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Amicus of Mortara"
 honorific: Saint
 summary: "Knight in the army of Blessed Charlemagne. Fought in the campaign against the Lombards in northern Italy. Martyr."

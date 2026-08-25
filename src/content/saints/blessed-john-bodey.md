@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed John Bodey"
 honorific: Blessed
 summary: "Educated at Winchester and Oxford in England. Fellow of New College, Oxford in 1568. Convert. Studied law at Douai, France in 1576. Returned to England in February 1578 as a schoolmaster. Married layman. Repuditated King Henry VIII's claim of supremacy in spiritual matters. Arres"

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Theodosius of Antioch"
 honorific: Saint
 summary: "Monk. Founded a monastery in Cilicia (modern Çukurova, Turkey)."

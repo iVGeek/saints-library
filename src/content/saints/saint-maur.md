@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Maur"
 honorific: Saint
 summary: "Layman. Martyred with eleven others."

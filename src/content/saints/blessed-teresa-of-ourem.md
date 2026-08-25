@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Teresa of Ourem"
 honorific: Blessed
 summary: "13th century nun, assigned from 1220 until her death to assist the rector of the church in Ourem, Portugal. She was known for her piety, charity, the depth of her prayer life, and as a miracle worker, especially for those with hearing disorders."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Germana of Numidia"
 honorific: Saint
 summary: "Second century martyr."

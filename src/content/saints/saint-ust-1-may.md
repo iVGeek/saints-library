@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Ust"
 honorific: Saint
 summary: "Missionary monk to the Armorica area of modern Brittany, France, and then to Wales where he worked with Saint Cadfan."

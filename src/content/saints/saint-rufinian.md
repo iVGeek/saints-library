@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Rufinian"
 honorific: Saint
 summary: "Brother of Saint Rufinus. Martyr."

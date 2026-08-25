@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Corbican"
 honorific: Saint
 summary: "Eighth century hermit in Netherlands where he was known for his charity and endless help to the local people."

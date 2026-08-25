@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Enodoch"
 honorific: Saint
 summary: "Venerated in Wales. No other information has survived."

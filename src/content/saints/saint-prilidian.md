@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Prilidian"
 honorific: Saint
 summary: "Spiritual student of Saint Babylas. Martyred in the persecutions of Decius."

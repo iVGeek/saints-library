@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Seleucus of Alexandria"
 honorific: Saint
 summary: "Student of Saint Pamphilus of Alexandria; fellow student with Saint Porphyrius of Alexandria. Seleucus applauded how strong and calm Saint Porphyrius remained under torture; this exposed him as a Christian, and he was martyred."

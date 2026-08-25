@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Diego Carvalho"
 honorific: Blessed
 summary: "Jesuit priest. Missionary to Japan. Martyred with 60 companions by being exposed to the cold for days."

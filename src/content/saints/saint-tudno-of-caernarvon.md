@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Tudno of Caernarvon"
 honorific: Saint
 summary: "Llandudno in Wales is named after him. No other information has survived."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Peter of Temissis"
 honorific: Saint
 summary: "In a Muslim controlled area, Peter was ordered to kiss the Koran; he refused. Martyr."

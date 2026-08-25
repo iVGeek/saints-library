@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Archangel of Agnone"
 honorific: Blessed
 summary: "Franciscan friar at the convent of Sant'Onofrio in Vasto, Italy."

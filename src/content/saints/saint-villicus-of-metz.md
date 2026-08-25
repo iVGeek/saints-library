@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Villicus of Metz"
 honorific: Saint
 title: "Bishop"

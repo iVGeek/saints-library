@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Vivaldus"
 honorific: Blessed
 summary: "Franciscan tertiary. A close friend of Blessed Bartholomew Buonpedoni, he tended to Bartholomew and assisted in his twenty-year ministry to lepers."

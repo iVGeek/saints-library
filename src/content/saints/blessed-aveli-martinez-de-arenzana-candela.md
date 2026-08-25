@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Avelí Martínez de Arenzana Candela"
 honorific: Blessed
 summary: "Oblate. Member of the Hospitallers of Saint John of God. Martyred in the Spanish Civil War."

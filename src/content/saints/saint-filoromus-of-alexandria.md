@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Filoromus of Alexandria"
 honorific: Saint
 summary: "Martyred with approximately 600 Christians in the persecution of Maximian Galerius for objecting to the harsh treatment of Saint Phileas of Alexandria."

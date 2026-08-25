@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Wicterp of Augsburg"
 honorific: Saint
 title: "Bishop"

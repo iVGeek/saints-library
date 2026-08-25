@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Antonio María Martín Povea"
 honorific: Blessed
 summary: "Member of the Carmelites of the Ancient Observance. Spanish Civil War."

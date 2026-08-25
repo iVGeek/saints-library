@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Richard Kirkman"
 honorific: Blessed
 summary: "Studied at Douai, France; ordained in Rheims, France in 1579. Returned to England to minister to covert Catholics. Tutor for Richard Dymake's family in Scrivelsby. Arrested near Wakefield in 1582 for the treason of not accepting the Queen as head of the Church. Martyr."

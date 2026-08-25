@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Jacques-Jean Lemeunier"
 honorific: Blessed
 summary: "Priest in the diocese of Sées, France. One of the Martyrs of September."

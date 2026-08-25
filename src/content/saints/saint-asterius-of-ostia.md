@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Asterius of Ostia"
 honorific: Saint
 summary: "Martyr."

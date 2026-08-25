@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Antonio María Rodríguez Blanco"
 honorific: Blessed
 summary: "Priest in the diocese of Córdoba, Spain. Member of the Salesian Cooperators. Martyred in the Spanish Civil War."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Antonio Molina Ariza"
 honorific: Blessed
 summary: "Priest of the diocese of Córdoba, Spain, serving in the Hornachuelos community. Martyred in the Spanish Civil War."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Arnold of Clairvaux"
 honorific: Blessed
 summary: "Cistercian lay brother. Spiritual student of Saint Bernard of Clairvaux."

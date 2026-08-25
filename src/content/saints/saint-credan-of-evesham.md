@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Credan of Evesham"
 honorific: Saint
 summary: "Abbot at Evesham Abbey."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Bartolomé Gelabert Pericás"
 honorific: Blessed
 summary: "Lay brother in the Vincentian Congregation of the Mission. Martyred in the Spanish Civil War."

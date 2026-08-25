@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed James Murphy"
 honorific: Blessed
 summary: "Priest in the diocese of Ferns, Ireland. One of the Irish Martyrs."

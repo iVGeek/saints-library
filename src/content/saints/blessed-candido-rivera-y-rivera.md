@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Candido Rivera y Rivera"
 honorific: Blessed
 summary: "Franciscan Conventual priest. Martyred in the Spanish Civil War."

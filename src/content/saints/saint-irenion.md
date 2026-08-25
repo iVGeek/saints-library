@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Irenion"
 honorific: Saint
 summary: "Bishop of Gaza in Palestine."

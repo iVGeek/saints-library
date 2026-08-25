@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Pontius of Carthage"
 honorific: Saint
 summary: "Deacon in Carthage, North Africa. Companion in exile, biographer of, and witness at the trial and execution Saint Cyprian of Carthage."

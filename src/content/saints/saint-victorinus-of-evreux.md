@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Victorinus of Evreux"
 honorific: Saint
 summary: "Brother of Saint Maximus of Evreux. Missionary to Gaul, sent by Pope Damasus I. Martyr."

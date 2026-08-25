@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Pantaleimon of Bisceglia"
 honorific: Saint
 summary: "Martyred in the persecutions of Trajan."

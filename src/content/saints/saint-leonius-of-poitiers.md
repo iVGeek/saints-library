@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Leonius of Poitiers"
 honorific: Saint
 title: "Priest"

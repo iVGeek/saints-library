@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed James the Almsgiver"
 honorific: Blessed
 summary: "Born wealthy. Studied law but left it for the priesthood. Restored a ruined hospital where he tended the sick and gave legal advice for free. When he discovered that the hospital had fallen into disrepair because its funding had been misappropriated, he successfully sued the bish"

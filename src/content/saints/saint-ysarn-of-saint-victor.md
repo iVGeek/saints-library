@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Ysarn of Saint Victor"
 honorific: Saint
 summary: "Benedictine monk and then abbot of Saint Victor Abbey in Marseilles, France, which flourished under him."

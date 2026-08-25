@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Jucunda of Reggio Aemilia"
 honorific: Saint
 summary: "Spiritual student of Saint Prosper of Reggio. Nun."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Ida of Argensolles"
 honorific: Blessed
 summary: "Benedictine nun at Saint Leonard's, Liege, Belgium. Abbess of the Cistercian Argensolles Abbey, diocese of Soissons, France."

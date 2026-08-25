@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Julian of Syria"
 honorific: Saint
 summary: "Monk. Martyred for trying to spread the faith to pagans."

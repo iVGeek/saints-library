@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Nectaire of Sainte-Anne"
 honorific: Blessed
 summary: "Though raised a Christian, when Nectaire went into the service of a Turk, he converted to Islam. When he discovered that his mother, whom he thought he dead, was still alive, he travelled to see her, and back home he renounced Islam and returned to Christianity. He spent some tim"

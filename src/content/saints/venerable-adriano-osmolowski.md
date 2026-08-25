@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Venerable Adriano Osmolowski"
 honorific: Venerable
 summary: "Franciscan priest."

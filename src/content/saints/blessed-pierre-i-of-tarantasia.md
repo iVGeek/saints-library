@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Pierre I of Tarantasia"
 honorific: Blessed
 summary: "Pietro was one of the first Cistercian monks. Friend of Saint Stephen Harding, Saint Robert of Molesme, and Saint Bernard of Clairvaux. One of the founders of the monastery of La Ferte in Burgundy, France in 1113, served as its first prior and as its third abbot from 1123 to 1132"

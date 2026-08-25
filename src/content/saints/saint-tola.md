@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Tola"
 honorific: Saint
 summary: "Abbot and Bishop of Disert Tola in Meath, Ireland."

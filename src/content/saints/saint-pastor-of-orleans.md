@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Pastor of Orleans"
 honorific: Saint
 summary: "Sixth century bishop of Orléans, France."

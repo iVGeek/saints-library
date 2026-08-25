@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Peter of Veroli"
 honorific: Saint
 summary: "Hermit near Veroli, Italy."

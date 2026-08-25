@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed François-Urbain Salins de Niart"
 honorific: Blessed
 summary: "Priest of the diocese of Pamiers, France. One of the Martyrs of September."

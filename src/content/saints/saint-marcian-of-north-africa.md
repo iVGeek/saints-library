@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Marcian of North Africa"
 honorific: Saint
 summary: "Martyr."

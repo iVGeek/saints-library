@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Musca of Aquileia"
 honorific: Saint
 summary: "Martyr."

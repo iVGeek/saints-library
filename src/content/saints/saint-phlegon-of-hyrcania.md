@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Phlegon of Hyrcania"
 honorific: Saint
 summary: "First century bishop of Hyrcania, Greece. May have been one of the “70 Disciples of Christ”. Martyr. Mentioned by Saint Paul the Apostle in the Epistle to the Romans."

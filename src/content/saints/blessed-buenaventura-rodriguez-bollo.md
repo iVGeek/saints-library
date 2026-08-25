@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Buenaventura Rodríguez Bollo"
 honorific: Blessed
 summary: "Franciscan priest. Martyred in the Spanish Civil War."

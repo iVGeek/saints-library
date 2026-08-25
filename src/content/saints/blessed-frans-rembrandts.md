@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Frans Rembrandts"
 honorific: Blessed
 summary: "Son of a man named Jacob. Priest. Martyred by Calvinists."

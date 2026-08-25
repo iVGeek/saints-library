@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Sabinus of Poitiers"
 honorific: Saint
 summary: "Spiritual student of Saint Germanus of Auxerre. Martyr."

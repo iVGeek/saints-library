@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Jean-François-Marie Benoît-Vourlat"
 honorific: Blessed
 summary: "Jesuit priest. Noted spiritual director. Chaplain to the Sisters of the Perpetual Adoration of the Blessed Sacrament. One of the Martyrs of September killed in the anti-Catholic excesses of the French Revolution."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Lucia Sato"
 honorific: Blessed
 summary: "Lay woman in the diocese of Niigata, Japan. Married to Blessed Alexius Sato Seisuke; mother of Blessed Elisabeth Sato. Martyr."

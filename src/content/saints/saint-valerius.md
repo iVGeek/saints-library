@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Valerius"
 honorific: Saint
 summary: "Spiritual student of Saint Gislenus in Belgium and France."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Cerbonius  of Verona"
 honorific: Saint
 summary: "Bishop of Verona, Italy."

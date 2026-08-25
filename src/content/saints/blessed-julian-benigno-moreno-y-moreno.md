@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Julián Benigno Moreno y Moreno"
 honorific: Blessed
 summary: "Augustinian Recollect priest. Martyred in the Spanish Civil War."

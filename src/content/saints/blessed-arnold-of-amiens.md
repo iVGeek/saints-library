@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Arnold of Amiens"
 honorific: Blessed
 summary: "Bishop of Amiens, France from 1236 to 1247."

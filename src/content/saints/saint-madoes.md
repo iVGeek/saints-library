@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Madoes"
 honorific: Saint
 summary: "Though there are guesses and legends associated with this name, nothing is known about him except that he appears on ancient calendars, and he is honoured in the Carse of Gowrie, Scotland."

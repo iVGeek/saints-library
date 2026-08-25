@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Paphnutius of Egypt"
 honorific: Saint
 summary: "Hermit. During the persecutions of Diocletian, Paphnutius came out of the wilderness to stand with his fellow Christians. Martyr."

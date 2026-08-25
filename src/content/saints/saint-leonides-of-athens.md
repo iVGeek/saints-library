@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Leonides of Athens"
 honorific: Saint
 summary: "Sixth-century bishop of Athens, Greece."

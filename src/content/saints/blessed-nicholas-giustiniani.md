@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Nicholas Giustiniani"
 honorific: Blessed
 summary: "Born to the Venetian nobility. Benedictine monk at the monastery of San Niccolò del Lido in Venice, Italy in 1153. After all his brothers were killed in combat outside Constantinople in 1172, Nicholas received dispensation from Pope Alexander III to return to secular life. He mar"

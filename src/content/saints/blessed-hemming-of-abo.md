@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Hemming of Åbo"
 honorific: Blessed
 summary: "Studied in Uppsala, Sweden and Paris, France; one of his classmates in Paris became Pope Clement VI. Priest. Canon of the cathedral of Åbo, Turku (in modern Finland) in 1329. Evangelizing bishop of Åbo in 1338 where he served for 28 years. He renewed the faith of his flock, impro"

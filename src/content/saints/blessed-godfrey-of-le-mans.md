@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Godfrey of Le Mans"
 honorific: Blessed
 summary: "Bishop of Le Mans, France in 1234. Founded the Charterhouse of Parc d'Orgues, France."

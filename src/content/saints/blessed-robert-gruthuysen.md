@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Robert Gruthuysen"
 honorific: Blessed
 summary: "Benedictine cistercian monk in 1131. Spiritual student of Saint Bernard of Clairvaux. First abbot of Dunes Abbey in 1139. Abbot of Clairvaux Abbey in 1153."

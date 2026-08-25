@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Leo of Montefeltro"
 honorific: Saint
 summary: "In 257 Leo began work as a stone mason to support himself in Rimini, Italy while working with Saint Marinus to evangelize the residents of the city. To escape the persecutions of Diocletian, the two fled to hide for three years on Mount Titano, the highest point in the modern cou"

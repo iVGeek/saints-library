@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Leo the Deacon"
 honorific: Saint
 summary: "Sub-deacon. Martyr. No other information has survived."

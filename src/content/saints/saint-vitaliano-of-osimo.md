@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Vitaliano of Osimo"
 honorific: Saint
 title: "Bishop"

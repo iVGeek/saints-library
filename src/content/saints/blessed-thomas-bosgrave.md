@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Thomas Bosgrave"
 honorific: Blessed
 summary: "Bosgrave committed the crime of showing support for a priest, Blessed John Cornelius, and helping him by giving him a hat. Arrested for his faith at the home of his uncle, Chidicock Castle, Dorset, England. Martyr."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Fastré of Cambron"
 honorific: Blessed
 summary: "Born to the nobility of the Hainault region. Attracted to religious life from an early age, and at age 15 he became a Cistercian monk at Clairvaux, receiving the habit from Saint Bernard himself. In 1148, he was assigned to lead 12 brother monks to establish a Cistercian house in"

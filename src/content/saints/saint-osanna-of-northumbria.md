@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Osanna of Northumbria"
 honorific: Saint
 summary: "Princess of Northumbria (in modern England) who became a nun."

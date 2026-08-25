@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Macario of Antioch"
 honorific: Saint
 summary: "Martyr."

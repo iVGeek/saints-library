@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Lorenzo de Masculis"
 honorific: Blessed
 title: "Priest"

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Veranus"
 honorific: Saint
 summary: "Brother of Saint Gibrian, Saint Helan, Saint Tressan, Saint Abran, Saint Petran, Saint Germain, Saint Promptia, Saint Franca, and Saint Possena. Spiritual student of Saint Remigus and Saint Gibrian. Hermit on the River Marne."

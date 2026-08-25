@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Petrus Onizuka Sadayu"
 honorific: Blessed
 summary: "Convert to Christianity. Jesuit postulant. Catechist. Worked with Blessed Paul Navarro, and martyred with him."

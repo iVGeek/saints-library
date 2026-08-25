@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Palmatius of Rome"
 honorific: Saint
 summary: "Roman imperial consul. Martyred with his wife, children and 42 members of his household, whose names have not come down to us, in the persecutions of Emperor Alexander Severus."

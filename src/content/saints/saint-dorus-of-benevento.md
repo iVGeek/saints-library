@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Dorus of Benevento"
 honorific: Saint
 title: "Bishop"

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Longinus of Satala"
 honorific: Saint
 summary: "One of seven Christian brothers who were soldiers in the imperial Roman army. Kicked out of the military, exiled and eventually martyred in the persecutions of Maximian."

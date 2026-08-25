@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Ursicinus of Sens"
 honorific: Saint
 summary: "Bishop of Sens, France. Fought Arianism in his diocese."

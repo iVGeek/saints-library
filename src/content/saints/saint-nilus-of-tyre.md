@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Nilus of Tyre"
 honorific: Saint
 summary: "Bishop in Egypt. Tortured and martyred in the persecutions of Diocletian."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Fortunatus of Hadrumetum"
 honorific: Saint
 summary: "One of a group of 26 martyrs killed by Vandals."

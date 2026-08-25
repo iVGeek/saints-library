@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Ísleifur Gissurarson of Skálholt"
 honorific: Blessed
 summary: "The son of Gissur Teitsson, one of the first Christians in Iceland, and Þórdís Þóroddsdóttir. Married to Dalla Þorvaldsdóttir, they had three sons, including the future Bishop Gissur Ísleifsson. Following studies in Herford, Germany, he was ordained a priest. First bishop in Icel"

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Leo Saisho Shichiemon Atsutomo"
 honorific: Blessed
 summary: "Layman samurai of the diocese of Kagoshima, Japan. He was baptized into the Church on 22 July 1608 by Blessed Jacinto Orfanell-Prades. Member of the Confraternity of the Rosary. Martyr."

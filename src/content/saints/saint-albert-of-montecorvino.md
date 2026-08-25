@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Albert of Montecorvino"
 honorific: Saint
 title: "Bishop"

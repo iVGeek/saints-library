@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Bernard of Valdeiglesias"
 honorific: Saint
 summary: "Benedictine Cistercian monk."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Liliosa of Toul"
 honorific: Saint
 summary: "Born to the Gallic nobility, the sister of Saint Jacob of Toul. Gave the country estate of Bretancour to the monks of the Saint-Bénigne to build a church."

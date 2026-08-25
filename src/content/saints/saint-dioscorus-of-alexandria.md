@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Dioscorus of Alexandria"
 honorific: Saint
 summary: "Spiritual student of Origen. Martyred in the persecutions of Severus."

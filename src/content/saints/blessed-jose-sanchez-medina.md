@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed José Sánchez Medina"
 honorific: Blessed
 summary: "Priest in the diocese of Cartagena, Spain. Martyred in the Spanish Civil War."

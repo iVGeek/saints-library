@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Archelaus of Mesopotamia"
 honorific: Saint
 summary: "Bishop of Chacar (Kashkar; Cascus; Charchar) Mesopotamia. Fought Manichaeism. His writings on the heresy were valued by Saint Jerome."

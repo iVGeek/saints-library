@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Thomas Koshima Shinshiro"
 honorific: Blessed
 summary: "Layman in the diocese of Kyoto, Japan. Married to Blessed Maria Koshima SHinshiro. One of the Martyrs of Kyoto."

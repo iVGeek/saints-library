@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Plegmund of Canterbury"
 honorific: Saint
 summary: "Noted scholar. Tutor to King Alfred. Archbishop of Canterbury, England. Restored the Church in England after the attacks of pagan Danes. The hermitage at Plemstall, Plegmundstow, was named after him."

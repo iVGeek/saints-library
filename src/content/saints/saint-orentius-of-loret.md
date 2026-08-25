@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Orentius of Loret"
 honorific: Saint
 summary: "Married to Saint Patientia of Loret. Lived near Huesca, Spain. An old Spanish tradition makes him the father of Saint Lawrence of Rome. Martyr."

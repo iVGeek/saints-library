@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Marcellus of Capua"
 honorific: Saint
 summary: "Student of Simon Magus. Converted to Christianity by Saint Peter the Apostle; an old tradition says that he was one of the people who interred the body of Saint Peter on Vatican Hill. Martyr."

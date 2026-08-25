@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Stephen of Perugia"
 honorific: Saint
 summary: "Abbot of Saint Peter's Abbey in Perugia, Italy."

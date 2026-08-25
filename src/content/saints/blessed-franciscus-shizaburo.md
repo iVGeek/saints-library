@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Franciscus Shizaburo"
 honorific: Blessed
 summary: "Layman in the Kyoto, Japan. Son of Blessed Cosmas of Kyoto. One of the Martyrs of Kyoto."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Juan Porras Redondo"
 honorific: Blessed
 summary: "Priest of the diocese of Córdoba, Spain, serving in the Azuel-Cardeña, El Carpio, Pedroche and Ojuelos Altos communities. Martyred in the Spanish Civil War."

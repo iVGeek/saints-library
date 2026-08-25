@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Marianus of Nicomedia"
 honorific: Saint
 summary: "One of a group of Christians martyred in the persecutions of Diocletian. No other information has survived."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Indes of Nicomedia"
 honorific: Saint
 summary: "Chambermaid in the imperial palace. Martyred in the persecutions of Diocletian for refusing to sacrifice to idols. One of the 20,000 Martyrs of Nicomedia."

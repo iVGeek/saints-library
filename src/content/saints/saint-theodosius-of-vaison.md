@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Theodosius of Vaison"
 honorific: Saint
 title: "Bishop"

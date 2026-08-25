@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Gelasius O'Cullenan"
 honorific: Blessed
 summary: "Cistercian priest. One of the Irish Martyrs."

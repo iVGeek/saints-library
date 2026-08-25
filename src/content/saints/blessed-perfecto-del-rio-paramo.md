@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Perfecto Del Río Páramo"
 honorific: Blessed
 summary: "Brother in the Vincentian Congregation of the Mission. Martyred in the Spanish Civil War."

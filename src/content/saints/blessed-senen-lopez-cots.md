@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Senén López Cots"
 honorific: Blessed
 summary: "Member of the Claretians, professed on 6 January 1932. Martyred in the Spanish Civil War."

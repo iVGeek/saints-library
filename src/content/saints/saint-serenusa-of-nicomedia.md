@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Serenusa of Nicomedia"
 honorific: Saint
 summary: "Martyred in the persecutions of the Arian Emperor Constantius."

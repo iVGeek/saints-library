@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed William of Savigny"
 honorific: Blessed
 summary: "Novice in Savigny Abbey in the early 12th century. We have no details of his life, but we do know that the monks of that house, including some who knew him in life, venerated him soon after his death."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Feock"
 honorific: Saint
 summary: "There is a church named for her in Cornwall, England. No other information has survived."

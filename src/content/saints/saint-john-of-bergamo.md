@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint John of Bergamo"
 honorific: Saint
 summary: "Bishop of Bergamo, Italy c.657; he served for 24 years. Eliminated the last of the Arian heresy in his diocese. Participated in the Council of Rome in 680."

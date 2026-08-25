@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Nicholas the Mystic"
 honorific: Saint
 title: "Bishop"

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Candidus “Bozu”"
 honorific: Blessed
 summary: "Child in the diocese of Niigata, Japan. Brother-in-law of Blessed Alexis Choemon. Martyr."

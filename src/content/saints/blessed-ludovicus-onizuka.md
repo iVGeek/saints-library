@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Ludovicus Onizuka"
 honorific: Blessed
 summary: "Six-year-old son of Blessed Ioannes Onizuka Naizen and Blessed Monica Onizuka. Martyr."

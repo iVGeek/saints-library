@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Attala of Taormina"
 honorific: Saint
 summary: "Benedictine monk and then abbot of a monastery in Taormina, Sicily."

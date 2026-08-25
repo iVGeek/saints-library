@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Joan Blanch Badía"
 honorific: Blessed
 summary: "Ordained a priests on 12 June 1897. Member of the Claretians, professed on 27 July 1902. Martyred in the Spanish Civil War."

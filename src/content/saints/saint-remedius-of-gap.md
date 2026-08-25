@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Remedius of Gap"
 honorific: Saint
 summary: "Bishop of Gap, France."

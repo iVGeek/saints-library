@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Eutyches the Senator"
 honorific: Saint
 summary: "Imperial Roman senator. During the persecutions of Diocletian he was exposed as a Christian. He was removed from office, arrested, tortured and martyred."

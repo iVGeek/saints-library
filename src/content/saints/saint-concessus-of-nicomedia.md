@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Concessus of Nicomedia"
 honorific: Saint
 summary: "Martyr."

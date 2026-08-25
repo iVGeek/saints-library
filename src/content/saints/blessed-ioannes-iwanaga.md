@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Ioannes Iwanaga"
 honorific: Blessed
 summary: "Member of the royal family of Firando. Layman. Related to Blessed Ioannes Motoyama. Martyr."

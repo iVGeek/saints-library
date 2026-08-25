@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Amulwinus of Lobbes"
 honorific: Saint
 summary: "Benedictine monk, abbot and bishop of Lobbes, Belgium in 737. Known for his knowledge of and zeal for the Benedictine monastic life."

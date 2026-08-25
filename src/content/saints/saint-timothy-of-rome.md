@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Timothy of Rome"
 honorific: Saint
 summary: "Priest in Antioch, Syria. He re-located to Rome, Italy where he became a noted preacher. Martyred in the persecutions of Diocletian."

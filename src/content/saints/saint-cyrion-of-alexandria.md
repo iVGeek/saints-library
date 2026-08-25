@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Cyrion of Alexandria"
 honorific: Saint
 summary: "Name of two of 12 Christian companions marytred together. No other information has survived."

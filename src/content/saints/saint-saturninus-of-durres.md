@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Saturninus of Durres"
 honorific: Saint
 summary: "Italian Christian who fled Italy to escape the persecutions of emperor Hadrian. Arrived in Dyrrachium, Macedonia to find Saint Astius tied to a cross, covered in honey, laid in the sun, and left to be tortured by biting and stinging insects. When he expressed sympathy for Astius,"

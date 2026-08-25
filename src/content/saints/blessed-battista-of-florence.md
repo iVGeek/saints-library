@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Battista of Florence"
 honorific: Blessed
 summary: "Franciscan friar in the late 15th and early 16th century. No other information about him has survived."

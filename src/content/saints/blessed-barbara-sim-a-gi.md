@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Barbara Sim A-gi"
 honorific: Blessed
 summary: "Lay woman who was brought to the faith by her brother, Sim Nak-hun. Barbara consecrated herself to God without joining a religious order. Martyred in the Shinyu Persecution."

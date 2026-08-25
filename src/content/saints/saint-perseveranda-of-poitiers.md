@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Perseveranda of Poitiers"
 honorific: Saint
 summary: "Holy virgin who, with her sisters Macrina and Columba, founded a convent in Poitiers, France."

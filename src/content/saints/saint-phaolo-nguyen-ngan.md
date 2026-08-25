@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Phaolô Nguyen Ngân"
 honorific: Venerable
 summary: "Priest in the apostolic vicariate of West Tonkin (in modern Vietnam). Martyred in the persecutions of Emperor Thieu Tri."

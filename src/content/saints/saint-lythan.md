@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Lythan"
 honorific: Saint
 summary: "Two churches in Wales are dedicated to this saint, but no information about him has survived."

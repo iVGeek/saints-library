@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Quirinus Talesius"
 honorific: Blessed
 summary: "Local government official. Martyred by Calvinists."

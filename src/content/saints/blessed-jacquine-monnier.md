@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Jacquine Monnier"
 honorific: Blessed
 summary: "Lay woman of the diocese of Angers, France. Martyred in the persecutions of the French Revolution."

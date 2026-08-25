@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Gildas the Elder"
 honorific: Saint
 summary: "Son of Caunus, a chieftain in areas in northern Britain. Monk at Llancarvan. Spiritual student of Saint Cadoc. Hermit on the islands of Ronech and Ecni off the south coast of Wales. Wandering preacher and evangelist in the British Isles. In late life he retired to live as a praye"

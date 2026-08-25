@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Rutilius"
 honorific: Saint
 summary: "Rutilius traveled extensively to avoid the persecutions of Decius, sometimes hiding, sometimes bribing officials to leave him alone, but never giving up his faith. He was finally captured, tortured and martyred."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Mauro of Sardinia"
 honorific: Saint
 summary: "Married to Saint Beneria of Sardinia. Martyr."

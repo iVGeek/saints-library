@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Ida of Louvain"
 honorific: Blessed
 summary: "Cistercian Benedictine nun at Rossendael (Val-des-Roses) near Malines. Visionary."

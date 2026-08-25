@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Lolanus"
 honorific: Saint
 summary: "Bishop in the area of Perth, Scotland."

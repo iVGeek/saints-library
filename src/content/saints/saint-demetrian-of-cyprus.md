@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Demetrian of Cyprus"
 honorific: Saint
 summary: "Married. Widower. Monk at Saint Anthony's Monastery on Cyprus. Priest. Hegoumenos (abbot) of Saint Anthony's for 40 years. Reluctant bishop of Khytri, Cyprus for 25 years. When Saracens raided Cyprus and kidnapped local Christians to enslave them, Demetrian obtained their release"

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Tomás Valera González"
 honorific: Blessed
 summary: "Layman the diocese of Almería, Spain. Martyred in the Spanish Civil War."

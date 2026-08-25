@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Joris"
 honorific: Blessed
 summary: "Son of Stephen and Helen, Joris grew up in a home with seven brothers. Priest. Bishop in Armenia. Died while on pilgrimage to Boulogne in northern France."

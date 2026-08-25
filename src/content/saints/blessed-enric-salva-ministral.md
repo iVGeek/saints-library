@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Enric Salvá Ministral"
 honorific: Blessed
 summary: "Franciscan Capuchin brother. Martyred in the Spanish Civil War."

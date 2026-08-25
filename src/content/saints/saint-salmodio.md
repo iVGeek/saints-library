@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Salmodio"
 honorific: Saint
 summary: "Spiritual student of Saint Brendan. Hermit at Limoges, Aquintaine (in modern France)."

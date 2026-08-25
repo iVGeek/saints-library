@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Dominic of Comacchio"
 honorific: Saint
 summary: "Monk at Comacchio near Venice, Italy."

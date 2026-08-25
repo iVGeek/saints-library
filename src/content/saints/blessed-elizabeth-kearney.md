@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Elizabeth Kearney"
 honorific: Blessed
 summary: "Lay woman in the diocese of Cashel, Ireland. One of the Irish Martyrs."

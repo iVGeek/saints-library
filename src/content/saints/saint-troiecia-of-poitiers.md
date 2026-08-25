@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Troiecia of Poitiers"
 honorific: Saint
 title: "Hermit"

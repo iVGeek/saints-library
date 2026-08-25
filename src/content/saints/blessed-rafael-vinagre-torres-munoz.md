@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Rafael Vinagre Torres Muñoz"
 honorific: Blessed
 summary: "Vincentian priest. Martyred in the Spanish Civil War."

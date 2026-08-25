@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Rhuddlad"
 honorific: Saint
 summary: "Nun. No other information has survived."

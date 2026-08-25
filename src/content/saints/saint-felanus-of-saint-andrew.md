@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Felanus of Saint Andrew"
 honorific: Saint
 summary: "Hermit. Monk. Abbot of the monastery of Saint Andrew in Scotland."

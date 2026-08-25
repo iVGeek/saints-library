@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Philip of Cluain-Bainbh"
 honorific: Saint
 title: "Bishop"

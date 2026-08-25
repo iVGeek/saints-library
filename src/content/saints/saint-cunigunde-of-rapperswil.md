@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Cunigunde of Rapperswil"
 honorific: Saint
 summary: "Companion of Saint Ursula. Martyr."

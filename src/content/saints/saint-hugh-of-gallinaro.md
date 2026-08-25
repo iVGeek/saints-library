@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Hugh of Gallinaro"
 honorific: Saint
 summary: "English pilgrim."

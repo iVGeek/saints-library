@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Iulia Yoshino"
 honorific: Blessed
 summary: "Lay woman in the diocese of Niigata, Japan. Married to Blessed Mancius Yoshino Han'emon. Martyr."

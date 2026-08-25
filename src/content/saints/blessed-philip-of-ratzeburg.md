@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Philip of Ratzeburg"
 honorific: Blessed
 summary: "Member of the Premonstratensians. Canon of the monastery in Ratzeburg, Schleswig-Holstein, Germany. Bishop of Ratzeburg."

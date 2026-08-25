@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed John Gaspard Cratz"
 honorific: Blessed
 summary: "Spent several years as a young adult travelling around Europe. Employee of the Dutch East India Company in 1727. Joined the Jesuits at Macao in 1730. Missionary to the kingdom of Tonkin (modern Vietnam). Ordained in 1734. Arrested in March 1736. Tortured and martyred for his work"

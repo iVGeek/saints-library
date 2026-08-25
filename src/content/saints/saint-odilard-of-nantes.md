@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Odilard of Nantes"
 honorific: Saint
 title: "Bishop"

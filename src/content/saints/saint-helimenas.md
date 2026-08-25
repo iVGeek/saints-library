@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Helimenas"
 honorific: Saint
 summary: "Priest. Martyred when Decius invaded Mesapotamia."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Permias of Italy"
 honorific: Saint
 summary: "Martyred at an unknown date and location in Italy. No other information has survived."

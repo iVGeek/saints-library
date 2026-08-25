@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Cronidas of Illyria"
 honorific: Saint
 summary: "Notary. Martyred in the persecutions of Hadrian."

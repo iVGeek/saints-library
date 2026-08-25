@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Mochta of Louth"
 honorific: Saint
 summary: "Spiritual student of Saint Patrick. Monk. Founded the monastery of Louth, Ireland. Bishop of Louth."

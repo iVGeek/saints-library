@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Zenas of Philadelphia"
 honorific: Saint
 summary: "Former slave of Saint Zeno. After being freed, he stayed with Zeno as a servant, and became public about his Christianity. Imprisoned, tortured and martyred in the persecutions of Diocletian."

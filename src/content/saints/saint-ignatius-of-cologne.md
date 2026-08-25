@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Ignatius of Cologne"
 honorific: Saint
 summary: "Priest. Travelled with and martyred with Saint Ursula."

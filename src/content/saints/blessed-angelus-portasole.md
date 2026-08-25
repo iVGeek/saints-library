@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Angelus Portasole"
 honorific: Blessed
 title: "Bishop"

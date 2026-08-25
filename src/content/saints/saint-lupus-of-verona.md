@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Lupus of Verona"
 honorific: Saint
 summary: "Bishop of Verona, Italy. No other information has survived."

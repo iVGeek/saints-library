@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Crummine"
 honorific: Saint
 summary: "Spiritual student of Saint Patrick. Missionary bishop at Leccuine, Westmeath, Ireland."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Lughna the Deacon"
 honorific: Saint
 summary: "Deacon in Ireland. No other information has survived."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Julian of Africa"
 honorific: Saint
 summary: "One of a group of 13 Christians murdered together for their faith in Africa, date unknown. No details have survived."

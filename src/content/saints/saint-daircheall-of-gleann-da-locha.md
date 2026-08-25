@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Daircheall of Gleann-da-locha"
 honorific: Saint
 summary: "Early Irish bishop."

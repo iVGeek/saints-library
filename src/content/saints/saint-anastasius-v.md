@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Anastasius V"
 honorific: Saint
 summary: "Priest. Martyr."

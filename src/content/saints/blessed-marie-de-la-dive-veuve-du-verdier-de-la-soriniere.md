@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Marie de la Dive veuve du Verdier de la Sorinière"
 honorific: Blessed
 summary: "Married lay woman of the diocese of Angers, France. Widow. Martyred in the persecutions of the French Revolution."

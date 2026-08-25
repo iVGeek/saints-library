@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Florentius of Rheims"
 honorific: Saint
 summary: "Deacon. Martyred in the barbarian invasion of Rheims, France."

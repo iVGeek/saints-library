@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Publius of Zeugma"
 honorific: Saint
 summary: "Son of a fourth-century senator in Zeugma on the River Euphrates (in modern Turkey). When he came of age, Publius sold his estate and possessions, gave the proceeds to help the poor, and went to live as a hermit. He eventually attracted a number of would-be students and formed th"

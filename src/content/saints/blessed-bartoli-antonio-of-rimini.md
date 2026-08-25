@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Bartoli Antonio of Rimini"
 honorific: Blessed
 summary: "A spiritual student of Saint Bernardino of Siena, Anthony became a Franciscan friar and travelled throughout Italy, known as an eloquent and effective preacher. Vicar of the Observant Franciscans in province of Umbria, Italy."

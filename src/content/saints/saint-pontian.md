@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Pontian"
 honorific: Saint
 summary: "Martyred with four unnamed in the persecutions of Emperor Valerian."

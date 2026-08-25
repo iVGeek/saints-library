@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Liberatus of Rome"
 honorific: Saint
 summary: "Martyr. Venerated in Rome. No other information as survived."

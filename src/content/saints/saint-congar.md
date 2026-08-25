@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Congar"
 honorific: Saint
 summary: "Monk. Abbot. Several parishes and churches bear his name in Somerset, in Wales and in Brittany."

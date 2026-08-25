@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Wiomad of Trèves"
 honorific: Saint
 summary: "Benedictine monk at Saint Maximinus at Trèves (modern Trier, Germany) Abbot of the monastery of Mettlach, Germany. Bishop of Trèves c.770. Part of the court of Charlemagne."

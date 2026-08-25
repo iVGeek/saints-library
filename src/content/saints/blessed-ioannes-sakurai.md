@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Ioannes Sakurai"
 honorific: Blessed
 summary: "Married layman in the Kyoto, Japan. One of the Martyrs of Kyoto."

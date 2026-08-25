@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Émilien of Nantes"
 honorific: Blessed
 summary: "Bishop of Nantes, France in the early 8th century. When the Muslim Saracens invaded the area, Émilien organized an army to stop them, and died in the fighting. As he died fighting for the faith, he is considered a martyr."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Aganus of Airola"
 honorific: Saint
 summary: "Benedictine monk. Abbot of Saint Gabriel's monastery at Airola, Campania, Italy."

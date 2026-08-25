@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Isaias"
 honorific: Saint
 summary: "Monk at the Monastery of the Caves under the direction of Saint Anthony and Saint Theodosius, founders of the house. Abbot at Saint Demtrius Abbey, Kiev in 1062. Bishop of Rostov in 1077. Evangelist to the unconverted of Rostov, teacher of the converted. Miracle worker."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Proculus of Narni"
 honorific: Saint
 summary: "Bishop of Narni, Italy. Executed by order of the Gothic King Totila."

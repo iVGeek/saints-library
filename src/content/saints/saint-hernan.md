@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Hernan"
 honorific: Saint
 summary: "Fled from Britain to Brittany to escape the Anglo-Saxon invasion. Hermit at Loc-Harn, which was named after him."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Abudemius of Bozcaada"
 honorific: Saint
 summary: "Tortured and martyred for refusing to eat meat sacrificed to idols during the persecutions of Diocletian."

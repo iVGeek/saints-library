@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Gerald of Fossanuova"
 honorific: Blessed
 summary: "Cistercian monk at Fossanuova Abbey. Abbot of Fossanuova. Abbot of Clairvaux in 1170."

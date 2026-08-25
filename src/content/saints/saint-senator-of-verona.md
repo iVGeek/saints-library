@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Senator of Verona"
 honorific: Saint
 title: "Bishop"

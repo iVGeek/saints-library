@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Graecina of Volterra"
 honorific: Saint
 summary: "Martyred in the persecutions of Diocletian. No other information has survived."

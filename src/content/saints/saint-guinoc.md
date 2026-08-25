@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Guinoc"
 honorific: Saint
 summary: "Bishop in Scotland. Commemorated in the Aberdeen Breviary."

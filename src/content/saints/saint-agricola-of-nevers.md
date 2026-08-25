@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Agricola of Nevers"
 honorific: Saint
 title: "Bishop"

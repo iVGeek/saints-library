@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Herculaneum of Piegaro"
 honorific: Blessed
 summary: "Franciscan friar minor. Spiritual student of Blessed Albert of Sarteano. Ordained a priest in the early 15th century, Herculaneum became a sought after travelling preacher known for his austerity, his long fasts, and as a miracle worker. While he was preaching in the cathedral of"

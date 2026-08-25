@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Miquel Saludes Ciuret"
 honorific: Blessed
 summary: "Priest in the archdiocese of Tarragona, Spain. Martyred in the Spanish Civil War."

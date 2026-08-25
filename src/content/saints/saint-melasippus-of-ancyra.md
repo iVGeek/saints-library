@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Melasippus of Ancyra"
 honorific: Saint
 summary: "Married to Saint Carina of Ancyra. Father of Saint Anthony of Ancyra. Martyred in the persecutions of Julian the Apostate."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Paul of Carthage"
 honorific: Saint
 summary: "Bishop in North Africa. Attended the Council of Carthage in 259. Martyred in the persecutions of Decius."

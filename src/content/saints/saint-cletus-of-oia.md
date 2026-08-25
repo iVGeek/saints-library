@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Cletus of Oia"
 honorific: Saint
 summary: "Martyred with five other Christians, date unknown. No other information has survived."

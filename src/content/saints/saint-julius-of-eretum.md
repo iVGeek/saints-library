@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Julius of Eretum"
 honorific: Saint
 summary: "Martyr."

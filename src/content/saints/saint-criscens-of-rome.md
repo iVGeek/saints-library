@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Criscens of Rome"
 honorific: Saint
 summary: "Martyr."

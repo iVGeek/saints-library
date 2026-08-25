@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Jeremiah of Cordoba"
 honorific: Saint
 summary: "As a very old man, Jeremiah founded the double-monastery of Tábanos in Moorish-occupied Cordoba, Spain, and became a monk there; his wife, Elizabeth, became a nun in the female wing. Martyred in the persecutions of Abderrahman for denouncing Mohammed."

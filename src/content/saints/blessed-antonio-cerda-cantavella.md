@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Antonio Cerdá Cantavella"
 honorific: Blessed
 summary: "Member of the Claretians, professed on 27 September 1931. Martyred in the Spanish Civil War."

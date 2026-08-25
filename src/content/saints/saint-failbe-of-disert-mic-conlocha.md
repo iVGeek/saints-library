@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Failbe of Disert Mic Conlocha"
 honorific: Saint
 summary: "No information about this saint has survived."

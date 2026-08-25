@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Gerard of Orchimont"
 honorific: Blessed
 summary: "Benedictine monk. Abbot in Florennes, Belgium from 1126 to 1136."

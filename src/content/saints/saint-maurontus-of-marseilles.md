@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Maurontus of Marseille"
 honorific: Saint
 title: "Bishop"

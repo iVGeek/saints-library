@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Thomas Morrissey"
 honorific: Blessed
 summary: "Priest in the diocese of Cashel, Ireland. One of the Irish Martyrs."

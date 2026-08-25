@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Ángel Hernández-Ranera De Diego"
 honorific: Blessed
 summary: "Second of four children born to Felix and Manuela, a poor but pious family; Ángel was baptized at the age of one day. While an altar-boy, he began serving as sacristan at the Conceptionist monastery in Pastrana, Spain. Studied with Franciscans from 1890 to 1892. Joined the Franci"

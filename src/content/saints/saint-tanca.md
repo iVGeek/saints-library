@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Tanca"
 honorific: Saint
 summary: "Young girl martyed defending her virginity."

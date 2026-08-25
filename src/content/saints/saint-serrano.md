@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Serrano"
 honorific: Saint
 summary: "Bishop."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Monessa"
 honorific: Saint
 summary: "Daughter of an Irish chieftain. Virgin convert of Saint Patrick. She died immediately upon being baptised."

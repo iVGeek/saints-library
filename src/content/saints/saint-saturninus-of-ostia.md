@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Saturninus of Ostia"
 honorific: Saint
 summary: "Martyr honoured in Ostia, Italy."

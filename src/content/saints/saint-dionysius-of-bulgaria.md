@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Dionysius of Bulgaria"
 honorific: Saint
 summary: "Archbishop from Bulgaria. Missionary to Russia. Built a monastery in Novgorod."

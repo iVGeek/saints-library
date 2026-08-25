@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Lupenzius"
 honorific: Saint
 summary: "Monk. Abbot of the Basilica of Saint-Privat-de-Javols, Chalons, Neustria (in modern France). Tortured and murdered when falsely accused of criticizing Queen Brunechilde."

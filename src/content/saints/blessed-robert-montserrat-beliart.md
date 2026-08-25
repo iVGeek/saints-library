@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Robert Montserrat Beliart"
 honorific: Blessed
 summary: "Accomplished musician. Priest. Member of the Sons of the Holy Family. Martyred in the Spanish Civil War."

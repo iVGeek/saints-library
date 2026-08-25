@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Potentienne"
 honorific: Saint
 summary: "7th century nun."

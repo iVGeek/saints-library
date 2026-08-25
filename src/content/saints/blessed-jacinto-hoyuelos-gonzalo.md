@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Jacinto Hoyuelos Gonzalo"
 honorific: Blessed
 summary: "Joined the Hospitallers of Saint John of God in 1934, making his vows on 8 September 1935. Martyred in the Spanish Civil War"

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Petrus Ariie Jinzo"
 honorific: Blessed
 summary: "Layman in the diocese of Niigata, Japan. Son of Blessed Ioannes Ariie Kiemon and Blessed Magdalena Ariie. Martyr."

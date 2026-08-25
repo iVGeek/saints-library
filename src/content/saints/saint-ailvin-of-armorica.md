@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Ailvin of Armorica"
 honorific: Saint
 summary: "Sixth century hermit in Armorica, France. One of the Breton Missionaries to Britain."

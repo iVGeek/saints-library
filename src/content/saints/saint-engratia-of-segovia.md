@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Engratia of Segovia"
 honorific: Saint
 summary: "Sister of Saint Fructus of Segovia and Saint Valentine of Segovia. Martyred by invading Moors."

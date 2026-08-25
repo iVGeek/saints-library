@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Lucien Galan"
 honorific: Blessed
 summary: "Member of the Paris Foreign Missions Society. Priest. Missionary to China, working the Xichang, Sichuan area. Imprisoned for this work in November 1950, he was exiled and arrived in Hong Kong in January 1952. He was reassigned to a mountainous area of Laos in 1956; in February 19"

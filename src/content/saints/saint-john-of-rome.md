@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint John of Rome"
 honorific: Saint
 summary: "Benedictine monk at Saint Andrew's monastery on the Coelian Hill, Rome, Italy under abbot Saint Gregory the Great who later wrote about him. Miracle worker."

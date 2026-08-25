@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Gundisalvus of Azebeyro"
 honorific: Blessed
 summary: "Cistercian Benedictine monk. Abbot at Azebeyro, Spanish Galicia."

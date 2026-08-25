@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Richard Barry"
 honorific: Blessed
 summary: "Dominican priest. One of the Irish Martyrs."

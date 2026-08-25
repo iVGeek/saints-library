@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Dorymedon the Senator"
 honorific: Saint
 summary: "Christian Roman senator. Tortured and martyred in the persecutions of Emperor Probus."

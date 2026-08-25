@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Imana of Loss"
 honorific: Blessed
 summary: "Cistercian Benedictine nun. Abbess at Salzinnes, Namur, France. Abbess at Flines, diocese of Cambrai, France."

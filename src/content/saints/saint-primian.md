@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Primian of North Africa"
 honorific: Saint
 summary: "Martyred in Africa. No other information has survived."

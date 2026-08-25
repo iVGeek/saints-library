@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Eduardo Sáinz Lantarón"
 honorific: Blessed
 summary: "Eduardo joined the Dominicans in 1924, making his solemn profession on 14 November 1927. Ordained a priest on 29 March 1931. Martyred in the Spanish Civil War."

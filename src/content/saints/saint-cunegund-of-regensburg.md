@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Cunegund of Regensburg"
 honorific: Saint
 summary: "Nun at Niedermunster convent in Ratisbon, Germany."

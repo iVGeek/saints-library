@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Candida of Carthage"
 honorific: Saint
 summary: "Consecrated virgin. Martyred in the persecutions of Maximian Herculeus."

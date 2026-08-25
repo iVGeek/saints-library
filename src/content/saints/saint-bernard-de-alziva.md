@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Bernard de Alziva"
 honorific: Saint
 summary: "Convert, with his two sisters, from Islam to Christianity; they were all martyred for this choice."

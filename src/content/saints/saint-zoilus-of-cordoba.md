@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Zoilus of Cordoba"
 honorific: Saint
 summary: "Young man martyred with 19 unnamed Christian companions in the persecutions of Diocletian. The monastery of San Zoil de Carrión in León, Spain was founded to enshrine his relics."

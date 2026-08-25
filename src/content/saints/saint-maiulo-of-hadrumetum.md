@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Maiulo of Hadrumetum"
 honorific: Saint
 summary: "Martyr."

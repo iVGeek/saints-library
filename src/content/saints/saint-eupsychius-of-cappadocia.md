@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Eupsychius of Cappadocia"
 honorific: Saint
 summary: "Fourth century patrician in Cappadocia. During the persecutions of Julian the Apostate, Eupsychius was arrested, convicted, tortured and executed for being a Christian and for having destroyed the temple of the pagan god of fortune in Caesarea. Martyr."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Antonio of Norcia"
 honorific: Blessed
 summary: "Lay Franciscan."

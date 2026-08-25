@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Felim O'Hara"
 honorific: Blessed
 summary: "Franciscan. One of the Irish Martyrs."

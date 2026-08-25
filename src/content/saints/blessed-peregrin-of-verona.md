@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Pérégrin of Verona"
 honorific: Blessed
 summary: "13th century Augustinian hermit in the area of Verona, Italy. Priest."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Venerable Jan Leopold Tyranowski"
 honorific: Venerable
 summary: "Layman of the archdiocese of Kraków, Poland."

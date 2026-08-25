@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Ursula Yamamoto"
 honorific: Blessed
 summary: "Child in the diocese of Niigata, Japan. Daughter of Blessed Maria Yamamoto and Blessed Andreas Yamamoto Shichiemon. Martyr."

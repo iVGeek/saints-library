@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Valentinian of Chur"
 honorific: Saint
 title: "Bishop"

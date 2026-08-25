@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Viance of Anjou"
 honorific: Saint
 summary: "Born to a family of serfs, Viance was orphaned at the age of ten. He was befriend by the son of the duke of Aquitaine, and studied with him at the church school at Cahors, but the duke ordered that Viance be returned to his position as a serf, and he was assigned to oversee the s"

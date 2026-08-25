@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Martin of Huerta"
 honorific: Blessed
 summary: "Monk at the monastery of Huerta, Castile, Spain. Bishop of Sigüenza, Spain for several years before finally retiring back to his monastery."

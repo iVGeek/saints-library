@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Paula of Nicomedia"
 honorific: Saint
 summary: "Consecrated virgin. Cared for Saint Lucillian of Byzantium, Saint Claudius of Byzantium, Saint Dionysius of Byzantium, Saint Hypatius of Byzantium, and Saint Paul of Byzantium while they were in prison. Arrested, tortured and martyred for helping Christians."

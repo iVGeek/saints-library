@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Michaël Nakashima Saburoemon"
 honorific: Blessed
 summary: "Jesuit. Martyred for hiding and assisting priests and missionaries."

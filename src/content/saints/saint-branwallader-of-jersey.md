@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Branwallader of Jersey"
 honorific: Saint
 summary: "Hermit. Monk. Bishop of Jersey, England."

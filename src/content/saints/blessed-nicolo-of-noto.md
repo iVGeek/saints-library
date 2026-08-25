@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Nicolò of Noto"
 honorific: Blessed
 summary: "Born to the Italian nobility, part of the family of the Counts of Isimbard. Cistercian monk at the monastery of Santa Maria dell'Arco in modern Noto Antica, Italy. Miracle worker."

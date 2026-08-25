@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Thomas Kondo Hyoemon"
 honorific: Blessed
 summary: "Married layman of the archdiocese of Nagasaki, Japan. One of the Martyrs of Unzen."

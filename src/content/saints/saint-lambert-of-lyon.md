@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Lambert of Lyon"
 honorific: Saint
 summary: "Raised in the court of Clotaire III. Benedictine monk at Fontenelle Abbey. Worked with Saint Wandrille. Abbot of Fontenelle in 666. Bishop of Lyon, France in 678."

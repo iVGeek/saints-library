@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Secundus of Palestrina"
 honorific: Saint
 summary: "Bishop of Palestrina, Italy. Martyred in the persecutions of Diocletian."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Benedict of Cassino"
 honorific: Blessed
 summary: "Benedictine monk at Monte Cassino. Abbot of the monastery at Capua, Italy. Known in his house for austere life style, known in the community for his charity."

@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Vincent Abraham"
 honorific: Blessed
 summary: "Priest in the archdiocese of Rheims, France. One of the Martyrs of September."

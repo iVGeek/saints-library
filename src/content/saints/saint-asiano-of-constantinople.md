@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Asiano of Constantinople"
 honorific: Saint
 summary: "Bishop. Imprisoned, tortured and martyred for the defense of icons in the iconoclast persecutions of emperor Leo the Isaurian."

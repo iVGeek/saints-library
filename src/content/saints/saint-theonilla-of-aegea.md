@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Theonilla of Aegea"
 honorific: Saint
 summary: "Pious Christian woman martyred in the persecutions of Pro-consul Lysias."

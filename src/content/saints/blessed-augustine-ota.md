@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Blessed Augustine Ota"
 honorific: Blessed
 summary: "Worked as a catechist, helping Jesuit missionaries. Imprisoned at Ikinoshima for his faith. While imprisoned, he was received into the Jesuits. Martyr."

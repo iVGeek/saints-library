@@ -1,4 +1,5 @@
 ---
+image: /placeholder-saint.svg
 name: "Saint Lupercus of Léon"
 honorific: Saint
 summary: "Son of Saint Marcellus of Centurion; brother of Saint Claudius of Léon and Saint Victorius of Léon. Martyred in the persecutions of Diocletian."

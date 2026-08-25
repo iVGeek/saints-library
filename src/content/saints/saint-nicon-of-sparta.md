@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/d/db/Hosios_Loukas_%28nave%2C_lunette_in_south-west_bay_of_nave%29_-_Nikon_Metanoeite.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Nicon of Sparta
 honorific: Saint
 summary: >-
@@ -24,6 +25,8 @@ vocation:
   - Confessor
 martyr: false
 prayers: []
+imageAlt: Portrait of Saint Nicon of Sparta
+imageCreditUrl: https://en.wikipedia.org/wiki/Nikon%20the%20Metanoeite
 ---
 
 Born to a wealthy, land-owning family. Monk. Wandering preacher and evangelist, especially in Greece, calling everyone to repent (metanoete).

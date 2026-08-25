@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/0/08/Roma_martires_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Joan Blanch Badía
 honorific: Blessed
 summary: >-
@@ -22,6 +23,8 @@ vocation:
   - Cardinal
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Joan Blanch Badía
+imageCreditUrl: https://en.wikipedia.org/wiki/498%20Spanish%20Martyrs
 ---
 
 Ordained a priests on 12 June 1897. Member of the Claretians, professed on 27 July 1902. Martyred in the Spanish Civil War.

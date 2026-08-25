@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/8/8b/Roman_republic%2C_territory_44_BC.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Octavian of Volterra
 honorific: Saint
 summary: >-
@@ -26,6 +27,8 @@ patronage:
   - Volterra, Italy
 martyr: false
 prayers: []
+imageAlt: Portrait of Saint Octavian of Volterra
+imageCreditUrl: https://en.wikipedia.org/wiki/Roman%20Republic
 ---
 
 Octavian, along with Saint Justus, Saint Clemente and a group of other Christian priests and laity, fled North Africa for Tuscany to escape 6th century persecutions. While the others became part of the community, Octavian withdrew to live as a solitary hermit in a hollow tree near Volterra, Italy. He survived on herbs and water, performed miracles, advised any who came to him, and became beloved by the local people.

@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/7/7e/LocationPuertoRico.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Antonio Cabrera Calero
 honorific: Blessed
 summary: >-
@@ -21,6 +22,8 @@ vocation:
   - Cardinal
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Antonio Cabrera Calero
+imageCreditUrl: https://en.wikipedia.org/wiki/List%20of%20Puerto%20Ricans
 ---
 
 Priest in the diocese of Córdoba, Spain, serving as an assistant pastor in the Pedroche community. Martyred in the Spanish Civil War.

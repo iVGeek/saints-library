@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/0/0b/Sant_Eustorgio_di_Milano.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Constantine of Orval
 honorific: Blessed
 summary: >-
@@ -22,6 +23,8 @@ vocation:
 religiousOrder: Augustinian
 martyr: false
 prayers: []
+imageAlt: Portrait of Blessed Constantine of Orval
+imageCreditUrl: https://en.wikipedia.org/wiki/Eustorgius%20I
 ---
 
 Cistercian monk. Spiritual student of Saint Bernard of Clairvaux. With abbot Roger and several brother monks, he helped found the Cistercian abbey of the Three Fountains in the diocese of Châlons-en-Champagne, France in 1118, the first daughter house of Clairvaux; soon after, Constantine became prior of the house. In 1132, he led a group of monks to the Notre-Dame d'Orval Abbey near Villers-devant-Orval, Belgium; they helped the Augustinians become Cistercians, and Constantine served as their first abbot from then until his death 13 years later.

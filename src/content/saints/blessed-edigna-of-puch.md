@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/d/d7/Edigna_St-Sebastian_Langhaus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Edigna of Puch
 honorific: Blessed
 birthYear: 1055
@@ -23,4 +24,6 @@ patronage:
   - Puch, Germany
 martyr: false
 prayers: []
+imageAlt: Portrait of Blessed Edigna of Puch
+imageCreditUrl: https://en.wikipedia.org/wiki/Edigna
 ---

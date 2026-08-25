@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/1/1c/Saint_Roch_MET_EP14.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed John Roche
 honorific: Blessed
 summary: >-
@@ -28,6 +29,8 @@ patronage:
   - watermen
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed John Roche
+imageCreditUrl: https://en.wikipedia.org/wiki/Saint%20Roch
 ---
 
 Waterman, and servant of Saint Margaret Ward. He helped Father Richard Watson, a condemned priest, escape by meeting him outside the prison with a boat, then changing clothes with him to lead pursuers off his trail. Condemned to death for aiding a priest, he was offered freedom if he asked the Queen's pardon and promised to go to church; he answered that he had done nothing to offend her Majesty, and it was against his conscience to attend a Protestant church. One of the Forty Martyrs of England and Wales

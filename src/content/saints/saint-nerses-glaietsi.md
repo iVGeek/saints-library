@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/e/e5/Nerses_shnorhali_illustration.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Nerses Glaietsi
 honorific: Saint
 summary: >-
@@ -22,6 +23,8 @@ vocation:
   - Monk
 martyr: false
 prayers: []
+imageAlt: Portrait of Saint Nerses Glaietsi
+imageCreditUrl: https://en.wikipedia.org/wiki/Nerses%20IV%20the%20Gracious
 ---
 
 Uncle of Saint Nerces Lambronazi. Worked for the union of the Greek and Armenian churches, and of the Armenian church with Rome. Bishop of the Armenians in 1166. Noted poet in his native language.

@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/4/48/Painting_of_the_Nagasaki_Martyrs.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Christian Franco
 honorific: Blessed
 summary: >-
@@ -19,6 +20,8 @@ vocation:
 religiousOrder: Augustinian
 martyr: false
 prayers: []
+imageAlt: Portrait of Blessed Christian Franco
+imageCreditUrl: https://en.wikipedia.org/wiki/205%20Martyrs%20of%20Japan
 ---
 
 Brother of Blessed Desiderio Franco. Joined the Augustinians in 1362. Monk at the Carbonara convent in Naples, Italy in 1421. Augustinian superior general.

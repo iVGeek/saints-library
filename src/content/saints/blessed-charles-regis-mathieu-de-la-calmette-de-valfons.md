@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/4/4f/Frm_beatification_banner.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Charles-Regis-Mathieu de la Calmette de Valfons
 honorific: Blessed
 summary: Count of Valfons. Layman in the archdiocese of Paris, France. One of the Martyrs of September.
@@ -18,6 +19,8 @@ vocation: []
 religiousOrder: Carmelite
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Charles-Regis-Mathieu de la Calmette de Valfons
+imageCreditUrl: https://en.wikipedia.org/wiki/Holy%20September%20Martyrs
 ---
 
 Count of Valfons. Layman in the archdiocese of Paris, France. One of the Martyrs of September.

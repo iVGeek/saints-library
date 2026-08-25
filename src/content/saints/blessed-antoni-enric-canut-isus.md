@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/0/08/Roma_martires_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Antoni Enric Canut Isus
 honorific: Blessed
 summary: Priest in the Salesians of Don Bosco. Martyred in the Spanish Civil War.
@@ -19,6 +20,8 @@ vocation:
 religiousOrder: Salesian
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Antoni Enric Canut Isus
+imageCreditUrl: https://en.wikipedia.org/wiki/498%20Spanish%20Martyrs
 ---
 
 Priest in the Salesians of Don Bosco. Martyred in the Spanish Civil War.

@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/4/4a/Fresco_of_Saint_Paul_at_Ephesus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Nilus of Tyre
 honorific: Saint
 summary: Bishop in Egypt. Tortured and martyred in the persecutions of Diocletian.
@@ -17,6 +18,8 @@ vocation:
   - Monk
 martyr: true
 prayers: []
+imageAlt: Portrait of Saint Nilus of Tyre
+imageCreditUrl: https://en.wikipedia.org/wiki/Paul%20the%20Apostle
 ---
 
 Bishop in Egypt. Tortured and martyred in the persecutions of Diocletian.

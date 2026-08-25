@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/3/38/SaintDominic.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Antonio of Saint Dominic
 honorific: Blessed
 summary: Dominican friar. Martyr.
@@ -19,6 +20,8 @@ vocation:
 religiousOrder: Dominican
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Antonio of Saint Dominic
+imageCreditUrl: https://en.wikipedia.org/wiki/Dominic%20de%20Guzm%C3%A1n
 ---
 
 Dominican friar. Martyr.

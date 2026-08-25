@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/1/10/Blessed-james-thompson.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed James Thompson
 honorific: Blessed
 summary: >-
@@ -24,6 +25,8 @@ vocation:
   - Cardinal
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed James Thompson
+imageCreditUrl: https://en.wikipedia.org/wiki/James%20Thompson%20(martyr)
 ---
 
 Educated at Cardinal Allen's college at Rheims, France. Ordained at Soissons, France. Returned to York, England to minister to covert Catholics during a period of persecution, using the name James Hudson. Imprisoned and executed for the crime of being a priest in England.

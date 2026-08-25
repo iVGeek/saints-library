@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/8/8f/OFS-Mezin%C3%A1rodn%C3%AD_znak.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Giovanni Cini della Pace
 honorific: Blessed
 summary: >-
@@ -31,6 +32,8 @@ vocation:
 religiousOrder: Franciscan
 martyr: false
 prayers: []
+imageAlt: Portrait of Blessed Giovanni Cini della Pace
+imageCreditUrl: https://en.wikipedia.org/wiki/Secular%20Franciscan%20Order
 ---
 
 A soldier in the army of the Republic of Pisa, Italy. A bit wild by nature, he was imprisoned at one point for the 8 October 1296 attack on Archbishop Teodorico Ranieri of Pisa. While serving his time, Giovanni had a conversion experience, and when he was released he became a Franciscan teritary and concentrated on a life of penance.

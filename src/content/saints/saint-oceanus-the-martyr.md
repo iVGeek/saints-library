@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/b/b0/Pammachius_Ss_Giovanni_e_Paolo.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Oceanus the Martyr
 honorific: Saint
 summary: Martyred in the persecutions of Emperor Maximian Herculeus.
@@ -14,6 +15,8 @@ vocation:
   - Monk
 martyr: true
 prayers: []
+imageAlt: Portrait of Saint Oceanus the Martyr
+imageCreditUrl: https://en.wikipedia.org/wiki/Pammachius
 ---
 
 Martyred in the persecutions of Emperor Maximian Herculeus.

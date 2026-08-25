@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/8/8f/Digne_les_bains_-_vue_est.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Douceline of Digne
 honorific: Blessed
 summary: >-
@@ -29,6 +30,8 @@ patronage:
   - Hyères, France
 martyr: false
 prayers: []
+imageAlt: Portrait of Blessed Douceline of Digne
+imageCreditUrl: https://en.wikipedia.org/wiki/Digne-les-Bains
 ---
 
 Daughter of Berengarius of Digne, a prosperous merchant, and Huguette of Barjols; the couple was known for their piety and charity. Following the death of her parents, she moved to Hyères, France, and was drawn to the spirituality of the Franciscans who had recently moved into the area; she sometimes stayed at a Poor Clare convent. She spent her time caring for the sick and poor, and her personal property dwindled to the clothes on her back and a pile of straw she used for a bed.

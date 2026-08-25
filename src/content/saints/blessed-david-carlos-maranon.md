@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/8/8b/Il_Gesu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Davíd Carlos-Marañon
 honorific: Blessed
 summary: >-
@@ -25,6 +26,8 @@ vocation:
   - Soldier
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Davíd Carlos-Marañon
+imageCreditUrl: https://en.wikipedia.org/wiki/List%20of%20Jesuit%20sites
 ---
 
 Born to a wealthy family, the son of Domenico Carlos and Gregoria Marañon. Served in the military. He then disappointed his family by following a call to religious life, becoming a Piarist lay brother in Estella, Spain on 4 June 1931, and making his solemn profession on 28 June 1935. Served as gardener and cook for his community. In the persecutions of the Spanish Civil War, priests were automatically murdered, but David was given a chance to live if he would renounce religious life and throw away his habit; he refused. Martyr.

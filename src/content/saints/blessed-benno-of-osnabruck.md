@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/e/ef/Ewalde_scan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Benno of Osnabruck
 honorific: Blessed
 summary: >-
@@ -18,6 +19,8 @@ vocation:
   - Monk
 martyr: false
 prayers: []
+imageAlt: Portrait of Blessed Benno of Osnabruck
+imageCreditUrl: https://en.wikipedia.org/wiki/Two%20Hewalds
 ---
 
 Monk. Courtier to Emperor Henry III. Bishop of Osnabruck, Germany in 1068; he served for 20 years. Involved in the disputes between Emperor Henry IV and Pope Gregory VII. Founded Iburg Abbey in Bad Iburg, Germany.

@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/4/48/Painting_of_the_Nagasaki_Martyrs.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Isabella Fernandes
 honorific: Blessed
 summary: >-
@@ -18,6 +19,8 @@ vocation:
   - Monk
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Isabella Fernandes
+imageCreditUrl: https://en.wikipedia.org/wiki/205%20Martyrs%20of%20Japan
 ---
 
 Married to Blessed Domingos Jorge. Mother of Blessed Ignatius Jorge-Fernandes. Member of the Confraternity of the Rosary. Widowed when Blessed Domingos was martyred. She and her son were executed for aiding Blessed Charles Spinola. Martyr.

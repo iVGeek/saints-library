@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/4/4c/Strangulation_of_Godelieve.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Arnulf of Leuven
 honorific: Blessed
 summary: >-
@@ -29,6 +30,8 @@ vocation:
   - Monk
 martyr: false
 prayers: []
+imageAlt: Portrait of Blessed Arnulf of Leuven
+imageCreditUrl: https://en.wikipedia.org/wiki/Godelieve
 ---
 
 Cistercian monk. Abbot at Villers-la-Ville, Brabant (in modern Belgium) for 10 years. He expanded the abbey, made it a center of piety and mysticism, and compiled the first records of the abbey, covering the years 1146 to 1240. Noted poet. He opposed the scholasticism and formal education system being implemented at the time, and refused to help with the construction of the Saint-Bernard college in Paris, France as he thought the scholastic movement was destroying mystical life. Late in life, he retired from the abbacy to devote his remaining days to prayer and study.

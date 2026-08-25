@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/2/20/Santa_Teresa_de_Jes%C3%BAs_%28Museo_del_Prado%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Joan Mercer Soler
 honorific: Blessed
 summary: >-
@@ -22,6 +23,8 @@ vocation:
   - Cardinal
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Joan Mercer Soler
+imageCreditUrl: https://en.wikipedia.org/wiki/Teresa%20of%20%C3%81vila
 ---
 
 Member of the Claretians, professed on 15 September 1895. Ordained a priest on 19 December 1903. Martyred in the Spanish Civil War.

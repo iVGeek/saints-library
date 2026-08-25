@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/f/fe/Beatificaciotarragona2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Eloy Francisco Felipe Delgado Pastor
 honorific: Blessed
 summary: >-
@@ -21,6 +22,8 @@ canonizationStatus: Blessed
 vocation: []
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Eloy Francisco Felipe Delgado Pastor
+imageCreditUrl: https://en.wikipedia.org/wiki/522%20Spanish%20Martyrs
 ---
 
 Joined the Hospitallers of Saint John of God in 1929, taking the name Juan de la Cruz, and making his final vows on 8 December 1932. Martyred in the Spanish Civil War.

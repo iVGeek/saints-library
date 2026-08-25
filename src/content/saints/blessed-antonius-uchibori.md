@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/5/53/1899._Tzarevich_Dmitry_by_M._Nesterov.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Antonius Uchibori
 honorific: Blessed
 summary: >-
@@ -19,6 +20,8 @@ canonizationStatus: Blessed
 vocation: []
 martyr: false
 prayers: []
+imageAlt: Portrait of Blessed Antonius Uchibori
+imageCreditUrl: https://en.wikipedia.org/wiki/List%20of%20child%20saints
 ---
 
 Teenaged layman in the archdiocese of Nagasaki, Japan. Son of Blessed Paulus Uchibori Sakuemon; brother of Blessed Balthasar Uchibori and Blessed Ignatius Uchibori.

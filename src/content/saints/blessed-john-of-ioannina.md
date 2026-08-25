@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/3/34/Eugenios_Voulgaris.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed John of Ioannina
 honorific: Blessed
 summary: A tailor by trade, John was murdered by Muslims for refusing to renounce Christianity. Martyr.
@@ -17,6 +18,8 @@ canonizationStatus: Blessed
 vocation: []
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed John of Ioannina
+imageCreditUrl: https://en.wikipedia.org/wiki/Eugenios%20Voulgaris
 ---
 
 A tailor by trade, John was murdered by Muslims for refusing to renounce Christianity. Martyr.

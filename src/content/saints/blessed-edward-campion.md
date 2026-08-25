@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/a/ae/Oaten-hill-martyrs.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Edward Campion
 honorific: Blessed
 summary: >-
@@ -22,6 +23,8 @@ vocation:
   - Priest
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Edward Campion
+imageCreditUrl: https://en.wikipedia.org/wiki/Oaten%20Hill%20Martyrs
 ---
 
 Gerard studied at Jesus College, Oxford, England, but did not earn a degree because he refused to take the oath acknowledging the queen as the head of Christianity in England. He then worked as a servant in the house of Baron Gregory Fiennes. The strong Catholic loyalty of the family led Gerard to more intense involvement with his faith, and on 22 February 1586, he left England to study at the English College in Reims, France, renamed himself Edward Campion in honour of Saint Edmund Campion. Ordained a priest in 1587, the new Father Edward returned to England to minister to covert Catholics during the persecutions of Queen Elizabeth I. He was arrested in Sittingbourne, England a few weeks after his return, and was imprisoned in Newgate and Marshalsea prisons for the crime of being a priest. After multiple interrogations and chances to recant his belief, Edward was condemned to death. One of the Oaten Hill Martyrs.

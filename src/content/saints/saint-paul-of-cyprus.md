@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/4/4a/Fresco_of_Saint_Paul_at_Ephesus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Paul of Cyprus
 honorific: Saint
 summary: >-
@@ -16,6 +17,8 @@ vocation:
   - Monk
 martyr: false
 prayers: []
+imageAlt: Portrait of Saint Paul of Cyprus
+imageCreditUrl: https://en.wikipedia.org/wiki/Paul%20the%20Apostle
 ---
 
 Cypriot monk. During the reign of the iconoclast emperor Constantine Copronymus, Paul was ordered to trample a crucifix. He refused, and was tortured and martryed.

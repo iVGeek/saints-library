@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/0/0c/Pescara_-_Duomo_di_San_Cetteo_2.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Peregrinus of Amiterno
 honorific: Saint
 summary: >-
@@ -26,6 +27,8 @@ vocation:
   - Monk
 martyr: true
 prayers: []
+imageAlt: Portrait of Saint Peregrinus of Amiterno
+imageCreditUrl: https://en.wikipedia.org/wiki/Cetteus
 ---
 
 Bishop of Amiterno (modern San Vittorino, Italy). Murdered by Arian Lombards for asking for mercy for a condemned prisoner. Martyr.

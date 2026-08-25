@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/a/a1/Sanctus_Marcellinus_Martyr_Germany_Seligenstadt_2007.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Lupus of the Via Aurelia
 honorific: Saint
 summary: Martyr.
@@ -14,6 +15,8 @@ vocation:
   - Monk
 martyr: true
 prayers: []
+imageAlt: Portrait of Saint Lupus of the Via Aurelia
+imageCreditUrl: https://en.wikipedia.org/wiki/Marcellinus%20and%20Peter
 ---
 
 Martyr.

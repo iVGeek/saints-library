@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/4/48/Painting_of_the_Nagasaki_Martyrs.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Augustine Ota
 honorific: Blessed
 summary: >-
@@ -22,6 +23,8 @@ vocation: []
 religiousOrder: Jesuit
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Augustine Ota
+imageCreditUrl: https://en.wikipedia.org/wiki/205%20Martyrs%20of%20Japan
 ---
 
 Worked as a catechist, helping Jesuit missionaries. Imprisoned at Ikinoshima for his faith. While imprisoned, he was received into the Jesuits. Martyr.

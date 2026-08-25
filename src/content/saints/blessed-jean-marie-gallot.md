@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/1/12/Pere_Lachaise_Chemin_Errazu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Jean-Marie Gallot
 honorific: Blessed
 summary: Priest in the diocese of Laval, France. Martyred in the French Revolution.
@@ -19,6 +20,8 @@ vocation:
   - Monk
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Jean-Marie Gallot
+imageCreditUrl: https://en.wikipedia.org/wiki/P%C3%A8re%20Lachaise%20Cemetery
 ---
 
 Priest in the diocese of Laval, France. Martyred in the French Revolution.

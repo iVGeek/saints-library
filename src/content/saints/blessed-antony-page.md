@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/a/a0/St.ANTONY%27S_CHURCH%2C_OLLUR.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Antony Page
 honorific: Blessed
 summary: >-
@@ -23,6 +24,8 @@ vocation:
   - Priest
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Antony Page
+imageCreditUrl: https://en.wikipedia.org/wiki/Saint%20Antony's%20Syro-Malabar%20Church%2C%20Ollur
 ---
 
 Studied at Douai, France. Ordained in 1591. Returned to England to minister to covert Catholics in the persecutions of Queen Elizabeth I. Arrested and martyred for the crime of priesthood.

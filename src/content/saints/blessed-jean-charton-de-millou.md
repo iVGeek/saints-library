@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/8/86/Ignatius-Loyola.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Jean Charton de Millou
 honorific: Blessed
 summary: Jesuit priest. One of the Martyrs of September.
@@ -20,6 +21,8 @@ vocation:
 religiousOrder: Jesuit
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Jean Charton de Millou
+imageCreditUrl: https://en.wikipedia.org/wiki/List%20of%20saints%20of%20the%20Society%20of%20Jesus
 ---
 
 Jesuit priest. One of the Martyrs of September.

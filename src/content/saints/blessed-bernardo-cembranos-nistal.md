@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/f/fe/Beatificaciotarragona2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Bernardo Cembranos Nistal
 honorific: Blessed
 summary: >-
@@ -23,6 +24,8 @@ vocation: []
 religiousOrder: Capuchin
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Bernardo Cembranos Nistal
+imageCreditUrl: https://en.wikipedia.org/wiki/522%20Spanish%20Martyrs
 ---
 
 Feeling an early call to religious life, Bernardo joined the Capuchins on 20 May 1920, aged 17, taking the name Eustaquio de Villaquite; he made his profession as a lay brother on 6 May 1921. When the Spanish Civil War broke out in 1936, Bernardo was serving as a cook in the Capuchin house in Gijón, Spain. For the offense of being in religious life, he was arrested by militiamen on 21 July 1936; witnesses attest that he spent all his time in prayer. He was used as forced labour, including clearing debris from bomb sites, and repeatedly ordered to renounce his faith; Brother Bernardo refused. Martyr.

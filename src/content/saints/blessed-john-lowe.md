@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/0/00/Sir_Adrian_Fortescue.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed John Lowe
 honorific: Blessed
 summary: Priest for the apostolic vicariate of England. Martyr.
@@ -15,6 +16,8 @@ vocation:
   - Priest
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed John Lowe
+imageCreditUrl: https://en.wikipedia.org/wiki/Adrian%20Fortescue%20(martyr)
 ---
 
 Priest for the apostolic vicariate of England. Martyr.

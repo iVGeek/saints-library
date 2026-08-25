@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/d/d6/Mother_Teresa_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed John Nelson
 honorific: Blessed
 summary: >-
@@ -23,6 +24,8 @@ vocation:
 religiousOrder: Jesuit
 martyr: false
 prayers: []
+imageAlt: Portrait of Blessed John Nelson
+imageCreditUrl: https://en.wikipedia.org/wiki/Mother%20Teresa
 ---
 
 Studied for the priesthood at Douai, France, beginning at age 39. Ordained at Binche, Hainault (in modern Belgium) on 11 June 1576. Two of his four brothers followed him into the priesthood. John returned to England on 7 November 1576 as a missioner to London. Joined the Jesuits at some point; though the date has been lost it was probably close to the time of his arrest.

@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/2/21/R%C3%B2tul_Pl_Catalunya.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Joan Busquet Llucia
 honorific: Blessed
 summary: >-
@@ -22,6 +23,8 @@ vocation:
   - Cardinal
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Joan Busquet Llucia
+imageCreditUrl: https://en.wikipedia.org/wiki/Street%20names%20in%20Barcelona
 ---
 
 Member of the Claretians, professed on 25 March 1884. Ordained a priest on 15 August 1891. Martyred in the Spanish Civil War.

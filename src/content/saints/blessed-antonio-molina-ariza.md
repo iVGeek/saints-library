@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/7/76/Guatemala_collage_%2850%25_size%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Antonio Molina Ariza
 honorific: Blessed
 summary: Priest of the diocese of Córdoba, Spain, serving in the Hornachuelos community. Martyred in the Spanish Civil War.
@@ -19,6 +20,8 @@ vocation:
   - Cardinal
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Antonio Molina Ariza
+imageCreditUrl: https://en.wikipedia.org/wiki/Guatemalan%20Civil%20War
 ---
 
 Priest of the diocese of Córdoba, Spain, serving in the Hornachuelos community. Martyred in the Spanish Civil War.

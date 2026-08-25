@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/8/88/Joan_Ter%C3%A8s_i_Borrull.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Joan Baptista Urgell Coma
 honorific: Blessed
 summary: Monk. Member of the Brothers of the Christian Schools. Martyred in the Spanish Civil War.
@@ -20,6 +21,8 @@ vocation:
   - Monk
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Joan Baptista Urgell Coma
+imageCreditUrl: https://en.wikipedia.org/wiki/Joan%20Ter%C3%A8s%20i%20Borrull
 ---
 
 Monk. Member of the Brothers of the Christian Schools. Martyred in the Spanish Civil War.

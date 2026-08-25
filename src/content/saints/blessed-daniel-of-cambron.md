@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/e/e0/Tour_de_l%27abbaye_de_Cambron.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Daniel of Cambron
 honorific: Blessed
 summary: >-
@@ -24,6 +25,8 @@ vocation:
 religiousOrder: Benedictine
 martyr: false
 prayers: []
+imageAlt: Portrait of Blessed Daniel of Cambron
+imageCreditUrl: https://en.wikipedia.org/wiki/Cambron%20Abbey
 ---
 
 Born to the nobility in East Flanders, Daniel grew up determined to enter religious life. In the mid-12th-century, he entered the Cistercian Benedictine abbey of Our Lady of Cambron-Casteau as a monk, and in 1164 was chosen third abbot of the house. As abbot, Daniel became an admired leader in the region, gathering so much in donations that he finished the expanded construction of the monastery. He became a papal diplomat, chosen by Pope Lucius III to handle important missions. He helped broker peace between warring local princes, helped with the preparations for the Crusade, and established conditions for the founding of several daughter houses in the region.

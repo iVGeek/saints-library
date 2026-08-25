@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/0/08/Roma_martires_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Antonio Sáez de Ibarra López
 honorific: Blessed
 summary: >-
@@ -21,6 +22,8 @@ vocation: []
 religiousOrder: Franciscan
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Antonio Sáez de Ibarra López
+imageCreditUrl: https://en.wikipedia.org/wiki/498%20Spanish%20Martyrs
 ---
 
 Franciscan Friar Minor postulant, entering the novitiate on 17 January 1931 and taking the name Antonio; his novitiate was interrupted by the Spanish Civil War during which his convent was burned. Studied theology, but failing health caused him to withdraw from college and settle at the convent of Fuenteobejuna. Martyred in the Spanish Civil War.

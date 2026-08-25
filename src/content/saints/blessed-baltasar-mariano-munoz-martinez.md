@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/f/fe/Beatificaciotarragona2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Baltasar Mariano Muñoz Martínez
 honorific: Blessed
 summary: Franciscan Friar Minor. Martyred in the Spanish Civil War.
@@ -20,6 +21,8 @@ vocation: []
 religiousOrder: Franciscan
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Baltasar Mariano Muñoz Martínez
+imageCreditUrl: https://en.wikipedia.org/wiki/522%20Spanish%20Martyrs
 ---
 
 Franciscan Friar Minor. Martyred in the Spanish Civil War.

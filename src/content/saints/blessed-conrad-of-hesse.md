@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/2/2c/Fr_Moselle_Hesse_Eglise_abbatiale_gisant_Hugues_IV_de_Nordgau_detail.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Conrad of Hesse
 honorific: Blessed
 summary: >-
@@ -27,6 +28,8 @@ vocation:
   - Monk
 martyr: false
 prayers: []
+imageAlt: Portrait of Blessed Conrad of Hesse
+imageCreditUrl: https://en.wikipedia.org/wiki/Hugh%20IV%20of%20Nordgau
 ---
 
 Conrad's father, also named Conrad, died in a shipwreck before the boy was born. Well-educated, Conrad was drawn to religious life, and became a Cistercian monk at the monastery in Haina, Germany around age 20. Priest. He served as sacristan and then cellar-master of his house for 16 years. Late in life he retired from all duties in the house to live in prayerful isolation.

@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/1/16/Frankish_Empire_481_to_814-en.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Offa of Benevento
 honorific: Saint
 summary: Benedictine nun and abbess at Saint Peter's convent, Benevento, Italy.
@@ -16,6 +17,8 @@ vocation:
 religiousOrder: Benedictine
 martyr: false
 prayers: []
+imageAlt: Portrait of Saint Offa of Benevento
+imageCreditUrl: https://en.wikipedia.org/wiki/774
 ---
 
 Benedictine nun and abbess at Saint Peter's convent, Benevento, Italy.

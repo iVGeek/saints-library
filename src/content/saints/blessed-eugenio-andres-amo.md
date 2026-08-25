@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/0/08/Roma_martires_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Eugenio Andrés Amo
 honorific: Blessed
 summary: Dominican friar. Martyred in the Spanish Civil War.
@@ -18,6 +19,8 @@ vocation: []
 religiousOrder: Dominican
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Eugenio Andrés Amo
+imageCreditUrl: https://en.wikipedia.org/wiki/498%20Spanish%20Martyrs
 ---
 
 Dominican friar. Martyred in the Spanish Civil War.

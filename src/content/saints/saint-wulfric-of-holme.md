@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/d/d7/Norfolk%2C_River_Bure%2C_St_Benet%27s_Abbey%28RLH%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Wulfric of Holme
 honorific: Saint
 title: Hermit
@@ -20,6 +21,8 @@ vocation:
   - Hermit
 martyr: false
 prayers: []
+imageAlt: Portrait of Saint Wulfric of Holme
+imageCreditUrl: https://en.wikipedia.org/wiki/St%20Benet's%20Abbey
 ---
 
 Hermit at Saint Benet Hulme in Norfolk, England.

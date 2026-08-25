@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/2/24/Secret_Society_Buildings_New_Haven.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed David of Himmerod
 honorific: Blessed
 summary: >-
@@ -23,6 +24,8 @@ vocation:
 religiousOrder: Benedictine
 martyr: false
 prayers: []
+imageAlt: Portrait of Blessed David of Himmerod
+imageCreditUrl: https://en.wikipedia.org/wiki/Secret%20society
 ---
 
 Studied in Paris, France. Benedictine Cistercian monk at Clairvaux Abbey in 1131; spiritual student of Saint Bernard of Clairvaux who accepted David after he had been initially rejected due to health problems. Assigned by Saint Bernard to found and lead the Himmerod Abbey, Trier, Germany in 1134. Miracle worker, healer, exorcist with the gift of prophecy.

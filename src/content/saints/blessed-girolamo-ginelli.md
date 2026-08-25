@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/b/bd/Ancona_-_Duomo_di_San_Ciriaco_-_veduta_aerea.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Girolamo Ginelli
 honorific: Blessed
 summary: >-
@@ -25,6 +26,8 @@ vocation:
 religiousOrder: Franciscan
 martyr: false
 prayers: []
+imageAlt: Portrait of Blessed Girolamo Ginelli
+imageCreditUrl: https://en.wikipedia.org/wiki/Ancona%20Cathedral
 ---
 
 Born to the Italian nobility. In his mid-teens, Girolamo was drawn to religious life, and at age 16 joined the Franciscan tertiaries at the San Sebastian convent in Ancona, Italy. in 1482 he withdrew from the convent to become a hermit at San Pietro's on Mount Conero near Ancona; he lived there as a hermit for the next 24 years, going barefoot, sleeping on the bare ground. Around the year 1500 he joined the Congregation of the Hermits of Santa Maria di Gonzaga, and lived as a member of that community the rest of his days, known for a life of piety and penance.

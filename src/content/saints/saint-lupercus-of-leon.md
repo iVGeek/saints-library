@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/7/7f/Marcellus_Cassian.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Lupercus of Léon
 honorific: Saint
 summary: >-
@@ -17,6 +18,8 @@ vocation:
   - Monk
 martyr: true
 prayers: []
+imageAlt: Portrait of Saint Lupercus of Léon
+imageCreditUrl: https://en.wikipedia.org/wiki/Marcellus%20of%20Tangier
 ---
 
 Son of Saint Marcellus of Centurion; brother of Saint Claudius of Léon and Saint Victorius of Léon. Martyred in the persecutions of Diocletian.

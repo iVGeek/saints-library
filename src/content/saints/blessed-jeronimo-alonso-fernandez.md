@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/9/9f/Erb_Silva-Tarouca.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Jerónimo Alonso Fernández
 honorific: Blessed
 summary: Monk. Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War.
@@ -21,6 +22,8 @@ vocation:
 religiousOrder: Marist
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Jerónimo Alonso Fernández
+imageCreditUrl: https://en.wikipedia.org/wiki/House%20of%20Silva
 ---
 
 Monk. Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War.

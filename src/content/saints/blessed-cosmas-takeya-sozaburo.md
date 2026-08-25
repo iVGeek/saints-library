@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/4/48/Painting_of_the_Nagasaki_Martyrs.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Cosmas Takeya Sozaburo
 honorific: Blessed
 summary: >-
@@ -18,6 +19,8 @@ vocation:
   - Priest
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Cosmas Takeya Sozaburo
+imageCreditUrl: https://en.wikipedia.org/wiki/205%20Martyrs%20of%20Japan
 ---
 
 Layman member of the Confraternity of the Holy Rosary in the archdiocese of Nagasaki, Japan. Married to Blessed Agnes Takeya; father of Franciscus Takeya. Martyr.

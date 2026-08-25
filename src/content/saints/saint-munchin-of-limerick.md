@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/2/28/Limerickcitycollage3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Munchin of Limerick
 honorific: Saint
 summary: >-
@@ -31,6 +32,8 @@ patronage:
   - Limerick, Ireland, diocese of
 martyr: false
 prayers: []
+imageAlt: Portrait of Saint Munchin of Limerick
+imageCreditUrl: https://en.wikipedia.org/wiki/Limerick
 ---
 
 First bishop of Limerick (Luimneach), occupying the see in the 7th century. A prince gave him the island, possibly in exchange for Munchin giving up a claim to the throne. Established the school at Mungret and served as abbot to its 1,500 monks.

@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/3/3f/Chanter_Angelos_Akotandos_-_St_Anne_with_the_Virgin_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed John of Saint Martha
 honorific: Blessed
 summary: >-
@@ -24,6 +25,8 @@ vocation:
 religiousOrder: Franciscan
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed John of Saint Martha
+imageCreditUrl: https://en.wikipedia.org/wiki/Saint%20Anne
 ---
 
 Franciscan priest, ordained in 1606. Missionary to Japan where he was noted for his quick mastery of the language. Arrested at Macao in 1615, he was imprisoned for three years, then executed for his faith. Martyr.

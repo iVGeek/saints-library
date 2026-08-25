@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/5/52/Beatification_of_John_Paul_II_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Elfrieda Schilling
 honorific: Blessed
 summary: >-
@@ -25,6 +26,8 @@ vocation:
   - Soldier
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Elfrieda Schilling
+imageCreditUrl: https://en.wikipedia.org/wiki/List%20of%20Polish%20Catholic%20saints
 ---
 
 Raised in an Evangelical family, Elfrieda converted to Catholicism at age 20, and joined the Sisters of Saint Elizabeth. She served in various, often administrative capacities, at Elizabethan Sister houses in Hamburg-Eimsbüttel, in Glogów, in Nysa, in Katowice, in Legnica, in Chojnów and in Nowogrodziec. When the Soviet army overran the area near the end of World War II, she and some other Sisters hid in an air-raid shelter. When the Russian soldiers found them, she struggled against them but was beaten, gang raped by the soldiers, and finally murdered by the Communist party commisar Martyr.

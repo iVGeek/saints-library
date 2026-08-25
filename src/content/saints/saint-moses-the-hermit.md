@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/4/47/San_Pablo_Ermita%C3%B1o%2C_por_Jos%C3%A9_de_Ribera.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Moses the Hermit
 honorific: Saint
 summary: >-
@@ -22,6 +23,8 @@ vocation:
   - Hermit
 martyr: false
 prayers: []
+imageAlt: Portrait of Saint Moses the Hermit
+imageCreditUrl: https://en.wikipedia.org/wiki/Paul%20of%20Thebes
 ---
 
 Hermit in the area between Syria and Egypt. Evangelized the nomadic tribes in the Syro-Arabian desert. Mavia, their queen, agreed to this on the provision that Moses be named their bishop. Moses agreed, but a controversy ensued when he refused to deal with the archbishop of Alexandria, Egypt; the archbishop had jurisdiction over the area, but was supported Arianism, which made him a heretic to Moses. Later consecrated by an orthodox bishop, Moses spent the rest of his life teaching and preaching to the nomads. Negotiated a lasting peace between the nomads and the Roman empire.

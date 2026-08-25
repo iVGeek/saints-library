@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/4/48/Painting_of_the_Nagasaki_Martyrs.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Ioachim Díaz Hirayama
 honorific: Blessed
 summary: >-
@@ -22,6 +23,8 @@ vocation:
   - Monk
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Ioachim Díaz Hirayama
+imageCreditUrl: https://en.wikipedia.org/wiki/205%20Martyrs%20of%20Japan
 ---
 
 Layman sailor in the archdiocese of Nagasaki, Japan. Member of the Confraternity of the Rosary. Captain of the ship that brought Blessed Pedro de Zúñiga and Blessed Ludovic Frarijn from Manila to Japan. The ship was captured by Dutch Protestant pirates, and taken to Firando. Joachim was martyred with his crew.

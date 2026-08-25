@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/3/38/Vierzehnheiligen_Fassade.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Anthony of Ilbenstadt
 honorific: Blessed
 summary: >-
@@ -20,6 +21,8 @@ vocation:
   - Monk
 martyr: false
 prayers: []
+imageAlt: Portrait of Blessed Anthony of Ilbenstadt
+imageCreditUrl: https://en.wikipedia.org/wiki/Basilica%20of%20the%20Fourteen%20Holy%20Helpers
 ---
 
 Anthony heard Saint Norbert of Xanten preach in Nivelles, Belgium c.1120, and was so impressed that he gave away everything to become Saint Norbert's 3rd spiritual student. Studied with Blessed Hugh of Fosse and Blessed Evermod of Ratzeburg. One of the first Premonstratensian monks. Canon of the motherhouse in Premontres, Laon, France. Prior of the Ilbenstadt monastery in Wetterau, diocese of Mainz, Germany.

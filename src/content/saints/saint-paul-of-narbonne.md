@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/c/c4/Narbonne_Cathedrale_Saint_Just_et_Saint_Pasteur.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Paul of Narbonne
 honorific: Saint
 summary: Third century priest, ordained in Rome, Italy. Missionary to Gaul. Very successful in Narbonne, France.
@@ -17,6 +18,8 @@ vocation:
   - Confessor
 martyr: false
 prayers: []
+imageAlt: Portrait of Saint Paul of Narbonne
+imageCreditUrl: https://en.wikipedia.org/wiki/Narbonne%20Cathedral
 ---
 
 Third century priest, ordained in Rome, Italy. Missionary to Gaul. Very successful in Narbonne, France.

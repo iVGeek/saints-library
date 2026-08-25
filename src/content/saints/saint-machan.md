@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/5/53/NMSMonymuskReliquary2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Machan
 honorific: Saint
 summary: >-
@@ -24,6 +25,8 @@ patronage:
   - Aberdeen, Scotland
 martyr: false
 prayers: []
+imageAlt: Portrait of Saint Machan
+imageCreditUrl: https://en.wikipedia.org/wiki/List%20of%20saints%20of%20Scotland
 ---
 
 A spiritual student of Saint Cadoc of Llancarvan, Machan was educated in Ireland where he was ordained a priest. He made a pilgrimage to Rome, Italy where he was consecrated a bishop. Missionary to pagans in the area of Campsie Glen near Glasgow, Scotland. Known as a miracle worker, he once turned some stolen oxen to stone so that the bandits stole them would not benefit from the theft.

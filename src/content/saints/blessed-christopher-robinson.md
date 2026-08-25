@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/3/31/Blessed-christopher-robinson.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Christopher Robinson
 honorific: Blessed
 summary: >-
@@ -21,6 +22,8 @@ vocation:
   - Priest
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Christopher Robinson
+imageCreditUrl: https://en.wikipedia.org/wiki/Christopher%20Robinson%20(priest)
 ---
 
 Studied in Douai and Rheims, France beginning in 1590. Ordained 24 February 1592. Returned to England in September 1592 to covertly minister to oppressed Catholics in the areas of Cumberland and Westmoreland. He witnessed the martyrdom of Saint John Boste, and published an account of it. Arrested 4 March 1597 for the crime of priesthood. Martyred for his crime; the hanging rope broke twice, so they used two ropes on the third, successful attempt. One of the Martyrs of England, Scotland, and Wales.

@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/d/dd/Schaerbeek_Eglise_Sainte-Alice_010.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Arnulf of Villers
 honorific: Blessed
 summary: >-
@@ -23,6 +24,8 @@ vocation:
   - Monk
 martyr: false
 prayers: []
+imageAlt: Portrait of Blessed Arnulf of Villers
+imageCreditUrl: https://en.wikipedia.org/wiki/Alice%20of%20Schaerbeek
 ---
 
 After a wasted youth, at age 22 he had a conversion and became a Cistercian lay brother at Villers, Belgium. There he became known for the his ascetic life and charity, his prayer life, and desire to make up for his past. Had a great devotion to the Blessed Virgin Mary.

@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/9/97/Saint_Raphael.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Zacharias the Angelic
 honorific: Saint
 summary: Hermit and monk on Mount Mercury, Lucania, Italy.
@@ -18,6 +19,8 @@ vocation:
   - Hermit
 martyr: false
 prayers: []
+imageAlt: Portrait of Saint Zacharias the Angelic
+imageCreditUrl: https://en.wikipedia.org/wiki/Raphael%20(archangel)
 ---
 
 Hermit and monk on Mount Mercury, Lucania, Italy.

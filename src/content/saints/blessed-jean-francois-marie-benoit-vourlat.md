@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/4/4f/Frm_beatification_banner.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Jean-François-Marie Benoît-Vourlat
 honorific: Blessed
 summary: >-
@@ -22,6 +23,8 @@ vocation:
 religiousOrder: Jesuit
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Jean-François-Marie Benoît-Vourlat
+imageCreditUrl: https://en.wikipedia.org/wiki/Holy%20September%20Martyrs
 ---
 
 Jesuit priest. Noted spiritual director. Chaplain to the Sisters of the Perpetual Adoration of the Blessed Sacrament. One of the Martyrs of September killed in the anti–Catholic excesses of the French Revolution.

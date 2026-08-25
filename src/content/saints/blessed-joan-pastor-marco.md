@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/e/ea/Saint_Augustine_by_Philippe_de_Champaigne.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Joan Pastor Marco
 honorific: Blessed
 summary: Monk. Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War.
@@ -21,6 +22,8 @@ vocation:
 religiousOrder: Marist
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Joan Pastor Marco
+imageCreditUrl: https://en.wikipedia.org/wiki/Augustine%20of%20Hippo
 ---
 
 Monk. Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War.

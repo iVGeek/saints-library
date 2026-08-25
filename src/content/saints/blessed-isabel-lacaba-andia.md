@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/1/1b/OrdoIC.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Isabel Lacaba Andia
 honorific: Blessed
 summary: Conceptionist nun. Martyred in the Spanish Civil War.
@@ -21,6 +22,8 @@ vocation:
   - Cardinal
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Isabel Lacaba Andia
+imageCreditUrl: https://en.wikipedia.org/wiki/Conceptionists
 ---
 
 Conceptionist nun. Martyred in the Spanish Civil War.

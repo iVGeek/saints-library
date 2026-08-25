@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/9/91/Nuremberg_chronicles_f_145v_4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Charles Meehan
 honorific: Blessed
 summary: Franciscan priest. Martyred in connection with the Titus Oates Plot.
@@ -20,6 +21,8 @@ vocation:
 religiousOrder: Franciscan
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Charles Meehan
+imageCreditUrl: https://en.wikipedia.org/wiki/List%20of%20saints%20of%20Ireland
 ---
 
 Franciscan priest. Martyred in connection with the Titus Oates Plot.

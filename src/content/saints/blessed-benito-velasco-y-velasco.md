@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/1/1f/Los_Angeles_Cathedral.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Benito Velasco y Velasco
 honorific: Blessed
 summary: Augustinian priest. Martyred in the Spanish Civil War.
@@ -19,6 +20,8 @@ vocation:
 religiousOrder: Augustinian
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Benito Velasco y Velasco
+imageCreditUrl: https://en.wikipedia.org/wiki/Archdiocese%20of%20Los%20Angeles
 ---
 
 Augustinian priest. Martyred in the Spanish Civil War.

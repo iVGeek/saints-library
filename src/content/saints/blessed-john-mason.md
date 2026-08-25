@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/3/3c/John_Mason_Neale.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed John Mason
 honorific: Blessed
 summary: >-
@@ -20,6 +21,8 @@ vocation:
   - Monk
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed John Mason
+imageCreditUrl: https://en.wikipedia.org/wiki/John%20Mason%20Neale
 ---
 
 Layman. Servant to a Mr Owen of Oxfordshire. Arrested for harbouring priests in general, and Saint Edmund Gennings in particular, physically restraining the men who were going to arrest Gennings during Mass. Martyr.

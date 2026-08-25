@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/5/51/Lycee_Paul-Langevin_Suresnes3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Jean-Michel Langevin
 honorific: Blessed
 summary: Priest of the diocese of Angers, France. Martyred in the persecutions of the French Revolution.
@@ -18,6 +19,8 @@ vocation:
   - Priest
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Jean-Michel Langevin
+imageCreditUrl: https://en.wikipedia.org/wiki/History%20of%20Suresnes
 ---
 
 Priest of the diocese of Angers, France. Martyred in the persecutions of the French Revolution.

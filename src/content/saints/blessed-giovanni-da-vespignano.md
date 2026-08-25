@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/1/1b/Giotto%2C_Santa_Maria_Novella.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Giovanni da Vespignano
 honorific: Blessed
 summary: >-
@@ -21,6 +22,8 @@ canonizationStatus: Blessed
 vocation: []
 martyr: false
 prayers: []
+imageAlt: Portrait of Blessed Giovanni da Vespignano
+imageCreditUrl: https://en.wikipedia.org/wiki/Giotto
 ---
 
 Born to the wealthy nobility. From his youth he felt drawn to religious vocation, gave up his claim to wealth and moved to the area of Florence, Italy where he was known for his simple life, his charity and his work to care for war refugees. Legend says that when he paused in the fields to read the Bible, his oxen would continue to plow without him.

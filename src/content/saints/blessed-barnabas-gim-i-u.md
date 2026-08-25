@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/a/a6/7645Shrine_of_Saint_Andrew_Kim_Bulacan_22_%28hq%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Barnabas Gim I-u
 honorific: Blessed
 summary: Layman martyr in the apostolic vicariate of Korea.
@@ -16,6 +17,8 @@ canonizationStatus: Blessed
 vocation: []
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Barnabas Gim I-u
+imageCreditUrl: https://en.wikipedia.org/wiki/Korean%20Martyrs
 ---
 
 Layman martyr in the apostolic vicariate of Korea.

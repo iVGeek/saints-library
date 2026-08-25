@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/b/b7/AguinaldoShrinejf0944_13.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Emiliano Pascual Abad
 honorific: Blessed
 summary: Member of the Claretians. Martyred in the Spanish Civil War.
@@ -19,6 +20,8 @@ vocation:
   - Cardinal
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Emiliano Pascual Abad
+imageCreditUrl: https://en.wikipedia.org/wiki/Cavite
 ---
 
 Member of the Claretians. Martyred in the Spanish Civil War.

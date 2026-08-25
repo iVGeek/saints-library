@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/e/e4/Gaeta%2C_Basilica_Cattedrale_-_Esterno.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Clemente of Bressanone
 honorific: Blessed
 summary: >-
@@ -20,6 +21,8 @@ vocation:
 religiousOrder: Franciscan
 martyr: false
 prayers: []
+imageAlt: Portrait of Blessed Clemente of Bressanone
+imageCreditUrl: https://en.wikipedia.org/wiki/Gaeta%20Cathedral
 ---
 
 Franciscan friar minor. Sent to the Pinerolo region to preach against Waldensianism, he brought many back to the faith.

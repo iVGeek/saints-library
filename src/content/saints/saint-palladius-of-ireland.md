@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/9/91/Nuremberg_chronicles_f_145v_4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Palladius of Ireland
 honorific: Saint
 summary: >-
@@ -30,6 +31,8 @@ patronage:
   - Scotland
 martyr: false
 prayers: []
+imageAlt: Portrait of Saint Palladius of Ireland
+imageCreditUrl: https://en.wikipedia.org/wiki/List%20of%20saints%20of%20Ireland
 ---
 
 Born to an ancient Gallo-Roman family. Deacon in Rome. Dispatched Saint Germanus of Auxerre to Britain in 429 to fight Pelagianism. Missionary bishop for Ireland in 431, sent by Pope Saint Celestine I. Consecrated bishop of the Scots in 431. Evangelized around Leinster where he built three churches, converted some people, and faced strong opposition. He decided that the Irish were not truly ready to receive message, and took his work to Scotland. Founded churches at Kelleen Cormac, Tigroney, and Donard. Began evangelizing the Picts, but died soon after. His story was written by Saint Prosper of Aquitaine.

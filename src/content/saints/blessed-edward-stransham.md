@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/3/33/Blessed-edward-james.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Edward Stransham
 honorific: Blessed
 summary: >-
@@ -21,6 +22,8 @@ vocation:
   - Confessor
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Edward Stransham
+imageCreditUrl: https://en.wikipedia.org/wiki/Edward%20James%20(martyr)
 ---
 
 Educated at Oxford, England, Douai and Rheims, France. Ordained in 1580. Returned to England in 1581 and covertly ministered to Catholics in London and Oxford. Arrested in 1586 and martyred for the crime of priesthood. Marytred with Blessed Thomas Reynolds

@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/d/d4/Sainte-Anne-d%27Auray_%28statue_Sainte_Anne_dans_le_parc%292.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Jean-Baptiste Malo
 honorific: Blessed
 summary: Member of the Paris Foreign Missions Society. Priest. Martyr.
@@ -19,6 +20,8 @@ vocation:
   - Cardinal
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Jean-Baptiste Malo
+imageCreditUrl: https://en.wikipedia.org/wiki/List%20of%20Breton%20saints
 ---
 
 Member of the Paris Foreign Missions Society. Priest. Martyr.

@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/0/0a/PmAlba01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Castino
 honorific: Blessed
 summary: >-
@@ -20,6 +21,8 @@ vocation:
 religiousOrder: Franciscan
 martyr: false
 prayers: []
+imageAlt: Portrait of Blessed Castino
+imageCreditUrl: https://en.wikipedia.org/wiki/Alba%2C%20Piedmont
 ---
 
 Franciscan friar and missionary. In the latter 13th century, he and Blessed Cesorio da Spira were sent by Saint Francis of Assisi to spread the Franciscan Order into Germany. Near Munich, he took over an old chapel dedicated to Saint James and used it as the base for his preaching in the region. He founded a convent near it for those who felt called to Franciscan life. When the Poor Clares arrived in the area, he turned it over to them for their work, and founded another convent for the friars.

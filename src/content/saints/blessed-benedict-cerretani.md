@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/5/5a/CerretoDiSpoletoPanoramaAndBorgo.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Benedict Cerretani
 honorific: Blessed
 summary: Vallombrosan abbot.
@@ -15,6 +16,8 @@ patronage:
   - Badia a Ripoli, Italy
 martyr: false
 prayers: []
+imageAlt: Portrait of Blessed Benedict Cerretani
+imageCreditUrl: https://en.wikipedia.org/wiki/Cerreto%20di%20Spoleto
 ---
 
 Vallombrosan abbot.

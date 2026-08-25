@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/2/28/Ana_de_Jes%C3%BAs2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Jerome of the Cross de Torres
 honorific: Blessed
 summary: >-
@@ -27,6 +28,8 @@ vocation:
 religiousOrder: Franciscan
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Jerome of the Cross de Torres
+imageCreditUrl: https://en.wikipedia.org/wiki/Ana%20de%20Jes%C3%BAs
 ---
 
 Educated at Arima, Japan. Franciscan tertiary. Ordained at Manila, Philippines. Parish priest in Japan from 1628. Arrested for his faith in 1631. Martyr.

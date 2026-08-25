@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/3/37/Calendar_of_saints.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Narcissus of Africa
 honorific: Saint
 summary: Martyred in Africa, date unknown.
@@ -12,6 +13,8 @@ vocation:
   - Monk
 martyr: true
 prayers: []
+imageAlt: Portrait of Saint Narcissus of Africa
+imageCreditUrl: https://en.wikipedia.org/wiki/Calendar%20of%20saints
 ---
 
 Martyred in Africa, date unknown.

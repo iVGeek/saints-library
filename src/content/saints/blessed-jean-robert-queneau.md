@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/4/4f/Frm_beatification_banner.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Jean-Robert Quéneau
 honorific: Blessed
 summary: Priest in the diocese of Angers, France. One of the Martyrs of September.
@@ -20,6 +21,8 @@ vocation:
 religiousOrder: Carmelite
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Jean-Robert Quéneau
+imageCreditUrl: https://en.wikipedia.org/wiki/Holy%20September%20Martyrs
 ---
 
 Priest in the diocese of Angers, France. One of the Martyrs of September.

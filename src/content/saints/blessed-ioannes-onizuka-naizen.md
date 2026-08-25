@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/4/48/Painting_of_the_Nagasaki_Martyrs.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Ioannes Onizuka Naizen
 honorific: Blessed
 summary: >-
@@ -23,6 +24,8 @@ vocation:
   - Priest
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Ioannes Onizuka Naizen
+imageCreditUrl: https://en.wikipedia.org/wiki/205%20Martyrs%20of%20Japan
 ---
 
 Wealthy layman. Married to Blessed Monica Naizen; father of Blessed Louis Naizen. Worked with Blessed Giovanni Battista Zola. Withstood personal persecution for his faith, but when the authorities threatened to force his wife into prostitution, he briefly renounced Christianity to save her. He later repented his back-sliding, and made a public pronouncement of his return to the Church. Martyr.

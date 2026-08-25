@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/6/60/Martyr_Saints_of_China.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Neon the Martyr
 honorific: Saint
 summary: Martyred in the persecutions of Valerian.
@@ -15,6 +16,8 @@ vocation:
   - Monk
 martyr: true
 prayers: []
+imageAlt: Portrait of Saint Neon the Martyr
+imageCreditUrl: https://en.wikipedia.org/wiki/Martyr%20Saints%20of%20China
 ---
 
 Martyred in the persecutions of Valerian.

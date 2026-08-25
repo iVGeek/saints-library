@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/f/fd/Cathedral_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Christopher Bales
 honorific: Blessed
 summary: >-
@@ -20,6 +21,8 @@ vocation:
   - Priest
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Christopher Bales
+imageCreditUrl: https://en.wikipedia.org/wiki/Palmarian%20Catholic%20Church
 ---
 
 Educated at Rome, Italy and Rheims, France. Ordained at Douai, France in 1587. Returned to England in 1588 to minister to covert Catholics, using the name Christopher Evers. Arrested and martyred for the crime of priesthood.

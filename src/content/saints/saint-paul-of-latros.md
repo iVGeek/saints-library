@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/b/b6/Bafa_Lake_Kapikiri.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Paul of Latros
 honorific: Saint
 summary: >-
@@ -24,6 +25,8 @@ vocation:
   - Soldier
 martyr: false
 prayers: []
+imageAlt: Portrait of Saint Paul of Latros
+imageCreditUrl: https://en.wikipedia.org/wiki/Be%C5%9Fparmak%20Mountains
 ---
 
 Son of a Byzantine army officer who died in battle. After his mother's death sometime later, he and his brother Basil became monks at the monastery on Mount Olympus, Greece. Paul later left to become a hermit on Mount Latros, Bithynia, Asia Minor. His reputation for holiness spread, and he began to attract followers and students, so many that he organized them into a community on Latros. After twelve years as their leader, Paul left to live as a hermit in a cave on the island of Samos. His reputation, however, followed him, and the cycle repeated – more students gathered, and  more communities were formed. Late in life Paul returned to Latros where he spent in remaining years in prayer and solitude.

@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/5/5f/Charles_Gounod_001.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Jacques Corbeau
 honorific: Blessed
 summary: >-
@@ -20,6 +21,8 @@ canonizationStatus: Blessed
 vocation: []
 martyr: false
 prayers: []
+imageAlt: Portrait of Blessed Jacques Corbeau
+imageCreditUrl: https://en.wikipedia.org/wiki/List%20of%20compositions%20by%20Charles%20Gounod
 ---
 
 Premonstratensian canon at the Saint-Augustin monastery in Thérouanne, Pas-de-Calais, Nord-Pas-de-Calais, France. Chosen abbot of the house in 1603, where he served for his remaining 39 years, noted for his humility as a leader and charity to the poor. Near the end of his life, he and his brothers were forced to flee the monastery when the city came under seige, and he effectively died in exile.

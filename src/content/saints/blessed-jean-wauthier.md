@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/9/9d/Martyrs_of_laos.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Jean Wauthier
 honorific: Blessed
 summary: Member of the Missionary Oblates of Mary Immaculate. Priest. Martyr.
@@ -20,6 +21,8 @@ vocation:
   - Missionary
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Jean Wauthier
+imageCreditUrl: https://en.wikipedia.org/wiki/Martyrs%20of%20Laos
 ---
 
 Member of the Missionary Oblates of Mary Immaculate. Priest. Martyr.

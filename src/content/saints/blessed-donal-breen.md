@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/1/15/Lucinda_Williams_%26_guitar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Donal Breen
 honorific: Blessed
 summary: Priest in the diocese of Ferns, Ireland. One of the Irish Martyrs.
@@ -17,6 +18,8 @@ vocation:
   - Monk
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Donal Breen
+imageCreditUrl: https://en.wikipedia.org/wiki/Lucinda%20Williams
 ---
 
 Priest in the diocese of Ferns, Ireland. One of the Irish Martyrs.

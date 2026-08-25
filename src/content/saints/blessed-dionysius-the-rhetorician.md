@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/e/ea/Saint_Augustine_by_Philippe_de_Champaigne.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Dionysius the Rhetorician
 honorific: Blessed
 summary: Monk at the Studion monastery in Constantinople. Spiritual student of Saint Metrophanes.
@@ -13,6 +14,8 @@ vocation:
   - Monk
 martyr: false
 prayers: []
+imageAlt: Portrait of Blessed Dionysius the Rhetorician
+imageCreditUrl: https://en.wikipedia.org/wiki/Augustine%20of%20Hippo
 ---
 
 Monk at the Studion monastery in Constantinople. Spiritual student of Saint Metrophanes.

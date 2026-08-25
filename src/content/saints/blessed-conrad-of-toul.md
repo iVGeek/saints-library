@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/2/2c/Fr_Moselle_Hesse_Eglise_abbatiale_gisant_Hugues_IV_de_Nordgau_detail.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Conrad of Toul
 honorific: Blessed
 summary: >-
@@ -26,6 +27,8 @@ vocation:
 religiousOrder: Franciscan
 martyr: false
 prayers: []
+imageAlt: Portrait of Blessed Conrad of Toul
+imageCreditUrl: https://en.wikipedia.org/wiki/Hugh%20IV%20of%20Nordgau
 ---
 
 Conrad joined the Franciscan Friars Minor in 1245. He became a friend and spiritual student of fellow Franciscan and future Pope Nicholas III for whom he took several missions. Chosen bishop of Toul, Lorraine (in modern France) on 4 October 1279 where he served for 16 years. His bishopric was a period of political strife, and he fought to defend the rights of the Church and diocese against the civil burghers and politicians. Conrad promoted devotion to Notre-Dame-on-pied-d'argent (Our Lady of the Silver Foot), an apparition miracle in which the the Blessed Virgin Mary warned a parishioner of an act of treachery planned against the city of Toul. He retired from his see in 1295 and spent his retirement as a prayerful Franciscan friar.

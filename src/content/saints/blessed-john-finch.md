@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/6/65/Blessed-john-finch.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed John Finch
 honorific: Blessed
 summary: >-
@@ -22,6 +23,8 @@ vocation:
   - Missionary
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed John Finch
+imageCreditUrl: https://en.wikipedia.org/wiki/John%20Finch%20(martyr)
 ---
 
 Yoeman farmer. Raised in a family with Catholic and Protestant members, he was able to closely observe each side; John became a strong and faithful Catholic. Married layman. His home became a center for covert missionary work, and he hid and harboured priests. Parish clerk and catechist.

@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/a/ab/Joseph_Alanen_-_The_Forging_of_the_Sampo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Peleus of Tyre
 honorific: Saint
 summary: Bishop in Egypt. Martyred in the persecutions of Diocletian.
@@ -17,6 +18,8 @@ vocation:
   - Monk
 martyr: true
 prayers: []
+imageAlt: Portrait of Saint Peleus of Tyre
+imageCreditUrl: https://en.wikipedia.org/wiki/List%20of%20mythological%20objects
 ---
 
 Bishop in Egypt. Martyred in the persecutions of Diocletian.

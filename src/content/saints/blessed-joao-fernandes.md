@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/4/48/Painting_of_the_Nagasaki_Martyrs.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed João Fernandes
 honorific: Blessed
 summary: Jesuit temporal-coadjutor missionary. Martyred by the Huguenot Jacques Sourie while en route to Brazil.
@@ -20,6 +21,8 @@ vocation:
 religiousOrder: Jesuit
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed João Fernandes
+imageCreditUrl: https://en.wikipedia.org/wiki/205%20Martyrs%20of%20Japan
 ---
 
 Jesuit temporal-coadjutor missionary. Martyred by the Huguenot Jacques Sourie while en route to Brazil.

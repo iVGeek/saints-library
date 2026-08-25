@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/6/6d/Margareta_Ebner_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Christina Ebner
 honorific: Blessed
 summary: >-
@@ -22,6 +23,8 @@ vocation:
 religiousOrder: Dominican
 martyr: false
 prayers: []
+imageAlt: Portrait of Blessed Christina Ebner
+imageCreditUrl: https://en.wikipedia.org/wiki/Margareta%20Ebner
 ---
 
 Daughter of Seyfried Ebner and Elizabeth Kuhdorf. Entered the Dominican monastery of Saint John the Baptist in Engeltal in the Burgraviate of Nuremberg (in modern Germany) at age twelve. Nun. Visionary. Wrote an account of her visions and spiritual journey. Prioress of her house.

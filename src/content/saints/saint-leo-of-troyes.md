@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/b/bb/TroyesCathedrale.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Leo of Troyes
 honorific: Saint
 summary: Monk. Spiritual student of Saint Romanus. Abbot of Mantenay Abbey near Troyes, France.
@@ -18,6 +19,8 @@ vocation:
   - Monk
 martyr: false
 prayers: []
+imageAlt: Portrait of Saint Leo of Troyes
+imageCreditUrl: https://en.wikipedia.org/wiki/Diocese%20of%20Troyes
 ---
 
 Monk. Spiritual student of Saint Romanus. Abbot of Mantenay Abbey near Troyes, France.

@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/8/86/StMaurice2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Lucius of Africa
 honorific: Saint
 deathYear: 300
@@ -13,4 +14,6 @@ vocation:
   - Monk
 martyr: false
 prayers: []
+imageAlt: Portrait of Saint Lucius of Africa
+imageCreditUrl: https://en.wikipedia.org/wiki/Saint%20Maurice
 ---

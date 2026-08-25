@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/c/ca/Saint_Jhn_2018_May.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Octavian of Africa
 honorific: Saint
 summary: Martyr. No other information has survived.
@@ -14,6 +15,8 @@ canonizationStatus: Saint
 vocation: []
 martyr: true
 prayers: []
+imageAlt: Portrait of Saint Octavian of Africa
+imageCreditUrl: https://en.wikipedia.org/wiki/Saint%20Jhn
 ---
 
 Martyr. No other information has survived.

@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/3/3a/Raban-Maur_Alcuin_Otgar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Detlev of Ratzeburg
 honorific: Blessed
 summary: >-
@@ -19,6 +20,8 @@ vocation:
   - Monk
 martyr: false
 prayers: []
+imageAlt: Portrait of Blessed Detlev of Ratzeburg
+imageCreditUrl: https://en.wikipedia.org/wiki/Rabanus%20Maurus
 ---
 
 Born to the nobility. Premonstratensian canon. Canon of the Premonstratensian monastery in Ratzeburg (in modern Germany). Bishop of Ratzeburg. Lived as a simple friar, but was known for his charity.

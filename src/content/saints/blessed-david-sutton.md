@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/d/db/Sant_Basil_The_Prayer.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed David Sutton
 honorific: Blessed
 summary: Layman in the archdiocese of Dublin, Ireland. One of the Irish Martyrs.
@@ -16,6 +17,8 @@ vocation:
   - Monk
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed David Sutton
+imageCreditUrl: https://en.wikipedia.org/wiki/Foolishness%20for%20Christ
 ---
 
 Layman in the archdiocese of Dublin, Ireland. One of the Irish Martyrs.

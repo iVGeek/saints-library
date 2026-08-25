@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/0/08/Josemaria_Escriva.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Antonio María Rodríguez Blanco
 honorific: Blessed
 summary: Priest in the diocese of Córdoba, Spain. Member of the Salesian Cooperators. Martyred in the Spanish Civil War.
@@ -19,6 +20,8 @@ vocation:
 religiousOrder: Salesian
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Antonio María Rodríguez Blanco
+imageCreditUrl: https://en.wikipedia.org/wiki/Josemar%C3%ADa%20Escriv%C3%A1
 ---
 
 Priest in the diocese of Córdoba, Spain. Member of the Salesian Cooperators. Martyred in the Spanish Civil War.

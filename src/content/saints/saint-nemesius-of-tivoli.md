@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/6/6a/Franciscan_church_Settecamini.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Nemesius of Tivoli
 honorific: Saint
 summary: Martyred in the persecutions of Hadrian.
@@ -14,6 +15,8 @@ vocation:
   - Priest
 martyr: true
 prayers: []
+imageAlt: Portrait of Saint Nemesius of Tivoli
+imageCreditUrl: https://en.wikipedia.org/wiki/Settecamini
 ---
 
 Martyred in the persecutions of Hadrian.

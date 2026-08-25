@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/f/fd/Cathedral_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Enrique María Gómez Jiménez
 honorific: Blessed
 summary: >-
@@ -21,6 +22,8 @@ vocation:
   - Missionary
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Enrique María Gómez Jiménez
+imageCreditUrl: https://en.wikipedia.org/wiki/Palmarian%20Catholic%20Church
 ---
 
 Baptized at the age of two days. After studying at the seminary of Saint Julian, he was ordained a priest in the diocese of Almería, Spain on 26 May 1888. Chaplain of the convent of San Clemente in 1890. Parish priest in Villar de Cantos, Spain. Bursar of the collegiate church of Belmonte. Canter at the cathedral of Almería. Missionary to Argentina in 1910 where he served for seven years. In 1933, his failing health confined him to the area of Cuenca, Spain. When the anti–Catholic militia in the Spanish Civil War came for him, they first tried to stage his death so it looked like a suicide; the 71 year old man fought so hard to avoid that scandal that the militiamen gave up and killed him outright. Martyr.

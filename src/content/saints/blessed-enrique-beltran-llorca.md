@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/e/ee/UST_at_Christmas2007.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Enrique Beltrán Llorca
 honorific: Blessed
 summary: >-
@@ -19,6 +20,8 @@ canonizationStatus: Blessed
 vocation: []
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Enrique Beltrán Llorca
+imageCreditUrl: https://en.wikipedia.org/wiki/Traditions%20of%20the%20University%20of%20Santo%20Tomas
 ---
 
 Joined the Hospitallers of Saint John of God on 7 December 1935. Martyred in the Spanish Civil War while still a novice. One of the Martyred Hospitallers of Spain.

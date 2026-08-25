@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/3/3d/The_King_Conrad_I_enthroned.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Conrad of Ottobeuren
 honorific: Blessed
 summary: >-
@@ -19,6 +20,8 @@ vocation:
 religiousOrder: Benedictine
 martyr: false
 prayers: []
+imageAlt: Portrait of Blessed Conrad of Ottobeuren
+imageCreditUrl: https://en.wikipedia.org/wiki/Conrad%20(name)
 ---
 
 Benedictine monk. Abbot of Ottobeuren Abbey in Allgäu, Germany from 1193 to 1217. Known for his care of his brother monks, of the local poor, and for rebuilding the monastery after a serious fire in 1217, a job so large that Conrad is often considered the second founder of the house.

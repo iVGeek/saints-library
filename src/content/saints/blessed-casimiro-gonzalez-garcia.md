@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/4/49/Saint_Patrick_Catholic_Church_%28Columbus%2C_Ohio%29_-_relics_of_16_Dominican_saints.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Casimiro González García
 honorific: Blessed
 summary: Monk. Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War.
@@ -21,6 +22,8 @@ vocation:
 religiousOrder: Marist
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Casimiro González García
+imageCreditUrl: https://en.wikipedia.org/wiki/List%20of%20Dominicans%20proposed%20for%20canonization
 ---
 
 Monk. Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War.

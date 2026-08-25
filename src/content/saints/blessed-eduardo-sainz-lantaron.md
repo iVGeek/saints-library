@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/4/49/Saint_Patrick_Catholic_Church_%28Columbus%2C_Ohio%29_-_relics_of_16_Dominican_saints.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Eduardo Sáinz Lantarón
 honorific: Blessed
 summary: >-
@@ -21,6 +22,8 @@ vocation:
 religiousOrder: Dominican
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Eduardo Sáinz Lantarón
+imageCreditUrl: https://en.wikipedia.org/wiki/List%20of%20Dominicans%20proposed%20for%20canonization
 ---
 
 Eduardo joined the Dominicans in 1924, making his solemn profession on 14 November 1927. Ordained a priest on 29 March 1931. Martyred in the Spanish Civil War.

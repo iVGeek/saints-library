@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/7/76/St._Parthenius.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Parthenius of Rome
 honorific: Saint
 summary: >-
@@ -21,6 +22,8 @@ vocation:
   - Monk
 martyr: true
 prayers: []
+imageAlt: Portrait of Saint Parthenius of Rome
+imageCreditUrl: https://en.wikipedia.org/wiki/Saint%20Parthenius
 ---
 
 Brother of Saint Calocerus. Eunuch in the palace of Tryphonia, wife of emperor Decius, in charge of Anatolia, daughter of Roman consul Aemilian. Charged by Decius with embezzlement of Anatolia's money, and with the capital crime of Christianity. Ignoring the financial accusations, the brothers defended the Faith. The court took their defense as an admission of their Christianity, and sentenced them to death. Martyr.

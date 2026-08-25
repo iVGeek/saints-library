@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/8/8b/Il_Gesu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Leoniano of Vienne
 honorific: Saint
 summary: >-
@@ -21,6 +22,8 @@ vocation:
   - Religious
 martyr: false
 prayers: []
+imageAlt: Portrait of Saint Leoniano of Vienne
+imageCreditUrl: https://en.wikipedia.org/wiki/List%20of%20Jesuit%20sites
 ---
 
 Captured by barbarians and dragged from Pannonia to Autun, France. When he achieved freedom, he became a monk then abbot there. Abbot in Vienne, France where he led a large group of monks and nuns for over 40 years.

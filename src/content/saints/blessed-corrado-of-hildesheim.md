@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/6/63/Max_Koch_Schlacht_bei_Hemmingstedt.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Corrado of Hildesheim
 honorific: Blessed
 summary: Franciscan friar in 13th century Prussia remembered for his virtuous life and as a miracle worker.
@@ -19,6 +20,8 @@ vocation: []
 religiousOrder: Franciscan
 martyr: false
 prayers: []
+imageAlt: Portrait of Blessed Corrado of Hildesheim
+imageCreditUrl: https://en.wikipedia.org/wiki/1500s%20(decade)
 ---
 
 Franciscan friar in 13th century Prussia remembered for his virtuous life and as a miracle worker.

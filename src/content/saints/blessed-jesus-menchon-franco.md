@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/0/08/Roma_martires_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Jesús Menchón Franco
 honorific: Blessed
 summary: Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War.
@@ -20,6 +21,8 @@ vocation: []
 religiousOrder: Marist
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Jesús Menchón Franco
+imageCreditUrl: https://en.wikipedia.org/wiki/498%20Spanish%20Martyrs
 ---
 
 Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War.

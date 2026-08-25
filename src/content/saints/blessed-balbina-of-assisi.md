@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/d/d2/Hans_Holbein%2C_the_Younger_-_Sir_Thomas_More_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Balbina of Assisi
 honorific: Blessed
 summary: >-
@@ -21,6 +22,8 @@ vocation:
 religiousOrder: Franciscan
 martyr: false
 prayers: []
+imageAlt: Portrait of Blessed Balbina of Assisi
+imageCreditUrl: https://en.wikipedia.org/wiki/Thomas%20More
 ---
 
 A spiritual student of Saint Clare of Assisi, Balbina became a Poor Clare nun at the monastery of San Damiano. Helped found the Poor Clare monastery at Spello, Italy.

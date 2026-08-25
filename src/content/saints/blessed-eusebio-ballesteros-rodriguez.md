@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/f/fe/Beatificaciotarragona2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Eusebio Ballesteros Rodríguez
 honorific: Blessed
 summary: Monk. Member of the Hospitallers of Saint John of God. Martyred in the Spanish Civil War.
@@ -20,6 +21,8 @@ vocation:
   - Monk
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Eusebio Ballesteros Rodríguez
+imageCreditUrl: https://en.wikipedia.org/wiki/522%20Spanish%20Martyrs
 ---
 
 Monk. Member of the Hospitallers of Saint John of God. Martyred in the Spanish Civil War.

@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/b/b9/All_saint.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Lucius of Adrianople
 honorific: Saint
 summary: >-
@@ -25,6 +26,8 @@ vocation:
   - Monk
 martyr: true
 prayers: []
+imageAlt: Portrait of Saint Lucius of Adrianople
+imageCreditUrl: https://en.wikipedia.org/wiki/List%20of%20Eastern%20Orthodox%20saints%20(H%E2%80%93M)
 ---
 
 Bishop of Adrianople. Spoke zealously against Arianism at the Council of Sardica in 343; the feelings against orthodox Catholics were so strong that the Arian emperor Constantius agreed that Lucius was under the protection of Pope Julius before the bishop could return home after the Council. However, he and many of his flock were later martyred by Arians.

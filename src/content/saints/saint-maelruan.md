@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/2/2b/Martyrology_of_Tallaght.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Maelruan
 honorific: Saint
 summary: >-
@@ -23,6 +24,8 @@ vocation:
   - Monk
 martyr: false
 prayers: []
+imageAlt: Portrait of Saint Maelruan
+imageCreditUrl: https://en.wikipedia.org/wiki/M%C3%A1el%20Ruain
 ---
 
 Founder and first Abbot of Tamalcht Abbey, County of Dublin, Ireland in 769 on land given by Donnchadh, King of Leinster. With Saint Aengus the Culdee he wrote the Rule of C&eacute;lidh&eacute; D&eacute;, “a minute series of rules for the regulation of the lives of the C&eacute;lidh&eacute; D&eacute;, their prayers, their preachings, their conversations, their confessions, their communions, their ablutions, their fastings, their abstinences, their relaxations, their sleep, their celebrations of the Mass, and so forth”.

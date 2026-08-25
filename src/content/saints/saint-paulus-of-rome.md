@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/0/03/Vatican_City_%28St._Peter_Square%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Paulus of Rome
 honorific: Saint
 summary: Martyr.
@@ -15,6 +16,8 @@ vocation:
   - Monk
 martyr: true
 prayers: []
+imageAlt: Portrait of Saint Paulus of Rome
+imageCreditUrl: https://en.wikipedia.org/wiki/St.%20Peter's%20Basilica
 ---
 
 Martyr.

@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/f/fe/Beatificaciotarragona2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Jacinto Gutiérrez Terciado
 honorific: Blessed
 summary: Franciscan Capuchin monk. Martyred in the Spanish Civil War.
@@ -21,6 +22,8 @@ vocation:
 religiousOrder: Franciscan
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Jacinto Gutiérrez Terciado
+imageCreditUrl: https://en.wikipedia.org/wiki/522%20Spanish%20Martyrs
 ---
 
 Franciscan Capuchin monk. Martyred in the Spanish Civil War.

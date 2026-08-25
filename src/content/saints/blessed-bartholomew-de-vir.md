@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/f/f0/UK-2014-Oxford-Oriel_College_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Bartholomew de Vir
 honorific: Blessed
 summary: >-
@@ -21,6 +22,8 @@ vocation:
   - Monk
 martyr: false
 prayers: []
+imageAlt: Portrait of Blessed Bartholomew de Vir
+imageCreditUrl: https://en.wikipedia.org/wiki/Oriel%20College%2C%20Oxford
 ---
 
 Bishop of Laon, France from 1113 to 1151. Helped Saint Norbert of Xanten with the founding of the Premonstratensians. Built the Cistercian abbey at Foigny, France in 1121; late in life he retired from his bishopric to spend his remaining years as a prayerful monk.

@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/4/42/Altar_of_the_church_of_Libyan_Martyrs_in_Minya.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Libya of Palmyra
 honorific: Saint
 summary: Sister of Saint Leonides of Palmyra. Martyred in the persecutions of Diocletian.
@@ -18,6 +19,8 @@ vocation:
   - Religious
 martyr: true
 prayers: []
+imageAlt: Portrait of Saint Libya of Palmyra
+imageCreditUrl: https://en.wikipedia.org/wiki/21%20Coptic%20Christian%20Martyrs%20of%20Libya
 ---
 
 Sister of Saint Leonides of Palmyra. Martyred in the persecutions of Diocletian.

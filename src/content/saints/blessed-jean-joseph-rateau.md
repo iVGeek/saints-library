@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/4/4f/Frm_beatification_banner.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Jean-Joseph Rateau
 honorific: Blessed
 summary: >-
@@ -24,6 +25,8 @@ vocation:
   - Priest
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Jean-Joseph Rateau
+imageCreditUrl: https://en.wikipedia.org/wiki/Holy%20September%20Martyrs
 ---
 
 Jean-Joseph studied at the San Sulpizio seminary. He was ordained a priest in the archdiocese of Paris, France in 1788, and earned a doctorate in theology at the Sorbonne. In August 1792 he was imprisoned by forces of the French Revolution for his continued loyalty to the Vatican. One of the Martyrs of September.

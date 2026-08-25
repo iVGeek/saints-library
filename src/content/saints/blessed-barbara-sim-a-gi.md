@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/5/53/1899._Tzarevich_Dmitry_by_M._Nesterov.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Barbara Sim A-gi
 honorific: Blessed
 summary: >-
@@ -19,6 +20,8 @@ canonizationStatus: Blessed
 vocation: []
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Barbara Sim A-gi
+imageCreditUrl: https://en.wikipedia.org/wiki/List%20of%20child%20saints
 ---
 
 Lay woman who was brought to the faith by her brother, Sim Nak-hun. Barbara consecrated herself to God without joining a religious order. Martyred in the Shinyu Persecution.

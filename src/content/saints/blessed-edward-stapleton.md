@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/8/86/Martyrs_of_ireland.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Edward Stapleton
 honorific: Blessed
 summary: Priest in the diocese of Cashel, Ireland. One of the Irish Martyrs.
@@ -17,6 +18,8 @@ vocation:
   - Monk
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Edward Stapleton
+imageCreditUrl: https://en.wikipedia.org/wiki/Irish%20Catholic%20Martyrs
 ---
 
 Priest in the diocese of Cashel, Ireland. One of the Irish Martyrs.

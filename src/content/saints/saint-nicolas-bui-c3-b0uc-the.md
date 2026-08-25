@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/f/ff/Gheorghe_Tattarescu_-_Sfantul_Nicolae.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Nicolas Bùi Ðuc The
 honorific: Venerable
 summary: Lifelong layman in the apostolic vicariate of East Tonkin. One of the Martyrs of Vietnam.
@@ -19,6 +20,8 @@ canonizationStatus: Venerable
 vocation: []
 martyr: true
 prayers: []
+imageAlt: Portrait of Saint Nicolas Bùi Ðuc The
+imageCreditUrl: https://en.wikipedia.org/wiki/Nicholas
 ---
 
 Lifelong layman in the apostolic vicariate of East Tonkin. One of the Martyrs of Vietnam.

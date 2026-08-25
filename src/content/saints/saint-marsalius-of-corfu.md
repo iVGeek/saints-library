@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/1/19/Agios_Iason_Hosios_Loukas.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Marsalius of Corfu
 honorific: Saint
 summary: >-
@@ -15,6 +16,8 @@ vocation:
   - Monk
 martyr: true
 prayers: []
+imageAlt: Portrait of Saint Marsalius of Corfu
+imageCreditUrl: https://en.wikipedia.org/wiki/Jason%20of%20Thessalonica
 ---
 
 A criminal, he was converted by Saint Jason and Saint Sosipater while in prison with them. Killed for his new faith, he is one of the Martyrs of Corfu.

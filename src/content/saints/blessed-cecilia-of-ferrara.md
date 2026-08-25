@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/e/e9/Sant%27Andrea_della_Valle_%28Rome%29_-_Fa%C3%A7ade.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Cecilia of Ferrara
 honorific: Blessed
 summary: >-
@@ -21,6 +22,8 @@ vocation:
 religiousOrder: Dominican
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Cecilia of Ferrara
+imageCreditUrl: https://en.wikipedia.org/wiki/Sant'Andrea%20della%20Valle
 ---
 
 Married to a very pious young man, each was devoted to the Church and spiritual growth. After eight years together they each entered religious life, joining the Dominicans, Cecilia at the monastery of Saint Catherine the Martyr in Ferrara, Italy where she was known for her personal piety, ascetic life, and devotion to the Dominican life. Chosen prioress three times.

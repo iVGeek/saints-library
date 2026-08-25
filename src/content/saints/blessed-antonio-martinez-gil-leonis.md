@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/3/33/Philip_Fruytiers_-_St._Francis_of_Assisi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Antonio Martínez Gil-Leonis
 honorific: Blessed
 summary: Novice in the Hospitallers of Saint John of God. Martyred in the Spanish Civil War.
@@ -17,6 +18,8 @@ canonizationStatus: Blessed
 vocation: []
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Antonio Martínez Gil-Leonis
+imageCreditUrl: https://en.wikipedia.org/wiki/Francis%20of%20Assisi
 ---
 
 Novice in the Hospitallers of Saint John of God. Martyred in the Spanish Civil War.

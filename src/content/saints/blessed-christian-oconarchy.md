@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/9/91/Nuremberg_chronicles_f_145v_4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Christian O'Conarchy
 honorific: Blessed
 summary: >-
@@ -26,6 +27,8 @@ vocation:
   - Deacon
 martyr: false
 prayers: []
+imageAlt: Portrait of Blessed Christian O'Conarchy
+imageCreditUrl: https://en.wikipedia.org/wiki/List%20of%20saints%20of%20Ireland
 ---
 
 Spritual student and archdeacon of Saint Malachy O'More at Armagh, Ireland. Received the Cistercian habit at Clairvaux, France in 1139 from Saint Bernard of Clairvaux. Abbot of the first Cistercian monastery in Ireland in 1142. Bishop of Lismore, Ireland in 1150. Papal legate for Ireland. In old age he retired to live as a prayerful monk at Odorney Abbey.

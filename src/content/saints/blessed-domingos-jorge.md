@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/4/48/Painting_of_the_Nagasaki_Martyrs.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Domingos Jorge
 honorific: Blessed
 summary: >-
@@ -22,6 +23,8 @@ vocation:
   - Missionary
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Domingos Jorge
+imageCreditUrl: https://en.wikipedia.org/wiki/205%20Martyrs%20of%20Japan
 ---
 
 Soldier. Immigrant to Japan. Layman. Member of the Confraternity of the Rosary. Arrested for hiding the Christian missionary Blessed John Spinola during a persecution of the faith. Martyr.

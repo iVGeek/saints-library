@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/b/bc/F%C3%A0bric_Carbonell_i_Reverter.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Joan Puig Serra
 honorific: Blessed
 summary: Vincentian priest. Martyred in the Spanish Civil War.
@@ -19,6 +20,8 @@ vocation:
   - Cardinal
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Joan Puig Serra
+imageCreditUrl: https://en.wikipedia.org/wiki/Canet%20de%20Mar
 ---
 
 Vincentian priest. Martyred in the Spanish Civil War.

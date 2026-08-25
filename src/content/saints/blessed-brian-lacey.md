@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/9/9c/ADAMELLO_-_PAPA_-_Giovanni_Paolo_II_-_panoramio_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Brian Lacey
 honorific: Blessed
 summary: >-
@@ -20,6 +21,8 @@ vocation:
   - Priest
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Brian Lacey
+imageCreditUrl: https://en.wikipedia.org/wiki/Pope%20John%20Paul%20II
 ---
 
 Yorkshire country gentleman. Cousin, companion and assistant to Venerable Father Montford Scott Arrested in 1586 for helping and hiding priests. Arrested again in 1591 when his own brother Richard betrayed him, Brian was tortured at Bridewell prison to learn the names of more people who had helped priests. Finally arraigned down the Old Bailey, he was condemed to death for his faith, for aiding priests and encouraging Catholics. Martyr.

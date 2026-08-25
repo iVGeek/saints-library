@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/5/51/Fachada_Museo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Bartolomé Carrillo Fernández
 honorific: Blessed
 summary: Priest of the diocese of Córdoba, Spain, serving in the Baena community. Martyred in the Spanish Civil War.
@@ -19,6 +20,8 @@ vocation:
   - Cardinal
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Bartolomé Carrillo Fernández
+imageCreditUrl: https://en.wikipedia.org/wiki/Museum%20of%20Fine%20Arts%20of%20Seville
 ---
 
 Priest of the diocese of Córdoba, Spain, serving in the Baena community. Martyred in the Spanish Civil War.

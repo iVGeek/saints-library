@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/d/d3/St-stephen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Nereus of North Africa
 honorific: Saint
 summary: One of a group of 365 Christians who were martyred together in the persecutions of the Vandal king Genseric.
@@ -14,6 +15,8 @@ vocation:
   - Monk
 martyr: true
 prayers: []
+imageAlt: Portrait of Saint Nereus of North Africa
+imageCreditUrl: https://en.wikipedia.org/wiki/Saint%20Stephen
 ---
 
 One of a group of 365 Christians who were martyred together in the persecutions of the Vandal king Genseric.

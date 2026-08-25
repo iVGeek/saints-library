@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/a/a8/TrinitaPontificale.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed John Gogniat
 honorific: Blessed
 summary: >-
@@ -21,6 +22,8 @@ vocation:
   - Monk
 martyr: false
 prayers: []
+imageAlt: Portrait of Blessed John Gogniat
+imageCreditUrl: https://en.wikipedia.org/wiki/List%20of%20communities%20celebrating%20the%20Traditional%20Latin%20Mass
 ---
 
 Premonstratensian monk. Canon of the Bellelay monastery in the Jura Bernois area of Bern, Switzerland. Abbot of the house in 1530; he served for 23 years, defending his house and his faith during a period when Calvinists displacing Catholic clergy and institutions.

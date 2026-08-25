@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/4/4f/Frm_beatification_banner.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Jean-François Burté
 honorific: Blessed
 summary: Franciscan Conventuals priest. Teacher. One of the Martyrs of September.
@@ -19,6 +20,8 @@ vocation:
 religiousOrder: Franciscan
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Jean-François Burté
+imageCreditUrl: https://en.wikipedia.org/wiki/Holy%20September%20Martyrs
 ---
 
 Franciscan Conventuals priest. Teacher. One of the Martyrs of September.

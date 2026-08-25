@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/b/b5/Acropolium.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Paul of Carthage
 honorific: Saint
 summary: Bishop in North Africa. Attended the Council of Carthage in 259. Martyred in the persecutions of Decius.
@@ -15,6 +16,8 @@ vocation:
   - Bishop
 martyr: true
 prayers: []
+imageAlt: Portrait of Saint Paul of Carthage
+imageCreditUrl: https://en.wikipedia.org/wiki/Acropolium%20of%20Carthage
 ---
 
 Bishop in North Africa. Attended the Council of Carthage in 259. Martyred in the persecutions of Decius.

@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/e/e4/CathBSlow.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed James Murphy
 honorific: Blessed
 summary: Priest in the diocese of Ferns, Ireland. One of the Irish Martyrs.
@@ -17,6 +18,8 @@ vocation:
   - Monk
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed James Murphy
+imageCreditUrl: https://en.wikipedia.org/wiki/Cathedral%20of%20the%20Blessed%20Sacrament%20(Sacramento%2C%20California)
 ---
 
 Priest in the diocese of Ferns, Ireland. One of the Irish Martyrs.

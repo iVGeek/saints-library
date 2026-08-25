@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/c/ca/JuandePalafoxyMendoza.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Gregorio Escobar García
 honorific: Blessed
 summary: Professed priest in the Missionary Oblates of Mary Immaculate. Martyred in the Spanish Civil War.
@@ -19,6 +20,8 @@ vocation:
   - Missionary
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Gregorio Escobar García
+imageCreditUrl: https://en.wikipedia.org/wiki/Juan%20de%20Palafox%20y%20Mendoza
 ---
 
 Professed priest in the Missionary Oblates of Mary Immaculate. Martyred in the Spanish Civil War.

@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/d/d6/Mother_Teresa_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Edward Burden
 honorific: Blessed
 summary: >-
@@ -21,6 +22,8 @@ vocation:
   - Monk
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Edward Burden
+imageCreditUrl: https://en.wikipedia.org/wiki/Mother%20Teresa
 ---
 
 Seminarian in Rheims, France. Priest in the apostolic vicariate of England. Martyred in the persecutions of Queen Elizabeth I.

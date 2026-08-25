@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/f/f3/Tintagel_church_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed John Hewett
 honorific: Blessed
 summary: >-
@@ -24,6 +25,8 @@ vocation:
   - Priest
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed John Hewett
+imageCreditUrl: https://en.wikipedia.org/wiki/St%20Materiana's%20Church%2C%20Tintagel
 ---
 
 Son of a draper. Educated at Caius College, Cambridge. Studied for the priesthood at Rheims, France. Ordained in 1586. Returned to England, as a covert priest using the names Weldon and Savell to hide his identity while working with his flock. Arrested at Grey's Inn Lane, London, on 10 March 1587 for the crime of priesthood. Martyr.

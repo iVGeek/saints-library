@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/5/53/Milano_sancristoforo_facciata.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Cristoforo of Milan
 honorific: Blessed
 summary: >-
@@ -22,6 +23,8 @@ vocation: []
 religiousOrder: Franciscan
 martyr: false
 prayers: []
+imageAlt: Portrait of Blessed Cristoforo of Milan
+imageCreditUrl: https://en.wikipedia.org/wiki/San%20Cristoforo%20sul%20Naviglio
 ---
 
 Franciscan friar who lived for 40 years in the convent at Ciudad Rodrigo, Salamanca, Spain, known to his brothers and local people for his piety and severe penances.

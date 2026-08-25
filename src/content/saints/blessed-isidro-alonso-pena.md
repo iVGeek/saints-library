@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/0/08/Roma_martires_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Isidro Alonso Peña
 honorific: Blessed
 summary: Lay brother in the Vincentian Congregation of the Mission. Martyred in the Spanish Civil War.
@@ -19,6 +20,8 @@ vocation:
 religiousOrder: Lazarist
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Isidro Alonso Peña
+imageCreditUrl: https://en.wikipedia.org/wiki/498%20Spanish%20Martyrs
 ---
 
 Lay brother in the Vincentian Congregation of the Mission. Martyred in the Spanish Civil War.

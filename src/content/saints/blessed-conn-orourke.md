@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/9/91/Nuremberg_chronicles_f_145v_4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Conn O'Rourke
 honorific: Blessed
 summary: >-
@@ -26,6 +27,8 @@ vocation:
 religiousOrder: Franciscan
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Conn O'Rourke
+imageCreditUrl: https://en.wikipedia.org/wiki/List%20of%20saints%20of%20Ireland
 ---
 
 Franciscan Friar Minor Observant and priest, based at the monastery of Breifine. Arrested in the persecutions of Queen Elizabeth I and ordered to swear loyalty to Elizabeth as head of the Church; he refused. Martyr.

@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/a/ab/Stefan_Lochner%2C_Die_Apostelmartyrien_left.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Conrad of Heisterbach
 honorific: Blessed
 summary: >-
@@ -21,6 +22,8 @@ vocation:
   - Soldier
 martyr: false
 prayers: []
+imageAlt: Portrait of Blessed Conrad of Heisterbach
+imageCreditUrl: https://en.wikipedia.org/wiki/Stefan%20Lochner
 ---
 
 Soldier. Ministered to the margraves of Thuringia until he was about 50 years old. He then became a Cistercian lay brother at Heisterbach Abbey near Oberdollendorf in North Rhine-Westphalia (in modern Germany). Records from the time indicate that he once receive a vision of Jesus Crucified, and a message approving of his choice of life.

@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/3/38/SaintDominic.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Benno of Metz
 honorific: Blessed
 summary: >-
@@ -24,6 +25,8 @@ vocation:
 religiousOrder: Benedictine
 martyr: false
 prayers: []
+imageAlt: Portrait of Blessed Benno of Metz
+imageCreditUrl: https://en.wikipedia.org/wiki/Dominic%20de%20Guzm%C3%A1n
 ---
 
 Born to the nobility. Canon in Strasbourg, France. Hermit on Mount Etzel in Switzerland in 906, living in the former hermitage of Saint Meinrad. Benno's reputation for holiness spread, spiritual students gathered around him, and in 924 he founded the Benedictine monastery of Einsiedeln for them. Bishop of Metz, France in 927. Because he was chosen over a local favourite, and because he worked to reform the diocese, he made enemies; in 929 he was attacked and blinded. Soon after, he retired and returned to Einsiedeln Abbey where he lived the rest of his days as a prayerful monk.

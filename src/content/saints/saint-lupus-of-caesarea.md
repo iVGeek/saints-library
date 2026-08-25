@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/en/3/35/Vgeant26.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Lupus of Caesarea
 honorific: Saint
 summary: Martyr.
@@ -16,6 +17,8 @@ vocation:
   - Monk
 martyr: true
 prayers: []
+imageAlt: Portrait of Saint Lupus of Caesarea
+imageCreditUrl: https://en.wikipedia.org/wiki/Honoratus
 ---
 
 Martyr.

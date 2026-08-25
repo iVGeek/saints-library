@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/4/4f/Frm_beatification_banner.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Jacques Friteyre-Durvé
 honorific: Blessed
 summary: >-
@@ -22,6 +23,8 @@ vocation:
 religiousOrder: Jesuit
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Jacques Friteyre-Durvé
+imageCreditUrl: https://en.wikipedia.org/wiki/Holy%20September%20Martyrs
 ---
 
 Educated by the Jesuits at Boillons, France. Entered the Jesuit novitiate in Toulouse, France in 1742. Priest. Taught literature and philosophy at several schools. Noted preacher. When the persecution of the Church began in the French Revolution, Father Jacques disguised himself as a peddler, which allowed him to minister to covert Catholics in their homes. Discovered in his secret ministry, he was arrested and ordered to swear the oath of allegiance to the schismatic civil constitution of the Revolution; he refused. One of the Martyrs of September.

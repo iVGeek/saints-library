@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/0/08/Roma_martires_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Eliseo Maneus Besalduch
 honorific: Blessed
 summary: Professed priest in the Carmelites of the Ancient Observance. Martyred in the Spanish Civil War.
@@ -21,6 +22,8 @@ vocation:
 religiousOrder: Carmelite
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Eliseo Maneus Besalduch
+imageCreditUrl: https://en.wikipedia.org/wiki/498%20Spanish%20Martyrs
 ---
 
 Professed priest in the Carmelites of the Ancient Observance. Martyred in the Spanish Civil War.

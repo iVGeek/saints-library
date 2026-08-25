@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/e/ec/FrancescoCoA_PioM.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Jean-Baptiste Triquerie
 honorific: Blessed
 summary: Franciscan Conventual priest. Martyred in the French Revolution.
@@ -20,6 +21,8 @@ vocation:
 religiousOrder: Franciscan
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Jean-Baptiste Triquerie
+imageCreditUrl: https://en.wikipedia.org/wiki/Order%20of%20Friars%20Minor%20Conventual
 ---
 
 Franciscan Conventual priest. Martyred in the French Revolution.

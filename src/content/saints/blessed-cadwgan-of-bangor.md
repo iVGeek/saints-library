@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/8/83/Arms_of_Llywelyn.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Cadwgan of Bangor
 honorific: Blessed
 summary: >-
@@ -27,6 +28,8 @@ vocation:
 religiousOrder: Benedictine
 martyr: false
 prayers: []
+imageAlt: Portrait of Blessed Cadwgan of Bangor
+imageCreditUrl: https://en.wikipedia.org/wiki/Kingdom%20of%20Gwynedd
 ---
 
 Benedictine Cistercian monk. Abbot of Whitland monastery in Wales in the early 13th century. Chosen bishop of Bangor, Gwynedd (in modern Wales) on 12 June 1215. He served for over 20 years, abdicating on 1 March 1236 to retire to life as a Cistercian monk in the Dore monastery in Herefordshire, England. A pious and learned man, Cadwgan wrote a the Speculum Christianorum, and compiled a book of homilies.

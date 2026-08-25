@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/5/53/1899._Tzarevich_Dmitry_by_M._Nesterov.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Joan Maria Alsina Ferrer
 honorific: Blessed
 summary: >-
@@ -22,6 +23,8 @@ vocation:
   - Cardinal
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Joan Maria Alsina Ferrer
+imageCreditUrl: https://en.wikipedia.org/wiki/List%20of%20child%20saints
 ---
 
 Member of the Claretians, professed on 8 December 1900. Ordained a priest on 22 December 1907. Martyred in the Spanish Civil War.

@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/f/fe/Beatificaciotarragona2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Angelo Reguilón Lobato
 honorific: Blessed
 summary: Member of the Carmelites of the Ancient Observance. Martyred in the Spanish Civil War.
@@ -20,6 +21,8 @@ vocation: []
 religiousOrder: Carmelite
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Angelo Reguilón Lobato
+imageCreditUrl: https://en.wikipedia.org/wiki/522%20Spanish%20Martyrs
 ---
 
 Member of the Carmelites of the Ancient Observance. Martyred in the Spanish Civil War.

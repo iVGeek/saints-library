@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/9/97/St_Michael_the_Archangel%2C_Findlay%2C_OH_-_bread_and_wine_crop_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed John Felton
 honorific: Blessed
 summary: ' When Pope Saint P Wealthy layman in Southwark, England. Father of Blessed Thomas Felton. His wife had been a playmate and maid of honour to Queen Elizabeth, and was the widow of an auditor of the former Queen. John was referred to as “a man of little statue and complexion black”.'
@@ -18,6 +19,8 @@ vocation:
   - Priest
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed John Felton
+imageCreditUrl: https://en.wikipedia.org/wiki/Eucharist
 ---
 
 Wealthy layman in Southwark, England. Father of Blessed Thomas Felton. His wife had been a playmate and maid of honour to Queen Elizabeth, and was the widow of an auditor of the former Queen. John was referred to as “a man of little statue and complexion black”.

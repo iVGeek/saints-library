@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/5/53/1899._Tzarevich_Dmitry_by_M._Nesterov.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Candidus “Bozu”
 honorific: Blessed
 summary: Child in the diocese of Niigata, Japan. Brother-in-law of Blessed Alexis Choemon. Martyr.
@@ -18,6 +19,8 @@ vocation:
   - Cardinal
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Candidus “Bozu”
+imageCreditUrl: https://en.wikipedia.org/wiki/List%20of%20child%20saints
 ---
 
 Child in the diocese of Niigata, Japan. Brother-in-law of Blessed Alexis Choemon. Martyr.

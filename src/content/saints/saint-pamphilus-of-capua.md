@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/7/78/Cattedrale_di_Capua%2C_Presbiterio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Pamphilus of Capua
 honorific: Saint
 summary: Bishop of Capua, Italy.
@@ -16,6 +17,8 @@ vocation:
   - Monk
 martyr: false
 prayers: []
+imageAlt: Portrait of Saint Pamphilus of Capua
+imageCreditUrl: https://en.wikipedia.org/wiki/Archdiocese%20of%20Capua
 ---
 
 Bishop of Capua, Italy.

@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/6/65/Don_Bosco_%40_Torino%2C_1880_%28original%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Giovanni of Genoa
 honorific: Blessed
 summary: >-
@@ -17,6 +18,8 @@ vocation:
   - Monk
 martyr: false
 prayers: []
+imageAlt: Portrait of Blessed Giovanni of Genoa
+imageCreditUrl: https://en.wikipedia.org/wiki/John%20Bosco
 ---
 
 Camaldolese monk. Abbot of the Cistercian monastery of Sant'Andrea near Sestri, Italy in 1110. Abbot of the Camaldolese monastery of San Stefano in Genoa, Italy in 1129; he served there for his remaining 37 years.

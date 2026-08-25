@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/d/d4/Catedral_Santa_Ana.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Antonio Pérez Vacas
 honorific: Blessed
 summary: Priest of the diocese of Córdoba, Spain, serving in the Pedro Abad community. Martyred in the Spanish Civil War.
@@ -19,6 +20,8 @@ vocation:
   - Cardinal
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Antonio Pérez Vacas
+imageCreditUrl: https://en.wikipedia.org/wiki/Diocese%20of%20Canarias
 ---
 
 Priest of the diocese of Córdoba, Spain, serving in the Pedro Abad community. Martyred in the Spanish Civil War.

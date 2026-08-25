@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/b/b3/Francisco_de_Zurbar%C3%A1n_-_Sto_Antonio_de_Padua.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Antonio of Saint Bonaventure
 honorific: Blessed
 summary: >-
@@ -24,6 +25,8 @@ vocation:
 religiousOrder: Franciscan
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Antonio of Saint Bonaventure
+imageCreditUrl: https://en.wikipedia.org/wiki/Anthony%20of%20Padua
 ---
 
 Franciscan Alcantarine missionary priest to Japan. He worked for ten years before his arrest, ministering to the faithful, hiding from the authorities. Martyr.

@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/9/9c/Jos%C3%A9_Mar%C3%ADa_Caro_Mart%C3%ADnez_-_improved.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Ceferino Fernández Martínez
 honorific: Blessed
 summary: >-
@@ -24,6 +25,8 @@ vocation:
 religiousOrder: Dominican
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Ceferino Fernández Martínez
+imageCreditUrl: https://en.wikipedia.org/wiki/Jos%C3%A9%20Mar%C3%ADa%20Caro%20Mart%C3%ADnez
 ---
 
 Ceferino began studying at the Colegio de Almagro in 1908, and later that year joined the Dominicans, taking the name Brother Luís María. Missionary friar to Cuba, and then Mexico, and was then assigned to Almería, Spain. On 22 July 1936, at the outbreak of the Spanish Civil War, he fled the anti–Catholic Communist milita but was found on 27 July and imprisoned on the Astoy Mendi prison ship for several weeks, and then executed. Martyr.

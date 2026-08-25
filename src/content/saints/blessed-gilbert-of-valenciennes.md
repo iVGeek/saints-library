@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/5/59/Cambrai_Cath%C3%A9drale_21_11_09_08.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Gilbert of Valenciennes
 honorific: Blessed
 summary: >-
@@ -17,6 +18,8 @@ vocation:
 religiousOrder: Benedictine
 martyr: false
 prayers: []
+imageAlt: Portrait of Blessed Gilbert of Valenciennes
+imageCreditUrl: https://en.wikipedia.org/wiki/Archdiocese%20of%20Cambrai
 ---
 
 Benedictine monk at Saint-Crespin-en-Chaie, Soissons, France. Abbot at the monastery of Saint John the Baptist Abbey at Valenciennes, France. Persecuted by the Count of Hainault (in modern Belgium).

@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/9/99/Fr.Maximilian_Kolbe_in_1936.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Leontius of Saintes
 honorific: Saint
 title: Bishop
@@ -15,6 +16,8 @@ vocation:
   - Bishop
 martyr: false
 prayers: []
+imageAlt: Portrait of Saint Leontius of Saintes
+imageCreditUrl: https://en.wikipedia.org/wiki/Maximilian%20Kolbe
 ---
 
 Bishop of Saintes, France. Friend of Saint Malo, whom he sheltered in exile.

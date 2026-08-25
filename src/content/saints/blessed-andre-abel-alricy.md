@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/4/4f/Frm_beatification_banner.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed André-Abel Alricy
 honorific: Blessed
 summary: >-
@@ -20,6 +21,8 @@ vocation:
   - Priest
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed André-Abel Alricy
+imageCreditUrl: https://en.wikipedia.org/wiki/Holy%20September%20Martyrs
 ---
 
 Priest in the archdiocese of Paris, France. Arrested and murdered in the persecutions of the French Revolution for refusing to take the oath of allegiance to the civil constitution. One of the Martyrs of September.

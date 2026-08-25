@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/a/ab/Trier_Sankt_Paulin_BW_12.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Palmatius of Trier
 honorific: Saint
 summary: Martyred with a group of Christians in the persecutions of Maximian Herculeus.
@@ -15,6 +16,8 @@ vocation:
   - Monk
 martyr: true
 prayers: []
+imageAlt: Portrait of Saint Palmatius of Trier
+imageCreditUrl: https://en.wikipedia.org/wiki/Palmatius
 ---
 
 Martyred with a group of Christians in the persecutions of Maximian Herculeus.

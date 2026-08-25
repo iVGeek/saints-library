@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/3/30/PaniquiChurchjf5479_07.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Consuelo Aguiar-Mella Díaz
 honorific: Blessed
 summary: Lay woman in the archdiocese of Madrid, Spain. Martyred in the Spanish Civil War.
@@ -17,6 +18,8 @@ canonizationStatus: Blessed
 vocation: []
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Consuelo Aguiar-Mella Díaz
+imageCreditUrl: https://en.wikipedia.org/wiki/List%20of%20South%20American%20Catholic%20saints
 ---
 
 Lay woman in the archdiocese of Madrid, Spain. Martyred in the Spanish Civil War.

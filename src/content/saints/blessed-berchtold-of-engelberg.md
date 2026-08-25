@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/e/ea/Bern-BerchtoldVZahring.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Berchtold of Engelberg
 honorific: Blessed
 summary: >-
@@ -21,6 +22,8 @@ vocation:
 religiousOrder: Benedictine
 martyr: false
 prayers: []
+imageAlt: Portrait of Blessed Berchtold of Engelberg
+imageCreditUrl: https://en.wikipedia.org/wiki/Berchtoldstag
 ---
 
 Benedictine monk at Engelberg, Switzerland. Spiritual student of Blessed Frowin, and succeeded him as abbot at Engelberg on 27 March 1178. Noted for his encouragement of scholarship, piety and monastic discipline among his brothers, and for his own study of the Bible and the early Church Fathers. Known as a miracle worker, he foretold the death of Emperor Frederick Barbarossa. When he blessed a lake near Stanzstad, Switzerland, it became stocked with fish. He is recorded to have changed water into wine three times.

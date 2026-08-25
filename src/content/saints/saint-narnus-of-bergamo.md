@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/b/bf/CCeresa_SanNarno.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Narnus of Bergamo
 honorific: Saint
 summary: First bishop of Bergamo, Italy.
@@ -18,6 +19,8 @@ vocation:
   - Monk
 martyr: false
 prayers: []
+imageAlt: Portrait of Saint Narnus of Bergamo
+imageCreditUrl: https://en.wikipedia.org/wiki/Narnus
 ---
 
 First bishop of Bergamo, Italy.

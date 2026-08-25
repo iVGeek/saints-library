@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/f/f3/Anchorites_Skipton.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Wulfric of Haselbury
 honorific: Saint
 summary: >-
@@ -28,6 +29,8 @@ vocation:
   - Hermit
 martyr: false
 prayers: []
+imageAlt: Portrait of Saint Wulfric of Haselbury
+imageCreditUrl: https://en.wikipedia.org/wiki/Anchorite
 ---
 
 Though a priest, Wulfric led a worldly life, interested more in hunting and parties with local nobles that in tending to his flock. For unspecified reasons he suddenly realized the error of his ways and repented. Some say it was due to a chance encounter with a beggar; others that he was suddenly moved by reciting the Lavabo verse: “I will wash my hands among the innocent.” Determined to change his life, he retired to live as a hermit near Hazelbury, Somerset, England. He received the gift of prophecy. Counselor to King Henry I and King Stephen. Copied and bound books, and crafted items for use in the Mass. Some orders have tried to claim that Wulfric was a member, but he never joined any.

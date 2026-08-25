@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/3/32/Dionisii_alek.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Leontius of Alexandria
 honorific: Saint
 summary: Brother of Saint Sarapion of Alexandria. Martyred in the persecutions of Diocletian.
@@ -15,6 +16,8 @@ vocation:
   - Monk
 martyr: true
 prayers: []
+imageAlt: Portrait of Saint Leontius of Alexandria
+imageCreditUrl: https://en.wikipedia.org/wiki/Dionysius%20of%20Alexandria
 ---
 
 Brother of Saint Sarapion of Alexandria. Martyred in the persecutions of Diocletian.

@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/c/cf/Guidobaldo_da_Montefeltro_-_Raphael.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Leo of Montefeltro
 honorific: Saint
 summary: >-
@@ -21,6 +22,8 @@ vocation:
   - Hermit
 martyr: false
 prayers: []
+imageAlt: Portrait of Saint Leo of Montefeltro
+imageCreditUrl: https://en.wikipedia.org/wiki/Guidobaldo%20da%20Montefeltro
 ---
 
 In 257 Leo began work as a stone mason to support himself in Rimini, Italy while working with Saint Marinus to evangelize the residents of the city. To escape the persecutions of Diocletian, the two fled to hide for three years on Mount Titano, the highest point in the modern country of San Marino. Their piety drew would-be students, and Leo moved to Mount Feliciano (or Mount Feretrio) where he built a hermit's cell and chapel; Christians would covertly gather to celebrate their faith. His work established the Christian enclave that would later become the diocese of Montefeltro, Italy, and he is considered its spiritual father and first bishop, though he was never ordained.

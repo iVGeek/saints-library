@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/9/9c/ADAMELLO_-_PAPA_-_Giovanni_Paolo_II_-_panoramio_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed John Robinson
 honorific: Blessed
 summary: >-
@@ -21,6 +22,8 @@ vocation:
   - Priest
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed John Robinson
+imageCreditUrl: https://en.wikipedia.org/wiki/Pope%20John%20Paul%20II
 ---
 
 Married layman, his son Francis became a priest. When he became a widower, John studied for the priesthood himself at Reims, France; ordained in 1585 when he was in his 50's. He then returned to England to serve his old neighbours during the persecutions of Queen Elizabeth I. John was arrested in Lowestoft, imprisoned in London for two years, and then executed for the crime of priesthood. Martyr.

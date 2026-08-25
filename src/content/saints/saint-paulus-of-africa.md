@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/d/d3/St-stephen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Paulus of Africa
 honorific: Saint
 summary: Martyr.
@@ -13,6 +14,8 @@ vocation:
   - Monk
 martyr: true
 prayers: []
+imageAlt: Portrait of Saint Paulus of Africa
+imageCreditUrl: https://en.wikipedia.org/wiki/Saint%20Stephen
 ---
 
 Martyr.

@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/d/d8/Martyrs_of_Damascus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Basilissa Fernandez
 honorific: Blessed
 summary: >-
@@ -21,6 +22,8 @@ vocation:
   - Religious
 martyr: false
 prayers: []
+imageAlt: Portrait of Blessed Basilissa Fernandez
+imageCreditUrl: https://en.wikipedia.org/wiki/Martyrs%20of%20Damascus
 ---
 
 Premonstratensian nun at the monastery of Santa Sofia Toro in Zamora, Spain, making her vows on 13 October 1867. Secretary to her abbess, she maintained the correspondence with all other Premonstratensian houses. wrote several articles and pamphlets to support the work of Messe Réparatrice and the Sodality of Saint Peter Claver. Known for her dedication to Eucharistic Adoration.

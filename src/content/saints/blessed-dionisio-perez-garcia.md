@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/8/8c/Tumba_de_San_Pedro_de_Jesus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Dionisio Pérez García
 honorific: Blessed
 summary: >-
@@ -23,6 +24,8 @@ vocation:
 religiousOrder: Dominican
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Dionisio Pérez García
+imageCreditUrl: https://en.wikipedia.org/wiki/Saints%20of%20the%20Cristero%20War
 ---
 
 Dionesio joined the Dominicans in Almagro, Spain on 30 September 1930 and made his solemn vows as a cooperator brother on 25 May 1933. He lived for two years in Cordoba, Spain, but returned with Almagro with a desire to become a missionary. However, his brothers and his house became a target for the anti–Christian forces of the Spanish Civil War, and just a few weeks into the conflict, he was killed for his faith. Martyr.

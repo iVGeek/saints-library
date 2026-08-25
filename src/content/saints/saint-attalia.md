@@ -23,6 +23,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/2/29/Jheronimus_Bosch_-_Saint_Christopher_-_Google_Art_ProjectFXD_%28Cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Attalia
 imageCreditUrl: https://en.wikipedia.org/wiki/Saint%20Christopher
+prayers: []
 ---
 
 Niece of Saint Odilia of Alsace. Benedictine nun. Abbess of Saint Stephen's Convent, Strasbourg, France.

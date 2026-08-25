@@ -29,6 +29,7 @@ patronage:
   - Viseu, Portugal, city of
   - Viseu, Portugal, diocese of
 martyr: false
+prayers: []
 ---
 
 Nephew of the bishop of Coimbra, Portugal. Educated at the University of Coimbra. Parish priest, assigned to Viseu, Portugal. His powerful and outspoken preaching against vice gained him a great reputation, the animosity of the ruling class, and the affection of the king and queen. Counselor to the throne. Rebuked the queen for adultery, and refused a bishopric from her, seeing it as an attempt to buy his affection. He was once asked by the queen to shorten a Mass so she could attend to other business; he send back word that he answered to true sovereigns, and the queen was free to stay or go as she liked.

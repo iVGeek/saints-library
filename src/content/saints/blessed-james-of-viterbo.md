@@ -26,6 +26,7 @@ vocation:
   - Hermit
 religiousOrder: Augustinian
 martyr: false
+prayers: []
 ---
 
 Augustinian hermit at Viterbo, Italy . Received his doctorate from the University of Paris. Well-known theology teacher in Paris, France and Naples, Italy. Bishop of Benevento, Italy in 1302. Archbishop of Naples, Italy in 1303.

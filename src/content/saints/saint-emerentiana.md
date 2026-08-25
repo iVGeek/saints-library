@@ -28,6 +28,7 @@ patronage:
   - against colic
   - against stomach ache
 martyr: true
+prayers: []
 ---
 
 Foster-sister of Saint Agnes of Rome. Catechumen. While on her way to pray at Saint Agnes's grave a few days after her sister's martyrdom, she was confronted by an angry mob of pagans. Emerentiana professed her Christianity and her relationship to Agnes. Martyr.

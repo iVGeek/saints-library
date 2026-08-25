@@ -18,6 +18,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/7/78/Cattedrale_di_Capua%2C_Presbiterio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Agostino of Capua
 imageCreditUrl: https://en.wikipedia.org/wiki/Archdiocese%20of%20Capua
+prayers: []
 ---
 
 Martyred in the persecutions of Decius.

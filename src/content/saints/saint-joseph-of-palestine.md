@@ -1,11 +1,14 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Joseph of Palestine"
+name: Saint Joseph of Palestine
 honorific: Saint
-summary: "Jewish layman who was attached to the biblical school of Tiberius, and served as assistant to the famous Rabbi Hillel. Secretly a Christian believer, Hillel was baptized on his death bed, and entrusted his holy books to Joseph. As head of the synagogue in Tarsus, his congregation"
+summary: >-
+  Jewish layman who was attached to the biblical school of Tiberius, and served as assistant to the famous Rabbi Hillel.
+  Secretly a Christian believer, Hillel was baptized on his death bed, and entrusted his holy books to Joseph. As head
+  of the synagogue in Tarsus, his congregation
 deathYear: 356
-died: "c.356 of natural causes at Palestine"
-region: "Holy Land"
+died: c.356 of natural causes at Palestine
+region: Holy Land
 feastDay:
   month: 7
   day: 22
@@ -14,9 +17,10 @@ vocation:
   - Priest
   - Monk
 patronage:
-  - "converts"
-  - "guardians"
+  - converts
+  - guardians
 martyr: false
+prayers: []
 ---
 
 Jewish layman who was attached to the biblical school of Tiberius, and served as assistant to the famous Rabbi Hillel. Secretly a Christian believer, Hillel was baptized on his death bed, and entrusted his holy books to Joseph. As head of the synagogue in Tarsus, his congregation caught Joseph reading the gospels; they beat him and threw him in the Cydnus River. He then publicly converted.

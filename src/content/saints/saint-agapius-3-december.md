@@ -16,6 +16,7 @@ imageCredit: >-
   <a rel="nofollow" class="external free"
   href="http://antiochian.org/assets/writer/St.BassaMartyrAndHerSons_CB90/clip_image001.jpg">http://antiochian.org/assets/writer/St.BassaMartyrAndHerSons_CB90/clip_image001.jpg</a>
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:St.%20Bassa%20and%20her%20Sons.jpg
+prayers: []
 ---
 
 Martyr. No other information has survived.

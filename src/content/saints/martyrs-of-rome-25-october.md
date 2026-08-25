@@ -18,6 +18,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/f/f6/Nuremberg_chronicles_-_Felicitas_with_her_Seven_Sons_%28CXIIIIr%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Martyrs of Rome
 imageCreditUrl: https://en.wikipedia.org/wiki/Felicitas%20of%20Rome
+prayers: []
 ---
 
 A group of 46 soldiers and 21 civilians martyred together in the persecutions of Claudius II.

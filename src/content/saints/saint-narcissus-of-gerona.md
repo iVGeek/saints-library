@@ -1,17 +1,20 @@
 ---
-name: "Saint Narcissus of Gerona"
+name: Saint Narcissus of Gerona
 honorific: Saint
-summary: "Born to he nobility. Priest, preacher and bishop of Gerona, Spain in the early 4th century. During the persecutions of Diocletian he fled to modern Augsburg, Germany with his deacon, Saint Felix of Gerona. There they befriended Saint Afra of Augsburg. Returning to Gerona, he and"
-image: "http://catholicsaints.info/wp-content/uploads/Narcissus-of-Gerona.jpg"
+summary: >-
+  Born to he nobility. Priest, preacher and bishop of Gerona, Spain in the early 4th century. During the persecutions of
+  Diocletian he fled to modern Augsburg, Germany with his deacon, Saint Felix of Gerona. There they befriended Saint
+  Afra of Augsburg. Returning to Gerona, he and
+image: http://catholicsaints.info/wp-content/uploads/Narcissus-of-Gerona.jpg
 searchAliases:
-  - "Narcissus of Ausburg"
-  - "Narcissus of Girona"
-  - "Narciso of…"
-  - "Narcis of…"
+  - Narcissus of Ausburg
+  - Narcissus of Girona
+  - Narciso of…
+  - Narcis of…
 deathYear: 307
-died: "c.307 at Gerona, Catalonia, Spain"
-deathPlace: "Catalonia, Spain"
-region: "Germany"
+died: c.307 at Gerona, Catalonia, Spain
+deathPlace: Catalonia, Spain
+region: Germany
 feastDay:
   month: 10
   day: 29
@@ -21,13 +24,14 @@ vocation:
   - Priest
   - Deacon
 patronage:
-  - "against mosquitoes"
-  - "against stinging flies"
-  - "–"
-  - "Augsburg, Germany"
-  - "Gerona, Spain"
-  - "Valencia, Spain"
+  - against mosquitoes
+  - against stinging flies
+  - –
+  - Augsburg, Germany
+  - Gerona, Spain
+  - Valencia, Spain
 martyr: true
+prayers: []
 ---
 
 Born to he nobility. Priest, preacher and bishop of Gerona, Spain in the early 4th century. During the persecutions of Diocletian he fled to modern Augsburg, Germany with his deacon, Saint Felix of Gerona. There they befriended Saint Afra of Augsburg. Returning to Gerona, he and Felix were arrested and martyred.

@@ -19,6 +19,7 @@ vocation:
 patronage:
   - Genoa, Italy
 martyr: false
+prayers: []
 ---
 
 Parish priest. Spiritual student of Saint Felix of Genoa. Bishop of Genoa, Italy.

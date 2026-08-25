@@ -1,15 +1,15 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Nunctus of Mérida"
+name: Saint Nunctus of Mérida
 honorific: Saint
-summary: "Monk. Abbot of a monastery near Mérida, Spain. Murdered by robbers of his house. Martyr."
+summary: Monk. Abbot of a monastery near Mérida, Spain. Murdered by robbers of his house. Martyr.
 searchAliases:
-  - "Nancto"
-  - "Noint"
-  - "Nuncto"
+  - Nancto
+  - Noint
+  - Nuncto
 deathYear: 668
-died: "668"
-region: "Spain"
+died: '668'
+region: Spain
 feastDay:
   month: 10
   day: 22
@@ -18,6 +18,7 @@ vocation:
   - Monk
   - Religious
 martyr: true
+prayers: []
 ---
 
 Monk. Abbot of a monastery near Mérida, Spain. Murdered by robbers of his house. Martyr.

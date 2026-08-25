@@ -1,24 +1,27 @@
 ---
-name: "Saint Agatha Yi So-Sa"
+name: Saint Agatha Yi So-Sa
 honorific: Venerable
-summary: "Sister of Saint Petrus Yi Ho-yong. Married lay woman in the apostolic vicariate of Korea. One of the Martyrs of Korea."
-image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Korea.jpg"
+summary: Sister of Saint Petrus Yi Ho-yong. Married lay woman in the apostolic vicariate of Korea. One of the Martyrs of Korea.
+image: http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Korea.jpg
 searchAliases:
-  - "Agata Yi So-Sa"
+  - Agata Yi So-Sa
 birthYear: 1784
 deathYear: 1839
-born: "1784 in Icheon, Gyeonggi-do, South Korea"
-died: "beheaded on 24 May 1839 at the Small West Gate, Seoul, South Korea"
-birthPlace: "Gyeonggi-do, South Korea"
-deathPlace: "Seoul, South Korea"
-region: "Korea"
+born: 1784 in Icheon, Gyeonggi-do, South Korea
+died: beheaded on 24 May 1839 at the Small West Gate, Seoul, South Korea
+birthPlace: Gyeonggi-do, South Korea
+deathPlace: Seoul, South Korea
+region: Korea
 feastDay:
   month: 5
   day: 24
-centuries: [18, 19]
+centuries:
+  - 18
+  - 19
 canonizationStatus: Venerable
 vocation: []
 martyr: true
+prayers: []
 ---
 
 Sister of Saint Petrus Yi Ho-yong. Married lay woman in the apostolic vicariate of Korea. One of the Martyrs of Korea.

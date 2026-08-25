@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Virginio"
+name: Saint Virginio
 honorific: Saint
-summary: "Soldier. Imperial Roman legionaire. Martyr."
-died: "buried in the cemetery of Saint Priscilla in Rome, Italy"
-deathPlace: "Italy"
-region: "Italy"
+summary: Soldier. Imperial Roman legionaire. Martyr.
+died: buried in the cemetery of Saint Priscilla in Rome, Italy
+deathPlace: Italy
+region: Italy
 feastDay:
   month: 4
   day: 22
@@ -15,8 +15,9 @@ vocation:
   - Monk
   - Soldier
 patronage:
-  - "Cherasco, Italy"
+  - Cherasco, Italy
 martyr: true
+prayers: []
 ---
 
 Soldier. Imperial Roman legionaire. Martyr.

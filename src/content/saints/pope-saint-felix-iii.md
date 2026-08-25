@@ -20,6 +20,7 @@ vocation:
   - Monk
 religiousOrder: Franciscan
 martyr: false
+prayers: []
 ---
 
 Born to a Roman senatorial family. Great-grandfather of Pope Saint Gregory the Great. Married, father, and widower. Priest. Nothing else is known of his early life. Elected 48th pope.

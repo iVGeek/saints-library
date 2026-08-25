@@ -1,12 +1,12 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Serapion of Alexandria"
+name: Saint Serapion of Alexandria
 honorific: Saint
-summary: "Tortured and martyred in the persecutions of Decius for permitting Christian worship in his home."
+summary: Tortured and martyred in the persecutions of Decius for permitting Christian worship in his home.
 deathYear: 248
-died: "thrown out of an upper story window of his house c.248 in Alexandria, Egypt"
-deathPlace: "Egypt"
-region: "Italy"
+died: thrown out of an upper story window of his house c.248 in Alexandria, Egypt
+deathPlace: Egypt
+region: Italy
 feastDay:
   month: 2
   day: 20
@@ -14,6 +14,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Tortured and martyred in the persecutions of Decius for permitting Christian worship in his home.

@@ -1,15 +1,15 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Eusebio de Las Heras Izquierdo"
+name: Blessed Eusebio de Las Heras Izquierdo
 honorific: Blessed
-summary: "Member of the Claretians. Martyred in the Spanish Civil War."
+summary: Member of the Claretians. Martyred in the Spanish Civil War.
 birthYear: 1913
 deathYear: 1936
-born: "16 December 1913 in Gumiel del Mercado, Burgos, Spain"
-died: "19 October 1936 in Mas Claret, Sant Pere dels Arquells, Lleida, Spain"
-birthPlace: "Burgos, Spain"
-deathPlace: "Sant Pere dels Arquells, Lleida, Spain"
-region: "Spain"
+born: 16 December 1913 in Gumiel del Mercado, Burgos, Spain
+died: 19 October 1936 in Mas Claret, Sant Pere dels Arquells, Lleida, Spain
+birthPlace: Burgos, Spain
+deathPlace: Sant Pere dels Arquells, Lleida, Spain
+region: Spain
 feastDay:
   month: 10
   day: 19
@@ -18,6 +18,7 @@ vocation:
   - Bishop
   - Cardinal
 martyr: true
+prayers: []
 ---
 
 Member of the Claretians. Martyred in the Spanish Civil War.

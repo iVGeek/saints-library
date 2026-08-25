@@ -1,15 +1,18 @@
 ---
-name: "Saint Cyril of Turov"
+name: Saint Cyril of Turov
 honorific: Saint
-summary: "Born wealthy. Fluent in Greek and Russian, he read heavily in all sacred works, and was later known as a Bible scholar. When he was grown, he renounced his inheritance, and became a monk in the Turov Borisoglebsk monastery. Preached discipline and obedience to his brother monks."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Cyril-of-Turov.jpg"
+summary: >-
+  Born wealthy. Fluent in Greek and Russian, he read heavily in all sacred works, and was later known as a Bible
+  scholar. When he was grown, he renounced his inheritance, and became a monk in the Turov Borisoglebsk monastery.
+  Preached discipline and obedience to his brother monks.
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Cyril-of-Turov.jpg
 searchAliases:
-  - "Kirill of Turov"
+  - Kirill of Turov
 birthYear: 1130
 deathYear: 1182
-born: "c.1130"
-died: "28 April 1182 of natural causes"
-region: "England"
+born: c.1130
+died: 28 April 1182 of natural causes
+region: England
 feastDay:
   month: 4
   day: 28
@@ -20,6 +23,7 @@ vocation:
   - Monk
   - Hermit
 martyr: false
+prayers: []
 ---
 
 Born wealthy. Fluent in Greek and Russian, he read heavily in all sacred works, and was later known as a Bible scholar. When he was grown, he renounced his inheritance, and became a monk in the Turov Borisoglebsk monastery. Preached discipline and obedience to his brother monks. Cyril wrote about the monastic life, and some of his works have survived the centuries.

@@ -1,30 +1,36 @@
 ---
-name: "Saint Nazaria Ignacia March y Mesa"
+name: Saint Nazaria Ignacia March y Mesa
 honorific: Venerable
-summary: "Fourth of eighteen children born to José Alejandro March y Reus, a merchant, fisherman and industrial worker, and Nazaria Mesa Ramos; Nazaira had a twin sister, Ignazia, and ten brothers who survived infancy. She and her sister were baptized on the day they were born, Nazaria mad"
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Nazaria-Ignacia-March-Mesa.jpg"
+summary: >-
+  Fourth of eighteen children born to José Alejandro March y Reus, a merchant, fisherman and industrial worker, and
+  Nazaria Mesa Ramos; Nazaira had a twin sister, Ignazia, and ten brothers who survived infancy. She and her sister were
+  baptized on the day they were born, Nazaria mad
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Nazaria-Ignacia-March-Mesa.jpg
 searchAliases:
-  - "Nazaire de Sainte-Thérèse March Mesa"
-  - "Nazaria Ignacia de Santa Teresa de Jesus"
+  - Nazaire de Sainte-Thérèse March Mesa
+  - Nazaria Ignacia de Santa Teresa de Jesus
 birthYear: 1889
 deathYear: 1943
-born: "10 January 1889 at Arcos de Santa María Nº 41 (Augusto Figueroa), Madrid, Spain"
-died: "6 July 1943 in the Rivadavia Hospital, Buenos Aires, Argentina of complications from pneumonia and tuberculosis"
-birthPlace: "Madrid, Spain"
-deathPlace: "Buenos Aires, Argentinacomplications from pneumonia and tuberculosis"
-region: "Mexico"
+born: 10 January 1889 at Arcos de Santa María Nº 41 (Augusto Figueroa), Madrid, Spain
+died: 6 July 1943 in the Rivadavia Hospital, Buenos Aires, Argentina of complications from pneumonia and tuberculosis
+birthPlace: Madrid, Spain
+deathPlace: Buenos Aires, Argentinacomplications from pneumonia and tuberculosis
+region: Mexico
 feastDay:
   month: 7
   day: 6
-centuries: [19, 20]
+centuries:
+  - 19
+  - 20
 canonizationStatus: Venerable
 vocation:
   - Priest
   - Missionary
-religiousOrder: "Jesuit"
+religiousOrder: Jesuit
 patronage:
-  - "Missionary Crusaders of the Church"
+  - Missionary Crusaders of the Church
 martyr: false
+prayers: []
 ---
 
 Fourth of eighteen children born to José Alejandro March y Reus, a merchant, fisherman and industrial worker, and Nazaria Mesa Ramos; Nazaira had a twin sister, Ignazia, and ten brothers who survived infancy. She and her sister were baptized on the day they were born, Nazaria made her First Communion on 21 November 1898 and made a personal vow of consecration to God. Unlike many children who are drawn to religious life at an early age, her family was indifferent to the faith, and grew so tired of her of her devotions that they once “grounded” her from going to Mass. By the time she was confirmed on 15 March 1902, which was celebrated by Blessed Marcelo Spínola y Maestre, her family had grown used to her piety, and allowed her to join the Franciscan Third Order and more actively practice her faith. She succeeded in getting several of them to return to the Church.

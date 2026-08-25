@@ -1,9 +1,9 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Maximus of Padua"
+name: Saint Maximus of Padua
 honorific: Saint
-summary: "Second century Bishop of Padua, Italy. Known as a miracle worker."
-region: "Italy"
+summary: Second century Bishop of Padua, Italy. Known as a miracle worker.
+region: Italy
 feastDay:
   month: 8
   day: 2
@@ -12,6 +12,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Second century Bishop of Padua, Italy. Known as a miracle worker.

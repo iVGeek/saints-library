@@ -19,6 +19,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 He was the 27th pope, but very little is known about him. Legend says he buried 324 martyrs with his own hands, but he reigned in a quiet period of no state persecution, so this is questionable. Another legend credits him with developing the blessings of fields and crops, but this came later. Some documents call him a martyr, but there are no contemporary records to back it up.

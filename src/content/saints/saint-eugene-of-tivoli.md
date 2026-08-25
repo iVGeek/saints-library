@@ -16,6 +16,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/5/52/Cons%C3%A9cration_par_EUg%C3%A8ne_III_%28Cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Eugene of Tivoli
 imageCreditUrl: https://en.wikipedia.org/wiki/Pope%20Eugene%20III
+prayers: []
 ---
 
 Martyred in the persecutions of Hadrian.

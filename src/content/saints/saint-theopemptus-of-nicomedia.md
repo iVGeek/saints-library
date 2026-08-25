@@ -19,6 +19,7 @@ canonizationStatus: Saint
 vocation:
   - Bishop
 martyr: true
+prayers: []
 ---
 
 Bishop of Nicomedia, Bithynia (in modern Turkey). Converted Saint Theonas. Martyred in the persecutions of Diocletian.

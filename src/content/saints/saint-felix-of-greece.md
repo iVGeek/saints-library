@@ -13,6 +13,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/d/d1/Saint_nedelja_%28kyriaki%29_bulgaria_icon.gif?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Felix of Greece
 imageCreditUrl: https://en.wikipedia.org/wiki/Saint%20Kyriaki
+prayers: []
 ---
 
 Martyr. No other information has survived.

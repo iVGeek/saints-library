@@ -19,6 +19,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/b/be/Chiesa_di_Santa_Maria_Maggiore_%28Ferentino%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Ambrose of Ferentino
 imageCreditUrl: https://en.wikipedia.org/wiki/Ferentino%20Cathedral
+prayers: []
 ---
 
 Fourth-century cavalry centurian in the imperial Roman army. Tortured and executed for his faith in the persecutions of Diocletian.

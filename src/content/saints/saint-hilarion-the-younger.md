@@ -1,13 +1,15 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Hilarion the Younger"
+name: Saint Hilarion the Younger
 honorific: Saint
-summary: "Priest. Monk. Archimandrite of the monastery of Dalmazio. For defending the use of icons and other images, he was imprisoned, whipped and exiled."
+summary: >-
+  Priest. Monk. Archimandrite of the monastery of Dalmazio. For defending the use of icons and other images, he was
+  imprisoned, whipped and exiled.
 searchAliases:
-  - "Ilarione"
+  - Ilarione
 deathYear: 845
-died: "845"
-region: "Italy"
+died: '845'
+region: Italy
 feastDay:
   month: 1
   day: 1
@@ -16,6 +18,7 @@ vocation:
   - Priest
   - Monk
 martyr: false
+prayers: []
 ---
 
 Priest. Monk. Archimandrite of the monastery of Dalmazio. For defending the use of icons and other images, he was imprisoned, whipped and exiled.

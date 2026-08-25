@@ -1,26 +1,26 @@
 ---
-name: "Saint Nino of Georgia"
+name: Saint Nino of Georgia
 honorific: Saint
-summary: " She cured a dying child by placi Slave. Not originally from Georgia, she may have been brought there by her master when he emigrated, she may have been the spoils of war, or she may have fled her own war-racked homeland and become enslaved after her move to more peaceful Georgia."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Nino-of-Georgia.jpg"
+summary: ' She cured a dying child by placi Slave. Not originally from Georgia, she may have been brought there by her master when he emigrated, she may have been the spoils of war, or she may have fled her own war-racked homeland and become enslaved after her move to more peaceful Georgia.'
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Nino-of-Georgia.jpg
 searchAliases:
-  - "Apostle of Georgia"
-  - "Chrétienne"
-  - "Christiana"
-  - "Enlightener"
-  - "Nano"
-  - "Nina"
-  - "Ninny"
-  - "Nino"
-  - "Nune"
-  - "Nuneh"
-  - "Nunia"
+  - Apostle of Georgia
+  - Chrétienne
+  - Christiana
+  - Enlightener
+  - Nano
+  - Nina
+  - Ninny
+  - Nino
+  - Nune
+  - Nuneh
+  - Nunia
 deathYear: 320
-born: "various sources place this as Cappadocia (most sources), Rome, Jerusalem, or Gaul (modern France)"
-died: "c.320 at Bodbe Monastery, Kakheti, Georgia of natural causes"
-birthPlace: "Rome, Jerusalem, or Gaul (modern France)"
-deathPlace: "Kakheti, Georgianatural causes"
-region: "Italy"
+born: various sources place this as Cappadocia (most sources), Rome, Jerusalem, or Gaul (modern France)
+died: c.320 at Bodbe Monastery, Kakheti, Georgia of natural causes
+birthPlace: Rome, Jerusalem, or Gaul (modern France)
+deathPlace: Kakheti, Georgianatural causes
+region: Italy
 feastDay:
   month: 1
   day: 14
@@ -31,13 +31,14 @@ vocation:
   - Religious
   - Hermit
 patronage:
-  - "Congregation of the Sisters of Saint Christiana"
-  - "–"
-  - "Georgia"
-  - "Azov region of Russia"
-  - "Caspian region of Russia"
-  - "Caucasus region of Russia"
+  - Congregation of the Sisters of Saint Christiana
+  - –
+  - Georgia
+  - Azov region of Russia
+  - Caspian region of Russia
+  - Caucasus region of Russia
 martyr: false
+prayers: []
 ---
 
 Slave. Not originally from Georgia, she may have been brought there by her master when he emigrated, she may have been the spoils of war, or she may have fled her own war-racked homeland and become enslaved after her move to more peaceful Georgia.

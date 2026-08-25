@@ -1,12 +1,12 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Ennatha of Caesarea"
+name: Saint Ennatha of Caesarea
 honorific: Saint
-summary: "Young Christian woman who was scourged and martyred in the persecutions of Diocletian and Galerius."
+summary: Young Christian woman who was scourged and martyred in the persecutions of Diocletian and Galerius.
 deathYear: 297
-died: "burned alive in 297 at Caesarea, Palestine"
-deathPlace: "Palestine"
-region: "Germany"
+died: burned alive in 297 at Caesarea, Palestine
+deathPlace: Palestine
+region: Germany
 feastDay:
   month: 11
   day: 13
@@ -14,6 +14,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Young Christian woman who was scourged and martyred in the persecutions of Diocletian and Galerius.

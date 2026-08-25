@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Demetrius of Veroli"
+name: Saint Demetrius of Veroli
 honorific: Saint
-summary: "Martyr."
-died: "at Veroli, Italy"
-deathPlace: "Italy"
-region: "Italy"
+summary: Martyr.
+died: at Veroli, Italy
+deathPlace: Italy
+region: Italy
 feastDay:
   month: 11
   day: 29
@@ -14,6 +14,7 @@ vocation:
   - Bishop
   - Monk
 martyr: true
+prayers: []
 ---
 
 Martyr.

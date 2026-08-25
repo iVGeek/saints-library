@@ -1,13 +1,15 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Antiochus of Lyons"
+name: Saint Antiochus of Lyons
 honorific: Saint
-summary: "When Saint Justus of Lyon left France to become a hermit in Egypt, Father Antiochus was sent to talk him into coming back. He failed. When he returned home, Antiochus was chosen as the new bishop of Lyons."
+summary: >-
+  When Saint Justus of Lyon left France to become a hermit in Egypt, Father Antiochus was sent to talk him into coming
+  back. He failed. When he returned home, Antiochus was chosen as the new bishop of Lyons.
 searchAliases:
-  - "Andeol"
-  - "Antioco"
-died: "5th century"
-region: "France"
+  - Andeol
+  - Antioco
+died: 5th century
+region: France
 feastDay:
   month: 8
   day: 13
@@ -18,6 +20,7 @@ vocation:
   - Monk
   - Hermit
 martyr: false
+prayers: []
 ---
 
 When Saint Justus of Lyon left France to become a hermit in Egypt, Father Antiochus was sent to talk him into coming back. He failed. When he returned home, Antiochus was chosen as the new bishop of Lyons.

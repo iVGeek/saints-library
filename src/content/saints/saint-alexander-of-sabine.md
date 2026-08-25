@@ -16,6 +16,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/d/d2/Stockholms_stads_tredje_sigill.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Alexander of Sabine
 imageCreditUrl: https://en.wikipedia.org/wiki/Saint%20Erik
+prayers: []
 ---
 
 Martyr.

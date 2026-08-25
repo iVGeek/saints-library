@@ -1,12 +1,12 @@
 ---
-name: "Saint Secundian of Civitavecchia"
+name: Saint Secundian of Civitavecchia
 honorific: Saint
-summary: "Prominent imperial Roman official. Martyred in the persecutions of Decius."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saints-Secundian-Marcellian-and-Verian.jpg"
+summary: Prominent imperial Roman official. Martyred in the persecutions of Decius.
+image: http://catholicsaints.info/wp-content/uploads/img-Saints-Secundian-Marcellian-and-Verian.jpg
 deathYear: 250
-died: "250 near Civitavecchia, Italy"
-deathPlace: "Italy"
-region: "Italy"
+died: 250 near Civitavecchia, Italy
+deathPlace: Italy
+region: Italy
 feastDay:
   month: 8
   day: 9
@@ -15,6 +15,7 @@ vocation:
   - Priest
   - Monk
 martyr: true
+prayers: []
 ---
 
 Prominent imperial Roman official. Martyred in the persecutions of Decius.

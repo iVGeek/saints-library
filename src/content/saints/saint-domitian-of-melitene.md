@@ -24,6 +24,7 @@ vocation:
   - Monk
   - Confessor
 martyr: false
+prayers: []
 ---
 
 Married. Noted scholar in literature, philosophy and Biblical studies. Widower. Monk. Bishop of Melitene, Armenia at age 30. Had a special ministry to the poor. Diplomat, sent by the Byzantine emperor to Persia to handle difficult negotiations. Corresponded with Saint Gregory the Great. Spiritual director of the emperor.

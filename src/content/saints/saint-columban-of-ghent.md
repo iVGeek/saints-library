@@ -1,13 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Columban of Ghent"
+name: Saint Columban of Ghent
 honorific: Saint
-summary: "Hermit who lived in the cemetery of the abbey of Saint Bavo in Ghent, Belgium from 957 until his death."
+summary: Hermit who lived in the cemetery of the abbey of Saint Bavo in Ghent, Belgium from 957 until his death.
 deathYear: 959
-born: "possibly Ireland"
-died: "959 at the Saint Bavon abbey in Ghent, Belgium"
-deathPlace: "Belgium"
-region: "Belgium"
+born: possibly Ireland
+died: 959 at the Saint Bavon abbey in Ghent, Belgium
+deathPlace: Belgium
+region: Belgium
 feastDay:
   month: 2
   day: 15
@@ -16,6 +16,7 @@ vocation:
   - Virgin
   - Hermit
 martyr: false
+prayers: []
 ---
 
 Hermit who lived in the cemetery of the abbey of Saint Bavo in Ghent, Belgium from 957 until his death.

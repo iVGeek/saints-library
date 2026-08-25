@@ -1,16 +1,16 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Mailduf of Malmesbury"
+name: Saint Mailduf of Malmesbury
 honorific: Saint
-summary: "Monk. Abbot. Founded the monastery at Malmesbury, England. Spiritual teacher of Saint Aldhelm of Sherborne."
+summary: Monk. Abbot. Founded the monastery at Malmesbury, England. Spiritual teacher of Saint Aldhelm of Sherborne.
 searchAliases:
-  - "Maeldulph"
-  - "Maildubh"
-  - "Maildulf"
+  - Maeldulph
+  - Maildubh
+  - Maildulf
 deathYear: 673
-born: "Ireland"
-died: "673"
-region: "England"
+born: Ireland
+died: '673'
+region: England
 feastDay:
   month: 5
   day: 17
@@ -18,6 +18,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: false
+prayers: []
 ---
 
 Monk. Abbot. Founded the monastery at Malmesbury, England. Spiritual teacher of Saint Aldhelm of Sherborne.

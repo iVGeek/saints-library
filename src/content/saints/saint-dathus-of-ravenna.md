@@ -1,15 +1,17 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Dathus of Ravenna"
+name: Saint Dathus of Ravenna
 honorific: Saint
-summary: "Priest. Bishop of Ravenna, Italy during the reign of the Roman emperor Commodus. Elected to the see when a dove miraculously appeared over his head during the deliberations."
+summary: >-
+  Priest. Bishop of Ravenna, Italy during the reign of the Roman emperor Commodus. Elected to the see when a dove
+  miraculously appeared over his head during the deliberations.
 searchAliases:
-  - "Dato"
-  - "Datus"
-  - "Dathius"
+  - Dato
+  - Datus
+  - Dathius
 deathYear: 190
-died: "190 of natural causes"
-region: "Italy"
+died: 190 of natural causes
+region: Italy
 feastDay:
   month: 7
   day: 3
@@ -19,6 +21,7 @@ vocation:
   - Priest
   - Monk
 martyr: false
+prayers: []
 ---
 
 Priest. Bishop of Ravenna, Italy during the reign of the Roman emperor Commodus. Elected to the see when a dove miraculously appeared over his head during the deliberations.

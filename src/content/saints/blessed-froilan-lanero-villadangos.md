@@ -1,23 +1,24 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Froilán Lanero Villadangos"
+name: Blessed Froilán Lanero Villadangos
 honorific: Blessed
-summary: "Augustinian priest. Martyred in the Spanish Civil War."
+summary: Augustinian priest. Martyred in the Spanish Civil War.
 birthYear: 1910
 deathYear: 1936
-born: "3 October 1910 in Villadangos, León, Spain"
-died: "28 July 1936 in Vallecas, Madrid, Spain"
-birthPlace: "León, Spain"
-deathPlace: "Madrid, Spain"
-region: "Spain"
+born: 3 October 1910 in Villadangos, León, Spain
+died: 28 July 1936 in Vallecas, Madrid, Spain
+birthPlace: León, Spain
+deathPlace: Madrid, Spain
+region: Spain
 feastDay:
   month: 7
   day: 28
 canonizationStatus: Blessed
 vocation:
   - Priest
-religiousOrder: "Augustinian"
+religiousOrder: Augustinian
 martyr: true
+prayers: []
 ---
 
 Augustinian priest. Martyred in the Spanish Civil War.

@@ -2,8 +2,10 @@
 name: Saint Dismas
 honorific: Saint
 title: St. Dismas
-summary: "One of the thieves crucified with Jesus, the other being traditionally known as Gestas; Dismas is the Good Thief, the one who rebuked the other, and asked for Christ’s blessing. An old legend from an ..."
-image: "https://upload.wikimedia.org/wikipedia/commons/9/9d/Titian_-_Christ_and_the_Good_Thief_-_WGA22832.jpg"
+summary: >-
+  One of the thieves crucified with Jesus, the other being traditionally known as Gestas; Dismas is the Good Thief, the
+  one who rebuked the other, and asked for Christ’s blessing. An old legend from an ...
+image: https://upload.wikimedia.org/wikipedia/commons/9/9d/Titian_-_Christ_and_the_Good_Thief_-_WGA22832.jpg
 imageAlt: Portrait of Saint Dismas
 imageCredit: Wikimedia Commons
 searchAliases:
@@ -11,7 +13,8 @@ searchAliases:
   - The Good Thief
   - The Penitent Thief
   - Demas
-centuries: [16]
+centuries:
+  - 16
 feastDay:
   month: 3
   day: 25
@@ -31,6 +34,7 @@ symbols:
   - naked man, holding his cross, often with his hand on his heart to signify penitence
 martyr: false
 lifeEvents: []
+prayers: []
 ---
 
 One of the thieves crucified with Jesus, the other being traditionally known as Gestas; Dismas is the Good Thief, the one who rebuked the other, and asked for Christ’s blessing. An old legend from an Arabic infancy gospel says that when the Holy Family were running to Egypt, they were set upon by a band of thieves, including Dismas and Gestas. One of the highwaymen realized there was something different, something special about them, and ordered his fellow bandits to leave them alone; this thief was the young Dismas.

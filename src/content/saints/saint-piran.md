@@ -1,17 +1,20 @@
 ---
-name: "Saint Piran"
+name: Saint Piran
 honorific: Saint
-summary: "Piran's family origins are obscure; tradition says he came from Ireland. He spent his youth in south Wales where he founded a church in Cardiff. He received religious education at the monastery of Saint Cadog at Llancarfon, where he met Saint Finnian of Clonard. The two returned"
-image: "https://upload.wikimedia.org/wikipedia/commons/a/ac/StPiran.png"
+summary: >-
+  Piran's family origins are obscure; tradition says he came from Ireland. He spent his youth in south Wales where he
+  founded a church in Cardiff. He received religious education at the monastery of Saint Cadog at Llancarfon, where he
+  met Saint Finnian of Clonard. The two returned
+image: https://upload.wikimedia.org/wikipedia/commons/a/ac/StPiran.png
 searchAliases:
-  - "Peran"
-  - "Perran"
-  - "Pyran"
-  - "Piranus"
+  - Peran
+  - Perran
+  - Pyran
+  - Piranus
 deathYear: 480
-born: "Cornwall (in modern England)"
-died: "5 March 480 of natural causes"
-region: "Ireland"
+born: Cornwall (in modern England)
+died: 5 March 480 of natural causes
+region: Ireland
 feastDay:
   month: 3
   day: 5
@@ -22,12 +25,13 @@ vocation:
   - Religious
   - Hermit
 patronage:
-  - "Cornwall, England"
-  - "miners"
-  - "Piran, Slovenia"
-  - "tin miners"
-  - "tinners"
+  - Cornwall, England
+  - miners
+  - Piran, Slovenia
+  - tin miners
+  - tinners
 martyr: false
+prayers: []
 ---
 
 Piran's family origins are obscure; tradition says he came from Ireland. He spent his youth in south Wales where he founded a church in Cardiff. He received religious education at the monastery of Saint Cadog at Llancarfon, where he met Saint Finnian of Clonard. The two returned together to Ireland where Finnian founded six monasteries, including his most famous one at Clonard. Piran lived there before Saint Enda on Aran Island, and then Saint Senan on Scattery Island. He founded his own community at Clonmacnoise, “Ireland's University”.

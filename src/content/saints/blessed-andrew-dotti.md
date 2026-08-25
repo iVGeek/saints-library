@@ -24,6 +24,7 @@ vocation:
   - Soldier
   - Confessor
 martyr: false
+prayers: []
 ---
 
 Born to the nobility, the brother of Count Dotto Dotti. A career soldier, he rose to the rank of captain of archers in the army of Philippe the Fair. Though he grew up a courtier and lived as a soldiers, Andrew was always drawn to religious life. In 1278, after hearing a sermon by Saint Philip Benizi, he joined the Servite Order, being received into the Order by Saint Philip himself. Priest. Held several offices in the Order. Noted preacher and sought after confessor. Known in his day for his personal penances. Visionary and miracle worker. Late in life he retired to Montevecchio to spend his final days in prayer and solitude.

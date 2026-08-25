@@ -1,13 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Verus of Vienne"
+name: Saint Verus of Vienne
 honorific: Saint
-summary: "Bishop of Vienne, Gaul (modern France). Attended the Synod of Arles in 314."
+summary: Bishop of Vienne, Gaul (modern France). Attended the Synod of Arles in 314.
 searchAliases:
-  - "Vero"
+  - Vero
 deathYear: 314
-died: "314 of natural causes"
-region: "France"
+died: 314 of natural causes
+region: France
 feastDay:
   month: 8
   day: 1
@@ -16,6 +16,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Bishop of Vienne, Gaul (modern France). Attended the Synod of Arles in 314.

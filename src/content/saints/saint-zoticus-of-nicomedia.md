@@ -1,13 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Zoticus of Nicomedia"
+name: Saint Zoticus of Nicomedia
 honorific: Saint
-summary: "One of a group of 15 Christian soldiers who were tortured and martyred in the persecutions of Diocletian."
+summary: One of a group of 15 Christian soldiers who were tortured and martyred in the persecutions of Diocletian.
 searchAliases:
-  - "Zotico"
+  - Zotico
 deathYear: 303
-died: "thrown from a boat to drown at sea c.303 at the imperial residence at Nicomedia on the Black Sea"
-region: "Italy"
+died: thrown from a boat to drown at sea c.303 at the imperial residence at Nicomedia on the Black Sea
+region: Italy
 feastDay:
   month: 10
   day: 21
@@ -16,6 +16,7 @@ vocation:
   - Monk
   - Soldier
 martyr: true
+prayers: []
 ---
 
 One of a group of 15 Christian soldiers who were tortured and martyred in the persecutions of Diocletian.

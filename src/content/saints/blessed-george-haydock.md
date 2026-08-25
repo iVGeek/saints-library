@@ -21,6 +21,7 @@ vocation:
   - Priest
   - Confessor
 martyr: true
+prayers: []
 ---
 
 Youngest son of Evan and Helen Haydock. Educated at the English College in Douai, France, and the English College in Rome, Italy. Ordained on 21 December 1581 at Rheims, France. He then returned to England to minister to covert Catholics during the persecutions of Queen Elizabeth I. Arrested in London, England, he served 15 months in the Tower of London for the crime of being a priest; at one point he was finally allowed to administer the Sacraments to fellow prisoners. Zealous supporter of the pope, and not secular authorities, as ruler of the Church. One of the Martyrs of England, Scotland, and Wales.

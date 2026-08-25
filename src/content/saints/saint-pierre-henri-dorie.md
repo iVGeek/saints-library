@@ -29,6 +29,7 @@ vocation:
   - Priest
   - Missionary
 martyr: true
+prayers: []
 ---
 
 Studied at the seminaries of Sables-d'Olonne and Luçon. Ordained a priest on 21 May 1864. Member of the Paris Foreign Missions Society, and assigned to missionary work in Korea. Tortured and martyred in one of the anti–Christian persecutions.

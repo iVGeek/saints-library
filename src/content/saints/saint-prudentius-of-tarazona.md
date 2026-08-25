@@ -28,6 +28,7 @@ patronage:
   - Alava, Spain
   - Lazkao, Spain
 martyr: false
+prayers: []
 ---
 
 Cave hermit at age 15, and the spiritual student of another hermit near Osma, Old Castille, Spain. At age 22 he began evangelizing, opposing idolators and miraculously healing in the area of Calahorra, Spain. Priest. Canon of the church in Calahorra. Bishop of Tarazona, Aragon (in modern Spain).

@@ -1,26 +1,32 @@
 ---
-name: "Venerable Arcangelo Biasi"
+name: Venerable Arcangelo Biasi
 honorific: Venerable
-summary: "One of several sons born to a poor village family, Arcangelo was baptized at the age of one day. At the age of 12, he began to feel drawn to religious life, and on 4 October 1915 he joined the Franciscans, taking the name Fra Girolamo Maria. During World War I, Fra Girolamo studi"
-image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Arcangelo-Biasi.jpg"
+summary: >-
+  One of several sons born to a poor village family, Arcangelo was baptized at the age of one day. At the age of 12, he
+  began to feel drawn to religious life, and on 4 October 1915 he joined the Franciscans, taking the name Fra Girolamo
+  Maria. During World War I, Fra Girolamo studi
+image: http://catholicsaints.info/wp-content/uploads/img-Venerable-Arcangelo-Biasi.jpg
 searchAliases:
-  - "Fra Girolamo Maria"
+  - Fra Girolamo Maria
 birthYear: 1897
 deathYear: 1929
-born: "7 December 1897 in Sfruz, Trent, Italy"
-died: "20 June 1929 in hospital in Camposampiero, Padua, Italy of tuberculosis"
-birthPlace: "Trent, Italy"
-deathPlace: "Padua, Italytuberculosis"
-region: "Italy"
+born: 7 December 1897 in Sfruz, Trent, Italy
+died: 20 June 1929 in hospital in Camposampiero, Padua, Italy of tuberculosis
+birthPlace: Trent, Italy
+deathPlace: Padua, Italytuberculosis
+region: Italy
 feastDay:
   month: 10
   day: 4
-centuries: [19, 20]
+centuries:
+  - 19
+  - 20
 canonizationStatus: Venerable
 vocation:
   - Priest
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 martyr: false
+prayers: []
 ---
 
 One of several sons born to a poor village family, Arcangelo was baptized at the age of one day. At the age of 12, he began to feel drawn to religious life, and on 4 October 1915 he joined the Franciscans, taking the name Fra Girolamo Maria. During World War I, Fra Girolamo studied at the International Seraphic College in Rome, Italy. Close friend of and trusted co-worker with Saint Maximilian Kolbe. Helped to found the Militia of the Immaculate.

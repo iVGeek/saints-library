@@ -16,6 +16,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Born to the French nobility. Monk. Bishop of Angers, France in 586, consecrated by Saint Gregory of Tours.

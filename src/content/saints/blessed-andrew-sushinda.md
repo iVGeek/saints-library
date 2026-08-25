@@ -30,6 +30,7 @@ imageCredit: >-
   )
 imageCreditUrl: >-
   https://commons.wikimedia.org/wiki/File:Martyrdom-of-Leonardo-Kimura-with-4-Christians-in-Nagasaki-Nov-18-1619-(made-c1626).png
+prayers: []
 ---
 
 Layman in the archdiocese of Nagasaki, Japan who sheltered Dominican missionaries. Member of the Confraternity of the Rosary. Marytr.

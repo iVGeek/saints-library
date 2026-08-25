@@ -21,6 +21,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/0/08/FP_Toledo_Cathedral_2025_-_West_fa%C3%A7ade.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Eugene of Toledo
 imageCreditUrl: https://en.wikipedia.org/wiki/Toledo%20Cathedral
+prayers: []
 ---
 
 Third century missionary who worked with Saint Dionysius of Paris. Martyr.

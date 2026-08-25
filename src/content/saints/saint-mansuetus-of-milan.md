@@ -1,16 +1,18 @@
 ---
-name: "Saint Mansuetus of Milan"
+name: Saint Mansuetus of Milan
 honorific: Saint
-summary: "Born to the Italian nobility. Archbishop of Milan, Italy c.672. He revitalized the faith in his diocese, and wrote a treatise against the heresy of Monothelitism."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Mansuetus-of-Milan.jpg"
+summary: >-
+  Born to the Italian nobility. Archbishop of Milan, Italy c.672. He revitalized the faith in his diocese, and wrote a
+  treatise against the heresy of Monothelitism.
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Mansuetus-of-Milan.jpg
 searchAliases:
-  - "Mansuetus Savelli"
-  - "Mansueto…"
+  - Mansuetus Savelli
+  - Mansueto…
 deathYear: 690
-born: "Rome, Italy"
-died: "c.690"
-birthPlace: "Italy"
-region: "Italy"
+born: Rome, Italy
+died: c.690
+birthPlace: Italy
+region: Italy
 feastDay:
   month: 2
   day: 19
@@ -19,6 +21,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Born to the Italian nobility. Archbishop of Milan, Italy c.672. He revitalized the faith in his diocese, and wrote a treatise against the heresy of Monothelitism.

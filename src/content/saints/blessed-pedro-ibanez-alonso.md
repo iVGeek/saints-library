@@ -1,23 +1,24 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Pedro Ibáñez Alonso"
+name: Blessed Pedro Ibáñez Alonso
 honorific: Blessed
-summary: "Dominican priest. Martyred in the Spanish Civil War."
+summary: Dominican priest. Martyred in the Spanish Civil War.
 birthYear: 1892
 deathYear: 1936
-born: "27 April 1892 in Fuentes de Nava, Palencia, Spain"
-died: "27 August 1936 in Madrid, Spain"
-birthPlace: "Palencia, Spain"
-deathPlace: "Spain"
-region: "Spain"
+born: 27 April 1892 in Fuentes de Nava, Palencia, Spain
+died: 27 August 1936 in Madrid, Spain
+birthPlace: Palencia, Spain
+deathPlace: Spain
+region: Spain
 feastDay:
   month: 8
   day: 27
 canonizationStatus: Blessed
 vocation:
   - Priest
-religiousOrder: "Dominican"
+religiousOrder: Dominican
 martyr: true
+prayers: []
 ---
 
 Dominican priest. Martyred in the Spanish Civil War.

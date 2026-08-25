@@ -1,13 +1,15 @@
 ---
-name: "Saint Barulas"
+name: Saint Barulas
 honorific: Saint
-summary: "A boy of seven who learned Christianity from Saint Romanus the Abbot. When he publicly announced his Christianity, he was tortured and martyred in the persecutions of Diocletian."
-image: "http://catholicsaints.info/wp-content/uploads/Barulas-of-Antioch.jpg"
+summary: >-
+  A boy of seven who learned Christianity from Saint Romanus the Abbot. When he publicly announced his Christianity, he
+  was tortured and martyred in the persecutions of Diocletian.
+image: http://catholicsaints.info/wp-content/uploads/Barulas-of-Antioch.jpg
 searchAliases:
-  - "Barula"
+  - Barula
 deathYear: 303
-died: "beheaded in 303"
-region: "England"
+died: beheaded in 303
+region: England
 feastDay:
   month: 11
   day: 18
@@ -16,6 +18,7 @@ vocation:
   - Priest
   - Monk
 martyr: true
+prayers: []
 ---
 
 A boy of seven who learned Christianity from Saint Romanus the Abbot. When he publicly announced his Christianity, he was tortured and martyred in the persecutions of Diocletian.

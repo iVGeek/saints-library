@@ -1,15 +1,15 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Onésimo Agorreta Zabaleta"
+name: Blessed Onésimo Agorreta Zabaleta
 honorific: Blessed
-summary: "Member of the Claretians, professed on 15 August 1932. Martyred in the Spanish Civil War."
+summary: Member of the Claretians, professed on 15 August 1932. Martyred in the Spanish Civil War.
 birthYear: 1916
 deathYear: 1936
-born: "16 February 1916 in Ujué, Navarra, Spain"
-died: "shot on 26 July 1936 in Lleida, Spain"
-birthPlace: "Navarra, Spain"
-deathPlace: "Spain"
-region: "Spain"
+born: 16 February 1916 in Ujué, Navarra, Spain
+died: shot on 26 July 1936 in Lleida, Spain
+birthPlace: Navarra, Spain
+deathPlace: Spain
+region: Spain
 feastDay:
   month: 7
   day: 26
@@ -18,6 +18,7 @@ vocation:
   - Bishop
   - Cardinal
 martyr: true
+prayers: []
 ---
 
 Member of the Claretians, professed on 15 August 1932. Martyred in the Spanish Civil War.

@@ -25,6 +25,7 @@ religiousOrder: Franciscan
 patronage:
   - Ravenna, Italy
 martyr: false
+prayers: []
 ---
 
 Priest in Rome. Elected 53rd pope in 523. Italy's ruler, Theodoric the Goth, was an Arian, and for a while he let Catholics alone, but in later life he became suspicious of everyone, imagining conspiracies and attempts to seize his throne. He tried to involve Pope John in his political machinations. John led a delegation to Constantinople to negotiate with Emperor Justin I; he was the first pope to travel to Constantinople, and while there crowned Justin. The mission was successful, but Theodoric thought John and Justin I had plotted against him. While returning to Rome, John was kidnapped and imprisoned by Theodoric's soldiers; he died in custody.

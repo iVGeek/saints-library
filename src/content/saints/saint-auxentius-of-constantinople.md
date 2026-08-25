@@ -16,6 +16,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/f/f3/Auxentius%2C_monk_of_Bithynia_%28Menologion_of_Basil_II%29.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Auxentius of Constantinople
 imageCreditUrl: https://en.wikipedia.org/wiki/Auxentius%20of%20Bithynia
+prayers: []
 ---
 
 One of over 300 Christians martyred together for opposing iconoclasm. No other information has survived.

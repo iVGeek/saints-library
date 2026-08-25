@@ -1,10 +1,10 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Theodore"
+name: Saint Theodore
 honorific: Saint
-summary: "One of 23 Christians martyred in the persecutions of Gallienus."
+summary: One of 23 Christians martyred in the persecutions of Gallienus.
 deathYear: 260
-died: "c.260"
+died: c.260
 feastDay:
   month: 7
   day: 29
@@ -12,6 +12,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 One of 23 Christians martyred in the persecutions of Gallienus.

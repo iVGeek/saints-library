@@ -24,6 +24,7 @@ patronage:
     Tolentino, city of
   - Tolentino, diocese of
 martyr: true
+prayers: []
 ---
 
 Born to the imperial Roman nobility. Roman prefect. Married to Saint Severina, and father of Saint Bassus. Brought Christianity to the city of Tolentino, Italy. Martyred for doing so.

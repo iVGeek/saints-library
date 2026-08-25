@@ -24,6 +24,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/b/bf/Hosios_Loukas_%28south_west_chapel%2C_south_side%29_-_Ignatios.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Agathopus the Deacon
 imageCreditUrl: https://en.wikipedia.org/wiki/Ignatius%20of%20Antioch
+prayers: []
 ---
 
 Deacon. Marytred with Saint Theodulus during the persecution of Maximinian Herculius for refusing to surrender holy books.

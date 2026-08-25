@@ -27,6 +27,7 @@ vocation:
   - Monk
 religiousOrder: Benedictine
 martyr: false
+prayers: []
 ---
 
 Priest in Milan and Como, Italy. Following a vision of the Virgin Mary, he joined the Humiliati in 1134, and worked for their adoption of the Benedictine Rule. Founded other monasteries in the areas of Milan and Lombardy. Served as abbot, and introduced the Little Office of Our Lady.

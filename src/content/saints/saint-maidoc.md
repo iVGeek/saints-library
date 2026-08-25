@@ -15,6 +15,7 @@ canonizationStatus: Saint
 vocation:
   - Bishop
 martyr: false
+prayers: []
 ---
 
 Sixth-century bishop. Llanmadog, Wales is named in his honour.

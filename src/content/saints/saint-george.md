@@ -1,91 +1,95 @@
 ---
-name: "Saint George"
+name: Saint George
 honorific: Saint
-summary: " Several stories have been attached to Saint George, the best known of which is the Golden Legend. In it, a dragon lived in a lake near Silena, Libya. Whole armies had gone up against this fierce creature, and had gone down in painful Soldier. Martyr. That's all we know for sure."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-George-and-the-Dragon.jpg"
+summary: ' Several stories have been attached to Saint George, the best known of which is the Golden Legend. In it, a dragon lived in a lake near Silena, Libya. Whole armies had gone up against this fierce creature, and had gone down in painful Soldier. Martyr. That''s all we know for sure.'
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-George-and-the-Dragon.jpg
 searchAliases:
-  - "Jirí"
-  - "Jordi"
-  - "Victory Bringer"
-  - "Zorzo"
+  - Jirí
+  - Jordi
+  - Victory Bringer
+  - Zorzo
 deathYear: 304
-died: "tortured and beheaded c.304 at Lydda, Palestine"
-deathPlace: "Palestine"
-region: "Holy Land"
+died: tortured and beheaded c.304 at Lydda, Palestine
+deathPlace: Palestine
+region: Holy Land
 feastDay:
   month: 4
   day: 23
 canonizationStatus: Saint
 vocation:
   - Priest
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 patronage:
-  - "against herpes"
-  - "against leprosy"
-  - "against plague"
-  - "against skin diseases"
-  - "against skin rashes"
-  - "against syphilis"
-  - "lepers"
-  - "agricultural workers"
-  - "archers"
-  - "armourers"
-  - "arms manufacturers"
-  - "boxers"
-  - "butchers"
-  - "castle chapels"
-  - "cavalry in general"
-  - "cavalry, French"
-  - "cavalry, Italian (proclaimed by Pope Pius XII on 23 April 1956)"
-  - "chivalry"
-  - "equestrians"
-  - "farmers"
-  - "field hands"
-  - "field workers"
-  - "fighters"
-  - "halberdiers"
-  - "horsemen"
-  - "horses"
-  - "husbandmen"
-  - "knights"
-  - "pugilists"
-  - "riders"
-  - "saddle makers"
-  - "saddlers"
-  - "sheep"
-  - "shepherds"
-  - "soldiers"
-  - "wrestlers"
-  - "Association of the Knights of Italy (proclaimed on 11 August 1937 by Pope Pius XI)"
-  - "Boy Scouts"
-  - "Bulgarian Armed Forces"
-  - "Crusaders"
-  - "Order of the Garter"
-  - "Palestinian Christians"
-  - "Romanian Army"
-  - "Teutonic Knights"
-  - "Worshipful Company of Armourers and Brasiers"
-  - "Canada"
-  - "England (proclaimed by Pope Benedict XIV)"
-  - "Ethiopia"
-  - "Georgia"
-  - "Germany"
-  - "Greece"
-  - "Lithuania"
-  - "Malta"
-  - "Montenegro"
-  - "Portugal"
-  - "Serbia"
-  - "Cappadocia"
-  - "Catalonia"
-  - "Palestine"
-  - "–"
-  - "Limburg, Germany, diocese of"
-  - "Saskatoon, Saskatchewan, eparchy of"
-  - "–"
-  - "in Belgium\n\nHenrichapelle"
-  - "Sint-Joris-Winge"
+  - against herpes
+  - against leprosy
+  - against plague
+  - against skin diseases
+  - against skin rashes
+  - against syphilis
+  - lepers
+  - agricultural workers
+  - archers
+  - armourers
+  - arms manufacturers
+  - boxers
+  - butchers
+  - castle chapels
+  - cavalry in general
+  - cavalry, French
+  - cavalry, Italian (proclaimed by Pope Pius XII on 23 April 1956)
+  - chivalry
+  - equestrians
+  - farmers
+  - field hands
+  - field workers
+  - fighters
+  - halberdiers
+  - horsemen
+  - horses
+  - husbandmen
+  - knights
+  - pugilists
+  - riders
+  - saddle makers
+  - saddlers
+  - sheep
+  - shepherds
+  - soldiers
+  - wrestlers
+  - Association of the Knights of Italy (proclaimed on 11 August 1937 by Pope Pius XI)
+  - Boy Scouts
+  - Bulgarian Armed Forces
+  - Crusaders
+  - Order of the Garter
+  - Palestinian Christians
+  - Romanian Army
+  - Teutonic Knights
+  - Worshipful Company of Armourers and Brasiers
+  - Canada
+  - England (proclaimed by Pope Benedict XIV)
+  - Ethiopia
+  - Georgia
+  - Germany
+  - Greece
+  - Lithuania
+  - Malta
+  - Montenegro
+  - Portugal
+  - Serbia
+  - Cappadocia
+  - Catalonia
+  - Palestine
+  - –
+  - Limburg, Germany, diocese of
+  - Saskatoon, Saskatchewan, eparchy of
+  - –
+  - |-
+    in Belgium
+
+    Henrichapelle
+  - Sint-Joris-Winge
 martyr: true
+prayers: []
 ---
 
 Soldier. Martyr. That's all we know for sure.

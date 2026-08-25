@@ -1,22 +1,23 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Luis Martínez Alvarellos"
+name: Blessed Luis Martínez Alvarellos
 honorific: Blessed
-summary: "Member of the Salesians of Don Bosco. Martyred in the Spanish Civil War."
+summary: Member of the Salesians of Don Bosco. Martyred in the Spanish Civil War.
 birthYear: 1915
 deathYear: 1936
-born: "30 June 1915 in La Coruña, Spain"
-died: "6 December 1936 in Guadalajara, Spain"
-birthPlace: "Spain"
-deathPlace: "Spain"
-region: "Spain"
+born: 30 June 1915 in La Coruña, Spain
+died: 6 December 1936 in Guadalajara, Spain
+birthPlace: Spain
+deathPlace: Spain
+region: Spain
 feastDay:
   month: 12
   day: 6
 canonizationStatus: Blessed
 vocation: []
-religiousOrder: "Salesian"
+religiousOrder: Salesian
 martyr: true
+prayers: []
 ---
 
 Member of the Salesians of Don Bosco. Martyred in the Spanish Civil War.

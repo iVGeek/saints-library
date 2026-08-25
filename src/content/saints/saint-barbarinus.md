@@ -18,6 +18,7 @@ imageCredit: >-
   <a rel="nofollow" class="external free"
   href="https://www.si.edu/object/colus-aulacofusus-barbarinus:nmnhinvertebratezoology_399836">https://www.si.edu/object/colus-aulacofusus-barbarinus:nmnhinvertebratezoology_399836</a>
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:Colus%20barbarinus.jpg
+prayers: []
 ---
 
 Priest. Martyr. No other information has survived.

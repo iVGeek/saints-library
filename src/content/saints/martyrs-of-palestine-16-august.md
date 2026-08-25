@@ -1,16 +1,19 @@
 ---
-name: "Martyrs of Palestine"
+name: Martyrs of Palestine
 honorific: Saint
-summary: "Thirty-three Christians martyred in Palestine; they are commemorated in old martyrologies, but the date and exact location have been lost."
-region: "Holy Land"
+summary: >-
+  Thirty-three Christians martyred in Palestine; they are commemorated in old martyrologies, but the date and exact
+  location have been lost.
+region: Holy Land
 feastDay:
   month: 8
   day: 16
 canonizationStatus: Saint
-image: "https://upload.wikimedia.org/wikipedia/commons/c/ce/Eusebius-of-caesarea.jpg"
+image: https://upload.wikimedia.org/wikipedia/commons/c/ce/Eusebius-of-caesarea.jpg
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Thirty-three Christians martyred in Palestine; they are commemorated in old martyrologies, but the date and exact location have been lost.

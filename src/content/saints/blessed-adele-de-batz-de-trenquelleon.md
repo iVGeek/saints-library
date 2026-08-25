@@ -1,17 +1,20 @@
 ---
-name: "Blessed Adèle de Batz de Trenquelléon"
+name: Blessed Adèle de Batz de Trenquelléon
 honorific: Blessed
-summary: "Born to the French nobility, the daughter of Baron Charles de Trenquelléon and Marie-Ursule de Peyronnencq de Saint-Chamarand, she was related through her mother to Saint Louis IX; she was baptized when only a few hours old. Her father, the baron, fought on the side of King Louis"
-image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Adèle-de-Batz-de-Trenquelléon.jpg"
+summary: >-
+  Born to the French nobility, the daughter of Baron Charles de Trenquelléon and Marie-Ursule de Peyronnencq de
+  Saint-Chamarand, she was related through her mother to Saint Louis IX; she was baptized when only a few hours old. Her
+  father, the baron, fought on the side of King Louis
+image: http://catholicsaints.info/wp-content/uploads/img-Venerable-Adèle-de-Batz-de-Trenquelléon.jpg
 searchAliases:
-  - "Sister Marie of the Conception"
+  - Sister Marie of the Conception
 birthYear: 1789
 deathYear: 1828
-born: "10 June 1789 in Castle of Trenquelléon, Feugarolles, Lot-et-Garonne, France"
-died: "10 January 1828 in Agen, Lot-et-Garonne, France of natural causes"
-birthPlace: "Feugarolles, Lot-et-Garonne, France"
-deathPlace: "Lot-et-Garonne, Francenatural causes"
-region: "France"
+born: 10 June 1789 in Castle of Trenquelléon, Feugarolles, Lot-et-Garonne, France
+died: 10 January 1828 in Agen, Lot-et-Garonne, France of natural causes
+birthPlace: Feugarolles, Lot-et-Garonne, France
+deathPlace: Lot-et-Garonne, Francenatural causes
+region: France
 feastDay:
   month: 1
   day: 6
@@ -19,10 +22,11 @@ canonizationStatus: Blessed
 vocation:
   - Bishop
   - Priest
-religiousOrder: "Carmelite"
+religiousOrder: Carmelite
 patronage:
-  - "Daughters of Mary Immaculate"
+  - Daughters of Mary Immaculate
 martyr: false
+prayers: []
 ---
 
 Born to the French nobility, the daughter of Baron Charles de Trenquelléon and Marie-Ursule de Peyronnencq de Saint-Chamarand, she was related through her mother to Saint Louis IX; she was baptized when only a few hours old. Her father, the baron, fought on the side of King Louis XVI in the French Revolution in 1791, which led to exile for him and his family to England in November 1791, then Spain in 1797, then Portugal in 1798, back to Spain in 1800, and finally a return to France in 1801. Adèle made her First Communion on 6 January 1801 in San Sebastian, Spain, and received Confirmation on 6 February 1803 from the bishop of Agen, France.

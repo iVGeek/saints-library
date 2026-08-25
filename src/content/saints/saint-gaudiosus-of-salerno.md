@@ -1,14 +1,14 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Gaudiosus of Salerno"
+name: Saint Gaudiosus of Salerno
 honorific: Saint
-summary: "Seventh century bishop of Salerno, Italy."
+summary: Seventh century bishop of Salerno, Italy.
 searchAliases:
-  - "Gaudioso"
-  - "Gaudino"
-died: "relics in Naples, Italy"
-deathPlace: "Italy"
-region: "Italy"
+  - Gaudioso
+  - Gaudino
+died: relics in Naples, Italy
+deathPlace: Italy
+region: Italy
 feastDay:
   month: 10
   day: 26
@@ -17,6 +17,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Seventh century bishop of Salerno, Italy.

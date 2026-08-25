@@ -20,6 +20,7 @@ vocation:
   - Religious
 religiousOrder: Benedictine
 martyr: false
+prayers: []
 ---
 
 Placed in the Benedictine convent of Saint Syrus at Piacenza, Italy in 1177 at age seven, she joined the Order at age 14. Abbess while still young, but removed from the office due to the severe austerities she imposed, and she became isolated from most of her sisters.

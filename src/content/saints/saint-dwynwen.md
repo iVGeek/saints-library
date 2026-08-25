@@ -1,16 +1,19 @@
 ---
-name: "Saint Dwynwen"
+name: Saint Dwynwen
 honorific: Saint
-summary: "Beautiful, pious and virtuous daughter of the 5th century Welsh king, Brychan of Brecknock. A certain Maelon fell in love with her, and wished to marry her. Though Dwynwen returned his love, her heart was set on becoming a nun, and she rejected him. She dreamt she was given a swe"
-image: "https://upload.wikimedia.org/wikipedia/commons/7/73/Llamddelw_fawr_am_%C5%B4yl_Santes_Dwynwen_Aberystwyth_2026.png"
+summary: >-
+  Beautiful, pious and virtuous daughter of the 5th century Welsh king, Brychan of Brecknock. A certain Maelon fell in
+  love with her, and wished to marry her. Though Dwynwen returned his love, her heart was set on becoming a nun, and she
+  rejected him. She dreamt she was given a swe
+image: https://upload.wikimedia.org/wikipedia/commons/7/73/Llamddelw_fawr_am_%C5%B4yl_Santes_Dwynwen_Aberystwyth_2026.png
 searchAliases:
-  - "Donwen"
-  - "Donwenna"
-  - "Dunwen"
-  - "Dwyn"
+  - Donwen
+  - Donwenna
+  - Dunwen
+  - Dwyn
 deathYear: 460
-died: "c.460 of natural causes"
-region: "Italy"
+died: c.460 of natural causes
+region: Italy
 feastDay:
   month: 1
   day: 25
@@ -19,9 +22,10 @@ vocation:
   - Monk
   - Religious
 patronage:
-  - "lovers (especially Welsh)"
-  - "sick animals"
+  - lovers (especially Welsh)
+  - sick animals
 martyr: false
+prayers: []
 ---
 
 Beautiful, pious and virtuous daughter of the 5th century Welsh king, Brychan of Brecknock. A certain Maelon fell in love with her, and wished to marry her. Though Dwynwen returned his love, her heart was set on becoming a nun, and she rejected him. She dreamt she was given a sweet drink which saved her from his attentions, but which turned the poor young man to ice. Realising that Maelon couldn't help his love for her, she prayed that he be restored to life, that all lovers should find happiness, and that she never have the desire for marriage. Dwynwen became a nun and lived on Llanddwyn Island on the western coast of Ynys Mon (Anglesey), an area accessible only at low tide.

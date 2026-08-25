@@ -23,6 +23,7 @@ religiousOrder: Benedictine
 patronage:
   - Subiaco, Italy
 martyr: false
+prayers: []
 ---
 
 Hermitess in a cave near Tivoli, Italy. Benedictine nun at Saint Scholastica Abbey, but lived for 60 years more as a hermitess than in community.

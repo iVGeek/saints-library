@@ -16,6 +16,7 @@ image: >-
 imageAlt: Portrait of Martyrs of Georgia
 imageCredit: <span class="int-own-work" lang="en">Own work</span>
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:Forty%20Martyrs%20of%20Sebaste.jpg
+prayers: []
 ---
 
 Approximately 6,000 Christian monks and lay people martyred in Georgia in 1616 for their faith by a Muslim army led by Shah Abbas I of Persia.

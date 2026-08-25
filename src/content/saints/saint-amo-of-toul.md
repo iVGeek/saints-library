@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Amo of Toul"
+name: Saint Amo of Toul
 honorific: Saint
-summary: "Fourth-century bishop of Toul, France."
+summary: Fourth-century bishop of Toul, France.
 searchAliases:
-  - "Amon"
-region: "France"
+  - Amon
+region: France
 feastDay:
   month: 10
   day: 23
@@ -14,6 +14,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Fourth-century bishop of Toul, France.

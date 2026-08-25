@@ -1,11 +1,11 @@
 ---
-name: "Saint Anthony of Antioch"
+name: Saint Anthony of Antioch
 honorific: Saint
-summary: "Priest. Martyred in the persecutions of Diocletian."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Anthony-of-Antioch.jpg"
+summary: Priest. Martyred in the persecutions of Diocletian.
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Anthony-of-Antioch.jpg
 deathYear: 302
-died: "c.302 at Antioch"
-region: "England"
+died: c.302 at Antioch
+region: England
 feastDay:
   month: 1
   day: 9
@@ -14,6 +14,7 @@ vocation:
   - Priest
   - Monk
 martyr: true
+prayers: []
 ---
 
 Priest. Martyred in the persecutions of Diocletian.

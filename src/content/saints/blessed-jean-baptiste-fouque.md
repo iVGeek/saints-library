@@ -1,17 +1,20 @@
 ---
-name: "Blessed Jean-Baptiste Fouque"
+name: Blessed Jean-Baptiste Fouque
 honorific: Blessed
-summary: "Jean-Baptiste grew up in a pious household, the son of Louis Fouque and Adèle Anne Remuzat. He studied at the school run by Servant of God Joseph-Marie Timon-David. Ordained a priest in Marseilles, France on 10 June 1876. Parish priest in the French cities of Auriol and La Major"
-image: "https://upload.wikimedia.org/wikipedia/commons/b/bb/Abb%C3%A9_Jean-Baptiste_Fouque.jpg"
+summary: >-
+  Jean-Baptiste grew up in a pious household, the son of Louis Fouque and Adèle Anne Remuzat. He studied at the school
+  run by Servant of God Joseph-Marie Timon-David. Ordained a priest in Marseilles, France on 10 June 1876. Parish priest
+  in the French cities of Auriol and La Major
+image: https://upload.wikimedia.org/wikipedia/commons/b/bb/Abb%C3%A9_Jean-Baptiste_Fouque.jpg
 searchAliases:
-  - "the Saint Vincent de Paul of Marseilles"
+  - the Saint Vincent de Paul of Marseilles
 birthYear: 1851
 deathYear: 1926
-born: "12 September 1851 in Marseille, Bouches-du-Rhône, France"
-died: "5 December 1926 at the Saint John Hospital in Marseille, Bouches-du-Rhône, France of natural causes"
-birthPlace: "Bouches-du-Rhône, France"
-deathPlace: "Bouches-du-Rhône, Francenatural causes"
-region: "France"
+born: 12 September 1851 in Marseille, Bouches-du-Rhône, France
+died: 5 December 1926 at the Saint John Hospital in Marseille, Bouches-du-Rhône, France of natural causes
+birthPlace: Bouches-du-Rhône, France
+deathPlace: Bouches-du-Rhône, Francenatural causes
+region: France
 feastDay:
   month: 12
   day: 5
@@ -21,6 +24,7 @@ vocation:
   - Religious
   - Cardinal
 martyr: false
+prayers: []
 ---
 
 Jean-Baptiste grew up in a pious household, the son of Louis Fouque and Adèle Anne Remuzat. He studied at the school run by Servant of God Joseph-Marie Timon-David. Ordained a priest in Marseilles, France on 10 June 1876. Parish priest in the French cities of Auriol and La Major from 1876 to 1888; he was assigned to the Sainte Trinité parish on 15 April 1888, and served there the rest of his life, over 38 years.

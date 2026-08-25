@@ -1,15 +1,18 @@
 ---
-name: "Blessed Luigi Talamoni"
+name: Blessed Luigi Talamoni
 honorific: Blessed
-summary: "The second of six children born to Giuseppe Talamoni, a hat maker, and Maria Angelica Sala; Luigi was baptized on the day of his birth. He was ordained a priest in the archdiocese of Milan, Italy on 4 March 1871. Teacher at the Collegio San Carlo in Milan; one of his students was"
-image: "https://upload.wikimedia.org/wikipedia/commons/6/60/Luigi_Talamoni_portrait.jpg"
+summary: >-
+  The second of six children born to Giuseppe Talamoni, a hat maker, and Maria Angelica Sala; Luigi was baptized on the
+  day of his birth. He was ordained a priest in the archdiocese of Milan, Italy on 4 March 1871. Teacher at the Collegio
+  San Carlo in Milan; one of his students was
+image: https://upload.wikimedia.org/wikipedia/commons/6/60/Luigi_Talamoni_portrait.jpg
 birthYear: 1848
 deathYear: 1926
-born: "3 October 1848 at Monza, Milan, Italy"
-died: "31 January 1926 in Milan, Italy of natural causes"
-birthPlace: "Milan, Italy"
-deathPlace: "Italynatural causes"
-region: "Italy"
+born: 3 October 1848 at Monza, Milan, Italy
+died: 31 January 1926 in Milan, Italy of natural causes
+birthPlace: Milan, Italy
+deathPlace: Italynatural causes
+region: Italy
 feastDay:
   month: 1
   day: 31
@@ -18,8 +21,9 @@ vocation:
   - Priest
   - Religious
 patronage:
-  - "Merciful Sisters of Saint Gerard (Suore Misericordine di San Gerardo)"
+  - Merciful Sisters of Saint Gerard (Suore Misericordine di San Gerardo)
 martyr: false
+prayers: []
 ---
 
 The second of six children born to Giuseppe Talamoni, a hat maker, and Maria Angelica Sala; Luigi was baptized on the day of his birth. He was ordained a priest in the archdiocese of Milan, Italy on 4 March 1871. Teacher at the Collegio San Carlo in Milan; one of his students was the future Pope Pius XI. In 1875 he was assigned to Monza, Italy to teach at the local high school, preach, serve as spiritual director, and concentrate on bringing the faithful back to the confessional.

@@ -32,7 +32,7 @@ symbols:
 martyr: false
 lifeEvents: []
 prayers:
-  - name: Novena to Saint Sebastian
+  - name: Novena to Saint Saint Sebastian
     kind: Novena — nine-day prayer for protection from illness
     text: >-
       O glorious Saint Sebastian, martyr of Christ and patron of athletes and all who suffer from plague, I turn to you

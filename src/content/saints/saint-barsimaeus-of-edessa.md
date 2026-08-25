@@ -29,6 +29,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/f/f6/Menologion_of_Basil_II_-_Barsimaeus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Barsimaeus of Edessa
 imageCreditUrl: https://en.wikipedia.org/wiki/Barsimaeus
+prayers: []
 ---
 
 Evangelizing bishop of Edessa, Syria. Martyred in the persecutions of President Lysias and Emperor Trajan.

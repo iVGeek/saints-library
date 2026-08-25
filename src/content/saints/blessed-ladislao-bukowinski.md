@@ -1,18 +1,21 @@
 ---
-name: "Blessed Ladislao Bukowinski"
+name: Blessed Ladislao Bukowinski
 honorific: Blessed
-summary: "One of three children born to Jozef Tsypriyan Bukowinski and Vladislav Jadwiga Schipo del Campo, he was baptized at the age of four days. Naturalized Polish citizen. Studied law and theology at Jagiellonian University. Ordained a priest in the diocese of Krakow, Poland on 28 June"
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Ladislao-Bukowinski.jpg"
+summary: >-
+  One of three children born to Jozef Tsypriyan Bukowinski and Vladislav Jadwiga Schipo del Campo, he was baptized at
+  the age of four days. Naturalized Polish citizen. Studied law and theology at Jagiellonian University. Ordained a
+  priest in the diocese of Krakow, Poland on 28 June
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Ladislao-Bukowinski.jpg
 searchAliases:
-  - "Vladislav Bukovinskij"
-  - "Wladyslaw Bukowinski"
+  - Vladislav Bukovinskij
+  - Wladyslaw Bukowinski
 birthYear: 1904
 deathYear: 1974
-born: "22 December 1904 in Berdychiv, Zhytomyr, Ukraine"
-died: "3 December 1974 in Karaganda, Kazakhstan of natural causes"
-birthPlace: "Zhytomyr, Ukraine"
-deathPlace: "Kazakhstannatural causes"
-region: "Poland"
+born: 22 December 1904 in Berdychiv, Zhytomyr, Ukraine
+died: 3 December 1974 in Karaganda, Kazakhstan of natural causes
+birthPlace: Zhytomyr, Ukraine
+deathPlace: Kazakhstannatural causes
+region: Poland
 feastDay:
   month: 12
   day: 3
@@ -22,6 +25,7 @@ vocation:
   - Cardinal
   - Missionary
 martyr: false
+prayers: []
 ---
 
 One of three children born to Jozef Tsypriyan Bukowinski and Vladislav Jadwiga Schipo del Campo, he was baptized at the age of four days. Naturalized Polish citizen. Studied law and theology at Jagiellonian University. Ordained a priest in the diocese of Krakow, Poland on 28 June 1931.

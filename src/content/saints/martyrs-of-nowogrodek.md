@@ -1,19 +1,23 @@
 ---
-name: "Martyrs of Nowogrodek"
+name: Martyrs of Nowogrodek
 honorific: Venerable
-image: "http://catholicsaints.info/wp-content/uploads/img-martyrs-of-nowogrodek.jpg"
+image: http://catholicsaints.info/wp-content/uploads/img-martyrs-of-nowogrodek.jpg
 searchAliases: []
 deathYear: 1943
-died: "machine-gunned by firing squad on 1 August 1943 by the Gestapo about three miles outside Novogrudok (Nowogródek), Hrodzyenskaya voblasts’, in Nazi occupied Belarus"
-deathPlace: "Hrodzyenskaya voblasts’,Nazi occupied Belarus"
-region: "Poland"
+died: >-
+  machine-gunned by firing squad on 1 August 1943 by the Gestapo about three miles outside Novogrudok (Nowogródek),
+  Hrodzyenskaya voblasts’, in Nazi occupied Belarus
+deathPlace: Hrodzyenskaya voblasts’,Nazi occupied Belarus
+region: Poland
 feastDay:
   month: 8
   day: 1
-centuries: [20]
+centuries:
+  - 20
 canonizationStatus: Venerable
 vocation: []
 martyr: true
+prayers: []
 ---
 
 A group of eleven Holy Family of Nazareth nuns who were murdered by the Nazi Gestapo in exchange for 120 condemned citizens of Nowogrodek, Belarus who were scheduled for revenge killings. They are –

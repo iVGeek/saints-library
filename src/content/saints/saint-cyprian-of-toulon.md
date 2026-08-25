@@ -24,6 +24,7 @@ vocation:
   - Priest
   - Deacon
 martyr: false
+prayers: []
 ---
 
 Spiritual student of Saint Caesarius of Arles, who made him arch-deacon in the diocese of Arles, France in 505. Ordained a priest in 506. Bishop of Toulon, France in 516, consecrated by Saint Caesarius. Fought Semi-Pelagianism. Wrote a biography of Saint Caesarius of Arles. Brought Saint Madrier of Toulon and Saint Flavien of Toulon to the faith.

@@ -16,6 +16,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/0/07/Sancti_Protus_Hyacinthus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Basilla of Alexandria
 imageCreditUrl: https://en.wikipedia.org/wiki/Protus%20and%20Hyacinth
+prayers: []
 ---
 
 Martyr.

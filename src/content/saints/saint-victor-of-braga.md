@@ -15,6 +15,7 @@ vocation:
   - Priest
   - Monk
 martyr: true
+prayers: []
 ---
 
 Catechumen martyred in the persecutions of Diocletian.

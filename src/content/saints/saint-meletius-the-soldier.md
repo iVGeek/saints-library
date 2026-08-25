@@ -1,9 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Meletius the Soldier"
+name: Saint Meletius the Soldier
 honorific: Saint
-summary: "Officer in the imperial Roman army who was executed with 252 of his men for being Christian, date and location unknown. Martyr."
-region: "England"
+summary: >-
+  Officer in the imperial Roman army who was executed with 252 of his men for being Christian, date and location
+  unknown. Martyr.
+region: England
 feastDay:
   month: 5
   day: 24
@@ -12,6 +14,7 @@ vocation:
   - Monk
   - Soldier
 martyr: true
+prayers: []
 ---
 
 Officer in the imperial Roman army who was executed with 252 of his men for being Christian, date and location unknown. Martyr.

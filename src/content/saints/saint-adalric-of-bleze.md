@@ -16,6 +16,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/1/1b/B%C3%A8ze_-_59.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Adalric of Bèze
 imageCreditUrl: https://en.wikipedia.org/wiki/B%C3%A8ze%20Abbey
+prayers: []
 ---
 
 Young boy. Martyred at the monastery of Bèze, Côte-d'Or, France by Norman invaders.

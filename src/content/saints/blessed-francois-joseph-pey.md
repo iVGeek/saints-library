@@ -1,15 +1,20 @@
 ---
-name: "Blessed François-Joseph Pey"
+name: Blessed François-Joseph Pey
 honorific: Blessed
-summary: "One of nine children born to Joseph-François Pey, a physician, and Marguerite Rose Moutte; five of them died in childhood. Theirs was a pious family; both François-Joseph and his older brother, Jean-Louis, became priests. François-Joseph studied at seminaries in Aix-en-Provence,"
-image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-September1.jpg"
+summary: >-
+  One of nine children born to Joseph-François Pey, a physician, and Marguerite Rose Moutte; five of them died in
+  childhood. Theirs was a pious family; both François-Joseph and his older brother, Jean-Louis, became priests.
+  François-Joseph studied at seminaries in Aix-en-Provence,
+image: http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-September1.jpg
 birthYear: 1759
 deathYear: 1792
-born: "1759 in Solliès-Pont, Var, France"
-died: "stabbed with sabers and beaten with shovels at 11:30pm on 2 September 1792 at the Abbey of St-Germain-des-Prés, Paris, France"
-birthPlace: "Var, France"
-deathPlace: "Paris, France"
-region: "Germany"
+born: 1759 in Solliès-Pont, Var, France
+died: >-
+  stabbed with sabers and beaten with shovels at 11:30pm on 2 September 1792 at the Abbey of St-Germain-des-Prés, Paris,
+  France
+birthPlace: Var, France
+deathPlace: Paris, France
+region: Germany
 feastDay:
   month: 9
   day: 2
@@ -17,6 +22,7 @@ canonizationStatus: Blessed
 vocation:
   - Priest
 martyr: true
+prayers: []
 ---
 
 One of nine children born to Joseph-François Pey, a physician, and Marguerite Rose Moutte; five of them died in childhood. Theirs was a pious family; both François-Joseph and his older brother, Jean-Louis, became priests. François-Joseph studied at seminaries in Aix-en-Provence, then Paris, and then Trier. Ordained a priest on 10 August 1784 in the archdiocese of Trier, he returned to Paris where he served as chaplain at the College Sainte-Barbe. At the same time, he studied at the Sorbonne, and obtained a Master's degree on 11 October 1785, and a doctorate on 16 January 1787. Noted as a Bible scholar.

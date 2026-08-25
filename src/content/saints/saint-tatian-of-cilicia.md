@@ -1,14 +1,14 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Tatian of Cilicia"
+name: Saint Tatian of Cilicia
 honorific: Saint
-summary: "Scourged, burned, tortured and martyred in the persecutions of Diocletian."
+summary: Scourged, burned, tortured and martyred in the persecutions of Diocletian.
 searchAliases:
-  - "Dulas (nickname)"
+  - Dulas (nickname)
 deathYear: 300
-died: "disemboweled c.300 in Zephyrinu, Cilicia, Asia Minor"
-deathPlace: "Cilicia, Asia Minor"
-region: "England"
+died: disemboweled c.300 in Zephyrinu, Cilicia, Asia Minor
+deathPlace: Cilicia, Asia Minor
+region: England
 feastDay:
   month: 6
   day: 15
@@ -16,6 +16,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Scourged, burned, tortured and martyred in the persecutions of Diocletian.

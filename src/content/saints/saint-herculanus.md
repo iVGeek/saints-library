@@ -20,6 +20,7 @@ vocation:
 patronage:
   - Perugia, Italy
 martyr: true
+prayers: []
 ---
 
 Bishop of Perugia, Italy. Martyred under orders of Ostro-Gothic leader Totila.

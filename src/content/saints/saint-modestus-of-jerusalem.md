@@ -21,6 +21,7 @@ vocation:
   - Monk
   - Hermit
 martyr: false
+prayers: []
 ---
 
 Orphaned at five months of age. Sold into slavery in Egypt as an adult, he converted his pagan “owner” to Christianity, and was promptly freed. He then withdrew from society to live as a hermit on Mount Sinai. Monk and then abbot of the Monastery of Saint Theodosius in Palestine. Tried to raise Greek troops to oppose the Persian invasion and destruction of Jerusalem in 614. Chosen Bishop and Greek Orthodox Patriarch of Jerusalem. Helped re-build the city after its conquest and damage by the Persians.

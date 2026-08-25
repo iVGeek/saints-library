@@ -1,34 +1,41 @@
 ---
-name: "Saint Hildegard von Bingen"
+name: Saint Hildegard von Bingen
 honorific: Saint
-summary: "At a time when few women wrote, Hildegard produced major works of theology and visionary writings. When few women were respected, she was consulted by and advised bishops, popes, and kings. She used the curative powers of natural objects for healing, and wrote treatises about nat"
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Hildegard-von-Bingen1.jpg"
+summary: >-
+  At a time when few women wrote, Hildegard produced major works of theology and visionary writings. When few women were
+  respected, she was consulted by and advised bishops, popes, and kings. She used the curative powers of natural objects
+  for healing, and wrote treatises about nat
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Hildegard-von-Bingen1.jpg
 searchAliases:
-  - "Hildegard Eibingen"
-  - "Hildegard of Bingen"
-  - "Hildegardis Bingensis"
-  - "Sybil of the Rhine"
+  - Hildegard Eibingen
+  - Hildegard of Bingen
+  - Hildegardis Bingensis
+  - Sybil of the Rhine
 birthYear: 1098
 deathYear: 1179
-born: "1098 at Bermersheim, Rhineland Palatinate (modern Germany)"
-died: "17 September 1179 at Bingen, Rhineland Palatinate (modern Germany) of natural causes"
-birthPlace: "Rhineland Palatinate (modern Germany)"
-deathPlace: "Rhineland Palatinate (modern Germany)natural causes"
-region: "Germany"
+born: 1098 at Bermersheim, Rhineland Palatinate (modern Germany)
+died: 17 September 1179 at Bingen, Rhineland Palatinate (modern Germany) of natural causes
+birthPlace: Rhineland Palatinate (modern Germany)
+deathPlace: Rhineland Palatinate (modern Germany)natural causes
+region: Germany
 feastDay:
   month: 9
   day: 17
 canonizationStatus: Saint
 vocation: []
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 patronage:
-  - "Esperantists; Esperanto users or speakers"
-  - "philologists"
-  - "–"
-  - "in Germany\n\nBingen am Rhein"
-  - "Böckelheim"
-  - "Disibodenberg (Diessenberg)"
+  - Esperantists; Esperanto users or speakers
+  - philologists
+  - –
+  - |-
+    in Germany
+
+    Bingen am Rhein
+  - Böckelheim
+  - Disibodenberg (Diessenberg)
 martyr: false
+prayers: []
 ---
 
 At a time when few women wrote, Hildegard produced major works of theology and visionary writings. When few women were respected, she was consulted by and advised bishops, popes, and kings. She used the curative powers of natural objects for healing, and wrote treatises about natural history and the medicinal uses of plants, animals, trees and stones. She is the first musical composer whose biography is known. She founded a vibrant convent, where her musical plays were performed. Interest in this extraordinary woman was initiated by musicologists and historians of science and religion. Unfortunately, Hildegard's visions and music have been hijacked by the New Age movement; New Age music bears some resemblance to Hildegard's ethereal airs. Her story is important to students of medieval history and culture, and an inspirational account of an irresistible spirit and vibrant intellect overcoming social, physical, cultural, gender barriers to achieve timeless transcendence.

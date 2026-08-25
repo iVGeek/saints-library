@@ -1,21 +1,21 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Vimin of Holywood"
+name: Saint Vimin of Holywood
 honorific: Saint
-summary: "Sixth century bishop in Scotland. Founded the monastery of Holywood."
+summary: Sixth century bishop in Scotland. Founded the monastery of Holywood.
 searchAliases:
-  - "Gwynnin"
-  - "Vimianus"
-  - "Viminus"
-  - "Vimmin"
-  - "Vinim"
-  - "Vivian"
-  - "Wynnia"
-  - "Wynnin"
+  - Gwynnin
+  - Vimianus
+  - Viminus
+  - Vimmin
+  - Vinim
+  - Vivian
+  - Wynnia
+  - Wynnin
 deathYear: 615
-born: "Scotland"
-died: "c.615"
-region: "Scotland"
+born: Scotland
+died: c.615
+region: Scotland
 feastDay:
   month: 1
   day: 21
@@ -26,6 +26,7 @@ vocation:
   - Monk
   - Confessor
 martyr: false
+prayers: []
 ---
 
 Sixth century bishop in Scotland. Founded the monastery of Holywood.

@@ -1,23 +1,27 @@
 ---
-name: "Saint Engelbert of Cologne"
+name: Saint Engelbert of Cologne
 honorific: Saint
-summary: "Son of the influential Count Englebert of Berg and Margaret, daughter of the Count of Gelderland. Studied at the cathedral school at Cologne, Germany. In a time when clerical and episcopal positions were a part of political patronage, Englebert was made provost of churches in Col"
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Engelbert-of-Cologne.jpg"
+summary: >-
+  Son of the influential Count Englebert of Berg and Margaret, daughter of the Count of Gelderland. Studied at the
+  cathedral school at Cologne, Germany. In a time when clerical and episcopal positions were a part of political
+  patronage, Englebert was made provost of churches in Col
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Engelbert-of-Cologne.jpg
 searchAliases:
-  - "Engelbert of Berg"
+  - Engelbert of Berg
 birthYear: 1185
 deathYear: 1225
-born: "c.1185 at Berg in modern Germany"
-died: "stabbed to death on the evening of 7 November 1225 near Schwelm, Germany"
-deathPlace: "Germany"
-region: "Scandinavia"
+born: c.1185 at Berg in modern Germany
+died: stabbed to death on the evening of 7 November 1225 near Schwelm, Germany
+deathPlace: Germany
+region: Scandinavia
 feastDay:
   month: 11
   day: 7
 canonizationStatus: Saint
 vocation: []
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 martyr: true
+prayers: []
 ---
 
 Son of the influential Count Englebert of Berg and Margaret, daughter of the Count of Gelderland. Studied at the cathedral school at Cologne, Germany. In a time when clerical and episcopal positions were a part of political patronage, Englebert was made provost of churches in Cologne and Aachen, Germany while still a young boy, and of the Cologne cathedral at age 14. He led a worldly and dissolute youth; known for his good looks, keen mind, and wild ways. Englebert went to war to support his cousin, Archbishop Adolf, against Archbishop Bruno; for this, and for threatening to attack the Holy Roman Emperor Otto IV, both Engelbert and Adolf were excommunicated in 1206.

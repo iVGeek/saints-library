@@ -17,6 +17,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/2/25/Messina_2003.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Gaius of Messina
 imageCreditUrl: https://en.wikipedia.org/wiki/Messina
+prayers: []
 ---
 
 Martyred in the persecutions of Diocletian. No other information has survived.

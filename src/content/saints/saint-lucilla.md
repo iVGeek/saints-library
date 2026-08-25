@@ -27,6 +27,7 @@ patronage:
   - Ostia
   - Torrita di Siena
 martyr: true
+prayers: []
 ---
 
 Sister of Saint Flora of Rome, she was kidnapped and enslaved by Saint Eugene of Rome, she was freed when he converted. One of 23 Christians martyred in the persecutions of Gallienus.

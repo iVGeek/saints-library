@@ -1,28 +1,30 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Matthaeus Kohyoe"
+name: Saint Matthaeus Kohyoe
 honorific: Venerable
-summary: "Dominican novice and catechist. Martyr."
+summary: Dominican novice and catechist. Martyr.
 searchAliases:
-  - "Matthaeus of the Rosary"
-  - "Mateo…"
-  - "Matteo…"
-  - "Matteus…"
+  - Matthaeus of the Rosary
+  - Mateo…
+  - Matteo…
+  - Matteus…
 birthYear: 1615
 deathYear: 1633
-born: "1615 in Arima, Hyogo, Japan"
-died: "19 October 1633 in Nishizaka, Nagasaki, Japan"
-birthPlace: "Hyogo, Japan"
-deathPlace: "Nagasaki, Japan"
-region: "England"
+born: 1615 in Arima, Hyogo, Japan
+died: 19 October 1633 in Nishizaka, Nagasaki, Japan
+birthPlace: Hyogo, Japan
+deathPlace: Nagasaki, Japan
+region: England
 feastDay:
   month: 10
   day: 19
-centuries: [17]
+centuries:
+  - 17
 canonizationStatus: Venerable
 vocation: []
-religiousOrder: "Dominican"
+religiousOrder: Dominican
 martyr: true
+prayers: []
 ---
 
 Dominican novice and catechist. Martyr.

@@ -1,15 +1,15 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Gormeal of Ardoilen"
+name: Saint Gormeal of Ardoilen
 honorific: Saint
-summary: "Abbot at Ardoilen, Galway, Ireland."
+summary: Abbot at Ardoilen, Galway, Ireland.
 searchAliases:
-  - "Gormcal"
-  - "Gormgall"
+  - Gormcal
+  - Gormgall
 deathYear: 1016
-born: "Irish"
-died: "1016 of natural causes"
-region: "Ireland"
+born: Irish
+died: 1016 of natural causes
+region: Ireland
 feastDay:
   month: 8
   day: 5
@@ -17,6 +17,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: false
+prayers: []
 ---
 
 Abbot at Ardoilen, Galway, Ireland.

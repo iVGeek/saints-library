@@ -1,15 +1,18 @@
 ---
-name: "Blessed Paolo Giustiniani"
+name: Blessed Paolo Giustiniani
 honorific: Blessed
-summary: "Born to the Venetian nobility, the son of Francesco Giustiniani and Paola Malipiero. Studied theology and philosophy at the University of Padua. Pilgrim to the Holy Lands in 1507 which left with a desire for the religious life. He joined the Camaldolese hermits in 1510 and became"
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Paolo-Giustiniani.jpg"
+summary: >-
+  Born to the Venetian nobility, the son of Francesco Giustiniani and Paola Malipiero. Studied theology and philosophy
+  at the University of Padua. Pilgrim to the Holy Lands in 1507 which left with a desire for the religious life. He
+  joined the Camaldolese hermits in 1510 and became
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Paolo-Giustiniani.jpg
 birthYear: 1476
 deathYear: 1528
-born: "15 June 1476 in Venice, Italy"
-died: "25 June 1528 in the hermitage of San Silvestro de Monte Soratte, Rome, Italy of natural causes"
-birthPlace: "Italy"
-deathPlace: "Rome, Italynatural causes"
-region: "France"
+born: 15 June 1476 in Venice, Italy
+died: 25 June 1528 in the hermitage of San Silvestro de Monte Soratte, Rome, Italy of natural causes
+birthPlace: Italy
+deathPlace: Rome, Italynatural causes
+region: France
 feastDay:
   month: 6
   day: 25
@@ -18,8 +21,9 @@ vocation:
   - Priest
   - Hermit
 patronage:
-  - "Society of Saint Romuald"
+  - Society of Saint Romuald
 martyr: false
+prayers: []
 ---
 
 Born to the Venetian nobility, the son of Francesco Giustiniani and Paola Malipiero. Studied theology and philosophy at the University of Padua. Pilgrim to the Holy Lands in 1507 which left with a desire for the religious life. He joined the Camaldolese hermits in 1510 and became a travelling reformer, going from one hermitage to another to help them returned to proper Camaldolese discipline and teaching. Part of the general chapter of 1513 that helped unify and regularize the conventual and hermitic sections of the Camaldolese. Prior of the hermitage in Camaldoli, Italy from 1516 to 1520. Ordained a priest in 1518.

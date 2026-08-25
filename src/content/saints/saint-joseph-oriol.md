@@ -28,6 +28,7 @@ vocation:
   - Missionary
   - Confessor
 martyr: true
+prayers: []
 ---
 
 Born poor. Studied at the University of Barcelona. Awarded a doctorate of theology on 1 August 1674. Ordained 30 May 1676. Pilgrim to Rome, Italy in 1686. Pope Innocent XI granted him a benefice at Santa Maria del Pino (Our Lady of the Pines), Barcelona, Spain, a parish he served for the rest of his life.

@@ -1,13 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Dasius of Nicomedia"
+name: Saint Dasius of Nicomedia
 honorific: Saint
-summary: "One of a group of 15 Christian soldiers who were tortured and martyred in the persecutions of Diocletian."
+summary: One of a group of 15 Christian soldiers who were tortured and martyred in the persecutions of Diocletian.
 searchAliases:
-  - "Dasio"
+  - Dasio
 deathYear: 303
-died: "thrown from a boat to drown at sea c.303 at the imperial residence at Nicomedia on the Black Sea"
-region: "England"
+died: thrown from a boat to drown at sea c.303 at the imperial residence at Nicomedia on the Black Sea
+region: England
 feastDay:
   month: 10
   day: 21
@@ -16,6 +16,7 @@ vocation:
   - Monk
   - Soldier
 martyr: true
+prayers: []
 ---
 
 One of a group of 15 Christian soldiers who were tortured and martyred in the persecutions of Diocletian.

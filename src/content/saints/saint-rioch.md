@@ -1,11 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Rioch"
+name: Saint Rioch
 honorific: Saint
-summary: "Nephew of Saint Patrick who consecrated him as a travelling, missionary bishop. Worn from his travels, he retired to live as a monk and then abbot of the monastery Inishboffin, Ireland."
+summary: >-
+  Nephew of Saint Patrick who consecrated him as a travelling, missionary bishop. Worn from his travels, he retired to
+  live as a monk and then abbot of the monastery Inishboffin, Ireland.
 deathYear: 480
-died: "c.480"
-region: "Ireland"
+died: c.480
+region: Ireland
 feastDay:
   month: 8
   day: 1
@@ -15,6 +17,7 @@ vocation:
   - Monk
   - Missionary
 martyr: false
+prayers: []
 ---
 
 Nephew of Saint Patrick who consecrated him as a travelling, missionary bishop. Worn from his travels, he retired to live as a monk and then abbot of the monastery Inishboffin, Ireland.

@@ -1,12 +1,12 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Rufus"
+name: Saint Rufus
 honorific: Saint
-summary: "Martyred with his entire household in the persecutions of Diocletian. No other information has survived."
+summary: Martyred with his entire household in the persecutions of Diocletian. No other information has survived.
 deathYear: 304
-born: "imperial Roman citizen"
-died: "304"
-region: "England"
+born: imperial Roman citizen
+died: '304'
+region: England
 feastDay:
   month: 11
   day: 28
@@ -14,6 +14,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Martyred with his entire household in the persecutions of Diocletian. No other information has survived.

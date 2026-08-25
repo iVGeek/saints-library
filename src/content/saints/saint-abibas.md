@@ -21,6 +21,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/d/d3/St-stephen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Abibas
 imageCreditUrl: https://en.wikipedia.org/wiki/Saint%20Stephen
+prayers: []
 ---
 
 Born Jewish, the second son of Gamaliel, a member of the Sanhedrin, and a teacher of Saint Paul the Apostle. Convert to Christianity.

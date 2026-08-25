@@ -24,6 +24,7 @@ vocation:
 patronage:
   - Bavarian Congregation
 martyr: false
+prayers: []
 ---
 
 Son of Gerolamo Ferretti and Caterina Solazzi, local nobles, the family's ninth child. Frail, intelligent and pious boy who suffered from epilepsy when young. Educated at the Piarist College, Volterra, Italy from 1802 to 1809. Studied in Rome from 1809 to 1810 due to political disturbances in the city. He returned in 1814 and asked for admission to the Papal Noble Guard, but was turned down due to his epilepsy. Studied theology at the Roman Seminary from 1814 to 1818, during which his epilepsy disappeared. Ordained on 10 April 1819 in Rome. Spiritual director of the orphan asylum of Tata Giovanni, Rome. Auditor of the apostolic delegation to Chile from 1823 to 1825. Canon of San Maria in Via Lata, Rome. Director of San Michele hospital in Rome. Chosen archbishop of Spoleto, Italy on 21 May 1827. Named assistant at the Pontifical Throne on 1 June 1827. Archbishop of Imola, Italy on 17 December 1832. Created cardinal on 23 December 1839 by Pope Gregory XVI. Chosen 255th pope in the conclave of 1846.

@@ -1,24 +1,28 @@
 ---
 image: /placeholder-saint.svg
-name: "Venerable Odette Vidal de Oliveira"
+name: Venerable Odette Vidal de Oliveira
 honorific: Venerable
-summary: "Born to a wealthy family; she encouraged all members of her family and their staff to give to the poor. From age 4 she began having visions of Jesus."
+summary: >-
+  Born to a wealthy family; she encouraged all members of her family and their staff to give to the poor. From age 4 she
+  began having visions of Jesus.
 searchAliases:
-  - "Odetinha"
+  - Odetinha
 birthYear: 1930
 deathYear: 1939
-born: "15 September 1930 in Rio de Janeiro, Brazil"
-died: "25 November 1939 of meningitis in Rio de Janeiro, Brazil"
-birthPlace: "Brazil"
-deathPlace: "Brazil"
-region: "England"
+born: 15 September 1930 in Rio de Janeiro, Brazil
+died: 25 November 1939 of meningitis in Rio de Janeiro, Brazil
+birthPlace: Brazil
+deathPlace: Brazil
+region: England
 feastDay:
   month: 1
   day: 1
-centuries: [20]
+centuries:
+  - 20
 canonizationStatus: Venerable
 vocation: []
 martyr: false
+prayers: []
 ---
 
 Born to a wealthy family; she encouraged all members of her family and their staff to give to the poor. From age 4 she began having visions of Jesus.

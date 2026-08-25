@@ -12,6 +12,7 @@ vocation:
   - Priest
   - Monk
 martyr: true
+prayers: []
 ---
 
 Early martyr venerated in England. No other information has survived.

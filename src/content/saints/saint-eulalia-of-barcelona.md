@@ -51,6 +51,7 @@ patronage:
   - Barcelona, Spain
   - Barcelona cathedral
 martyr: true
+prayers: []
 ---
 
 Sanctified virgin, the forerunner of professed nun. Martyred at age 13 or 14 in the persecutions of Diocletian. Often confused with Saint Eulalia of Merida. Several villages in Guienne and Languedoc are named for her.

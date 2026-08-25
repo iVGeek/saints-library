@@ -25,6 +25,7 @@ vocation:
   - Priest
   - Monk
 martyr: false
+prayers: []
 ---
 
 Monk at the monastery of Saccudion, Asia Minor in 781. Ordained c.787. Abbot of the Saccudion monastery in 794. Abbot of the Stoudios monastery outside Constantinople in 799, which caused him to be the spiritual teacher of many wise and holy men. His writings include the first recorded stand against slavery. Fought iconoclasm. These opinions and writings put him in conflict with imperial authorities, which led to him being exiled three times.

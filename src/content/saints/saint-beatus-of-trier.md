@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Beatus of Trier"
+name: Saint Beatus of Trier
 honorific: Saint
-summary: "Sixth century priest and hermit."
+summary: Sixth century priest and hermit.
 searchAliases:
-  - "Béat"
-region: "Italy"
+  - Béat
+region: Italy
 feastDay:
   month: 7
   day: 25
@@ -14,6 +14,7 @@ vocation:
   - Priest
   - Hermit
 martyr: false
+prayers: []
 ---
 
 Sixth century priest and hermit.

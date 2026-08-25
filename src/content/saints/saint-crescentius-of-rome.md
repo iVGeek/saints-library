@@ -19,6 +19,7 @@ vocation:
 patronage:
   - Perugia, Italy
 martyr: true
+prayers: []
 ---
 
 Son of Saint Euthymius. At age 11, during the persecutions of Diocletian, he was arrested, tortured and martyred for the crime of being Christian.

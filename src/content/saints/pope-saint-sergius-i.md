@@ -20,6 +20,7 @@ canonizationStatus: Saint
 vocation:
   - Deacon
 martyr: false
+prayers: []
 ---
 
 Son of Syrian immigrants. Educated at Palermo, Italy. Ordained in Rome, Italy. Canon regular of Saint John Lateran. First named cardinal–priest of Saint Susanna by Pope Leo II. Elected pope on 15 December 687, chosen over the priest Theodore and the archdeacon Paschal who was later found to be dabbling in magic and stripped of his position.

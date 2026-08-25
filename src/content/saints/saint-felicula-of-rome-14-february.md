@@ -1,17 +1,18 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Felicula of Rome"
+name: Saint Felicula of Rome
 honorific: Saint
-summary: "Martyr. No other information has survived."
-died: "Rome, Italy"
-deathPlace: "Italy"
-region: "Italy"
+summary: Martyr. No other information has survived.
+died: Rome, Italy
+deathPlace: Italy
+region: Italy
 feastDay:
   month: 2
   day: 14
 canonizationStatus: Saint
 vocation: []
 martyr: true
+prayers: []
 ---
 
 Martyr. No other information has survived.

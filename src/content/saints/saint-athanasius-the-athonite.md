@@ -1,16 +1,19 @@
 ---
-name: "Saint Athanasius the Athonite"
+name: Saint Athanasius the Athonite
 honorific: Saint
-summary: "Studied at Constantinople. Monk at Saint Michael's monastery, Kymina, Bithynia, taking the name Athanasius. Fearing that the was going to be chosen abbot, Athanasius fled to Karyes, changed his name, claimed to be illiterate, and hid in his cell. Hermit in a cave at Mount Athos,"
-image: "https://upload.wikimedia.org/wikipedia/commons/7/77/Athanasios.jpg"
+summary: >-
+  Studied at Constantinople. Monk at Saint Michael's monastery, Kymina, Bithynia, taking the name Athanasius. Fearing
+  that the was going to be chosen abbot, Athanasius fled to Karyes, changed his name, claimed to be illiterate, and hid
+  in his cell. Hermit in a cave at Mount Athos,
+image: https://upload.wikimedia.org/wikipedia/commons/7/77/Athanasios.jpg
 searchAliases:
-  - "Atanasio"
-  - "Abraham"
+  - Atanasio
+  - Abraham
 birthYear: 920
 deathYear: 1003
-born: "c.920 at Trebizond as Abraham"
-died: "c.1003 when the arch of a church under construction fell on him and five of his monks"
-region: "Greece"
+born: c.920 at Trebizond as Abraham
+died: c.1003 when the arch of a church under construction fell on him and five of his monks
+region: Greece
 feastDay:
   month: 7
   day: 5
@@ -19,6 +22,7 @@ vocation:
   - Monk
   - Hermit
 martyr: false
+prayers: []
 ---
 
 Studied at Constantinople. Monk at Saint Michael's monastery, Kymina, Bithynia, taking the name Athanasius. Fearing that the was going to be chosen abbot, Athanasius fled to Karyes, changed his name, claimed to be illiterate, and hid in his cell. Hermit in a cave at Mount Athos, Greece in 958.

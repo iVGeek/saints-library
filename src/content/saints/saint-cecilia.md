@@ -34,6 +34,7 @@ symbols:
   - roses
 martyr: true
 lifeEvents: []
+prayers: []
 ---
 
 Cultivated young patrician woman whose ancestors loomed large in Rome’s history. She vowed her virginity to God, but her parents married her to Valerian of Trastevere. Cecilia told her new husband that she was accompanied by an angel, but in order to see it, he must be purified. He agreed to the purification, and was baptised; returning from the ceremony, he found her in prayer accompanied by a praying angel. The angel placed a crown on each of their heads, and offered Valerian a favor; the new convert asked that his brother be baptised. The two brothers developed a ministry of giving proper burial to martyred Christians. In their turn they were arrested and martyred for their faith. Cecilia buried them at her villa on the Apprian Way, and was arrested for the action. She was ordered to sacrifice to false gods; when she refused, she was martyred in her turn. The Acta of Cecilia includes the following: “While the profane music of her wedding was heard, Cecilia was singing in her heart a hymn of love for Jesus, her true spouse.” It was this phrase that led to her association with music, singers, musicians, etc.

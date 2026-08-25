@@ -1,15 +1,18 @@
 ---
-name: "Blessed Thomas Felton"
+name: Blessed Thomas Felton
 honorific: Blessed
-summary: "Son of Blessed John Felton, Thomas was about 4 years old when his father was martyred. In his youth, he served as a page to one Lady Lovett. Feeling a call to the priesthood, in 1583 Thomas began studying at the English College in Rheims, France. While still a seminarian, he join"
-image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Thomas-Felton.jpg"
+summary: >-
+  Son of Blessed John Felton, Thomas was about 4 years old when his father was martyred. In his youth, he served as a
+  page to one Lady Lovett. Feeling a call to the priesthood, in 1583 Thomas began studying at the English College in
+  Rheims, France. While still a seminarian, he join
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Thomas-Felton.jpg
 birthYear: 1567
 deathYear: 1588
-born: "c.1567 in Bermondsey, London, England"
-died: "hanged on 28 August 1588 in Isleworth, London, England"
-birthPlace: "London, England"
-deathPlace: "London, England"
-region: "France"
+born: c.1567 in Bermondsey, London, England
+died: hanged on 28 August 1588 in Isleworth, London, England
+birthPlace: London, England
+deathPlace: London, England
+region: France
 feastDay:
   month: 8
   day: 28
@@ -17,6 +20,7 @@ canonizationStatus: Blessed
 vocation:
   - Priest
 martyr: true
+prayers: []
 ---
 
 Son of Blessed John Felton, Thomas was about 4 years old when his father was martyred. In his youth, he served as a page to one Lady Lovett. Feeling a call to the priesthood, in 1583 Thomas began studying at the English College in Rheims, France. While still a seminarian, he joined the Order of Minims, but their severe austerity ruined his health, and he left his studies to return to England.

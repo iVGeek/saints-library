@@ -21,6 +21,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/46/Ayne_Bru_-_Saint_Candidus_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Martyrs of Upper Egypt
 imageCreditUrl: https://en.wikipedia.org/wiki/Saint%20Candidus
+prayers: []
 ---
 
 There were many martyrs who suffered in the persecutions of Diocletian in the Thebaid region. Though we know these atrocities occurred, to the point that witnesses claim the torturers and executioners were exhausted by the work, we do not know the names of the saints, and we honour them as a group.

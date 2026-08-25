@@ -23,6 +23,7 @@ imageAlt: Portrait of Saint Benedicta of Rome
 imageCredit: <span class="int-own-work" lang="en">Own work</span>
 imageCreditUrl: >-
   https://commons.wikimedia.org/wiki/File:Prague-Smichov-St%20Gabriel%20Church-Saint%20Benedict%20and%20Saint%20Scholastica%201.jpg
+prayers: []
 ---
 
 Nun. Martyred in the persecutions of Julian the Apostate.

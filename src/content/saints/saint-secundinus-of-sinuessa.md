@@ -1,12 +1,12 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Secundinus of Sinuessa"
+name: Saint Secundinus of Sinuessa
 honorific: Saint
-summary: "Bishop in Sinuessa, Campania, Italy, a town since destroyed by earthquake. Martyr."
+summary: Bishop in Sinuessa, Campania, Italy, a town since destroyed by earthquake. Martyr.
 deathYear: 305
-died: "305 in Sinuessa, Campania, Italy"
-deathPlace: "Campania, Italy"
-region: "Italy"
+died: 305 in Sinuessa, Campania, Italy
+deathPlace: Campania, Italy
+region: Italy
 feastDay:
   month: 7
   day: 1
@@ -15,6 +15,7 @@ vocation:
   - Bishop
   - Monk
 martyr: true
+prayers: []
 ---
 
 Bishop in Sinuessa, Campania, Italy, a town since destroyed by earthquake. Martyr.

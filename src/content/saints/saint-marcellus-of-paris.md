@@ -15,6 +15,7 @@ image: >-
 vocation:
   - Bishop
 martyr: false
+prayers: []
 ---
 
 Bishop of Paris, France.

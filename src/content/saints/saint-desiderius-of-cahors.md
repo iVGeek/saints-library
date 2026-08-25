@@ -25,6 +25,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/1/11/Petrus_Christus_003.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Desiderius of Cahors
 imageCreditUrl: https://en.wikipedia.org/wiki/Saint%20Eligius
+prayers: []
 ---
 
 Born to the Gallo-Roman nobility, the son of Salvius and Herchenfreda; brother of Saint Rusticus. Educated in the court of King Clotaire II. Studied canon law. Royal treasurer to Clotaire II and Dagobert I. Bishop of Cahors, France from 630 to 655. Great supporter of monastic life for both men and women in his diocese, and of church construction.

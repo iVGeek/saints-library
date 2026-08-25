@@ -1,20 +1,22 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Mitrius"
+name: Saint Mitrius
 honorific: Saint
-summary: "Slave in Aix-en-Provence, France. Routinely abused by his master and even his fellow slaves for being a Christian. Martyr."
+summary: >-
+  Slave in Aix-en-Provence, France. Routinely abused by his master and even his fellow slaves for being a Christian.
+  Martyr.
 searchAliases:
-  - "Matrius"
-  - "Merre"
-  - "Metre"
-  - "Mitre"
-  - "Mitrio"
-  - "Mitria"
+  - Matrius
+  - Merre
+  - Metre
+  - Mitre
+  - Mitrio
+  - Mitria
 deathYear: 314
-born: "Greece"
-died: "beheaded in 314 in Aix-en-Provence, France"
-deathPlace: "France"
-region: "France"
+born: Greece
+died: beheaded in 314 in Aix-en-Provence, France
+deathPlace: France
+region: France
 feastDay:
   month: 11
   day: 13
@@ -23,8 +25,9 @@ vocation:
   - Priest
   - Monk
 patronage:
-  - "Aix-en-Provence, France"
+  - Aix-en-Provence, France
 martyr: true
+prayers: []
 ---
 
 Slave in Aix-en-Provence, France. Routinely abused by his master and even his fellow slaves for being a Christian. Martyr.

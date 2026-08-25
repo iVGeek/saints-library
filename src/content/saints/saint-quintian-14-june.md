@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Quintian of Rhodez"
+name: Saint Quintian of Rhodez
 honorific: Saint
-summary: "Bishop of Rhodez, France."
+summary: Bishop of Rhodez, France.
 searchAliases:
-  - "Quinctian"
-region: "France"
+  - Quinctian
+region: France
 feastDay:
   month: 6
   day: 14
@@ -14,6 +14,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Bishop of Rhodez, France.

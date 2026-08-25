@@ -22,6 +22,7 @@ canonizationStatus: Venerable
 vocation:
   - Priest
 martyr: false
+prayers: []
 ---
 
 One of five children born to Camillo and Louise; his father owned of several chemical plants, and the family was considered upper middle class. Marcello earned a doctorate in chemistry in 1939, a pharmacist degree in 1943, served as physician to lepers in Brazil where he lived in the camps with his patients.

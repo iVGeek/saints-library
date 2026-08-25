@@ -1,9 +1,12 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Philip of Palermo"
+name: Saint Philip of Palermo
 honorific: Saint
-summary: "A wealthy couple of the Settimi family of Palermo, Italy had finally accepted that they were not going to have children. The man made a pilgrimage to ask Saint Philip of Agira what he should do with his estate when he died. Philip told him to hold onto it as the prayers of the co"
-region: "Italy"
+summary: >-
+  A wealthy couple of the Settimi family of Palermo, Italy had finally accepted that they were not going to have
+  children. The man made a pilgrimage to ask Saint Philip of Agira what he should do with his estate when he died.
+  Philip told him to hold onto it as the prayers of the co
+region: Italy
 feastDay:
   month: 5
   day: 12
@@ -12,6 +15,7 @@ vocation:
   - Deacon
   - Cardinal
 martyr: false
+prayers: []
 ---
 
 A wealthy couple of the Settimi family of Palermo, Italy had finally accepted that they were not going to have children. The man made a pilgrimage to ask Saint Philip of Agira what he should do with his estate when he died. Philip told him to hold onto it as the prayers of the couple were answered, and he would soon have a son. When the boy was born, the happy couple named him Philip in gratitude.

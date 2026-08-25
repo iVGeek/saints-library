@@ -25,6 +25,7 @@ patronage:
   - —
   - Albanella, Italy
 martyr: true
+prayers: []
 ---
 
 Young woman martyred in the persecutions of Diocletian.

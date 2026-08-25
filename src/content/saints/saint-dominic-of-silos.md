@@ -36,6 +36,7 @@ patronage:
   - prisoners
   - shepherds
 martyr: false
+prayers: []
 ---
 
 Born to a peasant family, he worked as a shepherd in his youth. Benedictine monk at San Mill&aacute;n de Cogolla monastery. Priest. Novice master. Prior of the house. Ordered by King Garcia III of Navarre to give him the monastery's lands, Dominic refused, and with two of his brother monks was driven from the house by force.

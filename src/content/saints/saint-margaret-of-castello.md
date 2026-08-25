@@ -35,6 +35,7 @@ patronage:
   - physically challenged people
   - Right To Life groups
 martyr: false
+prayers: []
 ---
 
 Born a blind, lame, deformed, hunchback midget. When she was six years old, her noble parents walled her up beside a chapel; she could not get out, but could attend Mass and receive the Sacraments. After 14 years of imprisonment, her parents took her to a shrine to pray for a cure. When none occurred, they abandoned her. She became a lay Dominican, and spent her life in prayer and charity. When she died, the townspeople thronged her funeral, and demanded she be buried in a tomb inside the church. The priest protested, but a crippled girl was miraculously cured at the funeral, and he consented.

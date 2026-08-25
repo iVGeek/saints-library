@@ -22,6 +22,7 @@ vocation:
   - Religious
   - Missionary
 martyr: false
+prayers: []
 ---
 
 Founded the Pequenas Missionárias de Maria Imaculada (Little Missionary Sisters of Mary Immaculate).

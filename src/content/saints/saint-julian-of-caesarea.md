@@ -1,12 +1,14 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Julian of Caesarea"
+name: Saint Julian of Caesarea
 honorific: Saint
-summary: "Catechumen at Caesarea, Palestine. Arrested for venerating the martyred Saint Elias and companions. Martyred by order of Firmilian, governor of Palestine."
+summary: >-
+  Catechumen at Caesarea, Palestine. Arrested for venerating the martyred Saint Elias and companions. Martyred by order
+  of Firmilian, governor of Palestine.
 deathYear: 309
-died: "burned to death in 309 at Caesarea, Palestine"
-deathPlace: "Palestine"
-region: "Holy Land"
+died: burned to death in 309 at Caesarea, Palestine
+deathPlace: Palestine
+region: Holy Land
 feastDay:
   month: 2
   day: 17
@@ -15,6 +17,7 @@ vocation:
   - Priest
   - Monk
 martyr: true
+prayers: []
 ---
 
 Catechumen at Caesarea, Palestine. Arrested for venerating the martyred Saint Elias and companions. Martyred by order of Firmilian, governor of Palestine.

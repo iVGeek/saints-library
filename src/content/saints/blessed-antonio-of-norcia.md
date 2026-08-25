@@ -1,19 +1,20 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Antonio of Norcia"
+name: Blessed Antonio of Norcia
 honorific: Blessed
-summary: "Lay Franciscan."
+summary: Lay Franciscan.
 deathYear: 1310
-died: "c.1310 in Norcia, Italy of natural causes"
-deathPlace: "Italynatural causes"
-region: "Italy"
+died: c.1310 in Norcia, Italy of natural causes
+deathPlace: Italynatural causes
+region: Italy
 feastDay:
   month: 5
   day: 10
 canonizationStatus: Blessed
 vocation: []
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 martyr: false
+prayers: []
 ---
 
 Lay Franciscan.

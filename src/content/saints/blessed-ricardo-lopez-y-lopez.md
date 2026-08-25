@@ -1,23 +1,24 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Ricardo López y López"
+name: Blessed Ricardo López y López
 honorific: Blessed
-summary: "Dominican friar. Martyred in the Spanish Civil War."
+summary: Dominican friar. Martyred in the Spanish Civil War.
 birthYear: 1914
 deathYear: 1936
-born: "13 January 1914 in Olmos de Atapuerca, Burgos, Spain"
-died: "8 August 1936 in Manzanares, Ciudad Real, Spain"
-birthPlace: "Burgos, Spain"
-deathPlace: "Ciudad Real, Spain"
-region: "Spain"
+born: 13 January 1914 in Olmos de Atapuerca, Burgos, Spain
+died: 8 August 1936 in Manzanares, Ciudad Real, Spain
+birthPlace: Burgos, Spain
+deathPlace: Ciudad Real, Spain
+region: Spain
 feastDay:
   month: 8
   day: 8
 canonizationStatus: Blessed
 vocation:
   - Cardinal
-religiousOrder: "Dominican"
+religiousOrder: Dominican
 martyr: true
+prayers: []
 ---
 
 Dominican friar. Martyred in the Spanish Civil War.

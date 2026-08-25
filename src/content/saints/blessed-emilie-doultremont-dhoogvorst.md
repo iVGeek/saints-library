@@ -1,28 +1,32 @@
 ---
-name: "Blessed Émilie d'Oultremont d'Hoogvorst"
+name: Blessed Émilie d'Oultremont d'Hoogvorst
 honorific: Blessed
-summary: "Born to the nobility, the daughter of Count d'Emile Oultremont de Wégimont a de Warfusée, a diplomat who represented King Leopold I to the Vatican. From childhood Émilie had a great devotion to the Eucharist and the Sacred Heart of Jesus; she later developed a great admiration of"
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Émilie-dOultremont-dHoogvorst.jpg"
+summary: >-
+  Born to the nobility, the daughter of Count d'Emile Oultremont de Wégimont a de Warfusée, a diplomat who represented
+  King Leopold I to the Vatican. From childhood Émilie had a great devotion to the Eucharist and the Sacred Heart of
+  Jesus; she later developed a great admiration of
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Émilie-dOultremont-dHoogvorst.jpg
 searchAliases:
-  - "Émilie d'Oultremont van der Linden d'Hooghvorst"
-  - "Marie of Jesus"
-  - "Mary of Jesus"
-  - "Maria di Gesù d’Oultremont"
+  - Émilie d'Oultremont van der Linden d'Hooghvorst
+  - Marie of Jesus
+  - Mary of Jesus
+  - Maria di Gesù d’Oultremont
 birthYear: 1818
 deathYear: 1878
-born: "11 October 1818 in Wegimont  near Liège, Belgium"
-died: "22 February 1878 at the home of her son Adrien in Florence, Italy of natural causes"
-birthPlace: "Belgium"
-deathPlace: "Italynatural causes"
-region: "India"
+born: 11 October 1818 in Wegimont  near Liège, Belgium
+died: 22 February 1878 at the home of her son Adrien in Florence, Italy of natural causes
+birthPlace: Belgium
+deathPlace: Italynatural causes
+region: India
 feastDay:
   month: 2
   day: 22
 canonizationStatus: Blessed
 vocation:
   - Religious
-religiousOrder: "Jesuit"
+religiousOrder: Jesuit
 martyr: false
+prayers: []
 ---
 
 Born to the nobility, the daughter of Count d'Emile Oultremont de Wégimont a de Warfusée, a diplomat who represented King Leopold I to the Vatican. From childhood Émilie had a great devotion to the Eucharist and the Sacred Heart of Jesus; she later developed a great admiration of Saint Ignatius of Loyola. Married to Victor van der Linden, Baron d'Hooghvorst in 1837. Mother of two boys and two girls. She sought out Jesuits for spiritual guidance. Widowed in 1847. When her sons entered college in France, she decided to move, too.

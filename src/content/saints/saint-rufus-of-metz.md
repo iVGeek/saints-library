@@ -1,13 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Rufus of Metz"
+name: Saint Rufus of Metz
 honorific: Saint
-summary: "4th century bishop of Metz, France, serving for 29 years."
+summary: 4th century bishop of Metz, France, serving for 29 years.
 searchAliases:
-  - "Rufo"
+  - Rufo
 deathYear: 400
-died: "c.400"
-region: "France"
+died: c.400
+region: France
 feastDay:
   month: 11
   day: 7
@@ -16,6 +16,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 4th century bishop of Metz, France, serving for 29 years.

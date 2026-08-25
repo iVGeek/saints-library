@@ -20,6 +20,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/f/f7/Bologna_Italy_San_Petronio_from_Asinelli.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Felix of Bologna
 imageCreditUrl: https://en.wikipedia.org/wiki/San%20Petronio%2C%20Bologna
+prayers: []
 ---
 
 Spiritual student of and deacon for Saint Ambrose of Milan. Bishop of Bologna, Italy c.397.

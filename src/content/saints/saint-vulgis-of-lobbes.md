@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Vulgis of Lobbes"
+name: Saint Vulgis of Lobbes
 honorific: Saint
-summary: "Benedictine monk. Abbot of Lobbes Abbey, Belgium. Bishop in the Hainault region of Belgium."
+summary: Benedictine monk. Abbot of Lobbes Abbey, Belgium. Bishop in the Hainault region of Belgium.
 deathYear: 760
-died: "c.760 of natural causes"
-region: "Belgium"
+died: c.760 of natural causes
+region: Belgium
 feastDay:
   month: 2
   day: 4
@@ -13,8 +13,9 @@ canonizationStatus: Saint
 vocation:
   - Bishop
   - Monk
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 martyr: false
+prayers: []
 ---
 
 Benedictine monk. Abbot of Lobbes Abbey, Belgium. Bishop in the Hainault region of Belgium.

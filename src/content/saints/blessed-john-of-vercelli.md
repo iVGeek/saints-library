@@ -1,18 +1,18 @@
 ---
-name: "Blessed John of Vercelli"
+name: Blessed John of Vercelli
 honorific: Blessed
-summary: " Dominican Friar, joining in Vercelli, and receiving the habit from Blessed Jordan of Saxony, whose preaching had brought him to the O Studied at the University of Paris. Doctor of civil and canon law. Taught law at Paris and Vercelli, Italy. Helped found a university in Vercelli."
-image: "https://upload.wikimedia.org/wikipedia/commons/8/8a/Blessed_john_of_vercelli.png"
+summary: ' Dominican Friar, joining in Vercelli, and receiving the habit from Blessed Jordan of Saxony, whose preaching had brought him to the O Studied at the University of Paris. Doctor of civil and canon law. Taught law at Paris and Vercelli, Italy. Helped found a university in Vercelli.'
+image: https://upload.wikimedia.org/wikipedia/commons/8/8a/Blessed_john_of_vercelli.png
 searchAliases:
-  - "John Garbella"
-  - "Giovanni Garbella da Vercelli"
+  - John Garbella
+  - Giovanni Garbella da Vercelli
 birthYear: 1205
 deathYear: 1283
-born: "1205 at Mosso Santa Maria, Italy as John Garbella"
-died: "30 November 1283 at Montpelier, France of natural causes"
-birthPlace: "Italy as John Garbella"
-deathPlace: "Francenatural causes"
-region: "France"
+born: 1205 at Mosso Santa Maria, Italy as John Garbella
+died: 30 November 1283 at Montpelier, France of natural causes
+birthPlace: Italy as John Garbella
+deathPlace: Francenatural causes
+region: France
 feastDay:
   month: 11
   day: 30
@@ -20,10 +20,11 @@ canonizationStatus: Blessed
 vocation:
   - Bishop
   - Priest
-religiousOrder: "Dominican"
+religiousOrder: Dominican
 patronage:
-  - "Holy Name Society"
+  - Holy Name Society
 martyr: false
+prayers: []
 ---
 
 Studied at the University of Paris. Doctor of civil and canon law. Taught law at Paris and Vercelli, Italy. Helped found a university in Vercelli.

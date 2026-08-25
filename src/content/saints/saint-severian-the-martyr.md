@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Severian the Martyr"
+name: Saint Severian the Martyr
 honorific: Saint
-summary: "Married to Saint Aquila. Martyr."
-died: "in Julia Caesarea, Mauritania, North Africa"
-deathPlace: "Mauritania, North Africa"
-region: "England"
+summary: Married to Saint Aquila. Martyr.
+died: in Julia Caesarea, Mauritania, North Africa
+deathPlace: Mauritania, North Africa
+region: England
 feastDay:
   month: 1
   day: 23
@@ -13,6 +13,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Married to Saint Aquila. Martyr.

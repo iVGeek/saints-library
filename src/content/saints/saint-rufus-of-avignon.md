@@ -1,9 +1,9 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Rufus of Avignon"
+name: Saint Rufus of Avignon
 honorific: Saint
-summary: "First bishop of Avignon, France."
-region: "France"
+summary: First bishop of Avignon, France.
+region: France
 feastDay:
   month: 11
   day: 12
@@ -12,6 +12,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 First bishop of Avignon, France.

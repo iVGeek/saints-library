@@ -1,11 +1,11 @@
 ---
-name: "Saint Mamertinus of Auxerre"
+name: Saint Mamertinus of Auxerre
 honorific: Saint
-summary: "Monk and then abbot at the Saints Cosmas and Damian Abbey in Auxerre, France."
-image: "https://upload.wikimedia.org/wikipedia/commons/0/0d/Saint_mamertinus.jpg"
+summary: Monk and then abbot at the Saints Cosmas and Damian Abbey in Auxerre, France.
+image: https://upload.wikimedia.org/wikipedia/commons/0/0d/Saint_mamertinus.jpg
 deathYear: 462
-died: "c.462"
-region: "France"
+died: c.462
+region: France
 feastDay:
   month: 3
   day: 30
@@ -13,8 +13,9 @@ canonizationStatus: Saint
 vocation:
   - Monk
 patronage:
-  - "Auxerre, France"
+  - Auxerre, France
 martyr: false
+prayers: []
 ---
 
 Monk and then abbot at the Saints Cosmas and Damian Abbey in Auxerre, France.

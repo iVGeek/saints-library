@@ -23,6 +23,7 @@ imageCredit: >-
   <a rel="nofollow" class="external free"
   href="https://books.google.com/books?id=_Rw6AAAAcAAJ">https://books.google.com/books?id=_Rw6AAAAcAAJ</a>
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:Saint-Martin%20-%20Po%C3%A9sies%2C%201860.djvu
+prayers: []
 ---
 
 Martyred in the persecutions of Diocletian.

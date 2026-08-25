@@ -26,6 +26,7 @@ vocation:
   - Confessor
 religiousOrder: Benedictine
 martyr: false
+prayers: []
 ---
 
 Son of Polichronius, but little else is known of his early life. Deacon. Advisor to Pope Gregory III. 91st pope. First pope after Saint Gregory the Great to not seek imperial confirmation on his election. Negotiated peace between the Lombards and Greek empire. Restored the Lateran palace and many churches around Rome. Encourged the missionary work of Saint Boniface, and appointed Saint Abel as archbishop of Rheims, France. When Venetian slavers bought slaves at Rome to sell to Saracens in Africa, Zachary bought them all so that Christians should not become the property of heathens. Translated the Dialogues of Gregory the Great into Greek. Many of his actions among the royal powers of the day continued to echo for centuries.

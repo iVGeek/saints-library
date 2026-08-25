@@ -1,24 +1,25 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Willeic"
+name: Saint Willeic
 honorific: Saint
-summary: "Benedictine monk. Spiritual student of Saint Swithbert. Prior and then abbot of the abbey of Kaiserwerth, Germany."
+summary: Benedictine monk. Spiritual student of Saint Swithbert. Prior and then abbot of the abbey of Kaiserwerth, Germany.
 searchAliases:
-  - "Velleicus"
-  - "Willaik"
-  - "Willeicus"
+  - Velleicus
+  - Willaik
+  - Willeicus
 deathYear: 726
-born: "in England"
-died: "726 of natural causes"
-region: "Germany"
+born: in England
+died: 726 of natural causes
+region: Germany
 feastDay:
   month: 3
   day: 2
 canonizationStatus: Saint
 vocation:
   - Monk
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 martyr: false
+prayers: []
 ---
 
 Benedictine monk. Spiritual student of Saint Swithbert. Prior and then abbot of the abbey of Kaiserwerth, Germany.

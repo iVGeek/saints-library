@@ -21,6 +21,7 @@ vocation:
   - Priest
   - Cardinal
 martyr: true
+prayers: []
 ---
 
 Priest in the diocese of Córdoba, Spain, serving as assistant pastor in the Hinojosa community. Martyred in the Spanish Civil War.

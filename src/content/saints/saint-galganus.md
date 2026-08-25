@@ -1,18 +1,18 @@
 ---
-name: "Saint Galganus"
+name: Saint Galganus
 honorific: Saint
-summary: " Legend says his conversion wa Galgano led a worldly life in his youth, but converted and became a hermit on Monte Siepe in Tuscany, Italy. A church built on the site of his hermitage in 1196 was turned over to the Cistercians in 1201, and they claimed Galgano as one of their own."
-image: "http://catholicsaints.info/wp-content/gallery/saint-galganus/sword-of-saint-galgano.jpg"
+summary: ' Legend says his conversion wa Galgano led a worldly life in his youth, but converted and became a hermit on Monte Siepe in Tuscany, Italy. A church built on the site of his hermitage in 1196 was turned over to the Cistercians in 1201, and they claimed Galgano as one of their own.'
+image: http://catholicsaints.info/wp-content/gallery/saint-galganus/sword-of-saint-galgano.jpg
 searchAliases:
-  - "Galgano"
-  - "Galgano Guidotti"
+  - Galgano
+  - Galgano Guidotti
 birthYear: 1148
 deathYear: 1181
-born: "1148 at Chiusdino, Siena, Italy as Galgano Guidotti"
-died: "1181 at Monte Siepe, Tuscany, Italy"
-birthPlace: "Siena, Italy as Galgano Guidotti"
-deathPlace: "Tuscany, Italy"
-region: "Italy"
+born: 1148 at Chiusdino, Siena, Italy as Galgano Guidotti
+died: 1181 at Monte Siepe, Tuscany, Italy
+birthPlace: Siena, Italy as Galgano Guidotti
+deathPlace: Tuscany, Italy
+region: Italy
 feastDay:
   month: 11
   day: 30
@@ -21,8 +21,9 @@ vocation:
   - Monk
   - Hermit
 patronage:
-  - "Chiusdino, Italy"
+  - Chiusdino, Italy
 martyr: false
+prayers: []
 ---
 
 Galgano led a worldly life in his youth, but converted and became a hermit on Monte Siepe in Tuscany, Italy. A church built on the site of his hermitage in 1196 was turned over to the Cistercians in 1201, and they claimed Galgano as one of their own.

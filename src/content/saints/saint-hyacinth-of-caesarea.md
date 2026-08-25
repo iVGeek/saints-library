@@ -16,6 +16,7 @@ image: https://commons.wikimedia.org/wiki/Special:FilePath/Kloster_F%25C3%25BCrs
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Chamberlain to the emperor Trajan at Caesarea, Cappadocia. Imprisoned for his faith, his only food was meat that had been offered to idols; he starved rather than touch it. Martyr.

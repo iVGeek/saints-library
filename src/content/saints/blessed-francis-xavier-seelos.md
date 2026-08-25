@@ -1,19 +1,22 @@
 ---
-name: "Blessed Francis Xavier Seelos"
+name: Blessed Francis Xavier Seelos
 honorific: Blessed
-summary: "One of twelve children born to Mang and Frances Schwarzenbach Seelos; he was named for Saint Francis Xavier. His father was a textile merchant who became parish sacristan. Francis was Confirmed on 3 September 1828, and made his first Communion on 2 April 1830. The boy wanted to b"
-image: "https://upload.wikimedia.org/wikipedia/commons/0/08/Blessed_Francis_Xavier_Seelos.jpg"
+summary: >-
+  One of twelve children born to Mang and Frances Schwarzenbach Seelos; he was named for Saint Francis Xavier. His
+  father was a textile merchant who became parish sacristan. Francis was Confirmed on 3 September 1828, and made his
+  first Communion on 2 April 1830. The boy wanted to b
+image: https://upload.wikimedia.org/wikipedia/commons/0/08/Blessed_Francis_Xavier_Seelos.jpg
 searchAliases:
-  - "Father Seelos"
-  - "Francesco Saverio Seelos"
-  - "Franz Xaver Seelos"
+  - Father Seelos
+  - Francesco Saverio Seelos
+  - Franz Xaver Seelos
 birthYear: 1819
 deathYear: 1867
-born: "11 January 1819 at F&uuml;ssen, Bavaria, Germany"
-died: "4 October 1867 in New Orleans, Louisiana of yellow fever"
-birthPlace: "Bavaria, Germany"
-deathPlace: "Louisianayellow fever"
-region: "Germany"
+born: 11 January 1819 at F&uuml;ssen, Bavaria, Germany
+died: 4 October 1867 in New Orleans, Louisiana of yellow fever
+birthPlace: Bavaria, Germany
+deathPlace: Louisianayellow fever
+region: Germany
 feastDay:
   month: 10
   day: 5
@@ -22,10 +25,11 @@ vocation:
   - Bishop
   - Priest
   - Missionary
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 patronage:
-  - "against cancer"
+  - against cancer
 martyr: false
+prayers: []
 ---
 
 One of twelve children born to Mang and Frances Schwarzenbach Seelos; he was named for Saint Francis Xavier. His father was a textile merchant who became parish sacristan. Francis was Confirmed on 3 September 1828, and made his first Communion on 2 April 1830. The boy wanted to be a priest from an early age, and often claimed he would be another Francis Xavier.

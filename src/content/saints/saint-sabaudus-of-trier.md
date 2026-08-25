@@ -1,16 +1,16 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Sabaudus of Trier"
+name: Saint Sabaudus of Trier
 honorific: Saint
-title: "Bishop"
-summary: "Bishop of Trier, Germany."
+title: Bishop
+summary: Bishop of Trier, Germany.
 searchAliases:
-  - "Sebaldo"
-  - "Sebaldus"
-  - "Sebaud"
+  - Sebaldo
+  - Sebaldus
+  - Sebaud
 deathYear: 614
-died: "c.614"
-region: "Germany"
+died: c.614
+region: Germany
 feastDay:
   month: 11
   day: 26
@@ -18,6 +18,7 @@ canonizationStatus: Saint
 vocation:
   - Bishop
 martyr: false
+prayers: []
 ---
 
 Bishop of Trier, Germany.

@@ -1,11 +1,13 @@
 ---
-name: "Blessed Mary of the Resurrection"
+name: Blessed Mary of the Resurrection
 honorific: Blessed
-summary: "Blood sister of Blessed Clemenzia of the Holy Trinity and Blessed Mary of Colonna. Mercedarian nun at the monastery of the Assumption in Seville, Spain."
-image: "http://catholicsaints.info/wp-content/uploads/img-Mercedarian-Sisters.jpg"
+summary: >-
+  Blood sister of Blessed Clemenzia of the Holy Trinity and Blessed Mary of Colonna. Mercedarian nun at the monastery of
+  the Assumption in Seville, Spain.
+image: http://catholicsaints.info/wp-content/uploads/img-Mercedarian-Sisters.jpg
 deathYear: 1615
-died: "1615 of natural causes"
-region: "Spain"
+died: 1615 of natural causes
+region: Spain
 feastDay:
   month: 9
   day: 9
@@ -13,6 +15,7 @@ canonizationStatus: Blessed
 vocation:
   - Religious
 martyr: false
+prayers: []
 ---
 
 Blood sister of Blessed Clemenzia of the Holy Trinity and Blessed Mary of Colonna. Mercedarian nun at the monastery of the Assumption in Seville, Spain.

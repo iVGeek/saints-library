@@ -1,19 +1,21 @@
 ---
-name: "Saint Gosbert of Osnabruck"
+name: Saint Gosbert of Osnabruck
 honorific: Saint
-summary: "Spiritual student of Saint Anskar. Worked as a missionary with Saint Nithard. Bishop of Osnabruck, Germany from where he supported more missionary work in Sweden."
-image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Gosbert-of-Osnabruck.jpg"
+summary: >-
+  Spiritual student of Saint Anskar. Worked as a missionary with Saint Nithard. Bishop of Osnabruck, Germany from where
+  he supported more missionary work in Sweden.
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Gosbert-of-Osnabruck.jpg
 searchAliases:
-  - "Gaudbert"
-  - "Gautbert"
-  - "Gauzbert"
-  - "Gosberto"
-  - "Gotebert"
-  - "Gozbert"
-  - "Gozberto"
+  - Gaudbert
+  - Gautbert
+  - Gauzbert
+  - Gosberto
+  - Gotebert
+  - Gozbert
+  - Gozberto
 deathYear: 874
-died: "2 February 874 of natural causes"
-region: "Scandinavia"
+died: 2 February 874 of natural causes
+region: Scandinavia
 feastDay:
   month: 2
   day: 13
@@ -22,6 +24,7 @@ vocation:
   - Bishop
   - Missionary
 martyr: false
+prayers: []
 ---
 
 Spiritual student of Saint Anskar. Worked as a missionary with Saint Nithard. Bishop of Osnabruck, Germany from where he supported more missionary work in Sweden.

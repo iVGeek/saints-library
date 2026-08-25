@@ -28,6 +28,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/b/bb/%28Auch%29_West_facade_of_Cath%C3%A9drale_Sainte-Marie_d%27Auch.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Austindus of Auch
 imageCreditUrl: https://en.wikipedia.org/wiki/Archdiocese%20of%20Auch
+prayers: []
 ---
 
 Benedictine monk at Saint Oren's Abbey, Auch, France. Abbot. Instituted the Cluniac reform at Saint Oren's. Archbishop of Auch in 1041. Helped restore Christian life in his and his suffragan dioceses following the Saracen invasion of Spain. Had to struggle with princes and civil authorities to keep Church rights, prerogatives and property.

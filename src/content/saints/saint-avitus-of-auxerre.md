@@ -19,6 +19,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/b/bd/Mammertus.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Avitus of Auxerre
 imageCreditUrl: https://en.wikipedia.org/wiki/Mamertus
+prayers: []
 ---
 
 Deacon. No other information has survived.

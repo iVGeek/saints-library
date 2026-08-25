@@ -1,15 +1,16 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Abatas of Mauritania"
+name: Saint Abatas of Mauritania
 honorific: Saint
-summary: "Martyr."
-died: "Mauritania"
+summary: Martyr.
+died: Mauritania
 feastDay:
   month: 3
   day: 24
 canonizationStatus: Saint
 vocation: []
 martyr: true
+prayers: []
 ---
 
 Martyr.

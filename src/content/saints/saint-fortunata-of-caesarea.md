@@ -25,6 +25,7 @@ imageCredit: >-
   <a rel="nofollow" class="external free"
   href="http://panizzi.comune.re.it/eventi/2007/teatro/pages/V012.htm">http://panizzi.comune.re.it/eventi/2007/teatro/pages/V012.htm</a>
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:Fortunata%20Tedesco.JPG
+prayers: []
 ---
 
 Sister of Saint Carponius of Caesarea, Saint Priscianus of Caesarea and Saint Evaristus of Caesarea. Martyred in the persecutions of Diocletian.

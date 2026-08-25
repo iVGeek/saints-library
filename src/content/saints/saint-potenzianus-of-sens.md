@@ -1,17 +1,18 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Potenzianus of Sens"
+name: Saint Potenzianus of Sens
 honorific: Saint
-summary: "Shepherd. Martyr."
-died: "Sens, France"
-deathPlace: "France"
-region: "France"
+summary: Shepherd. Martyr.
+died: Sens, France
+deathPlace: France
+region: France
 feastDay:
   month: 10
   day: 19
 canonizationStatus: Saint
 vocation: []
 martyr: true
+prayers: []
 ---
 
 Shepherd. Martyr.

@@ -1,23 +1,26 @@
 ---
-name: "Blessed Atilano Dionisio Argüeso González"
+name: Blessed Atilano Dionisio Argüeso González
 honorific: Blessed
-summary: "Joined the Hospitallers of Saint John of God in 1894, making his vows on 14 May 1896. Member of the Hospitallers community in Ciempozuelos, Madrid, Spain. Martyred in the Spanish Civil War."
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Atilano-Dionisio-Argüeso-González.jpg"
+summary: >-
+  Joined the Hospitallers of Saint John of God in 1894, making his vows on 14 May 1896. Member of the Hospitallers
+  community in Ciempozuelos, Madrid, Spain. Martyred in the Spanish Civil War.
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Atilano-Dionisio-Argüeso-González.jpg
 searchAliases:
-  - "Brother Flavio"
+  - Brother Flavio
 birthYear: 1877
 deathYear: 1936
-born: "5 October 1877 in Mazuecos de Valdeginate, Palencia, Spain"
-died: "12 August 1936 in Valdemoro, Madrid, Spain"
-birthPlace: "Palencia, Spain"
-deathPlace: "Madrid, Spain"
-region: "Spain"
+born: 5 October 1877 in Mazuecos de Valdeginate, Palencia, Spain
+died: 12 August 1936 in Valdemoro, Madrid, Spain
+birthPlace: Palencia, Spain
+deathPlace: Madrid, Spain
+region: Spain
 feastDay:
   month: 8
   day: 12
 canonizationStatus: Blessed
 vocation: []
 martyr: true
+prayers: []
 ---
 
 Joined the Hospitallers of Saint John of God in 1894, making his vows on 14 May 1896. Member of the Hospitallers community in Ciempozuelos, Madrid, Spain. Martyred in the Spanish Civil War.

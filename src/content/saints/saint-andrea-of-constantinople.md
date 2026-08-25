@@ -21,6 +21,7 @@ vocation:
   - Priest
   - Monk
 martyr: true
+prayers: []
 ---
 
 Sacristan. Priest. Imprisoned, tortured and martyred for the defense of icons in the iconoclast persecutions of emperor Leo the Isaurian.

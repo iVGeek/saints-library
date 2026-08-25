@@ -1,14 +1,15 @@
 ---
-name: "Pope Saint Celestine I"
+name: Pope Saint Celestine I
 honorific: Saint
-summary: " Ordered the bishops of Vienne and Narbonne in Gaul to Son of Priscus. May have been related to Emperor Valentinian. May have worked with Saint Ambrose of Milan. Deacon in Rome, Italy in 416. Almost nothing else is known about Celestine before his unanimous election as 43rd pope."
-image: "https://upload.wikimedia.org/wikipedia/commons/1/12/Dundalk_Saint_Patrick%27s_Pro-Cathedral_West_Aisle_Window_06_Lower_Lights_2013_09_23%28cropped%29.jpg"
+summary: ' Ordered the bishops of Vienne and Narbonne in Gaul to Son of Priscus. May have been related to Emperor Valentinian. May have worked with Saint Ambrose of Milan. Deacon in Rome, Italy in 416. Almost nothing else is known about Celestine before his unanimous election as 43rd pope.'
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/1/12/Dundalk_Saint_Patrick%27s_Pro-Cathedral_West_Aisle_Window_06_Lower_Lights_2013_09_23%28cropped%29.jpg
 deathYear: 432
-born: "Campania, Italy"
-died: "27 July 432 in Rome, Italy of natural causes"
-birthPlace: "Italy"
-deathPlace: "Italynatural causes"
-region: "Ireland"
+born: Campania, Italy
+died: 27 July 432 in Rome, Italy of natural causes
+birthPlace: Italy
+deathPlace: Italynatural causes
+region: Ireland
 feastDay:
   month: 7
   day: 27
@@ -19,8 +20,9 @@ vocation:
   - Deacon
   - Confessor
 patronage:
-  - "Castelnuovo Rangone, Italy"
+  - Castelnuovo Rangone, Italy
 martyr: false
+prayers: []
 ---
 
 Son of Priscus. May have been related to Emperor Valentinian. May have worked with Saint Ambrose of Milan. Deacon in Rome, Italy in 416. Almost nothing else is known about Celestine before his unanimous election as 43rd pope.

@@ -15,6 +15,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/9/93/Reims_%2851%29_Saint-R%C3%A9mi_Baie_204-2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Abel McAedh
 imageCreditUrl: https://en.wikipedia.org/wiki/Abel%20of%20Reims
+prayers: []
 ---
 
 Holy Irish woman. No other information has survived.

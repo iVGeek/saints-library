@@ -1,18 +1,19 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Corona of Marseille"
+name: Saint Corona of Marseille
 honorific: Saint
-summary: "Martyr."
+summary: Martyr.
 deathYear: 290
-died: "c.290 in Marseille, France"
-deathPlace: "France"
-region: "France"
+died: c.290 in Marseille, France
+deathPlace: France
+region: France
 feastDay:
   month: 7
   day: 21
 canonizationStatus: Saint
 vocation: []
 martyr: true
+prayers: []
 ---
 
 Martyr.

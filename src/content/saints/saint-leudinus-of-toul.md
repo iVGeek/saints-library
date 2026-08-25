@@ -1,20 +1,23 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Leudinus of Toul"
+name: Saint Leudinus of Toul
 honorific: Saint
-summary: "Born to the nobility, the son of Duke Gundoin of Alsace and Saratrude of the Etichonids; brother of Saint Salaberga. Married to a pious woman named Odile. He and his wife each felt a call to religious life; Odile became a nun, Leudinus a Benedictine monk at Laon, France. Founded"
+summary: >-
+  Born to the nobility, the son of Duke Gundoin of Alsace and Saratrude of the Etichonids; brother of Saint Salaberga.
+  Married to a pious woman named Odile. He and his wife each felt a call to religious life; Odile became a nun, Leudinus
+  a Benedictine monk at Laon, France. Founded
 searchAliases:
-  - "Leudinus Bodo"
-  - "Leudin"
-  - "Bodon"
-  - "Bodone"
-  - "Leudino"
+  - Leudinus Bodo
+  - Leudin
+  - Bodon
+  - Bodone
+  - Leudino
 birthYear: 625
 deathYear: 673
-born: "c.625 in Bassigny, Austrasia (in modern France)"
-died: "c.673 of natural causes"
-birthPlace: "Austrasia (modern France)"
-region: "France"
+born: c.625 in Bassigny, Austrasia (in modern France)
+died: c.673 of natural causes
+birthPlace: Austrasia (modern France)
+region: France
 feastDay:
   month: 9
   day: 11
@@ -23,8 +26,9 @@ vocation:
   - Bishop
   - Monk
   - Religious
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 martyr: false
+prayers: []
 ---
 
 Born to the nobility, the son of Duke Gundoin of Alsace and Saratrude of the Etichonids; brother of Saint Salaberga. Married to a pious woman named Odile. He and his wife each felt a call to religious life; Odile became a nun, Leudinus a Benedictine monk at Laon, France. Founded the French monasteries of Etival, Bon-Moutier and Affonville. Bishop of Toul, Austrasia (in modern France) c.669.

@@ -1,25 +1,28 @@
 ---
-name: "Saint Killian"
+name: Saint Killian
 honorific: Saint
-summary: "Born to the Irish nobility. Monk at the monastery of Hy. May have been an abbot. Travelling bishop throughout Ireland. Missionary with eleven companions through Gaul to W&uuml;rzburg, Germany whose people he found to be pagan, and whom he resolved to convert. Pilgrim to Rome, Ita"
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Kilian.jpg"
+summary: >-
+  Born to the Irish nobility. Monk at the monastery of Hy. May have been an abbot. Travelling bishop throughout Ireland.
+  Missionary with eleven companions through Gaul to W&uuml;rzburg, Germany whose people he found to be pagan, and whom
+  he resolved to convert. Pilgrim to Rome, Ita
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Kilian.jpg
 searchAliases:
-  - "Apostle of Bavaria"
-  - "Apostle of Franconia"
-  - "Chilianus"
-  - "Chillian"
-  - "Chillien"
-  - "Cilian"
-  - "Cillíne"
-  - "Cillian"
-  - "Kilian"
-  - "Killena"
+  - Apostle of Bavaria
+  - Apostle of Franconia
+  - Chilianus
+  - Chillian
+  - Chillien
+  - Cilian
+  - Cillíne
+  - Cillian
+  - Kilian
+  - Killena
 birthYear: 640
 deathYear: 689
-born: "c.640 in Mullagh, County Cavan, Ireland"
-died: "beheaded on 8 July 689"
-birthPlace: "County Cavan, Ireland"
-region: "Ireland"
+born: c.640 in Mullagh, County Cavan, Ireland
+died: beheaded on 8 July 689
+birthPlace: County Cavan, Ireland
+region: Ireland
 feastDay:
   month: 7
   day: 8
@@ -30,27 +33,31 @@ vocation:
   - Deacon
   - Missionary
 patronage:
-  - "against eye problems"
-  - "against gout"
-  - "against rheumatism, rheumatism sufferers"
-  - "–"
-  - "tinsmiths"
-  - "whitesmiths"
-  - "whitewashers"
-  - "–"
-  - "in Germany\n\nAschaffenburg"
-  - "Bad Heilbrunn"
-  - "Bavaria"
-  - "Franconia"
-  - "Heilbronn"
-  - "Mainz-Kostheim"
-  - "Münnerstadt"
-  - "Paderborn, archdiocese of"
-  - "Paderborn Cathedral"
-  - "Rothenburg ob der Tauber"
-  - "Würzburg, city of"
-  - "Würzburg, diocese of"
+  - against eye problems
+  - against gout
+  - against rheumatism, rheumatism sufferers
+  - –
+  - tinsmiths
+  - whitesmiths
+  - whitewashers
+  - –
+  - |-
+    in Germany
+
+    Aschaffenburg
+  - Bad Heilbrunn
+  - Bavaria
+  - Franconia
+  - Heilbronn
+  - Mainz-Kostheim
+  - Münnerstadt
+  - Paderborn, archdiocese of
+  - Paderborn Cathedral
+  - Rothenburg ob der Tauber
+  - Würzburg, city of
+  - Würzburg, diocese of
 martyr: true
+prayers: []
 ---
 
 Born to the Irish nobility. Monk at the monastery of Hy. May have been an abbot. Travelling bishop throughout Ireland. Missionary with eleven companions through Gaul to W&uuml;rzburg, Germany whose people he found to be pagan, and whom he resolved to convert. Pilgrim to Rome, Italy in 686 where he received papal authority for his mission; Pope Conon ordained him as a missionary bishop. Kilian then returned to W&uuml;rzburg in 687 with Saint Colman and Saint Totnan. With them, he evangelized East Franconia and East Thuringia, areas in modern Bavaria, Germany, converted Duke Gozbert and a large part of Gozbert's subjects.

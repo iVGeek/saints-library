@@ -26,6 +26,7 @@ imageCredit: >-
   class="new" title="User:Farbe&amp;Form (page does not exist)">Farbe&amp;Form</a>
 imageCreditUrl: >-
   https://commons.wikimedia.org/wiki/File:Bernardino%20Luini%20-%20Saint%20Catherine%20of%20Alexandria%2C%20ca.%201500.jpg
+prayers: []
 ---
 
 An unknown number of Christians who were martyred together by a mob of worshippers of the Graeco-Egyptian sun god Serapis.

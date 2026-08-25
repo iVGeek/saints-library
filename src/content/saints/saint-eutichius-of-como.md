@@ -25,6 +25,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/1/1a/Como_%28Italy%29-cathedral.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Eutichius of Como
 imageCreditUrl: https://en.wikipedia.org/wiki/Diocese%20of%20Como
+prayers: []
 ---
 
 Hermit. Priest. Bishop of Como, Italy in 525. He had such a dedication to the contemplative prayer life that he led his diocese from a hermitage outside the city.

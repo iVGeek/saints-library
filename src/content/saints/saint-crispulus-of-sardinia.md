@@ -1,12 +1,12 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Crispulus of Sardinia"
+name: Saint Crispulus of Sardinia
 honorific: Saint
-summary: "Missionary priest in Sardinia, Italy. Martyred in the persecutions of Hadrian."
+summary: Missionary priest in Sardinia, Italy. Martyred in the persecutions of Hadrian.
 deathYear: 130
-died: "c.130 at Porto Torres, Sardinia, Italy"
-deathPlace: "Sardinia, Italy"
-region: "Italy"
+died: c.130 at Porto Torres, Sardinia, Italy
+deathPlace: Sardinia, Italy
+region: Italy
 feastDay:
   month: 5
   day: 30
@@ -16,6 +16,7 @@ vocation:
   - Monk
   - Missionary
 martyr: true
+prayers: []
 ---
 
 Missionary priest in Sardinia, Italy. Martyred in the persecutions of Hadrian.

@@ -24,6 +24,7 @@ patronage:
   - –
   - vintners
 martyr: false
+prayers: []
 ---
 
 Son of Pontianus. Pope during a time of relative peace and growth in the Church. Continued the orthodox papal opposition to Hippolytus of Rome and his schismatics.

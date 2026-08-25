@@ -1,20 +1,21 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Crementius of Zaragoza"
+name: Saint Crementius of Zaragoza
 honorific: Saint
-summary: "Martyr."
+summary: Martyr.
 searchAliases:
-  - "Cremenzio"
+  - Cremenzio
 deathYear: 304
-died: "304 in Zaragoza, Spain"
-deathPlace: "Spain"
-region: "Spain"
+died: 304 in Zaragoza, Spain
+deathPlace: Spain
+region: Spain
 feastDay:
   month: 3
   day: 10
 canonizationStatus: Saint
 vocation: []
 martyr: true
+prayers: []
 ---
 
 Martyr.

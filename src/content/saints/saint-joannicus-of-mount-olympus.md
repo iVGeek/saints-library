@@ -1,18 +1,18 @@
 ---
-name: "Saint Joannicus of Mount Olympus"
+name: Saint Joannicus of Mount Olympus
 honorific: Saint
-summary: " A friend who had become a monk led him to the faith. At age 40, Joannicus retired from the military and the A swineherd in his youth, and a lazy one at that. Professional soldier in the Byzantine army for 20 years, and a dissolute one at that. Fought in wars against the Bulgars."
-image: "http://catholicsaints.info/wp-content/gallery/saint-joannicus-of-mount-olympus/saint-joannicus-of-mount-olympus.jpg"
+summary: ' A friend who had become a monk led him to the faith. At age 40, Joannicus retired from the military and the A swineherd in his youth, and a lazy one at that. Professional soldier in the Byzantine army for 20 years, and a dissolute one at that. Fought in wars against the Bulgars.'
+image: http://catholicsaints.info/wp-content/gallery/saint-joannicus-of-mount-olympus/saint-joannicus-of-mount-olympus.jpg
 searchAliases:
-  - "Joannicius the Great"
-  - "Joannicus of Olympus"
-  - "Joannicus of Uludag"
-  - "Ioannikios…."
-  - "Ioannikos…."
-  - "Ioninicus…."
+  - Joannicius the Great
+  - Joannicus of Olympus
+  - Joannicus of Uludag
+  - Ioannikios….
+  - Ioannikos….
+  - Ioninicus….
 birthYear: 754
-born: "c.754 at Bithynia (in modern Turkey)"
-region: "Turkey"
+born: c.754 at Bithynia (in modern Turkey)
+region: Turkey
 feastDay:
   month: 11
   day: 3
@@ -23,6 +23,7 @@ vocation:
   - Hermit
   - Soldier
 martyr: false
+prayers: []
 ---
 
 A swineherd in his youth, and a lazy one at that. Professional soldier in the Byzantine army for 20 years, and a dissolute one at that. Fought in wars against the Bulgars.

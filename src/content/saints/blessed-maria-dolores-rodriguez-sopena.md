@@ -1,23 +1,27 @@
 ---
-name: "Blessed María Dolores Rodríguez Sopeña"
+name: Blessed María Dolores Rodríguez Sopeña
 honorific: Blessed
-summary: "The fourth of seven children born to Tomas Rodr&iacute;guez Sope&ntilde;a, a lawyer, magistrate and administrator, and Nicolasa Ortega Salomon. Eye surgery at age eight left her with limited sight the rest of her life. A debutante at age 17, Maria did not care for the wordly life"
-image: "https://upload.wikimedia.org/wikipedia/commons/9/93/Dolores_sope%C3%B1a_pensativa.jpg"
+summary: >-
+  The fourth of seven children born to Tomas Rodr&iacute;guez Sope&ntilde;a, a lawyer, magistrate and administrator, and
+  Nicolasa Ortega Salomon. Eye surgery at age eight left her with limited sight the rest of her life. A debutante at age
+  17, Maria did not care for the wordly life
+image: https://upload.wikimedia.org/wikipedia/commons/9/93/Dolores_sope%C3%B1a_pensativa.jpg
 birthYear: 1848
 deathYear: 1918
-born: "30 December 1848 in Velez Rubio, Almer&iacute;a, Spain"
-died: "10 January 1918 in Madrid, Spain of natural causes"
-birthPlace: "Almer&iacute;a, Spain"
-deathPlace: "Spaof natural causes"
-region: "Mexico"
+born: 30 December 1848 in Velez Rubio, Almer&iacute;a, Spain
+died: 10 January 1918 in Madrid, Spain of natural causes
+birthPlace: Almer&iacute;a, Spain
+deathPlace: Spaof natural causes
+region: Mexico
 feastDay:
   month: 9
   day: 24
 canonizationStatus: Blessed
 vocation:
   - Priest
-religiousOrder: "Jesuit"
+religiousOrder: Jesuit
 martyr: false
+prayers: []
 ---
 
 The fourth of seven children born to Tomas Rodr&iacute;guez Sope&ntilde;a, a lawyer, magistrate and administrator, and Nicolasa Ortega Salomon. Eye surgery at age eight left her with limited sight the rest of her life. A debutante at age 17, Maria did not care for the wordly life, and fearing that her parents would stop her, she secretly began working with the sick and poor. This was a time when a lady of her standing in society would never be found in the poor neighborhoods, never working with the poor herself. But Maria's faith gave her endless confidence, and she was motivated by a desire to have “one family in Christ Jesus”.

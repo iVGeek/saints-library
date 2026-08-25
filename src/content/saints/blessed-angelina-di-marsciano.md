@@ -1,19 +1,22 @@
 ---
-name: "Blessed Angelina di Marsciano"
+name: Blessed Angelina di Marsciano
 honorific: Blessed
-summary: "Born to the Italian nobility, the daughter of the Duke of Marciano, and Anna, daughter of the Count of Corbara; her mother died when Angelina was 12. Given in an arranged marriage at age 15 to the Duke of Civitella, Giovanni da Terni, who agreed to honour the girl's private vow o"
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Angelina-di-Marsciano.jpg"
+summary: >-
+  Born to the Italian nobility, the daughter of the Duke of Marciano, and Anna, daughter of the Count of Corbara; her
+  mother died when Angelina was 12. Given in an arranged marriage at age 15 to the Duke of Civitella, Giovanni da Terni,
+  who agreed to honour the girl's private vow o
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Angelina-di-Marsciano.jpg
 searchAliases:
-  - "Angelina of Montegiove"
-  - "Angelina of Corbara"
-  - "Angelina of Foligno"
+  - Angelina of Montegiove
+  - Angelina of Corbara
+  - Angelina of Foligno
 birthYear: 1377
 deathYear: 1435
-born: "1377 at the castle of Monte Giove near Orvieto, Terni, Italy"
-died: "14 July 1435 in Foligno, Perugia, Italy of natural causes"
-birthPlace: "Terni, Italy"
-deathPlace: "Perugia, Italynatural causes"
-region: "Italy"
+born: 1377 at the castle of Monte Giove near Orvieto, Terni, Italy
+died: 14 July 1435 in Foligno, Perugia, Italy of natural causes
+birthPlace: Terni, Italy
+deathPlace: Perugia, Italynatural causes
+region: Italy
 feastDay:
   month: 7
   day: 14
@@ -22,10 +25,11 @@ vocation:
   - Bishop
   - Priest
   - Religious
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 patronage:
-  - "Franciscan Sisters of the Third Order Regular"
+  - Franciscan Sisters of the Third Order Regular
 martyr: false
+prayers: []
 ---
 
 Born to the Italian nobility, the daughter of the Duke of Marciano, and Anna, daughter of the Count of Corbara; her mother died when Angelina was 12. Given in an arranged marriage at age 15 to the Duke of Civitella, Giovanni da Terni, who agreed to honour the girl's private vow of chastity. Widowed at age 17, she quickly moved to follow a call to religious life before another marriage could be arranged. She gave away her wealth and property to the poor, founded the Franciscan Sisters of the Third Order Regular, became a Franciscan tertiary, and travelled the countryside, preaching repentence and chastity.

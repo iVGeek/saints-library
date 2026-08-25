@@ -18,6 +18,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/7/75/Citt%C3%A0_di_Castello_Panorama.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Amantius the Soldier
 imageCreditUrl: https://en.wikipedia.org/wiki/Citt%C3%A0%20di%20Castello
+prayers: []
 ---
 
 One of a group of ten soldier martyrs.

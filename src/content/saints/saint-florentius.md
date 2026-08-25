@@ -1,19 +1,20 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Florentius"
+name: Saint Florentius
 honorific: Saint
-summary: "Sixth century holy man at Amboise, Touraine, France. Friend of Saint Germain in Paris, France."
+summary: Sixth century holy man at Amboise, Touraine, France. Friend of Saint Germain in Paris, France.
 searchAliases:
-  - "Fiorentino"
-region: "France"
+  - Fiorentino
+region: France
 feastDay:
   month: 12
   day: 1
 canonizationStatus: Saint
 vocation: []
 patronage:
-  - "Amboise, France"
+  - Amboise, France
 martyr: false
+prayers: []
 ---
 
 Sixth century holy man at Amboise, Touraine, France. Friend of Saint Germain in Paris, France.

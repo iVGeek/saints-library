@@ -1,11 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Theodore of Egypt"
+name: Saint Theodore of Egypt
 honorific: Saint
-summary: "Monk. Spiritual student of Saint Ammonius the Great in Egypt. One of the early desert hermits on the Nile. Mentioned in the writings of Saint Athanasius of Alexandria and Saint Gregory the Great."
+summary: >-
+  Monk. Spiritual student of Saint Ammonius the Great in Egypt. One of the early desert hermits on the Nile. Mentioned
+  in the writings of Saint Athanasius of Alexandria and Saint Gregory the Great.
 searchAliases:
-  - "Theodor"
-region: "Egypt"
+  - Theodor
+region: Egypt
 feastDay:
   month: 1
   day: 7
@@ -14,6 +16,7 @@ vocation:
   - Monk
   - Hermit
 martyr: false
+prayers: []
 ---
 
 Monk. Spiritual student of Saint Ammonius the Great in Egypt. One of the early desert hermits on the Nile. Mentioned in the writings of Saint Athanasius of Alexandria and Saint Gregory the Great.

@@ -1,19 +1,22 @@
 ---
-name: "Saint Parasceva of Rome"
+name: Saint Parasceva of Rome
 honorific: Saint
-summary: "Daughter of the wealthy Christians Politea and Agathon, and was born after much praying by them for a child. Unusually well educated for a girl of her time. When her parents died, she gave her property to the poor and became an persuasive, itinerant preacher. During a time of per"
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Parasceva-of-Rome.jpg"
+summary: >-
+  Daughter of the wealthy Christians Politea and Agathon, and was born after much praying by them for a child. Unusually
+  well educated for a girl of her time. When her parents died, she gave her property to the poor and became an
+  persuasive, itinerant preacher. During a time of per
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Parasceva-of-Rome.jpg
 searchAliases:
-  - "Venera"
-  - "Venera arita"
-  - "Veneranda"
-  - "Veneranda Parasceve"
-  - "Venerandus"
-  - "Veneria"
-  - "Venerina"
+  - Venera
+  - Venera arita
+  - Veneranda
+  - Veneranda Parasceve
+  - Venerandus
+  - Veneria
+  - Venerina
 deathYear: 180
-died: "beheaded in 180"
-region: "Italy"
+died: beheaded in 180
+region: Italy
 feastDay:
   month: 7
   day: 26
@@ -21,13 +24,17 @@ canonizationStatus: Saint
 vocation:
   - Monk
 patronage:
-  - "against volcanic eruptions"
-  - "against eruptions of Mount Etna"
-  - "against earthquakes"
-  - "–"
-  - "blind people"
-  - "Dioceses\n\nAcireale, Italy"
+  - against volcanic eruptions
+  - against eruptions of Mount Etna
+  - against earthquakes
+  - –
+  - blind people
+  - |-
+    Dioceses
+
+    Acireale, Italy
 martyr: true
+prayers: []
 ---
 
 Daughter of the wealthy Christians Politea and Agathon, and was born after much praying by them for a child. Unusually well educated for a girl of her time. When her parents died, she gave her property to the poor and became an persuasive, itinerant preacher. During a time of persecutions by Roman and Jewish officials, she brought many to Christianity.

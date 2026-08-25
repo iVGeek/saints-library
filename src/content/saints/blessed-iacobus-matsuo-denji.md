@@ -1,17 +1,17 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Iacobus Matsuo Denji"
+name: Blessed Iacobus Matsuo Denji
 honorific: Blessed
-summary: "Layman sailor in the archdiocese of Nagasaki, Japan. Member of the Confraternity of the Rosary. Martyr."
+summary: Layman sailor in the archdiocese of Nagasaki, Japan. Member of the Confraternity of the Rosary. Martyr.
 searchAliases:
-  - "Iacobus Denxi"
-  - "Iacobus Denshi"
-  - "James…."
+  - Iacobus Denxi
+  - Iacobus Denshi
+  - James….
 deathYear: 1622
-born: "Japan"
-died: "beheaded on 19 August 1622 at Nagasaki, Japan"
-deathPlace: "Japan"
-region: "Japan"
+born: Japan
+died: beheaded on 19 August 1622 at Nagasaki, Japan
+deathPlace: Japan
+region: Japan
 feastDay:
   month: 8
   day: 19
@@ -19,6 +19,7 @@ canonizationStatus: Blessed
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Layman sailor in the archdiocese of Nagasaki, Japan. Member of the Confraternity of the Rosary. Martyr.

@@ -23,6 +23,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/b/b8/Corsica_by_Piri_Reis.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Fiorenzo of Populonia
 imageCreditUrl: https://en.wikipedia.org/wiki/History%20of%20Corsica
+prayers: []
 ---
 
 Priest. Bishop of Populonia, Italy. Known as a man of deep faith, piety and devotion. He welcomed Christians fleeing from Arian Vandals in north Africa, including Saint Regulus, bishop of the group, and Saint Cerbonius of Populonia, who succeeded Fiorenzo as bishop.

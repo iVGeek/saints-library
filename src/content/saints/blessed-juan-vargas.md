@@ -16,6 +16,7 @@ canonizationStatus: Blessed
 vocation:
   - Missionary
 martyr: true
+prayers: []
 ---
 
 Mercedarian missionary to the Americas, arriving in Peru in 1537. Avid and successful evangelist and administrator. He convened a regional missionary assembly in Cusco in November 1556 to better organize and administer the stations, and helped establish the first Mercedarian province in the Americas. Martyr.

@@ -1,17 +1,20 @@
 ---
-name: "Blessed Juana Maria Condesa Lluch"
+name: Blessed Juana Maria Condesa Lluch
 honorific: Blessed
-summary: "Born into a wealthy and pious family, she received a good secular and Christian education. Even as a child Juana was devoted to the Holy Eucharist and Our Lady, and felt a call to serve. As she grew she developed a deep prayer life, felt a call to religious life, and a need to he"
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Juana-Maria-Condesa-Lluch.gif"
+summary: >-
+  Born into a wealthy and pious family, she received a good secular and Christian education. Even as a child Juana was
+  devoted to the Holy Eucharist and Our Lady, and felt a call to serve. As she grew she developed a deep prayer life,
+  felt a call to religious life, and a need to he
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Juana-Maria-Condesa-Lluch.gif
 searchAliases:
-  - "Joanna Maria Condesa Lluch"
+  - Joanna Maria Condesa Lluch
 birthYear: 1862
 deathYear: 1916
-born: "30 March 1862 in Valencia, Spain"
-died: "16 January 1916 in Valencia, Spain of natural causes"
-birthPlace: "Spain"
-deathPlace: "Spaof natural causes"
-region: "Spain"
+born: 30 March 1862 in Valencia, Spain
+died: 16 January 1916 in Valencia, Spain of natural causes
+birthPlace: Spain
+deathPlace: Spaof natural causes
+region: Spain
 feastDay:
   month: 4
   day: 14
@@ -20,6 +23,7 @@ vocation:
   - Bishop
   - Cardinal
 martyr: false
+prayers: []
 ---
 
 Born into a wealthy and pious family, she received a good secular and Christian education. Even as a child Juana was devoted to the Holy Eucharist and Our Lady, and felt a call to serve. As she grew she developed a deep prayer life, felt a call to religious life, and a need to help factory workers who lived in horrible, de-humanizing and life-shortening conditions of 19th century industrialization.

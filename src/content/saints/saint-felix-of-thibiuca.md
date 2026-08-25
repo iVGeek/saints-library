@@ -22,6 +22,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/9/98/Roman_Empire_-_Africa_Proconsularis_%28125_AD%29.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Felix of Thibiuca
 imageCreditUrl: https://en.wikipedia.org/wiki/Thibiuca
+prayers: []
 ---
 
 Bishop of Thibiuca in North Africa. Martyred in the persecutions of Diolcetian for refusing to surrender sacred books for destruction.

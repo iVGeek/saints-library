@@ -25,6 +25,7 @@ imageCredit: >-
   Policy</a>
 imageCreditUrl: >-
   https://commons.wikimedia.org/wiki/File:The%20Virgin%20seated%20with%20the%20infant%20Christ%20sleeping%20in%20her%20lap%2C%20Saint%20Elizabeth%20at%20right%2C%20an%20oval%20composition%2C%20after%20Reni%20MET%20DP841773.jpg
+prayers: []
 ---
 
 Venerated in Franche-Comté, France, but his story has been lost over time.

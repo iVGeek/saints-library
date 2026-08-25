@@ -26,6 +26,7 @@ patronage:
   - Potenza, Italy, city of
   - Potenza, Italy, archdiocese of
 martyr: false
+prayers: []
 ---
 
 Born to the Italian nobility, Gerard initially went to Potenza in southern Italy to join the Crusades. However, while there he realized that he could serve the Church better as a priest. Chosen bishop of Potenza in his old age, he served from 1111 to 1119. He was noted as living such a quiet, pious life that he seemed more like a monk than one of the bishops of the day.

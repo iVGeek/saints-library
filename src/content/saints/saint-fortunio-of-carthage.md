@@ -1,12 +1,12 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Fortunio of Carthage"
+name: Saint Fortunio of Carthage
 honorific: Saint
-summary: "Imprisoned for his faith, he spent his time ministering to other prisoners. Martyred in the persecutions of Decius."
+summary: Imprisoned for his faith, he spent his time ministering to other prisoners. Martyred in the persecutions of Decius.
 deathYear: 250
-died: "starved to death in 250 in prison in Carthage, North Africa (modern Tunis, Tunisia)"
-deathPlace: "North Africa (modern Tunis, Tunisia)"
-region: "England"
+died: starved to death in 250 in prison in Carthage, North Africa (modern Tunis, Tunisia)
+deathPlace: North Africa (modern Tunis, Tunisia)
+region: England
 feastDay:
   month: 4
   day: 19
@@ -14,6 +14,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Imprisoned for his faith, he spent his time ministering to other prisoners. Martyred in the persecutions of Decius.

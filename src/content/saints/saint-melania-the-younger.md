@@ -25,6 +25,7 @@ patronage:
   - against the death of children
   - exiles
 martyr: false
+prayers: []
 ---
 
 Wealthy Roman patrician noble; granddaughter of Saint Melania the Elder. Married against her will to Valerius Pinianus (Saint Pinian) at age 13. After the death of their two children, both of whom died young, and to escape Visigoth invasion, the couple fled to Tagaste in North Africa in 410 where they had estates, and where they met Saint Augustine of Hippo. Though they stayed married, the two took vows of celibacy, freed their slaves, sold their lands and goods in Spain and Gaul, and gave the proceeds to the poor. They built two monasteries for Saint Augustine, then the couple moved to Jerusalem and entered a monastery and convent around 417. Friend of Saint Paulinus of Nola and Saint Jerome. Widowed in 432. Directed the convent on the Mount of Olives for several years.

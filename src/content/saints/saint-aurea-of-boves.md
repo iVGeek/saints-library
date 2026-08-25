@@ -18,6 +18,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/0/03/Domus_Aurea_pianta_generale.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Aurea of Boves
 imageCreditUrl: https://en.wikipedia.org/wiki/Domus%20Aurea
+prayers: []
 ---
 
 Nun in Boves, Italy. Abbess of a large convent in Rouen, France.

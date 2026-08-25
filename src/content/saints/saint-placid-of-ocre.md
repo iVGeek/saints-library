@@ -1,16 +1,19 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Placid of Ocre"
+name: Saint Placid of Ocre
 honorific: Saint
-summary: "Born to a working class family. Became a Cistercian monk at Saint Nicholas, Corno, Italy. Lived as a hermit at Ocre in the Abruzzi region of Italy. Founder and abbot of Santo Spirito monastery near Val d'Ocre. As a self-imposed penance, he slept standing the last 37 years of his"
+summary: >-
+  Born to a working class family. Became a Cistercian monk at Saint Nicholas, Corno, Italy. Lived as a hermit at Ocre in
+  the Abruzzi region of Italy. Founder and abbot of Santo Spirito monastery near Val d'Ocre. As a self-imposed penance,
+  he slept standing the last 37 years of his
 searchAliases:
-  - "Placid of Roio"
-  - "Placido…"
+  - Placid of Roio
+  - Placido…
 deathYear: 1248
-born: "at Rodi, Italy"
-died: "1248 of natural causes"
-birthPlace: "Italy"
-region: "Italy"
+born: at Rodi, Italy
+died: 1248 of natural causes
+birthPlace: Italy
+region: Italy
 feastDay:
   month: 6
   day: 12
@@ -19,6 +22,7 @@ vocation:
   - Monk
   - Hermit
 martyr: false
+prayers: []
 ---
 
 Born to a working class family. Became a Cistercian monk at Saint Nicholas, Corno, Italy. Lived as a hermit at Ocre in the Abruzzi region of Italy. Founder and abbot of Santo Spirito monastery near Val d'Ocre. As a self-imposed penance, he slept standing the last 37 years of his life.

@@ -20,6 +20,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/3/39/Paul_of_Thebes.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Barsabias
 imageCreditUrl: https://en.wikipedia.org/wiki/342
+prayers: []
 ---
 
 Monk. Abbot. Martyred with eleven of his monks in the persecutions of King Shapur II.

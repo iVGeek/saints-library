@@ -1,17 +1,21 @@
 ---
-name: "Saint Juan Alcober Figuera"
+name: Saint Juan Alcober Figuera
 honorific: Saint
-summary: " Posing as a water se Dominican priest and missionary to China. Due to transport trouble, he was marooned in Lorca for a while, where he became a popular preacher. Sailed to Manila in the Philippines in 1726, and reached China in 1728. Worked sixteen years in the Fo-kien province."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Juan-Alcober-Figuera.jpg"
+summary: ' Posing as a water se Dominican priest and missionary to China. Due to transport trouble, he was marooned in Lorca for a while, where he became a popular preacher. Sailed to Manila in the Philippines in 1726, and reached China in 1728. Worked sixteen years in the Fo-kien province.'
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Juan-Alcober-Figuera.jpg
 searchAliases:
-  - "John Alcober"
+  - John Alcober
 birthYear: 1694
 deathYear: 1748
-born: "1694 at Gerona, Spain"
-died: "strangled to death on 25 October 1748 in Fu-tsheu prison, Fo-kien province, China;\neven the executioners noted that the faces of the victims looked peaceful and radiant"
-birthPlace: "Spain"
-deathPlace: "Fo-kien province, China;\neven the executioners noted that the facesthe victims looked peaceful and radiant"
-region: "China"
+born: 1694 at Gerona, Spain
+died: |-
+  strangled to death on 25 October 1748 in Fu-tsheu prison, Fo-kien province, China;
+  even the executioners noted that the faces of the victims looked peaceful and radiant
+birthPlace: Spain
+deathPlace: |-
+  Fo-kien province, China;
+  even the executioners noted that the facesthe victims looked peaceful and radiant
+region: China
 feastDay:
   month: 10
   day: 28
@@ -20,8 +24,9 @@ vocation:
   - Bishop
   - Priest
   - Missionary
-religiousOrder: "Dominican"
+religiousOrder: Dominican
 martyr: true
+prayers: []
 ---
 
 Dominican priest and missionary to China. Due to transport trouble, he was marooned in Lorca for a while, where he became a popular preacher. Sailed to Manila in the Philippines in 1726, and reached China in 1728. Worked sixteen years in the Fo-kien province.

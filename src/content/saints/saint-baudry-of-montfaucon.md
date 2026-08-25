@@ -14,6 +14,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/5/5f/Saint-Baudry.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Baudry of Montfaucon
 imageCreditUrl: https://en.wikipedia.org/wiki/Balderic%20of%20Montfaucon
+prayers: []
 ---
 
 Seventh century monk. Founded the Abbey of Montfaucon in the diocese of Verdun, France.

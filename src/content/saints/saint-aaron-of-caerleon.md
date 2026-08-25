@@ -17,6 +17,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/4d/Caerleon_vue.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Aaron of Caerleon
 imageCreditUrl: https://en.wikipedia.org/wiki/Caerleon
+prayers: []
 ---
 
 Worked with Saint Julius of Caerleon. Martyred in the persecutions of Diocletian.

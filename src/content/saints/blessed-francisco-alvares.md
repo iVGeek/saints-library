@@ -1,23 +1,24 @@
 ---
-name: "Blessed Francisco Alvares"
+name: Blessed Francisco Alvares
 honorific: Blessed
-summary: "Jesuit friar. Missionary. Martyred by the Huguenot Jacques Sourie while en route to Brazil."
-image: "http://catholicsaints.info/wp-content/uploads/img-Martyred-Jesuit-Missionaries-of-Brazil.png"
+summary: Jesuit friar. Missionary. Martyred by the Huguenot Jacques Sourie while en route to Brazil.
+image: http://catholicsaints.info/wp-content/uploads/img-Martyred-Jesuit-Missionaries-of-Brazil.png
 birthYear: 1539
 deathYear: 1570
-born: "c.1539 in Covilhã, Castelo Branco, Portugal"
-died: "drowned 15 July 1570 by being thrown off the ship Santiago near Palma, Canary Islands"
-birthPlace: "Castelo Branco, Portugal"
-deathPlace: "Canary Islands"
-region: "Brazil"
+born: c.1539 in Covilhã, Castelo Branco, Portugal
+died: drowned 15 July 1570 by being thrown off the ship Santiago near Palma, Canary Islands
+birthPlace: Castelo Branco, Portugal
+deathPlace: Canary Islands
+region: Brazil
 feastDay:
   month: 7
   day: 15
 canonizationStatus: Blessed
 vocation:
   - Missionary
-religiousOrder: "Jesuit"
+religiousOrder: Jesuit
 martyr: true
+prayers: []
 ---
 
 Jesuit friar. Missionary. Martyred by the Huguenot Jacques Sourie while en route to Brazil.

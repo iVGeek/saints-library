@@ -1,12 +1,12 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Arcontius of Brioude"
+name: Saint Arcontius of Brioude
 honorific: Saint
-summary: "Fourth-century confessor in Brioude, France."
+summary: Fourth-century confessor in Brioude, France.
 searchAliases:
-  - "Arconce"
-  - "Arcons"
-region: "France"
+  - Arconce
+  - Arcons
+region: France
 feastDay:
   month: 6
   day: 18
@@ -15,6 +15,7 @@ vocation:
   - Monk
   - Confessor
 martyr: false
+prayers: []
 ---
 
 Fourth-century confessor in Brioude, France.

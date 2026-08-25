@@ -1,19 +1,20 @@
 ---
-name: "Saint Macrobius"
+name: Saint Macrobius
 honorific: Saint
-summary: "Martyed in the persecution of emperor Licinius."
+summary: Martyed in the persecution of emperor Licinius.
 deathYear: 311
-born: "Cappadocia (in modern Turkey)"
-died: "burned alive c.311 in Tomis near the Black Sea (in modern Turkey)"
-region: "Italy"
+born: Cappadocia (in modern Turkey)
+died: burned alive c.311 in Tomis near the Black Sea (in modern Turkey)
+region: Italy
 feastDay:
   month: 9
   day: 13
 canonizationStatus: Saint
-image: "https://upload.wikimedia.org/wikipedia/commons/a/ad/Plotin.jpg"
+image: https://upload.wikimedia.org/wikipedia/commons/a/ad/Plotin.jpg
 vocation:
   - Monk
 martyr: false
+prayers: []
 ---
 
 Martyed in the persecution of emperor Licinius.

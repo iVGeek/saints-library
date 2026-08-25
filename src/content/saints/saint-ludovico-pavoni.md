@@ -1,18 +1,18 @@
 ---
-name: "Saint Ludovico Pavoni"
+name: Saint Ludovico Pavoni
 honorific: Saint
-summary: " Rector of Saint Barnabas church in 1818 where soon after he f Trained in theology by the Dominican Father Carlo Ferrari, future bishop of Brescia, Italy. Ordained in 1807. Founded an Oratory for Christian education of poor boys in Brescia. Secretary to bishop Gabrio Nava in 1812."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Ludovico-Pavoni.jpg"
+summary: ' Rector of Saint Barnabas church in 1818 where soon after he f Trained in theology by the Dominican Father Carlo Ferrari, future bishop of Brescia, Italy. Ordained in 1807. Founded an Oratory for Christian education of poor boys in Brescia. Secretary to bishop Gabrio Nava in 1812.'
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Ludovico-Pavoni.jpg
 searchAliases:
-  - "Ludovic Pavoni"
-  - "Lodovico"
+  - Ludovic Pavoni
+  - Lodovico
 birthYear: 1784
 deathYear: 1849
-born: "11 September 1784 at Brescia, Italy"
-died: "Palm Sunday, 1 April 1849 at Saianco, Italy of natural causes"
-birthPlace: "Italy"
-deathPlace: "1 April 1849 at Saianco, Italynatural causes"
-region: "Brazil"
+born: 11 September 1784 at Brescia, Italy
+died: Palm Sunday, 1 April 1849 at Saianco, Italy of natural causes
+birthPlace: Italy
+deathPlace: 1 April 1849 at Saianco, Italynatural causes
+region: Brazil
 feastDay:
   month: 4
   day: 1
@@ -20,10 +20,11 @@ canonizationStatus: Saint
 vocation:
   - Bishop
   - Priest
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 patronage:
-  - "Sons of Mary Immaculate"
+  - Sons of Mary Immaculate
 martyr: false
+prayers: []
 ---
 
 Trained in theology by the Dominican Father Carlo Ferrari, future bishop of Brescia, Italy. Ordained in 1807. Founded an Oratory for Christian education of poor boys in Brescia. Secretary to bishop Gabrio Nava in 1812.

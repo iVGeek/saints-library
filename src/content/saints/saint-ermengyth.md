@@ -1,14 +1,14 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Ermengyth of Minster-in-Thanet"
+name: Saint Ermengyth of Minster-in-Thanet
 honorific: Saint
-summary: "Sister of Saint Ermenburgh. Nun at Minster-in-Thanet, Kent, England."
+summary: Sister of Saint Ermenburgh. Nun at Minster-in-Thanet, Kent, England.
 searchAliases:
-  - "Ermengitha"
-  - "Ermengytha"
+  - Ermengitha
+  - Ermengytha
 deathYear: 680
-died: "c.680"
-region: "England"
+died: c.680
+region: England
 feastDay:
   month: 7
   day: 30
@@ -17,6 +17,7 @@ vocation:
   - Monk
   - Religious
 martyr: false
+prayers: []
 ---
 
 Sister of Saint Ermenburgh. Nun at Minster-in-Thanet, Kent, England.

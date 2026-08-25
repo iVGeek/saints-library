@@ -1,15 +1,15 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Josep Maria Badía Mateu"
+name: Blessed Josep Maria Badía Mateu
 honorific: Blessed
-summary: "Claretian priest. Martyred in the Spanish Civil War."
+summary: Claretian priest. Martyred in the Spanish Civil War.
 birthYear: 1912
 deathYear: 1936
-born: "30 September 1912 in Puigpelat, Tarragona, Spain"
-died: "15 August 1936 in Barbastro, Huesca, Spain"
-birthPlace: "Tarragona, Spain"
-deathPlace: "Huesca, Spain"
-region: "Spain"
+born: 30 September 1912 in Puigpelat, Tarragona, Spain
+died: 15 August 1936 in Barbastro, Huesca, Spain
+birthPlace: Tarragona, Spain
+deathPlace: Huesca, Spain
+region: Spain
 feastDay:
   month: 8
   day: 15
@@ -17,6 +17,7 @@ canonizationStatus: Blessed
 vocation:
   - Priest
 martyr: true
+prayers: []
 ---
 
 Claretian priest. Martyred in the Spanish Civil War.

@@ -23,6 +23,7 @@ imageCredit: >-
   href="https://archive.org/download/cu31924029154072/cu31924029154072.pdf">https://archive.org/download/cu31924029154072/cu31924029154072.pdf</a></dd></dl>
 imageCreditUrl: >-
   https://commons.wikimedia.org/wiki/File:The%20Mohammedan%20world%20of%20to-day%20-%20being%20papers%20read%20at%20the%20first%20Missionary%20Conference%20on%20Behalf%20of%20the%20Mohammedan%20World%20held%20at%20Cairo%2C%20April%204th-9th%2C%201906%20(IA%20cu31924029154072).pdf
+prayers: []
 ---
 
 A memorial for all the unnamed Christians martyred in the desert and mountainous areas south of the Dead Sea during the persecutions of Emperor Valerius Maximianus Galerius.

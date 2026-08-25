@@ -22,6 +22,7 @@ vocation:
 patronage:
   - Lucca, Italy
 martyr: true
+prayers: []
 ---
 
 Soldier. Converted to Christianity by the example of Saint Lawrence of Rome, by whom he was baptized. Church ostiarius in Rome, Italy. Martyr. Figured in early fiction about the martyrs.

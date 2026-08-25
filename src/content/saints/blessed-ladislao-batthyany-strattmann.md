@@ -1,18 +1,21 @@
 ---
-name: "Blessed Ladislao Batthyány-Strattmann"
+name: Blessed Ladislao Batthyány-Strattmann
 honorific: Blessed
-summary: "Born into an ancient noble Hungarian family, the sixth of ten brothers. His family moved to Austria when he was six years old, and his mother died when Ladislao was twelve. When of age he studied agriculture, chemistry, physics, philosophy, literature, music, and medicine at the"
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Ladislao-Batthyany-Strattmann.jpg"
+summary: >-
+  Born into an ancient noble Hungarian family, the sixth of ten brothers. His family moved to Austria when he was six
+  years old, and his mother died when Ladislao was twelve. When of age he studied agriculture, chemistry, physics,
+  philosophy, literature, music, and medicine at the
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Ladislao-Batthyany-Strattmann.jpg
 searchAliases:
-  - "Ladislaus Batthyány-Strattmann"
-  - "László Batthyány-Strattmann"
+  - Ladislaus Batthyány-Strattmann
+  - László Batthyány-Strattmann
 birthYear: 1870
 deathYear: 1931
-born: "20 October 1870 in Dunakiliti, Hungary"
-died: "22 January 1931 at Vienna, Austria of bladder cancer"
-birthPlace: "Hungary"
-deathPlace: "Austriabladder cancer"
-region: "Hungary"
+born: 20 October 1870 in Dunakiliti, Hungary
+died: 22 January 1931 at Vienna, Austria of bladder cancer
+birthPlace: Hungary
+deathPlace: Austriabladder cancer
+region: Hungary
 feastDay:
   month: 1
   day: 22
@@ -22,6 +25,7 @@ vocation:
   - Religious
   - Soldier
 martyr: false
+prayers: []
 ---
 
 Born into an ancient noble Hungarian family, the sixth of ten brothers. His family moved to Austria when he was six years old, and his mother died when Ladislao was twelve. When of age he studied agriculture, chemistry, physics, philosophy, literature, music, and medicine at the University of Vienna, graduating with a medical degree in 1900. On 10 November 1898 he married Countess Maria Teresa Coreth, a pious woman, and the couple had thirteen children; the whole family attended Mass and prayed the Rosary every day.

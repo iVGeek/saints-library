@@ -1,26 +1,31 @@
 ---
-name: "Saint Nicholas Owen"
+name: Saint Nicholas Owen
 honorific: Venerable
-summary: "Son of a carpenter, Nicholas was raised in a family dedicated to the persecuted Church, and became a carpenter and mason. Two of his brothers became priests, another a printer of underground Catholic books, and Nicholas used his building skills to save the lives of priests and he"
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Nicholas-Owen.jpg"
+summary: >-
+  Son of a carpenter, Nicholas was raised in a family dedicated to the persecuted Church, and became a carpenter and
+  mason. Two of his brothers became priests, another a printer of underground Catholic books, and Nicholas used his
+  building skills to save the lives of priests and he
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Nicholas-Owen.jpg
 searchAliases:
-  - "John Owen"
-  - "Little John"
+  - John Owen
+  - Little John
 deathYear: 1606
-born: "16th century Oxford, England"
-died: "tortured to death on 2 March 1606 in London, England"
-birthPlace: "England"
-deathPlace: "England"
-region: "England"
+born: 16th century Oxford, England
+died: tortured to death on 2 March 1606 in London, England
+birthPlace: England
+deathPlace: England
+region: England
 feastDay:
   month: 3
   day: 22
-centuries: [17]
+centuries:
+  - 17
 canonizationStatus: Venerable
 vocation:
   - Priest
-religiousOrder: "Jesuit"
+religiousOrder: Jesuit
 martyr: true
+prayers: []
 ---
 
 Son of a carpenter, Nicholas was raised in a family dedicated to the persecuted Church, and became a carpenter and mason. Two of his brothers became priests, another a printer of underground Catholic books, and Nicholas used his building skills to save the lives of priests and help the Church's covert work in England.

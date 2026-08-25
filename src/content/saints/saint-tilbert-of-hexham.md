@@ -1,13 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Tilbert of Hexham"
+name: Saint Tilbert of Hexham
 honorific: Saint
-summary: "Bishop of Hexham, England from 781 to 789."
+summary: Bishop of Hexham, England from 781 to 789.
 searchAliases:
-  - "Gilbert of Hexham"
+  - Gilbert of Hexham
 deathYear: 789
-died: "789"
-region: "England"
+died: '789'
+region: England
 feastDay:
   month: 9
   day: 7
@@ -18,6 +18,7 @@ vocation:
   - Monk
   - Confessor
 martyr: false
+prayers: []
 ---
 
 Bishop of Hexham, England from 781 to 789.

@@ -20,6 +20,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/c/c3/RoundTowerLiathmore.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Failbhe the Little
 imageCreditUrl: https://en.wikipedia.org/wiki/Mochoemoc
+prayers: []
 ---
 
 Abbot of Iona Abbey for seven years.

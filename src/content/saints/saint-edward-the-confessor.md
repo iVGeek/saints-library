@@ -27,6 +27,7 @@ patronage:
   - England (former tradition)
   - Westminster, England, archdiocese of
 martyr: false
+prayers: []
 ---
 
 Born a prince, the son of King Ethelred II and Queen Emma; half-brother to King Edmund Ironside and King Hardicanute. When his father was unseated by Danish invasion. Edward and his brother were sent to Denmark to be quietly killed, but the officer in charge took pity on the boys, and sent them to Sweden, and from there they went to the King of Hungary to be raised and educated. Edward's interests were in things religious. When grown, the brothers moved to Normandy and waited their chance to return to England.

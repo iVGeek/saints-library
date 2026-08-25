@@ -24,6 +24,7 @@ vocation:
   - Priest
   - Missionary
 martyr: false
+prayers: []
 ---
 
 Against the strong wishes of his family, Giovanni was ordained a priest on 19 December 1818. Following a course of spiritual excercises conducted at the Abbey of San Felice in Giano dell'Umbria, Italy by Saint Caspar del Bufalo, Father Giovanni became one of the first members of the Missionaries of the Precious Blood. Friend of Saint Caspar.

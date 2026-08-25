@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Eleutherius of Constantinople"
+name: Saint Eleutherius of Constantinople
 honorific: Saint
-summary: "Martyr. No other information has survived."
-died: "burned to death in Constantinople, date unknown"
-deathPlace: "date unknown"
-region: "Turkey"
+summary: Martyr. No other information has survived.
+died: burned to death in Constantinople, date unknown
+deathPlace: date unknown
+region: Turkey
 feastDay:
   month: 8
   day: 8
@@ -13,6 +13,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Martyr. No other information has survived.

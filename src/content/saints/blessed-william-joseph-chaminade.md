@@ -1,17 +1,20 @@
 ---
-name: "Blessed William Joseph Chaminade"
+name: Blessed William Joseph Chaminade
 honorific: Blessed
-summary: "Second-youngest of fifteen children of Blaise Chaminade and Catherine Bethon; a deeply religious family, three of his brothers were also priests. Took the name Joseph as his Confirmation name, and preferred it to William. At age ten he went to the College of Mussidan where one of"
-image: "https://upload.wikimedia.org/wikipedia/commons/7/71/Chaminadeportrait.jpg"
+summary: >-
+  Second-youngest of fifteen children of Blaise Chaminade and Catherine Bethon; a deeply religious family, three of his
+  brothers were also priests. Took the name Joseph as his Confirmation name, and preferred it to William. At age ten he
+  went to the College of Mussidan where one of
+image: https://upload.wikimedia.org/wikipedia/commons/7/71/Chaminadeportrait.jpg
 searchAliases:
-  - "Guillaume Joseph Chaminade"
+  - Guillaume Joseph Chaminade
 birthYear: 1761
 deathYear: 1850
-born: "8 April 1761 at Perigeux, France"
-died: "22 January 1850 of natural causes in Bordeaux, France"
-birthPlace: "France"
-deathPlace: "France"
-region: "France"
+born: 8 April 1761 at Perigeux, France
+died: 22 January 1850 of natural causes in Bordeaux, France
+birthPlace: France
+deathPlace: France
+region: France
 feastDay:
   month: 1
   day: 22
@@ -20,8 +23,9 @@ vocation:
   - Priest
   - Missionary
 patronage:
-  - "Sodalities of Our Lady"
+  - Sodalities of Our Lady
 martyr: false
+prayers: []
 ---
 
 Second-youngest of fifteen children of Blaise Chaminade and Catherine Bethon; a deeply religious family, three of his brothers were also priests. Took the name Joseph as his Confirmation name, and preferred it to William. At age ten he went to the College of Mussidan where one of his brothers was a professor; as student, teacher, steward, and chaplain, William remained there for 20 years.

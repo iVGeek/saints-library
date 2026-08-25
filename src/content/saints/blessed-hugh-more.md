@@ -1,14 +1,17 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Hugh More"
+name: Blessed Hugh More
 honorific: Blessed
-summary: "Educated in England at Oxford and Gray's Inn. Converted to Catholicism. Studied and was ordained at Rheims, France, then returned to England to minister to covert Catholics during a period of persecution. For this crime he was martyred."
+summary: >-
+  Educated in England at Oxford and Gray's Inn. Converted to Catholicism. Studied and was ordained at Rheims, France,
+  then returned to England to minister to covert Catholics during a period of persecution. For this crime he was
+  martyred.
 deathYear: 1588
-born: "at Grantham, Lincolnshire, England"
-died: "hanged on 28 August 1588 at Lincoln's Inn Fields, London, England"
-birthPlace: "Lincolnshire, England"
-deathPlace: "London, England"
-region: "France"
+born: at Grantham, Lincolnshire, England
+died: hanged on 28 August 1588 at Lincoln's Inn Fields, London, England
+birthPlace: Lincolnshire, England
+deathPlace: London, England
+region: France
 feastDay:
   month: 8
   day: 28
@@ -17,6 +20,7 @@ vocation:
   - Priest
   - Monk
 martyr: true
+prayers: []
 ---
 
 Educated in England at Oxford and Gray's Inn. Converted to Catholicism. Studied and was ordained at Rheims, France, then returned to England to minister to covert Catholics during a period of persecution. For this crime he was martyred.

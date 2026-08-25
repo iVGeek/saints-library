@@ -1,15 +1,15 @@
 ---
-name: "Saint Serapion the Scholastic"
+name: Saint Serapion the Scholastic
 honorific: Saint
-summary: " Bishop of Thmuis, near Diospolis in the Nile delta of Egyptian monk. Ran the famous catechetical school of Alexandria, Egypt. Resigned to spend more time in prayer and penitence. Spiritual student of Saint Anthony the Abbot in the desert. Friend of Saint Athanasius of Alexandria."
-image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Serapion-the-Scholastic.jpg"
+summary: ' Bishop of Thmuis, near Diospolis in the Nile delta of Egyptian monk. Ran the famous catechetical school of Alexandria, Egypt. Resigned to spend more time in prayer and penitence. Spiritual student of Saint Anthony the Abbot in the desert. Friend of Saint Athanasius of Alexandria.'
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Serapion-the-Scholastic.jpg
 searchAliases:
-  - "Serapion of Arsinoe"
-  - "Serapion of Thmuis"
-  - "Serapion the Scholar"
+  - Serapion of Arsinoe
+  - Serapion of Thmuis
+  - Serapion the Scholar
 deathYear: 365
-died: "c.365–370 of natural causes while in exile in Egypt"
-region: "Egypt"
+died: c.365–370 of natural causes while in exile in Egypt
+region: Egypt
 feastDay:
   month: 3
   day: 21
@@ -20,6 +20,7 @@ vocation:
   - Monk
   - Confessor
 martyr: false
+prayers: []
 ---
 
 Egyptian monk. Ran the famous catechetical school of Alexandria, Egypt. Resigned to spend more time in prayer and penitence. Spiritual student of Saint Anthony the Abbot in the desert. Friend of Saint Athanasius of Alexandria.

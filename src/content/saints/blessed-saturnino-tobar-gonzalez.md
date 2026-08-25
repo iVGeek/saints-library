@@ -1,23 +1,24 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Saturnino Tobar González"
+name: Blessed Saturnino Tobar González
 honorific: Blessed
-summary: "Member of the Vincentian Congregation of the Mission. Martyred in the Spanish Civil War."
+summary: Member of the Vincentian Congregation of the Mission. Martyred in the Spanish Civil War.
 birthYear: 1858
 deathYear: 1936
-born: "24 December 1858 in Tardajos, Burgos, Spain"
-died: "28 September 1936 in Vallecas, Madrid, Spain"
-birthPlace: "Burgos, Spain"
-deathPlace: "Madrid, Spain"
-region: "Spain"
+born: 24 December 1858 in Tardajos, Burgos, Spain
+died: 28 September 1936 in Vallecas, Madrid, Spain
+birthPlace: Burgos, Spain
+deathPlace: Madrid, Spain
+region: Spain
 feastDay:
   month: 9
   day: 28
 canonizationStatus: Blessed
 vocation:
   - Cardinal
-religiousOrder: "Lazarist"
+religiousOrder: Lazarist
 martyr: true
+prayers: []
 ---
 
 Member of the Vincentian Congregation of the Mission. Martyred in the Spanish Civil War.

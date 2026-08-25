@@ -1,14 +1,14 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Stephen of Lyon"
+name: Saint Stephen of Lyon
 honorific: Saint
-summary: "Bishop of Lyon, France. Worked to convert the Arian Burgundians to orthodox Christianity."
+summary: Bishop of Lyon, France. Worked to convert the Arian Burgundians to orthodox Christianity.
 searchAliases:
-  - "Stefano"
-  - "Stephanus"
+  - Stefano
+  - Stephanus
 deathYear: 512
-died: "512 of natural causes"
-region: "France"
+died: 512 of natural causes
+region: France
 feastDay:
   month: 2
   day: 13
@@ -17,6 +17,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Bishop of Lyon, France. Worked to convert the Arian Burgundians to orthodox Christianity.

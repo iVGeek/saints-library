@@ -18,6 +18,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/b/b1/East-Ortho-cross.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Alanus of Lavaur
 imageCreditUrl: https://en.wikipedia.org/wiki/November%2025%20(Eastern%20Orthodox%20liturgics)
+prayers: []
 ---
 
 Seventh century founder and abbot of the monastery of Lavaur in Gascony (in modern France).

@@ -14,6 +14,7 @@ image: https://commons.wikimedia.org/wiki/Special:FilePath/Blaj_Iconostasis_Maka
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Martyr. No other information has survived.

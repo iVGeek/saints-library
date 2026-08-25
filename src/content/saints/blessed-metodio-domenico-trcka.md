@@ -1,24 +1,25 @@
 ---
-name: "Blessed Metoděj Dominik Trčka"
+name: Blessed Metoděj Dominik Trčka
 honorific: Blessed
-summary: " On 14 April 1950 the Communist government of Czechoslovakia outlawed religious c Redemptorist, making his profession on 25 August 1904. Priest, ordained in Prague (in modern Czech Republic) on 17 July 1910. Worked in parish missions. Vice-provincial of his order on 23 March 1946."
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Metoděj-Dominik-Trčka.gif"
+summary: ' On 14 April 1950 the Communist government of Czechoslovakia outlawed religious c Redemptorist, making his profession on 25 August 1904. Priest, ordained in Prague (in modern Czech Republic) on 17 July 1910. Worked in parish missions. Vice-provincial of his order on 23 March 1946.'
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Metoděj-Dominik-Trčka.gif
 searchAliases:
-  - "Dominik Trcka"
-  - "Metod Dominik Trcka"
-  - "Metodij Dominik Trcka"
+  - Dominik Trcka
+  - Metod Dominik Trcka
+  - Metodij Dominik Trcka
 deathYear: 1959
-died: "23 March 1959 in a Communist prison camp at Leopoldov, Trnavský kraj, Slovakia of pneumonia"
-deathPlace: "Trnavský kraj, Slovakiapneumonia"
-region: "Czech Republic"
+died: 23 March 1959 in a Communist prison camp at Leopoldov, Trnavský kraj, Slovakia of pneumonia
+deathPlace: Trnavský kraj, Slovakiapneumonia
+region: Czech Republic
 feastDay:
   month: 3
   day: 23
 canonizationStatus: Blessed
 vocation:
   - Priest
-religiousOrder: "Redemptorist"
+religiousOrder: Redemptorist
 martyr: true
+prayers: []
 ---
 
 Redemptorist, making his profession on 25 August 1904. Priest, ordained in Prague (in modern Czech Republic) on 17 July 1910. Worked in parish missions. Vice-provincial of his order on 23 March 1946.

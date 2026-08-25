@@ -21,6 +21,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/6/69/2872-saint-agnes-domenichino.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Basilides of Rome
 imageCreditUrl: https://en.wikipedia.org/wiki/Agnes%20of%20Rome
+prayers: []
 ---
 
 Born to the Imperial Roman nobility. Soldier, and possibly an officer. Martyred in the persecutions of Diocletian.

@@ -1,12 +1,12 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Vincent of Cologne"
+name: Saint Vincent of Cologne
 honorific: Saint
-summary: "Cardinal-priest. Travelled with and martyred with Saint Ursula."
+summary: Cardinal-priest. Travelled with and martyred with Saint Ursula.
 deathYear: 238
-died: "21 October 238 in Cologne, Germany"
-deathPlace: "Germany"
-region: "Germany"
+died: 21 October 238 in Cologne, Germany
+deathPlace: Germany
+region: Germany
 feastDay:
   month: 10
   day: 21
@@ -16,6 +16,7 @@ vocation:
   - Monk
   - Cardinal
 martyr: true
+prayers: []
 ---
 
 Cardinal–priest. Travelled with and martyred with Saint Ursula.

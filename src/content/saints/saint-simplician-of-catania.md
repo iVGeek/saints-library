@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Simplician of Catania"
+name: Saint Simplician of Catania
 honorific: Saint
-summary: "One of a group of Christians martyred together, date unknown. No other information has survived."
-died: "Catania, Sicily, Italy"
-deathPlace: "Sicily, Italy"
-region: "Italy"
+summary: One of a group of Christians martyred together, date unknown. No other information has survived.
+died: Catania, Sicily, Italy
+deathPlace: Sicily, Italy
+region: Italy
 feastDay:
   month: 12
   day: 31
@@ -13,6 +13,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 One of a group of Christians martyred together, date unknown. No other information has survived.

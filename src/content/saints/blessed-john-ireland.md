@@ -17,6 +17,7 @@ image: https://commons.wikimedia.org/wiki/Special:FilePath/JohnIreland.jpg?width
 vocation:
   - Priest
 martyr: true
+prayers: []
 ---
 
 Priest. Chaplain to Blessed John Larke and Saint Thomas More. Rector at Eltham, Kent, England from 1535 to 1536. Martyred with Blessed German Gardiner and Blessed John Larke for denying that the King of England had supremacy over the Church.

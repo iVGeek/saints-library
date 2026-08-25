@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Senator of Albano"
+name: Saint Senator of Albano
 honorific: Saint
-summary: "Martyr."
+summary: Martyr.
 searchAliases:
-  - "Senatore"
-region: "Italy"
+  - Senatore
+region: Italy
 feastDay:
   month: 9
   day: 26
@@ -13,8 +13,9 @@ canonizationStatus: Saint
 vocation:
   - Monk
 patronage:
-  - "Albano, Italy, diocese of"
+  - Albano, Italy, diocese of
 martyr: true
+prayers: []
 ---
 
 Martyr.

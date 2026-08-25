@@ -18,6 +18,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/9/9f/Sintpaulus_groen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Claudius of Antwerp
 imageCreditUrl: https://en.wikipedia.org/wiki/St.%20Paul's%20Church%2C%20Antwerp
+prayers: []
 ---
 
 Martyr. We have no other information about his life.

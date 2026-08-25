@@ -30,6 +30,7 @@ patronage:
   - Olivetans
   - Siena, Italy
 martyr: false
+prayers: []
 ---
 
 Giovannni early changed his name to Bernard from admiration for Bernard of Clairvaux. Educated by his Dominican uncle. His father prevented Bernard from entering religious life. Lawyer. Theologian. Soldier. Politician and government official. Struck blind, Bernardo recovered his sight through the intervention of the Blessed Virgin Mary, after which he gave up worldly life to become a hermit. Accused of heresy, Bernard soon cleared his name. Priest. Founder of the Benedictine Congregation of the Blessed Virgin of Monte Oliveto (Olivetan Congregation; Olivetans). During a bout of the plague, Bernard and his monks cared for any who needed it; none of the brothers became sick.

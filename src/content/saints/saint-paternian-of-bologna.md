@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Paternian of Bologna"
+name: Saint Paternian of Bologna
 honorific: Saint
-summary: "Bishop of Bologna, Italy from c.450 until his death."
+summary: Bishop of Bologna, Italy from c.450 until his death.
 deathYear: 470
-died: "c.470"
-region: "Italy"
+died: c.470
+region: Italy
 feastDay:
   month: 7
   day: 12
@@ -14,6 +14,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Bishop of Bologna, Italy from c.450 until his death.

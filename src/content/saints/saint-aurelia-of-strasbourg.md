@@ -1,15 +1,17 @@
 ---
-name: "Saint Aurelia of Strasbourg"
+name: Saint Aurelia of Strasbourg
 honorific: Saint
-summary: "Born a princess, a member of the royal family of Hugh Capet. To escape marriage, she fled to Alsace and lived as a recluse for 52 years. Only Bishop Wolfgang of Ratisbon knew that she was even alive."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Aurelia-of-Strasbourg.jpg"
+summary: >-
+  Born a princess, a member of the royal family of Hugh Capet. To escape marriage, she fled to Alsace and lived as a
+  recluse for 52 years. Only Bishop Wolfgang of Ratisbon knew that she was even alive.
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Aurelia-of-Strasbourg.jpg
 searchAliases:
-  - "Aurelia of Ratisbon"
-  - "Aurelia of Regensburg"
+  - Aurelia of Ratisbon
+  - Aurelia of Regensburg
 deathYear: 1027
-died: "15 October 1027 at Regensburg, Gemany of natural causes"
-deathPlace: "Gemanynatural causes"
-region: "France"
+died: 15 October 1027 at Regensburg, Gemany of natural causes
+deathPlace: Gemanynatural causes
+region: France
 feastDay:
   month: 10
   day: 15
@@ -19,6 +21,7 @@ vocation:
   - Monk
   - Hermit
 martyr: false
+prayers: []
 ---
 
 Born a princess, a member of the royal family of Hugh Capet. To escape marriage, she fled to Alsace and lived as a recluse for 52 years. Only Bishop Wolfgang of Ratisbon knew that she was even alive.

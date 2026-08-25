@@ -29,6 +29,7 @@ imageCredit: >-
 
   <dl><dt><b>cropped version</b></dt></dl>
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:Saint%20Fabian1.jpg
+prayers: []
 ---
 
 Martyr.

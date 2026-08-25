@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Marcellus the Martyr"
+name: Saint Marcellus the Martyr
 honorific: Saint
-summary: "Martyr."
+summary: Martyr.
 deathYear: 362
-died: "dragged by wild horses and then burned at the stake in 362"
-region: "England"
+died: dragged by wild horses and then burned at the stake in 362
+region: England
 feastDay:
   month: 11
   day: 16
@@ -13,6 +13,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Martyr.

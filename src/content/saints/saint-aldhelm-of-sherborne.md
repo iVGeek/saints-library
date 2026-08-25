@@ -1,17 +1,17 @@
 ---
-name: "Saint Aldhelm of Sherborne"
+name: Saint Aldhelm of Sherborne
 honorific: Saint
-summary: " Abbot at Malmesbury c Son of Centa, he was a Saxon and related to the King of Wessex. Lived for a while as a hermit near Wiltshire, England. Monk at Malmesbury Abbey in Wiltshire. Spiritual student of Saint Maeldulph and Saint Adrian of Canterbury. Teacher and spiritual director."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Aldhelm-of-Sherborne1.jpg"
+summary: ' Abbot at Malmesbury c Son of Centa, he was a Saxon and related to the King of Wessex. Lived for a while as a hermit near Wiltshire, England. Monk at Malmesbury Abbey in Wiltshire. Spiritual student of Saint Maeldulph and Saint Adrian of Canterbury. Teacher and spiritual director.'
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Aldhelm-of-Sherborne1.jpg
 searchAliases:
-  - "Adhelm"
-  - "Aldelmus"
+  - Adhelm
+  - Aldelmus
 birthYear: 640
 deathYear: 709
-born: "640 in England"
-died: "25 May 709 at Doulting, Somerset, England of natural causes"
-deathPlace: "Somerset, Englandnatural causes"
-region: "Italy"
+born: 640 in England
+died: 25 May 709 at Doulting, Somerset, England of natural causes
+deathPlace: Somerset, Englandnatural causes
+region: Italy
 feastDay:
   month: 5
   day: 25
@@ -19,14 +19,18 @@ canonizationStatus: Saint
 vocation:
   - Bishop
   - Priest
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 patronage:
-  - "librarians"
-  - "–"
-  - "in England\n\nDoulting"
-  - "Malmesbury"
-  - "Sherborne, Dorset"
+  - librarians
+  - –
+  - |-
+    in England
+
+    Doulting
+  - Malmesbury
+  - Sherborne, Dorset
 martyr: false
+prayers: []
 ---
 
 Son of Centa, he was a Saxon and related to the King of Wessex. Lived for a while as a hermit near Wiltshire, England. Monk at Malmesbury Abbey in Wiltshire. Spiritual student of Saint Maeldulph and Saint Adrian of Canterbury. Teacher and spiritual director.

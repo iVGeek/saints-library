@@ -26,6 +26,7 @@ patronage:
     East Anglia
   - East Anglia, diocese of
 martyr: true
+prayers: []
 ---
 
 In 1061 Lady Richeldis de Faverches, lady of the manor near the village of Walsingham, Norfolk, England, was taken in spirit to Nazareth. There Our Lady asked her to build a replica, in Norfolk, of the Holy House where she had been born, grew up, and received the Annunciation of Christ's impending birth. She immediately did, constructing a house 23'6″ by 12'10” according to the plan given her. Its fame slowly spread, and in 1150 a group of Augustinian Canons built a priory beside it. Its fame continued to grow, and for centuries it was a point of pilgrimage for all classes, the recipient of many expensive gifts.

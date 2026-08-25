@@ -1,12 +1,12 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Conall of Inniscoel"
+name: Saint Conall of Inniscoel
 honorific: Saint
-summary: "Monk. Seventh-century abbot of Inniscoel Abbey in Donegal, Ireland where there is a holy well dedicated to him."
+summary: Monk. Seventh-century abbot of Inniscoel Abbey in Donegal, Ireland where there is a holy well dedicated to him.
 searchAliases:
-  - "Coel"
-  - "Conald"
-region: "Ireland"
+  - Coel
+  - Conald
+region: Ireland
 feastDay:
   month: 5
   day: 22
@@ -15,6 +15,7 @@ vocation:
   - Priest
   - Monk
 martyr: false
+prayers: []
 ---
 
 Monk. Seventh-century abbot of Inniscoel Abbey in Donegal, Ireland where there is a holy well dedicated to him.

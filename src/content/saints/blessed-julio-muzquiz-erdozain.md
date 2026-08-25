@@ -1,25 +1,26 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Julio Múzquiz Erdozáin"
+name: Blessed Julio Múzquiz Erdozáin
 honorific: Blessed
-summary: "Monk. Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
+summary: Monk. Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War.
 searchAliases:
-  - "Julio Fermín"
+  - Julio Fermín
 birthYear: 1899
 deathYear: 1936
-born: "11 April 1899 in Aldava, Navarra, Spain"
-died: "23 August 1936 in Toledo, Spain"
-birthPlace: "Navarra, Spain"
-deathPlace: "Spain"
-region: "Spain"
+born: 11 April 1899 in Aldava, Navarra, Spain
+died: 23 August 1936 in Toledo, Spain
+birthPlace: Navarra, Spain
+deathPlace: Spain
+region: Spain
 feastDay:
   month: 8
   day: 23
 canonizationStatus: Blessed
 vocation:
   - Monk
-religiousOrder: "Marist"
+religiousOrder: Marist
 martyr: true
+prayers: []
 ---
 
 Monk. Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War.

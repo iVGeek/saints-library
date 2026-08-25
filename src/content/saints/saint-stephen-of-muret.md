@@ -25,6 +25,7 @@ vocation:
   - Monk
 religiousOrder: Benedictine
 martyr: false
+prayers: []
 ---
 
 Educated at Benevento, Italy from age 12 by Archbishop Blessed Milo of Benevento. Founder of the Benedictine house of Grandmont in the forest of Muret, in Limousin, France. Abbot of the house, though never formally a monk.

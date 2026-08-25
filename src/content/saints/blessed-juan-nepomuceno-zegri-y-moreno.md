@@ -1,18 +1,21 @@
 ---
-name: "Blessed Juan Nepomuceno Zegrí y Moreno"
+name: Blessed Juan Nepomuceno Zegrí y Moreno
 honorific: Blessed
-summary: "Son of Antonio Zegr&iacute; Mart&iacute;n and Josefa Moreno Escudero. A pious child, he received a good religious education, and felt an early call to the priesthood. Studied at Saint Dionysius Seminary, Granada, Spain. Ordained at Granada on 2 June 1855. Parish priest at Hu&eacu"
-image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Juan-Nepomuceno-Zegrí-y-Moreno-1.jpg"
+summary: >-
+  Son of Antonio Zegr&iacute; Mart&iacute;n and Josefa Moreno Escudero. A pious child, he received a good religious
+  education, and felt an early call to the priesthood. Studied at Saint Dionysius Seminary, Granada, Spain. Ordained at
+  Granada on 2 June 1855. Parish priest at Hu&eacu
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Juan-Nepomuceno-Zegrí-y-Moreno-1.jpg
 searchAliases:
-  - "John Nepomucene Zegr&iacute; y Moreno"
-  - "Johannes Nepomuk Zegr&iacute; y Moreno"
+  - John Nepomucene Zegr&iacute; y Moreno
+  - Johannes Nepomuk Zegr&iacute; y Moreno
 birthYear: 1831
 deathYear: 1905
-born: "11 October 1831 at Granada, Spain"
-died: "17 March 1905 at Malaga, Spain of natural causes"
-birthPlace: "Spain"
-deathPlace: "Spaof natural causes"
-region: "France"
+born: 11 October 1831 at Granada, Spain
+died: 17 March 1905 at Malaga, Spain of natural causes
+birthPlace: Spain
+deathPlace: Spaof natural causes
+region: France
 feastDay:
   month: 3
   day: 17
@@ -22,6 +25,7 @@ vocation:
   - Priest
   - Religious
 martyr: false
+prayers: []
 ---
 
 Son of Antonio Zegr&iacute; Mart&iacute;n and Josefa Moreno Escudero. A pious child, he received a good religious education, and felt an early call to the priesthood. Studied at Saint Dionysius Seminary, Granada, Spain. Ordained at Granada on 2 June 1855. Parish priest at Hu&eacute;tor Santill&aacute;n and San Gabriel de Loja in Granada. Synodal judge. Canon of the cathedral of Malaga, Spain. Visitor of the religious orders in his diocese. Spiritual director of seminarians. Preacher and royal chaplain to Queen Isabel II.

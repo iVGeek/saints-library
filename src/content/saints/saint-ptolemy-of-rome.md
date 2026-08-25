@@ -1,12 +1,14 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Ptolemy of Rome"
+name: Saint Ptolemy of Rome
 honorific: Saint
-summary: "Arrested and martyred in the persecutions of Antoninus Pius for the crime of teaching a woman about Christianity. His story was written by Saint Justin Martyr."
+summary: >-
+  Arrested and martyred in the persecutions of Antoninus Pius for the crime of teaching a woman about Christianity. His
+  story was written by Saint Justin Martyr.
 deathYear: 160
-died: "c.160 in Rome, Italy"
-deathPlace: "Italy"
-region: "Italy"
+died: c.160 in Rome, Italy
+deathPlace: Italy
+region: Italy
 feastDay:
   month: 10
   day: 19
@@ -15,6 +17,7 @@ vocation:
   - Priest
   - Monk
 martyr: true
+prayers: []
 ---
 
 Arrested and martyred in the persecutions of Antoninus Pius for the crime of teaching a woman about Christianity. His story was written by Saint Justin Martyr.

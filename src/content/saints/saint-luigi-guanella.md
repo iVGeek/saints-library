@@ -1,30 +1,36 @@
 ---
-name: "Saint Luigi Guanella"
+name: Saint Luigi Guanella
 honorific: Venerable
-summary: "Ninth of thirteen children born to Lawrence and Maria Guanella, a poor but pious family. Luigi entered seminary at age twelve, and was ordained on 26 May 1866. He worked with Saint John Bosco from 1875 to 1878 to care for homeless children. Youth director in Turin, Italy. Parish"
-image: "https://upload.wikimedia.org/wikipedia/commons/7/72/Guanella3.jpg"
+summary: >-
+  Ninth of thirteen children born to Lawrence and Maria Guanella, a poor but pious family. Luigi entered seminary at age
+  twelve, and was ordained on 26 May 1866. He worked with Saint John Bosco from 1875 to 1878 to care for homeless
+  children. Youth director in Turin, Italy. Parish
+image: https://upload.wikimedia.org/wikipedia/commons/7/72/Guanella3.jpg
 searchAliases:
-  - "Aloisius Guanella"
-  - "Aloysius Guanella"
-  - "Don Luigi"
-  - "Louis Guanella"
-  - "Ludovicus Guanella"
+  - Aloisius Guanella
+  - Aloysius Guanella
+  - Don Luigi
+  - Louis Guanella
+  - Ludovicus Guanella
 birthYear: 1842
 deathYear: 1915
-born: "9 December 1842 in Fraciscio di Campodolcino, Sondrio, diocese of Como, Italy"
-died: "24 October 1915 in Como, Italy of complications from a stroke he suffered on 27 September 1915"
-birthPlace: "Sondrio, dioceseComo, Italy"
-deathPlace: "Italycomplications from a stroke he suffered on 27 September 1915"
-region: "France"
+born: 9 December 1842 in Fraciscio di Campodolcino, Sondrio, diocese of Como, Italy
+died: 24 October 1915 in Como, Italy of complications from a stroke he suffered on 27 September 1915
+birthPlace: Sondrio, dioceseComo, Italy
+deathPlace: Italycomplications from a stroke he suffered on 27 September 1915
+region: France
 feastDay:
   month: 10
   day: 24
-centuries: [19, 20]
+centuries:
+  - 19
+  - 20
 canonizationStatus: Venerable
 vocation:
   - Priest
   - Religious
 martyr: false
+prayers: []
 ---
 
 Ninth of thirteen children born to Lawrence and Maria Guanella, a poor but pious family. Luigi entered seminary at age twelve, and was ordained on 26 May 1866. He worked with Saint John Bosco from 1875 to 1878 to care for homeless children. Youth director in Turin, Italy. Parish priest in Traona, Itay, where he opened a school for the poor; local anti–Catholic Masons forced its closure in 1881.

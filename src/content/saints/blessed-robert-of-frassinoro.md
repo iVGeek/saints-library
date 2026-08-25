@@ -1,19 +1,20 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Robert of Frassinoro"
+name: Blessed Robert of Frassinoro
 honorific: Blessed
-summary: "Benedictine monk. Abbot of the abbey of Frassinoro near Modena, Italy."
+summary: Benedictine monk. Abbot of the abbey of Frassinoro near Modena, Italy.
 deathYear: 1070
-died: "1070"
-region: "Italy"
+died: '1070'
+region: Italy
 feastDay:
   month: 6
   day: 8
 canonizationStatus: Blessed
 vocation:
   - Monk
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 martyr: false
+prayers: []
 ---
 
 Benedictine monk. Abbot of the abbey of Frassinoro near Modena, Italy.

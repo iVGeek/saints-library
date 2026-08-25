@@ -1,17 +1,17 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Werburgh of Bardney"
+name: Saint Werburgh of Bardney
 honorific: Saint
-summary: "Married to Ceolred of Mercia. Widow. Nun and then abbess at Bardney, England."
+summary: Married to Ceolred of Mercia. Widow. Nun and then abbess at Bardney, England.
 searchAliases:
-  - "Werburgh of Mercia"
-  - "Werburga…."
-  - "Werburg…."
+  - Werburgh of Mercia
+  - Werburga….
+  - Werburg….
 deathYear: 785
-born: "in Mercia, England"
-died: "c.785 of natural causes"
-birthPlace: "England"
-region: "England"
+born: in Mercia, England
+died: c.785 of natural causes
+birthPlace: England
+region: England
 feastDay:
   month: 2
   day: 3
@@ -19,6 +19,7 @@ canonizationStatus: Saint
 vocation:
   - Religious
 martyr: false
+prayers: []
 ---
 
 Married to Ceolred of Mercia. Widow. Nun and then abbess at Bardney, England.

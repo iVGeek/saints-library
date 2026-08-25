@@ -27,6 +27,7 @@ vocation:
   - Priest
 religiousOrder: Dominican
 martyr: false
+prayers: []
 ---
 
 Lay woman of the diocese of Gap, France. Member of the Lay Dominicans. Visionary who experienced the apparitions of Our Lady of Laus.

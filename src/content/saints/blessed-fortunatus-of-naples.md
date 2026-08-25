@@ -15,6 +15,7 @@ image: https://commons.wikimedia.org/wiki/Special:FilePath/San_Severo.JPG?width=
 vocation:
   - Bishop
 martyr: false
+prayers: []
 ---
 
 Bishop of Naples, Italy in the mid-4th-century. Fought to keep Arianism out of his diocese.

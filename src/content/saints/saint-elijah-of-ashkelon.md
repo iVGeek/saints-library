@@ -15,4 +15,5 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/7/7a/L%C3%A9on_Bonnat_-_Job.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Elijah of Ashkelon
 imageCreditUrl: https://en.wikipedia.org/wiki/Job%20(biblical%20figure)
+prayers: []
 ---

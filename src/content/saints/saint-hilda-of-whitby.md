@@ -26,6 +26,7 @@ religiousOrder: Jesuit
 patronage:
   - Whitby, England
 martyr: false
+prayers: []
 ---
 
 Daughter of Hereric and Breguswith. Sister of Saint Hereswitha. Grand-niece of King Saint Edwin of Northumbria. Baptized in 627 at age thirteen by Saint Paulinus of York. Lived as a single lay woman until age 33 when she became a Benedictine nun at the monastery of Chelles in France. Abbess at Hartepool, Northumberland, England. Abbess of the double monastery of Whitby, Streaneshalch. Abbess to Saint Wilfrid of York, Saint John of Beverley, and three other bishops. Patroness and supporter of learning and culture, including the work of the poet Caedmon.

@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Januarius of Thibiuca"
+name: Saint Januarius of Thibiuca
 honorific: Saint
-summary: "Martyred in the persecutions of Diocletian."
+summary: Martyred in the persecutions of Diocletian.
 deathYear: 303
-died: "303"
-region: "Italy"
+died: '303'
+region: Italy
 feastDay:
   month: 10
   day: 24
@@ -15,6 +15,7 @@ vocation:
   - Priest
   - Monk
 martyr: true
+prayers: []
 ---
 
 Martyred in the persecutions of Diocletian.

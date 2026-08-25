@@ -1,12 +1,14 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Carponius of Caesarea"
+name: Saint Carponius of Caesarea
 honorific: Saint
-summary: "Brother of Saint Evaristus of Caesarea, Saint Priscianus of Caesarea and Saint Fortunata of Caesarea. Martyred in the persecutions of Diocletian."
+summary: >-
+  Brother of Saint Evaristus of Caesarea, Saint Priscianus of Caesarea and Saint Fortunata of Caesarea. Martyred in the
+  persecutions of Diocletian.
 deathYear: 303
-died: "in 303 in Caesarea, Cappadocia (in modern Turkey)"
-deathPlace: "Cappadocia (modern Turkey)"
-region: "Italy"
+died: in 303 in Caesarea, Cappadocia (in modern Turkey)
+deathPlace: Cappadocia (modern Turkey)
+region: Italy
 feastDay:
   month: 10
   day: 14
@@ -14,8 +16,9 @@ canonizationStatus: Saint
 vocation:
   - Priest
   - Monk
-religiousOrder: "Jesuit"
+religiousOrder: Jesuit
 martyr: true
+prayers: []
 ---
 
 Brother of Saint Evaristus of Caesarea, Saint Priscianus of Caesarea and Saint Fortunata of Caesarea. Martyred in the persecutions of Diocletian.

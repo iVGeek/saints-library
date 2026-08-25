@@ -1,12 +1,12 @@
 ---
-name: "Saint Eustorgius of Milan"
+name: Saint Eustorgius of Milan
 honorific: Saint
-summary: "Bishop of Milan, Italy in 315. Noted opponent of Arianism."
-image: "http://catholicsaints.info/wp-content/uploads/Sant_Eustorgio_di_Milano.jpg"
+summary: Bishop of Milan, Italy in 315. Noted opponent of Arianism.
+image: http://catholicsaints.info/wp-content/uploads/Sant_Eustorgio_di_Milano.jpg
 deathYear: 331
-born: "Greece"
-died: "c.331"
-region: "Italy"
+born: Greece
+died: c.331
+region: Italy
 feastDay:
   month: 9
   day: 18
@@ -15,6 +15,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Bishop of Milan, Italy in 315. Noted opponent of Arianism.

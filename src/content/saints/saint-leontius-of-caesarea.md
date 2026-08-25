@@ -1,13 +1,15 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Leontius of Caesarea"
+name: Saint Leontius of Caesarea
 honorific: Saint
-summary: "Bishop of Caesarea. Worked in the Council of Nicaea in 325. Highly praised in the writings of Saint Athanasius of Alexandria."
+summary: >-
+  Bishop of Caesarea. Worked in the Council of Nicaea in 325. Highly praised in the writings of Saint Athanasius of
+  Alexandria.
 searchAliases:
-  - "Angel of Peace"
+  - Angel of Peace
 deathYear: 337
-died: "337 of natural causes"
-region: "Egypt"
+died: 337 of natural causes
+region: Egypt
 feastDay:
   month: 1
   day: 13
@@ -16,6 +18,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Bishop of Caesarea. Worked in the Council of Nicaea in 325. Highly praised in the writings of Saint Athanasius of Alexandria.

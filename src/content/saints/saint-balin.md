@@ -20,6 +20,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/a/a0/Marty_Balin_photo_1976.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Balin
 imageCreditUrl: https://en.wikipedia.org/wiki/Marty%20Balin
+prayers: []
 ---
 
 Born to the 7th century English nobility. Brother of Saint Gerald. Worked with Saint Colman of Lindisfarne, and travelled with him to Iona, Scotland. With his brothers, he later settled to live as a monk at Tecksaxon (“The House of the Saxons”) near Tuam, Ireland.

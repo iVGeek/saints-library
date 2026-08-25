@@ -1,18 +1,21 @@
 ---
-name: "Saint Macarius the Younger"
+name: Saint Macarius the Younger
 honorific: Saint
-summary: "Successful merchant in fruits, candies, and pastries in Alexandria, Egypt. Converting to Christianity, Macarius gave up his business in 335 to become a monk and hermit in the Thebaid, Upper Egypt. For a while he lived near and was a friend of Saint Anthony the Abbot. Macarius was"
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Macarius-the-Younger.jpg"
+summary: >-
+  Successful merchant in fruits, candies, and pastries in Alexandria, Egypt. Converting to Christianity, Macarius gave
+  up his business in 335 to become a monk and hermit in the Thebaid, Upper Egypt. For a while he lived near and was a
+  friend of Saint Anthony the Abbot. Macarius was
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Macarius-the-Younger.jpg
 searchAliases:
-  - "Macarius of Alexandria"
-  - "Macarius the Alexandrian"
-  - "Macarius the Hermit"
+  - Macarius of Alexandria
+  - Macarius the Alexandrian
+  - Macarius the Hermit
 deathYear: 401
-born: "early 4th century at Alexandria, Egypt"
-died: "c.401 in Alexandria, Egypt of natural causes"
-birthPlace: "Egypt"
-deathPlace: "Egyptnatural causes"
-region: "Italy"
+born: early 4th century at Alexandria, Egypt
+died: c.401 in Alexandria, Egypt of natural causes
+birthPlace: Egypt
+deathPlace: Egyptnatural causes
+region: Italy
 feastDay:
   month: 1
   day: 2
@@ -22,10 +25,11 @@ vocation:
   - Monk
   - Hermit
 patronage:
-  - "confectioners"
-  - "cooks"
-  - "pastry chefs"
+  - confectioners
+  - cooks
+  - pastry chefs
 martyr: false
+prayers: []
 ---
 
 Successful merchant in fruits, candies, and pastries in Alexandria, Egypt. Converting to Christianity, Macarius gave up his business in 335 to become a monk and hermit in the Thebaid, Upper Egypt. For a while he lived near and was a friend of Saint Anthony the Abbot. Macarius was a poet, healer, and friend to wild animals. He was exiled by heretic Arians with Saint Macarius the Elder and other monks to an island in the Nile because of his orthodoxy, but he was later allowed to return. In later life he travelled to Lower Egypt, and was ordained, and lived in a desert cell with other monks. He wrote a constitution for the monastery at Nitria named after him, and some of its rules were adopted by Saint Jerome for his monastery.

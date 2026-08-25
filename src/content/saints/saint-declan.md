@@ -24,6 +24,7 @@ symbols:
   - Cross
 martyr: false
 lifeEvents: []
+prayers: []
 ---
 
 Eighth century evangelist to the Germanic people who had been brought the faith by Saint Boniface of Crediton. Worked with Saint Martinus.

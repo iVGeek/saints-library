@@ -16,6 +16,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/5/5a/Nicodemo_ferrucci_%28attr.%29%2C_storie_di_san_romolo_di_fiesole%2C_1590-1600_ca._01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Carissimus of Fiesole
 imageCreditUrl: https://en.wikipedia.org/wiki/Romulus%20of%20Fiesole
+prayers: []
 ---
 
 Martyred in the persecutions of emperor Domitian.

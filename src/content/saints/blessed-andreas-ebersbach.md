@@ -18,6 +18,7 @@ canonizationStatus: Blessed
 vocation:
   - Monk
 martyr: false
+prayers: []
 ---
 
 Premonstratensian monk. Canon of the monastery in Teplá, Bohemia (in the modern Czech Republic). Abbot of Teplá in 1599; he served in that office for 30 years. Known for his strict adhereance to the Rule of his Order, and commended by diocesan authorities for his work as a Christian catechist and apologist.

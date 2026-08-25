@@ -17,6 +17,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/5/52/JeremyClement.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Clement of Lyon
 imageCreditUrl: https://en.wikipedia.org/wiki/J%C3%A9r%C3%A9my%20Cl%C3%A9ment
+prayers: []
 ---
 
 2nd–3rd century priest in the vicinity of modern Lyon, France. Spiritual student of Saint Irenaeus.

@@ -1,24 +1,25 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Meingosus of Weingarten"
+name: Blessed Meingosus of Weingarten
 honorific: Blessed
-summary: "Benedictine monk. Abbot of at Weingarten abbey in Swabia (in modern Germany) c.1188."
+summary: Benedictine monk. Abbot of at Weingarten abbey in Swabia (in modern Germany) c.1188.
 searchAliases:
-  - "Megingaud"
-  - "Meingos"
+  - Megingaud
+  - Meingos
 deathYear: 1200
-died: "c.1200"
-region: "Germany"
+died: c.1200
+region: Germany
 feastDay:
   month: 4
   day: 2
 canonizationStatus: Blessed
 vocation:
   - Monk
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 patronage:
-  - "Weingarten, Germany"
+  - Weingarten, Germany
 martyr: false
+prayers: []
 ---
 
 Benedictine monk. Abbot of at Weingarten abbey in Swabia (in modern Germany) c.1188.

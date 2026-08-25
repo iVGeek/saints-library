@@ -1,25 +1,34 @@
 ---
-name: "Saint Siméon-François Berneux"
+name: Saint Siméon-François Berneux
 honorific: Venerable
-summary: "Born to a poor family, Siméon felt a call to the priesthood at age ten. He entered the seminary in Mans, France in 1831. Due to health problems, he had to leave seminary for two years during which time he worked as a tutor. Ordained a diocesan priest on 20 May 1837, Father Berneu"
-image: "https://upload.wikimedia.org/wikipedia/commons/e/e5/St-Berneux.jpg"
+summary: >-
+  Born to a poor family, Siméon felt a call to the priesthood at age ten. He entered the seminary in Mans, France in
+  1831. Due to health problems, he had to leave seminary for two years during which time he worked as a tutor. Ordained
+  a diocesan priest on 20 May 1837, Father Berneu
+image: https://upload.wikimedia.org/wikipedia/commons/e/e5/St-Berneux.jpg
 birthYear: 1814
 deathYear: 1866
-born: "14 May 1814 in Château-du-Loir, Sarthe, France"
-died: "tortured, blinded by having quicklime thrown in his eyes, and then beheaded on 7 March 1866 on a beach beside the Han River in Saenamteo, Seoul, South Korea"
-birthPlace: "Sarthe, France"
-deathPlace: "blinded by having quicklime thrownhis eyes, and then beheaded on 7 March 1866 on a beach beside the Han River in Saenamteo, Seoul, South Korea"
-region: "Korea"
+born: 14 May 1814 in Château-du-Loir, Sarthe, France
+died: >-
+  tortured, blinded by having quicklime thrown in his eyes, and then beheaded on 7 March 1866 on a beach beside the Han
+  River in Saenamteo, Seoul, South Korea
+birthPlace: Sarthe, France
+deathPlace: >-
+  blinded by having quicklime thrownhis eyes, and then beheaded on 7 March 1866 on a beach beside the Han River in
+  Saenamteo, Seoul, South Korea
+region: Korea
 feastDay:
   month: 3
   day: 7
-centuries: [19]
+centuries:
+  - 19
 canonizationStatus: Venerable
 vocation:
   - Bishop
   - Priest
   - Missionary
 martyr: true
+prayers: []
 ---
 
 Born to a poor family, Siméon felt a call to the priesthood at age ten. He entered the seminary in Mans, France in 1831. Due to health problems, he had to leave seminary for two years during which time he worked as a tutor. Ordained a diocesan priest on 20 May 1837, Father Berneux served as a professor and spiritual director at the Mons seminary.

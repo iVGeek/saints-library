@@ -23,6 +23,7 @@ vocation:
   - Priest
 religiousOrder: Augustinian
 martyr: false
+prayers: []
 ---
 
 Educated in the monastery of Saint Marcellus at León, Spain. Pilgrim to Rome, Italy, and to Constantinople. Augustinian canon regular at Saint Marcellus abbey. Priest. When his monastery was secularized, he entered the collegiate church of Saint Isidore at Leon. Wrote commentaries on the Epistles and Revelations, and discourses on varied subjects. Known during his lifetime for his holiness and ascetical writings.

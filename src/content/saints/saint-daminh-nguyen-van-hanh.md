@@ -1,27 +1,30 @@
 ---
-name: "Saint Ðaminh Nguyen Van Hanh"
+name: Saint Ðaminh Nguyen Van Hanh
 honorific: Venerable
-summary: "Dominican priest. Martyr."
-image: "http://catholicsaints.info/wp-content/gallery/martyrs-of-vietnam/martyrs-of-vietnam-01.jpg"
+summary: Dominican priest. Martyr.
+image: http://catholicsaints.info/wp-content/gallery/martyrs-of-vietnam/martyrs-of-vietnam-01.jpg
 searchAliases:
-  - "Dominic"
-  - "Domenico"
+  - Dominic
+  - Domenico
 birthYear: 1772
 deathYear: 1838
-born: "1772 in Nang A, Nghe An, Vietnam"
-died: "beheaded on 1 August 1838 in Ba Tòa, Nam Ðinh, Vietnam"
-birthPlace: "Nghe An, Vietnam"
-deathPlace: "Nam Ðinh, Vietnam"
-region: "England"
+born: 1772 in Nang A, Nghe An, Vietnam
+died: beheaded on 1 August 1838 in Ba Tòa, Nam Ðinh, Vietnam
+birthPlace: Nghe An, Vietnam
+deathPlace: Nam Ðinh, Vietnam
+region: England
 feastDay:
   month: 8
   day: 1
-centuries: [18, 19]
+centuries:
+  - 18
+  - 19
 canonizationStatus: Venerable
 vocation:
   - Priest
-religiousOrder: "Dominican"
+religiousOrder: Dominican
 martyr: true
+prayers: []
 ---
 
 Dominican priest. Martyr.

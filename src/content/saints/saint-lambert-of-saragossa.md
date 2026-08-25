@@ -1,20 +1,21 @@
 ---
-name: "Saint Lambert of Saragossa"
+name: Saint Lambert of Saragossa
 honorific: Saint
-summary: "Farmer and servant during the period of Muslim occupation of Spain. Martyred by his Saracen master."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Lamberto-of-Saragossa.jpg"
+summary: Farmer and servant during the period of Muslim occupation of Spain. Martyred by his Saracen master.
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Lamberto-of-Saragossa.jpg
 searchAliases:
-  - "Lamberto"
-  - "Lambertus"
+  - Lamberto
+  - Lambertus
 deathYear: 900
-died: "beheaded c.900"
-region: "Spain"
+died: beheaded c.900
+region: Spain
 feastDay:
   month: 6
   day: 19
 canonizationStatus: Saint
 vocation: []
 martyr: true
+prayers: []
 ---
 
 Farmer and servant during the period of Muslim occupation of Spain. Martyred by his Saracen master.

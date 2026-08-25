@@ -1,13 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Nymphora of Nicaea"
+name: Saint Nymphora of Nicaea
 honorific: Saint
-summary: "Martyr."
+summary: Martyr.
 searchAliases:
-  - "Nymphodora"
-died: "at Nicaea, Bithynia (modern Iznik, Turkey), date unknown"
-deathPlace: "Bithynia (modern Iznik, Turkey), date unknown"
-region: "England"
+  - Nymphodora
+died: at Nicaea, Bithynia (modern Iznik, Turkey), date unknown
+deathPlace: Bithynia (modern Iznik, Turkey), date unknown
+region: England
 feastDay:
   month: 3
   day: 13
@@ -15,6 +15,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Martyr.

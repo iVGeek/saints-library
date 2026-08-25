@@ -22,6 +22,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/0/04/Basil_of_Caesarea.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Basilios of Constantinople
 imageCreditUrl: https://en.wikipedia.org/wiki/Basil%20of%20Caesarea
+prayers: []
 ---
 
 Opposed the 8th-century iconoclast decrees of Leo the Isaurian, and preserved icons and images in his care. Beaten and imprisoned for this work, he was finally released after Leo's death.

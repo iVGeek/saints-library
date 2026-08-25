@@ -22,6 +22,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/3/38/Ingres_Martyre_Saint-Symphorien.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Germanus of Verona
 imageCreditUrl: https://en.wikipedia.org/wiki/Symphorian%20and%20Timotheus
+prayers: []
 ---
 
 19th bishop of the diocese of Verona, Italy. Old writings describe his “evangelical discipline”. Other old records, hand-written with varying quality, sometimes confuse his name with Cerbonio.

@@ -1,51 +1,62 @@
 ---
-name: "Saint Alphonsus Maria de Liguori"
+name: Saint Alphonsus Maria de Liguori
 honorific: Venerable
-summary: "Born to the nobility, Alphonsus was a child prodigy; he became extremely well-educated, and received his doctorate in law from the University of Naples at age 16. He had his own legal practice by age 21, and was soon one of the leading lawyers in Naples, though he never attended"
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Alphonsus-Maria-de-Liguori.gif"
+summary: >-
+  Born to the nobility, Alphonsus was a child prodigy; he became extremely well-educated, and received his doctorate in
+  law from the University of Naples at age 16. He had his own legal practice by age 21, and was soon one of the leading
+  lawyers in Naples, though he never attended
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Alphonsus-Maria-de-Liguori.gif
 searchAliases:
-  - "Alfonso…"
-  - "Alfons…"
-  - "Alfontso…"
-  - "Alphonse…"
-  - "Alfonsu…"
-  - "Afonso…"
+  - Alfonso…
+  - Alfons…
+  - Alfontso…
+  - Alphonse…
+  - Alfonsu…
+  - Afonso…
 birthYear: 1696
 deathYear: 1787
-born: "27 September 1696 at Marianelli near Naples, Italy"
-died: "1 August 1787 at Nocera, Italy of natural causes"
-birthPlace: "Italy"
-deathPlace: "Italynatural causes"
-region: "Italy"
+born: 27 September 1696 at Marianelli near Naples, Italy
+died: 1 August 1787 at Nocera, Italy of natural causes
+birthPlace: Italy
+deathPlace: Italynatural causes
+region: Italy
 feastDay:
   month: 8
   day: 1
-centuries: [17, 18]
+centuries:
+  - 17
+  - 18
 canonizationStatus: Venerable
 vocation:
   - Confessor
-religiousOrder: "Jesuit"
+religiousOrder: Jesuit
 patronage:
-  - "against arthritis"
-  - "against scrupulosity"
-  - "confessors (proclaimed on 26 April 1950 by Pope Pius XII)"
-  - "final perseverance"
-  - "moral theologians"
-  - "moralists (proclaimed on 26 April 1950 by Pope Pius XII)"
-  - "scrupulous people"
-  - "theologians"
-  - "vocations\n—"
-  - "Sisters of the Holy Redeemer"
-  - "—"
-  - "in Italy\n\nAcerra, diocese of"
-  - "Agrigento, archdiocese of"
-  - "Agrigento, city of"
-  - "Cerreto Sannita-Telese-Sant'Agata de' Goti, diocese of"
-  - "Naples"
-  - "Nocera"
-  - "Pagani"
-  - "Sant'Agata de' Goti, city of"
+  - against arthritis
+  - against scrupulosity
+  - confessors (proclaimed on 26 April 1950 by Pope Pius XII)
+  - final perseverance
+  - moral theologians
+  - moralists (proclaimed on 26 April 1950 by Pope Pius XII)
+  - scrupulous people
+  - theologians
+  - |-
+    vocations
+    —
+  - Sisters of the Holy Redeemer
+  - —
+  - |-
+    in Italy
+
+    Acerra, diocese of
+  - Agrigento, archdiocese of
+  - Agrigento, city of
+  - Cerreto Sannita-Telese-Sant'Agata de' Goti, diocese of
+  - Naples
+  - Nocera
+  - Pagani
+  - Sant'Agata de' Goti, city of
 martyr: false
+prayers: []
 ---
 
 Born to the nobility, Alphonsus was a child prodigy; he became extremely well-educated, and received his doctorate in law from the University of Naples at age 16. He had his own legal practice by age 21, and was soon one of the leading lawyers in Naples, though he never attended court without having attended Mass first. He loved music, could play the harpsichord, and often attended the opera, though he frequently listened without bothering to watch the over-done staging. As he matured and learned more and more of the world, he liked it less and less, and finally felt a call to religious life. He declined an arranged marriage, studied theology, and was ordained at age 29.

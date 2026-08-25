@@ -1,20 +1,23 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Wolfang of Steinkirchen"
+name: Blessed Wolfang of Steinkirchen
 honorific: Blessed
-summary: "Franciscan priest, noted for his charismatic preaching. Martyred by invading Turks for refusing to renounce Christianity."
+summary: >-
+  Franciscan priest, noted for his charismatic preaching. Martyred by invading Turks for refusing to renounce
+  Christianity.
 deathYear: 1529
-died: "beheaded on 24 September 1529 in Enzersdorf, Austria"
-deathPlace: "Austria"
-region: "Austria"
+died: beheaded on 24 September 1529 in Enzersdorf, Austria
+deathPlace: Austria
+region: Austria
 feastDay:
   month: 9
   day: 24
 canonizationStatus: Blessed
 vocation:
   - Priest
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 martyr: true
+prayers: []
 ---
 
 Franciscan priest, noted for his charismatic preaching. Martyred by invading Turks for refusing to renounce Christianity.

@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Thecla of Caesarea"
+name: Saint Thecla of Caesarea
 honorific: Saint
-summary: "Martyred by order of Urban, governor of Palestine, during the persecutions of Diocletian."
+summary: Martyred by order of Urban, governor of Palestine, during the persecutions of Diocletian.
 deathYear: 304
-died: "torn apart by wild beasts in 304 at the amphitheater at Caesarea"
-region: "Holy Land"
+died: torn apart by wild beasts in 304 at the amphitheater at Caesarea
+region: Holy Land
 feastDay:
   month: 8
   day: 19
@@ -14,6 +14,7 @@ vocation:
   - Priest
   - Monk
 martyr: true
+prayers: []
 ---
 
 Martyred by order of Urban, governor of Palestine, during the persecutions of Diocletian.

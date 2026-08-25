@@ -1,16 +1,16 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Valentine of Trier"
+name: Saint Valentine of Trier
 honorific: Saint
-summary: "Early bishop of Trier, Germany. Martyred in the persecutions of Diocletian."
+summary: Early bishop of Trier, Germany. Martyred in the persecutions of Diocletian.
 searchAliases:
-  - "Valentine of Treves"
-  - "Valentine of Tongres"
-  - "Valentine of Cologne"
-  - "Valentino of…"
+  - Valentine of Treves
+  - Valentine of Tongres
+  - Valentine of Cologne
+  - Valentino of…
 deathYear: 305
-died: "c.305"
-region: "Germany"
+died: c.305
+region: Germany
 feastDay:
   month: 7
   day: 16
@@ -19,6 +19,7 @@ vocation:
   - Bishop
   - Monk
 martyr: true
+prayers: []
 ---
 
 Early bishop of Trier, Germany. Martyred in the persecutions of Diocletian.

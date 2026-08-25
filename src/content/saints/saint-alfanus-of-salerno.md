@@ -20,6 +20,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/9/96/Alfano_di_Salerno.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Alfanus of Salerno
 imageCreditUrl: https://en.wikipedia.org/wiki/Alfanus%20I
+prayers: []
 ---
 
 Benedictine monk at Monte Cassino Abbey. Archbishop of Salerno, Italy. Assisted Pope Saint Gregory VII on his death-bed.

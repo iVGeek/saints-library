@@ -22,6 +22,7 @@ vocation:
   - Priest
   - Monk
 martyr: false
+prayers: []
 ---
 
 Son of Rufinianus. Priest as a young man. Known as a gentle and pious man, very generous to the poor. Vicar for Pope Saint Martin I during his exile. Elected 75th pope in 654. He opposed the heretical Monothelite Byzantine emperor; in return, the emperor threatened to roast the pope alive. Consecrated 21 bishops during his papacy.

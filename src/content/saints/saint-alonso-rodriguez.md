@@ -34,6 +34,7 @@ patronage:
   - Majorca, island of
   - Segovia
 martyr: false
+prayers: []
 ---
 
 Third of eleven children in the family of the wealthy wool merchant Diego Rodriguez. Met Blessed Peter Faber when he was 10; the Father Faber prepared the boy for his First Communion. At age 14, Alonso was sent to study with Jesuits, Alonso's father died within a year, and he returned home to learn and manage the business.

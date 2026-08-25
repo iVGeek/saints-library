@@ -1,19 +1,20 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Maccaris of Corinth"
+name: Saint Maccaris of Corinth
 honorific: Saint
-summary: "Martyr."
+summary: Martyr.
 searchAliases:
-  - "Macarius"
-died: "Corinth, Greece"
-deathPlace: "Greece"
-region: "Greece"
+  - Macarius
+died: Corinth, Greece
+deathPlace: Greece
+region: Greece
 feastDay:
   month: 2
   day: 28
 canonizationStatus: Saint
 vocation: []
 martyr: true
+prayers: []
 ---
 
 Martyr.

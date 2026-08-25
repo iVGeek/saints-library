@@ -1,24 +1,26 @@
 ---
-name: "Saint Maria An Linghua"
+name: Saint Maria An Linghua
 honorific: Venerable
-summary: "Lay woman in the apostolic vicariate of Southeastern Zhili, China. Martyred in the Boxer Rebellion."
-image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-China1.jpg"
+summary: Lay woman in the apostolic vicariate of Southeastern Zhili, China. Martyred in the Boxer Rebellion.
+image: http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-China1.jpg
 searchAliases:
-  - "Mali"
+  - Mali
 birthYear: 1871
 deathYear: 1900
-born: "c.1871 in Anping, Hebei, China"
-died: "beheaded on 11 July 1900 in Liugongying, Shenzhou, Hebei, China"
-birthPlace: "Hebei, China"
-deathPlace: "Shenzhou, Hebei, China"
-region: "China"
+born: c.1871 in Anping, Hebei, China
+died: beheaded on 11 July 1900 in Liugongying, Shenzhou, Hebei, China
+birthPlace: Hebei, China
+deathPlace: Shenzhou, Hebei, China
+region: China
 feastDay:
   month: 7
   day: 11
-centuries: [19]
+centuries:
+  - 19
 canonizationStatus: Venerable
 vocation: []
 martyr: true
+prayers: []
 ---
 
 Lay woman in the apostolic vicariate of Southeastern Zhili, China. Martyred in the Boxer Rebellion.

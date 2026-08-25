@@ -18,6 +18,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Monk at Lerins, France. Founded Saint Pons Monastery at Cimiez, France. Bishop of Nice, France in 777.

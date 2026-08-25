@@ -21,6 +21,7 @@ vocation:
   - Religious
   - Cardinal
 martyr: false
+prayers: []
 ---
 
 Founded the Congregation of the Little Sisters of the Annunciation.

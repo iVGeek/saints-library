@@ -1,9 +1,9 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Cyriacus of Zeganea"
+name: Saint Cyriacus of Zeganea
 honorific: Saint
-summary: "Confessor of the faith in Zeganea, Laziqia (in modern Syria). No details of his life have survived."
-region: "Syria"
+summary: Confessor of the faith in Zeganea, Laziqia (in modern Syria). No details of his life have survived.
+region: Syria
 feastDay:
   month: 6
   day: 14
@@ -12,6 +12,7 @@ vocation:
   - Monk
   - Confessor
 martyr: false
+prayers: []
 ---
 
 Confessor of the faith in Zeganea, Laziqia (in modern Syria). No details of his life have survived.

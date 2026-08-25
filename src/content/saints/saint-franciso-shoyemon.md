@@ -1,19 +1,20 @@
 ---
-name: "Saint Franciso Shoyemon"
+name: Saint Franciso Shoyemon
 honorific: Saint
-summary: "Lay Dominican catechist. Martyr."
-image: "http://catholicsaints.info/wp-content/uploads/img-Dominican-Martyrs-of-Japan.jpg"
+summary: Lay Dominican catechist. Martyr.
+image: http://catholicsaints.info/wp-content/uploads/img-Dominican-Martyrs-of-Japan.jpg
 deathYear: 1633
-born: "Japanese"
-died: "14 August 1633"
-region: "Italy"
+born: Japanese
+died: 14 August 1633
+region: Italy
 feastDay:
   month: 8
   day: 14
 canonizationStatus: Saint
 vocation: []
-religiousOrder: "Dominican"
+religiousOrder: Dominican
 martyr: true
+prayers: []
 ---
 
 Lay Dominican catechist. Martyr.

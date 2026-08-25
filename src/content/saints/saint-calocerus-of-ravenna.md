@@ -1,16 +1,16 @@
 ---
-name: "Saint Calocerus of Ravenna"
+name: Saint Calocerus of Ravenna
 honorific: Saint
-summary: "Spiritual student of Saint Apollinaris of Ravenna. Bishop of Ravenna, Italy."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Calocerus-of-Ravenna.jpg"
+summary: Spiritual student of Saint Apollinaris of Ravenna. Bishop of Ravenna, Italy.
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Calocerus-of-Ravenna.jpg
 searchAliases:
-  - "Calogero"
-  - "Caio"
-  - "Calocero"
+  - Calogero
+  - Caio
+  - Calocero
 deathYear: 130
-born: "Greek"
-died: "c.130"
-region: "Italy"
+born: Greek
+died: c.130
+region: Italy
 feastDay:
   month: 2
   day: 11
@@ -19,6 +19,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Spiritual student of Saint Apollinaris of Ravenna. Bishop of Ravenna, Italy.

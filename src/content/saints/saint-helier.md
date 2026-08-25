@@ -1,19 +1,21 @@
 ---
-name: "Saint Hélier of Jersey"
+name: Saint Hélier of Jersey
 honorific: Saint
-summary: "Convert. Sixth century cave-dwelling hermit on the island of Jersey near the village that later bore his name. Acquaintance of Saint Marculfus. Martyred by pagans to whom he was preaching."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Helier.jpg"
+summary: >-
+  Convert. Sixth century cave-dwelling hermit on the island of Jersey near the village that later bore his name.
+  Acquaintance of Saint Marculfus. Martyred by pagans to whom he was preaching.
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Helier.jpg
 searchAliases:
-  - "Elerio"
-  - "Elier"
-  - "Helerous"
-  - "Hielier"
-  - "Helerius"
-  - "Hélyi"
-born: "at Tongres, Belgium"
-died: "Jersey"
-birthPlace: "Belgium"
-region: "England"
+  - Elerio
+  - Elier
+  - Helerous
+  - Hielier
+  - Helerius
+  - Hélyi
+born: at Tongres, Belgium
+died: Jersey
+birthPlace: Belgium
+region: England
 feastDay:
   month: 7
   day: 16
@@ -23,8 +25,9 @@ vocation:
   - Monk
   - Hermit
 patronage:
-  - "weak children"
+  - weak children
 martyr: true
+prayers: []
 ---
 
 Convert. Sixth century cave-dwelling hermit on the island of Jersey near the village that later bore his name. Acquaintance of Saint Marculfus. Martyred by pagans to whom he was preaching.

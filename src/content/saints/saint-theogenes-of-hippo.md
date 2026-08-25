@@ -1,15 +1,17 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Theogenes of Hippo"
+name: Saint Theogenes of Hippo
 honorific: Saint
-summary: "Third century bishop of Hippo in North Africa. Attended the Council of Carthage called by Saint Cyprian c.250. Martyred with 36 of his flock in the persecutions of Emperor Valerian. Saint Augustine of Hippo wrote about him."
+summary: >-
+  Third century bishop of Hippo in North Africa. Attended the Council of Carthage called by Saint Cyprian c.250.
+  Martyred with 36 of his flock in the persecutions of Emperor Valerian. Saint Augustine of Hippo wrote about him.
 searchAliases:
-  - "Theogenes of Bona"
-  - "Theogenes of Ippona"
-  - "Teógene…"
+  - Theogenes of Bona
+  - Theogenes of Ippona
+  - Teógene…
 deathYear: 258
-died: "c.258"
-region: "Italy"
+died: c.258
+region: Italy
 feastDay:
   month: 1
   day: 26
@@ -18,6 +20,7 @@ vocation:
   - Bishop
   - Monk
 martyr: true
+prayers: []
 ---
 
 Third century bishop of Hippo in North Africa. Attended the Council of Carthage called by Saint Cyprian c.250. Martyred with 36 of his flock in the persecutions of Emperor Valerian. Saint Augustine of Hippo wrote about him.

@@ -1,13 +1,13 @@
 ---
-name: "Saint Justus of Urgell"
+name: Saint Justus of Urgell
 honorific: Saint
-summary: "First bishop of Urgell, Spain. Wrote a commentary on the Song of Songs."
-image: "https://upload.wikimedia.org/wikipedia/commons/6/69/Saint_Justus.PNG"
+summary: First bishop of Urgell, Spain. Wrote a commentary on the Song of Songs.
+image: https://upload.wikimedia.org/wikipedia/commons/6/69/Saint_Justus.PNG
 searchAliases:
-  - "Giusto"
+  - Giusto
 deathYear: 527
-died: "c.527"
-region: "Spain"
+died: c.527
+region: Spain
 feastDay:
   month: 5
   day: 28
@@ -16,6 +16,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 First bishop of Urgell, Spain. Wrote a commentary on the Song of Songs.

@@ -1,11 +1,14 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Adalbert of Caramaico"
+name: Blessed Adalbert of Caramaico
 honorific: Blessed
-summary: "Benedictine monk at Casauria, Abruzzi, Italy. He retired to live as a hermit in the Caramaico mountain area near Chieti, Italy. There he attracted so many would-be spiritual students that he founded the Saint Nicholas monastery for them."
+summary: >-
+  Benedictine monk at Casauria, Abruzzi, Italy. He retired to live as a hermit in the Caramaico mountain area near
+  Chieti, Italy. There he attracted so many would-be spiritual students that he founded the Saint Nicholas monastery for
+  them.
 deathYear: 1045
-died: "c.1045 of natural causes"
-region: "Italy"
+died: c.1045 of natural causes
+region: Italy
 feastDay:
   month: 11
   day: 25
@@ -13,8 +16,9 @@ canonizationStatus: Blessed
 vocation:
   - Monk
   - Hermit
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 martyr: false
+prayers: []
 ---
 
 Benedictine monk at Casauria, Abruzzi, Italy. He retired to live as a hermit in the Caramaico mountain area near Chieti, Italy. There he attracted so many would-be spiritual students that he founded the Saint Nicholas monastery for them.

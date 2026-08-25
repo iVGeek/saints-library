@@ -26,6 +26,7 @@ image: >-
 imageAlt: Portrait of Saint Arsacius of Nicomedia
 imageCredit: Scanned from "Икони от Странджанския край", Костадинка Паскалева, Издателство "Септември", София, 1977
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:Saint-Athanasius-of-Alexandria-icon-Sozopol-Bulgaria-17century.jpg
+prayers: []
 ---
 
 Soldier in the imperial Roman army in the reign of Emperor Licinius. Convert to Christianity, which led to his arrest. Released, he lived as a hermit near Nicomedia. Miracle worker. Had the gift of prophecy; foretold the destruction of Nicomedia by an earthquake in 358.

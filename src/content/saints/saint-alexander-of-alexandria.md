@@ -1,15 +1,18 @@
 ---
-name: "Saint Alexander of Alexandria"
+name: Saint Alexander of Alexandria
 honorific: Saint
-summary: "Known as a pious youth. Bishop of Alexandria, Egypt in 313. Worked against Arianism, and excommunicated Arius when he preached in the area around Alexandria. Key figure in the Council of Nicaea in 325. Patriarch of Alexandria. Doctor of the Church."
-image: "http://catholicsaints.info/wp-content/gallery/saint-alexander-of-alexandria/saint-alessandro-di-alessandria.jpg"
+summary: >-
+  Known as a pious youth. Bishop of Alexandria, Egypt in 313. Worked against Arianism, and excommunicated Arius when he
+  preached in the area around Alexandria. Key figure in the Council of Nicaea in 325. Patriarch of Alexandria. Doctor of
+  the Church.
+image: http://catholicsaints.info/wp-content/gallery/saint-alexander-of-alexandria/saint-alessandro-di-alessandria.jpg
 searchAliases:
-  - "Alessandro di Alessandria"
+  - Alessandro di Alessandria
 deathYear: 326
-born: "3rd century in northern Egypt"
-died: "February 326 at Alexandria, Egypt"
-deathPlace: "Egypt"
-region: "Egypt"
+born: 3rd century in northern Egypt
+died: February 326 at Alexandria, Egypt
+deathPlace: Egypt
+region: Egypt
 feastDay:
   month: 2
   day: 26
@@ -19,6 +22,7 @@ vocation:
   - Priest
   - Confessor
 martyr: false
+prayers: []
 ---
 
 Known as a pious youth. Bishop of Alexandria, Egypt in 313. Worked against Arianism, and excommunicated Arius when he preached in the area around Alexandria. Key figure in the Council of Nicaea in 325. Patriarch of Alexandria. Doctor of the Church.

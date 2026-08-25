@@ -32,6 +32,7 @@ imageCredit: >-
   <a rel="nofollow" class="external free"
   href="http://www.france-pittoresque.com/traditions/59.htm">http://www.france-pittoresque.com/traditions/59.htm</a>
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:Saint%20Aphrodisius.JPG
+prayers: []
 ---
 
 Government official in his native Egypt, and an adult convert to Christianity. First bishop of Béziers in Narbonense Gaul (in modern France), consecrated by Saint Paul of Narbonne, and serving in the mid-3rd-century.

@@ -1,25 +1,26 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Florencio Pérez Moral"
+name: Blessed Florencio Pérez Moral
 honorific: Blessed
-summary: "Monk. Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
+summary: Monk. Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War.
 searchAliases:
-  - "Evencio"
+  - Evencio
 birthYear: 1899
 deathYear: 1936
-born: "10 October 1899 in Acedillo, Burgos, Spain"
-died: "23 August 1936 in Toledo, Spain"
-birthPlace: "Burgos, Spain"
-deathPlace: "Spain"
-region: "Spain"
+born: 10 October 1899 in Acedillo, Burgos, Spain
+died: 23 August 1936 in Toledo, Spain
+birthPlace: Burgos, Spain
+deathPlace: Spain
+region: Spain
 feastDay:
   month: 8
   day: 23
 canonizationStatus: Blessed
 vocation:
   - Monk
-religiousOrder: "Marist"
+religiousOrder: Marist
 martyr: true
+prayers: []
 ---
 
 Monk. Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War.

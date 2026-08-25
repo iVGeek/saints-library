@@ -1,25 +1,30 @@
 ---
-name: "Venerable Hermínio Pinzetta"
+name: Venerable Hermínio Pinzetta
 honorific: Venerable
-summary: "Second of thirteen boys born to Fiorentino Pinzetta and Isabela Romani. He became Capuchin friar on 2 February 1944 in Marau, Brazil; he made his solemn profession on 6 January 1949. Studied at the seminary in Flores da Cunha, Brazil. He served his Capuchin house as a cook, garde"
-image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Hermínio-Pinzetta.jpg"
+summary: >-
+  Second of thirteen boys born to Fiorentino Pinzetta and Isabela Romani. He became Capuchin friar on 2 February 1944 in
+  Marau, Brazil; he made his solemn profession on 6 January 1949. Studied at the seminary in Flores da Cunha, Brazil. He
+  served his Capuchin house as a cook, garde
+image: http://catholicsaints.info/wp-content/uploads/img-Venerable-Hermínio-Pinzetta.jpg
 searchAliases:
-  - "Salvador of Casca"
+  - Salvador of Casca
 birthYear: 1911
 deathYear: 1972
-born: "27 July 1911 in Casca, Rio Grande do Sul, Brazil"
-died: "31 May 1972 in Flores da Cunha, Rio Grande do Sul, Brazil of a stroke"
-birthPlace: "Rio Grande do Sul, Brazil"
-deathPlace: "Rio Grande do Sul, Brazila stroke"
-region: "Brazil"
+born: 27 July 1911 in Casca, Rio Grande do Sul, Brazil
+died: 31 May 1972 in Flores da Cunha, Rio Grande do Sul, Brazil of a stroke
+birthPlace: Rio Grande do Sul, Brazil
+deathPlace: Rio Grande do Sul, Brazila stroke
+region: Brazil
 feastDay:
   month: 2
   day: 2
-centuries: [20]
+centuries:
+  - 20
 canonizationStatus: Venerable
 vocation: []
-religiousOrder: "Capuchin"
+religiousOrder: Capuchin
 martyr: false
+prayers: []
 ---
 
 Second of thirteen boys born to Fiorentino Pinzetta and Isabela Romani. He became Capuchin friar on 2 February 1944 in Marau, Brazil; he made his solemn profession on 6 January 1949. Studied at the seminary in Flores da Cunha, Brazil. He served his Capuchin house as a cook, gardener, grape grower, wine maker and beekeeper.

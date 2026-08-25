@@ -1,10 +1,10 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Cowair"
+name: Saint Cowair
 honorific: Saint
-summary: "No information has survived."
+summary: No information has survived.
 searchAliases:
-  - "Cywair"
+  - Cywair
 feastDay:
   month: 7
   day: 11
@@ -12,8 +12,9 @@ canonizationStatus: Saint
 vocation:
   - Monk
 patronage:
-  - "Llangower, Wales"
+  - Llangower, Wales
 martyr: false
+prayers: []
 ---
 
 No information has survived.

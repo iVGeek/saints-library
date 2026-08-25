@@ -1,26 +1,27 @@
 ---
-name: "Blessed Venturino of Bergamo"
+name: Blessed Venturino of Bergamo
 honorific: Blessed
-summary: " In February 1 Joined the Dominicans on 22 January 1319 at the convent of Saint Stephen in Bergamo, . Studied and was ordained at Genoa, Italy. Noted preacher throughout northern Italy, converting many and calling for peace during the struggles between the Guelphs and Ghibellines."
-image: "https://upload.wikimedia.org/wikipedia/commons/7/75/GiorcesVenturino1.jpg"
+summary: ' In February 1 Joined the Dominicans on 22 January 1319 at the convent of Saint Stephen in Bergamo, . Studied and was ordained at Genoa, Italy. Noted preacher throughout northern Italy, converting many and calling for peace during the struggles between the Guelphs and Ghibellines.'
+image: https://upload.wikimedia.org/wikipedia/commons/7/75/GiorcesVenturino1.jpg
 searchAliases:
-  - "Venturinus"
-  - "Lorenzo de Apibus"
+  - Venturinus
+  - Lorenzo de Apibus
 birthYear: 1304
 deathYear: 1346
-born: "9 April 1304 in Bergamo, Italy as Lorenzo de Apibus"
-died: "28 March 1346 at Smyrna, Asia Minor (in modern Turkey) of natural causes"
-birthPlace: "Italy as Lorenzo de Apibus"
-deathPlace: "Asia Minor (modern Turkey) of natural causes"
-region: "Italy"
+born: 9 April 1304 in Bergamo, Italy as Lorenzo de Apibus
+died: 28 March 1346 at Smyrna, Asia Minor (in modern Turkey) of natural causes
+birthPlace: Italy as Lorenzo de Apibus
+deathPlace: Asia Minor (modern Turkey) of natural causes
+region: Italy
 feastDay:
   month: 1
   day: 22
 canonizationStatus: Blessed
 vocation:
   - Priest
-religiousOrder: "Dominican"
+religiousOrder: Dominican
 martyr: false
+prayers: []
 ---
 
 Joined the Dominicans on 22 January 1319 at the convent of Saint Stephen in Bergamo, . Studied and was ordained at Genoa, Italy. Noted preacher throughout northern Italy, converting many and calling for peace during the struggles between the Guelphs and Ghibellines.

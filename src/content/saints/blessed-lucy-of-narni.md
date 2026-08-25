@@ -1,20 +1,23 @@
 ---
-name: "Blessed Lucy of Narni"
+name: Blessed Lucy of Narni
 honorific: Blessed
-summary: "The eldest of eleven children of Bartolomeo Broccadelli and Gentilina Cassio. A pious child, at age five she received a vision of Our Lady, and at age seven she saw Mary and received a scapular from Saint Dominic de Guzman. By age twelve she had taken private vows and had decided"
-image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Lucy-of-Narni-2.jpg"
+summary: >-
+  The eldest of eleven children of Bartolomeo Broccadelli and Gentilina Cassio. A pious child, at age five she received
+  a vision of Our Lady, and at age seven she saw Mary and received a scapular from Saint Dominic de Guzman. By age
+  twelve she had taken private vows and had decided
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Lucy-of-Narni-2.jpg
 searchAliases:
-  - "Lucy Brocolelli"
-  - "Lucy de Alessio"
-  - "Lucia Broccadelli"
-  - "Lucia Brocadelli"
+  - Lucy Brocolelli
+  - Lucy de Alessio
+  - Lucia Broccadelli
+  - Lucia Brocadelli
 birthYear: 1476
 deathYear: 1544
-born: "13 December 1476 in Narni, Umbria, Italy as Lucy Brocolelli"
-died: "15 November 1544 at the Saint Catherine of Siena convent in Ferrara, Italy of natural causes"
-birthPlace: "Umbria, Italy as Lucy Brocolelli"
-deathPlace: "Italynatural causes"
-region: "Italy"
+born: 13 December 1476 in Narni, Umbria, Italy as Lucy Brocolelli
+died: 15 November 1544 at the Saint Catherine of Siena convent in Ferrara, Italy of natural causes
+birthPlace: Umbria, Italy as Lucy Brocolelli
+deathPlace: Italynatural causes
+region: Italy
 feastDay:
   month: 11
   day: 15
@@ -23,8 +26,9 @@ vocation:
   - Bishop
   - Priest
   - Confessor
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 martyr: false
+prayers: []
 ---
 
 The eldest of eleven children of Bartolomeo Broccadelli and Gentilina Cassio. A pious child, at age five she received a vision of Our Lady, and at age seven she saw Mary and received a scapular from Saint Dominic de Guzman. By age twelve she had taken private vows and had decided to become a Dominican. However, her father died, she was placed in the care of her uncle, and at age 15 she was betrothed in an arranged marriage to Count Pietro de Alessio of Milan, Italy. Her fondness for Pietro and her duty to her family conflicted with her desire for the religious life, and the stress caused her to become ill until she received a vision of Mary, Saint Dominic and Saint Catherine. She finally married the count, but he understood that they would live as brother and sister.

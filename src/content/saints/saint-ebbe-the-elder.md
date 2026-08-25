@@ -1,21 +1,24 @@
 ---
-name: "Saint Ebbe the Elder"
+name: Saint Ebbe the Elder
 honorific: Saint
-summary: "Daughter of the pagan King Aethelfrith the Ravager of Bernicia and Princess Aacha of Deira, one of seven children. Sister of Saint Oswald of Northumbria and King Oswiu. Niece of Saint Ethelreda. When her father was killed in battle when Ebbe was about ten years old, her mother fl"
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Ebbe-the-Elder.jpg"
+summary: >-
+  Daughter of the pagan King Aethelfrith the Ravager of Bernicia and Princess Aacha of Deira, one of seven children.
+  Sister of Saint Oswald of Northumbria and King Oswiu. Niece of Saint Ethelreda. When her father was killed in battle
+  when Ebbe was about ten years old, her mother fl
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Ebbe-the-Elder.jpg
 searchAliases:
-  - "Ebbe of Coldingham"
-  - "Abbs…."
-  - "Aebbe…."
-  - "Ebba…."
-  - "Tabbs…."
+  - Ebbe of Coldingham
+  - Abbs….
+  - Aebbe….
+  - Ebba….
+  - Tabbs….
 birthYear: 615
 deathYear: 683
-born: "c.615 in Northumbria, England"
-died: "25 August 683 at Coldingham, Berwickshire, Scotland of natural causes"
-birthPlace: "England"
-deathPlace: "Berwickshire, Scotlandnatural causes"
-region: "Scotland"
+born: c.615 in Northumbria, England
+died: 25 August 683 at Coldingham, Berwickshire, Scotland of natural causes
+birthPlace: England
+deathPlace: Berwickshire, Scotlandnatural causes
+region: Scotland
 feastDay:
   month: 8
   day: 25
@@ -25,8 +28,9 @@ vocation:
   - Priest
   - Monk
   - Religious
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 martyr: false
+prayers: []
 ---
 
 Daughter of the pagan King Aethelfrith the Ravager of Bernicia and Princess Aacha of Deira, one of seven children. Sister of Saint Oswald of Northumbria and King Oswiu. Niece of Saint Ethelreda. When her father was killed in battle when Ebbe was about ten years old, her mother fled with the family for the court of King Eochaid Buide at Dunadd in modern Scotland. There she converted to Christianity.

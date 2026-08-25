@@ -1,15 +1,15 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Leo of Troyes"
+name: Saint Leo of Troyes
 honorific: Saint
-summary: "Monk. Spiritual student of Saint Romanus. Abbot of Mantenay Abbey near Troyes, France."
+summary: Monk. Spiritual student of Saint Romanus. Abbot of Mantenay Abbey near Troyes, France.
 searchAliases:
-  - "Leo of Mantenay"
-  - "Leone…"
-  - "Lyé…"
+  - Leo of Mantenay
+  - Leone…
+  - Lyé…
 deathYear: 550
-died: "c.550"
-region: "France"
+died: c.550
+region: France
 feastDay:
   month: 5
   day: 25
@@ -17,6 +17,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: false
+prayers: []
 ---
 
 Monk. Spiritual student of Saint Romanus. Abbot of Mantenay Abbey near Troyes, France.

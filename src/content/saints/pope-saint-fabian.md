@@ -20,6 +20,7 @@ religiousOrder: Franciscan
 patronage:
   - lead workers
 martyr: true
+prayers: []
 ---
 
 Layman farmer. He came into Rome, Italy on a day when a new pope was to be elected. A dove flew into the crowd and settled on Fabian's head; the gathered clergy and laity took this as a sign that Fabian had been anointed by the Holy Spirit, and he was chosen the 20th Pope by acclamation.

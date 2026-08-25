@@ -1,15 +1,15 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Francisco Manzano Cruz"
+name: Blessed Francisco Manzano Cruz
 honorific: Blessed
-summary: "Priest in the archdiocese of Granada, Spain. Martyred in the Spanish Civil War."
+summary: Priest in the archdiocese of Granada, Spain. Martyred in the Spanish Civil War.
 birthYear: 1881
 deathYear: 1936
-born: "15 January 1881 in Adra, Almeria Spain"
-died: "2 August 1936 in Rambla de Albuñol, Granada Spain"
-birthPlace: "Almeria Spain"
-deathPlace: "Granada Spain"
-region: "Spain"
+born: 15 January 1881 in Adra, Almeria Spain
+died: 2 August 1936 in Rambla de Albuñol, Granada Spain
+birthPlace: Almeria Spain
+deathPlace: Granada Spain
+region: Spain
 feastDay:
   month: 8
   day: 2
@@ -18,6 +18,7 @@ vocation:
   - Priest
   - Cardinal
 martyr: true
+prayers: []
 ---
 
 Priest in the archdiocese of Granada, Spain. Martyred in the Spanish Civil War.

@@ -1,32 +1,38 @@
 ---
-name: "Saint María Natividad Venegas de La Torre"
+name: Saint María Natividad Venegas de La Torre
 honorific: Venerable
-summary: "Youngest of twelve children in a pious Bible-reading, Rosary-praying family; her father was an accountant and her mother a homemaker. Natividad was early drawn to prayer and contemplation, and made her first Communion at age 9. Her mother died when Nati was 16. The family moved t"
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-María-Natividad-Venegas-de-la-Torre.jpg"
+summary: >-
+  Youngest of twelve children in a pious Bible-reading, Rosary-praying family; her father was an accountant and her
+  mother a homemaker. Natividad was early drawn to prayer and contemplation, and made her first Communion at age 9. Her
+  mother died when Nati was 16. The family moved t
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-María-Natividad-Venegas-de-la-Torre.jpg
 searchAliases:
-  - "María de Jesús Sacramentado"
-  - "María of Jesus in the Blessed Sacrament"
-  - "Mary of the Blessed Sacrament Venegas de la Torre"
-  - "Nati (childhood nickname)"
+  - María de Jesús Sacramentado
+  - María of Jesus in the Blessed Sacrament
+  - Mary of the Blessed Sacrament Venegas de la Torre
+  - Nati (childhood nickname)
 birthYear: 1868
 deathYear: 1959
-born: "8 September 1868 in La Tapona, Zapotlanejo, Jalisco, Mexico"
-died: "30 July 1959 in Guadalajara, Jalisco, Mexico of natural causes"
-birthPlace: "Zapotlanejo, Jalisco, Mexico"
-deathPlace: "Jalisco, Mexiconatural causes"
-region: "Mexico"
+born: 8 September 1868 in La Tapona, Zapotlanejo, Jalisco, Mexico
+died: 30 July 1959 in Guadalajara, Jalisco, Mexico of natural causes
+birthPlace: Zapotlanejo, Jalisco, Mexico
+deathPlace: Jalisco, Mexiconatural causes
+region: Mexico
 feastDay:
   month: 7
   day: 30
-centuries: [19, 20]
+centuries:
+  - 19
+  - 20
 canonizationStatus: Venerable
 vocation:
   - Bishop
   - Priest
 patronage:
-  - "Daughters of the Sacred Heart of Jesus of Guadalajara"
-  - "nurses"
+  - Daughters of the Sacred Heart of Jesus of Guadalajara
+  - nurses
 martyr: false
+prayers: []
 ---
 
 Youngest of twelve children in a pious Bible-reading, Rosary–praying family; her father was an accountant and her mother a homemaker. Natividad was early drawn to prayer and contemplation, and made her first Communion at age 9. Her mother died when Nati was 16. The family moved to Compostela, Nayarit, Mexico for financial reasons, and Nati spent even more time in church and in prayer. Her father died when she was 19, and her paternal uncle and aunt took over care of the children who were still at home.

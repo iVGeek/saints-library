@@ -23,6 +23,7 @@ vocation:
 patronage:
   - Cavasso Nuovo, Italy
 martyr: false
+prayers: []
 ---
 
 Son of Charles Martel. Archbishop of Rouen, France in 755. He served as ambassador to the court of King Desiderio of the Lombards with a commission to negotiate the return of Church lands. Remigius worked for the use of the Roman rite in the Gallic Church in general, and the Gregorian chant in his diocese. He participated in the synod of Attigny in 765.

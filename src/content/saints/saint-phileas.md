@@ -1,10 +1,10 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Phileas"
+name: Saint Phileas
 honorific: Saint
-summary: "Rural bishop in Egypt. Martyred in the persecutions of Maximian Galerius."
-died: "early 4th century in Egypt"
-region: "Egypt"
+summary: Rural bishop in Egypt. Martyred in the persecutions of Maximian Galerius.
+died: early 4th century in Egypt
+region: Egypt
 feastDay:
   month: 11
   day: 26
@@ -13,6 +13,7 @@ vocation:
   - Bishop
   - Monk
 martyr: true
+prayers: []
 ---
 
 Rural bishop in Egypt. Martyred in the persecutions of Maximian Galerius.

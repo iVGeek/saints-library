@@ -24,6 +24,7 @@ imageCredit: >-
   <a rel="nofollow" class="external free"
   href="http://www.e-codices.unifr.ch/en/list/one/vad/0321">http://www.e-codices.unifr.ch/en/list/one/vad/0321</a>
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:Vad-0321%20005%20Gebizo.jpg
+prayers: []
 ---
 
 Benedictine monk at Monte Cassino in 1076. Spiritual student of Saint Desiderius who was later Pope Victor III. Sent to Croatia by Pope Saint Gregory VII to crown King Zwoinimir.

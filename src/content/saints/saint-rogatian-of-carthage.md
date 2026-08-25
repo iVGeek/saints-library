@@ -1,13 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Rogatian of Carthage"
+name: Saint Rogatian of Carthage
 honorific: Saint
-summary: "Priest. Martyr."
+summary: Priest. Martyr.
 searchAliases:
-  - "Rogaziano"
+  - Rogaziano
 deathYear: 256
-died: "256 in Carthage in North Africa"
-region: "England"
+died: 256 in Carthage in North Africa
+region: England
 feastDay:
   month: 10
   day: 26
@@ -16,6 +16,7 @@ vocation:
   - Priest
   - Monk
 martyr: true
+prayers: []
 ---
 
 Priest. Martyr.

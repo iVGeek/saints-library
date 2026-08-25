@@ -1,20 +1,22 @@
 ---
-name: "Saint Wulmar"
+name: Saint Wulmar
 honorific: Saint
-summary: "Uncle of Saint Eremberta of Wierre. Priest. Monk. Founded a convent at Wierre-aux-Bois, France and the monastery of Samer near Boulogne, France that was later renamed Saint-Vulmaire in his honour."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Wulmar.jpg"
+summary: >-
+  Uncle of Saint Eremberta of Wierre. Priest. Monk. Founded a convent at Wierre-aux-Bois, France and the monastery of
+  Samer near Boulogne, France that was later renamed Saint-Vulmaire in his honour.
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Wulmar.jpg
 searchAliases:
-  - "Ulmar"
-  - "Ulmer"
-  - "Vilmarus"
-  - "Volmar"
-  - "Vulmaro"
-  - "Vulmarus"
+  - Ulmar
+  - Ulmer
+  - Vilmarus
+  - Volmar
+  - Vulmaro
+  - Vulmarus
 deathYear: 689
-born: "near Boulogne, France"
-died: "689"
-birthPlace: "France"
-region: "France"
+born: near Boulogne, France
+died: '689'
+birthPlace: France
+region: France
 feastDay:
   month: 7
   day: 20
@@ -23,8 +25,9 @@ vocation:
   - Priest
   - Monk
 patronage:
-  - "Samer, France"
+  - Samer, France
 martyr: false
+prayers: []
 ---
 
 Uncle of Saint Eremberta of Wierre. Priest. Monk. Founded a convent at Wierre-aux-Bois, France and the monastery of Samer near Boulogne, France that was later renamed Saint-Vulmaire in his honour.

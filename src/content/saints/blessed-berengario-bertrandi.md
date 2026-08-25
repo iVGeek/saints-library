@@ -1,10 +1,12 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Berengario Bertrandi"
+name: Blessed Berengario Bertrandi
 honorific: Blessed
-summary: "Franciscan friar and priest. He taught theology in Montpellier, France, and Franciscan records list him as a confessor."
-died: "14th-century France of natural causes (dates vary by record)"
-region: "France"
+summary: >-
+  Franciscan friar and priest. He taught theology in Montpellier, France, and Franciscan records list him as a
+  confessor.
+died: 14th-century France of natural causes (dates vary by record)
+region: France
 feastDay:
   month: 9
   day: 7
@@ -12,8 +14,9 @@ canonizationStatus: Blessed
 vocation:
   - Priest
   - Confessor
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 martyr: false
+prayers: []
 ---
 
 Franciscan friar and priest. He taught theology in Montpellier, France, and Franciscan records list him as a confessor.

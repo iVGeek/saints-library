@@ -22,6 +22,7 @@ vocation:
   - Religious
   - Soldier
 martyr: false
+prayers: []
 ---
 
 Born to the nobility, the daughter of Nikita and Marina, Athanasia grew up in a pious family. She early felt drawn to the religious life; legend says that when she was a young girl learning to weave, a star suddenly appeared, settled over her heart, and she was enlightened. However, at her parent's request, she married at age 16 to an army officer. Widowed after 16 days of marriage when her husband died in battle against invading Arabs. She again considered the religious life, but an imperial edict required all single women of marriage age to marry soldiers.

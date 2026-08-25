@@ -1,22 +1,25 @@
 ---
-name: "Saint Thomas of Villanova"
+name: Saint Thomas of Villanova
 honorific: Saint
-summary: "Son of Aloazo Tomas Garcia, a miller, and Lucia Martinez. He grew up in Villanova, Spain, and was educated at the University of Alcala. Professor of arts, logic and philosophy at the university from 1514. Joined the Augustinian friars at Salamanca, Spain in 1516. Ordained in 1518"
-image: "https://upload.wikimedia.org/wikipedia/commons/d/dc/Tom%C3%A1s_de_Villanueva.jpg"
+summary: >-
+  Son of Aloazo Tomas Garcia, a miller, and Lucia Martinez. He grew up in Villanova, Spain, and was educated at the
+  University of Alcala. Professor of arts, logic and philosophy at the university from 1514. Joined the Augustinian
+  friars at Salamanca, Spain in 1516. Ordained in 1518
+image: https://upload.wikimedia.org/wikipedia/commons/d/dc/Tom%C3%A1s_de_Villanueva.jpg
 searchAliases:
-  - "Thomas of Villanueva"
-  - "Father of the Poor"
-  - "Model of Bishops"
-  - "Thomas the Almsgiver"
-  - "Tomas of Villanova"
-  - "Tomás García Martínez"
+  - Thomas of Villanueva
+  - Father of the Poor
+  - Model of Bishops
+  - Thomas the Almsgiver
+  - Tomas of Villanova
+  - Tomás García Martínez
 birthYear: 1488
 deathYear: 1555
-born: "1488 at Fuentellana, Castile, Spain"
-died: "8 September 1555 at Valencia, Spain of angina pectoris"
-birthPlace: "Castile, Spain"
-deathPlace: "Spaof angina pectoris"
-region: "Spain"
+born: 1488 at Fuentellana, Castile, Spain
+died: 8 September 1555 at Valencia, Spain of angina pectoris
+birthPlace: Castile, Spain
+deathPlace: Spaof angina pectoris
+region: Spain
 feastDay:
   month: 9
   day: 8
@@ -26,11 +29,12 @@ vocation:
   - Priest
   - Monk
   - Confessor
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 patronage:
-  - "Genzano di Roma, Italy"
-  - "Valencia, Spain"
+  - Genzano di Roma, Italy
+  - Valencia, Spain
 martyr: false
+prayers: []
 ---
 
 Son of Aloazo Tomas Garcia, a miller, and Lucia Martinez. He grew up in Villanova, Spain, and was educated at the University of Alcala. Professor of arts, logic and philosophy at the university from 1514. Joined the Augustinian friars at Salamanca, Spain in 1516. Ordained in 1518, celebrating his first Mass on Christmas Day that year. Suffered from absentmindedness and poor memory. Preacher. Prior. Provincial of the friars. Sent the first Augustinians to the New World. Nominated by the emperor to the archbishopric of Granada, Spain; he refused the first time, but agreed the second time it was offered, after being ordered to do so by the Pope; he took over on 1 January 1545.

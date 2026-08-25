@@ -1,14 +1,16 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Bolcan of Derken"
+name: Saint Bolcan of Derken
 honorific: Saint
-summary: "Baptized by Saint Patrick. Studied in Gaul. Bishop of Derkan, northern Ireland. Bolcan's school there was one of the best equipped in the island."
+summary: >-
+  Baptized by Saint Patrick. Studied in Gaul. Bishop of Derkan, northern Ireland. Bolcan's school there was one of the
+  best equipped in the island.
 searchAliases:
-  - "Olcan"
-  - "Olcanus"
+  - Olcan
+  - Olcanus
 deathYear: 480
-died: "c.480 of natural causes"
-region: "Ireland"
+died: c.480 of natural causes
+region: Ireland
 feastDay:
   month: 2
   day: 20
@@ -18,6 +20,7 @@ vocation:
   - Priest
   - Monk
 martyr: false
+prayers: []
 ---
 
 Baptized by Saint Patrick. Studied in Gaul. Bishop of Derkan, northern Ireland. Bolcan's school there was one of the best equipped in the island.

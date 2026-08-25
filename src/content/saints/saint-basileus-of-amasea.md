@@ -28,6 +28,7 @@ imageCredit: >-
   href="https://metmuseum.org/about-the-met/policies-and-documents/image-resources">Image and Data Resources Open Access
   Policy</a>
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:The%20Mass%20of%20Saint%20Basil%20MET%20DP151176.jpg
+prayers: []
 ---
 
 Bishop of Amasea in Pontus. When he was killed in the Licinius persecutions by being thrown into the sea to drown, one of his disciples was directed to his body by an angel so it could be recovered and given Christian burial.

@@ -1,9 +1,11 @@
 ---
-name: "Adam the Patriarch"
+name: Adam the Patriarch
 honorific: Saint
-summary: "First human being. Lived in the Garden of Eden until expelled by God. Married to Eve. Father of Cain, Abel, Seth and other children. Old Testament Patriarch."
-image: "http://catholicsaints.info/wp-content/uploads/img-Adam.jpg"
-region: "England"
+summary: >-
+  First human being. Lived in the Garden of Eden until expelled by God. Married to Eve. Father of Cain, Abel, Seth and
+  other children. Old Testament Patriarch.
+image: http://catholicsaints.info/wp-content/uploads/img-Adam.jpg
+region: England
 feastDay:
   month: 12
   day: 24
@@ -12,9 +14,10 @@ vocation:
   - Bishop
   - Priest
 patronage:
-  - "gardeners"
-  - "tailors"
+  - gardeners
+  - tailors
 martyr: false
+prayers: []
 ---
 
 First human being. Lived in the Garden of Eden until expelled by God. Married to Eve. Father of Cain, Abel, Seth and other children. Old Testament Patriarch.

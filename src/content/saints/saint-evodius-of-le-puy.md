@@ -17,6 +17,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/3/35/Cath%C3%A9drale_Le_Puy-en-Velay.JPEG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Evodius of Le Puy
 imageCreditUrl: https://en.wikipedia.org/wiki/Le%20Puy-en-Velay
+prayers: []
 ---
 
 Bishop of Le Puy, France.

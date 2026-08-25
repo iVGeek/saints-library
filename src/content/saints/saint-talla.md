@@ -1,12 +1,12 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Talla"
+name: Saint Talla
 honorific: Saint
-summary: "Nun. She is mentioned in the Tallaght, Gorman and Donegal Martyrologies, but no details about her have survived."
+summary: Nun. She is mentioned in the Tallaght, Gorman and Donegal Martyrologies, but no details about her have survived.
 searchAliases:
-  - "Toidilia"
-born: "Ireland"
-region: "Ireland"
+  - Toidilia
+born: Ireland
+region: Ireland
 feastDay:
   month: 8
   day: 11
@@ -15,6 +15,7 @@ vocation:
   - Monk
   - Religious
 martyr: true
+prayers: []
 ---
 
 Nun. She is mentioned in the Tallaght, Gorman and Donegal Martyrologies, but no details about her have survived.

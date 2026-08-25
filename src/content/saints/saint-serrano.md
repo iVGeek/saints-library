@@ -1,13 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Serrano"
+name: Saint Serrano
 honorific: Saint
-summary: "Bishop."
+summary: Bishop.
 searchAliases:
-  - "Serano"
-died: "interred in the cathedral of Oviedo, Italy since the 11th century"
-deathPlace: "Italy since the 11th century"
-region: "Italy"
+  - Serano
+died: interred in the cathedral of Oviedo, Italy since the 11th century
+deathPlace: Italy since the 11th century
+region: Italy
 feastDay:
   month: 1
   day: 29
@@ -16,6 +16,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Bishop.

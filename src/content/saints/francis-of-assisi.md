@@ -100,14 +100,127 @@ prayers:
       Praised be You, my Lord, through Sister Water, so useful, humble, precious, and chaste... Praised be You, my Lord,
       through our Sister Mother Earth, who sustains and governs us, and who produces various fruits with colored flowers
       and herbs. Praise and bless my Lord, and give thanks and serve Him with great humility. Amen.
-  - name: Novena to Saint Francis
-    kind: Novena — nine-day prayer for peace and poverty of spirit
+  - name: Novena to Saint Francis of Assisi
+    kind: >-
+      Novena — begins September 25, nine days before the feast of Saint Francis of Assisi (October 4). Source:
+      https://www.catholicculture.org/culture/liturgicalyear/prayers/view.cfm?id=1039
     text: >-
-      O glorious Saint Francis, you who embraced Lady Poverty and became the mirror of Christ's own poverty and
-      humility, intercede for me before the throne of God. I ask you to pray for me in my need. You who received the
-      sacred stigmata, the wounds of Christ in your own body, help me to unite my own sufferings with those of our Lord.
-      O Holy Father Francis, friend of the poor, friend of all creation, obtain for me from God the grace I so earnestly
-      seek. May I, like you, find true joy in serving God and neighbor. Amen.
+      O blessed Francis, who during your life on earth were so deeply concerned with the sufferings and wants of others,
+      look kindly upon me now as I recommend to you my present needs and intentions.
+
+
+      (State your intention)
+
+
+      Pray that God may grant me the grace I need and the favor I seek. Our Father, Hail Mary, Glory Be. St. Francis of
+      Assisi, pray for us.
+
+
+      ---
+
+
+      O blessed Francis, whose whole life was a shining example of humility, charity, and love for God, obtain for me
+      the grace of true poverty of spirit. May I learn to trust not in worldly goods but in God alone, who provides for
+      all our needs.
+
+
+      (State your intention)
+
+
+      Our Father, Hail Mary, Glory Be. St. Francis of Assisi, pray for us.
+
+
+      ---
+
+
+      O blessed Francis, who embraced the lepers and those rejected by society, teach me to see Christ in the poor, the
+      sick, and the suffering. Help me to serve them with love and compassion.
+
+
+      (State your intention)
+
+
+      Our Father, Hail Mary, Glory Be. St. Francis of Assisi, pray for us.
+
+
+      ---
+
+
+      O blessed Francis, who renounced all worldly possessions to follow Christ more closely, help me to detach myself
+      from the things of this world and to seek first the Kingdom of God.
+
+
+      (State your intention)
+
+
+      Our Father, Hail Mary, Glory Be. St. Francis of Assisi, pray for us.
+
+
+      ---
+
+
+      O blessed Francis, who received the sacred stigmata on Mount La Verna, intercede for me that I may bear my crosses
+      with patience and unite my sufferings to those of Christ.
+
+
+      (State your intention)
+
+
+      Our Father, Hail Mary, Glory Be. St. Francis of Assisi, pray for us.
+
+
+      ---
+
+
+      O blessed Francis, who preached to the birds and to all of God's creatures, help me to appreciate the beauty of
+      God's creation and to be a good steward of the earth He has given us.
+
+
+      (State your intention)
+
+
+      Our Father, Hail Mary, Glory Be. St. Francis of Assisi, pray for us.
+
+
+      ---
+
+
+      O blessed Francis, who founded the Franciscan Order and restored the Church through your holy life, pray for the
+      Church and all her ministers. May they be faithful to their calling.
+
+
+      (State your intention)
+
+
+      Our Father, Hail Mary, Glory Be. St. Francis of Assisi, pray for us.
+
+
+      ---
+
+
+      O blessed Francis, who composed the beautiful Canticle of the Sun, praising God for all His gifts, help me to have
+      a heart of gratitude and to praise God in all circumstances.
+
+
+      (State your intention)
+
+
+      Our Father, Hail Mary, Glory Be. St. Francis of Assisi, pray for us.
+
+
+      ---
+
+
+      O blessed Francis, who died in peace on October 4, 1226, with the words "I have done what was mine to do; may
+      Christ teach you what is yours" on your lips, obtain for me the grace of a holy death and the joy of seeing God
+      face to face in heaven.
+
+
+      (State your intention)
+
+
+      Our Father, Hail Mary, Glory Be. St. Francis of Assisi, pray for us.
+    source: https://www.catholicculture.org/culture/liturgicalyear/prayers/view.cfm?id=1039
 relatedSaints:
   - name: Clare of Assisi
     slug: clare-of-assisi

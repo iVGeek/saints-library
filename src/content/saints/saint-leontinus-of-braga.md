@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Leontinus of Braga"
+name: Saint Leontinus of Braga
 honorific: Saint
-summary: "Early bishop of Braga, Portugal. Martyr."
+summary: Early bishop of Braga, Portugal. Martyr.
 searchAliases:
-  - "Leontius"
-region: "Portugal"
+  - Leontius
+region: Portugal
 feastDay:
   month: 3
   day: 19
@@ -14,6 +14,7 @@ vocation:
   - Bishop
   - Monk
 martyr: true
+prayers: []
 ---
 
 Early bishop of Braga, Portugal. Martyr.

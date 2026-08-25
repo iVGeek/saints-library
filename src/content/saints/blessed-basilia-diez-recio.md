@@ -1,17 +1,17 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Basilia Diez Recio"
+name: Blessed Basilia Diez Recio
 honorific: Blessed
-summary: "Conceptionist nun. Martyred in the Spanish Civil War."
+summary: Conceptionist nun. Martyred in the Spanish Civil War.
 searchAliases:
-  - "María of Jesus"
+  - María of Jesus
 birthYear: 1889
 deathYear: 1936
-born: "5 June 1889 in Moradillo del Castillo, Burgos, Spain"
-died: "8 November 1936 in Madrid, Spain"
-birthPlace: "Burgos, Spain"
-deathPlace: "Spain"
-region: "Spain"
+born: 5 June 1889 in Moradillo del Castillo, Burgos, Spain
+died: 8 November 1936 in Madrid, Spain
+birthPlace: Burgos, Spain
+deathPlace: Spain
+region: Spain
 feastDay:
   month: 11
   day: 8
@@ -20,6 +20,7 @@ vocation:
   - Religious
   - Cardinal
 martyr: true
+prayers: []
 ---
 
 Conceptionist nun. Martyred in the Spanish Civil War.

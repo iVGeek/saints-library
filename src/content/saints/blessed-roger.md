@@ -16,6 +16,7 @@ vocation:
   - Monk
 religiousOrder: Franciscan
 martyr: false
+prayers: []
 ---
 
 A spiritual student of Saint Francis of Assisi, he joined the Franciscans in 1216. Miracle worker. Had the gift of prophecy.

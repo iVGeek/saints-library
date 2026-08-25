@@ -23,6 +23,7 @@ vocation:
   - Monk
   - Deacon
 martyr: false
+prayers: []
 ---
 
 Spiritual student of Saint Paul the Apostle who delivered several of the letters to early churches; many became part of the New Testament. He is described by Paul in the Epistle to the Ephesians as “beloved brother and faithful servant in the Lord”, and is believed to have been a deacon. Since we know nothing of him after his work with Paul, many cities claims him as their first bishop.

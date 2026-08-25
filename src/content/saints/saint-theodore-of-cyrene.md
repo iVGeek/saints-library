@@ -1,11 +1,14 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Theodore of Cyrene"
+name: Saint Theodore of Cyrene
 honorific: Saint
-summary: "Scribe and manuscript copyist. Bishop of Cyrene, Libya. Arrested in the persecutions of Diocletian. Theodore was ordered to surrender his copies of the Scriptures; when he refused he was scourged, his tongue was cut out, and he was executed. Martyr."
+summary: >-
+  Scribe and manuscript copyist. Bishop of Cyrene, Libya. Arrested in the persecutions of Diocletian. Theodore was
+  ordered to surrender his copies of the Scriptures; when he refused he was scourged, his tongue was cut out, and he was
+  executed. Martyr.
 deathYear: 310
-died: "c.310 at Cyrene, Libya"
-deathPlace: "Libya"
+died: c.310 at Cyrene, Libya
+deathPlace: Libya
 feastDay:
   month: 7
   day: 4
@@ -14,6 +17,7 @@ vocation:
   - Bishop
   - Monk
 martyr: true
+prayers: []
 ---
 
 Scribe and manuscript copyist. Bishop of Cyrene, Libya. Arrested in the persecutions of Diocletian. Theodore was ordered to surrender his copies of the Scriptures; when he refused he was scourged, his tongue was cut out, and he was executed. Martyr.

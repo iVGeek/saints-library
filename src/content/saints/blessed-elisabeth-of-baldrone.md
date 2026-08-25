@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Elisabeth of Baldrone"
+name: Blessed Elisabeth of Baldrone
 honorific: Blessed
-summary: " Elisabeth was known as a miracle w Born to a family active in civic life, Elisabeth was drawn to religious life, and eventually withdrew to become a Camaldolese sister at the monastery of Baldrone, Italy. Considered an example of the proper religious life, she was elected abbess."
+summary: ' Elisabeth was known as a miracle w Born to a family active in civic life, Elisabeth was drawn to religious life, and eventually withdrew to become a Camaldolese sister at the monastery of Baldrone, Italy. Considered an example of the proper religious life, she was elected abbess.'
 deathYear: 1280
-died: "c.1280 of natural causes"
-region: "Italy"
+died: c.1280 of natural causes
+region: Italy
 feastDay:
   month: 2
   day: 27
@@ -13,6 +13,7 @@ canonizationStatus: Blessed
 vocation:
   - Religious
 martyr: false
+prayers: []
 ---
 
 Born to a family active in civic life, Elisabeth was drawn to religious life, and eventually withdrew to become a Camaldolese sister at the monastery of Baldrone, Italy. Considered an example of the proper religious life, she was elected abbess.

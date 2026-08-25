@@ -19,6 +19,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/c/c1/Vue_a%C3%A9rienne_du_lac_de_Cr%C3%A9teil.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Agoard of Creteil
 imageCreditUrl: https://en.wikipedia.org/wiki/Cr%C3%A9teil
+prayers: []
 ---
 
 Martyr. No other information has survived.

@@ -1,25 +1,27 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Giuse Lê Dang Thi"
+name: Saint Giuse Lê Dang Thi
 honorific: Venerable
-summary: "Layman. Soldier. Captain in the army of King Tu-duc. Convert. Martyr."
+summary: Layman. Soldier. Captain in the army of King Tu-duc. Convert. Martyr.
 searchAliases:
-  - "Joseph Thi"
+  - Joseph Thi
 birthYear: 1825
 deathYear: 1860
-born: "c.1825 in Ke Van, Quang Tri, Vietnam"
-died: "strangled to death on 25 October 1860 at An Hòa, Quang Nam, Vietnam"
-birthPlace: "Quang Tri, Vietnam"
-deathPlace: "Quang Nam, Vietnam"
-region: "England"
+born: c.1825 in Ke Van, Quang Tri, Vietnam
+died: strangled to death on 25 October 1860 at An Hòa, Quang Nam, Vietnam
+birthPlace: Quang Tri, Vietnam
+deathPlace: Quang Nam, Vietnam
+region: England
 feastDay:
   month: 10
   day: 24
-centuries: [19]
+centuries:
+  - 19
 canonizationStatus: Venerable
 vocation:
   - Soldier
 martyr: true
+prayers: []
 ---
 
 Layman. Soldier. Captain in the army of King Tu-duc. Convert. Martyr.

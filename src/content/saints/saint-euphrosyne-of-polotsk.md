@@ -31,6 +31,7 @@ vocation:
 patronage:
   - Belarus
 martyr: false
+prayers: []
 ---
 
 Daughter of Prince Svyatoslav of Polotsk. Granddaughter of Prince Polacak Usiaslau. Entered the Convent of Holy Wisdom at Polotsk, a house founded by her aunt, at age 12; she was later joined by her sister, two nieces, and a cousin. Hermit in a cell in the Cathedral of Holy Wisdom. Book copyist; proceeds from the sale of the books were given to the poor. Founded a convent at Seltse. Pilgrim to Constantinople; received by emperor Manuel I and Patriarch Michael III. Pilgrim to the Holy Lands where she was received by the Crusader King Amaury I. Especially venerated by Belarussians, Ruthenians, Lithuanians, and Russians.

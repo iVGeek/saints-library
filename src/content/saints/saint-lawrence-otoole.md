@@ -1,28 +1,32 @@
 ---
-name: "Saint Lawrence O'Toole"
+name: Saint Lawrence O'Toole
 honorific: Saint
-summary: "Son of the chief of Hy Murray. Taken as a hostage by King Dermot McMurrogh Leinster in 1138 when he was ten years old; Dermot later married Lawrence's sister Mor. He was released in 1140 at age twelve to the Bishop of Glendalough, Ireland. and raised and educated at the monastic"
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Lawrence-OToole.jpg"
+summary: >-
+  Son of the chief of Hy Murray. Taken as a hostage by King Dermot McMurrogh Leinster in 1138 when he was ten years old;
+  Dermot later married Lawrence's sister Mor. He was released in 1140 at age twelve to the Bishop of Glendalough,
+  Ireland. and raised and educated at the monastic
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Lawrence-OToole.jpg
 searchAliases:
-  - "Laurence O'Toole"
-  - "Lorcan Ua Tuathail"
+  - Laurence O'Toole
+  - Lorcan Ua Tuathail
 birthYear: 1128
 deathYear: 1180
-born: "1128 at Castledermot, County Kildare, Ireland"
-died: "14 November 1180 at Eu, diocese of Rouen, Normandy, France of natural causes"
-birthPlace: "County Kildare, Ireland"
-deathPlace: "dioceseRouen, Normandy, France of natural causes"
-region: "Ireland"
+born: 1128 at Castledermot, County Kildare, Ireland
+died: 14 November 1180 at Eu, diocese of Rouen, Normandy, France of natural causes
+birthPlace: County Kildare, Ireland
+deathPlace: dioceseRouen, Normandy, France of natural causes
+region: Ireland
 feastDay:
   month: 11
   day: 14
 canonizationStatus: Saint
 vocation:
   - Confessor
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 patronage:
-  - "archdiocese of Dublin, Ireland"
+  - archdiocese of Dublin, Ireland
 martyr: false
+prayers: []
 ---
 
 Son of the chief of Hy Murray. Taken as a hostage by King Dermot McMurrogh Leinster in 1138 when he was ten years old; Dermot later married Lawrence's sister Mor. He was released in 1140 at age twelve to the Bishop of Glendalough, Ireland. and raised and educated at the monastic school there. Monk at Glendalough, and then abbot in 1153. Declined the bishopric of Glendalough in 1160, citing his unworthiness. Ordered to accept the archbishopric of Dublin, Ireland in 1161, he became the first native-born Irishman to hold the see.

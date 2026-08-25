@@ -1,24 +1,24 @@
 ---
-name: "Saint Spyridon of Cyprus"
+name: Saint Spyridon of Cyprus
 honorific: Saint
-summary: " Bishop of Tremithus, Cyprus. Spiritual teacher of Saint Tryphillius of Leucosia. Fought Arianism. During th Known as a pious youth as he grew up on Cyprus. Shepherd. Married, and father one of daughter. Both his wife and daughter became nuns, and he became a monk at Mount Carmel."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Spyridon-of-Cyprus.jpg"
+summary: ' Bishop of Tremithus, Cyprus. Spiritual teacher of Saint Tryphillius of Leucosia. Fought Arianism. During th Known as a pious youth as he grew up on Cyprus. Shepherd. Married, and father one of daughter. Both his wife and daughter became nuns, and he became a monk at Mount Carmel.'
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Spyridon-of-Cyprus.jpg
 searchAliases:
-  - "Spyridon of Corfu"
-  - "Spyridon of Korfu"
-  - "Spyridon of Kerkyra"
-  - "Spyridon of Tremithus"
-  - "Spyridon of Trimithon"
-  - "Spyridon of Trimitonte"
-  - "Spyridon the Wonder Worker"
-  - "Spyridon Thaumaturgos"
-  - "Spiridion…"
-  - "Spiridione…"
+  - Spyridon of Corfu
+  - Spyridon of Korfu
+  - Spyridon of Kerkyra
+  - Spyridon of Tremithus
+  - Spyridon of Trimithon
+  - Spyridon of Trimitonte
+  - Spyridon the Wonder Worker
+  - Spyridon Thaumaturgos
+  - Spiridion…
+  - Spiridione…
 birthYear: 270
 deathYear: 348
-born: "270 on Cyprus"
-died: "c.348 of natural causes"
-region: "Italy"
+born: 270 on Cyprus
+died: c.348 of natural causes
+region: Italy
 feastDay:
   month: 12
   day: 12
@@ -29,14 +29,15 @@ vocation:
   - Deacon
   - Confessor
 patronage:
-  - "against flood"
-  - "potters"
-  - "sailors"
-  - "—"
-  - "Corfu, Greece"
-  - "Kephalonia, Greece"
-  - "Zakynthos, Greece"
+  - against flood
+  - potters
+  - sailors
+  - —
+  - Corfu, Greece
+  - Kephalonia, Greece
+  - Zakynthos, Greece
 martyr: false
+prayers: []
 ---
 
 Known as a pious youth as he grew up on Cyprus. Shepherd. Married, and father one of daughter. Both his wife and daughter became nuns, and he became a monk at Mount Carmel.

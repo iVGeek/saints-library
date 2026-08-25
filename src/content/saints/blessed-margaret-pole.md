@@ -1,17 +1,20 @@
 ---
-name: "Blessed Margaret Pole"
+name: Blessed Margaret Pole
 honorific: Blessed
-summary: "Daughter of the Duke of Clarence. Niece of King Edward IV and King Richard III of England. Married Sir Richard Pole in 1491. Mother of five, one of whom became a cardinal. Widow. Unofficial ward of King Henry VIII, who made her Countess of Salisbury and governess to Princess Mary"
-image: "http://catholicsaints.info/wp-content/gallery/blessed-margaret-pole/blessed-margaret-pole.jpg"
+summary: >-
+  Daughter of the Duke of Clarence. Niece of King Edward IV and King Richard III of England. Married Sir Richard Pole in
+  1491. Mother of five, one of whom became a cardinal. Widow. Unofficial ward of King Henry VIII, who made her Countess
+  of Salisbury and governess to Princess Mary
+image: http://catholicsaints.info/wp-content/gallery/blessed-margaret-pole/blessed-margaret-pole.jpg
 searchAliases:
-  - "Margaret Plantaganet"
+  - Margaret Plantaganet
 birthYear: 1473
 deathYear: 1541
-born: "14 August 1473 in Somerset, Wilshire, England as Margaret Plantaganet"
-died: "beheaded 28 May 1541 on Tower Hill, London, England"
-birthPlace: "Wilshire, England as Margaret Plantaganet"
-deathPlace: "London, England"
-region: "England"
+born: 14 August 1473 in Somerset, Wilshire, England as Margaret Plantaganet
+died: beheaded 28 May 1541 on Tower Hill, London, England
+birthPlace: Wilshire, England as Margaret Plantaganet
+deathPlace: London, England
+region: England
 feastDay:
   month: 5
   day: 28
@@ -19,6 +22,7 @@ canonizationStatus: Blessed
 vocation:
   - Priest
 martyr: true
+prayers: []
 ---
 
 Daughter of the Duke of Clarence. Niece of King Edward IV and King Richard III of England. Married Sir Richard Pole in 1491. Mother of five, one of whom became a cardinal. Widow. Unofficial ward of King Henry VIII, who made her Countess of Salisbury and governess to Princess Mary, daughter of Henry VIII.

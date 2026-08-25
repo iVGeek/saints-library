@@ -1,15 +1,15 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Peleusius of Alexandria"
+name: Saint Peleusius of Alexandria
 honorific: Saint
-summary: "Priest. Martyr."
+summary: Priest. Martyr.
 searchAliases:
-  - "Pelusio"
-  - "Pelagius"
+  - Pelusio
+  - Pelagius
 deathYear: 310
-died: "310 at Alexandria, Egypt"
-deathPlace: "Egypt"
-region: "England"
+died: 310 at Alexandria, Egypt
+deathPlace: Egypt
+region: England
 feastDay:
   month: 4
   day: 7
@@ -18,6 +18,7 @@ vocation:
   - Priest
   - Monk
 martyr: true
+prayers: []
 ---
 
 Priest. Martyr.

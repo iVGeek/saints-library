@@ -25,6 +25,7 @@ patronage:
   - Palazzolo sull'Oglio
   - Plesio
 martyr: true
+prayers: []
 ---
 
 Christian soldier in the imperial Roman army. Martyred in the persecutions of Maximian Herculeus.

@@ -1,24 +1,28 @@
 ---
-name: "Saint Iosephus Yuan Gengyin"
+name: Saint Iosephus Yuan Gengyin
 honorific: Venerable
-summary: "Layman merchant in the apostolic vicariate of Southeastern Zhili, China. Seized by followers of the Yihetuan movement and killed for being Christian. Martyr."
-image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Xianxian.jpg"
+summary: >-
+  Layman merchant in the apostolic vicariate of Southeastern Zhili, China. Seized by followers of the Yihetuan movement
+  and killed for being Christian. Martyr.
+image: http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Xianxian.jpg
 searchAliases:
-  - "Ruose"
+  - Ruose
 birthYear: 1853
 deathYear: 1900
-born: "c.1853 in Hui, Zaoqiang, Hebei, China"
-died: "end of July 1900 in Dayin, Zaoqiang, Hebei, China"
-birthPlace: "Zaoqiang, Hebei, China"
-deathPlace: "Zaoqiang, Hebei, China"
-region: "China"
+born: c.1853 in Hui, Zaoqiang, Hebei, China
+died: end of July 1900 in Dayin, Zaoqiang, Hebei, China
+birthPlace: Zaoqiang, Hebei, China
+deathPlace: Zaoqiang, Hebei, China
+region: China
 feastDay:
   month: 7
   day: 30
-centuries: [19]
+centuries:
+  - 19
 canonizationStatus: Venerable
 vocation: []
 martyr: true
+prayers: []
 ---
 
 Layman merchant in the apostolic vicariate of Southeastern Zhili, China. Seized by followers of the Yihetuan movement and killed for being Christian. Martyr.

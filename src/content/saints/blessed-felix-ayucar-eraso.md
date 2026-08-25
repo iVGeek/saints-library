@@ -1,24 +1,25 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Félix Ayúcar Eraso"
+name: Blessed Félix Ayúcar Eraso
 honorific: Blessed
-summary: "Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
+summary: Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War.
 searchAliases:
-  - "Brother Félix León"
+  - Brother Félix León
 birthYear: 1911
 deathYear: 1936
-born: "4 December 1911 in Estella, Navarra, Spain"
-died: "8 October 1936 in Montcada, Barcelona, Spain"
-birthPlace: "Navarra, Spain"
-deathPlace: "Barcelona, Spain"
-region: "Spain"
+born: 4 December 1911 in Estella, Navarra, Spain
+died: 8 October 1936 in Montcada, Barcelona, Spain
+birthPlace: Navarra, Spain
+deathPlace: Barcelona, Spain
+region: Spain
 feastDay:
   month: 10
   day: 8
 canonizationStatus: Blessed
 vocation: []
-religiousOrder: "Marist"
+religiousOrder: Marist
 martyr: true
+prayers: []
 ---
 
 Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War.

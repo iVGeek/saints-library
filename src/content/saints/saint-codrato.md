@@ -1,18 +1,19 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Codrato"
+name: Saint Codrato
 honorific: Saint
-summary: "Martyr."
+summary: Martyr.
 searchAliases:
-  - "Codro"
-died: "tied to and torn apart by horses"
-region: "Italy"
+  - Codro
+died: tied to and torn apart by horses
+region: Italy
 feastDay:
   month: 5
   day: 20
 canonizationStatus: Saint
 vocation: []
 martyr: true
+prayers: []
 ---
 
 Martyr.

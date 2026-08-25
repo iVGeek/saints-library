@@ -1,18 +1,18 @@
 ---
-name: "Saint Januarius of Naples"
+name: Saint Januarius of Naples
 honorific: Saint
-summary: " His blood was preserved, and dried. Since at least 1389, on his feast day, and on the Satuday before the first Sunday in May, Fourth century bishop of Benevento, Italy during the persecutions of Diocletian. Arrested while visiting imprisoned deacons, and then martyred with them."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Januarius-of-Naples1.jpg"
+summary: ' His blood was preserved, and dried. Since at least 1389, on his feast day, and on the Satuday before the first Sunday in May, Fourth century bishop of Benevento, Italy during the persecutions of Diocletian. Arrested while visiting imprisoned deacons, and then martyred with them.'
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Januarius-of-Naples1.jpg
 searchAliases:
-  - "Januarius of Benevento"
-  - "Januarius of the Miracle"
-  - "Gennaro…"
+  - Januarius of Benevento
+  - Januarius of the Miracle
+  - Gennaro…
 deathYear: 304
-born: "Benevento, Italy or Naples, Italy (records vary)"
-died: "martyred c.304 at Naples, Italy or Pozzuoli, Italy (sources vary)"
-birthPlace: "Italy or Naples, Italy (records vary)"
-deathPlace: "Italy or Pozzuoli, Italy (sources vary)"
-region: "Italy"
+born: Benevento, Italy or Naples, Italy (records vary)
+died: martyred c.304 at Naples, Italy or Pozzuoli, Italy (sources vary)
+birthPlace: Italy or Naples, Italy (records vary)
+deathPlace: Italy or Pozzuoli, Italy (sources vary)
+region: Italy
 feastDay:
   month: 9
   day: 19
@@ -21,21 +21,25 @@ vocation:
   - Bishop
   - Priest
   - Deacon
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 patronage:
-  - "against volcanic eruptions (especially of Vesuvius)"
-  - "blood banks"
-  - "blood donors"
-  - "—"
-  - "locations in Italy\n\nAfragola"
-  - "Benevento, city of"
-  - "Benevento, diocese of"
-  - "Cercola"
-  - "Matinella, Albanella"
-  - "Naples, archdiocese of"
-  - "Naples, city of"
-  - "Pozzuoli, diocese of"
+  - against volcanic eruptions (especially of Vesuvius)
+  - blood banks
+  - blood donors
+  - —
+  - |-
+    locations in Italy
+
+    Afragola
+  - Benevento, city of
+  - Benevento, diocese of
+  - Cercola
+  - Matinella, Albanella
+  - Naples, archdiocese of
+  - Naples, city of
+  - Pozzuoli, diocese of
 martyr: true
+prayers: []
 ---
 
 Fourth century bishop of Benevento, Italy during the persecutions of Diocletian. Arrested while visiting imprisoned deacons, and then martyred with them.

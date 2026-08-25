@@ -1,20 +1,23 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Marcelle"
+name: Blessed Marcelle
 honorific: Blessed
-summary: "Born to a farm family, Marcelle was a pious 10th century goatherd. We know nothing else about her, but the Benedictines in Chauriat who knew her, built a church in her honour in 976."
+summary: >-
+  Born to a farm family, Marcelle was a pious 10th century goatherd. We know nothing else about her, but the
+  Benedictines in Chauriat who knew her, built a church in her honour in 976.
 searchAliases:
-  - "Marcella"
-born: "Chauriat, Puy-de-Dôme, France"
-birthPlace: "Puy-de-Dôme, France"
-region: "France"
+  - Marcella
+born: Chauriat, Puy-de-Dôme, France
+birthPlace: Puy-de-Dôme, France
+region: France
 feastDay:
   month: 4
   day: 1
 canonizationStatus: Blessed
 vocation: []
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 martyr: false
+prayers: []
 ---
 
 Born to a farm family, Marcelle was a pious 10th century goatherd. We know nothing else about her, but the Benedictines in Chauriat who knew her, built a church in her honour in 976.

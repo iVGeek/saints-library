@@ -30,6 +30,7 @@ patronage:
     Corbeil
     Evry-Corbeil-Essonnes, diocese of
 martyr: false
+prayers: []
 ---
 
 Fourth century bishop of Bayeux, France.

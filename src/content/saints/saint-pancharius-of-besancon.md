@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Pancharius of Besançon"
+name: Saint Pancharius of Besançon
 honorific: Saint
-summary: "Bishop of Besançon, France. Much persecuted by the Arian Emperor Constantius."
+summary: Bishop of Besançon, France. Much persecuted by the Arian Emperor Constantius.
 deathYear: 356
-died: "c.356"
-region: "France"
+died: c.356
+region: France
 feastDay:
   month: 7
   day: 22
@@ -14,6 +14,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Bishop of Besançon, France. Much persecuted by the Arian Emperor Constantius.

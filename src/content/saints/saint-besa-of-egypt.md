@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Besa of Egypt"
+name: Saint Besa of Egypt
 honorific: Saint
-summary: "Fifth century abbot in Egypt."
+summary: Fifth century abbot in Egypt.
 searchAliases:
-  - "Wissa"
-region: "Egypt"
+  - Wissa
+region: Egypt
 feastDay:
   month: 12
   day: 23
@@ -13,6 +13,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: false
+prayers: []
 ---
 
 Fifth century abbot in Egypt.

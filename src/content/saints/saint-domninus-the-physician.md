@@ -1,13 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Domninus the Physician"
+name: Saint Domninus the Physician
 honorific: Saint
-summary: "Physician condemned to work the mines during the persecutions of Maximian. Martyr."
+summary: Physician condemned to work the mines during the persecutions of Maximian. Martyr.
 searchAliases:
-  - "Donnino"
+  - Donnino
 deathYear: 310
-died: "burned to death in 310 in Palestine"
-region: "England"
+died: burned to death in 310 in Palestine
+region: England
 feastDay:
   month: 11
   day: 5
@@ -15,6 +15,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Physician condemned to work the mines during the persecutions of Maximian. Martyr.

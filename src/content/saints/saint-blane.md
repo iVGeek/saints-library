@@ -25,6 +25,7 @@ vocation:
   - Priest
   - Missionary
 martyr: false
+prayers: []
 ---
 
 Nephew of Saint Cathan. Studied in Ireland under Saint Comgall of Bangor, Saint Kenneth, and Saint Canice. Monk. After seven years, he returned to Scotland; tradition says he travelled in a boat without oars or rudder, but that it took him safely home. Monk at the monstery founded by Cathan; ordained by his uncle. Missionary to the Scottish Picts. Bishop of Kingarth, Scotland, ordained by Cathen. Pilgrim to Rome to seek papal blessing on his bishopric; made the return trip entirely on foot.

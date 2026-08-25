@@ -1,19 +1,19 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Monenna of Killeavy"
+name: Saint Monenna of Killeavy
 honorific: Saint
-summary: "Ascetic abbess of Sliabh Cuillin, Ireland."
+summary: Ascetic abbess of Sliabh Cuillin, Ireland.
 searchAliases:
-  - "Darerca"
-  - "Moninna"
-  - "Moninne"
-  - "Modenna"
-  - "Medana"
-  - "Medan"
-  - "Monena"
+  - Darerca
+  - Moninna
+  - Moninne
+  - Modenna
+  - Medana
+  - Medan
+  - Monena
 deathYear: 518
-died: "518"
-region: "Ireland"
+died: '518'
+region: Ireland
 feastDay:
   month: 7
   day: 6
@@ -23,6 +23,7 @@ vocation:
   - Monk
   - Religious
 martyr: false
+prayers: []
 ---
 
 Ascetic abbess of Sliabh Cuillin, Ireland.

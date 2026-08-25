@@ -1,38 +1,45 @@
 ---
-name: "Saint Cunegundes"
+name: Saint Cunegundes
 honorific: Saint
-summary: "Daughter of Sigfrid, Count of Luxembourg. Received a religious education, and took a private vow of virginity. Married Saint Henry II, Duke of Bavaria, who agreed to honour her vow. On the death of Emperor Otho III, Henry was chosen King of the Romans, and Cunegundes was crowned"
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Cunigundes.jpg"
+summary: >-
+  Daughter of Sigfrid, Count of Luxembourg. Received a religious education, and took a private vow of virginity. Married
+  Saint Henry II, Duke of Bavaria, who agreed to honour her vow. On the death of Emperor Otho III, Henry was chosen King
+  of the Romans, and Cunegundes was crowned
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Cunigundes.jpg
 searchAliases:
-  - "Chunigundis"
-  - "Cunegund"
-  - "Cunnegunda"
-  - "Cunigunde"
-  - "Cunegonda"
-  - "Kinga"
-  - "Kunegunda"
-  - "Kunigunde"
+  - Chunigundis
+  - Cunegund
+  - Cunnegunda
+  - Cunigunde
+  - Cunegonda
+  - Kinga
+  - Kunegunda
+  - Kunigunde
 deathYear: 1040
-died: "1040 of natural causes"
-region: "Germany"
+died: 1040 of natural causes
+region: Germany
 feastDay:
   month: 3
   day: 3
 canonizationStatus: Saint
 vocation:
   - Confessor
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 patronage:
-  - "children in danger of death"
-  - "–"
-  - "Lithuania (proclaimed on 7 September 1715 by Pope Clement XI)"
-  - "Luxembourg"
-  - "Poland"
-  - "–"
-  - "in Germany\n\nBamberg, archdiocese of"
-  - "Bamberg, city of"
-  - "Nuremberg"
+  - children in danger of death
+  - –
+  - Lithuania (proclaimed on 7 September 1715 by Pope Clement XI)
+  - Luxembourg
+  - Poland
+  - –
+  - |-
+    in Germany
+
+    Bamberg, archdiocese of
+  - Bamberg, city of
+  - Nuremberg
 martyr: false
+prayers: []
 ---
 
 Daughter of Sigfrid, Count of Luxembourg. Received a religious education, and took a private vow of virginity. Married Saint Henry II, Duke of Bavaria, who agreed to honour her vow. On the death of Emperor Otho III, Henry was chosen King of the Romans, and Cunegundes was crowned queen at Paderborn, Germany in 1002. Holy Roman Empress in 1014, receiving the crown from Pope Benedict VIII.

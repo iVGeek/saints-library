@@ -22,6 +22,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/8/86/A_high_cross_and_round_tower_at_Monasterboice%2C_Ireland.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Buithe of Monasterboice
 imageCreditUrl: https://en.wikipedia.org/wiki/Monasterboice
+prayers: []
 ---
 
 Pilgrim to Rome who studied in Italy, then returned to Scotland to work as a missionary to the Picts.

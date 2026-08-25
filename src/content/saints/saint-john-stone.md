@@ -1,12 +1,14 @@
 ---
-name: "Saint John Stone"
+name: Saint John Stone
 honorific: Saint
-summary: "Augustinian friar at Canterbury, England. Doctor of Divinity. Professor and prior at Droitwich. Martyred for denying royal supremacy of the Church."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-John-Stone.jpg"
+summary: >-
+  Augustinian friar at Canterbury, England. Doctor of Divinity. Professor and prior at Droitwich. Martyred for denying
+  royal supremacy of the Church.
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-John-Stone.jpg
 deathYear: 1538
-died: "hanged, drawn, and quartered December 1538 or December 1539 (sources vary) at Dane-John, Canterbury, England"
-deathPlace: "drawn, and quartered December 1538 or December 1539 (sources vary) at Dane-John, Canterbury, England"
-region: "England"
+died: hanged, drawn, and quartered December 1538 or December 1539 (sources vary) at Dane-John, Canterbury, England
+deathPlace: drawn, and quartered December 1538 or December 1539 (sources vary) at Dane-John, Canterbury, England
+region: England
 feastDay:
   month: 12
   day: 23
@@ -14,10 +16,11 @@ canonizationStatus: Saint
 vocation:
   - Priest
   - Monk
-religiousOrder: "Augustinian"
+religiousOrder: Augustinian
 patronage:
-  - "Catholic Society of the University of Kent"
+  - Catholic Society of the University of Kent
 martyr: true
+prayers: []
 ---
 
 Augustinian friar at Canterbury, England. Doctor of Divinity. Professor and prior at Droitwich. Martyred for denying royal supremacy of the Church.

@@ -23,6 +23,7 @@ vocation:
   - Monk
   - Confessor
 martyr: false
+prayers: []
 ---
 
 Son of an African immigrant named Valerius. Priest. Pope. Known for his learning, charity, and sense of justice. Opposed the Acacian and Manichaean heresies. Came into conflict with the Patriarch of Constantinople over supremacy in Alexandria, Egypt and Antioch. Suppressed many of the Roman pagan festivals, and ordered the reception of the Eucharist under both species, settling the argument of the proper form for Communion. Wrote for liturgical sacramentaries, and some of his work appears in the Leonine Sacramentary.

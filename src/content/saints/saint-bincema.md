@@ -1,11 +1,11 @@
 ---
-name: "Saint Bincema"
+name: Saint Bincema
 honorific: Saint
-summary: "Nun. Martyr."
-image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Bincema.jpg"
-died: "3rd century Sardinia, Italy"
-deathPlace: "Italy"
-region: "Italy"
+summary: Nun. Martyr.
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Bincema.jpg
+died: 3rd century Sardinia, Italy
+deathPlace: Italy
+region: Italy
 feastDay:
   month: 12
   day: 23
@@ -13,6 +13,7 @@ canonizationStatus: Saint
 vocation:
   - Religious
 martyr: true
+prayers: []
 ---
 
 Nun. Martyr.

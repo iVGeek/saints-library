@@ -1,20 +1,20 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Theodorus of Apamea"
+name: Saint Theodorus of Apamea
 honorific: Saint
-summary: " Strong defender of sacred ima Son of Venerable Jonah the Presbyter. Brother of Saint Theophanes of Nicaea. Grew up in Jerusalem as a pious youth, but little is known of his early life. Monk at Saint Sabas' laura in Jerusalem. Known for his intelligence and fidelity to their rule."
+summary: ' Strong defender of sacred ima Son of Venerable Jonah the Presbyter. Brother of Saint Theophanes of Nicaea. Grew up in Jerusalem as a pious youth, but little is known of his early life. Monk at Saint Sabas'' laura in Jerusalem. Known for his intelligence and fidelity to their rule.'
 searchAliases:
-  - "one of the Grapti from the Greek graptoi = “written upon”"
-  - "Theodorus the Branded"
-  - "Theodorus the Lettered-Upon"
-  - "Theodore…."
+  - one of the Grapti from the Greek graptoi = “written upon”
+  - Theodorus the Branded
+  - Theodorus the Lettered-Upon
+  - Theodore….
 birthYear: 775
 deathYear: 841
-born: "c.775 at Kerak, Moab (Trans-Jordan)"
-died: "c.841 at Apamea, Bithynia from the privations of prison life"
-birthPlace: "Moab (Trans-Jordan)"
-deathPlace: "Bithyniathe privations of prison life"
-region: "Turkey"
+born: c.775 at Kerak, Moab (Trans-Jordan)
+died: c.841 at Apamea, Bithynia from the privations of prison life
+birthPlace: Moab (Trans-Jordan)
+deathPlace: Bithyniathe privations of prison life
+region: Turkey
 feastDay:
   month: 12
   day: 27
@@ -24,6 +24,7 @@ vocation:
   - Monk
   - Confessor
 martyr: true
+prayers: []
 ---
 
 Son of Venerable Jonah the Presbyter. Brother of Saint Theophanes of Nicaea. Grew up in Jerusalem as a pious youth, but little is known of his early life. Monk at Saint Sabas' laura in Jerusalem. Known for his intelligence and fidelity to their rule.

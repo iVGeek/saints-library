@@ -22,6 +22,7 @@ vocation:
 patronage:
   - sacristans of the Archdiocese of Milan, Italy
 martyr: false
+prayers: []
 ---
 
 Older brother of Saint Ambrose of Milan and Saint Marcellina. Lawyer. Prefect of an imperial Roman province. Handled the administration of his brother's household and finances. Noted for his sense of justice, his integrity, and his generosity.

@@ -1,17 +1,20 @@
 ---
-name: "Blessed Stanislaw Kostka Starowieyski"
+name: Blessed Stanislaw Kostka Starowieyski
 honorific: Blessed
-summary: "Graduated high school in 1914. Studied law at Jagiellonian University in Krakow, Poland, but his studies were interrupted by the start of World War I. Soldier and officer in the Austrian army, he fought on the eastern front and in Italy. Helped found the Polish army in 1918. Foug"
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Stanislaw-Kostka-Starowieyski.jpg"
+summary: >-
+  Graduated high school in 1914. Studied law at Jagiellonian University in Krakow, Poland, but his studies were
+  interrupted by the start of World War I. Soldier and officer in the Austrian army, he fought on the eastern front and
+  in Italy. Helped found the Polish army in 1918. Foug
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Stanislaw-Kostka-Starowieyski.jpg
 searchAliases:
-  - "prisoner 26711"
+  - prisoner 26711
 birthYear: 1895
 deathYear: 1941
-born: "11 May 1895 in Ustrobna, Podkarpackie, Poland"
-died: "13 April 1941 in Dachau, Oberbayern, Germany"
-birthPlace: "Podkarpackie, Poland"
-deathPlace: "Oberbayern, Germany"
-region: "Poland"
+born: 11 May 1895 in Ustrobna, Podkarpackie, Poland
+died: 13 April 1941 in Dachau, Oberbayern, Germany
+birthPlace: Podkarpackie, Poland
+deathPlace: Oberbayern, Germany
+region: Poland
 feastDay:
   month: 6
   day: 4
@@ -19,8 +22,9 @@ canonizationStatus: Blessed
 vocation:
   - Priest
 patronage:
-  - "Catholic Action in Poland"
+  - Catholic Action in Poland
 martyr: true
+prayers: []
 ---
 
 Graduated high school in 1914. Studied law at Jagiellonian University in Krakow, Poland, but his studies were interrupted by the start of World War I. Soldier and officer in the Austrian army, he fought on the eastern front and in Italy. Helped found the Polish army in 1918. Fought in the Polish–Ukrainian War of 1918–1919, defending the citadel of Lviv. Fought in the Polish–Russian war of 1920, rising to the rank of captain and receiving decorations for bravery. A near fatal bout of dysentery ended his military career in 1920.

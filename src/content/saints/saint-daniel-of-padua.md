@@ -25,6 +25,7 @@ patronage:
   - –
   - Padua, Italy
 martyr: false
+prayers: []
 ---
 
 Jewish convert. Deacon to Saint Prosdocimus of Padua, and assisted in his missionary work. Martyed for his efforts during the persecutions of Marcus Aurelius.

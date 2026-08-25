@@ -1,15 +1,17 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Cerenico of Spoleto"
+name: Saint Cerenico of Spoleto
 honorific: Saint
-summary: "7th century deacon in the area of Le Mans, France. Hermit at Séez, France. Benedictine monk who attracted 140 brother monks by his piety and wisdom."
+summary: >-
+  7th century deacon in the area of Le Mans, France. Hermit at Séez, France. Benedictine monk who attracted 140 brother
+  monks by his piety and wisdom.
 searchAliases:
-  - "Cenerico"
-  - "Cenic"
-  - "Cinereo"
+  - Cenerico
+  - Cenic
+  - Cinereo
 deathYear: 669
-died: "7 May 669"
-region: "France"
+died: 7 May 669
+region: France
 feastDay:
   month: 5
   day: 7
@@ -18,10 +20,11 @@ vocation:
   - Monk
   - Deacon
   - Hermit
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 patronage:
-  - "Chateau-Thierry, France"
+  - Chateau-Thierry, France
 martyr: false
+prayers: []
 ---
 
 7th century deacon in the area of Le Mans, France. Hermit at Séez, France. Benedictine monk who attracted 140 brother monks by his piety and wisdom.

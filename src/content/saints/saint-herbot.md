@@ -34,6 +34,7 @@ patronage:
   - Finistère
   - Plonévez-du-Faou
 martyr: false
+prayers: []
 ---
 
 Hermit in the forests in the region of Berrien and Huelgoat in Brittany about whom little history but many legends have survived.

@@ -30,6 +30,7 @@ vocation:
   - Confessor
 religiousOrder: Franciscan
 martyr: false
+prayers: []
 ---
 
 Born to a poor but pious rural family, he worked as a shepherd as a child. His family encouraged his vocation to the priesthood, but Charles was a terrible student, barely able to read or write, and had no hope of success in seminary. Franciscan lay brother at age 22 at Naziano, Italy. Poor health prevented his going on foreign missions, and he served in assorted menial positions, such as cook, porter, and gardener at friaries near Rome, Italy.

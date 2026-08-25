@@ -1,12 +1,12 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Gunthiern"
+name: Saint Gunthiern
 honorific: Saint
-summary: " Legend says that insects once threatened to destroy the region's crops. Count Prince who became a hermit in Brittany. The local lord, Grallon, gave Gunthiern land on the Isle of Groie, near River Blavet to found a monastery. It survives today as the Benedictine house of Kemperle."
+summary: ' Legend says that insects once threatened to destroy the region''s crops. Count Prince who became a hermit in Brittany. The local lord, Grallon, gave Gunthiern land on the Isle of Groie, near River Blavet to found a monastery. It survives today as the Benedictine house of Kemperle.'
 deathYear: 500
-born: "Welsh"
-died: "c.500 in Brittany (in modern France) of natural causes"
-region: "France"
+born: Welsh
+died: c.500 in Brittany (in modern France) of natural causes
+region: France
 feastDay:
   month: 7
   day: 3
@@ -15,8 +15,9 @@ vocation:
   - Priest
   - Monk
   - Hermit
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 martyr: false
+prayers: []
 ---
 
 Prince who became a hermit in Brittany. The local lord, Grallon, gave Gunthiern land on the Isle of Groie, near River Blavet to found a monastery. It survives today as the Benedictine house of Kemperle.

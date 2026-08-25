@@ -1,16 +1,18 @@
 ---
-name: "Saint Britta"
-image: "https://upload.wikimedia.org/wikipedia/commons/b/bd/TS_Britta.jpg"
+name: Saint Britta
+image: https://upload.wikimedia.org/wikipedia/commons/b/bd/TS_Britta.jpg
 honorific: Saint
-summary: "Fourth century nun. Martyred with Saint Maura. Their story was lost, and their relics were discovered by Saint Euphronius."
+summary: >-
+  Fourth century nun. Martyred with Saint Maura. Their story was lost, and their relics were discovered by Saint
+  Euphronius.
 searchAliases:
-  - "Bridget"
-  - "Brigid"
-  - "Brigida"
-  - "Brigitta"
-  - "Brigitte"
-  - "Britte"
-region: "England"
+  - Bridget
+  - Brigid
+  - Brigida
+  - Brigitta
+  - Brigitte
+  - Britte
+region: England
 feastDay:
   month: 6
   day: 1
@@ -19,8 +21,9 @@ vocation:
   - Monk
   - Religious
 patronage:
-  - "martyrs"
+  - martyrs
 martyr: true
+prayers: []
 ---
 
 Fourth century nun. Martyred with Saint Maura. Their story was lost, and their relics were discovered by Saint Euphronius.

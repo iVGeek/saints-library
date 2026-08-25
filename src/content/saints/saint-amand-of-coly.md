@@ -21,6 +21,7 @@ imageAlt: Portrait of Saint Amand of Coly
 imageCredit: <span class="int-own-work" lang="en">Own work</span>
 imageCreditUrl: >-
   https://commons.wikimedia.org/wiki/File:Saint%20Amandus%20crucifixion%20altar%2C%20church%20Saint%20Peter%20and%20Paul%2C%20Oberammergau%2C%20Bavaria%2C%20Germany.jpg
+prayers: []
 ---
 
 Founder and first abbot of Saint-Amand de Coly monastery, diocese of Limoges, France.

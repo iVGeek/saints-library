@@ -1,25 +1,31 @@
 ---
-name: "Venerable Isabella de Rosis"
+name: Venerable Isabella de Rosis
 honorific: Venerable
-summary: "The eldest of nine children born to the 19th century Italian noble family of Baron Domiziano de Roses and Baroness Gabriella Francesca Berlingieri, Isabella was educated at the boarding school of the Santa Chiara monastery in Naples, Italy. She grew up loving the religious life o"
-image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Isabella-de-Rosis.jpg"
+summary: >-
+  The eldest of nine children born to the 19th century Italian noble family of Baron Domiziano de Roses and Baroness
+  Gabriella Francesca Berlingieri, Isabella was educated at the boarding school of the Santa Chiara monastery in Naples,
+  Italy. She grew up loving the religious life o
+image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Isabella-de-Rosis.jpg
 birthYear: 1842
 deathYear: 1911
-born: "9 June 1842 in Rossano Calabro, Cosenza, Italy"
-died: "11 August 1911 in Naples, Italy of natural causes"
-birthPlace: "Cosenza, Italy"
-deathPlace: "Italynatural causes"
-region: "Germany"
+born: 9 June 1842 in Rossano Calabro, Cosenza, Italy
+died: 11 August 1911 in Naples, Italy of natural causes
+birthPlace: Cosenza, Italy
+deathPlace: Italynatural causes
+region: Germany
 feastDay:
   month: 10
   day: 24
-centuries: [19, 20]
+centuries:
+  - 19
+  - 20
 canonizationStatus: Venerable
 vocation:
   - Bishop
   - Priest
   - Religious
 martyr: false
+prayers: []
 ---
 
 The eldest of nine children born to the 19th century Italian noble family of Baron Domiziano de Roses and Baroness Gabriella Francesca Berlingieri, Isabella was educated at the boarding school of the Santa Chiara monastery in Naples, Italy. She grew up loving the religious life of the sisters who ran the school, and was drawn to the religious life herself; her family objected, wishing her to marry and be part of the secular world.

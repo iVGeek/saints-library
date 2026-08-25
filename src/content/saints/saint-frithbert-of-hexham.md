@@ -1,14 +1,16 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Frithbert of Hexham"
+name: Saint Frithbert of Hexham
 honorific: Saint
-summary: "Priest. Bishop of Hexham, England for 34 years. Administered the diocese of Lindisfarne while Bishop Cynewulf was in prison."
+summary: >-
+  Priest. Bishop of Hexham, England for 34 years. Administered the diocese of Lindisfarne while Bishop Cynewulf was in
+  prison.
 searchAliases:
-  - "Fridebert"
-  - "Frithubeorht"
-  - "Frideberto"
-  - "Frithelbert"
-region: "England"
+  - Fridebert
+  - Frithubeorht
+  - Frideberto
+  - Frithelbert
+region: England
 feastDay:
   month: 12
   day: 23
@@ -18,6 +20,7 @@ vocation:
   - Priest
   - Monk
 martyr: false
+prayers: []
 ---
 
 Priest. Bishop of Hexham, England for 34 years. Administered the diocese of Lindisfarne while Bishop Cynewulf was in prison.

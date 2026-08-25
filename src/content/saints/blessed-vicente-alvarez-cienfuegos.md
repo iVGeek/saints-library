@@ -1,23 +1,24 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Vicente Álvarez Cienfuegos"
+name: Blessed Vicente Álvarez Cienfuegos
 honorific: Blessed
-summary: "Dominican priest. Martyred in the Spanish Civil War."
+summary: Dominican priest. Martyred in the Spanish Civil War.
 birthYear: 1863
 deathYear: 1936
-born: "29 April 1863 in Villamejín, Proaza, Asturias, Spain"
-died: "25 August 1936 in Madrid, Spain"
-birthPlace: "Proaza, Asturias, Spain"
-deathPlace: "Spain"
-region: "Spain"
+born: 29 April 1863 in Villamejín, Proaza, Asturias, Spain
+died: 25 August 1936 in Madrid, Spain
+birthPlace: Proaza, Asturias, Spain
+deathPlace: Spain
+region: Spain
 feastDay:
   month: 8
   day: 25
 canonizationStatus: Blessed
 vocation:
   - Priest
-religiousOrder: "Dominican"
+religiousOrder: Dominican
 martyr: true
+prayers: []
 ---
 
 Dominican priest. Martyred in the Spanish Civil War.

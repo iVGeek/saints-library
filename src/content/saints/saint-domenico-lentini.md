@@ -23,6 +23,7 @@ vocation:
 patronage:
   - Lauria, Italy
 martyr: false
+prayers: []
 ---
 
 Youngest of five children in a poor but pious family. By age 14 he felt a call to the priesthood, studied at the seminary in Salerno, Italy and was ordained in the diocese of Tursi-Lagonegro, Italy in 1794. He was assigned to his hometown of Lauria, Italy and worked there the rest of his life.

@@ -1,17 +1,18 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Domninus of Rome"
+name: Saint Domninus of Rome
 honorific: Saint
-summary: "Travelling preacher throughout Italy. Martyr."
-born: "Rome, Italy"
-birthPlace: "Italy"
-region: "Italy"
+summary: Travelling preacher throughout Italy. Martyr.
+born: Rome, Italy
+birthPlace: Italy
+region: Italy
 feastDay:
   month: 3
   day: 21
 canonizationStatus: Saint
 vocation: []
 martyr: true
+prayers: []
 ---
 
 Travelling preacher throughout Italy. Martyr.

@@ -23,6 +23,7 @@ canonizationStatus: Blessed
 vocation:
   - Bishop
 martyr: true
+prayers: []
 ---
 
 Born to a wealthy family, the son of William O'Brien O'Hurley and Honoria. Studied at the University of Leuven, Belgium where he obtained his law degree. Dean of the law school at Leuven for 15 years. Taught in Rheims, France for 4 years. Chosen archbishop of Cashel, Ireland by Pope Gregory XIII in 1581 while Dermot was still a layman; he received the pallium on 27 November of that year.

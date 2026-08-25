@@ -1,17 +1,20 @@
 ---
-name: "Blessed Salvi Huix Miralpeix"
+name: Blessed Salvi Huix Miralpeix
 honorific: Blessed
-summary: "Born to a pious and fairly wealthy family. Known for his hard work as a student and seminarian, and for his problems controlling his temper. Ordained on 19 September 1903 in the diocese of Vic, Spain. Rural parish priest for several years. Joined the Oratorians in Vich 1907, and"
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Salvi-Huix-Miralpeix.jpg"
+summary: >-
+  Born to a pious and fairly wealthy family. Known for his hard work as a student and seminarian, and for his problems
+  controlling his temper. Ordained on 19 September 1903 in the diocese of Vic, Spain. Rural parish priest for several
+  years. Joined the Oratorians in Vich 1907, and
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Salvi-Huix-Miralpeix.jpg
 searchAliases:
-  - "Salvio Huix Miralpéix"
+  - Salvio Huix Miralpéix
 birthYear: 1877
 deathYear: 1936
-born: "22 December 1877 in Santa Margarida de Vallors, Girona, Spain"
-died: "shot in the head on the morning of 5 August 1936 in a cemetery in Lleida, Spain"
-birthPlace: "Girona, Spain"
-deathPlace: "Spain"
-region: "Spain"
+born: 22 December 1877 in Santa Margarida de Vallors, Girona, Spain
+died: shot in the head on the morning of 5 August 1936 in a cemetery in Lleida, Spain
+birthPlace: Girona, Spain
+deathPlace: Spain
+region: Spain
 feastDay:
   month: 8
   day: 5
@@ -20,6 +23,7 @@ vocation:
   - Bishop
   - Priest
 martyr: true
+prayers: []
 ---
 
 Born to a pious and fairly wealthy family. Known for his hard work as a student and seminarian, and for his problems controlling his temper. Ordained on 19 September 1903 in the diocese of Vic, Spain. Rural parish priest for several years. Joined the Oratorians in Vich 1907, and ministered to the people of that city. He started a confraternity for married men under the patronage of Saint Joseph to revitalize the spiritual and parish life of working men who routinely fell away from an active faith life. Taught theology at the local seminary. Apostolic administrator of Ibiza, Spain, an impoverished diocese that had been without a bishop for 69 years, and titular bishop of Selymbria on 16 February 1928.

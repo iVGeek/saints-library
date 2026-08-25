@@ -28,6 +28,7 @@ vocation:
   - Cardinal
 religiousOrder: Franciscan
 martyr: false
+prayers: []
 ---
 
 Son of a prominent newspaper editor. Ordained in Brescia, Italy on 29 May 1920, he continued his studies in Rome, Italy, and became part of the Vatican secretariat of state in 1922. One of two pro-secretaries to Pope Pius XII. Archbishop of Milan from 1954 to 1963 where he worked on social problems and to improve relations between workers and employers. Created cardinal-priest of Santi Silvestro e Martino ai Monti on 15 December 1958. Elected 262nd Pope in 1963.

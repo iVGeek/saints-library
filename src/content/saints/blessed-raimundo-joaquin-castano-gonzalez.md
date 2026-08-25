@@ -1,23 +1,24 @@
 ---
-name: "Blessed Raimundo Joaquín Castaño González"
+name: Blessed Raimundo Joaquín Castaño González
 honorific: Blessed
-summary: "Dominican priest. Martyred in the Spanish Civil War."
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Raimundo-Joaquín-Castaño-González.jpg"
+summary: Dominican priest. Martyred in the Spanish Civil War.
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Raimundo-Joaquín-Castaño-González.jpg
 birthYear: 1877
 deathYear: 1936
-born: "15 January 1877 in Santibáñez de Murias, Asturias, Spain"
-died: "3 October 1936 in Bilbao, Vizcaya, Spain"
-birthPlace: "Asturias, Spain"
-deathPlace: "Vizcaya, Spain"
-region: "Spain"
+born: 15 January 1877 in Santibáñez de Murias, Asturias, Spain
+died: 3 October 1936 in Bilbao, Vizcaya, Spain
+birthPlace: Asturias, Spain
+deathPlace: Vizcaya, Spain
+region: Spain
 feastDay:
   month: 10
   day: 3
 canonizationStatus: Blessed
 vocation:
   - Priest
-religiousOrder: "Dominican"
+religiousOrder: Dominican
 martyr: true
+prayers: []
 ---
 
 Dominican priest. Martyred in the Spanish Civil War.

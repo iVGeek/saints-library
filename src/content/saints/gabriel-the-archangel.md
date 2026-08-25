@@ -1,18 +1,18 @@
 ---
-name: "Gabriel the Archangel"
+name: Gabriel the Archangel
 honorific: Saint
-title: "Archangel"
-summary: "Archangel and messenger of God. One of the three angels mentioned by name in the Catholic Bible."
-image: "http://catholicsaints.info/wp-content/gallery/gabriel-the-archangel/gabriel-the-archangel-00.jpg"
+title: Archangel
+summary: Archangel and messenger of God. One of the three angels mentioned by name in the Catholic Bible.
+image: http://catholicsaints.info/wp-content/gallery/gabriel-the-archangel/gabriel-the-archangel-00.jpg
 searchAliases: []
-died: "hasn't"
-region: "Africa"
+died: hasn't
+region: Africa
 feastDay:
   month: 9
   day: 29
 canonizationStatus: Saint
 vocation: []
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 patronage:
   - broadcasters
   - clergy
@@ -21,6 +21,7 @@ patronage:
   - postal workers
   - telecommunication workers
 martyr: false
+prayers: []
 ---
 
 Archangel and messenger of God. One of the three angels mentioned by name in the Catholic Bible.

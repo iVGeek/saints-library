@@ -29,6 +29,7 @@ patronage:
     Florence, archdiocese of
   - Florence, city of
 martyr: false
+prayers: []
 ---
 
 Born a pagan, Zenobius converted and was baptized as an adult. Priest. Archdeacon. Friend of Saint Ambrose of Milan. Counselor to Pope Saint Damasus I. First bishop of Florence, Italy. Worked with Saint Eugene of Florence and Saint Crescentius. Fought Arianism. Miracle worker, reviving five people from the dead.

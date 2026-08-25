@@ -1,13 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Nicetus of Vienne"
+name: Saint Nicetus of Vienne
 honorific: Saint
-summary: "Bishop of Vienne, France. Supported the expansion of monastic life in his diocese."
+summary: Bishop of Vienne, France. Supported the expansion of monastic life in his diocese.
 searchAliases:
-  - "Nicezio"
+  - Nicezio
 deathYear: 449
-died: "c.449"
-region: "France"
+died: c.449
+region: France
 feastDay:
   month: 5
   day: 5
@@ -16,6 +16,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Bishop of Vienne, France. Supported the expansion of monastic life in his diocese.

@@ -16,6 +16,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/2/24/Cagliari_kathedrale_fassade01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Cecilia of Cagliari
 imageCreditUrl: https://en.wikipedia.org/wiki/Cagliari%20Cathedral
+prayers: []
 ---
 
 Martyred in the persecutions of Diocletian.

@@ -26,6 +26,7 @@ patronage:
   - Sant'Elpidio a Mare, Italy
   - Sant'Elpidio Morico, Italy
 martyr: false
+prayers: []
 ---
 
 Monk. Abbot in Asia Minor. Hermit in a cave on Mount Luca, Cappadocia for over twenty years. Legend says that an angel convinced him to immigrate to the area of Ancona, Italy where his reputation for holiness and wisdom attracted many disciples.

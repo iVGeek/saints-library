@@ -1,17 +1,20 @@
 ---
-name: "Blessed Caterina Cittadini"
+name: Blessed Caterina Cittadini
 honorific: Blessed
-summary: "Daughter of Giovanni Battista and Magherita Lanzani. Her mother died when Caterina was seven, and her father abandoned the girl and her younger sister Giuditta. They were accepted and grew up at the orphanage of the Conventino of Bergamo. There she developed a strong faith, a big"
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Caterina-Cittadini.jpg"
+summary: >-
+  Daughter of Giovanni Battista and Magherita Lanzani. Her mother died when Caterina was seven, and her father abandoned
+  the girl and her younger sister Giuditta. They were accepted and grew up at the orphanage of the Conventino of
+  Bergamo. There she developed a strong faith, a big
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Caterina-Cittadini.jpg
 searchAliases:
-  - "Katarina Cittadini"
+  - Katarina Cittadini
 birthYear: 1801
 deathYear: 1857
-born: "28 September 1801 in Bergamo, Italy"
-died: "5 May 1857  in Somasca, Bergamo, Italy of natural causes"
-birthPlace: "Italy"
-deathPlace: "Bergamo, Italynatural causes"
-region: "Brazil"
+born: 28 September 1801 in Bergamo, Italy
+died: 5 May 1857  in Somasca, Bergamo, Italy of natural causes
+birthPlace: Italy
+deathPlace: Bergamo, Italynatural causes
+region: Brazil
 feastDay:
   month: 5
   day: 5
@@ -21,6 +24,7 @@ vocation:
   - Priest
   - Religious
 martyr: false
+prayers: []
 ---
 
 Daughter of Giovanni Battista and Magherita Lanzani. Her mother died when Caterina was seven, and her father abandoned the girl and her younger sister Giuditta. They were accepted and grew up at the orphanage of the Conventino of Bergamo. There she developed a strong faith, a big sister's sense of responsibility, and a devotion to Our Lady and Saint Jerome Emiliani.

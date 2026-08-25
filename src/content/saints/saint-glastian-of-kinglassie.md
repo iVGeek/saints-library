@@ -1,15 +1,15 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Glastian of Kinglassie"
+name: Saint Glastian of Kinglassie
 honorific: Saint
-summary: "Bishop. He mediated a peace between the Picts and the Scots, greatly improving the conditions of the conqured Picts."
+summary: Bishop. He mediated a peace between the Picts and the Scots, greatly improving the conditions of the conqured Picts.
 searchAliases:
-  - "Glastiano"
-  - "Glastianus"
-  - "Maglastiano"
+  - Glastiano
+  - Glastianus
+  - Maglastiano
 deathYear: 830
-died: "830 of natural causes"
-region: "England"
+died: 830 of natural causes
+region: England
 feastDay:
   month: 1
   day: 28
@@ -20,8 +20,9 @@ vocation:
   - Monk
   - Confessor
 patronage:
-  - "Kinglassie, Fife, Scotland"
+  - Kinglassie, Fife, Scotland
 martyr: false
+prayers: []
 ---
 
 Bishop. He mediated a peace between the Picts and the Scots, greatly improving the conditions of the conqured Picts.

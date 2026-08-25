@@ -1,18 +1,21 @@
 ---
-name: "Saint Henry II"
+name: Saint Henry II
 honorific: Saint
-summary: "Son of Gisella of Burgundy and Henry II the Quarrelsome, Duke of Bavaria. Educated at the cathedral school in Hildesheim by bishop Wolfgang of Regensburg. Became Duke of Bavaria himself in 995 upon his father's death, which ended Henry's thoughts of becoming a priest. Ascended to"
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Henry-II.jpg"
+summary: >-
+  Son of Gisella of Burgundy and Henry II the Quarrelsome, Duke of Bavaria. Educated at the cathedral school in
+  Hildesheim by bishop Wolfgang of Regensburg. Became Duke of Bavaria himself in 995 upon his father's death, which
+  ended Henry's thoughts of becoming a priest. Ascended to
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Henry-II.jpg
 searchAliases:
-  - "Good King Henry"
-  - "Heinrich, Duke of Bavaria"
+  - Good King Henry
+  - Heinrich, Duke of Bavaria
 birthYear: 972
 deathYear: 1024
-born: "6 May 972 at Albach, Hildesheim, Bavaria, Germany"
-died: "13 July 1024 at Pfalz Grona, near Göttingen, Saxony (in modern Germany) of natural causes"
-birthPlace: "Hildesheim, Bavaria, Germany"
-deathPlace: "near Göttingen, Saxony (modern Germany) of natural causes"
-region: "Germany"
+born: 6 May 972 at Albach, Hildesheim, Bavaria, Germany
+died: 13 July 1024 at Pfalz Grona, near Göttingen, Saxony (in modern Germany) of natural causes
+birthPlace: Hildesheim, Bavaria, Germany
+deathPlace: near Göttingen, Saxony (modern Germany) of natural causes
+region: Germany
 feastDay:
   month: 7
   day: 13
@@ -21,23 +24,27 @@ vocation:
   - Bishop
   - Priest
   - Confessor
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 patronage:
-  - "against sterility"
-  - "childless people"
-  - "disabled people"
-  - "dukes"
-  - "handicapped people"
-  - "kings"
-  - "people rejected by religious orders"
-  - "physically challenged people"
-  - "–"
-  - "Benedictine Oblates"
-  - "–"
-  - "in Germany\n\nBamberg, diocese of"
-  - "Bamberg, city of"
-  - "Nuremberg"
+  - against sterility
+  - childless people
+  - disabled people
+  - dukes
+  - handicapped people
+  - kings
+  - people rejected by religious orders
+  - physically challenged people
+  - –
+  - Benedictine Oblates
+  - –
+  - |-
+    in Germany
+
+    Bamberg, diocese of
+  - Bamberg, city of
+  - Nuremberg
 martyr: false
+prayers: []
 ---
 
 Son of Gisella of Burgundy and Henry II the Quarrelsome, Duke of Bavaria. Educated at the cathedral school in Hildesheim by bishop Wolfgang of Regensburg. Became Duke of Bavaria himself in 995 upon his father's death, which ended Henry's thoughts of becoming a priest. Ascended to the throne of Germany in 1002. Crowned King of Pavia, Italy on 15 May 1004. Married Saint Cunegunda, but was never a father. Some sources claim the two lived celibately, but there is no evidence either way.

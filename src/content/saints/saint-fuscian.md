@@ -19,6 +19,7 @@ vocation:
   - Monk
   - Missionary
 martyr: true
+prayers: []
 ---
 
 Missionary to the Gallic Moroni people. Arrested for their faith by order of Roman Governor Rictiovarus. Tortured in Amiens, France. Martyr.

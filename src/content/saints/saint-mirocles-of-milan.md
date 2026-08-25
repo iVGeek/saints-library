@@ -1,15 +1,17 @@
 ---
-name: "Saint Mirocles of Milan"
+name: Saint Mirocles of Milan
 honorific: Saint
-summary: "Archbishop of Milan, Italy. Writer. Attended the Council of Rome in 313. One of the originators of the Ambrosian liturgy and chant. His life and works were praised by Saint Ambrose of Milan."
-image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Mirocles-of-Milan.jpg"
+summary: >-
+  Archbishop of Milan, Italy. Writer. Attended the Council of Rome in 313. One of the originators of the Ambrosian
+  liturgy and chant. His life and works were praised by Saint Ambrose of Milan.
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Mirocles-of-Milan.jpg
 searchAliases:
-  - "Merocles"
-  - "Mirocle"
-  - "Mirocleto"
+  - Merocles
+  - Mirocle
+  - Mirocleto
 deathYear: 318
-died: "c.318 of natural causes"
-region: "Italy"
+died: c.318 of natural causes
+region: Italy
 feastDay:
   month: 11
   day: 30
@@ -18,6 +20,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Archbishop of Milan, Italy. Writer. Attended the Council of Rome in 313. One of the originators of the Ambrosian liturgy and chant. His life and works were praised by Saint Ambrose of Milan.

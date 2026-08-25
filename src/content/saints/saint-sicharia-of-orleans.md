@@ -1,13 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Sicharia of Orléans"
+name: Saint Sicharia of Orléans
 honorific: Saint
-summary: "Fifth century nun whose story has not survived."
+summary: Fifth century nun whose story has not survived.
 searchAliases:
-  - "Sicaire"
-  - "Sigeria"
-  - "Sicaria"
-region: "Italy"
+  - Sicaire
+  - Sigeria
+  - Sicaria
+region: Italy
 feastDay:
   month: 2
   day: 2
@@ -15,6 +15,7 @@ canonizationStatus: Saint
 vocation:
   - Religious
 martyr: false
+prayers: []
 ---
 
 Fifth century nun whose story has not survived.

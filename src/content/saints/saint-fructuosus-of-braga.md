@@ -22,6 +22,7 @@ religiousOrder: Benedictine
 patronage:
   - Braga, Portugal
 martyr: false
+prayers: []
 ---
 
 Son of a Gothic general, and member of a noble military family. Studied at the seminary in Palencia. From an early age, Fructuosus felt a call to the religious life. Orphaned when young. When he came of age, Fructuosus gave away his family fortune to the poor, bought the freedom of slaves, and founded several monasteries. By 647 he had founded houses in Lusitania, Asturia, Spanish Galicia, and the island of Gades.

@@ -1,14 +1,16 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Ioannes Ariie Kiemon"
+name: Blessed Ioannes Ariie Kiemon
 honorific: Blessed
-summary: "Layman in the diocese of Niigata, Japan. Married to Blessed Magdalena Ariie; father of Blessed Petrus Ariie Jinzo. Martyr."
+summary: >-
+  Layman in the diocese of Niigata, Japan. Married to Blessed Magdalena Ariie; father of Blessed Petrus Ariie Jinzo.
+  Martyr.
 deathYear: 1629
-born: "Yonezawa, Yamagata, Japan"
-died: "12 January 1629 in Hokusanbara, Yonezawa, Yamagata, Japan"
-birthPlace: "Yamagata, Japan"
-deathPlace: "Yonezawa, Yamagata, Japan"
-region: "Japan"
+born: Yonezawa, Yamagata, Japan
+died: 12 January 1629 in Hokusanbara, Yonezawa, Yamagata, Japan
+birthPlace: Yamagata, Japan
+deathPlace: Yonezawa, Yamagata, Japan
+region: Japan
 feastDay:
   month: 1
   day: 12
@@ -17,6 +19,7 @@ vocation:
   - Priest
   - Cardinal
 martyr: true
+prayers: []
 ---
 
 Layman in the diocese of Niigata, Japan. Married to Blessed Magdalena Ariie; father of Blessed Petrus Ariie Jinzo. Martyr.

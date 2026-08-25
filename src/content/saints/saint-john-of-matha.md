@@ -28,6 +28,7 @@ patronage:
     Faucon
   - Meaux
 martyr: false
+prayers: []
 ---
 
 Born to the Provencal nobility. Educated at Aix, France, then lived as a hermit at Faucon, France. Earned a doctorate in theology at Paris, France. Ordained in 1197.

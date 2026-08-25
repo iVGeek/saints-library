@@ -16,6 +16,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: false
+prayers: []
 ---
 
 Fifth century abbot at the monastery at Fiddown in Kilkenny, Ireland.

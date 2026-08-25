@@ -32,6 +32,7 @@ martyr: true
 lifeEvents:
   - year: '1825'
     event: Born at Phan-xa.
+prayers: []
 ---
 
 Convert. Layman. Soldier in the Vietnamese army, holding the rank of corporal. Arrested for his faith and ordered to renounce Christianity; he refused. One of the Martyrs of Vietnam.

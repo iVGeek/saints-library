@@ -1,11 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Donivald"
+name: Saint Donivald
 honorific: Saint
-summary: "Married 8th-century layman. Father of nine daughters who became known as the Nine Maidens. He and they lived as a hermits in Ogilvy, Scotland."
+summary: >-
+  Married 8th-century layman. Father of nine daughters who became known as the Nine Maidens. He and they lived as a
+  hermits in Ogilvy, Scotland.
 searchAliases:
-  - "Donald"
-region: "Scotland"
+  - Donald
+region: Scotland
 feastDay:
   month: 7
   day: 15
@@ -15,6 +17,7 @@ vocation:
   - Monk
   - Hermit
 martyr: false
+prayers: []
 ---
 
 Married 8th-century layman. Father of nine daughters who became known as the Nine Maidens. He and they lived as a hermits in Ogilvy, Scotland.

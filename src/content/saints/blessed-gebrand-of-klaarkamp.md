@@ -1,25 +1,26 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Gebrand of Klaarkamp"
+name: Blessed Gebrand of Klaarkamp
 honorific: Blessed
-summary: "Benedictine Cistercian monk. Abbot of the monastery at Klaarkamp, Frisia. Founder of the house at Bloemkamp in 1191."
+summary: Benedictine Cistercian monk. Abbot of the monastery at Klaarkamp, Frisia. Founder of the house at Bloemkamp in 1191.
 searchAliases:
-  - "Gebrand of Bloemkamp"
-  - "Gerbrand…"
-  - "Gerbrandus…"
+  - Gebrand of Bloemkamp
+  - Gerbrand…
+  - Gerbrandus…
 deathYear: 1218
-born: "at Foigny, Laonnais (in modern France)"
-died: "1218 of natural causes"
-birthPlace: "Laonnais (modern France)"
-region: "France"
+born: at Foigny, Laonnais (in modern France)
+died: 1218 of natural causes
+birthPlace: Laonnais (modern France)
+region: France
 feastDay:
   month: 10
   day: 13
 canonizationStatus: Blessed
 vocation:
   - Monk
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 martyr: false
+prayers: []
 ---
 
 Benedictine Cistercian monk. Abbot of the monastery at Klaarkamp, Frisia. Founder of the house at Bloemkamp in 1191.

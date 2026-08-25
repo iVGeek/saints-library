@@ -1,25 +1,30 @@
 ---
-name: "Saint Giuse Túc"
+name: Saint Giuse Túc
 honorific: Venerable
-summary: "Christian peasant farmer in the apostolic vicariate of Central Tonkin (modern Vietnam). During the persecutions of emperor Tu-Duc, he was ordered to step on a crucifix to show his contempt for Christianity; he refused. Imprisoned, tortured and executed. Martyr."
-image: "http://catholicsaints.info/wp-content/gallery/martyrs-of-vietnam/martyrs-of-vietnam-01.jpg"
+summary: >-
+  Christian peasant farmer in the apostolic vicariate of Central Tonkin (modern Vietnam). During the persecutions of
+  emperor Tu-Duc, he was ordered to step on a crucifix to show his contempt for Christianity; he refused. Imprisoned,
+  tortured and executed. Martyr.
+image: http://catholicsaints.info/wp-content/gallery/martyrs-of-vietnam/martyrs-of-vietnam-01.jpg
 searchAliases:
-  - "Joseph Tuc"
-  - "Giuseppe Tuc"
+  - Joseph Tuc
+  - Giuseppe Tuc
 birthYear: 1843
 deathYear: 1862
-born: "c.1843 in Hoàng Xá, Bac Ninh, Vietnam"
-died: "beheaded on 1 June 1862 in Hoàng Xá, Bac Ninh, Vietnam"
-birthPlace: "Bac Ninh, Vietnam"
-deathPlace: "Bac Ninh, Vietnam"
-region: "Vietnam"
+born: c.1843 in Hoàng Xá, Bac Ninh, Vietnam
+died: beheaded on 1 June 1862 in Hoàng Xá, Bac Ninh, Vietnam
+birthPlace: Bac Ninh, Vietnam
+deathPlace: Bac Ninh, Vietnam
+region: Vietnam
 feastDay:
   month: 6
   day: 1
-centuries: [19]
+centuries:
+  - 19
 canonizationStatus: Venerable
 vocation: []
 martyr: true
+prayers: []
 ---
 
 Christian peasant farmer in the apostolic vicariate of Central Tonkin (modern Vietnam). During the persecutions of emperor Tu-Duc, he was ordered to step on a crucifix to show his contempt for Christianity; he refused. Imprisoned, tortured and executed. Martyr.

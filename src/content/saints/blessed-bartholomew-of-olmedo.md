@@ -1,11 +1,13 @@
 ---
-name: "Blessed Bartholomew of Olmedo"
+name: Blessed Bartholomew of Olmedo
 honorific: Blessed
-summary: "Mercedarian priest. The first missionary priest in Mexico, arriving in 1516, travelling with Cortés and working with the Aztecs."
-image: "http://catholicsaints.info/wp-content/uploads/Bartholomew-of-Olmedo.jpg"
+summary: >-
+  Mercedarian priest. The first missionary priest in Mexico, arriving in 1516, travelling with Cortés and working with
+  the Aztecs.
+image: http://catholicsaints.info/wp-content/uploads/Bartholomew-of-Olmedo.jpg
 deathYear: 1524
-died: "November 1524 in Mexico"
-region: "Mexico"
+died: November 1524 in Mexico
+region: Mexico
 feastDay:
   month: 2
   day: 11
@@ -14,6 +16,7 @@ vocation:
   - Priest
   - Missionary
 martyr: false
+prayers: []
 ---
 
 Mercedarian priest. The first missionary priest in Mexico, arriving in 1516, travelling with Cortés and working with the Aztecs.

@@ -1,15 +1,15 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Mariano Sierra Almázor"
+name: Blessed Mariano Sierra Almázor
 honorific: Blessed
-summary: "Benedictine priest in the Solesmes Congregation. Martyred in the Spanish Civil War."
+summary: Benedictine priest in the Solesmes Congregation. Martyred in the Spanish Civil War.
 birthYear: 1869
 deathYear: 1936
-born: "25 February 1869 in Alquézar, Huesca, Spain"
-died: "9 August 1936 in Barbastro, Huesca, Spain"
-birthPlace: "Huesca, Spain"
-deathPlace: "Huesca, Spain"
-region: "Spain"
+born: 25 February 1869 in Alquézar, Huesca, Spain
+died: 9 August 1936 in Barbastro, Huesca, Spain
+birthPlace: Huesca, Spain
+deathPlace: Huesca, Spain
+region: Spain
 feastDay:
   month: 8
   day: 9
@@ -17,8 +17,9 @@ canonizationStatus: Blessed
 vocation:
   - Priest
   - Cardinal
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 martyr: true
+prayers: []
 ---
 
 Benedictine priest in the Solesmes Congregation. Martyred in the Spanish Civil War.

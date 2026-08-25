@@ -1,10 +1,10 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Pasicrates of Dorostorum"
+name: Saint Pasicrates of Dorostorum
 honorific: Saint
-summary: "One of a group of four martyrs executed together. No details about them have survived."
-died: "Dorostorum, Mysia, Asia Minor"
-deathPlace: "Mysia, Asia Minor"
+summary: One of a group of four martyrs executed together. No details about them have survived.
+died: Dorostorum, Mysia, Asia Minor
+deathPlace: Mysia, Asia Minor
 feastDay:
   month: 5
   day: 25
@@ -12,6 +12,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 One of a group of four martyrs executed together. No details about them have survived.

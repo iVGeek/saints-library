@@ -1,11 +1,11 @@
 ---
-name: "Saint Marcian of Venafro"
+name: Saint Marcian of Venafro
 honorific: Saint
-summary: "Soldier in the imperial Roman army. Martyred in the persecutions of Maximian."
-image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Venafro.jpg"
-died: "Acts of the Early Martyrs, by Father James A M Fastré, S.J."
-deathPlace: "by Father James A M Fastré, S.J."
-region: "Italy"
+summary: Soldier in the imperial Roman army. Martyred in the persecutions of Maximian.
+image: http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Venafro.jpg
+died: Acts of the Early Martyrs, by Father James A M Fastré, S.J.
+deathPlace: by Father James A M Fastré, S.J.
+region: Italy
 feastDay:
   month: 6
   day: 17
@@ -14,10 +14,11 @@ vocation:
   - Priest
   - Monk
   - Soldier
-religiousOrder: "Jesuit"
+religiousOrder: Jesuit
 patronage:
-  - "Venafro, Italy"
+  - Venafro, Italy
 martyr: true
+prayers: []
 ---
 
 Soldier in the imperial Roman army. Martyred in the persecutions of Maximian.

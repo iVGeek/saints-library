@@ -20,6 +20,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/8/8e/Saint_Alban_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Albinus of Lyon
 imageCreditUrl: https://en.wikipedia.org/wiki/Saint%20Alban
+prayers: []
 ---
 
 Bishop of Lyon, France from 381 to 390. Built the Saint Stephen Cathedral there.

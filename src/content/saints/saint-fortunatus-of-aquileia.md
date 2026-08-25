@@ -1,12 +1,12 @@
 ---
-name: "Saint Fortunatus of Aquileia"
+name: Saint Fortunatus of Aquileia
 honorific: Saint
-summary: "First century deacon, serving Saint Hermagorus of Aquileia. Martyred with Saint Hermagorus in the persecution of Nero."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Fortunatus-of-Aquileia.jpg"
+summary: First century deacon, serving Saint Hermagorus of Aquileia. Martyred with Saint Hermagorus in the persecution of Nero.
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Fortunatus-of-Aquileia.jpg
 searchAliases:
-  - "Fortunato"
-died: "beheaded c.66"
-region: "Italy"
+  - Fortunato
+died: beheaded c.66
+region: Italy
 feastDay:
   month: 7
   day: 12
@@ -15,12 +15,16 @@ vocation:
   - Monk
   - Deacon
 patronage:
-  - "locations in Italy\n\nAquileia"
-  - "Friuli-Venezia Giulia"
-  - "Udine, archdiocese of"
-  - "Udine, city of"
-  - "Venice"
+  - |-
+    locations in Italy
+
+    Aquileia
+  - Friuli-Venezia Giulia
+  - Udine, archdiocese of
+  - Udine, city of
+  - Venice
 martyr: true
+prayers: []
 ---
 
 First century deacon, serving Saint Hermagorus of Aquileia. Martyred with Saint Hermagorus in the persecution of Nero.

@@ -1,14 +1,14 @@
 ---
-name: "Saint Gleb"
+name: Saint Gleb
 honorific: Saint
-summary: " After Vladimir's death, the kingdom was to have been divided among his sons, but their eldest half-brother, Svyatopolk, wished to rule alone. Son of Saint Vladimir I of Kiev and Anne of Constantinople, Duke of Muscovy. Brother of Saint Boris; great-grandson of Saint Olga of Kiev."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Gleb-and-Saint-Boris.jpg"
+summary: ' After Vladimir''s death, the kingdom was to have been divided among his sons, but their eldest half-brother, Svyatopolk, wished to rule alone. Son of Saint Vladimir I of Kiev and Anne of Constantinople, Duke of Muscovy. Brother of Saint Boris; great-grandson of Saint Olga of Kiev.'
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Gleb-and-Saint-Boris.jpg
 searchAliases:
-  - "Glev"
-  - "David"
+  - Glev
+  - David
 deathYear: 1010
-died: "stabbed in the throat between 1010 and 1015 (sources vary)"
-region: "Turkey"
+died: stabbed in the throat between 1010 and 1015 (sources vary)
+region: Turkey
 feastDay:
   month: 7
   day: 24
@@ -17,8 +17,9 @@ vocation:
   - Priest
   - Monk
 patronage:
-  - "princes"
+  - princes
 martyr: true
+prayers: []
 ---
 
 Son of Saint Vladimir I of Kiev and Anne of Constantinople, Duke of Muscovy. Brother of Saint Boris; great-grandson of Saint Olga of Kiev.

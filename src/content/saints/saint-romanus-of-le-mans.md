@@ -1,19 +1,22 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Romanus of Le Mans"
+name: Saint Romanus of Le Mans
 honorific: Saint
-summary: "Summoned across the Alps to LeMans by his uncle, Saint Julian, missionary bishop of the area, who ordained him. Missionary to the area around the river Gironde. Noted for being backward, shy, introverted, and a lousy preacher, he still made converts one after another, healing, ex"
+summary: >-
+  Summoned across the Alps to LeMans by his uncle, Saint Julian, missionary bishop of the area, who ordained him.
+  Missionary to the area around the river Gironde. Noted for being backward, shy, introverted, and a lousy preacher, he
+  still made converts one after another, healing, ex
 searchAliases:
-  - "Romanus of Blaye"
-  - "Romanus of Bordeaux"
-  - "Romanus of the Garonne"
-  - "Romanus of Tours"
+  - Romanus of Blaye
+  - Romanus of Bordeaux
+  - Romanus of the Garonne
+  - Romanus of Tours
 deathYear: 385
-born: "Rome, Italy"
-died: "November 385 of natural causes at Blaye, France"
-birthPlace: "Italy"
-deathPlace: "France"
-region: "Italy"
+born: Rome, Italy
+died: November 385 of natural causes at Blaye, France
+birthPlace: Italy
+deathPlace: France
+region: Italy
 feastDay:
   month: 11
   day: 24
@@ -24,8 +27,9 @@ vocation:
   - Monk
   - Missionary
 patronage:
-  - "against shipwreck"
+  - against shipwreck
 martyr: false
+prayers: []
 ---
 
 Summoned across the Alps to LeMans by his uncle, Saint Julian, missionary bishop of the area, who ordained him. Missionary to the area around the river Gironde. Noted for being backward, shy, introverted, and a lousy preacher, he still made converts one after another, healing, exorcising demons, and quietly bringing the Gospel to the pagans. Worked especially with the sailors of the area.

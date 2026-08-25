@@ -1,15 +1,15 @@
 ---
-name: "Blessed Salustiano González Crespo"
+name: Blessed Salustiano González Crespo
 honorific: Blessed
-summary: "Vincentian monk. Martyred in the Spanish Civil War."
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Salustiano-González-Crespo.jpg"
+summary: Vincentian monk. Martyred in the Spanish Civil War.
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Salustiano-González-Crespo.jpg
 birthYear: 1871
 deathYear: 1934
-born: "1 May 1871 in Tapia de la Ribera, León, Spain"
-died: "13 October 1934 in Oviedo, Asturias, Spain"
-birthPlace: "León, Spain"
-deathPlace: "Asturias, Spain"
-region: "Spain"
+born: 1 May 1871 in Tapia de la Ribera, León, Spain
+died: 13 October 1934 in Oviedo, Asturias, Spain
+birthPlace: León, Spain
+deathPlace: Asturias, Spain
+region: Spain
 feastDay:
   month: 10
   day: 13
@@ -17,6 +17,7 @@ canonizationStatus: Blessed
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Vincentian monk. Martyred in the Spanish Civil War.

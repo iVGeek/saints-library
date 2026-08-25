@@ -1,14 +1,16 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Emerius of Bañoles"
+name: Saint Emerius of Bañoles
 honorific: Saint
-summary: "Son of Saint Candida of Bañoles. Benedictine monk. Founded Saint Stephen of Bañoles Abbey, Catalonia, Spain. His mother lived in a hermitage near the abbey."
+summary: >-
+  Son of Saint Candida of Bañoles. Benedictine monk. Founded Saint Stephen of Bañoles Abbey, Catalonia, Spain. His
+  mother lived in a hermitage near the abbey.
 searchAliases:
-  - "Emerus"
-  - "Memerius"
-born: "France"
-died: "8th century of natural causes"
-region: "Spain"
+  - Emerus
+  - Memerius
+born: France
+died: 8th century of natural causes
+region: Spain
 feastDay:
   month: 1
   day: 27
@@ -16,8 +18,9 @@ canonizationStatus: Saint
 vocation:
   - Monk
   - Hermit
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 martyr: false
+prayers: []
 ---
 
 Son of Saint Candida of Bañoles. Benedictine monk. Founded Saint Stephen of Bañoles Abbey, Catalonia, Spain. His mother lived in a hermitage near the abbey.

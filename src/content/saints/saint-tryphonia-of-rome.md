@@ -1,13 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Tryphonia of Rome"
+name: Saint Tryphonia of Rome
 honorific: Saint
-summary: "Mother of Saint Cyrilla of Rome. Third-century widow and martyr."
+summary: Mother of Saint Cyrilla of Rome. Third-century widow and martyr.
 searchAliases:
-  - "Tryfonia"
-died: "Rome, Italy"
-deathPlace: "Italy"
-region: "Italy"
+  - Tryfonia
+died: Rome, Italy
+deathPlace: Italy
+region: Italy
 feastDay:
   month: 10
   day: 18
@@ -15,6 +15,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Mother of Saint Cyrilla of Rome. Third-century widow and martyr.

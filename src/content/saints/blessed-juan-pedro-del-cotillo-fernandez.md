@@ -1,12 +1,12 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Juan Pedro del Cotillo Fernández"
+name: Blessed Juan Pedro del Cotillo Fernández
 honorific: Blessed
-summary: "Priest. Member of the Missionary Oblates of Mary Immaculate. Martyr."
+summary: Priest. Member of the Missionary Oblates of Mary Immaculate. Martyr.
 birthYear: 1914
-born: "1 May 1914 in Siero de la Reina, León, Spain"
-birthPlace: "León, Spain"
-region: "Spain"
+born: 1 May 1914 in Siero de la Reina, León, Spain
+birthPlace: León, Spain
+region: Spain
 feastDay:
   month: 7
   day: 24
@@ -15,6 +15,7 @@ vocation:
   - Priest
   - Missionary
 martyr: true
+prayers: []
 ---
 
 Priest. Member of the Missionary Oblates of Mary Immaculate. Martyr.

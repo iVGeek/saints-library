@@ -1,24 +1,25 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Fermín Latienda Azpilicueta"
+name: Blessed Fermín Latienda Azpilicueta
 honorific: Blessed
-summary: "Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
+summary: Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War.
 searchAliases:
-  - "Brother Felipe José"
+  - Brother Felipe José
 birthYear: 1891
 deathYear: 1936
-born: "7 July 1891 in Iruñela, Navarra, Spain"
-died: "8 October 1936 in Montcada, Barcelona, Spain"
-birthPlace: "Navarra, Spain"
-deathPlace: "Barcelona, Spain"
-region: "Spain"
+born: 7 July 1891 in Iruñela, Navarra, Spain
+died: 8 October 1936 in Montcada, Barcelona, Spain
+birthPlace: Navarra, Spain
+deathPlace: Barcelona, Spain
+region: Spain
 feastDay:
   month: 10
   day: 8
 canonizationStatus: Blessed
 vocation: []
-religiousOrder: "Marist"
+religiousOrder: Marist
 martyr: true
+prayers: []
 ---
 
 Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War.

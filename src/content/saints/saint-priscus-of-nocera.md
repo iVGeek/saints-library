@@ -22,6 +22,7 @@ patronage:
     Nocera
   - Nocera Inferiore-Sarno, diocese of
 martyr: true
+prayers: []
 ---
 
 Early bishop of Nocera, Italy. Martyr. Saint Paulinus of Nola wrote a poem in praise of him.

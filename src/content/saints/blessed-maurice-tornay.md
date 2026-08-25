@@ -24,6 +24,7 @@ vocation:
   - Priest
   - Missionary
 martyr: true
+prayers: []
 ---
 
 Seventh of eight children born to Jean-Joseph Tornay and Faustina Dossier, and likely named for Saint Maurice of the Theban Legion who had been martyred in the area. He was baptised at 13 days old, made his First Communion at age 7, and during his youth he walked a hour each way each week through the mountain passes to get to church. Raised on a farm, he helped his family work it in his time after school. In his teens, he studied for six years at the school at the Abbey of Saint Maurice where he was an exceptional student with a love of French literature, and where he served as president of his class. Pilgrim to Lourdes, France. Maurice had a special devotion to Saint Thérèse of Lisieux, and would read to class mates from works by Saint Thérèse and Saint Francis de Sales.

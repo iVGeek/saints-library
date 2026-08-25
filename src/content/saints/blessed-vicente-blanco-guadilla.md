@@ -1,15 +1,15 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Vicente Blanco Guadilla"
+name: Blessed Vicente Blanco Guadilla
 honorific: Blessed
-summary: "Professed priest in the Missionary Oblates of Mary Immaculate. Martyred in the Spanish Civil War."
+summary: Professed priest in the Missionary Oblates of Mary Immaculate. Martyred in the Spanish Civil War.
 birthYear: 1882
 deathYear: 1936
-born: "3 April 1882 in Frómista, Palencia, Spain"
-died: "shot on 28 November 1936 in Paracuellos de Jarama, Madrid, Spain"
-birthPlace: "Palencia, Spain"
-deathPlace: "Madrid, Spain"
-region: "Spain"
+born: 3 April 1882 in Frómista, Palencia, Spain
+died: shot on 28 November 1936 in Paracuellos de Jarama, Madrid, Spain
+birthPlace: Palencia, Spain
+deathPlace: Madrid, Spain
+region: Spain
 feastDay:
   month: 11
   day: 28
@@ -18,6 +18,7 @@ vocation:
   - Priest
   - Missionary
 martyr: true
+prayers: []
 ---
 
 Professed priest in the Missionary Oblates of Mary Immaculate. Martyred in the Spanish Civil War.

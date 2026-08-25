@@ -16,6 +16,7 @@ canonizationStatus: Saint
 vocation: []
 religiousOrder: Franciscan
 martyr: false
+prayers: []
 ---
 
 One of the earliest Franciscan friars, received into the order by Francis himself. He travelled extensively, established Franciscan missions in several locations, and became known as a miracle worker. He was also known as one of “God's fools”, a man so humble, so simple and with such intrinsic faith that he appears child-like; see the book of his Life for a collection of anecdotes illustrating this.

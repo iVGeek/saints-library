@@ -20,6 +20,7 @@ canonizationStatus: Blessed
 vocation:
   - Priest
 martyr: true
+prayers: []
 ---
 
 Priest in the archdiocese of Gniezno, Poland. Prefect of the secondary school in Bydgoszcz, Poland. Arrested on 17 September 1939 during the Nazi occupation, he was imprisoned in several place before ending in the Dachau concentration camp where he was tortured and used in “medical” experimentation. Martyr.

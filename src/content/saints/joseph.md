@@ -82,14 +82,195 @@ prayers:
       the spirit of repentance and of love, and to see in our work the cooperation with Jesus and Mary which you knew so
       well in Nazareth. Make our work a prayer, our homes a church, and our families a foretaste of heaven. Amen.
   - name: Novena to Saint Joseph
-    kind: Novena — nine-day prayer for work, families, and the dying
+    kind: >-
+      Novena — begins March 10, nine days before the feast of Saint Joseph (March 19). Source:
+      https://catholicmasstimes.com/novena-to-st-joseph-9-days-of-prayer/
     text: >-
-      O glorious Saint Joseph, faithful guardian of Jesus and chaste spouse of Mary, you were chosen by the Eternal
-      Father to be the foster father of His only Son. I beseech you, by the love which you did bear to Jesus and Mary,
-      to help me in my present need. O Saint Joseph, model of all who work, obtain for me the grace to work
-      conscientiously, in the spirit of repentance and of love, and to see in my work the cooperation with Jesus and
-      Mary which you knew so well in Nazareth. O Saint Joseph, I place my petition in your powerful hands. Intercede for
-      me before the throne of God, that I may receive the favor I earnestly seek. Amen.
+      O Glorious St Joseph, faithful follower of Jesus Christ, to you do we raise our hearts and hands, to implore your
+      powerful intercession in obtaining from the benign Heart of Jesus all the help and graces necessary for our
+      spiritual and temporal welfare, particularly the grace of a happy death, and the special favor we now implore.
+
+
+      O guardian of the Word Incarnate, we feel filled with confidence that your prayers on our behalf will be
+      graciously heard before the throne of God.
+
+
+      O Glorious St Joseph, through the love you bear to Jesus Christ, and for the glory of His name, hear our prayers
+      and obtain our petitions. (Repeat 7 times)
+
+
+      Let us pray: O Glorious St. Joseph, spouse of the Immaculate Virgin, obtain for us a pure, humble, and charitable
+      mind, and perfect resignation to the divine Will. Be our guide, father and model through life, that we may merit
+      to die as you did, in the arms of Jesus and Mary.
+
+
+      ---
+
+
+      O great St. Joseph, with feelings of unlimited confidence, we beg you to bless this novena that we begin in your
+      honor. "You are never invoked in vain" says the seraphic St. Theresa of Jesus. Be you then to me what you have
+      been to that spouse of the Sacred Heart of Jesus and graciously hear me as you did her.
+
+
+      (Mention your request here)
+
+
+      Our Father, Hail Mary, Glory Be.
+
+
+      ---
+
+
+      O blessed Saint Joseph, tenderhearted father, faithful guardian of Jesus, chaste spouse of the Mother of God, we
+      pray and beseech you to offer to God the Father, His divine son, bathed in blood on the Cross for sinners, and
+      through the thrice holy name of Jesus obtain for us of the eternal Father the favor for which we implore your
+      intercession.
+
+
+      (Mention your request here)
+
+
+      Amid the splendors of eternity, forget not the sorrows of those who pray, those who weep; stay the almighty arm
+      which smites us, that by your prayers and those of your most holy spouse, the Heart of Jesus may be moved to pity
+      and to pardon.
+
+
+      Our Father, Hail Mary, Glory Be.
+
+
+      ---
+
+
+      Blessed St. Joseph, enkindle in our cold hearts a spark of your charity. May God be always the first and only
+      object of our affections. Keep our souls always in sanctifying grace and, if we should be so unhappy as to lose
+      it, give us the strength to recover it immediately by a sincere repentance. Help us to such a love of our God as
+      will always keep us united to Him. Amen.
+
+
+      O glorious St. Joseph, through the love you bear to Jesus Christ and for the glory of His name, hear our prayers
+      and obtain our petitions.
+
+
+      (Mention your request here)
+
+
+      Our Father, Hail Mary, Glory Be.
+
+
+      ---
+
+
+      Saint Joseph, pride of Heaven, unfailing hope for our lives, and support of those on earth, graciously accept our
+      prayer of praise. You were appointed spouse of the chaste Virgin by the Creator of the world. He willed that you
+      be called "father" of the Word and serve as agent of our salvation.
+
+
+      May the triune God who bestowed upon you heavenly honors, be praised forever. And may He grant us through your
+      merits the joy of a blessed life and a favorable answer to our petition.
+
+
+      (Mention your request here)
+
+
+      Our Father, Hail Mary, Glory Be.
+
+
+      ---
+
+
+      O holy St. Joseph, what a lesson your life is for us, ever so eager to appear so anxious to display before the
+      eyes of men the graces that we owe entirely to the liberality of God. In addition to the special favor for which
+      we plead in this novena, grant that we may attribute to God the glory of all things, that we may love the humble
+      and hidden life, that we may not desire any other position than the one given us by Providence and that we may
+      always be a docile instrument in the hands of God.
+
+
+      (Mention your request here)
+
+
+      Our Father, Hail Mary, Glory Be.
+
+
+      ---
+
+
+      O glorious Saint Joseph, appointed by the Eternal Father as the guardian and protector of the life of Jesus
+      Christ, the comfort and support of His Holy Mother, and the instrument in His great design for the redemption of
+      mankind. You who had the happiness of living with Jesus and Mary, and of dying in their arms, be moved with
+      confidence we place in you, and procure for us from the Almighty, the particular favor which we humbly ask through
+      your intercession.
+
+
+      (Mention your request here)
+
+
+      Our Father, Hail Mary, Glory Be.
+
+
+      ---
+
+
+      O faithful and prudent Saint Joseph, watch over our weakness and our inexperience; obtain for us that prudence
+      which reminds us of our end, which directs our paths and which protects us from every danger. Pray for us, then, O
+      great Saint, and by your love for Jesus and Mary, and by their love for you, obtain for us the favor we ask in
+      this novena.
+
+
+      (Mention your request here)
+
+
+      Our Father, Hail Mary, Glory Be.
+
+
+      ---
+
+
+      O blessed Joseph, to whom it was given not only to see and to hear that God whom many kings longed to see and saw
+      not; to hear and heard not; but also to carry Him in your arms, to embrace Him, to clothe Him, and to guard and
+      defend Him, come to our assistance and intercede with Him to look favorably on our present petition.
+
+
+      (Mention your request here)
+
+
+      Our Father, Hail Mary, Glory Be.
+
+
+      ---
+
+
+      O good Saint Joseph, help us to be like you, gentle to those whose weakness leans on us; help us to give to those
+      who seek our aid, succor that they may journey unafraid.
+
+
+      Give us your faith, that we may see the right shining above the victories of might. Give us your hope that we may
+      stand secure, untouched by doubting, steadfast to endure. Give us your love that as the years increase an
+      understanding heart may bring us peace.
+
+
+      Give us your purity that the hour of death finds us untouched by evil's breath. Give us your love of labor that we
+      shirk no lot in life that calls us for honest work. Give us your love of poverty so that we live contented, let
+      wealth come or go. Give us your courage that we may be strong; give us your meekness to confess our sins.
+
+
+      Give us your patience that we may possess the kingdom of our souls without distress. Help us, dear Saint, to live
+      that when life ends we pass with you to Jesus and His friends.
+
+
+      O Glorious Saint Joseph, hear our prayers and obtain our petitions.
+
+
+      Our Father, Hail Mary, Glory Be.
+
+
+      ---
+
+
+      Remember, most pure spouse of Mary, ever Virgin, my loving protector, Saint Joseph, that no one ever had recourse
+      to your protection or asked for your aid without obtaining relief. Confiding, therefore, in your goodness, I come
+      before you and humbly implore you. Despise not my petitions, foster-father of the Redeemer, but graciously receive
+      them. Amen.
+    source: https://catholicmasstimes.com/novena-to-st-joseph-9-days-of-prayer/
 relatedSaints:
   - name: Mary Magdalene
     slug: mary-magdalene

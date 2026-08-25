@@ -28,6 +28,7 @@ imageCredit: >-
   href="https://memoirevive.besancon.fr/ark:/48565/r0sqck4wx65d/6a37a68e-ad13-415c-a4bb-160ede0d542b">https://memoirevive.besancon.fr/ark:/48565/r0sqck4wx65d/6a37a68e-ad13-415c-a4bb-160ede0d542b</a>
 imageCreditUrl: >-
   https://commons.wikimedia.org/wiki/File:Dessin%20du%20relief%20de%20la%20conversion%20de%20Saint%20Hubert%2C%20%C3%A9glise%20de%20Saint-Lothain%2C%20D%C3%A9sir%C3%A9%20Monnier%2C%201842.jpg
+prayers: []
 ---
 
 Sixth-century priest and hermit in Gourdon the area of modern Burgundy, France. Pope Saint Gregory the Great wrote of the admirable holiness of Desideratus. Had the gift of healing by prayer, especially helping those with tooth pain.

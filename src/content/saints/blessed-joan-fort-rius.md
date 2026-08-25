@@ -1,24 +1,25 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Joan Fort Rius"
+name: Blessed Joan Fort Rius
 honorific: Blessed
-summary: "Discalced Carmelite brother. Martyred in the Spanish Civil War."
+summary: Discalced Carmelite brother. Martyred in the Spanish Civil War.
 searchAliases:
-  - "Àngel of Saint Joseph"
+  - Àngel of Saint Joseph
 birthYear: 1896
 deathYear: 1936
-born: "10 October 1896 in L'Espluga de Francolí, Tarragona, Spain"
-died: "25 July 1936 in Tarragona, Spain"
-birthPlace: "Tarragona, Spain"
-deathPlace: "Spain"
-region: "Spain"
+born: 10 October 1896 in L'Espluga de Francolí, Tarragona, Spain
+died: 25 July 1936 in Tarragona, Spain
+birthPlace: Tarragona, Spain
+deathPlace: Spain
+region: Spain
 feastDay:
   month: 7
   day: 25
 canonizationStatus: Blessed
 vocation: []
-religiousOrder: "Carmelite"
+religiousOrder: Carmelite
 martyr: true
+prayers: []
 ---
 
 Discalced Carmelite brother. Martyred in the Spanish Civil War.

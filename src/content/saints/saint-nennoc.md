@@ -1,20 +1,22 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Nennoc"
+name: Saint Nennoc
 honorific: Saint
-summary: "Daughter of Saint Brychan of Brycheiniog. Nun who followed Saint Germanus of Auxerre to France. Abbess of one or more convents in Brittany."
+summary: >-
+  Daughter of Saint Brychan of Brycheiniog. Nun who followed Saint Germanus of Auxerre to France. Abbess of one or more
+  convents in Brittany.
 searchAliases:
-  - "Gwengustle"
-  - "Nennoca"
-  - "Nennocha"
-  - "Nenoc"
-  - "Nenooc"
-  - "Ninnoc"
-  - "Ninnocha"
+  - Gwengustle
+  - Nennoca
+  - Nennocha
+  - Nenoc
+  - Nenooc
+  - Ninnoc
+  - Ninnocha
 deathYear: 467
-born: "Britain"
-died: "c.467 of natural causes"
-region: "France"
+born: Britain
+died: c.467 of natural causes
+region: France
 feastDay:
   month: 6
   day: 4
@@ -24,6 +26,7 @@ vocation:
   - Monk
   - Religious
 martyr: false
+prayers: []
 ---
 
 Daughter of Saint Brychan of Brycheiniog. Nun who followed Saint Germanus of Auxerre to France. Abbess of one or more convents in Brittany.

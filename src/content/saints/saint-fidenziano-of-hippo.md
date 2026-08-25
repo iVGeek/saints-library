@@ -1,14 +1,14 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Fidenziano of Hippo"
+name: Saint Fidenziano of Hippo
 honorific: Saint
-summary: "Bishop. One of a group of 20 Christians martyred together and celebrated by Saint Augustine."
+summary: Bishop. One of a group of 20 Christians martyred together and celebrated by Saint Augustine.
 searchAliases:
-  - "Fidentien"
-  - "Fidenciano)"
-died: "Hippo, Numidia (in north Africa)"
-deathPlace: "Numidia (north Africa)"
-region: "Italy"
+  - Fidentien
+  - Fidenciano)
+died: Hippo, Numidia (in north Africa)
+deathPlace: Numidia (north Africa)
+region: Italy
 feastDay:
   month: 11
   day: 15
@@ -17,6 +17,7 @@ vocation:
   - Bishop
   - Monk
 martyr: true
+prayers: []
 ---
 
 Bishop. One of a group of 20 Christians martyred together and celebrated by Saint Augustine.

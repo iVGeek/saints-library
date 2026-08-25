@@ -1,14 +1,17 @@
 ---
-name: "Blessed María Emilia Riquelme y Zayas"
+name: Blessed María Emilia Riquelme y Zayas
 honorific: Blessed
-summary: "Born to pious parents, the daughter of Joaquín Riquelme y Gómez and María Emilia Zayas de la Vega. She received a good education, studying painting, singing, piano and languages. At age 7, Maria received a vision of the Blessed Virgin Mary with the Child Jesus; she made a vow to"
-image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-María-Emilia-Riquelme-y-Zayas.jpg"
+summary: >-
+  Born to pious parents, the daughter of Joaquín Riquelme y Gómez and María Emilia Zayas de la Vega. She received a good
+  education, studying painting, singing, piano and languages. At age 7, Maria received a vision of the Blessed Virgin
+  Mary with the Child Jesus; she made a vow to
+image: http://catholicsaints.info/wp-content/uploads/img-Venerable-María-Emilia-Riquelme-y-Zayas.jpg
 birthYear: 1847
 deathYear: 1940
-born: "5 August 1847 in Granada, Spain"
-died: "10 December 1940 in Granada Spain of natural causes"
-birthPlace: "Spain"
-region: "Brazil"
+born: 5 August 1847 in Granada, Spain
+died: 10 December 1940 in Granada Spain of natural causes
+birthPlace: Spain
+region: Brazil
 feastDay:
   month: 12
   day: 10
@@ -16,10 +19,11 @@ canonizationStatus: Blessed
 vocation:
   - Priest
   - Missionary
-religiousOrder: "Lazarist"
+religiousOrder: Lazarist
 patronage:
-  - "Missionary Sisters of the Most Blessed Sacrament and Mary Immaculate"
+  - Missionary Sisters of the Most Blessed Sacrament and Mary Immaculate
 martyr: false
+prayers: []
 ---
 
 Born to pious parents, the daughter of Joaquín Riquelme y Gómez and María Emilia Zayas de la Vega. She received a good education, studying painting, singing, piano and languages. At age 7, Maria received a vision of the Blessed Virgin Mary with the Child Jesus; she made a vow to devote herself to God, and consecrated herself to Our Lady of Carmel. Maria's mother died when the girl was 8 years old.

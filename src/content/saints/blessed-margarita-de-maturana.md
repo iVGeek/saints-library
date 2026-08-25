@@ -1,29 +1,33 @@
 ---
-name: "Blessed Margarita de Maturana"
+name: Blessed Margarita de Maturana
 honorific: Blessed
-summary: "Pilar and her twin sister Leonor were the youngest of five children born to Juana Ortiz de Zarate and Vicente Lopez de Maturana. Both girls were known for their piety in their youth, and Leonor eventually joined the Carmelites of Charity. On 10 August 1903, Pilar entered the novi"
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Margarita-de-Maturana.jpg"
+summary: >-
+  Pilar and her twin sister Leonor were the youngest of five children born to Juana Ortiz de Zarate and Vicente Lopez de
+  Maturana. Both girls were known for their piety in their youth, and Leonor eventually joined the Carmelites of
+  Charity. On 10 August 1903, Pilar entered the novi
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Margarita-de-Maturana.jpg
 searchAliases:
-  - "Margarita María"
-  - "Margarita María López de Maturana y Ortiz de Zárate"
-  - "Margarita Maturana"
-  - "Mother Margarita de Maturana"
-  - "Mother Maturana"
-  - "Pilar López de Maturana Ortiz de Zárate"
+  - Margarita María
+  - Margarita María López de Maturana y Ortiz de Zárate
+  - Margarita Maturana
+  - Mother Margarita de Maturana
+  - Mother Maturana
+  - Pilar López de Maturana Ortiz de Zárate
 deathYear: 1934
-died: "12:15 am on 23 July 1934 at Donostia-San Sebastian, Berriz, Vizcaya, Spain of stomach cancer"
-deathPlace: "Berriz, Vizcaya, Spaof stomach cancer"
-region: "China"
+died: 12:15 am on 23 July 1934 at Donostia-San Sebastian, Berriz, Vizcaya, Spain of stomach cancer
+deathPlace: Berriz, Vizcaya, Spaof stomach cancer
+region: China
 feastDay:
   month: 7
   day: 23
 canonizationStatus: Blessed
 vocation:
   - Missionary
-religiousOrder: "Carmelite"
+religiousOrder: Carmelite
 patronage:
-  - "Mercedarian Missionaries of Berriz"
+  - Mercedarian Missionaries of Berriz
 martyr: false
+prayers: []
 ---
 
 Pilar and her twin sister Leonor were the youngest of five children born to Juana Ortiz de Zarate and Vicente Lopez de Maturana. Both girls were known for their piety in their youth, and Leonor eventually joined the Carmelites of Charity. On 10 August 1903, Pilar entered the novitiate of the Vera Cruz Mercedarian Monastery at Berriz, Spain, taking the name Margarita. She taught school and later served as principal. By 1922 her health began to suffer, and she developed a duodenal ulcer that plagued her the rest of her life.

@@ -1,9 +1,9 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Dula the Slave"
+name: Saint Dula the Slave
 honorific: Saint
-summary: "Christian slave of a pagan soldier in Nicomedia in Asia Minor. Died fighting off a rape attempt by her “owner”."
-region: "Turkey"
+summary: Christian slave of a pagan soldier in Nicomedia in Asia Minor. Died fighting off a rape attempt by her “owner”.
+region: Turkey
 feastDay:
   month: 3
   day: 25
@@ -13,6 +13,7 @@ vocation:
   - Monk
   - Soldier
 martyr: false
+prayers: []
 ---
 
 Christian slave of a pagan soldier in Nicomedia in Asia Minor. Died fighting off a rape attempt by her “owner”.

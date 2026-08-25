@@ -24,6 +24,7 @@ vocation:
 patronage:
   - against hernia
 martyr: false
+prayers: []
 ---
 
 Sister of Saint Fiacre. When her brother fled Ireland to find solitude, she followed and lived as an anchoress in Troyes, France.

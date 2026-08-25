@@ -1,16 +1,16 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Theophanes of Nicaea"
+name: Saint Theophanes of Nicaea
 honorific: Saint
-summary: " Priest. Strong defender of sacred images Son of Venerable Jonah the Presbyter. Brother of Saint Theodorus. Grew up in Jerusalem as a pious youth, but little is known of his early life. Monk at Saint Sabas' laura in Jerusalem. Known for his intelligence and fidelity to their rule."
+summary: ' Priest. Strong defender of sacred images Son of Venerable Jonah the Presbyter. Brother of Saint Theodorus. Grew up in Jerusalem as a pious youth, but little is known of his early life. Monk at Saint Sabas'' laura in Jerusalem. Known for his intelligence and fidelity to their rule.'
 searchAliases:
-  - "one of the Grapti from the Greek graptoi = “written upon”"
-  - "Theophanes the Hymnographer"
-  - "Theophan…"
+  - one of the Grapti from the Greek graptoi = “written upon”
+  - Theophanes the Hymnographer
+  - Theophan…
 birthYear: 775
-born: "c.775 at Kerak, Moab (Trans-Jordan)"
-birthPlace: "Moab (Trans-Jordan)"
-region: "Turkey"
+born: c.775 at Kerak, Moab (Trans-Jordan)
+birthPlace: Moab (Trans-Jordan)
+region: Turkey
 feastDay:
   month: 12
   day: 27
@@ -21,6 +21,7 @@ vocation:
   - Monk
   - Confessor
 martyr: false
+prayers: []
 ---
 
 Son of Venerable Jonah the Presbyter. Brother of Saint Theodorus. Grew up in Jerusalem as a pious youth, but little is known of his early life. Monk at Saint Sabas' laura in Jerusalem. Known for his intelligence and fidelity to their rule.

@@ -38,6 +38,7 @@ patronage:
   - –
   - Arles, France
 martyr: true
+prayers: []
 ---
 
 Cooper. With Saint Abdon, he befriended Christians persecuted under Diocletian. Tortured and executed when they were found collecting the remains of martyrs in order to give them a respectable burial. Martyr.

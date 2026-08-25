@@ -1,15 +1,18 @@
 ---
-name: "Saint Margaret of Cortona"
+name: Saint Margaret of Cortona
 honorific: Saint
-summary: "Farmer's daughter. Her mother died when Margaret was seven years old, and her step-mother considered the girl a nuisance. Margaret eloped with a young nobleman from Montepulciano, bore him a son, and lived as his mistress for nine years. In 1274 he was murdered by brigands, and h"
-image: "https://upload.wikimedia.org/wikipedia/commons/6/6f/Calvi_J._A._Estasi_di_santa_Margherita.jpg"
+summary: >-
+  Farmer's daughter. Her mother died when Margaret was seven years old, and her step-mother considered the girl a
+  nuisance. Margaret eloped with a young nobleman from Montepulciano, bore him a son, and lived as his mistress for nine
+  years. In 1274 he was murdered by brigands, and h
+image: https://upload.wikimedia.org/wikipedia/commons/6/6f/Calvi_J._A._Estasi_di_santa_Margherita.jpg
 birthYear: 1247
 deathYear: 1297
-born: "1247 at Loviano, Tuscany, Italy"
-died: "22 February 1297 at Cortona, Italy of natural causes"
-birthPlace: "Tuscany, Italy"
-deathPlace: "Italynatural causes"
-region: "Italy"
+born: 1247 at Loviano, Tuscany, Italy
+died: 22 February 1297 at Cortona, Italy of natural causes
+birthPlace: Tuscany, Italy
+deathPlace: Italynatural causes
+region: Italy
 feastDay:
   month: 2
   day: 22
@@ -17,30 +20,31 @@ canonizationStatus: Saint
 vocation:
   - Priest
   - Monk
-religiousOrder: "Jesuit"
+religiousOrder: Jesuit
 patronage:
-  - "against insanity"
-  - "against mental illness"
-  - "against sexual temptation"
-  - "against temptations"
-  - "falsely accused people"
-  - "hoboes"
-  - "homeless people"
-  - "loss of parents"
-  - "mentally ill people"
-  - "midwives"
-  - "penitent women"
-  - "people ridiculed for their piety"
-  - "reformed prostitutes"
-  - "single laywomen"
-  - "tertiaries"
-  - "tramps"
-  - "—"
-  - "Arezzo-Cortona-Sansepolcro, Italy, diocese of"
-  - "Cortona, Italy, diocese of"
-  - "—"
-  - "Cortona, Italy"
+  - against insanity
+  - against mental illness
+  - against sexual temptation
+  - against temptations
+  - falsely accused people
+  - hoboes
+  - homeless people
+  - loss of parents
+  - mentally ill people
+  - midwives
+  - penitent women
+  - people ridiculed for their piety
+  - reformed prostitutes
+  - single laywomen
+  - tertiaries
+  - tramps
+  - —
+  - Arezzo-Cortona-Sansepolcro, Italy, diocese of
+  - Cortona, Italy, diocese of
+  - —
+  - Cortona, Italy
 martyr: false
+prayers: []
 ---
 
 Farmer's daughter. Her mother died when Margaret was seven years old, and her step-mother considered the girl a nuisance. Margaret eloped with a young nobleman from Montepulciano, bore him a son, and lived as his mistress for nine years. In 1274 he was murdered by brigands, and his body dumped in a shallow grave.

@@ -1,13 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Zöellus of Istria"
+name: Saint Zöellus of Istria
 honorific: Saint
-summary: "Martyr."
+summary: Martyr.
 searchAliases:
-  - "Zoello"
-died: "early 3rd century in Lystra, Lycaonia (in modern Turkey)"
-deathPlace: "Lycaonia (modern Turkey)"
-region: "England"
+  - Zoello
+died: early 3rd century in Lystra, Lycaonia (in modern Turkey)
+deathPlace: Lycaonia (modern Turkey)
+region: England
 feastDay:
   month: 5
   day: 24
@@ -15,6 +15,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Martyr.

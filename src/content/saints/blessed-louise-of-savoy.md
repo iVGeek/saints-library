@@ -20,6 +20,7 @@ feastDay:
 canonizationStatus: Blessed
 vocation: []
 martyr: false
+prayers: []
 ---
 
 Born to the nobility, the daughter of Blessed Amadeus IX, the duke of Savoy. Cousin of Saint Joan of Valois. Married to Hugh of Ch&acirc;lons in 1479. Widowed in 1489. Joined the Poor Clares at Orbe (in modern Switzerland), and was assigned to beg food for her house.

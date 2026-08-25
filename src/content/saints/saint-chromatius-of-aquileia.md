@@ -1,15 +1,15 @@
 ---
-name: "Saint Chromatius of Aquileia"
+name: Saint Chromatius of Aquileia
 honorific: Saint
-summary: " He w Chromatius' father died when the boy was an infant, and he was raised by his mother and large family of older siblings. Ordained c.387. Attended the Synod of Aquileia, and worked for the strong denunciation of Arianism that resulted from the synod. Bishop of Aquileia in 388."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Chromatius-of-Aquileia.jpg"
+summary: ' He w Chromatius'' father died when the boy was an infant, and he was raised by his mother and large family of older siblings. Ordained c.387. Attended the Synod of Aquileia, and worked for the strong denunciation of Arianism that resulted from the synod. Bishop of Aquileia in 388.'
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Chromatius-of-Aquileia.jpg
 searchAliases:
-  - "Cromazio"
+  - Cromazio
 deathYear: 407
-born: "4th century at Aquileia, Italy"
-died: "2 December 407 in Italy of natural causes"
-birthPlace: "Italy"
-region: "Italy"
+born: 4th century at Aquileia, Italy
+died: 2 December 407 in Italy of natural causes
+birthPlace: Italy
+region: Italy
 feastDay:
   month: 12
   day: 2
@@ -17,6 +17,7 @@ canonizationStatus: Saint
 vocation:
   - Confessor
 martyr: false
+prayers: []
 ---
 
 Chromatius' father died when the boy was an infant, and he was raised by his mother and large family of older siblings. Ordained c.387. Attended the Synod of Aquileia, and worked for the strong denunciation of Arianism that resulted from the synod. Bishop of Aquileia in 388.

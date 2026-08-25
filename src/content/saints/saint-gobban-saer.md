@@ -1,25 +1,26 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Gobban Saer"
+name: Saint Gobban Saer
 honorific: Saint
-summary: "Architect and builder of churches and related structures."
+summary: Architect and builder of churches and related structures.
 searchAliases:
-  - "Gobban the Builder"
-  - "Gobban Saor"
-  - "Gobran…."
-  - "Gobán…."
+  - Gobban the Builder
+  - Gobban Saor
+  - Gobran….
+  - Gobán….
 birthYear: 560
 deathYear: 640
-born: "c.560 in Turvey, County Dublin, Ireland"
-died: "c.640 of natural causes"
-birthPlace: "County Dublin, Ireland"
-region: "Ireland"
+born: c.560 in Turvey, County Dublin, Ireland
+died: c.640 of natural causes
+birthPlace: County Dublin, Ireland
+region: Ireland
 feastDay:
   month: 1
   day: 1
 canonizationStatus: Saint
 vocation: []
 martyr: false
+prayers: []
 ---
 
 Architect and builder of churches and related structures.

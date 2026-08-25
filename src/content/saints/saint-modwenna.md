@@ -22,6 +22,7 @@ vocation:
 patronage:
   - Polesworth, England
 martyr: false
+prayers: []
 ---
 
 Princess who renounced her wealth and position to become a nun. Renowned for her sanctity and miracles.

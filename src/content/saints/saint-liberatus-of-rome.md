@@ -1,12 +1,12 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Liberatus of Rome"
+name: Saint Liberatus of Rome
 honorific: Saint
-summary: "Martyr. Venerated in Rome. No other information as survived."
+summary: Martyr. Venerated in Rome. No other information as survived.
 searchAliases:
-  - "Liberale"
-  - "Liberato"
-region: "Italy"
+  - Liberale
+  - Liberato
+region: Italy
 feastDay:
   month: 12
   day: 20
@@ -14,6 +14,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Martyr. Venerated in Rome. No other information as survived.

@@ -1,16 +1,19 @@
 ---
-name: "Blessed Gaetana Sterni"
+name: Blessed Gaetana Sterni
 honorific: Blessed
-summary: "Daughter of Giovanni Battista Sterni and Giovanna Chiuppani; one of six children. Her father was an administrator for the country property of the Mora, who were members of the Venetian nobility. The family lived relatively comfortably until Gaetana was about 15 years old when, in"
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Gaetana-Sterni.jpg"
+summary: >-
+  Daughter of Giovanni Battista Sterni and Giovanna Chiuppani; one of six children. Her father was an administrator for
+  the country property of the Mora, who were members of the Venetian nobility. The family lived relatively comfortably
+  until Gaetana was about 15 years old when, in
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Gaetana-Sterni.jpg
 searchAliases:
-  - "Cajetana Sterni"
+  - Cajetana Sterni
 birthYear: 1827
 deathYear: 1889
-born: "26 June 1827 at Cassola, Vicenza, Italy"
-died: "26 November 1889 of natural causes"
-birthPlace: "Vicenza, Italy"
-region: "France"
+born: 26 June 1827 at Cassola, Vicenza, Italy
+died: 26 November 1889 of natural causes
+birthPlace: Vicenza, Italy
+region: France
 feastDay:
   month: 11
   day: 26
@@ -19,8 +22,9 @@ vocation:
   - Bishop
   - Priest
   - Religious
-religiousOrder: "Jesuit"
+religiousOrder: Jesuit
 martyr: false
+prayers: []
 ---
 
 Daughter of Giovanni Battista Sterni and Giovanna Chiuppani; one of six children. Her father was an administrator for the country property of the Mora, who were members of the Venetian nobility. The family lived relatively comfortably until Gaetana was about 15 years old when, in short order, her elder sister Margherita died, her father died, and her brother Francesco left home to become an actor, leaving the rest of the family in sad shape financially. Gaetana, a pious girl, did what she could to help her mother, but soon attracted the attention and a marriage offer from Liberale Conte, a widower with three children.

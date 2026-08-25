@@ -1,22 +1,23 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Sebastián Sáinz López"
+name: Blessed Sebastián Sáinz López
 honorific: Blessed
-summary: "Joined the Dominicans on 4 October 1933. Martyred in the Spanish Civil War."
+summary: Joined the Dominicans on 4 October 1933. Martyred in the Spanish Civil War.
 birthYear: 1915
 deathYear: 1936
-born: "18 January 1915 in Villasuso, Santander, Spain"
-died: "14 August 1936 in El Picado, Almagro, Ciudad Real, Spain"
-birthPlace: "Santander, Spain"
-deathPlace: "Almagro, Ciudad Real, Spain"
-region: "Spain"
+born: 18 January 1915 in Villasuso, Santander, Spain
+died: 14 August 1936 in El Picado, Almagro, Ciudad Real, Spain
+birthPlace: Santander, Spain
+deathPlace: Almagro, Ciudad Real, Spain
+region: Spain
 feastDay:
   month: 8
   day: 14
 canonizationStatus: Blessed
 vocation: []
-religiousOrder: "Dominican"
+religiousOrder: Dominican
 martyr: true
+prayers: []
 ---
 
 Joined the Dominicans on 4 October 1933. Martyred in the Spanish Civil War.

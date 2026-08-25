@@ -1,9 +1,9 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Peter of Besançon"
+name: Saint Peter of Besançon
 honorific: Saint
-summary: "Bishop of Besançon, France."
-region: "France"
+summary: Bishop of Besançon, France.
+region: France
 feastDay:
   month: 5
   day: 8
@@ -12,6 +12,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Bishop of Besançon, France.

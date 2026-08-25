@@ -25,6 +25,7 @@ vocation:
   - Religious
 religiousOrder: Augustinian
 martyr: false
+prayers: []
 ---
 
 Born to poor but pious peasants. She was a very pious child who suffered with poor health, but who received visions and prophesies; they were so common that she thought all children could see the Child Jesus and the souls in Purgatory. She was able to diagnose illness and recommend cures, and to see a person's sins.

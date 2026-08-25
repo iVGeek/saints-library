@@ -1,10 +1,10 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Rhodopianus the Deacon"
+name: Saint Rhodopianus the Deacon
 honorific: Saint
-summary: "Deacon. Martyred in the persecutions of Diocletian."
-died: "in Aphrodisia, Caria, Asia Minor"
-deathPlace: "Caria, Asia Minor"
+summary: Deacon. Martyred in the persecutions of Diocletian.
+died: in Aphrodisia, Caria, Asia Minor
+deathPlace: Caria, Asia Minor
 feastDay:
   month: 5
   day: 3
@@ -13,6 +13,7 @@ vocation:
   - Monk
   - Deacon
 martyr: true
+prayers: []
 ---
 
 Deacon. Martyred in the persecutions of Diocletian.

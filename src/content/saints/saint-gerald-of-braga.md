@@ -27,6 +27,7 @@ religiousOrder: Benedictine
 patronage:
   - Braga, Portugal
 martyr: false
+prayers: []
 ---
 
 Born to the French nobility. Benedictine monk at Moissac, France. Taught grammer and music. Worked with the archbishop in Toledo, Spain, and served as cathedral choir director. Reforming bishop of Braga, Portugal in 1100. Stopped ecclesiastical investiture by laymen in his diocese.

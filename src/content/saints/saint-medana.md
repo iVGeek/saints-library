@@ -13,6 +13,7 @@ vocation:
   - Virgin
   - Monk
 martyr: false
+prayers: []
 ---
 
 Eighth century consecrated virgin who lived most of her life in the area of Galloway, Scotland.

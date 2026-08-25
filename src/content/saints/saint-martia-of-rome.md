@@ -1,16 +1,17 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Martia of Rome"
+name: Saint Martia of Rome
 honorific: Saint
-summary: "A martyr of the early Church, date and location unknown."
+summary: A martyr of the early Church, date and location unknown.
 searchAliases:
-  - "Marcia"
+  - Marcia
 feastDay:
   month: 3
   day: 3
 canonizationStatus: Saint
 vocation: []
 martyr: true
+prayers: []
 ---
 
 A martyr of the early Church, date and location unknown.

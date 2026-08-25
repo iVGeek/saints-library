@@ -22,6 +22,7 @@ patronage:
   - Castellammare di Stabia, Italy, city of
   - Sorrento-Castellammare di Stabia, Italy, archdiocese of
 martyr: false
+prayers: []
 ---
 
 Friend of Saint Antoninus of Sorrento. Bishop of Castellammare di Stabia, Italy. Spent part of his life as a hermit on nearby Mount Aureo.

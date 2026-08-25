@@ -31,6 +31,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/7/7d/Eilean_Mor_Chapel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Abban of Kill-Abban
 imageCreditUrl: https://en.wikipedia.org/wiki/Abb%C3%A1n
+prayers: []
 ---
 
 Contemporary of Saint Patrick. Founded Kill-Abban abbey in Leinster, Ireland, and served as its first abbot. Founded the convent for Saint Gobnait of Ballyvourney, Ireland.

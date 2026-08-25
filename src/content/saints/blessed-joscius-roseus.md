@@ -1,26 +1,27 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Joscius Roseus"
+name: Blessed Joscius Roseus
 honorific: Blessed
-summary: "Benedictine monk at Saint Bertin Abbey, diocese of Arras, France. Renowned for his devotion to Our Lady."
+summary: Benedictine monk at Saint Bertin Abbey, diocese of Arras, France. Renowned for his devotion to Our Lady.
 searchAliases:
-  - "Joscius of Saint Bertin"
-  - "Josbert…"
-  - "Joscio…"
-  - "Valbebertus…"
+  - Joscius of Saint Bertin
+  - Josbert…
+  - Joscio…
+  - Valbebertus…
 deathYear: 1186
-died: "1186 of natural causes"
-region: "France"
+died: 1186 of natural causes
+region: France
 feastDay:
   month: 11
   day: 30
 canonizationStatus: Blessed
 vocation:
   - Monk
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 patronage:
-  - "Saint-Omer, France"
+  - Saint-Omer, France
 martyr: false
+prayers: []
 ---
 
 Benedictine monk at Saint Bertin Abbey, diocese of Arras, France. Renowned for his devotion to Our Lady.

@@ -1,20 +1,22 @@
 ---
 image: /placeholder-saint.svg
-name: "Martyred Carmelites of Carabanchel Bajo"
+name: Martyred Carmelites of Carabanchel Bajo
 honorific: Venerable
-summary: " Blessed Adalberto Vicente y VicenteBlessed Angelo Reguilón LobatoBlessed Aurelio García AntonBlessed Daniel García AntónBlessed Francisco Pérez y PérezBlessed José Sánch Eight members of the Carmelites of the Ancient Observance who were martyred together in the Spanish Civil War."
+summary: ' Blessed Adalberto Vicente y VicenteBlessed Angelo Reguilón LobatoBlessed Aurelio García AntonBlessed Daniel García AntónBlessed Francisco Pérez y PérezBlessed José Sánch Eight members of the Carmelites of the Ancient Observance who were martyred together in the Spanish Civil War.'
 deathYear: 1936
-died: "18 August 1936 in Carabanchel Bajo, Madrid, Spain"
-deathPlace: "Madrid, Spain"
-region: "Spain"
+died: 18 August 1936 in Carabanchel Bajo, Madrid, Spain
+deathPlace: Madrid, Spain
+region: Spain
 feastDay:
   month: 8
   day: 18
-centuries: [20]
+centuries:
+  - 20
 canonizationStatus: Venerable
 vocation: []
-religiousOrder: "Carmelite"
+religiousOrder: Carmelite
 martyr: true
+prayers: []
 ---
 
 Eight members of the Carmelites of the Ancient Observance who were martyred together in the Spanish Civil War.

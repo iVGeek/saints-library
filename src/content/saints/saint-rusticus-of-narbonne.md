@@ -1,14 +1,14 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Rusticus of Narbonne"
+name: Saint Rusticus of Narbonne
 honorific: Saint
-summary: "Monk at Lérins Abbey. Bishop of Narbonne, France. Attended the 3rd Ecumenical Council in Ephesus in 431."
+summary: Monk at Lérins Abbey. Bishop of Narbonne, France. Attended the 3rd Ecumenical Council in Ephesus in 431.
 searchAliases:
-  - "Rustique"
-  - "Rustico"
+  - Rustique
+  - Rustico
 deathYear: 462
-died: "c.462"
-region: "France"
+died: c.462
+region: France
 feastDay:
   month: 10
   day: 26
@@ -17,6 +17,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Monk at Lérins Abbey. Bishop of Narbonne, France. Attended the 3rd Ecumenical Council in Ephesus in 431.

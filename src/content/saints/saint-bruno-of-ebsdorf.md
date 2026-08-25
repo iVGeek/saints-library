@@ -1,14 +1,14 @@
 ---
-name: "Saint Bruno of Ebsdorf"
+name: Saint Bruno of Ebsdorf
 honorific: Saint
-summary: "Duke of Saxony. Leader of the army that became the Martyrs of Ebsdorf."
-image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Bruno-of-Saxony.jpg"
+summary: Duke of Saxony. Leader of the army that became the Martyrs of Ebsdorf.
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Bruno-of-Saxony.jpg
 searchAliases:
-  - "Bruno of Saxony"
+  - Bruno of Saxony
 deathYear: 880
-died: "2 February 880 in the Battle at Ebsdorf, Germany"
-deathPlace: "Germany"
-region: "Germany"
+died: 2 February 880 in the Battle at Ebsdorf, Germany
+deathPlace: Germany
+region: Germany
 feastDay:
   month: 2
   day: 2
@@ -16,6 +16,7 @@ canonizationStatus: Saint
 vocation:
   - Soldier
 martyr: true
+prayers: []
 ---
 
 Duke of Saxony. Leader of the army that became the Martyrs of Ebsdorf.

@@ -1,12 +1,14 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Daniel of Schönau"
+name: Blessed Daniel of Schönau
 honorific: Blessed
-summary: "Cistercian monk at Himmerod Abbey in Großlittgen, Germany. Prior of the house. Abbot of the Schönau Abbey in Heidelberg, Germany."
+summary: >-
+  Cistercian monk at Himmerod Abbey in Großlittgen, Germany. Prior of the house. Abbot of the Schönau Abbey in
+  Heidelberg, Germany.
 deathYear: 1218
-born: "12th century Germany"
-died: "1218 of natural causes"
-region: "Germany"
+born: 12th century Germany
+died: 1218 of natural causes
+region: Germany
 feastDay:
   month: 6
   day: 27
@@ -14,6 +16,7 @@ canonizationStatus: Blessed
 vocation:
   - Monk
 martyr: false
+prayers: []
 ---
 
 Cistercian monk at Himmerod Abbey in Großlittgen, Germany. Prior of the house. Abbot of the Schönau Abbey in Heidelberg, Germany.

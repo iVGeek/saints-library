@@ -23,6 +23,7 @@ vocation:
   - Confessor
 religiousOrder: Franciscan
 martyr: false
+prayers: []
 ---
 
 Nephew of Saint Sacerdos of Lyons. Bishop of Lyon, France in 553. Worked to revive ecclesiastical chant.

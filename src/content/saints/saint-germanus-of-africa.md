@@ -14,6 +14,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/9/94/Gemma_Galgani_-_Originalfoto_%28Detail%29_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Germanus of Africa
 imageCreditUrl: https://en.wikipedia.org/wiki/Gemma%20Galgani
+prayers: []
 ---
 
 One of thousands of Christians exiled, tortured and martyred in the late 5th century by the Arian King Hunneric.

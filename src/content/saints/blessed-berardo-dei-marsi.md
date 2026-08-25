@@ -23,6 +23,7 @@ vocation:
 patronage:
   - Avezzano, Italy, diocese of
 martyr: false
+prayers: []
 ---
 
 Born to the Italian nobilty, the son of Count Berardo and Countess Theodosia of Carsoli, Italy; great-uncle of Saint Rosalia. At age seven he was sent to study with the canons of the cathedral of Santa Sabina dei Marsi. Studied at Monte Cassino Abbey from 1095 through 1102. Chosen as governor of the Campagna province of Italy by Pope Paschal II. Created cardinal in 1099 by Paschal II. Bishop of Marsi, Italy in 1109 where he served the rest of his life. A reformer in his diocese, he fought simony and insisted on clerical celibacy.

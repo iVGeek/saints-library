@@ -26,6 +26,7 @@ imageCredit: >-
   <a rel="nofollow" class="external free"
   href="https://books.google.com/books?id=A2E7AAAAcAAJ">https://books.google.com/books?id=A2E7AAAAcAAJ</a>
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:Saint-Martin%20-%20Esprit%20de%20Saint-Martin%2C%201836.djvu
+prayers: []
 ---
 
 Born a Merovingian princess, the daughter of King Sigebert of Austrasia; sister of Saint Balderic, aunt of Saint Doda of Rheims. Called to the religious life, she rejected a series of marriage proposal to become the  first abbess of the Saint Peter monastery in Rheims, France.

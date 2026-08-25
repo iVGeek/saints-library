@@ -1,23 +1,24 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Bartolomé Gelabert Pericás"
+name: Blessed Bartolomé Gelabert Pericás
 honorific: Blessed
-summary: "Lay brother in the Vincentian Congregation of the Mission. Martyred in the Spanish Civil War."
+summary: Lay brother in the Vincentian Congregation of the Mission. Martyred in the Spanish Civil War.
 birthYear: 1872
 deathYear: 1936
-born: "4 May 1872 in Consey, Mallorca, Spain"
-died: "27 November 1936 in Canillas, Madrid, Spain"
-birthPlace: "Mallorca, Spain"
-deathPlace: "Madrid, Spain"
-region: "Spain"
+born: 4 May 1872 in Consey, Mallorca, Spain
+died: 27 November 1936 in Canillas, Madrid, Spain
+birthPlace: Mallorca, Spain
+deathPlace: Madrid, Spain
+region: Spain
 feastDay:
   month: 11
   day: 27
 canonizationStatus: Blessed
 vocation:
   - Cardinal
-religiousOrder: "Lazarist"
+religiousOrder: Lazarist
 martyr: true
+prayers: []
 ---
 
 Lay brother in the Vincentian Congregation of the Mission. Martyred in the Spanish Civil War.

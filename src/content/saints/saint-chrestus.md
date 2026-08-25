@@ -1,22 +1,23 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Chrestus"
+name: Saint Chrestus
 honorific: Saint
-summary: "Martyr."
+summary: Martyr.
 searchAliases:
-  - "Cresto"
-  - "Crestus"
-died: "Tomis, Scythia (modern Constanta, Romania)"
-deathPlace: "Scythia (modern Constanta, Romania)"
-region: "Italy"
+  - Cresto
+  - Crestus
+died: Tomis, Scythia (modern Constanta, Romania)
+deathPlace: Scythia (modern Constanta, Romania)
+region: Italy
 feastDay:
   month: 4
   day: 3
 canonizationStatus: Saint
 vocation:
   - Monk
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 martyr: true
+prayers: []
 ---
 
 Martyr.

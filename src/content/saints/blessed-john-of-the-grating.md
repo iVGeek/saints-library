@@ -25,6 +25,7 @@ vocation:
   - Monk
 religiousOrder: Benedictine
 martyr: false
+prayers: []
 ---
 
 Benedictine Cistercian monk at Clairvaux Abbey, professing his vows under Saint Bernard. Abbot at Guingamp, France. Founder and abbot of monasteries at Buzay and Bégard in Brittany (in modern France). Noted as an able administrator, always fair and just with his brother monks. Bishop of Aleth (modern Saint-Servan, France) from 1144, a see that was later moved to Saint-Malo. Introduced the Canons Regular to his diocese c.1150. The de Craticula (of the Grating) part of his name derives from the metal railings that surround his shrine.

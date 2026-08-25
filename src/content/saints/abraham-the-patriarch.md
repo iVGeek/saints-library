@@ -21,6 +21,7 @@ canonizationStatus: Saint
 vocation:
   - Lay
 martyr: false
+prayers: []
 ---
 
 Old Testament patriarch. Married to Sarah. Founder of the Hebrew nation. Father of all believers in the true God. At God's command he moved from his native Chaldea to Canaan. Nomadic shepherd. Reported to have lived to age 175.

@@ -21,6 +21,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/c/cf/Pope_Saint_Evaristus_%28by_Sandro_Botticelli%29_%E2%80%93_Sistine_Chapel_%281481%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Evaristus of Caesarea
 imageCreditUrl: https://en.wikipedia.org/wiki/Pope%20Evaristus
+prayers: []
 ---
 
 Brother of Saint Carponius of Caesarea, Saint Priscianus of Caesarea and Saint Fortunata of Caesarea. Martyred in the persecutions of Diocletian.

@@ -17,6 +17,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/6/6b/Katharinenkloster_Sinai_BW_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Callistratus of Constantinople
 imageCreditUrl: https://en.wikipedia.org/wiki/Saint%20Catherine's%20Monastery
+prayers: []
 ---
 
 One of a group of 50 African soldiers martyred in the persecutions of Diocletian.

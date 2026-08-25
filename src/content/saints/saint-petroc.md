@@ -1,19 +1,19 @@
 ---
-name: "Saint Petroc"
+name: Saint Petroc
 honorific: Saint
-summary: " Several years later he returned to Britain, landing on the River Ca Younger son of King Glywys. On his father's death, the people of Glywysing called for Petroc to take the crown of one the country's sub-divisions, but Petroc wanted a religious life, and went to study in Ireland."
-image: "https://upload.wikimedia.org/wikipedia/commons/8/80/Petroc.png"
+summary: ' Several years later he returned to Britain, landing on the River Ca Younger son of King Glywys. On his father''s death, the people of Glywysing called for Petroc to take the crown of one the country''s sub-divisions, but Petroc wanted a religious life, and went to study in Ireland.'
+image: https://upload.wikimedia.org/wikipedia/commons/8/80/Petroc.png
 searchAliases:
-  - "Petrock"
-  - "Pedrog"
-  - "Perreuse"
-  - "Perreux"
-  - "Petrocus"
-  - "Petrox"
+  - Petrock
+  - Pedrog
+  - Perreuse
+  - Perreux
+  - Petrocus
+  - Petrox
 deathYear: 594
-died: "c.594 at Treravel, Padstow, Cornwall (in modern England) of natural causes while on the road"
-deathPlace: "Padstow, Cornwall (modern England) of natural causes while on the road"
-region: "India"
+died: c.594 at Treravel, Padstow, Cornwall (in modern England) of natural causes while on the road
+deathPlace: Padstow, Cornwall (modern England) of natural causes while on the road
+region: India
 feastDay:
   month: 6
   day: 4
@@ -23,23 +23,24 @@ vocation:
   - Priest
   - Confessor
 patronage:
-  - "Bodmin, Cornwall"
-  - "Caernarfonshire, Wales"
-  - "Cornwall, England"
-  - "Devon, England"
-  - "Exeter, Devonshire, England"
-  - "Hollacombe, Devonshire, England"
-  - "Little Petherick, Cornwall"
-  - "Nansfenten, Cornwall"
-  - "Llanbedrog, Wales"
-  - "Lydford, Devonshire, England"
-  - "Newton Saint Petrock, Devonshire, England"
-  - "Padstow, Cornwall"
-  - "Saint-Méen, France"
-  - "South Brent, Devonshire, England"
-  - "Trevalga, Cornwall"
-  - "West Anstey, Devonshire, England"
+  - Bodmin, Cornwall
+  - Caernarfonshire, Wales
+  - Cornwall, England
+  - Devon, England
+  - Exeter, Devonshire, England
+  - Hollacombe, Devonshire, England
+  - Little Petherick, Cornwall
+  - Nansfenten, Cornwall
+  - Llanbedrog, Wales
+  - Lydford, Devonshire, England
+  - Newton Saint Petrock, Devonshire, England
+  - Padstow, Cornwall
+  - Saint-Méen, France
+  - South Brent, Devonshire, England
+  - Trevalga, Cornwall
+  - West Anstey, Devonshire, England
 martyr: false
+prayers: []
 ---
 
 Younger son of King Glywys. On his father's death, the people of Glywysing called for Petroc to take the crown of one the country's sub-divisions, but Petroc wanted a religious life, and went to study in Ireland.

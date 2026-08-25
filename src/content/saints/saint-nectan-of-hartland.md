@@ -1,22 +1,23 @@
 ---
-name: "Saint Nectan of Hartland"
+name: Saint Nectan of Hartland
 honorific: Saint
-summary: "Sixth-century hermit in Hartland, Devon, England."
+summary: Sixth-century hermit in Hartland, Devon, England.
 searchAliases:
-  - "Nighton"
-born: "Wales"
-region: "England"
+  - Nighton
+born: Wales
+region: England
 feastDay:
   month: 6
   day: 17
 canonizationStatus: Saint
-image: "https://upload.wikimedia.org/wikipedia/en/thumb/7/72/Nectan_icon.jpg/960px-Nectan_icon.jpg"
+image: https://upload.wikimedia.org/wikipedia/en/thumb/7/72/Nectan_icon.jpg/960px-Nectan_icon.jpg
 vocation:
   - Monk
   - Hermit
 patronage:
-  - "Hartland, England"
+  - Hartland, England
 martyr: false
+prayers: []
 ---
 
 Sixth-century hermit in Hartland, Devon, England.

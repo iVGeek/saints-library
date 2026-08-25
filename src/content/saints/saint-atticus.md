@@ -16,6 +16,7 @@ imageAlt: Portrait of Saint Atticus
 imageCredit: <span class="int-own-work" lang="en">Own work</span>
 imageCreditUrl: >-
   https://commons.wikimedia.org/wiki/File:Mus%C3%A9e%20GR%20de%20Saint-Romain-en-Gal%2027%2007%202011%2027%20Sucellus.jpg
+prayers: []
 ---
 
 Martyred in Phrygia. No other information has survived.

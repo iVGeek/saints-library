@@ -1,28 +1,34 @@
 ---
-name: "Venerable Leo Gustav Dehon"
+name: Venerable Leo Gustav Dehon
 honorific: Venerable
-summary: "Raised in a pious family; his mother was especially devoted to the Sacred Heart, and passed this on to Leo. As a young man he felt a call to the priesthood, but his father had other plans for him, and sent him to study at the Sorbonne in Paris, France. He earned a degree in civil"
-image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Leo-Gustav-Dehon.jpg"
+summary: >-
+  Raised in a pious family; his mother was especially devoted to the Sacred Heart, and passed this on to Leo. As a young
+  man he felt a call to the priesthood, but his father had other plans for him, and sent him to study at the Sorbonne in
+  Paris, France. He earned a degree in civil
+image: http://catholicsaints.info/wp-content/uploads/img-Venerable-Leo-Gustav-Dehon.jpg
 searchAliases:
-  - "Father John of the Sacred Heart"
-  - "Leon Dehon"
+  - Father John of the Sacred Heart
+  - Leon Dehon
 birthYear: 1843
 deathYear: 1925
-born: "14 March 1843 at La Capelle, diocese of Soissons, Nords, France"
-died: "12 August 1925 in Brussels, Belgium of natural causes"
-birthPlace: "dioceseSoissons, Nords, France"
-deathPlace: "Belgiumnatural causes"
-region: "France"
+born: 14 March 1843 at La Capelle, diocese of Soissons, Nords, France
+died: 12 August 1925 in Brussels, Belgium of natural causes
+birthPlace: dioceseSoissons, Nords, France
+deathPlace: Belgiumnatural causes
+region: France
 feastDay:
   month: 12
   day: 19
-centuries: [19, 20]
+centuries:
+  - 19
+  - 20
 canonizationStatus: Venerable
 vocation:
   - Priest
   - Missionary
   - Confessor
 martyr: false
+prayers: []
 ---
 
 Raised in a pious family; his mother was especially devoted to the Sacred Heart, and passed this on to Leo. As a young man he felt a call to the priesthood, but his father had other plans for him, and sent him to study at the Sorbonne in Paris, France. He earned a degree in civil law at 21, but had spent much of his free time in a local church. His father tried again to interest his son in the world by sending him on a long tour of the East, but on his way home Leo entered the French seminary of Saint Claire in Rome, Italy in October 1865. Ordained on 19 December 1868 in the basilica of Saint John Lateran. His father not only came to terms with his son's vocation, he returned to the Church himself.

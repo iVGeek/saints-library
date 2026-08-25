@@ -22,6 +22,7 @@ vocation:
   - Priest
   - Monk
 martyr: true
+prayers: []
 ---
 
 Priest, scholar, and author at Tyre, Lebanon. Driven into exile during the persecutions of Diocletian, but later returned. Bishop of Tyre. Attended the Council of Nicaea in 325. Driven into exile at Odyssopolis, Thrace by Julian the Apostate. There the 107 year old priest was arrested, beaten, and murdered for his faith. Martyr.

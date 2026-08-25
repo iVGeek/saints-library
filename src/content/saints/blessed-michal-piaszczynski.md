@@ -23,6 +23,7 @@ canonizationStatus: Blessed
 vocation:
   - Priest
 martyr: true
+prayers: []
 ---
 
 Priest in the diocese of Lomza, Poland. Teacher and spiritual director at the Lomza seminary where he invited rabbis in order to promote inter-religious dialogue. As he was a Pole, Catholic, a priest, and a man who was friendly and sympathetic to Jews, he was imprisoned and murdered by Nazis. Martyr.

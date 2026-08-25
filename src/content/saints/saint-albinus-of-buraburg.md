@@ -30,6 +30,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/b/b1/East-Ortho-cross.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Albinus of Büraburg
 imageCreditUrl: https://en.wikipedia.org/wiki/October%2026%20(Eastern%20Orthodox%20liturgics)
+prayers: []
 ---
 
 Benedictine monk. Missionary to Germany with Saint Boniface. Only bishop of Buraburg, (part of the modern Archdiocese of Mainz, Germany) in 741.

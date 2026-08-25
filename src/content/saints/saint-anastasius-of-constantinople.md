@@ -18,6 +18,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/0/0e/Patriarch_Germanus_I_of_Constantinople.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Anastasius of Constantinople
 imageCreditUrl: https://en.wikipedia.org/wiki/Germanus%20I%20of%20Constantinople
+prayers: []
 ---
 
 Monk in Constantinople. Spiritual student and biographer of Saint Maximus the Confessor.

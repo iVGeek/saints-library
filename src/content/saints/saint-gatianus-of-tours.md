@@ -37,6 +37,7 @@ patronage:
   - Tours, archdiocese of
   - Tours, city of
 martyr: false
+prayers: []
 ---
 
 Spiritual student of Saint Dionysius of Paris. Gatianus brought Christianity to Tours, France in the 4th century, founded the diocese and served as the its first bishop. However, his good work faded after his death. When Saint Martin arrived in Tours, he found that there were no Christians, but local lore spoke much about Gatianus, the man who brought the Gospel that the people no longer understood. Martin found Gatianus' burial site, and always venerated his predecessor.

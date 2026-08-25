@@ -1,14 +1,14 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Andrés Casinello Barroeta"
+name: Blessed Andrés Casinello Barroeta
 honorific: Blessed
-summary: "Married layman of the diocese of Almería, Spain. Martyred in the Spanish Civil War."
+summary: Married layman of the diocese of Almería, Spain. Martyred in the Spanish Civil War.
 birthYear: 1886
 deathYear: 1936
-born: "23 August 1886 in Almeria Spain"
-died: "26 September 1936 in Pozo de Cantavieja, Tahal, Almeria Spain"
-deathPlace: "Tahal, Almeria Spain"
-region: "Spain"
+born: 23 August 1886 in Almeria Spain
+died: 26 September 1936 in Pozo de Cantavieja, Tahal, Almeria Spain
+deathPlace: Tahal, Almeria Spain
+region: Spain
 feastDay:
   month: 9
   day: 26
@@ -16,6 +16,7 @@ canonizationStatus: Blessed
 vocation:
   - Cardinal
 martyr: true
+prayers: []
 ---
 
 Married layman of the diocese of Almería, Spain. Martyred in the Spanish Civil War.

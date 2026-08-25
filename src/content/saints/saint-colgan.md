@@ -1,17 +1,19 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Colgan of Clonmacnoise"
+name: Saint Colgan of Clonmacnoise
 honorific: Saint
-summary: "Brother of Saint Foila. Friend and teacher of Blessed Alcuin. Abbot of Clonmachnoise, Offaly, Ireland. Many of his spiritual students spread out across France, becoming influential teachers in imperial schools."
+summary: >-
+  Brother of Saint Foila. Friend and teacher of Blessed Alcuin. Abbot of Clonmachnoise, Offaly, Ireland. Many of his
+  spiritual students spread out across France, becoming influential teachers in imperial schools.
 searchAliases:
-  - "Colgan the Wise"
-  - "Chief Scribe of the Scots"
-  - "Colchu…"
-  - "Colgu…"
-  - "Colga…"
+  - Colgan the Wise
+  - Chief Scribe of the Scots
+  - Colchu…
+  - Colgu…
+  - Colga…
 deathYear: 796
-died: "c.796 of natural causes"
-region: "Ireland"
+died: c.796 of natural causes
+region: Ireland
 feastDay:
   month: 2
   day: 20
@@ -19,6 +21,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: false
+prayers: []
 ---
 
 Brother of Saint Foila. Friend and teacher of Blessed Alcuin. Abbot of Clonmachnoise, Offaly, Ireland. Many of his spiritual students spread out across France, becoming influential teachers in imperial schools.

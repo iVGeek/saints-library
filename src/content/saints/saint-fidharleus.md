@@ -1,11 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Fidharleus"
+name: Saint Fidharleus
 honorific: Saint
-summary: "Monk. As abbot, he restored the monastery of Rathlin, Ireland after it was damaged in one of the many Viking raids, and he is considered its second founder."
+summary: >-
+  Monk. As abbot, he restored the monastery of Rathlin, Ireland after it was damaged in one of the many Viking raids,
+  and he is considered its second founder.
 deathYear: 762
-died: "762"
-region: "Ireland"
+died: '762'
+region: Ireland
 feastDay:
   month: 10
   day: 1
@@ -14,6 +16,7 @@ vocation:
   - Priest
   - Monk
 martyr: false
+prayers: []
 ---
 
 Monk. As abbot, he restored the monastery of Rathlin, Ireland after it was damaged in one of the many Viking raids, and he is considered its second founder.

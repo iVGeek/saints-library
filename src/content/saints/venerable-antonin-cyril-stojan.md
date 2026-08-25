@@ -24,6 +24,7 @@ vocation:
   - Bishop
   - Priest
 martyr: false
+prayers: []
 ---
 
 Studied in Kromeríž and Olomouc. Ordained on 5 July 1876. Chaplain in Pribor. Founded the Apostolate of Cyril and Methodius to work for the Christian unification of Slavs. Member of the Austrian parliament in 1897. Senator in the National Assembly of Czechoslovakia. Canon of Olomouc. Provost of the Saint Maurice Kromeriz seminary. Archbishop of Olomouc on 10 March 1921.

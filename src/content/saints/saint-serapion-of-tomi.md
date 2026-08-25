@@ -1,10 +1,10 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Serapion of Tomi"
+name: Saint Serapion of Tomi
 honorific: Saint
-summary: "Priest. One of group of 17 Christians imprisoned and excuted for their faith during the persecutions of Diocletian."
-died: "tied to a stake and burned alive; he emerged unharmed"
-region: "Italy"
+summary: Priest. One of group of 17 Christians imprisoned and excuted for their faith during the persecutions of Diocletian.
+died: tied to a stake and burned alive; he emerged unharmed
+region: Italy
 feastDay:
   month: 8
   day: 27
@@ -13,6 +13,7 @@ vocation:
   - Priest
   - Monk
 martyr: false
+prayers: []
 ---
 
 Priest. One of group of 17 Christians imprisoned and excuted for their faith during the persecutions of Diocletian.

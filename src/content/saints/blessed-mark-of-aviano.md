@@ -1,20 +1,23 @@
 ---
-name: "Blessed Mark of Aviano"
+name: Blessed Mark of Aviano
 honorific: Blessed
-summary: "Son of Marco Pasquale Cristofori and Rosa Zanoni. Educated at home and at the Jesuit school in Gorizia, Italy. He was especially fascinated with stories of the saints. At age 16 he left home to walk to Crete, where Venice was at war with the Ottoman Turks; he planned to preaching"
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Mark-of-Aviano.jpg"
+summary: >-
+  Son of Marco Pasquale Cristofori and Rosa Zanoni. Educated at home and at the Jesuit school in Gorizia, Italy. He was
+  especially fascinated with stories of the saints. At age 16 he left home to walk to Crete, where Venice was at war
+  with the Ottoman Turks; he planned to preaching
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Mark-of-Aviano.jpg
 searchAliases:
-  - "Carlo Domenico Cristofori"
-  - "Marco D'Aviano"
-  - "Marco of Aviano"
-  - "Marek z Aviano"
+  - Carlo Domenico Cristofori
+  - Marco D'Aviano
+  - Marco of Aviano
+  - Marek z Aviano
 birthYear: 1631
 deathYear: 1699
-born: "17 November 1631 at Aviano, Italy as Carlo Domenico Cristofori"
-died: "13 August 1699 of cancer in Vienna, Austria"
-birthPlace: "Italy as Carlo Domenico Cristofori"
-deathPlace: "Austria"
-region: "Austria"
+born: 17 November 1631 at Aviano, Italy as Carlo Domenico Cristofori
+died: 13 August 1699 of cancer in Vienna, Austria
+birthPlace: Italy as Carlo Domenico Cristofori
+deathPlace: Austria
+region: Austria
 feastDay:
   month: 8
   day: 13
@@ -22,8 +25,9 @@ canonizationStatus: Blessed
 vocation:
   - Priest
   - Missionary
-religiousOrder: "Jesuit"
+religiousOrder: Jesuit
 martyr: true
+prayers: []
 ---
 
 Son of Marco Pasquale Cristofori and Rosa Zanoni. Educated at home and at the Jesuit school in Gorizia, Italy. He was especially fascinated with stories of the saints. At age 16 he left home to walk to Crete, where Venice was at war with the Ottoman Turks; he planned to preaching Christianity to Muslims and take his chance on martyrdom. After a few days of hiking, he stopped at the Capuchin house in Capodistria (modern Kopar, Slovenia), seeking food and shelter. The brothers took him in, fed him, prayed with him, and advised him to return home, which he did.

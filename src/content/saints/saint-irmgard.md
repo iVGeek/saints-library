@@ -1,15 +1,18 @@
 ---
-name: "Saint Irmgard of Süchteln"
+name: Saint Irmgard of Süchteln
 honorific: Saint
-summary: "Eleventh century Countess of Süchteln in the area of Cologne, Germany, the daughter of the Earl of Aspel. Known for her personal piety, her charity, as a miracle worker, and for dedicating her whole fortune to the construction of churches. Returning from pilgrimage to Rome, Italy"
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Irmgard.jpg"
+summary: >-
+  Eleventh century Countess of Süchteln in the area of Cologne, Germany, the daughter of the Earl of Aspel. Known for
+  her personal piety, her charity, as a miracle worker, and for dedicating her whole fortune to the construction of
+  churches. Returning from pilgrimage to Rome, Italy
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Irmgard.jpg
 searchAliases:
-  - "Irmgarda"
-  - "Irmengarda"
+  - Irmgarda
+  - Irmengarda
 deathYear: 1100
-died: "c.1100 in Cologne, Lotaringia (in modern Germany of natural causes"
-deathPlace: "Lotaringia (modern Germany of natural causes"
-region: "Germany"
+died: c.1100 in Cologne, Lotaringia (in modern Germany of natural causes
+deathPlace: Lotaringia (modern Germany of natural causes
+region: Germany
 feastDay:
   month: 9
   day: 4
@@ -18,8 +21,9 @@ vocation:
   - Monk
   - Hermit
 patronage:
-  - "Cologne, Germany"
+  - Cologne, Germany
 martyr: false
+prayers: []
 ---
 
 Eleventh century Countess of Süchteln in the area of Cologne, Germany, the daughter of the Earl of Aspel. Known for her personal piety, her charity, as a miracle worker, and for dedicating her whole fortune to the construction of churches. Returning from pilgrimage to Rome, Italy, she lived as a hermitess.

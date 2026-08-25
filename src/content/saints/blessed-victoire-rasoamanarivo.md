@@ -1,12 +1,15 @@
 ---
-name: "Blessed Victoire Rasoamanarivo"
+name: Blessed Victoire Rasoamanarivo
 honorific: Blessed
-summary: "Daughter of Rainiandriantsilavo and Rambahinoro. Raised by her paternal uncle, Rainimaharavo, the commander-in-chief of the Malagasy army, the girl grew up in the animist faith of her ancestors. She began attending a Catholic school at age 13 and was immediately drawn to the fait"
-image: "https://upload.wikimedia.org/wikipedia/commons/6/6a/Victoire_Rasoamanarivo.jpg"
+summary: >-
+  Daughter of Rainiandriantsilavo and Rambahinoro. Raised by her paternal uncle, Rainimaharavo, the commander-in-chief
+  of the Malagasy army, the girl grew up in the animist faith of her ancestors. She began attending a Catholic school at
+  age 13 and was immediately drawn to the fait
+image: https://upload.wikimedia.org/wikipedia/commons/6/6a/Victoire_Rasoamanarivo.jpg
 birthYear: 1848
-born: "1848 in Antananarivo, Madagascar as Rasoamanarivo"
-birthPlace: "Madagascar as Rasoamanarivo"
-region: "France"
+born: 1848 in Antananarivo, Madagascar as Rasoamanarivo
+birthPlace: Madagascar as Rasoamanarivo
+region: France
 feastDay:
   month: 8
   day: 21
@@ -15,6 +18,7 @@ vocation:
   - Priest
   - Soldier
 martyr: false
+prayers: []
 ---
 
 Daughter of Rainiandriantsilavo and Rambahinoro. Raised by her paternal uncle, Rainimaharavo, the commander-in-chief of the Malagasy army, the girl grew up in the animist faith of her ancestors. She began attending a Catholic school at age 13 and was immediately drawn to the faith. A convert, baptized on 1 November 1863, taking the name Victoire. A change in the national politics led to antipathy to the French and to Catholics; Victoire's family, being part of the ruling class, put her in a Protestant school and threatened to make her an outcast if she held to her new faith, but she would not change. Victoire felt drawn to religious life, but her family arranged a marriage for her to Ratsimatahodriaka, a cousin and leading figure in the military; they were wed on 13 May 1864. Her new husband was a violent, womanizing drunk, and all of Victoire's friends urged her to divorce him; she refused, saying that marriage was a sacrament and could not be broken, and instead she prayed for his conversion.

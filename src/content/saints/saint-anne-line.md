@@ -1,31 +1,37 @@
 ---
-name: "Saint Anne Line"
+name: Saint Anne Line
 honorific: Venerable
-summary: "Born the daughter of a wealthy and ardent Calvinist. When she and her brother converted to Catholicism, they were disowned and disinherited. Anne married another convert, Roger Line, who was soon arrested for attending Mass, then exiled to Flanders, Belgium where he died in 1594."
-image: "https://upload.wikimedia.org/wikipedia/commons/9/9a/St_Anne_Line.jpg"
+summary: >-
+  Born the daughter of a wealthy and ardent Calvinist. When she and her brother converted to Catholicism, they were
+  disowned and disinherited. Anne married another convert, Roger Line, who was soon arrested for attending Mass, then
+  exiled to Flanders, Belgium where he died in 1594.
+image: https://upload.wikimedia.org/wikipedia/commons/9/9a/St_Anne_Line.jpg
 searchAliases:
-  - "Anne Higham"
-  - "Anne Lyne"
+  - Anne Higham
+  - Anne Lyne
 birthYear: 1565
 deathYear: 1601
-born: "c.1565 at Dunmow, Essex, England as Anne Higham"
-died: "hanged on 27 February 1601 at Tyburn, London, England"
-birthPlace: "Essex, England as Anne Higham"
-deathPlace: "London, England"
-region: "Belgium"
+born: c.1565 at Dunmow, Essex, England as Anne Higham
+died: hanged on 27 February 1601 at Tyburn, London, England
+birthPlace: Essex, England as Anne Higham
+deathPlace: London, England
+region: Belgium
 feastDay:
   month: 2
   day: 27
-centuries: [16, 17]
+centuries:
+  - 16
+  - 17
 canonizationStatus: Venerable
 vocation:
   - Priest
   - Confessor
 patronage:
-  - "childless people"
-  - "converts"
-  - "widows"
+  - childless people
+  - converts
+  - widows
 martyr: true
+prayers: []
 ---
 
 Born the daughter of a wealthy and ardent Calvinist. When she and her brother converted to Catholicism, they were disowned and disinherited. Anne married another convert, Roger Line, who was soon arrested for attending Mass, then exiled to Flanders, Belgium where he died in 1594.

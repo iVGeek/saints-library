@@ -1,28 +1,32 @@
 ---
-name: "Saint Ida of Boulogne"
+name: Saint Ida of Boulogne
 honorific: Saint
-summary: "Daughter of Duke Godfrey IV of Lorraine. Descendent of Blessed Charlemagne. Married Count Eustace II of Boulogne at age 17. Mother of Godfrey and Baldwin de Bouillon. Widow. Endowed several monasteries in Picardy (part of modern France). Benedictine oblate."
-image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Ida-of-Boulogne-1.jpg"
+summary: >-
+  Daughter of Duke Godfrey IV of Lorraine. Descendent of Blessed Charlemagne. Married Count Eustace II of Boulogne at
+  age 17. Mother of Godfrey and Baldwin de Bouillon. Widow. Endowed several monasteries in Picardy (part of modern
+  France). Benedictine oblate.
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Ida-of-Boulogne-1.jpg
 searchAliases:
-  - "Ida of Lorraine"
-  - "Ida of Lower Lorraine"
-  - "Ida of Verdun"
-  - "Ide…"
+  - Ida of Lorraine
+  - Ida of Lower Lorraine
+  - Ida of Verdun
+  - Ide…
 birthYear: 1040
 deathYear: 1113
-born: "1040 in Ardennes, France"
-died: "13 April 1113 of natural causes"
-birthPlace: "France"
-region: "France"
+born: 1040 in Ardennes, France
+died: 13 April 1113 of natural causes
+birthPlace: France
+region: France
 feastDay:
   month: 4
   day: 13
 canonizationStatus: Saint
 vocation: []
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 patronage:
-  - "widows"
+  - widows
 martyr: false
+prayers: []
 ---
 
 Daughter of Duke Godfrey IV of Lorraine. Descendent of Blessed Charlemagne. Married Count Eustace II of Boulogne at age 17. Mother of Godfrey and Baldwin de Bouillon. Widow. Endowed several monasteries in Picardy (part of modern France). Benedictine oblate.

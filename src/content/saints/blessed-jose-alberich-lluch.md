@@ -1,24 +1,25 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed José Alberich Lluch"
+name: Blessed José Alberich Lluch
 honorific: Blessed
-summary: "Discalced Carmelite friar. Martyred in the Spanish Civil War."
+summary: Discalced Carmelite friar. Martyred in the Spanish Civil War.
 searchAliases:
-  - "Brother José Cecilio Of Jesus Mary"
+  - Brother José Cecilio Of Jesus Mary
 birthYear: 1865
 deathYear: 1936
-born: "7 February 1865 in Benicarló, Castellón, Spain"
-died: "11 November 1936 in Torredembarra, Tarragona, Spain"
-birthPlace: "Castellón, Spain"
-deathPlace: "Tarragona, Spain"
-region: "Spain"
+born: 7 February 1865 in Benicarló, Castellón, Spain
+died: 11 November 1936 in Torredembarra, Tarragona, Spain
+birthPlace: Castellón, Spain
+deathPlace: Tarragona, Spain
+region: Spain
 feastDay:
   month: 11
   day: 11
 canonizationStatus: Blessed
 vocation: []
-religiousOrder: "Carmelite"
+religiousOrder: Carmelite
 martyr: true
+prayers: []
 ---
 
 Discalced Carmelite friar. Martyred in the Spanish Civil War.

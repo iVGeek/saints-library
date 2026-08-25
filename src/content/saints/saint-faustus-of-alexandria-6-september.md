@@ -1,12 +1,12 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Faustus of Alexandria"
+name: Saint Faustus of Alexandria
 honorific: Saint
-summary: "Martyred in the persecutions of Decius. No other information has survived."
+summary: Martyred in the persecutions of Decius. No other information has survived.
 deathYear: 250
-died: "beheaded in 250 at Alexandria, Egypt"
-deathPlace: "Egypt"
-region: "Egypt"
+died: beheaded in 250 at Alexandria, Egypt
+deathPlace: Egypt
+region: Egypt
 feastDay:
   month: 9
   day: 6
@@ -14,6 +14,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Martyred in the persecutions of Decius. No other information has survived.

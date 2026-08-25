@@ -27,6 +27,7 @@ patronage:
   - people rejected by religious orders
   - widows
 martyr: false
+prayers: []
 ---
 
 Married Gaston de Montferrant, Baron of Landiras, in 1572 at age 16. Mother of seven, five of whom lived to adulthood; two of the five entered religious life. Widowed at age 41, she ran the affairs of her estate and castle by herself.

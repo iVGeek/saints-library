@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Zeticus of Crete"
+name: Saint Zeticus of Crete
 honorific: Saint
-summary: "One of the Martyrs of Crete who died in the persecutions of Decius. No other information has survived."
+summary: One of the Martyrs of Crete who died in the persecutions of Decius. No other information has survived.
 deathYear: 250
-died: "martyred in 250 on Crete"
-region: "England"
+died: martyred in 250 on Crete
+region: England
 feastDay:
   month: 12
   day: 23
@@ -14,6 +14,7 @@ vocation:
   - Priest
   - Monk
 martyr: true
+prayers: []
 ---
 
 One of the Martyrs of Crete who died in the persecutions of Decius. No other information has survived.

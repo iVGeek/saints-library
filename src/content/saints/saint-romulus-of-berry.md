@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Romulus of Berry"
+name: Saint Romulus of Berry
 honorific: Saint
-summary: "Priest. Founded a monastery in Berry, France."
+summary: Priest. Founded a monastery in Berry, France.
 deathYear: 700
-died: "c.700 of natural causes"
-region: "France"
+died: c.700 of natural causes
+region: France
 feastDay:
   month: 12
   day: 25
@@ -14,6 +14,7 @@ vocation:
   - Priest
   - Monk
 martyr: false
+prayers: []
 ---
 
 Priest. Founded a monastery in Berry, France.

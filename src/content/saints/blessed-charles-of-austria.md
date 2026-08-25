@@ -1,20 +1,23 @@
 ---
-name: "Blessed Charles of Austria"
+name: Blessed Charles of Austria
 honorific: Blessed
-summary: "Son of Archduke Otto and Princess Maria Josephine of Saxony; great-nephew of Emperor Francis Joseph I. A stigmatic nun prophesied that he would be the victim of attacks and great suffering. A group of people were specifically assigned to pray for him at all times; after his death"
-image: "http://catholicsaints.info/wp-content/uploads/img-Charles-I-of-Austria.jpg"
+summary: >-
+  Son of Archduke Otto and Princess Maria Josephine of Saxony; great-nephew of Emperor Francis Joseph I. A stigmatic nun
+  prophesied that he would be the victim of attacks and great suffering. A group of people were specifically assigned to
+  pray for him at all times; after his death
+image: http://catholicsaints.info/wp-content/uploads/img-Charles-I-of-Austria.jpg
 searchAliases:
-  - "Charles of Habsburg"
-  - "Carlo d'Austria"
-  - "Karl I von Österreich"
-  - "Karl IV von Österreich"
+  - Charles of Habsburg
+  - Carlo d'Austria
+  - Karl I von Österreich
+  - Karl IV von Österreich
 birthYear: 1887
 deathYear: 1922
-born: "17 August 1887 in Persenbeug Castle, Melk, Lower Austria"
-died: "1 April 1922 at Funchal, Madeira, Portugal of pneumonia"
-birthPlace: "Melk, Lower Austria"
-deathPlace: "Madeira, Portugalpneumonia"
-region: "Hungary"
+born: 17 August 1887 in Persenbeug Castle, Melk, Lower Austria
+died: 1 April 1922 at Funchal, Madeira, Portugal of pneumonia
+birthPlace: Melk, Lower Austria
+deathPlace: Madeira, Portugalpneumonia
+region: Hungary
 feastDay:
   month: 10
   day: 21
@@ -22,8 +25,9 @@ canonizationStatus: Blessed
 vocation:
   - Priest
   - Religious
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 martyr: false
+prayers: []
 ---
 
 Son of Archduke Otto and Princess Maria Josephine of Saxony; great-nephew of Emperor Francis Joseph I. A stigmatic nun prophesied that he would be the victim of attacks and great suffering. A group of people were specifically assigned to pray for him at all times; after his death this group formed the League of Prayer of the Emperor Charles for the Peace of the Peoples (Gebetsliga Kaiser Karl für den Völkerfrieden), which became an ecclesiastically recognized prayer group in 1963. He received a strong Catholic education, and developed a strong devotion to the Holy Eucharist and the Sacred Heart of Jesus. Married Princess Zita of Bourbon and Parma on 21 October 1911. They had eight children over the next ten years.

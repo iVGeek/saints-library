@@ -1,20 +1,20 @@
 ---
-name: "Saint Cerbonius of Populonia"
+name: Saint Cerbonius of Populonia
 honorific: Saint
-summary: " His reputation for holiness spread, and Ce Raised in a Christian family in North Africa. Priest, ordained by Saint Regulus. He and most other Christians in his area fled ahead of the Vandal persecutions; he and many other moved to the Tuscany region of Italy and lived as hermits."
-image: "http://catholicsaints.info/wp-content/gallery/saint-cerbonius-of-populonia/saint-cerbonius-of-populonia.jpg"
+summary: ' His reputation for holiness spread, and Ce Raised in a Christian family in North Africa. Priest, ordained by Saint Regulus. He and most other Christians in his area fled ahead of the Vandal persecutions; he and many other moved to the Tuscany region of Italy and lived as hermits.'
+image: http://catholicsaints.info/wp-content/gallery/saint-cerbonius-of-populonia/saint-cerbonius-of-populonia.jpg
 searchAliases:
-  - "Cerbonius of Piombino"
-  - "Cerbonius of Massa Marittima"
-  - "Cerbo…"
-  - "Cerbone…"
-  - "Cerbonio…"
+  - Cerbonius of Piombino
+  - Cerbonius of Massa Marittima
+  - Cerbo…
+  - Cerbone…
+  - Cerbonio…
 birthYear: 493
 deathYear: 575
-born: "c.493 in North Africa"
-died: "575 in Elba, Italy"
-deathPlace: "Italy"
-region: "Italy"
+born: c.493 in North Africa
+died: 575 in Elba, Italy
+deathPlace: Italy
+region: Italy
 feastDay:
   month: 10
   day: 10
@@ -23,11 +23,15 @@ vocation:
   - Bishop
   - Priest
 patronage:
-  - "in Italy\n\nBaratti, Piombino"
-  - "Massa Marittima"
-  - "Massa Marittima-Piombino, diocese of"
-  - "Piombino"
+  - |-
+    in Italy
+
+    Baratti, Piombino
+  - Massa Marittima
+  - Massa Marittima-Piombino, diocese of
+  - Piombino
 martyr: false
+prayers: []
 ---
 
 Raised in a Christian family in North Africa. Priest, ordained by Saint Regulus. He and most other Christians in his area fled ahead of the Vandal persecutions; he and many other moved to the Tuscany region of Italy and lived as hermits.

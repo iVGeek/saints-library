@@ -1,19 +1,21 @@
 ---
-name: "Saint Maglorius of Wales"
+name: Saint Maglorius of Wales
 honorific: Saint
-summary: "Monk. Went to Brittany with Saint Samson of York. Abbot of Lammeur Abbey. Bishop of Dol, France. Built and retired to a monastery on Sark in the Channel Islands."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Maglorius-of-Wales.jpg"
+summary: >-
+  Monk. Went to Brittany with Saint Samson of York. Abbot of Lammeur Abbey. Bishop of Dol, France. Built and retired to
+  a monastery on Sark in the Channel Islands.
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Maglorius-of-Wales.jpg
 searchAliases:
-  - "Maglorius of Dol"
-  - "Maglorius of Maelor"
-  - "Maghorus…"
-  - "Magloire…"
-  - "Maelor…"
-  - "Maglorio…"
+  - Maglorius of Dol
+  - Maglorius of Maelor
+  - Maghorus…
+  - Magloire…
+  - Maelor…
+  - Maglorio…
 deathYear: 575
-born: "southern Wales"
-died: "c.575"
-region: "France"
+born: southern Wales
+died: c.575
+region: France
 feastDay:
   month: 10
   day: 24
@@ -24,9 +26,10 @@ vocation:
   - Monk
   - Confessor
 patronage:
-  - "Isle of Sark"
-  - "Lanmeur, France"
+  - Isle of Sark
+  - Lanmeur, France
 martyr: false
+prayers: []
 ---
 
 Monk. Went to Brittany with Saint Samson of York. Abbot of Lammeur Abbey. Bishop of Dol, France. Built and retired to a monastery on Sark in the Channel Islands.

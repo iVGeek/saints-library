@@ -1,27 +1,33 @@
 ---
-name: "Saint Artemide Zatti"
+name: Saint Artemide Zatti
 honorific: Venerable
-summary: "One of three sons born to Albino Vecchi and Luigi Zatti. His was a poor family, and the boy had to drop out of school at age nine to work for a wealthy neighbor. The family eventually immigrated to Bahia Blanca, Argentina to find work, arriving in Buenos Aires on 9 February 1897."
-image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Artemide-Zatti.jpg"
+summary: >-
+  One of three sons born to Albino Vecchi and Luigi Zatti. His was a poor family, and the boy had to drop out of school
+  at age nine to work for a wealthy neighbor. The family eventually immigrated to Bahia Blanca, Argentina to find work,
+  arriving in Buenos Aires on 9 February 1897.
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Artemide-Zatti.jpg
 searchAliases:
-  - "Artémides"
+  - Artémides
 birthYear: 1880
 deathYear: 1951
-born: "12 October 1880 at Boretto, Reggio Emilia, in northern Italy"
-died: "15 March 1951 of cancer at Bahia Blanca, Argentina"
-birthPlace: "Reggio Emilia,northern Italy"
-deathPlace: "Argentina"
-region: "Argentina"
+born: 12 October 1880 at Boretto, Reggio Emilia, in northern Italy
+died: 15 March 1951 of cancer at Bahia Blanca, Argentina
+birthPlace: Reggio Emilia,northern Italy
+deathPlace: Argentina
+region: Argentina
 feastDay:
   month: 3
   day: 15
-centuries: [19, 20]
+centuries:
+  - 19
+  - 20
 canonizationStatus: Venerable
 vocation:
   - Priest
   - Religious
-religiousOrder: "Salesian"
+religiousOrder: Salesian
 martyr: false
+prayers: []
 ---
 
 One of three sons born to Albino Vecchi and Luigi Zatti. His was a poor family, and the boy had to drop out of school at age nine to work for a wealthy neighbor. The family eventually immigrated to Bahia Blanca, Argentina to find work, arriving in Buenos Aires on 9 February 1897. There Artemide worked in a tile factory, and attended a local parochial school run by the Salesians. He felt drawn to the Salesians, and at age 20 entered their seminary, Casa di Bernal.

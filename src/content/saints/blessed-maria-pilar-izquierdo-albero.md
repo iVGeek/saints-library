@@ -1,15 +1,18 @@
 ---
-name: "Blessed Maria Pilar Izquierdo Albero"
+name: Blessed Maria Pilar Izquierdo Albero
 honorific: Blessed
-summary: "The third of five children born to Mariano, a baker, and Paola. Theirs was a poor family, and Maria was known from early youth for her love of God and her desire to serve those even poorer than herself. As a young woman, she worked at a shoe factory to help support her family. In"
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Maria-Pilar-Izquierdo-Albero-1.jpg"
+summary: >-
+  The third of five children born to Mariano, a baker, and Paola. Theirs was a poor family, and Maria was known from
+  early youth for her love of God and her desire to serve those even poorer than herself. As a young woman, she worked
+  at a shoe factory to help support her family. In
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Maria-Pilar-Izquierdo-Albero-1.jpg
 birthYear: 1906
 deathYear: 1945
-born: "27 July 1906 in Zaragoza, Spain"
-died: "27 August 1945 in San Sebastian, Guipúzcoa, Spain of natural causes"
-birthPlace: "Spain"
-deathPlace: "Guipúzcoa, Spaof natural causes"
-region: "Africa"
+born: 27 July 1906 in Zaragoza, Spain
+died: 27 August 1945 in San Sebastian, Guipúzcoa, Spain of natural causes
+birthPlace: Spain
+deathPlace: Guipúzcoa, Spaof natural causes
+region: Africa
 feastDay:
   month: 8
   day: 27
@@ -18,8 +21,9 @@ vocation:
   - Virgin
   - Missionary
 patronage:
-  - "Missionary Work of Jesus and Mary"
+  - Missionary Work of Jesus and Mary
 martyr: false
+prayers: []
 ---
 
 The third of five children born to Mariano, a baker, and Paola. Theirs was a poor family, and Maria was known from early youth for her love of God and her desire to serve those even poorer than herself. As a young woman, she worked at a shoe factory to help support her family. In 1926 she fell from a street car and fractured her hip. In 1927 she developed cysts that blinded and paralyzed her. Thus began years of shuttling between hospitals and her room in the attic. Maria devoted her time in enforced isolation to prayer, in supporting people's faith during the persecutions of the Spanish Civil War, and looking for ways that she could bring works of mercy to the world.

@@ -1,18 +1,21 @@
 ---
-name: "Blessed John Colombini"
+name: Blessed John Colombini
 honorific: Blessed
-summary: "Wealthy, greedy, ambitious, and ill-tempered son of a patrician family. Married layman, and father of two children, his son Peter and daughter Angela. First magistrate (Gonfalionere) of Siena, Italy. With his family and friends, he alternated between bouts of anger and consequent"
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-John-Colombini.jpg"
+summary: >-
+  Wealthy, greedy, ambitious, and ill-tempered son of a patrician family. Married layman, and father of two children,
+  his son Peter and daughter Angela. First magistrate (Gonfalionere) of Siena, Italy. With his family and friends, he
+  alternated between bouts of anger and consequent
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-John-Colombini.jpg
 searchAliases:
-  - "John Columbini"
-  - "Giovanni…"
+  - John Columbini
+  - Giovanni…
 birthYear: 1300
 deathYear: 1367
-born: "c.1300 at Siena, Italy"
-died: "31 July 1367 of natural causes while on the road to Acquapendente, Italy"
-birthPlace: "Italy"
-deathPlace: "Italy"
-region: "Italy"
+born: c.1300 at Siena, Italy
+died: 31 July 1367 of natural causes while on the road to Acquapendente, Italy
+birthPlace: Italy
+deathPlace: Italy
+region: Italy
 feastDay:
   month: 7
   day: 31
@@ -20,8 +23,9 @@ canonizationStatus: Blessed
 vocation:
   - Confessor
 patronage:
-  - "Siena, Italy"
+  - Siena, Italy
 martyr: false
+prayers: []
 ---
 
 Wealthy, greedy, ambitious, and ill-tempered son of a patrician family. Married layman, and father of two children, his son Peter and daughter Angela. First magistrate (Gonfalionere) of Siena, Italy. With his family and friends, he alternated between bouts of anger and consequent periods of mortification and self-loathing. Converted to the faith while reading the story of the conversion of Saint Mary of Egypt. Reformed his personal and business life; visited hospitals, tended the sick, gave to the poor, personally tending to the poorest and most forgotten in his society.

@@ -1,34 +1,36 @@
 ---
-name: "Saint John de Brito"
+name: Saint John de Brito
 honorific: Venerable
-summary: " Against the strenuous objections of his family, he volunteered for the missions in India in 1673, and was Born to the Portugese nobility, and a favourite of Don Pedro, king of Portugal. Son of the governor of Brazil. Jesuit at age 15. Studied at the University of Coimbra. Priest."
-image: "http://catholicsaints.info/wp-content/uploads/John-de-Brito.jpg"
+summary: ' Against the strenuous objections of his family, he volunteered for the missions in India in 1673, and was Born to the Portugese nobility, and a favourite of Don Pedro, king of Portugal. Son of the governor of Brazil. Jesuit at age 15. Studied at the University of Coimbra. Priest.'
+image: http://catholicsaints.info/wp-content/uploads/John-de-Brito.jpg
 searchAliases:
-  - "Apostle of Madura"
-  - "John de Britto"
-  - "Jean de…."
-  - "João de…."
+  - Apostle of Madura
+  - John de Britto
+  - Jean de….
+  - João de….
 birthYear: 1647
 deathYear: 1693
-born: "1 March 1647 at Lisbon, Portugal"
-died: "dismembered and beheaded 4 February 1693 at Oreiour, India"
-birthPlace: "Portugal"
-deathPlace: "India"
-region: "Brazil"
+born: 1 March 1647 at Lisbon, Portugal
+died: dismembered and beheaded 4 February 1693 at Oreiour, India
+birthPlace: Portugal
+deathPlace: India
+region: Brazil
 feastDay:
   month: 2
   day: 4
-centuries: [17]
+centuries:
+  - 17
 canonizationStatus: Venerable
 vocation:
   - Priest
   - Confessor
-religiousOrder: "Jesuit"
+religiousOrder: Jesuit
 patronage:
-  - "Portugal"
-  - "Sivagangai, India, diocese of"
-  - "World Youth Day 2023"
+  - Portugal
+  - Sivagangai, India, diocese of
+  - World Youth Day 2023
 martyr: true
+prayers: []
 ---
 
 Born to the Portugese nobility, and a favourite of Don Pedro, king of Portugal. Son of the governor of Brazil. Jesuit at age 15. Studied at the University of Coimbra. Priest.

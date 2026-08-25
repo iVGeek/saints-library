@@ -1,23 +1,26 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Ramiro Frías García"
+name: Blessed Ramiro Frías García
 honorific: Blessed
-summary: "Professed religious in the Brothers of the Christian Schools (De La Salle Brothers). Martyred in the Spanish Civil War."
+summary: >-
+  Professed religious in the Brothers of the Christian Schools (De La Salle Brothers). Martyred in the Spanish Civil
+  War.
 searchAliases:
-  - "Vidal Ernesto"
+  - Vidal Ernesto
 birthYear: 1906
 deathYear: 1936
-born: "13 March 1906 in Villajimena, Palencia, Spain"
-died: "28 November 1936 in Vicálvaro cemetery, Madrid, Spain"
-birthPlace: "Palencia, Spain"
-deathPlace: "Madrid, Spain"
-region: "Spain"
+born: 13 March 1906 in Villajimena, Palencia, Spain
+died: 28 November 1936 in Vicálvaro cemetery, Madrid, Spain
+birthPlace: Palencia, Spain
+deathPlace: Madrid, Spain
+region: Spain
 feastDay:
   month: 11
   day: 28
 canonizationStatus: Blessed
 vocation: []
 martyr: true
+prayers: []
 ---
 
 Professed religious in the Brothers of the Christian Schools (De La Salle Brothers). Martyred in the Spanish Civil War.

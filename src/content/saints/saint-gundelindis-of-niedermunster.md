@@ -1,17 +1,19 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Gundelindis of Niedermünster"
+name: Saint Gundelindis of Niedermünster
 honorific: Saint
-summary: "Born to the nobility, the daughter of the Duke of Alsace. Niece of Saint Odilia of Alsace. Nun. Abbess at Niedermünster Abbey, Regensburg, Germany."
+summary: >-
+  Born to the nobility, the daughter of the Duke of Alsace. Niece of Saint Odilia of Alsace. Nun. Abbess at
+  Niedermünster Abbey, Regensburg, Germany.
 searchAliases:
-  - "Gundelinda"
-  - "Guendelindis"
-  - "Gwendoline"
-  - "Gwendolyn"
-  - "Wandelindis"
+  - Gundelinda
+  - Guendelindis
+  - Gwendoline
+  - Gwendolyn
+  - Wandelindis
 deathYear: 750
-died: "c.750"
-region: "Germany"
+died: c.750
+region: Germany
 feastDay:
   month: 3
   day: 28
@@ -21,6 +23,7 @@ vocation:
   - Monk
   - Religious
 martyr: false
+prayers: []
 ---
 
 Born to the nobility, the daughter of the Duke of Alsace. Niece of Saint Odilia of Alsace. Nun. Abbess at Niedermünster Abbey, Regensburg, Germany.

@@ -1,14 +1,14 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Antonio García Fernández"
+name: Blessed Antonio García Fernández
 honorific: Blessed
-summary: "Priest in the diocese of Almería, Spain. Martyred in the Spanish Civil War."
+summary: Priest in the diocese of Almería, Spain. Martyred in the Spanish Civil War.
 deathYear: 1936
-born: "22 September (year unknown) in Piñar, Granada Spain"
-died: "8 December 1936 in El Ingenio, Almeria Spain"
-birthPlace: "Granada Spain"
-deathPlace: "Almeria Spain"
-region: "Spain"
+born: 22 September (year unknown) in Piñar, Granada Spain
+died: 8 December 1936 in El Ingenio, Almeria Spain
+birthPlace: Granada Spain
+deathPlace: Almeria Spain
+region: Spain
 feastDay:
   month: 12
   day: 8
@@ -17,6 +17,7 @@ vocation:
   - Priest
   - Cardinal
 martyr: true
+prayers: []
 ---
 
 Priest in the diocese of Almería, Spain. Martyred in the Spanish Civil War.

@@ -1,10 +1,10 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint John of Tomis"
+name: Saint John of Tomis
 honorific: Saint
-summary: "Martyr."
-died: "in Tomis, Scythia Minor (modern Constanta, Romania)"
-deathPlace: "Scythia Minor (modern Constanta, Romania)"
+summary: Martyr.
+died: in Tomis, Scythia Minor (modern Constanta, Romania)
+deathPlace: Scythia Minor (modern Constanta, Romania)
 feastDay:
   month: 7
   day: 10
@@ -12,6 +12,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Martyr.

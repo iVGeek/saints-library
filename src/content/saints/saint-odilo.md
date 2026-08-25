@@ -1,19 +1,22 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Odilo"
+name: Saint Odilo
 honorific: Saint
-summary: "Benedictine monk at Gorze, Lorraine, France. Abbot of Stavelot-Malmedy, Belgium in 945. Made his monastery an example of discipline and a center of learning in the region."
+summary: >-
+  Benedictine monk at Gorze, Lorraine, France. Abbot of Stavelot-Malmedy, Belgium in 945. Made his monastery an example
+  of discipline and a center of learning in the region.
 deathYear: 954
-died: "c.954 of natural causes"
-region: "Belgium"
+died: c.954 of natural causes
+region: Belgium
 feastDay:
   month: 10
   day: 15
 canonizationStatus: Saint
 vocation:
   - Monk
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 martyr: false
+prayers: []
 ---
 
 Benedictine monk at Gorze, Lorraine, France. Abbot of Stavelot-Malmedy, Belgium in 945. Made his monastery an example of discipline and a center of learning in the region.

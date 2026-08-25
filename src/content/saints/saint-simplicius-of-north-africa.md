@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Simplicius of North Africa"
+name: Saint Simplicius of North Africa
 honorific: Saint
-summary: "One of a group of Christians martyred in the persecutions of Decius and Valerian. No other information has survived."
+summary: One of a group of Christians martyred in the persecutions of Decius and Valerian. No other information has survived.
 deathYear: 255
-died: "c.255 in North Africa"
-region: "Africa"
+died: c.255 in North Africa
+region: Africa
 feastDay:
   month: 12
   day: 18
@@ -13,6 +13,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 One of a group of Christians martyred in the persecutions of Decius and Valerian. No other information has survived.

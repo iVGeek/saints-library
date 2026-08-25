@@ -65,7 +65,7 @@ prayers:
       O Saint Scholastica, who overcame even your holy brother by the strength of your love, teach us to pray with a
       love that cannot be refused. Obtain for us constancy in the religious life and in every vocation, unity among
       those who serve God, and the grace to prefer the voice of the Lord to every other. Amen.
-  - name: Novena to Saint Scholastica
+  - name: Novena to Saint Scholastica of Nursia
     kind: Novena — nine-day prayer for religious life
     text: >-
       O Saint Scholastica, twin sister of Saint Benedict and foundress of monastic life for women, I turn to you in this

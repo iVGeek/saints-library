@@ -1,14 +1,14 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed José Gomez De Haro"
+name: Blessed José Gomez De Haro
 honorific: Blessed
-summary: "Priest in the diocese of Almería, Spain. Martyred in the Spanish Civil War."
+summary: Priest in the diocese of Almería, Spain. Martyred in the Spanish Civil War.
 deathYear: 1936
-born: "in Vera, Almeria Spain"
-died: "30 August 1936 in La Ballabona, Antas, Almeria Spain"
-birthPlace: "Almeria Spain"
-deathPlace: "Antas, Almeria Spain"
-region: "Spain"
+born: in Vera, Almeria Spain
+died: 30 August 1936 in La Ballabona, Antas, Almeria Spain
+birthPlace: Almeria Spain
+deathPlace: Antas, Almeria Spain
+region: Spain
 feastDay:
   month: 8
   day: 30
@@ -17,6 +17,7 @@ vocation:
   - Priest
   - Cardinal
 martyr: true
+prayers: []
 ---
 
 Priest in the diocese of Almería, Spain. Martyred in the Spanish Civil War.

@@ -22,6 +22,7 @@ vocation:
   - Missionary
 religiousOrder: Jesuit
 martyr: true
+prayers: []
 ---
 
 Jesuit priest. Missionary to Japan. Martyr.

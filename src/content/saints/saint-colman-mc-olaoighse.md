@@ -1,11 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Colman Mc O'Laoighse"
+name: Saint Colman Mc O'Laoighse
 honorific: Saint
-summary: "Sixth-century spiritual student of Saint Columba and Saint Fintan of Clonenagh. Founded a monastery in Oughaval, Ireland, and served as its first abbot. A church at Stradbally, Ireland is dedicated to him."
+summary: >-
+  Sixth-century spiritual student of Saint Columba and Saint Fintan of Clonenagh. Founded a monastery in Oughaval,
+  Ireland, and served as its first abbot. A church at Stradbally, Ireland is dedicated to him.
 searchAliases:
-  - "Columbanus Mc O'Laoighse"
-region: "Ireland"
+  - Columbanus Mc O'Laoighse
+region: Ireland
 feastDay:
   month: 5
   day: 15
@@ -13,6 +15,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: false
+prayers: []
 ---
 
 Sixth-century spiritual student of Saint Columba and Saint Fintan of Clonenagh. Founded a monastery in Oughaval, Ireland, and served as its first abbot. A church at Stradbally, Ireland is dedicated to him.

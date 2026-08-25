@@ -1,13 +1,15 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Jonas"
+name: Saint Jonas
 honorific: Saint
-summary: "Disciple of Saint Dionysius of Paris. Priest. Evangelized near Paris, France. Marytred by order of the Roman prefect Julian."
+summary: >-
+  Disciple of Saint Dionysius of Paris. Priest. Evangelized near Paris, France. Marytred by order of the Roman prefect
+  Julian.
 searchAliases:
-  - "Yon"
-died: "flogged and stabbed with a sword c.3rd century at Paris, France"
-deathPlace: "France"
-region: "France"
+  - Yon
+died: flogged and stabbed with a sword c.3rd century at Paris, France
+deathPlace: France
+region: France
 feastDay:
   month: 9
   day: 22
@@ -16,6 +18,7 @@ vocation:
   - Priest
   - Monk
 martyr: false
+prayers: []
 ---
 
 Disciple of Saint Dionysius of Paris. Priest. Evangelized near Paris, France. Marytred by order of the Roman prefect Julian.

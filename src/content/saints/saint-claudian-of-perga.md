@@ -17,6 +17,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/8/84/Ephesus_Celsus_Library_Fa%C3%A7ade.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Claudian of Perga
 imageCreditUrl: https://en.wikipedia.org/wiki/Ephesus
+prayers: []
 ---
 
 Shepherd. Martyred in the persecutions of Decius.

@@ -1,12 +1,12 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Modestus the Deacon"
+name: Saint Modestus the Deacon
 honorific: Saint
-summary: "Deacon. Martyred in the persecutions of Diocletian."
+summary: Deacon. Martyred in the persecutions of Diocletian.
 deathYear: 304
-born: "Sardinia (part of modern Italy)"
-died: "c.304"
-region: "Italy"
+born: Sardinia (part of modern Italy)
+died: c.304
+region: Italy
 feastDay:
   month: 2
   day: 12
@@ -15,6 +15,7 @@ vocation:
   - Monk
   - Deacon
 martyr: true
+prayers: []
 ---
 
 Deacon. Martyred in the persecutions of Diocletian.

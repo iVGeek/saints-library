@@ -1,23 +1,24 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed François-Urbain Salins de Niart"
+name: Blessed François-Urbain Salins de Niart
 honorific: Blessed
-summary: "Priest of the diocese of Pamiers, France. One of the Martyrs of September."
+summary: Priest of the diocese of Pamiers, France. One of the Martyrs of September.
 birthYear: 1760
 deathYear: 1792
-born: "23 May 1760 in Neuf-Brisach, Haut-Rhin, France"
-died: "2 September 1792 at the Hôtel des Carmes, Paris, France"
-birthPlace: "Haut-Rhin, France"
-deathPlace: "Paris, France"
-region: "France"
+born: 23 May 1760 in Neuf-Brisach, Haut-Rhin, France
+died: 2 September 1792 at the Hôtel des Carmes, Paris, France
+birthPlace: Haut-Rhin, France
+deathPlace: Paris, France
+region: France
 feastDay:
   month: 9
   day: 2
 canonizationStatus: Blessed
 vocation:
   - Priest
-religiousOrder: "Carmelite"
+religiousOrder: Carmelite
 martyr: true
+prayers: []
 ---
 
 Priest of the diocese of Pamiers, France. One of the Martyrs of September.

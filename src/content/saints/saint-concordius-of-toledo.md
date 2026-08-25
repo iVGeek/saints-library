@@ -1,13 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Concordius of Toledo"
+name: Saint Concordius of Toledo
 honorific: Saint
-summary: "8th-century archbishop of Toledo, Spain."
+summary: 8th-century archbishop of Toledo, Spain.
 searchAliases:
-  - "Concordio"
+  - Concordio
 deathYear: 745
-died: "c.745"
-region: "Spain"
+died: c.745
+region: Spain
 feastDay:
   month: 7
   day: 1
@@ -16,6 +16,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 8th-century archbishop of Toledo, Spain.

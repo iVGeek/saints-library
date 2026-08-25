@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Primus of Cyzicus"
+name: Saint Primus of Cyzicus
 honorific: Saint
-summary: "Soldier in the Roman army. Martyr."
+summary: Soldier in the Roman army. Martyr.
 deathYear: 320
-died: "320 at Cyzicus on the Hellespont"
-region: "England"
+died: 320 at Cyzicus on the Hellespont
+region: England
 feastDay:
   month: 1
   day: 3
@@ -14,6 +14,7 @@ vocation:
   - Monk
   - Soldier
 martyr: true
+prayers: []
 ---
 
 Soldier in the Roman army. Martyr.

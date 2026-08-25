@@ -1,9 +1,9 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Edwen of Northumbria"
+name: Saint Edwen of Northumbria
 honorific: Saint
-summary: "Seventh century consecrated virgin. Daughter of Saint Edwin of Northumbria."
-region: "England"
+summary: Seventh century consecrated virgin. Daughter of Saint Edwin of Northumbria.
+region: England
 feastDay:
   month: 11
   day: 6
@@ -13,8 +13,9 @@ vocation:
   - Monk
   - Religious
 patronage:
-  - "Llanedwen, Anglesey, Wales"
+  - Llanedwen, Anglesey, Wales
 martyr: false
+prayers: []
 ---
 
 Seventh century consecrated virgin. Daughter of Saint Edwin of Northumbria.

@@ -1,12 +1,12 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Valerius of Caesarea"
+name: Saint Valerius of Caesarea
 honorific: Saint
-summary: "Archdeacon of Jerusalem. Martyred in the persecutions of Galerius."
+summary: Archdeacon of Jerusalem. Martyred in the persecutions of Galerius.
 deathYear: 309
-died: "309 at Caesarea, Palestine"
-deathPlace: "Palestine"
-region: "Holy Land"
+died: 309 at Caesarea, Palestine
+deathPlace: Palestine
+region: Holy Land
 feastDay:
   month: 6
   day: 1
@@ -15,6 +15,7 @@ vocation:
   - Monk
   - Deacon
 martyr: true
+prayers: []
 ---
 
 Archdeacon of Jerusalem. Martyred in the persecutions of Galerius.

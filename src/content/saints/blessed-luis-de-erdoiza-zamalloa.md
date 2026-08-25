@@ -1,17 +1,17 @@
 ---
-name: "Blessed Luis de Erdoiza Zamalloa"
+name: Blessed Luis de Erdoiza Zamalloa
 honorific: Blessed
-summary: "Trinitarian priest. Martyred in the Spanish Civil War."
-image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Luis-de-Erdoiza-Zamalloa.jpg"
+summary: Trinitarian priest. Martyred in the Spanish Civil War.
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Luis-de-Erdoiza-Zamalloa.jpg
 searchAliases:
-  - "Father Luis of Saint Michael of the Saints"
+  - Father Luis of Saint Michael of the Saints
 birthYear: 1891
 deathYear: 1936
-born: "25 August 1891 in Amorebieta, Vizcaya, Spain"
-died: "24 September 1936 in Cuenca, Spain"
-birthPlace: "Vizcaya, Spain"
-deathPlace: "Spain"
-region: "Spain"
+born: 25 August 1891 in Amorebieta, Vizcaya, Spain
+died: 24 September 1936 in Cuenca, Spain
+birthPlace: Vizcaya, Spain
+deathPlace: Spain
+region: Spain
 feastDay:
   month: 9
   day: 24
@@ -19,6 +19,7 @@ canonizationStatus: Blessed
 vocation:
   - Priest
 martyr: true
+prayers: []
 ---
 
 Trinitarian priest. Martyred in the Spanish Civil War.

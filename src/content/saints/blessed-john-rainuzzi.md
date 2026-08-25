@@ -1,19 +1,20 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed John Rainuzzi"
+name: Blessed John Rainuzzi
 honorific: Blessed
-summary: "Benedictine monk at Saint Margaret's monastery at Todi, Italy. Noted for his charity."
+summary: Benedictine monk at Saint Margaret's monastery at Todi, Italy. Noted for his charity.
 deathYear: 1330
-died: "c.1330"
-region: "Italy"
+died: c.1330
+region: Italy
 feastDay:
   month: 6
   day: 8
 canonizationStatus: Blessed
 vocation:
   - Monk
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 martyr: false
+prayers: []
 ---
 
 Benedictine monk at Saint Margaret's monastery at Todi, Italy. Noted for his charity.

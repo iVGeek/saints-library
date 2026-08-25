@@ -1,15 +1,18 @@
 ---
-name: "Saint Abercius Marcellus"
+name: Saint Abercius Marcellus
 honorific: Saint
-summary: "Resident of Phrygia Salutaris. Bishop of Hierapolis (an area of modern southwestern Turkey). Active missionary in his region. He was imprisoned for a period as a threat to civil order for opposing paganism. At age 72 he was summoned to Rome, Italy to exorcise a demon from Lucilla"
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Abercius-Marcellus.jpg"
+summary: >-
+  Resident of Phrygia Salutaris. Bishop of Hierapolis (an area of modern southwestern Turkey). Active missionary in his
+  region. He was imprisoned for a period as a threat to civil order for opposing paganism. At age 72 he was summoned to
+  Rome, Italy to exorcise a demon from Lucilla
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Abercius-Marcellus.jpg
 searchAliases:
-  - "Abercius of Geropoli"
-  - "Abercius of Hieropolis"
-  - "Abercio…"
+  - Abercius of Geropoli
+  - Abercius of Hieropolis
+  - Abercio…
 deathYear: 200
-died: "c.200 of natural causes"
-region: "Italy"
+died: c.200 of natural causes
+region: Italy
 feastDay:
   month: 10
   day: 22
@@ -19,6 +22,7 @@ vocation:
   - Monk
   - Missionary
 martyr: false
+prayers: []
 ---
 
 Resident of Phrygia Salutaris. Bishop of Hierapolis (an area of modern southwestern Turkey). Active missionary in his region. He was imprisoned for a period as a threat to civil order for opposing paganism. At age 72 he was summoned to Rome, Italy to exorcise a demon from Lucilla, daughter of Emperor Marcus Aurelius; he succeeded, and then returned to his see. He composed his own epitaph, making references of traditions still practised today.

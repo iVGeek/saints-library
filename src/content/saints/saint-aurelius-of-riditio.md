@@ -29,6 +29,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/3/3a/Raban-Maur_Alcuin_Otgar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Aurelius of Riditio
 imageCreditUrl: https://en.wikipedia.org/wiki/Otgar%20of%20Mainz
+prayers: []
 ---
 
 When Saint Dionysius of Milan was driven from his diocese by Arians, he fled to Armenia where he was befriended by Aurelius. When Dionysius died, Aurelius took his remains back to Milan where he remained as a friend to Saint Ambrose of Milan. Bishop of Riditio in Armenia.

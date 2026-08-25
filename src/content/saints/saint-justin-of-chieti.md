@@ -1,11 +1,11 @@
 ---
-name: "Saint Justin of Chieti"
+name: Saint Justin of Chieti
 honorific: Saint
-summary: "Bishop of Chieti, Italy."
-image: "https://upload.wikimedia.org/wikipedia/commons/5/52/Cripta_San_Giustino_Ch-3.jpg"
+summary: Bishop of Chieti, Italy.
+image: https://upload.wikimedia.org/wikipedia/commons/5/52/Cripta_San_Giustino_Ch-3.jpg
 deathYear: 540
-died: "c.540"
-region: "Italy"
+died: c.540
+region: Italy
 feastDay:
   month: 1
   day: 1
@@ -14,9 +14,10 @@ vocation:
   - Bishop
   - Monk
 patronage:
-  - "Chieti, Italy, city of"
-  - "Chieti-Vasto, Italy, archdiocese of"
+  - Chieti, Italy, city of
+  - Chieti-Vasto, Italy, archdiocese of
 martyr: false
+prayers: []
 ---
 
 Bishop of Chieti, Italy.

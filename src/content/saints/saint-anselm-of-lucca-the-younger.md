@@ -1,17 +1,20 @@
 ---
-name: "Saint Anselm of Lucca the Younger"
+name: Saint Anselm of Lucca the Younger
 honorific: Saint
-summary: "Nephew of Pope Alexander II. Bishop of Lucca, Italy in 1073. Due to a dispute over imperial investiture, Anselm initially refused to accept the regalia of his office from Emperor Henry IV, but later gave in and accepted. He retired to lived as a Benedictine monk in a Cluniac mona"
-image: "http://catholicsaints.info/wp-content/uploads/Anslem-the-Young-of-Lucca.jpg"
+summary: >-
+  Nephew of Pope Alexander II. Bishop of Lucca, Italy in 1073. Due to a dispute over imperial investiture, Anselm
+  initially refused to accept the regalia of his office from Emperor Henry IV, but later gave in and accepted. He
+  retired to lived as a Benedictine monk in a Cluniac mona
+image: http://catholicsaints.info/wp-content/uploads/Anslem-the-Young-of-Lucca.jpg
 searchAliases:
-  - "Anselm II"
+  - Anselm II
 birthYear: 1036
 deathYear: 1086
-born: "1036 at Mantua, Italy"
-died: "18 March 1086 at Mantua, Italy of natural causes"
-birthPlace: "Italy"
-deathPlace: "Italynatural causes"
-region: "Italy"
+born: 1036 at Mantua, Italy
+died: 18 March 1086 at Mantua, Italy of natural causes
+birthPlace: Italy
+deathPlace: Italynatural causes
+region: Italy
 feastDay:
   month: 3
   day: 18
@@ -20,11 +23,12 @@ vocation:
   - Bishop
   - Priest
   - Confessor
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 patronage:
-  - "against colic"
-  - "Mantua, Italy"
+  - against colic
+  - Mantua, Italy
 martyr: false
+prayers: []
 ---
 
 Nephew of Pope Alexander II. Bishop of Lucca, Italy in 1073. Due to a dispute over imperial investiture, Anselm initially refused to accept the regalia of his office from Emperor Henry IV, but later gave in and accepted. He retired to lived as a Benedictine monk in a Cluniac monastery of Polirone in San Benedetto Po, Italy.

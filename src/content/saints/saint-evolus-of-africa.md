@@ -1,18 +1,19 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Evolus of Africa"
+name: Saint Evolus of Africa
 honorific: Saint
-summary: "Martyr. No other information has survived."
+summary: Martyr. No other information has survived.
 deathYear: 254
-died: "254 in Africa, exact location and date unknown"
-deathPlace: "exact location and date unknown"
-region: "Africa"
+died: 254 in Africa, exact location and date unknown
+deathPlace: exact location and date unknown
+region: Africa
 feastDay:
   month: 3
   day: 5
 canonizationStatus: Saint
 vocation: []
 martyr: true
+prayers: []
 ---
 
 Martyr. No other information has survived.

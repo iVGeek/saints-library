@@ -30,6 +30,7 @@ religiousOrder: Franciscan
 patronage:
   - Leonessa, Italy
 martyr: false
+prayers: []
 ---
 
 Third of eight children born to John Desideri, a wool merchant, and Serafina Paolini. His parents died when the boy was 12 years old, and he was raised and educated by his uncle Battista Desideri, a teacher in Viterbo, Italy. Desideri arranged a marriage for Eufranio with a local noble family, but the young man felt a call to religious life. Worry over his vocation, and fear of hurting his uncle, made Eufranio sick; he returned to Leonessa, Italy to recover. There he met, and was greatly impressed by, a group of Capuchin monks. When Eufranio told his uncle of his desire to join them, Desideri insisted that he continue his studies.

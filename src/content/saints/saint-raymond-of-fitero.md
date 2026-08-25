@@ -26,6 +26,7 @@ vocation:
   - Soldier
 religiousOrder: Benedictine
 martyr: false
+prayers: []
 ---
 
 Priest. Canon of the cathedral of Tarazona, Spain. Cistercian monk at the Escaladieu Abbey in Gascony, France. Founded the abbey of Fitero in Spanish Navarre, and served as its first abbot. Founded the Benedictine and Cistercian military Order of Calatrava to defend Calatrava la Vieja, Spain from invading Moors after the city was abandoned by the Knights Templar.

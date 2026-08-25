@@ -16,6 +16,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/a/a1/Portrait_of_Saint_Aurea.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Felix of Ostia
 imageCreditUrl: https://en.wikipedia.org/wiki/Aurea%20of%20Ostia
+prayers: []
 ---
 
 Martyr honoured in Ostia, Italy.

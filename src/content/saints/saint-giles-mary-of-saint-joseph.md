@@ -1,37 +1,43 @@
 ---
-name: "Saint Giles Mary-of-Saint-Joseph"
+name: Saint Giles Mary-of-Saint-Joseph
 honorific: Venerable
-summary: "Born to a pious family and raised in a small village. When his father died in 1747, Francesco took up the trade of rope maker to support his mother and siblings. Drawn to a religious life, he applied to the Discalced Friars Minor of Saint Peter of Alcantara at Naples, Italy in 17"
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Giles-Mary-of-Saint-Joseph.jpg"
+summary: >-
+  Born to a pious family and raised in a small village. When his father died in 1747, Francesco took up the trade of
+  rope maker to support his mother and siblings. Drawn to a religious life, he applied to the Discalced Friars Minor of
+  Saint Peter of Alcantara at Naples, Italy in 17
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Giles-Mary-of-Saint-Joseph.jpg
 searchAliases:
-  - "Aegidius Mary of Saint Joseph Pontillo"
-  - "Egidio Maria de Saint Giuseppe"
-  - "Egidio Maria da Taranto"
-  - "Egidio Maria of Saint Joseph"
-  - "Francesco Postillo"
-  - "Francis Pontillo"
-  - "Idzi Maria od św. Józefa"
-  - "Saint of the Little Way"
+  - Aegidius Mary of Saint Joseph Pontillo
+  - Egidio Maria de Saint Giuseppe
+  - Egidio Maria da Taranto
+  - Egidio Maria of Saint Joseph
+  - Francesco Postillo
+  - Francis Pontillo
+  - Idzi Maria od św. Józefa
+  - Saint of the Little Way
 birthYear: 1729
 deathYear: 1812
-born: "16 November 1729 at Taranto, Apulia, Italy as Francis Pontillo"
-died: "7 February 1812 at Naples, Italy of natural causes while at prayer"
-birthPlace: "Apulia, Italy as Francis Pontillo"
-deathPlace: "Italynatural causes while at prayer"
-region: "France"
+born: 16 November 1729 at Taranto, Apulia, Italy as Francis Pontillo
+died: 7 February 1812 at Naples, Italy of natural causes while at prayer
+birthPlace: Apulia, Italy as Francis Pontillo
+deathPlace: Italynatural causes while at prayer
+region: France
 feastDay:
   month: 2
   day: 7
-centuries: [18, 19]
+centuries:
+  - 18
+  - 19
 canonizationStatus: Venerable
 vocation:
   - Virgin
   - Bishop
   - Priest
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 patronage:
-  - "Taranto, Italy (chosen on 29 June 1919 by Archbishop Orazio Mazzella of Taranto"
+  - Taranto, Italy (chosen on 29 June 1919 by Archbishop Orazio Mazzella of Taranto
 martyr: false
+prayers: []
 ---
 
 Born to a pious family and raised in a small village. When his father died in 1747, Francesco took up the trade of rope maker to support his mother and siblings. Drawn to a religious life, he applied to the Discalced Friars Minor of Saint Peter of Alcantara at Naples, Italy in 1754 at age 25. He wished to become a priest, but lacked the education, and was received as a lay brother.

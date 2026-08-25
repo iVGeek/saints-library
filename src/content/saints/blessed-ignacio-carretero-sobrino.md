@@ -1,15 +1,15 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Ignacio Carretero Sobrino"
+name: Blessed Ignacio Carretero Sobrino
 honorific: Blessed
-summary: "Priest of the diocese of Córdoba, Spain, serving in the Cañada del Gamo community. Martyred in the Spanish Civil War."
+summary: Priest of the diocese of Córdoba, Spain, serving in the Cañada del Gamo community. Martyred in the Spanish Civil War.
 birthYear: 1879
 deathYear: 1936
-born: "1 February 1879 in Hinojosa del Duque, Córdoba, Spain"
-died: "21 September 1936  in Granja de Torrehermosa, Badajoz, Spain"
-birthPlace: "Córdoba, Spain"
-deathPlace: "Badajoz, Spain"
-region: "Spain"
+born: 1 February 1879 in Hinojosa del Duque, Córdoba, Spain
+died: 21 September 1936  in Granja de Torrehermosa, Badajoz, Spain
+birthPlace: Córdoba, Spain
+deathPlace: Badajoz, Spain
+region: Spain
 feastDay:
   month: 9
   day: 21
@@ -18,6 +18,7 @@ vocation:
   - Priest
   - Cardinal
 martyr: true
+prayers: []
 ---
 
 Priest of the diocese of Córdoba, Spain, serving in the Cañada del Gamo community. Martyred in the Spanish Civil War.

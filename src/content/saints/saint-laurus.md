@@ -17,6 +17,7 @@ image: >-
 vocation:
   - Monk
 martyr: false
+prayers: []
 ---
 
 Founded the monastery later known as Saint-Léry, on the River Doneff in Brittany, France.

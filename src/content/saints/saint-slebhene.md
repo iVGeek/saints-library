@@ -1,14 +1,14 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Slebhene"
+name: Saint Slebhene
 honorific: Saint
-summary: "Monk. Abbot of Iona, Scotland from 752 to 767."
+summary: Monk. Abbot of Iona, Scotland from 752 to 767.
 searchAliases:
-  - "Slebhine"
+  - Slebhine
 deathYear: 767
-born: "Ireland"
-died: "767"
-region: "Scotland"
+born: Ireland
+died: '767'
+region: Scotland
 feastDay:
   month: 3
   day: 2
@@ -16,6 +16,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: false
+prayers: []
 ---
 
 Monk. Abbot of Iona, Scotland from 752 to 767.

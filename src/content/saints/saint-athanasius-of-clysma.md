@@ -18,6 +18,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/47/St_Frumentius.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Athanasius of Clysma
 imageCreditUrl: https://en.wikipedia.org/wiki/Frumentius
+prayers: []
 ---
 
 High government official in 4th century Egypt, he was revealed to be a Christian when he was discovered at Christmas Mass at Clysma, Egypt in the area of the Suez Gulf. Imprisoned and eventually executed for his faith. Martyr.

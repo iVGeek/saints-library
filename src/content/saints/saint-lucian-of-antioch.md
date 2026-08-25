@@ -27,6 +27,7 @@ canonizationStatus: Saint
 vocation:
   - Priest
 martyr: true
+prayers: []
 ---
 
 Following the death of his wealthy parents, Lucian gave away his possessions, and studied rhetoric, philosophy, and Scripture under Macarius at Edessa. Lived as a hermit briefly in his youth. Ordained in Antioch. Spiritual director of Saint Pelagia of Antioch.

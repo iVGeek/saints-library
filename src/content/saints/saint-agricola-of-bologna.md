@@ -1,14 +1,20 @@
 ---
-name: "Saint Agricola of Bologna"
+name: Saint Agricola of Bologna
 honorific: Saint
-summary: "During the persecutions of Diocletian, Agricola witnessed the martyrdom of Saint Vitalis of Bologna; the courage of Vitalis led Agricola to stand up for his own faith. Martyr."
-image: "http://catholicsaints.info/wp-content/uploads/img-Santi-Vitale-e-Agricola.jpg"
+summary: >-
+  During the persecutions of Diocletian, Agricola witnessed the martyrdom of Saint Vitalis of Bologna; the courage of
+  Vitalis led Agricola to stand up for his own faith. Martyr.
+image: http://catholicsaints.info/wp-content/uploads/img-Santi-Vitale-e-Agricola.jpg
 searchAliases:
-  - "Aregle of Bologna"
+  - Aregle of Bologna
 deathYear: 304
-died: "murdered (possibly crucified) c.304 in Bologna, Italy\nburied in the Jewish cemetery in Bologna"
-deathPlace: "Italy\nburiedthe Jewish cemetery in Bologna"
-region: "Italy"
+died: |-
+  murdered (possibly crucified) c.304 in Bologna, Italy
+  buried in the Jewish cemetery in Bologna
+deathPlace: |-
+  Italy
+  buriedthe Jewish cemetery in Bologna
+region: Italy
 feastDay:
   month: 11
   day: 4
@@ -17,6 +23,7 @@ vocation:
   - Priest
   - Monk
 martyr: true
+prayers: []
 ---
 
 During the persecutions of Diocletian, Agricola witnessed the martyrdom of Saint Vitalis of Bologna; the courage of Vitalis led Agricola to stand up for his own faith. Martyr.

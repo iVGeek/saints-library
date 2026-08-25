@@ -1,13 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Arator of Alexandria"
+name: Saint Arator of Alexandria
 honorific: Saint
-summary: "Priest. Martyr. No other information has survived."
+summary: Priest. Martyr. No other information has survived.
 searchAliases:
-  - "Aristo"
-died: "Alexandria, Egypt"
-deathPlace: "Egypt"
-region: "England"
+  - Aristo
+died: Alexandria, Egypt
+deathPlace: Egypt
+region: England
 feastDay:
   month: 4
   day: 21
@@ -16,6 +16,7 @@ vocation:
   - Priest
   - Monk
 martyr: true
+prayers: []
 ---
 
 Priest. Martyr. No other information has survived.

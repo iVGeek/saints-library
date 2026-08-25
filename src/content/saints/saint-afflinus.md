@@ -1,8 +1,8 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Afflinus"
+name: Saint Afflinus
 honorific: Saint
-summary: "Bishop. No other information has survived."
+summary: Bishop. No other information has survived.
 feastDay:
   month: 1
   day: 8
@@ -11,6 +11,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Bishop. No other information has survived.

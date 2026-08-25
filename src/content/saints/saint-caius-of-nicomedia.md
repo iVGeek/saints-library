@@ -19,6 +19,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/5/52/Gervaseandprotase.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Caius of Nicomedia
 imageCreditUrl: https://en.wikipedia.org/wiki/Gervasius%20and%20Protasius
+prayers: []
 ---
 
 One of a group of 15 Christian soldiers who were tortured and martyred in the persecutions of Diocletian.

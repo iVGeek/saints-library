@@ -1,13 +1,13 @@
 ---
-name: "Saint Philadelphus of Lentini"
+name: Saint Philadelphus of Lentini
 honorific: Saint
-summary: "Brother of Saint Alphius and Saint Cyrinus. Martyred in the persecutions of Decius."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Philadelphus-of-Lentini.jpg"
+summary: Brother of Saint Alphius and Saint Cyrinus. Martyred in the persecutions of Decius.
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Philadelphus-of-Lentini.jpg
 searchAliases:
-  - "Filadelfo"
-born: "Sicily, Italy"
-birthPlace: "Italy"
-region: "Italy"
+  - Filadelfo
+born: Sicily, Italy
+birthPlace: Italy
+region: Italy
 feastDay:
   month: 5
   day: 10
@@ -15,9 +15,10 @@ canonizationStatus: Saint
 vocation:
   - Monk
 patronage:
-  - "Lentini, Sicily, Italy"
-  - "Trecastagni, Sicily, Italy"
+  - Lentini, Sicily, Italy
+  - Trecastagni, Sicily, Italy
 martyr: true
+prayers: []
 ---
 
 Brother of Saint Alphius and Saint Cyrinus. Martyred in the persecutions of Decius.

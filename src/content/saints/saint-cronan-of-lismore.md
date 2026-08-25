@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Cronan of Lismore"
+name: Saint Cronan of Lismore
 honorific: Saint
-summary: "Monk. Abbot of Lismore Abbey."
+summary: Monk. Abbot of Lismore Abbey.
 deathYear: 717
-died: "717 of natural causes"
-region: "England"
+died: 717 of natural causes
+region: England
 feastDay:
   month: 6
   day: 1
@@ -13,6 +13,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: false
+prayers: []
 ---
 
 Monk. Abbot of Lismore Abbey.

@@ -1,15 +1,15 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Francisco Bejarano Fernández"
+name: Blessed Francisco Bejarano Fernández
 honorific: Blessed
-summary: "Priest of the diocese of Córdoba, Spain, serving in the Añora community. Martyred in the Spanish Civil War."
+summary: Priest of the diocese of Córdoba, Spain, serving in the Añora community. Martyred in the Spanish Civil War.
 birthYear: 1877
 deathYear: 1938
-born: "1 June 1877 in Añora, Córdoba, Spain"
-died: "26 February 1938 from abuse suffered in prison in Daimiel, Ciudad Real, Spain"
-birthPlace: "Córdoba, Spain"
-deathPlace: "Ciudad Real, Spain"
-region: "Spain"
+born: 1 June 1877 in Añora, Córdoba, Spain
+died: 26 February 1938 from abuse suffered in prison in Daimiel, Ciudad Real, Spain
+birthPlace: Córdoba, Spain
+deathPlace: Ciudad Real, Spain
+region: Spain
 feastDay:
   month: 2
   day: 26
@@ -18,6 +18,7 @@ vocation:
   - Priest
   - Cardinal
 martyr: true
+prayers: []
 ---
 
 Priest of the diocese of Córdoba, Spain, serving in the Añora community. Martyred in the Spanish Civil War.

@@ -19,6 +19,7 @@ vocation:
   - Priest
   - Monk
 martyr: false
+prayers: []
 ---
 
 Married. Father of Saint Agricola of Avignon. Governor of Avignon, France. Widower. Monk at Lérins Abbey. Bishop of Lérins, France.

@@ -30,6 +30,7 @@ vocation:
 patronage:
   - Bolzano, Italy
 martyr: false
+prayers: []
 ---
 
 Born poor, Henry was a married lay man and father who worked as a day labourer. However, when his wife and child died young, Henry completely lost interest in a worldly life. He continued to work as a labourer, giving away everything he could spare. He never learned to read or write, but attended daily Mass, worked to help those even poorer than himself, and spent his spare time in prayer. In his later years he became a beggar, asking alms and giving away all that he did not need.

@@ -1,22 +1,25 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Ulrik of Obermarchtal"
+name: Blessed Ulrik of Obermarchtal
 honorific: Blessed
-summary: "Premonstratensian canon at the Mönchsrot monastery in Memmingen, Germany. In 1171 he was assigned to the Obermarchtal Premonstratensian house in Swabia, Germany, and in 1179 was chosen its prior."
+summary: >-
+  Premonstratensian canon at the Mönchsrot monastery in Memmingen, Germany. In 1171 he was assigned to the Obermarchtal
+  Premonstratensian house in Swabia, Germany, and in 1179 was chosen its prior.
 searchAliases:
-  - "Ulric"
-  - "Ulrich"
+  - Ulric
+  - Ulrich
 deathYear: 1187
-born: "early 12th century Germany"
-died: "26 February 1187 in Swabia, Germany of natural causes"
-deathPlace: "Germanynatural causes"
-region: "Germany"
+born: early 12th century Germany
+died: 26 February 1187 in Swabia, Germany of natural causes
+deathPlace: Germanynatural causes
+region: Germany
 feastDay:
   month: 2
   day: 26
 canonizationStatus: Blessed
 vocation: []
 martyr: false
+prayers: []
 ---
 
 Premonstratensian canon at the Mönchsrot monastery in Memmingen, Germany. In 1171 he was assigned to the Obermarchtal Premonstratensian house in Swabia, Germany, and in 1179 was chosen its prior.

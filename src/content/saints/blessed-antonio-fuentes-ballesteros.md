@@ -1,15 +1,15 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Antonio Fuentes Ballesteros"
+name: Blessed Antonio Fuentes Ballesteros
 honorific: Blessed
-summary: "Priest in the diocese of Almeria Spain. Martyred in the Spanish Civil War."
+summary: Priest in the diocese of Almeria Spain. Martyred in the Spanish Civil War.
 birthYear: 1887
 deathYear: 1936
-born: "2 November 1887 in Mojácar, Almeria Spain"
-died: "2 October 1936 in El Portazgo, Los Gallardos, Almeria Spain"
-birthPlace: "Almeria Spain"
-deathPlace: "Los Gallardos, Almeria Spain"
-region: "Spain"
+born: 2 November 1887 in Mojácar, Almeria Spain
+died: 2 October 1936 in El Portazgo, Los Gallardos, Almeria Spain
+birthPlace: Almeria Spain
+deathPlace: Los Gallardos, Almeria Spain
+region: Spain
 feastDay:
   month: 10
   day: 2
@@ -18,6 +18,7 @@ vocation:
   - Priest
   - Cardinal
 martyr: true
+prayers: []
 ---
 
 Priest in the diocese of Almeria Spain. Martyred in the Spanish Civil War.

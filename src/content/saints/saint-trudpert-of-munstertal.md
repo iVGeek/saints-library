@@ -1,16 +1,19 @@
 ---
-name: "Saint Trudpert of Münstertal"
+name: Saint Trudpert of Münstertal
 honorific: Saint
-summary: "Abbot. Following a pilgrimage to Rome, he became a missionary hermit at Münstertal, Germany. Legend says that some workers, paid by a local lord to clear difficult land to establish a foundation for Trudpert, were fed up with the hard work and killed Trudpert to end the job. Cons"
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Trudpert.jpg"
+summary: >-
+  Abbot. Following a pilgrimage to Rome, he became a missionary hermit at Münstertal, Germany. Legend says that some
+  workers, paid by a local lord to clear difficult land to establish a foundation for Trudpert, were fed up with the
+  hard work and killed Trudpert to end the job. Cons
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Trudpert.jpg
 searchAliases:
-  - "Trudpert of Ménstethal"
-  - "Trudbert…"
-  - "Trupbertus…"
+  - Trudpert of Ménstethal
+  - Trudbert…
+  - Trupbertus…
 deathYear: 644
-died: "c.644 at Münstertal, Germany"
-deathPlace: "Germany"
-region: "Germany"
+died: c.644 at Münstertal, Germany
+deathPlace: Germany
+region: Germany
 feastDay:
   month: 4
   day: 26
@@ -20,6 +23,7 @@ vocation:
   - Hermit
   - Missionary
 martyr: true
+prayers: []
 ---
 
 Abbot. Following a pilgrimage to Rome, he became a missionary hermit at Münstertal, Germany. Legend says that some workers, paid by a local lord to clear difficult land to establish a foundation for Trudpert, were fed up with the hard work and killed Trudpert to end the job. Considered a martyr.

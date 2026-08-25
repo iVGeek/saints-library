@@ -1,17 +1,18 @@
 ---
-name: "Blessed William de Sanjulia"
+name: Blessed William de Sanjulia
 honorific: Blessed
-summary: "Mercedarian friar and evangelist."
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-William-de-Sanjulia.jpg"
-died: "buried in Mercedarian priory church at Barcelona, Spain"
-deathPlace: "Spain"
-region: "Spain"
+summary: Mercedarian friar and evangelist.
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-William-de-Sanjulia.jpg
+died: buried in Mercedarian priory church at Barcelona, Spain
+deathPlace: Spain
+region: Spain
 feastDay:
   month: 1
   day: 14
 canonizationStatus: Blessed
 vocation: []
 martyr: false
+prayers: []
 ---
 
 Mercedarian friar and evangelist.

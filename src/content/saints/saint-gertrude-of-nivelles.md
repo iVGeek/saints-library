@@ -57,6 +57,7 @@ patronage:
   - Wetteren
   - Zandvliet
 martyr: false
+prayers: []
 ---
 
 Younger daughter of Saint Pepin of Landen and Saint Ida of Nivelles; sister of Saint Begga of Ardenne. Devoted to her faith from an early age, she turned down a noble marriage to pursue the religious life. Following the death of Pepin in 639, and on the advice of Saint Amand of Maastricht, Ida built a double monastery at Nivelles where both she and her daughter retired. Gertrude became abbess about age 20.

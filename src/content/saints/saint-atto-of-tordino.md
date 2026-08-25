@@ -19,6 +19,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/49/Pescara_-_foce_del_fiume_vista_dal_ponte_del_mare.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Atto of Tordino
 imageCreditUrl: https://en.wikipedia.org/wiki/History%20of%20Pescara
+prayers: []
 ---
 
 Benedictine monk. First Abbot of Tordino Abbey near Teramo, Italy in 1004.

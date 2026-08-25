@@ -1,15 +1,17 @@
 ---
-name: "Saint Theodoric of Orleans"
+name: Saint Theodoric of Orleans
 honorific: Saint
-summary: "Benedictine monk at Saint-Pierre-le-Vif monastery, Sens, France. Royal counselor. Bishop of Orleans, France. Died while on pilgrimage to the tombs of the Apostles in Rome, Italy."
-image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Theodoric-Bishop.jpg"
+summary: >-
+  Benedictine monk at Saint-Pierre-le-Vif monastery, Sens, France. Royal counselor. Bishop of Orleans, France. Died
+  while on pilgrimage to the tombs of the Apostles in Rome, Italy.
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Theodoric-Bishop.jpg
 searchAliases:
-  - "Theodoric II"
-  - "Teodorico"
+  - Theodoric II
+  - Teodorico
 deathYear: 1022
-died: "1022 in Tonnerre, Burgundy, France of natural causes"
-deathPlace: "Burgundy, Francenatural causes"
-region: "France"
+died: 1022 in Tonnerre, Burgundy, France of natural causes
+deathPlace: Burgundy, Francenatural causes
+region: France
 feastDay:
   month: 1
   day: 27
@@ -18,8 +20,9 @@ vocation:
   - Bishop
   - Priest
   - Monk
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 martyr: false
+prayers: []
 ---
 
 Benedictine monk at Saint-Pierre-le-Vif monastery, Sens, France. Royal counselor. Bishop of Orleans, France. Died while on pilgrimage to the tombs of the Apostles in Rome, Italy.

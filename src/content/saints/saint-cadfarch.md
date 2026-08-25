@@ -18,6 +18,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/7/70/Overlooking_Montgomery.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Cadfarch of Wales
 imageCreditUrl: https://en.wikipedia.org/wiki/Montgomery%2C%20Powys
+prayers: []
 ---
 
 Sixth-century spiritual student of Saint Iltyd. Founded churches in Penegoes and Abererch in Wales.

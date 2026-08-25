@@ -1,13 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Mariana of Britonia"
+name: Saint Mariana of Britonia
 honorific: Saint
-summary: "Martyred nun."
+summary: Martyred nun.
 searchAliases:
-  - "Marina"
-died: "in Britonia, Asturias (in modern Spain)"
-deathPlace: "Asturias (modern Spain)"
-region: "Spain"
+  - Marina
+died: in Britonia, Asturias (in modern Spain)
+deathPlace: Asturias (modern Spain)
+region: Spain
 feastDay:
   month: 3
   day: 10
@@ -15,6 +15,7 @@ canonizationStatus: Saint
 vocation:
   - Religious
 martyr: true
+prayers: []
 ---
 
 Martyred nun.

@@ -1,16 +1,17 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Agatonico of Thrace"
+name: Saint Agatonico of Thrace
 honorific: Saint
-summary: "Martyr."
-died: "3rd century Thrace"
-region: "England"
+summary: Martyr.
+died: 3rd century Thrace
+region: England
 feastDay:
   month: 8
   day: 21
 canonizationStatus: Saint
 vocation: []
 martyr: true
+prayers: []
 ---
 
 Martyr.

@@ -26,6 +26,7 @@ vocation:
   - Virgin
   - Religious
 martyr: false
+prayers: []
 ---
 
 Born to the imperial Roman nobility, the daughter of emperor Constantine I and Fausta; the granddaughter of emperor Maximian; the sister of emperors Constantine II, Constantius II and Constans I. Married for political reasons to Hannibalian in 335, she was the mother of two daughters, Attica and Artemia, and was widowed in 337 when Hannibalian was murdered in one of the palace purges. Married to Caesar Constantius Gallus in 350, they were the parents of Anastasia.

@@ -1,21 +1,23 @@
 ---
-name: "Saint Gonzaga Gonza"
+name: Saint Gonzaga Gonza
 honorific: Venerable
-summary: "Mpologoma clan. Convert. One of the Martyrs of Uganda who died in the Mwangan persecutions."
-image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Uganda.jpg"
+summary: Mpologoma clan. Convert. One of the Martyrs of Uganda who died in the Mwangan persecutions.
+image: http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Uganda.jpg
 deathYear: 1886
-born: "at Busoga, Uganda"
-died: "beheaded on 27 May 1886 at Lubowa, Uganda"
-birthPlace: "Uganda"
-deathPlace: "Uganda"
-region: "Africa"
+born: at Busoga, Uganda
+died: beheaded on 27 May 1886 at Lubowa, Uganda
+birthPlace: Uganda
+deathPlace: Uganda
+region: Africa
 feastDay:
   month: 5
   day: 27
-centuries: [19]
+centuries:
+  - 19
 canonizationStatus: Venerable
 vocation: []
 martyr: true
+prayers: []
 ---
 
 Mpologoma clan. Convert. One of the Martyrs of Uganda who died in the Mwangan persecutions.

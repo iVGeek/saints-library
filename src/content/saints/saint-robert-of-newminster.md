@@ -21,6 +21,7 @@ vocation:
   - Monk
 religiousOrder: Benedictine
 martyr: false
+prayers: []
 ---
 
 Studied at the University of Paris. Wrote a commentary on the Psalms, but it has been lost. Parish priest at Gargrave, England, and later a Benedictine monk at Whitby, England. With his abbot's permission, he joined the founders of the Cistercian monastery of Fountains Abbey in 1132. He headed the first Cistercian colony sent from Fountains in 1138. He established the abbey of Newminster near the castle of Ralph de Merlay, one in Morpeth, England, one in Pipewell, England in 1143, one in Roche, Cornwall in 1147, and another in Sawley, Lancashire, England in 1148. Friend of Saint Godric of Finchale. Reputed to have had supernatural gifts, received visions, and suffered encounters with demons.

@@ -15,6 +15,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/9/9c/SaintPeterTheMartyr.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Alexander of Verona
 imageCreditUrl: https://en.wikipedia.org/wiki/Peter%20of%20Verona
+prayers: []
 ---
 
 Eighth century bishop of Verona, Italy.

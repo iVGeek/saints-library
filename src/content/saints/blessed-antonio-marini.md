@@ -15,6 +15,7 @@ feastDay:
 canonizationStatus: Blessed
 vocation: []
 martyr: false
+prayers: []
 ---
 
 Mercedarian friar. He earned a doctorate in theology from the University of Paris. Blessed Antonio was noted for his combination of learning and piety.

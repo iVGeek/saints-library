@@ -22,6 +22,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/1/1d/Saint_Avit_sculpture.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Felix of Vienne
 imageCreditUrl: https://en.wikipedia.org/wiki/Avitus%20of%20Vienne
+prayers: []
 ---
 
 Priest. Sent by Saint Irenaeus of Lyons to evangelize around Vienne, France. Martyr.

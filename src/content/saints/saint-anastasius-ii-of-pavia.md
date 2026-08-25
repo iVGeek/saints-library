@@ -19,6 +19,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/3/32/Tafel_paepste.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Anastasius II of Pavia
 imageCreditUrl: https://en.wikipedia.org/wiki/Pope%20Hormisdas
+prayers: []
 ---
 
 A follower of the Arian heresy, he converted to orthodox Christianity and eventually became bishop of Pavia, Italy in 668.

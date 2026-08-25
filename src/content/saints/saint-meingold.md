@@ -1,14 +1,17 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Meingold"
+name: Saint Meingold
 honorific: Saint
-summary: "Member of a noble family of Liege, Belgium, the County of Huy, Belgium. Known for his personal holiness. Assassinated while returning from a pilgrimage; the killers cared nothing about his faith, and killed him for purely political reasons."
+summary: >-
+  Member of a noble family of Liege, Belgium, the County of Huy, Belgium. Known for his personal holiness. Assassinated
+  while returning from a pilgrimage; the killers cared nothing about his faith, and killed him for purely political
+  reasons.
 searchAliases:
-  - "Mengold"
-  - "Meingaud"
+  - Mengold
+  - Meingaud
 deathYear: 892
-died: "murdered in 892"
-region: "Belgium"
+died: murdered in 892
+region: Belgium
 feastDay:
   month: 2
   day: 8
@@ -16,9 +19,10 @@ canonizationStatus: Saint
 vocation:
   - Monk
 patronage:
-  - "bakers"
-  - "Huy, Belgium"
+  - bakers
+  - Huy, Belgium
 martyr: false
+prayers: []
 ---
 
 Member of a noble family of Liege, Belgium, the County of Huy, Belgium. Known for his personal holiness. Assassinated while returning from a pilgrimage; the killers cared nothing about his faith, and killed him for purely political reasons.

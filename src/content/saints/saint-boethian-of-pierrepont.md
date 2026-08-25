@@ -1,12 +1,14 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Boethian of Pierrepont"
+name: Saint Boethian of Pierrepont
 honorific: Saint
-summary: "Seventh century spiritual student of Saint Fursey of Perrone. Built the Pierrepont Monastery near Laon, France. Murdered by some locals for preaching against their vices. Martyr."
-born: "Ireland"
-died: "near Laon, France"
-deathPlace: "France"
-region: "France"
+summary: >-
+  Seventh century spiritual student of Saint Fursey of Perrone. Built the Pierrepont Monastery near Laon, France.
+  Murdered by some locals for preaching against their vices. Martyr.
+born: Ireland
+died: near Laon, France
+deathPlace: France
+region: France
 feastDay:
   month: 5
   day: 22
@@ -14,8 +16,9 @@ canonizationStatus: Saint
 vocation:
   - Monk
 patronage:
-  - "sick children"
+  - sick children
 martyr: true
+prayers: []
 ---
 
 Seventh century spiritual student of Saint Fursey of Perrone. Built the Pierrepont Monastery near Laon, France. Murdered by some locals for preaching against their vices. Martyr.

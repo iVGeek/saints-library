@@ -32,6 +32,7 @@ patronage:
   - –
   - Salisbury, England
 martyr: false
+prayers: []
 ---
 
 Son of Henry, count of Seez, Normandy, France. He received a good education, and became count of Seez in his own turn. Companion of William the Conqueror, and part of the force that invaded England in 1066.

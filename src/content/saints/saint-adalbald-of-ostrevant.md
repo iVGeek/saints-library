@@ -33,6 +33,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/0/08/S._Richtrudis.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Adalbald of Ostrevant
 imageCreditUrl: https://en.wikipedia.org/wiki/Rictrude
+prayers: []
 ---
 
 Born to the nobility of Flanders, Belgium. Son of Saint Gertrude the Elder. Duke of Douai, France. Served in the courts of King Dagobert I and King Clovis II. While suppressing a rebellion in Gascony, he met and married Saint Rictrude of Marchiennes, daughter of Ernold. Though they were happy together, they fought constant opposition from her family who opposed his military incursion in their region. Father of Saint Maurontius of Douai, Saint Clotsindis of Marchiennes, Saint Eusebia of Hamage, and Saint Adalsindis. Adalbald and Rictrudis dedicated themselves and their fortunes to religious projects and care of the poor.

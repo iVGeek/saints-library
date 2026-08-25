@@ -26,6 +26,7 @@ imageCredit: >-
   <a rel="nofollow" class="external free"
   href="http://www.kulturpool.at/plugins/kulturpool/showitem.action?itemId=17179958276&amp;kupoContext=default">http://www.kulturpool.at/plugins/kulturpool/showitem.action?itemId=17179958276&amp;kupoContext=default</a>
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:Clementia%20of%20Habsburg.jpg
+prayers: []
 ---
 
 Born to the nobility, the daughter of Count Adolph of Hohenburg in modern Germany. She was married to Count Crafto of Spanheim. Benedictine nun at Oehren abbey in Trier, Germany. Records vary on whether her husband died, freeing her for religious life, or if he became a Benedictine monk.

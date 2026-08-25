@@ -22,6 +22,7 @@ canonizationStatus: Blessed
 vocation:
   - Cardinal
 martyr: false
+prayers: []
 ---
 
 A lifelong lay woman in the diocese of Rimini, Italy, she was the daughter of Giuseppi and Agnese Bonin Sabattini and had one brother. A pious girl, Alessandra made her First Communion on 3 May 1970, was Confirmed on 16 April 1972, and joined the Associazione Comunita Papal Giovanni XXIII (Pope John XXIII Community) at the age of 12.

@@ -30,6 +30,7 @@ religiousOrder: Franciscan
 patronage:
   - pharmacists (proclaimed on 8 August 2006 by Pope Benedict XVI)
 martyr: false
+prayers: []
 ---
 
 Worked as a pharmacist's apprentice while studying for the priesthood. After ordination on 22 December 1572, he worked with prisoners and the sick. His example attracted some young laymen to assist him, most of whom became priests themselves. This group formed Clerks Regular of the Mother of God of Lucca, a congregation of diocesan priests which, for reasons having to do with the politics of the Reformation and an unfounded accusation that John wanted to form the group for his own personal aggrandizement, provoked great opposition. The Clerks were confirmed on 13 October 1595 by Pope Clement VIII, but John was exiled from Lucca for most of the rest of his life. John was assisted in his exile by Saint Philip Neri, who gave him his quarters – and his pet cat!

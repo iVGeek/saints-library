@@ -1,17 +1,17 @@
 ---
-name: "Blessed Giovanni Licci"
+name: Blessed Giovanni Licci
 honorific: Blessed
-summary: " John's father, who fed the baby on crushed pomegranates, had to work the fields, and was forced to leave the infant alone. The baby began crying, and a neighbor Born to a poor farmer, John's mother died in childbirth. His life from then on, all 111 years, was a tale of miracles."
-image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Giovanni-Licci.jpg"
+summary: ' John''s father, who fed the baby on crushed pomegranates, had to work the fields, and was forced to leave the infant alone. The baby began crying, and a neighbor Born to a poor farmer, John''s mother died in childbirth. His life from then on, all 111 years, was a tale of miracles.'
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Giovanni-Licci.jpg
 searchAliases:
-  - "John Licci"
-  - "John Liccio"
+  - John Licci
+  - John Liccio
 birthYear: 1400
 deathYear: 1511
-born: "1400 at Caccamo, diocese of Palermo, Sicily, Italy"
-died: "14 November 1511 of natural causes"
-birthPlace: "diocesePalermo, Sicily, Italy"
-region: "Italy"
+born: 1400 at Caccamo, diocese of Palermo, Sicily, Italy
+died: 14 November 1511 of natural causes
+birthPlace: diocesePalermo, Sicily, Italy
+region: Italy
 feastDay:
   month: 11
   day: 14
@@ -19,12 +19,13 @@ canonizationStatus: Blessed
 vocation:
   - Priest
   - Religious
-religiousOrder: "Dominican"
+religiousOrder: Dominican
 patronage:
-  - "against head injuries"
-  - "Caccamo, Italy"
-  - "Redemptoris Mater Seminary, Uzhhorod, Ukraine"
+  - against head injuries
+  - Caccamo, Italy
+  - Redemptoris Mater Seminary, Uzhhorod, Ukraine
 martyr: false
+prayers: []
 ---
 
 Born to a poor farmer, John's mother died in childbirth. His life from then on, all 111 years, was a tale of miracles.

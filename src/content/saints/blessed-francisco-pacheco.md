@@ -27,6 +27,7 @@ vocation:
   - Missionary
 religiousOrder: Jesuit
 martyr: true
+prayers: []
 ---
 
 Born to the Portugese nobility. Joined the Jesuit in 1592. Priest. Missionary to the Far East in 1598, first in India, then Macao, and finally in 1604 in Japan. He returned to Macao to direct the Jesuit Institute, then back to Japan, and then was exiled in the first wave of an anti–Christian persecution. He immediately returned to Japan to assist his fellow missionaries and minister to covert Catholics, living for a while with Blessed Mancius Araki Kyuzaburo. Imprisoned, abused and finally executed for his continued work for the faith. Martyr.

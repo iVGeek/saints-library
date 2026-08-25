@@ -1,18 +1,21 @@
 ---
-name: "Saint Medard of Noyon"
+name: Saint Medard of Noyon
 honorific: Saint
-summary: "Son of Nectardus, a Frankish noble, and Protagia, Gallo-Roman nobility. Brother of Saint Gildardus, Bishop of Rouen, France. Pious youth and excellent student, educated at Saint-Quentin. Often accompanied his father on business to Vermand, France and to Tournai, Belgium, and freq"
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Medard-of-Noyon.jpg"
+summary: >-
+  Son of Nectardus, a Frankish noble, and Protagia, Gallo-Roman nobility. Brother of Saint Gildardus, Bishop of Rouen,
+  France. Pious youth and excellent student, educated at Saint-Quentin. Often accompanied his father on business to
+  Vermand, France and to Tournai, Belgium, and freq
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Medard-of-Noyon.jpg
 searchAliases:
-  - "Medardo"
-  - "Medardus"
+  - Medardo
+  - Medardus
 birthYear: 456
 deathYear: 545
-born: "c.456 at Salency, Picardy, France"
-died: "8 June 545 at Noyon, France of natural causes"
-birthPlace: "Picardy, France"
-deathPlace: "Francenatural causes"
-region: "Belgium"
+born: c.456 at Salency, Picardy, France
+died: 8 June 545 at Noyon, France of natural causes
+birthPlace: Picardy, France
+deathPlace: Francenatural causes
+region: Belgium
 feastDay:
   month: 6
   day: 8
@@ -21,26 +24,27 @@ vocation:
   - Bishop
   - Priest
   - Confessor
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 patronage:
-  - "against bad weather"
-  - "against imprisonment"
-  - "against sterility"
-  - "against toothache"
-  - "for good harvests"
-  - "for good weather"
-  - "for rain"
-  - "captives"
-  - "imprisoned people"
-  - "mentally ill people"
-  - "peasants"
-  - "prisoners"
-  - "vineyards"
-  - "brewers"
-  - "farmers"
-  - "Arcevia, Italy"
-  - "Noyon, France"
+  - against bad weather
+  - against imprisonment
+  - against sterility
+  - against toothache
+  - for good harvests
+  - for good weather
+  - for rain
+  - captives
+  - imprisoned people
+  - mentally ill people
+  - peasants
+  - prisoners
+  - vineyards
+  - brewers
+  - farmers
+  - Arcevia, Italy
+  - Noyon, France
 martyr: false
+prayers: []
 ---
 
 Son of Nectardus, a Frankish noble, and Protagia, Gallo-Roman nobility. Brother of Saint Gildardus, Bishop of Rouen, France. Pious youth and excellent student, educated at Saint-Quentin. Often accompanied his father on business to Vermand, France and to Tournai, Belgium, and frequented the schools there. Ordained at age 33.

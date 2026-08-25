@@ -1,18 +1,21 @@
 ---
-name: "Blessed Columba of Rieti"
+name: Blessed Columba of Rieti
 honorific: Blessed
-summary: "Legend says that at her birth, angels gathered around Columba's house to sing. During her Baptism, a dove suddenly flew down to the font. From that point on, no one used her by her given name (Angelella = little angel), but called her Columba (= dove). She was raised in a poor bu"
-image: "https://upload.wikimedia.org/wikipedia/commons/f/f2/Columba_of_Rieti.jpg"
+summary: >-
+  Legend says that at her birth, angels gathered around Columba's house to sing. During her Baptism, a dove suddenly
+  flew down to the font. From that point on, no one used her by her given name (Angelella = little angel), but called
+  her Columba (= dove). She was raised in a poor bu
+image: https://upload.wikimedia.org/wikipedia/commons/f/f2/Columba_of_Rieti.jpg
 searchAliases:
-  - "Angelella Guardagnoli"
-  - "Colomba of Rieti"
+  - Angelella Guardagnoli
+  - Colomba of Rieti
 birthYear: 1467
 deathYear: 1501
-born: "2 February 1467 at Rieti, Umbria, Italy as Angelella Guardagnoli"
-died: "20 May 1501 at Perguia, Italy of natural causes"
-birthPlace: "Umbria, Italy as Angelella Guardagnoli"
-deathPlace: "Italynatural causes"
-region: "Peru"
+born: 2 February 1467 at Rieti, Umbria, Italy as Angelella Guardagnoli
+died: 20 May 1501 at Perguia, Italy of natural causes
+birthPlace: Umbria, Italy as Angelella Guardagnoli
+deathPlace: Italynatural causes
+region: Peru
 feastDay:
   month: 5
   day: 20
@@ -21,15 +24,19 @@ vocation:
   - Virgin
   - Priest
   - Religious
-religiousOrder: "Dominican"
+religiousOrder: Dominican
 patronage:
-  - "against magic"
-  - "against sorcery"
-  - "against temptation"
-  - "–"
-  - "in Italy\n\nPerugia"
-  - "Rieti"
+  - against magic
+  - against sorcery
+  - against temptation
+  - –
+  - |-
+    in Italy
+
+    Perugia
+  - Rieti
 martyr: false
+prayers: []
 ---
 
 Legend says that at her birth, angels gathered around Columba's house to sing. During her Baptism, a dove suddenly flew down to the font. From that point on, no one used her by her given name (Angelella = little angel), but called her Columba (= dove). She was raised in a poor but pious family; her parents gave away nearly everything thing they had to people even poorer than themselves. As a small girl Columba learned to spin and sew; she and her mother repaired the clothes of the local Dominicans. Educated by Dominican nuns.

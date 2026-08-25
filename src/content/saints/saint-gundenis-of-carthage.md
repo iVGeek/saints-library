@@ -1,13 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Gundenis of Carthage"
+name: Saint Gundenis of Carthage
 honorific: Saint
-summary: "Maiden martyred in the persecutions of Septimus Severus."
+summary: Maiden martyred in the persecutions of Septimus Severus.
 searchAliases:
-  - "Gundenes"
+  - Gundenes
 deathYear: 203
-died: "203 at Carthage (modern Tunis, Tunisia)"
-deathPlace: "Tunisia)"
+died: 203 at Carthage (modern Tunis, Tunisia)
+deathPlace: Tunisia)
 feastDay:
   month: 7
   day: 18
@@ -15,6 +15,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Maiden martyred in the persecutions of Septimus Severus.

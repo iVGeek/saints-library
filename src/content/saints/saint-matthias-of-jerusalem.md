@@ -1,11 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Matthias of Jerusalem"
+name: Saint Matthias of Jerusalem
 honorific: Saint
-summary: "Bishop of Jerusalem during a period of oppression by the Roman government, Jewish opposition, and general political upheaval in Palestine."
+summary: >-
+  Bishop of Jerusalem during a period of oppression by the Roman government, Jewish opposition, and general political
+  upheaval in Palestine.
 deathYear: 120
-died: "120 of natural causes"
-region: "Holy Land"
+died: 120 of natural causes
+region: Holy Land
 feastDay:
   month: 1
   day: 30
@@ -14,6 +16,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Bishop of Jerusalem during a period of oppression by the Roman government, Jewish opposition, and general political upheaval in Palestine.

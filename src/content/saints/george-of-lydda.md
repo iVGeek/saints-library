@@ -62,7 +62,7 @@ prayers:
       O Saint George, valiant soldier of Christ, who faced the dragon of evil and overcame it by your faith, be our
       defender in the battles of daily life. Guard our soldiers and all who serve the common good; protect our families
       and our nations; and obtain for us the courage to resist whatever would enslave the soul. Amen.
-  - name: Novena to Saint George
+  - name: Novena to Saint George of Lydda
     kind: Novena — nine-day prayer for courage and victory
     text: >-
       O glorious Saint George, soldier of Christ and dragon-slayer, I turn to you in this novena seeking your powerful

@@ -1,21 +1,22 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Cyrinus of Antwerp"
+name: Saint Cyrinus of Antwerp
 honorific: Saint
-summary: "Martyr."
+summary: Martyr.
 searchAliases:
-  - "Cirino"
-died: "Rome, Italy, date unknown"
-deathPlace: "Italy, date unknown"
-region: "Italy"
+  - Cirino
+died: Rome, Italy, date unknown
+deathPlace: Italy, date unknown
+region: Italy
 feastDay:
   month: 6
   day: 12
 canonizationStatus: Saint
 vocation:
   - Monk
-religiousOrder: "Jesuit"
+religiousOrder: Jesuit
 martyr: true
+prayers: []
 ---
 
 Martyr.

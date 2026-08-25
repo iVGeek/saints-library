@@ -1,24 +1,30 @@
 ---
-name: "Saint Cristobal Magallanes Jara"
+name: Saint Cristobal Magallanes Jara
 honorific: Venerable
-summary: "Born to a farm family, and worked as a shepherd in his youth. He entered the seminary at 19, and served as parish priest at Totatiche, Mexico. Helped found schools, a newspaper, catechism centers for children and adults, carpentry shops, and an electric plant to power the mills."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Cristobal-Magallanes-Jara.jpg"
+summary: >-
+  Born to a farm family, and worked as a shepherd in his youth. He entered the seminary at 19, and served as parish
+  priest at Totatiche, Mexico. Helped found schools, a newspaper, catechism centers for children and adults, carpentry
+  shops, and an electric plant to power the mills.
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Cristobal-Magallanes-Jara.jpg
 birthYear: 1869
 deathYear: 1927
-born: "30 July 1869 in La Sementera, Totatiche, Jalisco, Mexico"
-died: "shot on 25 May 1927 at Colotlán, Jalisco, Mexico"
-birthPlace: "Totatiche, Jalisco, Mexico"
-deathPlace: "Jalisco, Mexico"
-region: "Mexico"
+born: 30 July 1869 in La Sementera, Totatiche, Jalisco, Mexico
+died: shot on 25 May 1927 at Colotlán, Jalisco, Mexico
+birthPlace: Totatiche, Jalisco, Mexico
+deathPlace: Jalisco, Mexico
+region: Mexico
 feastDay:
   month: 5
   day: 25
-centuries: [19, 20]
+centuries:
+  - 19
+  - 20
 canonizationStatus: Venerable
 vocation:
   - Priest
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 martyr: true
+prayers: []
 ---
 
 Born to a farm family, and worked as a shepherd in his youth. He entered the seminary at 19, and served as parish priest at Totatiche, Mexico. Helped found schools, a newspaper, catechism centers for children and adults, carpentry shops, and an electric plant to power the mills. Worked with the indigenous people to form agrarian cooperatives with the town's people. Noted for his devotion to Our Lady.

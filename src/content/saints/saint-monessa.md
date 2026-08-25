@@ -1,12 +1,12 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Monessa"
+name: Saint Monessa
 honorific: Saint
-summary: "Daughter of an Irish chieftain. Virgin convert of Saint Patrick. She died immediately upon being baptised."
+summary: Daughter of an Irish chieftain. Virgin convert of Saint Patrick. She died immediately upon being baptised.
 deathYear: 456
-born: "5th century Irish"
-died: "456"
-region: "Ireland"
+born: 5th century Irish
+died: '456'
+region: Ireland
 feastDay:
   month: 9
   day: 4
@@ -15,6 +15,7 @@ vocation:
   - Virgin
   - Monk
 martyr: false
+prayers: []
 ---
 
 Daughter of an Irish chieftain. Virgin convert of Saint Patrick. She died immediately upon being baptised.

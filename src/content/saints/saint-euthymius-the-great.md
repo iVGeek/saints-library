@@ -21,6 +21,7 @@ vocation:
   - Bishop
   - Priest
 martyr: false
+prayers: []
 ---
 
 May have been an orphan as he was educated at the home of the Bishop Orteus of Melitine, Armenia (modern Malatya, Turkey). Saint Polyeuctus of Melitine was a friend of his family, and one of Euthymius' spiritual directors. Ordained c.396. Monk. Bishop's deputy for monasteries in the Melitine diocese.

@@ -1,19 +1,21 @@
 ---
-name: "Blessed Pauline of Thuringia"
+name: Blessed Pauline of Thuringia
 honorific: Blessed
-summary: "Born to the Saxon nobility. Married. Widow. Re-married to Sir Ulric de Scharaplan. Mother. Widowed again. Founded a double monastery in the Thuringian Forest and entered it as a nun."
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Pauline-of-Thuringia.jpg"
+summary: >-
+  Born to the Saxon nobility. Married. Widow. Re-married to Sir Ulric de Scharaplan. Mother. Widowed again. Founded a
+  double monastery in the Thuringian Forest and entered it as a nun.
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Pauline-of-Thuringia.jpg
 searchAliases:
-  - "Pauline of Fulda"
-  - "Pauline of Hirsau"
-  - "Pauline of Münsterschwarzach"
-  - "Pauline of Zell"
-  - "Paolina"
-  - "Paulina"
+  - Pauline of Fulda
+  - Pauline of Hirsau
+  - Pauline of Münsterschwarzach
+  - Pauline of Zell
+  - Paolina
+  - Paulina
 deathYear: 1107
-died: "14 March 1107 in Fulda, Germany of natural causes"
-deathPlace: "Germanynatural causes"
-region: "Germany"
+died: 14 March 1107 in Fulda, Germany of natural causes
+deathPlace: Germanynatural causes
+region: Germany
 feastDay:
   month: 3
   day: 14
@@ -22,6 +24,7 @@ vocation:
   - Religious
   - Soldier
 martyr: false
+prayers: []
 ---
 
 Born to the Saxon nobility. Married. Widow. Re-married to Sir Ulric de Scharaplan. Mother. Widowed again. Founded a double monastery in the Thuringian Forest and entered it as a nun.

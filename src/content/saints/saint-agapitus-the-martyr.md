@@ -1,33 +1,39 @@
 ---
-name: "Saint Agapitus the Martyr"
+name: Saint Agapitus the Martyr
 honorific: Saint
-summary: " Because he was a young man, and because the heroic way he met his martyrdom brought about many conversions, his was a f Born to an imperial patrician family. At fifteen years of age, the boy proudly, publicly proclaimed his Christianity during the persecution of Aurelian. Martyr."
-image: "http://catholicsaints.info/wp-content/uploads/img-Pictorial-Saint-Agapetus.jpg"
+summary: ' Because he was a young man, and because the heroic way he met his martyrdom brought about many conversions, his was a f Born to an imperial patrician family. At fifteen years of age, the boy proudly, publicly proclaimed his Christianity during the persecution of Aurelian. Martyr.'
+image: http://catholicsaints.info/wp-content/uploads/img-Pictorial-Saint-Agapetus.jpg
 searchAliases:
-  - "Agapitus of Palestrina"
-  - "Agapitus of Praeneste"
-  - "Agapetus…"
-  - "Agapito…"
+  - Agapitus of Palestrina
+  - Agapitus of Praeneste
+  - Agapetus…
+  - Agapito…
 birthYear: 259
-born: "259 in Palestrina, Italy"
-died: "thrown to wild animals in the arena"
-birthPlace: "Italy"
-region: "Italy"
+born: 259 in Palestrina, Italy
+died: thrown to wild animals in the arena
+birthPlace: Italy
+region: Italy
 feastDay:
   month: 8
   day: 18
 canonizationStatus: Saint
 vocation:
   - Priest
-religiousOrder: "Jesuit"
+religiousOrder: Jesuit
 patronage:
-  - "against colic\n–"
-  - "in Italy\n\nLombardore"
-  - "Maggiora"
-  - "Palestrina"
-  - "Rocca Sinibalda"
-  - "Sant'Agapito"
+  - |-
+    against colic
+    –
+  - |-
+    in Italy
+
+    Lombardore
+  - Maggiora
+  - Palestrina
+  - Rocca Sinibalda
+  - Sant'Agapito
 martyr: true
+prayers: []
 ---
 
 Born to an imperial patrician family. At fifteen years of age, the boy proudly, publicly proclaimed his Christianity during the persecution of Aurelian. Martyr.

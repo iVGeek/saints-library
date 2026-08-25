@@ -1,15 +1,16 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Quarto of Capua"
+name: Saint Quarto of Capua
 honorific: Saint
-summary: "Martyr."
-region: "Italy"
+summary: Martyr.
+region: Italy
 feastDay:
   month: 10
   day: 7
 canonizationStatus: Saint
 vocation: []
 martyr: true
+prayers: []
 ---
 
 Martyr.

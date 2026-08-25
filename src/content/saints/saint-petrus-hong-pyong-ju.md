@@ -1,24 +1,27 @@
 ---
-name: "Saint Petrus Hong Pyong-Ju"
+name: Saint Petrus Hong Pyong-Ju
 honorific: Venerable
-summary: "Lay catechist in the apostolic vicariate of Korea. Martyr."
-image: "http://catholicsaints.info/wp-content/uploads/img-Maryrs-of-Korea.jpg"
+summary: Lay catechist in the apostolic vicariate of Korea. Martyr.
+image: http://catholicsaints.info/wp-content/uploads/img-Maryrs-of-Korea.jpg
 searchAliases:
-  - "Peteuro Hong Byeong-Ju"
+  - Peteuro Hong Byeong-Ju
 birthYear: 1799
 deathYear: 1840
-born: "1799 in Sosan, Chungcheong-do, South Korea"
-died: "beheaded on 31 January 1840 in Dangkogae, Seoul, South Korea"
-birthPlace: "Chungcheong-do, South Korea"
-deathPlace: "Seoul, South Korea"
-region: "Korea"
+born: 1799 in Sosan, Chungcheong-do, South Korea
+died: beheaded on 31 January 1840 in Dangkogae, Seoul, South Korea
+birthPlace: Chungcheong-do, South Korea
+deathPlace: Seoul, South Korea
+region: Korea
 feastDay:
   month: 1
   day: 31
-centuries: [18, 19]
+centuries:
+  - 18
+  - 19
 canonizationStatus: Venerable
 vocation: []
 martyr: true
+prayers: []
 ---
 
 Lay catechist in the apostolic vicariate of Korea. Martyr.

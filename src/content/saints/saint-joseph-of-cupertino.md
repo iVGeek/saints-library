@@ -42,6 +42,7 @@ patronage:
   - Cupertino, Italy
   - Osimo, Italy
 martyr: false
+prayers: []
 ---
 
 Joseph's father, Felice Desa was a poor carpenter who died before the boy was born. Creditors drove his mother, Francesca Panara, from her home, and Joseph was born in a stable. Starting at age eight, he received ecstatic visions that left him gaping and staring into space. He had a hot temper, which his strict mother worked to overcome.

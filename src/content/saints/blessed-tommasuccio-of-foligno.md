@@ -1,23 +1,24 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Tommasuccio of Foligno"
+name: Blessed Tommasuccio of Foligno
 honorific: Blessed
-summary: "Franciscan friar. Noted preacher in the Italian regions of Tuscany and Umbria."
+summary: Franciscan friar. Noted preacher in the Italian regions of Tuscany and Umbria.
 searchAliases:
-  - "Tommasuccio of Nocera"
+  - Tommasuccio of Nocera
 birthYear: 1319
-born: "1319 in Nocera, Italy"
-died: "Foligno, Italy of natural causes"
-birthPlace: "Italy"
-deathPlace: "Italynatural causes"
-region: "Italy"
+born: 1319 in Nocera, Italy
+died: Foligno, Italy of natural causes
+birthPlace: Italy
+deathPlace: Italynatural causes
+region: Italy
 feastDay:
   month: 9
   day: 15
 canonizationStatus: Blessed
 vocation: []
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 martyr: false
+prayers: []
 ---
 
 Franciscan friar. Noted preacher in the Italian regions of Tuscany and Umbria.

@@ -1,15 +1,17 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Midan of Anglesey"
+name: Saint Midan of Anglesey
 honorific: Saint
-summary: "Spiritual student of Saint Kentigern. Priest. Confessor of the Penmon monastery where he worked with Saint Seiriol. Built churches on Welsh island of Anglesy. Missionary bishop in the area of Midmar in Aberdeenshire, Scotland."
+summary: >-
+  Spiritual student of Saint Kentigern. Priest. Confessor of the Penmon monastery where he worked with Saint Seiriol.
+  Built churches on Welsh island of Anglesy. Missionary bishop in the area of Midmar in Aberdeenshire, Scotland.
 searchAliases:
-  - "Idan"
-  - "Nidan"
+  - Idan
+  - Nidan
 deathYear: 610
-born: "Welsh"
-died: "c.610 of natural causes"
-region: "Scotland"
+born: Welsh
+died: c.610 of natural causes
+region: Scotland
 feastDay:
   month: 9
   day: 30
@@ -21,6 +23,7 @@ vocation:
   - Missionary
   - Confessor
 martyr: false
+prayers: []
 ---
 
 Spiritual student of Saint Kentigern. Priest. Confessor of the Penmon monastery where he worked with Saint Seiriol. Built churches on Welsh island of Anglesy. Missionary bishop in the area of Midmar in Aberdeenshire, Scotland.

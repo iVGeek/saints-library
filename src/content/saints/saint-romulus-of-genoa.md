@@ -21,6 +21,7 @@ vocation:
 patronage:
   - Sanremo, Italy
 martyr: false
+prayers: []
 ---
 
 Bishop of Genoa, Italy. Noted theologian. Known as a peacemaker.

@@ -1,11 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Perpetua of Rome"
+name: Saint Perpetua of Rome
 honorific: Saint
-summary: "Lay woman married to a pagan imperial Roman army officer. Convert to Christianity, baptized by Saint Peter the Apostle. She converted her husband to the faith. Mother of Saint Nazarius of Rome."
-died: "c.80, probably in Rome, Italy"
-deathPlace: "probablyRome, Italy"
-region: "Italy"
+summary: >-
+  Lay woman married to a pagan imperial Roman army officer. Convert to Christianity, baptized by Saint Peter the
+  Apostle. She converted her husband to the faith. Mother of Saint Nazarius of Rome.
+died: c.80, probably in Rome, Italy
+deathPlace: probablyRome, Italy
+region: Italy
 feastDay:
   month: 8
   day: 4
@@ -14,6 +16,7 @@ vocation:
   - Monk
   - Soldier
 martyr: false
+prayers: []
 ---
 
 Lay woman married to a pagan imperial Roman army officer. Convert to Christianity, baptized by Saint Peter the Apostle. She converted her husband to the faith. Mother of Saint Nazarius of Rome.

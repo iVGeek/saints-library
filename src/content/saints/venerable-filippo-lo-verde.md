@@ -1,25 +1,27 @@
 ---
 image: /placeholder-saint.svg
-name: "Venerable Filippo Lo Verde"
+name: Venerable Filippo Lo Verde
 honorific: Venerable
-summary: "Franciscan Friar Minor Conventual cleric."
+summary: Franciscan Friar Minor Conventual cleric.
 searchAliases:
-  - "Brother Luigi"
+  - Brother Luigi
 birthYear: 1910
 deathYear: 1932
-born: "20 December 1910 in Tebourba, Aryanah, Tunisia"
-died: "12 February 1932 in Palermo, Italy"
-birthPlace: "Aryanah, Tunisia"
-deathPlace: "Italy"
-region: "Italy"
+born: 20 December 1910 in Tebourba, Aryanah, Tunisia
+died: 12 February 1932 in Palermo, Italy
+birthPlace: Aryanah, Tunisia
+deathPlace: Italy
+region: Italy
 feastDay:
   month: 1
   day: 1
-centuries: [20]
+centuries:
+  - 20
 canonizationStatus: Venerable
 vocation: []
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 martyr: false
+prayers: []
 ---
 
 Franciscan Friar Minor Conventual cleric.

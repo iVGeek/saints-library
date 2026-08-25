@@ -1,11 +1,14 @@
 ---
-name: "Saint Kallistos of Amorium"
+name: Saint Kallistos of Amorium
 honorific: Saint
-summary: "Member of the Byzantine patrician class and imperial courtiers. Military commander. One of the 42 Martyrs of Amorium who were captured by invading Muslims, imprisoned for seven years, and then murdered when they refused to convert to Islam. Martyr."
-image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Amorium.jpg"
+summary: >-
+  Member of the Byzantine patrician class and imperial courtiers. Military commander. One of the 42 Martyrs of Amorium
+  who were captured by invading Muslims, imprisoned for seven years, and then murdered when they refused to convert to
+  Islam. Martyr.
+image: http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Amorium.jpg
 deathYear: 845
-died: "beheaded on 6 March 845 in Samarra (in modern Iraq) on the banks of the Euphrates river by Ethiopian slaves"
-region: "England"
+died: beheaded on 6 March 845 in Samarra (in modern Iraq) on the banks of the Euphrates river by Ethiopian slaves
+region: England
 feastDay:
   month: 3
   day: 6
@@ -14,6 +17,7 @@ vocation:
   - Monk
   - Soldier
 martyr: true
+prayers: []
 ---
 
 Member of the Byzantine patrician class and imperial courtiers. Military commander. One of the 42 Martyrs of Amorium who were captured by invading Muslims, imprisoned for seven years, and then murdered when they refused to convert to Islam. Martyr.

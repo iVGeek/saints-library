@@ -1,28 +1,31 @@
 ---
-name: "Saint Elizabeth of Schönau"
+name: Saint Elizabeth of Schönau
 honorific: Saint
-summary: "Born to the German nobility. Raised and educated in Schönau Benedictine abbey near Bingen, Germany from age 12. Elizabeth came to see the abbey as home, and took vows as a Benedictine nun in 1147. Friend of Saint Hildegard von Bingen. Abbess at Schonau from 1157 until her death."
-
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Elizabeth-of-Schonau.jpg"
+summary: >-
+  Born to the German nobility. Raised and educated in Schönau Benedictine abbey near Bingen, Germany from age 12.
+  Elizabeth came to see the abbey as home, and took vows as a Benedictine nun in 1147. Friend of Saint Hildegard von
+  Bingen. Abbess at Schonau from 1157 until her death.
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Elizabeth-of-Schonau.jpg
 searchAliases:
-  - "Elizabeth of Sconauge"
-  - "Elisabeth of…."
+  - Elizabeth of Sconauge
+  - Elisabeth of….
 birthYear: 1126
 deathYear: 1164
-born: "1126 in Bingen, Germany"
-died: "18 June 1164 at Bingen, Germany of natural causes"
-birthPlace: "Germany"
-deathPlace: "Germanynatural causes"
-region: "Germany"
+born: 1126 in Bingen, Germany
+died: 18 June 1164 at Bingen, Germany of natural causes
+birthPlace: Germany
+deathPlace: Germanynatural causes
+region: Germany
 feastDay:
   month: 6
   day: 18
 canonizationStatus: Saint
 vocation: []
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 patronage:
-  - "against temptations"
+  - against temptations
 martyr: false
+prayers: []
 ---
 
 Born to the German nobility. Raised and educated in Schönau Benedictine abbey near Bingen, Germany from age 12. Elizabeth came to see the abbey as home, and took vows as a Benedictine nun in 1147. Friend of Saint Hildegard von Bingen. Abbess at Schonau from 1157 until her death.

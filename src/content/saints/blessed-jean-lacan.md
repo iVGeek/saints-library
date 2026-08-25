@@ -1,22 +1,23 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Jean Lacan"
+name: Blessed Jean Lacan
 honorific: Blessed
-summary: "Priest of the archdiocese of Paris, France. One of the Martyrs of September."
+summary: Priest of the archdiocese of Paris, France. One of the Martyrs of September.
 deathYear: 1792
-born: "in Rodez, Aveyron, France"
-died: "martyred on 2 September 1792 at the Hôtel des Carmes, Paris, France"
-birthPlace: "Aveyron, France"
-deathPlace: "Paris, France"
-region: "France"
+born: in Rodez, Aveyron, France
+died: martyred on 2 September 1792 at the Hôtel des Carmes, Paris, France
+birthPlace: Aveyron, France
+deathPlace: Paris, France
+region: France
 feastDay:
   month: 9
   day: 2
 canonizationStatus: Blessed
 vocation:
   - Priest
-religiousOrder: "Carmelite"
+religiousOrder: Carmelite
 martyr: true
+prayers: []
 ---
 
 Priest of the archdiocese of Paris, France. One of the Martyrs of September.

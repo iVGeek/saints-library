@@ -22,6 +22,7 @@ vocation:
   - Hermit
 religiousOrder: Benedictine
 martyr: false
+prayers: []
 ---
 
 Preached the First Crusade to recover the Holy Lands from invading Muslims. Went with the armies of Godfrey of Bouillon. Vicar General of the Patriarch of Jerusalem. Returned to Belgium in 1099. Founded the Neufmoustier monastery in Huy, Belgium were he served as prior for the rest of his life. Known as a popular preacher and for living an extremely ascetic life; when his relics were moved in 1242 he was discovered to have worn a hair shirt under his habit.

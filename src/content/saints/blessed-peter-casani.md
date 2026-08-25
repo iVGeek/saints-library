@@ -1,19 +1,22 @@
 ---
-name: "Blessed Peter Casani"
+name: Blessed Peter Casani
 honorific: Blessed
-summary: "Born to the Tuscan nobility, Pietro studied at Franciscan schools in Lucca and Rome, Italy. He could play several musical instruments, and often played the pipe organ during Mass. He joined the Clerks Regular of the Mother of God of Lucca in 1590, and served as secretary to Saint"
-image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Peter-Casini.jpg"
+summary: >-
+  Born to the Tuscan nobility, Pietro studied at Franciscan schools in Lucca and Rome, Italy. He could play several
+  musical instruments, and often played the pipe organ during Mass. He joined the Clerks Regular of the Mother of God of
+  Lucca in 1590, and served as secretary to Saint
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Peter-Casini.jpg
 searchAliases:
-  - "Peter of the Nativity of the Blessed Virgin Mary"
-  - "Pietro Casani"
-  - "Pietro della Natività di Maria"
+  - Peter of the Nativity of the Blessed Virgin Mary
+  - Pietro Casani
+  - Pietro della Natività di Maria
 birthYear: 1570
 deathYear: 1647
-born: "8 September 1570 in Lucca, Tuscany (in modern Italy)"
-died: "at 2.30am on 17 October 1647 at the Piarist motherhouse in Rome, Italy of natural causes"
-birthPlace: "Tuscany (modern Italy)"
-deathPlace: "Italynatural causes"
-region: "Poland"
+born: 8 September 1570 in Lucca, Tuscany (in modern Italy)
+died: at 2.30am on 17 October 1647 at the Piarist motherhouse in Rome, Italy of natural causes
+birthPlace: Tuscany (modern Italy)
+deathPlace: Italynatural causes
+region: Poland
 feastDay:
   month: 10
   day: 17
@@ -21,8 +24,9 @@ canonizationStatus: Blessed
 vocation:
   - Virgin
   - Priest
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 martyr: false
+prayers: []
 ---
 
 Born to the Tuscan nobility, Pietro studied at Franciscan schools in Lucca and Rome, Italy. He could play several musical instruments, and often played the pipe organ during Mass. He joined the Clerks Regular of the Mother of God of Lucca in 1590, and served as secretary to Saint John Leonardi.

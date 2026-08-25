@@ -1,14 +1,14 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Juan Manuel Felices Pardo"
+name: Blessed Juan Manuel Felices Pardo
 honorific: Blessed
-summary: "Priest of the diocese of Almería, Spain. Martyred in the Spanish Civil War."
+summary: Priest of the diocese of Almería, Spain. Martyred in the Spanish Civil War.
 birthYear: 1893
 deathYear: 1936
-born: "28 June 1893 in Almeria Spain"
-died: "30 August 1936 in Barranco del Chisme, Almeria Spain"
-deathPlace: "Almeria Spain"
-region: "Spain"
+born: 28 June 1893 in Almeria Spain
+died: 30 August 1936 in Barranco del Chisme, Almeria Spain
+deathPlace: Almeria Spain
+region: Spain
 feastDay:
   month: 8
   day: 30
@@ -17,6 +17,7 @@ vocation:
   - Priest
   - Cardinal
 martyr: true
+prayers: []
 ---
 
 Priest of the diocese of Almería, Spain. Martyred in the Spanish Civil War.

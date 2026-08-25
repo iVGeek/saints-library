@@ -45,6 +45,7 @@ patronage:
   - –
   - Saragossa, Spain
 martyr: false
+prayers: []
 ---
 
 Princess. Daughter of King Pedro III of Aragon and Constantia; great-granddaughter of Emperor Frederick II. Great-niece of Saint Elizabeth of Hungary, for whom she was named. She had a pious upbringing with daily liturgy and praying of the hours, regular religious instruction and education. Married at age twelve to King Diniz of Portugal, and thus Queen of Portugal before she was a teenager.

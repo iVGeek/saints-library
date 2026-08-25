@@ -19,6 +19,7 @@ image: >-
 imageAlt: Portrait of Saint Germoc
 imageCredit: <span class="int-own-work" lang="en">Own work</span>
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:Saint%20Vincent%20de%20Paule%20-%20Gerome.jpg
+prayers: []
 ---
 
 Sixth century Irish chieftain. Brother of Saint Breaca. Monk. Late in life he moved to Cornwall, England.

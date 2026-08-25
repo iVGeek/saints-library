@@ -12,6 +12,7 @@ image: https://commons.wikimedia.org/wiki/Special:FilePath/Domitia_Paulina_Major
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Roman martyr under Valerian.

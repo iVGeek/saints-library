@@ -1,9 +1,9 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Nichole"
+name: Saint Nichole
 honorific: Saint
-summary: "Abbess of the convent at Almenêches Abbey, France."
-region: "France"
+summary: Abbess of the convent at Almenêches Abbey, France.
+region: France
 feastDay:
   month: 11
   day: 1
@@ -12,6 +12,7 @@ vocation:
   - Monk
   - Religious
 martyr: false
+prayers: []
 ---
 
 Abbess of the convent at Almenêches Abbey, France.

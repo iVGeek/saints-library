@@ -21,6 +21,7 @@ vocation:
   - Cardinal
   - Missionary
 martyr: true
+prayers: []
 ---
 
 Priest in the diocese of Bergamo, Italy. Missionary of Fidei Donum. One of the Martyrs of Chimbote, murdered by Shining Path Communist guerillas.

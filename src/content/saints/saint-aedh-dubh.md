@@ -23,6 +23,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/6/64/Cross_of_the_Scriptures_detail_-_Crawford_plate_146.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Aedh Dubh
 imageCreditUrl: https://en.wikipedia.org/wiki/Diarmait%20mac%20Cerbaill
+prayers: []
 ---
 
 King of Leinster, Ireland. He abdicated in 592 to become a monk, and then abbot, at Kildare, Ireland. Bishop of Kildare in 630.

@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Gerard de Bazonches"
+name: Saint Gerard de Bazonches
 honorific: Saint
-summary: "Benedictine monk at Saint Aubin Monastery, Angers, France. Priest."
+summary: Benedictine monk at Saint Aubin Monastery, Angers, France. Priest.
 deathYear: 1123
-died: "1123"
-region: "France"
+died: '1123'
+region: France
 feastDay:
   month: 11
   day: 4
@@ -13,8 +13,9 @@ canonizationStatus: Saint
 vocation:
   - Priest
   - Monk
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 martyr: false
+prayers: []
 ---
 
 Benedictine monk at Saint Aubin Monastery, Angers, France. Priest.

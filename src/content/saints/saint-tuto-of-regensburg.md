@@ -1,14 +1,14 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Tuto of Regensburg"
+name: Saint Tuto of Regensburg
 honorific: Saint
-summary: "Monk and then abbot of Saint Emmeram Abbey in Regensburg, Germany. Bishop of Regensburg. Secretary to Emperor Arnold."
+summary: Monk and then abbot of Saint Emmeram Abbey in Regensburg, Germany. Bishop of Regensburg. Secretary to Emperor Arnold.
 searchAliases:
-  - "Tuto of Ratisbon"
-  - "Totto…"
+  - Tuto of Ratisbon
+  - Totto…
 deathYear: 930
-died: "930"
-region: "Germany"
+died: '930'
+region: Germany
 feastDay:
   month: 5
   day: 14
@@ -17,6 +17,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Monk and then abbot of Saint Emmeram Abbey in Regensburg, Germany. Bishop of Regensburg. Secretary to Emperor Arnold.

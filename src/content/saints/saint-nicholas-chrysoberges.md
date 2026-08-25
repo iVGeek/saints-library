@@ -1,9 +1,9 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Nicholas Chrysoberges"
+name: Saint Nicholas Chrysoberges
 honorific: Saint
-summary: "Patriarch of Constantinople from 983."
-region: "Turkey"
+summary: Patriarch of Constantinople from 983.
+region: Turkey
 feastDay:
   month: 12
   day: 16
@@ -12,6 +12,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Patriarch of Constantinople from 983.

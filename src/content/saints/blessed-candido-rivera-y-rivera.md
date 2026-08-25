@@ -1,25 +1,26 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Candido Rivera y Rivera"
+name: Blessed Candido Rivera y Rivera
 honorific: Blessed
-summary: "Franciscan Conventual priest. Martyred in the Spanish Civil War."
+summary: Franciscan Conventual priest. Martyred in the Spanish Civil War.
 searchAliases:
-  - "Father Pedro"
+  - Father Pedro
 birthYear: 1912
 deathYear: 1936
-born: "3 September 1912 in Villareces, Valladolid, Spain"
-died: "6 September 1936 in L'Arrabassada highway, Barcelona, Spain"
-birthPlace: "Valladolid, Spain"
-deathPlace: "Barcelona, Spain"
-region: "Spain"
+born: 3 September 1912 in Villareces, Valladolid, Spain
+died: 6 September 1936 in L'Arrabassada highway, Barcelona, Spain
+birthPlace: Valladolid, Spain
+deathPlace: Barcelona, Spain
+region: Spain
 feastDay:
   month: 9
   day: 6
 canonizationStatus: Blessed
 vocation:
   - Priest
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 martyr: true
+prayers: []
 ---
 
 Franciscan Conventual priest. Martyred in the Spanish Civil War.

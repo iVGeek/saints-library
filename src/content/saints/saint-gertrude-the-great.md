@@ -36,6 +36,7 @@ patronage:
   - Magdeburg, Germany, diocese of
   - Naples, Italy
 martyr: false
+prayers: []
 ---
 
 We don't know who her parents were or what became of them, and she may have been an orphan. Gertrude was raised in the Benedictine abbey of Saint Mary of Helfta, Eisleben, Saxony from age five. An extremely bright and dedicated student, she excelled in literature and philosophy, and when she was old enough, became a Benedictine nun. At age 26, when she had become too enamored of philosophy, she received a vision of Christ who reproached her; from then on she studied the Bible and the works of the Church Fathers. Gertrude received other visions and mystical instruction, which formed the basis of her writings. She helped spread devotion to the Sacred Heart of Jesus. Her writings have been greatly praised by Saint Teresa and Saint Francis de Sales, and continue in print today.

@@ -1,13 +1,15 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Lucius of Sigum"
+name: Saint Lucius of Sigum
 honorific: Saint
-summary: "Bishop in Numidia, North Africa. Sentenced along with a large number of clergy and laity to slavery in the marble quarries in Sigum as punishment for being Christian. Martyr."
+summary: >-
+  Bishop in Numidia, North Africa. Sentenced along with a large number of clergy and laity to slavery in the marble
+  quarries in Sigum as punishment for being Christian. Martyr.
 searchAliases:
-  - "Lucio"
+  - Lucio
 deathYear: 257
-died: "worked to death c.257 in Sigum"
-region: "England"
+died: worked to death c.257 in Sigum
+region: England
 feastDay:
   month: 9
   day: 10
@@ -18,6 +20,7 @@ vocation:
   - Monk
   - Confessor
 martyr: true
+prayers: []
 ---
 
 Bishop in Numidia, North Africa. Sentenced along with a large number of clergy and laity to slavery in the marble quarries in Sigum as punishment for being Christian. Martyr.

@@ -1,38 +1,45 @@
 ---
-name: "Saint Mary of Jesus Crucified"
+name: Saint Mary of Jesus Crucified
 honorific: Venerable
-summary: "Born to Giries Baouardy and Mariam Shahine, a poor Greek Melchite Catholic family. Twelve of her thirteen brothers died in infancy, and Mary's birth was an answered prayer to Our Lady. Her parents died when Mary was only two, and she was raised by a paternal uncle. Moved to Alexa"
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Mary-of-Jesus-Crucified1.jpg"
+summary: >-
+  Born to Giries Baouardy and Mariam Shahine, a poor Greek Melchite Catholic family. Twelve of her thirteen brothers
+  died in infancy, and Mary's birth was an answered prayer to Our Lady. Her parents died when Mary was only two, and she
+  was raised by a paternal uncle. Moved to Alexa
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Mary-of-Jesus-Crucified1.jpg
 searchAliases:
-  - "Al Qiddisa"
-  - "Mary Baouardy"
-  - "Mary Bawardi"
-  - "Mary di Gesu Crocifisso"
-  - "Mary of Bethlehem"
-  - "Maram…"
-  - "Mariam…"
-  - "Maryam…"
-  - "Maria…"
-  - "Marie…"
-  - "Miriam…"
-  - "The Little Arab"
+  - Al Qiddisa
+  - Mary Baouardy
+  - Mary Bawardi
+  - Mary di Gesu Crocifisso
+  - Mary of Bethlehem
+  - Maram…
+  - Mariam…
+  - Maryam…
+  - Maria…
+  - Marie…
+  - Miriam…
+  - The Little Arab
 birthYear: 1846
 deathYear: 1878
-born: "5 January 1846 at Abellin, Galilee, Palestine as Mary Baouardy"
-died: "26 August 1878 at Bethlehem of gangrene following an injury received at the construction site of the Bethlehem monastery"
-birthPlace: "Galilee, Palestine as Mary Baouardy"
-region: "India"
+born: 5 January 1846 at Abellin, Galilee, Palestine as Mary Baouardy
+died: >-
+  26 August 1878 at Bethlehem of gangrene following an injury received at the construction site of the Bethlehem
+  monastery
+birthPlace: Galilee, Palestine as Mary Baouardy
+region: India
 feastDay:
   month: 8
   day: 26
-centuries: [19]
+centuries:
+  - 19
 canonizationStatus: Venerable
 vocation:
   - Virgin
   - Religious
   - Missionary
-religiousOrder: "Carmelite"
+religiousOrder: Carmelite
 martyr: false
+prayers: []
 ---
 
 Born to Giries Baouardy and Mariam Shahine, a poor Greek Melchite Catholic family. Twelve of her thirteen brothers died in infancy, and Mary's birth was an answered prayer to Our Lady. Her parents died when Mary was only two, and she was raised by a paternal uncle. Moved to Alexandria, Egypt at age eight.

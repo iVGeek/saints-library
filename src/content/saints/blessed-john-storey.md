@@ -1,16 +1,16 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed John Storey"
+name: Blessed John Storey
 honorific: Blessed
-summary: " Member of the English Parliament in 1547. Opposed anti-Catholic laws enacted by King Edward VI. Imprisoned from 1548 t Educated at Oxford. Doctor of law. President of Broadgate Hall (modern Pembroke College) form 1537 to 1539. First Regius Professor of civil law. Married in 1547."
+summary: ' Member of the English Parliament in 1547. Opposed anti-Catholic laws enacted by King Edward VI. Imprisoned from 1548 t Educated at Oxford. Doctor of law. President of Broadgate Hall (modern Pembroke College) form 1537 to 1539. First Regius Professor of civil law. Married in 1547.'
 searchAliases:
-  - "John Story"
+  - John Story
 birthYear: 1504
 deathYear: 1571
-born: "1504 in northern England"
-died: "hanged, drawn, and quartered on 1 June 1571 at Tyburn, England"
-deathPlace: "drawn, and quartered on 1 June 1571 at Tyburn, England"
-region: "Belgium"
+born: 1504 in northern England
+died: hanged, drawn, and quartered on 1 June 1571 at Tyburn, England
+deathPlace: drawn, and quartered on 1 June 1571 at Tyburn, England
+region: Belgium
 feastDay:
   month: 6
   day: 1
@@ -19,6 +19,7 @@ vocation:
   - Bishop
   - Monk
 martyr: true
+prayers: []
 ---
 
 Educated at Oxford. Doctor of law. President of Broadgate Hall (modern Pembroke College) form 1537 to 1539. First Regius Professor of civil law. Married in 1547.

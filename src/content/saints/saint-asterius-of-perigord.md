@@ -27,6 +27,7 @@ image: >-
 imageAlt: Portrait of Saint Asterius of Périgord
 imageCredit: <span class="int-own-work" lang="en">Own work</span>
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:Saint-Astier%20int%C3%A9rieur.jpg
+prayers: []
 ---
 
 A convert, baptized by Saint Eparchus of Périgord. Withdrew from the world to live as a hermit, but his reputation for holiness, wisdom and miraculous healing caused many people to seek him out.

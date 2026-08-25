@@ -35,6 +35,7 @@ patronage:
   - Dresden-Meissen, diocese of
   - Munich
 martyr: false
+prayers: []
 ---
 
 Born to the Saxon nobility, the son of Blessed Bezela of Goda; as an adult he was heavily involved in the power politics of his day. Educated in the abbey of Saint Michael, Hildesheim, Germany. Priest. Canon at the imperial chapel at Gozlar, Hanover. Chaplain to Emperor Henry III. Bishop of Meissen in 1066. Participated in the synod of Forcheim, Germany in 1078.

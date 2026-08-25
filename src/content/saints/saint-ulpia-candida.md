@@ -1,20 +1,21 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Ulpia Candida"
+name: Saint Ulpia Candida
 honorific: Saint
-summary: "Martyr, apparently dying in the persecutions of Diocletian."
+summary: Martyr, apparently dying in the persecutions of Diocletian.
 deathYear: 303
-died: "c.303 in Rome, Italy"
-deathPlace: "Italy"
-region: "Italy"
+died: c.303 in Rome, Italy
+deathPlace: Italy
+region: Italy
 feastDay:
   month: 1
   day: 1
 canonizationStatus: Saint
 vocation: []
 patronage:
-  - "Pozzaglia Sabina, Italy"
+  - Pozzaglia Sabina, Italy
 martyr: true
+prayers: []
 ---
 
 Martyr, apparently dying in the persecutions of Diocletian.

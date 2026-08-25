@@ -1,27 +1,28 @@
 ---
-name: "Blessed Columba Marmion"
+name: Blessed Columba Marmion
 honorific: Blessed
-title: "Missionary"
-summary: " He dreamed of becoming a miss Son of an Irish father, William Marmion, and French mother, Herminie Cordier. He entered the seminary in Dublin, Ireland  in 1874, and studied at the College for the Propagation of the Faith in Rome, Italy from 1876. Ordained in Rome on 16 June 1881."
-image: "https://upload.wikimedia.org/wikipedia/commons/0/0d/Columba_Marmion_%281858-1923%29.jpg"
+title: Missionary
+summary: ' He dreamed of becoming a miss Son of an Irish father, William Marmion, and French mother, Herminie Cordier. He entered the seminary in Dublin, Ireland  in 1874, and studied at the College for the Propagation of the Faith in Rome, Italy from 1876. Ordained in Rome on 16 June 1881.'
+image: https://upload.wikimedia.org/wikipedia/commons/0/0d/Columba_Marmion_%281858-1923%29.jpg
 searchAliases:
-  - "Joseph Marmion"
-  - "Joseph Aloysius Marmion"
+  - Joseph Marmion
+  - Joseph Aloysius Marmion
 birthYear: 1858
 deathYear: 1923
-born: "1 April (Holy Thursday) 1858 at 57 Queen Street, Dublin, Ireland as Joseph Aloysius Marmion"
-died: "30 January 1923 at Maredsous Abbey, Denée, Namur, Belgium of influenza"
-birthPlace: "Dublin, Ireland as Joseph Aloysius Marmion"
-deathPlace: "Denée, Namur, Belgiuminfluenza"
-region: "Australia"
+born: 1 April (Holy Thursday) 1858 at 57 Queen Street, Dublin, Ireland as Joseph Aloysius Marmion
+died: 30 January 1923 at Maredsous Abbey, Denée, Namur, Belgium of influenza
+birthPlace: Dublin, Ireland as Joseph Aloysius Marmion
+deathPlace: Denée, Namur, Belgiuminfluenza
+region: Australia
 feastDay:
   month: 1
   day: 30
 canonizationStatus: Blessed
 vocation:
   - Missionary
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 martyr: false
+prayers: []
 ---
 
 Son of an Irish father, William Marmion, and French mother, Herminie Cordier. He entered the seminary in Dublin, Ireland  in 1874, and studied at the College for the Propagation of the Faith in Rome, Italy from 1876. Ordained in Rome on 16 June 1881.

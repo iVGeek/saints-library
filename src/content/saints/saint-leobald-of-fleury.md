@@ -1,21 +1,24 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Leobald of Fleury"
+name: Saint Leobald of Fleury
 honorific: Saint
-summary: "Benedictine monk. Founded Fleury Abbey (modern Fleury-Saint-Benoît-sur-Loire) near Orleans, France, c.640, and served as its first abbot."
+summary: >-
+  Benedictine monk. Founded Fleury Abbey (modern Fleury-Saint-Benoît-sur-Loire) near Orleans, France, c.640, and served
+  as its first abbot.
 searchAliases:
-  - "Leodebod"
+  - Leodebod
 deathYear: 650
-died: "650 of natural causes"
-region: "France"
+died: 650 of natural causes
+region: France
 feastDay:
   month: 8
   day: 8
 canonizationStatus: Saint
 vocation:
   - Monk
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 martyr: false
+prayers: []
 ---
 
 Benedictine monk. Founded Fleury Abbey (modern Fleury-Saint-Benoît-sur-Loire) near Orleans, France, c.640, and served as its first abbot.

@@ -1,17 +1,18 @@
 ---
-name: "Saint Gorazd"
+name: Saint Gorazd
 honorific: Saint
-summary: "One of the Seven Apostles of Bulgaria."
+summary: One of the Seven Apostles of Bulgaria.
 searchAliases:
-  - "Gorazdus"
+  - Gorazdus
 feastDay:
   month: 7
   day: 27
 canonizationStatus: Saint
-image: "https://upload.wikimedia.org/wikipedia/commons/9/96/Gorazd_from_Slivnica_Monastery.jpg"
+image: https://upload.wikimedia.org/wikipedia/commons/9/96/Gorazd_from_Slivnica_Monastery.jpg
 vocation:
   - Monk
 martyr: false
+prayers: []
 ---
 
 One of the Seven Apostles of Bulgaria.

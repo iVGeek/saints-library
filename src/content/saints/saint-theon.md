@@ -1,14 +1,14 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Theon"
+name: Saint Theon
 honorific: Saint
-title: "Bishop"
-summary: "Sixth century bishop in Wales."
+title: Bishop
+summary: Sixth century bishop in Wales.
 searchAliases:
-  - "Teon"
-  - "Teone"
-  - "Theonus"
-region: "Italy"
+  - Teon
+  - Teone
+  - Theonus
+region: Italy
 feastDay:
   month: 1
   day: 1
@@ -16,6 +16,7 @@ canonizationStatus: Saint
 vocation:
   - Bishop
 martyr: false
+prayers: []
 ---
 
 Sixth century bishop in Wales.

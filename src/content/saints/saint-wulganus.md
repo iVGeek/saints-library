@@ -1,19 +1,21 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Wulganus"
+name: Saint Wulganus
 honorific: Saint
-summary: "Emigrant of France. Evangelized in the area of Atrebati, France. Hermit at Arras, France under the direction Saint Vedast Abbey."
+summary: >-
+  Emigrant of France. Evangelized in the area of Atrebati, France. Hermit at Arras, France under the direction Saint
+  Vedast Abbey.
 searchAliases:
-  - "Vulgan"
-  - "Vulganius"
-  - "Wulgan"
-  - "Vulganio"
-  - "Vulmar"
+  - Vulgan
+  - Vulganius
+  - Wulgan
+  - Vulganio
+  - Vulmar
 deathYear: 704
-born: "British Isles (exact location varies by source)"
-died: "c.704 at Arras, France"
-deathPlace: "France"
-region: "France"
+born: British Isles (exact location varies by source)
+died: c.704 at Arras, France
+deathPlace: France
+region: France
 feastDay:
   month: 11
   day: 3
@@ -24,8 +26,9 @@ vocation:
   - Hermit
   - Confessor
 patronage:
-  - "Lens, France"
+  - Lens, France
 martyr: false
+prayers: []
 ---
 
 Emigrant of France. Evangelized in the area of Atrebati, France. Hermit at Arras, France under the direction Saint Vedast Abbey.

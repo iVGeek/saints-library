@@ -1,9 +1,9 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Isenger of Verdun"
+name: Saint Isenger of Verdun
 honorific: Saint
-summary: "Monk at the Anabaric monastery in Ireland. Priest. Ninth-century bishop of Verdun (in modern France)."
-region: "Ireland"
+summary: Monk at the Anabaric monastery in Ireland. Priest. Ninth-century bishop of Verdun (in modern France).
+region: Ireland
 feastDay:
   month: 3
   day: 21
@@ -13,6 +13,7 @@ vocation:
   - Priest
   - Monk
 martyr: false
+prayers: []
 ---
 
 Monk at the Anabaric monastery in Ireland. Priest. Ninth-century bishop of Verdun (in modern France).

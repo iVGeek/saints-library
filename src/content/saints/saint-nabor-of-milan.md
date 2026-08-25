@@ -1,12 +1,14 @@
 ---
-name: "Saint Nabor of Milan"
+name: Saint Nabor of Milan
 honorific: Saint
-summary: "Soldier in the imperial Roman army. Martyred in the persecutions of Diocletian when the ranks were violently purged of Christians."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Nabor-of-Rome.jpg"
+summary: >-
+  Soldier in the imperial Roman army. Martyred in the persecutions of Diocletian when the ranks were violently purged of
+  Christians.
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Nabor-of-Rome.jpg
 deathYear: 304
-died: "c.304 in Milan, Italy"
-deathPlace: "Italy"
-region: "Italy"
+died: c.304 in Milan, Italy
+deathPlace: Italy
+region: Italy
 feastDay:
   month: 7
   day: 12
@@ -16,6 +18,7 @@ vocation:
   - Monk
   - Soldier
 martyr: true
+prayers: []
 ---
 
 Soldier in the imperial Roman army. Martyred in the persecutions of Diocletian when the ranks were violently purged of Christians.

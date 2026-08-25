@@ -25,6 +25,7 @@ imageCredit: >-
   href="http://hdl.handle.net/10934/RM0001.COLLECT.40643">http://hdl.handle.net/10934/RM0001.COLLECT.40643</a>
 imageCreditUrl: >-
   https://commons.wikimedia.org/wiki/File:Heilige%20Nicolaas%20van%20Myra%2C%20Heilige%20Dionysia%20en%20Heilige%20Majoricus%20van%20Afrika%2C%20Heilige%20Agathopus%20van%20Kreta%2C%20Maria%20vertrapt%20een%20draak%20(Maria's%20Onbevlekte%20Ontvangenis)%20(6-8%20december)%20Alle%20heiligen%20en%20de%20Christelijke%20feestda%2C%20RP-P-OB-20.799.jpg
+prayers: []
 ---
 
 Deacon from Antioch, Syria. Travelled with Saint Ignatius to Rome, Italy, and after his martyrdom brought his relics back to Antioch and wrote about him.

@@ -1,32 +1,37 @@
 ---
-name: "Saint John Grande"
+name: Saint John Grande
 honorific: Venerable
-summary: "Raised in a solidly Christian family, John was a choir boy from age 7 to 12. He was apprenticed in the linen business in Seville, Spain from age 15, and then returned to Carmona, Spain to start his own shop. At age 19 he left business behind, gave away his possessions, and became"
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-John-Grande.jpg"
+summary: >-
+  Raised in a solidly Christian family, John was a choir boy from age 7 to 12. He was apprenticed in the linen business
+  in Seville, Spain from age 15, and then returned to Carmona, Spain to start his own shop. At age 19 he left business
+  behind, gave away his possessions, and became
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-John-Grande.jpg
 searchAliases:
-  - "John the Great Sinner"
-  - "Juan Grande Pecador"
-  - "Juan Grande Román"
-  - "Juan Grande"
-  - "Juan Pecador"
+  - John the Great Sinner
+  - Juan Grande Pecador
+  - Juan Grande Román
+  - Juan Grande
+  - Juan Pecador
 birthYear: 1546
 deathYear: 1600
-born: "6 March 1546 at Carmona, Andalusia, Spain"
-died: "3 June 1600 at Jerez, Spain of plague"
-birthPlace: "Andalusia, Spain"
-deathPlace: "Spaof plague"
-region: "Spain"
+born: 6 March 1546 at Carmona, Andalusia, Spain
+died: 3 June 1600 at Jerez, Spain of plague
+birthPlace: Andalusia, Spain
+deathPlace: Spaof plague
+region: Spain
 feastDay:
   month: 6
   day: 3
-centuries: [16]
+centuries:
+  - 16
 canonizationStatus: Venerable
 vocation:
   - Bishop
   - Hermit
 patronage:
-  - "diocese of Jerez de la Frontera, Spain"
+  - diocese of Jerez de la Frontera, Spain
 martyr: false
+prayers: []
 ---
 
 Raised in a solidly Christian family, John was a choir boy from age 7 to 12. He was apprenticed in the linen business in Seville, Spain from age 15, and then returned to Carmona, Spain to start his own shop. At age 19 he left business behind, gave away his possessions, and became a hermit at Marcena. Referred to himself not just as Juan Grande, his given name, but Juan Grande Pecador (John the Great Sinner).

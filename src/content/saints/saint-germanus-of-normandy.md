@@ -21,6 +21,7 @@ vocation:
   - Bishop
   - Monk
 martyr: true
+prayers: []
 ---
 
 Convert, brought to the faith by Saint Germanus of Auxerre, in whose honour he took the name Germanus. Bishop. Martyr.

@@ -1,15 +1,15 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Florentinus the Hermit"
+name: Saint Florentinus the Hermit
 honorific: Saint
-summary: "Hermit. Martyr."
+summary: Hermit. Martyr.
 searchAliases:
-  - "Florentino"
-  - "Florenziano"
-  - "Fiorentino"
-died: "beheaded by Vandals in 5th century Sedunum, Gaul (modern Brémur, France)"
-deathPlace: "Gaul (modern Brémur, France)"
-region: "France"
+  - Florentino
+  - Florenziano
+  - Fiorentino
+died: beheaded by Vandals in 5th century Sedunum, Gaul (modern Brémur, France)
+deathPlace: Gaul (modern Brémur, France)
+region: France
 feastDay:
   month: 9
   day: 27
@@ -18,6 +18,7 @@ vocation:
   - Monk
   - Hermit
 martyr: true
+prayers: []
 ---
 
 Hermit. Martyr.

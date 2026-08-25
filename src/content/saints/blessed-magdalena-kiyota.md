@@ -1,22 +1,23 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Magdalena Kiyota"
+name: Blessed Magdalena Kiyota
 honorific: Blessed
-summary: "Married member of the Lay Dominicans in the archdiocese of Nagasaki, Japan. Martyr."
+summary: Married member of the Lay Dominicans in the archdiocese of Nagasaki, Japan. Martyr.
 deathYear: 1627
-born: "Nagasaki, Japan"
-died: "16 August 1627 in Nagasaki, Japan"
-birthPlace: "Japan"
-deathPlace: "Japan"
-region: "Japan"
+born: Nagasaki, Japan
+died: 16 August 1627 in Nagasaki, Japan
+birthPlace: Japan
+deathPlace: Japan
+region: Japan
 feastDay:
   month: 8
   day: 27
 canonizationStatus: Blessed
 vocation:
   - Monk
-religiousOrder: "Dominican"
+religiousOrder: Dominican
 martyr: true
+prayers: []
 ---
 
 Married member of the Lay Dominicans in the archdiocese of Nagasaki, Japan. Martyr.

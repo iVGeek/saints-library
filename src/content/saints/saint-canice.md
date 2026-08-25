@@ -1,24 +1,27 @@
 ---
-name: "Saint Canice"
+name: Saint Canice
 honorific: Saint
-summary: "His father was a distinguished royal bard, and his mother's name was Maul. Spiritual student of Saint Finnian of Clonard in 543 with Saint Columba. Spiritual student of Saint Kieran of Conmacnoise, Saint Comgall of Bangor, and Saint Mobhi in 544. Ordained in 545 at Llancarvan, Gl"
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Canice-1.jpg"
+summary: >-
+  His father was a distinguished royal bard, and his mother's name was Maul. Spiritual student of Saint Finnian of
+  Clonard in 543 with Saint Columba. Spiritual student of Saint Kieran of Conmacnoise, Saint Comgall of Bangor, and
+  Saint Mobhi in 544. Ordained in 545 at Llancarvan, Gl
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Canice-1.jpg
 searchAliases:
-  - "Caimnech"
-  - "Cainnech"
-  - "Cainnic"
-  - "Canicus"
-  - "Cechan"
-  - "Chainnigh"
-  - "Kenneth"
-  - "Kenny"
+  - Caimnech
+  - Cainnech
+  - Cainnic
+  - Canicus
+  - Cechan
+  - Chainnigh
+  - Kenneth
+  - Kenny
 birthYear: 525
 deathYear: 599
-born: "c.525 in Glengiven, County Derry, northern Ireland"
-died: "c.599 at Aghaboe, Laois, Ireland of natural causes"
-birthPlace: "County Derry, northern Ireland"
-deathPlace: "Laois, Irelandnatural causes"
-region: "Scotland"
+born: c.525 in Glengiven, County Derry, northern Ireland
+died: c.599 at Aghaboe, Laois, Ireland of natural causes
+birthPlace: County Derry, northern Ireland
+deathPlace: Laois, Irelandnatural causes
+region: Scotland
 feastDay:
   month: 10
   day: 11
@@ -29,9 +32,10 @@ vocation:
   - Hermit
   - Missionary
 patronage:
-  - "against shipwrecks"
-  - "Kilkenny, Ireland"
+  - against shipwrecks
+  - Kilkenny, Ireland
 martyr: false
+prayers: []
 ---
 
 His father was a distinguished royal bard, and his mother's name was Maul. Spiritual student of Saint Finnian of Clonard in 543 with Saint Columba. Spiritual student of Saint Kieran of Conmacnoise, Saint Comgall of Bangor, and Saint Mobhi in 544. Ordained in 545 at Llancarvan, Glamorganshire.

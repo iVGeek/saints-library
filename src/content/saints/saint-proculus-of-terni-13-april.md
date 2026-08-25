@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Proculus of Terni"
+name: Saint Proculus of Terni
 honorific: Saint
-summary: "Bishop of Terni, Italy. Martyred in the persecutions of Maxentius."
+summary: Bishop of Terni, Italy. Martyred in the persecutions of Maxentius.
 deathYear: 310
-died: "310"
-region: "Italy"
+died: '310'
+region: Italy
 feastDay:
   month: 4
   day: 13
@@ -14,6 +14,7 @@ vocation:
   - Bishop
   - Monk
 martyr: true
+prayers: []
 ---
 
 Bishop of Terni, Italy. Martyred in the persecutions of Maxentius.

@@ -1,16 +1,16 @@
 ---
-name: "Blessed Pietro of Gubbio"
+name: Blessed Pietro of Gubbio
 honorific: Blessed
-summary: " When he was 40 years old, Pietro came to know the Augustinians and Born to the Italian nobility, Pietro studied law at universities in Perugia, Italy, and Paris, France. He was a successful and brilliant lawyer known for his honesty, and who concentrated on representing the poor."
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Pietro-of-Gubbio.jpg"
+summary: ' When he was 40 years old, Pietro came to know the Augustinians and Born to the Italian nobility, Pietro studied law at universities in Perugia, Italy, and Paris, France. He was a successful and brilliant lawyer known for his honesty, and who concentrated on representing the poor.'
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Pietro-of-Gubbio.jpg
 searchAliases:
-  - "Peter Ghisengi"
+  - Peter Ghisengi
 deathYear: 1306
-born: "early 13th century in Gubbio, Umbria, Italy"
-died: "between 1306 and 1322 in Gubbio, Umbria, Italy of natural causes"
-birthPlace: "Umbria, Italy"
-deathPlace: "Umbria, Italynatural causes"
-region: "Peru"
+born: early 13th century in Gubbio, Umbria, Italy
+died: between 1306 and 1322 in Gubbio, Umbria, Italy of natural causes
+birthPlace: Umbria, Italy
+deathPlace: Umbria, Italynatural causes
+region: Peru
 feastDay:
   month: 3
   day: 23
@@ -18,8 +18,9 @@ canonizationStatus: Blessed
 vocation:
   - Priest
   - Monk
-religiousOrder: "Augustinian"
+religiousOrder: Augustinian
 martyr: false
+prayers: []
 ---
 
 Born to the Italian nobility, Pietro studied law at universities in Perugia, Italy, and Paris, France. He was a successful and brilliant lawyer known for his honesty, and who concentrated on representing the poor.

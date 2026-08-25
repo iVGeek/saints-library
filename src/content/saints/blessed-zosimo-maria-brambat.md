@@ -1,14 +1,17 @@
 ---
-name: "Blessed Zosimo Maria Brambat"
+name: Blessed Zosimo Maria Brambat
 honorific: Blessed
-summary: "Cistercian brother in the Congregation of Casamari, he joined the abbey in 1792 and made his profession on 20 November 1795. Martyred by invading French revolutionary soldiers, he died while trying to get to a location where he could receive the sacraments before his death."
-image: "https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Casamari.jpg"
+summary: >-
+  Cistercian brother in the Congregation of Casamari, he joined the abbey in 1792 and made his profession on 20 November
+  1795. Martyred by invading French revolutionary soldiers, he died while trying to get to a location where he could
+  receive the sacraments before his death.
+image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Casamari.jpg
 deathYear: 1799
-born: "Milan, Italy"
-died: "16 May 1799 in Casamari, Veroli, Frosinone, Italy from injuries received on 13 May 1799"
-birthPlace: "Italy"
-deathPlace: "Veroli, Frosinone, Italyinjuries received on 13 May 1799"
-region: "Italy"
+born: Milan, Italy
+died: 16 May 1799 in Casamari, Veroli, Frosinone, Italy from injuries received on 13 May 1799
+birthPlace: Italy
+deathPlace: Veroli, Frosinone, Italyinjuries received on 13 May 1799
+region: Italy
 feastDay:
   month: 5
   day: 16
@@ -16,6 +19,7 @@ canonizationStatus: Blessed
 vocation:
   - Soldier
 martyr: true
+prayers: []
 ---
 
 Cistercian brother in the Congregation of Casamari, he joined the abbey in 1792 and made his profession on 20 November 1795. Martyred by invading French revolutionary soldiers, he died while trying to get to a location where he could receive the sacraments before his death.

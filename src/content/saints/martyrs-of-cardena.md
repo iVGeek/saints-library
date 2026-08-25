@@ -19,6 +19,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/f/f7/Madonna_dell%27Orto_%28Venice%29_-_Choir_-_The_beheading_of_St._Paul.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Martyrs of Cardeña
 imageCreditUrl: https://en.wikipedia.org/wiki/List%20of%20Christian%20martyrs
+prayers: []
 ---
 
 Two hundred Benedictine monks at the Saint Peter of Cardeña monastery, Burgos, Spain who were martyred in the 8th century by invading Saracens.

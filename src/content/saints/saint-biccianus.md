@@ -1,10 +1,10 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Biccianus"
+name: Saint Biccianus
 honorific: Saint
-summary: "One of a group of 50 soldiers martyred in Africa. No other information about them has survived."
-died: "in Africa"
-region: "Africa"
+summary: One of a group of 50 soldiers martyred in Africa. No other information about them has survived.
+died: in Africa
+region: Africa
 feastDay:
   month: 1
   day: 12
@@ -13,6 +13,7 @@ vocation:
   - Monk
   - Soldier
 martyr: true
+prayers: []
 ---
 
 One of a group of 50 soldiers martyred in Africa. No other information about them has survived.

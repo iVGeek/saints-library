@@ -1,14 +1,14 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Julian of Ankyra"
+name: Saint Julian of Ankyra
 honorific: Saint
-summary: "Priest. Martyed in the persecution of emperor Licinius."
+summary: Priest. Martyed in the persecution of emperor Licinius.
 searchAliases:
-  - "Julian of Galatia"
+  - Julian of Galatia
 deathYear: 321
-died: "c.321 in Ankyra, Galatia (in modern Turkey)"
-deathPlace: "Galatia (modern Turkey)"
-region: "England"
+died: c.321 in Ankyra, Galatia (in modern Turkey)
+deathPlace: Galatia (modern Turkey)
+region: England
 feastDay:
   month: 9
   day: 13
@@ -17,6 +17,7 @@ vocation:
   - Priest
   - Monk
 martyr: false
+prayers: []
 ---
 
 Priest. Martyed in the persecution of emperor Licinius.

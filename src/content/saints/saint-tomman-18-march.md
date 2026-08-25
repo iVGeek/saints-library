@@ -1,10 +1,10 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Tómmán"
+name: Saint Tómmán
 honorific: Saint
-summary: "Bishop. No other information has survived."
-born: "Ireland"
-region: "Ireland"
+summary: Bishop. No other information has survived.
+born: Ireland
+region: Ireland
 feastDay:
   month: 3
   day: 18
@@ -12,6 +12,7 @@ canonizationStatus: Saint
 vocation:
   - Bishop
 martyr: false
+prayers: []
 ---
 
 Bishop. No other information has survived.

@@ -1,13 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Juan Ortega Uribe"
+name: Blessed Juan Ortega Uribe
 honorific: Blessed
-summary: "Priest in the diocese of Almería, Spain. Martyred in the Spanish Civil War."
+summary: Priest in the diocese of Almería, Spain. Martyred in the Spanish Civil War.
 birthYear: 1877
 deathYear: 1936
-born: "17 November 1877 in Almeria Spain"
-died: "13 November 1936 in Almeria Spain"
-region: "Spain"
+born: 17 November 1877 in Almeria Spain
+died: 13 November 1936 in Almeria Spain
+region: Spain
 feastDay:
   month: 11
   day: 13
@@ -16,6 +16,7 @@ vocation:
   - Priest
   - Cardinal
 martyr: true
+prayers: []
 ---
 
 Priest in the diocese of Almería, Spain. Martyred in the Spanish Civil War.

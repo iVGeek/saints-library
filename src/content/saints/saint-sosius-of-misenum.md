@@ -1,24 +1,24 @@
 ---
-name: "Saint Sosius of Misenum"
+name: Saint Sosius of Misenum
 honorific: Saint
-summary: "Deacon of the church of Miseno, Italy. Imprisoned and martyred in the persecutions of Diocletian."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Sossio-of-Misenum.jpg"
+summary: Deacon of the church of Miseno, Italy. Imprisoned and martyred in the persecutions of Diocletian.
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Sossio-of-Misenum.jpg
 searchAliases:
-  - "Sosius of Miseno"
-  - "Sosius of Puzzuoli"
-  - "Sosier…"
-  - "Sosio…"
-  - "Sosius…"
-  - "Sossio…"
-  - "Sossius…"
-  - "Sosso…"
+  - Sosius of Miseno
+  - Sosius of Puzzuoli
+  - Sosier…
+  - Sosio…
+  - Sosius…
+  - Sossio…
+  - Sossius…
+  - Sosso…
 birthYear: 275
 deathYear: 305
-born: "275 in Miseno, Italy"
-died: "beheaded on 19 September 305 at Pozzuoli, Campagna, Italy"
-birthPlace: "Italy"
-deathPlace: "Campagna, Italy"
-region: "Italy"
+born: 275 in Miseno, Italy
+died: beheaded on 19 September 305 at Pozzuoli, Campagna, Italy
+birthPlace: Italy
+deathPlace: Campagna, Italy
+region: Italy
 feastDay:
   month: 9
   day: 23
@@ -27,10 +27,14 @@ vocation:
   - Monk
   - Deacon
 patronage:
-  - "in Italy\n\nFalvaterra"
-  - "Frattamaggiore"
-  - "San Sossio Baronia"
+  - |-
+    in Italy
+
+    Falvaterra
+  - Frattamaggiore
+  - San Sossio Baronia
 martyr: true
+prayers: []
 ---
 
 Deacon of the church of Miseno, Italy. Imprisoned and martyred in the persecutions of Diocletian.

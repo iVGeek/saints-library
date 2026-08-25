@@ -1,19 +1,22 @@
 ---
-name: "Saint Crispoldus"
+name: Saint Crispoldus
 honorific: Saint
-summary: "Bishop of Bettona, Italy where he was known as a miracle worker. May have been bishop of Nocera, Italy, too. Arrested by order of prefect Asterius in the late 3rd-century persecutions of emperor Maximian, ordered to sacrifice to pagan gods, and then tortured and killed with anoth"
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Crispoldus.jpg"
+summary: >-
+  Bishop of Bettona, Italy where he was known as a miracle worker. May have been bishop of Nocera, Italy, too. Arrested
+  by order of prefect Asterius in the late 3rd-century persecutions of emperor Maximian, ordered to sacrifice to pagan
+  gods, and then tortured and killed with anoth
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Crispoldus.jpg
 searchAliases:
-  - "Chrysopolitus"
-  - "Crispoldo"
-  - "Crispolito"
-  - "Crispolto"
-  - "Crispoltus"
-  - "Cyspolitus"
+  - Chrysopolitus
+  - Crispoldo
+  - Crispolito
+  - Crispolto
+  - Crispoltus
+  - Cyspolitus
 deathYear: 300
-died: "c.300 in Bettona, Italy"
-deathPlace: "Italy"
-region: "Italy"
+died: c.300 in Bettona, Italy
+deathPlace: Italy
+region: Italy
 feastDay:
   month: 5
   day: 12
@@ -22,8 +25,9 @@ vocation:
   - Bishop
   - Religious
 patronage:
-  - "Bettona, Italy"
+  - Bettona, Italy
 martyr: true
+prayers: []
 ---
 
 Bishop of Bettona, Italy where he was known as a miracle worker. May have been bishop of Nocera, Italy, too. Arrested by order of prefect Asterius in the late 3rd-century persecutions of emperor Maximian, ordered to sacrifice to pagan gods, and then tortured and killed with another Christian, named Barontius, when he refused to do so. Martyr.

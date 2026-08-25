@@ -1,15 +1,17 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Joaquim Gelada Hugas"
+name: Blessed Joaquim Gelada Hugas
 honorific: Blessed
-summary: "Member of the Claretians, professed on 11 September 1898. Ordained a priest on 30 September 1906. Martyred in the Spanish Civil War."
+summary: >-
+  Member of the Claretians, professed on 11 September 1898. Ordained a priest on 30 September 1906. Martyred in the
+  Spanish Civil War.
 birthYear: 1881
 deathYear: 1936
-born: "4 December 1881 in Olot, Girona, Spain"
-died: "14 October 1936 in Torrelavega, Santander, Spain"
-birthPlace: "Girona, Spain"
-deathPlace: "Santander, Spain"
-region: "Spain"
+born: 4 December 1881 in Olot, Girona, Spain
+died: 14 October 1936 in Torrelavega, Santander, Spain
+birthPlace: Girona, Spain
+deathPlace: Santander, Spain
+region: Spain
 feastDay:
   month: 10
   day: 14
@@ -19,6 +21,7 @@ vocation:
   - Priest
   - Cardinal
 martyr: true
+prayers: []
 ---
 
 Member of the Claretians, professed on 11 September 1898. Ordained a priest on 30 September 1906. Martyred in the Spanish Civil War.

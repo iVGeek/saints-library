@@ -1,13 +1,15 @@
 ---
-name: "Saint Lufthild"
+name: Saint Lufthild
 honorific: Saint
-summary: "Abused by a jealous step-mother for her kindness to the poor, Lufthild left home young to live as an often-homeless hermit in and around Cologne, Germany."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Lufthild.jpg"
+summary: >-
+  Abused by a jealous step-mother for her kindness to the poor, Lufthild left home young to live as an often-homeless
+  hermit in and around Cologne, Germany.
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Lufthild.jpg
 searchAliases:
-  - "Lufthildis"
+  - Lufthildis
 deathYear: 850
-died: "c.850"
-region: "Germany"
+died: c.850
+region: Germany
 feastDay:
   month: 1
   day: 23
@@ -16,11 +18,12 @@ vocation:
   - Bishop
   - Hermit
 patronage:
-  - "child abuse victims"
-  - "hoboes"
-  - "homeless people"
-  - "tramps"
+  - child abuse victims
+  - hoboes
+  - homeless people
+  - tramps
 martyr: false
+prayers: []
 ---
 
 Abused by a jealous step-mother for her kindness to the poor, Lufthild left home young to live as an often-homeless hermit in and around Cologne, Germany.

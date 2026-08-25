@@ -1,23 +1,24 @@
 ---
-name: "Blessed Anacario Benito Nozal"
+name: Blessed Anacario Benito Nozal
 honorific: Blessed
-summary: "Passionists friar. Martyred in the Spanish Civil War. One of the Martyrs of Daimiel."
-image: "http://catholicsaints.info/wp-content/uploads/img-Passionist-Martyrs-of-the-Spanish-Civil-War.jpg"
+summary: Passionists friar. Martyred in the Spanish Civil War. One of the Martyrs of Daimiel.
+image: http://catholicsaints.info/wp-content/uploads/img-Passionist-Martyrs-of-the-Spanish-Civil-War.jpg
 searchAliases:
-  - "Anacario of the Immaculata"
+  - Anacario of the Immaculata
 birthYear: 1906
 deathYear: 1936
-born: "23 September 1906 in Becerril del Carpio, Palencia, Spain"
-died: "22 July 1936 in Carabanchel Bajo, Madrid, Spain"
-birthPlace: "Palencia, Spain"
-deathPlace: "Madrid, Spain"
-region: "Spain"
+born: 23 September 1906 in Becerril del Carpio, Palencia, Spain
+died: 22 July 1936 in Carabanchel Bajo, Madrid, Spain
+birthPlace: Palencia, Spain
+deathPlace: Madrid, Spain
+region: Spain
 feastDay:
   month: 7
   day: 23
 canonizationStatus: Blessed
 vocation: []
 martyr: true
+prayers: []
 ---
 
 Passionists friar. Martyred in the Spanish Civil War. One of the Martyrs of Daimiel.

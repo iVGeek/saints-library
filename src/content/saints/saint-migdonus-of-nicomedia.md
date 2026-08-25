@@ -1,12 +1,12 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Mígdonus of Nicomedia"
+name: Saint Mígdonus of Nicomedia
 honorific: Saint
-summary: "Priest. Martyred in the persecutions of Diocletian."
+summary: Priest. Martyred in the persecutions of Diocletian.
 deathYear: 303
-died: "strangled to death in 303 in Nicomedia, Bithynia (in modern Turkey)"
-deathPlace: "Bithynia (modern Turkey)"
-region: "Italy"
+died: strangled to death in 303 in Nicomedia, Bithynia (in modern Turkey)
+deathPlace: Bithynia (modern Turkey)
+region: Italy
 feastDay:
   month: 3
   day: 12
@@ -15,6 +15,7 @@ vocation:
   - Priest
   - Monk
 martyr: true
+prayers: []
 ---
 
 Priest. Martyred in the persecutions of Diocletian.

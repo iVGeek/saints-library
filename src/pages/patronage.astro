@@ -123,7 +123,7 @@ const examples = ['lost items', 'travelers', 'students', 'animals', 'impossible 
               <div>
                 <h3 class="font-display text-xl font-semibold text-navy-900">{r.label}</h3>
                 <p class="mt-0.5 font-body text-sm text-ink-500 capitalize">
-                  {r.saints.map((s) => s.name.split(' ').slice(0, 2).join(' ')).join(', ')}
+                  {r.saints.slice(0, 5).map((s) => s.name).join(', ')}{r.saints.length > 5 ? `, +${r.saints.length - 5} more` : ''}
                 </p>
               </div>
               <span class="flex shrink-0 items-center gap-3">

@@ -1,11 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Ternan of Culross"
+name: Saint Ternan of Culross
 honorific: Saint
-summary: "Fifth-century missionary bishop to the Picts in Scotland, consecrated by Saint Palladius of Ireland. He used Abernethy, Scotland as his base of operations. Founded the monastery of Culross in Fifeshire, Scotland."
+summary: >-
+  Fifth-century missionary bishop to the Picts in Scotland, consecrated by Saint Palladius of Ireland. He used
+  Abernethy, Scotland as his base of operations. Founded the monastery of Culross in Fifeshire, Scotland.
 searchAliases:
-  - "Torannan"
-region: "Scotland"
+  - Torannan
+region: Scotland
 feastDay:
   month: 6
   day: 12
@@ -17,6 +19,7 @@ vocation:
   - Missionary
   - Confessor
 martyr: false
+prayers: []
 ---
 
 Fifth-century missionary bishop to the Picts in Scotland, consecrated by Saint Palladius of Ireland. He used Abernethy, Scotland as his base of operations. Founded the monastery of Culross in Fifeshire, Scotland.

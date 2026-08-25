@@ -1,20 +1,23 @@
 ---
-name: "Blessed Élisabeth Eppinger"
+name: Blessed Élisabeth Eppinger
 honorific: Blessed
-summary: "Eldest of eleven children born to a poor farm family. Élisabeth was a sickly but very pious child. In 1846 she had the first of a series of visions, including of Jesus Christ. The combination led her to her belief that suffering could block a person from experiencing God's love,"
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Élisabeth-Eppinger.jpg"
+summary: >-
+  Eldest of eleven children born to a poor farm family. Élisabeth was a sickly but very pious child. In 1846 she had the
+  first of a series of visions, including of Jesus Christ. The combination led her to her belief that suffering could
+  block a person from experiencing God's love,
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Élisabeth-Eppinger.jpg
 searchAliases:
-  - "Mother Alphonse-Marie"
-  - "Sister Alphonse-Marie"
-  - "Alfonsa Maria Elisabeth Eppinger"
-  - "The Niederbronn Ecstatic"
+  - Mother Alphonse-Marie
+  - Sister Alphonse-Marie
+  - Alfonsa Maria Elisabeth Eppinger
+  - The Niederbronn Ecstatic
 birthYear: 1814
 deathYear: 1867
-born: "9 September 1814 in Niederbronn-les-Baines, Bas-Rhin, France during the Bourbon Restoration"
-died: "31 July 1867 in Niederbronn-les-Baines, Bas-Rhin, France during the Second French Empire of natural causes"
-birthPlace: "Bas-Rhin, France during the Bourbon Restoration"
-deathPlace: "Bas-Rhin, France during the Second French Empirenatural causes"
-region: "Argentina"
+born: 9 September 1814 in Niederbronn-les-Baines, Bas-Rhin, France during the Bourbon Restoration
+died: 31 July 1867 in Niederbronn-les-Baines, Bas-Rhin, France during the Second French Empire of natural causes
+birthPlace: Bas-Rhin, France during the Bourbon Restoration
+deathPlace: Bas-Rhin, France during the Second French Empirenatural causes
+region: Argentina
 feastDay:
   month: 7
   day: 31
@@ -24,8 +27,9 @@ vocation:
   - Religious
   - Cardinal
 patronage:
-  - "Sisters of the Holy Redeemer"
+  - Sisters of the Holy Redeemer
 martyr: false
+prayers: []
 ---
 
 Eldest of eleven children born to a poor farm family. Élisabeth was a sickly but very pious child. In 1846 she had the first of a series of visions, including of Jesus Christ. The combination led her to her belief that suffering could block a person from experiencing God's love, and relieving suffering could free a person to easier find God. When Bishop Andreas Raess examined her in July 1848 and came away convinced that she was called to serve the poor and sick.

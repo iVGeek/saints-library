@@ -1,18 +1,19 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Claudius the Minor"
+name: Blessed Claudius the Minor
 honorific: Blessed
-summary: "Franciscan monk."
+summary: Franciscan monk.
 searchAliases:
-  - "Claude"
+  - Claude
 feastDay:
   month: 3
   day: 12
 canonizationStatus: Blessed
 vocation:
   - Monk
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 martyr: false
+prayers: []
 ---
 
 Franciscan monk.

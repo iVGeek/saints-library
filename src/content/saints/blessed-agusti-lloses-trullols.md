@@ -1,15 +1,15 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Agustí Llosés Trullols"
+name: Blessed Agustí Llosés Trullols
 honorific: Blessed
-summary: "Member of the Claretians. Priest. Martyred in the Spanish Civil War."
+summary: Member of the Claretians. Priest. Martyred in the Spanish Civil War.
 birthYear: 1906
 deathYear: 1936
-born: "20 December 1906 in Cervera, Lleida, Spain"
-died: "21 August 1936 in Lleida, Spain"
-birthPlace: "Lleida, Spain"
-deathPlace: "Spain"
-region: "Spain"
+born: 20 December 1906 in Cervera, Lleida, Spain
+died: 21 August 1936 in Lleida, Spain
+birthPlace: Lleida, Spain
+deathPlace: Spain
+region: Spain
 feastDay:
   month: 8
   day: 21
@@ -19,6 +19,7 @@ vocation:
   - Priest
   - Cardinal
 martyr: true
+prayers: []
 ---
 
 Member of the Claretians. Priest. Martyred in the Spanish Civil War.

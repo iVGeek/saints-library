@@ -1,13 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Florentius of Trois-Châteaux"
+name: Saint Florentius of Trois-Châteaux
 honorific: Saint
-summary: "Martyr."
+summary: Martyr.
 searchAliases:
-  - "Florence"
-died: "3rd century Trois-Châteaux, Burgundy, France"
-deathPlace: "Burgundy, France"
-region: "Italy"
+  - Florence
+died: 3rd century Trois-Châteaux, Burgundy, France
+deathPlace: Burgundy, France
+region: Italy
 feastDay:
   month: 10
   day: 27
@@ -15,6 +15,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Martyr.

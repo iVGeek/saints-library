@@ -18,6 +18,7 @@ canonizationStatus: Blessed
 vocation: []
 religiousOrder: Franciscan
 martyr: false
+prayers: []
 ---
 
 Professor in Salamanca, Spain. Tutor to the children of duke. Canon at Coria, Spain. Franciscan.

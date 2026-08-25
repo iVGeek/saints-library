@@ -1,13 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Irenion"
+name: Saint Irenion
 honorific: Saint
-summary: "Bishop of Gaza in Palestine."
+summary: Bishop of Gaza in Palestine.
 searchAliases:
-  - "Irenian"
+  - Irenian
 deathYear: 389
-died: "389 of natural causes"
-region: "Holy Land"
+died: 389 of natural causes
+region: Holy Land
 feastDay:
   month: 12
   day: 16
@@ -16,6 +16,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Bishop of Gaza in Palestine.

@@ -16,6 +16,7 @@ vocation:
 patronage:
   - Drummuir, Scotland
 martyr: false
+prayers: []
 ---
 
 First Christian missionary in Banffshire, Scotland. A healing well there is named for him.

@@ -1,30 +1,33 @@
 ---
-name: "Saint Jeanne of the Cross Delanoue"
+name: Saint Jeanne of the Cross Delanoue
 honorific: Venerable
-summary: " During the Pentecost season in 1698, Jeanne had Youngest of twelve children. Her father was draper; her mother owned and operated a religious goods store. Her mother died in 1691, and Jeanne took over the business. Smart and hard-working, she made a success of the small business."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Jeanne-of-the-Cross-Delanoue.jpg"
+summary: ' During the Pentecost season in 1698, Jeanne had Youngest of twelve children. Her father was draper; her mother owned and operated a religious goods store. Her mother died in 1691, and Jeanne took over the business. Smart and hard-working, she made a success of the small business.'
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Jeanne-of-the-Cross-Delanoue.jpg
 searchAliases:
-  - "Jeanne del Croi Delanoue"
-  - "Johanna Delanoue"
-  - "Ioanna Delanoue"
-  - "Joan Delanoue"
+  - Jeanne del Croi Delanoue
+  - Johanna Delanoue
+  - Ioanna Delanoue
+  - Joan Delanoue
 birthYear: 1666
 deathYear: 1736
-born: "18 June 1666 at Samur, Anjou, France as Jeanne Delanoue"
-died: "17 August 1736 at Fencet, France of natural causes"
-birthPlace: "Anjou, France as Jeanne Delanoue"
-deathPlace: "Francenatural causes"
-region: "France"
+born: 18 June 1666 at Samur, Anjou, France as Jeanne Delanoue
+died: 17 August 1736 at Fencet, France of natural causes
+birthPlace: Anjou, France as Jeanne Delanoue
+deathPlace: Francenatural causes
+region: France
 feastDay:
   month: 8
   day: 17
-centuries: [17, 18]
+centuries:
+  - 17
+  - 18
 canonizationStatus: Venerable
 vocation:
   - Priest
   - Religious
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 martyr: false
+prayers: []
 ---
 
 Youngest of twelve children. Her father was draper; her mother owned and operated a religious goods store. Her mother died in 1691, and Jeanne took over the business. Smart and hard-working, she made a success of the small business.

@@ -1,29 +1,31 @@
 ---
-name: "Saint Jacinto Castañeda Puchasóns"
+name: Saint Jacinto Castañeda Puchasóns
 honorific: Venerable
-summary: "Dominican priest. Missionary to the Philippines, China, and Tonkin. Martyred in the persecutions of Trinh Sam."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Jacinto-Castañeda-Puchasóns.jpg"
+summary: Dominican priest. Missionary to the Philippines, China, and Tonkin. Martyred in the persecutions of Trinh Sam.
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Jacinto-Castañeda-Puchasóns.jpg
 searchAliases:
-  - "Hyacint Castañeda"
-  - "Hyacinth Castañeda"
+  - Hyacint Castañeda
+  - Hyacinth Castañeda
 birthYear: 1743
 deathYear: 1773
-born: "13 November 1743 in Xàtiva, Valencia, Spain"
-died: "beheaded on 7 November 1773 in Ðong Mo, Ha Tay, Vietnam"
-birthPlace: "Valencia, Spain"
-deathPlace: "Ha Tay, Vietnam"
-region: "China"
+born: 13 November 1743 in Xàtiva, Valencia, Spain
+died: beheaded on 7 November 1773 in Ðong Mo, Ha Tay, Vietnam
+birthPlace: Valencia, Spain
+deathPlace: Ha Tay, Vietnam
+region: China
 feastDay:
   month: 11
   day: 7
-centuries: [18]
+centuries:
+  - 18
 canonizationStatus: Venerable
 vocation:
   - Priest
   - Monk
   - Missionary
-religiousOrder: "Dominican"
+religiousOrder: Dominican
 martyr: true
+prayers: []
 ---
 
 Dominican priest. Missionary to the Philippines, China, and Tonkin. Martyred in the persecutions of Trinh Sam.

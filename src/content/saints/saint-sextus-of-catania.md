@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Sextus of Catania"
+name: Saint Sextus of Catania
 honorific: Saint
-summary: "Martyr. No other information has survived."
-died: "martyred at Catania, Sicily, date unknown"
-deathPlace: "Sicily, date unknown"
-region: "Italy"
+summary: Martyr. No other information has survived.
+died: martyred at Catania, Sicily, date unknown
+deathPlace: Sicily, date unknown
+region: Italy
 feastDay:
   month: 12
   day: 31
@@ -13,6 +13,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Martyr. No other information has survived.

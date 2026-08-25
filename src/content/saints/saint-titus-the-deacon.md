@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Titus the Deacon"
+name: Saint Titus the Deacon
 honorific: Saint
-summary: "Deacon. Martyred by Goths during the sacking of Rome, he was murdered while distributing alms to starving Romans."
+summary: Deacon. Martyred by Goths during the sacking of Rome, he was murdered while distributing alms to starving Romans.
 deathYear: 410
-died: "c.410"
-region: "Italy"
+died: c.410
+region: Italy
 feastDay:
   month: 8
   day: 16
@@ -14,6 +14,7 @@ vocation:
   - Monk
   - Deacon
 martyr: true
+prayers: []
 ---
 
 Deacon. Martyred by Goths during the sacking of Rome, he was murdered while distributing alms to starving Romans.

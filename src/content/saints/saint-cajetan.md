@@ -1,24 +1,27 @@
 ---
-name: "Saint Cajetan"
+name: Saint Cajetan
 honorific: Saint
-summary: "Cajetan was born the second son of pious and noble parents, Caspar de Thienna and Maria Porta, who dedicated him as an infant to the Blessed Virgin Mary. From childhood he was known as “the Saint”, and in later years as “the hunter of souls.” A distinguished student, he studied l"
-image: "https://upload.wikimedia.org/wikipedia/commons/a/a2/Francesco_Solimena_-_Estasi_di_San_Gaetano_da_Thiene.jpg"
+summary: >-
+  Cajetan was born the second son of pious and noble parents, Caspar de Thienna and Maria Porta, who dedicated him as an
+  infant to the Blessed Virgin Mary. From childhood he was known as “the Saint”, and in later years as “the hunter of
+  souls.” A distinguished student, he studied l
+image: https://upload.wikimedia.org/wikipedia/commons/a/a2/Francesco_Solimena_-_Estasi_di_San_Gaetano_da_Thiene.jpg
 searchAliases:
-  - "Cajetan the Theatine"
-  - "Cajetan of Thiene"
-  - "Cajetanus"
-  - "Cayetano"
-  - "Gaetano"
-  - "Gaetanus"
-  - "Gaetano dei Conti di Tiene"
-  - "Gaetano da Thiene"
+  - Cajetan the Theatine
+  - Cajetan of Thiene
+  - Cajetanus
+  - Cayetano
+  - Gaetano
+  - Gaetanus
+  - Gaetano dei Conti di Tiene
+  - Gaetano da Thiene
 birthYear: 1480
 deathYear: 1547
-born: "October 1480 at Vicenza, Italy as Gaetano dei Conti di Tiene"
-died: "1547 at Naples, Italy of natural causes"
-birthPlace: "Italy as Gaetano dei Conti di Tiene"
-deathPlace: "Italynatural causes"
-region: "Italy"
+born: October 1480 at Vicenza, Italy as Gaetano dei Conti di Tiene
+died: 1547 at Naples, Italy of natural causes
+birthPlace: Italy as Gaetano dei Conti di Tiene
+deathPlace: Italynatural causes
+region: Italy
 feastDay:
   month: 8
   day: 7
@@ -26,17 +29,21 @@ canonizationStatus: Saint
 vocation:
   - Priest
   - Confessor
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 patronage:
-  - "job seekers"
-  - "unemployed people"
-  - "Theatines"
-  - "–"
-  - "in Italy\n\nChieti"
-  - "Naples"
-  - "Santo Stefano Medio, Messina"
-  - "Vicenza"
+  - job seekers
+  - unemployed people
+  - Theatines
+  - –
+  - |-
+    in Italy
+
+    Chieti
+  - Naples
+  - Santo Stefano Medio, Messina
+  - Vicenza
 martyr: false
+prayers: []
 ---
 
 Cajetan was born the second son of pious and noble parents, Caspar de Thienna and Maria Porta, who dedicated him as an infant to the Blessed Virgin Mary. From childhood he was known as “the Saint”, and in later years as “the hunter of souls.” A distinguished student, he studied law in Padua, Italy, and was offered positions in the government, but he turned them down and left his native town to seek a religious vocation and obscurity in Rome. Found out, he was forced at age 28 to accept a position at the court of Pope Julius II. He was ordained a priest at age 36.

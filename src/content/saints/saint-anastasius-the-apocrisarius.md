@@ -18,6 +18,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/c/c7/Origen3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Anastasius the Apocrisarius
 imageCreditUrl: https://en.wikipedia.org/wiki/Origen
+prayers: []
 ---
 
 Monk. Priest. Apocrisarius (special diplomatic envoy) in Rome. Accompanied Saint Maximus the Confessor into exile.

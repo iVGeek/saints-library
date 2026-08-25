@@ -22,6 +22,7 @@ vocation:
   - Confessor
 religiousOrder: Franciscan
 martyr: true
+prayers: []
 ---
 
 Chosen 74th pope in 649 without imperial approval. Conducted the Lateran Council which condemned the patriach of Constantinople for Monothelitism, which claimed that Christ had no human will. This put him in opposition to the emperor who had him arrested and tortured. Paul, Patriarch of Constantinople, repented of his stance which saved Martin from execution, but the pope died soon after from damage done during his imprisonment, and is considered a martyr, the last martyred pope.

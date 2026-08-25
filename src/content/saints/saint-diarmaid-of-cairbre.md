@@ -21,6 +21,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/a/ae/Columba_at_Bridei%27s_fort.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Diarmaid of Cairbre
 imageCreditUrl: https://en.wikipedia.org/wiki/Columba
+prayers: []
 ---
 
 Son of Eoghain; elder brother of Saint Cormac. He became a travelling, evangelizing priest, known for his preaching, and based from a church in Cairbre, Ireland.

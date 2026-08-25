@@ -1,17 +1,17 @@
 ---
-name: "Blessed Zefirino Agostini"
+name: Blessed Zefirino Agostini
 honorific: Blessed
-summary: " Assigned as priest to a very poor parish in 1845. Established after Oldest son of Antonio Agostini, a physician, and Agela Frattini; his father died when Zefirino was very young. Ordained on 11 March 1837. Curate, youth minister and catechist at Saint Nazarius church for 8 years."
-image: "https://upload.wikimedia.org/wikipedia/commons/8/84/Zefirino_Agostini.jpg"
+summary: ' Assigned as priest to a very poor parish in 1845. Established after Oldest son of Antonio Agostini, a physician, and Agela Frattini; his father died when Zefirino was very young. Ordained on 11 March 1837. Curate, youth minister and catechist at Saint Nazarius church for 8 years.'
+image: https://upload.wikimedia.org/wikipedia/commons/8/84/Zefirino_Agostini.jpg
 searchAliases:
-  - "Zephyrinus Agostini"
+  - Zephyrinus Agostini
 birthYear: 1813
 deathYear: 1896
-born: "24 September 1813 at Verona, Italy"
-died: "6 April 1896 at Verona, Italy of natural causes"
-birthPlace: "Italy"
-deathPlace: "Italynatural causes"
-region: "Italy"
+born: 24 September 1813 at Verona, Italy
+died: 6 April 1896 at Verona, Italy of natural causes
+birthPlace: Italy
+deathPlace: Italynatural causes
+region: Italy
 feastDay:
   month: 4
   day: 6
@@ -21,9 +21,10 @@ vocation:
   - Priest
   - Religious
 patronage:
-  - "Congregation of Ursulines, Daughters of Mary Immaculate"
-  - "Pious Union of Sisters Devoted to Saint Angela Merici"
+  - Congregation of Ursulines, Daughters of Mary Immaculate
+  - Pious Union of Sisters Devoted to Saint Angela Merici
 martyr: false
+prayers: []
 ---
 
 Oldest son of Antonio Agostini, a physician, and Agela Frattini; his father died when Zefirino was very young. Ordained on 11 March 1837. Curate, youth minister and catechist at Saint Nazarius church for 8 years.

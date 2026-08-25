@@ -15,6 +15,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/8/86/StMaurice2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Ambrose of Agaune
 imageCreditUrl: https://en.wikipedia.org/wiki/Saint%20Maurice
+prayers: []
 ---
 
 Abbot of the monastery of Agaunum, Switzerland.

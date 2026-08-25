@@ -1,18 +1,21 @@
 ---
-name: "Blessed Philip Rinaldi"
+name: Blessed Philip Rinaldi
 honorific: Blessed
-summary: "Philip met Don Bosco at age 5, and apparently instinctively understood the importance of the future saint. Though he felt a call to a religious vocation, Philip was torn, and was seriously considering marriage when he decided to become a disciple of Don Bosco at age 22. The Chris"
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Philip-Rinaldi.jpg"
+summary: >-
+  Philip met Don Bosco at age 5, and apparently instinctively understood the importance of the future saint. Though he
+  felt a call to a religious vocation, Philip was torn, and was seriously considering marriage when he decided to become
+  a disciple of Don Bosco at age 22. The Chris
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Philip-Rinaldi.jpg
 searchAliases:
-  - "Filippo Rinaldi"
-  - "Philippi Rinaldi"
+  - Filippo Rinaldi
+  - Philippi Rinaldi
 birthYear: 1856
 deathYear: 1931
-born: "28 May 1856 at Lu, Monferrato, Piedmont, Italy"
-died: "5 December 1931 of natural causes in Turin, Italy"
-birthPlace: "Monferrato, Piedmont, Italy"
-deathPlace: "Italy"
-region: "Spain"
+born: 28 May 1856 at Lu, Monferrato, Piedmont, Italy
+died: 5 December 1931 of natural causes in Turin, Italy
+birthPlace: Monferrato, Piedmont, Italy
+deathPlace: Italy
+region: Spain
 feastDay:
   month: 12
   day: 5
@@ -20,8 +23,9 @@ canonizationStatus: Blessed
 vocation:
   - Priest
   - Religious
-religiousOrder: "Salesian"
+religiousOrder: Salesian
 martyr: false
+prayers: []
 ---
 
 Philip met Don Bosco at age 5, and apparently instinctively understood the importance of the future saint. Though he felt a call to a religious vocation, Philip was torn, and was seriously considering marriage when he decided to become a disciple of Don Bosco at age 22. The Christian Brothers immediately saw something in him, and made him an assistant novice master even before he took his vows as a Salesian on 13 August 1880. Though he had no intention to become a priest, his superiors, who saw his potential better than he did, ordered him to study and take the tests, and he was ordained on 23 December 1882.

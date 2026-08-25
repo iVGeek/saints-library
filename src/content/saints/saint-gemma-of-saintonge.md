@@ -18,6 +18,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/f/ff/Agotes_Navarre_espagnole.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Gemma of Saintonge
 imageCreditUrl: https://en.wikipedia.org/wiki/Cagot
+prayers: []
 ---
 
 Christian daughter of a pagan noble who beat her to death when she refused an arranged marriage to a young pagan man. Martyr.

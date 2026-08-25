@@ -1,16 +1,19 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Macarius the Wonder Worker"
+name: Saint Macarius the Wonder Worker
 honorific: Saint
-summary: "Monk at the monastery at Pelekete, taking the name Macarius. Abbot. Miracle worker. Ordained by Patriarch Tarasius of Constantinople. Imprisoned and tortured for his opposition to Emperor Leo's orders of iconoclasm. Released by Emperor Michael the Stammerer, then exiled for his c"
+summary: >-
+  Monk at the monastery at Pelekete, taking the name Macarius. Abbot. Miracle worker. Ordained by Patriarch Tarasius of
+  Constantinople. Imprisoned and tortured for his opposition to Emperor Leo's orders of iconoclasm. Released by Emperor
+  Michael the Stammerer, then exiled for his c
 searchAliases:
-  - "Christopher"
-  - "Macarius of Constantinople"
+  - Christopher
+  - Macarius of Constantinople
 deathYear: 850
-born: "9th century Constantinople as Christopher"
-died: "18 August 850 on the island of Aphusia, Bithynia of natural causes"
-deathPlace: "Bithynianatural causes"
-region: "Turkey"
+born: 9th century Constantinople as Christopher
+died: 18 August 850 on the island of Aphusia, Bithynia of natural causes
+deathPlace: Bithynianatural causes
+region: Turkey
 feastDay:
   month: 8
   day: 18
@@ -19,6 +22,7 @@ vocation:
   - Priest
   - Monk
 martyr: false
+prayers: []
 ---
 
 Monk at the monastery at Pelekete, taking the name Macarius. Abbot. Miracle worker. Ordained by Patriarch Tarasius of Constantinople. Imprisoned and tortured for his opposition to Emperor Leo's orders of iconoclasm. Released by Emperor Michael the Stammerer, then exiled for his continued support of icons.

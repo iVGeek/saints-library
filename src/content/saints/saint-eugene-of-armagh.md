@@ -21,6 +21,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/d/de/ArmaghCICathedral.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Eugene of Armagh
 imageCreditUrl: https://en.wikipedia.org/wiki/Archbishop%20of%20Armagh
+prayers: []
 ---
 
 Monk. Abbot of Armagh, Ireland. Abbot of Clonard, Ireland.

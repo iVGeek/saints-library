@@ -22,6 +22,7 @@ canonizationStatus: Blessed
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Abbot in Reading, England in 1520. Royal chaplain, member of Parliament, and close friend of King Henry VIII. When Henry split with Rome and ordered the dissolution of religious houses, Hugh refused to surrender his abbey. He was convicted of treason, and martyred.

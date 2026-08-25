@@ -17,6 +17,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/4c/San_Remo038.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Felix of Genoa
 imageCreditUrl: https://en.wikipedia.org/wiki/Romulus%20of%20Genoa
+prayers: []
 ---
 
 Second bishop of Genoa, Italy, c.400. Spiritual teacher of Saint Syrus of Genoa.

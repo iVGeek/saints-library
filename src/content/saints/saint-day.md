@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Day"
+name: Saint Day
 honorific: Saint
-summary: "A church near Redruth, Cornwall, England is named for him. No information about him has survived."
+summary: A church near Redruth, Cornwall, England is named for him. No information about him has survived.
 searchAliases:
-  - "Dye"
-region: "England"
+  - Dye
+region: England
 feastDay:
   month: 1
   day: 18
@@ -13,6 +13,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: false
+prayers: []
 ---
 
 A church near Redruth, Cornwall, England is named for him. No information about him has survived.

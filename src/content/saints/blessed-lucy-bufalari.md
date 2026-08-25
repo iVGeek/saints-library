@@ -1,27 +1,28 @@
 ---
-name: "Blessed Lucy Bufalari"
+name: Blessed Lucy Bufalari
 honorific: Blessed
-summary: "Sister of Blessed John of Rieti. Augustinian Oblate nun at Amelia, Italy where she became prioress."
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Lucy-Bufalari.jpg"
+summary: Sister of Blessed John of Rieti. Augustinian Oblate nun at Amelia, Italy where she became prioress.
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Lucy-Bufalari.jpg
 searchAliases:
-  - "Lucy of Amelia"
+  - Lucy of Amelia
 deathYear: 1350
-born: "early 14th century at Castel Porziano near Rome, Italy"
-died: "27 July 1350 at the Augustinian convent in Amelia, Italy of natural causes"
-birthPlace: "Italy"
-deathPlace: "Italynatural causes"
-region: "Italy"
+born: early 14th century at Castel Porziano near Rome, Italy
+died: 27 July 1350 at the Augustinian convent in Amelia, Italy of natural causes
+birthPlace: Italy
+deathPlace: Italynatural causes
+region: Italy
 feastDay:
   month: 7
   day: 27
 canonizationStatus: Blessed
 vocation:
   - Religious
-religiousOrder: "Augustinian"
+religiousOrder: Augustinian
 patronage:
-  - "against demonic possession"
-  - "sick children"
+  - against demonic possession
+  - sick children
 martyr: false
+prayers: []
 ---
 
 Sister of Blessed John of Rieti. Augustinian Oblate nun at Amelia, Italy where she became prioress.

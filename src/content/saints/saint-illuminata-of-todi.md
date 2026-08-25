@@ -17,6 +17,7 @@ vocation:
   - Monk
   - Religious
 martyr: false
+prayers: []
 ---
 
 Nun. Venerated in her home town, but her biography has been lost.

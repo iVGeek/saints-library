@@ -15,6 +15,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/f/f6/Liguori.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Eugene of Tomi
 imageCreditUrl: https://en.wikipedia.org/wiki/Alphonsus%20Liguori
+prayers: []
 ---
 
 One of a group of Christians martyred together. No other information has survived.

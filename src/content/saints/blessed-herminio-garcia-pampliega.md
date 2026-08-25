@@ -1,17 +1,17 @@
 ---
-name: "Blessed Herminio García Pampliega"
+name: Blessed Herminio García Pampliega
 honorific: Blessed
-summary: "Trappist priest. Martyred in the Spanish Civil War."
-image: "http://catholicsaints.info/wp-content/uploads/img-Martyred-Cistercians-of-the-Spanish-Civil-War.jpg"
+summary: Trappist priest. Martyred in the Spanish Civil War.
+image: http://catholicsaints.info/wp-content/uploads/img-Martyred-Cistercians-of-the-Spanish-Civil-War.jpg
 searchAliases:
-  - "Father Eugenio"
+  - Father Eugenio
 birthYear: 1902
 deathYear: 1936
-born: "23 November 1902 in Villagonzalo Pedernales, Burgos, Spain"
-died: "21 September 1936 in Cuesta de las Anguilas, Santander, Cantabria, Spain"
-birthPlace: "Burgos, Spain"
-deathPlace: "Santander, Cantabria, Spain"
-region: "Spain"
+born: 23 November 1902 in Villagonzalo Pedernales, Burgos, Spain
+died: 21 September 1936 in Cuesta de las Anguilas, Santander, Cantabria, Spain
+birthPlace: Burgos, Spain
+deathPlace: Santander, Cantabria, Spain
+region: Spain
 feastDay:
   month: 9
   day: 21
@@ -20,6 +20,7 @@ vocation:
   - Priest
   - Cardinal
 martyr: true
+prayers: []
 ---
 
 Trappist priest. Martyred in the Spanish Civil War.

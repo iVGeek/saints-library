@@ -1,9 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Molaise of Inismurray"
+name: Saint Molaise of Inismurray
 honorific: Saint
-summary: "The son of Delglan. Sixth century monk. Abbot of the Inismurray monastery on the island off the coast of Sligo, Ireland. Worked with Saint Columba, and may have been his confessor."
-region: "Ireland"
+summary: >-
+  The son of Delglan. Sixth century monk. Abbot of the Inismurray monastery on the island off the coast of Sligo,
+  Ireland. Worked with Saint Columba, and may have been his confessor.
+region: Ireland
 feastDay:
   month: 8
   day: 12
@@ -12,6 +14,7 @@ vocation:
   - Monk
   - Confessor
 martyr: false
+prayers: []
 ---
 
 The son of Delglan. Sixth century monk. Abbot of the Inismurray monastery on the island off the coast of Sligo, Ireland. Worked with Saint Columba, and may have been his confessor.

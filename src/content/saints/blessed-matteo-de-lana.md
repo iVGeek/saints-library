@@ -1,11 +1,11 @@
 ---
-name: "Blessed Matteo de Lana"
+name: Blessed Matteo de Lana
 honorific: Blessed
-summary: "Mercedarian monk at the monastery of Santa Maria degli Ulivi."
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Matteo-de-Lana.jpg"
+summary: Mercedarian monk at the monastery of Santa Maria degli Ulivi.
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Matteo-de-Lana.jpg
 searchAliases:
-  - "Matthew"
-region: "Italy"
+  - Matthew
+region: Italy
 feastDay:
   month: 1
   day: 13
@@ -13,6 +13,7 @@ canonizationStatus: Blessed
 vocation:
   - Monk
 martyr: false
+prayers: []
 ---
 
 Mercedarian monk at the monastery of Santa Maria degli Ulivi.

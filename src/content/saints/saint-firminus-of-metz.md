@@ -1,13 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Firminus of Metz"
+name: Saint Firminus of Metz
 honorific: Saint
-summary: "Bishop of Metz, France for eight years."
+summary: Bishop of Metz, France for eight years.
 searchAliases:
-  - "Fermin"
+  - Fermin
 deathYear: 496
-died: "496"
-region: "France"
+died: '496'
+region: France
 feastDay:
   month: 8
   day: 18
@@ -16,6 +16,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Bishop of Metz, France for eight years.

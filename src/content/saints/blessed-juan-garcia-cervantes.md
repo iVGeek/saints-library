@@ -1,14 +1,14 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Juan García Cervantes"
+name: Blessed Juan García Cervantes
 honorific: Blessed
-summary: "Priest of the diocese of Almería, Spain. Martyred in the Spanish Civil War."
+summary: Priest of the diocese of Almería, Spain. Martyred in the Spanish Civil War.
 birthYear: 1885
 deathYear: 1936
-born: "16 March 1885 in Garrucha, Almeria Spain"
-died: "22 September 1936 in Almeria Spain"
-birthPlace: "Almeria Spain"
-region: "Spain"
+born: 16 March 1885 in Garrucha, Almeria Spain
+died: 22 September 1936 in Almeria Spain
+birthPlace: Almeria Spain
+region: Spain
 feastDay:
   month: 9
   day: 22
@@ -17,6 +17,7 @@ vocation:
   - Priest
   - Cardinal
 martyr: true
+prayers: []
 ---
 
 Priest of the diocese of Almería, Spain. Martyred in the Spanish Civil War.

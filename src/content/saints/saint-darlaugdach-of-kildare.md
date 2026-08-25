@@ -1,18 +1,20 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Darlaugdach of Kildare"
+name: Saint Darlaugdach of Kildare
 honorific: Saint
-summary: "Spiritual student of Saint Brigid at her convent in Kildare, Ireland. She succeeded Saint Brigid as abbess of the house."
+summary: >-
+  Spiritual student of Saint Brigid at her convent in Kildare, Ireland. She succeeded Saint Brigid as abbess of the
+  house.
 searchAliases:
-  - "Dardulacha"
-  - "Darlugdach"
-  - "Darulagdach"
-  - "Derlugdach"
-  - "Derlugdacha"
-  - "Lugdach"
+  - Dardulacha
+  - Darlugdach
+  - Darulagdach
+  - Derlugdach
+  - Derlugdacha
+  - Lugdach
 deathYear: 524
-died: "c.524 of natural causes"
-region: "Ireland"
+died: c.524 of natural causes
+region: Ireland
 feastDay:
   month: 2
   day: 1
@@ -22,6 +24,7 @@ vocation:
   - Monk
   - Religious
 martyr: false
+prayers: []
 ---
 
 Spiritual student of Saint Brigid at her convent in Kildare, Ireland. She succeeded Saint Brigid as abbess of the house.

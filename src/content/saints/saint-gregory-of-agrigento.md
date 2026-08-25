@@ -13,6 +13,7 @@ canonizationStatus: Saint
 vocation:
   - Bishop
 martyr: true
+prayers: []
 ---
 
 Martyred in the persecutions of Valerian.

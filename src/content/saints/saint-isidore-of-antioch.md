@@ -1,14 +1,14 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Isidore of Antioch"
+name: Saint Isidore of Antioch
 honorific: Saint
-summary: "Bishop of Zaragoza, Spain. Martyred, possibly by Arians."
+summary: Bishop of Zaragoza, Spain. Martyred, possibly by Arians.
 searchAliases:
-  - "Isidonus"
-  - "Isiridonus"
-  - "Siridon"
-  - "Siridion"
-region: "Spain"
+  - Isidonus
+  - Isiridonus
+  - Siridon
+  - Siridion
+region: Spain
 feastDay:
   month: 1
   day: 2
@@ -17,6 +17,7 @@ vocation:
   - Bishop
   - Monk
 martyr: true
+prayers: []
 ---
 
 Bishop of Zaragoza, Spain. Martyred, possibly by Arians.

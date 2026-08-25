@@ -1,15 +1,15 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Gabriel Desprez de Roche"
+name: Blessed Gabriel Desprez de Roche
 honorific: Blessed
-summary: "Priest of the archdiocese of Paris, France. One of the Martyrs of September."
+summary: Priest of the archdiocese of Paris, France. One of the Martyrs of September.
 birthYear: 1751
 deathYear: 1792
-born: "1751 in Decize, Nièvre, France"
-died: "2 September 1792 at the Hôtel des Carmes, Paris, France"
-birthPlace: "Nièvre, France"
-deathPlace: "Paris, France"
-region: "France"
+born: 1751 in Decize, Nièvre, France
+died: 2 September 1792 at the Hôtel des Carmes, Paris, France
+birthPlace: Nièvre, France
+deathPlace: Paris, France
+region: France
 feastDay:
   month: 9
   day: 2
@@ -17,8 +17,9 @@ canonizationStatus: Blessed
 vocation:
   - Priest
   - Monk
-religiousOrder: "Carmelite"
+religiousOrder: Carmelite
 martyr: true
+prayers: []
 ---
 
 Priest of the archdiocese of Paris, France. One of the Martyrs of September.

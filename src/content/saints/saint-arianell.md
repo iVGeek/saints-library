@@ -1,10 +1,12 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Arianell"
+name: Saint Arianell
 honorific: Saint
-summary: "Sixth century member of the Welsh royal family. She became possessed by an spirit, and was exorcised by Saint Dyfrig. Soon after, Arianell became a nun and spiritual student of Dyfrig."
-born: "Gwent, Wales"
-birthPlace: "Wales"
+summary: >-
+  Sixth century member of the Welsh royal family. She became possessed by an spirit, and was exorcised by Saint Dyfrig.
+  Soon after, Arianell became a nun and spiritual student of Dyfrig.
+born: Gwent, Wales
+birthPlace: Wales
 feastDay:
   month: 6
   day: 27
@@ -13,6 +15,7 @@ vocation:
   - Monk
   - Religious
 martyr: false
+prayers: []
 ---
 
 Sixth century member of the Welsh royal family. She became possessed by an spirit, and was exorcised by Saint Dyfrig. Soon after, Arianell became a nun and spiritual student of Dyfrig.

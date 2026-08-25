@@ -18,6 +18,7 @@ vocation:
   - Monk
   - Hermit
 martyr: false
+prayers: []
 ---
 
 Hermit at Bodmin, Cornwall, England in the 6th century. Several Cornish churches are named for him.

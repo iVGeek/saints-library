@@ -31,6 +31,7 @@ patronage:
   - papal delegates
   - Italian army and soldiers (proclaimed on 12 September 2017)
 martyr: false
+prayers: []
 ---
 
 Born to an Italian peasant family. Educated at Bergamo and the Pontifical Roman Seminary. Ordained on 10 August 1904. Secretary to the bishop of Bergamo, Italy from 1904 to 1914, during which he wrote the basis for his five-volume biography of Saint Charles Borromeo. Served in World War I in the medical corps, and as a chaplain. Worked in Rome, Italy after the war, and reorganized the Society for the Propagation of the Faith. Titular archbishop of Areopolis on 3 March 1925. Vatican diplomatic representative to Bulgaria on 16 October 1931, then to Turkey and Greece on 12 January 1935. Titular archbishop of Mesembria on 30 November 1934. Papal nuncio to France on 23 December 1944 where he mediated between conservative and socially radical clergy. Created cardinal on 12 January 1953, and patriarch of Venice, Italy on 15 January 1953. Elected 261st pope on 28 October 1958.

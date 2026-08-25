@@ -15,6 +15,7 @@ vocation:
   - Monk
   - Hermit
 martyr: false
+prayers: []
 ---
 
 May have been Irish royalty. Hermit at Oostkerk, Flanders, Belgium.

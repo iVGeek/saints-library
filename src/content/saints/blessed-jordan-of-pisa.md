@@ -23,6 +23,7 @@ vocation:
   - Confessor
 religiousOrder: Dominican
 martyr: false
+prayers: []
 ---
 
 Joined the Dominicans at Pisa, Italy in 1280. Educated at the University of Paris, France. Lector at Sainta Maria Novella church in Florence, Italy in 1305. Noted preacher in and around Florence. Founded the Confraternity of the Holy Redeemer at Pisa. Professor of theology at Saint James Friary, Paris in 1311. A visionary, Jordan had two great devotions – Our Lady and Saint Dominic de Guzman.

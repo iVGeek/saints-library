@@ -1,17 +1,19 @@
 ---
-name: "Saint Benedict of Macerac"
+name: Saint Benedict of Macerac
 honorific: Saint
-summary: "Monk. Abbot at Petras. Hermit at Macerac, diocese of Nantes, France. His holiness and wisdom attacted so many spiritual students that he founded a Columban monastery for them."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Benedict-of-Macerac.jpg"
+summary: >-
+  Monk. Abbot at Petras. Hermit at Macerac, diocese of Nantes, France. His holiness and wisdom attacted so many
+  spiritual students that he founded a Columban monastery for them.
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Benedict-of-Macerac.jpg
 searchAliases:
-  - "Benedict of Massérac"
-  - "Benito…"
-  - "Benedetto…"
+  - Benedict of Massérac
+  - Benito…
+  - Benedetto…
 deathYear: 845
-born: "Greece"
-died: "845 in the diocese of Nantes, Brittany (in modern France)"
-deathPlace: "Brittany (modern France)"
-region: "France"
+born: Greece
+died: 845 in the diocese of Nantes, Brittany (in modern France)
+deathPlace: Brittany (modern France)
+region: France
 feastDay:
   month: 10
   day: 22
@@ -20,6 +22,7 @@ vocation:
   - Monk
   - Hermit
 martyr: false
+prayers: []
 ---
 
 Monk. Abbot at Petras. Hermit at Macerac, diocese of Nantes, France. His holiness and wisdom attacted so many spiritual students that he founded a Columban monastery for them.

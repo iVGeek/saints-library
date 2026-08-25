@@ -1,14 +1,14 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Jovinian of Auxerre"
+name: Saint Jovinian of Auxerre
 honorific: Saint
-summary: "Missionary. Lector of the church at Auxerre, France. Worked with Saint Peregrinus of Auxerre. Martyr."
+summary: Missionary. Lector of the church at Auxerre, France. Worked with Saint Peregrinus of Auxerre. Martyr.
 searchAliases:
-  - "Gioviniano"
-  - "Giovine"
+  - Gioviniano
+  - Giovine
 deathYear: 300
-died: "martyred c.300"
-region: "France"
+died: martyred c.300
+region: France
 feastDay:
   month: 5
   day: 5
@@ -17,6 +17,7 @@ vocation:
   - Monk
   - Missionary
 martyr: true
+prayers: []
 ---
 
 Missionary. Lector of the church at Auxerre, France. Worked with Saint Peregrinus of Auxerre. Martyr.

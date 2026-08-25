@@ -1,14 +1,16 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Biblis of Lyons"
+name: Saint Biblis of Lyons
 honorific: Saint
-summary: "Tortured to admit to the crime of cannibalism, a slur often ascribed to early Christians. Martyred with 45 other Christians in the persecutions of Marcus Aurelius. One of the Martyrs of Lyons and Vienne."
+summary: >-
+  Tortured to admit to the crime of cannibalism, a slur often ascribed to early Christians. Martyred with 45 other
+  Christians in the persecutions of Marcus Aurelius. One of the Martyrs of Lyons and Vienne.
 searchAliases:
-  - "Biblides"
+  - Biblides
 deathYear: 177
-died: "177 at Lyons, France"
-deathPlace: "France"
-region: "France"
+died: 177 at Lyons, France
+deathPlace: France
+region: France
 feastDay:
   month: 6
   day: 2
@@ -16,6 +18,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Tortured to admit to the crime of cannibalism, a slur often ascribed to early Christians. Martyred with 45 other Christians in the persecutions of Marcus Aurelius. One of the Martyrs of Lyons and Vienne.

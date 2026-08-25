@@ -1,12 +1,12 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Robert Dibdale"
+name: Blessed Robert Dibdale
 honorific: Blessed
-summary: "Priest for the apostolic vicariate of England. Martyr."
+summary: Priest for the apostolic vicariate of England. Martyr.
 birthYear: 1558
-born: "c.1558 in Worcestershire, England"
-birthPlace: "England"
-region: "England"
+born: c.1558 in Worcestershire, England
+birthPlace: England
+region: England
 feastDay:
   month: 10
   day: 8
@@ -14,6 +14,7 @@ canonizationStatus: Blessed
 vocation:
   - Priest
 martyr: true
+prayers: []
 ---
 
 Priest for the apostolic vicariate of England. Martyr.

@@ -1,9 +1,9 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Cassian of Rome"
+name: Saint Cassian of Rome
 honorific: Saint
-summary: "Roman martyr. No other information has survived."
-region: "England"
+summary: Roman martyr. No other information has survived.
+region: England
 feastDay:
   month: 12
   day: 1
@@ -11,6 +11,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Roman martyr. No other information has survived.

@@ -1,26 +1,30 @@
 ---
-name: "Blessed Augustine Fangi"
+name: Blessed Augustine Fangi
 honorific: Blessed
-summary: "Born to wealthy nobility. Joined the Dominicans as a young man, and entered the house in Biella, Italy. Noted for his severe self-imposed penances, and his complete self-control; he once had surgery without anesthetic, and without making an outcry, claming his mind had been on hi"
-image: "https://upload.wikimedia.org/wikipedia/commons/e/e1/Agostinobiella.JPG"
+summary: >-
+  Born to wealthy nobility. Joined the Dominicans as a young man, and entered the house in Biella, Italy. Noted for his
+  severe self-imposed penances, and his complete self-control; he once had surgery without anesthetic, and without
+  making an outcry, claming his mind had been on hi
+image: https://upload.wikimedia.org/wikipedia/commons/e/e1/Agostinobiella.JPG
 searchAliases:
-  - "Augustine of Biella"
-  - "Agostino Fangi"
+  - Augustine of Biella
+  - Agostino Fangi
 birthYear: 1430
 deathYear: 1493
-born: "1430 at Biella, Piedmont, Italy"
-died: "22 July 1493 at Venice, Italy of natural causes"
-birthPlace: "Piedmont, Italy"
-deathPlace: "Italynatural causes"
-region: "Italy"
+born: 1430 at Biella, Piedmont, Italy
+died: 22 July 1493 at Venice, Italy of natural causes
+birthPlace: Piedmont, Italy
+deathPlace: Italynatural causes
+region: Italy
 feastDay:
   month: 7
   day: 22
 canonizationStatus: Blessed
 vocation:
   - Confessor
-religiousOrder: "Dominican"
+religiousOrder: Dominican
 martyr: false
+prayers: []
 ---
 
 Born to wealthy nobility. Joined the Dominicans as a young man, and entered the house in Biella, Italy. Noted for his severe self-imposed penances, and his complete self-control; he once had surgery without anesthetic, and without making an outcry, claming his mind had been on his prayers. Prior of houses in Biella, Socino in 1464, Vercelli, and Vigevano. Miracle worker, whose incidents include

@@ -16,6 +16,7 @@ imageCredit: >-
   <a rel="nofollow" class="external free"
   href="https://www2.ed.gov/news/staff/bios/brogan.html">https://www2.ed.gov/news/staff/bios/brogan.html</a>
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:Frank%20Brogan%20official%20photo.jpg
+prayers: []
 ---
 
 Mentioned in the Gorman Martyrology. No other information has survived.

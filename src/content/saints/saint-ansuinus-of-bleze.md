@@ -27,6 +27,7 @@ imageCredit: >-
   <a rel="nofollow" class="external free"
   href="http://www.galileopark.it/onenew.php?id=728">http://www.galileopark.it/onenew.php?id=728</a>
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:Ovetari%2C%20storie%20di%20san%20cristoforo.JPG
+prayers: []
 ---
 
 Priest. Martyred defending the altar at the Benedictine monastery of Saint Peter and Paul at Bèze, Côte-d'Or, France against Norman invaders.

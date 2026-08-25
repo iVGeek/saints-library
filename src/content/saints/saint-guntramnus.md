@@ -1,22 +1,22 @@
 ---
-name: "Saint Guntramnus"
+name: Saint Guntramnus
 honorific: Saint
-summary: " He divorced Mercatrude; some time later she became seriously ill, and when her physician coul Grew up without the faith. Son of King Clotaire and Saint Clothildis. Brother of King Charibert and King Sigebert. King of Orleans and Burgundy in 561. Married to Mercatrude. Peacemaker."
-image: "http://catholicsaints.info/wp-content/uploads/Statue_de_saint_Gontran.jpg"
+summary: ' He divorced Mercatrude; some time later she became seriously ill, and when her physician coul Grew up without the faith. Son of King Clotaire and Saint Clothildis. Brother of King Charibert and King Sigebert. King of Orleans and Burgundy in 561. Married to Mercatrude. Peacemaker.'
+image: http://catholicsaints.info/wp-content/uploads/Statue_de_saint_Gontran.jpg
 searchAliases:
-  - "Contran"
-  - "Gontram"
-  - "Gontran"
-  - "Gontrano"
-  - "Gontranno"
-  - "Gunthrammus"
-  - "Gunthramnus"
-  - "Guntram"
-  - "Guntrammo"
-  - "Guntran"
+  - Contran
+  - Gontram
+  - Gontran
+  - Gontrano
+  - Gontranno
+  - Gunthrammus
+  - Gunthramnus
+  - Guntram
+  - Guntrammo
+  - Guntran
 deathYear: 592
-died: "28 March 592"
-region: "France"
+died: 28 March 592
+region: France
 feastDay:
   month: 3
   day: 28
@@ -26,9 +26,10 @@ vocation:
   - Monk
   - Confessor
 patronage:
-  - "divorced people"
-  - "guardians"
+  - divorced people
+  - guardians
 martyr: false
+prayers: []
 ---
 
 Grew up without the faith. Son of King Clotaire and Saint Clothildis. Brother of King Charibert and King Sigebert. King of Orleans and Burgundy in 561. Married to Mercatrude. Peacemaker.

@@ -1,14 +1,16 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Orentius of Loret"
+name: Saint Orentius of Loret
 honorific: Saint
-summary: "Married to Saint Patientia of Loret. Lived near Huesca, Spain. An old Spanish tradition makes him the father of Saint Lawrence of Rome. Martyr."
+summary: >-
+  Married to Saint Patientia of Loret. Lived near Huesca, Spain. An old Spanish tradition makes him the father of Saint
+  Lawrence of Rome. Martyr.
 searchAliases:
-  - "Orentius of Huesca"
-  - "Orenzio…."
+  - Orentius of Huesca
+  - Orenzio….
 deathYear: 240
-died: "c.240"
-region: "Spain"
+died: c.240
+region: Spain
 feastDay:
   month: 5
   day: 1
@@ -17,8 +19,9 @@ vocation:
   - Priest
   - Monk
 patronage:
-  - "against vermin"
+  - against vermin
 martyr: true
+prayers: []
 ---
 
 Married to Saint Patientia of Loret. Lived near Huesca, Spain. An old Spanish tradition makes him the father of Saint Lawrence of Rome. Martyr.

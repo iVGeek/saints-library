@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Angelelmus of Auxerre"
+name: Saint Angelelmus of Auxerre
 honorific: Saint
-summary: "Abbot of the monastery of Saint Gervase and Protase in Auxerre, France. Bishop of Auxerre."
+summary: Abbot of the monastery of Saint Gervase and Protase in Auxerre, France. Bishop of Auxerre.
 deathYear: 828
-died: "828"
-region: "France"
+died: '828'
+region: France
 feastDay:
   month: 7
   day: 7
@@ -14,6 +14,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Abbot of the monastery of Saint Gervase and Protase in Auxerre, France. Bishop of Auxerre.

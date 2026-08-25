@@ -20,6 +20,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/en/1/11/Thecla_in_flames%2C_flanked_by_angels_%28detail%2C_Tarragona%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Martyrs of Seleucia
 imageCreditUrl: https://en.wikipedia.org/wiki/Thecla
+prayers: []
 ---
 
 One-hundred and eleven (111) men and nine (9) women who, because they were Christians, were dragged to Seleucia and martyred for refusing to worship the sun or fire or other pagan idols during the persecutions of King Shapur II.

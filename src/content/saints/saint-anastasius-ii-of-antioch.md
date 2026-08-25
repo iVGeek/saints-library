@@ -1,14 +1,17 @@
 ---
-name: "Saint Anastasius II of Antioch"
+name: Saint Anastasius II of Antioch
 honorific: Saint
-summary: "Bishop of Antioch, Syria in 599. Fought simony in his diocese with the support of Pope Gregory the Great. Murdered by a mob during an uprising of Syrian Jews against Emperor Phocas who was trying to force conversions; because he died in anti-Church violence, he is considered a ma"
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Anastasius-II-of-Antioch.jpg"
+summary: >-
+  Bishop of Antioch, Syria in 599. Fought simony in his diocese with the support of Pope Gregory the Great. Murdered by
+  a mob during an uprising of Syrian Jews against Emperor Phocas who was trying to force conversions; because he died in
+  anti-Church violence, he is considered a ma
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Anastasius-II-of-Antioch.jpg
 searchAliases:
-  - "Anastasius II the Younger"
+  - Anastasius II the Younger
 deathYear: 609
-born: "6th century"
-died: "609"
-region: "Turkey"
+born: 6th century
+died: '609'
+region: Turkey
 feastDay:
   month: 12
   day: 21
@@ -18,6 +21,7 @@ vocation:
   - Priest
   - Monk
 martyr: true
+prayers: []
 ---
 
 Bishop of Antioch, Syria in 599. Fought simony in his diocese with the support of Pope Gregory the Great. Murdered by a mob during an uprising of Syrian Jews against Emperor Phocas who was trying to force conversions; because he died in anti–Church violence, he is considered a martyr.

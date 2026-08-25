@@ -1,9 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Benedicta of Origny-sur-Oise"
+name: Saint Benedicta of Origny-sur-Oise
 honorific: Saint
-summary: "Third-century Christian daughter of Mathoclus, a pagan imperial Roman senator. Missionary in Origny-sur-Oise, France. Captured, she was tortured by her father to make her abandon her faith; when that did not work, he killed her. Martyr."
-region: "France"
+summary: >-
+  Third-century Christian daughter of Mathoclus, a pagan imperial Roman senator. Missionary in Origny-sur-Oise, France.
+  Captured, she was tortured by her father to make her abandon her faith; when that did not work, he killed her. Martyr.
+region: France
 feastDay:
   month: 10
   day: 8
@@ -13,6 +15,7 @@ vocation:
   - Monk
   - Missionary
 martyr: true
+prayers: []
 ---
 
 Third-century Christian daughter of Mathoclus, a pagan imperial Roman senator. Missionary in Origny-sur-Oise, France. Captured, she was tortured by her father to make her abandon her faith; when that did not work, he killed her. Martyr.

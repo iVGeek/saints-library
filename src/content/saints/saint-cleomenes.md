@@ -19,6 +19,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/7/79/San_Stefano_Grand_Plaza.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Cleomenes
 imageCreditUrl: https://en.wikipedia.org/wiki/Alexandria
+prayers: []
 ---
 
 One of the Martyrs of Crete who died in the persecutions of Decius. No other information has survived.

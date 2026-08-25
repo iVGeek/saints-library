@@ -1,24 +1,28 @@
 ---
-name: "Blessed Luke Belludi"
+name: Blessed Luke Belludi
 honorific: Blessed
-summary: "Born to the Italian nobility. Brought into the Franciscans by Saint Anthony of Padua and Saint Francis of Assisi. Anthony's companion in his travels and preaching, tending to him in his last days and taking Anthony's place upon his death. Guardian of the Friars Minor in the city"
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Luke-Belludi.jpg"
+summary: >-
+  Born to the Italian nobility. Brought into the Franciscans by Saint Anthony of Padua and Saint Francis of Assisi.
+  Anthony's companion in his travels and preaching, tending to him in his last days and taking Anthony's place upon his
+  death. Guardian of the Friars Minor in the city
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Luke-Belludi.jpg
 searchAliases:
-  - "Lucas Belludi"
-  - "Lukas Belludi"
+  - Lucas Belludi
+  - Lukas Belludi
 birthYear: 1200
 deathYear: 1285
-born: "c.1200 in Padua, Italy"
-died: "c.1285 of natural causes"
-birthPlace: "Italy"
-region: "Italy"
+born: c.1200 in Padua, Italy
+died: c.1285 of natural causes
+birthPlace: Italy
+region: Italy
 feastDay:
   month: 2
   day: 17
 canonizationStatus: Blessed
 vocation: []
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 martyr: false
+prayers: []
 ---
 
 Born to the Italian nobility. Brought into the Franciscans by Saint Anthony of Padua and Saint Francis of Assisi. Anthony's companion in his travels and preaching, tending to him in his last days and taking Anthony's place upon his death. Guardian of the Friars Minor in the city of Padua.

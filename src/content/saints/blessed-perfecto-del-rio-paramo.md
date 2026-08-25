@@ -1,23 +1,24 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Perfecto Del Río Páramo"
+name: Blessed Perfecto Del Río Páramo
 honorific: Blessed
-summary: "Brother in the Vincentian Congregation of the Mission. Martyred in the Spanish Civil War."
+summary: Brother in the Vincentian Congregation of the Mission. Martyred in the Spanish Civil War.
 birthYear: 1882
 deathYear: 1936
-born: "18 April 1882 in Pedroda del Rio Urbel, Burgos, Spain"
-died: "12 August 1936 in Madrid, Spain"
-birthPlace: "Burgos, Spain"
-deathPlace: "Spain"
-region: "Spain"
+born: 18 April 1882 in Pedroda del Rio Urbel, Burgos, Spain
+died: 12 August 1936 in Madrid, Spain
+birthPlace: Burgos, Spain
+deathPlace: Spain
+region: Spain
 feastDay:
   month: 8
   day: 12
 canonizationStatus: Blessed
 vocation:
   - Cardinal
-religiousOrder: "Lazarist"
+religiousOrder: Lazarist
 martyr: true
+prayers: []
 ---
 
 Brother in the Vincentian Congregation of the Mission. Martyred in the Spanish Civil War.

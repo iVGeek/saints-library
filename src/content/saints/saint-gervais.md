@@ -17,6 +17,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/7/79/Facade_St-Gervais_St-Protais.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Gervais
 imageCreditUrl: https://en.wikipedia.org/wiki/Saint-Gervais-Saint-Protais
+prayers: []
 ---
 
 Deacon in the diocese of Le Mans, France. Pilgrim to Rome, Italy, he was murdered while travelling home.

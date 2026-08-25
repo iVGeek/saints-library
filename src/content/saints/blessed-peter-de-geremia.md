@@ -1,17 +1,20 @@
 ---
-name: "Blessed Peter de Geremia"
+name: Blessed Peter de Geremia
 honorific: Blessed
-summary: "Educated at the University of Bologna, Italy; brilliant law student. One night while he meditated on the worldly success he would have, he was visited by the spirit of a deceased relative, a man who had also been a lawyer, whose pride and perjury had lost him his chance at paradi"
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Peter-de-Geremia.jpg"
+summary: >-
+  Educated at the University of Bologna, Italy; brilliant law student. One night while he meditated on the worldly
+  success he would have, he was visited by the spirit of a deceased relative, a man who had also been a lawyer, whose
+  pride and perjury had lost him his chance at paradi
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Peter-de-Geremia.jpg
 searchAliases:
-  - "Pietro Geremia"
+  - Pietro Geremia
 birthYear: 1381
 deathYear: 1452
-born: "1381 at Palermo, Sicily"
-died: "3 March 1452 in the convent of Santa Zita, Palermo, Sicily of natural causes"
-birthPlace: "Sicily"
-deathPlace: "Palermo, Sicilynatural causes"
-region: "Italy"
+born: 1381 at Palermo, Sicily
+died: 3 March 1452 in the convent of Santa Zita, Palermo, Sicily of natural causes
+birthPlace: Sicily
+deathPlace: Palermo, Sicilynatural causes
+region: Italy
 feastDay:
   month: 3
   day: 3
@@ -19,10 +22,11 @@ canonizationStatus: Blessed
 vocation:
   - Bishop
   - Priest
-religiousOrder: "Dominican"
+religiousOrder: Dominican
 patronage:
-  - "Palermo, Italy"
+  - Palermo, Italy
 martyr: false
+prayers: []
 ---
 
 Educated at the University of Bologna, Italy; brilliant law student. One night while he meditated on the worldly success he would have, he was visited by the spirit of a deceased relative, a man who had also been a lawyer, whose pride and perjury had lost him his chance at paradise. Shaken, Peter devoted himself to prayer, asking for his vocation. Soon he received a word that he should become a Dominican. In a rage, his father came to Bologna to stop him, but when he saw completely happy Peter was in religious life, the older man gave him his blessing. Peter became one of the finest preachers in Sicily, always preaching in the open air because no church was large enough to hold the crowds. Visited by Saint Vincent Ferrer. Abbey prior.

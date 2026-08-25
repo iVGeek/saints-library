@@ -1,13 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Cairlon of Cashel"
+name: Saint Cairlon of Cashel
 honorific: Saint
-summary: "Abbot. He died and was raised to life through the prayers of Saint Dageus. Archbishop of Cashel, Ireland."
+summary: Abbot. He died and was raised to life through the prayers of Saint Dageus. Archbishop of Cashel, Ireland.
 searchAliases:
-  - "Caorlan"
-born: "Irish"
-died: "6th century of natural causes"
-region: "Ireland"
+  - Caorlan
+born: Irish
+died: 6th century of natural causes
+region: Ireland
 feastDay:
   month: 3
   day: 24
@@ -16,6 +16,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Abbot. He died and was raised to life through the prayers of Saint Dageus. Archbishop of Cashel, Ireland.

@@ -16,6 +16,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/9/90/Locator_Principality_of_Stavelot-Malmedy_%281560%29.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Alberic of Stavelot
 imageCreditUrl: https://en.wikipedia.org/wiki/Princely%20Abbey%20of%20Stavelot-Malmedy
+prayers: []
 ---
 
 Monk. Abbot of Stavelot-Malmédy Abbey in Belgium.

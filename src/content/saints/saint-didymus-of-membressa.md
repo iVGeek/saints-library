@@ -1,16 +1,17 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Didymus of Membressa"
+name: Saint Didymus of Membressa
 honorific: Saint
-summary: "One of a group of 44 Christians martyred together."
-died: "in Membressa in Africa"
-region: "England"
+summary: One of a group of 44 Christians martyred together.
+died: in Membressa in Africa
+region: England
 feastDay:
   month: 2
   day: 9
 canonizationStatus: Saint
 vocation: []
 martyr: true
+prayers: []
 ---
 
 One of a group of 44 Christians martyred together.

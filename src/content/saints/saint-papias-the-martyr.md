@@ -1,18 +1,18 @@
 ---
-name: "Saint Papias the Martyr"
+name: Saint Papias the Martyr
 honorific: Saint
-summary: "Tortured and martyred in the persecutions of Diocletian."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Papias-the-Martyr.jpg"
+summary: Tortured and martyred in the persecutions of Diocletian.
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Papias-the-Martyr.jpg
 searchAliases:
-  - "Papius"
-  - "Pappio"
-  - "Pappia"
-  - "Pappiano"
-  - "Papino"
+  - Papius
+  - Pappio
+  - Pappia
+  - Pappiano
+  - Papino
 deathYear: 303
-died: "beheaded c.303, possibly in Sicily"
-deathPlace: "possiblySicily"
-region: "Italy"
+died: beheaded c.303, possibly in Sicily
+deathPlace: possiblySicily
+region: Italy
 feastDay:
   month: 6
   day: 28
@@ -20,6 +20,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Tortured and martyred in the persecutions of Diocletian.

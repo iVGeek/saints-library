@@ -15,6 +15,7 @@ vocation:
   - Monk
 religiousOrder: Benedictine
 martyr: true
+prayers: []
 ---
 
 Martyr.

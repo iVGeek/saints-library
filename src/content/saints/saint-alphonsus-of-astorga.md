@@ -17,6 +17,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/3/33/Santo_Toribio_Alfonso_de_Mogrovejo%2C_Arzobispo_de_Lima.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Alphonsus of Astorga
 imageCreditUrl: https://en.wikipedia.org/wiki/Turibius%20of%20Mogrovejo
+prayers: []
 ---
 
 Ninth century bishop of Astorga, Spain. He eventually retired to live as monk at the monastery of Saint Stephen de Ribas de Sil, Galicia, Spain.

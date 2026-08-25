@@ -18,6 +18,7 @@ vocation:
   - Priest
 religiousOrder: Franciscan
 martyr: true
+prayers: []
 ---
 
 Member of the Franciscan Friars Minor (Observants). Priest. Martyr.

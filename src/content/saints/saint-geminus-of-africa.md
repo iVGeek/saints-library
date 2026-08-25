@@ -1,14 +1,14 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Geminus of Africa"
+name: Saint Geminus of Africa
 honorific: Saint
-summary: "Martyred by the Arian Vandal king Hunneric."
+summary: Martyred by the Arian Vandal king Hunneric.
 searchAliases:
-  - "Gemino"
-  - "Germanus"
+  - Gemino
+  - Germanus
 deathYear: 484
-died: "in 484"
-region: "Germany"
+died: in 484
+region: Germany
 feastDay:
   month: 1
   day: 4
@@ -16,6 +16,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Martyred by the Arian Vandal king Hunneric.

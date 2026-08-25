@@ -1,10 +1,10 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Loarn"
+name: Saint Loarn
 honorific: Saint
-summary: "Fifth-century spiritual student of Saint Patrick."
+summary: Fifth-century spiritual student of Saint Patrick.
 searchAliases:
-  - "Loaran"
+  - Loaran
 feastDay:
   month: 8
   day: 30
@@ -12,6 +12,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: false
+prayers: []
 ---
 
 Fifth-century spiritual student of Saint Patrick.

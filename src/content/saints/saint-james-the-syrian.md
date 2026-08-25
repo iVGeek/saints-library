@@ -1,12 +1,12 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint James the Syrian"
+name: Saint James the Syrian
 honorific: Saint
-summary: "Monk at Amida (Diarbekir), Mesopotamia. Known as a miracle worker, and for his great austerities."
+summary: Monk at Amida (Diarbekir), Mesopotamia. Known as a miracle worker, and for his great austerities.
 deathYear: 500
-born: "Syrian"
-died: "c.500 of natural causes"
-region: "Syria"
+born: Syrian
+died: c.500 of natural causes
+region: Syria
 feastDay:
   month: 8
   day: 6
@@ -15,6 +15,7 @@ vocation:
   - Monk
   - Hermit
 martyr: false
+prayers: []
 ---
 
 Monk at Amida (Diarbekir), Mesopotamia. Known as a miracle worker, and for his great austerities.

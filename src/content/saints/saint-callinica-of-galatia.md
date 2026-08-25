@@ -23,6 +23,7 @@ imageAlt: Portrait of Saint Callinica of Galatia
 imageCredit: <a rel="nofollow" class="external free" href="http://pravicon.com/icon-2264">http://pravicon.com/icon-2264</a>
 imageCreditUrl: >-
   https://commons.wikimedia.org/wiki/File:Martyrdom%20of%20Saints%20Thyrsos%20and%20Kallinikos%20of%20Nikomedia%2C%20Serbia.jpg
+prayers: []
 ---
 
 Wealthy woman in Galatia, Asia Minor (part of modern Turkey). Visited and comforted Christians imprisoned for their faith. Martyred for doing so.

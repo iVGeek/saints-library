@@ -1,34 +1,40 @@
 ---
-name: "Saint Rose Philippine Duchesne"
+name: Saint Rose Philippine Duchesne
 honorific: Venerable
-summary: "Born to family with wealth and political connections; her father, Pierre Francois Duchesne, was a lawyer, businessman, and prominent civic leader in Grenoble, France, and her mother, Rose Perier, was a member of a leading family from the Dauphine region of France. From age eight"
-image: "https://upload.wikimedia.org/wikipedia/commons/e/e5/DuchesneRSCJ.jpg"
+summary: >-
+  Born to family with wealth and political connections; her father, Pierre Francois Duchesne, was a lawyer, businessman,
+  and prominent civic leader in Grenoble, France, and her mother, Rose Perier, was a member of a leading family from the
+  Dauphine region of France. From age eight
+image: https://upload.wikimedia.org/wikipedia/commons/e/e5/DuchesneRSCJ.jpg
 searchAliases:
-  - "The Lady of Mercy"
-  - "Woman Who Prays Always"
+  - The Lady of Mercy
+  - Woman Who Prays Always
 birthYear: 1769
 deathYear: 1852
-born: "29 August 1769 at Grenoble, France"
-died: "18 November 1852 at Saint Charles, Missouri of natural causes"
-birthPlace: "France"
-deathPlace: "Missourinatural causes"
-region: "France"
+born: 29 August 1769 at Grenoble, France
+died: 18 November 1852 at Saint Charles, Missouri of natural causes
+birthPlace: France
+deathPlace: Missourinatural causes
+region: France
 feastDay:
   month: 11
   day: 18
-centuries: [18, 19]
+centuries:
+  - 18
+  - 19
 canonizationStatus: Venerable
 vocation:
   - Priest
   - Religious
   - Missionary
-religiousOrder: "Jesuit"
+religiousOrder: Jesuit
 patronage:
-  - "opposition of Church authorities – note that it was nothing to do with theology"
-  - "–"
-  - "Saint Louis, Missouri, archdiocese of"
-  - "Springfield-Cape Girardeau, Missouri, diocese of"
+  - opposition of Church authorities – note that it was nothing to do with theology
+  - –
+  - Saint Louis, Missouri, archdiocese of
+  - Springfield-Cape Girardeau, Missouri, diocese of
 martyr: false
+prayers: []
 ---
 
 Born to family with wealth and political connections; her father, Pierre Francois Duchesne, was a lawyer, businessman, and prominent civic leader in Grenoble, France, and her mother, Rose Perier, was a member of a leading family from the Dauphine region of France. From age eight Rose had a desire to evangelize in the Americas, sparked by hearing a Jesuit missionary speak of his work there. She received a basic education at home from tutors, and religious education from her mother. Educated from age 12 at the convent of the Visitation nuns in Grenoble, she joined them in 1788 at age 19 without the permission or knowledge of her family who were violently opposed to her choice, but finally gave in.

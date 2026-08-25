@@ -27,6 +27,7 @@ vocation:
   - Religious
 religiousOrder: Augustinian
 martyr: false
+prayers: []
 ---
 
 Born to a working class family. Educated by the Augustinian canonesses until 1809 when religious orders were closed by decree of the Bavarian government in Germany. Caroline decided to start a new religious order devoted to God and Christian education. In 1828 the Vatican got concessions from the Bavarian government, and many religious communities re-opened. Caroline and other sisters moved into a refurbished convent, and started the order that was to become the School Sisters of Notre Dame. Caroline took the name Theresa in religious life but was soon called Theresa of Jesus because of her devotion to the True Presence of Christ in the Blessed Sacrament. The sister's Rule and Constitutions were approved by the Vatican on 23 January 1854 and the Order began to quickly spread. Teresa spent the rest of her life devoted to the work.

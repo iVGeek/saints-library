@@ -1,19 +1,20 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Mauritius of Antwerp"
+name: Saint Mauritius of Antwerp
 honorific: Saint
-summary: "Martyr."
+summary: Martyr.
 searchAliases:
-  - "Maurus"
-died: "in Rome, Italy, date unknown"
-deathPlace: "Italy, date unknown"
-region: "Italy"
+  - Maurus
+died: in Rome, Italy, date unknown
+deathPlace: Italy, date unknown
+region: Italy
 feastDay:
   month: 2
   day: 28
 canonizationStatus: Saint
 vocation: []
 martyr: true
+prayers: []
 ---
 
 Martyr.

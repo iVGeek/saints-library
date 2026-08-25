@@ -1,19 +1,20 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Compagno of Recanati"
+name: Blessed Compagno of Recanati
 honorific: Blessed
-summary: "Franciscan friar who had a reputation for piety, but about whom all information has been lost."
+summary: Franciscan friar who had a reputation for piety, but about whom all information has been lost.
 deathYear: 1289
-died: "1289 in Recanati, Italy of natural causes"
-deathPlace: "Italynatural causes"
-region: "Italy"
+died: 1289 in Recanati, Italy of natural causes
+deathPlace: Italynatural causes
+region: Italy
 feastDay:
   month: 2
   day: 6
 canonizationStatus: Blessed
 vocation: []
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 martyr: false
+prayers: []
 ---
 
 Franciscan friar who had a reputation for piety, but about whom all information has been lost.

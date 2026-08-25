@@ -1,9 +1,9 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Aphrodisius of Africa"
+name: Saint Aphrodisius of Africa
 honorific: Saint
-summary: "Martyred in the 5th century by Arian Vandals in North Africa."
-region: "Africa"
+summary: Martyred in the 5th century by Arian Vandals in North Africa.
+region: Africa
 feastDay:
   month: 3
   day: 14
@@ -11,6 +11,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Martyred in the 5th century by Arian Vandals in North Africa.

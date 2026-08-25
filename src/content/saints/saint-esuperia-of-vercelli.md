@@ -1,10 +1,10 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Esuperia of Vercelli"
+name: Saint Esuperia of Vercelli
 honorific: Saint
-summary: "Nun. Sister of Saint Costanzo, bishop of Piedmont, Italy. We know little else about her."
-died: "early 6th century"
-region: "Italy"
+summary: Nun. Sister of Saint Costanzo, bishop of Piedmont, Italy. We know little else about her.
+died: early 6th century
+region: Italy
 feastDay:
   month: 2
   day: 18
@@ -13,6 +13,7 @@ vocation:
   - Bishop
   - Religious
 martyr: false
+prayers: []
 ---
 
 Nun. Sister of Saint Costanzo, bishop of Piedmont, Italy. We know little else about her.

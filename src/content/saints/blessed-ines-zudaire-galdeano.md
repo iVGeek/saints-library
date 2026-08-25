@@ -1,17 +1,17 @@
 ---
-name: "Blessed Inés Zudaire Galdeano"
+name: Blessed Inés Zudaire Galdeano
 honorific: Blessed
-summary: "Member of the Visitation Nuns. Martyred in the Spanish Civil War."
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Inés-Zudaire-Galdeano.jpg"
+summary: Member of the Visitation Nuns. Martyred in the Spanish Civil War.
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Inés-Zudaire-Galdeano.jpg
 searchAliases:
-  - "Sister María Inés"
+  - Sister María Inés
 birthYear: 1900
 deathYear: 1936
-born: "28 January 1900 in Echávarri, Navarra, Spain"
-died: "shot by militiamen on 18 November 1936 in Madrid, Spain"
-birthPlace: "Navarra, Spain"
-deathPlace: "Spain"
-region: "Spain"
+born: 28 January 1900 in Echávarri, Navarra, Spain
+died: shot by militiamen on 18 November 1936 in Madrid, Spain
+birthPlace: Navarra, Spain
+deathPlace: Spain
+region: Spain
 feastDay:
   month: 11
   day: 18
@@ -19,6 +19,7 @@ canonizationStatus: Blessed
 vocation:
   - Religious
 martyr: true
+prayers: []
 ---
 
 Member of the Visitation Nuns. Martyred in the Spanish Civil War.

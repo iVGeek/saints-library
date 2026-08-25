@@ -26,6 +26,7 @@ patronage:
   - against headaches
   - against migraines; of migraine sufferers
 martyr: false
+prayers: []
 ---
 
 Born to the Italian nobility, the daughter of Count Rambaldo VI and Countess Giovanna of Sant'Angelo of Mantua. She received a Christian education, and at age 12, she entered the Benedictine convent of Santa Margherita di Salarola near Calaone, Italy. There she became a friend of Blessed Beatrix of Este the Elder who entered the convent in 1220. Founded a Benedictine convent on the island of Spinalonga (modern Giudecca) off Venice, Italy, and served as its abbess. Known for her charity and care for the local poor. Late in life she began suffering from severe headaches, possibly migraines, which led to her patronage of others who do.

@@ -1,21 +1,25 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Romeo of Limoges"
+name: Blessed Romeo of Limoges
 honorific: Blessed
-summary: "Carmelite lay brother of Limoges, France. Pilgrim companion of Saint Avertanus of Limoges to Rome, Italy and the Holy Lands, but died en route. The tale of their travels, lavishly and piously expanded, was very popular in the years after their deaths."
+summary: >-
+  Carmelite lay brother of Limoges, France. Pilgrim companion of Saint Avertanus of Limoges to Rome, Italy and the Holy
+  Lands, but died en route. The tale of their travels, lavishly and piously expanded, was very popular in the years
+  after their deaths.
 searchAliases:
-  - "Romaeus"
+  - Romaeus
 deathYear: 1380
-died: "1380 at Lucca, Italy of plague while on pilgrimage"
-deathPlace: "Italyplague while on pilgrimage"
-region: "France"
+died: 1380 at Lucca, Italy of plague while on pilgrimage
+deathPlace: Italyplague while on pilgrimage
+region: France
 feastDay:
   month: 3
   day: 5
 canonizationStatus: Blessed
 vocation: []
-religiousOrder: "Carmelite"
+religiousOrder: Carmelite
 martyr: false
+prayers: []
 ---
 
 Carmelite lay brother of Limoges, France. Pilgrim companion of Saint Avertanus of Limoges to Rome, Italy and the Holy Lands, but died en route. The tale of their travels, lavishly and piously expanded, was very popular in the years after their deaths.

@@ -1,27 +1,31 @@
 ---
-name: "Saint Ioannes Baptista Chon Chang-un"
+name: Saint Ioannes Baptista Chon Chang-un
 honorific: Venerable
-summary: "Married layman, father and family man in the apostolic vicariate of Korea. Adult convert. Worked with Saint Petrus Ch’Oe Hyong to publish Christian books in Korean, and was imprisoned, tortured and executed with him. Martyr."
-image: "https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Korea-1.jpg"
+summary: >-
+  Married layman, father and family man in the apostolic vicariate of Korea. Adult convert. Worked with Saint Petrus
+  Ch’Oe Hyong to publish Christian books in Korean, and was imprisoned, tortured and executed with him. Martyr.
+image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Korea-1.jpg
 searchAliases:
-  - "Jeon Jang-Un"
-  - "Yohan"
-  - "John Baptist Chon Chang-un"
+  - Jeon Jang-Un
+  - Yohan
+  - John Baptist Chon Chang-un
 birthYear: 1811
 deathYear: 1866
-born: "1811 in Seoul, South Korea"
-died: "9 March 1866 in In-Ko-Ri, Seoul, South Korea"
-birthPlace: "South Korea"
-deathPlace: "Seoul, South Korea"
-region: "Korea"
+born: 1811 in Seoul, South Korea
+died: 9 March 1866 in In-Ko-Ri, Seoul, South Korea
+birthPlace: South Korea
+deathPlace: Seoul, South Korea
+region: Korea
 feastDay:
   month: 3
   day: 9
-centuries: [19]
+centuries:
+  - 19
 canonizationStatus: Venerable
 vocation:
   - Priest
 martyr: true
+prayers: []
 ---
 
 Married layman, father and family man in the apostolic vicariate of Korea. Adult convert. Worked with Saint Petrus Ch’Oe Hyong to publish Christian books in Korean, and was imprisoned, tortured and executed with him. Martyr.

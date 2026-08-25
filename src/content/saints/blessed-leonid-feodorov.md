@@ -1,17 +1,17 @@
 ---
-name: "Blessed Leonid Feodorov"
+name: Blessed Leonid Feodorov
 honorific: Blessed
-summary: " Studied Russian Orthodox family and upbringing. His father died when Leonid was very young, and he was raised by his mother, Liubova Dimitrievna. He started his studies in the Orthodox seminary in 1901, but in 1902 he left, travelled to Rome, Italy, and converted to Catholicism."
-image: "https://upload.wikimedia.org/wikipedia/commons/3/3a/Romza_Russicum.jpg"
+summary: ' Studied Russian Orthodox family and upbringing. His father died when Leonid was very young, and he was raised by his mother, Liubova Dimitrievna. He started his studies in the Orthodox seminary in 1901, but in 1902 he left, travelled to Rome, Italy, and converted to Catholicism.'
+image: https://upload.wikimedia.org/wikipedia/commons/3/3a/Romza_Russicum.jpg
 searchAliases:
-  - "Father Leontios"
-  - "Leonid F’odorov"
+  - Father Leontios
+  - Leonid F’odorov
 birthYear: 1879
 deathYear: 1935
-born: "4 November 1879 at Saint Petersburg, Russia"
-died: "7 March 1935 of “natural causes”"
-birthPlace: "Russia"
-region: "Germany"
+born: 4 November 1879 at Saint Petersburg, Russia
+died: 7 March 1935 of “natural causes”
+birthPlace: Russia
+region: Germany
 feastDay:
   month: 3
   day: 7
@@ -20,6 +20,7 @@ vocation:
   - Priest
   - Deacon
 martyr: true
+prayers: []
 ---
 
 Russian Orthodox family and upbringing. His father died when Leonid was very young, and he was raised by his mother, Liubova Dimitrievna. He started his studies in the Orthodox seminary in 1901, but in 1902 he left, travelled to Rome, Italy, and converted to Catholicism.

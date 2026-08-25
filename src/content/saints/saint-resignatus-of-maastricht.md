@@ -1,15 +1,15 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Resignatus of Maastricht"
+name: Saint Resignatus of Maastricht
 honorific: Saint
-summary: "Son of Resignatus of Koblenz, a knight and Aielis. Bishop of Maastricht, Netherlands in 437, serving for 28 years."
+summary: Son of Resignatus of Koblenz, a knight and Aielis. Bishop of Maastricht, Netherlands in 437, serving for 28 years.
 searchAliases:
-  - "Renato"
-  - "Renatus"
+  - Renato
+  - Renatus
 deathYear: 465
-born: "Netherlands"
-died: "465 of natural causes"
-region: "Netherlands"
+born: Netherlands
+died: 465 of natural causes
+region: Netherlands
 feastDay:
   month: 12
   day: 1
@@ -18,6 +18,7 @@ vocation:
   - Bishop
   - Soldier
 martyr: false
+prayers: []
 ---
 
 Son of Resignatus of Koblenz, a knight and Aielis. Bishop of Maastricht, Netherlands in 437, serving for 28 years.

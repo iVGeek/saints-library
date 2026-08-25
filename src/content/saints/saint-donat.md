@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Donat"
+name: Saint Donat
 honorific: Saint
-summary: "No information has survived."
+summary: No information has survived.
 searchAliases:
-  - "Danat"
-  - "Dunwyd"
+  - Danat
+  - Dunwyd
 feastDay:
   month: 8
   day: 7
@@ -13,8 +13,9 @@ canonizationStatus: Saint
 vocation:
   - Monk
 patronage:
-  - "Llandunwyd, Glamorgan, Wales"
+  - Llandunwyd, Glamorgan, Wales
 martyr: false
+prayers: []
 ---
 
 No information has survived.

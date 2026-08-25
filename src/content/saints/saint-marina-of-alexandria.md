@@ -1,14 +1,14 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Marina of Alexandria"
+name: Saint Marina of Alexandria
 honorific: Saint
-summary: "Martyr."
+summary: Martyr.
 searchAliases:
-  - "Maria"
-  - "Marianus"
-died: "Alexandria, Egypt"
-deathPlace: "Egypt"
-region: "Egypt"
+  - Maria
+  - Marianus
+died: Alexandria, Egypt
+deathPlace: Egypt
+region: Egypt
 feastDay:
   month: 6
   day: 18
@@ -17,6 +17,7 @@ vocation:
   - Virgin
   - Monk
 martyr: true
+prayers: []
 ---
 
 Martyr.

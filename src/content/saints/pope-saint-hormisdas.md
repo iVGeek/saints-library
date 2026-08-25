@@ -17,6 +17,7 @@ vocation:
   - Priest
   - Monk
 martyr: false
+prayers: []
 ---
 
 Married, and father of the future Pope Saint Silverius. Widower. Pope.

@@ -22,6 +22,7 @@ vocation:
   - Deacon
   - Confessor
 martyr: false
+prayers: []
 ---
 
 Worked for Cardinal Jacopo of Palestrina. Archdeacon of Liege, Belgium. Assigned to preach the last Crusade. Accompanied the Crusaders to Palestine, and was still there when elected Pope; he was elected before being ordained a priest. Ordained on 19 March 1272. 184th pope.

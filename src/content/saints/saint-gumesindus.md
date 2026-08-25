@@ -1,17 +1,17 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Gumesindus of Cordoba"
+name: Saint Gumesindus of Cordoba
 honorific: Saint
-summary: "Priest. Martyred in the persecutions of Abderrahman II."
+summary: Priest. Martyred in the persecutions of Abderrahman II.
 searchAliases:
-  - "Gumismundus"
-  - "Gumersindus"
-  - "Gumesindo"
+  - Gumismundus
+  - Gumersindus
+  - Gumesindo
 deathYear: 852
-born: "Spanish"
-died: "852 at Cordoba, Spain"
-deathPlace: "Spain"
-region: "Spain"
+born: Spanish
+died: 852 at Cordoba, Spain
+deathPlace: Spain
+region: Spain
 feastDay:
   month: 1
   day: 13
@@ -20,6 +20,7 @@ vocation:
   - Priest
   - Monk
 martyr: true
+prayers: []
 ---
 
 Priest. Martyred in the persecutions of Abderrahman II.

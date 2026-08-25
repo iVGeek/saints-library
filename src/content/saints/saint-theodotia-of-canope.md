@@ -1,14 +1,14 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Theodotia of Canope"
+name: Saint Theodotia of Canope
 honorific: Saint
-summary: "Daughter of Saint Athanasia of Canope. Martyred in the persecutions of Diocletian."
+summary: Daughter of Saint Athanasia of Canope. Martyred in the persecutions of Diocletian.
 searchAliases:
-  - "Theodota"
+  - Theodota
 deathYear: 303
-died: "c.303 outside Canope, Egypt"
-deathPlace: "Egypt"
-region: "Egypt"
+died: c.303 outside Canope, Egypt
+deathPlace: Egypt
+region: Egypt
 feastDay:
   month: 1
   day: 31
@@ -16,6 +16,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Daughter of Saint Athanasia of Canope. Martyred in the persecutions of Diocletian.

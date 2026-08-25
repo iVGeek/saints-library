@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Humbert of Elmham"
+name: Saint Humbert of Elmham
 honorific: Saint
-summary: "Ninth-century bishop. Crowned Saint Edmund as king of East Anglia in 855. Martyred by pagan Danish raiders."
+summary: Ninth-century bishop. Crowned Saint Edmund as king of East Anglia in 855. Martyred by pagan Danish raiders.
 deathYear: 870
-died: "870 in East Anglia (in modern England"
-region: "England"
+died: 870 in East Anglia (in modern England
+region: England
 feastDay:
   month: 11
   day: 20
@@ -15,6 +15,7 @@ vocation:
   - Priest
   - Monk
 martyr: true
+prayers: []
 ---
 
 Ninth-century bishop. Crowned Saint Edmund as king of East Anglia in 855. Martyred by pagan Danish raiders.

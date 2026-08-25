@@ -1,17 +1,17 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Monon of Nassogne"
+name: Saint Monon of Nassogne
 honorific: Saint
-summary: "Hermit in the Ardennes region of France. Murdered by a pack of local thugs who were offended by his personal holiness."
+summary: Hermit in the Ardennes region of France. Murdered by a pack of local thugs who were offended by his personal holiness.
 searchAliases:
-  - "Mono"
-  - "Muno"
-  - "Monone"
+  - Mono
+  - Muno
+  - Monone
 deathYear: 645
-born: "Scotland"
-died: "stoned to death c.645 in Nassogne, Belgium"
-deathPlace: "Belgium"
-region: "France"
+born: Scotland
+died: stoned to death c.645 in Nassogne, Belgium
+deathPlace: Belgium
+region: France
 feastDay:
   month: 10
   day: 18
@@ -21,6 +21,7 @@ vocation:
   - Monk
   - Hermit
 martyr: false
+prayers: []
 ---
 
 Hermit in the Ardennes region of France. Murdered by a pack of local thugs who were offended by his personal holiness.

@@ -1,9 +1,9 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Valeria"
+name: Saint Valeria
 honorific: Saint
-summary: "Roman martyr whose cultus was very popular in France during the time of Saint Eligius."
-region: "France"
+summary: Roman martyr whose cultus was very popular in France during the time of Saint Eligius.
+region: France
 feastDay:
   month: 12
   day: 10
@@ -11,6 +11,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Roman martyr whose cultus was very popular in France during the time of Saint Eligius.

@@ -1,29 +1,37 @@
 ---
-name: "Saint Giustino de Jacobis"
+name: Saint Giustino de Jacobis
 honorific: Venerable
-summary: "Justin grew up a pious youth in the city of Naples, Italy and joined the Vincentians at age 18. Ordained on 12 June 1824 in the Congregation of the Mission. Noted for his preaching skills, especially among the rural poor. Helped found a Vincentian house at Monopoli, Italy. Superi"
-image: "https://upload.wikimedia.org/wikipedia/commons/b/b3/San_Justino_de_Jacobis.jpg"
+summary: >-
+  Justin grew up a pious youth in the city of Naples, Italy and joined the Vincentians at age 18. Ordained on 12 June
+  1824 in the Congregation of the Mission. Noted for his preaching skills, especially among the rural poor. Helped found
+  a Vincentian house at Monopoli, Italy. Superi
+image: https://upload.wikimedia.org/wikipedia/commons/b/b3/San_Justino_de_Jacobis.jpg
 searchAliases:
-  - "Justin de Jacobis"
-  - "Giustino De Jacobis da San Fele"
+  - Justin de Jacobis
+  - Giustino De Jacobis da San Fele
 birthYear: 1800
 deathYear: 1860
-born: "9 October 1800 at San Fele, Luciana, Italy"
-died: "31 July 1860 on the side of a road near Halai of a tropical fever in the valley of Alghedien Zula, Semenawi Keih Bahri, Eritrea while on a missionary trip"
-birthPlace: "Luciana, Italy"
-deathPlace: "Semenawi Keih Bahri, Eritrea while on a missionary trip"
-region: "Africa"
+born: 9 October 1800 at San Fele, Luciana, Italy
+died: >-
+  31 July 1860 on the side of a road near Halai of a tropical fever in the valley of Alghedien Zula, Semenawi Keih
+  Bahri, Eritrea while on a missionary trip
+birthPlace: Luciana, Italy
+deathPlace: Semenawi Keih Bahri, Eritrea while on a missionary trip
+region: Africa
 feastDay:
   month: 7
   day: 31
-centuries: [18, 19]
+centuries:
+  - 18
+  - 19
 canonizationStatus: Venerable
 vocation:
   - Bishop
   - Priest
   - Missionary
-religiousOrder: "Lazarist"
+religiousOrder: Lazarist
 martyr: false
+prayers: []
 ---
 
 Justin grew up a pious youth in the city of Naples, Italy and joined the Vincentians at age 18. Ordained on 12 June 1824 in the Congregation of the Mission. Noted for his preaching skills, especially among the rural poor. Helped found a Vincentian house at Monopoli, Italy. Superior at Lecce, Italy. Worked in with the sick in the 1836–1837 cholera epidemic in Naples.

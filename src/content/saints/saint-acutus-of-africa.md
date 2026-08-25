@@ -14,6 +14,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/7/76/Bazoule_sacred_crocodiles_MS_6709cropped.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Acutus of Africa
 imageCreditUrl: https://en.wikipedia.org/wiki/West%20African%20crocodile
+prayers: []
 ---
 
 One of a group of Christians martyred together in Africa, date unknown, exact location unknown.

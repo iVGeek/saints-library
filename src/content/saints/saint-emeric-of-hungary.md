@@ -1,20 +1,22 @@
 ---
-name: "Saint Emeric of Hungary"
+name: Saint Emeric of Hungary
 honorific: Saint
-summary: "Born a prince, the son of Saint Stephen of Hungary. Spiritual student of Saint Gerard Sagredo. Married in 1022. Known for his personal piety and austerity."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Emeric-of-Hungary1.jpg"
+summary: >-
+  Born a prince, the son of Saint Stephen of Hungary. Spiritual student of Saint Gerard Sagredo. Married in 1022. Known
+  for his personal piety and austerity.
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Emeric-of-Hungary1.jpg
 searchAliases:
-  - "Americus"
-  - "Emerick"
-  - "Emmerich"
-  - "Emmericus"
-  - "Henricus"
+  - Americus
+  - Emerick
+  - Emmerich
+  - Emmericus
+  - Henricus
 birthYear: 1007
 deathYear: 1031
-born: "1007 in Veszprém, Hungary"
-died: "killed by a boar while hunting on 2 September 1031 in Hungary"
-birthPlace: "Hungary"
-region: "Hungary"
+born: 1007 in Veszprém, Hungary
+died: killed by a boar while hunting on 2 September 1031 in Hungary
+birthPlace: Hungary
+region: Hungary
 feastDay:
   month: 11
   day: 4
@@ -23,8 +25,9 @@ vocation:
   - Priest
   - Confessor
 patronage:
-  - "Budapest, Hungary"
+  - Budapest, Hungary
 martyr: false
+prayers: []
 ---
 
 Born a prince, the son of Saint Stephen of Hungary. Spiritual student of Saint Gerard Sagredo. Married in 1022. Known for his personal piety and austerity.

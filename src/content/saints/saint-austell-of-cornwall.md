@@ -19,6 +19,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/a/af/St_Michael%27s_Mount_View.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Austell of Cornwall
 imageCreditUrl: https://en.wikipedia.org/wiki/Cornwall
+prayers: []
 ---
 
 Spiritual student of Saint Mewan of Bretagne. He probably lived in the area now known as Saint Austol.

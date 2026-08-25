@@ -1,17 +1,19 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Joan Vilá Colomé"
+name: Blessed Joan Vilá Colomé
 honorific: Blessed
-summary: "Franciscan Capuchin, making his profession on 8 September 1903. Ordained a priest on 19 March 1904. Imprisoned and murdered by Marxists in the Spanish Civil War."
+summary: >-
+  Franciscan Capuchin, making his profession on 8 September 1903. Ordained a priest on 19 March 1904. Imprisoned and
+  murdered by Marxists in the Spanish Civil War.
 searchAliases:
-  - "Father Josep of Calella de La Costa"
+  - Father Josep of Calella de La Costa
 birthYear: 1880
 deathYear: 1936
-born: "19 November 1880 in Calella de la Costa, Barcelona, Spain"
-died: "9 September 1936 in Barcelona, Spain"
-birthPlace: "Barcelona, Spain"
-deathPlace: "Spain"
-region: "Spain"
+born: 19 November 1880 in Calella de la Costa, Barcelona, Spain
+died: 9 September 1936 in Barcelona, Spain
+birthPlace: Barcelona, Spain
+deathPlace: Spain
+region: Spain
 feastDay:
   month: 9
   day: 9
@@ -19,8 +21,9 @@ canonizationStatus: Blessed
 vocation:
   - Priest
   - Cardinal
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 martyr: false
+prayers: []
 ---
 
 Franciscan Capuchin, making his profession on 8 September 1903. Ordained a priest on 19 March 1904. Imprisoned and murdered by Marxists in the Spanish Civil War.

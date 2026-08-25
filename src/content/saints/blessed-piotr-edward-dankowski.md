@@ -1,25 +1,29 @@
 ---
-name: "Blessed Piotr Edward Dankowski"
+name: Blessed Piotr Edward Dankowski
 honorific: Blessed
-summary: "Priest in the Archdiocese of Kraków, Poland. Vicar of the parish of Zakopane, he was known for his service to the people, especially the poor. During World War II he helped escapees hiding from the Nazis. Arrested in May 1941 and sentenced to the extermination camp in Oswiecim (A"
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Piotr-Edward-Dankowski.jpg"
+summary: >-
+  Priest in the Archdiocese of Kraków, Poland. Vicar of the parish of Zakopane, he was known for his service to the
+  people, especially the poor. During World War II he helped escapees hiding from the Nazis. Arrested in May 1941 and
+  sentenced to the extermination camp in Oswiecim (A
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Piotr-Edward-Dankowski.jpg
 searchAliases:
-  - "Peter Edward Dankowski"
+  - Peter Edward Dankowski
 birthYear: 1908
 deathYear: 1942
-born: "21 June 1908 in Jordanów, Malopolskie, Poland"
-died: "Good Friday, 3 April 1942 in Oswiecim (Auschwitz), Malopolskie, Poland"
-birthPlace: "Malopolskie, Poland"
-deathPlace: "3 April 1942Oswiecim (Auschwitz), Malopolskie, Poland"
-region: "Poland"
+born: 21 June 1908 in Jordanów, Malopolskie, Poland
+died: Good Friday, 3 April 1942 in Oswiecim (Auschwitz), Malopolskie, Poland
+birthPlace: Malopolskie, Poland
+deathPlace: 3 April 1942Oswiecim (Auschwitz), Malopolskie, Poland
+region: Poland
 feastDay:
   month: 4
   day: 3
 canonizationStatus: Blessed
 vocation:
   - Priest
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 martyr: false
+prayers: []
 ---
 
 Priest in the Archdiocese of Kraków, Poland. Vicar of the parish of Zakopane, he was known for his service to the people, especially the poor. During World War II he helped escapees hiding from the Nazis. Arrested in May 1941 and sentenced to the extermination camp in Oswiecim (Auschwitz). One of the 108 Martys of World War II.

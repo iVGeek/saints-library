@@ -1,12 +1,14 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Asiano of Constantinople"
+name: Saint Asiano of Constantinople
 honorific: Saint
-summary: "Bishop. Imprisoned, tortured and martyred for the defense of icons in the iconoclast persecutions of emperor Leo the Isaurian."
+summary: >-
+  Bishop. Imprisoned, tortured and martyred for the defense of icons in the iconoclast persecutions of emperor Leo the
+  Isaurian.
 deathYear: 735
-died: "735 in Constantinople (modern Istanbul, Turkey)"
-deathPlace: "Turkey)"
-region: "Italy"
+died: 735 in Constantinople (modern Istanbul, Turkey)
+deathPlace: Turkey)
+region: Italy
 feastDay:
   month: 9
   day: 20
@@ -15,6 +17,7 @@ vocation:
   - Bishop
   - Monk
 martyr: true
+prayers: []
 ---
 
 Bishop. Imprisoned, tortured and martyred for the defense of icons in the iconoclast persecutions of emperor Leo the Isaurian.

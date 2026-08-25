@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Prior"
+name: Saint Prior
 honorific: Saint
-summary: "Early spiritual student of Saint Anthony the Abbot. Monk. Hermit. Lived to nearly 100 years of age."
-born: "late 3rd century Egypt"
-died: "late 4th century of natural causes"
-region: "Egypt"
+summary: Early spiritual student of Saint Anthony the Abbot. Monk. Hermit. Lived to nearly 100 years of age.
+born: late 3rd century Egypt
+died: late 4th century of natural causes
+region: Egypt
 feastDay:
   month: 6
   day: 17
@@ -15,6 +15,7 @@ vocation:
   - Monk
   - Hermit
 martyr: false
+prayers: []
 ---
 
 Early spiritual student of Saint Anthony the Abbot. Monk. Hermit. Lived to nearly 100 years of age.

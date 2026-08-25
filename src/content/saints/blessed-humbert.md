@@ -14,6 +14,7 @@ vocation:
   - Monk
 religiousOrder: Benedictine
 martyr: false
+prayers: []
 ---
 
 Benedictine monk at Fritzlar, Hesse, Germany. Prior at Buraburg, Germany.

@@ -1,18 +1,21 @@
 ---
-name: "Blessed Louis Allemand"
+name: Blessed Louis Allemand
 honorific: Blessed
-summary: "Born to the French nobility. Canon lawyer. Bishop of Maguelonne, France in 1418. Advisor, courtier and diplomat in service to Pope Martin V. Archbishop of Arles, France in 1423. Created Cardinal-priest of Sante Cecilia in 1426. Important member of the Council of Basle in 1436, le"
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Louis-Allemand.jpg"
+summary: >-
+  Born to the French nobility. Canon lawyer. Bishop of Maguelonne, France in 1418. Advisor, courtier and diplomat in
+  service to Pope Martin V. Archbishop of Arles, France in 1423. Created Cardinal-priest of Sante Cecilia in 1426.
+  Important member of the Council of Basle in 1436, le
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Louis-Allemand.jpg
 searchAliases:
-  - "Louis Alamanus"
-  - "Louis Alemanus"
-  - "Louis Almannus"
-  - "Louis Alamandus"
-  - "Luigi Ludovico Allemandi"
-  - "Louis d'Aleman"
+  - Louis Alamanus
+  - Louis Alemanus
+  - Louis Almannus
+  - Louis Alamandus
+  - Luigi Ludovico Allemandi
+  - Louis d'Aleman
 deathYear: 1450
-died: "16 September 1450"
-region: "Germany"
+died: 16 September 1450
+region: Germany
 feastDay:
   month: 9
   day: 16
@@ -22,6 +25,7 @@ vocation:
   - Priest
   - Cardinal
 martyr: false
+prayers: []
 ---
 
 Born to the French nobility. Canon lawyer. Bishop of Maguelonne, France in 1418. Advisor, courtier and diplomat in service to Pope Martin V. Archbishop of Arles, France in 1423. Created Cardinal-priest of Sante Cecilia in 1426. Important member of the Council of Basle in 1436, leading the party that maintained the supremacy of general councils over the pope, and working to forward the decree of the Immaculate Conception of Our Lady. While he was there he worked with victims of a plague outbreak.

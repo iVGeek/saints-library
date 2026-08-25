@@ -14,6 +14,7 @@ vocation:
   - Monk
   - Hermit
 martyr: false
+prayers: []
 ---
 
 Hermit at Ploermellac, Brittany, France. Spiritual student of Saint Guenole.

@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Victor of Barcelona"
+name: Saint Victor of Barcelona
 honorific: Saint
-summary: "Priest. Bishop of Barcelona, Spain. Martyr."
+summary: Priest. Bishop of Barcelona, Spain. Martyr.
 searchAliases:
-  - "Vittore"
-region: "Spain"
+  - Vittore
+region: Spain
 feastDay:
   month: 4
   day: 4
@@ -14,6 +14,7 @@ vocation:
   - Bishop
   - Priest
 martyr: true
+prayers: []
 ---
 
 Priest. Bishop of Barcelona, Spain. Martyr.

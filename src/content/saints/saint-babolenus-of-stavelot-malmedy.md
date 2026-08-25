@@ -31,6 +31,7 @@ imageCredit: >-
   d'Art</a>
 imageCreditUrl: >-
   https://commons.wikimedia.org/wiki/File:Etienne%20Babolin%20Randon%20de%20Pully%20(1774-1853)%2C%20dit%20le%20marquis%20de%20Pully.jpg
+prayers: []
 ---
 
 Travelling missionary bishop in 7th-century Netherlands. Close friend of Saint Remaclus. In later life he retired to lives as a prayerful monk at the monastery of Stavelot-Malmédy (in modern Belgium).

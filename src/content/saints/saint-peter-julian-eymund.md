@@ -1,28 +1,33 @@
 ---
-name: "Saint Peter Julian Eymund"
+name: Saint Peter Julian Eymund
 honorific: Venerable
-summary: "Peter grew up in a poor family during the anti-clerical, anti-Catholic aftermath of the French Revolution. His first attempt at the priesthood, against his family's wishes, ended when he had to withdraw from seminary due to illness; he never completely recovered his health. He re"
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Peter-Julian-Eymund.jpg"
+summary: >-
+  Peter grew up in a poor family during the anti-clerical, anti-Catholic aftermath of the French Revolution. His first
+  attempt at the priesthood, against his family's wishes, ended when he had to withdraw from seminary due to illness; he
+  never completely recovered his health. He re
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Peter-Julian-Eymund.jpg
 searchAliases:
-  - "Peter Julian Eymard"
-  - "Pierre-Julien Eymard"
-  - "Pietro Giuliano Eymard"
+  - Peter Julian Eymard
+  - Pierre-Julien Eymard
+  - Pietro Giuliano Eymard
 birthYear: 1811
 deathYear: 1868
-born: "4 February 1811 at La Mure, France"
-died: "1 August 1868 at La Mure, Isère, France following a stroke"
-birthPlace: "France"
-deathPlace: "Isère, France following a stroke"
-region: "France"
+born: 4 February 1811 at La Mure, France
+died: 1 August 1868 at La Mure, Isère, France following a stroke
+birthPlace: France
+deathPlace: Isère, France following a stroke
+region: France
 feastDay:
   month: 8
   day: 2
-centuries: [19]
+centuries:
+  - 19
 canonizationStatus: Venerable
 vocation:
   - Deacon
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 martyr: false
+prayers: []
 ---
 
 Peter grew up in a poor family during the anti–clerical, anti-Catholic aftermath of the French Revolution. His first attempt at the priesthood, against his family's wishes, ended when he had to withdraw from seminary due to illness; he never completely recovered his health. He returned, however, and was ordained on 20 July 1834 in the diocese of Grenoble, France. Joined the Marist Fathers on 20 August 1839. Friend of Saint John Mary Vianney. Provincial superior of the Society of Mary in 1845.

@@ -22,6 +22,7 @@ vocation:
 patronage:
   - Metropolitan Seminary in Lublin, Poland
 martyr: true
+prayers: []
 ---
 
 After high school, Antoni studied at the Metropolitan Seminary in Lublin, Poland, and the Theological Academy in Saint Petersburg, Russia. Ordained a priest for the archdiocese of Lublin in 1906. Father Antoni returned to Lublin where he served as vicar of the cathedral parish, professor of theology at the Lublin seminary, and vice-rector of the school from 1918 to 1929. Away from the school and church, he was active in local charities and became known in the city as the almoner for the money he raised for the poor.

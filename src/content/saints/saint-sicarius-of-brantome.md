@@ -21,6 +21,7 @@ religiousOrder: Benedictine
 patronage:
   - Brantôme, France
 martyr: false
+prayers: []
 ---
 
 One of the Holy Innocents who died by order of King Herod.

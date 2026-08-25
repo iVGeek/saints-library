@@ -1,17 +1,20 @@
 ---
-name: "Saint Rembert of Hamburg"
+name: Saint Rembert of Hamburg
 honorific: Saint
-summary: "Benedictine monk at Turhout, Belgium. Worked with Saint Ansgar as a missionary to pagan Scandinavia. Bishop of Hamburg-Bremen, Germany in 865 with jurisdiction over Denmark and Sweden. Worked to evangelize the Slavs in his region, and ransomed Christian captives. Wrote a biograph"
-image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Rembert-Archbishop.jpg"
+summary: >-
+  Benedictine monk at Turhout, Belgium. Worked with Saint Ansgar as a missionary to pagan Scandinavia. Bishop of
+  Hamburg-Bremen, Germany in 865 with jurisdiction over Denmark and Sweden. Worked to evangelize the Slavs in his
+  region, and ransomed Christian captives. Wrote a biograph
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Rembert-Archbishop.jpg
 searchAliases:
-  - "Remberto"
-  - "Rembertus"
-  - "Rimbert"
+  - Remberto
+  - Rembertus
+  - Rimbert
 deathYear: 888
-born: "near Bruges, Flanders, Belgium"
-died: "888 of natural causes"
-birthPlace: "Flanders, Belgium"
-region: "Scandinavia"
+born: near Bruges, Flanders, Belgium
+died: 888 of natural causes
+birthPlace: Flanders, Belgium
+region: Scandinavia
 feastDay:
   month: 6
   day: 11
@@ -22,8 +25,9 @@ vocation:
   - Monk
   - Missionary
   - Confessor
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 martyr: false
+prayers: []
 ---
 
 Benedictine monk at Turhout, Belgium. Worked with Saint Ansgar as a missionary to pagan Scandinavia. Bishop of Hamburg–Bremen, Germany in 865 with jurisdiction over Denmark and Sweden. Worked to evangelize the Slavs in his region, and ransomed Christian captives. Wrote a biography of Saint Ansgar.

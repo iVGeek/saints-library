@@ -26,6 +26,7 @@ imageCredit: >-
   href="https://archive.org/download/martyrofantiochd00milmrich/martyrofantiochd00milmrich.pdf">https://archive.org/download/martyrofantiochd00milmrich/martyrofantiochd00milmrich.pdf</a></dd></dl>
 imageCreditUrl: >-
   https://commons.wikimedia.org/wiki/File:The%20martyr%20of%20Antioch%20-%20a%20dramatic%20poem.%20(IA%20martyrofantiochd00milmrich).pdf
+prayers: []
 ---
 
 A group of forty virgins martyred in the persecutions of Decius. None of their names have come down to us.

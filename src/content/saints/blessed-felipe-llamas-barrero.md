@@ -1,17 +1,17 @@
 ---
-name: "Blessed Felipe Llamas Barrero"
+name: Blessed Felipe Llamas Barrero
 honorific: Blessed
-summary: " Father Domitilo was arrested on 3 August 1936 in the early day Felipe joined the Franciscan Capuchins on 2 August 1923, taking the name Domitilo of Ayoó; he made his religious profession on 3 August 1924. Ordained a priest on 30 May 1931. He became known as a passionate preacher."
-image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Felipe-Llamas-Barrero.jpg"
+summary: ' Father Domitilo was arrested on 3 August 1936 in the early day Felipe joined the Franciscan Capuchins on 2 August 1923, taking the name Domitilo of Ayoó; he made his religious profession on 3 August 1924. Ordained a priest on 30 May 1931. He became known as a passionate preacher.'
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Felipe-Llamas-Barrero.jpg
 searchAliases:
-  - "Domitilo of Ayoó"
+  - Domitilo of Ayoó
 birthYear: 1907
 deathYear: 1936
-born: "3 September 1907 in Ayoó de Vidriales, Zamora, Spain"
-died: "the night of 6 September 1936 in Peón cemetery, Gijón, Asturias, Spain"
-birthPlace: "Zamora, Spain"
-deathPlace: "Gijón, Asturias, Spain"
-region: "Spain"
+born: 3 September 1907 in Ayoó de Vidriales, Zamora, Spain
+died: the night of 6 September 1936 in Peón cemetery, Gijón, Asturias, Spain
+birthPlace: Zamora, Spain
+deathPlace: Gijón, Asturias, Spain
+region: Spain
 feastDay:
   month: 9
   day: 6
@@ -19,8 +19,9 @@ canonizationStatus: Blessed
 vocation:
   - Priest
   - Cardinal
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 martyr: true
+prayers: []
 ---
 
 Felipe joined the Franciscan Capuchins on 2 August 1923, taking the name Domitilo of Ayoó; he made his religious profession on 3 August 1924. Ordained a priest on 30 May 1931. He became known as a passionate preacher.

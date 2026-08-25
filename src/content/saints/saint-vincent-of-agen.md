@@ -1,14 +1,14 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Vincent of Agen"
+name: Saint Vincent of Agen
 honorific: Saint
-summary: "Deacon and preacher. Martyred by pagans as a sacrifice to a sun god."
+summary: Deacon and preacher. Martyred by pagans as a sacrifice to a sun god.
 searchAliases:
-  - "Vincenzo di Aquitania"
+  - Vincenzo di Aquitania
 deathYear: 292
-died: "staked out, scourged and beheaded c.292 at Agen, Gascony, France"
-deathPlace: "scourged and beheaded c.292 at Agen, Gascony, France"
-region: "France"
+died: staked out, scourged and beheaded c.292 at Agen, Gascony, France
+deathPlace: scourged and beheaded c.292 at Agen, Gascony, France
+region: France
 feastDay:
   month: 6
   day: 9
@@ -18,6 +18,7 @@ vocation:
   - Monk
   - Deacon
 martyr: true
+prayers: []
 ---
 
 Deacon and preacher. Martyred by pagans as a sacrifice to a sun god.

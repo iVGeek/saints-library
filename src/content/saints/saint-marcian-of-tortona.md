@@ -29,6 +29,7 @@ patronage:
   - Tortona, city of
   - Tortona, diocese of
 martyr: true
+prayers: []
 ---
 
 Convert, brought to the faith by Saint Barnabas the Apostle. Evangelist in and first bishop of Tortona, Italy where he served for 45 years. Martyred in the persecutions of Hadrian. May be the same as Saint Marcian of Ravenna.

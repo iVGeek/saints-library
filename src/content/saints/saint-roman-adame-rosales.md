@@ -1,26 +1,32 @@
 ---
-name: "Saint Roman Adame Rosales"
+name: Saint Roman Adame Rosales
 honorific: Venerable
-summary: "Ordained on 30 November 1890. Parish priest at Nochistlan, Zacatecas, Mexico in 1913, a position he held until his death. Especially known for his ministry to the sick, and his devotion to Our Lady. Built chapels in the areas around Nochistlan. Founded the Daughters of Mary of No"
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Roman-Adame-Rosales.jpg"
+summary: >-
+  Ordained on 30 November 1890. Parish priest at Nochistlan, Zacatecas, Mexico in 1913, a position he held until his
+  death. Especially known for his ministry to the sick, and his devotion to Our Lady. Built chapels in the areas around
+  Nochistlan. Founded the Daughters of Mary of No
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Roman-Adame-Rosales.jpg
 searchAliases:
-  - "Romanus"
+  - Romanus
 birthYear: 1859
 deathYear: 1927
-born: "27 February 1859 at Teocaltiche, Jalisco, Mexico"
-died: "shot on 21 April 1927 in a cemetery near Yahualican, Jalisco, Mexico"
-birthPlace: "Jalisco, Mexico"
-deathPlace: "Jalisco, Mexico"
-region: "Mexico"
+born: 27 February 1859 at Teocaltiche, Jalisco, Mexico
+died: shot on 21 April 1927 in a cemetery near Yahualican, Jalisco, Mexico
+birthPlace: Jalisco, Mexico
+deathPlace: Jalisco, Mexico
+region: Mexico
 feastDay:
   month: 4
   day: 21
-centuries: [19, 20]
+centuries:
+  - 19
+  - 20
 canonizationStatus: Venerable
 vocation:
   - Priest
   - Soldier
 martyr: true
+prayers: []
 ---
 
 Ordained on 30 November 1890. Parish priest at Nochistlan, Zacatecas, Mexico in 1913, a position he held until his death. Especially known for his ministry to the sick, and his devotion to Our Lady. Built chapels in the areas around Nochistlan. Founded the Daughters of Mary of Nocturnal Adoration. When government persecutions of religion began, he took his ministry underground.

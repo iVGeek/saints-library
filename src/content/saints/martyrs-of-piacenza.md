@@ -18,6 +18,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/43/S._Antonino_di_Piacenza.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Martyrs of Piacenza
 imageCreditUrl: https://en.wikipedia.org/wiki/Antoninus%20of%20Piacenza
+prayers: []
 ---
 
 A group of Christians who died together for their faith in the persecutions of Diocletian. No details about them have survived.

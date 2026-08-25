@@ -1,11 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Modesta of Nicomedia"
+name: Saint Modesta of Nicomedia
 honorific: Saint
-summary: "Daughter of Saint Patricia of Nicomedia and Saint Macedonius of Nicomedia. The whole family was martyred with several other Christians whose names have not come down to us."
+summary: >-
+  Daughter of Saint Patricia of Nicomedia and Saint Macedonius of Nicomedia. The whole family was martyred with several
+  other Christians whose names have not come down to us.
 deathYear: 304
-died: "martyred c.304 at Nicomedia (in modern Turkey)"
-region: "England"
+died: martyred c.304 at Nicomedia (in modern Turkey)
+region: England
 feastDay:
   month: 3
   day: 13
@@ -13,6 +15,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Daughter of Saint Patricia of Nicomedia and Saint Macedonius of Nicomedia. The whole family was martyred with several other Christians whose names have not come down to us.

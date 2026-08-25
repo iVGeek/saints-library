@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Raverranus of Séez"
+name: Saint Raverranus of Séez
 honorific: Saint
-summary: "Bishop of Séez, France."
+summary: Bishop of Séez, France.
 deathYear: 682
-died: "682"
-region: "France"
+died: '682'
+region: France
 feastDay:
   month: 11
   day: 7
@@ -14,6 +14,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Bishop of Séez, France.

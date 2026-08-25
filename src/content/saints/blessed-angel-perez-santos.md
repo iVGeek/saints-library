@@ -19,6 +19,7 @@ vocation:
   - Priest
 religiousOrder: Augustinian
 martyr: true
+prayers: []
 ---
 
 Augustinian priest. Martyred in the Spanish Civil War.

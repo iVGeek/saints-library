@@ -1,16 +1,18 @@
 ---
-name: "Saint Gonéri of Tréguier"
+name: Saint Gonéri of Tréguier
 honorific: Saint
-summary: "Son of Saint Elibouban. Sixth century exile who fled from Britain to Brittany to escape invading Anglo-Saxons. Hermit at Tréguier, France. Helped bring Prince Alwand to Christianity."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Goneri-of-Tréguier.jpg"
+summary: >-
+  Son of Saint Elibouban. Sixth century exile who fled from Britain to Brittany to escape invading Anglo-Saxons. Hermit
+  at Tréguier, France. Helped bring Prince Alwand to Christianity.
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Goneri-of-Tréguier.jpg
 searchAliases:
-  - "Gonéri of Brittany"
-  - "Gonéri of Plougrescant"
-  - "Gonéry of…"
-  - "Gonnéry of…"
-  - "Koneri of…"
-born: "British Isles"
-region: "France"
+  - Gonéri of Brittany
+  - Gonéri of Plougrescant
+  - Gonéry of…
+  - Gonnéry of…
+  - Koneri of…
+born: British Isles
+region: France
 feastDay:
   month: 7
   day: 18
@@ -19,10 +21,11 @@ vocation:
   - Monk
   - Hermit
 patronage:
-  - "against anxiety"
-  - "against fever"
-  - "Saint-Gonnery, Morbihan, Brittany, France"
+  - against anxiety
+  - against fever
+  - Saint-Gonnery, Morbihan, Brittany, France
 martyr: false
+prayers: []
 ---
 
 Son of Saint Elibouban. Sixth century exile who fled from Britain to Brittany to escape invading Anglo-Saxons. Hermit at Tréguier, France. Helped bring Prince Alwand to Christianity.

@@ -1,25 +1,26 @@
 ---
-name: "Blessed Thomas Terai Kahyoe"
+name: Blessed Thomas Terai Kahyoe
 honorific: Blessed
-summary: "Young layman in the archdiocese of Nagasaki, Japan. Member of the Lay Augustinians. Martyr."
-image: "http://catholicsaints.info/wp-content/uploads/img-Augustinian-Martyrs-of-Japan.jpg"
+summary: Young layman in the archdiocese of Nagasaki, Japan. Member of the Lay Augustinians. Martyr.
+image: http://catholicsaints.info/wp-content/uploads/img-Augustinian-Martyrs-of-Japan.jpg
 searchAliases:
-  - "Thomas Terai Kahioye"
+  - Thomas Terai Kahioye
 birthYear: 1605
 deathYear: 1630
-born: "1605 in Ikiriki, Japan"
-died: "beheaded on 28 October 1630 in Omura, Nagasaki, Japan"
-birthPlace: "Japan"
-deathPlace: "Nagasaki, Japan"
-region: "Japan"
+born: 1605 in Ikiriki, Japan
+died: beheaded on 28 October 1630 in Omura, Nagasaki, Japan
+birthPlace: Japan
+deathPlace: Nagasaki, Japan
+region: Japan
 feastDay:
   month: 9
   day: 28
 canonizationStatus: Blessed
 vocation:
   - Monk
-religiousOrder: "Augustinian"
+religiousOrder: Augustinian
 martyr: true
+prayers: []
 ---
 
 Young layman in the archdiocese of Nagasaki, Japan. Member of the Lay Augustinians. Martyr.

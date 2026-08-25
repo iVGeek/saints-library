@@ -22,6 +22,7 @@ patronage:
   - nursing mothers
   - Rome, Italy
 martyr: true
+prayers: []
 ---
 
 Wealthy daughter of a Christian Roman consul. On her parent's death, she gave away her riches to the poor and devoted herself to prayer. Tortured and martyred in the persecutions of Alexander Severus for refusing to sacrifice to pagan gods. A basilica is dedicated to her at the Roman forum.

@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Claudianus of Nicomedia"
+name: Saint Claudianus of Nicomedia
 honorific: Saint
-summary: "Third-century layman, married to Saint Bassa of Nicomedia. Martyr."
+summary: Third-century layman, married to Saint Bassa of Nicomedia. Martyr.
 searchAliases:
-  - "Claudian"
-region: "Italy"
+  - Claudian
+region: Italy
 feastDay:
   month: 1
   day: 1
@@ -13,6 +13,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Third-century layman, married to Saint Bassa of Nicomedia. Martyr.

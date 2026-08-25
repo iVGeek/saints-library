@@ -1,12 +1,12 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Derlugha of Lemmagh"
+name: Saint Derlugha of Lemmagh
 honorific: Saint
-summary: "Nun."
+summary: Nun.
 searchAliases:
-  - "Derlugha of Lawyn"
-  - "Darluga"
-region: "Italy"
+  - Derlugha of Lawyn
+  - Darluga
+region: Italy
 feastDay:
   month: 2
   day: 10
@@ -14,6 +14,7 @@ canonizationStatus: Saint
 vocation:
   - Religious
 martyr: false
+prayers: []
 ---
 
 Nun.

@@ -1,17 +1,17 @@
 ---
-name: "Pope Saint Leo the Great"
+name: Pope Saint Leo the Great
 honorific: Saint
-summary: " Pope from 440 to 461 during the time of the invasion of Attila the Hun. When Attila marched on Rome, Leo went out to meet him and pleaded for him to leave. As Born to the Italian nobility. Strong student, especially in scripture and theology. Priest. Eloquent writer and homilist."
-image: "http://catholicsaints.info/wp-content/uploads/img-Pope-Saint-Leo-the-Great.jpg"
+summary: ' Pope from 440 to 461 during the time of the invasion of Attila the Hun. When Attila marched on Rome, Leo went out to meet him and pleaded for him to leave. As Born to the Italian nobility. Strong student, especially in scripture and theology. Priest. Eloquent writer and homilist.'
+image: http://catholicsaints.info/wp-content/uploads/img-Pope-Saint-Leo-the-Great.jpg
 searchAliases:
-  - "Leo I"
+  - Leo I
 birthYear: 400
 deathYear: 461
-born: "c.400 at Tuscany, Italy"
-died: "11 April 461 at Rome, Italy"
-birthPlace: "Italy"
-deathPlace: "Italy"
-region: "Italy"
+born: c.400 at Tuscany, Italy
+died: 11 April 461 at Rome, Italy
+birthPlace: Italy
+deathPlace: Italy
+region: Italy
 feastDay:
   month: 11
   day: 10
@@ -19,15 +19,19 @@ canonizationStatus: Saint
 vocation:
   - Bishop
   - Priest
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 patronage:
-  - "choristers"
-  - "musicians"
-  - "–"
-  - "in Italy\n\nCastellana Grotte"
-  - "Ponteginori"
-  - "Volterra, diocese of"
+  - choristers
+  - musicians
+  - –
+  - |-
+    in Italy
+
+    Castellana Grotte
+  - Ponteginori
+  - Volterra, diocese of
 martyr: false
+prayers: []
 ---
 
 Born to the Italian nobility. Strong student, especially in scripture and theology. Priest. Eloquent writer and homilist.

@@ -25,6 +25,7 @@ patronage:
   - –
   - Chios, Greece
 martyr: true
+prayers: []
 ---
 
 Sailor. Brought Christianity to the Greek island of Chios. Martyred in the persecutions of Decius for refusing to sacrifice to idols.

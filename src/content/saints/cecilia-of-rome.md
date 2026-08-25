@@ -68,7 +68,7 @@ prayers:
       O Saint Cecilia, whose heart sang to the Lord while the world made music, obtain for us a harmony of soul. Bless
       all musicians and singers, that their art may lift hearts to God; keep pure the songs of our hearts; and give us
       courage to praise God even in suffering. Amen.
-  - name: Novena to Saint Cecilia
+  - name: Novena to Saint Cecilia of Rome
     kind: Novena — nine-day prayer for music and worship
     text: >-
       O glorious Saint Cecilia, virgin and martyr, patroness of musicians, I turn to you in this novena with a heart

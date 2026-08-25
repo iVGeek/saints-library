@@ -1,17 +1,20 @@
 ---
-name: "Blessed José Olallo Valdés"
+name: Blessed José Olallo Valdés
 honorific: Blessed
-summary: "José was abandoned as an infant at the age of one month at the Saint Joseph orphanage in Havana, Cuba; he had a note which had his birthdate and the statement that he had not been baptized. The orphanage baptized him 2 days later, and he lived there till he was 7 years old when h"
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-José-Ollalo-Valdés.jpg"
+summary: >-
+  José was abandoned as an infant at the age of one month at the Saint Joseph orphanage in Havana, Cuba; he had a note
+  which had his birthdate and the statement that he had not been baptized. The orphanage baptized him 2 days later, and
+  he lived there till he was 7 years old when h
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-José-Ollalo-Valdés.jpg
 searchAliases:
-  - "Poor People's Priest (though he wasn't a priest)"
+  - Poor People's Priest (though he wasn't a priest)
 birthYear: 1820
 deathYear: 1889
-born: "12 February 1820 in Havana, Cuba"
-died: "7 March 1889 in Camagüey, Cuba of natural causes"
-birthPlace: "Cuba"
-deathPlace: "Cubanatural causes"
-region: "Chile"
+born: 12 February 1820 in Havana, Cuba
+died: 7 March 1889 in Camagüey, Cuba of natural causes
+birthPlace: Cuba
+deathPlace: Cubanatural causes
+region: Chile
 feastDay:
   month: 3
   day: 7
@@ -21,6 +24,7 @@ vocation:
   - Priest
   - Cardinal
 martyr: false
+prayers: []
 ---
 
 José was abandoned as an infant at the age of one month at the Saint Joseph orphanage in Havana, Cuba; he had a note which had his birthdate and the statement that he had not been baptized. The orphanage baptized him 2 days later, and he lived there till he was 7 years old when he was transferred to the Benefencia orphanage, also in Havana.

@@ -1,21 +1,22 @@
 ---
-name: "Pope Saint Paschal I"
+name: Pope Saint Paschal I
 honorific: Saint
-summary: " Defended the Greeks against iconoclastic emperors, and sheltered refugees Son of Bonosus. Studied at the Lateran Basilica in Rome, Italy. Benedictine monk. Abbot of Saint Stephen's monastery, which was near the Vatican, and which housed pilgrims to Rome. Elected 98th pope in 817."
-image: "https://upload.wikimedia.org/wikipedia/commons/d/d8/Pope_Paschalis_I._in_apsis_mosaic_of_Santa_Prassede_in_Rome.png"
+summary: ' Defended the Greeks against iconoclastic emperors, and sheltered refugees Son of Bonosus. Studied at the Lateran Basilica in Rome, Italy. Benedictine monk. Abbot of Saint Stephen''s monastery, which was near the Vatican, and which housed pilgrims to Rome. Elected 98th pope in 817.'
+image: https://upload.wikimedia.org/wikipedia/commons/d/d8/Pope_Paschalis_I._in_apsis_mosaic_of_Santa_Prassede_in_Rome.png
 deathYear: 824
-born: "at Rome, Italy"
-died: "824"
-birthPlace: "Italy"
-region: "Italy"
+born: at Rome, Italy
+died: '824'
+birthPlace: Italy
+region: Italy
 feastDay:
   month: 2
   day: 11
 canonizationStatus: Saint
 vocation:
   - Monk
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 martyr: true
+prayers: []
 ---
 
 Son of Bonosus. Studied at the Lateran Basilica in Rome, Italy. Benedictine monk. Abbot of Saint Stephen's monastery, which was near the Vatican, and which housed pilgrims to Rome. Elected 98th pope in 817.

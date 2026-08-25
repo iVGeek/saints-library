@@ -1,16 +1,19 @@
 ---
-name: "Blessed Maria Anna Blondin"
+name: Blessed Maria Anna Blondin
 honorific: Blessed
-summary: "Born to a pious, French-Canadian farm family, the daughter of Jean Baptiste Blondin and Marie Rose Limoges. Illiterate into adulthood, as were the other members of her family and most of her acquaintances. Domestic servant for a village merchant, and then in the convent of the Si"
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Maria-Anna-Blondin.jpg"
+summary: >-
+  Born to a pious, French-Canadian farm family, the daughter of Jean Baptiste Blondin and Marie Rose Limoges. Illiterate
+  into adulthood, as were the other members of her family and most of her acquaintances. Domestic servant for a village
+  merchant, and then in the convent of the Si
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Maria-Anna-Blondin.jpg
 searchAliases:
-  - "Esther Blondin"
-  - "Sister Marie-Anne"
-  - "Marie-Anne Blondin"
+  - Esther Blondin
+  - Sister Marie-Anne
+  - Marie-Anne Blondin
 deathYear: 1890
-died: "2 January 1890 at Lachine, Quebec, Canada of natural causes"
-deathPlace: "Quebec, Canadanatural causes"
-region: "Canada"
+died: 2 January 1890 at Lachine, Quebec, Canada of natural causes
+deathPlace: Quebec, Canadanatural causes
+region: Canada
 feastDay:
   month: 1
   day: 2
@@ -20,6 +23,7 @@ vocation:
   - Priest
   - Religious
 martyr: false
+prayers: []
 ---
 
 Born to a pious, French–Canadian farm family, the daughter of Jean Baptiste Blondin and Marie Rose Limoges. Illiterate into adulthood, as were the other members of her family and most of her acquaintances. Domestic servant for a village merchant, and then in the convent of the Sisters of the Congregation of Notre Dame, where she learned to read and write. Entered as a novice in the Sisters, but ill health forced her to leave.

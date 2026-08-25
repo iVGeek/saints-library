@@ -1,15 +1,20 @@
 ---
-name: "Blessed Richard Henkes"
+name: Blessed Richard Henkes
 honorific: Blessed
-summary: "One of eight children in the family of a stone mason. His mother taught the children religion, and would sprinkle them with holy water each night before bed. Attracted to the idea of mission work, Richard joined the Pallotines in 1919. Spiritual student of the Servant of God Jose"
-image: "https://upload.wikimedia.org/wikipedia/commons/9/93/Henkes_richard.jpg"
+summary: >-
+  One of eight children in the family of a stone mason. His mother taught the children religion, and would sprinkle them
+  with holy water each night before bed. Attracted to the idea of mission work, Richard joined the Pallotines in 1919.
+  Spiritual student of the Servant of God Jose
+image: https://upload.wikimedia.org/wikipedia/commons/9/93/Henkes_richard.jpg
 birthYear: 1900
 deathYear: 1945
-born: "26 May 1900 in Ruppach, diocese of Limburg, Westerwald, Germany"
-died: "22 February 1945 in cell block 17 of the Dachau concentration camp, Germany of typhoid he had contracted while caring for fellow prisoners"
-birthPlace: "dioceseLimburg, Westerwald, Germany"
-deathPlace: "Germanytyphoid he had contracted while caring for fellow prisoners"
-region: "Czech Republic"
+born: 26 May 1900 in Ruppach, diocese of Limburg, Westerwald, Germany
+died: >-
+  22 February 1945 in cell block 17 of the Dachau concentration camp, Germany of typhoid he had contracted while caring
+  for fellow prisoners
+birthPlace: dioceseLimburg, Westerwald, Germany
+deathPlace: Germanytyphoid he had contracted while caring for fellow prisoners
+region: Czech Republic
 feastDay:
   month: 2
   day: 22
@@ -17,8 +22,9 @@ canonizationStatus: Blessed
 vocation:
   - Bishop
   - Priest
-religiousOrder: "Pallottine"
+religiousOrder: Pallottine
 martyr: true
+prayers: []
 ---
 
 One of eight children in the family of a stone mason. His mother taught the children religion, and would sprinkle them with holy water each night before bed. Attracted to the idea of mission work, Richard joined the Pallotines in 1919. Spiritual student of the Servant of God Joseph Kentenich. Ordained to the priesthood on 6 June 1925 in the diocese of Limburg, Germany. Teacher in several Pallottine and Schoenstatt schools beginning in 1926. In 1927 he diagnosed with tuburculosis, and collapsed from exhaustion; there was thought to transfer him to South Africa for his health, but he was considered too sick to surive such a trip. By 1928 he was somewhat recovered, and insisted on resuming teaching. In 1931 he was assigned to schools in Upper Silesia.

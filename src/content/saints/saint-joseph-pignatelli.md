@@ -1,28 +1,34 @@
 ---
-name: "Saint Joseph Pignatelli"
+name: Saint Joseph Pignatelli
 honorific: Venerable
-summary: "His mother was Spanish, his father an Italian noble. An orphan at age 9, he became a resident student at the Jesuit college in Zaragoza. Joined the Jesuits in 1753 at Taragona at age 16, along with his brother. Developed tuberculosis, which weakened and haunted him the rest of hi"
-image: "https://upload.wikimedia.org/wikipedia/commons/e/e3/Joseph_Pignatelli_%281737-1811%29.jpg"
+summary: >-
+  His mother was Spanish, his father an Italian noble. An orphan at age 9, he became a resident student at the Jesuit
+  college in Zaragoza. Joined the Jesuits in 1753 at Taragona at age 16, along with his brother. Developed tuberculosis,
+  which weakened and haunted him the rest of hi
+image: https://upload.wikimedia.org/wikipedia/commons/e/e3/Joseph_Pignatelli_%281737-1811%29.jpg
 searchAliases:
-  - "Giuseppe Maria Pignatelli"
-  - "José Pignatelli Moncayo"
+  - Giuseppe Maria Pignatelli
+  - José Pignatelli Moncayo
 birthYear: 1737
 deathYear: 1811
-born: "27 December 1737 at Zaragoza, Spain"
-died: "15 November 1811 in Rome, Italy of his life long fight with tuberculosis"
-birthPlace: "Spain"
-deathPlace: "Italyhis life long fight with tuberculosis"
-region: "France"
+born: 27 December 1737 at Zaragoza, Spain
+died: 15 November 1811 in Rome, Italy of his life long fight with tuberculosis
+birthPlace: Spain
+deathPlace: Italyhis life long fight with tuberculosis
+region: France
 feastDay:
   month: 11
   day: 15
-centuries: [18, 19]
+centuries:
+  - 18
+  - 19
 canonizationStatus: Venerable
 vocation:
   - Priest
   - Monk
-religiousOrder: "Jesuit"
+religiousOrder: Jesuit
 martyr: false
+prayers: []
 ---
 
 His mother was Spanish, his father an Italian noble. An orphan at age 9, he became a resident student at the Jesuit college in Zaragoza. Joined the Jesuits in 1753 at Taragona at age 16, along with his brother. Developed tuberculosis, which weakened and haunted him the rest of his life. Ordained in 1763 at age 25. Teacher at Manresa, Bilboa, and Zaragoza. Ministered to men on death row.

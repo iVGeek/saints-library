@@ -20,6 +20,7 @@ canonizationStatus: Blessed
 vocation:
   - Priest
 martyr: true
+prayers: []
 ---
 
 Parish priest in Chorzow-Batory, archdiocese of Katowice, Poland. Known for his piety, ministry to the poor, and encouragement of vocations to the priesthood and religious life. Arrested on 13 April 1940 by Nazis for the crime of being a Catholic priest. Martyr.

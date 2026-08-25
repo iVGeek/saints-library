@@ -1,35 +1,41 @@
 ---
-name: "Saint Albert Chmielowski"
+name: Saint Albert Chmielowski
 honorific: Venerable
-summary: "Born to a wealthy aristocratic family, he initially studied agriculture in order to manage the family estate. Involved in politics from his youth, he lost a leg at age 17 when injured while fighting in an insurrection. In Krakow, he became a popular, well-known and well-liked art"
-image: "https://upload.wikimedia.org/wikipedia/commons/8/89/Brat_Albert.png"
+summary: >-
+  Born to a wealthy aristocratic family, he initially studied agriculture in order to manage the family estate. Involved
+  in politics from his youth, he lost a leg at age 17 when injured while fighting in an insurrection. In Krakow, he
+  became a popular, well-known and well-liked art
+image: https://upload.wikimedia.org/wikipedia/commons/8/89/Brat_Albert.png
 searchAliases:
-  - "Adam Chmielowski"
-  - "Adam Hilary Bernard Chmielowski"
-  - "Brat Albert"
-  - "Brother Albert"
-  - "Brother of Our Lord"
-  - "Brother of Our God"
-  - "Our God's Brother"
+  - Adam Chmielowski
+  - Adam Hilary Bernard Chmielowski
+  - Brat Albert
+  - Brother Albert
+  - Brother of Our Lord
+  - Brother of Our God
+  - Our God's Brother
 birthYear: 1845
 deathYear: 1916
-born: "20 August 1845 at Igoalomia (Aigolonija), Poland as Adam Hilary Bernard Chmielowski"
-died: "25 December 1916 at Krakow, Poland, of natural causes"
-birthPlace: "Poland as Adam Hilary Bernard Chmielowski"
-deathPlace: "Poland,natural causes"
-region: "Poland"
+born: 20 August 1845 at Igoalomia (Aigolonija), Poland as Adam Hilary Bernard Chmielowski
+died: 25 December 1916 at Krakow, Poland, of natural causes
+birthPlace: Poland as Adam Hilary Bernard Chmielowski
+deathPlace: Poland,natural causes
+region: Poland
 feastDay:
   month: 6
   day: 17
-centuries: [19, 20]
+centuries:
+  - 19
+  - 20
 canonizationStatus: Venerable
 vocation:
   - Religious
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 patronage:
-  - "Albertine Brothers"
-  - "Albertine Sisters"
+  - Albertine Brothers
+  - Albertine Sisters
 martyr: false
+prayers: []
 ---
 
 Born to a wealthy aristocratic family, he initially studied agriculture in order to manage the family estate. Involved in politics from his youth, he lost a leg at age 17 when injured while fighting in an insurrection. In Krakow, he became a popular, well-known and well-liked artist. His interest in politics and art made him keenly aware of the human misery around him. A gentle and compassionate soul, he felt called to help those in need. After years of reflection, he understood that this desire was how God was calling him to service and Himself.

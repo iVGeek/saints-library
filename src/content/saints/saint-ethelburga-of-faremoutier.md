@@ -1,19 +1,22 @@
 ---
-name: "Saint Ethelburga of Faremoutier"
+name: Saint Ethelburga of Faremoutier
 honorific: Saint
-summary: "Daughter of the king of East Angles. During her childhood, Ethelburga lived in a Gallic convent under the direction of Saint Burgundofara, a home she would have for the rest of her life. She was known throughout the community for her adherence to the Rule of the Order. In the mid"
-image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Ethelburga-of-Faremoutier-1.jpg"
+summary: >-
+  Daughter of the king of East Angles. During her childhood, Ethelburga lived in a Gallic convent under the direction of
+  Saint Burgundofara, a home she would have for the rest of her life. She was known throughout the community for her
+  adherence to the Rule of the Order. In the mid
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Ethelburga-of-Faremoutier-1.jpg
 searchAliases:
-  - "Aubierge"
-  - "Cdilburh"
-  - "Edelburga"
-  - "Edilberga"
-  - "Edilburga"
-  - "Etelburga"
+  - Aubierge
+  - Cdilburh
+  - Edelburga
+  - Edilberga
+  - Edilburga
+  - Etelburga
 deathYear: 664
-died: "664 at Faremoutier, France of natural causes"
-deathPlace: "Francenatural causes"
-region: "France"
+died: 664 at Faremoutier, France of natural causes
+deathPlace: Francenatural causes
+region: France
 feastDay:
   month: 7
   day: 7
@@ -23,10 +26,11 @@ vocation:
   - Priest
   - Monk
   - Religious
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 patronage:
-  - "Faremoutier, France"
+  - Faremoutier, France
 martyr: false
+prayers: []
 ---
 
 Daughter of the king of East Angles. During her childhood, Ethelburga lived in a Gallic convent under the direction of Saint Burgundofara, a home she would have for the rest of her life. She was known throughout the community for her adherence to the Rule of the Order. In the mid-seventh century, Ethelburga was chosen abbess. She ruled with wisdom and justice until her death. Saint Tortgith of Barking was one of her nuns.

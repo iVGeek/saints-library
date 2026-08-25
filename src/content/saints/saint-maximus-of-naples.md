@@ -15,6 +15,7 @@ image: https://commons.wikimedia.org/wiki/Special:FilePath/San_Massimo_1.JPG?wid
 vocation:
   - Bishop
 martyr: true
+prayers: []
 ---
 
 Bishop of Naples, Italy in 359, but spent much of his service in exile for having defended the Nicene Creed against Arian rulers. Martyr.

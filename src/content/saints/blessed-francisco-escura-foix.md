@@ -1,15 +1,15 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Francisco Escura Foix"
+name: Blessed Francisco Escura Foix
 honorific: Blessed
-summary: "Priest of the diocese of Córdoba, Spain. Martyred in the Spanish Civil War."
+summary: Priest of the diocese of Córdoba, Spain. Martyred in the Spanish Civil War.
 birthYear: 1898
 deathYear: 1936
-born: "20 May 1898 in Benicarló, Castellón, Spain"
-died: "6 September 1936 in Benicarló, Castellón, Spain"
-birthPlace: "Castellón, Spain"
-deathPlace: "Castellón, Spain"
-region: "Spain"
+born: 20 May 1898 in Benicarló, Castellón, Spain
+died: 6 September 1936 in Benicarló, Castellón, Spain
+birthPlace: Castellón, Spain
+deathPlace: Castellón, Spain
+region: Spain
 feastDay:
   month: 9
   day: 6
@@ -18,6 +18,7 @@ vocation:
   - Priest
   - Cardinal
 martyr: true
+prayers: []
 ---
 
 Priest of the diocese of Córdoba, Spain. Martyred in the Spanish Civil War.

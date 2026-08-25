@@ -1,14 +1,17 @@
 ---
-name: "Blessed Benedetta Bianchi Porro"
+name: Blessed Benedetta Bianchi Porro
 honorific: Blessed
-summary: "Daughter of Guido Bianchi Porro and Elsa Giammarchi, the second of six children. Afflicted with poliomyelitis at an early age, leaving her with a crippled left leg and a need to wear a brace to prevent her spine from deforming. A clever and happy child, she began keeping a diary"
-image: "https://upload.wikimedia.org/wikipedia/commons/6/62/Benedetta_Bianchi_Porro.png"
+summary: >-
+  Daughter of Guido Bianchi Porro and Elsa Giammarchi, the second of six children. Afflicted with poliomyelitis at an
+  early age, leaving her with a crippled left leg and a need to wear a brace to prevent her spine from deforming. A
+  clever and happy child, she began keeping a diary
+image: https://upload.wikimedia.org/wikipedia/commons/6/62/Benedetta_Bianchi_Porro.png
 searchAliases:
-  - "Bianchi Porro"
+  - Bianchi Porro
 deathYear: 1964
-died: "23 January 1964 at Sirmione, Italy of complications resulting from her Recklinghausen Disease-­Neuro-Fibromatosis"
-deathPlace: "Italycomplications resulting from her Recklinghausen Disease-­Neuro-Fibromatosis"
-region: "Italy"
+died: 23 January 1964 at Sirmione, Italy of complications resulting from her Recklinghausen Disease-­Neuro-Fibromatosis
+deathPlace: Italycomplications resulting from her Recklinghausen Disease-­Neuro-Fibromatosis
+region: Italy
 feastDay:
   month: 1
   day: 23
@@ -16,8 +19,9 @@ canonizationStatus: Blessed
 vocation:
   - Priest
   - Cardinal
-religiousOrder: "Jesuit"
+religiousOrder: Jesuit
 martyr: false
+prayers: []
 ---
 
 Daughter of Guido Bianchi Porro and Elsa Giammarchi, the second of six children. Afflicted with poliomyelitis at an early age, leaving her with a crippled left leg and a need to wear a brace to prevent her spine from deforming. A clever and happy child, she began keeping a diary at age five; it became a lifelong record of her faith and the way she carried the cross of her disability. Much of her primary education was provided by Ursulines. In her teens she began to lose her hearing, and her overall health continued to deterioate.

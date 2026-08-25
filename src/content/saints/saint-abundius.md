@@ -17,6 +17,7 @@ vocation:
   - Monk
   - Deacon
 martyr: true
+prayers: []
 ---
 
 Deacon. Martyred in the persecutions of Diocletian.

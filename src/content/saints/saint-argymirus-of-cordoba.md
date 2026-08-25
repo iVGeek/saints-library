@@ -26,6 +26,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/2/28/EulogioCordovamart.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Argymirus of Cordoba
 imageCreditUrl: https://en.wikipedia.org/wiki/Martyrs%20of%20C%C3%B3rdoba
+prayers: []
 ---
 
 Government official in Cordoba, Spain during the Moorish occupation, but he lost his position due to being a Christian. Monk. Soon after his profession he responded to inquiries by renouncing Islam and declaring his loyalty to Christ. Martyr.

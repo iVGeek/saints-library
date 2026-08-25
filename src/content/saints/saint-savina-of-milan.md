@@ -18,6 +18,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Martyred for ministering to Christian prisoners and for burying martyrs during the persecutions of Diocletian.

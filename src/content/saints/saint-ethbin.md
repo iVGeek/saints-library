@@ -22,6 +22,7 @@ vocation:
   - Deacon
   - Hermit
 martyr: false
+prayers: []
 ---
 
 Born to the nobility. Spiritual student of Saint Samson of York in Brittany, France. Deacon. Served at the monastery of Taurac in Brittany until it was destroyed by the Franks. Hermit near Kildare, Ireland. Miracle worker.

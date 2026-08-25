@@ -1,23 +1,28 @@
 ---
 image: /placeholder-saint.svg
-name: "Venerable Heinrich Hahn"
+name: Venerable Heinrich Hahn
 honorific: Venerable
-summary: "Married layman and father of ten children in the diocese of Aachen, Germany. Physician, politician. Helped found the Franziskus Xaverius Missionsverein."
+summary: >-
+  Married layman and father of ten children in the diocese of Aachen, Germany. Physician, politician. Helped found the
+  Franziskus Xaverius Missionsverein.
 birthYear: 1800
 deathYear: 1882
-born: "29 August 1800 in Aachen, Germany"
-died: "11 March 1882 in Aachen, Germany of natural causes"
-birthPlace: "Germany"
-deathPlace: "Germanynatural causes"
-region: "Germany"
+born: 29 August 1800 in Aachen, Germany
+died: 11 March 1882 in Aachen, Germany of natural causes
+birthPlace: Germany
+deathPlace: Germanynatural causes
+region: Germany
 feastDay:
   month: 1
   day: 1
-centuries: [18, 19]
+centuries:
+  - 18
+  - 19
 canonizationStatus: Venerable
 vocation:
   - Priest
 martyr: false
+prayers: []
 ---
 
 Married layman and father of ten children in the diocese of Aachen, Germany. Physician, politician. Helped found the Franziskus Xaverius Missionsverein.

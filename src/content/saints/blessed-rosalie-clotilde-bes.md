@@ -1,17 +1,19 @@
 ---
-name: "Blessed Rosalie-Clotilde Bes"
+name: Blessed Rosalie-Clotilde Bes
 honorific: Blessed
-summary: "Sacramentine nun. Martyred in the French Revolution."
-image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Orange.jpg"
+summary: Sacramentine nun. Martyred in the French Revolution.
+image: http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Orange.jpg
 searchAliases:
-  - "Rosalia Clotilde di S. Pelagia Bès\nSister Saint Pelagia of Saint John the Baptist"
+  - |-
+    Rosalia Clotilde di S. Pelagia Bès
+    Sister Saint Pelagia of Saint John the Baptist
 birthYear: 1753
 deathYear: 1794
-born: "30 June 1753 in Beaume-de-Transit, Drôme, France"
-died: "guillotined on 11 July 1794 in Orange, Vaucluse, France"
-birthPlace: "Drôme, France"
-deathPlace: "Vaucluse, France"
-region: "France"
+born: 30 June 1753 in Beaume-de-Transit, Drôme, France
+died: guillotined on 11 July 1794 in Orange, Vaucluse, France
+birthPlace: Drôme, France
+deathPlace: Vaucluse, France
+region: France
 feastDay:
   month: 7
   day: 11
@@ -19,6 +21,7 @@ canonizationStatus: Blessed
 vocation:
   - Religious
 martyr: true
+prayers: []
 ---
 
 Sacramentine nun. Martyred in the French Revolution.

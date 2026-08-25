@@ -1,31 +1,33 @@
 ---
-name: "Saint Teilo of Llandaff"
+name: Saint Teilo of Llandaff
 honorific: Saint
-summary: "Son of Ensic and Guenhaff; brother of Queen Anaumed of Cornwall. Spiritual student of Saint Dyfrig of Wales. Friend of Saint David of Wales and Saint Samson of York. Founded Llandaff monastery in Dyfed, Wales. Bishop of Llandaff in 495."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Teilo-of-Llandaff-1.jpg"
+summary: >-
+  Son of Ensic and Guenhaff; brother of Queen Anaumed of Cornwall. Spiritual student of Saint Dyfrig of Wales. Friend of
+  Saint David of Wales and Saint Samson of York. Founded Llandaff monastery in Dyfed, Wales. Bishop of Llandaff in 495.
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Teilo-of-Llandaff-1.jpg
 searchAliases:
-  - "Dillo"
-  - "Dillon"
-  - "Dol"
-  - "Elidius"
-  - "Elios"
-  - "Eliud"
-  - "Teilan"
-  - "Teilio"
-  - "Teilou"
-  - "Teilus"
-  - "Teio"
-  - "Teiou"
-  - "Teliano"
-  - "Teliarus"
-  - "Teliavo"
-  - "Teliou"
-  - "Thelian"
-  - "Theliau"
-born: "Penally, Wales"
-died: "6th century"
-birthPlace: "Wales"
-region: "England"
+  - Dillo
+  - Dillon
+  - Dol
+  - Elidius
+  - Elios
+  - Eliud
+  - Teilan
+  - Teilio
+  - Teilou
+  - Teilus
+  - Teio
+  - Teiou
+  - Teliano
+  - Teliarus
+  - Teliavo
+  - Teliou
+  - Thelian
+  - Theliau
+born: Penally, Wales
+died: 6th century
+birthPlace: Wales
+region: England
 feastDay:
   month: 2
   day: 9
@@ -36,9 +38,10 @@ vocation:
   - Monk
   - Confessor
 patronage:
-  - "against fever"
-  - "horses"
+  - against fever
+  - horses
 martyr: false
+prayers: []
 ---
 
 Son of Ensic and Guenhaff; brother of Queen Anaumed of Cornwall. Spiritual student of Saint Dyfrig of Wales. Friend of Saint David of Wales and Saint Samson of York. Founded Llandaff monastery in Dyfed, Wales. Bishop of Llandaff in 495.

@@ -25,6 +25,7 @@ vocation:
 patronage:
   - Lahn river sailors
 martyr: false
+prayers: []
 ---
 
 Spiritual student of Saint Martin of Tours. Ordained by Saint Maximinus of Trier, he served as parish priest in Kobern, Germany. Evangelist along the river Lahn in the Moselle region of Germany.

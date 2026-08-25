@@ -35,6 +35,7 @@ patronage:
   - –
   - Cartagena, Spain
 martyr: false
+prayers: []
 ---
 
 Son of Severianus and Theodora, people known for their piety. Brother of Saint Fulgentius of Ecija, Saint Florentina of Cartagena, and Saint Leander of Seville, who raised him after their father's death. Initially a poor student, he gave the problem over to God and became one of the most learned men of his time. Priest. Helped his brother Leander, archbishop of Seville, in the conversion the Visigoth Arians. Hermit.

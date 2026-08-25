@@ -1,20 +1,22 @@
 ---
-name: "Saint Briarch of Bourbriac"
+name: Saint Briarch of Bourbriac
 honorific: Saint
-summary: "Born to the Irish nobility. Monk in Wales. Friend and evangelist with Saint Tudwal. Priest. He founded a monastery in Guingamp, Brittany, France, and served as its first abbot. Pilgrim to Rome."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Briarch-of-Bourbriac.jpg"
+summary: >-
+  Born to the Irish nobility. Monk in Wales. Friend and evangelist with Saint Tudwal. Priest. He founded a monastery in
+  Guingamp, Brittany, France, and served as its first abbot. Pilgrim to Rome.
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Briarch-of-Bourbriac.jpg
 searchAliases:
-  - "Briarch of Brittany"
-  - "Briach…"
-  - "Briac…"
-  - "Briachus…"
-  - "Briag…"
-  - "Briagenn…"
+  - Briarch of Brittany
+  - Briach…
+  - Briac…
+  - Briachus…
+  - Briag…
+  - Briagenn…
 deathYear: 627
-born: "Irish"
-died: "627 in Bourbiac, France of natural causes"
-deathPlace: "Francenatural causes"
-region: "France"
+born: Irish
+died: 627 in Bourbiac, France of natural causes
+deathPlace: Francenatural causes
+region: France
 feastDay:
   month: 12
   day: 17
@@ -24,10 +26,11 @@ vocation:
   - Monk
   - Religious
 patronage:
-  - "against epilepsy"
-  - "against mental illness"
-  - "against migraines"
+  - against epilepsy
+  - against mental illness
+  - against migraines
 martyr: false
+prayers: []
 ---
 
 Born to the Irish nobility. Monk in Wales. Friend and evangelist with Saint Tudwal. Priest. He founded a monastery in Guingamp, Brittany, France, and served as its first abbot. Pilgrim to Rome.

@@ -1,33 +1,37 @@
 ---
-name: "Saint John Damascene"
+name: Saint John Damascene
 honorific: Saint
-summary: "Son of Mansur, representative of the Christians to the court of the Muslim caliph. Apparently thrived as a Christian in a Saracen land, becoming the chief financial officer for caliph Abdul Malek. Tutored in his youth by a captured Italian monk named Cosmas. Between the Christian"
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-John-Damascene.gif"
+summary: >-
+  Son of Mansur, representative of the Christians to the court of the Muslim caliph. Apparently thrived as a Christian
+  in a Saracen land, becoming the chief financial officer for caliph Abdul Malek. Tutored in his youth by a captured
+  Italian monk named Cosmas. Between the Christian
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-John-Damascene.gif
 searchAliases:
-  - "Doctor of Christian Art"
-  - "Jean Damascene"
-  - "Johannes Damascenus"
-  - "John Chrysorrhoas (“golden-stream”)"
-  - "John of Damascus"
+  - Doctor of Christian Art
+  - Jean Damascene
+  - Johannes Damascenus
+  - John Chrysorrhoas (“golden-stream”)
+  - John of Damascus
 birthYear: 676
 deathYear: 749
-born: "676 at Damascus, Syria"
-died: "749 of natural causes"
-birthPlace: "Syria"
-region: "Turkey"
+born: 676 at Damascus, Syria
+died: 749 of natural causes
+birthPlace: Syria
+region: Turkey
 feastDay:
   month: 12
   day: 4
 canonizationStatus: Saint
 vocation:
   - Priest
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 patronage:
-  - "pharmacists"
-  - "icon painters"
-  - "sick children"
-  - "theology students"
+  - pharmacists
+  - icon painters
+  - sick children
+  - theology students
 martyr: false
+prayers: []
 ---
 
 Son of Mansur, representative of the Christians to the court of the Muslim caliph. Apparently thrived as a Christian in a Saracen land, becoming the chief financial officer for caliph Abdul Malek. Tutored in his youth by a captured Italian monk named Cosmas. Between the Christian teaching from the monk, and that of the Muslim schools, John became highly educated in the classical fields (geometry, literature, logic, rhetoric, etc.).

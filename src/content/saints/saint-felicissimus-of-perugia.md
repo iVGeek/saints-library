@@ -1,12 +1,12 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Felicissimus of Perugia"
+name: Saint Felicissimus of Perugia
 honorific: Saint
-summary: "Martyred under Diocletian."
+summary: Martyred under Diocletian.
 deathYear: 303
-died: "c.303 in Perugia, Italy"
-deathPlace: "Italy"
-region: "Italy"
+died: c.303 in Perugia, Italy
+deathPlace: Italy
+region: Italy
 feastDay:
   month: 11
   day: 24
@@ -14,8 +14,9 @@ canonizationStatus: Saint
 vocation:
   - Monk
 patronage:
-  - "Perugia, Italy"
+  - Perugia, Italy
 martyr: true
+prayers: []
 ---
 
 Martyred under Diocletian.

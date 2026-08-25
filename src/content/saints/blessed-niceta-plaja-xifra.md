@@ -1,25 +1,26 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Niceta Plaja Xifra"
+name: Blessed Niceta Plaja Xifra
 honorific: Blessed
-summary: "Member of the Carmelite Sisters of Charity. Martyred in the Spanish Civil War."
+summary: Member of the Carmelite Sisters of Charity. Martyred in the Spanish Civil War.
 searchAliases:
-  - "Sister Niceta of Saint Prudentius"
+  - Sister Niceta of Saint Prudentius
 birthYear: 1863
 deathYear: 1936
-born: "31 October 1863 in Torrent, Girona, Spain"
-died: "24 November 1936 in Picadero de Paterna, Valencia, Spain"
-birthPlace: "Girona, Spain"
-deathPlace: "Valencia, Spain"
-region: "Spain"
+born: 31 October 1863 in Torrent, Girona, Spain
+died: 24 November 1936 in Picadero de Paterna, Valencia, Spain
+birthPlace: Girona, Spain
+deathPlace: Valencia, Spain
+region: Spain
 feastDay:
   month: 11
   day: 24
 canonizationStatus: Blessed
 vocation:
   - Religious
-religiousOrder: "Carmelite"
+religiousOrder: Carmelite
 martyr: true
+prayers: []
 ---
 
 Member of the Carmelite Sisters of Charity. Martyred in the Spanish Civil War.

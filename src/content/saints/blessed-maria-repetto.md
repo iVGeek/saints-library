@@ -21,6 +21,7 @@ vocation:
   - Priest
   - Religious
 martyr: false
+prayers: []
 ---
 
 Daughter of a notary, and the oldest of eleven children. It was a pious family – three of her sisters became nuns, one brother a priest. Maria joined the Daughters of Our Lady of Refuge (Brignolines) in Genoa, Italy on 7 May 1829, making her final vows in 1831. Seamstress and embroiderer for many years.

@@ -24,6 +24,7 @@ imageAlt: Portrait of Saint Achea of Kill-Glais
 imageCredit: <span class="int-own-work" lang="en">Own work</span>
 imageCreditUrl: >-
   https://commons.wikimedia.org/wiki/File:Saint-Chef%20-%20%C3%89glise%20Saint-Theud%C3%A8re%20-%20Vases%20acoustiques.jpeg
+prayers: []
 ---
 
 Daughter of Britannius Conis and Saint Dareca; niece of Saint Patrick; sister of Saint Lalloc. Nun at the abbey of Kill-Glais near Ardagh, Ireland; she later served as abbess there.

@@ -1,10 +1,12 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Lucius of Constantinople"
+name: Saint Lucius of Constantinople
 honorific: Saint
-summary: "Priest. Imprisoned and tortured at Amphipolis and then Constantinople during the persecutions of Diocletian and Laudicius. Martyr."
-died: "Constantinople"
-region: "Turkey"
+summary: >-
+  Priest. Imprisoned and tortured at Amphipolis and then Constantinople during the persecutions of Diocletian and
+  Laudicius. Martyr.
+died: Constantinople
+region: Turkey
 feastDay:
   month: 5
   day: 13
@@ -13,6 +15,7 @@ vocation:
   - Priest
   - Monk
 martyr: true
+prayers: []
 ---
 
 Priest. Imprisoned and tortured at Amphipolis and then Constantinople during the persecutions of Diocletian and Laudicius. Martyr.

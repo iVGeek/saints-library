@@ -22,6 +22,7 @@ patronage:
   - Andria, Italy, city of
   - Andria, Italy, diocese of
 martyr: false
+prayers: []
 ---
 
 Bishop of Andria, Italy for 40 years. Attended the Third Lateran Council in 1179. Known for his personal sanctity, his work in building the diocese, and as a miracle worker.

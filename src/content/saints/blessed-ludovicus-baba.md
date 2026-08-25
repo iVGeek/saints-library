@@ -16,6 +16,7 @@ image: >-
 vocation: []
 religiousOrder: Franciscan
 martyr: true
+prayers: []
 ---
 
 Lifelong layman in the archdiocese of Nagasaki, Japan. Member of the Secular Franciscans. Catechist. Martyr.

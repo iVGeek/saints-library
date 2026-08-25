@@ -17,6 +17,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/9/9b/Noli_-_View_from_Capo_Noli_-_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Eugenius of Noli
 imageCreditUrl: https://en.wikipedia.org/wiki/Noli
+prayers: []
 ---
 
 Evangelizing bishop along the coastline from Provençe, France to Livorno, Italy.

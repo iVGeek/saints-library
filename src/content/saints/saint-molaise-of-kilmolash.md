@@ -1,16 +1,16 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Molaise of Kilmolash"
+name: Saint Molaise of Kilmolash
 honorific: Saint
-summary: "Priest in Kilmolash, Ireland who helped convert the people in the Inishlounaght region."
+summary: Priest in Kilmolash, Ireland who helped convert the people in the Inishlounaght region.
 searchAliases:
-  - "Molaise of Devenish"
-  - "Laserian"
+  - Molaise of Devenish
+  - Laserian
 birthYear: 500
 deathYear: 560
-born: "c.500 in Ireland"
-died: "c.560 in Ireland of natural causes"
-region: "Ireland"
+born: c.500 in Ireland
+died: c.560 in Ireland of natural causes
+region: Ireland
 feastDay:
   month: 1
   day: 17
@@ -19,6 +19,7 @@ vocation:
   - Priest
   - Monk
 martyr: false
+prayers: []
 ---
 
 Priest in Kilmolash, Ireland who helped convert the people in the Inishlounaght region.

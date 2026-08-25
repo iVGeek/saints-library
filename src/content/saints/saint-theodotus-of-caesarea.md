@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Theodotus of Caesarea"
+name: Saint Theodotus of Caesarea
 honorific: Saint
-summary: "Married to Saint Rufina of Caesarea. Father of Saint Mamas. Martyred in the persecutions of Aurelian."
+summary: Married to Saint Rufina of Caesarea. Father of Saint Mamas. Martyred in the persecutions of Aurelian.
 deathYear: 270
-died: "c.270 at Caesarea, Cappadocia, Asia Minor"
-deathPlace: "Cappadocia, Asia Minor"
+died: c.270 at Caesarea, Cappadocia, Asia Minor
+deathPlace: Cappadocia, Asia Minor
 feastDay:
   month: 8
   day: 31
@@ -14,6 +14,7 @@ vocation:
   - Priest
   - Monk
 martyr: true
+prayers: []
 ---
 
 Married to Saint Rufina of Caesarea. Father of Saint Mamas. Martyred in the persecutions of Aurelian.

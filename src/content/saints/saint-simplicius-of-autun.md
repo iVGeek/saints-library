@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Simplicius of Autun"
+name: Saint Simplicius of Autun
 honorific: Saint
-summary: "Married, but he and his wife lived as brother and sister. Evangelizing bishop of Autun, France."
+summary: Married, but he and his wife lived as brother and sister. Evangelizing bishop of Autun, France.
 deathYear: 360
-died: "c.360 of natural causes"
-region: "France"
+died: c.360 of natural causes
+region: France
 feastDay:
   month: 6
   day: 24
@@ -14,6 +14,7 @@ vocation:
   - Bishop
   - Religious
 martyr: false
+prayers: []
 ---
 
 Married, but he and his wife lived as brother and sister. Evangelizing bishop of Autun, France.

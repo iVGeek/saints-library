@@ -17,6 +17,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/d/d9/Pope_Caius.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Gaius
 imageCreditUrl: https://en.wikipedia.org/wiki/Pope%20Caius
+prayers: []
 ---
 
 Priest. Martyr. No other information has survived.

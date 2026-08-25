@@ -1,21 +1,24 @@
 ---
-name: "Saint Hubert of Liège"
+name: Saint Hubert of Liège
 honorific: Saint
-summary: "Grandson of Charibert, King of Toulouse. Eldest son of Bertrand, Duke of Aquitaine. Worldly, popular and dissolute layman courtier at Nuestria in northwest France in his youth. For political reasons he emigrated, to Austrasia in the border area between modern France and Germany."
-image: "https://upload.wikimedia.org/wikipedia/commons/4/4d/St.Hubert_Ottawa_St.Patrick_RC_Basilica.jpg"
+summary: >-
+  Grandson of Charibert, King of Toulouse. Eldest son of Bertrand, Duke of Aquitaine. Worldly, popular and dissolute
+  layman courtier at Nuestria in northwest France in his youth. For political reasons he emigrated, to Austrasia in the
+  border area between modern France and Germany.
+image: https://upload.wikimedia.org/wikipedia/commons/4/4d/St.Hubert_Ottawa_St.Patrick_RC_Basilica.jpg
 searchAliases:
-  - "Apostle of the Ardennes"
-  - "Hubert of Tongres- Maastricht"
-  - "Hubert the Hunter"
-  - "Hubertus…"
-  - "Uberto…"
+  - Apostle of the Ardennes
+  - Hubert of Tongres- Maastricht
+  - Hubert the Hunter
+  - Hubertus…
+  - Uberto…
 birthYear: 656
 deathYear: 727
-born: "c.656 at Maastricht, Netherlands"
-died: "30 May 727 at Fura (modern Tervueren), Brabant, Belgium of natural causes"
-birthPlace: "Netherlands"
-deathPlace: "Brabant, Belgiumnatural causes"
-region: "Belgium"
+born: c.656 at Maastricht, Netherlands
+died: 30 May 727 at Fura (modern Tervueren), Brabant, Belgium of natural causes
+birthPlace: Netherlands
+deathPlace: Brabant, Belgiumnatural causes
+region: Belgium
 feastDay:
   month: 11
   day: 3
@@ -24,33 +27,37 @@ vocation:
   - Bishop
   - Priest
   - Confessor
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 patronage:
-  - "against dog bite"
-  - "against hydrophobia"
-  - "against mad dogs"
-  - "against rabies"
-  - "archers"
-  - "dogs"
-  - "forest workers"
-  - "furriers"
-  - "hunters, hunting or huntsmen"
-  - "hunting dogs"
-  - "machinists"
-  - "mathematicians"
-  - "metal casters"
-  - "metal workers"
-  - "opticians"
-  - "precision instrument makers"
-  - "smelters"
-  - "trappers"
-  - "–"
-  - "in Belgium\n\nLiege, city of"
-  - "Liege, diocese of"
-  - "Saint-Hubert"
-  - "Sint-Huibrechts-Lille"
-  - "Tilleur"
+  - against dog bite
+  - against hydrophobia
+  - against mad dogs
+  - against rabies
+  - archers
+  - dogs
+  - forest workers
+  - furriers
+  - hunters, hunting or huntsmen
+  - hunting dogs
+  - machinists
+  - mathematicians
+  - metal casters
+  - metal workers
+  - opticians
+  - precision instrument makers
+  - smelters
+  - trappers
+  - –
+  - |-
+    in Belgium
+
+    Liege, city of
+  - Liege, diocese of
+  - Saint-Hubert
+  - Sint-Huibrechts-Lille
+  - Tilleur
 martyr: true
+prayers: []
 ---
 
 Grandson of Charibert, King of Toulouse. Eldest son of Bertrand, Duke of Aquitaine. Worldly, popular and dissolute layman courtier at Nuestria in northwest France in his youth. For political reasons he emigrated, to Austrasia in the border area between modern France and Germany. Married in 682 to Floribanne, daughter of Dagobert, Count of Louvain. Father of one son, Saint Floribert of Liege.

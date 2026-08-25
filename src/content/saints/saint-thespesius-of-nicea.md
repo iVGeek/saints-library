@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Thespesius of Nicea"
+name: Saint Thespesius of Nicea
 honorific: Saint
-summary: "Martyred in the persecutions of Emperor Maximinius the Thracian."
+summary: Martyred in the persecutions of Emperor Maximinius the Thracian.
 deathYear: 235
-died: "235 in Nicea, Asia Minor"
-deathPlace: "Asia Minor"
+died: 235 in Nicea, Asia Minor
+deathPlace: Asia Minor
 feastDay:
   month: 11
   day: 20
@@ -13,6 +13,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Martyred in the persecutions of Emperor Maximinius the Thracian.

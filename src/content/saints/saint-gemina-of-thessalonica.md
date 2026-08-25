@@ -16,6 +16,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/7/7f/Marcellus_Cassian.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Gemina of Thessalonica
 imageCreditUrl: https://en.wikipedia.org/wiki/Marcellus%20of%20Tangier
+prayers: []
 ---
 
 Martyr.

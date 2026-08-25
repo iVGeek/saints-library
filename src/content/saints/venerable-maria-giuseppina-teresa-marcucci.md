@@ -1,25 +1,28 @@
 ---
-name: "Venerable Maria Giuseppina Teresa Marcucci"
+name: Venerable Maria Giuseppina Teresa Marcucci
 honorific: Venerable
-summary: "Passionist nun."
-image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Maria-Giuseppina-Teresa-Marcucci.jpg"
+summary: Passionist nun.
+image: http://catholicsaints.info/wp-content/uploads/img-Venerable-Maria-Giuseppina-Teresa-Marcucci.jpg
 searchAliases:
-  - "Maria Magdalena of Jesus in the Blessed Sacrament"
+  - Maria Magdalena of Jesus in the Blessed Sacrament
 birthYear: 1888
 deathYear: 1960
-born: "24 April 1888 in San Gemignno di Moriano, Lucca, Italy"
-died: "10 February 1960 in Madrid, Spain of natural causes"
-birthPlace: "Lucca, Italy"
-deathPlace: "Spaof natural causes"
-region: "Italy"
+born: 24 April 1888 in San Gemignno di Moriano, Lucca, Italy
+died: 10 February 1960 in Madrid, Spain of natural causes
+birthPlace: Lucca, Italy
+deathPlace: Spaof natural causes
+region: Italy
 feastDay:
   month: 1
   day: 1
-centuries: [19, 20]
+centuries:
+  - 19
+  - 20
 canonizationStatus: Venerable
 vocation:
   - Religious
 martyr: false
+prayers: []
 ---
 
 Passionist nun.

@@ -21,6 +21,7 @@ feastDay:
 canonizationStatus: Blessed
 vocation: []
 martyr: true
+prayers: []
 ---
 
 Professed religious in the Brothers of the Christian Schools (De La Salle Brothers). Martyred in the Spanish Civil War.

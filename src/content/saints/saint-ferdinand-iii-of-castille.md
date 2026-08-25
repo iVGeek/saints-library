@@ -1,15 +1,18 @@
 ---
-name: "Saint Ferdinand III of Castille"
+name: Saint Ferdinand III of Castille
 honorific: Saint
-summary: "Son of Alfonso IX, King of Leon, and Berengaria, daughter of King Alfonso III of Castile; cousin of Saint Louis IX. King of Castile in 1217 at age 18. King of Leon in 1230. King of Palencia, Valladolid, and Burgos. Married to Princess Beatrice, daughter of Philip of Swabia, King"
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Ferdinand-III-of-Castille.jpg"
+summary: >-
+  Son of Alfonso IX, King of Leon, and Berengaria, daughter of King Alfonso III of Castile; cousin of Saint Louis IX.
+  King of Castile in 1217 at age 18. King of Leon in 1230. King of Palencia, Valladolid, and Burgos. Married to Princess
+  Beatrice, daughter of Philip of Swabia, King
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Ferdinand-III-of-Castille.jpg
 birthYear: 1198
 deathYear: 1252
-born: "1198 near Salamanca, Spain"
-died: "30 May 1252 at Seville, Spain of natural causes"
-birthPlace: "Spain"
-deathPlace: "Spaof natural causes"
-region: "Germany"
+born: 1198 near Salamanca, Spain
+died: 30 May 1252 at Seville, Spain of natural causes
+birthPlace: Spain
+deathPlace: Spaof natural causes
+region: Germany
 feastDay:
   month: 5
   day: 30
@@ -18,28 +21,32 @@ vocation:
   - Bishop
   - Priest
   - Confessor
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 patronage:
-  - "authorities"
-  - "engineers"
-  - "governors"
-  - "large families"
-  - "magistrates"
-  - "parenthood"
-  - "paupers"
-  - "poor people"
-  - "prisoners"
-  - "rulers"
-  - "Spanish military engineers"
-  - "Spanish monarchy"
-  - "tertiaries"
-  - "–"
-  - "Amagá, Colombia"
-  - "Castile, kingdom of"
-  - "in Spain\n\nBurgos"
-  - "Córdoba"
-  - "Seville"
+  - authorities
+  - engineers
+  - governors
+  - large families
+  - magistrates
+  - parenthood
+  - paupers
+  - poor people
+  - prisoners
+  - rulers
+  - Spanish military engineers
+  - Spanish monarchy
+  - tertiaries
+  - –
+  - Amagá, Colombia
+  - Castile, kingdom of
+  - |-
+    in Spain
+
+    Burgos
+  - Córdoba
+  - Seville
 martyr: false
+prayers: []
 ---
 
 Son of Alfonso IX, King of Leon, and Berengaria, daughter of King Alfonso III of Castile; cousin of Saint Louis IX. King of Castile in 1217 at age 18. King of Leon in 1230. King of Palencia, Valladolid, and Burgos. Married to Princess Beatrice, daughter of Philip of Swabia, King of Germany. The couple had seven sons and three daughters. In his later years, Ferdinand's father desired to return to his throne, and he turned against Ferdinand; he eventually gave up the idea, however, and the two reconciled. Following the death of Beatrice in 1236, Ferdinand married Joan of Ponthiers, with whom he had two sons and a daughter.

@@ -1,16 +1,16 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Uni of Bremen"
+name: Saint Uni of Bremen
 honorific: Saint
-summary: "Monk at New Corvey Abbey. Archbishop of Bremen-Hamburg, Germany in 917. Evangelized Sweden and Denmark."
+summary: Monk at New Corvey Abbey. Archbishop of Bremen-Hamburg, Germany in 917. Evangelized Sweden and Denmark.
 searchAliases:
-  - "Huno"
-  - "Unni"
-  - "Unno"
+  - Huno
+  - Unni
+  - Unno
 deathYear: 936
-died: "936 in Birka, Sweden"
-deathPlace: "Sweden"
-region: "Scandinavia"
+died: 936 in Birka, Sweden
+deathPlace: Sweden
+region: Scandinavia
 feastDay:
   month: 9
   day: 17
@@ -19,6 +19,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Monk at New Corvey Abbey. Archbishop of Bremen-Hamburg, Germany in 917. Evangelized Sweden and Denmark.

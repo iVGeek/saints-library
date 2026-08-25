@@ -1,31 +1,35 @@
 ---
-name: "Saint Lawrence of Brindisi"
+name: Saint Lawrence of Brindisi
 honorific: Saint
-summary: "Son of Guglielmo de Rossi and Elisabetta Masella. He felt an early call to religious life, and was educated by the Friars Minor Conventuals of Brindisi, Italy. His father died when the boy was twelve. Studied in Venice. Joined the Capuchin Friars in 1575 at age 16, taking the nam"
-image: "https://upload.wikimedia.org/wikipedia/commons/f/fa/San_Lorenzo_da_Brindisi.jpg"
+summary: >-
+  Son of Guglielmo de Rossi and Elisabetta Masella. He felt an early call to religious life, and was educated by the
+  Friars Minor Conventuals of Brindisi, Italy. His father died when the boy was twelve. Studied in Venice. Joined the
+  Capuchin Friars in 1575 at age 16, taking the nam
+image: https://upload.wikimedia.org/wikipedia/commons/f/fa/San_Lorenzo_da_Brindisi.jpg
 searchAliases:
-  - "Brother Lorenzo"
-  - "Julius Caesar Rossi"
-  - "Laurence of Brindisi"
-  - "Lorenzo da Brindisi"
+  - Brother Lorenzo
+  - Julius Caesar Rossi
+  - Laurence of Brindisi
+  - Lorenzo da Brindisi
 birthYear: 1559
 deathYear: 1619
-born: "22 July 1559 at Brindisi, Italy as Julius Caesar Rossi"
-died: "22 July 1619 at Lisbon, Portugal of natural causes"
-birthPlace: "Italy as Julius Caesar Rossi"
-deathPlace: "Portugalnatural causes"
-region: "Czech Republic"
+born: 22 July 1559 at Brindisi, Italy as Julius Caesar Rossi
+died: 22 July 1619 at Lisbon, Portugal of natural causes
+birthPlace: Italy as Julius Caesar Rossi
+deathPlace: Portugalnatural causes
+region: Czech Republic
 feastDay:
   month: 7
   day: 21
 canonizationStatus: Saint
 vocation:
   - Priest
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 patronage:
-  - "Brindisi, Italy, city of"
-  - "Brindisi-Ostuni, Italy, archdiocese of"
+  - Brindisi, Italy, city of
+  - Brindisi-Ostuni, Italy, archdiocese of
 martyr: false
+prayers: []
 ---
 
 Son of Guglielmo de Rossi and Elisabetta Masella. He felt an early call to religious life, and was educated by the Friars Minor Conventuals of Brindisi, Italy. His father died when the boy was twelve. Studied in Venice. Joined the Capuchin Friars in 1575 at age 16, taking the name Brother Lorenzo. Studied theology, the Bible, French, German, Greek, Spanish, Syriac, and Hebrew at the University of Padua; he was a brilliant student, known for his facility with languages. Priest. Taught theology. Served as linguist and military chaplain. Famous, effective and forceful preacher in any of his several languages. Founded convents of Vienna and Graz in Austria, and in Prague, Czech Republic. Wrote catechisms.

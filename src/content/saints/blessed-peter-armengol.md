@@ -1,20 +1,20 @@
 ---
-name: "Blessed Peter Armengol"
+name: Blessed Peter Armengol
 honorific: Blessed
-summary: " From Born to the nobility, Pietro wasted his youth in dissolute living, and rode for a while as a brigand and thief. His band once tried to hijack his father's entourage, which caused the young man to re-evaluate his life. He had a conversion, and joined the Mercedarians in 1258."
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Peter-Armengol.jpg"
+summary: ' From Born to the nobility, Pietro wasted his youth in dissolute living, and rode for a while as a brigand and thief. His band once tried to hijack his father''s entourage, which caused the young man to re-evaluate his life. He had a conversion, and joined the Mercedarians in 1258.'
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Peter-Armengol.jpg
 searchAliases:
-  - "Pere Ermengol"
-  - "Peter Armengaudius"
-  - "Peter Ermengol"
-  - "Pietro Armengaudio"
+  - Pere Ermengol
+  - Peter Armengaudius
+  - Peter Ermengol
+  - Pietro Armengaudio
 birthYear: 1238
 deathYear: 1304
-born: "1238 at Tarragona, Urgell region, eastern Spanish Pyrenees"
-died: "1304 at Tarragona, Urgell region, eastern Spanish Pyrenees of natural causes"
-birthPlace: "Urgell region, eastern Spanish Pyrenees"
-deathPlace: "Urgell region, eastern Spanish Pyreneesnatural causes"
-region: "Spain"
+born: 1238 at Tarragona, Urgell region, eastern Spanish Pyrenees
+died: 1304 at Tarragona, Urgell region, eastern Spanish Pyrenees of natural causes
+birthPlace: Urgell region, eastern Spanish Pyrenees
+deathPlace: Urgell region, eastern Spanish Pyreneesnatural causes
+region: Spain
 feastDay:
   month: 4
   day: 27
@@ -23,8 +23,9 @@ vocation:
   - Priest
   - Monk
 patronage:
-  - "for the conversion of young people"
+  - for the conversion of young people
 martyr: true
+prayers: []
 ---
 
 Born to the nobility, Pietro wasted his youth in dissolute living, and rode for a while as a brigand and thief. His band once tried to hijack his father's entourage, which caused the young man to re-evaluate his life. He had a conversion, and joined the Mercedarians in 1258.

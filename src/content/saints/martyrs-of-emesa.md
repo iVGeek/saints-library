@@ -19,6 +19,7 @@ imageCredit: >-
   <a rel="nofollow" class="external free"
   href="http://fotki.yandex.ru/users/alexeyfedoseenko/album/182820/?p=18">http://fotki.yandex.ru/users/alexeyfedoseenko/album/182820/?p=18</a>
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:Julian%20of%20Emesa%20(Menologion%20of%20Basil%20II).jpeg
+prayers: []
 ---
 
 Group of Christian women tortured and executed for their faith in the persecutions of the Arab chieftain Mady.

@@ -14,6 +14,7 @@ image: https://commons.wikimedia.org/wiki/Special:FilePath/Blaj_Iconostasis_Maka
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Martyred in the persecutions of Decius. No other information has survived.

@@ -1,21 +1,24 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Ebbe of Minster-in-Thanet"
+name: Saint Ebbe of Minster-in-Thanet
 honorific: Saint
-summary: "Daughter of Prince Eormenred of Kent, England; grand-daughter of King Edbald. Sister of Saint Ermengitha, Saint Etheldreda, Saint Ethelred, and Saint Ethelbert of Eastry. Married to King Merewalh of Magonset. Mother of Saint Mildred of Thanet, Saint Milburga, and Saint Milgitha,"
+summary: >-
+  Daughter of Prince Eormenred of Kent, England; grand-daughter of King Edbald. Sister of Saint Ermengitha, Saint
+  Etheldreda, Saint Ethelred, and Saint Ethelbert of Eastry. Married to King Merewalh of Magonset. Mother of Saint
+  Mildred of Thanet, Saint Milburga, and Saint Milgitha,
 searchAliases:
-  - "Aebbe of Minster-in-Thanet"
-  - "Domina Aebbe"
-  - "Domneva"
-  - "Ermenburga"
-  - "Ermenburgh"
-  - "Lady Ebba"
+  - Aebbe of Minster-in-Thanet
+  - Domina Aebbe
+  - Domneva
+  - Ermenburga
+  - Ermenburgh
+  - Lady Ebba
 deathYear: 694
-born: "7th century Kent, England"
-died: "19 November 694 at Minster-in-Thanet, Kent, England of natural causes"
-birthPlace: "England"
-deathPlace: "Kent, Englandnatural causes"
-region: "England"
+born: 7th century Kent, England
+died: 19 November 694 at Minster-in-Thanet, Kent, England of natural causes
+birthPlace: England
+deathPlace: Kent, Englandnatural causes
+region: England
 feastDay:
   month: 11
   day: 19
@@ -25,6 +28,7 @@ vocation:
   - Monk
   - Religious
 martyr: false
+prayers: []
 ---
 
 Daughter of Prince Eormenred of Kent, England; grand-daughter of King Edbald. Sister of Saint Ermengitha, Saint Etheldreda, Saint Ethelred, and Saint Ethelbert of Eastry. Married to King Merewalh of Magonset. Mother of Saint Mildred of Thanet, Saint Milburga, and Saint Milgitha, and a son named Merefin who died very young.

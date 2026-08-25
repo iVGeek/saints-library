@@ -23,6 +23,7 @@ vocation:
   - Soldier
 religiousOrder: Jesuit
 martyr: true
+prayers: []
 ---
 
 Son of John and Felicity Collins. Dominic embarked on a military career, and rose to the rank of Captain. However, following a trip to Santiago del Compostela in Spain, he resigned his commission to become a Jesuit novice and lay brother. Assigned to Ireland in 1601. Arrested on 17 June 1602, he was imprisoned, tortured and executed for promoting his faith. One of the Irish Martyrs.

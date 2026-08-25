@@ -20,6 +20,7 @@ imageCredit: >-
   <a rel="nofollow" class="external text"
   href="http://www.ncm.com/content/files/art_downloads/LeonardodaVinci-TheLadywithanErmineX6803.jpg">www.ncm.com</a>
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:Dama%20z%20gronostajem.jpg
+prayers: []
 ---
 
 Sixth century nun. Honoured in Ireland.

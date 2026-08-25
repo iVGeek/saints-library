@@ -1,13 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Gertrud of Traunkirchen"
+name: Blessed Gertrud of Traunkirchen
 honorific: Blessed
-summary: "Benedictine nun and then abbess of the Abbey of Traunkirchen, Germany (in modern Austria)."
+summary: Benedictine nun and then abbess of the Abbey of Traunkirchen, Germany (in modern Austria).
 searchAliases:
-  - "Gertrude"
+  - Gertrude
 deathYear: 1050
-died: "c.1050 of natural causes"
-region: "Austria"
+died: c.1050 of natural causes
+region: Austria
 feastDay:
   month: 1
   day: 6
@@ -15,8 +15,9 @@ canonizationStatus: Blessed
 vocation:
   - Monk
   - Religious
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 martyr: false
+prayers: []
 ---
 
 Benedictine nun and then abbess of the Abbey of Traunkirchen, Germany (in modern Austria).

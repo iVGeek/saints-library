@@ -16,6 +16,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/d/d7/Didache.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Aaron of Pais-de-Laon
 imageCreditUrl: https://en.wikipedia.org/wiki/Didache
+prayers: []
 ---
 
 Martyred with in the persecutions of Diocletian.

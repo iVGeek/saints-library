@@ -1,18 +1,21 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Everard of Villers"
+name: Blessed Everard of Villers
 honorific: Blessed
-summary: "Cistercian lay brother at Villers abbey in Brabant (in modern Belgium). He was a farm worker, and part of the rural religious group in the Court-Saint-Etienne area that was associated with the abbey. Everard was known for his piety and strict adherence to the rule and discipline"
+summary: >-
+  Cistercian lay brother at Villers abbey in Brabant (in modern Belgium). He was a farm worker, and part of the rural
+  religious group in the Court-Saint-Etienne area that was associated with the abbey. Everard was known for his piety
+  and strict adherence to the rule and discipline
 searchAliases:
-  - "Eberard"
-  - "Eberhard"
-  - "Eberhardus"
-  - "Everard"
-  - "Evrard"
+  - Eberard
+  - Eberhard
+  - Eberhardus
+  - Everard
+  - Evrard
 deathYear: 1390
-born: "13th century"
-died: "c.1390 of natural causes"
-region: "Belgium"
+born: 13th century
+died: c.1390 of natural causes
+region: Belgium
 feastDay:
   month: 7
   day: 5
@@ -20,6 +23,7 @@ canonizationStatus: Blessed
 vocation:
   - Soldier
 martyr: false
+prayers: []
 ---
 
 Cistercian lay brother at Villers abbey in Brabant (in modern Belgium). He was a farm worker, and part of the rural religious group in the Court-Saint-Etienne area that was associated with the abbey. Everard was known for his piety and strict adherence to the rule and discipline of his vows. 

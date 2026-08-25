@@ -35,6 +35,7 @@ patronage:
     Aosta
   - Turin
 martyr: false
+prayers: []
 ---
 
 Born to the Italian nobility. After a childhood devoted to piety and study, at age 15 Anselm wanted to enter religious life, but his father Gondulf prevented it, and Anselm became rather worldly for several years. Upon the death of his mother, Ermenberge, Anselm argued with his father, fled to France in 1056, and became a Benedictine monk at Bec, Normandy in 1060. He studied under and succeeded Lanfranc as prior of the house in 1063. Abbot of the house in 1078.

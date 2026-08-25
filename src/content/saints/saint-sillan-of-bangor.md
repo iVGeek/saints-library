@@ -1,14 +1,14 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Sillan of Bangor"
+name: Saint Sillan of Bangor
 honorific: Saint
-summary: "Spiritual student of Saint Comgall of Bangor. Abbot of Bangor Abbey."
+summary: Spiritual student of Saint Comgall of Bangor. Abbot of Bangor Abbey.
 searchAliases:
-  - "Sillian"
-  - "Silvanus"
+  - Sillian
+  - Silvanus
 deathYear: 610
-died: "c.610"
-region: "England"
+died: c.610
+region: England
 feastDay:
   month: 2
   day: 28
@@ -16,6 +16,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: false
+prayers: []
 ---
 
 Spiritual student of Saint Comgall of Bangor. Abbot of Bangor Abbey.

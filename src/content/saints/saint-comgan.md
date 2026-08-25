@@ -1,13 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Comgan"
+name: Saint Comgan
 honorific: Saint
-summary: "Monk. Abbot in Glenthsen, Ireland."
+summary: Monk. Abbot in Glenthsen, Ireland.
 searchAliases:
-  - "Cowan"
+  - Cowan
 deathYear: 565
-died: "c.565"
-region: "Ireland"
+died: c.565
+region: Ireland
 feastDay:
   month: 2
   day: 27
@@ -15,6 +15,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: false
+prayers: []
 ---
 
 Monk. Abbot in Glenthsen, Ireland.

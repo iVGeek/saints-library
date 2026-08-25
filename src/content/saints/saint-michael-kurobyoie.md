@@ -1,24 +1,26 @@
 ---
-name: "Saint Michaël Kurobyoie"
+name: Saint Michaël Kurobyoie
 honorific: Venerable
-summary: "Dominican lay catechist. Martyr."
-image: "http://catholicsaints.info/wp-content/uploads/img-Dominican-Martyrs-of-Japan.jpg"
+summary: Dominican lay catechist. Martyr.
+image: http://catholicsaints.info/wp-content/uploads/img-Dominican-Martyrs-of-Japan.jpg
 searchAliases:
-  - "Miguel Kurobyoie"
-  - "Mikael Kurobyoie"
+  - Miguel Kurobyoie
+  - Mikael Kurobyoie
 deathYear: 1633
-born: "Japanese"
-died: "17 August 1633 at Nishizaka, Nagasaki, Japan"
-deathPlace: "Nagasaki, Japan"
-region: "England"
+born: Japanese
+died: 17 August 1633 at Nishizaka, Nagasaki, Japan
+deathPlace: Nagasaki, Japan
+region: England
 feastDay:
   month: 8
   day: 17
-centuries: [17]
+centuries:
+  - 17
 canonizationStatus: Venerable
 vocation: []
-religiousOrder: "Dominican"
+religiousOrder: Dominican
 martyr: true
+prayers: []
 ---
 
 Dominican lay catechist. Martyr.

@@ -22,6 +22,7 @@ vocation:
   - Religious
 religiousOrder: Benedictine
 martyr: false
+prayers: []
 ---
 
 Born to an illustrious family. Benedictine nun. Anchoress near Brieuc, Brittany (in modern France).

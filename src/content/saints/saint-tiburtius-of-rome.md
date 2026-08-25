@@ -1,15 +1,15 @@
 ---
-name: "Saint Tiburtius of Rome"
+name: Saint Tiburtius of Rome
 honorific: Saint
-summary: "Son of Saint Chromatius the Prefect. Martyr. Pope Saint Damasus wrote about him."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Tiburcio.jpg"
+summary: Son of Saint Chromatius the Prefect. Martyr. Pope Saint Damasus wrote about him.
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Tiburcio.jpg
 searchAliases:
-  - "Tiburcio"
-  - "Tiburzio"
+  - Tiburcio
+  - Tiburzio
 deathYear: 286
-died: "beheaded c.286 in Rome, Italy"
-deathPlace: "Italy"
-region: "Italy"
+died: beheaded c.286 in Rome, Italy
+deathPlace: Italy
+region: Italy
 feastDay:
   month: 8
   day: 11
@@ -19,6 +19,7 @@ vocation:
   - Monk
   - Confessor
 martyr: true
+prayers: []
 ---
 
 Son of Saint Chromatius the Prefect. Martyr. Pope Saint Damasus wrote about him.

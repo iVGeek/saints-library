@@ -23,6 +23,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/d/d6/Cath%C3%A9drale_de_Viviers_-_clocher.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Eumachius
 imageCreditUrl: https://en.wikipedia.org/wiki/Diocese%20of%20Viviers
+prayers: []
 ---
 
 Priest of the Angoulême and Périgord regions (in modern France) in the late 5th and early 6th centuries. We have almost no information about him, but tradition says he was a tireless confessor.

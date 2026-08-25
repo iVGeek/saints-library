@@ -1,21 +1,24 @@
 ---
-name: "Saint Conrad of Piacenza"
+name: Saint Conrad of Piacenza
 honorific: Saint
-summary: "Born to the nobility. Married to Euphrosyne, the daughter of a nobleman; the two led a pious life in the world. One day while hunting, Conrad ordered attendants to set fire to some brush in order to flush out the game. A strong wind carried the flames to nearby fields, forests, t"
-image: "https://upload.wikimedia.org/wikipedia/commons/7/7d/San_Corado_nella_Cattedrale_di_Noto.jpg"
+summary: >-
+  Born to the nobility. Married to Euphrosyne, the daughter of a nobleman; the two led a pious life in the world. One
+  day while hunting, Conrad ordered attendants to set fire to some brush in order to flush out the game. A strong wind
+  carried the flames to nearby fields, forests, t
+image: https://upload.wikimedia.org/wikipedia/commons/7/7d/San_Corado_nella_Cattedrale_di_Noto.jpg
 searchAliases:
-  - "Conrad of Noto"
-  - "Conrad Confalonieri"
-  - "Corrado…"
-  - "Currau…"
-  - "Kerrew…"
+  - Conrad of Noto
+  - Conrad Confalonieri
+  - Corrado…
+  - Currau…
+  - Kerrew…
 birthYear: 1290
 deathYear: 1351
-born: "c.1290 at Piacenza, Italy"
-died: "19 February 1351 at Noto, Sicily of natural causes while kneeling before a crucifix"
-birthPlace: "Italy"
-deathPlace: "Sicilynatural causes while kneeling before a crucifix"
-region: "Italy"
+born: c.1290 at Piacenza, Italy
+died: 19 February 1351 at Noto, Sicily of natural causes while kneeling before a crucifix
+birthPlace: Italy
+deathPlace: Sicilynatural causes while kneeling before a crucifix
+region: Italy
 feastDay:
   month: 2
   day: 19
@@ -24,17 +27,21 @@ vocation:
   - Bishop
   - Priest
   - Hermit
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 patronage:
-  - "against hernias"
-  - "hunters"
-  - "—"
-  - "locations in Italy\n\nCacciatori"
-  - "Calendasco"
-  - "Noto, Sicily, city of"
-  - "Noto, Sicily, diocese of"
-  - "Piacenza"
+  - against hernias
+  - hunters
+  - —
+  - |-
+    locations in Italy
+
+    Cacciatori
+  - Calendasco
+  - Noto, Sicily, city of
+  - Noto, Sicily, diocese of
+  - Piacenza
 martyr: false
+prayers: []
 ---
 
 Born to the nobility. Married to Euphrosyne, the daughter of a nobleman; the two led a pious life in the world. One day while hunting, Conrad ordered attendants to set fire to some brush in order to flush out the game. A strong wind carried the flames to nearby fields, forests, towns and villages, and Conrad fled in panic. An innocent peasant was imprisoned, tortured into a confession and condemned to death for the fire. Remorseful, Conrad stepped forward to confess, saving the man. He then paid for the damaged property, selling nearly all he owned in order to raise the cash.

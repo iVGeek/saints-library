@@ -1,9 +1,9 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Conan of Cornwall"
+name: Saint Conan of Cornwall
 honorific: Saint
-summary: "Companion of Saint Petroc in 6th century Cornwall, England."
-region: "England"
+summary: Companion of Saint Petroc in 6th century Cornwall, England.
+region: England
 feastDay:
   month: 7
   day: 23
@@ -11,6 +11,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: false
+prayers: []
 ---
 
 Companion of Saint Petroc in 6th century Cornwall, England.

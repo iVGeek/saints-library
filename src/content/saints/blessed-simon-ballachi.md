@@ -1,15 +1,18 @@
 ---
-name: "Blessed Simon Ballachi"
+name: Blessed Simon Ballachi
 honorific: Blessed
-summary: "Born to the nobility, the son of Count Ballachi. His family had a close association with the Church clergy; two of his uncles became archbishops of Rimini, Italy, and a younger brother was a priest. Trained as a soldier and in administration, he was expected to take over the fami"
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Simon-Ballachi.jpg"
+summary: >-
+  Born to the nobility, the son of Count Ballachi. His family had a close association with the Church clergy; two of his
+  uncles became archbishops of Rimini, Italy, and a younger brother was a priest. Trained as a soldier and in
+  administration, he was expected to take over the fami
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Simon-Ballachi.jpg
 birthYear: 1240
 deathYear: 1319
-born: "c.1240 at Santarcangelo di Romagna, Italy"
-died: "5 November 1319 in Rimini, Italy of natural causes"
-birthPlace: "Italy"
-deathPlace: "Italynatural causes"
-region: "Italy"
+born: c.1240 at Santarcangelo di Romagna, Italy
+died: 5 November 1319 in Rimini, Italy of natural causes
+birthPlace: Italy
+deathPlace: Italynatural causes
+region: Italy
 feastDay:
   month: 11
   day: 3
@@ -17,8 +20,9 @@ canonizationStatus: Blessed
 vocation:
   - Bishop
   - Priest
-religiousOrder: "Dominican"
+religiousOrder: Dominican
 martyr: true
+prayers: []
 ---
 
 Born to the nobility, the son of Count Ballachi. His family had a close association with the Church clergy; two of his uncles became archbishops of Rimini, Italy, and a younger brother was a priest. Trained as a soldier and in administration, he was expected to take over the family estates. Against his family wishes, he joined the Dominicans as a lay-brother at age 27.

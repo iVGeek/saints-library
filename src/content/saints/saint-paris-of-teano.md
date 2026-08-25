@@ -1,15 +1,17 @@
 ---
-name: "Saint Paris of Teano"
+name: Saint Paris of Teano
 honorific: Saint
-summary: "Bishop of Teano, Italy; that's really all we know about him. Legend says that he became bishop after killing the dragon that the locals cared for and worshipped; this is usually metaphor for defeating paganism in the area."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Paride-of-Teano.jpg"
+summary: >-
+  Bishop of Teano, Italy; that's really all we know about him. Legend says that he became bishop after killing the
+  dragon that the locals cared for and worshipped; this is usually metaphor for defeating paganism in the area.
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Paride-of-Teano.jpg
 searchAliases:
-  - "Paride"
+  - Paride
 deathYear: 346
-born: "Greek"
-died: "346 in Teano, Italy"
-deathPlace: "Italy"
-region: "Italy"
+born: Greek
+died: 346 in Teano, Italy
+deathPlace: Italy
+region: Italy
 feastDay:
   month: 8
   day: 5
@@ -18,9 +20,10 @@ vocation:
   - Bishop
   - Monk
 patronage:
-  - "Teano, Italy, city of"
-  - "Teano, Italy, diocese"
+  - Teano, Italy, city of
+  - Teano, Italy, diocese
 martyr: false
+prayers: []
 ---
 
 Bishop of Teano, Italy; that's really all we know about him. Legend says that he became bishop after killing the dragon that the locals cared for and worshipped; this is usually metaphor for defeating paganism in the area.

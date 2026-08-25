@@ -1,24 +1,25 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Feliciano Ayúcar Eraso"
+name: Blessed Feliciano Ayúcar Eraso
 honorific: Blessed
-summary: "Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
+summary: Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War.
 searchAliases:
-  - "Brother Ramón Alberto"
+  - Brother Ramón Alberto
 birthYear: 1914
 deathYear: 1936
-born: "24 January 1914 in Estella, Navarra, Spain"
-died: "8 October 1936 in Montcada, Barcelona, Spain"
-birthPlace: "Navarra, Spain"
-deathPlace: "Barcelona, Spain"
-region: "Spain"
+born: 24 January 1914 in Estella, Navarra, Spain
+died: 8 October 1936 in Montcada, Barcelona, Spain
+birthPlace: Navarra, Spain
+deathPlace: Barcelona, Spain
+region: Spain
 feastDay:
   month: 10
   day: 8
 canonizationStatus: Blessed
 vocation: []
-religiousOrder: "Marist"
+religiousOrder: Marist
 martyr: true
+prayers: []
 ---
 
 Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War.

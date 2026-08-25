@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Romanus of Nepi"
+name: Saint Romanus of Nepi
 honorific: Saint
-summary: "Spiritual student of Saint Ptolemy of Nepi. Bishop of Nepi, Italy. Martyr."
-died: "martyred in the 1st century in Nepi, Italy"
-deathPlace: "Italy"
-region: "Italy"
+summary: Spiritual student of Saint Ptolemy of Nepi. Bishop of Nepi, Italy. Martyr.
+died: martyred in the 1st century in Nepi, Italy
+deathPlace: Italy
+region: Italy
 feastDay:
   month: 8
   day: 24
@@ -14,8 +14,9 @@ vocation:
   - Bishop
   - Monk
 patronage:
-  - "Nepi, Italy"
+  - Nepi, Italy
 martyr: true
+prayers: []
 ---
 
 Spiritual student of Saint Ptolemy of Nepi. Bishop of Nepi, Italy. Martyr.

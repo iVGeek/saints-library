@@ -13,6 +13,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/d/de/Colosseo_2020.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Flavian of Rome
 imageCreditUrl: https://en.wikipedia.org/wiki/Colosseum
+prayers: []
 ---
 
 One of a group of 226 Christians martyred in Rome, Italy, date unknown; no details of their lives have survived.

@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Conon of Alexandria"
+name: Saint Conon of Alexandria
 honorific: Saint
-summary: "Sixth century monk in the monastery of Pentucla in Palestine. Abbot of his house."
+summary: Sixth century monk in the monastery of Pentucla in Palestine. Abbot of his house.
 deathYear: 555
-died: "555 of natural causes"
-region: "Holy Land"
+died: 555 of natural causes
+region: Holy Land
 feastDay:
   month: 2
   day: 19
@@ -13,6 +13,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: false
+prayers: []
 ---
 
 Sixth century monk in the monastery of Pentucla in Palestine. Abbot of his house.

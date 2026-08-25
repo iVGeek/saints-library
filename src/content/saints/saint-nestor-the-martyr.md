@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Nestor the Martyr"
+name: Saint Nestor the Martyr
 honorific: Saint
-summary: "Fourth century missionary, possibly bishop, who evangelized in Cyprus. Martyr."
+summary: Fourth century missionary, possibly bishop, who evangelized in Cyprus. Martyr.
 searchAliases:
-  - "Nestore"
-region: "England"
+  - Nestore
+region: England
 feastDay:
   month: 3
   day: 4
@@ -15,6 +15,7 @@ vocation:
   - Monk
   - Missionary
 martyr: true
+prayers: []
 ---
 
 Fourth century missionary, possibly bishop, who evangelized in Cyprus. Martyr.

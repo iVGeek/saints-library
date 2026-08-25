@@ -17,6 +17,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Bishop of Piacenza, Italy. Friend of Saint Ambrose of Milan, he regularly read and commented on the first draft of Ambrose's writings. Dispatched by Pope Saint Damasus I to Antioch to suppress the Meletian Schism. Attended the Council of Aquileia in 381.

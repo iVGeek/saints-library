@@ -1,14 +1,17 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Ingen of Alexandria"
+name: Saint Ingen of Alexandria
 honorific: Saint
-summary: "Imperial Roman soldier assigned to guard a group of Egyptian Christians imprisoned for their faith in the persecutions of Decius. During their trial he encouraged the prisoners not to apostatize. Arrested and executed as a Christian himself."
+summary: >-
+  Imperial Roman soldier assigned to guard a group of Egyptian Christians imprisoned for their faith in the persecutions
+  of Decius. During their trial he encouraged the prisoners not to apostatize. Arrested and executed as a Christian
+  himself.
 searchAliases:
-  - "Ingenio"
+  - Ingenio
 deathYear: 249
-died: "beheaded in 249 at Alexandria, Egypt"
-deathPlace: "Egypt"
-region: "Egypt"
+died: beheaded in 249 at Alexandria, Egypt
+deathPlace: Egypt
+region: Egypt
 feastDay:
   month: 6
   day: 1
@@ -17,6 +20,7 @@ vocation:
   - Monk
   - Soldier
 martyr: true
+prayers: []
 ---
 
 Imperial Roman soldier assigned to guard a group of Egyptian Christians imprisoned for their faith in the persecutions of Decius. During their trial he encouraged the prisoners not to apostatize. Arrested and executed as a Christian himself.

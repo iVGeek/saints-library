@@ -2,8 +2,10 @@
 name: Saint Andrew Kim Taegon
 honorific: Saint
 title: St. Andrew Kim Taegon
-summary: "Born to the Korean nobility; his parents were converts to Christianity, and his father was martyred. Andrew was baptized at age 15, then travelled 1,300 miles to the nearest seminary in Macao, China. ..."
-image: "https://upload.wikimedia.org/wikipedia/commons/4/4d/Andrew_Kim_Tae-g%C5%8Fn.jpg"
+summary: >-
+  Born to the Korean nobility; his parents were converts to Christianity, and his father was martyred. Andrew was
+  baptized at age 15, then travelled 1,300 miles to the nearest seminary in Macao, China. ...
+image: https://upload.wikimedia.org/wikipedia/commons/4/4d/Andrew_Kim_Tae-g%C5%8Fn.jpg
 imageAlt: Portrait of Saint Andrew Kim Taegon
 imageCredit: Wikimedia Commons
 searchAliases:
@@ -11,9 +13,10 @@ searchAliases:
   - Andreas Kim Tae-Gon
   - Andeurea Gim Dae-Geon
 birthYear: 1821
-born: "1821"
-birthPlace: "Saenamteo"
-centuries: [19]
+born: '1821'
+birthPlace: Saenamteo
+centuries:
+  - 19
 feastDay:
   month: 9
   day: 16
@@ -28,8 +31,9 @@ symbols:
   - Cross
 martyr: true
 lifeEvents:
-  - year: "1821"
+  - year: '1821'
     event: Born at Saenamteo.
+prayers: []
 ---
 
 Born to the Korean nobility; his parents were converts to Christianity, and his father was martyred. Andrew was baptized at age 15, then travelled 1,300 miles to the nearest seminary in Macao, China. While still in seminary, he travelled back to Korea to work in the missions, travelling with Saint Marie-Nicolas-Antoine Daveluy. Ordained in Shanghai on 17 August 1845 by Bishop Jean-Joseph-Jean-Baptiste Ferréol who was en route to Korea as its new Vicar Apostolic. Father Andrew became the first native Korean priest, and the first priest to die for the faith in Korea. Leader of the Martyrs of Korea.

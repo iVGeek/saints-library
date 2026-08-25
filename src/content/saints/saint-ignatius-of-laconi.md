@@ -1,30 +1,35 @@
 ---
-name: "Saint Ignatius of Laconi"
+name: Saint Ignatius of Laconi
 honorific: Venerable
-summary: "Son of a poor farmer with seven children, Ignatius grew up in hard rural poverty, working the fields. At age 17, he became very ill, and promised to become a Franciscan if he was spared. When he was cured, his father convinced him to wait. At age 20 Ignatius was almost killed whe"
-image: "https://upload.wikimedia.org/wikipedia/en/2/29/IgnatiusLaconi.jpg"
+summary: >-
+  Son of a poor farmer with seven children, Ignatius grew up in hard rural poverty, working the fields. At age 17, he
+  became very ill, and promised to become a Franciscan if he was spared. When he was cured, his father convinced him to
+  wait. At age 20 Ignatius was almost killed whe
+image: https://upload.wikimedia.org/wikipedia/en/2/29/IgnatiusLaconi.jpg
 searchAliases:
-  - "Ignacy z Làconi"
-  - "Ignazio da Laconi"
-  - "Vincenzo Peis"
+  - Ignacy z Làconi
+  - Ignazio da Laconi
+  - Vincenzo Peis
 birthYear: 1701
 deathYear: 1781
-born: "17 December 1701 at Laconi, Nuoro, Italy as Vincenzo Peis"
-died: "11 May 1781 in Cagliari, Italy of natural causes"
-birthPlace: "Nuoro, Italy as Vincenzo Peis"
-deathPlace: "Italynatural causes"
-region: "Italy"
+born: 17 December 1701 at Laconi, Nuoro, Italy as Vincenzo Peis
+died: 11 May 1781 in Cagliari, Italy of natural causes
+birthPlace: Nuoro, Italy as Vincenzo Peis
+deathPlace: Italynatural causes
+region: Italy
 feastDay:
   month: 5
   day: 11
-centuries: [18]
+centuries:
+  - 18
 canonizationStatus: Venerable
 vocation:
   - Priest
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 patronage:
-  - "Domusnovas, Italy"
+  - Domusnovas, Italy
 martyr: false
+prayers: []
 ---
 
 Son of a poor farmer with seven children, Ignatius grew up in hard rural poverty, working the fields. At age 17, he became very ill, and promised to become a Franciscan if he was spared. When he was cured, his father convinced him to wait. At age 20 Ignatius was almost killed when he lost control of his horse; suddenly the horse stopped, and trotted on quietly. Ignatius was convinced God had saved his life again, and he decided to follow his religious vocation at once. He joined the Capuchin monastery of Saint Benedict at Buoncammino, Italy as a lay brother, taking his vows in 1722.

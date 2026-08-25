@@ -1,13 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Tatian of Aquileia"
+name: Saint Tatian of Aquileia
 honorific: Saint
-summary: "Deacon in Aquileia, Italy. Martyred in the persecutions of Numerian."
+summary: Deacon in Aquileia, Italy. Martyred in the persecutions of Numerian.
 searchAliases:
-  - "Taziano"
+  - Taziano
 deathYear: 284
-died: "beheaded c.284"
-region: "Italy"
+died: beheaded c.284
+region: Italy
 feastDay:
   month: 3
   day: 16
@@ -16,8 +16,9 @@ vocation:
   - Monk
   - Deacon
 patronage:
-  - "Gorizia, Italy"
+  - Gorizia, Italy
 martyr: true
+prayers: []
 ---
 
 Deacon in Aquileia, Italy. Martyred in the persecutions of Numerian.

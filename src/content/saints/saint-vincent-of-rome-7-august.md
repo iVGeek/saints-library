@@ -1,12 +1,12 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Vincent of Rome"
+name: Saint Vincent of Rome
 honorific: Saint
-summary: "Deacon. Martyred with Pope Saint Sixtus II and other deacons."
+summary: Deacon. Martyred with Pope Saint Sixtus II and other deacons.
 deathYear: 258
-died: "beheaded on 6 August 258 in a cemetery on the Appian Way, Rome, Italy"
-deathPlace: "Rome, Italy"
-region: "Italy"
+died: beheaded on 6 August 258 in a cemetery on the Appian Way, Rome, Italy
+deathPlace: Rome, Italy
+region: Italy
 feastDay:
   month: 8
   day: 7
@@ -15,6 +15,7 @@ vocation:
   - Monk
   - Deacon
 martyr: true
+prayers: []
 ---
 
 Deacon. Martyred with Pope Saint Sixtus II and other deacons.

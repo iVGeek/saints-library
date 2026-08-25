@@ -1,12 +1,12 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Hesychius"
+name: Saint Hesychius
 honorific: Saint
-summary: "Fled to Macedonia to escape the persecutions in Italy, but martyred en route."
+summary: Fled to Macedonia to escape the persecutions in Italy, but martyred en route.
 deathYear: 117
-born: "Italian"
-died: "drowned by being loaded with chains and thrown overboard c.117"
-region: "Italy"
+born: Italian
+died: drowned by being loaded with chains and thrown overboard c.117
+region: Italy
 feastDay:
   month: 7
   day: 7
@@ -14,6 +14,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Fled to Macedonia to escape the persecutions in Italy, but martyred en route.

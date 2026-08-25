@@ -1,14 +1,14 @@
 ---
-name: "Saint Plato of Ancyra"
+name: Saint Plato of Ancyra
 honorific: Saint
-summary: "Brother of Saint Antiochus of Sebaste. Martyr."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Plato-of-Ancyra.jpg"
+summary: Brother of Saint Antiochus of Sebaste. Martyr.
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Plato-of-Ancyra.jpg
 searchAliases:
-  - "Platone"
+  - Platone
 deathYear: 306
-died: "c.306 at Ancyra, Galatia"
-deathPlace: "Galatia"
-region: "Turkey"
+died: c.306 at Ancyra, Galatia
+deathPlace: Galatia
+region: Turkey
 feastDay:
   month: 7
   day: 22
@@ -16,8 +16,9 @@ canonizationStatus: Saint
 vocation:
   - Priest
   - Monk
-religiousOrder: "Jesuit"
+religiousOrder: Jesuit
 martyr: true
+prayers: []
 ---
 
 Brother of Saint Antiochus of Sebaste. Martyr.

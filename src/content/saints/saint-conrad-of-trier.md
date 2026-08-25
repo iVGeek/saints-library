@@ -1,17 +1,20 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Conrad of Trier"
+name: Saint Conrad of Trier
 honorific: Saint
-summary: "Born to a noble Swabian family. Nephew of Saint Anno. Bishop of Trier, Germany, which involved him in the political fight over who had the right to choose the bishop of that diocese. On his way to Trier he was captured by opponents and murdered. Considered a martyr."
+summary: >-
+  Born to a noble Swabian family. Nephew of Saint Anno. Bishop of Trier, Germany, which involved him in the political
+  fight over who had the right to choose the bishop of that diocese. On his way to Trier he was captured by opponents
+  and murdered. Considered a martyr.
 searchAliases:
-  - "Conrad of Treves"
-  - "Cuno…"
+  - Conrad of Treves
+  - Cuno…
 deathYear: 1066
-born: "Swabia, Germany"
-died: "thrown from a castle tower in 1066 at Uerzig, Germany"
-birthPlace: "Germany"
-deathPlace: "Germany"
-region: "Germany"
+born: Swabia, Germany
+died: thrown from a castle tower in 1066 at Uerzig, Germany
+birthPlace: Germany
+deathPlace: Germany
+region: Germany
 feastDay:
   month: 6
   day: 1
@@ -20,6 +23,7 @@ vocation:
   - Bishop
   - Monk
 martyr: true
+prayers: []
 ---
 
 Born to a noble Swabian family. Nephew of Saint Anno. Bishop of Trier, Germany, which involved him in the political fight over who had the right to choose the bishop of that diocese. On his way to Trier he was captured by opponents and murdered. Considered a martyr.

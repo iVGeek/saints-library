@@ -1,10 +1,10 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Ida of Hohenfels"
+name: Blessed Ida of Hohenfels
 honorific: Blessed
-summary: "Married to Eberhard, Count of Spanheim. Widow. Benedictine nun at Bingen."
+summary: Married to Eberhard, Count of Spanheim. Widow. Benedictine nun at Bingen.
 deathYear: 1195
-died: "c.1195 of natural causes"
+died: c.1195 of natural causes
 feastDay:
   month: 2
   day: 24
@@ -12,8 +12,9 @@ canonizationStatus: Blessed
 vocation:
   - Virgin
   - Religious
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 martyr: false
+prayers: []
 ---
 
 Married to Eberhard, Count of Spanheim. Widow. Benedictine nun at Bingen.

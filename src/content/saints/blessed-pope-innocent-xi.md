@@ -28,6 +28,7 @@ religiousOrder: Jesuit
 patronage:
   - Bavarian Congregation
 martyr: false
+prayers: []
 ---
 
 Born to a pious patrician family; his brother became bishop of Novara, Italy. Benedetto felt an early call to the priesthood. Educated by Jesuits at Como, Italy. Apprentice at his family's bank in Genoa, Italy when he was fifteen. Studied law at Rome and Naples in Italy, and received his Doctor of law degree in 1639. Protonotary apostolic to Pope Urban VIII. President of the Apostolic Chamber. Commissary at Ancona, Italy. Papal administrator of Macerata, Italy. Papal financial commissary in the Marches. Governor of Picena. Cardinal–deacon of Santi Cosma e Damiano on 6 March 1645. Prefect of the Tribunal of the Apostolic Signature of Grace on 22 January 1647. Cardinal–priest of Sant' Onofrio. Papal legate to Ferrara, Italy, assigned to oversee famine relief on 15 June 1648. Bishop from Novara, Italy on 4 April 1650 to 6 March 1656. Noted for spending all the revenues of his see in charity to the poor and sick. Part of the conclave of 1655 that chose Pope Alexander VII. Camerlengo of the Sacred College of Cardinals from 12 January 1660 to 24 January 1661. Papal legate to Ferrara in 1666. Part of the conclave of 1667 that chose Pope Clement IX. Part of the conclave of 1669 – 1670 that chose Pope Clement X; was nearly elected himself. Chosen 240th pope on 21 September 1676 after a two month inter-regnum, taking the name Innocent XI.

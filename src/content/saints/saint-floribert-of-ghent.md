@@ -1,15 +1,15 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Floribert of Ghent"
+name: Saint Floribert of Ghent
 honorific: Saint
-summary: "Abbot of monasteries in Ghent, Mont-Blandin and Saint-Bavon in Belgium. Worked with Saint Amandus."
+summary: Abbot of monasteries in Ghent, Mont-Blandin and Saint-Bavon in Belgium. Worked with Saint Amandus.
 searchAliases:
-  - "Florbert"
-  - "Floribertus"
-  - "Florbertus"
+  - Florbert
+  - Floribertus
+  - Florbertus
 deathYear: 660
-died: "c.660"
-region: "Belgium"
+died: c.660
+region: Belgium
 feastDay:
   month: 11
   day: 1
@@ -17,6 +17,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: false
+prayers: []
 ---
 
 Abbot of monasteries in Ghent, Mont-Blandin and Saint-Bavon in Belgium. Worked with Saint Amandus.

@@ -20,6 +20,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/2/2b/St._Athanasia%2C_Widow_Met_DP891072.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Athanasia of Timia
 imageCreditUrl: https://en.wikipedia.org/wiki/Athanasia%20of%20Aegina
+prayers: []
 ---
 
 Married. Her first husband died fighting the Saracens. Her second husband became a monk. Athanasia turned their home into a convent, then built Timia Abbey to house a larger congregation. Her reputation for holiness spread, and she became an advisor to Empress Theodora.

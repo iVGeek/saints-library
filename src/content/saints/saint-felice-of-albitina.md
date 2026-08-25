@@ -1,17 +1,20 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Felice of Albitina"
+name: Saint Felice of Albitina
 honorific: Saint
-summary: "Two people with the same name who were part of a group of 46 Christians arrested in Albitina, North Africa during Mass, shipped to Carthage for judgment and torture, and then died together in prison. Martyr."
+summary: >-
+  Two people with the same name who were part of a group of 46 Christians arrested in Albitina, North Africa during
+  Mass, shipped to Carthage for judgment and torture, and then died together in prison. Martyr.
 deathYear: 304
-died: "304"
-region: "Italy"
+died: '304'
+region: Italy
 feastDay:
   month: 2
   day: 12
 canonizationStatus: Saint
 vocation: []
 martyr: true
+prayers: []
 ---
 
 Two people with the same name who were part of a group of 46 Christians arrested in Albitina, North Africa during Mass, shipped to Carthage for judgment and torture, and then died together in prison. Martyr.

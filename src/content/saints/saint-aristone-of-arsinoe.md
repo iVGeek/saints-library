@@ -20,6 +20,7 @@ image: >-
 imageAlt: Portrait of Saint Aristone of Arsinoe
 imageCredit: Private postcard collection
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:Mont-de-Marsan%20-%20Rue%20Saint-Jean-d'Ao%C3%BBt%202.jpg
+prayers: []
 ---
 
 Fifth century bishop of Arsinoe on the island of Cyprus.

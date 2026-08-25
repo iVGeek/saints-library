@@ -1,15 +1,17 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Regulus of Rheims"
+name: Saint Regulus of Rheims
 honorific: Saint
-summary: "Benedictine monk at Rebais, France. Spiritual student of Saint Philibert. Archbishop of Rheims, France. Founded Orbais abbey in 680."
+summary: >-
+  Benedictine monk at Rebais, France. Spiritual student of Saint Philibert. Archbishop of Rheims, France. Founded Orbais
+  abbey in 680.
 searchAliases:
-  - "Reol"
-  - "Reolus"
-  - "Rieul"
+  - Reol
+  - Reolus
+  - Rieul
 deathYear: 698
-died: "698 of natural causes"
-region: "France"
+died: 698 of natural causes
+region: France
 feastDay:
   month: 9
   day: 3
@@ -17,10 +19,11 @@ canonizationStatus: Saint
 vocation:
   - Bishop
   - Monk
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 patronage:
-  - "Rheims, France"
+  - Rheims, France
 martyr: false
+prayers: []
 ---
 
 Benedictine monk at Rebais, France. Spiritual student of Saint Philibert. Archbishop of Rheims, France. Founded Orbais abbey in 680.

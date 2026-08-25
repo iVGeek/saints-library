@@ -1,14 +1,16 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Landericus of Paris"
+name: Saint Landericus of Paris
 honorific: Saint
-summary: "Bishop of Paris, France from 650. Founded the first hospital in Paris. Noted for his work with the poor. Encouraged the Benedictines to establish houses in his diocese."
+summary: >-
+  Bishop of Paris, France from 650. Founded the first hospital in Paris. Noted for his work with the poor. Encouraged
+  the Benedictines to establish houses in his diocese.
 searchAliases:
-  - "Landry"
-  - "Landerico"
+  - Landry
+  - Landerico
 deathYear: 661
-died: "c.661 of natural causes"
-region: "France"
+died: c.661 of natural causes
+region: France
 feastDay:
   month: 6
   day: 10
@@ -18,10 +20,11 @@ vocation:
   - Priest
   - Monk
   - Confessor
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 patronage:
-  - "against fire"
+  - against fire
 martyr: false
+prayers: []
 ---
 
 Bishop of Paris, France from 650. Founded the first hospital in Paris. Noted for his work with the poor. Encouraged the Benedictines to establish houses in his diocese.

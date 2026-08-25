@@ -1,14 +1,14 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Agamund of Croyland"
+name: Saint Agamund of Croyland
 honorific: Saint
-summary: "Monk at Croyland Abbey. Martyred by pagan Danes. Over 100 years of age at his death."
+summary: Monk at Croyland Abbey. Martyred by pagan Danes. Over 100 years of age at his death.
 searchAliases:
-  - "Agamund of Crowland"
+  - Agamund of Crowland
 deathYear: 869
-died: "869 in Croyland, England"
-deathPlace: "England"
-region: "England"
+died: 869 in Croyland, England
+deathPlace: England
+region: England
 feastDay:
   month: 4
   day: 9
@@ -16,6 +16,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Monk at Croyland Abbey. Martyred by pagan Danes. Over 100 years of age at his death.

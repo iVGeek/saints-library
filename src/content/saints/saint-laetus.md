@@ -1,10 +1,12 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Laetus of Africa"
+name: Saint Laetus of Africa
 honorific: Saint
-summary: "Bishop. One of thousands of Christians exiled, tortured and martyred in the late 5th century by the Arian King Hunneric."
-died: "burned at the stake"
-region: "Germany"
+summary: >-
+  Bishop. One of thousands of Christians exiled, tortured and martyred in the late 5th century by the Arian King
+  Hunneric.
+died: burned at the stake
+region: Germany
 feastDay:
   month: 9
   day: 6
@@ -13,6 +15,7 @@ vocation:
   - Bishop
   - Monk
 martyr: true
+prayers: []
 ---
 
 Bishop. One of thousands of Christians exiled, tortured and martyred in the late 5th century by the Arian King Hunneric.

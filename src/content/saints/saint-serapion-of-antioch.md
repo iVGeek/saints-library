@@ -15,6 +15,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Patriarch of Antioch in 190, serving for over 20 years. Theological writer.

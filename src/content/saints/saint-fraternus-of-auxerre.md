@@ -1,13 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Fraternus of Auxerre"
+name: Saint Fraternus of Auxerre
 honorific: Saint
-summary: "Bishop of Auxerre, France. Martyr."
+summary: Bishop of Auxerre, France. Martyr.
 searchAliases:
-  - "Fraterno"
+  - Fraterno
 deathYear: 450
-died: "c.450"
-region: "France"
+died: c.450
+region: France
 feastDay:
   month: 9
   day: 29
@@ -16,6 +16,7 @@ vocation:
   - Bishop
   - Monk
 martyr: true
+prayers: []
 ---
 
 Bishop of Auxerre, France. Martyr.

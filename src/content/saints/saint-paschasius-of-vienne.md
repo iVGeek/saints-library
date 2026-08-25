@@ -1,15 +1,15 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Paschasius of Vienne"
+name: Saint Paschasius of Vienne
 honorific: Saint
-summary: "Bishop of early 4th-century Vienne, France. No other information has survived."
+summary: Bishop of early 4th-century Vienne, France. No other information has survived.
 searchAliases:
-  - "Paschase"
-  - "Pascase"
-  - "Pascasio"
+  - Paschase
+  - Pascase
+  - Pascasio
 deathYear: 312
-died: "312"
-region: "France"
+died: '312'
+region: France
 feastDay:
   month: 2
   day: 22
@@ -18,6 +18,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Bishop of early 4th-century Vienne, France. No other information has survived.

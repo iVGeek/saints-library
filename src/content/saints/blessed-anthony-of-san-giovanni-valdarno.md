@@ -15,6 +15,7 @@ canonizationStatus: Blessed
 vocation: []
 religiousOrder: Franciscan
 martyr: false
+prayers: []
 ---
 
 Franciscan friar “distinguished for his eloquence and sanctity” who died while preaching on Lent.

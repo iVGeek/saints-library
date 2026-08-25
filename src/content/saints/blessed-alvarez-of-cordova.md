@@ -1,18 +1,21 @@
 ---
-name: "Blessed Alvarez of Cordova"
+name: Blessed Alvarez of Cordova
 honorific: Blessed
-summary: "Joined the Dominicans at Cordova, Spain in 1368. Renowned and well-travelled preacher, well known in Andalusia and Italy. Pilgrim to the Holy Lands. Preached Crusade. Personal confessor, spiritual guide and political advisor to Queen Catherine. In charge of the education of young"
-image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Alvarez-of-Cordova.jpg"
+summary: >-
+  Joined the Dominicans at Cordova, Spain in 1368. Renowned and well-travelled preacher, well known in Andalusia and
+  Italy. Pilgrim to the Holy Lands. Preached Crusade. Personal confessor, spiritual guide and political advisor to Queen
+  Catherine. In charge of the education of young
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Alvarez-of-Cordova.jpg
 searchAliases:
-  - "Alvarez de Zamora"
-  - "Albaro…"
-  - "Alvaro…"
+  - Alvarez de Zamora
+  - Albaro…
+  - Alvaro…
 deathYear: 1430
-born: "Lisbon, Portugal or Cordova, Spain (sources vary)"
-died: "c.1430 at Escalaceli near Cordova, Spain of natural causes, and buried there"
-birthPlace: "Portugal or Cordova, Spa(sources vary)"
-deathPlace: "Spaof natural causes, and buried there"
-region: "Portugal"
+born: Lisbon, Portugal or Cordova, Spain (sources vary)
+died: c.1430 at Escalaceli near Cordova, Spain of natural causes, and buried there
+birthPlace: Portugal or Cordova, Spa(sources vary)
+deathPlace: Spaof natural causes, and buried there
+region: Portugal
 feastDay:
   month: 2
   day: 19
@@ -21,8 +24,9 @@ vocation:
   - Priest
   - Monk
   - Confessor
-religiousOrder: "Dominican"
+religiousOrder: Dominican
 martyr: false
+prayers: []
 ---
 
 Joined the Dominicans at Cordova, Spain in 1368. Renowned and well-travelled preacher, well known in Andalusia and Italy. Pilgrim to the Holy Lands. Preached Crusade. Personal confessor, spiritual guide and political advisor to Queen Catherine. In charge of the education of young King John II. Opposed the Avignon pope Peter de Luna. Reformed many of the practices common at court.

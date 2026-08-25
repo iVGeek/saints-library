@@ -22,6 +22,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Born to the Norman nobility. Educated by the canons of Bridlington, diocese of York, England. Studied in Paris, France. Monk of the monastery of Saint Victor in Paris. Abbot of the house in 1155. Chosen bishop of Séez, France in 1157, but was opposed by King Henry II of England, and Acardo never took his see. Wrote several treatises on living a spiritual life. Bishop of Avranches, France in 1161. His connection to royalty and the court enabled him to obtain benefits for his diocese and all of the Normandy region of France. Would often retire to the Norbertine abbey of La Lucerne-d'Outremer in Normandy whose church he had help found and bless in 1164. Worked to support orthodox theology about Christ against some of the odd notions of the time.

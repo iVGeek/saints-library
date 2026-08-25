@@ -1,16 +1,18 @@
 ---
-name: "Saint Peter Balsam"
+name: Saint Peter Balsam
 honorific: Saint
-summary: "Arrested for his faith in the persecutions of Maximinus. Tried by Severus, governor of Eleutheropolis; the transcript of their dialogue was famous in early Christian literature. Martyr."
-image: "http://catholicsaints.info/wp-content/uploads/img-Matyrdom-of-Saint-Peter-Balsam.jpg"
+summary: >-
+  Arrested for his faith in the persecutions of Maximinus. Tried by Severus, governor of Eleutheropolis; the transcript
+  of their dialogue was famous in early Christian literature. Martyr.
+image: http://catholicsaints.info/wp-content/uploads/img-Matyrdom-of-Saint-Peter-Balsam.jpg
 searchAliases:
-  - "Peter Apselamus"
-  - "Peter Balsamus"
-  - "Pietro Apselamo"
+  - Peter Apselamus
+  - Peter Balsamus
+  - Pietro Apselamo
 deathYear: 311
-born: "Palestine"
-died: "crucified in 311"
-region: "England"
+born: Palestine
+died: crucified in 311
+region: England
 feastDay:
   month: 1
   day: 11
@@ -18,6 +20,7 @@ canonizationStatus: Saint
 vocation:
   - Priest
 martyr: true
+prayers: []
 ---
 
 Arrested for his faith in the persecutions of Maximinus. Tried by Severus, governor of Eleutheropolis; the transcript of their dialogue was famous in early Christian literature. Martyr.

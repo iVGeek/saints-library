@@ -33,6 +33,7 @@ patronage:
   - Fabriano
   - Sansepolcro
 martyr: false
+prayers: []
 ---
 
 Italian nobility who spent a wild youth. Acting as second, he witnessed his father kill another man in a duel, and Romuald sought to atone for the crime by becoming a Benedictine monk at Classe, Italy. Abbot from 996 to 999. A wanderer by nature, he established several hermitage and monasteries in central and northern Italy. He tried to evangalize the Slavs, but met with little success. Founded the Camaldolese Benedictines. Spent the last fourteen years of his life in seclusion at Mount Sitria, Bifolco, and Val di Castro. Spiritual teacher of Saint Wolfgang of Ratisbon.

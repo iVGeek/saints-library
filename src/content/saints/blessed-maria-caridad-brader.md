@@ -1,21 +1,24 @@
 ---
-name: "Blessed Maria Caridad Brader"
+name: Blessed Maria Caridad Brader
 honorific: Blessed
-summary: "The only child of Joseph Sebastian Brader and Maria Anna Carolina Zahner. Raised in a pious family, she was known as a highly intelligent child, and received the best education her parents could provide. There were high expectations for the girl's future, but instead of continued"
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Maria-Caridad-Brader.jpg"
+summary: >-
+  The only child of Joseph Sebastian Brader and Maria Anna Carolina Zahner. Raised in a pious family, she was known as a
+  highly intelligent child, and received the best education her parents could provide. There were high expectations for
+  the girl's future, but instead of continued
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Maria-Caridad-Brader.jpg
 searchAliases:
-  - "Caritas Brader"
-  - "Karolina Brader Zahner"
-  - "Maria Josefa Carolina Brader"
-  - "Mary Charity of the Love of the Holy Spirit"
-  - "Mary Josephine Caroline"
-  - "María Caridad of the Holy Spirit"
-  - "María Charitas of the Holy Spirit"
-  - "Mother Caritas"
+  - Caritas Brader
+  - Karolina Brader Zahner
+  - Maria Josefa Carolina Brader
+  - Mary Charity of the Love of the Holy Spirit
+  - Mary Josephine Caroline
+  - María Caridad of the Holy Spirit
+  - María Charitas of the Holy Spirit
+  - Mother Caritas
 deathYear: 1943
-died: "27 February 1943 in Pasto, Colombia of natural causes"
-deathPlace: "Colombianatural causes"
-region: "Mexico"
+died: 27 February 1943 in Pasto, Colombia of natural causes
+deathPlace: Colombianatural causes
+region: Mexico
 feastDay:
   month: 2
   day: 27
@@ -23,10 +26,11 @@ canonizationStatus: Blessed
 vocation:
   - Religious
   - Missionary
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 patronage:
-  - "Franciscan Sisters of Mary Immaculate"
+  - Franciscan Sisters of Mary Immaculate
 martyr: false
+prayers: []
 ---
 
 The only child of Joseph Sebastian Brader and Maria Anna Carolina Zahner. Raised in a pious family, she was known as a highly intelligent child, and received the best education her parents could provide. There were high expectations for the girl's future, but instead of continued study she felt a call to the religious life. Mary Josephine joined the Franciscan convent at Maria Hilf, Alstatten 1 October 1880, taking the name Mary Charity of the Love of the Holy Spirit, and making her final vows on 22 August 1882.

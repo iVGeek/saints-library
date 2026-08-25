@@ -1,47 +1,54 @@
 ---
-name: "Saint Mary Magdalen"
+name: Saint Mary Magdalen
 honorific: Saint
-summary: " She was a friend and follower of Jesus. Filled with sorrow over her sin, she anointed Christ, washed his feet with her hair. He exorcised seve We have very little solid information about Saint Mary, and both scholars and traditions differ on the interpretation of what we do know."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Mary-Magdalen-1.jpg"
+summary: ' She was a friend and follower of Jesus. Filled with sorrow over her sin, she anointed Christ, washed his feet with her hair. He exorcised seve We have very little solid information about Saint Mary, and both scholars and traditions differ on the interpretation of what we do know.'
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Mary-Magdalen-1.jpg
 searchAliases:
-  - "Maria Maddalena"
-  - "Maria Magdalena"
-  - "Mary Magdalene"
-  - "the Sinner"
-died: "the Greek Church says\n\nshe died in Ephesus of natural causes"
-region: "Brazil"
+  - Maria Maddalena
+  - Maria Magdalena
+  - Mary Magdalene
+  - the Sinner
+died: |-
+  the Greek Church says
+
+  she died in Ephesus of natural causes
+region: Brazil
 feastDay:
   month: 7
   day: 22
 canonizationStatus: Saint
 vocation: []
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 patronage:
-  - "against sexual temptation"
-  - "apothecaries"
-  - "contemplative life"
-  - "contemplatives"
-  - "converts"
-  - "druggists"
-  - "glove makers"
-  - "hairdressers"
-  - "hairstylists"
-  - "penitent sinners"
-  - "penitent women"
-  - "people ridiculed for their piety"
-  - "perfumeries"
-  - "perfumers"
-  - "pharmacists"
-  - "reformed prostitutes"
-  - "tanners"
-  - "women"
-  - "—"
-  - "Afogados da Ingazeira, Brazil, diocese of"
-  - "Fréjus-Toulon, France, diocese of"
-  - "Salt Lake City, Utah, diocese of"
-  - "–"
-  - "in France\n\nVézelay"
+  - against sexual temptation
+  - apothecaries
+  - contemplative life
+  - contemplatives
+  - converts
+  - druggists
+  - glove makers
+  - hairdressers
+  - hairstylists
+  - penitent sinners
+  - penitent women
+  - people ridiculed for their piety
+  - perfumeries
+  - perfumers
+  - pharmacists
+  - reformed prostitutes
+  - tanners
+  - women
+  - —
+  - Afogados da Ingazeira, Brazil, diocese of
+  - Fréjus-Toulon, France, diocese of
+  - Salt Lake City, Utah, diocese of
+  - –
+  - |-
+    in France
+
+    Vézelay
 martyr: true
+prayers: []
 ---
 
 We have very little solid information about Saint Mary, and both scholars and traditions differ on the interpretation of what we do know.

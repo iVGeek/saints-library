@@ -24,6 +24,7 @@ imageCredit: >-
   <a rel="nofollow" class="external free"
   href="https://sthadrian.org/welcome-to-the-order-of-st-hadrian-of-canterbury/">https://sthadrian.org/welcome-to-the-order-of-st-hadrian-of-canterbury/</a>
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:Saint%20Adrian%20of%20Ondrusov%20fresco%20(Russia).jpg
+prayers: []
 ---
 
 Martyr.

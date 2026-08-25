@@ -1,26 +1,32 @@
 ---
-name: "Venerable Bernard Alojzy Lubienski"
+name: Venerable Bernard Alojzy Lubienski
 honorific: Venerable
-summary: "Born to the nobility and related to royalty, Bernard was the second of twelve children born to Count Tomasz Wentworth Lubienski and Adelajda, née Lempicka. From the age of six, he was raised by Maria (née Lubienska) and Felix Szymanowski, pious relatives of his father. Home schoo"
-image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Bernard-Alojzy-Lubienski.jpg"
+summary: >-
+  Born to the nobility and related to royalty, Bernard was the second of twelve children born to Count Tomasz Wentworth
+  Lubienski and Adelajda, née Lempicka. From the age of six, he was raised by Maria (née Lubienska) and Felix
+  Szymanowski, pious relatives of his father. Home schoo
+image: http://catholicsaints.info/wp-content/uploads/img-Venerable-Bernard-Alojzy-Lubienski.jpg
 birthYear: 1846
 deathYear: 1933
-born: "9 December 1846 in Guzów, Poland"
-died: "10 September 1933 in Warsaw, Poland of natural causes"
-birthPlace: "Poland"
-deathPlace: "Polandnatural causes"
-region: "Poland"
+born: 9 December 1846 in Guzów, Poland
+died: 10 September 1933 in Warsaw, Poland of natural causes
+birthPlace: Poland
+deathPlace: Polandnatural causes
+region: Poland
 feastDay:
   month: 1
   day: 1
-centuries: [19, 20]
+centuries:
+  - 19
+  - 20
 canonizationStatus: Venerable
 vocation:
   - Bishop
   - Priest
   - Missionary
-religiousOrder: "Jesuit"
+religiousOrder: Jesuit
 martyr: false
+prayers: []
 ---
 
 Born to the nobility and related to royalty, Bernard was the second of twelve children born to Count Tomasz Wentworth Lubienski and Adelajda, née Lempicka. From the age of six, he was raised by Maria (née Lubienska) and Felix Szymanowski, pious relatives of his father. Home schooled until the autumn of 1858 when he and his older brother, Henryk, were sent to Ushaw College, a Catholic boarding school in County Durham, England. In 1864, after having been rejected by the Jesuits, and much to the disapproval of his family, Bernard became a Redemptorist novice in Clapham, England. He studied theology and philosophy at the international seminary in Witten, Netherlands, and was ordained a priest in Aachen, Germany in 1870. Father Bernard then returned to England to serve as pastor to the Polish exile community in London. He trained as a missionary in Redemptorist houses in Perth, Scotland, in Ireland, and in Long Eaton, England. Served as archivist for the Redemptorists in England, and then as Provincial bursar.

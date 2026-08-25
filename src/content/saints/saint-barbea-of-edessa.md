@@ -24,6 +24,7 @@ imageCredit: >-
   <a rel="nofollow" class="external free"
   href="http://days.pravoslavie.ru/Images/ii2649&amp;3755.htm">http://days.pravoslavie.ru/Images/ii2649&amp;3755.htm</a>
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:Sarbelius%20and%20Bebaia%20(Barbea)%20of%20Edessa.jpg
+prayers: []
 ---
 
 Sister of Saint Sarbelius. Convert, brought to the faith by Saint Barsimeus of Edessa. Tortured and executed in the persecutions of Emperor Trajan. Martyr.

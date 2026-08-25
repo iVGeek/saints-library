@@ -1,31 +1,32 @@
 ---
-name: "Saint John Baptist de La Salle"
+name: Saint John Baptist de La Salle
 honorific: Saint
-summary: " Spiritual director of Studied for the priesthood in Paris, France, but quit to care for his brothers and sisters upon the death of his parents. When his siblings were grown, John returned to seminary. Canon of Rheims, France in 1667. Ordained in 1678. Doctor of theology in 1680."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Jean-Baptiste-de-La-Salle.jpg"
+summary: ' Spiritual director of Studied for the priesthood in Paris, France, but quit to care for his brothers and sisters upon the death of his parents. When his siblings were grown, John returned to seminary. Canon of Rheims, France in 1667. Ordained in 1678. Doctor of theology in 1680.'
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Jean-Baptiste-de-La-Salle.jpg
 searchAliases:
-  - "Father of Modern Education"
+  - Father of Modern Education
 birthYear: 1651
 deathYear: 1719
-born: "30 April 1651 at Rheims, France"
-died: "7 April 1719 at Saint-Yon, Rouen, France of natural causes"
-birthPlace: "France"
-deathPlace: "Rouen, Francenatural causes"
-region: "France"
+born: 30 April 1651 at Rheims, France
+died: 7 April 1719 at Saint-Yon, Rouen, France of natural causes
+birthPlace: France
+deathPlace: Rouen, Francenatural causes
+region: France
 feastDay:
   month: 4
   day: 7
 canonizationStatus: Saint
 vocation:
   - Confessor
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 patronage:
-  - "abuse victims"
-  - "educators"
-  - "school principals"
-  - "teachers (proclaimed on 15 May 1950 by Pope Pius XII)"
-  - "Brothers of the Christian Schools"
+  - abuse victims
+  - educators
+  - school principals
+  - teachers (proclaimed on 15 May 1950 by Pope Pius XII)
+  - Brothers of the Christian Schools
 martyr: false
+prayers: []
 ---
 
 Studied for the priesthood in Paris, France, but quit to care for his brothers and sisters upon the death of his parents. When his siblings were grown, John returned to seminary. Canon of Rheims, France in 1667. Ordained in 1678. Doctor of theology in 1680.

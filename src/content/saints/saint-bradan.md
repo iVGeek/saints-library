@@ -19,6 +19,7 @@ imageCredit: >-
   <a rel="nofollow" class="external free"
   href="https://www.flickr.com/photos/194941027@N05/51968744009/">https://www.flickr.com/photos/194941027@N05/51968744009/</a>
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:Foce%20del%20fiume%20Bradano.png
+prayers: []
 ---
 
 Saint venerated on the Isle of Man. No other information has survived.

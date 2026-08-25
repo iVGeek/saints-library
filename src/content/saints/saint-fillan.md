@@ -1,20 +1,23 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Fillan"
+name: Saint Fillan
 honorific: Saint
-summary: "Son of Feriach and Saint Kentigerna, and related to Saint Comgan. Became a monk in his youth, taking the habit at Saint Fintan Munnu monastery. Accompanied Kentigerna and Comgan to Scotland in the 8th century. Hermit, living most of his life in prayer at Ptiienweem near the Saint"
+summary: >-
+  Son of Feriach and Saint Kentigerna, and related to Saint Comgan. Became a monk in his youth, taking the habit at
+  Saint Fintan Munnu monastery. Accompanied Kentigerna and Comgan to Scotland in the 8th century. Hermit, living most of
+  his life in prayer at Ptiienweem near the Saint
 searchAliases:
-  - "Fhaolain"
-  - "Filan"
-  - "Foelan"
-  - "Foellan"
-  - "Foilan"
-  - "Foillan"
-  - "Fulan"
+  - Fhaolain
+  - Filan
+  - Foelan
+  - Foellan
+  - Foilan
+  - Foillan
+  - Fulan
 deathYear: 777
-born: "Ireland"
-died: "c.777 of natural causes"
-region: "Scotland"
+born: Ireland
+died: c.777 of natural causes
+region: Scotland
 feastDay:
   month: 1
   day: 1
@@ -24,11 +27,12 @@ vocation:
   - Monk
   - Hermit
 patronage:
-  - "against insanity"
-  - "against mental disorders"
-  - "against mental illness"
-  - "mentally ill people"
+  - against insanity
+  - against mental disorders
+  - against mental illness
+  - mentally ill people
 martyr: false
+prayers: []
 ---
 
 Son of Feriach and Saint Kentigerna, and related to Saint Comgan. Became a monk in his youth, taking the habit at Saint Fintan Munnu monastery. Accompanied Kentigerna and Comgan to Scotland in the 8th century. Hermit, living most of his life in prayer at Ptiienweem near the Saint Andrew monastery. Abbot of Saint Andrews; his bell and staff survive to today. Hermit at Glendochart, Perthshire, where he built a church.

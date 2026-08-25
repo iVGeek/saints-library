@@ -26,6 +26,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/e/ec/Fontaine_de_Saint_Algis_14.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Adalgis of Thiérarche
 imageCreditUrl: https://en.wikipedia.org/wiki/Adalgis%20of%20Thi%C3%A9rache
+prayers: []
 ---
 
 Monk. Spiritual student of Saint Fursey of Peronne. Missionary in the area of Arras and Laon, France. Founded a monastery in the forest around Thiérarche, Picardy; the village of Saint Algis grew up around it.

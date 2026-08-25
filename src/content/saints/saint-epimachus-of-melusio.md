@@ -28,6 +28,7 @@ imageCredit: >-
   Karlschronik (Kemptener Klosterchronik) <a rel="nofollow" class="external text"
   href="http://daten.digitale-sammlungen.de/0005/bsb00058206/images/index.html?fip=193.174.98.30&amp;id=00058206&amp;seite=89">link</a>
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:Epimachus%20Klosterchronik%20Kempten.jpg
+prayers: []
 ---
 
 When, during the persecutions of Decius, he saw Christians forced to sacrifice to idols, Epimachus attacked the pagan altars and statues. Imprisoned, tortured and exexcuted. Martyr.

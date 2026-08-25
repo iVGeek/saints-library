@@ -13,6 +13,7 @@ image: >-
 vocation:
   - Monk
 martyr: false
+prayers: []
 ---
 
 Convert, brought to the faith by Saint Matthew the Apostle.

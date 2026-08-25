@@ -1,16 +1,16 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Flavianus of Oulx"
+name: Saint Flavianus of Oulx
 honorific: Saint
-summary: "Monk of Novalesa Abbey. Martyred by Saracen raiders."
+summary: Monk of Novalesa Abbey. Martyred by Saracen raiders.
 searchAliases:
-  - "Flavianus of Novalesa"
-  - "Flaviano…"
+  - Flavianus of Novalesa
+  - Flaviano…
 deathYear: 906
-born: "9th century"
-died: "19 October 906 in Oulx, Italy"
-deathPlace: "Italy"
-region: "Italy"
+born: 9th century
+died: 19 October 906 in Oulx, Italy
+deathPlace: Italy
+region: Italy
 feastDay:
   month: 10
   day: 19
@@ -18,6 +18,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Monk of Novalesa Abbey. Martyred by Saracen raiders.

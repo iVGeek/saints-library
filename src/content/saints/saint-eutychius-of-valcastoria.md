@@ -1,12 +1,14 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Eutychius of Valcastoria"
+name: Saint Eutychius of Valcastoria
 honorific: Saint
-summary: "Sixth-century hermit and monk whose piety led many to God. Miracle worker. Abbot of a monastery in Valcastoria, Italy. Pope Gregory the Great wrote about him."
+summary: >-
+  Sixth-century hermit and monk whose piety led many to God. Miracle worker. Abbot of a monastery in Valcastoria, Italy.
+  Pope Gregory the Great wrote about him.
 searchAliases:
-  - "Eutychius of Norvia"
-  - "Eutizio"
-region: "Italy"
+  - Eutychius of Norvia
+  - Eutizio
+region: Italy
 feastDay:
   month: 5
   day: 23
@@ -15,6 +17,7 @@ vocation:
   - Monk
   - Hermit
 martyr: false
+prayers: []
 ---
 
 Sixth-century hermit and monk whose piety led many to God. Miracle worker. Abbot of a monastery in Valcastoria, Italy. Pope Gregory the Great wrote about him.

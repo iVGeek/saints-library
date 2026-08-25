@@ -25,6 +25,7 @@ patronage:
   - Petershausen, Germany, district of
   - Vorarlberg, Austria, province of
 martyr: false
+prayers: []
 ---
 
 Bishop of Constance (Konstantz), Germany from 979 till his death. Founded the Benedictine abbey of Peterhausen in 983.

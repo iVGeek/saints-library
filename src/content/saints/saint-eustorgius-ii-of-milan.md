@@ -1,11 +1,13 @@
 ---
-name: "Saint Eustorgius II of Milan"
+name: Saint Eustorgius II of Milan
 honorific: Saint
-summary: "Priest in Rome, Italy. Bishop of Milan, Italy in 512. Spent hugely to ransom Christians who had been abducted by invading barbarians."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Eustorgius-II-of-Milan.jpg"
+summary: >-
+  Priest in Rome, Italy. Bishop of Milan, Italy in 512. Spent hugely to ransom Christians who had been abducted by
+  invading barbarians.
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Eustorgius-II-of-Milan.jpg
 deathYear: 518
-died: "6 June 518 of natural causes"
-region: "Italy"
+died: 6 June 518 of natural causes
+region: Italy
 feastDay:
   month: 6
   day: 6
@@ -15,6 +17,7 @@ vocation:
   - Priest
   - Monk
 martyr: false
+prayers: []
 ---
 
 Priest in Rome, Italy. Bishop of Milan, Italy in 512. Spent hugely to ransom Christians who had been abducted by invading barbarians.

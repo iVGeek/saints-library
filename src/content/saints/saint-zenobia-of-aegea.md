@@ -1,10 +1,10 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Zenobia of Aegea"
+name: Saint Zenobia of Aegea
 honorific: Saint
-summary: "Sister of Saint Zenobius of Aegae. Martyred in the persecutions of emperor Diocletian and governor Lysias."
-died: "late 3rd century"
-region: "England"
+summary: Sister of Saint Zenobius of Aegae. Martyred in the persecutions of emperor Diocletian and governor Lysias.
+died: late 3rd century
+region: England
 feastDay:
   month: 10
   day: 30
@@ -13,6 +13,7 @@ vocation:
   - Monk
   - Religious
 martyr: true
+prayers: []
 ---
 
 Sister of Saint Zenobius of Aegae. Martyred in the persecutions of emperor Diocletian and governor Lysias.

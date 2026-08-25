@@ -25,6 +25,7 @@ vocation:
   - Soldier
 religiousOrder: Franciscan
 martyr: true
+prayers: []
 ---
 
 Born to Rosalia Huber and Franz Bachmeier, servants too poor to get married. His father died in World War I when the boy was less than ten years old; his mother then married local famer Heinrich J&auml;gerst&auml;tter who adopted Franz. Franz had little formal education, but his adoptive father was serious about the boy being able to read so that he could educate himself. At age 20 he began three years of work in the iron ore industry. He led a rather wild and dissolute life in his early 20's, but by his late 20's had settled down to life as a peasant farmer, became serious about his faith, married, and became the father of three daughters. He worked as sacristan for his parish, arranging funeral and prayer services, attended Mass daily, and developed a special ministry to the bereaved.

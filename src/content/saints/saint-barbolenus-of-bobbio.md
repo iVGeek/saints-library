@@ -16,6 +16,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/c/cf/Basilica_di_San_Colombano_-_Bobbio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Barbolenus of Bobbio
 imageCreditUrl: https://en.wikipedia.org/wiki/Bobbio%20Abbey
+prayers: []
 ---
 
 Abbot in Bobbio, Italy.

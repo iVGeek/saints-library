@@ -23,6 +23,7 @@ vocation:
   - Religious
 religiousOrder: Benedictine
 martyr: false
+prayers: []
 ---
 
 Frankish princess. Benedictine nun. Founded the Benedictine convent of Kitzingen in Franconia (part of modern Germany), and served as its first abbess.

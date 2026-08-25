@@ -1,13 +1,15 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Doda of Rheims"
+name: Saint Doda of Rheims
 honorific: Saint
-summary: "Niece of Saint Balderic and Saint Bova of Rheims. Nun at and then abbess of the Saint Peter monastery in Rheims, France."
+summary: >-
+  Niece of Saint Balderic and Saint Bova of Rheims. Nun at and then abbess of the Saint Peter monastery in Rheims,
+  France.
 searchAliases:
-  - "Deuteria"
-  - "Dode"
-died: "7th century"
-region: "France"
+  - Deuteria
+  - Dode
+died: 7th century
+region: France
 feastDay:
   month: 4
   day: 24
@@ -18,6 +20,7 @@ vocation:
   - Monk
   - Religious
 martyr: false
+prayers: []
 ---
 
 Niece of Saint Balderic and Saint Bova of Rheims. Nun at and then abbess of the Saint Peter monastery in Rheims, France.

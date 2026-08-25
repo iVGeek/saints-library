@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Maurus of Verdun"
+name: Saint Maurus of Verdun
 honorific: Saint
-summary: "Bishop of Verdun, Gaul (in modern France) from 353 to 383."
+summary: Bishop of Verdun, Gaul (in modern France) from 353 to 383.
 deathYear: 383
-died: "383 of natural causes"
-region: "France"
+died: 383 of natural causes
+region: France
 feastDay:
   month: 11
   day: 8
@@ -14,6 +14,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Bishop of Verdun, Gaul (in modern France) from 353 to 383.

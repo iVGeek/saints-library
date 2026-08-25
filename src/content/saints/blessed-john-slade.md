@@ -1,17 +1,20 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed John Slade"
+name: Blessed John Slade
 honorific: Blessed
-summary: "Studied at New College, Oxford, England. Schoolmaster. Refused to accept King Henry VIII's authority in spiritual matters. Martyred with Blessed John Bodey."
-born: "at Manston, Dorsetshire, England"
-birthPlace: "Dorsetshire, England"
-region: "England"
+summary: >-
+  Studied at New College, Oxford, England. Schoolmaster. Refused to accept King Henry VIII's authority in spiritual
+  matters. Martyred with Blessed John Bodey.
+born: at Manston, Dorsetshire, England
+birthPlace: Dorsetshire, England
+region: England
 feastDay:
   month: 10
   day: 30
 canonizationStatus: Blessed
 vocation: []
 martyr: true
+prayers: []
 ---
 
 Studied at New College, Oxford, England. Schoolmaster. Refused to accept King Henry VIII's authority in spiritual matters. Martyred with Blessed John Bodey.

@@ -1,21 +1,24 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Erlafrid of Hirschau"
+name: Saint Erlafrid of Hirschau
 honorific: Saint
-summary: "Count of Calw, Swabia (modern Germany). Founded Hirschau Abbey which he entered as a Benedictine monk, and where he eventually served as abbot."
+summary: >-
+  Count of Calw, Swabia (modern Germany). Founded Hirschau Abbey which he entered as a Benedictine monk, and where he
+  eventually served as abbot.
 searchAliases:
-  - "Erlafrid of Calw"
-born: "late 8th century"
-died: "mid-9th century"
-region: "Germany"
+  - Erlafrid of Calw
+born: late 8th century
+died: mid-9th century
+region: Germany
 feastDay:
   month: 11
   day: 6
 canonizationStatus: Saint
 vocation:
   - Monk
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 martyr: false
+prayers: []
 ---
 
 Count of Calw, Swabia (modern Germany). Founded Hirschau Abbey which he entered as a Benedictine monk, and where he eventually served as abbot.

@@ -1,27 +1,30 @@
 ---
-name: "Saint José María Rubio y Peralta"
+name: Saint José María Rubio y Peralta
 honorific: Venerable
-summary: " Parish priest in Chinchón and Estremera. For nearly 20 y One of twelve children born to a farm family; six of his siblings died in childhood. Educated in Almer&iacute;a, Spain. Entered the diocesan seminary in 1876, and the Granada seminary in 1878. Ordained on 24 September 1887."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Jose-Maria-Rubio-y-Peralta.jpg"
+summary: ' Parish priest in Chinchón and Estremera. For nearly 20 y One of twelve children born to a farm family; six of his siblings died in childhood. Educated in Almer&iacute;a, Spain. Entered the diocesan seminary in 1876, and the Granada seminary in 1878. Ordained on 24 September 1887.'
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Jose-Maria-Rubio-y-Peralta.jpg
 searchAliases:
-  - "Apostle of Madrid"
+  - Apostle of Madrid
 birthYear: 1864
 deathYear: 1929
-born: "22 July 1864 in Dal&iacute;as, Spain"
-died: "2 May 1929 in Aranjuez, Spain of natural causes"
-birthPlace: "Spain"
-deathPlace: "Spaof natural causes"
-region: "France"
+born: 22 July 1864 in Dal&iacute;as, Spain
+died: 2 May 1929 in Aranjuez, Spain of natural causes
+birthPlace: Spain
+deathPlace: Spaof natural causes
+region: France
 feastDay:
   month: 5
   day: 2
-centuries: [19, 20]
+centuries:
+  - 19
+  - 20
 canonizationStatus: Venerable
 vocation:
   - Priest
   - Confessor
-religiousOrder: "Jesuit"
+religiousOrder: Jesuit
 martyr: false
+prayers: []
 ---
 
 One of twelve children born to a farm family; six of his siblings died in childhood. Educated in Almer&iacute;a, Spain. Entered the diocesan seminary in 1876, and the Granada seminary in 1878. Ordained on 24 September 1887.

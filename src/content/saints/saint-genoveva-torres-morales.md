@@ -24,6 +24,7 @@ vocation:
   - Religious
 religiousOrder: Carmelite
 martyr: false
+prayers: []
 ---
 
 Youngest of six children. By the age of eight, both her parents and four of her siblings had died. A child homemaker for her older brother, Genovena grew up a quiet child, accustomed to solitude. She took an interest in spiritual reading around age ten, and early understood that the purpose of all life is to follow God. When she was 13, her left leg became gangrenous and had to be amputated; there was no anesthesia for the operation, it never properly healed, and she was on crutches the rest of her life.

@@ -1,17 +1,18 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Claudius of Avignon"
+name: Blessed Claudius of Avignon
 honorific: Blessed
-summary: "Franciscan friar in the Avignon region of France."
-region: "France"
+summary: Franciscan friar in the Avignon region of France.
+region: France
 feastDay:
   month: 7
   day: 21
 canonizationStatus: Blessed
 vocation:
   - Monk
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 martyr: false
+prayers: []
 ---
 
 Franciscan friar in the Avignon region of France.

@@ -1,24 +1,25 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Lucio Zudaire Armendía"
+name: Blessed Lucio Zudaire Armendía
 honorific: Blessed
-summary: "Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
+summary: Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War.
 searchAliases:
-  - "Brother Teódulo"
+  - Brother Teódulo
 birthYear: 1890
 deathYear: 1936
-born: "23 April 1890 in Echávarri, Navarra, Spain"
-died: "8 October 1936 in Montcada, Barcelona, Spain"
-birthPlace: "Navarra, Spain"
-deathPlace: "Barcelona, Spain"
-region: "Spain"
+born: 23 April 1890 in Echávarri, Navarra, Spain
+died: 8 October 1936 in Montcada, Barcelona, Spain
+birthPlace: Navarra, Spain
+deathPlace: Barcelona, Spain
+region: Spain
 feastDay:
   month: 10
   day: 8
 canonizationStatus: Blessed
 vocation: []
-religiousOrder: "Marist"
+religiousOrder: Marist
 martyr: true
+prayers: []
 ---
 
 Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War.

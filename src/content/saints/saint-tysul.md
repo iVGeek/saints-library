@@ -16,6 +16,7 @@ canonizationStatus: Saint
 image: https://commons.wikimedia.org/wiki/Special:FilePath/St_Tyssul_01.jpg?width=600
 vocation: []
 martyr: false
+prayers: []
 ---
 
 Son of Corun; cousin of Saint David of Wales. Founded a church in Llandysul, Wales; the church and it's ancient altar survive today.

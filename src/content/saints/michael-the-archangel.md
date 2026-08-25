@@ -72,14 +72,128 @@ prayers:
       devil. May God rebuke him, we humbly pray; and do thou, O Prince of the heavenly host, by the power of God, thrust
       into hell Satan and all the evil spirits who prowl about the world seeking the ruin of souls. Amen.
   - name: Novena to Saint Michael the Archangel
-    kind: Novena — nine-day prayer for protection
+    kind: >-
+      Novena — begins September 20, nine days before the feast of Saint Michael the Archangel (September 29). Source:
+      https://covenantcatholic.org/novenas/st-michael-novena/
     text: >-
-      O glorious Prince Saint Michael, chief and commander of the heavenly hosts, guardian of souls, vanquisher of rebel
-      spirits, servant in the house of the Divine King and our admirable conductor, you who shine with excellence and
-      superhuman virtue, deliver us from all evil, who turn to you with confidence. O powerful Prince Saint Michael, I
-      come before you to ask for your intercession in this great need. Through your divine power, scatter the forces of
-      evil and protect me from their snares. By the authority God has given you, help me in this urgent matter and bring
-      it to a speedy and favorable resolution. Amen.
+      **Day 1 — For the Universal Church**
+
+
+      Today, we ask St. Michael to protect the Holy Father, the bishops, and the entire Church from all internal
+      division and external attacks of the enemy.
+
+
+      Pray the novena prayer above, followed by an Our Father, Hail Mary, Glory Be, and the St. Michael Prayer.
+
+
+      St. Michael the Archangel, defend us in battle, be our protection against the wickedness and snares of the devil.
+      May God rebuke him we humbly pray; and do thou, O Prince of the Heavenly host, by the power of God, cast into hell
+      Satan and all the evil spirits who prowl about the world seeking the ruin of souls. Amen.
+
+
+      ---
+
+
+      **Day 2 — For Protection Against Temptation**
+
+
+      Today, we invoke the Prince of the Heavenly Host to guard us against our personal vices, granting us the strength
+      to reject the snares of the devil and grow in holiness.
+
+
+      Pray the novena prayer above, followed by an Our Father, Hail Mary, Glory Be, and the St. Michael Prayer.
+
+
+      ---
+
+
+      **Day 3 — For the Grace of a Holy Death**
+
+
+      St. Michael is the traditional weigher of souls. Today, we pray for his presence at the hour of our death, that he
+      may defend us in our final struggle and lead us safely to God.
+
+
+      Pray the novena prayer above, followed by an Our Father, Hail Mary, Glory Be, and the St. Michael Prayer.
+
+
+      ---
+
+
+      **Day 4 — For Law Enforcement and the Military**
+
+
+      Today, we pray for all police officers, soldiers, and first responders. May their patron saint shield them from
+      physical harm and guide them in justice and courage.
+
+
+      Pray the novena prayer above, followed by an Our Father, Hail Mary, Glory Be, and the St. Michael Prayer.
+
+
+      ---
+
+
+      **Day 5 — For Our Families and Homes**
+
+
+      Today, we ask St. Michael to stand guard over our domestic church. We pray that he drives away all spirits of
+      division, anger, and impurity from our households.
+
+
+      Pray the novena prayer above, followed by an Our Father, Hail Mary, Glory Be, and the St. Michael Prayer.
+
+
+      ---
+
+
+      **Day 6 — For Courage in the Faith**
+
+
+      St. Michael's name means "Who is like God?" Today, we pray for the bold humility to publicly defend the Catholic
+      faith in a world that so often rejects the Gospel.
+
+
+      Pray the novena prayer above, followed by an Our Father, Hail Mary, Glory Be, and the St. Michael Prayer.
+
+
+      ---
+
+
+      **Day 7 — For the Sick and Suffering**
+
+
+      Recognized also as a healer, we ask St. Michael today to intercede for those battling grave physical, mental, or
+      spiritual illnesses, bringing them divine comfort.
+
+
+      Pray the novena prayer above, followed by an Our Father, Hail Mary, Glory Be, and the St. Michael Prayer.
+
+
+      ---
+
+
+      **Day 8 — For the Holy Souls in Purgatory**
+
+
+      Today, we ask St. Michael to comfort the suffering souls in Purgatory and hasten their journey into the eternal
+      light of the Most Holy Trinity.
+
+
+      Pray the novena prayer above, followed by an Our Father, Hail Mary, Glory Be, and the St. Michael Prayer.
+
+
+      ---
+
+
+      **Day 9 — In Thanksgiving for the Holy Angels**
+
+
+      On our final day, we thank God for the fierce protection of St. Michael and the constant, unseen ministry of our
+      Guardian Angels and all the heavenly choirs.
+
+
+      Pray the novena prayer above, followed by an Our Father, Hail Mary, Glory Be, and the St. Michael Prayer.
+    source: https://covenantcatholic.org/novenas/st-michael-novena/
 relatedSaints:
   - name: Joseph
     slug: joseph

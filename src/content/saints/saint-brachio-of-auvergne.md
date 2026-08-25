@@ -25,6 +25,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/7/75/Gregory_of_Tours_cour_Napoleon_Louvre.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Brachio of Auvergne
 imageCreditUrl: https://en.wikipedia.org/wiki/Gregory%20of%20Tours
+prayers: []
 ---
 
 Courtier in service to Count Sigivald of Clermont, and a man who loved hunting. One day as he was hunting a wild boar, the animal ran into the hut of a hermit named Emilien where it knew it was safe. Brachio became interested in the man, and after time with him, he became interested in religious life. Soon afterwards he gave up the worldly life and spent two years as a spiritual student of Emilien. Other would-be students were attracted to the hermitage, and after Emilien's death, Brachio turned the place into a monastery and served as its first abbot.

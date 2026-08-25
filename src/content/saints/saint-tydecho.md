@@ -23,6 +23,7 @@ vocation:
   - Monk
   - Hermit
 martyr: false
+prayers: []
 ---
 
 Brother of Saint Cadfan. Probably lived as a hermit. Several Welsh churches are named for him. No other information has survived.

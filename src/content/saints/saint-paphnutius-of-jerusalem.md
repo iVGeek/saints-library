@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Paphnutius of Jerusalem"
+name: Saint Paphnutius of Jerusalem
 honorific: Saint
-summary: "Priest in Jerusalem. Martyr."
-died: "Jerusalem, date unknown"
-deathPlace: "date unknown"
-region: "Holy Land"
+summary: Priest in Jerusalem. Martyr.
+died: Jerusalem, date unknown
+deathPlace: date unknown
+region: Holy Land
 feastDay:
   month: 4
   day: 19
@@ -14,6 +14,7 @@ vocation:
   - Priest
   - Monk
 martyr: true
+prayers: []
 ---
 
 Priest in Jerusalem. Martyr.

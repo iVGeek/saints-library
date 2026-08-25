@@ -1,18 +1,19 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Bertille of Thuringia"
+name: Saint Bertille of Thuringia
 honorific: Saint
-summary: "Born a princess. Married to Saint Walbert of Hainault. Mother of Saint Waltrude and Saint Aldegundis."
+summary: Born a princess. Married to Saint Walbert of Hainault. Mother of Saint Waltrude and Saint Aldegundis.
 searchAliases:
-  - "Bertilia"
+  - Bertilia
 deathYear: 660
-died: "c.660 of natural causes"
+died: c.660 of natural causes
 feastDay:
   month: 1
   day: 3
 canonizationStatus: Saint
 vocation: []
 martyr: false
+prayers: []
 ---
 
 Born a princess. Married to Saint Walbert of Hainault. Mother of Saint Waltrude and Saint Aldegundis.

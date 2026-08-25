@@ -22,6 +22,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/0/0b/Fran%C3%A7ois%2C_Claude_%28dit_Fr%C3%A8re_Luc%29_-_Saint_Bonaventure.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Bernard of Bagnorea
 imageCreditUrl: https://en.wikipedia.org/wiki/Bonaventure
+prayers: []
 ---
 
 Bishop of Vulcia, Italy. Moved the diocese to Ischia de Castro.

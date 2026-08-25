@@ -1,26 +1,27 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Gerard of Sassoferrato"
+name: Blessed Gerard of Sassoferrato
 honorific: Blessed
-title: "Priest"
-summary: "Camaldolese novice at age nine at Holy Cross abbey in Sassoferrato, Italy. Parish priest at Sassoferrato."
+title: Priest
+summary: Camaldolese novice at age nine at Holy Cross abbey in Sassoferrato, Italy. Parish priest at Sassoferrato.
 searchAliases:
-  - "Gerard of Serradeconti"
-  - "Girard"
-  - "Gherardo"
+  - Gerard of Serradeconti
+  - Girard
+  - Gherardo
 birthYear: 1280
 deathYear: 1367
-born: "1280"
-died: "18 November 1367 of natural causes"
-region: "France"
+born: '1280'
+died: 18 November 1367 of natural causes
+region: France
 feastDay:
   month: 4
   day: 1
 canonizationStatus: Blessed
 vocation:
   - Priest
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 martyr: false
+prayers: []
 ---
 
 Camaldolese novice at age nine at Holy Cross abbey in Sassoferrato, Italy. Parish priest at Sassoferrato.

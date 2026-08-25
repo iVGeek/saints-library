@@ -1,22 +1,25 @@
 ---
-name: "Blessed Bartholomew Longo"
+name: Blessed Bartholomew Longo
 honorific: Blessed
-summary: "Son of a physician, Longo was born financially well off, and received a good education, both secular and Christian, and attended a Piarist school until age sixteen. Raised in a pious family; they prayed the Rosary together each night. An excellent student, Barolo was skilled in l"
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Bartholomew-Longo1.jpg"
+summary: >-
+  Son of a physician, Longo was born financially well off, and received a good education, both secular and Christian,
+  and attended a Piarist school until age sixteen. Raised in a pious family; they prayed the Rosary together each night.
+  An excellent student, Barolo was skilled in l
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Bartholomew-Longo1.jpg
 searchAliases:
-  - "Bartolo Longo"
-  - "Bartolomea Longo"
-  - "Bartolomeo Longo di Latiano"
-  - "Brother Rosary"
-  - "Fratel Rosario"
-  - "Herald of the Blessed Virgin Mary's Rosary"
-  - "Man of Mary"
+  - Bartolo Longo
+  - Bartolomea Longo
+  - Bartolomeo Longo di Latiano
+  - Brother Rosary
+  - Fratel Rosario
+  - Herald of the Blessed Virgin Mary's Rosary
+  - Man of Mary
 birthYear: 1841
 deathYear: 1926
-born: "11 February 1841 at Latiana, southern Italy"
-died: "5 October 1926 of pneumonia"
-birthPlace: "southern Italy"
-region: "Italy"
+born: 11 February 1841 at Latiana, southern Italy
+died: 5 October 1926 of pneumonia
+birthPlace: southern Italy
+region: Italy
 feastDay:
   month: 10
   day: 5
@@ -24,8 +27,9 @@ canonizationStatus: Blessed
 vocation:
   - Bishop
   - Priest
-religiousOrder: "Dominican"
+religiousOrder: Dominican
 martyr: false
+prayers: []
 ---
 
 Son of a physician, Longo was born financially well off, and received a good education, both secular and Christian, and attended a Piarist school until age sixteen. Raised in a pious family; they prayed the Rosary together each night. An excellent student, Barolo was skilled in literature, oratory, fencing, dancing, music, and other arts, could play flute and piano, directed a school band; was also known to be restless, and had difficulty sitting through classes. Studied law at the University of Naples where received his degree in 1864, but where he fell into a dissolute and worldly life.

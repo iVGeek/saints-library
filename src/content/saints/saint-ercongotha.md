@@ -1,14 +1,16 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Ercongotha"
+name: Saint Ercongotha
 honorific: Saint
-summary: "Born a princess, the daughter of King Erconbert of Kent (part of modern England) and Saint Saxburgh of Ely. Nun at Faremoutiers-en-Brie where her aunt, Saint Ethelburgh, was abbess."
+summary: >-
+  Born a princess, the daughter of King Erconbert of Kent (part of modern England) and Saint Saxburgh of Ely. Nun at
+  Faremoutiers-en-Brie where her aunt, Saint Ethelburgh, was abbess.
 searchAliases:
-  - "Ercongota"
-  - "Ercongote"
+  - Ercongota
+  - Ercongote
 deathYear: 660
-died: "660"
-region: "England"
+died: '660'
+region: England
 feastDay:
   month: 2
   day: 21
@@ -18,6 +20,7 @@ vocation:
   - Monk
   - Religious
 martyr: false
+prayers: []
 ---
 
 Born a princess, the daughter of King Erconbert of Kent (part of modern England) and Saint Saxburgh of Ely. Nun at Faremoutiers-en-Brie where her aunt, Saint Ethelburgh, was abbess.

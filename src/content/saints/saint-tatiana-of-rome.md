@@ -1,16 +1,16 @@
 ---
-name: "Saint Tatiana of Rome"
+name: Saint Tatiana of Rome
 honorific: Saint
-summary: "Daughter of a Roman consul. Tortured and martyred in the persecutions of Emperor Alexander Severus."
-image: "https://upload.wikimedia.org/wikipedia/commons/1/11/Tatiana.jpg"
+summary: Daughter of a Roman consul. Tortured and martyred in the persecutions of Emperor Alexander Severus.
+image: https://upload.wikimedia.org/wikipedia/commons/1/11/Tatiana.jpg
 searchAliases:
-  - "Martina"
-  - "Tatienne"
-  - "Taziana"
+  - Martina
+  - Tatienne
+  - Taziana
 deathYear: 226
-died: "beheaded c.226 in Rome, Italy"
-deathPlace: "Italy"
-region: "Italy"
+died: beheaded c.226 in Rome, Italy
+deathPlace: Italy
+region: Italy
 feastDay:
   month: 1
   day: 12
@@ -18,10 +18,11 @@ canonizationStatus: Saint
 vocation:
   - Priest
   - Monk
-religiousOrder: "Dominican"
+religiousOrder: Dominican
 patronage:
-  - "students"
+  - students
 martyr: true
+prayers: []
 ---
 
 Daughter of a Roman consul. Tortured and martyred in the persecutions of Emperor Alexander Severus.

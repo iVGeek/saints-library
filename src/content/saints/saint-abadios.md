@@ -18,6 +18,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/d/da/Synaxarion_WDL7069.pdf?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Abadios
 imageCreditUrl: https://en.wikipedia.org/wiki/Synaxaire%20Arabe-Jacobite
+prayers: []
 ---
 
 Soldier. Martyred in the persecutions of Diocletian.

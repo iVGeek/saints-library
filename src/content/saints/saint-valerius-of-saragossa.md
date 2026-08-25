@@ -1,14 +1,17 @@
 ---
-name: "Saint Valerius of Saragossa"
+name: Saint Valerius of Saragossa
 honorific: Saint
-summary: "Bishop of Zaragoza, Spain from 290 to 315. Attended the Council of Iliberis. Imprisoned and then exiled during the persecutions of Diocletian, but returned to his see after the Edict of Toleration. Friend of Saint Vincent of Saragossa, who served as his deacon."
-image: "https://upload.wikimedia.org/wikipedia/commons/3/3d/San_Valero%2C_Francisco_de_Goya.jpg"
+summary: >-
+  Bishop of Zaragoza, Spain from 290 to 315. Attended the Council of Iliberis. Imprisoned and then exiled during the
+  persecutions of Diocletian, but returned to his see after the Edict of Toleration. Friend of Saint Vincent of
+  Saragossa, who served as his deacon.
+image: https://upload.wikimedia.org/wikipedia/commons/3/3d/San_Valero%2C_Francisco_de_Goya.jpg
 searchAliases:
-  - "Valerio"
-  - "Valero"
+  - Valerio
+  - Valero
 deathYear: 315
-died: "315"
-region: "Spain"
+died: '315'
+region: Spain
 feastDay:
   month: 1
   day: 22
@@ -18,8 +21,9 @@ vocation:
   - Monk
   - Deacon
 patronage:
-  - "Zaragoza, Spain"
+  - Zaragoza, Spain
 martyr: false
+prayers: []
 ---
 
 Bishop of Zaragoza, Spain from 290 to 315. Attended the Council of Iliberis. Imprisoned and then exiled during the persecutions of Diocletian, but returned to his see after the Edict of Toleration. Friend of Saint Vincent of Saragossa, who served as his deacon.

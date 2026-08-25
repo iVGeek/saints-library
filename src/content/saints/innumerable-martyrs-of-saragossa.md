@@ -28,6 +28,7 @@ imageCredit: >-
   href="https://archive.org/download/saragossastoryof00prrich/saragossastoryof00prrich.pdf">https://archive.org/download/saragossastoryof00prrich/saragossastoryof00prrich.pdf</a></dd></dl>
 imageCreditUrl: >-
   https://commons.wikimedia.org/wiki/File:Saragossa%3B%20a%20story%20of%20Spanish%20valor%3B%20(IA%20saragossastoryof00prrich).pdf
+prayers: []
 ---
 
 A large group of Christians martyred in Zaragoza, Spain by Dacian during the persecutions of Diocletian. Dacian ordered all Christians of the city into exile under pain of death; when they were assembled to leave, Dacian ordered imperial soldiers to massacre the lot of them.

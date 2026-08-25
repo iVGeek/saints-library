@@ -1,15 +1,18 @@
 ---
-name: "Blessed Francesco Donsu"
+name: Blessed Francesco Donsu
 honorific: Blessed
-summary: "Mercedarian friar. Evangelized the area of Provence (in modern France), working to convert Muslims and free enslaved Christians."
-image: "http://catholicsaints.info/wp-content/uploads/img-Four-Mercedarians.jpg"
-region: "France"
+summary: >-
+  Mercedarian friar. Evangelized the area of Provence (in modern France), working to convert Muslims and free enslaved
+  Christians.
+image: http://catholicsaints.info/wp-content/uploads/img-Four-Mercedarians.jpg
+region: France
 feastDay:
   month: 2
   day: 8
 canonizationStatus: Blessed
 vocation: []
 martyr: false
+prayers: []
 ---
 
 Mercedarian friar. Evangelized the area of Provence (in modern France), working to convert Muslims and free enslaved Christians.

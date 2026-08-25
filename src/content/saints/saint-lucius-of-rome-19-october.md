@@ -1,12 +1,14 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Lucius of Rome"
+name: Saint Lucius of Rome
 honorific: Saint
-summary: "Protested the martyrdom of Saint Ptolemy of Rome in the persecutions of Antoninus Pius. Martyred for his objections. His story was written by Saint Justin Martyr."
+summary: >-
+  Protested the martyrdom of Saint Ptolemy of Rome in the persecutions of Antoninus Pius. Martyred for his objections.
+  His story was written by Saint Justin Martyr.
 deathYear: 160
-died: "c.160 in Rome, Italy"
-deathPlace: "Italy"
-region: "Italy"
+died: c.160 in Rome, Italy
+deathPlace: Italy
+region: Italy
 feastDay:
   month: 10
   day: 19
@@ -15,6 +17,7 @@ vocation:
   - Priest
   - Monk
 martyr: true
+prayers: []
 ---
 
 Protested the martyrdom of Saint Ptolemy of Rome in the persecutions of Antoninus Pius. Martyred for his objections. His story was written by Saint Justin Martyr.

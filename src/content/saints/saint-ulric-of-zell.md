@@ -1,16 +1,16 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Ulric of Zell"
+name: Saint Ulric of Zell
 honorific: Saint
-summary: " Pilgrim to Rome, Italy; wh Born wealthy. Suffered from eye trouble from an early age. Page at the court of Empress Agnes. Monk. Ordained as a deacon by his uncle Notker, bishop of Freising, Germany. Archdeacon and cathedral provost. Gave away much of his fortune to help the poor."
+summary: ' Pilgrim to Rome, Italy; wh Born wealthy. Suffered from eye trouble from an early age. Page at the court of Empress Agnes. Monk. Ordained as a deacon by his uncle Notker, bishop of Freising, Germany. Archdeacon and cathedral provost. Gave away much of his fortune to help the poor.'
 searchAliases:
-  - "Ulric of Cluny"
+  - Ulric of Cluny
 birthYear: 1020
 deathYear: 1093
-born: "c.1020 at Ratisbon, Germany"
-died: "1093 of natural causes"
-birthPlace: "Germany"
-region: "Germany"
+born: c.1020 at Ratisbon, Germany
+died: 1093 of natural causes
+birthPlace: Germany
+region: Germany
 feastDay:
   month: 7
   day: 14
@@ -20,8 +20,9 @@ vocation:
   - Priest
   - Deacon
   - Confessor
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 martyr: false
+prayers: []
 ---
 
 Born wealthy. Suffered from eye trouble from an early age. Page at the court of Empress Agnes. Monk. Ordained as a deacon by his uncle Notker, bishop of Freising, Germany. Archdeacon and cathedral provost. Gave away much of his fortune to help the poor.

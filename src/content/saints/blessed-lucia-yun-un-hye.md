@@ -1,20 +1,21 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Lucia Yun Un-hye"
+name: Blessed Lucia Yun Un-hye
 honorific: Blessed
-summary: "Married lay woman martyr in the apostolic vicariate of Korea."
+summary: Married lay woman martyr in the apostolic vicariate of Korea.
 deathYear: 1801
-born: "Gyeonggi-do, South Korea"
-died: "14 May 1801 at the Small West Gate, Seoul, South Korea"
-birthPlace: "South Korea"
-deathPlace: "Seoul, South Korea"
-region: "Korea"
+born: Gyeonggi-do, South Korea
+died: 14 May 1801 at the Small West Gate, Seoul, South Korea
+birthPlace: South Korea
+deathPlace: Seoul, South Korea
+region: Korea
 feastDay:
   month: 5
   day: 14
 canonizationStatus: Blessed
 vocation: []
 martyr: true
+prayers: []
 ---
 
 Married lay woman martyr in the apostolic vicariate of Korea.

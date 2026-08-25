@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Crescentius of Carthage"
+name: Saint Crescentius of Carthage
 honorific: Saint
-summary: "Priest. Martyred in the persecutions of the Arians."
+summary: Priest. Martyred in the persecutions of the Arians.
 deathYear: 484
-died: "484 at Carthage (modern Tunis, Tunisia)"
-deathPlace: "Tunisia)"
+died: 484 at Carthage (modern Tunis, Tunisia)
+deathPlace: Tunisia)
 feastDay:
   month: 3
   day: 23
@@ -14,6 +14,7 @@ vocation:
   - Priest
   - Monk
 martyr: true
+prayers: []
 ---
 
 Priest. Martyred in the persecutions of the Arians.

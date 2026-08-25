@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Principia of Rome"
+name: Saint Principia of Rome
 honorific: Saint
-summary: "Nun in Rome, Italy. Spiritual student of Saint Marcella."
+summary: Nun in Rome, Italy. Spiritual student of Saint Marcella.
 deathYear: 420
-died: "c.420"
-region: "Italy"
+died: c.420
+region: Italy
 feastDay:
   month: 5
   day: 11
@@ -14,6 +14,7 @@ vocation:
   - Virgin
   - Religious
 martyr: false
+prayers: []
 ---
 
 Nun in Rome, Italy. Spiritual student of Saint Marcella.

@@ -19,6 +19,7 @@ imageCredit: >-
   class="description en" lang="en" dir="ltr">Internet Archive identifier</bdi>: cu31924096463470</a>
 imageCreditUrl: >-
   https://commons.wikimedia.org/wiki/File:A%20Select%20library%20of%20Nicene%20and%20post-Nicene%20fathers%20of%20the%20Christian%20church%20-%20Volume%206.djvu
+prayers: []
 ---
 
 Martyr.

@@ -1,14 +1,14 @@
 ---
-name: "Saint Agathonica of Pergamus"
+name: Saint Agathonica of Pergamus
 honorific: Saint
-summary: "Sister of Saint Papylus of Pergamus. Martyred in the persecutions of Decius."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Agathonica-of-Pergamus.jpg"
+summary: Sister of Saint Papylus of Pergamus. Martyred in the persecutions of Decius.
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Agathonica-of-Pergamus.jpg
 searchAliases:
-  - "Agatonica"
+  - Agatonica
 deathYear: 250
-died: "c.250 at Pergamus, Asia Minor"
-deathPlace: "Asia Minor"
-region: "England"
+died: c.250 at Pergamus, Asia Minor
+deathPlace: Asia Minor
+region: England
 feastDay:
   month: 4
   day: 13
@@ -18,6 +18,7 @@ vocation:
   - Priest
   - Deacon
 martyr: true
+prayers: []
 ---
 
 Sister of Saint Papylus of Pergamus. Martyred in the persecutions of Decius.

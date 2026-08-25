@@ -1,19 +1,23 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Eberwin of Helfenstein"
+name: Blessed Eberwin of Helfenstein
 honorific: Blessed
-summary: "Augustinian canon. In 1121 he and several companions took over the abandoned Benedictine monastery of Springiersbach in Steinfeld, Germany. In 1130 they joined the Premonstratensians, and Eberwin served as provost. Fought heretical teaching throughout the region. Friend of Saint"
+summary: >-
+  Augustinian canon. In 1121 he and several companions took over the abandoned Benedictine monastery of Springiersbach
+  in Steinfeld, Germany. In 1130 they joined the Premonstratensians, and Eberwin served as provost. Fought heretical
+  teaching throughout the region. Friend of Saint
 deathYear: 1152
-died: "10 April 1152 in Steinfeld, Germany"
-deathPlace: "Germany"
-region: "Germany"
+died: 10 April 1152 in Steinfeld, Germany
+deathPlace: Germany
+region: Germany
 feastDay:
   month: 4
   day: 10
 canonizationStatus: Blessed
 vocation: []
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 martyr: false
+prayers: []
 ---
 
 Augustinian canon. In 1121 he and several companions took over the abandoned Benedictine monastery of Springiersbach in Steinfeld, Germany. In 1130 they joined the Premonstratensians, and Eberwin served as provost. Fought heretical teaching throughout the region. Friend of Saint Bernard of Clairvaux.

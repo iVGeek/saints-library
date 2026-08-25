@@ -1,11 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Vitalis of Salzburg"
+name: Saint Vitalis of Salzburg
 honorific: Saint
-summary: "Monk. Spiritual student of Saint Rupert of Salzburg. Abbot of Saint Peter's Abbey in Salzburg, Austria. Archbishop of Salzburg from 717 to 745."
+summary: >-
+  Monk. Spiritual student of Saint Rupert of Salzburg. Abbot of Saint Peter's Abbey in Salzburg, Austria. Archbishop of
+  Salzburg from 717 to 745.
 deathYear: 745
-died: "745 of natural causes"
-region: "Austria"
+died: 745 of natural causes
+region: Austria
 feastDay:
   month: 10
   day: 20
@@ -14,8 +16,9 @@ vocation:
   - Bishop
   - Monk
 patronage:
-  - "Salzburg, Austria"
+  - Salzburg, Austria
 martyr: false
+prayers: []
 ---
 
 Monk. Spiritual student of Saint Rupert of Salzburg. Abbot of Saint Peter's Abbey in Salzburg, Austria. Archbishop of Salzburg from 717 to 745.

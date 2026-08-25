@@ -1,15 +1,18 @@
 ---
-name: "Blessed Louis-Édouard Cestac"
+name: Blessed Louis-Édouard Cestac
 honorific: Blessed
-summary: "As a child, he suffered from neuralgia, and was unable to speak for three years; he was healed after his mother developed a devotion to the Blessed Virgin Mary. After studies in the seminary of Aire-sur-l'Adour, France and the Sulpician college in Paris, where he became friends w"
-image: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Pere_Cestac_Paris.jpg"
+summary: >-
+  As a child, he suffered from neuralgia, and was unable to speak for three years; he was healed after his mother
+  developed a devotion to the Blessed Virgin Mary. After studies in the seminary of Aire-sur-l'Adour, France and the
+  Sulpician college in Paris, where he became friends w
+image: https://upload.wikimedia.org/wikipedia/commons/c/c1/Pere_Cestac_Paris.jpg
 birthYear: 1801
 deathYear: 1868
-born: "6 January 1801 in Bayonne, Pyrénées-Atlantiques France"
-died: "27 March 1868 in Bayonne, Pyrénées-Atlantiques France of natural causes"
-birthPlace: "Pyrénées-Atlantiques France"
-deathPlace: "Pyrénées-Atlantiques Francenatural causes"
-region: "France"
+born: 6 January 1801 in Bayonne, Pyrénées-Atlantiques France
+died: 27 March 1868 in Bayonne, Pyrénées-Atlantiques France of natural causes
+birthPlace: Pyrénées-Atlantiques France
+deathPlace: Pyrénées-Atlantiques Francenatural causes
+region: France
 feastDay:
   month: 3
   day: 27
@@ -19,8 +22,9 @@ vocation:
   - Priest
   - Religious
   - Cardinal
-religiousOrder: "Sulpician"
+religiousOrder: Sulpician
 martyr: false
+prayers: []
 ---
 
 As a child, he suffered from neuralgia, and was unable to speak for three years; he was healed after his mother developed a devotion to the Blessed Virgin Mary. After studies in the seminary of Aire-sur-l'Adour, France and the Sulpician college in Paris, where he became friends with Saint Michael Garicoïts, Louis-Édouard was ordained a priest in the diocese of Bayonne, France on 17 December 1825. He taught in the minor seminary in Larressore, France, and served as vicar of the cathedral of Bayonne in 1831.

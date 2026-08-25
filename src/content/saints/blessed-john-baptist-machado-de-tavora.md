@@ -1,15 +1,15 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed John Baptist Machado de Tavora"
+name: Blessed John Baptist Machado de Tavora
 honorific: Blessed
-summary: "Jesuit at Coimbra, Portugal. Missionary to Japan in 1609. One of the Franciscan Martyrs of Japan."
+summary: Jesuit at Coimbra, Portugal. Missionary to Japan in 1609. One of the Franciscan Martyrs of Japan.
 birthYear: 1580
 deathYear: 1617
-born: "1580 at Terceira, Portuguese Azores"
-died: "beheaded on 22 May 1617 at Nagasaki, Japan"
-birthPlace: "Portuguese Azores"
-deathPlace: "Japan"
-region: "Japan"
+born: 1580 at Terceira, Portuguese Azores
+died: beheaded on 22 May 1617 at Nagasaki, Japan
+birthPlace: Portuguese Azores
+deathPlace: Japan
+region: Japan
 feastDay:
   month: 5
   day: 22
@@ -17,10 +17,11 @@ canonizationStatus: Blessed
 vocation:
   - Monk
   - Missionary
-religiousOrder: "Jesuit"
+religiousOrder: Jesuit
 patronage:
-  - "Creek, Portugal, diocese of"
+  - Creek, Portugal, diocese of
 martyr: true
+prayers: []
 ---
 
 Jesuit at Coimbra, Portugal. Missionary to Japan in 1609. One of the Franciscan Martyrs of Japan.

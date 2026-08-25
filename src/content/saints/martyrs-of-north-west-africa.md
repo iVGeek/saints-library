@@ -22,6 +22,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/1/12/Western-Africa-map.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Martyrs of North-West Africa
 imageCreditUrl: https://en.wikipedia.org/wiki/West%20Africa
+prayers: []
 ---
 
 Large group of Christians murdered while celebrating Easter Mass during the persecutions of Genseric, the Arian king of the Vandals.

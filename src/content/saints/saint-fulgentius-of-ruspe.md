@@ -25,6 +25,7 @@ vocation:
   - Confessor
 religiousOrder: Augustinian
 martyr: false
+prayers: []
 ---
 
 Born to a Roman senatorial family, and was well educated. Provincial fiscal procurator and lieutenant governor of Byzacena. He became a monk early in life, led to the religious life by the writings of Saint Augustine of Hippo, whose work remained a touchstone for him the rest of his life. Priest. Abbot. Bishop of Ruspe (modern Kudiat Rosfa, Tunisia) in 508, an illegal election in the Arian controlled land following the invasion of the Vandals led by Thrasimund.

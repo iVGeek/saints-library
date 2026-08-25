@@ -1,18 +1,18 @@
 ---
-name: "Saint Felipe de Jesus"
+name: Saint Felipe de Jesus
 honorific: Saint
-summary: " He joined the Reformed Franciscan Convent of Santa Barbara in Pueblo, Mexico in h Philip's parents had immigrated from Illescas, Spain to Mexico City, and the boy was born in the New World. It was a pious family; two of his brothers entered the Augustinians, and one was martyred."
-image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Felipe-de-Jesus-1.jpg"
+summary: ' He joined the Reformed Franciscan Convent of Santa Barbara in Pueblo, Mexico in h Philip''s parents had immigrated from Illescas, Spain to Mexico City, and the boy was born in the New World. It was a pious family; two of his brothers entered the Augustinians, and one was martyred.'
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Felipe-de-Jesus-1.jpg
 searchAliases:
-  - "Felipe las Casas Martínez"
-  - "Philip de la Casas"
-  - "Philip of Jesus"
+  - Felipe las Casas Martínez
+  - Philip de la Casas
+  - Philip of Jesus
 birthYear: 1575
 deathYear: 1597
-born: "1575 in Mexico as Philip de al Casas"
-died: "crucified on 5 February 1597 at Nagasaki, Japan"
-deathPlace: "Japan"
-region: "Japan"
+born: 1575 in Mexico as Philip de al Casas
+died: crucified on 5 February 1597 at Nagasaki, Japan
+deathPlace: Japan
+region: Japan
 feastDay:
   month: 2
   day: 6
@@ -20,11 +20,12 @@ canonizationStatus: Saint
 vocation:
   - Bishop
   - Priest
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 patronage:
-  - "Mexico City, Mexico"
-  - "Mexico City, Mexico, archdiocese of"
+  - Mexico City, Mexico
+  - Mexico City, Mexico, archdiocese of
 martyr: true
+prayers: []
 ---
 
 Philip's parents had immigrated from Illescas, Spain to Mexico City, and the boy was born in the New World. It was a pious family; two of his brothers entered the Augustinians, and one was martyred.

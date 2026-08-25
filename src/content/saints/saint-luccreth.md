@@ -1,14 +1,14 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Luccreth"
+name: Saint Luccreth
 honorific: Saint
-summary: "Monk. Abbot of Clonmacnois (Cluain Mhic Nóis) monastery, County Offaly, Ireland from 740 to 753."
+summary: Monk. Abbot of Clonmacnois (Cluain Mhic Nóis) monastery, County Offaly, Ireland from 740 to 753.
 searchAliases:
-  - "Lucraid"
+  - Lucraid
 deathYear: 753
-born: "Ireland"
-died: "753 in Ireland of natural causes"
-region: "Ireland"
+born: Ireland
+died: 753 in Ireland of natural causes
+region: Ireland
 feastDay:
   month: 4
   day: 29
@@ -16,6 +16,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: false
+prayers: []
 ---
 
 Monk. Abbot of Clonmacnois (Cluain Mhic Nóis) monastery, County Offaly, Ireland from 740 to 753.

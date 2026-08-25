@@ -1,24 +1,30 @@
 ---
-name: "Blessed Pierre-Lucien Claverie"
+name: Blessed Pierre-Lucien Claverie
 honorific: Blessed
-summary: "Born to a working class French family living in Algeria. At age 10, Pierre joined the scouts in a troop led by Dominicans, and became familiar with their spirituality. He attended college in Grenoble, France, and joined the Dominicans himself at the convent in Lille, France on 7"
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Pierre-Lucien-Claverie.jpg"
+summary: >-
+  Born to a working class French family living in Algeria. At age 10, Pierre joined the scouts in a troop led by
+  Dominicans, and became familiar with their spirituality. He attended college in Grenoble, France, and joined the
+  Dominicans himself at the convent in Lille, France on 7
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Pierre-Lucien-Claverie.jpg
 searchAliases:
-  - "the bishop of the Muslims (he was called this by Muslim mourners at his funeral)"
+  - the bishop of the Muslims (he was called this by Muslim mourners at his funeral)
 birthYear: 1938
 deathYear: 1996
-born: "8 May 1938 in Algiers, Algeria"
-died: "from a bomb explosion that destroyed the entrance to the chancery as he was entering the building on 1 August 1996 in Oran, Algeria"
-birthPlace: "Algeria"
-deathPlace: "Algeria"
-region: "France"
+born: 8 May 1938 in Algiers, Algeria
+died: >-
+  from a bomb explosion that destroyed the entrance to the chancery as he was entering the building on 1 August 1996 in
+  Oran, Algeria
+birthPlace: Algeria
+deathPlace: Algeria
+region: France
 feastDay:
   month: 8
   day: 1
 canonizationStatus: Blessed
 vocation: []
-religiousOrder: "Dominican"
+religiousOrder: Dominican
 martyr: true
+prayers: []
 ---
 
 Born to a working class French family living in Algeria. At age 10, Pierre joined the scouts in a troop led by Dominicans, and became familiar with their spirituality. He attended college in Grenoble, France, and joined the Dominicans himself at the convent in Lille, France on 7 December 1958. He studied at a Dominican institute near Paris, France, and in 1962, after the Algerian war of independence, he returned to Algiers. There he served his mandatory time in the armed forces, but refused to bear arms. After his service, Pierre resumed his studies in France in September 1963, and was ordained a priest on 4 July 1965.

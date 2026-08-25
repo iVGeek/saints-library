@@ -1,9 +1,9 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Indalecio of Urci"
+name: Saint Indalecio of Urci
 honorific: Saint
-summary: "Early missionary and bishop of Urci (modern Almería, Spain)."
-region: "Spain"
+summary: Early missionary and bishop of Urci (modern Almería, Spain).
+region: Spain
 feastDay:
   month: 5
   day: 1
@@ -13,6 +13,7 @@ vocation:
   - Monk
   - Missionary
 martyr: false
+prayers: []
 ---
 
 Early missionary and bishop of Urci (modern Almería, Spain).

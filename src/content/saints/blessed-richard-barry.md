@@ -1,21 +1,22 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Richard Barry"
+name: Blessed Richard Barry
 honorific: Blessed
-summary: "Dominican priest. One of the Irish Martyrs."
+summary: Dominican priest. One of the Irish Martyrs.
 deathYear: 1647
-born: "Irish"
-died: "martyred on 13 September 1647 in Cashel, Tipperary, Ireland"
-deathPlace: "Tipperary, Ireland"
-region: "Italy"
+born: Irish
+died: martyred on 13 September 1647 in Cashel, Tipperary, Ireland
+deathPlace: Tipperary, Ireland
+region: Italy
 feastDay:
   month: 9
   day: 13
 canonizationStatus: Blessed
 vocation:
   - Priest
-religiousOrder: "Dominican"
+religiousOrder: Dominican
 martyr: true
+prayers: []
 ---
 
 Dominican priest. One of the Irish Martyrs.

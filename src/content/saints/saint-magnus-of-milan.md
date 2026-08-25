@@ -1,13 +1,14 @@
 ---
-name: "Saint Magnus of Milan"
+name: Saint Magnus of Milan
 honorific: Saint
-summary: "Archbishop of Milan, Italy from c.520 to 525."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Magnus-of-Milan-from-the-Crypt-of-St-Eustorgius-Milan-Italy.jpg"
+summary: Archbishop of Milan, Italy from c.520 to 525.
+image: >-
+  http://catholicsaints.info/wp-content/uploads/img-Saint-Magnus-of-Milan-from-the-Crypt-of-St-Eustorgius-Milan-Italy.jpg
 searchAliases:
-  - "Magno"
+  - Magno
 deathYear: 525
-died: "525 of natural causes"
-region: "Italy"
+died: 525 of natural causes
+region: Italy
 feastDay:
   month: 11
   day: 1
@@ -16,8 +17,9 @@ vocation:
   - Bishop
   - Monk
 patronage:
-  - "Legnano, Italy"
+  - Legnano, Italy
 martyr: false
+prayers: []
 ---
 
 Archbishop of Milan, Italy from c.520 to 525.

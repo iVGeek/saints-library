@@ -24,6 +24,7 @@ vocation:
   - Hermit
 religiousOrder: Franciscan
 martyr: false
+prayers: []
 ---
 
 Joined the Franciscans at Voghera, Italy as a young man, but developed severe health problems and returned to his family. Studied under Saint John Bosco at Turin, Italy, was present at Saint John's death, and was cured of his illness during Saint John's funeral.

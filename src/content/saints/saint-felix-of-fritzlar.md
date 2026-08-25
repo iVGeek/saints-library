@@ -16,6 +16,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/41/1_Mark_Notgeld_1921_Stadt_Marsberg_No_005588_Ausschnitt.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Felix of Fritzlar
 imageCreditUrl: https://en.wikipedia.org/wiki/Saint%20Sturm
+prayers: []
 ---
 
 Monk at Fritzlar, Germany. Martyred by a pagan mob.

@@ -1,15 +1,15 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Manuel Font y Font"
+name: Blessed Manuel Font y Font
 honorific: Blessed
-summary: "Claretian priest. Martyred in the Spanish Civil War."
+summary: Claretian priest. Martyred in the Spanish Civil War.
 birthYear: 1878
 deathYear: 1936
-born: "13 June 1878 in Torrebeses, Lleida, Spain"
-died: "19 October 1936 in Mas Claret, Sant Pere dels Arquells, Lleida, Spain"
-birthPlace: "Lleida, Spain"
-deathPlace: "Sant Pere dels Arquells, Lleida, Spain"
-region: "Spain"
+born: 13 June 1878 in Torrebeses, Lleida, Spain
+died: 19 October 1936 in Mas Claret, Sant Pere dels Arquells, Lleida, Spain
+birthPlace: Lleida, Spain
+deathPlace: Sant Pere dels Arquells, Lleida, Spain
+region: Spain
 feastDay:
   month: 10
   day: 19
@@ -19,6 +19,7 @@ vocation:
   - Priest
   - Cardinal
 martyr: true
+prayers: []
 ---
 
 Claretian priest. Martyred in the Spanish Civil War.

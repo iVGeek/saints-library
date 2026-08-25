@@ -1,9 +1,9 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Mark of Rome"
+name: Saint Mark of Rome
 honorific: Saint
-summary: "Martyr. Mentioned by Pope Pius I in a letter to the bishop of Vienne, Gaul. No other information has survived."
-region: "Italy"
+summary: Martyr. Mentioned by Pope Pius I in a letter to the bishop of Vienne, Gaul. No other information has survived.
+region: Italy
 feastDay:
   month: 3
   day: 24
@@ -12,6 +12,7 @@ vocation:
   - Bishop
   - Monk
 martyr: true
+prayers: []
 ---
 
 Martyr. Mentioned by Pope Pius I in a letter to the bishop of Vienne, Gaul. No other information has survived.

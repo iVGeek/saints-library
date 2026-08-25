@@ -25,6 +25,7 @@ vocation:
   - Hermit
   - Confessor
 martyr: false
+prayers: []
 ---
 
 To get Dominic ordained, his parents made a gift to their local bishop, committing the sin of simony. Learning of it, Dominic devoted himself to penance, even wearing an iron cuirass next to his skin. Hermit at Luceolo, Italy. Hermit in Montefeltro, Italy. Monk at Fonte Avellano Abbey. Spiritual student of Saint Peter Damian.

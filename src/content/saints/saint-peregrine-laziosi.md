@@ -1,21 +1,24 @@
 ---
-name: "Saint Peregrine Laziosi"
+name: Saint Peregrine Laziosi
 honorific: Saint
-summary: "Born wealthy, he spent a worldly youth, and became involved in politics. Peregrine was initially strongly anti-Catholic. During a popular revolt, he struck the papal peace negotiator, Saint Philip Benizi, across the face. Saint Philip calmly turned the other cheek, prayed for the"
-image: "https://upload.wikimedia.org/wikipedia/commons/2/20/Lippi%2C_circoncisione%2C_santo_spirito.jpg"
+summary: >-
+  Born wealthy, he spent a worldly youth, and became involved in politics. Peregrine was initially strongly
+  anti-Catholic. During a popular revolt, he struck the papal peace negotiator, Saint Philip Benizi, across the face.
+  Saint Philip calmly turned the other cheek, prayed for the
+image: https://upload.wikimedia.org/wikipedia/commons/2/20/Lippi%2C_circoncisione%2C_santo_spirito.jpg
 searchAliases:
-  - "Peregrinus Laziosi"
-  - "Pellegrino Laziosi"
-  - "Peregrinus Latiosi"
-  - "Pellegrino Latiosi"
-  - "Peregrine Latiosi"
+  - Peregrinus Laziosi
+  - Pellegrino Laziosi
+  - Peregrinus Latiosi
+  - Pellegrino Latiosi
+  - Peregrine Latiosi
 birthYear: 1260
 deathYear: 1345
-born: "1260 at Forli, Italy"
-died: "1 May 1345 at Forli, Italy of natural causes"
-birthPlace: "Italy"
-deathPlace: "Italynatural causes"
-region: "Italy"
+born: 1260 at Forli, Italy
+died: 1 May 1345 at Forli, Italy of natural causes
+birthPlace: Italy
+deathPlace: Italynatural causes
+region: Italy
 feastDay:
   month: 5
   day: 1
@@ -25,22 +28,27 @@ vocation:
   - Monk
   - Confessor
 patronage:
-  - "against cancer"
-  - "against breast cancer"
-  - "against open sores"
-  - "against skin diseases"
-  - "AIDS patients"
-  - "cancer patients"
-  - "sick people"
-  - "—"
-  - "Forli-Bertinoro, Italy, diocese of"
-  - "Forli, Italy"
+  - against cancer
+  - against breast cancer
+  - against open sores
+  - against skin diseases
+  - AIDS patients
+  - cancer patients
+  - sick people
+  - —
+  - Forli-Bertinoro, Italy, diocese of
+  - Forli, Italy
 martyr: false
 prayers:
-  - name: "Novena to Saint Peregrine"
-    kind: "Novena — nine-day prayer for cancer and serious illness"
+  - name: Novena to Saint Saint Peregrine Laziosi
+    kind: Novena — nine-day prayer for cancer and serious illness
     text: >-
-      O God, You gave Saint Peregrine an angel for his companion at the moment of his conversion. You gave him a miraculous wound to heal him of the cancerous growth on his leg. Be present now to all who suffer from cancer and other serious illnesses. O blessed Peregrine, you became a worthy imitator of Christ, you received the gift of healing through the miraculous wound. You continued to heal the sick and to comfort the sorrowful. You are a powerful intercessor before God for all who suffer from any form of cancer. Please take my petition and place it before the throne of God. Through your powerful intercession, may the Lord grant health of body and soul. Amen.
+      O God, You gave Saint Peregrine an angel for his companion at the moment of his conversion. You gave him a
+      miraculous wound to heal him of the cancerous growth on his leg. Be present now to all who suffer from cancer and
+      other serious illnesses. O blessed Peregrine, you became a worthy imitator of Christ, you received the gift of
+      healing through the miraculous wound. You continued to heal the sick and to comfort the sorrowful. You are a
+      powerful intercessor before God for all who suffer from any form of cancer. Please take my petition and place it
+      before the throne of God. Through your powerful intercession, may the Lord grant health of body and soul. Amen.
 ---
 
 Born wealthy, he spent a worldly youth, and became involved in politics. Peregrine was initially strongly anti–Catholic. During a popular revolt, he struck the papal peace negotiator, Saint Philip Benizi, across the face. Saint Philip calmly turned the other cheek, prayed for the youth, and Peregine had a conversion.

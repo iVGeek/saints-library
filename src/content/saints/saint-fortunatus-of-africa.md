@@ -17,6 +17,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/7/79/Fortunatus_Nwachukwu_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Fortunatus of Africa
 imageCreditUrl: https://en.wikipedia.org/wiki/Fortunatus%20Nwachukwu
+prayers: []
 ---
 
 One of a group of 21 Christians martyred together in the persecutions of Decius.

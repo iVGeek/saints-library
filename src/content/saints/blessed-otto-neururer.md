@@ -1,17 +1,20 @@
 ---
-name: "Blessed Otto Neururer"
+name: Blessed Otto Neururer
 honorific: Blessed
-summary: "Twelfth and youngest child of a peasant family, Otto grew up on a small farm with a mill. His father died when the boy was still young. His mother was devout, but suffered periodic bouts of depression. Otto was known as a brilliant but timid young man who also battled depression."
-image: "https://upload.wikimedia.org/wikipedia/commons/2/2e/Otto_Neururer.jpg"
+summary: >-
+  Twelfth and youngest child of a peasant family, Otto grew up on a small farm with a mill. His father died when the boy
+  was still young. His mother was devout, but suffered periodic bouts of depression. Otto was known as a brilliant but
+  timid young man who also battled depression.
+image: https://upload.wikimedia.org/wikipedia/commons/2/2e/Otto_Neururer.jpg
 searchAliases:
-  - "Ottone Neururer"
+  - Ottone Neururer
 birthYear: 1881
 deathYear: 1940
-born: "25 March 1881 at Piller, Tyrol, Austria"
-died: "30 May 1940 at Buchenwald, Thuringia, Germany"
-birthPlace: "Tyrol, Austria"
-deathPlace: "Thuringia, Germany"
-region: "Austria"
+born: 25 March 1881 at Piller, Tyrol, Austria
+died: 30 May 1940 at Buchenwald, Thuringia, Germany
+birthPlace: Tyrol, Austria
+deathPlace: Thuringia, Germany
+region: Austria
 feastDay:
   month: 5
   day: 30
@@ -19,6 +22,7 @@ canonizationStatus: Blessed
 vocation:
   - Priest
 martyr: false
+prayers: []
 ---
 
 Twelfth and youngest child of a peasant family, Otto grew up on a small farm with a mill. His father died when the boy was still young. His mother was devout, but suffered periodic bouts of depression. Otto was known as a brilliant but timid young man who also battled depression. He attended seminary at Brixen, Italy. Priest. Curate and religion teacher in several places in the diocese.

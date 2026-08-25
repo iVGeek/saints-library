@@ -1,13 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Nicanor of Egypt"
+name: Saint Nicanor of Egypt
 honorific: Saint
-summary: "Martyred in the persecutions of Galerius Maximian."
+summary: Martyred in the persecutions of Galerius Maximian.
 searchAliases:
-  - "Nicandro"
-died: "in Egypt, date unknown"
-deathPlace: "date unknown"
-region: "Italy"
+  - Nicandro
+died: in Egypt, date unknown
+deathPlace: date unknown
+region: Italy
 feastDay:
   month: 6
   day: 5
@@ -15,9 +15,10 @@ canonizationStatus: Saint
 vocation:
   - Monk
 patronage:
-  - "Poggio di Roio, Aquila, Italy"
-  - "Roio Piano, Aquila, Italy"
+  - Poggio di Roio, Aquila, Italy
+  - Roio Piano, Aquila, Italy
 martyr: true
+prayers: []
 ---
 
 Martyred in the persecutions of Galerius Maximian.

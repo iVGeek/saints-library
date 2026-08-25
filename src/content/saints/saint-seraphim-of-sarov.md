@@ -23,6 +23,7 @@ canonizationStatus: Saint
 vocation:
   - Priest
 martyr: false
+prayers: []
 ---
 
 Son of a builder, he had a middle-class upbringing. Monk at Sarov in 1777, taking the name Seraphim. Studious as a boy, he was able to apply himself there as the monks of Sarov spent much of the day studying Scripture and the early Church writings. Severely ill and bed-ridden from 1780 to 1783, Seraphim continued his studies, and received repeated apparitions of the Virgin Mary. Ordained in 1793, he celebrated Mass daily, which was unusual at the time.

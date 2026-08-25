@@ -1,15 +1,15 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Marcelli Mur Blanch"
+name: Blessed Marcelli Mur Blanch
 honorific: Blessed
-summary: "Member of the Claretians, professed on 21 June 1909. Martyred in the Spanish Civil War."
+summary: Member of the Claretians, professed on 21 June 1909. Martyred in the Spanish Civil War.
 birthYear: 1882
 deathYear: 1936
-born: "1 April 1882 in Riguepeu, Gers, France"
-died: "shot on 25 July 1936 in Sallent, Barcelona, Spain"
-birthPlace: "Gers, France"
-deathPlace: "Barcelona, Spain"
-region: "France"
+born: 1 April 1882 in Riguepeu, Gers, France
+died: shot on 25 July 1936 in Sallent, Barcelona, Spain
+birthPlace: Gers, France
+deathPlace: Barcelona, Spain
+region: France
 feastDay:
   month: 7
   day: 25
@@ -18,6 +18,7 @@ vocation:
   - Bishop
   - Cardinal
 martyr: true
+prayers: []
 ---
 
 Member of the Claretians, professed on 21 June 1909. Martyred in the Spanish Civil War.

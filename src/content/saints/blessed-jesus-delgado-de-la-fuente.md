@@ -1,25 +1,26 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Jesús Delgado De La Fuente"
+name: Blessed Jesús Delgado De La Fuente
 honorific: Blessed
-summary: "Monk. Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
+summary: Monk. Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War.
 searchAliases:
-  - "Valente José"
+  - Valente José
 birthYear: 1894
 deathYear: 1936
-born: "17 April 1894 in Mazuelo de Muñó, Burgos, Spain"
-died: "5 October 1936 in Castellón, Spain"
-birthPlace: "Burgos, Spain"
-deathPlace: "Spain"
-region: "Spain"
+born: 17 April 1894 in Mazuelo de Muñó, Burgos, Spain
+died: 5 October 1936 in Castellón, Spain
+birthPlace: Burgos, Spain
+deathPlace: Spain
+region: Spain
 feastDay:
   month: 10
   day: 5
 canonizationStatus: Blessed
 vocation:
   - Monk
-religiousOrder: "Marist"
+religiousOrder: Marist
 martyr: true
+prayers: []
 ---
 
 Monk. Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War.

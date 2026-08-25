@@ -21,6 +21,7 @@ canonizationStatus: Blessed
 vocation:
   - Priest
 martyr: true
+prayers: []
 ---
 
 Priest of the diocese of Angers, France. Martyred in the persecutions of the French Revolution for refusing to take the oath of allegience to the Civil Constitution of the Clergy, which would have put his vocation under government control.

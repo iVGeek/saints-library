@@ -1,15 +1,17 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Cronan of Roscrea"
+name: Saint Cronan of Roscrea
 honorific: Saint
-summary: "Spent his youth in Connaught, Ireland but returned to his native district, c.610. Founded several monasteries including in Roscrea where he served as the house's first abbot, and established a famous school."
+summary: >-
+  Spent his youth in Connaught, Ireland but returned to his native district, c.610. Founded several monasteries
+  including in Roscrea where he served as the house's first abbot, and established a famous school.
 searchAliases:
-  - "Croman"
+  - Croman
 deathYear: 626
-born: "Munster, Ireland"
-died: "c.626 of natural causes"
-birthPlace: "Ireland"
-region: "Ireland"
+born: Munster, Ireland
+died: c.626 of natural causes
+birthPlace: Ireland
+region: Ireland
 feastDay:
   month: 4
   day: 28
@@ -18,8 +20,9 @@ vocation:
   - Priest
   - Monk
 patronage:
-  - "Roscrea, Tipperary, Ireland"
+  - Roscrea, Tipperary, Ireland
 martyr: false
+prayers: []
 ---
 
 Spent his youth in Connaught, Ireland but returned to his native district, c.610. Founded several monasteries including in Roscrea where he served as the house's first abbot, and established a famous school.

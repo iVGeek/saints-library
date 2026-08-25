@@ -14,6 +14,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/8/86/StMaurice2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Abibus of Egypt
 imageCreditUrl: https://en.wikipedia.org/wiki/Saint%20Maurice
+prayers: []
 ---
 
 Martyr.

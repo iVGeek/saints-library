@@ -1,14 +1,14 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Folcuino of Therouanne"
+name: Saint Folcuino of Therouanne
 honorific: Saint
-summary: "Bishop in the area of Thérouanne, northern France for 39 years."
+summary: Bishop in the area of Thérouanne, northern France for 39 years.
 searchAliases:
-  - "Folquin"
+  - Folquin
 deathYear: 955
-died: "c.955 in Morini, France"
-deathPlace: "France"
-region: "France"
+died: c.955 in Morini, France
+deathPlace: France
+region: France
 feastDay:
   month: 12
   day: 14
@@ -16,6 +16,7 @@ canonizationStatus: Saint
 vocation:
   - Bishop
 martyr: false
+prayers: []
 ---
 
 Bishop in the area of Thérouanne, northern France for 39 years.

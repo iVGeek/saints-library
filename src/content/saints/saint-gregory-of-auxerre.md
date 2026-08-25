@@ -1,13 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Gregory of Auxerre"
+name: Saint Gregory of Auxerre
 honorific: Saint
-summary: "Bishop of Auxerre, France for 13 years."
+summary: Bishop of Auxerre, France for 13 years.
 birthYear: 455
 deathYear: 540
-born: "c.455"
-died: "c.540 of natural causes"
-region: "France"
+born: c.455
+died: c.540 of natural causes
+region: France
 feastDay:
   month: 12
   day: 19
@@ -16,6 +16,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Bishop of Auxerre, France for 13 years.

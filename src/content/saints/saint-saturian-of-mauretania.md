@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Saturian of Mauretania"
+name: Saint Saturian of Mauretania
 honorific: Saint
-summary: "Enslaved by Arian Vandals in Mauretania in North Africa. Martyred in the persecutions of Genseric."
+summary: Enslaved by Arian Vandals in Mauretania in North Africa. Martyred in the persecutions of Genseric.
 deathYear: 458
-died: "dragged to death by horses in 458"
-region: "Italy"
+died: dragged to death by horses in 458
+region: Italy
 feastDay:
   month: 10
   day: 16
@@ -13,6 +13,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Enslaved by Arian Vandals in Mauretania in North Africa. Martyred in the persecutions of Genseric.

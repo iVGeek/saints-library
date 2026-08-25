@@ -17,6 +17,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Bishop of Florence, Italy. So successful at evangelizing his diocese that he eliminated all paganism.

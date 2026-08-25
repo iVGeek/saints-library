@@ -1,22 +1,23 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Higinio Roldán Iriberri"
+name: Blessed Higinio Roldán Iriberri
 honorific: Blessed
-summary: "Dominican friar. Martyred in the Spanish Civil War."
+summary: Dominican friar. Martyred in the Spanish Civil War.
 birthYear: 1895
 deathYear: 1936
-born: "11 January 1895 in Ollogoyen, Navarra, Spain"
-died: "25 July 1936 in Algodor, Toledo, Spain"
-birthPlace: "Navarra, Spain"
-deathPlace: "Toledo, Spain"
-region: "Spain"
+born: 11 January 1895 in Ollogoyen, Navarra, Spain
+died: 25 July 1936 in Algodor, Toledo, Spain
+birthPlace: Navarra, Spain
+deathPlace: Toledo, Spain
+region: Spain
 feastDay:
   month: 7
   day: 25
 canonizationStatus: Blessed
 vocation: []
-religiousOrder: "Dominican"
+religiousOrder: Dominican
 martyr: true
+prayers: []
 ---
 
 Dominican friar. Martyred in the Spanish Civil War.

@@ -29,6 +29,7 @@ vocation:
   - Deacon
 religiousOrder: Benedictine
 martyr: false
+prayers: []
 ---
 
 He grew up in the abbey in Fulda, Germany. Spiritual student of Saint Alcuin of Tours and Saint Eigil. Benedictine monk. Headmaster of the abbey school. Deacon. Priest, ordained by Saint Astolfus of Mainz. Abbot. Bishop of Mainz, Germany. Noted for his charity, feeding up to 300 poor people at his house each day. Promoted the education of the clergy. Wrote bible commentaries, homilies, poetry, including one that praised and preserved the memory of Saint Frederick of Utrecht.

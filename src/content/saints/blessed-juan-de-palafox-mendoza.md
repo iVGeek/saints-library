@@ -1,15 +1,18 @@
 ---
-name: "Blessed Juan de Palafox Mendoza"
+name: Blessed Juan de Palafox Mendoza
 honorific: Blessed
-summary: "Born the illegitimate son of an Aragonese noble, Jaime de Palafox, the Marquis of Ariaza; his father would not recognize him, his mother became a Carmelite nun, and Juan was raised by a family of millers. When the boy was ten years old, his father finally acknowledged him and too"
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Juan-de-Palafox-Mendoza.jpg"
+summary: >-
+  Born the illegitimate son of an Aragonese noble, Jaime de Palafox, the Marquis of Ariaza; his father would not
+  recognize him, his mother became a Carmelite nun, and Juan was raised by a family of millers. When the boy was ten
+  years old, his father finally acknowledged him and too
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Juan-de-Palafox-Mendoza.jpg
 birthYear: 1600
 deathYear: 1659
-born: "24 June 1600 in Fitero, Navarra, Aragon (in modern Spain)"
-died: "1 October 1659 in Osma, Soria, Spain of natural causes"
-birthPlace: "Navarra, Aragon (modern Spain)"
-deathPlace: "Soria, Spaof natural causes"
-region: "Mexico"
+born: 24 June 1600 in Fitero, Navarra, Aragon (in modern Spain)
+died: 1 October 1659 in Osma, Soria, Spain of natural causes
+birthPlace: Navarra, Aragon (modern Spain)
+deathPlace: Soria, Spaof natural causes
+region: Mexico
 feastDay:
   month: 10
   day: 1
@@ -18,8 +21,9 @@ vocation:
   - Bishop
   - Priest
   - Missionary
-religiousOrder: "Jesuit"
+religiousOrder: Jesuit
 martyr: false
+prayers: []
 ---
 
 Born the illegitimate son of an Aragonese noble, Jaime de Palafox, the Marquis of Ariaza; his father would not recognize him, his mother became a Carmelite nun, and Juan was raised by a family of millers. When the boy was ten years old, his father finally acknowledged him and took over his upbringing. Juan was educated at Alcalá and Salamanca, and served as a political administrator in Monzón, Spain in 1626. Member of the Council of the Indies, the body that administered the overseas territory of the Spanish Empire.

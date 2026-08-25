@@ -43,6 +43,7 @@ patronage:
   - victims of verbal spouse abuse
   - Gistel, Belgium
 martyr: true
+prayers: []
 ---
 
 Born to the Flemish nobility, the daughter of Hemfried, Lord of Wierre-Effray. Married to Bertulf of Ghistelles, a Flemish nobleman, who abandoned her before the wedding feast was over. Abused by her in-laws, especially her mother-in-law, Godelieve was variously locked in a cell, starved, and subjected to assorted physical and mental abuse. Her father threatened to turn the husband and in-laws over to state and Church authorities; Bertulf appeared to repent, Godelieve returned to him, and was soon after murdered; she is generally considered a martyr. Always a friend of the poor and sick, post-mortem miracles ascribed to her include restoration of sight to her step-daughter.

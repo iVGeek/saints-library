@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Demetrius of Philadelphia"
+name: Saint Demetrius of Philadelphia
 honorific: Saint
-summary: "First century bishop of Philadelphia in Asia minor."
+summary: First century bishop of Philadelphia in Asia minor.
 searchAliases:
-  - "Dimitrios"
-  - "Dimitri"
+  - Dimitrios
+  - Dimitri
 feastDay:
   month: 1
   day: 6
@@ -14,6 +14,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 First century bishop of Philadelphia in Asia minor.

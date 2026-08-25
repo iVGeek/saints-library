@@ -1,17 +1,18 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Januarius of Corinth"
+name: Saint Januarius of Corinth
 honorific: Saint
-summary: "Martyr."
-died: "Corinth, Greece"
-deathPlace: "Greece"
-region: "Greece"
+summary: Martyr.
+died: Corinth, Greece
+deathPlace: Greece
+region: Greece
 feastDay:
   month: 2
   day: 28
 canonizationStatus: Saint
 vocation: []
 martyr: true
+prayers: []
 ---
 
 Martyr.

@@ -1,12 +1,14 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Lupercus of Léon"
+name: Saint Lupercus of Léon
 honorific: Saint
-summary: "Son of Saint Marcellus of Centurion; brother of Saint Claudius of Léon and Saint Victorius of Léon. Martyred in the persecutions of Diocletian."
+summary: >-
+  Son of Saint Marcellus of Centurion; brother of Saint Claudius of Léon and Saint Victorius of Léon. Martyred in the
+  persecutions of Diocletian.
 deathYear: 300
-died: "c.300 in Léon, Spain"
-deathPlace: "Spain"
-region: "Spain"
+died: c.300 in Léon, Spain
+deathPlace: Spain
+region: Spain
 feastDay:
   month: 10
   day: 30
@@ -14,6 +16,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Son of Saint Marcellus of Centurion; brother of Saint Claudius of Léon and Saint Victorius of Léon. Martyred in the persecutions of Diocletian.

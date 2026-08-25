@@ -1,22 +1,23 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Papo"
+name: Saint Papo
 honorific: Saint
-summary: "Martyr."
+summary: Martyr.
 searchAliases:
-  - "Pappo"
-  - "Pappus"
-died: "Tomis, Scythia (modern Constanta, Romania)"
-deathPlace: "Scythia (modern Constanta, Romania)"
-region: "Italy"
+  - Pappo
+  - Pappus
+died: Tomis, Scythia (modern Constanta, Romania)
+deathPlace: Scythia (modern Constanta, Romania)
+region: Italy
 feastDay:
   month: 4
   day: 3
 canonizationStatus: Saint
 vocation:
   - Monk
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 martyr: true
+prayers: []
 ---
 
 Martyr.

@@ -1,18 +1,19 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Bezela of Göda"
+name: Blessed Bezela of Göda
 honorific: Blessed
-summary: "Mother of Saint Benno of Meissen."
-born: "late 10th century Germany"
-died: "mid-11th century in Göda, Saxony, Germany of natural causes"
-deathPlace: "Saxony, Germanynatural causes"
-region: "Germany"
+summary: Mother of Saint Benno of Meissen.
+born: late 10th century Germany
+died: mid-11th century in Göda, Saxony, Germany of natural causes
+deathPlace: Saxony, Germanynatural causes
+region: Germany
 feastDay:
   month: 12
   day: 21
 canonizationStatus: Blessed
 vocation: []
 martyr: false
+prayers: []
 ---
 
 Mother of Saint Benno of Meissen.

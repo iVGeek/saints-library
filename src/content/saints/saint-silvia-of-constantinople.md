@@ -1,13 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Silvia of Constantinople"
+name: Saint Silvia of Constantinople
 honorific: Saint
-summary: "Considered the most learned woman of her day. Fought against heresies."
+summary: Considered the most learned woman of her day. Fought against heresies.
 searchAliases:
-  - "Silviana"
-  - "Sylvia"
+  - Silviana
+  - Sylvia
 deathYear: 420
-died: "c.420"
+died: c.420
 feastDay:
   month: 12
   day: 15
@@ -15,6 +15,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: false
+prayers: []
 ---
 
 Considered the most learned woman of her day. Fought against heresies.

@@ -1,11 +1,14 @@
 ---
-name: "Saint Martinian of Rome"
+name: Saint Martinian of Rome
 honorific: Saint
-summary: "Prison guard at the Mamertine prison in Rome, Italy. Worked with Saint Processus. Guarded Saint Peter the Apostle and Saint Paul the Apostle when they were imprisoned in Rome. Converted to Christianity and baptized by them. Tortured and executed in the persecutions of Nero. Marty"
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Processus-and-Saint-Martinianus.jpg"
-died: "beheaded on the Aurelian road outside Rome, Italy"
-deathPlace: "Italy"
-region: "Italy"
+summary: >-
+  Prison guard at the Mamertine prison in Rome, Italy. Worked with Saint Processus. Guarded Saint Peter the Apostle and
+  Saint Paul the Apostle when they were imprisoned in Rome. Converted to Christianity and baptized by them. Tortured and
+  executed in the persecutions of Nero. Marty
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Processus-and-Saint-Martinianus.jpg
+died: beheaded on the Aurelian road outside Rome, Italy
+deathPlace: Italy
+region: Italy
 feastDay:
   month: 7
   day: 2
@@ -14,8 +17,9 @@ vocation:
   - Priest
   - Monk
 patronage:
-  - "Bagnolo Mella, Italy"
+  - Bagnolo Mella, Italy
 martyr: true
+prayers: []
 ---
 
 Prison guard at the Mamertine prison in Rome, Italy. Worked with Saint Processus. Guarded Saint Peter the Apostle and Saint Paul the Apostle when they were imprisoned in Rome. Converted to Christianity and baptized by them. Tortured and executed in the persecutions of Nero. Martyr.

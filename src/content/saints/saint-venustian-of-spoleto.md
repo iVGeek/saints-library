@@ -1,12 +1,12 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Venustian of Spoleto"
+name: Saint Venustian of Spoleto
 honorific: Saint
-summary: "Layman convert. He and his family were part of a group of martyrs in the persecutions of Diocletian."
+summary: Layman convert. He and his family were part of a group of martyrs in the persecutions of Diocletian.
 deathYear: 303
-died: "303 at Spoleto, Italy"
-deathPlace: "Italy"
-region: "Italy"
+died: 303 at Spoleto, Italy
+deathPlace: Italy
+region: Italy
 feastDay:
   month: 12
   day: 30
@@ -14,6 +14,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Layman convert. He and his family were part of a group of martyrs in the persecutions of Diocletian.

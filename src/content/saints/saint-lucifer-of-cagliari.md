@@ -21,6 +21,7 @@ vocation:
   - Bishop
   - Priest
 martyr: false
+prayers: []
 ---
 
 Priest. Bishop of Cagliari, Italy. Fierce opponent of Arianism and defender of the faith as expressed in the Nicene Creed for which he was exiled by emperor Constantius. Bishop Lucifer was so opposed to the Arians that he refused to have anything to do with any of them, for which Saint Jerome had to take him to task.

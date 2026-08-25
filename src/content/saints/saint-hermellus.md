@@ -1,8 +1,8 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Hermellus"
+name: Saint Hermellus
 honorific: Saint
-summary: "Hermit. Martyr."
+summary: Hermit. Martyr.
 feastDay:
   month: 8
   day: 3
@@ -11,6 +11,7 @@ vocation:
   - Monk
   - Hermit
 martyr: true
+prayers: []
 ---
 
 Hermit. Martyr.

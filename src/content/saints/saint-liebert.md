@@ -1,27 +1,28 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Liebert"
+name: Saint Liebert
 honorific: Saint
-summary: "Benedictine monk. Abbot. Martyred by Normans."
+summary: Benedictine monk. Abbot. Martyred by Normans.
 searchAliases:
-  - "Liberto"
-  - "Libertus"
-  - "Lisbert"
+  - Liberto
+  - Libertus
+  - Lisbert
 deathYear: 835
-born: "Malines, Belgium"
-died: "c.835"
-birthPlace: "Belgium"
-region: "Belgium"
+born: Malines, Belgium
+died: c.835
+birthPlace: Belgium
+region: Belgium
 feastDay:
   month: 7
   day: 14
 canonizationStatus: Saint
 vocation:
   - Monk
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 patronage:
-  - "Mechelen, Belgium"
+  - Mechelen, Belgium
 martyr: true
+prayers: []
 ---
 
 Benedictine monk. Abbot. Martyred by Normans.

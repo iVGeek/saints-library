@@ -24,6 +24,7 @@ patronage:
   - Camerino, Italy
   - Camerino-San Severino Marche, Italy, diocese of
 martyr: true
+prayers: []
 ---
 
 Teenager tortured extensively and martyred with ten other Christians during the persecutions of Decius.

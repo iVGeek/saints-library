@@ -23,6 +23,7 @@ imageCredit: >-
   Policy</a>
 imageCreditUrl: >-
   https://commons.wikimedia.org/wiki/File:Saint%20Lucy%20and%20Her%20Mother%20at%20the%20Shrine%20of%20Saint%20Agatha%3B%20Saint%20Lucy%20Giving%20Alms%3B%20Saint%20Lucy%20before%20Paschasius%3B%20Saint%20Lucy%20Resisting%20Efforts%20to%20Move%20Her%20MET%20EP288.jpg
+prayers: []
 ---
 
 Martyr. No other information has survived.

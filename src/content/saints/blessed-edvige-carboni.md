@@ -20,6 +20,7 @@ canonizationStatus: Blessed
 vocation:
   - Cardinal
 martyr: false
+prayers: []
 ---
 
 The second child of Giovanni Battista Carboni and Maria Domenica Pinna, Edvige had to leave school at the 4th grade. She felt drawn to the religious life, but stayed at her parents' home to care for her chronically ill mother; she spent all her free time there in prayer. On 14 July 1911 she received the signs of the stigmata; she tried to hide it and the blood stains that resulted, but it soon became obvious. She moved to Rome, Italy just prior to the outbreak of World War II; she spent the war years working with charities and praying for all the dead. She reported apparitions of Jesus Christ, Saint Anne, Saint Catherine of Siena, Saint Dominic Savio, Saint Francis of Assisi, Saint Gemma Galgani, Saint Genaro of Naples, Saint John Bosco, Saint Paul the Apostle, Saint Rita of Cascia, Saint Sebastian, Saint Thérèse of Lisieux, and attacks by demons.

@@ -1,11 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Michael the Sabaitè"
+name: Saint Michael the Sabaitè
 honorific: Saint
-summary: "Eighth century hermit at the monastery of Saint Sabas. The Muslim Caliph greatly admired him, and tried to convert him to Islam. Michael refused, so his admirer had him executed. Martyr."
+summary: >-
+  Eighth century hermit at the monastery of Saint Sabas. The Muslim Caliph greatly admired him, and tried to convert him
+  to Islam. Michael refused, so his admirer had him executed. Martyr.
 searchAliases:
-  - "Michael of Saint Sabas"
-died: "beheaded"
+  - Michael of Saint Sabas
+died: beheaded
 feastDay:
   month: 7
   day: 19
@@ -14,6 +16,7 @@ vocation:
   - Monk
   - Hermit
 martyr: true
+prayers: []
 ---
 
 Eighth century hermit at the monastery of Saint Sabas. The Muslim Caliph greatly admired him, and tried to convert him to Islam. Michael refused, so his admirer had him executed. Martyr.

@@ -38,6 +38,7 @@ patronage:
   - against lightning
   - against thunder
 martyr: false
+prayers: []
 ---
 
 Born to the nobility, the daughter of Count Berthold and Sophie of Andechs; sister of Blessed Euphemia of Altomünster. Raised in a Benedictine convent at Diessen, Germany that had been founded by her parents. When she became Benedictine nun herself, her obvious virtue led to her superiors making her novice mistress. Abbess at Driessen and then of Edelstetten Abbey in 1153 where she was known as a reformer, mystic and miracle worker.

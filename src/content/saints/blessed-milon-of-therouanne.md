@@ -1,15 +1,18 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Milon of Thérouanne"
+name: Blessed Milon of Thérouanne
 honorific: Blessed
-summary: "Premonstratensian monk. First abbot of the monastery at Dommartin, France. Bishop of Thérouanne, France in 1131 where he served for 25 years. Worked to revitalize and reform his clergy during a period of spiritual lethargy and lax discipline. Founded two Premonstratensian abbeys."
+summary: >-
+  Premonstratensian monk. First abbot of the monastery at Dommartin, France. Bishop of Thérouanne, France in 1131 where
+  he served for 25 years. Worked to revitalize and reform his clergy during a period of spiritual lethargy and lax
+  discipline. Founded two Premonstratensian abbeys.
 searchAliases:
-  - "Milon of Sélincourt"
-  - "Milon of Dommartin"
-  - "Milo of…"
+  - Milon of Sélincourt
+  - Milon of Dommartin
+  - Milo of…
 deathYear: 1158
-died: "1158 of natural causes"
-region: "France"
+died: 1158 of natural causes
+region: France
 feastDay:
   month: 7
   day: 16
@@ -18,6 +21,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Premonstratensian monk. First abbot of the monastery at Dommartin, France. Bishop of Thérouanne, France in 1131 where he served for 25 years. Worked to revitalize and reform his clergy during a period of spiritual lethargy and lax discipline. Founded two Premonstratensian abbeys. Supported the work of Saint Bernard of Clairvaux.

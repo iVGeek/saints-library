@@ -1,14 +1,16 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Joseph of Antioch"
+name: Saint Joseph of Antioch
 honorific: Saint
-summary: "Deacon. Hymnist. Martyred with seven others whose names have not come down to us during the iconoclast persecutions of emperor Theophilus."
+summary: >-
+  Deacon. Hymnist. Martyred with seven others whose names have not come down to us during the iconoclast persecutions of
+  emperor Theophilus.
 searchAliases:
-  - "Josippus"
-born: "Syria"
-died: "Antioch, Syria"
-deathPlace: "Syria"
-region: "England"
+  - Josippus
+born: Syria
+died: Antioch, Syria
+deathPlace: Syria
+region: England
 feastDay:
   month: 2
   day: 15
@@ -17,6 +19,7 @@ vocation:
   - Monk
   - Deacon
 martyr: true
+prayers: []
 ---
 
 Deacon. Hymnist. Martyred with seven others whose names have not come down to us during the iconoclast persecutions of emperor Theophilus.

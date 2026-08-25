@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Lupus of Verona"
+name: Saint Lupus of Verona
 honorific: Saint
-summary: "Bishop of Verona, Italy. No other information has survived."
+summary: Bishop of Verona, Italy. No other information has survived.
 searchAliases:
-  - "Lupo"
-region: "Italy"
+  - Lupo
+region: Italy
 feastDay:
   month: 4
   day: 27
@@ -14,6 +14,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Bishop of Verona, Italy. No other information has survived.

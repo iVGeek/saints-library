@@ -18,6 +18,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/9/95/0_Caracalla_-_Museo_Massimo_alle_Terme.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Bassianus of Alexandria
 imageCreditUrl: https://en.wikipedia.org/wiki/Caracalla
+prayers: []
 ---
 
 Lector. Martyr.

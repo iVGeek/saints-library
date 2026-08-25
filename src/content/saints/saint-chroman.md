@@ -25,6 +25,7 @@ imageCredit: >-
   href="http://christinefaria.com/memorial-day-our-lack-of-connection-with-the-people-who-serve/">Memorial Day – Our
   lack of connection with the people who serve</a>
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:Jordan%20S.%20Chroman%20(1).jpg
+prayers: []
 ---
 
 Lived in the Cunningham district of Ayrshire, Scotland where he was noted for his great personal piety. No other details have survived.

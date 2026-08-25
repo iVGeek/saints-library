@@ -1,19 +1,24 @@
 ---
-name: "Blessed Marie Deluil-Martiny"
+name: Blessed Marie Deluil-Martiny
 honorific: Blessed
-summary: "The oldest of five children (she had one brother and three sisters) born to upper middle class parents; she was baptized on the day of her birth. Her father was Paul Deluil-Martiny, a lawyer, and she was the great-niece of Venerable Anne-Madeleine Rémuzat. Marie received a good e"
-image: "https://upload.wikimedia.org/wikipedia/commons/a/a4/Moeder_Marie_de_J%C3%A9sus_Deluil-Martiny.JPG"
+summary: >-
+  The oldest of five children (she had one brother and three sisters) born to upper middle class parents; she was
+  baptized on the day of her birth. Her father was Paul Deluil-Martiny, a lawyer, and she was the great-niece of
+  Venerable Anne-Madeleine Rémuzat. Marie received a good e
+image: https://upload.wikimedia.org/wikipedia/commons/a/a4/Moeder_Marie_de_J%C3%A9sus_Deluil-Martiny.JPG
 searchAliases:
-  - "Sister Marie of Jesus"
-  - "Sister Mary of Jesus"
-  - "Marie-Caroline-Philomène Deluil-Martiny"
+  - Sister Marie of Jesus
+  - Sister Mary of Jesus
+  - Marie-Caroline-Philomène Deluil-Martiny
 birthYear: 1841
 deathYear: 1884
-born: "28 May 1841 in Marseille, Bouches-du-Rhône, France as Marie-Caroline-Philomène Deluil-Martiny"
-died: "shot twice at point-blank range with a revolver, damaging her carotid artery, on Ash Wednesday, 27 February 1884 in La Servianne, Marseille, Bouches-du-Rhône, France"
-birthPlace: "Bouches-du-Rhône, France as Marie-Caroline-Philomène Deluil-Martiny"
-deathPlace: "damaging her carotid artery, on Ash Wednesday, 27 February 1884La Servianne, Marseille, Bouches-du-Rhône, France"
-region: "Austria"
+born: 28 May 1841 in Marseille, Bouches-du-Rhône, France as Marie-Caroline-Philomène Deluil-Martiny
+died: >-
+  shot twice at point-blank range with a revolver, damaging her carotid artery, on Ash Wednesday, 27 February 1884 in La
+  Servianne, Marseille, Bouches-du-Rhône, France
+birthPlace: Bouches-du-Rhône, France as Marie-Caroline-Philomène Deluil-Martiny
+deathPlace: damaging her carotid artery, on Ash Wednesday, 27 February 1884La Servianne, Marseille, Bouches-du-Rhône, France
+region: Austria
 feastDay:
   month: 2
   day: 27
@@ -24,8 +29,9 @@ vocation:
   - Cardinal
   - Missionary
 patronage:
-  - "Daughters of the Heart of Jesus"
+  - Daughters of the Heart of Jesus
 martyr: false
+prayers: []
 ---
 
 The oldest of five children (she had one brother and three sisters) born to upper middle class parents; she was baptized on the day of her birth. Her father was Paul Deluil-Martiny, a lawyer, and she was the great-niece of Venerable Anne–Madeleine Rémuzat. Marie received a good early education from Visitation Sisters in her home town, and then the Sisters of the Sacred Heart in Lyons, France. She made her First Communion on 22 December 1853, and received Confirmation on 29 January 1854; Saint Eugène de Mazenod assisted at the Confirmation. At age 15, she and some like-minded school friends started a group and called themselves the Oblates of Mary; while it indicated a devotion, their teachers stopped it immediately as there was a risk of them deviating from orthodox Christianity without proper leadership.

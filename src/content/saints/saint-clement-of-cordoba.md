@@ -17,6 +17,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/d/d7/Fernando_III_de_Castilla_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Clement of Cordoba
 imageCreditUrl: https://en.wikipedia.org/wiki/Ferdinand%20III%20of%20Castile
+prayers: []
 ---
 
 Martyred in the persecutions of Diocletian. No other information has survived.

@@ -1,19 +1,20 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Bernardino of Perugia"
+name: Blessed Bernardino of Perugia
 honorific: Blessed
-summary: "Franciscan friar; one of the early spiritual students of Saint Francis of Assisi and Blessed Francesco of Pavia."
+summary: Franciscan friar; one of the early spiritual students of Saint Francis of Assisi and Blessed Francesco of Pavia.
 deathYear: 1450
-died: "1450 in Pozzuoli, Naples, Italy of natural causes"
-deathPlace: "Naples, Italynatural causes"
-region: "France"
+died: 1450 in Pozzuoli, Naples, Italy of natural causes
+deathPlace: Naples, Italynatural causes
+region: France
 feastDay:
   month: 7
   day: 29
 canonizationStatus: Blessed
 vocation: []
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 martyr: false
+prayers: []
 ---
 
 Franciscan friar; one of the early spiritual students of Saint Francis of Assisi and Blessed Francesco of Pavia.

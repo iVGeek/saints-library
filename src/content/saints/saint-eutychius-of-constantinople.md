@@ -1,17 +1,20 @@
 ---
-name: "Saint Eutychius of Constantinople"
+name: Saint Eutychius of Constantinople
 honorific: Saint
-summary: "The son of Alexander, a general in the imperial Byzantine army of Belisarius. Monk at Amasea in Pontus (in modern Turkey) at age 30. Archimandrite of a monastery in Constantinople (modern Istanbul, Turkey). Patriarch of Constantinople from 552, nominated by Justinian the Great an"
-image: "https://upload.wikimedia.org/wikipedia/commons/1/13/Eutychius_of_Constantinople.jpg"
+summary: >-
+  The son of Alexander, a general in the imperial Byzantine army of Belisarius. Monk at Amasea in Pontus (in modern
+  Turkey) at age 30. Archimandrite of a monastery in Constantinople (modern Istanbul, Turkey). Patriarch of
+  Constantinople from 552, nominated by Justinian the Great an
+image: https://upload.wikimedia.org/wikipedia/commons/1/13/Eutychius_of_Constantinople.jpg
 searchAliases:
-  - "Eutichio"
+  - Eutichio
 birthYear: 512
 deathYear: 582
-born: "c.512 in Theion, Phrygia"
-died: "6 April 582 in Constantinople (modern Istanbul, Turkey) of natural causes"
-birthPlace: "Phrygia"
-deathPlace: "Turkey)natural causes"
-region: "Turkey"
+born: c.512 in Theion, Phrygia
+died: 6 April 582 in Constantinople (modern Istanbul, Turkey) of natural causes
+birthPlace: Phrygia
+deathPlace: Turkey)natural causes
+region: Turkey
 feastDay:
   month: 4
   day: 6
@@ -20,6 +23,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 The son of Alexander, a general in the imperial Byzantine army of Belisarius. Monk at Amasea in Pontus (in modern Turkey) at age 30. Archimandrite of a monastery in Constantinople (modern Istanbul, Turkey). Patriarch of Constantinople from 552, nominated by Justinian the Great and confirmed by Pope Vigilius. With Apollinarius of Alexandria and Domnus III of Antioch, he called and led a council from 5 May to 2 June 553 to deal with the Three-Chapter Controversy, and Eutychius composed the decree against the Chapters. He consecrated the re-building of the Hagia Sophia church in 562.

@@ -1,20 +1,23 @@
 ---
-name: "Pope Saint Leo IX"
+name: Pope Saint Leo IX
 honorific: Saint
-summary: "Son of Count Hugh of Egisheim. Cousin of Emperor Conrad II. Chapter canon of Saint Stephen's, Toul, France. Deacon. Soldier and officer in the imperial army. In 1021, while still in the military, he was chosen bishop of Toul, France, a position he held for 20 years. Commanded tro"
-image: "https://upload.wikimedia.org/wikipedia/commons/8/8c/Leon_IX.jpg"
+summary: >-
+  Son of Count Hugh of Egisheim. Cousin of Emperor Conrad II. Chapter canon of Saint Stephen's, Toul, France. Deacon.
+  Soldier and officer in the imperial army. In 1021, while still in the military, he was chosen bishop of Toul, France,
+  a position he held for 20 years. Commanded tro
+image: https://upload.wikimedia.org/wikipedia/commons/8/8c/Leon_IX.jpg
 searchAliases:
-  - "Apostolic Pilgrim"
-  - "Bruno of Egisheim"
-  - "Bruno of Eguisheim-Dagsburg"
-  - "Pilgrim Pope"
+  - Apostolic Pilgrim
+  - Bruno of Egisheim
+  - Bruno of Eguisheim-Dagsburg
+  - Pilgrim Pope
 birthYear: 1002
 deathYear: 1054
-born: "21 June 1002 at Eguisheim, Alsace, France as Bruno of Eguisheim-Dagsburg"
-died: "19 April 1054 in Saint Peter's Basilica, Rome, Italy of natural causes"
-birthPlace: "Alsace, France as BrunoEguisheim-Dagsburg"
-deathPlace: "Rome, Italynatural causes"
-region: "Scandinavia"
+born: 21 June 1002 at Eguisheim, Alsace, France as Bruno of Eguisheim-Dagsburg
+died: 19 April 1054 in Saint Peter's Basilica, Rome, Italy of natural causes
+birthPlace: Alsace, France as BrunoEguisheim-Dagsburg
+deathPlace: Rome, Italynatural causes
+region: Scandinavia
 feastDay:
   month: 4
   day: 19
@@ -25,9 +28,10 @@ vocation:
   - Deacon
   - Confessor
 patronage:
-  - "musicians"
-  - "Sessa Aurunca, Italy"
+  - musicians
+  - Sessa Aurunca, Italy
 martyr: false
+prayers: []
 ---
 
 Son of Count Hugh of Egisheim. Cousin of Emperor Conrad II. Chapter canon of Saint Stephen's, Toul, France. Deacon. Soldier and officer in the imperial army. In 1021, while still in the military, he was chosen bishop of Toul, France, a position he held for 20 years. Commanded troops under emperor Conrad II in the invasion of Italy in 1026. Very disciplined himself, he brought order to the monasteries in his diocese, discipline to the clergy, and the Cluniac reform to many of his houses. Mediator between France and the Holy Roman Empire. Chosen 151st pope with the support of the Roman citizens and Henry III of Germany.

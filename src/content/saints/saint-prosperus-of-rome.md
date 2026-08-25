@@ -1,23 +1,27 @@
 ---
-name: "Saint Prosperus of Rome"
+name: Saint Prosperus of Rome
 honorific: Saint
-summary: " The town of Catenanuova, Italy was founded in the early 18th cen An imperial Roman noble in the late 3rd century, Prosperus converted to Christianity, gave away his fortune to the poor, renounced his position, and left the worldly life. Martyred in the persecutions of Diocletian."
-image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Prosperus-of-Rome.jpg"
+summary: ' The town of Catenanuova, Italy was founded in the early 18th cen An imperial Roman noble in the late 3rd century, Prosperus converted to Christianity, gave away his fortune to the poor, renounced his position, and left the worldly life. Martyred in the persecutions of Diocletian.'
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Prosperus-of-Rome.jpg
 searchAliases:
-  - "Prospero"
+  - Prospero
 deathYear: 304
-died: "beheaded c.304 in Rome, Italy"
-deathPlace: "Italy"
-region: "Italy"
+died: beheaded c.304 in Rome, Italy
+deathPlace: Italy
+region: Italy
 feastDay:
   month: 1
   day: 1
 canonizationStatus: Saint
 vocation: []
 patronage:
-  - "in Italy\n\nCatenanuova (chosen in 1736)"
-  - "Faeto"
+  - |-
+    in Italy
+
+    Catenanuova (chosen in 1736)
+  - Faeto
 martyr: true
+prayers: []
 ---
 
 An imperial Roman noble in the late 3rd century, Prosperus converted to Christianity, gave away his fortune to the poor, renounced his position, and left the worldly life. Martyred in the persecutions of Diocletian.

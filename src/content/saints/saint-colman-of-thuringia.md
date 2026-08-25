@@ -1,14 +1,14 @@
 ---
-name: "Saint Colman of Thuringia"
+name: Saint Colman of Thuringia
 honorific: Saint
-summary: "Evangelized Franconia and East Thuringia. Worked and martyred with Saint Kilian and Saint Totnan."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Kolonat.jpg"
+summary: Evangelized Franconia and East Thuringia. Worked and martyred with Saint Kilian and Saint Totnan.
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Kolonat.jpg
 searchAliases:
-  - "Colomann"
-  - "Kolonat"
+  - Colomann
+  - Kolonat
 deathYear: 689
-died: "c.689 at East Thuringia"
-region: "Germany"
+died: c.689 at East Thuringia
+region: Germany
 feastDay:
   month: 7
   day: 8
@@ -19,13 +19,17 @@ vocation:
   - Monk
   - Deacon
 patronage:
-  - "gout"
-  - "rheumatism"
-  - "whitewashers"
-  - "–"
-  - "in Germany\n\nAschaffenburg"
-  - "Würzburg, diocese of"
+  - gout
+  - rheumatism
+  - whitewashers
+  - –
+  - |-
+    in Germany
+
+    Aschaffenburg
+  - Würzburg, diocese of
 martyr: true
+prayers: []
 ---
 
 Evangelized Franconia and East Thuringia. Worked and martyred with Saint Kilian and Saint Totnan.

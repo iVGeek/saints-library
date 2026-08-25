@@ -1,14 +1,14 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Mlada of Prague"
+name: Saint Mlada of Prague
 honorific: Saint
-summary: "Daughter of Duke Boleslav of Czechia. Founded the convent of Saint George in Prague (in the modern Czech Republic)."
+summary: Daughter of Duke Boleslav of Czechia. Founded the convent of Saint George in Prague (in the modern Czech Republic).
 searchAliases:
-  - "Mary of Prague"
-  - "Mileda of Prague"
+  - Mary of Prague
+  - Mileda of Prague
 deathYear: 994
-died: "994"
-region: "Czech Republic"
+died: '994'
+region: Czech Republic
 feastDay:
   month: 2
   day: 8
@@ -16,6 +16,7 @@ canonizationStatus: Saint
 vocation:
   - Religious
 martyr: false
+prayers: []
 ---
 
 Daughter of Duke Boleslav of Czechia. Founded the convent of Saint George in Prague (in the modern Czech Republic).

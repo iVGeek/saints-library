@@ -20,6 +20,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Tried to hide out in the hills near his home during the persecutions of Diocletian, but the courage shown by Saint Faith led Caprasius to openly proclaim his own Christianity. Martyr.

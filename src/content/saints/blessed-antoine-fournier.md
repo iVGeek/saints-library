@@ -19,6 +19,7 @@ feastDay:
 canonizationStatus: Blessed
 vocation: []
 martyr: true
+prayers: []
 ---
 
 Married lay man craftsman of the diocese of Angers, France. Martyred in the persecutions of the French Revolution.

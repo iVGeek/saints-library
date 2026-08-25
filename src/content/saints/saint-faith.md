@@ -16,6 +16,7 @@ vocation:
   - Priest
   - Monk
 martyr: true
+prayers: []
 ---
 
 One of the daughters of Saint Sophia. Tortured and martyred for her faith at the age of twelve in the persecutions of Hadrian.

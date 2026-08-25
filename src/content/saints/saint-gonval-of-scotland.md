@@ -1,15 +1,17 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Gonval of Scotland"
+name: Saint Gonval of Scotland
 honorific: Saint
-summary: "King an area of Scotland, noted for his personal piety, his promotion of the faith, and his refusal to use his civil power to meddle in Church affairs. Noted for his piety by Saint Columba, and mentioned in the ancient Dunkeld Litany."
+summary: >-
+  King an area of Scotland, noted for his personal piety, his promotion of the faith, and his refusal to use his civil
+  power to meddle in Church affairs. Noted for his piety by Saint Columba, and mentioned in the ancient Dunkeld Litany.
 searchAliases:
-  - "Conval"
-  - "Conwall"
+  - Conval
+  - Conwall
 deathYear: 824
-born: "late 8th century Scotland"
-died: "824 of natural causes"
-region: "Scotland"
+born: late 8th century Scotland
+died: 824 of natural causes
+region: Scotland
 feastDay:
   month: 4
   day: 4
@@ -17,6 +19,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: false
+prayers: []
 ---
 
 King an area of Scotland, noted for his personal piety, his promotion of the faith, and his refusal to use his civil power to meddle in Church affairs. Noted for his piety by Saint Columba, and mentioned in the ancient Dunkeld Litany.

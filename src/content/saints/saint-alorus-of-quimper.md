@@ -1,13 +1,13 @@
 ---
-name: "Saint Alorus of Quimper"
+name: Saint Alorus of Quimper
 honorific: Saint
-summary: "Fifth century bishop of Quimper in Brittany."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Alorus-of-Quimper.jpg"
+summary: Fifth century bishop of Quimper in Brittany.
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Alorus-of-Quimper.jpg
 searchAliases:
-  - "Alar"
-  - "Alor"
-  - "Alour"
-region: "France"
+  - Alar
+  - Alor
+  - Alour
+region: France
 feastDay:
   month: 10
   day: 26
@@ -16,8 +16,9 @@ vocation:
   - Bishop
   - Monk
 patronage:
-  - "horses"
+  - horses
 martyr: false
+prayers: []
 ---
 
 Fifth century bishop of Quimper in Brittany.

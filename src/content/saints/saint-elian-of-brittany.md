@@ -1,13 +1,15 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Elian of Brittany"
+name: Saint Elian of Brittany
 honorific: Saint
-summary: "Related to Saint Ismael, Saint Oudoceus, Saint Melorius, Saint Tugdual and Saint Judictel. Sixth century missionary to Cornwall, England. Llanelian in Anglesey and Llanelian in Denbigshire are named for him."
+summary: >-
+  Related to Saint Ismael, Saint Oudoceus, Saint Melorius, Saint Tugdual and Saint Judictel. Sixth century missionary to
+  Cornwall, England. Llanelian in Anglesey and Llanelian in Denbigshire are named for him.
 searchAliases:
-  - "Allan"
-  - "Eilan"
-born: "in Brittany (in modern France)"
-region: "England"
+  - Allan
+  - Eilan
+born: in Brittany (in modern France)
+region: England
 feastDay:
   month: 1
   day: 13
@@ -17,6 +19,7 @@ vocation:
   - Hermit
   - Missionary
 martyr: false
+prayers: []
 ---
 
 Related to Saint Ismael, Saint Oudoceus, Saint Melorius, Saint Tugdual and Saint Judictel. Sixth century missionary to Cornwall, England. Llanelian in Anglesey and Llanelian in Denbigshire are named for him.

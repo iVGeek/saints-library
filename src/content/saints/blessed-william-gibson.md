@@ -16,6 +16,7 @@ image: >-
   https://commons.wikimedia.org/wiki/Special:FilePath/William_Gibson_60th_birthday_portrait_%25283x4_cropped%2529.jpg?width=600
 vocation: []
 martyr: true
+prayers: []
 ---
 
 Layman in the apostolic vicariate of England during a period of persecutions of Catholics. Martyr.

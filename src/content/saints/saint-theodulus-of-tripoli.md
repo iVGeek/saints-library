@@ -1,13 +1,13 @@
 ---
-name: "Saint Theodulus of Tripoli"
+name: Saint Theodulus of Tripoli
 honorific: Saint
-summary: "Soldier. Convert, brought to the faith by Saint Leontius of Tripoli. Martyr."
-image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Tripoli.jpg"
+summary: Soldier. Convert, brought to the faith by Saint Leontius of Tripoli. Martyr.
+image: http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Tripoli.jpg
 deathYear: 135
-born: "Greek"
-died: "c.135 at Tripoli, Phoenicia (in modern Syria)"
-deathPlace: "Phoenicia (modern Syria)"
-region: "England"
+born: Greek
+died: c.135 at Tripoli, Phoenicia (in modern Syria)
+deathPlace: Phoenicia (modern Syria)
+region: England
 feastDay:
   month: 6
   day: 18
@@ -16,8 +16,9 @@ vocation:
   - Priest
   - Monk
   - Soldier
-religiousOrder: "Jesuit"
+religiousOrder: Jesuit
 martyr: true
+prayers: []
 ---
 
 Soldier. Convert, brought to the faith by Saint Leontius of Tripoli. Martyr.

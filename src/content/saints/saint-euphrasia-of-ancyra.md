@@ -20,6 +20,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/5/52/Saint_Claudia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Euphrasia of Ancyra
 imageCreditUrl: https://en.wikipedia.org/wiki/Saint%20Claudia
+prayers: []
 ---
 
 Nun martyred in the persecutions of Diocletian.

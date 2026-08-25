@@ -1,23 +1,25 @@
 ---
-name: "Venerable Amelia of Saint Joseph"
+name: Venerable Amelia of Saint Joseph
 honorific: Venerable
-summary: "Nun. Founded the Congregation of the Little Servants of the Poor of Maiquetia."
-image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Amelia-of-Saint-Joseph.jpg"
+summary: Nun. Founded the Congregation of the Little Servants of the Poor of Maiquetia.
+image: http://catholicsaints.info/wp-content/uploads/img-Venerable-Amelia-of-Saint-Joseph.jpg
 searchAliases:
-  - "Maria Amelia Chapellin Istúriz"
-  - "María Emilia Chapellín Istúriz"
-  - "Emilia Of Saint Joseph"
+  - Maria Amelia Chapellin Istúriz
+  - María Emilia Chapellín Istúriz
+  - Emilia Of Saint Joseph
 deathYear: 1893
-died: "18 January 1893 at Macuto, Venezuela of natural causes"
-deathPlace: "Venezuelanatural causes"
+died: 18 January 1893 at Macuto, Venezuela of natural causes
+deathPlace: Venezuelanatural causes
 feastDay:
   month: 1
   day: 1
-centuries: [19]
+centuries:
+  - 19
 canonizationStatus: Venerable
 vocation:
   - Religious
 martyr: false
+prayers: []
 ---
 
 Nun. Founded the Congregation of the Little Servants of the Poor of Maiquetia.

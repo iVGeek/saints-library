@@ -1,15 +1,17 @@
 ---
-name: "Saint Pantaenus of Alexandria"
+name: Saint Pantaenus of Alexandria
 honorific: Saint
-summary: "Known and praised for his learning, wisdom and holiness by many writers including Saint Jerome. Head of the Orthodox School in Alexandria, Egypt where Origen became a great teacher."
-image: "http://catholicsaints.info/wp-content/uploads/img-Pictorial-Saint-Pantaenus-of-Alexandria.jpg"
+summary: >-
+  Known and praised for his learning, wisdom and holiness by many writers including Saint Jerome. Head of the Orthodox
+  School in Alexandria, Egypt where Origen became a great teacher.
+image: http://catholicsaints.info/wp-content/uploads/img-Pictorial-Saint-Pantaenus-of-Alexandria.jpg
 searchAliases:
-  - "Sicilian Bee"
-  - "Panteno"
+  - Sicilian Bee
+  - Panteno
 deathYear: 190
-born: "Sicily"
-died: "c.190"
-region: "Egypt"
+born: Sicily
+died: c.190
+region: Egypt
 feastDay:
   month: 7
   day: 7
@@ -19,6 +21,7 @@ vocation:
   - Monk
   - Confessor
 martyr: false
+prayers: []
 ---
 
 Known and praised for his learning, wisdom and holiness by many writers including Saint Jerome. Head of the Orthodox School in Alexandria, Egypt where Origen became a great teacher.

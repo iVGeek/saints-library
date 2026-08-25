@@ -1,10 +1,10 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Priscus of Tomi"
+name: Saint Priscus of Tomi
 honorific: Saint
-summary: "Martyr. No other information has survived."
-died: "Tomi (modern Constanta, Romania)"
-deathPlace: "Romania)"
+summary: Martyr. No other information has survived.
+died: Tomi (modern Constanta, Romania)
+deathPlace: Romania)
 feastDay:
   month: 10
   day: 1
@@ -12,6 +12,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Martyr. No other information has survived.

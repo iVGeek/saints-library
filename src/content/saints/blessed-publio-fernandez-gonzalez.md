@@ -1,15 +1,15 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Publio Fernández González"
+name: Blessed Publio Fernández González
 honorific: Blessed
-summary: "Monk. Member of the Hospitallers of Saint John of God. Martyred in the Spanish Civil War."
+summary: Monk. Member of the Hospitallers of Saint John of God. Martyred in the Spanish Civil War.
 birthYear: 1908
 deathYear: 1936
-born: "24 May 1908 in Otero de las Dueñas, León, Spain"
-died: "4 October 1936 in La Malvarrosa, Valencia, Spain"
-birthPlace: "León, Spain"
-deathPlace: "Valencia, Spain"
-region: "Spain"
+born: 24 May 1908 in Otero de las Dueñas, León, Spain
+died: 4 October 1936 in La Malvarrosa, Valencia, Spain
+birthPlace: León, Spain
+deathPlace: Valencia, Spain
+region: Spain
 feastDay:
   month: 10
   day: 4
@@ -17,6 +17,7 @@ canonizationStatus: Blessed
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Monk. Member of the Hospitallers of Saint John of God. Martyred in the Spanish Civil War.

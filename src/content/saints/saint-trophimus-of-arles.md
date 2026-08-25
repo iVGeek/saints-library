@@ -21,6 +21,7 @@ patronage:
   - Arles, France
   - children
 martyr: false
+prayers: []
 ---
 
 Evangelist sent from Rome to Gaul c.250. Worked with Saint Saturninus of Toulouse and Saint Denis of Paris. First bishop of Arles, Gaul (modern France. His cultus is ancient; Pope Zosimus wrote about him in 417. Often confused with the Trophimus mentioned by Saint Paul the Apostle, they were actually centuries apart.

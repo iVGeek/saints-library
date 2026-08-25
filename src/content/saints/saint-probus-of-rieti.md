@@ -1,13 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Probus of Rieti"
+name: Saint Probus of Rieti
 honorific: Saint
-summary: "Bishop of Rieti, Italy."
+summary: Bishop of Rieti, Italy.
 searchAliases:
-  - "Probo"
+  - Probo
 deathYear: 571
-died: "c.571"
-region: "Italy"
+died: c.571
+region: Italy
 feastDay:
   month: 1
   day: 15
@@ -16,6 +16,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Bishop of Rieti, Italy.

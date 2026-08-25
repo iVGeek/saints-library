@@ -1,17 +1,19 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Roger Wrenno"
+name: Blessed Roger Wrenno
 honorific: Blessed
-summary: "Layman of the apostolic vicariate of England, ministering to covert Catholics during the persecutions of James I. Martyr."
+summary: >-
+  Layman of the apostolic vicariate of England, ministering to covert Catholics during the persecutions of James I.
+  Martyr.
 searchAliases:
-  - "Ruggero"
+  - Ruggero
 birthYear: 1576
 deathYear: 1616
-born: "c.1576 in Chorley, Lancashire, England"
-died: "18 March 1616 in Lancaster, Lancashire, England"
-birthPlace: "Lancashire, England"
-deathPlace: "Lancashire, England"
-region: "England"
+born: c.1576 in Chorley, Lancashire, England
+died: 18 March 1616 in Lancaster, Lancashire, England
+birthPlace: Lancashire, England
+deathPlace: Lancashire, England
+region: England
 feastDay:
   month: 3
   day: 18
@@ -20,6 +22,7 @@ vocation:
   - Priest
   - Confessor
 martyr: true
+prayers: []
 ---
 
 Layman of the apostolic vicariate of England, ministering to covert Catholics during the persecutions of James I. Martyr.

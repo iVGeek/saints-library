@@ -24,6 +24,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/2/25/Grand_Duchess_Anastasia_Nikolaevna_Crisco_edit_letters_removed.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Anastasia the Elder
 imageCreditUrl: https://en.wikipedia.org/wiki/Grand%20Duchess%20Anastasia%20Nikolaevna%20of%20Russia
+prayers: []
 ---
 
 Third-century nun. Spiritual student of Saint Sophia. Tortured, mutilated (breasts, hands and feet cut off and teeth broken out) and executed for her faith during the persecutions of Valerian.

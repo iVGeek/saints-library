@@ -1,13 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Theodichildis"
+name: Saint Theodichildis
 honorific: Saint
-summary: "Nun at Faremoutiers, France. First Abbess of Jouarre Abbey, Seine-et-Marne, France."
+summary: Nun at Faremoutiers, France. First Abbess of Jouarre Abbey, Seine-et-Marne, France.
 searchAliases:
-  - "Telchildis"
+  - Telchildis
 deathYear: 660
-died: "c.660"
-region: "France"
+died: c.660
+region: France
 feastDay:
   month: 6
   day: 28
@@ -16,6 +16,7 @@ vocation:
   - Monk
   - Religious
 martyr: false
+prayers: []
 ---
 
 Nun at Faremoutiers, France. First Abbess of Jouarre Abbey, Seine-et-Marne, France.

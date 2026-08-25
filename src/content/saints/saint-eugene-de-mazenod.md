@@ -1,28 +1,33 @@
 ---
-name: "Saint Eugene de Mazenod"
+name: Saint Eugene de Mazenod
 honorific: Venerable
-summary: "Eldest son of Charles-Antoine De Mazenod and Marie-Rose Joannis. His mother was of the French middle class, convent educated, and wealthy; his father was an aristocrat, classically educated, and poor. Their marriage, and Eugene's home life, were plagued by constant family in-figh"
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Eugene-de-Mazenod.jpg"
+summary: >-
+  Eldest son of Charles-Antoine De Mazenod and Marie-Rose Joannis. His mother was of the French middle class, convent
+  educated, and wealthy; his father was an aristocrat, classically educated, and poor. Their marriage, and Eugene's home
+  life, were plagued by constant family in-figh
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Eugene-de-Mazenod.jpg
 searchAliases:
-  - "Charles Joseph Eugene de Mazenod"
-  - "Carlo Eugenio de Mazenod"
+  - Charles Joseph Eugene de Mazenod
+  - Carlo Eugenio de Mazenod
 deathYear: 1861
-died: "21 May 1861 at Marseille, France of cancer"
-deathPlace: "Francecancer"
-region: "Canada"
+died: 21 May 1861 at Marseille, France of cancer
+deathPlace: Francecancer
+region: Canada
 feastDay:
   month: 5
   day: 21
-centuries: [19]
+centuries:
+  - 19
 canonizationStatus: Venerable
 vocation:
   - Bishop
   - Priest
   - Missionary
-religiousOrder: "Carmelite"
+religiousOrder: Carmelite
 patronage:
-  - "dysfunctional families"
+  - dysfunctional families
 martyr: false
+prayers: []
 ---
 
 Eldest son of Charles-Antoine De Mazenod and Marie-Rose Joannis. His mother was of the French middle class, convent educated, and wealthy; his father was an aristocrat, classically educated, and poor. Their marriage, and Eugene's home life, were plagued by constant family in-fighting, and interference from his maternal grandmother and a neurotic maternal aunt. The women never let his father forget that they brought the money to the family.

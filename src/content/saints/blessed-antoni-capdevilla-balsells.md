@@ -1,21 +1,22 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Antoni Capdevilla Balsells"
+name: Blessed Antoni Capdevilla Balsells
 honorific: Blessed
-summary: "Claretian brother. Martyred in the Spanish Civil War."
+summary: Claretian brother. Martyred in the Spanish Civil War.
 birthYear: 1894
 deathYear: 1936
-born: "27 February 1894 in L'Espluga Calba, Lleida, Spain"
-died: "24 July 1936 in Vimbodí, Tarragona, Spain"
-birthPlace: "Lleida, Spain"
-deathPlace: "Tarragona, Spain"
-region: "Spain"
+born: 27 February 1894 in L'Espluga Calba, Lleida, Spain
+died: 24 July 1936 in Vimbodí, Tarragona, Spain
+birthPlace: Lleida, Spain
+deathPlace: Tarragona, Spain
+region: Spain
 feastDay:
   month: 7
   day: 24
 canonizationStatus: Blessed
 vocation: []
 martyr: true
+prayers: []
 ---
 
 Claretian brother. Martyred in the Spanish Civil War.

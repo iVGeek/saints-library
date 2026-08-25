@@ -1,15 +1,15 @@
 ---
-name: "Blessed Pedro de Zúñiga"
+name: Blessed Pedro de Zúñiga
 honorific: Blessed
-summary: "Augustinian priest. Martyr."
-image: "http://catholicsaints.info/wp-content/uploads/img-Augustinian-Martyrs-of-Japan.jpg"
+summary: Augustinian priest. Martyr.
+image: http://catholicsaints.info/wp-content/uploads/img-Augustinian-Martyrs-of-Japan.jpg
 birthYear: 1579
 deathYear: 1622
-born: "c.1579 in Seville, Spain"
-died: "beheaded on 19 August 1622 at Nagasaki, Japan"
-birthPlace: "Spain"
-deathPlace: "Japan"
-region: "Spain"
+born: c.1579 in Seville, Spain
+died: beheaded on 19 August 1622 at Nagasaki, Japan
+birthPlace: Spain
+deathPlace: Japan
+region: Spain
 feastDay:
   month: 8
   day: 19
@@ -17,8 +17,9 @@ canonizationStatus: Blessed
 vocation:
   - Priest
   - Monk
-religiousOrder: "Augustinian"
+religiousOrder: Augustinian
 martyr: true
+prayers: []
 ---
 
 Augustinian priest. Martyr.

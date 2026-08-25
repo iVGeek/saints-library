@@ -36,6 +36,7 @@ patronage:
     Ariano Irpino-Lacedonia, diocese of
   - Naples
 martyr: false
+prayers: []
 ---
 
 Born to the French nobility, the daughter of the Lord of Puimichel, France. Orphaned in infancy, she was raised by her aunt, the abbess of the convent of Saint Catherine in Sorbo. Franciscan tertiary. Married to Saint Elzear, Count of Sabran, when the two were in their mid-teens; he was also a Franciscan teriary, the godfather to Pope Urban V, and the young couple lived like pious brother and sister. Delphine became a lady-in-waiting to Queen Sanchia in Naples. Widowed in 1323 when Elzear died of natural causes while on a trip to Paris, France, Delphine continued her life in service to Queen Sanchia. When the Queen died, Delphine sold her vast estates, gave the proceeds to the poor, and retired to Provence where she spent her remaining days in prayerful poverty.

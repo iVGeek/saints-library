@@ -1,21 +1,22 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Petrus Jo Suk"
+name: Blessed Petrus Jo Suk
 honorific: Blessed
-summary: "Married layman of the archdiocese of Seoul, Korea. Martyr."
+summary: Married layman of the archdiocese of Seoul, Korea. Martyr.
 birthYear: 1787
 deathYear: 1819
-born: "1787 in Yanggeun, Gyeonggi, South Korea"
-died: "3 August 1819 in Seoul, South Korea"
-birthPlace: "Gyeonggi, South Korea"
-deathPlace: "South Korea"
-region: "Korea"
+born: 1787 in Yanggeun, Gyeonggi, South Korea
+died: 3 August 1819 in Seoul, South Korea
+birthPlace: Gyeonggi, South Korea
+deathPlace: South Korea
+region: Korea
 feastDay:
   month: 8
   day: 3
 canonizationStatus: Blessed
 vocation: []
 martyr: true
+prayers: []
 ---
 
 Married layman of the archdiocese of Seoul, Korea. Martyr.

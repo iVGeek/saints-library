@@ -1,20 +1,23 @@
 ---
-name: "Saint Colman of Stockerau"
+name: Saint Colman of Stockerau
 honorific: Saint
-summary: "May have been of noble or royal birth. Monk. While on a pilgrimage to the Holy Lands, Colman was stopped by the Viennese on suspicion of being a Moravian spy; there was continual fighting between Austria, Moravia and Bohemia, and a stranger who spoke no German was immediately sus"
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Colman-of-Stockerau1.jpg"
+summary: >-
+  May have been of noble or royal birth. Monk. While on a pilgrimage to the Holy Lands, Colman was stopped by the
+  Viennese on suspicion of being a Moravian spy; there was continual fighting between Austria, Moravia and Bohemia, and
+  a stranger who spoke no German was immediately sus
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Colman-of-Stockerau1.jpg
 searchAliases:
-  - "Colman of Melk"
-  - "Coloman of…."
-  - "Colomannus of…."
-  - "Koloman of…."
-  - "Kálmán of…."
+  - Colman of Melk
+  - Coloman of….
+  - Colomannus of….
+  - Koloman of….
+  - Kálmán of….
 deathYear: 1012
-born: "in the British Isles, exact location undetermined"
-died: "hanged in October 1012 at Stockerau, Austria"
-birthPlace: "exact location undetermined"
-deathPlace: "Austria"
-region: "Czech Republic"
+born: in the British Isles, exact location undetermined
+died: hanged in October 1012 at Stockerau, Austria
+birthPlace: exact location undetermined
+deathPlace: Austria
+region: Czech Republic
 feastDay:
   month: 7
   day: 17
@@ -23,19 +26,20 @@ vocation:
   - Bishop
   - Priest
 patronage:
-  - "against gout"
-  - "against hanging"
-  - "against plague"
-  - "hanged men"
-  - "horned cattle"
-  - "horsemen"
-  - "horses"
-  - "sick horses"
-  - "—"
-  - "Austria"
-  - "—"
-  - "Melk, Austria"
+  - against gout
+  - against hanging
+  - against plague
+  - hanged men
+  - horned cattle
+  - horsemen
+  - horses
+  - sick horses
+  - —
+  - Austria
+  - —
+  - Melk, Austria
 martyr: false
+prayers: []
 ---
 
 May have been of noble or royal birth. Monk. While on a pilgrimage to the Holy Lands, Colman was stopped by the Viennese on suspicion of being a Moravian spy; there was continual fighting between Austria, Moravia and Bohemia, and a stranger who spoke no German was immediately suspect. With no evidence other than being a stranger, he was convicted of espionage, tortured, and hanged with two thieves.

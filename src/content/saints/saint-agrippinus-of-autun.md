@@ -20,6 +20,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/2/25/Saintgermanusofparis.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Agrippinus of Autun
 imageCreditUrl: https://en.wikipedia.org/wiki/Germain%20of%20Paris
+prayers: []
 ---
 
 Bishop of Autun, France. Ordained Saint Germanus of Paris. Attended the Councils of Orleans in 533 and 538.

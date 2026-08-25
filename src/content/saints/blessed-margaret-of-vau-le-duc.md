@@ -1,15 +1,17 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Margaret of Vau-le-Duc"
+name: Blessed Margaret of Vau-le-Duc
 honorific: Blessed
-summary: "Daughter of Duke Henry II of Brabant. Cistercian nun. Abbess at Vau-le-Duc, Brabant (in modern Belgium), an abbey founded by her father."
+summary: >-
+  Daughter of Duke Henry II of Brabant. Cistercian nun. Abbess at Vau-le-Duc, Brabant (in modern Belgium), an abbey
+  founded by her father.
 searchAliases:
-  - "Margarita"
-  - "Margherita"
-  - "Marguerite"
+  - Margarita
+  - Margherita
+  - Marguerite
 deathYear: 1277
-died: "1277 of natural causes"
-region: "Belgium"
+died: 1277 of natural causes
+region: Belgium
 feastDay:
   month: 6
   day: 4
@@ -19,6 +21,7 @@ vocation:
   - Priest
   - Religious
 martyr: false
+prayers: []
 ---
 
 Daughter of Duke Henry II of Brabant. Cistercian nun. Abbess at Vau-le-Duc, Brabant (in modern Belgium), an abbey founded by her father.

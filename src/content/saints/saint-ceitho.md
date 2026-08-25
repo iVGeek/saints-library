@@ -15,6 +15,7 @@ vocation:
 patronage:
   - Llangeitho, Wales
 martyr: false
+prayers: []
 ---
 
 One of five 6th century brothers, all of whom are venerated as saints in Wales. Founded a church in Llangeitho, Dyfed, Wales.

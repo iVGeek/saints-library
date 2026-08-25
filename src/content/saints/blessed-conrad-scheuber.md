@@ -1,17 +1,17 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Conrad Scheuber"
+name: Blessed Conrad Scheuber
 honorific: Blessed
-title: "Hermit"
-summary: "Grandson of Saint Nicholas of Flüe. Hermit at the hermitage of Saint Nicholas, and then at Wolffenschiessen."
+title: Hermit
+summary: Grandson of Saint Nicholas of Flüe. Hermit at the hermitage of Saint Nicholas, and then at Wolffenschiessen.
 searchAliases:
-  - "Konrad"
+  - Konrad
 birthYear: 1481
 deathYear: 1559
-born: "1481 in Altfellen, Switzerland"
-died: "5 March 1559 in Bettelruti, Switzerland of natural causes"
-birthPlace: "Switzerland"
-deathPlace: "Switzerlandnatural causes"
+born: 1481 in Altfellen, Switzerland
+died: 5 March 1559 in Bettelruti, Switzerland of natural causes
+birthPlace: Switzerland
+deathPlace: Switzerlandnatural causes
 feastDay:
   month: 3
   day: 5
@@ -19,6 +19,7 @@ canonizationStatus: Blessed
 vocation:
   - Hermit
 martyr: false
+prayers: []
 ---
 
 Grandson of Saint Nicholas of Flüe. Hermit at the hermitage of Saint Nicholas, and then at Wolffenschiessen.

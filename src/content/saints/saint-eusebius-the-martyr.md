@@ -1,12 +1,12 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Eusebius the Martyr"
+name: Saint Eusebius the Martyr
 honorific: Saint
-summary: "Priest. Martyred in the persecutions of Valerian."
+summary: Priest. Martyred in the persecutions of Valerian.
 deathYear: 257
-died: "c.257 in Rome, Italy"
-deathPlace: "Italy"
-region: "Italy"
+died: c.257 in Rome, Italy
+deathPlace: Italy
+region: Italy
 feastDay:
   month: 12
   day: 2
@@ -15,6 +15,7 @@ vocation:
   - Priest
   - Monk
 martyr: true
+prayers: []
 ---
 
 Priest. Martyred in the persecutions of Valerian.

@@ -1,22 +1,24 @@
 ---
 image: /placeholder-saint.svg
-name: "Venerable Jan Leopold Tyranowski"
+name: Venerable Jan Leopold Tyranowski
 honorific: Venerable
-summary: "Layman of the archdiocese of Kraków, Poland."
+summary: Layman of the archdiocese of Kraków, Poland.
 birthYear: 1901
 deathYear: 1947
-born: "9 February 1901 in Kraków, Poland"
-died: "15 March 1947 in Kraków, Poland of natural causes"
-birthPlace: "Poland"
-deathPlace: "Polandnatural causes"
-region: "Poland"
+born: 9 February 1901 in Kraków, Poland
+died: 15 March 1947 in Kraków, Poland of natural causes
+birthPlace: Poland
+deathPlace: Polandnatural causes
+region: Poland
 feastDay:
   month: 1
   day: 1
-centuries: [20]
+centuries:
+  - 20
 canonizationStatus: Venerable
 vocation: []
 martyr: false
+prayers: []
 ---
 
 Layman of the archdiocese of Kraków, Poland.

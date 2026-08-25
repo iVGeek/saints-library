@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Begu of Hackness"
+name: Saint Begu of Hackness
 honorific: Saint
-summary: "Nun at Hackness, Yorkshire, England."
+summary: Nun at Hackness, Yorkshire, England.
 deathYear: 660
-died: "660"
-region: "England"
+died: '660'
+region: England
 feastDay:
   month: 10
   day: 31
@@ -14,6 +14,7 @@ vocation:
   - Monk
   - Religious
 martyr: false
+prayers: []
 ---
 
 Nun at Hackness, Yorkshire, England.

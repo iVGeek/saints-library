@@ -1,14 +1,14 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Connat"
+name: Saint Connat
 honorific: Saint
-summary: "Nun and abbess of Saint Brigid's convent in Kildare, Ireland."
+summary: Nun and abbess of Saint Brigid's convent in Kildare, Ireland.
 searchAliases:
-  - "Comnata"
-  - "Comnatan"
+  - Comnata
+  - Comnatan
 deathYear: 590
-died: "c.590"
-region: "Ireland"
+died: c.590
+region: Ireland
 feastDay:
   month: 1
   day: 1
@@ -17,6 +17,7 @@ vocation:
   - Monk
   - Religious
 martyr: false
+prayers: []
 ---
 
 Nun and abbess of Saint Brigid's convent in Kildare, Ireland.

@@ -1,14 +1,14 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Honulphus of Sens"
+name: Saint Honulphus of Sens
 honorific: Saint
-summary: "Father of Saint Honobertus of Sens. 38th bishop of Sens, France c.755."
+summary: Father of Saint Honobertus of Sens. 38th bishop of Sens, France c.755.
 searchAliases:
-  - "Honulph"
-  - "Honulpho"
+  - Honulph
+  - Honulpho
 deathYear: 761
-died: "c.761 of natural causes"
-region: "France"
+died: c.761 of natural causes
+region: France
 feastDay:
   month: 1
   day: 5
@@ -18,6 +18,7 @@ vocation:
   - Priest
   - Monk
 martyr: false
+prayers: []
 ---
 
 Father of Saint Honobertus of Sens. 38th bishop of Sens, France c.755.

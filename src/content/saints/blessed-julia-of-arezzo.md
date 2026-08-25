@@ -1,9 +1,9 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Julia of Arezzo"
+name: Blessed Julia of Arezzo
 honorific: Blessed
-summary: "Camaldolese nun at Arezzo, Italy."
-region: "Italy"
+summary: Camaldolese nun at Arezzo, Italy.
+region: Italy
 feastDay:
   month: 12
   day: 15
@@ -12,6 +12,7 @@ vocation:
   - Monk
   - Religious
 martyr: false
+prayers: []
 ---
 
 Camaldolese nun at Arezzo, Italy.

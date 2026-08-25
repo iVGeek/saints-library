@@ -1,12 +1,14 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Pinian"
+name: Saint Pinian
 honorific: Saint
-summary: "Married to Saint Melania the Younger. Father of two; both children died very young. About 410 the couple left Rome, Italy, and each entered religious life. Monk."
+summary: >-
+  Married to Saint Melania the Younger. Father of two; both children died very young. About 410 the couple left Rome,
+  Italy, and each entered religious life. Monk.
 searchAliases:
-  - "Pinianus"
-  - "Valerius Pinianus"
-region: "Italy"
+  - Pinianus
+  - Valerius Pinianus
+region: Italy
 feastDay:
   month: 12
   day: 31
@@ -15,6 +17,7 @@ vocation:
   - Priest
   - Monk
 martyr: false
+prayers: []
 ---
 
 Married to Saint Melania the Younger. Father of two; both children died very young. About 410 the couple left Rome, Italy, and each entered religious life. Monk.

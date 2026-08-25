@@ -21,6 +21,7 @@ patronage:
   - stone masons
   - stonecutters
 martyr: true
+prayers: []
 ---
 
 One of the Four Crowned Martyrs.

@@ -35,6 +35,7 @@ patronage:
     Tart
   - Troyes
 martyr: false
+prayers: []
 ---
 
 Younger sister of Saint Bernard of Clairvaux. Married to Guy de Narcy, a member of the ruling family of Lorraine (in modern France). After a few years of rich and frivolous living, Humbeline turned her back on the worldly life; after a few more years she, with her husband's approval, became a Benedictine nun at Jully-les-Nonnains convent near Troyes, France. Served as abbess there.

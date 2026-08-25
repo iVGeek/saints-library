@@ -1,17 +1,18 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Caramnan"
+name: Saint Caramnan
 honorific: Saint
-summary: "No information has survived."
+summary: No information has survived.
 searchAliases:
-  - "Carmnan"
-region: "Italy"
+  - Carmnan
+region: Italy
 feastDay:
   month: 7
   day: 20
 canonizationStatus: Saint
 vocation: []
 martyr: false
+prayers: []
 ---
 
 No information has survived.

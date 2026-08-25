@@ -1,11 +1,11 @@
 ---
-name: "Blessed Pontius de Clariana"
+name: Blessed Pontius de Clariana
 honorific: Blessed
-summary: "Layman knight. One of the early Mercedarians."
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Pontius-de-Clariana.jpg"
-died: "monastery of San Antonio, Tarragona, Spain"
-deathPlace: "Tarragona, Spain"
-region: "Spain"
+summary: Layman knight. One of the early Mercedarians.
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Pontius-de-Clariana.jpg
+died: monastery of San Antonio, Tarragona, Spain
+deathPlace: Tarragona, Spain
+region: Spain
 feastDay:
   month: 10
   day: 21
@@ -14,6 +14,7 @@ vocation:
   - Monk
   - Soldier
 martyr: false
+prayers: []
 ---
 
 Layman knight. One of the early Mercedarians.

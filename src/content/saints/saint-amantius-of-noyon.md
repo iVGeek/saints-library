@@ -22,6 +22,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/d/df/Domenico_Quaglio_%281787_-_1837%29%2C_Die_Kathedrale_von_Reims.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Amantius of Noyon
 imageCreditUrl: https://en.wikipedia.org/wiki/Archdiocese%20of%20Reims
+prayers: []
 ---
 
 He and three of his brothers were converts, then priests. Bishop of Noyon, France. Martyred for his faith with five other priests, three of them his brothers.

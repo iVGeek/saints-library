@@ -1,15 +1,18 @@
 ---
-name: "Blessed Laura Vicuña"
+name: Blessed Laura Vicuña
 honorific: Blessed
-summary: "Daughter of Jose Domingo Vicuña and Mercedes Pino. Her father was a soldier, and Laura was born three months after the outbreak of civil war in Chile. With her husband in arms, and herself and her infant in peril, Laura's mother moved across the Andes to raise the girl in Las Laj"
-image: "https://upload.wikimedia.org/wikipedia/commons/3/32/Laura_Vicu%C3%B1a_2.jpg"
+summary: >-
+  Daughter of Jose Domingo Vicuña and Mercedes Pino. Her father was a soldier, and Laura was born three months after the
+  outbreak of civil war in Chile. With her husband in arms, and herself and her infant in peril, Laura's mother moved
+  across the Andes to raise the girl in Las Laj
+image: https://upload.wikimedia.org/wikipedia/commons/3/32/Laura_Vicu%C3%B1a_2.jpg
 birthYear: 1891
 deathYear: 1904
-born: "5 April 1891 in at Santiago, Chile"
-died: "22 January 1904 at Junín de los Andes, Neuquén, Argentina"
-birthPlace: "Chile"
-deathPlace: "Neuquén, Argentina"
-region: "Argentina"
+born: 5 April 1891 in at Santiago, Chile
+died: 22 January 1904 at Junín de los Andes, Neuquén, Argentina
+birthPlace: Chile
+deathPlace: Neuquén, Argentina
+region: Argentina
 feastDay:
   month: 1
   day: 22
@@ -18,15 +21,16 @@ vocation:
   - Bishop
   - Priest
   - Confessor
-religiousOrder: "Salesian"
+religiousOrder: Salesian
 patronage:
-  - "abuse victims"
-  - "against incest"
-  - "against the death of parents"
-  - "Argentina"
-  - "incest victims"
-  - "martyrs"
+  - abuse victims
+  - against incest
+  - against the death of parents
+  - Argentina
+  - incest victims
+  - martyrs
 martyr: false
+prayers: []
 ---
 
 Daughter of Jose Domingo Vicuña and Mercedes Pino. Her father was a soldier, and Laura was born three months after the outbreak of civil war in Chile. With her husband in arms, and herself and her infant in peril, Laura's mother moved across the Andes to raise the girl in Las Lajas, Argentina. Laura's father was killed soon after, and to survive, Mercedes became the mistress and common-law wife of a man named Manuel Mora.

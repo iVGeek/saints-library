@@ -1,12 +1,12 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Paregorius of Patara"
+name: Saint Paregorius of Patara
 honorific: Saint
-summary: "Martyr. No other information has survived."
+summary: Martyr. No other information has survived.
 deathYear: 260
-died: "260 at Patara, Lycia"
-deathPlace: "Lycia"
-region: "England"
+died: 260 at Patara, Lycia
+deathPlace: Lycia
+region: England
 feastDay:
   month: 2
   day: 18
@@ -15,6 +15,7 @@ vocation:
   - Priest
   - Monk
 martyr: true
+prayers: []
 ---
 
 Martyr. No other information has survived.

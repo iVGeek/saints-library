@@ -30,6 +30,7 @@ patronage:
   - Bruges, Belgium, city of
   - Bruges, Belgium, diocese of
 martyr: true
+prayers: []
 ---
 
 Born a prince, the son of King Saint Canute of Denmark and Adela of Flanders. After his father's murder, he was raised in the court of his maternal grandfather, Robert de Frison, Count of Flanders (part of modern Belgium. Fought in the Second Crusade. Succeeded Robert II as count of Flanders in 1119. Married into the family of the Duke of Clermont (in modern France. His rule was a continuous defense of the poor against profiteers of his time, both clerical and lay. Called the Good by popular acclamation. Reformed laws to make them more fair, supported the poor, fed the hungry, walked barefoot to Mass each day. Martyred in the church of Saint Donatian of Rheims at Bruges by Borchard, part of a conspiracy of the rich whom he had offended.

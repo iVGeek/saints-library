@@ -18,6 +18,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/a/af/SaintFlavia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Flavia of Messina
 imageCreditUrl: https://en.wikipedia.org/wiki/Flavia%20(martyr)
+prayers: []
 ---
 
 Sister of Saint Placidus of Messina. Benedictine nun. Martyr.

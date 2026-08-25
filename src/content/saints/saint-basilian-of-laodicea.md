@@ -16,6 +16,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/6/6d/Melkite_Greek_Catholic_Church%2C_Damascus%2C_Syria.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Basilian of Laodicea
 imageCreditUrl: https://en.wikipedia.org/wiki/Melkite%20Greek%20Catholic%20Church
+prayers: []
 ---
 
 Martyr. No other information has survived.

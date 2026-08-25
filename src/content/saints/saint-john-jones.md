@@ -1,34 +1,38 @@
 ---
-name: "Saint John Jones"
+name: Saint John Jones
 honorific: Venerable
-summary: " John returned to England to work with Catholic prisoners at Marshalsea Prison in London. He Born to a strong Catholic Welsh family. Joined the Franciscans in Greenwich, England. When his monastery was dissolved in 1559, he travelled to France to study. Ordained at Rheims, France."
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-John-Jones-and-Blessed-John-Wall.jpg"
+summary: ' John returned to England to work with Catholic prisoners at Marshalsea Prison in London. He Born to a strong Catholic Welsh family. Joined the Franciscans in Greenwich, England. When his monastery was dissolved in 1559, he travelled to France to study. Ordained at Rheims, France.'
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-John-Jones-and-Blessed-John-Wall.jpg
 searchAliases:
-  - "Godefride Moritius"
-  - "Godefridus Mauritius"
-  - "Godfrey Maurice"
-  - "Godfrey Jones"
-  - "Griffith Jones"
-  - "Gryffith Jones\nJohn Buckley"
-  - "John Griffith"
-  - "Robert Buckley"
-  - "Robertus Jonus"
+  - Godefride Moritius
+  - Godefridus Mauritius
+  - Godfrey Maurice
+  - Godfrey Jones
+  - Griffith Jones
+  - |-
+    Gryffith Jones
+    John Buckley
+  - John Griffith
+  - Robert Buckley
+  - Robertus Jonus
 birthYear: 1559
 deathYear: 1598
-born: "1559 in Clynog-Fawr, Carnarvonshire, Wales"
-died: "hanged, drawn, and quartered in the early morning of 12 July 1598 at Southwark, London, England"
-birthPlace: "Carnarvonshire, Wales"
-deathPlace: "drawn, and quarteredthe early morning of 12 July 1598 at Southwark, London, England"
-region: "France"
+born: 1559 in Clynog-Fawr, Carnarvonshire, Wales
+died: hanged, drawn, and quartered in the early morning of 12 July 1598 at Southwark, London, England
+birthPlace: Carnarvonshire, Wales
+deathPlace: drawn, and quarteredthe early morning of 12 July 1598 at Southwark, London, England
+region: France
 feastDay:
   month: 7
   day: 12
-centuries: [16]
+centuries:
+  - 16
 canonizationStatus: Venerable
 vocation:
   - Priest
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 martyr: true
+prayers: []
 ---
 
 Born to a strong Catholic Welsh family. Joined the Franciscans in Greenwich, England. When his monastery was dissolved in 1559, he travelled to France to study. Ordained at Rheims, France.

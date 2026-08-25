@@ -1,17 +1,19 @@
 ---
-name: "Blessed Giuseppe Baldo"
+name: Blessed Giuseppe Baldo
 honorific: Blessed
-summary: "Sixth of nine children. Priest in the archdiocese of Verona, Italy. Founded the Sisters of Charity of Saint Mary in 1882. Founded the Little Sisters of Saint Joseph in 1894."
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Giuseppe-Baldo.jpg"
+summary: >-
+  Sixth of nine children. Priest in the archdiocese of Verona, Italy. Founded the Sisters of Charity of Saint Mary in
+  1882. Founded the Little Sisters of Saint Joseph in 1894.
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Giuseppe-Baldo.jpg
 searchAliases:
-  - "Joseph Baldo"
+  - Joseph Baldo
 birthYear: 1843
 deathYear: 1915
-born: "19 February 1843 in Puegnago, Brescia, Italy"
-died: "24 October 1915 in Ronco all'Adige, Verona, Italy of natural causes"
-birthPlace: "Brescia, Italy"
-deathPlace: "Verona, Italynatural causes"
-region: "Italy"
+born: 19 February 1843 in Puegnago, Brescia, Italy
+died: 24 October 1915 in Ronco all'Adige, Verona, Italy of natural causes
+birthPlace: Brescia, Italy
+deathPlace: Verona, Italynatural causes
+region: Italy
 feastDay:
   month: 10
   day: 24
@@ -20,6 +22,7 @@ vocation:
   - Priest
   - Religious
 martyr: false
+prayers: []
 ---
 
 Sixth of nine children. Priest in the archdiocese of Verona, Italy. Founded the Sisters of Charity of Saint Mary in 1882. Founded the Little Sisters of Saint Joseph in 1894.

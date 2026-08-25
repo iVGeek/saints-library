@@ -1,13 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Thomas Bathe"
+name: Blessed Thomas Bathe
 honorific: Blessed
-summary: "Priest in the archdiocese of Armagh, Ireland. One of the Irish Martyrs."
+summary: Priest in the archdiocese of Armagh, Ireland. One of the Irish Martyrs.
 deathYear: 1649
-born: "Irish"
-died: "martyred on 11 September 1649 in Drogheda, Louth, Ireland"
-deathPlace: "Louth, Ireland"
-region: "Ireland"
+born: Irish
+died: martyred on 11 September 1649 in Drogheda, Louth, Ireland
+deathPlace: Louth, Ireland
+region: Ireland
 feastDay:
   month: 9
   day: 11
@@ -15,6 +15,7 @@ canonizationStatus: Blessed
 vocation:
   - Priest
 martyr: true
+prayers: []
 ---
 
 Priest in the archdiocese of Armagh, Ireland. One of the Irish Martyrs.

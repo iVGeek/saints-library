@@ -1,25 +1,31 @@
 ---
-name: "Saint Gaetano Errico"
+name: Saint Gaetano Errico
 honorific: Venerable
-summary: "Second of nine children born to Pasquale, a pasta factory manager, and Marie Marseglia Errico, who worked weaving plush. A good child, pious, always ready to help his father at work, or his mother with his younger siblings. He felt a call to the priesthood at age fourteen. He was"
-image: "https://upload.wikimedia.org/wikipedia/commons/0/06/Cayetano_ovalo.jpg"
+summary: >-
+  Second of nine children born to Pasquale, a pasta factory manager, and Marie Marseglia Errico, who worked weaving
+  plush. A good child, pious, always ready to help his father at work, or his mother with his younger siblings. He felt
+  a call to the priesthood at age fourteen. He was
+image: https://upload.wikimedia.org/wikipedia/commons/0/06/Cayetano_ovalo.jpg
 birthYear: 1791
 deathYear: 1860
-born: "19 October 1791 in Secondigliano, Naples, Italy"
-died: "10am 29 October 1860 in Secondigliano, Naples, Italy of natural causes"
-birthPlace: "Naples, Italy"
-deathPlace: "Naples, Italynatural causes"
-region: "France"
+born: 19 October 1791 in Secondigliano, Naples, Italy
+died: 10am 29 October 1860 in Secondigliano, Naples, Italy of natural causes
+birthPlace: Naples, Italy
+deathPlace: Naples, Italynatural causes
+region: France
 feastDay:
   month: 10
   day: 29
-centuries: [18, 19]
+centuries:
+  - 18
+  - 19
 canonizationStatus: Venerable
 vocation:
   - Bishop
   - Priest
-religiousOrder: "Capuchin"
+religiousOrder: Capuchin
 martyr: false
+prayers: []
 ---
 
 Second of nine children born to Pasquale, a pasta factory manager, and Marie Marseglia Errico, who worked weaving plush. A good child, pious, always ready to help his father at work, or his mother with his younger siblings. He felt a call to the priesthood at age fourteen. He was turned away by the Capuchins and Redemptorists due to his youth. Studied at a diocesan seminary in Naples, Italy from age sixteen, walking the five miles to class each day, and was ordained on 23 September 1815 in Naples.

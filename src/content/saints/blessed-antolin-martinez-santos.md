@@ -17,6 +17,7 @@ canonizationStatus: Blessed
 vocation: []
 religiousOrder: Dominican
 martyr: true
+prayers: []
 ---
 
 Dominican novice. Martyred in the Spanish Civil War.

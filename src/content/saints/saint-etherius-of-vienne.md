@@ -1,15 +1,15 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Etherius of Vienne"
+name: Saint Etherius of Vienne
 honorific: Saint
-summary: "Seventh-century bishop of Vienne, France."
+summary: Seventh-century bishop of Vienne, France.
 searchAliases:
-  - "Aetherius"
-  - "Eterio"
-  - "Ethère"
+  - Aetherius
+  - Eterio
+  - Ethère
 deathYear: 626
-died: "626 of natural causes"
-region: "France"
+died: 626 of natural causes
+region: France
 feastDay:
   month: 6
   day: 14
@@ -18,6 +18,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Seventh-century bishop of Vienne, France.

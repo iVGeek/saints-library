@@ -1,24 +1,27 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Barbara Ko Sun-I"
+name: Saint Barbara Ko Sun-I
 honorific: Venerable
-summary: "Married lay woman in the apostolic vicariate of Korea. Martyr."
+summary: Married lay woman in the apostolic vicariate of Korea. Martyr.
 searchAliases:
-  - "Bareubara Go Sun-I"
+  - Bareubara Go Sun-I
 birthYear: 1798
 deathYear: 1839
-born: "1798 in Seoul, South Korea"
-died: "beheaded on 29 December 1839 at the Small West Gate, Seoul, South Korea"
-birthPlace: "South Korea"
-deathPlace: "Seoul, South Korea"
-region: "Korea"
+born: 1798 in Seoul, South Korea
+died: beheaded on 29 December 1839 at the Small West Gate, Seoul, South Korea
+birthPlace: South Korea
+deathPlace: Seoul, South Korea
+region: Korea
 feastDay:
   month: 12
   day: 29
-centuries: [18, 19]
+centuries:
+  - 18
+  - 19
 canonizationStatus: Venerable
 vocation: []
 martyr: true
+prayers: []
 ---
 
 Married lay woman in the apostolic vicariate of Korea. Martyr.

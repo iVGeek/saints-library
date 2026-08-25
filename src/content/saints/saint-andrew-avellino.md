@@ -33,6 +33,7 @@ patronage:
   - Naples, Italy
   - Sicily, Italy
 martyr: true
+prayers: []
 ---
 
 Studied humanities and philosophy at Venice, Italy. Doctor of civil and ecclesiastical law. Ordained at age 26.

@@ -1,15 +1,17 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Cilinia"
+name: Saint Cilinia
 honorific: Saint
-summary: "Born to the nobility, and married to Emilius, count of Laon. Blind. Mother of Saint Principius of Soissons and Saint Remigius of Rheims."
+summary: >-
+  Born to the nobility, and married to Emilius, count of Laon. Blind. Mother of Saint Principius of Soissons and Saint
+  Remigius of Rheims.
 searchAliases:
-  - "Celina"
-  - "Céline"
+  - Celina
+  - Céline
 deathYear: 458
-died: "c.458 in Laon, France of natural causes"
-deathPlace: "Francenatural causes"
-region: "France"
+died: c.458 in Laon, France of natural causes
+deathPlace: Francenatural causes
+region: France
 feastDay:
   month: 10
   day: 21
@@ -17,6 +19,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: false
+prayers: []
 ---
 
 Born to the nobility, and married to Emilius, count of Laon. Blind. Mother of Saint Principius of Soissons and Saint Remigius of Rheims.

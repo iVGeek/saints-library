@@ -1,17 +1,21 @@
 ---
-name: "Blessed Anne-Alexandre-Charles-Marie Lanfant"
+name: Blessed Anne-Alexandre-Charles-Marie Lanfant
 honorific: Blessed
-summary: "Born to a middle-class family, Alexandre studied at Trinity College in Lyon, France, then became a Jesuits novice on 7 September 1741 at age 15 in Avignon, France. He taught grammar, rhetoric and humanities in several schools in the French cities of Aix, Besan&ccedil;on and Marse"
-image: "http://catholicsaints.info/wp-content/gallery/blessed-anne-alexandre-charles-marie-lanfant/blessed-anne-alexandre-charles-marie-lanfant-01.jpg"
+summary: >-
+  Born to a middle-class family, Alexandre studied at Trinity College in Lyon, France, then became a Jesuits novice on 7
+  September 1741 at age 15 in Avignon, France. He taught grammar, rhetoric and humanities in several schools in the
+  French cities of Aix, Besan&ccedil;on and Marse
+image: >-
+  http://catholicsaints.info/wp-content/gallery/blessed-anne-alexandre-charles-marie-lanfant/blessed-anne-alexandre-charles-marie-lanfant-01.jpg
 searchAliases:
-  - "Father Alexander Charles Lanfant"
+  - Father Alexander Charles Lanfant
 birthYear: 1726
 deathYear: 1792
-born: "9 September 1726 in Lyons, Rhône, France"
-died: "beheaded on 2 September 1792 at the Abbey of St-Germain-des-Prés, Paris, France"
-birthPlace: "Rhône, France"
-deathPlace: "Paris, France"
-region: "Austria"
+born: 9 September 1726 in Lyons, Rhône, France
+died: beheaded on 2 September 1792 at the Abbey of St-Germain-des-Prés, Paris, France
+birthPlace: Rhône, France
+deathPlace: Paris, France
+region: Austria
 feastDay:
   month: 9
   day: 2
@@ -19,8 +23,9 @@ canonizationStatus: Blessed
 vocation:
   - Priest
   - Confessor
-religiousOrder: "Jesuit"
+religiousOrder: Jesuit
 martyr: true
+prayers: []
 ---
 
 Born to a middle-class family, Alexandre studied at Trinity College in Lyon, France, then became a Jesuits novice on 7 September 1741 at age 15 in Avignon, France. He taught grammar, rhetoric and humanities in several schools in the French cities of Aix, Besan&ccedil;on and Marseille, studying theology all the while. Ordained a priest in 1759. He made his solemn profession in the Jesuits in 1760 in Macon, France, and soon became a noted preacher of parish missions in the region of Nancy, France.

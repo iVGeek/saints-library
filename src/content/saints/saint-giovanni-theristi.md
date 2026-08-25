@@ -1,24 +1,27 @@
 ---
-name: "Saint Giovanni Theristi"
+name: Saint Giovanni Theristi
 honorific: Saint
-summary: "When his mother was pregnant with “Giovanni” (we don't know his birth name), she was enslaved and taken to Palermo, Sicily by Saracen raiders; his father, Arconte di Cursano, a farmer, was killed in the same attack. His mother raised Giovanni as a Christian as best she could, tho"
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-John-Theristi.jpg"
+summary: >-
+  When his mother was pregnant with “Giovanni” (we don't know his birth name), she was enslaved and taken to Palermo,
+  Sicily by Saracen raiders; his father, Arconte di Cursano, a farmer, was killed in the same attack. His mother raised
+  Giovanni as a Christian as best she could, tho
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-John-Theristi.jpg
 searchAliases:
-  - "Giovanni the Reaper"
-  - "Giovanni the Harvester"
-  - "Giovanni Terestes"
-  - "Giovanni Teresti"
-  - "Giovanni Theristis"
-  - "Giovanni Theristus"
-  - "Giovanni of Palermo"
-  - "John…"
+  - Giovanni the Reaper
+  - Giovanni the Harvester
+  - Giovanni Terestes
+  - Giovanni Teresti
+  - Giovanni Theristis
+  - Giovanni Theristus
+  - Giovanni of Palermo
+  - John…
 birthYear: 995
 deathYear: 1054
-born: "between 995 and 1049 (records vary) in Palermo, Italy"
-died: "between 1054 and 1129 (records vary) in Stilo, Italy of natural causes"
-birthPlace: "Italy"
-deathPlace: "Italynatural causes"
-region: "Italy"
+born: between 995 and 1049 (records vary) in Palermo, Italy
+died: between 1054 and 1129 (records vary) in Stilo, Italy of natural causes
+birthPlace: Italy
+deathPlace: Italynatural causes
+region: Italy
 feastDay:
   month: 2
   day: 23
@@ -27,10 +30,11 @@ vocation:
   - Bishop
   - Priest
   - Monk
-religiousOrder: "Redemptorist"
+religiousOrder: Redemptorist
 patronage:
-  - "Stilo, Italy"
+  - Stilo, Italy
 martyr: false
+prayers: []
 ---
 
 When his mother was pregnant with “Giovanni” (we don't know his birth name), she was enslaved and taken to Palermo, Sicily by Saracen raiders; his father, Arconte di Cursano, a farmer, was killed in the same attack. His mother raised Giovanni as a Christian as best she could, though there were no churches or clergy in the Saracen controlled area. At age 14, Giovanni escaped from Sicily in a small boat, a hand-held cross as his only possession. His boat grounded at the small town of Stilo, Italy. He told the people who found him that he wanted to be Baptized, so they handed him over to their bishop. The bishop first suspected that the boy, who was dressed as a Moor, might be involved with Saracen raiding parties, but eventually realized that he was truthful, and baptized him into the faith at one of the old monastaries around the town; the bishop's name was Giovanni, and the boy took that as his new name.

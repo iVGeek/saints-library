@@ -25,6 +25,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/d/de/Drongen_-_View_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Gerulph
 imageCreditUrl: https://en.wikipedia.org/wiki/Drongen
+prayers: []
 ---
 
 Young man in Flanders, Belgium who was heir to a large estate but was drawn to spiritual life. Murdered by a relative who hoped to inherit Gerulph's wealth; Gerulph was on his way from having received the sacrament of Confirmation. As he died, Gerulph pardoned his murderer. Honoured as a martyr by the faithful in the area.

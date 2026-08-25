@@ -42,6 +42,7 @@ patronage:
   - –
   - Sint-Genesius-Rode, Belgium
 martyr: true
+prayers: []
 ---
 
 Genesius was an actor who worked in a series of plays that mocked Christianity. One day while performing in a work that made fun of Baptism he received sudden wisdom from God, realized the truth of Christianity, and had a conversion experience on stage. He announced his new faith, and refused to renounce it, even when ordered to do so by emperor Diocletian. Martyr.

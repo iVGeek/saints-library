@@ -24,6 +24,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/9/92/Monica_of_Hippo_by_Gozzoli.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Adolph of Utrecht
 imageCreditUrl: https://en.wikipedia.org/wiki/Saint%20Monica
+prayers: []
 ---
 
 Brother of Saint Botulph of Ikanhoe. Seventh-century monk. Missionary bishop to Saxony. Miracle worker.

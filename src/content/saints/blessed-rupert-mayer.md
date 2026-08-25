@@ -1,18 +1,23 @@
 ---
-name: "Blessed Rupert Mayer"
+name: Blessed Rupert Mayer
 honorific: Blessed
-summary: "Rupert grew up in a family with five children and received his basic education in Stuttgart, Germany. Feeling a call to the priesthood, he studied philosophy and theology in Freiburg, Switzerland, then in Munich and Tübingen in Germany. Ordained a priest in 1899. Assistant pastor"
-image: "https://upload.wikimedia.org/wikipedia/commons/6/64/RupertMayer.jpg"
+summary: >-
+  Rupert grew up in a family with five children and received his basic education in Stuttgart, Germany. Feeling a call
+  to the priesthood, he studied philosophy and theology in Freiburg, Switzerland, then in Munich and Tübingen in
+  Germany. Ordained a priest in 1899. Assistant pastor
+image: https://upload.wikimedia.org/wikipedia/commons/6/64/RupertMayer.jpg
 searchAliases:
-  - "The Apostle of Munich"
-  - "The Limping Priest (a result of his war injury)"
+  - The Apostle of Munich
+  - The Limping Priest (a result of his war injury)
 birthYear: 1876
 deathYear: 1945
-born: "23 January 1876 in Stuttgart, Germany"
-died: "1 November 1945 in the church of Saint Michael in Munich, Bavaria, Germany of a stroke  while preaching during morning Mass"
-birthPlace: "Germany"
-deathPlace: "Bavaria, Germanya stroke  while preaching during morning Mass"
-region: "Poland"
+born: 23 January 1876 in Stuttgart, Germany
+died: >-
+  1 November 1945 in the church of Saint Michael in Munich, Bavaria, Germany of a stroke  while preaching during morning
+  Mass
+birthPlace: Germany
+deathPlace: Bavaria, Germanya stroke  while preaching during morning Mass
+region: Poland
 feastDay:
   month: 11
   day: 1
@@ -20,8 +25,9 @@ canonizationStatus: Blessed
 vocation:
   - Priest
   - Soldier
-religiousOrder: "Jesuit"
+religiousOrder: Jesuit
 martyr: true
+prayers: []
 ---
 
 Rupert grew up in a family with five children and received his basic education in Stuttgart, Germany. Feeling a call to the priesthood, he studied philosophy and theology in Freiburg, Switzerland, then in Munich and Tübingen in Germany. Ordained a priest in 1899. Assistant pastor in Spaichingen, Germany. Joined the Jesuits in Feldkirch, Vorarlberg, Austria in 1900. From 1906 to 1912, he travelled around Germany, Switzerland and the Netherlands, preaching parish missions. In 1912 he was assigned to Munich where he worked with migrants who had come to the city looking for work.

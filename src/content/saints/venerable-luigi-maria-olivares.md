@@ -1,24 +1,28 @@
 ---
-name: "Venerable Luigi Maria Olivares"
+name: Venerable Luigi Maria Olivares
 honorific: Venerable
-summary: "Ordained on 4 April 1896. Joined the Salesians of Don Bosco on 15 November 1905. Bishop of Nepi e Sutri, Italy on 15 July 1916."
-image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Luigi-Maria-Olivares.jpg"
+summary: >-
+  Ordained on 4 April 1896. Joined the Salesians of Don Bosco on 15 November 1905. Bishop of Nepi e Sutri, Italy on 15
+  July 1916.
+image: http://catholicsaints.info/wp-content/uploads/img-Venerable-Luigi-Maria-Olivares.jpg
 searchAliases:
-  - "Luis Olivares"
+  - Luis Olivares
 birthYear: 1873
-born: "18 October 1873 in Corbetta, Milan, Italy"
-birthPlace: "Milan, Italy"
-region: "Italy"
+born: 18 October 1873 in Corbetta, Milan, Italy
+birthPlace: Milan, Italy
+region: Italy
 feastDay:
   month: 4
   day: 4
-centuries: [19]
+centuries:
+  - 19
 canonizationStatus: Venerable
 vocation:
   - Bishop
   - Priest
-religiousOrder: "Salesian"
+religiousOrder: Salesian
 martyr: false
+prayers: []
 ---
 
 Ordained on 4 April 1896. Joined the Salesians of Don Bosco on 15 November 1905. Bishop of Nepi e Sutri, Italy on 15 July 1916.

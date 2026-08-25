@@ -1,8 +1,10 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Thorette"
+name: Saint Thorette
 honorific: Saint
-summary: "Worked as a shepherdess most of her life. Lived as a hermitess late in life. In both states she spent most of her time in prayer."
+summary: >-
+  Worked as a shepherdess most of her life. Lived as a hermitess late in life. In both states she spent most of her time
+  in prayer.
 feastDay:
   month: 5
   day: 1
@@ -11,6 +13,7 @@ vocation:
   - Monk
   - Hermit
 martyr: false
+prayers: []
 ---
 
 Worked as a shepherdess most of her life. Lived as a hermitess late in life. In both states she spent most of her time in prayer.

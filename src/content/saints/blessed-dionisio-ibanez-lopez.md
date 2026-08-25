@@ -1,17 +1,17 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Dionisio Ibáñez López"
+name: Blessed Dionisio Ibáñez López
 honorific: Blessed
-summary: "Monk. Member of the Hospitallers of Saint John of God. Martyred in the Spanish Civil War."
+summary: Monk. Member of the Hospitallers of Saint John of God. Martyred in the Spanish Civil War.
 searchAliases:
-  - "Cruz"
+  - Cruz
 birthYear: 1886
 deathYear: 1936
-born: "3 January 1886 in Sabíñan, Zaragoza, Spain"
-died: "4 October 1936 in La Malvarrosa, Valencia, Spain"
-birthPlace: "Zaragoza, Spain"
-deathPlace: "Valencia, Spain"
-region: "Spain"
+born: 3 January 1886 in Sabíñan, Zaragoza, Spain
+died: 4 October 1936 in La Malvarrosa, Valencia, Spain
+birthPlace: Zaragoza, Spain
+deathPlace: Valencia, Spain
+region: Spain
 feastDay:
   month: 10
   day: 4
@@ -19,6 +19,7 @@ canonizationStatus: Blessed
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Monk. Member of the Hospitallers of Saint John of God. Martyred in the Spanish Civil War.

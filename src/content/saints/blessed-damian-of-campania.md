@@ -1,19 +1,20 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Damian of Campania"
+name: Blessed Damian of Campania
 honorific: Blessed
-summary: "Franciscan Friar Minor."
+summary: Franciscan Friar Minor.
 searchAliases:
-  - "Damiano"
-  - "Damianus"
+  - Damiano
+  - Damianus
 feastDay:
   month: 6
   day: 28
 canonizationStatus: Blessed
 vocation:
   - Monk
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 martyr: false
+prayers: []
 ---
 
 Franciscan Friar Minor.

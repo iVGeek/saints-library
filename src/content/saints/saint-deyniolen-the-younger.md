@@ -1,17 +1,17 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Deyniolen the Younger"
+name: Saint Deyniolen the Younger
 honorific: Saint
-summary: "Abbot in Bangor Abbey in Wales."
+summary: Abbot in Bangor Abbey in Wales.
 searchAliases:
-  - "Deyniolen of Bangor"
-  - "Daniel…"
-  - "Dayniol…"
-  - "Deiniol…"
-  - "Deyniolin…"
+  - Deyniolen of Bangor
+  - Daniel…
+  - Dayniol…
+  - Deiniol…
+  - Deyniolin…
 deathYear: 621
-died: "621"
-region: "England"
+died: '621'
+region: England
 feastDay:
   month: 11
   day: 22
@@ -19,6 +19,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: false
+prayers: []
 ---
 
 Abbot in Bangor Abbey in Wales.

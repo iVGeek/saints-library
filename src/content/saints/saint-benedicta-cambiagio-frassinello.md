@@ -1,32 +1,38 @@
 ---
-name: "Saint Benedicta Cambiagio Frassinello"
+name: Saint Benedicta Cambiagio Frassinello
 honorific: Venerable
-summary: "Daughter of Giuseppe and Francesca Cambiagio, she grew up in Pavia, Italy. At the age of 20 she had a profound mystical experience that left her devoted to prayer and desiring a religious life. However, to go along with her family's wishes, she married Giovanni Battista Frassinel"
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Benedicta-Cambiagio-Frassinello.jpg"
+summary: >-
+  Daughter of Giuseppe and Francesca Cambiagio, she grew up in Pavia, Italy. At the age of 20 she had a profound
+  mystical experience that left her devoted to prayer and desiring a religious life. However, to go along with her
+  family's wishes, she married Giovanni Battista Frassinel
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Benedicta-Cambiagio-Frassinello.jpg
 searchAliases:
-  - "Benedetta Cambiagio Frassinello"
-  - "Benedikta Frassinello"
-  - "Benedetta Cambiagio"
+  - Benedetta Cambiagio Frassinello
+  - Benedikta Frassinello
+  - Benedetta Cambiagio
 birthYear: 1791
 deathYear: 1858
-born: "2 October 1791 at Langasco, Campomorone, Italy as Benedetta Cambiagio"
-died: "21 March 1858 at Ronco Scrivia, Italy of natural causes"
-birthPlace: "Campomorone, Italy as Benedetta Cambiagio"
-deathPlace: "Italynatural causes"
-region: "France"
+born: 2 October 1791 at Langasco, Campomorone, Italy as Benedetta Cambiagio
+died: 21 March 1858 at Ronco Scrivia, Italy of natural causes
+birthPlace: Campomorone, Italy as Benedetta Cambiagio
+deathPlace: Italynatural causes
+region: France
 feastDay:
   month: 3
   day: 21
-centuries: [18, 19]
+centuries:
+  - 18
+  - 19
 canonizationStatus: Venerable
 vocation:
   - Bishop
   - Priest
   - Religious
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 patronage:
-  - "Benedictine Sisters of Providence"
+  - Benedictine Sisters of Providence
 martyr: false
+prayers: []
 ---
 
 Daughter of Giuseppe and Francesca Cambiagio, she grew up in Pavia, Italy. At the age of 20 she had a profound mystical experience that left her devoted to prayer and desiring a religious life. However, to go along with her family's wishes, she married Giovanni Battista Frassinella on 7 February 1816. The couple had a normal married life for two years, but Giovanni, impressed with Benedicta's holiness and desire for religious life, agreed to live continently. The two took care of Benedicta's little sister Maria until the girl's death from intestinal cancer in 1825. Giovanni then joined the Somaschan Fathers, Benedicta became an Ursuline nun.

@@ -1,14 +1,14 @@
 ---
-name: "Saint Maximus of Evreux"
+name: Saint Maximus of Evreux
 honorific: Saint
-summary: "Brother of Saint Victorinus of Evreux. Missionary to Gaul, sent by Pope Damasus I. Martyr."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Mauxe.jpg"
+summary: Brother of Saint Victorinus of Evreux. Missionary to Gaul, sent by Pope Damasus I. Martyr.
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Mauxe.jpg
 searchAliases:
-  - "Mauxe"
+  - Mauxe
 deathYear: 384
-died: "c.384 bear Evreaux, France"
-deathPlace: "France"
-region: "France"
+died: c.384 bear Evreaux, France
+deathPlace: France
+region: France
 feastDay:
   month: 5
   day: 25
@@ -18,6 +18,7 @@ vocation:
   - Monk
   - Missionary
 martyr: true
+prayers: []
 ---
 
 Brother of Saint Victorinus of Evreux. Missionary to Gaul, sent by Pope Damasus I. Martyr.

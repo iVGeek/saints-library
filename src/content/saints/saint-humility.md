@@ -31,6 +31,7 @@ patronage:
     Faenza
   - Vallombrosa
 martyr: false
+prayers: []
 ---
 
 Born to a wealthy family. Married at age 15 to a nobleman named Ugoletto. Mother of two, both of whom died in infancy. In 1250 Ugoletto was nearly killed, an event made both of them examine their lives and enter the double monastery of Saint Perpetua near Faenza, Italy, Ugoletto as a lay-brother, Rosanna as a nun, taking the name Sister Humility. Spiritual student of Saint Crispin. Lived as a hermitess in a cell for twelve years near the church of Saint Apollinaris. Founded the convent of Santa Maria Novella on Malta, the first Vallombrosan convent for nuns, and served as its abbess. Founded a second convent at Florence, Italy, and lived her remaining years there.

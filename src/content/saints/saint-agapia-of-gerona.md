@@ -24,6 +24,7 @@ imageCredit: >-
   </bdi>
 imageCreditUrl: >-
   https://commons.wikimedia.org/wiki/File:Porte%20Appia%20ou%20Saint-S%C3%A9bastien%20-%20(It.I.A.b.73)%20-%20(It.I.A.b.73).jpg
+prayers: []
 ---
 
 Martyr. No other details have survived.

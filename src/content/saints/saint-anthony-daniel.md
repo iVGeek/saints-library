@@ -30,6 +30,7 @@ martyr: true
 lifeEvents:
   - year: '1601'
     event: Born at Dieppe.
+prayers: []
 ---
 
 Joined the Jesuits in Rome, Italy on 1 October 1621. Ordained in 1629. Missionary to Canada in 1632, stationed at Cape Breton and Bias-d’or Lakes. Missionary to the Huron at Ihonatiria from July 1634 until his death. Founded the first boy’s college in North America at Quebec in 1635. Murdered just outside the chapel in which he had just celebrated Mass. Martyr.

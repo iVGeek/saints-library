@@ -1,14 +1,16 @@
 ---
-name: "Saint Vindemialis of Africa"
+name: Saint Vindemialis of Africa
 honorific: Saint
-summary: "Bishop of Gafsa, Nicomedia (in modern Turkey) who stayed loyal to orthodox Christianity and opposed Arianism. Tortured and martyred by order of the Arian Vandal king Hunneric."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Vindemialis-of-Africa.jpg"
+summary: >-
+  Bishop of Gafsa, Nicomedia (in modern Turkey) who stayed loyal to orthodox Christianity and opposed Arianism. Tortured
+  and martyred by order of the Arian Vandal king Hunneric.
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Vindemialis-of-Africa.jpg
 searchAliases:
-  - "Vendemiale"
-  - "Vindemial"
+  - Vendemiale
+  - Vindemial
 deathYear: 485
-died: "beheaded c.485"
-region: "Turkey"
+died: beheaded c.485
+region: Turkey
 feastDay:
   month: 5
   day: 2
@@ -17,6 +19,7 @@ vocation:
   - Bishop
   - Monk
 martyr: true
+prayers: []
 ---
 
 Bishop of Gafsa, Nicomedia (in modern Turkey) who stayed loyal to orthodox Christianity and opposed Arianism. Tortured and martyred by order of the Arian Vandal king Hunneric.

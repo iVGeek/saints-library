@@ -1,12 +1,15 @@
 ---
-name: "Saint Victoria"
+name: Saint Victoria
 honorific: Saint
-summary: "Beautiful Roman Christian noblewoman. Sister of Saint Anatolia. The two sisters were set for arranged marriages to noble Roman pagans, and were hesitant. Victoria argued that it would be all right as the patriarchs in the Old Testament had been married; but Anatolia cited other e"
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Victoria.jpg"
+summary: >-
+  Beautiful Roman Christian noblewoman. Sister of Saint Anatolia. The two sisters were set for arranged marriages to
+  noble Roman pagans, and were hesitant. Victoria argued that it would be all right as the patriarchs in the Old
+  Testament had been married; but Anatolia cited other e
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Victoria.jpg
 deathYear: 250
-died: "stabbed through the heart in 250 by the executioner Liliarcus at Tabulana, Italy"
-deathPlace: "Italy"
-region: "Italy"
+died: stabbed through the heart in 250 by the executioner Liliarcus at Tabulana, Italy
+deathPlace: Italy
+region: Italy
 feastDay:
   month: 7
   day: 10
@@ -16,29 +19,33 @@ vocation:
   - Priest
   - Religious
 patronage:
-  - "against earthquakes"
-  - "against lightning"
-  - "against severe weather"
-  - "—"
-  - "in Italy\n\nAggius"
-  - "Anticoli Corrado"
-  - "Carsoli"
-  - "Castilenti"
-  - "Guardiabruna"
-  - "Monteleone Sabino"
-  - "Pietraferrazzana"
-  - "Pisoniano"
-  - "Poggio Sannita"
-  - "Posta Fibreno"
-  - "Santa Vittoria d'Alba"
-  - "Santa Vittoria in Matenano"
-  - "Siligo"
-  - "Spongano"
-  - "Telti"
-  - "Thiesi"
-  - "Tissi"
-  - "Tornareccio"
+  - against earthquakes
+  - against lightning
+  - against severe weather
+  - —
+  - |-
+    in Italy
+
+    Aggius
+  - Anticoli Corrado
+  - Carsoli
+  - Castilenti
+  - Guardiabruna
+  - Monteleone Sabino
+  - Pietraferrazzana
+  - Pisoniano
+  - Poggio Sannita
+  - Posta Fibreno
+  - Santa Vittoria d'Alba
+  - Santa Vittoria in Matenano
+  - Siligo
+  - Spongano
+  - Telti
+  - Thiesi
+  - Tissi
+  - Tornareccio
 martyr: true
+prayers: []
 ---
 
 Beautiful Roman Christian noblewoman. Sister of Saint Anatolia. The two sisters were set for arranged marriages to noble Roman pagans, and were hesitant. Victoria argued that it would be all right as the patriarchs in the Old Testament had been married; but Anatolia cited other examples to prove that for the holiest lives, they should devote themselves to God and stay single. Victoria was convinced, sold her jewelry, gave the money to the poor, and refused to go through with the wedding to a fellow named Eugenius.

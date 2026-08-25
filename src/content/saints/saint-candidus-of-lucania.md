@@ -16,6 +16,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/5/57/Roman_Empire_-_Cyprus_%28125_AD%29.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Candidus of Lucania
 imageCreditUrl: https://en.wikipedia.org/wiki/Roman%20Cyprus
+prayers: []
 ---
 
 Martyr.

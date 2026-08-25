@@ -1,15 +1,15 @@
 ---
-name: "Saint Kenelm"
+name: Saint Kenelm
 honorific: Saint
-summary: " Mentioned in the Canterbury Tales's Nun's Priest's Tale. Saint John Henr Mercian prince, the son of King Coenwulf. Venerated as a boy king and martyr in the Middle Ages, though his biography became mixed with pious legends, one of which says he was killed on orders of his sister."
-image: "https://upload.wikimedia.org/wikipedia/commons/c/c5/St_Kenelm_in_situ.jpg"
+summary: ' Mentioned in the Canterbury Tales''s Nun''s Priest''s Tale. Saint John Henr Mercian prince, the son of King Coenwulf. Venerated as a boy king and martyr in the Middle Ages, though his biography became mixed with pious legends, one of which says he was killed on orders of his sister.'
+image: https://upload.wikimedia.org/wikipedia/commons/c/c5/St_Kenelm_in_situ.jpg
 searchAliases:
-  - "Cynehelm"
-  - "Chenelmo"
+  - Cynehelm
+  - Chenelmo
 deathYear: 821
-died: "killed in battle in 821 at Clent Hills near Birmingham, England"
-deathPlace: "England"
-region: "England"
+died: killed in battle in 821 at Clent Hills near Birmingham, England
+deathPlace: England
+region: England
 feastDay:
   month: 7
   day: 17
@@ -19,9 +19,13 @@ vocation:
   - Monk
   - Religious
 patronage:
-  - "in England\n\nGloucester"
-  - "Winchcombe"
+  - |-
+    in England
+
+    Gloucester
+  - Winchcombe
 martyr: true
+prayers: []
 ---
 
 Mercian prince, the son of King Coenwulf. Venerated as a boy king and martyr in the Middle Ages, though his biography became mixed with pious legends, one of which says he was killed on orders of his sister.

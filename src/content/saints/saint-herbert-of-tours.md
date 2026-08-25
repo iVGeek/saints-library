@@ -1,12 +1,14 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Herbert of Tours"
+name: Saint Herbert of Tours
 honorific: Saint
-summary: "Monk. Abbot at Marmoutier Abbey. Archbishop of Tours, France."
+summary: Monk. Abbot at Marmoutier Abbey. Archbishop of Tours, France.
 searchAliases:
-  - "Herbert of Marmoutier\nHaberne of…."
-  - "Herbern of…."
-region: "France"
+  - |-
+    Herbert of Marmoutier
+    Haberne of….
+  - Herbern of….
+region: France
 feastDay:
   month: 10
   day: 30
@@ -15,6 +17,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Monk. Abbot at Marmoutier Abbey. Archbishop of Tours, France.

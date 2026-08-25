@@ -1,26 +1,29 @@
 ---
-name: "Saint Zygmunt Gorazdowski"
+name: Saint Zygmunt Gorazdowski
 honorific: Venerable
-summary: " Organized The Affordable P Roman Catholic in an area predominantly Greek Catholic. Suffered with respiratory problems all his life. Studied law for two years, but quit to enter the seminary at Lviv, Ukraine. Ordained in 1871. Senior priest of the parish of Saint Nicholas in Lviv."
-image: "https://upload.wikimedia.org/wikipedia/commons/4/4a/Zygmunt_Gorazdowski_%281845-1920%29.jpg"
+summary: ' Organized The Affordable P Roman Catholic in an area predominantly Greek Catholic. Suffered with respiratory problems all his life. Studied law for two years, but quit to enter the seminary at Lviv, Ukraine. Ordained in 1871. Senior priest of the parish of Saint Nicholas in Lviv.'
+image: https://upload.wikimedia.org/wikipedia/commons/4/4a/Zygmunt_Gorazdowski_%281845-1920%29.jpg
 searchAliases:
-  - "Zigmund Horazdowski"
+  - Zigmund Horazdowski
 birthYear: 1845
 deathYear: 1920
-born: "1 November 1845 at Sanok, Podkarpackie, Poland"
-died: "1 January 1920 at Lviv, L’vivs’ka oblast’, Ukraine"
-birthPlace: "Podkarpackie, Poland"
-deathPlace: "L’vivs’ka oblast’, Ukraine"
-region: "Africa"
+born: 1 November 1845 at Sanok, Podkarpackie, Poland
+died: 1 January 1920 at Lviv, L’vivs’ka oblast’, Ukraine
+birthPlace: Podkarpackie, Poland
+deathPlace: L’vivs’ka oblast’, Ukraine
+region: Africa
 feastDay:
   month: 1
   day: 1
-centuries: [19, 20]
+centuries:
+  - 19
+  - 20
 canonizationStatus: Venerable
 vocation:
   - Priest
   - Religious
 martyr: false
+prayers: []
 ---
 
 Roman Catholic in an area predominantly Greek Catholic. Suffered with respiratory problems all his life. Studied law for two years, but quit to enter the seminary at Lviv, Ukraine. Ordained in 1871. Senior priest of the parish of Saint Nicholas in Lviv.

@@ -16,6 +16,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/b/bb/Demetrius_of_Thessalonica_%28St_Michael%27s%2C_Kyiv%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Fortunatus of Thessalonica
 imageCreditUrl: https://en.wikipedia.org/wiki/Demetrius%20of%20Thessaloniki
+prayers: []
 ---
 
 Three Christians with the same name who were martyred.

@@ -37,6 +37,7 @@ patronage:
     –
     Bellante, Italy
 martyr: false
+prayers: []
 ---
 
 Studied the classics and theology in Alexandria, Egypt. Deacon, secretary, and student of bishop Alexander of Alexandria. Attended the Council of Nicea in 325 where he fought for the defeat of Arianism and acceptance of the divinity of Jesus. Formulated the doctrine of homo-ousianism which says that Christ is the same substance as the Father; Arianism taught that Christ was different from and a creation of the Father, a creature and not part of God. Bishop of Alexandria c.328; he served for 46 years. When the dispute over Arianism spilled over from theology to politics, Athanasius got exiled five times, spending more than a third of his episcopate in exile. Biographer of Saint Anthony the Abbot and Saint Potamon of Heraclea. Confessor of the faith and Doctor of the Church, he fought for the acceptance of the Nicene Creed.

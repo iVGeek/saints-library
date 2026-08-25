@@ -1,16 +1,16 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Vilfinus of Die"
+name: Saint Vilfinus of Die
 honorific: Saint
-title: "Bishop"
-summary: "Bishop of Die, France in the late 8th and early 9th centuries."
+title: Bishop
+summary: Bishop of Die, France in the late 8th and early 9th centuries.
 searchAliases:
-  - "Vilfino"
-  - "Vulfino"
-  - "Ulfino"
-  - "Vulfinus"
-  - "Vilphin"
-region: "France"
+  - Vilfino
+  - Vulfino
+  - Ulfino
+  - Vulfinus
+  - Vilphin
+region: France
 feastDay:
   month: 3
   day: 20
@@ -18,6 +18,7 @@ canonizationStatus: Saint
 vocation:
   - Bishop
 martyr: false
+prayers: []
 ---
 
 Bishop of Die, France in the late 8th and early 9th centuries.

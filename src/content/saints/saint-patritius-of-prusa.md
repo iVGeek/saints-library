@@ -1,14 +1,14 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Patritius of Prusa"
+name: Saint Patritius of Prusa
 honorific: Saint
-summary: "Bishop. Martyr. No other information has survived."
+summary: Bishop. Martyr. No other information has survived.
 searchAliases:
-  - "Patricius"
-  - "Patrick"
-died: "Prusa, Bithynia (in the northwest of modern Turkey)"
-deathPlace: "Bithynia (the northwest of modern Turkey)"
-region: "England"
+  - Patricius
+  - Patrick
+died: Prusa, Bithynia (in the northwest of modern Turkey)
+deathPlace: Bithynia (the northwest of modern Turkey)
+region: England
 feastDay:
   month: 4
   day: 28
@@ -18,6 +18,7 @@ vocation:
   - Priest
   - Monk
 martyr: true
+prayers: []
 ---
 
 Bishop. Martyr. No other information has survived.

@@ -1,16 +1,18 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Chrysole the Armenian"
+name: Saint Chrysole the Armenian
 honorific: Saint
-summary: "Fled Armenia to northeast Gaul during the persecutions of Diocletian. Spiritual student of Saint Denis of Paris. Evangelized the area of Cambrai, France and Tournai, Belgium. Bishop. Martyr."
+summary: >-
+  Fled Armenia to northeast Gaul during the persecutions of Diocletian. Spiritual student of Saint Denis of Paris.
+  Evangelized the area of Cambrai, France and Tournai, Belgium. Bishop. Martyr.
 searchAliases:
-  - "Chryseuil the Armenian"
-  - "Chrysolius the Armenian"
+  - Chryseuil the Armenian
+  - Chrysolius the Armenian
 deathYear: 300
-born: "Armenian"
-died: "c.300 in Flanders, Belgium"
-deathPlace: "Belgium"
-region: "Belgium"
+born: Armenian
+died: c.300 in Flanders, Belgium
+deathPlace: Belgium
+region: Belgium
 feastDay:
   month: 2
   day: 7
@@ -19,8 +21,9 @@ vocation:
   - Bishop
   - Monk
 patronage:
-  - "Comines, Belgium"
+  - Comines, Belgium
 martyr: true
+prayers: []
 ---
 
 Fled Armenia to northeast Gaul during the persecutions of Diocletian. Spiritual student of Saint Denis of Paris. Evangelized the area of Cambrai, France and Tournai, Belgium. Bishop. Martyr.

@@ -1,31 +1,36 @@
 ---
-name: "Saint Eustochia Calafato"
+name: Saint Eustochia Calafato
 honorific: Venerable
-summary: "Daughter of Count Bernardo and Countess Macaldo Romano Colonna, Sicilian nobles and wealthy merchants. Legend says she was born in a stable because her mother had received a vision directing her there. Raised and educated by her pious mother, the girl felt drawn to the religious"
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Eustochia-Calafato.jpg"
+summary: >-
+  Daughter of Count Bernardo and Countess Macaldo Romano Colonna, Sicilian nobles and wealthy merchants. Legend says she
+  was born in a stable because her mother had received a vision directing her there. Raised and educated by her pious
+  mother, the girl felt drawn to the religious
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Eustochia-Calafato.jpg
 searchAliases:
-  - "Eustochia Calafato de Messina"
-  - "Eustochia Montevergine"
-  - "Eustochia of Messina"
-  - "Eustochium Calafato"
-  - "Smerelda Colonna"
+  - Eustochia Calafato de Messina
+  - Eustochia Montevergine
+  - Eustochia of Messina
+  - Eustochium Calafato
+  - Smerelda Colonna
 birthYear: 1434
 deathYear: 1491
-born: "25 March (Good Friday) 1434 at Annunziata, Messina, Italy as Smerelda Colonna"
-died: "20 January 1491 at Messina, Sicily, Italy"
-birthPlace: "Messina, Italy as Smerelda Colonna"
-deathPlace: "Sicily, Italy"
-region: "Italy"
+born: 25 March (Good Friday) 1434 at Annunziata, Messina, Italy as Smerelda Colonna
+died: 20 January 1491 at Messina, Sicily, Italy
+birthPlace: Messina, Italy as Smerelda Colonna
+deathPlace: Sicily, Italy
+region: Italy
 feastDay:
   month: 1
   day: 20
-centuries: [15]
+centuries:
+  - 15
 canonizationStatus: Venerable
 vocation:
   - Priest
   - Religious
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 martyr: false
+prayers: []
 ---
 
 Daughter of Count Bernardo and Countess Macaldo Romano Colonna, Sicilian nobles and wealthy merchants. Legend says she was born in a stable because her mother had received a vision directing her there. Raised and educated by her pious mother, the girl felt drawn to the religious life from an early age.

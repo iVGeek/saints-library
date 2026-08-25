@@ -1,23 +1,27 @@
 ---
-name: "Blessed Miguel Agustin Pro"
+name: Blessed Miguel Agustin Pro
 honorific: Blessed
-summary: "Son of a mining engineer. From childhood he was known for high spirits and cheerfulness, and he grew up in a pious home. Born to privilege, he had great affinity for the poor and working classes. Victim of recurring stomach disorder. Jesuit novice at 20. Exiled during the Mexican"
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Miguel-Austin-Pro.jpg"
+summary: >-
+  Son of a mining engineer. From childhood he was known for high spirits and cheerfulness, and he grew up in a pious
+  home. Born to privilege, he had great affinity for the poor and working classes. Victim of recurring stomach disorder.
+  Jesuit novice at 20. Exiled during the Mexican
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Miguel-Austin-Pro.jpg
 birthYear: 1891
 deathYear: 1927
-born: "13 January 1891 at Guadalupe, Zacatecas, Mexico"
-died: "shot by firing squad on 23 November 1927 in Mexico City, Mexico"
-birthPlace: "Zacatecas, Mexico"
-deathPlace: "Mexico"
-region: "Mexico"
+born: 13 January 1891 at Guadalupe, Zacatecas, Mexico
+died: shot by firing squad on 23 November 1927 in Mexico City, Mexico
+birthPlace: Zacatecas, Mexico
+deathPlace: Mexico
+region: Mexico
 feastDay:
   month: 11
   day: 23
 canonizationStatus: Blessed
 vocation:
   - Priest
-religiousOrder: "Jesuit"
+religiousOrder: Jesuit
 martyr: true
+prayers: []
 ---
 
 Son of a mining engineer. From childhood he was known for high spirits and cheerfulness, and he grew up in a pious home. Born to privilege, he had great affinity for the poor and working classes. Victim of recurring stomach disorder. Jesuit novice at 20. Exiled during the Mexican Revolution, he continued his studies abroad.

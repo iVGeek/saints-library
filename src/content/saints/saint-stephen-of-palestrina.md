@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Stephen of Palestrina"
+name: Saint Stephen of Palestrina
 honorific: Saint
-summary: "Cistercian monk from the Clairvaux Abbey. Cardinal-bishop of Palestrina in 1141."
+summary: Cistercian monk from the Clairvaux Abbey. Cardinal-bishop of Palestrina in 1141.
 deathYear: 1144
-died: "1144"
-region: "Italy"
+died: '1144'
+region: Italy
 feastDay:
   month: 3
   day: 17
@@ -15,6 +15,7 @@ vocation:
   - Monk
   - Cardinal
 martyr: false
+prayers: []
 ---
 
 Cistercian monk from the Clairvaux Abbey. Cardinal–bishop of Palestrina in 1141.

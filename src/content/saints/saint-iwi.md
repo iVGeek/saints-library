@@ -1,21 +1,24 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Iwi"
+name: Saint Iwi
 honorific: Saint
-summary: "Monk of Lindisfarne Abbey. Deacon. Spiritual student of Saint Cuthbert at Lindisfarne. Following the Irish ideal of an “exile for Christ”, he took ship without bothering to ask its destination, planning to evangelize where it landed. It turned out to be Brittany, where he lived a"
+summary: >-
+  Monk of Lindisfarne Abbey. Deacon. Spiritual student of Saint Cuthbert at Lindisfarne. Following the Irish ideal of an
+  “exile for Christ”, he took ship without bothering to ask its destination, planning to evangelize where it landed. It
+  turned out to be Brittany, where he lived a
 searchAliases:
-  - "Ivi"
-  - "Ivy"
-  - "Iwigius"
-  - "Ywi"
-  - "Ywio"
-  - "Ywy"
+  - Ivi
+  - Ivy
+  - Iwigius
+  - Ywi
+  - Ywio
+  - Ywy
 deathYear: 704
-born: "7th century Northumbria, England"
-died: "6 October, c.704, exact year unknown, of natural causes"
-birthPlace: "England"
-deathPlace: "c.704, exact year unknown,natural causes"
-region: "England"
+born: 7th century Northumbria, England
+died: 6 October, c.704, exact year unknown, of natural causes
+birthPlace: England
+deathPlace: c.704, exact year unknown,natural causes
+region: England
 feastDay:
   month: 10
   day: 6
@@ -25,6 +28,7 @@ vocation:
   - Deacon
   - Hermit
 martyr: false
+prayers: []
 ---
 
 Monk of Lindisfarne Abbey. Deacon. Spiritual student of Saint Cuthbert at Lindisfarne. Following the Irish ideal of an “exile for Christ”, he took ship without bothering to ask its destination, planning to evangelize where it landed. It turned out to be Brittany, where he lived as a hermit and followed a ministry of miraculous healing.

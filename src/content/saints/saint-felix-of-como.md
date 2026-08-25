@@ -1,12 +1,12 @@
 ---
-name: "Saint Felix of Como"
+name: Saint Felix of Como
 honorific: Saint
-summary: "Friend of Saint Ambrose of Milan. Worked with Saint Probinus of Como. First bishop of Como, Italy."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Felix-of-Como.jpg"
+summary: Friend of Saint Ambrose of Milan. Worked with Saint Probinus of Como. First bishop of Como, Italy.
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Felix-of-Como.jpg
 deathYear: 390
-born: "mid-4th century"
-died: "c.390 of natural causes"
-region: "Italy"
+born: mid-4th century
+died: c.390 of natural causes
+region: Italy
 feastDay:
   month: 10
   day: 8
@@ -15,6 +15,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Friend of Saint Ambrose of Milan. Worked with Saint Probinus of Como. First bishop of Como, Italy.

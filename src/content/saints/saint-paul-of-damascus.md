@@ -1,11 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Paul of Damascus"
+name: Saint Paul of Damascus
 honorific: Saint
-summary: "Married to Saint Tatta of Damascus; father of Saint Eugenia, Saint Maximus, Saint Rufus and Saint . Tortured to death in a persecution by Roman authorities."
-died: "tortured to death in Damascus, Syria, date unknown"
-deathPlace: "Syria, date unknown"
-region: "Syria"
+summary: >-
+  Married to Saint Tatta of Damascus; father of Saint Eugenia, Saint Maximus, Saint Rufus and Saint . Tortured to death
+  in a persecution by Roman authorities.
+died: tortured to death in Damascus, Syria, date unknown
+deathPlace: Syria, date unknown
+region: Syria
 feastDay:
   month: 1
   day: 1
@@ -14,6 +16,7 @@ vocation:
   - Priest
   - Monk
 martyr: false
+prayers: []
 ---
 
 Married to Saint Tatta of Damascus; father of Saint Eugenia, Saint Maximus, Saint Rufus and Saint . Tortured to death in a persecution by Roman authorities.

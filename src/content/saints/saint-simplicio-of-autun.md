@@ -1,13 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Simplicio of Autun"
+name: Saint Simplicio of Autun
 honorific: Saint
-summary: "Born to the Frankish nobility. Married. Bishop of Autun, Gaul (in modern France)."
+summary: Born to the Frankish nobility. Married. Bishop of Autun, Gaul (in modern France).
 searchAliases:
-  - "Simplicius"
+  - Simplicius
 deathYear: 375
-died: "c.375"
-region: "France"
+died: c.375
+region: France
 feastDay:
   month: 6
   day: 24
@@ -16,6 +16,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Born to the Frankish nobility. Married. Bishop of Autun, Gaul (in modern France).

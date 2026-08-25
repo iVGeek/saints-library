@@ -1,9 +1,9 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Cyril of North Africa"
+name: Saint Cyril of North Africa
 honorific: Saint
-summary: "Bishop. Martyred in North Africa."
-region: "Africa"
+summary: Bishop. Martyred in North Africa.
+region: Africa
 feastDay:
   month: 3
   day: 8
@@ -12,6 +12,7 @@ vocation:
   - Bishop
   - Monk
 martyr: true
+prayers: []
 ---
 
 Bishop. Martyred in North Africa.

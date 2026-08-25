@@ -17,6 +17,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/e/e4/MSR-ra-73-h-1-DM.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Diogenes of Philippi
 imageCreditUrl: https://en.wikipedia.org/wiki/Philip%20II%20(Roman%20emperor)
+prayers: []
 ---
 
 Martyr.

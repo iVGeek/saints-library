@@ -20,6 +20,7 @@ vocation:
   - Priest
   - Monk
 martyr: true
+prayers: []
 ---
 
 Steward to Saint Alexius. Travelled from Rome, Italy to Tarsus, Cilicia (in modern Turkey) to recover the bodies of martyrs there. Marytred there himself.

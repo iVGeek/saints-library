@@ -17,6 +17,7 @@ vocation:
   - Monk
   - Missionary
 martyr: true
+prayers: []
 ---
 
 Second-century priest in Smyrna. Missionary in the area of Autun in Gaul (modern France), assigned by Saint Polycarp. Martyr.

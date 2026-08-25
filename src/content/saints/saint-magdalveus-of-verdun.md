@@ -1,16 +1,16 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Magdalveus of Verdun"
+name: Saint Magdalveus of Verdun
 honorific: Saint
-summary: "Benedictine Monk at Saint Vannes. Bishop of Verdun, France c.736."
+summary: Benedictine Monk at Saint Vannes. Bishop of Verdun, France c.736.
 searchAliases:
-  - "Madalveus"
-  - "Mauvé"
+  - Madalveus
+  - Mauvé
 deathYear: 776
-born: "Verdun, France"
-died: "c.776 of natural causes"
-birthPlace: "France"
-region: "France"
+born: Verdun, France
+died: c.776 of natural causes
+birthPlace: France
+region: France
 feastDay:
   month: 10
   day: 5
@@ -18,8 +18,9 @@ canonizationStatus: Saint
 vocation:
   - Bishop
   - Monk
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 martyr: false
+prayers: []
 ---
 
 Benedictine Monk at Saint Vannes. Bishop of Verdun, France c.736.

@@ -1,13 +1,13 @@
 ---
-name: "Saint Maurelius of Voghenza-Ferrara"
+name: Saint Maurelius of Voghenza-Ferrara
 honorific: Saint
-summary: " That's what we're relatively sure about. The legend writers, though, they invented all kinds of things Bishop of Voghenza, Italy, the modern titutal diocese of Vicohabentia; may have been the last bishop of that diocese before the area was joined to the diocese of Ferrara, Italy."
-image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Maurelius-of-Voghenza-Ferrara.jpg"
+summary: ' That''s what we''re relatively sure about. The legend writers, though, they invented all kinds of things Bishop of Voghenza, Italy, the modern titutal diocese of Vicohabentia; may have been the last bishop of that diocese before the area was joined to the diocese of Ferrara, Italy.'
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Maurelius-of-Voghenza-Ferrara.jpg
 searchAliases:
-  - "Maurelio"
+  - Maurelio
 deathYear: 644
-died: "7 May 644"
-region: "Italy"
+died: 7 May 644
+region: Italy
 feastDay:
   month: 5
   day: 7
@@ -16,8 +16,9 @@ vocation:
   - Bishop
   - Priest
 patronage:
-  - "Ferrara, Italy"
+  - Ferrara, Italy
 martyr: false
+prayers: []
 ---
 
 Bishop of Voghenza, Italy, the modern titutal diocese of Vicohabentia; may have been the last bishop of that diocese before the area was joined to the diocese of Ferrara, Italy.

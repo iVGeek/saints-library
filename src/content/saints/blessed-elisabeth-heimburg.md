@@ -1,12 +1,12 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Elisabeth Heimburg"
+name: Blessed Elisabeth Heimburg
 honorific: Blessed
-summary: "13th-century Dominican nun in Diessenhofen am Rhein, Thurgau, Switzerland."
+summary: 13th-century Dominican nun in Diessenhofen am Rhein, Thurgau, Switzerland.
 searchAliases:
-  - "Elisabeth Hainburg"
+  - Elisabeth Hainburg
 deathYear: 1310
-died: "c.1310"
+died: c.1310
 feastDay:
   month: 6
   day: 30
@@ -14,8 +14,9 @@ canonizationStatus: Blessed
 vocation:
   - Monk
   - Religious
-religiousOrder: "Dominican"
+religiousOrder: Dominican
 martyr: false
+prayers: []
 ---
 
 13th-century Dominican nun in Diessenhofen am Rhein, Thurgau, Switzerland.

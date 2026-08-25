@@ -1,20 +1,23 @@
 ---
-name: "Blessed Marija Petkovic"
+name: Blessed Marija Petkovic
 honorific: Blessed
-summary: "Sixth of eleven children born to Antun Petkovic-Kovac and Maria Marinovic. Raised in a wealthy family known for their charity to the poor. Educated in public elementary school and then the School of Domestic Science run by the Servants of Charity. Made her First Communion in 1905"
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Marija-Petkovic-1.jpg"
+summary: >-
+  Sixth of eleven children born to Antun Petkovic-Kovac and Maria Marinovic. Raised in a wealthy family known for their
+  charity to the poor. Educated in public elementary school and then the School of Domestic Science run by the Servants
+  of Charity. Made her First Communion in 1905
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Marija-Petkovic-1.jpg
 searchAliases:
-  - "Maria Petkovic"
-  - "Marija of Jesus Crucified Petkovic"
-  - "Marija of Jesus Crucified"
-  - "Mary of Jesus Crucified"
+  - Maria Petkovic
+  - Marija of Jesus Crucified Petkovic
+  - Marija of Jesus Crucified
+  - Mary of Jesus Crucified
 birthYear: 1892
 deathYear: 1966
-born: "10 December 1892 at Blato, Korcula, Dubrovnik-Neretva, Croatia as Maria Petkovic"
-died: "9 July 1966 in Rome, Italy of natural causes"
-birthPlace: "Korcula, Dubrovnik-Neretva, Croatia as Maria Petkovic"
-deathPlace: "Italynatural causes"
-region: "Italy"
+born: 10 December 1892 at Blato, Korcula, Dubrovnik-Neretva, Croatia as Maria Petkovic
+died: 9 July 1966 in Rome, Italy of natural causes
+birthPlace: Korcula, Dubrovnik-Neretva, Croatia as Maria Petkovic
+deathPlace: Italynatural causes
+region: Italy
 feastDay:
   month: 7
   day: 9
@@ -23,8 +26,9 @@ vocation:
   - Priest
   - Religious
   - Missionary
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 martyr: false
+prayers: []
 ---
 
 Sixth of eleven children born to Antun Petkovic-Kovac and Maria Marinovic. Raised in a wealthy family known for their charity to the poor. Educated in public elementary school and then the School of Domestic Science run by the Servants of Charity. Made her First Communion in 1905 at age 13.

@@ -1,19 +1,22 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Bagne of Terouanne"
+name: Saint Bagne of Terouanne
 honorific: Saint
-summary: "Spiritual student of Saint Wandrille. Benedictine monk at Fontenelle Abbey in Gaul (modern France). Bishop of Terouanne, France in 689. Missionary in the area of modern Calais, France. After twelve years he resigned his see and retired to Fontenelle. Elected abbot in 704. Abbot o"
+summary: >-
+  Spiritual student of Saint Wandrille. Benedictine monk at Fontenelle Abbey in Gaul (modern France). Bishop of
+  Terouanne, France in 689. Missionary in the area of modern Calais, France. After twelve years he resigned his see and
+  retired to Fontenelle. Elected abbot in 704. Abbot o
 searchAliases:
-  - "Bagne of Calais"
-  - "Bagne of Thérouanne"
-  - "Bagnus"
-  - "Bain"
-  - "Baino"
-  - "Bainus"
-  - "Baiano"
+  - Bagne of Calais
+  - Bagne of Thérouanne
+  - Bagnus
+  - Bain
+  - Baino
+  - Bainus
+  - Baiano
 deathYear: 711
-died: "c.711 of natural causes"
-region: "France"
+died: c.711 of natural causes
+region: France
 feastDay:
   month: 6
   day: 20
@@ -23,10 +26,11 @@ vocation:
   - Priest
   - Monk
   - Missionary
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 patronage:
-  - "Calais, France"
+  - Calais, France
 martyr: false
+prayers: []
 ---
 
 Spiritual student of Saint Wandrille. Benedictine monk at Fontenelle Abbey in Gaul (modern France). Bishop of Terouanne, France in 689. Missionary in the area of modern Calais, France. After twelve years he resigned his see and retired to Fontenelle. Elected abbot in 704. Abbot of Fleury Abbey.

@@ -1,14 +1,16 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Mael"
+name: Saint Mael
 honorific: Saint
-summary: "Travelled with Saint Cadfan to Wales in the 6th century. Spent the rest of his life as a hermit on the isle of Bardsey, noted for his holiness and wisdom."
+summary: >-
+  Travelled with Saint Cadfan to Wales in the 6th century. Spent the rest of his life as a hermit on the isle of
+  Bardsey, noted for his holiness and wisdom.
 searchAliases:
-  - "Mahel"
-  - "Mel"
-born: "Brittany, France"
-birthPlace: "France"
-region: "France"
+  - Mahel
+  - Mel
+born: Brittany, France
+birthPlace: France
+region: France
 feastDay:
   month: 5
   day: 13
@@ -17,6 +19,7 @@ vocation:
   - Monk
   - Hermit
 martyr: false
+prayers: []
 ---
 
 Travelled with Saint Cadfan to Wales in the 6th century. Spent the rest of his life as a hermit on the isle of Bardsey, noted for his holiness and wisdom.

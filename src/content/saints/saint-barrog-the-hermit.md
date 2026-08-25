@@ -24,6 +24,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/e/e7/Norbury_Church_Derbyshire.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Barrog the Hermit
 imageCreditUrl: https://en.wikipedia.org/wiki/Barloc%20of%20Norbury
+prayers: []
 ---
 
 Seventh century spiritual student of Saint Cadoc of Wales. Hermit on an island off the coast of Glamorgan, a piece of land now known as Barry Island in his honour.

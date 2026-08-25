@@ -1,36 +1,41 @@
 ---
-name: "Saint Marguerite Bourgeous"
+name: Saint Marguerite Bourgeous
 honorific: Venerable
-summary: "The sixth of twelve children of devout parents. When Marguerite was 19 her mother died, and the young lady cared for her younger brothers and sisters; her father died when she was twenty-seven. The family raised, Marguerite prayed to know what to do with her life. The governor of"
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Marguerite-Bourgeous.jpg"
+summary: >-
+  The sixth of twelve children of devout parents. When Marguerite was 19 her mother died, and the young lady cared for
+  her younger brothers and sisters; her father died when she was twenty-seven. The family raised, Marguerite prayed to
+  know what to do with her life. The governor of
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Marguerite-Bourgeous.jpg
 searchAliases:
-  - "Margaret Bourgeoys"
-  - "Marguerite Bourgeoys"
-  - "Marguerite Bourjeoys"
+  - Margaret Bourgeoys
+  - Marguerite Bourgeoys
+  - Marguerite Bourjeoys
 birthYear: 1620
 deathYear: 1700
-born: "17 April 1620 at Troyes, Aube, France"
-died: "12 January 1700 at Montreal, Quebec, Canada of fever"
-birthPlace: "Aube, France"
-deathPlace: "Quebec, Canadafever"
-region: "Canada"
+born: 17 April 1620 at Troyes, Aube, France
+died: 12 January 1700 at Montreal, Quebec, Canada of fever
+birthPlace: Aube, France
+deathPlace: Quebec, Canadafever
+region: Canada
 feastDay:
   month: 1
   day: 12
-centuries: [17]
+centuries:
+  - 17
 canonizationStatus: Venerable
 vocation:
   - Bishop
   - Priest
   - Religious
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 patronage:
-  - "against death of parents"
-  - "against impoverishment"
-  - "against poverty"
-  - "people rejected by religious orders"
-  - "poor people"
+  - against death of parents
+  - against impoverishment
+  - against poverty
+  - people rejected by religious orders
+  - poor people
 martyr: false
+prayers: []
 ---
 
 The sixth of twelve children of devout parents. When Marguerite was 19 her mother died, and the young lady cared for her younger brothers and sisters; her father died when she was twenty-seven. The family raised, Marguerite prayed to know what to do with her life. The governor of Montreal, Canada, was in France looking for teachers for the New World. He invited Marguerite to come to Montreal to teach school and religion classes. She agreed and spent the rest of her life in North America.

@@ -1,21 +1,22 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Silvius of Antwerp"
+name: Saint Silvius of Antwerp
 honorific: Saint
-summary: "Martyr."
+summary: Martyr.
 searchAliases:
-  - "Silvio"
-died: "2nd century Rome, Italy"
-deathPlace: "Italy"
-region: "Italy"
+  - Silvio
+died: 2nd century Rome, Italy
+deathPlace: Italy
+region: Italy
 feastDay:
   month: 3
   day: 1
 canonizationStatus: Saint
 vocation:
   - Monk
-religiousOrder: "Jesuit"
+religiousOrder: Jesuit
 martyr: true
+prayers: []
 ---
 
 Martyr.

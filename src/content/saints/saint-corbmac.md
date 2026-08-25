@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Corbmac of Durrow"
+name: Saint Corbmac of Durrow
 honorific: Saint
-summary: "Sixth century spiritual student of Saint Columba. Appointed abbot of Durrow monastery by Columba."
+summary: Sixth century spiritual student of Saint Columba. Appointed abbot of Durrow monastery by Columba.
 searchAliases:
-  - "Cormac"
-region: "England"
+  - Cormac
+region: England
 feastDay:
   month: 6
   day: 21
@@ -13,6 +13,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: false
+prayers: []
 ---
 
 Sixth century spiritual student of Saint Columba. Appointed abbot of Durrow monastery by Columba.

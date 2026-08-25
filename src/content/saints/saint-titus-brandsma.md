@@ -29,6 +29,7 @@ patronage:
   - –
   - Philippine Province of the Order of Carmelites
 martyr: true
+prayers: []
 ---
 
 A pious youth from a pious family, three of Titus's four sisters were nuns, and a brother became a Franciscan priest. Had the nickname Shorty. Good student who felt an early call to the priesthood. Entered a Franciscan minor seminary from ages 11 to 17, but health problems, primarily an intestinal disorder, prevented him becoming a Franciscan. Joined the Carmelites at Boxmeer, Netherlands, taking the name Titus, and making his first vows in 1899.

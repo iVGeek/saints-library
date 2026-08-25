@@ -1,17 +1,20 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Peter of Atroa"
+name: Saint Peter of Atroa
 honorific: Saint
-summary: "Eldest of three children. Following a message from the Blessed Virgin, he became the spiritual student of Saint Paul the Hesychast. Monk at age 18 at Crypta, Phrygia (in modern Turkey), taking the name Peter. Ordained at Zygos, Greece. On the day of his ordination he healed a pos"
+summary: >-
+  Eldest of three children. Following a message from the Blessed Virgin, he became the spiritual student of Saint Paul
+  the Hesychast. Monk at age 18 at Crypta, Phrygia (in modern Turkey), taking the name Peter. Ordained at Zygos, Greece.
+  On the day of his ordination he healed a pos
 searchAliases:
-  - "Pierre d'Atroa"
-  - "Theophylact"
+  - Pierre d'Atroa
+  - Theophylact
 birthYear: 773
 deathYear: 837
-born: "773 near Ephesus, Asia Minor (modern Turkey) as Theophylact"
-died: "1 January 837 at Atroa of natural causes while his brother monks were singing the night office"
-birthPlace: "Asia Minor (modern Turkey) as Theophylact"
-region: "Greece"
+born: 773 near Ephesus, Asia Minor (modern Turkey) as Theophylact
+died: 1 January 837 at Atroa of natural causes while his brother monks were singing the night office
+birthPlace: Asia Minor (modern Turkey) as Theophylact
+region: Greece
 feastDay:
   month: 1
   day: 1
@@ -21,6 +24,7 @@ vocation:
   - Priest
   - Confessor
 martyr: false
+prayers: []
 ---
 
 Eldest of three children. Following a message from the Blessed Virgin, he became the spiritual student of Saint Paul the Hesychast. Monk at age 18 at Crypta, Phrygia (in modern Turkey), taking the name Peter. Ordained at Zygos, Greece. On the day of his ordination he healed a possessed man at the door of the church, which was the beginning of a ministry of healing. Noted confessor, able to read the souls of his parishioners.

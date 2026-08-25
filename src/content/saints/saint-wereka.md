@@ -1,10 +1,10 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Wereka"
+name: Saint Wereka
 honorific: Saint
-summary: "Martyr. No other information has survived."
+summary: Martyr. No other information has survived.
 deathYear: 370
-died: "burned to death in their church c.370 somewhere in the Balkans"
+died: burned to death in their church c.370 somewhere in the Balkans
 feastDay:
   month: 3
   day: 26
@@ -12,6 +12,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Martyr. No other information has survived.

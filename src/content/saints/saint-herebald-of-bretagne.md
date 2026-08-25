@@ -1,13 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Herebald of Bretagne"
+name: Saint Herebald of Bretagne
 honorific: Saint
-summary: "Eighth century hermit in Brittany."
+summary: Eighth century hermit in Brittany.
 searchAliases:
-  - "Herband"
-  - "Hereband"
-born: "in Britain"
-region: "England"
+  - Herband
+  - Hereband
+born: in Britain
+region: England
 feastDay:
   month: 6
   day: 11
@@ -16,6 +16,7 @@ vocation:
   - Monk
   - Hermit
 martyr: false
+prayers: []
 ---
 
 Eighth century hermit in Brittany.

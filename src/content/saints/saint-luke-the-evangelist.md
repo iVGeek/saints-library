@@ -48,6 +48,7 @@ patronage:
   - Petrovac, Bosnia and Herzegovina
   - Stagno, Collesalvetti, Italy
 martyr: false
+prayers: []
 ---
 
 Born to pagan Greek parents, and possibly a slave. One of the earliest converts to Christianity. Physician, studying in Antioch and Tarsus. Probably travelled as a ship's doctor; many charitable societies of physicians are named for him. Legend has that he was also a painter who may have done portraits of Jesus and Mary, but none have ever been correctly or definitively attributed to him; this story, and the inspiration his Gospel has always given artists, led to his patronage of them. He met Saint Paul the Apostle at Troas, and evangelized Greece and Rome with him, being there for the shipwreck and other perils of the voyage to Rome, and stayed in Rome for Paul's two years of in prison. Wrote the Gospel According to Luke, much of which was based on the teachings and writings of Paul, interviews with early Christians, and his own experiences. Wrote a history of the early Church in the Acts of the Apostles.

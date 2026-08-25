@@ -1,15 +1,15 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Fortunatus of Camogli"
+name: Saint Fortunatus of Camogli
 honorific: Saint
-summary: "Soldier and legionaire in the imperial Roman army. Convert to Christianity. Murdered for his faith by fellow soldiers."
+summary: Soldier and legionaire in the imperial Roman army. Convert to Christianity. Murdered for his faith by fellow soldiers.
 searchAliases:
-  - "Fortunatus of Rome"
-  - "Fortunato…"
+  - Fortunatus of Rome
+  - Fortunato…
 deathYear: 1710
-died: "relics enshrined in Camogli, Italy in 1710"
-deathPlace: "Italy1710"
-region: "Italy"
+died: relics enshrined in Camogli, Italy in 1710
+deathPlace: Italy1710
+region: Italy
 feastDay:
   month: 1
   day: 1
@@ -17,8 +17,9 @@ canonizationStatus: Saint
 vocation:
   - Soldier
 patronage:
-  - "Camogli, Italy"
+  - Camogli, Italy
 martyr: false
+prayers: []
 ---
 
 Soldier and legionaire in the imperial Roman army. Convert to Christianity. Murdered for his faith by fellow soldiers.

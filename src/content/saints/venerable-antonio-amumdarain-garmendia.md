@@ -1,23 +1,26 @@
 ---
-name: "Venerable Antonio Amumdarain Garmendia"
+name: Venerable Antonio Amumdarain Garmendia
 honorific: Venerable
-summary: "Priest in the diocese of Vitoria, Spain. Founded the Instituto Secular Alianza en Jesus por Maria."
-image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Antonio-Amumdarain-Garmendia.jpg"
+summary: Priest in the diocese of Vitoria, Spain. Founded the Instituto Secular Alianza en Jesus por Maria.
+image: http://catholicsaints.info/wp-content/uploads/img-Venerable-Antonio-Amumdarain-Garmendia.jpg
 birthYear: 1885
 deathYear: 1954
-born: "26 April 1885 in Elduayen, Guipuzcoa, Spain"
-died: "19 April 1954 in Madrid, Spain of natural causes"
-birthPlace: "Guipuzcoa, Spain"
-deathPlace: "Spaof natural causes"
-region: "Spain"
+born: 26 April 1885 in Elduayen, Guipuzcoa, Spain
+died: 19 April 1954 in Madrid, Spain of natural causes
+birthPlace: Guipuzcoa, Spain
+deathPlace: Spaof natural causes
+region: Spain
 feastDay:
   month: 1
   day: 1
-centuries: [19, 20]
+centuries:
+  - 19
+  - 20
 canonizationStatus: Venerable
 vocation:
   - Priest
 martyr: false
+prayers: []
 ---
 
 Priest in the diocese of Vitoria, Spain. Founded the Instituto Secular Alianza en Jesus por Maria.

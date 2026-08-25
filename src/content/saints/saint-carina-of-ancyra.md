@@ -21,6 +21,7 @@ imageAlt: Portrait of Saint Carina of Ancyra
 imageCredit: <span class="int-own-work" lang="en">Own work</span>
 imageCreditUrl: >-
   https://commons.wikimedia.org/wiki/File:Sant'Ambrogio%20(Cassina%20Amata%2C%20Paderno%20Dugnano)%20-%20statue%20of%20Saint%20Faustinus.jpg
+prayers: []
 ---
 
 Married to Saint Melassipus of Ancyra. Mother of Saint Anthony of Ancyra. Martyred in the persecutions of Julian the Apostate.

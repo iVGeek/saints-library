@@ -1,17 +1,17 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Byblig"
+name: Saint Byblig
 honorific: Saint
-summary: "A holy man with some connection to Carnarvon, Wales. No other information has survived."
+summary: A holy man with some connection to Carnarvon, Wales. No other information has survived.
 searchAliases:
-  - "Biblig"
-  - "Peblig"
-  - "Peglig"
-  - "Piblig"
-  - "Publicius"
-born: "Welsh"
-died: "5th century"
-region: "England"
+  - Biblig
+  - Peblig
+  - Peglig
+  - Piblig
+  - Publicius
+born: Welsh
+died: 5th century
+region: England
 feastDay:
   month: 7
   day: 3
@@ -19,6 +19,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: false
+prayers: []
 ---
 
 A holy man with some connection to Carnarvon, Wales. No other information has survived.

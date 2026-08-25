@@ -1,12 +1,14 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Sofronius of Cyprus"
+name: Saint Sofronius of Cyprus
 honorific: Saint
-summary: "May have been a 6th century bishop on Cyprus, but the records of the period are all lost and all we know for certain is that his name has remained on the calendar."
+summary: >-
+  May have been a 6th century bishop on Cyprus, but the records of the period are all lost and all we know for certain
+  is that his name has remained on the calendar.
 searchAliases:
-  - "Sofronio"
-  - "Sophronius"
-region: "Italy"
+  - Sofronio
+  - Sophronius
+region: Italy
 feastDay:
   month: 12
   day: 8
@@ -15,6 +17,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 May have been a 6th century bishop on Cyprus, but the records of the period are all lost and all we know for certain is that his name has remained on the calendar.

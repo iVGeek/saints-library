@@ -1,15 +1,15 @@
 ---
-name: "Saint Alexander Briant"
+name: Saint Alexander Briant
 honorific: Saint
-summary: " Returned to Somersetshire, England as a missioner in August 1579. Arrested on Born to a yoeman family, described as a handsome young man, and raised Protestant. Studied in Oxford. Convert to Catholicism. Studied at the English College at Rheims, France. Ordained on 29 March 1578."
-image: "https://upload.wikimedia.org/wikipedia/commons/4/4f/Alexander_Briant.jpg"
+summary: ' Returned to Somersetshire, England as a missioner in August 1579. Arrested on Born to a yoeman family, described as a handsome young man, and raised Protestant. Studied in Oxford. Convert to Catholicism. Studied at the English College at Rheims, France. Ordained on 29 March 1578.'
+image: https://upload.wikimedia.org/wikipedia/commons/4/4f/Alexander_Briant.jpg
 birthYear: 1556
 deathYear: 1581
-born: "1556 at Somersetshire, England"
-died: "hanged, drawn, and quartered on 1 December 1581 at Tyburn, England"
-birthPlace: "England"
-deathPlace: "drawn, and quartered on 1 December 1581 at Tyburn, England"
-region: "France"
+born: 1556 at Somersetshire, England
+died: hanged, drawn, and quartered on 1 December 1581 at Tyburn, England
+birthPlace: England
+deathPlace: drawn, and quartered on 1 December 1581 at Tyburn, England
+region: France
 feastDay:
   month: 12
   day: 1
@@ -17,8 +17,9 @@ canonizationStatus: Saint
 vocation:
   - Priest
   - Monk
-religiousOrder: "Jesuit"
+religiousOrder: Jesuit
 martyr: true
+prayers: []
 ---
 
 Born to a yoeman family, described as a handsome young man, and raised Protestant. Studied in Oxford. Convert to Catholicism. Studied at the English College at Rheims, France. Ordained on 29 March 1578.

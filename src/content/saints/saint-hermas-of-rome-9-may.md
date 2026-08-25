@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Hermas of Rome"
+name: Saint Hermas of Rome
 honorific: Saint
-summary: "First century Roman mentioned in Saint Paul's Epistle to the Romans. Bishop of Philippi. Martyr."
+summary: First century Roman mentioned in Saint Paul's Epistle to the Romans. Bishop of Philippi. Martyr.
 searchAliases:
-  - "Erma"
-region: "Italy"
+  - Erma
+region: Italy
 feastDay:
   month: 5
   day: 9
@@ -15,6 +15,7 @@ vocation:
   - Priest
   - Monk
 martyr: true
+prayers: []
 ---
 
 First century Roman mentioned in Saint Paul's Epistle to the Romans. Bishop of Philippi. Martyr.

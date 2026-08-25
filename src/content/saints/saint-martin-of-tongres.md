@@ -13,6 +13,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Bishop of Tongres in modern Belgium. Apostle of the Hesbaye district, in Brabant.

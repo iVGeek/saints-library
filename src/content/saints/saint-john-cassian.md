@@ -23,6 +23,7 @@ vocation:
   - Monk
   - Deacon
 martyr: false
+prayers: []
 ---
 
 Pilgrim to the Holy Lands with his friend and relative Saint Germanus. Monk in Egypt and Marseilles, France. Studied under Saint John Chrysostom, who ordained him a deacon. Defended Chrysostom in Rome, Italy. Founded the abbey of Saint Victor and a convent at Marseilles. His writings were recommended by Saint Benedict as treatises on the training of monks.

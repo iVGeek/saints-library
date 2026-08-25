@@ -66,6 +66,7 @@ patronage:
     Altenburg
   - Frankfurt am Main
 martyr: true
+prayers: []
 ---
 
 One of the Twelve Apostles. Probably a close friend of Saint Philip; Bartholomew's name is always mentioned in the Gospels in connection with Philip, and it was Philip who brought Bartholomew to Jesus. May have written a gospel, now lost; it is mentioned in other writings of the time. May have preached in Asia Minor, Ethiopia, India and Armenia; some one did, leaving behind assorted writings, and local tradition says it was Bartholomew. Martyr.

@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Raynerius of Beaulieu"
+name: Saint Raynerius of Beaulieu
 honorific: Saint
-summary: "Monk at Beaulieu Abbey near Limoges, France."
+summary: Monk at Beaulieu Abbey near Limoges, France.
 searchAliases:
-  - "Raynier of Beaulieu"
-region: "France"
+  - Raynier of Beaulieu
+region: France
 feastDay:
   month: 2
   day: 22
@@ -13,6 +13,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: false
+prayers: []
 ---
 
 Monk at Beaulieu Abbey near Limoges, France.

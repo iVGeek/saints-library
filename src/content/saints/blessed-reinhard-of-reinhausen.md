@@ -1,13 +1,15 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Reinhard of Reinhausen"
+name: Blessed Reinhard of Reinhausen
 honorific: Blessed
-summary: "Monk of Helmarshausen in modern Bad Karlshafen, Germany. Monk and head of the abbey school at Stavelot, Belgium. First abbot at Reinhausen, Germany in 1130."
+summary: >-
+  Monk of Helmarshausen in modern Bad Karlshafen, Germany. Monk and head of the abbey school at Stavelot, Belgium. First
+  abbot at Reinhausen, Germany in 1130.
 searchAliases:
-  - "Reginhard"
+  - Reginhard
 deathYear: 1168
-died: "c.1168"
-region: "Belgium"
+died: c.1168
+region: Belgium
 feastDay:
   month: 3
   day: 7
@@ -15,6 +17,7 @@ canonizationStatus: Blessed
 vocation:
   - Monk
 martyr: false
+prayers: []
 ---
 
 Monk of Helmarshausen in modern Bad Karlshafen, Germany. Monk and head of the abbey school at Stavelot, Belgium. First abbot at Reinhausen, Germany in 1130.

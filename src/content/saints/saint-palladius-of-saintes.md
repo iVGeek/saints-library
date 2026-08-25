@@ -16,6 +16,7 @@ image: https://commons.wikimedia.org/wiki/Special:FilePath/Pallais_de_Saintes_%2
 vocation:
   - Bishop
 martyr: false
+prayers: []
 ---
 
 Bishop of Saintes, France in 570.

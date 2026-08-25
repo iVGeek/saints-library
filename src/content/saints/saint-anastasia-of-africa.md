@@ -14,6 +14,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/2/2b/Martyrology_of_Tallaght.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Anastasia of Africa
 imageCreditUrl: https://en.wikipedia.org/wiki/Lists%20of%20saints
+prayers: []
 ---
 
 One of a group of Christians martyred together in Africa, date unknown, exact location unknown.

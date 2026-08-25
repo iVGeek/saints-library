@@ -30,6 +30,7 @@ imageCredit: >-
   href="https://hdl.handle.net/10934/RM0001.collect.96898">https://hdl.handle.net/10934/RM0001.collect.96898</a>
 imageCreditUrl: >-
   https://commons.wikimedia.org/wiki/File:Heilige%20Amata%20van%20Assisi%20Amata%20(titel%20op%20object)%20Vrouwelijke%20kluizenaars%20(serietitel)%20Solitvdo%20sive%20vitae%20foeminarvm%20anachoritarvm%20(serietitel)%2C%20RP-P-OB-31.508.jpg
+prayers: []
 ---
 
 Niece of Saint Clare of Assisi. Friend of Saint Dominic de Guzman. After a misspent youth, and with an arranged marriage planned, Amata was miraculously healed of dropsy by her aunt Clare, and became a Poor Clare nun herself at the San Damiano monastery in 1213. She was at the death-bed of Saint Clare.

@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Luican"
+name: Saint Luican
 honorific: Saint
-summary: "Titular saint of Kill-Luicain parish, County Roscommon, Ireland. No details have survived."
+summary: Titular saint of Kill-Luicain parish, County Roscommon, Ireland. No details have survived.
 searchAliases:
-  - "Luicain"
-region: "Ireland"
+  - Luicain
+region: Ireland
 feastDay:
   month: 7
   day: 27
@@ -15,6 +15,7 @@ vocation:
   - Monk
   - Confessor
 martyr: false
+prayers: []
 ---
 
 Titular saint of Kill-Luicain parish, County Roscommon, Ireland. No details have survived.

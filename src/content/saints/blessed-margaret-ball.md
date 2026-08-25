@@ -26,6 +26,7 @@ vocation:
   - Bishop
   - Priest
 martyr: true
+prayers: []
 ---
 
 Lay women in the archdiocese of Dublin, Ireland. Married to wealth merchant Bartholomew Ball. Hid priests and bishops in her home during a period of state persecution of the Church. Her eldest son, Walter, gave in to the pressure from the authorities and became a Prostetant; when he became mayor of Dublin, assisted in the persecution of Catholics and had his mother imprisoned. One of the Irish Martyrs.

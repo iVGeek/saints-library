@@ -1,14 +1,14 @@
 ---
-name: "Saint Acacius of Miletus"
+name: Saint Acacius of Miletus
 honorific: Saint
-summary: "Bishop who was tortured and martyred in the persecutions of Licinius."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Acacius.jpg"
+summary: Bishop who was tortured and martyred in the persecutions of Licinius.
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Acacius.jpg
 searchAliases:
-  - "Acacio"
-  - "Acazio"
+  - Acacio
+  - Acazio
 deathYear: 310
-died: "beheaded c.310 at Miletus (in modern Turkey)"
-region: "Italy"
+died: beheaded c.310 at Miletus (in modern Turkey)
+region: Italy
 feastDay:
   month: 7
   day: 28
@@ -16,6 +16,7 @@ canonizationStatus: Saint
 vocation:
   - Bishop
 martyr: true
+prayers: []
 ---
 
 Bishop who was tortured and martyred in the persecutions of Licinius.

@@ -1,32 +1,33 @@
 ---
-name: "Blessed Raymond Lull"
+name: Blessed Raymond Lull
 honorific: Blessed
-summary: " Franciscan tertiary. Friend of Raymond of Penyafort Worked to convert Muslims in Seneschal, courtier and troubador at the court of King James of Aragon from about 1246. Married Blanca Picany in 1257. In 1263 he received a vision of Christ crucified, and was converted on the spot."
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Raymond-Lull.jpg"
+summary: ' Franciscan tertiary. Friend of Raymond of Penyafort Worked to convert Muslims in Seneschal, courtier and troubador at the court of King James of Aragon from about 1246. Married Blanca Picany in 1257. In 1263 he received a vision of Christ crucified, and was converted on the spot.'
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Raymond-Lull.jpg
 searchAliases:
-  - "Raymond Llull"
-  - "Raymond Lullus"
-  - "Raymond Lully"
-  - "Doctor Illuminatus"
-  - "Ramon…"
+  - Raymond Llull
+  - Raymond Lullus
+  - Raymond Lully
+  - Doctor Illuminatus
+  - Ramon…
 birthYear: 1234
 deathYear: 1315
-born: "c.1234 at Palma, Majorca, Spain"
-died: "some writers indicate he was martyred by stoning in Tunis c.1315, but there is no evidence for it"
-birthPlace: "Majorca, Spain"
-deathPlace: "but there is no evidence for it"
-region: "Germany"
+born: c.1234 at Palma, Majorca, Spain
+died: some writers indicate he was martyred by stoning in Tunis c.1315, but there is no evidence for it
+birthPlace: Majorca, Spain
+deathPlace: but there is no evidence for it
+region: Germany
 feastDay:
   month: 6
   day: 30
 canonizationStatus: Blessed
 vocation:
   - Missionary
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 patronage:
-  - "Majorca, Spain"
-  - "Montpellier, France"
+  - Majorca, Spain
+  - Montpellier, France
 martyr: true
+prayers: []
 ---
 
 Seneschal, courtier and troubador at the court of King James of Aragon from about 1246. Married Blanca Picany in 1257. In 1263 he received a vision of Christ crucified, and was converted on the spot.

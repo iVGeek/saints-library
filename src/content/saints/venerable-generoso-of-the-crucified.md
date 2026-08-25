@@ -1,25 +1,28 @@
 ---
 image: /placeholder-saint.svg
-name: "Venerable Generoso of the Crucified"
+name: Venerable Generoso of the Crucified
 honorific: Venerable
-summary: "Priest. Member of the Congregation of the Passion of Jesus Christ."
+summary: Priest. Member of the Congregation of the Passion of Jesus Christ.
 searchAliases:
-  - "Angelo Fontanarosa"
+  - Angelo Fontanarosa
 birthYear: 1881
 deathYear: 1966
-born: "6 November 1881 in Vetralla, Italy"
-died: "9 January 1966 in Mascalucia, Italy"
-birthPlace: "Italy"
-deathPlace: "Italy"
-region: "Italy"
+born: 6 November 1881 in Vetralla, Italy
+died: 9 January 1966 in Mascalucia, Italy
+birthPlace: Italy
+deathPlace: Italy
+region: Italy
 feastDay:
   month: 1
   day: 1
-centuries: [19, 20]
+centuries:
+  - 19
+  - 20
 canonizationStatus: Venerable
 vocation:
   - Priest
 martyr: false
+prayers: []
 ---
 
 Priest. Member of the Congregation of the Passion of Jesus Christ.

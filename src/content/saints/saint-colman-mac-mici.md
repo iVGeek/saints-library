@@ -1,9 +1,9 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Colman mac Mici"
+name: Saint Colman mac Mici
 honorific: Saint
-summary: "No details about him have survived."
-region: "England"
+summary: No details about him have survived.
+region: England
 feastDay:
   month: 6
   day: 18
@@ -11,6 +11,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: false
+prayers: []
 ---
 
 No details about him have survived.

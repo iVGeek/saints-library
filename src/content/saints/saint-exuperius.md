@@ -18,6 +18,7 @@ image: >-
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 One of the Martyrs of the Theban Legion. No other information has survived.

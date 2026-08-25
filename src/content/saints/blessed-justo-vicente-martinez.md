@@ -1,22 +1,23 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Justo Vicente Martínez"
+name: Blessed Justo Vicente Martínez
 honorific: Blessed
-summary: "Dominican friar. Martyred in the Spanish Civil War."
+summary: Dominican friar. Martyred in the Spanish Civil War.
 birthYear: 1913
 deathYear: 1936
-born: "17 October 1913 in Villanázar de Valverde, Zamora, Spain"
-died: "30 July 1936 in Miguelturra, Ciudad Real, Spain"
-birthPlace: "Zamora, Spain"
-deathPlace: "Ciudad Real, Spain"
-region: "Spain"
+born: 17 October 1913 in Villanázar de Valverde, Zamora, Spain
+died: 30 July 1936 in Miguelturra, Ciudad Real, Spain
+birthPlace: Zamora, Spain
+deathPlace: Ciudad Real, Spain
+region: Spain
 feastDay:
   month: 7
   day: 30
 canonizationStatus: Blessed
 vocation: []
-religiousOrder: "Dominican"
+religiousOrder: Dominican
 martyr: true
+prayers: []
 ---
 
 Dominican friar. Martyred in the Spanish Civil War.

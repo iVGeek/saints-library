@@ -1,23 +1,29 @@
 ---
-name: "Saint Phaolô Lê Bao Tinh"
+name: Saint Phaolô Lê Bao Tinh
 honorific: Venerable
-summary: "Convert. Priest in the apostolic vicariate of West Tonkin (in modern Vietnam). Spent a long period in prison for his faith while still a seminarian. Seminary administrator. Wrote a book that compiled a catechism with a collection of homilies. Martyr."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Phaolô-Lê-Bao-Tinh.jpg"
+summary: >-
+  Convert. Priest in the apostolic vicariate of West Tonkin (in modern Vietnam). Spent a long period in prison for his
+  faith while still a seminarian. Seminary administrator. Wrote a book that compiled a catechism with a collection of
+  homilies. Martyr.
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Phaolô-Lê-Bao-Tinh.jpg
 birthYear: 1793
 deathYear: 1857
-born: "c.1793 in Trinh Hà, Thanh Hoá, Vietnam"
-died: "beheaded on 6 April 1857 in Bay Mau, Hanoi, Vietnam"
-birthPlace: "Thanh Hoá, Vietnam"
-deathPlace: "Hanoi, Vietnam"
-region: "Vietnam"
+born: c.1793 in Trinh Hà, Thanh Hoá, Vietnam
+died: beheaded on 6 April 1857 in Bay Mau, Hanoi, Vietnam
+birthPlace: Thanh Hoá, Vietnam
+deathPlace: Hanoi, Vietnam
+region: Vietnam
 feastDay:
   month: 4
   day: 6
-centuries: [18, 19]
+centuries:
+  - 18
+  - 19
 canonizationStatus: Venerable
 vocation:
   - Priest
 martyr: true
+prayers: []
 ---
 
 Convert. Priest in the apostolic vicariate of West Tonkin (in modern Vietnam). Spent a long period in prison for his faith while still a seminarian. Seminary administrator. Wrote a book that compiled a catechism with a collection of homilies. Martyr.

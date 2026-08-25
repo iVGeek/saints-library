@@ -17,6 +17,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/9/92/Lawrence-before-Valerianus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Alexander the Martyr
 imageCreditUrl: https://en.wikipedia.org/wiki/Saint%20Lawrence
+prayers: []
 ---
 
 Missionary bishop in imperial Rome. Ordered to sacrifice to pagan idols, he refused. Martyr.

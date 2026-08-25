@@ -26,6 +26,7 @@ patronage:
   - Bari-Bitonto, archdiocese of
   - Canosa di Puglia
 martyr: false
+prayers: []
 ---
 
 Bishop of Canosa, in the Apulia region of southern Italy. Friend of Saint Benedict of Narsia. Papal legate for Pope Saint Agapitus I to the court of Emperor Justinian at Constantinople from 535 to 536. Sabinus went blind in his later years.

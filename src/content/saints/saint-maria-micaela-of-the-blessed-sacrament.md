@@ -1,20 +1,25 @@
 ---
-name: "Saint María Micaela of the Blessed Sacrament"
+name: Saint María Micaela of the Blessed Sacrament
 honorific: Blessed
-summary: "The daughter of Miguel Desmaisières y Flores, a high-ranking officer in the Spanish army, and Bernarda López de Dicastillo y Olmeda, a lady-in-waiting to Queen Maria Luisa de Parma of Spain; her mother was known for her charity to the sick and poor. Her mother died when Micaela w"
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Micaela-Desmaisières-López-de-Dicastillo.jpg"
+summary: >-
+  The daughter of Miguel Desmaisières y Flores, a high-ranking officer in the Spanish army, and Bernarda López de
+  Dicastillo y Olmeda, a lady-in-waiting to Queen Maria Luisa de Parma of Spain; her mother was known for her charity to
+  the sick and poor. Her mother died when Micaela w
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Micaela-Desmaisières-López-de-Dicastillo.jpg
 searchAliases:
-  - "Micaela Desmaisières López de Dicastillo"
-  - "Maria Micaela Desmaisieres"
-  - "Maria Michela Desmaisières of the Blessed Sacrament"
-  - "María de la Soledad, Micaela, Agustina, Antonia, Bibiana, Desmaissières y López de Dicastillo, Vizcondesa de Jorbalán"
+  - Micaela Desmaisières López de Dicastillo
+  - Maria Micaela Desmaisieres
+  - Maria Michela Desmaisières of the Blessed Sacrament
+  - >-
+    María de la Soledad, Micaela, Agustina, Antonia, Bibiana, Desmaissières y López de Dicastillo, Vizcondesa de
+    Jorbalán
 birthYear: 1809
 deathYear: 1865
-born: "1 January 1809 in Madrid, Spain"
-died: "24 August 1865 in Valencia, Spain of cholera"
-birthPlace: "Spain"
-deathPlace: "Spaof cholera"
-region: "Belgium"
+born: 1 January 1809 in Madrid, Spain
+died: 24 August 1865 in Valencia, Spain of cholera
+birthPlace: Spain
+deathPlace: Spaof cholera
+region: Belgium
 feastDay:
   month: 8
   day: 24
@@ -22,6 +27,7 @@ canonizationStatus: Blessed
 vocation:
   - Confessor
 martyr: false
+prayers: []
 ---
 
 The daughter of Miguel Desmaisières y Flores, a high-ranking officer in the Spanish army, and Bernarda López de Dicastillo y Olmeda, a lady-in-waiting to Queen Maria Luisa de Parma of Spain; her mother was known for her charity to the sick and poor. Her mother died when Micaela was a young girl; her brother Diego was a Spanish ambassador, she often travelled with him, and thus she grew up in the circles of the Spanish and French nobility, the courts of the kings of Spain, France and Belgium. She was educated by Uruslines, and served as catechist to younger children. She received the title of Viscountess of Jorbalán. But even in the whirl of worldly life, she felt a pull to religious life, refused all the many offers of marriage, and spent much time in Eucharistic Adoration.

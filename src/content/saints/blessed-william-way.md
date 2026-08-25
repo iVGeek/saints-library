@@ -21,6 +21,7 @@ canonizationStatus: Blessed
 vocation:
   - Priest
 martyr: true
+prayers: []
 ---
 
 Seminarian in Reims, France. Ordained in 1586. He returned to England to minister to covert Catholics, hiding under the name William Flowers. Imprisoned and executed for the crime of priesthood. Martyr.

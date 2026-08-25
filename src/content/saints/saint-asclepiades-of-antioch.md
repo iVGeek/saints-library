@@ -14,6 +14,7 @@ vocation:
   - Bishop
   - Monk
 martyr: true
+prayers: []
 ---
 
 Bishop of Antioch in 211. Sometimes listed as a martyr due to the trials he underwent as bishop.

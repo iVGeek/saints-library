@@ -24,6 +24,7 @@ vocation:
   - Bishop
   - Priest
 martyr: false
+prayers: []
 ---
 
 As a boy he survived the politically inspired massacred of the rest of his family. Entered the Canons Regular of Santa Maria di Reno. Priest. Lived at the Saint Ambrose convent at Gubbio, Italy in 1498. His reputation for holiness attracted the humble and powerful. Repeatedly refused the archbishopric of the city.

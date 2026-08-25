@@ -1,9 +1,9 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Eusebius of Aschia"
+name: Saint Eusebius of Aschia
 honorific: Saint
-summary: "Fifth century hermit in Aschia, Syria."
-region: "Syria"
+summary: Fifth century hermit in Aschia, Syria.
+region: Syria
 feastDay:
   month: 2
   day: 15
@@ -12,6 +12,7 @@ vocation:
   - Monk
   - Hermit
 martyr: false
+prayers: []
 ---
 
 Fifth century hermit in Aschia, Syria.

@@ -1,11 +1,14 @@
 ---
-name: "Saint Begga of Andenne"
+name: Saint Begga of Andenne
 honorific: Saint
-summary: "Born to the nobility, the daughter of Saint Pepin of Landen, mayor of the palace, and Saint Ida of Nivelles. Sister of Saint Gertrude of Nivelles. Married to Ansegilius, son of Saint Arnulf of Metz. Mother of Pepin of Herstal, founder of the Carolingian dynasty of rulers in Franc"
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Begga-of-Andenne.jpg"
+summary: >-
+  Born to the nobility, the daughter of Saint Pepin of Landen, mayor of the palace, and Saint Ida of Nivelles. Sister of
+  Saint Gertrude of Nivelles. Married to Ansegilius, son of Saint Arnulf of Metz. Mother of Pepin of Herstal, founder of
+  the Carolingian dynasty of rulers in Franc
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Begga-of-Andenne.jpg
 deathYear: 693
-died: "693 at Andenne on the Meuse River in modern Belgium"
-region: "Belgium"
+died: 693 at Andenne on the Meuse River in modern Belgium
+region: Belgium
 feastDay:
   month: 12
   day: 17
@@ -15,8 +18,9 @@ vocation:
   - Monk
   - Religious
 patronage:
-  - "Andenne, Belgium"
+  - Andenne, Belgium
 martyr: false
+prayers: []
 ---
 
 Born to the nobility, the daughter of Saint Pepin of Landen, mayor of the palace, and Saint Ida of Nivelles. Sister of Saint Gertrude of Nivelles. Married to Ansegilius, son of Saint Arnulf of Metz. Mother of Pepin of Herstal, founder of the Carolingian dynasty of rulers in France, in 635, and of Martin of Laon.

@@ -38,6 +38,7 @@ patronage:
 
     Iserlohn
 martyr: true
+prayers: []
 ---
 
 Fourteen-year-old orphan, brought to Rome by his uncle, Saint Dionysius. Convert to Christianity. Martyred with Saint Nereus, Saint Achilleus, and Saint Domitilla for publicly proclaiming his faith.

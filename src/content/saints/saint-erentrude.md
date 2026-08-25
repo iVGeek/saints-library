@@ -39,6 +39,7 @@ patronage:
   - Nonnberg Abbey
   - Salzburg, Austria
 martyr: false
+prayers: []
 ---
 
 Relative of Saint Rupert of Salzburg worked with him as a missionary. Benedictine nun. First abbess at Nonnberg convent, Salzburg, a house founded by Rupert.

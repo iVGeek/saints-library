@@ -1,9 +1,9 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint George of Périgueux"
+name: Saint George of Périgueux
 honorific: Saint
-summary: "Third-century missionary priest of the Périgueux region of France."
-region: "France"
+summary: Third-century missionary priest of the Périgueux region of France.
+region: France
 feastDay:
   month: 10
   day: 25
@@ -13,6 +13,7 @@ vocation:
   - Monk
   - Missionary
 martyr: false
+prayers: []
 ---
 
 Third-century missionary priest of the Périgueux region of France.

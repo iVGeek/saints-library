@@ -1,26 +1,29 @@
 ---
-name: "Blessed Honoratus Kozminski"
+name: Blessed Honoratus Kozminski
 honorific: Blessed
-summary: "After basic education, Honoratus studied architecture at the School of Fine Arts in Warsaw, Poland. During his school years, he abandoned the faith. In 1846 he was imprisoned by the Tsarist police for political reasons; he feared a death sentence, and nearly died of typhus. This"
-image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Honoratus-Kozminski.jpg"
+summary: >-
+  After basic education, Honoratus studied architecture at the School of Fine Arts in Warsaw, Poland. During his school
+  years, he abandoned the faith. In 1846 he was imprisoned by the Tsarist police for political reasons; he feared a
+  death sentence, and nearly died of typhus. This
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Honoratus-Kozminski.jpg
 searchAliases:
-  - "Honoratus Kazminsky"
-  - "Honoratus Konzminski"
-  - "Honoratus of Biala"
-  - "Florentyn Waclaw"
-  - "Honorat…"
-  - "Honorato…"
-  - "Onorato…"
-  - "Venceslao…"
-  - "Honored…"
-  - "Wenceslaus…"
+  - Honoratus Kazminsky
+  - Honoratus Konzminski
+  - Honoratus of Biala
+  - Florentyn Waclaw
+  - Honorat…
+  - Honorato…
+  - Onorato…
+  - Venceslao…
+  - Honored…
+  - Wenceslaus…
 birthYear: 1829
 deathYear: 1916
-born: "16 October 1829 in Biala Podlaska, Poland as Wenceslaus Kozminski"
-died: "16 December 1916 in Nowe Miasto nad Pilica, Grójec, Poland of natural causes"
-birthPlace: "Poland as Wenceslaus Kozminski"
-deathPlace: "Grójec, Polandnatural causes"
-region: "Poland"
+born: 16 October 1829 in Biala Podlaska, Poland as Wenceslaus Kozminski
+died: 16 December 1916 in Nowe Miasto nad Pilica, Grójec, Poland of natural causes
+birthPlace: Poland as Wenceslaus Kozminski
+deathPlace: Grójec, Polandnatural causes
+region: Poland
 feastDay:
   month: 12
   day: 16
@@ -28,33 +31,34 @@ canonizationStatus: Blessed
 vocation:
   - Priest
   - Religious
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 patronage:
-  - "Adorers for Supplication"
-  - "Auxiliary Sisters of the Atoning Souls"
-  - "Congregation of Saint Martha"
-  - "Daughters of Mary Immaculate"
-  - "Daughters of the Most Pure Heart of Mary"
-  - "Daughters of the Mother of God"
-  - "Daughters of the Sorrowful Mother of God"
-  - "Evangelical Ladies"
-  - "Franciscan Sisters of the Suffering"
-  - "Handmaids of the Sacred Heart of Jesus of Lithuania"
-  - "Housekeepers of the Holy Family"
-  - "Little Sisters of the Immaculate Heart of Mary"
-  - "Marian Society of Priests"
-  - "Reparatrix Sisters of the Holy Face"
-  - "Secular Institute of the Handmaids of the Sacred Heart of Jesus, Messengers of Mary"
-  - "Servants of the Paralytics"
-  - "Sisters Consolers of the Sacred Heart of Jesus"
-  - "Sisters of the Sacred Name of Jesus"
-  - "Sisters Servants of Jesus"
-  - "Sisters Servants of Mary Immaculate"
-  - "Sisters Servants of the Mother of the Good Shepherd"
-  - "Sons of Our Lady of Sorrows"
-  - "Valetudinarian Sisters"
-  - "Vestiarki Sisters of Jesus"
+  - Adorers for Supplication
+  - Auxiliary Sisters of the Atoning Souls
+  - Congregation of Saint Martha
+  - Daughters of Mary Immaculate
+  - Daughters of the Most Pure Heart of Mary
+  - Daughters of the Mother of God
+  - Daughters of the Sorrowful Mother of God
+  - Evangelical Ladies
+  - Franciscan Sisters of the Suffering
+  - Handmaids of the Sacred Heart of Jesus of Lithuania
+  - Housekeepers of the Holy Family
+  - Little Sisters of the Immaculate Heart of Mary
+  - Marian Society of Priests
+  - Reparatrix Sisters of the Holy Face
+  - Secular Institute of the Handmaids of the Sacred Heart of Jesus, Messengers of Mary
+  - Servants of the Paralytics
+  - Sisters Consolers of the Sacred Heart of Jesus
+  - Sisters of the Sacred Name of Jesus
+  - Sisters Servants of Jesus
+  - Sisters Servants of Mary Immaculate
+  - Sisters Servants of the Mother of the Good Shepherd
+  - Sons of Our Lady of Sorrows
+  - Valetudinarian Sisters
+  - Vestiarki Sisters of Jesus
 martyr: false
+prayers: []
 ---
 
 After basic education, Honoratus studied architecture at the School of Fine Arts in Warsaw, Poland. During his school years, he abandoned the faith. In 1846 he was imprisoned by the Tsarist police for political reasons; he feared a death sentence, and nearly died of typhus. This led a crisis and re-examination of his faith, which led to his return to the Church and a call to religious life.

@@ -27,6 +27,7 @@ patronage:
   - Ancona, Italy
   - Ancona-Osimo, Italy, archdiocese of
 martyr: true
+prayers: []
 ---
 
 Bishop of Ancona, Italy, possibly the first. Martyred in the persecutions of Julian the Apostate, possibly while on a pilgrimage to the Holy Lands. His name has led to much speculation about his origin, about which we know nothing for sure, and many legends, some blatantly anti-Jewish, have been attached to his story.

@@ -1,10 +1,10 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Mazota of Abernethy"
+name: Saint Mazota of Abernethy
 honorific: Saint
 searchAliases:
-  - "Mayota"
-region: "Ireland"
+  - Mayota
+region: Ireland
 feastDay:
   month: 12
   day: 23
@@ -14,4 +14,5 @@ vocation:
   - Monk
   - Religious
 martyr: false
+prayers: []
 ---

@@ -13,6 +13,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/b/b1/East-Ortho-cross.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Aemilius of Sardinia
 imageCreditUrl: https://en.wikipedia.org/wiki/May%2028%20(Eastern%20Orthodox%20liturgics)
+prayers: []
 ---
 
 A church on Sardinia is dedicated to this saint, but no information about them has survived.

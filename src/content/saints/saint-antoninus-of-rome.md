@@ -1,10 +1,12 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Antoninus of Rome"
+name: Saint Antoninus of Rome
 honorific: Saint
-summary: "Imperial government executioner in the reign of Commodus. Convert who had to immediately turn his back on all his previous life."
+summary: >-
+  Imperial government executioner in the reign of Commodus. Convert who had to immediately turn his back on all his
+  previous life.
 deathYear: 186
-died: "186"
+died: '186'
 feastDay:
   month: 8
   day: 22
@@ -12,6 +14,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: false
+prayers: []
 ---
 
 Imperial government executioner in the reign of Commodus. Convert who had to immediately turn his back on all his previous life.

@@ -24,6 +24,7 @@ vocation:
   - Priest
   - Confessor
 martyr: false
+prayers: []
 ---
 
 Friend of Saint John Chrysostom. 40th pope. Brought several churches back from the Novatian heresy to orthodoxy. Helped Emperor Honorius oppose the Montanists. Settled the Arian schism at Antioch. Condemned the teachings of Pelagius, and opposed Pelagianism. Opposed Priscillianism. Reigned during the sack of Rome by Alaric the Goth in 410. Maintained the supremacy of the bishop of Rome.

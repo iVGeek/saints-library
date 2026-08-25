@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Ursicinus of Sens"
+name: Saint Ursicinus of Sens
 honorific: Saint
-summary: "Bishop of Sens, France. Fought Arianism in his diocese."
+summary: Bishop of Sens, France. Fought Arianism in his diocese.
 deathYear: 380
-died: "c.380 of natural causes"
-region: "France"
+died: c.380 of natural causes
+region: France
 feastDay:
   month: 7
   day: 24
@@ -14,6 +14,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Bishop of Sens, France. Fought Arianism in his diocese.

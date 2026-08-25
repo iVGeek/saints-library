@@ -1,9 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Crescentian of North Africa"
+name: Saint Crescentian of North Africa
 honorific: Saint
-summary: "Fifth century North African bishop exiled by the Arian Vandal king Genseric for maintaining orthodox Christianity. No other information has survived."
-region: "Africa"
+summary: >-
+  Fifth century North African bishop exiled by the Arian Vandal king Genseric for maintaining orthodox Christianity. No
+  other information has survived.
+region: Africa
 feastDay:
   month: 11
   day: 28
@@ -12,6 +14,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Fifth century North African bishop exiled by the Arian Vandal king Genseric for maintaining orthodox Christianity. No other information has survived.

@@ -1,12 +1,15 @@
 ---
-name: "Saint Placid"
+name: Saint Placid
 honorific: Saint
-summary: "Son of a patrician senator named Tertulus. Sent as a boy to study with Saint Benedict of Nursia at Subiaco, Italy, he became one of Benedict earliest followers. Friend of Saint Maurus, who saved him from drowning. Accompanied Benedict to Monte Cassino in 529, it being built on la"
-image: "https://catholicsaints.info/wp-content/uploads/img-Saints-Maurus-and-Placidus.jpg"
+summary: >-
+  Son of a patrician senator named Tertulus. Sent as a boy to study with Saint Benedict of Nursia at Subiaco, Italy, he
+  became one of Benedict earliest followers. Friend of Saint Maurus, who saved him from drowning. Accompanied Benedict
+  to Monte Cassino in 529, it being built on la
+image: https://catholicsaints.info/wp-content/uploads/img-Saints-Maurus-and-Placidus.jpg
 searchAliases:
-  - "Placido"
-  - "Placidus"
-region: "Italy"
+  - Placido
+  - Placidus
+region: Italy
 feastDay:
   month: 1
   day: 15
@@ -15,6 +18,7 @@ vocation:
   - Priest
   - Monk
 martyr: true
+prayers: []
 ---
 
 Son of a patrician senator named Tertulus. Sent as a boy to study with Saint Benedict of Nursia at Subiaco, Italy, he became one of Benedict earliest followers. Friend of Saint Maurus, who saved him from drowning. Accompanied Benedict to Monte Cassino in 529, it being built on land given to Benedict by Tertulus. Known through the second Dialogue of Saint Gregory the Great.

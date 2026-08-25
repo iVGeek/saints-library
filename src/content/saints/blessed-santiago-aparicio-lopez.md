@@ -1,23 +1,24 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Santiago Aparicio López"
+name: Blessed Santiago Aparicio López
 honorific: Blessed
-summary: "Dominican friar. Martyred in the Spanish Civil War."
+summary: Dominican friar. Martyred in the Spanish Civil War.
 birthYear: 1913
 deathYear: 1936
-born: "24 September 1913 in Revilla de Collazos, Palencia, Spain"
-died: "8 August 1936 in Manzanares, Ciudad Real, Spain"
-birthPlace: "Palencia, Spain"
-deathPlace: "Ciudad Real, Spain"
-region: "Spain"
+born: 24 September 1913 in Revilla de Collazos, Palencia, Spain
+died: 8 August 1936 in Manzanares, Ciudad Real, Spain
+birthPlace: Palencia, Spain
+deathPlace: Ciudad Real, Spain
+region: Spain
 feastDay:
   month: 8
   day: 8
 canonizationStatus: Blessed
 vocation:
   - Cardinal
-religiousOrder: "Dominican"
+religiousOrder: Dominican
 martyr: true
+prayers: []
 ---
 
 Dominican friar. Martyred in the Spanish Civil War.

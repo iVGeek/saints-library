@@ -1,27 +1,32 @@
 ---
-name: "Venerable José Torres-Padilla"
+name: Venerable José Torres-Padilla
 honorific: Venerable
-summary: "The son of Francisco de Torres Bauta and María Padilla Cabeza, José was baptized at the age of six days in the parish of Our Lady of the Assumption. He was orphaned young, with both parents dying of natural causes on the same day; he and his three brothers were raised by relative"
-image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Jose-Torres-Padilla.jpg"
+summary: >-
+  The son of Francisco de Torres Bauta and María Padilla Cabeza, José was baptized at the age of six days in the parish
+  of Our Lady of the Assumption. He was orphaned young, with both parents dying of natural causes on the same day; he
+  and his three brothers were raised by relative
+image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Jose-Torres-Padilla.jpg
 searchAliases:
-  - "El Santero"
+  - El Santero
 birthYear: 1811
 deathYear: 1878
-born: "25 August 1811 in San Sebastián de La Gomera, Santa Cruz de Tenerife, Spain"
-died: "23 April 1878 in Seville, Spain of natural causes"
-birthPlace: "Santa Cruz de Tenerife, Spain"
-deathPlace: "Spaof natural causes"
-region: "Spain"
+born: 25 August 1811 in San Sebastián de La Gomera, Santa Cruz de Tenerife, Spain
+died: 23 April 1878 in Seville, Spain of natural causes
+birthPlace: Santa Cruz de Tenerife, Spain
+deathPlace: Spaof natural causes
+region: Spain
 feastDay:
   month: 1
   day: 1
-centuries: [19]
+centuries:
+  - 19
 canonizationStatus: Venerable
 vocation:
   - Priest
   - Religious
   - Confessor
 martyr: false
+prayers: []
 ---
 
 The son of Francisco de Torres Bauta and María Padilla Cabeza, José was baptized at the age of six days in the parish of Our Lady of the Assumption. He was orphaned young, with both parents dying of natural causes on the same day; he and his three brothers were raised by relatives.

@@ -28,6 +28,7 @@ patronage:
   - Santa Giustina
   - Venice
 martyr: true
+prayers: []
 ---
 
 Young woman who took private vows of chastity and devotion to God. Martyr in the persecutions of Diocletian. Some mideaval documents describe her as a disciple of Saint Peter the Apostle, but that's impossible. She is sometimes depicted in art as a nun, but never was, and some artists may have confused her with Saint Scholastica.

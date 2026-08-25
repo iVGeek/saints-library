@@ -1,13 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Hermogenes of Syracuse"
+name: Saint Hermogenes of Syracuse
 honorific: Saint
-summary: "Martyr."
+summary: Martyr.
 searchAliases:
-  - "Ermogene"
-died: "at Syracuse, Sicily"
-deathPlace: "Sicily"
-region: "England"
+  - Ermogene
+died: at Syracuse, Sicily
+deathPlace: Sicily
+region: England
 feastDay:
   month: 4
   day: 25
@@ -15,6 +15,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Martyr.

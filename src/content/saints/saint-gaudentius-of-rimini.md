@@ -32,6 +32,7 @@ patronage:
   - Rimini, city of
   - Rimini, diocese of
 martyr: true
+prayers: []
 ---
 
 Immigrant to Rome, Italy c.308; ordained there in 332. Evangelizing bishop of Rimini, Italy in 346. Ordained Saint Marinus as deacon. Attended the Council of Rimini in 359 which condemned Arianism. Murdered by Arians. Martyr.

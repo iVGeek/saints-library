@@ -20,6 +20,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Evangelized in the area of Tarragona, Spain. Martyred in the persecutions of Diocletian.

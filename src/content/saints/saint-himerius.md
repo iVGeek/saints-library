@@ -1,16 +1,16 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Himerius"
+name: Saint Himerius
 honorific: Saint
-summary: "Monk. Hermit. Missionary to Jura district in Switzerland, which is now called Val-Saint-Imier in his honour."
+summary: Monk. Hermit. Missionary to Jura district in Switzerland, which is now called Val-Saint-Imier in his honour.
 searchAliases:
-  - "Imier"
-  - "Imerio"
-  - "Imerius"
-  - "Immer"
+  - Imier
+  - Imerio
+  - Imerius
+  - Immer
 deathYear: 610
-died: "c.610"
-region: "England"
+died: c.610
+region: England
 feastDay:
   month: 11
   day: 13
@@ -20,6 +20,7 @@ vocation:
   - Hermit
   - Missionary
 martyr: false
+prayers: []
 ---
 
 Monk. Hermit. Missionary to Jura district in Switzerland, which is now called Val-Saint-Imier in his honour.

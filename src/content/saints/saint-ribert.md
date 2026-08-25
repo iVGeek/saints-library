@@ -1,10 +1,12 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Ribert"
+name: Saint Ribert
 honorific: Saint
-summary: "Monk. Abbot of Saint-Valèry-sur-Somme, France. May have been a bishop in the Normandy and Picardy areas of modern France."
-died: "7th century"
-region: "France"
+summary: >-
+  Monk. Abbot of Saint-Valèry-sur-Somme, France. May have been a bishop in the Normandy and Picardy areas of modern
+  France.
+died: 7th century
+region: France
 feastDay:
   month: 9
   day: 15
@@ -13,6 +15,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Monk. Abbot of Saint-Valèry-sur-Somme, France. May have been a bishop in the Normandy and Picardy areas of modern France.

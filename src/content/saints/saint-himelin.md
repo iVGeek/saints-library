@@ -22,6 +22,7 @@ vocation:
   - Priest
   - Monk
 martyr: false
+prayers: []
 ---
 
 Relative of Saint Rumold. Priest. Died en route home from a pilgrimage to Rome, Italy. While he was apparently on his death bed, a young woman gave him a pitcher of water, which he turned into wine.

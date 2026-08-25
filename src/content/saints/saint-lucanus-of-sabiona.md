@@ -1,20 +1,20 @@
 ---
-name: "Saint Lucanus of Sabiona"
+name: Saint Lucanus of Sabiona
 honorific: Saint
-summary: " During a famine in 424, Bishop Lucanus permitted the consumption of dairy products in his diocese during Lent, a violation of fasting rules. Enemies denounced him to the Vatican, and Pope Celestine I ordered him to Rome Bishop of Sabiona, Italy. Possible bishop of Brixen, Italy."
-image: "https://upload.wikimedia.org/wikipedia/commons/1/14/Lukan.jpg"
+summary: ' During a famine in 424, Bishop Lucanus permitted the consumption of dairy products in his diocese during Lent, a violation of fasting rules. Enemies denounced him to the Vatican, and Pope Celestine I ordered him to Rome Bishop of Sabiona, Italy. Possible bishop of Brixen, Italy.'
+image: https://upload.wikimedia.org/wikipedia/commons/1/14/Lukan.jpg
 searchAliases:
-  - "Lucanus of Brixen"
-  - "Lucanus of Säben"
-  - "Lucano…"
-  - "Lugano…"
-  - "Lukan…"
-  - "Luxan…"
-  - "Apostle of the Dolomites"
+  - Lucanus of Brixen
+  - Lucanus of Säben
+  - Lucano…
+  - Lugano…
+  - Lukan…
+  - Luxan…
+  - Apostle of the Dolomites
 deathYear: 435
-born: "latter 4th century"
-died: "c.435"
-region: "Italy"
+born: latter 4th century
+died: c.435
+region: Italy
 feastDay:
   month: 7
   day: 20
@@ -22,11 +22,15 @@ canonizationStatus: Saint
 vocation:
   - Bishop
 patronage:
-  - "against dropsy"
-  - "–"
-  - "in Italy\n\nBrixen"
-  - "San Lugano, Truden im Naturpark"
+  - against dropsy
+  - –
+  - |-
+    in Italy
+
+    Brixen
+  - San Lugano, Truden im Naturpark
 martyr: false
+prayers: []
 ---
 
 Bishop of Sabiona, Italy. Possible bishop of Brixen, Italy.

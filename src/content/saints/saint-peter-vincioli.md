@@ -1,15 +1,17 @@
 ---
-name: "Saint Peter Vincioli"
+name: Saint Peter Vincioli
 honorific: Saint
-summary: "Architect. Priest. Monk. Abbot. Founded the monastery of Saint Peter in Perugia, Italy and oversaw both its construction and the construction or re-building of other structures in his diocese."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Peter-Vincioli.jpg"
+summary: >-
+  Architect. Priest. Monk. Abbot. Founded the monastery of Saint Peter in Perugia, Italy and oversaw both its
+  construction and the construction or re-building of other structures in his diocese.
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Peter-Vincioli.jpg
 searchAliases:
-  - "Peter of Perugia"
+  - Peter of Perugia
 deathYear: 1007
-born: "Perugia, Italy"
-died: "1007"
-birthPlace: "Italy"
-region: "Peru"
+born: Perugia, Italy
+died: '1007'
+birthPlace: Italy
+region: Peru
 feastDay:
   month: 7
   day: 10
@@ -18,8 +20,9 @@ vocation:
   - Priest
   - Monk
 patronage:
-  - "Perugia, Italy"
+  - Perugia, Italy
 martyr: false
+prayers: []
 ---
 
 Architect. Priest. Monk. Abbot. Founded the monastery of Saint Peter in Perugia, Italy and oversaw both its construction and the construction or re-building of other structures in his diocese.

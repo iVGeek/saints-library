@@ -1,14 +1,14 @@
 ---
-name: "Saint Glycerius of Milan"
+name: Saint Glycerius of Milan
 honorific: Saint
-summary: "Archbishop of Milan, Italy."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Glycerius-of-Milan.jpg"
+summary: Archbishop of Milan, Italy.
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Glycerius-of-Milan.jpg
 searchAliases:
-  - "Clicerius"
-  - "Glicerius of Milan"
+  - Clicerius
+  - Glicerius of Milan
 deathYear: 438
-died: "c.438 of natural causes"
-region: "Italy"
+died: c.438 of natural causes
+region: Italy
 feastDay:
   month: 9
   day: 20
@@ -17,6 +17,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Archbishop of Milan, Italy.

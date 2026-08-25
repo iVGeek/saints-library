@@ -1,13 +1,15 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Melas of Rhinocolura"
+name: Saint Melas of Rhinocolura
 honorific: Saint
-summary: "Bishop of Rhinocolura on the Mediterranean Sea near the boundary between Egypt and Palestine. Imprisoned and tortured by Arian heretics."
+summary: >-
+  Bishop of Rhinocolura on the Mediterranean Sea near the boundary between Egypt and Palestine. Imprisoned and tortured
+  by Arian heretics.
 searchAliases:
-  - "Melantius"
+  - Melantius
 deathYear: 385
-died: "385"
-region: "Egypt"
+died: '385'
+region: Egypt
 feastDay:
   month: 1
   day: 16
@@ -16,6 +18,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Bishop of Rhinocolura on the Mediterranean Sea near the boundary between Egypt and Palestine. Imprisoned and tortured by Arian heretics.

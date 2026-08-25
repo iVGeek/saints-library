@@ -1,15 +1,18 @@
 ---
-name: "Blessed Giovanni Giovenale Ancina"
+name: Blessed Giovanni Giovenale Ancina
 honorific: Blessed
-summary: "Born to a wealthy and politically connected family. Educated in medicine and philosophy. Noted scholar, musician, composer, music editor, and orator. Professor of medicine at the University of Turin, Italy. Private physician to the ambassador from Savoy to Rome in 1575. There he"
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Giovanni-Giovenale-Ancina.jpg"
+summary: >-
+  Born to a wealthy and politically connected family. Educated in medicine and philosophy. Noted scholar, musician,
+  composer, music editor, and orator. Professor of medicine at the University of Turin, Italy. Private physician to the
+  ambassador from Savoy to Rome in 1575. There he
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Giovanni-Giovenale-Ancina.jpg
 searchAliases:
-  - "Giovenale Ancina"
-  - "Juvenal Ancina"
+  - Giovenale Ancina
+  - Juvenal Ancina
 birthYear: 1545
-born: "19 October 1545 at Fossano, Piedmont, Italy"
-birthPlace: "Piedmont, Italy"
-region: "Italy"
+born: 19 October 1545 at Fossano, Piedmont, Italy
+birthPlace: Piedmont, Italy
+region: Italy
 feastDay:
   month: 8
   day: 30
@@ -19,8 +22,9 @@ vocation:
   - Priest
   - Monk
 patronage:
-  - "Fossano, Italy"
+  - Fossano, Italy
 martyr: false
+prayers: []
 ---
 
 Born to a wealthy and politically connected family. Educated in medicine and philosophy. Noted scholar, musician, composer, music editor, and orator. Professor of medicine at the University of Turin, Italy. Private physician to the ambassador from Savoy to Rome in 1575. There he met Saint Philip Neri and decided to follow his call to the priesthood. Worked with Saint Philip at the Congregation of the Oratory in Naples, Italy. Introduced the use of the written catechism to Saluzzo, Italy, and brought a re-birth of faith and good works in that city. Bishop of Saluzzo in 1596. Reportedly poisoned by a monk that he had chastized.

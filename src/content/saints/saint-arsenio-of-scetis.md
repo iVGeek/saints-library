@@ -17,6 +17,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/9/96/Hosios_Luka_-_Arsenios.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Arsenio of Scetis
 imageCreditUrl: https://en.wikipedia.org/wiki/Arsenius%20the%20Great
+prayers: []
 ---
 
 Deacon. Hermit at Mount Scetis, Egypt.

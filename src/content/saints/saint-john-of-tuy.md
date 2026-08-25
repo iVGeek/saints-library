@@ -1,12 +1,12 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint John of Tuy"
+name: Saint John of Tuy
 honorific: Saint
-summary: "Hermit near Tuy, Spain."
-born: "9th century Spanish Galatia"
-died: "relics enshrined in the Dominican church at Tuy, Spain"
-deathPlace: "Spain"
-region: "Spain"
+summary: Hermit near Tuy, Spain.
+born: 9th century Spanish Galatia
+died: relics enshrined in the Dominican church at Tuy, Spain
+deathPlace: Spain
+region: Spain
 feastDay:
   month: 6
   day: 24
@@ -14,8 +14,9 @@ canonizationStatus: Saint
 vocation:
   - Monk
   - Hermit
-religiousOrder: "Dominican"
+religiousOrder: Dominican
 martyr: false
+prayers: []
 ---
 
 Hermit near Tuy, Spain.

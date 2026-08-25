@@ -1,15 +1,18 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Fintán of Clonenagh"
+name: Saint Fintán of Clonenagh
 honorific: Saint
-summary: "Spiritual student of Saint Columba. Austere hermit at Clonenagh, Ireland. Many would-be students gathered around him that he founded a house for them and served as their abbot. He set such an austere example that neighboring monasteries complained they could not keep up; though h"
+summary: >-
+  Spiritual student of Saint Columba. Austere hermit at Clonenagh, Ireland. Many would-be students gathered around him
+  that he founded a house for them and served as their abbot. He set such an austere example that neighboring
+  monasteries complained they could not keep up; though h
 searchAliases:
-  - "Fintán of Clúain Ednech"
+  - Fintán of Clúain Ednech
 deathYear: 603
-born: "at Leinster, Ireland"
-died: "603 of natural causes"
-birthPlace: "Ireland"
-region: "Ireland"
+born: at Leinster, Ireland
+died: 603 of natural causes
+birthPlace: Ireland
+region: Ireland
 feastDay:
   month: 2
   day: 17
@@ -19,6 +22,7 @@ vocation:
   - Monk
   - Hermit
 martyr: false
+prayers: []
 ---
 
 Spiritual student of Saint Columba. Austere hermit at Clonenagh, Ireland. Many would-be students gathered around him that he founded a house for them and served as their abbot. He set such an austere example that neighboring monasteries complained they could not keep up; though he was very severe on himself, Fintan was known to be gentle and forgiving with others. Spiritual teacher of Saint Comgall of Bangor.

@@ -1,10 +1,10 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Wastrada"
+name: Saint Wastrada
 honorific: Saint
-summary: "Mother of Saint Gregory of Utrecht. In her later years she became a nun."
+summary: Mother of Saint Gregory of Utrecht. In her later years she became a nun.
 deathYear: 760
-died: "c.760 of natural causes"
+died: c.760 of natural causes
 feastDay:
   month: 7
   day: 21
@@ -13,6 +13,7 @@ vocation:
   - Monk
   - Religious
 martyr: false
+prayers: []
 ---
 
 Mother of Saint Gregory of Utrecht. In her later years she became a nun.

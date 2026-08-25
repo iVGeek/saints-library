@@ -1,19 +1,22 @@
 ---
-name: "Blessed Marie-Louise Trichet"
+name: Blessed Marie-Louise Trichet
 honorific: Blessed
-summary: "The fourth of eight children born to Julien, a court magistrate, and Françoise Lecocq, a notably pious mother; one of Marie-Louise's brothers became a priest, one of her sisters a nun; her eldest sister, Jeanne, was paralyzed at the age of 13, but was cured at 16 during a pilgrim"
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Marie-Louise-Trichet.jpg"
+summary: >-
+  The fourth of eight children born to Julien, a court magistrate, and Françoise Lecocq, a notably pious mother; one of
+  Marie-Louise's brothers became a priest, one of her sisters a nun; her eldest sister, Jeanne, was paralyzed at the age
+  of 13, but was cured at 16 during a pilgrim
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Marie-Louise-Trichet.jpg
 searchAliases:
-  - "First Daughter of Wisdom"
-  - "Marie-Louise de Jésus"
-  - "Marie-Louise of Jesus"
+  - First Daughter of Wisdom
+  - Marie-Louise de Jésus
+  - Marie-Louise of Jesus
 birthYear: 1684
 deathYear: 1759
-born: "7 May 1684 on the Clain River in Poitiers, Vienne, France as Marie-Louise Trichet"
-died: "28 April 1759 in Saint-Laurent-sur-Sèvre, Vendée, France of natural causes"
-birthPlace: "Vienne, France as Marie-Louise Trichet"
-deathPlace: "Vendée, Francenatural causes"
-region: "Belgium"
+born: 7 May 1684 on the Clain River in Poitiers, Vienne, France as Marie-Louise Trichet
+died: 28 April 1759 in Saint-Laurent-sur-Sèvre, Vendée, France of natural causes
+birthPlace: Vienne, France as Marie-Louise Trichet
+deathPlace: Vendée, Francenatural causes
+region: Belgium
 feastDay:
   month: 4
   day: 28
@@ -22,8 +25,9 @@ vocation:
   - Priest
   - Religious
 patronage:
-  - "a href=”patrons-of-the-daughters-of-divine-wisdom”>Daughters of Divine Wisdom"
+  - a href=”patrons-of-the-daughters-of-divine-wisdom”>Daughters of Divine Wisdom
 martyr: false
+prayers: []
 ---
 
 The fourth of eight children born to Julien, a court magistrate, and Françoise Lecocq, a notably pious mother; one of Marie-Louise's brothers became a priest, one of her sisters a nun; her eldest sister, Jeanne, was paralyzed at the age of 13, but was cured at 16 during a pilgrimage to Notre Dame des Ardilliers, Saumur, France. Educated from age seven by the Sisters of Sainte Jeanne de Lestonac. From the age of seventeen, Marie-Lousie devoted herself to the care of the poor and the sick, and when she worked at the poor house in Poitiers, France, a place known as a the General Hospital, she met and began to work with Saint Louis de Montfort. On 2 February 1703, at age 18, she dedicated herself to God and moved into the Hospital, officially as an impoverished inmate, but actually to help Father Louis administer the place. With him she co-founded the Congregation of the Daughters of Wisdom, was it's first member, and served as its first leader.

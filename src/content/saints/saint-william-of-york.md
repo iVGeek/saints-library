@@ -1,25 +1,26 @@
 ---
-name: "Saint William of York"
+name: Saint William of York
 honorific: Saint
-summary: " Archbishop of York in 1140. His selection was challenged by reformers, especially a group of Ciste Son of Count Herbert, treasurer to King Henry I, and Emma, half-sister to King William. Treasurer of the church in York, England while still young. Priest. Chaplain to King Stephen."
-image: "https://catholicsaints.info/wp-content/uploads/img-Saint-William-of-York.jpg"
+summary: ' Archbishop of York in 1140. His selection was challenged by reformers, especially a group of Ciste Son of Count Herbert, treasurer to King Henry I, and Emma, half-sister to King William. Treasurer of the church in York, England while still young. Priest. Chaplain to King Stephen.'
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-William-of-York.jpg
 searchAliases:
-  - "William FitzHerbert"
-  - "William FitzHerbert of York"
-  - "William of Thwayt"
+  - William FitzHerbert
+  - William FitzHerbert of York
+  - William of Thwayt
 deathYear: 1154
-died: "June 1154"
-region: "England"
+died: June 1154
+region: England
 feastDay:
   month: 6
   day: 8
 canonizationStatus: Saint
 vocation:
   - Confessor
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 patronage:
-  - "York, England"
+  - York, England
 martyr: false
+prayers: []
 ---
 
 Son of Count Herbert, treasurer to King Henry I, and Emma, half-sister to King William. Treasurer of the church in York, England while still young. Priest. Chaplain to King Stephen.

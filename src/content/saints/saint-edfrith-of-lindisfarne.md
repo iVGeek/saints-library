@@ -1,14 +1,14 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Edfrith of Lindisfarne"
+name: Saint Edfrith of Lindisfarne
 honorific: Saint
-summary: "Bishop of Lindisfarne, England. He illuminated the Lindisfarne Gospels in honour of Saint Cuthbert."
+summary: Bishop of Lindisfarne, England. He illuminated the Lindisfarne Gospels in honour of Saint Cuthbert.
 searchAliases:
-  - "Edfrid"
-  - "Eadfrith"
+  - Edfrid
+  - Eadfrith
 deathYear: 721
-died: "721"
-region: "England"
+died: '721'
+region: England
 feastDay:
   month: 6
   day: 4
@@ -17,6 +17,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Bishop of Lindisfarne, England. He illuminated the Lindisfarne Gospels in honour of Saint Cuthbert.

@@ -1,18 +1,21 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Daig MacCairaill"
+name: Saint Daig MacCairaill
 honorific: Saint
-summary: "Spiritual student of Saint Finnian of Clonard. Bishop of Inish Cain Dega (Iniskeen or Iniskin), Ireland. He founded a monastery there, and served as its abbot. The Book of Leinster describes him as a one of the Three Master Craftsmen of Ireland, though its unclear exactly what th"
+summary: >-
+  Spiritual student of Saint Finnian of Clonard. Bishop of Inish Cain Dega (Iniskeen or Iniskin), Ireland. He founded a
+  monastery there, and served as its abbot. The Book of Leinster describes him as a one of the Three Master Craftsmen of
+  Ireland, though its unclear exactly what th
 searchAliases:
-  - "Dagaeus MacCairaill"
-  - "Daganus MacCairaill"
-  - "Daig of Inish Cain"
-  - "Daig of Iniskeen"
-  - "Daig of Iniskin"
+  - Dagaeus MacCairaill
+  - Daganus MacCairaill
+  - Daig of Inish Cain
+  - Daig of Iniskeen
+  - Daig of Iniskin
 deathYear: 586
-born: "Irish"
-died: "586"
-region: "Ireland"
+born: Irish
+died: '586'
+region: Ireland
 feastDay:
   month: 8
   day: 18
@@ -21,6 +24,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Spiritual student of Saint Finnian of Clonard. Bishop of Inish Cain Dega (Iniskeen or Iniskin), Ireland. He founded a monastery there, and served as its abbot. The Book of Leinster describes him as a one of the Three Master Craftsmen of Ireland, though its unclear exactly what this means.

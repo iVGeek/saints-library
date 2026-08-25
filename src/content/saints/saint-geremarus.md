@@ -26,6 +26,7 @@ vocation:
   - Monk
   - Hermit
 martyr: false
+prayers: []
 ---
 
 Born to the Frankish nobility, he was educated in Beauvais, France. Worked with Saint Eloi. Part of the court of King Dagobert I. Married. Father. Advisor to King Clovis II. With his wife's consent, he retired to the abbey of Pentale on the Seine in France. Abbot at Pentale, but he was so severe with his monks that a group tried to kill him. He resigned, then retired to become a hermit in a cave near the abbey. Founded Flay Abbey between Beauvais and Rouen in France in 655; it was later renamed Saint-Germer in his honour.

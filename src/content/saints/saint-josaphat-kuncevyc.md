@@ -1,22 +1,25 @@
 ---
-name: "Saint Josaphat Kuncevyc"
+name: Saint Josaphat Kuncevyc
 honorific: Saint
-summary: "His father was a municipal counselor, and his mother known for her piety. Raised in the Orthodox Ruthenian Church which, on 23 November 1595 in the Union of Brest, united with the Church of Rome. Trained as a merchant's apprentice at Vilna, Lithuania, he was offered partnership i"
-image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Josaphat-Kuncevyc-2.jpg"
+summary: >-
+  His father was a municipal counselor, and his mother known for her piety. Raised in the Orthodox Ruthenian Church
+  which, on 23 November 1595 in the Union of Brest, united with the Church of Rome. Trained as a merchant's apprentice
+  at Vilna, Lithuania, he was offered partnership i
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Josaphat-Kuncevyc-2.jpg
 searchAliases:
-  - "Giosafat Kuncewycz"
-  - "Jehoshaphat Kuncewycz"
-  - "John Kunsevich"
-  - "Josaphat Kuntsevych"
-  - "Josaphat of Polotsk"
-  - "Jozofat Kuncewicz"
+  - Giosafat Kuncewycz
+  - Jehoshaphat Kuncewycz
+  - John Kunsevich
+  - Josaphat Kuntsevych
+  - Josaphat of Polotsk
+  - Jozofat Kuncewicz
 birthYear: 1580
 deathYear: 1623
-born: "1580 at Volodymyr, Lithuania (modern Ukraine) as John Kunsevyc"
-died: "struck in the head with a halberd, shot and beaten with staves on 12 November 1623 at Vitebsk, Belarus"
-birthPlace: "Lithuania (modern Ukraine) as John Kunsevyc"
-deathPlace: "shot and beaten with staves on 12 November 1623 at Vitebsk, Belarus"
-region: "Poland"
+born: 1580 at Volodymyr, Lithuania (modern Ukraine) as John Kunsevyc
+died: struck in the head with a halberd, shot and beaten with staves on 12 November 1623 at Vitebsk, Belarus
+birthPlace: Lithuania (modern Ukraine) as John Kunsevyc
+deathPlace: shot and beaten with staves on 12 November 1623 at Vitebsk, Belarus
+region: Poland
 feastDay:
   month: 11
   day: 12
@@ -25,14 +28,15 @@ vocation:
   - Bishop
   - Priest
   - Deacon
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 patronage:
-  - "Ukraine"
-  - "–"
-  - "Edmonton, Alberta, eparchy of"
-  - "Toronto, Ontario, eparchy of"
-  - "Warsaw, Poland"
+  - Ukraine
+  - –
+  - Edmonton, Alberta, eparchy of
+  - Toronto, Ontario, eparchy of
+  - Warsaw, Poland
 martyr: true
+prayers: []
 ---
 
 His father was a municipal counselor, and his mother known for her piety. Raised in the Orthodox Ruthenian Church which, on 23 November 1595 in the Union of Brest, united with the Church of Rome. Trained as a merchant's apprentice at Vilna, Lithuania, he was offered partnership in the business, and marriage to his partner's daughter; feeling the call to religious life, he declined both. Monk in the Ukrainian Order of Saint Basil (Basilians) in Vilna at age 20 in 1604, taking the name Brother Josaphat. Deacon. Ordained a Byzantine rite priest in 1609.

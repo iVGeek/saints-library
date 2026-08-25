@@ -1,12 +1,12 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Andrew the Hermit"
+name: Saint Andrew the Hermit
 honorific: Saint
-summary: "Camaldolese hermit in Moravia and Hungary. Martyr."
+summary: Camaldolese hermit in Moravia and Hungary. Martyr.
 deathYear: 1020
-born: "Poland"
-died: "1020"
-region: "Czech Republic"
+born: Poland
+died: '1020'
+region: Czech Republic
 feastDay:
   month: 7
   day: 16
@@ -15,6 +15,7 @@ vocation:
   - Monk
   - Hermit
 martyr: true
+prayers: []
 ---
 
 Camaldolese hermit in Moravia and Hungary. Martyr.

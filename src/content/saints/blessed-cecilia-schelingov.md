@@ -1,17 +1,20 @@
 ---
-name: "Blessed Cecilia Schelingová"
+name: Blessed Cecilia Schelingová
 honorific: Blessed
-summary: "One of ten children born to Pavol Schelingov&aacute; and Zuzana P&aacute;nikov&aacute;. She received her basic education locally, and later studied nursing and radiology. Known as a pious child, she early felt a call to religious life. At age 15 she requested entry to the Congreg"
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Cecilia-Schelingova.jpg"
+summary: >-
+  One of ten children born to Pavol Schelingov&aacute; and Zuzana P&aacute;nikov&aacute;. She received her basic
+  education locally, and later studied nursing and radiology. Known as a pious child, she early felt a call to religious
+  life. At age 15 she requested entry to the Congreg
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Cecilia-Schelingova.jpg
 searchAliases:
-  - "Zdenka Schelingov&aacute;"
+  - Zdenka Schelingov&aacute;
 birthYear: 1916
 deathYear: 1955
-born: "25 December 1916 in Kriv&aacute; na Orave, Žilinský kraj, Slovakia"
-died: "31 July 1955 in Trnava, Trnavský kraj, Slovakia"
-birthPlace: "Žilinský kraj, Slovakia"
-deathPlace: "Trnavský kraj, Slovakia"
-region: "England"
+born: 25 December 1916 in Kriv&aacute; na Orave, Žilinský kraj, Slovakia
+died: 31 July 1955 in Trnava, Trnavský kraj, Slovakia
+birthPlace: Žilinský kraj, Slovakia
+deathPlace: Trnavský kraj, Slovakia
+region: England
 feastDay:
   month: 7
   day: 31
@@ -20,6 +23,7 @@ vocation:
   - Bishop
   - Priest
 martyr: false
+prayers: []
 ---
 
 One of ten children born to Pavol Schelingov&aacute; and Zuzana P&aacute;nikov&aacute;. She received her basic education locally, and later studied nursing and radiology. Known as a pious child, she early felt a call to religious life. At age 15 she requested entry to the Congregation of the Sisters of Charity of the Holy Cross, and made her first vows on 30 January 1937, taking the name Zdenka.

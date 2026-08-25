@@ -27,6 +27,7 @@ vocation:
   - Priest
   - Confessor
 martyr: false
+prayers: []
 ---
 
 Son of Enkratios, a military commander, and Euphemia; his brother and other family members were advisors to emperors. John received an excellent secular and religious education. His parents died in 471, and at age 18 John used his inheritance to build the Church of the Most Holy Mother of God in Nicopolis. By age 20 he had founded a monastery for himself and ten fellow young monks. Bishop of Colonia (Taxara) by age 28; ecclesiastical duties permitting, he continued to live as a monk.

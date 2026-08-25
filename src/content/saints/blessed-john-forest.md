@@ -1,17 +1,21 @@
 ---
-name: "Blessed John Forest"
+name: Blessed John Forest
 honorific: Blessed
-summary: "Joined the Friars Minor of the Regular Observance at Greenwich, England while in his late teens. Studied theology at the Franciscan College at Oxford, England; he was known thereafter as “Doctor”, though records of his degree have not survived. Priest and royal chaplain. Provinci"
-image: "https://upload.wikimedia.org/wikipedia/commons/d/d2/St_Etheldreda%2C_Ely_Place%2C_London_EC1_-_Nave_statue_-_geograph.org.uk_-_1613379.jpg"
+summary: >-
+  Joined the Friars Minor of the Regular Observance at Greenwich, England while in his late teens. Studied theology at
+  the Franciscan College at Oxford, England; he was known thereafter as “Doctor”, though records of his degree have not
+  survived. Priest and royal chaplain. Provinci
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/d/d2/St_Etheldreda%2C_Ely_Place%2C_London_EC1_-_Nave_statue_-_geograph.org.uk_-_1613379.jpg
 searchAliases:
-  - "John Forrest"
+  - John Forrest
 birthYear: 1471
 deathYear: 1538
-born: "1471 at Oxford, England"
-died: "hanged and burned to death on 22 May 1538 at Smithfield, England"
-birthPlace: "England"
-deathPlace: "England"
-region: "England"
+born: 1471 at Oxford, England
+died: hanged and burned to death on 22 May 1538 at Smithfield, England
+birthPlace: England
+deathPlace: England
+region: England
 feastDay:
   month: 5
   day: 22
@@ -19,8 +23,9 @@ canonizationStatus: Blessed
 vocation:
   - Priest
   - Confessor
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 martyr: true
+prayers: []
 ---
 
 Joined the Friars Minor of the Regular Observance at Greenwich, England while in his late teens. Studied theology at the Franciscan College at Oxford, England; he was known thereafter as “Doctor”, though records of his degree have not survived. Priest and royal chaplain. Provincial of the Franciscans by 1525 when he threatened excommunication to those brothers who opposed Cardinal Thomas Wosley's legatine powers. Confessor to Queen Catherine of Aragon, wife of King Henry VIII.

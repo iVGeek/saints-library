@@ -28,6 +28,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/8/81/Cath%C3%A9drale_Saint-%C3%89tienne%2C_Sens-6998.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Bond of Sens
 imageCreditUrl: https://en.wikipedia.org/wiki/Archdiocese%20of%20Sens
+prayers: []
 ---
 
 Convert. Spiritual student of Saint Artemius of Sens. Hermit in Sens, France.

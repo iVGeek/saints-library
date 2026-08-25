@@ -12,6 +12,7 @@ canonizationStatus: Blessed
 vocation: []
 religiousOrder: Benedictine
 martyr: false
+prayers: []
 ---
 
 Born to the nobility in the family of the dukes of Austrasia. Mother of Saint Trudo.

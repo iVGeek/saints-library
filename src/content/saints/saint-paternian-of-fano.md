@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Paternian of Fano"
+name: Saint Paternian of Fano
 honorific: Saint
-summary: "Fled into the mountains for a period to escape the persecutions of Diocletian. Bishop of Fano, Italy."
+summary: Fled into the mountains for a period to escape the persecutions of Diocletian. Bishop of Fano, Italy.
 deathYear: 343
-died: "c.343"
-region: "Italy"
+died: c.343
+region: Italy
 feastDay:
   month: 11
   day: 23
@@ -14,6 +14,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Fled into the mountains for a period to escape the persecutions of Diocletian. Bishop of Fano, Italy.

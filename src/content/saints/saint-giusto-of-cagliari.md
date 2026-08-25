@@ -1,21 +1,22 @@
 ---
-name: "Saint Giusto of Cagliari"
+name: Saint Giusto of Cagliari
 honorific: Saint
-summary: "Martyr."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Giusto-of-Cagliari.jpg"
+summary: Martyr.
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Giusto-of-Cagliari.jpg
 searchAliases:
-  - "Iustus"
-died: "interred in the catacombs of San Saturnino in Calgiari, Italy"
-deathPlace: "Italy"
-region: "Italy"
+  - Iustus
+died: interred in the catacombs of San Saturnino in Calgiari, Italy
+deathPlace: Italy
+region: Italy
 feastDay:
   month: 1
   day: 1
 canonizationStatus: Saint
 vocation: []
 patronage:
-  - "Misilmeri, Italy"
+  - Misilmeri, Italy
 martyr: true
+prayers: []
 ---
 
 Martyr.

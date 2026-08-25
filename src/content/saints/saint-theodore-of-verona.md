@@ -1,13 +1,15 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Theodore of Verona"
+name: Saint Theodore of Verona
 honorific: Saint
-summary: "Early 6th century bishop of Verona, Italy who was noted for tireless preaching and evangelizing to the Goths in the area."
+summary: >-
+  Early 6th century bishop of Verona, Italy who was noted for tireless preaching and evangelizing to the Goths in the
+  area.
 searchAliases:
-  - "Teodoro"
+  - Teodoro
 deathYear: 522
-died: "19 October 522 of natural causes"
-region: "Italy"
+died: 19 October 522 of natural causes
+region: Italy
 feastDay:
   month: 9
   day: 19
@@ -16,6 +18,7 @@ vocation:
   - Virgin
   - Bishop
 martyr: false
+prayers: []
 ---
 
 Early 6th century bishop of Verona, Italy who was noted for tireless preaching and evangelizing to the Goths in the area.

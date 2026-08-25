@@ -1,17 +1,17 @@
 ---
-name: "Blessed Clementina Arambarri Fuente"
+name: Blessed Clementina Arambarri Fuente
 honorific: Blessed
-summary: "Nun in the Servants of Mary, Ministers of the Sick. Martyred in the Spanish Civil War."
-image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Clementina-Arambarri-Fuente.jpg"
+summary: Nun in the Servants of Mary, Ministers of the Sick. Martyred in the Spanish Civil War.
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Clementina-Arambarri-Fuente.jpg
 searchAliases:
-  - "Sister Aurelia"
+  - Sister Aurelia
 birthYear: 1866
 deathYear: 1936
-born: "23 October 1866 in Vitoria, Álava, Spain"
-died: "7 December 1936 in Aravaca, Madrid, Spain"
-birthPlace: "Álava, Spain"
-deathPlace: "Madrid, Spain"
-region: "Spain"
+born: 23 October 1866 in Vitoria, Álava, Spain
+died: 7 December 1936 in Aravaca, Madrid, Spain
+birthPlace: Álava, Spain
+deathPlace: Madrid, Spain
+region: Spain
 feastDay:
   month: 12
   day: 5
@@ -20,6 +20,7 @@ vocation:
   - Religious
   - Cardinal
 martyr: true
+prayers: []
 ---
 
 Nun in the Servants of Mary, Ministers of the Sick. Martyred in the Spanish Civil War.

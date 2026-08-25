@@ -1,15 +1,15 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Eleutherius of Marseille"
+name: Saint Eleutherius of Marseille
 honorific: Saint
-summary: "Young martyr."
+summary: Young martyr.
 searchAliases:
-  - "Deutherius"
-  - "Eleuterius"
+  - Deutherius
+  - Eleuterius
 deathYear: 290
-died: "c.290 at the tomb of Saint Victor in Marseilles, France"
-deathPlace: "France"
-region: "France"
+died: c.290 at the tomb of Saint Victor in Marseilles, France
+deathPlace: France
+region: France
 feastDay:
   month: 7
   day: 21
@@ -17,6 +17,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Young martyr.

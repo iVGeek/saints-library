@@ -2,7 +2,9 @@
 name: Benedict of Nursia
 honorific: Saint
 title: Abbot, Father of Western Monasticism
-summary: The patriarch of Western monasticism whose Rule of life shaped the civilization of Christian Europe for fifteen centuries.
+summary: >-
+  The patriarch of Western monasticism whose Rule of life shaped the civilization of Christian Europe for fifteen
+  centuries.
 searchAliases:
   - St. Benedict
   - Benedict
@@ -16,13 +18,15 @@ died: c. 547
 birthPlace: Nursia, Italy
 deathPlace: Monte Cassino, Italy
 region: Italy
-centuries: [5, 6]
+centuries:
+  - 5
+  - 6
 feastDay:
   month: 7
   day: 11
 liturgicalRank: Memorial
 canonizationStatus: Saint
-image: "https://upload.wikimedia.org/wikipedia/commons/1/16/Memling%2C_Trittico_di_Benedetto_Portinari%2C_San_Benedetto.jpg"
+image: https://upload.wikimedia.org/wikipedia/commons/1/16/Memling%2C_Trittico_di_Benedetto_Portinari%2C_San_Benedetto.jpg
 vocation:
   - Monk
   - Abbot
@@ -45,54 +49,158 @@ symbols:
 martyr: false
 imageAlt: Giovanni Bellini's triptych panel of Saint Benedict of Nursia
 imageCredit: Giovanni Bellini, Frari Basilica, Venice — public domain (Wikimedia Commons)
-imageCreditUrl: "https://commons.wikimedia.org/wiki/File:Frari_(Venice)_-_Sacristy_-_triptych_by_Giovanni_Bellini_-_Saint_Benedict_of_Nursia_and_Saint_Mark.jpg"
+imageCreditUrl: >-
+  https://commons.wikimedia.org/wiki/File:Frari_(Venice)_-_Sacristy_-_triptych_by_Giovanni_Bellini_-_Saint_Benedict_of_Nursia_and_Saint_Mark.jpg
 lifeEvents:
-  - year: "c. 480"
+  - year: c. 480
     event: Born at Nursia (Norcia) in central Italy to a noble family.
-  - year: "c. 500"
+  - year: c. 500
     event: Leaves his studies in Rome, recoiling from its corruption, and becomes a hermit at Subiaco.
-  - year: "c. 505–515"
+  - year: c. 505–515
     event: Attracts disciples; founds twelve small monasteries in the valley of Subiaco.
-  - year: "c. 529"
+  - year: c. 529
     event: Withdraws to Monte Cassino and founds the great abbey; composes the Rule.
-  - year: "c. 547"
+  - year: c. 547
     event: Dies at Monte Cassino, standing before the altar in prayer, raised on the arms of his brothers.
-  - year: "1964"
+  - year: '1964'
     event: Pope Paul VI proclaims him co-patron of Europe.
-  - year: "1980"
+  - year: '1980'
     event: Pope Saint John Paul II names him patron saint of Europe's students.
 quotes:
-  - text: >-
-      Listen carefully, my child, to the master's instructions, and attend to them with the ear of your heart.
+  - text: Listen carefully, my child, to the master's instructions, and attend to them with the ear of your heart.
     source: The Rule of Saint Benedict, Prologue
   - text: >-
-      Strive to serve God, not to be served by Him; so that you may be found humble in this life and glorified in the next.
+      Strive to serve God, not to be served by Him; so that you may be found humble in this life and glorified in the
+      next.
     source: The Rule of Saint Benedict, Chapter 7
-  - text: >-
-      Let nothing be preferred to the Work of God.
+  - text: Let nothing be preferred to the Work of God.
     source: The Rule of Saint Benedict, Chapter 43
 prayers:
   - name: Prayer to Saint Benedict
     kind: Traditional prayer of trust
     text: >-
-      O glorious Patriarch Saint Benedict, faithful servant of Christ, intercede for us before
-      the throne of God. By your holy Rule, teach us to seek God in prayer and in work, to
-      listen with the ear of the heart, and to live in stability, humility, and charity. Guard
-      our homes from evil and our souls from temptation, that we may serve God faithfully all
-      the days of our lives. Amen.
-  - name: "Novena to Saint Benedict of Nursia"
-    kind: "Novena — nine-day prayer for education and spiritual protection"
+      O glorious Patriarch Saint Benedict, faithful servant of Christ, intercede for us before the throne of God. By
+      your holy Rule, teach us to seek God in prayer and in work, to listen with the ear of the heart, and to live in
+      stability, humility, and charity. Guard our homes from evil and our souls from temptation, that we may serve God
+      faithfully all the days of our lives. Amen.
+  - name: Novena to Saint Benedict of Nursia
+    kind: >-
+      Novena — begins July 2, nine days before the feast of Saint Benedict of Nursia (July 11). Source:
+      https://www.catholicculture.org/culture/liturgicalyear/prayers/view.cfm?id=1039
     text: >-
-      Glorious Patriarch Saint Benedict, father of Western monasticism and faithful servant
-      of God, I come before you with confidence in this novena to ask for your powerful
-      intercession. You who listened to God with the ear of your heart, teach me to hear His
-      voice in the noise of this world. You who wrote a Rule of balance and humility, guide my
-      steps along the path of prayer and work. Grant me the grace to seek God above all things,
-      to find Him in my daily labor, and to live in stability of heart when trials assail me.
-      Protect me from the snares of evil, from the poison of sin, and from every danger to body
-      and soul. Obtain for me the blessings I now place before the throne of God through your
-      holy intercession. May your Rule light my way, may your examples strengthen my resolve,
-      and may I one day join you in praising God eternally in the heavenly monastery. Amen.
+      O blessed Benedict, who founded the monastic tradition in the West and wrote the Rule that has guided monks for
+      centuries, intercede for me before the throne of God.
+
+
+      (State your intention)
+
+
+      Our Father, Hail Mary, Glory Be. St. Benedict, pray for us.
+
+
+      ---
+
+
+      O blessed Benedict, who sought God above all things in the solitude of the desert, help me to seek God in prayer
+      and in the duties of my daily life.
+
+
+      (State your intention)
+
+
+      Our Father, Hail Mary, Glory Be. St. Benedict, pray for us.
+
+
+      ---
+
+
+      O blessed Benedict, who overcame the temptations of the flesh through prayer and fasting, grant me the grace to
+      resist temptation and to live a life of purity.
+
+
+      (State your intention)
+
+
+      Our Father, Hail Mary, Glory Be. St. Benedict, pray for us.
+
+
+      ---
+
+
+      O blessed Benedict, who raised a dead man to life and performed many other miracles, intercede for me in my
+      present necessities.
+
+
+      (State your intention)
+
+
+      Our Father, Hail Mary, Glory Be. St. Benedict, pray for us.
+
+
+      ---
+
+
+      O blessed Benedict, who taught that "Ora et Labora" (Pray and Work) is the path to holiness, help me to sanctify
+      my work by offering it to God and to pray without ceasing.
+
+
+      (State your intention)
+
+
+      Our Father, Hail Mary, Glory Be. St. Benedict, pray for us.
+
+
+      ---
+
+
+      O blessed Benedict, who established the monasteries of Monte Cassino and Subiaco, pray for all religious
+      communities. May they be faithful to their vocations.
+
+
+      (State your intention)
+
+
+      Our Father, Hail Mary, Glory Be. St. Benedict, pray for us.
+
+
+      ---
+
+
+      O blessed Benedict, whose Medal is a powerful sign of protection against evil, protect me and my family from all
+      spiritual and physical harm.
+
+
+      (State your intention)
+
+
+      Our Father, Hail Mary, Glory Be. St. Benedict, pray for us.
+
+
+      ---
+
+
+      O blessed Benedict, who died in prayer on Easter Sunday in 547 AD, obtain for me the grace of a holy death and the
+      joy of seeing God face to face in heaven.
+
+
+      (State your intention)
+
+
+      Our Father, Hail Mary, Glory Be. St. Benedict, pray for us.
+
+
+      ---
+
+
+      O blessed Benedict, Patron of Europe, pray for the nations of Europe and for all people of good will. May they
+      return to the Christian faith and live in peace and harmony.
+
+
+      (State your intention)
+
+
+      Our Father, Hail Mary, Glory Be. St. Benedict, pray for us.
+    source: https://www.catholicculture.org/culture/liturgicalyear/prayers/view.cfm?id=1039
 relatedSaints:
   - name: Francis of Assisi
     slug: francis-of-assisi

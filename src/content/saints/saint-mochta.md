@@ -1,13 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Mochta of Louth"
+name: Saint Mochta of Louth
 honorific: Saint
-summary: "Spiritual student of Saint Patrick. Monk. Founded the monastery of Louth, Ireland. Bishop of Louth."
+summary: Spiritual student of Saint Patrick. Monk. Founded the monastery of Louth, Ireland. Bishop of Louth.
 searchAliases:
-  - "Mochteus"
+  - Mochteus
 deathYear: 535
-died: "c.535"
-region: "Ireland"
+died: c.535
+region: Ireland
 feastDay:
   month: 8
   day: 19
@@ -18,6 +18,7 @@ vocation:
   - Monk
   - Confessor
 martyr: false
+prayers: []
 ---
 
 Spiritual student of Saint Patrick. Monk. Founded the monastery of Louth, Ireland. Bishop of Louth.

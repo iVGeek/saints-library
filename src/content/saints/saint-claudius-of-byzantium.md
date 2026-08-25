@@ -16,6 +16,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/5/50/Saint_Spyridon_Icon.tif?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Claudius of Byzantium
 imageCreditUrl: https://en.wikipedia.org/wiki/Saint%20Spyridon
+prayers: []
 ---
 
 Martyr.

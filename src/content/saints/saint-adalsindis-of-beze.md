@@ -27,6 +27,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/b/b1/East-Ortho-cross.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Adalsindis of Bèze
 imageCreditUrl: https://en.wikipedia.org/wiki/May%203%20(Eastern%20Orthodox%20liturgics)
+prayers: []
 ---
 
 Born to the Burgundian nobility, the daughter of Duke Almagar and Duchess Aquilina; sister of Saint Waldalenus of Bèze. Benedictine nun. Abbess of a convent near Bèze under the supervision of her brother.

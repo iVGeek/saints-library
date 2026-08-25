@@ -1,17 +1,19 @@
 ---
-name: "Blessed Stanislawa Ulma"
+name: Blessed Stanislawa Ulma
 honorific: Blessed
-summary: "Child in the archdiocese of Przemysl, Poland, the daughter of Józef and Wiktoria Ulma. Executed by Nazi forces because his family hid Jewish refugees during World War II. Martyr."
-image: "https://catholicsaints.info/wp-content/uploads/img-Ulma-Children.jpg"
+summary: >-
+  Child in the archdiocese of Przemysl, Poland, the daughter of Józef and Wiktoria Ulma. Executed by Nazi forces because
+  his family hid Jewish refugees during World War II. Martyr.
+image: https://catholicsaints.info/wp-content/uploads/img-Ulma-Children.jpg
 searchAliases:
-  - "Stasia Ulma"
+  - Stasia Ulma
 birthYear: 1936
 deathYear: 1944
-born: "18 July 1936 in Markowa, Lancut, Poland"
-died: "shot in the early morning of 24 March 1944 outside their residence in Markowa, Lancut, Poland"
-birthPlace: "Lancut, Poland"
-deathPlace: "Lancut, Poland"
-region: "Poland"
+born: 18 July 1936 in Markowa, Lancut, Poland
+died: shot in the early morning of 24 March 1944 outside their residence in Markowa, Lancut, Poland
+birthPlace: Lancut, Poland
+deathPlace: Lancut, Poland
+region: Poland
 feastDay:
   month: 3
   day: 24
@@ -19,6 +21,7 @@ canonizationStatus: Blessed
 vocation:
   - Cardinal
 martyr: true
+prayers: []
 ---
 
 Child in the archdiocese of Przemysl, Poland, the daughter of Józef and Wiktoria Ulma. Executed by Nazi forces because his family hid Jewish refugees during World War II. Martyr.

@@ -1,12 +1,12 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Bertoara"
+name: Saint Bertoara
 honorific: Saint
-summary: "Abbess of the Columbanian house of Notre Dame de Sales, Bourges, France from 612 until her death."
+summary: Abbess of the Columbanian house of Notre Dame de Sales, Bourges, France from 612 until her death.
 deathYear: 614
-died: "614 at Notre-Dame-de Sales, Bourges, France of natural causes"
-deathPlace: "Bourges, Francenatural causes"
-region: "France"
+died: 614 at Notre-Dame-de Sales, Bourges, France of natural causes
+deathPlace: Bourges, Francenatural causes
+region: France
 feastDay:
   month: 12
   day: 4
@@ -15,6 +15,7 @@ vocation:
   - Monk
   - Religious
 martyr: false
+prayers: []
 ---
 
 Abbess of the Columbanian house of Notre Dame de Sales, Bourges, France from 612 until her death.

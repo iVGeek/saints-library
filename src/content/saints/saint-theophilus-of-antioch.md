@@ -19,6 +19,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Convert, brought to the faith through scripture reading. Zealous apologist, both by speaking and by writing, opposing heretics who preached against orthodox Christianity. Bishop of Antioch in 169.

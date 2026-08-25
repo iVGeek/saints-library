@@ -1,19 +1,22 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Nithard"
+name: Saint Nithard
 honorific: Saint
-summary: "Benedictine monk at New Corbie Abbey, Saxony (in modern Germany). Worked with Saint Ansgar, preaching to pagans in Scandinavia. Martyred by pagan Swedes."
+summary: >-
+  Benedictine monk at New Corbie Abbey, Saxony (in modern Germany). Worked with Saint Ansgar, preaching to pagans in
+  Scandinavia. Martyred by pagan Swedes.
 deathYear: 845
-died: "845"
-region: "Scandinavia"
+died: '845'
+region: Scandinavia
 feastDay:
   month: 2
   day: 4
 canonizationStatus: Saint
 vocation:
   - Monk
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 martyr: true
+prayers: []
 ---
 
 Benedictine monk at New Corbie Abbey, Saxony (in modern Germany). Worked with Saint Ansgar, preaching to pagans in Scandinavia. Martyred by pagan Swedes.

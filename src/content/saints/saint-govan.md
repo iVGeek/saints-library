@@ -20,6 +20,7 @@ vocation:
   - Monk
   - Hermit
 martyr: false
+prayers: []
 ---
 
 Sixth century hermit who lived on the face of a cliff at Saint Govan's Head, Dyfed, Wales; his stone hut survives today, and attracts many visitors. Spiritual student of Saint Ailbe.

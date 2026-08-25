@@ -1,27 +1,33 @@
 ---
-name: "Saint Joseph Zhang Dapeng"
+name: Saint Joseph Zhang Dapeng
 honorific: Venerable
-summary: "A clever and inquisitive boy, he was much attracted to Taoism in his youth. He moved to Guiyang in 1794, and entered the silk business. Through a business contact, he first learned of Christianity. He converted, but was unable to join the Church because, in the custom of the day,"
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Joseph-Zhang-Dapeng.jpg"
+summary: >-
+  A clever and inquisitive boy, he was much attracted to Taoism in his youth. He moved to Guiyang in 1794, and entered
+  the silk business. Through a business contact, he first learned of Christianity. He converted, but was unable to join
+  the Church because, in the custom of the day,
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Joseph-Zhang-Dapeng.jpg
 searchAliases:
-  - "Iosephus Zhang Depeng"
-  - "Joseph Tchang Taong"
-  - "Joseph Tshang-ta-Pong"
-  - "Ruose"
+  - Iosephus Zhang Depeng
+  - Joseph Tchang Taong
+  - Joseph Tshang-ta-Pong
+  - Ruose
 birthYear: 1754
 deathYear: 1815
-born: "c.1754 in Duyun, Guizhou Province, China"
-died: "strangled to death on 12 March 1815 in Guiyang, Guizhou, China"
-birthPlace: "Guizhou Province, China"
-deathPlace: "Guizhou, China"
-region: "England"
+born: c.1754 in Duyun, Guizhou Province, China
+died: strangled to death on 12 March 1815 in Guiyang, Guizhou, China
+birthPlace: Guizhou Province, China
+deathPlace: Guizhou, China
+region: England
 feastDay:
   month: 3
   day: 12
-centuries: [18, 19]
+centuries:
+  - 18
+  - 19
 canonizationStatus: Venerable
 vocation: []
 martyr: true
+prayers: []
 ---
 
 A clever and inquisitive boy, he was much attracted to Taoism in his youth. He moved to Guiyang in 1794, and entered the silk business. Through a business contact, he first learned of Christianity. He converted, but was unable to join the Church because, in the custom of the day, he kept a concubine. He eventually left her, and in 1800, against strong opposition from his family and business associates, he joined the Church, taking the name Joseph.

@@ -1,14 +1,16 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Theophilus of Nicomedia"
+name: Saint Theophilus of Nicomedia
 honorific: Saint
-summary: "Deacon in service to Saint Anthimos of Nicomedia. During the persecutions of Diocletian, he was captured while taking letters to Christian prisoners, tortured for the hiding place of other Christians. Martyr."
+summary: >-
+  Deacon in service to Saint Anthimos of Nicomedia. During the persecutions of Diocletian, he was captured while taking
+  letters to Christian prisoners, tortured for the hiding place of other Christians. Martyr.
 searchAliases:
-  - "Theofilus"
+  - Theofilus
 deathYear: 303
-died: "tortured to death in 303 in Nicomedia, Bithynia (modern Izmit, Turkey)"
-deathPlace: "Bithynia (modern Izmit, Turkey)"
-region: "Turkey"
+died: tortured to death in 303 in Nicomedia, Bithynia (modern Izmit, Turkey)
+deathPlace: Bithynia (modern Izmit, Turkey)
+region: Turkey
 feastDay:
   month: 12
   day: 28
@@ -17,6 +19,7 @@ vocation:
   - Monk
   - Deacon
 martyr: true
+prayers: []
 ---
 
 Deacon in service to Saint Anthimos of Nicomedia. During the persecutions of Diocletian, he was captured while taking letters to Christian prisoners, tortured for the hiding place of other Christians. Martyr.

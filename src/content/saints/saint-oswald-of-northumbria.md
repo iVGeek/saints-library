@@ -1,15 +1,20 @@
 ---
-name: "Saint Oswald of Northumbria"
+name: Saint Oswald of Northumbria
 honorific: Saint
-summary: "Son of the pagan King Aethelfrith the Ravager of Bernicia and Princess Aacha of Deira, the second of seven children. Brother of Saint Ebbe the Elder. Nephew of Saint Ethelreda. When his father was killed in battle when Oswald was eleven years old, his mother fled with the family"
-image: "https://upload.wikimedia.org/wikipedia/commons/e/ee/Saint_Oswald_Durham_Cathedral.jpg"
+summary: >-
+  Son of the pagan King Aethelfrith the Ravager of Bernicia and Princess Aacha of Deira, the second of seven children.
+  Brother of Saint Ebbe the Elder. Nephew of Saint Ethelreda. When his father was killed in battle when Oswald was
+  eleven years old, his mother fled with the family
+image: https://upload.wikimedia.org/wikipedia/commons/e/ee/Saint_Oswald_Durham_Cathedral.jpg
 birthYear: 605
 deathYear: 642
-born: "c.605 in Northumbria, England"
-died: "killed in battle with invading pagan Welsh and Mercian forces on 5 August 642 at Maserfield, Shropshire, England, and thus often listed as a martyr"
-birthPlace: "England"
-deathPlace: "Shropshire, England, and thus often listed as a martyr"
-region: "Scotland"
+born: c.605 in Northumbria, England
+died: >-
+  killed in battle with invading pagan Welsh and Mercian forces on 5 August 642 at Maserfield, Shropshire, England, and
+  thus often listed as a martyr
+birthPlace: England
+deathPlace: Shropshire, England, and thus often listed as a martyr
+region: Scotland
 feastDay:
   month: 8
   day: 5
@@ -18,15 +23,19 @@ vocation:
   - Bishop
   - Priest
 patronage:
-  - "harvesters"
-  - "soldiers"
-  - "Cimbri people"
-  - "–"
-  - "in England\n\nBamburgh"
-  - "Durham"
-  - "Gloucester"
-  - "Oswestry"
+  - harvesters
+  - soldiers
+  - Cimbri people
+  - –
+  - |-
+    in England
+
+    Bamburgh
+  - Durham
+  - Gloucester
+  - Oswestry
 martyr: true
+prayers: []
 ---
 
 Son of the pagan King Aethelfrith the Ravager of Bernicia and Princess Aacha of Deira, the second of seven children. Brother of Saint Ebbe the Elder. Nephew of Saint Ethelreda. When his father was killed in battle when Oswald was eleven years old, his mother fled with the family for the court of King Eochaid Buide at Dunadd in modern Scotland. There he converted to Christianity. Educated at the Iona Abbey with his brother Oswiu. Soldier; known to have fought at the Battle of Fid Eoin in 628. Contemporary writings describe him as having “arms of great length and power, eyes bright blue, hair yellow, face long and beard thin, and his small lips wearing a kindly smile”. Reported to have had a pet raven for years.

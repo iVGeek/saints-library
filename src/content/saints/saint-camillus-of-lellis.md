@@ -1,36 +1,40 @@
 ---
-name: "Saint Camillus of Lellis"
+name: Saint Camillus of Lellis
 honorific: Saint
-summary: "Son of a military officer who had served both for Naples and France. His mother died when Camillus was very young. He spent his youth as a soldier, fighting for the Venetians against the Turks, and then for Naples. Reported as a large individual, perhaps as tall as 6'6″ (2 metres"
-image: "http://catholicsaints.info/wp-content/gallery/saint-camillus-of-lellis/saint-camillus-of-lellis-01.jpg"
+summary: >-
+  Son of a military officer who had served both for Naples and France. His mother died when Camillus was very young. He
+  spent his youth as a soldier, fighting for the Venetians against the Turks, and then for Naples. Reported as a large
+  individual, perhaps as tall as 6'6″ (2 metres
+image: http://catholicsaints.info/wp-content/gallery/saint-camillus-of-lellis/saint-camillus-of-lellis-01.jpg
 searchAliases:
-  - "Camillus de Lellis"
-  - "Camillo de Lellis"
+  - Camillus de Lellis
+  - Camillo de Lellis
 birthYear: 1550
 deathYear: 1614
-born: "25 May 1550 at Bocchiavico, Abruzzi, kingdom of Naples, Italy"
-died: "14 July 1614 at Genoa, Italy of natural causes"
-birthPlace: "Abruzzi, kingdomNaples, Italy"
-deathPlace: "Italynatural causes"
-region: "France"
+born: 25 May 1550 at Bocchiavico, Abruzzi, kingdom of Naples, Italy
+died: 14 July 1614 at Genoa, Italy of natural causes
+birthPlace: Abruzzi, kingdomNaples, Italy
+deathPlace: Italynatural causes
+region: France
 feastDay:
   month: 7
   day: 14
 canonizationStatus: Saint
 vocation:
   - Confessor
-religiousOrder: "Jesuit"
+religiousOrder: Jesuit
 patronage:
-  - "Abruzzi, Italy"
-  - "against bodily ills"
-  - "against illness"
-  - "against sickness"
-  - "hospitals (proclaimed on 22 June 1886 by Pope Leo XIII)"
-  - "hospital workers"
-  - "nurses (proclaimed on 28 August 1930 by Pope Pius XII)"
-  - "sick people (proclaimed on 22 June 1886 by Pope Leo XIII)"
-  - "Bucchianico, Italy"
+  - Abruzzi, Italy
+  - against bodily ills
+  - against illness
+  - against sickness
+  - hospitals (proclaimed on 22 June 1886 by Pope Leo XIII)
+  - hospital workers
+  - nurses (proclaimed on 28 August 1930 by Pope Pius XII)
+  - sick people (proclaimed on 22 June 1886 by Pope Leo XIII)
+  - Bucchianico, Italy
 martyr: false
+prayers: []
 ---
 
 Son of a military officer who had served both for Naples and France. His mother died when Camillus was very young. He spent his youth as a soldier, fighting for the Venetians against the Turks, and then for Naples. Reported as a large individual, perhaps as tall as 6'6″ (2 metres), and powerfully built, but he suffered all his life from abscesses on his feet. A gambling addict, he lost so much he had to take a job working construction on a building belonging to the Capuchins; they converted him.

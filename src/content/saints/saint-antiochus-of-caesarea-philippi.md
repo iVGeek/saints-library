@@ -16,6 +16,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/5/51/Transfiguration_Raphael.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Antiochus of Caesarea Philippi
 imageCreditUrl: https://en.wikipedia.org/wiki/Transfiguration%20of%20Jesus
+prayers: []
 ---
 
 Soldier. Tribune in the imperial Roman army. Martyred with other soldiers.

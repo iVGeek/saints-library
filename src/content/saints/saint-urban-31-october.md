@@ -1,10 +1,12 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Urban"
+name: Saint Urban
 honorific: Saint
-summary: "First-century spiritual student of Saint Paul the Apostle, and mentioned by him in the Epistle to the Romans. Missionary bishops with Saint Andrew the Apostle in Greece and the Balkans. Martyr."
-died: "relics at Constantinople"
-region: "Greece"
+summary: >-
+  First-century spiritual student of Saint Paul the Apostle, and mentioned by him in the Epistle to the Romans.
+  Missionary bishops with Saint Andrew the Apostle in Greece and the Balkans. Martyr.
+died: relics at Constantinople
+region: Greece
 feastDay:
   month: 10
   day: 31
@@ -14,6 +16,7 @@ vocation:
   - Monk
   - Missionary
 martyr: true
+prayers: []
 ---
 
 First-century spiritual student of Saint Paul the Apostle, and mentioned by him in the Epistle to the Romans. Missionary bishops with Saint Andrew the Apostle in Greece and the Balkans. Martyr.

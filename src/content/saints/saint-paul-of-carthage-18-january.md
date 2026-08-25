@@ -1,12 +1,12 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Paul of Carthage"
+name: Saint Paul of Carthage
 honorific: Saint
-summary: "Bishop in North Africa. Attended the Council of Carthage in 259. Martyred in the persecutions of Decius."
+summary: Bishop in North Africa. Attended the Council of Carthage in 259. Martyred in the persecutions of Decius.
 deathYear: 259
-died: "259 in Carthage, North Africa (modern Tunis, Tunisia)"
-deathPlace: "North Africa (modern Tunis, Tunisia)"
-region: "Italy"
+died: 259 in Carthage, North Africa (modern Tunis, Tunisia)
+deathPlace: North Africa (modern Tunis, Tunisia)
+region: Italy
 feastDay:
   month: 1
   day: 18
@@ -14,6 +14,7 @@ canonizationStatus: Saint
 vocation:
   - Bishop
 martyr: true
+prayers: []
 ---
 
 Bishop in North Africa. Attended the Council of Carthage in 259. Martyred in the persecutions of Decius.

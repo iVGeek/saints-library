@@ -1,26 +1,30 @@
 ---
-name: "Blessed Augustus Czartoryski"
+name: Blessed Augustus Czartoryski
 honorific: Blessed
-summary: "Oldest child of Prince Ladislaus and Princess Maria Amparo, daughter of the Queen of Spain; the couple had settled in Paris, France after being losing all their property and being exiled in the 1830 revolution. Both Augustus and his mother contracted tuberculosis; she died when h"
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Augustus-Czartoryski.jpg"
+summary: >-
+  Oldest child of Prince Ladislaus and Princess Maria Amparo, daughter of the Queen of Spain; the couple had settled in
+  Paris, France after being losing all their property and being exiled in the 1830 revolution. Both Augustus and his
+  mother contracted tuberculosis; she died when h
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Augustus-Czartoryski.jpg
 searchAliases:
-  - "Prince August Franciszek Maria Anna Józef Kajetan Czartoryski"
-  - "Duke of Vista Alegre"
+  - Prince August Franciszek Maria Anna Józef Kajetan Czartoryski
+  - Duke of Vista Alegre
 birthYear: 1858
 deathYear: 1893
-born: "2 August 1858 in Paris, France"
-died: "evening of 8 April,  1893 in Alassio, Savona, Italy of tuberculosis"
-birthPlace: "France"
-deathPlace: "1893Alassio, Savona, Italy of tuberculosis"
-region: "Poland"
+born: 2 August 1858 in Paris, France
+died: evening of 8 April,  1893 in Alassio, Savona, Italy of tuberculosis
+birthPlace: France
+deathPlace: 1893Alassio, Savona, Italy of tuberculosis
+region: Poland
 feastDay:
   month: 4
   day: 8
 canonizationStatus: Blessed
 vocation:
   - Priest
-religiousOrder: "Salesian"
+religiousOrder: Salesian
 martyr: false
+prayers: []
 ---
 
 Oldest child of Prince Ladislaus and Princess Maria Amparo, daughter of the Queen of Spain; the couple had settled in Paris, France after being losing all their property and being exiled in the 1830 revolution. Both Augustus and his mother contracted tuberculosis; she died when he was six years old, and he was sent to doctors in Switzerland, Italy, Spain and Egypt in a vain search for a cure. Though he was forced to attend court functions and amusements as the son of a prince, the boy had no interest in worldly life, and early felt a call to religious vocation. He studied in Paris and in Krakow, Poland, but school was often interrupted due to his poor health; one of his tutors was Saint Jozef Kalinowski.

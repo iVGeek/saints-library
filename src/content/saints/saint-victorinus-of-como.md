@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Victorinus of Como"
+name: Saint Victorinus of Como
 honorific: Saint
-summary: "Bishop of Como, Italy. Fought Arianism."
+summary: Bishop of Como, Italy. Fought Arianism.
 deathYear: 644
-died: "644 of natural causes"
-region: "Italy"
+died: 644 of natural causes
+region: Italy
 feastDay:
   month: 9
   day: 5
@@ -14,6 +14,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Bishop of Como, Italy. Fought Arianism.

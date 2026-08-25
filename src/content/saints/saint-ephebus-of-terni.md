@@ -17,6 +17,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/f/fb/Terni_Duomo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Ephebus of Terni
 imageCreditUrl: https://en.wikipedia.org/wiki/Diocese%20of%20Terni-Narni-Amelia
+prayers: []
 ---
 
 Gave Christian burial to Saint Valentine of Terni. Martyred in the persecutions of Aurelius.

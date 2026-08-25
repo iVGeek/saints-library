@@ -1,24 +1,27 @@
 ---
-name: "Saint Cadoc of Llancarvan"
+name: Saint Cadoc of Llancarvan
 honorific: Saint
-summary: "Son of Saint Gwynllyw, a king in Wales, a robber chieftain who led a band of 300; his mother, Saint Gladys, had been stolen in a raid on a neighboring chief; brother of Saint Gluvias. Raised by an Irish monk; Cadoc's father had stolen the monk's cow, and when he came to demand it"
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Cadoc.jpg"
+summary: >-
+  Son of Saint Gwynllyw, a king in Wales, a robber chieftain who led a band of 300; his mother, Saint Gladys, had been
+  stolen in a raid on a neighboring chief; brother of Saint Gluvias. Raised by an Irish monk; Cadoc's father had stolen
+  the monk's cow, and when he came to demand it
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Cadoc.jpg
 searchAliases:
-  - "Cadoc of Wales"
-  - "Cadoc the Wise"
-  - "Cadocus…"
-  - "Cadog…"
-  - "Cadvaci…"
-  - "Cadvael…"
-  - "Cathmael…"
-  - "Cattwg…"
-  - "Docus…"
-  - "Catrwg Ddoeth"
+  - Cadoc of Wales
+  - Cadoc the Wise
+  - Cadocus…
+  - Cadog…
+  - Cadvaci…
+  - Cadvael…
+  - Cathmael…
+  - Cattwg…
+  - Docus…
+  - Catrwg Ddoeth
 deathYear: 580
-born: "6th century Welsh"
-died: "killed by Saxons c.580 while serving at Mass near Weedon, Northamptonshire, England"
-deathPlace: "Northamptonshire, England"
-region: "Ireland"
+born: 6th century Welsh
+died: killed by Saxons c.580 while serving at Mass near Weedon, Northamptonshire, England
+deathPlace: Northamptonshire, England
+region: Ireland
 feastDay:
   month: 9
   day: 21
@@ -28,14 +31,15 @@ vocation:
   - Monk
   - Hermit
 patronage:
-  - "against cramps"
-  - "against deafness"
-  - "against glandular disorders"
-  - "against scrofula"
-  - "deaf people"
-  - "–"
-  - "Weedon, England"
+  - against cramps
+  - against deafness
+  - against glandular disorders
+  - against scrofula
+  - deaf people
+  - –
+  - Weedon, England
 martyr: true
+prayers: []
 ---
 
 Son of Saint Gwynllyw, a king in Wales, a robber chieftain who led a band of 300; his mother, Saint Gladys, had been stolen in a raid on a neighboring chief; brother of Saint Gluvias. Raised by an Irish monk; Cadoc's father had stolen the monk's cow, and when he came to demand its return, the king decided it was sign. Studied in Wales and Ireland. Priest.

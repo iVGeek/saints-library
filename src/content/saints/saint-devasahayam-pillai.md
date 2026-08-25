@@ -28,6 +28,7 @@ canonizationStatus: Venerable
 vocation:
   - Priest
 martyr: true
+prayers: []
 ---
 
 Devasahayam was raised a high-caste Hindu, knew Sanskrit, Tamil and Malayalam, and was trained martial arts and archery. He was married, and held a civil service job in the royal treasury. Beginning in 1741, he learned about Catholicism from a French prisoner of war, converted to the faith, and was baptized on 14 May 1745 in the diocese of Kottar, India, taking the name Devasahayam, the Tamil equivalent of the meaning of the name Lazarus.

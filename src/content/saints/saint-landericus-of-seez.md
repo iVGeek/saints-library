@@ -1,15 +1,15 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Landericus of Séez"
+name: Saint Landericus of Séez
 honorific: Saint
-summary: "Bishop of Séez, Normandy, France c.450. Martyr."
+summary: Bishop of Séez, Normandy, France c.450. Martyr.
 searchAliases:
-  - "Landri"
-  - "Landry"
+  - Landri
+  - Landry
 deathYear: 480
-died: "sealed in a barrel full of iron spikes and rolled up and down hill until dead in 480 in Normandy, France"
-deathPlace: "France"
-region: "France"
+died: sealed in a barrel full of iron spikes and rolled up and down hill until dead in 480 in Normandy, France
+deathPlace: France
+region: France
 feastDay:
   month: 7
   day: 16
@@ -18,6 +18,7 @@ vocation:
   - Bishop
   - Monk
 martyr: true
+prayers: []
 ---
 
 Bishop of Séez, Normandy, France c.450. Martyr.

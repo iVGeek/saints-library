@@ -23,6 +23,7 @@ patronage:
   - Assisi-Nocera Umbra-Gualdo Tadino, Italy, diocese of
   - Umbria, Italy
 martyr: true
+prayers: []
 ---
 
 Early bishop of Amasea in Pontus (part of Asia Minor) who travelled to the region of Assisi, Italy with his son Cesidio. He built the first church in the area, preached Christianity, converted many, and became their first bishop. Martyred in the persecutions of the imperial Roman proconsol Aspasius.

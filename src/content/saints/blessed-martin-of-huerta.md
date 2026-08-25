@@ -1,11 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Martin of Huerta"
+name: Blessed Martin of Huerta
 honorific: Blessed
-summary: "Monk at the monastery of Huerta, Castile, Spain. Bishop of Sigüenza, Spain for several years before finally retiring back to his monastery."
+summary: >-
+  Monk at the monastery of Huerta, Castile, Spain. Bishop of Sigüenza, Spain for several years before finally retiring
+  back to his monastery.
 deathYear: 1213
-died: "1213 of natural causes"
-region: "Spain"
+died: 1213 of natural causes
+region: Spain
 feastDay:
   month: 9
   day: 16
@@ -14,6 +16,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Monk at the monastery of Huerta, Castile, Spain. Bishop of Sigüenza, Spain for several years before finally retiring back to his monastery.

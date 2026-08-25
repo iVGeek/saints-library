@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Constantine of Scotland"
+name: Saint Constantine of Scotland
 honorific: Saint
-summary: "King of Scotland. Died in battle fighting invading heathens, and thus considered a martyr."
+summary: King of Scotland. Died in battle fighting invading heathens, and thus considered a martyr.
 deathYear: 874
-died: "874"
-region: "Scotland"
+died: '874'
+region: Scotland
 feastDay:
   month: 4
   day: 2
@@ -15,6 +15,7 @@ vocation:
   - Monk
   - Soldier
 martyr: true
+prayers: []
 ---
 
 King of Scotland. Died in battle fighting invading heathens, and thus considered a martyr.

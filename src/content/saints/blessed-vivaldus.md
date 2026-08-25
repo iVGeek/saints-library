@@ -1,20 +1,23 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Vivaldus"
+name: Blessed Vivaldus
 honorific: Blessed
-summary: "Franciscan tertiary. A close friend of Blessed Bartholomew Buonpedoni, he tended to Bartholomew and assisted in his twenty-year ministry to lepers."
+summary: >-
+  Franciscan tertiary. A close friend of Blessed Bartholomew Buonpedoni, he tended to Bartholomew and assisted in his
+  twenty-year ministry to lepers.
 searchAliases:
-  - "Gualdo"
-  - "Ubaldo"
+  - Gualdo
+  - Ubaldo
 deathYear: 1300
-died: "1300 of natural causes"
+died: 1300 of natural causes
 feastDay:
   month: 5
   day: 11
 canonizationStatus: Blessed
 vocation: []
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 martyr: false
+prayers: []
 ---
 
 Franciscan tertiary. A close friend of Blessed Bartholomew Buonpedoni, he tended to Bartholomew and assisted in his twenty-year ministry to lepers.

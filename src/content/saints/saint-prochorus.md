@@ -1,15 +1,15 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Prochorus the Deacon"
+name: Saint Prochorus the Deacon
 honorific: Saint
-summary: "One of the first seven deacons ordained by the Apostles. Bishop of Nicomedia. Miracle worker. Martyr."
+summary: One of the first seven deacons ordained by the Apostles. Bishop of Nicomedia. Miracle worker. Martyr.
 searchAliases:
-  - "Prochorus of Nicomedia"
-  - "Procore…"
-  - "Procoro…"
-  - "Prohkoros…"
-died: "1st century Antioch"
-region: "Italy"
+  - Prochorus of Nicomedia
+  - Procore…
+  - Procoro…
+  - Prohkoros…
+died: 1st century Antioch
+region: Italy
 feastDay:
   month: 7
   day: 28
@@ -20,6 +20,7 @@ vocation:
   - Monk
   - Deacon
 martyr: true
+prayers: []
 ---
 
 One of the first seven deacons ordained by the Apostles. Bishop of Nicomedia. Miracle worker. Martyr.

@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Urban of Teano"
+name: Saint Urban of Teano
 honorific: Saint
-summary: "Bishop of Teano, Campania, Italy."
+summary: Bishop of Teano, Campania, Italy.
 deathYear: 356
-died: "c.356"
-region: "Italy"
+died: c.356
+region: Italy
 feastDay:
   month: 12
   day: 7
@@ -14,8 +14,9 @@ vocation:
   - Bishop
   - Monk
 patronage:
-  - "Teano, Italy"
+  - Teano, Italy
 martyr: false
+prayers: []
 ---
 
 Bishop of Teano, Campania, Italy.

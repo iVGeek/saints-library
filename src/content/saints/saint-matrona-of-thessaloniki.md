@@ -1,12 +1,14 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Matrona of Thessaloniki"
+name: Saint Matrona of Thessaloniki
 honorific: Saint
-summary: "Christian slave with a Jewish “owner”. When the lady of the house caught Matrona going to Mass, she was abused, tortured and eventally killed. Martyr."
+summary: >-
+  Christian slave with a Jewish “owner”. When the lady of the house caught Matrona going to Mass, she was abused,
+  tortured and eventally killed. Martyr.
 deathYear: 350
-died: "beaten to death c.350 in Thessaloniki, Macedonia (in modern Greece)"
-deathPlace: "Macedonia (modern Greece)"
-region: "England"
+died: beaten to death c.350 in Thessaloniki, Macedonia (in modern Greece)
+deathPlace: Macedonia (modern Greece)
+region: England
 feastDay:
   month: 3
   day: 25
@@ -15,6 +17,7 @@ vocation:
   - Virgin
   - Monk
 martyr: true
+prayers: []
 ---
 
 Christian slave with a Jewish “owner”. When the lady of the house caught Matrona going to Mass, she was abused, tortured and eventally killed. Martyr.

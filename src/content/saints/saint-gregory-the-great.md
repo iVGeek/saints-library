@@ -21,6 +21,7 @@ symbols:
   - Cross
 martyr: false
 lifeEvents: []
+prayers: []
 ---
 
 Pope Saint Gregory the Great – The Life of Our Most Holy Father Saint Benedict is a Catholic saint.

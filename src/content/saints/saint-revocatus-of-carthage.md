@@ -1,18 +1,19 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Revocatus of Carthage"
+name: Saint Revocatus of Carthage
 honorific: Saint
-summary: "Catechumen. Martyr."
+summary: Catechumen. Martyr.
 deathYear: 203
-died: "mauled by wild beasts and beheaded 7 March 203 at Carthage, North Africa"
-deathPlace: "North Africa"
-region: "England"
+died: mauled by wild beasts and beheaded 7 March 203 at Carthage, North Africa
+deathPlace: North Africa
+region: England
 feastDay:
   month: 3
   day: 7
 canonizationStatus: Saint
 vocation: []
 martyr: true
+prayers: []
 ---
 
 Catechumen. Martyr.

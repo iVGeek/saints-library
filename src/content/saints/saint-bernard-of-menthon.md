@@ -42,6 +42,7 @@ patronage:
   - Campiglia Cervo, Italy
   - Menthon, France
 martyr: false
+prayers: []
 ---
 
 Born to the French nobility. Priest. Archdeacon of Aosta in 996. Evangelized the people of the Alps for over 40 years. Vicar-general of Alpine diocese. He started a patrol that cleared robbers from the mountains, and he established hospices for travellers and pilgrims to Rome, Italy; he established a community of Augustinian Hospitallers to staff them, and they continue their good work today. The large dogs, trained to search for lost victims in the mountains, are named for him.

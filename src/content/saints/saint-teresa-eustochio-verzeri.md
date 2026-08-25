@@ -1,29 +1,34 @@
 ---
-name: "Saint Teresa Eustochio Verzeri"
+name: Saint Teresa Eustochio Verzeri
 honorific: Venerable
-summary: "Teresa's mother, Countess Elena Pedrocca-Grumelli, had felt drawn to the religious life, but her aunt, a Poor Clare nun, prophesied that Elena would be the mother of holy children. Teresa was the oldest of the seven children; her brother became bishop of Brescia, Italy. Ingazia w"
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Teresa-Eustochio-Verzeri.jpg"
+summary: >-
+  Teresa's mother, Countess Elena Pedrocca-Grumelli, had felt drawn to the religious life, but her aunt, a Poor Clare
+  nun, prophesied that Elena would be the mother of holy children. Teresa was the oldest of the seven children; her
+  brother became bishop of Brescia, Italy. Ingazia w
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Teresa-Eustochio-Verzeri.jpg
 searchAliases:
-  - "Ignazia Verzeri"
+  - Ignazia Verzeri
 birthYear: 1801
 deathYear: 1852
-born: "31 July 1801 at Bergamo, Lombardy, Italy as Ignazia Verzeri"
-died: "3 March 1852 at Brescia, Italy of natural causes"
-birthPlace: "Lombardy, Italy as Ignazia Verzeri"
-deathPlace: "Italynatural causes"
-region: "Africa"
+born: 31 July 1801 at Bergamo, Lombardy, Italy as Ignazia Verzeri
+died: 3 March 1852 at Brescia, Italy of natural causes
+birthPlace: Lombardy, Italy as Ignazia Verzeri
+deathPlace: Italynatural causes
+region: Africa
 feastDay:
   month: 3
   day: 3
-centuries: [19]
+centuries:
+  - 19
 canonizationStatus: Venerable
 vocation:
   - Bishop
   - Religious
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 patronage:
-  - "Daughters of the Sacred Heart of Jesus"
+  - Daughters of the Sacred Heart of Jesus
 martyr: false
+prayers: []
 ---
 
 Teresa's mother, Countess Elena Pedrocca-Grumelli, had felt drawn to the religious life, but her aunt, a Poor Clare nun, prophesied that Elena would be the mother of holy children. Teresa was the oldest of the seven children; her brother became bishop of Brescia, Italy. Ingazia was educated at home, and the canon Giuseppe Benaglio, Vicar General of the diocese of Bergamo, Italy was her spiritual teacher.

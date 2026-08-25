@@ -1,18 +1,21 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Massimus of Palermo"
+name: Saint Massimus of Palermo
 honorific: Saint
-summary: "Martyred in the persecutions of Diocletian. The monastery of San Massimo di Lucusiano in Palermo, founded by Pope Gregory the Great was apparently named in his honour."
+summary: >-
+  Martyred in the persecutions of Diocletian. The monastery of San Massimo di Lucusiano in Palermo, founded by Pope
+  Gregory the Great was apparently named in his honour.
 deathYear: 303
-died: "303 in Palermo, Italy"
-deathPlace: "Italy"
-region: "Italy"
+died: 303 in Palermo, Italy
+deathPlace: Italy
+region: Italy
 feastDay:
   month: 2
   day: 21
 canonizationStatus: Saint
 vocation: []
 martyr: true
+prayers: []
 ---
 
 Martyred in the persecutions of Diocletian. The monastery of San Massimo di Lucusiano in Palermo, founded by Pope Gregory the Great was apparently named in his honour.

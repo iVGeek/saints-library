@@ -1,9 +1,9 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Basileus of Braga"
+name: Saint Basileus of Braga
 honorific: Saint
-summary: "First bishop of Braga, Portugal."
-region: "Portugal"
+summary: First bishop of Braga, Portugal.
+region: Portugal
 feastDay:
   month: 5
   day: 23
@@ -12,6 +12,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 First bishop of Braga, Portugal.

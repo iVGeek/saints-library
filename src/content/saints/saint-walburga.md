@@ -1,67 +1,71 @@
 ---
-name: "Saint Walburga"
+name: Saint Walburga
 honorific: Saint
-summary: " Beginning in 748, she evangelized and healed pagans in what is now Germany with Saint Lioba, Saint Bonifa Daughter of Saint Richard the King. Sister of Saint Willibald and Saint Winebald. Student of Saint Tatta at Wimborne monastery, Dorset, England, where she later became a nun."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Walburga.jpg"
+summary: ' Beginning in 748, she evangelized and healed pagans in what is now Germany with Saint Lioba, Saint Bonifa Daughter of Saint Richard the King. Sister of Saint Willibald and Saint Winebald. Student of Saint Tatta at Wimborne monastery, Dorset, England, where she later became a nun.'
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Walburga.jpg
 searchAliases:
-  - "Auboué"
-  - "Avangour"
-  - "Avongourg"
-  - "Bugga"
-  - "Falbourg"
-  - "Gaubourg"
-  - "Gauburge"
-  - "Gaudurge"
-  - "Gualbourg"
-  - "Valborg"
-  - "Valburg"
-  - "Valburga"
-  - "Valpurga"
-  - "Valpurge"
-  - "Valpuri"
-  - "Vaubouer"
-  - "Vaubourg"
-  - "Walbourg"
-  - "Walburg"
-  - "Walburge"
-  - "Walpurd"
-  - "Walpurga"
-  - "Walpurgis"
-  - "Waltpurde"
-  - "Warpurg"
+  - Auboué
+  - Avangour
+  - Avongourg
+  - Bugga
+  - Falbourg
+  - Gaubourg
+  - Gauburge
+  - Gaudurge
+  - Gualbourg
+  - Valborg
+  - Valburg
+  - Valburga
+  - Valpurga
+  - Valpurge
+  - Valpuri
+  - Vaubouer
+  - Vaubourg
+  - Walbourg
+  - Walburg
+  - Walburge
+  - Walpurd
+  - Walpurga
+  - Walpurgis
+  - Waltpurde
+  - Warpurg
 birthYear: 710
 deathYear: 779
-born: "c.710 at Devonshire, Wessex, England"
-died: "25 February 779 at Heidenheim, Swabia, Germany of natural causes"
-birthPlace: "Wessex, England"
-deathPlace: "Swabia, Germanynatural causes"
-region: "Germany"
+born: c.710 at Devonshire, Wessex, England
+died: 25 February 779 at Heidenheim, Swabia, Germany of natural causes
+birthPlace: Wessex, England
+deathPlace: Swabia, Germanynatural causes
+region: Germany
 feastDay:
   month: 2
   day: 25
 canonizationStatus: Saint
 vocation:
   - Missionary
-religiousOrder: "Jesuit"
+religiousOrder: Jesuit
 patronage:
-  - "against coughs"
-  - "against dog bites"
-  - "against famine"
-  - "against hydrophobia"
-  - "against mad dogs"
-  - "against plague"
-  - "against rabies"
-  - "against storms"
-  - "boatmen"
-  - "farmers"
-  - "harvests"
-  - "mariners"
-  - "peasants"
-  - "sailors"
-  - "watermen"
-  - "in Belgium\n\nAntwerp"
-  - "Oudenarde"
+  - against coughs
+  - against dog bites
+  - against famine
+  - against hydrophobia
+  - against mad dogs
+  - against plague
+  - against rabies
+  - against storms
+  - boatmen
+  - farmers
+  - harvests
+  - mariners
+  - peasants
+  - sailors
+  - watermen
+  - |-
+    in Belgium
+
+    Antwerp
+  - Oudenarde
 martyr: false
+prayers: []
 ---
 
 Daughter of Saint Richard the King. Sister of Saint Willibald and Saint Winebald. Student of Saint Tatta at Wimborne monastery, Dorset, England, where she later became a nun.

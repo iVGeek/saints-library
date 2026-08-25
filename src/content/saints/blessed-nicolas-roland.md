@@ -24,6 +24,7 @@ religiousOrder: Jesuit
 patronage:
   - Sisters of the Infant Jesus
 martyr: false
+prayers: []
 ---
 
 Raised in a pious family. Educated by Jesuits. Canon of Rheims, France while still a seminarian. Priest. Noted preacher. Assigned as parish priest in Rouen, France. Returned to Rheims with the plan to start schools for poor girls; he took a run-down orphanage and turned it into a successful school for orphaned and abandoned girls. Founder of the Soeurs de l’Enfant-Jésus (Sisters of the Infant Jesus) whose first members were teachers at his school; they received formal approval on 9 May 1678. He and the Sisters expanded the work and founded more schools around the city. Friend and mentor of Saint John Baptist la Salle who continued Nicolas' work by supervising the Sisters, and later founding schools for boys.

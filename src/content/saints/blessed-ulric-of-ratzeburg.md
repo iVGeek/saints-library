@@ -1,16 +1,19 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Ulric of Ratzeburg"
+name: Blessed Ulric of Ratzeburg
 honorific: Blessed
-summary: "Born to the nobility. Premonstratensian canon at the monastery of Ratzeburg, Germany. Priest. Bishop of Ratzeburg in 1257; he served for 27 years. Known for his zeal for the faith, his dedication to the Norbertine Rule, his piety, charity, and his care for the poor of his diocese"
+summary: >-
+  Born to the nobility. Premonstratensian canon at the monastery of Ratzeburg, Germany. Priest. Bishop of Ratzeburg in
+  1257; he served for 27 years. Known for his zeal for the faith, his dedication to the Norbertine Rule, his piety,
+  charity, and his care for the poor of his diocese
 searchAliases:
-  - "Ulrich"
-  - "Ulrik"
+  - Ulrich
+  - Ulrik
 birthYear: 1214
 deathYear: 1284
-born: "c.1214 in Blucher-Ludwigslust (in modern Germany)"
-died: "15 January 1284 of natural causes"
-region: "Germany"
+born: c.1214 in Blucher-Ludwigslust (in modern Germany)
+died: 15 January 1284 of natural causes
+region: Germany
 feastDay:
   month: 7
   day: 4
@@ -19,6 +22,7 @@ vocation:
   - Bishop
   - Priest
 martyr: false
+prayers: []
 ---
 
 Born to the nobility. Premonstratensian canon at the monastery of Ratzeburg, Germany. Priest. Bishop of Ratzeburg in 1257; he served for 27 years. Known for his zeal for the faith, his dedication to the Norbertine Rule, his piety, charity, and his care for the poor of his diocese.

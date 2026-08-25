@@ -1,23 +1,24 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Gil Belascoain Ilagorri"
+name: Blessed Gil Belascoain Ilagorri
 honorific: Blessed
-summary: "Lay brother in the Vincentian Congregation of the Mission. Martyred in the Spanish Civil War."
+summary: Lay brother in the Vincentian Congregation of the Mission. Martyred in the Spanish Civil War.
 birthYear: 1883
 deathYear: 1936
-born: "1 September 1883 in Legarda, Navarra, Spain"
-died: "7 November 1936 in Paracuellos de Jarama, Madrid, Spain"
-birthPlace: "Navarra, Spain"
-deathPlace: "Madrid, Spain"
-region: "Spain"
+born: 1 September 1883 in Legarda, Navarra, Spain
+died: 7 November 1936 in Paracuellos de Jarama, Madrid, Spain
+birthPlace: Navarra, Spain
+deathPlace: Madrid, Spain
+region: Spain
 feastDay:
   month: 11
   day: 7
 canonizationStatus: Blessed
 vocation:
   - Cardinal
-religiousOrder: "Lazarist"
+religiousOrder: Lazarist
 martyr: true
+prayers: []
 ---
 
 Lay brother in the Vincentian Congregation of the Mission. Martyred in the Spanish Civil War.

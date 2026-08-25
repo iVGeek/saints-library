@@ -1,9 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Benedicta of Lorraine"
+name: Saint Benedicta of Lorraine
 honorific: Saint
-summary: "Tenth-century princess, the daughter of the king of Lorraine. Sister of Saint Cecilia of Lorraine. Nun and then abbess of Susteren Abbey in the German Rhineland."
-region: "France"
+summary: >-
+  Tenth-century princess, the daughter of the king of Lorraine. Sister of Saint Cecilia of Lorraine. Nun and then abbess
+  of Susteren Abbey in the German Rhineland.
+region: France
 feastDay:
   month: 8
   day: 17
@@ -12,6 +14,7 @@ vocation:
   - Monk
   - Religious
 martyr: false
+prayers: []
 ---
 
 Tenth-century princess, the daughter of the king of Lorraine. Sister of Saint Cecilia of Lorraine. Nun and then abbess of Susteren Abbey in the German Rhineland.

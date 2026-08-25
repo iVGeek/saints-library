@@ -1,15 +1,18 @@
 ---
-name: "Saint Jean-Théophane Vénard"
+name: Saint Jean-Théophane Vénard
 honorific: Saint
-summary: "Raised in a pious family; one brother became a priest, and was later curator for Theophane's writings, and another was the bishop of Poitiers, France. Studied at the College of Doue-la-Fontaine, Montmorillon, Poitiers, and the Paris Seminary for Foreign Missions. Ordained on 5 Ju"
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Jean-Théophane-Vénard.jpg"
+summary: >-
+  Raised in a pious family; one brother became a priest, and was later curator for Theophane's writings, and another was
+  the bishop of Poitiers, France. Studied at the College of Doue-la-Fontaine, Montmorillon, Poitiers, and the Paris
+  Seminary for Foreign Missions. Ordained on 5 Ju
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Jean-Théophane-Vénard.jpg
 birthYear: 1829
 deathYear: 1861
-born: "21 November 1829 at Saint-Loup, diocese of Poitiers, France"
-died: "beheaded on 2 February 1861 at Ô Cau Giay, Hanoi, Tonkin (in modern Vietnam)"
-birthPlace: "diocesePoitiers, France"
-deathPlace: "Hanoi, Tonk(in modern Vietnam)"
-region: "Vietnam"
+born: 21 November 1829 at Saint-Loup, diocese of Poitiers, France
+died: beheaded on 2 February 1861 at Ô Cau Giay, Hanoi, Tonkin (in modern Vietnam)
+birthPlace: diocesePoitiers, France
+deathPlace: Hanoi, Tonk(in modern Vietnam)
+region: Vietnam
 feastDay:
   month: 2
   day: 2
@@ -19,6 +22,7 @@ vocation:
   - Priest
   - Missionary
 martyr: true
+prayers: []
 ---
 
 Raised in a pious family; one brother became a priest, and was later curator for Theophane's writings, and another was the bishop of Poitiers, France. Studied at the College of Doue-la-Fontaine, Montmorillon, Poitiers, and the Paris Seminary for Foreign Missions. Ordained on 5 June 1852. Missionary to southeast Asia, leaving on 19 September 1852. Worked fifteen months at Hong Kong, then transferred to West Tonkin (in modern Vietnam).

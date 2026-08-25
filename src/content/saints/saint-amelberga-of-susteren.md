@@ -1,24 +1,25 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Amelberga of Susteren"
+name: Saint Amelberga of Susteren
 honorific: Saint
-summary: "Benedictine nun. Abbess of Susteren Abbey."
+summary: Benedictine nun. Abbess of Susteren Abbey.
 searchAliases:
-  - "Amalburga"
-  - "Amalia"
-  - "Amalberga"
+  - Amalburga
+  - Amalia
+  - Amalberga
 deathYear: 900
-born: "early 9th century"
-died: "c.900"
-region: "England"
+born: early 9th century
+died: c.900
+region: England
 feastDay:
   month: 11
   day: 21
 canonizationStatus: Saint
 vocation:
   - Religious
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 martyr: false
+prayers: []
 ---
 
 Benedictine nun. Abbess of Susteren Abbey.

@@ -1,14 +1,14 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Dionysius of Vienne"
+name: Saint Dionysius of Vienne
 honorific: Saint
-summary: "Bishop of Vienne, France."
+summary: Bishop of Vienne, France.
 searchAliases:
-  - "Denis"
-  - "Dionigi"
+  - Denis
+  - Dionigi
 deathYear: 193
-died: "c.193"
-region: "France"
+died: c.193
+region: France
 feastDay:
   month: 5
   day: 9
@@ -17,6 +17,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Bishop of Vienne, France.

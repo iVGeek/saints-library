@@ -30,6 +30,7 @@ patronage:
   - Senigallia, diocese of
   - Sutera
 martyr: false
+prayers: []
 ---
 
 Friend of Saint Augustine of Hippo and Saint Nicetas of Remesiana, and mentioned for his holiness by at least six of his contemporary saints.

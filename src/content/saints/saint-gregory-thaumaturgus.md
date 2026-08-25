@@ -1,22 +1,25 @@
 ---
-name: "Saint Gregory Thaumaturgus"
+name: Saint Gregory Thaumaturgus
 honorific: Saint
-summary: "Born to a wealthy and distinguished pagan family. Trained in law and rhetoric in his youth. Brother-in-law to the Roman governor of Palestine. His father died when Theodore was age 14. The boy had originally planned to study at the law school in Beirut, but when he arrived at Cae"
-image: "https://upload.wikimedia.org/wikipedia/commons/4/4c/Grigorii_chudotvoretz.jpg"
+summary: >-
+  Born to a wealthy and distinguished pagan family. Trained in law and rhetoric in his youth. Brother-in-law to the
+  Roman governor of Palestine. His father died when Theodore was age 14. The boy had originally planned to study at the
+  law school in Beirut, but when he arrived at Cae
+image: https://upload.wikimedia.org/wikipedia/commons/4/4c/Grigorii_chudotvoretz.jpg
 searchAliases:
-  - "Gregory of Neo Caesarea"
-  - "Gregory of Neocaesarea"
-  - "Gregory of Pontus"
-  - "Gregory the Wonder Worker"
-  - "The Wonder Worker"
-  - "Theodorus"
+  - Gregory of Neo Caesarea
+  - Gregory of Neocaesarea
+  - Gregory of Pontus
+  - Gregory the Wonder Worker
+  - The Wonder Worker
+  - Theodorus
 birthYear: 213
 deathYear: 270
-born: "c.213 at Pontus, Asia Minor (in modern Turkey) as Theodorus"
-died: "c.270 at Pontus, Asia Minor (in modern Turkey) of natural causes"
-birthPlace: "Asia Minor (modern Turkey) as Theodorus"
-deathPlace: "Asia Minor (modern Turkey) of natural causes"
-region: "Australia"
+born: c.213 at Pontus, Asia Minor (in modern Turkey) as Theodorus
+died: c.270 at Pontus, Asia Minor (in modern Turkey) of natural causes
+birthPlace: Asia Minor (modern Turkey) as Theodorus
+deathPlace: Asia Minor (modern Turkey) of natural causes
+region: Australia
 feastDay:
   month: 11
   day: 17
@@ -26,15 +29,16 @@ vocation:
   - Priest
   - Deacon
   - Confessor
-religiousOrder: "Dominican"
+religiousOrder: Dominican
 patronage:
-  - "against earthquakes"
-  - "against floods"
-  - "desperate causes"
-  - "forgotten causes"
-  - "impossible causes"
-  - "lost causes"
+  - against earthquakes
+  - against floods
+  - desperate causes
+  - forgotten causes
+  - impossible causes
+  - lost causes
 martyr: true
+prayers: []
 ---
 
 Born to a wealthy and distinguished pagan family. Trained in law and rhetoric in his youth. Brother-in-law to the Roman governor of Palestine. His father died when Theodore was age 14. The boy had originally planned to study at the law school in Beirut, but when he arrived at Caesarea with his brother-in-law's entourage, he encountered Origen, head of the catechetical school in Alexandria, Egypt. He and his brother Athenodorus each gave up the idea of law school, became students of Origen, and converted to Christianity; Theodore changed his name to Gregory. Studied philosophy and theology for seven years under Origen. Returned to Pontus c.238.

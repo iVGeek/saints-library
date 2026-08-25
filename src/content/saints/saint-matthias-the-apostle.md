@@ -29,6 +29,7 @@ patronage:
   - –
   - Deliceto, Italy
 martyr: true
+prayers: []
 ---
 
 Apostle. As he could bear witness to the Resurrection of Jesus, he was chosen to replace Judas Iscariot. Preached the Gospel for more than 30 years in Judea, Cappadocia, Egypt and Ethiopia. Remembered for preaching the need for mortification of the flesh with regard to all its sensual and irregular desires. Martyr.

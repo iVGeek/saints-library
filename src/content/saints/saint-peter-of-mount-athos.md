@@ -1,9 +1,9 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Peter of Mount Athos"
+name: Saint Peter of Mount Athos
 honorific: Saint
-summary: " Legend says that he was a soldier captured by Muslims, but freed through the intercession of Saint Simeon. He made a pilgrimage to Rome, Italy and was given a monastic habit by the (unnamed) pope. Moved by a vision of the Blessed First hermit on Mount Athos in 8th century Greece."
-region: "Italy"
+summary: ' Legend says that he was a soldier captured by Muslims, but freed through the intercession of Saint Simeon. He made a pilgrimage to Rome, Italy and was given a monastic habit by the (unnamed) pope. Moved by a vision of the Blessed First hermit on Mount Athos in 8th century Greece.'
+region: Italy
 feastDay:
   month: 6
   day: 12
@@ -14,6 +14,7 @@ vocation:
   - Hermit
   - Soldier
 martyr: false
+prayers: []
 ---
 
 First hermit on Mount Athos in 8th century Greece.

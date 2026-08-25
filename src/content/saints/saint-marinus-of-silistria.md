@@ -1,8 +1,8 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Marinus of Silistria"
+name: Saint Marinus of Silistria
 honorific: Saint
-summary: "Martyr."
+summary: Martyr.
 feastDay:
   month: 7
   day: 18
@@ -10,6 +10,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Martyr.

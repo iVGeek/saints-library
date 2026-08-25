@@ -1,14 +1,16 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Largus"
+name: Saint Largus
 honorific: Saint
-summary: "Ministered to the Christian slaves who worked to build and staff the baths of Diocletian. Tortured and martyred with a group of 19 other Christians in the persecutions of Diocletian and Maximian Herculeus."
+summary: >-
+  Ministered to the Christian slaves who worked to build and staff the baths of Diocletian. Tortured and martyred with a
+  group of 19 other Christians in the persecutions of Diocletian and Maximian Herculeus.
 searchAliases:
-  - "Largo"
+  - Largo
 deathYear: 303
-died: "excoriated and beheaded in 303 on the Salarian Way, Rome, Italy"
-deathPlace: "Rome, Italy"
-region: "Italy"
+died: excoriated and beheaded in 303 on the Salarian Way, Rome, Italy
+deathPlace: Rome, Italy
+region: Italy
 feastDay:
   month: 8
   day: 8
@@ -17,6 +19,7 @@ vocation:
   - Priest
   - Monk
 martyr: true
+prayers: []
 ---
 
 Ministered to the Christian slaves who worked to build and staff the baths of Diocletian. Tortured and martyred with a group of 19 other Christians in the persecutions of Diocletian and Maximian Herculeus.

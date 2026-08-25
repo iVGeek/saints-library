@@ -20,6 +20,7 @@ vocation:
   - Missionary
 religiousOrder: Jesuit
 martyr: true
+prayers: []
 ---
 
 Jesuit friar. Missionary. Martyred by the Huguenot Jacques Sourie while en route to Brazil.

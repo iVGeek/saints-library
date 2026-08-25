@@ -17,6 +17,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/6/62/Saint_Roch.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Firmatus of Auxerre
 imageCreditUrl: https://en.wikipedia.org/wiki/Patron%20saints%20of%20ailments%2C%20illness%2C%20and%20dangers
+prayers: []
 ---
 
 Deacon. Martyr.

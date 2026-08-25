@@ -27,6 +27,7 @@ vocation:
   - Soldier
 religiousOrder: Augustinian
 martyr: false
+prayers: []
 ---
 
 Born to the Italian nobility. Became Augustinian in 1790 at age 16 at the monastery of Saint Mark in Venice, Italy, taking the name Stephen; he made his profession on 31 May 1794. Studied in Rome and Bologna in Italy. During the French Revolution troops shut down religious houses in the region, and dissolved the Augustinians; this ended Stephen's studies, and left him without his religious community.

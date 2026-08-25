@@ -1,16 +1,16 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Gregory Makar"
+name: Saint Gregory Makar
 honorific: Saint
-summary: "Armenian monk. Bishop of Nicopolis, Armenia. Became a hermit at Pithiviers, Orleans, France."
+summary: Armenian monk. Bishop of Nicopolis, Armenia. Became a hermit at Pithiviers, Orleans, France.
 searchAliases:
-  - "Gregor Makar"
-  - "Gregory of Nicopolis"
+  - Gregor Makar
+  - Gregory of Nicopolis
 deathYear: 1000
-born: "Armenia"
-died: "c.1000 in Pithiviers, France"
-deathPlace: "France"
-region: "France"
+born: Armenia
+died: c.1000 in Pithiviers, France
+deathPlace: France
+region: France
 feastDay:
   month: 3
   day: 16
@@ -20,6 +20,7 @@ vocation:
   - Monk
   - Hermit
 martyr: false
+prayers: []
 ---
 
 Armenian monk. Bishop of Nicopolis, Armenia. Became a hermit at Pithiviers, Orleans, France.

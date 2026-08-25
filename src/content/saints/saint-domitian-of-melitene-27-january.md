@@ -21,6 +21,7 @@ vocation:
   - Deacon
   - Hermit
 martyr: false
+prayers: []
 ---
 
 Spiritual student of Saint Euthymius the Great. Desert hermit. Evangelizing preacher in the Caphar Baricha region. Founded the monastery of the Sahel. Ordained as a deacon in 429 by Bishop Juvenal of Jerusalem. When Saint Euthymius died, Domitian lived as a hermit near his tomb.

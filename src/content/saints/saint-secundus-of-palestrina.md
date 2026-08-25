@@ -1,14 +1,14 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Secundus of Palestrina"
+name: Saint Secundus of Palestrina
 honorific: Saint
-summary: "Bishop of Palestrina, Italy. Martyred in the persecutions of Diocletian."
+summary: Bishop of Palestrina, Italy. Martyred in the persecutions of Diocletian.
 searchAliases:
-  - "Secondino"
+  - Secondino
 deathYear: 315
-died: "315 on the Via Prenestina, 13 miles from Rome, Italy"
-deathPlace: "13 milesRome, Italy"
-region: "Italy"
+died: 315 on the Via Prenestina, 13 miles from Rome, Italy
+deathPlace: 13 milesRome, Italy
+region: Italy
 feastDay:
   month: 8
   day: 1
@@ -17,6 +17,7 @@ vocation:
   - Bishop
   - Monk
 martyr: true
+prayers: []
 ---
 
 Bishop of Palestrina, Italy. Martyred in the persecutions of Diocletian.

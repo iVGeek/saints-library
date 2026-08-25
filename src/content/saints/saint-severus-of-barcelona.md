@@ -17,6 +17,7 @@ vocation:
 patronage:
   - Barcelona, Spain
 martyr: true
+prayers: []
 ---
 
 Bishop of Barcelona, Spain. Martyred by Arian Visigoths.

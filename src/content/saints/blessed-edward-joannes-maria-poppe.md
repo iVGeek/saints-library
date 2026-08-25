@@ -1,15 +1,18 @@
 ---
-name: "Blessed Edward Joannes Maria Poppe"
+name: Blessed Edward Joannes Maria Poppe
 honorific: Blessed
-summary: "Son of D&egrave;sir&egrave;, a baker, and Josefa; Edward was one of eleven children; one brother became a priest, five sisters were nuns. Raised in a pious and hard working family, Edward was an energetic, almost hyperactive child, but an excellent student who early felt a call t"
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Edward-Joannes-Maria-Poppe.jpg"
+summary: >-
+  Son of D&egrave;sir&egrave;, a baker, and Josefa; Edward was one of eleven children; one brother became a priest, five
+  sisters were nuns. Raised in a pious and hard working family, Edward was an energetic, almost hyperactive child, but
+  an excellent student who early felt a call t
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Edward-Joannes-Maria-Poppe.jpg
 birthYear: 1890
 deathYear: 1924
-born: "18 December 1890 in Temse, Belgium"
-died: "10 June 1924 at Moerzeke, Belgium of a stroke"
-birthPlace: "Belgium"
-deathPlace: "Belgiuma stroke"
-region: "Belgium"
+born: 18 December 1890 in Temse, Belgium
+died: 10 June 1924 at Moerzeke, Belgium of a stroke
+birthPlace: Belgium
+deathPlace: Belgiuma stroke
+region: Belgium
 feastDay:
   month: 6
   day: 10
@@ -19,6 +22,7 @@ vocation:
   - Religious
   - Soldier
 martyr: false
+prayers: []
 ---
 
 Son of D&egrave;sir&egrave;, a baker, and Josefa; Edward was one of eleven children; one brother became a priest, five sisters were nuns. Raised in a pious and hard working family, Edward was an energetic, almost hyperactive child, but an excellent student who early felt a call to the priesthood. His father died in January 1907, and Edward wanted to take over the family business, but his mother insisted that he continue his studies. Seminarians were subject to military service, and in September 1910 Edward was drafted; being a seminarian made him the target for much harassment. He entered the seminary in Leuven, Belgium on 13 March 1912, and in Ghent in September 1913. He served as battlefield nurse during World War I, during which his health was nearly ruined, and his prayers to Saint Joseph led to the miraculous freeing of several prisoners of war.

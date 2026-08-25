@@ -1,15 +1,15 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Josep Solé Maimó"
+name: Blessed Josep Solé Maimó
 honorific: Blessed
-summary: "Member of the Claretians, professed on 6 January 1917. Martyred in the Spanish Civil War."
+summary: Member of the Claretians, professed on 6 January 1917. Martyred in the Spanish Civil War.
 birthYear: 1890
 deathYear: 1936
-born: "21 August 1890 in La Guardia Lada, Lleida, Spain"
-died: "5 September 1936 in Terrasa, Barcelona, Spain"
-birthPlace: "Lleida, Spain"
-deathPlace: "Barcelona, Spain"
-region: "Spain"
+born: 21 August 1890 in La Guardia Lada, Lleida, Spain
+died: 5 September 1936 in Terrasa, Barcelona, Spain
+birthPlace: Lleida, Spain
+deathPlace: Barcelona, Spain
+region: Spain
 feastDay:
   month: 9
   day: 5
@@ -18,6 +18,7 @@ vocation:
   - Bishop
   - Cardinal
 martyr: true
+prayers: []
 ---
 
 Member of the Claretians, professed on 6 January 1917. Martyred in the Spanish Civil War.

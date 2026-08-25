@@ -1,17 +1,19 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Ethelgiva of Shaftesbury"
+name: Saint Ethelgiva of Shaftesbury
 honorific: Saint
-summary: "Princess, the daughter of King Alfred the Great. Nun. With her father's help, she founded and served as first abbess of Shaftesbury Abbey in Dorset, England."
+summary: >-
+  Princess, the daughter of King Alfred the Great. Nun. With her father's help, she founded and served as first abbess
+  of Shaftesbury Abbey in Dorset, England.
 searchAliases:
-  - "Æthelgifu"
-  - "Algina"
-  - "Elfgifu"
-  - "Elgiva"
-  - "Etelgiva"
+  - Æthelgifu
+  - Algina
+  - Elfgifu
+  - Elgiva
+  - Etelgiva
 deathYear: 896
-died: "896"
-region: "England"
+died: '896'
+region: England
 feastDay:
   month: 12
   day: 9
@@ -21,6 +23,7 @@ vocation:
   - Monk
   - Religious
 martyr: false
+prayers: []
 ---
 
 Princess, the daughter of King Alfred the Great. Nun. With her father's help, she founded and served as first abbess of Shaftesbury Abbey in Dorset, England.

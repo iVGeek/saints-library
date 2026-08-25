@@ -1,26 +1,29 @@
 ---
-name: "Saint David of Wales"
+name: Saint David of Wales
 honorific: Saint
-summary: "Born to the Welsh royalty, the son of King Sandde, Prince of Powys, and of Saint Non, the daughter of a chieftain of Menevia (western Wales). Grandson of Ceredig, Prince of Cardigan. Uncle of King Arthur. Priest. Studied under Saint Paul Aurelian. Worked with Saint Columbanus, Sa"
-image: "http://catholicsaints.info/wp-content/gallery/saint-david-of-wales/saint-david-of-wales-00.jpg"
+summary: >-
+  Born to the Welsh royalty, the son of King Sandde, Prince of Powys, and of Saint Non, the daughter of a chieftain of
+  Menevia (western Wales). Grandson of Ceredig, Prince of Cardigan. Uncle of King Arthur. Priest. Studied under Saint
+  Paul Aurelian. Worked with Saint Columbanus, Sa
+image: http://catholicsaints.info/wp-content/gallery/saint-david-of-wales/saint-david-of-wales-00.jpg
 searchAliases:
-  - "David the Briton"
-  - "David of Menevia"
-  - "David del Galles"
-  - "Degui"
-  - "Dewi"
-  - "Dewi Sant"
-  - "Dewid"
-  - "Dewm"
-  - "Dewn"
-  - "Dmui"
+  - David the Briton
+  - David of Menevia
+  - David del Galles
+  - Degui
+  - Dewi
+  - Dewi Sant
+  - Dewid
+  - Dewm
+  - Dewn
+  - Dmui
 birthYear: 542
 deathYear: 601
-born: "c.542 at Menevia (now Saint David's), Wales"
-died: "c.601 at Mynyw, Wales of natural causes"
-birthPlace: "Wales"
-deathPlace: "Walesnatural causes"
-region: "Holy Land"
+born: c.542 at Menevia (now Saint David's), Wales
+died: c.601 at Mynyw, Wales of natural causes
+birthPlace: Wales
+deathPlace: Walesnatural causes
+region: Holy Land
 feastDay:
   month: 3
   day: 1
@@ -29,15 +32,19 @@ vocation:
   - Bishop
   - Priest
   - Missionary
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 patronage:
-  - "doves"
-  - "–"
-  - "Wales"
-  - "–"
-  - "in Wales\n\nBangor"
-  - "Llandaff"
+  - doves
+  - –
+  - Wales
+  - –
+  - |-
+    in Wales
+
+    Bangor
+  - Llandaff
 martyr: false
+prayers: []
 ---
 
 Born to the Welsh royalty, the son of King Sandde, Prince of Powys, and of Saint Non, the daughter of a chieftain of Menevia (western Wales). Grandson of Ceredig, Prince of Cardigan. Uncle of King Arthur. Priest. Studied under Saint Paul Aurelian. Worked with Saint Columbanus, Saint Gildas the Wise, and Saint Finnigan. Missionary and founder of monasteries.

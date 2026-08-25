@@ -21,6 +21,7 @@ vocation:
   - Priest
   - Monk
 martyr: false
+prayers: []
 ---
 
 Bishop of Clermont, France from 426 to 446.

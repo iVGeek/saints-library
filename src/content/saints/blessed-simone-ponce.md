@@ -1,18 +1,21 @@
 ---
-name: "Blessed Simone Ponce"
+name: Blessed Simone Ponce
 honorific: Blessed
-summary: "Mercedarian friar. Assigned to the Andalusia region of modern Spain, he suffered abuse from the Moors, but managed to free 137 Christians enslaved by Muslims."
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Simone-Ponce.jpg"
+summary: >-
+  Mercedarian friar. Assigned to the Andalusia region of modern Spain, he suffered abuse from the Moors, but managed to
+  free 137 Christians enslaved by Muslims.
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Simone-Ponce.jpg
 deathYear: 1359
-born: "Spain"
-died: "1359 of natural causes"
-region: "Spain"
+born: Spain
+died: 1359 of natural causes
+region: Spain
 feastDay:
   month: 9
   day: 1
 canonizationStatus: Blessed
 vocation: []
 martyr: false
+prayers: []
 ---
 
 Mercedarian friar. Assigned to the Andalusia region of modern Spain, he suffered abuse from the Moors, but managed to free 137 Christians enslaved by Muslims.

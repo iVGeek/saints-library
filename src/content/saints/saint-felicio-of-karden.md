@@ -1,12 +1,14 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Felicio of Karden"
+name: Saint Felicio of Karden
 honorific: Saint
-summary: "Father of Saint Simplicio and Saint Potentino. Pilgrim to various European holy places. Hermit at Karden (modern Treis-Karden, Germany)."
+summary: >-
+  Father of Saint Simplicio and Saint Potentino. Pilgrim to various European holy places. Hermit at Karden (modern
+  Treis-Karden, Germany).
 deathYear: 930
-born: "Aquitaine (in modern France)"
-died: "relics transferred to places in the Eifel region of western Germany at some point prior to 930"
-region: "Germany"
+born: Aquitaine (in modern France)
+died: relics transferred to places in the Eifel region of western Germany at some point prior to 930
+region: Germany
 feastDay:
   month: 6
   day: 18
@@ -15,6 +17,7 @@ vocation:
   - Priest
   - Hermit
 martyr: false
+prayers: []
 ---
 
 Father of Saint Simplicio and Saint Potentino. Pilgrim to various European holy places. Hermit at Karden (modern Treis-Karden, Germany).

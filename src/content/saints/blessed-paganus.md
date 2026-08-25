@@ -1,12 +1,12 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Paganus"
+name: Blessed Paganus
 honorific: Blessed
-summary: "Benedictine monk in Sicily. Hermit."
+summary: Benedictine monk in Sicily. Hermit.
 deathYear: 1423
-born: "Italian"
-died: "1423"
-region: "Italy"
+born: Italian
+died: '1423'
+region: Italy
 feastDay:
   month: 2
   day: 10
@@ -14,8 +14,9 @@ canonizationStatus: Blessed
 vocation:
   - Monk
   - Hermit
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 martyr: false
+prayers: []
 ---
 
 Benedictine monk in Sicily. Hermit.

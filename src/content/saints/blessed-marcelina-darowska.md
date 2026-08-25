@@ -24,6 +24,7 @@ vocation:
   - Priest
   - Religious
 martyr: false
+prayers: []
 ---
 
 Born to a land-owning Polish family, Marcellina was a pious child with a love of prayer. Though she would have preferred a religious life, she promised her dying father that she would marry and raise a family. Married Karol Darowski in 1849, and sanctified her marriage “by living only in God and for God.” Karol died less than 3 years later, leaving her a widowed mother of two. Her son died a year later, and she wrote, “The way of the world was not chosen for me by God's will; the way of the convent was, indeed, my destiny.”

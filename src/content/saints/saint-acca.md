@@ -1,19 +1,22 @@
 ---
-name: "Saint Acca of Hexham"
+name: Saint Acca of Hexham
 honorific: Saint
-summary: "Grew up in the household of Saint Bosa of York, and became his spiritual student, aide, and travelling companion. Benedictine monk. Close friend of and chaplain to Saint Wilfrid, and accompanied him on trips to the continent. Friend of the Venerable Bede, who dedicated some of hi"
-image: "http://catholicsaints.info/wp-content/uploads/img-Cross-of-Acca.jpg"
+summary: >-
+  Grew up in the household of Saint Bosa of York, and became his spiritual student, aide, and travelling companion.
+  Benedictine monk. Close friend of and chaplain to Saint Wilfrid, and accompanied him on trips to the continent. Friend
+  of the Venerable Bede, who dedicated some of hi
+image: http://catholicsaints.info/wp-content/uploads/img-Cross-of-Acca.jpg
 searchAliases:
-  - "Accas"
-  - "Actas"
-  - "Arcas"
+  - Accas
+  - Actas
+  - Arcas
 birthYear: 660
 deathYear: 742
-born: "c.660 in Northumbria, England"
-died: "20 October 742 at Whithorn, Galloway, Scotland of natural causes"
-birthPlace: "England"
-deathPlace: "Galloway, Scotlandnatural causes"
-region: "Italy"
+born: c.660 in Northumbria, England
+died: 20 October 742 at Whithorn, Galloway, Scotland of natural causes
+birthPlace: England
+deathPlace: Galloway, Scotlandnatural causes
+region: Italy
 feastDay:
   month: 10
   day: 20
@@ -21,12 +24,13 @@ canonizationStatus: Saint
 vocation:
   - Bishop
   - Monk
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 patronage:
-  - "learning"
-  - "–"
-  - "Hexham, England"
+  - learning
+  - –
+  - Hexham, England
 martyr: false
+prayers: []
 ---
 
 Grew up in the household of Saint Bosa of York, and became his spiritual student, aide, and travelling companion. Benedictine monk. Close friend of and chaplain to Saint Wilfrid, and accompanied him on trips to the continent. Friend of the Venerable Bede, who dedicated some of his writings to Acca. Abbot of Saint Andrews at Hexham, England in 709, nominated by Saint Wilfrid just before that holy man died. Bishop of Hexham.

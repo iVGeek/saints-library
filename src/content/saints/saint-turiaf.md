@@ -29,6 +29,7 @@ vocation:
   - Priest
   - Monk
 martyr: false
+prayers: []
 ---
 
 Born to the 8th century French nobility. Monk. Abbot. Priest, ordained by Saint Sampson. Bishop of Dol, Brittany, France.

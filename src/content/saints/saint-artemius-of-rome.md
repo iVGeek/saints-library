@@ -21,6 +21,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/a/a5/Sant_Art%C3%A8mi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Artemius of Rome
 imageCreditUrl: https://en.wikipedia.org/wiki/Artemius
+prayers: []
 ---
 
 Married to Saint Candida of Rome; father of Saint Paulina of Rome. Jailer. Convert, brought to the faith by Saint Peter the Exorcist and baptised by Saint Marcellinus. Martyr.

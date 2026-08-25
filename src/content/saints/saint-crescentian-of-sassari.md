@@ -1,14 +1,14 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Crescentian of Sassari"
+name: Saint Crescentian of Sassari
 honorific: Saint
-summary: "Martyred in the persecutions of Hadrian."
+summary: Martyred in the persecutions of Hadrian.
 searchAliases:
-  - "Crescentianus"
+  - Crescentianus
 deathYear: 130
-died: "c.130 in Sassari, Sardinia, Italy"
-deathPlace: "Sardinia, Italy"
-region: "Italy"
+died: c.130 in Sassari, Sardinia, Italy
+deathPlace: Sardinia, Italy
+region: Italy
 feastDay:
   month: 5
   day: 31
@@ -16,6 +16,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Martyred in the persecutions of Hadrian.

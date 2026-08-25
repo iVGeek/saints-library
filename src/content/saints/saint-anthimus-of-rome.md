@@ -18,6 +18,7 @@ vocation:
   - Priest
   - Monk
 martyr: true
+prayers: []
 ---
 
 Parish priest in Rome, Italy, noted for his conversions, including that of a Roman prefect. The official's change of faith brought Anthimus to the attention of Roman officials who condemned him to drown in the Tiber for his religion. Thrown in, he was rescued by an angel. Continuing his work, Anthimus was later recaptured and martyred.

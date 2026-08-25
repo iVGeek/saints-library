@@ -1,23 +1,24 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Bernard of Valdeiglesias"
+name: Saint Bernard of Valdeiglesias
 honorific: Saint
-summary: "Benedictine Cistercian monk."
+summary: Benedictine Cistercian monk.
 searchAliases:
-  - "Bernard of Candeleda"
+  - Bernard of Candeleda
 deathYear: 1155
-died: "1155 of natural causes"
-region: "Spain"
+died: 1155 of natural causes
+region: Spain
 feastDay:
   month: 8
   day: 20
 canonizationStatus: Saint
 vocation:
   - Monk
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 patronage:
-  - "Candelada, Spain"
+  - Candelada, Spain
 martyr: false
+prayers: []
 ---
 
 Benedictine Cistercian monk.

@@ -17,6 +17,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/d/d8/Chur_Kathedrale_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Adalgott of Einsiedeln
 imageCreditUrl: https://en.wikipedia.org/wiki/Diocese%20of%20Chur
+prayers: []
 ---
 
 Monk at Einsiedeln Abbey. Abbot of Dissentis Abbey in 1012.

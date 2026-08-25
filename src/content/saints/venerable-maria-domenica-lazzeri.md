@@ -28,6 +28,7 @@ vocation:
   - Priest
   - Religious
 martyr: false
+prayers: []
 ---
 
 Lifelong lay woman in the archdiocese of Trent, Italy who received the stigmata, and spent the last 14 years of her life in bed, never eating or drinking except for Communion. Every Friday during that period, she would bleed from the wounds on her hands, feet, side and 40+ holes around her head. She was reported to know languages that she'd never studied, and could hear people speaking homilies or blasphemies from great distances.

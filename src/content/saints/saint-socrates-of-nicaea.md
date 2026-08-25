@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Socrates of Nicaea"
+name: Saint Socrates of Nicaea
 honorific: Saint
-summary: "Priest in Bithynia (modern Iznik, Turkey). Martyr."
+summary: Priest in Bithynia (modern Iznik, Turkey). Martyr.
 deathYear: 230
-died: "c.230 in Nicaea"
-region: "Turkey"
+died: c.230 in Nicaea
+region: Turkey
 feastDay:
   month: 10
   day: 23
@@ -14,6 +14,7 @@ vocation:
   - Priest
   - Monk
 martyr: true
+prayers: []
 ---
 
 Priest in Bithynia (modern Iznik, Turkey). Martyr.

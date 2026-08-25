@@ -1,10 +1,10 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Corbican"
+name: Saint Corbican
 honorific: Saint
-summary: "Eighth century hermit in Netherlands where he was known for his charity and endless help to the local people."
-born: "Ireland"
-region: "Netherlands"
+summary: Eighth century hermit in Netherlands where he was known for his charity and endless help to the local people.
+born: Ireland
+region: Netherlands
 feastDay:
   month: 6
   day: 26
@@ -13,6 +13,7 @@ vocation:
   - Monk
   - Hermit
 martyr: false
+prayers: []
 ---
 
 Eighth century hermit in Netherlands where he was known for his charity and endless help to the local people.

@@ -1,15 +1,17 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Melitus of Pontus"
+name: Saint Melitus of Pontus
 honorific: Saint
-summary: "Late 3rd-century bishop in Pontus (in modern Turkey); known as an eloquent speaker. He was frequently abused for his faith during the persecutions of Diocletian, but there are no records of him being a martyr."
+summary: >-
+  Late 3rd-century bishop in Pontus (in modern Turkey); known as an eloquent speaker. He was frequently abused for his
+  faith during the persecutions of Diocletian, but there are no records of him being a martyr.
 searchAliases:
-  - "Meletus"
-  - "Meletius"
-  - "Melezio"
+  - Meletus
+  - Meletius
+  - Melezio
 deathYear: 295
-died: "c.295"
-region: "Turkey"
+died: c.295
+region: Turkey
 feastDay:
   month: 12
   day: 4
@@ -18,6 +20,7 @@ vocation:
   - Bishop
   - Monk
 martyr: true
+prayers: []
 ---
 
 Late 3rd-century bishop in Pontus (in modern Turkey); known as an eloquent speaker. He was frequently abused for his faith during the persecutions of Diocletian, but there are no records of him being a martyr.

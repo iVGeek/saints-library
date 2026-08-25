@@ -1,14 +1,15 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Marthom"
+name: Saint Marthom
 honorific: Saint
-summary: "No information has survived."
+summary: No information has survived.
 feastDay:
   month: 9
   day: 20
 canonizationStatus: Saint
 vocation: []
 martyr: false
+prayers: []
 ---
 
 No information has survived.

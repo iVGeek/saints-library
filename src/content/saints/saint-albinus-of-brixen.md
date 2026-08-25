@@ -1,20 +1,22 @@
 ---
-name: "Saint Albinus of Brixen"
+name: Saint Albinus of Brixen
 honorific: Saint
-summary: "Born to the nobility, the son of Blessed Agatha Hildegardis of Carinthia and Count Paul, Margrave of Carinthia. Bishop of Sabion, South Tyrol (in modern Italy) in 975, a see that was moved to Brixen, Italy."
-image: "http://catholicsaints.info/wp-content/gallery/saint-albinus-of-brixen/saint-albuino-di-bressanone.jpg"
+summary: >-
+  Born to the nobility, the son of Blessed Agatha Hildegardis of Carinthia and Count Paul, Margrave of Carinthia. Bishop
+  of Sabion, South Tyrol (in modern Italy) in 975, a see that was moved to Brixen, Italy.
+image: http://catholicsaints.info/wp-content/gallery/saint-albinus-of-brixen/saint-albuino-di-bressanone.jpg
 searchAliases:
-  - "Albinus of Säben-Brixen"
-  - "Albinus of Bressanone"
-  - "Albuin…"
-  - "Albuino…"
-  - "Albuinus…"
+  - Albinus of Säben-Brixen
+  - Albinus of Bressanone
+  - Albuin…
+  - Albuino…
+  - Albuinus…
 deathYear: 1005
-born: "10th century Carinthia, Austria"
-died: "5 February 1005 in Brixen, Italy"
-birthPlace: "Austria"
-deathPlace: "Italy"
-region: "Italy"
+born: 10th century Carinthia, Austria
+died: 5 February 1005 in Brixen, Italy
+birthPlace: Austria
+deathPlace: Italy
+region: Italy
 feastDay:
   month: 2
   day: 5
@@ -23,10 +25,11 @@ vocation:
   - Bishop
   - Monk
 patronage:
-  - "Bressanone, Italy"
-  - "Brixen, Italy, city of"
-  - "Brixen, Italy, diocese of"
+  - Bressanone, Italy
+  - Brixen, Italy, city of
+  - Brixen, Italy, diocese of
 martyr: false
+prayers: []
 ---
 
 Born to the nobility, the son of Blessed Agatha Hildegardis of Carinthia and Count Paul, Margrave of Carinthia. Bishop of Sabion, South Tyrol (in modern Italy) in 975, a see that was moved to Brixen, Italy.

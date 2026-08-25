@@ -17,6 +17,7 @@ image: >-
 imageAlt: Portrait of Saint Eustadius
 imageCredit: It was copied in an ancient book of the department of renaissance works in the library of Strasbourg, France
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:Exorcisme%20au%20couvent%20de%20Vergaville%20(vers%201500).tif
+prayers: []
 ---
 
 Pious 6th-century monk. Abbot of Saint-Benignus Abbey in Dijon, France. Great-uncle of Saint Gregory of Tours.

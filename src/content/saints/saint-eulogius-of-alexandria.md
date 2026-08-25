@@ -21,6 +21,7 @@ vocation:
   - Monk
   - Confessor
 martyr: false
+prayers: []
 ---
 
 Monk as a young man. Well educated in the literature and science of his day, was a Biblical scholar, and studied the writings of the great pastors. Opposed the Eutychian and Monophysite heresies. Patriarch of Alexandria, Egypt in 579, serving for 28 years. His correspondence with Saint Gregory the Great has survived.

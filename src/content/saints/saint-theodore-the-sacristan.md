@@ -15,6 +15,7 @@ vocation:
 patronage:
   - sacristans
 martyr: false
+prayers: []
 ---
 
 Sixth century sacristan for the Church of Saint Peter in Rome, Italy. Saint Gregory the Great wrote that Theodore often saw angels.

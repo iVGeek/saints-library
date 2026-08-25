@@ -1,14 +1,16 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Trojan"
+name: Saint Trojan
 honorific: Saint
-summary: "His father was Jewish, his mother was Arabic, and Trojan was an adult convert to Christianity. Priest. Student of Saint Vivien. Beloved bishop of Saintes, France."
+summary: >-
+  His father was Jewish, his mother was Arabic, and Trojan was an adult convert to Christianity. Priest. Student of
+  Saint Vivien. Beloved bishop of Saintes, France.
 searchAliases:
-  - "Trojanus"
-  - "Troyen"
+  - Trojanus
+  - Troyen
 deathYear: 533
-died: "533"
-region: "France"
+died: '533'
+region: France
 feastDay:
   month: 11
   day: 30
@@ -18,6 +20,7 @@ vocation:
   - Priest
   - Monk
 martyr: false
+prayers: []
 ---
 
 His father was Jewish, his mother was Arabic, and Trojan was an adult convert to Christianity. Priest. Student of Saint Vivien. Beloved bishop of Saintes, France.

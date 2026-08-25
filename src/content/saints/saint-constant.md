@@ -1,12 +1,12 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Constant"
+name: Saint Constant
 honorific: Saint
-summary: "Priest. Hermit at Lough Erne. Martyr."
+summary: Priest. Hermit at Lough Erne. Martyr.
 deathYear: 777
-born: "Irish"
-died: "777"
-region: "Ireland"
+born: Irish
+died: '777'
+region: Ireland
 feastDay:
   month: 11
   day: 18
@@ -16,6 +16,7 @@ vocation:
   - Monk
   - Hermit
 martyr: true
+prayers: []
 ---
 
 Priest. Hermit at Lough Erne. Martyr.

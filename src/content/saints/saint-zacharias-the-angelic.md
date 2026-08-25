@@ -1,14 +1,14 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Zacharias the Angelic"
+name: Saint Zacharias the Angelic
 honorific: Saint
-summary: "Hermit and monk on Mount Mercury, Lucania, Italy."
+summary: Hermit and monk on Mount Mercury, Lucania, Italy.
 searchAliases:
-  - "Zacharias of Mount Mercury"
-  - "Zaccaria del Mercurion"
+  - Zacharias of Mount Mercury
+  - Zaccaria del Mercurion
 deathYear: 950
-died: "c.950 of natural causes"
-region: "Italy"
+died: c.950 of natural causes
+region: Italy
 feastDay:
   month: 1
   day: 21
@@ -17,6 +17,7 @@ vocation:
   - Monk
   - Hermit
 martyr: false
+prayers: []
 ---
 
 Hermit and monk on Mount Mercury, Lucania, Italy.

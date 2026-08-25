@@ -1,18 +1,21 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Nicholas Mello"
+name: Blessed Nicholas Mello
 honorific: Blessed
-summary: "Augustinian canon. Evangelized along the eastern shore of the Caspian sea in the 17th century. Martyred for loyalty to the Vatican."
-died: "Astrakhan, Russia"
-deathPlace: "Russia"
+summary: >-
+  Augustinian canon. Evangelized along the eastern shore of the Caspian sea in the 17th century. Martyred for loyalty to
+  the Vatican.
+died: Astrakhan, Russia
+deathPlace: Russia
 feastDay:
   month: 12
   day: 28
 canonizationStatus: Blessed
 vocation:
   - Monk
-religiousOrder: "Augustinian"
+religiousOrder: Augustinian
 martyr: true
+prayers: []
 ---
 
 Augustinian canon. Evangelized along the eastern shore of the Caspian sea in the 17th century. Martyred for loyalty to the Vatican.

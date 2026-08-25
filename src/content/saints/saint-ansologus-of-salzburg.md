@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Ansologus of Salzburg"
+name: Saint Ansologus of Salzburg
 honorific: Saint
-summary: "Monk. Abbot. Third bishop of Salzburg in modern Austria. Known for supporting monastic life in his diocese."
+summary: Monk. Abbot. Third bishop of Salzburg in modern Austria. Known for supporting monastic life in his diocese.
 deathYear: 678
-died: "1 February 678"
-region: "Austria"
+died: 1 February 678
+region: Austria
 feastDay:
   month: 2
   day: 1
@@ -14,6 +14,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Monk. Abbot. Third bishop of Salzburg in modern Austria. Known for supporting monastic life in his diocese.

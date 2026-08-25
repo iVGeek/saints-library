@@ -14,6 +14,7 @@ vocation:
   - Soldier
 religiousOrder: Benedictine
 martyr: false
+prayers: []
 ---
 
 Benedictine Knight Templar of Jerusalem. Wounded in combat with the Saracens, he was taken to Cyprus where he never fully recovered.

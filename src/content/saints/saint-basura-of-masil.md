@@ -1,9 +1,9 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Basura of Masil"
+name: Saint Basura of Masil
 honorific: Saint
-summary: "Bishop of Masil. Martyred in the persecutions of Diocletian."
-region: "England"
+summary: Bishop of Masil. Martyred in the persecutions of Diocletian.
+region: England
 feastDay:
   month: 9
   day: 9
@@ -12,6 +12,7 @@ vocation:
   - Bishop
   - Monk
 martyr: true
+prayers: []
 ---
 
 Bishop of Masil. Martyred in the persecutions of Diocletian.

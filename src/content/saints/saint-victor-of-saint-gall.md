@@ -1,12 +1,12 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Victor of Saint Gall"
+name: Saint Victor of Saint Gall
 honorific: Saint
-summary: "Monk at Saint Gall in Switzerland. Hermit in the Vosges, France."
+summary: Monk at Saint Gall in Switzerland. Hermit in the Vosges, France.
 deathYear: 995
-died: "995 in Vosges, France"
-deathPlace: "France"
-region: "France"
+died: 995 in Vosges, France
+deathPlace: France
+region: France
 feastDay:
   month: 2
   day: 25
@@ -15,6 +15,7 @@ vocation:
   - Monk
   - Hermit
 martyr: false
+prayers: []
 ---
 
 Monk at Saint Gall in Switzerland. Hermit in the Vosges, France.

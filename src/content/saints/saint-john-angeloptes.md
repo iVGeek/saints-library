@@ -1,11 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint John Angeloptes"
+name: Saint John Angeloptes
 honorific: Saint
-summary: "Bishop of Ravenna, Italy in 430. Metropolitan of Aemilia and Flaminia. Once received a vision of an angel who helped him celebrate the Eucharist."
+summary: >-
+  Bishop of Ravenna, Italy in 430. Metropolitan of Aemilia and Flaminia. Once received a vision of an angel who helped
+  him celebrate the Eucharist.
 deathYear: 433
-died: "433 of natural causes"
-region: "Italy"
+died: 433 of natural causes
+region: Italy
 feastDay:
   month: 11
   day: 27
@@ -14,6 +16,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Bishop of Ravenna, Italy in 430. Metropolitan of Aemilia and Flaminia. Once received a vision of an angel who helped him celebrate the Eucharist.

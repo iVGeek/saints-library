@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Leonard of Vandoeuvre"
+name: Saint Leonard of Vandoeuvre
 honorific: Saint
-summary: "Hermit. Founded Vandoeuvre Abbey in France, and served as its first abbot."
+summary: Hermit. Founded Vandoeuvre Abbey in France, and served as its first abbot.
 deathYear: 570
-died: "c.570"
-region: "France"
+died: c.570
+region: France
 feastDay:
   month: 10
   day: 15
@@ -14,6 +14,7 @@ vocation:
   - Monk
   - Hermit
 martyr: false
+prayers: []
 ---
 
 Hermit. Founded Vandoeuvre Abbey in France, and served as its first abbot.

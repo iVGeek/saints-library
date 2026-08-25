@@ -1,14 +1,14 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Ursus of Troyes"
+name: Saint Ursus of Troyes
 honorific: Saint
-summary: "Priest. Bishop of Troyes, France in the late 4th and early 5th centuries."
+summary: Priest. Bishop of Troyes, France in the late 4th and early 5th centuries.
 searchAliases:
-  - "Orso"
+  - Orso
 deathYear: 426
-died: "25 July 426 in Queudes, France of natural causes"
-deathPlace: "Francenatural causes"
-region: "France"
+died: 25 July 426 in Queudes, France of natural causes
+deathPlace: Francenatural causes
+region: France
 feastDay:
   month: 7
   day: 27
@@ -17,6 +17,7 @@ vocation:
   - Bishop
   - Priest
 martyr: false
+prayers: []
 ---
 
 Priest. Bishop of Troyes, France in the late 4th and early 5th centuries.

@@ -37,6 +37,7 @@ patronage:
   - D&uuml;sseldorf
   - Remagen
 martyr: true
+prayers: []
 ---
 
 Mentioned in the Acts of the Apostles. Spiritual student of Saint Peter the Apostle. First bishop of Ravenna, Italy; as such he faced nearly constant persecution. He and his flock were exiled from Ravenna during the persecutions of Emperor Vespasian. On his way out of the city he was identified, arrested as being the leader, tortured, and martyred. Noted miracle worker. Centuries after his death he appeared in a vision to Saint Romuald.

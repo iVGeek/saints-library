@@ -1,12 +1,12 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Marcellus of Nicomedia"
+name: Saint Marcellus of Nicomedia
 honorific: Saint
-summary: "Priest in Asia Minor. Martyred in the persecutions of the Arian Emperor Constantius."
+summary: Priest in Asia Minor. Martyred in the persecutions of the Arian Emperor Constantius.
 deathYear: 349
-died: "thrown from a cliff in 349 in Nicomedia, Asia Minor (modern Izmit, Turkey)"
-deathPlace: "Asia Minor (modern Izmit, Turkey)"
-region: "Turkey"
+died: thrown from a cliff in 349 in Nicomedia, Asia Minor (modern Izmit, Turkey)
+deathPlace: Asia Minor (modern Izmit, Turkey)
+region: Turkey
 feastDay:
   month: 11
   day: 26
@@ -15,6 +15,7 @@ vocation:
   - Priest
   - Monk
 martyr: true
+prayers: []
 ---
 
 Priest in Asia Minor. Martyred in the persecutions of the Arian Emperor Constantius.

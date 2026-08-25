@@ -1,13 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Verecundus of Verona"
+name: Saint Verecundus of Verona
 honorific: Saint
-summary: "Bishop of Verona, Italy."
+summary: Bishop of Verona, Italy.
 searchAliases:
-  - "Verecondo"
+  - Verecondo
 deathYear: 522
-died: "522"
-region: "Italy"
+died: '522'
+region: Italy
 feastDay:
   month: 4
   day: 27
@@ -16,6 +16,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Bishop of Verona, Italy.

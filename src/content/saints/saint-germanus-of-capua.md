@@ -21,6 +21,7 @@ vocation:
 patronage:
   - Cassino, Italy
 martyr: false
+prayers: []
 ---
 
 Friend of Saint Benedict of Nursia. Bishop of Capua, Italy. Papal legate to Constantinople to repair the damage caused by the Acacian schism, but met ill-treatment by the schismatics and made no progress to reunification. On his death, Saint Benedict had a vision of Germanus' soul being carried to heaven.

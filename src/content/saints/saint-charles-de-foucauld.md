@@ -1,27 +1,33 @@
 ---
-name: "Saint Charles de Foucauld"
+name: Saint Charles de Foucauld
 honorific: Venerable
-summary: "Born to an aristocratic family; orphaned by age six, he and his sister Mary were raised by their grandfather. Studied at Jesuit schools in Nancy and Paris, France from 1872 to 1875. Entered the Saint-Cyr Military Academy in 1876. Joined the 4th Hussar regiment; in 1880 his unit w"
-image: "https://upload.wikimedia.org/wikipedia/commons/6/60/Charles_de_Foucauld.jpg"
+summary: >-
+  Born to an aristocratic family; orphaned by age six, he and his sister Mary were raised by their grandfather. Studied
+  at Jesuit schools in Nancy and Paris, France from 1872 to 1875. Entered the Saint-Cyr Military Academy in 1876. Joined
+  the 4th Hussar regiment; in 1880 his unit w
+image: https://upload.wikimedia.org/wikipedia/commons/6/60/Charles_de_Foucauld.jpg
 searchAliases:
-  - "Charles Eugenie de Foucauld"
-  - "Brother Charles of Jesus"
-  - "Brother Marie-Alberic"
+  - Charles Eugenie de Foucauld
+  - Brother Charles of Jesus
+  - Brother Marie-Alberic
 birthYear: 1858
 deathYear: 1916
-born: "15 September 1858 in Strasbourg, France as Charles Eugenie de Foucauld"
-died: "shot in the head on 1 December 1916 at  Tamanrasset, Algeria by a 15 year old Beduoin bandit"
-birthPlace: "France as Charles Eugenie de Foucauld"
-deathPlace: "Algeria by a 15 year old Beduobandit"
-region: "France"
+born: 15 September 1858 in Strasbourg, France as Charles Eugenie de Foucauld
+died: shot in the head on 1 December 1916 at  Tamanrasset, Algeria by a 15 year old Beduoin bandit
+birthPlace: France as Charles Eugenie de Foucauld
+deathPlace: Algeria by a 15 year old Beduobandit
+region: France
 feastDay:
   month: 12
   day: 1
-centuries: [19, 20]
+centuries:
+  - 19
+  - 20
 canonizationStatus: Venerable
 vocation: []
-religiousOrder: "Jesuit"
+religiousOrder: Jesuit
 martyr: false
+prayers: []
 ---
 
 Born to an aristocratic family; orphaned by age six, he and his sister Mary were raised by their grandfather. Studied at Jesuit schools in Nancy and Paris, France from 1872 to 1875. Entered the Saint-Cyr Military Academy in 1876. Joined the 4th Hussar regiment; in 1880 his unit was sent to Setif, Algeria. He was discharged from the service in March 1881 for misconduct, and moved to Evian, France. During the Revolt of Bon Mama in South Oran two months later, Charles re-enlisted, and fought for the eight months of the rebellion. He became so fascinated with the Arabs that he met that when he could not obtain a leave of absence to study them, he resigned his commission.

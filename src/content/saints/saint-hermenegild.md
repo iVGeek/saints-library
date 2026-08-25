@@ -17,6 +17,7 @@ vocation:
   - Monk
 religiousOrder: Benedictine
 martyr: false
+prayers: []
 ---
 
 Benedictine monk at Salcedo, diocese of Tui, Spanish Galatia. Helped Saint Rudesind spread the Benedictine Rule throughout northwest Spain.

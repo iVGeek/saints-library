@@ -29,6 +29,7 @@ patronage:
   - Arles, France
   - Chalon-sur-Saône
 martyr: false
+prayers: []
 ---
 
 Brother of Saint Caesaria of Arles. Entered the monastery at L&eacute;rins at age 18, and worked as his house's cellarer. His devotion to duty earned him the enmity of some of his brother monks who were too interested in the house wines. Illness forced him to leave the monastery, and while he recovered in Arles, his uncle Eonus, bishop of Arles, had him transferred from L&eacute;rins.

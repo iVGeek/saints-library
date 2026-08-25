@@ -1,14 +1,14 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Ergnad of Ulster"
+name: Saint Ergnad of Ulster
 honorific: Saint
-summary: "Nun who received the veil from Saint Patrick."
+summary: Nun who received the veil from Saint Patrick.
 searchAliases:
-  - "Ercnact"
-  - "Ercnacta"
-born: "5th century Ulster, Ireland"
-birthPlace: "Ireland"
-region: "Ireland"
+  - Ercnact
+  - Ercnacta
+born: 5th century Ulster, Ireland
+birthPlace: Ireland
+region: Ireland
 feastDay:
   month: 1
   day: 8
@@ -17,6 +17,7 @@ vocation:
   - Monk
   - Religious
 martyr: false
+prayers: []
 ---
 
 Nun who received the veil from Saint Patrick.

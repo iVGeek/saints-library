@@ -1,13 +1,15 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Pontius of Carthage"
+name: Saint Pontius of Carthage
 honorific: Saint
-summary: "Deacon in Carthage, North Africa. Companion in exile, biographer of, and witness at the trial and execution Saint Cyprian of Carthage."
+summary: >-
+  Deacon in Carthage, North Africa. Companion in exile, biographer of, and witness at the trial and execution Saint
+  Cyprian of Carthage.
 searchAliases:
-  - "Ponzio"
+  - Ponzio
 deathYear: 262
-died: "c.262 of natural causes"
-region: "England"
+died: c.262 of natural causes
+region: England
 feastDay:
   month: 3
   day: 8
@@ -16,6 +18,7 @@ vocation:
   - Monk
   - Deacon
 martyr: false
+prayers: []
 ---
 
 Deacon in Carthage, North Africa. Companion in exile, biographer of, and witness at the trial and execution Saint Cyprian of Carthage.

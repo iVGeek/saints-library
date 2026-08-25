@@ -1,18 +1,21 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Leonardus Kimura"
+name: Blessed Leonardus Kimura
 honorific: Blessed
-summary: "His grandfather was the first Japanese person baptized by Saint Francis Xavier, and Leonard was raised Christian; he was related to Blessed Anthony Kimura. Attended the Jesuit school in Nagasaki, Japan. Served as lay catechist. Travelled with Jesuit priests on missionary trips. J"
+summary: >-
+  His grandfather was the first Japanese person baptized by Saint Francis Xavier, and Leonard was raised Christian; he
+  was related to Blessed Anthony Kimura. Attended the Jesuit school in Nagasaki, Japan. Served as lay catechist.
+  Travelled with Jesuit priests on missionary trips. J
 searchAliases:
-  - "Leonard Chimura"
-  - "Leonard Chimurra"
+  - Leonard Chimura
+  - Leonard Chimurra
 birthYear: 1575
 deathYear: 1619
-born: "c.1575 at Nagasaki, Japan"
-died: "burned alive on 18 November 1619 before a crowd of 20,000 at Nishizaka, Nagaski, Japan"
-birthPlace: "Japan"
-deathPlace: "000 at Nishizaka, Nagaski, Japan"
-region: "Japan"
+born: c.1575 at Nagasaki, Japan
+died: burned alive on 18 November 1619 before a crowd of 20,000 at Nishizaka, Nagaski, Japan
+birthPlace: Japan
+deathPlace: 000 at Nishizaka, Nagaski, Japan
+region: Japan
 feastDay:
   month: 11
   day: 18
@@ -21,8 +24,9 @@ vocation:
   - Priest
   - Monk
   - Missionary
-religiousOrder: "Jesuit"
+religiousOrder: Jesuit
 martyr: true
+prayers: []
 ---
 
 His grandfather was the first Japanese person baptized by Saint Francis Xavier, and Leonard was raised Christian; he was related to Blessed Anthony Kimura. Attended the Jesuit school in Nagasaki, Japan. Served as lay catechist. Travelled with Jesuit priests on missionary trips. Jesuit Co-adjutor Brother, serving as cook and tailor. When the Jesuits were expelled from Japan in 1614, Leonard stayed behind and worked alone for years, living as a fugitive for his faith.

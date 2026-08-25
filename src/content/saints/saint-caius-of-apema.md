@@ -25,6 +25,7 @@ imageAlt: Portrait of Saint Caius of Apema
 imageCredit: <span class="int-own-work" lang="en">Own work</span>
 imageCreditUrl: >-
   https://commons.wikimedia.org/wiki/File:(Toulouse)%20Portrait%20de%20jeune%20gar%C3%A7on%20%E2%80%93%20Mus%C3%A9e%20Saint-Raymond%20Ra%2068%20(1).jpg
+prayers: []
 ---
 
 Missionary preacher in the area of Apema, Phrygia (part of modern Turkey). Worked with Saint Alexander of Apema. Fought the Montanist heresy. Martyred in the persecutions of Emperor Marcus Aurelius.

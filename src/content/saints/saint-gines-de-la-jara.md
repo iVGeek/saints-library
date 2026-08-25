@@ -25,6 +25,7 @@ patronage:
   - vintners
   - Cartagena, Spain
 martyr: false
+prayers: []
 ---
 
 A holy man, and probably a hermit, who lived in the area of modern Cartagena, Spain early in the faith. We know almost nothing about him for sure, but many, many stories and legends have been attached to him, and he has been confused with Saint Genesius of Arles, Saint Genesius of Brescello and/or Saint Genesius of Rome who are remembered on the same day.

@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Martin of Saujon"
+name: Saint Martin of Saujon
 honorific: Saint
-summary: "Sixth century priest, monk and abbot in Saujon, Saintes, France."
+summary: Sixth century priest, monk and abbot in Saujon, Saintes, France.
 searchAliases:
-  - "Martino"
-region: "France"
+  - Martino
+region: France
 feastDay:
   month: 5
   day: 8
@@ -14,6 +14,7 @@ vocation:
   - Priest
   - Monk
 martyr: false
+prayers: []
 ---
 
 Sixth century priest, monk and abbot in Saujon, Saintes, France.

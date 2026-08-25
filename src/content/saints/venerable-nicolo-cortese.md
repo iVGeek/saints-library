@@ -22,6 +22,7 @@ vocation:
   - Priest
 religiousOrder: Franciscan
 martyr: false
+prayers: []
 ---
 
 Professed priest in the Friars Minor Conventual.

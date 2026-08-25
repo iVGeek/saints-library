@@ -1,18 +1,21 @@
 ---
-name: "Blessed Antonio Lucci"
+name: Blessed Antonio Lucci
 honorific: Blessed
-summary: "The son of Francesco Lucci, a cobbler and coppersmith, and Angela Paolantonio, he was raised in a pious home, taught by Franciscans, and developed a devotion to Our Lady of the Rosary. Angelo joined the Franciscan Friars Minor Conventuals in his teens, making his solemn vows in 1"
-image: "https://upload.wikimedia.org/wikipedia/commons/e/ec/Antonio_Lucci.jpg"
+summary: >-
+  The son of Francesco Lucci, a cobbler and coppersmith, and Angela Paolantonio, he was raised in a pious home, taught
+  by Franciscans, and developed a devotion to Our Lady of the Rosary. Angelo joined the Franciscan Friars Minor
+  Conventuals in his teens, making his solemn vows in 1
+image: https://upload.wikimedia.org/wikipedia/commons/e/ec/Antonio_Lucci.jpg
 searchAliases:
-  - "Angel of the Poor (references to him as bishop)"
-  - "Angelo Nicola Lucci"
+  - Angel of the Poor (references to him as bishop)
+  - Angelo Nicola Lucci
 birthYear: 1681
 deathYear: 1752
-born: "2 August 1681 in Agnone, Isernia, kingdom of Sicily (in modern Italy) as Angelo Nicola Lucci"
-died: "25 July 1752 in Bovino, Foggia, Italy of an extremely high fever"
-birthPlace: "Isernia, kingdomSicily (in modern Italy) as Angelo Nicola Lucci"
-deathPlace: "Foggia, Italyan extremely high fever"
-region: "France"
+born: 2 August 1681 in Agnone, Isernia, kingdom of Sicily (in modern Italy) as Angelo Nicola Lucci
+died: 25 July 1752 in Bovino, Foggia, Italy of an extremely high fever
+birthPlace: Isernia, kingdomSicily (in modern Italy) as Angelo Nicola Lucci
+deathPlace: Foggia, Italyan extremely high fever
+region: France
 feastDay:
   month: 7
   day: 25
@@ -21,8 +24,9 @@ vocation:
   - Bishop
   - Priest
   - Hermit
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 martyr: false
+prayers: []
 ---
 
 The son of Francesco Lucci, a cobbler and coppersmith, and Angela Paolantonio, he was raised in a pious home, taught by Franciscans, and developed a devotion to Our Lady of the Rosary. Angelo joined the Franciscan Friars Minor Conventuals in his teens, making his solemn vows in 1698 and taking the name Brother Antonio. He studied rhetoric, logic and philosophy at the Franciscan houses in the Italian cities of Venafro, Alvito and Aversa, and then theology in Agnone and Fasani; Antonio said he was grateful for his studies as the discipline required for them helped him get a quick temper under control. Ordained a priest on 19 September 1705 in Assisi, Italy. Noted theologian, biblical scholar, teacher and preacher. Doctor of theology in 1709. Regent and professor at the Franciscan school in Ravello, Italy from 1709 to 1712. Regent and professor at the Franciscan San Lorenzo school in Naples, Italy from 1713 to 1718. Franciscan Provincial in 1718. Regent and professor at the College of Saint Bonaventure in Rome, Italy from 1719 to 1729. Writer on matters of theology, philosophy and history. At the request of Pope Benedict XIII, he became a theological consultant to the Holy Office, consultant to the Lateran synod, and wrote against Jansenism for Benedict XIII.

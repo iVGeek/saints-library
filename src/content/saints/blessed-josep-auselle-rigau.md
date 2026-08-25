@@ -1,15 +1,15 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Josep Ausellé Rigau"
+name: Blessed Josep Ausellé Rigau
 honorific: Blessed
-summary: "Member of the Claretians. Martyred in the Spanish Civil War."
+summary: Member of the Claretians. Martyred in the Spanish Civil War.
 birthYear: 1913
 deathYear: 1936
-born: "5 July 1913 in La Cellera, Girona, Spain"
-died: "18 October 1936 in Cervera, Lleida, Spain"
-birthPlace: "Girona, Spain"
-deathPlace: "Lleida, Spain"
-region: "Spain"
+born: 5 July 1913 in La Cellera, Girona, Spain
+died: 18 October 1936 in Cervera, Lleida, Spain
+birthPlace: Girona, Spain
+deathPlace: Lleida, Spain
+region: Spain
 feastDay:
   month: 10
   day: 18
@@ -18,6 +18,7 @@ vocation:
   - Bishop
   - Cardinal
 martyr: true
+prayers: []
 ---
 
 Member of the Claretians. Martyred in the Spanish Civil War.

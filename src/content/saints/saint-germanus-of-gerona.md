@@ -16,6 +16,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/5/59/Syrakus_BW_2012-10-06_14-43-38.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Germanus of Gerona
 imageCreditUrl: https://en.wikipedia.org/wiki/Archdiocese%20of%20Syracuse
+prayers: []
 ---
 
 Two Christians with this name martyred together. No other details have survived.

@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Zosimus of Antioch"
+name: Saint Zosimus of Antioch
 honorific: Saint
-summary: "Deacon. Martyr."
-died: "Antioch, Syria"
-deathPlace: "Syria"
-region: "Syria"
+summary: Deacon. Martyr.
+died: Antioch, Syria
+deathPlace: Syria
+region: Syria
 feastDay:
   month: 2
   day: 15
@@ -14,6 +14,7 @@ vocation:
   - Monk
   - Deacon
 martyr: true
+prayers: []
 ---
 
 Deacon. Martyr.

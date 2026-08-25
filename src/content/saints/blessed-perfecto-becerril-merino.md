@@ -1,25 +1,26 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Perfecto Becerril Merino"
+name: Blessed Perfecto Becerril Merino
 honorific: Blessed
-summary: "Monk. Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
+summary: Monk. Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War.
 searchAliases:
-  - "Guzmán"
+  - Guzmán
 birthYear: 1885
 deathYear: 1936
-born: "19 April 1885 in Grijalba, Burgos, Spain"
-died: "24 September 1936 in Málaga, Spain"
-birthPlace: "Burgos, Spain"
-deathPlace: "Spain"
-region: "Spain"
+born: 19 April 1885 in Grijalba, Burgos, Spain
+died: 24 September 1936 in Málaga, Spain
+birthPlace: Burgos, Spain
+deathPlace: Spain
+region: Spain
 feastDay:
   month: 9
   day: 24
 canonizationStatus: Blessed
 vocation:
   - Monk
-religiousOrder: "Marist"
+religiousOrder: Marist
 martyr: true
+prayers: []
 ---
 
 Monk. Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War.

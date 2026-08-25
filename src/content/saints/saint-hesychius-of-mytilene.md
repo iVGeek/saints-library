@@ -1,13 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Hesychius of Mytilene"
+name: Saint Hesychius of Mytilene
 honorific: Saint
-summary: "Martyred in the persecutions of Diocletian."
+summary: Martyred in the persecutions of Diocletian.
 deathYear: 300
-born: "Armenia"
-died: "c.300 at Mytilene, Greece"
-deathPlace: "Greece"
-region: "England"
+born: Armenia
+died: c.300 at Mytilene, Greece
+deathPlace: Greece
+region: England
 feastDay:
   month: 11
   day: 7
@@ -15,6 +15,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Martyred in the persecutions of Diocletian.

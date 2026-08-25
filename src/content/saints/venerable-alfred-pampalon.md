@@ -1,28 +1,33 @@
 ---
-name: "Venerable Alfred Pampalon"
+name: Venerable Alfred Pampalon
 honorific: Venerable
-summary: "Ninth of twelve children born to Antoine and Josephine Dorion Pampalon; his parents were pious people, and his father was a stonemason who built churches. Josephine died when Alfred as five years old, and his father soon married the Irish widow, Margaret Phelan, who was loving, g"
-image: "https://upload.wikimedia.org/wikipedia/commons/9/92/Alfred_Pampalon.png"
+summary: >-
+  Ninth of twelve children born to Antoine and Josephine Dorion Pampalon; his parents were pious people, and his father
+  was a stonemason who built churches. Josephine died when Alfred as five years old, and his father soon married the
+  Irish widow, Margaret Phelan, who was loving, g
+image: https://upload.wikimedia.org/wikipedia/commons/9/92/Alfred_Pampalon.png
 searchAliases:
-  - "The Hail Mary Saint"
+  - The Hail Mary Saint
 birthYear: 1867
 deathYear: 1896
-born: "24 November 1867 in the parish of Notre-Dame de Lévis, Lévis, Québec, Canada"
-died: "30 September 1896 in the infirmary of the shrine of Sainte-Anne-de-Beaupré, Québec, Canada of tuberculosis"
-birthPlace: "Lévis, Québec, Canada"
-deathPlace: "Québec, Canadatuberculosis"
-region: "Canada"
+born: 24 November 1867 in the parish of Notre-Dame de Lévis, Lévis, Québec, Canada
+died: 30 September 1896 in the infirmary of the shrine of Sainte-Anne-de-Beaupré, Québec, Canada of tuberculosis
+birthPlace: Lévis, Québec, Canada
+deathPlace: Québec, Canadatuberculosis
+region: Canada
 feastDay:
   month: 10
   day: 4
-centuries: [19]
+centuries:
+  - 19
 canonizationStatus: Venerable
 vocation:
   - Virgin
   - Priest
   - Religious
-religiousOrder: "Redemptorist"
+religiousOrder: Redemptorist
 martyr: false
+prayers: []
 ---
 
 Ninth of twelve children born to Antoine and Josephine Dorion Pampalon; his parents were pious people, and his father was a stonemason who built churches. Josephine died when Alfred as five years old, and his father soon married the Irish widow, Margaret Phelan, who was loving, gentle, pious and treated all the children as her own. Two of his brothers and one sister entered religious life. Alfred was home schooled until 1876 when he entered the College of Lévis on a business curriculum; the school staffed by parish priests, and he learned much about their lives. He was an average student, loved to play cricket and soccer, suffered from a speech impediment, contracted tuberculosis at age 14, and was known as a modest prayerful person who early felt a call to the Church and had a great devotion to the Blessed Virgin Mary.

@@ -26,6 +26,7 @@ patronage:
   - —
   - Rhenen, Netherlands
 martyr: false
+prayers: []
 ---
 
 Her legend says that she was a princess in the region of York, England. One of the holy virgins who travelled with Saint Ursula, she was saved from the massacre by the Frisian king Radboud who took her to his castle in Rhenen (in modern Netherlands) where she eventually ran the household. Queen Aldegonde became jealous, and had Cunera strangled and buried in a cattle shed. A miracle led to the discovery of the crime, which led to the conversion of Radboud to Christianity.

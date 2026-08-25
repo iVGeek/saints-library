@@ -41,6 +41,7 @@ patronage:
   - –
   - Landkey, England
 martyr: false
+prayers: []
 ---
 
 Born to the nobility; some records indicate that he was the son of King Lleuddun Luyddog of Lothian. Ordained a priest as a young man, he served as a bishop in north Britian, then Devon and Cornwall, where Landkey is named for him. He lived for a while as a hermit, and then served as in Brittany where he was known as Quay. A number of legends and miracle stories attached to him, including working with King Arthur.

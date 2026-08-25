@@ -1,15 +1,17 @@
 ---
-name: "Saint Privatus of Mende"
+name: Saint Privatus of Mende
 honorific: Saint
-summary: "Bishop of Mende, France. Captured by invading barbarians, but was offered his freedom if he would reveal where his flock was hiding or sacrifice to idols; he declined both offers. Martyr."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Privatus-of-Mende.jpg"
+summary: >-
+  Bishop of Mende, France. Captured by invading barbarians, but was offered his freedom if he would reveal where his
+  flock was hiding or sacrifice to idols; he declined both offers. Martyr.
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Privatus-of-Mende.jpg
 searchAliases:
-  - "Privado"
-  - "Privato"
+  - Privado
+  - Privato
 deathYear: 260
-died: "beaten to death in 260 in Mende, France"
-deathPlace: "France"
-region: "France"
+died: beaten to death in 260 in Mende, France
+deathPlace: France
+region: France
 feastDay:
   month: 8
   day: 21
@@ -19,8 +21,9 @@ vocation:
   - Priest
   - Monk
 patronage:
-  - "Mende, France"
+  - Mende, France
 martyr: true
+prayers: []
 ---
 
 Bishop of Mende, France. Captured by invading barbarians, but was offered his freedom if he would reveal where his flock was hiding or sacrifice to idols; he declined both offers. Martyr.

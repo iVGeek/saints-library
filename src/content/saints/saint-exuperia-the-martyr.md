@@ -1,10 +1,12 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Exuperia the Martyr"
+name: Saint Exuperia the Martyr
 honorific: Saint
-summary: "Married to Saint Olympius the Tribune; mother of Saint Theodulus the Martyr. Convert, brought to the faith by Saint Symphronius the Slave. Martyred in the persecutions of Valerian."
+summary: >-
+  Married to Saint Olympius the Tribune; mother of Saint Theodulus the Martyr. Convert, brought to the faith by Saint
+  Symphronius the Slave. Martyred in the persecutions of Valerian.
 deathYear: 257
-died: "burned to death in 257"
+died: burned to death in 257
 feastDay:
   month: 7
   day: 26
@@ -12,6 +14,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Married to Saint Olympius the Tribune; mother of Saint Theodulus the Martyr. Convert, brought to the faith by Saint Symphronius the Slave. Martyred in the persecutions of Valerian.

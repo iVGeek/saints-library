@@ -1,15 +1,18 @@
 ---
-name: "Blessed Miguel Gómez Loza"
+name: Blessed Miguel Gómez Loza
 honorific: Blessed
-summary: "Born to a peasant family, his father died when Miguel was very young. He was a pious boy, promoted the social doctrine of the Church, and was a member of the Catholic Association of Mexican Youth. He was married to María Guadalupe Sánchez Barragán in 1922, and the couple had thre"
-image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Miguel-Gomez-Loza.jpg"
+summary: >-
+  Born to a peasant family, his father died when Miguel was very young. He was a pious boy, promoted the social doctrine
+  of the Church, and was a member of the Catholic Association of Mexican Youth. He was married to María Guadalupe
+  Sánchez Barragán in 1922, and the couple had thre
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Miguel-Gomez-Loza.jpg
 birthYear: 1808
 deathYear: 1928
-born: "11 August 1808 in El Refugio (a.k.a. Paredones), Jalisco, Mexico"
-died: "21 March 1928 in Atotonilco, Jalisco, Mexico"
-birthPlace: "Jalisco, Mexico"
-deathPlace: "Jalisco, Mexico"
-region: "England"
+born: 11 August 1808 in El Refugio (a.k.a. Paredones), Jalisco, Mexico
+died: 21 March 1928 in Atotonilco, Jalisco, Mexico
+birthPlace: Jalisco, Mexico
+deathPlace: Jalisco, Mexico
+region: England
 feastDay:
   month: 3
   day: 21
@@ -17,6 +20,7 @@ canonizationStatus: Blessed
 vocation:
   - Priest
 martyr: true
+prayers: []
 ---
 
 Born to a peasant family, his father died when Miguel was very young. He was a pious boy, promoted the social doctrine of the Church, and was a member of the Catholic Association of Mexican Youth. He was married to María Guadalupe Sánchez Barragán in 1922, and the couple had three children.

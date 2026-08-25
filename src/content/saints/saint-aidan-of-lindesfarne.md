@@ -1,17 +1,22 @@
 ---
-name: "Saint Aidan of Lindesfarne"
+name: Saint Aidan of Lindesfarne
 honorific: Saint
-summary: "Monk at Iona, Scotland. Studied under Saint Senan at Inish Cathay. Bishop of Clogher, Ireland. Resigned the see to became a monk at Iona c.630. Evangelizing bishop in Northumbria, England at the behest of his friend the king, Saint Oswald of Northumbria. Once when pagans attacked"
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Aidan-of-Lindesfarne.jpg"
+summary: >-
+  Monk at Iona, Scotland. Studied under Saint Senan at Inish Cathay. Bishop of Clogher, Ireland. Resigned the see to
+  became a monk at Iona c.630. Evangelizing bishop in Northumbria, England at the behest of his friend the king, Saint
+  Oswald of Northumbria. Once when pagans attacked
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Aidan-of-Lindesfarne.jpg
 searchAliases:
-  - "Aidan of Lindisfarne"
-  - "Apostle of Northumbria"
-  - "Aedan…\nAidano…"
+  - Aidan of Lindisfarne
+  - Apostle of Northumbria
+  - |-
+    Aedan…
+    Aidano…
 deathYear: 651
-born: "Irish"
-died: "31 August 651 at Bamburg, England of natural causes"
-deathPlace: "Englandnatural causes"
-region: "Scotland"
+born: Irish
+died: 31 August 651 at Bamburg, England of natural causes
+deathPlace: Englandnatural causes
+region: Scotland
 feastDay:
   month: 8
   day: 31
@@ -22,12 +27,16 @@ vocation:
   - Missionary
   - Confessor
 patronage:
-  - "in England\n\nBamburgh"
-  - "Durham"
-  - "Glastonbury"
-  - "Lindisfarne Island"
-  - "Whitby"
+  - |-
+    in England
+
+    Bamburgh
+  - Durham
+  - Glastonbury
+  - Lindisfarne Island
+  - Whitby
 martyr: false
+prayers: []
 ---
 
 Monk at Iona, Scotland. Studied under Saint Senan at Inish Cathay. Bishop of Clogher, Ireland. Resigned the see to became a monk at Iona c.630. Evangelizing bishop in Northumbria, England at the behest of his friend the king, Saint Oswald of Northumbria. Once when pagans attacked Oswald's forces at Bambrough, they piled wood around the city walls to burn it; Saint Aidan prayed for help, and a change in wind blew the smoke and flames over the pagan army.

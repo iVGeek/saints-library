@@ -1,15 +1,15 @@
 ---
-name: "Blessed Karl Leisner"
+name: Blessed Karl Leisner
 honorific: Blessed
-summary: " He spent six months in compulsor Studied theology in M&uuml;nster, and tried to establish Catholic youth groups. However, the Nazis sought control of all work with youth, and he had to take teenagers “camping” in Belgium and the Netherlands in order to freely discuss Catholicism."
-image: "https://upload.wikimedia.org/wikipedia/commons/5/5a/1502_Leisner.jpg"
+summary: ' He spent six months in compulsor Studied theology in M&uuml;nster, and tried to establish Catholic youth groups. However, the Nazis sought control of all work with youth, and he had to take teenagers “camping” in Belgium and the Netherlands in order to freely discuss Catholicism.'
+image: https://upload.wikimedia.org/wikipedia/commons/5/5a/1502_Leisner.jpg
 birthYear: 1915
 deathYear: 1945
-born: "28 February 1915 at Rees, North Rhine-Westphalia, Germany"
-died: "12 August 1945 at Planneg, Bavaria, Germany of tuberculosis"
-birthPlace: "North Rhine-Westphalia, Germany"
-deathPlace: "Bavaria, Germanytuberculosis"
-region: "Belgium"
+born: 28 February 1915 at Rees, North Rhine-Westphalia, Germany
+died: 12 August 1945 at Planneg, Bavaria, Germany of tuberculosis
+birthPlace: North Rhine-Westphalia, Germany
+deathPlace: Bavaria, Germanytuberculosis
+region: Belgium
 feastDay:
   month: 8
   day: 12
@@ -19,6 +19,7 @@ vocation:
   - Priest
   - Deacon
 martyr: false
+prayers: []
 ---
 
 Studied theology in M&uuml;nster, and tried to establish Catholic youth groups. However, the Nazis sought control of all work with youth, and he had to take teenagers “camping” in Belgium and the Netherlands in order to freely discuss Catholicism.

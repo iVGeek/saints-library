@@ -25,6 +25,7 @@ symbols:
   - dove
 martyr: false
 lifeEvents: []
+prayers: []
 ---
 
 Twin sister of Saint Benedict of Nursia. Born to the Italian noblility. Her mother died in childbirth. Nun. She led a community of women at Plombariola near Montecassino. See the

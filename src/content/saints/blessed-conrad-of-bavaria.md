@@ -36,6 +36,7 @@ patronage:
   - Molfetta, Italy, diocese of
   - Molfetta-Ruvo-Giovinazzo-Terlizzi, Italy, diocese of
 martyr: false
+prayers: []
 ---
 
 Son of Duke Henry IX of Bavaria. Educated at Wiengarten Abbey in Ravensburg, Germany, and in Cologne, Germany. Joined of the Cistercians c.1124. Spiritual student of Saint Bernard of Clairvaux in Cologne in 1147. Pilgrim to the Holy Lands as part of the spiritual Crusade, and died on the road.

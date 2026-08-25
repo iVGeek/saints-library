@@ -1,18 +1,21 @@
 ---
-name: "Saint Botulph of Ikanhoe"
+name: Saint Botulph of Ikanhoe
 honorific: Saint
-summary: "Born to a Christian Saxon noble family. Brother of Saint Adolph of Utrecht. Educated with his brother at the monastery of Cnobersburg (Burgh Castle), Suffolk under the direction of its founder, Saint Fursey. When Mercian forces under King Penda invaded the region, the boys were s"
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Botulph-of-Ikanhoe.jpg"
+summary: >-
+  Born to a Christian Saxon noble family. Brother of Saint Adolph of Utrecht. Educated with his brother at the monastery
+  of Cnobersburg (Burgh Castle), Suffolk under the direction of its founder, Saint Fursey. When Mercian forces under
+  King Penda invaded the region, the boys were s
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Botulph-of-Ikanhoe.jpg
 searchAliases:
-  - "Botulph of Ikenhoe"
-  - "Botolph"
-  - "Botulf"
-  - "Botwulf"
+  - Botulph of Ikenhoe
+  - Botolph
+  - Botulf
+  - Botwulf
 birthYear: 610
 deathYear: 680
-born: "c.610 in East Anglia (part of modern England)"
-died: "17 June 680 of natural causes following a lengthy illness"
-region: "Netherlands"
+born: c.610 in East Anglia (part of modern England)
+died: 17 June 680 of natural causes following a lengthy illness
+region: Netherlands
 feastDay:
   month: 6
   day: 17
@@ -22,21 +25,27 @@ vocation:
   - Monk
   - Hermit
   - Missionary
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 patronage:
-  - "agricultural workers"
-  - "farm workers"
-  - "sailors"
-  - "travellers\n–"
-  - "in England\n\nBossal, Yorkshire"
-  - "Boston, Lincolnshire"
-  - "Botesdale, Suffolk"
-  - "Botolph Bridge, Huntingdonshire"
-  - "Botolph's Bridge, Kent"
-  - "Botolphs, Sussex"
-  - "Ikanhoe Abbey"
-  - "Peterborough"
+  - agricultural workers
+  - farm workers
+  - sailors
+  - |-
+    travellers
+    –
+  - |-
+    in England
+
+    Bossal, Yorkshire
+  - Boston, Lincolnshire
+  - Botesdale, Suffolk
+  - Botolph Bridge, Huntingdonshire
+  - Botolph's Bridge, Kent
+  - Botolphs, Sussex
+  - Ikanhoe Abbey
+  - Peterborough
 martyr: false
+prayers: []
 ---
 
 Born to a Christian Saxon noble family. Brother of Saint Adolph of Utrecht. Educated with his brother at the monastery of Cnobersburg (Burgh Castle), Suffolk under the direction of its founder, Saint Fursey. When Mercian forces under King Penda invaded the region, the boys were sent to study at the monastery at Bosanham, Sussex. He became a Benedictine monk at Farmoutiere-en-Brie, Gaul (modern northeastern France), and was sent back to the British Isles in 647 to establish the Benedictine Order there.

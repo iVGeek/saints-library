@@ -1,18 +1,18 @@
 ---
-name: "Blessed Karoline Anna Leidenix"
+name: Blessed Karoline Anna Leidenix
 honorific: Blessed
-summary: "Member of the Daughters of Divine Charity. Martyred by a Chetnik soldier."
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Karoline-Anna-Leidenix.jpg"
+summary: Member of the Daughters of Divine Charity. Martyred by a Chetnik soldier.
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Karoline-Anna-Leidenix.jpg
 searchAliases:
-  - "Sister Maria Berchmana Johanna"
-  - "Sister Marija Berchmana Johanna Leidenix"
+  - Sister Maria Berchmana Johanna
+  - Sister Marija Berchmana Johanna Leidenix
 birthYear: 1865
 deathYear: 1941
-born: "28 October 1865 in Enzersdorf an der Fischa, Bruck an der Leitha, Austria"
-died: "23 December 1941 in the forest outside Goražde, Bosansko-Podrinjski, Bosnia-Herzegovina"
-birthPlace: "Bruck an der Leitha, Austria"
-deathPlace: "Bosansko-Podrinjski, Bosnia-Herzegovina"
-region: "England"
+born: 28 October 1865 in Enzersdorf an der Fischa, Bruck an der Leitha, Austria
+died: 23 December 1941 in the forest outside Goražde, Bosansko-Podrinjski, Bosnia-Herzegovina
+birthPlace: Bruck an der Leitha, Austria
+deathPlace: Bosansko-Podrinjski, Bosnia-Herzegovina
+region: England
 feastDay:
   month: 12
   day: 23
@@ -22,6 +22,7 @@ vocation:
   - Cardinal
   - Soldier
 martyr: true
+prayers: []
 ---
 
 Member of the Daughters of Divine Charity. Martyred by a Chetnik soldier.

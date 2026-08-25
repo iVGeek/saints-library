@@ -1,9 +1,9 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Molonachus of Lismore"
+name: Saint Molonachus of Lismore
 honorific: Saint
-summary: "Seventh century spiritual student of Saint Brendan. Bishop of Lismore in Argyll, Scotland."
-region: "Scotland"
+summary: Seventh century spiritual student of Saint Brendan. Bishop of Lismore in Argyll, Scotland.
+region: Scotland
 feastDay:
   month: 6
   day: 25
@@ -12,6 +12,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Seventh century spiritual student of Saint Brendan. Bishop of Lismore in Argyll, Scotland.

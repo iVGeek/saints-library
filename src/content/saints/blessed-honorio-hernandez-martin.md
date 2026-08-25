@@ -1,22 +1,23 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Honorio Hernández Martín"
+name: Blessed Honorio Hernández Martín
 honorific: Blessed
-summary: "Cleric in the Salesians of Don Bosco. Martyred in the Spanish Civil War."
+summary: Cleric in the Salesians of Don Bosco. Martyred in the Spanish Civil War.
 birthYear: 1905
 deathYear: 1936
-born: "16 December 1905 in El Manzano, Salamanca, Spain"
-died: "28 July 1936 in Ronda, Málaga, Spain"
-birthPlace: "Salamanca, Spain"
-deathPlace: "Málaga, Spain"
-region: "Spain"
+born: 16 December 1905 in El Manzano, Salamanca, Spain
+died: 28 July 1936 in Ronda, Málaga, Spain
+birthPlace: Salamanca, Spain
+deathPlace: Málaga, Spain
+region: Spain
 feastDay:
   month: 7
   day: 28
 canonizationStatus: Blessed
 vocation: []
-religiousOrder: "Salesian"
+religiousOrder: Salesian
 martyr: true
+prayers: []
 ---
 
 Cleric in the Salesians of Don Bosco. Martyred in the Spanish Civil War.

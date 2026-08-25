@@ -20,6 +20,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/2/20/Kathedrale_Bourges_v2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Desideratus of Clermont
 imageCreditUrl: https://en.wikipedia.org/wiki/Archdiocese%20of%20Bourges
+prayers: []
 ---
 
 Sixth century bishop of Clermont, Auvergne, France.

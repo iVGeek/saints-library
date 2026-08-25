@@ -1,23 +1,24 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Eliseo Miguel Lagro"
+name: Blessed Eliseo Miguel Lagro
 honorific: Blessed
-summary: "Dominican priest. Martyred in the Spanish Civil War."
+summary: Dominican priest. Martyred in the Spanish Civil War.
 birthYear: 1889
 deathYear: 1936
-born: "28 August 1889 in Pajares de la Lampreana, Zamora, Spain"
-died: "23 December 1936 in Santander, Cantabria, Spain"
-birthPlace: "Zamora, Spain"
-deathPlace: "Cantabria, Spain"
-region: "Spain"
+born: 28 August 1889 in Pajares de la Lampreana, Zamora, Spain
+died: 23 December 1936 in Santander, Cantabria, Spain
+birthPlace: Zamora, Spain
+deathPlace: Cantabria, Spain
+region: Spain
 feastDay:
   month: 12
   day: 23
 canonizationStatus: Blessed
 vocation:
   - Priest
-religiousOrder: "Dominican"
+religiousOrder: Dominican
 martyr: true
+prayers: []
 ---
 
 Dominican priest. Martyred in the Spanish Civil War.

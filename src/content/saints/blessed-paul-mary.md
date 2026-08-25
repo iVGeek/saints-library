@@ -1,19 +1,22 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Paul Mary"
+name: Blessed Paul Mary
 honorific: Blessed
-summary: "Dominican lay brother in Seville, Spain. Miracle worker and healer. When he was in charge of giving bread to the poor, the bins never ran empty."
+summary: >-
+  Dominican lay brother in Seville, Spain. Miracle worker and healer. When he was in charge of giving bread to the poor,
+  the bins never ran empty.
 deathYear: 1597
-died: "1597 of natural causes"
-region: "Spain"
+died: 1597 of natural causes
+region: Spain
 feastDay:
   month: 12
   day: 29
 canonizationStatus: Blessed
 vocation:
   - Monk
-religiousOrder: "Dominican"
+religiousOrder: Dominican
 martyr: false
+prayers: []
 ---
 
 Dominican lay brother in Seville, Spain. Miracle worker and healer. When he was in charge of giving bread to the poor, the bins never ran empty.

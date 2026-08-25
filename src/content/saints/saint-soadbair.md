@@ -1,12 +1,12 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Soadbair"
+name: Saint Soadbair
 honorific: Saint
-title: "Bishop"
-summary: "Bishop in Ireland."
+title: Bishop
+summary: Bishop in Ireland.
 searchAliases:
-  - "Soadbar"
-region: "Ireland"
+  - Soadbar
+region: Ireland
 feastDay:
   month: 6
   day: 26
@@ -14,6 +14,7 @@ canonizationStatus: Saint
 vocation:
   - Bishop
 martyr: false
+prayers: []
 ---
 
 Bishop in Ireland.

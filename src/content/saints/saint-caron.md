@@ -15,6 +15,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/f/fa/Leslie_Caron-publicity.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Caron
 imageCreditUrl: https://en.wikipedia.org/wiki/Leslie%20Caron
+prayers: []
 ---
 
 Bishop. A church at Tregaron, Wales is named for him. No other information has survived.

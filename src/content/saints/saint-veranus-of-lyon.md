@@ -1,9 +1,9 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Veranus of Lyon"
+name: Saint Veranus of Lyon
 honorific: Saint
-summary: "Fifth century bishop of Lyon, France."
-region: "France"
+summary: Fifth century bishop of Lyon, France.
+region: France
 feastDay:
   month: 11
   day: 11
@@ -12,6 +12,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Fifth century bishop of Lyon, France.

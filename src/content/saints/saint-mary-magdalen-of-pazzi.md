@@ -1,29 +1,33 @@
 ---
-name: "Saint Mary Magdalen of Pazzi"
+name: Saint Mary Magdalen of Pazzi
 honorific: Saint
-summary: "Catherine received a religious upbringing. She was initially sent to a convent at age 14, but was taken back home by her family who opposed her religious vocation and wanted her to marry well. They eventually gave in, and Catherine became a Carmelite of the Ancient Observance at"
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Mary-Magdalen-of-Pazzi1.jpg"
+summary: >-
+  Catherine received a religious upbringing. She was initially sent to a convent at age 14, but was taken back home by
+  her family who opposed her religious vocation and wanted her to marry well. They eventually gave in, and Catherine
+  became a Carmelite of the Ancient Observance at
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Mary-Magdalen-of-Pazzi1.jpg
 searchAliases:
-  - "Mary-Magdalen de'Pazzi"
+  - Mary-Magdalen de'Pazzi
 birthYear: 1566
 deathYear: 1607
-born: "1566 at Florence, Italy as Catherine"
-died: "25 May 1607 of natural causes"
-birthPlace: "Italy as Catherine"
-region: "Italy"
+born: 1566 at Florence, Italy as Catherine
+died: 25 May 1607 of natural causes
+birthPlace: Italy as Catherine
+region: Italy
 feastDay:
   month: 5
   day: 25
 canonizationStatus: Saint
 vocation:
   - Confessor
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 patronage:
-  - "against bodily ills"
-  - "against sexual temptation"
-  - "against sickness"
-  - "sick people"
+  - against bodily ills
+  - against sexual temptation
+  - against sickness
+  - sick people
 martyr: false
+prayers: []
 ---
 
 Catherine received a religious upbringing. She was initially sent to a convent at age 14, but was taken back home by her family who opposed her religious vocation and wanted her to marry well. They eventually gave in, and Catherine became a Carmelite of the Ancient Observance at 16, taking the name Sister Mary Magdalen. Mystic. Led a hidden life of prayer and self-denial, praying particularly for the renewal of the Church and encouraging the sisters in holiness.

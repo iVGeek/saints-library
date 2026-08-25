@@ -1,13 +1,15 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Helen of Hungary"
+name: Blessed Helen of Hungary
 honorific: Blessed
-summary: "Dominican nun in Veszprem, Hungary. Novice mistress to Saint Margaret of Hungary. Prioress. Reputed stigmatist. Given to ecstasies, and lilies of light grew from her hands during prayers."
+summary: >-
+  Dominican nun in Veszprem, Hungary. Novice mistress to Saint Margaret of Hungary. Prioress. Reputed stigmatist. Given
+  to ecstasies, and lilies of light grew from her hands during prayers.
 searchAliases:
-  - "Ilona of Hungary"
+  - Ilona of Hungary
 deathYear: 1270
-died: "c.1270 of natural causes"
-region: "Hungary"
+died: c.1270 of natural causes
+region: Hungary
 feastDay:
   month: 11
   day: 9
@@ -15,8 +17,9 @@ canonizationStatus: Blessed
 vocation:
   - Monk
   - Religious
-religiousOrder: "Dominican"
+religiousOrder: Dominican
 martyr: false
+prayers: []
 ---
 
 Dominican nun in Veszprem, Hungary. Novice mistress to Saint Margaret of Hungary. Prioress. Reputed stigmatist. Given to ecstasies, and lilies of light grew from her hands during prayers.

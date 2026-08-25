@@ -1,10 +1,12 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Juan de Zambrana"
+name: Blessed Juan de Zambrana
 honorific: Blessed
-title: "Missionary"
-summary: "Mercedarian friar. Missionary to Guatamala in 1535, one of the first in the region. Built the Mercedarian convent of San Giacomo in Santiago, Guatemala."
-region: "Chile"
+title: Missionary
+summary: >-
+  Mercedarian friar. Missionary to Guatamala in 1535, one of the first in the region. Built the Mercedarian convent of
+  San Giacomo in Santiago, Guatemala.
+region: Chile
 feastDay:
   month: 7
   day: 21
@@ -12,6 +14,7 @@ canonizationStatus: Blessed
 vocation:
   - Missionary
 martyr: false
+prayers: []
 ---
 
 Mercedarian friar. Missionary to Guatamala in 1535, one of the first in the region. Built the Mercedarian convent of San Giacomo in Santiago, Guatemala.

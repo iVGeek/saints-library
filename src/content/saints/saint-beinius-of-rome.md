@@ -1,20 +1,21 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Beinius of Rome"
+name: Saint Beinius of Rome
 honorific: Saint
-summary: "Martyr."
+summary: Martyr.
 searchAliases:
-  - "Beinio"
-died: "Rome, Italy in the early days of the Church"
-deathPlace: "Italythe early days of the Church"
-region: "Italy"
+  - Beinio
+died: Rome, Italy in the early days of the Church
+deathPlace: Italythe early days of the Church
+region: Italy
 feastDay:
   month: 5
   day: 21
 canonizationStatus: Saint
 vocation: []
-religiousOrder: "Carmelite"
+religiousOrder: Carmelite
 martyr: true
+prayers: []
 ---
 
 Martyr.

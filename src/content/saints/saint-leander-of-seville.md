@@ -1,27 +1,28 @@
 ---
-name: "Saint Leander of Seville"
+name: Saint Leander of Seville
 honorific: Saint
-summary: " Converted Saint Hermengild and Prince Reccared, sons of the Arian Visigoth ki Son of Severianus and Theodora, known for their piety. Elder brother of Saint Isidore of Seville, Saint Fulgentius of Ecija, and Saint Florentina of Cartagena. Monk at Seville, Spain. Bishop of Seville."
-image: "https://upload.wikimedia.org/wikipedia/commons/0/0c/San_Leandro.jpg"
+summary: ' Converted Saint Hermengild and Prince Reccared, sons of the Arian Visigoth ki Son of Severianus and Theodora, known for their piety. Elder brother of Saint Isidore of Seville, Saint Fulgentius of Ecija, and Saint Florentina of Cartagena. Monk at Seville, Spain. Bishop of Seville.'
+image: https://upload.wikimedia.org/wikipedia/commons/0/0c/San_Leandro.jpg
 searchAliases:
-  - "Leandro"
+  - Leandro
 birthYear: 534
 deathYear: 600
-born: "c.534 at Cartagena, Spain"
-died: "c.600 at Seville, Spain of natural causes"
-birthPlace: "Spain"
-deathPlace: "Spaof natural causes"
-region: "Spain"
+born: c.534 at Cartagena, Spain
+died: c.600 at Seville, Spain of natural causes
+birthPlace: Spain
+deathPlace: Spaof natural causes
+region: Spain
 feastDay:
   month: 3
   day: 13
 canonizationStatus: Saint
 vocation:
   - Confessor
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 patronage:
-  - "Seville, Spain"
+  - Seville, Spain
 martyr: false
+prayers: []
 ---
 
 Son of Severianus and Theodora, known for their piety. Elder brother of Saint Isidore of Seville, Saint Fulgentius of Ecija, and Saint Florentina of Cartagena. Monk at Seville, Spain. Bishop of Seville.

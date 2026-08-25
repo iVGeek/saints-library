@@ -26,6 +26,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/6/68/Cluny_-_B%C3%A2timents_abbatiaux_-_08.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Aymard of Cluny
 imageCreditUrl: https://en.wikipedia.org/wiki/Cluny%20Abbey
+prayers: []
 ---
 
 Benedictine monk. Brother monk to Saint Odo of Cluny. Third abbot of Cluny Abbey from 942 to 954. Though a man of humble origins himself, Aimaro made many contacts with the wealthy and powerful, and strengthened the abbey with scores of donations from them. He was an accomplished manager, and used this new found power and resources to build Cluniac houses throughout the region. Later in life, Aimaro began to lose his sight, and Saint Mayeul became his assistant and co-adjutor, and when Aimaro resigned his position, the abbot. Brother Aimaro then spent his remaining eleven years as a simple, prayerful monk.

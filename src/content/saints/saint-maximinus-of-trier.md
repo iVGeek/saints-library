@@ -1,17 +1,20 @@
 ---
-name: "Saint Maximinus of Trier"
+name: Saint Maximinus of Trier
 honorific: Saint
-summary: "Born to the Gallic nobility. Brother of Saint Maxentius of Poitiers. Educated and ordained by Saint Agritius, whom he succeeded as bishop of Trier in 332 or 335. Trier was the government seat of the Western Empire, and his office put Maximinus close contact with Emperors Constant"
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Maximinus-of-Trier.jpg"
+summary: >-
+  Born to the Gallic nobility. Brother of Saint Maxentius of Poitiers. Educated and ordained by Saint Agritius, whom he
+  succeeded as bishop of Trier in 332 or 335. Trier was the government seat of the Western Empire, and his office put
+  Maximinus close contact with Emperors Constant
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Maximinus-of-Trier.jpg
 searchAliases:
-  - "Maximinus of Treviri"
-  - "Maximin"
-  - "Massimino"
+  - Maximinus of Treviri
+  - Maximin
+  - Massimino
 deathYear: 349
-born: "at Silly near Poitiers, France"
-died: "12 September 349 or 29 May 352 (records vary)"
-birthPlace: "France"
-region: "Germany"
+born: at Silly near Poitiers, France
+died: 12 September 349 or 29 May 352 (records vary)
+birthPlace: France
+region: Germany
 feastDay:
   month: 5
   day: 29
@@ -21,11 +24,12 @@ vocation:
   - Priest
   - Monk
   - Confessor
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 patronage:
-  - "Trier, Germany"
-  - "Saint-Maximin-la-Sainte-Baume, France"
+  - Trier, Germany
+  - Saint-Maximin-la-Sainte-Baume, France
 martyr: false
+prayers: []
 ---
 
 Born to the Gallic nobility. Brother of Saint Maxentius of Poitiers. Educated and ordained by Saint Agritius, whom he succeeded as bishop of Trier in 332 or 335. Trier was the government seat of the Western Empire, and his office put Maximinus close contact with Emperors Constantine II and Constans. Friend of Saint Athanasius of Alexandria, whom he harboured as an honoured guest during his exile from 336 to 338. Received the banished patriarch Paul of Constantinople in 341, and effected his return to Constantinople.

@@ -30,6 +30,7 @@ patronage:
     Beatenberg
   - Thun
 martyr: false
+prayers: []
 ---
 
 Convert, baptized in England by Saint Barnabas the Apostle. Priest, ordained in Rome, Italy by Saint Peter the Apostle. Missionary to Switzerland. Lived in a cave above the Lake of Thun, which tradition says is where he fought a dragon (often used as a metaphor for chasing the devil out of a region by bringing in Christianity); it became known as Mount Beatenburg in his honor, and became a place of pilgrimage in later years. Confessor of the faith.

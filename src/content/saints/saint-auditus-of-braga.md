@@ -27,6 +27,7 @@ patronage:
   - against ear problems
   - deaf people
 martyr: true
+prayers: []
 ---
 
 Imperial Roman citizen. Auditus was chosen 3rd bishop of Braga, Portugal by Pope Clement I in 95. Baptized Saint Marina. Martyr.

@@ -1,10 +1,10 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Dorotheus of Hadrianopolis"
+name: Saint Dorotheus of Hadrianopolis
 honorific: Saint
-summary: "Martyr."
+summary: Martyr.
 searchAliases:
-  - "Dorotheus of Adrianopolis"
+  - Dorotheus of Adrianopolis
 feastDay:
   month: 10
   day: 23
@@ -12,6 +12,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Martyr.

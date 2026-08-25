@@ -1,25 +1,30 @@
 ---
-name: "Venerable Enrico Medi"
+name: Venerable Enrico Medi
 honorific: Venerable
-summary: "The son of Arturo Medi, a physician, and Maria Luisa Mei. When Enrico was about 3 years old, his family moved to Belvedere Ostrense, Italy, and then to Rome, Italy when he was about nine. While in high school and college, he co-founded the Student Missionary League, and served as"
-image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Enrico-Medi.jpg"
+summary: >-
+  The son of Arturo Medi, a physician, and Maria Luisa Mei. When Enrico was about 3 years old, his family moved to
+  Belvedere Ostrense, Italy, and then to Rome, Italy when he was about nine. While in high school and college, he
+  co-founded the Student Missionary League, and served as
+image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Enrico-Medi.jpg
 birthYear: 1911
 deathYear: 1974
-born: "26 April 1911 in Porto Recanati, Italy"
-died: "26 May 1974 in Rome, Italy of cancer"
-birthPlace: "Italy"
-deathPlace: "Italycancer"
-region: "Italy"
+born: 26 April 1911 in Porto Recanati, Italy
+died: 26 May 1974 in Rome, Italy of cancer
+birthPlace: Italy
+deathPlace: Italycancer
+region: Italy
 feastDay:
   month: 7
   day: 21
-centuries: [20]
+centuries:
+  - 20
 canonizationStatus: Venerable
 vocation:
   - Priest
   - Missionary
-religiousOrder: "Jesuit"
+religiousOrder: Jesuit
 martyr: false
+prayers: []
 ---
 
 The son of Arturo Medi, a physician, and Maria Luisa Mei. When Enrico was about 3 years old, his family moved to Belvedere Ostrense, Italy, and then to Rome, Italy when he was about nine. While in high school and college, he co-founded the Student Missionary League, and served as its first president. In 1932, at age 21, he received a degree in physics, having written a thesis on the nature of the neutron. He earned a teaching qualification in 1937, and was chosen chair of experimental physics at the University of Palermo in 1942. He did early work on radar and the study of what became known as the Van Allen belts that protect the earth, but the Fascists repressed his studies. He was married, and the father of six girls.

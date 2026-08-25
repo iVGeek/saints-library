@@ -12,6 +12,7 @@ image: https://commons.wikimedia.org/wiki/Special:FilePath/Hyacinth_-_Anglesey_A
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Martyred in the persecutions of Trajan.

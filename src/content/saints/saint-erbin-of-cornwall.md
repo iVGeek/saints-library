@@ -19,6 +19,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/3/38/Sir_Geraint%2C_Son_of_Erbin.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Erbin of Cornwall
 imageCreditUrl: https://en.wikipedia.org/wiki/Geraint
+prayers: []
 ---
 
 Fifth century relative of a Cornish chieftain. Churches are dedicated to him in Cornwall.

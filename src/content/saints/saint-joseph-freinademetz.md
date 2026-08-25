@@ -1,32 +1,38 @@
 ---
-name: "Saint Joseph Freinademetz"
+name: Saint Joseph Freinademetz
 honorific: Venerable
-summary: "Born into a pious farm family, the fourth of twelve children. Joseph was a polymath who knew seven languages. Ordained in Bressanone, Italian Tyrol on 25 July 1875. Joined the Divine Word Missionaries when the congregation was only three years old. Missionary to China in 1879; he"
-image: "https://upload.wikimedia.org/wikipedia/commons/3/33/Josef_freinademetz.jpg"
+summary: >-
+  Born into a pious farm family, the fourth of twelve children. Joseph was a polymath who knew seven languages. Ordained
+  in Bressanone, Italian Tyrol on 25 July 1875. Joined the Divine Word Missionaries when the congregation was only three
+  years old. Missionary to China in 1879; he
+image: https://upload.wikimedia.org/wikipedia/commons/3/33/Josef_freinademetz.jpg
 searchAliases:
-  - "Giuseppe Freinademetz"
-  - "Joseph of Shantung"
-  - "Joseph of Shandong"
-  - "Jozef Freinademetz"
-  - "Ujoep (nickname)"
+  - Giuseppe Freinademetz
+  - Joseph of Shantung
+  - Joseph of Shandong
+  - Jozef Freinademetz
+  - Ujoep (nickname)
 birthYear: 1852
 deathYear: 1908
-born: "15 April 1852 in Pedraces in Val Gadena, the Tyrolean Alps, Italy"
-died: "28 January 1908 in Taikia, China of tuberculosis and typhus"
-birthPlace: "the Tyrolean Alps, Italy"
-deathPlace: "Chinatuberculosis and typhus"
-region: "China"
+born: 15 April 1852 in Pedraces in Val Gadena, the Tyrolean Alps, Italy
+died: 28 January 1908 in Taikia, China of tuberculosis and typhus
+birthPlace: the Tyrolean Alps, Italy
+deathPlace: Chinatuberculosis and typhus
+region: China
 feastDay:
   month: 1
   day: 28
-centuries: [19, 20]
+centuries:
+  - 19
+  - 20
 canonizationStatus: Venerable
 vocation:
   - Bishop
   - Priest
   - Missionary
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 martyr: false
+prayers: []
 ---
 
 Born into a pious farm family, the fourth of twelve children. Joseph was a polymath who knew seven languages. Ordained in Bressanone, Italian Tyrol on 25 July 1875. Joined the Divine Word Missionaries when the congregation was only three years old. Missionary to China in 1879; he spent the rest of his life there, and did all he could to be Chinese in order to convert the Chinese.

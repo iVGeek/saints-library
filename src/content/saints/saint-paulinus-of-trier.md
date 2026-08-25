@@ -21,6 +21,7 @@ vocation:
   - Priest
   - Missionary
 martyr: true
+prayers: []
 ---
 
 Missionary to Germany where he worked with Saint Maximinus in the area of Trier. Bishop of Trier in 349. Strongly supported Saint Athanasius of Alexandria, which led to him being exiled to Phrygia, Asia Minor by the Arian Emperor Constantius in 355; he was never able to return to his diocese; he died in exile, and thus is considered a martyr.

@@ -17,6 +17,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/1/1f/Mid-nineteenth_century_reconstruction_of_Alexander%27s_catafalque_based_on_the_description_by_Diodorus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Appian of Alexandria
 imageCreditUrl: https://en.wikipedia.org/wiki/Tomb%20of%20Alexander%20the%20Great
+prayers: []
 ---
 
 Martyred with nine other Christians during disturbances caused by the heretical Monophysites.

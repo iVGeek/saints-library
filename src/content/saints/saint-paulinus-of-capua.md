@@ -1,12 +1,15 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Paulinus of Capua"
+name: Saint Paulinus of Capua
 honorific: Saint
-summary: "Pilgrim from the British Isles who emigrated to Capua, Italy. He was such an obvious holy man and teacher that the locals demanded that he become their bishop. He served for eight years, fled the area during the Saracen invasion, served as best he could from Sicopli, Italy, and d"
+summary: >-
+  Pilgrim from the British Isles who emigrated to Capua, Italy. He was such an obvious holy man and teacher that the
+  locals demanded that he become their bishop. He served for eight years, fled the area during the Saracen invasion,
+  served as best he could from Sicopli, Italy, and d
 deathYear: 843
-died: "843 in Sicopoli (modern Triflisco), Italy of natural causes"
-deathPlace: "Italynatural causes"
-region: "Italy"
+died: 843 in Sicopoli (modern Triflisco), Italy of natural causes
+deathPlace: Italynatural causes
+region: Italy
 feastDay:
   month: 10
   day: 10
@@ -15,6 +18,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Pilgrim from the British Isles who emigrated to Capua, Italy. He was such an obvious holy man and teacher that the locals demanded that he become their bishop. He served for eight years, fled the area during the Saracen invasion, served as best he could from Sicopli, Italy, and died in exile.

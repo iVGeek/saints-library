@@ -28,6 +28,7 @@ vocation:
   - Monk
 religiousOrder: Franciscan
 martyr: false
+prayers: []
 ---
 
 Born to the Spanish nobility, son of Count Gutierre de Mendenez. Relative of Saint Senorina and Blessed Ilduara. Benedictine monk. Reluctant bishop of Mondonedo, Spain at age 18. Reforming bishop of Compostela, Spain replacing his corrupt cousin Sisnand. Led armies against invading Norsemen and Moors. When Sisnand escaped prison, he attacked Rudesind during Christmas Mass, and threatened to murder him. Rather than live as a prisoner himself, Rudesind retired from the bishopric. He founded several monasteries and abbeys, all under strict Benedictine Rule, including Saint John of Caaveiro Abbey and the Monastery of San Salvador de Celanova; he lived as a humble monk at each of these. Abbot of San Salvador de Celanova. Advisor to Church and political leaders. Reported miracle worker.

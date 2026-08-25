@@ -21,6 +21,7 @@ vocation:
 patronage:
   - Landeyrn, Brittany, France
 martyr: false
+prayers: []
 ---
 
 Hermit the Armonica area of Brittany in modern France. Evangelist in Wales. Legend says that he spent his early life as a friend of King Arthur.

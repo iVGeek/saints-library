@@ -1,14 +1,14 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Placidia of Verona"
+name: Blessed Placidia of Verona
 honorific: Blessed
-summary: "Nun, known for her piety and for her healing miracles."
+summary: Nun, known for her piety and for her healing miracles.
 deathYear: 533
-born: "latter 5th century in Verona, Italy"
-died: "c.533 in Verona, Italy of natural causes"
-birthPlace: "Italy"
-deathPlace: "Italynatural causes"
-region: "Italy"
+born: latter 5th century in Verona, Italy
+died: c.533 in Verona, Italy of natural causes
+birthPlace: Italy
+deathPlace: Italynatural causes
+region: Italy
 feastDay:
   month: 11
   day: 8
@@ -17,6 +17,7 @@ vocation:
   - Bishop
   - Religious
 martyr: false
+prayers: []
 ---
 
 Nun, known for her piety and for her healing miracles.

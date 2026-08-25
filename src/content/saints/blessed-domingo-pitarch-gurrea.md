@@ -1,21 +1,24 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Domingo Pitarch Gurrea"
+name: Blessed Domingo Pitarch Gurrea
 honorific: Blessed
-summary: "Joined the Hospitallers of Saint John of God on 7 December 1935. Martyred as a novice in the Spanish Civil War. One of the Martyred Hospitallers of Spain."
+summary: >-
+  Joined the Hospitallers of Saint John of God on 7 December 1935. Martyred as a novice in the Spanish Civil War. One of
+  the Martyred Hospitallers of Spain.
 birthYear: 1909
 deathYear: 1936
-born: "12 February 1909 in Villareal, Castellón, Spain"
-died: "30 July 1936 in Calafell, Tarragona, Spain"
-birthPlace: "Castellón, Spain"
-deathPlace: "Tarragona, Spain"
-region: "Spain"
+born: 12 February 1909 in Villareal, Castellón, Spain
+died: 30 July 1936 in Calafell, Tarragona, Spain
+birthPlace: Castellón, Spain
+deathPlace: Tarragona, Spain
+region: Spain
 feastDay:
   month: 7
   day: 30
 canonizationStatus: Blessed
 vocation: []
 martyr: true
+prayers: []
 ---
 
 Joined the Hospitallers of Saint John of God on 7 December 1935. Martyred as a novice in the Spanish Civil War. One of the Martyred Hospitallers of Spain.

@@ -1,17 +1,17 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Manuela Prensa Cano"
+name: Blessed Manuela Prensa Cano
 honorific: Blessed
-summary: "Conceptionist nun. Martyred in the Spanish Civil War."
+summary: Conceptionist nun. Martyred in the Spanish Civil War.
 searchAliases:
-  - "María of the Blessed Sacrament"
+  - María of the Blessed Sacrament
 birthYear: 1887
 deathYear: 1936
-born: "25 June 1887 in El Toboso, Toledo, Spain"
-died: "8 November 1936 in Madrid, Spain"
-birthPlace: "Toledo, Spain"
-deathPlace: "Spain"
-region: "Spain"
+born: 25 June 1887 in El Toboso, Toledo, Spain
+died: 8 November 1936 in Madrid, Spain
+birthPlace: Toledo, Spain
+deathPlace: Spain
+region: Spain
 feastDay:
   month: 11
   day: 8
@@ -20,6 +20,7 @@ vocation:
   - Religious
   - Cardinal
 martyr: true
+prayers: []
 ---
 
 Conceptionist nun. Martyred in the Spanish Civil War.

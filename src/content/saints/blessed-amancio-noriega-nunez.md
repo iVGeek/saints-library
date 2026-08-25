@@ -28,6 +28,7 @@ imageCredit: >-
   Archive source: <a rel="nofollow" class="external free"
   href="http://bdh.bne.es/bnesearch/detalle/bdh0000065750">http://bdh.bne.es/bnesearch/detalle/bdh0000065750</a>
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:M%C3%BAsicos%20c%C3%A9lebres%20(1884).pdf
+prayers: []
 ---
 
 Monk. Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War.

@@ -1,24 +1,28 @@
 ---
-name: "Blessed Thomas Woodhouse"
+name: Blessed Thomas Woodhouse
 honorific: Blessed
-summary: "Priest in Lincolnshire, England. Forced to resign due state persecution, he became a tutor in Wales. Arrested and sent to Fleet Prison on 14 May 1561 for the crime of celebrating Mass. He lay there for nine years before being tried and convicted for his faith. At some point durin"
+summary: >-
+  Priest in Lincolnshire, England. Forced to resign due state persecution, he became a tutor in Wales. Arrested and sent
+  to Fleet Prison on 14 May 1561 for the crime of celebrating Mass. He lay there for nine years before being tried and
+  convicted for his faith. At some point durin
 birthYear: 1535
 deathYear: 1573
-born: "1535 in Lincolnshire, England"
-died: "hanged, drawn, and quartered on 19 June 1573 at Smithfield, London, England"
-birthPlace: "England"
-deathPlace: "drawn, and quartered on 19 June 1573 at Smithfield, London, England"
-region: "Italy"
+born: 1535 in Lincolnshire, England
+died: hanged, drawn, and quartered on 19 June 1573 at Smithfield, London, England
+birthPlace: England
+deathPlace: drawn, and quartered on 19 June 1573 at Smithfield, London, England
+region: Italy
 feastDay:
   month: 6
   day: 19
 canonizationStatus: Blessed
-image: "https://upload.wikimedia.org/wikipedia/commons/f/fd/Blessed-thomas-woodhouse.png"
+image: https://upload.wikimedia.org/wikipedia/commons/f/fd/Blessed-thomas-woodhouse.png
 vocation:
   - Priest
   - Monk
-religiousOrder: "Jesuit"
+religiousOrder: Jesuit
 martyr: true
+prayers: []
 ---
 
 Priest in Lincolnshire, England. Forced to resign due state persecution, he became a tutor in Wales. Arrested and sent to Fleet Prison on 14 May 1561 for the crime of celebrating Mass. He lay there for nine years before being tried and convicted for his faith. At some point during his incarceration he joined the Jesuits, and he ministered to fellow prisoners when possible.

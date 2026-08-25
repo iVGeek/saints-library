@@ -21,6 +21,7 @@ vocation:
 patronage:
   - Oloron, France, diocese of
 martyr: false
+prayers: []
 ---
 
 First bishop of Oloron, southern France in 506 where he worked to reform the Church in the region. Part of the Council of Agde.

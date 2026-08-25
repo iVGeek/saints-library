@@ -1,24 +1,27 @@
 ---
-name: "Saint Ulric of Augsburg"
+name: Saint Ulric of Augsburg
 honorific: Saint
-summary: "Son of Count Hucpald and Thetbirga; related to the dukes of Alamannia and the imperial family of the Ottos. He was a sickly child. Educated at the monastic school of Saint Gall where he proved to be an excellent student. Chamberlain to his uncle Blessed Adalbero, bishop of Augsbu"
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Ulric-of-Augsburg.jpg"
+summary: >-
+  Son of Count Hucpald and Thetbirga; related to the dukes of Alamannia and the imperial family of the Ottos. He was a
+  sickly child. Educated at the monastic school of Saint Gall where he proved to be an excellent student. Chamberlain to
+  his uncle Blessed Adalbero, bishop of Augsbu
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Ulric-of-Augsburg.jpg
 searchAliases:
-  - "Ulric of Augusta"
-  - "Udalric"
-  - "Udalrich"
-  - "Udalricus"
-  - "Ubric"
-  - "Uldaricus"
-  - "Ulderic"
-  - "Ulrich"
+  - Ulric of Augusta
+  - Udalric
+  - Udalrich
+  - Udalricus
+  - Ubric
+  - Uldaricus
+  - Ulderic
+  - Ulrich
 birthYear: 890
 deathYear: 973
-born: "890 at Kyburg, Zurich, Switzerland"
-died: "4 July 973 at Augsburg, Germany of natural causes"
-birthPlace: "Zurich, Switzerland"
-deathPlace: "Germanynatural causes"
-region: "Germany"
+born: 890 at Kyburg, Zurich, Switzerland
+died: 4 July 973 at Augsburg, Germany of natural causes
+birthPlace: Zurich, Switzerland
+deathPlace: Germanynatural causes
+region: Germany
 feastDay:
   month: 7
   day: 4
@@ -28,28 +31,29 @@ vocation:
   - Priest
   - Confessor
 patronage:
-  - "against birth complications"
-  - "against dizziness"
-  - "against faintness"
-  - "against fever"
-  - "against frenzy"
-  - "against mice"
-  - "against moles"
-  - "against vertigo"
-  - "–"
-  - "happy death"
-  - "pregnant women"
-  - "–"
-  - "farmers"
-  - "weavers"
-  - "–"
-  - "Augsburg, Germany, city of"
-  - "Augsburg, Germany, diocese of"
-  - "Creazzo, Italy"
-  - "Klosterneuburg, Austria"
-  - "Ovasta, Ovaro, Italy"
-  - "Paderborn, Germany, archdiocese of"
+  - against birth complications
+  - against dizziness
+  - against faintness
+  - against fever
+  - against frenzy
+  - against mice
+  - against moles
+  - against vertigo
+  - –
+  - happy death
+  - pregnant women
+  - –
+  - farmers
+  - weavers
+  - –
+  - Augsburg, Germany, city of
+  - Augsburg, Germany, diocese of
+  - Creazzo, Italy
+  - Klosterneuburg, Austria
+  - Ovasta, Ovaro, Italy
+  - Paderborn, Germany, archdiocese of
 martyr: false
+prayers: []
 ---
 
 Son of Count Hucpald and Thetbirga; related to the dukes of Alamannia and the imperial family of the Ottos. He was a sickly child. Educated at the monastic school of Saint Gall where he proved to be an excellent student. Chamberlain to his uncle Blessed Adalbero, bishop of Augsburg. Priest. Bishop of Augsburg on 28 December 923.

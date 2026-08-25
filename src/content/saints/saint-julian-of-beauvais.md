@@ -1,12 +1,12 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Julian of Beauvais"
+name: Saint Julian of Beauvais
 honorific: Saint
-summary: "Missionary to Beauvais, France. Martyr."
+summary: Missionary to Beauvais, France. Martyr.
 deathYear: 290
-died: "290 at Beauvais, France"
-deathPlace: "France"
-region: "France"
+died: 290 at Beauvais, France
+deathPlace: France
+region: France
 feastDay:
   month: 1
   day: 8
@@ -15,6 +15,7 @@ vocation:
   - Monk
   - Missionary
 martyr: true
+prayers: []
 ---
 
 Missionary to Beauvais, France. Martyr.

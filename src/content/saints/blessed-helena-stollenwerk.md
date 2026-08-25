@@ -1,20 +1,23 @@
 ---
-name: "Blessed Helena Stollenwerk"
+name: Blessed Helena Stollenwerk
 honorific: Blessed
-summary: "Anna grew up in a pious farm family that was always involved in parish life. Feeling a call to religious life in her youth, Anna joined the Society of the Holy Childhood. She was interested in missionary work in China, and wrote about the desire to Saint Arnold Janssen, founder o"
-image: "https://upload.wikimedia.org/wikipedia/commons/8/87/Helena_Maria_Stollenwerk_b.jpg"
+summary: >-
+  Anna grew up in a pious farm family that was always involved in parish life. Feeling a call to religious life in her
+  youth, Anna joined the Society of the Holy Childhood. She was interested in missionary work in China, and wrote about
+  the desire to Saint Arnold Janssen, founder o
+image: https://upload.wikimedia.org/wikipedia/commons/8/87/Helena_Maria_Stollenwerk_b.jpg
 searchAliases:
-  - "Anna Helena Stollenwerk"
-  - "Maria Stollenwerk"
-  - "Maria Virgo"
-  - "Maria Elena"
+  - Anna Helena Stollenwerk
+  - Maria Stollenwerk
+  - Maria Virgo
+  - Maria Elena
 birthYear: 1852
 deathYear: 1900
-born: "28 November 1852 in Rollensbroich, Archdiocese of Cologne, Rhineland Palatinate, Germany as Anna Helena Stollenwerk"
-died: "3 February 1900 in Steyl, Venlo, Limburg, Netherlands of tubercular meningitis"
-birthPlace: "ArchdioceseCologne, Rhineland Palatinate, Germany as Anna Helena Stollenwerk"
-deathPlace: "Venlo, Limburg, Netherlandstubercular meningitis"
-region: "China"
+born: 28 November 1852 in Rollensbroich, Archdiocese of Cologne, Rhineland Palatinate, Germany as Anna Helena Stollenwerk
+died: 3 February 1900 in Steyl, Venlo, Limburg, Netherlands of tubercular meningitis
+birthPlace: ArchdioceseCologne, Rhineland Palatinate, Germany as Anna Helena Stollenwerk
+deathPlace: Venlo, Limburg, Netherlandstubercular meningitis
+region: China
 feastDay:
   month: 2
   day: 3
@@ -23,6 +26,7 @@ vocation:
   - Religious
   - Missionary
 martyr: false
+prayers: []
 ---
 
 Anna grew up in a pious farm family that was always involved in parish life. Feeling a call to religious life in her youth, Anna joined the Society of the Holy Childhood. She was interested in missionary work in China, and wrote about the desire to Saint Arnold Janssen, founder of the Society of the Divine Word who had sent missionaries to China in 1879. Though Saint Arnold had no immediate plans for missionary sisters, he took on Helena to work in the mission kitchen where she met three others with the same calling, doing the same work.

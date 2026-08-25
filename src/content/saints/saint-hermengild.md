@@ -1,15 +1,15 @@
 ---
-name: "Saint Hermengild"
+name: Saint Hermengild
 honorific: Saint
-summary: " Publicly renounced and Son of the Spanish Visigoth Arian king Levigild, and raised in Arianism. In 579 he married the Catholic princess Indgund, who, with Saint Leander, bishop of Seville, Spain, converted him back to orthodox Christianity. Immediately disinherited by his father."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Hermengild1.jpg"
+summary: ' Publicly renounced and Son of the Spanish Visigoth Arian king Levigild, and raised in Arianism. In 579 he married the Catholic princess Indgund, who, with Saint Leander, bishop of Seville, Spain, converted him back to orthodox Christianity. Immediately disinherited by his father.'
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Hermengild1.jpg
 searchAliases:
-  - "Ermengild"
-  - "Ermengildo"
-  - "Hermenegild"
+  - Ermengild
+  - Ermengildo
+  - Hermenegild
 deathYear: 585
-died: "tortured and axed to death 13 April 585"
-region: "Spain"
+died: tortured and axed to death 13 April 585
+region: Spain
 feastDay:
   month: 4
   day: 13
@@ -19,14 +19,15 @@ vocation:
   - Priest
   - Monk
 patronage:
-  - "against drought"
-  - "against flood"
-  - "against thunderstorms"
-  - "converts"
-  - "Spanish monarchy"
-  - "—"
-  - "Seville, Spain"
+  - against drought
+  - against flood
+  - against thunderstorms
+  - converts
+  - Spanish monarchy
+  - —
+  - Seville, Spain
 martyr: true
+prayers: []
 ---
 
 Son of the Spanish Visigoth Arian king Levigild, and raised in Arianism. In 579 he married the Catholic princess Indgund, who, with Saint Leander, bishop of Seville, Spain, converted him back to orthodox Christianity. Immediately disinherited by his father.

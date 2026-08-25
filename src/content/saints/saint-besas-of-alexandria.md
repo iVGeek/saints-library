@@ -1,14 +1,17 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Besas of Alexandria"
+name: Saint Besas of Alexandria
 honorific: Saint
-summary: "Soldier. He was on duty when Saint Julian of Alexandria and Saint Cronion Eunus were being led to their deaths. When Besas tried to shield the two from spectator abuse, he was seized by the mob, and killed in the street. His story was recorded by Saint Dionysius of Alexandria."
+summary: >-
+  Soldier. He was on duty when Saint Julian of Alexandria and Saint Cronion Eunus were being led to their deaths. When
+  Besas tried to shield the two from spectator abuse, he was seized by the mob, and killed in the street. His story was
+  recorded by Saint Dionysius of Alexandria.
 searchAliases:
-  - "Bessa of Alexandria"
+  - Bessa of Alexandria
 deathYear: 250
-died: "killed by a mob in 250 at Alexandria, Egypt"
-deathPlace: "Egypt"
-region: "Egypt"
+died: killed by a mob in 250 at Alexandria, Egypt
+deathPlace: Egypt
+region: Egypt
 feastDay:
   month: 2
   day: 27
@@ -18,6 +21,7 @@ vocation:
   - Monk
   - Soldier
 martyr: false
+prayers: []
 ---
 
 Soldier. He was on duty when Saint Julian of Alexandria and Saint Cronion Eunus were being led to their deaths. When Besas tried to shield the two from spectator abuse, he was seized by the mob, and killed in the street. His story was recorded by Saint Dionysius of Alexandria.

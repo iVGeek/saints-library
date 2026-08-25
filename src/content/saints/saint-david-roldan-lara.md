@@ -1,24 +1,29 @@
 ---
-name: "Saint David Roldán-Lara"
+name: Saint David Roldán-Lara
 honorific: Venerable
-summary: "His father died when David was only a year old. Entered the seminary at Durango when very young, but had to leave to help support his family by working as a miner; never returned to seminary, and remained a layman. Worked with Saint Luis Batiz in his local parish. Joined Catholic"
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-David-Roldan-Lara.jpg"
+summary: >-
+  His father died when David was only a year old. Entered the seminary at Durango when very young, but had to leave to
+  help support his family by working as a miner; never returned to seminary, and remained a layman. Worked with Saint
+  Luis Batiz in his local parish. Joined Catholic
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-David-Roldan-Lara.jpg
 birthYear: 1907
 deathYear: 1926
-born: "2 March 1907 at Chalchihuites, Zacatecas, Mexico"
-died: "shot on 15 August 1926 at Chalchihuites, Zacatecas, Mexico"
-birthPlace: "Zacatecas, Mexico"
-deathPlace: "Zacatecas, Mexico"
-region: "France"
+born: 2 March 1907 at Chalchihuites, Zacatecas, Mexico
+died: shot on 15 August 1926 at Chalchihuites, Zacatecas, Mexico
+birthPlace: Zacatecas, Mexico
+deathPlace: Zacatecas, Mexico
+region: France
 feastDay:
   month: 8
   day: 15
-centuries: [20]
+centuries:
+  - 20
 canonizationStatus: Venerable
 vocation:
   - Priest
   - Soldier
 martyr: true
+prayers: []
 ---
 
 His father died when David was only a year old. Entered the seminary at Durango when very young, but had to leave to help support his family by working as a miner; never returned to seminary, and remained a layman. Worked with Saint Luis Batiz in his local parish. Joined Catholic Action (ACJM), and served as its president in 1925. Worked against the government's anti-religion laws. Vice-president of the National League for the Defense of Religious Liberty (LNDLR).

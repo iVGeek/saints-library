@@ -20,6 +20,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Tristan_da_Cunha.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Almut of Wetter
 imageCreditUrl: https://en.wikipedia.org/wiki/Tristan%20da%20Cunha
+prayers: []
 ---
 
 Born to the royal family. With her sister Digmund, she founded the convent of Wetter in Oberlahngau, Germany, and served as its first abbess.

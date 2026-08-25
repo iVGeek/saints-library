@@ -21,6 +21,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/e/e5/1750_Tiepolo_Die_Heiligen_der_Familie_Crotta_anagoria.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Asteria of Bergamo
 imageCreditUrl: https://en.wikipedia.org/wiki/Grata%20of%20Bergamo
+prayers: []
 ---
 
 Sister of Saint Grata of Bergamo. Worked to provide Christian burial for martyrs. Executed by Diocletian for doing it. Martyr.

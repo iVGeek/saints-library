@@ -1,23 +1,27 @@
 ---
-name: "Blessed Camille Costa de Beauregard"
+name: Blessed Camille Costa de Beauregard
 honorific: Blessed
-summary: "Raised in a Christian family, Camille lost his faith as a young man, but came back enthusiastically when he had a conversion experience at age 22. He studied at the French seminary in Rome, Italy, and was ordained a priest of the diocese of Chambéry, Savoie, France on 26 May 1866"
-image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Camille-Costa-de-Beauregard.jpg"
+summary: >-
+  Raised in a Christian family, Camille lost his faith as a young man, but came back enthusiastically when he had a
+  conversion experience at age 22. He studied at the French seminary in Rome, Italy, and was ordained a priest of the
+  diocese of Chambéry, Savoie, France on 26 May 1866
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Camille-Costa-de-Beauregard.jpg
 birthYear: 1841
 deathYear: 1910
-born: "17 February 1841 in Chambéry, Savoie, France"
-died: "25 March 1910 in Chambéry, Savoie, France"
-birthPlace: "Savoie, France"
-deathPlace: "Savoie, France"
-region: "France"
+born: 17 February 1841 in Chambéry, Savoie, France
+died: 25 March 1910 in Chambéry, Savoie, France
+birthPlace: Savoie, France
+deathPlace: Savoie, France
+region: France
 feastDay:
   month: 3
   day: 25
 canonizationStatus: Blessed
 vocation:
   - Priest
-religiousOrder: "Salesian"
+religiousOrder: Salesian
 martyr: false
+prayers: []
 ---
 
 Raised in a Christian family, Camille lost his faith as a young man, but came back enthusiastically when he had a conversion experience at age 22. He studied at the French seminary in Rome, Italy, and was ordained a priest of the diocese of Chambéry, Savoie, France on 26 May 1866.

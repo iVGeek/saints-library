@@ -24,6 +24,7 @@ vocation:
   - Hermit
   - Soldier
 martyr: false
+prayers: []
 ---
 
 Career soldier and equestrian guard of Emperor Theodosius the Younger, he was known to preach to his fellow guards. He eventually left the service to become a hermit on Mount Oxia near Constantinople. Accused and cleared of Eutychianistic heresy. Archimandrite in Bithynia. Active in the Council of Chalcedon. Hermit on Mount Sinope (Skopas) near Chalcedon. Many were attracted to his austerity, holiness, counsel, and teaching; a community of nuns formed at Trichinarion near his mountain.

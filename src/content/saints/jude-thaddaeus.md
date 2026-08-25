@@ -74,6 +74,206 @@ prayers:
       universally as the patron of hopeless cases, of things despaired of. Pray for me, who am so miserable; make use of
       that great privilege of yours to bring visible and speedy help where help is almost despaired of. Show me that the
       merciful God has heard my prayer; let me never cease to praise Him for your wonderful help. Amen.
+  - name: Novena to Saint Jude Thaddaeus
+    kind: >-
+      Novena — begins October 19, nine days before the feast of Saint Jude Thaddaeus (October 28). Source:
+      https://covenantcatholic.org/novenas/st-jude-novena/
+    text: >-
+      Most holy Apostle, St. Jude, faithful servant and friend of Jesus, the Church honors and invokes you universally,
+      as the patron of difficult cases, of things almost despaired of. Pray for me, I am so helpless and alone.
+
+
+      Intercede with God for me that He bring visible and speedy help where help is almost despaired of. Come to my
+      assistance in this great need that I may receive the consolation and help of heaven in all my necessities,
+      tribulations, and sufferings, particularly:
+
+
+      (Make your request here)
+
+
+      and that I may praise God with you and all the saints forever. I promise, O Blessed St. Jude, to be ever mindful
+      of this great favor granted me by God and to always honor you as my special and powerful patron, and to gratefully
+      encourage devotion to you. Amen.
+
+
+      ---
+
+
+      Most holy Apostle, St. Jude, faithful servant and friend of Jesus, the Church honors and invokes you universally,
+      as the patron of difficult cases, of things almost despaired of. Pray for me, I am so helpless and alone.
+
+
+      Intercede with God for me that He bring visible and speedy help where help is almost despaired of. Come to my
+      assistance in this great need that I may receive the consolation and help of heaven in all my necessities,
+      tribulations, and sufferings, particularly:
+
+
+      (Make your request here)
+
+
+      and that I may praise God with you and all the saints forever. I promise, O Blessed St. Jude, to be ever mindful
+      of this great favor granted me by God and to always honor you as my special and powerful patron, and to gratefully
+      encourage devotion to you. Amen.
+
+
+      ---
+
+
+      Most holy Apostle, St. Jude, faithful servant and friend of Jesus, the Church honors and invokes you universally,
+      as the patron of difficult cases, of things almost despaired of. Pray for me, I am so helpless and alone.
+
+
+      Intercede with God for me that He bring visible and speedy help where help is almost despaired of. Come to my
+      assistance in this great need that I may receive the consolation and help of heaven in all my necessities,
+      tribulations, and sufferings, particularly:
+
+
+      (Make your request here)
+
+
+      and that I may praise God with you and all the saints forever. I promise, O Blessed St. Jude, to be ever mindful
+      of this great favor granted me by God and to always honor you as my special and powerful patron, and to gratefully
+      encourage devotion to you. Amen.
+
+
+      ---
+
+
+      Most holy Apostle, St. Jude, faithful servant and friend of Jesus, the Church honors and invokes you universally,
+      as the patron of difficult cases, of things almost despaired of. Pray for me, I am so helpless and alone.
+
+
+      Intercede with God for me that He bring visible and speedy help where help is almost despaired of. Come to my
+      assistance in this great need that I may receive the consolation and help of heaven in all my necessities,
+      tribulations, and sufferings, particularly:
+
+
+      (Make your request here)
+
+
+      and that I may praise God with you and all the saints forever. I promise, O Blessed St. Jude, to be ever mindful
+      of this great favor granted me by God and to always honor you as my special and powerful patron, and to gratefully
+      encourage devotion to you. Amen.
+
+
+      ---
+
+
+      Most holy Apostle, St. Jude, faithful servant and friend of Jesus, the Church honors and invokes you universally,
+      as the patron of difficult cases, of things almost despaired of. Pray for me, I am so helpless and alone.
+
+
+      Intercede with God for me that He bring visible and speedy help where help is almost despaired of. Come to my
+      assistance in this great need that I may receive the consolation and help of heaven in all my necessities,
+      tribulations, and sufferings, particularly:
+
+
+      (Make your request here)
+
+
+      and that I may praise God with you and all the saints forever. I promise, O Blessed St. Jude, to be ever mindful
+      of this great favor granted me by God and to always honor you as my special and powerful patron, and to gratefully
+      encourage devotion to you. Amen.
+
+
+      ---
+
+
+      Most holy Apostle, St. Jude, faithful servant and friend of Jesus, the Church honors and invokes you universally,
+      as the patron of difficult cases, of things almost despaired of. Pray for me, I am so helpless and alone.
+
+
+      Intercede with God for me that He bring visible and speedy help where help is almost despaired of. Come to my
+      assistance in this great need that I may receive the consolation and help of heaven in all my necessities,
+      tribulations, and sufferings, particularly:
+
+
+      (Make your request here)
+
+
+      and that I may praise God with you and all the saints forever. I promise, O Blessed St. Jude, to be ever mindful
+      of this great favor granted me by God and to always honor you as my special and powerful patron, and to gratefully
+      encourage devotion to you. Amen.
+
+
+      ---
+
+
+      Most holy Apostle, St. Jude, faithful servant and friend of Jesus, the Church honors and invokes you universally,
+      as the patron of difficult cases, of things almost despaired of. Pray for me, I am so helpless and alone.
+
+
+      Intercede with God for me that He bring visible and speedy help where help is almost despaired of. Come to my
+      assistance in this great need that I may receive the consolation and help of heaven in all my necessities,
+      tribulations, and sufferings, particularly:
+
+
+      (Make your request here)
+
+
+      and that I may praise God with you and all the saints forever. I promise, O Blessed St. Jude, to be ever mindful
+      of this great favor granted me by God and to always honor you as my special and powerful patron, and to gratefully
+      encourage devotion to you. Amen.
+
+
+      ---
+
+
+      Most holy Apostle, St. Jude, faithful servant and friend of Jesus, the Church honors and invokes you universally,
+      as the patron of difficult cases, of things almost despaired of. Pray for me, I am so helpless and alone.
+
+
+      Intercede with God for me that He bring visible and speedy help where help is almost despaired of. Come to my
+      assistance in this great need that I may receive the consolation and help of heaven in all my necessities,
+      tribulations, and sufferings, particularly:
+
+
+      (Make your request here)
+
+
+      and that I may praise God with you and all the saints forever. I promise, O Blessed St. Jude, to be ever mindful
+      of this great favor granted me by God and to always honor you as my special and powerful patron, and to gratefully
+      encourage devotion to you. Amen.
+
+
+      ---
+
+
+      Most holy Apostle, St. Jude, faithful servant and friend of Jesus, the Church honors and invokes you universally,
+      as the patron of difficult cases, of things almost despaired of. Pray for me, I am so helpless and alone.
+
+
+      Intercede with God for me that He bring visible and speedy help where help is almost despaired of. Come to my
+      assistance in this great need that I may receive the consolation and help of heaven in all my necessities,
+      tribulations, and sufferings, particularly:
+
+
+      (Make your request here)
+
+
+      and that I may praise God with you and all the saints forever. I promise, O Blessed St. Jude, to be ever mindful
+      of this great favor granted me by God and to always honor you as my special and powerful patron, and to gratefully
+      encourage devotion to you. Amen.
+
+
+      ---
+
+
+      May the Most Sacred Heart of Jesus be adored and loved in all the tabernacles until the end of time. Amen.
+
+
+      May the Most Sacred Heart of Jesus be praised and glorified now and forever. Amen.
+
+
+      St. Jude, pray for us and hear our prayers. Amen.
+
+
+      Blessed be the Sacred Heart of Jesus. Blessed be the Immaculate Heart of Mary. Blessed be St. Jude Thaddeus, in
+      all the world and for all Eternity.
+
+
+      (Now pray the Our Father and Hail Mary.)
+    source: https://covenantcatholic.org/novenas/st-jude-novena/
 relatedSaints:
   - name: Simon the Zealot
     slug: simon-the-zealot

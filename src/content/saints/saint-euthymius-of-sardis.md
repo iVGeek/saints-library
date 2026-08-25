@@ -22,6 +22,7 @@ vocation:
   - Priest
   - Monk
 martyr: true
+prayers: []
 ---
 
 Studied in Alexandria, Egypt. Monk. Priest. Bishop of Sardis, Lydia (in modern Turkey) in 787. He fought iconoclasm, and condemned it at the Seventh Ecumenical Council in Nicea. For this opposition, and other conflicts with Emperor Nicephorus, Euthymmius was exiled three times. Over the next 29 years he was occasionally recalled and offered a chance to return if he would accept the iconoclast heresy; he always declined. Martyred in the iconoclast persecutions of Emperor Theophilus.

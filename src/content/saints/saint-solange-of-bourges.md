@@ -35,6 +35,7 @@ patronage:
   - Bourges, France, archdiocese of
   - Bourges, France, city of
 martyr: true
+prayers: []
 ---
 
 Born to a family of poor vine dressers. Young virgin shepherdess who took a personal vow of chastity, devoting herself to God alone. When she said her prayers in the field, a star shone over her head. Reported to have the gift of healing, especially of animals. She was murdered by her landlord, Bernard, son of the Count of Poitiers, for resisting his sexual advances. Considered a martyr as she died insisting on her fidelity to Christ. Some of the early versions of her story include her carrying her severed head into a nearby village, and the head preaching to the people.

@@ -1,13 +1,16 @@
 ---
-name: "Saint Ananias of Damascus"
+name: Saint Ananias of Damascus
 honorific: Saint
-summary: "A Christian in Damascus, Syria, Ananias received a vision of Jesus in which he was ordered to find Saul (aka Paul the Apostle). Ananias found Saul, blind and staggering into the city after his encounter with Christ on the road. He cured Saul of the blindness, baptized him into th"
-image: "https://upload.wikimedia.org/wikipedia/commons/8/8c/Saint_Paul_Ananias_Sight_Restored.jpg"
+summary: >-
+  A Christian in Damascus, Syria, Ananias received a vision of Jesus in which he was ordered to find Saul (aka Paul the
+  Apostle). Ananias found Saul, blind and staggering into the city after his encounter with Christ on the road. He cured
+  Saul of the blindness, baptized him into th
+image: https://upload.wikimedia.org/wikipedia/commons/8/8c/Saint_Paul_Ananias_Sight_Restored.jpg
 searchAliases:
-  - "Anania"
-died: "1st century in Eleutheropolis, a now-ruined village in Palestine"
-deathPlace: "a now-ruined villagePalestine"
-region: "Syria"
+  - Anania
+died: 1st century in Eleutheropolis, a now-ruined village in Palestine
+deathPlace: a now-ruined villagePalestine
+region: Syria
 feastDay:
   month: 1
   day: 25
@@ -17,6 +20,7 @@ vocation:
   - Monk
   - Missionary
 martyr: true
+prayers: []
 ---
 
 A Christian in Damascus, Syria, Ananias received a vision of Jesus in which he was ordered to find Saul (aka Paul the Apostle). Ananias found Saul, blind and staggering into the city after his encounter with Christ on the road. He cured Saul of the blindness, baptized him into the faith, supported him while he prepared, and helped him begin his missionary work. Ananias evangelized in Damascus, then went on his own mission to Eleutheropolis. Martyr.

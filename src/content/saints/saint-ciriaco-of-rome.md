@@ -16,6 +16,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/3/37/Calendar_of_saints.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Ciriaco of Rome
 imageCreditUrl: https://en.wikipedia.org/wiki/Calendar%20of%20saints
+prayers: []
 ---
 
 Martyr.

@@ -1,10 +1,10 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Félix of Cîteaux"
+name: Blessed Félix of Cîteaux
 honorific: Blessed
-summary: "No information has survived."
+summary: No information has survived.
 deathYear: 1113
-died: "1113 of natural causes"
+died: 1113 of natural causes
 feastDay:
   month: 6
   day: 23
@@ -12,6 +12,7 @@ canonizationStatus: Blessed
 vocation:
   - Monk
 martyr: false
+prayers: []
 ---
 
 No information has survived.

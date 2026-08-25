@@ -1,13 +1,15 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Herundo of Rome"
+name: Saint Herundo of Rome
 honorific: Saint
-summary: "Hermitess near the church of Saint Mary Major in Rome, Italy with Saint Romula and Saint Redempta. Saint Gregory the Great thought highly of them."
+summary: >-
+  Hermitess near the church of Saint Mary Major in Rome, Italy with Saint Romula and Saint Redempta. Saint Gregory the
+  Great thought highly of them.
 deathYear: 580
-born: "at Rome, Italy"
-died: "c.580 of natural causes"
-birthPlace: "Italy"
-region: "Italy"
+born: at Rome, Italy
+died: c.580 of natural causes
+birthPlace: Italy
+region: Italy
 feastDay:
   month: 7
   day: 23
@@ -16,6 +18,7 @@ vocation:
   - Monk
   - Hermit
 martyr: false
+prayers: []
 ---
 
 Hermitess near the church of Saint Mary Major in Rome, Italy with Saint Romula and Saint Redempta. Saint Gregory the Great thought highly of them.

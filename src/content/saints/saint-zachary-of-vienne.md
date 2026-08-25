@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Zachary of Vienne"
+name: Saint Zachary of Vienne
 honorific: Saint
-summary: "Second bishop of Vienne, France. Martyred in the persecutions of Trajan."
+summary: Second bishop of Vienne, France. Martyred in the persecutions of Trajan.
 deathYear: 106
-died: "c.106"
-region: "France"
+died: c.106
+region: France
 feastDay:
   month: 5
   day: 26
@@ -14,6 +14,7 @@ vocation:
   - Bishop
   - Monk
 martyr: true
+prayers: []
 ---
 
 Second bishop of Vienne, France. Martyred in the persecutions of Trajan.

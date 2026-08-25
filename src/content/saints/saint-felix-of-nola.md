@@ -1,19 +1,19 @@
 ---
-name: "Saint Felix of Nola"
+name: Saint Felix of Nola
 honorific: Saint
-summary: " When Maximus f Elder son of Hermias, a Syrian soldier who had retired to Nola, Italy. After his father's death, Felix sold off most of his property and possessions, gave the proceeds to the poor, and pursued a clerical vocation. Ordained by, and worked with Saint Maximus of Nola."
-image: "https://upload.wikimedia.org/wikipedia/commons/c/cb/Felix_of_Nola-1.jpg"
+summary: ' When Maximus f Elder son of Hermias, a Syrian soldier who had retired to Nola, Italy. After his father''s death, Felix sold off most of his property and possessions, gave the proceeds to the poor, and pursued a clerical vocation. Ordained by, and worked with Saint Maximus of Nola.'
+image: https://upload.wikimedia.org/wikipedia/commons/c/cb/Felix_of_Nola-1.jpg
 searchAliases:
-  - "Felix in Pincis"
-  - "Felix the Martyr"
-  - "Felix of Inpincis"
-  - "Felice…."
-  - "Flin…."
+  - Felix in Pincis
+  - Felix the Martyr
+  - Felix of Inpincis
+  - Felice….
+  - Flin….
 deathYear: 255
-born: "3rd century at Nola, near Naples, Italy"
-died: "c.255 of natural causes"
-birthPlace: "near Naples, Italy"
-region: "Italy"
+born: 3rd century at Nola, near Naples, Italy
+died: c.255 of natural causes
+birthPlace: near Naples, Italy
+region: Italy
 feastDay:
   month: 1
   day: 14
@@ -24,15 +24,16 @@ vocation:
   - Deacon
   - Confessor
 patronage:
-  - "against eye disease"
-  - "against eye trouble"
-  - "against false witness"
-  - "against lies"
-  - "against perjury"
-  - "domestic animals"
-  - "eyes"
-  - "Nola, Italy"
+  - against eye disease
+  - against eye trouble
+  - against false witness
+  - against lies
+  - against perjury
+  - domestic animals
+  - eyes
+  - Nola, Italy
 martyr: true
+prayers: []
 ---
 
 Elder son of Hermias, a Syrian soldier who had retired to Nola, Italy. After his father's death, Felix sold off most of his property and possessions, gave the proceeds to the poor, and pursued a clerical vocation. Ordained by, and worked with Saint Maximus of Nola.

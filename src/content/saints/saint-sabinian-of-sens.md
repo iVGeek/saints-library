@@ -1,14 +1,16 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Sabinian of Sens"
+name: Saint Sabinian of Sens
 honorific: Saint
-summary: "First bishop of Sens, France. Martyr. Some legends list him as a disciple of Saint Peter, but because of the dates, this is clearly impossible."
+summary: >-
+  First bishop of Sens, France. Martyr. Some legends list him as a disciple of Saint Peter, but because of the dates,
+  this is clearly impossible.
 searchAliases:
-  - "Sabinianus"
-  - "Savinien"
+  - Sabinianus
+  - Savinien
 deathYear: 300
-died: "c.300"
-region: "France"
+died: c.300
+region: France
 feastDay:
   month: 12
   day: 31
@@ -17,8 +19,9 @@ vocation:
   - Bishop
   - Monk
 patronage:
-  - "Sens, France, diocese of"
+  - Sens, France, diocese of
 martyr: true
+prayers: []
 ---
 
 First bishop of Sens, France. Martyr. Some legends list him as a disciple of Saint Peter, but because of the dates, this is clearly impossible.

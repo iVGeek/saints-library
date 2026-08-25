@@ -1,25 +1,28 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Barbara Yi Chong-hui"
+name: Saint Barbara Yi Chong-hui
 honorific: Venerable
-summary: "Married lay woman in the apostolic vicariate of Korea. Martyr."
+summary: Married lay woman in the apostolic vicariate of Korea. Martyr.
 searchAliases:
-  - "Bareubara Yi Jeong-heui"
+  - Bareubara Yi Jeong-heui
 birthYear: 1799
 deathYear: 1839
-born: "1799 in Pongcheon, Seoul, South Korea"
-died: "beheaded on 3 September 1839 at the Small West Gate, Seoul, South Korea"
-birthPlace: "Seoul, South Korea"
-deathPlace: "Seoul, South Korea"
-region: "Korea"
+born: 1799 in Pongcheon, Seoul, South Korea
+died: beheaded on 3 September 1839 at the Small West Gate, Seoul, South Korea
+birthPlace: Seoul, South Korea
+deathPlace: Seoul, South Korea
+region: Korea
 feastDay:
   month: 9
   day: 3
-centuries: [18, 19]
+centuries:
+  - 18
+  - 19
 canonizationStatus: Venerable
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Married lay woman in the apostolic vicariate of Korea. Martyr.

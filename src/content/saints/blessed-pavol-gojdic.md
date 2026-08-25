@@ -1,18 +1,23 @@
 ---
-name: "Blessed Pavol Gojdic"
+name: Blessed Pavol Gojdic
 honorific: Blessed
-summary: "Son of the Greek-Catholic priest Štefan Gojdic and Anna Gerberyov&aacute;. Attended elementary school at Cigelka, Bardejov and Prešov, finishing in 1907. Studied theology at Prešov, Slovak Republic and then Budapest where he consecrated himself and his work to the Sacred Heart. F"
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Pavol-Gojdic1.jpg"
+summary: >-
+  Son of the Greek-Catholic priest Štefan Gojdic and Anna Gerberyov&aacute;. Attended elementary school at Cigelka,
+  Bardejov and Prešov, finishing in 1907. Studied theology at Prešov, Slovak Republic and then Budapest where he
+  consecrated himself and his work to the Sacred Heart. F
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Pavol-Gojdic1.jpg
 searchAliases:
-  - "Pavel Peter Gojdic"
-  - "Peter Gojdic"
+  - Pavel Peter Gojdic
+  - Peter Gojdic
 birthYear: 1888
 deathYear: 1960
-born: "17 July 1888 at Ruské Peklany, Prešov, Slovak Republic as Peter Gojdic"
-died: "17 July 1960 in the prison hospital at Leopoldov, Hlohovec, Slovak Republic of illness and maltreatment received in prison"
-birthPlace: "Prešov, Slovak Republic as Peter Gojdic"
-deathPlace: "Hlohovec, Slovak Republicillness and maltreatment received in prison"
-region: "Czech Republic"
+born: 17 July 1888 at Ruské Peklany, Prešov, Slovak Republic as Peter Gojdic
+died: >-
+  17 July 1960 in the prison hospital at Leopoldov, Hlohovec, Slovak Republic of illness and maltreatment received in
+  prison
+birthPlace: Prešov, Slovak Republic as Peter Gojdic
+deathPlace: Hlohovec, Slovak Republicillness and maltreatment received in prison
+region: Czech Republic
 feastDay:
   month: 7
   day: 17
@@ -21,6 +26,7 @@ vocation:
   - Bishop
   - Priest
 martyr: false
+prayers: []
 ---
 
 Son of the Greek-Catholic priest Štefan Gojdic and Anna Gerberyov&aacute;. Attended elementary school at Cigelka, Bardejov and Prešov, finishing in 1907. Studied theology at Prešov, Slovak Republic and then Budapest where he consecrated himself and his work to the Sacred Heart. Finishing his studies on 27 August 1911, he was ordained soon after. Worked briefly as assistant parish priest with his father. Prefect of the eparchial seminary, and taught religion in a higher secondary school. Supervised protocol and the archives in the diocesan curia. Assistant parish priest in Sabinov. Director of the episcopal office in 1919.

@@ -1,15 +1,15 @@
 ---
-name: "Saint Vitalis of Noirmoutier"
+name: Saint Vitalis of Noirmoutier
 honorific: Saint
-summary: "Monk on Noirmoutier-en-l'Île, France. Hermit on Mont Scobrit near the Loire River."
-image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Vitalis-of-Noirmoutier.jpg"
+summary: Monk on Noirmoutier-en-l'Île, France. Hermit on Mont Scobrit near the Loire River.
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Vitalis-of-Noirmoutier.jpg
 searchAliases:
-  - "Vial"
-  - "Vitale"
+  - Vial
+  - Vitale
 deathYear: 740
-born: "in England"
-died: "c.740"
-region: "France"
+born: in England
+died: c.740
+region: France
 feastDay:
   month: 10
   day: 16
@@ -18,6 +18,7 @@ vocation:
   - Monk
   - Hermit
 martyr: false
+prayers: []
 ---
 
 Monk on Noirmoutier-en-l'Île, France. Hermit on Mont Scobrit near the Loire River.

@@ -18,6 +18,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/5/59/Roman_Empire_-_Macedonia_%28125_AD%29.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Claudianus of Mytilene
 imageCreditUrl: https://en.wikipedia.org/wiki/Macedonia%20(Roman%20province)
+prayers: []
 ---
 
 Martyred with several fellow Christians in the persecutions of Diocletian.

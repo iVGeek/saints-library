@@ -1,13 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Athernaise of Fife"
+name: Saint Athernaise of Fife
 honorific: Saint
-summary: "Confessor of the faith in Fife, Scotland."
+summary: Confessor of the faith in Fife, Scotland.
 searchAliases:
-  - "Athernaise the Silent"
-  - "Ethernascus"
-  - "Ithernaisc"
-region: "Scotland"
+  - Athernaise the Silent
+  - Ethernascus
+  - Ithernaisc
+region: Scotland
 feastDay:
   month: 12
   day: 22
@@ -16,6 +16,7 @@ vocation:
   - Monk
   - Confessor
 martyr: false
+prayers: []
 ---
 
 Confessor of the faith in Fife, Scotland.

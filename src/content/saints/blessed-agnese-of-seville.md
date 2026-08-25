@@ -1,9 +1,9 @@
 ---
-name: "Blessed Agnese of Seville"
+name: Blessed Agnese of Seville
 honorific: Blessed
-summary: "Mercedarian nun at the monastery of the Assumption in Seville, Spain."
-image: "http://catholicsaints.info/wp-content/uploads/img-Mercedarian-Nuns-of-Seville.jpg"
-region: "Spain"
+summary: Mercedarian nun at the monastery of the Assumption in Seville, Spain.
+image: http://catholicsaints.info/wp-content/uploads/img-Mercedarian-Nuns-of-Seville.jpg
+region: Spain
 feastDay:
   month: 10
   day: 7
@@ -12,6 +12,7 @@ vocation:
   - Monk
   - Religious
 martyr: false
+prayers: []
 ---
 
 Mercedarian nun at the monastery of the Assumption in Seville, Spain.

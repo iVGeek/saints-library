@@ -1,15 +1,15 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Mundus"
+name: Saint Mundus
 honorific: Saint
-summary: "Abbot who founded several monasteries in Argyle, Scotland."
+summary: Abbot who founded several monasteries in Argyle, Scotland.
 searchAliases:
-  - "Munde"
-  - "Mund"
-  - "Mond"
+  - Munde
+  - Mund
+  - Mond
 deathYear: 962
-died: "c.962"
-region: "Scotland"
+died: c.962
+region: Scotland
 feastDay:
   month: 4
   day: 15
@@ -18,6 +18,7 @@ vocation:
   - Priest
   - Monk
 martyr: false
+prayers: []
 ---
 
 Abbot who founded several monasteries in Argyle, Scotland.

@@ -1,9 +1,9 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Claudius Marius Victorinus of Saussaye"
+name: Saint Claudius Marius Victorinus of Saussaye
 honorific: Saint
-summary: "Commemorated in La Saussaye, Eure, France, but no details about him have survived."
-region: "France"
+summary: Commemorated in La Saussaye, Eure, France, but no details about him have survived.
+region: France
 feastDay:
   month: 7
   day: 22
@@ -11,6 +11,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: false
+prayers: []
 ---
 
 Commemorated in La Saussaye, Eure, France, but no details about him have survived.

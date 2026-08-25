@@ -26,6 +26,7 @@ vocation:
   - Hermit
 religiousOrder: Dominican
 martyr: true
+prayers: []
 ---
 
 Hermit or monk from the eastern part of the Roman empire. He protested in Rome against gladiatorial combat, and was murdered by its supporters. His efforts moved the Christian emperor Honorius to ban the combats, and Telemachus is considered a martyr, saving many through his sacrificial death.

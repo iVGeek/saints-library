@@ -23,6 +23,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/6/65/Luca_Giordano_Protector_saints_of_Naples.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Candida of Naples
 imageCreditUrl: https://en.wikipedia.org/wiki/Candida%20the%20Elder
+prayers: []
 ---
 
 Lay woman noted throughout her region for her personal holiness. It was the work of her lifetime to convert her heathen husband and son.

@@ -17,6 +17,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/6/65/Luca_Giordano_Protector_saints_of_Naples.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Euphebius of Naples
 imageCreditUrl: https://en.wikipedia.org/wiki/Euphebius
+prayers: []
 ---
 
 4th century bishop of Naples, Italy.

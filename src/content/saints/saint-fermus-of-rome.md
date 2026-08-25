@@ -24,6 +24,7 @@ imageCredit: >-
   href="https://metmuseum.org/about-the-met/policies-and-documents/image-resources">Image and Data Resources Open Access
   Policy</a>
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:Saint%20Dominic%20MET%20DT354152.jpg
+prayers: []
 ---
 
 Martyr.

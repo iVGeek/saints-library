@@ -1,28 +1,33 @@
 ---
-name: "Saint Francis Serrano"
+name: Saint Francis Serrano
 honorific: Venerable
-summary: "Dominican priest. Missionary to Fujian, China; worked with Saint John Alcober. Imprisoned with Saint Pere Sans Jorda in 1746 for their work spreading the faith. Chosen titular bishop of Tipasa while in prison. Martyr."
-image: "http://catholicsaints.info/wp-content/uploads/img-Francisco_serrano_de_frias.jpg"
+summary: >-
+  Dominican priest. Missionary to Fujian, China; worked with Saint John Alcober. Imprisoned with Saint Pere Sans Jorda
+  in 1746 for their work spreading the faith. Chosen titular bishop of Tipasa while in prison. Martyr.
+image: http://catholicsaints.info/wp-content/uploads/img-Francisco_serrano_de_frias.jpg
 searchAliases:
-  - "Francisco Serrano-Frías"
+  - Francisco Serrano-Frías
 birthYear: 1695
 deathYear: 1748
-born: "4 December 1695 in Huéneja, Granada, Spain"
-died: "strangled to death on 25 October 1748 in Fuzhou, Fujian, China"
-birthPlace: "Granada, Spain"
-deathPlace: "Fujian, China"
-region: "China"
+born: 4 December 1695 in Huéneja, Granada, Spain
+died: strangled to death on 25 October 1748 in Fuzhou, Fujian, China
+birthPlace: Granada, Spain
+deathPlace: Fujian, China
+region: China
 feastDay:
   month: 10
   day: 28
-centuries: [17, 18]
+centuries:
+  - 17
+  - 18
 canonizationStatus: Venerable
 vocation:
   - Bishop
   - Priest
   - Missionary
-religiousOrder: "Dominican"
+religiousOrder: Dominican
 martyr: true
+prayers: []
 ---
 
 Dominican priest. Missionary to Fujian, China; worked with Saint John Alcober. Imprisoned with Saint Pere Sans Jorda in 1746 for their work spreading the faith. Chosen titular bishop of Tipasa while in prison. Martyr.

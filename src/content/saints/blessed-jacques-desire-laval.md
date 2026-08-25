@@ -1,18 +1,21 @@
 ---
-name: "Blessed Jacques Désiré Laval"
+name: Blessed Jacques Désiré Laval
 honorific: Blessed
-summary: "Son of a prosperous farmer, Jacques grew up in a pious household with examples set by his mother and an uncle who was a priest. Jacques' mother died when the boy was seven years old. Intially torn between the priesthood and medicine, Jacques was educated at local schools, Evraux,"
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Jacques-Désiré-Laval.jpg"
+summary: >-
+  Son of a prosperous farmer, Jacques grew up in a pious household with examples set by his mother and an uncle who was
+  a priest. Jacques' mother died when the boy was seven years old. Intially torn between the priesthood and medicine,
+  Jacques was educated at local schools, Evraux,
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Jacques-Désiré-Laval.jpg
 searchAliases:
-  - "Apostle of Mauritius"
-  - "Jacob Désiré Laval"
+  - Apostle of Mauritius
+  - Jacob Désiré Laval
 birthYear: 1803
 deathYear: 1864
-born: "18 September 1803 in Croth, Normandy, France"
-died: "9 September 1864 in Port Louis, Mauritius of natural causes"
-birthPlace: "Normandy, France"
-deathPlace: "Mauritiusnatural causes"
-region: "France"
+born: 18 September 1803 in Croth, Normandy, France
+died: 9 September 1864 in Port Louis, Mauritius of natural causes
+birthPlace: Normandy, France
+deathPlace: Mauritiusnatural causes
+region: France
 feastDay:
   month: 9
   day: 9
@@ -21,6 +24,7 @@ vocation:
   - Priest
   - Missionary
 martyr: false
+prayers: []
 ---
 
 Son of a prosperous farmer, Jacques grew up in a pious household with examples set by his mother and an uncle who was a priest. Jacques' mother died when the boy was seven years old. Intially torn between the priesthood and medicine, Jacques was educated at local schools, Evraux, and Stanlislaus College in Paris, France, and received his medical degree in 1830. Jacques established his medical practice in Saint Andr&eacute; and Saint Ivry-la-Bataille in his native Normandy, France and became more worldly, ignoring spiritual things.

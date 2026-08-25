@@ -1,28 +1,32 @@
 ---
-name: "Blessed Thomas Bellacci"
+name: Blessed Thomas Bellacci
 honorific: Blessed
-summary: "Son of a butcher, he led such a wild and dissolute life that parents warned their sons to stay away from him. Accused of a serious crime he had not committed, Thomas wandered the streets until he met a priest who listened to his story, took the lad in, and got him cleared of the"
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Thomas-Bellacci.jpg"
+summary: >-
+  Son of a butcher, he led such a wild and dissolute life that parents warned their sons to stay away from him. Accused
+  of a serious crime he had not committed, Thomas wandered the streets until he met a priest who listened to his story,
+  took the lad in, and got him cleared of the
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Thomas-Bellacci.jpg
 searchAliases:
-  - "Thomas of Florence"
-  - "Tommaso Bellacci"
+  - Thomas of Florence
+  - Tommaso Bellacci
 birthYear: 1370
 deathYear: 1447
-born: "1370 at Florence, Italy"
-died: "31 October 1447 in Rieti, Italy of natural causes"
-birthPlace: "Italy"
-deathPlace: "Italynatural causes"
-region: "Italy"
+born: 1370 at Florence, Italy
+died: 31 October 1447 in Rieti, Italy of natural causes
+birthPlace: Italy
+deathPlace: Italynatural causes
+region: Italy
 feastDay:
   month: 10
   day: 31
 canonizationStatus: Blessed
 vocation:
   - Priest
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 patronage:
-  - "butchers"
+  - butchers
 martyr: true
+prayers: []
 ---
 
 Son of a butcher, he led such a wild and dissolute life that parents warned their sons to stay away from him. Accused of a serious crime he had not committed, Thomas wandered the streets until he met a priest who listened to his story, took the lad in, and got him cleared of the accusation.

@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Muirchu"
+name: Saint Muirchu
 honorific: Saint
-summary: "Son of Cogitosus. Writer whose works include biographies of Saint Brigid of Ireland and Saint Patrick."
+summary: Son of Cogitosus. Writer whose works include biographies of Saint Brigid of Ireland and Saint Patrick.
 searchAliases:
-  - "Maccutinus"
-region: "Ireland"
+  - Maccutinus
+region: Ireland
 feastDay:
   month: 6
   day: 8
@@ -13,6 +13,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: false
+prayers: []
 ---
 
 Son of Cogitosus. Writer whose works include biographies of Saint Brigid of Ireland and Saint Patrick.

@@ -1,16 +1,18 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Ilud Ferch Brychan"
+name: Saint Ilud Ferch Brychan
 honorific: Saint
-summary: "Born a princess, the daughter of Saint Brychan of Brycheiniog. A parish church in Luxulyan, Cornwall, England is dedicated to her."
+summary: >-
+  Born a princess, the daughter of Saint Brychan of Brycheiniog. A parish church in Luxulyan, Cornwall, England is
+  dedicated to her.
 searchAliases:
-  - "Hudd"
-  - "Juliot"
-  - "Juliana"
-  - "Llud"
+  - Hudd
+  - Juliot
+  - Juliana
+  - Llud
 birthYear: 464
-born: "464"
-region: "England"
+born: '464'
+region: England
 feastDay:
   month: 6
   day: 29
@@ -18,6 +20,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: false
+prayers: []
 ---
 
 Born a princess, the daughter of Saint Brychan of Brycheiniog. A parish church in Luxulyan, Cornwall, England is dedicated to her.

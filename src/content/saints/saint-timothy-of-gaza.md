@@ -1,11 +1,13 @@
 ---
-name: "Saint Timothy of Gaza"
+name: Saint Timothy of Gaza
 honorific: Saint
-summary: "Bishop of Gaza, Palestine. Scourged, tortured and martyred by order of Urban, governor of Palestine, during the persecutions of Diocletian."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Timothy-of-Gaza.jpg"
+summary: >-
+  Bishop of Gaza, Palestine. Scourged, tortured and martyred by order of Urban, governor of Palestine, during the
+  persecutions of Diocletian.
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Timothy-of-Gaza.jpg
 deathYear: 304
-died: "burned alive in 304"
-region: "Holy Land"
+died: burned alive in 304
+region: Holy Land
 feastDay:
   month: 8
   day: 19
@@ -15,6 +17,7 @@ vocation:
   - Priest
   - Monk
 martyr: true
+prayers: []
 ---
 
 Bishop of Gaza, Palestine. Scourged, tortured and martyred by order of Urban, governor of Palestine, during the persecutions of Diocletian.

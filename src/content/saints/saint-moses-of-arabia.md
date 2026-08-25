@@ -1,10 +1,10 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Moses of Arabia"
+name: Saint Moses of Arabia
 honorific: Saint
-summary: "Arab missionary bishop to the nomadic tribes in the Syro-Arabian desert."
+summary: Arab missionary bishop to the nomadic tribes in the Syro-Arabian desert.
 deathYear: 372
-died: "372"
+died: '372'
 feastDay:
   month: 6
   day: 3
@@ -14,6 +14,7 @@ vocation:
   - Monk
   - Missionary
 martyr: false
+prayers: []
 ---
 
 Arab missionary bishop to the nomadic tribes in the Syro-Arabian desert.

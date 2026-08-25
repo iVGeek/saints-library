@@ -1,15 +1,15 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Pere Vives Coll"
+name: Blessed Pere Vives Coll
 honorific: Blessed
-summary: "Member of the Claretians. Martyred in the Spanish Civil War."
+summary: Member of the Claretians. Martyred in the Spanish Civil War.
 birthYear: 1878
 deathYear: 1936
-born: "23 September 1878 in Pallejá, Barcelona, Spain"
-died: "19 October 1936 in Mas Claret, Sant Pere dels Arquells, Lleida, Spain"
-birthPlace: "Barcelona, Spain"
-deathPlace: "Sant Pere dels Arquells, Lleida, Spain"
-region: "Spain"
+born: 23 September 1878 in Pallejá, Barcelona, Spain
+died: 19 October 1936 in Mas Claret, Sant Pere dels Arquells, Lleida, Spain
+birthPlace: Barcelona, Spain
+deathPlace: Sant Pere dels Arquells, Lleida, Spain
+region: Spain
 feastDay:
   month: 10
   day: 19
@@ -18,6 +18,7 @@ vocation:
   - Bishop
   - Cardinal
 martyr: true
+prayers: []
 ---
 
 Member of the Claretians. Martyred in the Spanish Civil War.

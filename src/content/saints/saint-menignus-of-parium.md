@@ -1,14 +1,16 @@
 ---
-name: "Saint Menignus of Parium"
+name: Saint Menignus of Parium
 honorific: Saint
-summary: "Married layman fuller and cloth dyer. Tortured, his fingers hacked off, and executed in the persecutions of Decius for tearing down an edict suppressing the faith. Martyr."
-image: "http://catholicsaints.info/wp-content/uploads/Menigno-of-Parium.jpg"
+summary: >-
+  Married layman fuller and cloth dyer. Tortured, his fingers hacked off, and executed in the persecutions of Decius for
+  tearing down an edict suppressing the faith. Martyr.
+image: http://catholicsaints.info/wp-content/uploads/Menigno-of-Parium.jpg
 searchAliases:
-  - "Menigno of Pario"
-  - "Menignus the Dyer"
+  - Menigno of Pario
+  - Menignus the Dyer
 deathYear: 250
-died: "beheaded c.250 in the Greek city of Parium in the Hellespont (in modern Turkey)"
-region: "England"
+died: beheaded c.250 in the Greek city of Parium in the Hellespont (in modern Turkey)
+region: England
 feastDay:
   month: 3
   day: 15
@@ -16,6 +18,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Married layman fuller and cloth dyer. Tortured, his fingers hacked off, and executed in the persecutions of Decius for tearing down an edict suppressing the faith. Martyr.

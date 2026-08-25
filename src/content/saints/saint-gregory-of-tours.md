@@ -29,6 +29,7 @@ patronage:
     Auvergne
   - Tours
 martyr: false
+prayers: []
 ---
 
 Born to the Gallic nobility; great-nephew of Saint Eustadius. Friend of Saint Magnericus and Saint Senoch. While on pilgrimage to the shrine of Saint Martin of Tours, his obvious piety led to his being chosen bishop of Tours, France in 573, taking the name Gregory on his ordination. An excellent bishop for 20 years; Pope Saint Gregory the Great thought highly of him. Historian and writer; his works are our best historical source for the Merovingian period.

@@ -1,19 +1,20 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Guy of Casauria"
+name: Blessed Guy of Casauria
 honorific: Blessed
-summary: "Benedictine monk at Farfa. Abbot of Casauria, Italy."
+summary: Benedictine monk at Farfa. Abbot of Casauria, Italy.
 deathYear: 1045
-died: "1045"
-region: "Italy"
+died: '1045'
+region: Italy
 feastDay:
   month: 11
   day: 23
 canonizationStatus: Blessed
 vocation:
   - Monk
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 martyr: false
+prayers: []
 ---
 
 Benedictine monk at Farfa. Abbot of Casauria, Italy.

@@ -17,6 +17,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/b/be/1746_wurde_die_durch_ein_Erdbeben_zerst%C3%B6rte_Kathedrale_im_Barockstil_wieder_aufgebaut._01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Carito of Rome
 imageCreditUrl: https://en.wikipedia.org/wiki/Archdiocese%20of%20Brindisi-Ostuni
+prayers: []
 ---
 
 One of a group of spiritual students of Saint Justin Martyr who died with him and about whom we know nothing else.

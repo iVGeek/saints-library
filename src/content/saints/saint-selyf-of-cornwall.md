@@ -1,16 +1,16 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Selyf of Cornwall"
+name: Saint Selyf of Cornwall
 honorific: Saint
-summary: "Sixth century hermit in Saint Levan, Cornwall, England."
+summary: Sixth century hermit in Saint Levan, Cornwall, England.
 searchAliases:
-  - "Levan"
-  - "Levin"
-  - "Selevan"
-  - "Selyr"
-  - "Silvanus"
-  - "Solomon"
-region: "England"
+  - Levan
+  - Levin
+  - Selevan
+  - Selyr
+  - Silvanus
+  - Solomon
+region: England
 feastDay:
   month: 6
   day: 8
@@ -19,6 +19,7 @@ vocation:
   - Monk
   - Hermit
 martyr: false
+prayers: []
 ---
 
 Sixth century hermit in Saint Levan, Cornwall, England.

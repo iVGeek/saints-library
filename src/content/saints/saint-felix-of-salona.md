@@ -27,6 +27,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/e/e8/Saintduje.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Felix of Salona
 imageCreditUrl: https://en.wikipedia.org/wiki/Saint%20Domnius
+prayers: []
 ---
 
 Bishop martyred in the persecutions of Diocletian.

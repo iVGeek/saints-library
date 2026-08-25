@@ -1,29 +1,33 @@
 ---
-name: "Blessed Julia Rodzinska"
+name: Blessed Julia Rodzinska
 honorific: Blessed
-summary: "Second of five children born to Michael Rodzinska and Marianna (née Sekuly). Michael was the church organist, led the parish choir and worked at a local bank. They were a poor but pious family, and though Marianna's family was wealthy, they refused to help. Marianna died when Sta"
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Stanislawa-Rodzinska.jpg"
+summary: >-
+  Second of five children born to Michael Rodzinska and Marianna (née Sekuly). Michael was the church organist, led the
+  parish choir and worked at a local bank. They were a poor but pious family, and though Marianna's family was wealthy,
+  they refused to help. Marianna died when Sta
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Stanislawa-Rodzinska.jpg
 searchAliases:
-  - "Stanislawa Rodzinska"
-  - "Giulia Rodzinska"
-  - "Mother of Orphans"
-  - "Apostle of the Rosary"
-  - "Sister Maria Julia"
-  - "prisoner P40992"
+  - Stanislawa Rodzinska
+  - Giulia Rodzinska
+  - Mother of Orphans
+  - Apostle of the Rosary
+  - Sister Maria Julia
+  - prisoner P40992
 birthYear: 1899
 deathYear: 1945
-born: "16 March 1899 in Nawojowa, Malopolskie, Poland"
-died: "20 February 1945 in a Nazi prison camp in Sztutowo (a.k.a. Stutthof), Pomorskie, occupied Poland of typhus"
-birthPlace: "Malopolskie, Poland"
-deathPlace: "Pomorskie, occupied Polandtyphus"
-region: "Poland"
+born: 16 March 1899 in Nawojowa, Malopolskie, Poland
+died: 20 February 1945 in a Nazi prison camp in Sztutowo (a.k.a. Stutthof), Pomorskie, occupied Poland of typhus
+birthPlace: Malopolskie, Poland
+deathPlace: Pomorskie, occupied Polandtyphus
+region: Poland
 feastDay:
   month: 2
   day: 20
 canonizationStatus: Blessed
 vocation: []
-religiousOrder: "Dominican"
+religiousOrder: Dominican
 martyr: true
+prayers: []
 ---
 
 Second of five children born to Michael Rodzinska and Marianna (née Sekuly). Michael was the church organist, led the parish choir and worked at a local bank. They were a poor but pious family, and though Marianna's family was wealthy, they refused to help. Marianna died when Stanislawa was eight years old, and the family fortunes deteriorated further as Michael had trouble working and caring for the children; he died of pneumonia when Stanislawa was ten. From that point, she and her sister grew up in a Dominican orphanage.

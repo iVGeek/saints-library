@@ -1,15 +1,15 @@
 ---
-name: "Saint Leontius of Tripoli"
+name: Saint Leontius of Tripoli
 honorific: Saint
-summary: "Imperial Roman legionairy who was imprisoned, tortured and executed for his faith. Martyr."
-image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Tripoli.jpg"
+summary: Imperial Roman legionairy who was imprisoned, tortured and executed for his faith. Martyr.
+image: http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Tripoli.jpg
 searchAliases:
-  - "Leonzio"
+  - Leonzio
 deathYear: 135
-born: "Greek"
-died: "c.135 at Tripoli, Phoenicia (in modern Syria)"
-deathPlace: "Phoenicia (modern Syria)"
-region: "England"
+born: Greek
+died: c.135 at Tripoli, Phoenicia (in modern Syria)
+deathPlace: Phoenicia (modern Syria)
+region: England
 feastDay:
   month: 6
   day: 18
@@ -18,8 +18,9 @@ vocation:
   - Priest
   - Monk
   - Soldier
-religiousOrder: "Jesuit"
+religiousOrder: Jesuit
 martyr: true
+prayers: []
 ---
 
 Imperial Roman legionairy who was imprisoned, tortured and executed for his faith. Martyr.

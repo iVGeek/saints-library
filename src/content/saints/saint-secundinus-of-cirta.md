@@ -1,13 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Secundinus of Cirta"
+name: Saint Secundinus of Cirta
 honorific: Saint
-summary: "Priest. Martyr."
+summary: Priest. Martyr.
 deathYear: 259
-born: "Spain"
-died: "c.259 at Cirta, Algeria"
-deathPlace: "Algeria"
-region: "Spain"
+born: Spain
+died: c.259 at Cirta, Algeria
+deathPlace: Algeria
+region: Spain
 feastDay:
   month: 5
   day: 4
@@ -16,6 +16,7 @@ vocation:
   - Priest
   - Monk
 martyr: true
+prayers: []
 ---
 
 Priest. Martyr.

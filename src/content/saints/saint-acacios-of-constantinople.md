@@ -16,6 +16,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/0/03/Agathius-Acacius-Acacio-martyrdom.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Acacios of Constantinople
 imageCreditUrl: https://en.wikipedia.org/wiki/Agathius
+prayers: []
 ---
 
 One of a group of 24 Christians martyred in the persecutions of Arian emperor Valens.

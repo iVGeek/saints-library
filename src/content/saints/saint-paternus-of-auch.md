@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Paternus of Auch"
+name: Saint Paternus of Auch
 honorific: Saint
-summary: "Second-century bishop of Auch, France."
-born: "Bilbao, Spain"
-birthPlace: "Spain"
-region: "France"
+summary: Second-century bishop of Auch, France.
+born: Bilbao, Spain
+birthPlace: Spain
+region: France
 feastDay:
   month: 9
   day: 28
@@ -14,6 +14,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Second-century bishop of Auch, France.

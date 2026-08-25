@@ -1,18 +1,21 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Reverianus of Autun"
+name: Saint Reverianus of Autun
 honorific: Saint
-summary: "Evangelizing bishop. Missionary to Gaul with Saint Paulus of Autun and ten companions whose names have not come down to us. Bishop of Autun, France, which formed the base of operations for the group. They were all martyred by order of Emperor Aurelian who was at war with the loca"
+summary: >-
+  Evangelizing bishop. Missionary to Gaul with Saint Paulus of Autun and ten companions whose names have not come down
+  to us. Bishop of Autun, France, which formed the base of operations for the group. They were all martyred by order of
+  Emperor Aurelian who was at war with the loca
 searchAliases:
-  - "Reverentianus"
-  - "Reveriano"
-  - "Reverie"
-  - "Rivianus"
+  - Reverentianus
+  - Reveriano
+  - Reverie
+  - Rivianus
 deathYear: 273
-born: "3rd century Italy"
-died: "beheaded c.273 in Autun, France"
-deathPlace: "France"
-region: "France"
+born: 3rd century Italy
+died: beheaded c.273 in Autun, France
+deathPlace: France
+region: France
 feastDay:
   month: 6
   day: 1
@@ -22,6 +25,7 @@ vocation:
   - Monk
   - Missionary
 martyr: true
+prayers: []
 ---
 
 Evangelizing bishop. Missionary to Gaul with Saint Paulus of Autun and ten companions whose names have not come down to us. Bishop of Autun, France, which formed the base of operations for the group. They were all martyred by order of Emperor Aurelian who was at war with the locals at the time.

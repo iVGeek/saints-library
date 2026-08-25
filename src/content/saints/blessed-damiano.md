@@ -1,9 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Damiano"
+name: Blessed Damiano
 honorific: Blessed
-summary: "Nephew and spiritual student of Saint Pier Damiano. Camaldolese hermit in Fonte Avellana, Italy. Studied in Paris, France. Prior of his hermitage. Cardinal of the Church."
-region: "France"
+summary: >-
+  Nephew and spiritual student of Saint Pier Damiano. Camaldolese hermit in Fonte Avellana, Italy. Studied in Paris,
+  France. Prior of his hermitage. Cardinal of the Church.
+region: France
 feastDay:
   month: 3
   day: 30
@@ -12,6 +14,7 @@ vocation:
   - Cardinal
   - Hermit
 martyr: false
+prayers: []
 ---
 
 Nephew and spiritual student of Saint Pier Damiano. Camaldolese hermit in Fonte Avellana, Italy. Studied in Paris, France. Prior of his hermitage. Cardinal of the Church.

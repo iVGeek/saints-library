@@ -1,12 +1,12 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Tertricus of Langres"
+name: Saint Tertricus of Langres
 honorific: Saint
-title: "Bishop"
-summary: "Son of Saint Gregory of Langres; uncle of Saint Gregory of Tours. Bishop of Langres, France c.540."
+title: Bishop
+summary: Son of Saint Gregory of Langres; uncle of Saint Gregory of Tours. Bishop of Langres, France c.540.
 deathYear: 572
-died: "572"
-region: "France"
+died: '572'
+region: France
 feastDay:
   month: 3
   day: 20
@@ -14,6 +14,7 @@ canonizationStatus: Saint
 vocation:
   - Bishop
 martyr: false
+prayers: []
 ---
 
 Son of Saint Gregory of Langres; uncle of Saint Gregory of Tours. Bishop of Langres, France c.540.

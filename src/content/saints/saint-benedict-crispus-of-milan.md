@@ -1,13 +1,13 @@
 ---
-name: "Saint Benedict Crispus of Milan"
+name: Saint Benedict Crispus of Milan
 honorific: Saint
-summary: "Archbishop of Milan, Italy from 681 until his death 45 years later. Wrote the epitaph for King Caedwalla of Wessex."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Benedict-Crispus-of-Milan.jpg"
+summary: Archbishop of Milan, Italy from 681 until his death 45 years later. Wrote the epitaph for King Caedwalla of Wessex.
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Benedict-Crispus-of-Milan.jpg
 searchAliases:
-  - "Benedetto"
+  - Benedetto
 deathYear: 725
-died: "725 of natural causes"
-region: "Italy"
+died: 725 of natural causes
+region: Italy
 feastDay:
   month: 3
   day: 11
@@ -16,6 +16,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Archbishop of Milan, Italy from 681 until his death 45 years later. Wrote the epitaph for King Caedwalla of Wessex.

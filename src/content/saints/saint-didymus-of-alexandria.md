@@ -1,9 +1,11 @@
 ---
-name: "Saint Didymus of Alexandria"
+name: Saint Didymus of Alexandria
 honorific: Saint
-summary: "Rescued Saint Theodora of Alexandria by trading clothes with her at the house of prostitution where she'd been sentenced. Martyred in the persecutions of Diocletian."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Theodora-and-Saint-Didymus.jpg"
-region: "Egypt"
+summary: >-
+  Rescued Saint Theodora of Alexandria by trading clothes with her at the house of prostitution where she'd been
+  sentenced. Martyred in the persecutions of Diocletian.
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Theodora-and-Saint-Didymus.jpg
+region: Egypt
 feastDay:
   month: 4
   day: 28
@@ -12,8 +14,9 @@ vocation:
   - Virgin
   - Priest
   - Monk
-religiousOrder: "Jesuit"
+religiousOrder: Jesuit
 martyr: true
+prayers: []
 ---
 
 Rescued Saint Theodora of Alexandria by trading clothes with her at the house of prostitution where she'd been sentenced. Martyred in the persecutions of Diocletian.

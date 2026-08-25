@@ -1,24 +1,25 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Ulfo of Troyes"
+name: Saint Ulfo of Troyes
 honorific: Saint
-summary: "Martyr."
+summary: Martyr.
 searchAliases:
-  - "Hugh"
-  - "Oulph"
-  - "Ugo"
-  - "Ulphus"
-died: "2nd to 4th century (records unclear) in Arcis-Sur-Aube, France"
-deathPlace: "France"
-region: "France"
+  - Hugh
+  - Oulph
+  - Ugo
+  - Ulphus
+died: 2nd to 4th century (records unclear) in Arcis-Sur-Aube, France
+deathPlace: France
+region: France
 feastDay:
   month: 1
   day: 22
 canonizationStatus: Saint
 vocation: []
 patronage:
-  - "Saint-Oulph, France"
+  - Saint-Oulph, France
 martyr: true
+prayers: []
 ---
 
 Martyr.

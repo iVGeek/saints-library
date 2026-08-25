@@ -1,10 +1,10 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Bernard de Alziva"
+name: Saint Bernard de Alziva
 honorific: Saint
-summary: "Convert, with his two sisters, from Islam to Christianity; they were all martyred for this choice."
+summary: Convert, with his two sisters, from Islam to Christianity; they were all martyred for this choice.
 deathYear: 1180
-died: "1180"
+died: '1180'
 feastDay:
   month: 8
   day: 21
@@ -13,6 +13,7 @@ vocation:
   - Monk
   - Religious
 martyr: true
+prayers: []
 ---
 
 Convert, with his two sisters, from Islam to Christianity; they were all martyred for this choice.

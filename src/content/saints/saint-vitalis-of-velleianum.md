@@ -1,12 +1,12 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Vitalis of Velleianum"
+name: Saint Vitalis of Velleianum
 honorific: Saint
-summary: "Martyred in the persecutions of Maximian Herculeaus."
+summary: Martyred in the persecutions of Maximian Herculeaus.
 deathYear: 303
-died: "c.303 at Velleianum, Italy"
-deathPlace: "Italy"
-region: "Italy"
+died: c.303 at Velleianum, Italy
+deathPlace: Italy
+region: Italy
 feastDay:
   month: 8
   day: 29
@@ -15,6 +15,7 @@ vocation:
   - Priest
   - Monk
 martyr: true
+prayers: []
 ---
 
 Martyred in the persecutions of Maximian Herculeaus.

@@ -21,6 +21,7 @@ image: >-
 imageAlt: Portrait of Saint Fort of Bordeaux
 imageCredit: Private postcard collection
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:Bordeaux%20-%20Saint-Seurin%20-%20tombeau%20de%20Saint%20Fort.jpg
+prayers: []
 ---
 
 First bishop of Bordeaux, France, serving in the early 4th century. Participated in the Council of Arles in 314. Martyr.

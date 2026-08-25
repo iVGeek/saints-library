@@ -1,16 +1,19 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Wilfrida"
+name: Saint Wilfrida
 honorific: Saint
-summary: "Mother of Saint Edith of Wilton, the result of adultery with King Edgar the Peaceable. Benedictine nun at Wilton, England, hoping that a life in the convent would make up for her sins. Spiritual student of Saint Ethelwald. Abbess of Wilton."
+summary: >-
+  Mother of Saint Edith of Wilton, the result of adultery with King Edgar the Peaceable. Benedictine nun at Wilton,
+  England, hoping that a life in the convent would make up for her sins. Spiritual student of Saint Ethelwald. Abbess of
+  Wilton.
 searchAliases:
-  - "Wilfreda"
-  - "Wuifritha"
-  - "Wulfritha"
+  - Wilfreda
+  - Wuifritha
+  - Wulfritha
 deathYear: 988
-died: "988 at the convent at Wilton, England of natural causes"
-deathPlace: "Englandnatural causes"
-region: "England"
+died: 988 at the convent at Wilton, England of natural causes
+deathPlace: Englandnatural causes
+region: England
 feastDay:
   month: 9
   day: 9
@@ -18,8 +21,9 @@ canonizationStatus: Saint
 vocation:
   - Monk
   - Religious
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 martyr: false
+prayers: []
 ---
 
 Mother of Saint Edith of Wilton, the result of adultery with King Edgar the Peaceable. Benedictine nun at Wilton, England, hoping that a life in the convent would make up for her sins. Spiritual student of Saint Ethelwald. Abbess of Wilton.

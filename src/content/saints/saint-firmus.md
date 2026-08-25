@@ -16,6 +16,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/6/6f/Sebastiano_Ricci_042.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Firmus
 imageCreditUrl: https://en.wikipedia.org/wiki/Firmus%20and%20Rusticus
+prayers: []
 ---
 
 Scourged and executed in the persecutions of Emperor Maximian Herculeus. Martyr.

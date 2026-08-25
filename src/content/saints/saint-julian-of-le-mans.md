@@ -25,6 +25,7 @@ patronage:
   - Le Mans, France
   - Pollina, Italy
 martyr: false
+prayers: []
 ---
 
 Born to the Roman nobility. First bishop of Cenomanum (modern Le Mans, France). Evangelized around Le Mans, an area under the influence of the old Roman pantheon and the Druids. When he felt he was growing too old to effectively discharge his office, he retired to live as a hermit at Sarthe. Many extravagant miracles were attributed to him by writers long after his death. Due to the Norman invasions, his name was carried to several parishes in England.

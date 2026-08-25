@@ -1,20 +1,23 @@
 ---
-name: "Blessed Bartolomeo of Simeri"
+name: Blessed Bartolomeo of Simeri
 honorific: Blessed
-summary: "The son of Giorgio and Elena, a pious couple who consecrated the boy to God, and insured he had a good education, both religious and secular. As a young man, he left to become a spiritual student of the desert hermit fathers. During this time he received a monk's robe, the tonsur"
-image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Bartolomeo-of-Simeri.jpg"
+summary: >-
+  The son of Giorgio and Elena, a pious couple who consecrated the boy to God, and insured he had a good education, both
+  religious and secular. As a young man, he left to become a spiritual student of the desert hermit fathers. During this
+  time he received a monk's robe, the tonsur
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Bartolomeo-of-Simeri.jpg
 searchAliases:
-  - "Bartolomeo of Semeri"
-  - "Bartolomeo of Trigono"
-  - "Bartholomew…"
-  - "Bartholomäus…"
-  - "Basilio"
+  - Bartolomeo of Semeri
+  - Bartolomeo of Trigono
+  - Bartholomew…
+  - Bartholomäus…
+  - Basilio
 deathYear: 1130
-born: "latter 11th century in Simeri Crichi, Catanzaro, Calabria, Italy as Basilio"
-died: "19 August 1130 in the Santa Maria Odigitria monastery near Rossano, Cosenza, Italy of natural causes"
-birthPlace: "Catanzaro, Calabria, Italy as Basilio"
-deathPlace: "Cosenza, Italynatural causes"
-region: "Italy"
+born: latter 11th century in Simeri Crichi, Catanzaro, Calabria, Italy as Basilio
+died: 19 August 1130 in the Santa Maria Odigitria monastery near Rossano, Cosenza, Italy of natural causes
+birthPlace: Catanzaro, Calabria, Italy as Basilio
+deathPlace: Cosenza, Italynatural causes
+region: Italy
 feastDay:
   month: 8
   day: 19
@@ -26,6 +29,7 @@ vocation:
   - Monk
   - Hermit
 martyr: false
+prayers: []
 ---
 
 The son of Giorgio and Elena, a pious couple who consecrated the boy to God, and insured he had a good education, both religious and secular. As a young man, he left to become a spiritual student of the desert hermit fathers. During this time he received a monk's robe, the tonsure, and took the name Bartolomeo. This led him to become a cave hermit in the Italian mountains of Sila. His reputation for wisdom and holiness led would-be spiritual students to seek him out. Bartolomeo valued his solitude, but he received a vision of the Blessed Virgin Mary who asked him to welcome those who wished to serve God; he then gave up the life of a hermit, built the Santa Maria Nuova Odigitria monastery and church in the Cosenza province, and served as its first abbot.

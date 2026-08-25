@@ -1,15 +1,15 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Cuimmein of Nendrum"
+name: Saint Cuimmein of Nendrum
 honorific: Saint
-summary: "Bishop of Aendruim, Ireland (modern Mahee Island, Strangford Lough, Down)."
+summary: Bishop of Aendruim, Ireland (modern Mahee Island, Strangford Lough, Down).
 searchAliases:
-  - "Cuimmein of Mahee Island"
-  - "Cuimmein of Aendruim"
-  - "Cummine of…"
+  - Cuimmein of Mahee Island
+  - Cuimmein of Aendruim
+  - Cummine of…
 deathYear: 658
-died: "c.658"
-region: "Ireland"
+died: c.658
+region: Ireland
 feastDay:
   month: 7
   day: 1
@@ -18,6 +18,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Bishop of Aendruim, Ireland (modern Mahee Island, Strangford Lough, Down).

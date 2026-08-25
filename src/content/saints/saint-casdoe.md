@@ -1,12 +1,14 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Casdoe"
+name: Saint Casdoe
 honorific: Saint
-summary: "Persian noble woman. Married to Saint Dadas. Martyred with him and Saint Gabdelas, who may have been their son, for refusing to deny Christianity during the persecutions of Shapur II."
+summary: >-
+  Persian noble woman. Married to Saint Dadas. Martyred with him and Saint Gabdelas, who may have been their son, for
+  refusing to deny Christianity during the persecutions of Shapur II.
 deathYear: 368
-born: "Persian"
-died: "368 in Persia"
-region: "England"
+born: Persian
+died: 368 in Persia
+region: England
 feastDay:
   month: 9
   day: 29
@@ -14,6 +16,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Persian noble woman. Married to Saint Dadas. Martyred with him and Saint Gabdelas, who may have been their son, for refusing to deny Christianity during the persecutions of Shapur II.

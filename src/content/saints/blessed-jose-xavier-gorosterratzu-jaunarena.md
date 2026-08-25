@@ -1,15 +1,18 @@
 ---
-name: "Blessed José Xavier Gorosterratzu y Jaunarena"
+name: Blessed José Xavier Gorosterratzu y Jaunarena
 honorific: Blessed
-summary: "The second of eight children born to the farm family of José María and Tomasa Gorosterratzu y Jaunarena; José was Baptized on the day he was born. From his family he learned farming, shepherding, and praying the rosary in the fields. Though he felt a call to the priesthood in his"
-image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Jose-Xavier-Gorosterratzu-Jaunarena.jpg"
+summary: >-
+  The second of eight children born to the farm family of José María and Tomasa Gorosterratzu y Jaunarena; José was
+  Baptized on the day he was born. From his family he learned farming, shepherding, and praying the rosary in the
+  fields. Though he felt a call to the priesthood in his
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Jose-Xavier-Gorosterratzu-Jaunarena.jpg
 birthYear: 1877
 deathYear: 1936
-born: "7 August 1877 in Urroz de Santesteban, Navarra, Spain"
-died: "shot in head multiple times on 10 August 1936 in Cuenca, Spain"
-birthPlace: "Navarra, Spain"
-deathPlace: "Spain"
-region: "Spain"
+born: 7 August 1877 in Urroz de Santesteban, Navarra, Spain
+died: shot in head multiple times on 10 August 1936 in Cuenca, Spain
+birthPlace: Navarra, Spain
+deathPlace: Spain
+region: Spain
 feastDay:
   month: 8
   day: 10
@@ -17,8 +20,9 @@ canonizationStatus: Blessed
 vocation:
   - Priest
   - Confessor
-religiousOrder: "Redemptorist"
+religiousOrder: Redemptorist
 martyr: true
+prayers: []
 ---
 
 The second of eight children born to the farm family of José María and Tomasa Gorosterratzu y Jaunarena; José was Baptized on the day he was born. From his family he learned farming, shepherding, and praying the rosary in the fields. Though he felt a call to the priesthood in his early teens, his inability to speak Spanish well (his family spoke Basque) slowed his training. He worked as a carpenter, joined the Redemptorist on 8 September 1895, and continued his studies, finally being ordained a priest in the diocese of Cuenca, Spain on 28 September 1903.

@@ -1,18 +1,21 @@
 ---
-name: "Saint Edmund Campion"
+name: Saint Edmund Campion
 honorific: Saint
-summary: "Son of a Catholic bookseller named Edmund whose family converted to Anglicanism. The boy planned to enter his father's trade, but earned a scholarship to Saint John’s College, Oxford under the patronage of Queen Elizabeth I's court favorite, Robert Dudley, Earl of Leicester. Soug"
-image: "https://upload.wikimedia.org/wikipedia/commons/f/f8/Edmundus_Campion.jpg"
+summary: >-
+  Son of a Catholic bookseller named Edmund whose family converted to Anglicanism. The boy planned to enter his father's
+  trade, but earned a scholarship to Saint John’s College, Oxford under the patronage of Queen Elizabeth I's court
+  favorite, Robert Dudley, Earl of Leicester. Soug
+image: https://upload.wikimedia.org/wikipedia/commons/f/f8/Edmundus_Campion.jpg
 searchAliases:
-  - "Edmundus Campion"
-  - "The Pope's Champion"
+  - Edmundus Campion
+  - The Pope's Champion
 birthYear: 1540
 deathYear: 1581
-born: "24 January 1540 at London, England"
-died: "hanged, drawn, and quartered on 1 December 1581 at Tyburn, London, England"
-birthPlace: "England"
-deathPlace: "drawn, and quartered on 1 December 1581 at Tyburn, London, England"
-region: "Czech Republic"
+born: 24 January 1540 at London, England
+died: hanged, drawn, and quartered on 1 December 1581 at Tyburn, London, England
+birthPlace: England
+deathPlace: drawn, and quartered on 1 December 1581 at Tyburn, London, England
+region: Czech Republic
 feastDay:
   month: 12
   day: 1
@@ -21,8 +24,9 @@ vocation:
   - Priest
   - Deacon
   - Confessor
-religiousOrder: "Jesuit"
+religiousOrder: Jesuit
 martyr: true
+prayers: []
 ---
 
 Son of a Catholic bookseller named Edmund whose family converted to Anglicanism. The boy planned to enter his father's trade, but earned a scholarship to Saint John’s College, Oxford under the patronage of Queen Elizabeth I's court favorite, Robert Dudley, Earl of Leicester. Sought after speaker. Queen Elizabeth offered him a deaconate in the Church of England. He declined the offer, fled to the continent, and joined the Jesuits. Ordained in 1578.

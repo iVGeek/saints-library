@@ -1,11 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Madoes"
+name: Saint Madoes
 honorific: Saint
-summary: "Though there are guesses and legends associated with this name, nothing is known about him except that he appears on ancient calendars, and he is honoured in the Carse of Gowrie, Scotland."
+summary: >-
+  Though there are guesses and legends associated with this name, nothing is known about him except that he appears on
+  ancient calendars, and he is honoured in the Carse of Gowrie, Scotland.
 searchAliases:
-  - "Madianus"
-region: "Scotland"
+  - Madianus
+region: Scotland
 feastDay:
   month: 1
   day: 31
@@ -13,6 +15,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: false
+prayers: []
 ---
 
 Though there are guesses and legends associated with this name, nothing is known about him except that he appears on ancient calendars, and he is honoured in the Carse of Gowrie, Scotland.

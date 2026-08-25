@@ -1,13 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Cursicus of Africa"
+name: Saint Cursicus of Africa
 honorific: Saint
-summary: "Priest. Martyr."
+summary: Priest. Martyr.
 searchAliases:
-  - "Caius"
-died: "unknown location in Africa, date unknown"
-deathPlace: "date unknown"
-region: "Africa"
+  - Caius
+died: unknown location in Africa, date unknown
+deathPlace: date unknown
+region: Africa
 feastDay:
   month: 6
   day: 30
@@ -16,6 +16,7 @@ vocation:
   - Priest
   - Monk
 martyr: true
+prayers: []
 ---
 
 Priest. Martyr.

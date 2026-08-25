@@ -31,6 +31,7 @@ patronage:
   - –
   - Handmaids of the Heart of Jesus
 martyr: false
+prayers: []
 ---
 
 Though she early felt a call to religious life, Saturnina married the widower Manuel Antonio de Zavalia on 13 August 1852, and became step-mother to his son and daughter. They were together a little over twelve years during which they lost their only daughter to a miscarriage. Widowed on 30 March 1865, Saturnina began to gave in to the call to religious life. She founded the Esclavas del Corazon de Jesus (Slaves of the Heart of Jesus, Argentina; Handmaids of the Heart of Jesus) on 29 September 1872, taking the name Sister Catalina of Mary which spread out to do good works across Argentina. The Spiritual Exercises of Saint Ignatius of Loyola were key in the formation of her spiritual life. Late in life she assisted the work of Saint José Gabriel del Rosario Brochero.

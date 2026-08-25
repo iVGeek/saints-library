@@ -1,18 +1,21 @@
 ---
-name: "Pope Saint Gregory VII"
+name: Pope Saint Gregory VII
 honorific: Saint
-summary: "Educated in Rome, Italy. Benedictine monk. Chaplain to Pope Gregory VI. In charge of the Patrimony of Saint Peter. Reformer and excellent administrator. Chosen the 152nd pope, but he declined the crown. Chief counselor to Pope Victor II, Pope Stephen IX, Pope Benedict X, and Pope"
-image: "https://upload.wikimedia.org/wikipedia/commons/0/02/Exultet_Rolls_of_Southern_Italy%2C_detail_of_Pope_Gregory_VII.jpg"
+summary: >-
+  Educated in Rome, Italy. Benedictine monk. Chaplain to Pope Gregory VI. In charge of the Patrimony of Saint Peter.
+  Reformer and excellent administrator. Chosen the 152nd pope, but he declined the crown. Chief counselor to Pope Victor
+  II, Pope Stephen IX, Pope Benedict X, and Pope
+image: https://upload.wikimedia.org/wikipedia/commons/0/02/Exultet_Rolls_of_Southern_Italy%2C_detail_of_Pope_Gregory_VII.jpg
 searchAliases:
-  - "Hildebrand of Soana"
-  - "Ildebrando di Soana"
+  - Hildebrand of Soana
+  - Ildebrando di Soana
 birthYear: 1020
 deathYear: 1085
-born: "c.1020 in Soana (modern Sovana), Italy as Hildebrand of Soana"
-died: "25 May 1085 at Salerno, Italy of natural causes"
-birthPlace: "Italy as HildebrandSoana"
-deathPlace: "Italynatural causes"
-region: "Italy"
+born: c.1020 in Soana (modern Sovana), Italy as Hildebrand of Soana
+died: 25 May 1085 at Salerno, Italy of natural causes
+birthPlace: Italy as HildebrandSoana
+deathPlace: Italynatural causes
+region: Italy
 feastDay:
   month: 5
   day: 25
@@ -21,10 +24,11 @@ vocation:
   - Priest
   - Monk
   - Confessor
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 patronage:
-  - "Pitigliano-Sovana-Orbetello, Italy, diocese of"
+  - Pitigliano-Sovana-Orbetello, Italy, diocese of
 martyr: false
+prayers: []
 ---
 
 Educated in Rome, Italy. Benedictine monk. Chaplain to Pope Gregory VI. In charge of the Patrimony of Saint Peter. Reformer and excellent administrator. Chosen the 152nd pope, but he declined the crown. Chief counselor to Pope Victor II, Pope Stephen IX, Pope Benedict X, and Pope Nicholas II. 157th pope.

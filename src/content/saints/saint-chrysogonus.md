@@ -24,6 +24,7 @@ vocation:
 patronage:
   - Venice, Italy
 martyr: true
+prayers: []
 ---
 
 Priest. Functionary of the vicarius Urbis. Christian teacher of Saint Anastasia of Sirmium, the daughter of the Roman noble Praetextatus. Thrown into prison during the persecution of Diocletian, he comforted Anastasia by his letters. Martyred under Diocletian.

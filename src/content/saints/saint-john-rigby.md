@@ -1,26 +1,28 @@
 ---
-name: "Saint John Rigby"
+name: Saint John Rigby
 honorific: Venerable
-summary: " Imprisoned at Newgate for his faith, and for refusing to acknowledge the Queen as head of the Church. Did time with Saint John Jones. Tortured and executed by order of Ju Lancashire gentleman. Raised Protestant but converted to Catholicism. Converted others, including his father."
-image: "https://catholicsaints.info/wp-content/uploads/img-Saint-John-Rigby.jpg"
+summary: ' Imprisoned at Newgate for his faith, and for refusing to acknowledge the Queen as head of the Church. Did time with Saint John Jones. Tortured and executed by order of Ju Lancashire gentleman. Raised Protestant but converted to Catholicism. Converted others, including his father.'
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-John-Rigby.jpg
 birthYear: 1570
 deathYear: 1600
-born: "1570 at Harrack Hall, Wigan, Lancashire, England"
-died: "21 June 1600 at Southwark, London, England"
-birthPlace: "Wigan, Lancashire, England"
-deathPlace: "London, England"
-region: "England"
+born: 1570 at Harrack Hall, Wigan, Lancashire, England
+died: 21 June 1600 at Southwark, London, England
+birthPlace: Wigan, Lancashire, England
+deathPlace: London, England
+region: England
 feastDay:
   month: 6
   day: 21
-centuries: [16]
+centuries:
+  - 16
 canonizationStatus: Venerable
 vocation:
   - Priest
 patronage:
-  - "bachelors"
-  - "torture victims"
+  - bachelors
+  - torture victims
 martyr: true
+prayers: []
 ---
 
 Lancashire gentleman. Raised Protestant but converted to Catholicism. Converted others, including his father.

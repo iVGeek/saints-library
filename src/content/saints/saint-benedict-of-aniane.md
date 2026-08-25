@@ -36,6 +36,7 @@ patronage:
     Aniane
   - Dijon
 martyr: false
+prayers: []
 ---
 
 Born a Visigoth, the son of Aigul, Count of Maguelone. Educated at the court of Pepin. Courtier and cup-bearer to King Pepin and Blessed Charlemagne. Part of the 773 campaign of Charlemagne. Narrowly escaped drowning in the Tesin near Pavia, Italy while trying to save his brother.

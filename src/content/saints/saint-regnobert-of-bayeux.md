@@ -31,6 +31,7 @@ vocation:
 patronage:
   - Caen, France
 martyr: false
+prayers: []
 ---
 
 Missionary priest in the 620s, working to convert the Saxons who had invaded the Bessin region. Twelfth bishop of Bayeux, France. Founded several churches in the area that became Caen, France.

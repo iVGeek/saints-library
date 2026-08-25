@@ -1,17 +1,20 @@
 ---
-name: "Blessed Alphonsus Pacheco"
+name: Blessed Alphonsus Pacheco
 honorific: Blessed
-summary: "Born to the New Castilian nobility. Joined the Jesuits on 8 September 1567. In September 1574, he arrived in Goa, India as a missionary. Priest. Rector of Rachol in 1581. Accompanied two punitive Portuguese expeditions against the pagans in the village of Cuncolim. One of the Mar"
-image: "https://upload.wikimedia.org/wikipedia/commons/b/b5/Cuncolim_Martyrs.jpg"
+summary: >-
+  Born to the New Castilian nobility. Joined the Jesuits on 8 September 1567. In September 1574, he arrived in Goa,
+  India as a missionary. Priest. Rector of Rachol in 1581. Accompanied two punitive Portuguese expeditions against the
+  pagans in the village of Cuncolim. One of the Mar
+image: https://upload.wikimedia.org/wikipedia/commons/b/b5/Cuncolim_Martyrs.jpg
 searchAliases:
-  - "Alfonso Pacheco"
+  - Alfonso Pacheco
 birthYear: 1551
 deathYear: 1583
-born: "c.1551 at Minaya, Catalonia (in modern Spain)"
-died: "hacked to death by scimitars and spears on 25 July 1583 on Salsette near Goa, Italy"
-birthPlace: "Catalonia (modern Spain)"
-deathPlace: "Italy"
-region: "India"
+born: c.1551 at Minaya, Catalonia (in modern Spain)
+died: hacked to death by scimitars and spears on 25 July 1583 on Salsette near Goa, Italy
+birthPlace: Catalonia (modern Spain)
+deathPlace: Italy
+region: India
 feastDay:
   month: 7
   day: 25
@@ -20,8 +23,9 @@ vocation:
   - Priest
   - Monk
   - Missionary
-religiousOrder: "Jesuit"
+religiousOrder: Jesuit
 martyr: true
+prayers: []
 ---
 
 Born to the New Castilian nobility. Joined the Jesuits on 8 September 1567. In September 1574, he arrived in Goa, India as a missionary. Priest. Rector of Rachol in 1581. Accompanied two punitive Portuguese expeditions against the pagans in the village of Cuncolim. One of the Martyrs of Cuncolim.

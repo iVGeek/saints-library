@@ -17,6 +17,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/0/07/Palio_di_Siena_-_Assunta_2011_-_Torre_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Ariston of Campania
 imageCreditUrl: https://en.wikipedia.org/wiki/Traditions%20of%20Italy
+prayers: []
 ---
 
 Marytred in the persecutions of Diocletian. No other information has survived.

@@ -24,6 +24,7 @@ vocation:
   - Priest
   - Monk
 martyr: false
+prayers: []
 ---
 
 Son of a poor widow. Had a special devotion to the Blessed Virgin Mary, to Saint John the Baptist, and to Saint Cecilia. Teacher in his home town. Priest. Vicar of his native Hallum. Premonstratensian monk. Founded the monastery of Mariengarten, Netherlands. Simultaneously abbot of Mariengarten, Groingen, and Dockum.

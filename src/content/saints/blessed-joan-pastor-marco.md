@@ -1,25 +1,26 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Joan Pastor Marco"
+name: Blessed Joan Pastor Marco
 honorific: Blessed
-summary: "Monk. Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
+summary: Monk. Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War.
 searchAliases:
-  - "Fabià"
+  - Fabià
 birthYear: 1876
 deathYear: 1936
-born: "14 January 1876 in Barcelona, Spain"
-died: "3 September 1936 in Les Avellanes, Balaguer, Lleida, Spain"
-birthPlace: "Spain"
-deathPlace: "Balaguer, Lleida, Spain"
-region: "Spain"
+born: 14 January 1876 in Barcelona, Spain
+died: 3 September 1936 in Les Avellanes, Balaguer, Lleida, Spain
+birthPlace: Spain
+deathPlace: Balaguer, Lleida, Spain
+region: Spain
 feastDay:
   month: 9
   day: 3
 canonizationStatus: Blessed
 vocation:
   - Monk
-religiousOrder: "Marist"
+religiousOrder: Marist
 martyr: true
+prayers: []
 ---
 
 Monk. Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War.

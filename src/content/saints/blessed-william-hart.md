@@ -1,15 +1,18 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed William Hart"
+name: Blessed William Hart
 honorific: Blessed
-summary: "Raised Protestant. Educated at Lincoln College, Oxford. Convert to Catholicism. Studied for the priesthood at Douai, Rheims, and Rome, Italy. Ordained in 1581, he returned to England to minister to covert Catholics. Betrayed by an apostate in the house of Saint Margaret Clitherow"
+summary: >-
+  Raised Protestant. Educated at Lincoln College, Oxford. Convert to Catholicism. Studied for the priesthood at Douai,
+  Rheims, and Rome, Italy. Ordained in 1581, he returned to England to minister to covert Catholics. Betrayed by an
+  apostate in the house of Saint Margaret Clitherow
 birthYear: 1558
 deathYear: 1583
-born: "1558 at Wells, England"
-died: "martyred on 15 March 1583 at York, North Yorkshire, England"
-birthPlace: "England"
-deathPlace: "North Yorkshire, England"
-region: "Italy"
+born: 1558 at Wells, England
+died: martyred on 15 March 1583 at York, North Yorkshire, England
+birthPlace: England
+deathPlace: North Yorkshire, England
+region: Italy
 feastDay:
   month: 3
   day: 15
@@ -19,6 +22,7 @@ vocation:
   - Monk
   - Confessor
 martyr: true
+prayers: []
 ---
 
 Raised Protestant. Educated at Lincoln College, Oxford. Convert to Catholicism. Studied for the priesthood at Douai, Rheims, and Rome, Italy. Ordained in 1581, he returned to England to minister to covert Catholics. Betrayed by an apostate in the house of Saint Margaret Clitherow. Martyr.

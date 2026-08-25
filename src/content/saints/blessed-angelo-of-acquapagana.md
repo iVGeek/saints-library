@@ -30,6 +30,7 @@ imageCredit: >-
   href="//commons.wikimedia.org/wiki/User:EdmundEzekielMahmudIsa" class="mw-redirect"
   title="User:EdmundEzekielMahmudIsa">User:EdmundEzekielMahmudIsa</a>.
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:The%20Evangelist%20Matthew%20Inspired%20by%20an%20Angel.jpg
+prayers: []
 ---
 
 Monk at Valdicastro, Italy. Hermit, joining the Camaldolese c.1285 at the San Salvatore di Acquapagana hermitage and living in a nearby cave.

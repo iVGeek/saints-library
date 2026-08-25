@@ -1,12 +1,12 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Fiolanus of Lucca"
+name: Saint Fiolanus of Lucca
 honorific: Saint
-summary: "Bishop. Travelled with and martyred with Saint Ursula."
+summary: Bishop. Travelled with and martyred with Saint Ursula.
 deathYear: 238
-died: "21 October 238 in Cologne, Germany"
-deathPlace: "Germany"
-region: "Germany"
+died: 21 October 238 in Cologne, Germany
+deathPlace: Germany
+region: Germany
 feastDay:
   month: 10
   day: 21
@@ -15,6 +15,7 @@ vocation:
   - Bishop
   - Monk
 martyr: true
+prayers: []
 ---
 
 Bishop. Travelled with and martyred with Saint Ursula.

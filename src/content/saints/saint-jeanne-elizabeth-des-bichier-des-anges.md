@@ -1,25 +1,31 @@
 ---
-name: "Saint Jeanne Elizabeth des Bichier des Anges"
+name: Saint Jeanne Elizabeth des Bichier des Anges
 honorific: Venerable
-summary: "Daughter of Antony Bichier, lord of Agnes, and Marie Augier de Moussac. From ages ten through nineteen she was educated at a convent at Poitiers, France. When her father died, she returned home to keep her family's property from being confiscated by the state. She won the court b"
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Jeanne-Elizabeth-des-Bichier-des-Anges1.jpg"
+summary: >-
+  Daughter of Antony Bichier, lord of Agnes, and Marie Augier de Moussac. From ages ten through nineteen she was
+  educated at a convent at Poitiers, France. When her father died, she returned home to keep her family's property from
+  being confiscated by the state. She won the court b
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Jeanne-Elizabeth-des-Bichier-des-Anges1.jpg
 birthYear: 1773
 deathYear: 1838
-born: "5 July 1773 at La Blanc, Charente, France"
-died: "26 August 1838 La Puye, Vienne, France of natural causes"
-birthPlace: "Charente, France"
-deathPlace: "Vienne, Francenatural causes"
-region: "France"
+born: 5 July 1773 at La Blanc, Charente, France
+died: 26 August 1838 La Puye, Vienne, France of natural causes
+birthPlace: Charente, France
+deathPlace: Vienne, Francenatural causes
+region: France
 feastDay:
   month: 8
   day: 26
-centuries: [18, 19]
+centuries:
+  - 18
+  - 19
 canonizationStatus: Venerable
 vocation:
   - Priest
   - Religious
-religiousOrder: "Carmelite"
+religiousOrder: Carmelite
 martyr: false
+prayers: []
 ---
 
 Daughter of Antony Bichier, lord of Agnes, and Marie Augier de Moussac. From ages ten through nineteen she was educated at a convent at Poitiers, France. When her father died, she returned home to keep her family's property from being confiscated by the state. She won the court battle to retain the property, and she and her mother moved to La Guimetiere.

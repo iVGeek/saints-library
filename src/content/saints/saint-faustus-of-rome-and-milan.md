@@ -1,13 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Faustus of Rome and Milan"
+name: Saint Faustus of Rome and Milan
 honorific: Saint
-summary: "Martyr."
+summary: Martyr.
 searchAliases:
-  - "Fausto"
-died: "Rome, Italy, date unknown"
-deathPlace: "Italy, date unknown"
-region: "Italy"
+  - Fausto
+died: Rome, Italy, date unknown
+deathPlace: Italy, date unknown
+region: Italy
 feastDay:
   month: 7
   day: 16
@@ -15,6 +15,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Martyr.

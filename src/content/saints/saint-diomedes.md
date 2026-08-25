@@ -13,6 +13,7 @@ image: https://commons.wikimedia.org/wiki/Special:FilePath/Diomedes_Louvre_Ma890
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Imprisoned, tortured and martyred in the persecutions of Trajan. Saint Hyacinth ministered to him in prison.

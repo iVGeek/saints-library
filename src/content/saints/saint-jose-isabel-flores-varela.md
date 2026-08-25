@@ -1,24 +1,30 @@
 ---
-name: "Saint Jose Isabel Flores Varela"
+name: Saint Jose Isabel Flores Varela
 honorific: Venerable
-summary: "Seminarian at Guadalajara, Mexico. Parish priest at Zapotlanejo, Jalisco, Mexico in 1900. Strong and gentle father to his flock, he refused to abandon his parish during the persecutions of the Church by the government; he went into hiding, and ministered covertly to his parishion"
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Jose-Isabel-Flores-Varela.jpg"
+summary: >-
+  Seminarian at Guadalajara, Mexico. Parish priest at Zapotlanejo, Jalisco, Mexico in 1900. Strong and gentle father to
+  his flock, he refused to abandon his parish during the persecutions of the Church by the government; he went into
+  hiding, and ministered covertly to his parishion
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Jose-Isabel-Flores-Varela.jpg
 birthYear: 1866
 deathYear: 1927
-born: "28 November 1866 at Teul, Zacatecas, Mexico"
-died: "throat cut between 1am and 2am on 21 June 1927 in a cemetery near Zapotlanejo, Jalisco, Mexico"
-birthPlace: "Zacatecas, Mexico"
-deathPlace: "Jalisco, Mexico"
-region: "Mexico"
+born: 28 November 1866 at Teul, Zacatecas, Mexico
+died: throat cut between 1am and 2am on 21 June 1927 in a cemetery near Zapotlanejo, Jalisco, Mexico
+birthPlace: Zacatecas, Mexico
+deathPlace: Jalisco, Mexico
+region: Mexico
 feastDay:
   month: 6
   day: 21
-centuries: [19, 20]
+centuries:
+  - 19
+  - 20
 canonizationStatus: Venerable
 vocation:
   - Priest
   - Soldier
 martyr: true
+prayers: []
 ---
 
 Seminarian at Guadalajara, Mexico. Parish priest at Zapotlanejo, Jalisco, Mexico in 1900. Strong and gentle father to his flock, he refused to abandon his parish during the persecutions of the Church by the government; he went into hiding, and ministered covertly to his parishioners. The mayor of Zapotlanjejo, Jose Orozco, was virulently anti–Catholic, and offered a reward for the capture of any priest. Father Jose was betrayed for this reward, and arrested; his Judas was Nemesio Bermejo, an ex-seminarian who lived with Flores.

@@ -1,12 +1,15 @@
 ---
-name: "Saint Maruta"
+name: Saint Maruta
 honorific: Saint
-summary: "Bishop of Mayferkqat, Syria, part of the kingdom of Persia, in the late 4th and early 5th centuries. Presided over the Council of Seleucia. Worked to build and repair churches that had been lost during the persecutions of King Sapor, and collected so many of the relics that had b"
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Maruta.jpg"
+summary: >-
+  Bishop of Mayferkqat, Syria, part of the kingdom of Persia, in the late 4th and early 5th centuries. Presided over the
+  Council of Seleucia. Worked to build and repair churches that had been lost during the persecutions of King Sapor, and
+  collected so many of the relics that had b
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Maruta.jpg
 searchAliases:
-  - "Maruta of Martyropolis"
-  - "Maruthas…"
-region: "Syria"
+  - Maruta of Martyropolis
+  - Maruthas…
+region: Syria
 feastDay:
   month: 2
   day: 16
@@ -15,6 +18,7 @@ vocation:
   - Bishop
   - Priest
 martyr: true
+prayers: []
 ---
 
 Bishop of Mayferkqat, Syria, part of the kingdom of Persia, in the late 4th and early 5th centuries. Presided over the Council of Seleucia. Worked to build and repair churches that had been lost during the persecutions of King Sapor, and collected so many of the relics that had been scattered during that time that his see city became known as Martyropolis. He composed a number of hymns in honor of the martyrs, and wrote “Acts” of as many as he could research. Because of the wealth of his theological writings, he is honored as the chief Doctor of the Syrian Church.

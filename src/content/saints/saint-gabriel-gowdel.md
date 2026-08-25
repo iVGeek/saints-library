@@ -1,30 +1,34 @@
 ---
-name: "Saint Gabriel Gowdel"
+name: Saint Gabriel Gowdel
 honorific: Saint
-summary: "Son of Peter and Anastasia Gowdel who were pious Orthodox Christians. Gabriel was noted for his piety and prayer from a very early age. He was a murder victim, and was considered a martyr. His attacker buried the body in a wooded area near the village where stray dogs guarded it"
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Gabriel-Gowdel.jpg"
+summary: >-
+  Son of Peter and Anastasia Gowdel who were pious Orthodox Christians. Gabriel was noted for his piety and prayer from
+  a very early age. He was a murder victim, and was considered a martyr. His attacker buried the body in a wooded area
+  near the village where stray dogs guarded it
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Gabriel-Gowdel.jpg
 searchAliases:
-  - "Gabriel of Białystok"
-  - "Gabriel Białostocki"
-  - "Gabriel Belostoksky"
-  - "Gabriel of Zabłudów"
-  - "Gabriel Zabłudowski"
-  - "Gavrila…"
-  - "Gavriil…"
+  - Gabriel of Białystok
+  - Gabriel Białostocki
+  - Gabriel Belostoksky
+  - Gabriel of Zabłudów
+  - Gabriel Zabłudowski
+  - Gavrila…
+  - Gavriil…
 birthYear: 1684
 deathYear: 1690
-born: "22 March 1684 at Zwierki, Poland"
-died: "murdered on 11 April 1690"
-birthPlace: "Poland"
-region: "England"
+born: 22 March 1684 at Zwierki, Poland
+died: murdered on 11 April 1690
+birthPlace: Poland
+region: England
 feastDay:
   month: 5
   day: 3
 canonizationStatus: Saint
 vocation: []
 patronage:
-  - "children"
+  - children
 martyr: true
+prayers: []
 ---
 
 Son of Peter and Anastasia Gowdel who were pious Orthodox Christians. Gabriel was noted for his piety and prayer from a very early age. He was a murder victim, and was considered a martyr. His attacker buried the body in a wooded area near the village where stray dogs guarded it until it was discovered by the villagers nine days after the crime; the body was incorrupt.

@@ -1,13 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Etherius of Lyons"
+name: Saint Etherius of Lyons
 honorific: Saint
-summary: "Bishop of Lyons, France."
+summary: Bishop of Lyons, France.
 searchAliases:
-  - "Alermius"
+  - Alermius
 deathYear: 602
-died: "602"
-region: "France"
+died: '602'
+region: France
 feastDay:
   month: 8
   day: 27
@@ -16,6 +16,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Bishop of Lyons, France.

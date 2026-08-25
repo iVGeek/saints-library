@@ -23,6 +23,7 @@ vocation:
   - Priest
   - Religious
 martyr: false
+prayers: []
 ---
 
 Born to a poor farming family, Agostino spent his youth as a mountain shepherd, using his solitary time for prayer. During a parish mission in May 1835, he realized a call to the priesthood, a calling he attacked with prayer which led to financial aid that allowed him to study at Genoa, Italy. Ordained on 19 September 1846.

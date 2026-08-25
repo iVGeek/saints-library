@@ -1,18 +1,18 @@
 ---
-name: "Saint Euphrasia"
+name: Saint Euphrasia
 honorific: Saint
-summary: " When Eu Born to the Roman nobility, the daughter of Antigonus, senator of Constantinople. Related to Roman Emperor Theodosius I who finished the conversion of Rome to a Christian state. Her father died soon after Euphrasia was born; she and her mother became wards of the emperor."
-image: "https://upload.wikimedia.org/wikipedia/commons/9/9d/Augentrost.jpg"
+summary: ' When Eu Born to the Roman nobility, the daughter of Antigonus, senator of Constantinople. Related to Roman Emperor Theodosius I who finished the conversion of Rome to a Christian state. Her father died soon after Euphrasia was born; she and her mother became wards of the emperor.'
+image: https://upload.wikimedia.org/wikipedia/commons/9/9d/Augentrost.jpg
 searchAliases:
-  - "Euphrasia of Constantinople"
-  - "Ephrasia of Thebes"
-  - "Eufrasia…"
-  - "Eupraxia…"
+  - Euphrasia of Constantinople
+  - Ephrasia of Thebes
+  - Eufrasia…
+  - Eupraxia…
 birthYear: 380
 deathYear: 420
-born: "380"
-died: "420 of natural causes"
-region: "Italy"
+born: '380'
+died: 420 of natural causes
+region: Italy
 feastDay:
   month: 7
   day: 24
@@ -22,6 +22,7 @@ vocation:
   - Priest
   - Monk
 martyr: false
+prayers: []
 ---
 
 Born to the Roman nobility, the daughter of Antigonus, senator of Constantinople. Related to Roman Emperor Theodosius I who finished the conversion of Rome to a Christian state. Her father died soon after Euphrasia was born; she and her mother became wards of the emperor.

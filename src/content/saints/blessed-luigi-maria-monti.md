@@ -24,6 +24,7 @@ vocation:
   - Priest
 religiousOrder: Capuchin
 martyr: false
+prayers: []
 ---
 
 Eighth of eleven children. His father died when Luigi was twelve years old. To support the family he made wooden craft items. After hours he gathered other devout craftsmen and farmers at his shop to form the prayer group The Company of the Sacred Heart of Jesus; the locals called them The Company of Friars. The group expanded their ministry to work with the poor and sick, and in 1846 Luigi took private vows of chastity and obedience, dedicating his life to God.

@@ -1,21 +1,25 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Audentius of Milan"
+name: Saint Audentius of Milan
 honorific: Saint
-summary: "Born to the imperial Roman nobility, and a senator from Milan. When visited by Saint Julius of Novara on the island of Orta, he was so taken by Julius' obvious holiness that he gave him moral, spiritual and financial support in his evangelization work."
+summary: >-
+  Born to the imperial Roman nobility, and a senator from Milan. When visited by Saint Julius of Novara on the island of
+  Orta, he was so taken by Julius' obvious holiness that he gave him moral, spiritual and financial support in his
+  evangelization work.
 searchAliases:
-  - "Audenzio"
+  - Audenzio
 deathYear: 400
-died: "c.400 of natural causes"
-region: "Italy"
+died: c.400 of natural causes
+region: Italy
 feastDay:
   month: 11
   day: 25
 canonizationStatus: Saint
 vocation: []
 patronage:
-  - "Pettenasco, Italy"
+  - Pettenasco, Italy
 martyr: false
+prayers: []
 ---
 
 Born to the imperial Roman nobility, and a senator from Milan. When visited by Saint Julius of Novara on the island of Orta, he was so taken by Julius' obvious holiness that he gave him moral, spiritual and financial support in his evangelization work.

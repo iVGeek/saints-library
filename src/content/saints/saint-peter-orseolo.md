@@ -1,17 +1,17 @@
 ---
-name: "Saint Peter Orseolo"
+name: Saint Peter Orseolo
 honorific: Saint
-summary: " Chosen Doge of Venice on 12 August 976, Born to a wealthy, noble, and prominent family. Married at age 18 to Felicitas, and the father of one son, Peter, who became the Doge of Venice in 991. Admiral and commander of the Venetian fleet by age 20. Rid the Adriatic Sea of pirates."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Peter-Orseolo.jpg"
+summary: ' Chosen Doge of Venice on 12 August 976, Born to a wealthy, noble, and prominent family. Married at age 18 to Felicitas, and the father of one son, Peter, who became the Doge of Venice in 991. Admiral and commander of the Venetian fleet by age 20. Rid the Adriatic Sea of pirates.'
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Peter-Orseolo.jpg
 searchAliases:
-  - "Peter Urseolus"
+  - Peter Urseolus
 birthYear: 928
 deathYear: 987
-born: "928 at Rivo alto, Province of Udine, Venice, Italy"
-died: "10 January 987 at Saint-Michel-de-Cuxa Abbey, Pyrenees mountains, France of natural causes"
-birthPlace: "ProvinceUdine, Venice, Italy"
-deathPlace: "Pyrenees mountains, Francenatural causes"
-region: "France"
+born: 928 at Rivo alto, Province of Udine, Venice, Italy
+died: 10 January 987 at Saint-Michel-de-Cuxa Abbey, Pyrenees mountains, France of natural causes
+birthPlace: ProvinceUdine, Venice, Italy
+deathPlace: Pyrenees mountains, Francenatural causes
+region: France
 feastDay:
   month: 8
   day: 12
@@ -19,11 +19,12 @@ canonizationStatus: Saint
 vocation:
   - Bishop
   - Priest
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 patronage:
-  - "Doges of Venice"
-  - "Venice, Italy"
+  - Doges of Venice
+  - Venice, Italy
 martyr: false
+prayers: []
 ---
 
 Born to a wealthy, noble, and prominent family. Married at age 18 to Felicitas, and the father of one son, Peter, who became the Doge of Venice in 991. Admiral and commander of the Venetian fleet by age 20. Rid the Adriatic Sea of pirates.

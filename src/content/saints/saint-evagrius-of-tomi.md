@@ -22,6 +22,7 @@ imageCredit: >-
   class="description en" lang="en" dir="ltr">Internet Archive identifier</bdi>: expositionsuivie05thom</a>
 imageCreditUrl: >-
   https://commons.wikimedia.org/wiki/File:Aquin%20-%20Exposition%20suivie%20des%20quatre%20%C3%89vangiles%2C%20Tome%205%2C%201854.djvu
+prayers: []
 ---
 
 Martyr. No further information has survived.

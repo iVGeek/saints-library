@@ -1,12 +1,12 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Patroclus of Colombier"
+name: Saint Patroclus of Colombier
 honorific: Saint
-summary: "Missionary priest and hermit in the Berry region of modern France."
+summary: Missionary priest and hermit in the Berry region of modern France.
 deathYear: 576
-died: "c.576 in Colombier, Berry, France of natural causes"
-deathPlace: "Berry, Francenatural causes"
-region: "France"
+died: c.576 in Colombier, Berry, France of natural causes
+deathPlace: Berry, Francenatural causes
+region: France
 feastDay:
   month: 11
   day: 18
@@ -16,6 +16,7 @@ vocation:
   - Hermit
   - Missionary
 martyr: false
+prayers: []
 ---
 
 Missionary priest and hermit in the Berry region of modern France.

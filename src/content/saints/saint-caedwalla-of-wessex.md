@@ -1,24 +1,27 @@
 ---
-name: "Saint Caedwalla of Wessex"
+name: Saint Caedwalla of Wessex
 honorific: Saint
-summary: "Son of Coenberht; descendent of King Ceawlin of Wessex in England. Exiled, but later returned to reclaim the throne by right, and by warfare. King of Wessex, which he expanded by conquest, annihilating the pagan residents of the Isle of Wight in the process in order to colonize i"
-image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Caedwalla-of-Wessex.jpg"
+summary: >-
+  Son of Coenberht; descendent of King Ceawlin of Wessex in England. Exiled, but later returned to reclaim the throne by
+  right, and by warfare. King of Wessex, which he expanded by conquest, annihilating the pagan residents of the Isle of
+  Wight in the process in order to colonize i
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Caedwalla-of-Wessex.jpg
 searchAliases:
-  - "Caedwalla of Wales"
-  - "Cadwallader…"
-  - "Cadwallador…"
-  - "Cadwalla…"
-  - "Cadwallon…"
-  - "Ceadwalla…"
-  - "Cedualla…"
-  - "Peter"
+  - Caedwalla of Wales
+  - Cadwallader…
+  - Cadwallador…
+  - Cadwalla…
+  - Cadwallon…
+  - Ceadwalla…
+  - Cedualla…
+  - Peter
 birthYear: 658
 deathYear: 689
-born: "c.658 in Wessex, England"
-died: "20 April 689 at Rome, Italy"
-birthPlace: "England"
-deathPlace: "Italy"
-region: "Italy"
+born: c.658 in Wessex, England
+died: 20 April 689 at Rome, Italy
+birthPlace: England
+deathPlace: Italy
+region: Italy
 feastDay:
   month: 4
   day: 20
@@ -26,9 +29,10 @@ canonizationStatus: Saint
 vocation:
   - Monk
 patronage:
-  - "converts"
-  - "reformed murderers"
+  - converts
+  - reformed murderers
 martyr: false
+prayers: []
 ---
 
 Son of Coenberht; descendent of King Ceawlin of Wessex in England. Exiled, but later returned to reclaim the throne by right, and by warfare. King of Wessex, which he expanded by conquest, annihilating the pagan residents of the Isle of Wight in the process in order to colonize it with his own people.

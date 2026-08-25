@@ -22,6 +22,7 @@ image: >-
 imageAlt: Portrait of Saint Authaire of La-Ferté
 imageCredit: <span class="int-own-work" lang="en">Own work</span>
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:Oye-et-Palet%20-%20Eglise%20Saint-Nicolas%2020.jpg
+prayers: []
 ---
 
 Father of Saint Ouen of Rouen. Courtier to King Dagobert I of France. Known for his charity for the poor.

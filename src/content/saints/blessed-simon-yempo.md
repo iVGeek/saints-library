@@ -1,26 +1,27 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Simon Yempo"
+name: Blessed Simon Yempo
 honorific: Blessed
-summary: "Buddhist monk. Convert to Christianity. Lay catechist. Jesuit. Martyr."
+summary: Buddhist monk. Convert to Christianity. Lay catechist. Jesuit. Martyr.
 searchAliases:
-  - "Simon Enpo"
-  - "Simon Iempo"
+  - Simon Enpo
+  - Simon Iempo
 birthYear: 1580
 deathYear: 1623
-born: "c.1580 in Nozu, Japan"
-died: "burned to death on 4 December 1623 in Edo (modern Tokyo), Japan"
-birthPlace: "Japan"
-deathPlace: "Japan"
-region: "Italy"
+born: c.1580 in Nozu, Japan
+died: burned to death on 4 December 1623 in Edo (modern Tokyo), Japan
+birthPlace: Japan
+deathPlace: Japan
+region: Italy
 feastDay:
   month: 12
   day: 4
 canonizationStatus: Blessed
 vocation:
   - Monk
-religiousOrder: "Jesuit"
+religiousOrder: Jesuit
 martyr: true
+prayers: []
 ---
 
 Buddhist monk. Convert to Christianity. Lay catechist. Jesuit. Martyr.

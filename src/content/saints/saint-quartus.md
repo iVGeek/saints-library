@@ -13,6 +13,7 @@ image: >-
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 One of a group of 35 martyrs, date unknown. No other information has survived.

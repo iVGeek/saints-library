@@ -16,6 +16,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/b/bb/Rubens_apostel_simon.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Ananias of Persia
 imageCreditUrl: https://en.wikipedia.org/wiki/Simon%20the%20Zealot
+prayers: []
 ---
 
 Martyred with about 100 other believers during the persecutions of King Sapor II.

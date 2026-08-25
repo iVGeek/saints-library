@@ -1,20 +1,23 @@
 ---
-name: "Saint Albert of Sicily"
+name: Saint Albert of Sicily
 honorific: Saint
-summary: "Albert's parents, Benedict and Joan, promised that if they were blessed with a son, he would be dedicated to Our Lady of Mount Carmel. Educated in a Carmelite monastery, and joined the Order at age 18. Priest. Teacher in the monastery. Mendicant preacher to the Sicilians, making"
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Albert-the-Abbot.jpg"
+summary: >-
+  Albert's parents, Benedict and Joan, promised that if they were blessed with a son, he would be dedicated to Our Lady
+  of Mount Carmel. Educated in a Carmelite monastery, and joined the Order at age 18. Priest. Teacher in the monastery.
+  Mendicant preacher to the Sicilians, making
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Albert-the-Abbot.jpg
 searchAliases:
-  - "Albert of Trapani"
-  - "Albert the Abbot"
-  - "Albert degli Abbati"
-  - "Albert Siculus"
+  - Albert of Trapani
+  - Albert the Abbot
+  - Albert degli Abbati
+  - Albert Siculus
 birthYear: 1250
 deathYear: 1306
-born: "1250 to 1257 (sources vary) at Trapani, Sicily, Italy"
-died: "7 August 1306 at Messina, Italy of natural causes"
-birthPlace: "Sicily, Italy"
-deathPlace: "Italynatural causes"
-region: "Italy"
+born: 1250 to 1257 (sources vary) at Trapani, Sicily, Italy
+died: 7 August 1306 at Messina, Italy of natural causes
+birthPlace: Sicily, Italy
+deathPlace: Italynatural causes
+region: Italy
 feastDay:
   month: 8
   day: 7
@@ -23,19 +26,23 @@ vocation:
   - Priest
   - Monk
   - Confessor
-religiousOrder: "Carmelite"
+religiousOrder: Carmelite
 patronage:
-  - "against fever"
-  - "–"
-  - "Carmelite schools"
-  - "–"
-  - "in Italy\n\nErice"
-  - "Mantua"
-  - "Messina"
-  - "Palermo"
-  - "Trapani, city of"
-  - "Trapani, diocese of"
+  - against fever
+  - –
+  - Carmelite schools
+  - –
+  - |-
+    in Italy
+
+    Erice
+  - Mantua
+  - Messina
+  - Palermo
+  - Trapani, city of
+  - Trapani, diocese of
 martyr: false
+prayers: []
 ---
 
 Albert's parents, Benedict and Joan, promised that if they were blessed with a son, he would be dedicated to Our Lady of Mount Carmel. Educated in a Carmelite monastery, and joined the Order at age 18. Priest. Teacher in the monastery. Mendicant preacher to the Sicilians, making many conversions; especially devoted to, and successful with, Sicilian Jews. Miracle worker. Sicilian Carmelite provincial in 1257, and worked both as preacher and administrator.

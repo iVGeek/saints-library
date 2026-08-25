@@ -1,13 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Teige O'Daly"
+name: Blessed Teige O'Daly
 honorific: Blessed
-summary: "Franciscan priest. One of the Irish Martyrs."
+summary: Franciscan priest. One of the Irish Martyrs.
 deathYear: 1578
-born: "Irish"
-died: "martryed on March 1578 in Limerick, Ireland"
-deathPlace: "Ireland"
-region: "Italy"
+born: Irish
+died: martryed on March 1578 in Limerick, Ireland
+deathPlace: Ireland
+region: Italy
 feastDay:
   month: 6
   day: 20
@@ -15,8 +15,9 @@ canonizationStatus: Blessed
 vocation:
   - Priest
   - Monk
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 martyr: true
+prayers: []
 ---
 
 Franciscan priest. One of the Irish Martyrs.

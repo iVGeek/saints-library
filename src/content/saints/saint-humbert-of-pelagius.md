@@ -1,17 +1,17 @@
 ---
-name: "Saint Humbert of Pelagius"
+name: Saint Humbert of Pelagius
 honorific: Saint
-summary: " When his parents died, Humbert returned to the world to manage their estate. He took in Saint Amand of Maastricht as Born to the nobility, the son of Blessed Evrard and Popita. He was a pious youth, and became Benedictine monk at Laon, France while still a very young man. Priest."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Humbert-of-Pelagius.jpg"
+summary: ' When his parents died, Humbert returned to the world to manage their estate. He took in Saint Amand of Maastricht as Born to the nobility, the son of Blessed Evrard and Popita. He was a pious youth, and became Benedictine monk at Laon, France while still a very young man. Priest.'
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Humbert-of-Pelagius.jpg
 searchAliases:
-  - "Humbert of Marolles"
-  - "Humbert of Maroilles"
-  - "Umberto…"
+  - Humbert of Marolles
+  - Humbert of Maroilles
+  - Umberto…
 deathYear: 680
-born: "early 7th century at Mezieres-sur-Oise, France"
-died: "c.680"
-birthPlace: "France"
-region: "France"
+born: early 7th century at Mezieres-sur-Oise, France
+died: c.680
+birthPlace: France
+region: France
 feastDay:
   month: 3
   day: 25
@@ -19,8 +19,9 @@ canonizationStatus: Saint
 vocation:
   - Priest
   - Monk
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 martyr: false
+prayers: []
 ---
 
 Born to the nobility, the son of Blessed Evrard and Popita. He was a pious youth, and became Benedictine monk at Laon, France while still a very young man. Priest.

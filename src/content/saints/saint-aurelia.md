@@ -16,6 +16,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/7/72/Petronilla_bnfms.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Aurelia
 imageCreditUrl: https://en.wikipedia.org/wiki/Saint%20Petronilla
+prayers: []
 ---
 
 Martyred in the persecutions of Valerian.

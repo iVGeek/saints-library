@@ -1,13 +1,15 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint James of Sasseau"
+name: Saint James of Sasseau
 honorific: Saint
-summary: "Army officer, he travelled extensively. He was eventually assigned to Gaul where he retired. Priest at Clermont, France. Benedictine monk at Bourges, France. Hermit at Sasseau, France."
+summary: >-
+  Army officer, he travelled extensively. He was eventually assigned to Gaul where he retired. Priest at Clermont,
+  France. Benedictine monk at Bourges, France. Hermit at Sasseau, France.
 deathYear: 865
-born: "at Constantinople (modern Istanbul, Turkey)"
-died: "c.865 of natural causes"
-birthPlace: "Turkey)"
-region: "France"
+born: at Constantinople (modern Istanbul, Turkey)
+died: c.865 of natural causes
+birthPlace: Turkey)
+region: France
 feastDay:
   month: 11
   day: 19
@@ -17,8 +19,9 @@ vocation:
   - Monk
   - Hermit
   - Soldier
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 martyr: false
+prayers: []
 ---
 
 Army officer, he travelled extensively. He was eventually assigned to Gaul where he retired. Priest at Clermont, France. Benedictine monk at Bourges, France. Hermit at Sasseau, France.

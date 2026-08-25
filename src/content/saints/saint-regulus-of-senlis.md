@@ -1,16 +1,16 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Regulus of Senlis"
+name: Saint Regulus of Senlis
 honorific: Saint
-summary: "First bishop of Civitas Silvanectium, Gaul (modern Senlis, France)."
+summary: First bishop of Civitas Silvanectium, Gaul (modern Senlis, France).
 searchAliases:
-  - "Rieul"
-  - "Rule"
+  - Rieul
+  - Rule
 deathYear: 260
-born: "Greece"
-died: "c.260 at Senlis, France"
-deathPlace: "France"
-region: "France"
+born: Greece
+died: c.260 at Senlis, France
+deathPlace: France
+region: France
 feastDay:
   month: 3
   day: 30
@@ -20,8 +20,9 @@ vocation:
   - Priest
   - Monk
 patronage:
-  - "Senlis, France"
+  - Senlis, France
 martyr: false
+prayers: []
 ---
 
 First bishop of Civitas Silvanectium, Gaul (modern Senlis, France).

@@ -1,19 +1,22 @@
 ---
-name: "Saint Honorius of Amiens"
+name: Saint Honorius of Amiens
 honorific: Saint
-summary: "Born to the nobility. Known as a pious child, he was educated by Saint Beatus of Amiens. Reluctant bishop of Amiens, France, believing himself unworthy. Legend says that a ray of divine light and holy oil appeared upon his head at the time of his selection as bishop. Re-discovere"
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Honorius-of-Amiens.jpg"
+summary: >-
+  Born to the nobility. Known as a pious child, he was educated by Saint Beatus of Amiens. Reluctant bishop of Amiens,
+  France, believing himself unworthy. Legend says that a ray of divine light and holy oil appeared upon his head at the
+  time of his selection as bishop. Re-discovere
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Honorius-of-Amiens.jpg
 searchAliases:
-  - "Honoratus"
-  - "Honortus"
-  - "Honoré"
-  - "Onorato"
+  - Honoratus
+  - Honortus
+  - Honoré
+  - Onorato
 deathYear: 653
-born: "Porthieu, Amiens, France"
-died: "30 September 653 at Porthieu, Amiens, France of natural causes"
-birthPlace: "Amiens, France"
-deathPlace: "Amiens, Francenatural causes"
-region: "France"
+born: Porthieu, Amiens, France
+died: 30 September 653 at Porthieu, Amiens, France of natural causes
+birthPlace: Amiens, France
+deathPlace: Amiens, Francenatural causes
+region: France
 feastDay:
   month: 5
   day: 16
@@ -23,21 +26,22 @@ vocation:
   - Priest
   - Confessor
 patronage:
-  - "against drought"
-  - "bakers"
-  - "bakers of holy wafers"
-  - "cake makers"
-  - "candlemakers"
-  - "chandlers"
-  - "confectioners"
-  - "corn chandlers"
-  - "florists"
-  - "flour merchants"
-  - "oil refiners"
-  - "pastry chefs"
-  - "–"
-  - "Amiens, France"
+  - against drought
+  - bakers
+  - bakers of holy wafers
+  - cake makers
+  - candlemakers
+  - chandlers
+  - confectioners
+  - corn chandlers
+  - florists
+  - flour merchants
+  - oil refiners
+  - pastry chefs
+  - –
+  - Amiens, France
 martyr: false
+prayers: []
 ---
 
 Born to the nobility. Known as a pious child, he was educated by Saint Beatus of Amiens. Reluctant bishop of Amiens, France, believing himself unworthy. Legend says that a ray of divine light and holy oil appeared upon his head at the time of his selection as bishop. Re-discovered the relics of Saint Victoricus of Amiens, Saint Fuscian of Amiens, and Saint Gentian of Amiens, which had been lost for 300 years.

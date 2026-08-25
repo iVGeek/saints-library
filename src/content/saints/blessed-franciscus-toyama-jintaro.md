@@ -1,15 +1,15 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Franciscus Toyama Jintaro"
+name: Blessed Franciscus Toyama Jintaro
 honorific: Blessed
-summary: "Young layman of the diocese of Hiroshima, Japan. Martyr."
+summary: Young layman of the diocese of Hiroshima, Japan. Martyr.
 birthYear: 1600
 deathYear: 1624
-born: "c.1600 in Yamanashi, Japan"
-died: "16 February 1624 in Hiroshima, Japan"
-birthPlace: "Japan"
-deathPlace: "Japan"
-region: "Japan"
+born: c.1600 in Yamanashi, Japan
+died: 16 February 1624 in Hiroshima, Japan
+birthPlace: Japan
+deathPlace: Japan
+region: Japan
 feastDay:
   month: 2
   day: 16
@@ -17,6 +17,7 @@ canonizationStatus: Blessed
 vocation:
   - Cardinal
 martyr: true
+prayers: []
 ---
 
 Young layman of the diocese of Hiroshima, Japan. Martyr.

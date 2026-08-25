@@ -1,9 +1,9 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Lindru of Partois"
+name: Saint Lindru of Partois
 honorific: Saint
-summary: "Nun in Partois, France."
-region: "France"
+summary: Nun in Partois, France.
+region: France
 feastDay:
   month: 9
   day: 22
@@ -12,6 +12,7 @@ vocation:
   - Monk
   - Religious
 martyr: false
+prayers: []
 ---
 
 Nun in Partois, France.

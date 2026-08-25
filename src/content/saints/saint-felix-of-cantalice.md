@@ -28,6 +28,7 @@ religiousOrder: Franciscan
 patronage:
   - Cantalice, Italy
 martyr: false
+prayers: []
 ---
 
 Born to pious peasants, he was a shepherd in his youth. At age nine he was hired out as a shepherd and farm hand at Cotta Ducale; he worked there over twenty years. A pious youth and man, Felix spent his free time in prayer.

@@ -21,6 +21,7 @@ vocation:
 patronage:
   - Aulla, Italy
 martyr: false
+prayers: []
 ---
 
 Hermit in Provence and Lerins, France, and in Greece. Friend of Saint Honoratus of Arles and Saint Venantius. With Saint Honoratus, he founded a monastery at Lerins, and eventually served as its abbot.

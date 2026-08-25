@@ -1,14 +1,16 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint John of Vilna"
+name: Saint John of Vilna
 honorific: Saint
-summary: "Young nobleman at the court of Duke Olgierd. Originally a fire worshipper, he converted to Christianity. Martyred for refusing to eat meat on a day of abstinence."
+summary: >-
+  Young nobleman at the court of Duke Olgierd. Originally a fire worshipper, he converted to Christianity. Martyred for
+  refusing to eat meat on a day of abstinence.
 searchAliases:
-  - "Milhey"
+  - Milhey
 deathYear: 1342
-died: "crucified on a tree in 13 December 1342 at Vilna, Lithuania"
-deathPlace: "Lithuania"
-region: "Italy"
+died: crucified on a tree in 13 December 1342 at Vilna, Lithuania
+deathPlace: Lithuania
+region: Italy
 feastDay:
   month: 4
   day: 14
@@ -17,8 +19,9 @@ vocation:
   - Priest
   - Monk
 patronage:
-  - "Vilna, Lithuania"
+  - Vilna, Lithuania
 martyr: true
+prayers: []
 ---
 
 Young nobleman at the court of Duke Olgierd. Originally a fire worshipper, he converted to Christianity. Martyred for refusing to eat meat on a day of abstinence.

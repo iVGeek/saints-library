@@ -1,14 +1,17 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Richimir"
+name: Saint Richimir
 honorific: Saint
-summary: "Benedictine monk. With a group of disciple brother monks, and with the support of the bishop of Le Mans, France, he founded the Benedictine monastery now known as Saint-Rigomer-des-Bois in the Loire Valley of France, and served as its first abbot."
+summary: >-
+  Benedictine monk. With a group of disciple brother monks, and with the support of the bishop of Le Mans, France, he
+  founded the Benedictine monastery now known as Saint-Rigomer-des-Bois in the Loire Valley of France, and served as its
+  first abbot.
 searchAliases:
-  - "Richimirus"
-  - "Rigomer"
+  - Richimirus
+  - Rigomer
 deathYear: 715
-died: "c.715 of natural causes"
-region: "France"
+died: c.715 of natural causes
+region: France
 feastDay:
   month: 1
   day: 17
@@ -16,8 +19,9 @@ canonizationStatus: Saint
 vocation:
   - Bishop
   - Monk
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 martyr: false
+prayers: []
 ---
 
 Benedictine monk. With a group of disciple brother monks, and with the support of the bishop of Le Mans, France, he founded the Benedictine monastery now known as Saint-Rigomer-des-Bois in the Loire Valley of France, and served as its first abbot.

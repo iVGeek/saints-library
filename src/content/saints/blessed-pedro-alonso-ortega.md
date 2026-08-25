@@ -1,25 +1,26 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Pedro Alonso Ortega"
+name: Blessed Pedro Alonso Ortega
 honorific: Blessed
-summary: "Monk. Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
+summary: Monk. Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War.
 searchAliases:
-  - "Marino"
+  - Marino
 birthYear: 1901
 deathYear: 1936
-born: "14 January 1901 in Amaya, Burgos, Spain"
-died: "22 July 1936 in Redueña, Madrid, Spain"
-birthPlace: "Burgos, Spain"
-deathPlace: "Madrid, Spain"
-region: "Spain"
+born: 14 January 1901 in Amaya, Burgos, Spain
+died: 22 July 1936 in Redueña, Madrid, Spain
+birthPlace: Burgos, Spain
+deathPlace: Madrid, Spain
+region: Spain
 feastDay:
   month: 7
   day: 22
 canonizationStatus: Blessed
 vocation:
   - Monk
-religiousOrder: "Marist"
+religiousOrder: Marist
 martyr: true
+prayers: []
 ---
 
 Monk. Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War.

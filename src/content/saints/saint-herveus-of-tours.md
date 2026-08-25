@@ -1,15 +1,15 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Herveus of Tours"
+name: Saint Herveus of Tours
 honorific: Saint
-summary: "Monk and treasurer of the Saint Martin of Tours Abbey where, though he was one of the brothers, he lived as a hermit."
+summary: Monk and treasurer of the Saint Martin of Tours Abbey where, though he was one of the brothers, he lived as a hermit.
 searchAliases:
-  - "Herve"
+  - Herve
 deathYear: 1021
-born: "at Touraine, France"
-died: "1021"
-birthPlace: "France"
-region: "France"
+born: at Touraine, France
+died: '1021'
+birthPlace: France
+region: France
 feastDay:
   month: 4
   day: 16
@@ -18,6 +18,7 @@ vocation:
   - Monk
   - Hermit
 martyr: false
+prayers: []
 ---
 
 Monk and treasurer of the Saint Martin of Tours Abbey where, though he was one of the brothers, he lived as a hermit.

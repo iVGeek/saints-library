@@ -1,14 +1,16 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Siviard"
+name: Saint Siviard
 honorific: Saint
-summary: "Monk at Saint-Calais Abbey on the River Anisole in France where his father served as abbot. He served as abbot himself, and wrote a biography of Saint Calais, the founder of the monastery."
+summary: >-
+  Monk at Saint-Calais Abbey on the River Anisole in France where his father served as abbot. He served as abbot
+  himself, and wrote a biography of Saint Calais, the founder of the monastery.
 searchAliases:
-  - "Siviardo"
-  - "Siviardus"
+  - Siviardo
+  - Siviardus
 deathYear: 729
-died: "c.729"
-region: "France"
+died: c.729
+region: France
 feastDay:
   month: 3
   day: 1
@@ -16,8 +18,9 @@ canonizationStatus: Saint
 vocation:
   - Priest
   - Monk
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 martyr: false
+prayers: []
 ---
 
 Monk at Saint-Calais Abbey on the River Anisole in France where his father served as abbot. He served as abbot himself, and wrote a biography of Saint Calais, the founder of the monastery.

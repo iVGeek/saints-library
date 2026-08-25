@@ -1,20 +1,23 @@
 ---
-name: "Saint Lupus of Sens"
+name: Saint Lupus of Sens
 honorific: Saint
-summary: "Born to the Burgundian nobility, he was early noted to have a love to Christ and the Church. Nephew of Saint Austremius of Orleans, and Saint Aunarius of Auxerre who both saw to his education. Noted for his love of music and his generosity to the poor. Monk at Lérins. Priest. Arc"
-image: "https://upload.wikimedia.org/wikipedia/commons/8/82/SaintLupusSens.jpg"
+summary: >-
+  Born to the Burgundian nobility, he was early noted to have a love to Christ and the Church. Nephew of Saint
+  Austremius of Orleans, and Saint Aunarius of Auxerre who both saw to his education. Noted for his love of music and
+  his generosity to the poor. Monk at Lérins. Priest. Arc
+image: https://upload.wikimedia.org/wikipedia/commons/8/82/SaintLupusSens.jpg
 searchAliases:
-  - "Leu"
-  - "Loup"
-  - "Lowe"
-  - "Lupo"
-  - "Wolf"
+  - Leu
+  - Loup
+  - Lowe
+  - Lupo
+  - Wolf
 deathYear: 623
-born: "near Orleans, Gaul (in modern France) as Wolf"
-died: "623 in Brienon-sur-Armançon, Yonne, France of natural causes"
-birthPlace: "Gaul (modern France) as Wolf"
-deathPlace: "Yonne, Francenatural causes"
-region: "France"
+born: near Orleans, Gaul (in modern France) as Wolf
+died: 623 in Brienon-sur-Armançon, Yonne, France of natural causes
+birthPlace: Gaul (modern France) as Wolf
+deathPlace: Yonne, Francenatural causes
+region: France
 feastDay:
   month: 9
   day: 1
@@ -25,10 +28,11 @@ vocation:
   - Monk
   - Confessor
 patronage:
-  - "against epilepsy; of epileptics"
-  - "–"
-  - "Sens, France"
+  - against epilepsy; of epileptics
+  - –
+  - Sens, France
 martyr: false
+prayers: []
 ---
 
 Born to the Burgundian nobility, he was early noted to have a love to Christ and the Church. Nephew of Saint Austremius of Orleans, and Saint Aunarius of Auxerre who both saw to his education. Noted for his love of music and his generosity to the poor. Monk at Lérins. Priest. Archbishop of Sens, Burgundy (in modern France) in 609.

@@ -1,15 +1,15 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Frederíc Vila Bartolì"
+name: Blessed Frederíc Vila Bartolì
 honorific: Blessed
-summary: "Claretian priest. Martyred in the Spanish Civil War."
+summary: Claretian priest. Martyred in the Spanish Civil War.
 birthYear: 1884
 deathYear: 1936
-born: "3 March 1884 in Brull, Barcelona, Spain"
-died: "11 November 1936 in Torredembarra, Tarragona, Spain"
-birthPlace: "Barcelona, Spain"
-deathPlace: "Tarragona, Spain"
-region: "Spain"
+born: 3 March 1884 in Brull, Barcelona, Spain
+died: 11 November 1936 in Torredembarra, Tarragona, Spain
+birthPlace: Barcelona, Spain
+deathPlace: Tarragona, Spain
+region: Spain
 feastDay:
   month: 11
   day: 11
@@ -17,6 +17,7 @@ canonizationStatus: Blessed
 vocation:
   - Priest
 martyr: true
+prayers: []
 ---
 
 Claretian priest. Martyred in the Spanish Civil War.

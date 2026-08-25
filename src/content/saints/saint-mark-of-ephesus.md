@@ -12,6 +12,7 @@ canonizationStatus: Saint
 image: https://commons.wikimedia.org/wiki/Special:FilePath/SaintMarkRochesterMinnesota.jpg?width=600
 vocation: []
 martyr: true
+prayers: []
 ---
 
 Martyr.

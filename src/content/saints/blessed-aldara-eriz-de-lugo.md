@@ -36,6 +36,7 @@ imageCredit: >-
   href="https://archive.org/download/agiologiolusitan02card_0/agiologiolusitan02card_0.pdf">https://archive.org/download/agiologiolusitan02card_0/agiologiolusitan02card_0.pdf</a></dd></dl>
 imageCreditUrl: >-
   https://commons.wikimedia.org/wiki/File:Agiologio%20lusitano%20dos%20sanctos%20e%20varoens%20illustres%20em%20virtude%20do%20reino%20de%20Portugal%20e%20suas%20conquistas%20(IA%20agiologiolusitan02card%200).pdf
+prayers: []
 ---
 
 Born to the Galician nobility, the daughter of Count Ero Fernández and Adosinda Romanez de Monterroso; sister of Saint Godiña. Married to Count Gutier Menéndez, she was the mother of Saint Rudesind, Count Froila Gutiérrez of Trastámara, Count Munio Guterres de Celanova of Sobrado, Ermesinda Gutiérrez de Coimbra, Froila Guterres, and Alosinda; legend says that she was infertile for several years, but following a vision of an angel by Count Gutier, he freed indentured servants, built a chapel, gave away half his wealth, and soon there were children. Aldara was known for her personal piety and devotion to penance. When she was widowed c.935, she helped found the Benedictine convent of Santa Maria di Villanueva near Cellanova, Galicia, Spain, and then joined the house as a nun; her daughter Alosinda served as her abbess.

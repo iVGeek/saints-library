@@ -1,24 +1,30 @@
 ---
-name: "Venerable Francisco Barrecheguren Montagut"
+name: Venerable Francisco Barrecheguren Montagut
 honorific: Venerable
-summary: "Francisco's father died when the boy was eleven months old, his mother when he was five years, and he was raised by his uncles in Granada, Spain. He studied at the Jesuit College of El Palo in Malaga, Spain from 1892 to 1897. Married to Concha García Calvo in 1904. Their daughter"
-image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Francisco-Barrecheguren-Montagut.jpg"
+summary: >-
+  Francisco's father died when the boy was eleven months old, his mother when he was five years, and he was raised by
+  his uncles in Granada, Spain. He studied at the Jesuit College of El Palo in Malaga, Spain from 1892 to 1897. Married
+  to Concha García Calvo in 1904. Their daughter
+image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Francisco-Barrecheguren-Montagut.jpg
 birthYear: 1881
 deathYear: 1957
-born: "21 August 1881 in Lleida, Spain"
-died: "7 October 1957 in Granada, Spain of natural causes"
-birthPlace: "Spain"
-deathPlace: "Spaof natural causes"
-region: "Spain"
+born: 21 August 1881 in Lleida, Spain
+died: 7 October 1957 in Granada, Spain of natural causes
+birthPlace: Spain
+deathPlace: Spaof natural causes
+region: Spain
 feastDay:
   month: 11
   day: 27
-centuries: [19, 20]
+centuries:
+  - 19
+  - 20
 canonizationStatus: Venerable
 vocation:
   - Priest
-religiousOrder: "Jesuit"
+religiousOrder: Jesuit
 martyr: false
+prayers: []
 ---
 
 Francisco's father died when the boy was eleven months old, his mother when he was five years, and he was raised by his uncles in Granada, Spain. He studied at the Jesuit College of El Palo in Malaga, Spain from 1892 to 1897. Married to Concha García Calvo in 1904. Their daughter, Venerable Conchita Barrecheguren, was born on 27 November 1905 and died on 13 May 1927. Francisco was left alone in 1937 when his wife Concha died.

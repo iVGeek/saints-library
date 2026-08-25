@@ -1,21 +1,24 @@
 ---
-name: "Saint Theodosius the Cenobiarch"
+name: Saint Theodosius the Cenobiarch
 honorific: Saint
-summary: "Born to a pious family, he began his studies at an early age, and became a lector while still a youth. The example of Abraham led him to leave home in order to properly follow God. He met Saint Simeon Stylites in Antioch; Simeon recognized him as a holy man and leader, and invite"
-image: "https://upload.wikimedia.org/wikipedia/commons/9/95/Theodosius_the_Cenobiarch.jpg"
+summary: >-
+  Born to a pious family, he began his studies at an early age, and became a lector while still a youth. The example of
+  Abraham led him to leave home in order to properly follow God. He met Saint Simeon Stylites in Antioch; Simeon
+  recognized him as a holy man and leader, and invite
+image: https://upload.wikimedia.org/wikipedia/commons/9/95/Theodosius_the_Cenobiarch.jpg
 searchAliases:
-  - "Theodosius of Cappadocia"
-  - "Theodosius the Coenobriarch"
-  - "Theodosius the Great"
-  - "Theodosios…."
-  - "Theodossios…"
-  - "Teodosio il Cenobiarca"
+  - Theodosius of Cappadocia
+  - Theodosius the Coenobriarch
+  - Theodosius the Great
+  - Theodosios….
+  - Theodossios…
+  - Teodosio il Cenobiarca
 birthYear: 423
 deathYear: 529
-born: "423 at Garissus, Cappadocia (modern Turkey)"
-died: "529 at Cathismus of natural causes"
-birthPlace: "Cappadocia (modern Turkey)"
-region: "Turkey"
+born: 423 at Garissus, Cappadocia (modern Turkey)
+died: 529 at Cathismus of natural causes
+birthPlace: Cappadocia (modern Turkey)
+region: Turkey
 feastDay:
   month: 1
   day: 11
@@ -23,8 +26,9 @@ canonizationStatus: Saint
 vocation:
   - Priest
 patronage:
-  - "file makers"
+  - file makers
 martyr: false
+prayers: []
 ---
 
 Born to a pious family, he began his studies at an early age, and became a lector while still a youth. The example of Abraham led him to leave home in order to properly follow God. He met Saint Simeon Stylites in Antioch; Simeon recognized him as a holy man and leader, and invited Theodosius onto his pillar for prayer, blessing, and advice. Travelled to Jerusalem where legend says worked with Saint Longinus the Centurian, who would have been nearly 500 years old at the time. Head of a church near Bethlehem.

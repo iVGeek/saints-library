@@ -28,6 +28,7 @@ patronage:
     Foligno, city of
   - Foligno, diocese of
 martyr: true
+prayers: []
 ---
 
 Spiritual student of Pope Saint Eleutherius during his missionary days. Priest. Consecrated bishop of Foligno, Italy by Pope Victor I in Rome c.204; he was the first bishop given the pallium as symbol of his office. For a time, Felician was the only bishop in northern Italy. Ordained Saint Valentine of Terni as priest. Arrested, tortured and martyred at age 94 in the persecutions of Decius, dying en route to a triumph for Decius.

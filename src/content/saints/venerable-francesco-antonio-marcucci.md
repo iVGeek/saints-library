@@ -1,27 +1,32 @@
 ---
-name: "Venerable Francesco Antonio Marcucci"
+name: Venerable Francesco Antonio Marcucci
 honorific: Venerable
-summary: "Born to the nobility, the only son of Giovanna Battista Gigli and Leopoldo Marcucci. Francesco was drawn to the priesthood, but as he was an only child, his family objected. When his mother died, he moved to Rome, Italy. With the support of his aunt, Contessa Francesca Gastaldi,"
-image: "http://catholicsaints.info/wp-content/uploads/Francisco-Antonio-Marcucci.jpg"
+summary: >-
+  Born to the nobility, the only son of Giovanna Battista Gigli and Leopoldo Marcucci. Francesco was drawn to the
+  priesthood, but as he was an only child, his family objected. When his mother died, he moved to Rome, Italy. With the
+  support of his aunt, Contessa Francesca Gastaldi,
+image: http://catholicsaints.info/wp-content/uploads/Francisco-Antonio-Marcucci.jpg
 birthYear: 1717
 deathYear: 1798
-born: "27 November 1717 in Force, Ascoli Piceno, Italy"
-died: "12 July 1798 in Montalto delle Marche, Ascoli Piceno, Italy of natural causes"
-birthPlace: "Ascoli Piceno, Italy"
-deathPlace: "Ascoli Piceno, Italynatural causes"
-region: "France"
+born: 27 November 1717 in Force, Ascoli Piceno, Italy
+died: 12 July 1798 in Montalto delle Marche, Ascoli Piceno, Italy of natural causes
+birthPlace: Ascoli Piceno, Italy
+deathPlace: Ascoli Piceno, Italynatural causes
+region: France
 feastDay:
   month: 2
   day: 25
-centuries: [18]
+centuries:
+  - 18
 canonizationStatus: Venerable
 vocation:
   - Bishop
   - Priest
   - Missionary
   - Confessor
-religiousOrder: "Jesuit"
+religiousOrder: Jesuit
 martyr: false
+prayers: []
 ---
 
 Born to the nobility, the only son of Giovanna Battista Gigli and Leopoldo Marcucci. Francesco was drawn to the priesthood, but as he was an only child, his family objected. When his mother died, he moved to Rome, Italy. With the support of his aunt, Contessa Francesca Gastaldi, he studied in colleges run by the Jesuits, the Dominicans and the Franciscans, and made a special study of preaching. Met Saint Leonard of Port Maurice in April 1739, and was greatly influenced by his speaking style. Wrote Introduction on Evangelic Preaching in 1740. Ordained on 25 February 1741.

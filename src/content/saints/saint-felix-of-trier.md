@@ -14,6 +14,7 @@ image: https://commons.wikimedia.org/wiki/Special:FilePath/TabulaEpiscoporumTrev
 vocation:
   - Bishop
 martyr: false
+prayers: []
 ---
 
 Bishop of Trier, Germany in 386, consecrated by Saint Martin of Tours.

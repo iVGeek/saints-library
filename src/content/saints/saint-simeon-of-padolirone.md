@@ -1,12 +1,14 @@
 ---
-name: "Saint Simeon of Padolirone"
+name: Saint Simeon of Padolirone
 honorific: Saint
-summary: "Hermit. Pilgrim to Jerusalem, to Rome, Italy, to Compostella, Spain, and to Tours, France. Miracle worker. Monk at Padolirone Abbey near Padua, Italy."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Simeon-of-Padolirone.jpg"
+summary: >-
+  Hermit. Pilgrim to Jerusalem, to Rome, Italy, to Compostella, Spain, and to Tours, France. Miracle worker. Monk at
+  Padolirone Abbey near Padua, Italy.
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Simeon-of-Padolirone.jpg
 deathYear: 1016
-born: "Armenia"
-died: "1016"
-region: "France"
+born: Armenia
+died: '1016'
+region: France
 feastDay:
   month: 7
   day: 26
@@ -15,6 +17,7 @@ vocation:
   - Monk
   - Hermit
 martyr: false
+prayers: []
 ---
 
 Hermit. Pilgrim to Jerusalem, to Rome, Italy, to Compostella, Spain, and to Tours, France. Miracle worker. Monk at Padolirone Abbey near Padua, Italy.

@@ -26,6 +26,7 @@ imageCredit: >-
   <a rel="nofollow" class="external free"
   href="http://exhibits.slpl.org/scanned/deriv2/lpe00271.jpg">http://exhibits.slpl.org/scanned/deriv2/lpe00271.jpg</a>
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:Roque%20competition%20during%201904%20Summer%20Olympics.jpg
+prayers: []
 ---
 
 Monk. Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War.

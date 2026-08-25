@@ -1,27 +1,33 @@
 ---
-name: "Saint Jane Antide Thouret"
+name: Saint Jane Antide Thouret
 honorific: Venerable
-summary: "Daughter of a tanner. Her mother died when Jane was 16 years old, leaving the girl to manage the family and help her father raise her younger siblings. Joined the Sisters of Charity of Saint Vincent de Paul in 1787 at Paris, France, and worked in various hospitals over the next f"
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Jeanne-Antide-Thouret.jpg"
+summary: >-
+  Daughter of a tanner. Her mother died when Jane was 16 years old, leaving the girl to manage the family and help her
+  father raise her younger siblings. Joined the Sisters of Charity of Saint Vincent de Paul in 1787 at Paris, France,
+  and worked in various hospitals over the next f
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Jeanne-Antide-Thouret.jpg
 searchAliases:
-  - "Joan Antide Thouret"
-  - "Jeanne Antide Thouret"
-  - "Giovanna Antida Thouret"
+  - Joan Antide Thouret
+  - Jeanne Antide Thouret
+  - Giovanna Antida Thouret
 birthYear: 1765
 deathYear: 1826
-born: "27 November 1765 at Sancy-le-Long, diocese of Besan&ccedil;on, France"
-died: "24 August 1826 at Naples, Italy of natural causes"
-birthPlace: "dioceseBesan&ccedil;on, France"
-deathPlace: "Italynatural causes"
-region: "Germany"
+born: 27 November 1765 at Sancy-le-Long, diocese of Besan&ccedil;on, France
+died: 24 August 1826 at Naples, Italy of natural causes
+birthPlace: dioceseBesan&ccedil;on, France
+deathPlace: Italynatural causes
+region: Germany
 feastDay:
   month: 8
   day: 24
-centuries: [18, 19]
+centuries:
+  - 18
+  - 19
 canonizationStatus: Venerable
 vocation:
   - Confessor
 martyr: false
+prayers: []
 ---
 
 Daughter of a tanner. Her mother died when Jane was 16 years old, leaving the girl to manage the family and help her father raise her younger siblings. Joined the Sisters of Charity of Saint Vincent de Paul in 1787 at Paris, France, and worked in various hospitals over the next five years. During the suppression of religious orders in the French Revolution, she was ordered to return home to a secular life. Jane refused, and tried to escape the authorities; she was beaten so badly that it took months to recover.

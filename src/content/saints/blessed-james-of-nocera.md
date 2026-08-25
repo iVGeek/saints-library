@@ -1,13 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed James of Nocera"
+name: Blessed James of Nocera
 honorific: Blessed
-summary: "Monk at Santa Croce di' Fontavellana."
+summary: Monk at Santa Croce di' Fontavellana.
 deathYear: 1300
-born: "at Nocera, Umbria, Italy"
-died: "1300 of natural causes"
-birthPlace: "Umbria, Italy"
-region: "Italy"
+born: at Nocera, Umbria, Italy
+died: 1300 of natural causes
+birthPlace: Umbria, Italy
+region: Italy
 feastDay:
   month: 5
   day: 27
@@ -15,6 +15,7 @@ canonizationStatus: Blessed
 vocation:
   - Monk
 martyr: false
+prayers: []
 ---
 
 Monk at Santa Croce di' Fontavellana.

@@ -1,9 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Thalassius"
+name: Saint Thalassius
 honorific: Saint
-summary: "Fifth-century cave hermit near Cyrrhus (in modern Syria). Spiritual teacher of Saint limnaeus. Known for his personal piety and holiness."
-region: "Syria"
+summary: >-
+  Fifth-century cave hermit near Cyrrhus (in modern Syria). Spiritual teacher of Saint limnaeus. Known for his personal
+  piety and holiness.
+region: Syria
 feastDay:
   month: 2
   day: 22
@@ -12,6 +14,7 @@ vocation:
   - Monk
   - Hermit
 martyr: false
+prayers: []
 ---
 
 Fifth-century cave hermit near Cyrrhus (in modern Syria). Spiritual teacher of Saint limnaeus. Known for his personal piety and holiness.

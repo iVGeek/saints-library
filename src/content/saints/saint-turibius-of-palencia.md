@@ -1,20 +1,23 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Turibius of Palencia"
+name: Saint Turibius of Palencia
 honorific: Saint
-summary: "Founder of the Saint Martin of Tours monastery in Liébana, Asturias, Spain, and served as it's first abbot, a house that became a noted Benedictine stronghold."
+summary: >-
+  Founder of the Saint Martin of Tours monastery in Liébana, Asturias, Spain, and served as it's first abbot, a house
+  that became a noted Benedictine stronghold.
 deathYear: 528
-born: "Palencia, Spain"
-died: "c.528 of natural causes"
-birthPlace: "Spain"
-region: "Spain"
+born: Palencia, Spain
+died: c.528 of natural causes
+birthPlace: Spain
+region: Spain
 feastDay:
   month: 11
   day: 11
 canonizationStatus: Saint
 vocation: []
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 martyr: false
+prayers: []
 ---
 
 Founder of the Saint Martin of Tours monastery in Liébana, Asturias, Spain, and served as it's first abbot, a house that became a noted Benedictine stronghold.

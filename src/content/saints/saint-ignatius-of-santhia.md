@@ -30,6 +30,7 @@ vocation:
   - Confessor
 religiousOrder: Capuchin
 martyr: false
+prayers: []
 ---
 
 Ordained in 1710 in the diocese of Vercelli, Italy. Parish priest for six years. He was offered a position of authority in the diocese, but declined, and on 24 May 1716 he became a novice in the Capuchins of Turin, Italy, taking the name Ignatius, and beginning 54 years of service in the Order.

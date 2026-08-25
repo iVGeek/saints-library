@@ -1,14 +1,17 @@
 ---
-name: "Blessed Émilie Tavernier Gamelin"
+name: Blessed Émilie Tavernier Gamelin
 honorific: Blessed
-summary: "Daughter of Antoine Tavernier and Marie-Josephte Maurice, the youngest of 15 children. Orphaned young, and raised by her aunts. Educated by the Sisters of the Congregation of Notre Dame at the Saint-Jean-Baptiste Street school. Felt drawn from an early age to work with the poor a"
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Émilie-Tavernier-Gamelin-1.jpg"
+summary: >-
+  Daughter of Antoine Tavernier and Marie-Josephte Maurice, the youngest of 15 children. Orphaned young, and raised by
+  her aunts. Educated by the Sisters of the Congregation of Notre Dame at the Saint-Jean-Baptiste Street school. Felt
+  drawn from an early age to work with the poor a
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Émilie-Tavernier-Gamelin-1.jpg
 searchAliases:
-  - "Émilie Tavernier"
+  - Émilie Tavernier
 birthYear: 1800
-born: "19 February 1800 at Montreal, Canada"
-birthPlace: "Canada"
-region: "Argentina"
+born: 19 February 1800 at Montreal, Canada
+birthPlace: Canada
+region: Argentina
 feastDay:
   month: 9
   day: 23
@@ -18,6 +21,7 @@ vocation:
   - Priest
   - Religious
 martyr: false
+prayers: []
 ---
 
 Daughter of Antoine Tavernier and Marie-Josephte Maurice, the youngest of 15 children. Orphaned young, and raised by her aunts. Educated by the Sisters of the Congregation of Notre Dame at the Saint-Jean-Baptiste Street school. Felt drawn from an early age to work with the poor and disadvantaged; when her brother was widowed, the 18 year old Emilie went to help him on one condition – their table would always be open to the hungry who came to the door.

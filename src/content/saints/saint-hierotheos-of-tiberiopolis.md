@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Hierotheos of Tiberiopolis"
+name: Saint Hierotheos of Tiberiopolis
 honorific: Saint
-summary: "Monk. Martyred in the persecutions of Julian the Apostate. No other information has survived."
+summary: Monk. Martyred in the persecutions of Julian the Apostate. No other information has survived.
 deathYear: 361
-died: "beheaded in 361 at Tiberiopolis, Phrygia Pacatiana, Asia Minor"
-deathPlace: "Phrygia Pacatiana, Asia Minor"
+died: beheaded in 361 at Tiberiopolis, Phrygia Pacatiana, Asia Minor
+deathPlace: Phrygia Pacatiana, Asia Minor
 feastDay:
   month: 11
   day: 28
@@ -13,6 +13,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Monk. Martyred in the persecutions of Julian the Apostate. No other information has survived.

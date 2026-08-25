@@ -17,6 +17,7 @@ image: >-
 imageAlt: Portrait of Martyrs of Bulgaria
 imageCredit: <a rel="nofollow" class="external free" href="http://orthodoxico.com/">http://orthodoxico.com/</a>
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:Saint%20nedelja%20(kyriaki)%20bulgaria%20icon.gif
+prayers: []
 ---
 
 An unknown number of Christians killed for their faith during the 9th century war between the Greek Emperor Nicephorus and the Bulgars.

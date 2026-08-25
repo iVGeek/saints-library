@@ -1,15 +1,16 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Francesca of Gubbio"
+name: Blessed Francesca of Gubbio
 honorific: Blessed
-summary: "Franciscan tertiary."
+summary: Franciscan tertiary.
 feastDay:
   month: 2
   day: 6
 canonizationStatus: Blessed
 vocation: []
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 martyr: false
+prayers: []
 ---
 
 Franciscan tertiary.

@@ -17,6 +17,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/7/7d/TrierStPaulinSt.ThyrsusH1b.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Callinicus of Apollonia
 imageCreditUrl: https://en.wikipedia.org/wiki/Saint%20Thyrsus
+prayers: []
 ---
 
 Martyred in the persecutions of Decius. No other information has survived.

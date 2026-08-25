@@ -18,6 +18,7 @@ vocation:
   - Monk
   - Confessor
 martyr: false
+prayers: []
 ---
 
 Father of Saint James the Less, as mentioned in Matthew 10:3 (….James, the son of Alphaeus….). Confessor of the faith. No other information about him has survived.

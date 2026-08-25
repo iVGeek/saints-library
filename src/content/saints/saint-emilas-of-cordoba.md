@@ -22,6 +22,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/2/28/EulogioCordovamart.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Emilas of Cordoba
 imageCreditUrl: https://en.wikipedia.org/wiki/Martyrs%20of%20C%C3%B3rdoba
+prayers: []
 ---
 
 Deacon. Friend of and fellow student with Saint Jeremias at Cordova, Spain during a time when the city was under Moorish control. The two were very open about their Christianity. Martyred in the persecutions of Caliph Abderrahman.

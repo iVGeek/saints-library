@@ -1,13 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Audactus of Thibiuca"
+name: Saint Audactus of Thibiuca
 honorific: Saint
-summary: "Martyred in the persecutions of Diocletian."
+summary: Martyred in the persecutions of Diocletian.
 searchAliases:
-  - "Adauctus"
+  - Adauctus
 deathYear: 303
-died: "303"
-region: "Italy"
+died: '303'
+region: Italy
 feastDay:
   month: 10
   day: 24
@@ -17,6 +17,7 @@ vocation:
   - Priest
   - Monk
 martyr: true
+prayers: []
 ---
 
 Martyred in the persecutions of Diocletian.

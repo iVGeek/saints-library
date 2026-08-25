@@ -1,12 +1,12 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed John of Ghent"
+name: Blessed John of Ghent
 honorific: Blessed
-summary: "Benedictine monk at the abbey of Sainte-Claude in the Jura Mountains. Worked with Saint Joan of Arc."
+summary: Benedictine monk at the abbey of Sainte-Claude in the Jura Mountains. Worked with Saint Joan of Arc.
 searchAliases:
-  - "Hermit of Saint Claude"
+  - Hermit of Saint Claude
 deathYear: 1439
-died: "1439 of natural causes"
+died: 1439 of natural causes
 feastDay:
   month: 9
   day: 29
@@ -14,8 +14,9 @@ canonizationStatus: Blessed
 vocation:
   - Monk
   - Hermit
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 martyr: false
+prayers: []
 ---
 
 Benedictine monk at the abbey of Sainte-Claude in the Jura Mountains. Worked with Saint Joan of Arc.

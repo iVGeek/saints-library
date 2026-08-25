@@ -1,16 +1,16 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Abdelcalas"
+name: Saint Abdelcalas
 honorific: Saint
-summary: "Elderly priest martyred with about 100 other believers during the persecutions of King Sapor II."
+summary: Elderly priest martyred with about 100 other believers during the persecutions of King Sapor II.
 searchAliases:
-  - "Abdelchalas"
-  - "Abdecalas"
-  - "Abdelas"
+  - Abdelchalas
+  - Abdecalas
+  - Abdelas
 deathYear: 345
-born: "Persian"
-died: "Good Friday 345"
-region: "England"
+born: Persian
+died: Good Friday 345
+region: England
 feastDay:
   month: 4
   day: 21
@@ -19,6 +19,7 @@ vocation:
   - Priest
   - Monk
 martyr: true
+prayers: []
 ---
 
 Elderly priest martyred with about 100 other believers during the persecutions of King Sapor II.

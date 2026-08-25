@@ -1,30 +1,36 @@
 ---
-name: "Saint Rocco Gonzalez"
+name: Saint Rocco Gonzalez
 honorific: Venerable
-summary: "Born to the Paraguayan nobility. Jesuit priest. One of the architects of the Jesuit Reductions in Paraguay. Realizing the damage of the slave trade, the Jesuits gathered the indigenous Indians and went inland. In Paraguay, beginning in 1609, they built settlements, taught agricul"
-image: "http://catholicsaints.info/wp-content/uploads/Roque_González_de_Santa_Cruz.jpg"
+summary: >-
+  Born to the Paraguayan nobility. Jesuit priest. One of the architects of the Jesuit Reductions in Paraguay. Realizing
+  the damage of the slave trade, the Jesuits gathered the indigenous Indians and went inland. In Paraguay, beginning in
+  1609, they built settlements, taught agricul
+image: http://catholicsaints.info/wp-content/uploads/Roque_González_de_Santa_Cruz.jpg
 searchAliases:
-  - "Roch Gonzalez"
-  - "Roque Gonzalez"
+  - Roch Gonzalez
+  - Roque Gonzalez
 birthYear: 1576
 deathYear: 1628
-born: "1576 at Asunción, Paraguay"
-died: "martyred on 15 November 1628 at Caaro, Brazil, just as he finished celebrating Mass"
-birthPlace: "Paraguay"
-deathPlace: "Brazil, just as he finished celebrating Mass"
-region: "India"
+born: 1576 at Asunción, Paraguay
+died: martyred on 15 November 1628 at Caaro, Brazil, just as he finished celebrating Mass
+birthPlace: Paraguay
+deathPlace: Brazil, just as he finished celebrating Mass
+region: India
 feastDay:
   month: 11
   day: 15
-centuries: [16, 17]
+centuries:
+  - 16
+  - 17
 canonizationStatus: Venerable
 vocation:
   - Priest
   - Soldier
-religiousOrder: "Jesuit"
+religiousOrder: Jesuit
 patronage:
-  - "native traditions"
+  - native traditions
 martyr: true
+prayers: []
 ---
 
 Born to the Paraguayan nobility. Jesuit priest. One of the architects of the Jesuit Reductions in Paraguay. Realizing the damage of the slave trade, the Jesuits gathered the indigenous Indians and went inland. In Paraguay, beginning in 1609, they built settlements, taught agriculture, architecture, construction, metallurgy, farming, ranching and printing. By the time the Jesuits were expelled in 1767 they had 57 settlements with over 100,000 native residents.

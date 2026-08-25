@@ -1,14 +1,14 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Solomon of Genoa"
+name: Saint Solomon of Genoa
 honorific: Saint
-summary: "First bishop of Genoa, Italy."
+summary: First bishop of Genoa, Italy.
 searchAliases:
-  - "Salomon"
-  - "Salonius"
+  - Salomon
+  - Salonius
 deathYear: 269
-died: "c.269"
-region: "Italy"
+died: c.269
+region: Italy
 feastDay:
   month: 9
   day: 28
@@ -17,6 +17,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 First bishop of Genoa, Italy.

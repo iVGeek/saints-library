@@ -1,13 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Philibert of Toledo"
+name: Saint Philibert of Toledo
 honorific: Saint
-summary: "Martyr."
+summary: Martyr.
 searchAliases:
-  - "Filibert"
-died: "Toledo, Spain"
-deathPlace: "Spain"
-region: "Spain"
+  - Filibert
+died: Toledo, Spain
+deathPlace: Spain
+region: Spain
 feastDay:
   month: 8
   day: 22
@@ -15,6 +15,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Martyr.

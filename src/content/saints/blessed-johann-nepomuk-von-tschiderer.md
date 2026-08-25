@@ -1,18 +1,19 @@
 ---
-name: "Blessed Johann Nepomuk von Tschiderer"
+name: Blessed Johann Nepomuk von Tschiderer
 honorific: Blessed
-summary: " Though he was not a Benedictine, Joha Son of Joseph Joachim and Caterina de Giovanelli. Received his secondary education from the Franciscans. Moved with his family to Innsbruck, Austria in 1792 where he studied philosophy and theology at the university. Ordained on 27 July 1800."
-image: "http://catholicsaints.info/wp-content/gallery/blessed-johann-nepomuk-von-tschiderer/blessed-johann-nepomuk-von-tschiderer.jpg"
+summary: ' Though he was not a Benedictine, Joha Son of Joseph Joachim and Caterina de Giovanelli. Received his secondary education from the Franciscans. Moved with his family to Innsbruck, Austria in 1792 where he studied philosophy and theology at the university. Ordained on 27 July 1800.'
+image: >-
+  http://catholicsaints.info/wp-content/gallery/blessed-johann-nepomuk-von-tschiderer/blessed-johann-nepomuk-von-tschiderer.jpg
 searchAliases:
-  - "Johann Nepomuk von Tschiderer zu Gleifheim"
-  - "John Nepomuk von Tschiderer"
+  - Johann Nepomuk von Tschiderer zu Gleifheim
+  - John Nepomuk von Tschiderer
 birthYear: 1777
 deathYear: 1860
-born: "15 April 1777 at Bolzano, diocese of Trent, Italy"
-died: "3 December 1860 at Trent, Italy of natural causes"
-birthPlace: "dioceseTrent, Italy"
-deathPlace: "Italynatural causes"
-region: "Austria"
+born: 15 April 1777 at Bolzano, diocese of Trent, Italy
+died: 3 December 1860 at Trent, Italy of natural causes
+birthPlace: dioceseTrent, Italy
+deathPlace: Italynatural causes
+region: Austria
 feastDay:
   month: 12
   day: 3
@@ -20,8 +21,9 @@ canonizationStatus: Blessed
 vocation:
   - Bishop
   - Priest
-religiousOrder: "Jesuit"
+religiousOrder: Jesuit
 martyr: false
+prayers: []
 ---
 
 Son of Joseph Joachim and Caterina de Giovanelli. Received his secondary education from the Franciscans. Moved with his family to Innsbruck, Austria in 1792 where he studied philosophy and theology at the university. Ordained on 27 July 1800.

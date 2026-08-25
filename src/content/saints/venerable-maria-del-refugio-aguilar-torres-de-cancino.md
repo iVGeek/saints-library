@@ -1,23 +1,26 @@
 ---
 image: /placeholder-saint.svg
-name: "Venerable María del Refugio Aguilar Torres de Cancino"
+name: Venerable María del Refugio Aguilar Torres de Cancino
 honorific: Venerable
-summary: "Married. Widow. Nun. Founded the Mercedarian Sisters of the Blessed Sacrament."
+summary: Married. Widow. Nun. Founded the Mercedarian Sisters of the Blessed Sacrament.
 birthYear: 1866
 deathYear: 1937
-born: "21 September 1866 in San Miguel Allende, Guanajuato, Mexico"
-died: "24 April 1937 in Mexico City, Mexico"
-birthPlace: "Guanajuato, Mexico"
-deathPlace: "Mexico"
-region: "England"
+born: 21 September 1866 in San Miguel Allende, Guanajuato, Mexico
+died: 24 April 1937 in Mexico City, Mexico
+birthPlace: Guanajuato, Mexico
+deathPlace: Mexico
+region: England
 feastDay:
   month: 1
   day: 1
-centuries: [19, 20]
+centuries:
+  - 19
+  - 20
 canonizationStatus: Venerable
 vocation:
   - Religious
 martyr: false
+prayers: []
 ---
 
 Married. Widow. Nun. Founded the Mercedarian Sisters of the Blessed Sacrament.

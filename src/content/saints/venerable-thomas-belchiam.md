@@ -1,19 +1,21 @@
 ---
 image: /placeholder-saint.svg
-name: "Venerable Thomas Belchiam"
+name: Venerable Thomas Belchiam
 honorific: Venerable
-summary: "Franciscan who denounced King Henry VIII as a heretic and clergy who accepted his persecution as faithless. Martyr."
+summary: Franciscan who denounced King Henry VIII as a heretic and clergy who accepted his persecution as faithless. Martyr.
 deathYear: 1537
-died: "starved to death on 3 August 1537 in prison"
+died: starved to death on 3 August 1537 in prison
 feastDay:
   month: 1
   day: 1
-centuries: [16]
+centuries:
+  - 16
 canonizationStatus: Venerable
 vocation:
   - Monk
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 martyr: true
+prayers: []
 ---
 
 Franciscan who denounced King Henry VIII as a heretic and clergy who accepted his persecution as faithless. Martyr.

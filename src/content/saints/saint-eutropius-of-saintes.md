@@ -19,6 +19,7 @@ vocation:
   - Bishop
   - Missionary
 martyr: true
+prayers: []
 ---
 
 Missionary to Gaul (modern France), consecrated and sent by Pope Saint Clement I. There he worked with Saint Denis of Paris. Hermit. First Bishop of Saintes, France. Martyr.

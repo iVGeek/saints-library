@@ -42,6 +42,7 @@ patronage:
 
     Paris
 martyr: false
+prayers: []
 ---
 
 Relative, possibly the brother of Blessed Ceslas Odrowaz. Educated in Krakow, Prague, Paris and Bologna. Doctor of Law and of Sacred Studies. Priest. Worked to reform convents in his native Poland. While in Rome working with his uncle, Bishop Ivo Konski of Krakow, he witnessed a miracle performed by Saint Dominic de Guzman. He became of friend of Saint Dominic, and became one of the first Dominicans. The first Polish Dominican, he brought the Order to Poland, then evangelized throughout Poland, Pomerania, Lithuania, Sweden, Norway, Denmark, Scotland, Russia, Turkey, and Greece. During an attack on a monastery, Hyacinth managed to save a crucifix and statue of Mary, though the statue weighed far more than he could normally have lifted; the saint is usually shown holding these two items. Hyacinth never served as provincial nor even a prior, but toiled as a simple friar, focusing on the internal and external missions facing the Polish Dominicans: to deepen their own faith, and to spread it through Poland.

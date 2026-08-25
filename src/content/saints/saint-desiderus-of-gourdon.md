@@ -27,6 +27,7 @@ image: >-
 imageAlt: Portrait of Saint Desiderus of Gourdon
 imageCredit: <span class="int-own-work" lang="en">Own work</span>
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:2022%20Donatello%20Saint%20John%20the%20Baptist.jpg
+prayers: []
 ---
 
 Sixth century priest and monk at the monastery of Gourdon, Saône-et-Loire (in modern France). Reported miracle worker. Saint Agricola, bishop of Chalon-sur-Saône, France held him in high esteem.

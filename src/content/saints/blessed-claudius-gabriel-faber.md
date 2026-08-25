@@ -1,12 +1,12 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Claudius Gabriel Faber"
+name: Blessed Claudius Gabriel Faber
 honorific: Blessed
-summary: "Minim monk. Prior of his house. Martyred by heretics."
+summary: Minim monk. Prior of his house. Martyred by heretics.
 deathYear: 1575
-died: "1575 in Lunel, France"
-deathPlace: "France"
-region: "France"
+died: 1575 in Lunel, France
+deathPlace: France
+region: France
 feastDay:
   month: 3
   day: 1
@@ -14,6 +14,7 @@ canonizationStatus: Blessed
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Minim monk. Prior of his house. Martyred by heretics.

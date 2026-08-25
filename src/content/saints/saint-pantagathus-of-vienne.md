@@ -1,15 +1,17 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Pantagathus of Vienne"
+name: Saint Pantagathus of Vienne
 honorific: Saint
-summary: "Born to the nobility. Well-educated, he served as a diplomat and courtier to King Clovis I. Priest. Bishop of Vienne, France c.536. Attended the Council of Orléans."
+summary: >-
+  Born to the nobility. Well-educated, he served as a diplomat and courtier to King Clovis I. Priest. Bishop of Vienne,
+  France c.536. Attended the Council of Orléans.
 searchAliases:
-  - "Pantagathe of Vienne"
+  - Pantagathe of Vienne
 birthYear: 475
 deathYear: 540
-born: "475"
-died: "540 of natural causes"
-region: "France"
+born: '475'
+died: 540 of natural causes
+region: France
 feastDay:
   month: 4
   day: 17
@@ -19,6 +21,7 @@ vocation:
   - Priest
   - Monk
 martyr: false
+prayers: []
 ---
 
 Born to the nobility. Well-educated, he served as a diplomat and courtier to King Clovis I. Priest. Bishop of Vienne, France c.536. Attended the Council of Orléans.

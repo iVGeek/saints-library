@@ -21,6 +21,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/e/e4/Sceaux_Saint-Jean-Baptiste_36.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Asterius of Caesarea
 imageCreditUrl: https://en.wikipedia.org/wiki/Mammes%20of%20Caesarea
+prayers: []
 ---
 
 Roman senator. Martyred for giving a Christian burial to Saint Marinus of Caesarea.

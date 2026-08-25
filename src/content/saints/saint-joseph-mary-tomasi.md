@@ -1,23 +1,26 @@
 ---
-name: "Saint Joseph Mary Tomasi"
+name: Saint Joseph Mary Tomasi
 honorific: Saint
-summary: "Born to the wealthy Sicilian nobility, the son of the duke of Palermo, Italy and Rosalia Traino. When their children were grown, both of his parents entered religious life, and four of his sisters became nuns. Joseph renounced his inheritance and position in favour of his brother"
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Joseph-Mary-Tomasi-1.jpg"
+summary: >-
+  Born to the wealthy Sicilian nobility, the son of the duke of Palermo, Italy and Rosalia Traino. When their children
+  were grown, both of his parents entered religious life, and four of his sisters became nuns. Joseph renounced his
+  inheritance and position in favour of his brother
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Joseph-Mary-Tomasi-1.jpg
 searchAliases:
-  - "Giuseppe Maria Tomasi di Lampedusa"
-  - "Giuseppe Maria Tomasi"
-  - "Guiseppe Maria Tommasi"
-  - "Josef Maria Tomasi"
-  - "Joseph Marie Carus"
-  - "Joseph Mary Tommasi"
-  - "José María Tomasi"
+  - Giuseppe Maria Tomasi di Lampedusa
+  - Giuseppe Maria Tomasi
+  - Guiseppe Maria Tommasi
+  - Josef Maria Tomasi
+  - Joseph Marie Carus
+  - Joseph Mary Tommasi
+  - José María Tomasi
 birthYear: 1649
 deathYear: 1713
-born: "12 September 1649 at Licata, archdiocese of Agrigento, Sicily, Italy"
-died: "1 January 1713 at home next to the church of San Lorenzo in Panisperna, Rome, Italy of natural causes"
-birthPlace: "archdioceseAgrigento, Sicily, Italy"
-deathPlace: "Rome, Italynatural causes"
-region: "Italy"
+born: 12 September 1649 at Licata, archdiocese of Agrigento, Sicily, Italy
+died: 1 January 1713 at home next to the church of San Lorenzo in Panisperna, Rome, Italy of natural causes
+birthPlace: archdioceseAgrigento, Sicily, Italy
+deathPlace: Rome, Italynatural causes
+region: Italy
 feastDay:
   month: 3
   day: 24
@@ -25,8 +28,9 @@ canonizationStatus: Saint
 vocation:
   - Confessor
 patronage:
-  - "liturgy"
+  - liturgy
 martyr: false
+prayers: []
 ---
 
 Born to the wealthy Sicilian nobility, the son of the duke of Palermo, Italy and Rosalia Traino. When their children were grown, both of his parents entered religious life, and four of his sisters became nuns. Joseph renounced his inheritance and position in favour of his brother, and joined the Theatines on 24 March 1665. He studied philosophy at Messina, Ferrara, and Modena, Italy, and theology in Rome and Palermo, Italy. Joseph learned Greek, Ethiopic, Arabic, Syriac, Chaldaic, Hebrew, Italian, and Latin. He was ordained on 25 December 1673.

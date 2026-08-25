@@ -16,6 +16,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/1/1c/Menaion_icon_%2817_c.%2C_TsAK%29_-_September.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Evanthia of Nicomedia
 imageCreditUrl: https://en.wikipedia.org/wiki/September%201%20(Eastern%20Orthodox%20liturgics)
+prayers: []
 ---
 
 Martyr. No other information has survived.

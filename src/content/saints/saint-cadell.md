@@ -17,6 +17,7 @@ image: >-
 imageAlt: Portrait of Saint Cadell
 imageCredit: engraving
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:St%20Mary's%20Loch%20engraving%20by%20William%20Miller%20after%20P%20Paton.jpg
+prayers: []
 ---
 
 Llangadell, Glamorgan, Wales is named for this 7th century saint No other information has survived.

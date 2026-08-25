@@ -21,6 +21,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/1/1a/Ecstasy_of_St._Teresa_HDR.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Alexander of the Via Claudia
 imageCreditUrl: https://en.wikipedia.org/wiki/Ecstasy%20of%20Saint%20Teresa
+prayers: []
 ---
 
 Second century bishop in the area around Rome, Italy. Miracle worker. Arrested, tortured and executed for his faith. Martyr.

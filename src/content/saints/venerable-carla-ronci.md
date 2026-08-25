@@ -18,6 +18,7 @@ centuries:
 canonizationStatus: Venerable
 vocation: []
 martyr: false
+prayers: []
 ---
 
 Lay woman. Professed member of the Mater Misericordiae Secular Institute.

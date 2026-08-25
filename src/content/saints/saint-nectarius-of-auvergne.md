@@ -25,6 +25,7 @@ religiousOrder: Benedictine
 patronage:
   - Saint-Nectaire, Puy-de-Dôme, France
 martyr: true
+prayers: []
 ---
 
 Missionary sent by Pope Saint Fabian to take the faith into Gaul in the 3rd century, centering his work around the modern Auvergne, France. Worked with Saint Austremonius, Saint Gatianus of Tours, Saint Trophimus of Arles, Saint Paul of Narbonne, Saint Martial of Limoges, Saint Dionysius of Paris, Saint Baudimius, Saint Auditor of Saint-Nectaire and Saint Saturninus of Toulouse; may have been related to Baudimus and/or Auditor. Turned a pagan temple into the new Christian church. Martyr.

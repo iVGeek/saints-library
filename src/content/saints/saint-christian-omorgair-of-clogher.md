@@ -1,14 +1,14 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Christian O'Morgair of Clogher"
+name: Saint Christian O'Morgair of Clogher
 honorific: Saint
-summary: "Brother of Saint Malachy of Armagh. Influential bishop of Clogher, Ireland in 1126."
+summary: Brother of Saint Malachy of Armagh. Influential bishop of Clogher, Ireland in 1126.
 searchAliases:
-  - "Christianus"
-  - "Croistan O'Morgair"
+  - Christianus
+  - Croistan O'Morgair
 deathYear: 1138
-died: "1138"
-region: "Ireland"
+died: '1138'
+region: Ireland
 feastDay:
   month: 6
   day: 12
@@ -17,6 +17,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Brother of Saint Malachy of Armagh. Influential bishop of Clogher, Ireland in 1126.

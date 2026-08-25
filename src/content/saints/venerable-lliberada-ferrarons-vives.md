@@ -1,23 +1,26 @@
 ---
-name: "Venerable Lliberada Ferrarons-Vivés"
+name: Venerable Lliberada Ferrarons-Vivés
 honorific: Venerable
-summary: "Lay woman in the diocese of Girona, Spain. Member of the Lay Carmelites."
-image: "http://catholicsaints.info/wp-content/gallery/venerable-lliberada-ferrarons-vives/venerable-lliberada-ferrarons-vives-01.jpg"
+summary: Lay woman in the diocese of Girona, Spain. Member of the Lay Carmelites.
+image: >-
+  http://catholicsaints.info/wp-content/gallery/venerable-lliberada-ferrarons-vives/venerable-lliberada-ferrarons-vives-01.jpg
 birthYear: 1803
 deathYear: 1842
-born: "19 April 1803 in Olot, Girona, Spain"
-died: "21 June 1842 in Olot, Girona, Spain of natural causes"
-birthPlace: "Girona, Spain"
-deathPlace: "Girona, Spaof natural causes"
-region: "Spain"
+born: 19 April 1803 in Olot, Girona, Spain
+died: 21 June 1842 in Olot, Girona, Spain of natural causes
+birthPlace: Girona, Spain
+deathPlace: Girona, Spaof natural causes
+region: Spain
 feastDay:
   month: 1
   day: 1
-centuries: [19]
+centuries:
+  - 19
 canonizationStatus: Venerable
 vocation: []
-religiousOrder: "Carmelite"
+religiousOrder: Carmelite
 martyr: false
+prayers: []
 ---
 
 Lay woman in the diocese of Girona, Spain. Member of the Lay Carmelites.

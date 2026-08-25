@@ -1,21 +1,23 @@
 ---
-name: "Saint Anathalon of Milan"
+name: Saint Anathalon of Milan
 honorific: Saint
-summary: "Spiritual student of Saint Barnabas the Apostle. First-century bishop of Milan, Italy, assigned by Saint Barnabas. Evangelized the entire region."
-image: "http://catholicsaints.info/wp-content/uploads/img-Anathalon-of-Milan.jpg"
+summary: >-
+  Spiritual student of Saint Barnabas the Apostle. First-century bishop of Milan, Italy, assigned by Saint Barnabas.
+  Evangelized the entire region.
+image: http://catholicsaints.info/wp-content/uploads/img-Anathalon-of-Milan.jpg
 searchAliases:
-  - "Anatalone"
-  - "Anatelon"
-  - "Anatalo"
-  - "Anatolo"
-  - "Anatolio"
-  - "Anatalofle"
-  - "Anatelofl"
-  - "Anatolofle"
-  - "Anatolius"
-died: "Brescia, Italy"
-deathPlace: "Italy"
-region: "Italy"
+  - Anatalone
+  - Anatelon
+  - Anatalo
+  - Anatolo
+  - Anatolio
+  - Anatalofle
+  - Anatelofl
+  - Anatolofle
+  - Anatolius
+died: Brescia, Italy
+deathPlace: Italy
+region: Italy
 feastDay:
   month: 9
   day: 24
@@ -24,6 +26,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Spiritual student of Saint Barnabas the Apostle. First-century bishop of Milan, Italy, assigned by Saint Barnabas. Evangelized the entire region.

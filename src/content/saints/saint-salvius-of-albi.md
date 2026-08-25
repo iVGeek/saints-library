@@ -18,6 +18,7 @@ vocation:
   - Monk
   - Hermit
 martyr: false
+prayers: []
 ---
 
 Lawyer. Monk. Abbot. Hermit. Bishop of Albi, France in 574. Died while tending the sick during an epidemic.

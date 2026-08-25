@@ -1,11 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Julia of Lisbon"
+name: Saint Julia of Lisbon
 honorific: Saint
-summary: "Martyred with her brother Saint Verissimus of Lisbon and sister Saint Maxima of Lisbon in the persecution of Diocletian."
+summary: >-
+  Martyred with her brother Saint Verissimus of Lisbon and sister Saint Maxima of Lisbon in the persecution of
+  Diocletian.
 deathYear: 304
-died: "c.304"
-region: "Portugal"
+died: c.304
+region: Portugal
 feastDay:
   month: 10
   day: 1
@@ -14,6 +16,7 @@ vocation:
   - Monk
   - Religious
 martyr: true
+prayers: []
 ---
 
 Martyred with her brother Saint Verissimus of Lisbon and sister Saint Maxima of Lisbon in the persecution of Diocletian.

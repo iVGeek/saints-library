@@ -1,23 +1,26 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Giovanni Cini della Pace"
+name: Blessed Giovanni Cini della Pace
 honorific: Blessed
-summary: "A soldier in the army of the Republic of Pisa, Italy. A bit wild by nature, he was imprisoned at one point for the 8 October 1296 attack on Archbishop Teodorico Ranieri of Pisa. While serving his time, Giovanni had a conversion experience, and when he was released he became a Fra"
+summary: >-
+  A soldier in the army of the Republic of Pisa, Italy. A bit wild by nature, he was imprisoned at one point for the 8
+  October 1296 attack on Archbishop Teodorico Ranieri of Pisa. While serving his time, Giovanni had a conversion
+  experience, and when he was released he became a Fra
 searchAliases:
-  - "Giovanni the Soldier"
-  - "Giovanni Soldato"
-  - "Giovanni Stipendario"
-  - "Giovanni della Pace"
-  - "Giovanni de Porta pacis"
-  - "Giovanni Cini"
-  - "John…"
+  - Giovanni the Soldier
+  - Giovanni Soldato
+  - Giovanni Stipendario
+  - Giovanni della Pace
+  - Giovanni de Porta pacis
+  - Giovanni Cini
+  - John…
 birthYear: 1270
 deathYear: 1335
-born: "c.1270 in Pisa, Italy"
-died: "c.1335 in his hermit's cell by the church of Santa Maria della Sambuca in Pisa, Italy of natural causes"
-birthPlace: "Italy"
-deathPlace: "Italynatural causes"
-region: "Italy"
+born: c.1270 in Pisa, Italy
+died: c.1335 in his hermit's cell by the church of Santa Maria della Sambuca in Pisa, Italy of natural causes
+birthPlace: Italy
+deathPlace: Italynatural causes
+region: Italy
 feastDay:
   month: 11
   day: 12
@@ -25,8 +28,9 @@ canonizationStatus: Blessed
 vocation:
   - Bishop
   - Priest
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 martyr: false
+prayers: []
 ---
 
 A soldier in the army of the Republic of Pisa, Italy. A bit wild by nature, he was imprisoned at one point for the 8 October 1296 attack on Archbishop Teodorico Ranieri of Pisa. While serving his time, Giovanni had a conversion experience, and when he was released he became a Franciscan teritary and concentrated on a life of penance.

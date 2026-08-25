@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Mark of Jerusalem"
+name: Saint Mark of Jerusalem
 honorific: Saint
-summary: "First Gentile bishop of Jerusalem c.135, serving for over 20 years. Martyr."
+summary: First Gentile bishop of Jerusalem c.135, serving for over 20 years. Martyr.
 deathYear: 156
-died: "156"
-region: "Holy Land"
+died: '156'
+region: Holy Land
 feastDay:
   month: 10
   day: 22
@@ -16,6 +16,7 @@ vocation:
   - Monk
   - Confessor
 martyr: true
+prayers: []
 ---
 
 First Gentile bishop of Jerusalem c.135, serving for over 20 years. Martyr.

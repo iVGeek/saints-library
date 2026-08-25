@@ -21,6 +21,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/e/e8/Saint_brendan_german_manuscript.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Breandan
 imageCreditUrl: https://en.wikipedia.org/wiki/Brendan%20the%20Navigator
+prayers: []
 ---
 
 Monk. Migrated from Ireland to Britain. Persecuted by Pelagian heretics, he sought refuge in a monastery in Gaul. It became his new home, and he eventually became abbot of the house.

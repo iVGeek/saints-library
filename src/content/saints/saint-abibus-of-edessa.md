@@ -22,6 +22,7 @@ vocation:
   - Deacon
   - Confessor
 martyr: true
+prayers: []
 ---
 
 Fourth-century deacon in Edessa, Syria. Friend of Saint Shamuna and Saint Gurias, he escaped execution in the persecutions of Galerius in which Shamuna and Gurias died. When imperial tolerance was declared for Christianity in 311, Abibus returned to the city and his ministry. Eleven years later, in the persecutions of Emperor Licinius and governor Lisania, he was arrested, tortured and finally executed. Martyr.

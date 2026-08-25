@@ -1,15 +1,15 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed José González Pérez"
+name: Blessed José González Pérez
 honorific: Blessed
-summary: "Priest in the diocese of Córdoba, Spain, serving in the Villanueva community. Martyred in the Spanish Civil War."
+summary: Priest in the diocese of Córdoba, Spain, serving in the Villanueva community. Martyred in the Spanish Civil War.
 birthYear: 1901
 deathYear: 1936
-born: "21 March 1901 in Fuenteovejuna, Córdoba, Spain"
-died: "22 August 1936 in Villanueva del Rey, Córdoba, Spain"
-birthPlace: "Córdoba, Spain"
-deathPlace: "Córdoba, Spain"
-region: "Spain"
+born: 21 March 1901 in Fuenteovejuna, Córdoba, Spain
+died: 22 August 1936 in Villanueva del Rey, Córdoba, Spain
+birthPlace: Córdoba, Spain
+deathPlace: Córdoba, Spain
+region: Spain
 feastDay:
   month: 8
   day: 22
@@ -18,6 +18,7 @@ vocation:
   - Priest
   - Cardinal
 martyr: true
+prayers: []
 ---
 
 Priest in the diocese of Córdoba, Spain, serving in the Villanueva community. Martyred in the Spanish Civil War.

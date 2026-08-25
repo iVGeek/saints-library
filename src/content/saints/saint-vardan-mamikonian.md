@@ -27,6 +27,7 @@ vocation:
 patronage:
   - Knights of Vartan
 martyr: true
+prayers: []
 ---
 
 Born a prince, the son of Hamazasp and Dustr; his maternal grandfather was Isaac, the Armenian katholikos or leader of the regional Church, who saw to the religious training of young Vardan. A career soldier, Vardan became supreme commander of the armies of Armenia in 432. Married and the father of one, Susanna, who grew up to be a martyr in her turn.

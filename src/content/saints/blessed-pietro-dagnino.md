@@ -1,12 +1,14 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Pietro Dagnino"
+name: Blessed Pietro Dagnino
 honorific: Blessed
-summary: "Pietro became a Camaldolese monk in 1012. A spiritual student of Saint Romuald who chose him to be the first leader of the hermitage in Camaldoli, Italy. Known for his personal piety and his respect for the Rule of the Order."
+summary: >-
+  Pietro became a Camaldolese monk in 1012. A spiritual student of Saint Romuald who chose him to be the first leader of
+  the hermitage in Camaldoli, Italy. Known for his personal piety and his respect for the Rule of the Order.
 deathYear: 1051
-died: "1051 at the hermitage at Camaldoli, Italy of natural causes"
-deathPlace: "Italynatural causes"
-region: "Italy"
+died: 1051 at the hermitage at Camaldoli, Italy of natural causes
+deathPlace: Italynatural causes
+region: Italy
 feastDay:
   month: 2
   day: 24
@@ -15,6 +17,7 @@ vocation:
   - Monk
   - Hermit
 martyr: false
+prayers: []
 ---
 
 Pietro became a Camaldolese monk in 1012. A spiritual student of Saint Romuald who chose him to be the first leader of the hermitage in Camaldoli, Italy. Known for his personal piety and his respect for the Rule of the Order.

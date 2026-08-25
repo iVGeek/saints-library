@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Stephen of Antioch"
+name: Saint Stephen of Antioch
 honorific: Saint
-summary: "Martyr. No other information has survived."
-died: "Antioch, Pisidia (in modern Turkey)"
-deathPlace: "Pisidia (modern Turkey)"
-region: "England"
+summary: Martyr. No other information has survived.
+died: Antioch, Pisidia (in modern Turkey)
+deathPlace: Pisidia (modern Turkey)
+region: England
 feastDay:
   month: 11
   day: 22
@@ -13,6 +13,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Martyr. No other information has survived.

@@ -31,6 +31,7 @@ patronage:
   - Marseilles, France
   - Davoli, Italy
 martyr: true
+prayers: []
 ---
 
 Christian soldier in the imperial Roman army, he was imprisoned in Marseilles, France when he refused to worship pagan gods. While in awaiting execution, he converted other prisoners. Martyr.

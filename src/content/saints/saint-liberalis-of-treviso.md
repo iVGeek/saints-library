@@ -31,6 +31,7 @@ patronage:
   - Treviso, city of
   - Treviso, diocese of
 martyr: false
+prayers: []
 ---
 
 Priest. Worked to convert Arians to orthodox Christianity, and was much abused by the Arians because of it. Late in life he retired to live as a hermit on a small island.

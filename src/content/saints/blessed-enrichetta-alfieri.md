@@ -1,22 +1,25 @@
 ---
-name: "Blessed Enrichetta Alfieri"
+name: Blessed Enrichetta Alfieri
 honorific: Blessed
-summary: "From childhood Enrichetta felt a call to religious life, and joined the Sisters of Charity of Saint Joan Antida Thouret on 20 December 1911. She worked as a kindergarten teacher in Vercelli, Italy, but was forced to quit when she developed Pott's disease, a form of tuberculosis o"
-image: "https://upload.wikimedia.org/wikipedia/commons/c/c9/Blessed_Enrichetta_Alfieri_%281891-1951%29.jpg"
+summary: >-
+  From childhood Enrichetta felt a call to religious life, and joined the Sisters of Charity of Saint Joan Antida
+  Thouret on 20 December 1911. She worked as a kindergarten teacher in Vercelli, Italy, but was forced to quit when she
+  developed Pott's disease, a form of tuberculosis o
+image: https://upload.wikimedia.org/wikipedia/commons/c/c9/Blessed_Enrichetta_Alfieri_%281891-1951%29.jpg
 searchAliases:
-  - "Sister Maria Angela"
-  - "Henrietta Alfieri"
-  - "prisoner 3209"
-  - "Mother of San Vittore"
-  - "Angel of San Vittore"
-  - "La Mamma di San Vittore"
+  - Sister Maria Angela
+  - Henrietta Alfieri
+  - prisoner 3209
+  - Mother of San Vittore
+  - Angel of San Vittore
+  - La Mamma di San Vittore
 birthYear: 1891
 deathYear: 1951
-born: "23 February 1891 in Borgo Vercelli, Vercelli, Italy"
-died: "23 November 1951 in Milan, Italy of natural causes"
-birthPlace: "Vercelli, Italy"
-deathPlace: "Italynatural causes"
-region: "Germany"
+born: 23 February 1891 in Borgo Vercelli, Vercelli, Italy
+died: 23 November 1951 in Milan, Italy of natural causes
+birthPlace: Vercelli, Italy
+deathPlace: Italynatural causes
+region: Germany
 feastDay:
   month: 11
   day: 23
@@ -26,6 +29,7 @@ vocation:
   - Priest
   - Religious
 martyr: false
+prayers: []
 ---
 
 From childhood Enrichetta felt a call to religious life, and joined the Sisters of Charity of Saint Joan Antida Thouret on 20 December 1911. She worked as a kindergarten teacher in Vercelli, Italy, but was forced to quit when she developed Pott's disease, a form of tuberculosis of the spine, in 1917. On 25 February 1923 she was miraculously cured by a pilgrimage to Lourdes, France through the intercession of Mary Immaculate.

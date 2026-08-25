@@ -1,12 +1,12 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Marcian of Alexandria"
+name: Saint Marcian of Alexandria
 honorific: Saint
-summary: "Martyr."
-born: "Egypt"
-died: "Alexandria, Egypt"
-deathPlace: "Egypt"
-region: "Egypt"
+summary: Martyr.
+born: Egypt
+died: Alexandria, Egypt
+deathPlace: Egypt
+region: Egypt
 feastDay:
   month: 10
   day: 4
@@ -15,6 +15,7 @@ vocation:
   - Priest
   - Monk
 martyr: true
+prayers: []
 ---
 
 Martyr.

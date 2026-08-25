@@ -28,6 +28,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/7/7e/55_VERDUN_Cathedrale%2BCloitre.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Desideratus of Verdun
 imageCreditUrl: https://en.wikipedia.org/wiki/Diocese%20of%20Verdun
+prayers: []
 ---
 
 Born to the Gallic nobility, the son of Gondebald de Bourgogne of Lyons; his mother, whose name is lost to us, was a noble woman of Soissons; grandson of Latinus of Burgundy. Married to a noble woman of Toulouse with whom he had two to four children (records vary), one of them Saint Syagrius of Autun. Chosen bishop of Verdun, France in 529, serving until his death 25 years later.

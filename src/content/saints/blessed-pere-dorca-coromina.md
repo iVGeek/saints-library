@@ -1,25 +1,26 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Pere Dorca Coromina"
+name: Blessed Pere Dorca Coromina
 honorific: Blessed
-summary: "Professed priest in the Carmelites of the Ancient Observance. Martyred in the Spanish Civil War."
+summary: Professed priest in the Carmelites of the Ancient Observance. Martyred in the Spanish Civil War.
 searchAliases:
-  - "Anastasi Maria"
+  - Anastasi Maria
 birthYear: 1907
 deathYear: 1936
-born: "30 December 1907 in Santa Margarida de Bianya, Girona, Spain"
-died: "martyred on 29 July 1936 in Clot dels Aubens, Cervera, Lleida, Spain"
-birthPlace: "Girona, Spain"
-deathPlace: "Cervera, Lleida, Spain"
-region: "Spain"
+born: 30 December 1907 in Santa Margarida de Bianya, Girona, Spain
+died: martyred on 29 July 1936 in Clot dels Aubens, Cervera, Lleida, Spain
+birthPlace: Girona, Spain
+deathPlace: Cervera, Lleida, Spain
+region: Spain
 feastDay:
   month: 7
   day: 29
 canonizationStatus: Blessed
 vocation:
   - Priest
-religiousOrder: "Carmelite"
+religiousOrder: Carmelite
 martyr: true
+prayers: []
 ---
 
 Professed priest in the Carmelites of the Ancient Observance. Martyred in the Spanish Civil War.

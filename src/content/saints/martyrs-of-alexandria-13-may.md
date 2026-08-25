@@ -27,6 +27,7 @@ imageCredit: >-
   href="https://archive.org/download/historicmartyrso00masorich/historicmartyrso00masorich.pdf">https://archive.org/download/historicmartyrso00masorich/historicmartyrso00masorich.pdf</a></dd></dl>
 imageCreditUrl: >-
   https://commons.wikimedia.org/wiki/File:The%20historic%20martyrs%20of%20the%20primitive%20church%20(IA%20historicmartyrso00masorich).pdf
+prayers: []
 ---
 
 A group of Catholic Christians martyred in the church of Theonas, Alexandria, Egypt by order of the Arian Emperor Valens. Their names have not come down to us.

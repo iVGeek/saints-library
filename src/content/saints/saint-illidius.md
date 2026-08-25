@@ -1,20 +1,23 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Illidius of Clermont"
+name: Saint Illidius of Clermont
 honorific: Saint
-summary: "Fourth Bishop of Clermont (formerly Averna), Auvergne, France. He worked to establish Clermont as a center of religious teaching and devotion in the region. Cured the daughter of the Emperor Maximus at Trier (in modern Germany). Highly venerated by Saint Gregory of Tours. The pet"
+summary: >-
+  Fourth Bishop of Clermont (formerly Averna), Auvergne, France. He worked to establish Clermont as a center of
+  religious teaching and devotion in the region. Cured the daughter of the Emperor Maximus at Trier (in modern Germany).
+  Highly venerated by Saint Gregory of Tours. The pet
 searchAliases:
-  - "Allyre"
-  - "Alyre"
-  - "Allirol"
-  - "Allirand"
-  - "Allirot"
-  - "Illide"
-  - "Illidio"
-  - "Ilidius"
+  - Allyre
+  - Alyre
+  - Allirol
+  - Allirand
+  - Allirot
+  - Illide
+  - Illidio
+  - Ilidius
 deathYear: 385
-died: "5 June 385 of natural causes"
-region: "Germany"
+died: 5 June 385 of natural causes
+region: Germany
 feastDay:
   month: 6
   day: 5
@@ -24,10 +27,11 @@ vocation:
   - Priest
   - Monk
   - Confessor
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 patronage:
-  - "Clermont, France"
+  - Clermont, France
 martyr: false
+prayers: []
 ---
 
 Fourth Bishop of Clermont (formerly Averna), Auvergne, France. He worked to establish Clermont as a center of religious teaching and devotion in the region. Cured the daughter of the Emperor Maximus at Trier (in modern Germany). Highly venerated by Saint Gregory of Tours. The petrified mineral springs and Benedictine abbey in Clermont are named for him.

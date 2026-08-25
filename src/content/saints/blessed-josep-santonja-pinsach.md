@@ -1,23 +1,24 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Josep Santonja Pinsach"
+name: Blessed Josep Santonja Pinsach
 honorific: Blessed
-summary: "Dominican priest. Martyred in the Spanish Civil War."
+summary: Dominican priest. Martyred in the Spanish Civil War.
 birthYear: 1879
 deathYear: 1936
-born: "1 April 1879 in Olot, Girona, Spain"
-died: "15 August 1936 in Madrid, Spain"
-birthPlace: "Girona, Spain"
-deathPlace: "Spain"
-region: "Spain"
+born: 1 April 1879 in Olot, Girona, Spain
+died: 15 August 1936 in Madrid, Spain
+birthPlace: Girona, Spain
+deathPlace: Spain
+region: Spain
 feastDay:
   month: 8
   day: 15
 canonizationStatus: Blessed
 vocation:
   - Priest
-religiousOrder: "Dominican"
+religiousOrder: Dominican
 martyr: true
+prayers: []
 ---
 
 Dominican priest. Martyred in the Spanish Civil War.

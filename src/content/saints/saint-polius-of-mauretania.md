@@ -1,9 +1,9 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Polius of Mauretania"
+name: Saint Polius of Mauretania
 honorific: Saint
-summary: "Deacon in Mauretania Caesariensis in North Africa. Martyred in the persecutions of Diocletian."
-region: "England"
+summary: Deacon in Mauretania Caesariensis in North Africa. Martyred in the persecutions of Diocletian.
+region: England
 feastDay:
   month: 5
   day: 21
@@ -12,6 +12,7 @@ vocation:
   - Monk
   - Deacon
 martyr: true
+prayers: []
 ---
 
 Deacon in Mauretania Caesariensis in North Africa. Martyred in the persecutions of Diocletian.

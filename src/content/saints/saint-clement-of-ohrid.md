@@ -25,6 +25,7 @@ patronage:
   - Macedonia
   - Ohrid, Macedonia
 martyr: false
+prayers: []
 ---
 
 Student of Saint Cyril and Saint Methodius in Moravia and Panonia. Building on their work, he helped found Slavic literature and culture in Macedonia. He was the first Slavic writer, translated dozens of works, wrote a biography of Saints Cyril and Methodius, and founded the first Slavic university in Ohrid. Friend of Saint Nahum. Served in the Bulgarian court. Taught from 886 to 893 at Kutmicevica, being a great influence on over 3,000 students, many of whom became priests and spread the Slavic liturgy through the region. Spiritual teacher of Saint Constantine the Presbyter. Bishop of Belica, the first organized Slav Church on the Balkan Peninsula. Bishop of Ohrid. Founded Saint Pantaleimonth's monastery.

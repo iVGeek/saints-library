@@ -1,17 +1,17 @@
 ---
-name: "Blessed Emérico Martín Rubio"
+name: Blessed Emérico Martín Rubio
 honorific: Blessed
-summary: "Trappist novice. Martyred in the Spanish Civil War."
-image: "http://catholicsaints.info/wp-content/uploads/img-Martyred-Cistercians-of-the-Spanish-Civil-War.jpg"
+summary: Trappist novice. Martyred in the Spanish Civil War.
+image: http://catholicsaints.info/wp-content/uploads/img-Martyred-Cistercians-of-the-Spanish-Civil-War.jpg
 searchAliases:
-  - "Brother Marcelino"
+  - Brother Marcelino
 birthYear: 1913
 deathYear: 1936
-born: "4 November 1913 in Espinosa de Villagonzalo, Palencia, Spain"
-died: "10 December 1936 in Santander, Cantabria, Spain"
-birthPlace: "Palencia, Spain"
-deathPlace: "Cantabria, Spain"
-region: "Spain"
+born: 4 November 1913 in Espinosa de Villagonzalo, Palencia, Spain
+died: 10 December 1936 in Santander, Cantabria, Spain
+birthPlace: Palencia, Spain
+deathPlace: Cantabria, Spain
+region: Spain
 feastDay:
   month: 12
   day: 10
@@ -19,6 +19,7 @@ canonizationStatus: Blessed
 vocation:
   - Cardinal
 martyr: true
+prayers: []
 ---
 
 Trappist novice. Martyred in the Spanish Civil War.

@@ -18,6 +18,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/a/a6/FORMA_URBIS_DI_MEDIOLANUM.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Diogenes of Milan
 imageCreditUrl: https://en.wikipedia.org/wiki/Mediolanum
+prayers: []
 ---
 
 Martyr.

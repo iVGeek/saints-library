@@ -1,14 +1,14 @@
 ---
-name: "Saint Napoleon of Alexandria"
+name: Saint Napoleon of Alexandria
 honorific: Saint
-summary: "Martyred in the persecutions of Diocletian."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Napoleon-of-Alexandria.jpg"
+summary: Martyred in the persecutions of Diocletian.
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Napoleon-of-Alexandria.jpg
 searchAliases:
-  - "Neópolo"
-born: "Egyptian"
-died: "tortured to death in the early 4th century in Alexandria, Egypt"
-deathPlace: "Egypt"
-region: "England"
+  - Neópolo
+born: Egyptian
+died: tortured to death in the early 4th century in Alexandria, Egypt
+deathPlace: Egypt
+region: England
 feastDay:
   month: 8
   day: 15
@@ -16,6 +16,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Martyred in the persecutions of Diocletian.

@@ -1,20 +1,21 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Bettelin"
+name: Saint Bettelin
 honorific: Saint
-summary: "I have no details on this saint."
+summary: I have no details on this saint.
 searchAliases:
-  - "Bertram"
-died: "8th century"
-region: "England"
+  - Bertram
+died: 8th century
+region: England
 feastDay:
   month: 8
   day: 10
 canonizationStatus: Saint
 vocation: []
 patronage:
-  - "Stafford, England"
+  - Stafford, England
 martyr: false
+prayers: []
 ---
 
 I have no details on this saint.

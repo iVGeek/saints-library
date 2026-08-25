@@ -1,14 +1,17 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Henry Zdick"
+name: Blessed Henry Zdick
 honorific: Blessed
-summary: "Bohemian prince; son of King Wratislas I. Bishop of Olmutz (in the modern Czech Republic) in 1126. During a pilgrimage to Palestine in 1137, he joined the Premonstratensian order at Jerusalem. On his return home, he introduced the order in several places in his diocese, and found"
+summary: >-
+  Bohemian prince; son of King Wratislas I. Bishop of Olmutz (in the modern Czech Republic) in 1126. During a pilgrimage
+  to Palestine in 1137, he joined the Premonstratensian order at Jerusalem. On his return home, he introduced the order
+  in several places in his diocese, and found
 searchAliases:
-  - "Henry of Olomouc"
-  - "Henry of Olmütz"
+  - Henry of Olomouc
+  - Henry of Olmütz
 deathYear: 1150
-died: "1150 of natural causes"
-region: "Czech Republic"
+died: 1150 of natural causes
+region: Czech Republic
 feastDay:
   month: 6
   day: 25
@@ -17,6 +20,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Bohemian prince; son of King Wratislas I. Bishop of Olmutz (in the modern Czech Republic) in 1126. During a pilgrimage to Palestine in 1137, he joined the Premonstratensian order at Jerusalem. On his return home, he introduced the order in several places in his diocese, and found them an abbey at Strahov (in modern Prague).

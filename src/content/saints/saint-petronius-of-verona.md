@@ -1,13 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Petronius of Verona"
+name: Saint Petronius of Verona
 honorific: Saint
-summary: "Bishop of Verona, Italy. Noted for establishing ministries to the poor."
+summary: Bishop of Verona, Italy. Noted for establishing ministries to the poor.
 searchAliases:
-  - "Petronio"
+  - Petronio
 deathYear: 450
-died: "c.450"
-region: "Italy"
+died: c.450
+region: Italy
 feastDay:
   month: 4
   day: 27
@@ -16,6 +16,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Bishop of Verona, Italy. Noted for establishing ministries to the poor.

@@ -1,9 +1,9 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Onesimus of Ephesus"
+name: Saint Onesimus of Ephesus
 honorific: Saint
-summary: "Priest. Bishop of Ephesus. Supported Saint Ignatius of Antioch."
-region: "Turkey"
+summary: Priest. Bishop of Ephesus. Supported Saint Ignatius of Antioch.
+region: Turkey
 feastDay:
   month: 2
   day: 16
@@ -12,6 +12,7 @@ vocation:
   - Bishop
   - Priest
 martyr: false
+prayers: []
 ---
 
 Priest. Bishop of Ephesus. Supported Saint Ignatius of Antioch.

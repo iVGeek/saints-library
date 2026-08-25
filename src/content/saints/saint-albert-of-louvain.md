@@ -1,20 +1,23 @@
 ---
-name: "Saint Albert of Louvain"
+name: Saint Albert of Louvain
 honorific: Saint
-summary: "Son of Duke Godfrey III of Brabant. Made a canon of Liege, Belgium at age 12, a political appointment for guaranteed income rather than a religious vocation. He gave up the position at age 21 to become a knight under Count Baldwin V of Hainault, a bitter enemy of his native Braba"
-image: "https://upload.wikimedia.org/wikipedia/commons/6/63/Archduke_Albert_with_Albert_of_Louvain.jpg"
+summary: >-
+  Son of Duke Godfrey III of Brabant. Made a canon of Liege, Belgium at age 12, a political appointment for guaranteed
+  income rather than a religious vocation. He gave up the position at age 21 to become a knight under Count Baldwin V of
+  Hainault, a bitter enemy of his native Braba
+image: https://upload.wikimedia.org/wikipedia/commons/6/63/Archduke_Albert_with_Albert_of_Louvain.jpg
 searchAliases:
-  - "Albert of Brabant"
-  - "Albert of Leuven"
-  - "Albert of Liege"
-  - "Alberto di Lovanio"
-  - "Albrecht of…."
+  - Albert of Brabant
+  - Albert of Leuven
+  - Albert of Liege
+  - Alberto di Lovanio
+  - Albrecht of….
 birthYear: 1166
 deathYear: 1192
-born: "c.1166 in Brabant (in modern Belgium)"
-died: "stabbed on 21 November 1192 on the road outside Rheims, France"
-deathPlace: "France"
-region: "Belgium"
+born: c.1166 in Brabant (in modern Belgium)
+died: stabbed on 21 November 1192 on the road outside Rheims, France
+deathPlace: France
+region: Belgium
 feastDay:
   month: 11
   day: 24
@@ -23,11 +26,15 @@ vocation:
   - Bishop
   - Priest
   - Deacon
-religiousOrder: "Carmelite"
+religiousOrder: Carmelite
 patronage:
-  - "in Belgium\n\nLeuven"
-  - "Liege"
+  - |-
+    in Belgium
+
+    Leuven
+  - Liege
 martyr: false
+prayers: []
 ---
 
 Son of Duke Godfrey III of Brabant. Made a canon of Liege, Belgium at age 12, a political appointment for guaranteed income rather than a religious vocation. He gave up the position at age 21 to become a knight under Count Baldwin V of Hainault, a bitter enemy of his native Brabant. He talked of going on Crusade, but never did, and eventually realized that religious life was calling him. He became a canon of Liege again, this time as a true vocation.

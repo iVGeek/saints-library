@@ -18,6 +18,7 @@ image: https://commons.wikimedia.org/wiki/Special:FilePath/Portrait_of_Martino_M
 vocation: []
 religiousOrder: Franciscan
 martyr: false
+prayers: []
 ---
 
 Convert to Christianity. He joined the Franciscans, though he never made his solemn profession or became a friar. He did the most menial work around the convent of San Francesco in Lisbon, Portugal, going barefoot, living off little but bread and water, and spending all free time in prayer.

@@ -1,19 +1,22 @@
 ---
-name: "Saint Jerome Emiliani"
+name: Saint Jerome Emiliani
 honorific: Saint
-summary: "Born wealthy, the son of Angelo and Eleanor Mauroceni Emiliani. His father died when Jerome was a teenager, and he ran away from home at age 15. After a dissolute youth, he became a soldier in Venice, Italy in 1506. Commanded the League of Cambrai forces at the fortress of Castel"
-image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Jerome-Emiliani-1.jpg"
+summary: >-
+  Born wealthy, the son of Angelo and Eleanor Mauroceni Emiliani. His father died when Jerome was a teenager, and he ran
+  away from home at age 15. After a dissolute youth, he became a soldier in Venice, Italy in 1506. Commanded the League
+  of Cambrai forces at the fortress of Castel
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Jerome-Emiliani-1.jpg
 searchAliases:
-  - "Geronimo"
-  - "Gerolamo Miani"
-  - "Girolamo"
-  - "Jerom Aemiliani"
+  - Geronimo
+  - Gerolamo Miani
+  - Girolamo
+  - Jerom Aemiliani
 birthYear: 1481
 deathYear: 1537
-born: "1481 at Venice, Italy"
-died: "8 February 1537 in Italy of a disease caught when tending the sick"
-birthPlace: "Italy"
-region: "Italy"
+born: 1481 at Venice, Italy
+died: 8 February 1537 in Italy of a disease caught when tending the sick
+birthPlace: Italy
+region: Italy
 feastDay:
   month: 2
   day: 8
@@ -21,14 +24,18 @@ canonizationStatus: Saint
 vocation:
   - Priest
   - Confessor
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 patronage:
-  - "abandoned people"
-  - "orphans (proclaimed by Pope Pius XI on 14 March 1928)"
-  - "–"
-  - "in Italy\n\nSomasca"
-  - "Venice"
+  - abandoned people
+  - orphans (proclaimed by Pope Pius XI on 14 March 1928)
+  - –
+  - |-
+    in Italy
+
+    Somasca
+  - Venice
 martyr: false
+prayers: []
 ---
 
 Born wealthy, the son of Angelo and Eleanor Mauroceni Emiliani. His father died when Jerome was a teenager, and he ran away from home at age 15. After a dissolute youth, he became a soldier in Venice, Italy in 1506. Commanded the League of Cambrai forces at the fortress of Castelnuovo in the mountains near Treviso, Italy. Captured by Venetian forces on 27 August 1511, he was chained in a dungeon. He prayed to Our Lady for help, was miraculously freed by an apparition, and hung his chains on a church wall as an offering. Mayor of Treviso while studying for the priesthood. Ordained in the spotted-fever plague year of 1518.

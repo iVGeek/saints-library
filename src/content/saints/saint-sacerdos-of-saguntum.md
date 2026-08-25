@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Sacerdos of Saguntum"
+name: Saint Sacerdos of Saguntum
 honorific: Saint
-summary: "Bishop of Saguntum (now Murviedro), Spain."
+summary: Bishop of Saguntum (now Murviedro), Spain.
 deathYear: 560
-died: "c.560 of natural causes"
-region: "Spain"
+died: c.560 of natural causes
+region: Spain
 feastDay:
   month: 5
   day: 5
@@ -14,8 +14,9 @@ vocation:
   - Bishop
   - Monk
 patronage:
-  - "Saguntum, Spain"
+  - Saguntum, Spain
 martyr: false
+prayers: []
 ---
 
 Bishop of Saguntum (now Murviedro), Spain.

@@ -1,12 +1,12 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Severinus of Como"
+name: Saint Severinus of Como
 honorific: Saint
-summary: "Christian soldier in the imperial Roman army. Martyred in the persecutions of Maximian."
+summary: Christian soldier in the imperial Roman army. Martyred in the persecutions of Maximian.
 deathYear: 295
-died: "martyred c.295 on the north side of Lake Como, near Samolaco, Italy"
-deathPlace: "near Samolaco, Italy"
-region: "Italy"
+died: martyred c.295 on the north side of Lake Como, near Samolaco, Italy
+deathPlace: near Samolaco, Italy
+region: Italy
 feastDay:
   month: 8
   day: 7
@@ -15,6 +15,7 @@ vocation:
   - Monk
   - Soldier
 martyr: true
+prayers: []
 ---
 
 Christian soldier in the imperial Roman army. Martyred in the persecutions of Maximian.

@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Isserninus of Ireland"
+name: Saint Isserninus of Ireland
 honorific: Saint
-summary: "Bishop. Worked with Saint Patrick to evangelize Ireland in the fifth century."
+summary: Bishop. Worked with Saint Patrick to evangelize Ireland in the fifth century.
 searchAliases:
-  - "Iserninus"
-region: "Ireland"
+  - Iserninus
+region: Ireland
 feastDay:
   month: 12
   day: 6
@@ -14,6 +14,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Bishop. Worked with Saint Patrick to evangelize Ireland in the fifth century.

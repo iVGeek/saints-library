@@ -28,6 +28,7 @@ martyr: true
 lifeEvents:
   - year: '1805'
     event: Born.
+prayers: []
 ---
 
 Married layman. Martyr.

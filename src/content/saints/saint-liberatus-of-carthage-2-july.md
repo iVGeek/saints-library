@@ -1,19 +1,20 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Liberatus of Carthage"
+name: Saint Liberatus of Carthage
 honorific: Saint
-summary: "Monk. Abbot. Martyred in the persecutions of the Arian King Hunneric."
+summary: Monk. Abbot. Martyred in the persecutions of the Arian King Hunneric.
 deathYear: 483
-died: "483"
-region: "England"
+died: '483'
+region: England
 feastDay:
   month: 7
   day: 2
 canonizationStatus: Saint
 vocation:
   - Monk
-religiousOrder: "Augustinian"
+religiousOrder: Augustinian
 martyr: true
+prayers: []
 ---
 
 Monk. Abbot. Martyred in the persecutions of the Arian King Hunneric.

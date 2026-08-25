@@ -1,17 +1,20 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Eanfleda of Whitby"
+name: Saint Eanfleda of Whitby
 honorific: Saint
-summary: "Princess, the daughter of King Saint Edwin of Northumbria and Saint Ethelburga of Kent. Cousin of Saint Hilda of Whitby. Baptized by Saint Paulinus of York. Great supporter and patron of Saint Wilfrid of York. Married to King Oswy of Northumbria, and mother of Saint Elfleda. Wido"
+summary: >-
+  Princess, the daughter of King Saint Edwin of Northumbria and Saint Ethelburga of Kent. Cousin of Saint Hilda of
+  Whitby. Baptized by Saint Paulinus of York. Great supporter and patron of Saint Wilfrid of York. Married to King Oswy
+  of Northumbria, and mother of Saint Elfleda. Wido
 searchAliases:
-  - "Eanflaed"
-  - "Enfleda"
+  - Eanflaed
+  - Enfleda
 deathYear: 700
-born: "7th century Northumbria, England"
-died: "c.700 in Whitby, England of natural causes"
-birthPlace: "England"
-deathPlace: "Englandnatural causes"
-region: "England"
+born: 7th century Northumbria, England
+died: c.700 in Whitby, England of natural causes
+birthPlace: England
+deathPlace: Englandnatural causes
+region: England
 feastDay:
   month: 11
   day: 24
@@ -19,8 +22,9 @@ canonizationStatus: Saint
 vocation:
   - Monk
   - Religious
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 martyr: false
+prayers: []
 ---
 
 Princess, the daughter of King Saint Edwin of Northumbria and Saint Ethelburga of Kent. Cousin of Saint Hilda of Whitby. Baptized by Saint Paulinus of York. Great supporter and patron of Saint Wilfrid of York. Married to King Oswy of Northumbria, and mother of Saint Elfleda. Widowed. Benedictine nun at Whitby, which was then under the leadership of her daughter Elfleda.

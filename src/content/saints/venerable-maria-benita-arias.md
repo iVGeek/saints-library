@@ -1,21 +1,25 @@
 ---
-name: "Venerable María Benita Arias"
+name: Venerable María Benita Arias
 honorific: Venerable
-summary: "For 30 years she used her own home to care for orphaned and abandoned children. Founded the Handmaids of Jesus in the Blessed Sacrament on 21 November 1876."
-image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-María-Benita-Arias.jpg"
+summary: >-
+  For 30 years she used her own home to care for orphaned and abandoned children. Founded the Handmaids of Jesus in the
+  Blessed Sacrament on 21 November 1876.
+image: http://catholicsaints.info/wp-content/uploads/img-Venerable-María-Benita-Arias.jpg
 birthYear: 1822
 deathYear: 1894
-born: "3 April 1822 in La Carlota, Córdoba, Argentina"
-died: "25 September 1894 in Buenos Aires, Argentina of natural causes"
-birthPlace: "Córdoba, Argentina"
-deathPlace: "Argentinanatural causes"
+born: 3 April 1822 in La Carlota, Córdoba, Argentina
+died: 25 September 1894 in Buenos Aires, Argentina of natural causes
+birthPlace: Córdoba, Argentina
+deathPlace: Argentinanatural causes
 feastDay:
   month: 11
   day: 21
-centuries: [19]
+centuries:
+  - 19
 canonizationStatus: Venerable
 vocation: []
 martyr: false
+prayers: []
 ---
 
 For 30 years she used her own home to care for orphaned and abandoned children. Founded the Handmaids of Jesus in the Blessed Sacrament on 21 November 1876.

@@ -1,10 +1,12 @@
 ---
-name: "Abel the Patriarch"
+name: Abel the Patriarch
 honorific: Saint
-summary: "Old Testament patriarch. Second son of Adam and Eve. Shepherd. First human being to die, and the first murder victim, killed by his brother in a fit of jealously after Abel had been given God's favour."
-image: "http://catholicsaints.info/wp-content/uploads/img-Cain-and-Abel.jpg"
-died: "murdered by his older brother Cain"
-region: "Spain"
+summary: >-
+  Old Testament patriarch. Second son of Adam and Eve. Shepherd. First human being to die, and the first murder victim,
+  killed by his brother in a fit of jealously after Abel had been given God's favour.
+image: http://catholicsaints.info/wp-content/uploads/img-Cain-and-Abel.jpg
+died: murdered by his older brother Cain
+region: Spain
 feastDay:
   month: 1
   day: 23
@@ -12,8 +14,9 @@ canonizationStatus: Saint
 vocation:
   - Bishop
 patronage:
-  - "dying people"
+  - dying people
 martyr: false
+prayers: []
 ---
 
 Old Testament patriarch. Second son of Adam and Eve. Shepherd. First human being to die, and the first murder victim, killed by his brother in a fit of jealously after Abel had been given God's favour.

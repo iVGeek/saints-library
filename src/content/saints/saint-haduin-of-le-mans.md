@@ -1,13 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Haduin of Le Mans"
+name: Saint Haduin of Le Mans
 honorific: Saint
-summary: "Bishop at Le Mans, France. Founded several monasteries including Notre-Dame-d'Evron."
+summary: Bishop at Le Mans, France. Founded several monasteries including Notre-Dame-d'Evron.
 searchAliases:
-  - "Harduin"
+  - Harduin
 deathYear: 662
-died: "c.662 of natural causes"
-region: "France"
+died: c.662 of natural causes
+region: France
 feastDay:
   month: 8
   day: 20
@@ -16,6 +16,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Bishop at Le Mans, France. Founded several monasteries including Notre-Dame-d'Evron.

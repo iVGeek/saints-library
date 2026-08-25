@@ -43,6 +43,7 @@ patronage:
   - Warsaw, archdiocese of
   - Warsaw, city of
 martyr: false
+prayers: []
 ---
 
 Born to the Polish nobility, the son of a senator. Attended the Viennese Jesuit college from age 14 with his brother Paul, who badly mistreated him. While staying at the home of a Lutheran, he became gravely ill, but was not allowed to call for a priest. He prayed to his personal patron, Saint Barbara, who appeared to him in a vision with two angels, and administered Communion. He was then cured from his disease by Our Lady who told him to become a Jesuit, though it was against his family's wishes. Attended the Jesuit college in Rome, Italy. Friend of Saint Peter Canisius. Jesuit novice from 28 October 1567. Student of Saint Francis Borgia.

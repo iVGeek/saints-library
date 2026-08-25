@@ -1,25 +1,31 @@
 ---
-name: "Venerable Pierre Toussaint"
+name: Venerable Pierre Toussaint
 honorific: Venerable
-summary: "Born a slave. His master, Jean Berard, taught Pierre to read and write, and when Berard moved to New York in 1787, he took along several slaves, including Pierre and his sister Rosalie. There Pierre was apprenticed to a leading hairdresser, and soon became a popular stylist himse"
-image: "https://upload.wikimedia.org/wikipedia/commons/4/46/Pierre_Toussaint.jpg"
+summary: >-
+  Born a slave. His master, Jean Berard, taught Pierre to read and write, and when Berard moved to New York in 1787, he
+  took along several slaves, including Pierre and his sister Rosalie. There Pierre was apprenticed to a leading
+  hairdresser, and soon became a popular stylist himse
+image: https://upload.wikimedia.org/wikipedia/commons/4/46/Pierre_Toussaint.jpg
 birthYear: 1766
 deathYear: 1853
-born: "27 June 1766 in Saint-Marc, Artibonite, Haiti"
-died: "30 June 1853 in New York, New York of natural causes"
-birthPlace: "Artibonite, Haiti"
-deathPlace: "New Yorknatural causes"
-region: "England"
+born: 27 June 1766 in Saint-Marc, Artibonite, Haiti
+died: 30 June 1853 in New York, New York of natural causes
+birthPlace: Artibonite, Haiti
+deathPlace: New Yorknatural causes
+region: England
 feastDay:
   month: 1
   day: 1
-centuries: [18, 19]
+centuries:
+  - 18
+  - 19
 canonizationStatus: Venerable
 vocation:
   - Priest
   - Religious
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 martyr: false
+prayers: []
 ---
 
 Born a slave. His master, Jean Berard, taught Pierre to read and write, and when Berard moved to New York in 1787, he took along several slaves, including Pierre and his sister Rosalie. There Pierre was apprenticed to a leading hairdresser, and soon became a popular stylist himself. When Berard died, Pierre stayed on to care for the ailing widow; he was freed from slavery when Madame Berard died in 1807.

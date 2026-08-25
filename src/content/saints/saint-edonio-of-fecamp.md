@@ -1,13 +1,15 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Edonio of Fécamp"
+name: Saint Edonio of Fécamp
 honorific: Saint
-summary: "Seventh century Benedictine monk at the Holy Trinity abbey of Fécamp, France. Spiritual student of Saint Benedict Biscop during Benedict's time in France."
+summary: >-
+  Seventh century Benedictine monk at the Holy Trinity abbey of Fécamp, France. Spiritual student of Saint Benedict
+  Biscop during Benedict's time in France.
 searchAliases:
-  - "Edoneé the Confessor"
-died: "relics kept in a sarcophagus in the Holy Trinity abbey in Fécamp, France"
-deathPlace: "France"
-region: "France"
+  - Edoneé the Confessor
+died: relics kept in a sarcophagus in the Holy Trinity abbey in Fécamp, France
+deathPlace: France
+region: France
 feastDay:
   month: 6
   day: 6
@@ -16,8 +18,9 @@ vocation:
   - Bishop
   - Monk
   - Confessor
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 martyr: false
+prayers: []
 ---
 
 Seventh century Benedictine monk at the Holy Trinity abbey of Fécamp, France. Spiritual student of Saint Benedict Biscop during Benedict's time in France.

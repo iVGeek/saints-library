@@ -1,36 +1,36 @@
 ---
-name: "Saint Adamnan of Iona"
+name: Saint Adamnan of Iona
 honorific: Saint
-summary: " Adamnan gave sanctuary to Prince Aldfrid when the throne of Northumbria was in dispute following t Distant relative of Saint Columba. Monk at Drunhome, Donegal, Ireland. Abbot of Iona in 679. President-general of all the Columban houses in Ireland. Evangelized throughout Ireland."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Adamnan-of-Iona.gif"
+summary: ' Adamnan gave sanctuary to Prince Aldfrid when the throne of Northumbria was in dispute following t Distant relative of Saint Columba. Monk at Drunhome, Donegal, Ireland. Abbot of Iona in 679. President-general of all the Columban houses in Ireland. Evangelized throughout Ireland.'
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Adamnan-of-Iona.gif
 searchAliases:
-  - "Adam"
-  - "Adamnano"
-  - "Adamnanus"
-  - "Adampnanus"
-  - "Adomnan"
-  - "Adomnanus"
-  - "Arnold"
-  - "Arnty"
-  - "Aunan"
-  - "Edheunanus"
-  - "Eonan"
-  - "Eudananus"
-  - "Eunan"
-  - "Eunende"
-  - "Fidamnan"
-  - "Odanodanus"
-  - "Onan"
-  - "Ounan"
-  - "Skeulan"
-  - "Teunan"
-  - "Theunan"
+  - Adam
+  - Adamnano
+  - Adamnanus
+  - Adampnanus
+  - Adomnan
+  - Adomnanus
+  - Arnold
+  - Arnty
+  - Aunan
+  - Edheunanus
+  - Eonan
+  - Eudananus
+  - Eunan
+  - Eunende
+  - Fidamnan
+  - Odanodanus
+  - Onan
+  - Ounan
+  - Skeulan
+  - Teunan
+  - Theunan
 birthYear: 628
 deathYear: 704
-born: "c.628 in Drumhome, County Donegal, Ireland"
-died: "23 September 704 at Iona Abbey"
-birthPlace: "County Donegal, Ireland"
-region: "Ireland"
+born: c.628 in Drumhome, County Donegal, Ireland
+died: 23 September 704 at Iona Abbey
+birthPlace: County Donegal, Ireland
+region: Ireland
 feastDay:
   month: 9
   day: 23
@@ -40,11 +40,15 @@ vocation:
   - Priest
   - Monk
 patronage:
-  - "in Ireland\n\nDonegal, county of"
-  - "Drumholm"
-  - "Raphoe, city of"
-  - "Raphoe, diocese of"
+  - |-
+    in Ireland
+
+    Donegal, county of
+  - Drumholm
+  - Raphoe, city of
+  - Raphoe, diocese of
 martyr: false
+prayers: []
 ---
 
 Distant relative of Saint Columba. Monk at Drunhome, Donegal, Ireland. Abbot of Iona in 679. President-general of all the Columban houses in Ireland. Evangelized throughout Ireland.

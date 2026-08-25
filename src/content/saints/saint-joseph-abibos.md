@@ -1,12 +1,12 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Joseph Abibos"
+name: Saint Joseph Abibos
 honorific: Saint
-summary: "Abbot of Alavendi, Georgia. Disciple of Saint John Zedazneli."
+summary: Abbot of Alavendi, Georgia. Disciple of Saint John Zedazneli.
 deathYear: 590
-born: "Syria"
-died: "c.590"
-region: "England"
+born: Syria
+died: c.590
+region: England
 feastDay:
   month: 9
   day: 15
@@ -14,6 +14,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: false
+prayers: []
 ---
 
 Abbot of Alavendi, Georgia. Disciple of Saint John Zedazneli.

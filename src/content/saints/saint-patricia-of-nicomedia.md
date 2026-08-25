@@ -17,6 +17,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Married of Saint Macedonius of Nicomedia and mother of Saint Modesta of Nicomedia. The whole family was martyred with several other Christians whose names have not come down to us.

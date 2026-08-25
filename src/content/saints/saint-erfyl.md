@@ -1,13 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Erfyl"
+name: Saint Erfyl
 honorific: Saint
-summary: "Holy virgin who founded the church of Llanerfyl, Montgomeryshire, Wales. No reliable information has survived."
+summary: Holy virgin who founded the church of Llanerfyl, Montgomeryshire, Wales. No reliable information has survived.
 searchAliases:
-  - "Eurfyl"
-  - "Euerfyl"
-born: "in the British Isles"
-region: "England"
+  - Eurfyl
+  - Euerfyl
+born: in the British Isles
+region: England
 feastDay:
   month: 7
   day: 5
@@ -16,8 +16,9 @@ vocation:
   - Virgin
   - Monk
 patronage:
-  - "Llanerfyl, Wales"
+  - Llanerfyl, Wales
 martyr: false
+prayers: []
 ---
 
 Holy virgin who founded the church of Llanerfyl, Montgomeryshire, Wales. No reliable information has survived.

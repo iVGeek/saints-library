@@ -14,6 +14,7 @@ image: >-
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Martyr.

@@ -1,20 +1,24 @@
 ---
-name: "Saint Christina of Markyate"
+name: Saint Christina of Markyate
 honorific: Saint
-summary: "Born to the Anglo-Saxon nobility, the daughter of Autti, a rich and influential guild merchant. At age 15 she visited Saint Albans Abbey where she made a private vow of celibacy. Her parents opposed her vow, and arranged a marriage for her with a man named Berktred. Christina too"
+summary: >-
+  Born to the Anglo-Saxon nobility, the daughter of Autti, a rich and influential guild merchant. At age 15 she visited
+  Saint Albans Abbey where she made a private vow of celibacy. Her parents opposed her vow, and arranged a marriage for
+  her with a man named Berktred. Christina too
 searchAliases:
-  - "Christina of Markgate"
-  - "Christina Theodora"
-  - "Kristina of Markyate"
-region: "England"
+  - Christina of Markgate
+  - Christina Theodora
+  - Kristina of Markyate
+region: England
 feastDay:
   month: 12
   day: 5
 canonizationStatus: Saint
-image: "https://upload.wikimedia.org/wikipedia/commons/0/0c/Margate_lg.jpg"
+image: https://upload.wikimedia.org/wikipedia/commons/0/0c/Margate_lg.jpg
 vocation:
   - Confessor
 martyr: false
+prayers: []
 ---
 
 Born to the Anglo-Saxon nobility, the daughter of Autti, a rich and influential guild merchant. At age 15 she visited Saint Albans Abbey where she made a private vow of celibacy. Her parents opposed her vow, and arranged a marriage for her with a man named Berktred. Christina took her case to Bishop Robert Bloet who initially sided with her, but who was later bribed into changing his ruling.

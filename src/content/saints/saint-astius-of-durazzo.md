@@ -25,6 +25,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/1/1d/Amphitheatre_of_Durr%C3%ABs_2013-09_005.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Astius of Durazzo
 imageCreditUrl: https://en.wikipedia.org/wiki/Durr%C3%ABs
+prayers: []
 ---
 
 Bishop of Durazzo (in modern Albania). He was martyred in the persecutions of Trajan as part of a sacrifice to the pagan god Dionysus.

@@ -1,14 +1,16 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Nemesian of Sigum"
+name: Saint Nemesian of Sigum
 honorific: Saint
-summary: "Bishop in Numidia, North Africa. Sentenced along with a large number of clergy and laity to slavery in the marble quarries in Sigum as punishment for being Christian. Martyr."
+summary: >-
+  Bishop in Numidia, North Africa. Sentenced along with a large number of clergy and laity to slavery in the marble
+  quarries in Sigum as punishment for being Christian. Martyr.
 searchAliases:
-  - "Nemesianus"
-  - "Nemesiano"
+  - Nemesianus
+  - Nemesiano
 deathYear: 257
-died: "worked to death c.257 in Sigum"
-region: "England"
+died: worked to death c.257 in Sigum
+region: England
 feastDay:
   month: 9
   day: 10
@@ -19,6 +21,7 @@ vocation:
   - Monk
   - Confessor
 martyr: true
+prayers: []
 ---
 
 Bishop in Numidia, North Africa. Sentenced along with a large number of clergy and laity to slavery in the marble quarries in Sigum as punishment for being Christian. Martyr.

@@ -1,20 +1,23 @@
 ---
-name: "Saint Philip Benizi"
+name: Saint Philip Benizi
 honorific: Saint
-summary: "Born to the Italian nobility. Brilliant student. Studied medicine at Paris, France, and Padua, Italy, receiving his doctorates in medicine and philosophy by age 19. Practiced medicine for about a year, but following a vision of the Virgin Mary, he quit to join the Servites as a l"
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Philip-Benizi-1.jpg"
+summary: >-
+  Born to the Italian nobility. Brilliant student. Studied medicine at Paris, France, and Padua, Italy, receiving his
+  doctorates in medicine and philosophy by age 19. Practiced medicine for about a year, but following a vision of the
+  Virgin Mary, he quit to join the Servites as a l
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Philip-Benizi-1.jpg
 searchAliases:
-  - "Felipe Benicio"
-  - "Filip Benizi"
-  - "Philip Benitius"
-  - "Philip Beniti"
+  - Felipe Benicio
+  - Filip Benizi
+  - Philip Benitius
+  - Philip Beniti
 birthYear: 1233
 deathYear: 1285
-born: "15 August (Feast of the Assumption) 1233 at  district of Oltrarno, Florence, Italy"
-died: "22 August (Octave of the Assumption) 1285 at Todi, Italy"
-birthPlace: "Florence, Italy"
-deathPlace: "Italy"
-region: "France"
+born: 15 August (Feast of the Assumption) 1233 at  district of Oltrarno, Florence, Italy
+died: 22 August (Octave of the Assumption) 1285 at Todi, Italy
+birthPlace: Florence, Italy
+deathPlace: Italy
+region: France
 feastDay:
   month: 8
   day: 22
@@ -24,11 +27,12 @@ vocation:
   - Priest
   - Monk
   - Confessor
-religiousOrder: "Dominican"
+religiousOrder: Dominican
 patronage:
-  - "Florence, Italy"
-  - "Sergio Osmena, Zamboanga del Norte, Philippines"
+  - Florence, Italy
+  - Sergio Osmena, Zamboanga del Norte, Philippines
 martyr: false
+prayers: []
 ---
 
 Born to the Italian nobility. Brilliant student. Studied medicine at Paris, France, and Padua, Italy, receiving his doctorates in medicine and philosophy by age 19. Practiced medicine for about a year, but following a vision of the Virgin Mary, he quit to join the Servites as a lay brother at Monte Senario in 1254. Ordained at Siena, Italy in 1258. Tried to hide his education so he could remain a simple member of the Order, but he was persuaded to use his gifts and background to further the Servite mission. Novice master at Siena in 1262.

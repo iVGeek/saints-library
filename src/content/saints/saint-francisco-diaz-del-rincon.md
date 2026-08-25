@@ -1,25 +1,29 @@
 ---
-name: "Saint Francisco Díaz del Rincón"
+name: Saint Francisco Díaz del Rincón
 honorific: Venerable
-summary: "Joined the Dominicans in Ecija, Spain at age 17, making his profession on 12 September 1731. Priest. Missionary to the Philippines in 1735, and soon after that in China. Martyr."
-image: "http://catholicsaints.info/wp-content/uploads/img-Francisco-Díaz-del-Rincón.jpg"
+summary: >-
+  Joined the Dominicans in Ecija, Spain at age 17, making his profession on 12 September 1731. Priest. Missionary to the
+  Philippines in 1735, and soon after that in China. Martyr.
+image: http://catholicsaints.info/wp-content/uploads/img-Francisco-Díaz-del-Rincón.jpg
 birthYear: 1713
 deathYear: 1748
-born: "2 October 1713 in Ecija, Seville, Spain"
-died: "tortured and strangled to death on the evening of 28 October 1748 in prison at Fu-tsheu, China"
-birthPlace: "Seville, Spain"
-deathPlace: "China"
-region: "China"
+born: 2 October 1713 in Ecija, Seville, Spain
+died: tortured and strangled to death on the evening of 28 October 1748 in prison at Fu-tsheu, China
+birthPlace: Seville, Spain
+deathPlace: China
+region: China
 feastDay:
   month: 10
   day: 28
-centuries: [18]
+centuries:
+  - 18
 canonizationStatus: Venerable
 vocation:
   - Priest
   - Missionary
-religiousOrder: "Dominican"
+religiousOrder: Dominican
 martyr: true
+prayers: []
 ---
 
 Joined the Dominicans in Ecija, Spain at age 17, making his profession on 12 September 1731. Priest. Missionary to the Philippines in 1735, and soon after that in China. Martyr.

@@ -1,9 +1,9 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Marciano of Constantinople"
+name: Saint Marciano of Constantinople
 honorific: Saint
-summary: "Cantor. Martyred by Arians in the persecutions of emperor Constantius."
-region: "Italy"
+summary: Cantor. Martyred by Arians in the persecutions of emperor Constantius.
+region: Italy
 feastDay:
   month: 10
   day: 25
@@ -11,6 +11,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Cantor. Martyred by Arians in the persecutions of emperor Constantius.

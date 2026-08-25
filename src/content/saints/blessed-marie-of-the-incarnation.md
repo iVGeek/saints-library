@@ -1,39 +1,43 @@
 ---
-name: "Blessed Marie of the Incarnation"
+name: Blessed Marie of the Incarnation
 honorific: Blessed
-summary: "Daughter of a French government official named Nicholas Aurillot. Educated at her aunt's convent at Longchamps. Though attracted to religious life, she married Pierre Acarie, an aristocrat and treasury official, at age 16. Mother of six, three of whom became Carmelites, and one a"
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Marie-of-the-Incarnation1.jpg"
+summary: >-
+  Daughter of a French government official named Nicholas Aurillot. Educated at her aunt's convent at Longchamps. Though
+  attracted to religious life, she married Pierre Acarie, an aristocrat and treasury official, at age 16. Mother of six,
+  three of whom became Carmelites, and one a
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Marie-of-the-Incarnation1.jpg
 searchAliases:
-  - "Barbara Aurillot"
-  - "Barbara Avrillot"
-  - "Barbe Acarie"
-  - "Barbe Aurillot"
-  - "Barbe Avrillot"
-  - "Madame Acarie"
-  - "Marie Acarie"
-  - "Mary of the Incarnation"
+  - Barbara Aurillot
+  - Barbara Avrillot
+  - Barbe Acarie
+  - Barbe Aurillot
+  - Barbe Avrillot
+  - Madame Acarie
+  - Marie Acarie
+  - Mary of the Incarnation
 birthYear: 1566
 deathYear: 1618
-born: "1 February 1566 at Paris, France as Barbe Aurillot"
-died: "18 April 1618 at Pontoise, France of natural causes"
-birthPlace: "France as Barbe Aurillot"
-deathPlace: "Francenatural causes"
-region: "France"
+born: 1 February 1566 at Paris, France as Barbe Aurillot
+died: 18 April 1618 at Pontoise, France of natural causes
+birthPlace: France as Barbe Aurillot
+deathPlace: Francenatural causes
+region: France
 feastDay:
   month: 4
   day: 18
 canonizationStatus: Blessed
 vocation:
   - Confessor
-religiousOrder: "Carmelite"
+religiousOrder: Carmelite
 patronage:
-  - "against impoverishment"
-  - "against loss of parents"
-  - "against poverty"
-  - "parents separated from children"
-  - "poor people"
-  - "widows"
+  - against impoverishment
+  - against loss of parents
+  - against poverty
+  - parents separated from children
+  - poor people
+  - widows
 martyr: false
+prayers: []
 ---
 
 Daughter of a French government official named Nicholas Aurillot. Educated at her aunt's convent at Longchamps. Though attracted to religious life, she married Pierre Acarie, an aristocrat and treasury official, at age 16. Mother of six, three of whom became Carmelites, and one a priest.

@@ -1,23 +1,24 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Reginalda Picas Planas"
+name: Blessed Reginalda Picas Planas
 honorific: Blessed
-summary: "Member of the Dominican Sisters of the Anunciata. Martyred in the Spanish Civil War."
+summary: Member of the Dominican Sisters of the Anunciata. Martyred in the Spanish Civil War.
 birthYear: 1895
 deathYear: 1936
-born: "25 May 1895 in Borreda, Barcelona, Spain"
-died: "27 July 1936 in Manresa, Barcelona, Spain"
-birthPlace: "Barcelona, Spain"
-deathPlace: "Barcelona, Spain"
-region: "Spain"
+born: 25 May 1895 in Borreda, Barcelona, Spain
+died: 27 July 1936 in Manresa, Barcelona, Spain
+birthPlace: Barcelona, Spain
+deathPlace: Barcelona, Spain
+region: Spain
 feastDay:
   month: 7
   day: 27
 canonizationStatus: Blessed
 vocation:
   - Religious
-religiousOrder: "Dominican"
+religiousOrder: Dominican
 martyr: true
+prayers: []
 ---
 
 Member of the Dominican Sisters of the Anunciata. Martyred in the Spanish Civil War.

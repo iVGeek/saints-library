@@ -1,26 +1,30 @@
 ---
-name: "Blessed Christian de Chergé"
+name: Blessed Christian de Chergé
 honorific: Blessed
-summary: "Born to an aristocratic French family with a military tradition; his father, a general, was the commander of the 67th Artillery Regiment of Africa, and Charles spent part of his childhood in Algeria before the family returned to France. He studied at the Carmelite Sainte-Marie de"
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Christian-de-Chergé.jpg"
+summary: >-
+  Born to an aristocratic French family with a military tradition; his father, a general, was the commander of the 67th
+  Artillery Regiment of Africa, and Charles spent part of his childhood in Algeria before the family returned to France.
+  He studied at the Carmelite Sainte-Marie de
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Christian-de-Chergé.jpg
 searchAliases:
-  - "Charles-Marie Christian de Chergé"
-  - "one of the Monks of Tibhirine"
+  - Charles-Marie Christian de Chergé
+  - one of the Monks of Tibhirine
 birthYear: 1937
 deathYear: 1996
-born: "18 January 1937 in Colmar, Haut-Rhin, France"
-died: "21 May 1996 near Médéa, Algeria"
-birthPlace: "Haut-Rhin, France"
-deathPlace: "Algeria"
-region: "France"
+born: 18 January 1937 in Colmar, Haut-Rhin, France
+died: 21 May 1996 near Médéa, Algeria
+birthPlace: Haut-Rhin, France
+deathPlace: Algeria
+region: France
 feastDay:
   month: 5
   day: 21
 canonizationStatus: Blessed
 vocation:
   - Missionary
-religiousOrder: "Carmelite"
+religiousOrder: Carmelite
 martyr: true
+prayers: []
 ---
 
 Born to an aristocratic French family with a military tradition; his father, a general, was the commander of the 67th Artillery Regiment of Africa, and Charles spent part of his childhood in Algeria before the family returned to France. He studied at the Carmelite Sainte-Marie de Manceau School outside Paris, France, from 1947 to 1954, was an exceptional student – and a Boy Scout.

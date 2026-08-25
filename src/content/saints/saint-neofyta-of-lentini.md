@@ -1,16 +1,18 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Neofyta of Lentini"
+name: Saint Neofyta of Lentini
 honorific: Saint
-summary: "Born to the Sicilian nobility; sister of Saint Isadora of Lentini. Married. Mother of Saint Neofytus of Lentini. Seized, tortured and murdered with Saint Isadora by pagans for refusing to renounce Christianity. Martyr."
+summary: >-
+  Born to the Sicilian nobility; sister of Saint Isadora of Lentini. Married. Mother of Saint Neofytus of Lentini.
+  Seized, tortured and murdered with Saint Isadora by pagans for refusing to renounce Christianity. Martyr.
 searchAliases:
-  - "Neophyte"
-  - "Neofita"
+  - Neophyte
+  - Neofita
 deathYear: 237
-born: "2nd century Lentini, Sicily, Italy"
-died: "c.237"
-birthPlace: "Sicily, Italy"
-region: "Italy"
+born: 2nd century Lentini, Sicily, Italy
+died: c.237
+birthPlace: Sicily, Italy
+region: Italy
 feastDay:
   month: 4
   day: 17
@@ -18,6 +20,7 @@ canonizationStatus: Saint
 vocation:
   - Religious
 martyr: true
+prayers: []
 ---
 
 Born to the Sicilian nobility; sister of Saint Isadora of Lentini. Married. Mother of Saint Neofytus of Lentini. Seized, tortured and murdered with Saint Isadora by pagans for refusing to renounce Christianity. Martyr.

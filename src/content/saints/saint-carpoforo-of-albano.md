@@ -15,6 +15,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/f/fa/257SsQuattroCoronati.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Carpóforo of Albano
 imageCreditUrl: https://en.wikipedia.org/wiki/Santi%20Quattro%20Coronati
+prayers: []
 ---
 
 Martyr. No other information has survived.

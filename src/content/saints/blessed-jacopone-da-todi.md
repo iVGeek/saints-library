@@ -1,24 +1,27 @@
 ---
-name: "Blessed Jacopone da Todi"
+name: Blessed Jacopone da Todi
 honorific: Blessed
-summary: "Italian noble from the Benedetti family of Todi. Successful lawyer at Bologna, Italy. Married to Vanna di Guidone in 1267; she considered Jacomo too worldly, and did penance for him. In 1268, Jacomo insisted she attend a public tournament against her wishes; the stands in which s"
-image: "https://catholicsaints.info/wp-content/uploads/img-Jacopone-da-Todi.jpg"
+summary: >-
+  Italian noble from the Benedetti family of Todi. Successful lawyer at Bologna, Italy. Married to Vanna di Guidone in
+  1267; she considered Jacomo too worldly, and did penance for him. In 1268, Jacomo insisted she attend a public
+  tournament against her wishes; the stands in which s
+image: https://catholicsaints.info/wp-content/uploads/img-Jacopone-da-Todi.jpg
 searchAliases:
-  - "Crazy Jim"
-  - "Iacopone da Todi"
-  - "Jacomo da Todi"
-  - "Jacopo Benedetti"
-  - "Jacopo Benedicti"
-  - "Jacopone Benedetti da Todi"
-  - "Jacopone of Todi"
-  - "James da Todi"
+  - Crazy Jim
+  - Iacopone da Todi
+  - Jacomo da Todi
+  - Jacopo Benedetti
+  - Jacopo Benedicti
+  - Jacopone Benedetti da Todi
+  - Jacopone of Todi
+  - James da Todi
 birthYear: 1230
 deathYear: 1306
-born: "c.1230 at Todi, Italy as Jacopo Benedetti"
-died: "25 December 1306 at Collazzone, Italy of natural causes as a priest intoned the Gloria from midnight Mass"
-birthPlace: "Italy as Jacopo Benedetti"
-deathPlace: "Italynatural causes as a priest intoned the Gloria from midnight Mass"
-region: "Italy"
+born: c.1230 at Todi, Italy as Jacopo Benedetti
+died: 25 December 1306 at Collazzone, Italy of natural causes as a priest intoned the Gloria from midnight Mass
+birthPlace: Italy as Jacopo Benedetti
+deathPlace: Italynatural causes as a priest intoned the Gloria from midnight Mass
+region: Italy
 feastDay:
   month: 12
   day: 25
@@ -27,10 +30,11 @@ vocation:
   - Virgin
   - Priest
   - Cardinal
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 patronage:
-  - "Todi, Italy"
+  - Todi, Italy
 martyr: false
+prayers: []
 ---
 
 Italian noble from the Benedetti family of Todi. Successful lawyer at Bologna, Italy. Married to Vanna di Guidone in 1267; she considered Jacomo too worldly, and did penance for him. In 1268, Jacomo insisted she attend a public tournament against her wishes; the stands in which she sat collapsed, and Vanna was killed. The shock of this event, and his discovery of her penance for him, caused a radical change in Jacomo. He gave his possessions to the poor, dressed in rags, and became a Franciscan tertiary. His former associates called him Jacopone – Crazy Jim; he embraced the name.

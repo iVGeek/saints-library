@@ -22,6 +22,7 @@ vocation:
   - Cardinal
 religiousOrder: Salesian
 martyr: true
+prayers: []
 ---
 
 Joined the Salesians of Don Bosco in 1931, and made his solemn vows on 7 March 1938. Ordained a priest in 1940. Chaplain, school council member and chemistry teacher. Helped Salesians in Czechoslovakia escape to Italy after Communists banned religious orders on 13 April 1950 and and began imprisoning members. Captured on 9 April 1951 during an escape attempt, he was interrogated, tortured and sentenced to 25 years. The abuse during his imprisonment destroyed his health; he was released in 1964, but never actually recovered, and his death is directly attributable to the injuries he sustained in prison. Martyr.

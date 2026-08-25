@@ -1,11 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Macedonius of Nicomedia"
+name: Saint Macedonius of Nicomedia
 honorific: Saint
-summary: "Married to Saint Patricia of Nicomedia; father of Saint Modesta of Nicomedia. The whole family was martyred with several other Christians whose names have not come down to us."
+summary: >-
+  Married to Saint Patricia of Nicomedia; father of Saint Modesta of Nicomedia. The whole family was martyred with
+  several other Christians whose names have not come down to us.
 deathYear: 304
-died: "c.304 at Nicomedia (in modern Turkey)"
-region: "England"
+died: c.304 at Nicomedia (in modern Turkey)
+region: England
 feastDay:
   month: 3
   day: 13
@@ -14,6 +16,7 @@ vocation:
   - Priest
   - Monk
 martyr: true
+prayers: []
 ---
 
 Married to Saint Patricia of Nicomedia; father of Saint Modesta of Nicomedia. The whole family was martyred with several other Christians whose names have not come down to us.

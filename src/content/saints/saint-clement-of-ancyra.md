@@ -1,11 +1,11 @@
 ---
-name: "Saint Clement of Ancyra"
+name: Saint Clement of Ancyra
 honorific: Saint
-summary: "Fourth-century bishop of Ancyra in Galatia, Asia Minor. Martyred in the persecutions of Diocletian and Maximinian."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Clement-of-Ankyra.jpg"
+summary: Fourth-century bishop of Ancyra in Galatia, Asia Minor. Martyred in the persecutions of Diocletian and Maximinian.
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Clement-of-Ankyra.jpg
 deathYear: 303
-died: "303"
-region: "Turkey"
+died: '303'
+region: Turkey
 feastDay:
   month: 1
   day: 23
@@ -15,8 +15,9 @@ vocation:
   - Priest
   - Monk
   - Deacon
-religiousOrder: "Jesuit"
+religiousOrder: Jesuit
 martyr: true
+prayers: []
 ---
 
 Fourth-century bishop of Ancyra in Galatia, Asia Minor. Martyred in the persecutions of Diocletian and Maximinian.

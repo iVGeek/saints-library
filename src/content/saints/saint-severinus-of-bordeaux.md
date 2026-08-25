@@ -19,6 +19,7 @@ vocation:
 patronage:
   - Bordeaux, France
 martyr: false
+prayers: []
 ---
 
 Bishop of Bordeaux, France c.405.

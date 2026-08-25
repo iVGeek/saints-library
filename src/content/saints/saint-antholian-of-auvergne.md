@@ -1,15 +1,15 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Antholian of Auvergne"
+name: Saint Antholian of Auvergne
 honorific: Saint
-summary: "Martyred in the persecutions of Valerian and Gallienus."
+summary: Martyred in the persecutions of Valerian and Gallienus.
 searchAliases:
-  - "Antoliano"
-  - "Anatolianus"
+  - Antoliano
+  - Anatolianus
 deathYear: 265
-died: "c.265 in Auvergne, France"
-deathPlace: "France"
-region: "France"
+died: c.265 in Auvergne, France
+deathPlace: France
+region: France
 feastDay:
   month: 2
   day: 6
@@ -17,6 +17,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Martyred in the persecutions of Valerian and Gallienus.

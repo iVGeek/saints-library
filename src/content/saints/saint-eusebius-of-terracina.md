@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Eusebius of Terracina"
+name: Saint Eusebius of Terracina
 honorific: Saint
-summary: "Martyr. No other information has survived."
-died: "1st century in Terracina, Italy"
-deathPlace: "Italy"
-region: "Italy"
+summary: Martyr. No other information has survived.
+died: 1st century in Terracina, Italy
+deathPlace: Italy
+region: Italy
 feastDay:
   month: 11
   day: 5
@@ -13,6 +13,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Martyr. No other information has survived.

@@ -30,6 +30,7 @@ patronage:
     Maastricht
   - Utrecht
 martyr: true
+prayers: []
 ---
 
 Grandson of King Radbon of the Frisians. Educated by the priests at Utrecht, Netherlands. Priest, known for his learning and personal piety. Catechist and instructor to converts. Bishop of Utrecht in 825. Frederick worked to reform his clergy, regularize Church practice in his diocese, and opposed incestuous marriages, especially among the nobility. He dispatched a group of missionaries under the leadership to Saint Odulphus to evangelize the pagans to the north of Utrecht, and worked with them around Walcheren. He composed a prayer to the Blessed Trinity that was used for ages in the Netherlands. The memory of his life and sanctity were preserved in a poem by his contemporary Saint Rabanus Maurus.

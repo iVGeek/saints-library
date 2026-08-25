@@ -1,12 +1,12 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Demetrius of Antioch"
+name: Saint Demetrius of Antioch
 honorific: Saint
-summary: "Bishop of Antioch. Exiled and martyred with 22 companions by king Shapur I."
+summary: Bishop of Antioch. Exiled and martyred with 22 companions by king Shapur I.
 deathYear: 260
-died: "c.260 at Antioch, Syria"
-deathPlace: "Syria"
-region: "Turkey"
+died: c.260 at Antioch, Syria
+deathPlace: Syria
+region: Turkey
 feastDay:
   month: 11
   day: 10
@@ -15,6 +15,7 @@ vocation:
   - Bishop
   - Monk
 martyr: true
+prayers: []
 ---
 
 Bishop of Antioch. Exiled and martyred with 22 companions by king Shapur I.

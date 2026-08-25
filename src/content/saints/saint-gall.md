@@ -40,6 +40,7 @@ patronage:
   - –
   - St Gallen, Switzerland
 martyr: false
+prayers: []
 ---
 
 Younger brother of Saint Deicola. Studied at Bangor Abbey under Saint Comgall of Bangor and Saint Columba. Bible scholar. Priest. One of the twelve who accompanied Saint Columbanus to France and helped found Luxeuil Abbey. He followed Columbanus into exile in 610 and then to Austrasia, where he preached with little success around Lake Zurich, and near Bregenz.

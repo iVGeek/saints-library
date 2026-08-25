@@ -16,6 +16,7 @@ image: https://commons.wikimedia.org/wiki/Special:FilePath/TabulaEpiscoporumTrev
 vocation:
   - Bishop
 martyr: false
+prayers: []
 ---
 
 Bishop of Trier, Germany from c.414 to c.445.

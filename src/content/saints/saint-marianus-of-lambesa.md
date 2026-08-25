@@ -1,12 +1,12 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Marianus of Lambesa"
+name: Saint Marianus of Lambesa
 honorific: Saint
-summary: "Lector. Martyr."
+summary: Lector. Martyr.
 deathYear: 259
-died: "beheaded in 259 at Lambesa, North Africa"
-deathPlace: "North Africa"
-region: "England"
+died: beheaded in 259 at Lambesa, North Africa
+deathPlace: North Africa
+region: England
 feastDay:
   month: 5
   day: 6
@@ -14,8 +14,9 @@ canonizationStatus: Saint
 vocation:
   - Priest
   - Monk
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 martyr: true
+prayers: []
 ---
 
 Lector. Martyr.

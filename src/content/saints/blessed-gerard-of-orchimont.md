@@ -1,19 +1,20 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Gerard of Orchimont"
+name: Blessed Gerard of Orchimont
 honorific: Blessed
-summary: "Benedictine monk. Abbot in Florennes, Belgium from 1126 to 1136."
+summary: Benedictine monk. Abbot in Florennes, Belgium from 1126 to 1136.
 deathYear: 1138
-died: "1138 of natural causes"
-region: "Belgium"
+died: 1138 of natural causes
+region: Belgium
 feastDay:
   month: 4
   day: 23
 canonizationStatus: Blessed
 vocation:
   - Monk
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 martyr: false
+prayers: []
 ---
 
 Benedictine monk. Abbot in Florennes, Belgium from 1126 to 1136.

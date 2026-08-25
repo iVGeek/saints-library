@@ -1,16 +1,18 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Alnoth"
+name: Saint Alnoth
 honorific: Saint
-summary: "Born a serf, he worked as a cow-herd near the monastery of Saint Werburgh at Weedon, Northamptonshire, England. Hermit in the forest near Stowe, England. Martyr."
+summary: >-
+  Born a serf, he worked as a cow-herd near the monastery of Saint Werburgh at Weedon, Northamptonshire, England. Hermit
+  in the forest near Stowe, England. Martyr.
 searchAliases:
-  - "Aelnoth"
-  - "Alnothus"
-  - "Alnoto"
+  - Aelnoth
+  - Alnothus
+  - Alnoto
 deathYear: 700
-died: "c.700 near Stowe, England"
-deathPlace: "England"
-region: "England"
+died: c.700 near Stowe, England
+deathPlace: England
+region: England
 feastDay:
   month: 2
   day: 27
@@ -20,6 +22,7 @@ vocation:
   - Monk
   - Hermit
 martyr: true
+prayers: []
 ---
 
 Born a serf, he worked as a cow-herd near the monastery of Saint Werburgh at Weedon, Northamptonshire, England. Hermit in the forest near Stowe, England. Martyr.

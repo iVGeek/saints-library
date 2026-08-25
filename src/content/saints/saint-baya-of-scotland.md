@@ -17,6 +17,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/c/c3/Harry_Fragson.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Baya of Scotland
 imageCreditUrl: https://en.wikipedia.org/wiki/Harry%20Fragson
+prayers: []
 ---
 
 Tenth century anchoress in Scotland. Spiritual director of Saint Maura of Scotland.

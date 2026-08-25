@@ -1,21 +1,24 @@
 ---
-name: "Saint Wilfrid of York"
+name: Saint Wilfrid of York
 honorific: Saint
-summary: "Son of a Northumbrian thegn. His mother died when Wilfrid was a boy, and he never got along with his step-mother. At age 14, partly to escape the miserable family life, he was sent to the court of Oswy, King of Northumbria (part of modern England). He studied at the monastery of"
-image: "http://catholicsaints.info/wp-content/uploads/Saint-Wilfrid-of-York.jpg"
+summary: >-
+  Son of a Northumbrian thegn. His mother died when Wilfrid was a boy, and he never got along with his step-mother. At
+  age 14, partly to escape the miserable family life, he was sent to the court of Oswy, King of Northumbria (part of
+  modern England). He studied at the monastery of
+image: http://catholicsaints.info/wp-content/uploads/Saint-Wilfrid-of-York.jpg
 searchAliases:
-  - "Wilfrid of Hexham"
-  - "Wilfrid of Ripon"
-  - "Vilfrido…"
-  - "Wilfrith…"
-  - "Apostle of Sussex"
+  - Wilfrid of Hexham
+  - Wilfrid of Ripon
+  - Vilfrido…
+  - Wilfrith…
+  - Apostle of Sussex
 birthYear: 634
 deathYear: 709
-born: "634 in Northumbria, England"
-died: "709 at Oundle, Northhamptonshire, England"
-birthPlace: "England"
-deathPlace: "Northhamptonshire, England"
-region: "France"
+born: 634 in Northumbria, England
+died: 709 at Oundle, Northhamptonshire, England
+birthPlace: England
+deathPlace: Northhamptonshire, England
+region: France
 feastDay:
   month: 4
   day: 24
@@ -26,14 +29,18 @@ vocation:
   - Deacon
   - Missionary
   - Confessor
-religiousOrder: "Jesuit"
+religiousOrder: Jesuit
 patronage:
-  - "in England\n\nLeeds, diocese of"
-  - "Middlesbrough, diocese of"
-  - "Ripon"
-  - "Sompting"
-  - "York"
+  - |-
+    in England
+
+    Leeds, diocese of
+  - Middlesbrough, diocese of
+  - Ripon
+  - Sompting
+  - York
 martyr: false
+prayers: []
 ---
 
 Son of a Northumbrian thegn. His mother died when Wilfrid was a boy, and he never got along with his step-mother. At age 14, partly to escape the miserable family life, he was sent to the court of Oswy, King of Northumbria (part of modern England). He studied at the monastery of Lindisfarne, England for three years, then accompanied Saint Benedict Biscop to Rome, Italy where he studied under archdeacon Boniface. He stayed in Lyon, France for three years to study the monastic life, and became a monk, but left during persecutions of the local Christians. He was appointed abbot of the monastery at Ripon, England for five years, and placed it under the Benedictine Rule. Priest.

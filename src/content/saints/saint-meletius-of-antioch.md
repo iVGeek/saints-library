@@ -27,6 +27,7 @@ vocation:
   - Deacon
   - Confessor
 martyr: false
+prayers: []
 ---
 
 Born to a wealthy and prominent family. Bishop of Sebaste, Armenia (modern Sivas, Turkey) in 358 following the deposing of an Arian bishop. The Arian priests revolted, and forced Meletius into exile. Chosen bishop of Antioch, Syria after that city's Arian bishop had re-located to Constantinople. The Arians in the diocese revolted, and Meletius was exiled three times, returning in 362, 367 and 378. Supported by Saint Basil of Caesarea while in exile. In 379 he called a council at Antioch to formally install orthodox Nicene Christianity as the proper profession of the faith. Baptized and ordained Saint John Chrysostom; consecrated Saint Gregory of Nazianus as bishop of Constantinople in 381.

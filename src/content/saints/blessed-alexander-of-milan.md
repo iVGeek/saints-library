@@ -17,6 +17,7 @@ canonizationStatus: Blessed
 vocation: []
 religiousOrder: Franciscan
 martyr: false
+prayers: []
 ---
 
 Zealous and pious Franciscan Friar Minor Observant at the convent of Santa Maria delle Grazie in Chieri, Italy.

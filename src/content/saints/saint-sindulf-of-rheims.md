@@ -22,6 +22,7 @@ vocation:
   - Monk
   - Hermit
 martyr: false
+prayers: []
 ---
 
 Hermit in Aussonce, France.

@@ -1,9 +1,9 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Salvinus of Verdun"
+name: Saint Salvinus of Verdun
 honorific: Saint
-summary: "Bishop of Verdun, France c.383, serving over 36 years."
-region: "France"
+summary: Bishop of Verdun, France c.383, serving over 36 years.
+region: France
 feastDay:
   month: 9
   day: 4
@@ -12,6 +12,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Bishop of Verdun, France c.383, serving over 36 years.

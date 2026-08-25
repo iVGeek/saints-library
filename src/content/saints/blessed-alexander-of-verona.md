@@ -16,6 +16,7 @@ canonizationStatus: Blessed
 vocation: []
 religiousOrder: Franciscan
 martyr: false
+prayers: []
 ---
 
 15th century Franciscan friar and preacher. Tradition says that he would levitate when in prayer, and had the gift of healing the sick by making the sign of the cross over them.

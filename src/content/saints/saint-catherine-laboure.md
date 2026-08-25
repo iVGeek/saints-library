@@ -1,30 +1,35 @@
 ---
-name: "Saint Catherine Labouré"
+name: Saint Catherine Labouré
 honorific: Venerable
-summary: "Ninth of eleven children born to a farm family, and from an early age Catherine felt a call to the religious life. Never learned to read or write. Forced to take over running the house at age eight after her mother died and her older sister joined the Sisters of Charity. Worked a"
-image: "https://upload.wikimedia.org/wikipedia/commons/c/c0/Catherine_Laboure.jpg"
+summary: >-
+  Ninth of eleven children born to a farm family, and from an early age Catherine felt a call to the religious life.
+  Never learned to read or write. Forced to take over running the house at age eight after her mother died and her older
+  sister joined the Sisters of Charity. Worked a
+image: https://upload.wikimedia.org/wikipedia/commons/c/c0/Catherine_Laboure.jpg
 searchAliases:
-  - "Zoe Laboure"
-  - "Catherine Labore"
+  - Zoe Laboure
+  - Catherine Labore
 birthYear: 1806
 deathYear: 1876
-born: "2 May 1806 at Fain-les-Moûtiers, Côte d'Or, Burgundy, France as Zoe Laboure"
-died: "31 December 1876 at Enghien-Reuilly, France"
-birthPlace: "Côte d'Or, Burgundy, France as Zoe Laboure"
-deathPlace: "France"
-region: "France"
+born: 2 May 1806 at Fain-les-Moûtiers, Côte d'Or, Burgundy, France as Zoe Laboure
+died: 31 December 1876 at Enghien-Reuilly, France
+birthPlace: Côte d'Or, Burgundy, France as Zoe Laboure
+deathPlace: France
+region: France
 feastDay:
   month: 11
   day: 28
-centuries: [19]
+centuries:
+  - 19
 canonizationStatus: Venerable
 vocation:
   - Priest
   - Religious
 patronage:
-  - "pigeon fanciers"
-  - "pigeons"
+  - pigeon fanciers
+  - pigeons
 martyr: false
+prayers: []
 ---
 
 Ninth of eleven children born to a farm family, and from an early age Catherine felt a call to the religious life. Never learned to read or write. Forced to take over running the house at age eight after her mother died and her older sister joined the Sisters of Charity. Worked as a waitress in her uncle's cafe in Paris, France. Upon entering a hospital run by the Sisters of Charity she received a vision in which Saint Vincent de Paul told her that God wanted her to work with the sick, and she later joined the Order, taking the name Catherine.

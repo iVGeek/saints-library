@@ -21,6 +21,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/7/7d/Saint_Aileran.webp?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Aileran of Clonard
 imageCreditUrl: https://en.wikipedia.org/wiki/Ailer%C3%A1n
+prayers: []
 ---
 
 Monk and teacher at the monastery of Clonard, Ireland. Rector in 650. Noted scholar and master of Greek and Latin. Wrote several theological treatises and biographies of Saint Brigid, Saint Fechin and Saint Patrick.

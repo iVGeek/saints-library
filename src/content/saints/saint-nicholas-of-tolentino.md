@@ -1,20 +1,20 @@
 ---
-name: "Saint Nicholas of Tolentino"
+name: Saint Nicholas of Tolentino
 honorific: Saint
-summary: " Nicholas became an Augustinian friar at age 18, and a student wi His middle-aged parents, Compagnonus de Guarutti and Amata de Guidiani, were childless until a prayerful visit to a shrine of Saint Nicholas of Myra at Bari, Italy. In gratitude, the couple named their son Nicholas."
-image: "https://upload.wikimedia.org/wikipedia/commons/0/0a/Ritratto_di_San_Nicola_da_Tolentino.jpg"
+summary: ' Nicholas became an Augustinian friar at age 18, and a student wi His middle-aged parents, Compagnonus de Guarutti and Amata de Guidiani, were childless until a prayerful visit to a shrine of Saint Nicholas of Myra at Bari, Italy. In gratitude, the couple named their son Nicholas.'
+image: https://upload.wikimedia.org/wikipedia/commons/0/0a/Ritratto_di_San_Nicola_da_Tolentino.jpg
 searchAliases:
-  - "Niccolò da Tolentino"
-  - "Nicola da Tolentino"
-  - "Nicolás de Tolentino"
-  - "Patron of Holy Souls"
+  - Niccolò da Tolentino
+  - Nicola da Tolentino
+  - Nicolás de Tolentino
+  - Patron of Holy Souls
 birthYear: 1245
 deathYear: 1305
-born: "1245 at Sant'Angelo, March of Ancona, diocese of Fermo, Italy"
-died: "10 September 1305 at Tolentino, Italy following a long illness"
-birthPlace: "MarchAncona, diocese of Fermo, Italy"
-deathPlace: "Italy following a long illness"
-region: "Italy"
+born: 1245 at Sant'Angelo, March of Ancona, diocese of Fermo, Italy
+died: 10 September 1305 at Tolentino, Italy following a long illness
+birthPlace: MarchAncona, diocese of Fermo, Italy
+deathPlace: Italy following a long illness
+region: Italy
 feastDay:
   month: 9
   day: 10
@@ -24,27 +24,31 @@ vocation:
   - Priest
   - Monk
   - Confessor
-religiousOrder: "Augustinian"
+religiousOrder: Augustinian
 patronage:
-  - "against pain"
-  - "babies (reported to have raised more than 100 children from the dead)"
-  - "children"
-  - "dying people"
-  - "souls in Purgatory"
-  - "—"
-  - "boatmen"
-  - "mariners"
-  - "sailors"
-  - "watermen"
-  - "—"
-  - "animals"
-  - "sick animals"
-  - "—"
-  - "in Italy\n\nAlbi"
-  - "Rosignano Marittimo"
-  - "Tolentino"
-  - "Torano, Borgorose"
+  - against pain
+  - babies (reported to have raised more than 100 children from the dead)
+  - children
+  - dying people
+  - souls in Purgatory
+  - —
+  - boatmen
+  - mariners
+  - sailors
+  - watermen
+  - —
+  - animals
+  - sick animals
+  - —
+  - |-
+    in Italy
+
+    Albi
+  - Rosignano Marittimo
+  - Tolentino
+  - Torano, Borgorose
 martyr: false
+prayers: []
 ---
 
 His middle-aged parents, Compagnonus de Guarutti and Amata de Guidiani, were childless until a prayerful visit to a shrine of Saint Nicholas of Myra at Bari, Italy. In gratitude, the couple named their son Nicholas.

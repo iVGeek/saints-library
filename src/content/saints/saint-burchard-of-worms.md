@@ -16,6 +16,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Monk at Lobbes Abbey in Belgium. Canonist. Reluctant bishop of Worms, Germany in 1006.

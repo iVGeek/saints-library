@@ -1,13 +1,13 @@
 ---
-name: "Saint Grellen"
+name: Saint Grellen
 honorific: Saint
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Grellen.jpg"
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Grellen.jpg
 searchAliases:
-  - "Grellan"
-  - "Greallain"
-  - "Grellanus"
-  - "Grillan"
-region: "Ireland"
+  - Grellan
+  - Greallain
+  - Grellanus
+  - Grillan
+region: Ireland
 feastDay:
   month: 11
   day: 10
@@ -16,4 +16,5 @@ vocation:
   - Priest
   - Missionary
 martyr: false
+prayers: []
 ---

@@ -1,17 +1,17 @@
 ---
-name: "Saint Martinian the Hermit"
+name: Saint Martinian the Hermit
 honorific: Saint
-summary: " Legend says that one day a miserable, bedraggled woman named Zoe showed at his door requesting a traveller's hospitalit Hermit from age 18. Miracle worker. There are a couple of stories attached to Martinian; in them the line between fact and a good story probably blurs a little."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Martinian-the-Hermit.jpg"
+summary: ' Legend says that one day a miserable, bedraggled woman named Zoe showed at his door requesting a traveller''s hospitalit Hermit from age 18. Miracle worker. There are a couple of stories attached to Martinian; in them the line between fact and a good story probably blurs a little.'
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Martinian-the-Hermit.jpg
 searchAliases:
-  - "Martinian of Athens"
+  - Martinian of Athens
 birthYear: 350
 deathYear: 398
-born: "c.350 at Caesarea, Palestine"
-died: "c.398 at Athens, Greece"
-birthPlace: "Palestine"
-deathPlace: "Greece"
-region: "Greece"
+born: c.350 at Caesarea, Palestine
+died: c.398 at Athens, Greece
+birthPlace: Palestine
+deathPlace: Greece
+region: Greece
 feastDay:
   month: 2
   day: 13
@@ -22,6 +22,7 @@ vocation:
   - Religious
   - Hermit
 martyr: false
+prayers: []
 ---
 
 Hermit from age 18. Miracle worker. There are a couple of stories attached to Martinian; in them the line between fact and a good story probably blurs a little.

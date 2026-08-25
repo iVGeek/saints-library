@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Rogation of Africa"
+name: Saint Rogation of Africa
 honorific: Saint
-summary: "African martyr. No other information has survived."
+summary: African martyr. No other information has survived.
 searchAliases:
-  - "Rogatianus"
-region: "England"
+  - Rogatianus
+region: England
 feastDay:
   month: 12
   day: 28
@@ -13,6 +13,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 African martyr. No other information has survived.

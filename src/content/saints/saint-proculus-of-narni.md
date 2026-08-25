@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Proculus of Narni"
+name: Saint Proculus of Narni
 honorific: Saint
-summary: "Bishop of Narni, Italy. Executed by order of the Gothic King Totila."
+summary: Bishop of Narni, Italy. Executed by order of the Gothic King Totila.
 deathYear: 542
-died: "c.542"
-region: "Italy"
+died: c.542
+region: Italy
 feastDay:
   month: 12
   day: 1
@@ -14,6 +14,7 @@ vocation:
   - Bishop
   - Monk
 martyr: true
+prayers: []
 ---
 
 Bishop of Narni, Italy. Executed by order of the Gothic King Totila.

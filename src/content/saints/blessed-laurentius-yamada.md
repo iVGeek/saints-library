@@ -1,22 +1,25 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Laurentius Yamada"
+name: Blessed Laurentius Yamada
 honorific: Blessed
-summary: "Lifelong layman in the archdiocese of Nagasaki, Japan; son of Blessed Michaël Yamada Kasahashi. Domincan tertiary. Martyr."
+summary: >-
+  Lifelong layman in the archdiocese of Nagasaki, Japan; son of Blessed Michaël Yamada Kasahashi. Domincan tertiary.
+  Martyr.
 birthYear: 1625
 deathYear: 1628
-born: "1625 in Japan"
-died: "beheaded on 8 September 1628 in Nagasaki, Japan"
-deathPlace: "Japan"
-region: "Japan"
+born: 1625 in Japan
+died: beheaded on 8 September 1628 in Nagasaki, Japan
+deathPlace: Japan
+region: Japan
 feastDay:
   month: 9
   day: 8
 canonizationStatus: Blessed
 vocation:
   - Monk
-religiousOrder: "Dominican"
+religiousOrder: Dominican
 martyr: true
+prayers: []
 ---
 
 Lifelong layman in the archdiocese of Nagasaki, Japan; son of Blessed Michaël Yamada Kasahashi. Domincan tertiary. Martyr.

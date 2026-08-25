@@ -1,15 +1,18 @@
 ---
-name: "Saint Anatolia of Thora"
+name: Saint Anatolia of Thora
 honorific: Saint
-summary: "Beautiful Roman Christian noblewoman. Sister of Saint Victoria. The two sisters were set for arranged marriages to noble Roman pagans, and were hesitant. Victoria argued that it would be all right as the patriarchs in the Old Testament had been married; but Anatolia cited other e"
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Anatolia.jpg"
+summary: >-
+  Beautiful Roman Christian noblewoman. Sister of Saint Victoria. The two sisters were set for arranged marriages to
+  noble Roman pagans, and were hesitant. Victoria argued that it would be all right as the patriarchs in the Old
+  Testament had been married; but Anatolia cited other e
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Anatolia.jpg
 searchAliases:
-  - "Anatolia of Thyrum"
-  - "Anatolia of Thurium"
+  - Anatolia of Thyrum
+  - Anatolia of Thurium
 deathYear: 250
-died: "stabbed with a sword c.250 in Thora, Lake Velino, diocese of Rieti, Italy"
-deathPlace: "Lake Velino, dioceseRieti, Italy"
-region: "Italy"
+died: stabbed with a sword c.250 in Thora, Lake Velino, diocese of Rieti, Italy
+deathPlace: Lake Velino, dioceseRieti, Italy
+region: Italy
 feastDay:
   month: 7
   day: 10
@@ -19,9 +22,13 @@ vocation:
   - Priest
   - Religious
 patronage:
-  - "in Italy\n\nRieti"
-  - "Santa Anatolia, Borgorose"
+  - |-
+    in Italy
+
+    Rieti
+  - Santa Anatolia, Borgorose
 martyr: true
+prayers: []
 ---
 
 Beautiful Roman Christian noblewoman. Sister of Saint Victoria. The two sisters were set for arranged marriages to noble Roman pagans, and were hesitant. Victoria argued that it would be all right as the patriarchs in the Old Testament had been married; but Anatolia cited other examples to prove that for the holiest lives, they should devote themselves to God and stay single. Victoria was convinced, sold her jewelry, gave the money to the poor, and refused to go through with the wedding to a fellow named Eugenius.

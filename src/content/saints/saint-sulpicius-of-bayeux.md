@@ -1,12 +1,12 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Sulpicius of Bayeux"
+name: Saint Sulpicius of Bayeux
 honorific: Saint
-summary: "Bishop of Bayeux, France from c.838 to 843. Martyred by Vikings."
+summary: Bishop of Bayeux, France from c.838 to 843. Martyred by Vikings.
 deathYear: 843
-died: "martyred in 843 in Livry, France"
-deathPlace: "France"
-region: "France"
+died: martyred in 843 in Livry, France
+deathPlace: France
+region: France
 feastDay:
   month: 9
   day: 4
@@ -15,6 +15,7 @@ vocation:
   - Bishop
   - Monk
 martyr: true
+prayers: []
 ---
 
 Bishop of Bayeux, France from c.838 to 843. Martyred by Vikings.

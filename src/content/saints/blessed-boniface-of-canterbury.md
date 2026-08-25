@@ -1,14 +1,14 @@
 ---
-name: "Blessed Boniface of Canterbury"
+name: Blessed Boniface of Canterbury
 honorific: Blessed
-summary: " Carthusian monk at the Grande Chartreuse. Prior of the monastery in Natua, France. Bishop of Belley, France in Born to the nobility, member of the ducal House of Savoy. Eleventh child of Count Thomas of Savoy. Brother of Queen Beatrix of Savoy. Uncle of Queen Eleanor of England."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Boniface-of-Canterbury.jpg"
+summary: ' Carthusian monk at the Grande Chartreuse. Prior of the monastery in Natua, France. Bishop of Belley, France in Born to the nobility, member of the ducal House of Savoy. Eleventh child of Count Thomas of Savoy. Brother of Queen Beatrix of Savoy. Uncle of Queen Eleanor of England.'
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Boniface-of-Canterbury.jpg
 birthYear: 1207
 deathYear: 1270
-born: "c.1207 near Sainte-Hélène-du-Luc in the Savoy region of modern France"
-died: "18 July 1270 at the Sainte-Hélène des Milliere castle in Hautecombe, Savoy, France of natural causes"
-deathPlace: "Savoy, Francenatural causes"
-region: "France"
+born: c.1207 near Sainte-Hélène-du-Luc in the Savoy region of modern France
+died: 18 July 1270 at the Sainte-Hélène des Milliere castle in Hautecombe, Savoy, France of natural causes
+deathPlace: Savoy, Francenatural causes
+region: France
 feastDay:
   month: 7
   day: 14
@@ -17,6 +17,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Born to the nobility, member of the ducal House of Savoy. Eleventh child of Count Thomas of Savoy. Brother of Queen Beatrix of Savoy. Uncle of Queen Eleanor of England.

@@ -1,9 +1,9 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Conran of Orkney"
+name: Saint Conran of Orkney
 honorific: Saint
-summary: "Bishop of the Orkney Islands, Scotland."
-region: "Scotland"
+summary: Bishop of the Orkney Islands, Scotland.
+region: Scotland
 feastDay:
   month: 2
   day: 14
@@ -14,6 +14,7 @@ vocation:
   - Monk
   - Confessor
 martyr: false
+prayers: []
 ---
 
 Bishop of the Orkney Islands, Scotland.

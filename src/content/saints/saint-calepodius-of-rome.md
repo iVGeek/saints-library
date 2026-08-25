@@ -20,6 +20,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/b/b7/Agia_Paraskevi_by_Michael_Damaskenos_%2816th_c.%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Calepodius of Rome
 imageCreditUrl: https://en.wikipedia.org/wiki/Paraskevi%20of%20Rome
+prayers: []
 ---
 
 Priest. Martyred in the persecutions of Emperor Alexander Severus. One of the Roman catacombs is named for him.

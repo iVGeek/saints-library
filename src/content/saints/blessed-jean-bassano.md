@@ -1,21 +1,24 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Jean Bassano"
+name: Blessed Jean Bassano
 honorific: Blessed
-summary: "Canon regular. Celestine Benedictine at Paris, France. Spiritual director of Saint Colette. Held several offices in his congregation, and worked to establish it in England and the Aragon region of Spain."
+summary: >-
+  Canon regular. Celestine Benedictine at Paris, France. Spiritual director of Saint Colette. Held several offices in
+  his congregation, and worked to establish it in England and the Aragon region of Spain.
 birthYear: 1360
 deathYear: 1445
-born: "1360 at Besan&ccedil;on, France"
-died: "1445 of natural causes"
-birthPlace: "France"
-region: "France"
+born: 1360 at Besan&ccedil;on, France
+died: 1445 of natural causes
+birthPlace: France
+region: France
 feastDay:
   month: 8
   day: 26
 canonizationStatus: Blessed
 vocation: []
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 martyr: false
+prayers: []
 ---
 
 Canon regular. Celestine Benedictine at Paris, France. Spiritual director of Saint Colette. Held several offices in his congregation, and worked to establish it in England and the Aragon region of Spain.

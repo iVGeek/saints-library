@@ -18,6 +18,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/8/86/St._Theodosia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Martyrs of Constantinople
 imageCreditUrl: https://en.wikipedia.org/wiki/Theodosia%20of%20Constantinople
+prayers: []
 ---
 
 Community of 5th century monks at the monastery of Saint Dius at Constantinople. Imprisoned and martyred for loyalty to the Vatican during the Acacian Schism.

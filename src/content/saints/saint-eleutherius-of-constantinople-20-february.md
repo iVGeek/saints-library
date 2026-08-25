@@ -1,12 +1,12 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Eleutherius of Constantinople"
+name: Saint Eleutherius of Constantinople
 honorific: Saint
-summary: "Bishop in Constantinople. Martyr."
+summary: Bishop in Constantinople. Martyr.
 searchAliases:
-  - "Eleuterio"
-  - "Eleuthere"
-region: "Turkey"
+  - Eleuterio
+  - Eleuthere
+region: Turkey
 feastDay:
   month: 2
   day: 20
@@ -15,6 +15,7 @@ vocation:
   - Bishop
   - Monk
 martyr: true
+prayers: []
 ---
 
 Bishop in Constantinople. Martyr.

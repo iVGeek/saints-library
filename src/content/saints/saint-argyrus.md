@@ -14,6 +14,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/4a/Hagia_Sophia_%28228968325%29.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Argyrus of Africa
 imageCreditUrl: https://en.wikipedia.org/wiki/Hagia%20Sophia
+prayers: []
 ---
 
 One of eight Christians martyred together in Africa, date unknown. No other information has survived.

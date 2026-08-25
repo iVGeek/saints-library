@@ -20,6 +20,7 @@ canonizationStatus: Blessed
 vocation:
   - Priest
 martyr: true
+prayers: []
 ---
 
 Miner. Father of seven. Member of the Christian miners' labour union at age 19, and secretary at 22. Member of the Zentrum Christian Party at age 20. Worked on Westdeutschen Arbeiterzeitung, (West German Workers' Newspaper), the newspaper of the Catholic Workers' Movement, at age 22, and became its director at age 24.

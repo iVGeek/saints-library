@@ -1,15 +1,17 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Talarican of Sodor"
+name: Saint Talarican of Sodor
 honorific: Saint
-summary: "Sixth-century Pictish bishop of Sodor, Scotland where several churches were dedicated to him. Zealous evangelist and preacher, he celebrated Mass every day."
+summary: >-
+  Sixth-century Pictish bishop of Sodor, Scotland where several churches were dedicated to him. Zealous evangelist and
+  preacher, he celebrated Mass every day.
 searchAliases:
-  - "Talarica"
-  - "Talacrian"
-  - "Tarkin"
-  - "Talaric"
-  - "Talaricanus"
-region: "Scotland"
+  - Talarica
+  - Talacrian
+  - Tarkin
+  - Talaric
+  - Talaricanus
+region: Scotland
 feastDay:
   month: 10
   day: 30
@@ -18,6 +20,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Sixth-century Pictish bishop of Sodor, Scotland where several churches were dedicated to him. Zealous evangelist and preacher, he celebrated Mass every day.

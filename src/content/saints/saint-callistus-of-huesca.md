@@ -17,6 +17,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/3/31/La_Rendici%C3%B3n_de_Granada_-_Pradilla.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Callistus of Huesca
 imageCreditUrl: https://en.wikipedia.org/wiki/Chronology%20of%20the%20Reconquista
+prayers: []
 ---
 
 Friend of Saint Mercutialis. Martyred by Saracens.

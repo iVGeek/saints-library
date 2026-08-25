@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Sabinus of Catania"
+name: Saint Sabinus of Catania
 honorific: Saint
-summary: "Bishop of Catania, Sicily. In later years he resigned to become a hermit."
+summary: Bishop of Catania, Sicily. In later years he resigned to become a hermit.
 deathYear: 760
-died: "c.760"
-region: "Italy"
+died: c.760
+region: Italy
 feastDay:
   month: 10
   day: 15
@@ -14,6 +14,7 @@ vocation:
   - Bishop
   - Hermit
 martyr: false
+prayers: []
 ---
 
 Bishop of Catania, Sicily. In later years he resigned to become a hermit.

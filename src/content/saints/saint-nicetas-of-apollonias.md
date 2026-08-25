@@ -1,12 +1,14 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Nicetas of Apollonias"
+name: Saint Nicetas of Apollonias
 honorific: Saint
-summary: "Bishop of Apollonias in Bithynia (in modern Turkey). Persecuted and exiled to Anatolia for opposing the iconoclasm of emperor Leo III."
+summary: >-
+  Bishop of Apollonias in Bithynia (in modern Turkey). Persecuted and exiled to Anatolia for opposing the iconoclasm of
+  emperor Leo III.
 searchAliases:
-  - "Nicetas of Bithynia"
-  - "Niceta"
-region: "Turkey"
+  - Nicetas of Bithynia
+  - Niceta
+region: Turkey
 feastDay:
   month: 3
   day: 20
@@ -16,6 +18,7 @@ vocation:
   - Monk
   - Confessor
 martyr: false
+prayers: []
 ---
 
 Bishop of Apollonias in Bithynia (in modern Turkey). Persecuted and exiled to Anatolia for opposing the iconoclasm of emperor Leo III.

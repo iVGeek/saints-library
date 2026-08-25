@@ -1,10 +1,10 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Tertullinus of Rome"
+name: Saint Tertullinus of Rome
 honorific: Saint
-summary: "Priest. Martyred two days after his ordination in the persecutions of Valerian."
+summary: Priest. Martyred two days after his ordination in the persecutions of Valerian.
 deathYear: 257
-died: "257"
+died: '257'
 feastDay:
   month: 8
   day: 4
@@ -13,6 +13,7 @@ vocation:
   - Priest
   - Monk
 martyr: true
+prayers: []
 ---
 
 Priest. Martyred two days after his ordination in the persecutions of Valerian.

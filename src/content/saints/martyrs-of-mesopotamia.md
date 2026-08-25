@@ -17,6 +17,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/d/d3/St-stephen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Martyrs of Mesopotamia
 imageCreditUrl: https://en.wikipedia.org/wiki/Saint%20Stephen
+prayers: []
 ---
 
 A group of Christians martyred in Mesopotamia in persecutions by imperial Roman authorities. Their names and the details of their lives have not come down to us.

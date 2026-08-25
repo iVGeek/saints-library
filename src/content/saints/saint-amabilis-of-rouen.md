@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Amabilis of Rouen"
+name: Saint Amabilis of Rouen
 honorific: Saint
-summary: "Born to the English nobility. Nun at Saint-Amand in Rouen, France."
+summary: Born to the English nobility. Nun at Saint-Amand in Rouen, France.
 deathYear: 634
-died: "c.634 of natural causes"
-region: "France"
+died: c.634 of natural causes
+region: France
 feastDay:
   month: 7
   day: 11
@@ -14,6 +14,7 @@ vocation:
   - Monk
   - Religious
 martyr: false
+prayers: []
 ---
 
 Born to the English nobility. Nun at Saint-Amand in Rouen, France.

@@ -16,6 +16,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/0/09/Halevy_Juif_errant_Acte1_Chaperon.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Fortunata of Thessalonica
 imageCreditUrl: https://en.wikipedia.org/wiki/Le%20Juif%20errant%20(opera)
+prayers: []
 ---
 
 Martyr.

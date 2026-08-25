@@ -36,6 +36,7 @@ patronage:
   - Lower Engadine, Switzerland
   - Val Venosta, Italy
 martyr: false
+prayers: []
 ---
 
 Legend says that his father was a Saxon, his mother a Jew who converted to Christianity; the two met while they were both on pilgrimage to Rome, Italy, they married, and then settled in the Val Venosta in the Italian Tyrol region. Educated by Father Alexander at the parish of Saint Peter in Remüs (modern Ramosch), Switzerland; previous minister's there include Saint Othmar of Saint Gall. Ordained in Unterengadin, Switzerland, he served as the parish priest at Saint Peter's in Remüs, living like a hermit and caring for the poor. Miracle worker who turned water to wine which he then gave away to the poor.

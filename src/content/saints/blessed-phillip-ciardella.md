@@ -1,22 +1,23 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Phillip Ciardella"
+name: Blessed Phillip Ciardella
 honorific: Blessed
-summary: "Francsican friar."
+summary: Francsican friar.
 searchAliases:
-  - "Phillip of Castelli"
+  - Phillip of Castelli
 deathYear: 1279
-died: "c.1279"
-region: "Italy"
+died: c.1279
+region: Italy
 feastDay:
   month: 4
   day: 25
 canonizationStatus: Blessed
 vocation: []
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 patronage:
-  - "Montecalcino, Italy"
+  - Montecalcino, Italy
 martyr: false
+prayers: []
 ---
 
 Francsican friar.

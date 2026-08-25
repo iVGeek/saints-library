@@ -17,6 +17,7 @@ vocation:
   - Monk
   - Hermit
 martyr: false
+prayers: []
 ---
 
 Monk and then abbot near Subiaco, Italy. Friend of Saint Benedict of Nursia, and supported him during his time as a cave hermit. Built a monastery in the vicinity of modern Auxerre, France.

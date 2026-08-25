@@ -23,6 +23,7 @@ vocation:
   - Priest
 religiousOrder: Jesuit
 martyr: true
+prayers: []
 ---
 
 Roman citizen. Pope in the reign of Emperor Trajan. Baptized Saint Balbina of Rome. He inserted in the Canon of the Mass the words commemorative of the institution of the Eucharist beginning “Qui pridie”. Introduced the use of blessing water mixed with salt for the purification of Christian homes from evil influences. Martyr. While in prison awaiting execution, he converted the criminals who became the Martyrs of Ostia.

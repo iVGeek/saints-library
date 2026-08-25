@@ -1,23 +1,26 @@
 ---
-name: "Blessed Ceslas Odrowaz"
+name: Blessed Ceslas Odrowaz
 honorific: Blessed
-summary: "Relative, possibly the brother, of Saint Hyacinth. Studied at Prague in Bohemia, and Bologna, Italy. Ordained in Cracow, Poland. Doctor of canon law and of theology. Canon of the cathedral at Cracow. Provost of Sandomir. Noted spiritual advisor. Friar Preacher, receiving the habi"
-image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Ceslas-Odrowaz-1.jpg"
+summary: >-
+  Relative, possibly the brother, of Saint Hyacinth. Studied at Prague in Bohemia, and Bologna, Italy. Ordained in
+  Cracow, Poland. Doctor of canon law and of theology. Canon of the cathedral at Cracow. Provost of Sandomir. Noted
+  spiritual advisor. Friar Preacher, receiving the habi
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Ceslas-Odrowaz-1.jpg
 searchAliases:
-  - "Ceslas of Cracow"
-  - "Ceslas of Krakow"
-  - "Ceslas of Poland"
-  - "Ceslas of Wroclaw"
-  - "Ceslaus…"
-  - "Czeslaw…"
-  - "Ceslao…"
+  - Ceslas of Cracow
+  - Ceslas of Krakow
+  - Ceslas of Poland
+  - Ceslas of Wroclaw
+  - Ceslaus…
+  - Czeslaw…
+  - Ceslao…
 birthYear: 1180
 deathYear: 1242
-born: "c.1180 at Cracow, Upper Silesia (modern Poland)"
-died: "15 July 1242 at Wroclaw, Poland of natural causes"
-birthPlace: "Upper Silesia (modern Poland)"
-deathPlace: "Polandnatural causes"
-region: "Poland"
+born: c.1180 at Cracow, Upper Silesia (modern Poland)
+died: 15 July 1242 at Wroclaw, Poland of natural causes
+birthPlace: Upper Silesia (modern Poland)
+deathPlace: Polandnatural causes
+region: Poland
 feastDay:
   month: 7
   day: 15
@@ -25,10 +28,11 @@ canonizationStatus: Blessed
 vocation:
   - Priest
   - Confessor
-religiousOrder: "Dominican"
+religiousOrder: Dominican
 patronage:
-  - "Wroclaw, Poland"
+  - Wroclaw, Poland
 martyr: false
+prayers: []
 ---
 
 Relative, possibly the brother, of Saint Hyacinth. Studied at Prague in Bohemia, and Bologna, Italy. Ordained in Cracow, Poland. Doctor of canon law and of theology. Canon of the cathedral at Cracow. Provost of Sandomir. Noted spiritual advisor. Friar Preacher, receiving the habit from Saint Dominic de Guzman himself.

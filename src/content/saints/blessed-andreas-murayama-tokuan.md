@@ -20,6 +20,7 @@ feastDay:
 canonizationStatus: Blessed
 vocation: []
 martyr: true
+prayers: []
 ---
 
 Layman member of the Confraternity of the Holy Rosary in the archdiocese of Nagasaki, Japan. Arrested for sheltering missionaries. He was offered his freedom if he would deny Christianity; he declined. Martyr.

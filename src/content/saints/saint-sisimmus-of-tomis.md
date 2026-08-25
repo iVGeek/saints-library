@@ -1,12 +1,12 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Sisimmus of Tomis"
+name: Saint Sisimmus of Tomis
 honorific: Saint
-summary: "Martyr."
+summary: Martyr.
 searchAliases:
-  - "Sesinus"
-died: "in Tomis, Scythia Minor (modern Constanta, Romania), date unknown"
-deathPlace: "Scythia Minor (modern Constanta, Romania), date unknown"
+  - Sesinus
+died: in Tomis, Scythia Minor (modern Constanta, Romania), date unknown
+deathPlace: Scythia Minor (modern Constanta, Romania), date unknown
 feastDay:
   month: 7
   day: 10
@@ -14,6 +14,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Martyr.

@@ -1,15 +1,15 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Senén López Cots"
+name: Blessed Senén López Cots
 honorific: Blessed
-summary: "Member of the Claretians, professed on 6 January 1932. Martyred in the Spanish Civil War."
+summary: Member of the Claretians, professed on 6 January 1932. Martyred in the Spanish Civil War.
 birthYear: 1915
 deathYear: 1936
-born: "21 January 1915 in Barcelona, Spain"
-died: "shot on 26 July 1936 in Lleida, Spain"
-birthPlace: "Spain"
-deathPlace: "Spain"
-region: "Spain"
+born: 21 January 1915 in Barcelona, Spain
+died: shot on 26 July 1936 in Lleida, Spain
+birthPlace: Spain
+deathPlace: Spain
+region: Spain
 feastDay:
   month: 7
   day: 26
@@ -18,6 +18,7 @@ vocation:
   - Bishop
   - Cardinal
 martyr: true
+prayers: []
 ---
 
 Member of the Claretians, professed on 6 January 1932. Martyred in the Spanish Civil War.

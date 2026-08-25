@@ -1,18 +1,19 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Blaise of Auvergne"
+name: Blessed Blaise of Auvergne
 honorific: Blessed
-summary: "Fourteenth century Dominican. Spiritual student of Saint Vincent Ferrer. Noted and passionate preacher."
+summary: Fourteenth century Dominican. Spiritual student of Saint Vincent Ferrer. Noted and passionate preacher.
 searchAliases:
-  - "Blasius of Auvergne"
-region: "England"
+  - Blasius of Auvergne
+region: England
 feastDay:
   month: 4
   day: 5
 canonizationStatus: Blessed
 vocation: []
-religiousOrder: "Dominican"
+religiousOrder: Dominican
 martyr: false
+prayers: []
 ---
 
 Fourteenth century Dominican. Spiritual student of Saint Vincent Ferrer. Noted and passionate preacher.

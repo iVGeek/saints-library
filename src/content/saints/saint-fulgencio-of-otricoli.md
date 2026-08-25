@@ -1,13 +1,13 @@
 ---
-name: "Saint Fulgencio of Otricoli"
+name: Saint Fulgencio of Otricoli
 honorific: Saint
-summary: " When his city was being approached by the Ostrogoth army of King Totila, Fulgencio went out to meet him, first to plead for his city, then to bribe him into passing by. The Ostro Mid-6th-century bishop of Otricoli, Italy. Pope Saint Gregory the Great wrote about him in Dialogues."
-image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Fulgencio-of-Otricoli.jpg"
+summary: ' When his city was being approached by the Ostrogoth army of King Totila, Fulgencio went out to meet him, first to plead for his city, then to bribe him into passing by. The Ostro Mid-6th-century bishop of Otricoli, Italy. Pope Saint Gregory the Great wrote about him in Dialogues.'
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Fulgencio-of-Otricoli.jpg
 searchAliases:
-  - "Fulgenzio"
-died: "6th century in Otricoli, Terni, Italy of natural causes"
-deathPlace: "Terni, Italynatural causes"
-region: "Italy"
+  - Fulgenzio
+died: 6th century in Otricoli, Terni, Italy of natural causes
+deathPlace: Terni, Italynatural causes
+region: Italy
 feastDay:
   month: 5
   day: 22
@@ -16,6 +16,7 @@ vocation:
   - Bishop
   - Soldier
 martyr: false
+prayers: []
 ---
 
 Mid-6th-century bishop of Otricoli, Italy. Pope Saint Gregory the Great wrote about him in Dialogues.

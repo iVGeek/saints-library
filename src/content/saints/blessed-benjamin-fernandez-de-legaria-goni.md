@@ -1,18 +1,21 @@
 ---
-name: "Blessed Benjamín Fernández de Legaria Goñi"
+name: Blessed Benjamín Fernández de Legaria Goñi
 honorific: Blessed
-summary: "The son of Tomas, a farmer, and Fermina, a school teacher for over 50 years. He began studying at a junior seminary when he was ten years old, and throughout his school years was known as an excellent student. In 1915 he became a novice in the Picpus Fathers at the San Miguel del"
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Benjamín-Fernández-de-Legaria-Goñi.jpg"
+summary: >-
+  The son of Tomas, a farmer, and Fermina, a school teacher for over 50 years. He began studying at a junior seminary
+  when he was ten years old, and throughout his school years was known as an excellent student. In 1915 he became a
+  novice in the Picpus Fathers at the San Miguel del
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Benjamín-Fernández-de-Legaria-Goñi.jpg
 searchAliases:
-  - "Father Teofilo"
-  - "Teofilo Fernández de Legaria Goñi"
+  - Father Teofilo
+  - Teofilo Fernández de Legaria Goñi
 birthYear: 1898
 deathYear: 1936
-born: "5 July 1898 in Torralba de Río, Navarra, Spain"
-died: "shot on 11 August 1936 in El Escorial, Madrid, Spain"
-birthPlace: "Navarra, Spain"
-deathPlace: "Madrid, Spain"
-region: "Spain"
+born: 5 July 1898 in Torralba de Río, Navarra, Spain
+died: shot on 11 August 1936 in El Escorial, Madrid, Spain
+birthPlace: Navarra, Spain
+deathPlace: Madrid, Spain
+region: Spain
 feastDay:
   month: 8
   day: 11
@@ -20,6 +23,7 @@ canonizationStatus: Blessed
 vocation:
   - Priest
 martyr: true
+prayers: []
 ---
 
 The son of Tomas, a farmer, and Fermina, a school teacher for over 50 years. He began studying at a junior seminary when he was ten years old, and throughout his school years was known as an excellent student. In 1915 he became a novice in the Picpus Fathers at the San Miguel del Monte convent near Miranda, Spain. He was immediately recognized as an gifted teacher.

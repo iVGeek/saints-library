@@ -1,25 +1,28 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Sadurní Roca Huguet"
+name: Blessed Sadurní Roca Huguet
 honorific: Blessed
-summary: "Member of the Hospitallers of Saint John of God, making his final vows on 11 November 1914. Martyred in the Spanish Civil War. One of the Martyred Hospitallers of Spain."
+summary: >-
+  Member of the Hospitallers of Saint John of God, making his final vows on 11 November 1914. Martyred in the Spanish
+  Civil War. One of the Martyred Hospitallers of Spain.
 searchAliases:
-  - "Constanci"
-  - "Constancia"
-  - "Constantino"
+  - Constanci
+  - Constancia
+  - Constantino
 birthYear: 1895
 deathYear: 1936
-born: "12 August 1895 in Sant Sadurní d’Anoia, Barcelona, Spain"
-died: "30 July 1936 in Calafell, Tarragona, Spain"
-birthPlace: "Barcelona, Spain"
-deathPlace: "Tarragona, Spain"
-region: "Spain"
+born: 12 August 1895 in Sant Sadurní d’Anoia, Barcelona, Spain
+died: 30 July 1936 in Calafell, Tarragona, Spain
+birthPlace: Barcelona, Spain
+deathPlace: Tarragona, Spain
+region: Spain
 feastDay:
   month: 7
   day: 30
 canonizationStatus: Blessed
 vocation: []
 martyr: true
+prayers: []
 ---
 
 Member of the Hospitallers of Saint John of God, making his final vows on 11 November 1914. Martyred in the Spanish Civil War. One of the Martyred Hospitallers of Spain.

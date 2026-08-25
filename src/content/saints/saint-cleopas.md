@@ -15,6 +15,7 @@ vocation:
   - Priest
   - Monk
 martyr: true
+prayers: []
 ---
 
 One of the two disciples of the Way to Emmaus. Martyr.

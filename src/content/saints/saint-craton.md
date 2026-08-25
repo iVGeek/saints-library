@@ -16,6 +16,7 @@ image: https://commons.wikimedia.org/wiki/Special:FilePath/Cratons_West_Gondwana
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Professor of rhetoric and philosophy. Convert, brought to the faith by Saint Valentine of Terni. Martyred with his wife and family, none of whose names have survived.

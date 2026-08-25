@@ -32,6 +32,7 @@ patronage:
   - Spain
   - Andalusia, Spain
 martyr: false
+prayers: []
 ---
 
 Born to a wealthy Castilian family with Jewish ancestry. Studied law at the University of Salamanca from age 14, and felt a call to religious life. Studied theology and philosophy at Alcala, Spain at age 17. Lawyer. Following the death of his parents, he liquidated most of his large fortune, and gave it to the poor. Ordained in 1525. He wanted to be a missionary in the West Indies and Mexico, but became a travelling preacher in Andalusia for 40 years, re-evangelizing a region previously ruled by the Moors. He spoke boldly against the sins of the ruling classes, made powerful enemies, and at one point was imprisoned in Seville, Spain by the Inquisition, accused of false teachings; the charges were dismissed, John was released, and his preaching became more popular than ever. Spiritual director of Saint Teresa of Avila, Saint Francis Borgia, Saint John of God, Saint John of the Cross, Saint Peter of Alc&aacute;ntara, and Saint Louis of Granada. Writer whose works continue their influence today. Declared a Doctor of the Church by Pope Benedict XVI on 7 October 2012.

@@ -1,18 +1,21 @@
 ---
-name: "Saint Pedro Bautista Blásquez y Blásquez"
+name: Saint Pedro Bautista Blásquez y Blásquez
 honorific: Saint
-summary: "Born to the Castillian nobility, Pedro studied at the University of Salamanca and then joined the Franciscans in 1542. Ordained a priest, he taught philosophy and theology, and served as superior of several Franciscan communities. Feeling a call to missionary work, in 1580 he was"
-image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Pedro-Bautista-Blasquez-y-Blasquez.jpg"
+summary: >-
+  Born to the Castillian nobility, Pedro studied at the University of Salamanca and then joined the Franciscans in 1542.
+  Ordained a priest, he taught philosophy and theology, and served as superior of several Franciscan communities.
+  Feeling a call to missionary work, in 1580 he was
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Pedro-Bautista-Blasquez-y-Blasquez.jpg
 searchAliases:
-  - "Peter Baptist Blasquez"
-  - "Pietro Battista Blasquez"
+  - Peter Baptist Blasquez
+  - Pietro Battista Blasquez
 birthYear: 1542
 deathYear: 1597
-born: "1542 in San Esteban del Valle, Avila, Castille (in modern Spain)"
-died: "crucified on 5 February 1597 on a hill in Nagasaki, Japan"
-birthPlace: "Avila, Castille (modern Spain)"
-deathPlace: "Japan"
-region: "Japan"
+born: 1542 in San Esteban del Valle, Avila, Castille (in modern Spain)
+died: crucified on 5 February 1597 on a hill in Nagasaki, Japan
+birthPlace: Avila, Castille (modern Spain)
+deathPlace: Japan
+region: Japan
 feastDay:
   month: 2
   day: 6
@@ -20,11 +23,12 @@ canonizationStatus: Saint
 vocation:
   - Priest
   - Missionary
-religiousOrder: "Jesuit"
+religiousOrder: Jesuit
 patronage:
-  - "Caceres, Philippines, archdiocese of"
-  - "Japan"
+  - Caceres, Philippines, archdiocese of
+  - Japan
 martyr: true
+prayers: []
 ---
 
 Born to the Castillian nobility, Pedro studied at the University of Salamanca and then joined the Franciscans in 1542. Ordained a priest, he taught philosophy and theology, and served as superior of several Franciscan communities. Feeling a call to missionary work, in 1580 he was sent to Mexico where he founded several communities, and then in 1583 he was dispatched to the Philippines.

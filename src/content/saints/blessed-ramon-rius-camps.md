@@ -1,15 +1,15 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Ramon Rius Camps"
+name: Blessed Ramon Rius Camps
 honorific: Blessed
-summary: "Member of the Claretians, professed on 15 August 1929/a>. Martyred in the Spanish Civil War."
+summary: Member of the Claretians, professed on 15 August 1929/a>. Martyred in the Spanish Civil War.
 birthYear: 1913
 deathYear: 1936
-born: "26 January 1913 in Santa Fe, Lleida, Spain"
-died: "22 September 1936 in Cervera, Lleida, Spain"
-birthPlace: "Lleida, Spain"
-deathPlace: "Lleida, Spain"
-region: "Spain"
+born: 26 January 1913 in Santa Fe, Lleida, Spain
+died: 22 September 1936 in Cervera, Lleida, Spain
+birthPlace: Lleida, Spain
+deathPlace: Lleida, Spain
+region: Spain
 feastDay:
   month: 9
   day: 22
@@ -18,6 +18,7 @@ vocation:
   - Bishop
   - Cardinal
 martyr: true
+prayers: []
 ---
 
 Member of the Claretians, professed on 15 August 1929/a>. Martyred in the Spanish Civil War.

@@ -1,10 +1,10 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Bairfhion"
+name: Saint Bairfhion
 honorific: Saint
-summary: "Bishop. No other information has survived."
-born: "Irish"
-region: "Ireland"
+summary: Bishop. No other information has survived.
+born: Irish
+region: Ireland
 feastDay:
   month: 3
   day: 6
@@ -13,6 +13,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Bishop. No other information has survived.

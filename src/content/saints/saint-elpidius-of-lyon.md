@@ -19,6 +19,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/0/00/007._Photo_prise_depuis_les_toits_de_la_Basilique_Notre-Dame_de_Fourvi%C3%A8re.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Elpidius of Lyon
 imageCreditUrl: https://en.wikipedia.org/wiki/Archdiocese%20of%20Lyon
+prayers: []
 ---
 
 Bishop of Lyons, France from 410.

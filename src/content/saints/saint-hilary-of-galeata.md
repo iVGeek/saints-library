@@ -21,6 +21,7 @@ vocation:
 patronage:
   - Lugo, Italy
 martyr: false
+prayers: []
 ---
 
 Hermit near the River Ronco, Italy. He and some others hermits joined to build the Galeata monastery; it was later renamed Sant-Ilaro in his honour, and given to the Camaldolese Order.

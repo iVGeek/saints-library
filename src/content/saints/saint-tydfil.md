@@ -19,6 +19,7 @@ vocation:
 patronage:
   - Merthyr Tydfil, Wales
 martyr: false
+prayers: []
 ---
 
 Born a princess, the daughter of Saint Brychan of Brecknock in Wales. Killed by pagan Saxons.

@@ -1,15 +1,15 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed José Sánchez Medina"
+name: Blessed José Sánchez Medina
 honorific: Blessed
-summary: "Priest in the diocese of Cartagena, Spain. Martyred in the Spanish Civil War."
+summary: Priest in the diocese of Cartagena, Spain. Martyred in the Spanish Civil War.
 birthYear: 1900
 deathYear: 1936
-born: "3 August 1900 in Archena, Murcia, Spain"
-died: "17 October 1936 in Archena, Murcia, Spain"
-birthPlace: "Murcia, Spain"
-deathPlace: "Murcia, Spain"
-region: "Spain"
+born: 3 August 1900 in Archena, Murcia, Spain
+died: 17 October 1936 in Archena, Murcia, Spain
+birthPlace: Murcia, Spain
+deathPlace: Murcia, Spain
+region: Spain
 feastDay:
   month: 10
   day: 17
@@ -18,6 +18,7 @@ vocation:
   - Priest
   - Cardinal
 martyr: true
+prayers: []
 ---
 
 Priest in the diocese of Cartagena, Spain. Martyred in the Spanish Civil War.

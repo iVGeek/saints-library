@@ -1,31 +1,34 @@
 ---
-name: "Saint Kentigern"
+name: Saint Kentigern
 honorific: Saint
-summary: "Grandson of the British prince Lothus; son of Saint Theneva. Hermit. Monk. Missionary to Scotland, beginning at Cathures. Bishop of the Strathclyde Britons in the area of modern Glasgow in 540. He taught and led there for 13 years, living in great austerity. Exiled in 553 during"
-image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Kentigern-1.jpg"
+summary: >-
+  Grandson of the British prince Lothus; son of Saint Theneva. Hermit. Monk. Missionary to Scotland, beginning at
+  Cathures. Bishop of the Strathclyde Britons in the area of modern Glasgow in 540. He taught and led there for 13
+  years, living in great austerity. Exiled in 553 during
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Kentigern-1.jpg
 searchAliases:
-  - "Kentigern of Glasgow"
-  - "Kentigern Garthwys"
-  - "Kentigern Mungo"
-  - "Kentigern of Elwy"
-  - "Cantigernus…"
-  - "Chentigerno…"
-  - "Chentingerno…"
-  - "Cyndeyrn…"
-  - "Kentigernus…"
-  - "Kintigern…"
-  - "Mahoe…"
-  - "Mochaoi…"
-  - "Mochua…"
-  - "Mungho…"
-  - "Mungo…"
+  - Kentigern of Glasgow
+  - Kentigern Garthwys
+  - Kentigern Mungo
+  - Kentigern of Elwy
+  - Cantigernus…
+  - Chentigerno…
+  - Chentingerno…
+  - Cyndeyrn…
+  - Kentigernus…
+  - Kintigern…
+  - Mahoe…
+  - Mochaoi…
+  - Mochua…
+  - Mungho…
+  - Mungo…
 birthYear: 518
 deathYear: 603
-born: "c.518 at Culross, Fife, Scotland"
-died: "13 January 603 in Glasgow, Scotland of natural causes"
-birthPlace: "Fife, Scotland"
-deathPlace: "Scotlandnatural causes"
-region: "Scotland"
+born: c.518 at Culross, Fife, Scotland
+died: 13 January 603 in Glasgow, Scotland of natural causes
+birthPlace: Fife, Scotland
+deathPlace: Scotlandnatural causes
+region: Scotland
 feastDay:
   month: 1
   day: 13
@@ -35,15 +38,16 @@ vocation:
   - Priest
   - Missionary
   - Confessor
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 patronage:
-  - "salmon"
-  - "–"
-  - "Carlisle, England"
-  - "Glasgow, Scotland"
-  - "Liverpool, England, archdiocese of"
-  - "St Asaph, Wales"
+  - salmon
+  - –
+  - Carlisle, England
+  - Glasgow, Scotland
+  - Liverpool, England, archdiocese of
+  - St Asaph, Wales
 martyr: false
+prayers: []
 ---
 
 Grandson of the British prince Lothus; son of Saint Theneva. Hermit. Monk. Missionary to Scotland, beginning at Cathures. Bishop of the Strathclyde Britons in the area of modern Glasgow in 540. He taught and led there for 13 years, living in great austerity. Exiled in 553 during an anti–Christian uprising by local pagans, he fled to Menevia, Wales, where he stayed with Saint David of Wales. He founded a monastery at Llanelwy, and served as its first abbot. He returned to Scotland in 573, evangelizing the areas of Galloway and Cumberland. He returned to Glasgow in 581 and led his people there for his remaining 22 years. Apostle to northwest England and southwest Scotland.

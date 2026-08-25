@@ -1,22 +1,25 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Herman of Zahringen"
+name: Blessed Herman of Zahringen
 honorific: Blessed
-summary: "A member of the nobility, he was the Margrave of Zahringen, but gave up the position to become a Benedictine monk at Cluny Abbey in France."
+summary: >-
+  A member of the nobility, he was the Margrave of Zahringen, but gave up the position to become a Benedictine monk at
+  Cluny Abbey in France.
 searchAliases:
-  - "Herman I of Baden"
-  - "Herman I, Margrave of Baden"
+  - Herman I of Baden
+  - Herman I, Margrave of Baden
 deathYear: 1074
-died: "1074 of natural causes"
-region: "France"
+died: 1074 of natural causes
+region: France
 feastDay:
   month: 3
   day: 25
 canonizationStatus: Blessed
 vocation:
   - Monk
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 martyr: false
+prayers: []
 ---
 
 A member of the nobility, he was the Margrave of Zahringen, but gave up the position to become a Benedictine monk at Cluny Abbey in France.

@@ -1,24 +1,29 @@
 ---
-name: "Saint Vinh-Son Duong"
+name: Saint Vinh-Son Duong
 honorific: Venerable
-summary: "Married layman in the apostolic vicariate of Central Tonkin (in modern Vietnam). Fisherman by trade. During the persecutions of emperor Tu Duc, he was ordered to stomp on a cross to show his contempt for Christianity; he refused. Martyr."
-image: "http://catholicsaints.info/wp-content/gallery/martyrs-of-vietnam/martyrs-of-vietnam-01.jpg"
+summary: >-
+  Married layman in the apostolic vicariate of Central Tonkin (in modern Vietnam). Fisherman by trade. During the
+  persecutions of emperor Tu Duc, he was ordered to stomp on a cross to show his contempt for Christianity; he refused.
+  Martyr.
+image: http://catholicsaints.info/wp-content/gallery/martyrs-of-vietnam/martyrs-of-vietnam-01.jpg
 searchAliases:
-  - "Peter"
+  - Peter
 birthYear: 1821
 deathYear: 1862
-born: "c.1821 in Doãn Trung, Thái Bình, Vietnam"
-died: "burned at the stake on 6 June 1862 in Nam Ðinh, Vietnam"
-birthPlace: "Thái Bình, Vietnam"
-deathPlace: "Vietnam"
-region: "Vietnam"
+born: c.1821 in Doãn Trung, Thái Bình, Vietnam
+died: burned at the stake on 6 June 1862 in Nam Ðinh, Vietnam
+birthPlace: Thái Bình, Vietnam
+deathPlace: Vietnam
+region: Vietnam
 feastDay:
   month: 6
   day: 6
-centuries: [19]
+centuries:
+  - 19
 canonizationStatus: Venerable
 vocation: []
 martyr: true
+prayers: []
 ---
 
 Married layman in the apostolic vicariate of Central Tonkin (in modern Vietnam). Fisherman by trade. During the persecutions of emperor Tu Duc, he was ordered to stomp on a cross to show his contempt for Christianity; he refused. Martyr.

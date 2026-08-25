@@ -1,13 +1,15 @@
 ---
-name: "Saint Aetherius the Martyr"
+name: Saint Aetherius the Martyr
 honorific: Saint
-summary: "Bishop who was sent by the Patriarch of Jerusalem to convert people in the Chersonese region of Greece in the early 4th century. Martyr."
-image: "https://catholicsaints.info/wp-content/uploads/Saint-Aetherius-the-Martyr.jpg"
+summary: >-
+  Bishop who was sent by the Patriarch of Jerusalem to convert people in the Chersonese region of Greece in the early
+  4th century. Martyr.
+image: https://catholicsaints.info/wp-content/uploads/Saint-Aetherius-the-Martyr.jpg
 searchAliases:
-  - "Etereo"
-  - "Ethereus"
-  - "Etherius"
-region: "Greece"
+  - Etereo
+  - Ethereus
+  - Etherius
+region: Greece
 feastDay:
   month: 3
   day: 4
@@ -16,6 +18,7 @@ vocation:
   - Bishop
   - Monk
 martyr: true
+prayers: []
 ---
 
 Bishop who was sent by the Patriarch of Jerusalem to convert people in the Chersonese region of Greece in the early 4th century. Martyr.

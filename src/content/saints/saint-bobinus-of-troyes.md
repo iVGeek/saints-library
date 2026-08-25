@@ -1,13 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Bobinus of Troyes"
+name: Saint Bobinus of Troyes
 honorific: Saint
-summary: "Benedictine monk at Moulier-la-Celle. Bishop of Troyes, France in 760."
+summary: Benedictine monk at Moulier-la-Celle. Bishop of Troyes, France in 760.
 deathYear: 766
-born: "in Aquitaine, France"
-died: "c.766 of natural causes"
-birthPlace: "France"
-region: "France"
+born: in Aquitaine, France
+died: c.766 of natural causes
+birthPlace: France
+region: France
 feastDay:
   month: 1
   day: 31
@@ -15,8 +15,9 @@ canonizationStatus: Saint
 vocation:
   - Bishop
   - Monk
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 martyr: false
+prayers: []
 ---
 
 Benedictine monk at Moulier-la-Celle. Bishop of Troyes, France in 760.

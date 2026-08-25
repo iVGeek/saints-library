@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Rudolph"
+name: Blessed Rudolph
 honorific: Blessed
-summary: "Vallombrosan monk. Spiritual student of Saint John Gualbert. Abbot general."
+summary: Vallombrosan monk. Spiritual student of Saint John Gualbert. Abbot general.
 deathYear: 1076
-died: "1076 of natural causes"
-region: "Italy"
+died: 1076 of natural causes
+region: Italy
 feastDay:
   month: 8
   day: 1
@@ -14,6 +14,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Vallombrosan monk. Spiritual student of Saint John Gualbert. Abbot general.

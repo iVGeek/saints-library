@@ -38,6 +38,7 @@ patronage:
   - doorkeepers
   - Passau, Germany, diocese of (since 1984)
 martyr: false
+prayers: []
 ---
 
 Youngest of nine children born to a farming family in a region recovering from the Napoleonic wars. His mother died when he was 14. Devoted from an early age to solitary prayer and peacemaking, he was a familiar site at all the churches and shrines in his region, often waiting at the door at sunrise for first Mass.

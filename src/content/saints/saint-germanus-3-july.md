@@ -23,6 +23,7 @@ vocation:
   - Monk
   - Missionary
 martyr: false
+prayers: []
 ---
 
 Nephew of Saint Patrick. Missionary monk in Ireland, Wales and Brittany. Bishop on the Isle of Man where several locations are still named for him.

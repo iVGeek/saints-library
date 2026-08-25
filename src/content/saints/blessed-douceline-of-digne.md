@@ -1,18 +1,21 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Douceline of Digne"
+name: Blessed Douceline of Digne
 honorific: Blessed
-summary: "Daughter of Berengarius of Digne, a prosperous merchant, and Huguette of Barjols; the couple was known for their piety and charity. Following the death of her parents, she moved to Hyères, France, and was drawn to the spirituality of the Franciscans who had recently moved into th"
+summary: >-
+  Daughter of Berengarius of Digne, a prosperous merchant, and Huguette of Barjols; the couple was known for their piety
+  and charity. Following the death of her parents, she moved to Hyères, France, and was drawn to the spirituality of the
+  Franciscans who had recently moved into th
 searchAliases:
-  - "Douceline of Hyères"
-  - "Douceline of Marseille"
+  - Douceline of Hyères
+  - Douceline of Marseille
 birthYear: 1214
 deathYear: 1274
-born: "1214 in Digne-les-Bains, Provence (in modern France)"
-died: "1 September 1274 in Marseille, France of natural causes"
-birthPlace: "Provence (modern France)"
-deathPlace: "Francenatural causes"
-region: "France"
+born: 1214 in Digne-les-Bains, Provence (in modern France)
+died: 1 September 1274 in Marseille, France of natural causes
+birthPlace: Provence (modern France)
+deathPlace: Francenatural causes
+region: France
 feastDay:
   month: 9
   day: 1
@@ -21,10 +24,11 @@ vocation:
   - Virgin
   - Bishop
   - Religious
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 patronage:
-  - "Hyères, France"
+  - Hyères, France
 martyr: false
+prayers: []
 ---
 
 Daughter of Berengarius of Digne, a prosperous merchant, and Huguette of Barjols; the couple was known for their piety and charity. Following the death of her parents, she moved to Hyères, France, and was drawn to the spirituality of the Franciscans who had recently moved into the area; she sometimes stayed at a Poor Clare convent. She spent her time caring for the sick and poor, and her personal property dwindled to the clothes on her back and a pile of straw she used for a bed.

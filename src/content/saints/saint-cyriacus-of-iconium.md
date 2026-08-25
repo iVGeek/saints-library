@@ -1,19 +1,22 @@
 ---
-name: "Saint Cyriacus of Iconium"
+name: Saint Cyriacus of Iconium
 honorific: Saint
-summary: "Son of Saint Julitta. When Cyriacus was a small child, his mother was sentenced to death at Tarsus during the persecutions of Diocletian. Cyriacus made a childish attack on Alexander, the sentencing magistrate, and announced that he was a Christian like his mother. The angry magi"
-image: "http://catholicsaints.info/wp-content/uploads/img-Quricus-and-Juliet.jpg"
+summary: >-
+  Son of Saint Julitta. When Cyriacus was a small child, his mother was sentenced to death at Tarsus during the
+  persecutions of Diocletian. Cyriacus made a childish attack on Alexander, the sentencing magistrate, and announced
+  that he was a Christian like his mother. The angry magi
+image: http://catholicsaints.info/wp-content/uploads/img-Quricus-and-Juliet.jpg
 searchAliases:
-  - "Cyr"
-  - "Cyricus"
-  - "Quiriac"
-  - "Quirico"
-  - "Quiricus"
+  - Cyr
+  - Cyricus
+  - Quiriac
+  - Quirico
+  - Quiricus
 birthYear: 301
 deathYear: 304
-born: "c.301"
-died: "c.304 at Tarsus by having his skull crushed"
-region: "Italy"
+born: c.301
+died: c.304 at Tarsus by having his skull crushed
+region: Italy
 feastDay:
   month: 6
   day: 16
@@ -23,11 +26,12 @@ vocation:
   - Priest
   - Monk
 patronage:
-  - "against death of children"
-  - "torture victims"
-  - "Capannori, Italy"
-  - "Castelnuovo Bormida, Italy"
+  - against death of children
+  - torture victims
+  - Capannori, Italy
+  - Castelnuovo Bormida, Italy
 martyr: false
+prayers: []
 ---
 
 Son of Saint Julitta. When Cyriacus was a small child, his mother was sentenced to death at Tarsus during the persecutions of Diocletian. Cyriacus made a childish attack on Alexander, the sentencing magistrate, and announced that he was a Christian like his mother. The angry magistrate threw the child to the ground, smashing his skull and killing him instantly.

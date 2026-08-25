@@ -1,15 +1,18 @@
 ---
-name: "Saint Protus of Aquileia"
+name: Saint Protus of Aquileia
 honorific: Saint
-summary: "Tutor and catechist to Saints Cantius, Cantian and Cantianilla of Aquileia. To escape the persecutions of Diocletian, he moved with the family to Aquileia, Italy. However, the authorities there quickly ordered them to sacrifice to idols; they refused. Martyr."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Protus-of-Aquileia.jpg"
+summary: >-
+  Tutor and catechist to Saints Cantius, Cantian and Cantianilla of Aquileia. To escape the persecutions of Diocletian,
+  he moved with the family to Aquileia, Italy. However, the authorities there quickly ordered them to sacrifice to
+  idols; they refused. Martyr.
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Protus-of-Aquileia.jpg
 searchAliases:
-  - "Probus"
-  - "Proto"
+  - Probus
+  - Proto
 deathYear: 304
-died: "beheaded in 304 at Aquae-Gradatae (modern San Canzian d'Isonzo) just outside Aquileia, Italy"
-deathPlace: "Italy"
-region: "Italy"
+died: beheaded in 304 at Aquae-Gradatae (modern San Canzian d'Isonzo) just outside Aquileia, Italy
+deathPlace: Italy
+region: Italy
 feastDay:
   month: 6
   day: 14
@@ -19,9 +22,10 @@ vocation:
   - Monk
   - Religious
 patronage:
-  - "children"
-  - "Aquileia, Italy"
+  - children
+  - Aquileia, Italy
 martyr: true
+prayers: []
 ---
 
 Tutor and catechist to Saints Cantius, Cantian and Cantianilla of Aquileia. To escape the persecutions of Diocletian, he moved with the family to Aquileia, Italy. However, the authorities there quickly ordered them to sacrifice to idols; they refused. Martyr.

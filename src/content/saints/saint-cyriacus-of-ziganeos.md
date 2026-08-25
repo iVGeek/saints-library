@@ -1,11 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Cyriacus of Ziganeos"
+name: Saint Cyriacus of Ziganeos
 honorific: Saint
-summary: "One of seven Christian brothers who were soldiers in the imperial Roman army. Kicked out of the military, exiled and eventually martyred in the persecutions of Maximian."
+summary: >-
+  One of seven Christian brothers who were soldiers in the imperial Roman army. Kicked out of the military, exiled and
+  eventually martyred in the persecutions of Maximian.
 deathYear: 311
-died: "c.311 at Ziganeos"
-region: "England"
+died: c.311 at Ziganeos
+region: England
 feastDay:
   month: 7
   day: 24
@@ -14,6 +16,7 @@ vocation:
   - Monk
   - Soldier
 martyr: true
+prayers: []
 ---
 
 One of seven Christian brothers who were soldiers in the imperial Roman army. Kicked out of the military, exiled and eventually martyred in the persecutions of Maximian.

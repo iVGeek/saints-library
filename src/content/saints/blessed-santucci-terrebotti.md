@@ -1,21 +1,25 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Santucci Terrebotti"
+name: Blessed Santucci Terrebotti
 honorific: Blessed
-summary: "Married. Mother of one daughter who died in childhood. She and her husband agreed to split up, each entering religious life. Benedictine nun in Gubbio, Italy. Abbess of her house. She moved her community to Santa Maria in Via Lata, the Via Iulia in Rome, Italy where they lived in"
+summary: >-
+  Married. Mother of one daughter who died in childhood. She and her husband agreed to split up, each entering religious
+  life. Benedictine nun in Gubbio, Italy. Abbess of her house. She moved her community to Santa Maria in Via Lata, the
+  Via Iulia in Rome, Italy where they lived in
 deathYear: 1305
-born: "in Gubbio, Umbria, Italy"
-died: "1305"
-birthPlace: "Umbria, Italy"
-region: "Italy"
+born: in Gubbio, Umbria, Italy
+died: '1305'
+birthPlace: Umbria, Italy
+region: Italy
 feastDay:
   month: 3
   day: 21
 canonizationStatus: Blessed
 vocation:
   - Religious
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 martyr: false
+prayers: []
 ---
 
 Married. Mother of one daughter who died in childhood. She and her husband agreed to split up, each entering religious life. Benedictine nun in Gubbio, Italy. Abbess of her house. She moved her community to Santa Maria in Via Lata, the Via Iulia in Rome, Italy where they lived in very strict observance of the Benedictine Rule and became known as Mary's Servants or Le Santucci.

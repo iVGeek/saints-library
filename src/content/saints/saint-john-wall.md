@@ -30,6 +30,7 @@ vocation:
   - Monk
 religiousOrder: Franciscan
 martyr: true
+prayers: []
 ---
 
 Born to a wealthy Catholic family. Studied in Douai, France and entered the Roman College on 5 November 1641, using the name John Marsh. Ordained 3 December 1645. Joined the Friars Minor in Rome on 1 January 1651, taking the name Joachim of Saint Anne. Vicar and novice-master at Douai. Joined the Worcester mission in 1656 where he served for over 20 years, using several aliases, and living as a fugitive. Arrested in connection with the Titus Oates Plot in December 1678; acquitted of participation in the plot, but was martyred for the crime of priesthood.

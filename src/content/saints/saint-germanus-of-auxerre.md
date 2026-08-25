@@ -1,17 +1,20 @@
 ---
-name: "Saint Germanus of Auxerre"
+name: Saint Germanus of Auxerre
 honorific: Saint
-summary: "Born to a noble Gallic family, the son of Rusticus and Germanilla. Studied general topics in Arles and Lyon in France, and rhetoric and civil law in Rome, Italy. Successful lawyer for several years. Married to Eustachia, a member of the nobility with close ties to the emperor. Im"
-image: "https://upload.wikimedia.org/wikipedia/commons/a/ae/StGermanus.png"
+summary: >-
+  Born to a noble Gallic family, the son of Rusticus and Germanilla. Studied general topics in Arles and Lyon in France,
+  and rhetoric and civil law in Rome, Italy. Successful lawyer for several years. Married to Eustachia, a member of the
+  nobility with close ties to the emperor. Im
+image: https://upload.wikimedia.org/wikipedia/commons/a/ae/StGermanus.png
 searchAliases:
-  - "Germain of Auxerre"
+  - Germain of Auxerre
 birthYear: 378
 deathYear: 448
-born: "c.378 at Auxerre, France"
-died: "31 July 448 at Ravenna, Italy of natural causes"
-birthPlace: "France"
-deathPlace: "Italynatural causes"
-region: "France"
+born: c.378 at Auxerre, France
+died: 31 July 448 at Ravenna, Italy of natural causes
+birthPlace: France
+deathPlace: Italynatural causes
+region: France
 feastDay:
   month: 7
   day: 31
@@ -22,9 +25,10 @@ vocation:
   - Deacon
   - Confessor
 patronage:
-  - "Auxerre, France"
-  - "San Germano Vercellese, Italy"
+  - Auxerre, France
+  - San Germano Vercellese, Italy
 martyr: false
+prayers: []
 ---
 
 Born to a noble Gallic family, the son of Rusticus and Germanilla. Studied general topics in Arles and Lyon in France, and rhetoric and civil law in Rome, Italy. Successful lawyer for several years. Married to Eustachia, a member of the nobility with close ties to the emperor. Imperial governor of part of Gaul, based in Auxerre.

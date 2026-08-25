@@ -1,15 +1,17 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Modestus of Trier"
+name: Saint Modestus of Trier
 honorific: Saint
-summary: "Bishop of Trier, Germany in 486 during a period of great political turmoil when the city came under the rule of the Franks."
+summary: >-
+  Bishop of Trier, Germany in 486 during a period of great political turmoil when the city came under the rule of the
+  Franks.
 searchAliases:
-  - "Modest"
-  - "Modeste"
-  - "Modesto"
+  - Modest
+  - Modeste
+  - Modesto
 deathYear: 489
-died: "489 of natural causes"
-region: "Germany"
+died: 489 of natural causes
+region: Germany
 feastDay:
   month: 2
   day: 24
@@ -18,6 +20,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Bishop of Trier, Germany in 486 during a period of great political turmoil when the city came under the rule of the Franks.

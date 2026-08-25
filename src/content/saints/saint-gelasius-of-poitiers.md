@@ -18,6 +18,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/3/3a/Abbot_Suger.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Gelasius of Poitiers
 imageCreditUrl: https://en.wikipedia.org/wiki/Suger
+prayers: []
 ---
 
 Bishop of Poitiers, France in the late 4th and early 5th centuries.

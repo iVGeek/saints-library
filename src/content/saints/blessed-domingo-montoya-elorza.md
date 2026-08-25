@@ -1,15 +1,15 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Domingo Montoya Elorza"
+name: Blessed Domingo Montoya Elorza
 honorific: Blessed
-summary: "Franciscan priest. Martyred in the Spanish Civil War."
+summary: Franciscan priest. Martyred in the Spanish Civil War.
 birthYear: 1885
 deathYear: 1936
-born: "4 August  1885  in Loza, Álava, Spain"
-died: "31 July 1936 in Puente Genil, Córdoba, Spain"
-birthPlace: "Álava, Spain"
-deathPlace: "Córdoba, Spain"
-region: "Spain"
+born: 4 August  1885  in Loza, Álava, Spain
+died: 31 July 1936 in Puente Genil, Córdoba, Spain
+birthPlace: Álava, Spain
+deathPlace: Córdoba, Spain
+region: Spain
 feastDay:
   month: 7
   day: 31
@@ -17,8 +17,9 @@ canonizationStatus: Blessed
 vocation:
   - Priest
   - Cardinal
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 martyr: true
+prayers: []
 ---
 
 Franciscan priest. Martyred in the Spanish Civil War.

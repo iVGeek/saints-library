@@ -1,10 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Artemón of Caesarea"
+name: Saint Artemón of Caesarea
 honorific: Saint
-summary: "Elderly Christian man who was ordered to sacrifice to Roman gods. When Artemón refused, he was dragged to the temple of Asclepius and again ordered to sacrifice; when they released him, he attacked the statues and destroyed several before being captured. Tortured and martyred."
-died: "martyed in Caesarea, Asia Minor"
-deathPlace: "Asia Minor"
+summary: >-
+  Elderly Christian man who was ordered to sacrifice to Roman gods. When Artemón refused, he was dragged to the temple
+  of Asclepius and again ordered to sacrifice; when they released him, he attacked the statues and destroyed several
+  before being captured. Tortured and martyred.
+died: martyed in Caesarea, Asia Minor
+deathPlace: Asia Minor
 feastDay:
   month: 4
   day: 12
@@ -12,6 +15,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Elderly Christian man who was ordered to sacrifice to Roman gods. When Artemón refused, he was dragged to the temple of Asclepius and again ordered to sacrifice; when they released him, he attacked the statues and destroyed several before being captured. Tortured and martyred.

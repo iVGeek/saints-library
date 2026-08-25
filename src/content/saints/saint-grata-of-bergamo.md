@@ -24,6 +24,7 @@ patronage:
     Bergamo
   - Grassobbio
 martyr: true
+prayers: []
 ---
 
 Widowed lay woman who zealously pursued a mission of giving Christian burial for martyrs. This included the body of Saint Alexander of Bergamo; as she carried his severed head, lilies sprang from the earth from every spot where a drop of his blood fell. She is reputed to have built three churches and a hospital for the poor in Bergamo, Italy.

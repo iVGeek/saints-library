@@ -24,6 +24,7 @@ vocation:
   - Missionary
 religiousOrder: Franciscan
 martyr: true
+prayers: []
 ---
 
 Son of Vincenzo and Annunziata Lilli. Joined the Franciscans in 1870, making his vows on 6 August 1871. Studied at the Franciscan seminary in the Holy Lands. Ordained in Bethlehem on 6 April 1878. Missionary in Jerusalem for two years. Missionary to Marasco, Armenia in 1880. In addition to preaching the faith he built schools, clinics, and homes for the abandoned, and taught modern hygiene and sanitation in the remote villages. Worked endlessly with the sick during a cholera epidemic in 1891. Missionary to Mujuk-Deresa, Armenia in 1894. In 1895 the area was occupied by Islamic Turks who captured Salvatore and several fellow Franciscans. They were tortured and ordered to convert; they all refused. One of the Martyrs of Armenia.

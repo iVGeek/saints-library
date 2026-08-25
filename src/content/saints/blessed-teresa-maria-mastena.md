@@ -1,19 +1,24 @@
 ---
-name: "Blessed Teresa Maria Mastena"
+name: Blessed Teresa Maria Mastena
 honorific: Blessed
-summary: "Eldest of five children of Giulio Mastena, a grocer, and Maria Antonia Casarotti, an elementary school teacher. Raised in a pious family; one brother was a priest, another tried to be, and a sister became a tertiary. Received First Communion on 19 March 1891, during which she mad"
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Teresa-Maria-Mastena.jpg"
+summary: >-
+  Eldest of five children of Giulio Mastena, a grocer, and Maria Antonia Casarotti, an elementary school teacher. Raised
+  in a pious family; one brother was a priest, another tried to be, and a sister became a tertiary. Received First
+  Communion on 19 March 1891, during which she mad
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Teresa-Maria-Mastena.jpg
 searchAliases:
-  - "Maria Pia Mastena"
-  - "Mother Maria Pia"
-  - "Sister Passitea of the Child Jesus"
+  - Maria Pia Mastena
+  - Mother Maria Pia
+  - Sister Passitea of the Child Jesus
 birthYear: 1881
 deathYear: 1951
-born: "7 December 1881 in Bovolone, Verona, Italy as Teresa Maria Mastena"
-died: "during the evening of 28 June 1951 in Rome, Italy of a heart attack while working to start a new house of the Institute"
-birthPlace: "Verona, Italy as Teresa Maria Mastena"
-deathPlace: "Italya heart attack while working to start a new house of the Institute"
-region: "Italy"
+born: 7 December 1881 in Bovolone, Verona, Italy as Teresa Maria Mastena
+died: >-
+  during the evening of 28 June 1951 in Rome, Italy of a heart attack while working to start a new house of the
+  Institute
+birthPlace: Verona, Italy as Teresa Maria Mastena
+deathPlace: Italya heart attack while working to start a new house of the Institute
+region: Italy
 feastDay:
   month: 6
   day: 28
@@ -23,6 +28,7 @@ vocation:
   - Religious
   - Cardinal
 martyr: false
+prayers: []
 ---
 
 Eldest of five children of Giulio Mastena, a grocer, and Maria Antonia Casarotti, an elementary school teacher. Raised in a pious family; one brother was a priest, another tried to be, and a sister became a tertiary. Received First Communion on 19 March 1891, during which she made a private vow of chastity. Received Confirmation on 29 August 1891. Feeling a call to religious life, she tried to take the veil at age 14, but was considered too young. At age 17 she joined the Institute of the Sisters of Mercy in Verona, Italy. On 24 October 1903 she made her profession, and received the name Sister Passitea of the Child Jesus.

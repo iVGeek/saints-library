@@ -1,11 +1,11 @@
 ---
-name: "Saint Theodore Trichinas"
+name: Saint Theodore Trichinas
 honorific: Saint
-summary: "Fourth century hermit."
-image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Theodore-Trichinas.jpg"
-born: "Constantinople (modern Istanbul, Turkey)"
-birthPlace: "Turkey)"
-region: "England"
+summary: Fourth century hermit.
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Theodore-Trichinas.jpg
+born: Constantinople (modern Istanbul, Turkey)
+birthPlace: Turkey)
+region: England
 feastDay:
   month: 4
   day: 20
@@ -14,6 +14,7 @@ vocation:
   - Monk
   - Hermit
 martyr: false
+prayers: []
 ---
 
 Fourth century hermit.

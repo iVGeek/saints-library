@@ -1,10 +1,10 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Yolanda"
+name: Saint Yolanda
 honorific: Saint
-summary: "Daughter of the count of Vianden. Dominican nun against the fierce opposition of her father."
+summary: Daughter of the count of Vianden. Dominican nun against the fierce opposition of her father.
 deathYear: 1283
-died: "1283 of natural causes"
+died: 1283 of natural causes
 feastDay:
   month: 12
   day: 17
@@ -13,8 +13,9 @@ vocation:
   - Priest
   - Monk
   - Religious
-religiousOrder: "Dominican"
+religiousOrder: Dominican
 martyr: false
+prayers: []
 ---
 
 Daughter of the count of Vianden. Dominican nun against the fierce opposition of her father.

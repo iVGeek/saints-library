@@ -23,6 +23,7 @@ image: https://upload.wikimedia.org/wikipedia/commons/6/60/Wroclaw_kosciol_swWin
 imageAlt: The Premonstratensian monastery church of Saint Vincent in Wrocław, where Blessed Adalbert served as prior
 imageCredit: Wikimedia Commons
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:Wroclaw_kosciol_swWincentego.jpg
+prayers: []
 ---
 
 Premonstratensian monk. Canon and then prior of the Premonstratensian monastery of Saint Vincent in Wroclaw, Poland where he insisted on proper monastic discipline. He took to the streets to defend his house against attacks by Protestants.

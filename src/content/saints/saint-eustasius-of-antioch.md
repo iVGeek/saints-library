@@ -16,6 +16,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/5/5e/Sebastiano_Ricci_049.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Eustasius of Antioch
 imageCreditUrl: https://en.wikipedia.org/wiki/Eusebius%20of%20Vercelli
+prayers: []
 ---
 
 Martyr.

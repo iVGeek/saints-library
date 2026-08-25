@@ -35,6 +35,7 @@ patronage:
     Amiens
   - Montreuil-sur-Mer
 martyr: false
+prayers: []
 ---
 
 Probably born to a wealthy family as he had much time to study in his youth; through these studies Salvius became dedicated to theology, and was drawn to religious life. He became a monk, and later abbot, at the monastery of Our Lady in Montreuil-sur-Mer, France. Ninth bishop of the Amiens, Neustria (in modern France), serving in the early 7th century. We have little information about his time as bishop, but he did discover the relics of Saint Firminus of Amiens and had them enshrined. Reported miracle worker.

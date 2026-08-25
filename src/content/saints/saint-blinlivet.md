@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Blinlivet"
+name: Saint Blinlivet
 honorific: Saint
-summary: "Ninth century bishop of Vannes, France."
+summary: Ninth century bishop of Vannes, France.
 searchAliases:
-  - "Blevileguetus"
-region: "France"
+  - Blevileguetus
+region: France
 feastDay:
   month: 11
   day: 7
@@ -14,6 +14,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Ninth century bishop of Vannes, France.

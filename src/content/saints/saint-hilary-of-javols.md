@@ -1,9 +1,9 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Hilary of Javols"
+name: Saint Hilary of Javols
 honorific: Saint
-summary: "Sixth-century bishop of Javols, France."
-region: "France"
+summary: Sixth-century bishop of Javols, France.
+region: France
 feastDay:
   month: 10
   day: 25
@@ -12,6 +12,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Sixth-century bishop of Javols, France.

@@ -1,14 +1,14 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Giacomo Brunforte of Falerone"
+name: Blessed Giacomo Brunforte of Falerone
 honorific: Blessed
-summary: "Franciscan friar and priest. Confessor of Blessed Giovanni della Verna."
+summary: Franciscan friar and priest. Confessor of Blessed Giovanni della Verna.
 deathYear: 1308
-born: "13th century Ascoli Piceno, Italy"
-died: "1308 in Mogliano, Macerata, Italy of natural causes"
-birthPlace: "Italy"
-deathPlace: "Macerata, Italynatural causes"
-region: "Italy"
+born: 13th century Ascoli Piceno, Italy
+died: 1308 in Mogliano, Macerata, Italy of natural causes
+birthPlace: Italy
+deathPlace: Macerata, Italynatural causes
+region: Italy
 feastDay:
   month: 7
   day: 25
@@ -16,8 +16,9 @@ canonizationStatus: Blessed
 vocation:
   - Priest
   - Confessor
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 martyr: false
+prayers: []
 ---
 
 Franciscan friar and priest. Confessor of Blessed Giovanni della Verna.

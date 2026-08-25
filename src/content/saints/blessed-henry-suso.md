@@ -30,6 +30,7 @@ vocation:
   - Confessor
 religiousOrder: Dominican
 martyr: false
+prayers: []
 ---
 
 Born to the German nobility. Joined the Dominicans at age 13. Known as a mystic. Served as prior at several houses. Theological student of Meister Eckhart in Cologne, Germany from 1322 to 1325. Taught in Constance, Switzerland. Spent years imprisoned in a dungeon due to slander and his association with Meister Eckhart, a controversial figure in his day. Great spiritual writer, using the pen name Amandus. Noted preacher in Switzerland and the area of the Upper Rhine. Spiritual advisor to Dominicans and the spiritual community called Gottesfreunde

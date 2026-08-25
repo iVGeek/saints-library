@@ -1,23 +1,26 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Vicente Angulo García"
+name: Blessed Vicente Angulo García
 honorific: Blessed
-summary: "Professed religious in the Brothers of the Christian Schools (De La Salle Brothers). Martyred in the Spanish Civil War."
+summary: >-
+  Professed religious in the Brothers of the Christian Schools (De La Salle Brothers). Martyred in the Spanish Civil
+  War.
 searchAliases:
-  - "Adalberto Juan"
+  - Adalberto Juan
 birthYear: 1904
 deathYear: 1936
-born: "22 January 1904 in Quintana Martín Galindez, Burgos, Spain"
-died: "30 November 1936 in Paracuellos de Jarama, Madrid, Spain"
-birthPlace: "Burgos, Spain"
-deathPlace: "Madrid, Spain"
-region: "Spain"
+born: 22 January 1904 in Quintana Martín Galindez, Burgos, Spain
+died: 30 November 1936 in Paracuellos de Jarama, Madrid, Spain
+birthPlace: Burgos, Spain
+deathPlace: Madrid, Spain
+region: Spain
 feastDay:
   month: 11
   day: 30
 canonizationStatus: Blessed
 vocation: []
 martyr: true
+prayers: []
 ---
 
 Professed religious in the Brothers of the Christian Schools (De La Salle Brothers). Martyred in the Spanish Civil War.

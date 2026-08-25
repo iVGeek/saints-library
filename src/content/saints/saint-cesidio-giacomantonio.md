@@ -1,27 +1,32 @@
 ---
-name: "Saint Cesidio Giacomantonio"
+name: Saint Cesidio Giacomantonio
 honorific: Venerable
-summary: "Born to Giovanni and Maria Loreta Antonucci. Early feeling a call to religious life, Angelo joined the Franciscan Friars Minor (Reformed) at the convent of San Angelo in Ocre, Italy at age 15. He made his initial vows on 21 November 1891, age 18, taking the name Brother Cesidio i"
-image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Cesidio-Giacomantonio.jpg"
+summary: >-
+  Born to Giovanni and Maria Loreta Antonucci. Early feeling a call to religious life, Angelo joined the Franciscan
+  Friars Minor (Reformed) at the convent of San Angelo in Ocre, Italy at age 15. He made his initial vows on 21 November
+  1891, age 18, taking the name Brother Cesidio i
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Cesidio-Giacomantonio.jpg
 searchAliases:
-  - "Angelo"
+  - Angelo
 birthYear: 1873
 deathYear: 1900
-born: "30 August 1873 in Fossa, L'Aquila, Italy as Angelo Giacomantonio"
-died: "wrapped in a sheet soaked in oil and then burned to death on 4 July 1900 in Hengzhou, Hunan, China"
-birthPlace: "L'Aquila, Italy as Angelo Giacomantonio"
-deathPlace: "Hunan, China"
-region: "China"
+born: 30 August 1873 in Fossa, L'Aquila, Italy as Angelo Giacomantonio
+died: wrapped in a sheet soaked in oil and then burned to death on 4 July 1900 in Hengzhou, Hunan, China
+birthPlace: L'Aquila, Italy as Angelo Giacomantonio
+deathPlace: Hunan, China
+region: China
 feastDay:
   month: 7
   day: 4
-centuries: [19]
+centuries:
+  - 19
 canonizationStatus: Venerable
 vocation:
   - Priest
   - Missionary
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 martyr: true
+prayers: []
 ---
 
 Born to Giovanni and Maria Loreta Antonucci. Early feeling a call to religious life, Angelo joined the Franciscan Friars Minor (Reformed) at the convent of San Angelo in Ocre, Italy at age 15. He made his initial vows on 21 November 1891, age 18, taking the name Brother Cesidio in honour of Saint Caesidius, and his solemn profession on 8 December 1892. After further studies, he was ordained a priest in the archdiocese of L'Aquila, Italy in 1897.

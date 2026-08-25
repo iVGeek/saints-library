@@ -1,12 +1,12 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Anastasius of Schemarius"
+name: Saint Anastasius of Schemarius
 honorific: Saint
-summary: "Monk in the Caucasus mountains. Spiritual student of Saint Maximus the Confessor. Imprisoned, tortured and martyred."
+summary: Monk in the Caucasus mountains. Spiritual student of Saint Maximus the Confessor. Imprisoned, tortured and martyred.
 deathYear: 662
-died: "662 at the Schemaris fortress, Caucasus mountains"
-deathPlace: "Caucasus mountains"
-region: "Italy"
+died: 662 at the Schemaris fortress, Caucasus mountains
+deathPlace: Caucasus mountains
+region: Italy
 feastDay:
   month: 7
   day: 22
@@ -15,6 +15,7 @@ vocation:
   - Monk
   - Confessor
 martyr: true
+prayers: []
 ---
 
 Monk in the Caucasus mountains. Spiritual student of Saint Maximus the Confessor. Imprisoned, tortured and martyred.

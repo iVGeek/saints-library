@@ -15,6 +15,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/0/04/Worms_Dom_Ostfassade_Vierung2005-05-27a.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Amandus of Worms
 imageCreditUrl: https://en.wikipedia.org/wiki/Worms%20Cathedral
+prayers: []
 ---
 
 Fourth century bishop of Worms, Germany.

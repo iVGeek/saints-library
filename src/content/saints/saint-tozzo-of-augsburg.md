@@ -1,14 +1,17 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Tozzo of Augsburg"
+name: Saint Tozzo of Augsburg
 honorific: Saint
-summary: "Benedictine monk in the 8th century abbey in Murbach (in modern France). Advisor to Saint Wicterp of Augsburg. Worked with Saint Magnus of Füssen to establish the monastery and church at Füssen in Bavaria (in modern Germany). Served as parish priest in nearby Waltenhofen. Bishop"
+summary: >-
+  Benedictine monk in the 8th century abbey in Murbach (in modern France). Advisor to Saint Wicterp of Augsburg. Worked
+  with Saint Magnus of Füssen to establish the monastery and church at Füssen in Bavaria (in modern Germany). Served as
+  parish priest in nearby Waltenhofen. Bishop
 searchAliases:
-  - "Tosso"
+  - Tosso
 deathYear: 778
-died: "16 January 778 of natural causes, probably in Augsburg, Germany"
-deathPlace: "probablyAugsburg, Germany"
-region: "Germany"
+died: 16 January 778 of natural causes, probably in Augsburg, Germany
+deathPlace: probablyAugsburg, Germany
+region: Germany
 feastDay:
   month: 1
   day: 16
@@ -17,8 +20,9 @@ vocation:
   - Bishop
   - Priest
   - Monk
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 martyr: false
+prayers: []
 ---
 
 Benedictine monk in the 8th century abbey in Murbach (in modern France). Advisor to Saint Wicterp of Augsburg. Worked with Saint Magnus of Füssen to establish the monastery and church at Füssen in Bavaria (in modern Germany). Served as parish priest in nearby Waltenhofen. Bishop of Augsburg, Germany from April 772 until his death, serving his remaining five years.

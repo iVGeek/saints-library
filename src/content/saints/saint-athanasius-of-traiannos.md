@@ -1,12 +1,14 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Athanasius of Traiannos"
+name: Saint Athanasius of Traiannos
 honorific: Saint
-summary: "Wandering monk. Settling in Traiannos, Greece c.908, he worked as a calligrapher and copied manuscripts of the Bible and Church Fathers."
+summary: >-
+  Wandering monk. Settling in Traiannos, Greece c.908, he worked as a calligrapher and copied manuscripts of the Bible
+  and Church Fathers.
 deathYear: 933
-born: "Asia Minor"
-died: "933 of natural causes"
-region: "Greece"
+born: Asia Minor
+died: 933 of natural causes
+region: Greece
 feastDay:
   month: 6
   day: 3
@@ -15,6 +17,7 @@ vocation:
   - Priest
   - Monk
 martyr: false
+prayers: []
 ---
 
 Wandering monk. Settling in Traiannos, Greece c.908, he worked as a calligrapher and copied manuscripts of the Bible and Church Fathers.

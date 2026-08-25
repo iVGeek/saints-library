@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Tola"
+name: Saint Tola
 honorific: Saint
-summary: "Abbot and Bishop of Disert Tola in Meath, Ireland."
+summary: Abbot and Bishop of Disert Tola in Meath, Ireland.
 deathYear: 733
-died: "c.733"
-region: "Ireland"
+died: c.733
+region: Ireland
 feastDay:
   month: 3
   day: 30
@@ -14,6 +14,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Abbot and Bishop of Disert Tola in Meath, Ireland.

@@ -1,9 +1,9 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Mars of Nantes"
+name: Saint Mars of Nantes
 honorific: Saint
-summary: "Sixth century bishop of Nantes, France."
-region: "France"
+summary: Sixth century bishop of Nantes, France.
+region: France
 feastDay:
   month: 7
   day: 5
@@ -12,11 +12,12 @@ vocation:
   - Bishop
   - Monk
 patronage:
-  - "Petit-Mars, France"
-  - "Saint-Mars-du-Désert, France"
-  - "Saint-Mars-de-Coutais, France"
-  - "Saint-Mars-la-Jaille, France"
+  - Petit-Mars, France
+  - Saint-Mars-du-Désert, France
+  - Saint-Mars-de-Coutais, France
+  - Saint-Mars-la-Jaille, France
 martyr: false
+prayers: []
 ---
 
 Sixth century bishop of Nantes, France.

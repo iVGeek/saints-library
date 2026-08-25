@@ -1,28 +1,31 @@
 ---
-name: "Saint Hardoin of Brittany"
+name: Saint Hardoin of Brittany
 honorific: Saint
-summary: "Immigrant from the British Isles to Brittany (in modern France); legend says he was brought there in a stone boat propelled by angels. Hermit in the area of  Landerneau. Priest. Bishop of Saint Pol-de-Léon, Finistère, France. Friend of Saint Herve."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Hardoin-of-Brittany.jpg"
+summary: >-
+  Immigrant from the British Isles to Brittany (in modern France); legend says he was brought there in a stone boat
+  propelled by angels. Hermit in the area of  Landerneau. Priest. Bishop of Saint Pol-de-Léon, Finistère, France. Friend
+  of Saint Herve.
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Hardoin-of-Brittany.jpg
 searchAliases:
-  - "Hardoin of St-Paul-de-Leon"
-  - "Hardouin…"
-  - "Harduinus…"
-  - "Hoardon…"
-  - "Hoardonus…"
-  - "Hoarzon…"
-  - "Hoarzonus…"
-  - "Hoiarn-don…"
-  - "Hoierdonus…"
-  - "Holeardonus…"
-  - "Hordeonius…"
-  - "Houardon…"
-  - "Huardo…"
-  - "Ouardon…"
-  - "Wardon…"
+  - Hardoin of St-Paul-de-Leon
+  - Hardouin…
+  - Harduinus…
+  - Hoardon…
+  - Hoardonus…
+  - Hoarzon…
+  - Hoarzonus…
+  - Hoiarn-don…
+  - Hoierdonus…
+  - Holeardonus…
+  - Hordeonius…
+  - Houardon…
+  - Huardo…
+  - Ouardon…
+  - Wardon…
 deathYear: 650
-born: "British Isles"
-died: "c.650"
-region: "France"
+born: British Isles
+died: c.650
+region: France
 feastDay:
   month: 11
   day: 29
@@ -33,9 +36,10 @@ vocation:
   - Monk
   - Hermit
 patronage:
-  - "Landerneau, France"
-  - "sailors"
+  - Landerneau, France
+  - sailors
 martyr: false
+prayers: []
 ---
 
 Immigrant from the British Isles to Brittany (in modern France); legend says he was brought there in a stone boat propelled by angels. Hermit in the area of  Landerneau. Priest. Bishop of Saint Pol-de-Léon, Finistère, France. Friend of Saint Herve.

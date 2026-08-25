@@ -13,6 +13,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/c/ce/Simone_Martini_040.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Fortunatus of Pannonia
 imageCreditUrl: https://en.wikipedia.org/wiki/Martin%20of%20Tours
+prayers: []
 ---
 
 Fourth century martyr. No other information has survived.

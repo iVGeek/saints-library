@@ -1,15 +1,18 @@
 ---
-name: "Blessed Eugenia Ravasco"
+name: Blessed Eugenia Ravasco
 honorific: Blessed
-summary: "Third of six children born to Francesco Matteo and Carolina Mozzoni Frosconi. Eugenia's mother died when the girl was three, her father moved with some of the children to Genoa, Italy to find work, and Eugenia was raised in Milan by her pious aunt Marietta Anselmi. The family reu"
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Eugenia-Ravasco.jpg"
+summary: >-
+  Third of six children born to Francesco Matteo and Carolina Mozzoni Frosconi. Eugenia's mother died when the girl was
+  three, her father moved with some of the children to Genoa, Italy to find work, and Eugenia was raised in Milan by her
+  pious aunt Marietta Anselmi. The family reu
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Eugenia-Ravasco.jpg
 birthYear: 1845
 deathYear: 1900
-born: "4 January 1845 at Milan, Italy"
-died: "30 December 1900 at Genoa, Italy of natural causes"
-birthPlace: "Italy"
-deathPlace: "Italynatural causes"
-region: "Mexico"
+born: 4 January 1845 at Milan, Italy
+died: 30 December 1900 at Genoa, Italy of natural causes
+birthPlace: Italy
+deathPlace: Italynatural causes
+region: Mexico
 feastDay:
   month: 12
   day: 30
@@ -18,6 +21,7 @@ vocation:
   - Priest
   - Religious
 martyr: false
+prayers: []
 ---
 
 Third of six children born to Francesco Matteo and Carolina Mozzoni Frosconi. Eugenia's mother died when the girl was three, her father moved with some of the children to Genoa, Italy to find work, and Eugenia was raised in Milan by her pious aunt Marietta Anselmi. The family reunited in Genoa in 1852, but Eugenia's father died in March 1855, and she moved in with her pious relatives Luigi and Elisa Ravasco (and their ten children).

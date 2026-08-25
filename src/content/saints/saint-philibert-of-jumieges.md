@@ -28,6 +28,7 @@ patronage:
     Noirmoutier
   - Quinçay
 martyr: false
+prayers: []
 ---
 
 The only son of a member of the court of King Dagobert I. Educated by Saint Ouen of Rouen. Monk of Rébais Abbey at age 20. Abbot of Rébais. He spent some time travelling to various monasteries, studying their Rules, constitutions and methods of mangement. Founded Jumièges Abbey on land he received as a gift from King Clovis II. He created a Rule for the Abbey, and served as its first abbot. Imprisoned and then exiled for opposition to Ebroin. Founded the monastery of Noirmoutier. Abbot of Luçon Abbey. Returning from exile, he founded the monastery of Cunaut and a convent at Pavilly, and helped restore Quinçay. The filbert, or hazelnut, is said to have been named for him as it ripens in England around the time of his feast day.

@@ -17,6 +17,7 @@ vocation:
   - Monk
   - Hermit
 martyr: false
+prayers: []
 ---
 
 Recluse near Liessies, France under the spiritual direction of her brother Gundrad, abbot of the nearby monastery.

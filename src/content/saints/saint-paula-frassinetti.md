@@ -1,26 +1,28 @@
 ---
-name: "Saint Paula Frassinetti"
+name: Saint Paula Frassinetti
 honorific: Venerable
-summary: " One of Paula's aunts moved in to help with the Only daughter of John and Angela Frassinetti, she was raised in a pious family; all four of her brothers became priests. Paula's mother died when the girl was nine years old. In need of a substitute mother, Paula turned to Our Lady."
-image: "https://upload.wikimedia.org/wikipedia/commons/0/01/Paola_frassinetti.jpg"
+summary: ' One of Paula''s aunts moved in to help with the Only daughter of John and Angela Frassinetti, she was raised in a pious family; all four of her brothers became priests. Paula''s mother died when the girl was nine years old. In need of a substitute mother, Paula turned to Our Lady.'
+image: https://upload.wikimedia.org/wikipedia/commons/0/01/Paola_frassinetti.jpg
 searchAliases:
-  - "Paola Frassinetti"
+  - Paola Frassinetti
 birthYear: 1809
 deathYear: 1882
-born: "3 March 1809 at Genoa, Italy"
-died: "11 June 1882 of pneumonia following a series of strokes"
-birthPlace: "Italy"
-region: "Brazil"
+born: 3 March 1809 at Genoa, Italy
+died: 11 June 1882 of pneumonia following a series of strokes
+birthPlace: Italy
+region: Brazil
 feastDay:
   month: 6
   day: 11
-centuries: [19]
+centuries:
+  - 19
 canonizationStatus: Venerable
 vocation:
   - Confessor
 patronage:
-  - "sick people"
+  - sick people
 martyr: false
+prayers: []
 ---
 
 Only daughter of John and Angela Frassinetti, she was raised in a pious family; all four of her brothers became priests. Paula's mother died when the girl was nine years old. In need of a substitute mother, Paula turned to Our Lady.

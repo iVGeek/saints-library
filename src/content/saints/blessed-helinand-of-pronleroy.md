@@ -1,24 +1,25 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Helinand of Pronleroy"
+name: Blessed Helinand of Pronleroy
 honorific: Blessed
-summary: "Court singer and troubadour. Convert. Benedictine Cistercian monk at Froidmont, France."
+summary: Court singer and troubadour. Convert. Benedictine Cistercian monk at Froidmont, France.
 searchAliases:
-  - "Elinand"
-  - "Elinando"
-  - "Elinandus"
+  - Elinand
+  - Elinando
+  - Elinandus
 birthYear: 1160
-born: "c.1160 at Pronleroy, diocese of Beauvais, France"
-birthPlace: "dioceseBeauvais, France"
-region: "France"
+born: c.1160 at Pronleroy, diocese of Beauvais, France
+birthPlace: dioceseBeauvais, France
+region: France
 feastDay:
   month: 2
   day: 3
 canonizationStatus: Blessed
 vocation:
   - Monk
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 martyr: false
+prayers: []
 ---
 
 Court singer and troubadour. Convert. Benedictine Cistercian monk at Froidmont, France.

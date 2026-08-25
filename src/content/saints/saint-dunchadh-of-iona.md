@@ -1,19 +1,19 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Dunchadh of Iona"
+name: Saint Dunchadh of Iona
 honorific: Saint
-summary: "Monk and abbot in Ireland. Abbot of Iona Abbey. Known for his personal piety and as a miracle worker."
+summary: Monk and abbot in Ireland. Abbot of Iona Abbey. Known for his personal piety and as a miracle worker.
 searchAliases:
-  - "Donatus"
-  - "Dumhade"
-  - "Dumhaid"
-  - "Duncad"
-  - "Dunchad"
-  - "Dunichad"
+  - Donatus
+  - Dumhade
+  - Dumhaid
+  - Duncad
+  - Dunchad
+  - Dunichad
 deathYear: 717
-born: "Ireland"
-died: "717"
-region: "Ireland"
+born: Ireland
+died: '717'
+region: Ireland
 feastDay:
   month: 5
   day: 25
@@ -22,6 +22,7 @@ vocation:
   - Priest
   - Monk
 martyr: false
+prayers: []
 ---
 
 Monk and abbot in Ireland. Abbot of Iona Abbey. Known for his personal piety and as a miracle worker.

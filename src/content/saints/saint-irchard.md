@@ -1,17 +1,19 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Irchard"
+name: Saint Irchard
 honorific: Saint
-summary: "Seventh century spiritual student of Saint Ternan of Culross. Bishop, consecrated in Rome, Italy by Pope Gregory the Great."
+summary: >-
+  Seventh century spiritual student of Saint Ternan of Culross. Bishop, consecrated in Rome, Italy by Pope Gregory the
+  Great.
 searchAliases:
-  - "Apostle of the Picts"
-  - "Erthad"
-  - "Merchard"
-  - "Yarcard"
-  - "Yrchard"
-born: "at Kincardineshire, Scotland"
-birthPlace: "Scotland"
-region: "Italy"
+  - Apostle of the Picts
+  - Erthad
+  - Merchard
+  - Yarcard
+  - Yrchard
+born: at Kincardineshire, Scotland
+birthPlace: Scotland
+region: Italy
 feastDay:
   month: 8
   day: 24
@@ -22,6 +24,7 @@ vocation:
   - Monk
   - Confessor
 martyr: false
+prayers: []
 ---
 
 Seventh century spiritual student of Saint Ternan of Culross. Bishop, consecrated in Rome, Italy by Pope Gregory the Great.

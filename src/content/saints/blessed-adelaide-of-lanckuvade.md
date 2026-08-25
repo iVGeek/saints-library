@@ -33,6 +33,7 @@ imageCredit: >-
   <ul><li>IA contributor: University of Illinois Urbana-Champaign</li></ul>
 imageCreditUrl: >-
   https://commons.wikimedia.org/wiki/File:Adelaide-%20or%2C%20The%20countercharm.%20A%20novel%20..%20(IA%20adelaideorcounte03cuth).pdf
+prayers: []
 ---
 
 After a wicked and wasted early life, Adelaide repented and became Cistercian nun in the convent of Lenkwend, Germany. She is reported to have received visions of temptations and threats from the devil, trying to prevent her penitence.

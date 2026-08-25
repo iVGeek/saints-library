@@ -1,15 +1,15 @@
 ---
-name: "Saint Conogan of Quimper"
+name: Saint Conogan of Quimper
 honorific: Saint
-summary: "Bishop of Quimper, France."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Conogan-of-Quimper.jpg"
+summary: Bishop of Quimper, France.
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Conogan-of-Quimper.jpg
 searchAliases:
-  - "Albinus"
-  - "Conogon"
-  - "Gwen"
+  - Albinus
+  - Conogon
+  - Gwen
 deathYear: 460
-died: "460"
-region: "France"
+died: '460'
+region: France
 feastDay:
   month: 10
   day: 16
@@ -18,6 +18,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Bishop of Quimper, France.

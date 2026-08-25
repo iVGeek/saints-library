@@ -1,19 +1,22 @@
 ---
-name: "Saint Acisclus of Córdoba"
+name: Saint Acisclus of Córdoba
 honorific: Saint
-summary: "Brother of Saint Victoria of Cordoba. Martyred in the persecutions of Diocletian. After their deaths, their home was turned into a church. They have an office in the Mozabic Liturgy, and devotion to them is widespread throughout Spain and France."
-image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Acisclus-1.jpg"
+summary: >-
+  Brother of Saint Victoria of Cordoba. Martyred in the persecutions of Diocletian. After their deaths, their home was
+  turned into a church. They have an office in the Mozabic Liturgy, and devotion to them is widespread throughout Spain
+  and France.
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Acisclus-1.jpg
 searchAliases:
-  - "Aciscle"
-  - "Acisclo"
-  - "Ascylus"
-  - "Iscle"
-  - "Ocysellus"
+  - Aciscle
+  - Acisclo
+  - Ascylus
+  - Iscle
+  - Ocysellus
 deathYear: 304
-born: "at Cordoba, Spain"
-died: "beheaded in 304"
-birthPlace: "Spain"
-region: "France"
+born: at Cordoba, Spain
+died: beheaded in 304
+birthPlace: Spain
+region: France
 feastDay:
   month: 11
   day: 17
@@ -21,8 +24,9 @@ canonizationStatus: Saint
 vocation:
   - Monk
 patronage:
-  - "Cordoba, Spain"
+  - Cordoba, Spain
 martyr: true
+prayers: []
 ---
 
 Brother of Saint Victoria of Cordoba. Martyred in the persecutions of Diocletian. After their deaths, their home was turned into a church. They have an office in the Mozabic Liturgy, and devotion to them is widespread throughout Spain and France.

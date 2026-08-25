@@ -1,19 +1,19 @@
 ---
-name: "Saint Severinus of Noricum"
+name: Saint Severinus of Noricum
 honorific: Saint
-summary: " Evangelized in Noricum (part of modern Austria). Hermit near Vienna. Prophesied t Born to the Roman nobility. Gave away his wealth to live as a hermit in the Egyptian desert. Though he loved the quiet and contemplative life, he felt a call to spread the faith, and he followed it."
-image: "https://upload.wikimedia.org/wikipedia/commons/6/6c/Severin_von_Noricum_%28um_1470%29.jpg"
+summary: ' Evangelized in Noricum (part of modern Austria). Hermit near Vienna. Prophesied t Born to the Roman nobility. Gave away his wealth to live as a hermit in the Egyptian desert. Though he loved the quiet and contemplative life, he felt a call to spread the faith, and he followed it.'
+image: https://upload.wikimedia.org/wikipedia/commons/6/6c/Severin_von_Noricum_%28um_1470%29.jpg
 searchAliases:
-  - "Severinus of Austria"
-  - "Severine…"
-  - "Severino…"
-  - "Apostle of Austria"
+  - Severinus of Austria
+  - Severine…
+  - Severino…
+  - Apostle of Austria
 birthYear: 410
 deathYear: 482
-born: "c.410 in North Africa"
-died: "8 January 482 at Favianae, Noricum (in modern Austria) of pleurisy"
-deathPlace: "Noricum (modern Austria) of pleurisy"
-region: "Austria"
+born: c.410 in North Africa
+died: 8 January 482 at Favianae, Noricum (in modern Austria) of pleurisy
+deathPlace: Noricum (modern Austria) of pleurisy
+region: Austria
 feastDay:
   month: 1
   day: 8
@@ -23,21 +23,25 @@ vocation:
   - Priest
   - Monk
   - Hermit
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 patronage:
-  - "against famine"
-  - "linen weavers"
-  - "prisoners"
-  - "vineyards"
-  - "–"
-  - "Austria"
-  - "–"
-  - "Bavaria, Germany"
-  - "Linz, Austria, diocese of"
-  - "Italy\n\nNaples"
-  - "San Severino, Centola"
-  - "San Severo"
+  - against famine
+  - linen weavers
+  - prisoners
+  - vineyards
+  - –
+  - Austria
+  - –
+  - Bavaria, Germany
+  - Linz, Austria, diocese of
+  - |-
+    Italy
+
+    Naples
+  - San Severino, Centola
+  - San Severo
 martyr: false
+prayers: []
 ---
 
 Born to the Roman nobility. Gave away his wealth to live as a hermit in the Egyptian desert. Though he loved the quiet and contemplative life, he felt a call to spread the faith, and he followed it.

@@ -27,6 +27,7 @@ religiousOrder: Benedictine
 patronage:
   - Altomünster, Germany
 martyr: false
+prayers: []
 ---
 
 Hermit in a forest near Augsburg, Germany. His reputation for holiness attracted would-be spiritual students; to house them he founded a monastery that was later known as Altomünster in his honour. The town of Altomünster grew up around it.

@@ -21,6 +21,7 @@ vocation:
 patronage:
   - Carhaix, France
 martyr: false
+prayers: []
 ---
 
 Son of Saint Triphina. Educated by Saint Gildas the Wise. Murdered as a child by his step-father, Count Conmore due to his hatred of the faith.

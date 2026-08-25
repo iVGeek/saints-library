@@ -1,14 +1,16 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Paschasia of Dijon"
+name: Saint Paschasia of Dijon
 honorific: Saint
-summary: "Consecrated virgin (an early type of nun). Spiritual student of Saint Benigne and and helped in his missionary work. Martyr. Saint Gregory of Tours mentions her."
+summary: >-
+  Consecrated virgin (an early type of nun). Spiritual student of Saint Benigne and and helped in his missionary work.
+  Martyr. Saint Gregory of Tours mentions her.
 searchAliases:
-  - "Paschasie"
+  - Paschasie
 deathYear: 178
-died: "c.178 in the area of modern Dijon, France"
-deathPlace: "France"
-region: "France"
+died: c.178 in the area of modern Dijon, France
+deathPlace: France
+region: France
 feastDay:
   month: 1
   day: 9
@@ -18,6 +20,7 @@ vocation:
   - Religious
   - Missionary
 martyr: true
+prayers: []
 ---
 
 Consecrated virgin (an early type of nun). Spiritual student of Saint Benigne and and helped in his missionary work. Martyr. Saint Gregory of Tours mentions her.

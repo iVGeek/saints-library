@@ -22,6 +22,7 @@ vocation:
   - Priest
 religiousOrder: Lazarist
 martyr: true
+prayers: []
 ---
 
 Priest. Member of the Congregation of the Mission (Vincentians). Ordered to take an oath of allegiance to the anti–Catholic government of the French Revolution; he refused. Martyr.

@@ -1,11 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Hérombert of Minden"
+name: Saint Hérombert of Minden
 honorific: Saint
-summary: "Bishop of Minden, Westphalia (in modern Germany), chosen with the support of Blessed Charlemagne. Missionary to the Saxons."
+summary: >-
+  Bishop of Minden, Westphalia (in modern Germany), chosen with the support of Blessed Charlemagne. Missionary to the
+  Saxons.
 deathYear: 800
-died: "800"
-region: "Germany"
+died: '800'
+region: Germany
 feastDay:
   month: 7
   day: 9
@@ -15,6 +17,7 @@ vocation:
   - Monk
   - Missionary
 martyr: false
+prayers: []
 ---
 
 Bishop of Minden, Westphalia (in modern Germany), chosen with the support of Blessed Charlemagne. Missionary to the Saxons.

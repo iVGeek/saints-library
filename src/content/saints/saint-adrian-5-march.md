@@ -1,17 +1,19 @@
 ---
-name: "Saint Adrian of Caesarea"
+name: Saint Adrian of Caesarea
 honorific: Saint
-summary: "Travelled from Batanaea to Caesarea in Palestine to visit and minister to the Christians there. Martyred with Saint Eubulus in the persecutions of governor Firmilian."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saints-Adrian-and-Eubulus-of-Caesarea.jpg"
+summary: >-
+  Travelled from Batanaea to Caesarea in Palestine to visit and minister to the Christians there. Martyred with Saint
+  Eubulus in the persecutions of governor Firmilian.
+image: http://catholicsaints.info/wp-content/uploads/img-Saints-Adrian-and-Eubulus-of-Caesarea.jpg
 searchAliases:
-  - "Adrian of Batanea"
-  - "Adriano…"
-  - "Adrianus…"
-  - "Hadrian…"
+  - Adrian of Batanea
+  - Adriano…
+  - Adrianus…
+  - Hadrian…
 deathYear: 308
-died: "beheaded on 5 March 308 at Caesarea, Palestine"
-deathPlace: "Palestine"
-region: "Holy Land"
+died: beheaded on 5 March 308 at Caesarea, Palestine
+deathPlace: Palestine
+region: Holy Land
 feastDay:
   month: 3
   day: 5
@@ -20,6 +22,7 @@ vocation:
   - Priest
   - Monk
 martyr: true
+prayers: []
 ---
 
 Travelled from Batanaea to Caesarea in Palestine to visit and minister to the Christians there. Martyred with Saint Eubulus in the persecutions of governor Firmilian.

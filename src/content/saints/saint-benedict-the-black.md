@@ -1,21 +1,24 @@
 ---
-name: "Saint Benedict the Black"
+name: Saint Benedict the Black
 honorific: Saint
-summary: "His parents, Christopher and Diana, were slaves who had been taken from Africa to Sicily. Benedict was granted his freedom at age 18, but remained as an employee of his former master. Scorned and mocked by others as poor as himself, due to his origin and skin, he retained a natur"
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Benedict-the-Black-1.jpg"
+summary: >-
+  His parents, Christopher and Diana, were slaves who had been taken from Africa to Sicily. Benedict was granted his
+  freedom at age 18, but remained as an employee of his former master. Scorned and mocked by others as poor as himself,
+  due to his origin and skin, he retained a natur
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Benedict-the-Black-1.jpg
 searchAliases:
-  - "Benedict of Palermo"
-  - "Benedict of San Philadelphio"
-  - "Benedict of Sanfratello"
-  - "Benedict the African"
-  - "Benedict the Moor"
-  - "Benedetto il Moro"
+  - Benedict of Palermo
+  - Benedict of San Philadelphio
+  - Benedict of Sanfratello
+  - Benedict the African
+  - Benedict the Moor
+  - Benedetto il Moro
 birthYear: 1526
 deathYear: 1589
-born: "1526 at Messina, Italy on the estate of Chevalier de Lanza a San Fratello"
-died: "1589 of natural causes"
-birthPlace: "Italy on the estateChevalier de Lanza a San Fratello"
-region: "Spain"
+born: 1526 at Messina, Italy on the estate of Chevalier de Lanza a San Fratello
+died: 1589 of natural causes
+birthPlace: Italy on the estateChevalier de Lanza a San Fratello
+region: Spain
 feastDay:
   month: 4
   day: 4
@@ -23,14 +26,15 @@ canonizationStatus: Saint
 vocation:
   - Monk
   - Hermit
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 patronage:
-  - "African missions"
-  - "African-Americans"
-  - "black people"
-  - "Negroes"
-  - "Palermo, Sicily, Italy"
+  - African missions
+  - African-Americans
+  - black people
+  - Negroes
+  - Palermo, Sicily, Italy
 martyr: false
+prayers: []
 ---
 
 His parents, Christopher and Diana, were slaves who had been taken from Africa to Sicily. Benedict was granted his freedom at age 18, but remained as an employee of his former master. Scorned and mocked by others as poor as himself, due to his origin and skin, he retained a natural cheerfulness.

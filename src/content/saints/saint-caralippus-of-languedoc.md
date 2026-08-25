@@ -16,6 +16,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/e/eb/Saint_Aphrodisius.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Caralippus of Languedoc
 imageCreditUrl: https://en.wikipedia.org/wiki/Aphrodisius
+prayers: []
 ---
 
 Martyr. Saint Gregory of Tours wrote about him.

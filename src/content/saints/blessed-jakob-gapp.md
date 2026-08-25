@@ -1,18 +1,21 @@
 ---
-name: "Blessed Jakob Gapp"
+name: Blessed Jakob Gapp
 honorific: Blessed
-summary: "Seventh child in the working class family of Martin Gapp and Antonia Wach. Received a basic education in his native town, then entered the Franciscan high school in Hall in 1910. Austrian soldier on the Italian front from May 1915 till he was wounded in 1916; received the silver"
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Jakob-Gapp-1.jpg"
+summary: >-
+  Seventh child in the working class family of Martin Gapp and Antonia Wach. Received a basic education in his native
+  town, then entered the Franciscan high school in Hall in 1910. Austrian soldier on the Italian front from May 1915
+  till he was wounded in 1916; received the silver
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Jakob-Gapp-1.jpg
 searchAliases:
-  - "Jacob Gapp"
-  - "Jakub Gapp"
+  - Jacob Gapp
+  - Jakub Gapp
 birthYear: 1897
 deathYear: 1943
-born: "26 July 1897 at Wattens, Tyrol, Austria"
-died: "guillotined at 7.08pm 13 August 1943 at Plotzensee Prison, Berlin, Germany"
-birthPlace: "Tyrol, Austria"
-deathPlace: "Berlin, Germany"
-region: "Austria"
+born: 26 July 1897 at Wattens, Tyrol, Austria
+died: guillotined at 7.08pm 13 August 1943 at Plotzensee Prison, Berlin, Germany
+birthPlace: Tyrol, Austria
+deathPlace: Berlin, Germany
+region: Austria
 feastDay:
   month: 8
   day: 13
@@ -20,8 +23,9 @@ canonizationStatus: Blessed
 vocation:
   - Bishop
   - Priest
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 martyr: true
+prayers: []
 ---
 
 Seventh child in the working class family of Martin Gapp and Antonia Wach. Received a basic education in his native town, then entered the Franciscan high school in Hall in 1910. Austrian soldier on the Italian front from May 1915 till he was wounded in 1916; received the silver medal of Courage Second Class. On 4 November 1918 he became a prisoner of war in Riva del Garda; released on 18 August 1919.

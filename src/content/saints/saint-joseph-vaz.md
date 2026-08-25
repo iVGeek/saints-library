@@ -32,6 +32,7 @@ religiousOrder: Jesuit
 patronage:
   - Goa and Damão, India, archdiocese of
 martyr: false
+prayers: []
 ---
 
 Born to Christopher Vaz and Maria de Miranda, Christian parents of the Konkani Brahmin caste; the third of six children. Attended primary and secondary school in Sancoale, where he learned Portugese, and Benaulim, where he learned Latin. He studied humanities at the Jesuit Goa University, philosophy and theology at Saint Thomas Aquinas Academy.

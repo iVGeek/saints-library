@@ -1,9 +1,9 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Vacz"
+name: Saint Vacz
 honorific: Saint
-summary: "Eleventh century hermit in Visegrád, Hungary."
-region: "Hungary"
+summary: Eleventh century hermit in Visegrád, Hungary.
+region: Hungary
 feastDay:
   month: 11
   day: 26
@@ -12,6 +12,7 @@ vocation:
   - Monk
   - Hermit
 martyr: false
+prayers: []
 ---
 
 Eleventh century hermit in Visegrád, Hungary.

@@ -21,6 +21,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/f/f8/View_of_the_St._Kilian%27s_Cathedral_in_Wurzburg.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Arno of Würzburg
 imageCreditUrl: https://en.wikipedia.org/wiki/Diocese%20of%20W%C3%BCrzburg
+prayers: []
 ---
 
 Bishop of Würzburg, Germany in 855. Helped organize Crusaders from Bohemia, Moravia and Normandy. Killed by pagan Slavs while he was celebrating Mass. Martyr.

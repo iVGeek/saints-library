@@ -1,9 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Mun of Lough Ree"
+name: Saint Mun of Lough Ree
 honorific: Saint
-summary: "Fifth-century bishop in Ireland, consecrated by his uncle, Saint Patrick. In later life he retired to live as a hermit on the island of Lough Ree, Ireland."
-region: "Ireland"
+summary: >-
+  Fifth-century bishop in Ireland, consecrated by his uncle, Saint Patrick. In later life he retired to live as a hermit
+  on the island of Lough Ree, Ireland.
+region: Ireland
 feastDay:
   month: 2
   day: 6
@@ -13,6 +15,7 @@ vocation:
   - Monk
   - Hermit
 martyr: false
+prayers: []
 ---
 
 Fifth-century bishop in Ireland, consecrated by his uncle, Saint Patrick. In later life he retired to live as a hermit on the island of Lough Ree, Ireland.

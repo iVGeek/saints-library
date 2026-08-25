@@ -22,6 +22,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/0/0e/Neve_a_Verona_17.01.2006_033.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Emilia of Lugdunum
 imageCreditUrl: https://en.wikipedia.org/wiki/Christmas%20in%20Italy
+prayers: []
 ---
 
 One of a group of 48 Christians from the areas of Vienne and Lyon in France, who were attacked by a pagan mob, arrested and tried for their faith, and murdered in the persecutions of Marcus Aurelius. A letter describing their fate, possibly written by Saint Irenaeus of Lyons, was sent to the churches in the Middle East.

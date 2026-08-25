@@ -31,4 +31,5 @@ patronage:
   - Campogalliano, Italy
   - Cologne, Germany
 martyr: false
+prayers: []
 ---

@@ -1,21 +1,22 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Victoire Gusteau"
+name: Blessed Victoire Gusteau
 honorific: Blessed
-summary: "Lay woman of the diocese of Angers, France. Martyred in the persecutions of the French Revolution."
+summary: Lay woman of the diocese of Angers, France. Martyred in the persecutions of the French Revolution.
 birthYear: 1745
 deathYear: 1794
-born: "c.1745 in Châtillon-sur-Sèvre, Deux-Sèvres France"
-died: "18 January 1794 in Avrillé, Maine-et-Loire, France"
-birthPlace: "Deux-Sèvres France"
-deathPlace: "Maine-et-Loire, France"
-region: "France"
+born: c.1745 in Châtillon-sur-Sèvre, Deux-Sèvres France
+died: 18 January 1794 in Avrillé, Maine-et-Loire, France
+birthPlace: Deux-Sèvres France
+deathPlace: Maine-et-Loire, France
+region: France
 feastDay:
   month: 1
   day: 18
 canonizationStatus: Blessed
 vocation: []
 martyr: true
+prayers: []
 ---
 
 Lay woman of the diocese of Angers, France. Martyred in the persecutions of the French Revolution.

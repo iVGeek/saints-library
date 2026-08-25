@@ -26,6 +26,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/2/25/Rupert-Salzburg.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Chuniald
 imageCreditUrl: https://en.wikipedia.org/wiki/Rupert%20of%20Salzburg
+prayers: []
 ---
 
 Seventh-century missionary priest in the region of Bavaria in modern Germany and Austria. Worked with Saint Rupert of Salzburg.

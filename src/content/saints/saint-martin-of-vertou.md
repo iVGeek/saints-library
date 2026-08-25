@@ -24,6 +24,7 @@ vocation:
   - Deacon
   - Hermit
 martyr: false
+prayers: []
 ---
 
 Born wealthy, to a family well-known in his region. Ordained a deacon by Saint Felix. Noted for his lack of skill as a preacher. Hermit in the Dumen forest at Brittany. There his obvious sanctity attracted so many followers that he was forced found Vertou abbey near Nantes, France and serve as its first abbot; legend says he was led to the site of the monastery by an angel. Later founded Saint Jouin-de-Marne abbey, the convent at Durieu, and assisted in the founding of other houses. Reported miracle worker.

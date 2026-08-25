@@ -1,15 +1,15 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Dodolinus of Vienne"
+name: Saint Dodolinus of Vienne
 honorific: Saint
-title: "Bishop"
-summary: "Seventh century bishop of Vienne, France."
+title: Bishop
+summary: Seventh century bishop of Vienne, France.
 searchAliases:
-  - "Dodolino"
-  - "Dodoleno"
-  - "Dodolenus"
-  - "Dodolin"
-region: "France"
+  - Dodolino
+  - Dodoleno
+  - Dodolenus
+  - Dodolin
+region: France
 feastDay:
   month: 4
   day: 1
@@ -17,6 +17,7 @@ canonizationStatus: Saint
 vocation:
   - Bishop
 martyr: false
+prayers: []
 ---
 
 Seventh century bishop of Vienne, France.

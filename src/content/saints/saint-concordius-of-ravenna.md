@@ -1,12 +1,12 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Concordius of Ravenna"
+name: Saint Concordius of Ravenna
 honorific: Saint
-summary: "Martyr. No other information has survived."
+summary: Martyr. No other information has survived.
 deathYear: 305
-died: "c.305 in Ravenna, Italy"
-deathPlace: "Italy"
-region: "Italy"
+died: c.305 in Ravenna, Italy
+deathPlace: Italy
+region: Italy
 feastDay:
   month: 12
   day: 16
@@ -14,6 +14,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Martyr. No other information has survived.

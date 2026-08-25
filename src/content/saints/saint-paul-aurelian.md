@@ -37,6 +37,7 @@ patronage:
   - Lampaul-Guimiliau
   - Saint-Pol-de-Léon
 martyr: false
+prayers: []
 ---
 
 Born a Romano-Briton prince, the son of Perphius, a Welsh chieftain. Educated at Llantwit Major with Saint David of Wales, Saint Samson of York, Saint Gildas the Wise and Saint Illtyd. Hermit. To escape being made a bishop, he and 12 companions established a monastery at Porz-Pol, Ouessant Island, Brittany (part of modern France). He later relented and became bishop of Ouismon. Spiritual director of his nephew, Saint Joavan of Brittany.

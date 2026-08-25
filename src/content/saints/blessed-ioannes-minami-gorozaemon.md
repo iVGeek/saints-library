@@ -1,15 +1,17 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Ioannes Minami Gorozaemon"
+name: Blessed Ioannes Minami Gorozaemon
 honorific: Blessed
-summary: "Layman in the diocese of Fukuoka, Japan. Married to Blessed Magdalena Minami; adopted father of Blessed Ludovicus Minami. Martyr."
+summary: >-
+  Layman in the diocese of Fukuoka, Japan. Married to Blessed Magdalena Minami; adopted father of Blessed Ludovicus
+  Minami. Martyr.
 birthYear: 1568
 deathYear: 1603
-born: "c.1568 in Yamato, Kagoshima, Japan"
-died: "8 December 1603 in Kumamoto, Japan"
-birthPlace: "Kagoshima, Japan"
-deathPlace: "Japan"
-region: "Japan"
+born: c.1568 in Yamato, Kagoshima, Japan
+died: 8 December 1603 in Kumamoto, Japan
+birthPlace: Kagoshima, Japan
+deathPlace: Japan
+region: Japan
 feastDay:
   month: 12
   day: 8
@@ -18,6 +20,7 @@ vocation:
   - Priest
   - Cardinal
 martyr: true
+prayers: []
 ---
 
 Layman in the diocese of Fukuoka, Japan. Married to Blessed Magdalena Minami; adopted father of Blessed Ludovicus Minami. Martyr.

@@ -22,6 +22,7 @@ vocation:
   - Hermit
 religiousOrder: Augustinian
 martyr: false
+prayers: []
 ---
 
 Priest in the Order of Hermits of Saint Augustine in Lecceto, Italy.

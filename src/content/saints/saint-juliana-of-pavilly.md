@@ -1,13 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Juliana of Pavilly"
+name: Saint Juliana of Pavilly
 honorific: Saint
-summary: "Servant girl. Benedictine nun at Pavilly, Normandy, France. Spiritual student of Saint Benedicta. Abbess at Pavilly."
+summary: Servant girl. Benedictine nun at Pavilly, Normandy, France. Spiritual student of Saint Benedicta. Abbess at Pavilly.
 searchAliases:
-  - "Little Sister of Jesus"
+  - Little Sister of Jesus
 deathYear: 750
-died: "c.750 of natural causes"
-region: "France"
+died: c.750 of natural causes
+region: France
 feastDay:
   month: 10
   day: 11
@@ -15,8 +15,9 @@ canonizationStatus: Saint
 vocation:
   - Monk
   - Religious
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 martyr: false
+prayers: []
 ---
 
 Servant girl. Benedictine nun at Pavilly, Normandy, France. Spiritual student of Saint Benedicta. Abbess at Pavilly.

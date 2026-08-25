@@ -1,9 +1,9 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Maura of Scotland"
+name: Saint Maura of Scotland
 honorific: Saint
-summary: "Tenth century anchoress in Scotland. Spiritual student of Saint Baya of Scotland. Nun. Abbess."
-region: "Scotland"
+summary: Tenth century anchoress in Scotland. Spiritual student of Saint Baya of Scotland. Nun. Abbess.
+region: Scotland
 feastDay:
   month: 11
   day: 2
@@ -13,6 +13,7 @@ vocation:
   - Monk
   - Religious
 martyr: false
+prayers: []
 ---
 
 Tenth century anchoress in Scotland. Spiritual student of Saint Baya of Scotland. Nun. Abbess.

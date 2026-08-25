@@ -1,23 +1,27 @@
 ---
-name: "Blessed Rafael Alonso Gutiérrez"
+name: Blessed Rafael Alonso Gutiérrez
 honorific: Blessed
-summary: "A lifelong layman, Rafael was married to Maria Adelaid Ruiz Glens in 1916; the couple were parents to four daughters. He worked as postmaster in Ontinyent, Valencia, Spain, and served as catechist and youth teacher by night at his parish. Member of the Catholic Legion, Catholic A"
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Rafael-Alonso-Gutiérrez.jpg"
+summary: >-
+  A lifelong layman, Rafael was married to Maria Adelaid Ruiz Glens in 1916; the couple were parents to four daughters.
+  He worked as postmaster in Ontinyent, Valencia, Spain, and served as catechist and youth teacher by night at his
+  parish. Member of the Catholic Legion, Catholic A
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Rafael-Alonso-Gutiérrez.jpg
 birthYear: 1890
 deathYear: 1936
-born: "14 June 1890 in Ontinyent, Valencia, Spain"
-died: "shot 11 August 1936 in Agullent, Valencia, Spain"
-birthPlace: "Valencia, Spain"
-deathPlace: "Valencia, Spain"
-region: "Spain"
+born: 14 June 1890 in Ontinyent, Valencia, Spain
+died: shot 11 August 1936 in Agullent, Valencia, Spain
+birthPlace: Valencia, Spain
+deathPlace: Valencia, Spain
+region: Spain
 feastDay:
   month: 8
   day: 11
 canonizationStatus: Blessed
 vocation:
   - Priest
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 martyr: true
+prayers: []
 ---
 
 A lifelong layman, Rafael was married to Maria Adelaid Ruiz Glens in 1916; the couple were parents to four daughters. He worked as postmaster in Ontinyent, Valencia, Spain, and served as catechist and youth teacher by night at his parish. Member of the Catholic Legion, Catholic Action, School of Christ, Association of the Sacred Heart of Jesus, and was a Franciscan Tertiary.

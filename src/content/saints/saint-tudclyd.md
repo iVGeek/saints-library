@@ -1,17 +1,17 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Tudclyd"
+name: Saint Tudclyd
 honorific: Saint
-summary: "Nun. A church in Dyfed, Wales is named for her."
+summary: Nun. A church in Dyfed, Wales is named for her.
 searchAliases:
-  - "Tudy"
-  - "Tudelyd"
-  - "Tybie"
-  - "Tydie"
-  - "Usa"
-born: "Welsh"
-died: "5th century of natural causes"
-region: "England"
+  - Tudy
+  - Tudelyd
+  - Tybie
+  - Tydie
+  - Usa
+born: Welsh
+died: 5th century of natural causes
+region: England
 feastDay:
   month: 1
   day: 30
@@ -21,6 +21,7 @@ vocation:
   - Monk
   - Religious
 martyr: false
+prayers: []
 ---
 
 Nun. A church in Dyfed, Wales is named for her.

@@ -1,19 +1,20 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Agofridus of Lacroix"
+name: Saint Agofridus of Lacroix
 honorific: Saint
-summary: "Brother of Saint Leofridus. Benedictine monk. Abbot of Lacroix Abbey in Normandy, France in 738."
+summary: Brother of Saint Leofridus. Benedictine monk. Abbot of Lacroix Abbey in Normandy, France in 738.
 searchAliases:
-  - "Agofroi"
-region: "France"
+  - Agofroi
+region: France
 feastDay:
   month: 8
   day: 24
 canonizationStatus: Saint
 vocation:
   - Monk
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 martyr: false
+prayers: []
 ---
 
 Brother of Saint Leofridus. Benedictine monk. Abbot of Lacroix Abbey in Normandy, France in 738.

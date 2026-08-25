@@ -22,6 +22,7 @@ vocation:
   - Priest
   - Monk
 martyr: false
+prayers: []
 ---
 
 Son of the Irish chieftain Sesenen in County Meath. Baptized by and a disciple of Saint Patrick, accompanying him in his travels and missions. Noted choral singer and arranger for liturgical music, he was called Patrick's psalm-singer. Evangelized the provinces of Clare, Kerry, and Connaught. Abbot of Drumlease for twenty years. Assisted in compiling the Senchus Mor, the Irish Code of Laws. Present at the synod which recognized the See of the Apostle Peter (Rome, Italy) as the final court of appeal in difficult cases. Succeeded Saint Patrick as bishop of Ireland.

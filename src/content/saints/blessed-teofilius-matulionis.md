@@ -1,15 +1,20 @@
 ---
-name: "Blessed Teofilius Matulionis"
+name: Blessed Teofilius Matulionis
 honorific: Blessed
-summary: "The middle of three brothers born to the peasant family of Jurgis Matulionis and Ona Juocepyte; after his mother died, his father re-married, and the couple then had seven more children. Teofilius studied at Antaliepte, Lithuania from 1887 to 1892, then Dvinsk (modern Daugpilis,"
-image: "https://upload.wikimedia.org/wikipedia/commons/b/ba/Teofilius_Matulionis.jpg"
+summary: >-
+  The middle of three brothers born to the peasant family of Jurgis Matulionis and Ona Juocepyte; after his mother died,
+  his father re-married, and the couple then had seven more children. Teofilius studied at Antaliepte, Lithuania from
+  1887 to 1892, then Dvinsk (modern Daugpilis,
+image: https://upload.wikimedia.org/wikipedia/commons/b/ba/Teofilius_Matulionis.jpg
 birthYear: 1873
 deathYear: 1962
-born: "22 June 1873 in Alantos, Moletai, Russian Empire (in modern Lithuania)"
-died: "during a routine search of his apartment by Soviet authorities, he was given an injection by a KGB nurse and dropped dead on 20 August 1962 in Seduva, Radviliškis, Lithuania"
-birthPlace: "Moletai, Russian Empire (modern Lithuania)"
-deathPlace: "he was given an injection by a KGB nurse and dropped dead on 20 August 1962Seduva, Radviliškis, Lithuania"
-region: "France"
+born: 22 June 1873 in Alantos, Moletai, Russian Empire (in modern Lithuania)
+died: >-
+  during a routine search of his apartment by Soviet authorities, he was given an injection by a KGB nurse and dropped
+  dead on 20 August 1962 in Seduva, Radviliškis, Lithuania
+birthPlace: Moletai, Russian Empire (modern Lithuania)
+deathPlace: he was given an injection by a KGB nurse and dropped dead on 20 August 1962Seduva, Radviliškis, Lithuania
+region: France
 feastDay:
   month: 8
   day: 20
@@ -19,6 +24,7 @@ vocation:
   - Priest
   - Cardinal
 martyr: true
+prayers: []
 ---
 
 The middle of three brothers born to the peasant family of Jurgis Matulionis and Ona Juocepyte; after his mother died, his father re-married, and the couple then had seven more children. Teofilius studied at Antaliepte, Lithuania from 1887 to 1892, then Dvinsk (modern Daugpilis, Latvia) from 1892 to 1900, and then at the seminary in Saint Petersburg, Russia; he could speak Russian, Latvian and Polish. At one point he questioned his vocation, left seminary, and supported himself by teaching, but later returned to seminary. Ordained a priest of the diocese of Mohilev, Belarus on 17 March 1900.

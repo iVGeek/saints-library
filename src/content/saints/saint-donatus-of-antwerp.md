@@ -14,6 +14,7 @@ vocation:
   - Monk
 religiousOrder: Jesuit
 martyr: true
+prayers: []
 ---
 
 Martyr.

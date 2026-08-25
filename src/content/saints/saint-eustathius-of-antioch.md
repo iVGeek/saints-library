@@ -29,6 +29,7 @@ vocation:
   - Monk
   - Confessor
 martyr: false
+prayers: []
 ---
 
 Noted for his learning and personal piety, and his eloquence in the defense of Christianity. Bishop of Beroea, Syria. Bishop of Antioch (modern Antakya, Turkey) c.324. Fought Arianism. Assisted at the General Council of Nice. Exiled by Emperor Constantine the Great for his opposition to Arianism. His De Engastrimytho contra Origenem, an essay on the Witch of Endor, has survived.

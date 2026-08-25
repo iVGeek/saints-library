@@ -1,13 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Conor MacCarthy"
+name: Blessed Conor MacCarthy
 honorific: Blessed
-summary: "Priest in the diocese of Kerry, Ireland. One of the Irish Martyrs."
+summary: Priest in the diocese of Kerry, Ireland. One of the Irish Martyrs.
 deathYear: 1653
-born: "Irish"
-died: "5 June 1653 in Killarney, Kerry, Ireland"
-deathPlace: "Kerry, Ireland"
-region: "Ireland"
+born: Irish
+died: 5 June 1653 in Killarney, Kerry, Ireland
+deathPlace: Kerry, Ireland
+region: Ireland
 feastDay:
   month: 6
   day: 5
@@ -15,6 +15,7 @@ canonizationStatus: Blessed
 vocation:
   - Priest
 martyr: true
+prayers: []
 ---
 
 Priest in the diocese of Kerry, Ireland. One of the Irish Martyrs.

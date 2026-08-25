@@ -1,21 +1,22 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Suzanne Androuin"
+name: Blessed Suzanne Androuin
 honorific: Blessed
-summary: "Lay woman of the diocese of Angers, France. Martyred in the persecutions of the French Revolution."
+summary: Lay woman of the diocese of Angers, France. Martyred in the persecutions of the French Revolution.
 birthYear: 1757
 deathYear: 1794
-born: "16 March 1757 in Saint-Lambert-du-Lattay, Maine-et-Loire, France"
-died: "martyred on 1 February 1794 at Avrillé, Maine-et-Loire, France"
-birthPlace: "Maine-et-Loire, France"
-deathPlace: "Maine-et-Loire, France"
-region: "France"
+born: 16 March 1757 in Saint-Lambert-du-Lattay, Maine-et-Loire, France
+died: martyred on 1 February 1794 at Avrillé, Maine-et-Loire, France
+birthPlace: Maine-et-Loire, France
+deathPlace: Maine-et-Loire, France
+region: France
 feastDay:
   month: 2
   day: 1
 canonizationStatus: Blessed
 vocation: []
 martyr: true
+prayers: []
 ---
 
 Lay woman of the diocese of Angers, France. Martyred in the persecutions of the French Revolution.

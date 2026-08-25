@@ -1,26 +1,29 @@
 ---
-name: "Saint Ðaminh Nguyen Van Xuyên"
+name: Saint Ðaminh Nguyen Van Xuyên
 honorific: Venerable
-summary: "Dominican priest. Worked in the Dominican missions in Vietnam. One of the Martyrs of Vietnam."
-image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Daminh-Nguyen-Van-Xuyen.jpg"
+summary: Dominican priest. Worked in the Dominican missions in Vietnam. One of the Martyrs of Vietnam.
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Daminh-Nguyen-Van-Xuyen.jpg
 searchAliases:
-  - "Dominic Nguyen Van Xuyen"
+  - Dominic Nguyen Van Xuyen
 birthYear: 1786
 deathYear: 1839
-born: "c.1786 in Hung Lap, Nam Ðinh, Vietnam"
-died: "beheaded on 26 November 1839 in Bay Mau, Hanoi, Vietnam"
-birthPlace: "Nam Ðinh, Vietnam"
-deathPlace: "Hanoi, Vietnam"
-region: "Vietnam"
+born: c.1786 in Hung Lap, Nam Ðinh, Vietnam
+died: beheaded on 26 November 1839 in Bay Mau, Hanoi, Vietnam
+birthPlace: Nam Ðinh, Vietnam
+deathPlace: Hanoi, Vietnam
+region: Vietnam
 feastDay:
   month: 11
   day: 26
-centuries: [18, 19]
+centuries:
+  - 18
+  - 19
 canonizationStatus: Venerable
 vocation:
   - Priest
-religiousOrder: "Dominican"
+religiousOrder: Dominican
 martyr: true
+prayers: []
 ---
 
 Dominican priest. Worked in the Dominican missions in Vietnam. One of the Martyrs of Vietnam.

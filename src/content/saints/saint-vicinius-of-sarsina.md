@@ -1,16 +1,19 @@
 ---
-name: "Saint Vicinius of Sarsina"
+name: Saint Vicinius of Sarsina
 honorific: Saint
-summary: "Prayerful hermit on a mountain near Sarsina, Italy; it has since been named Monte San Vicinio in his honour. As was the custom then, around the year 303 the clergy and laity of Sarsina gathered to select their bishop; they saw a sign appear in the heavens above the mountain where"
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Vicinius-of-Sarsina.jpg"
+summary: >-
+  Prayerful hermit on a mountain near Sarsina, Italy; it has since been named Monte San Vicinio in his honour. As was
+  the custom then, around the year 303 the clergy and laity of Sarsina gathered to select their bishop; they saw a sign
+  appear in the heavens above the mountain where
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Vicinius-of-Sarsina.jpg
 searchAliases:
-  - "Vicinio"
+  - Vicinio
 deathYear: 330
-born: "late 3rd century Liguria, Italy"
-died: "28 August 330 in the area of Sarsina, Italy of natural causes"
-birthPlace: "Italy"
-deathPlace: "Italynatural causes"
-region: "Italy"
+born: late 3rd century Liguria, Italy
+died: 28 August 330 in the area of Sarsina, Italy of natural causes
+birthPlace: Italy
+deathPlace: Italynatural causes
+region: Italy
 feastDay:
   month: 8
   day: 28
@@ -20,9 +23,10 @@ vocation:
   - Priest
   - Hermit
 patronage:
-  - "Cesena-Sarsina, Italy, diocese of"
-  - "Sarsina, Italy, city of"
+  - Cesena-Sarsina, Italy, diocese of
+  - Sarsina, Italy, city of
 martyr: false
+prayers: []
 ---
 
 Prayerful hermit on a mountain near Sarsina, Italy; it has since been named Monte San Vicinio in his honour. As was the custom then, around the year 303 the clergy and laity of Sarsina gathered to select their bishop; they saw a sign appear in the heavens above the mountain where Vicinius lived (one account gives it as angels in prayer over his hermitage), a group of the faithful was dispatched to find the man pointed out to them, and Vicinio was chosen the first bishop of Sarsina. Vicinius served for over 25 years, spreading the faith to the entire region. Even as bishop he regularly returned to the mountains to make solitary spiritual retreats. Miracle worker, exorcist and healer of both physical and mental illness.

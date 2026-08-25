@@ -17,6 +17,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/a/ae/StGermanus.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Germanus
 imageCreditUrl: https://en.wikipedia.org/wiki/Germanus%20of%20Auxerre
+prayers: []
 ---
 
 Martyred in the persecutions of Decius.

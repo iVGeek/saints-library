@@ -19,6 +19,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/6/6b/Celestine_V_Castel_Nuovo_Napoli_n02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Boniface of Ferentino
 imageCreditUrl: https://en.wikipedia.org/wiki/Pope%20Celestine%20V
+prayers: []
 ---
 
 Third bishop of Ferentino, Tuscany, Italy serving in the sixth century during the reign of Roman Emperor Justin. Saint Gregory the Great wrote about him.

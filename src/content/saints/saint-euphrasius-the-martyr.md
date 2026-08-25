@@ -1,12 +1,12 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Euphrasius the Martyr"
+name: Saint Euphrasius the Martyr
 honorific: Saint
-summary: "Bishop. Martyred by Arian Vandals."
+summary: Bishop. Martyred by Arian Vandals.
 searchAliases:
-  - "Eufrasio"
-died: "in North Africa"
-region: "England"
+  - Eufrasio
+died: in North Africa
+region: England
 feastDay:
   month: 1
   day: 14
@@ -15,6 +15,7 @@ vocation:
   - Bishop
   - Monk
 martyr: true
+prayers: []
 ---
 
 Bishop. Martyred by Arian Vandals.

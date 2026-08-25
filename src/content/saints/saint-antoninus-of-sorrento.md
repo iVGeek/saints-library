@@ -27,6 +27,7 @@ patronage:
   - Campagna, Italy
   - Sorrento, Italy
 martyr: false
+prayers: []
 ---
 
 Benedictine monk. Forced by war to leave his monastery, he was first a hermit, then abbot at Saint Agrippinus and teacher of the people of Sorrento, Italy.

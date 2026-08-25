@@ -1,13 +1,16 @@
 ---
-name: "Saint Methodius of Constantinople"
+name: Saint Methodius of Constantinople
 honorific: Saint
-summary: "Educated in Syracuse, Sicily. While in Constantinople to seek a position at court, he felt the call to enter the religious life. Built a monastery and started a monastic community on the island of Chinos. Soon after finishing construction, Methodius was summoned by the Patriarch"
-image: "http://catholicsaints.info/wp-content/uploads/Triumph_orthodoxy.jpg"
+summary: >-
+  Educated in Syracuse, Sicily. While in Constantinople to seek a position at court, he felt the call to enter the
+  religious life. Built a monastery and started a monastic community on the island of Chinos. Soon after finishing
+  construction, Methodius was summoned by the Patriarch
+image: http://catholicsaints.info/wp-content/uploads/Triumph_orthodoxy.jpg
 deathYear: 847
-born: "8th century at Syracuse, Sicily"
-died: "847 of natural causes"
-birthPlace: "Sicily"
-region: "Italy"
+born: 8th century at Syracuse, Sicily
+died: 847 of natural causes
+birthPlace: Sicily
+region: Italy
 feastDay:
   month: 6
   day: 14
@@ -17,8 +20,9 @@ vocation:
   - Monk
   - Confessor
 patronage:
-  - "Chios, Greece"
+  - Chios, Greece
 martyr: false
+prayers: []
 ---
 
 Educated in Syracuse, Sicily. While in Constantinople to seek a position at court, he felt the call to enter the religious life. Built a monastery and started a monastic community on the island of Chinos. Soon after finishing construction, Methodius was summoned by the Patriarch of Constantinople to help govern the diocese.

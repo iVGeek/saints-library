@@ -1,18 +1,21 @@
 ---
-name: "Saint Columbanus"
+name: Saint Columbanus
 honorific: Saint
-summary: "Well-born, handsome and educated, Columbanus was torn between a desire for God and easy access to the pleasures of the world. Acting on advice of a holy anchoress, he decided to withdraw from the world. His family opposed the choice, his mother going so far as to block the door."
-image: "https://upload.wikimedia.org/wikipedia/commons/f/fe/San_Colombano.jpg"
+summary: >-
+  Well-born, handsome and educated, Columbanus was torn between a desire for God and easy access to the pleasures of the
+  world. Acting on advice of a holy anchoress, he decided to withdraw from the world. His family opposed the choice, his
+  mother going so far as to block the door.
+image: https://upload.wikimedia.org/wikipedia/commons/f/fe/San_Colombano.jpg
 searchAliases:
-  - "Columbanus of Luxeuil"
-  - "Columbanus of Bobbio"
-  - "Columba…"
-  - "Columban…"
-  - "Columbano…"
+  - Columbanus of Luxeuil
+  - Columbanus of Bobbio
+  - Columba…
+  - Columban…
+  - Columbano…
 deathYear: 615
-died: "21 November 615 in a cave at Bobbio, Italy of natural causes"
-deathPlace: "Italynatural causes"
-region: "Scotland"
+died: 21 November 615 in a cave at Bobbio, Italy of natural causes
+deathPlace: Italynatural causes
+region: Scotland
 feastDay:
   month: 11
   day: 23
@@ -21,15 +24,19 @@ vocation:
   - Bishop
   - Priest
   - Missionary
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 patronage:
-  - "against floods"
-  - "motorcyclists"
-  - "–"
-  - "Missionary Society of Saint Columban"
-  - "in France\n\nLuxeuil Abbey"
-  - "Luxeuil-les-Bains"
+  - against floods
+  - motorcyclists
+  - –
+  - Missionary Society of Saint Columban
+  - |-
+    in France
+
+    Luxeuil Abbey
+  - Luxeuil-les-Bains
 martyr: false
+prayers: []
 ---
 
 Well-born, handsome and educated, Columbanus was torn between a desire for God and easy access to the pleasures of the world. Acting on advice of a holy anchoress, he decided to withdraw from the world. His family opposed the choice, his mother going so far as to block the door. Monk at Lough Erne. He studied Scripture extensively, and wrote a commentary on the Psalms. Monk at Bangor under abbot Saint Comgall.

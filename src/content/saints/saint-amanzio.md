@@ -21,6 +21,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/40/Gemonio_San_Pietro_12.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Amanzio
 imageCreditUrl: https://en.wikipedia.org/wiki/Abundius
+prayers: []
 ---
 
 Sixth-century priest in the region of Perugia, Italy, known for his ministry to the sick. Worked with Saint Florido of Città di Castello.

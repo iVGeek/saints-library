@@ -1,17 +1,17 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Leoncio López Ramos"
+name: Blessed Leoncio López Ramos
 honorific: Blessed
-summary: "Priest. Member of the Picpus Fathers. Martyred in the Spanish Civil War."
+summary: Priest. Member of the Picpus Fathers. Martyred in the Spanish Civil War.
 searchAliases:
-  - "Father Eladio"
+  - Father Eladio
 birthYear: 1904
 deathYear: 1936
-born: "16 November 1904 in Laroco, Orense, Spain"
-died: "8 August 1936 in Madrid, Spain"
-birthPlace: "Orense, Spain"
-deathPlace: "Spain"
-region: "Spain"
+born: 16 November 1904 in Laroco, Orense, Spain
+died: 8 August 1936 in Madrid, Spain
+birthPlace: Orense, Spain
+deathPlace: Spain
+region: Spain
 feastDay:
   month: 8
   day: 8
@@ -19,6 +19,7 @@ canonizationStatus: Blessed
 vocation:
   - Priest
 martyr: true
+prayers: []
 ---
 
 Priest. Member of the Picpus Fathers. Martyred in the Spanish Civil War.

@@ -1,12 +1,12 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Baoithin of Ennisboyne"
+name: Saint Baoithin of Ennisboyne
 honorific: Saint
-summary: "No information available."
+summary: No information available.
 searchAliases:
-  - "Baithin mac Findech"
-born: "Irish"
-region: "Ireland"
+  - Baithin mac Findech
+born: Irish
+region: Ireland
 feastDay:
   month: 5
   day: 22
@@ -14,8 +14,9 @@ canonizationStatus: Saint
 vocation:
   - Monk
 patronage:
-  - "Ennisboyne, Ireland"
+  - Ennisboyne, Ireland
 martyr: false
+prayers: []
 ---
 
 No information available.

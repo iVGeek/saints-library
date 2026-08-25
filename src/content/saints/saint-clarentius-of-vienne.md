@@ -1,14 +1,14 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Clarentius of Vienne"
+name: Saint Clarentius of Vienne
 honorific: Saint
-summary: "Bishop of Vienne, France."
+summary: Bishop of Vienne, France.
 searchAliases:
-  - "Clarence"
-  - "Clarenzio"
+  - Clarence
+  - Clarenzio
 deathYear: 620
-died: "c.620"
-region: "France"
+died: c.620
+region: France
 feastDay:
   month: 4
   day: 25
@@ -17,6 +17,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Bishop of Vienne, France.

@@ -1,12 +1,14 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Peleus of Phunon"
+name: Saint Peleus of Phunon
 honorific: Saint
-summary: "Bishop in Egypt. Sentenced to forced labour in a rock quarry and martyred in the persecution of Diocletian. Noted for celebrating Mass in prison."
+summary: >-
+  Bishop in Egypt. Sentenced to forced labour in a rock quarry and martyred in the persecution of Diocletian. Noted for
+  celebrating Mass in prison.
 deathYear: 310
-died: "burned to death in 310 at Phunon, near Petra in Palestine"
-deathPlace: "near PetraPalestine"
-region: "Egypt"
+died: burned to death in 310 at Phunon, near Petra in Palestine
+deathPlace: near PetraPalestine
+region: Egypt
 feastDay:
   month: 9
   day: 19
@@ -15,6 +17,7 @@ vocation:
   - Bishop
   - Monk
 martyr: true
+prayers: []
 ---
 
 Bishop in Egypt. Sentenced to forced labour in a rock quarry and martyred in the persecution of Diocletian. Noted for celebrating Mass in prison.

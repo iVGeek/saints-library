@@ -1,17 +1,20 @@
 ---
-name: "Saint Bertrand of Aquileia"
+name: Saint Bertrand of Aquileia
 honorific: Saint
-summary: "Studied civil and canon law at the University of Toulouse. Priest. Dean of the cathedral chapter of Angouleme, France in 1316. Canon of Saint Felice in Toulouse, France in 1318. Archdeacon of Noyon, France. Papal chaplain. Taught law at the University of Toulouse. Worked for the"
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Bertrand-of-Aquileia1.jpg"
+summary: >-
+  Studied civil and canon law at the University of Toulouse. Priest. Dean of the cathedral chapter of Angouleme, France
+  in 1316. Canon of Saint Felice in Toulouse, France in 1318. Archdeacon of Noyon, France. Papal chaplain. Taught law at
+  the University of Toulouse. Worked for the
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Bertrand-of-Aquileia1.jpg
 searchAliases:
-  - "Bertrando"
-  - "Bertrichramnus"
+  - Bertrando
+  - Bertrichramnus
 birthYear: 1260
 deathYear: 1350
-born: "c.1260 at Saint Geniès, Quercy, Aquitaine, France"
-died: "6 June 1350 at San Giogio Richionvelda"
-birthPlace: "Quercy, Aquitaine, France"
-region: "France"
+born: c.1260 at Saint Geniès, Quercy, Aquitaine, France
+died: 6 June 1350 at San Giogio Richionvelda
+birthPlace: Quercy, Aquitaine, France
+region: France
 feastDay:
   month: 6
   day: 6
@@ -20,8 +23,9 @@ vocation:
   - Bishop
   - Priest
   - Deacon
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 martyr: true
+prayers: []
 ---
 
 Studied civil and canon law at the University of Toulouse. Priest. Dean of the cathedral chapter of Angouleme, France in 1316. Canon of Saint Felice in Toulouse, France in 1318. Archdeacon of Noyon, France. Papal chaplain. Taught law at the University of Toulouse. Worked for the canonization of Saint Thomas Aquinas. Papal diplomat.

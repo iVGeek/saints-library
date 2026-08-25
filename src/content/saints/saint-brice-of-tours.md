@@ -1,19 +1,22 @@
 ---
-name: "Saint Brice of Tours"
+name: Saint Brice of Tours
 honorific: Saint
-summary: "An orphan rescued by Saint Martin of Tours, and raised by Martin's clerics. Though ostensibly a spiritual student of Saint Martin, Brice became so wild, wicked, proud, ungrateful, and disorderly that some thought him possessed by a demon! He became a priest, but was a vain, ambit"
-image: "https://upload.wikimedia.org/wikipedia/commons/d/d9/Saintbrice.jpg"
+summary: >-
+  An orphan rescued by Saint Martin of Tours, and raised by Martin's clerics. Though ostensibly a spiritual student of
+  Saint Martin, Brice became so wild, wicked, proud, ungrateful, and disorderly that some thought him possessed by a
+  demon! He became a priest, but was a vain, ambit
+image: https://upload.wikimedia.org/wikipedia/commons/d/d9/Saintbrice.jpg
 searchAliases:
-  - "Briccius"
-  - "Brictius"
-  - "Britius"
-  - "Brixius"
-  - "Brizio"
-  - "Brizo"
+  - Briccius
+  - Brictius
+  - Britius
+  - Brixius
+  - Brizio
+  - Brizo
 deathYear: 444
-died: "444 at Tours, France of natural causes"
-deathPlace: "Francenatural causes"
-region: "France"
+died: 444 at Tours, France of natural causes
+deathPlace: Francenatural causes
+region: France
 feastDay:
   month: 11
   day: 13
@@ -23,13 +26,17 @@ vocation:
   - Priest
   - Confessor
 patronage:
-  - "against colic"
-  - "against stomach diseases"
-  - "–"
-  - "Tours, France"
-  - "in Italy\n\nCalimera"
-  - "Samperone"
+  - against colic
+  - against stomach diseases
+  - –
+  - Tours, France
+  - |-
+    in Italy
+
+    Calimera
+  - Samperone
 martyr: false
+prayers: []
 ---
 
 An orphan rescued by Saint Martin of Tours, and raised by Martin's clerics. Though ostensibly a spiritual student of Saint Martin, Brice became so wild, wicked, proud, ungrateful, and disorderly that some thought him possessed by a demon! He became a priest, but was a vain, ambitious one with contempt for Martin. Many advised Martin to kick him out, but Saint Martin said that if Jesus could deal with Judas, he could deal with Brice.

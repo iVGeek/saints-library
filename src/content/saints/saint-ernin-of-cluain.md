@@ -1,13 +1,15 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Ernin of Cluain"
+name: Saint Ernin of Cluain
 honorific: Saint
-summary: "Son of Craskin. Though he is mentioned in several martyrologies, menologies and writings, no details about him have survived."
+summary: >-
+  Son of Craskin. Though he is mentioned in several martyrologies, menologies and writings, no details about him have
+  survived.
 searchAliases:
-  - "Ernineus"
+  - Ernineus
 deathYear: 634
-died: "634"
-region: "England"
+died: '634'
+region: England
 feastDay:
   month: 6
   day: 4
@@ -15,6 +17,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Son of Craskin. Though he is mentioned in several martyrologies, menologies and writings, no details about him have survived.

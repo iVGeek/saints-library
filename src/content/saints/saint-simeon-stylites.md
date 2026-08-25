@@ -26,6 +26,7 @@ vocation:
 patronage:
   - shepherds
 martyr: false
+prayers: []
 ---
 
 Son of a poor shepherd, and worked as a shepherd as a child. A would-be monk at age 13, he was turned away from monasteries because his severe self-imposed penances. Tired of the gossip and arguments from fellow religious, he lived as a  hermit on top of a column, occasionally preaching to those who gathered to watch and pray with him, and starting a movement of pillar-living among Eastern hermits.

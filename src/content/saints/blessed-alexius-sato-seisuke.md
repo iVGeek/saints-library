@@ -1,14 +1,16 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Alexius Sato Seisuke"
+name: Blessed Alexius Sato Seisuke
 honorific: Blessed
-summary: "Layman in the diocese of Niigata, Japan. Brother of Blessed Paulus Sato Matagoro. Married to Blessed Lucia Sato; father of Blessed Elisabeth Sato. Martyr."
+summary: >-
+  Layman in the diocese of Niigata, Japan. Brother of Blessed Paulus Sato Matagoro. Married to Blessed Lucia Sato;
+  father of Blessed Elisabeth Sato. Martyr.
 deathYear: 1629
-born: "Shindogadai (now Shimo Hanazawa), Yonezawa, Yamagata, Japan"
-died: "12 January 1629 in Hokusanbara, Yonezawa, Yamagata, Japan"
-birthPlace: "Yonezawa, Yamagata, Japan"
-deathPlace: "Yonezawa, Yamagata, Japan"
-region: "Japan"
+born: Shindogadai (now Shimo Hanazawa), Yonezawa, Yamagata, Japan
+died: 12 January 1629 in Hokusanbara, Yonezawa, Yamagata, Japan
+birthPlace: Yonezawa, Yamagata, Japan
+deathPlace: Yonezawa, Yamagata, Japan
+region: Japan
 feastDay:
   month: 1
   day: 12
@@ -17,6 +19,7 @@ vocation:
   - Priest
   - Cardinal
 martyr: true
+prayers: []
 ---
 
 Layman in the diocese of Niigata, Japan. Brother of Blessed Paulus Sato Matagoro. Married to Blessed Lucia Sato; father of Blessed Elisabeth Sato. Martyr.

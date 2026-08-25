@@ -1,9 +1,9 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Magnus the Martyr"
+name: Saint Magnus the Martyr
 honorific: Saint
-summary: "Martyr. No other information has survived."
-region: "England"
+summary: Martyr. No other information has survived.
+region: England
 feastDay:
   month: 1
   day: 1
@@ -11,8 +11,9 @@ canonizationStatus: Saint
 vocation:
   - Priest
   - Monk
-religiousOrder: "Dominican"
+religiousOrder: Dominican
 martyr: true
+prayers: []
 ---
 
 Martyr. No other information has survived.

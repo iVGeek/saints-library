@@ -1,13 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Narseus of Alexandria"
+name: Saint Narseus of Alexandria
 honorific: Saint
-summary: "Martyr."
+summary: Martyr.
 searchAliases:
-  - "Narsee"
-died: "early 4th-century in Alexandria, Egypt"
-deathPlace: "Egypt"
-region: "Italy"
+  - Narsee
+died: early 4th-century in Alexandria, Egypt
+deathPlace: Egypt
+region: Italy
 feastDay:
   month: 7
   day: 15
@@ -15,6 +15,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Martyr.

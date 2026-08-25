@@ -1,16 +1,18 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Sulien of Amorica"
+name: Saint Sulien of Amorica
 honorific: Saint
-summary: "Born to the Breton nobility. Missionary to the British Isles, working to oppose heresies. Hermit on an island near Anglesy, Wales. He then returned to Brittany where he converted many and led a group of spiritual students."
+summary: >-
+  Born to the Breton nobility. Missionary to the British Isles, working to oppose heresies. Hermit on an island near
+  Anglesy, Wales. He then returned to Brittany where he converted many and led a group of spiritual students.
 searchAliases:
-  - "Giles"
-  - "Silin"
-  - "Ssilin"
-  - "Sulian"
-  - "Sulinus"
-born: "6th century Brittany (in modern France)"
-region: "France"
+  - Giles
+  - Silin
+  - Ssilin
+  - Sulian
+  - Sulinus
+born: 6th century Brittany (in modern France)
+region: France
 feastDay:
   month: 1
   day: 1
@@ -19,6 +21,7 @@ vocation:
   - Hermit
   - Missionary
 martyr: false
+prayers: []
 ---
 
 Born to the Breton nobility. Missionary to the British Isles, working to oppose heresies. Hermit on an island near Anglesy, Wales. He then returned to Brittany where he converted many and led a group of spiritual students.

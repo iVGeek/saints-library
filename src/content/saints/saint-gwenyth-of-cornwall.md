@@ -1,9 +1,9 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Gwenyth of Cornwall"
+name: Saint Gwenyth of Cornwall
 honorific: Saint
-summary: "Sister of Saint Samson of York. Nun."
-region: "England"
+summary: Sister of Saint Samson of York. Nun.
+region: England
 feastDay:
   month: 7
   day: 1
@@ -12,6 +12,7 @@ vocation:
   - Monk
   - Religious
 martyr: false
+prayers: []
 ---
 
 Sister of Saint Samson of York. Nun.

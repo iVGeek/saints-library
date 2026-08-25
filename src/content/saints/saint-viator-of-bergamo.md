@@ -1,13 +1,13 @@
 ---
-name: "Saint Viator of Bergamo"
+name: Saint Viator of Bergamo
 honorific: Saint
-summary: "Disciple of the Apostles. Bishop of Bergamo, Italy."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Viator-of-Bergamo.jpg"
+summary: Disciple of the Apostles. Bishop of Bergamo, Italy.
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Viator-of-Bergamo.jpg
 searchAliases:
-  - "Viater"
-  - "Viateur"
-died: "c.78"
-region: "Italy"
+  - Viater
+  - Viateur
+died: c.78
+region: Italy
 feastDay:
   month: 12
   day: 14
@@ -16,8 +16,9 @@ vocation:
   - Bishop
   - Monk
 patronage:
-  - "catechists"
+  - catechists
 martyr: false
+prayers: []
 ---
 
 Disciple of the Apostles. Bishop of Bergamo, Italy.

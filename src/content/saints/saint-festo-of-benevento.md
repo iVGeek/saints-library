@@ -18,6 +18,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/1/13/Saint_Januarius.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Festo of Benevento
 imageCreditUrl: https://en.wikipedia.org/wiki/Feast%20of%20San%20Gennaro
+prayers: []
 ---
 
 Deacon. Martyr.

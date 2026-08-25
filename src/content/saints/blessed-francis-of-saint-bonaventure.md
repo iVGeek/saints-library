@@ -1,14 +1,14 @@
 ---
-name: "Blessed Francis of Saint Bonaventure"
+name: Blessed Francis of Saint Bonaventure
 honorific: Blessed
-summary: "Franciscan Friars Minor (Alcantarines) priest. Martyr."
-image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Japan.jpg"
+summary: Franciscan Friars Minor (Alcantarines) priest. Martyr.
+image: http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Japan.jpg
 deathYear: 1622
-born: "in Tokyo, Japan"
-died: "burned alive on 12 September 1622 at Omura, Nagasaki, Japan"
-birthPlace: "Japan"
-deathPlace: "Nagasaki, Japan"
-region: "England"
+born: in Tokyo, Japan
+died: burned alive on 12 September 1622 at Omura, Nagasaki, Japan
+birthPlace: Japan
+deathPlace: Nagasaki, Japan
+region: England
 feastDay:
   month: 9
   day: 12
@@ -16,8 +16,9 @@ canonizationStatus: Blessed
 vocation:
   - Priest
   - Monk
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 martyr: true
+prayers: []
 ---
 
 Franciscan Friars Minor (Alcantarines) priest. Martyr.

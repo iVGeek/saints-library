@@ -1,12 +1,12 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Mucius"
+name: Saint Mucius
 honorific: Saint
-summary: "Priest. Martyred in the persecutions of Diocletian for overturning a pagan altar."
+summary: Priest. Martyred in the persecutions of Diocletian for overturning a pagan altar.
 deathYear: 304
-born: "at Byzantium"
-died: "304"
-region: "England"
+born: at Byzantium
+died: '304'
+region: England
 feastDay:
   month: 5
   day: 13
@@ -15,6 +15,7 @@ vocation:
   - Priest
   - Monk
 martyr: true
+prayers: []
 ---
 
 Priest. Martyred in the persecutions of Diocletian for overturning a pagan altar.

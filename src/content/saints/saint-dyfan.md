@@ -15,6 +15,7 @@ vocation:
   - Monk
   - Missionary
 martyr: false
+prayers: []
 ---
 
 Second century missionary to the Britons, sent by Pope Saint Eleutherius at the request of King Saint Lucius. Marytr.

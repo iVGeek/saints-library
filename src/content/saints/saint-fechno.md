@@ -1,14 +1,14 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Fechno"
+name: Saint Fechno
 honorific: Saint
-summary: "Spiritual student of Saint Columbanus. Went with Columbanus to evangelize in Scotland."
+summary: Spiritual student of Saint Columbanus. Went with Columbanus to evangelize in Scotland.
 searchAliases:
-  - "Fiachna"
+  - Fiachna
 deathYear: 580
-born: "northern Ireland"
-died: "580 of natural causes"
-region: "Scotland"
+born: northern Ireland
+died: 580 of natural causes
+region: Scotland
 feastDay:
   month: 3
   day: 12
@@ -16,6 +16,7 @@ canonizationStatus: Saint
 vocation:
   - Confessor
 martyr: false
+prayers: []
 ---
 
 Spiritual student of Saint Columbanus. Went with Columbanus to evangelize in Scotland.

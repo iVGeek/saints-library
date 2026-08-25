@@ -1,25 +1,28 @@
 ---
-name: "Saint Walfrid"
+name: Saint Walfrid
 honorific: Saint
-summary: "Eldest of five children in a wealthy family. Properous married layman, a solid citizen, and father of five sons and a daughter. With their children grown, he and his wife, Thesia, each felt called to religious life. Walfrid and two married friends, Fortis and Gunduald, founded th"
-image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Walfrid.jpg"
+summary: >-
+  Eldest of five children in a wealthy family. Properous married layman, a solid citizen, and father of five sons and a
+  daughter. With their children grown, he and his wife, Thesia, each felt called to religious life. Walfrid and two
+  married friends, Fortis and Gunduald, founded th
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Walfrid.jpg
 searchAliases:
-  - "Galfrido"
-  - "Gualfredo"
-  - "Gualfredus"
-  - "Qualfredo"
-  - "Qualfredo della Gherardesca"
-  - "Valfred"
-  - "Vilfrid"
-  - "Walfridus"
-  - "Wilfrido"
-  - "Walfredo"
+  - Galfrido
+  - Gualfredo
+  - Gualfredus
+  - Qualfredo
+  - Qualfredo della Gherardesca
+  - Valfred
+  - Vilfrid
+  - Walfridus
+  - Wilfrido
+  - Walfredo
 deathYear: 765
-born: "8th century Pisa, Italy"
-died: "15 February 765 at Palazuollo, Italy of natural causes"
-birthPlace: "Italy"
-deathPlace: "Italynatural causes"
-region: "Italy"
+born: 8th century Pisa, Italy
+died: 15 February 765 at Palazuollo, Italy of natural causes
+birthPlace: Italy
+deathPlace: Italynatural causes
+region: Italy
 feastDay:
   month: 2
   day: 15
@@ -27,8 +30,9 @@ canonizationStatus: Saint
 vocation:
   - Priest
   - Monk
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 martyr: false
+prayers: []
 ---
 
 Eldest of five children in a wealthy family. Properous married layman, a solid citizen, and father of five sons and a daughter. With their children grown, he and his wife, Thesia, each felt called to religious life. Walfrid and two married friends, Fortis and Gunduald, founded the Benedictine monastery of Palazzuolo, and a nearby convent for their wives and Walfrid's daughter. Walfrid served as abbot of the house, and the monastery was soon home to 60 monks.

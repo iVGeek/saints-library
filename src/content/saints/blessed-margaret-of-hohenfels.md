@@ -1,14 +1,14 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Margaret of Hohenfels"
+name: Blessed Margaret of Hohenfels
 honorific: Blessed
-summary: "Born to the nobility. Benedictine nun and prioress at Bingen under Saint Hildegard."
+summary: Born to the nobility. Benedictine nun and prioress at Bingen under Saint Hildegard.
 searchAliases:
-  - "Margarita"
-  - "Margherita"
-  - "Marguerite"
+  - Margarita
+  - Margherita
+  - Marguerite
 deathYear: 1150
-died: "c.1150"
+died: c.1150
 feastDay:
   month: 12
   day: 26
@@ -17,8 +17,9 @@ vocation:
   - Virgin
   - Monk
   - Religious
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 martyr: false
+prayers: []
 ---
 
 Born to the nobility. Benedictine nun and prioress at Bingen under Saint Hildegard.

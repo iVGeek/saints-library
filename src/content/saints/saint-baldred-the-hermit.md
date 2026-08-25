@@ -1,14 +1,14 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Baldred the Hermit"
+name: Saint Baldred the Hermit
 honorific: Saint
-summary: "Eighth century hermit. Priest. Miracle worker. No other information has survived."
+summary: Eighth century hermit. Priest. Miracle worker. No other information has survived.
 searchAliases:
-  - "Baltherus the Hermit"
+  - Baltherus the Hermit
 deathYear: 756
-born: "England"
-died: "756 of natural causes"
-region: "England"
+born: England
+died: 756 of natural causes
+region: England
 feastDay:
   month: 3
   day: 6
@@ -18,6 +18,7 @@ vocation:
   - Monk
   - Hermit
 martyr: false
+prayers: []
 ---
 
 Eighth century hermit. Priest. Miracle worker. No other information has survived.

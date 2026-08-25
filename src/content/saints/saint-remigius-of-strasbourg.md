@@ -1,15 +1,17 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Remigius of Strasbourg"
+name: Saint Remigius of Strasbourg
 honorific: Saint
-title: "Bishop"
-summary: "Born to the nobility, the son of Hugh of Alsace; cousin of Saint Odilia of Hohenburg. Abbot of Münster near Colmar, France. Bishop of Strasbourg, France in 776."
+title: Bishop
+summary: >-
+  Born to the nobility, the son of Hugh of Alsace; cousin of Saint Odilia of Hohenburg. Abbot of Münster near Colmar,
+  France. Bishop of Strasbourg, France in 776.
 searchAliases:
-  - "Remi"
-  - "Remidius"
+  - Remi
+  - Remidius
 deathYear: 783
-died: "783"
-region: "France"
+died: '783'
+region: France
 feastDay:
   month: 3
   day: 20
@@ -17,6 +19,7 @@ canonizationStatus: Saint
 vocation:
   - Bishop
 martyr: false
+prayers: []
 ---
 
 Born to the nobility, the son of Hugh of Alsace; cousin of Saint Odilia of Hohenburg. Abbot of Münster near Colmar, France. Bishop of Strasbourg, France in 776.

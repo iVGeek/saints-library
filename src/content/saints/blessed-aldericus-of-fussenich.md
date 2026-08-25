@@ -27,6 +27,7 @@ patronage:
   - –
   - Füssenich, Germany
 martyr: false
+prayers: []
 ---
 
 Legend says that Alderich was a member of the French royal family and came into the region of modern Germany while on pilgrimage to Romeand Cologne. He became a Premonstratensian lay brother at the Saint Nicholas monastery in Füssenich, Germany where he looked after the pigs and cattle and sheep.

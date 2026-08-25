@@ -28,6 +28,7 @@ patronage:
     Burgos
   - Toledo
 martyr: false
+prayers: []
 ---
 
 Born to Moorish parents. Convert to Christianity. Anchorite near Briviesca, Burgos, Spain.

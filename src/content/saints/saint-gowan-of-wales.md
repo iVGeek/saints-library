@@ -1,14 +1,16 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Gowan of Wales"
+name: Saint Gowan of Wales
 honorific: Saint
-summary: "Queen, the wife of King Tewdrig of Glamorgan, an area of modern Wales. The parish of Llangoven, Monmouthshire, and a chapel in Pembrokeshire are named for her."
+summary: >-
+  Queen, the wife of King Tewdrig of Glamorgan, an area of modern Wales. The parish of Llangoven, Monmouthshire, and a
+  chapel in Pembrokeshire are named for her.
 searchAliases:
-  - "Cofen"
-  - "Govan"
-  - "Goven"
-born: "5th century Wales"
-region: "France"
+  - Cofen
+  - Govan
+  - Goven
+born: 5th century Wales
+region: France
 feastDay:
   month: 12
   day: 28
@@ -16,6 +18,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: false
+prayers: []
 ---
 
 Queen, the wife of King Tewdrig of Glamorgan, an area of modern Wales. The parish of Llangoven, Monmouthshire, and a chapel in Pembrokeshire are named for her.

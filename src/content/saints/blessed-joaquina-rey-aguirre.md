@@ -1,15 +1,18 @@
 ---
-name: "Blessed Joaquina Rey Aguirre"
+name: Blessed Joaquina Rey Aguirre
 honorific: Blessed
-summary: "The daughter of Francisco, a commercial real estate agent, and Jerónima, Joaquina was baptized at the age of six days. At the age of 30, she joined the Daughters of Charity, training at the La Princesa de Madrid hospital, and then the Daughters motherhouse. She was assigned to th"
-image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Joaquina-Rey-Aguirre.jpg"
+summary: >-
+  The daughter of Francisco, a commercial real estate agent, and Jerónima, Joaquina was baptized at the age of six days.
+  At the age of 30, she joined the Daughters of Charity, training at the La Princesa de Madrid hospital, and then the
+  Daughters motherhouse. She was assigned to th
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Joaquina-Rey-Aguirre.jpg
 birthYear: 1895
 deathYear: 1936
-born: "23 December 1895 in Bilbao, Vizcaya, Spain"
-died: "shot at dawn on 29 October 1936 in the town cemetery in Gilet, Valencia, Spain"
-birthPlace: "Vizcaya, Spain"
-deathPlace: "Valencia, Spain"
-region: "Spain"
+born: 23 December 1895 in Bilbao, Vizcaya, Spain
+died: shot at dawn on 29 October 1936 in the town cemetery in Gilet, Valencia, Spain
+birthPlace: Vizcaya, Spain
+deathPlace: Valencia, Spain
+region: Spain
 feastDay:
   month: 10
   day: 29
@@ -18,6 +21,7 @@ vocation:
   - Priest
   - Religious
 martyr: true
+prayers: []
 ---
 
 The daughter of Francisco, a commercial real estate agent, and Jerónima, Joaquina was baptized at the age of six days. At the age of 30, she joined the Daughters of Charity, training at the La Princesa de Madrid hospital, and then the Daughters motherhouse. She was assigned to the Casa de Beneficencia in Valencia, Spain where she served as a teacher, inspector and administrative supervisor for ten years. She was known as a dedicated, responsible member of the Daughters, helpful to any who needed support in their work.

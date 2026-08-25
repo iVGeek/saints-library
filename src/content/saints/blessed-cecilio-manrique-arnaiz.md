@@ -1,23 +1,24 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Cecilio Manrique Arnáiz"
+name: Blessed Cecilio Manrique Arnáiz
 honorific: Blessed
-summary: "Member of the Brothers of the Christian Schools. Martyred in the Spanish Civil War."
+summary: Member of the Brothers of the Christian Schools. Martyred in the Spanish Civil War.
 searchAliases:
-  - "Brother Cirilo Pedro"
+  - Brother Cirilo Pedro
 birthYear: 1909
 deathYear: 1936
-born: "1 February 1909 in Monasterio de Rodillo, Burgos, Spain"
-died: "3 November 1936 in Barcelona, Spain"
-birthPlace: "Burgos, Spain"
-deathPlace: "Spain"
-region: "Spain"
+born: 1 February 1909 in Monasterio de Rodillo, Burgos, Spain
+died: 3 November 1936 in Barcelona, Spain
+birthPlace: Burgos, Spain
+deathPlace: Spain
+region: Spain
 feastDay:
   month: 11
   day: 3
 canonizationStatus: Blessed
 vocation: []
 martyr: true
+prayers: []
 ---
 
 Member of the Brothers of the Christian Schools. Martyred in the Spanish Civil War.

@@ -1,19 +1,22 @@
 ---
-name: "Saint Benedict Biscop"
+name: Saint Benedict Biscop
 honorific: Saint
-summary: "Anglo-Saxon nobility. Grew up around the court of King Oswy of Northumbria, and held court offices. Following a pilgrimage to Rome he renouced his wealth and position, and dedicated himself to prayer and scripture study. Monk at the monastery of Saint-Honorat near Cannes, France"
-image: "http://catholicsaints.info/wp-content/uploads/Benedict-Biscop.jpg"
+summary: >-
+  Anglo-Saxon nobility. Grew up around the court of King Oswy of Northumbria, and held court offices. Following a
+  pilgrimage to Rome he renouced his wealth and position, and dedicated himself to prayer and scripture study. Monk at
+  the monastery of Saint-Honorat near Cannes, France
+image: http://catholicsaints.info/wp-content/uploads/Benedict-Biscop.jpg
 searchAliases:
-  - "Benet Biscop"
-  - "Biscop Baducing"
-  - "Benedict of Wearmouth"
+  - Benet Biscop
+  - Biscop Baducing
+  - Benedict of Wearmouth
 birthYear: 628
 deathYear: 690
-born: "c.628 in Northumbria, England as Benet Biscop"
-died: "12 January 690 of natural causes at Wearmouth, England"
-birthPlace: "England as Benet Biscop"
-deathPlace: "England"
-region: "France"
+born: c.628 in Northumbria, England as Benet Biscop
+died: 12 January 690 of natural causes at Wearmouth, England
+birthPlace: England as Benet Biscop
+deathPlace: England
+region: France
 feastDay:
   month: 1
   day: 12
@@ -22,16 +25,20 @@ vocation:
   - Bishop
   - Priest
   - Confessor
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 patronage:
-  - "musicians"
-  - "painters"
-  - "–"
-  - "in England\n\nEnglish Benedictines"
-  - "Jarrow"
-  - "Monkwearmouth"
-  - "Sunderland"
+  - musicians
+  - painters
+  - –
+  - |-
+    in England
+
+    English Benedictines
+  - Jarrow
+  - Monkwearmouth
+  - Sunderland
 martyr: false
+prayers: []
 ---
 
 Anglo-Saxon nobility. Grew up around the court of King Oswy of Northumbria, and held court offices. Following a pilgrimage to Rome he renouced his wealth and position, and dedicated himself to prayer and scripture study. Monk at the monastery of Saint-Honorat near Cannes, France in 666, taking the name Benedict.

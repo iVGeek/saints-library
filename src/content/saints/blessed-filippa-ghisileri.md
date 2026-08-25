@@ -1,17 +1,19 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Filippa Ghisileri"
+name: Blessed Filippa Ghisileri
 honorific: Blessed
-summary: "Her father was named Leonardo, and she Filipa was related to Pope Saint Pius V. She became a spiritual student of Saint Clare of Assisi, and became one of the first Poor Clare nuns. No other information has survived."
+summary: >-
+  Her father was named Leonardo, and she Filipa was related to Pope Saint Pius V. She became a spiritual student of
+  Saint Clare of Assisi, and became one of the first Poor Clare nuns. No other information has survived.
 searchAliases:
-  - "Philippa Ghisileri"
-  - "Gisela"
+  - Philippa Ghisileri
+  - Gisela
 deathYear: 1277
-born: "Bologna, Italy"
-died: "13 October 1277 in Asssi, Italy of natural causes"
-birthPlace: "Italy"
-deathPlace: "Italynatural causes"
-region: "Italy"
+born: Bologna, Italy
+died: 13 October 1277 in Asssi, Italy of natural causes
+birthPlace: Italy
+deathPlace: Italynatural causes
+region: Italy
 feastDay:
   month: 11
   day: 8
@@ -20,6 +22,7 @@ vocation:
   - Priest
   - Religious
 martyr: false
+prayers: []
 ---
 
 Her father was named Leonardo, and she Filipa was related to Pope Saint Pius V. She became a spiritual student of Saint Clare of Assisi, and became one of the first Poor Clare nuns. No other information has survived.

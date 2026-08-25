@@ -1,9 +1,9 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Faustus of Alexandria"
+name: Saint Faustus of Alexandria
 honorific: Saint
-summary: "Priest. Martyred in the Diocletian."
-region: "Italy"
+summary: Priest. Martyred in the Diocletian.
+region: Italy
 feastDay:
   month: 9
   day: 8
@@ -12,6 +12,7 @@ vocation:
   - Priest
   - Monk
 martyr: true
+prayers: []
 ---
 
 Priest. Martyred in the Diocletian.

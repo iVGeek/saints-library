@@ -1,29 +1,35 @@
 ---
-name: "Venerable Stefano Ferrando"
+name: Venerable Stefano Ferrando
 honorific: Venerable
-summary: "Son of Agostino Ferrando and Giuseppina Salvi. Stefano early felt a call to relgious life, and joined the Salesian Society of Saint John Bosco in Foglizzo Canavese, Italy in 1912 at age 17. In 1915 he joined the Italian army medical corps, rose to the rank of sergeant, and served"
-image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Stefano-Ferrando.jpg"
+summary: >-
+  Son of Agostino Ferrando and Giuseppina Salvi. Stefano early felt a call to relgious life, and joined the Salesian
+  Society of Saint John Bosco in Foglizzo Canavese, Italy in 1912 at age 17. In 1915 he joined the Italian army medical
+  corps, rose to the rank of sergeant, and served
+image: http://catholicsaints.info/wp-content/uploads/img-Venerable-Stefano-Ferrando.jpg
 birthYear: 1895
 deathYear: 1978
-born: "28 September 1895 in Rossiglione, Genoa, Italy"
-died: "20 June 1978 in Genova-Quarto, Genoa, Italy of natural causes"
-birthPlace: "Genoa, Italy"
-deathPlace: "Genoa, Italynatural causes"
-region: "India"
+born: 28 September 1895 in Rossiglione, Genoa, Italy
+died: 20 June 1978 in Genova-Quarto, Genoa, Italy of natural causes
+birthPlace: Genoa, Italy
+deathPlace: Genoa, Italynatural causes
+region: India
 feastDay:
   month: 3
   day: 18
-centuries: [19, 20]
+centuries:
+  - 19
+  - 20
 canonizationStatus: Venerable
 vocation:
   - Bishop
   - Priest
   - Religious
   - Missionary
-religiousOrder: "Salesian"
+religiousOrder: Salesian
 patronage:
-  - "Missionary Sisters of Mary Help of Christians"
+  - Missionary Sisters of Mary Help of Christians
 martyr: false
+prayers: []
 ---
 
 Son of Agostino Ferrando and Giuseppina Salvi. Stefano early felt a call to relgious life, and joined the Salesian Society of Saint John Bosco in Foglizzo Canavese, Italy in 1912 at age 17. In 1915 he joined the Italian army medical corps, rose to the rank of sergeant, and served close to the front lines during the remainder of World War I; he was awarded the silver medal for bravery under fire in 1917 for routinely charging into no-man's-land to save the wounded. In 1920 he returned to life as a Salesian, and his studies for the priesthood; he was ordained on 18 March 1923 in Borgo San Martino, Italy.

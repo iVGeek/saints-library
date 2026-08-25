@@ -1,20 +1,21 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Cruciatus of Ravenna"
+name: Saint Cruciatus of Ravenna
 honorific: Saint
-summary: "Martyr."
+summary: Martyr.
 searchAliases:
-  - "Martharus"
-  - "Nartharus"
-died: "Ravenna, Italy, date unknown"
-deathPlace: "Italy, date unknown"
-region: "Italy"
+  - Martharus
+  - Nartharus
+died: Ravenna, Italy, date unknown
+deathPlace: Italy, date unknown
+region: Italy
 feastDay:
   month: 6
   day: 18
 canonizationStatus: Saint
 vocation: []
 martyr: true
+prayers: []
 ---
 
 Martyr.

@@ -28,6 +28,7 @@ vocation:
   - Priest
   - Monk
 martyr: false
+prayers: []
 ---
 
 Nephew of Saint Ita, who raised him. Monk at Bangor Abbey in Ireland under Saint Comgall of Bangor. Founder and abbot of Liath-Mochoemoc monastery.

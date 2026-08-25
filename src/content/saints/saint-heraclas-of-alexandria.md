@@ -1,14 +1,16 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Heraclas of Alexandria"
+name: Saint Heraclas of Alexandria
 honorific: Saint
-summary: "Brother of Saint Plutarch of Alexandria. Spiritual student of Origen. Succeeded Origen as the head of the catechetical school at Alexandria, Egypt. Patriarch of Alexandria in 231."
+summary: >-
+  Brother of Saint Plutarch of Alexandria. Spiritual student of Origen. Succeeded Origen as the head of the catechetical
+  school at Alexandria, Egypt. Patriarch of Alexandria in 231.
 searchAliases:
-  - "Eracla"
+  - Eracla
 deathYear: 247
-born: "Egyptian"
-died: "c.247 of natural causes"
-region: "Egypt"
+born: Egyptian
+died: c.247 of natural causes
+region: Egypt
 feastDay:
   month: 12
   day: 4
@@ -17,6 +19,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Brother of Saint Plutarch of Alexandria. Spiritual student of Origen. Succeeded Origen as the head of the catechetical school at Alexandria, Egypt. Patriarch of Alexandria in 231.

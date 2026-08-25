@@ -19,6 +19,7 @@ vocation:
 patronage:
   - Montaldo di Castro, Italy
 martyr: true
+prayers: []
 ---
 
 Soldier. One of the Forty Armenian Martyrs killed in the persecutions of Licinius.

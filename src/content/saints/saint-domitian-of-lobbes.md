@@ -1,19 +1,22 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Domitian of Lobbes"
+name: Saint Domitian of Lobbes
 honorific: Saint
-summary: "Benedictine monk. Spiritual student of Saint Landelin of Crespin at Lobbes, Belgium. Friend of Saint Hadelin of Lobbes."
+summary: >-
+  Benedictine monk. Spiritual student of Saint Landelin of Crespin at Lobbes, Belgium. Friend of Saint Hadelin of
+  Lobbes.
 deathYear: 686
-died: "c.686 of natural causes"
-region: "Belgium"
+died: c.686 of natural causes
+region: Belgium
 feastDay:
   month: 6
   day: 15
 canonizationStatus: Saint
 vocation:
   - Monk
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 martyr: false
+prayers: []
 ---
 
 Benedictine monk. Spiritual student of Saint Landelin of Crespin at Lobbes, Belgium. Friend of Saint Hadelin of Lobbes.

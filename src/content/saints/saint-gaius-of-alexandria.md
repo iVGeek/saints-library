@@ -22,6 +22,7 @@ imageCredit: >-
   <a rel="nofollow" class="external free"
   href="https://www.archives71.fr/arkotheque/navigation_facette/fiche_detail.php?f=cartespostales&amp;ref1=8031&amp;mde_present=">https://www.archives71.fr/arkotheque/navigation_facette/fiche_detail.php?f=cartespostales&amp;ref1=8031&amp;mde_present=</a>
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:CPA%20Autun%20Ca%C3%AFus%20-%20Faubourg%20Saint-Blaise.png
+prayers: []
 ---
 
 Martyr. No other information has survived.

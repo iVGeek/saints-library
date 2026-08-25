@@ -21,6 +21,7 @@ vocation:
   - Priest
 religiousOrder: Salesian
 martyr: false
+prayers: []
 ---
 
 Son of Alfredo and Maria Marvelli. His father was a bank employee, and his mother was very active in Catholic charities. Educated by the Salesians and Catholic Action; Alberto joined Catholic Action at age 12 and was a member the rest of his life. Lay man. Civil engineer. He worked professionally and politically for reconstruction of Italy following World War II, and on a personal level he worked with the poor, keeping a bare minimum for himself, giving away everything else he owned. Member of the executive committee of the Christian Democrat political party. Known for his devotion to the Eucharist, he spent his morning in adoration, attended Mass, and then worked the rest of the day.

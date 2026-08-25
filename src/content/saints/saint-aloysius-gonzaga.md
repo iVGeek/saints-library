@@ -49,6 +49,7 @@ patronage:
   - Muina, Ovaro
   - Valmonte
 martyr: false
+prayers: []
 ---
 
 Born to the Italian nobility who grew up in a castle, the son of Ferdinand Gonzaga, a prince in the Holy Roman Emperor and a compulsive gambler. Cousin of Saint Rudolph Acquaviva. Trained from age four as a soldier and courtier. Served as a page in the Spanish court. He suffered from kidney disease, which he considered a blessing as it left him bed-ridden with time for prayer. While still a boy himself, he taught catechism to poor boys. He received his First Communion from Saint Charles Borromeo. At age 18, Aloysius signed away his legal claim to his family's lands and title to his brother, and became a Jesuit novice. Spiritual student of Saint Robert Bellarmine. Tended plague victims in Rome, Italy in the outbreak of 1591 during which he caught the disease that killed him at age 23.

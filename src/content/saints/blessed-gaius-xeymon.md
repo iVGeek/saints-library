@@ -1,23 +1,24 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Gaius Xeymon"
+name: Blessed Gaius Xeymon
 honorific: Blessed
-summary: "Born to Christian parents. Dominican tertiary. Helped the friars with their missionary work, and was martyred for it."
+summary: Born to Christian parents. Dominican tertiary. Helped the friars with their missionary work, and was martyred for it.
 searchAliases:
-  - "Caius"
+  - Caius
 deathYear: 1627
-born: "Japanese"
-died: "17 August 1627 at Nagasaki, Japan"
-deathPlace: "Japan"
-region: "England"
+born: Japanese
+died: 17 August 1627 at Nagasaki, Japan
+deathPlace: Japan
+region: England
 feastDay:
   month: 6
   day: 1
 canonizationStatus: Blessed
 vocation:
   - Missionary
-religiousOrder: "Dominican"
+religiousOrder: Dominican
 martyr: true
+prayers: []
 ---
 
 Born to Christian parents. Dominican tertiary. Helped the friars with their missionary work, and was martyred for it.

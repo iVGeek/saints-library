@@ -11,6 +11,7 @@ image: https://commons.wikimedia.org/wiki/Special:FilePath/Great_mosque_in_Medan
 vocation:
   - Monk
 martyr: false
+prayers: []
 ---
 
 Sixth century spiritual student of Saint Petroc in Cornwall.

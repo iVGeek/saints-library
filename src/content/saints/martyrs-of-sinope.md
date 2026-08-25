@@ -16,6 +16,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/0/07/Martyrdom-of-Paul-Miki-and-Companions-in-Nagasaki-%28made-c1635%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Martyrs of Sinope
 imageCreditUrl: https://en.wikipedia.org/wiki/26%20Martyrs%20of%20Japan
+prayers: []
 ---
 
 200 Christian soldiers martyred together for their faith. We don't even have their names.

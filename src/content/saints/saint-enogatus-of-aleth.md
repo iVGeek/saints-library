@@ -1,22 +1,22 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Enogatus of Aleth"
+name: Saint Enogatus of Aleth
 honorific: Saint
-summary: "Monk. Abbot of Saint Meen Abbey. Bishop of Aleth, Brittany, France."
+summary: Monk. Abbot of Saint Meen Abbey. Bishop of Aleth, Brittany, France.
 searchAliases:
-  - "Enogatus of Brittany"
-  - "Eniguet…"
-  - "Eniguette…"
-  - "Enogad…"
-  - "Enogat…"
-  - "Enogato…"
-  - "Enougad…"
-  - "Enougat…"
-  - "Tenou-cat…"
-  - "Tnoucat…"
+  - Enogatus of Brittany
+  - Eniguet…
+  - Eniguette…
+  - Enogad…
+  - Enogat…
+  - Enogato…
+  - Enougad…
+  - Enougat…
+  - Tenou-cat…
+  - Tnoucat…
 deathYear: 631
-died: "631 of natural causes"
-region: "France"
+died: 631 of natural causes
+region: France
 feastDay:
   month: 1
   day: 13
@@ -25,8 +25,9 @@ vocation:
   - Bishop
   - Monk
 patronage:
-  - "Dinard, France"
+  - Dinard, France
 martyr: false
+prayers: []
 ---
 
 Monk. Abbot of Saint Meen Abbey. Bishop of Aleth, Brittany, France.

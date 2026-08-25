@@ -1,18 +1,20 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Gunthildis of Ohrdruf"
+name: Saint Gunthildis of Ohrdruf
 honorific: Saint
-summary: "Nun. At the request of Saint Boniface, she travelled to Germany to become abbess of a convent in Thuringia. Inspector of all the schools that had been established in Germany by English nuns."
+summary: >-
+  Nun. At the request of Saint Boniface, she travelled to Germany to become abbess of a convent in Thuringia. Inspector
+  of all the schools that had been established in Germany by English nuns.
 searchAliases:
-  - "Cunihilt"
-  - "Cynehild"
-  - "Cynehildis"
-  - "Gunthild"
+  - Cunihilt
+  - Cynehild
+  - Cynehildis
+  - Gunthild
 deathYear: 748
-born: "at Wimborne, England"
-died: "c.748"
-birthPlace: "England"
-region: "Germany"
+born: at Wimborne, England
+died: c.748
+birthPlace: England
+region: Germany
 feastDay:
   month: 12
   day: 8
@@ -21,6 +23,7 @@ vocation:
   - Monk
   - Religious
 martyr: false
+prayers: []
 ---
 
 Nun. At the request of Saint Boniface, she travelled to Germany to become abbess of a convent in Thuringia. Inspector of all the schools that had been established in Germany by English nuns.

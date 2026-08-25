@@ -1,18 +1,21 @@
 ---
-name: "Blessed Ulrika Fransiska Nisch"
+name: Blessed Ulrika Fransiska Nisch
 honorific: Blessed
-summary: "Oldest of eleven children born to Ulrich Nisch, who cleaned stables, and Klothilde Dettenrieder, a servant in a village inn. The couple was so poor that their families and the local authorities refused to allow their marriage; they forced the issue with the birth of Fransiska. Th"
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Ulrika-Fransiska-Nisch.jpg"
+summary: >-
+  Oldest of eleven children born to Ulrich Nisch, who cleaned stables, and Klothilde Dettenrieder, a servant in a
+  village inn. The couple was so poor that their families and the local authorities refused to allow their marriage;
+  they forced the issue with the birth of Fransiska. Th
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Ulrika-Fransiska-Nisch.jpg
 searchAliases:
-  - "Fransiska Dettenrieder"
-  - "Ulrica Nisch"
+  - Fransiska Dettenrieder
+  - Ulrica Nisch
 birthYear: 1882
 deathYear: 1913
-born: "18 September 1882 in Oberdorg-Mittelbiberach, Germany as Fransiska Dettenrieder, named for a great-grandmother"
-died: "8 May 1913 at the Saint Elizabeth hospital in the House of Hegne, Baden-Baden, Germany of tuberculosis"
-birthPlace: "Germany as Fransiska Dettenrieder, named for a great-grandmother"
-deathPlace: "Baden-Baden, Germanytuberculosis"
-region: "Germany"
+born: 18 September 1882 in Oberdorg-Mittelbiberach, Germany as Fransiska Dettenrieder, named for a great-grandmother
+died: 8 May 1913 at the Saint Elizabeth hospital in the House of Hegne, Baden-Baden, Germany of tuberculosis
+birthPlace: Germany as Fransiska Dettenrieder, named for a great-grandmother
+deathPlace: Baden-Baden, Germanytuberculosis
+region: Germany
 feastDay:
   month: 5
   day: 8
@@ -20,6 +23,7 @@ canonizationStatus: Blessed
 vocation:
   - Confessor
 martyr: false
+prayers: []
 ---
 
 Oldest of eleven children born to Ulrich Nisch, who cleaned stables, and Klothilde Dettenrieder, a servant in a village inn. The couple was so poor that their families and the local authorities refused to allow their marriage; they forced the issue with the birth of Fransiska. The baby was baptized at the age of one day. Only four Fransiska's siblings reached adulthood.

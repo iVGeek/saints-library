@@ -1,24 +1,29 @@
 ---
-name: "Saint Bartholomea Capitanio"
+name: Saint Bartholomea Capitanio
 honorific: Venerable
-summary: "Daughter of an alcoholic corn-factor. Wanted to become a nun, but her family opposed the decision, and so she took a private vow of perpetual chastity, and began teaching and working with youth as a lay woman. Extensive correspondent, often writing on spirituality; many of letter"
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Bartholomea-Capitanio.jpg"
+summary: >-
+  Daughter of an alcoholic corn-factor. Wanted to become a nun, but her family opposed the decision, and so she took a
+  private vow of perpetual chastity, and began teaching and working with youth as a lay woman. Extensive correspondent,
+  often writing on spirituality; many of letter
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Bartholomea-Capitanio.jpg
 birthYear: 1807
 deathYear: 1833
-born: "13 January 1807 at Lovere, Bergamo, Italy"
-died: "26 July 1833 at Lovere, Bergamo, Italy of tuberculosis"
-birthPlace: "Bergamo, Italy"
-deathPlace: "Bergamo, Italytuberculosis"
-region: "Italy"
+born: 13 January 1807 at Lovere, Bergamo, Italy
+died: 26 July 1833 at Lovere, Bergamo, Italy of tuberculosis
+birthPlace: Bergamo, Italy
+deathPlace: Bergamo, Italytuberculosis
+region: Italy
 feastDay:
   month: 7
   day: 26
-centuries: [19]
+centuries:
+  - 19
 canonizationStatus: Venerable
 vocation: []
 patronage:
-  - "Lovere, Italy"
+  - Lovere, Italy
 martyr: false
+prayers: []
 ---
 
 Daughter of an alcoholic corn-factor. Wanted to become a nun, but her family opposed the decision, and so she took a private vow of perpetual chastity, and began teaching and working with youth as a lay woman. Extensive correspondent, often writing on spirituality; many of letters were later collected and published.

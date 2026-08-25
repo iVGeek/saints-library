@@ -1,26 +1,31 @@
 ---
-name: "Venerable Georgine Noirot"
+name: Venerable Georgine Noirot
 honorific: Venerable
-summary: "Drawn to religious life from her youth, Georgine joined the Institute of the Daughters of Saint Vincent de Paul at age 18. She studied in Naples, Italy, and then assigned to Imola, Italy in 1852 to work as a teacher and minister to poor and orphaned girls. She made her profession"
-image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Georgine-Noirot.jpg"
+summary: >-
+  Drawn to religious life from her youth, Georgine joined the Institute of the Daughters of Saint Vincent de Paul at age
+  18. She studied in Naples, Italy, and then assigned to Imola, Italy in 1852 to work as a teacher and minister to poor
+  and orphaned girls. She made her profession
+image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Georgine-Noirot.jpg
 searchAliases:
-  - "Sister Lucia"
+  - Sister Lucia
 birthYear: 1832
 deathYear: 1899
-born: "27 January 1832 in Chambéry, Savoie, France"
-died: "17 March 1899 in Imola, Bologna, Italy of natural causes"
-birthPlace: "Savoie, France"
-deathPlace: "Bologna, Italynatural causes"
-region: "Italy"
+born: 27 January 1832 in Chambéry, Savoie, France
+died: 17 March 1899 in Imola, Bologna, Italy of natural causes
+birthPlace: Savoie, France
+deathPlace: Bologna, Italynatural causes
+region: Italy
 feastDay:
   month: 5
   day: 25
-centuries: [19]
+centuries:
+  - 19
 canonizationStatus: Venerable
 vocation:
   - Bishop
   - Religious
 martyr: false
+prayers: []
 ---
 
 Drawn to religious life from her youth, Georgine joined the Institute of the Daughters of Saint Vincent de Paul at age 18. She studied in Naples, Italy, and then assigned to Imola, Italy in 1852 to work as a teacher and minister to poor and orphaned girls. She made her profession in the Daughters on 25 May 1856.

@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Patiens of Metz"
+name: Saint Patiens of Metz
 honorific: Saint
-summary: "Fourth bishop of Metz, France in the second century."
+summary: Fourth bishop of Metz, France in the second century.
 searchAliases:
-  - "Paziente"
-region: "France"
+  - Paziente
+region: France
 feastDay:
   month: 1
   day: 8
@@ -14,8 +14,9 @@ vocation:
   - Bishop
   - Monk
 patronage:
-  - "Metz, France"
+  - Metz, France
 martyr: false
+prayers: []
 ---
 
 Fourth bishop of Metz, France in the second century.

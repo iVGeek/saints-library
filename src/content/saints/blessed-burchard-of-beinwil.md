@@ -1,28 +1,32 @@
 ---
-name: "Blessed Burchard of Beinwil"
+name: Blessed Burchard of Beinwil
 honorific: Blessed
-title: "Priest"
-summary: "Educated at the Benedictine monastery near his home village. Had some connection to the Kappel monastery as he is mentioned in their records. Parish priest in Beinwil, Switzerland. Known as a miracle worker, but primarily for his decades of concern for the physical and spiritual"
-image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Burchard-of-Beinwil.jpg"
+title: Priest
+summary: >-
+  Educated at the Benedictine monastery near his home village. Had some connection to the Kappel monastery as he is
+  mentioned in their records. Parish priest in Beinwil, Switzerland. Known as a miracle worker, but primarily for his
+  decades of concern for the physical and spiritual
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Burchard-of-Beinwil.jpg
 searchAliases:
-  - "Burcardo"
-  - "Burkard"
+  - Burcardo
+  - Burkard
 deathYear: 1192
-born: "early 12th century in Langemat, Muri, Switzerland"
-died: "c.1192 in Beinwil, Switzerland of natural causes"
-birthPlace: "Muri, Switzerland"
-deathPlace: "Switzerlandnatural causes"
-region: "France"
+born: early 12th century in Langemat, Muri, Switzerland
+died: c.1192 in Beinwil, Switzerland of natural causes
+birthPlace: Muri, Switzerland
+deathPlace: Switzerlandnatural causes
+region: France
 feastDay:
   month: 5
   day: 18
 canonizationStatus: Blessed
 vocation:
   - Priest
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 patronage:
-  - "Beinwil, Switzerland"
+  - Beinwil, Switzerland
 martyr: false
+prayers: []
 ---
 
 Educated at the Benedictine monastery near his home village. Had some connection to the Kappel monastery as he is mentioned in their records. Parish priest in Beinwil, Switzerland. Known as a miracle worker, but primarily for his decades of concern for the physical and spiritual well-being of his parishioners.

@@ -1,12 +1,12 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint James the Confessor"
+name: Saint James the Confessor
 honorific: Saint
-summary: "Martyred for opposing iconoclasm."
+summary: Martyred for opposing iconoclasm.
 deathYear: 824
-died: "c.824 at Constantinople (modern Istanbul, Turkey)"
-deathPlace: "Turkey)"
-region: "Italy"
+died: c.824 at Constantinople (modern Istanbul, Turkey)
+deathPlace: Turkey)
+region: Italy
 feastDay:
   month: 3
   day: 21
@@ -14,6 +14,7 @@ canonizationStatus: Saint
 vocation:
   - Confessor
 martyr: true
+prayers: []
 ---
 
 Martyred for opposing iconoclasm.

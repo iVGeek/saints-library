@@ -28,6 +28,7 @@ vocation:
 patronage:
   - Poor Handmaids of Jesus Christ
 martyr: false
+prayers: []
 ---
 
 Third of four children born to Heinrich Kasper and Katharina Fassel, poor but devout peasants; she had four half-sisters from her father's first marriage. A happy, out-going child, Maria was an avid reader with a fondness for both the Bible and The Imitation of Christ by Thomas a Kempis. Health problems often kept her home from school, but there she learned to spin and weave. She worked with her parents in the fields, and when she could do it, earned extra money by breaking stones for road construction.

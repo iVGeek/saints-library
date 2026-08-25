@@ -17,6 +17,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/6/6c/Saint_C%C3%B4me_%26_Saint_Damien_Grandes_Heures_Anne_de_Bretagne_XVIe_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Claudius of Mesopotamia
 imageCreditUrl: https://en.wikipedia.org/wiki/Cosmas%20and%20Damian
+prayers: []
 ---
 
 Became a monk at age 30. Captured, tortured and martyred in Mesopotamia.

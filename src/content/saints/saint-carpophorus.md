@@ -1,14 +1,14 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Carpophorus"
+name: Saint Carpophorus
 honorific: Saint
-summary: "Priest. Martyred in the persecutions of Diocletian."
+summary: Priest. Martyred in the persecutions of Diocletian.
 searchAliases:
-  - "Carpoforo"
+  - Carpoforo
 deathYear: 300
-died: "martyred c.300 at Spoleto, Italy or Seville, Spain (records vary)"
-deathPlace: "Italy or Seville, Spa(records vary)"
-region: "Italy"
+died: martyred c.300 at Spoleto, Italy or Seville, Spain (records vary)
+deathPlace: Italy or Seville, Spa(records vary)
+region: Italy
 feastDay:
   month: 12
   day: 10
@@ -17,8 +17,9 @@ vocation:
   - Priest
   - Monk
 patronage:
-  - "Arona, Italy"
+  - Arona, Italy
 martyr: true
+prayers: []
 ---
 
 Priest. Martyred in the persecutions of Diocletian.

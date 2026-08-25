@@ -22,6 +22,7 @@ image: https://commons.wikimedia.org/wiki/Special:FilePath/TabulaEpiscoporumTrev
 vocation:
   - Bishop
 martyr: false
+prayers: []
 ---
 
 Bishop of Trier, Belgic Gaul (modern Germany) in 374, and a leader of the Church in Gaul. Attended the 382 synod of bishops called by Pope Saint Damasus I. Friend of co-worker with Saint Ambrose of Milan and Saint Martin of Tours. When a group of pagans sought sanctuary with the Church; Britto tried to convert them, failed, but still refused to surrender them since he believed that the State has no authority over Church affairs.

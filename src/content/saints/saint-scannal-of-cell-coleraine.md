@@ -1,13 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Scannal of Cell-Coleraine"
+name: Saint Scannal of Cell-Coleraine
 honorific: Saint
-summary: "Spiritual student in Ireland of Saint Columba of Iona. Zealous missionary."
+summary: Spiritual student in Ireland of Saint Columba of Iona. Zealous missionary.
 searchAliases:
-  - "Scannal of Gill Cobrainne"
+  - Scannal of Gill Cobrainne
 deathYear: 563
-died: "c.563"
-region: "Ireland"
+died: c.563
+region: Ireland
 feastDay:
   month: 5
   day: 3
@@ -16,6 +16,7 @@ vocation:
   - Monk
   - Missionary
 martyr: false
+prayers: []
 ---
 
 Spiritual student in Ireland of Saint Columba of Iona. Zealous missionary.

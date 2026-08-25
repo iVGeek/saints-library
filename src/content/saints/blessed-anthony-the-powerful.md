@@ -19,6 +19,7 @@ vocation:
   - Hermit
 religiousOrder: Benedictine
 martyr: false
+prayers: []
 ---
 
 14th century hermit who served a superior of the all the hermits who lived in the region of Mount Subasio including Blessed Vitalis of Assisi.

@@ -1,28 +1,33 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Peter Cho Hwa-so"
+name: Saint Peter Cho Hwa-so
 honorific: Venerable
-summary: "Son of Andrew Cho, who was killed for his faith in 1839. Peter moved to Sinchang, Chungcheong where he assisted the work of Father Thomas Choe Yang-eop. He then moved to Jeonju to become a farmer in a remote mountain area. Married to Magdalene Han; they had one son, Saint Joseph"
+summary: >-
+  Son of Andrew Cho, who was killed for his faith in 1839. Peter moved to Sinchang, Chungcheong where he assisted the
+  work of Father Thomas Choe Yang-eop. He then moved to Jeonju to become a farmer in a remote mountain area. Married to
+  Magdalene Han; they had one son, Saint Joseph
 searchAliases:
-  - "Peter Jo Hwa-seo"
-  - "Peteuro…."
-  - "Petrus…."
+  - Peter Jo Hwa-seo
+  - Peteuro….
+  - Petrus….
 birthYear: 1815
 deathYear: 1866
-born: "1815 in Suweon, Gyeonggi-do, South Korea"
-died: "beheaded on 13 December 1866 in Supjeong-i, Jeongju, Chungcheong-do, South Korea"
-birthPlace: "Gyeonggi-do, South Korea"
-deathPlace: "Jeongju, Chungcheong-do, South Korea"
-region: "England"
+born: 1815 in Suweon, Gyeonggi-do, South Korea
+died: beheaded on 13 December 1866 in Supjeong-i, Jeongju, Chungcheong-do, South Korea
+birthPlace: Gyeonggi-do, South Korea
+deathPlace: Jeongju, Chungcheong-do, South Korea
+region: England
 feastDay:
   month: 12
   day: 13
-centuries: [19]
+centuries:
+  - 19
 canonizationStatus: Venerable
 vocation:
   - Priest
   - Monk
 martyr: true
+prayers: []
 ---
 
 Son of Andrew Cho, who was killed for his faith in 1839. Peter moved to Sinchang, Chungcheong where he assisted the work of Father Thomas Choe Yang-eop. He then moved to Jeonju to become a farmer in a remote mountain area. Married to Magdalene Han; they had one son, Saint Joseph Cho Yun-ho. A widower, Peter re-married, this time to Susanna Kim. He was a known as a happy man, a devout Catholic, and a man who listened carefully and offered good advice to people with troubles.

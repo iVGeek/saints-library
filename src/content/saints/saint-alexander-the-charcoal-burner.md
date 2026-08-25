@@ -1,17 +1,20 @@
 ---
-name: "Saint Alexander the Charcoal Burner"
+name: Saint Alexander the Charcoal Burner
 honorific: Saint
-summary: "Well-born, educated, and erudiate 3rd century Greek with philosophical training. Convert to Christianity. To escape his pagan roots and live for God, he left his native area and became a charcoal burner at Comana, Pontus, Asia Minor (in modern Turkey). Noted for being exceptional"
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Alexander-the-Charcoal-Burner.jpg"
+summary: >-
+  Well-born, educated, and erudiate 3rd century Greek with philosophical training. Convert to Christianity. To escape
+  his pagan roots and live for God, he left his native area and became a charcoal burner at Comana, Pontus, Asia Minor
+  (in modern Turkey). Noted for being exceptional
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Alexander-the-Charcoal-Burner.jpg
 searchAliases:
-  - "Alexander of Comana"
-  - "Alexander of Cuma"
-  - "Alexander the Carbonaio"
-  - "Alessandro…."
+  - Alexander of Comana
+  - Alexander of Cuma
+  - Alexander the Carbonaio
+  - Alessandro….
 deathYear: 275
-born: "Greek"
-died: "burned alive c.275 at Comana (in modern Turkey)"
-region: "Turkey"
+born: Greek
+died: burned alive c.275 at Comana (in modern Turkey)
+region: Turkey
 feastDay:
   month: 8
   day: 11
@@ -20,9 +23,10 @@ vocation:
   - Bishop
   - Monk
 patronage:
-  - "charcoal burners"
-  - "coal dealers"
+  - charcoal burners
+  - coal dealers
 martyr: true
+prayers: []
 ---
 
 Well-born, educated, and erudiate 3rd century Greek with philosophical training. Convert to Christianity. To escape his pagan roots and live for God, he left his native area and became a charcoal burner at Comana, Pontus, Asia Minor (in modern Turkey). Noted for being exceptionally ragged and filthy.

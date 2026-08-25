@@ -21,6 +21,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/a/a8/Hill_of_Slane_001.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Erc of Slane
 imageCreditUrl: https://en.wikipedia.org/wiki/Slane
+prayers: []
 ---
 
 Spiritual student of Saint Patrick. Bishop of Slane, Ireland.

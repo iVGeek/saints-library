@@ -35,6 +35,7 @@ patronage:
   - Vittorio Veneto, city of
   - Vittorio Veneto, diocese of
 martyr: false
+prayers: []
 ---
 
 Born to the Italian nobility. Educated by Bishop Floriano of Oderzo, Italy. Priest. Treasurer of the diocese of Oderzo. Noted for his charity. When Floriano was assigned to another diocese, Titian was chosen by popular acclaim as the reluctant new bishop of Oderzo; he tried to get Floriano to return, but eventually took over the see. He was a model of religious life and shepherd to his people, noted for his ability as a preacher. Fought against Arianism.

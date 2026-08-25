@@ -1,21 +1,23 @@
 ---
-name: "Saint Lanoald of Maastricht"
+name: Saint Lanoald of Maastricht
 honorific: Saint
-summary: "Priest in Rome, Italy. With Saint Amantius of Wintershoven, he evangelized areas of modern France and Belgium. Founded the church at Wintershoven, Belgium."
-image: "http://catholicsaints.info/wp-content/uploads/Landoald-of-Maastricht.jpg"
+summary: >-
+  Priest in Rome, Italy. With Saint Amantius of Wintershoven, he evangelized areas of modern France and Belgium. Founded
+  the church at Wintershoven, Belgium.
+image: http://catholicsaints.info/wp-content/uploads/Landoald-of-Maastricht.jpg
 searchAliases:
-  - "Lanoald of Ghent"
-  - "Lanoald of Haspengau"
-  - "Lanoald of Wintershoven"
-  - "Landoald…"
-  - "Landoaldus…"
-  - "Landoalt…"
-  - "Landowaldus…"
+  - Lanoald of Ghent
+  - Lanoald of Haspengau
+  - Lanoald of Wintershoven
+  - Landoald…
+  - Landoaldus…
+  - Landoalt…
+  - Landowaldus…
 deathYear: 668
-born: "Lombardy, Italy"
-died: "c.668"
-birthPlace: "Italy"
-region: "Belgium"
+born: Lombardy, Italy
+died: c.668
+birthPlace: Italy
+region: Belgium
 feastDay:
   month: 3
   day: 19
@@ -24,6 +26,7 @@ vocation:
   - Priest
   - Monk
 martyr: false
+prayers: []
 ---
 
 Priest in Rome, Italy. With Saint Amantius of Wintershoven, he evangelized areas of modern France and Belgium. Founded the church at Wintershoven, Belgium.

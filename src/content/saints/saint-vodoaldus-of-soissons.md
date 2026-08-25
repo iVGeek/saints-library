@@ -1,20 +1,22 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Vodoaldus of Soissons"
+name: Saint Vodoaldus of Soissons
 honorific: Saint
-summary: "Missionary from the British Isles to France. Hermit beside Saint Mary's convent at Soissons, France. Known as a miracle worker."
+summary: >-
+  Missionary from the British Isles to France. Hermit beside Saint Mary's convent at Soissons, France. Known as a
+  miracle worker.
 searchAliases:
-  - "Vodale"
-  - "Vodalis"
-  - "Vodalus"
-  - "Voel"
-  - "Voue"
-  - "Wodoel"
+  - Vodale
+  - Vodalis
+  - Vodalus
+  - Voel
+  - Voue
+  - Wodoel
 deathYear: 725
-born: "Irish or Scottish"
-died: "725 near Soissons, France of natural causes"
-deathPlace: "Francenatural causes"
-region: "France"
+born: Irish or Scottish
+died: 725 near Soissons, France of natural causes
+deathPlace: Francenatural causes
+region: France
 feastDay:
   month: 2
   day: 5
@@ -24,8 +26,9 @@ vocation:
   - Hermit
   - Missionary
 patronage:
-  - "Soissons, France"
+  - Soissons, France
 martyr: false
+prayers: []
 ---
 
 Missionary from the British Isles to France. Hermit beside Saint Mary's convent at Soissons, France. Known as a miracle worker.

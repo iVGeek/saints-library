@@ -27,6 +27,7 @@ vocation:
   - Missionary
   - Confessor
 martyr: true
+prayers: []
 ---
 
 Born to a prominent and pious family, his father was a factory owner, city councilman, and government official; Antoine and two of his brothers became priests. He studied at the Saint Sulpice Seminary in Issy-les-Moulineaux, Paris, France in October 1834, and was ordained a priest on 18 December 1841. Assistant pastor in a parish in Roye, France. Joined La Société des Missions Etrangères (Paris Foreign Missions Society) on 4 October 1843, and left for missionary work on 6 February 1844, intending to work on the Japanese Ryuku Islands. However, in Macau he was convinced by Bishop Jean-Joseph-Jean-Baptiste Ferréol to go to Korea instead; he travelled there with Saint Andrew Kim Taegon, and arrived in October 1846.

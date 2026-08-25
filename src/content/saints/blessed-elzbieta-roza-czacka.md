@@ -1,12 +1,15 @@
 ---
-name: "Blessed Elzbieta Róza Czacka"
+name: Blessed Elzbieta Róza Czacka
 honorific: Blessed
-summary: "The youngest of four children in an aristocratic family who moved from a small town in Ukraine to Warsaw, Poland in 1882. Rosa received a good secular and religious education even as her eyesight deteriorated; in 1898, at age 22, she was completely blind. She spent a lot of time"
-image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Elzbieta-Roza-Czacka.jpg"
+summary: >-
+  The youngest of four children in an aristocratic family who moved from a small town in Ukraine to Warsaw, Poland in
+  1882. Rosa received a good secular and religious education even as her eyesight deteriorated; in 1898, at age 22, she
+  was completely blind. She spent a lot of time
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Elzbieta-Roza-Czacka.jpg
 birthYear: 1876
-born: "22 October 1876 in Biala Cerkiew, Ukraine as Róza Czacka"
-birthPlace: "Ukraine as Róza Czacka"
-region: "Poland"
+born: 22 October 1876 in Biala Cerkiew, Ukraine as Róza Czacka
+birthPlace: Ukraine as Róza Czacka
+region: Poland
 feastDay:
   month: 5
   day: 15
@@ -14,8 +17,9 @@ canonizationStatus: Blessed
 vocation:
   - Religious
   - Cardinal
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 martyr: false
+prayers: []
 ---
 
 The youngest of four children in an aristocratic family who moved from a small town in Ukraine to Warsaw, Poland in 1882. Rosa received a good secular and religious education even as her eyesight deteriorated; in 1898, at age 22, she was completely blind. She spent a lot of time in prayer and in discerning a vocation, and began devoting herself to helping and teaching the blind. In 1909, she and several like-minded friends and co-workers founded a group to start a shelter and school for blind girls to help them live fuller lives on their own.

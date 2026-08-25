@@ -16,6 +16,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/b/bf/Rodez_view.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Martyrs of Maleville
 imageCreditUrl: https://en.wikipedia.org/wiki/Rodez
+prayers: []
 ---
 
 50 Mercedarian friars murdered for their faith by Huguenots.

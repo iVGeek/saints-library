@@ -1,11 +1,11 @@
 ---
-name: "Saint Bono of Cagliari"
+name: Saint Bono of Cagliari
 honorific: Saint
-summary: "Third-century bishop. Martyr."
-image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Bono-of-Cagliari.jpg"
+summary: Third-century bishop. Martyr.
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Bono-of-Cagliari.jpg
 searchAliases:
-  - "Bonus"
-region: "Italy"
+  - Bonus
+region: Italy
 feastDay:
   month: 3
   day: 1
@@ -13,6 +13,7 @@ canonizationStatus: Saint
 vocation:
   - Bishop
 martyr: true
+prayers: []
 ---
 
 Third-century bishop. Martyr.

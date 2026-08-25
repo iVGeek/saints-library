@@ -46,6 +46,7 @@ patronage:
     Abbeville
   - Sens
 martyr: false
+prayers: []
 ---
 
 Son of an official in the court of King Dagobert. Courtier under Clotaire III. Priest. Benedictine. Archbishop of Sens, France in 682, but in 685 he surrendered his see to Saint Amatus, whom he felt was the rightful bishop. Gave away his lands and evangelized the Frisians in Scandanavia with a group of monks for twenty years, remembered there as the Christian crew who “bore the White Christ” to these people.

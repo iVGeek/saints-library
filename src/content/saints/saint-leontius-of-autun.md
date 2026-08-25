@@ -1,16 +1,16 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Leontius of Autun"
+name: Saint Leontius of Autun
 honorific: Saint
-summary: "Fifth century bishop of Autun (Augustodunum), Gaul (in modern France)."
+summary: Fifth century bishop of Autun (Augustodunum), Gaul (in modern France).
 searchAliases:
-  - "Legontius"
-  - "Leonzio"
-  - "Léonce"
+  - Legontius
+  - Leonzio
+  - Léonce
 deathYear: 430
-died: "c.430 in Autun, France of natural causes"
-deathPlace: "Francenatural causes"
-region: "France"
+died: c.430 in Autun, France of natural causes
+deathPlace: Francenatural causes
+region: France
 feastDay:
   month: 7
   day: 1
@@ -18,6 +18,7 @@ canonizationStatus: Saint
 vocation:
   - Bishop
 martyr: false
+prayers: []
 ---
 
 Fifth century bishop of Autun (Augustodunum), Gaul (in modern France).

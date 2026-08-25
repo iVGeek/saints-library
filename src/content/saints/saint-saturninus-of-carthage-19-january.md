@@ -14,6 +14,7 @@ image: >-
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 One of 39 Christians martyred together in Carthage, date unknown. We have no other information about them.

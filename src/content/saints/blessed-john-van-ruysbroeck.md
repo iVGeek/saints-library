@@ -1,21 +1,24 @@
 ---
-name: "Blessed John van Ruysbroeck"
+name: Blessed John van Ruysbroeck
 honorific: Blessed
-summary: "Nothing is known of John's father, but history remembers his mother as a very pious woman who eventually entered a convent. At age eleven John moved in with and was educated by his uncle, Father John Hinckaert at Saint Gudule's, Brussels, Belgium. Ordained in 1317. Served as chap"
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-John-van-Ruysbroeck.jpg"
+summary: >-
+  Nothing is known of John's father, but history remembers his mother as a very pious woman who eventually entered a
+  convent. At age eleven John moved in with and was educated by his uncle, Father John Hinckaert at Saint Gudule's,
+  Brussels, Belgium. Ordained in 1317. Served as chap
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-John-van-Ruysbroeck.jpg
 searchAliases:
-  - "John Ruysbroeck"
-  - "Jan van Ruusbroec"
-  - "Jan van Ruysbroek"
-  - "John the Admirable Doctor"
-  - "John the Divine Doctor"
-  - "Ruysbroeck the Admirable"
+  - John Ruysbroeck
+  - Jan van Ruusbroec
+  - Jan van Ruysbroek
+  - John the Admirable Doctor
+  - John the Divine Doctor
+  - Ruysbroeck the Admirable
 birthYear: 1293
 deathYear: 1381
-born: "1293 near Brussels, Belgium"
-died: "2 December 1381 at Groenendael of natural causes"
-birthPlace: "Belgium"
-region: "Belgium"
+born: 1293 near Brussels, Belgium
+died: 2 December 1381 at Groenendael of natural causes
+birthPlace: Belgium
+region: Belgium
 feastDay:
   month: 12
   day: 2
@@ -24,8 +27,9 @@ vocation:
   - Priest
   - Monk
   - Hermit
-religiousOrder: "Augustinian"
+religiousOrder: Augustinian
 martyr: false
+prayers: []
 ---
 
 Nothing is known of John's father, but history remembers his mother as a very pious woman who eventually entered a convent. At age eleven John moved in with and was educated by his uncle, Father John Hinckaert at Saint Gudule's, Brussels, Belgium. Ordained in 1317. Served as chaplain at Saint Gudule's for 26 years.

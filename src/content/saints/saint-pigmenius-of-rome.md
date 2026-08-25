@@ -1,15 +1,15 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Pigmenius of Rome"
+name: Saint Pigmenius of Rome
 honorific: Saint
-summary: "Priest in Rome, Italy. Tutor to the young Julian the Apostate. Martyred by order of Julian."
+summary: Priest in Rome, Italy. Tutor to the young Julian the Apostate. Martyred by order of Julian.
 searchAliases:
-  - "Pigmentius"
-  - "Pigmène"
-  - "Pimenius"
+  - Pigmentius
+  - Pigmène
+  - Pimenius
 deathYear: 362
-died: "drowned in the Tiber River in 362"
-region: "Italy"
+died: drowned in the Tiber River in 362
+region: Italy
 feastDay:
   month: 3
   day: 24
@@ -18,6 +18,7 @@ vocation:
   - Priest
   - Monk
 martyr: true
+prayers: []
 ---
 
 Priest in Rome, Italy. Tutor to the young Julian the Apostate. Martyred by order of Julian.

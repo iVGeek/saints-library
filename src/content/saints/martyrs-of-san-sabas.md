@@ -16,6 +16,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/8/8c/Tumba_de_San_Pedro_de_Jesus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Martyrs of San Sabas
 imageCreditUrl: https://en.wikipedia.org/wiki/Saints%20of%20the%20Cristero%20War
+prayers: []
 ---
 
 Twenty monks who were martyred together in their monastery by invading Saracens.

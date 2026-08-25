@@ -1,22 +1,23 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Antonio María Arriaga Anduiza"
+name: Blessed Antonio María Arriaga Anduiza
 honorific: Blessed
-summary: "Augustinian cleric. Martyred in the Spanish Civil War."
+summary: Augustinian cleric. Martyred in the Spanish Civil War.
 birthYear: 1903
 deathYear: 1936
-born: "15 December 1903 in Busturia, Vizcaya, Spain"
-died: "30 August 1936 in “El Tomelloso,” Madrid, Spain"
-birthPlace: "Vizcaya, Spain"
-deathPlace: "” Madrid, Spain"
-region: "Spain"
+born: 15 December 1903 in Busturia, Vizcaya, Spain
+died: 30 August 1936 in “El Tomelloso,” Madrid, Spain
+birthPlace: Vizcaya, Spain
+deathPlace: ” Madrid, Spain
+region: Spain
 feastDay:
   month: 8
   day: 30
 canonizationStatus: Blessed
 vocation: []
-religiousOrder: "Augustinian"
+religiousOrder: Augustinian
 martyr: true
+prayers: []
 ---
 
 Augustinian cleric. Martyred in the Spanish Civil War.

@@ -19,4 +19,5 @@ religiousOrder: Dominican
 patronage:
   - Montepulciano, Italy
 martyr: false
+prayers: []
 ---

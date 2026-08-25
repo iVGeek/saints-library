@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Polycarp of Rome"
+name: Saint Polycarp of Rome
 honorific: Saint
-summary: "Priest in Rome, Italy who was known for his ministry to people imprisoned for their faith."
+summary: Priest in Rome, Italy who was known for his ministry to people imprisoned for their faith.
 deathYear: 300
-died: "c.300"
-region: "Italy"
+died: c.300
+region: Italy
 feastDay:
   month: 2
   day: 23
@@ -15,6 +15,7 @@ vocation:
   - Priest
   - Monk
 martyr: false
+prayers: []
 ---
 
 Priest in Rome, Italy who was known for his ministry to people imprisoned for their faith.

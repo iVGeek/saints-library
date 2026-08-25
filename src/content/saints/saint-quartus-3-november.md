@@ -13,6 +13,7 @@ image: >-
 vocation:
   - Monk
 martyr: false
+prayers: []
 ---
 
 One of the first disciples of the Apostles. Mentioned in Saint Paul's letter to the Romans.

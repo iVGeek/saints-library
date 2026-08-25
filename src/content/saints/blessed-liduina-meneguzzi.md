@@ -1,21 +1,24 @@
 ---
-name: "Blessed Liduina Meneguzzi"
+name: Blessed Liduina Meneguzzi
 honorific: Blessed
-summary: "Born to a poor farm family. Noted as a child for her piety, attending daily Mass, praying often, teaching catechism as soon as she was old enough, and considering the religious life. At age 14 she began working as a servant to local wealthy families, and in the hotels around the"
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Liduina-Meneguzzi-169x300.jpg"
+summary: >-
+  Born to a poor farm family. Noted as a child for her piety, attending daily Mass, praying often, teaching catechism as
+  soon as she was old enough, and considering the religious life. At age 14 she began working as a servant to local
+  wealthy families, and in the hotels around the
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Liduina-Meneguzzi-169x300.jpg
 searchAliases:
-  - "Ecumenical Flame"
-  - "Elisa Angela Meneguzzi"
-  - "Sister Great (meaning of Gudda)"
-  - "Sister Gudda (Ethiopian nickname)"
-  - "Sister Liduina"
+  - Ecumenical Flame
+  - Elisa Angela Meneguzzi
+  - Sister Great (meaning of Gudda)
+  - Sister Gudda (Ethiopian nickname)
+  - Sister Liduina
 birthYear: 1901
 deathYear: 1941
-born: "12 September 1901 in Abano Terme, Padua, Italy as Elisa Angela Meneguzzi"
-died: "2 December 1941 of cancer in Dire-Dawa, Ethiopia"
-birthPlace: "Padua, Italy as Elisa Angela Meneguzzi"
-deathPlace: "Ethiopia"
-region: "Africa"
+born: 12 September 1901 in Abano Terme, Padua, Italy as Elisa Angela Meneguzzi
+died: 2 December 1941 of cancer in Dire-Dawa, Ethiopia
+birthPlace: Padua, Italy as Elisa Angela Meneguzzi
+deathPlace: Ethiopia
+region: Africa
 feastDay:
   month: 12
   day: 1
@@ -25,6 +28,7 @@ vocation:
   - Religious
   - Soldier
 martyr: false
+prayers: []
 ---
 
 Born to a poor farm family. Noted as a child for her piety, attending daily Mass, praying often, teaching catechism as soon as she was old enough, and considering the religious life. At age 14 she began working as a servant to local wealthy families, and in the hotels around the hot springs of Abano. On 5 March 1926 she answered the call to religious life and joined the Sisters of the Congregation of Saint Francis de Sales.

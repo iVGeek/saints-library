@@ -1,19 +1,22 @@
 ---
-name: "Blessed María Romero Meneses"
+name: Blessed María Romero Meneses
 honorific: Blessed
-summary: "One of eight children born to a wealthy, upper-class family; her father was a government minister. Educated by her family, tutors and at the local Salesian Sisters' school, she could play piano and violin, studied drawing, and loved to learn. At the age of twelve she spent a year"
-image: "https://upload.wikimedia.org/wikipedia/commons/e/e5/Beata_Mar%C3%ADa_Romero_Meneses.jpg"
+summary: >-
+  One of eight children born to a wealthy, upper-class family; her father was a government minister. Educated by her
+  family, tutors and at the local Salesian Sisters' school, she could play piano and violin, studied drawing, and loved
+  to learn. At the age of twelve she spent a year
+image: https://upload.wikimedia.org/wikipedia/commons/e/e5/Beata_Mar%C3%ADa_Romero_Meneses.jpg
 searchAliases:
-  - "the female John Bosco"
-  - "Daughter of Mary Help of Christians"
-  - "Social Apostle of Costa Rica"
+  - the female John Bosco
+  - Daughter of Mary Help of Christians
+  - Social Apostle of Costa Rica
 birthYear: 1902
 deathYear: 1977
-born: "13 January 1902 at Granada, Nicaragua"
-died: "7 July 1977 in Las Peñitas, Le&oacute;n, Nicaragua of a heart attack"
-birthPlace: "Nicaragua"
-deathPlace: "Le&oacute;n, Nicaraguaa heart attack"
-region: "Italy"
+born: 13 January 1902 at Granada, Nicaragua
+died: 7 July 1977 in Las Peñitas, Le&oacute;n, Nicaragua of a heart attack
+birthPlace: Nicaragua
+deathPlace: Le&oacute;n, Nicaraguaa heart attack
+region: Italy
 feastDay:
   month: 7
   day: 7
@@ -22,10 +25,11 @@ vocation:
   - Virgin
   - Priest
   - Religious
-religiousOrder: "Salesian"
+religiousOrder: Salesian
 patronage:
-  - "World Youth Day 2019"
+  - World Youth Day 2019
 martyr: false
+prayers: []
 ---
 
 One of eight children born to a wealthy, upper-class family; her father was a government minister. Educated by her family, tutors and at the local Salesian Sisters' school, she could play piano and violin, studied drawing, and loved to learn. At the age of twelve she spent a year extemely sick from rheumatic fever; she was paralyzed for six months and her heart was permanently damaged. She was cured by the intercession and apparition of Our Lady, Help of Christians, during which vision she understood her vocation to be a Salesian sister.

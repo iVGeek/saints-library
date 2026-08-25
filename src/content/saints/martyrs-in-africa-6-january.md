@@ -24,6 +24,7 @@ imageCredit: >-
   href="https://archive.org/download/livesoffathersma456butl/livesoffathersma456butl.pdf">https://archive.org/download/livesoffathersma456butl/livesoffathersma456butl.pdf</a></dd></dl>
 imageCreditUrl: >-
   https://commons.wikimedia.org/wiki/File:The%20lives%20of%20the%20fathers%2C%20martyrs%2C%20and%20other%20principal%20saints%3B%20(IA%20livesoffathersma456butl).pdf
+prayers: []
 ---
 
 Unknown number of Christian men and women who were martyred in the persecutions of Septimus Severus.

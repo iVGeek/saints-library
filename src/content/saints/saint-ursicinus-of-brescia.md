@@ -1,15 +1,17 @@
 ---
-name: "Saint Ursicinus of Brescia"
+name: Saint Ursicinus of Brescia
 honorific: Saint
-summary: "Priest. Early bishop of Brescia, Lombardy, Italy. Participated in the Council of Sardica in 347 supporting orthodox Christianity against Arianism."
-image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Ursicinus-of-Brescia.jpg"
+summary: >-
+  Priest. Early bishop of Brescia, Lombardy, Italy. Participated in the Council of Sardica in 347 supporting orthodox
+  Christianity against Arianism.
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Ursicinus-of-Brescia.jpg
 searchAliases:
-  - "Ursacio"
-  - "Ursicino"
+  - Ursacio
+  - Ursicino
 deathYear: 347
-died: "347 at Brescia, Italy"
-deathPlace: "Italy"
-region: "Italy"
+died: 347 at Brescia, Italy
+deathPlace: Italy
+region: Italy
 feastDay:
   month: 12
   day: 1
@@ -19,6 +21,7 @@ vocation:
   - Priest
   - Monk
 martyr: false
+prayers: []
 ---
 
 Priest. Early bishop of Brescia, Lombardy, Italy. Participated in the Council of Sardica in 347 supporting orthodox Christianity against Arianism.

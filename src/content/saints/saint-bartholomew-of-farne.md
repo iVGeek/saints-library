@@ -29,6 +29,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/5/59/Inner_Farne_Wide_View.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Bartholomew of Farne
 imageCreditUrl: https://en.wikipedia.org/wiki/Farne%20Islands
+prayers: []
 ---
 
 Descendant of Scandanavian immigrants to England. Because of the teasing he endured as a child, he changed his name from Tostig to William. A dissolute youth, he eventually left home to wander in Europe, possibly to avoid settling down in an arranged marriage. He experienced a conversion experience along with way, and emigrated for a while to his ancestral Norway where he worked as a missionary and ordained a priest.

@@ -3,8 +3,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import Breadcrumbs from '../components/Breadcrumbs.astro';
 import SectionHeading from '../components/SectionHeading.astro';
 import { getCollection } from 'astro:content';
-import { MONTHS } from '../data/calendar';
-import { slug } from '../utils/slugs';
+import { MONTHS, liturgicalSeason, seasonTheme } from '../data/calendar';
 
 const saints = await getCollection('saints');
 
@@ -54,6 +53,24 @@ const now = new Date();
 const year = now.getFullYear();
 const today = { m: now.getMonth() + 1, d: now.getDate() };
 
+const seasonBorder: Record<string, string> = {
+  Advent: 'border-l-4 border-l-violet-500',
+  Christmas: 'border-l-4 border-l-gold-300',
+  'Ordinary Time': 'border-l-4 border-l-emerald-600',
+  Lent: 'border-l-4 border-l-violet-600',
+  Triduum: 'border-l-4 border-l-red-600',
+  Easter: 'border-l-4 border-l-gold-400',
+};
+
+const seasonLabel: Record<string, string> = {
+  Advent: 'Advent',
+  Christmas: 'Christmas',
+  'Ordinary Time': 'Ordinary Time',
+  Lent: 'Lent',
+  Triduum: 'Easter Triduum',
+  Easter: 'Easter Season',
+};
+
 interface Cell {
   day: number;
   saints: DaySaint[];
@@ -62,6 +79,7 @@ interface Month {
   month: number;
   name: string;
   cells: (Cell | null)[];
+  season: string;
 }
 
 const months: Month[] = [];
@@ -72,7 +90,9 @@ for (let m = 1; m <= 12; m++) {
   for (let d = 1; d <= total; d++) {
     cells.push({ day: d, saints: byDay.get(`${m}-${d}`) ?? [] });
   }
-  months.push({ month: m, name: MONTHS[m - 1], cells });
+  const midMonth = new Date(year, m - 1, 15);
+  const season = liturgicalSeason(midMonth);
+  months.push({ month: m, name: MONTHS[m - 1], cells, season });
 }
 
 const rankTone: Record<string, string> = {
@@ -122,6 +142,16 @@ const statusDot: Record<string, string> = {
       ))}
     </div>
 
+    <div class="mt-4 flex flex-wrap items-center gap-4">
+      <p class="label">Season</p>
+      {Object.entries(seasonBorder).map(([season, cls]) => (
+        <span class="flex items-center gap-2 font-body text-sm text-ink-600">
+          <span class={`h-3 w-3 rounded-sm border-l-4 ${cls.replace('border-l-4 ', '')}`} />
+          {seasonLabel[season]}
+        </span>
+      ))}
+    </div>
+
     <div class="mt-6 flex flex-wrap items-center gap-3">
       <span class="label">Show:</span>
       <button data-cal-filter="all" class="cal-btn active" type="button">All</button>
@@ -131,10 +161,17 @@ const statusDot: Record<string, string> = {
       <button data-cal-filter="martyr" class="cal-btn" type="button">Martyrs</button>
     </div>
 
+    <div class="mt-6 flex flex-wrap items-center gap-2">
+      <a href={`#month-${today.m}`} class="cal-btn active">↓ Today</a>
+      {MONTHS.map((m, i) => (
+        <a href={`#month-${i + 1}`} class="cal-btn">{m.slice(0, 3)}</a>
+      ))}
+    </div>
+
     <div class="mt-8 grid gap-8 lg:grid-cols-2">
       {months.map((month) => (
-        <section class="rounded-lg border border-gold-600/30 bg-ivory/80 p-4">
-          <h2 class="mb-4 text-center font-display text-xl font-semibold text-navy-900">{month.name} {year}</h2>
+        <section id={`month-${month.month}`} class:list={['rounded-lg border border-gold-600/30 bg-ivory/80 p-4 scroll-mt-24', seasonBorder[month.season] ?? '']}>
+          <h2 class="mb-4 text-center font-display text-xl font-semibold text-navy-900">{month.name} {year} <span class="text-sm font-normal text-ink-500">· {seasonLabel[month.season]}</span></h2>
           <div class="grid grid-cols-7 gap-1 text-center">
             {WEEKDAYS.map((w) => (
               <span class="label !text-[10px] py-1">{w}</span>

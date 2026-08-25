@@ -1,12 +1,14 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Diuma"
+name: Saint Diuma
 honorific: Saint
-summary: "Missionary and evangelizing bishop in Mercia, England. The modern town of Peterborough, England, grew up around a monastery he founded."
+summary: >-
+  Missionary and evangelizing bishop in Mercia, England. The modern town of Peterborough, England, grew up around a
+  monastery he founded.
 deathYear: 658
-born: "Ireland"
-died: "658"
-region: "England"
+born: Ireland
+died: '658'
+region: England
 feastDay:
   month: 12
   day: 7
@@ -15,8 +17,9 @@ vocation:
   - Bishop
   - Missionary
 patronage:
-  - "Charlbury, England"
+  - Charlbury, England
 martyr: false
+prayers: []
 ---
 
 Missionary and evangelizing bishop in Mercia, England. The modern town of Peterborough, England, grew up around a monastery he founded.

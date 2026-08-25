@@ -1,25 +1,29 @@
 ---
-name: "Blessed José María Azurmendi Mugarza"
+name: Blessed José María Azurmendi Mugarza
 honorific: Blessed
-summary: "Baptized on the day of his birth as it seemed that he and his twin brother, Agapito, might not survive the day. In his late teens, José felt a call to religious life, and became a Franciscan Friar Minor on 31 January 1887; he made his profession on 22 July 1891. He continued his"
-image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Jose-Maria-Azurmendi-Mugarza.jpg"
+summary: >-
+  Baptized on the day of his birth as it seemed that he and his twin brother, Agapito, might not survive the day. In his
+  late teens, José felt a call to religious life, and became a Franciscan Friar Minor on 31 January 1887; he made his
+  profession on 22 July 1891. He continued his
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Jose-Maria-Azurmendi-Mugarza.jpg
 searchAliases:
-  - "José Azurmendi Larrìnaga"
+  - José Azurmendi Larrìnaga
 birthYear: 1870
 deathYear: 1936
-born: "18 August 1870 in Durango, Vizcaya, Spain"
-died: "at noon on 21 September 1936 in the courtyard of the prison in Azuaga, Badajoz, Spain"
-birthPlace: "Vizcaya, Spain"
-deathPlace: "Badajoz, Spain"
-region: "Spain"
+born: 18 August 1870 in Durango, Vizcaya, Spain
+died: at noon on 21 September 1936 in the courtyard of the prison in Azuaga, Badajoz, Spain
+birthPlace: Vizcaya, Spain
+deathPlace: Badajoz, Spain
+region: Spain
 feastDay:
   month: 9
   day: 21
 canonizationStatus: Blessed
 vocation:
   - Priest
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 martyr: true
+prayers: []
 ---
 
 Baptized on the day of his birth as it seemed that he and his twin brother, Agapito, might not survive the day. In his late teens, José felt a call to religious life, and became a Franciscan Friar Minor on 31 January 1887; he made his profession on 22 July 1891. He continued his studies, and was ordained a priest by Blessed Marcelo Spínola y Maestre on 30 May 1896. 

@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Palumbus of Subiaco"
+name: Blessed Palumbus of Subiaco
 honorific: Blessed
-summary: "Benedictine monk. Priest in the abbey of Subiaco, Italy. Lived several years as a hermit near the monastery."
+summary: Benedictine monk. Priest in the abbey of Subiaco, Italy. Lived several years as a hermit near the monastery.
 deathYear: 1070
-died: "c.1070 of natural causes"
-region: "Italy"
+died: c.1070 of natural causes
+region: Italy
 feastDay:
   month: 1
   day: 4
@@ -14,8 +14,9 @@ vocation:
   - Priest
   - Monk
   - Hermit
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 martyr: false
+prayers: []
 ---
 
 Benedictine monk. Priest in the abbey of Subiaco, Italy. Lived several years as a hermit near the monastery.

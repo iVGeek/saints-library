@@ -1,15 +1,15 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Joan Capdevila Costa"
+name: Blessed Joan Capdevila Costa
 honorific: Blessed
-summary: "Member of the Claretians, professed on 16 July 1901. Martyred in the Spanish Civil War."
+summary: Member of the Claretians, professed on 16 July 1901. Martyred in the Spanish Civil War.
 birthYear: 1883
 deathYear: 1936
-born: "30 November 1883 in Sovellas, Girona, Spain"
-died: "25 July 1936 in Barcelona, Spain"
-birthPlace: "Girona, Spain"
-deathPlace: "Spain"
-region: "Spain"
+born: 30 November 1883 in Sovellas, Girona, Spain
+died: 25 July 1936 in Barcelona, Spain
+birthPlace: Girona, Spain
+deathPlace: Spain
+region: Spain
 feastDay:
   month: 7
   day: 25
@@ -18,6 +18,7 @@ vocation:
   - Bishop
   - Cardinal
 martyr: true
+prayers: []
 ---
 
 Member of the Claretians, professed on 16 July 1901. Martyred in the Spanish Civil War.

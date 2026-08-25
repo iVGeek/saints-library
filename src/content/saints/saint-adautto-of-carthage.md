@@ -17,6 +17,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/f/f5/The_Glorification_of_St_Felix_and_St_Adauctus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Adautto of Carthage
 imageCreditUrl: https://en.wikipedia.org/wiki/Felix%20and%20Adauctus
+prayers: []
 ---
 
 Martyred in the persecutions of Diocletian.

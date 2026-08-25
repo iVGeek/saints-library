@@ -1,15 +1,18 @@
 ---
-name: "Blessed Ángel Martínez Miquélez"
+name: Blessed Ángel Martínez Miquélez
 honorific: Blessed
-summary: "The eldest son of José Martínez Polo and Juana Miquélez, Ángel was baptized at the age of one day; his aunt and godmother, Magdalena Martínez, consecrated him to the Virgin Mary. To get work, the family moved to Argentina when Ángel was five years old, but they were forced to ret"
-image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Angel-Martinez-Miquelez.jpg"
+summary: >-
+  The eldest son of José Martínez Polo and Juana Miquélez, Ángel was baptized at the age of one day; his aunt and
+  godmother, Magdalena Martínez, consecrated him to the Virgin Mary. To get work, the family moved to Argentina when
+  Ángel was five years old, but they were forced to ret
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Angel-Martinez-Miquelez.jpg
 birthYear: 1907
 deathYear: 1936
-born: "4am on 2 March 1907 in Funes, Navarra, Spain"
-died: "shot on 20 July 1936 in Casa de Campo, Madrid, Spain"
-birthPlace: "Navarra, Spain"
-deathPlace: "Madrid, Spain"
-region: "Argentina"
+born: 4am on 2 March 1907 in Funes, Navarra, Spain
+died: shot on 20 July 1936 in Casa de Campo, Madrid, Spain
+birthPlace: Navarra, Spain
+deathPlace: Madrid, Spain
+region: Argentina
 feastDay:
   month: 7
   day: 20
@@ -18,8 +21,9 @@ vocation:
   - Virgin
   - Priest
   - Missionary
-religiousOrder: "Redemptorist"
+religiousOrder: Redemptorist
 martyr: true
+prayers: []
 ---
 
 The eldest son of José Martínez Polo and Juana Miquélez, Ángel was baptized at the age of one day; his aunt and godmother, Magdalena Martínez, consecrated him to the Virgin Mary. To get work, the family moved to Argentina when Ángel was five years old, but they were forced to return to Spain two years later when things didn't work out. The boy's mother died when Ángel was seven years old. His aunt, Magdalena, helped with the family and ensured that the boys received a proper religious education. He went to a Piarist school, and began to feel a call to religious life. When he was old enough, he entered the Redemptorist seminary in Espino, Spain; a few years later, his younger brother Juan attended the same seminary.

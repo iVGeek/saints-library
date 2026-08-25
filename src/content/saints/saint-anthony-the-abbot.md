@@ -1,69 +1,76 @@
 ---
-name: "Saint Anthony the Abbot"
+name: Saint Anthony the Abbot
 honorific: Saint
-summary: "Following the death of his parents when he was about 20, Anthony insured that his sister completed her education, then he sold his house, furniture, and the land he owned, gave the proceeds to the poor, joined the anchorites who lived nearby, and moved into an empty sepulchre. At"
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Anthony-the-Abbot.jpg"
+summary: >-
+  Following the death of his parents when he was about 20, Anthony insured that his sister completed her education, then
+  he sold his house, furniture, and the land he owned, gave the proceeds to the poor, joined the anchorites who lived
+  nearby, and moved into an empty sepulchre. At
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Anthony-the-Abbot.jpg
 searchAliases:
-  - "Abba Antonius"
-  - "Anthony of Egypt"
-  - "Anthony of the Desert"
-  - "Anthony the Anchorite"
-  - "Anthony the Great"
-  - "Anthony the Hermit"
-  - "Antonio Abate"
-  - "Father of Cenobites"
-  - "Father of All Monks"
-  - "Father of Western Monasticism"
+  - Abba Antonius
+  - Anthony of Egypt
+  - Anthony of the Desert
+  - Anthony the Anchorite
+  - Anthony the Great
+  - Anthony the Hermit
+  - Antonio Abate
+  - Father of Cenobites
+  - Father of All Monks
+  - Father of Western Monasticism
 birthYear: 251
 deathYear: 356
-born: "251 at Heracleus, Egypt"
-died: "356 at Mount Colzim of natural causes"
-birthPlace: "Egypt"
-region: "Egypt"
+born: 251 at Heracleus, Egypt
+died: 356 at Mount Colzim of natural causes
+birthPlace: Egypt
+region: Egypt
 feastDay:
   month: 1
   day: 17
 canonizationStatus: Saint
 vocation:
   - Priest
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 patronage:
-  - "against eczema"
-  - "against epilepsy"
-  - "against epizootic disease"
-  - "against ergotism"
-  - "against erysipelas"
-  - "against fire"
-  - "against pestilence"
-  - "against Saint Anthony's Fire"
-  - "against skin diseases"
-  - "against skin rashes"
-  - "amputees"
-  - "anchorites"
-  - "animals"
-  - "basket makers, basket weavers"
-  - "bell ringers"
-  - "brushmakers"
-  - "butchers"
-  - "cemetery workers"
-  - "domestic animals"
-  - "epileptics"
-  - "farmers"
-  - "glove makers"
-  - "gravediggers"
-  - "graveyards"
-  - "hermits"
-  - "hogs, pigs, swine"
-  - "livestock"
-  - "monks"
-  - "pharmacists"
-  - "pig traders"
-  - "relief from pestilence"
-  - "swineherds"
-  - "Hospitallers"
-  - "–"
-  - "in Brazil\n\nCanas"
+  - against eczema
+  - against epilepsy
+  - against epizootic disease
+  - against ergotism
+  - against erysipelas
+  - against fire
+  - against pestilence
+  - against Saint Anthony's Fire
+  - against skin diseases
+  - against skin rashes
+  - amputees
+  - anchorites
+  - animals
+  - basket makers, basket weavers
+  - bell ringers
+  - brushmakers
+  - butchers
+  - cemetery workers
+  - domestic animals
+  - epileptics
+  - farmers
+  - glove makers
+  - gravediggers
+  - graveyards
+  - hermits
+  - hogs, pigs, swine
+  - livestock
+  - monks
+  - pharmacists
+  - pig traders
+  - relief from pestilence
+  - swineherds
+  - Hospitallers
+  - –
+  - |-
+    in Brazil
+
+    Canas
 martyr: false
+prayers: []
 ---
 
 Following the death of his parents when he was about 20, Anthony insured that his sister completed her education, then he sold his house, furniture, and the land he owned, gave the proceeds to the poor, joined the anchorites who lived nearby, and moved into an empty sepulchre. At age 35 he moved to the desert to live alone; he lived 20 years in an abandoned fort.

@@ -1,17 +1,20 @@
 ---
-name: "Saint Odo of Cluny"
+name: Saint Odo of Cluny
 honorific: Saint
-summary: "Born to the nobility, the son of Abbo. Raised in the courts of Count Fulk II of Anjou and Duke William of Aquitaine. Received the Order of Tonsure at age nineteen. Canon of the church of Saint Martin of Tours. Studied music and theology in Paris for four years, studying under Rem"
-image: "https://upload.wikimedia.org/wikipedia/commons/c/c5/Odo_Cluny-11.jpg"
+summary: >-
+  Born to the nobility, the son of Abbo. Raised in the courts of Count Fulk II of Anjou and Duke William of Aquitaine.
+  Received the Order of Tonsure at age nineteen. Canon of the church of Saint Martin of Tours. Studied music and
+  theology in Paris for four years, studying under Rem
+image: https://upload.wikimedia.org/wikipedia/commons/c/c5/Odo_Cluny-11.jpg
 searchAliases:
-  - "Oddone"
+  - Oddone
 birthYear: 879
 deathYear: 942
-born: "c.879 at Le Mans, France"
-died: "18 November 942 in Tours, France of natural causes while travelling to Rome, Italy"
-birthPlace: "France"
-deathPlace: "Francenatural causes while travelling to Rome, Italy"
-region: "France"
+born: c.879 at Le Mans, France
+died: 18 November 942 in Tours, France of natural causes while travelling to Rome, Italy
+birthPlace: France
+deathPlace: Francenatural causes while travelling to Rome, Italy
+region: France
 feastDay:
   month: 11
   day: 18
@@ -21,14 +24,18 @@ vocation:
   - Monk
   - Hermit
   - Confessor
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 patronage:
-  - "for rain"
-  - "musicians"
-  - "–"
-  - "in France\n\nCluny"
-  - "Tours"
+  - for rain
+  - musicians
+  - –
+  - |-
+    in France
+
+    Cluny
+  - Tours
 martyr: false
+prayers: []
 ---
 
 Born to the nobility, the son of Abbo. Raised in the courts of Count Fulk II of Anjou and Duke William of Aquitaine. Received the Order of Tonsure at age nineteen. Canon of the church of Saint Martin of Tours. Studied music and theology in Paris for four years, studying under Remigius of Auxerre. Returning home, he spent years as a near-hermit in a cell, studying and praying.

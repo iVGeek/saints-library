@@ -17,6 +17,7 @@ canonizationStatus: Blessed
 vocation:
   - Monk
 martyr: false
+prayers: []
 ---
 
 Member of the Parisi family. Monk. Abbot of the Vallombrosan abbey near Bologna, Italy, which after his death was renamed San Alberto.

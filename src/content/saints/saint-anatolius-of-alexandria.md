@@ -1,17 +1,20 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Anatolius of Alexandria"
+name: Saint Anatolius of Alexandria
 honorific: Saint
-summary: "Noted scientist, philosopher, scholar, teacher, and writer. He wrote ten books on mathematics alone, and Saint Jerome praised his scholarship and writing. Head of the Aristotlean school in Alexandria, Egypt. However, he was known not just as a scholar but as a humble and deeply r"
+summary: >-
+  Noted scientist, philosopher, scholar, teacher, and writer. He wrote ten books on mathematics alone, and Saint Jerome
+  praised his scholarship and writing. Head of the Aristotlean school in Alexandria, Egypt. However, he was known not
+  just as a scholar but as a humble and deeply r
 searchAliases:
-  - "Anatolius of Laodicea"
-  - "Anatolio…"
+  - Anatolius of Laodicea
+  - Anatolio…
 deathYear: 283
-born: "Alexandria, Egypt"
-died: "283 at Laodicea, Syria of natural causes"
-birthPlace: "Egypt"
-deathPlace: "Syrianatural causes"
-region: "Turkey"
+born: Alexandria, Egypt
+died: 283 at Laodicea, Syria of natural causes
+birthPlace: Egypt
+deathPlace: Syrianatural causes
+region: Turkey
 feastDay:
   month: 7
   day: 3
@@ -20,6 +23,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Noted scientist, philosopher, scholar, teacher, and writer. He wrote ten books on mathematics alone, and Saint Jerome praised his scholarship and writing. Head of the Aristotlean school in Alexandria, Egypt. However, he was known not just as a scholar but as a humble and deeply religious man. Ignorance horrified him, and part of his work with the poor was to educate them. Held a number of government posts in Alexandria.

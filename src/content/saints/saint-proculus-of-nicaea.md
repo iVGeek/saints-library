@@ -1,10 +1,10 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Proculus of Nicaea"
+name: Saint Proculus of Nicaea
 honorific: Saint
-summary: "One of 279 Christians martyred together."
-died: "Nicaea, Bithynia"
-deathPlace: "Bithynia"
+summary: One of 279 Christians martyred together.
+died: Nicaea, Bithynia
+deathPlace: Bithynia
 feastDay:
   month: 10
   day: 21
@@ -12,6 +12,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 One of 279 Christians martyred together.

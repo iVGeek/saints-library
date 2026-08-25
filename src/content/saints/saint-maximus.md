@@ -1,18 +1,19 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Maximus"
+name: Saint Maximus
 honorific: Saint
-summary: "Martyred in the persecutions of Decius."
+summary: Martyred in the persecutions of Decius.
 searchAliases:
-  - "Massimo"
-died: "stoned to death in Asia Minor (modern Turkey)"
-region: "England"
+  - Massimo
+died: stoned to death in Asia Minor (modern Turkey)
+region: England
 feastDay:
   month: 5
   day: 14
 canonizationStatus: Saint
 vocation: []
 martyr: true
+prayers: []
 ---
 
 Martyred in the persecutions of Decius.

@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Beatrix of Bohemia"
+name: Saint Beatrix of Bohemia
 honorific: Saint
-summary: "Born to the Bohemian nobility. Sister of Blessed Hrosnata. Nun."
+summary: Born to the Bohemian nobility. Sister of Blessed Hrosnata. Nun.
 searchAliases:
-  - "Bozena of Bohemia"
-born: "12 century Bohemia"
+  - Bozena of Bohemia
+born: 12 century Bohemia
 feastDay:
   month: 11
   day: 13
@@ -14,6 +14,7 @@ vocation:
   - Monk
   - Religious
 martyr: false
+prayers: []
 ---
 
 Born to the Bohemian nobility. Sister of Blessed Hrosnata. Nun.

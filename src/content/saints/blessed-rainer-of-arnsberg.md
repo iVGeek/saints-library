@@ -1,12 +1,12 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Rainer of Arnsberg"
+name: Blessed Rainer of Arnsberg
 honorific: Blessed
-summary: "Premonstratensian monk. Canon of the monastery of Mariënweerd at Utrecht, Netherlands."
+summary: Premonstratensian monk. Canon of the monastery of Mariënweerd at Utrecht, Netherlands.
 deathYear: 1184
-born: "early 12th century Netherlands"
-died: "14 January 1184 of natural causes"
-region: "Netherlands"
+born: early 12th century Netherlands
+died: 14 January 1184 of natural causes
+region: Netherlands
 feastDay:
   month: 1
   day: 14
@@ -14,6 +14,7 @@ canonizationStatus: Blessed
 vocation:
   - Monk
 martyr: false
+prayers: []
 ---
 
 Premonstratensian monk. Canon of the monastery of Mariënweerd at Utrecht, Netherlands.

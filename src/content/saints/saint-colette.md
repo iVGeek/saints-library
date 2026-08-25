@@ -1,41 +1,45 @@
 ---
-name: "Saint Colette"
+name: Saint Colette
 honorific: Saint
-summary: "Carpenter's daughter whose parents were near 60 at her birth. Colette was orphaned at age 17, and left in the care of a Benedictine abbot. Her guardian wanted her to marry, but Colette was drawn to religious life. She initially tried to join the Beguines and Benedictines, but fai"
-image: "https://upload.wikimedia.org/wikipedia/commons/2/22/Colette_-_photo_Henri_Manuel.jpg"
+summary: >-
+  Carpenter's daughter whose parents were near 60 at her birth. Colette was orphaned at age 17, and left in the care of
+  a Benedictine abbot. Her guardian wanted her to marry, but Colette was drawn to religious life. She initially tried to
+  join the Beguines and Benedictines, but fai
+image: https://upload.wikimedia.org/wikipedia/commons/2/22/Colette_-_photo_Henri_Manuel.jpg
 searchAliases:
-  - "Coleta"
-  - "Coletta"
-  - "Colette Boylet"
-  - "Collette of Corbie"
-  - "Nicholette Boilet"
-  - "Nicolette"
+  - Coleta
+  - Coletta
+  - Colette Boylet
+  - Collette of Corbie
+  - Nicholette Boilet
+  - Nicolette
 birthYear: 1381
 deathYear: 1447
-born: "13 January 1381 at Corbie, Picardy, France as Nicolette Boilet, named in honor of Saint Nicholas of Myra"
-died: "6 March 1447 at Ghent, Belgium of natural causes"
-birthPlace: "Picardy, France as Nicolette Boilet, namedhonor of Saint Nicholas of Myra"
-deathPlace: "Belgiumnatural causes"
-region: "Belgium"
+born: 13 January 1381 at Corbie, Picardy, France as Nicolette Boilet, named in honor of Saint Nicholas of Myra
+died: 6 March 1447 at Ghent, Belgium of natural causes
+birthPlace: Picardy, France as Nicolette Boilet, namedhonor of Saint Nicholas of Myra
+deathPlace: Belgiumnatural causes
+region: Belgium
 feastDay:
   month: 3
   day: 6
 canonizationStatus: Saint
 vocation: []
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 patronage:
-  - "against eye disorders"
-  - "against fever"
-  - "against headaches"
-  - "against infertility"
-  - "against the death of parents"
-  - "carpenters"
-  - "craftsmen"
-  - "Poor Clares"
-  - "servants"
-  - "Corbie, France"
-  - "Ghent, Belgium"
+  - against eye disorders
+  - against fever
+  - against headaches
+  - against infertility
+  - against the death of parents
+  - carpenters
+  - craftsmen
+  - Poor Clares
+  - servants
+  - Corbie, France
+  - Ghent, Belgium
 martyr: false
+prayers: []
 ---
 
 Carpenter's daughter whose parents were near 60 at her birth. Colette was orphaned at age 17, and left in the care of a Benedictine abbot. Her guardian wanted her to marry, but Colette was drawn to religious life. She initially tried to join the Beguines and Benedictines, but failed in her vocation. Franciscan tertiary. Hermitess. On 17 September 1402, at age 21, she became an anchoress – walled into a cell whose only opening was a grilled window into a church.

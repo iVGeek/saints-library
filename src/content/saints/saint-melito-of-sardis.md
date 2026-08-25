@@ -1,16 +1,19 @@
 ---
-name: "Saint Melito of Sardis"
+name: Saint Melito of Sardis
 honorific: Saint
-summary: "Bishop of Sardis, Lydia (part of modern Turkey). Ecclesiastical writer; he wrote an Apology (defense of Christianity) addressed to emperor Marcus Aurelius. Almost nothing else is known about his life."
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Melito_bisschop_van_Sardis%2C_onderwysende_inde_Cristelyke_godsdienst%2C_objectnr_A_47730.tif/lossy-page1-960px-Melito_bisschop_van_Sardis%2C_onderwysende_inde_Cristelyke_godsdienst%2C_objectnr_A_47730.tif.jpg"
+summary: >-
+  Bishop of Sardis, Lydia (part of modern Turkey). Ecclesiastical writer; he wrote an Apology (defense of Christianity)
+  addressed to emperor Marcus Aurelius. Almost nothing else is known about his life.
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Melito_bisschop_van_Sardis%2C_onderwysende_inde_Cristelyke_godsdienst%2C_objectnr_A_47730.tif/lossy-page1-960px-Melito_bisschop_van_Sardis%2C_onderwysende_inde_Cristelyke_godsdienst%2C_objectnr_A_47730.tif.jpg
 searchAliases:
-  - "Melito of Asia"
-  - "Meliton…"
-  - "Melitone…"
-  - "Melitus…"
+  - Melito of Asia
+  - Meliton…
+  - Melitone…
+  - Melitus…
 deathYear: 180
-died: "c.180 of natural causes"
-region: "Turkey"
+died: c.180 of natural causes
+region: Turkey
 feastDay:
   month: 4
   day: 1
@@ -21,6 +24,7 @@ vocation:
   - Monk
   - Confessor
 martyr: false
+prayers: []
 ---
 
 Bishop of Sardis, Lydia (part of modern Turkey). Ecclesiastical writer; he wrote an Apology (defense of Christianity) addressed to emperor Marcus Aurelius. Almost nothing else is known about his life.

@@ -1,17 +1,20 @@
 ---
-name: "Saint Cuthbert of Lindisfarne"
+name: Saint Cuthbert of Lindisfarne
 honorific: Saint
-summary: "Orphaned at an early age. Shepherd. Received a vision of Saint Aidan of Lindesfarne entering heaven; the sight led Cuthbert to become a Benedictine monk at age 17 at the monastery of Melrose, which had been founded by Saint Aidan. Guest-master at Melrose where he was know for his"
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Cuthbert-of-Lindisfarne.jpg"
+summary: >-
+  Orphaned at an early age. Shepherd. Received a vision of Saint Aidan of Lindesfarne entering heaven; the sight led
+  Cuthbert to become a Benedictine monk at age 17 at the monastery of Melrose, which had been founded by Saint Aidan.
+  Guest-master at Melrose where he was know for his
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Cuthbert-of-Lindisfarne.jpg
 searchAliases:
-  - "Thaumaturgus of England"
-  - "Wonder-Worker of England"
+  - Thaumaturgus of England
+  - Wonder-Worker of England
 birthYear: 634
 deathYear: 687
-born: "634 somewhere in the British Isles"
-died: "20 March 687 at Lindesfarne, England of natural causes"
-deathPlace: "Englandnatural causes"
-region: "England"
+born: 634 somewhere in the British Isles
+died: 20 March 687 at Lindesfarne, England of natural causes
+deathPlace: Englandnatural causes
+region: England
 feastDay:
   month: 3
   day: 20
@@ -20,10 +23,11 @@ vocation:
   - Bishop
   - Priest
   - Confessor
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 patronage:
-  - "Lindisfarne Island"
+  - Lindisfarne Island
 martyr: false
+prayers: []
 ---
 
 Orphaned at an early age. Shepherd. Received a vision of Saint Aidan of Lindesfarne entering heaven; the sight led Cuthbert to become a Benedictine monk at age 17 at the monastery of Melrose, which had been founded by Saint Aidan. Guest-master at Melrose where he was know for his charity to poor travellers; legend says that he once entertained an angel disguised as a beggar. Spiritual student of Saint Boswell. Prior of Melrose in 664.

@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Hermogenes of Melitene"
+name: Saint Hermogenes of Melitene
 honorific: Saint
-summary: "Servant to a deacon, Saint Peter, with whom he was martyred."
-died: "Melitene, Armenia"
-deathPlace: "Armenia"
-region: "England"
+summary: Servant to a deacon, Saint Peter, with whom he was martyred.
+died: Melitene, Armenia
+deathPlace: Armenia
+region: England
 feastDay:
   month: 4
   day: 17
@@ -14,6 +14,7 @@ vocation:
   - Monk
   - Deacon
 martyr: true
+prayers: []
 ---
 
 Servant to a deacon, Saint Peter, with whom he was martyred.

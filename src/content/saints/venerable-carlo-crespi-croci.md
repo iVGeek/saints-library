@@ -1,28 +1,31 @@
 ---
-name: "Venerable Carlo Crespi Croci"
+name: Venerable Carlo Crespi Croci
 honorific: Venerable
-summary: " Missionary to Cuenca, Ecuador in 1923. He founded four s The third of thirteen children born to Daniele Crespi and Luisa Croci. He studied with and joined the Salesians of Don Bosco, making his profession in 1910. He studied in Valsalice, Italy, and was ordained a priest in 1917."
-image: "https://upload.wikimedia.org/wikipedia/commons/1/18/Crespicrocifisso.jpg"
+summary: ' Missionary to Cuenca, Ecuador in 1923. He founded four s The third of thirteen children born to Daniele Crespi and Luisa Croci. He studied with and joined the Salesians of Don Bosco, making his profession in 1910. He studied in Valsalice, Italy, and was ordained a priest in 1917.'
+image: https://upload.wikimedia.org/wikipedia/commons/1/18/Crespicrocifisso.jpg
 searchAliases:
-  - "Carlos"
+  - Carlos
 birthYear: 1891
 deathYear: 1982
-born: "29 May 1891 in Legnano, Milan, Italy"
-died: "30 April 1982 in Cuenca, Azuay, Ecuador of natural causes"
-birthPlace: "Milan, Italy"
-deathPlace: "Azuay, Ecuadornatural causes"
-region: "Ecuador"
+born: 29 May 1891 in Legnano, Milan, Italy
+died: 30 April 1982 in Cuenca, Azuay, Ecuador of natural causes
+birthPlace: Milan, Italy
+deathPlace: Azuay, Ecuadornatural causes
+region: Ecuador
 feastDay:
   month: 1
   day: 1
-centuries: [19, 20]
+centuries:
+  - 19
+  - 20
 canonizationStatus: Venerable
 vocation:
   - Priest
   - Religious
   - Missionary
-religiousOrder: "Salesian"
+religiousOrder: Salesian
 martyr: false
+prayers: []
 ---
 
 The third of thirteen children born to Daniele Crespi and Luisa Croci. He studied with and joined the Salesians of Don Bosco, making his profession in 1910. He studied in Valsalice, Italy, and was ordained a priest in 1917.

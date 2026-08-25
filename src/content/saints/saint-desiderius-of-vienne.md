@@ -31,6 +31,7 @@ patronage:
     Autun
   - Vienne
 martyr: true
+prayers: []
 ---
 
 Educated in Vienne, France and a noted classics scholar, he became an Archdeacon and then Bishop of Vienne. Exiled and deposed  for his defense of orthodox Christianity, he returned only to be assassinated. Martyr.

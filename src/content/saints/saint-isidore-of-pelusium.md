@@ -1,16 +1,19 @@
 ---
-name: "Saint Isidore of Pelusium"
+name: Saint Isidore of Pelusium
 honorific: Saint
-summary: "Hermit. Monk. Abbot. Theologian. Priest. In his desert monastic life, he tried to imitate the life and mission of Saint John the Baptist. A prolific correspondent, he wrote over 10,000 known letters, many with advice, encouragement and theological thought; over 2,000 have survive"
-image: "https://upload.wikimedia.org/wikipedia/commons/1/13/Isidore_of_Pelusium.jpg"
+summary: >-
+  Hermit. Monk. Abbot. Theologian. Priest. In his desert monastic life, he tried to imitate the life and mission of
+  Saint John the Baptist. A prolific correspondent, he wrote over 10,000 known letters, many with advice, encouragement
+  and theological thought; over 2,000 have survive
+image: https://upload.wikimedia.org/wikipedia/commons/1/13/Isidore_of_Pelusium.jpg
 searchAliases:
-  - "Isidoro"
+  - Isidoro
 birthYear: 375
 deathYear: 449
-born: "c.375 at Alexandria, Egypt"
-died: "c.449–450"
-birthPlace: "Egypt"
-region: "Italy"
+born: c.375 at Alexandria, Egypt
+died: c.449–450
+birthPlace: Egypt
+region: Italy
 feastDay:
   month: 2
   day: 4
@@ -20,6 +23,7 @@ vocation:
   - Monk
   - Hermit
 martyr: false
+prayers: []
 ---
 
 Hermit. Monk. Abbot. Theologian. Priest. In his desert monastic life, he tried to imitate the life and mission of Saint John the Baptist. A prolific correspondent, he wrote over 10,000 known letters, many with advice, encouragement and theological thought; over 2,000 have survived. Held in high regard by Saint Cyril of Alexandia.

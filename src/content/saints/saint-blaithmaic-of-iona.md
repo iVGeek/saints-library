@@ -1,16 +1,18 @@
 ---
-name: "Saint Blaithmaic of Iona"
+name: Saint Blaithmaic of Iona
 honorific: Saint
-summary: "Born a prince, the son of an Irish king. Monk. Abbot. Missionary to England and Scotland, hoping to work with the pagan Danes then invading. Martyred by them."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Blaithmaic-of-Iona.jpg"
+summary: >-
+  Born a prince, the son of an Irish king. Monk. Abbot. Missionary to England and Scotland, hoping to work with the
+  pagan Danes then invading. Martyred by them.
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Blaithmaic-of-Iona.jpg
 searchAliases:
-  - "Blathmac"
-  - "Blaithmale"
+  - Blathmac
+  - Blaithmale
 deathYear: 823
-born: "Ireland"
-died: "823 on the altar steps at Iona Abbey, Scotland"
-deathPlace: "Scotland"
-region: "Scotland"
+born: Ireland
+died: 823 on the altar steps at Iona Abbey, Scotland
+deathPlace: Scotland
+region: Scotland
 feastDay:
   month: 1
   day: 15
@@ -20,6 +22,7 @@ vocation:
   - Monk
   - Missionary
 martyr: true
+prayers: []
 ---
 
 Born a prince, the son of an Irish king. Monk. Abbot. Missionary to England and Scotland, hoping to work with the pagan Danes then invading. Martyred by them.

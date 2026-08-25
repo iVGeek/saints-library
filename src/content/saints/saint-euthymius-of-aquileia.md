@@ -17,6 +17,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/42/Athonite_Fresco_Icon_of_Saint_John_of_Damascus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Euthymius of Aquileia
 imageCreditUrl: https://en.wikipedia.org/wiki/John%20of%20Damascus
+prayers: []
 ---
 
 Martyr.

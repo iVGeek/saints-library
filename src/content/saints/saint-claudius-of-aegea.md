@@ -18,6 +18,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/6/6c/Saint_C%C3%B4me_%26_Saint_Damien_Grandes_Heures_Anne_de_Bretagne_XVIe_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Claudius of Aegea
 imageCreditUrl: https://en.wikipedia.org/wiki/Cosmas%20and%20Damian
+prayers: []
 ---
 
 Denounced by his step-mother as a Christian during the persecutions of Pro-consul Lysias. Tortured and martyred.

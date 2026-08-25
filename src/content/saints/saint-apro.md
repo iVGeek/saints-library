@@ -19,6 +19,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/f/fe/Nje_Peisazh_i_bukur_kur_mbi_qytetin_e_Krumes_dalin_dy_Ylbera.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Apro
 imageCreditUrl: https://en.wikipedia.org/wiki/Prende
+prayers: []
 ---
 
 Priest. Hermit.

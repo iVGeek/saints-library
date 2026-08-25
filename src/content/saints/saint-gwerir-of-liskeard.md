@@ -1,12 +1,14 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Gwerir of Liskeard"
+name: Saint Gwerir of Liskeard
 honorific: Saint
-summary: "Ninth century monk and hermit in Liskeard, Cornwall, England. King Alfred said to have been cured of a serious illness at Gwerir's grave. After his death, the saint's monastery cell was next occupied by Saint Neot."
+summary: >-
+  Ninth century monk and hermit in Liskeard, Cornwall, England. King Alfred said to have been cured of a serious illness
+  at Gwerir's grave. After his death, the saint's monastery cell was next occupied by Saint Neot.
 searchAliases:
-  - "Guerir"
-  - "Guier"
-region: "England"
+  - Guerir
+  - Guier
+region: England
 feastDay:
   month: 4
   day: 4
@@ -15,6 +17,7 @@ vocation:
   - Monk
   - Hermit
 martyr: false
+prayers: []
 ---
 
 Ninth century monk and hermit in Liskeard, Cornwall, England. King Alfred said to have been cured of a serious illness at Gwerir's grave. After his death, the saint's monastery cell was next occupied by Saint Neot.

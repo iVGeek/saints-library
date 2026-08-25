@@ -27,6 +27,7 @@ imageCredit: >-
   href="https://archive.org/download/cu31924012705061/cu31924012705061.pdf">https://archive.org/download/cu31924012705061/cu31924012705061.pdf</a></dd></dl>
 imageCreditUrl: >-
   https://commons.wikimedia.org/wiki/File:Simon%20Eichelkatz%3B%20The%20patriarch%3B%20two%20stories%20of%20Jewish%20life%20(IA%20cu31924012705061).pdf
+prayers: []
 ---
 
 Old Testament patriarch. Member of the fifth generation following Adam and Eve. Father of Enoch. Lived to age 962. No other information has survived.

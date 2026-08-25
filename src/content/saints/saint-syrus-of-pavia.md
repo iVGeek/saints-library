@@ -47,6 +47,7 @@ patronage:
   - Soresina
   - Sospiro
 martyr: false
+prayers: []
 ---
 
 Evangelized and served as first bishop of Pavia, Italy in the 1st century; tradition says that he was appointed by the Apostles, and an old legend says that he was the boy with five loaves who appears in the Gospels. Worked with Saint Juventius of Pavia. Fought Arianism.

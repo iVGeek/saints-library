@@ -1,9 +1,9 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Agapio of Cirtha"
+name: Saint Agapio of Cirtha
 honorific: Saint
-summary: "Bishop. Martyred in Cirtha, Nicomedia (in modern Turkey). No other information has survived."
-region: "Turkey"
+summary: Bishop. Martyred in Cirtha, Nicomedia (in modern Turkey). No other information has survived.
+region: Turkey
 feastDay:
   month: 4
   day: 28
@@ -12,6 +12,7 @@ vocation:
   - Bishop
   - Monk
 martyr: true
+prayers: []
 ---
 
 Bishop. Martyred in Cirtha, Nicomedia (in modern Turkey). No other information has survived.

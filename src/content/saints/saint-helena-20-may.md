@@ -13,6 +13,7 @@ vocation:
   - Priest
   - Monk
 martyr: true
+prayers: []
 ---
 
 One tradition makes her the daughter of Alphaeus the Apostle. Martyr.

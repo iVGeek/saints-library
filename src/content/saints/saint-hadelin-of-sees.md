@@ -1,16 +1,16 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Hadelin of Sees"
+name: Saint Hadelin of Sees
 honorific: Saint
-summary: "Benedictine monk at Saint-Calais, France. Abbot at Saint-Calais. Bishop of Sees, France for 26 years from 884."
+summary: Benedictine monk at Saint-Calais, France. Abbot at Saint-Calais. Bishop of Sees, France for 26 years from 884.
 searchAliases:
-  - "Hadelin of Seez"
-  - "Adelheim…"
-  - "Adelelmo…"
-  - "Adelino…"
+  - Hadelin of Seez
+  - Adelheim…
+  - Adelelmo…
+  - Adelino…
 deathYear: 910
-died: "c.910"
-region: "France"
+died: c.910
+region: France
 feastDay:
   month: 11
   day: 10
@@ -18,8 +18,9 @@ canonizationStatus: Saint
 vocation:
   - Bishop
   - Monk
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 martyr: false
+prayers: []
 ---
 
 Benedictine monk at Saint-Calais, France. Abbot at Saint-Calais. Bishop of Sees, France for 26 years from 884.

@@ -1,26 +1,30 @@
 ---
-name: "Blessed Hyacinth-Marie Cormier"
+name: Blessed Hyacinth-Marie Cormier
 honorific: Blessed
-summary: "Born to a family of wealthy merchants, the son of François-Bernard Cormier and Marguerite-Felicité Bracquemond, he was baptized at the age of one day with the name Louis-Stanislas-Henri Cormier, but his family always called him Henri. His father died when Louis was a small boy, h"
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Hyacinth-Marie-Cormier.jpg"
+summary: >-
+  Born to a family of wealthy merchants, the son of François-Bernard Cormier and Marguerite-Felicité Bracquemond, he was
+  baptized at the age of one day with the name Louis-Stanislas-Henri Cormier, but his family always called him Henri.
+  His father died when Louis was a small boy, h
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Hyacinth-Marie-Cormier.jpg
 searchAliases:
-  - "Louis-Stanislas-Henri Cormier"
-  - "Henri Cormier Bracquemond"
+  - Louis-Stanislas-Henri Cormier
+  - Henri Cormier Bracquemond
 birthYear: 1832
 deathYear: 1916
-born: "8 December 1832 in Orléans, Loiret, France as Henri Cormier Bracquemond"
-died: "12:30pm on 17 December 1916 at the priory of the Basilica of San Clemente in Rome, Italy of natural causes"
-birthPlace: "Loiret, France as Henri Cormier Bracquemond"
-deathPlace: "Italynatural causes"
-region: "France"
+born: 8 December 1832 in Orléans, Loiret, France as Henri Cormier Bracquemond
+died: 12:30pm on 17 December 1916 at the priory of the Basilica of San Clemente in Rome, Italy of natural causes
+birthPlace: Loiret, France as Henri Cormier Bracquemond
+deathPlace: Italynatural causes
+region: France
 feastDay:
   month: 5
   day: 21
 canonizationStatus: Blessed
 vocation:
   - Confessor
-religiousOrder: "Dominican"
+religiousOrder: Dominican
 martyr: false
+prayers: []
 ---
 
 Born to a family of wealthy merchants, the son of François-Bernard Cormier and Marguerite-Felicité Bracquemond, he was baptized at the age of one day with the name Louis-Stanislas-Henri Cormier, but his family always called him Henri. His father died when Louis was a small boy, his brother soon after, and his uncle, a parish priest, helped raise him. Studied at home, then with the Christian Brothers, and entered the minor seminary in the diocese of Orléans, France at age 13. Could play the flageolet (a woodwind similar to a recorder), organ and ophicleide (a brass, trumpet-like instrument), and was known as a fine singer; Franz Liszt is reported to have admired Louis' skills at the organ.

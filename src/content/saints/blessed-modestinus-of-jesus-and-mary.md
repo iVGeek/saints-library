@@ -1,18 +1,21 @@
 ---
-name: "Blessed Modestinus of Jesus and Mary"
+name: Blessed Modestinus of Jesus and Mary
 honorific: Blessed
-summary: "Born to a poor, working-class family; his father prepared hemp for use in rope making, and his mother worked as a weaver. An active and enthusiastic altar boy, Dominic early felt a call to religious life and began studying at the seminary in Aversa, Italy at age 18. He joined the"
-image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Modestinus-of-Jesus-and-Mary.jpg"
+summary: >-
+  Born to a poor, working-class family; his father prepared hemp for use in rope making, and his mother worked as a
+  weaver. An active and enthusiastic altar boy, Dominic early felt a call to religious life and began studying at the
+  seminary in Aversa, Italy at age 18. He joined the
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Modestinus-of-Jesus-and-Mary.jpg
 searchAliases:
-  - "Dominic Mazzarella"
-  - "Modestino of Jesus and Mary"
+  - Dominic Mazzarella
+  - Modestino of Jesus and Mary
 birthYear: 1802
 deathYear: 1854
-born: "5 September 1802 in Frattamaggiore, Diocese of Aversa, Naples, Italy as Dominic"
-died: "24 July 1854 in Naples, Italy of cholera"
-birthPlace: "DioceseAversa, Naples, Italy as Dominic"
-deathPlace: "Italycholera"
-region: "Italy"
+born: 5 September 1802 in Frattamaggiore, Diocese of Aversa, Naples, Italy as Dominic
+died: 24 July 1854 in Naples, Italy of cholera
+birthPlace: DioceseAversa, Naples, Italy as Dominic
+deathPlace: Italycholera
+region: Italy
 feastDay:
   month: 7
   day: 24
@@ -20,8 +23,9 @@ canonizationStatus: Blessed
 vocation:
   - Priest
   - Confessor
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 martyr: false
+prayers: []
 ---
 
 Born to a poor, working-class family; his father prepared hemp for use in rope making, and his mother worked as a weaver. An active and enthusiastic altar boy, Dominic early felt a call to religious life and began studying at the seminary in Aversa, Italy at age 18. He joined the Franciscan Friars Minor Alcantarini at Grumo Nevano, Italy in 1822, taking the name Modestinus of Jesus and Mary, and began his novitiate at the Santa Lucia convent in Naples, Italy. He made his profession on 27 November 1824, began his studies in philosophy and theology, and was ordained a priest on 22 December 1827 in Aversa. 

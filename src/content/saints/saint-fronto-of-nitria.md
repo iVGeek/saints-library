@@ -1,14 +1,14 @@
 ---
-name: "Saint Fronto of Nitria"
+name: Saint Fronto of Nitria
 honorific: Saint
-summary: "Hermit. Monk. Abbot of a group of monks in the Nitria Desert in Egypt."
-image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Fronto-of-Nitria.jpg"
+summary: Hermit. Monk. Abbot of a group of monks in the Nitria Desert in Egypt.
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Fronto-of-Nitria.jpg
 searchAliases:
-  - "Frontone"
-  - "Frontonio"
-  - "Frontom"
-died: "late 2nd century Egypt"
-region: "Egypt"
+  - Frontone
+  - Frontonio
+  - Frontom
+died: late 2nd century Egypt
+region: Egypt
 feastDay:
   month: 4
   day: 14
@@ -17,6 +17,7 @@ vocation:
   - Monk
   - Hermit
 martyr: false
+prayers: []
 ---
 
 Hermit. Monk. Abbot of a group of monks in the Nitria Desert in Egypt.

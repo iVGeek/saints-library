@@ -1,27 +1,28 @@
 ---
-name: "Saint Agnes of Prague"
+name: Saint Agnes of Prague
 honorific: Saint
-summary: " Educated by Cistercian nuns at Trebnitz, Germany. Though she early perceived a call to religious life, Agnes was for years promised into a series of ar Born a princess, the youngest daughter of King Ottokar I and Queen Constance of Bohemia. Relative of Saint Elizabeth of Hungary."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Agnes-of-Prague.jpg"
+summary: ' Educated by Cistercian nuns at Trebnitz, Germany. Though she early perceived a call to religious life, Agnes was for years promised into a series of ar Born a princess, the youngest daughter of King Ottokar I and Queen Constance of Bohemia. Relative of Saint Elizabeth of Hungary.'
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Agnes-of-Prague.jpg
 searchAliases:
-  - "Anežka Ceská"
-  - "Anežka Premyslovna"
-  - "Agnes of Bohemia"
+  - Anežka Ceská
+  - Anežka Premyslovna
+  - Agnes of Bohemia
 birthYear: 1205
 deathYear: 1282
-born: "1205 at Prague, Bohemia (modern Czech Republic)"
-died: "6 March 1282 at Saint Saviour convent, Prague, Bohemia of natural causes"
-birthPlace: "Bohemia (modern Czech Republic)"
-deathPlace: "Prague, Bohemianatural causes"
-region: "Czech Republic"
+born: 1205 at Prague, Bohemia (modern Czech Republic)
+died: 6 March 1282 at Saint Saviour convent, Prague, Bohemia of natural causes
+birthPlace: Bohemia (modern Czech Republic)
+deathPlace: Prague, Bohemianatural causes
+region: Czech Republic
 feastDay:
   month: 3
   day: 2
 canonizationStatus: Saint
 vocation:
   - Confessor
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 martyr: false
+prayers: []
 ---
 
 Born a princess, the youngest daughter of King Ottokar I and Queen Constance of Bohemia. Relative of Saint Elizabeth of Hungary.

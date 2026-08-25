@@ -22,6 +22,7 @@ image: >-
 imageAlt: Portrait of Saint Camella of Ricaud
 imageCredit: Bibliothèque nationale de France
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:Sainte-Beuve%20-%20Po%C3%A9sies%201863.djvu
+prayers: []
 ---
 
 Martyr in the diocese of Mirepoix, France, killed by invading Visigoths. A church, a small village, and a healing well in the area are named for her; water from the well has a reputation for healing eye problems.

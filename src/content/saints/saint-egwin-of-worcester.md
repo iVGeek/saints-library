@@ -1,19 +1,19 @@
 ---
-name: "Saint Egwin of Worcester"
+name: Saint Egwin of Worcester
 honorific: Saint
-summary: " There was a need in his diocese for some reform, but Egwin let it get out of hand, and he was charged with being too severe with English nobility, and the descendant of Mercian kings. Consecrated to God in his youth. Benedictine monk. Bishop of Worcester, England from 692 to 711."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Egwin-of-Worcester.jpg"
+summary: ' There was a need in his diocese for some reform, but Egwin let it get out of hand, and he was charged with being too severe with English nobility, and the descendant of Mercian kings. Consecrated to God in his youth. Benedictine monk. Bishop of Worcester, England from 692 to 711.'
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Egwin-of-Worcester.jpg
 searchAliases:
-  - "Egwin of Evesham"
-  - "Ecgwin…."
-  - "Ecgwine…."
-  - "Eegwine…."
-  - "Egvino…."
-  - "Egwinus…."
+  - Egwin of Evesham
+  - Ecgwin….
+  - Ecgwine….
+  - Eegwine….
+  - Egvino….
+  - Egwinus….
 deathYear: 717
-born: "7th century England"
-died: "30 December 717 of natural causes"
-region: "Italy"
+born: 7th century England
+died: 30 December 717 of natural causes
+region: Italy
 feastDay:
   month: 12
   day: 30
@@ -22,11 +22,15 @@ vocation:
   - Bishop
   - Priest
   - Confessor
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 patronage:
-  - "in England\n\nEvesham"
-  - "Worcester"
+  - |-
+    in England
+
+    Evesham
+  - Worcester
 martyr: false
+prayers: []
 ---
 
 English nobility, and the descendant of Mercian kings. Consecrated to God in his youth. Benedictine monk. Bishop of Worcester, England from 692 to 711.

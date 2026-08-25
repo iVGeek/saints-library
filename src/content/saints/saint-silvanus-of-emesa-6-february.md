@@ -1,14 +1,14 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Silvanus of Emesa"
+name: Saint Silvanus of Emesa
 honorific: Saint
-summary: "Bishop of Emesa, Phoenicia for 40 years. Martyred in the persecutions of Maximian."
+summary: Bishop of Emesa, Phoenicia for 40 years. Martyred in the persecutions of Maximian.
 searchAliases:
-  - "Silvano"
+  - Silvano
 deathYear: 311
-died: "thrown to wild animals c.311 in Emesa, Phoenicia (modern Homs, Syria)"
-deathPlace: "Phoenicia (modern Homs, Syria)"
-region: "Italy"
+died: thrown to wild animals c.311 in Emesa, Phoenicia (modern Homs, Syria)
+deathPlace: Phoenicia (modern Homs, Syria)
+region: Italy
 feastDay:
   month: 2
   day: 6
@@ -17,6 +17,7 @@ vocation:
   - Bishop
   - Monk
 martyr: true
+prayers: []
 ---
 
 Bishop of Emesa, Phoenicia for 40 years. Martyred in the persecutions of Maximian.

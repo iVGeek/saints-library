@@ -19,6 +19,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/4e/TR_Colossae_site_asv2020-02_img08.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Epaphras of Colosse
 imageCreditUrl: https://en.wikipedia.org/wiki/Colossae
+prayers: []
 ---
 
 First century missionary to Colossae, Laodicea And Hierapolis. Bishop of Colossae. Martyr. Saint Paul mentions him.

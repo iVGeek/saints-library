@@ -1,10 +1,10 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Rufinus of Marsi"
+name: Saint Rufinus of Marsi
 honorific: Saint
-summary: "Early bishop. Martyred with several Christian companions whose names have not come down to us."
-died: "in Italy"
-region: "Italy"
+summary: Early bishop. Martyred with several Christian companions whose names have not come down to us.
+died: in Italy
+region: Italy
 feastDay:
   month: 8
   day: 11
@@ -13,6 +13,7 @@ vocation:
   - Bishop
   - Monk
 martyr: true
+prayers: []
 ---
 
 Early bishop. Martyred with several Christian companions whose names have not come down to us.

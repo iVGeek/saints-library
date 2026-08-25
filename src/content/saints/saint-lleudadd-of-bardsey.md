@@ -1,20 +1,20 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Lleudadd of Bardsey"
+name: Saint Lleudadd of Bardsey
 honorific: Saint
-summary: "Monk. Abbot of Bardsey, Gwynedd, Wales. Worked with Saint Cadfan in Brittany."
+summary: Monk. Abbot of Bardsey, Gwynedd, Wales. Worked with Saint Cadfan in Brittany.
 searchAliases:
-  - "Lleudadd of Enli"
-  - "Lleudadd of Bardsey Island"
-  - "Laudat of…"
-  - "Laudatus of…"
-  - "Leuddade of…"
-  - "Lawdog of…"
-  - "Llawddog of…"
-  - "Llendadd of…"
-born: "Welsh"
-died: "6th century Wales of natural causes"
-region: "England"
+  - Lleudadd of Enli
+  - Lleudadd of Bardsey Island
+  - Laudat of…
+  - Laudatus of…
+  - Leuddade of…
+  - Lawdog of…
+  - Llawddog of…
+  - Llendadd of…
+born: Welsh
+died: 6th century Wales of natural causes
+region: England
 feastDay:
   month: 1
   day: 15
@@ -22,6 +22,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: false
+prayers: []
 ---
 
 Monk. Abbot of Bardsey, Gwynedd, Wales. Worked with Saint Cadfan in Brittany.

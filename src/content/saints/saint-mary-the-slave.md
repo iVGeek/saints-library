@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Mary the Slave"
+name: Saint Mary the Slave
 honorific: Saint
-summary: "Christian slave in the house of Tertullus, a patrician in Rome, Italy. Martyred in the persecutions of Diocletian."
+summary: Christian slave in the house of Tertullus, a patrician in Rome, Italy. Martyred in the persecutions of Diocletian.
 deathYear: 300
-died: "c.300"
-region: "Italy"
+died: c.300
+region: Italy
 feastDay:
   month: 11
   day: 1
@@ -14,6 +14,7 @@ vocation:
   - Priest
   - Monk
 martyr: true
+prayers: []
 ---
 
 Christian slave in the house of Tertullus, a patrician in Rome, Italy. Martyred in the persecutions of Diocletian.

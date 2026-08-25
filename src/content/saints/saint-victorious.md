@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Victorious"
+name: Saint Victorious
 honorific: Saint
-summary: "Martyred in the persecutions of the Arian Vandal king Huneric."
+summary: Martyred in the persecutions of the Arian Vandal king Huneric.
 deathYear: 484
-died: "484 somewhere in North Africa"
-region: "Italy"
+died: 484 somewhere in North Africa
+region: Italy
 feastDay:
   month: 12
   day: 6
@@ -14,6 +14,7 @@ vocation:
   - Priest
   - Monk
 martyr: true
+prayers: []
 ---
 
 Martyred in the persecutions of the Arian Vandal king Huneric.

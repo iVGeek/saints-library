@@ -18,6 +18,7 @@ vocation:
 patronage:
   - Ales-Terralba, Italy, diocese of
 martyr: true
+prayers: []
 ---
 
 Martyred in the persecutions of Hadrian.

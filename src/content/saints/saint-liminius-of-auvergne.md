@@ -1,18 +1,20 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Liminius of Auvergne"
+name: Saint Liminius of Auvergne
 honorific: Saint
-summary: "Companion of Saint Antholian of Auvergne. Martyred by pagan Alamanni under the leadership of Chrocus during their invasion of the Auvergne region of Gaul. Saint Gregory of Tours wrote about him in his history of the time."
+summary: >-
+  Companion of Saint Antholian of Auvergne. Martyred by pagan Alamanni under the leadership of Chrocus during their
+  invasion of the Auvergne region of Gaul. Saint Gregory of Tours wrote about him in his history of the time.
 searchAliases:
-  - "Limin"
-  - "Liminéè"
-  - "Limineo"
-  - "Limiunius"
-  - "Linguin"
+  - Limin
+  - Liminéè
+  - Limineo
+  - Limiunius
+  - Linguin
 deathYear: 265
-died: "c.265 in Auvergne, France"
-deathPlace: "France"
-region: "France"
+died: c.265 in Auvergne, France
+deathPlace: France
+region: France
 feastDay:
   month: 5
   day: 13
@@ -22,6 +24,7 @@ vocation:
   - Monk
   - Confessor
 martyr: true
+prayers: []
 ---
 
 Companion of Saint Antholian of Auvergne. Martyred by pagan Alamanni under the leadership of Chrocus during their invasion of the Auvergne region of Gaul. Saint Gregory of Tours wrote about him in his history of the time.

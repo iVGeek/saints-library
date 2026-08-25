@@ -11,6 +11,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 One of a group of 3rd-century Christians martyred in North Africa in the persecutions of Decius.

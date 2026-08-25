@@ -25,6 +25,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/1/1c/Kilbennan_St._Benin%27s_Church_Window_St._Colman_Detail_2010_09_16.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Aidan of Mayo
 imageCreditUrl: https://en.wikipedia.org/wiki/Colm%C3%A1n%20of%20Lindisfarne
+prayers: []
 ---
 
 Eighth-century abbot–bishop of Mayo, Ireland.

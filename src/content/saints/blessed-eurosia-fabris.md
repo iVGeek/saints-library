@@ -1,19 +1,22 @@
 ---
-name: "Blessed Eurosia Fabris"
+name: Blessed Eurosia Fabris
 honorific: Blessed
-summary: "Born to a farm family, the daughter of Luigi and Maria Fabris, she grew up with the nickname Rosina. In 1870, when Eurosia was four, the family moved to Marola di Torri, Italy where she lived the rest of her life. She had only two years of school, forced to leave in 1874 at age e"
-image: "https://upload.wikimedia.org/wikipedia/commons/1/11/Beata_Eurosia.jpg"
+summary: >-
+  Born to a farm family, the daughter of Luigi and Maria Fabris, she grew up with the nickname Rosina. In 1870, when
+  Eurosia was four, the family moved to Marola di Torri, Italy where she lived the rest of her life. She had only two
+  years of school, forced to leave in 1874 at age e
+image: https://upload.wikimedia.org/wikipedia/commons/1/11/Beata_Eurosia.jpg
 searchAliases:
-  - "Eurosia Fabris Barban"
-  - "Mamma Rosa"
-  - "Rosina Fabris"
+  - Eurosia Fabris Barban
+  - Mamma Rosa
+  - Rosina Fabris
 birthYear: 1866
 deathYear: 1932
-born: "27 September 1866 in Quinto Vicentino, Italy"
-died: "8 January 1932 at Marola di Torri, Vicenza, Italy of natural causes"
-birthPlace: "Italy"
-deathPlace: "Vicenza, Italynatural causes"
-region: "Italy"
+born: 27 September 1866 in Quinto Vicentino, Italy
+died: 8 January 1932 at Marola di Torri, Vicenza, Italy of natural causes
+birthPlace: Italy
+deathPlace: Vicenza, Italynatural causes
+region: Italy
 feastDay:
   month: 1
   day: 8
@@ -22,8 +25,9 @@ vocation:
   - Virgin
   - Priest
   - Cardinal
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 martyr: false
+prayers: []
 ---
 
 Born to a farm family, the daughter of Luigi and Maria Fabris, she grew up with the nickname Rosina. In 1870, when Eurosia was four, the family moved to Marola di Torri, Italy where she lived the rest of her life. She had only two years of school, forced to leave in 1874 at age eight to help her parents on the farm. Rosina learned dress-making from her mother. She made her First Communion at age twelve, and joined the Association of the Daughters of Mary at Marola. She was strongly devoted to the Holy Spirit, the infant Jesus, the Cross of Christ, the Eucharist, the Virgin Mary, and the souls in the Purgatory. In her teens she taught catechism to children, and taught girls to sew. She received several marriage proposals but repeatedly turned them down.

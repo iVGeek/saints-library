@@ -1,18 +1,21 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Nicholas Woodfen"
+name: Blessed Nicholas Woodfen
 honorific: Blessed
-summary: "Studied in Rheims, France. Priest. Returned to London, England to minister to covert Catholics at the Inns of Court, all the while living in Fleet Street under the name Woodfen and dressing like a lawyer. He was eventually imprisoned, tortured and executed for the crime of being"
+summary: >-
+  Studied in Rheims, France. Priest. Returned to London, England to minister to covert Catholics at the Inns of Court,
+  all the while living in Fleet Street under the name Woodfen and dressing like a lawyer. He was eventually imprisoned,
+  tortured and executed for the crime of being
 searchAliases:
-  - "Nicholas Wheeler"
-  - "Nicolas…"
+  - Nicholas Wheeler
+  - Nicolas…
 birthYear: 1550
 deathYear: 1586
-born: "c.1550 in Leominster, Herefordshire, England"
-died: "hanged, drawn, and quartered on 21 January 1586 at Tyburn, London, England"
-birthPlace: "Herefordshire, England"
-deathPlace: "drawn, and quartered on 21 January 1586 at Tyburn, London, England"
-region: "France"
+born: c.1550 in Leominster, Herefordshire, England
+died: hanged, drawn, and quartered on 21 January 1586 at Tyburn, London, England
+birthPlace: Herefordshire, England
+deathPlace: drawn, and quartered on 21 January 1586 at Tyburn, London, England
+region: France
 feastDay:
   month: 1
   day: 21
@@ -21,6 +24,7 @@ vocation:
   - Priest
   - Confessor
 martyr: true
+prayers: []
 ---
 
 Studied in Rheims, France. Priest. Returned to London, England to minister to covert Catholics at the Inns of Court, all the while living in Fleet Street under the name Woodfen and dressing like a lawyer. He was eventually imprisoned, tortured and executed for the crime of being a priest. Martyr.

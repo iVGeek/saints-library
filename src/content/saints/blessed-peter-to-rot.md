@@ -1,15 +1,20 @@
 ---
-name: "Blessed Peter To Rot"
+name: Blessed Peter To Rot
 honorific: Blessed
-summary: "Son of Angelo To Puia, a village chief, and Maria la Tumul, an adult converts who were part of the region's first generation of Catholics. Peter was a pious boy, and though somewhat drawn to religious life, he became a lay catechist and worked with missionaries in the area. An ex"
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Peter-To-Rot.jpg"
+summary: >-
+  Son of Angelo To Puia, a village chief, and Maria la Tumul, an adult converts who were part of the region's first
+  generation of Catholics. Peter was a pious boy, and though somewhat drawn to religious life, he became a lay catechist
+  and worked with missionaries in the area. An ex
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Peter-To-Rot.jpg
 birthYear: 1912
 deathYear: 1945
-born: "1912 in Rakunai, East New Britain (part of modern Papua New Guinea)"
-died: "poisoned and suffocated on 7 July 1945 in a Japanese concentration camp at Rakunai, East New Britain (part of modern Papua New Guinea)"
-birthPlace: "East New Brita(part of modern Papua New Guinea)"
-deathPlace: "East New Brita(part of modern Papua New Guinea)"
-region: "Japan"
+born: 1912 in Rakunai, East New Britain (part of modern Papua New Guinea)
+died: >-
+  poisoned and suffocated on 7 July 1945 in a Japanese concentration camp at Rakunai, East New Britain (part of modern
+  Papua New Guinea)
+birthPlace: East New Brita(part of modern Papua New Guinea)
+deathPlace: East New Brita(part of modern Papua New Guinea)
+region: Japan
 feastDay:
   month: 7
   day: 7
@@ -17,6 +22,7 @@ canonizationStatus: Blessed
 vocation:
   - Priest
 martyr: true
+prayers: []
 ---
 
 Son of Angelo To Puia, a village chief, and Maria la Tumul, an adult converts who were part of the region's first generation of Catholics. Peter was a pious boy, and though somewhat drawn to religious life, he became a lay catechist and worked with missionaries in the area. An excellent teacher and organizer of classes, he constantly carried and taught from his Bible. Married to Paula la Varpit on 11 November 1936. Father of three; one child died in infancy, another soon after the War.

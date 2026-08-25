@@ -1,32 +1,38 @@
 ---
-name: "Saint Giovanni Battista Scalabrini"
+name: Saint Giovanni Battista Scalabrini
 honorific: Venerable
-summary: "Third of eight children in a deeply religious family. Studied philosophy and theology at the seminary at Como, Italy. Ordained on 30 May 1863. Professor and rector of Saint Abundius Seminary. Pastor of Saint Bartholomew's Church in 1870. Bishop of Piacenza, Italy on 30 January 18"
-image: "https://upload.wikimedia.org/wikipedia/commons/5/51/Giovanni_Battista_Scalabrini.jpg"
+summary: >-
+  Third of eight children in a deeply religious family. Studied philosophy and theology at the seminary at Como, Italy.
+  Ordained on 30 May 1863. Professor and rector of Saint Abundius Seminary. Pastor of Saint Bartholomew's Church in
+  1870. Bishop of Piacenza, Italy on 30 January 18
+image: https://upload.wikimedia.org/wikipedia/commons/5/51/Giovanni_Battista_Scalabrini.jpg
 searchAliases:
-  - "John Baptist Scalabrini"
-  - "Apostle of the Catechism"
-  - "Father of Migrants"
+  - John Baptist Scalabrini
+  - Apostle of the Catechism
+  - Father of Migrants
 birthYear: 1839
 deathYear: 1905
-born: "8 July 1839 at Fino Mornasco, Como, Italy"
-died: "dawn on the feast of the Ascension of the Lord, 1 June 1905 in Piacenza, Italy of natural causes"
-birthPlace: "Como, Italy"
-deathPlace: "1 June 1905Piacenza, Italy of natural causes"
-region: "France"
+born: 8 July 1839 at Fino Mornasco, Como, Italy
+died: dawn on the feast of the Ascension of the Lord, 1 June 1905 in Piacenza, Italy of natural causes
+birthPlace: Como, Italy
+deathPlace: 1 June 1905Piacenza, Italy of natural causes
+region: France
 feastDay:
   month: 6
   day: 1
-centuries: [19, 20]
+centuries:
+  - 19
+  - 20
 canonizationStatus: Venerable
 vocation:
   - Bishop
   - Priest
   - Missionary
-religiousOrder: "Lazarist"
+religiousOrder: Lazarist
 patronage:
-  - "Scalabrinians"
+  - Scalabrinians
 martyr: false
+prayers: []
 ---
 
 Third of eight children in a deeply religious family. Studied philosophy and theology at the seminary at Como, Italy. Ordained on 30 May 1863. Professor and rector of Saint Abundius Seminary. Pastor of Saint Bartholomew's Church in 1870. Bishop of Piacenza, Italy on 30 January 1876 at age 36.

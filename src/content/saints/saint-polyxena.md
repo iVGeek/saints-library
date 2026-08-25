@@ -13,6 +13,7 @@ vocation:
   - Priest
   - Monk
 martyr: false
+prayers: []
 ---
 
 Spiritual student of the Apostles.

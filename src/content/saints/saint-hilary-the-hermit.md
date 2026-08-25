@@ -1,10 +1,10 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Hilary the Hermit"
+name: Saint Hilary the Hermit
 honorific: Saint
-summary: "Hermit. Martyr."
-died: "France"
-region: "France"
+summary: Hermit. Martyr.
+died: France
+region: France
 feastDay:
   month: 9
   day: 27
@@ -13,6 +13,7 @@ vocation:
   - Monk
   - Hermit
 martyr: true
+prayers: []
 ---
 
 Hermit. Martyr.

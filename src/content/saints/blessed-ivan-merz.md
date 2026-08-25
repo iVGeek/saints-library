@@ -1,17 +1,20 @@
 ---
-name: "Blessed Ivan Merz"
+name: Blessed Ivan Merz
 honorific: Blessed
-summary: "Educated in Banja Luka, briefly in a military academy, and in Vienna, Austria. Fought on the Italian front of World War I. After the war he studied again in Vienna, in Paris, France, and then taught French language and literature at the University of Zagreb, from which he receive"
-image: "https://upload.wikimedia.org/wikipedia/commons/a/a8/Bl_Ivan_Merz_u_Bazilici_Srca_Isusova_13_rujna_2008.jpg"
+summary: >-
+  Educated in Banja Luka, briefly in a military academy, and in Vienna, Austria. Fought on the Italian front of World
+  War I. After the war he studied again in Vienna, in Paris, France, and then taught French language and literature at
+  the University of Zagreb, from which he receive
+image: https://upload.wikimedia.org/wikipedia/commons/a/a8/Bl_Ivan_Merz_u_Bazilici_Srca_Isusova_13_rujna_2008.jpg
 searchAliases:
-  - "John Merz"
+  - John Merz
 birthYear: 1896
 deathYear: 1928
-born: "16 December 1896 in Banja Luka, Bosnia and Herzegovina"
-died: "10 May 1928 in Zagreb, Croatia of natural causes"
-birthPlace: "Bosnia and Herzegovina"
-deathPlace: "Croatianatural causes"
-region: "Austria"
+born: 16 December 1896 in Banja Luka, Bosnia and Herzegovina
+died: 10 May 1928 in Zagreb, Croatia of natural causes
+birthPlace: Bosnia and Herzegovina
+deathPlace: Croatianatural causes
+region: Austria
 feastDay:
   month: 5
   day: 10
@@ -20,6 +23,7 @@ vocation:
   - Priest
   - Soldier
 martyr: false
+prayers: []
 ---
 
 Educated in Banja Luka, briefly in a military academy, and in Vienna, Austria. Fought on the Italian front of World War I. After the war he studied again in Vienna, in Paris, France, and then taught French language and literature at the University of Zagreb, from which he received his Ph.D. in philosophy.

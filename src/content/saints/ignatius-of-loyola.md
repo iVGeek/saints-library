@@ -2,7 +2,9 @@
 name: Ignatius of Loyola
 honorific: Saint
 title: Priest, Founder of the Society of Jesus
-summary: The wounded soldier of Pamplona who became the founder of the Jesuits and the author of the Spiritual Exercises — a saint of discernment and "finding God in all things."
+summary: >-
+  The wounded soldier of Pamplona who became the founder of the Jesuits and the author of the Spiritual Exercises — a
+  saint of discernment and "finding God in all things."
 image: https://upload.wikimedia.org/wikipedia/commons/f/f9/Ignatius_Loyola.jpg
 imageAlt: Portrait of Ignatius of Loyola
 imageCredit: Wikimedia Commons
@@ -17,8 +19,10 @@ born: 23 October 1491
 died: 31 July 1556
 birthPlace: Loyola, Spain
 deathPlace: Rome, Italy
-region: "France"
-centuries: [15, 16]
+region: France
+centuries:
+  - 15
+  - 16
 feastDay:
   month: 7
   day: 31
@@ -48,61 +52,54 @@ symbols:
   - Sacred Heart
 martyr: false
 lifeEvents:
-  - year: "1491"
+  - year: '1491'
     event: Born Iñigo López de Loyola at the castle of Loyola in the Basque country.
-  - year: "1521"
+  - year: '1521'
     event: Wounded in the leg by a cannonball at Pamplona; during his convalescence reads the lives of Christ and the saints.
-  - year: "1522"
+  - year: '1522'
     event: At the shrine of Montserrat and the cave of Manresa, composes the first draft of the Spiritual Exercises.
-  - year: "1523–1535"
+  - year: 1523–1535
     event: Pilgrim to Jerusalem; studies at Barcelona, Alcalá, Salamanca, and Paris.
-  - year: "1534"
+  - year: '1534'
     event: With six companions vows poverty, chastity, and obedience at Montmartre, Paris.
-  - year: "1540"
+  - year: '1540'
     event: Pope Paul III approves the Society of Jesus; Ignatius becomes its first superior general.
-  - year: "1540–1556"
+  - year: 1540–1556
     event: From Rome, governs the growing order and its worldwide missions by correspondence.
-  - year: "31 July 1556"
+  - year: 31 July 1556
     event: Dies in Rome.
-  - year: "1622"
+  - year: '1622'
     event: Canonized with Francis Xavier by Pope Gregory XV.
 quotes:
-  - text: >-
-      Take, Lord, and receive all my liberty, my memory, my understanding, and my entire will.
+  - text: Take, Lord, and receive all my liberty, my memory, my understanding, and my entire will.
     source: The Spiritual Exercises, no. 234 (Suscipe)
-  - text: >-
-      In all things may God be loved and served.
+  - text: In all things may God be loved and served.
     source: Motto of the Society of Jesus
-  - text: >-
-      It is not the way of our holy mother the Church to do things in a hurry.
+  - text: It is not the way of our holy mother the Church to do things in a hurry.
     source: Letter to a priest in Portugal (1556)
 prayers:
   - name: Suscipe (Take, Lord, Receive)
     kind: Prayer of total surrender from the Spiritual Exercises
     text: >-
-      Take, Lord, and receive all my liberty, my memory, my understanding, and my entire will —
-      all that I have and call my own. You have given all to me. To you, Lord, I return it.
-      Everything is yours; do with it what you will. Give me only your love and your grace;
-      that is enough for me. Amen.
+      Take, Lord, and receive all my liberty, my memory, my understanding, and my entire will — all that I have and call
+      my own. You have given all to me. To you, Lord, I return it. Everything is yours; do with it what you will. Give
+      me only your love and your grace; that is enough for me. Amen.
   - name: Prayer of Discernment
     kind: Traditional Jesuit prayer for choosing rightly
     text: >-
-      O Lord, teach me to seek You in all things and to find You in all things. Give me wisdom
-      to discern your will in the choices before me, courage to follow what You show me, and
-      freedom to love You above all things. Amen.
-  - name: "Novena to Saint Ignatius of Loyola"
-    kind: "Novena — nine-day prayer for discernment"
+      O Lord, teach me to seek You in all things and to find You in all things. Give me wisdom to discern your will in
+      the choices before me, courage to follow what You show me, and freedom to love You above all things. Amen.
+  - name: Novena to Saint Ignatius of Loyola
+    kind: Novena — nine-day prayer for discernment
     text: >-
-      O Saint Ignatius of Loyola, soldier of Christ and founder of the Society of Jesus,
-      I turn to you in this novena seeking the gift of discernment. You who found God in all
-      things, teach me to seek His will in the ordinary moments of my life. You who wrote the
-      Spiritual Exercises to lead souls to perfect freedom, guide me through the interior
-      movements of grace and temptation. Grant me the wisdom to know God's plan for me, the
-      courage to follow it without hesitation, and the freedom to surrender all that I have and
-      am to His loving hands. Like you, who hung your sword before the altar of Our Lady at
-      Montserrat, may I lay down my own will and take up the mission God has prepared for me.
-      O Ignatius, obtain for me the grace of generous discipleship and the consolation of
-      knowing that in all things, God's greater glory may be served. Amen.
+      O Saint Ignatius of Loyola, soldier of Christ and founder of the Society of Jesus, I turn to you in this novena
+      seeking the gift of discernment. You who found God in all things, teach me to seek His will in the ordinary
+      moments of my life. You who wrote the Spiritual Exercises to lead souls to perfect freedom, guide me through the
+      interior movements of grace and temptation. Grant me the wisdom to know God's plan for me, the courage to follow
+      it without hesitation, and the freedom to surrender all that I have and am to His loving hands. Like you, who hung
+      your sword before the altar of Our Lady at Montserrat, may I lay down my own will and take up the mission God has
+      prepared for me. O Ignatius, obtain for me the grace of generous discipleship and the consolation of knowing that
+      in all things, God's greater glory may be served. Amen.
 relatedSaints:
   - name: Francis of Assisi
     slug: francis-of-assisi

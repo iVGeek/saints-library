@@ -1,25 +1,28 @@
 ---
-name: "Saint Adelelmus"
+name: Saint Adelelmus
 honorific: Saint
-summary: "Manservant. Soldier for France, with a promising career. While on pilgrimage to Rome, Italy, he met Saint Robert at the Chaise-Dieu monastery in Issoire (in modern France). Soon after, Adelelmus retired from military life to become a Benedictine monk at Issoire under the spiritua"
-image: "http://catholicsaints.info/wp-content/uploads/LesmesBurgos.jpg"
+summary: >-
+  Manservant. Soldier for France, with a promising career. While on pilgrimage to Rome, Italy, he met Saint Robert at
+  the Chaise-Dieu monastery in Issoire (in modern France). Soon after, Adelelmus retired from military life to become a
+  Benedictine monk at Issoire under the spiritua
+image: http://catholicsaints.info/wp-content/uploads/LesmesBurgos.jpg
 searchAliases:
-  - "Adelelm"
-  - "Adelelmo"
-  - "Adelhelm"
-  - "Adelmus"
-  - "Aleaunie"
-  - "Aleaume"
-  - "Alleaume"
-  - "Elesmes"
-  - "Elesmo"
-  - "Lesmes"
+  - Adelelm
+  - Adelelmo
+  - Adelhelm
+  - Adelmus
+  - Aleaunie
+  - Aleaume
+  - Alleaume
+  - Elesmes
+  - Elesmo
+  - Lesmes
 deathYear: 1100
-born: "11th century at Laudun, Poitou, France"
-died: "c.1100 at Burgos, Castilla la Vieja, Spain of natural causes"
-birthPlace: "Poitou, France"
-deathPlace: "Castilla la Vieja, Spaof natural causes"
-region: "France"
+born: 11th century at Laudun, Poitou, France
+died: c.1100 at Burgos, Castilla la Vieja, Spain of natural causes
+birthPlace: Poitou, France
+deathPlace: Castilla la Vieja, Spaof natural causes
+region: France
 feastDay:
   month: 1
   day: 30
@@ -27,18 +30,19 @@ canonizationStatus: Saint
 vocation:
   - Monk
   - Soldier
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 patronage:
-  - "butlers"
-  - "domestic servants"
-  - "housemaids"
-  - "maids"
-  - "manservants"
-  - "servants"
-  - "–"
-  - "Burgos, Spain"
-  - "La Chaise-Dieu, France"
+  - butlers
+  - domestic servants
+  - housemaids
+  - maids
+  - manservants
+  - servants
+  - –
+  - Burgos, Spain
+  - La Chaise-Dieu, France
 martyr: false
+prayers: []
 ---
 
 Manservant. Soldier for France, with a promising career. While on pilgrimage to Rome, Italy, he met Saint Robert at the Chaise-Dieu monastery in Issoire (in modern France). Soon after, Adelelmus retired from military life to become a Benedictine monk at Issoire under the spiritual direction of Saint Robert. Known as a miracle worker.

@@ -20,6 +20,7 @@ imageCredit: >-
   href="https://coudenberg.brussels/fr/medias-ressources/ressources-documentaires/les-quatre-saints-couronnes-1">https://coudenberg.brussels/fr/medias-ressources/ressources-documentaires/les-quatre-saints-couronnes-1</a>
 imageCreditUrl: >-
   https://commons.wikimedia.org/wiki/File:Left%20panel%20of%20the%20Triptych%20of%20the%20Four%20Crowned%20Martyrs%20(ca.%201560).jpg
+prayers: []
 ---
 
 A father, mother and their two sons who were martyred together for their faith, but about whom we know nothing else.

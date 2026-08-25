@@ -1,27 +1,33 @@
 ---
-name: "Venerable Carmine de Palma"
+name: Venerable Carmine de Palma
 honorific: Venerable
-summary: "Orphaned as a small boy. Ordained a priest in Naples, Italy on 17 December 1898. For health reasons, he spent several months in the Benedictine monastery of Montecassino. Chaplain of the Basilica of Saint Nicholas in Bari, Italy on 17 June 1900; he performed various priestly and"
-image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Carmine-de-Palma.jpg"
+summary: >-
+  Orphaned as a small boy. Ordained a priest in Naples, Italy on 17 December 1898. For health reasons, he spent several
+  months in the Benedictine monastery of Montecassino. Chaplain of the Basilica of Saint Nicholas in Bari, Italy on 17
+  June 1900; he performed various priestly and
+image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Carmine-de-Palma.jpg
 searchAliases:
-  - "Carmelo de Palma"
-  - "The Hero of the Confessional"
+  - Carmelo de Palma
+  - The Hero of the Confessional
 birthYear: 1876
 deathYear: 1961
-born: "27 January 1876 in Bari, Italy"
-died: "24 August 1961 in Bari, Italy of heart failure"
-birthPlace: "Italy"
-deathPlace: "Italyheart failure"
-region: "Italy"
+born: 27 January 1876 in Bari, Italy
+died: 24 August 1961 in Bari, Italy of heart failure
+birthPlace: Italy
+deathPlace: Italyheart failure
+region: Italy
 feastDay:
   month: 12
   day: 17
-centuries: [19, 20]
+centuries:
+  - 19
+  - 20
 canonizationStatus: Venerable
 vocation:
   - Priest
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 martyr: false
+prayers: []
 ---
 
 Orphaned as a small boy. Ordained a priest in Naples, Italy on 17 December 1898. For health reasons, he spent several months in the Benedictine monastery of Montecassino. Chaplain of the Basilica of Saint Nicholas in Bari, Italy on 17 June 1900; he performed various priestly and administrative duties at the Basilica for the next 60 years. During his last few months, health problems, including colitis, vision loss and heart problems, restricted him to his room; he continued celebrating daily Mass in private, and hearing confessions from any who wished to see him.

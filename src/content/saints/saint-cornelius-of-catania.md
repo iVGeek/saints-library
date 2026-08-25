@@ -1,9 +1,9 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Cornelius of Catania"
+name: Saint Cornelius of Catania
 honorific: Saint
-summary: "One of a group martyred in Catania, Sicily, date unknown. No other information has survived."
-region: "Italy"
+summary: One of a group martyred in Catania, Sicily, date unknown. No other information has survived.
+region: Italy
 feastDay:
   month: 12
   day: 31
@@ -11,6 +11,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 One of a group martyred in Catania, Sicily, date unknown. No other information has survived.

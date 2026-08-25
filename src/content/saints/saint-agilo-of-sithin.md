@@ -18,6 +18,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/b/b1/East-Ortho-cross.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Agilo of Sithin
 imageCreditUrl: https://en.wikipedia.org/wiki/August%2027%20(Eastern%20Orthodox%20liturgics)
+prayers: []
 ---
 
 Monk at Saint Aper Abbey in Toul, France. Reforming abbot at Saint Bertin Abbey in Sithin, France where he worked to restore monastic discipline.

@@ -1,14 +1,14 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Johannes Ri"
+name: Saint Johannes Ri
 honorific: Saint
-summary: "Lay man. Martyr. A letter he wrote from prison has survived."
+summary: Lay man. Martyr. A letter he wrote from prison has survived.
 searchAliases:
-  - "John Rider"
+  - John Rider
 deathYear: 1839
-born: "Korean"
-died: "1839 in Korea"
-region: "Korea"
+born: Korean
+died: 1839 in Korea
+region: Korea
 feastDay:
   month: 9
   day: 21
@@ -16,6 +16,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Lay man. Martyr. A letter he wrote from prison has survived.

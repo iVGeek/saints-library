@@ -1,13 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Crescendo of Rome"
+name: Saint Crescendo of Rome
 honorific: Saint
-summary: "Martyr."
+summary: Martyr.
 searchAliases:
-  - "Crescentio"
+  - Crescentio
 deathYear: 260
-died: "c.260"
-region: "England"
+died: c.260
+region: England
 feastDay:
   month: 9
   day: 17
@@ -15,6 +15,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Martyr.

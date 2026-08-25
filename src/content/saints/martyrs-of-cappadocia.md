@@ -19,6 +19,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/3/3b/FortyMartyrsofSebaste.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Martyrs of Cappadocia
 imageCreditUrl: https://en.wikipedia.org/wiki/Forty%20Martyrs%20of%20Sebaste
+prayers: []
 ---
 
 A group of Christians tortured and martyred in the persecutions of Diocletian and Galerius. Their names and the details of their lives have not come down to us.

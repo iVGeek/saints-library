@@ -92,6 +92,7 @@ patronage:
   - Umbria
   - Vivaro
 martyr: true
+prayers: []
 ---
 
 Son of Zebedee and Salome. Fisherman. Brother of Saint James the Greater, and called one of the Sons of Thunder. Disciple of Saint John the Baptist. Friend of Saint Peter the Apostle. Called by Jesus during the first year of His ministry, and traveled everywhere with Him, becoming so close as to be known as the beloved disciple. Took part in the Last Supper. The only one of the Twelve not to forsake the Saviour in the hour of His Passion, standing at the foot of the cross. Made guardian of Our Lady by Jesus, and he took her into his home. Upon hearing of the Resurrection, he was the first to reach the tomb; when he met the risen Lord at the lake of Tiberias, he was the first to recognize Him.

@@ -1,27 +1,28 @@
 ---
-name: "Blessed John Sordi"
+name: Blessed John Sordi
 honorific: Blessed
-summary: " Bishop of Mantua in 1174, replacing a bishop removed for trans Benedictine monk at the abbey of Saint Lawrence in Cremona, Italy. Abbot in 1155. Sided with the Pope against Emperor Frederick Barbarossa, and so was banished from the abbey by the emperor. Hermit near Mantua, Italy."
-image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-John-Sordi.jpg"
+summary: ' Bishop of Mantua in 1174, replacing a bishop removed for trans Benedictine monk at the abbey of Saint Lawrence in Cremona, Italy. Abbot in 1155. Sided with the Pope against Emperor Frederick Barbarossa, and so was banished from the abbey by the emperor. Hermit near Mantua, Italy.'
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-John-Sordi.jpg
 searchAliases:
-  - "John Cacciafronte"
-  - "Giovanni de Surdis Cacciafronte"
-  - "John de Surdis"
+  - John Cacciafronte
+  - Giovanni de Surdis Cacciafronte
+  - John de Surdis
 birthYear: 1125
 deathYear: 1183
-born: "c.1125 at Cremona, Italy as John Sordi"
-died: "murdered on 16 March 1183 at Vicenza, Italy"
-birthPlace: "Italy as John Sordi"
-deathPlace: "Italy"
-region: "Italy"
+born: c.1125 at Cremona, Italy as John Sordi
+died: murdered on 16 March 1183 at Vicenza, Italy
+birthPlace: Italy as John Sordi
+deathPlace: Italy
+region: Italy
 feastDay:
   month: 3
   day: 16
 canonizationStatus: Blessed
 vocation:
   - Bishop
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 martyr: true
+prayers: []
 ---
 
 Benedictine monk at the abbey of Saint Lawrence in Cremona, Italy. Abbot in 1155. Sided with the Pope against Emperor Frederick Barbarossa, and so was banished from the abbey by the emperor. Hermit near Mantua, Italy.

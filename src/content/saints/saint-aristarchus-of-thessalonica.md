@@ -23,6 +23,7 @@ vocation:
   - Bishop
   - Monk
 martyr: true
+prayers: []
 ---
 
 Convert and spiritual student of Saint Paul the Apostle, he worked with Paul in Ephesus, Corinth, Jerusalem, and Rome (Acts 20:1; 27:2; Philemon 24). In the Epistle to the Colossians, Paul calls him “my fellow prisoner” referring to the time they were both imprisoned in Ephesus. First bishop of Thessalonica. Martyr.

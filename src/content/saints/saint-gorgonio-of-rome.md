@@ -1,19 +1,20 @@
 ---
-name: "Saint Gorgonio of Rome"
+name: Saint Gorgonio of Rome
 honorific: Saint
-summary: "Martyr."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Gorgonio-of-Rome.jpg"
+summary: Martyr.
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Gorgonio-of-Rome.jpg
 searchAliases:
-  - "Gorgonius"
-died: "Two Laurels cemetery, Via Labicana, Rome, Italy"
-deathPlace: "Via Labicana, Rome, Italy"
-region: "Italy"
+  - Gorgonius
+died: Two Laurels cemetery, Via Labicana, Rome, Italy
+deathPlace: Via Labicana, Rome, Italy
+region: Italy
 feastDay:
   month: 9
   day: 9
 canonizationStatus: Saint
 vocation: []
 martyr: true
+prayers: []
 ---
 
 Martyr.

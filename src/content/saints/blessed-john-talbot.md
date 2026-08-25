@@ -1,20 +1,21 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed John Talbot"
+name: Blessed John Talbot
 honorific: Blessed
-summary: "Married layman in the apostolic vicariate of England during a period of government persecution of Catholics. Martyr."
+summary: Married layman in the apostolic vicariate of England during a period of government persecution of Catholics. Martyr.
 deathYear: 1600
-born: "in Thornton-le-Street, North Yorkshire, England"
-died: "hanged, drawn, and quartered on 9 August 1600 at Durham, England"
-birthPlace: "North Yorkshire, England"
-deathPlace: "drawn, and quartered on 9 August 1600 at Durham, England"
-region: "England"
+born: in Thornton-le-Street, North Yorkshire, England
+died: hanged, drawn, and quartered on 9 August 1600 at Durham, England
+birthPlace: North Yorkshire, England
+deathPlace: drawn, and quartered on 9 August 1600 at Durham, England
+region: England
 feastDay:
   month: 9
   day: 8
 canonizationStatus: Blessed
 vocation: []
 martyr: true
+prayers: []
 ---
 
 Married layman in the apostolic vicariate of England during a period of government persecution of Catholics. Martyr.

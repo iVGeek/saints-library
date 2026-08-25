@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Auspicius of Apt"
+name: Saint Auspicius of Apt
 honorific: Saint
-summary: "First bishop of Apt, France in the late 1st century, consecrated by Pope Saint Clement I."
+summary: First bishop of Apt, France in the late 1st century, consecrated by Pope Saint Clement I.
 searchAliases:
-  - "Auspice"
-region: "France"
+  - Auspice
+region: France
 feastDay:
   month: 8
   day: 2
@@ -14,6 +14,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 First bishop of Apt, France in the late 1st century, consecrated by Pope Saint Clement I.

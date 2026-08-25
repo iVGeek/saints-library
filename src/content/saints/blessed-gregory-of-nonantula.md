@@ -1,19 +1,20 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Gregory of Nonantula"
+name: Blessed Gregory of Nonantula
 honorific: Blessed
-summary: "Benedictine monk. Abbot at Nonantula, Italy."
+summary: Benedictine monk. Abbot at Nonantula, Italy.
 deathYear: 933
-died: "933 of natural causes"
-region: "Italy"
+died: 933 of natural causes
+region: Italy
 feastDay:
   month: 8
   day: 3
 canonizationStatus: Blessed
 vocation:
   - Monk
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 martyr: false
+prayers: []
 ---
 
 Benedictine monk. Abbot at Nonantula, Italy.

@@ -1,15 +1,15 @@
 ---
-name: "Saint Marinus of Wilparting"
+name: Saint Marinus of Wilparting
 honorific: Saint
-summary: "Uncle of Anianus of Wilparting. Travelling missionary bishop. Martyr."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saints-Marinus-and-Arianus-of-Wilparting.jpg"
+summary: Uncle of Anianus of Wilparting. Travelling missionary bishop. Martyr.
+image: http://catholicsaints.info/wp-content/uploads/img-Saints-Marinus-and-Arianus-of-Wilparting.jpg
 searchAliases:
-  - "Marianus of Irschenberg"
-  - "Mariano of…"
+  - Marianus of Irschenberg
+  - Mariano of…
 deathYear: 697
-died: "697 at Mount Irschenberg, Bavaria, Germany"
-deathPlace: "Bavaria, Germany"
-region: "Germany"
+died: 697 at Mount Irschenberg, Bavaria, Germany
+deathPlace: Bavaria, Germany
+region: Germany
 feastDay:
   month: 11
   day: 15
@@ -19,6 +19,7 @@ vocation:
   - Monk
   - Missionary
 martyr: true
+prayers: []
 ---
 
 Uncle of Anianus of Wilparting. Travelling missionary bishop. Martyr.

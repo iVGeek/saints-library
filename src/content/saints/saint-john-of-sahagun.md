@@ -1,22 +1,25 @@
 ---
-name: "Saint Juan de Sahagún"
+name: Saint Juan de Sahagún
 honorific: Saint
-summary: "Son of John Gonzalez de Castrillo and Sancia Martinez, the oldest of seven children, their first after sixteen years of sterility and frustration; raised in a pious and well-to-do family. Educated by Benedictines at Fagondez abbey at Sahagun. Ordained in 1445. Held several benefi"
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-John-of-Sahagun1.jpg"
+summary: >-
+  Son of John Gonzalez de Castrillo and Sancia Martinez, the oldest of seven children, their first after sixteen years
+  of sterility and frustration; raised in a pious and well-to-do family. Educated by Benedictines at Fagondez abbey at
+  Sahagun. Ordained in 1445. Held several benefi
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-John-of-Sahagun1.jpg
 searchAliases:
-  - "Giovanni da San Facondo"
-  - "John of Saint Facundo"
-  - "John of Saint Fagondez"
-  - "John Gonzales de Castrillo"
-  - "John of Saint Facun"
-  - "San Fagondez"
+  - Giovanni da San Facondo
+  - John of Saint Facundo
+  - John of Saint Fagondez
+  - John Gonzales de Castrillo
+  - John of Saint Facun
+  - San Fagondez
 birthYear: 1419
 deathYear: 1479
-born: "1419 at Sahagun (Saint Fagondez), L&eacute;on, Spain as John Gonzales de Castrillo"
-died: "11 June 1479 at Salamanca, Spain of natural causes"
-birthPlace: "L&eacute;on, Spaas John Gonzales de Castrillo"
-deathPlace: "Spaof natural causes"
-region: "Spain"
+born: 1419 at Sahagun (Saint Fagondez), L&eacute;on, Spain as John Gonzales de Castrillo
+died: 11 June 1479 at Salamanca, Spain of natural causes
+birthPlace: L&eacute;on, Spaas John Gonzales de Castrillo
+deathPlace: Spaof natural causes
+region: Spain
 feastDay:
   month: 6
   day: 11
@@ -25,11 +28,12 @@ vocation:
   - Bishop
   - Priest
   - Confessor
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 patronage:
-  - "Salamanca, Spain, city of"
-  - "Salamanca, Spain, diocese of"
+  - Salamanca, Spain, city of
+  - Salamanca, Spain, diocese of
 martyr: false
+prayers: []
 ---
 
 Son of John Gonzalez de Castrillo and Sancia Martinez, the oldest of seven children, their first after sixteen years of sterility and frustration; raised in a pious and well-to-do family. Educated by Benedictines at Fagondez abbey at Sahagun. Ordained in 1445. Held several benefices in the diocese of Burgos, Spain, his father obtaining them for him like investments, but John surrendered all but one. Unlike many of his class who took their vocation as a profession, John felt a true call to service and a holy life, and he gave most of the proceeds from his benefices to the poor. Majordomo in the residence of his bishop.

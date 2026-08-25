@@ -1,22 +1,23 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Dionisio Terceño Vicente"
+name: Blessed Dionisio Terceño Vicente
 honorific: Blessed
-summary: "Augustinian friar. Martyred in the Spanish Civil War."
+summary: Augustinian friar. Martyred in the Spanish Civil War.
 birthYear: 1912
 deathYear: 1936
-born: "25 May 1912 in Congosto de Valdavia, Palencia, Spain"
-died: "30 November 1936 in Paracuellos de Jarama, Madrid, Spain"
-birthPlace: "Palencia, Spain"
-deathPlace: "Madrid, Spain"
-region: "Spain"
+born: 25 May 1912 in Congosto de Valdavia, Palencia, Spain
+died: 30 November 1936 in Paracuellos de Jarama, Madrid, Spain
+birthPlace: Palencia, Spain
+deathPlace: Madrid, Spain
+region: Spain
 feastDay:
   month: 11
   day: 30
 canonizationStatus: Blessed
 vocation: []
-religiousOrder: "Augustinian"
+religiousOrder: Augustinian
 martyr: true
+prayers: []
 ---
 
 Augustinian friar. Martyred in the Spanish Civil War.

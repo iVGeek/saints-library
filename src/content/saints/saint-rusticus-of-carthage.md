@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Rusticus of Carthage"
+name: Saint Rusticus of Carthage
 honorific: Saint
-summary: "Monk. Sub-deacon.Martyred in the persecutions of the Arian King Hunneric."
+summary: Monk. Sub-deacon.Martyred in the persecutions of the Arian King Hunneric.
 deathYear: 483
-died: "483"
-region: "England"
+died: '483'
+region: England
 feastDay:
   month: 7
   day: 2
@@ -13,8 +13,9 @@ canonizationStatus: Saint
 vocation:
   - Monk
   - Deacon
-religiousOrder: "Augustinian"
+religiousOrder: Augustinian
 martyr: true
+prayers: []
 ---
 
 Monk. Sub-deacon.Martyred in the persecutions of the Arian King Hunneric.

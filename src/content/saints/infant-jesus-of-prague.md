@@ -32,6 +32,7 @@ patronage:
   - universities
   - vocations
 martyr: false
+prayers: []
 ---
 
 The popularity of devotion to the Child Jesus grew in Baroque Spain, possibly caused by the visions of Saint Teresa of Avila. Several Spanish sculptures found their way to Prague (in the modern Czech Republic; they were made of wax, ivory, and bronze, and dressed in garments reflecting the aristocratic fashion of the period. The exact origin of the Infant Jesus statue seen today is not known; historical sources point to a 28cm high sculpture of the Holy Child with a bird in his right hand carved c.1340, but other sculptures were also carved by masters throughout Europe in the Middle Ages.

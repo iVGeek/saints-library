@@ -16,6 +16,7 @@ vocation:
 patronage:
   - Ravenna, Italy
 martyr: true
+prayers: []
 ---
 
 Physician in Ravenna, Italy. Sentenced to death for being a Christian. He wavered toward the end, but after he spoke to Saint Vitalis, he refused to renounce his faith, and was martyred.

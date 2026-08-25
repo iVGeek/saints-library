@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Rufus of Glendalough"
+name: Saint Rufus of Glendalough
 honorific: Saint
-summary: "Hermit at Glendalough, Ireland."
+summary: Hermit at Glendalough, Ireland.
 searchAliases:
-  - "Rufin"
-region: "Ireland"
+  - Rufin
+region: Ireland
 feastDay:
   month: 4
   day: 2
@@ -15,6 +15,7 @@ vocation:
   - Monk
   - Hermit
 martyr: false
+prayers: []
 ---
 
 Hermit at Glendalough, Ireland.

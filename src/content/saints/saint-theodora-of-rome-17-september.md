@@ -1,11 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Theodora of Rome"
+name: Saint Theodora of Rome
 honorific: Saint
-summary: "Born to the wealthy nobility of imperial Rome. During the persecutions of Diocletian, she devoted her life and her wealth to the care of martyrs prior of their execution, and to giving them Christian burial."
+summary: >-
+  Born to the wealthy nobility of imperial Rome. During the persecutions of Diocletian, she devoted her life and her
+  wealth to the care of martyrs prior of their execution, and to giving them Christian burial.
 deathYear: 305
-died: "c.305"
-region: "Italy"
+died: c.305
+region: Italy
 feastDay:
   month: 9
   day: 17
@@ -13,6 +15,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Born to the wealthy nobility of imperial Rome. During the persecutions of Diocletian, she devoted her life and her wealth to the care of martyrs prior of their execution, and to giving them Christian burial.

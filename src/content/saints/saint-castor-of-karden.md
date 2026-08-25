@@ -26,6 +26,7 @@ vocation:
 patronage:
   - Koblenz
 martyr: false
+prayers: []
 ---
 
 Spiritual student of Saint Maximinus of Trier. Priest, ordained by Maximinus in the mid-4th-century. Hermit at Karden in the Moselle river region where he ministered to other hermits and small religious groups, including Saint Potentinus his sons Felicius and Simplicius.

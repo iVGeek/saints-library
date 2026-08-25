@@ -1,17 +1,18 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Wolfrid of Hohentwiel"
+name: Saint Wolfrid of Hohentwiel
 honorific: Saint
-summary: "Founder of the monastery of Hohentwiel, Germany c.973, and served as its first abbot."
+summary: Founder of the monastery of Hohentwiel, Germany c.973, and served as its first abbot.
 deathYear: 990
-died: "c.990"
-region: "Germany"
+died: c.990
+region: Germany
 feastDay:
   month: 6
   day: 21
 canonizationStatus: Saint
 vocation: []
 martyr: false
+prayers: []
 ---
 
 Founder of the monastery of Hohentwiel, Germany c.973, and served as its first abbot.

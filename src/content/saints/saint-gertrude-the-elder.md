@@ -25,6 +25,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/3/32/Tongeren_Liebfrauenbasilika_Fenster_Andreas_736.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Gertrude the Elder
 imageCreditUrl: https://en.wikipedia.org/wiki/Gertrude%20of%20Nivelles
+prayers: []
 ---
 
 Married lay woman. Widow. Founded the convent at Hamaye near Douai, France. She joined the convent as nun and first abbess.

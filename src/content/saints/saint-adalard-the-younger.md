@@ -15,6 +15,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/1/1e/Abbatiale_Saint-Pierre_de_Corbie%2C_int%C3%A9rieur%2C_Adh%C3%A9lard_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Adalard the Younger
 imageCreditUrl: https://en.wikipedia.org/wiki/Adalard%20of%20Corbie
+prayers: []
 ---
 
 Monk at Corbie Abbey.

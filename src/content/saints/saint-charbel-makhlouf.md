@@ -1,27 +1,32 @@
 ---
-name: "Saint Charbel Makhlouf"
+name: Saint Charbel Makhlouf
 honorific: Venerable
-summary: "Son of a mule driver. Raised by an uncle who opposed the boy's youthful piety. The boy's favorite book was Thomas a Kempis's The Imitation of Christ. At age 23 he snuck away to join the Baladite monastery of Saint Maron at Annaya where he took the name Charbel in memory of a 2nd"
-image: "https://upload.wikimedia.org/wikipedia/commons/7/75/Charbel.jpg"
+summary: >-
+  Son of a mule driver. Raised by an uncle who opposed the boy's youthful piety. The boy's favorite book was Thomas a
+  Kempis's The Imitation of Christ. At age 23 he snuck away to join the Baladite monastery of Saint Maron at Annaya
+  where he took the name Charbel in memory of a 2nd
+image: https://upload.wikimedia.org/wikipedia/commons/7/75/Charbel.jpg
 searchAliases:
-  - "Joseph Zaroun Makhlouf"
+  - Joseph Zaroun Makhlouf
 birthYear: 1828
 deathYear: 1898
-born: "8 May 1828 at Beka-Kafra, Lebanon as Joseph Zaroun Makhlouf"
-died: "24 December 1898 at Annaya of natural causes"
-birthPlace: "Lebanon as Joseph Zaroun Makhlouf"
-region: "Ireland"
+born: 8 May 1828 at Beka-Kafra, Lebanon as Joseph Zaroun Makhlouf
+died: 24 December 1898 at Annaya of natural causes
+birthPlace: Lebanon as Joseph Zaroun Makhlouf
+region: Ireland
 feastDay:
   month: 7
   day: 24
-centuries: [19]
+centuries:
+  - 19
 canonizationStatus: Venerable
 vocation:
   - Priest
   - Monk
   - Hermit
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 martyr: true
+prayers: []
 ---
 
 Son of a mule driver. Raised by an uncle who opposed the boy's youthful piety. The boy's favorite book was Thomas a Kempis's The Imitation of Christ. At age 23 he snuck away to join the Baladite monastery of Saint Maron at Annaya where he took the name Charbel in memory of a 2nd century martyr. Professed his solemn vows in 1853. Ordained in 1859, becoming a heiromonk.

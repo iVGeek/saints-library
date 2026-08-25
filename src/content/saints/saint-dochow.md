@@ -1,15 +1,15 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Dochow"
+name: Saint Dochow
 honorific: Saint
-summary: "Immigrated to Cornwall where he founded a monastery. May have become a bishop; records are inconclusive."
+summary: Immigrated to Cornwall where he founded a monastery. May have become a bishop; records are inconclusive.
 searchAliases:
-  - "Dochau"
-  - "Dogwyn"
+  - Dochau
+  - Dogwyn
 deathYear: 473
-born: "Wales"
-died: "c.473"
-region: "England"
+born: Wales
+died: c.473
+region: England
 feastDay:
   month: 2
   day: 15
@@ -18,6 +18,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Immigrated to Cornwall where he founded a monastery. May have become a bishop; records are inconclusive.

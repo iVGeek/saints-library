@@ -26,6 +26,7 @@ patronage:
   - against mice
   - —
 martyr: true
+prayers: []
 ---
 
 Brother of Saint Eutropia. Bishop of Rheims, France, and founder of its basilica. Martyred in the barbarian invasion of Rheims, an invasion he saw in a vision.

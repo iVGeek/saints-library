@@ -21,6 +21,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/7/78/Gent-Sint-Baafskathedraal_vom_Belfried_aus_gesehen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Amandus of Beaumont
 imageCreditUrl: https://en.wikipedia.org/wiki/Diocese%20of%20Ghent
+prayers: []
 ---
 
 Hermit at Beaumont, archdiocese of Rheims, France.

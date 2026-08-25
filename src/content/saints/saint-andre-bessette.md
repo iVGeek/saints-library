@@ -34,6 +34,7 @@ religiousOrder: Jesuit
 patronage:
   - family caregivers in Canada
 martyr: false
+prayers: []
 ---
 
 Son of a woodcutter, and eighth of twelve children. His father died in a work-related accident, his mother of tuberculosis, and he was adopted at age twelve by a farmer uncle who insisted he work for his keep. Over the years Andre worked as a farmhand, shoemaker, baker, blacksmith, and factory worker. At 25 he applied to join the Congregation of the Holy Cross; Andre was initially refused due to poor health, but he gained the backing of Bishop Bourget, and was accepted.

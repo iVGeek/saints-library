@@ -20,6 +20,7 @@ vocation:
   - Monk
 religiousOrder: Benedictine
 martyr: false
+prayers: []
 ---
 
 Born to the Irish nobility. Priest. Benedictine monk. Abbot. Bishop. Having encountered opposition from a local lord, Silao went to Rome, Italy to appeal for support from Pope Gregory VII, but died on the road on the return trip.

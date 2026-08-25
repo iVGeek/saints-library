@@ -1,26 +1,32 @@
 ---
-name: "Saint Mariam Thresia Chiramel Mankidiyan"
+name: Saint Mariam Thresia Chiramel Mankidiyan
 honorific: Venerable
-summary: "Made a vow of private chastity at age 10. Her mother died when Mariam was 12, and she dedicated herself to prayer, to the service of the poor and sick, and to the comfort of lonely people in her parish. With three friends, she formed a prayer group, and engaged in apostolic work"
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Mariam-Thresia-Chiramel-Mankidiyan.jpg"
+summary: >-
+  Made a vow of private chastity at age 10. Her mother died when Mariam was 12, and she dedicated herself to prayer, to
+  the service of the poor and sick, and to the comfort of lonely people in her parish. With three friends, she formed a
+  prayer group, and engaged in apostolic work
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Mariam-Thresia-Chiramel-Mankidiyan.jpg
 searchAliases:
-  - "Maria Theresa Chiramel"
+  - Maria Theresa Chiramel
 birthYear: 1876
 deathYear: 1926
-born: "26 April 1876 at Trichur, Kerala, India"
-died: "8 June 1926 in Kuzhikattussery, Thissur, Kerala, India of natural causes"
-birthPlace: "Kerala, India"
-deathPlace: "Thissur, Kerala, Indianatural causes"
-region: "Africa"
+born: 26 April 1876 at Trichur, Kerala, India
+died: 8 June 1926 in Kuzhikattussery, Thissur, Kerala, India of natural causes
+birthPlace: Kerala, India
+deathPlace: Thissur, Kerala, Indianatural causes
+region: Africa
 feastDay:
   month: 6
   day: 8
-centuries: [19, 20]
+centuries:
+  - 19
+  - 20
 canonizationStatus: Venerable
 vocation:
   - Bishop
   - Religious
 martyr: false
+prayers: []
 ---
 
 Made a vow of private chastity at age 10. Her mother died when Mariam was 12, and she dedicated herself to prayer, to the service of the poor and sick, and to the comfort of lonely people in her parish. With three friends, she formed a prayer group, and engaged in apostolic work on the streets, with the neediest families of the village including the Untouchables caste.

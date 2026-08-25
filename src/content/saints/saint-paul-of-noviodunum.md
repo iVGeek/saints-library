@@ -1,17 +1,18 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Paul of Noviodunum"
+name: Saint Paul of Noviodunum
 honorific: Saint
-summary: "Martyr."
+summary: Martyr.
 searchAliases:
-  - "Paolo"
-region: "England"
+  - Paolo
+region: England
 feastDay:
   month: 5
   day: 17
 canonizationStatus: Saint
 vocation: []
 martyr: true
+prayers: []
 ---
 
 Martyr.

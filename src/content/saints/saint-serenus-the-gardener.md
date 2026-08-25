@@ -29,6 +29,7 @@ patronage:
   - falsely accused people
   - gardeners
 martyr: false
+prayers: []
 ---
 
 Serenus abandoned his home and people to live as a hermit in Sirmiun, Pannonia (modern Hungary) where he directed his thought to prayer, his labour to working a garden of fruit and herbs.

@@ -18,6 +18,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/9/94/Saint_Ahmet_the_Calligrapher.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Ahmed the Calligrapher
 imageCreditUrl: https://en.wikipedia.org/wiki/Ahmet%20the%20Calligrapher
+prayers: []
 ---
 
 Raised as a Muslim in 17th-century Constantinople. Calligrapher and copyist in the royal chancery. He lived as an unmarried layman, but had a concubine, a Christian slave woman from Russia. Little by little, she brought him to a desire for the faith, and he began his catechumenate. However, before he could be baptized he was betrayed by another calligrapher who spotted him with Christian. Ahmed was arrested, imprisoned without food for a week, and then murdered for his desire to convert. Martyr.

@@ -1,14 +1,14 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Cillene"
+name: Saint Cillene
 honorific: Saint
-summary: "Monk. Elected abbot in Iona Abbey in Scotland in 726."
+summary: Monk. Elected abbot in Iona Abbey in Scotland in 726.
 searchAliases:
-  - "Killen"
+  - Killen
 deathYear: 752
-born: "Irish"
-died: "752 of natural causes"
-region: "Scotland"
+born: Irish
+died: 752 of natural causes
+region: Scotland
 feastDay:
   month: 7
   day: 3
@@ -16,6 +16,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: false
+prayers: []
 ---
 
 Monk. Elected abbot in Iona Abbey in Scotland in 726.

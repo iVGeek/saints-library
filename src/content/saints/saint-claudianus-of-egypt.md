@@ -17,6 +17,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/f/f8/Optat_de_Mileve.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Claudianus of Egypt
 imageCreditUrl: https://en.wikipedia.org/wiki/Optatus
+prayers: []
 ---
 
 Exiled to Egypt in 249. Tortured and martyred in the persecutions of Numerian.

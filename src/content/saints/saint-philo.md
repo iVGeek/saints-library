@@ -10,6 +10,7 @@ image: https://commons.wikimedia.org/wiki/Special:FilePath/PhiloThevet.jpg?width
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Martyr. No other information has survived.

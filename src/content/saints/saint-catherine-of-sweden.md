@@ -1,18 +1,21 @@
 ---
-name: "Saint Catherine of Sweden"
+name: Saint Catherine of Sweden
 honorific: Saint
-summary: "Fourth of the eight children of Saint Bridget of Sweden and Ulf Gudmarsson. Educated at the convent of Riseberg. Married by arrangement at age 13 to the pious German noble Eggart von K&uuml;rnen. Soon after their marriage, both she and her husband took vows of chastity and contin"
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Catherine-of-Sweden.jpg"
+summary: >-
+  Fourth of the eight children of Saint Bridget of Sweden and Ulf Gudmarsson. Educated at the convent of Riseberg.
+  Married by arrangement at age 13 to the pious German noble Eggart von K&uuml;rnen. Soon after their marriage, both she
+  and her husband took vows of chastity and contin
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Catherine-of-Sweden.jpg
 searchAliases:
-  - "Catherine Vastanensis"
-  - "Catherine of Vadstena"
-  - "Katarina av Vadstena"
-  - "Caterina…"
+  - Catherine Vastanensis
+  - Catherine of Vadstena
+  - Katarina av Vadstena
+  - Caterina…
 birthYear: 1331
 deathYear: 1381
-born: "1331 in Sweden"
-died: "24 March 1381 of natural causes"
-region: "Scandinavia"
+born: 1331 in Sweden
+died: 24 March 1381 of natural causes
+region: Scandinavia
 feastDay:
   month: 3
   day: 24
@@ -20,11 +23,12 @@ canonizationStatus: Saint
 vocation:
   - Confessor
 patronage:
-  - "against abortions"
-  - "against miscarriages"
-  - "–"
-  - "Vadstena, Sweden"
+  - against abortions
+  - against miscarriages
+  - –
+  - Vadstena, Sweden
 martyr: false
+prayers: []
 ---
 
 Fourth of the eight children of Saint Bridget of Sweden and Ulf Gudmarsson. Educated at the convent of Riseberg. Married by arrangement at age 13 to the pious German noble Eggart von K&uuml;rnen. Soon after their marriage, both she and her husband took vows of chastity and continence. Travelled to Rome, Italy in c.1350 to be with her mother. Widowed soon after.

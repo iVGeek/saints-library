@@ -1,17 +1,20 @@
 ---
-name: "Blessed Elisa Martinez"
+name: Blessed Elisa Martinez
 honorific: Blessed
-summary: "Elisa early felt a call to religious life, and at the age of 23 joined the Sisters of Our Lady of Charity of the Good Shepherd in Angers, France. She made her first profession on 29 September 1930, taking the name Sister Maria Lucia and was assigned to the house in Chieti, Italy."
-image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Elisa-Martinez.jpg"
+summary: >-
+  Elisa early felt a call to religious life, and at the age of 23 joined the Sisters of Our Lady of Charity of the Good
+  Shepherd in Angers, France. She made her first profession on 29 September 1930, taking the name Sister Maria Lucia and
+  was assigned to the house in Chieti, Italy.
+image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Elisa-Martinez.jpg
 searchAliases:
-  - "Sister Maria Lucia"
+  - Sister Maria Lucia
 birthYear: 1905
 deathYear: 1991
-born: "25 March 1905 in Galatina, Lecce, Italy"
-died: "8 February 1991 in Rome, Italy of natural causes"
-birthPlace: "Lecce, Italy"
-deathPlace: "Italynatural causes"
-region: "France"
+born: 25 March 1905 in Galatina, Lecce, Italy
+died: 8 February 1991 in Rome, Italy of natural causes
+birthPlace: Lecce, Italy
+deathPlace: Italynatural causes
+region: France
 feastDay:
   month: 2
   day: 8
@@ -21,6 +24,7 @@ vocation:
   - Religious
   - Cardinal
 martyr: false
+prayers: []
 ---
 
 Elisa early felt a call to religious life, and at the age of 23 joined the Sisters of Our Lady of Charity of the Good Shepherd in Angers, France. She made her first profession on 29 September 1930, taking the name Sister Maria Lucia and was assigned to the house in Chieti, Italy. Falling ill with a severe respiratory problem, she was ordered to return to her family.

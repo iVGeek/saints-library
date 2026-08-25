@@ -28,6 +28,7 @@ patronage:
   - Gaeta, city of
   - Syracuse, Sicily, archdiocese of
 martyr: true
+prayers: []
 ---
 
 Third century missionary bishop to Sicily, using Syracuse as his base of operations. Martyred by local Jews who considered him a heretic. An old Sicilian tradition says that he was sent to the island by Saint Peter the Apostle, but that would be a couple of centuries off.

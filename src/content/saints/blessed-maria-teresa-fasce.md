@@ -1,14 +1,17 @@
 ---
-name: "Blessed Maria Teresa Fasce"
+name: Blessed Maria Teresa Fasce
 honorific: Blessed
-summary: "Taught catechetism to children. She grew to love Augustinian spirituality, and became acquainted with the human and spiritual adventure of Rita of Cascia, whose canonization in 1900 was very special to Maria, leading to her desire to be an Augustinian religious in the monastery o"
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Maria-Teresa-Fasce.jpg"
+summary: >-
+  Taught catechetism to children. She grew to love Augustinian spirituality, and became acquainted with the human and
+  spiritual adventure of Rita of Cascia, whose canonization in 1900 was very special to Maria, leading to her desire to
+  be an Augustinian religious in the monastery o
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Maria-Teresa-Fasce.jpg
 birthYear: 1881
 deathYear: 1947
-born: "27 December 1881 at Torriglia, Genoa, Italy as Maria Fasce"
-died: "18 January 1947 of natural causes"
-birthPlace: "Genoa, Italy as Maria Fasce"
-region: "Italy"
+born: 27 December 1881 at Torriglia, Genoa, Italy as Maria Fasce
+died: 18 January 1947 of natural causes
+birthPlace: Genoa, Italy as Maria Fasce
+region: Italy
 feastDay:
   month: 3
   day: 22
@@ -16,8 +19,9 @@ canonizationStatus: Blessed
 vocation:
   - Priest
   - Religious
-religiousOrder: "Augustinian"
+religiousOrder: Augustinian
 martyr: false
+prayers: []
 ---
 
 Taught catechetism to children. She grew to love Augustinian spirituality, and became acquainted with the human and spiritual adventure of Rita of Cascia, whose canonization in 1900 was very special to Maria, leading to her desire to be an Augustinian religious in the monastery of Cascia, Italy. She entered in June 1906 at age 25, made her initial vows on Christmas 1907, taking the name Maria Teresa.

@@ -1,17 +1,18 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Timothy of Antioch"
+name: Saint Timothy of Antioch
 honorific: Saint
-summary: "Spiritual student of Saint Babylas of Antioch. Martyr."
+summary: Spiritual student of Saint Babylas of Antioch. Martyr.
 deathYear: 284
-died: "284 in Sicily"
-region: "Turkey"
+died: 284 in Sicily
+region: Turkey
 feastDay:
   month: 1
   day: 24
 canonizationStatus: Saint
 vocation: []
 martyr: true
+prayers: []
 ---
 
 Spiritual student of Saint Babylas of Antioch. Martyr.

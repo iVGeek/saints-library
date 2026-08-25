@@ -18,6 +18,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/f/f9/Heilige_Agatha_met_schaal_met_afgesneden_borsten_S._Agatha%2C_RP-P-OB-22.552.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Agatha of Constantinople
 imageCreditUrl: https://en.wikipedia.org/wiki/Feast%20of%20Saint%20Agatha
+prayers: []
 ---
 
 One of a group of martyred convert to Christianity, possibly in the persecutions of Maximinus.

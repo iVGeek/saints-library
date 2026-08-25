@@ -1,13 +1,15 @@
 ---
-name: "Saint Severinus of Agaunum"
+name: Saint Severinus of Agaunum
 honorific: Saint
-summary: "Born to the nobility, and taught orthodox Christianity during the period of the Arian heresy. Monk. Abbot in Agaunum (modern Saint-Maurice-en-Valais, Switzerland)."
-image: "http://catholicsaints.info/wp-content/uploads/pls-Saint-Severinus-Abbot-of-Agaunum1.jpg"
+summary: >-
+  Born to the nobility, and taught orthodox Christianity during the period of the Arian heresy. Monk. Abbot in Agaunum
+  (modern Saint-Maurice-en-Valais, Switzerland).
+image: http://catholicsaints.info/wp-content/uploads/pls-Saint-Severinus-Abbot-of-Agaunum1.jpg
 deathYear: 507
-born: "Burgundy, France"
-died: "c.507"
-birthPlace: "France"
-region: "France"
+born: Burgundy, France
+died: c.507
+birthPlace: France
+region: France
 feastDay:
   month: 2
   day: 11
@@ -16,8 +18,9 @@ vocation:
   - Priest
   - Monk
 patronage:
-  - "Agaunum, Switzerland"
+  - Agaunum, Switzerland
 martyr: false
+prayers: []
 ---
 
 Born to the nobility, and taught orthodox Christianity during the period of the Arian heresy. Monk. Abbot in Agaunum (modern Saint-Maurice-en-Valais, Switzerland).

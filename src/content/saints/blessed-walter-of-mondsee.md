@@ -1,19 +1,20 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Walter of Mondsee"
+name: Blessed Walter of Mondsee
 honorific: Blessed
-summary: "Benedictine monk. Abbot of the Mondsee monastery in Upper Austria."
+summary: Benedictine monk. Abbot of the Mondsee monastery in Upper Austria.
 deathYear: 1158
-died: "1158 of natural causes"
-region: "Austria"
+died: 1158 of natural causes
+region: Austria
 feastDay:
   month: 4
   day: 21
 canonizationStatus: Blessed
 vocation:
   - Monk
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 martyr: false
+prayers: []
 ---
 
 Benedictine monk. Abbot of the Mondsee monastery in Upper Austria.

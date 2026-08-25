@@ -1,25 +1,31 @@
 ---
-name: "Saint Miguel de la Mora"
+name: Saint Miguel de la Mora
 honorific: Venerable
-summary: "Ordained in 1906. Chaplain of the Cabildo of the Cathedral of Colima, Mexico in 1912. When the government's persecution of the Church began, Father Miguel was arrested, but quickly released on bail with a warning to stop his ministry. When the churches were closed and public wors"
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Miguel-de-la-Mora.jpg"
+summary: >-
+  Ordained in 1906. Chaplain of the Cabildo of the Cathedral of Colima, Mexico in 1912. When the government's
+  persecution of the Church began, Father Miguel was arrested, but quickly released on bail with a warning to stop his
+  ministry. When the churches were closed and public wors
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Miguel-de-la-Mora.jpg
 searchAliases:
-  - "Michele de la Mora"
+  - Michele de la Mora
 birthYear: 1874
 deathYear: 1927
-born: "19 June 1874 at Tecalitl&aacute;n, Jalisco, Mexico"
-died: "shot by firing squad around noon on 7 August 1927 at Cardonna, Colima, Mexico"
-birthPlace: "Jalisco, Mexico"
-deathPlace: "Colima, Mexico"
-region: "Mexico"
+born: 19 June 1874 at Tecalitl&aacute;n, Jalisco, Mexico
+died: shot by firing squad around noon on 7 August 1927 at Cardonna, Colima, Mexico
+birthPlace: Jalisco, Mexico
+deathPlace: Colima, Mexico
+region: Mexico
 feastDay:
   month: 8
   day: 7
-centuries: [19, 20]
+centuries:
+  - 19
+  - 20
 canonizationStatus: Venerable
 vocation:
   - Priest
 martyr: true
+prayers: []
 ---
 
 Ordained in 1906. Chaplain of the Cabildo of the Cathedral of Colima, Mexico in 1912. When the government's persecution of the Church began, Father Miguel was arrested, but quickly released on bail with a warning to stop his ministry. When the churches were closed and public worship outlawed in 1926, friends tried to get him to flee the area; unwilling to leave Colima without a priest, he refused.

@@ -38,6 +38,7 @@ patronage:
   - Monteprandone
   - Naples
 martyr: false
+prayers: []
 ---
 
 Born poor. Doctor of Civil Law. Franciscan monk at age 22. Studied with Saint John of Capistrano. Disciple of Saint Bernadine of Siena. Tutor. Judge of sorcerers. Ordained in 1423. Preacher and evangelist throughout Central and Northern Europe, preaching every day for 40 years. Brought Blessed Bernardino of Feltre and Blessed Bernardino of Fosso into the Franciscans. Travelled and worked with Saint John Capistrano. Inquisitor in 1426, assigned to crush the heretical Fraticelli. Worked against the Bogomil heresy in Bosnia in 1432. Founded several monasteries in Bohemia, Hungary, and Austria. Chief almoner for the 1437 Crusade against the Turks. Worked at the Council of Florence in 1438 to re-unite the Eastern and Latin Churches. Papal legate in 1456. Preached against the Hussites in Austria and Hungary. The Dominican Inquisitors made him the subject of an inquiry in 1462 when they thought that one of his statements on the Precious Blood was heretical; Rome ordered the case to be put permanently on hold, and it was never settled. A skinny man who dressed in a tattered habit, he fasted every day until his health began to fail – and the pope ordered him to eat as a public service.

@@ -1,13 +1,15 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Pusinna of Champagne"
+name: Saint Pusinna of Champagne
 honorific: Saint
-summary: "She lived many of her adult years as a hermit in her parent's house. Hermitess in Binson, Chalons-en-Champagne, France."
-born: "5th-century Corbie, France"
-died: "6th century in Binson, Chalons-en-Champagne, France"
-birthPlace: "France"
-deathPlace: "Chalons-en-Champagne, France"
-region: "France"
+summary: >-
+  She lived many of her adult years as a hermit in her parent's house. Hermitess in Binson, Chalons-en-Champagne,
+  France.
+born: 5th-century Corbie, France
+died: 6th century in Binson, Chalons-en-Champagne, France
+birthPlace: France
+deathPlace: Chalons-en-Champagne, France
+region: France
 feastDay:
   month: 4
   day: 23
@@ -16,8 +18,9 @@ vocation:
   - Monk
   - Hermit
 patronage:
-  - "Herford, Germany"
+  - Herford, Germany
 martyr: false
+prayers: []
 ---
 
 She lived many of her adult years as a hermit in her parent's house. Hermitess in Binson, Chalons-en-Champagne, France.

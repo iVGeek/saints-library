@@ -21,6 +21,7 @@ vocation:
 patronage:
   - Slagelse, Denmark
 martyr: false
+prayers: []
 ---
 
 Early 13th-century priest at Saint Peter's Church, Slagalse, Denmark. While on pilgrimage in the Holy Lands he received a vision of a man on a white horse who miraculously transported him home so that he could celebrate Easter with his parishioners. The rider then transported him to shrine of Santiago de Campostella in Spain, and then to the shrine of Saint Olaf in Norway. Upon his return to Slagalse, Anders was able to heal the lame and blind by prayer.

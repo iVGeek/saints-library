@@ -22,6 +22,7 @@ symbols:
   - Cross
 martyr: false
 lifeEvents: []
+prayers: []
 ---
 
 15th century Augustinian nun at the convent of Blessed Michela in Vercelli, Italy.

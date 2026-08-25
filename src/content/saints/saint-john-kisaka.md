@@ -1,24 +1,25 @@
 ---
-name: "Saint John Kisaka"
+name: Saint John Kisaka
 honorific: Saint
-summary: "Layman. Silk-weaver. Convert. Franciscan tertiary. One of the Martyrs of Nagasaki."
-image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Nagasaki.jpg"
+summary: Layman. Silk-weaver. Convert. Franciscan tertiary. One of the Martyrs of Nagasaki.
+image: http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Nagasaki.jpg
 searchAliases:
-  - "John Kimoia"
-  - "John Kinuya"
+  - John Kimoia
+  - John Kinuya
 deathYear: 1597
-born: "at Miyako, Japan"
-died: "crucified on 5 February 1597 at Tateyama (Hill of Wheat), Nagasaki, Japan"
-birthPlace: "Japan"
-deathPlace: "Nagasaki, Japan"
-region: "Japan"
+born: at Miyako, Japan
+died: crucified on 5 February 1597 at Tateyama (Hill of Wheat), Nagasaki, Japan
+birthPlace: Japan
+deathPlace: Nagasaki, Japan
+region: Japan
 feastDay:
   month: 2
   day: 6
 canonizationStatus: Saint
 vocation: []
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 martyr: true
+prayers: []
 ---
 
 Layman. Silk-weaver. Convert. Franciscan tertiary. One of the Martyrs of Nagasaki.

@@ -1,29 +1,34 @@
 ---
-name: "Saint Enric de Osso y Cervello"
+name: Saint Enric de Osso y Cervello
 honorific: Venerable
-summary: "The youngest of three children born to Jaime and Micaela de Osso y Cervello. Enric felt an early call to the priesthood, which his mother supported but his father opposed. At age 12 Enric was sent to Quinto de Ebro to learn the textile business from his uncle. There Henry became"
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Enric-de-Osso-y-Cervello.jpg"
+summary: >-
+  The youngest of three children born to Jaime and Micaela de Osso y Cervello. Enric felt an early call to the
+  priesthood, which his mother supported but his father opposed. At age 12 Enric was sent to Quinto de Ebro to learn the
+  textile business from his uncle. There Henry became
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Enric-de-Osso-y-Cervello.jpg
 searchAliases:
-  - "Enrique"
-  - "Henry"
+  - Enrique
+  - Henry
 birthYear: 1840
 deathYear: 1896
-born: "16 October 1840 at Vinebre, Tarragona, Spain"
-died: "27 January 1896 at Gilet, Valencia, Spain of a stroke"
-birthPlace: "Tarragona, Spain"
-deathPlace: "Valencia, Spaof a stroke"
-region: "Mexico"
+born: 16 October 1840 at Vinebre, Tarragona, Spain
+died: 27 January 1896 at Gilet, Valencia, Spain of a stroke
+birthPlace: Tarragona, Spain
+deathPlace: Valencia, Spaof a stroke
+region: Mexico
 feastDay:
   month: 1
   day: 27
-centuries: [19]
+centuries:
+  - 19
 canonizationStatus: Venerable
 vocation:
   - Priest
   - Religious
   - Deacon
-religiousOrder: "Carmelite"
+religiousOrder: Carmelite
 martyr: false
+prayers: []
 ---
 
 The youngest of three children born to Jaime and Micaela de Osso y Cervello. Enric felt an early call to the priesthood, which his mother supported but his father opposed. At age 12 Enric was sent to Quinto de Ebro to learn the textile business from his uncle. There Henry became seriously ill, and upon his recovery, had to return home; he stopped first at Our Lady of the Pillar to give thanks for his health.

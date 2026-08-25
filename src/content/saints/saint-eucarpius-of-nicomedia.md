@@ -1,11 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Eucarpius of Nicomedia"
+name: Saint Eucarpius of Nicomedia
 honorific: Saint
-summary: "Pagan soldier in the imperial Roman army and stationed in Nicomedia (in modern Turkey). Assigned to hunt Christians during the persecutions of Diocletian, he came to know them and the faith so well that he converted. Martyr."
+summary: >-
+  Pagan soldier in the imperial Roman army and stationed in Nicomedia (in modern Turkey). Assigned to hunt Christians
+  during the persecutions of Diocletian, he came to know them and the faith so well that he converted. Martyr.
 deathYear: 304
-died: "burned alive in 304 at Nicomedia"
-region: "Turkey"
+died: burned alive in 304 at Nicomedia
+region: Turkey
 feastDay:
   month: 3
   day: 18
@@ -14,6 +16,7 @@ vocation:
   - Monk
   - Soldier
 martyr: true
+prayers: []
 ---
 
 Pagan soldier in the imperial Roman army and stationed in Nicomedia (in modern Turkey). Assigned to hunt Christians during the persecutions of Diocletian, he came to know them and the faith so well that he converted. Martyr.

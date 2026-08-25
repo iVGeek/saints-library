@@ -1,12 +1,12 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Secundinus of Cordoba"
+name: Saint Secundinus of Cordoba
 honorific: Saint
-summary: "Martyred in the persecutions of Diocletian."
+summary: Martyred in the persecutions of Diocletian.
 deathYear: 306
-died: "c.306 in Cordoba, Spain"
-deathPlace: "Spain"
-region: "Spain"
+died: c.306 in Cordoba, Spain
+deathPlace: Spain
+region: Spain
 feastDay:
   month: 5
   day: 21
@@ -14,6 +14,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Martyred in the persecutions of Diocletian.

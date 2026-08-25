@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Galata of Melitene"
+name: Saint Galata of Melitene
 honorific: Saint
-summary: "Martyr."
+summary: Martyr.
 searchAliases:
-  - "Galatas"
-region: "England"
+  - Galatas
+region: England
 feastDay:
   month: 4
   day: 19
@@ -13,6 +13,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Martyr.

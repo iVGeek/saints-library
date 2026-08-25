@@ -1,15 +1,15 @@
 ---
-name: "Blessed Paolo Manna"
+name: Blessed Paolo Manna
 honorific: Blessed
-summary: " Missionary to Toungoo, East Fifth of six children. Educated at Avellino and Naples in Italy. Studied philosophy at the Gregorian University in Rome, Italy. Seminarian at the Theology Seminary of the Institute for Foreign Missions at Milan, Italy. Ordained on 19 May 1894 at Milan."
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Paolo-Manna.jpg"
+summary: ' Missionary to Toungoo, East Fifth of six children. Educated at Avellino and Naples in Italy. Studied philosophy at the Gregorian University in Rome, Italy. Seminarian at the Theology Seminary of the Institute for Foreign Missions at Milan, Italy. Ordained on 19 May 1894 at Milan.'
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Paolo-Manna.jpg
 birthYear: 1872
 deathYear: 1952
-born: "16 January 1872 at Avellino, Italy"
-died: "15 September 1952 at Naples, Italy of natural causes"
-birthPlace: "Italy"
-deathPlace: "Italynatural causes"
-region: "Italy"
+born: 16 January 1872 at Avellino, Italy
+died: 15 September 1952 at Naples, Italy of natural causes
+birthPlace: Italy
+deathPlace: Italynatural causes
+region: Italy
 feastDay:
   month: 9
   day: 15
@@ -20,6 +20,7 @@ vocation:
   - Religious
   - Missionary
 martyr: false
+prayers: []
 ---
 
 Fifth of six children. Educated at Avellino and Naples in Italy. Studied philosophy at the Gregorian University in Rome, Italy. Seminarian at the Theology Seminary of the Institute for Foreign Missions at Milan, Italy. Ordained on 19 May 1894 at Milan.

@@ -1,12 +1,12 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Martial of Cordoba"
+name: Saint Martial of Cordoba
 honorific: Saint
-summary: "Martyred in the persecutions of Diocletian. One of the The Three Crowns of Cordoba."
+summary: Martyred in the persecutions of Diocletian. One of the The Three Crowns of Cordoba.
 deathYear: 304
-died: "burned to death in 304 in Cordoba, Spain"
-deathPlace: "Spain"
-region: "Spain"
+died: burned to death in 304 in Cordoba, Spain
+deathPlace: Spain
+region: Spain
 feastDay:
   month: 10
   day: 13
@@ -15,6 +15,7 @@ vocation:
   - Priest
   - Monk
 martyr: true
+prayers: []
 ---
 
 Martyred in the persecutions of Diocletian. One of the The Three Crowns of Cordoba.

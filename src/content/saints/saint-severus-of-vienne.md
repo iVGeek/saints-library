@@ -16,6 +16,7 @@ vocation:
   - Monk
   - Missionary
 martyr: false
+prayers: []
 ---
 
 Priest. Missionary to the area of Vienne, France.

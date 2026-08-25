@@ -24,6 +24,7 @@ vocation:
   - Religious
 religiousOrder: Dominican
 martyr: false
+prayers: []
 ---
 
 Born to the Swedish nobility, Ingrid was well educated, and was known from her youth as a pious girl. Given in an arranged marriage when young, she was widowed soon after. Pilgrim to the Holy Lands, then to the Vatican, then to Santiago de Compostela in Spain. Spiritual student of Father Petrus de Dacia, a noted Dominican author and hagiographer. Ingrid became the first Dominican nun in Sweden, founded the first Dominican cloister in Sweden, Saint Martin's in Skänninge, dedicated on 15 August 1281, and served as its prioress; it was destroyed during the Reformation.

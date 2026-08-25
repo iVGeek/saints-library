@@ -1,9 +1,9 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Severus of Agde"
+name: Saint Severus of Agde
 honorific: Saint
-summary: "Monk. Founded a monastery in Agde, Gaul (in modern France), and served as its first abbot."
-region: "France"
+summary: Monk. Founded a monastery in Agde, Gaul (in modern France), and served as its first abbot.
+region: France
 feastDay:
   month: 8
   day: 25
@@ -11,6 +11,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: false
+prayers: []
 ---
 
 Monk. Founded a monastery in Agde, Gaul (in modern France), and served as its first abbot.

@@ -1,25 +1,30 @@
 ---
-name: "Saint Matthêô Lê Van Gam"
+name: Saint Matthêô Lê Van Gam
 honorific: Venerable
-summary: "Eldest son in a pious Christian family. Matthew briefly studied at the seminary at Lai Thieu in the apostolic vicariate of Cochinchina (modern Vietnam), but being the first-born, family obligations caused him to return home. He married to a local girl, and was the father of four,"
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Matthêô-Lê-Van-Gam.jpg"
+summary: >-
+  Eldest son in a pious Christian family. Matthew briefly studied at the seminary at Lai Thieu in the apostolic
+  vicariate of Cochinchina (modern Vietnam), but being the first-born, family obligations caused him to return home. He
+  married to a local girl, and was the father of four,
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Matthêô-Lê-Van-Gam.jpg
 birthYear: 1813
 deathYear: 1847
-born: "c.1813 in Gò Công, Biên Hòa, Vietnam"
-died: "beheaded on 11 May 1847 in Cho Ðui, Dong Nai, Vietnam; it took three blows to kill him"
-birthPlace: "Biên Hòa, Vietnam"
-deathPlace: "Dong Nai, Vietnam; it took three blows to kill him"
-region: "Vietnam"
+born: c.1813 in Gò Công, Biên Hòa, Vietnam
+died: beheaded on 11 May 1847 in Cho Ðui, Dong Nai, Vietnam; it took three blows to kill him
+birthPlace: Biên Hòa, Vietnam
+deathPlace: Dong Nai, Vietnam; it took three blows to kill him
+region: Vietnam
 feastDay:
   month: 5
   day: 11
-centuries: [19]
+centuries:
+  - 19
 canonizationStatus: Venerable
 vocation:
   - Priest
   - Religious
   - Soldier
 martyr: true
+prayers: []
 ---
 
 Eldest son in a pious Christian family. Matthew briefly studied at the seminary at Lai Thieu in the apostolic vicariate of Cochinchina (modern Vietnam), but being the first-born, family obligations caused him to return home. He married to a local girl, and was the father of four, two of whom were later murdered for being Christians. At one point he cheated on his wife; he repented, she forgave him, and he used the incident to re-examine his approach to his life and faith. He decided that the best thing would be become closer to the Church, to serve in his diocese, and to help the missionaries.

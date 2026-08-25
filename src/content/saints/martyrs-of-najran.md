@@ -26,6 +26,7 @@ imageCredit: >-
   href="https://www.academia.edu/figures/11405667/figure-6-igure-warrior-saints-st-aretas-st-nestor-and-st">https://www.academia.edu/figures/11405667/figure-6-igure-warrior-saints-st-aretas-st-nestor-and-st</a>
 imageCreditUrl: >-
   https://commons.wikimedia.org/wiki/File:Saints%20Aretas%2C%20Nestor%20and%20Nicetas%2C%20Holy%20Trinity%20Church%2C%20Resava%20Monastery.png
+prayers: []
 ---
 
 342 priests, religious and lay people who were martyred together by order of Dhu Nuwas, king of the Omeritani who had converted to Judaism and demanded that everyone in the his kingdom do so, too.

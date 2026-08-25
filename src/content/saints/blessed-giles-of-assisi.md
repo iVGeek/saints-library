@@ -25,6 +25,7 @@ vocation:
   - Hermit
   - Missionary
 martyr: false
+prayers: []
 ---
 
 Friend and third follower of Saint Francis of Assisi. Sent as a missionary to Muslims in Tunis, but had no success. Upon his return, he lived at various places in Italy where for the rest of his days he was in demand as a spiritual advisor; his “Sayings” have been printed in many editions. Assigned later to the hermitage of Fabriano where he led a life of quiet contemplation.

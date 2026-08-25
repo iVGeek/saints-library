@@ -1,17 +1,20 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Kentigerna"
+name: Saint Kentigerna
 honorific: Saint
-summary: "Daughter of Prince Kelly of Leinster, and Saint Coellen. Sister of Saint Comghan. Married lay woman. Mother of Saint Fillan. When her bother Comghan had to flee the country due to opposition to his dedication to the faith, Kentigerna fled to Scotland. Widow. Anchoress on Inchebro"
+summary: >-
+  Daughter of Prince Kelly of Leinster, and Saint Coellen. Sister of Saint Comghan. Married lay woman. Mother of Saint
+  Fillan. When her bother Comghan had to flee the country due to opposition to his dedication to the faith, Kentigerna
+  fled to Scotland. Widow. Anchoress on Inchebro
 searchAliases:
-  - "Caentigern"
-  - "Kentigerna of Loch Lomand"
-  - "Quentigerna"
+  - Caentigern
+  - Kentigerna of Loch Lomand
+  - Quentigerna
 deathYear: 734
-born: "Ireland"
-died: "c.734 on Inch Cailleach, Scotland"
-deathPlace: "Scotland"
-region: "Scotland"
+born: Ireland
+died: c.734 on Inch Cailleach, Scotland
+deathPlace: Scotland
+region: Scotland
 feastDay:
   month: 1
   day: 7
@@ -21,6 +24,7 @@ vocation:
   - Monk
   - Religious
 martyr: false
+prayers: []
 ---
 
 Daughter of Prince Kelly of Leinster, and Saint Coellen. Sister of Saint Comghan. Married lay woman. Mother of Saint Fillan. When her bother Comghan had to flee the country due to opposition to his dedication to the faith, Kentigerna fled to Scotland. Widow. Anchoress on Inchebroida Island in Loch Lomond where there still stands a church in her name.

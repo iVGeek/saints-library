@@ -28,6 +28,7 @@ vocation:
   - Religious
   - Cardinal
 martyr: false
+prayers: []
 ---
 
 Youngest of four children in her family; her father's name was Ferdinando, and Maria was baptized when she was 4 days old. As a girl, she began working in a local spinning mill to help support her family. She was active in her parish, tended to children, worked with Catholic Action, and was a close spiritual student of the parish priest, Father Luigi Piatti, as she felt a call to religious life. She became a sister in the Ancelle della carità (Handmaids of Charity) in Brescia, Italy in 1932, taking the name Lucia dell'Immacolata, and making her final profession in 1938. Sister Lucia developed a devotion to Our Lady of Lourdes and Saint Maria Crocifissa di Rosa, and assisted visiting priest conducting retreats and the Spiritual Exercises.

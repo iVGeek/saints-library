@@ -20,6 +20,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/8/8e/Saint_Alban_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Basilea of the Via Latina
 imageCreditUrl: https://en.wikipedia.org/wiki/Saint%20Alban
+prayers: []
 ---
 
 Martyred in the persecutions of Valerian and Gallienus.

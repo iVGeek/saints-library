@@ -1,14 +1,16 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Batone of Freising"
+name: Blessed Batone of Freising
 honorific: Blessed
-summary: "Monk at the monastery of San Candido of Val Pusteria in the diocese of Freising, Germany. Chaplain to Bishop Ellenhard of Freising, who served from 1052 to 1078."
+summary: >-
+  Monk at the monastery of San Candido of Val Pusteria in the diocese of Freising, Germany. Chaplain to Bishop Ellenhard
+  of Freising, who served from 1052 to 1078.
 searchAliases:
-  - "Baturico"
-  - "Baturicus"
-died: "buried in the church of Saint Andrea in Freising, Germany"
-deathPlace: "Germany"
-region: "Germany"
+  - Baturico
+  - Baturicus
+died: buried in the church of Saint Andrea in Freising, Germany
+deathPlace: Germany
+region: Germany
 feastDay:
   month: 7
   day: 31
@@ -17,6 +19,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Monk at the monastery of San Candido of Val Pusteria in the diocese of Freising, Germany. Chaplain to Bishop Ellenhard of Freising, who served from 1052 to 1078.

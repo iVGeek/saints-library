@@ -26,6 +26,7 @@ vocation:
   - Soldier
   - Missionary
 martyr: false
+prayers: []
 ---
 
 One of eleven children born to Prudenzio Guizar and Natividad Valencia, wealthy and pious land owners. Ordained in 1901. Conducted missions throughout Mexico. Founded the Congregation of Missionaries of Our Lady of Hope in 1903. Apostolic missionary in 1905. Spiritual director in the major seminary of Zamora, Mexico. Used his family's money to found a school for poor girls. Founded two colleges for boys.

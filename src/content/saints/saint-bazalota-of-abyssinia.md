@@ -1,8 +1,8 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Bazalota of Abyssinia"
+name: Saint Bazalota of Abyssinia
 honorific: Saint
-summary: "4th century nun in Abyssinia (modern Ethiopia)."
+summary: 4th century nun in Abyssinia (modern Ethiopia).
 feastDay:
   month: 6
   day: 6
@@ -11,6 +11,7 @@ vocation:
   - Monk
   - Religious
 martyr: false
+prayers: []
 ---
 
 4th century nun in Abyssinia (modern Ethiopia).

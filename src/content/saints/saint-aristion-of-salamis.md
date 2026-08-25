@@ -17,6 +17,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/d/d0/Antonio_Rodr%C3%ADguez_-_Saint_Augustine_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Aristion of Salamis
 imageCreditUrl: https://en.wikipedia.org/wiki/Amillennialism
+prayers: []
 ---
 
 One of Jesus's 72 disciples. Preached in Cyprus. Martyr.

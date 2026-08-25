@@ -1,17 +1,20 @@
 ---
-name: "Blessed Anton Martin Slomsek"
+name: Blessed Anton Martin Slomsek
 honorific: Blessed
-summary: "Born to a peasant family in the Austro-Hungarian Empire. Seminarian at Klagenfurt, Austria. Ordained on 8 September 1824. Parish priest for five years. Spiritual director of the Klagenfurt seminary. Taught the Slovene language to seminarians; because the rulers of the empire spok"
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Anton-Martin-Slomsek.jpg"
+summary: >-
+  Born to a peasant family in the Austro-Hungarian Empire. Seminarian at Klagenfurt, Austria. Ordained on 8 September
+  1824. Parish priest for five years. Spiritual director of the Klagenfurt seminary. Taught the Slovene language to
+  seminarians; because the rulers of the empire spok
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Anton-Martin-Slomsek.jpg
 searchAliases:
-  - "Anton Martin Slomshek"
+  - Anton Martin Slomshek
 birthYear: 1800
 deathYear: 1862
-born: "26 November 1800 in Ponikva pri Žalcu, Savinjska, Slovenia"
-died: "24 September 1862 in Maribor, Podravska, Slovenia of natural causes"
-birthPlace: "Savinjska, Slovenia"
-deathPlace: "Podravska, Slovenianatural causes"
-region: "Austria"
+born: 26 November 1800 in Ponikva pri Žalcu, Savinjska, Slovenia
+died: 24 September 1862 in Maribor, Podravska, Slovenia of natural causes
+birthPlace: Savinjska, Slovenia
+deathPlace: Podravska, Slovenianatural causes
+region: Austria
 feastDay:
   month: 9
   day: 24
@@ -20,6 +23,7 @@ vocation:
   - Bishop
   - Priest
 martyr: false
+prayers: []
 ---
 
 Born to a peasant family in the Austro-Hungarian Empire. Seminarian at Klagenfurt, Austria. Ordained on 8 September 1824. Parish priest for five years. Spiritual director of the Klagenfurt seminary. Taught the Slovene language to seminarians; because the rulers of the empire spoke German, Slovenian was in danger of disappearing. Prince-bishop of Lavant, Austria (modern Maribor, Slovenia) on 30 May 1846, a diocese with a Slovene majority.

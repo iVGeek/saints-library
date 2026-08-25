@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Martin of Moyenmoutier"
+name: Saint Martin of Moyenmoutier
 honorific: Saint
-summary: "Monk in the monastery in Moyenmoutier, France. Helped found the monastery in the area of Romont in modern Switzerland."
+summary: Monk in the monastery in Moyenmoutier, France. Helped found the monastery in the area of Romont in modern Switzerland.
 deathYear: 690
-died: "c.690"
-region: "France"
+died: c.690
+region: France
 feastDay:
   month: 9
   day: 28
@@ -13,6 +13,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: false
+prayers: []
 ---
 
 Monk in the monastery in Moyenmoutier, France. Helped found the monastery in the area of Romont in modern Switzerland.

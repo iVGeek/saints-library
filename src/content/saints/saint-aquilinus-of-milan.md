@@ -23,6 +23,7 @@ vocation:
 patronage:
   - porters
 martyr: false
+prayers: []
 ---
 
 Priest. Offered the diocese in Cologne, Germany, but turned it down to become a wandering preacher, travelling to Paris, France and Milan, Italy, fighting Arianism. Missionary bishop, ordained in Milan. Murdered by Arians.

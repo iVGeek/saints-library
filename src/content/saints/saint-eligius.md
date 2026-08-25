@@ -1,25 +1,28 @@
 ---
-name: "Saint Eligius of Noyon"
+name: Saint Eligius of Noyon
 honorific: Saint
-summary: "Son of Eucherius and Terrigia. Extremely skillful metalsmith. Apprenticed to the master of the mint at Limoges, France. Treasurer at Marseilles, France. Master of the mint under King Clotaire II in Paris, France; a close friend of and advisor to Clotaire. Noted for his piety, har"
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Eligius-of-Noyon1.jpg"
+summary: >-
+  Son of Eucherius and Terrigia. Extremely skillful metalsmith. Apprenticed to the master of the mint at Limoges,
+  France. Treasurer at Marseilles, France. Master of the mint under King Clotaire II in Paris, France; a close friend of
+  and advisor to Clotaire. Noted for his piety, har
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Eligius-of-Noyon1.jpg
 searchAliases:
-  - "Alar"
-  - "Elaere"
-  - "Elar"
-  - "Elard"
-  - "Eler"
-  - "Eloi"
-  - "Eloy"
-  - "Eloye"
-  - "Iler"
-  - "Loie"
-  - "Loije"
-  - "Loy"
+  - Alar
+  - Elaere
+  - Elar
+  - Elard
+  - Eler
+  - Eloi
+  - Eloy
+  - Eloye
+  - Iler
+  - Loie
+  - Loije
+  - Loy
 deathYear: 660
-died: "1 December 660 at Noyon, France of high fever"
-deathPlace: "Francehigh fever"
-region: "Belgium"
+died: 1 December 660 at Noyon, France of high fever
+deathPlace: Francehigh fever
+region: Belgium
 feastDay:
   month: 12
   day: 1
@@ -28,91 +31,95 @@ vocation:
   - Bishop
   - Priest
 patronage:
-  - "against boils"
-  - "against enteritis"
-  - "against epidemics"
-  - "against equine diseases"
-  - "against poverty"
-  - "against ulcers"
-  - "agricultural workers"
-  - "basket makers"
-  - "blacksmiths"
-  - "boilermakers"
-  - "cab drivers"
-  - "cabmen"
-  - "candle makers"
-  - "carpenters"
-  - "carriage makers"
-  - "cart makers"
-  - "carters"
-  - "cartwrights"
-  - "clock makers"
-  - "coachmen"
-  - "coachwrights"
-  - "computer scientists"
-  - "craftsmen"
-  - "cutlers"
-  - "cutlery makers"
-  - "electricians"
-  - "engravers"
-  - "farm workers"
-  - "farmers"
-  - "farriers"
-  - "garage workers"
-  - "gas station workers"
-  - "gilders"
-  - "gold workers"
-  - "goldsmiths"
-  - "guards"
-  - "gunsmiths"
-  - "harness makers"
-  - "horse traders"
-  - "horseshoe makers"
-  - "jewelers"
-  - "jockeys"
-  - "knife makers"
-  - "laborers"
-  - "lamp makers"
-  - "livestock"
-  - "locksmiths"
-  - "mechanics"
-  - "metal casters"
-  - "metal workers"
-  - "metalsmiths"
-  - "miners"
-  - "minters"
-  - "minting"
-  - "numismatics"
-  - "saddle makers"
-  - "saddlers"
-  - "scissors grinders"
-  - "security guards"
-  - "servants"
-  - "silversmiths"
-  - "taxi drivers"
-  - "teamsters"
-  - "tinsmiths"
-  - "tool makers"
-  - "veterinarians"
-  - "watch makers"
-  - "wheelwrights"
-  - "coin collectors"
-  - "garages"
-  - "gas stations"
-  - "horses"
-  - "livestock"
-  - "metal collectors"
-  - "numismatists"
-  - "peasants"
-  - "petrol stations"
-  - "precious metal collectors"
-  - "sick horses"
-  - "REME"
-  - "Royal Electrical and Mechanical Engineers"
-  - "Worshipful Company of Blacksmiths"
-  - "in Belgium\n\nEloois-Vijve"
-  - "Sint-Eloois-Winkel"
+  - against boils
+  - against enteritis
+  - against epidemics
+  - against equine diseases
+  - against poverty
+  - against ulcers
+  - agricultural workers
+  - basket makers
+  - blacksmiths
+  - boilermakers
+  - cab drivers
+  - cabmen
+  - candle makers
+  - carpenters
+  - carriage makers
+  - cart makers
+  - carters
+  - cartwrights
+  - clock makers
+  - coachmen
+  - coachwrights
+  - computer scientists
+  - craftsmen
+  - cutlers
+  - cutlery makers
+  - electricians
+  - engravers
+  - farm workers
+  - farmers
+  - farriers
+  - garage workers
+  - gas station workers
+  - gilders
+  - gold workers
+  - goldsmiths
+  - guards
+  - gunsmiths
+  - harness makers
+  - horse traders
+  - horseshoe makers
+  - jewelers
+  - jockeys
+  - knife makers
+  - laborers
+  - lamp makers
+  - livestock
+  - locksmiths
+  - mechanics
+  - metal casters
+  - metal workers
+  - metalsmiths
+  - miners
+  - minters
+  - minting
+  - numismatics
+  - saddle makers
+  - saddlers
+  - scissors grinders
+  - security guards
+  - servants
+  - silversmiths
+  - taxi drivers
+  - teamsters
+  - tinsmiths
+  - tool makers
+  - veterinarians
+  - watch makers
+  - wheelwrights
+  - coin collectors
+  - garages
+  - gas stations
+  - horses
+  - livestock
+  - metal collectors
+  - numismatists
+  - peasants
+  - petrol stations
+  - precious metal collectors
+  - sick horses
+  - REME
+  - Royal Electrical and Mechanical Engineers
+  - Worshipful Company of Blacksmiths
+  - |-
+    in Belgium
+
+    Eloois-Vijve
+  - Sint-Eloois-Winkel
 martyr: false
+prayers: []
 ---
 
 Son of Eucherius and Terrigia. Extremely skillful metalsmith. Apprenticed to the master of the mint at Limoges, France. Treasurer at Marseilles, France. Master of the mint under King Clotaire II in Paris, France; a close friend of and advisor to Clotaire. Noted for his piety, hard work and honesty, Eligius was generous to the poor, ransomed slaves (including Saint Tillo of Solignac), built churches, a monastery at Solignac, France, and a major convent in Paris. It was said that you could easily find his house by the number of poor people there that he was caring for. Counselor to and diplomat for King Dagobert I. Friend of Saint Ouen of Rouen with whom he formed a small religious society. Persuaded Breton King Judicael to accept the authority of Dagobert.

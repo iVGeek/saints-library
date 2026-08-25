@@ -1,15 +1,18 @@
 ---
-name: "Blessed Alexander of Lugo"
-image: "https://upload.wikimedia.org/wikipedia/commons/0/0e/Alexander_Romanovsky.png"
+name: Blessed Alexander of Lugo
+image: https://upload.wikimedia.org/wikipedia/commons/0/0e/Alexander_Romanovsky.png
 honorific: Blessed
-summary: "Alexander joined the Dominicans in Lugo, Italy in 1612, then studied in Faenza, Naples, and the convent of Our Lady of the Arch. Priest, assigned to Bologna, Italy soon after ordination. He worked himself so hard, in pulpit and with the needy, that he ruined his health and had to"
+summary: >-
+  Alexander joined the Dominicans in Lugo, Italy in 1612, then studied in Faenza, Naples, and the convent of Our Lady of
+  the Arch. Priest, assigned to Bologna, Italy soon after ordination. He worked himself so hard, in pulpit and with the
+  needy, that he ruined his health and had to
 searchAliases:
-  - "Alexander Baldrati"
-  - "Alexander Baldrati a Lugo"
+  - Alexander Baldrati
+  - Alexander Baldrati a Lugo
 birthYear: 1595
-born: "1595 in Lugo, Italy"
-birthPlace: "Italy"
-region: "Italy"
+born: 1595 in Lugo, Italy
+birthPlace: Italy
+region: Italy
 feastDay:
   month: 2
   day: 10
@@ -17,8 +20,9 @@ canonizationStatus: Blessed
 vocation:
   - Bishop
   - Priest
-religiousOrder: "Dominican"
+religiousOrder: Dominican
 martyr: true
+prayers: []
 ---
 
 Alexander joined the Dominicans in Lugo, Italy in 1612, then studied in Faenza, Naples, and the convent of Our Lady of the Arch. Priest, assigned to Bologna, Italy soon after ordination. He worked himself so hard, in pulpit and with the needy, that he ruined his health and had to be reassigned to Venice, Italy to recover.

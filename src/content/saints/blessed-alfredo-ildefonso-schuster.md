@@ -1,17 +1,17 @@
 ---
-name: "Blessed Alfredo Ildefonso Schuster"
+name: Blessed Alfredo Ildefonso Schuster
 honorific: Blessed
-summary: " Novice master of his house f Educated at Saint-Paul-Outside-the-Walls abbey, Rome, Italy from age 11. Entered the Cassinese Benedictine monastic noviate in 1896, taking the name Ildefonso. Made his formal monastic confession on 13 November 1900. Ordained on 19 March 1904 in Rome."
-image: "https://upload.wikimedia.org/wikipedia/commons/4/46/Cardinal_Schuster_%28original%2C_cropped%29.jpg"
+summary: ' Novice master of his house f Educated at Saint-Paul-Outside-the-Walls abbey, Rome, Italy from age 11. Entered the Cassinese Benedictine monastic noviate in 1896, taking the name Ildefonso. Made his formal monastic confession on 13 November 1900. Ordained on 19 March 1904 in Rome.'
+image: https://upload.wikimedia.org/wikipedia/commons/4/46/Cardinal_Schuster_%28original%2C_cropped%29.jpg
 searchAliases:
-  - "Alfredo Ludovico Luigi Schuster"
+  - Alfredo Ludovico Luigi Schuster
 birthYear: 1880
 deathYear: 1954
-born: "18 January 1880 at Rome, Italy as Alfredo Ludovico Luigi Schuster"
-died: "30 August 1954 at Venegono, Italy of natural causes"
-birthPlace: "Italy as Alfredo Ludovico Luigi Schuster"
-deathPlace: "Italynatural causes"
-region: "Italy"
+born: 18 January 1880 at Rome, Italy as Alfredo Ludovico Luigi Schuster
+died: 30 August 1954 at Venegono, Italy of natural causes
+birthPlace: Italy as Alfredo Ludovico Luigi Schuster
+deathPlace: Italynatural causes
+region: Italy
 feastDay:
   month: 8
   day: 30
@@ -20,8 +20,9 @@ vocation:
   - Bishop
   - Priest
   - Cardinal
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 martyr: false
+prayers: []
 ---
 
 Educated at Saint-Paul-Outside-the-Walls abbey, Rome, Italy from age 11. Entered the Cassinese Benedictine monastic noviate in 1896, taking the name Ildefonso. Made his formal monastic confession on 13 November 1900. Ordained on 19 March 1904 in Rome.

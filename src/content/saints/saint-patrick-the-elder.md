@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Patrick the Elder"
+name: Saint Patrick the Elder
 honorific: Saint
-summary: "Bishop in Ireland."
+summary: Bishop in Ireland.
 deathYear: 450
-died: "c.450 of natural causes"
-region: "Ireland"
+died: c.450 of natural causes
+region: Ireland
 feastDay:
   month: 8
   day: 24
@@ -14,6 +14,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Bishop in Ireland.

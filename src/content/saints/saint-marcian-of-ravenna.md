@@ -1,13 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Marcian of Ravenna"
+name: Saint Marcian of Ravenna
 honorific: Saint
-summary: "Bishop of Ravenna, Italy in 112."
+summary: Bishop of Ravenna, Italy in 112.
 searchAliases:
-  - "Mariano"
+  - Mariano
 deathYear: 127
-died: "c.127"
-region: "Italy"
+died: c.127
+region: Italy
 feastDay:
   month: 5
   day: 22
@@ -16,6 +16,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Bishop of Ravenna, Italy in 112.

@@ -1,15 +1,18 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed John Nelson"
+name: Blessed John Nelson
 honorific: Blessed
-summary: "Studied for the priesthood at Douai, France, beginning at age 39. Ordained at Binche, Hainault (in modern Belgium) on 11 June 1576. Two of his four brothers followed him into the priesthood. John returned to England on 7 November 1576 as a missioner to London. Joined the Jesuits"
+summary: >-
+  Studied for the priesthood at Douai, France, beginning at age 39. Ordained at Binche, Hainault (in modern Belgium) on
+  11 June 1576. Two of his four brothers followed him into the priesthood. John returned to England on 7 November 1576
+  as a missioner to London. Joined the Jesuits
 birthYear: 1534
 deathYear: 1578
-born: "1534 at Skelton, Yorkshire, England"
-died: "hanged, drawn, and quartered on 3 February 1578 at Tyburn, London England"
-birthPlace: "Yorkshire, England"
-deathPlace: "drawn, and quartered on 3 February 1578 at Tyburn, London England"
-region: "Belgium"
+born: 1534 at Skelton, Yorkshire, England
+died: hanged, drawn, and quartered on 3 February 1578 at Tyburn, London England
+birthPlace: Yorkshire, England
+deathPlace: drawn, and quartered on 3 February 1578 at Tyburn, London England
+region: Belgium
 feastDay:
   month: 2
   day: 3
@@ -17,8 +20,9 @@ canonizationStatus: Blessed
 vocation:
   - Priest
   - Confessor
-religiousOrder: "Jesuit"
+religiousOrder: Jesuit
 martyr: false
+prayers: []
 ---
 
 Studied for the priesthood at Douai, France, beginning at age 39. Ordained at Binche, Hainault (in modern Belgium) on 11 June 1576. Two of his four brothers followed him into the priesthood. John returned to England on 7 November 1576 as a missioner to London. Joined the Jesuits at some point; though the date has been lost it was probably close to the time of his arrest.

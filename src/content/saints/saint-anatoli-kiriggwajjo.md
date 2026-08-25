@@ -1,24 +1,26 @@
 ---
-name: "Saint Anatoli Kiriggwajjo"
+name: Saint Anatoli Kiriggwajjo
 honorific: Venerable
-summary: "Herdsman. Page to King Mwanga. Convert. One of the Martyrs of Uganda who died in the Mwangan persecutions."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Anatoli-Kiriggwajjo.jpg"
+summary: Herdsman. Page to King Mwanga. Convert. One of the Martyrs of Uganda who died in the Mwangan persecutions.
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Anatoli-Kiriggwajjo.jpg
 searchAliases:
-  - "Anatolius Kiriggwajjo"
-  - "Anatole Kiriggwajjo"
+  - Anatolius Kiriggwajjo
+  - Anatole Kiriggwajjo
 deathYear: 1886
-born: "at Bunyoro, Uganda"
-died: "burned alive on 3 June 1886 at Namugongo, Uganda"
-birthPlace: "Uganda"
-deathPlace: "Uganda"
-region: "Africa"
+born: at Bunyoro, Uganda
+died: burned alive on 3 June 1886 at Namugongo, Uganda
+birthPlace: Uganda
+deathPlace: Uganda
+region: Africa
 feastDay:
   month: 6
   day: 3
-centuries: [19]
+centuries:
+  - 19
 canonizationStatus: Venerable
 vocation: []
 martyr: true
+prayers: []
 ---
 
 Herdsman. Page to King Mwanga. Convert. One of the Martyrs of Uganda who died in the Mwangan persecutions.

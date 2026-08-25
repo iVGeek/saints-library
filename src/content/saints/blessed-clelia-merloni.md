@@ -1,15 +1,18 @@
 ---
-name: "Blessed Clelia Merloni"
+name: Blessed Clelia Merloni
 honorific: Blessed
-summary: "The daughter of Gioacchino Merloni, a wealthy and influential industrialist, and Teresa Brandinelli; Clelia was baptized in the diocesan cathedral of Santa Croce in Forli, Italy when she was only a few hours old. Her mother died in 1864 when Clelia was only 3 years old; her mater"
-image: "https://upload.wikimedia.org/wikipedia/commons/6/68/Clelia_Merloni.jpg"
+summary: >-
+  The daughter of Gioacchino Merloni, a wealthy and influential industrialist, and Teresa Brandinelli; Clelia was
+  baptized in the diocesan cathedral of Santa Croce in Forli, Italy when she was only a few hours old. Her mother died
+  in 1864 when Clelia was only 3 years old; her mater
+image: https://upload.wikimedia.org/wikipedia/commons/6/68/Clelia_Merloni.jpg
 birthYear: 1861
 deathYear: 1930
-born: "10 March 1861 in Forli, Italy"
-died: "21 November 1930 in Rome, Italy of natural causes"
-birthPlace: "Italy"
-deathPlace: "Italynatural causes"
-region: "Africa"
+born: 10 March 1861 in Forli, Italy
+died: 21 November 1930 in Rome, Italy of natural causes
+birthPlace: Italy
+deathPlace: Italynatural causes
+region: Africa
 feastDay:
   month: 11
   day: 21
@@ -18,8 +21,9 @@ vocation:
   - Bishop
   - Priest
 patronage:
-  - "Apostles of the Sacred Heart of Jesus"
+  - Apostles of the Sacred Heart of Jesus
 martyr: false
+prayers: []
 ---
 
 The daughter of Gioacchino Merloni, a wealthy and influential industrialist, and Teresa Brandinelli; Clelia was baptized in the diocesan cathedral of Santa Croce in Forli, Italy when she was only a few hours old. Her mother died in 1864 when Clelia was only 3 years old; her maternal grandmother and her step-mother, Maria Giovanna Boeri who married Gioacchino in 1866, raised her to be a pious girl with a good education. Her father became so involved in succeeding in business that he became openly hostile to religion in general, joined the Freemasons, and became specifically anti–Catholic. He planned to have Clelia follow him into business, but she was drawn to religious life which led to family strife as he blamed the women in the family for turning Clelia against him. Clelia responded by praying for him and doing penance in reparation of her father's actions. He was reconciled to the faith before his death in 1885.

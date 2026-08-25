@@ -19,6 +19,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/7/7f/Marcellus_Cassian.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Claudius of Léon
 imageCreditUrl: https://en.wikipedia.org/wiki/Marcellus%20of%20Tangier
+prayers: []
 ---
 
 Son of Saint Marcellus of Centurion; brother of Saint Lupercus of Léon and Saint Victorius of Léon. Martyred in the persecutions of Diocletian.

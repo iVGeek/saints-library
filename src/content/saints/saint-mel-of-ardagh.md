@@ -1,16 +1,19 @@
 ---
-name: "Saint Mel of Ardagh"
+name: Saint Mel of Ardagh
 honorific: Saint
-summary: "Son of Conis and Saint Darerca, one of their nineteen children. Brother of Saint Melchu. Nephew of Saint Patrick. Travelled with Patrick and helped evangelize Ireland. Ordained bishop of Ardagh, Ireland by Patrick. Reputed to have professed Saint Brigid of Ireland as a nun. He su"
-image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Mel-of-Ardagh.jpg"
+summary: >-
+  Son of Conis and Saint Darerca, one of their nineteen children. Brother of Saint Melchu. Nephew of Saint Patrick.
+  Travelled with Patrick and helped evangelize Ireland. Ordained bishop of Ardagh, Ireland by Patrick. Reputed to have
+  professed Saint Brigid of Ireland as a nun. He su
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Mel-of-Ardagh.jpg
 searchAliases:
-  - "Mael"
-  - "Melchno"
-  - "Melis"
+  - Mael
+  - Melchno
+  - Melis
 deathYear: 489
-born: "British Isles"
-died: "c.489 of natural causes"
-region: "Ireland"
+born: British Isles
+died: c.489 of natural causes
+region: Ireland
 feastDay:
   month: 2
   day: 6
@@ -20,10 +23,11 @@ vocation:
   - Monk
   - Religious
 patronage:
-  - "Ardagh, Ireland, city of"
-  - "Ardagh, Ireland, diocese of"
-  - "Ardagh and Clonmacnois, Ireland, diocese of"
+  - Ardagh, Ireland, city of
+  - Ardagh, Ireland, diocese of
+  - Ardagh and Clonmacnois, Ireland, diocese of
 martyr: false
+prayers: []
 ---
 
 Son of Conis and Saint Darerca, one of their nineteen children. Brother of Saint Melchu. Nephew of Saint Patrick. Travelled with Patrick and helped evangelize Ireland. Ordained bishop of Ardagh, Ireland by Patrick. Reputed to have professed Saint Brigid of Ireland as a nun. He supported himself by working with his hands, and gave to the poor anything beyond the bare minimum.

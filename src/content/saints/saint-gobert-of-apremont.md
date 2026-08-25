@@ -1,19 +1,20 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Gobert of Apremont"
+name: Saint Gobert of Apremont
 honorific: Saint
-summary: "Count of Apremont. Crusader. Benedictine Cistercian monk at Villers, Brabant, Belgium."
+summary: Count of Apremont. Crusader. Benedictine Cistercian monk at Villers, Brabant, Belgium.
 deathYear: 1263
-died: "1263 of natural causes"
-region: "Belgium"
+died: 1263 of natural causes
+region: Belgium
 feastDay:
   month: 8
   day: 20
 canonizationStatus: Saint
 vocation:
   - Monk
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 martyr: false
+prayers: []
 ---
 
 Count of Apremont. Crusader. Benedictine Cistercian monk at Villers, Brabant, Belgium.

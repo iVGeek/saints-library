@@ -30,6 +30,7 @@ vocation:
   - Monk
 religiousOrder: Franciscan
 martyr: false
+prayers: []
 ---
 
 Spent his youth as a shepherd. Studied philosophy and theology in Viterbo, Italy. Joined the Observant Franciscans in 1675. Parish priest, assigned to Civitella, Italy. Known for his simple life, his strict observance of the Franciscan way, and his gifts of healing. His preaching, confessions and spiritual retreats, incarnated the evangelical counsel of the total gift of self to God and his fellow men.

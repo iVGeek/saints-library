@@ -1,13 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Croniacke"
+name: Saint Croniacke
 honorific: Saint
-summary: "Benedictine monk in northern Scotland."
+summary: Benedictine monk in northern Scotland.
 searchAliases:
-  - "Cro-niacke"
+  - Cro-niacke
 deathYear: 650
-died: "c.650 in Scotland of natural causes"
-region: "Scotland"
+died: c.650 in Scotland of natural causes
+region: Scotland
 feastDay:
   month: 1
   day: 4
@@ -15,8 +15,9 @@ canonizationStatus: Saint
 vocation:
   - Priest
   - Monk
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 martyr: false
+prayers: []
 ---
 
 Benedictine monk in northern Scotland.

@@ -1,22 +1,23 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Lucas Tsuji Kyuemon"
+name: Blessed Lucas Tsuji Kyuemon
 honorific: Blessed
-summary: "Member of the Secular Franciscans in the archdiocese of Nagasaki, Japan. Martyr."
+summary: Member of the Secular Franciscans in the archdiocese of Nagasaki, Japan. Martyr.
 deathYear: 1627
-born: "Nagasaki, Japan"
-died: "16 August 1627 in Nagasaki, Japan"
-birthPlace: "Japan"
-deathPlace: "Japan"
-region: "Japan"
+born: Nagasaki, Japan
+died: 16 August 1627 in Nagasaki, Japan
+birthPlace: Japan
+deathPlace: Japan
+region: Japan
 feastDay:
   month: 8
   day: 27
 canonizationStatus: Blessed
 vocation:
   - Monk
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 martyr: true
+prayers: []
 ---
 
 Member of the Secular Franciscans in the archdiocese of Nagasaki, Japan. Martyr.

@@ -1,26 +1,33 @@
 ---
-name: "Venerable Ismael Molinero Novillo"
+name: Venerable Ismael Molinero Novillo
 honorific: Venerable
-summary: "The son of Francisco Antonio Lázaro Molinero Román and Ángela María Francisca Novillo y López, Ismael was baptized at the age of five days, made his first Communion on 11 June 1925 at age 8, and was confirmed by Blessed Narciso de Esténaga y Echevarría. In 1931, at age 14, he dro"
-image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Ismael-Molinero-Novillo.jpg"
+summary: >-
+  The son of Francisco Antonio Lázaro Molinero Román and Ángela María Francisca Novillo y López, Ismael was baptized at
+  the age of five days, made his first Communion on 11 June 1925 at age 8, and was confirmed by Blessed Narciso de
+  Esténaga y Echevarría. In 1931, at age 14, he dro
+image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Ismael-Molinero-Novillo.jpg
 searchAliases:
-  - "Ismael de Tomelloso"
+  - Ismael de Tomelloso
 birthYear: 1917
 deathYear: 1938
-born: "1 May 1917 in Tomelloso, Spain"
-died: "5 May 1938 in the camp hospital of the San Gregorio prison camp in San Juan de Mozarrifar, Zaragoza, Spain of pneumonia"
-birthPlace: "Spain"
-deathPlace: "Zaragoza, Spaof pneumonia"
-region: "Spain"
+born: 1 May 1917 in Tomelloso, Spain
+died: >-
+  5 May 1938 in the camp hospital of the San Gregorio prison camp in San Juan de Mozarrifar, Zaragoza, Spain of
+  pneumonia
+birthPlace: Spain
+deathPlace: Zaragoza, Spaof pneumonia
+region: Spain
 feastDay:
   month: 6
   day: 11
-centuries: [20]
+centuries:
+  - 20
 canonizationStatus: Venerable
 vocation:
   - Priest
   - Soldier
 martyr: false
+prayers: []
 ---
 
 The son of Francisco Antonio Lázaro Molinero Román and Ángela María Francisca Novillo y López, Ismael was baptized at the age of five days, made his first Communion on 11 June 1925 at age 8, and was confirmed by Blessed Narciso de Esténaga y Echevarría. In 1931, at age 14, he dropped out of school and went to work as a store clerk to help his family. He joined Catholic Action in Tomelloso, Spain in 1933, and over the next year or so became active in their work, in his parish, in visiting the local hospital, and in his faith in general; he became the treasurer of his Catholic Action chapter. He made a spiritual retreat in the Ciudad Real seminary in April 1935 that was led by Father José Sánchez Oliva.

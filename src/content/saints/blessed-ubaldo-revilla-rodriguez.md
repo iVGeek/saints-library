@@ -1,22 +1,23 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Ubaldo Revilla Rodríguez"
+name: Blessed Ubaldo Revilla Rodríguez
 honorific: Blessed
-summary: "Augustinian cleric. Martyred in the Spanish Civil War."
+summary: Augustinian cleric. Martyred in the Spanish Civil War.
 birthYear: 1885
 deathYear: 1936
-born: "16 May 1885 in Buenavista de Valdavia, Palencia, Spain"
-died: "5 August 1936 in Fuente la Higuera, Valencia, Spain"
-birthPlace: "Palencia, Spain"
-deathPlace: "Valencia, Spain"
-region: "Spain"
+born: 16 May 1885 in Buenavista de Valdavia, Palencia, Spain
+died: 5 August 1936 in Fuente la Higuera, Valencia, Spain
+birthPlace: Palencia, Spain
+deathPlace: Valencia, Spain
+region: Spain
 feastDay:
   month: 8
   day: 5
 canonizationStatus: Blessed
 vocation: []
-religiousOrder: "Augustinian"
+religiousOrder: Augustinian
 martyr: true
+prayers: []
 ---
 
 Augustinian cleric. Martyred in the Spanish Civil War.

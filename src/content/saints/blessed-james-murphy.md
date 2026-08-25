@@ -1,13 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed James Murphy"
+name: Blessed James Murphy
 honorific: Blessed
-summary: "Priest in the diocese of Ferns, Ireland. One of the Irish Martyrs."
+summary: Priest in the diocese of Ferns, Ireland. One of the Irish Martyrs.
 deathYear: 1655
-born: "Irish"
-died: "14 April 1655 in Wexford, Ireland"
-deathPlace: "Ireland"
-region: "Ireland"
+born: Irish
+died: 14 April 1655 in Wexford, Ireland
+deathPlace: Ireland
+region: Ireland
 feastDay:
   month: 4
   day: 14
@@ -16,6 +16,7 @@ vocation:
   - Priest
   - Monk
 martyr: true
+prayers: []
 ---
 
 Priest in the diocese of Ferns, Ireland. One of the Irish Martyrs.

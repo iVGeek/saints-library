@@ -1,12 +1,12 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Vissia of Fermo"
+name: Saint Vissia of Fermo
 honorific: Saint
-summary: "Consecrated virgin martyred in the persecutions of Decius."
+summary: Consecrated virgin martyred in the persecutions of Decius.
 deathYear: 250
-died: "martyred c.250 in Fermo, Italy"
-deathPlace: "Italy"
-region: "Italy"
+died: martyred c.250 in Fermo, Italy
+deathPlace: Italy
+region: Italy
 feastDay:
   month: 4
   day: 12
@@ -16,8 +16,9 @@ vocation:
   - Monk
   - Religious
 patronage:
-  - "Fermo, Italy"
+  - Fermo, Italy
 martyr: true
+prayers: []
 ---
 
 Consecrated virgin martyred in the persecutions of Decius.

@@ -19,6 +19,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/4c/Sketch_of_the_Mona_Lisa_by_Raphael.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Apollo of Novellara
 imageCreditUrl: https://en.wikipedia.org/wiki/Two%E2%80%93Mona%20Lisa%20theory
+prayers: []
 ---
 
 Martyred in the persecutions of Diocletian.

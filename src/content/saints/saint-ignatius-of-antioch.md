@@ -29,6 +29,7 @@ patronage:
   - Church in eastern Mediterranean
   - Church in North Africa
 martyr: true
+prayers: []
 ---
 
 Convert from paganism to Christianity. Succeeded Saint Peter the Apostle as bishop of Antioch, Syria. Served during persecution of Domitian. During the persecution of Trajan, he was ordered taken to Rome to be killed by wild animals. On the way, a journey which took months, he wrote a series of encouraging letters to the churches under his care. First writer to use the term the Catholic Church. Martyr. Apostolic Father. His name occurs in the “Nobis quoque peccatoribus” in the Canon of the Mass. Legend says he was the infant that Jesus took into his arms in Mark 9.

@@ -1,13 +1,15 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Eusebius of Saint Gall"
+name: Saint Eusebius of Saint Gall
 honorific: Saint
-summary: "Monk of Saint Gall Abbey in Switzerland. Hermit on Mount Saint Victor in the Vorarlberg region of modern Austria. Killed while preaching against godlessness. Martyr."
+summary: >-
+  Monk of Saint Gall Abbey in Switzerland. Hermit on Mount Saint Victor in the Vorarlberg region of modern Austria.
+  Killed while preaching against godlessness. Martyr.
 deathYear: 884
-born: "Ireland"
-died: "hit with a scythe in 884 in  Viktorsberg, Vorarlberg, (in modern Austria)"
-deathPlace: "Vorarlberg, (modern Austria)"
-region: "Austria"
+born: Ireland
+died: hit with a scythe in 884 in  Viktorsberg, Vorarlberg, (in modern Austria)
+deathPlace: Vorarlberg, (modern Austria)
+region: Austria
 feastDay:
   month: 1
   day: 31
@@ -16,6 +18,7 @@ vocation:
   - Monk
   - Hermit
 martyr: true
+prayers: []
 ---
 
 Monk of Saint Gall Abbey in Switzerland. Hermit on Mount Saint Victor in the Vorarlberg region of modern Austria. Killed while preaching against godlessness. Martyr.

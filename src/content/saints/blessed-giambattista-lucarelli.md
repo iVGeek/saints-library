@@ -1,17 +1,20 @@
 ---
-name: "Blessed Giambattista Lucarelli"
+name: Blessed Giambattista Lucarelli
 honorific: Blessed
-summary: "The son of Gregorio and Camilla Perti, Giambattista joined the Franciscan Friars Minor Conventual at Mondaino, Italy as a teenager in 1554. There he studied theology, earning a doctorate while still a young man. Priest. Assigned by Pope Pius V to serve as confessor to the soldier"
-image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Giambattista-Lucarelli.jpg"
+summary: >-
+  The son of Gregorio and Camilla Perti, Giambattista joined the Franciscan Friars Minor Conventual at Mondaino, Italy
+  as a teenager in 1554. There he studied theology, earning a doctorate while still a young man. Priest. Assigned by
+  Pope Pius V to serve as confessor to the soldier
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Giambattista-Lucarelli.jpg
 searchAliases:
-  - "John Baptist Lucarelli"
+  - John Baptist Lucarelli
 birthYear: 1540
 deathYear: 1604
-born: "1540 Montelevecchie, (modern Belvedere Fogliense), Tavullia, Pesaro, Italy"
-died: "1604 in a Franciscan convent in Naples, Italy of natural causes"
-birthPlace: "(modern Belvedere Fogliense), Tavullia, Pesaro, Italy"
-deathPlace: "Italynatural causes"
-region: "Spain"
+born: 1540 Montelevecchie, (modern Belvedere Fogliense), Tavullia, Pesaro, Italy
+died: 1604 in a Franciscan convent in Naples, Italy of natural causes
+birthPlace: (modern Belvedere Fogliense), Tavullia, Pesaro, Italy
+deathPlace: Italynatural causes
+region: Spain
 feastDay:
   month: 10
   day: 7
@@ -20,8 +23,9 @@ vocation:
   - Priest
   - Missionary
   - Confessor
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 martyr: false
+prayers: []
 ---
 
 The son of Gregorio and Camilla Perti, Giambattista joined the Franciscan Friars Minor Conventual at Mondaino, Italy as a teenager in 1554. There he studied theology, earning a doctorate while still a young man. Priest. Assigned by Pope Pius V to serve as confessor to the soldiers of the Duke of Urbino, and thus he was at the battle of Lepanto on 7 October 1571.

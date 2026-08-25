@@ -17,6 +17,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/3/3f/2011_Dimos_Agias_Paraskevis.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Agia
 imageCreditUrl: https://en.wikipedia.org/wiki/Agia%20Paraskevi
+prayers: []
 ---
 
 Married. Mother of Saint Lupus of Sens. Widow.

@@ -1,19 +1,21 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Valerius of Limoges"
+name: Saint Valerius of Limoges
 honorific: Saint
-summary: "Hermit near Limoges, France in the late 5th and early 6th centuries. The Saint-Vaury monastery was founded on the site of his hermitage."
+summary: >-
+  Hermit near Limoges, France in the late 5th and early 6th centuries. The Saint-Vaury monastery was founded on the site
+  of his hermitage.
 searchAliases:
-  - "Valeric"
-  - "Valericus"
-  - "Valerio"
-  - "Valéry"
-  - "Vaulry"
-  - "Vaury"
-  - "Walericus"
-died: "early 6th century near Limoges, France of natural causes"
-deathPlace: "Francenatural causes"
-region: "France"
+  - Valeric
+  - Valericus
+  - Valerio
+  - Valéry
+  - Vaulry
+  - Vaury
+  - Walericus
+died: early 6th century near Limoges, France of natural causes
+deathPlace: Francenatural causes
+region: France
 feastDay:
   month: 1
   day: 10
@@ -21,6 +23,7 @@ canonizationStatus: Saint
 vocation:
   - Hermit
 martyr: false
+prayers: []
 ---
 
 Hermit near Limoges, France in the late 5th and early 6th centuries. The Saint-Vaury monastery was founded on the site of his hermitage.

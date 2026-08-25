@@ -1,14 +1,14 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Zosimus of Carthage"
+name: Saint Zosimus of Carthage
 honorific: Saint
-summary: "Martyred in Carthage in the persecutions of Valerian and Gallienus."
+summary: Martyred in Carthage in the persecutions of Valerian and Gallienus.
 searchAliases:
-  - "Zozimus"
+  - Zozimus
 deathYear: 263
-born: "African"
-died: "c.263"
-region: "England"
+born: African
+died: c.263
+region: England
 feastDay:
   month: 3
   day: 11
@@ -16,6 +16,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Martyred in Carthage in the persecutions of Valerian and Gallienus.

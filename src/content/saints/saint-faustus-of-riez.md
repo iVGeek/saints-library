@@ -20,6 +20,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Monk at Lérins Abbey. Abbot there in 433. Bishop of Riez, France in 459. Fought Arianism and Pelagianism in his diocese.

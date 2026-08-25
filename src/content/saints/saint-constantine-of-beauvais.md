@@ -1,11 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Constantine of Beauvais"
+name: Saint Constantine of Beauvais
 honorific: Saint
-summary: "A monk at Jumièges Abbey in France. Friend of Saint Philibert of Jumièges. Bishop of Beauvais, France in the late 7th and early 8th century."
+summary: >-
+  A monk at Jumièges Abbey in France. Friend of Saint Philibert of Jumièges. Bishop of Beauvais, France in the late 7th
+  and early 8th century.
 deathYear: 706
-died: "c.706 of natural causes"
-region: "France"
+died: c.706 of natural causes
+region: France
 feastDay:
   month: 6
   day: 15
@@ -14,6 +16,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 A monk at Jumièges Abbey in France. Friend of Saint Philibert of Jumièges. Bishop of Beauvais, France in the late 7th and early 8th century.

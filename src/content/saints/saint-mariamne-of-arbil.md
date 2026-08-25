@@ -1,12 +1,12 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Mariamne of Arbil"
+name: Saint Mariamne of Arbil
 honorific: Saint
-summary: "Nun. Executed in the persecutions of Tamsabur for refusing to renounce Christianity for sun-worship. Martyr."
+summary: Nun. Executed in the persecutions of Tamsabur for refusing to renounce Christianity for sun-worship. Martyr.
 deathYear: 347
-died: "beheaded on 31 May 347 at Arbil, Assyria (in modern Kurdistan, Iraq)"
-deathPlace: "Assyria (modern Kurdistan, Iraq)"
-region: "Italy"
+died: beheaded on 31 May 347 at Arbil, Assyria (in modern Kurdistan, Iraq)
+deathPlace: Assyria (modern Kurdistan, Iraq)
+region: Italy
 feastDay:
   month: 6
   day: 9
@@ -14,6 +14,7 @@ canonizationStatus: Saint
 vocation:
   - Religious
 martyr: true
+prayers: []
 ---
 
 Nun. Executed in the persecutions of Tamsabur for refusing to renounce Christianity for sun-worship. Martyr.

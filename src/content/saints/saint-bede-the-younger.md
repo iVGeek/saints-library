@@ -1,13 +1,15 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Bede the Younger"
+name: Saint Bede the Younger
 honorific: Saint
-summary: "Courtier to King Charles the Bald of France. After 40 years of service, he gave up the worldly life to become a monk at the monastery of Gavello, Italy. He declined to become a bishop, citing his inadequacy."
+summary: >-
+  Courtier to King Charles the Bald of France. After 40 years of service, he gave up the worldly life to become a monk
+  at the monastery of Gavello, Italy. He declined to become a bishop, citing his inadequacy.
 searchAliases:
-  - "Beda"
+  - Beda
 deathYear: 883
-died: "10 April 883"
-region: "France"
+died: 10 April 883
+region: France
 feastDay:
   month: 4
   day: 10
@@ -16,6 +18,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Courtier to King Charles the Bald of France. After 40 years of service, he gave up the worldly life to become a monk at the monastery of Gavello, Italy. He declined to become a bishop, citing his inadequacy.

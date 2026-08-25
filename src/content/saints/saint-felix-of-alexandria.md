@@ -22,6 +22,7 @@ imageCredit: >-
   Policy</a>.
 imageCreditUrl: >-
   https://commons.wikimedia.org/wiki/File:Pietro%20Lorenzetti%2C%20Saint%20Catherine%20of%20Alexandria%2C%20with%20an%20Angel%20(right%20panel)%2C%20probably%201340%2C%20NGA%20893.jpg
+prayers: []
 ---
 
 Martyr. No other information has survived.

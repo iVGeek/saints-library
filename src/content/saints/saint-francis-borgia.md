@@ -29,6 +29,7 @@ patronage:
   - Portugal (proclaimed on 13 June 1934 by Pope Pius XI)
   - Rota, Marianas
 martyr: false
+prayers: []
 ---
 
 Born to the nobility, the great-grandson of Pope Alexander VI; grandson of King Ferdinand of Aragon; son of Duke Juan Borgia. Raised in the court of King Charles V and educated at Saragossa, Spain. Married Eleanor de Castro in 1529, and the father of eight children. Accompanied Charles on his expedition to Africa, 1535, and to Provence, 1536. Viceroy of Catalonia, 1539–1543. Duke of Gandia, 1543–1550. Widower in 1546.

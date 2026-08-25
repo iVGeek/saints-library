@@ -1,25 +1,26 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Martín Donamaría Valencia"
+name: Blessed Martín Donamaría Valencia
 honorific: Blessed
-summary: "Member of the Benedictine Solesmes Congregation. Martyred in the Spanish Civil War."
+summary: Member of the Benedictine Solesmes Congregation. Martyred in the Spanish Civil War.
 searchAliases:
-  - "Rosendo"
+  - Rosendo
 birthYear: 1909
 deathYear: 1936
-born: "3 November 1909 in San Martín de Unx, Navarra, Spain"
-died: "28 August 1936 in Barbastro, Huesca, Spain"
-birthPlace: "Navarra, Spain"
-deathPlace: "Huesca, Spain"
-region: "Spain"
+born: 3 November 1909 in San Martín de Unx, Navarra, Spain
+died: 28 August 1936 in Barbastro, Huesca, Spain
+birthPlace: Navarra, Spain
+deathPlace: Huesca, Spain
+region: Spain
 feastDay:
   month: 8
   day: 28
 canonizationStatus: Blessed
 vocation:
   - Cardinal
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 martyr: true
+prayers: []
 ---
 
 Member of the Benedictine Solesmes Congregation. Martyred in the Spanish Civil War.

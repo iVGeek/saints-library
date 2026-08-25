@@ -1,38 +1,44 @@
 ---
-name: "Pope Saint John Paul II"
+name: Pope Saint John Paul II
 honorific: Venerable
-summary: "For many years Karol believed God was calling him to the priesthood, and after surviving two nearly fatal accidents, he responded to the call. He studied secretly during the German occupation of Poland, and was ordained on 1 November 1946. In these years he came to know and pract"
-image: "https://upload.wikimedia.org/wikipedia/commons/9/9c/ADAMELLO_-_PAPA_-_Giovanni_Paolo_II_-_panoramio_%28cropped%29.jpg"
+summary: >-
+  For many years Karol believed God was calling him to the priesthood, and after surviving two nearly fatal accidents,
+  he responded to the call. He studied secretly during the German occupation of Poland, and was ordained on 1 November
+  1946. In these years he came to know and pract
+image: https://upload.wikimedia.org/wikipedia/commons/9/9c/ADAMELLO_-_PAPA_-_Giovanni_Paolo_II_-_panoramio_%28cropped%29.jpg
 searchAliases:
-  - "Karol Wojtyla"
-  - "Juan Pablo II"
-  - "John Paul the Great"
+  - Karol Wojtyla
+  - Juan Pablo II
+  - John Paul the Great
 birthYear: 1920
 deathYear: 2005
-born: "18 May 1920 as Karol Wojtyla at Wadowice, Poland"
-died: "2 April 2005 at Rome, Italy of natural causes"
-birthPlace: "Poland"
-deathPlace: "Italynatural causes"
-region: "Poland"
+born: 18 May 1920 as Karol Wojtyla at Wadowice, Poland
+died: 2 April 2005 at Rome, Italy of natural causes
+birthPlace: Poland
+deathPlace: Italynatural causes
+region: Poland
 feastDay:
   month: 10
   day: 22
-centuries: [20, 21]
+centuries:
+  - 20
+  - 21
 canonizationStatus: Venerable
 vocation:
   - Bishop
   - Priest
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 patronage:
-  - "mountaineers"
-  - "–"
-  - "Polish-Ukrainian Reconciliation"
-  - "World Meeting of Families 2015"
-  - "World Youth Days"
-  - "–"
-  - "Uzbekistan, apostolic administration of"
-  - "Vancouver, British Columbia, archdiocese of"
+  - mountaineers
+  - –
+  - Polish-Ukrainian Reconciliation
+  - World Meeting of Families 2015
+  - World Youth Days
+  - –
+  - Uzbekistan, apostolic administration of
+  - Vancouver, British Columbia, archdiocese of
 martyr: false
+prayers: []
 ---
 
 For many years Karol believed God was calling him to the priesthood, and after surviving two nearly fatal accidents, he responded to the call. He studied secretly during the German occupation of Poland, and was ordained on 1 November 1946. In these years he came to know and practice the teachings of Saint Louis Marie Montfort and Saint John of the Cross. Earned his Doctorate in theology in 1948 at the Angelicum in Rome, Italy.

@@ -19,6 +19,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/7/7e/Cath%C3%A9drale_d%27Autun_%2871%29_-_panoramio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Ferréolus of Grenoble
 imageCreditUrl: https://en.wikipedia.org/wiki/Autun%20Cathedral
+prayers: []
 ---
 
 Bishop of Grenoble, France. Killed while preaching to a crowd. Martyr.

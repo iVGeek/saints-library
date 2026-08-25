@@ -16,6 +16,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/5/56/Thomas_the_Apostle._Detail_of_the_mosaic_in_the_Basilica_of_San_Vitale._Ravena%2C_Italy.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Aggaeus the Martyr
 imageCreditUrl: https://en.wikipedia.org/wiki/Thomas%20the%20Apostle
+prayers: []
 ---
 
 Martyr. No other reliable information has survived.

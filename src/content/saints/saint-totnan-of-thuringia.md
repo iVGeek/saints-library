@@ -1,11 +1,11 @@
 ---
-name: "Saint Totnan of Thuringia"
+name: Saint Totnan of Thuringia
 honorific: Saint
-summary: "Evangelized Franconia and East Thuringia. Worked and martyred with Saint Kilian and Saint Colman."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Totnan.jpg"
+summary: Evangelized Franconia and East Thuringia. Worked and martyred with Saint Kilian and Saint Colman.
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Totnan.jpg
 deathYear: 689
-died: "c.689 at East Thuringia"
-region: "Germany"
+died: c.689 at East Thuringia
+region: Germany
 feastDay:
   month: 7
   day: 8
@@ -16,13 +16,17 @@ vocation:
   - Monk
   - Deacon
 patronage:
-  - "gout"
-  - "rheumatism"
-  - "whitewashers"
-  - "–"
-  - "in Germany\n\nAschaffenburg"
-  - "Würzburg, diocese of"
+  - gout
+  - rheumatism
+  - whitewashers
+  - –
+  - |-
+    in Germany
+
+    Aschaffenburg
+  - Würzburg, diocese of
 martyr: true
+prayers: []
 ---
 
 Evangelized Franconia and East Thuringia. Worked and martyred with Saint Kilian and Saint Colman.

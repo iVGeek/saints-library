@@ -1,35 +1,39 @@
 ---
-name: "Saint Catherine del Ricci"
+name: Saint Catherine del Ricci
 honorific: Saint
-summary: "Born to the patrician class. Her mother died when Catherine was an infant; she was raised by her godmother, but considered the Blessed Virgin Mary to be her true mother, and developed a great devotion to her. As a child, Catherine could speak to her guardian angel, and the angel"
-image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Catherine-dei-Ricci.jpg"
+summary: >-
+  Born to the patrician class. Her mother died when Catherine was an infant; she was raised by her godmother, but
+  considered the Blessed Virgin Mary to be her true mother, and developed a great devotion to her. As a child, Catherine
+  could speak to her guardian angel, and the angel
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Catherine-dei-Ricci.jpg
 searchAliases:
-  - "Catherine de Ricci"
-  - "Catherine dei Ricci"
-  - "Caterina…."
-  - "Catharine…."
+  - Catherine de Ricci
+  - Catherine dei Ricci
+  - Caterina….
+  - Catharine….
 birthYear: 1522
 deathYear: 1590
-born: "23 April 1522 at Florence, Italy as Alessandra Lucrezia Romola de' Ricci"
-died: "2 February 1590 at Prato, Italy of natural causes"
-birthPlace: "Italy as Alessandra Lucrezia Romola de' Ricci"
-deathPlace: "Italynatural causes"
-region: "Italy"
+born: 23 April 1522 at Florence, Italy as Alessandra Lucrezia Romola de' Ricci
+died: 2 February 1590 at Prato, Italy of natural causes
+birthPlace: Italy as Alessandra Lucrezia Romola de' Ricci
+deathPlace: Italynatural causes
+region: Italy
 feastDay:
   month: 2
   day: 2
 canonizationStatus: Saint
 vocation:
   - Confessor
-religiousOrder: "Dominican"
+religiousOrder: Dominican
 patronage:
-  - "against illness"
-  - "sick people"
-  - "pipe makers"
-  - "tobacconists"
-  - "—"
-  - "Prato, Italy"
+  - against illness
+  - sick people
+  - pipe makers
+  - tobacconists
+  - —
+  - Prato, Italy
 martyr: false
+prayers: []
 ---
 
 Born to the patrician class. Her mother died when Catherine was an infant; she was raised by her godmother, but considered the Blessed Virgin Mary to be her true mother, and developed a great devotion to her. As a child, Catherine could speak to her guardian angel, and the angel taught her prayers for the rosary. At age 6 she moved to the convent school of Montecelli; her aunt was the abbess. Catherine developed a devotion to the Passion. Her father, Peter, objected to her plans to join a convent, then relented, then changed his mind again. Catherine continued her prayers at home, but when he changed his mind she fell ill. It was only when he at last agreed on her vocation that she recovered. Dominican tertiary.

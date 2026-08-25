@@ -13,6 +13,7 @@ image: https://commons.wikimedia.org/wiki/Special:FilePath/St_James_church%252C_
 vocation:
   - Monk
 martyr: false
+prayers: []
 ---
 
 Known to have lived in Anglesey, Wales. No other information has survived.

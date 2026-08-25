@@ -1,17 +1,20 @@
 ---
-name: "Blessed Catherine of Racconigi"
+name: Blessed Catherine of Racconigi
 honorific: Blessed
-summary: "The youngest of six children, and the only daughter of Giorgio and Bilia de Ferrari Mattei. Hers was a poor family in a poor region; her father was an unemployed blacksmith and tool maker, her mother a silk spinner and weaver whose work kept the family from starving. When she was"
-image: "https://upload.wikimedia.org/wikipedia/commons/6/67/Catherine_de_Racconigi.jpg"
+summary: >-
+  The youngest of six children, and the only daughter of Giorgio and Bilia de Ferrari Mattei. Hers was a poor family in
+  a poor region; her father was an unemployed blacksmith and tool maker, her mother a silk spinner and weaver whose work
+  kept the family from starving. When she was
+image: https://upload.wikimedia.org/wikipedia/commons/6/67/Catherine_de_Racconigi.jpg
 searchAliases:
-  - "Caterina Mattei"
+  - Caterina Mattei
 birthYear: 1486
 deathYear: 1547
-born: "June 1486 in Racconigi, Cuneo, Italy"
-died: "4 September 1547 at Caramagna Piemonte, Cuneo, Italy"
-birthPlace: "Cuneo, Italy"
-deathPlace: "Cuneo, Italy"
-region: "Italy"
+born: June 1486 in Racconigi, Cuneo, Italy
+died: 4 September 1547 at Caramagna Piemonte, Cuneo, Italy
+birthPlace: Cuneo, Italy
+deathPlace: Cuneo, Italy
+region: Italy
 feastDay:
   month: 9
   day: 4
@@ -19,8 +22,9 @@ canonizationStatus: Blessed
 vocation:
   - Bishop
   - Priest
-religiousOrder: "Dominican"
+religiousOrder: Dominican
 martyr: true
+prayers: []
 ---
 
 The youngest of six children, and the only daughter of Giorgio and Bilia de Ferrari Mattei. Hers was a poor family in a poor region; her father was an unemployed blacksmith and tool maker, her mother a silk spinner and weaver whose work kept the family from starving. When she was old enough, Caterina learned the trade from her mother and helped support the family. Her father suffered from depression over their lot, and family life was often chaotic and disruptive.

@@ -19,6 +19,7 @@ canonizationStatus: Blessed
 vocation:
   - Priest
 martyr: false
+prayers: []
 ---
 
 Ordained in 1875 in the archdiocese of Vienna. Founder of the Congregation of Christian Workers of Saint Joseph Calasanz at Vienna on 24 November 1889.

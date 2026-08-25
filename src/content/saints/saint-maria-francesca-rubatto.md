@@ -1,29 +1,35 @@
 ---
-name: "Saint Maria Francesca Rubatto"
+name: Saint Maria Francesca Rubatto
 honorific: Venerable
-summary: "Anna Maria lost her father at age four. In her teens she received a marriage offer from a local notary, but turned it down and made a vow of virginity. Her mother died when Maria as 19, and the girl moved to Turin, Italy where he became the friend of Marianna Scoffone, an Italian"
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Maria-Francesca-Rubatto1.jpg"
+summary: >-
+  Anna Maria lost her father at age four. In her teens she received a marriage offer from a local notary, but turned it
+  down and made a vow of virginity. Her mother died when Maria as 19, and the girl moved to Turin, Italy where he became
+  the friend of Marianna Scoffone, an Italian
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Maria-Francesca-Rubatto1.jpg
 searchAliases:
-  - "Anna Maria Rubatto"
-  - "Madre Rubatto"
-  - "Maria Francesca of Jesus"
-  - "Maria Francesca di Gesù"
+  - Anna Maria Rubatto
+  - Madre Rubatto
+  - Maria Francesca of Jesus
+  - Maria Francesca di Gesù
 birthYear: 1844
 deathYear: 1904
-born: "14 February 1844 at Carmagnola, Turin, Italy as Anna Maria Rubatto"
-died: "6 August 1904 of natural causes in Uruguay"
-birthPlace: "Turin, Italy as Anna Maria Rubatto"
-region: "Argentina"
+born: 14 February 1844 at Carmagnola, Turin, Italy as Anna Maria Rubatto
+died: 6 August 1904 of natural causes in Uruguay
+birthPlace: Turin, Italy as Anna Maria Rubatto
+region: Argentina
 feastDay:
   month: 8
   day: 6
-centuries: [19, 20]
+centuries:
+  - 19
+  - 20
 canonizationStatus: Venerable
 vocation:
   - Bishop
   - Priest
-religiousOrder: "Capuchin"
+religiousOrder: Capuchin
 martyr: true
+prayers: []
 ---
 
 Anna Maria lost her father at age four. In her teens she received a marriage offer from a local notary, but turned it down and made a vow of virginity. Her mother died when Maria as 19, and the girl moved to Turin, Italy where he became the friend of Marianna Scoffone, an Italian noblewoman who supported her as she visited parishes in the city, taught catechism to children, visited the sick in hospital, helped the poor and neglected. Marianna Scoffone died in 1882.

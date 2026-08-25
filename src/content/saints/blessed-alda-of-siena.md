@@ -23,6 +23,7 @@ feastDay:
 canonizationStatus: Blessed
 vocation: []
 martyr: false
+prayers: []
 ---
 
 Married lay woman. Widow. Tertiary of the Holy Humility of Mary. She devoted her life to personal penance and charity to the poor, was given to religious ecstasies, and received visions. Greatly honoured in Siena, Italy.

@@ -1,24 +1,25 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Lucio Izquierdo López"
+name: Blessed Lucio Izquierdo López
 honorific: Blessed
-summary: "Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
+summary: Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War.
 searchAliases:
-  - "Brother Ángel Andrés"
+  - Brother Ángel Andrés
 birthYear: 1899
 deathYear: 1936
-born: "4 March 1899 in Dueñas, Palencia, Spain"
-died: "8 October 1936 in Les Corts, Barcelona, Spain"
-birthPlace: "Palencia, Spain"
-deathPlace: "Barcelona, Spain"
-region: "Spain"
+born: 4 March 1899 in Dueñas, Palencia, Spain
+died: 8 October 1936 in Les Corts, Barcelona, Spain
+birthPlace: Palencia, Spain
+deathPlace: Barcelona, Spain
+region: Spain
 feastDay:
   month: 10
   day: 8
 canonizationStatus: Blessed
 vocation: []
-religiousOrder: "Marist"
+religiousOrder: Marist
 martyr: true
+prayers: []
 ---
 
 Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War.

@@ -17,6 +17,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/7/7b/Sanfermin.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Firmin of Amiens
 imageCreditUrl: https://en.wikipedia.org/wiki/Fermin
+prayers: []
 ---
 
 Monk. Abbot in the region of Amiens, France.

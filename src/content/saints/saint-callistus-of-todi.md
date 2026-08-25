@@ -19,6 +19,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/4c/Todi_panorama.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Callistus of Todi
 imageCreditUrl: https://en.wikipedia.org/wiki/Todi
+prayers: []
 ---
 
 Bishop of Todi, Italy c.523. Zealous opponent of the heresy of Arianism. Preached against the excesses and loose lives of the local nobility – and was murdered by the servants of those nobles. Martyr.

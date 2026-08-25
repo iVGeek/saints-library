@@ -1,10 +1,10 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Clateus of Brescia"
+name: Saint Clateus of Brescia
 honorific: Saint
-summary: "Bishop of Brescia, Italy. Martyred in the persecutions of Nero."
-died: "64"
-region: "Italy"
+summary: Bishop of Brescia, Italy. Martyred in the persecutions of Nero.
+died: '64'
+region: Italy
 feastDay:
   month: 6
   day: 4
@@ -12,6 +12,7 @@ canonizationStatus: Saint
 vocation:
   - Bishop
 martyr: true
+prayers: []
 ---
 
 Bishop of Brescia, Italy. Martyred in the persecutions of Nero.

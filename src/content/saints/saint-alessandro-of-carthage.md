@@ -18,6 +18,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/e/ea/Saint_Augustine_by_Philippe_de_Champaigne.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Alessandro of Carthage
 imageCreditUrl: https://en.wikipedia.org/wiki/Augustine%20of%20Hippo
+prayers: []
 ---
 
 One of a group of 50 Christians who were imprisoned in a pen of snakes and scorpions, and then martyred, all during the persecutions of Decius.

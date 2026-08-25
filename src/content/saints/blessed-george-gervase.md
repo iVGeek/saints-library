@@ -23,6 +23,7 @@ vocation:
   - Confessor
 religiousOrder: Benedictine
 martyr: true
+prayers: []
 ---
 
 George spent an adventurous youth, travelling to the West Indies with the explorer Sir Francis Drake. He entered the seminary at Douai, France, and was ordained in 1603. Benedictine. From France he returned to England to work with covert Catholics during a suppression of the Church. Martyred for the crime of being a priest.

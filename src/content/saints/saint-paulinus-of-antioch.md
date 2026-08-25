@@ -28,6 +28,7 @@ patronage:
   - Lucca, city of
   - Pisa
 martyr: true
+prayers: []
 ---
 
 First bishop of Lucca, Tuscany, Italy. Legend says he was sent there by Saint Peter the Apostle. Martyred with a priest, deacon, and soldier whose names have not come down to us.

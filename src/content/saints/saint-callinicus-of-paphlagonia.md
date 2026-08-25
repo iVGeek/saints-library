@@ -18,6 +18,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/3/3e/Kleopatra-VII.-Altes-Museum-Berlin1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Callinicus of Paphlagonia
 imageCreditUrl: https://en.wikipedia.org/wiki/Cleopatra
+prayers: []
 ---
 
 Martyr.

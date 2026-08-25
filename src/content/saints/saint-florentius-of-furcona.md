@@ -1,12 +1,12 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Florentius of Furcona"
+name: Saint Florentius of Furcona
 honorific: Saint
-summary: "One of a group of soldiers martyred in the persecutions of Maximinius the Thracian."
+summary: One of a group of soldiers martyred in the persecutions of Maximinius the Thracian.
 deathYear: 235
-died: "235 at Furcona, Italy"
-deathPlace: "Italy"
-region: "Italy"
+died: 235 at Furcona, Italy
+deathPlace: Italy
+region: Italy
 feastDay:
   month: 7
   day: 25
@@ -15,6 +15,7 @@ vocation:
   - Monk
   - Soldier
 martyr: true
+prayers: []
 ---
 
 One of a group of soldiers martyred in the persecutions of Maximinius the Thracian.

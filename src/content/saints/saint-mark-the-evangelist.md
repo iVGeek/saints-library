@@ -1,13 +1,16 @@
 ---
-name: "Saint Mark the Evangelist"
+name: Saint Mark the Evangelist
 honorific: Saint
-summary: "Believed to be the young man who ran away when Jesus was arrested (Mark 14:51-52), and the “John whose other name was Mark” (Acts 12:25). Disciple of Saint Peter the Apostle who travelled with him to Rome, and was referred to as “my son Mark” by the first Pope. Travelled with his"
-image: "https://upload.wikimedia.org/wikipedia/commons/7/79/Codexaureus_21.jpg"
+summary: >-
+  Believed to be the young man who ran away when Jesus was arrested (Mark 14:51-52), and the “John whose other name was
+  Mark” (Acts 12:25). Disciple of Saint Peter the Apostle who travelled with him to Rome, and was referred to as “my son
+  Mark” by the first Pope. Travelled with his
+image: https://upload.wikimedia.org/wikipedia/commons/7/79/Codexaureus_21.jpg
 searchAliases:
-  - "John Mark"
-died: "martyred 25 April 68 at Alexandria, Egypt"
-deathPlace: "Egypt"
-region: "Italy"
+  - John Mark
+died: martyred 25 April 68 at Alexandria, Egypt
+deathPlace: Egypt
+region: Italy
 feastDay:
   month: 4
   day: 25
@@ -16,89 +19,93 @@ vocation:
   - Bishop
   - Priest
   - Monk
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 patronage:
-  - "against impenitence"
-  - "against insect bites"
-  - "against scrofulous diseases"
-  - "against struma"
-  - "struma patients"
-  - "attorneys"
-  - "barristers"
-  - "captives"
-  - "cobblers, shoemakers"
-  - "imprisoned people"
-  - "glaziers"
-  - "lawyers"
-  - "lions"
-  - "notaries"
-  - "pharmacists"
-  - "prisoners"
-  - "secretaries"
-  - "stained glass workers"
-  - "tanners"
-  - "Egypt"
-  - "Arezzo-Cortona-Sansepolcro, Italy, diocese of"
-  - "Cortona, Italy, diocese of"
-  - "Foggia-Bovino, Italy, archdiocese of"
-  - "Infanta, Philippines, prelature of"
-  - "San Marcos de Arica, Chile, diocese of"
-  - "Venice, Florida, diocese of"
-  - "Ionian Islands"
-  - "–"
-  - "locations in Italy\n\nBaucina"
-  - "Boretto"
-  - "Buttigliera Alta"
-  - "Caerano di San Marco"
-  - "Campochiaro"
-  - "Camporotondo di Fiastrone"
-  - "Casirate d'Adda"
-  - "Cassola"
-  - "Castelbellino"
-  - "Cavernago"
-  - "Cellino San Marco"
-  - "Ciserano"
-  - "Civezza"
-  - "Conco"
-  - "Cortona"
-  - "Creazzo"
-  - "Crespano del Grappa"
-  - "Fagarè della Battaglia"
-  - "Foresto Sparso"
-  - "Futani"
-  - "Gambellara"
-  - "Gardone Val Trompia"
-  - "Latina"
-  - "Licusati"
-  - "Manocalzati"
-  - "Mantello"
-  - "Miragolo San Marco"
-  - "Monticelli, Esperia"
-  - "Pallare"
-  - "Petriolo"
-  - "Pieve a Nievole"
-  - "Ponzano di Fermo"
-  - "Pordenone"
-  - "Portobuffolè"
-  - "Pramaggiore"
-  - "Rionero in Vulture"
-  - "Rovereto"
-  - "San Marco dei Cavoti"
-  - "San Marco Argentano"
-  - "San Marco, Castellabate"
-  - "San Marco d'Alunzio"
-  - "San Marco Evangelista"
-  - "San Marco in Lamis"
-  - "Servigliano"
-  - "Sonnino"
-  - "Taleggio"
-  - "Tidolo"
-  - "Transacqua"
-  - "Valsecca"
-  - "Veneto"
-  - "Venice"
-  - "Vertova"
+  - against impenitence
+  - against insect bites
+  - against scrofulous diseases
+  - against struma
+  - struma patients
+  - attorneys
+  - barristers
+  - captives
+  - cobblers, shoemakers
+  - imprisoned people
+  - glaziers
+  - lawyers
+  - lions
+  - notaries
+  - pharmacists
+  - prisoners
+  - secretaries
+  - stained glass workers
+  - tanners
+  - Egypt
+  - Arezzo-Cortona-Sansepolcro, Italy, diocese of
+  - Cortona, Italy, diocese of
+  - Foggia-Bovino, Italy, archdiocese of
+  - Infanta, Philippines, prelature of
+  - San Marcos de Arica, Chile, diocese of
+  - Venice, Florida, diocese of
+  - Ionian Islands
+  - –
+  - |-
+    locations in Italy
+
+    Baucina
+  - Boretto
+  - Buttigliera Alta
+  - Caerano di San Marco
+  - Campochiaro
+  - Camporotondo di Fiastrone
+  - Casirate d'Adda
+  - Cassola
+  - Castelbellino
+  - Cavernago
+  - Cellino San Marco
+  - Ciserano
+  - Civezza
+  - Conco
+  - Cortona
+  - Creazzo
+  - Crespano del Grappa
+  - Fagarè della Battaglia
+  - Foresto Sparso
+  - Futani
+  - Gambellara
+  - Gardone Val Trompia
+  - Latina
+  - Licusati
+  - Manocalzati
+  - Mantello
+  - Miragolo San Marco
+  - Monticelli, Esperia
+  - Pallare
+  - Petriolo
+  - Pieve a Nievole
+  - Ponzano di Fermo
+  - Pordenone
+  - Portobuffolè
+  - Pramaggiore
+  - Rionero in Vulture
+  - Rovereto
+  - San Marco dei Cavoti
+  - San Marco Argentano
+  - San Marco, Castellabate
+  - San Marco d'Alunzio
+  - San Marco Evangelista
+  - San Marco in Lamis
+  - Servigliano
+  - Sonnino
+  - Taleggio
+  - Tidolo
+  - Transacqua
+  - Valsecca
+  - Veneto
+  - Venice
+  - Vertova
 martyr: false
+prayers: []
 ---
 
 Believed to be the young man who ran away when Jesus was arrested (Mark 14:51-52), and the “John whose other name was Mark” (Acts 12:25). Disciple of Saint Peter the Apostle who travelled with him to Rome, and was referred to as “my son Mark” by the first Pope. Travelled with his cousin Saint Barnabas, and with Saint Paul through Cyprus. Evangelized in Alexandria, Egypt, established the Church there, served as its first bishop, and founded the first famous Christian school. Author of the earliest canonical Gospel.

@@ -13,6 +13,7 @@ feastDay:
 canonizationStatus: Saint
 vocation: []
 martyr: true
+prayers: []
 ---
 
 Martyr. No other information has survived.

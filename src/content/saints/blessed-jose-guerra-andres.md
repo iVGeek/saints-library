@@ -1,15 +1,15 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed José Guerra Andrés"
+name: Blessed José Guerra Andrés
 honorific: Blessed
-summary: "Professed cleric in the Missionary Oblates of Mary Immaculate. Martyred in the Spanish Civil War."
+summary: Professed cleric in the Missionary Oblates of Mary Immaculate. Martyred in the Spanish Civil War.
 birthYear: 1914
 deathYear: 1936
-born: "13 November 1914 in León, Spain"
-died: "shot on 28 November 1936 in Paracuellos de Jarama, Madrid, Spain"
-birthPlace: "Spain"
-deathPlace: "Madrid, Spain"
-region: "Spain"
+born: 13 November 1914 in León, Spain
+died: shot on 28 November 1936 in Paracuellos de Jarama, Madrid, Spain
+birthPlace: Spain
+deathPlace: Madrid, Spain
+region: Spain
 feastDay:
   month: 11
   day: 28
@@ -17,6 +17,7 @@ canonizationStatus: Blessed
 vocation:
   - Missionary
 martyr: true
+prayers: []
 ---
 
 Professed cleric in the Missionary Oblates of Mary Immaculate. Martyred in the Spanish Civil War.

@@ -1,8 +1,8 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint James of Persia"
+name: Saint James of Persia
 honorific: Saint
-summary: "Fourth century priest in Persia, martyred in the persecutions of King Shapur II"
+summary: Fourth century priest in Persia, martyred in the persecutions of King Shapur II
 feastDay:
   month: 4
   day: 22
@@ -11,6 +11,7 @@ vocation:
   - Priest
   - Monk
 martyr: true
+prayers: []
 ---
 
 Fourth century priest in Persia, martyred in the persecutions of King Shapur II

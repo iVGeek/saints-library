@@ -1,18 +1,21 @@
 ---
-name: "Blessed Giovanni Tavalli"
+name: Blessed Giovanni Tavalli
 honorific: Blessed
-summary: "While studying civil law in Bologna, Italy, Giovanni quit to join the Order of the Gesuati; in 1426, he was chosen prior of the Gesuati house in Ferrara, Italy. Chosen bishop of Ferrara on 28 October 1431. Giovanni at first refused the see, but Pope Eugene IV wrote to him about t"
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Giovanni-Tavalli.jpg"
+summary: >-
+  While studying civil law in Bologna, Italy, Giovanni quit to join the Order of the Gesuati; in 1426, he was chosen
+  prior of the Gesuati house in Ferrara, Italy. Chosen bishop of Ferrara on 28 October 1431. Giovanni at first refused
+  the see, but Pope Eugene IV wrote to him about t
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Giovanni-Tavalli.jpg
 searchAliases:
-  - "Giovanni Tavelli"
-  - "Giovanni of Tossignano"
+  - Giovanni Tavelli
+  - Giovanni of Tossignano
 birthYear: 1386
 deathYear: 1446
-born: "latter 1386 in Tossignano, Bologna, Italy"
-died: "24 July 1446 in Ferrara, Italy of natural causes"
-birthPlace: "Bologna, Italy"
-deathPlace: "Italynatural causes"
-region: "Italy"
+born: latter 1386 in Tossignano, Bologna, Italy
+died: 24 July 1446 in Ferrara, Italy of natural causes
+birthPlace: Bologna, Italy
+deathPlace: Italynatural causes
+region: Italy
 feastDay:
   month: 7
   day: 24
@@ -21,6 +24,7 @@ vocation:
   - Bishop
   - Priest
 martyr: false
+prayers: []
 ---
 
 While studying civil law in Bologna, Italy, Giovanni quit to join the Order of the Gesuati; in 1426, he was chosen prior of the Gesuati house in Ferrara, Italy. Chosen bishop of Ferrara on 28 October 1431. Giovanni at first refused the see, but Pope Eugene IV wrote to him about the matter, and the new bishop changed him mind. Ordained a priest and then consecrated bishop in a single continuous service on 27 December 1431; he served the remained 12 and a half years of his life.

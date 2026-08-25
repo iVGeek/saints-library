@@ -1,14 +1,14 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Sisinnius of Rome"
+name: Saint Sisinnius of Rome
 honorific: Saint
-summary: "Deacon in Rome. With his priest Saint Saturninus, he was sentenced to hard labor for his faith. Martyr."
+summary: Deacon in Rome. With his priest Saint Saturninus, he was sentenced to hard labor for his faith. Martyr.
 searchAliases:
-  - "Sysinnius"
+  - Sysinnius
 deathYear: 309
-born: "Carthaginian"
-died: "c.309"
-region: "Italy"
+born: Carthaginian
+died: c.309
+region: Italy
 feastDay:
   month: 11
   day: 29
@@ -18,6 +18,7 @@ vocation:
   - Monk
   - Deacon
 martyr: true
+prayers: []
 ---
 
 Deacon in Rome. With his priest Saint Saturninus, he was sentenced to hard labor for his faith. Martyr.

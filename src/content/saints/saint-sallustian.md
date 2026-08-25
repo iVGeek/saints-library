@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Sallustian of Sardinia"
+name: Saint Sallustian of Sardinia
 honorific: Saint
-summary: "Hermit in Sardinia."
+summary: Hermit in Sardinia.
 searchAliases:
-  - "Sallustianus"
-region: "England"
+  - Sallustianus
+region: England
 feastDay:
   month: 6
   day: 8
@@ -14,6 +14,7 @@ vocation:
   - Monk
   - Hermit
 martyr: false
+prayers: []
 ---
 
 Hermit in Sardinia.

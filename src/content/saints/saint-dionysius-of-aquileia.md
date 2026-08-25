@@ -1,13 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Dionysius of Aquileia"
+name: Saint Dionysius of Aquileia
 honorific: Saint
-summary: "Layman in Aquileia, Italy. Martyred in the persecutions of Emperor Numerian."
+summary: Layman in Aquileia, Italy. Martyred in the persecutions of Emperor Numerian.
 searchAliases:
-  - "Denis"
+  - Denis
 deathYear: 284
-died: "beheaded c.284"
-region: "Italy"
+died: beheaded c.284
+region: Italy
 feastDay:
   month: 3
   day: 16
@@ -15,6 +15,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Layman in Aquileia, Italy. Martyred in the persecutions of Emperor Numerian.

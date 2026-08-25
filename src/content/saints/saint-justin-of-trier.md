@@ -1,13 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Justin of Trier"
+name: Saint Justin of Trier
 honorific: Saint
-summary: "Martyred with a group of fellow Christians in the persecutions of Diocletian."
+summary: Martyred with a group of fellow Christians in the persecutions of Diocletian.
 searchAliases:
-  - "Justinus"
+  - Justinus
 deathYear: 287
-died: "c.287 at Trier (in modern Germany)"
-region: "Germany"
+died: c.287 at Trier (in modern Germany)
+region: Germany
 feastDay:
   month: 12
   day: 12
@@ -15,6 +15,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Martyred with a group of fellow Christians in the persecutions of Diocletian.

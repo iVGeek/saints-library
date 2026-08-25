@@ -1,15 +1,15 @@
 ---
-name: "Blessed Mario Vergara"
+name: Blessed Mario Vergara
 honorific: Blessed
-summary: "Priest in the Pontifical Institute for Foreign Missions. Martyr."
-image: "https://upload.wikimedia.org/wikipedia/commons/f/fb/Mario%26isidoro.jpg"
+summary: Priest in the Pontifical Institute for Foreign Missions. Martyr.
+image: https://upload.wikimedia.org/wikipedia/commons/f/fb/Mario%26isidoro.jpg
 birthYear: 1910
 deathYear: 1950
-born: "16 November 1910 in Frattamaggiore, Naples, Italy"
-died: "24 May 1950 in Shadaw, Kayah, Myanmar"
-birthPlace: "Naples, Italy"
-deathPlace: "Kayah, Myanmar"
-region: "Italy"
+born: 16 November 1910 in Frattamaggiore, Naples, Italy
+died: 24 May 1950 in Shadaw, Kayah, Myanmar
+birthPlace: Naples, Italy
+deathPlace: Kayah, Myanmar
+region: Italy
 feastDay:
   month: 5
   day: 24
@@ -18,6 +18,7 @@ vocation:
   - Priest
   - Cardinal
 martyr: true
+prayers: []
 ---
 
 Priest in the Pontifical Institute for Foreign Missions. Martyr.

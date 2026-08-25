@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Tochumra of Kilmore"
+name: Saint Tochumra of Kilmore
 honorific: Saint
-summary: "A holy virgin venerated in Kilmore, Ireland. A church in the diocese of Killfenora, Ireland was dedicated to her."
+summary: A holy virgin venerated in Kilmore, Ireland. A church in the diocese of Killfenora, Ireland was dedicated to her.
 searchAliases:
-  - "Tochumra of Tuam"
-region: "Ireland"
+  - Tochumra of Tuam
+region: Ireland
 feastDay:
   month: 6
   day: 11
@@ -15,8 +15,9 @@ vocation:
   - Priest
   - Monk
 patronage:
-  - "women in labour"
+  - women in labour
 martyr: false
+prayers: []
 ---
 
 A holy virgin venerated in Kilmore, Ireland. A church in the diocese of Killfenora, Ireland was dedicated to her.

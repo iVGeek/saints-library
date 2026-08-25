@@ -1,18 +1,18 @@
 ---
-name: "Blessed Noël Pinot"
+name: Blessed Noël Pinot
 honorific: Blessed
-summary: " In the French Revolution, he was required to take an oath of loyalty to the new governm Ordained in 1771, he served for several years as assistant pastor at different parishes. Parish priest at Saint Aubin, Louroux-Beconnais, France in 1788, with a special ministry with the sick."
-image: "https://upload.wikimedia.org/wikipedia/commons/0/0b/No%C3%ABl_Pinot.jpg"
+summary: ' In the French Revolution, he was required to take an oath of loyalty to the new governm Ordained in 1771, he served for several years as assistant pastor at different parishes. Parish priest at Saint Aubin, Louroux-Beconnais, France in 1788, with a special ministry with the sick.'
+image: https://upload.wikimedia.org/wikipedia/commons/0/0b/No%C3%ABl_Pinot.jpg
 searchAliases:
-  - "Natalis Pinot"
-  - "Natale Pinot"
+  - Natalis Pinot
+  - Natale Pinot
 birthYear: 1747
 deathYear: 1794
-born: "19 December 1747 at Angers, Maine-et-Loire, France"
-died: "guillotined on 21 February 1794 at Angers, Maine-et-Loire, France"
-birthPlace: "Maine-et-Loire, France"
-deathPlace: "Maine-et-Loire, France"
-region: "France"
+born: 19 December 1747 at Angers, Maine-et-Loire, France
+died: guillotined on 21 February 1794 at Angers, Maine-et-Loire, France
+birthPlace: Maine-et-Loire, France
+deathPlace: Maine-et-Loire, France
+region: France
 feastDay:
   month: 2
   day: 21
@@ -22,6 +22,7 @@ vocation:
   - Monk
   - Soldier
 martyr: false
+prayers: []
 ---
 
 Ordained in 1771, he served for several years as assistant pastor at different parishes. Parish priest at Saint Aubin, Louroux-Beconnais, France in 1788, with a special ministry with the sick.

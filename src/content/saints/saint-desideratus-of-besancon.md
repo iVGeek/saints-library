@@ -1,15 +1,15 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Desideratus of Besançon"
+name: Saint Desideratus of Besançon
 honorific: Saint
-title: "Bishop"
-summary: "Bishop of Besançon, France c.400."
+title: Bishop
+summary: Bishop of Besançon, France c.400.
 searchAliases:
-  - "Desiderato"
+  - Desiderato
 deathYear: 415
-died: "415 in Lons-le-Saunier, France"
-deathPlace: "France"
-region: "France"
+died: 415 in Lons-le-Saunier, France
+deathPlace: France
+region: France
 feastDay:
   month: 7
   day: 27
@@ -17,6 +17,7 @@ canonizationStatus: Saint
 vocation:
   - Bishop
 martyr: false
+prayers: []
 ---
 
 Bishop of Besançon, France c.400.

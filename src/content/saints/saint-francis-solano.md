@@ -1,20 +1,20 @@
 ---
-name: "Saint Francis Solano"
+name: Saint Francis Solano
 honorific: Saint
-summary: " Missionary to South Son of Matthew Sanchez Solanus and Anna Ximenes, Andalusian nobles. Joined the Franciscans at age 20. Preacher for many years in southern Spain. Novice master at Arifazza. Worked with plague victims in Granada in 1583; caught the plague himself, but recovered."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Francis-Solano.jpg"
+summary: ' Missionary to South Son of Matthew Sanchez Solanus and Anna Ximenes, Andalusian nobles. Joined the Franciscans at age 20. Preacher for many years in southern Spain. Novice master at Arifazza. Worked with plague victims in Granada in 1583; caught the plague himself, but recovered.'
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Francis-Solano.jpg
 searchAliases:
-  - "Francis Solanus"
-  - "Francisco Solano"
-  - "Thaumaturgus of the New World"
-  - "Wonder Worker of the New World"
+  - Francis Solanus
+  - Francisco Solano
+  - Thaumaturgus of the New World
+  - Wonder Worker of the New World
 birthYear: 1549
 deathYear: 1610
-born: "10 March 1549 at Montilla, diocese of Cordova, Andalusia, Spain"
-died: "14 July 1610 at Lima, Peru of natural causes"
-birthPlace: "dioceseCordova, Andalusia, Spain"
-deathPlace: "Perunatural causes"
-region: "Peru"
+born: 10 March 1549 at Montilla, diocese of Cordova, Andalusia, Spain
+died: 14 July 1610 at Lima, Peru of natural causes
+birthPlace: dioceseCordova, Andalusia, Spain
+deathPlace: Perunatural causes
+region: Peru
 feastDay:
   month: 7
   day: 14
@@ -23,15 +23,16 @@ vocation:
   - Priest
   - Missionary
   - Confessor
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 patronage:
-  - "Argentina"
-  - "Bolivia"
-  - "Chile"
-  - "Paraguay"
-  - "Peru"
-  - "Añatuya, Argentina, diocese of"
+  - Argentina
+  - Bolivia
+  - Chile
+  - Paraguay
+  - Peru
+  - Añatuya, Argentina, diocese of
 martyr: false
+prayers: []
 ---
 
 Son of Matthew Sanchez Solanus and Anna Ximenes, Andalusian nobles. Joined the Franciscans at age 20. Preacher for many years in southern Spain. Novice master at Arifazza. Worked with plague victims in Granada in 1583; caught the plague himself, but recovered.

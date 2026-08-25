@@ -1,21 +1,22 @@
 ---
-name: "Saint Felicity of Rome"
+name: Saint Felicity of Rome
 honorific: Saint
-summary: "Rich, noble widow. Mother of seven sons, all of whom were martyred"
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Felicity-and-her-Sons.jpg"
+summary: Rich, noble widow. Mother of seven sons, all of whom were martyred
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Felicity-and-her-Sons.jpg
 searchAliases: []
 deathYear: 165
-died: "beheaded in 165 at Rome, Italy"
-deathPlace: "Italy"
-region: "Italy"
+died: beheaded in 165 at Rome, Italy
+deathPlace: Italy
+region: Italy
 feastDay:
   month: 11
   day: 23
 canonizationStatus: Saint
 vocation: []
-religiousOrder: "Capuchin"
+religiousOrder: Capuchin
 patronage: []
 martyr: true
+prayers: []
 ---
 
 Rich, noble widow. Mother of seven sons, all of whom were martyred

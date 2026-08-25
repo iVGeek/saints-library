@@ -1,15 +1,17 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Timothy of Rome"
+name: Saint Timothy of Rome
 honorific: Saint
-summary: "Priest in Antioch, Syria. He re-located to Rome, Italy where he became a noted preacher. Martyred in the persecutions of Diocletian."
+summary: >-
+  Priest in Antioch, Syria. He re-located to Rome, Italy where he became a noted preacher. Martyred in the persecutions
+  of Diocletian.
 searchAliases:
-  - "Timotheus"
+  - Timotheus
 deathYear: 309
-born: "Syrian"
-died: "beheaded c.309 in Rome, Italy"
-deathPlace: "Italy"
-region: "Italy"
+born: Syrian
+died: beheaded c.309 in Rome, Italy
+deathPlace: Italy
+region: Italy
 feastDay:
   month: 8
   day: 22
@@ -18,6 +20,7 @@ vocation:
   - Priest
   - Monk
 martyr: true
+prayers: []
 ---
 
 Priest in Antioch, Syria. He re-located to Rome, Italy where he became a noted preacher. Martyred in the persecutions of Diocletian.

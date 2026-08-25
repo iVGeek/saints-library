@@ -33,6 +33,7 @@ patronage:
     Aquila
   - Isernia
 martyr: false
+prayers: []
 ---
 
 Eleventh of twelve children. His father died when Peter was quite young. When his mother would ask, “Which one of you is going to become a saint?” Peter would answer “Me, Mama! I'll become a saint!”.

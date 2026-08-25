@@ -1,15 +1,18 @@
 ---
-name: "Saint Adele of Orp-le-Grand"
+name: Saint Adele of Orp-le-Grand
 honorific: Saint
-summary: "Born to the Gallic nobility, a member of the Merovingians, she became a nun in the 7th century at the monastery of Nivelles, Belgium. She founded a monastery in Orp-le-Grand (part of modern Orp-Jauce, Belgium). As it grew, she built a larger oratory dedicated to Saint Martin in a"
-image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Adele-of-Orp-le-Grand.jpg"
+summary: >-
+  Born to the Gallic nobility, a member of the Merovingians, she became a nun in the 7th century at the monastery of
+  Nivelles, Belgium. She founded a monastery in Orp-le-Grand (part of modern Orp-Jauce, Belgium). As it grew, she built
+  a larger oratory dedicated to Saint Martin in a
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Adele-of-Orp-le-Grand.jpg
 searchAliases:
-  - "Adel"
-  - "Adèlais"
+  - Adel
+  - Adèlais
 deathYear: 670
-born: "early 7th century in Gaul"
-died: "c.670 of natural causes"
-region: "Belgium"
+born: early 7th century in Gaul
+died: c.670 of natural causes
+region: Belgium
 feastDay:
   month: 6
   day: 30
@@ -17,8 +20,9 @@ canonizationStatus: Saint
 vocation:
   - Religious
 patronage:
-  - "against eye problems"
+  - against eye problems
 martyr: false
+prayers: []
 ---
 
 Born to the Gallic nobility, a member of the Merovingians, she became a nun in the 7th century at the monastery of Nivelles, Belgium. She founded a monastery in Orp-le-Grand (part of modern Orp-Jauce, Belgium). As it grew, she built a larger oratory dedicated to Saint Martin in a nearby valley, and moved the community there. In both forms, she served as abbess of the house.

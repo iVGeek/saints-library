@@ -1,13 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Crider of Cornwall"
+name: Saint Crider of Cornwall
 honorific: Saint
-summary: "Daughter of an Irish chieftain. Nun. Friend of Saint Canice of Aghaboe."
+summary: Daughter of an Irish chieftain. Nun. Friend of Saint Canice of Aghaboe.
 searchAliases:
-  - "Creda"
-born: "Ireland"
-died: "mid-7th century of natural causes"
-region: "Ireland"
+  - Creda
+born: Ireland
+died: mid-7th century of natural causes
+region: Ireland
 feastDay:
   month: 11
   day: 30
@@ -16,8 +16,9 @@ vocation:
   - Monk
   - Religious
 patronage:
-  - "Creed, Cornwall, England"
+  - Creed, Cornwall, England
 martyr: false
+prayers: []
 ---
 
 Daughter of an Irish chieftain. Nun. Friend of Saint Canice of Aghaboe.

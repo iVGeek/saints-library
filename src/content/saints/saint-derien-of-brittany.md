@@ -1,15 +1,15 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Derien of Brittany"
+name: Saint Derien of Brittany
 honorific: Saint
-summary: " Legend says that on his return from the Holy Lands, travelling wit Seventh century knight from the British Isles. Pilgrim to the Holy Lands. Several churches in Brittany, France are named in his honour as he is considered one of the British who brought Christianity to the region."
+summary: ' Legend says that on his return from the Holy Lands, travelling wit Seventh century knight from the British Isles. Pilgrim to the Holy Lands. Several churches in Brittany, France are named in his honour as he is considered one of the British who brought Christianity to the region.'
 searchAliases:
-  - "Derhen"
-  - "Derchen"
-  - "Derc'hen"
-  - "Derrien"
-born: "British Isles"
-region: "France"
+  - Derhen
+  - Derchen
+  - Derc'hen
+  - Derrien
+born: British Isles
+region: France
 feastDay:
   month: 2
   day: 14
@@ -17,6 +17,7 @@ canonizationStatus: Saint
 vocation:
   - Soldier
 martyr: false
+prayers: []
 ---
 
 Seventh century knight from the British Isles. Pilgrim to the Holy Lands. Several churches in Brittany, France are named in his honour as he is considered one of the British who brought Christianity to the region.

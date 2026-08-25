@@ -18,6 +18,7 @@ vocation:
 patronage:
   - butchers of Limoges, France
 martyr: false
+prayers: []
 ---
 
 Spiritual student of Saint Martial of Limoges. Priest. Second bishop of Limoges, France, succeeding Martial.

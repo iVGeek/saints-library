@@ -1,20 +1,24 @@
 ---
-name: "Blessed Bernard of Roquefort"
+name: Blessed Bernard of Roquefort
 honorific: Blessed
-summary: "Dominican. Basing their operations in a farmhouse outside Avignonet, France, he and his brother missioners worked against heresy. Murdered by Albigensian heretics while singing the Te Deum on the eve of Ascension. One of the Martyrs of Toulouse."
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Bernard-of-Roquefort.jpg"
+summary: >-
+  Dominican. Basing their operations in a farmhouse outside Avignonet, France, he and his brother missioners worked
+  against heresy. Murdered by Albigensian heretics while singing the Te Deum on the eve of Ascension. One of the Martyrs
+  of Toulouse.
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Bernard-of-Roquefort.jpg
 deathYear: 1242
-died: "beaten to death on the night of 28 to 29 May 1242 in the church of Avignonet, Toulouse, France"
-deathPlace: "Toulouse, France"
-region: "France"
+died: beaten to death on the night of 28 to 29 May 1242 in the church of Avignonet, Toulouse, France
+deathPlace: Toulouse, France
+region: France
 feastDay:
   month: 5
   day: 29
 canonizationStatus: Blessed
 vocation:
   - Monk
-religiousOrder: "Dominican"
+religiousOrder: Dominican
 martyr: true
+prayers: []
 ---
 
 Dominican. Basing their operations in a farmhouse outside Avignonet, France, he and his brother missioners worked against heresy. Murdered by Albigensian heretics while singing the Te Deum on the eve of Ascension. One of the Martyrs of Toulouse.

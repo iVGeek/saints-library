@@ -1,22 +1,25 @@
 ---
-name: "Saint Lebuin of Deventer"
+name: Saint Lebuin of Deventer
 honorific: Saint
-summary: "Educated in a monastery. Benedictine monk at Ripon, England. Priest. Missionary to the Netherlands, following in the path of Saint Boniface, beginning in Utrecht. He worked with Saint Marchelm and Saint Gregory of Utrecht. Preached in the districts along the Yssel River. Establis"
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Lebuin-of-Deventer.jpg"
+summary: >-
+  Educated in a monastery. Benedictine monk at Ripon, England. Priest. Missionary to the Netherlands, following in the
+  path of Saint Boniface, beginning in Utrecht. He worked with Saint Marchelm and Saint Gregory of Utrecht. Preached in
+  the districts along the Yssel River. Establis
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Lebuin-of-Deventer.jpg
 searchAliases:
-  - "Apostle of the Frisians"
-  - "Leafwine"
-  - "Lebuinus"
-  - "Lebwin"
-  - "Liafwin"
-  - "Liafwine"
-  - "Livinius"
-  - "Livino"
+  - Apostle of the Frisians
+  - Leafwine
+  - Lebuinus
+  - Lebwin
+  - Liafwin
+  - Liafwine
+  - Livinius
+  - Livino
 deathYear: 773
-born: "in England"
-died: "c.773 at Deventer, Netherlands"
-deathPlace: "Netherlands"
-region: "Netherlands"
+born: in England
+died: c.773 at Deventer, Netherlands
+deathPlace: Netherlands
+region: Netherlands
 feastDay:
   month: 11
   day: 12
@@ -26,13 +29,14 @@ vocation:
   - Monk
   - Missionary
   - Confessor
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 patronage:
-  - "against pain"
-  - "—"
-  - "Deventer, Netherlands"
-  - "Zoeterwoude, Netherlands"
+  - against pain
+  - —
+  - Deventer, Netherlands
+  - Zoeterwoude, Netherlands
 martyr: false
+prayers: []
 ---
 
 Educated in a monastery. Benedictine monk at Ripon, England. Priest. Missionary to the Netherlands, following in the path of Saint Boniface, beginning in Utrecht. He worked with Saint Marchelm and Saint Gregory of Utrecht. Preached in the districts along the Yssel River. Established the first church in Deventer, Netherlands and used it as a base for missionary work to the Saxons and Frisians.

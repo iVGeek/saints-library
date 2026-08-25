@@ -1,22 +1,25 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Olympus of Condat"
+name: Saint Olympus of Condat
 honorific: Saint
-summary: "Benedictine monk. Sixth abbot of Condat Abbey, serving from 533 to 566. Olympus instituted a policy of letting lay people rent, live on and work the monastery land. This led to the founding of the town of Saint-Claude."
+summary: >-
+  Benedictine monk. Sixth abbot of Condat Abbey, serving from 533 to 566. Olympus instituted a policy of letting lay
+  people rent, live on and work the monastery land. This led to the founding of the town of Saint-Claude.
 searchAliases:
-  - "Olimpio"
-  - "Olympe"
+  - Olimpio
+  - Olympe
 deathYear: 575
-died: "575 of natural causes"
-region: "Italy"
+died: 575 of natural causes
+region: Italy
 feastDay:
   month: 1
   day: 1
 canonizationStatus: Saint
 vocation:
   - Monk
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 martyr: false
+prayers: []
 ---
 
 Benedictine monk. Sixth abbot of Condat Abbey, serving from 533 to 566. Olympus instituted a policy of letting lay people rent, live on and work the monastery land. This led to the founding of the town of Saint-Claude.

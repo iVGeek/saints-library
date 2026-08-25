@@ -1,17 +1,17 @@
 ---
-name: "Saint Martialis of Rome"
+name: Saint Martialis of Rome
 honorific: Saint
-summary: " In the 19th century there was a serious drought in Born to the Roman nobility, son of Saint Felicitas of Rome; one of the Seven Holy Brothers. His father died when the boy was very young. Martyred at age seven along with his whole family in the persecutions of Emperor Antoninus."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Martialis-of-Rome.jpg"
+summary: ' In the 19th century there was a serious drought in Born to the Roman nobility, son of Saint Felicitas of Rome; one of the Seven Holy Brothers. His father died when the boy was very young. Martyred at age seven along with his whole family in the persecutions of Emperor Antoninus.'
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Martialis-of-Rome.jpg
 searchAliases:
-  - "Martial"
-  - "Marziale"
+  - Martial
+  - Marziale
 birthYear: 158
 deathYear: 165
-born: "c.158"
-died: "beheaded in 165 in Rome, Italy"
-deathPlace: "Italy"
-region: "Italy"
+born: c.158
+died: beheaded in 165 in Rome, Italy
+deathPlace: Italy
+region: Italy
 feastDay:
   month: 7
   day: 10
@@ -20,9 +20,10 @@ vocation:
   - Priest
   - Monk
 patronage:
-  - "Isca sullo Ionio, Catanzaro, Calabria, Italy"
-  - "Torricella, Italy"
+  - Isca sullo Ionio, Catanzaro, Calabria, Italy
+  - Torricella, Italy
 martyr: true
+prayers: []
 ---
 
 Born to the Roman nobility, son of Saint Felicitas of Rome; one of the Seven Holy Brothers. His father died when the boy was very young. Martyred at age seven along with his whole family in the persecutions of Emperor Antoninus.

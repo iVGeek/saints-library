@@ -22,6 +22,7 @@ vocation:
   - Monk
 religiousOrder: Jesuit
 martyr: true
+prayers: []
 ---
 
 Son of a Protestant minister. Educated at Cambridge University. Convert to Catholicism. Studied in Rome, Italy. Joined the Jesuits in Flanders, Belgium. Ordained in 1661. He returned to England and worked in Worcester. Arrested in the Titus Oates Plot, he was convicted of treason based on perjured evidence; one of the trial rules was that no Catholic could be believed in court. Martyr.

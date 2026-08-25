@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Euphrosyna of Terracina"
+name: Saint Euphrosyna of Terracina
 honorific: Saint
-summary: "Foster sister of Saint Flavia Domitilla and Saint Theodora of Terracina. Exiled and then martyred with her."
-died: "2nd-century Terracina, Italy"
-deathPlace: "Italy"
-region: "Italy"
+summary: Foster sister of Saint Flavia Domitilla and Saint Theodora of Terracina. Exiled and then martyred with her.
+died: 2nd-century Terracina, Italy
+deathPlace: Italy
+region: Italy
 feastDay:
   month: 5
   day: 12
@@ -15,6 +15,7 @@ vocation:
   - Monk
   - Religious
 martyr: true
+prayers: []
 ---
 
 Foster sister of Saint Flavia Domitilla and Saint Theodora of Terracina. Exiled and then martyred with her.

@@ -16,6 +16,7 @@ image: https://commons.wikimedia.org/wiki/Special:FilePath/Foligno085.jpg?width=
 vocation:
   - Religious
 martyr: true
+prayers: []
 ---
 
 Spiritual student of Saint Felician of Foligno. Nun, receiving the veil from Saint Felician. During a period of persecution, Felician was imprisoned; when she visited him, Messalina was suspected of being a Christian. She was arrested, put on trial and ordered to sacrifice to pagan gods; she refused. Martyr.

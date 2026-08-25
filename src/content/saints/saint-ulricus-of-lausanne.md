@@ -1,15 +1,15 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Ulricus of Lausanne"
+name: Saint Ulricus of Lausanne
 honorific: Saint
-title: "Bishop"
-summary: "8th century bishop of Lausanne, Switzerland."
+title: Bishop
+summary: 8th century bishop of Lausanne, Switzerland.
 searchAliases:
-  - "Ulricus of Losanna"
-  - "Ulrich…"
-  - "Udalric…"
-  - "Udulricus…"
-region: "Italy"
+  - Ulricus of Losanna
+  - Ulrich…
+  - Udalric…
+  - Udulricus…
+region: Italy
 feastDay:
   month: 4
   day: 19
@@ -17,6 +17,7 @@ canonizationStatus: Saint
 vocation:
   - Bishop
 martyr: false
+prayers: []
 ---
 
 8th century bishop of Lausanne, Switzerland.

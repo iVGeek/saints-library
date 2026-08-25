@@ -1,16 +1,19 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Stephen of Sweden"
+name: Saint Stephen of Sweden
 honorific: Saint
-summary: "Monk at New Corbie monastery, Saxony. Priest. Missionary bishop to Sweden. Achieved many conversions, and was the first to bring Christianity to the area between Denmark and Sweden. Murdered by worshippers of the pagan god Woden. Martyr."
+summary: >-
+  Monk at New Corbie monastery, Saxony. Priest. Missionary bishop to Sweden. Achieved many conversions, and was the
+  first to bring Christianity to the area between Denmark and Sweden. Murdered by worshippers of the pagan god Woden.
+  Martyr.
 searchAliases:
-  - "Stephen of Corbie"
-  - "Stephen of Corvey"
+  - Stephen of Corbie
+  - Stephen of Corvey
 deathYear: 1075
-born: "11th century"
-died: "1075 near Nora, Uppsala region of Sweden"
-deathPlace: "Uppsala regionSweden"
-region: "Scandinavia"
+born: 11th century
+died: 1075 near Nora, Uppsala region of Sweden
+deathPlace: Uppsala regionSweden
+region: Scandinavia
 feastDay:
   month: 6
   day: 2
@@ -21,6 +24,7 @@ vocation:
   - Monk
   - Missionary
 martyr: true
+prayers: []
 ---
 
 Monk at New Corbie monastery, Saxony. Priest. Missionary bishop to Sweden. Achieved many conversions, and was the first to bring Christianity to the area between Denmark and Sweden. Murdered by worshippers of the pagan god Woden. Martyr.

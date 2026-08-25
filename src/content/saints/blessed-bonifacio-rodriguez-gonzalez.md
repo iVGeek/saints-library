@@ -1,23 +1,24 @@
 ---
-name: "Blessed Bonifacio Rodríguez González"
+name: Blessed Bonifacio Rodríguez González
 honorific: Blessed
-summary: "Member of the Brothers of the Christian Schools (De La Salle Brothers). Martyred in the Spanish Civil War."
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Bonifacio-Rodríguez-González.jpg"
+summary: Member of the Brothers of the Christian Schools (De La Salle Brothers). Martyred in the Spanish Civil War.
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Bonifacio-Rodríguez-González.jpg
 searchAliases:
-  - "José Cecilio"
+  - José Cecilio
 birthYear: 1885
 deathYear: 1936
-born: "14 May 1885 in Molina de Ubierna, Burgos, Spain"
-died: "shot on 13 September 1936 in Pozo de Cantavieja, Tahal, Almería, Spain"
-birthPlace: "Burgos, Spain"
-deathPlace: "Tahal, Almería, Spain"
-region: "Spain"
+born: 14 May 1885 in Molina de Ubierna, Burgos, Spain
+died: shot on 13 September 1936 in Pozo de Cantavieja, Tahal, Almería, Spain
+birthPlace: Burgos, Spain
+deathPlace: Tahal, Almería, Spain
+region: Spain
 feastDay:
   month: 9
   day: 8
 canonizationStatus: Blessed
 vocation: []
 martyr: true
+prayers: []
 ---
 
 Member of the Brothers of the Christian Schools (De La Salle Brothers). Martyred in the Spanish Civil War.

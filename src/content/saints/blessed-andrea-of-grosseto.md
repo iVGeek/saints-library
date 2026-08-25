@@ -18,6 +18,7 @@ image: https://commons.wikimedia.org/wiki/Special:FilePath/Andrea_da_Grosseto_Pa
 vocation: []
 religiousOrder: Franciscan
 martyr: false
+prayers: []
 ---
 
 15th century Franciscan. Spiritual student of Blessed Thomas of Scarlino. He was known for his piety, his obedience, and dedication to the Franciscan Rule. May have had the gift of levitation.

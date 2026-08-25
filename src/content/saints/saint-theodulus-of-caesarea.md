@@ -1,12 +1,14 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Theodulus of Caesarea"
+name: Saint Theodulus of Caesarea
 honorific: Saint
-summary: "Member of the household of the governor of Palestine. When the governor learned of Theodulus's Christianity, he ordered his execution. Martyr."
+summary: >-
+  Member of the household of the governor of Palestine. When the governor learned of Theodulus's Christianity, he
+  ordered his execution. Martyr.
 deathYear: 309
-died: "crucified in 309 at Caesarea, Palestine"
-deathPlace: "Palestine"
-region: "Holy Land"
+died: crucified in 309 at Caesarea, Palestine
+deathPlace: Palestine
+region: Holy Land
 feastDay:
   month: 2
   day: 17
@@ -15,6 +17,7 @@ vocation:
   - Priest
   - Monk
 martyr: true
+prayers: []
 ---
 
 Member of the household of the governor of Palestine. When the governor learned of Theodulus's Christianity, he ordered his execution. Martyr.

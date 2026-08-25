@@ -23,6 +23,7 @@ patronage:
   - Bourges, France, archdiocese of
   - Bourges, France, city of
 martyr: false
+prayers: []
 ---
 
 Missionary to and first bishop of Bourges, France. Legend says he was a disciple of the Apostles who sent him as a missionary to Gaul (modern France), but we now know that he lived in the third century.

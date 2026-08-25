@@ -1,14 +1,17 @@
 ---
-name: "Saint Julian the Hospitaller"
+name: Saint Julian the Hospitaller
 honorific: Saint
-summary: "Noble layman; friend and counselor to the king, he was married to a wealthy widow. A stag he was hunting predicted he would kill his own parents. Julian moved far away to avoid his parents, but they found him, and came to make a surprise visit. His wife gave them her and Julian's"
-image: "https://upload.wikimedia.org/wikipedia/commons/7/79/Saintjulianghirlandaio.JPG"
+summary: >-
+  Noble layman; friend and counselor to the king, he was married to a wealthy widow. A stag he was hunting predicted he
+  would kill his own parents. Julian moved far away to avoid his parents, but they found him, and came to make a
+  surprise visit. His wife gave them her and Julian's
+image: https://upload.wikimedia.org/wikipedia/commons/7/79/Saintjulianghirlandaio.JPG
 searchAliases:
-  - "Julian Hospitator"
-  - "Julian the Poor"
-  - "Giuliano…"
-  - "Julijan Ubogi"
-region: "Italy"
+  - Julian Hospitator
+  - Julian the Poor
+  - Giuliano…
+  - Julijan Ubogi
+region: Italy
 feastDay:
   month: 1
   day: 29
@@ -16,33 +19,34 @@ canonizationStatus: Saint
 vocation:
   - Soldier
 patronage:
-  - "boatmen"
-  - "carnival workers"
-  - "childless people"
-  - "circus workers"
-  - "clowns"
-  - "ferrymen"
-  - "fiddlers"
-  - "fiddle players"
-  - "hospitality"
-  - "hotel-keepers"
-  - "hoteliers"
-  - "innkeepers"
-  - "jugglers"
-  - "knights"
-  - "reformed murderers"
-  - "pilgrims"
-  - "shepherds"
-  - "to obtain lodging while travelling"
-  - "travellers"
-  - "wandering musicians"
-  - "–"
-  - "San Giljan, Malta"
-  - "Macerata, Italy, city of"
-  - "Macerata, Italy, diocese of"
-  - "–"
-  - "Worshipful Company of Innholders"
+  - boatmen
+  - carnival workers
+  - childless people
+  - circus workers
+  - clowns
+  - ferrymen
+  - fiddlers
+  - fiddle players
+  - hospitality
+  - hotel-keepers
+  - hoteliers
+  - innkeepers
+  - jugglers
+  - knights
+  - reformed murderers
+  - pilgrims
+  - shepherds
+  - to obtain lodging while travelling
+  - travellers
+  - wandering musicians
+  - –
+  - San Giljan, Malta
+  - Macerata, Italy, city of
+  - Macerata, Italy, diocese of
+  - –
+  - Worshipful Company of Innholders
 martyr: false
+prayers: []
 ---
 
 Noble layman; friend and counselor to the king, he was married to a wealthy widow. A stag he was hunting predicted he would kill his own parents. Julian moved far away to avoid his parents, but they found him, and came to make a surprise visit. His wife gave them her and Julian's bed; Julian killed them, thinking they were his wife and another man.

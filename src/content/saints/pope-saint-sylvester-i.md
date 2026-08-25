@@ -43,6 +43,7 @@ patronage:
   - Pisa
   - Poggio Catino
 martyr: false
+prayers: []
 ---
 
 Son of Rufinus. Pope in the reign of Emperor Constantine I. Built the Basilica of Saint John Lateran and other churches. Sent legates to the First Council of Nicaea, and was involved in the controversy over Arianism. The spurious Donation of Constantine was supposedly given to Saint Sylvester.

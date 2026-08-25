@@ -1,13 +1,15 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Hermolaus of Nicomedia"
+name: Saint Hermolaus of Nicomedia
 honorific: Saint
-summary: "Priest in Nicomedia, Bithynia, Asia Minor (modern Izmit, Turkey). In his old age, he converted Saint Pantaleon, then the imperial physician. Martyr."
+summary: >-
+  Priest in Nicomedia, Bithynia, Asia Minor (modern Izmit, Turkey). In his old age, he converted Saint Pantaleon, then
+  the imperial physician. Martyr.
 searchAliases:
-  - "Ermolao"
+  - Ermolao
 deathYear: 305
-died: "c.305"
-region: "Turkey"
+died: c.305
+region: Turkey
 feastDay:
   month: 7
   day: 27
@@ -16,8 +18,9 @@ vocation:
   - Priest
   - Monk
 patronage:
-  - "Calci, Italy"
+  - Calci, Italy
 martyr: true
+prayers: []
 ---
 
 Priest in Nicomedia, Bithynia, Asia Minor (modern Izmit, Turkey). In his old age, he converted Saint Pantaleon, then the imperial physician. Martyr.

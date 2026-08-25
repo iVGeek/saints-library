@@ -1,14 +1,14 @@
 ---
-name: "Saint Saturnina of Arras"
+name: Saint Saturnina of Arras
 honorific: Saint
-summary: "Virgin-martyr."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Saturnina-of-Arras.jpg"
+summary: Virgin-martyr.
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Saturnina-of-Arras.jpg
 searchAliases:
-  - "Saturnine"
-born: "German"
-died: "near Arras, France, date unknown"
-deathPlace: "France, date unknown"
-region: "France"
+  - Saturnine
+born: German
+died: near Arras, France, date unknown
+deathPlace: France, date unknown
+region: France
 feastDay:
   month: 6
   day: 4
@@ -17,6 +17,7 @@ vocation:
   - Virgin
   - Monk
 martyr: true
+prayers: []
 ---
 
 Virgin-martyr.

@@ -15,6 +15,7 @@ canonizationStatus: Blessed
 vocation: []
 religiousOrder: Franciscan
 martyr: false
+prayers: []
 ---
 
 Franciscan friar who was a model of religious life, and who had the gift of prophecy.

@@ -1,17 +1,20 @@
 ---
-name: "Blessed Elias of Bourdeilles"
+name: Blessed Elias of Bourdeilles
 honorific: Blessed
-summary: "Born to the French nobility. Franciscan at age ten. Priest. Bishop of P&eacute;rigord, France in 1437. In 1452 he authored a report vindicating Saint Joan of Arc. Archbishop of Tours, France in 1468. Cardinal in 1483. Confessor to King Louis XI. Defended the rights of the Church"
-image: "http://catholicsaints.info/wp-content/uploads/Elias-of-Bourdeilles.jpg"
+summary: >-
+  Born to the French nobility. Franciscan at age ten. Priest. Bishop of P&eacute;rigord, France in 1437. In 1452 he
+  authored a report vindicating Saint Joan of Arc. Archbishop of Tours, France in 1468. Cardinal in 1483. Confessor to
+  King Louis XI. Defended the rights of the Church
+image: http://catholicsaints.info/wp-content/uploads/Elias-of-Bourdeilles.jpg
 searchAliases:
-  - "Elie"
-  - "Hélie"
+  - Elie
+  - Hélie
 birthYear: 1407
 deathYear: 1484
-born: "1407 at P&eacute;rigord, France"
-died: "1484 of natural causes"
-birthPlace: "France"
-region: "France"
+born: 1407 at P&eacute;rigord, France
+died: 1484 of natural causes
+birthPlace: France
+region: France
 feastDay:
   month: 7
   day: 5
@@ -20,8 +23,9 @@ vocation:
   - Bishop
   - Priest
   - Confessor
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 martyr: false
+prayers: []
 ---
 
 Born to the French nobility. Franciscan at age ten. Priest. Bishop of P&eacute;rigord, France in 1437. In 1452 he authored a report vindicating Saint Joan of Arc. Archbishop of Tours, France in 1468. Cardinal in 1483. Confessor to King Louis XI. Defended the rights of the Church against the power of the king.

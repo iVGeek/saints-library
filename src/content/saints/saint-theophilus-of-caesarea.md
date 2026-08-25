@@ -1,11 +1,13 @@
 ---
-name: "Saint Theophilus of Caesarea"
+name: Saint Theophilus of Caesarea
 honorific: Saint
-summary: "Bishop of Caesarea in Palestine. Opposed the Quartodecimans, a sect that advocated commemorating Easter on Passover, whether that was Sunday or not."
-image: "http://catholicsaints.info/wp-content/uploads/theophilus-5-march.jpg"
+summary: >-
+  Bishop of Caesarea in Palestine. Opposed the Quartodecimans, a sect that advocated commemorating Easter on Passover,
+  whether that was Sunday or not.
+image: http://catholicsaints.info/wp-content/uploads/theophilus-5-march.jpg
 deathYear: 195
-died: "c.195 of natural causes"
-region: "Holy Land"
+died: c.195 of natural causes
+region: Holy Land
 feastDay:
   month: 3
   day: 5
@@ -15,6 +17,7 @@ vocation:
   - Priest
   - Monk
 martyr: false
+prayers: []
 ---
 
 Bishop of Caesarea in Palestine. Opposed the Quartodecimans, a sect that advocated commemorating Easter on Passover, whether that was Sunday or not.

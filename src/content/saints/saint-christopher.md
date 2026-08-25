@@ -37,7 +37,7 @@ symbols:
 martyr: true
 lifeEvents: []
 prayers:
-  - name: Novena to Saint Christopher
+  - name: Novena to Saint Saint Christopher
     kind: Novena — nine-day prayer for safe travels
     text: >-
       Glorious Saint Christopher, mighty protector of travelers and bearer of the Christ Child, I turn to you in this

@@ -16,6 +16,7 @@ vocation:
   - Monk
 religiousOrder: Benedictine
 martyr: false
+prayers: []
 ---
 
 Benedictine monk at Saint Andrew's monastery on the Coelian Hill, Rome, Italy under abbot Saint Gregory the Great who later wrote about him. Miracle worker.

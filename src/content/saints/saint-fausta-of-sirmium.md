@@ -15,6 +15,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: false
+prayers: []
 ---
 
 Born to the nobility. Married, and the mother of Saint Anastasia of Sirmium; her personal piety helped form her own faith. Widow.

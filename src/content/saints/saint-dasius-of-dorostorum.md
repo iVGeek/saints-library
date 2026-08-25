@@ -1,15 +1,15 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Dasius of Dorostorum"
+name: Saint Dasius of Dorostorum
 honorific: Saint
-summary: " Some stories say that he was not a bishop but a Christian soldier who kept his faith to himself as a w Bishop at Dorostorum (modern Silistra, Bulgaria). Fought against the immorality involved in the Saturnalia and other pagan festivals. Martyred in the persecutions of Diocletian."
+summary: ' Some stories say that he was not a bishop but a Christian soldier who kept his faith to himself as a w Bishop at Dorostorum (modern Silistra, Bulgaria). Fought against the immorality involved in the Saturnalia and other pagan festivals. Martyred in the persecutions of Diocletian.'
 searchAliases:
-  - "Dasius of Silistria"
-  - "Dasio…"
+  - Dasius of Silistria
+  - Dasio…
 deathYear: 303
-died: "beheaded c.303 in Silistra, Moesia (in modern Bulgaria)"
-deathPlace: "Moesia (modern Bulgaria)"
-region: "Italy"
+died: beheaded c.303 in Silistra, Moesia (in modern Bulgaria)
+deathPlace: Moesia (modern Bulgaria)
+region: Italy
 feastDay:
   month: 11
   day: 20
@@ -19,6 +19,7 @@ vocation:
   - Monk
   - Soldier
 martyr: true
+prayers: []
 ---
 
 Bishop at Dorostorum (modern Silistra, Bulgaria). Fought against the immorality involved in the Saturnalia and other pagan festivals. Martyred in the persecutions of Diocletian.

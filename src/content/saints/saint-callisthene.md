@@ -13,6 +13,7 @@ image: https://commons.wikimedia.org/wiki/Special:FilePath/Callisthene_minor_418
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Daughter of Saint Adauctus. Following his martyrdom, she devoted her life to charity. Surrounded by the death of the faithful, she somehow lived through the persecutions of Emperor Maximinus.

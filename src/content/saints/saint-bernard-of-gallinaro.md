@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Bernard of Gallinaro"
+name: Saint Bernard of Gallinaro
 honorific: Saint
-summary: "English pilgrim."
+summary: English pilgrim.
 searchAliases:
-  - "Bernhard"
-region: "Italy"
+  - Bernhard
+region: Italy
 feastDay:
   month: 4
   day: 28
@@ -13,6 +13,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: false
+prayers: []
 ---
 
 English pilgrim.

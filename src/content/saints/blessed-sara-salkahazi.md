@@ -1,17 +1,20 @@
 ---
-name: "Blessed Sára Salkaházi"
+name: Blessed Sára Salkaházi
 honorific: Blessed
-summary: "Second of three children born to Leopold and Klotild Salkahaz, hotel owners. Her father died when Sara was two. Her brother described her as “a tomboy with a strong will and a mind of her own; when it came to play she would always join the boys in their games or tug of war”. She"
-image: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Sara_Salkahazi.jpg"
+summary: >-
+  Second of three children born to Leopold and Klotild Salkahaz, hotel owners. Her father died when Sara was two. Her
+  brother described her as “a tomboy with a strong will and a mind of her own; when it came to play she would always
+  join the boys in their games or tug of war”. She
+image: https://upload.wikimedia.org/wikipedia/commons/1/1a/Sara_Salkahazi.jpg
 searchAliases:
-  - "Sára Schalkház"
+  - Sára Schalkház
 birthYear: 1899
 deathYear: 1944
-born: "11 May 1899 in Kassa, Hungary (modern Košice, Slovakia)"
-died: "shot on 27 December 1944 by members of the Arrow Cross Party on the banks of the River Danube in Budapest, Hungary"
-birthPlace: "Hungary (modern Košice, Slovakia)"
-deathPlace: "Hungary"
-region: "Czech Republic"
+born: 11 May 1899 in Kassa, Hungary (modern Košice, Slovakia)
+died: shot on 27 December 1944 by members of the Arrow Cross Party on the banks of the River Danube in Budapest, Hungary
+birthPlace: Hungary (modern Košice, Slovakia)
+deathPlace: Hungary
+region: Czech Republic
 feastDay:
   month: 12
   day: 27
@@ -19,6 +22,7 @@ canonizationStatus: Blessed
 vocation:
   - Priest
 martyr: false
+prayers: []
 ---
 
 Second of three children born to Leopold and Klotild Salkahaz, hotel owners. Her father died when Sara was two. Her brother described her as “a tomboy with a strong will and a mind of her own; when it came to play she would always join the boys in their games or tug of war”. She began writing plays as a teenager, and at the same time developed a deep prayer life. She received a degree and taught elementary school for a year, but gave it up to work as a bookbinder. She began writing again, and was active in the Hungarian literary world. Journalist. Member of the leadership of the National Christian Socialist Party of Czechoslovakia, and editor of the Party newspaper.

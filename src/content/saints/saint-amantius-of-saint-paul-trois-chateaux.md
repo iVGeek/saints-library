@@ -20,6 +20,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/0/04/Saint-Paul-Trois-Ch%C3%A2teaux_-_cath%C3%A9drale_-_vue_g%C3%A9n%C3%A9ral%C3%A9_depuis_le_sud_est.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Amantius of Saint-Paul-Trois-Châteaux
 imageCreditUrl: https://en.wikipedia.org/wiki/Diocese%20of%20Saint-Paul-Trois-Ch%C3%A2teaux
+prayers: []
 ---
 
 10th bishop of the diocese of Saint-Paul-Trois-Châteaux, France.

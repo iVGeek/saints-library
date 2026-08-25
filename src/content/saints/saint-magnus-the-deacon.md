@@ -15,6 +15,7 @@ vocation:
   - Monk
   - Deacon
 martyr: true
+prayers: []
 ---
 
 Deacon. Martyred with Pope Saint Sixtus II and other deacons.

@@ -21,6 +21,7 @@ patronage:
   - Fiesole, Italy
   - Figline and Incisa Valdarno, Italy
 martyr: true
+prayers: []
 ---
 
 Converted by Saint Peter the Apostle, he preached throughout central Italy, and served as first bishop of Fiesole, Italy. Martyred with Carissimus, Dulcissimus, and Crescentius by order of governor Repertian in the persecutions of Emperor Domitian.

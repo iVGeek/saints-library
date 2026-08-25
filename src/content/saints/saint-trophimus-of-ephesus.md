@@ -1,10 +1,12 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Trophimus of Ephesus"
+name: Saint Trophimus of Ephesus
 honorific: Saint
-summary: "Gentile first century convert. Missionary with Saint Paul. Pilgim to Jerusalem where his Gentile presence in the temple stated a riot."
-born: "Ephesus"
-region: "Holy Land"
+summary: >-
+  Gentile first century convert. Missionary with Saint Paul. Pilgim to Jerusalem where his Gentile presence in the
+  temple stated a riot.
+born: Ephesus
+region: Holy Land
 feastDay:
   month: 12
   day: 29
@@ -13,6 +15,7 @@ vocation:
   - Monk
   - Missionary
 martyr: false
+prayers: []
 ---
 
 Gentile first century convert. Missionary with Saint Paul. Pilgim to Jerusalem where his Gentile presence in the temple stated a riot.

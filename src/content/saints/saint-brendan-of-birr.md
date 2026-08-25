@@ -32,6 +32,7 @@ vocation:
 patronage:
   - Birr, Ireland
 martyr: false
+prayers: []
 ---
 
 Friend and brother monk with Saint Brendan the Navigator at Clonard abbey. Spiritual student of Saint Finian. Founded the monastery at Birr in Offaly, central Ireland c.540, and served as its abbot. Friend and advisor of Saint Columba. At Brendan's death, Columba had a vision of the abbot's soul being carried away by angels.

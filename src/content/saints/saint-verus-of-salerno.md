@@ -1,9 +1,9 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Verus of Salerno"
+name: Saint Verus of Salerno
 honorific: Saint
-summary: "Fourth-century bishop of Salerno, Italy. Fought heresy to maintain orthodox Christianity in his see."
-region: "Italy"
+summary: Fourth-century bishop of Salerno, Italy. Fought heresy to maintain orthodox Christianity in his see.
+region: Italy
 feastDay:
   month: 10
   day: 23
@@ -12,6 +12,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Fourth-century bishop of Salerno, Italy. Fought heresy to maintain orthodox Christianity in his see.

@@ -21,6 +21,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Son of Saint Isychius. Elder brother of Saint Avitus of Vienne. Bishop of Valence, France in 486 after a long vacancy in the diocese, and Apollinaris exhausted himself in reforming abuses and re-vitalizing the faith. Exiled by King Sigismund for political reasons, but allowed to return when he miraculously healed the king.

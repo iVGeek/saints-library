@@ -18,6 +18,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/f/f5/Eastchester_Town_Hall_800.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Fotius of Africa
 imageCreditUrl: https://en.wikipedia.org/wiki/Eastchester%2C%20New%20York
+prayers: []
 ---
 
 Martyr.

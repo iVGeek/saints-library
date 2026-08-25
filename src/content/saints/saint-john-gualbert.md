@@ -36,6 +36,7 @@ patronage:
     Florence
   - Vallombrosa
 martyr: false
+prayers: []
 ---
 
 Florentine nobility; part of the Visdomini family. His brother Hugh was murdered; John tracked down the killer, finding him on a Good Friday. John received a vision of Christ on the Cross, which he took as a sign to pardon the killer, and convert to Christianity. He did both.

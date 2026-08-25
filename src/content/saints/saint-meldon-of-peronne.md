@@ -1,14 +1,14 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Meldon of Péronne"
+name: Saint Meldon of Péronne
 honorific: Saint
-summary: "Sixth-century hermit in France."
+summary: Sixth-century hermit in France.
 searchAliases:
-  - "Medon"
-born: "Ireland"
-died: "in Péronne, France"
-deathPlace: "France"
-region: "France"
+  - Medon
+born: Ireland
+died: in Péronne, France
+deathPlace: France
+region: France
 feastDay:
   month: 2
   day: 7
@@ -18,6 +18,7 @@ vocation:
   - Monk
   - Hermit
 martyr: false
+prayers: []
 ---
 
 Sixth-century hermit in France.

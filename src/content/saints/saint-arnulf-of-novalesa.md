@@ -1,19 +1,20 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Arnulf of Novalesa"
+name: Saint Arnulf of Novalesa
 honorific: Saint
-summary: "Benedictine monk at Novalesa Abbey, Piedmont, Italy. Martyred by Saracens."
+summary: Benedictine monk at Novalesa Abbey, Piedmont, Italy. Martyred by Saracens.
 deathYear: 840
-died: "c.840"
-region: "Italy"
+died: c.840
+region: Italy
 feastDay:
   month: 10
   day: 31
 canonizationStatus: Saint
 vocation:
   - Monk
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 martyr: true
+prayers: []
 ---
 
 Benedictine monk at Novalesa Abbey, Piedmont, Italy. Martyred by Saracens.

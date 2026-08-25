@@ -1,14 +1,14 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Libya of Palmyra"
+name: Saint Libya of Palmyra
 honorific: Saint
-summary: "Sister of Saint Leonides of Palmyra. Martyred in the persecutions of Diocletian."
+summary: Sister of Saint Leonides of Palmyra. Martyred in the persecutions of Diocletian.
 searchAliases:
-  - "Lybe"
+  - Lybe
 deathYear: 303
-died: "beheaded in 303 in Palmyra, Syria"
-deathPlace: "Syria"
-region: "England"
+died: beheaded in 303 in Palmyra, Syria
+deathPlace: Syria
+region: England
 feastDay:
   month: 6
   day: 15
@@ -17,6 +17,7 @@ vocation:
   - Monk
   - Religious
 martyr: true
+prayers: []
 ---
 
 Sister of Saint Leonides of Palmyra. Martyred in the persecutions of Diocletian.

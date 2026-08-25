@@ -1,24 +1,25 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Casimir Riba Pi"
+name: Blessed Casimir Riba Pi
 honorific: Blessed
-summary: "Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
+summary: Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War.
 searchAliases:
-  - "Brother Bernabé"
+  - Brother Bernabé
 birthYear: 1877
 deathYear: 1936
-born: "14 September 1877 in Rubí, Barcelona, Spain"
-died: "8 October 1936 in Montcada, Barcelona, Spain"
-birthPlace: "Barcelona, Spain"
-deathPlace: "Barcelona, Spain"
-region: "Spain"
+born: 14 September 1877 in Rubí, Barcelona, Spain
+died: 8 October 1936 in Montcada, Barcelona, Spain
+birthPlace: Barcelona, Spain
+deathPlace: Barcelona, Spain
+region: Spain
 feastDay:
   month: 10
   day: 8
 canonizationStatus: Blessed
 vocation: []
-religiousOrder: "Marist"
+religiousOrder: Marist
 martyr: true
+prayers: []
 ---
 
 Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War.

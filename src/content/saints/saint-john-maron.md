@@ -22,6 +22,7 @@ vocation:
   - Priest
   - Monk
 martyr: false
+prayers: []
 ---
 
 Son of Agathon, the governor of Sarum, and Anohamia, grandson of prince Alidipas, and a member of the Frankish royal family which governed Antioch. Educated in Antioch and the monastery of Saint Maron, studying mathematics, sciences, philosophy, theology, linguistics and scripture. Monk at the monastery of Saint Maron, adding the name Maron to his own. Priest.

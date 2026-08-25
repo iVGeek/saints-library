@@ -2,7 +2,9 @@
 name: Ambrose of Milan
 honorific: Saint
 title: Doctor of the Church
-summary: The reluctant bishop who became the conscience of an empire — preacher, hymn-writer, and shepherd who stood in the cathedral door against an emperor's sin.
+summary: >-
+  The reluctant bishop who became the conscience of an empire — preacher, hymn-writer, and shepherd who stood in the
+  cathedral door against an emperor's sin.
 image: https://upload.wikimedia.org/wikipedia/commons/7/74/AmbroseOfMilan_%28cropped%29.jpg
 imageAlt: Portrait of Ambrose of Milan
 imageCredit: Wikimedia Commons
@@ -19,7 +21,8 @@ died: 4 April 397
 birthPlace: Trier, Germany
 deathPlace: Milan, Italy
 region: Italy
-centuries: [4]
+centuries:
+  - 4
 feastDay:
   month: 12
   day: 7
@@ -42,32 +45,34 @@ symbols:
   - Crozier with cross
 martyr: false
 lifeEvents:
-  - year: "c. 339"
-    event: Born at Trier, of a Roman Christian family; legend says a swarm of bees settled on his infant face without stinging him.
-  - year: "370s"
+  - year: c. 339
+    event: >-
+      Born at Trier, of a Roman Christian family; legend says a swarm of bees settled on his infant face without
+      stinging him.
+  - year: 370s
     event: Governor of the province of Aemilia-Liguria, based in Milan.
-  - year: "374"
+  - year: '374'
     event: Acclaimed bishop of Milan while still an unbaptized catechumen, by the voice of the people.
-  - year: "374–397"
+  - year: 374–397
     event: Governs the great see of Milan; writes, preaches, and composes hymns that shape Western liturgy.
-  - year: "385–386"
-    event: Resists the Empress Justina's demand for an Arian basilica, and later, in 390, confronts the Emperor Theodosius over the massacre of Thessalonica.
-  - year: "387"
+  - year: 385–386
+    event: >-
+      Resists the Empress Justina's demand for an Arian basilica, and later, in 390, confronts the Emperor Theodosius
+      over the massacre of Thessalonica.
+  - year: '387'
     event: Baptizes Saint Augustine in Milan.
-  - year: "4 April 397"
+  - year: 4 April 397
     event: Dies at Milan, on Holy Saturday, after a long illness.
 quotes:
-  - text: >-
-      The Church of God is like the moon: full and shining in the light of its Lord, waning and dim without Him.
+  - text: 'The Church of God is like the moon: full and shining in the light of its Lord, waning and dim without Him.'
     source: From the sermons of Saint Ambrose
 prayers:
   - name: Prayer to Saint Ambrose
     kind: Prayer for bishops and for courage in the truth
     text: >-
-      O Saint Ambrose, shepherd who held your ground before emperors, give the Church pastors
-      who preach Christ and fear no one else. Teach us to sing your hymns with understanding, to
-      love the Scriptures as Augustine learned to love them at your feet, and to stand for
-      justice even when the powerful would have us silent. Amen.
+      O Saint Ambrose, shepherd who held your ground before emperors, give the Church pastors who preach Christ and fear
+      no one else. Teach us to sing your hymns with understanding, to love the Scriptures as Augustine learned to love
+      them at your feet, and to stand for justice even when the powerful would have us silent. Amen.
 relatedSaints:
   - name: Augustine of Hippo
     slug: augustine-of-hippo

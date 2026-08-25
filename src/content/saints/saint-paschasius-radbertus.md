@@ -28,6 +28,7 @@ religiousOrder: Benedictine
 patronage:
   - Corbie, France
 martyr: false
+prayers: []
 ---
 
 A foundling whose background is completely unknown. Raised by monks after being found by nuns on the steps of Notre Dame of Soissons. Unruly in his youth, even with the brothers. Benedictine monk under Saint Adalard of Corbie. Deacon. Teacher. Moved to Corbie Abbey in 822, and helped make its school at one of the most famous places of learning in its day. Spiritual teacher of Saint Ansgar. Paschasius travelled Europe, speaking at councils, negotiating political and religious conflicts.

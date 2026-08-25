@@ -21,6 +21,7 @@ vocation:
   - Monk
   - Confessor
 martyr: false
+prayers: []
 ---
 
 Son of a physican. 31st pope in 310. His papacy lasted only four months, most of which he spent in exiled to Sicily by emperor Maxentius due to disturbances over how to deal with the lapsi, Christians who lapsed from the faith during the persecutions of Diocletian, and then came back to it. Eusebius wanted to welcome them back, after penance. Baptized Saint Eusebius of Vercelli.

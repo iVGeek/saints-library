@@ -20,6 +20,7 @@ image: >-
 imageAlt: Portrait of Saint Agapius of Sebaste
 imageCreditUrl: >-
   https://en.wikipedia.org/wiki/Agapius%2C%20Atticus%2C%20Carterius%2C%20Styriacus%2C%20Tobias%2C%20Eudoxius%2C%20Nictopolion%20and%20companions
+prayers: []
 ---
 
 One of a group of ten Christian soldiers in the imperial Roman army of Emperor Licinius who were martyred together for refusing to sacrifice to Roman gods.

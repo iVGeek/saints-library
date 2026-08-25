@@ -1,23 +1,26 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Ignacio González Calzada"
+name: Blessed Ignacio González Calzada
 honorific: Blessed
-summary: "Professed religious in the Brothers of the Christian Schools (De La Salle Brothers). Martyred in the Spanish Civil War."
+summary: >-
+  Professed religious in the Brothers of the Christian Schools (De La Salle Brothers). Martyred in the Spanish Civil
+  War.
 searchAliases:
-  - "Brother Rogaciano"
+  - Brother Rogaciano
 birthYear: 1885
 deathYear: 1936
-born: "31 July 1885 in Terrazos de Bureba, Burgos, Spain"
-died: "24 July 1936 in Madrid, Spain"
-birthPlace: "Burgos, Spain"
-deathPlace: "Spain"
-region: "Spain"
+born: 31 July 1885 in Terrazos de Bureba, Burgos, Spain
+died: 24 July 1936 in Madrid, Spain
+birthPlace: Burgos, Spain
+deathPlace: Spain
+region: Spain
 feastDay:
   month: 7
   day: 24
 canonizationStatus: Blessed
 vocation: []
 martyr: true
+prayers: []
 ---
 
 Professed religious in the Brothers of the Christian Schools (De La Salle Brothers). Martyred in the Spanish Civil War.

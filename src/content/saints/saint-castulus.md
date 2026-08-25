@@ -15,6 +15,7 @@ vocation:
   - Monk
   - Soldier
 martyr: true
+prayers: []
 ---
 
 One of a group of 50 soldiers martyred in Africa. No other information about them has survived.

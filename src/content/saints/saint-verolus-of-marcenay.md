@@ -1,20 +1,20 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Verolus of Marcenay"
+name: Saint Verolus of Marcenay
 honorific: Saint
-summary: " One day during Mass, Father Verolus fell into a trance and stood motionless at Born to the aristocracy; his family was close to the Burgundian royals. Priest. Known as a miracle worker, he gave his wealth, work and miracles for the physical and spiritual improvement of the poor."
+summary: ' One day during Mass, Father Verolus fell into a trance and stood motionless at Born to the aristocracy; his family was close to the Burgundian royals. Priest. Known as a miracle worker, he gave his wealth, work and miracles for the physical and spiritual improvement of the poor.'
 searchAliases:
-  - "Verolus of Châtillon"
-  - "Verolus of Castellio"
-  - "Verolo…"
-  - "Veroul…"
-  - "Vorles…"
+  - Verolus of Châtillon
+  - Verolus of Castellio
+  - Verolo…
+  - Veroul…
+  - Vorles…
 deathYear: 600
-born: "Marcenay, diocese of Langres, France"
-died: "c.600 inMarcenay, diocese of Langres, France of natural causes"
-birthPlace: "dioceseLangres, France"
-deathPlace: "dioceseLangres, France of natural causes"
-region: "France"
+born: Marcenay, diocese of Langres, France
+died: c.600 inMarcenay, diocese of Langres, France of natural causes
+birthPlace: dioceseLangres, France
+deathPlace: dioceseLangres, France of natural causes
+region: France
 feastDay:
   month: 6
   day: 17
@@ -22,13 +22,17 @@ canonizationStatus: Saint
 vocation:
   - Priest
 patronage:
-  - "against cholera (a procession in his honour ended a cholera epidemic in Plaines in 1632"
-  - "against drought"
-  - "–"
-  - "in France\n\nChâtillon-sur-Seine"
-  - "Langres"
-  - "Marcenay"
+  - against cholera (a procession in his honour ended a cholera epidemic in Plaines in 1632
+  - against drought
+  - –
+  - |-
+    in France
+
+    Châtillon-sur-Seine
+  - Langres
+  - Marcenay
 martyr: false
+prayers: []
 ---
 
 Born to the aristocracy; his family was close to the Burgundian royals. Priest. Known as a miracle worker, he gave his wealth, work and miracles for the physical and spiritual improvement of the poor.

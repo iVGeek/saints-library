@@ -30,6 +30,7 @@ patronage:
   - Taormina, Italy
   - Canicattì, Italy
 martyr: true
+prayers: []
 ---
 
 Travelled from Turkey to Jerusalem as a boy during the ministry of Jesus. Back in Antioch, he and his entire family converted. Hermit in a cave in Pontus. Consecrated as a missionary bishop by the Saint Peter the Apostle, and sent to Taormina, Sicily. Miraculously saved the city from destruction by the pagan commander Aquilinus. Martyred by other pagans who opposed Christianity.

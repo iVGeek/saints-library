@@ -11,6 +11,7 @@ vocation:
   - Monk
   - Religious
 martyr: false
+prayers: []
 ---
 
 Nun noted for her ascetic life.

@@ -1,11 +1,14 @@
 ---
-name: "Saint Cyprian of Antioch"
+name: Saint Cyprian of Antioch
 honorific: Saint
-summary: "Pagan magician. He tried to use his dark arts to seduce Saint Justina, who had consecrated her virginity to God. He not only failed to overcome her faith, he was converted to Christianity. Priest. Bishop of Antioch, Pisidia. Martyred in the persecutions of Diocletian."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saints-Cyprian-and-Justina.jpg"
+summary: >-
+  Pagan magician. He tried to use his dark arts to seduce Saint Justina, who had consecrated her virginity to God. He
+  not only failed to overcome her faith, he was converted to Christianity. Priest. Bishop of Antioch, Pisidia. Martyred
+  in the persecutions of Diocletian.
+image: http://catholicsaints.info/wp-content/uploads/img-Saints-Cyprian-and-Justina.jpg
 deathYear: 304
-died: "beheaded in Nicomedia in 304"
-region: "Turkey"
+died: beheaded in Nicomedia in 304
+region: Turkey
 feastDay:
   month: 9
   day: 26
@@ -16,6 +19,7 @@ vocation:
   - Priest
   - Monk
 martyr: true
+prayers: []
 ---
 
 Pagan magician. He tried to use his dark arts to seduce Saint Justina, who had consecrated her virginity to God. He not only failed to overcome her faith, he was converted to Christianity. Priest. Bishop of Antioch, Pisidia. Martyred in the persecutions of Diocletian.

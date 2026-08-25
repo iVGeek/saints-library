@@ -1,18 +1,19 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Quinzianus of Rome"
+name: Saint Quinzianus of Rome
 honorific: Saint
-summary: "Martyr. No other information has survived."
-died: "buried in the catacombs in Rome, Italy"
-deathPlace: "Italy"
-region: "Italy"
+summary: Martyr. No other information has survived.
+died: buried in the catacombs in Rome, Italy
+deathPlace: Italy
+region: Italy
 feastDay:
   month: 1
   day: 1
 canonizationStatus: Saint
 vocation: []
-religiousOrder: "Capuchin"
+religiousOrder: Capuchin
 martyr: true
+prayers: []
 ---
 
 Martyr. No other information has survived.

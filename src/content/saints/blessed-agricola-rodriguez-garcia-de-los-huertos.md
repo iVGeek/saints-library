@@ -18,6 +18,7 @@ canonizationStatus: Blessed
 vocation:
   - Priest
 martyr: true
+prayers: []
 ---
 
 Priest in the archdiocese of Toledo, Spain. Martyred in the Spanish Civil War.

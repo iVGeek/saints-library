@@ -1,34 +1,36 @@
 ---
-name: "Saint Junipero Serra"
+name: Saint Junipero Serra
 honorific: Venerable
-summary: " In 1749, Serra was sent to the missionary terri Entered the Franciscan University at Palma, Spain at age 15, and joined the Order at age 17, taking the name Junipero after the friend of Saint Francis. Ordained in 1737, and taught philosophy and theology at the Lullian University."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Junipero-Serra.jpg"
+summary: ' In 1749, Serra was sent to the missionary terri Entered the Franciscan University at Palma, Spain at age 15, and joined the Order at age 17, taking the name Junipero after the friend of Saint Francis. Ordained in 1737, and taught philosophy and theology at the Lullian University.'
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Junipero-Serra.jpg
 searchAliases:
-  - "Apostle of California"
-  - "Miguel José Serra Ferrer"
+  - Apostle of California
+  - Miguel José Serra Ferrer
 birthYear: 1713
 deathYear: 1784
-born: "24 November 1713 at Petra, Spanish Majorca as Miguel Jose Serra"
-died: "28 August 1784 of tuberculosis at Mission San Carlos, California of natural causes"
-birthPlace: "Spanish Majorca as Miguel Jose Serra"
-deathPlace: "Californianatural causes"
-region: "Spain"
+born: 24 November 1713 at Petra, Spanish Majorca as Miguel Jose Serra
+died: 28 August 1784 of tuberculosis at Mission San Carlos, California of natural causes
+birthPlace: Spanish Majorca as Miguel Jose Serra
+deathPlace: Californianatural causes
+region: Spain
 feastDay:
   month: 8
   day: 28
-centuries: [18]
+centuries:
+  - 18
 canonizationStatus: Venerable
 vocation:
   - Bishop
   - Priest
   - Missionary
-religiousOrder: "Jesuit"
+religiousOrder: Jesuit
 patronage:
-  - "California"
-  - "California Missions"
-  - "Los Angeles, California, archdiocese of"
-  - "Serra Foundation"
+  - California
+  - California Missions
+  - Los Angeles, California, archdiocese of
+  - Serra Foundation
 martyr: false
+prayers: []
 ---
 
 Entered the Franciscan University at Palma, Spain at age 15, and joined the Order at age 17, taking the name Junipero after the friend of Saint Francis. Ordained in 1737, and taught philosophy and theology at the Lullian University.

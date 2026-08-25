@@ -28,6 +28,7 @@ symbols:
   - Cross
 martyr: false
 lifeEvents: []
+prayers: []
 ---
 
 Bishop of Toulouse, France. Known for his charity, including aid to the poor in Egypt and Palestine. Saint Jerome thought highly of him, and dedicated one of his Bible commentaries to him.

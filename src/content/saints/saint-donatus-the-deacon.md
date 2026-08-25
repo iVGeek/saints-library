@@ -1,12 +1,12 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Donatus the Deacon"
+name: Saint Donatus the Deacon
 honorific: Saint
-summary: "Deacon. Martyred by Donatist heretics for his defense of orthodox Christianity."
+summary: Deacon. Martyred by Donatist heretics for his defense of orthodox Christianity.
 deathYear: 362
-died: "362 in Lavallum, North Africa"
-deathPlace: "North Africa"
-region: "England"
+died: 362 in Lavallum, North Africa
+deathPlace: North Africa
+region: England
 feastDay:
   month: 2
   day: 9
@@ -15,6 +15,7 @@ vocation:
   - Monk
   - Deacon
 martyr: true
+prayers: []
 ---
 
 Deacon. Martyred by Donatist heretics for his defense of orthodox Christianity.

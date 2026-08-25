@@ -1,16 +1,16 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Eoin O'Mulkern"
+name: Blessed Eoin O'Mulkern
 honorific: Blessed
-summary: "Premonstratensian priest. One of the Irish Martyrs."
+summary: Premonstratensian priest. One of the Irish Martyrs.
 searchAliases:
-  - "John Kieran"
-  - "John Mulcheran"
+  - John Kieran
+  - John Mulcheran
 deathYear: 1580
-born: "Irish"
-died: "21 November 1580 in Dublin, Ireland"
-deathPlace: "Ireland"
-region: "Italy"
+born: Irish
+died: 21 November 1580 in Dublin, Ireland
+deathPlace: Ireland
+region: Italy
 feastDay:
   month: 11
   day: 21
@@ -19,6 +19,7 @@ vocation:
   - Priest
   - Monk
 martyr: true
+prayers: []
 ---
 
 Premonstratensian priest. One of the Irish Martyrs.

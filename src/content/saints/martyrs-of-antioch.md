@@ -17,6 +17,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/1/16/Margaret_the_Virgin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Martyrs of Antioch
 imageCreditUrl: https://en.wikipedia.org/wiki/Margaret%20the%20Virgin
+prayers: []
 ---
 
 A group of Christians martyred together by Emperor Maximian Galerius.

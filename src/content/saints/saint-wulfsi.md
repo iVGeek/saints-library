@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Wulfsi"
+name: Saint Wulfsi
 honorific: Saint
-summary: "Eleventh-century hermit in the west of England. Spiritual advisor to Saint Wolstan of Worcester."
+summary: Eleventh-century hermit in the west of England. Spiritual advisor to Saint Wolstan of Worcester.
 searchAliases:
-  - "Wulsi"
-region: "England"
+  - Wulsi
+region: England
 feastDay:
   month: 1
   day: 20
@@ -14,6 +14,7 @@ vocation:
   - Monk
   - Hermit
 martyr: false
+prayers: []
 ---
 
 Eleventh-century hermit in the west of England. Spiritual advisor to Saint Wolstan of Worcester.

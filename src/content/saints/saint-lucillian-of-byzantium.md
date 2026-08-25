@@ -1,13 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Lucillian of Byzantium"
+name: Saint Lucillian of Byzantium
 honorific: Saint
-summary: "Converted in his old age. Martyr."
+summary: Converted in his old age. Martyr.
 searchAliases:
-  - "Lucillian of Bysants"
+  - Lucillian of Bysants
 deathYear: 273
-died: "crucified in 273 at Byzantium"
-region: "England"
+died: crucified in 273 at Byzantium
+region: England
 feastDay:
   month: 6
   day: 3
@@ -15,6 +15,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Converted in his old age. Martyr.

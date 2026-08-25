@@ -1,15 +1,15 @@
 ---
-name: "Blessed Daniel Karmasz"
+name: Blessed Daniel Karmasz
 honorific: Blessed
-summary: "Married layman from Legi, Poland. One of the Marytrs of Podlasie."
-image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Podlasie.jpg"
+summary: Married layman from Legi, Poland. One of the Marytrs of Podlasie.
+image: http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Podlasie.jpg
 birthYear: 1826
 deathYear: 1874
-born: "22 December 1826 in Przedmiescie-Pratulin, Podlasie, Poland"
-died: "shot on 24 January 1874 by Russian soldiers in Podlasie, Poland"
-birthPlace: "Podlasie, Poland"
-deathPlace: "Poland"
-region: "Poland"
+born: 22 December 1826 in Przedmiescie-Pratulin, Podlasie, Poland
+died: shot on 24 January 1874 by Russian soldiers in Podlasie, Poland
+birthPlace: Podlasie, Poland
+deathPlace: Poland
+region: Poland
 feastDay:
   month: 1
   day: 24
@@ -17,6 +17,7 @@ canonizationStatus: Blessed
 vocation:
   - Soldier
 martyr: false
+prayers: []
 ---
 
 Married layman from Legi, Poland. One of the Marytrs of Podlasie.

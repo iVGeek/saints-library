@@ -1,9 +1,11 @@
 ---
-name: "Blessed Batilani Marsalio"
+name: Blessed Batilani Marsalio
 honorific: Blessed
-summary: "Mercedarian lay brother. He was one of twenty Mercedarians who, when an unspecified plague struck Palermo, Italy, volunteered to nurse the sick. He contracted the plague himself, and died as a martyr of charity."
-image: "http://catholicsaints.info/wp-content/uploads/img-Twenty-Mercedarians-of-Palermo.jpg"
-region: "Italy"
+summary: >-
+  Mercedarian lay brother. He was one of twenty Mercedarians who, when an unspecified plague struck Palermo, Italy,
+  volunteered to nurse the sick. He contracted the plague himself, and died as a martyr of charity.
+image: http://catholicsaints.info/wp-content/uploads/img-Twenty-Mercedarians-of-Palermo.jpg
+region: Italy
 feastDay:
   month: 2
   day: 14
@@ -11,6 +13,7 @@ canonizationStatus: Blessed
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Mercedarian lay brother. He was one of twenty Mercedarians who, when an unspecified plague struck Palermo, Italy, volunteered to nurse the sick. He contracted the plague himself, and died as a martyr of charity.

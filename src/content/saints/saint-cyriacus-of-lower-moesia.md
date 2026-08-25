@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Cyriacus of Lower Moesia"
+name: Saint Cyriacus of Lower Moesia
 honorific: Saint
-summary: "Martyr. No other information has survived."
-died: "on the Black Sea at Lower Moesia (in modern Bulgaria), date unknown"
-deathPlace: "date unknown"
-region: "England"
+summary: Martyr. No other information has survived.
+died: on the Black Sea at Lower Moesia (in modern Bulgaria), date unknown
+deathPlace: date unknown
+region: England
 feastDay:
   month: 6
   day: 20
@@ -13,6 +13,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Martyr. No other information has survived.

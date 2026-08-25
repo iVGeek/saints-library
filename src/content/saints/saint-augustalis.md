@@ -1,22 +1,23 @@
 ---
-name: "Saint Augustalis"
+name: Saint Augustalis
 honorific: Saint
-summary: "Bishop in Gaul, possibly in Arles."
+summary: Bishop in Gaul, possibly in Arles.
 searchAliases:
-  - "Augustalus"
-  - "Autal"
+  - Augustalus
+  - Autal
 deathYear: 450
-died: "c.450"
-region: "France"
+died: c.450
+region: France
 feastDay:
   month: 9
   day: 7
 canonizationStatus: Saint
-image: "https://upload.wikimedia.org/wikipedia/commons/3/37/Augustale_federiciano.jpg"
+image: https://upload.wikimedia.org/wikipedia/commons/3/37/Augustale_federiciano.jpg
 vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Bishop in Gaul, possibly in Arles.

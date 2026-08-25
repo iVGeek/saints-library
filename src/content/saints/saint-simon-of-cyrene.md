@@ -19,6 +19,7 @@ vocation:
   - Priest
   - Missionary
 martyr: true
+prayers: []
 ---
 
 First century convert. Father of Saint Rufus. Helped Christ carry the cross on the way to Calvary. Missionary to France. First bishop of Avignon, France. Martyr.

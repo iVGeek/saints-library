@@ -1,9 +1,12 @@
 ---
-name: "Our Lady of Altotting"
+name: Our Lady of Altotting
 honorific: Saint
-summary: "Shrine located in Altotting, Bavaria, Germany, the octagonal chapel was constructed of native stone c.680 and survives today. Wars and pestilence and politics have caused the area to change hands several times, but the chapel has always survived. The small image of Our Lady was c"
-image: "http://catholicsaints.info/wp-content/uploads/img-Our-Lady-of-Altotting.gif"
-region: "Germany"
+summary: >-
+  Shrine located in Altotting, Bavaria, Germany, the octagonal chapel was constructed of native stone c.680 and survives
+  today. Wars and pestilence and politics have caused the area to change hands several times, but the chapel has always
+  survived. The small image of Our Lady was c
+image: http://catholicsaints.info/wp-content/uploads/img-Our-Lady-of-Altotting.gif
+region: Germany
 feastDay:
   month: 1
   day: 1
@@ -11,8 +14,9 @@ canonizationStatus: Saint
 vocation:
   - Virgin
 patronage:
-  - "Germany"
+  - Germany
 martyr: false
+prayers: []
 ---
 
 Shrine located in Altotting, Bavaria, Germany, the octagonal chapel was constructed of native stone c.680 and survives today. Wars and pestilence and politics have caused the area to change hands several times, but the chapel has always survived. The small image of Our Lady was carved of lime wood c.1330, its surface blackened by age, the uncounted thousands of candles burned near it, and a fire in 907 that threatened to destroy it.

@@ -1,13 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Auxilius of Ireland"
+name: Saint Auxilius of Ireland
 honorific: Saint
-summary: "Worked with Saint Patrick to evangelize Ireland in the fifth century. Bishop of Killossey, Ireland."
+summary: Worked with Saint Patrick to evangelize Ireland in the fifth century. Bishop of Killossey, Ireland.
 searchAliases:
-  - "Auxilius of Killossey"
+  - Auxilius of Killossey
 deathYear: 460
-died: "c.460"
-region: "Ireland"
+died: c.460
+region: Ireland
 feastDay:
   month: 3
   day: 19
@@ -16,6 +16,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Worked with Saint Patrick to evangelize Ireland in the fifth century. Bishop of Killossey, Ireland.

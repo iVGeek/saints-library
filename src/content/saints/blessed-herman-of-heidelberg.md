@@ -1,11 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Herman of Heidelberg"
+name: Blessed Herman of Heidelberg
 honorific: Blessed
-summary: "Brother of Blessed Otto of Heidelberg. Benedictine monk at Niederaltaich, Bavaria in 1320, living in a hermit's cell in the monastery."
+summary: >-
+  Brother of Blessed Otto of Heidelberg. Benedictine monk at Niederaltaich, Bavaria in 1320, living in a hermit's cell
+  in the monastery.
 deathYear: 1326
-died: "c.1326"
-region: "Germany"
+died: c.1326
+region: Germany
 feastDay:
   month: 9
   day: 3
@@ -13,8 +15,9 @@ canonizationStatus: Blessed
 vocation:
   - Monk
   - Hermit
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 martyr: false
+prayers: []
 ---
 
 Brother of Blessed Otto of Heidelberg. Benedictine monk at Niederaltaich, Bavaria in 1320, living in a hermit's cell in the monastery.

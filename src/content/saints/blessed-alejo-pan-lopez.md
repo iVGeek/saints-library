@@ -32,6 +32,7 @@ imageCredit: >-
   <ul><li>IA contributor: Biblioteca de la Universidad de Sevilla</li></ul>
 imageCreditUrl: >-
   https://commons.wikimedia.org/wiki/File:Almanaque%20literario%20de%20El%20Museo%20Universal%20para%20el%20a%C3%B1o%20de%201862%20(IA%20A1140646).pdf
+prayers: []
 ---
 
 Franciscan Capuchin priest. Martyred in the Spanish Civil War.

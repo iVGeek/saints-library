@@ -14,6 +14,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/41/Spb_06-2017_img20_StMichael_Castle_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Cameron
 imageCreditUrl: https://en.wikipedia.org/wiki/Saint%20Petersburg
+prayers: []
 ---
 
 Martyr. No other information has survived.

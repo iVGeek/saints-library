@@ -27,6 +27,7 @@ patronage:
   - Palencia, Spain
   - Pamiers, France
 martyr: false
+prayers: []
 ---
 
 First century convert to Christianity. Pilgim to Rome, Italy. Priest. Missionary to Aquitania, an area of modern France, which led to his title Apostle of the Rouergue. Miracle worker.

@@ -1,19 +1,22 @@
 ---
-name: "Blessed Bertold of Mount Carmel"
+name: Blessed Bertold of Mount Carmel
 honorific: Blessed
-summary: "Soldier who fought in the Crusades and was in Antioch during its siege by Saracens. Following a vision of Christ, Bertold gave up the military life and became a hermit on Mount Carmel, trying to live like Elijah the Prophet. His reputation for holiness spread, other hermits were"
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Bertold-of-Mount-Carmel.jpg"
+summary: >-
+  Soldier who fought in the Crusades and was in Antioch during its siege by Saracens. Following a vision of Christ,
+  Bertold gave up the military life and became a hermit on Mount Carmel, trying to live like Elijah the Prophet. His
+  reputation for holiness spread, other hermits were
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Bertold-of-Mount-Carmel.jpg
 searchAliases:
-  - "Bartold of Calabria"
-  - "Bartoldus…"
-  - "Berthold…"
-  - "Bertoldo…"
-  - "Bartholomew Avogadro"
+  - Bartold of Calabria
+  - Bartoldus…
+  - Berthold…
+  - Bertoldo…
+  - Bartholomew Avogadro
 deathYear: 1195
-born: "Limoges, France as Bartholomew Avogadro"
-died: "c.1195"
-birthPlace: "France as Bartholomew Avogadro"
-region: "Turkey"
+born: Limoges, France as Bartholomew Avogadro
+died: c.1195
+birthPlace: France as Bartholomew Avogadro
+region: Turkey
 feastDay:
   month: 3
   day: 29
@@ -21,8 +24,9 @@ canonizationStatus: Blessed
 vocation:
   - Hermit
   - Soldier
-religiousOrder: "Carmelite"
+religiousOrder: Carmelite
 martyr: false
+prayers: []
 ---
 
 Soldier who fought in the Crusades and was in Antioch during its siege by Saracens. Following a vision of Christ, Bertold gave up the military life and became a hermit on Mount Carmel, trying to live like Elijah the Prophet. His reputation for holiness spread, other hermits were attacted to the area, including Saint Brocard, and the community gave inspiration for the founding of the Carmelites.

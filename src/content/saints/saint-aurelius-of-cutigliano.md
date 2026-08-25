@@ -23,6 +23,7 @@ imageCredit: >-
   href="https://metmuseum.org/about-the-met/policies-and-documents/image-resources">Image and Data Resources Open Access
   Policy</a>
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:Saint%20Hyacinth%20Receiving%20the%20Dominican%20Habit%20MET%20DP810436.jpg
+prayers: []
 ---
 
 Martyr.

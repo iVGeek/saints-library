@@ -1,15 +1,16 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Lupercio"
+name: Saint Lupercio
 honorific: Saint
-summary: "Martyr. No other reliable information has survived."
-region: "Italy"
+summary: Martyr. No other reliable information has survived.
+region: Italy
 feastDay:
   month: 6
   day: 28
 canonizationStatus: Saint
 vocation: []
 martyr: true
+prayers: []
 ---
 
 Martyr. No other reliable information has survived.

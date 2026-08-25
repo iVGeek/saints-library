@@ -1,14 +1,14 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Emilian of Citra"
+name: Saint Emilian of Citra
 honorific: Saint
-summary: "Soldier. Martyr. No other information has survived."
+summary: Soldier. Martyr. No other information has survived.
 searchAliases:
-  - "Aemilian"
+  - Aemilian
 deathYear: 259
-died: "259 at Citra, Algeria"
-deathPlace: "Algeria"
-region: "England"
+died: 259 at Citra, Algeria
+deathPlace: Algeria
+region: England
 feastDay:
   month: 5
   day: 4
@@ -17,6 +17,7 @@ vocation:
   - Monk
   - Soldier
 martyr: true
+prayers: []
 ---
 
 Soldier. Martyr. No other information has survived.

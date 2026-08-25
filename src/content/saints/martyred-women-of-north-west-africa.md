@@ -24,6 +24,7 @@ imageCredit: >-
   href="https://archive.org/download/africaredivivaor00custrich/africaredivivaor00custrich.pdf">https://archive.org/download/africaredivivaor00custrich/africaredivivaor00custrich.pdf</a></dd></dl>
 imageCreditUrl: >-
   https://commons.wikimedia.org/wiki/File:Africa%20rediviva.%20Or%2C%20The%20occupation%20of%20Africa%20by%20Christian%20missionaries%20of%20Europe%20and%20North%20America%20(IA%20africaredivivaor00custrich).pdf
+prayers: []
 ---
 
 A large group of women martyred in the persecutions of Hunneric, Arian King of the Vandals.

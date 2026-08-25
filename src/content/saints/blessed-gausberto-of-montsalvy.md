@@ -1,15 +1,17 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Gausberto of Montsalvy"
+name: Blessed Gausberto of Montsalvy
 honorific: Blessed
-summary: "Priest. Hermit. Augustinian monk and then abbot at Montsalvy Abbey, Clermont-Ferrand, France. He helped turn the house into a hospice to assist pilgrims to holy sites. Spiritual teacher of Blessed Bernard of Rodez."
+summary: >-
+  Priest. Hermit. Augustinian monk and then abbot at Montsalvy Abbey, Clermont-Ferrand, France. He helped turn the house
+  into a hospice to assist pilgrims to holy sites. Spiritual teacher of Blessed Bernard of Rodez.
 searchAliases:
-  - "Gausbert"
-  - "Gosbert"
-  - "Gosberto"
+  - Gausbert
+  - Gosbert
+  - Gosberto
 deathYear: 1079
-died: "1079 of natural causes"
-region: "France"
+died: 1079 of natural causes
+region: France
 feastDay:
   month: 5
   day: 27
@@ -18,8 +20,9 @@ vocation:
   - Priest
   - Monk
   - Hermit
-religiousOrder: "Augustinian"
+religiousOrder: Augustinian
 martyr: false
+prayers: []
 ---
 
 Priest. Hermit. Augustinian monk and then abbot at Montsalvy Abbey, Clermont-Ferrand, France. He helped turn the house into a hospice to assist pilgrims to holy sites. Spiritual teacher of Blessed Bernard of Rodez.

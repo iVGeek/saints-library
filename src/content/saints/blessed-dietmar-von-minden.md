@@ -1,16 +1,16 @@
 ---
-name: "Blessed Dietmar von Minden"
+name: Blessed Dietmar von Minden
 honorific: Blessed
-summary: " Theitmar lived an extremel Priest. Bishop of Minden, Germany from c.1185 until his death 20 years later. WIth royal approval, Dietmar had the diocese open silver mines near Dehem and Cruckeberge, both of which are in modern Germany. In 1200, he founded the Marienwerder monastery."
-image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Dietmar-von-Minden.jpg"
+summary: ' Theitmar lived an extremel Priest. Bishop of Minden, Germany from c.1185 until his death 20 years later. WIth royal approval, Dietmar had the diocese open silver mines near Dehem and Cruckeberge, both of which are in modern Germany. In 1200, he founded the Marienwerder monastery.'
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Dietmar-von-Minden.jpg
 searchAliases:
-  - "Thietmar"
-  - "Thiemo"
-  - "Theodemarus"
+  - Thietmar
+  - Thiemo
+  - Theodemarus
 deathYear: 1206
-born: "Bavaria (in modern Germany)"
-died: "5 March 1206"
-region: "Germany"
+born: Bavaria (in modern Germany)
+died: 5 March 1206
+region: Germany
 feastDay:
   month: 3
   day: 5
@@ -19,6 +19,7 @@ vocation:
   - Bishop
   - Priest
 martyr: false
+prayers: []
 ---
 
 Priest. Bishop of Minden, Germany from c.1185 until his death 20 years later. WIth royal approval, Dietmar had the diocese open silver mines near Dehem and Cruckeberge, both of which are in modern Germany. In 1200, he founded the Marienwerder monastery.

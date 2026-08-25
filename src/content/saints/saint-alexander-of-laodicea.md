@@ -15,6 +15,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/a/ae/LatakiaArco.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Alexander of Laodicea
 imageCreditUrl: https://en.wikipedia.org/wiki/Laodicea%20in%20Syria
+prayers: []
 ---
 
 Martyr.

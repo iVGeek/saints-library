@@ -30,6 +30,7 @@ religiousOrder: Jesuit
 patronage:
   - native traditions
 martyr: true
+prayers: []
 ---
 
 Jesuit, ordained in 1624. Missionary to Paraguay and Brazil. With Saint Rocco Gonzalez and Saint Juan de Castillo, he co-founded the “reduction” of the Assumption on the Ijuhi River. In 1628 they established the All Saints mission in Caaro, Brazil. Killed 15 days into his missionary work. One of the Jesuit Martyrs of Paraguay, the first martyrs in the Americas to be beatified.

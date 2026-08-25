@@ -1,15 +1,20 @@
 ---
-name: "Blessed Lucien Botovasoa"
+name: Blessed Lucien Botovasoa
 honorific: Blessed
-summary: "Eldest of nine children, Lucien was baptized at age 10 in 1918, and made his First Communion at 14 in 1922. From 1922 to 1927, he studied at the Jesuit Saint Joseph College, and became a school teacher, dedicated to both religious and secular education of children; at the end of"
-image: "https://upload.wikimedia.org/wikipedia/commons/2/2b/Lucien_Botovasoa.png"
+summary: >-
+  Eldest of nine children, Lucien was baptized at age 10 in 1918, and made his First Communion at 14 in 1922. From 1922
+  to 1927, he studied at the Jesuit Saint Joseph College, and became a school teacher, dedicated to both religious and
+  secular education of children; at the end of
+image: https://upload.wikimedia.org/wikipedia/commons/2/2b/Lucien_Botovasoa.png
 birthYear: 1908
 deathYear: 1947
-born: "1908 in Vohipeno, Madagascar"
-died: "beheaded with a sword between 10pm and midnight on 14 April 1947 on the banks of the Mattanana River near Ambohimanarivo, Manakara, Madagascar"
-birthPlace: "Madagascar"
-deathPlace: "Manakara, Madagascar"
-region: "Italy"
+born: 1908 in Vohipeno, Madagascar
+died: >-
+  beheaded with a sword between 10pm and midnight on 14 April 1947 on the banks of the Mattanana River near
+  Ambohimanarivo, Manakara, Madagascar
+birthPlace: Madagascar
+deathPlace: Manakara, Madagascar
+region: Italy
 feastDay:
   month: 4
   day: 14
@@ -18,8 +23,9 @@ vocation:
   - Priest
   - Religious
   - Cardinal
-religiousOrder: "Jesuit"
+religiousOrder: Jesuit
 martyr: true
+prayers: []
 ---
 
 Eldest of nine children, Lucien was baptized at age 10 in 1918, and made his First Communion at 14 in 1922. From 1922 to 1927, he studied at the Jesuit Saint Joseph College, and became a school teacher, dedicated to both religious and secular education of children; at the end of each class, he would read about the lives of the saints to the students who wanted to stay and listen. On 10 October 1930, in the diocese of Farafangana, Madagascar, he was married to Suzanna Soazana; they were the parents of five, including the child she was carrying when he died.

@@ -24,6 +24,7 @@ patronage:
   - against marsh fevers
   - Saint-Viâtre, France
 martyr: false
+prayers: []
 ---
 
 Benedictine monk at the Saint-Mesmin Abbey (also known as Micy Abbey) in the early sixth-century near Orleans, France. Friend and brother monk of Saint Avitus. Spiritual student of Saint Maximinus. Feeling the need for solitude, he left the abbey to live as a hermit near Sologne-sur-Loire, France. Highly esteemed by locals for his holiness of life. Ninth-century legend fills in the gaps in his biography with a narrative involving Saints Viator, Avitus and Mesmin, but it appears to be pious fiction. The town of his tomb changed its name to Saint-Viâtre in his honour in 1854.

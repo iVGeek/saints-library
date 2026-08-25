@@ -1,13 +1,15 @@
 ---
-name: "Saint Rudolph of Gubbio"
+name: Saint Rudolph of Gubbio
 honorific: Saint
-summary: "In 1054 he gave his castle at Campo Regio to Saint Peter Damian, and became a Benedictine monk at Fonte Avellana under Saint Peter. Bishop of Gubbio, Italy in 1061. Described as a “miracle of unselfishness”, noted for his charity."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Rudolph-of-Gubbio.jpg"
+summary: >-
+  In 1054 he gave his castle at Campo Regio to Saint Peter Damian, and became a Benedictine monk at Fonte Avellana under
+  Saint Peter. Bishop of Gubbio, Italy in 1061. Described as a “miracle of unselfishness”, noted for his charity.
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Rudolph-of-Gubbio.jpg
 searchAliases:
-  - "Rodolph"
+  - Rodolph
 deathYear: 1066
-died: "c.1066 of natural causes"
-region: "Italy"
+died: c.1066 of natural causes
+region: Italy
 feastDay:
   month: 10
   day: 17
@@ -15,8 +17,9 @@ canonizationStatus: Saint
 vocation:
   - Bishop
   - Monk
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 martyr: false
+prayers: []
 ---
 
 In 1054 he gave his castle at Campo Regio to Saint Peter Damian, and became a Benedictine monk at Fonte Avellana under Saint Peter. Bishop of Gubbio, Italy in 1061. Described as a “miracle of unselfishness”, noted for his charity.

@@ -31,6 +31,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/a/ab/San_Galdino_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Galdinus of Milan
 imageCreditUrl: https://en.wikipedia.org/wiki/Saint%20Galdino
+prayers: []
 ---
 
 Milanese noble. Priest. Chancellor. Archdeacon. Supported the Roman Pope during the schism of 1159. Fled Milan, Italy in 1161 when Frederick Barbarossa besieged the city in support of the anti-pope, yet was still elected bishop. Cardinal in 1165. Archbishop in 1166. Papal legate to Lombardy. Returned to Milan after the war and helped rebuild it. Died in the pulpit immediately following a sermon against heresies.

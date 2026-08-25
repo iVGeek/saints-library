@@ -1,13 +1,15 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Elilantus"
+name: Saint Elilantus
 honorific: Saint
-summary: "Brother of Saint Lantfrid and Saint Waltram. With them he founded the monastery of Benediktbeuren in Bavaria, Germany, and served as its abbot."
+summary: >-
+  Brother of Saint Lantfrid and Saint Waltram. With them he founded the monastery of Benediktbeuren in Bavaria, Germany,
+  and served as its abbot.
 searchAliases:
-  - "Eliland"
+  - Eliland
 deathYear: 770
-died: "c.770"
-region: "Germany"
+died: c.770
+region: Germany
 feastDay:
   month: 7
   day: 10
@@ -15,6 +17,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: false
+prayers: []
 ---
 
 Brother of Saint Lantfrid and Saint Waltram. With them he founded the monastery of Benediktbeuren in Bavaria, Germany, and served as its abbot.

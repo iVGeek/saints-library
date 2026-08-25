@@ -41,6 +41,7 @@ patronage:
   - San Filippo di Pellaro
   - Santo Stefano Medio, Messina
 martyr: false
+prayers: []
 ---
 
 First Christian missionary to Sicily. Exorcist. Many stories grew up around him, all apparently legend.

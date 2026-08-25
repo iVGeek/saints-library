@@ -20,6 +20,7 @@ vocation:
 patronage:
   - Ravenna, Italy
 martyr: false
+prayers: []
 ---
 
 Bishop of Ravenna, Italy from 521 till his death in 532. Built the Basilica of San Vitale. Worked with Pope John I to resist King Theodoric.

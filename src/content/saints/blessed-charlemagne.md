@@ -32,6 +32,7 @@ patronage:
   - University of Paris
   - Aachen, Germany
 martyr: false
+prayers: []
 ---
 
 Born a prince, the eldest son of Bertha and Pepin the Short, Mayor of the Palace under King Childeric III and then King of the Franks in 751. Married, and father of Louis the Pious. King of the Franks in 768. As “Roman Patrician” Charles was obligated to defend the temporal rights of the Holy See, which were first threatened by the Lombards under Desiderius, whom he finally defeated at Pavia, Italy. Defeated the pagan Saxons, to whom he gave the alternative of baptism or death; their leader Wittekind accepted Christianity in 785. The Song of Roland recounts the death of the paladin Roland during Charlemagne's 777 invasion of Moslem Spain. Crowned the first Holy Roman Emperor, sovereign of Christendom in the West, by Pope Leo III on Christmas Day 800.

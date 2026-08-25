@@ -1,23 +1,27 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Juliana Kubitzki"
+name: Blessed Juliana Kubitzki
 honorific: Blessed
-summary: "The fifth of six children born to Wilhelm and Katarzyna née Bieniek, Juliana was baptized at the age of 5 days. She was raised in a pious family; her brother Piotr became a monk. Juliana joined the Sisters of Saint Elizabeth on 15 September 1929, taking the name Sister Maria Edel"
+summary: >-
+  The fifth of six children born to Wilhelm and Katarzyna née Bieniek, Juliana was baptized at the age of 5 days. She
+  was raised in a pious family; her brother Piotr became a monk. Juliana joined the Sisters of Saint Elizabeth on 15
+  September 1929, taking the name Sister Maria Edel
 searchAliases:
-  - "Sister Maria Edelburgis"
+  - Sister Maria Edelburgis
 birthYear: 1905
 deathYear: 1945
-born: "9 February 1905 in Dabrówka Dolna, Pokój, Namyslów, Poland"
-died: "beaten and then shot several times on 20 February 1945 in Zary, Poland"
-birthPlace: "Pokój, Namyslów, Poland"
-deathPlace: "Poland"
-region: "Poland"
+born: 9 February 1905 in Dabrówka Dolna, Pokój, Namyslów, Poland
+died: beaten and then shot several times on 20 February 1945 in Zary, Poland
+birthPlace: Pokój, Namyslów, Poland
+deathPlace: Poland
+region: Poland
 feastDay:
   month: 2
   day: 20
 canonizationStatus: Blessed
 vocation: []
 martyr: true
+prayers: []
 ---
 
 The fifth of six children born to Wilhelm and Katarzyna née Bieniek, Juliana was baptized at the age of 5 days. She was raised in a pious family; her brother Piotr became a monk. Juliana joined the Sisters of Saint Elizabeth on 15 September 1929, taking the name Sister Maria Edelburgis, made her first profession on 28 April 1931, and her perpetual profession on 29 June 1936 in Wroclaw, Poland.

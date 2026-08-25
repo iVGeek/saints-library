@@ -1,19 +1,22 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Cynibild of Laestingaeu"
+name: Saint Cynibild of Laestingaeu
 honorific: Saint
-summary: "Born to the nobility, the brother of Saint Chad and Saint Cedd. Educated at Lindisfarne by Saint Aidan and Saint Finan, and then in Ireland. Priest. Evangelized the Anglo-Saxons in Northumbria. Founded a monastery in Laestingaeu in north Yorkshire (modern Lastingham), England in"
+summary: >-
+  Born to the nobility, the brother of Saint Chad and Saint Cedd. Educated at Lindisfarne by Saint Aidan and Saint
+  Finan, and then in Ireland. Priest. Evangelized the Anglo-Saxons in Northumbria. Founded a monastery in Laestingaeu in
+  north Yorkshire (modern Lastingham), England in
 searchAliases:
-  - "Cynibild of Lastingham"
-  - "Cynebill"
-  - "Cynibil"
+  - Cynibild of Lastingham
+  - Cynebill
+  - Cynibil
 birthYear: 622
 deathYear: 664
-born: "c.622 in Northumbria, England"
-died: "664 in Lastingham, England of plague"
-birthPlace: "England"
-deathPlace: "Englandplague"
-region: "Ireland"
+born: c.622 in Northumbria, England
+died: 664 in Lastingham, England of plague
+birthPlace: England
+deathPlace: Englandplague
+region: Ireland
 feastDay:
   month: 3
   day: 2
@@ -22,6 +25,7 @@ vocation:
   - Priest
   - Monk
 martyr: false
+prayers: []
 ---
 
 Born to the nobility, the brother of Saint Chad and Saint Cedd. Educated at Lindisfarne by Saint Aidan and Saint Finan, and then in Ireland. Priest. Evangelized the Anglo-Saxons in Northumbria. Founded a monastery in Laestingaeu in north Yorkshire (modern Lastingham), England in 658, and became a monk there.

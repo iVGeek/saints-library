@@ -1,15 +1,15 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Thurketyl"
+name: Saint Thurketyl
 honorific: Saint
-summary: "Restored Croyland Abbey, a house that had been destroyed by pagan Danes. Abbot of the monastery at Bedford, England."
+summary: Restored Croyland Abbey, a house that had been destroyed by pagan Danes. Abbot of the monastery at Bedford, England.
 searchAliases:
-  - "Turketil"
+  - Turketil
 birthYear: 887
 deathYear: 975
-born: "887"
-died: "975"
-region: "England"
+born: '887'
+died: '975'
+region: England
 feastDay:
   month: 7
   day: 11
@@ -17,6 +17,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: false
+prayers: []
 ---
 
 Restored Croyland Abbey, a house that had been destroyed by pagan Danes. Abbot of the monastery at Bedford, England.

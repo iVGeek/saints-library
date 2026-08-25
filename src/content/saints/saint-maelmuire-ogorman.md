@@ -1,14 +1,14 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Maelmuire O'Gorman"
+name: Saint Maelmuire O'Gorman
 honorific: Saint
-summary: "Abbot of Knock, Louth, Ireland. Noted as a poet."
+summary: Abbot of Knock, Louth, Ireland. Noted as a poet.
 searchAliases:
-  - "Marianus O'Gorman"
+  - Marianus O'Gorman
 deathYear: 1167
-born: "Irish"
-died: "some time after 1167 of natural causes"
-region: "Ireland"
+born: Irish
+died: some time after 1167 of natural causes
+region: Ireland
 feastDay:
   month: 7
   day: 3
@@ -16,6 +16,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: false
+prayers: []
 ---
 
 Abbot of Knock, Louth, Ireland. Noted as a poet.

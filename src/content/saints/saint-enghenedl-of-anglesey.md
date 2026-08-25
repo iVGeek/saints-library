@@ -1,9 +1,9 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Enghenedl of Anglesey"
+name: Saint Enghenedl of Anglesey
 honorific: Saint
-summary: "Lived in the 7th-century. A church in Anglesey, Wales was dedicated to him. No other information has survived."
-region: "England"
+summary: Lived in the 7th-century. A church in Anglesey, Wales was dedicated to him. No other information has survived.
+region: England
 feastDay:
   month: 9
   day: 30
@@ -11,6 +11,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: false
+prayers: []
 ---
 
 Lived in the 7th-century. A church in Anglesey, Wales was dedicated to him. No other information has survived.

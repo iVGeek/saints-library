@@ -1,25 +1,29 @@
 ---
 image: /placeholder-saint.svg
-name: "Venerable Alonso de Bárcena"
+name: Venerable Alonso de Bárcena
 honorific: Venerable
-summary: "Entered the Jesuits in 1565. Studied in Paris, France. Missionary to Peru in 1577. He spoke eleven Indian languages, and composed grammars and catechisms in most of them."
+summary: >-
+  Entered the Jesuits in 1565. Studied in Paris, France. Missionary to Peru in 1577. He spoke eleven Indian languages,
+  and composed grammars and catechisms in most of them.
 searchAliases:
-  - "Apostle of Peru"
-  - "Alonzo de Bárcena"
+  - Apostle of Peru
+  - Alonzo de Bárcena
 birthYear: 1528
-born: "1528 in Baeza, Andalusia, Spain"
-birthPlace: "Andalusia, Spain"
-region: "Peru"
+born: 1528 in Baeza, Andalusia, Spain
+birthPlace: Andalusia, Spain
+region: Peru
 feastDay:
   month: 1
   day: 1
-centuries: [16]
+centuries:
+  - 16
 canonizationStatus: Venerable
 vocation:
   - Priest
   - Missionary
-religiousOrder: "Jesuit"
+religiousOrder: Jesuit
 martyr: false
+prayers: []
 ---
 
 Entered the Jesuits in 1565. Studied in Paris, France. Missionary to Peru in 1577. He spoke eleven Indian languages, and composed grammars and catechisms in most of them.

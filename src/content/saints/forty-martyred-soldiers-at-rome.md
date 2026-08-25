@@ -28,6 +28,7 @@ imageCredit: >-
   <ul><li>IA digitizing sponsor: Boston Library Consortium Member Libraries</li></ul>
 imageCreditUrl: >-
   https://commons.wikimedia.org/wiki/File:The%20forty%20martyrs%20of%20Sebaste%20-%20a%20dramatic%20sketch%20(IA%20fortymartyrsofse00ande).pdf
+prayers: []
 ---
 
 Forty soldiers martyred in the persecutions of Gallienus.

@@ -1,15 +1,15 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Gondulphus of Metz"
+name: Saint Gondulphus of Metz
 honorific: Saint
-summary: "Priest. Bishop of Metz, France, December 816."
+summary: Priest. Bishop of Metz, France, December 816.
 searchAliases:
-  - "Gundulfus"
-  - "Gondulf"
-  - "Gondon"
+  - Gundulfus
+  - Gondulf
+  - Gondon
 deathYear: 823
-died: "6 September 823 of natural causes"
-region: "France"
+died: 6 September 823 of natural causes
+region: France
 feastDay:
   month: 9
   day: 6
@@ -19,6 +19,7 @@ vocation:
   - Priest
   - Monk
 martyr: false
+prayers: []
 ---
 
 Priest. Bishop of Metz, France, December 816.

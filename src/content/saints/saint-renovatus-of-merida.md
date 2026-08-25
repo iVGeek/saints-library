@@ -1,11 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Renovatus of Merida"
+name: Saint Renovatus of Merida
 honorific: Saint
-summary: "Arian heretic who converted to orthodox Christianity. Monk and then abbot of Cauliana monastery in Lusitania (in modern Portugal). Bishop of Merida, Spain for 22 years."
+summary: >-
+  Arian heretic who converted to orthodox Christianity. Monk and then abbot of Cauliana monastery in Lusitania (in
+  modern Portugal). Bishop of Merida, Spain for 22 years.
 deathYear: 633
-died: "c.633"
-region: "Portugal"
+died: c.633
+region: Portugal
 feastDay:
   month: 3
   day: 31
@@ -14,6 +16,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Arian heretic who converted to orthodox Christianity. Monk and then abbot of Cauliana monastery in Lusitania (in modern Portugal). Bishop of Merida, Spain for 22 years.

@@ -18,6 +18,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/9/9d/Carlo_Crivelli_041.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Adauctus
 imageCreditUrl: https://en.wikipedia.org/wiki/Saint%20Ursula
+prayers: []
 ---
 
 Layman. Father of Saint Callisthene. Martyred in the persecutions of Emperor Maximinus.

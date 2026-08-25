@@ -17,6 +17,7 @@ vocation:
   - Priest
   - Religious
 martyr: false
+prayers: []
 ---
 
 Born to the wealthy 8th century nobility, Adalbert was the Count of Ostrevant in the region of modern northern France along the border with Belgium, and served in the Frankish royal court. Married to Blessed Reine of Denain, and the father of ten daughters, including Blessed Ragenfreda. Adalberto was known for his piety and charity, and helped found the Denain Abbey where his daughter was abbess and his widow became a nun.

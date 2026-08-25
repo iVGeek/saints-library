@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Andrew of Elnone"
+name: Saint Andrew of Elnone
 honorific: Saint
-summary: "Monk. Spiritual student of Saint Amandus of Maastricht at Elnone-en-Pevele, France. Abbot there."
+summary: Monk. Spiritual student of Saint Amandus of Maastricht at Elnone-en-Pevele, France. Abbot there.
 deathYear: 690
-died: "c.690"
-region: "France"
+died: c.690
+region: France
 feastDay:
   month: 2
   day: 6
@@ -13,6 +13,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: false
+prayers: []
 ---
 
 Monk. Spiritual student of Saint Amandus of Maastricht at Elnone-en-Pevele, France. Abbot there.

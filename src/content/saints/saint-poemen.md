@@ -22,6 +22,7 @@ vocation:
   - Monk
   - Hermit
 martyr: false
+prayers: []
 ---
 
 Leader of a group of hermits in the desert of Skete in Egypt, living in the abandoned ruins of a pagan temple at Terenuth. Noted for his strong discipline, permitting himself and his brothers four hours of sleep a day, spending the rest of the time in chores, prayers or study. One of the very few survivors of barbarian raids in 407. Urged frequent Communion for all; had a way with words and was known for his wise sayings.

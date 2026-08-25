@@ -1,16 +1,18 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Ceratius of Grenoble"
+name: Saint Ceratius of Grenoble
 honorific: Saint
-title: "Bishop"
-summary: "Bishop of Grenoble, France c.440. Attended the Council of Orange in 441. Several stories and conjectures, many conflicting, have become attached to Saint Ceratius, but we have no evidence to support them."
+title: Bishop
+summary: >-
+  Bishop of Grenoble, France c.440. Attended the Council of Orange in 441. Several stories and conjectures, many
+  conflicting, have become attached to Saint Ceratius, but we have no evidence to support them.
 searchAliases:
-  - "Cerato"
-  - "Cerazio"
+  - Cerato
+  - Cerazio
 birthYear: 400
-born: "c.400"
-died: "5th century of natural causes"
-region: "France"
+born: c.400
+died: 5th century of natural causes
+region: France
 feastDay:
   month: 6
   day: 6
@@ -18,6 +20,7 @@ canonizationStatus: Saint
 vocation:
   - Bishop
 martyr: false
+prayers: []
 ---
 
 Bishop of Grenoble, France c.440. Attended the Council of Orange in 441. Several stories and conjectures, many conflicting, have become attached to Saint Ceratius, but we have no evidence to support them.

@@ -23,6 +23,7 @@ vocation:
   - Priest
   - Monk
 martyr: false
+prayers: []
 ---
 
 Pope during a period of relative peace with no official persecutions of the early Church, but was forced to deal with with a series of heretic sects and preachers regularly popping up.

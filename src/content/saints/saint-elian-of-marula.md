@@ -1,12 +1,12 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Elian of Marula"
+name: Saint Elian of Marula
 honorific: Saint
-summary: "Martyr."
+summary: Martyr.
 searchAliases:
-  - "Elianus"
-died: "Massylis (Marula), Numidia (in modern Algeria)"
-deathPlace: "Numidia (modern Algeria)"
+  - Elianus
+died: Massylis (Marula), Numidia (in modern Algeria)
+deathPlace: Numidia (modern Algeria)
 feastDay:
   month: 7
   day: 22
@@ -14,6 +14,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Martyr.

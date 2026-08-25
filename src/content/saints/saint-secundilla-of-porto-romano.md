@@ -1,9 +1,9 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Secundilla of Porto Romano"
+name: Saint Secundilla of Porto Romano
 honorific: Saint
-summary: "One of a group of Christians martyred in the persecution of Diocletian. No other information survives."
-region: "Italy"
+summary: One of a group of Christians martyred in the persecution of Diocletian. No other information survives.
+region: Italy
 feastDay:
   month: 3
   day: 2
@@ -11,6 +11,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 One of a group of Christians martyred in the persecution of Diocletian. No other information survives.

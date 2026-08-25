@@ -24,6 +24,7 @@ patronage:
   - Ceneda, Italy
   - Serravalle, Italy
 martyr: false
+prayers: []
 ---
 
 Fifth century daughter of the Teutonic duke of Friuli. Convert to Christianity. Killed by her father with his own hands for her faith.

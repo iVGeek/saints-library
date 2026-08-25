@@ -19,6 +19,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/8/8a/Saint_Cybard.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Aptonius of Angouleme
 imageCreditUrl: https://en.wikipedia.org/wiki/Saint%20Cybard
+prayers: []
 ---
 
 Bishop of Angouleme, Aquitaine (in modern France) in 541. Attended the Fifth Council of Orleans in 549.

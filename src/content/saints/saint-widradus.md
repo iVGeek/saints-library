@@ -1,21 +1,24 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Widradus"
+name: Saint Widradus
 honorific: Saint
-summary: "Benedictine monk, Restored the monastery of Flavigny near Dijon, France when he served as its abbot. Founded the monastery of Saulieu, France."
+summary: >-
+  Benedictine monk, Restored the monastery of Flavigny near Dijon, France when he served as its abbot. Founded the
+  monastery of Saulieu, France.
 searchAliases:
-  - "Waré"
+  - Waré
 deathYear: 747
-died: "747 of natural causes"
-region: "France"
+died: 747 of natural causes
+region: France
 feastDay:
   month: 10
   day: 3
 canonizationStatus: Saint
 vocation:
   - Monk
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 martyr: false
+prayers: []
 ---
 
 Benedictine monk, Restored the monastery of Flavigny near Dijon, France when he served as its abbot. Founded the monastery of Saulieu, France.

@@ -1,24 +1,30 @@
 ---
-name: "Venerable Manuel Nunes Formigão"
+name: Venerable Manuel Nunes Formigão
 honorific: Venerable
-summary: "Baptised at the age of seven weeks. Feeling an early call to the priesthood, he entered the minor seminary in Farrobo, Portugal in 1895 at the age of 12. Joined the Archconfraternity of the Imaculado Coração de Maria on 6 June 1896. Began studying theology at the major seminary i"
-image: "https://upload.wikimedia.org/wikipedia/commons/e/ea/Manuel_Nunes_Formig%C3%A3o.png"
+summary: >-
+  Baptised at the age of seven weeks. Feeling an early call to the priesthood, he entered the minor seminary in Farrobo,
+  Portugal in 1895 at the age of 12. Joined the Archconfraternity of the Imaculado Coração de Maria on 6 June 1896.
+  Began studying theology at the major seminary i
+image: https://upload.wikimedia.org/wikipedia/commons/e/ea/Manuel_Nunes_Formig%C3%A3o.png
 birthYear: 1883
 deathYear: 1958
-born: "1 January 1883 in Tomar, Coimbra, Portugal"
-died: "30 January 1958 in Fátima, Coimbra, Portugal of natural causes"
-birthPlace: "Coimbra, Portugal"
-deathPlace: "Coimbra, Portugalnatural causes"
-region: "Portugal"
+born: 1 January 1883 in Tomar, Coimbra, Portugal
+died: 30 January 1958 in Fátima, Coimbra, Portugal of natural causes
+birthPlace: Coimbra, Portugal
+deathPlace: Coimbra, Portugalnatural causes
+region: Portugal
 feastDay:
   month: 6
   day: 6
-centuries: [19, 20]
+centuries:
+  - 19
+  - 20
 canonizationStatus: Venerable
 vocation:
   - Priest
   - Religious
 martyr: false
+prayers: []
 ---
 
 Baptised at the age of seven weeks. Feeling an early call to the priesthood, he entered the minor seminary in Farrobo, Portugal in 1895 at the age of 12. Joined the Archconfraternity of the Imaculado Coração de Maria on 6 June 1896. Began studying theology at the major seminary in Santarém, Portugal in 1900, and earned a doctorate in canon law from the Gregorian University in Rome, Italy on 13 July 1906 at the age of 23. Ordained in Rome as a priest for the diocese of Leiria-Fátima, Portugal on 4 April 1908. He received his doctorate in theology in 1909, and began teaching at the Santarém seminary.

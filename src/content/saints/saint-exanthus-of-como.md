@@ -18,6 +18,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/e/e9/S_Fedele_Verscio_120115.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Exanthus of Como
 imageCreditUrl: https://en.wikipedia.org/wiki/Fidelis%20of%20Como
+prayers: []
 ---
 
 Christian soldier in the imperial Roman army. Martyred in the persecutions of Maximian.

@@ -1,14 +1,16 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Ambrose Autpertus"
+name: Saint Ambrose Autpertus
 honorific: Saint
-summary: "While in Italy as a diplomatic envoy, he visited the monastery of Saint Vincent near Benevento. There he answered a call to religious life and became a monk, and later served as its abbot."
+summary: >-
+  While in Italy as a diplomatic envoy, he visited the monastery of Saint Vincent near Benevento. There he answered a
+  call to religious life and became a monk, and later served as its abbot.
 searchAliases:
-  - "Ambrose Aut-pert"
+  - Ambrose Aut-pert
 deathYear: 778
-born: "France"
-died: "c.778"
-region: "Italy"
+born: France
+died: c.778
+region: Italy
 feastDay:
   month: 7
   day: 19
@@ -16,6 +18,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: false
+prayers: []
 ---
 
 While in Italy as a diplomatic envoy, he visited the monastery of Saint Vincent near Benevento. There he answered a call to religious life and became a monk, and later served as its abbot.

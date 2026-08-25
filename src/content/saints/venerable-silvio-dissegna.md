@@ -21,6 +21,7 @@ centuries:
 canonizationStatus: Venerable
 vocation: []
 martyr: false
+prayers: []
 ---
 
 Child in the archdiocese of Turin, Italy. He developed bone cancer in early 1978 and spent his illness in prayer, devoted to the Rosary, and offering his sufferings up for the Pope, missionaries, the conversion of sinners and other intentions.

@@ -30,6 +30,7 @@ imageCredit: >-
   class="description en" lang="en" dir="ltr">Internet Archive identifier</bdi>: laltaredisantiac00bean</a>
 imageCreditUrl: >-
   https://commons.wikimedia.org/wiki/File:Beani%20-%20L'altare%20di%20Sant'Iacopo%20Apostolo%20nella%20cattedrale%20di%20Pistoia.djvu
+prayers: []
 ---
 
 Member of the French nobility and a courtier to King Theirry II. Married and a father. Retired to become a monk at Lonrey, France. After receiving a vision, he moved to become a hermit near Pistoia, Italy. Friend of Saint Desiderius of Pistoia.

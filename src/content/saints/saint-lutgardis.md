@@ -1,28 +1,33 @@
 ---
-name: "Saint Lutgardis"
+name: Saint Lutgardis
 honorific: Saint
-summary: "A pretty girl with a fondness for clothes and no apparent religious vocation, Lutgardis was sent to the Black Benedictine convent near Saint Trond at age 12 because her dowry had been lost in a failed business venture, and there was thus little chance for a life as a normal, marr"
-image: "https://upload.wikimedia.org/wikipedia/commons/6/6b/Santa_Lutgarda-Goya.JPG"
+summary: >-
+  A pretty girl with a fondness for clothes and no apparent religious vocation, Lutgardis was sent to the Black
+  Benedictine convent near Saint Trond at age 12 because her dowry had been lost in a failed business venture, and there
+  was thus little chance for a life as a normal, marr
+image: https://upload.wikimedia.org/wikipedia/commons/6/6b/Santa_Lutgarda-Goya.JPG
 searchAliases:
-  - "Lutgardis of the Sacred Heart"
-  - "Lutgardis of Aywieres"
-  - "Lutgardis of Tongeren"
-  - "Lutgardis of Tongres"
-  - "Ludgard…"
-  - "Ludgardis…"
-  - "Luitgard…"
-  - "Lutgard…"
-  - "Lutgarde…"
-  - "Lutgart…"
-  - "Luthgard…"
-  - "Lutgarda…"
+  - Lutgardis of the Sacred Heart
+  - Lutgardis of Aywieres
+  - Lutgardis of Tongeren
+  - Lutgardis of Tongres
+  - Ludgard…
+  - Ludgardis…
+  - Luitgard…
+  - Lutgard…
+  - Lutgarde…
+  - Lutgart…
+  - Luthgard…
+  - Lutgarda…
 birthYear: 1182
 deathYear: 1246
-born: "1182 at Tongres, Limburg, Belgium"
-died: "16 June 1246 at Aywieres (modern Awirs), Belgium of natural causes, just as night office began on the Saturday night following Feast of the Holy Trinity"
-birthPlace: "Limburg, Belgium"
-deathPlace: "Belgiumnatural causes, just as night office began on the Saturday night following Feast of the Holy Trinity"
-region: "Belgium"
+born: 1182 at Tongres, Limburg, Belgium
+died: >-
+  16 June 1246 at Aywieres (modern Awirs), Belgium of natural causes, just as night office began on the Saturday night
+  following Feast of the Holy Trinity
+birthPlace: Limburg, Belgium
+deathPlace: Belgiumnatural causes, just as night office began on the Saturday night following Feast of the Holy Trinity
+region: Belgium
 feastDay:
   month: 6
   day: 16
@@ -32,21 +37,25 @@ vocation:
   - Priest
   - Monk
   - Religious
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 patronage:
-  - "birth"
-  - "blind people"
-  - "blindness"
-  - "childbirth"
-  - "disabled people"
-  - "handicapped people"
-  - "physically challenged people"
-  - "–"
-  - "Belgium"
-  - "–"
-  - "in Belgium\n\nFlanders"
-  - "Tongeren"
+  - birth
+  - blind people
+  - blindness
+  - childbirth
+  - disabled people
+  - handicapped people
+  - physically challenged people
+  - –
+  - Belgium
+  - –
+  - |-
+    in Belgium
+
+    Flanders
+  - Tongeren
 martyr: false
+prayers: []
 ---
 
 A pretty girl with a fondness for clothes and no apparent religious vocation, Lutgardis was sent to the Black Benedictine convent near Saint Trond at age 12 because her dowry had been lost in a failed business venture, and there was thus little chance for a life as a normal, married lay woman. In her late teens Lutgardis received a vision of Christ showing her His wounds, and in 1194 at age 20 she became a Benedictine nun with a true vocation. She had visions of Christ while in prayer, experienced ecstacies, levitated, and dripped blood from forehead and hair when enraptured by the Passion. Chosen as prioress of her community in 1205, she repeatedly refused to be abbess.

@@ -32,6 +32,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/5/5e/StEtchen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Etchen of Clonfad
 imageCreditUrl: https://en.wikipedia.org/wiki/Saint%20Etchen
+prayers: []
 ---
 
 Monk. Founded a monastery in Clonfad, Leinster, Ireland, and served as its abbot. Bishop, based at the monastery. Ordained Saint Columba of Iona; legend says that Columba was so eager to start his vocation that Etchen had to stop in the middle of plowing a field to perform the ordination.

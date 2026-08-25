@@ -1,11 +1,11 @@
 ---
-name: "Saint Landrada of Bilsen"
+name: Saint Landrada of Bilsen
 honorific: Saint
-summary: "Founded the convent of Munsterbilsen, Belgium and served as its first abbess."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Landrada.jpg"
+summary: Founded the convent of Munsterbilsen, Belgium and served as its first abbess.
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Landrada.jpg
 deathYear: 690
-died: "c.690 in Belgium of natural causes"
-region: "Belgium"
+died: c.690 in Belgium of natural causes
+region: Belgium
 feastDay:
   month: 7
   day: 8
@@ -14,6 +14,7 @@ vocation:
   - Monk
   - Religious
 martyr: false
+prayers: []
 ---
 
 Founded the convent of Munsterbilsen, Belgium and served as its first abbess.

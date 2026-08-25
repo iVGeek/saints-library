@@ -18,6 +18,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/1/1e/Remiremont_StPierre.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Adelphus of Remiremont
 imageCreditUrl: https://en.wikipedia.org/wiki/Remiremont%20Abbey
+prayers: []
 ---
 
 Grandson of Saint Romaricus. Monk and then abbot of Remiremont Abbey in eastern France.

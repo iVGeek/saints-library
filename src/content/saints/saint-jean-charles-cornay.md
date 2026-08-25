@@ -29,6 +29,7 @@ vocation:
   - Priest
   - Missionary
 martyr: true
+prayers: []
 ---
 
 Priest. Member of the Paris Society of Foreign Missions. Missionary to Vietnam, working in Annam. Accused of theft after weapons were planted on his land to discredit him, he was actually arrested for his faith at Ban-ho. He was kept in chains in a cage for three months, routinely beaten, and when interrogated was told to sing his answers as he was known for his beautiful voice. One of the Martyrs of Vietnam.

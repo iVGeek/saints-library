@@ -1,17 +1,19 @@
 ---
-name: "Saint Eanswith of Folkestone"
+name: Saint Eanswith of Folkestone
 honorific: Saint
-summary: "Born to the nobility, grand-daughter of King Ethelbert of Kent. On the coast near Folkestone, she founded the first convent in England; it was later destroyed by invading Danes."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Eanswith.jpg"
+summary: >-
+  Born to the nobility, grand-daughter of King Ethelbert of Kent. On the coast near Folkestone, she founded the first
+  convent in England; it was later destroyed by invading Danes.
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Eanswith.jpg
 searchAliases:
-  - "Eanswida"
-  - "Eanswide"
-  - "Eanswitha"
-  - "Eanswyth"
-  - "Eanswythe"
+  - Eanswida
+  - Eanswide
+  - Eanswitha
+  - Eanswyth
+  - Eanswythe
 deathYear: 640
-died: "c.640"
-region: "England"
+died: c.640
+region: England
 feastDay:
   month: 9
   day: 12
@@ -22,8 +24,9 @@ vocation:
   - Monk
   - Religious
 patronage:
-  - "Folkestone, England"
+  - Folkestone, England
 martyr: false
+prayers: []
 ---
 
 Born to the nobility, grand-daughter of King Ethelbert of Kent. On the coast near Folkestone, she founded the first convent in England; it was later destroyed by invading Danes.

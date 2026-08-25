@@ -22,6 +22,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/e/ee/Saint_Oswald_Durham_Cathedral.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Cadfan
 imageCreditUrl: https://en.wikipedia.org/wiki/Oswald%20of%20Northumbria
+prayers: []
 ---
 
 Sixth-century monk. Spiritual teacher of Sadwen of Wales. Emigrated from Brittany to Wales where he founded several monasteries. First abbot of Bardsey Abbey in Wales. Llangadfan, Montgomeryshire, Wales is named in his honour.

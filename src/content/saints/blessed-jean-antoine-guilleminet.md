@@ -1,23 +1,24 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Jean-Antoine Guilleminet"
+name: Blessed Jean-Antoine Guilleminet
 honorific: Blessed
-summary: "Priest of the archdiocese of Paris, France. One of the Martyrs of September."
+summary: Priest of the archdiocese of Paris, France. One of the Martyrs of September.
 birthYear: 1738
 deathYear: 1792
-born: "4 January 1738 in Bédarieux, Hérault, France"
-died: "martyred on 2 September 1792 at the Hôtel des Carmes, Paris, France"
-birthPlace: "Hérault, France"
-deathPlace: "Paris, France"
-region: "France"
+born: 4 January 1738 in Bédarieux, Hérault, France
+died: martyred on 2 September 1792 at the Hôtel des Carmes, Paris, France
+birthPlace: Hérault, France
+deathPlace: Paris, France
+region: France
 feastDay:
   month: 9
   day: 2
 canonizationStatus: Blessed
 vocation:
   - Priest
-religiousOrder: "Carmelite"
+religiousOrder: Carmelite
 martyr: true
+prayers: []
 ---
 
 Priest of the archdiocese of Paris, France. One of the Martyrs of September.

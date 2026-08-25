@@ -39,6 +39,7 @@ patronage:
   - –
   - Crotone, Italy
 martyr: true
+prayers: []
 ---
 
 Missionary to Paris, France. First Bishop of Paris. His success roused the ire of local pagans, and he was imprisoned by Roman governor. Martyred in the persecutions of Valerius with Saint Rusticus and Saint Eleutherius. Legends have grown up around his torture and death, including one that has his body carrying his severed head some distance from his execution site. Saint Genevieve built a basilica over his grave. His feast was added to the Roman Calendar in 1568 by Pope Saint Pius V, though it had been celebrated since 800. One of the Fourteen Holy Helpers.

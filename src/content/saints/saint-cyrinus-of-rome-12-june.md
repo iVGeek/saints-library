@@ -1,14 +1,14 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Cyrinus of Rome"
+name: Saint Cyrinus of Rome
 honorific: Saint
-summary: "Born to the Imperial Roman nobility. Soldier, and possibly an officer. Martyred in the persecutions of Diocletian."
+summary: Born to the Imperial Roman nobility. Soldier, and possibly an officer. Martyred in the persecutions of Diocletian.
 searchAliases:
-  - "Quirinus"
+  - Quirinus
 deathYear: 304
-died: "304 outside Rome, Italy"
-deathPlace: "Italy"
-region: "Italy"
+died: 304 outside Rome, Italy
+deathPlace: Italy
+region: Italy
 feastDay:
   month: 6
   day: 12
@@ -18,6 +18,7 @@ vocation:
   - Monk
   - Soldier
 martyr: true
+prayers: []
 ---
 
 Born to the Imperial Roman nobility. Soldier, and possibly an officer. Martyred in the persecutions of Diocletian.

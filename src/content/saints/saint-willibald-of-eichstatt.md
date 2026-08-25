@@ -1,16 +1,19 @@
 ---
-name: "Saint Willibald of Eichstätt"
+name: Saint Willibald of Eichstätt
 honorific: Saint
-summary: "Born a prince, the son of Saint Richard the King. Brother of Saint Winnebald of Heidenheim and Saint Walburga. Related to Saint Boniface. He nearly died as an infant, leading his parents to pray for his life, vowing that he would be dedicated to God if he survived. Entered the Ab"
-image: "http://catholicsaints.info/wp-content/uploads/img-Willibald-Eichstaett.jpg"
+summary: >-
+  Born a prince, the son of Saint Richard the King. Brother of Saint Winnebald of Heidenheim and Saint Walburga. Related
+  to Saint Boniface. He nearly died as an infant, leading his parents to pray for his life, vowing that he would be
+  dedicated to God if he survived. Entered the Ab
+image: http://catholicsaints.info/wp-content/uploads/img-Willibald-Eichstaett.jpg
 searchAliases:
-  - "Willebald"
+  - Willebald
 birthYear: 700
 deathYear: 781
-born: "21 October 700 in Wessex, England"
-died: "7 July 781 of natural causes"
-birthPlace: "England"
-region: "Germany"
+born: 21 October 700 in Wessex, England
+died: 7 July 781 of natural causes
+birthPlace: England
+region: Germany
 feastDay:
   month: 7
   day: 7
@@ -20,11 +23,15 @@ vocation:
   - Priest
   - Missionary
   - Confessor
-religiousOrder: "Jesuit"
+religiousOrder: Jesuit
 patronage:
-  - "in England\n\nBishop's Waltham"
-  - "Wimborne"
+  - |-
+    in England
+
+    Bishop's Waltham
+  - Wimborne
 martyr: false
+prayers: []
 ---
 
 Born a prince, the son of Saint Richard the King. Brother of Saint Winnebald of Heidenheim and Saint Walburga. Related to Saint Boniface. He nearly died as an infant, leading his parents to pray for his life, vowing that he would be dedicated to God if he survived. Entered the Abbey of Waltham, Hampshire, England at age five. Educated by Egwald. Benedictine monk. Pilgrim to Rome, Italy in 722 with Saint Richard and Saint Winnebald; his father died on the way, and Willibald suffered from malaria while there.

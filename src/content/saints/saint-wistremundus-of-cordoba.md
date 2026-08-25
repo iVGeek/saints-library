@@ -1,16 +1,18 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Wistremundus of Cordoba"
+name: Saint Wistremundus of Cordoba
 honorific: Saint
-summary: "Monk at the monastery of Saint Zoilus in Moorish-occupied Cordoba, Spain. Martyred in the persecutions of Abderrahman for denouncing Mohammed."
+summary: >-
+  Monk at the monastery of Saint Zoilus in Moorish-occupied Cordoba, Spain. Martyred in the persecutions of Abderrahman
+  for denouncing Mohammed.
 searchAliases:
-  - "Wistremundo"
+  - Wistremundo
 deathYear: 851
-born: "Froniano, Spain"
-died: "beheaded on 7 June 851 at Cordoba, Spain"
-birthPlace: "Spain"
-deathPlace: "Spain"
-region: "Spain"
+born: Froniano, Spain
+died: beheaded on 7 June 851 at Cordoba, Spain
+birthPlace: Spain
+deathPlace: Spain
+region: Spain
 feastDay:
   month: 6
   day: 7
@@ -18,6 +20,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Monk at the monastery of Saint Zoilus in Moorish-occupied Cordoba, Spain. Martyred in the persecutions of Abderrahman for denouncing Mohammed.

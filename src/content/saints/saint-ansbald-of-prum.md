@@ -16,6 +16,7 @@ image: https://commons.wikimedia.org/wiki/Special:FilePath/Sankt-Salvator-Basili
 vocation:
   - Monk
 martyr: false
+prayers: []
 ---
 
 Monk at Prüm Abbey near Trier, Germany. Abbot of Saint-Hubert in the Ardennes. Abbot of Prüm Abbey in 860. Prüm was burned by Vikings in 882, but Ansbald managed to re-build.

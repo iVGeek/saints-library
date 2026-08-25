@@ -24,6 +24,7 @@ patronage:
   - –
   - Arnoldsweiler, Germany
 martyr: false
+prayers: []
 ---
 
 Harpist and singer at the court of Blessed Charlemagne. Pilgrim to Santiago de Compostela in Spain.

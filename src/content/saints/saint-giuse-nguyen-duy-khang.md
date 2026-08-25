@@ -1,26 +1,30 @@
 ---
-name: "Saint Giuse Nguyen Duy Khang"
+name: Saint Giuse Nguyen Duy Khang
 honorific: Venerable
-summary: "Dominican tertiary. Catechist. Servant to Saint Jerome Hermosilla. Tried to help Saint Jerome escape from prison. Captured, he was lashed, tortured, and martyred in the persecutions of Tu-Duc."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Giuse-Nguyen-Duy-Khang.jpg"
+summary: >-
+  Dominican tertiary. Catechist. Servant to Saint Jerome Hermosilla. Tried to help Saint Jerome escape from prison.
+  Captured, he was lashed, tortured, and martyred in the persecutions of Tu-Duc.
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Giuse-Nguyen-Duy-Khang.jpg
 searchAliases:
-  - "Joseph Kang"
-  - "Joseph Khang"
+  - Joseph Kang
+  - Joseph Khang
 birthYear: 1832
 deathYear: 1861
-born: "c.1832 at Tra-Vinh, Nam-Dinh province, Vietnam"
-died: "beheaded on 6 December 1861 at Hai Duong, Vietnam"
-birthPlace: "Nam-Dinh province, Vietnam"
-deathPlace: "Vietnam"
-region: "Italy"
+born: c.1832 at Tra-Vinh, Nam-Dinh province, Vietnam
+died: beheaded on 6 December 1861 at Hai Duong, Vietnam
+birthPlace: Nam-Dinh province, Vietnam
+deathPlace: Vietnam
+region: Italy
 feastDay:
   month: 12
   day: 6
-centuries: [19]
+centuries:
+  - 19
 canonizationStatus: Venerable
 vocation: []
-religiousOrder: "Dominican"
+religiousOrder: Dominican
 martyr: true
+prayers: []
 ---
 
 Dominican tertiary. Catechist. Servant to Saint Jerome Hermosilla. Tried to help Saint Jerome escape from prison. Captured, he was lashed, tortured, and martyred in the persecutions of Tu-Duc.

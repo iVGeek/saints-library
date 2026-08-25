@@ -18,6 +18,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/2/23/Angoulememosaique.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Ausonius of Angoulême
 imageCreditUrl: https://en.wikipedia.org/wiki/Angoul%C3%AAme
+prayers: []
 ---
 
 Third century spiritual student of Saint Martial of Limoges. First Bishop of Angoulême, France.

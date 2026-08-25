@@ -84,6 +84,7 @@ patronage:
   - Verona, diocese of
   - Zugliano
 martyr: true
+prayers: []
 ---
 
 Bishop of Verona, Italy from 362 until his death. Noted preacher. Opposed Arianism and welcomed many refugees from North Africa who were fleeing persecution by Arians. Many of his written sermons have survived to today. Legend says he was stolen at birth and briefly replaced by a demonic changling. Possibly martyred in the persecutions of Gallienus.

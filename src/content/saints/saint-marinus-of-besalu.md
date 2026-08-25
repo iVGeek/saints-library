@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Marinus of Besalu"
+name: Saint Marinus of Besalu
 honorific: Saint
-summary: "Bishop at the monastery of Saint Peter in Besalu, Catalonia, Spain."
+summary: Bishop at the monastery of Saint Peter in Besalu, Catalonia, Spain.
 deathYear: 800
-died: "c.800"
-region: "Spain"
+died: c.800
+region: Spain
 feastDay:
   month: 8
   day: 19
@@ -14,6 +14,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Bishop at the monastery of Saint Peter in Besalu, Catalonia, Spain.

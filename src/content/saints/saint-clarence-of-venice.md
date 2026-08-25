@@ -1,9 +1,9 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Clarence of Venice"
+name: Saint Clarence of Venice
 honorific: Saint
-summary: "Bishop of Venice, Italy."
-region: "Italy"
+summary: Bishop of Venice, Italy.
+region: Italy
 feastDay:
   month: 4
   day: 26
@@ -12,6 +12,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Bishop of Venice, Italy.

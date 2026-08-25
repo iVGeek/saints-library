@@ -16,6 +16,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/1/19/Hans_Memling_026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Aria of Rome
 imageCreditUrl: https://en.wikipedia.org/wiki/Saint%20Veronica
+prayers: []
 ---
 
 Martyr.

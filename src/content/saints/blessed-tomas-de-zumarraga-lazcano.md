@@ -1,18 +1,18 @@
 ---
-name: "Blessed Tomás de Zumárraga Lazcano"
+name: Blessed Tomás de Zumárraga Lazcano
 honorific: Blessed
-summary: "Dominican priest. Missionary to Japan. Martyr."
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Tomás-de-Zumárraga-Lazcano.jpg"
+summary: Dominican priest. Missionary to Japan. Martyr.
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Tomás-de-Zumárraga-Lazcano.jpg
 searchAliases:
-  - "Tomás of the Holy Spirit"
-  - "Thomas…."
+  - Tomás of the Holy Spirit
+  - Thomas….
 birthYear: 1577
 deathYear: 1622
-born: "10 March 1577 in Vitoria, Spain"
-died: "burned alive on 12 September 1622 at Omura, Nagasaki, Japan"
-birthPlace: "Spain"
-deathPlace: "Nagasaki, Japan"
-region: "Japan"
+born: 10 March 1577 in Vitoria, Spain
+died: burned alive on 12 September 1622 at Omura, Nagasaki, Japan
+birthPlace: Spain
+deathPlace: Nagasaki, Japan
+region: Japan
 feastDay:
   month: 9
   day: 12
@@ -20,8 +20,9 @@ canonizationStatus: Blessed
 vocation:
   - Priest
   - Missionary
-religiousOrder: "Dominican"
+religiousOrder: Dominican
 martyr: true
+prayers: []
 ---
 
 Dominican priest. Missionary to Japan. Martyr.

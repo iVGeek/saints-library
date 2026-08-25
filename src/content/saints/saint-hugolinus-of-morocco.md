@@ -1,13 +1,16 @@
 ---
-name: "Saint Hugolinus of Morocco"
+name: Saint Hugolinus of Morocco
 honorific: Saint
-summary: "Franciscan Friar Minor missionary sent with six others to Morocco by Saint Francis of Assisi himself to preach to the Moors. Initially treated as madmen, within three weeks they were ordered to convert to Islam, and then martyred when they would not."
-image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Ceuta.jpg"
+summary: >-
+  Franciscan Friar Minor missionary sent with six others to Morocco by Saint Francis of Assisi himself to preach to the
+  Moors. Initially treated as madmen, within three weeks they were ordered to convert to Islam, and then martyred when
+  they would not.
+image: http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Ceuta.jpg
 searchAliases:
-  - "Ugo"
+  - Ugo
 deathYear: 1227
-died: "beheaded in 1227 in Ceuta, Morocco"
-deathPlace: "Morocco"
+died: beheaded in 1227 in Ceuta, Morocco
+deathPlace: Morocco
 feastDay:
   month: 10
   day: 10
@@ -16,8 +19,9 @@ vocation:
   - Priest
   - Monk
   - Missionary
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 martyr: true
+prayers: []
 ---
 
 Franciscan Friar Minor missionary sent with six others to Morocco by Saint Francis of Assisi himself to preach to the Moors. Initially treated as madmen, within three weeks they were ordered to convert to Islam, and then martyred when they would not.

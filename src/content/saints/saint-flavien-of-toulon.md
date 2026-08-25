@@ -1,9 +1,12 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Flavien of Toulon"
+name: Saint Flavien of Toulon
 honorific: Saint
-summary: "Sixth century Gothic soldier. He was a convert to Christianity, brought to the faith and baptized by Saint Cyprian of Toulon. Due to the persecutions of Arian Gothic king Aleric II, Flavien abandoned military life and fled to the island of Cépet, France where he lived the rest of"
-region: "France"
+summary: >-
+  Sixth century Gothic soldier. He was a convert to Christianity, brought to the faith and baptized by Saint Cyprian of
+  Toulon. Due to the persecutions of Arian Gothic king Aleric II, Flavien abandoned military life and fled to the island
+  of Cépet, France where he lived the rest of
+region: France
 feastDay:
   month: 8
   day: 19
@@ -12,6 +15,7 @@ vocation:
   - Hermit
   - Soldier
 martyr: false
+prayers: []
 ---
 
 Sixth century Gothic soldier. He was a convert to Christianity, brought to the faith and baptized by Saint Cyprian of Toulon. Due to the persecutions of Arian Gothic king Aleric II, Flavien abandoned military life and fled to the island of Cépet, France where he lived the rest of his life as a hermit.

@@ -1,18 +1,21 @@
 ---
-name: "Saint Andrew of Crete"
+name: Saint Andrew of Crete
 honorific: Saint
-summary: "Young monk at Mar Sabas. Monk at the Holy Sepulchre in Jerusalem at the age of 15. Sent to Constantinople by Patriarch Theodore of Jerusalem in 685 to accept the decrees of the Council of Constantinople. He stayed there as head of an orphanage and a men's home for aged. Deacon at"
-image: "https://upload.wikimedia.org/wikipedia/commons/b/b9/Andrew_of_Crete_%28fresco%29.jpg"
+summary: >-
+  Young monk at Mar Sabas. Monk at the Holy Sepulchre in Jerusalem at the age of 15. Sent to Constantinople by Patriarch
+  Theodore of Jerusalem in 685 to accept the decrees of the Council of Constantinople. He stayed there as head of an
+  orphanage and a men's home for aged. Deacon at
+image: https://upload.wikimedia.org/wikipedia/commons/b/b9/Andrew_of_Crete_%28fresco%29.jpg
 searchAliases:
-  - "Andrew of Jerusalem"
-  - "Andrew of Gortina"
-  - "Andrea, Andreas"
+  - Andrew of Jerusalem
+  - Andrew of Gortina
+  - Andrea, Andreas
 birthYear: 660
 deathYear: 740
-born: "c.660 at Damascus, Syria"
-died: "c.740 in Crete of natural causes"
-birthPlace: "Syria"
-region: "Turkey"
+born: c.660 at Damascus, Syria
+died: c.740 in Crete of natural causes
+birthPlace: Syria
+region: Turkey
 feastDay:
   month: 7
   day: 4
@@ -22,6 +25,7 @@ vocation:
   - Monk
   - Deacon
 martyr: false
+prayers: []
 ---
 
 Young monk at Mar Sabas. Monk at the Holy Sepulchre in Jerusalem at the age of 15. Sent to Constantinople by Patriarch Theodore of Jerusalem in 685 to accept the decrees of the Council of Constantinople. He stayed there as head of an orphanage and a men's home for aged. Deacon at the church of Santa Sophia in Constantinople. Archbishop of Gortyna, Crete c.700.

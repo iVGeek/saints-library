@@ -1,16 +1,16 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed William Pike"
+name: Blessed William Pike
 honorific: Blessed
-summary: "Layman in the apostolic vicariate of England during a period of persecutions of Catholics. Martyr."
+summary: Layman in the apostolic vicariate of England during a period of persecutions of Catholics. Martyr.
 searchAliases:
-  - "William Pikes"
+  - William Pikes
 deathYear: 1591
-born: "in Dorset, England"
-died: "hanged on 22 December 1591 in Dorchester, Dorset, England"
-birthPlace: "England"
-deathPlace: "Dorset, England"
-region: "England"
+born: in Dorset, England
+died: hanged on 22 December 1591 in Dorchester, Dorset, England
+birthPlace: England
+deathPlace: Dorset, England
+region: England
 feastDay:
   month: 3
   day: 21
@@ -20,6 +20,7 @@ vocation:
   - Monk
   - Confessor
 martyr: true
+prayers: []
 ---
 
 Layman in the apostolic vicariate of England during a period of persecutions of Catholics. Martyr.

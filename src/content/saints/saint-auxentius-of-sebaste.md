@@ -19,6 +19,7 @@ imageAlt: Portrait of Saint Auxentius of Sebaste
 imageCredit: <a rel="nofollow" class="external text" href="http://www.doaks.org">Dumbarton Oaks</a> 
 imageCreditUrl: >-
   https://commons.wikimedia.org/wiki/File:Church%20of%20Panagia%20tou%20Arakos%2C%20nave%2C%20south%20bay%20under%20dome%2C%20wall%20paintings%2C%20Lagoudera%2C%20Cyprus%20-%20South%20arch%2C%20west%20soffit%2C%20medallion%2C%20St.%20Auxentius%20-%20MSBZ004%20BF%20S%201979%202095D%20-%20Dumbarton%20Oaks.jpg
+prayers: []
 ---
 
 Martyred in the persecutions of Diocletian.

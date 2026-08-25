@@ -30,6 +30,7 @@ patronage:
   - Llandaff, Wales
   - Vaduz, Liechtenstein, diocese of
 martyr: false
+prayers: []
 ---
 
 Second century king or chieftain in the British Isles. Wrote to Pope Saint Eleuterus c.180 to ask for missionaries. Bede says that evangelists were sent, and had great success in the south and west of Britain and Wales. Helped found the dioceses of London, England, and Llandaff, Wales. Lucius later became a missionary himself, taking the message to the Grissons in what is modern Switzerland.

@@ -1,15 +1,15 @@
 ---
-name: "Blessed Manuel Vílchez Montalvo"
+name: Blessed Manuel Vílchez Montalvo
 honorific: Blessed
-summary: " After his pari After studies at the Guadix Seminary, Manual was ordained a priest of the archdiocese of Granada, Spain on 6 June 1912. He served as pastor in the Spanish cities of Baza, Castil, Iznalloz, in the cathedral of Guadix, and as a professor at the San Torcuato Seminary."
-image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Manuel-Vilchez-Montalvo.jpg"
+summary: ' After his pari After studies at the Guadix Seminary, Manual was ordained a priest of the archdiocese of Granada, Spain on 6 June 1912. He served as pastor in the Spanish cities of Baza, Castil, Iznalloz, in the cathedral of Guadix, and as a professor at the San Torcuato Seminary.'
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Manuel-Vilchez-Montalvo.jpg
 birthYear: 1889
 deathYear: 1937
-born: "5 June 1889 in Moreda, Granada, Spain"
-died: "7 March 1937 in Sierra Nevada, Granada, Spain"
-birthPlace: "Granada, Spain"
-deathPlace: "Granada, Spain"
-region: "Spain"
+born: 5 June 1889 in Moreda, Granada, Spain
+died: 7 March 1937 in Sierra Nevada, Granada, Spain
+birthPlace: Granada, Spain
+deathPlace: Granada, Spain
+region: Spain
 feastDay:
   month: 3
   day: 7
@@ -17,6 +17,7 @@ canonizationStatus: Blessed
 vocation:
   - Priest
 martyr: true
+prayers: []
 ---
 
 After studies at the Guadix Seminary, Manual was ordained a priest of the archdiocese of Granada, Spain on 6 June 1912. He served as pastor in the Spanish cities of Baza, Castil, Iznalloz, in the cathedral of Guadix, and as a professor at the San Torcuato Seminary.

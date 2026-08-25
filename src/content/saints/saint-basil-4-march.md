@@ -20,6 +20,7 @@ vocation:
   - Monk
   - Missionary
 martyr: true
+prayers: []
 ---
 
 Missionary bishop who was sent by the Patriarch of Jerusalem to convert people in the Chersonese region of greater Greece (modern Crimea) in the late 3rd century. Martyr.

@@ -1,13 +1,15 @@
 ---
-name: "Saint Myron of Cyzicus"
+name: Saint Myron of Cyzicus
 honorific: Saint
-summary: "Priest who tried to face down the people who came to destroy his church in the persecutions of Decius and Antipater. They tortured and killed him, and then razed the building."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Myron-of-Cyzicus.jpg"
+summary: >-
+  Priest who tried to face down the people who came to destroy his church in the persecutions of Decius and Antipater.
+  They tortured and killed him, and then razed the building.
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Myron-of-Cyzicus.jpg
 searchAliases:
-  - "Miron"
+  - Miron
 deathYear: 250
-died: "beheaded c.250 at Cyzicus in the Hellespont (in modern Turkey)"
-region: "Italy"
+died: beheaded c.250 at Cyzicus in the Hellespont (in modern Turkey)
+region: Italy
 feastDay:
   month: 8
   day: 17
@@ -16,6 +18,7 @@ vocation:
   - Priest
   - Monk
 martyr: false
+prayers: []
 ---
 
 Priest who tried to face down the people who came to destroy his church in the persecutions of Decius and Antipater. They tortured and killed him, and then razed the building.

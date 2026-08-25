@@ -1,16 +1,16 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Molagga of Fermoy"
+name: Saint Molagga of Fermoy
 honorific: Saint
-summary: "Spiritual student of Saint David of Wales. Founded Fermoy monastery in Wales, and served as its first abbot."
+summary: Spiritual student of Saint David of Wales. Founded Fermoy monastery in Wales, and served as its first abbot.
 searchAliases:
-  - "Molagga of Fulachmhin"
-  - "Laicin of…"
-  - "Molacca of…"
+  - Molagga of Fulachmhin
+  - Laicin of…
+  - Molacca of…
 deathYear: 655
-born: "Irish"
-died: "655 of natural causes"
-region: "Ireland"
+born: Irish
+died: 655 of natural causes
+region: Ireland
 feastDay:
   month: 1
   day: 20
@@ -18,6 +18,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: false
+prayers: []
 ---
 
 Spiritual student of Saint David of Wales. Founded Fermoy monastery in Wales, and served as its first abbot.

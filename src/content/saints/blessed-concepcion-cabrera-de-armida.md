@@ -1,16 +1,19 @@
 ---
-name: "Blessed Concepcion Cabrera de Armida"
+name: Blessed Concepcion Cabrera de Armida
 honorific: Blessed
-summary: "Born during the Mexican Civil War, she grew up during the Revolution and the religious persecutions that were a part of it. Lay woman, married 22 years to the same man. Mother of nine children. Widowed at age 39. Grandmother. Founder of the Obra de la Cruz (Work of the Cross) whi"
-image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Concepcion-Cabrera-de-Armida.jpg"
+summary: >-
+  Born during the Mexican Civil War, she grew up during the Revolution and the religious persecutions that were a part
+  of it. Lay woman, married 22 years to the same man. Mother of nine children. Widowed at age 39. Grandmother. Founder
+  of the Obra de la Cruz (Work of the Cross) whi
+image: http://catholicsaints.info/wp-content/uploads/img-Venerable-Concepcion-Cabrera-de-Armida.jpg
 searchAliases:
-  - "Conchita"
-  - "María Concepción Cabrera Arias de Armida"
-  - "María de la Concepción Cabrera Arias de Armida"
+  - Conchita
+  - María Concepción Cabrera Arias de Armida
+  - María de la Concepción Cabrera Arias de Armida
 birthYear: 1862
-born: "8 December 1862 at San Luis Potos&iacute;, Mexico"
-birthPlace: "Mexico"
-region: "England"
+born: 8 December 1862 at San Luis Potos&iacute;, Mexico
+birthPlace: Mexico
+region: England
 feastDay:
   month: 3
   day: 3
@@ -20,6 +23,7 @@ vocation:
   - Religious
   - Cardinal
 martyr: false
+prayers: []
 ---
 
 Born during the Mexican Civil War, she grew up during the Revolution and the religious persecutions that were a part of it. Lay woman, married 22 years to the same man. Mother of nine children. Widowed at age 39. Grandmother. Founder of the Obra de la Cruz (Work of the Cross) which includes

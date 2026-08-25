@@ -1,36 +1,42 @@
 ---
-name: "Saint Leopold Bogdan Mandic"
+name: Saint Leopold Bogdan Mandic
 honorific: Venerable
-summary: "Saint Leopold was a contrast between physical frailty and spiritual strength. Four foot five inches tall, and physically weak, his health became worse with age. He had a stammer, suffered abdominal pains, and was gradually deformed by chronic arthritis, making his frame stooped,"
-image: "http://catholicsaints.info/wp-content/gallery/saint-leopold-bogdan-mandic/saint-leopold-bogdan-mandic-01.jpg"
+summary: >-
+  Saint Leopold was a contrast between physical frailty and spiritual strength. Four foot five inches tall, and
+  physically weak, his health became worse with age. He had a stammer, suffered abdominal pains, and was gradually
+  deformed by chronic arthritis, making his frame stooped,
+image: http://catholicsaints.info/wp-content/gallery/saint-leopold-bogdan-mandic/saint-leopold-bogdan-mandic-01.jpg
 searchAliases:
-  - "Adeodato Bogdan Mandic"
-  - "Apostle of the Confession"
-  - "Apostle of Unity"
-  - "Bogdan Ivan Mandic"
-  - "Brother Leopold"
-  - "Leopoldo of Castelnuovo"
+  - Adeodato Bogdan Mandic
+  - Apostle of the Confession
+  - Apostle of Unity
+  - Bogdan Ivan Mandic
+  - Brother Leopold
+  - Leopoldo of Castelnuovo
 birthYear: 1866
 deathYear: 1942
-born: "12 May 1866 at Herceg Novi, Dubrovacko-Neretvanska Croatia as Adeodato"
-died: "30 July 1942 at the Friary in Padua, Italy of oesophageal cancer"
-birthPlace: "Dubrovacko-Neretvanska Croatia as Adeodato"
-deathPlace: "Italyoesophageal cancer"
-region: "Italy"
+born: 12 May 1866 at Herceg Novi, Dubrovacko-Neretvanska Croatia as Adeodato
+died: 30 July 1942 at the Friary in Padua, Italy of oesophageal cancer
+birthPlace: Dubrovacko-Neretvanska Croatia as Adeodato
+deathPlace: Italyoesophageal cancer
+region: Italy
 feastDay:
   month: 7
   day: 30
-centuries: [19, 20]
+centuries:
+  - 19
+  - 20
 canonizationStatus: Venerable
 vocation:
   - Bishop
   - Priest
   - Missionary
   - Confessor
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 patronage:
-  - "cancer patients (chosen by the Italian Bishops' Conference in 2018)"
+  - cancer patients (chosen by the Italian Bishops' Conference in 2018)
 martyr: false
+prayers: []
 ---
 
 Saint Leopold was a contrast between physical frailty and spiritual strength. Four foot five inches tall, and physically weak, his health became worse with age. He had a stammer, suffered abdominal pains, and was gradually deformed by chronic arthritis, making his frame stooped, his hands gnarled, and his life one of endless pain. Spiritually, Leopold Mandic was a giant, full of Christian strength. His humility and faith in God enabled him to accept his poor physical condition, and realize God's power – for without God he could do nothing.

@@ -1,16 +1,19 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Lochinia of Ireland"
+name: Saint Lochinia of Ireland
 honorific: Saint
-summary: "Born a princess, the daughter of Briga and King Conall Derg of Oriel in northern Ireland. Sister of Saint Fanchea of Rossory, Saint Carecha of Clonburren, Saint Darenia of Cashel and Saint Enda of Arran. No details of her life have survived."
+summary: >-
+  Born a princess, the daughter of Briga and King Conall Derg of Oriel in northern Ireland. Sister of Saint Fanchea of
+  Rossory, Saint Carecha of Clonburren, Saint Darenia of Cashel and Saint Enda of Arran. No details of her life have
+  survived.
 searchAliases:
-  - "Lochin"
-  - "Lochein"
+  - Lochin
+  - Lochein
 deathYear: 500
-born: "5th century Oriel, Ireland"
-died: "c.500"
-birthPlace: "Ireland"
-region: "Ireland"
+born: 5th century Oriel, Ireland
+died: c.500
+birthPlace: Ireland
+region: Ireland
 feastDay:
   month: 6
   day: 12
@@ -19,6 +22,7 @@ vocation:
   - Monk
   - Religious
 martyr: false
+prayers: []
 ---
 
 Born a princess, the daughter of Briga and King Conall Derg of Oriel in northern Ireland. Sister of Saint Fanchea of Rossory, Saint Carecha of Clonburren, Saint Darenia of Cashel and Saint Enda of Arran. No details of her life have survived.

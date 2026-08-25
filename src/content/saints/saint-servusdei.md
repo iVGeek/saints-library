@@ -1,15 +1,15 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Servusdei of Cordoba"
+name: Saint Servusdei of Cordoba
 honorific: Saint
-summary: "Monk. Martyred in the persecutions of Abderrahman II."
+summary: Monk. Martyred in the persecutions of Abderrahman II.
 searchAliases:
-  - "Servusdeus"
+  - Servusdeus
 deathYear: 852
-born: "Spanish"
-died: "852 in Cordoba, Spain"
-deathPlace: "Spain"
-region: "Spain"
+born: Spanish
+died: 852 in Cordoba, Spain
+deathPlace: Spain
+region: Spain
 feastDay:
   month: 1
   day: 13
@@ -17,6 +17,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Monk. Martyred in the persecutions of Abderrahman II.

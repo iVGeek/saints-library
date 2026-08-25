@@ -1,12 +1,12 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Peter of Rome"
+name: Saint Peter of Rome
 honorific: Saint
-summary: "One of a group of 50 soldiers martyred together in the persecutions of Claudius II."
+summary: One of a group of 50 soldiers martyred together in the persecutions of Claudius II.
 deathYear: 269
-died: "269 in Rome, Italy"
-deathPlace: "Italy"
-region: "Italy"
+died: 269 in Rome, Italy
+deathPlace: Italy
+region: Italy
 feastDay:
   month: 10
   day: 25
@@ -15,6 +15,7 @@ vocation:
   - Monk
   - Soldier
 martyr: true
+prayers: []
 ---
 
 One of a group of 50 soldiers martyred together in the persecutions of Claudius II.

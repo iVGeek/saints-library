@@ -1,17 +1,17 @@
 ---
-name: "Blessed Anna Rosa Gattorno"
+name: Blessed Anna Rosa Gattorno
 honorific: Blessed
-summary: " Married to Gerol One of six children born to the wealthy, pious family of Francesco Benedetta and Adelaide Campanella Benedetta. Baptized the day after her birth, and confirmed at age 12. Educated at home, she was familiar with the politics and anti–clerical arguments of her day."
-image: "http://catholicsaints.info/wp-content/gallery/blessed-anna-rosa-gattorno/blessed-anna-rosa-gattorno-01.jpg"
+summary: ' Married to Gerol One of six children born to the wealthy, pious family of Francesco Benedetta and Adelaide Campanella Benedetta. Baptized the day after her birth, and confirmed at age 12. Educated at home, she was familiar with the politics and anti–clerical arguments of her day.'
+image: http://catholicsaints.info/wp-content/gallery/blessed-anna-rosa-gattorno/blessed-anna-rosa-gattorno-01.jpg
 searchAliases:
-  - "Rose Maria Benedetta"
+  - Rose Maria Benedetta
 birthYear: 1831
 deathYear: 1900
-born: "14 October 1831 at Genoa, Italy as Rose Maria Benedetta"
-died: "9am on 6 May 1900 at Rome, Italy of influenza"
-birthPlace: "Italy as Rose Maria Benedetta"
-deathPlace: "Italyinfluenza"
-region: "Brazil"
+born: 14 October 1831 at Genoa, Italy as Rose Maria Benedetta
+died: 9am on 6 May 1900 at Rome, Italy of influenza
+birthPlace: Italy as Rose Maria Benedetta
+deathPlace: Italyinfluenza
+region: Brazil
 feastDay:
   month: 5
   day: 6
@@ -20,8 +20,9 @@ vocation:
   - Bishop
   - Priest
   - Religious
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 martyr: false
+prayers: []
 ---
 
 One of six children born to the wealthy, pious family of Francesco Benedetta and Adelaide Campanella Benedetta. Baptized the day after her birth, and confirmed at age 12. Educated at home, she was familiar with the politics and anti–clerical arguments of her day.

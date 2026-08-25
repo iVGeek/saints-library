@@ -1,15 +1,18 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Natalio Camazón Junquera"
+name: Blessed Natalio Camazón Junquera
 honorific: Blessed
-summary: "The son of Marcelino and Jacoba, Natalio was baptized at the age of two days. He was educated by the parish priest, joined the Dominicans in Corias, Spain in 1888, and made his profession there on 29 December 1889. Studied theology at San Esteban de Salamanca, was ordained a prie"
+summary: >-
+  The son of Marcelino and Jacoba, Natalio was baptized at the age of two days. He was educated by the parish priest,
+  joined the Dominicans in Corias, Spain in 1888, and made his profession there on 29 December 1889. Studied theology at
+  San Esteban de Salamanca, was ordained a prie
 birthYear: 1873
 deathYear: 1936
-born: "1 December 1873 in Castromocho, Palencia, Spain"
-died: "14 August 1936 in El Picado, Almagro, Ciudad Real, Spain"
-birthPlace: "Palencia, Spain"
-deathPlace: "Almagro, Ciudad Real, Spain"
-region: "Spain"
+born: 1 December 1873 in Castromocho, Palencia, Spain
+died: 14 August 1936 in El Picado, Almagro, Ciudad Real, Spain
+birthPlace: Palencia, Spain
+deathPlace: Almagro, Ciudad Real, Spain
+region: Spain
 feastDay:
   month: 8
   day: 14
@@ -17,8 +20,9 @@ canonizationStatus: Blessed
 vocation:
   - Priest
   - Cardinal
-religiousOrder: "Dominican"
+religiousOrder: Dominican
 martyr: true
+prayers: []
 ---
 
 The son of Marcelino and Jacoba, Natalio was baptized at the age of two days. He was educated by the parish priest, joined the Dominicans in Corias, Spain in 1888, and made his profession there on 29 December 1889. Studied theology at San Esteban de Salamanca, was ordained a priest, and assigned to Almagro, Spain. Even as a young man, Father Natalio's hearing became so poor that he had to stop hearing confessions, and then gave up preaching, concentrating on editing and managing magazines published by the Order. Martyred in the Spanish Civil War.

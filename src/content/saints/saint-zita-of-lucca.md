@@ -39,6 +39,7 @@ martyr: false
 lifeEvents:
   - year: '1218'
     event: Born at Lucca.
+prayers: []
 ---
 
 Born to a very poor but pious family. At age twelve she became a domestic servant for the wealthy Fainelli family in Lucca, Italy, a position she kept all her life; she looked at it as a way to serve God. She often gave her own food, and sometimes that of her master, to those poorer than herself, which caused her to get in frequent trouble with her employers and the other servants in the house who resented her. However, she did such a fine job she was eventually placed in charge of the house, and entrusted with its keys. Attended daily Mass before beginning her duties, and would go to a nearby monastery to pray in private. Her reputation was such that Dante in the Inferno referred to the city of Lucca as “Santa Zita”.

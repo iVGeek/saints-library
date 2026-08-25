@@ -1,14 +1,14 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Elfgete of Croyland"
+name: Saint Elfgete of Croyland
 honorific: Saint
-summary: "Monk at Croyland Abbey. Deacon. Martyred by pagan Danes."
+summary: Monk at Croyland Abbey. Deacon. Martyred by pagan Danes.
 searchAliases:
-  - "Elfgete of Crowland"
+  - Elfgete of Crowland
 deathYear: 869
-died: "martyred  in 869 in Croyland, England"
-deathPlace: "England"
-region: "England"
+died: martyred  in 869 in Croyland, England
+deathPlace: England
+region: England
 feastDay:
   month: 4
   day: 9
@@ -17,6 +17,7 @@ vocation:
   - Monk
   - Deacon
 martyr: true
+prayers: []
 ---
 
 Monk at Croyland Abbey. Deacon. Martyred by pagan Danes.

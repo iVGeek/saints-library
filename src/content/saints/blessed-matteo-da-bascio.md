@@ -29,6 +29,7 @@ vocation:
   - Priest
 religiousOrder: Franciscan
 martyr: false
+prayers: []
 ---
 
 Matteo joined the Observant branch of the Franciscans at the Montefiorentino convent near Frontino, Italy. Ordained a priest in 1525. Feeling a call to the earliest of Franciscan rigor of life, he obtained permission to dress and live in complete poverty, imitating as best he could the life of Saint Francis, travelling and preaching and trying to revive the spiritual life of people. His life and message attracted many would-be spiritual students who wanted the original spirit of the Franciscans; they eventually were organized as the Order of Friars Minor Capuchin, who were approved on 3 July 1528. Matteo was chosen the first superior general of the Order in April 1529, but resigned soon after as he felt more called to travel, preach and support, rather than administer and govern.

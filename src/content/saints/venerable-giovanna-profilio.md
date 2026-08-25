@@ -1,28 +1,34 @@
 ---
-name: "Venerable Giovanna Profilio"
+name: Venerable Giovanna Profilio
 honorific: Venerable
-summary: "Fourth daughter of Giuseppe Profilio and Nunziata Marchese, a pious family who provided her a solid Christian education and example of being active in parish life; her brother Anthony became a priest. Upon the death of her father in 1895, Giovanna and her family emigrated from It"
-image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Giovanna-Profilio.jpg"
+summary: >-
+  Fourth daughter of Giuseppe Profilio and Nunziata Marchese, a pious family who provided her a solid Christian
+  education and example of being active in parish life; her brother Anthony became a priest. Upon the death of her
+  father in 1895, Giovanna and her family emigrated from It
+image: http://catholicsaints.info/wp-content/uploads/img-Venerable-Giovanna-Profilio.jpg
 searchAliases:
-  - "Sister Florenzia"
+  - Sister Florenzia
 birthYear: 1873
 deathYear: 1956
-born: "30 December 1873 in Pirrera, Lipari, Messina, Italy"
-died: "21 February 1956 in Rome, Italy of natural causes"
-birthPlace: "Lipari, Messina, Italy"
-deathPlace: "Italynatural causes"
-region: "Brazil"
+born: 30 December 1873 in Pirrera, Lipari, Messina, Italy
+died: 21 February 1956 in Rome, Italy of natural causes
+birthPlace: Lipari, Messina, Italy
+deathPlace: Italynatural causes
+region: Brazil
 feastDay:
   month: 1
   day: 22
-centuries: [19, 20]
+centuries:
+  - 19
+  - 20
 canonizationStatus: Venerable
 vocation:
   - Bishop
   - Priest
   - Religious
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 martyr: false
+prayers: []
 ---
 
 Fourth daughter of Giuseppe Profilio and Nunziata Marchese, a pious family who provided her a solid Christian education and example of being active in parish life; her brother Anthony became a priest. Upon the death of her father in 1895, Giovanna and her family emigrated from Italy to Sullivan Street in New York in March 1896 to find work and a better life. Giovanna began work in a factory but worshipped at a local Franciscan convent, and was drawn to their spirituality. She joined the Tertiary Franciscan Sisters of Alleghany, New York, on 22 January 1898, taking the name Sister Florenzia.

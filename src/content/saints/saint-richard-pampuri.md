@@ -1,31 +1,34 @@
 ---
-name: "Saint Richard Pampuri"
+name: Saint Richard Pampuri
 honorific: Venerable
-summary: " Though he wanted to become a missiona Tenth of the eleven children born to Innocenzo and Angela Pampuri. His mother died of tuberculosis when Erminio was three, and he was raised by his maternal grandparents and an aunt. His father died in a traffic accident when Erminio was ten."
-image: "https://upload.wikimedia.org/wikipedia/commons/c/c0/Pampuri.jpg"
+summary: ' Though he wanted to become a missiona Tenth of the eleven children born to Innocenzo and Angela Pampuri. His mother died of tuberculosis when Erminio was three, and he was raised by his maternal grandparents and an aunt. His father died in a traffic accident when Erminio was ten.'
+image: https://upload.wikimedia.org/wikipedia/commons/c/c0/Pampuri.jpg
 searchAliases:
-  - "Erminio Filippo Pampuri"
-  - "Herminio Felipe Pampuri"
-  - "Riccardo Pampuri"
-  - "Ricardo Pampuri"
+  - Erminio Filippo Pampuri
+  - Herminio Felipe Pampuri
+  - Riccardo Pampuri
+  - Ricardo Pampuri
 birthYear: 1897
 deathYear: 1930
-born: "2 August 1897 at Trivolzio, Pavia, Italy as Erminio Filippo Pampuri"
-died: "1 May 1930 in Milan, Italy of pleurisy, tuberculosis and pneumonia"
-birthPlace: "Pavia, Italy as Erminio Filippo Pampuri"
-deathPlace: "Italypleurisy, tuberculosis and pneumonia"
-region: "Italy"
+born: 2 August 1897 at Trivolzio, Pavia, Italy as Erminio Filippo Pampuri
+died: 1 May 1930 in Milan, Italy of pleurisy, tuberculosis and pneumonia
+birthPlace: Pavia, Italy as Erminio Filippo Pampuri
+deathPlace: Italypleurisy, tuberculosis and pneumonia
+region: Italy
 feastDay:
   month: 5
   day: 1
-centuries: [19, 20]
+centuries:
+  - 19
+  - 20
 canonizationStatus: Venerable
 vocation:
   - Priest
   - Religious
   - Missionary
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 martyr: false
+prayers: []
 ---
 
 Tenth of the eleven children born to Innocenzo and Angela Pampuri. His mother died of tuberculosis when Erminio was three, and he was raised by his maternal grandparents and an aunt. His father died in a traffic accident when Erminio was ten.

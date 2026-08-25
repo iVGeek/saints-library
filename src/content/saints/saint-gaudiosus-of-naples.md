@@ -1,15 +1,17 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Gaudiosus of Naples"
+name: Saint Gaudiosus of Naples
 honorific: Saint
-summary: "Bishop of Abitinae in North Africa. Exiled by the Arian Vandal king Genseric in 440, he fled to Naples, Italy, where he founded a monastery."
+summary: >-
+  Bishop of Abitinae in North Africa. Exiled by the Arian Vandal king Genseric in 440, he fled to Naples, Italy, where
+  he founded a monastery.
 searchAliases:
-  - "Gaudiosus of Abitinae"
-  - "Gaudiosus the African"
+  - Gaudiosus of Abitinae
+  - Gaudiosus the African
 deathYear: 455
-died: "c.455 at Naples, Italy of natural causes"
-deathPlace: "Italynatural causes"
-region: "Italy"
+died: c.455 at Naples, Italy of natural causes
+deathPlace: Italynatural causes
+region: Italy
 feastDay:
   month: 10
   day: 27
@@ -18,6 +20,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Bishop of Abitinae in North Africa. Exiled by the Arian Vandal king Genseric in 440, he fled to Naples, Italy, where he founded a monastery.

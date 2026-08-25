@@ -22,6 +22,7 @@ vocation:
   - Deacon
   - Confessor
 martyr: false
+prayers: []
 ---
 
 Deacon at Vienne, France. Priest. Bishop of Lyon, France c.350. He presided over the Council of Aquileia in 381, strongly opposed the heresy of Arianism, and became a friend of Saint Ambrose of Milan.

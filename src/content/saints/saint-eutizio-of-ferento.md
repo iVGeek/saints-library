@@ -34,6 +34,7 @@ image: >-
 imageAlt: Portrait of Saint Eutizio of Ferento
 imageCredit: <span class="int-own-work" lang="en">Own work</span>
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:Soriano%20al%20Cimino%20-%20Chiesa%20di%20Sant'Eutizio.JPG
+prayers: []
 ---
 
 Young priest who, after celebrating Mass in honor of the recently martyred Saint Gracilian and Saint Felicissima, was arrested by imperial soldiers, tortured and executed in the persecutions of Aurelian. Martyr.

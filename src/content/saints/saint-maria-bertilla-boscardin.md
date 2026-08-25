@@ -1,29 +1,35 @@
 ---
-name: "Saint Maria Bertilla Boscardin"
+name: Saint Maria Bertilla Boscardin
 honorific: Venerable
-summary: "Born to a poor peasant family headed by Angelo Boscardin who, by his own account, was a violently abusive drunk. Anna had little education, was simple and innocent, and was considered mentally slow; referred to as the goose (as in, “silly as a….”). Worked as a house servant in he"
-image: "https://upload.wikimedia.org/wikipedia/commons/4/4d/Santa_Bertilla_Cropped.jpg"
+summary: >-
+  Born to a poor peasant family headed by Angelo Boscardin who, by his own account, was a violently abusive drunk. Anna
+  had little education, was simple and innocent, and was considered mentally slow; referred to as the goose (as in,
+  “silly as a….”). Worked as a house servant in he
+image: https://upload.wikimedia.org/wikipedia/commons/4/4d/Santa_Bertilla_Cropped.jpg
 searchAliases:
-  - "Ann Francis Boscardin"
-  - "Anna Francesca Boscardin"
-  - "Maria Bertilla"
+  - Ann Francis Boscardin
+  - Anna Francesca Boscardin
+  - Maria Bertilla
 birthYear: 1888
 deathYear: 1922
-born: "6 October 1888 at Brendola, Italy as Anna Francesca Boscardin"
-died: "20 October 1922 of cancer at Treviso, Italy"
-birthPlace: "Italy as Anna Francesca Boscardin"
-deathPlace: "Italy"
-region: "Italy"
+born: 6 October 1888 at Brendola, Italy as Anna Francesca Boscardin
+died: 20 October 1922 of cancer at Treviso, Italy
+birthPlace: Italy as Anna Francesca Boscardin
+deathPlace: Italy
+region: Italy
 feastDay:
   month: 10
   day: 20
-centuries: [19, 20]
+centuries:
+  - 19
+  - 20
 canonizationStatus: Venerable
 vocation:
   - Religious
   - Soldier
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 martyr: false
+prayers: []
 ---
 
 Born to a poor peasant family headed by Angelo Boscardin who, by his own account, was a violently abusive drunk. Anna had little education, was simple and innocent, and was considered mentally slow; referred to as the goose (as in, “silly as a….”). Worked as a house servant in her youth. Joined the Sisters of Saint Dorothy, Daughters of the Sacred Heart at Vincenza, Italy in 1904, taking the name Bertilla. After working in the convent's kitchen and laundry, she trained as a nurse in 1907.

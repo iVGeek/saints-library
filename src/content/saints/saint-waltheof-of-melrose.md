@@ -1,20 +1,23 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Waltheof of Melrose"
+name: Saint Waltheof of Melrose
 honorific: Saint
-summary: "Born to the English nobility, the second son of Simon, Earl of Huntingdon, and Maud (Matilda), grand-niece of William the Conqueror. Grandson of Saint Waldef of Northumbria. Even as a child, Waltheof felt drawn to churches, and later to the religious life. Following his father's"
+summary: >-
+  Born to the English nobility, the second son of Simon, Earl of Huntingdon, and Maud (Matilda), grand-niece of William
+  the Conqueror. Grandson of Saint Waldef of Northumbria. Even as a child, Waltheof felt drawn to churches, and later to
+  the religious life. Following his father's
 searchAliases:
-  - "Walthen"
-  - "Waldef"
-  - "Walden"
-  - "Waldeve"
-  - "Wallevus"
-  - "Walene"
+  - Walthen
+  - Waldef
+  - Walden
+  - Waldeve
+  - Wallevus
+  - Walene
 birthYear: 1100
 deathYear: 1160
-born: "c.1100 in England"
-died: "3 August 1160 of natural causes"
-region: "Scotland"
+born: c.1100 in England
+died: 3 August 1160 of natural causes
+region: Scotland
 feastDay:
   month: 8
   day: 3
@@ -24,10 +27,11 @@ vocation:
   - Priest
   - Monk
   - Confessor
-religiousOrder: "Augustinian"
+religiousOrder: Augustinian
 patronage:
-  - "Melrose, Scotland"
+  - Melrose, Scotland
 martyr: false
+prayers: []
 ---
 
 Born to the English nobility, the second son of Simon, Earl of Huntingdon, and Maud (Matilda), grand-niece of William the Conqueror. Grandson of Saint Waldef of Northumbria. Even as a child, Waltheof felt drawn to churches, and later to the religious life. Following his father's death, he, his mother and his brother moved to Scotland where Maud married King David I. Part of David's court where he was educated and became a spiritual student of Saint Aelred of Rievaulx, master of the royal household. Deciding on a religious life, Waltheof left Scotland.

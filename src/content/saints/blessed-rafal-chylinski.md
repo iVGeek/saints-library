@@ -1,17 +1,20 @@
 ---
-name: "Blessed Rafał Chyliński"
+name: Blessed Rafał Chyliński
 honorific: Blessed
-summary: "A pious youth, his family nicknamed him “the little monk.” After graduating the Jesuit college in Poznan, Poland, Melchior joined the cavalry, and was made an officer within three years. In 1715, against the advice of his brothers in arms, Melchior joined the Conventual Friars Mi"
-image: "http://catholicsaints.info/wp-content/uploads/chylinski.jpg"
+summary: >-
+  A pious youth, his family nicknamed him “the little monk.” After graduating the Jesuit college in Poznan, Poland,
+  Melchior joined the cavalry, and was made an officer within three years. In 1715, against the advice of his brothers
+  in arms, Melchior joined the Conventual Friars Mi
+image: http://catholicsaints.info/wp-content/uploads/chylinski.jpg
 searchAliases:
-  - "Melchior Chylinski"
+  - Melchior Chylinski
 birthYear: 1694
 deathYear: 1741
-born: "8 January 1694 at Buk, Poznan, Poland as Melchior Chylinski"
-died: "2 December 1741 at Łagiewniki, Łodźkie, Poland"
-birthPlace: "Poznan, Poland as Melchior Chylinski"
-deathPlace: "Łodźkie, Poland"
-region: "Poland"
+born: 8 January 1694 at Buk, Poznan, Poland as Melchior Chylinski
+died: 2 December 1741 at Łagiewniki, Łodźkie, Poland
+birthPlace: Poznan, Poland as Melchior Chylinski
+deathPlace: Łodźkie, Poland
+region: Poland
 feastDay:
   month: 12
   day: 2
@@ -20,8 +23,9 @@ vocation:
   - Priest
   - Monk
   - Confessor
-religiousOrder: "Jesuit"
+religiousOrder: Jesuit
 martyr: false
+prayers: []
 ---
 
 A pious youth, his family nicknamed him “the little monk.” After graduating the Jesuit college in Poznan, Poland, Melchior joined the cavalry, and was made an officer within three years. In 1715, against the advice of his brothers in arms, Melchior joined the Conventual Friars Minor in Kraków, Poland, took the name Rafal, and was ordained in 1717.

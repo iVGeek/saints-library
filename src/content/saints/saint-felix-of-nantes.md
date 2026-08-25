@@ -25,6 +25,7 @@ patronage:
   - against famine
   - against plague
 martyr: false
+prayers: []
 ---
 
 Born to the nobility, received a good education, and was very fluent in Greek. Ordained in 540. Bishop of Nantes, France for 33 years; he was married at the time he was chosen, and his wife became a nun. Attended the synods in Paris, France in 557 and 573, and in Tours, France in 567. Peacemaker between warring leaders in his region.

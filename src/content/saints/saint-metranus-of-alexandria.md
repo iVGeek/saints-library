@@ -1,15 +1,17 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Metranus of Alexandria"
+name: Saint Metranus of Alexandria
 honorific: Saint
-summary: "Tortured and murdered in the persecutions of Decius for refusing to sacrifice to idols. Saint Dionysius of Alexandria wrote about his martyrdom."
+summary: >-
+  Tortured and murdered in the persecutions of Decius for refusing to sacrifice to idols. Saint Dionysius of Alexandria
+  wrote about his martyrdom.
 searchAliases:
-  - "Metras"
-  - "Metrano"
+  - Metras
+  - Metrano
 deathYear: 250
-died: "stoned to death c.250 outside the city walls of Alexandria, Egypt"
-deathPlace: "Egypt"
-region: "Egypt"
+died: stoned to death c.250 outside the city walls of Alexandria, Egypt
+deathPlace: Egypt
+region: Egypt
 feastDay:
   month: 1
   day: 31
@@ -17,6 +19,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Tortured and murdered in the persecutions of Decius for refusing to sacrifice to idols. Saint Dionysius of Alexandria wrote about his martyrdom.

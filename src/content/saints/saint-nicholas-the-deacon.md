@@ -1,15 +1,15 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Nicholas the Deacon"
+name: Saint Nicholas the Deacon
 honorific: Saint
-summary: "Convert. One of the first seven deacons ordained by the Apostles. Miracle worker. Martyr."
+summary: Convert. One of the first seven deacons ordained by the Apostles. Miracle worker. Martyr.
 searchAliases:
-  - "Nicholas of Antioch"
-  - "Nicola…"
-  - "Nicolaus…"
-  - "Nikolas…"
-born: "Antioch"
-region: "Italy"
+  - Nicholas of Antioch
+  - Nicola…
+  - Nicolaus…
+  - Nikolas…
+born: Antioch
+region: Italy
 feastDay:
   month: 7
   day: 28
@@ -19,6 +19,7 @@ vocation:
   - Monk
   - Deacon
 martyr: true
+prayers: []
 ---
 
 Convert. One of the first seven deacons ordained by the Apostles. Miracle worker. Martyr.

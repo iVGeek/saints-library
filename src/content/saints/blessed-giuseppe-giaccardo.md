@@ -1,17 +1,20 @@
 ---
-name: "Blessed Giuseppe Giaccardo"
+name: Blessed Giuseppe Giaccardo
 honorific: Blessed
-summary: "Oldest of five children born to farm workers Stefano and Maria Cagna; his mother was devoted to Our Lady of the Rosary. When financial troubles hit, his father worked as a butcher and sacristan, and Giuseppe spent his early years in a house adjacent to his parish church; at one p"
-image: "https://upload.wikimedia.org/wikipedia/commons/5/59/Giaccardo.jpg"
+summary: >-
+  Oldest of five children born to farm workers Stefano and Maria Cagna; his mother was devoted to Our Lady of the
+  Rosary. When financial troubles hit, his father worked as a butcher and sacristan, and Giuseppe spent his early years
+  in a house adjacent to his parish church; at one p
+image: https://upload.wikimedia.org/wikipedia/commons/5/59/Giaccardo.jpg
 searchAliases:
-  - "Father Timoteo"
+  - Father Timoteo
 birthYear: 1896
 deathYear: 1948
-born: "13 June 1896 in Narzole, Cuneo, Italy as Giuseppe Domenico Vincenzo Giaccardo"
-died: "24 January 1948 in Rome, Italy of leukemia"
-birthPlace: "Cuneo, Italy as Giuseppe Domenico Vincenzo Giaccardo"
-deathPlace: "Italyleukemia"
-region: "Italy"
+born: 13 June 1896 in Narzole, Cuneo, Italy as Giuseppe Domenico Vincenzo Giaccardo
+died: 24 January 1948 in Rome, Italy of leukemia
+birthPlace: Cuneo, Italy as Giuseppe Domenico Vincenzo Giaccardo
+deathPlace: Italyleukemia
+region: Italy
 feastDay:
   month: 1
   day: 24
@@ -20,8 +23,9 @@ vocation:
   - Priest
   - Religious
   - Soldier
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 martyr: false
+prayers: []
 ---
 
 Oldest of five children born to farm workers Stefano and Maria Cagna; his mother was devoted to Our Lady of the Rosary. When financial troubles hit, his father worked as a butcher and sacristan, and Giuseppe spent his early years in a house adjacent to his parish church; at one point he served as an altar boy for Blessed Giacomo Alberione, his future superior. Giuseppe early felt a call to the priesthood, and began his studies in October 1908; he was known as an exceptional student in seminary, but would not talk about it. Drafted into the army on 22 January 1915, he worked in a medical unit and later said that the locations of his military assignments put a severe test to his vows of chastity. He was released from service on 7 January 1916 due to chronic anemia, and returned to seminary where he spent his spare time tutoring other students.

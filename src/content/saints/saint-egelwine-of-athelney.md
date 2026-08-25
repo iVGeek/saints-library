@@ -1,16 +1,16 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Egelwine of Athelney"
+name: Saint Egelwine of Athelney
 honorific: Saint
-summary: "Seventh century prince of Wessex, England. Lived as a prayerful hermit at Athelney, Somersetshire, England."
+summary: Seventh century prince of Wessex, England. Lived as a prayerful hermit at Athelney, Somersetshire, England.
 searchAliases:
-  - "Aylwine"
-  - "Egelwin"
-  - "Ethelwin"
-  - "Ethelwine"
-born: "Athelney, Somersetshire, England"
-birthPlace: "Somersetshire, England"
-region: "England"
+  - Aylwine
+  - Egelwin
+  - Ethelwin
+  - Ethelwine
+born: Athelney, Somersetshire, England
+birthPlace: Somersetshire, England
+region: England
 feastDay:
   month: 11
   day: 26
@@ -19,6 +19,7 @@ vocation:
   - Monk
   - Hermit
 martyr: false
+prayers: []
 ---
 
 Seventh century prince of Wessex, England. Lived as a prayerful hermit at Athelney, Somersetshire, England.

@@ -1,25 +1,28 @@
 ---
-name: "Blessed Ranieri Scacceri"
+name: Blessed Ranieri Scacceri
 honorific: Blessed
-summary: "Son of a wealthy merchant, he spent a wild and sinful youth as a wandering minstrel and musician, partying all night, sleeping by day if at all. One evening, while performing for a merry crowd in a castle, he met a holy man, Blessed Alberto Leccapecore. Ranieri felt drawn to the"
-image: "http://catholicsaints.info/wp-content/uploads/Ranieri-Scacceri.jpg"
+summary: >-
+  Son of a wealthy merchant, he spent a wild and sinful youth as a wandering minstrel and musician, partying all night,
+  sleeping by day if at all. One evening, while performing for a merry crowd in a castle, he met a holy man, Blessed
+  Alberto Leccapecore. Ranieri felt drawn to the
+image: http://catholicsaints.info/wp-content/uploads/Ranieri-Scacceri.jpg
 searchAliases:
-  - "Ranieri Scacchieri"
-  - "Ranieri of Pisa"
-  - "Ranieri de Aqua"
-  - "Rainer…"
-  - "Rainerius…"
-  - "Rainier…"
-  - "Raniero…."
-  - "Raynerius…"
-  - "Regnier…"
+  - Ranieri Scacchieri
+  - Ranieri of Pisa
+  - Ranieri de Aqua
+  - Rainer…
+  - Rainerius…
+  - Rainier…
+  - Raniero….
+  - Raynerius…
+  - Regnier…
 birthYear: 1117
 deathYear: 1161
-born: "1117 in Pisa, Italy"
-died: "1161 at the abbey of Saint Vito, Pisa, Italy of natural causes"
-birthPlace: "Italy"
-deathPlace: "Pisa, Italynatural causes"
-region: "Italy"
+born: 1117 in Pisa, Italy
+died: 1161 at the abbey of Saint Vito, Pisa, Italy of natural causes
+birthPlace: Italy
+deathPlace: Pisa, Italynatural causes
+region: Italy
 feastDay:
   month: 6
   day: 17
@@ -28,13 +31,17 @@ vocation:
   - Priest
   - Monk
   - Hermit
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 patronage:
-  - "hermits"
-  - "–"
-  - "in Italy\n\nPisa, archdiocese of"
-  - "Pisa, city of"
+  - hermits
+  - –
+  - |-
+    in Italy
+
+    Pisa, archdiocese of
+  - Pisa, city of
 martyr: false
+prayers: []
 ---
 
 Son of a wealthy merchant, he spent a wild and sinful youth as a wandering minstrel and musician, partying all night, sleeping by day if at all. One evening, while performing for a merry crowd in a castle, he met a holy man, Blessed Alberto Leccapecore. Ranieri felt drawn to the man, talked with him, and asked that Albert pray for him. Whatever Albert told him, Ranieri had a conversion experience, burned his fiddle, and gave up the life of a minstrel.

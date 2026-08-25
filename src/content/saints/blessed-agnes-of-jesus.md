@@ -29,6 +29,7 @@ vocation:
   - Religious
 religiousOrder: Dominican
 martyr: false
+prayers: []
 ---
 
 Third of eight children born to Pierre Galand and Guillemette Massiote. A pious girl, Agnès consecrated herself to the Virgin Mary at age seven and at nine began reciting the office every day in honour of the Holy Spirit. Joined the Order of Penance of Saint Dominic at Langeac, France in 1621. Nun at the new monastery of Saint Catherine of Siena in 1623, making her solemn vows on the feast of the Purification of the Blessed Virgin Mary in 1625. Served as choir nun, novice mistress, and then prioress of her house. Spent three years in penance and prayer for the establishment of the seminary of Saint-Sulpice. Visionary who daily spoke to the guardian angel.

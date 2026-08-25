@@ -1,17 +1,17 @@
 ---
-name: "Saint Adalgis of Novara"
+name: Saint Adalgis of Novara
 honorific: Saint
-summary: "Member of the court of Emperor Lothair I of the Franks. Bishop of Novara, Italy c.830."
-image: "http://catholicsaints.info/wp-content/uploads/Adagisio.jpg"
+summary: Member of the court of Emperor Lothair I of the Franks. Bishop of Novara, Italy c.830.
+image: http://catholicsaints.info/wp-content/uploads/Adagisio.jpg
 searchAliases:
-  - "Adalgisio"
-  - "Adalgiso"
-  - "Adelgis"
-  - "Algise"
-  - "Algis"
+  - Adalgisio
+  - Adalgiso
+  - Adelgis
+  - Algise
+  - Algis
 deathYear: 850
-died: "c.850"
-region: "Italy"
+died: c.850
+region: Italy
 feastDay:
   month: 10
   day: 7
@@ -21,6 +21,7 @@ vocation:
   - Priest
   - Hermit
 martyr: false
+prayers: []
 ---
 
 Member of the court of Emperor Lothair I of the Franks. Bishop of Novara, Italy c.830.

@@ -19,6 +19,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/0/05/Maestro_di_staffolo%2C_sant%27eleuterio%2C_1483%2C_Q274.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Anicetus of Nicopolis
 imageCreditUrl: https://en.wikipedia.org/wiki/Pope%20Eleutherius
+prayers: []
 ---
 
 Tortured and martyred in the persecutions of emperor Licinius.

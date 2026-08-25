@@ -1,13 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Becan of Cork"
+name: Saint Becan of Cork
 honorific: Saint
-summary: "Sixth-century hermit near Cork, Ireland."
+summary: Sixth-century hermit near Cork, Ireland.
 searchAliases:
-  - "Becan of Cluain-Aird-Mobecog"
-  - "Began…"
-  - "Beggan…"
-region: "Ireland"
+  - Becan of Cluain-Aird-Mobecog
+  - Began…
+  - Beggan…
+region: Ireland
 feastDay:
   month: 5
   day: 26
@@ -16,6 +16,7 @@ vocation:
   - Monk
   - Hermit
 martyr: false
+prayers: []
 ---
 
 Sixth-century hermit near Cork, Ireland.

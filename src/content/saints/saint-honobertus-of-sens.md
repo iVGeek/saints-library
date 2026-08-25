@@ -1,13 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Honobertus of Sens"
+name: Saint Honobertus of Sens
 honorific: Saint
-summary: "Son of Saint Honulphus of Sens. 37th bishop of Sens, France c.738."
+summary: Son of Saint Honulphus of Sens. 37th bishop of Sens, France c.738.
 searchAliases:
-  - "Aunobertus"
+  - Aunobertus
 deathYear: 755
-died: "c.755 of natural causes"
-region: "France"
+died: c.755 of natural causes
+region: France
 feastDay:
   month: 1
   day: 5
@@ -16,6 +16,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Son of Saint Honulphus of Sens. 37th bishop of Sens, France c.738.

@@ -1,12 +1,15 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Saturus of Africa"
+name: Saint Saturus of Africa
 honorific: Saint
-summary: "Wealthy master of the household of the anti-Christian Arian and then pagan Vandal king Genseric. When Genseric cracked down on the faithful, he tortured Saturus and threatened him with complete poverty and loss of his family and freedom. Saturus refused to deny his faith. Genseri"
+summary: >-
+  Wealthy master of the household of the anti-Christian Arian and then pagan Vandal king Genseric. When Genseric cracked
+  down on the faithful, he tortured Saturus and threatened him with complete poverty and loss of his family and freedom.
+  Saturus refused to deny his faith. Genseri
 deathYear: 460
-died: "some time after 460 of natural causes near Carthage, North Africa"
-deathPlace: "North Africa"
-region: "Italy"
+died: some time after 460 of natural causes near Carthage, North Africa
+deathPlace: North Africa
+region: Italy
 feastDay:
   month: 3
   day: 29
@@ -15,9 +18,10 @@ vocation:
   - Priest
   - Monk
 patronage:
-  - "against poverty"
-  - "poor people"
+  - against poverty
+  - poor people
 martyr: true
+prayers: []
 ---
 
 Wealthy master of the household of the anti–Christian Arian and then pagan Vandal king Genseric. When Genseric cracked down on the faithful, he tortured Saturus and threatened him with complete poverty and loss of his family and freedom. Saturus refused to deny his faith. Genseric, not wanting to create another martyr for Christians to rally around, stripped him of everything, and Saturus lived out his days as a poor but prayerful miner and cowherd. Friend of and fellow-sufferer with Saint Armogastes of Africa.

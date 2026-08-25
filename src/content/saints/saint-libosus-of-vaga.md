@@ -1,15 +1,17 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Libosus of Vaga"
+name: Saint Libosus of Vaga
 honorific: Saint
-summary: "Bishop of Vaga (modern Béja, Tunisia). Part of the Council of Carthage in 256. Several of his letters have survived to today. Martyred in the persecutions of Valerian."
+summary: >-
+  Bishop of Vaga (modern Béja, Tunisia). Part of the Council of Carthage in 256. Several of his letters have survived to
+  today. Martyred in the persecutions of Valerian.
 searchAliases:
-  - "Libóso"
-  - "Lybosus"
+  - Libóso
+  - Lybosus
 deathYear: 258
-died: "c.258 near Carthage (modern Tunis, Tunisia)"
-deathPlace: "Tunisia)"
-region: "Italy"
+died: c.258 near Carthage (modern Tunis, Tunisia)
+deathPlace: Tunisia)
+region: Italy
 feastDay:
   month: 12
   day: 29
@@ -17,6 +19,7 @@ canonizationStatus: Saint
 vocation:
   - Bishop
 martyr: true
+prayers: []
 ---
 
 Bishop of Vaga (modern Béja, Tunisia). Part of the Council of Carthage in 256. Several of his letters have survived to today. Martyred in the persecutions of Valerian.

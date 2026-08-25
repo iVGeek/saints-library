@@ -21,6 +21,7 @@ vocation:
   - Monk
 religiousOrder: Jesuit
 martyr: true
+prayers: []
 ---
 
 Roman noble, the beautiful daughter of Saint Gabinus, and niece of Pope Caius, living in the early part of Diocletian's reign when the last large-scale persecutions were building steam. Having made a private vow of virginity, and not wanting to be part of a family that murdered her family in faith, she refused to marry Maximian, Diocletian's son-in-law. Her piety was such that she converted Claudius and Maximus, relatives and the messengers sent to bring her to Maximian. In revenge, she was exposed as a Christian, beaten, and martyred.

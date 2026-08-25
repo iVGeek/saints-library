@@ -1,13 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Adelheidis of Tennenbach"
+name: Blessed Adelheidis of Tennenbach
 honorific: Blessed
-summary: "Born to an aristocratic family. Benedictine Cistercian nun and recluse at Tennenbach Abbey."
+summary: Born to an aristocratic family. Benedictine Cistercian nun and recluse at Tennenbach Abbey.
 deathYear: 1273
-born: "at Thöningen, Germany"
-died: "1273 at Tennenbach Abbey in Germany of natural causes"
-birthPlace: "Germany"
-region: "Germany"
+born: at Thöningen, Germany
+died: 1273 at Tennenbach Abbey in Germany of natural causes
+birthPlace: Germany
+region: Germany
 feastDay:
   month: 12
   day: 27
@@ -16,8 +16,9 @@ vocation:
   - Virgin
   - Religious
   - Hermit
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 martyr: false
+prayers: []
 ---
 
 Born to an aristocratic family. Benedictine Cistercian nun and recluse at Tennenbach Abbey.

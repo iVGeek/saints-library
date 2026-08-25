@@ -1,19 +1,22 @@
 ---
-name: "Saint Sabbas of Mar Saba"
+name: Saint Sabbas of Mar Saba
 honorific: Saint
-summary: "Spiritual student of Saint Euthymius the Great at age 20. Anchorite from age 30, living in a cave, devoting himself to prayer and manual labor. He wove ten willow baskets each day. On Saturday he would take them to the local monastery, led by Saint Euthymius, and trade them for a"
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Sabbas-of-Mar-Saba-1.jpg"
+summary: >-
+  Spiritual student of Saint Euthymius the Great at age 20. Anchorite from age 30, living in a cave, devoting himself to
+  prayer and manual labor. He wove ten willow baskets each day. On Saturday he would take them to the local monastery,
+  led by Saint Euthymius, and trade them for a
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Sabbas-of-Mar-Saba-1.jpg
 searchAliases:
-  - "Sabbas the Sanctified"
-  - "Sabbas the Great"
-  - "Sabas…."
-  - "Sava…."
+  - Sabbas the Sanctified
+  - Sabbas the Great
+  - Sabas….
+  - Sava….
 birthYear: 439
 deathYear: 532
-born: "439 at Motalala, Cappadocia"
-died: "532 of natural causes"
-birthPlace: "Cappadocia"
-region: "Turkey"
+born: 439 at Motalala, Cappadocia
+died: 532 of natural causes
+birthPlace: Cappadocia
+region: Turkey
 feastDay:
   month: 12
   day: 5
@@ -22,8 +25,9 @@ vocation:
   - Bishop
   - Priest
   - Confessor
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 martyr: false
+prayers: []
 ---
 
 Spiritual student of Saint Euthymius the Great at age 20. Anchorite from age 30, living in a cave, devoting himself to prayer and manual labor. He wove ten willow baskets each day. On Saturday he would take them to the local monastery, led by Saint Euthymius, and trade them for a week's food, and a week's worth of willow wands for more baskets. Took over leadership of the monks upon the death of Saint Euthymius. Co-superior with Saint Theodosius over 1,000 monks and hermits in the region.

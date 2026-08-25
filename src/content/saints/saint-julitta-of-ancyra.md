@@ -1,12 +1,12 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Julitta of Ancyra"
+name: Saint Julitta of Ancyra
 honorific: Saint
-summary: "Nun martyred in the persecutions of Diocletian."
+summary: Nun martyred in the persecutions of Diocletian.
 deathYear: 304
-died: "drowned with a stone tied around her neck c.304 in Ancyra, Galatia (in modern Turkey)"
-deathPlace: "Galatia (modern Turkey)"
-region: "England"
+died: drowned with a stone tied around her neck c.304 in Ancyra, Galatia (in modern Turkey)
+deathPlace: Galatia (modern Turkey)
+region: England
 feastDay:
   month: 5
   day: 18
@@ -17,6 +17,7 @@ vocation:
   - Monk
   - Religious
 martyr: true
+prayers: []
 ---
 
 Nun martyred in the persecutions of Diocletian.

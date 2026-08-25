@@ -1,26 +1,29 @@
 ---
-name: "Venerable Jadwiga Jaroszewska"
+name: Venerable Jadwiga Jaroszewska
 honorific: Venerable
-summary: "Founded the Benedictine Samaritan Sisters of the Cross of Christ."
-image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Jadwiga-Jaroszewska.jpg"
+summary: Founded the Benedictine Samaritan Sisters of the Cross of Christ.
+image: http://catholicsaints.info/wp-content/uploads/img-Venerable-Jadwiga-Jaroszewska.jpg
 searchAliases:
-  - "Vincenta of the Passion of the Lord"
+  - Vincenta of the Passion of the Lord
 birthYear: 1900
 deathYear: 1937
-born: "7 March 1900 in Piotrkow Trybunalski, Poland"
-died: "10 November 1937 in Warsaw, Poland of natural causes"
-birthPlace: "Poland"
-deathPlace: "Polandnatural causes"
-region: "England"
+born: 7 March 1900 in Piotrkow Trybunalski, Poland
+died: 10 November 1937 in Warsaw, Poland of natural causes
+birthPlace: Poland
+deathPlace: Polandnatural causes
+region: England
 feastDay:
   month: 1
   day: 1
-centuries: [19, 20]
+centuries:
+  - 19
+  - 20
 canonizationStatus: Venerable
 vocation:
   - Religious
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 martyr: false
+prayers: []
 ---
 
 Founded the Benedictine Samaritan Sisters of the Cross of Christ.

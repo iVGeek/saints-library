@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Austriclinian of Limoges"
+name: Saint Austriclinian of Limoges
 honorific: Saint
-summary: "Priest in the diocese of Limoges, France. Worked with Saint Martial of Limoges."
+summary: Priest in the diocese of Limoges, France. Worked with Saint Martial of Limoges.
 deathYear: 250
-died: "c.250"
-region: "France"
+died: c.250
+region: France
 feastDay:
   month: 6
   day: 30
@@ -14,6 +14,7 @@ vocation:
   - Priest
   - Monk
 martyr: false
+prayers: []
 ---
 
 Priest in the diocese of Limoges, France. Worked with Saint Martial of Limoges.

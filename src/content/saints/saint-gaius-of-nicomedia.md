@@ -21,6 +21,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/3/3b/FortyMartyrsofSebaste.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Gaius of Nicomedia
 imageCreditUrl: https://en.wikipedia.org/wiki/Forty%20Martyrs%20of%20Sebaste
+prayers: []
 ---
 
 Officer in the Roman emperor's palace. Martyred with 27 companions.

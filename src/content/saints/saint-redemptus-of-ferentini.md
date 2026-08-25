@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Redemptus of Ferentini"
+name: Saint Redemptus of Ferentini
 honorific: Saint
-summary: "Bishop of Ferentini, Italy."
+summary: Bishop of Ferentini, Italy.
 deathYear: 586
-died: "586"
-region: "Italy"
+died: '586'
+region: Italy
 feastDay:
   month: 4
   day: 8
@@ -14,6 +14,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Bishop of Ferentini, Italy.

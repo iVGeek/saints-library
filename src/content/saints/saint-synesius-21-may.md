@@ -1,20 +1,21 @@
 ---
-name: "Saint Synesius"
+name: Saint Synesius
 honorific: Saint
-summary: "Martyr."
+summary: Martyr.
 searchAliases:
-  - "Senesio"
-region: "Italy"
+  - Senesio
+region: Italy
 feastDay:
   month: 5
   day: 21
 canonizationStatus: Saint
-image: "https://upload.wikimedia.org/wikipedia/commons/b/ba/Syn%C3%A9sios_de_Cyr%C3%A8ne.png"
+image: https://upload.wikimedia.org/wikipedia/commons/b/ba/Syn%C3%A9sios_de_Cyr%C3%A8ne.png
 vocation:
   - Monk
 patronage:
-  - "Castelvetro di Modena, Italy"
+  - Castelvetro di Modena, Italy
 martyr: true
+prayers: []
 ---
 
 Martyr.

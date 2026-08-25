@@ -26,6 +26,7 @@ imageCredit: >-
   2x" data-file-width="620" data-file-height="620"></a></span> <a rel="nofollow" class="external text"
   href="https://www.dorotheum.com/en/l/9846803/">Info about artwork</a>
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:Lucien%20Adrion%20Hippodrome.jpg
+prayers: []
 ---
 
 Martyr.

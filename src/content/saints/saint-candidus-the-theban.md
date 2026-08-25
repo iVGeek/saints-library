@@ -1,14 +1,14 @@
 ---
-name: "Saint Candidus the Theban"
+name: Saint Candidus the Theban
 honorific: Saint
-summary: "Soldier. Martyr. One of the Martyrs of the Theban Legion. No other information has survived."
-image: "http://catholicsaints.info/wp-content/uploads/Candidusaynebru.jpg"
+summary: Soldier. Martyr. One of the Martyrs of the Theban Legion. No other information has survived.
+image: http://catholicsaints.info/wp-content/uploads/Candidusaynebru.jpg
 searchAliases:
-  - "Candid"
+  - Candid
 deathYear: 287
-died: "c.287 in Agaunum (modern St-Maurice-en-Valais, Switzerland)"
-deathPlace: "Switzerland)"
-region: "France"
+died: c.287 in Agaunum (modern St-Maurice-en-Valais, Switzerland)
+deathPlace: Switzerland)
+region: France
 feastDay:
   month: 9
   day: 22
@@ -16,8 +16,12 @@ canonizationStatus: Saint
 vocation:
   - Soldier
 patronage:
-  - "in France\n\nAuxerre"
+  - |-
+    in France
+
+    Auxerre
 martyr: true
+prayers: []
 ---
 
 Soldier. Martyr. One of the Martyrs of the Theban Legion. No other information has survived.

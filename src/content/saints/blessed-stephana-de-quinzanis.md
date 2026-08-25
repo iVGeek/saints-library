@@ -1,18 +1,21 @@
 ---
-name: "Blessed Stephana de Quinzanis"
+name: Blessed Stephana de Quinzanis
 honorific: Blessed
-summary: "Born to pious parents; her father became a Dominican tertiary while Stephana was very young. She was taught her catechism by the stigmatic Blessed Matthew Carrieri who lived at the nearby Dominican convent; though she was too small to understand, he told her that she was to be hi"
-image: "https://upload.wikimedia.org/wikipedia/commons/5/56/Quinzani.jpg"
+summary: >-
+  Born to pious parents; her father became a Dominican tertiary while Stephana was very young. She was taught her
+  catechism by the stigmatic Blessed Matthew Carrieri who lived at the nearby Dominican convent; though she was too
+  small to understand, he told her that she was to be hi
+image: https://upload.wikimedia.org/wikipedia/commons/5/56/Quinzani.jpg
 searchAliases:
-  - "Stefana Quinzani"
-  - "Stephanie de Quinzanis"
+  - Stefana Quinzani
+  - Stephanie de Quinzanis
 birthYear: 1457
 deathYear: 1530
-born: "1457 at Soncino, Italy"
-died: "2 January 1530 of at Soncino, Italy of natural causes"
-birthPlace: "Italy"
-deathPlace: "Italynatural causes"
-region: "Italy"
+born: 1457 at Soncino, Italy
+died: 2 January 1530 of at Soncino, Italy of natural causes
+birthPlace: Italy
+deathPlace: Italynatural causes
+region: Italy
 feastDay:
   month: 1
   day: 2
@@ -21,8 +24,9 @@ vocation:
   - Virgin
   - Priest
   - Religious
-religiousOrder: "Dominican"
+religiousOrder: Dominican
 martyr: false
+prayers: []
 ---
 
 Born to pious parents; her father became a Dominican tertiary while Stephana was very young. She was taught her catechism by the stigmatic Blessed Matthew Carrieri who lived at the nearby Dominican convent; though she was too small to understand, he told her that she was to be his spiritual heiress. She began receiving visions of Dominican saints from age seven, at which point she made personal vows of poverty, chastity and obedience.

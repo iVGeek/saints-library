@@ -1,14 +1,14 @@
 ---
-name: "Saint Domitius of Phrygia"
+name: Saint Domitius of Phrygia
 honorific: Saint
-summary: "Convert to Christianity. Hermit at Nisibis, Mesopotamia. Martyred for challenging Julian the Apostate."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Domitius-of-Phrygia.jpg"
+summary: Convert to Christianity. Hermit at Nisibis, Mesopotamia. Martyred for challenging Julian the Apostate.
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Domitius-of-Phrygia.jpg
 searchAliases:
-  - "Dometius"
+  - Dometius
 deathYear: 362
-born: "Persian"
-died: "stoned to death in 362"
-region: "England"
+born: Persian
+died: stoned to death in 362
+region: England
 feastDay:
   month: 7
   day: 5
@@ -17,6 +17,7 @@ vocation:
   - Monk
   - Hermit
 martyr: true
+prayers: []
 ---
 
 Convert to Christianity. Hermit at Nisibis, Mesopotamia. Martyred for challenging Julian the Apostate.

@@ -1,13 +1,15 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Peregrinus of Modena"
+name: Saint Peregrinus of Modena
 honorific: Saint
-summary: "Celtic monk. Pilgrim to the Holy Lands. On his return, he spent the rest of his life as a hermit in the Apennines near Modena, Italy where he was known by the locals for his sanctity."
+summary: >-
+  Celtic monk. Pilgrim to the Holy Lands. On his return, he spent the rest of his life as a hermit in the Apennines near
+  Modena, Italy where he was known by the locals for his sanctity.
 searchAliases:
-  - "Pellegrino of Modena"
+  - Pellegrino of Modena
 deathYear: 643
-died: "643 of natural causes"
-region: "Italy"
+died: 643 of natural causes
+region: Italy
 feastDay:
   month: 8
   day: 1
@@ -17,12 +19,16 @@ vocation:
   - Monk
   - Hermit
 patronage:
-  - "pilgrims"
-  - "–"
-  - "in Italy\n\nCasola in Lunigiana"
-  - "Lucca"
-  - "Modena"
+  - pilgrims
+  - –
+  - |-
+    in Italy
+
+    Casola in Lunigiana
+  - Lucca
+  - Modena
 martyr: false
+prayers: []
 ---
 
 Celtic monk. Pilgrim to the Holy Lands. On his return, he spent the rest of his life as a hermit in the Apennines near Modena, Italy where he was known by the locals for his sanctity.

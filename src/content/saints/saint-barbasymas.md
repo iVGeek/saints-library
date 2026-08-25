@@ -1,15 +1,18 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Barbasymas"
+name: Saint Barbasymas
 honorific: Saint
-summary: "Bishop of Seleucia and Ctesiphon, Greece in 342. Arrested and tortured with sixteen priests in the persecutions of King Shapur II; the names of his companions have not come down to us. Barbasymas was offered a cup filled with gold coins if he would worship the Persian god; he dec"
+summary: >-
+  Bishop of Seleucia and Ctesiphon, Greece in 342. Arrested and tortured with sixteen priests in the persecutions of
+  King Shapur II; the names of his companions have not come down to us. Barbasymas was offered a cup filled with gold
+  coins if he would worship the Persian god; he dec
 searchAliases:
-  - "Barba'shmin"
-  - "Barbascemin"
-  - "Barbasceminus"
+  - Barba'shmin
+  - Barbascemin
+  - Barbasceminus
 deathYear: 346
-died: "beheaded in 346 in Persia"
-region: "Greece"
+died: beheaded in 346 in Persia
+region: Greece
 feastDay:
   month: 1
   day: 14
@@ -19,6 +22,7 @@ vocation:
   - Priest
   - Monk
 martyr: true
+prayers: []
 ---
 
 Bishop of Seleucia and Ctesiphon, Greece in 342. Arrested and tortured with sixteen priests in the persecutions of King Shapur II; the names of his companions have not come down to us. Barbasymas was offered a cup filled with gold coins if he would worship the Persian god; he declined. Martyred with the sixteen priests.

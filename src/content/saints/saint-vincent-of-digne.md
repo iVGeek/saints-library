@@ -20,6 +20,7 @@ vocation:
 patronage:
   - Digne, France
 martyr: false
+prayers: []
 ---
 
 Missionary to the Dauphiné area of France. Bishop of Digne, France.

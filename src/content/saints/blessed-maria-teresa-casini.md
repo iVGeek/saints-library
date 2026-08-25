@@ -1,17 +1,22 @@
 ---
-name: "Blessed Maria Teresa Casini"
+name: Blessed Maria Teresa Casini
 honorific: Blessed
-summary: "Born to a wealthy family, the eldest daughter of Tommaso Casini, an engineer, and Melania Rayner, she was baptized at the age of two days at the cathedral of Frascati, Italy. Her father died when Teresa was about ten years old, and she and her mother moved in with her maternal gr"
-image: "https://upload.wikimedia.org/wikipedia/commons/6/67/Maria_Teresa_Casini.png"
+summary: >-
+  Born to a wealthy family, the eldest daughter of Tommaso Casini, an engineer, and Melania Rayner, she was baptized at
+  the age of two days at the cathedral of Frascati, Italy. Her father died when Teresa was about ten years old, and she
+  and her mother moved in with her maternal gr
+image: https://upload.wikimedia.org/wikipedia/commons/6/67/Maria_Teresa_Casini.png
 searchAliases:
-  - "Sister Maria Serafina of the Heart of Jesus Pierced"
+  - Sister Maria Serafina of the Heart of Jesus Pierced
 birthYear: 1864
 deathYear: 1937
-born: "27 October 1864 in Frascati, Italy"
-died: "around 5am on 3 April 1937 at Oblate monastery on the via del Casaletto in Grottaferrata, Rome, Italy of natural causes"
-birthPlace: "Italy"
-deathPlace: "Rome, Italynatural causes"
-region: "Brazil"
+born: 27 October 1864 in Frascati, Italy
+died: >-
+  around 5am on 3 April 1937 at Oblate monastery on the via del Casaletto in Grottaferrata, Rome, Italy of natural
+  causes
+birthPlace: Italy
+deathPlace: Rome, Italynatural causes
+region: Brazil
 feastDay:
   month: 4
   day: 3
@@ -20,10 +25,11 @@ vocation:
   - Bishop
   - Priest
   - Missionary
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 patronage:
-  - "Oblates of the Sacred Heart of Jesus"
+  - Oblates of the Sacred Heart of Jesus
 martyr: false
+prayers: []
 ---
 
 Born to a wealthy family, the eldest daughter of Tommaso Casini, an engineer, and Melania Rayner, she was baptized at the age of two days at the cathedral of Frascati, Italy. Her father died when Teresa was about ten years old, and she and her mother moved in with her maternal grandparents. In 1875 she began studying at the school at Santa Rufina in Rome, Italy, which was run by Society of the Sacred Heart nuns. Teresa early felt a call to religious life, and though she had a number of set-backs due to health problems, and faced some family opposition, she entered Poor Clare Sepolte Vive monastery in Rome on 2 February 1885, taking the name Sister Maria Serafina of the Heart of Jesus Pierced.

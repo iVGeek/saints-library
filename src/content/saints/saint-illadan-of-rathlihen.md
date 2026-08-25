@@ -1,12 +1,12 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Illadan of Rathlihen"
+name: Saint Illadan of Rathlihen
 honorific: Saint
-summary: "Sixth century bishop of Rathlihen, Offaly, Ireland."
+summary: Sixth century bishop of Rathlihen, Offaly, Ireland.
 searchAliases:
-  - "Illathan"
-  - "Iolladham"
-region: "Ireland"
+  - Illathan
+  - Iolladham
+region: Ireland
 feastDay:
   month: 6
   day: 10
@@ -15,6 +15,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Sixth century bishop of Rathlihen, Offaly, Ireland.

@@ -1,16 +1,17 @@
 ---
-name: "Saint Glyceria of Heraclea"
+name: Saint Glyceria of Heraclea
 honorific: Saint
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Glyceria-of-Heraclea.jpg"
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Glyceria-of-Heraclea.jpg
 searchAliases:
-  - "Gliceria"
-died: "Heraclea, Thrace"
-deathPlace: "Thrace"
-region: "Italy"
+  - Gliceria
+died: Heraclea, Thrace
+deathPlace: Thrace
+region: Italy
 feastDay:
   month: 7
   day: 8
 canonizationStatus: Saint
 vocation: []
 martyr: false
+prayers: []
 ---

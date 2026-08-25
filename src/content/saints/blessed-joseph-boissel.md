@@ -1,15 +1,18 @@
 ---
-name: "Blessed Joseph Boissel"
+name: Blessed Joseph Boissel
 honorific: Blessed
-summary: "Born to a poor peasant family, Joseph was baptized on the day of his birth. His father died when the boy was 14. Joseph studied at the junior seminary of the Missionary Oblates of Mary Immaculate on the Isle of Jersey, and then on the Isle of Berder, France; he was considered a v"
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Joseph-Boissel.jpg"
+summary: >-
+  Born to a poor peasant family, Joseph was baptized on the day of his birth. His father died when the boy was 14.
+  Joseph studied at the junior seminary of the Missionary Oblates of Mary Immaculate on the Isle of Jersey, and then on
+  the Isle of Berder, France; he was considered a v
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Joseph-Boissel.jpg
 birthYear: 1909
 deathYear: 1969
-born: "20 December 1909 in Le Loroux, Ille-et-Vilaine, France"
-died: "shot in the head while driving on Saturday 5 July 1969 on the road near Hat I-Et, Bolikhamxay, Laos"
-birthPlace: "Ille-et-Vilaine, France"
-deathPlace: "Bolikhamxay, Laos"
-region: "Japan"
+born: 20 December 1909 in Le Loroux, Ille-et-Vilaine, France
+died: shot in the head while driving on Saturday 5 July 1969 on the road near Hat I-Et, Bolikhamxay, Laos
+birthPlace: Ille-et-Vilaine, France
+deathPlace: Bolikhamxay, Laos
+region: Japan
 feastDay:
   month: 7
   day: 5
@@ -18,6 +21,7 @@ vocation:
   - Priest
   - Missionary
 martyr: true
+prayers: []
 ---
 
 Born to a poor peasant family, Joseph was baptized on the day of his birth. His father died when the boy was 14. Joseph studied at the junior seminary of the Missionary Oblates of Mary Immaculate on the Isle of Jersey, and then on the Isle of Berder, France; he was considered a very ordinary student, and not very intelligent. However, he was pious, hard-working, and had other qualities of a spiritual leader, and so was sent to study in Liege, Belgium and La Brosse-Montceaux, France. He made his solemn oblation on 29 September 1935, and was ordained a priest on 4 July 1937.

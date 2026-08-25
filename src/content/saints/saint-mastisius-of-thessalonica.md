@@ -1,17 +1,18 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Mastisius of Thessalonica"
+name: Saint Mastisius of Thessalonica
 honorific: Saint
-summary: "Martyred in Thessalonica in Greece, date unknown. No other information has survived."
+summary: Martyred in Thessalonica in Greece, date unknown. No other information has survived.
 searchAliases:
-  - "Mars"
-region: "Greece"
+  - Mars
+region: Greece
 feastDay:
   month: 4
   day: 2
 canonizationStatus: Saint
 vocation: []
 martyr: true
+prayers: []
 ---
 
 Martyred in Thessalonica in Greece, date unknown. No other information has survived.

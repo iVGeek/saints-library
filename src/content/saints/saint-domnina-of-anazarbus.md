@@ -16,6 +16,7 @@ image: https://commons.wikimedia.org/wiki/Special:FilePath/Menologion_of_Basil_0
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Young Christian woman tortured and martyred in the persecutions of Lysias.

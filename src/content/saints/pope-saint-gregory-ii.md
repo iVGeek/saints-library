@@ -28,6 +28,7 @@ vocation:
   - Confessor
 religiousOrder: Benedictine
 martyr: false
+prayers: []
 ---
 
 Involved in Church affairs from an early age. Pope Saint Sergius I ordained Gregory a sub-deacon. He served the next four popes as treasurer of the Church, then librarian. Assigned important missions. Accompanied Pope Constantine to Constantinople for discussions with Emperor Justinian II.

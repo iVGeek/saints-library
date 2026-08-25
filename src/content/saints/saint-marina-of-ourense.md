@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Marina of Ourense"
+name: Saint Marina of Ourense
 honorific: Saint
-summary: "Martyr. No other information has survived."
-died: "Ourense, Spain, date unknown"
-deathPlace: "Spain, date unknown"
-region: "Spain"
+summary: Martyr. No other information has survived.
+died: Ourense, Spain, date unknown
+deathPlace: Spain, date unknown
+region: Spain
 feastDay:
   month: 7
   day: 18
@@ -13,6 +13,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Martyr. No other information has survived.

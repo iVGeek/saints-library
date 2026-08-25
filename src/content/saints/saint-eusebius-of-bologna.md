@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Eusebius of Bologna"
+name: Saint Eusebius of Bologna
 honorific: Saint
-summary: "Bishop of Bologna, Italy c.370. Friend of Saint Ambrose of Milan. Fought against Arianism."
+summary: Bishop of Bologna, Italy c.370. Friend of Saint Ambrose of Milan. Fought against Arianism.
 deathYear: 400
-died: "c.400"
-region: "Italy"
+died: c.400
+region: Italy
 feastDay:
   month: 9
   day: 26
@@ -14,6 +14,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Bishop of Bologna, Italy c.370. Friend of Saint Ambrose of Milan. Fought against Arianism.

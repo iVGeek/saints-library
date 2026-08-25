@@ -1,23 +1,24 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed José López Tascón"
+name: Blessed José López Tascón
 honorific: Blessed
-summary: "Dominican priest. Martyred in the Spanish Civil War."
+summary: Dominican priest. Martyred in the Spanish Civil War.
 birthYear: 1896
 deathYear: 1936
-born: "3 March 1896 in Aviados, León, Spain"
-died: "25 July 1936 in Madrid, Spain"
-birthPlace: "León, Spain"
-deathPlace: "Spain"
-region: "Spain"
+born: 3 March 1896 in Aviados, León, Spain
+died: 25 July 1936 in Madrid, Spain
+birthPlace: León, Spain
+deathPlace: Spain
+region: Spain
 feastDay:
   month: 7
   day: 25
 canonizationStatus: Blessed
 vocation:
   - Priest
-religiousOrder: "Dominican"
+religiousOrder: Dominican
 martyr: true
+prayers: []
 ---
 
 Dominican priest. Martyred in the Spanish Civil War.

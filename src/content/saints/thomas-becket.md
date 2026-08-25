@@ -2,8 +2,11 @@
 name: Thomas Becket
 honorific: Saint
 title: Bishop, Martyr
-summary: The archbishop of Canterbury who defied a king, stood for the Church against the crown, and fell before the altar in his own cathedral.
-image: https://upload.wikimedia.org/wikipedia/commons/4/4e/London._British_Library%2C_Cotton_MS_Claudius_B_II._f.341r_%28cropped%29.jpg
+summary: >-
+  The archbishop of Canterbury who defied a king, stood for the Church against the crown, and fell before the altar in
+  his own cathedral.
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/4/4e/London._British_Library%2C_Cotton_MS_Claudius_B_II._f.341r_%28cropped%29.jpg
 imageAlt: Portrait of Thomas Becket
 imageCredit: Wikimedia Commons
 searchAliases:
@@ -17,8 +20,9 @@ born: 21 December 1118
 died: 29 December 1170
 birthPlace: London, England
 deathPlace: Canterbury, England
-region: "France"
-centuries: [12]
+region: France
+centuries:
+  - 12
 feastDay:
   month: 12
   day: 29
@@ -41,32 +45,32 @@ symbols:
   - Martyr's palm
 martyr: true
 lifeEvents:
-  - year: "21 December 1118"
+  - year: 21 December 1118
     event: Born in London, son of a wealthy Norman merchant.
-  - year: "1154"
+  - year: '1154'
     event: Appointed Chancellor of England by King Henry II; his friend and boon companion.
-  - year: "2 June 1162"
+  - year: 2 June 1162
     event: Consecrated archbishop of Canterbury; from courtier he becomes ascetic and defender of the Church.
-  - year: "1164"
+  - year: '1164'
     event: Opposes the Constitutions of Clarendon, which would subject clergy to the crown; he flees to France.
-  - year: "1170"
+  - year: '1170'
     event: Returns to England after a reconciliation with the king, but the quarrel reignites.
-  - year: "29 December 1170"
-    event: Murdered before the altar of Canterbury by four knights who heard the king cry, "Who will rid me of this turbulent priest?"
-  - year: "21 February 1173"
+  - year: 29 December 1170
+    event: >-
+      Murdered before the altar of Canterbury by four knights who heard the king cry, "Who will rid me of this turbulent
+      priest?"
+  - year: 21 February 1173
     event: Canonized by Pope Alexander III; Canterbury becomes the great pilgrimage shrine of England.
 quotes:
-  - text: >-
-      For the name of Jesus and the defense of the Church, I am ready to embrace death.
+  - text: For the name of Jesus and the defense of the Church, I am ready to embrace death.
     source: The words of Saint Thomas Becket before his murder
 prayers:
   - name: Prayer to Saint Thomas Becket
     kind: Prayer for the Church's freedom and for those in public office
     text: >-
-      O Saint Thomas Becket, who gave your life that the Church might serve no master but God,
-      strengthen all who lead in church and state. Give them courage to speak truth to power,
-      wisdom to serve justice, and constancy unto death, that the flock may never be scattered
-      by fear. Amen.
+      O Saint Thomas Becket, who gave your life that the Church might serve no master but God, strengthen all who lead
+      in church and state. Give them courage to speak truth to power, wisdom to serve justice, and constancy unto death,
+      that the flock may never be scattered by fear. Amen.
 relatedSaints:
   - name: John Fisher
     slug: john-fisher

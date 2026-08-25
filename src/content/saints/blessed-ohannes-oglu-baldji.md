@@ -1,21 +1,22 @@
 ---
-name: "Blessed Ohannes oglu Baldji"
+name: Blessed Ohannes oglu Baldji
 honorific: Blessed
-summary: "Married layman. One of the Martyrs of Armenia."
-image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Armenia.jpg"
+summary: Married layman. One of the Martyrs of Armenia.
+image: http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Armenia.jpg
 birthYear: 1860
 deathYear: 1895
-born: "c.1860 in Mucuk, Mut, Mersin, Armenia"
-died: "22 November 1895 in Mujuk-Dersi, Armenia (modern Turkey)"
-birthPlace: "Mut, Mersin, Armenia"
-deathPlace: "Armenia (modern Turkey)"
-region: "England"
+born: c.1860 in Mucuk, Mut, Mersin, Armenia
+died: 22 November 1895 in Mujuk-Dersi, Armenia (modern Turkey)
+birthPlace: Mut, Mersin, Armenia
+deathPlace: Armenia (modern Turkey)
+region: England
 feastDay:
   month: 11
   day: 22
 canonizationStatus: Blessed
 vocation: []
 martyr: true
+prayers: []
 ---
 
 Married layman. One of the Martyrs of Armenia.

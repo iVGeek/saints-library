@@ -1,14 +1,17 @@
 ---
-name: "Saint Febronia of Nisibis"
+name: Saint Febronia of Nisibis
 honorific: Saint
-summary: "Beautiful young woman at Nisibis, Mesopotamia who had dedicated her life to God. During the persecutions of Diocletian, she was arrested for her faith. She was offered freedom if she would renounce Christianity, marry Diocletian's nephew Lysimachus, and stop him from joining the"
-image: "https://upload.wikimedia.org/wikipedia/commons/6/6d/Martirio_s._febronia%2C_coste%2C_palagonia.jpg"
+summary: >-
+  Beautiful young woman at Nisibis, Mesopotamia who had dedicated her life to God. During the persecutions of
+  Diocletian, she was arrested for her faith. She was offered freedom if she would renounce Christianity, marry
+  Diocletian's nephew Lysimachus, and stop him from joining the
+image: https://upload.wikimedia.org/wikipedia/commons/6/6d/Martirio_s._febronia%2C_coste%2C_palagonia.jpg
 searchAliases:
-  - "Febronia of Sebapte"
+  - Febronia of Sebapte
 deathYear: 304
-born: "3rd century"
-died: "304"
-region: "England"
+born: 3rd century
+died: '304'
+region: England
 feastDay:
   month: 6
   day: 25
@@ -17,8 +20,9 @@ vocation:
   - Virgin
   - Priest
   - Monk
-religiousOrder: "Jesuit"
+religiousOrder: Jesuit
 martyr: false
+prayers: []
 ---
 
 Beautiful young woman at Nisibis, Mesopotamia who had dedicated her life to God. During the persecutions of Diocletian, she was arrested for her faith. She was offered freedom if she would renounce Christianity, marry Diocletian's nephew Lysimachus, and stop him from joining the Church; she declined. Tortured, mutilated and murdered. Lysimachus, who had been leaning toward Christianity to begin with, converted along with many of the witnesses to Febronia's abuse; the judge, Selenus, went insane and killed himself.

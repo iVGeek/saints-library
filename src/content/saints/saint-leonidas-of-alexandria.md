@@ -1,14 +1,17 @@
 ---
-name: "Saint Leonidas of Alexandria"
+name: Saint Leonidas of Alexandria
 honorific: Saint
-summary: "Wealthy and pious layman. Father of seven sons, the eldest of whom was the philosopher Origen, whom he raised and taught. Philosopher and rhetorician. Imprisoned and martyred by command of Laertus, Governor of Egypt, during the persecutions of emperor Septimius Severus. All his p"
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Leonidas-of-Alexandria.jpg"
+summary: >-
+  Wealthy and pious layman. Father of seven sons, the eldest of whom was the philosopher Origen, whom he raised and
+  taught. Philosopher and rhetorician. Imprisoned and martyred by command of Laertus, Governor of Egypt, during the
+  persecutions of emperor Septimius Severus. All his p
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Leonidas-of-Alexandria.jpg
 searchAliases:
-  - "Leonides"
+  - Leonides
 deathYear: 202
-died: "beheaded in 202 at Alexandria, Egypt"
-deathPlace: "Egypt"
-region: "Egypt"
+died: beheaded in 202 at Alexandria, Egypt
+deathPlace: Egypt
+region: Egypt
 feastDay:
   month: 4
   day: 22
@@ -17,6 +20,7 @@ vocation:
   - Priest
   - Monk
 martyr: true
+prayers: []
 ---
 
 Wealthy and pious layman. Father of seven sons, the eldest of whom was the philosopher Origen, whom he raised and taught. Philosopher and rhetorician. Imprisoned and martyred by command of Laertus, Governor of Egypt, during the persecutions of emperor Septimius Severus. All his property was confiscated, and his family reduced to complete poverty until they were “adopted” by a wealthy Christian woman.

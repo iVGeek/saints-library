@@ -1,19 +1,20 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Beatrice of Amptenhausen"
+name: Blessed Beatrice of Amptenhausen
 honorific: Blessed
-summary: "An 11th-12th century Benedictine nun at Amptenhausen, diocese of Cologne, Germany."
+summary: An 11th-12th century Benedictine nun at Amptenhausen, diocese of Cologne, Germany.
 deathYear: 1111
-died: "1 January 1111 of natural causes"
-region: "Germany"
+died: 1 January 1111 of natural causes
+region: Germany
 feastDay:
   month: 1
   day: 1
 canonizationStatus: Blessed
 vocation:
   - Religious
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 martyr: false
+prayers: []
 ---
 
 An 11th–12th century Benedictine nun at Amptenhausen, diocese of Cologne, Germany.

@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Lupicinus of Lyon"
+name: Saint Lupicinus of Lyon
 honorific: Saint
-summary: "Bishop of Lyon, France in 486."
+summary: Bishop of Lyon, France in 486.
 searchAliases:
-  - "Lupicino"
-region: "France"
+  - Lupicino
+region: France
 feastDay:
   month: 2
   day: 3
@@ -14,6 +14,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Bishop of Lyon, France in 486.

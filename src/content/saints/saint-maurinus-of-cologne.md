@@ -15,6 +15,7 @@ image: https://commons.wikimedia.org/wiki/Special:FilePath/K%25C3%25B6ln_St._Pan
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Monk at the monastery of Saint Panteleon, Cologne, Germany. Probably served as abbot of his house. Martyr.

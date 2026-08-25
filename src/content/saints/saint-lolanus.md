@@ -1,13 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Lolanus"
+name: Saint Lolanus
 honorific: Saint
-summary: "Bishop in the area of Perth, Scotland."
+summary: Bishop in the area of Perth, Scotland.
 searchAliases:
-  - "Lolan"
+  - Lolan
 deathYear: 1034
-died: "c.1034"
-region: "Scotland"
+died: c.1034
+region: Scotland
 feastDay:
   month: 9
   day: 22
@@ -16,6 +16,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Bishop in the area of Perth, Scotland.

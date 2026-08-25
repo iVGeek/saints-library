@@ -1,29 +1,34 @@
 ---
-name: "Saint Philip Howard"
+name: Saint Philip Howard
 honorific: Venerable
-summary: "Grandson of the poet Henry, Earl of Surrey, who was executed by King Henry VIII in 1547. Son of Thomas, the 4th Duke of Norfolk. Godson of King Philip of Spain. His parents were Protestant, but his mother returned to Catholicism and helped hide priests. Married to Anne, daughter"
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Philip-Howard.jpg"
+summary: >-
+  Grandson of the poet Henry, Earl of Surrey, who was executed by King Henry VIII in 1547. Son of Thomas, the 4th Duke
+  of Norfolk. Godson of King Philip of Spain. His parents were Protestant, but his mother returned to Catholicism and
+  helped hide priests. Married to Anne, daughter
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Philip-Howard.jpg
 birthYear: 1557
 deathYear: 1595
-born: "28 June 1557 at Norfolk, England"
-died: "19 October 1595 of malnutrition in the Tower of London, London, England"
-birthPlace: "England"
-deathPlace: "London, England"
-region: "Spain"
+born: 28 June 1557 at Norfolk, England
+died: 19 October 1595 of malnutrition in the Tower of London, London, England
+birthPlace: England
+deathPlace: London, England
+region: Spain
 feastDay:
   month: 10
   day: 19
-centuries: [16]
+centuries:
+  - 16
 canonizationStatus: Venerable
 vocation:
   - Priest
 patronage:
-  - "Arundel and Brighton, England, diocese of"
-  - "betrayal victims"
-  - "difficult marriages"
-  - "falsely accused people"
-  - "separated spouses"
+  - Arundel and Brighton, England, diocese of
+  - betrayal victims
+  - difficult marriages
+  - falsely accused people
+  - separated spouses
 martyr: true
+prayers: []
 ---
 
 Grandson of the poet Henry, Earl of Surrey, who was executed by King Henry VIII in 1547. Son of Thomas, the 4th Duke of Norfolk. Godson of King Philip of Spain. His parents were Protestant, but his mother returned to Catholicism and helped hide priests. Married to Anne, daughter of Lord d'Acre, at age 14. His father was beheaded by Queen Elizabeth in 1572 when Phillip was 15. Grandfather of Blessed William Howard. Graduated from Saint John's College, Cambridge in 1574. Courtier to Queen Elizabeth at age 18. Earl of Arundel and Surrey on 24 February 1580. At the royal court he led a sinful and dissolute life.

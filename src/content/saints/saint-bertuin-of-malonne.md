@@ -1,17 +1,19 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Bertuin of Malonne"
+name: Saint Bertuin of Malonne
 honorific: Saint
-summary: "Raised in an English monastery. Monk at Othelle. Missionary bishop in Belgium. Founded the monastery of Malonne near Namur, Belgium."
+summary: >-
+  Raised in an English monastery. Monk at Othelle. Missionary bishop in Belgium. Founded the monastery of Malonne near
+  Namur, Belgium.
 searchAliases:
-  - "Bertuinus"
-  - "Bertwinus"
-  - "Berthuin"
-  - "Bertuino"
+  - Bertuinus
+  - Bertwinus
+  - Berthuin
+  - Bertuino
 deathYear: 698
-born: "England"
-died: "c.698"
-region: "Belgium"
+born: England
+died: c.698
+region: Belgium
 feastDay:
   month: 11
   day: 11
@@ -21,6 +23,7 @@ vocation:
   - Monk
   - Missionary
 martyr: false
+prayers: []
 ---
 
 Raised in an English monastery. Monk at Othelle. Missionary bishop in Belgium. Founded the monastery of Malonne near Namur, Belgium.

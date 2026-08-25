@@ -1,18 +1,20 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Sabinus of the Lavedan"
+name: Saint Sabinus of the Lavedan
 honorific: Saint
-summary: "Educated in Poitiers, France. Benedictine monk at Liguge. Evangelist to the mountainous Lavedan region of the Pyrenees in France. Hermit."
+summary: >-
+  Educated in Poitiers, France. Benedictine monk at Liguge. Evangelist to the mountainous Lavedan region of the Pyrenees
+  in France. Hermit.
 searchAliases:
-  - "Sabino"
-  - "Savin"
-  - "Savinus"
-  - "Apostle of the Lavedan"
+  - Sabino
+  - Savin
+  - Savinus
+  - Apostle of the Lavedan
 deathYear: 820
-born: "Barcelona, Spain"
-died: "c.820 of natural causes"
-birthPlace: "Spain"
-region: "France"
+born: Barcelona, Spain
+died: c.820 of natural causes
+birthPlace: Spain
+region: France
 feastDay:
   month: 10
   day: 9
@@ -21,13 +23,17 @@ vocation:
   - Priest
   - Monk
   - Hermit
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 patronage:
-  - "in France\n\nLavedan"
-  - "Liguge"
-  - "Poitiers"
-  - "Poncy Aspé"
+  - |-
+    in France
+
+    Lavedan
+  - Liguge
+  - Poitiers
+  - Poncy Aspé
 martyr: false
+prayers: []
 ---
 
 Educated in Poitiers, France. Benedictine monk at Liguge. Evangelist to the mountainous Lavedan region of the Pyrenees in France. Hermit.

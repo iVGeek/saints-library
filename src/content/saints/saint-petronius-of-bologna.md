@@ -30,6 +30,7 @@ patronage:
   - Bologna, city of
   - Castel Bolognese
 martyr: false
+prayers: []
 ---
 
 Son of a Praetorian Prefect in Gaul, and may have been a Roman official himself. Pilgrim to the Holy Lands and the ascetics in Palestine in his youth. Bishop of Bologna, Italy. Built the monastery of Saint Stephen in Bologna; it was modeled on the holy places of Jerusalem. A fictional version of his life was popular in the Middle Ages.

@@ -1,17 +1,20 @@
 ---
-name: "Saint Hugh of Lincoln"
+name: Saint Hugh of Lincoln
 honorific: Saint
-summary: "Born to the nobility, the son of William, Lord of Avalon. His mother Anna died when he was eight, and he was raised and educated at a convent at Villard-Benoit in France. Monk at 15. Deacon at 19. Prior of a monastery at Saint-Maxim. Joined the Carthusians in 1160. Ordained in 11"
-image: "https://upload.wikimedia.org/wikipedia/commons/1/19/Hug-lin-pi.jpg"
+summary: >-
+  Born to the nobility, the son of William, Lord of Avalon. His mother Anna died when he was eight, and he was raised
+  and educated at a convent at Villard-Benoit in France. Monk at 15. Deacon at 19. Prior of a monastery at Saint-Maxim.
+  Joined the Carthusians in 1160. Ordained in 11
+image: https://upload.wikimedia.org/wikipedia/commons/1/19/Hug-lin-pi.jpg
 searchAliases:
-  - "Hugh of Avalon"
-  - "Hugh of Burgundy"
-  - "Hew…"
-  - "Hugonis…"
+  - Hugh of Avalon
+  - Hugh of Burgundy
+  - Hew…
+  - Hugonis…
 deathYear: 1200
-died: "16 November 1200 at London, England of natural causes"
-deathPlace: "Englandnatural causes"
-region: "France"
+died: 16 November 1200 at London, England of natural causes
+deathPlace: Englandnatural causes
+region: France
 feastDay:
   month: 11
   day: 17
@@ -22,14 +25,15 @@ vocation:
   - Deacon
   - Confessor
 patronage:
-  - "sick children"
-  - "sick people"
-  - "swans"
-  - "–"
-  - "Avalon, France"
-  - "Lincoln, England"
-  - "Nottingham, England, diocese of"
+  - sick children
+  - sick people
+  - swans
+  - –
+  - Avalon, France
+  - Lincoln, England
+  - Nottingham, England, diocese of
 martyr: false
+prayers: []
 ---
 
 Born to the nobility, the son of William, Lord of Avalon. His mother Anna died when he was eight, and he was raised and educated at a convent at Villard-Benoit in France. Monk at 15. Deacon at 19. Prior of a monastery at Saint-Maxim. Joined the Carthusians in 1160. Ordained in 1165. In 1175 he became abbot of the first English Carthusian monastery, which was built by King Henry II as part of his penance for the murder of Thomas Becket.

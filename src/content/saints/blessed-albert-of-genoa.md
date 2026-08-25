@@ -30,6 +30,7 @@ patronage:
   - –
   - Sestri Ponente, Italy
 martyr: false
+prayers: []
 ---
 
 Albert probably spent his childhood as a shepherd. Drawn to religious life, he became a Benedictine lay brother and then a professed monk, living occasionally in solitude. He joined the Cistercian reform in 1129 at the Sant Andrea monastery in the village of Sestri Ponente outside Genoa, Italy. Having never lost the need for the solitary life, Albert withdrew to lived in a cave on Mount Contessa near Sestri Ponente where he spent his remaining years as a holy hermit.

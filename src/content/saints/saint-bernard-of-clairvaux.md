@@ -1,18 +1,21 @@
 ---
-name: "Saint Bernard of Clairvaux"
+name: Saint Bernard of Clairvaux
 honorific: Saint
-summary: "Born to the French nobility; brother of Saint Humbeline. At age 22, fearing the ways of the world, he, four of his brothers, and 25 friends joined the abbey of Citeaux; his father and another brother joined soon after. Benedictine. Founded and led the monastery of Clairvaux which"
-image: "https://upload.wikimedia.org/wikipedia/commons/c/cd/San_Bernardo%2C_de_Juan_Correa_de_Vivar_%28Museo_del_Prado%29.jpg"
+summary: >-
+  Born to the French nobility; brother of Saint Humbeline. At age 22, fearing the ways of the world, he, four of his
+  brothers, and 25 friends joined the abbey of Citeaux; his father and another brother joined soon after. Benedictine.
+  Founded and led the monastery of Clairvaux which
+image: https://upload.wikimedia.org/wikipedia/commons/c/cd/San_Bernardo%2C_de_Juan_Correa_de_Vivar_%28Museo_del_Prado%29.jpg
 searchAliases:
-  - "Mellifluous Doctor of the Church"
-  - "Last of the Fathers of the Holy Church"
+  - Mellifluous Doctor of the Church
+  - Last of the Fathers of the Holy Church
 birthYear: 1090
 deathYear: 1153
-born: "1090 at Fontaines-les-Dijon, Burgundy, France"
-died: "20 August 1153 at Clairvaux Abbey, Ville-sous-la-Ferté, Aube, France"
-birthPlace: "Burgundy, France"
-deathPlace: "Ville-sous-la-Ferté, Aube, France"
-region: "Germany"
+born: 1090 at Fontaines-les-Dijon, Burgundy, France
+died: 20 August 1153 at Clairvaux Abbey, Ville-sous-la-Ferté, Aube, France
+birthPlace: Burgundy, France
+deathPlace: Ville-sous-la-Ferté, Aube, France
+region: Germany
 feastDay:
   month: 8
   day: 20
@@ -20,27 +23,33 @@ canonizationStatus: Saint
 vocation:
   - Priest
   - Confessor
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 patronage:
-  - "beekeepers"
-  - "bees"
-  - "candlemakers"
-  - "chandlers"
-  - "wax-melters"
-  - "wax refiners\n–"
-  - "Gibraltar"
-  - "Binangonan, Rizal, Philippines"
-  - "Cistercian Order"
-  - "Cistercians"
-  - "Cîteaux Abbey"
-  - "Knights Templar"
-  - "Pelplin, Poland, diocese of"
-  - "Queens College, Cambridge, England"
-  - "Speyer Cathedral"
-  - "–"
-  - "in France\n\nBurgundy"
-  - "Pontigny"
+  - beekeepers
+  - bees
+  - candlemakers
+  - chandlers
+  - wax-melters
+  - |-
+    wax refiners
+    –
+  - Gibraltar
+  - Binangonan, Rizal, Philippines
+  - Cistercian Order
+  - Cistercians
+  - Cîteaux Abbey
+  - Knights Templar
+  - Pelplin, Poland, diocese of
+  - Queens College, Cambridge, England
+  - Speyer Cathedral
+  - –
+  - |-
+    in France
+
+    Burgundy
+  - Pontigny
 martyr: false
+prayers: []
 ---
 
 Born to the French nobility; brother of Saint Humbeline. At age 22, fearing the ways of the world, he, four of his brothers, and 25 friends joined the abbey of Citeaux; his father and another brother joined soon after. Benedictine. Founded and led the monastery of Clairvaux which soon had over 700 monks and eventually 160 daughter houses. Revised and reformed the Cistercians. Advisor to, and admonisher of, King Louis the Fat and King Louis the Young. Attended the Second Lateran Council. Fought Albigensianism. Helped end the schism of anti-Pope Anacletus II. Preached in France, Italy, and Germany. Helped organize the Second Crusade. Friend and biographer of Saint Malachy O'More. Spritual advisor to Pope Eugene III, who had originally been one of his monks. First Cistercian monk placed on the calendar of saints. Proclaimed a Doctor of the Church by Pope Pius VIII.

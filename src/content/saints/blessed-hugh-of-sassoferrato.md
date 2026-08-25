@@ -1,32 +1,33 @@
 ---
-name: "Blessed Hugh of Sassoferrato"
+name: Blessed Hugh of Sassoferrato
 honorific: Blessed
-summary: "Studied at Bologna, Italy. Spiritual student of Saint Sylvester Guzzolini. Benedictine monk."
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Hugh-of-Sassoferrato.jpg"
+summary: Studied at Bologna, Italy. Spiritual student of Saint Sylvester Guzzolini. Benedictine monk.
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Hugh-of-Sassoferrato.jpg
 searchAliases:
-  - "Hugh of Actes"
-  - "Hugh of Actis"
-  - "Hugh of Atti"
-  - "Hugues…"
-  - "Hugo…"
-  - "Ugo…"
+  - Hugh of Actes
+  - Hugh of Actis
+  - Hugh of Atti
+  - Hugues…
+  - Hugo…
+  - Ugo…
 birthYear: 1227
 deathYear: 1250
-born: "c.1227 at Serra San Quirico, diocese of Camerino, Italy"
-died: "26 July 1250 at Sassoferrato, Italy of natural causes"
-birthPlace: "dioceseCamerino, Italy"
-deathPlace: "Italynatural causes"
-region: "Italy"
+born: c.1227 at Serra San Quirico, diocese of Camerino, Italy
+died: 26 July 1250 at Sassoferrato, Italy of natural causes
+birthPlace: dioceseCamerino, Italy
+deathPlace: Italynatural causes
+region: Italy
 feastDay:
   month: 7
   day: 26
 canonizationStatus: Blessed
 vocation:
   - Monk
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 patronage:
-  - "Sassoferrato, Italy"
+  - Sassoferrato, Italy
 martyr: false
+prayers: []
 ---
 
 Studied at Bologna, Italy. Spiritual student of Saint Sylvester Guzzolini. Benedictine monk.

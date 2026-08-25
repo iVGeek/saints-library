@@ -1,9 +1,9 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint John of Verona"
+name: Saint John of Verona
 honorific: Saint
-summary: "Seventh century bishop of Verona, Italy. Noted for his ministry to the poor."
-region: "Italy"
+summary: Seventh century bishop of Verona, Italy. Noted for his ministry to the poor.
+region: Italy
 feastDay:
   month: 4
   day: 27
@@ -12,6 +12,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Seventh century bishop of Verona, Italy. Noted for his ministry to the poor.

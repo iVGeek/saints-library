@@ -1,23 +1,27 @@
 ---
-name: "Blessed John Ingram"
+name: Blessed John Ingram
 honorific: Blessed
-summary: "Son of Anthony Ingram of Wolford, Warwickshire, and Dorothy, daughter of Sir John Hungerford. Educated at Worcestershire and the New College, Oxford, England. Adult convert to Catholicism. Continued his education at the English College, Rheims, France; the Jesuit College, Pont-a-"
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-John-Ingram.jpg"
+summary: >-
+  Son of Anthony Ingram of Wolford, Warwickshire, and Dorothy, daughter of Sir John Hungerford. Educated at
+  Worcestershire and the New College, Oxford, England. Adult convert to Catholicism. Continued his education at the
+  English College, Rheims, France; the Jesuit College, Pont-a-
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-John-Ingram.jpg
 birthYear: 1565
 deathYear: 1594
-born: "1565 at Stoke Edith, Herefordshire, England"
-died: "hanged, drawn, and quartered on 26 July 1594 at Newcastle-on-Tyne near Durham, England"
-birthPlace: "Herefordshire, England"
-deathPlace: "drawn, and quartered on 26 July 1594 at Newcastle-on-Tyne near Durham, England"
-region: "Scotland"
+born: 1565 at Stoke Edith, Herefordshire, England
+died: hanged, drawn, and quartered on 26 July 1594 at Newcastle-on-Tyne near Durham, England
+birthPlace: Herefordshire, England
+deathPlace: drawn, and quartered on 26 July 1594 at Newcastle-on-Tyne near Durham, England
+region: Scotland
 feastDay:
   month: 7
   day: 26
 canonizationStatus: Blessed
 vocation:
   - Priest
-religiousOrder: "Jesuit"
+religiousOrder: Jesuit
 martyr: true
+prayers: []
 ---
 
 Son of Anthony Ingram of Wolford, Warwickshire, and Dorothy, daughter of Sir John Hungerford. Educated at Worcestershire and the New College, Oxford, England. Adult convert to Catholicism. Continued his education at the English College, Rheims, France; the Jesuit College, Pont-a-Mousson, France; and the English College, Rome, France. Ordained at Rome in 1589.

@@ -32,6 +32,7 @@ imageCredit: >-
   href="https://archive.org/download/treatiseonchrist00miltrich/treatiseonchrist00miltrich.pdf">https://archive.org/download/treatiseonchrist00miltrich/treatiseonchrist00miltrich.pdf</a></dd></dl>
 imageCreditUrl: >-
   https://commons.wikimedia.org/wiki/File:A%20treatise%20on%20Christian%20doctrine%20-%20compiled%20from%20the%20Holy%20Scriptures%20alone%20(IA%20treatiseonchrist00miltrich).pdf
+prayers: []
 ---
 
 A large number of Christians tortured and murdered in Numidia (part of modern Algeria) during the persecutions of Diocletian, but whose names and individual stories have not survived. They were ordered to surrender their sacred books to be burned. They refused. Martyrs.

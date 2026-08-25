@@ -1,14 +1,16 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed William Freeman"
+name: Blessed William Freeman
 honorific: Blessed
-summary: "Priest in the Vicariate Apostlic of England. Martyred in the persecutions of Queen Elizabeth I for the crime of being a priest."
+summary: >-
+  Priest in the Vicariate Apostlic of England. Martyred in the persecutions of Queen Elizabeth I for the crime of being
+  a priest.
 deathYear: 1595
-born: "Menthorpre, North Yorkshire, England"
-died: "hanged on 13 August 1595 in Warwick, Warwickshire, England"
-birthPlace: "North Yorkshire, England"
-deathPlace: "Warwickshire, England"
-region: "England"
+born: Menthorpre, North Yorkshire, England
+died: hanged on 13 August 1595 in Warwick, Warwickshire, England
+birthPlace: North Yorkshire, England
+deathPlace: Warwickshire, England
+region: England
 feastDay:
   month: 8
   day: 13
@@ -16,6 +18,7 @@ canonizationStatus: Blessed
 vocation:
   - Priest
 martyr: true
+prayers: []
 ---
 
 Priest in the Vicariate Apostlic of England. Martyred in the persecutions of Queen Elizabeth I for the crime of being a priest.

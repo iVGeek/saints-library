@@ -1,17 +1,17 @@
 ---
-name: "Blessed Josefa Joaquina Lecuona Aramburu"
+name: Blessed Josefa Joaquina Lecuona Aramburu
 honorific: Blessed
-summary: "Member of the Visitation Nuns. Martyred in the Spanish Civil War."
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Josefa-Joaquina-Lecuona-Aramburu.jpg"
+summary: Member of the Visitation Nuns. Martyred in the Spanish Civil War.
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Josefa-Joaquina-Lecuona-Aramburu.jpg
 searchAliases:
-  - "Sister María Engracia"
+  - Sister María Engracia
 birthYear: 1897
 deathYear: 1936
-born: "2 July 1897 in Oyarzun, Guipúzoa, Spain"
-died: "shot by militiamen on 18 November 1936 in Madrid, Spain"
-birthPlace: "Guipúzoa, Spain"
-deathPlace: "Spain"
-region: "Spain"
+born: 2 July 1897 in Oyarzun, Guipúzoa, Spain
+died: shot by militiamen on 18 November 1936 in Madrid, Spain
+birthPlace: Guipúzoa, Spain
+deathPlace: Spain
+region: Spain
 feastDay:
   month: 11
   day: 18
@@ -19,6 +19,7 @@ canonizationStatus: Blessed
 vocation:
   - Religious
 martyr: true
+prayers: []
 ---
 
 Member of the Visitation Nuns. Martyred in the Spanish Civil War.

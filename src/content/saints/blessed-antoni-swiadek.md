@@ -1,17 +1,20 @@
 ---
-name: "Blessed Antoni Swiadek"
+name: Blessed Antoni Swiadek
 honorific: Blessed
-summary: "The son of Władysław and Władysława Swiadek; his father was a wheelwright. After studying at the seminary in Poznań, Poland, he was ordained a priest in the archdiocese of Gniezno, Poland on 10 June 1933. He was noted for his piety, determination and hard work. Pastor, youth mini"
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Antoni-Swiadek.jpg"
+summary: >-
+  The son of Władysław and Władysława Swiadek; his father was a wheelwright. After studying at the seminary in Poznań,
+  Poland, he was ordained a priest in the archdiocese of Gniezno, Poland on 10 June 1933. He was noted for his piety,
+  determination and hard work. Pastor, youth mini
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Antoni-Swiadek.jpg
 searchAliases:
-  - "Antoni Witek"
+  - Antoni Witek
 birthYear: 1909
 deathYear: 1945
-born: "27 March 1909 in Pobiedziska, Wielkopolskie, Poland"
-died: "25 January 1945 at the Dachau concentration camp, Oberbayern, Germany of typhus"
-birthPlace: "Wielkopolskie, Poland"
-deathPlace: "Oberbayern, Germanytyphus"
-region: "Poland"
+born: 27 March 1909 in Pobiedziska, Wielkopolskie, Poland
+died: 25 January 1945 at the Dachau concentration camp, Oberbayern, Germany of typhus
+birthPlace: Wielkopolskie, Poland
+deathPlace: Oberbayern, Germanytyphus
+region: Poland
 feastDay:
   month: 1
   day: 25
@@ -20,6 +23,7 @@ vocation:
   - Bishop
   - Priest
 martyr: true
+prayers: []
 ---
 
 The son of Władysław and Władysława Swiadek; his father was a wheelwright. After studying at the seminary in Poznań, Poland, he was ordained a priest in the archdiocese of Gniezno, Poland on 10 June 1933. He was noted for his piety, determination and hard work. Pastor, youth minister, military chaplain and Boy Scout leader at the Saint Stanisława Biskupa i Męczennika parish in Bydgoszcz, Poland.

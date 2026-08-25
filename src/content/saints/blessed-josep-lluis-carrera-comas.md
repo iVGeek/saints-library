@@ -1,23 +1,24 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Josep Lluís Carrera Comas"
+name: Blessed Josep Lluís Carrera Comas
 honorific: Blessed
-summary: "Member of the Brothers of the Christian Schools. Martyred in the Spanish Civil War."
+summary: Member of the Brothers of the Christian Schools. Martyred in the Spanish Civil War.
 searchAliases:
-  - "Brother Agapi"
+  - Brother Agapi
 birthYear: 1881
 deathYear: 1936
-born: "4 February 1881 in Santa Coloma de Farners, Girona, Spain"
-died: "9 December 1936 in Barcelona, Spain"
-birthPlace: "Girona, Spain"
-deathPlace: "Spain"
-region: "Spain"
+born: 4 February 1881 in Santa Coloma de Farners, Girona, Spain
+died: 9 December 1936 in Barcelona, Spain
+birthPlace: Girona, Spain
+deathPlace: Spain
+region: Spain
 feastDay:
   month: 12
   day: 9
 canonizationStatus: Blessed
 vocation: []
 martyr: true
+prayers: []
 ---
 
 Member of the Brothers of the Christian Schools. Martyred in the Spanish Civil War.

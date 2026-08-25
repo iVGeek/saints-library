@@ -41,6 +41,7 @@ patronage:
     Besançon
   - Franche-Comté
 martyr: false
+prayers: []
 ---
 
 Priest. Monk. Abbot of Condat, Jura; his house later became known as Saint-Claude. Bishop of Besançon, France in 685. He resigned his see in 692 to return to life as a cloistered monk at Saint Oyand-de-Joux Abbey. Known for his love as literature.

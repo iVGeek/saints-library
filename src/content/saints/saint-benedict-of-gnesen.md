@@ -1,10 +1,10 @@
 ---
-name: "Saint Benedict of Gnesen"
+name: Saint Benedict of Gnesen
 honorific: Saint
-summary: "Benedictine monk. Missionary with Saint Adalbert of Prague to the Slavs."
-image: "http://catholicsaints.info/wp-content/uploads/img-Five-Polish-Brothers.jpg"
-born: "Italy"
-region: "Italy"
+summary: Benedictine monk. Missionary with Saint Adalbert of Prague to the Slavs.
+image: http://catholicsaints.info/wp-content/uploads/img-Five-Polish-Brothers.jpg
+born: Italy
+region: Italy
 feastDay:
   month: 11
   day: 12
@@ -13,8 +13,9 @@ vocation:
   - Monk
   - Hermit
   - Missionary
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 martyr: false
+prayers: []
 ---
 
 Benedictine monk. Missionary with Saint Adalbert of Prague to the Slavs.

@@ -1,15 +1,18 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed John Finch"
+name: Blessed John Finch
 honorific: Blessed
-summary: "Yoeman farmer. Raised in a family with Catholic and Protestant members, he was able to closely observe each side; John became a strong and faithful Catholic. Married layman. His home became a center for covert missionary work, and he hid and harboured priests. Parish clerk and ca"
+summary: >-
+  Yoeman farmer. Raised in a family with Catholic and Protestant members, he was able to closely observe each side; John
+  became a strong and faithful Catholic. Married layman. His home became a center for covert missionary work, and he hid
+  and harboured priests. Parish clerk and ca
 birthYear: 1548
 deathYear: 1584
-born: "c.1548 at Eccleston, Lancashire, England"
-died: "hanged on 20 April 1584 at Lancaster, England"
-birthPlace: "Lancashire, England"
-deathPlace: "England"
-region: "France"
+born: c.1548 at Eccleston, Lancashire, England
+died: hanged on 20 April 1584 at Lancaster, England
+birthPlace: Lancashire, England
+deathPlace: England
+region: France
 feastDay:
   month: 4
   day: 20
@@ -18,6 +21,7 @@ vocation:
   - Priest
   - Missionary
 martyr: true
+prayers: []
 ---
 
 Yoeman farmer. Raised in a family with Catholic and Protestant members, he was able to closely observe each side; John became a strong and faithful Catholic. Married layman. His home became a center for covert missionary work, and he hid and harboured priests. Parish clerk and catechist.

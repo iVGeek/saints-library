@@ -1,13 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Januarius of Carthage"
+name: Saint Januarius of Carthage
 honorific: Saint
-summary: "Priest. Martyred in the persecutions of Diocletian."
+summary: Priest. Martyred in the persecutions of Diocletian.
 searchAliases:
-  - "Gennaro"
-born: "Carthaginian"
-died: "relics at the basilica of Fausta at Carthage"
-region: "Italy"
+  - Gennaro
+born: Carthaginian
+died: relics at the basilica of Fausta at Carthage
+region: Italy
 feastDay:
   month: 7
   day: 15
@@ -16,6 +16,7 @@ vocation:
   - Priest
   - Monk
 martyr: true
+prayers: []
 ---
 
 Priest. Martyred in the persecutions of Diocletian.

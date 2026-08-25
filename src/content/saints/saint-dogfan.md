@@ -17,6 +17,7 @@ vocation:
   - Monk
 religiousOrder: Dominican
 martyr: true
+prayers: []
 ---
 
 Son of the chieftain Saint Brychan of Brycheiniog. Martyr. No other information has survived.

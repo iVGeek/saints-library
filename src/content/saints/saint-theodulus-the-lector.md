@@ -1,14 +1,16 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Theodulus the Lector"
+name: Saint Theodulus the Lector
 honorific: Saint
-summary: "Lector. Martyred with Saint Agathopus for refusing to surrender holy books during the persecutions of Emperor Maximian Herculeus."
+summary: >-
+  Lector. Martyred with Saint Agathopus for refusing to surrender holy books during the persecutions of Emperor Maximian
+  Herculeus.
 searchAliases:
-  - "Theodolus of Thessalonica"
-  - "Teodulo…."
+  - Theodolus of Thessalonica
+  - Teodulo….
 deathYear: 303
-died: "drowned in the sea with a stone around his neck in 303 in Thessalonica"
-region: "England"
+died: drowned in the sea with a stone around his neck in 303 in Thessalonica
+region: England
 feastDay:
   month: 4
   day: 4
@@ -16,8 +18,9 @@ canonizationStatus: Saint
 vocation:
   - Monk
   - Deacon
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 martyr: true
+prayers: []
 ---
 
 Lector. Martyred with Saint Agathopus for refusing to surrender holy books during the persecutions of Emperor Maximian Herculeus.

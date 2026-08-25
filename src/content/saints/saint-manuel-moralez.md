@@ -1,24 +1,29 @@
 ---
-name: "Saint Manuel Moralez"
+name: Saint Manuel Moralez
 honorific: Venerable
-summary: "Manuel entered the seminary in Durango, Mexico, but had to leave to help support his impoverished family; he remained a lifelong layman. Married, and the father of three. Secretary of the publication Leon XIII. Secretary of the Circle of Catholic Workers. Member of Catholic Actio"
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Manuel-Moralez.jpg"
+summary: >-
+  Manuel entered the seminary in Durango, Mexico, but had to leave to help support his impoverished family; he remained
+  a lifelong layman. Married, and the father of three. Secretary of the publication Leon XIII. Secretary of the Circle
+  of Catholic Workers. Member of Catholic Actio
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Manuel-Moralez.jpg
 searchAliases:
-  - "Manuel Morales"
-  - "Emmanuel…."
+  - Manuel Morales
+  - Emmanuel….
 deathYear: 1926
-died: "shot by firing squad on 15 August 1926 in the mountains near Chalchihuites, Zacatecas, Mexico"
-deathPlace: "Zacatecas, Mexico"
-region: "Mexico"
+died: shot by firing squad on 15 August 1926 in the mountains near Chalchihuites, Zacatecas, Mexico
+deathPlace: Zacatecas, Mexico
+region: Mexico
 feastDay:
   month: 8
   day: 15
-centuries: [20]
+centuries:
+  - 20
 canonizationStatus: Venerable
 vocation:
   - Priest
   - Soldier
 martyr: true
+prayers: []
 ---
 
 Manuel entered the seminary in Durango, Mexico, but had to leave to help support his impoverished family; he remained a lifelong layman. Married, and the father of three. Secretary of the publication Leon XIII. Secretary of the Circle of Catholic Workers. Member of Catholic Action (ACJM). President of the National League for the Defense of Religious Liberty (LNDLR).

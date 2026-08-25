@@ -1,27 +1,27 @@
 ---
-name: "Saint Richardis of Andlou"
+name: Saint Richardis of Andlou
 honorific: Saint
-summary: " After nineteen years of marriage, she was accused by Emperor Charles of infidelity, though t Daughter of Kenneth I, the Count of Alsace (in modern France) and a Scottish emigre. Sister of King Boso of Provence. Married Charles the Fat at age 22. Crowned Holy Roman Empress in 881."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Richardis-of-Andlou.jpg"
+summary: ' After nineteen years of marriage, she was accused by Emperor Charles of infidelity, though t Daughter of Kenneth I, the Count of Alsace (in modern France) and a Scottish emigre. Sister of King Boso of Provence. Married Charles the Fat at age 22. Crowned Holy Roman Empress in 881.'
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Richardis-of-Andlou.jpg
 searchAliases:
-  - "Richardis of Alsace"
-  - "Richardis of Andlau"
-  - "Richardis of Swabia"
-  - "Richardis de Soabe"
-  - "Riccarda…"
-  - "Richarda…"
-  - "Richarde…"
-  - "Richgard…"
-  - "Richgarda…"
-  - "Richkart…"
-  - "Rigardis…"
+  - Richardis of Alsace
+  - Richardis of Andlau
+  - Richardis of Swabia
+  - Richardis de Soabe
+  - Riccarda…
+  - Richarda…
+  - Richarde…
+  - Richgard…
+  - Richgarda…
+  - Richkart…
+  - Rigardis…
 birthYear: 839
 deathYear: 895
-born: "839 Andlau, Alsace, France"
-died: "c.895 at Andlau, Alsace, France of natural causes"
-birthPlace: "Alsace, France"
-deathPlace: "Alsace, Francenatural causes"
-region: "France"
+born: 839 Andlau, Alsace, France
+died: c.895 at Andlau, Alsace, France of natural causes
+birthPlace: Alsace, France
+deathPlace: Alsace, Francenatural causes
+region: France
 feastDay:
   month: 9
   day: 18
@@ -29,12 +29,13 @@ canonizationStatus: Saint
 vocation:
   - Bishop
   - Religious
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 patronage:
-  - "against fire"
-  - "–"
-  - "Andlau, France"
+  - against fire
+  - –
+  - Andlau, France
 martyr: false
+prayers: []
 ---
 
 Daughter of Kenneth I, the Count of Alsace (in modern France) and a Scottish emigre. Sister of King Boso of Provence. Married Charles the Fat at age 22. Crowned Holy Roman Empress in 881.

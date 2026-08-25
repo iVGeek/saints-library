@@ -1,22 +1,23 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint They"
+name: Saint They
 honorific: Saint
-summary: "Fifth century spiritual student of Saint Guénolé at Landévennec abbey in Brittany."
+summary: Fifth century spiritual student of Saint Guénolé at Landévennec abbey in Brittany.
 searchAliases:
-  - "Dei"
-  - "Dey"
-  - "Teï"
-  - "Tey"
-region: "France"
+  - Dei
+  - Dey
+  - Teï
+  - Tey
+region: France
 feastDay:
   month: 7
   day: 7
 canonizationStatus: Saint
 vocation: []
 patronage:
-  - "Lothey, France"
+  - Lothey, France
 martyr: false
+prayers: []
 ---
 
 Fifth century spiritual student of Saint Guénolé at Landévennec abbey in Brittany.

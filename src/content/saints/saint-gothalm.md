@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Gothalm"
+name: Saint Gothalm
 honorific: Saint
-summary: "Monk in Melk, Austria."
+summary: Monk in Melk, Austria.
 deathYear: 1020
-died: "1020 of natural causes"
-region: "Austria"
+died: 1020 of natural causes
+region: Austria
 feastDay:
   month: 7
   day: 26
@@ -13,6 +13,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: false
+prayers: []
 ---
 
 Monk in Melk, Austria.

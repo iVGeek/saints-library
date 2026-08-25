@@ -1,12 +1,12 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Cisellus of Sardinia"
+name: Saint Cisellus of Sardinia
 honorific: Saint
-summary: "Martyred in the persecutions of Diocletian."
+summary: Martyred in the persecutions of Diocletian.
 deathYear: 303
-died: "beheaded in 303 in Sardinia, Italy"
-deathPlace: "Italy"
-region: "Italy"
+died: beheaded in 303 in Sardinia, Italy
+deathPlace: Italy
+region: Italy
 feastDay:
   month: 8
   day: 21
@@ -14,6 +14,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Martyred in the persecutions of Diocletian.

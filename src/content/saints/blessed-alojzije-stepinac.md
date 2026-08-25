@@ -1,17 +1,20 @@
 ---
-name: "Blessed Alojzije Viktor Stepinac"
+name: Blessed Alojzije Viktor Stepinac
 honorific: Blessed
-summary: "Raised in the large Catholic Croatian family of Josip and Barbara (nee Penic) Stepinac. Graduated high school on 28 June 1916. Soldier in the Austrian army in World War I, fighting at several points in Italy. Following the collapse of the front in September 1918, he was imprisone"
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Alojzije-Stepinac-1.jpg"
+summary: >-
+  Raised in the large Catholic Croatian family of Josip and Barbara (nee Penic) Stepinac. Graduated high school on 28
+  June 1916. Soldier in the Austrian army in World War I, fighting at several points in Italy. Following the collapse of
+  the front in September 1918, he was imprisone
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Alojzije-Stepinac-1.jpg
 searchAliases:
-  - "Aloysius Stepinac"
+  - Aloysius Stepinac
 birthYear: 1898
 deathYear: 1960
-born: "8 May 1898 at Brezaric, Krasic, Croatia as Alojzije Viktor Stepinac"
-died: "10 February 1960 at Krasic, Croatia"
-birthPlace: "Krasic, Croatia as Alojzije Viktor Stepinac"
-deathPlace: "Croatia"
-region: "Austria"
+born: 8 May 1898 at Brezaric, Krasic, Croatia as Alojzije Viktor Stepinac
+died: 10 February 1960 at Krasic, Croatia
+birthPlace: Krasic, Croatia as Alojzije Viktor Stepinac
+deathPlace: Croatia
+region: Austria
 feastDay:
   month: 2
   day: 10
@@ -20,6 +23,7 @@ vocation:
   - Bishop
   - Priest
 martyr: false
+prayers: []
 ---
 
 Raised in the large Catholic Croatian family of Josip and Barbara (nee Penic) Stepinac. Graduated high school on 28 June 1916. Soldier in the Austrian army in World War I, fighting at several points in Italy. Following the collapse of the front in September 1918, he was imprisoned, then released and demobilized in December 1918.

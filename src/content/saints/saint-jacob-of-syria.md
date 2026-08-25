@@ -1,9 +1,9 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Jacob of Syria"
+name: Saint Jacob of Syria
 honorific: Saint
-summary: "Fourth century monk. Feeling a call to a more solitary and ascetic life, he became a desert hermit."
-region: "Syria"
+summary: Fourth century monk. Feeling a call to a more solitary and ascetic life, he became a desert hermit.
+region: Syria
 feastDay:
   month: 2
   day: 27
@@ -12,6 +12,7 @@ vocation:
   - Monk
   - Hermit
 martyr: false
+prayers: []
 ---
 
 Fourth century monk. Feeling a call to a more solitary and ascetic life, he became a desert hermit.

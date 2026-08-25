@@ -1,22 +1,25 @@
 ---
-name: "Saint John of Capistrano"
+name: Saint John of Capistrano
 honorific: Saint
-summary: "Son of a German knight, his father died when John was still young. The young man studied law at the University of Perugia, and worked as a lawyer in Naples, Italy. Reforming governor of Perugia under King Landislas of Naples. When war broke out between Perugia and the House of Ma"
-image: "https://upload.wikimedia.org/wikipedia/commons/8/84/82Johannes_von_Capestrano.jpg"
+summary: >-
+  Son of a German knight, his father died when John was still young. The young man studied law at the University of
+  Perugia, and worked as a lawyer in Naples, Italy. Reforming governor of Perugia under King Landislas of Naples. When
+  war broke out between Perugia and the House of Ma
+image: https://upload.wikimedia.org/wikipedia/commons/8/84/82Johannes_von_Capestrano.jpg
 searchAliases:
-  - "Giovanni da Capestrano"
-  - "Ivan Kapistran"
-  - "Jan Kapistran"
-  - "John Capistran"
-  - "Jovan Kapistran"
-  - "János Kapisztrán"
+  - Giovanni da Capestrano
+  - Ivan Kapistran
+  - Jan Kapistran
+  - John Capistran
+  - Jovan Kapistran
+  - János Kapisztrán
 birthYear: 1386
 deathYear: 1456
-born: "1386 at Capistrano, Italy"
-died: "23 October 1456 at Villach, Hungary of natural causes"
-birthPlace: "Italy"
-deathPlace: "Hungarynatural causes"
-region: "Poland"
+born: 1386 at Capistrano, Italy
+died: 23 October 1456 at Villach, Hungary of natural causes
+birthPlace: Italy
+deathPlace: Hungarynatural causes
+region: Poland
 feastDay:
   month: 10
   day: 23
@@ -25,18 +28,22 @@ vocation:
   - Priest
   - Deacon
   - Confessor
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 patronage:
-  - "judges"
-  - "jurists"
-  - "lawyers"
-  - "military chaplains (given by Pope John Paul II on 10 February 1984)"
-  - "military ordinariate of the Philippines"
-  - "—"
-  - "Belgrade, Serbia"
-  - "in Italy\n\nCapestrano"
-  - "Capistrano"
+  - judges
+  - jurists
+  - lawyers
+  - military chaplains (given by Pope John Paul II on 10 February 1984)
+  - military ordinariate of the Philippines
+  - —
+  - Belgrade, Serbia
+  - |-
+    in Italy
+
+    Capestrano
+  - Capistrano
 martyr: false
+prayers: []
 ---
 
 Son of a German knight, his father died when John was still young. The young man studied law at the University of Perugia, and worked as a lawyer in Naples, Italy. Reforming governor of Perugia under King Landislas of Naples. When war broke out between Perugia and the House of Malatesta from Rimini, Italy in 1416, John tried to broker a peace, but when the opponents ignored the truce, John became a prisoner of war.

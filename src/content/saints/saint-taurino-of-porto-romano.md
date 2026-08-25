@@ -1,12 +1,12 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Taurino of Porto Romano"
+name: Saint Taurino of Porto Romano
 honorific: Saint
-summary: "Martyred in the persecutions of Marcus Aurelius."
+summary: Martyred in the persecutions of Marcus Aurelius.
 deathYear: 180
-died: "c.180 at Porto Romano, Italy"
-deathPlace: "Italy"
-region: "Italy"
+died: c.180 at Porto Romano, Italy
+deathPlace: Italy
+region: Italy
 feastDay:
   month: 9
   day: 5
@@ -14,6 +14,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Martyred in the persecutions of Marcus Aurelius.

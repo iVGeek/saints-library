@@ -1,12 +1,12 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Tanca"
+name: Saint Tanca
 honorific: Saint
-summary: "Young girl martyed defending her virginity."
+summary: Young girl martyed defending her virginity.
 deathYear: 637
-died: "c.637 near Troyes, France"
-deathPlace: "France"
-region: "France"
+died: c.637 near Troyes, France
+deathPlace: France
+region: France
 feastDay:
   month: 10
   day: 10
@@ -15,8 +15,9 @@ vocation:
   - Virgin
   - Monk
 patronage:
-  - "against hemorrhages"
+  - against hemorrhages
 martyr: false
+prayers: []
 ---
 
 Young girl martyed defending her virginity.

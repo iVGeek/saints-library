@@ -28,6 +28,7 @@ religiousOrder: Dominican
 patronage:
   - Perugia, Italy
 martyr: false
+prayers: []
 ---
 
 Joined the Dominicans when a young man. Ninth Master-General of his Order in 1296. Arranged an armistice between Philip IV of France and Edward I of England. Created Cardinal–Bishop of Ostia, Italy by Pope Boniface VIII. Papal legate. Defended Pope Boniface VIII against William of Nogaret and his allies.

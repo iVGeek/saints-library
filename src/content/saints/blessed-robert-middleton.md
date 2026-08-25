@@ -18,6 +18,7 @@ vocation:
   - Priest
 religiousOrder: Jesuit
 martyr: true
+prayers: []
 ---
 
 Jesuit priest in the apostolic vicariate of England. Martyred in the persecutions of Queen Elizabeth I.

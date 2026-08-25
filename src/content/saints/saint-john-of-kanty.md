@@ -1,21 +1,21 @@
 ---
-name: "Saint John of Kanty"
+name: Saint John of Kanty
 honorific: Saint
-summary: " Falsely accused and ousted by university rivals, at age 41 he was assigned as parish priest at Olkusz, Bohemia. He took his position seriously, and wa Polish country lad. Brilliant student at the University of Cracow, Poland. Priest. Professor of theology at University of Cracow."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-John-of-Kanty1.jpg"
+summary: ' Falsely accused and ousted by university rivals, at age 41 he was assigned as parish priest at Olkusz, Bohemia. He took his position seriously, and wa Polish country lad. Brilliant student at the University of Cracow, Poland. Priest. Professor of theology at University of Cracow.'
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-John-of-Kanty1.jpg
 searchAliases:
-  - "John Cantius"
-  - "John Kantius"
-  - "John of Kanti"
-  - "John of Kenti"
-  - "John of Kęty"
-  - "Giovanni da Kety"
-  - "Giovanni Canzio"
-  - "Jan…"
+  - John Cantius
+  - John Kantius
+  - John of Kanti
+  - John of Kenti
+  - John of Kęty
+  - Giovanni da Kety
+  - Giovanni Canzio
+  - Jan…
 deathYear: 1473
-died: "24 December 1473 at Cracow, Poland, of natural causes"
-deathPlace: "Poland,natural causes"
-region: "Poland"
+died: 24 December 1473 at Cracow, Poland, of natural causes
+deathPlace: Poland,natural causes
+region: Poland
 feastDay:
   month: 12
   day: 23
@@ -24,17 +24,18 @@ vocation:
   - Priest
   - Monk
   - Confessor
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 patronage:
-  - "scholarly clergy"
-  - "university lecturers"
-  - "–"
-  - "Lithuania"
-  - "Poland"
-  - "–"
-  - "Kraków, Poland, archdiocese of"
-  - "Kraków, Poland, city of"
+  - scholarly clergy
+  - university lecturers
+  - –
+  - Lithuania
+  - Poland
+  - –
+  - Kraków, Poland, archdiocese of
+  - Kraków, Poland, city of
 martyr: true
+prayers: []
 ---
 
 Polish country lad. Brilliant student at the University of Cracow, Poland. Priest. Professor of theology at University of Cracow.

@@ -1,21 +1,21 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Duthus of Ross"
+name: Saint Duthus of Ross
 honorific: Saint
-summary: "Educated in Ireland. Bishop of Ross, Scotland."
+summary: Educated in Ireland. Bishop of Ross, Scotland.
 searchAliases:
-  - "Chief Confessor of Ireland and Scotland"
-  - "Dothow"
-  - "Dubhthach"
-  - "Dubtach"
-  - "Dubthach"
-  - "Duthac"
-  - "Duthacus"
-  - "Duthak"
+  - Chief Confessor of Ireland and Scotland
+  - Dothow
+  - Dubhthach
+  - Dubtach
+  - Dubthach
+  - Duthac
+  - Duthacus
+  - Duthak
 birthYear: 1000
-born: "c.1000 in Tain, Scotland"
-birthPlace: "Scotland"
-region: "Scotland"
+born: c.1000 in Tain, Scotland
+birthPlace: Scotland
+region: Scotland
 feastDay:
   month: 3
   day: 8
@@ -26,8 +26,9 @@ vocation:
   - Monk
   - Confessor
 patronage:
-  - "Tain, Scotland"
+  - Tain, Scotland
 martyr: false
+prayers: []
 ---
 
 Educated in Ireland. Bishop of Ross, Scotland.

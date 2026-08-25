@@ -1,29 +1,35 @@
 ---
-name: "Venerable Enrico Beretta"
+name: Venerable Enrico Beretta
 honorific: Venerable
-summary: "The seventh of thirteen children born to Alberto and Maria Beretta, Enrico was raised in a pious family - one sister is Saint Gianna Beretta Molla, another a Canossian missionary, and a brother was a priest who served in the Roman Curia. Enrico graduated with a medical degree in"
-image: "http://catholicsaints.info/wp-content/uploads/img-Father-Enrico-Beretta.jpg"
+summary: >-
+  The seventh of thirteen children born to Alberto and Maria Beretta, Enrico was raised in a pious family - one sister
+  is Saint Gianna Beretta Molla, another a Canossian missionary, and a brother was a priest who served in the Roman
+  Curia. Enrico graduated with a medical degree in
+image: http://catholicsaints.info/wp-content/uploads/img-Father-Enrico-Beretta.jpg
 searchAliases:
-  - "Alberto Maria de Milano"
-  - "Alberto Beretta"
-  - "Alberto of Milan"
+  - Alberto Maria de Milano
+  - Alberto Beretta
+  - Alberto of Milan
 birthYear: 1916
 deathYear: 2001
-born: "28 August 1916 in Milan, Italy as Enrico"
-died: "10 August 2001 in Bergamo, Italy of complications from a stroke"
-birthPlace: "Italy as Enrico"
-deathPlace: "Italycomplications from a stroke"
-region: "Brazil"
+born: 28 August 1916 in Milan, Italy as Enrico
+died: 10 August 2001 in Bergamo, Italy of complications from a stroke
+birthPlace: Italy as Enrico
+deathPlace: Italycomplications from a stroke
+region: Brazil
 feastDay:
   month: 3
   day: 13
-centuries: [20, 21]
+centuries:
+  - 20
+  - 21
 canonizationStatus: Venerable
 vocation:
   - Priest
   - Missionary
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 martyr: false
+prayers: []
 ---
 
 The seventh of thirteen children born to Alberto and Maria Beretta, Enrico was raised in a pious family – one sister is Saint Gianna Beretta Molla, another a Canossian missionary, and a brother was a priest who served in the Roman Curia. Enrico graduated with a medical degree in 1942 at age 26, serving as a physician and surgeon. He soon became a Franciscan Capuchin novice in Lovere, Italy, but had to leave and report to Florence, Italy for military service in World War II. When the Fascists fell, Enrico returned home and resumed his studies and novitiate, eventually taking the name Alberto Maria.

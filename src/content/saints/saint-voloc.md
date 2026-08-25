@@ -1,14 +1,14 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Voloc"
+name: Saint Voloc
 honorific: Saint
-summary: "Bishop. Missionary to Scotland."
+summary: Bishop. Missionary to Scotland.
 searchAliases:
-  - "Walloch"
+  - Walloch
 deathYear: 724
-born: "Ireland"
-died: "c.724 of natural causes"
-region: "Scotland"
+born: Ireland
+died: c.724 of natural causes
+region: Scotland
 feastDay:
   month: 1
   day: 29
@@ -18,6 +18,7 @@ vocation:
   - Monk
   - Missionary
 martyr: false
+prayers: []
 ---
 
 Bishop. Missionary to Scotland.

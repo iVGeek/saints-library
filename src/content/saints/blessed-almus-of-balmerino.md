@@ -22,6 +22,7 @@ imageCredit: >-
   <a rel="nofollow" class="external free"
   href="https://books.google.com.br/books?id=rjpOAAAAcAAJ&amp;printsec=frontcover&amp;dq=inauthor:%22Alanus+%28de+Insulis+%28%29%22&amp;hl=en&amp;sa=X&amp;ei=YGU2VduGJ5P7sAS02IG4BQ&amp;ved=0CD4Q6AEwBg#v=onepage&amp;q&amp;f=false">https://books.google.com.br/books?id=rjpOAAAAcAAJ&amp;printsec=frontcover&amp;dq=inauthor:%22Alanus+%28de+Insulis+%28%29%22&amp;hl=en&amp;sa=X&amp;ei=YGU2VduGJ5P7sAS02IG4BQ&amp;ved=0CD4Q6AEwBg#v=onepage&amp;q&amp;f=false</a>
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:Alanus%20ab%20Insulis%20(1120-1202).png
+prayers: []
 ---
 
 13th century Cistercian monk in Melrose, England. First abbot of Balmerino Abbey, founded c.1228.

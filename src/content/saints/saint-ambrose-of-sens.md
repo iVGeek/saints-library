@@ -15,6 +15,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/41/Hotel_de_Vville%2C_Sens-7003.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Ambrose of Sens
 imageCreditUrl: https://en.wikipedia.org/wiki/Sens
+prayers: []
 ---
 
 Bishop of Sens, France in the mid-5th-century.

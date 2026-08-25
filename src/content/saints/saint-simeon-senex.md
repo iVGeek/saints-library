@@ -1,9 +1,11 @@
 ---
-name: "Saint Simeon Senex"
+name: Saint Simeon Senex
 honorific: Saint
-summary: "The man who, in Luke 2, picked up the Infant Jesus and gave the blessing known as the Nunc dimittis. No other information about him has survived."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Simeon-Senex.jpg"
-region: "England"
+summary: >-
+  The man who, in Luke 2, picked up the Infant Jesus and gave the blessing known as the Nunc dimittis. No other
+  information about him has survived.
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Simeon-Senex.jpg
+region: England
 feastDay:
   month: 10
   day: 8
@@ -13,6 +15,7 @@ vocation:
   - Monk
   - Religious
 martyr: false
+prayers: []
 ---
 
 The man who, in Luke 2, picked up the Infant Jesus and gave the blessing known as the Nunc dimittis. No other information about him has survived.

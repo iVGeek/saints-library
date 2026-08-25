@@ -15,6 +15,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/9/98/BishopHarrington.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Felix of Uzalis
 imageCreditUrl: https://en.wikipedia.org/wiki/Bernard%20Joseph%20Harrington
+prayers: []
 ---
 
 Martyr. No other information has survived.

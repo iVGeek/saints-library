@@ -1,19 +1,20 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Celestine"
+name: Saint Celestine
 honorific: Saint
-summary: "Martyr."
+summary: Martyr.
 searchAliases:
-  - "Celestino"
-died: "Rome, Italy"
-deathPlace: "Italy"
-region: "Italy"
+  - Celestino
+died: Rome, Italy
+deathPlace: Italy
+region: Italy
 feastDay:
   month: 1
   day: 1
 canonizationStatus: Saint
 vocation: []
 martyr: true
+prayers: []
 ---
 
 Martyr.

@@ -18,6 +18,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/f/f2/Shriners_International_emblem.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Acacia of Antioch
 imageCreditUrl: https://en.wikipedia.org/wiki/Shriners
+prayers: []
 ---
 
 One of a group of 250 Christians martyred together in Antioch.

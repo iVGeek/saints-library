@@ -11,6 +11,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: false
+prayers: []
 ---
 
 Seventh century abbot of Ross Tuirc, Ossory, Ireland. Author of a hymn to Saint Brigid.

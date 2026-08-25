@@ -1,13 +1,13 @@
 ---
-name: "Saint Peter I of Vercelli"
+name: Saint Peter I of Vercelli
 honorific: Saint
-summary: "Bishop of Vercelli, Italy in 978. Murdered for political reasons by the future king of Italy, Arduin of Ivrea."
-image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Peter-I-of-Vercelli.jpg"
+summary: Bishop of Vercelli, Italy in 978. Murdered for political reasons by the future king of Italy, Arduin of Ivrea.
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Peter-I-of-Vercelli.jpg
 searchAliases:
-  - "Petrus"
+  - Petrus
 deathYear: 997
-died: "997"
-region: "Italy"
+died: '997'
+region: Italy
 feastDay:
   month: 2
   day: 13
@@ -15,6 +15,7 @@ canonizationStatus: Saint
 vocation:
   - Bishop
 martyr: false
+prayers: []
 ---
 
 Bishop of Vercelli, Italy in 978. Murdered for political reasons by the future king of Italy, Arduin of Ivrea.

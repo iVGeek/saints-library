@@ -21,6 +21,7 @@ vocation:
 patronage:
   - Cagliari, Italy
 martyr: true
+prayers: []
 ---
 
 Martyred by order of governor Barbarus for refusing to take part in the festival of Jupiter during the persecutions of Diocletian.

@@ -16,6 +16,7 @@ canonizationStatus: Blessed
 vocation:
   - Priest
 martyr: true
+prayers: []
 ---
 
 Layman. Condemned for harboring priests. Martyr.

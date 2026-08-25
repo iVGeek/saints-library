@@ -1,19 +1,22 @@
 ---
-name: "Saint Monegundis"
+name: Saint Monegundis
 honorific: Saint
-summary: "She married young, and was the mother of two daughters, both of whom died in childhood, sending Monegundis into a deep depression. She eventually overcame her grief by filling the empty space in her life with God. With her husband's agreement, Monegundis became an anchoress, and"
-image: "https://upload.wikimedia.org/wikipedia/commons/f/f0/Monegundis.jpg"
+summary: >-
+  She married young, and was the mother of two daughters, both of whom died in childhood, sending Monegundis into a deep
+  depression. She eventually overcame her grief by filling the empty space in her life with God. With her husband's
+  agreement, Monegundis became an anchoress, and
+image: https://upload.wikimedia.org/wikipedia/commons/f/f0/Monegundis.jpg
 searchAliases:
-  - "Monegonda"
-  - "Monégonde"
-  - "Monegondes"
-  - "Monegundes"
+  - Monegonda
+  - Monégonde
+  - Monegondes
+  - Monegundes
 deathYear: 570
-born: "6th century at Chartres, France"
-died: "c.570 at Tours, France of natural causes"
-birthPlace: "France"
-deathPlace: "Francenatural causes"
-region: "France"
+born: 6th century at Chartres, France
+died: c.570 at Tours, France of natural causes
+birthPlace: France
+deathPlace: Francenatural causes
+region: France
 feastDay:
   month: 7
   day: 2
@@ -23,6 +26,7 @@ vocation:
   - Monk
   - Hermit
 martyr: false
+prayers: []
 ---
 
 She married young, and was the mother of two daughters, both of whom died in childhood, sending Monegundis into a deep depression. She eventually overcame her grief by filling the empty space in her life with God. With her husband's agreement, Monegundis became an anchoress, and built a private room where she could devote her life to solitude and prayer.

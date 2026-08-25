@@ -1,15 +1,17 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed William of Assisi"
+name: Blessed William of Assisi
 honorific: Blessed
-summary: "May have been a priest. Joined the Franciscans and travelled with Saint Francis of Assisi in the early days of the Order."
+summary: >-
+  May have been a priest. Joined the Franciscans and travelled with Saint Francis of Assisi in the early days of the
+  Order.
 searchAliases:
-  - "William the Englishman"
+  - William the Englishman
 deathYear: 1232
-born: "England"
-died: "1232 in Assisi, Italy of natural causes"
-deathPlace: "Italynatural causes"
-region: "Italy"
+born: England
+died: 1232 in Assisi, Italy of natural causes
+deathPlace: Italynatural causes
+region: Italy
 feastDay:
   month: 3
   day: 7
@@ -17,8 +19,9 @@ canonizationStatus: Blessed
 vocation:
   - Priest
   - Monk
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 martyr: false
+prayers: []
 ---
 
 May have been a priest. Joined the Franciscans and travelled with Saint Francis of Assisi in the early days of the Order.

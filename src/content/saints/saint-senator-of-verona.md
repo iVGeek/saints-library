@@ -1,12 +1,12 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Senator of Verona"
+name: Saint Senator of Verona
 honorific: Saint
-title: "Bishop"
-summary: "Bishop of Verona, Italy; records of his service vary from the late 3rd to the early 4th century."
+title: Bishop
+summary: Bishop of Verona, Italy; records of his service vary from the late 3rd to the early 4th century.
 searchAliases:
-  - "Senatore"
-region: "Italy"
+  - Senatore
+region: Italy
 feastDay:
   month: 4
   day: 27
@@ -14,6 +14,7 @@ canonizationStatus: Saint
 vocation:
   - Bishop
 martyr: false
+prayers: []
 ---
 
 Bishop of Verona, Italy; records of his service vary from the late 3rd to the early 4th century.

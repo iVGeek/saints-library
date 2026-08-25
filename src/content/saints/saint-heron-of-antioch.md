@@ -1,13 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Heron of Antioch"
+name: Saint Heron of Antioch
 honorific: Saint
-summary: "Spiritual student of Saint Ignatius of Antioch. Bishop of Antioch for 20 years. Martyr."
+summary: Spiritual student of Saint Ignatius of Antioch. Bishop of Antioch for 20 years. Martyr.
 searchAliases:
-  - "Herodion"
+  - Herodion
 deathYear: 136
-died: "c.136"
-region: "Turkey"
+died: c.136
+region: Turkey
 feastDay:
   month: 10
   day: 17
@@ -16,6 +16,7 @@ vocation:
   - Bishop
   - Monk
 martyr: true
+prayers: []
 ---
 
 Spiritual student of Saint Ignatius of Antioch. Bishop of Antioch for 20 years. Martyr.

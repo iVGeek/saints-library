@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Innocent of Le Mans"
+name: Saint Innocent of Le Mans
 honorific: Saint
-summary: "Bishop of Le Mans, France for over 40 years."
+summary: Bishop of Le Mans, France for over 40 years.
 deathYear: 559
-died: "559"
-region: "France"
+died: '559'
+region: France
 feastDay:
   month: 6
   day: 19
@@ -14,6 +14,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Bishop of Le Mans, France for over 40 years.

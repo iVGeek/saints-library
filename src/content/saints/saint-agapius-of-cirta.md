@@ -1,13 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Agapius of Cirta"
+name: Saint Agapius of Cirta
 honorific: Saint
-summary: "Priest. Exiled to North Africa. Martyred in the persecutions of Valerian."
+summary: Priest. Exiled to North Africa. Martyred in the persecutions of Valerian.
 deathYear: 259
-born: "Spain"
-died: "martyred in 259 at Cirta, Algeria"
-deathPlace: "Algeria"
-region: "Spain"
+born: Spain
+died: martyred in 259 at Cirta, Algeria
+deathPlace: Algeria
+region: Spain
 feastDay:
   month: 5
   day: 4
@@ -16,6 +16,7 @@ vocation:
   - Priest
   - Monk
 martyr: true
+prayers: []
 ---
 
 Priest. Exiled to North Africa. Martyred in the persecutions of Valerian.

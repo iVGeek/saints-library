@@ -23,6 +23,7 @@ imageCredit: >-
   <a rel="nofollow" class="external free"
   href="https://hdl.handle.net/10934/RM0001.COLLECT.743022">https://hdl.handle.net/10934/RM0001.COLLECT.743022</a>
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:H.%20Asella%20van%20Rome%2C%20RP-P-2019-3706.jpg
+prayers: []
 ---
 
 A consecreated virgin (a nun) from age 10. At age 12 she moved into a cell in Rome, Italy in which she lived the rest of her life. From it she led a community of like-minded women, and she emerged only to attend Mass and to visit the tombs of martyrs. She received visits from the historian Bishop Palladia. Her story is recounted by Saint Jerome who called her a flower of the Lord.

@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Austrebertus of Vienne"
+name: Saint Austrebertus of Vienne
 honorific: Saint
-summary: "Bishop of Vienne, France from 726 till 742. Supported the missionary work of Saint Boniface."
+summary: Bishop of Vienne, France from 726 till 742. Supported the missionary work of Saint Boniface.
 deathYear: 742
-died: "742"
-region: "France"
+died: '742'
+region: France
 feastDay:
   month: 6
   day: 5
@@ -14,6 +14,7 @@ vocation:
   - Bishop
   - Missionary
 martyr: false
+prayers: []
 ---
 
 Bishop of Vienne, France from 726 till 742. Supported the missionary work of Saint Boniface.

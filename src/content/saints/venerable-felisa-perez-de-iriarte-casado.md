@@ -1,26 +1,29 @@
 ---
-name: "Venerable Felisa Pérez de Iriarte Casado"
+name: Venerable Felisa Pérez de Iriarte Casado
 honorific: Venerable
-summary: "Dominican nun."
-image: "http://catholicsaints.info/wp-content/gallery/venerable-felisa-perez-de-iriarte-casado/venerable-felisa-perez-de-iriarte-casado-01.jpg"
+summary: Dominican nun.
+image: >-
+  http://catholicsaints.info/wp-content/gallery/venerable-felisa-perez-de-iriarte-casado/venerable-felisa-perez-de-iriarte-casado-01.jpg
 searchAliases:
-  - "Sister Teresita of the Child Jesus"
+  - Sister Teresita of the Child Jesus
 birthYear: 1904
 deathYear: 1954
-born: "2 May 1904 in Eslava, Navarra, Spain"
-died: "14 October 1954 in Olmedo, Valladolid, Spain of natural causes"
-birthPlace: "Navarra, Spain"
-deathPlace: "Valladolid, Spaof natural causes"
-region: "Spain"
+born: 2 May 1904 in Eslava, Navarra, Spain
+died: 14 October 1954 in Olmedo, Valladolid, Spain of natural causes
+birthPlace: Navarra, Spain
+deathPlace: Valladolid, Spaof natural causes
+region: Spain
 feastDay:
   month: 1
   day: 1
-centuries: [20]
+centuries:
+  - 20
 canonizationStatus: Venerable
 vocation:
   - Religious
-religiousOrder: "Dominican"
+religiousOrder: Dominican
 martyr: false
+prayers: []
 ---
 
 Dominican nun.

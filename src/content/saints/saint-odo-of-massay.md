@@ -1,18 +1,19 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Odo of Massay"
+name: Saint Odo of Massay
 honorific: Saint
-summary: "Benedictine monk. Abbot at Massay the last 32 years of his life."
+summary: Benedictine monk. Abbot at Massay the last 32 years of his life.
 deathYear: 967
-died: "967 of natural causes"
+died: 967 of natural causes
 feastDay:
   month: 6
   day: 7
 canonizationStatus: Saint
 vocation:
   - Monk
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 martyr: false
+prayers: []
 ---
 
 Benedictine monk. Abbot at Massay the last 32 years of his life.

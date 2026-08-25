@@ -1,19 +1,19 @@
 ---
-name: "Blessed Frederick Albert"
+name: Blessed Frederick Albert
 honorific: Blessed
-summary: "Priest. Founded the Congregation of the Vincentian Sisters of Mary Immaculate (Albertines)."
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Frederick-Albert.jpg"
+summary: Priest. Founded the Congregation of the Vincentian Sisters of Mary Immaculate (Albertines).
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Frederick-Albert.jpg
 searchAliases:
-  - "Federico Albert"
-  - "Frederico Albert"
-  - "Fredrik Albert"
+  - Federico Albert
+  - Frederico Albert
+  - Fredrik Albert
 birthYear: 1820
 deathYear: 1876
-born: "16 October 1820 in Turin, Italy"
-died: "30 September 1876 in Lanzo Torinese, Turin, Italy"
-birthPlace: "Italy"
-deathPlace: "Turin, Italy"
-region: "Italy"
+born: 16 October 1820 in Turin, Italy
+died: 30 September 1876 in Lanzo Torinese, Turin, Italy
+birthPlace: Italy
+deathPlace: Turin, Italy
+region: Italy
 feastDay:
   month: 9
   day: 30
@@ -22,6 +22,7 @@ vocation:
   - Priest
   - Religious
 martyr: false
+prayers: []
 ---
 
 Priest. Founded the Congregation of the Vincentian Sisters of Mary Immaculate (Albertines).

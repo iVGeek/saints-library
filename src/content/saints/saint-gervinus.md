@@ -22,6 +22,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/e/ee/Portogruaro_Piazza_della_Repubblica_01.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Gervinus
 imageCreditUrl: https://en.wikipedia.org/wiki/Portogruaro
+prayers: []
 ---
 
 Educated at episcopal school at Rheims, France. Benedictine. Canon of Rheims. Abbot. Friend of Saint Edward the Confessor. Great preacher, and very devoted to the Divine Office. Collected ancient Greek and Latin manuscripts. Leper.

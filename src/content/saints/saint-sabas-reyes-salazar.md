@@ -1,26 +1,29 @@
 ---
-name: "Saint Sabas Reyes Salazar"
+name: Saint Sabas Reyes Salazar
 honorific: Venerable
-summary: " In January 1927 government troops commandeered his chur Seminarian at Guadalajara, Mexico. Ordained in the diocese of Taumalipus, Mexico in 1911. Worked in several parishes in Guadalupe. Sent to Tototlan, Mexico to escape the government's persection of the Church and its priests."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Sabas-Reyes-Salazar.jpg"
+summary: ' In January 1927 government troops commandeered his chur Seminarian at Guadalajara, Mexico. Ordained in the diocese of Taumalipus, Mexico in 1911. Worked in several parishes in Guadalupe. Sent to Tototlan, Mexico to escape the government''s persection of the Church and its priests.'
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Sabas-Reyes-Salazar.jpg
 searchAliases:
-  - "Sabas Reyes"
+  - Sabas Reyes
 birthYear: 1883
 deathYear: 1927
-born: "5 December 1883 in Cocula, Jalisco, Mexico"
-died: "shot at 9pm on 13 April 1927 in a cemetery outside Tototlan, Jalisco, Mexico"
-birthPlace: "Jalisco, Mexico"
-deathPlace: "Jalisco, Mexico"
-region: "Mexico"
+born: 5 December 1883 in Cocula, Jalisco, Mexico
+died: shot at 9pm on 13 April 1927 in a cemetery outside Tototlan, Jalisco, Mexico
+birthPlace: Jalisco, Mexico
+deathPlace: Jalisco, Mexico
+region: Mexico
 feastDay:
   month: 4
   day: 13
-centuries: [19, 20]
+centuries:
+  - 19
+  - 20
 canonizationStatus: Venerable
 vocation:
   - Priest
   - Soldier
 martyr: true
+prayers: []
 ---
 
 Seminarian at Guadalajara, Mexico. Ordained in the diocese of Taumalipus, Mexico in 1911. Worked in several parishes in Guadalupe. Sent to Tototlan, Mexico to escape the government's persection of the Church and its priests.

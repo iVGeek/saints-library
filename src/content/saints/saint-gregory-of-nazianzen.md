@@ -1,18 +1,18 @@
 ---
-name: "Saint Gregory of Nazianzen"
+name: Saint Gregory of Nazianzen
 honorific: Saint
-summary: " Reluctant priest; he bel Son of Saint Gregory of Nazianzen the Elder and Saint Nonna. Brother of Saint Caesar Nazianzen, and Saint Gorgonius. Spent an wandering youth in search of learning. Friend of and fellow student with Saint Basil the Great. Monk at Basil's desert monastery."
-image: "http://catholicsaints.info/wp-content/gallery/saint-gregory-of-nazianzen/saint-gregory-of-nazianzen-01.jpg"
+summary: ' Reluctant priest; he bel Son of Saint Gregory of Nazianzen the Elder and Saint Nonna. Brother of Saint Caesar Nazianzen, and Saint Gorgonius. Spent an wandering youth in search of learning. Friend of and fellow student with Saint Basil the Great. Monk at Basil''s desert monastery.'
+image: http://catholicsaints.info/wp-content/gallery/saint-gregory-of-nazianzen/saint-gregory-of-nazianzen-01.jpg
 searchAliases:
-  - "Gregory of Nazianzus"
-  - "Grégoire de Nazianze"
-  - "The Christian Demosthenes"
+  - Gregory of Nazianzus
+  - Grégoire de Nazianze
+  - The Christian Demosthenes
 birthYear: 330
 deathYear: 390
-born: "330 at Arianzus, Cappadocia, Asia Minor"
-died: "25 January 390 of natural causes"
-birthPlace: "Cappadocia, Asia Minor"
-region: "Turkey"
+born: 330 at Arianzus, Cappadocia, Asia Minor
+died: 25 January 390 of natural causes
+birthPlace: Cappadocia, Asia Minor
+region: Turkey
 feastDay:
   month: 1
   day: 2
@@ -21,11 +21,12 @@ vocation:
   - Bishop
   - Priest
   - Confessor
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 patronage:
-  - "for harvests"
-  - "poets"
+  - for harvests
+  - poets
 martyr: false
+prayers: []
 ---
 
 Son of Saint Gregory of Nazianzen the Elder and Saint Nonna. Brother of Saint Caesar Nazianzen, and Saint Gorgonius. Spent an wandering youth in search of learning. Friend of and fellow student with Saint Basil the Great. Monk at Basil's desert monastery.

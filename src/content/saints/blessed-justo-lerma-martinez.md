@@ -1,25 +1,28 @@
 ---
-name: "Blessed Justo Lerma Martínez"
+name: Blessed Justo Lerma Martínez
 honorific: Blessed
-summary: "Priest. Member of the Capuchin Tertiary Fathers and Brothers of Our Lady of Sorrows. Martyred in the Spanish Civil War."
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Justo-Lerma-Martínez.jpg"
+summary: >-
+  Priest. Member of the Capuchin Tertiary Fathers and Brothers of Our Lady of Sorrows. Martyred in the Spanish Civil
+  War.
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Justo-Lerma-Martínez.jpg
 searchAliases:
-  - "Father Francisco María of Torrent"
+  - Father Francisco María of Torrent
 birthYear: 1886
 deathYear: 1936
-born: "12 November 1886 in Torrent, Valencia, Spain"
-died: "18 September 1936 in Torrent, Valencia, Spain"
-birthPlace: "Valencia, Spain"
-deathPlace: "Valencia, Spain"
-region: "Spain"
+born: 12 November 1886 in Torrent, Valencia, Spain
+died: 18 September 1936 in Torrent, Valencia, Spain
+birthPlace: Valencia, Spain
+deathPlace: Valencia, Spain
+region: Spain
 feastDay:
   month: 9
   day: 18
 canonizationStatus: Blessed
 vocation:
   - Priest
-religiousOrder: "Capuchin"
+religiousOrder: Capuchin
 martyr: true
+prayers: []
 ---
 
 Priest. Member of the Capuchin Tertiary Fathers and Brothers of Our Lady of Sorrows. Martyred in the Spanish Civil War.

@@ -18,6 +18,7 @@ image: https://commons.wikimedia.org/wiki/Special:FilePath/Sandila_block_map.png
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Martyred by Moors.

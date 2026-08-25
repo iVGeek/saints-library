@@ -17,6 +17,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/a/ac/Livorno_Quattro_mori_monument_07.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Fortunata of Carthage
 imageCreditUrl: https://en.wikipedia.org/wiki/List%20of%20slaves
+prayers: []
 ---
 
 Martyred in the persecutions of Decius.

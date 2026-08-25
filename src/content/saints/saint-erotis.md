@@ -17,6 +17,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/4b/Piccinni_L%27Avaro.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Erotis
 imageCreditUrl: https://en.wikipedia.org/wiki/Miser
+prayers: []
 ---
 
 Martyr. No other information has survived.

@@ -20,6 +20,7 @@ canonizationStatus: Blessed
 vocation:
   - Missionary
 martyr: false
+prayers: []
 ---
 
 A pious child, Anna ran away from home at age seven to become a missionary. Married. Widowed at age 39, she devoted herself to ministering to the poor and women prisoners. Founded the Institute of the Good Shepherd of Parma a lay group to help women who had fallen on hard times. Founded the Servants of the Immaculata, a religious congregation with the same design.

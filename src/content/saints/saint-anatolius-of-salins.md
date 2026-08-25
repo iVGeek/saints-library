@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Anatolius of Salins"
+name: Saint Anatolius of Salins
 honorific: Saint
-summary: "Bishop in Scotland. Pilgrim to Rome, Italy. He abandoned his see to live as a hermit at Salins, France."
-born: "Scottish"
-died: "9th century"
-region: "Scotland"
+summary: Bishop in Scotland. Pilgrim to Rome, Italy. He abandoned his see to live as a hermit at Salins, France.
+born: Scottish
+died: 9th century
+region: Scotland
 feastDay:
   month: 2
   day: 3
@@ -14,6 +14,7 @@ vocation:
   - Bishop
   - Hermit
 martyr: false
+prayers: []
 ---
 
 Bishop in Scotland. Pilgrim to Rome, Italy. He abandoned his see to live as a hermit at Salins, France.

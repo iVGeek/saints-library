@@ -1,9 +1,9 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Martin of Vienne"
+name: Saint Martin of Vienne
 honorific: Saint
-summary: "Sent by Pope Saint Alexander I as missionary to Vienne, France. Served as its third bishop."
-region: "France"
+summary: Sent by Pope Saint Alexander I as missionary to Vienne, France. Served as its third bishop.
+region: France
 feastDay:
   month: 7
   day: 1
@@ -13,6 +13,7 @@ vocation:
   - Monk
   - Missionary
 martyr: false
+prayers: []
 ---
 
 Sent by Pope Saint Alexander I as missionary to Vienne, France. Served as its third bishop.

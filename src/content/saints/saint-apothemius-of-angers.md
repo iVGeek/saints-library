@@ -1,16 +1,16 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Apothemius of Angers"
+name: Saint Apothemius of Angers
 honorific: Saint
-summary: "Hermit. Spritual student of Saint Martin of Tours. Priest. Bishop of Angers, France c.380."
+summary: Hermit. Spritual student of Saint Martin of Tours. Priest. Bishop of Angers, France c.380.
 searchAliases:
-  - "Apotemius"
-  - "Apothème"
-  - "Hypotheme"
+  - Apotemius
+  - Apothème
+  - Hypotheme
 deathYear: 389
-born: "Greece"
-died: "c.389"
-region: "France"
+born: Greece
+died: c.389
+region: France
 feastDay:
   month: 11
   day: 20
@@ -21,6 +21,7 @@ vocation:
   - Monk
   - Hermit
 martyr: false
+prayers: []
 ---
 
 Hermit. Spritual student of Saint Martin of Tours. Priest. Bishop of Angers, France c.380.

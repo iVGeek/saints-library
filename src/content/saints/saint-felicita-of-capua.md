@@ -1,20 +1,21 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Felicita of Capua"
+name: Saint Felicita of Capua
 honorific: Saint
-summary: "Martyred in the persecutions of Decius."
+summary: Martyred in the persecutions of Decius.
 searchAliases:
-  - "Felicity"
+  - Felicity
 deathYear: 250
-died: "c.250 in Capua, Campania, Italy"
-deathPlace: "Campania, Italy"
-region: "Italy"
+died: c.250 in Capua, Campania, Italy
+deathPlace: Campania, Italy
+region: Italy
 feastDay:
   month: 11
   day: 16
 canonizationStatus: Saint
 vocation: []
 martyr: true
+prayers: []
 ---
 
 Martyred in the persecutions of Decius.

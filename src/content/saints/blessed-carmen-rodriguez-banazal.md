@@ -1,15 +1,18 @@
 ---
-name: "Blessed Carmen Rodríguez Banazal"
+name: Blessed Carmen Rodríguez Banazal
 honorific: Blessed
-summary: "The daughter of Francisco and Rosa, Carmen was educated in the local city school. In her teens, she became to feel a call to religious life, and joined the Daughters of Charity on 16 August 1897. After training at the Hospital of the Incurrables in Madrid, Spain, Sister Carmen wa"
-image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Carmen-Rodriguez-Banazal.jpg"
+summary: >-
+  The daughter of Francisco and Rosa, Carmen was educated in the local city school. In her teens, she became to feel a
+  call to religious life, and joined the Daughters of Charity on 16 August 1897. After training at the Hospital of the
+  Incurrables in Madrid, Spain, Sister Carmen wa
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Carmen-Rodriguez-Banazal.jpg
 birthYear: 1876
 deathYear: 1936
-born: "26 March 1876 in Cea, Orense, Spain"
-died: "shot on 9 December 1936 in Paterna, Valencia, Spain"
-birthPlace: "Orense, Spain"
-deathPlace: "Valencia, Spain"
-region: "Spain"
+born: 26 March 1876 in Cea, Orense, Spain
+died: shot on 9 December 1936 in Paterna, Valencia, Spain
+birthPlace: Orense, Spain
+deathPlace: Valencia, Spain
+region: Spain
 feastDay:
   month: 12
   day: 9
@@ -17,6 +20,7 @@ canonizationStatus: Blessed
 vocation:
   - Religious
 martyr: true
+prayers: []
 ---
 
 The daughter of Francisco and Rosa, Carmen was educated in the local city school. In her teens, she became to feel a call to religious life, and joined the Daughters of Charity on 16 August 1897. After training at the Hospital of the Incurrables in Madrid, Spain, Sister Carmen was assigned to serve as a school teacher in Bétera, Spain. She served there for years, was known for her piety and hardwork, and in 1935 was chosen superior of the Daughters community.

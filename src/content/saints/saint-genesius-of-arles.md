@@ -27,6 +27,7 @@ patronage:
   - notaries
   - secretaries
 martyr: true
+prayers: []
 ---
 
 Soldier. Literate, he was made a notary and secretary to the magistrate of Arles, France. Convert. During the period of his catechumenate, Maximianus issued his decree of persecution against Christians. Outraged, Genesius threw his writing tablets at the feet of his magistrate, denounced the orders, was imprisoned, and executed. Martyr.

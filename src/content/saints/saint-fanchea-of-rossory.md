@@ -32,6 +32,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/9/9d/Menaion_icon_%2817_c.%2C_TsAK%29_-_January.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Fanchea of Rossory
 imageCreditUrl: https://en.wikipedia.org/wiki/January%201%20(Eastern%20Orthodox%20liturgics)
+prayers: []
 ---
 
 Sister of Saint Enda of Arran, Saint Lochina, Saint Carecha and Saint Dareima. Nun. Persuaded her brother to become a monk. Noted spiritual director. Founded a convent at Rossory, Fermanagh, Ireland, and served as its first abbess. Because of her key role in the founding of Irish monasticism, many fantastic stories grew up around her.

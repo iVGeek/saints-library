@@ -1,17 +1,19 @@
 ---
-name: "Saint Fructos of Segovia"
+name: Saint Fructos of Segovia
 honorific: Saint
-summary: "Brother of Saint Engratia of Segovia and Saint Valentine of Segovia. When his brother and sister were martyred by invading Moors, Fructos fled and lived out his life as a hermit."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Fructos-of-Segovia.jpg"
+summary: >-
+  Brother of Saint Engratia of Segovia and Saint Valentine of Segovia. When his brother and sister were martyred by
+  invading Moors, Fructos fled and lived out his life as a hermit.
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Fructos-of-Segovia.jpg
 searchAliases:
-  - "Fruitos"
-  - "Frutos"
-  - "Frutto"
+  - Fruitos
+  - Frutos
+  - Frutto
 deathYear: 715
-born: "at Sepulveda, Castile (in modern Spain)"
-died: "c.715"
-birthPlace: "Castile (modern Spain)"
-region: "Spain"
+born: at Sepulveda, Castile (in modern Spain)
+died: c.715
+birthPlace: Castile (modern Spain)
+region: Spain
 feastDay:
   month: 10
   day: 25
@@ -20,8 +22,9 @@ vocation:
   - Religious
   - Hermit
 patronage:
-  - "Segovia, Spain"
+  - Segovia, Spain
 martyr: true
+prayers: []
 ---
 
 Brother of Saint Engratia of Segovia and Saint Valentine of Segovia. When his brother and sister were martyred by invading Moors, Fructos fled and lived out his life as a hermit.

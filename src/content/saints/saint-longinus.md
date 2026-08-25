@@ -23,6 +23,7 @@ symbols:
   - Cross
 martyr: true
 lifeEvents: []
+prayers: []
 ---
 
 Bishop of Tlemcen, Mauritania who stayed loyal to orthodox Christianity and opposed Arianism. Tortured and martyred by order of the Arian Vandal king Hunneric.

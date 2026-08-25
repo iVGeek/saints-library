@@ -35,7 +35,7 @@ symbols:
 martyr: true
 lifeEvents: []
 prayers:
-  - name: Novena to Saint Blaise
+  - name: Novena to Saint Saint Blaise
     kind: Novena — nine-day prayer for throat healing
     text: >-
       O glorious Saint Blaise, bishop and martyr, healer of the sick and friend of animals, I turn to you in this novena

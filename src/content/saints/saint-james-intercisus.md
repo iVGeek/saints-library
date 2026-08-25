@@ -28,6 +28,7 @@ patronage:
   - lost vocations
   - torture victims
 martyr: true
+prayers: []
 ---
 
 Military officer and courtier to King Jezdigerd I. During Jezdigerd's persecution of Christians, James apostacized. Following Jezdigerd's death, he was contacted by family members who had never renounced their faith. James experienced a crisis of faith and conscience, and openly expressed his faith to the new king Bahram. He was condemned, tortured and martyred.

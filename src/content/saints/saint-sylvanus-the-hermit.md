@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Sylvanus the Hermit"
+name: Saint Sylvanus the Hermit
 honorific: Saint
-summary: "Hermit near Burgos, Old Castile, Spain. Martyred by Saracens."
+summary: Hermit near Burgos, Old Castile, Spain. Martyred by Saracens.
 deathYear: 950
-died: "c.950"
-region: "Spain"
+died: c.950
+region: Spain
 feastDay:
   month: 8
   day: 30
@@ -14,6 +14,7 @@ vocation:
   - Monk
   - Hermit
 martyr: true
+prayers: []
 ---
 
 Hermit near Burgos, Old Castile, Spain. Martyred by Saracens.

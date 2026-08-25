@@ -1,13 +1,15 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Tigrius"
+name: Saint Tigrius
 honorific: Saint
-summary: "Priest in Constantinople. Active supporter of Saint John Chrysostom during his exile. To silence him, Tigrius was arrested and exiled on trumped up charges of trying to burn down the Constantinople cathedral and senate."
+summary: >-
+  Priest in Constantinople. Active supporter of Saint John Chrysostom during his exile. To silence him, Tigrius was
+  arrested and exiled on trumped up charges of trying to burn down the Constantinople cathedral and senate.
 searchAliases:
-  - "Tygrius"
+  - Tygrius
 deathYear: 405
-died: "c.405 in Asia Minor of natural causes"
-region: "Turkey"
+died: c.405 in Asia Minor of natural causes
+region: Turkey
 feastDay:
   month: 1
   day: 12
@@ -16,6 +18,7 @@ vocation:
   - Priest
   - Monk
 martyr: false
+prayers: []
 ---
 
 Priest in Constantinople. Active supporter of Saint John Chrysostom during his exile. To silence him, Tigrius was arrested and exiled on trumped up charges of trying to burn down the Constantinople cathedral and senate.

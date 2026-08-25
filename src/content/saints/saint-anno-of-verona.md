@@ -25,6 +25,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/6/6f/Sebastiano_Ricci_042.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Anno of Verona
 imageCreditUrl: https://en.wikipedia.org/wiki/Firmus%20and%20Rusticus
+prayers: []
 ---
 
 Brother of Saint Maria Consolatrice of Verona. Priest. Bishop of Verona, Italy. Connected with the translation of the relics of Saint Firmus and Saint Rusticus.

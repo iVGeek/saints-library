@@ -24,6 +24,7 @@ vocation:
   - Priest
 religiousOrder: Franciscan
 martyr: false
+prayers: []
 ---
 
 Third of eleven children in his family. In 1919, at the age of 15, he joined the Franciscan Friars Minor. Ordained a priest in Molfetta, Italy on 11 June 1927. Parish priest in Foggia, Italy. Spiritual director of the Pontifical Athenaeum Antonianum in Rome, Italy. Provincial Minister of the Apulia-Molise Franciscan province. Worked to provide material and spiritual support to refugees during World War II. Bishop of San Marco e Bisignano, Italy on 17 September 1953, chosen by Pope Pius XII and consecrated by Servant of God Fortunato Maria Farina.

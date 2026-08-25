@@ -1,15 +1,15 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Valens of Auxerre"
+name: Saint Valens of Auxerre
 honorific: Saint
-summary: "Priest. Bishop. Martyred with three boys whose names have not come down to us."
+summary: Priest. Bishop. Martyred with three boys whose names have not come down to us.
 searchAliases:
-  - "Vales"
-  - "Velis"
-  - "Valis"
-died: "Auxerre, France"
-deathPlace: "France"
-region: "France"
+  - Vales
+  - Velis
+  - Valis
+died: Auxerre, France
+deathPlace: France
+region: France
 feastDay:
   month: 5
   day: 21
@@ -19,6 +19,7 @@ vocation:
   - Priest
   - Monk
 martyr: true
+prayers: []
 ---
 
 Priest. Bishop. Martyred with three boys whose names have not come down to us.

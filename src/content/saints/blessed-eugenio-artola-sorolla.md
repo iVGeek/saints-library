@@ -1,25 +1,26 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Eugenio Artola Sorolla"
+name: Blessed Eugenio Artola Sorolla
 honorific: Blessed
-summary: "Monk. Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
+summary: Monk. Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War.
 searchAliases:
-  - "Victorico María"
+  - Victorico María
 birthYear: 1894
 deathYear: 1936
-born: "12 April 1894 in Cinctorres, Castellón, Spain"
-died: "22 July 1936 in Redueña, Madrid, Spain"
-birthPlace: "Castellón, Spain"
-deathPlace: "Madrid, Spain"
-region: "Spain"
+born: 12 April 1894 in Cinctorres, Castellón, Spain
+died: 22 July 1936 in Redueña, Madrid, Spain
+birthPlace: Castellón, Spain
+deathPlace: Madrid, Spain
+region: Spain
 feastDay:
   month: 7
   day: 22
 canonizationStatus: Blessed
 vocation:
   - Monk
-religiousOrder: "Marist"
+religiousOrder: Marist
 martyr: true
+prayers: []
 ---
 
 Monk. Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War.

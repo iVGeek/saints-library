@@ -1,12 +1,15 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint John of Rome"
+name: Saint John of Rome
 honorific: Saint
-summary: "Son of Saint Marcian the Senator. Died of unknown causes, but was brought back to life through the prayers of Saint Abundius. He immediately converted to Christianity, and was immediately condemned for his faith. Martyred with Saint Marcian the Senator, Saint Abundius, and Saint"
+summary: >-
+  Son of Saint Marcian the Senator. Died of unknown causes, but was brought back to life through the prayers of Saint
+  Abundius. He immediately converted to Christianity, and was immediately condemned for his faith. Martyred with Saint
+  Marcian the Senator, Saint Abundius, and Saint
 deathYear: 304
-died: "beheaded c.304 at Rome, Italy"
-deathPlace: "Italy"
-region: "Italy"
+died: beheaded c.304 at Rome, Italy
+deathPlace: Italy
+region: Italy
 feastDay:
   month: 9
   day: 16
@@ -15,8 +18,9 @@ vocation:
   - Priest
   - Monk
 patronage:
-  - "Civita Castellana, Viterbo, Italy"
+  - Civita Castellana, Viterbo, Italy
 martyr: true
+prayers: []
 ---
 
 Son of Saint Marcian the Senator. Died of unknown causes, but was brought back to life through the prayers of Saint Abundius. He immediately converted to Christianity, and was immediately condemned for his faith. Martyred with Saint Marcian the Senator, Saint Abundius, and Saint Abundantius.

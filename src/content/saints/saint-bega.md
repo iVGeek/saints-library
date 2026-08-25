@@ -1,18 +1,21 @@
 ---
-name: "Saint Bega"
+name: Saint Bega
 honorific: Saint
-summary: "Born to the Irish royalty. Bega's family arranged her a marriage to the Prince of Norway, but Bega wanted to devote her life and virginity to the Lord, refused the arrangement, and fled; legend says she was carried across the sea to the coast of Cumberland by riding on a clod of"
-image: "https://upload.wikimedia.org/wikipedia/commons/5/5a/St_Bega_stained_glass.JPG"
+summary: >-
+  Born to the Irish royalty. Bega's family arranged her a marriage to the Prince of Norway, but Bega wanted to devote
+  her life and virginity to the Lord, refused the arrangement, and fled; legend says she was carried across the sea to
+  the coast of Cumberland by riding on a clod of
+image: https://upload.wikimedia.org/wikipedia/commons/5/5a/St_Bega_stained_glass.JPG
 searchAliases:
-  - "Bee"
-  - "Bees"
-  - "Begga"
-  - "Begh"
-  - "Begha"
+  - Bee
+  - Bees
+  - Begga
+  - Begh
+  - Begha
 deathYear: 681
-born: "7th century Ireland"
-died: "681 of natural causes"
-region: "Scandinavia"
+born: 7th century Ireland
+died: 681 of natural causes
+region: Scandinavia
 feastDay:
   month: 9
   day: 6
@@ -23,6 +26,7 @@ vocation:
   - Monk
   - Religious
 martyr: false
+prayers: []
 ---
 
 Born to the Irish royalty. Bega's family arranged her a marriage to the Prince of Norway, but Bega wanted to devote her life and virginity to the Lord, refused the arrangement, and fled; legend says she was carried across the sea to the coast of Cumberland by riding on a clod of earth.

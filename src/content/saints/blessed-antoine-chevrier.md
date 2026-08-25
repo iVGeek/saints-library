@@ -25,6 +25,7 @@ patronage:
   - Sisters of Prado
   - Institute of the Priests of Prado
 martyr: false
+prayers: []
 ---
 
 An only child in a family of workers in the silk industry, Antoine was baptized at the age of 2 days. He made his First Communion in 1837, and in 1840, at age 14, he considered becoming a priest – and had such a sense of happiness at the idea that he knew he had a calling to the priesthood. He began his seminary studies in 1842. While studying, he considered joining the foreign missions, but his mother threatened to disown him. “Do you think I raised you for you to be eaten by savages?”, she demanded. “Savages you can find in Lyon!” He was ordained a priest in the archdiocese of Lyon, France on 25 May 1850.

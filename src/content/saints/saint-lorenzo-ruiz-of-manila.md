@@ -1,29 +1,35 @@
 ---
-name: "Saint Lorenzo Ruiz of Manila"
+name: Saint Lorenzo Ruiz of Manila
 honorific: Venerable
-summary: "Born to a Chinese father and Filipino mother, both Christians, Lorenzo learned Chinese and Tagalog at home, Spanish from the Dominicans whom he served as altar boy and sacristan. Professional calligrapher and document transcriptionist. Member of the Confraternity of the Holy Rosa"
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Lorenzo-Ruiz-of-Manila.jpg"
+summary: >-
+  Born to a Chinese father and Filipino mother, both Christians, Lorenzo learned Chinese and Tagalog at home, Spanish
+  from the Dominicans whom he served as altar boy and sacristan. Professional calligrapher and document
+  transcriptionist. Member of the Confraternity of the Holy Rosa
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Lorenzo-Ruiz-of-Manila.jpg
 searchAliases:
-  - "Laurence Ruiz"
-  - "Lawrence Ruiz"
+  - Laurence Ruiz
+  - Lawrence Ruiz
 birthYear: 1600
 deathYear: 1637
-born: "c.1600 at Binondo, Manila, Philippines"
-died: "29-30 September 1637 at Nagasaki, Japan by being crushed over a period of three days while hanging upside down"
-birthPlace: "Manila, Philippines"
-deathPlace: "Japan by being crushed over a periodthree days while hanging upside down"
-region: "Japan"
+born: c.1600 at Binondo, Manila, Philippines
+died: 29-30 September 1637 at Nagasaki, Japan by being crushed over a period of three days while hanging upside down
+birthPlace: Manila, Philippines
+deathPlace: Japan by being crushed over a periodthree days while hanging upside down
+region: Japan
 feastDay:
   month: 9
   day: 28
-centuries: [16, 17]
+centuries:
+  - 16
+  - 17
 canonizationStatus: Venerable
 vocation:
   - Priest
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 patronage:
-  - "altar servers"
+  - altar servers
 martyr: true
+prayers: []
 ---
 
 Born to a Chinese father and Filipino mother, both Christians, Lorenzo learned Chinese and Tagalog at home, Spanish from the Dominicans whom he served as altar boy and sacristan. Professional calligrapher and document transcriptionist. Member of the Confraternity of the Holy Rosary. Married layman, and the father of two sons and a daughter.

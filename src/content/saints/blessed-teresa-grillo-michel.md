@@ -1,18 +1,21 @@
 ---
-name: "Blessed Teresa Grillo Michel"
+name: Blessed Teresa Grillo Michel
 honorific: Blessed
-summary: "Youngest of five children born to Giuseppe and Maria Antonietta Parvopassau. Her father was the head physician at the Civil Hospital of Alessandria, Italy, but died when the girl was still very small. Maddalena attended school in Turin, Italy, and then in a boarding school in Lod"
-image: "https://upload.wikimedia.org/wikipedia/commons/c/c2/M%C3%A8re_Teresa_Michel.png"
+summary: >-
+  Youngest of five children born to Giuseppe and Maria Antonietta Parvopassau. Her father was the head physician at the
+  Civil Hospital of Alessandria, Italy, but died when the girl was still very small. Maddalena attended school in Turin,
+  Italy, and then in a boarding school in Lod
+image: https://upload.wikimedia.org/wikipedia/commons/c/c2/M%C3%A8re_Teresa_Michel.png
 searchAliases:
-  - "Maddalena Parvopassau"
-  - "Maria Antonia"
+  - Maddalena Parvopassau
+  - Maria Antonia
 birthYear: 1855
 deathYear: 1944
-born: "25 September 1855 in Spinetta Marengo, Alessandria, Italy as Maddalena Parvopassau"
-died: "25 January 1944 in Alessandria, Italy of natural causes"
-birthPlace: "Alessandria, Italy as Maddalena Parvopassau"
-deathPlace: "Italynatural causes"
-region: "Brazil"
+born: 25 September 1855 in Spinetta Marengo, Alessandria, Italy as Maddalena Parvopassau
+died: 25 January 1944 in Alessandria, Italy of natural causes
+birthPlace: Alessandria, Italy as Maddalena Parvopassau
+deathPlace: Italynatural causes
+region: Brazil
 feastDay:
   month: 1
   day: 25
@@ -21,8 +24,9 @@ vocation:
   - Priest
   - Religious
 patronage:
-  - "Little Sisters of Divine Providence"
+  - Little Sisters of Divine Providence
 martyr: false
+prayers: []
 ---
 
 Youngest of five children born to Giuseppe and Maria Antonietta Parvopassau. Her father was the head physician at the Civil Hospital of Alessandria, Italy, but died when the girl was still very small. Maddalena attended school in Turin, Italy, and then in a boarding school in Lodi, Italy run by the Ladies of Lorreto. At 18 she returned to Alessandria where she married Captain Giovanni Michel on 2 August 1877. In the next few years they lived in the Italian cities of Caserta, Acireale, Catania, Portici and Naples.

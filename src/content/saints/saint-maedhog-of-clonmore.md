@@ -1,15 +1,15 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Maedhog of Clonmore"
+name: Saint Maedhog of Clonmore
 honorific: Saint
-summary: "Sixth century abbot of Clonmore, Ireland."
+summary: Sixth century abbot of Clonmore, Ireland.
 searchAliases:
-  - "Aedhan"
-  - "Mogue"
-  - "Aed"
-  - "Moguer"
-  - "Macdhog-Aedhan"
-region: "Ireland"
+  - Aedhan
+  - Mogue
+  - Aed
+  - Moguer
+  - Macdhog-Aedhan
+region: Ireland
 feastDay:
   month: 4
   day: 11
@@ -17,6 +17,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: false
+prayers: []
 ---
 
 Sixth century abbot of Clonmore, Ireland.

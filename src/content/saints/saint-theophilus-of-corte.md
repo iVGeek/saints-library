@@ -23,6 +23,7 @@ vocation:
   - Monk
 religiousOrder: Franciscan
 martyr: false
+prayers: []
 ---
 
 Joined the Franciscans in 1693, taking the name Theophilus (friend of God). Ordained in Naples, Italy. Taught at Civitella, Italy. Evangelist throughout Corsica and Italy. Worked for reforms and renewed zeal within the Franciscans.

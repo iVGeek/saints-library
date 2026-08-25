@@ -32,6 +32,7 @@ patronage:
   - Ariano Irpino-Lacedonia, Italy, diocese of
   - Castelbottaccio, Italy
 martyr: false
+prayers: []
 ---
 
 Born to the Italian nobility, he became a knight and fought in defense in the pope in the area of Frascati, Italy. Captured on the field, he was imprisoned in a tower until he prayed for the intercession Saint Leonard of Noblac and received miraculous assistance in escape. Pilgrim to the Benedictine abbey to Saints Trinity of Cava dei Tirreni; he did not become a monk, but lived there, spending his days in prayer and work. From there he moved to the monastery of Montevergine and became a spiritual student of Saint William of Vercelli. Moved to Ariano Irpino, Italy in 1117, and devoted himself to care for the pilgrims that came through the city en route to the Holy Lands. He began living nearby as a hermit in 1120; Ottone even dug a grave next to his cell as a reminder that death was always near. His reputation for holiness, wisdom and miracles soon spread and drew many would-be students.

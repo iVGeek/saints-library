@@ -31,6 +31,7 @@ patronage:
   - engaged couples
   - Siena, Italy
 martyr: false
+prayers: []
 ---
 
 The son of a book illuminator, he was born so badly deformed that his mother gave him off to the care of a nurse. The nurse claimed that the only time the child was peaceful was in the local Dominican church, especially when near the altar of relics. Legend says that one day in church, the nurse covered the baby's face with a scarf; an unknown pilgrim told her, “Do not cover that child's face. He will one day be the glory of this city.” A few days later the child suddenly stretch out his twisted limbs, pronounced the name “Jesus”, and all deformity left him.

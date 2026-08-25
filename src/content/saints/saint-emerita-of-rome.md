@@ -21,6 +21,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/6/69/2872-saint-agnes-domenichino.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Emerita of Rome
 imageCreditUrl: https://en.wikipedia.org/wiki/Agnes%20of%20Rome
+prayers: []
 ---
 
 Consecrated virgin, an early version of a nun. When dragged to court for the crime of Christianity during the persecutions of Valerian, she simply stood in front of the judge and prayed. Martyr.

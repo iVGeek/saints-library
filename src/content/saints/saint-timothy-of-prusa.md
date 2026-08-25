@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Timothy of Prusa"
+name: Saint Timothy of Prusa
 honorific: Saint
-summary: "Bishop of Prusa, Bithynia (in modern Turkey). Martyred in the persecutions of Julian the Apostate."
+summary: Bishop of Prusa, Bithynia (in modern Turkey). Martyred in the persecutions of Julian the Apostate.
 deathYear: 362
-died: "362"
-region: "Turkey"
+died: '362'
+region: Turkey
 feastDay:
   month: 6
   day: 10
@@ -14,6 +14,7 @@ vocation:
   - Bishop
   - Monk
 martyr: true
+prayers: []
 ---
 
 Bishop of Prusa, Bithynia (in modern Turkey). Martyred in the persecutions of Julian the Apostate.

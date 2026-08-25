@@ -1,14 +1,17 @@
 ---
-name: "Pope Saint Paul I"
+name: Pope Saint Paul I
 honorific: Saint
-summary: "Brother of Pope Stephen II. Orphaned young. Educated at the Lateran school. Deacon under Pope Zachary. Ordained in Rome, Italy. Noted for his gentleness and his charity, spiritual and monetary. Papal diplomat for his brother, recovering Papal State property from the invading Lomb"
-image: "https://upload.wikimedia.org/wikipedia/commons/3/30/SCeau_Paul_I_pape_17109_%28cropped%29.jpg"
+summary: >-
+  Brother of Pope Stephen II. Orphaned young. Educated at the Lateran school. Deacon under Pope Zachary. Ordained in
+  Rome, Italy. Noted for his gentleness and his charity, spiritual and monetary. Papal diplomat for his brother,
+  recovering Papal State property from the invading Lomb
+image: https://upload.wikimedia.org/wikipedia/commons/3/30/SCeau_Paul_I_pape_17109_%28cropped%29.jpg
 deathYear: 767
-born: "at Rome, Italy"
-died: "28 June 767 at Saint Paul's Outside the Walls, Rome, Italy of natural causes"
-birthPlace: "Italy"
-deathPlace: "Rome, Italynatural causes"
-region: "Italy"
+born: at Rome, Italy
+died: 28 June 767 at Saint Paul's Outside the Walls, Rome, Italy of natural causes
+birthPlace: Italy
+deathPlace: Rome, Italynatural causes
+region: Italy
 feastDay:
   month: 6
   day: 28
@@ -18,6 +21,7 @@ vocation:
   - Monk
   - Deacon
 martyr: false
+prayers: []
 ---
 
 Brother of Pope Stephen II. Orphaned young. Educated at the Lateran school. Deacon under Pope Zachary. Ordained in Rome, Italy. Noted for his gentleness and his charity, spiritual and monetary. Papal diplomat for his brother, recovering Papal State property from the invading Lombards. Succeeded his brother as 93rd pope on 29 May 757.

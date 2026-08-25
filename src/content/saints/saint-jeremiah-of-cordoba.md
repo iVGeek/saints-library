@@ -1,17 +1,20 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Jeremiah of Cordoba"
+name: Saint Jeremiah of Cordoba
 honorific: Saint
-summary: "As a very old man, Jeremiah founded the double-monastery of Tábanos in Moorish-occupied Cordoba, Spain, and became a monk there; his wife, Elizabeth, became a nun in the female wing. Martyred in the persecutions of Abderrahman for denouncing Mohammed."
+summary: >-
+  As a very old man, Jeremiah founded the double-monastery of Tábanos in Moorish-occupied Cordoba, Spain, and became a
+  monk there; his wife, Elizabeth, became a nun in the female wing. Martyred in the persecutions of Abderrahman for
+  denouncing Mohammed.
 searchAliases:
-  - "Geremia"
-  - "Jeremias"
+  - Geremia
+  - Jeremias
 deathYear: 851
-born: "Cordoba, Spain"
-died: "scourged to death on 7 June 851 at Cordoba, Spain"
-birthPlace: "Spain"
-deathPlace: "Spain"
-region: "Spain"
+born: Cordoba, Spain
+died: scourged to death on 7 June 851 at Cordoba, Spain
+birthPlace: Spain
+deathPlace: Spain
+region: Spain
 feastDay:
   month: 6
   day: 7
@@ -20,6 +23,7 @@ vocation:
   - Monk
   - Religious
 martyr: true
+prayers: []
 ---
 
 As a very old man, Jeremiah founded the double-monastery of Tábanos in Moorish-occupied Cordoba, Spain, and became a monk there; his wife, Elizabeth, became a nun in the female wing. Martyred in the persecutions of Abderrahman for denouncing Mohammed.

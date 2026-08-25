@@ -13,6 +13,7 @@ canonizationStatus: Saint
 vocation:
   - Bishop
 martyr: false
+prayers: []
 ---
 
 Son of Geraint Saer of Ireland. Bishop in 7th century Wales.

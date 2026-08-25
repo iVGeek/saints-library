@@ -1,12 +1,12 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Elidan"
+name: Saint Elidan
 honorific: Saint
-summary: "Nun in Llangurig, Denbigshire, Wales."
+summary: Nun in Llangurig, Denbigshire, Wales.
 searchAliases:
-  - "Elidano"
-  - "Ilid"
-region: "Italy"
+  - Elidano
+  - Ilid
+region: Italy
 feastDay:
   month: 6
   day: 16
@@ -14,6 +14,7 @@ canonizationStatus: Saint
 vocation:
   - Religious
 martyr: false
+prayers: []
 ---
 
 Nun in Llangurig, Denbigshire, Wales.

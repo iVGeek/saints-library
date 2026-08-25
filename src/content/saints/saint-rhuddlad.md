@@ -1,13 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Rhuddlad"
+name: Saint Rhuddlad
 honorific: Saint
-summary: "Nun. No other information has survived."
+summary: Nun. No other information has survived.
 searchAliases:
-  - "Rhudlad"
-born: "Welsh"
-died: "7th century"
-region: "England"
+  - Rhudlad
+born: Welsh
+died: 7th century
+region: England
 feastDay:
   month: 9
   day: 4
@@ -15,8 +15,9 @@ canonizationStatus: Saint
 vocation:
   - Religious
 patronage:
-  - "Llanrhyddlad, Anglesey, Wales"
+  - Llanrhyddlad, Anglesey, Wales
 martyr: false
+prayers: []
 ---
 
 Nun. No other information has survived.

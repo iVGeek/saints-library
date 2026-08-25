@@ -1,13 +1,15 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Wilicarius of Vienne"
+name: Saint Wilicarius of Vienne
 honorific: Saint
-summary: "Bishop of Vienne, France. Went into exile to Rome, Italy, c.752 due to Frankish persecution. Retired from his see to spend his remaining years as a prayerful monk in the monastery of Saint Mauritius."
+summary: >-
+  Bishop of Vienne, France. Went into exile to Rome, Italy, c.752 due to Frankish persecution. Retired from his see to
+  spend his remaining years as a prayerful monk in the monastery of Saint Mauritius.
 searchAliases:
-  - "Wilicaire"
+  - Wilicaire
 deathYear: 765
-died: "765 of natural causes"
-region: "France"
+died: 765 of natural causes
+region: France
 feastDay:
   month: 6
   day: 13
@@ -16,6 +18,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Bishop of Vienne, France. Went into exile to Rome, Italy, c.752 due to Frankish persecution. Retired from his see to spend his remaining years as a prayerful monk in the monastery of Saint Mauritius.

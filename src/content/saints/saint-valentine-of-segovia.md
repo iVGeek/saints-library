@@ -1,13 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Valentine of Segovia"
+name: Saint Valentine of Segovia
 honorific: Saint
-summary: "Brother of Saint Fructus of Segovia and Saint Engratia of Segovia. Martyred by invading Moors."
+summary: Brother of Saint Fructus of Segovia and Saint Engratia of Segovia. Martyred by invading Moors.
 deathYear: 715
-born: "at Sepulveda, Castile (in modern Spain)"
-died: "c.715"
-birthPlace: "Castile (modern Spain)"
-region: "Spain"
+born: at Sepulveda, Castile (in modern Spain)
+died: c.715
+birthPlace: Castile (modern Spain)
+region: Spain
 feastDay:
   month: 10
   day: 26
@@ -15,8 +15,9 @@ canonizationStatus: Saint
 vocation:
   - Monk
 patronage:
-  - "Segovia, Spain"
+  - Segovia, Spain
 martyr: true
+prayers: []
 ---
 
 Brother of Saint Fructus of Segovia and Saint Engratia of Segovia. Martyred by invading Moors.

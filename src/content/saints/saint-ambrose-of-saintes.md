@@ -17,6 +17,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/c/c8/Godfried_Maes_-_The_beheading_of_Saint_Dymphna.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Ambrose of Saintes
 imageCreditUrl: https://en.wikipedia.org/wiki/Saint%20Dymphna
+prayers: []
 ---
 
 Bishop of Saintes, France for about 14 years.

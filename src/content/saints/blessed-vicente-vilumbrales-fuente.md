@@ -1,15 +1,15 @@
 ---
-name: "Blessed Vicente Vilumbrales Fuente"
+name: Blessed Vicente Vilumbrales Fuente
 honorific: Blessed
-summary: "Vincentian priest. Martyred in the Spanish Civil War."
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Vicente-Vilumbrales-Fuente.jpg"
+summary: Vincentian priest. Martyred in the Spanish Civil War.
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Vicente-Vilumbrales-Fuente.jpg
 birthYear: 1909
 deathYear: 1936
-born: "5 April 1909 in Reinoso de Bureba, Burgos, Spain"
-died: "6 December 1936 in Guadalajara, Spain"
-birthPlace: "Burgos, Spain"
-deathPlace: "Spain"
-region: "Spain"
+born: 5 April 1909 in Reinoso de Bureba, Burgos, Spain
+died: 6 December 1936 in Guadalajara, Spain
+birthPlace: Burgos, Spain
+deathPlace: Spain
+region: Spain
 feastDay:
   month: 12
   day: 6
@@ -17,6 +17,7 @@ canonizationStatus: Blessed
 vocation:
   - Priest
 martyr: true
+prayers: []
 ---
 
 Vincentian priest. Martyred in the Spanish Civil War.

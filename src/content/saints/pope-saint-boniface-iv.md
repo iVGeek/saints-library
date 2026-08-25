@@ -1,12 +1,12 @@
 ---
-name: "Pope Saint Boniface IV"
+name: Pope Saint Boniface IV
 honorific: Saint
-summary: " Converted the Roman temple of the old go Son of a physician named John. Student under Saint Gregory the Great. Benedictine monk at the Saint Sebastian Abbey in Rome, Italy. Served as deacon under Saint Gregory the Great; dispenser of alms and patrimonies. Chosen 67th Pope in 608."
-image: "https://upload.wikimedia.org/wikipedia/commons/e/ea/Papa_Bonifacio_IV.png"
+summary: ' Converted the Roman temple of the old go Son of a physician named John. Student under Saint Gregory the Great. Benedictine monk at the Saint Sebastian Abbey in Rome, Italy. Served as deacon under Saint Gregory the Great; dispenser of alms and patrimonies. Chosen 67th Pope in 608.'
+image: https://upload.wikimedia.org/wikipedia/commons/e/ea/Papa_Bonifacio_IV.png
 deathYear: 615
-died: "615 at Rome, Italy of natural causes"
-deathPlace: "Italynatural causes"
-region: "Italy"
+died: 615 at Rome, Italy of natural causes
+deathPlace: Italynatural causes
+region: Italy
 feastDay:
   month: 5
   day: 8
@@ -15,8 +15,9 @@ vocation:
   - Bishop
   - Priest
   - Deacon
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 martyr: true
+prayers: []
 ---
 
 Son of a physician named John. Student under Saint Gregory the Great. Benedictine monk at the Saint Sebastian Abbey in Rome, Italy. Served as deacon under Saint Gregory the Great; dispenser of alms and patrimonies. Chosen 67th Pope in 608.

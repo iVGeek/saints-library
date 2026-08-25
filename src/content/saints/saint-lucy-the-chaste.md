@@ -1,19 +1,20 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Lucy the Chaste"
+name: Saint Lucy the Chaste
 honorific: Saint
-summary: "Dominican tertiary. Spiritual student of Saint Vincent Ferrer."
+summary: Dominican tertiary. Spiritual student of Saint Vincent Ferrer.
 deathYear: 1420
-born: "French"
-died: "1420 in Spain"
-region: "France"
+born: French
+died: 1420 in Spain
+region: France
 feastDay:
   month: 12
   day: 3
 canonizationStatus: Saint
 vocation: []
-religiousOrder: "Dominican"
+religiousOrder: Dominican
 martyr: false
+prayers: []
 ---
 
 Dominican tertiary. Spiritual student of Saint Vincent Ferrer.

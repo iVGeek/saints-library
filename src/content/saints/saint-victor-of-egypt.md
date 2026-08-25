@@ -1,12 +1,12 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Victor of Egypt"
+name: Saint Victor of Egypt
 honorific: Saint
-summary: "Exiled to Egypt in 249. Tortured and martyred in the persecutions of Numerian."
+summary: Exiled to Egypt in 249. Tortured and martyred in the persecutions of Numerian.
 deathYear: 283
-died: "beheaded in 283 in Diospolis (modern Hu), Egypt"
-deathPlace: "Egypt"
-region: "Egypt"
+died: beheaded in 283 in Diospolis (modern Hu), Egypt
+deathPlace: Egypt
+region: Egypt
 feastDay:
   month: 2
   day: 25
@@ -14,6 +14,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Exiled to Egypt in 249. Tortured and martyred in the persecutions of Numerian.

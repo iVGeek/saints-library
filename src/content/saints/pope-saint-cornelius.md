@@ -1,11 +1,11 @@
 ---
-name: "Pope Saint Cornelius"
+name: Pope Saint Cornelius
 honorific: Saint
-summary: " Worked to maintain unity in a time of schism and apostasy. Fought Novatianism and called a synod of bishops to confirm hi Bishop. Reluctant 21st pope, elected after a year-and-a-half period during which the persecutions were so bad that papal ascension was a quick death sentence."
-image: "https://upload.wikimedia.org/wikipedia/commons/d/dd/Pope_Cornelius_%E2%80%93_Santa_Maria_in_Trastevere.jpg"
+summary: ' Worked to maintain unity in a time of schism and apostasy. Fought Novatianism and called a synod of bishops to confirm hi Bishop. Reluctant 21st pope, elected after a year-and-a-half period during which the persecutions were so bad that papal ascension was a quick death sentence.'
+image: https://upload.wikimedia.org/wikipedia/commons/d/dd/Pope_Cornelius_%E2%80%93_Santa_Maria_in_Trastevere.jpg
 deathYear: 253
-died: "martyred in 253"
-region: "Italy"
+died: martyred in 253
+region: Italy
 feastDay:
   month: 9
   day: 16
@@ -14,22 +14,23 @@ vocation:
   - Bishop
   - Priest
   - Deacon
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 patronage:
-  - "against earache"
-  - "against epilepsy"
-  - "against fever"
-  - "against twitching"
-  - "cattle"
-  - "domestic animals"
-  - "earache sufferers"
-  - "epileptics"
-  - "–"
-  - "Albano Sant'Alessandro, Italy"
-  - "Cerro Maggiore, Italy"
-  - "Kornelimünster, Germany"
-  - "Linwood, Lincolnshire, England"
+  - against earache
+  - against epilepsy
+  - against fever
+  - against twitching
+  - cattle
+  - domestic animals
+  - earache sufferers
+  - epileptics
+  - –
+  - Albano Sant'Alessandro, Italy
+  - Cerro Maggiore, Italy
+  - Kornelimünster, Germany
+  - Linwood, Lincolnshire, England
 martyr: true
+prayers: []
 ---
 
 Bishop. Reluctant 21st pope, elected after a year-and-a-half period during which the persecutions were so bad that papal ascension was a quick death sentence.

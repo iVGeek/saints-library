@@ -1,18 +1,21 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Rictiovarus of Gaul"
+name: Saint Rictiovarus of Gaul
 honorific: Saint
-summary: "Appointed imperial Roman prefect of Gaul by Emperor Diocletian in the late 3rd century, Rictiovarus was known for his hatred and persecution of Christians, including ordering the deaths of"
+summary: >-
+  Appointed imperial Roman prefect of Gaul by Emperor Diocletian in the late 3rd century, Rictiovarus was known for his
+  hatred and persecution of Christians, including ordering the deaths of
 searchAliases: []
 deathYear: 301
-died: "c.301"
-region: "Germany"
+died: c.301
+region: Germany
 feastDay:
   month: 7
   day: 6
 canonizationStatus: Saint
 vocation: []
 martyr: true
+prayers: []
 ---
 
 Appointed imperial Roman prefect of Gaul by Emperor Diocletian in the late 3rd century, Rictiovarus was known for his hatred and persecution of Christians, including ordering the deaths of

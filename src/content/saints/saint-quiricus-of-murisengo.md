@@ -1,27 +1,28 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Quiricus of Murisengo"
+name: Saint Quiricus of Murisengo
 honorific: Saint
-summary: "Martyr whose death became linked to the Theban Legion."
+summary: Martyr whose death became linked to the Theban Legion.
 searchAliases:
-  - "Cerdre"
-  - "Cergue"
-  - "Cirgues"
-  - "Cyr"
-  - "Cyricus"
-  - "Kerykos"
-  - "Quiric"
-  - "Quirico"
+  - Cerdre
+  - Cergue
+  - Cirgues
+  - Cyr
+  - Cyricus
+  - Kerykos
+  - Quiric
+  - Quirico
 deathYear: 286
-died: "c.286 in Murisengo, Alessandria, Italy"
-deathPlace: "Alessandria, Italy"
-region: "Italy"
+died: c.286 in Murisengo, Alessandria, Italy
+deathPlace: Alessandria, Italy
+region: Italy
 feastDay:
   month: 3
   day: 11
 canonizationStatus: Saint
 vocation: []
 martyr: true
+prayers: []
 ---
 
 Martyr whose death became linked to the Theban Legion.

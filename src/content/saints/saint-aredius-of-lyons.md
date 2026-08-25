@@ -1,14 +1,14 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Aredius of Lyons"
+name: Saint Aredius of Lyons
 honorific: Saint
-summary: "Archbishop of Lyons, France."
+summary: Archbishop of Lyons, France.
 searchAliases:
-  - "Aregius"
-  - "Arige"
+  - Aregius
+  - Arige
 deathYear: 614
-died: "c.614"
-region: "France"
+died: c.614
+region: France
 feastDay:
   month: 8
   day: 10
@@ -17,6 +17,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Archbishop of Lyons, France.

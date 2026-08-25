@@ -27,6 +27,7 @@ vocation:
 patronage:
   - Abbadia San Salvatore, Italy
 martyr: false
+prayers: []
 ---
 
 Son of Priscus. Chosen 34th pope; he reigned less than a year. Believed to have built the basilica of San Marco in Rome, Italy and the Juxta Pallacinis basilica just outside the city. Issued a constitution confirming the power of the bishop of Ostia to consecrate newly elected popes. Little else is known of his life or reign.

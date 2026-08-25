@@ -1,23 +1,24 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Henry the Hagiographer"
+name: Blessed Henry the Hagiographer
 honorific: Blessed
-summary: "Benedictine monk. Headmaster of the monastic school at Saint-Germain d'Auxerre. Noted hagiographer."
+summary: Benedictine monk. Headmaster of the monastic school at Saint-Germain d'Auxerre. Noted hagiographer.
 searchAliases:
-  - "Heric"
+  - Heric
 deathYear: 880
-born: "at Hery, France"
-died: "c.880 of natural causes"
-birthPlace: "France"
-region: "France"
+born: at Hery, France
+died: c.880 of natural causes
+birthPlace: France
+region: France
 feastDay:
   month: 6
   day: 24
 canonizationStatus: Blessed
 vocation:
   - Monk
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 martyr: false
+prayers: []
 ---
 
 Benedictine monk. Headmaster of the monastic school at Saint-Germain d'Auxerre. Noted hagiographer.

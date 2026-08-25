@@ -1,13 +1,16 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Codratus of Corinth"
+name: Saint Codratus of Corinth
 honorific: Saint
-summary: "During the persecutions of Decius, Codratus and his mother fled to the forests of Greece. His mother died, and the boy grew up as a forest hermit. He later returned to the cities and studied medicine. During the persecution of Emperor Valerian, Codratus was finally arrested for h"
+summary: >-
+  During the persecutions of Decius, Codratus and his mother fled to the forests of Greece. His mother died, and the boy
+  grew up as a forest hermit. He later returned to the cities and studied medicine. During the persecution of Emperor
+  Valerian, Codratus was finally arrested for h
 searchAliases:
-  - "Chuadratus"
-born: "Greek"
-died: "thrown to wild animals"
-region: "Greece"
+  - Chuadratus
+born: Greek
+died: thrown to wild animals
+region: Greece
 feastDay:
   month: 3
   day: 10
@@ -16,6 +19,7 @@ vocation:
   - Monk
   - Hermit
 martyr: true
+prayers: []
 ---
 
 During the persecutions of Decius, Codratus and his mother fled to the forests of Greece. His mother died, and the boy grew up as a forest hermit. He later returned to the cities and studied medicine. During the persecution of Emperor Valerian, Codratus was finally arrested for his faith, tortured, and martyred with a group of fellow Christians.

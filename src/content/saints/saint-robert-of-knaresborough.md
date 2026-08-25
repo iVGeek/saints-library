@@ -1,26 +1,29 @@
 ---
-name: "Saint Robert of Knaresborough"
+name: Saint Robert of Knaresborough
 honorific: Saint
-summary: "The son of the mayor of York, England, an office his brother later held, early in life Robert began studying for the priesthood. He was ordained sub-deacon, but left his studies to become a Cistercian novice at the Newminster Abbey. Feeling a call to a life of holy solitude, he l"
-image: "https://upload.wikimedia.org/wikipedia/commons/5/53/St_Robert%27s_Cave_-_geograph.org.uk_-_403773.jpg"
+summary: >-
+  The son of the mayor of York, England, an office his brother later held, early in life Robert began studying for the
+  priesthood. He was ordained sub-deacon, but left his studies to become a Cistercian novice at the Newminster Abbey.
+  Feeling a call to a life of holy solitude, he l
+image: https://upload.wikimedia.org/wikipedia/commons/5/53/St_Robert%27s_Cave_-_geograph.org.uk_-_403773.jpg
 searchAliases:
-  - "Robert of Kananesbury"
-  - "Robert of Knaresburgh"
-  - "Robert Fleur"
-  - "Robert Floure"
-  - "Robert Flower"
-  - "Robert Flowr"
-  - "Robert Juxta-Knaresburgh"
-  - "Robert Koke"
-  - "Robert Tok Flour"
-  - "Robert Touke"
+  - Robert of Kananesbury
+  - Robert of Knaresburgh
+  - Robert Fleur
+  - Robert Floure
+  - Robert Flower
+  - Robert Flowr
+  - Robert Juxta-Knaresburgh
+  - Robert Koke
+  - Robert Tok Flour
+  - Robert Touke
 birthYear: 1160
 deathYear: 1218
-born: "c.1160 in York, England"
-died: "24 September 1218 in Knaresborough, Yorkshire, England of natural causes"
-birthPlace: "England"
-deathPlace: "Yorkshire, Englandnatural causes"
-region: "England"
+born: c.1160 in York, England
+died: 24 September 1218 in Knaresborough, Yorkshire, England of natural causes
+birthPlace: England
+deathPlace: Yorkshire, Englandnatural causes
+region: England
 feastDay:
   month: 9
   day: 24
@@ -29,10 +32,14 @@ vocation:
   - Priest
   - Deacon
 patronage:
-  - "in England\n\nKnaresborough"
-  - "Newminster"
-  - "York"
+  - |-
+    in England
+
+    Knaresborough
+  - Newminster
+  - York
 martyr: false
+prayers: []
 ---
 
 The son of the mayor of York, England, an office his brother later held, early in life Robert began studying for the priesthood. He was ordained sub-deacon, but left his studies to become a Cistercian novice at the Newminster Abbey. Feeling a call to a life of holy solitude, he left the abbey and became a cave hermit on the River Nidd near Knaresborough, England. The cave, which had previously been occupied by a knight–hermit, had a chapel dedicated to Saint Giles.

@@ -1,15 +1,18 @@
 ---
-name: "Blessed Bronislaw Markiewicz"
+name: Blessed Bronislaw Markiewicz
 honorific: Blessed
-summary: "Sixth of the eleven children of John Markiewicz and Marianna Gryziecka; his father was the mayor of Pruchnik, Poland. Raised in a pious family, but at one point nearly lost his faith due to the anti-Church atmosphere of his school. Seminarian at Przemysl in 1863. Ordained in the"
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Bronislaw-Markiewicz-05.jpg"
+summary: >-
+  Sixth of the eleven children of John Markiewicz and Marianna Gryziecka; his father was the mayor of Pruchnik, Poland.
+  Raised in a pious family, but at one point nearly lost his faith due to the anti-Church atmosphere of his school.
+  Seminarian at Przemysl in 1863. Ordained in the
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Bronislaw-Markiewicz-05.jpg
 birthYear: 1842
 deathYear: 1912
-born: "13 July 1842 at Pruchnik, archdiocese of Przemysl dei Latini, Poland"
-died: "29 January 1912 at Miejsce Piastowe, Poland of complications related to tuberculosis"
-birthPlace: "archdiocesePrzemysl dei Latini, Poland"
-deathPlace: "Polandcomplications related to tuberculosis"
-region: "Poland"
+born: 13 July 1842 at Pruchnik, archdiocese of Przemysl dei Latini, Poland
+died: 29 January 1912 at Miejsce Piastowe, Poland of complications related to tuberculosis
+birthPlace: archdiocesePrzemysl dei Latini, Poland
+deathPlace: Polandcomplications related to tuberculosis
+region: Poland
 feastDay:
   month: 1
   day: 29
@@ -17,8 +20,9 @@ canonizationStatus: Blessed
 vocation:
   - Priest
   - Cardinal
-religiousOrder: "Salesian"
+religiousOrder: Salesian
 martyr: false
+prayers: []
 ---
 
 Sixth of the eleven children of John Markiewicz and Marianna Gryziecka; his father was the mayor of Pruchnik, Poland. Raised in a pious family, but at one point nearly lost his faith due to the anti-Church atmosphere of his school. Seminarian at Przemysl in 1863. Ordained in the diocese of Przemysl for Latins on 15 September 1867. Parish priest at Harta and the cathedral of Przemysl for six years. Studied at the University of Leopoli and University of Cracow. Parish priest at Gac in 1875. Parish priest at Blazowa in 1877. Taught pastoral theology at the seminary at Przemysl in 1882.

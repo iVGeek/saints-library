@@ -37,6 +37,7 @@ patronage:
 
     Innsbruck
 martyr: false
+prayers: []
 ---
 
 Possibly of Visigoth ancestry. Monk, following a mixed rule with strong influences from Irish monasticism. When the Saracens invaded Spain, he fled to the Rhineland (in modern Germany) where established or restored several abbeys. He rebuilt Dissentis Abbey after its destruction. Founded and served as abbot of Mittelzell Abbey on Reichenau Island, Germany. Exiled for political reasons to Alsace where he founded monasteries at Amorbach, Gengenbach, Hornbach, Marmoutier, Murbach, Neuweiler, and Wissembourg, and may have worked with Saint Amor of Amorbach. Appointed as a regional bishop, but without specific see city. Probable author of Dicta Pirmini, a popular work on theology and ethics. One of the great Apostles to the German lands.

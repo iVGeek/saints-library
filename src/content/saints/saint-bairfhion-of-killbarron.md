@@ -1,13 +1,15 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Bairfhion of Killbarron"
+name: Saint Bairfhion of Killbarron
 honorific: Saint
-summary: "Led the church founded by Saint Columba in Drum Cullen, Offaly, Ireland in the 6th century. Later lived in Killbarron near Ballyshannon, Donegal, Ireland. Legend says that the sailed to America even before Saint Brendan the Navigator."
+summary: >-
+  Led the church founded by Saint Columba in Drum Cullen, Offaly, Ireland in the 6th century. Later lived in Killbarron
+  near Ballyshannon, Donegal, Ireland. Legend says that the sailed to America even before Saint Brendan the Navigator.
 searchAliases:
-  - "Barrfoin"
-  - "Barrindus"
-born: "Irish"
-region: "Ireland"
+  - Barrfoin
+  - Barrindus
+born: Irish
+region: Ireland
 feastDay:
   month: 5
   day: 21
@@ -16,9 +18,10 @@ vocation:
   - Monk
   - Hermit
 patronage:
-  - "Drumcuillan, County Laoghis, Ireland"
-  - "Killbarron, County Donegal, Ireland"
+  - Drumcuillan, County Laoghis, Ireland
+  - Killbarron, County Donegal, Ireland
 martyr: false
+prayers: []
 ---
 
 Led the church founded by Saint Columba in Drum Cullen, Offaly, Ireland in the 6th century. Later lived in Killbarron near Ballyshannon, Donegal, Ireland. Legend says that the sailed to America even before Saint Brendan the Navigator.

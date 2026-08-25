@@ -51,6 +51,7 @@ patronage:
     Piragineti
   - Venice
 martyr: false
+prayers: []
 ---
 
 Son of Giambattista Sarto, a village cobbler, and Margherita Sanson, living an impoverished childhood as one of eight children. Baptized on 3 June 1835. Confirmed on 1 September 1848. He early felt a calling to the priesthood. Studied at the seminary of Padua, Italy, and was known as an exceptional student. Ordained by Blessed Giovanni Antonio Farina on 18 September 1858. Chaplain at Tombolo from 1858 to 1867. Archpriest of Salzano from 1867 to 1875. Canon of the Treviso cathedral chapter in 1875. Rector of the Treviso seminary and its spiritual director for nine years. Primicerius of the cathedral in 1879. Chancellor of the diocese of Treviso. Vicar capitular from December 1879 to June 1880. Bishop of Mantua, Italy on 10 November 1884. Assistant at the Pontifical Throne on 19 June 1891. Created cardinal–priest of Saint Bernardo alle Terme on 12 June 1893. Patriarch of Venice on 15 June 1893. Chosen 257th pope in 1903, taking the name Pius X.

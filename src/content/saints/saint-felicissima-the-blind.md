@@ -1,10 +1,10 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Felicissima the Blind"
+name: Saint Felicissima the Blind
 honorific: Saint
-summary: "A blind girl whose sight was restored by Saint Gracilian when he was in prison for his faith. Convert. Martyr."
+summary: A blind girl whose sight was restored by Saint Gracilian when he was in prison for his faith. Convert. Martyr.
 deathYear: 304
-died: "beheaded c.304"
+died: beheaded c.304
 feastDay:
   month: 8
   day: 12
@@ -12,6 +12,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 A blind girl whose sight was restored by Saint Gracilian when he was in prison for his faith. Convert. Martyr.

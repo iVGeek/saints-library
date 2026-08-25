@@ -1,26 +1,29 @@
 ---
-name: "Venerable Giuseppe Carlo Vaser"
+name: Venerable Giuseppe Carlo Vaser
 honorific: Venerable
-summary: "First Italian Marist Brother."
-image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Giuseppe-Carlo-Vaser.jpg"
+summary: First Italian Marist Brother.
+image: http://catholicsaints.info/wp-content/uploads/img-Venerable-Giuseppe-Carlo-Vaser.jpg
 searchAliases:
-  - "Alfano Vaser"
-  - "Joseph Vaser"
+  - Alfano Vaser
+  - Joseph Vaser
 birthYear: 1873
 deathYear: 1943
-born: "10 September 1873 in Hône, Aosta, Italy"
-died: "1 March 1943 in Ventimiglia, Imperia, Italy"
-birthPlace: "Aosta, Italy"
-deathPlace: "Imperia, Italy"
-region: "Italy"
+born: 10 September 1873 in Hône, Aosta, Italy
+died: 1 March 1943 in Ventimiglia, Imperia, Italy
+birthPlace: Aosta, Italy
+deathPlace: Imperia, Italy
+region: Italy
 feastDay:
   month: 1
   day: 1
-centuries: [19, 20]
+centuries:
+  - 19
+  - 20
 canonizationStatus: Venerable
 vocation: []
-religiousOrder: "Marist"
+religiousOrder: Marist
 martyr: false
+prayers: []
 ---
 
 First Italian Marist Brother.

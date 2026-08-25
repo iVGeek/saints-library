@@ -1,24 +1,25 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Josep Mir Pons"
+name: Blessed Josep Mir Pons
 honorific: Blessed
-summary: "Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
+summary: Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War.
 searchAliases:
-  - "Brother Priscillià"
+  - Brother Priscillià
 birthYear: 1889
 deathYear: 1936
-born: "1 February 1889 in Igualada, Barcelona, Spain"
-died: "8 October 1936 in Montcada, Barcelona, Spain"
-birthPlace: "Barcelona, Spain"
-deathPlace: "Barcelona, Spain"
-region: "Spain"
+born: 1 February 1889 in Igualada, Barcelona, Spain
+died: 8 October 1936 in Montcada, Barcelona, Spain
+birthPlace: Barcelona, Spain
+deathPlace: Barcelona, Spain
+region: Spain
 feastDay:
   month: 10
   day: 8
 canonizationStatus: Blessed
 vocation: []
-religiousOrder: "Marist"
+religiousOrder: Marist
 martyr: true
+prayers: []
 ---
 
 Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War.

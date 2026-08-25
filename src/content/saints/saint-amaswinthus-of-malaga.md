@@ -1,13 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Amaswinthus of Málaga"
+name: Saint Amaswinthus of Málaga
 honorific: Saint
-summary: "Monk and abbot for 42 years at Silva de Málaga at Andalusia, southern Spain."
+summary: Monk and abbot for 42 years at Silva de Málaga at Andalusia, southern Spain.
 searchAliases:
-  - "Amaswinthus of Silva"
+  - Amaswinthus of Silva
 deathYear: 982
-died: "982"
-region: "Spain"
+died: '982'
+region: Spain
 feastDay:
   month: 12
   day: 22
@@ -15,6 +15,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: false
+prayers: []
 ---
 
 Monk and abbot for 42 years at Silva de Málaga at Andalusia, southern Spain.

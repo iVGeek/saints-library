@@ -1,9 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Daniel of Villiers"
+name: Blessed Daniel of Villiers
 honorific: Blessed
-summary: "Soldier. Knight. Benedictine Cistercian monk. Cellarer of the great Cistercian abbey of Villiers in the Brabant region."
-died: "late 12th century of natural causes"
+summary: >-
+  Soldier. Knight. Benedictine Cistercian monk. Cellarer of the great Cistercian abbey of Villiers in the Brabant
+  region.
+died: late 12th century of natural causes
 feastDay:
   month: 12
   day: 26
@@ -11,8 +13,9 @@ canonizationStatus: Blessed
 vocation:
   - Monk
   - Soldier
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 martyr: false
+prayers: []
 ---
 
 Soldier. Knight. Benedictine Cistercian monk. Cellarer of the great Cistercian abbey of Villiers in the Brabant region.

@@ -22,6 +22,7 @@ patronage:
   - Aix-Arles, France, archdiocese of
   - Aix-en-Provence, France, city of
 martyr: false
+prayers: []
 ---
 
 First bishop of Aix, Provence (in modern France).

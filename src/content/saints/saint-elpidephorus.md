@@ -23,6 +23,7 @@ imageAlt: Portrait of Saint Elpidephorus
 imageCredit: <a rel="nofollow" class="external text" href="http://www.doaks.org">Dumbarton Oaks</a> 
 imageCreditUrl: >-
   https://commons.wikimedia.org/wiki/File:Church%20of%20Panagia%20tou%20Arakos%2C%20nave%2C%20north%20bay%20under%20dome%2C%20wall%20paintings%2C%20Lagoudera%2C%20Cyprus%20-%20Blind%20arch%2C%20west%20soffit%2C%20medallion%2C%20St.%20Elpidephorus%20-%20MSBZ004%20BF%20T%20Lag%20F%202%207%20-%20Dumbarton%20Oaks.jpg
+prayers: []
 ---
 
 Persian senator during the persecutions of King Sapor II. When he led a group of senators speaking in support of the faith and courage shown by Saints Acindynus, Pegasius and Anempodistus, he was exposed as a Christian and immediately executed. One of the Martyrs of Isfahan.

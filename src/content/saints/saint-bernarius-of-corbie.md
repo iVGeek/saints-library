@@ -1,22 +1,23 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Bernarius of Corbie"
+name: Saint Bernarius of Corbie
 honorific: Saint
-summary: "Benedictine monk of Corbie Abbey."
+summary: Benedictine monk of Corbie Abbey.
 searchAliases:
-  - "Bernario"
-born: "8th century"
-died: "9th century at Corbie Abbey, Picardy, France of natural causes"
-deathPlace: "Picardy, Francenatural causes"
-region: "France"
+  - Bernario
+born: 8th century
+died: 9th century at Corbie Abbey, Picardy, France of natural causes
+deathPlace: Picardy, Francenatural causes
+region: France
 feastDay:
   month: 1
   day: 2
 canonizationStatus: Saint
 vocation:
   - Monk
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 martyr: false
+prayers: []
 ---
 
 Benedictine monk of Corbie Abbey.

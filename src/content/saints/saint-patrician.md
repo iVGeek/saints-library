@@ -1,9 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Patrician"
+name: Saint Patrician
 honorific: Saint
-summary: "Fifth century bishop in Scotland. Driven into exile by pagan Scots, he spent his latter years as a hermit on the Isle of Man."
-region: "Scotland"
+summary: >-
+  Fifth century bishop in Scotland. Driven into exile by pagan Scots, he spent his latter years as a hermit on the Isle
+  of Man.
+region: Scotland
 feastDay:
   month: 10
   day: 10
@@ -13,6 +15,7 @@ vocation:
   - Monk
   - Hermit
 martyr: false
+prayers: []
 ---
 
 Fifth century bishop in Scotland. Driven into exile by pagan Scots, he spent his latter years as a hermit on the Isle of Man.

@@ -1,21 +1,24 @@
 ---
-name: "Saint Placidus of Messina"
+name: Saint Placidus of Messina
 honorific: Saint
-summary: "Young spiritual student of Saint Benedictine of Nursia. Mentioned in the Dialogues of Pope Saint Gregory the Great. Sent to Messina, Sicily, Italy to found a monastery. Martyr."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Placidus-of-Messina.jpg"
-died: "6th century Messina, Sicily, Italy"
-deathPlace: "Sicily, Italy"
-region: "Italy"
+summary: >-
+  Young spiritual student of Saint Benedictine of Nursia. Mentioned in the Dialogues of Pope Saint Gregory the Great.
+  Sent to Messina, Sicily, Italy to found a monastery. Martyr.
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Placidus-of-Messina.jpg
+died: 6th century Messina, Sicily, Italy
+deathPlace: Sicily, Italy
+region: Italy
 feastDay:
   month: 10
   day: 5
 canonizationStatus: Saint
 vocation:
   - Monk
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 patronage:
-  - "Monte Cassino Abbey"
+  - Monte Cassino Abbey
 martyr: true
+prayers: []
 ---
 
 Young spiritual student of Saint Benedictine of Nursia. Mentioned in the Dialogues of Pope Saint Gregory the Great. Sent to Messina, Sicily, Italy to found a monastery. Martyr.

@@ -1,14 +1,16 @@
 ---
-name: "Blessed Gonzalo de Ubeda"
+name: Blessed Gonzalo de Ubeda
 honorific: Blessed
-summary: "Priest. Auxiliary bishop of Granada, Spain. Mercedarian Commander. Moved his house to Granada c.1500 and build a church and convent there."
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Gonzalo-de-Ubeda.jpg"
+summary: >-
+  Priest. Auxiliary bishop of Granada, Spain. Mercedarian Commander. Moved his house to Granada c.1500 and build a
+  church and convent there.
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Gonzalo-de-Ubeda.jpg
 searchAliases:
-  - "Gonzalo of Granada"
+  - Gonzalo of Granada
 deathYear: 1538
-died: "1538 in Granada, Spain of natural causes"
-deathPlace: "Spaof natural causes"
-region: "Spain"
+died: 1538 in Granada, Spain of natural causes
+deathPlace: Spaof natural causes
+region: Spain
 feastDay:
   month: 3
   day: 1
@@ -17,6 +19,7 @@ vocation:
   - Bishop
   - Priest
 martyr: false
+prayers: []
 ---
 
 Priest. Auxiliary bishop of Granada, Spain. Mercedarian Commander. Moved his house to Granada c.1500 and build a church and convent there.

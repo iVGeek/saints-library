@@ -1,16 +1,16 @@
 ---
-name: "Saint Vitalian of Capua"
+name: Saint Vitalian of Capua
 honorific: Saint
-summary: " The earliest written record we have of his life is a 12th century manuscript found in the church library in Benevento, Italy; its authenticity is questionable, but its story of one of the pivotal m Reluctant 7th century bishop of Caudium (in modern Montesarchio), Campania, Italy."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Vitaliano-of-Capua.jpg"
+summary: ' The earliest written record we have of his life is a 12th century manuscript found in the church library in Benevento, Italy; its authenticity is questionable, but its story of one of the pivotal m Reluctant 7th century bishop of Caudium (in modern Montesarchio), Campania, Italy.'
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Vitaliano-of-Capua.jpg
 searchAliases:
-  - "Vitalian of Caudium"
-  - "Vitalian of Montesarchio"
-  - "Vitaliano of…"
+  - Vitalian of Caudium
+  - Vitalian of Montesarchio
+  - Vitaliano of…
 deathYear: 699
-died: "699 in Montevergine, Avellino, Italy of natural causes"
-deathPlace: "Avellino, Italynatural causes"
-region: "Italy"
+died: 699 in Montevergine, Avellino, Italy of natural causes
+deathPlace: Avellino, Italynatural causes
+region: Italy
 feastDay:
   month: 9
   day: 3
@@ -19,11 +19,12 @@ vocation:
   - Bishop
   - Priest
 patronage:
-  - "Catanzaro, Italy, city of"
-  - "Catanzaro-Squillace, Italy, archdiocese of"
-  - "San Vitaliano, Italy"
-  - "Sparanise, Italy"
+  - Catanzaro, Italy, city of
+  - Catanzaro-Squillace, Italy, archdiocese of
+  - San Vitaliano, Italy
+  - Sparanise, Italy
 martyr: false
+prayers: []
 ---
 
 Reluctant 7th century bishop of Caudium (in modern Montesarchio), Campania, Italy.

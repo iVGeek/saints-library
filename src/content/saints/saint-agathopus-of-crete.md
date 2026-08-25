@@ -17,6 +17,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/b/b1/East-Ortho-cross.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Agathopus of Crete
 imageCreditUrl: https://en.wikipedia.org/wiki/December%2023%20(Eastern%20Orthodox%20liturgics)
+prayers: []
 ---
 
 One of the Martyrs of Crete who died in the persecutions of Decius. No other information has survived.

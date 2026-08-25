@@ -78,15 +78,124 @@ prayers:
       outside, and there I sought You. Draw us to Yourself, that we may love You; and in loving You, find our rest at
       last. Amen.
   - name: Novena to Saint Augustine of Hippo
-    kind: Novena — nine-day prayer for conversion and wisdom
+    kind: >-
+      Novena — begins August 19, nine days before the feast of Saint Augustine of Hippo (August 28). Source:
+      https://www.catholicculture.org/culture/liturgicalyear/prayers/view.cfm?id=1039
     text: >-
-      O Saint Augustine, Doctor of Grace and patron of seekers, I turn to you in this novena with a restless heart that
-      longs for God. You who searched the world for happiness and found it only in the arms of Christ, obtain for me the
-      grace to recognize that true peace is found in God alone. You who wrote that our hearts are restless until they
-      rest in Him, calm my anxieties and draw me closer to the fountain of living water. Intercede for all who are
-      wandering far from the faith, especially those I love. Grant me the wisdom to study Your Word, the humility to
-      confess my sins, and the courage to begin again whenever I fall. O Augustine, whose mother Monica's tears brought
-      you home, let those tears water the soil of my own conversion and that of my family. Amen.
+      O God, who gave the Bishop Saint Augustine the grace to understand what it means to seek You and to find You,
+      grant that we, following his example, may always seek You with sincere hearts and find You in the reading of Your
+      Word and in the celebration of Your sacraments.
+
+
+      (State your intention)
+
+
+      Our Father, Hail Mary, Glory Be. St. Augustine, pray for us.
+
+
+      ---
+
+
+      O blessed Augustine, who wrote "Our hearts are restless until they rest in You," help me to direct my heart and
+      mind to God alone.
+
+
+      (State your intention)
+
+
+      Our Father, Hail Mary, Glory Be. St. Augustine, pray for us.
+
+
+      ---
+
+
+      O blessed Augustine, who lived a sinful life before your dramatic conversion, obtain for me the grace of true
+      contrition and a firm purpose of amendment.
+
+
+      (State your intention)
+
+
+      Our Father, Hail Mary, Glory Be. St. Augustine, pray for us.
+
+
+      ---
+
+
+      O blessed Augustine, whose Confessions have inspired countless souls to return to God, help me to be honest before
+      God about my sins and to trust in His mercy.
+
+
+      (State your intention)
+
+
+      Our Father, Hail Mary, Glory Be. St. Augustine, pray for us.
+
+
+      ---
+
+
+      O blessed Augustine, who taught the faith with such brilliance and depth, grant me the grace to study the faith
+      diligently and to grow in understanding.
+
+
+      (State your intention)
+
+
+      Our Father, Hail Mary, Glory Be. St. Augustine, pray for us.
+
+
+      ---
+
+
+      O blessed Augustine, who said "Late have I loved You, Beauty so ancient and so new," help me to love God with all
+      my heart, mind, soul, and strength.
+
+
+      (State your intention)
+
+
+      Our Father, Hail Mary, Glory Be. St. Augustine, pray for us.
+
+
+      ---
+
+
+      O blessed Augustine, who was converted through the tears and prayers of your mother Monica, intercede for all
+      mothers who pray for the conversion of their children.
+
+
+      (State your intention)
+
+
+      Our Father, Hail Mary, Glory Be. St. Augustine, pray for us.
+
+
+      ---
+
+
+      O blessed Augustine, Doctor of the Church, who wrote so extensively about grace, sin, and redemption, help me to
+      understand and appreciate these great mysteries of our faith.
+
+
+      (State your intention)
+
+
+      Our Father, Hail Mary, Glory Be. St. Augustine, pray for us.
+
+
+      ---
+
+
+      O blessed Augustine, who died in Hippo in 430 AD with the words of the Psalms on your lips, obtain for me the
+      grace of a holy death and the joy of seeing God face to face in heaven.
+
+
+      (State your intention)
+
+
+      Our Father, Hail Mary, Glory Be. St. Augustine, pray for us.
+    source: https://www.catholicculture.org/culture/liturgicalyear/prayers/view.cfm?id=1039
 relatedSaints:
   - name: Patrick of Ireland
     slug: patrick-of-ireland

@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Lucia of Thessalonica"
+name: Saint Lucia of Thessalonica
 honorific: Saint
-summary: "Nun. Martyr."
-died: "in Thessalonica, Greece, date unknown"
-deathPlace: "Greece, date unknown"
-region: "Greece"
+summary: Nun. Martyr.
+died: in Thessalonica, Greece, date unknown
+deathPlace: Greece, date unknown
+region: Greece
 feastDay:
   month: 6
   day: 1
@@ -14,6 +14,7 @@ vocation:
   - Monk
   - Religious
 martyr: true
+prayers: []
 ---
 
 Nun. Martyr.

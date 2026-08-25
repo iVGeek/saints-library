@@ -23,6 +23,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/7/78/Saint_Arnould.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Arnoald of Metz
 imageCreditUrl: https://en.wikipedia.org/wiki/Arnulf%20of%20Metz
+prayers: []
 ---
 
 Married. Father of Saint Arnulf of Metz. Bishop of Metz, France c.602.

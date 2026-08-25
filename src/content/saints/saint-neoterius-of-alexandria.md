@@ -1,10 +1,10 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Neoterius of Alexandria"
+name: Saint Neoterius of Alexandria
 honorific: Saint
-summary: "Martyr."
-born: "Egypt"
-region: "Egypt"
+summary: Martyr.
+born: Egypt
+region: Egypt
 feastDay:
   month: 9
   day: 8
@@ -12,6 +12,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Martyr.

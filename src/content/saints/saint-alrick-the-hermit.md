@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Alrick the Hermit"
+name: Saint Alrick the Hermit
 honorific: Saint
-summary: "Eleventh century hermit in northern England. Friend of Saint Godric of Finchale."
+summary: Eleventh century hermit in northern England. Friend of Saint Godric of Finchale.
 searchAliases:
-  - "Airick"
-region: "England"
+  - Airick
+region: England
 feastDay:
   month: 6
   day: 30
@@ -14,6 +14,7 @@ vocation:
   - Monk
   - Hermit
 martyr: false
+prayers: []
 ---
 
 Eleventh century hermit in northern England. Friend of Saint Godric of Finchale.

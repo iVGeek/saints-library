@@ -1,19 +1,20 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Betha of Corinth"
+name: Saint Betha of Corinth
 honorific: Saint
-summary: "Martyr."
+summary: Martyr.
 searchAliases:
-  - "Zethas"
-died: "Corinth, Greece"
-deathPlace: "Greece"
-region: "Greece"
+  - Zethas
+died: Corinth, Greece
+deathPlace: Greece
+region: Greece
 feastDay:
   month: 2
   day: 28
 canonizationStatus: Saint
 vocation: []
 martyr: true
+prayers: []
 ---
 
 Martyr.

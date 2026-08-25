@@ -1,19 +1,22 @@
 ---
-name: "Saint Anno II"
+name: Saint Anno II
 honorific: Saint
-summary: "A pious child. As a young man Anno became a soldier, and considered a military career; however, with the help of his uncle, the canon of Bamberg, he answered the call to religious life. He had a background in literature as well as theology, was an eloquent speaker, and considered"
-image: "https://upload.wikimedia.org/wikipedia/commons/4/42/Anno_II.jpg"
+summary: >-
+  A pious child. As a young man Anno became a soldier, and considered a military career; however, with the help of his
+  uncle, the canon of Bamberg, he answered the call to religious life. He had a background in literature as well as
+  theology, was an eloquent speaker, and considered
+image: https://upload.wikimedia.org/wikipedia/commons/4/42/Anno_II.jpg
 searchAliases:
-  - "Anno of Cologne"
-  - "Annan…"
-  - "Annon…"
-  - "Hanno…"
+  - Anno of Cologne
+  - Annan…
+  - Annon…
+  - Hanno…
 birthYear: 1010
 deathYear: 1075
-born: "c.1010"
-died: "4 December 1075 in Siegburg, Germany of natural causes"
-deathPlace: "Germanynatural causes"
-region: "Germany"
+born: c.1010
+died: 4 December 1075 in Siegburg, Germany of natural causes
+deathPlace: Germanynatural causes
+region: Germany
 feastDay:
   month: 12
   day: 4
@@ -23,9 +26,13 @@ vocation:
   - Priest
   - Confessor
 patronage:
-  - "in Germany\n\nCologne"
-  - "Siegburg"
+  - |-
+    in Germany
+
+    Cologne
+  - Siegburg
 martyr: false
+prayers: []
 ---
 
 A pious child. As a young man Anno became a soldier, and considered a military career; however, with the help of his uncle, the canon of Bamberg, he answered the call to religious life. He had a background in literature as well as theology, was an eloquent speaker, and considered quite handsome by writers of the day. Priest. Bishop and then archbishop of Cologne, Germany in 1055.

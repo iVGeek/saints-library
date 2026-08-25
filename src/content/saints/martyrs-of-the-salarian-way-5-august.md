@@ -17,6 +17,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/2/2a/Saints_withtheiremblems.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Martyrs of the Salarian Way
 imageCreditUrl: https://en.wikipedia.org/wiki/Saint%20Hermes
+prayers: []
 ---
 
 Twenty-three Christians who were martyred together in the persecutions of Diocletian.

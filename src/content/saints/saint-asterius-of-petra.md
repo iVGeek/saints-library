@@ -23,6 +23,7 @@ image: >-
 imageAlt: Portrait of Saint Asterius of Petra
 imageCredit: Numérisation de la Bibliothèque municipale de Dijon, son lieu de conservation
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:FR212316101%20MS00562%20115%20R%20e.jpg
+prayers: []
 ---
 
 A former heretic who converted from Arianism to orthodox Christianity. Bishop of Petra. Fought heresy and earned the hatred of Arians by writing about their intrigues at the Council of Sardica in 347. Exiled to Africa by Emperor Constantius. Recalled to his diocese by Julian the Apostate. Assisted at the Council of Alexandria in 362.

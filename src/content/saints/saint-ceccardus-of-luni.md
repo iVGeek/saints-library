@@ -19,6 +19,7 @@ vocation:
 patronage:
   - Carrara, Italy
 martyr: true
+prayers: []
 ---
 
 Bishop of Luni, Italy. Martyr.

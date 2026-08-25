@@ -1,11 +1,11 @@
 ---
-name: "Saint Guenninus"
+name: Saint Guenninus
 honorific: Saint
-summary: "7th century bishop of Vannes, Brittany (in modern France)."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Guenninus.jpg"
-died: "relics at the cathedral of Vannes, Brittany (in modern France)"
-deathPlace: "Brittany (modern France)"
-region: "France"
+summary: 7th century bishop of Vannes, Brittany (in modern France).
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Guenninus.jpg
+died: relics at the cathedral of Vannes, Brittany (in modern France)
+deathPlace: Brittany (modern France)
+region: France
 feastDay:
   month: 8
   day: 19
@@ -14,6 +14,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 7th century bishop of Vannes, Brittany (in modern France).

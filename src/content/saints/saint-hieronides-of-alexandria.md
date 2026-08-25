@@ -1,12 +1,12 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Hieronides of Alexandria"
+name: Saint Hieronides of Alexandria
 honorific: Saint
-summary: "Aged deacon. Martyred in the persecutions of Diocletian."
+summary: Aged deacon. Martyred in the persecutions of Diocletian.
 deathYear: 300
-died: "drowned c.300 at Alexandria, Egypt"
-deathPlace: "Egypt"
-region: "England"
+died: drowned c.300 at Alexandria, Egypt
+deathPlace: Egypt
+region: England
 feastDay:
   month: 9
   day: 12
@@ -15,6 +15,7 @@ vocation:
   - Monk
   - Deacon
 martyr: true
+prayers: []
 ---
 
 Aged deacon. Martyred in the persecutions of Diocletian.

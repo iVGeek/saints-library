@@ -1,17 +1,17 @@
 ---
-name: "Saint Euphrasius of Andújar"
+name: Saint Euphrasius of Andújar
 honorific: Saint
-summary: " Legend says that he once travelled from Spain to Rome, Italy in 30 minutes in order to help the Pope; he managed the quick trip by bri First century spiritual student of the Apostles. One of the first group of missionaries to Spain, ordained by Saint Peter and Saint Paul. Martyr."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Euphrasius-of-Andujar.jpg"
+summary: ' Legend says that he once travelled from Spain to Rome, Italy in 30 minutes in order to help the Pope; he managed the quick trip by bri First century spiritual student of the Apostles. One of the first group of missionaries to Spain, ordained by Saint Peter and Saint Paul. Martyr.'
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Euphrasius-of-Andujar.jpg
 searchAliases:
-  - "Euphrasius of Illiturgi"
-  - "Euphrasius of Illiturgis"
-  - "Euphemia of…."
-  - "Eufrasio of…."
-  - "Apostle of Spain"
-died: "1st century in Illiturgis, Spain"
-deathPlace: "Spain"
-region: "Spain"
+  - Euphrasius of Illiturgi
+  - Euphrasius of Illiturgis
+  - Euphemia of….
+  - Eufrasio of….
+  - Apostle of Spain
+died: 1st century in Illiturgis, Spain
+deathPlace: Spain
+region: Spain
 feastDay:
   month: 5
   day: 15
@@ -20,13 +20,14 @@ vocation:
   - Virgin
   - Monk
 patronage:
-  - "Ajaccio, France, diocese of"
-  - "Ajaccio, France, city of"
-  - "Andújar, Spain"
-  - "Corsica"
-  - "Jaén, Spain, diocese of"
-  - "Spain"
+  - Ajaccio, France, diocese of
+  - Ajaccio, France, city of
+  - Andújar, Spain
+  - Corsica
+  - Jaén, Spain, diocese of
+  - Spain
 martyr: true
+prayers: []
 ---
 
 First century spiritual student of the Apostles. One of the first group of missionaries to Spain, ordained by Saint Peter and Saint Paul. Martyr.

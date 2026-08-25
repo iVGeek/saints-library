@@ -18,6 +18,7 @@ image: https://commons.wikimedia.org/wiki/Special:FilePath/Eglise_st_pierre_vais
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Wealthy citizen of Saintes, France who was imprisoned and murdered by his relatives for giving his property to the poor. Martyr.

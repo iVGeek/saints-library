@@ -32,6 +32,7 @@ patronage:
 
     San Felipe, diocese of
 martyr: true
+prayers: []
 ---
 
 Disciple of Saint John the Baptist. Convert. One of the Twelve Apostle. Brought Saint Nathanael to Christ. Confidant of Jesus. Little is known about him, but scriptural episodes give the impression of a shy, naive, but practical individual. Preached in Greece and Asia Minor. Martyr.

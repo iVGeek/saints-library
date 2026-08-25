@@ -1,14 +1,16 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Tassio of Bavaria"
+name: Saint Tassio of Bavaria
 honorific: Saint
-summary: "Born to the nobility. Duke of Bavaria (in modern Germany). Founded and endowed many monasteries and churches. Retired to live his later days as a monk at Jumièges Abbey in France."
+summary: >-
+  Born to the nobility. Duke of Bavaria (in modern Germany). Founded and endowed many monasteries and churches. Retired
+  to live his later days as a monk at Jumièges Abbey in France.
 searchAliases:
-  - "Tassio of Jumièges"
+  - Tassio of Jumièges
 deathYear: 794
-died: "c.794 in Lorsch, Germany of natural causes"
-deathPlace: "Germanynatural causes"
-region: "Germany"
+died: c.794 in Lorsch, Germany of natural causes
+deathPlace: Germanynatural causes
+region: Germany
 feastDay:
   month: 12
   day: 13
@@ -16,6 +18,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: false
+prayers: []
 ---
 
 Born to the nobility. Duke of Bavaria (in modern Germany). Founded and endowed many monasteries and churches. Retired to live his later days as a monk at Jumièges Abbey in France.

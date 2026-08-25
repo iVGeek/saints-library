@@ -1,21 +1,21 @@
 ---
-name: "Saint Constantine II"
+name: Saint Constantine II
 honorific: Saint
-summary: " Married, and the father of at least one son, and briefly king of Stathcl Born a Scottish prince, the son of King Kenneth II of Strathclyde, Constantine led a life of vice until his conversion, possibly after hearing the evangelizing preaching of Saint Columba and Saint Kentigern."
-image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Constantine-II.jpg"
+summary: ' Married, and the father of at least one son, and briefly king of Stathcl Born a Scottish prince, the son of King Kenneth II of Strathclyde, Constantine led a life of vice until his conversion, possibly after hearing the evangelizing preaching of Saint Columba and Saint Kentigern.'
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Constantine-II.jpg
 searchAliases:
-  - "Constantine of Strathclyde"
-  - "Constantine of Britannia"
-  - "Constantine of Cornwall"
-  - "Constantine III"
-  - "Constantin"
-  - "Constantinus"
-  - "Costantino"
-  - "Costentyn"
-  - "Custennin"
+  - Constantine of Strathclyde
+  - Constantine of Britannia
+  - Constantine of Cornwall
+  - Constantine III
+  - Constantin
+  - Constantinus
+  - Costantino
+  - Costentyn
+  - Custennin
 deathYear: 874
-died: "bled to death in 874 in a cave near Crail after his right arm was cut off by Danish pirates"
-region: "Scotland"
+died: bled to death in 874 in a cave near Crail after his right arm was cut off by Danish pirates
+region: Scotland
 feastDay:
   month: 3
   day: 11
@@ -24,6 +24,7 @@ vocation:
   - Priest
   - Monk
 martyr: true
+prayers: []
 ---
 
 Born a Scottish prince, the son of King Kenneth II of Strathclyde, Constantine led a life of vice until his conversion, possibly after hearing the evangelizing preaching of Saint Columba and Saint Kentigern.

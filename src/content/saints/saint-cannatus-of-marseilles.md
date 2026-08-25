@@ -15,6 +15,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/f/ff/Cath%C3%A9drale_Sainte-Marie-Majeure.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Cannatus of Marseille
 imageCreditUrl: https://en.wikipedia.org/wiki/Archdiocese%20of%20Marseille
+prayers: []
 ---
 
 Fifth-century bishop of Marseilles, France.

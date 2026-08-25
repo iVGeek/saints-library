@@ -1,14 +1,17 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Simon of Crépy"
+name: Saint Simon of Crépy
 honorific: Saint
-summary: "Born to the nobility, he was raised in the court of William the Conqueror in Normandy, France. Count of Crépy, France. His family arranged two marriages for him, but Simon felt a call to religious life, gave up his title and wealth, became a monk at the Condat Abbey in the Jura M"
+summary: >-
+  Born to the nobility, he was raised in the court of William the Conqueror in Normandy, France. Count of Crépy, France.
+  His family arranged two marriages for him, but Simon felt a call to religious life, gave up his title and wealth,
+  became a monk at the Condat Abbey in the Jura M
 searchAliases:
-  - "Simone"
+  - Simone
 deathYear: 1082
-died: "c.1082 in Rome, Italy of natural causes"
-deathPlace: "Italynatural causes"
-region: "France"
+died: c.1082 in Rome, Italy of natural causes
+deathPlace: Italynatural causes
+region: France
 feastDay:
   month: 9
   day: 30
@@ -17,6 +20,7 @@ vocation:
   - Monk
   - Hermit
 martyr: false
+prayers: []
 ---
 
 Born to the nobility, he was raised in the court of William the Conqueror in Normandy, France. Count of Crépy, France. His family arranged two marriages for him, but Simon felt a call to religious life, gave up his title and wealth, became a monk at the Condat Abbey in the Jura Mountains, and lived for a while as a hermit. Served in the Roman Curia, and was known for his work as a peace-maker between warring factions.

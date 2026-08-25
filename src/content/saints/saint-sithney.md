@@ -27,6 +27,7 @@ patronage:
   - against mad dogs
   - Sithney, Cornwall, England
 martyr: false
+prayers: []
 ---
 
 Emigrated from Britain to Guic-Sezni, Brittany (in modern France) where he founded a monastery. A Breton legend says that God chose Sithney to be the patron of girls seeking husbands; the saint begged off, saying he would never get to rest, that he would rather take care of mad dogs than women. Sounded like a good idea to the Almighty, and ever since, sick or mad dogs have been given water from Sithney's well as a tonic.

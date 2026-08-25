@@ -21,6 +21,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/2/24/Constantinebythissignconquer.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Caecilian of Saragossa
 imageCreditUrl: https://en.wikipedia.org/wiki/Traditors
+prayers: []
 ---
 
 One of the Martyrs of Saragossa about whom nothing is known except their deaths in the persecutions of Diocletian and the prefect Dacean.

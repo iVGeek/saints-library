@@ -1,13 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Ternatius of Besançon"
+name: Saint Ternatius of Besançon
 honorific: Saint
-summary: "Bishop of Besançon, France."
+summary: Bishop of Besançon, France.
 searchAliases:
-  - "Terniscus of Besançon"
+  - Terniscus of Besançon
 deathYear: 680
-died: "c.680"
-region: "France"
+died: c.680
+region: France
 feastDay:
   month: 8
   day: 8
@@ -16,6 +16,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Bishop of Besançon, France.

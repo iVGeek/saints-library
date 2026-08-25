@@ -1,12 +1,14 @@
 ---
-name: "Saint Felix of Rome"
+name: Saint Felix of Rome
 honorific: Saint
-summary: "Priest in Rome. Ordered to offer sacrifice to the pagan gods, he refused and prayed instead; the idols shattered. Arrested, tortured, and martyred."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Adauctus-and-Saint-Felix.jpg"
+summary: >-
+  Priest in Rome. Ordered to offer sacrifice to the pagan gods, he refused and prayed instead; the idols shattered.
+  Arrested, tortured, and martyred.
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Adauctus-and-Saint-Felix.jpg
 deathYear: 303
-died: "beheaded c.303 in Rome, Italy"
-deathPlace: "Italy"
-region: "Italy"
+died: beheaded c.303 in Rome, Italy
+deathPlace: Italy
+region: Italy
 feastDay:
   month: 8
   day: 30
@@ -15,8 +17,9 @@ vocation:
   - Priest
   - Monk
 patronage:
-  - "Montecalvo Irpino, Italy"
+  - Montecalvo Irpino, Italy
 martyr: true
+prayers: []
 ---
 
 Priest in Rome. Ordered to offer sacrifice to the pagan gods, he refused and prayed instead; the idols shattered. Arrested, tortured, and martyred.

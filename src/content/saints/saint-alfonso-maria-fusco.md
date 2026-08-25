@@ -1,27 +1,33 @@
 ---
-name: "Saint Alfonso Maria Fusco"
+name: Saint Alfonso Maria Fusco
 honorific: Venerable
-summary: "Son of Giuseppina Schiavone and Aniello Fusco, the eldest of five children in a pious peasant family. The couple had been unable to have children until a visit to the relics of Saint Alphonsus Maria d' Liguori; there they received the message that they would have a son, name him"
-image: "https://upload.wikimedia.org/wikipedia/commons/4/4a/AlfonsoMariaFusco.jpg"
+summary: >-
+  Son of Giuseppina Schiavone and Aniello Fusco, the eldest of five children in a pious peasant family. The couple had
+  been unable to have children until a visit to the relics of Saint Alphonsus Maria d' Liguori; there they received the
+  message that they would have a son, name him
+image: https://upload.wikimedia.org/wikipedia/commons/4/4a/AlfonsoMariaFusco.jpg
 birthYear: 1839
 deathYear: 1910
-born: "23 March 1839 in Angri, Salerno, diocese of Nocera-Sarno, Italy"
-died: "6 February 1910 in Angri, Salerno, Italy of natural causes"
-birthPlace: "Salerno, dioceseNocera-Sarno, Italy"
-deathPlace: "Salerno, Italynatural causes"
-region: "Italy"
+born: 23 March 1839 in Angri, Salerno, diocese of Nocera-Sarno, Italy
+died: 6 February 1910 in Angri, Salerno, Italy of natural causes
+birthPlace: Salerno, dioceseNocera-Sarno, Italy
+deathPlace: Salerno, Italynatural causes
+region: Italy
 feastDay:
   month: 2
   day: 6
-centuries: [19, 20]
+centuries:
+  - 19
+  - 20
 canonizationStatus: Venerable
 vocation:
   - Bishop
   - Priest
   - Confessor
 patronage:
-  - "Congregation of the Baptistine Sisters of the Nazarene"
+  - Congregation of the Baptistine Sisters of the Nazarene
 martyr: false
+prayers: []
 ---
 
 Son of Giuseppina Schiavone and Aniello Fusco, the eldest of five children in a pious peasant family. The couple had been unable to have children until a visit to the relics of Saint Alphonsus Maria d' Liguori; there they received the message that they would have a son, name him Alfonso, and that he would led the life of a beati. Confirmed and received his first Communion at age seven, and at eleven he announced his intent to become a priest. Entered the seminary of Nocera dei Pagani on 5 November 1850. Ordained 29 September 1863.

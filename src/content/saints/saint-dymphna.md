@@ -52,6 +52,7 @@ patronage:
     –
   - Antwerp, Belgium
 martyr: true
+prayers: []
 ---
 
 Daughter of a pagan Irish chieftain named Damon, and a beautiful devoted Christian woman whose name has not come down to us. Her mother died when Dymphna was a teenager. Her father searched the Western world for a woman to replace his wife, but none could. Returning home, he saw that his daughter was as beautiful as her mother, and maddened by grief, he made advances on her. She fought him off, then fled to Belgium with Saint Gerebernus, an elderly priest and family friend.

@@ -1,9 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Colman McRhoi"
+name: Saint Colman McRhoi
 honorific: Saint
-summary: "Spiritual student of Saint Columba of Iona. Deacon. Helped found the monastery of Reachrain (modern Lambay Island), Dublin, Ireland, and served as its abbot."
-region: "Ireland"
+summary: >-
+  Spiritual student of Saint Columba of Iona. Deacon. Helped found the monastery of Reachrain (modern Lambay Island),
+  Dublin, Ireland, and served as its abbot.
+region: Ireland
 feastDay:
   month: 6
   day: 16
@@ -12,6 +14,7 @@ vocation:
   - Monk
   - Deacon
 martyr: false
+prayers: []
 ---
 
 Spiritual student of Saint Columba of Iona. Deacon. Helped found the monastery of Reachrain (modern Lambay Island), Dublin, Ireland, and served as its abbot.

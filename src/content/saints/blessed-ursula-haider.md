@@ -1,26 +1,30 @@
 ---
-name: "Blessed Ursula Haider"
+name: Blessed Ursula Haider
 honorific: Blessed
-summary: "Orphaned soon after her birth, Usula was raised by her maternal grandmother and her uncle, Father Johannes Bör. In 1422, at age 9, she moved to the Franciscan monastery of Reute at Bad Waldsee in modern Germany to attend their school. She made her first Communion there, and becam"
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Ursula-Haider.jpg"
+summary: >-
+  Orphaned soon after her birth, Usula was raised by her maternal grandmother and her uncle, Father Johannes Bör. In
+  1422, at age 9, she moved to the Franciscan monastery of Reute at Bad Waldsee in modern Germany to attend their
+  school. She made her first Communion there, and becam
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Ursula-Haider.jpg
 searchAliases:
-  - "Ursula of Leutkirch"
-  - "Ursula of Villingen"
+  - Ursula of Leutkirch
+  - Ursula of Villingen
 birthYear: 1413
 deathYear: 1498
-born: "1413 in Leutkirch, Allgäu, Swabia (in modern Baden-Württemberg, Germany)"
-died: "20 January 1498 in Villingen (in modern Baden-Württemberg, Germany) of natural causes"
-birthPlace: "Allgäu, Swabia (modern Baden-Württemberg, Germany)"
-deathPlace: "Germany)natural causes"
-region: "Austria"
+born: 1413 in Leutkirch, Allgäu, Swabia (in modern Baden-Württemberg, Germany)
+died: 20 January 1498 in Villingen (in modern Baden-Württemberg, Germany) of natural causes
+birthPlace: Allgäu, Swabia (modern Baden-Württemberg, Germany)
+deathPlace: Germany)natural causes
+region: Austria
 feastDay:
   month: 1
   day: 20
 canonizationStatus: Blessed
 vocation:
   - Confessor
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 martyr: false
+prayers: []
 ---
 
 Orphaned soon after her birth, Usula was raised by her maternal grandmother and her uncle, Father Johannes Bör. In 1422, at age 9, she moved to the Franciscan monastery of Reute at Bad Waldsee in modern Germany to attend their school. She made her first Communion there, and became the spiritual student of Blessed Elisabeth Achler. Her life at Reute led her to be drawn to the religious life. Returning home at age 17, she received, and turned down a series of marriage proposals, and spent her time searching for the proper monastery to enter religious life. On 29 July 1431 she entered the Poor Clare convent of Valduna, Vorarlberg (in modern Austria). There she cared for the sick, especially cancer patients. Chosen abbess at Valduna in 1449.

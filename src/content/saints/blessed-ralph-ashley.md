@@ -1,22 +1,26 @@
 ---
-name: "Blessed Ralph Ashley"
+name: Blessed Ralph Ashley
 honorific: Blessed
-summary: "Worked as a cook at Douay College. Entered the English College at Valladolid on 28 April 1590 where he became a Jesuit lay brother. Ill health forced him to leave college and return to England. Along the way he was captured by Dutch heretics; he stood up to them and explained the"
-image: "https://upload.wikimedia.org/wikipedia/commons/e/e8/Blessed-ralph-ashley.png"
+summary: >-
+  Worked as a cook at Douay College. Entered the English College at Valladolid on 28 April 1590 where he became a Jesuit
+  lay brother. Ill health forced him to leave college and return to England. Along the way he was captured by Dutch
+  heretics; he stood up to them and explained the
+image: https://upload.wikimedia.org/wikipedia/commons/e/e8/Blessed-ralph-ashley.png
 searchAliases:
-  - "Ralph Sherington"
+  - Ralph Sherington
 deathYear: 1607
-died: "hanged, drawn, and quartered on 7 April 1607 in Worcester, Worcestershire, England"
-deathPlace: "drawn, and quartered on 7 April 1607Worcester, Worcestershire, England"
-region: "Spain"
+died: hanged, drawn, and quartered on 7 April 1607 in Worcester, Worcestershire, England
+deathPlace: drawn, and quartered on 7 April 1607Worcester, Worcestershire, England
+region: Spain
 feastDay:
   month: 4
   day: 7
 canonizationStatus: Blessed
 vocation:
   - Priest
-religiousOrder: "Jesuit"
+religiousOrder: Jesuit
 martyr: true
+prayers: []
 ---
 
 Worked as a cook at Douay College. Entered the English College at Valladolid on 28 April 1590 where he became a Jesuit lay brother. Ill health forced him to leave college and return to England. Along the way he was captured by Dutch heretics; he stood up to them and explained their errors. Finally landed in England on 9 March 1598.

@@ -17,6 +17,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/0/03/Agathius-Acacius-Acacio-martyrdom.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Agathius the Martyr
 imageCreditUrl: https://en.wikipedia.org/wiki/Agathius
+prayers: []
 ---
 
 One of a group of eight missionaries who worked in eastern Egypt. They were sufficiently successful that they were arrested and murdered for being “disturbers of public order”; only Agathius's name has come down to us. Martyr.

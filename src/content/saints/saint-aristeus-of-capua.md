@@ -1,13 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Aristeus of Capua"
+name: Saint Aristeus of Capua
 honorific: Saint
-summary: "Bishop. Martyr."
+summary: Bishop. Martyr.
 searchAliases:
-  - "Aristseus"
-died: "in Capua, Italy"
-deathPlace: "Italy"
-region: "Italy"
+  - Aristseus
+died: in Capua, Italy
+deathPlace: Italy
+region: Italy
 feastDay:
   month: 1
   day: 1
@@ -15,8 +15,9 @@ canonizationStatus: Saint
 vocation:
   - Bishop
 patronage:
-  - "Capua, Italy"
+  - Capua, Italy
 martyr: true
+prayers: []
 ---
 
 Bishop. Martyr.

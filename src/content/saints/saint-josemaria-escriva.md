@@ -25,6 +25,7 @@ vocation:
   - Confessor
 religiousOrder: Carmelite
 martyr: false
+prayers: []
 ---
 
 One of six children born to Jose and Dolores Escriva; three of his siblings died in infancy. His father was a small businessman, and when his business failed in 1915, the family moved to Logroño, Spain. As a young man, Josemaria saw the bare footprints left in the snow by a monk; the sight moved him, and kindled a desire for religious vocation. He studied for the priesthood in Logroño and Zaragoza, Spain. His father died in 1924, and Josemaria had to simultaneously support the family while studying. Ordained in Zaragoza on 28 March 1925.

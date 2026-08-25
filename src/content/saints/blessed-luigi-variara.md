@@ -1,24 +1,25 @@
 ---
-name: "Blessed Luigi Variara"
+name: Blessed Luigi Variara
 honorific: Blessed
-summary: " In 1894 he joi Son of Peter Variara, who had been brought to a deep devotion to the Church following a mission conducted by Saint John Bosco. A student in a Salesian school, Luigi met John Bosco as a young man. The boy joined the Salesians in August 1891, making his vows in 1892."
-image: "https://upload.wikimedia.org/wikipedia/commons/8/82/Luis_Variara_imagen.jpg"
+summary: ' In 1894 he joi Son of Peter Variara, who had been brought to a deep devotion to the Church following a mission conducted by Saint John Bosco. A student in a Salesian school, Luigi met John Bosco as a young man. The boy joined the Salesians in August 1891, making his vows in 1892.'
+image: https://upload.wikimedia.org/wikipedia/commons/8/82/Luis_Variara_imagen.jpg
 searchAliases:
-  - "Aloisius Variara"
+  - Aloisius Variara
 birthYear: 1875
 deathYear: 1923
-born: "15 January 1875 at Viarigi (Asti), Italy"
-died: "1 February 1923 in Colombia of natural causes"
-birthPlace: "Italy"
-region: "Colombia"
+born: 15 January 1875 at Viarigi (Asti), Italy
+died: 1 February 1923 in Colombia of natural causes
+birthPlace: Italy
+region: Colombia
 feastDay:
   month: 2
   day: 1
 canonizationStatus: Blessed
 vocation:
   - Priest
-religiousOrder: "Salesian"
+religiousOrder: Salesian
 martyr: false
+prayers: []
 ---
 
 Son of Peter Variara, who had been brought to a deep devotion to the Church following a mission conducted by Saint John Bosco. A student in a Salesian school, Luigi met John Bosco as a young man. The boy joined the Salesians in August 1891, making his vows in 1892.

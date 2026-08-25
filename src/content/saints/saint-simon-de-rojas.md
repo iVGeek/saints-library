@@ -1,28 +1,34 @@
 ---
-name: "Saint Simón de Rojas"
+name: Saint Simón de Rojas
 honorific: Venerable
-summary: "A pious child, his first words, at age 14 months, were reported to be Ave Maria. From his youth and throughout his life he loved to visit Marian shrines. Joined the Trinitarians in Valladolid, Spain at age 12, and made his religious profession on 28 October 1572. He studied at th"
-image: "https://upload.wikimedia.org/wikipedia/commons/7/7a/SimondeRojasOSS.jpg"
+summary: >-
+  A pious child, his first words, at age 14 months, were reported to be Ave Maria. From his youth and throughout his
+  life he loved to visit Marian shrines. Joined the Trinitarians in Valladolid, Spain at age 12, and made his religious
+  profession on 28 October 1572. He studied at th
+image: https://upload.wikimedia.org/wikipedia/commons/7/7a/SimondeRojasOSS.jpg
 searchAliases:
-  - "Simón Ruiz de Rojas"
-  - "Simon of Rojas"
+  - Simón Ruiz de Rojas
+  - Simon of Rojas
 birthYear: 1552
 deathYear: 1624
-born: "28 October 1552 in Valladolid, Spain"
-died: "28 September 1624 in Madrid, Spain of natural causes"
-birthPlace: "Spain"
-deathPlace: "Spaof natural causes"
-region: "Spain"
+born: 28 October 1552 in Valladolid, Spain
+died: 28 September 1624 in Madrid, Spain of natural causes
+birthPlace: Spain
+deathPlace: Spaof natural causes
+region: Spain
 feastDay:
   month: 9
   day: 28
-centuries: [16, 17]
+centuries:
+  - 16
+  - 17
 canonizationStatus: Venerable
 vocation:
   - Virgin
   - Priest
   - Confessor
 martyr: false
+prayers: []
 ---
 
 A pious child, his first words, at age 14 months, were reported to be Ave Maria. From his youth and throughout his life he loved to visit Marian shrines. Joined the Trinitarians in Valladolid, Spain at age 12, and made his religious profession on 28 October 1572. He studied at the University of Salamanca from 1573 to 1579, and was ordained a priest in 1577. Taught philosophy and theology in Toleda, Spain from 1581 to 1587. From 1588 to 1624, he served as superior of several Trinitarian convents in Castile and Andalusia, and served three periods as Apostolic Visitor to the regions.

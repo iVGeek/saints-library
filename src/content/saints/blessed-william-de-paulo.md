@@ -1,21 +1,22 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed William de Paulo"
+name: Blessed William de Paulo
 honorific: Blessed
-summary: "Benedictine monk at San Niccolo dell' Arena. Abbot at Maniaco, assigned to restore discipline."
+summary: Benedictine monk at San Niccolo dell' Arena. Abbot at Maniaco, assigned to restore discipline.
 deathYear: 1423
-born: "Catania, Sicily"
-died: "1423 of natural causes"
-birthPlace: "Sicily"
-region: "Italy"
+born: Catania, Sicily
+died: 1423 of natural causes
+birthPlace: Sicily
+region: Italy
 feastDay:
   month: 11
   day: 30
 canonizationStatus: Blessed
 vocation:
   - Monk
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 martyr: false
+prayers: []
 ---
 
 Benedictine monk at San Niccolo dell' Arena. Abbot at Maniaco, assigned to restore discipline.

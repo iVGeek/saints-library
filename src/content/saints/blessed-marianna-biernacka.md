@@ -1,23 +1,27 @@
 ---
-name: "Blessed Marianna Biernacka"
+name: Blessed Marianna Biernacka
 honorific: Blessed
-summary: "Lifelong lay woman in the diocese of Lomza, Poland. She had little education; she may have been able to read a little, but she could not write. Raised in the Orthodox church, she converted to Catholicism at age 17. Married to Ludwik Biernacki, a farmer, at age 20. Mother of six,"
-image: "https://upload.wikimedia.org/wikipedia/commons/c/cb/Marianna_Biernacka.jpg"
+summary: >-
+  Lifelong lay woman in the diocese of Lomza, Poland. She had little education; she may have been able to read a little,
+  but she could not write. Raised in the Orthodox church, she converted to Catholicism at age 17. Married to Ludwik
+  Biernacki, a farmer, at age 20. Mother of six,
+image: https://upload.wikimedia.org/wikipedia/commons/c/cb/Marianna_Biernacka.jpg
 searchAliases:
-  - "Marianna Czokala"
+  - Marianna Czokala
 birthYear: 1888
 deathYear: 1943
-born: "1888 in Lipsk, Podlaskie, Poland as Marianna Czokala"
-died: "shot by firing squad on 13 June 1943 in Naumovichi (a.k.a. Naumowicze), Hrodzyenskaya voblasts’, Belarus"
-birthPlace: "Podlaskie, Poland as Marianna Czokala"
-deathPlace: "Hrodzyenskaya voblasts’, Belarus"
-region: "Poland"
+born: 1888 in Lipsk, Podlaskie, Poland as Marianna Czokala
+died: shot by firing squad on 13 June 1943 in Naumovichi (a.k.a. Naumowicze), Hrodzyenskaya voblasts’, Belarus
+birthPlace: Podlaskie, Poland as Marianna Czokala
+deathPlace: Hrodzyenskaya voblasts’, Belarus
+region: Poland
 feastDay:
   month: 6
   day: 13
 canonizationStatus: Blessed
 vocation: []
 martyr: true
+prayers: []
 ---
 
 Lifelong lay woman in the diocese of Lomza, Poland. She had little education; she may have been able to read a little, but she could not write. Raised in the Orthodox church, she converted to Catholicism at age 17. Married to Ludwik Biernacki, a farmer, at age 20. Mother of six, only two of whom survived infancy, her daughter Leokadia, and her son Stanislaw. Widowed, she moved in with Stanislaw and helped raise her grandchildren, in part by setting an example of personal piety.

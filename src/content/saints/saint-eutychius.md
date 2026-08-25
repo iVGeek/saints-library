@@ -17,6 +17,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/1/13/Eutychius_of_Constantinople.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Eutychius
 imageCreditUrl: https://en.wikipedia.org/wiki/Eutychius%20of%20Constantinople
+prayers: []
 ---
 
 Priest. Martyr. No other information has survived.

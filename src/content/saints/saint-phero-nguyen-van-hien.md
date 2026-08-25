@@ -1,24 +1,30 @@
 ---
-name: "Saint Phêrô Nguyen Van Hien"
+name: Saint Phêrô Nguyen Van Hien
 honorific: Venerable
-summary: "Layman catechist in the apostolic vicariate of West Tonkin (in modern Vietnam). Imprisoned and tortured for their faith for three years during the persecutions of Emperor Minh Mang; he was repeatedly ordered to denounce Christianity; he refused. Martyr."
-image: "http://catholicsaints.info/wp-content/gallery/martyrs-of-vietnam/martyrs-of-vietnam-01.jpg"
+summary: >-
+  Layman catechist in the apostolic vicariate of West Tonkin (in modern Vietnam). Imprisoned and tortured for their
+  faith for three years during the persecutions of Emperor Minh Mang; he was repeatedly ordered to denounce
+  Christianity; he refused. Martyr.
+image: http://catholicsaints.info/wp-content/gallery/martyrs-of-vietnam/martyrs-of-vietnam-01.jpg
 searchAliases:
-  - "Peter Nguyen Van Hieu"
+  - Peter Nguyen Van Hieu
 birthYear: 1783
 deathYear: 1840
-born: "c.1783 in Ðong Chuoi, Ninh Bình, Vietnam"
-died: "beheaded 28 April 1840 in Ninh Bình, Vietnam"
-birthPlace: "Ninh Bình, Vietnam"
-deathPlace: "Vietnam"
-region: "Vietnam"
+born: c.1783 in Ðong Chuoi, Ninh Bình, Vietnam
+died: beheaded 28 April 1840 in Ninh Bình, Vietnam
+birthPlace: Ninh Bình, Vietnam
+deathPlace: Vietnam
+region: Vietnam
 feastDay:
   month: 4
   day: 28
-centuries: [18, 19]
+centuries:
+  - 18
+  - 19
 canonizationStatus: Venerable
 vocation: []
 martyr: true
+prayers: []
 ---
 
 Layman catechist in the apostolic vicariate of West Tonkin (in modern Vietnam). Imprisoned and tortured for their faith for three years during the persecutions of Emperor Minh Mang; he was repeatedly ordered to denounce Christianity; he refused. Martyr.

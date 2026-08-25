@@ -30,6 +30,7 @@ vocation:
   - Monk
   - Deacon
 martyr: false
+prayers: []
 ---
 
 Born to the English nobility. Spiritual student of Saint Colgan. Deacon. Head of the York cathedral school c.770. Minister of education under Blessed Charlemagne in 781. Established schools at cathedrals and monasteries. Established scriptoria dedicated to copying and preserving ancient manuscripts, both pagan and Christian; that we have as much as we do of the writings of classical Roman authors is largely due to Alcuin and his scribes. Credited with the invention of cursive script in which letters are connected for greater writing speed. Revised and organized the Latin liturgy, preserved ancient prayers, and helped develop plain chant. Advocated the doctrine that the Holy Ghost proceeds from the Father and the Son jointly. Unfortunately, the East resented Charlemagne's assumption of the title of Holy Roman Emperor; this hardened their opposition to the doctrine, and contributed to the rift between East and West.

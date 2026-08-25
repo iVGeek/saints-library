@@ -17,6 +17,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/c/c1/Martyr_de_saint_Gorgon.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Eugene of Nicomedia
 imageCreditUrl: https://en.wikipedia.org/wiki/Gorgonius
+prayers: []
 ---
 
 Martyred in the persecutions of Diocletian.

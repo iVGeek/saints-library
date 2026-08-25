@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Dominic of Brescia"
+name: Saint Dominic of Brescia
 honorific: Saint
-summary: "Bishop of Brescia, Italy."
+summary: Bishop of Brescia, Italy.
 deathYear: 612
-died: "c.612"
-region: "Italy"
+died: c.612
+region: Italy
 feastDay:
   month: 12
   day: 20
@@ -14,6 +14,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Bishop of Brescia, Italy.

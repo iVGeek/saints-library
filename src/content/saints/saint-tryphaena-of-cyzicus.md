@@ -18,6 +18,7 @@ vocation:
 patronage:
   - nursing mothers
 martyr: true
+prayers: []
 ---
 
 Martyr. No other information has survived.

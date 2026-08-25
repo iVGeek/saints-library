@@ -26,6 +26,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/8/8b/Cath%C3%A9drale_Saint-Vincent_de_Chalon-sur-Sa%C3%B4ne_-_DSC06099.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Agricola of Châlon-sur-Saône
 imageCreditUrl: https://en.wikipedia.org/wiki/Ancient%20Diocese%20of%20Chalon-sur-Sa%C3%B4ne
+prayers: []
 ---
 
 Son of a Gallo-Roman senator. Bishop of Châlon-sur-Saône, France in 532; he governed  the diocese for 48 years. Friend of Saint Gregory of Tours who wrote glowingly of him. Known for his simple, austere personal life, and his devotion to the spiritual lives of his flock.

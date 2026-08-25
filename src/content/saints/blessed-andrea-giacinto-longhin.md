@@ -1,21 +1,24 @@
 ---
-name: "Blessed Andrea Giacinto Longhin"
+name: Blessed Andrea Giacinto Longhin
 honorific: Blessed
-summary: "The only son of Matthew and Judith Marin, poor and pious tenant farmers. He early felt a call to the priesthood. Against the wishes of his father, he became a Capuchin novice, taking the name Andrew of Campodarsego at Bassano del Grappa, Venice on 27 August 1879 at age 16. He stu"
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Andrea-Giacinto-Longhin.jpg"
+summary: >-
+  The only son of Matthew and Judith Marin, poor and pious tenant farmers. He early felt a call to the priesthood.
+  Against the wishes of his father, he became a Capuchin novice, taking the name Andrew of Campodarsego at Bassano del
+  Grappa, Venice on 27 August 1879 at age 16. He stu
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Andrea-Giacinto-Longhin.jpg
 searchAliases:
-  - "Andrea of Fiumicello"
-  - "Andrew Longhin"
-  - "Andrew of Campodarsego"
-  - "Bishop of the Catechism"
-  - "Hyacinth Bonaventure Longhin"
+  - Andrea of Fiumicello
+  - Andrew Longhin
+  - Andrew of Campodarsego
+  - Bishop of the Catechism
+  - Hyacinth Bonaventure Longhin
 birthYear: 1863
 deathYear: 1936
-born: "22 November 1863 in Fiumicello di Campodarsego, province and diocese of Padua, Italy as Hyacinth Bonaventure Longhin"
-died: "Friday 26 June 1936 in Treviso, Italy of natural causes following an eight-month illness"
-birthPlace: "province and diocesePadua, Italy as Hyacinth Bonaventure Longhin"
-deathPlace: "Italynatural causes following an eight-month illness"
-region: "Italy"
+born: 22 November 1863 in Fiumicello di Campodarsego, province and diocese of Padua, Italy as Hyacinth Bonaventure Longhin
+died: Friday 26 June 1936 in Treviso, Italy of natural causes following an eight-month illness
+birthPlace: province and diocesePadua, Italy as Hyacinth Bonaventure Longhin
+deathPlace: Italynatural causes following an eight-month illness
+region: Italy
 feastDay:
   month: 6
   day: 26
@@ -24,8 +27,9 @@ vocation:
   - Bishop
   - Priest
   - Missionary
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 martyr: false
+prayers: []
 ---
 
 The only son of Matthew and Judith Marin, poor and pious tenant farmers. He early felt a call to the priesthood. Against the wishes of his father, he became a Capuchin novice, taking the name Andrew of Campodarsego at Bassano del Grappa, Venice on 27 August 1879 at age 16. He studied at Padua and Venice in Italy, made his solemn profession on 4 October 1883, and was ordained on 19 June 1886.

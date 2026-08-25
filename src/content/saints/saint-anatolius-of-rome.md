@@ -1,11 +1,11 @@
 ---
-name: "Saint Anatolius of Rome"
-image: "https://upload.wikimedia.org/wikipedia/commons/4/43/Frans_Anatolius_Sj%C3%B6str%C3%B6m.jpg"
+name: Saint Anatolius of Rome
+image: https://upload.wikimedia.org/wikipedia/commons/4/43/Frans_Anatolius_Sj%C3%B6str%C3%B6m.jpg
 honorific: Saint
-summary: "Martyred in the persecutions of Nero."
-died: "in Rome, Italy"
-deathPlace: "Italy"
-region: "Italy"
+summary: Martyred in the persecutions of Nero.
+died: in Rome, Italy
+deathPlace: Italy
+region: Italy
 feastDay:
   month: 3
   day: 20
@@ -13,6 +13,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Martyred in the persecutions of Nero.

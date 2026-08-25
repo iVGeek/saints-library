@@ -19,6 +19,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/c/c9/Queen_Camilla_in_Aotearoa_2019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Camilla
 imageCreditUrl: https://en.wikipedia.org/wiki/Queen%20Camilla
+prayers: []
 ---
 
 Converted by and spiritual student of Saint Germain of Auxerre. Hermit.

@@ -1,23 +1,26 @@
 ---
-name: "Saint Peter Gonzales"
+name: Saint Peter Gonzales
 honorific: Saint
-summary: "Castilian nobility who mis-spent a worldly youth. Educated by his uncle, the bishop of Astorga, Spain. Priest, primarily as a step to high office. Obtained special papal dispensation to become Canon of Palencia when he was officially still too young. During a grand Christmas Day"
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Peter-Gonzales.jpg"
+summary: >-
+  Castilian nobility who mis-spent a worldly youth. Educated by his uncle, the bishop of Astorga, Spain. Priest,
+  primarily as a step to high office. Obtained special papal dispensation to become Canon of Palencia when he was
+  officially still too young. During a grand Christmas Day
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Peter-Gonzales.jpg
 searchAliases:
-  - "Elm"
-  - "Elmo"
-  - "Erasmus"
-  - "Pedro"
-  - "Pietro"
-  - "Telm"
-  - "Telmo"
+  - Elm
+  - Elmo
+  - Erasmus
+  - Pedro
+  - Pietro
+  - Telm
+  - Telmo
 birthYear: 1190
 deathYear: 1246
-born: "1190 at Astorga, Spain"
-died: "15 April 1246 at Saintiago de Compostela, Tui, Spain"
-birthPlace: "Spain"
-deathPlace: "Tui, Spain"
-region: "Spain"
+born: 1190 at Astorga, Spain
+died: 15 April 1246 at Saintiago de Compostela, Tui, Spain
+birthPlace: Spain
+deathPlace: Tui, Spain
+region: Spain
 feastDay:
   month: 4
   day: 14
@@ -26,17 +29,18 @@ vocation:
   - Bishop
   - Priest
   - Confessor
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 patronage:
-  - "boatmen"
-  - "fishermen"
-  - "mariners"
-  - "sailors"
-  - "watermen"
-  - "—"
-  - "Tui, Spain"
-  - "Tui-Vigo, Spain, diocese of"
+  - boatmen
+  - fishermen
+  - mariners
+  - sailors
+  - watermen
+  - —
+  - Tui, Spain
+  - Tui-Vigo, Spain, diocese of
 martyr: false
+prayers: []
 ---
 
 Castilian nobility who mis-spent a worldly youth. Educated by his uncle, the bishop of Astorga, Spain. Priest, primarily as a step to high office. Obtained special papal dispensation to become Canon of Palencia when he was officially still too young. During a grand Christmas Day entrance into the city, his horse was spooked by the noise of the crowds. It threw him in all his finery onto a dung-heap, much to the delight of the citizens who knew his was a political, not a spiritual appointment.

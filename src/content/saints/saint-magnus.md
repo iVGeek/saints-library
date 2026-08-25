@@ -1,15 +1,17 @@
 ---
-name: "Saint Magnus of Orderzo"
+name: Saint Magnus of Orderzo
 honorific: Saint
-summary: "Bishop of Orderzo, Treviso, Italy. Transferred his see to Heraclea (modern Citta Nuova) in 638 due to Lombard invasion."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Magnus-of-Orderzo-1.jpg"
+summary: >-
+  Bishop of Orderzo, Treviso, Italy. Transferred his see to Heraclea (modern Citta Nuova) in 638 due to Lombard
+  invasion.
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Magnus-of-Orderzo-1.jpg
 searchAliases:
-  - "Magno"
+  - Magno
 deathYear: 660
-born: "at Venice, Italy"
-died: "c.660 of natural causes"
-birthPlace: "Italy"
-region: "Italy"
+born: at Venice, Italy
+died: c.660 of natural causes
+birthPlace: Italy
+region: Italy
 feastDay:
   month: 10
   day: 6
@@ -18,10 +20,14 @@ vocation:
   - Bishop
   - Monk
 patronage:
-  - "in Italy\n\nCitta Nuova"
-  - "Oderzo"
-  - "Venice"
+  - |-
+    in Italy
+
+    Citta Nuova
+  - Oderzo
+  - Venice
 martyr: false
+prayers: []
 ---
 
 Bishop of Orderzo, Treviso, Italy. Transferred his see to Heraclea (modern Citta Nuova) in 638 due to Lombard invasion.

@@ -1,15 +1,15 @@
 ---
-name: "Blessed Tommaso Reggio"
+name: Blessed Tommaso Reggio
 honorific: Blessed
-summary: " Helped found The Catholic Standard, Son of Angela Pareto and the Marquis of Reggio. Tommaso felt a call to the priesthood at age 20; he studied and was ordained on 18 September 1841. Vice-rector of the seminary in Genoa, Italy at age 25. Rector of the seminary in Chiavari, Italy."
-image: "https://upload.wikimedia.org/wikipedia/commons/3/37/Beato_Tom%C3%A1s_Reggio.jpg"
+summary: ' Helped found The Catholic Standard, Son of Angela Pareto and the Marquis of Reggio. Tommaso felt a call to the priesthood at age 20; he studied and was ordained on 18 September 1841. Vice-rector of the seminary in Genoa, Italy at age 25. Rector of the seminary in Chiavari, Italy.'
+image: https://upload.wikimedia.org/wikipedia/commons/3/37/Beato_Tom%C3%A1s_Reggio.jpg
 birthYear: 1818
 deathYear: 1901
-born: "8 January 1818 at Genoa, Italy"
-died: "afternoon of 22 November 1901 at Triora, Imperia, Italy of natural causes"
-birthPlace: "Italy"
-deathPlace: "Imperia, Italynatural causes"
-region: "Italy"
+born: 8 January 1818 at Genoa, Italy
+died: afternoon of 22 November 1901 at Triora, Imperia, Italy of natural causes
+birthPlace: Italy
+deathPlace: Imperia, Italynatural causes
+region: Italy
 feastDay:
   month: 11
   day: 22
@@ -19,6 +19,7 @@ vocation:
   - Priest
   - Religious
 martyr: false
+prayers: []
 ---
 
 Son of Angela Pareto and the Marquis of Reggio. Tommaso felt a call to the priesthood at age 20; he studied and was ordained on 18 September 1841. Vice-rector of the seminary in Genoa, Italy at age 25. Rector of the seminary in Chiavari, Italy.

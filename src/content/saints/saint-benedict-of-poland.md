@@ -16,6 +16,7 @@ vocation:
   - Hermit
 religiousOrder: Benedictine
 martyr: false
+prayers: []
 ---
 
 One of four brothers who became hermits, Benedictine monks and saints.

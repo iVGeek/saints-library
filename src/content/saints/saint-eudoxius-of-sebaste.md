@@ -22,6 +22,7 @@ imageCredit: >-
   <a rel="nofollow" class="external free"
   href="http://www.pravenc.ru/text/187106.html">http://www.pravenc.ru/text/187106.html</a>
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:Menologion%20of%20Basil%20017.jpg
+prayers: []
 ---
 
 One of a group of ten Christian soldiers in the imperial Roman army of Emperor Licinius who were martyred together for refusing to sacrifice to Roman gods.

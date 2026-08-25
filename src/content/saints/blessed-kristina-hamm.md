@@ -1,9 +1,9 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Kristina Hamm"
+name: Blessed Kristina Hamm
 honorific: Blessed
-summary: "15th century nun in Hamm, Westphalia (in modern Germany). Stigmatist, attested by 12 witnesses."
-region: "Germany"
+summary: 15th century nun in Hamm, Westphalia (in modern Germany). Stigmatist, attested by 12 witnesses.
+region: Germany
 feastDay:
   month: 6
   day: 22
@@ -12,6 +12,7 @@ vocation:
   - Monk
   - Religious
 martyr: false
+prayers: []
 ---
 
 15th century nun in Hamm, Westphalia (in modern Germany). Stigmatist, attested by 12 witnesses.

@@ -1,12 +1,12 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Herveus"
+name: Blessed Herveus
 honorific: Blessed
-summary: "Hermit on Chalonnes Island, Anjou, France."
+summary: Hermit on Chalonnes Island, Anjou, France.
 deathYear: 1130
-born: "in the British Isles"
-died: "1130"
-region: "France"
+born: in the British Isles
+died: '1130'
+region: France
 feastDay:
   month: 7
   day: 18
@@ -15,6 +15,7 @@ vocation:
   - Monk
   - Hermit
 martyr: false
+prayers: []
 ---
 
 Hermit on Chalonnes Island, Anjou, France.

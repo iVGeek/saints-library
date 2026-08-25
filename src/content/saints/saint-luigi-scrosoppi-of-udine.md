@@ -1,27 +1,32 @@
 ---
-name: "Saint Luigi Scrosoppi of Udine"
+name: Saint Luigi Scrosoppi of Udine
 honorific: Venerable
-summary: "Youngest of three brothers born to Domenico Scrosoppi, a jeweler, and Antonia Lazzarini; his brother Carlo was ordained when Luigi was six, and his brother Giovanni several years later. When Luigi was 11 or 12 years old, his home region was struck by drought, famine, typhus, and"
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Luigi-Scrosoppi-of-Udine-1.jpg"
+summary: >-
+  Youngest of three brothers born to Domenico Scrosoppi, a jeweler, and Antonia Lazzarini; his brother Carlo was
+  ordained when Luigi was six, and his brother Giovanni several years later. When Luigi was 11 or 12 years old, his home
+  region was struck by drought, famine, typhus, and
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Luigi-Scrosoppi-of-Udine-1.jpg
 searchAliases:
-  - "Aloisius Scrosoppi"
-  - "Aloysius of Udine"
-  - "Aloysius Scrosoppi"
-  - "Luigi Scrosoppi"
+  - Aloisius Scrosoppi
+  - Aloysius of Udine
+  - Aloysius Scrosoppi
+  - Luigi Scrosoppi
 deathYear: 1884
-died: "3 April 1884 at Udine Italy of fever and the postulant skin disease pemphigus"
-region: "Italy"
+died: 3 April 1884 at Udine Italy of fever and the postulant skin disease pemphigus
+region: Italy
 feastDay:
   month: 4
   day: 3
-centuries: [19]
+centuries:
+  - 19
 canonizationStatus: Venerable
 vocation:
   - Priest
   - Religious
   - Deacon
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 martyr: false
+prayers: []
 ---
 
 Youngest of three brothers born to Domenico Scrosoppi, a jeweler, and Antonia Lazzarini; his brother Carlo was ordained when Luigi was six, and his brother Giovanni several years later. When Luigi was 11 or 12 years old, his home region was struck by drought, famine, typhus, and smallpox in quick succession; the sight of such misery, complete poverty, and the number of orphans had a lasting effect on the boy.

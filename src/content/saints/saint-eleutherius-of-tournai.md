@@ -29,6 +29,7 @@ vocation:
   - Priest
   - Confessor
 martyr: true
+prayers: []
 ---
 
 Born to the Gallo-Roman nobility, the son of Blanda and Serenus, a family that converted to Christianity after hearing the preaching of Saint Plato; his father donated the land on which the cathedral of Notre-Dame of Tournai was built. Eletutherius was a friend of, and student with, Saint Medard of Noyon. Priest. Bishop of Tournai in modern Belgium in 486, consecrated by Saint Remigius of Rheims.

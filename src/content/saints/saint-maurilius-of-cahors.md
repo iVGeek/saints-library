@@ -1,13 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Maurilius of Cahors"
+name: Saint Maurilius of Cahors
 honorific: Saint
-summary: "Bishop of Cahors, France. Known for knowing the entire Bible by heart."
+summary: Bishop of Cahors, France. Known for knowing the entire Bible by heart.
 searchAliases:
-  - "Maurille"
+  - Maurille
 deathYear: 580
-died: "580"
-region: "France"
+died: '580'
+region: France
 feastDay:
   month: 1
   day: 10
@@ -16,6 +16,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Bishop of Cahors, France. Known for knowing the entire Bible by heart.

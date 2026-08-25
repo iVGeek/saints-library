@@ -1,8 +1,10 @@
 ---
 name: Martin de Porres
 honorific: Saint
-title: "martin-de-porres"
-summary: A humble Dominican brother of Lima who healed the sick, fed the poor, and cared for animals — the first black saint of the Americas and a sign of God's love for every race.
+title: martin-de-porres
+summary: >-
+  A humble Dominican brother of Lima who healed the sick, fed the poor, and cared for animals — the first black saint of
+  the Americas and a sign of God's love for every race.
 image: https://upload.wikimedia.org/wikipedia/commons/2/29/San_Martin_de_Porres_huaycan.jpg
 imageAlt: Portrait of Martin de Porres
 imageCredit: Wikimedia Commons
@@ -17,13 +19,15 @@ died: 3 November 1639
 birthPlace: Lima, Peru
 deathPlace: Lima, Peru
 region: Peru
-centuries: [16, 17]
+centuries:
+  - 16
+  - 17
 feastDay:
   month: 11
   day: 3
 liturgicalRank: Memorial
 canonizationStatus: Saint
-beatifiedDate: "1837"
+beatifiedDate: '1837'
 canonizedDate: 6 May 1962
 vocation:
   - Lay
@@ -44,46 +48,42 @@ symbols:
   - Dominican habit
 martyr: false
 lifeEvents:
-  - year: "9 December 1579"
+  - year: 9 December 1579
     event: Born in Lima, natural son of a Spanish knight and Ana de Velázquez, a freed black woman.
-  - year: "1594"
+  - year: '1594'
     event: Enters the Dominican priory of the Holy Rosary as a servant, later professed as a lay brother.
-  - year: "1600s"
+  - year: 1600s
     event: Devotes himself to the sick and the poor of Lima; founds an orphanage and a shelter for stray animals.
-  - year: "1619"
+  - year: '1619'
     event: Named infirmarian of the priory despite the rule barring those of his birth from office.
-  - year: "3 November 1639"
+  - year: 3 November 1639
     event: Dies in Lima, renowned for miracles of healing and bilocation.
-  - year: "1837"
+  - year: '1837'
     event: Beatified by Gregory XVI.
-  - year: "6 May 1962"
+  - year: 6 May 1962
     event: Canonized by Pope John XXIII.
 quotes:
-  - text: >-
-      Everything, even sweeping, scraping vegetables, weeding, and helping the sick can be a prayer, if offered to God.
+  - text: Everything, even sweeping, scraping vegetables, weeding, and helping the sick can be a prayer, if offered to God.
     source: Attributed to Saint Martin de Porres
 prayers:
   - name: Prayer to Saint Martin de Porres
     kind: Prayer for charity and for the marginalized
     text: >-
-      O Saint Martin de Porres, who served the poorest with the hands of Christ and welcomed
-      every creature as a gift of God, obtain for us a heart of service. Help us to see the
-      dignity of every person and to break down the walls of prejudice. May our humble daily
-      work, offered to God, become a prayer and a healing for the world. Amen.
-  - name: "Novena to Saint Martin de Porres"
-    kind: "Novena — nine-day prayer for racial harmony and charity"
+      O Saint Martin de Porres, who served the poorest with the hands of Christ and welcomed every creature as a gift of
+      God, obtain for us a heart of service. Help us to see the dignity of every person and to break down the walls of
+      prejudice. May our humble daily work, offered to God, become a prayer and a healing for the world. Amen.
+  - name: Novena to Saint Martin de Porres
+    kind: Novena — nine-day prayer for racial harmony and charity
     text: >-
-      O humble Saint Martin de Porres, who served God by sweeping the floors of the Dominican
-      priory and washing the wounds of the poor, I come before you in this novena with a heart
-      that longs for charity. You who saw the image of Christ in every suffering person, obtain
-      for me a heart that breaks for what breaks the heart of God. Help me to serve the poor
-      and the marginalized with tenderness and without looking for recognition. You who broke
-      down the walls of prejudice by your humble love, intercede for the healing of racial
-      divisions in our world. Obtain for me the grace to see every human being as a child of
-      God, created in His image and worthy of dignity. May your broom remind me that no act of
-      service is too small, and may your example teach me that true greatness lies in making
-      oneself small before God and neighbor. Through your intercession, may God's love overcome
-      all hatred and division. Amen.
+      O humble Saint Martin de Porres, who served God by sweeping the floors of the Dominican priory and washing the
+      wounds of the poor, I come before you in this novena with a heart that longs for charity. You who saw the image of
+      Christ in every suffering person, obtain for me a heart that breaks for what breaks the heart of God. Help me to
+      serve the poor and the marginalized with tenderness and without looking for recognition. You who broke down the
+      walls of prejudice by your humble love, intercede for the healing of racial divisions in our world. Obtain for me
+      the grace to see every human being as a child of God, created in His image and worthy of dignity. May your broom
+      remind me that no act of service is too small, and may your example teach me that true greatness lies in making
+      oneself small before God and neighbor. Through your intercession, may God's love overcome all hatred and division.
+      Amen.
 relatedSaints:
   - name: Rose of Lima
     slug: rose-of-lima

@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Servilius of Istria"
+name: Saint Servilius of Istria
 honorific: Saint
-summary: "Early martyr in the Istria peninsula."
+summary: Early martyr in the Istria peninsula.
 searchAliases:
-  - "Servulo"
-region: "England"
+  - Servulo
+region: England
 feastDay:
   month: 5
   day: 24
@@ -13,6 +13,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Early martyr in the Istria peninsula.

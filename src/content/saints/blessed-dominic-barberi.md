@@ -25,6 +25,7 @@ vocation:
   - Priest
   - Cardinal
 martyr: false
+prayers: []
 ---
 
 Born to a poor farm family, orphaned by age eight, and raised by an aunt and uncle on a farm in Merlano, Italy. An uneducated shepherd boy, he spent his time with the flocks in prayer. Met many Passionist priests exiled from France during the repressions of Napoleon. During prayers with them he received a divine message that he would work in northern Europe and England. One day in 1814, just before he entered into an arranged marriage, he slipped away from his family and joined the Passionists, taking the name Dominic of the Mother of God.

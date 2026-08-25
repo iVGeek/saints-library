@@ -13,6 +13,7 @@ image: https://commons.wikimedia.org/wiki/Special:FilePath/Saint_Januarius.jpg?w
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Martyred in the persecutions of Licinius.

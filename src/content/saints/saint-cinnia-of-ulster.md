@@ -1,13 +1,15 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Cinnia of Ulster"
+name: Saint Cinnia of Ulster
 honorific: Saint
-summary: "Princess of Ulster, Ireland. Converted to Christianity by Saint Patrick; when she became a nun, Saint Patrick gave her the veil. Greatly honoured in County Louth, Ireland."
+summary: >-
+  Princess of Ulster, Ireland. Converted to Christianity by Saint Patrick; when she became a nun, Saint Patrick gave her
+  the veil. Greatly honoured in County Louth, Ireland.
 searchAliases:
-  - "Kinnia"
-born: "Irish"
-died: "5th century"
-region: "Ireland"
+  - Kinnia
+born: Irish
+died: 5th century
+region: Ireland
 feastDay:
   month: 2
   day: 1
@@ -18,6 +20,7 @@ vocation:
   - Monk
   - Religious
 martyr: false
+prayers: []
 ---
 
 Princess of Ulster, Ireland. Converted to Christianity by Saint Patrick; when she became a nun, Saint Patrick gave her the veil. Greatly honoured in County Louth, Ireland.

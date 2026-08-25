@@ -19,6 +19,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/3/38/Ingres_Martyre_Saint-Symphorien.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Germanus of Caesarea
 imageCreditUrl: https://en.wikipedia.org/wiki/Symphorian%20and%20Timotheus
+prayers: []
 ---
 
 Christian man who was scourged and martyred in the persecutions of Diocletian and Galerius. Just before he died, the saint chewed out his pagan judge as a coward for torturing the young woman, Saint Ennatha of Caesarea.

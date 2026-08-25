@@ -1,11 +1,14 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Saturninus of Albitina the Elder"
+name: Saint Saturninus of Albitina the Elder
 honorific: Saint
-summary: "Father of Saint Saturninus of Albitina the Younger, Saint Felix of Albitina, Saint Hilarion of Albitina and Saint Mary of Albitina. Priest. One of a group of 46 Christians arrested in Albitina, North Africa during Mass, shipped to Carthage for judgment and torture, and then died"
+summary: >-
+  Father of Saint Saturninus of Albitina the Younger, Saint Felix of Albitina, Saint Hilarion of Albitina and Saint Mary
+  of Albitina. Priest. One of a group of 46 Christians arrested in Albitina, North Africa during Mass, shipped to
+  Carthage for judgment and torture, and then died
 deathYear: 304
-died: "304"
-region: "Africa"
+died: '304'
+region: Africa
 feastDay:
   month: 2
   day: 12
@@ -14,6 +17,7 @@ vocation:
   - Priest
   - Monk
 martyr: true
+prayers: []
 ---
 
 Father of Saint Saturninus of Albitina the Younger, Saint Felix of Albitina, Saint Hilarion of Albitina and Saint Mary of Albitina. Priest. One of a group of 46 Christians arrested in Albitina, North Africa during Mass, shipped to Carthage for judgment and torture, and then died together in prison. Martyr.

@@ -28,6 +28,7 @@ vocation:
   - Monk
 religiousOrder: Capuchin
 martyr: false
+prayers: []
 ---
 
 Shoemaker by trade, and considered the greatest swordsman and duelist in Sicily in his day. After mortally wounding a man named Canino in a duel, he sought sanctuary from the law in the church of the Capuchin Friars Minor in Palermo. While hiding there, he had a true conversion, and became a Capuchin lay-brother in 1632, changing his name to Brother Bernardo.

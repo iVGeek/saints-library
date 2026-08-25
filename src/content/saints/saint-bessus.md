@@ -26,6 +26,7 @@ patronage:
   - Ivrea, Italy
   - Valprato Soana, Italy
 martyr: true
+prayers: []
 ---
 
 Soldier of the Theban Legion. Convert to Christianity. He escaped the massacre of the Legion and became an evangelist in the mountain district of Val Soana. Reported to be a miracle worker and able to heal by prayer. Martyr.

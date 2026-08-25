@@ -1,12 +1,12 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Gunthildis of Biblisheim"
+name: Saint Gunthildis of Biblisheim
 honorific: Saint
-summary: "Benedictine nun. First abbess of the Biblisheim Abbey in Alsace."
+summary: Benedictine nun. First abbess of the Biblisheim Abbey in Alsace.
 searchAliases:
-  - "Gonthildis"
+  - Gonthildis
 deathYear: 1131
-died: "1131"
+died: '1131'
 feastDay:
   month: 1
   day: 21
@@ -14,8 +14,9 @@ canonizationStatus: Saint
 vocation:
   - Monk
   - Religious
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 martyr: false
+prayers: []
 ---
 
 Benedictine nun. First abbess of the Biblisheim Abbey in Alsace.

@@ -1,21 +1,22 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Hildebert of Ghent"
+name: Saint Hildebert of Ghent
 honorific: Saint
-summary: "Benedictine monk. Abbot of Saint Peter's in Ghent. Martyr, killed for his defense of icons."
+summary: Benedictine monk. Abbot of Saint Peter's in Ghent. Martyr, killed for his defense of icons.
 searchAliases:
-  - "Emebert"
+  - Emebert
 deathYear: 752
-died: "752"
-region: "Belgium"
+died: '752'
+region: Belgium
 feastDay:
   month: 4
   day: 4
 canonizationStatus: Saint
 vocation:
   - Monk
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 martyr: true
+prayers: []
 ---
 
 Benedictine monk. Abbot of Saint Peter's in Ghent. Martyr, killed for his defense of icons.

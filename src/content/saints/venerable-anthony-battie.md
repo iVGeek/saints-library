@@ -1,12 +1,12 @@
 ---
 image: /placeholder-saint.svg
-name: "Venerable Anthony Battie"
+name: Venerable Anthony Battie
 honorific: Venerable
-summary: "Layman farmer of Masham, Yorkshire, England. Martyred in the persecutions of Queen Elizabeth I for harbouring priests."
+summary: Layman farmer of Masham, Yorkshire, England. Martyred in the persecutions of Queen Elizabeth I for harbouring priests.
 searchAliases:
-  - "Anthony Bates"
-born: "England"
-region: "England"
+  - Anthony Bates
+born: England
+region: England
 feastDay:
   month: 1
   day: 1
@@ -15,6 +15,7 @@ vocation:
   - Priest
   - Monk
 martyr: true
+prayers: []
 ---
 
 Layman farmer of Masham, Yorkshire, England. Martyred in the persecutions of Queen Elizabeth I for harbouring priests.

@@ -1,12 +1,12 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Anastasius of Bourges"
+name: Saint Anastasius of Bourges
 honorific: Saint
-summary: "Soldier. Martyr. No other information as survived."
+summary: Soldier. Martyr. No other information as survived.
 deathYear: 274
-died: "scourged to death in 274 in Bourges, France"
-deathPlace: "France"
-region: "France"
+died: scourged to death in 274 in Bourges, France
+deathPlace: France
+region: France
 feastDay:
   month: 6
   day: 29
@@ -15,6 +15,7 @@ vocation:
   - Monk
   - Soldier
 martyr: true
+prayers: []
 ---
 
 Soldier. Martyr. No other information as survived.

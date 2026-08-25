@@ -1,27 +1,32 @@
 ---
-name: "Saint Maria Soledad Torres Acosta"
+name: Saint Maria Soledad Torres Acosta
 honorific: Venerable
-summary: "Daughter of Francis Torres and Antonia Acosta, who ran a small business. From her youth, Emanuela felt a call to the religious life. When she was old enough to leave home, she applied to the Dominicans, but she was rejected due to poor health. She spent much time and prayer disce"
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Maria-Soledad-Torres-Acosta1.jpg"
+summary: >-
+  Daughter of Francis Torres and Antonia Acosta, who ran a small business. From her youth, Emanuela felt a call to the
+  religious life. When she was old enough to leave home, she applied to the Dominicans, but she was rejected due to poor
+  health. She spent much time and prayer disce
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Maria-Soledad-Torres-Acosta1.jpg
 searchAliases:
-  - "Emanuela Tores-Acosta"
-  - "Manuela Torres Acosta"
-  - "María Soledad"
+  - Emanuela Tores-Acosta
+  - Manuela Torres Acosta
+  - María Soledad
 birthYear: 1826
 deathYear: 1887
-born: "2 December 1826 at Madrid, Spain as Emanuela Tores-Acosta"
-died: "11 October 1887 of natural causes"
-birthPlace: "Spaas Emanuela Tores-Acosta"
-region: "Spain"
+born: 2 December 1826 at Madrid, Spain as Emanuela Tores-Acosta
+died: 11 October 1887 of natural causes
+birthPlace: Spaas Emanuela Tores-Acosta
+region: Spain
 feastDay:
   month: 10
   day: 11
-centuries: [19]
+centuries:
+  - 19
 canonizationStatus: Venerable
 vocation:
   - Priest
-religiousOrder: "Dominican"
+religiousOrder: Dominican
 martyr: false
+prayers: []
 ---
 
 Daughter of Francis Torres and Antonia Acosta, who ran a small business. From her youth, Emanuela felt a call to the religious life. When she was old enough to leave home, she applied to the Dominicans, but she was rejected due to poor health. She spent much time and prayer discerning her call to vocation, and in 1848 was asked by a Servite tertiary priest to head a new community of women dedicated to ministering to the sick poor. She took the name Mary Soledad, and dedicated herself to the new community, which in 1851 still numbered only seven.

@@ -18,6 +18,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/3/3e/Menaion_icon_%2817_c.%2C_TsAK%29_-_August.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Cindeus
 imageCreditUrl: https://en.wikipedia.org/wiki/August%201%20(Eastern%20Orthodox%20liturgics)
+prayers: []
 ---
 
 Priest in Pamphylia, Asia Minor. Tortured and martyred in the persecutions of Diocletian.

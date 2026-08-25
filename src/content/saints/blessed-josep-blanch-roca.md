@@ -1,24 +1,25 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Josep Blanch Roca"
+name: Blessed Josep Blanch Roca
 honorific: Blessed
-summary: "Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
+summary: Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War.
 searchAliases:
-  - "Brother Victorí Josep"
+  - Brother Victorí Josep
 birthYear: 1908
 deathYear: 1936
-born: "23 February 1908 in Torregrossa, Lleida, Spain"
-died: "8 October 1936 in Montcada, Barcelona, Spain"
-birthPlace: "Lleida, Spain"
-deathPlace: "Barcelona, Spain"
-region: "Spain"
+born: 23 February 1908 in Torregrossa, Lleida, Spain
+died: 8 October 1936 in Montcada, Barcelona, Spain
+birthPlace: Lleida, Spain
+deathPlace: Barcelona, Spain
+region: Spain
 feastDay:
   month: 10
   day: 8
 canonizationStatus: Blessed
 vocation: []
-religiousOrder: "Marist"
+religiousOrder: Marist
 martyr: true
+prayers: []
 ---
 
 Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War.

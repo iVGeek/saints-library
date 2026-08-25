@@ -1,28 +1,33 @@
 ---
-name: "Saint Alphege of Winchester"
+name: Saint Alphege of Winchester
 honorific: Saint
-summary: "Born to the nobility but gave it up to become a young monk at Deerhurst Abbey in Gloucestershire, England. Monk, anchorite, and then abbot at Bath Abbey; known for his personal piety and austerity. Bishop of Winchester, England in 984. Built several churches, installed a cathedra"
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Alphege-of-Winchester.jpg"
+summary: >-
+  Born to the nobility but gave it up to become a young monk at Deerhurst Abbey in Gloucestershire, England. Monk,
+  anchorite, and then abbot at Bath Abbey; known for his personal piety and austerity. Bishop of Winchester, England in
+  984. Built several churches, installed a cathedra
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Alphege-of-Winchester.jpg
 searchAliases:
-  - "Alphege the Martyr"
-  - "Alphege of Canterbury"
-  - "Alfege…"
-  - "Alphage…"
-  - "Alphege…"
-  - "Alphegus…"
-  - "Elphege…"
-  - "Godwine…"
-  - "Ælfheah…"
-  - "Aelfheah…"
-  - "Elfego…"
-  - "Elfege…"
+  - Alphege the Martyr
+  - Alphege of Canterbury
+  - Alfege…
+  - Alphage…
+  - Alphege…
+  - Alphegus…
+  - Elphege…
+  - Godwine…
+  - Ælfheah…
+  - Aelfheah…
+  - Elfego…
+  - Elfege…
 birthYear: 954
 deathYear: 1012
-born: "954 in Weston, Somerset, England"
-died: "beaten with stones and ox bones, then struck on the head with the blunt edge of an axe on 19 April 1012 in Greenwich, Kent (part of modern London), England"
-birthPlace: "Somerset, England"
-deathPlace: "then struck on the head with the blunt edgean axe on 19 April 1012 in Greenwich, Kent (part of modern London), England"
-region: "England"
+born: 954 in Weston, Somerset, England
+died: >-
+  beaten with stones and ox bones, then struck on the head with the blunt edge of an axe on 19 April 1012 in Greenwich,
+  Kent (part of modern London), England
+birthPlace: Somerset, England
+deathPlace: then struck on the head with the blunt edgean axe on 19 April 1012 in Greenwich, Kent (part of modern London), England
+region: England
 feastDay:
   month: 4
   day: 19
@@ -31,12 +36,16 @@ vocation:
   - Bishop
   - Priest
 patronage:
-  - "kidnap victims"
-  - "in England\n\nCanterbury, city of"
-  - "Greenwich"
-  - "Solihull"
-  - "Winchester"
+  - kidnap victims
+  - |-
+    in England
+
+    Canterbury, city of
+  - Greenwich
+  - Solihull
+  - Winchester
 martyr: false
+prayers: []
 ---
 
 Born to the nobility but gave it up to become a young monk at Deerhurst Abbey in Gloucestershire, England. Monk, anchorite, and then abbot at Bath Abbey; known for his personal piety and austerity. Bishop of Winchester, England in 984. Built several churches, installed a cathedral organ so large that it could be heard a mile away, and his charity was so great that there were reported to be no beggars in his diocese. May have helped negotiate a peace treaty in 994 which ended some Viking raids.

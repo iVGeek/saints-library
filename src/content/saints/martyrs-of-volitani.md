@@ -1,19 +1,20 @@
 ---
 image: /placeholder-saint.svg
-name: "Martyrs of Volitani"
+name: Martyrs of Volitani
 honorific: Saint
-summary: "A group of martyrs who were praised by Saint Augustine of Hippo"
+summary: A group of martyrs who were praised by Saint Augustine of Hippo
 searchAliases:
-  - "Martyrs of Bolitani"
-died: "Volitani, proconsular Africa (in modern Tunisia)"
-deathPlace: "proconsular Africa (modern Tunisia)"
-region: "Italy"
+  - Martyrs of Bolitani
+died: Volitani, proconsular Africa (in modern Tunisia)
+deathPlace: proconsular Africa (modern Tunisia)
+region: Italy
 feastDay:
   month: 10
   day: 17
 canonizationStatus: Saint
 vocation: []
 martyr: true
+prayers: []
 ---
 
 A group of martyrs who were praised by Saint Augustine of Hippo

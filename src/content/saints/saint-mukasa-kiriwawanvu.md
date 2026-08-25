@@ -1,21 +1,25 @@
 ---
-name: "Saint Mukasa Kiriwawanvu"
+name: Saint Mukasa Kiriwawanvu
 honorific: Venerable
-summary: "Ndiga clan. Served at the Ugandan royal table. Convert. One of the Martyrs of Uganda who died in the Mwangan persecutions."
-image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Uganda1.jpg"
+summary: >-
+  Ndiga clan. Served at the Ugandan royal table. Convert. One of the Martyrs of Uganda who died in the Mwangan
+  persecutions.
+image: http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Uganda1.jpg
 deathYear: 1886
-born: "at Buganda, Uganda"
-died: "burned alive on 3 June 1886 at Namugongo, Uganda"
-birthPlace: "Uganda"
-deathPlace: "Uganda"
-region: "Africa"
+born: at Buganda, Uganda
+died: burned alive on 3 June 1886 at Namugongo, Uganda
+birthPlace: Uganda
+deathPlace: Uganda
+region: Africa
 feastDay:
   month: 6
   day: 3
-centuries: [19]
+centuries:
+  - 19
 canonizationStatus: Venerable
 vocation: []
 martyr: true
+prayers: []
 ---
 
 Ndiga clan. Served at the Ugandan royal table. Convert. One of the Martyrs of Uganda who died in the Mwangan persecutions.

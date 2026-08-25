@@ -20,6 +20,7 @@ vocation:
 patronage:
   - Watchet, England
 martyr: true
+prayers: []
 ---
 
 Hermit in Somerset, England in an area that is now named Saint Decumans in his honour. Martyr.

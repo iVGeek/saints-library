@@ -20,6 +20,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/d/d3/Eglise_abbatiale_Jouarre_dept77.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Agilberta of Jouarre
 imageCreditUrl: https://en.wikipedia.org/wiki/Agilberta
+prayers: []
 ---
 
 Related to Saint Ebrigisil, Saint Ado of Jouarre, and Saint Agilbert of Paris. Nun. Abbess of Jouarre Abbey c.660.

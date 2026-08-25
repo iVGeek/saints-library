@@ -1,31 +1,34 @@
 ---
-name: "Saint Theodule of Grammont"
+name: Saint Theodule of Grammont
 honorific: Saint
-summary: "A missionary priest from east of the region, Theodulus became the first known bishop of Sion (Sitten), Switzerland, consecrated in the 340's, and serving over 40 years. He attended the Council of Aquileia in 381, and was signatory of the documents of the Synod of Milan in 390 tha"
-image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Theodulus-of-Grammont.jpg"
+summary: >-
+  A missionary priest from east of the region, Theodulus became the first known bishop of Sion (Sitten), Switzerland,
+  consecrated in the 340's, and serving over 40 years. He attended the Council of Aquileia in 381, and was signatory of
+  the documents of the Synod of Milan in 390 tha
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Theodulus-of-Grammont.jpg
 searchAliases:
-  - "Theodulus of Martigny"
-  - "Theodulus of Martinach"
-  - "Theodulus of Octodurum"
-  - "Theodulus of Octodure"
-  - "Theodulus of Octodurus"
-  - "Theodulus of Sitte"
-  - "Theodulus of Sitten"
-  - "Theodulus of Sion"
-  - "Theodulus of Valais"
-  - "Theodolus Sedunensis"
-  - "Jodel…"
-  - "Joder…"
-  - "Jodern…"
-  - "Teodoro…"
-  - "Theodor…"
-  - "Théodore…"
-  - "Theodul…"
-  - "Théodule…"
-  - "Bishop of the Helvetians"
+  - Theodulus of Martigny
+  - Theodulus of Martinach
+  - Theodulus of Octodurum
+  - Theodulus of Octodure
+  - Theodulus of Octodurus
+  - Theodulus of Sitte
+  - Theodulus of Sitten
+  - Theodulus of Sion
+  - Theodulus of Valais
+  - Theodolus Sedunensis
+  - Jodel…
+  - Joder…
+  - Jodern…
+  - Teodoro…
+  - Theodor…
+  - Théodore…
+  - Theodul…
+  - Théodule…
+  - Bishop of the Helvetians
 deathYear: 391
-died: "391"
-region: "Italy"
+died: '391'
+region: Italy
 feastDay:
   month: 8
   day: 16
@@ -35,17 +38,21 @@ vocation:
   - Priest
   - Missionary
 patronage:
-  - "against livestock diseases"
-  - "against storms"
-  - "against temptations of the devil"
-  - "–"
-  - "bells"
-  - "cattle (in Vorarlberg region of Austria)"
-  - "weather"
-  - "wine makers (especially in Valais)"
-  - "–"
-  - "in Germany\n\nEhingen"
+  - against livestock diseases
+  - against storms
+  - against temptations of the devil
+  - –
+  - bells
+  - cattle (in Vorarlberg region of Austria)
+  - weather
+  - wine makers (especially in Valais)
+  - –
+  - |-
+    in Germany
+
+    Ehingen
 martyr: false
+prayers: []
 ---
 
 A missionary priest from east of the region, Theodulus became the first known bishop of Sion (Sitten), Switzerland, consecrated in the 340's, and serving over 40 years. He attended the Council of Aquileia in 381, and was signatory of the documents of the Synod of Milan in 390 that condemned the heresy of the monk Jovinian. He opposed the spread of the Arian heresy.

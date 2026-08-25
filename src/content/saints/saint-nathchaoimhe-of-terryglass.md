@@ -1,9 +1,9 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Nathchaoimhe of Terryglass"
+name: Saint Nathchaoimhe of Terryglass
 honorific: Saint
-summary: "Monk. Abbot at Tir-da-ghlas (Terryglass), Ireland."
-region: "Ireland"
+summary: Monk. Abbot at Tir-da-ghlas (Terryglass), Ireland.
+region: Ireland
 feastDay:
   month: 5
   day: 1
@@ -11,6 +11,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: false
+prayers: []
 ---
 
 Monk. Abbot at Tir-da-ghlas (Terryglass), Ireland.

@@ -26,6 +26,7 @@ vocation:
   - Confessor
 religiousOrder: Benedictine
 martyr: false
+prayers: []
 ---
 
 Born to the nobility, Eucherius was a very pious in youth, and highly educated; legend says that his pregnant mother had a dream of an angel who told her that her unborn son would be a holy bishop, and blessed them both. He took the cowl in Jumièges, Normandy, France in 714. When his uncle Suaveric, bishop of Orleans, France, died, the clergy and faithful asked for Eucherius as his replacement. Eucherius fought the appointment, but finally agreed c.721.

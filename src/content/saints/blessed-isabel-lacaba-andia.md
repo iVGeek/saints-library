@@ -1,17 +1,17 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Isabel Lacaba Andia"
+name: Blessed Isabel Lacaba Andia
 honorific: Blessed
-summary: "Conceptionist nun. Martyred in the Spanish Civil War."
+summary: Conceptionist nun. Martyred in the Spanish Civil War.
 searchAliases:
-  - "María del Carmen"
+  - María del Carmen
 birthYear: 1882
 deathYear: 1936
-born: "3 November 1882 in Borja, Zaragoza, Spain"
-died: "8 November 1936 in Madrid, Spain"
-birthPlace: "Zaragoza, Spain"
-deathPlace: "Spain"
-region: "Spain"
+born: 3 November 1882 in Borja, Zaragoza, Spain
+died: 8 November 1936 in Madrid, Spain
+birthPlace: Zaragoza, Spain
+deathPlace: Spain
+region: Spain
 feastDay:
   month: 11
   day: 8
@@ -20,6 +20,7 @@ vocation:
   - Religious
   - Cardinal
 martyr: true
+prayers: []
 ---
 
 Conceptionist nun. Martyred in the Spanish Civil War.

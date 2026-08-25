@@ -1,13 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Cele-Christ"
+name: Saint Cele-Christ
 honorific: Saint
-summary: "Hermit. Reluctant bishop of Leinster, Ireland."
+summary: Hermit. Reluctant bishop of Leinster, Ireland.
 searchAliases:
-  - "Christicola"
+  - Christicola
 deathYear: 728
-died: "c.728 of natural causes"
-region: "Ireland"
+died: c.728 of natural causes
+region: Ireland
 feastDay:
   month: 3
   day: 3
@@ -17,6 +17,7 @@ vocation:
   - Monk
   - Hermit
 martyr: false
+prayers: []
 ---
 
 Hermit. Reluctant bishop of Leinster, Ireland.

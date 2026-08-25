@@ -20,6 +20,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/3/3b/FortyMartyrsofSebaste.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Eutychius the Martyr
 imageCreditUrl: https://en.wikipedia.org/wiki/Forty%20Martyrs%20of%20Sebaste
+prayers: []
 ---
 
 Martyr. No other information has survived.

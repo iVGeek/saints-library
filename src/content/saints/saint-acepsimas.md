@@ -19,6 +19,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/2/20/Hosios_Loukas_%28nave%2C_west_arch%29_-_Mercurios.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Acepsimas
 imageCreditUrl: https://en.wikipedia.org/wiki/Saint%20Mercurius
+prayers: []
 ---
 
 Fifth century hermit. Lived 60 years in a cave near Cyrohas, Syria. Ordained when a very old man, shortly before his death.

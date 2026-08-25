@@ -1,12 +1,12 @@
 ---
-name: "Saint Caspar"
+name: Saint Caspar
 honorific: Saint
-summary: "One of the Three Magi."
-image: "http://catholicsaints.info/wp-content/uploads/img-Feast-of-the-Epiphany.jpg"
+summary: One of the Three Magi.
+image: http://catholicsaints.info/wp-content/uploads/img-Feast-of-the-Epiphany.jpg
 searchAliases:
-  - "Gaspar"
-  - "Kasper"
-region: "Germany"
+  - Gaspar
+  - Kasper
+region: Germany
 feastDay:
   month: 1
   day: 6
@@ -15,19 +15,20 @@ vocation:
   - Priest
   - Monk
 patronage:
-  - "against epilepsy"
-  - "against thunder"
-  - "epileptics"
-  - "motorists"
-  - "pilgrims"
-  - "playing card manufacturers"
-  - "sawmen"
-  - "sawyers"
-  - "travellers"
-  - "travelling merchants"
-  - "Cologne, Germany"
-  - "Saxony"
+  - against epilepsy
+  - against thunder
+  - epileptics
+  - motorists
+  - pilgrims
+  - playing card manufacturers
+  - sawmen
+  - sawyers
+  - travellers
+  - travelling merchants
+  - Cologne, Germany
+  - Saxony
 martyr: false
+prayers: []
 ---
 
 One of the Three Magi.

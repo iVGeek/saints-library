@@ -1,38 +1,43 @@
 ---
-name: "Saint Alphonsa of India"
+name: Saint Alphonsa of India
 honorific: Venerable
-summary: "Born in a rural area to Joseph and Mary Muttathupadathu. Baptized on 27 August 1910. Her mother died when Anna was very young, and she was raised by her maternal aunt, and educated by her great-uncle Father Joseph Muttathupadathu. At age 3 she contracted an infected eczema from w"
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Alphonsa-of-India.jpg"
+summary: >-
+  Born in a rural area to Joseph and Mary Muttathupadathu. Baptized on 27 August 1910. Her mother died when Anna was
+  very young, and she was raised by her maternal aunt, and educated by her great-uncle Father Joseph Muttathupadathu. At
+  age 3 she contracted an infected eczema from w
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Alphonsa-of-India.jpg
 searchAliases:
-  - "Alphonsa Muttathupadathu"
-  - "Alphonsa of Bharananganam"
-  - "Alphonsa of the Immaculate Conception"
-  - "Anna Muttathupadathu"
-  - "Annakutty"
+  - Alphonsa Muttathupadathu
+  - Alphonsa of Bharananganam
+  - Alphonsa of the Immaculate Conception
+  - Anna Muttathupadathu
+  - Annakutty
 birthYear: 1910
 deathYear: 1946
-born: "19 August 1910 at Kudamalloor, Kerala, India"
-died: "28 July 1946 at Bharananganam, India, of natural causes"
-birthPlace: "Kerala, India"
-deathPlace: "India,natural causes"
-region: "England"
+born: 19 August 1910 at Kudamalloor, Kerala, India
+died: 28 July 1946 at Bharananganam, India, of natural causes
+birthPlace: Kerala, India
+deathPlace: India,natural causes
+region: England
 feastDay:
   month: 7
   day: 28
-centuries: [20]
+centuries:
+  - 20
 canonizationStatus: Venerable
 vocation:
   - Priest
   - Cardinal
 patronage:
-  - "against bodily ills"
-  - "against illness"
-  - "against sickness"
-  - "against the death of parents"
-  - "sick people"
-  - "–"
-  - "Bhadravathi, India, diocese of"
+  - against bodily ills
+  - against illness
+  - against sickness
+  - against the death of parents
+  - sick people
+  - –
+  - Bhadravathi, India, diocese of
 martyr: false
+prayers: []
 ---
 
 Born in a rural area to Joseph and Mary Muttathupadathu. Baptized on 27 August 1910. Her mother died when Anna was very young, and she was raised by her maternal aunt, and educated by her great-uncle Father Joseph Muttathupadathu. At age 3 she contracted an infected eczema from which she suffered for over a year. Made her first Communion on 27 November 1917. Badly burned on her feet when she accidentally fell into a pit of burning chaff, leaving her permanently partially disabled. Joined the Poor Clare convent at Bharananganam on 2 August 1928, taking the name Alphonsa, and making her vows on 12 August 1936.

@@ -1,22 +1,25 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed James Oldo"
+name: Blessed James Oldo
 honorific: Blessed
-summary: "The son of Marchese and Fiordonina Oldo, his father died when the boy was young, leaving him a legacy that allowed to grow up a rich and self-indulgent youth. Married to Catharine Bocconi, a woman of similar disposition; father of three children. The death of a friend to disease"
+summary: >-
+  The son of Marchese and Fiordonina Oldo, his father died when the boy was young, leaving him a legacy that allowed to
+  grow up a rich and self-indulgent youth. Married to Catharine Bocconi, a woman of similar disposition; father of three
+  children. The death of a friend to disease
 searchAliases:
-  - "James of Oldo"
-  - "James D'Oldo"
-  - "James of Lodi"
-  - "James Oldi"
-  - "Jakob…."
-  - "Jacopo…."
-  - "Giacomo…."
+  - James of Oldo
+  - James D'Oldo
+  - James of Lodi
+  - James Oldi
+  - Jakob….
+  - Jacopo….
+  - Giacomo….
 birthYear: 1364
 deathYear: 1404
-born: "1364 at Lodi, Italy"
-died: "18 April 1404 of an unknown illness caught from one of his patients"
-birthPlace: "Italy"
-region: "Italy"
+born: 1364 at Lodi, Italy
+died: 18 April 1404 of an unknown illness caught from one of his patients
+birthPlace: Italy
+region: Italy
 feastDay:
   month: 4
   day: 18
@@ -24,8 +27,9 @@ canonizationStatus: Blessed
 vocation:
   - Bishop
   - Priest
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 martyr: false
+prayers: []
 ---
 
 The son of Marchese and Fiordonina Oldo, his father died when the boy was young, leaving him a legacy that allowed to grow up a rich and self-indulgent youth. Married to Catharine Bocconi, a woman of similar disposition; father of three children. The death of a friend to disease brought his own mortality to James' attention and matured him slightly. Then one day a travelling reproduction of the Holy Sepulchre came to his home town of Lodi, Italy. As a joke, James lay down on it to compare his height to Christ's. While lying there, he had an almost instantaneous conversion experience.

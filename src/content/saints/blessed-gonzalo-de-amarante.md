@@ -1,22 +1,25 @@
 ---
-name: "Blessed Gonzalo de Amarante"
+name: Blessed Gonzalo de Amarante
 honorific: Blessed
-summary: "Born to a wealthy, high-ranking family. Upon his ordination, he transferred his great wealth to his nephews, and spent 14 years in pilgrimage through the Holy Lands; his family did not recognize him when he returned, and his nephew set the dogs on him. Dominican friar. Received p"
-image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Gonzalo-de-Amarante.jpg"
+summary: >-
+  Born to a wealthy, high-ranking family. Upon his ordination, he transferred his great wealth to his nephews, and spent
+  14 years in pilgrimage through the Holy Lands; his family did not recognize him when he returned, and his nephew set
+  the dogs on him. Dominican friar. Received p
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Gonzalo-de-Amarante.jpg
 searchAliases:
-  - "Gonçalo"
-  - "Gonzague"
-  - "Gonzalès"
-  - "Gonzalve"
-  - "Gonzalvus"
-  - "Gundisalvus"
+  - Gonçalo
+  - Gonzague
+  - Gonzalès
+  - Gonzalve
+  - Gonzalvus
+  - Gundisalvus
 birthYear: 1187
 deathYear: 1259
-born: "1187 at Arriconha, Tagilde, Vizela, diocese of Braga, Portugal"
-died: "10 January 1259 at Amarante, Portugal of natural causes"
-birthPlace: "Tagilde, Vizela, dioceseBraga, Portugal"
-deathPlace: "Portugalnatural causes"
-region: "Brazil"
+born: 1187 at Arriconha, Tagilde, Vizela, diocese of Braga, Portugal
+died: 10 January 1259 at Amarante, Portugal of natural causes
+birthPlace: Tagilde, Vizela, dioceseBraga, Portugal
+deathPlace: Portugalnatural causes
+region: Brazil
 feastDay:
   month: 1
   day: 10
@@ -24,21 +27,25 @@ canonizationStatus: Blessed
 vocation:
   - Priest
   - Confessor
-religiousOrder: "Dominican"
+religiousOrder: Dominican
 patronage:
-  - "in Brazil\n\nAcaiaca"
-  - "Belo Vale"
-  - "Contagem"
-  - "Francisco Sá"
-  - "Ibiturauna"
-  - "São Gonçalo do Abaeté"
-  - "São Gonçalo do Amarante"
-  - "São Gonçalo do Pará"
-  - "São Gonçalo do Rio Abaixo"
-  - "São Gonçalo do Rio Preto"
-  - "São Gonçalo do Sapucaí"
-  - "Virgolâdia"
+  - |-
+    in Brazil
+
+    Acaiaca
+  - Belo Vale
+  - Contagem
+  - Francisco Sá
+  - Ibiturauna
+  - São Gonçalo do Abaeté
+  - São Gonçalo do Amarante
+  - São Gonçalo do Pará
+  - São Gonçalo do Rio Abaixo
+  - São Gonçalo do Rio Preto
+  - São Gonçalo do Sapucaí
+  - Virgolâdia
 martyr: false
+prayers: []
 ---
 
 Born to a wealthy, high-ranking family. Upon his ordination, he transferred his great wealth to his nephews, and spent 14 years in pilgrimage through the Holy Lands; his family did not recognize him when he returned, and his nephew set the dogs on him. Dominican friar. Received permission from his superiors to live as a hermit near Amaranthe, Portugal. Built a bridge over the Tamega River, mainly with his own hands.

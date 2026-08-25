@@ -1,20 +1,23 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Madron of Cornwall"
+name: Saint Madron of Cornwall
 honorific: Saint
-summary: "Monk and hermit. Cures worked at Saint Madron's Church, Cornwall, England. Honoured in Brittany. Like many holy people of the time, there is a well that is considered “his”, and is noted for its healing powers. Tradition says that you ask for healing from some ill, then leave a p"
+summary: >-
+  Monk and hermit. Cures worked at Saint Madron's Church, Cornwall, England. Honoured in Brittany. Like many holy people
+  of the time, there is a well that is considered “his”, and is noted for its healing powers. Tradition says that you
+  ask for healing from some ill, then leave a p
 searchAliases:
-  - "Maden"
-  - "Madern"
-  - "Maderne"
-  - "Madon"
-  - "Medron"
+  - Maden
+  - Madern
+  - Maderne
+  - Madon
+  - Medron
 deathYear: 545
-born: "Cornwall, England"
-died: "c.545 near Land's End, Cornwall, England"
-birthPlace: "England"
-deathPlace: "Cornwall, England"
-region: "England"
+born: Cornwall, England
+died: c.545 near Land's End, Cornwall, England
+birthPlace: England
+deathPlace: Cornwall, England
+region: England
 feastDay:
   month: 5
   day: 17
@@ -25,8 +28,9 @@ vocation:
   - Hermit
   - Confessor
 patronage:
-  - "against pain"
+  - against pain
 martyr: false
+prayers: []
 ---
 
 Monk and hermit. Cures worked at Saint Madron's Church, Cornwall, England. Honoured in Brittany. Like many holy people of the time, there is a well that is considered “his”, and is noted for its healing powers. Tradition says that you ask for healing from some ill, then leave a piece of cloth from your clothing at the well; as the cloth deteriorates, the illness dissipates.

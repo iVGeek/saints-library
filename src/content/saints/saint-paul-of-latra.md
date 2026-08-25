@@ -1,13 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Paul of Latra"
+name: Saint Paul of Latra
 honorific: Saint
-summary: "10th century hermit in Greece. Spiritual teacher and director for many Eastern monks."
+summary: 10th century hermit in Greece. Spiritual teacher and director for many Eastern monks.
 searchAliases:
-  - "Paulus of Latrus"
+  - Paulus of Latrus
 deathYear: 956
-died: "956 of natural causes"
-region: "Greece"
+died: 956 of natural causes
+region: Greece
 feastDay:
   month: 12
   day: 20
@@ -16,6 +16,7 @@ vocation:
   - Monk
   - Hermit
 martyr: false
+prayers: []
 ---
 
 10th century hermit in Greece. Spiritual teacher and director for many Eastern monks.

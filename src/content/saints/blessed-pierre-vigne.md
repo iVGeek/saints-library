@@ -1,17 +1,20 @@
 ---
-name: "Blessed Pierre Vigne"
+name: Blessed Pierre Vigne
 honorific: Blessed
-summary: "One of five children born to Peter Vigne and Frances Gautier; his father was a textile merchant. Two of his sisters died in infancy. Peter was better educated than most of his peers, and was active in his parish church as a boy. Late in his teens he received a sudden, active awar"
-image: "https://upload.wikimedia.org/wikipedia/commons/2/25/Pierre_vigne.jpg"
+summary: >-
+  One of five children born to Peter Vigne and Frances Gautier; his father was a textile merchant. Two of his sisters
+  died in infancy. Peter was better educated than most of his peers, and was active in his parish church as a boy. Late
+  in his teens he received a sudden, active awar
+image: https://upload.wikimedia.org/wikipedia/commons/2/25/Pierre_vigne.jpg
 searchAliases:
-  - "Peter Vigne"
+  - Peter Vigne
 birthYear: 1670
 deathYear: 1740
-born: "20 August 1670 in Privas, France"
-died: "8 July 1740 at Rencurel, France of natural causes after collapsing from exhaustion while preaching a mission"
-birthPlace: "France"
-deathPlace: "Francenatural causes after collapsing from exhaustion while preaching a mission"
-region: "France"
+born: 20 August 1670 in Privas, France
+died: 8 July 1740 at Rencurel, France of natural causes after collapsing from exhaustion while preaching a mission
+birthPlace: France
+deathPlace: Francenatural causes after collapsing from exhaustion while preaching a mission
+region: France
 feastDay:
   month: 7
   day: 8
@@ -20,8 +23,9 @@ vocation:
   - Priest
   - Religious
   - Missionary
-religiousOrder: "Sulpician"
+religiousOrder: Sulpician
 martyr: false
+prayers: []
 ---
 
 One of five children born to Peter Vigne and Frances Gautier; his father was a textile merchant. Two of his sisters died in infancy. Peter was better educated than most of his peers, and was active in his parish church as a boy. Late in his teens he received a sudden, active awareness of the reality of Jesus Christ in the Eucharist. The Church became his entire life, and he entered the Sulpician Seminary in Viviers, France in 1690. Ordained on 18 September 1694 in Bourg Saint Andeaol, diocese of Viviers.

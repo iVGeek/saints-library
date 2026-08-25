@@ -1,12 +1,12 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Folkard of Saxony"
+name: Saint Folkard of Saxony
 honorific: Saint
-summary: "Missionary who worked with Saint Willehad of Bremen. Martyr."
+summary: Missionary who worked with Saint Willehad of Bremen. Martyr.
 deathYear: 782
-died: "30 November 782 at River Weser, Lawer Saxony, Germany"
-deathPlace: "Lawer Saxony, Germany"
-region: "Germany"
+died: 30 November 782 at River Weser, Lawer Saxony, Germany
+deathPlace: Lawer Saxony, Germany
+region: Germany
 feastDay:
   month: 11
   day: 30
@@ -15,6 +15,7 @@ vocation:
   - Monk
   - Missionary
 martyr: true
+prayers: []
 ---
 
 Missionary who worked with Saint Willehad of Bremen. Martyr.

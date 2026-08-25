@@ -1,30 +1,36 @@
 ---
-name: "Saint Raphael Kalinowski"
+name: Saint Raphael Kalinowski
 honorific: Venerable
-summary: "Son of Andrew Kalinowski, prominent mathmatics professor at the College of Nobility, and Josepha Poionska Kalinowski. Studied at his father's school. Though he felt a call to the priesthood, Joseph decided on college first. He studied zoology, chemistry, agriculture, and apicultu"
-image: "https://upload.wikimedia.org/wikipedia/commons/4/45/Kalinowski1897.jpg"
+summary: >-
+  Son of Andrew Kalinowski, prominent mathmatics professor at the College of Nobility, and Josepha Poionska Kalinowski.
+  Studied at his father's school. Though he felt a call to the priesthood, Joseph decided on college first. He studied
+  zoology, chemistry, agriculture, and apicultu
+image: https://upload.wikimedia.org/wikipedia/commons/4/45/Kalinowski1897.jpg
 searchAliases:
-  - "Joseph Kalinowski"
-  - "Rafał Kalinowski"
-  - "Raffael di San Giuseppe"
-  - "Raphael Joseph Kalinowski"
-  - "Raphael of Saint Joseph"
+  - Joseph Kalinowski
+  - Rafał Kalinowski
+  - Raffael di San Giuseppe
+  - Raphael Joseph Kalinowski
+  - Raphael of Saint Joseph
 birthYear: 1835
 deathYear: 1907
-born: "1 September 1835 at Vilna, Russian Poland (modern Vilnius, Lithuania) as Joseph Kalinowski"
-died: "15 November 1907 at Wadowice, Malopolskie, Poland of natural causes"
-birthPlace: "Russian Poland (modern Vilnius, Lithuania) as Joseph Kalinowski"
-deathPlace: "Malopolskie, Polandnatural causes"
-region: "Poland"
+born: 1 September 1835 at Vilna, Russian Poland (modern Vilnius, Lithuania) as Joseph Kalinowski
+died: 15 November 1907 at Wadowice, Malopolskie, Poland of natural causes
+birthPlace: Russian Poland (modern Vilnius, Lithuania) as Joseph Kalinowski
+deathPlace: Malopolskie, Polandnatural causes
+region: Poland
 feastDay:
   month: 11
   day: 15
-centuries: [19, 20]
+centuries:
+  - 19
+  - 20
 canonizationStatus: Venerable
 vocation:
   - Priest
-religiousOrder: "Carmelite"
+religiousOrder: Carmelite
 martyr: true
+prayers: []
 ---
 
 Son of Andrew Kalinowski, prominent mathmatics professor at the College of Nobility, and Josepha Poionska Kalinowski. Studied at his father's school. Though he felt a call to the priesthood, Joseph decided on college first. He studied zoology, chemistry, agriculture, and apiculture at the Institute of Agronomy in Hory Horki, Russia, and at the Academy of Military Engineering at Saint Petersburg, Russia.

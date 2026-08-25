@@ -14,6 +14,7 @@ vocation:
   - Religious
   - Hermit
 martyr: false
+prayers: []
 ---
 
 Educated with Saint Ursula and Saint Regulus of Patras. Nun. Recluse at Kirk-Kinner, Galloway, Scotland.

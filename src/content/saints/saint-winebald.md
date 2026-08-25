@@ -1,14 +1,14 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Winebald"
+name: Saint Winebald
 honorific: Saint
-summary: "Monk and then abbot at Saint-Loup-de-Troyes, France."
+summary: Monk and then abbot at Saint-Loup-de-Troyes, France.
 searchAliases:
-  - "Vinebaud"
-  - "Vinebaldo"
+  - Vinebaud
+  - Vinebaldo
 deathYear: 650
-died: "c.650 of natural causes"
-region: "France"
+died: c.650 of natural causes
+region: France
 feastDay:
   month: 4
   day: 6
@@ -16,6 +16,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: false
+prayers: []
 ---
 
 Monk and then abbot at Saint-Loup-de-Troyes, France.

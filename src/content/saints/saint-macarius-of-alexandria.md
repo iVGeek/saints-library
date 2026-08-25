@@ -15,6 +15,7 @@ image: https://commons.wikimedia.org/wiki/Special:FilePath/Blaj_Iconostasis_Maka
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 During the persecutions of Decius he was dragged before a judge who tried to reason him into rejecting Christianty; it didn't work. Martyr.

@@ -1,14 +1,17 @@
 ---
-name: "Saint William of Vercelli"
+name: Saint William of Vercelli
 honorific: Saint
-summary: "Born to the Italian nobility. Orphaned as an infant, and raised by relatives. Pilgrim to Santiago de Compostela, Spain at age 14. There he decided on a life devoted to God. Hermit for two years at Monte Solicoli where he healed a blind man. Friend of Saint John of Pulsano. Starte"
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-William-of-Vercelli.jpg"
+summary: >-
+  Born to the Italian nobility. Orphaned as an infant, and raised by relatives. Pilgrim to Santiago de Compostela, Spain
+  at age 14. There he decided on a life devoted to God. Hermit for two years at Monte Solicoli where he healed a blind
+  man. Friend of Saint John of Pulsano. Starte
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-William-of-Vercelli.jpg
 searchAliases:
-  - "William of Monte Vergine"
+  - William of Monte Vergine
 deathYear: 1142
-died: "25 June 1142 at Guglietto, Italy of natural causes"
-deathPlace: "Italynatural causes"
-region: "Chile"
+died: 25 June 1142 at Guglietto, Italy of natural causes
+deathPlace: Italynatural causes
+region: Chile
 feastDay:
   month: 6
   day: 25
@@ -18,11 +21,15 @@ vocation:
   - Priest
   - Monk
   - Hermit
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 patronage:
-  - "in Italy\n\nIrpinia"
-  - "Vercelli"
+  - |-
+    in Italy
+
+    Irpinia
+  - Vercelli
 martyr: false
+prayers: []
 ---
 
 Born to the Italian nobility. Orphaned as an infant, and raised by relatives. Pilgrim to Santiago de Compostela, Spain at age 14. There he decided on a life devoted to God. Hermit for two years at Monte Solicoli where he healed a blind man. Friend of Saint John of Pulsano. Started a pilgrimage to the Holy Lands, but discerned that he would be of more use to God in Italy.

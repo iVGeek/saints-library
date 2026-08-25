@@ -30,6 +30,7 @@ patronage:
   - Meaux, France
   - Sens, France
 martyr: true
+prayers: []
 ---
 
 Born to the Spanish nobility. At age 16 she and other Christians fled Spain for Gaul (modern France) to escape the persecutions of Emperor Aurelian. They were located, however, and imprisoned. Legend says that while Columba was in prison, one of the jailers tried to rape her; a bear that was being used at a nearby amphitheatre attacked the guard and rescued her. However, she and the rest of the group were later martyred in the on-going persecutions of Aurelian.

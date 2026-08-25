@@ -1,24 +1,27 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Magdalena Han Yong-I"
+name: Saint Magdalena Han Yong-I
 honorific: Venerable
-summary: "Married lay woman in the apostolic vicariate of Korea. Martyr."
+summary: Married lay woman in the apostolic vicariate of Korea. Martyr.
 searchAliases:
-  - "Magdallena Han Yeong-I"
+  - Magdallena Han Yeong-I
 birthYear: 1783
 deathYear: 1839
-born: "1783 in Seoul, South Korea"
-died: "beheaded on 29 December 1839 at the Small West Gate, Seoul, South Korea"
-birthPlace: "South Korea"
-deathPlace: "Seoul, South Korea"
-region: "Korea"
+born: 1783 in Seoul, South Korea
+died: beheaded on 29 December 1839 at the Small West Gate, Seoul, South Korea
+birthPlace: South Korea
+deathPlace: Seoul, South Korea
+region: Korea
 feastDay:
   month: 12
   day: 29
-centuries: [18, 19]
+centuries:
+  - 18
+  - 19
 canonizationStatus: Venerable
 vocation: []
 martyr: true
+prayers: []
 ---
 
 Married lay woman in the apostolic vicariate of Korea. Martyr.

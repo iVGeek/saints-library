@@ -1,27 +1,30 @@
 ---
-name: "Saint Petca Parasceva"
+name: Saint Petca Parasceva
 honorific: Saint
-summary: "Born to wealthy, noble, pious landowners. During services at age ten, at the Church of the Holy Theotokos, she heard the words, Whosoever will come after Me, let him deny himself and take up his cross, and follow me. They had a profound effect on the girl, and became the subject"
-image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Parasceva-the-Younger.jpg"
+summary: >-
+  Born to wealthy, noble, pious landowners. During services at age ten, at the Church of the Holy Theotokos, she heard
+  the words, Whosoever will come after Me, let him deny himself and take up his cross, and follow me. They had a
+  profound effect on the girl, and became the subject
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Parasceva-the-Younger.jpg
 searchAliases:
-  - "Parasceva"
-  - "Parasceve la Giovane"
-  - "Parasceve"
-  - "Parascheva of Belgrade"
-  - "Parascheva of Tirnovo"
-  - "Parascheva the New"
-  - "Parascheva the Serbian"
-  - "Paraskeva Pyatnitsa"
-  - "Paraskeva the Younger"
-  - "Paraskevi of Serbia"
-  - "Petca Parasceva the New of Bulgaria"
-  - "Petka of Bulgaria"
-  - "Petka"
-  - "Petnica"
-born: "in the village of Epibates, Thrace (modern Selimpaşa, Turkey), north shore of the Sea of Marmara"
-died: "at Katikratia of natural causes"
-birthPlace: "Thrace (modern Selimpaşa, Turkey), north shorethe Sea of Marmara"
-region: "Turkey"
+  - Parasceva
+  - Parasceve la Giovane
+  - Parasceve
+  - Parascheva of Belgrade
+  - Parascheva of Tirnovo
+  - Parascheva the New
+  - Parascheva the Serbian
+  - Paraskeva Pyatnitsa
+  - Paraskeva the Younger
+  - Paraskevi of Serbia
+  - Petca Parasceva the New of Bulgaria
+  - Petka of Bulgaria
+  - Petka
+  - Petnica
+born: in the village of Epibates, Thrace (modern Selimpaşa, Turkey), north shore of the Sea of Marmara
+died: at Katikratia of natural causes
+birthPlace: Thrace (modern Selimpaşa, Turkey), north shorethe Sea of Marmara
+region: Turkey
 feastDay:
   month: 10
   day: 14
@@ -30,13 +33,14 @@ vocation:
   - Virgin
   - Monk
 patronage:
-  - "embroiderers"
-  - "needle workers"
-  - "spinners"
-  - "weavers"
-  - "–"
-  - "Bulgaria"
+  - embroiderers
+  - needle workers
+  - spinners
+  - weavers
+  - –
+  - Bulgaria
 martyr: false
+prayers: []
 ---
 
 Born to wealthy, noble, pious landowners. During services at age ten, at the Church of the Holy Theotokos, she heard the words, Whosoever will come after Me, let him deny himself and take up his cross, and follow me. They had a profound effect on the girl, and became the subject of her meditations.

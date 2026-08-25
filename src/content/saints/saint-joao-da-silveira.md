@@ -16,6 +16,7 @@ centuries:
 canonizationStatus: Venerable
 vocation: []
 martyr: true
+prayers: []
 ---
 
 Layman in the archdiocese of Natal, Brazil. One of the Martyrs of Brazil murdered by Calvinist fanatics.

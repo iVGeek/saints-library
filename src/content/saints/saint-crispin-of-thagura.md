@@ -1,12 +1,14 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Crispin of Thagura"
+name: Saint Crispin of Thagura
 honorific: Saint
-summary: "One of a group of twelve African Christians who were martyred together in the persecutions of Diocletian. No other details have survived."
+summary: >-
+  One of a group of twelve African Christians who were martyred together in the persecutions of Diocletian. No other
+  details have survived.
 deathYear: 302
-died: "302 in Thagura, Numidia"
-deathPlace: "Numidia"
-region: "Africa"
+died: 302 in Thagura, Numidia
+deathPlace: Numidia
+region: Africa
 feastDay:
   month: 12
   day: 5
@@ -14,6 +16,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 One of a group of twelve African Christians who were martyred together in the persecutions of Diocletian. No other details have survived.

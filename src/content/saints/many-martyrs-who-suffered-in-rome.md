@@ -27,6 +27,7 @@ imageCredit: >-
   href="https://archive.org/download/memorialsofthos00orei/memorialsofthos00orei.pdf">https://archive.org/download/memorialsofthos00orei/memorialsofthos00orei.pdf</a></dd></dl>
 imageCreditUrl: >-
   https://commons.wikimedia.org/wiki/File:Memorials%20of%20those%20who%20suffered%20for%20the%20Catholic%20faith%20in%20Ireland.%20..%20(IA%20memorialsofthos00orei).pdf
+prayers: []
 ---
 
 There were many martyrs who suffered in the persecutions of Diocletian for refusing to surrender the holy books. Though we know these atrocities occurred, we do not know the names of the saints, and we honour them as a group.

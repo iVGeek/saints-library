@@ -1,25 +1,29 @@
 ---
-name: "Blessed Florida Cevoli"
+name: Blessed Florida Cevoli
 honorific: Blessed
-summary: "Born to the late 17th century Italian nobility, the daughter of Count Curzio and Countess Laura della Seta, Lucrezia was educated by the Poor Clares of Saint Martin's College in Pisa, Italy. It led her feel a call to religious life, and joined the Capuchin Poor Clares in Città di"
-image: "https://upload.wikimedia.org/wikipedia/commons/c/c2/Beataflorida.jpg"
+summary: >-
+  Born to the late 17th century Italian nobility, the daughter of Count Curzio and Countess Laura della Seta, Lucrezia
+  was educated by the Poor Clares of Saint Martin's College in Pisa, Italy. It led her feel a call to religious life,
+  and joined the Capuchin Poor Clares in Città di
+image: https://upload.wikimedia.org/wikipedia/commons/c/c2/Beataflorida.jpg
 searchAliases:
-  - "Lucrezia Elena Cevoli"
+  - Lucrezia Elena Cevoli
 birthYear: 1685
 deathYear: 1767
-born: "11 November 1685 in Pisa, Italy"
-died: "12 June 1767 in Città di Castello, Perugia, Italy of an intense fever that dragged on for 37 days"
-birthPlace: "Italy"
-deathPlace: "Perugia, Italyan intense fever that dragged on for 37 days"
-region: "Italy"
+born: 11 November 1685 in Pisa, Italy
+died: 12 June 1767 in Città di Castello, Perugia, Italy of an intense fever that dragged on for 37 days
+birthPlace: Italy
+deathPlace: Perugia, Italyan intense fever that dragged on for 37 days
+region: Italy
 feastDay:
   month: 6
   day: 12
 canonizationStatus: Blessed
 vocation:
   - Religious
-religiousOrder: "Capuchin"
+religiousOrder: Capuchin
 martyr: false
+prayers: []
 ---
 
 Born to the late 17th century Italian nobility, the daughter of Count Curzio and Countess Laura della Seta, Lucrezia was educated by the Poor Clares of Saint Martin's College in Pisa, Italy. It led her feel a call to religious life, and joined the Capuchin Poor Clares in Città di Castello, Italy on 8 June 1703, taking the name Florida, and making her profession on 10 June 1705.

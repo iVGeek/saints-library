@@ -28,6 +28,7 @@ vocation:
   - Priest
   - Missionary
 martyr: false
+prayers: []
 ---
 
 Born to a wealthy family near Edessa, Syria. Forced into an arranged marriage at an early age. During the wedding festivities, Abraham fled. He walled himself up in a nearby building, leaving a small hole through which his family could send in food and water, and by which he could explain his desire for a religious life. His family relented, the marriage was called off, and he spent the next ten years in his cell.

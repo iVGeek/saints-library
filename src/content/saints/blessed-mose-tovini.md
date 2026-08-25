@@ -1,17 +1,20 @@
 ---
-name: "Blessed Mosè Tovini"
+name: Blessed Mosè Tovini
 honorific: Blessed
-summary: "Eldest of eight children, the son of Eugenio, an accountant, and Domenica Malaguzzi, a teacher. Nephew and god-son of Blessed Giuseppe Tovini. Attended elementary school in Breno, Italy, and was a good student. Moved in with Blessed Giuseppe in Brescia, Italy at age nine to conti"
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Mose-Tovini.jpg"
+summary: >-
+  Eldest of eight children, the son of Eugenio, an accountant, and Domenica Malaguzzi, a teacher. Nephew and god-son of
+  Blessed Giuseppe Tovini. Attended elementary school in Breno, Italy, and was a good student. Moved in with Blessed
+  Giuseppe in Brescia, Italy at age nine to conti
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Mose-Tovini.jpg
 searchAliases:
-  - "Moses Tovini"
+  - Moses Tovini
 birthYear: 1877
 deathYear: 1930
-born: "27 December 1877 in Cividate Camuno, Brescia, Italy"
-died: "28 January 1930 in Brescia, Italy of pneumonia"
-birthPlace: "Brescia, Italy"
-deathPlace: "Italypneumonia"
-region: "Italy"
+born: 27 December 1877 in Cividate Camuno, Brescia, Italy
+died: 28 January 1930 in Brescia, Italy of pneumonia
+birthPlace: Brescia, Italy
+deathPlace: Italypneumonia
+region: Italy
 feastDay:
   month: 1
   day: 28
@@ -22,6 +25,7 @@ vocation:
   - Cardinal
   - Soldier
 martyr: false
+prayers: []
 ---
 
 Eldest of eight children, the son of Eugenio, an accountant, and Domenica Malaguzzi, a teacher. Nephew and god-son of Blessed Giuseppe Tovini. Attended elementary school in Breno, Italy, and was a good student. Moved in with Blessed Giuseppe in Brescia, Italy at age nine to continue his studies. He made his First Communion on 14 November 1886. Went to school in Romano Lombardia, Italy in 1889. Mose began to feel a call to the priesthood, but his father opposed it, and he put off the training. Attended high school in Celana, Bergamo, Italy, but had trouble with city life, and was abused by his fellow students. He returned home, and this time his father agreed with Mose's call to the priesthood. The boy moved back in with his uncle Giuseppe, and studied at the seminary in Brescia.

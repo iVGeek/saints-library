@@ -1,19 +1,22 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Jonatus"
+name: Saint Jonatus
 honorific: Saint
-summary: "Benedictine monk at Elnone, Belgium. Spiritual student of Saint Amandus of Maastricht. Abbot at Saint Machiennes c.643-652. Abbot at Elnone c.652-659."
+summary: >-
+  Benedictine monk at Elnone, Belgium. Spiritual student of Saint Amandus of Maastricht. Abbot at Saint Machiennes
+  c.643-652. Abbot at Elnone c.652-659.
 deathYear: 690
-died: "c.690"
-region: "Belgium"
+died: c.690
+region: Belgium
 feastDay:
   month: 8
   day: 1
 canonizationStatus: Saint
 vocation:
   - Monk
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 martyr: false
+prayers: []
 ---
 
 Benedictine monk at Elnone, Belgium. Spiritual student of Saint Amandus of Maastricht. Abbot at Saint Machiennes c.643–652. Abbot at Elnone c.652-659.

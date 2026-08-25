@@ -1,13 +1,13 @@
 ---
-name: "Saint Gaudiosus of Brescia"
+name: Saint Gaudiosus of Brescia
 honorific: Saint
-summary: "Bishop of Brescia, Italy."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Gaudiosus-of-Brescia.jpg"
+summary: Bishop of Brescia, Italy.
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Gaudiosus-of-Brescia.jpg
 searchAliases:
-  - "Gaudioso"
+  - Gaudioso
 deathYear: 445
-died: "c.445"
-region: "Italy"
+died: c.445
+region: Italy
 feastDay:
   month: 3
   day: 7
@@ -16,6 +16,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Bishop of Brescia, Italy.

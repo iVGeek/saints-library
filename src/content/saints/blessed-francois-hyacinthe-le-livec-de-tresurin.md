@@ -1,23 +1,24 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed François-Hyacinthe lé Livec de Trésurin"
+name: Blessed François-Hyacinthe lé Livec de Trésurin
 honorific: Blessed
-summary: "Jesuit priest. One of the Martyrs of September."
+summary: Jesuit priest. One of the Martyrs of September.
 birthYear: 1726
 deathYear: 1792
-born: "5 May 1726 in Quimper, Finistère, France"
-died: "3 September 1792 at the Prison de la Force, Paris, France"
-birthPlace: "Finistère, France"
-deathPlace: "Paris, France"
-region: "France"
+born: 5 May 1726 in Quimper, Finistère, France
+died: 3 September 1792 at the Prison de la Force, Paris, France
+birthPlace: Finistère, France
+deathPlace: Paris, France
+region: France
 feastDay:
   month: 9
   day: 3
 canonizationStatus: Blessed
 vocation:
   - Priest
-religiousOrder: "Jesuit"
+religiousOrder: Jesuit
 martyr: true
+prayers: []
 ---
 
 Jesuit priest. One of the Martyrs of September.

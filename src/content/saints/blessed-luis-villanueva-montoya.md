@@ -1,23 +1,24 @@
 ---
-name: "Blessed Luis Villanueva Montoya"
+name: Blessed Luis Villanueva Montoya
 honorific: Blessed
-summary: "Member of the Brothers of the Christian Schools. Martyred in the Spanish Civil War."
-image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Luis-Villanueva-Montoya.jpg"
+summary: Member of the Brothers of the Christian Schools. Martyred in the Spanish Civil War.
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Luis-Villanueva-Montoya.jpg
 searchAliases:
-  - "Brother Eustaquio Luis"
+  - Brother Eustaquio Luis
 birthYear: 1888
 deathYear: 1936
-born: "10 September 1888 in Cucho, Burgos, Spain"
-died: "7 August 1936 in “Boca del Congosto”, Los Yébenes, Toledo, Spain"
-birthPlace: "Burgos, Spain"
-deathPlace: "Los Yébenes, Toledo, Spain"
-region: "Spain"
+born: 10 September 1888 in Cucho, Burgos, Spain
+died: 7 August 1936 in “Boca del Congosto”, Los Yébenes, Toledo, Spain
+birthPlace: Burgos, Spain
+deathPlace: Los Yébenes, Toledo, Spain
+region: Spain
 feastDay:
   month: 8
   day: 7
 canonizationStatus: Blessed
 vocation: []
 martyr: true
+prayers: []
 ---
 
 Member of the Brothers of the Christian Schools. Martyred in the Spanish Civil War.

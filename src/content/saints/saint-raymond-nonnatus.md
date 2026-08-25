@@ -1,18 +1,21 @@
 ---
-name: "Saint Raymond Nonnatus"
+name: Saint Raymond Nonnatus
 honorific: Saint
-summary: "Born to the Spanish nobility. Well educated, his father planned a career for Raymond in the royal court in Aragon (part of modern Spain). When Raymond felt drawn to religious life, his father ordered him to manage one of the family farms. However, Raymond spent his time with the"
-image: "https://upload.wikimedia.org/wikipedia/commons/e/e1/San_Ram%C3%B3n_Nonato_%28Museo_Ibercaja_Cam%C3%B3n_Aznar%29.jpg"
+summary: >-
+  Born to the Spanish nobility. Well educated, his father planned a career for Raymond in the royal court in Aragon
+  (part of modern Spain). When Raymond felt drawn to religious life, his father ordered him to manage one of the family
+  farms. However, Raymond spent his time with the
+image: https://upload.wikimedia.org/wikipedia/commons/e/e1/San_Ram%C3%B3n_Nonato_%28Museo_Ibercaja_Cam%C3%B3n_Aznar%29.jpg
 searchAliases:
-  - "Raymund Nonnatus"
-  - "Raimundo Nonato"
+  - Raymund Nonnatus
+  - Raimundo Nonato
 birthYear: 1204
 deathYear: 1240
-born: "1204 at Portella, diocese of Urgel, Catalonia, Spain"
-died: "31 August 1240 at Cardona, Spain of a fever"
-birthPlace: "dioceseUrgel, Catalonia, Spain"
-deathPlace: "Spaof a fever"
-region: "Spain"
+born: 1204 at Portella, diocese of Urgel, Catalonia, Spain
+died: 31 August 1240 at Cardona, Spain of a fever
+birthPlace: dioceseUrgel, Catalonia, Spain
+deathPlace: Spaof a fever
+region: Spain
 feastDay:
   month: 8
   day: 31
@@ -20,24 +23,25 @@ canonizationStatus: Saint
 vocation:
   - Priest
   - Confessor
-religiousOrder: "Dominican"
+religiousOrder: Dominican
 patronage:
-  - "against fever"
-  - "babies"
-  - "childbirth"
-  - "children"
-  - "domestic animals"
-  - "expectant mothers"
-  - "falsely accused people"
-  - "infants"
-  - "midwives"
-  - "newborn babies"
-  - "obstetricians"
-  - "pregnant women"
-  - "Mercedarian novices"
-  - "Baltoa, Dominican Republic"
-  - "San Ramon, Costa Rica"
+  - against fever
+  - babies
+  - childbirth
+  - children
+  - domestic animals
+  - expectant mothers
+  - falsely accused people
+  - infants
+  - midwives
+  - newborn babies
+  - obstetricians
+  - pregnant women
+  - Mercedarian novices
+  - Baltoa, Dominican Republic
+  - San Ramon, Costa Rica
 martyr: false
+prayers: []
 ---
 
 Born to the Spanish nobility. Well educated, his father planned a career for Raymond in the royal court in Aragon (part of modern Spain). When Raymond felt drawn to religious life, his father ordered him to manage one of the family farms. However, Raymond spent his time with the shepherds and workers, studying and praying until his father gave up the idea of making his son a wordly success.

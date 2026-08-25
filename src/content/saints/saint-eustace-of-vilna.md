@@ -25,6 +25,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/8/8c/Vilenskie_mucheniki.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Eustace of Vilna
 imageCreditUrl: https://en.wikipedia.org/wiki/Anthony%2C%20John%2C%20and%20Eustathius
+prayers: []
 ---
 
 Young nobleman and chamberlain at the court of Duke Olgierd. Originally a fire worshipper, he converted to Christianity. Martyred for refusing to eat meat on a day of abstinence.

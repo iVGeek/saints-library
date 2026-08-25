@@ -19,6 +19,7 @@ canonizationStatus: Blessed
 vocation:
   - Priest
 martyr: true
+prayers: []
 ---
 
 Son of Ambrose Middleton of Barnard Castle, Durham, England, and Cecil, daughter of Anthony Crackenthorpe of Howgill Castle, Westmoreland, England. Entered the English College at Rheims, France on 9 January 1582. Ordained on 30 May 1586. Returned to England to minister to covert Catholics in the area of London. Arrested for the crime of priesthood; captured in a residence in Clerkenwell, London by a priest-catcher who claimed to be a Catholic who needed a priest. Martyr.

@@ -1,13 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Blaise of Veroli"
+name: Saint Blaise of Veroli
 honorific: Saint
-summary: "Martyr."
+summary: Martyr.
 searchAliases:
-  - "Blasius"
-died: "at Veroli, Italy"
-deathPlace: "Italy"
-region: "Italy"
+  - Blasius
+died: at Veroli, Italy
+deathPlace: Italy
+region: Italy
 feastDay:
   month: 11
   day: 29
@@ -16,6 +16,7 @@ vocation:
   - Bishop
   - Monk
 martyr: true
+prayers: []
 ---
 
 Martyr.

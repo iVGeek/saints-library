@@ -1,15 +1,15 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Celeste of Metz"
+name: Saint Celeste of Metz
 honorific: Saint
-summary: "Priest. Evangelist in the area of Metz, France. Second bishop of Metz."
+summary: Priest. Evangelist in the area of Metz, France. Second bishop of Metz.
 searchAliases:
-  - "Celestio"
-  - "Céleste"
-  - "Celestius"
-born: "3rd century"
-died: "4th century of natural causes"
-region: "France"
+  - Celestio
+  - Céleste
+  - Celestius
+born: 3rd century
+died: 4th century of natural causes
+region: France
 feastDay:
   month: 10
   day: 14
@@ -18,6 +18,7 @@ vocation:
   - Bishop
   - Priest
 martyr: false
+prayers: []
 ---
 
 Priest. Evangelist in the area of Metz, France. Second bishop of Metz.

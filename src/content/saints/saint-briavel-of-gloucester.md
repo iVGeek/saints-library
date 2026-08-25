@@ -15,6 +15,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/f/f5/StBriavelscastle.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Briavel of Gloucester
 imageCreditUrl: https://en.wikipedia.org/wiki/St%20Briavels
+prayers: []
 ---
 
 Sixth-century hermit at Saint Briavals, in modern Gloucestershire, England.

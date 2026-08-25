@@ -28,6 +28,7 @@ religiousOrder: Franciscan
 patronage:
   - Sigmaringen, Germany
 martyr: true
+prayers: []
 ---
 
 Lawyer and philosophy teacher. Disgusted by the greed, corruption, and lack of interest in justice by his fellow lawyers, Mark Rey abandoned the law, became a priest, became a Franciscan friar with his brother George, changed his name to Fidelis, and gave away his worldly wealth to poor people in general and poor seminarians in particular. He was served his friary as guardian, and worked in epidemics, especially healing soldiers. He led a group of Capuchins to preach to Calvinists and Zwinglians in Switzerland. The success of this work, and lack of violence suffered by mission was attributed to Fidelis spending his nights in prayer. He was, however, eventually martyred for his preaching.

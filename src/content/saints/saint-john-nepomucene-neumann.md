@@ -1,28 +1,33 @@
 ---
-name: "Saint John Nepomucene Neumann"
+name: Saint John Nepomucene Neumann
 honorific: Venerable
-summary: "Son of Philip, who was German and owned a stocking factory, and Agnes Neumann who was Czech. John was a small and quiet boy with four sisters and a brother, and was named after Saint John Nepomucene. An excellent student, John early felt drawn to religious life. Seminarian at Bud"
-image: "http://catholicsaints.info/wp-content/gallery/saint-john-nepomucene-neumann/saint-john-nepomucene-neumann-01.gif"
+summary: >-
+  Son of Philip, who was German and owned a stocking factory, and Agnes Neumann who was Czech. John was a small and
+  quiet boy with four sisters and a brother, and was named after Saint John Nepomucene. An excellent student, John early
+  felt drawn to religious life. Seminarian at Bud
+image: http://catholicsaints.info/wp-content/gallery/saint-john-nepomucene-neumann/saint-john-nepomucene-neumann-01.gif
 searchAliases:
-  - "Giovanni Nepomuceno Neumann"
-  - "Jan Nepomucký Neumann"
+  - Giovanni Nepomuceno Neumann
+  - Jan Nepomucký Neumann
 birthYear: 1811
 deathYear: 1860
-born: "28 March 1811 at Prachititz, Bohemia (Czech Republic)"
-died: "5 January 1860 of a stroke at 13th and Vine Streets, Philadephia, Pennsylvania"
-birthPlace: "Bohemia (Czech Republic)"
-deathPlace: "Philadephia, Pennsylvania"
-region: "Czech Republic"
+born: 28 March 1811 at Prachititz, Bohemia (Czech Republic)
+died: 5 January 1860 of a stroke at 13th and Vine Streets, Philadephia, Pennsylvania
+birthPlace: Bohemia (Czech Republic)
+deathPlace: Philadephia, Pennsylvania
+region: Czech Republic
 feastDay:
   month: 1
   day: 5
-centuries: [19]
+centuries:
+  - 19
 canonizationStatus: Venerable
 vocation:
   - Bishop
   - Priest
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 martyr: false
+prayers: []
 ---
 
 Son of Philip, who was German and owned a stocking factory, and Agnes Neumann who was Czech. John was a small and quiet boy with four sisters and a brother, and was named after Saint John Nepomucene. An excellent student, John early felt drawn to religious life. Seminarian at Budweis, Bohemia in 1813, he studied astronomy and botany in addition to theological topics. Studied theology at Charles Ferdinand University at Prague in 1833.

@@ -1,19 +1,22 @@
 ---
-name: "Blessed Eustáquio van Lieshout"
+name: Blessed Eustáquio van Lieshout
 honorific: Blessed
-summary: "Eighth of eleven children in a deeply Catholic farm family. Baptized on the day he was born. A popular, cheerful child, he early felt a call to the priesthood. Neither his family nor his teachers thought he could handle the academic part of the vocation, but he studied in Gemert,"
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Eustáquio-van-Lieshout.jpg"
+summary: >-
+  Eighth of eleven children in a deeply Catholic farm family. Baptized on the day he was born. A popular, cheerful
+  child, he early felt a call to the priesthood. Neither his family nor his teachers thought he could handle the
+  academic part of the vocation, but he studied in Gemert,
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Eustáquio-van-Lieshout.jpg
 searchAliases:
-  - "Eustachius van Lieshout"
-  - "Hubertus van Lieshout"
-  - "Humberto van Lieshout"
+  - Eustachius van Lieshout
+  - Hubertus van Lieshout
+  - Humberto van Lieshout
 birthYear: 1890
 deathYear: 1943
-born: "3 November 1890 at Aarle-Rixtel, North Brabant, Netherlands as Humberto van Lieshout"
-died: "30 August 1943 at Belo Horizonte, Brazil of typhoid fever"
-birthPlace: "North Brabant, Netherlands as Humberto van Lieshout"
-deathPlace: "Braziltyphoid fever"
-region: "Brazil"
+born: 3 November 1890 at Aarle-Rixtel, North Brabant, Netherlands as Humberto van Lieshout
+died: 30 August 1943 at Belo Horizonte, Brazil of typhoid fever
+birthPlace: North Brabant, Netherlands as Humberto van Lieshout
+deathPlace: Braziltyphoid fever
+region: Brazil
 feastDay:
   month: 8
   day: 30
@@ -23,6 +26,7 @@ vocation:
   - Priest
   - Missionary
 martyr: false
+prayers: []
 ---
 
 Eighth of eleven children in a deeply Catholic farm family. Baptized on the day he was born. A popular, cheerful child, he early felt a call to the priesthood. Neither his family nor his teachers thought he could handle the academic part of the vocation, but he studied in Gemert, and did well enough. After reading a biography of Father Damien de Veuster, Humberto decided to join the Congregation of the Sacred Hearts of Jesus and Mary. He entered the novitiate in Tremeloo, Belgium on 23 December 1913, and was given the name Eustáquio; he made his permanent vows in 1918, and was ordained on 10 August 1919.

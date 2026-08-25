@@ -36,6 +36,7 @@ patronage:
   - large families
   - tramps
 martyr: true
+prayers: []
 ---
 
 A prince, born a pagan, the son of King Ella of Northumbria. King of Northumbria from 616 to 633. Married to Saint Ethelburga of Kent. Adult convert to Christianity, baptized in 627 by Saint Paulinus of York; first Christian King of Northumbria. Father of Saint Eanfleda of Whitby and Saint Edwen of Northumbria. Great-uncle of Saint Hilda of Whitby. Grandfather of Saint Elfleda. Worked for the evangelization of his people. Listed as a martyr as he died in battle with the pagan king, Penda of Mercia, an enemy of the Faith.

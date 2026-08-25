@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Hippolytus of Saint-Claude"
+name: Saint Hippolytus of Saint-Claude
 honorific: Saint
-summary: "Benedictine monk. Abbot and bishop of Saint-Claude, France."
+summary: Benedictine monk. Abbot and bishop of Saint-Claude, France.
 deathYear: 775
-died: "c.775 of natural causes"
-region: "France"
+died: c.775 of natural causes
+region: France
 feastDay:
   month: 11
   day: 28
@@ -13,8 +13,9 @@ canonizationStatus: Saint
 vocation:
   - Bishop
   - Monk
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 martyr: false
+prayers: []
 ---
 
 Benedictine monk. Abbot and bishop of Saint-Claude, France.

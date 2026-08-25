@@ -1,25 +1,27 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Maria Yi Yon-hui"
+name: Saint Maria Yi Yon-hui
 honorific: Venerable
-summary: "Married lay woman in the apostolic vicariate of Korea. Martyr."
+summary: Married lay woman in the apostolic vicariate of Korea. Martyr.
 searchAliases:
-  - "Maria Yi Yeon-heui"
+  - Maria Yi Yeon-heui
 birthYear: 1804
 deathYear: 1839
-born: "1804 in Seoul, South Korea"
-died: "beheaded on 3 September 1839 at the Small West Gate, Seoul, South Korea"
-birthPlace: "South Korea"
-deathPlace: "Seoul, South Korea"
-region: "Korea"
+born: 1804 in Seoul, South Korea
+died: beheaded on 3 September 1839 at the Small West Gate, Seoul, South Korea
+birthPlace: South Korea
+deathPlace: Seoul, South Korea
+region: Korea
 feastDay:
   month: 9
   day: 3
-centuries: [19]
+centuries:
+  - 19
 canonizationStatus: Venerable
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Married lay woman in the apostolic vicariate of Korea. Martyr.

@@ -17,6 +17,7 @@ image: https://commons.wikimedia.org/wiki/Special:FilePath/Irais_%25C3%25A9glise
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Martyred in the persecutions of Diocletian.

@@ -14,6 +14,7 @@ image: https://commons.wikimedia.org/wiki/Special:FilePath/A_Roman_Emperor_AD41_
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 One of twelve Africans martyred in the persecutions of Diocletian.

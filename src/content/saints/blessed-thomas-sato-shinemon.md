@@ -1,23 +1,24 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Thomas Sato Shin'emon"
+name: Blessed Thomas Sato Shin'emon
 honorific: Blessed
-summary: "Member of the Secular Franciscan in the archdiocse of Nagasaki, Japan. Martyr."
+summary: Member of the Secular Franciscan in the archdiocse of Nagasaki, Japan. Martyr.
 searchAliases:
-  - "Ou Jinyemon"
+  - Ou Jinyemon
 deathYear: 1627
-born: "Korea"
-died: "16 August 1627 in Nagasaki, Japan"
-deathPlace: "Japan"
-region: "Japan"
+born: Korea
+died: 16 August 1627 in Nagasaki, Japan
+deathPlace: Japan
+region: Japan
 feastDay:
   month: 8
   day: 27
 canonizationStatus: Blessed
 vocation:
   - Monk
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 martyr: true
+prayers: []
 ---
 
 Member of the Secular Franciscan in the archdiocse of Nagasaki, Japan. Martyr.

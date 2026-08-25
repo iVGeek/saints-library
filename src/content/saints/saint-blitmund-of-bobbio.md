@@ -1,24 +1,27 @@
 ---
-name: "Saint Blitmund of Bobbio"
+name: Saint Blitmund of Bobbio
 honorific: Saint
-summary: "Born to the nobility, as a young man, Blitmund moved to northern France to live as a hermit along the River Somme in Leuconay. In 611 he built a chapel and two cells in the area. He brought a hanged man back to life, which caused the spread of his reputation as a miracle worker a"
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Blitmund-of-Bobbio.jpg"
+summary: >-
+  Born to the nobility, as a young man, Blitmund moved to northern France to live as a hermit along the River Somme in
+  Leuconay. In 611 he built a chapel and two cells in the area. He brought a hanged man back to life, which caused the
+  spread of his reputation as a miracle worker a
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Blitmund-of-Bobbio.jpg
 searchAliases:
-  - "Blitmund of St-Valéry"
-  - "Blitmund of Leuconay"
-  - "Blitmund of Picardië"
-  - "Blidmundus"
-  - "Blimond"
-  - "Blimont"
-  - "Blimundus"
-  - "Blithmundus"
-  - "Blithumund"
-  - "Blitmond"
-  - "Gogus"
+  - Blitmund of St-Valéry
+  - Blitmund of Leuconay
+  - Blitmund of Picardië
+  - Blidmundus
+  - Blimond
+  - Blimont
+  - Blimundus
+  - Blithmundus
+  - Blithumund
+  - Blitmond
+  - Gogus
 deathYear: 660
-born: "late 6th-century in the Dauphiné region of modern France"
-died: "660 of natural causes"
-region: "France"
+born: late 6th-century in the Dauphiné region of modern France
+died: 660 of natural causes
+region: France
 feastDay:
   month: 1
   day: 3
@@ -27,6 +30,7 @@ vocation:
   - Monk
   - Hermit
 martyr: false
+prayers: []
 ---
 
 Born to the nobility, as a young man, Blitmund moved to northern France to live as a hermit along the River Somme in Leuconay. In 611 he built a chapel and two cells in the area. He brought a hanged man back to life, which caused the spread of his reputation as a miracle worker and holy man. This, in turn, led to would-be spiritual students gathering around him and living in a nearby monastery.

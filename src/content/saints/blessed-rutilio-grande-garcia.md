@@ -1,15 +1,18 @@
 ---
-name: "Blessed Rutilio Grande García"
+name: Blessed Rutilio Grande García
 honorific: Blessed
-summary: "The youngest of seven children born to a poor family, his parents divorced when Rutilio was small, and he was raised by his grandmother and an older brother. He began attending a high school seminary in San Salvador at age 12, and joined the Jesuits when he was 17. Ordained a pri"
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Rutilio-Grande-García.jpg"
+summary: >-
+  The youngest of seven children born to a poor family, his parents divorced when Rutilio was small, and he was raised
+  by his grandmother and an older brother. He began attending a high school seminary in San Salvador at age 12, and
+  joined the Jesuits when he was 17. Ordained a pri
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Rutilio-Grande-García.jpg
 birthYear: 1928
 deathYear: 1977
-born: "5 July 1928 in El Paisnal, San Salvador, El Salvador"
-died: "shot around 5pm on Saturday 12 March 1977 on the road between Aguilares and El Paisnal, San Salvador, El Salvador"
-birthPlace: "San Salvador, El Salvador"
-deathPlace: "San Salvador, El Salvador"
-region: "Italy"
+born: 5 July 1928 in El Paisnal, San Salvador, El Salvador
+died: shot around 5pm on Saturday 12 March 1977 on the road between Aguilares and El Paisnal, San Salvador, El Salvador
+birthPlace: San Salvador, El Salvador
+deathPlace: San Salvador, El Salvador
+region: Italy
 feastDay:
   month: 3
   day: 12
@@ -17,8 +20,9 @@ canonizationStatus: Blessed
 vocation:
   - Priest
   - Cardinal
-religiousOrder: "Jesuit"
+religiousOrder: Jesuit
 martyr: true
+prayers: []
 ---
 
 The youngest of seven children born to a poor family, his parents divorced when Rutilio was small, and he was raised by his grandmother and an older brother. He began attending a high school seminary in San Salvador at age 12, and joined the Jesuits when he was 17. Ordained a priest on 30 July 1959.

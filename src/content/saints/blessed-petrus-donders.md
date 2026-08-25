@@ -1,18 +1,21 @@
 ---
-name: "Blessed Petrus Donders"
+name: Blessed Petrus Donders
 honorific: Blessed
-summary: "Son of Arnold Denis Donders and Petronella van den Brekel. Peter grew up poor, rarely getting to school, working at home and in a local factory with his brother Martin, and dreaming of becoming a priest. With the help of local priests and a wealthy patron, he enter the seminary a"
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Petrus-Donders.jpg"
+summary: >-
+  Son of Arnold Denis Donders and Petronella van den Brekel. Peter grew up poor, rarely getting to school, working at
+  home and in a local factory with his brother Martin, and dreaming of becoming a priest. With the help of local priests
+  and a wealthy patron, he enter the seminary a
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Petrus-Donders.jpg
 searchAliases:
-  - "Peter Donders"
-  - "Peerke Donders"
+  - Peter Donders
+  - Peerke Donders
 birthYear: 1805
 deathYear: 1887
-born: "27 October 1805 at Tilburg, North Brabant, Netherlands"
-died: "14 January 1887 at Batavia, Saramacca, Surinam of natural causes"
-birthPlace: "North Brabant, Netherlands"
-deathPlace: "Saramacca, Surinamnatural causes"
-region: "India"
+born: 27 October 1805 at Tilburg, North Brabant, Netherlands
+died: 14 January 1887 at Batavia, Saramacca, Surinam of natural causes
+birthPlace: North Brabant, Netherlands
+deathPlace: Saramacca, Surinamnatural causes
+region: India
 feastDay:
   month: 6
   day: 5
@@ -20,8 +23,9 @@ canonizationStatus: Blessed
 vocation:
   - Priest
   - Missionary
-religiousOrder: "Jesuit"
+religiousOrder: Jesuit
 martyr: false
+prayers: []
 ---
 
 Son of Arnold Denis Donders and Petronella van den Brekel. Peter grew up poor, rarely getting to school, working at home and in a local factory with his brother Martin, and dreaming of becoming a priest. With the help of local priests and a wealthy patron, he enter the seminary at the College of Herlaar at age twenty-two, initially working as a servant while he studied. At age twenty-six her applied to the Franciscans, Jesuits and Redemptorists, but was turned down by each. Ordained on 5 June 1841 after nearly ten years of work.

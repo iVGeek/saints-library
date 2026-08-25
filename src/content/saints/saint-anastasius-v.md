@@ -1,10 +1,10 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Anastasius V"
+name: Saint Anastasius V
 honorific: Saint
-summary: "Priest. Martyr."
-died: "in Sicily"
-region: "England"
+summary: Priest. Martyr.
+died: in Sicily
+region: England
 feastDay:
   month: 10
   day: 11
@@ -13,6 +13,7 @@ vocation:
   - Priest
   - Monk
 martyr: true
+prayers: []
 ---
 
 Priest. Martyr.

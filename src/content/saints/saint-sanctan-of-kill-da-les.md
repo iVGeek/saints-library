@@ -1,12 +1,12 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Sanctan of Kill-da-Les"
+name: Saint Sanctan of Kill-da-Les
 honorific: Saint
-summary: "Son of King Sawyl Penuchel and Dechter. Sixth-century bishop of Kill-da-Les (Kill-na-Sanctan) in Ireland."
+summary: Son of King Sawyl Penuchel and Dechter. Sixth-century bishop of Kill-da-Les (Kill-na-Sanctan) in Ireland.
 searchAliases:
-  - "Sanctain"
-born: "northern Britain"
-region: "Ireland"
+  - Sanctain
+born: northern Britain
+region: Ireland
 feastDay:
   month: 5
   day: 9
@@ -15,6 +15,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Son of King Sawyl Penuchel and Dechter. Sixth-century bishop of Kill-da-Les (Kill-na-Sanctan) in Ireland.

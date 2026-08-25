@@ -1,27 +1,32 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Thomas Hioji Nishi Rokuzaemon"
+name: Saint Thomas Hioji Nishi Rokuzaemon
 honorific: Venerable
-summary: "Dominican missionary priest, first Formosa and then Japan. Tortured and martyred in the persecutions of Tokugawa Yemitsu."
+summary: >-
+  Dominican missionary priest, first Formosa and then Japan. Tortured and martyred in the persecutions of Tokugawa
+  Yemitsu.
 searchAliases:
-  - "Father Thomas of Saint Hyacinth"
+  - Father Thomas of Saint Hyacinth
 birthYear: 1590
 deathYear: 1634
-born: "1590 in Hirado, Nagasaki, Japan"
-died: "17 November 1634 in Nishizaka, Nagasaki, Japan"
-birthPlace: "Nagasaki, Japan"
-deathPlace: "Nagasaki, Japan"
-region: "Japan"
+born: 1590 in Hirado, Nagasaki, Japan
+died: 17 November 1634 in Nishizaka, Nagasaki, Japan
+birthPlace: Nagasaki, Japan
+deathPlace: Nagasaki, Japan
+region: Japan
 feastDay:
   month: 11
   day: 17
-centuries: [16, 17]
+centuries:
+  - 16
+  - 17
 canonizationStatus: Venerable
 vocation:
   - Priest
   - Missionary
-religiousOrder: "Dominican"
+religiousOrder: Dominican
 martyr: true
+prayers: []
 ---
 
 Dominican missionary priest, first Formosa and then Japan. Tortured and martyred in the persecutions of Tokugawa Yemitsu.

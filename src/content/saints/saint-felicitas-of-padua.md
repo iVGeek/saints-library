@@ -13,6 +13,7 @@ vocation:
   - Virgin
   - Religious
 martyr: false
+prayers: []
 ---
 
 Nun in Padua, Italy.

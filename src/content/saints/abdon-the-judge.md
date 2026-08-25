@@ -19,6 +19,7 @@ canonizationStatus: Saint
 vocation:
   - Priest
 martyr: false
+prayers: []
 ---
 
 The son of Hillel, a Pirathonite, the tenth Judge of Israel, serving for 8 years, as described in the Old Testament Book of Judges. Married, the father of 40 sons, grandfather of 30 children.

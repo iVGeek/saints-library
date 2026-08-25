@@ -1,21 +1,21 @@
 ---
-name: "Blessed Maria Bagnesi"
+name: Blessed Maria Bagnesi
 honorific: Blessed
-summary: " Wh A happy, beautiful, under-sized, frequently neglected child, her mother often left her to the care of others, including a sister who was a Dominican nun. Marietta grew up and had her best times in her sister's convent, and four of her sisters eventually entered religious life."
-image: "https://upload.wikimedia.org/wikipedia/commons/8/8c/Blessed_maria_bartolomea_bagnesi.png"
+summary: ' Wh A happy, beautiful, under-sized, frequently neglected child, her mother often left her to the care of others, including a sister who was a Dominican nun. Marietta grew up and had her best times in her sister''s convent, and four of her sisters eventually entered religious life.'
+image: https://upload.wikimedia.org/wikipedia/commons/8/8c/Blessed_maria_bartolomea_bagnesi.png
 searchAliases:
-  - "Bartholomaea Bagnesi"
-  - "Maria Bartolomea Bagnesi"
-  - "Marietta Bagnesi"
-  - "Mary-Bartholomew Bagnesi"
-  - "Mary Bartholomeo Bagnesi"
+  - Bartholomaea Bagnesi
+  - Maria Bartolomea Bagnesi
+  - Marietta Bagnesi
+  - Mary-Bartholomew Bagnesi
+  - Mary Bartholomeo Bagnesi
 birthYear: 1514
 deathYear: 1577
-born: "15 August 1514 at Florence, Italy"
-died: "28 May 1577 at Florence, Italy of natural causes"
-birthPlace: "Italy"
-deathPlace: "Italynatural causes"
-region: "Italy"
+born: 15 August 1514 at Florence, Italy
+died: 28 May 1577 at Florence, Italy of natural causes
+birthPlace: Italy
+deathPlace: Italynatural causes
+region: Italy
 feastDay:
   month: 5
   day: 28
@@ -23,12 +23,13 @@ canonizationStatus: Blessed
 vocation:
   - Priest
   - Religious
-religiousOrder: "Dominican"
+religiousOrder: Dominican
 patronage:
-  - "abuse victims"
-  - "against the death of parents"
-  - "sick people"
+  - abuse victims
+  - against the death of parents
+  - sick people
 martyr: false
+prayers: []
 ---
 
 A happy, beautiful, under-sized, frequently neglected child, her mother often left her to the care of others, including a sister who was a Dominican nun. Marietta grew up and had her best times in her sister's convent, and four of her sisters eventually entered religious life.

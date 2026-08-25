@@ -1,11 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Davitus the Senator"
+name: Saint Davitus the Senator
 honorific: Saint
-summary: "Imperial Roman Senator. One of a group of 46 Christians arrested in Albitina, North Africa during Mass, shipped to Carthage for judgment and torture, and then died together in prison. Martyr."
+summary: >-
+  Imperial Roman Senator. One of a group of 46 Christians arrested in Albitina, North Africa during Mass, shipped to
+  Carthage for judgment and torture, and then died together in prison. Martyr.
 deathYear: 304
-died: "304"
-region: "Africa"
+died: '304'
+region: Africa
 feastDay:
   month: 2
   day: 11
@@ -13,6 +15,7 @@ canonizationStatus: Saint
 vocation:
   - Priest
 martyr: true
+prayers: []
 ---
 
 Imperial Roman Senator. One of a group of 46 Christians arrested in Albitina, North Africa during Mass, shipped to Carthage for judgment and torture, and then died together in prison. Martyr.

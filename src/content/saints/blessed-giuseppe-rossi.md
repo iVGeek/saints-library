@@ -23,6 +23,7 @@ vocation:
   - Priest
   - Cardinal
 martyr: true
+prayers: []
 ---
 
 Born the second son of a poor family. After studying at the seminary in the diocese of Novara, Italy, Giuseppe was ordained a priest on 29 June 1937. Parish priest at the church of San Gottardo in the small mountain town of Castiglione Ossola, Italy in 1939. He served there through World War II, organizing Catholic Action and Saint Vincent de Paul Society groups in the parish.

@@ -1,13 +1,15 @@
 ---
-name: "Saint Bretannion of Tomi"
+name: Saint Bretannion of Tomi
 honorific: Saint
-summary: "Bishop of Tomi, Scythia (modern Constanta, Romania). He opposed Arianism for which he was exiled by Emperor Valens; the people of Tomi forced the emperor to restore him to his see."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Bretannion-of-Tomi.jpg"
+summary: >-
+  Bishop of Tomi, Scythia (modern Constanta, Romania). He opposed Arianism for which he was exiled by Emperor Valens;
+  the people of Tomi forced the emperor to restore him to his see.
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Bretannion-of-Tomi.jpg
 searchAliases:
-  - "Bretannione"
+  - Bretannione
 deathYear: 380
-died: "380 of natural causes"
-region: "England"
+died: 380 of natural causes
+region: England
 feastDay:
   month: 1
   day: 25
@@ -16,6 +18,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Bishop of Tomi, Scythia (modern Constanta, Romania). He opposed Arianism for which he was exiled by Emperor Valens; the people of Tomi forced the emperor to restore him to his see.

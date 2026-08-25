@@ -27,6 +27,7 @@ imageCredit: >-
   href="https://archive.org/download/historicmartyrso00masorich/historicmartyrso00masorich.pdf">https://archive.org/download/historicmartyrso00masorich/historicmartyrso00masorich.pdf</a></dd></dl>
 imageCreditUrl: >-
   https://commons.wikimedia.org/wiki/File:The%20historic%20martyrs%20of%20the%20primitive%20church%20(IA%20historicmartyrso00masorich).pdf
+prayers: []
 ---
 
 A large but unknown number of Catholics massacred in several churches during Good Friday services in Alexandria, Egypt by Arian heretics during the persecutions of Constantius and Philagrio.

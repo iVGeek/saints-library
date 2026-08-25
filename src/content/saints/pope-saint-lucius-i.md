@@ -26,6 +26,7 @@ vocation:
 patronage:
   - Copenhagen, Denmark
 martyr: false
+prayers: []
 ---
 
 Chosen 22nd pope. Noted for his ascetic lifestyle, even while on the throne. Forbade men and women not related by blood to live together. Decreed that clergy should not live with deaconesses even if given lodging for reasons of charity. Exiled briefly during the persecution of Emperor Gallus. Condemned the Novatian heresy.

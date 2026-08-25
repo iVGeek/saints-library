@@ -1,15 +1,15 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed José Camacho Moreno"
+name: Blessed José Camacho Moreno
 honorific: Blessed
-summary: "Priest of the diocese of Córdoba, Spain, serving in the Belalcázar community. Martyred in the Spanish Civil War."
+summary: Priest of the diocese of Córdoba, Spain, serving in the Belalcázar community. Martyred in the Spanish Civil War.
 birthYear: 1891
 deathYear: 1936
-born: "5 January 1891 in Los Blázquez, Córdoba, Spain"
-died: "20 August 1936 in Belalcázar, Córdoba, Spain"
-birthPlace: "Córdoba, Spain"
-deathPlace: "Córdoba, Spain"
-region: "Spain"
+born: 5 January 1891 in Los Blázquez, Córdoba, Spain
+died: 20 August 1936 in Belalcázar, Córdoba, Spain
+birthPlace: Córdoba, Spain
+deathPlace: Córdoba, Spain
+region: Spain
 feastDay:
   month: 8
   day: 20
@@ -18,6 +18,7 @@ vocation:
   - Priest
   - Cardinal
 martyr: true
+prayers: []
 ---
 
 Priest of the diocese of Córdoba, Spain, serving in the Belalcázar community. Martyred in the Spanish Civil War.

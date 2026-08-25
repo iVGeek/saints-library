@@ -1,10 +1,12 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Antony"
+name: Saint Antony
 honorific: Saint
-summary: "There is an old Eastern tradition that he converted after watching the martyrdom of Saint George, but all we know for sure is that this is the name of yet another early Christianity murdered for his faith. Martyr."
+summary: >-
+  There is an old Eastern tradition that he converted after watching the martyrdom of Saint George, but all we know for
+  sure is that this is the name of yet another early Christianity murdered for his faith. Martyr.
 searchAliases:
-  - "Antoninus"
+  - Antoninus
 feastDay:
   month: 4
   day: 20
@@ -12,6 +14,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 There is an old Eastern tradition that he converted after watching the martyrdom of Saint George, but all we know for sure is that this is the name of yet another early Christianity murdered for his faith. Martyr.

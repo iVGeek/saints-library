@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Hyacinth of Lucania"
+name: Saint Hyacinth of Lucania
 honorific: Saint
-summary: "Martyr."
-died: "Lucania, southern Italy"
-deathPlace: "southern Italy"
-region: "Italy"
+summary: Martyr.
+died: Lucania, southern Italy
+deathPlace: southern Italy
+region: Italy
 feastDay:
   month: 10
   day: 29
@@ -13,6 +13,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Martyr.

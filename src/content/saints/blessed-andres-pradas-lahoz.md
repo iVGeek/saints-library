@@ -30,6 +30,7 @@ imageCredit: >-
   href="https://archive.org/download/arh3937.0002.020.umich.edu/arh3937.0002.020.umich.edu.pdf">https://archive.org/download/arh3937.0002.020.umich.edu/arh3937.0002.020.umich.edu.pdf</a></dd></dl>
 imageCreditUrl: >-
   https://commons.wikimedia.org/wiki/File:Patnubay%20ng%CC%83%20bayan%20(microform)%20(IA%20arh3937.0002.020.umich.edu).pdf
+prayers: []
 ---
 
 Salesian brother. Teacher. Martyred in the Spanish Civil War.

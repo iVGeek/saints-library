@@ -1,15 +1,18 @@
 ---
-name: "Blessed Pere Tarrés i Claret"
+name: Blessed Pere Tarrés i Claret
 honorific: Blessed
-summary: "The son of Francesco and Carmen Tarres i Claret, he and his sisters Francesca and Maria, both of whom became Conceptionist nuns, were raised in a Christian home. Due to his father's work as a mechanic, the family moved regularly. He received Confirmation on 31 May 1910, and his f"
-image: "https://upload.wikimedia.org/wikipedia/commons/9/99/Pere_Tarr%C3%A9s_i_Claret_c1945.png"
+summary: >-
+  The son of Francesco and Carmen Tarres i Claret, he and his sisters Francesca and Maria, both of whom became
+  Conceptionist nuns, were raised in a Christian home. Due to his father's work as a mechanic, the family moved
+  regularly. He received Confirmation on 31 May 1910, and his f
+image: https://upload.wikimedia.org/wikipedia/commons/9/99/Pere_Tarr%C3%A9s_i_Claret_c1945.png
 birthYear: 1905
 deathYear: 1950
-born: "30 May 1905 in Manresa, Barcelona, Spain"
-died: "31 August 1950 in his clinic in Barcelona, Spain of lymphoblastic lymphosarcoma"
-birthPlace: "Barcelona, Spain"
-deathPlace: "Spaof lymphoblastic lymphosarcoma"
-region: "France"
+born: 30 May 1905 in Manresa, Barcelona, Spain
+died: 31 August 1950 in his clinic in Barcelona, Spain of lymphoblastic lymphosarcoma
+birthPlace: Barcelona, Spain
+deathPlace: Spaof lymphoblastic lymphosarcoma
+region: France
 feastDay:
   month: 8
   day: 31
@@ -17,8 +20,9 @@ canonizationStatus: Blessed
 vocation:
   - Priest
   - Confessor
-religiousOrder: "Jesuit"
+religiousOrder: Jesuit
 martyr: false
+prayers: []
 ---
 
 The son of Francesco and Carmen Tarres i Claret, he and his sisters Francesca and Maria, both of whom became Conceptionist nuns, were raised in a Christian home. Due to his father's work as a mechanic, the family moved regularly. He received Confirmation on 31 May 1910, and his first Communion on 1 May 1913. Pere was educated by the Piarist Fathers and Jesuits, helped in a local pharmacy, and graduated from the College of Saint Ignatius. He studied medicine at the University of Barcelona, and attended the Oratory of Saint Philip Neri. Member of the Federation of Young Christians and Catholic Action. Pere's father died in July 1925, and not long after his mother was in an accident that left her crippled for life. Received his degree in medicine in 1928. With Dr Gerardo Manresa, he founded the Our Lady of Mercy clinic in Barcelona which concentrated on treating tuberculosis patients.

@@ -1,15 +1,18 @@
 ---
-name: "Blessed Enrico Rebuschini"
+name: Blessed Enrico Rebuschini
 honorific: Blessed
-summary: "Second of five children born to an upper class family in the Lombard region of modern Italy. A pious young man and good student, he had a mystical outlook on things, and was subject to bouts of depression. At age 18 Enrico felt a call to the priesthood, but his family, especially"
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Enrico-Rebuschini.jpg"
+summary: >-
+  Second of five children born to an upper class family in the Lombard region of modern Italy. A pious young man and
+  good student, he had a mystical outlook on things, and was subject to bouts of depression. At age 18 Enrico felt a
+  call to the priesthood, but his family, especially
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Enrico-Rebuschini.jpg
 birthYear: 1860
 deathYear: 1938
-born: "28 April 1860 at Gravedona, Como, Italy"
-died: "10 May 1938 in Cremona, Italy of pneumonia"
-birthPlace: "Como, Italy"
-deathPlace: "Italypneumonia"
-region: "Italy"
+born: 28 April 1860 at Gravedona, Como, Italy
+died: 10 May 1938 in Cremona, Italy of pneumonia
+birthPlace: Como, Italy
+deathPlace: Italypneumonia
+region: Italy
 feastDay:
   month: 5
   day: 10
@@ -19,6 +22,7 @@ vocation:
   - Priest
   - Confessor
 martyr: false
+prayers: []
 ---
 
 Second of five children born to an upper class family in the Lombard region of modern Italy. A pious young man and good student, he had a mystical outlook on things, and was subject to bouts of depression. At age 18 Enrico felt a call to the priesthood, but his family, especially his father strongly objected. However, they finally relented, and at 24 Enrico began his studies at the seminary in Como, Italy. He studied at the Lombard College and Gregorian University in Rome, Italy, and proved an able student, but a crushing bout of depression sent him back to his family home and finally to a nursing home for recovery.

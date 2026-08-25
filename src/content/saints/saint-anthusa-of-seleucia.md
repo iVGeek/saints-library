@@ -25,6 +25,7 @@ image: >-
 imageAlt: Portrait of Saint Anthusa of Seleucia
 imageCredit: scan from А.Величко "История византийских императоров"
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:Anfusa%20Omoniskaya.jpg
+prayers: []
 ---
 
 Born to a wealthy, noble, pagan family, Antusa converted to Christianity, and was baptized by Saint Athanasius of Tarsus. Driven out of Seleucia due to her faith, she lived as a desert hermitess in a cave in Asia Minor for 23 years. During her time in the desert she was attacked by diabolic temptations and visions, supported by angelic ones.

@@ -20,6 +20,7 @@ image: https://commons.wikimedia.org/wiki/Special:FilePath/Valence-Capucins-stat
 vocation:
   - Bishop
 martyr: false
+prayers: []
 ---
 
 Born to the Burgundian nobility. Bishop of Viviers, France for 27 years. Returned the liturgy to places that had fallen away from the Church, restored clerical discipline, and revitalized the faith throughout his diocese. Attended several synods, and was very active in the synod of Epaone in 517.

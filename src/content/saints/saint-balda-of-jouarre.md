@@ -13,6 +13,7 @@ image: https://commons.wikimedia.org/wiki/Special:FilePath/Eglise_abbatiale_Joua
 vocation:
   - Religious
 martyr: false
+prayers: []
 ---
 
 Late 7th century abbess in Jouarre Abbey, diocese of Meaux, France.

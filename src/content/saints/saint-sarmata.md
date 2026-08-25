@@ -1,14 +1,14 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Sarmata"
+name: Saint Sarmata
 honorific: Saint
-summary: "Desert hermit and monk. Spiritual student of Saint Anthony the Abbot. Martyr."
+summary: Desert hermit and monk. Spiritual student of Saint Anthony the Abbot. Martyr.
 searchAliases:
-  - "Sarmatas"
-  - "Sarmatius"
+  - Sarmatas
+  - Sarmatius
 deathYear: 357
-died: "357 by Bedouins in the deserts of Egypt"
-region: "England"
+died: 357 by Bedouins in the deserts of Egypt
+region: England
 feastDay:
   month: 10
   day: 11
@@ -17,6 +17,7 @@ vocation:
   - Monk
   - Hermit
 martyr: true
+prayers: []
 ---
 
 Desert hermit and monk. Spiritual student of Saint Anthony the Abbot. Martyr.

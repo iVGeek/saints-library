@@ -1,16 +1,17 @@
 ---
-name: "Saint Publius"
+name: Saint Publius
 honorific: Saint
-summary: "Bishop. Wrote in opposition to the Montanist heresy. Martyr."
+summary: Bishop. Wrote in opposition to the Montanist heresy. Martyr.
 feastDay:
   month: 11
   day: 12
 canonizationStatus: Saint
-image: "https://upload.wikimedia.org/wikipedia/commons/3/39/Saint_Publius_%28cropped%29.jpg"
+image: https://upload.wikimedia.org/wikipedia/commons/3/39/Saint_Publius_%28cropped%29.jpg
 vocation:
   - Bishop
   - Monk
 martyr: true
+prayers: []
 ---
 
 Bishop. Wrote in opposition to the Montanist heresy. Martyr.

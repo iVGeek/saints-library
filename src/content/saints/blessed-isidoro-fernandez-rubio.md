@@ -1,14 +1,14 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Isidoro Fernández Rubio"
+name: Blessed Isidoro Fernández Rubio
 honorific: Blessed
-summary: "Married layman of the diocese of Córdoba, Spain. Martyred in the Spanish Civil War."
+summary: Married layman of the diocese of Córdoba, Spain. Martyred in the Spanish Civil War.
 birthYear: 1887
 deathYear: 1936
-born: "1887"
-died: "15 August 1936 in Villaralto, Córdoba, Spain"
-deathPlace: "Córdoba, Spain"
-region: "Spain"
+born: '1887'
+died: 15 August 1936 in Villaralto, Córdoba, Spain
+deathPlace: Córdoba, Spain
+region: Spain
 feastDay:
   month: 8
   day: 15
@@ -16,6 +16,7 @@ canonizationStatus: Blessed
 vocation:
   - Cardinal
 martyr: true
+prayers: []
 ---
 
 Married layman of the diocese of Córdoba, Spain. Martyred in the Spanish Civil War.

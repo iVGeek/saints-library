@@ -1,24 +1,26 @@
 ---
 image: /placeholder-saint.svg
-name: "Venerable Tomás Suárez Fernández"
+name: Venerable Tomás Suárez Fernández
 honorific: Venerable
-summary: "Augustinian priest."
+summary: Augustinian priest.
 birthYear: 1915
 deathYear: 1949
-born: "10 March 1915 in La Cortina, Asturias, Spain"
-died: "23 April 1949 in Salamanca, Spain of natural causes"
-birthPlace: "Asturias, Spain"
-deathPlace: "Spaof natural causes"
-region: "Spain"
+born: 10 March 1915 in La Cortina, Asturias, Spain
+died: 23 April 1949 in Salamanca, Spain of natural causes
+birthPlace: Asturias, Spain
+deathPlace: Spaof natural causes
+region: Spain
 feastDay:
   month: 1
   day: 1
-centuries: [20]
+centuries:
+  - 20
 canonizationStatus: Venerable
 vocation:
   - Priest
-religiousOrder: "Augustinian"
+religiousOrder: Augustinian
 martyr: false
+prayers: []
 ---
 
 Augustinian priest.

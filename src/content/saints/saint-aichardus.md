@@ -32,6 +32,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/3/32/20180817_Abdij_van_Jumieges.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Aichardus of Jumièges
 imageCreditUrl: https://en.wikipedia.org/wiki/Aichardus
+prayers: []
 ---
 
 Son of a military officer in the court of King Clotaire II. Educated at a monastery in Poitiers, France. Destined by his father for the military, Aichardus felt a call to the religious life. His mother convinced the rest of the family to give him a choice, and he became a monk at Saint Jouin abbey, Ansion, Poitou (in modern France) for 39 years. Prior of Jumièges Abbey. Abbot of Jumièges, a house with 900 monks where his strict personal observance of the Order's rule set an example that rippled through the rest of the house.

@@ -16,6 +16,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/b/bf/Proprieted%27AlbertKahn-Boulogne-FranceLeGeneralHenriGouraud_A19033.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Cama of Cilicia
 imageCreditUrl: https://en.wikipedia.org/wiki/Henri%20Gouraud
+prayers: []
 ---
 
 Martyr. No other information has survived.

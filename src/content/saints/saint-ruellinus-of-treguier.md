@@ -1,13 +1,13 @@
 ---
-name: "Saint Ruellinus of Treguier"
+name: Saint Ruellinus of Treguier
 honorific: Saint
-summary: "Monk. Priest. Bishop of Tréguier, Brittany, France."
-image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Ruellinus-of-Treguier.jpg"
+summary: Monk. Priest. Bishop of Tréguier, Brittany, France.
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Ruellinus-of-Treguier.jpg
 searchAliases:
-  - "Ruelin"
-  - "Ruellin"
-died: "6th century of natural causes"
-region: "France"
+  - Ruelin
+  - Ruellin
+died: 6th century of natural causes
+region: France
 feastDay:
   month: 2
   day: 28
@@ -17,6 +17,7 @@ vocation:
   - Priest
   - Monk
 martyr: false
+prayers: []
 ---
 
 Monk. Priest. Bishop of Tréguier, Brittany, France.

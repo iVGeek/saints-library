@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Maximus of Mainz"
+name: Saint Maximus of Mainz
 honorific: Saint
-summary: "Bishop of Mainz, Germany from 354 to 378. Greatly persecuted by Arian heretics."
+summary: Bishop of Mainz, Germany from 354 to 378. Greatly persecuted by Arian heretics.
 deathYear: 378
-died: "378"
-region: "Germany"
+died: '378'
+region: Germany
 feastDay:
   month: 11
   day: 18
@@ -14,6 +14,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Bishop of Mainz, Germany from 354 to 378. Greatly persecuted by Arian heretics.

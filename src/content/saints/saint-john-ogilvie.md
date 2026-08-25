@@ -1,25 +1,31 @@
 ---
-name: "Saint John Ogilvie"
+name: Saint John Ogilvie
 honorific: Venerable
-summary: "Walter Ogilvie was a Scottish noble who raised his son John in the state religion of Scotland, Calvinism. John converted to Catholicism at age 17 at Louvain, Belgium, and then attended several Catholic educational institutions. He joined the Jesuits soon after in 1597, and was or"
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-John-Ogilvie-1.jpg"
+summary: >-
+  Walter Ogilvie was a Scottish noble who raised his son John in the state religion of Scotland, Calvinism. John
+  converted to Catholicism at age 17 at Louvain, Belgium, and then attended several Catholic educational institutions.
+  He joined the Jesuits soon after in 1597, and was or
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-John-Ogilvie-1.jpg
 birthYear: 1579
 deathYear: 1615
-born: "1579 at Drum, Grampian, Scotland"
-died: "hanged 10 March 1615 at Glasgow, Scotland"
-birthPlace: "Grampian, Scotland"
-deathPlace: "Scotland"
-region: "Belgium"
+born: 1579 at Drum, Grampian, Scotland
+died: hanged 10 March 1615 at Glasgow, Scotland
+birthPlace: Grampian, Scotland
+deathPlace: Scotland
+region: Belgium
 feastDay:
   month: 3
   day: 10
-centuries: [16, 17]
+centuries:
+  - 16
+  - 17
 canonizationStatus: Venerable
 vocation:
   - Priest
   - Missionary
-religiousOrder: "Jesuit"
+religiousOrder: Jesuit
 martyr: true
+prayers: []
 ---
 
 Walter Ogilvie was a Scottish noble who raised his son John in the state religion of Scotland, Calvinism. John converted to Catholicism at age 17 at Louvain, Belgium, and then attended several Catholic educational institutions. He joined the Jesuits soon after in 1597, and was ordained in Paris, France in 1610. Sent to work in Rouen, France.

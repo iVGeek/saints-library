@@ -1,12 +1,14 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Follamon mac Nath Fraich"
+name: Saint Follamon mac Nath Fraich
 honorific: Saint
-summary: "A convert, brought to the faith by Saint Patrick. Evangelizing bishop/a>, based in the area of modern Santry just north of Dublin, Ireland. Martyr."
+summary: >-
+  A convert, brought to the faith by Saint Patrick. Evangelizing bishop/a>, based in the area of modern Santry just
+  north of Dublin, Ireland. Martyr.
 deathYear: 489
-born: "5th century Ireland"
-died: "489 in northern Ireland"
-region: "Ireland"
+born: 5th century Ireland
+died: 489 in northern Ireland
+region: Ireland
 feastDay:
   month: 7
   day: 31
@@ -14,6 +16,7 @@ canonizationStatus: Saint
 vocation:
   - Bishop
 martyr: true
+prayers: []
 ---
 
 A convert, brought to the faith by Saint Patrick. Evangelizing bishop/a>, based in the area of modern Santry just north of Dublin, Ireland. Martyr.

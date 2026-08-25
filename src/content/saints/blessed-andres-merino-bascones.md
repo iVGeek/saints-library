@@ -26,6 +26,7 @@ imageCredit: >-
   <a rel="nofollow" class="external autonumber"
   href="http://www.ebay.com/itm/Sixto-Escobar-Whitey-Brimstein-circa-1930-s-Press-Photo-Bantamweight-Champion-/400998711358?hash=item5d5d62c03e:g:LYIAAOSwsB9V~29U">[1]</a>
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:Sixto%20Escobar%20and%20Whitey%20Brimstein%20c1930cr.jpg
+prayers: []
 ---
 
 Professed religious in the Brothers of the Christian Schools (De La Salle Brothers). Martyred in the Spanish Civil War.

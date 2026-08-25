@@ -1,12 +1,12 @@
 ---
-name: "Saint Christinus of Gnesen"
+name: Saint Christinus of Gnesen
 honorific: Saint
-summary: "Benedictine monk. Missionary with Saint Adalbert of Prague to the Slavs."
-image: "http://catholicsaints.info/wp-content/uploads/img-Five-Polish-Brothers.jpg"
+summary: Benedictine monk. Missionary with Saint Adalbert of Prague to the Slavs.
+image: http://catholicsaints.info/wp-content/uploads/img-Five-Polish-Brothers.jpg
 searchAliases:
-  - "Christian of Gnesen"
-born: "Italy"
-region: "Italy"
+  - Christian of Gnesen
+born: Italy
+region: Italy
 feastDay:
   month: 11
   day: 12
@@ -15,8 +15,9 @@ vocation:
   - Monk
   - Hermit
   - Missionary
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 martyr: false
+prayers: []
 ---
 
 Benedictine monk. Missionary with Saint Adalbert of Prague to the Slavs.

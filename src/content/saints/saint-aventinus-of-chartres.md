@@ -20,6 +20,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/d/d7/Troyes_centre_ville1.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Aventinus of Chartres
 imageCreditUrl: https://en.wikipedia.org/wiki/Troyes
+prayers: []
 ---
 
 Born to the French nobility. Brother of Saint Solemnis of Chartres. Bishop of Chateaudun, France. Bishop of Chartres, France from c.511. Supported the Acts of the Council of Orleans.

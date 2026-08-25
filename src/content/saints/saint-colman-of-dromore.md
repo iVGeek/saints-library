@@ -1,19 +1,22 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Colman of Dromore"
+name: Saint Colman of Dromore
 honorific: Saint
-summary: "Knew Saint Patrick. Studied at Noendrum under Saint Mochae of Noendrum, and then under Saint Ailbe of Emly. First abbot of Muckmore Abbey, County Antrim, Ireland. Founding abbot-bishop of the diocese of Dromore, County Down, Ireland c.514. Taught Saint Finnian of Clonard. Friend"
+summary: >-
+  Knew Saint Patrick. Studied at Noendrum under Saint Mochae of Noendrum, and then under Saint Ailbe of Emly. First
+  abbot of Muckmore Abbey, County Antrim, Ireland. Founding abbot-bishop of the diocese of Dromore, County Down, Ireland
+  c.514. Taught Saint Finnian of Clonard. Friend
 searchAliases:
-  - "Colman of Llangolman"
-  - "Colmoc…"
-  - "Coloman…"
-  - "Mocholmoc…"
-  - "Mocholmog…"
+  - Colman of Llangolman
+  - Colmoc…
+  - Coloman…
+  - Mocholmoc…
+  - Mocholmog…
 deathYear: 585
-born: "Argyllshire, Dalriada (in modern Scotland)"
-died: "c.585 of natural causes"
-birthPlace: "Dalriada (modern Scotland)"
-region: "Ireland"
+born: Argyllshire, Dalriada (in modern Scotland)
+died: c.585 of natural causes
+birthPlace: Dalriada (modern Scotland)
+region: Ireland
 feastDay:
   month: 6
   day: 7
@@ -24,9 +27,13 @@ vocation:
   - Monk
   - Confessor
 patronage:
-  - "in Ireland\n\nDromore, city of"
-  - "Dromore, diocese of"
+  - |-
+    in Ireland
+
+    Dromore, city of
+  - Dromore, diocese of
 martyr: false
+prayers: []
 ---
 
 Knew Saint Patrick. Studied at Noendrum under Saint Mochae of Noendrum, and then under Saint Ailbe of Emly. First abbot of Muckmore Abbey, County Antrim, Ireland. Founding abbot–bishop of the diocese of Dromore, County Down, Ireland c.514. Taught Saint Finnian of Clonard. Friend and advisor to Saint Macanisius. Miracle worker.

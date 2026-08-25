@@ -1,21 +1,22 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Paulus Yun Ji-chung"
+name: Blessed Paulus Yun Ji-chung
 honorific: Blessed
-summary: "Layman martyr in the apostolic vicariate of Korea."
+summary: Layman martyr in the apostolic vicariate of Korea.
 birthYear: 1759
 deathYear: 1791
-born: "1759 in Jinsan, Jeolla-do, South Korea"
-died: "8 December 1791 in Jeonju, Jeolla-do, South Korea"
-birthPlace: "Jeolla-do, South Korea"
-deathPlace: "Jeolla-do, South Korea"
-region: "Korea"
+born: 1759 in Jinsan, Jeolla-do, South Korea
+died: 8 December 1791 in Jeonju, Jeolla-do, South Korea
+birthPlace: Jeolla-do, South Korea
+deathPlace: Jeolla-do, South Korea
+region: Korea
 feastDay:
   month: 12
   day: 8
 canonizationStatus: Blessed
 vocation: []
 martyr: true
+prayers: []
 ---
 
 Layman martyr in the apostolic vicariate of Korea.

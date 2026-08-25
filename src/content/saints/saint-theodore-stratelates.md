@@ -1,21 +1,24 @@
 ---
-name: "Saint Theodore Stratelates"
+name: Saint Theodore Stratelates
 honorific: Saint
-summary: "Roman general (stratelates) and covert Christian during a time of persecution. Exposed as a Christian, a military tribunal decided he was a good soldier who had made a mistake, told him to reconsider, and set him free; he promptly burned down a pagan temple. Arrested again, he wa"
-image: "https://upload.wikimedia.org/wikipedia/commons/0/0b/Fyodorstratelate.jpg"
+summary: >-
+  Roman general (stratelates) and covert Christian during a time of persecution. Exposed as a Christian, a military
+  tribunal decided he was a good soldier who had made a mistake, told him to reconsider, and set him free; he promptly
+  burned down a pagan temple. Arrested again, he wa
+image: https://upload.wikimedia.org/wikipedia/commons/0/0b/Fyodorstratelate.jpg
 searchAliases:
-  - "Theodore the General"
-  - "Theodore Tyro"
-  - "Theodore the Recruit"
-  - "Theodore Tiro"
-  - "Theodor Tiro of Euchaïta"
-  - "Theodore of Amasea"
-  - "Theodore Teron"
-  - "Theodorus of Heraclea"
+  - Theodore the General
+  - Theodore Tyro
+  - Theodore the Recruit
+  - Theodore Tiro
+  - Theodor Tiro of Euchaïta
+  - Theodore of Amasea
+  - Theodore Teron
+  - Theodorus of Heraclea
 deathYear: 319
-died: "martyred 319 at Heraclea, Thrace"
-deathPlace: "Thrace"
-region: "Italy"
+died: martyred 319 at Heraclea, Thrace
+deathPlace: Thrace
+region: Italy
 feastDay:
   month: 2
   day: 7
@@ -25,14 +28,18 @@ vocation:
   - Monk
   - Soldier
 patronage:
-  - "recovery of lost articles"
-  - "soldiers"
-  - "–"
-  - "Ottobeuren Abbey"
-  - "in Italy\n\nBrindisi, city of"
-  - "Brindisi-Ostuni, archdiocese of"
-  - "Venice"
+  - recovery of lost articles
+  - soldiers
+  - –
+  - Ottobeuren Abbey
+  - |-
+    in Italy
+
+    Brindisi, city of
+  - Brindisi-Ostuni, archdiocese of
+  - Venice
 martyr: true
+prayers: []
 ---
 
 Roman general (stratelates) and covert Christian during a time of persecution. Exposed as a Christian, a military tribunal decided he was a good soldier who had made a mistake, told him to reconsider, and set him free; he promptly burned down a pagan temple. Arrested again, he was ordered to apostatize, then tortured by having his flesh torn off; he responded by reciting the Psalms. Martyr.

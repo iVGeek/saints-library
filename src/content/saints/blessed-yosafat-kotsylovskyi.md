@@ -1,18 +1,21 @@
 ---
-name: "Blessed Yosafat Kotsylovskyi"
+name: Blessed Yosafat Kotsylovskyi
 honorific: Blessed
-summary: "Greek Catholic. Studied theology in Rome, graduating in 1907. Ordained on 9 October 1907. Vice-rector and professor of theology at the Stanislaviv, Ukraine seminary. Entered the Basilian novitiate on 2 October 1911. Bishop of Premeshyl, Poland on 23 September 1917. Imprisoned for"
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Yosafat-Kotsylovskyi.jpg"
+summary: >-
+  Greek Catholic. Studied theology in Rome, graduating in 1907. Ordained on 9 October 1907. Vice-rector and professor of
+  theology at the Stanislaviv, Ukraine seminary. Entered the Basilian novitiate on 2 October 1911. Bishop of Premeshyl,
+  Poland on 23 September 1917. Imprisoned for
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Yosafat-Kotsylovskyi.jpg
 searchAliases:
-  - "Josaphat Kocylovskyj"
-  - "Josaphat Kotsylovsky"
+  - Josaphat Kocylovskyj
+  - Josaphat Kotsylovsky
 birthYear: 1876
 deathYear: 1947
-born: "3 March 1876 at Pakoshivka, Lemkiv District, Ukraine"
-died: "martyred on 17 November 1947 in prison in Kiev, Ukraine"
-birthPlace: "Lemkiv District, Ukraine"
-deathPlace: "Ukraine"
-region: "Poland"
+born: 3 March 1876 at Pakoshivka, Lemkiv District, Ukraine
+died: martyred on 17 November 1947 in prison in Kiev, Ukraine
+birthPlace: Lemkiv District, Ukraine
+deathPlace: Ukraine
+region: Poland
 feastDay:
   month: 11
   day: 17
@@ -21,6 +24,7 @@ vocation:
   - Bishop
   - Priest
 martyr: true
+prayers: []
 ---
 
 Greek Catholic. Studied theology in Rome, graduating in 1907. Ordained on 9 October 1907. Vice-rector and professor of theology at the Stanislaviv, Ukraine seminary. Entered the Basilian novitiate on 2 October 1911. Bishop of Premeshyl, Poland on 23 September 1917. Imprisoned for his faith by Polish authorities in September 1945. Died in prison. One of the Martyrs Killed Under Communist Regimes in Eastern Europe.

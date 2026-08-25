@@ -1,28 +1,35 @@
 ---
-name: "Venerable Janez Francišek Gnidovec"
+name: Venerable Janez Francišek Gnidovec
 honorific: Venerable
-summary: "Born to a small, poor, pious farm family, Janez began working the cows and hogs as a small boy. His mother died when the boy was seven. An excellent student, Janez helped support his family by tutoring other boys. When his father died in February 1892, Janez prayed for guidance -"
-image: "http://catholicsaints.info/wp-content/gallery/venerable-janez-francisek-gnidovec/venerable-janez-francisek-gnidovec.jpg"
+summary: >-
+  Born to a small, poor, pious farm family, Janez began working the cows and hogs as a small boy. His mother died when
+  the boy was seven. An excellent student, Janez helped support his family by tutoring other boys. When his father died
+  in February 1892, Janez prayed for guidance -
+image: >-
+  http://catholicsaints.info/wp-content/gallery/venerable-janez-francisek-gnidovec/venerable-janez-francisek-gnidovec.jpg
 searchAliases:
-  - "Ivan Franjo Gnidovec"
+  - Ivan Franjo Gnidovec
 birthYear: 1873
 deathYear: 1939
-born: "29 September 1873 in Veliki Lipovec, Žužemberk, Slovenia"
-died: "3 February 1939 in Ljubljana, Slovenia of a brain cancer"
-birthPlace: "Žužemberk, Slovenia"
-deathPlace: "Sloveniaa brain cancer"
-region: "India"
+born: 29 September 1873 in Veliki Lipovec, Žužemberk, Slovenia
+died: 3 February 1939 in Ljubljana, Slovenia of a brain cancer
+birthPlace: Žužemberk, Slovenia
+deathPlace: Sloveniaa brain cancer
+region: India
 feastDay:
   month: 6
   day: 23
-centuries: [19, 20]
+centuries:
+  - 19
+  - 20
 canonizationStatus: Venerable
 vocation:
   - Bishop
   - Priest
   - Soldier
-religiousOrder: "Lazarist"
+religiousOrder: Lazarist
 martyr: false
+prayers: []
 ---
 
 Born to a small, poor, pious farm family, Janez began working the cows and hogs as a small boy. His mother died when the boy was seven. An excellent student, Janez helped support his family by tutoring other boys. When his father died in February 1892, Janez prayed for guidance – and felt a call to the priesthood. Ordained as a Vincentian priest on 23 June 1896. Taught catechism, and in 1905 became a teacher and rector of a diocesan college. During World War I the college served as a hospital, and Janez ministered to all the soldiers brought there for recovery, learning Hungarian to help the men who spoke it.

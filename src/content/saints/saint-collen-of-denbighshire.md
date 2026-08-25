@@ -1,14 +1,17 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Collen of Denbighshire"
+name: Saint Collen of Denbighshire
 honorific: Saint
-summary: "Monk in Wales, Brittany and Cornwall. Believed to have travelled to Rome, Italy. Lived as a hermit in a small cave near Glastonbury Abbey. Abbot of a monastery in Wales. The Welsh town of Llangollen (Collen's enclosure), Clwd is named for him, indicating that it formed around his"
+summary: >-
+  Monk in Wales, Brittany and Cornwall. Believed to have travelled to Rome, Italy. Lived as a hermit in a small cave
+  near Glastonbury Abbey. Abbot of a monastery in Wales. The Welsh town of Llangollen (Collen's enclosure), Clwd is
+  named for him, indicating that it formed around his
 searchAliases:
-  - "Colan"
-  - "Gollen"
+  - Colan
+  - Gollen
 birthYear: 600
-born: "c.600 in Wales"
-region: "Italy"
+born: c.600 in Wales
+region: Italy
 feastDay:
   month: 5
   day: 21
@@ -17,6 +20,7 @@ vocation:
   - Monk
   - Hermit
 martyr: false
+prayers: []
 ---
 
 Monk in Wales, Brittany and Cornwall. Believed to have travelled to Rome, Italy. Lived as a hermit in a small cave near Glastonbury Abbey. Abbot of a monastery in Wales. The Welsh town of Llangollen (Collen's enclosure), Clwd is named for him, indicating that it formed around his hermitage and church.

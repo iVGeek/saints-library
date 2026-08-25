@@ -25,6 +25,7 @@ vocation:
   - Bishop
   - Soldier
 martyr: true
+prayers: []
 ---
 
 Soldier martyr.

@@ -1,18 +1,20 @@
 ---
-name: "Saint Joannes Lenaerts"
+name: Saint Joannes Lenaerts
 honorific: Saint
-summary: "Augustinian at Briel. Spiritual director of and confessor to a community of Augustinian nuns at Gorkum, Netherlands. One of the Gorkum Martyrs."
-image: "http://catholicsaints.info/wp-content/uploads/Martyrs_de_Gorkum.jpg"
+summary: >-
+  Augustinian at Briel. Spiritual director of and confessor to a community of Augustinian nuns at Gorkum, Netherlands.
+  One of the Gorkum Martyrs.
+image: http://catholicsaints.info/wp-content/uploads/Martyrs_de_Gorkum.jpg
 searchAliases:
-  - "Jan Lenaerts"
-  - "Joannes Lenaerts"
-  - "John of Oisterwijk"
-  - "John of Osterwick"
+  - Jan Lenaerts
+  - Joannes Lenaerts
+  - John of Oisterwijk
+  - John of Osterwick
 deathYear: 1572
-born: "Netherlands"
-died: "hanged in 1572 at Gorkum, Netherlands"
-deathPlace: "Netherlands"
-region: "Netherlands"
+born: Netherlands
+died: hanged in 1572 at Gorkum, Netherlands
+deathPlace: Netherlands
+region: Netherlands
 feastDay:
   month: 7
   day: 9
@@ -20,8 +22,9 @@ canonizationStatus: Saint
 vocation:
   - Religious
   - Confessor
-religiousOrder: "Augustinian"
+religiousOrder: Augustinian
 martyr: true
+prayers: []
 ---
 
 Augustinian at Briel. Spiritual director of and confessor to a community of Augustinian nuns at Gorkum, Netherlands. One of the Gorkum Martyrs.

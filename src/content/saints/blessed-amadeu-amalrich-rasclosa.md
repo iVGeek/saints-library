@@ -1,15 +1,15 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Amadeu Amalrich Rasclosa"
+name: Blessed Amadeu Amalrich Rasclosa
 honorific: Blessed
-summary: "Member of the Claretians, professed on 15 August 1928. Martyred in the Spanish Civil War."
+summary: Member of the Claretians, professed on 15 August 1928. Martyred in the Spanish Civil War.
 birthYear: 1912
 deathYear: 1936
-born: "28 April 1912 in Celrá, Girona, Spain"
-died: "shot on 26 July 1936 in Lleida, Spain"
-birthPlace: "Girona, Spain"
-deathPlace: "Spain"
-region: "Spain"
+born: 28 April 1912 in Celrá, Girona, Spain
+died: shot on 26 July 1936 in Lleida, Spain
+birthPlace: Girona, Spain
+deathPlace: Spain
+region: Spain
 feastDay:
   month: 7
   day: 26
@@ -18,6 +18,7 @@ vocation:
   - Bishop
   - Cardinal
 martyr: true
+prayers: []
 ---
 
 Member of the Claretians, professed on 15 August 1928. Martyred in the Spanish Civil War.

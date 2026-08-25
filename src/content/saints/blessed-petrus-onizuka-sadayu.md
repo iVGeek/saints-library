@@ -1,23 +1,24 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Petrus Onizuka Sadayu"
+name: Blessed Petrus Onizuka Sadayu
 honorific: Blessed
-summary: "Convert to Christianity. Jesuit postulant. Catechist. Worked with Blessed Paul Navarro, and martyred with him."
+summary: Convert to Christianity. Jesuit postulant. Catechist. Worked with Blessed Paul Navarro, and martyred with him.
 searchAliases:
-  - "Peter Onizuko"
+  - Peter Onizuko
 deathYear: 1622
-born: "Arima, Japan"
-died: "burned alive on 1 November 1622 at Shimabara, Nagasaki, Japan"
-birthPlace: "Japan"
-deathPlace: "Nagasaki, Japan"
-region: "England"
+born: Arima, Japan
+died: burned alive on 1 November 1622 at Shimabara, Nagasaki, Japan
+birthPlace: Japan
+deathPlace: Nagasaki, Japan
+region: England
 feastDay:
   month: 11
   day: 1
 canonizationStatus: Blessed
 vocation: []
-religiousOrder: "Jesuit"
+religiousOrder: Jesuit
 martyr: true
+prayers: []
 ---
 
 Convert to Christianity. Jesuit postulant. Catechist. Worked with Blessed Paul Navarro, and martyred with him.

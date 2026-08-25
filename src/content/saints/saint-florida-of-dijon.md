@@ -1,14 +1,16 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Florida of Dijon"
+name: Saint Florida of Dijon
 honorific: Saint
-summary: "Young woman who may have been a nun, may have just lived very piously; records are unclear. May have been a martyr; records are unclear."
+summary: >-
+  Young woman who may have been a nun, may have just lived very piously; records are unclear. May have been a martyr;
+  records are unclear.
 searchAliases:
-  - "Floride"
+  - Floride
 deathYear: 180
-died: "c.180 in Dijon, Burgundy, France"
-deathPlace: "Burgundy, France"
-region: "France"
+died: c.180 in Dijon, Burgundy, France
+deathPlace: Burgundy, France
+region: France
 feastDay:
   month: 1
   day: 10
@@ -16,6 +18,7 @@ canonizationStatus: Saint
 vocation:
   - Religious
 martyr: true
+prayers: []
 ---
 
 Young woman who may have been a nun, may have just lived very piously; records are unclear. May have been a martyr; records are unclear.

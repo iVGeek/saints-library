@@ -1,19 +1,19 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Gerald of Fossanuova"
+name: Blessed Gerald of Fossanuova
 honorific: Blessed
-summary: "Cistercian monk at Fossanuova Abbey. Abbot of Fossanuova. Abbot of Clairvaux in 1170."
+summary: Cistercian monk at Fossanuova Abbey. Abbot of Fossanuova. Abbot of Clairvaux in 1170.
 searchAliases:
-  - "Gerald of Clairvaux"
-  - "Géraud…"
-  - "Geraldo…"
-  - "Geraldus…"
+  - Gerald of Clairvaux
+  - Géraud…
+  - Geraldo…
+  - Geraldus…
 deathYear: 1177
-born: "at Lombardy, Italy"
-died: "killed by an unruly brother monk in 1177 at Igny Abbey, Arcis-le-Ponsart, Marne, France"
-birthPlace: "Italy"
-deathPlace: "Arcis-le-Ponsart, Marne, France"
-region: "Italy"
+born: at Lombardy, Italy
+died: killed by an unruly brother monk in 1177 at Igny Abbey, Arcis-le-Ponsart, Marne, France
+birthPlace: Italy
+deathPlace: Arcis-le-Ponsart, Marne, France
+region: Italy
 feastDay:
   month: 10
   day: 16
@@ -21,6 +21,7 @@ canonizationStatus: Blessed
 vocation:
   - Monk
 martyr: false
+prayers: []
 ---
 
 Cistercian monk at Fossanuova Abbey. Abbot of Fossanuova. Abbot of Clairvaux in 1170.

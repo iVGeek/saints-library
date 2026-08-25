@@ -1,25 +1,26 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Clinius of Pontecorvo"
+name: Saint Clinius of Pontecorvo
 honorific: Saint
-summary: "Benedictine monk at Monte Cassino Abbey. Abbot of Saint Peter's abbey near Pontecorvo, Italy."
+summary: Benedictine monk at Monte Cassino Abbey. Abbot of Saint Peter's abbey near Pontecorvo, Italy.
 searchAliases:
-  - "Clino"
-  - "Clinio"
-born: "Greek"
-died: "relics at Pontecorvo, Italy"
-deathPlace: "Italy"
-region: "Italy"
+  - Clino
+  - Clinio
+born: Greek
+died: relics at Pontecorvo, Italy
+deathPlace: Italy
+region: Italy
 feastDay:
   month: 3
   day: 30
 canonizationStatus: Saint
 vocation:
   - Monk
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 patronage:
-  - "Esperia, Italy"
+  - Esperia, Italy
 martyr: false
+prayers: []
 ---
 
 Benedictine monk at Monte Cassino Abbey. Abbot of Saint Peter's abbey near Pontecorvo, Italy.

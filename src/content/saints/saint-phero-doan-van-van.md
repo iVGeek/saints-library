@@ -1,24 +1,29 @@
 ---
-name: "Saint Pherô Ðoàn Van Vân"
+name: Saint Pherô Ðoàn Van Vân
 honorific: Venerable
-summary: "Layman catechist in the apostolic vicariate of West Tonkin (modern Vietnam). Martyred in the persecutions of emperor Tu Duc."
-image: "http://catholicsaints.info/wp-content/gallery/martyrs-of-vietnam/martyrs-of-vietnam-01.jpg"
+summary: >-
+  Layman catechist in the apostolic vicariate of West Tonkin (modern Vietnam). Martyred in the persecutions of emperor
+  Tu Duc.
+image: http://catholicsaints.info/wp-content/gallery/martyrs-of-vietnam/martyrs-of-vietnam-01.jpg
 searchAliases:
-  - "Peter Doan Van Van"
+  - Peter Doan Van Van
 birthYear: 1780
 deathYear: 1857
-born: "c.1780 in Ke Bói, Hà Nam, Vietnam"
-died: "25 May 1857 in Son Tây, Ha Tay, Vietnam"
-birthPlace: "Hà Nam, Vietnam"
-deathPlace: "Ha Tay, Vietnam"
-region: "Vietnam"
+born: c.1780 in Ke Bói, Hà Nam, Vietnam
+died: 25 May 1857 in Son Tây, Ha Tay, Vietnam
+birthPlace: Hà Nam, Vietnam
+deathPlace: Ha Tay, Vietnam
+region: Vietnam
 feastDay:
   month: 5
   day: 25
-centuries: [18, 19]
+centuries:
+  - 18
+  - 19
 canonizationStatus: Venerable
 vocation: []
 martyr: true
+prayers: []
 ---
 
 Layman catechist in the apostolic vicariate of West Tonkin (modern Vietnam). Martyred in the persecutions of emperor Tu Duc.

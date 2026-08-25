@@ -1,14 +1,14 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Englatius"
+name: Saint Englatius
 honorific: Saint
-summary: "Bishop in the area of Tarves, Aberdeenshire, Scotland."
+summary: Bishop in the area of Tarves, Aberdeenshire, Scotland.
 searchAliases:
-  - "Englat"
-  - "Tanglen"
+  - Englat
+  - Tanglen
 deathYear: 966
-died: "966"
-region: "Scotland"
+died: '966'
+region: Scotland
 feastDay:
   month: 11
   day: 3
@@ -17,6 +17,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Bishop in the area of Tarves, Aberdeenshire, Scotland.

@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Cyrinus of Cyzicus"
+name: Saint Cyrinus of Cyzicus
 honorific: Saint
-summary: "Soldier in the Roman army. Martyred."
+summary: Soldier in the Roman army. Martyred.
 deathYear: 320
-died: "320 at Cyzicus on the Hellespont (part of modern Turkey)"
-region: "England"
+died: 320 at Cyzicus on the Hellespont (part of modern Turkey)
+region: England
 feastDay:
   month: 1
   day: 3
@@ -14,6 +14,7 @@ vocation:
   - Monk
   - Soldier
 martyr: true
+prayers: []
 ---
 
 Soldier in the Roman army. Martyred.

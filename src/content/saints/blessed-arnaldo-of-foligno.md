@@ -1,21 +1,22 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Arnaldo of Foligno"
+name: Blessed Arnaldo of Foligno
 honorific: Blessed
-summary: "Franciscan friar. Confessor, spiritual director and biographer of Blessed Angela of Foligno."
+summary: Franciscan friar. Confessor, spiritual director and biographer of Blessed Angela of Foligno.
 searchAliases:
-  - "Arnold"
+  - Arnold
 deathYear: 1313
-died: "1313"
-region: "Italy"
+died: '1313'
+region: Italy
 feastDay:
   month: 6
   day: 17
 canonizationStatus: Blessed
 vocation:
   - Confessor
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 martyr: false
+prayers: []
 ---
 
 Franciscan friar. Confessor, spiritual director and biographer of Blessed Angela of Foligno.

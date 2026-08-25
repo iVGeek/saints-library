@@ -23,6 +23,7 @@ vocation:
   - Religious
   - Cardinal
 martyr: false
+prayers: []
 ---
 
 Born to the French nobility. Nun. Founder of the Sisters of the Immaculate Conception of Castres who work for the education of poor girls and children, tend the sick, and serve as missionaries.

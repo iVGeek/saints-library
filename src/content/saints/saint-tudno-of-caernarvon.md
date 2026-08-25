@@ -1,10 +1,10 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Tudno of Caernarvon"
+name: Saint Tudno of Caernarvon
 honorific: Saint
-summary: "Llandudno in Wales is named after him. No other information has survived."
-died: "6th century"
-region: "England"
+summary: Llandudno in Wales is named after him. No other information has survived.
+died: 6th century
+region: England
 feastDay:
   month: 6
   day: 5
@@ -12,6 +12,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: false
+prayers: []
 ---
 
 Llandudno in Wales is named after him. No other information has survived.

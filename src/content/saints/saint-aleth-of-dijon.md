@@ -37,6 +37,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/c/cf/SaintMaloCath%C3%A9drale.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Aleth of Dijon
 imageCreditUrl: https://en.wikipedia.org/wiki/Ancient%20Diocese%20of%20Saint-Malo
+prayers: []
 ---
 
 Daughter of the lord of Montbard. Lay woman, married to a man named Tecolin. Mother of Saint Bernard of Clairvaux, Saint Humbeline of Jully, Blessed Gerard, and other holy children. She and her husband had a devotion to and built a chapel for Saint Ambrosinian of Armenia.

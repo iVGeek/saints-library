@@ -25,6 +25,7 @@ vocation:
 patronage:
   - prisoners
 martyr: false
+prayers: []
 ---
 
 Pious youth. Priest. Hermit with another priest named Pierre. The pair's reputation for holiness drew so many spiritual students that c.1134, with the approval of the bishop of Tulle, France, they founded a monastery composed of many small huts in the forest. The monks were noted for their severe austerity, and spent most of their time in prayer and study. Nearby at Coyroux they founded a convent for 150 nuns along similar lines.

@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Theodore of Bologna"
+name: Saint Theodore of Bologna
 honorific: Saint
-summary: "Bishop of Bologna, Italy for 20 years."
+summary: Bishop of Bologna, Italy for 20 years.
 deathYear: 550
-died: "c.550"
-region: "Italy"
+died: c.550
+region: Italy
 feastDay:
   month: 5
   day: 5
@@ -14,6 +14,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Bishop of Bologna, Italy for 20 years.

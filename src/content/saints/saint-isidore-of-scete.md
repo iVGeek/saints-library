@@ -1,11 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Isidore of Scété"
+name: Saint Isidore of Scété
 honorific: Saint
-summary: "Desert hermit. Priest of Scété, Egypt. Worked to bring angry or negligent brother desert monks back to proper devotion."
+summary: >-
+  Desert hermit. Priest of Scété, Egypt. Worked to bring angry or negligent brother desert monks back to proper
+  devotion.
 deathYear: 394
-died: "c.394"
-region: "Egypt"
+died: c.394
+region: Egypt
 feastDay:
   month: 1
   day: 15
@@ -15,6 +17,7 @@ vocation:
   - Monk
   - Hermit
 martyr: false
+prayers: []
 ---
 
 Desert hermit. Priest of Scété, Egypt. Worked to bring angry or negligent brother desert monks back to proper devotion.

@@ -17,6 +17,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/a/ab/Trier_Sankt_Paulin_BW_12.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Martyrs of Trier
 imageCreditUrl: https://en.wikipedia.org/wiki/Palmatius
+prayers: []
 ---
 
 Commemorates the large number of martyrs who died in Trier, Germany in the persecutions of Diocletian.

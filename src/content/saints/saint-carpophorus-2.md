@@ -18,6 +18,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/e/e0/FirenzeOrsanmichele03.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Carpophorus
 imageCreditUrl: https://en.wikipedia.org/wiki/Four%20Crowned%20Martyrs
+prayers: []
 ---
 
 Martyred in the persecutions of Diocletian.

@@ -1,9 +1,9 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Cuniald"
+name: Saint Cuniald
 honorific: Saint
-summary: "Seventh century confessor of the faith. No details about him have survived."
-region: "England"
+summary: Seventh century confessor of the faith. No details about him have survived.
+region: England
 feastDay:
   month: 6
   day: 12
@@ -12,6 +12,7 @@ vocation:
   - Monk
   - Confessor
 martyr: false
+prayers: []
 ---
 
 Seventh century confessor of the faith. No details about him have survived.

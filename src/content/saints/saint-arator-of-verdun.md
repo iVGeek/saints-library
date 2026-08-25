@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Arator of Verdun"
+name: Saint Arator of Verdun
 honorific: Saint
-summary: "Fourth bishop of Verdun, France."
+summary: Fourth bishop of Verdun, France.
 deathYear: 460
-died: "c.460"
-region: "France"
+died: c.460
+region: France
 feastDay:
   month: 9
   day: 6
@@ -14,6 +14,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Fourth bishop of Verdun, France.

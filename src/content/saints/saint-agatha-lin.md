@@ -22,6 +22,7 @@ canonizationStatus: Saint
 vocation:
   - Virgin
 martyr: true
+prayers: []
 ---
 
 Lay woman. Teacher in a Christian school. Catechist. One of the Martyrs of China.

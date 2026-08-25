@@ -1,15 +1,15 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Justo Fernández González"
+name: Blessed Justo Fernández González
 honorific: Blessed
-summary: "Professed cleric in the Missionary Oblates of Mary Immaculate. Martyred in the Spanish Civil War."
+summary: Professed cleric in the Missionary Oblates of Mary Immaculate. Martyred in the Spanish Civil War.
 birthYear: 1916
 deathYear: 1936
-born: "2 November 1916 in Huelde, León, Spain"
-died: "shot on 28 November 1936 in Paracuellos de Jarama, Madrid, Spain"
-birthPlace: "León, Spain"
-deathPlace: "Madrid, Spain"
-region: "Spain"
+born: 2 November 1916 in Huelde, León, Spain
+died: shot on 28 November 1936 in Paracuellos de Jarama, Madrid, Spain
+birthPlace: León, Spain
+deathPlace: Madrid, Spain
+region: Spain
 feastDay:
   month: 11
   day: 28
@@ -17,6 +17,7 @@ canonizationStatus: Blessed
 vocation:
   - Missionary
 martyr: true
+prayers: []
 ---
 
 Professed cleric in the Missionary Oblates of Mary Immaculate. Martyred in the Spanish Civil War.

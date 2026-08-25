@@ -1,12 +1,14 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Thecla of Hadrumetum"
+name: Saint Thecla of Hadrumetum
 honorific: Saint
-summary: "Married to Saint Boniface of Hadrumetum. Mother of the Twelve Holy Brothers. Martyred in the persecutions of Maximian Herculeaus."
+summary: >-
+  Married to Saint Boniface of Hadrumetum. Mother of the Twelve Holy Brothers. Martyred in the persecutions of Maximian
+  Herculeaus.
 deathYear: 250
-died: "c.250 in Hadrumetum, North Africa (modern Soussa, Tunisia)"
-deathPlace: "North Africa (modern Soussa, Tunisia)"
-region: "Italy"
+died: c.250 in Hadrumetum, North Africa (modern Soussa, Tunisia)
+deathPlace: North Africa (modern Soussa, Tunisia)
+region: Italy
 feastDay:
   month: 8
   day: 30
@@ -15,6 +17,7 @@ vocation:
   - Priest
   - Monk
 martyr: true
+prayers: []
 ---
 
 Married to Saint Boniface of Hadrumetum. Mother of the Twelve Holy Brothers. Martyred in the persecutions of Maximian Herculeaus.

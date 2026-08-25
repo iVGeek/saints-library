@@ -1,10 +1,10 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Milles of Persia"
+name: Saint Milles of Persia
 honorific: Saint
-summary: "Bishop in Persia. Martyred in the persecutions of King Sapor II."
+summary: Bishop in Persia. Martyred in the persecutions of King Sapor II.
 deathYear: 360
-died: "c.360 in Persia"
+died: c.360 in Persia
 feastDay:
   month: 4
   day: 22
@@ -14,6 +14,7 @@ vocation:
   - Priest
   - Deacon
 martyr: true
+prayers: []
 ---
 
 Bishop in Persia. Martyred in the persecutions of King Sapor II.

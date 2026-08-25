@@ -1,21 +1,25 @@
 ---
-name: "Blessed Bonizzella Cacciaconti"
+name: Blessed Bonizzella Cacciaconti
 honorific: Blessed
-summary: "Born to the Italian nobility, the daughter of Ildebrandino Cacciaconti. Married to Naddo di Benuccio Piccolomini, a rich nobleman from Corsignano, Italy. Widowed, she withdrew from worldly life to her home in Belsedere, Italy, and went out each day to care for the poor and encour"
-image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Bonizzella-Cacciaconti.jpg"
+summary: >-
+  Born to the Italian nobility, the daughter of Ildebrandino Cacciaconti. Married to Naddo di Benuccio Piccolomini, a
+  rich nobleman from Corsignano, Italy. Widowed, she withdrew from worldly life to her home in Belsedere, Italy, and
+  went out each day to care for the poor and encour
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Bonizzella-Cacciaconti.jpg
 searchAliases:
-  - "Bonizella Piccolomini"
+  - Bonizella Piccolomini
 birthYear: 1230
-born: "c.1230 in modern Italy"
-died: "buried in the church of Saints Peter and Andrew in Trequanda, Italy"
-deathPlace: "Italy"
-region: "Italy"
+born: c.1230 in modern Italy
+died: buried in the church of Saints Peter and Andrew in Trequanda, Italy
+deathPlace: Italy
+region: Italy
 feastDay:
   month: 5
   day: 6
 canonizationStatus: Blessed
 vocation: []
 martyr: false
+prayers: []
 ---
 
 Born to the Italian nobility, the daughter of Ildebrandino Cacciaconti. Married to Naddo di Benuccio Piccolomini, a rich nobleman from Corsignano, Italy. Widowed, she withdrew from worldly life to her home in Belsedere, Italy, and went out each day to care for the poor and encourage the faith in the people in the countryside. By the time of her death, she had spent herself into poverty caring for her neighbors.

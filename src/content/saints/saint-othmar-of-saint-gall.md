@@ -1,17 +1,20 @@
 ---
-name: "Saint Othmar of Saint Gall"
+name: Saint Othmar of Saint Gall
 honorific: Saint
-summary: "Educated in the ancient provice Rhaetia, an area in modern Switzerland and Germany. Priest, assigned to the parish of Saint Peter in Rhaetia, probably the same church in at Remüs (modern Ramosch) where Saint Florinus worked and was buried. Appointed abbot at Saint Gall, Switzerla"
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Othmar-of-Saint-Gall.jpg"
+summary: >-
+  Educated in the ancient provice Rhaetia, an area in modern Switzerland and Germany. Priest, assigned to the parish of
+  Saint Peter in Rhaetia, probably the same church in at Remüs (modern Ramosch) where Saint Florinus worked and was
+  buried. Appointed abbot at Saint Gall, Switzerla
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Othmar-of-Saint-Gall.jpg
 searchAliases:
-  - "Audemar"
-  - "Audomar"
-  - "Otmar"
-  - "Otmaro"
+  - Audemar
+  - Audomar
+  - Otmar
+  - Otmaro
 deathYear: 759
-died: "16 November 759 at Werd-on-the-Rhine, near Echnez, Switzerland"
-deathPlace: "near Echnez, Switzerland"
-region: "Germany"
+died: 16 November 759 at Werd-on-the-Rhine, near Echnez, Switzerland
+deathPlace: near Echnez, Switzerland
+region: Germany
 feastDay:
   month: 11
   day: 16
@@ -19,12 +22,13 @@ canonizationStatus: Saint
 vocation:
   - Priest
   - Monk
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 patronage:
-  - "against slander"
-  - "–"
-  - "St Gallen, Switzerland"
+  - against slander
+  - –
+  - St Gallen, Switzerland
 martyr: false
+prayers: []
 ---
 
 Educated in the ancient provice Rhaetia, an area in modern Switzerland and Germany. Priest, assigned to the parish of Saint Peter in Rhaetia, probably the same church in at Remüs (modern Ramosch) where Saint Florinus worked and was buried. Appointed abbot at Saint Gall, Switzerland in 720, and united the area monks into a monastery under the rule of Saint Columban. As abbot, he added a hospital and school, and changed the monastery's rule to Benedictine. Legend says that when Othmar fed the poor from a barrel of provisions, it never became empty, no matter how much he took from it.

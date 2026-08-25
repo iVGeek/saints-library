@@ -1,19 +1,20 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Faciolus"
+name: Saint Faciolus
 honorific: Saint
-summary: "Benedictine monk of Saint Cyprian abbey, Poitiers, France."
+summary: Benedictine monk of Saint Cyprian abbey, Poitiers, France.
 deathYear: 950
-died: "c.950 of natural causes"
-region: "France"
+died: c.950 of natural causes
+region: France
 feastDay:
   month: 9
   day: 7
 canonizationStatus: Saint
 vocation:
   - Monk
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 martyr: false
+prayers: []
 ---
 
 Benedictine monk of Saint Cyprian abbey, Poitiers, France.

@@ -1,16 +1,16 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Adheritus"
+name: Saint Adheritus
 honorific: Saint
-summary: "Priest. Bishop of Ravenna, Italy."
+summary: Priest. Bishop of Ravenna, Italy.
 searchAliases:
-  - "Adhentus"
-  - "Abderitus"
-  - "Adery"
-born: "Greek"
-died: "2nd century in Ravenna, Italy of natural causes"
-deathPlace: "Italynatural causes"
-region: "Italy"
+  - Adhentus
+  - Abderitus
+  - Adery
+born: Greek
+died: 2nd century in Ravenna, Italy of natural causes
+deathPlace: Italynatural causes
+region: Italy
 feastDay:
   month: 9
   day: 27
@@ -19,8 +19,9 @@ vocation:
   - Bishop
   - Priest
   - Monk
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 martyr: false
+prayers: []
 ---
 
 Priest. Bishop of Ravenna, Italy.

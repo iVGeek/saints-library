@@ -1,27 +1,28 @@
 ---
-name: "Saint Joseph Benedict Cottolengo"
+name: Saint Joseph Benedict Cottolengo
 honorific: Saint
-summary: " For several years, Joseph treate Born to a middle class family. Studied at the seminary in Turin, Italy. Ordained in 1811. Parish priest in Bra and Corneliano d'Alba. Doctor of Divinity. Joined the Order of the Corpus Christi in Turin. Canon of the Church of the Trinity in Turin."
-image: "http://catholicsaints.info/wp-content/uploads/img-Giuseppe-Benedetto-Cottolengo.jpg"
+summary: ' For several years, Joseph treate Born to a middle class family. Studied at the seminary in Turin, Italy. Ordained in 1811. Parish priest in Bra and Corneliano d''Alba. Doctor of Divinity. Joined the Order of the Corpus Christi in Turin. Canon of the Church of the Trinity in Turin.'
+image: http://catholicsaints.info/wp-content/uploads/img-Giuseppe-Benedetto-Cottolengo.jpg
 searchAliases:
-  - "Giuseppe Benedetto Cottolengo"
-  - "Italian Vincent de Paul"
-  - "Workman of Divine Providence"
+  - Giuseppe Benedetto Cottolengo
+  - Italian Vincent de Paul
+  - Workman of Divine Providence
 birthYear: 1786
 deathYear: 1842
-born: "3 May 1786 at Bra, Cuneo, Piedmont region, Italy"
-died: "30 April 1842 of typhus at Chieri, Turin, Italy"
-birthPlace: "Cuneo, Piedmont region, Italy"
-deathPlace: "Turin, Italy"
-region: "France"
+born: 3 May 1786 at Bra, Cuneo, Piedmont region, Italy
+died: 30 April 1842 of typhus at Chieri, Turin, Italy
+birthPlace: Cuneo, Piedmont region, Italy
+deathPlace: Turin, Italy
+region: France
 feastDay:
   month: 4
   day: 30
 canonizationStatus: Saint
 vocation:
   - Confessor
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 martyr: false
+prayers: []
 ---
 
 Born to a middle class family. Studied at the seminary in Turin, Italy. Ordained in 1811. Parish priest in Bra and Corneliano d'Alba. Doctor of Divinity. Joined the Order of the Corpus Christi in Turin. Canon of the Church of the Trinity in Turin.

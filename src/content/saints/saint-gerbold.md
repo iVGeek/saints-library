@@ -1,13 +1,15 @@
 ---
-name: "Saint Gerbold of Bayeux"
+name: Saint Gerbold of Bayeux
 honorific: Saint
-summary: "Benedictine monk at Ebriciacum (in modern France). Founder and abbot of the abbey of Livray, France. Bishop of Bayeux, France."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Gerbold-of-Bayeux.jpg"
+summary: >-
+  Benedictine monk at Ebriciacum (in modern France). Founder and abbot of the abbey of Livray, France. Bishop of Bayeux,
+  France.
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Gerbold-of-Bayeux.jpg
 searchAliases:
-  - "Gereboldus"
+  - Gereboldus
 deathYear: 690
-died: "c.690 of natural causes"
-region: "France"
+died: c.690 of natural causes
+region: France
 feastDay:
   month: 12
   day: 5
@@ -15,11 +17,12 @@ canonizationStatus: Saint
 vocation:
   - Bishop
   - Monk
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 patronage:
-  - "against dysentery"
-  - "against headaches"
+  - against dysentery
+  - against headaches
 martyr: false
+prayers: []
 ---
 
 Benedictine monk at Ebriciacum (in modern France). Founder and abbot of the abbey of Livray, France. Bishop of Bayeux, France.

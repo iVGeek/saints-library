@@ -29,6 +29,7 @@ image: >-
 imageAlt: Portrait of Saint Caldeoldus of Vienne
 imageCredit: <span class="int-own-work" lang="en">Own work</span>
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:Vienne%20Saint%20Maurice%2028%2007%202011%2002%20Feuille.jpg
+prayers: []
 ---
 
 Archbishop of Vienne, France from 653 to 664. Promoted monasticism in his diocese.

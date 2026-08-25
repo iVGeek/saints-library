@@ -21,6 +21,7 @@ vocation:
   - Priest
   - Missionary
 martyr: false
+prayers: []
 ---
 
 Sent with Saint Mydwyn by King Saint Lucius to Pope Saint Eleuterus to petition for missionaries to Britain, then returned to work as a missionary himself. Bishop.

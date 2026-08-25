@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Paschasius of Rome"
+name: Saint Paschasius of Rome
 honorific: Saint
-summary: "Deacon in Rome, Italy. Wrote on theology."
+summary: Deacon in Rome, Italy. Wrote on theology.
 deathYear: 512
-died: "c.512"
-region: "Italy"
+died: c.512
+region: Italy
 feastDay:
   month: 5
   day: 31
@@ -14,6 +14,7 @@ vocation:
   - Monk
   - Deacon
 martyr: false
+prayers: []
 ---
 
 Deacon in Rome, Italy. Wrote on theology.

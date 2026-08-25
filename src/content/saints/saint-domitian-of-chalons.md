@@ -1,9 +1,9 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Domitian of Châlons"
+name: Saint Domitian of Châlons
 honorific: Saint
-summary: "Fourth-century bishop of Châlons-sur-Marne, France."
-region: "France"
+summary: Fourth-century bishop of Châlons-sur-Marne, France.
+region: France
 feastDay:
   month: 8
   day: 9
@@ -12,6 +12,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Fourth-century bishop of Châlons-sur-Marne, France.

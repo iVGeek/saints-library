@@ -26,6 +26,7 @@ patronage:
   - Novara, Italy, city of
   - Novara, Italy, diocese of
 martyr: false
+prayers: []
 ---
 
 Convert. Priest at Ivrea near Turin, Italy. Friend of Saint Laurence of Novara, Saint Eusebius of Vercelli and Saint Ambrose of Milan. Bishop of Novara, Italy from 398 until his death, serving for nearly 20 years. Legend says that after his death, the corpse began repeating sermons Gaudentius had given so that his priests could write them down and continue to use them.

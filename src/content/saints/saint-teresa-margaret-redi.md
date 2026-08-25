@@ -1,29 +1,30 @@
 ---
-name: "Saint Teresa Margaret Redi"
+name: Saint Teresa Margaret Redi
 honorific: Saint
-summary: " Educated at the Saint Apollonia convent at Florence, Italy from age nine. A gentl Born to the Tuscan nobility, the daughter of Count Ignatius Redi and Camilla Billeti. Pious child who saw God in all things, and who was confused to learn that not everyone knew that God loved them."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Teresa-Margaret-Redi.jpg"
+summary: ' Educated at the Saint Apollonia convent at Florence, Italy from age nine. A gentl Born to the Tuscan nobility, the daughter of Count Ignatius Redi and Camilla Billeti. Pious child who saw God in all things, and who was confused to learn that not everyone knew that God loved them.'
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Teresa-Margaret-Redi.jpg
 searchAliases:
-  - "Ann Maria Redi"
-  - "Anna Maria Redi"
-  - "Anne Mary Redi"
-  - "Teresa Margaret of the Sacred Heart"
-  - "Teresa Margherita Redi of the Sacred Heart"
+  - Ann Maria Redi
+  - Anna Maria Redi
+  - Anne Mary Redi
+  - Teresa Margaret of the Sacred Heart
+  - Teresa Margherita Redi of the Sacred Heart
 birthYear: 1747
 deathYear: 1770
-born: "15 July 1747 at Arezzo, Tuscany, Italy as Anna Maria Redi"
-died: "7 March 1770 at Florence, Italy of a severe and painful abdominal disorder"
-birthPlace: "Tuscany, Italy as Anna Maria Redi"
-deathPlace: "Italya severe and painful abdominal disorder"
-region: "Italy"
+born: 15 July 1747 at Arezzo, Tuscany, Italy as Anna Maria Redi
+died: 7 March 1770 at Florence, Italy of a severe and painful abdominal disorder
+birthPlace: Tuscany, Italy as Anna Maria Redi
+deathPlace: Italya severe and painful abdominal disorder
+region: Italy
 feastDay:
   month: 3
   day: 7
 canonizationStatus: Saint
 vocation:
   - Confessor
-religiousOrder: "Carmelite"
+religiousOrder: Carmelite
 martyr: false
+prayers: []
 ---
 
 Born to the Tuscan nobility, the daughter of Count Ignatius Redi and Camilla Billeti. Pious child who saw God in all things, and who was confused to learn that not everyone knew that God loved them.

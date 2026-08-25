@@ -27,6 +27,7 @@ patronage:
     Anversa degli Abruzzi
   - Montemarzo di Asti
 martyr: true
+prayers: []
 ---
 
 Nothing of his life before the papacy has survived the centuries. Pope at the end of the persecutions of Diocletian; the persecutions had so disrupted the Church that there had been a gap of over a year with no Pope. Faced reconsituting the clergy which had been decimated and whose remnant had practiced their vocation covertly and with the expectation of martyrdom. Worked to recover and welcome back those who had denied the faith to keep from being murdered.

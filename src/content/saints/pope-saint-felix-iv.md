@@ -21,6 +21,7 @@ vocation:
   - Monk
   - Cardinal
 martyr: false
+prayers: []
 ---
 
 Son of Castorius; nothing else is known of his early life. Chosen 54th pope at the insistence of Theodoric, king of the Goths. Secured confirmation of the exemption of clerics from civil law, obtained structures for use as churches, and generally used his favored status with Theodoric to benefit the Church. Opposed semi-Pelagianism, writing to settle Church teachings on grace and free will, and approving the work of Saint Caesarius of Arles on the topics. He tried to designate his successor, but civil authorities and many cardinals rebelled at the idea.

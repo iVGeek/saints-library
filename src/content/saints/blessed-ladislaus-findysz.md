@@ -1,17 +1,20 @@
 ---
-name: "Blessed Ladislaus Findysz"
+name: Blessed Ladislaus Findysz
 honorific: Blessed
-summary: "Born to pious peasants, the son of Stanislaus Findysz and Apollonia Rachwal. Received his early education from the Felician Sisters. Joined the Marian Solidality as a young student. Entered the major seminary in Przemysl in the autumn of 1927. Spiritual student of Blessed John Ba"
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Ladislaus-Findysz.jpg"
+summary: >-
+  Born to pious peasants, the son of Stanislaus Findysz and Apollonia Rachwal. Received his early education from the
+  Felician Sisters. Joined the Marian Solidality as a young student. Entered the major seminary in Przemysl in the
+  autumn of 1927. Spiritual student of Blessed John Ba
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Ladislaus-Findysz.jpg
 searchAliases:
-  - "Wladyslaw Findysz"
+  - Wladyslaw Findysz
 birthYear: 1907
 deathYear: 1964
-born: "13 December 1907 in Kroscienko Nizne, near Krosno, Poland"
-died: "morning of 21 August 1964 of cancer of the esophagus in the presbytery of Nowy Zmigr&oacute;d, Poland"
-birthPlace: "near Krosno, Poland"
-deathPlace: "Poland"
-region: "Poland"
+born: 13 December 1907 in Kroscienko Nizne, near Krosno, Poland
+died: morning of 21 August 1964 of cancer of the esophagus in the presbytery of Nowy Zmigr&oacute;d, Poland
+birthPlace: near Krosno, Poland
+deathPlace: Poland
+region: Poland
 feastDay:
   month: 8
   day: 21
@@ -21,6 +24,7 @@ vocation:
   - Religious
   - Cardinal
 martyr: true
+prayers: []
 ---
 
 Born to pious peasants, the son of Stanislaus Findysz and Apollonia Rachwal. Received his early education from the Felician Sisters. Joined the Marian Solidality as a young student. Entered the major seminary in Przemysl in the autumn of 1927. Spiritual student of Blessed John Balicki. Ordained on 19 June 1932.

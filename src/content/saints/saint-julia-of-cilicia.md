@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Julia of Cilicia"
+name: Saint Julia of Cilicia
 honorific: Saint
-summary: "Martyr. No other information has survived."
-died: "in Cilicia, Asia Minor (in modern Turkey), date unknown"
-deathPlace: "Asia Minor (modern Turkey), date unknown"
-region: "Turkey"
+summary: Martyr. No other information has survived.
+died: in Cilicia, Asia Minor (in modern Turkey), date unknown
+deathPlace: Asia Minor (modern Turkey), date unknown
+region: Turkey
 feastDay:
   month: 6
   day: 4
@@ -13,6 +13,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Martyr. No other information has survived.

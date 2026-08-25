@@ -1,14 +1,14 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Valentin II of Terni"
+name: Saint Valentin II of Terni
 honorific: Saint
-summary: "Bishop of Terni, Italy in 494, consecrated by Pope Gelasius I; he served from 39 years."
+summary: Bishop of Terni, Italy in 494, consecrated by Pope Gelasius I; he served from 39 years.
 searchAliases:
-  - "Valentine"
+  - Valentine
 deathYear: 533
-died: "533 in Interamna (modern Terni), Italy"
-deathPlace: "Italy"
-region: "Italy"
+died: 533 in Interamna (modern Terni), Italy
+deathPlace: Italy
+region: Italy
 feastDay:
   month: 1
   day: 7
@@ -17,6 +17,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Bishop of Terni, Italy in 494, consecrated by Pope Gelasius I; he served from 39 years.

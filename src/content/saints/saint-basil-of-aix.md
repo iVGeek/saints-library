@@ -20,6 +20,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/6/6a/Aix-Notre-Dame_de_la_Seds-bjs180816-03.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Basil of Aix
 imageCreditUrl: https://en.wikipedia.org/wiki/Maximinus%20of%20Aix
+prayers: []
 ---
 
 Priest at Arles, France. Bishop of Aix, Provence, France. Known for his exceptional sanctity, his work in his diocese, and as a miracle worker.

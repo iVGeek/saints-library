@@ -15,6 +15,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/b/b5/MonteCassino_Abbey.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Apollinaris of Monte Cassino
 imageCreditUrl: https://en.wikipedia.org/wiki/Monte%20Cassino
+prayers: []
 ---
 
 Abbot of Monte Cassino Abbey for eleven years.

@@ -21,6 +21,7 @@ vocation:
 patronage:
   - Fiano Romano, Italy
 martyr: true
+prayers: []
 ---
 
 Son of Jovius; little else known of his early life. Archdeacon under Pope Lucius I. Elected 23rd pope in 254. Explicitly proclaimed the primacy of the diocese of Rome in matters of theology, and the current understanding of Christ's statement to Saint Peter: “You are Peter, and upon this rock I will build My Church.” He condemned the Carthaginian practice of re-baptizing heretics, and accepted baptisms performed by heretics when the convert had acted in good faith; he corrected Saint Cyprian's thinking on the matter. Ordered that there be special clothing (vestments) for use in liturgy, that priests not conduct Mass in street clothes, and not wear their vestments into the streets. Often listed as a martyr in old records, but modern scholarship has found no evidence of it.

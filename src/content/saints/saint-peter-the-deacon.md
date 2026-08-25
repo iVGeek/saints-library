@@ -1,12 +1,14 @@
 ---
-name: "Saint Peter the Deacon"
+name: Saint Peter the Deacon
 honorific: Saint
-summary: "Benedictine monk, sub-deacon in Sicily, deacon in Rome. Friend, spiritual student and secretary to Pope Saint Gregory the Great; Gregory dictated four books of the Dialogues to Peter."
-image: "https://upload.wikimedia.org/wikipedia/commons/9/99/Peter_the_Deacon.jpg"
+summary: >-
+  Benedictine monk, sub-deacon in Sicily, deacon in Rome. Friend, spiritual student and secretary to Pope Saint Gregory
+  the Great; Gregory dictated four books of the Dialogues to Peter.
+image: https://upload.wikimedia.org/wikipedia/commons/9/99/Peter_the_Deacon.jpg
 searchAliases:
-  - "Peter Levita"
-born: "6th century"
-region: "Italy"
+  - Peter Levita
+born: 6th century
+region: Italy
 feastDay:
   month: 3
   day: 12
@@ -14,10 +16,11 @@ canonizationStatus: Saint
 vocation:
   - Monk
   - Deacon
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 patronage:
-  - "Salassola, Italy"
+  - Salassola, Italy
 martyr: false
+prayers: []
 ---
 
 Benedictine monk, sub-deacon in Sicily, deacon in Rome. Friend, spiritual student and secretary to Pope Saint Gregory the Great; Gregory dictated four books of the Dialogues to Peter.

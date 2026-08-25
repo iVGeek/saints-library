@@ -1,19 +1,19 @@
 ---
-name: "Saint Bernadine of Siena"
+name: Saint Bernadine of Siena
 honorific: Saint
-summary: " Bernardino's charismatic preaching filled the Franciscan Friar Minor. Priest. Itinerant preacher. Theological writer. His preaching skills were so great, and the conversions so numerous, that he has become associated with all areas of speaking, advertising, public relations, etc."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Bernadine-of-Siena.jpg"
+summary: ' Bernardino''s charismatic preaching filled the Franciscan Friar Minor. Priest. Itinerant preacher. Theological writer. His preaching skills were so great, and the conversions so numerous, that he has become associated with all areas of speaking, advertising, public relations, etc.'
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Bernadine-of-Siena.jpg
 searchAliases:
-  - "Bernadino"
-  - "Bernardine"
-  - "Bernardino"
+  - Bernadino
+  - Bernardine
+  - Bernardino
 birthYear: 1380
 deathYear: 1444
-born: "1380 at Massa di Carrara, Italy"
-died: "1444 at Aquila, Italy of natural causes"
-birthPlace: "Italy"
-deathPlace: "Italynatural causes"
-region: "Italy"
+born: 1380 at Massa di Carrara, Italy
+died: 1444 at Aquila, Italy of natural causes
+birthPlace: Italy
+deathPlace: Italynatural causes
+region: Italy
 feastDay:
   month: 5
   day: 20
@@ -22,38 +22,44 @@ vocation:
   - Bishop
   - Priest
   - Confessor
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 patronage:
-  - "against hoarseness"
-  - "against respiratory, breathing and/or lung problems"
-  - "against uncontrolled gambling"
-  - "lungs"
-  - "advertisers (proclaimed on 19 October 1956 by Pope Pius XII for those in Italy; and on 20 May 1960 by Pope John XXIII for those in France)"
-  - "advertising"
-  - "communications personnel"
-  - "compulsive gambling"
-  - "gambling addicts"
-  - "preachers"
-  - "public relations personnel (proclaimed on 20 May 1960 by Pope John XXIII)"
-  - "public relations work"
-  - "Sienese wool weavers"
-  - "weavers"
-  - "—"
-  - "Italy"
-  - "San Bernardino, California, diocese of"
-  - "Carpi, Italy, diocese of"
-  - "in Italy\n\nAltavilla Irpina"
-  - "Aquila"
-  - "Camaiore"
-  - "Carpi"
-  - "Cartoceto"
-  - "Castelspina, Alessandria"
-  - "Lucrezia, Cartoceto"
-  - "Montecchio"
-  - "Siena"
-  - "Trevignano Romano"
-  - "Venice"
+  - against hoarseness
+  - against respiratory, breathing and/or lung problems
+  - against uncontrolled gambling
+  - lungs
+  - >-
+    advertisers (proclaimed on 19 October 1956 by Pope Pius XII for those in Italy; and on 20 May 1960 by Pope John
+    XXIII for those in France)
+  - advertising
+  - communications personnel
+  - compulsive gambling
+  - gambling addicts
+  - preachers
+  - public relations personnel (proclaimed on 20 May 1960 by Pope John XXIII)
+  - public relations work
+  - Sienese wool weavers
+  - weavers
+  - —
+  - Italy
+  - San Bernardino, California, diocese of
+  - Carpi, Italy, diocese of
+  - |-
+    in Italy
+
+    Altavilla Irpina
+  - Aquila
+  - Camaiore
+  - Carpi
+  - Cartoceto
+  - Castelspina, Alessandria
+  - Lucrezia, Cartoceto
+  - Montecchio
+  - Siena
+  - Trevignano Romano
+  - Venice
 martyr: false
+prayers: []
 ---
 
 Franciscan Friar Minor. Priest. Itinerant preacher. Theological writer. His preaching skills were so great, and the conversions so numerous, that he has become associated with all areas of speaking, advertising, public relations, etc.

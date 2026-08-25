@@ -23,6 +23,7 @@ vocation:
 patronage:
   - Sisters of Saint Catherine, Virgin and Martyr
 martyr: true
+prayers: []
 ---
 
 Born to a wealthy familiy, at age 19 she gave it all up to live in community with like-minded friends and work with the sick and the poor. This was the foundation of the Sisters of Saint Catherine, Virgin and Martyr which expanded its mission to educating the young. The Sisters continue their work today with 120 communities in Europe, Africa and South America.

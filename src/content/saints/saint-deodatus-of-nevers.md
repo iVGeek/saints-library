@@ -34,6 +34,7 @@ patronage:
     Nevers
   - Toul
 martyr: false
+prayers: []
 ---
 
 Monk. Founder of Ebersheimmunster, near Strasbourg, France, served as its first abbot. Bishop of Nevers, France c.655. Attended the synod of Sens in 657. Founded Valde-Galilee-Jointures Abbey c.660. Late in life he retired to live as a prayerful hermit in the Vosges.

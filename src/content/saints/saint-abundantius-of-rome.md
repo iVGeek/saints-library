@@ -1,12 +1,14 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Abundantius of Rome"
+name: Saint Abundantius of Rome
 honorific: Saint
-summary: "Deacon in Rome, Italy. Arrested with Saint Abundius for refusing to sacrifice to Hercules. Tortured at Mammertine prison, and condemned to death for their Christianity during the persecutions of Diocletian. Martyred."
+summary: >-
+  Deacon in Rome, Italy. Arrested with Saint Abundius for refusing to sacrifice to Hercules. Tortured at Mammertine
+  prison, and condemned to death for their Christianity during the persecutions of Diocletian. Martyred.
 deathYear: 304
-died: "beheaded c.304 at Rome, Italy"
-deathPlace: "Italy"
-region: "Italy"
+died: beheaded c.304 at Rome, Italy
+deathPlace: Italy
+region: Italy
 feastDay:
   month: 9
   day: 16
@@ -16,6 +18,7 @@ vocation:
   - Monk
   - Deacon
 martyr: true
+prayers: []
 ---
 
 Deacon in Rome, Italy. Arrested with Saint Abundius for refusing to sacrifice to Hercules. Tortured at Mammertine prison, and condemned to death for their Christianity during the persecutions of Diocletian. Martyred.

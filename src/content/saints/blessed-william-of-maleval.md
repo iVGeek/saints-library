@@ -42,6 +42,7 @@ patronage:
     San Fernando La Union, Philippines, diocese of
     Siena, Italy
 martyr: false
+prayers: []
 ---
 
 William lived a wild and dissolute life as a soldier in his youth. However, at some point he began to take his religion seriously, left the military life, and made pilgrimages to the Holy Lands. He became superior of an abbey at Pisa, Italy in 1153. He failed in this position, however, and became a hermit on Mount Bruno. He attracted followers, founded a monastery in 1154, and failed again as abbot. William returned to a life as a hermit, this time around Siena, Italy in 1155 in a wilderness called “Maleval” (“evil valley”). There he attracted followers who were called Williamites, Guillemites, or the barefoot friars. They first following William's severe rule, then the Benedictine, and later the Augustinian. They spread through Italy, France, and Germany, but have not survived until today.

@@ -1,8 +1,8 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Gérontios"
+name: Saint Gérontios
 honorific: Saint
-summary: "Desert mountain hermit near the monastery of Saint Panteleimon."
+summary: Desert mountain hermit near the monastery of Saint Panteleimon.
 feastDay:
   month: 7
   day: 26
@@ -11,6 +11,7 @@ vocation:
   - Monk
   - Hermit
 martyr: false
+prayers: []
 ---
 
 Desert mountain hermit near the monastery of Saint Panteleimon.

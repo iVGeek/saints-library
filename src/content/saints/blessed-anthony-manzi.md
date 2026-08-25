@@ -25,6 +25,7 @@ vocation:
   - Religious
   - Hermit
 martyr: false
+prayers: []
 ---
 
 Born to a wealthy, pious family; two of his sisters became nuns. As soon as he had legal control of his fortune, Anthony gave it away to the poor; he was shunned by his family and friends, even his sisters the sisters. He wandered across Europe, a pilgrim from shrine to shrine, and then to Jerusalem. He finally returned to Padua, Italy and spent the rest of his life as a hermit near a church, living off alms.

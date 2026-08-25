@@ -1,33 +1,39 @@
 ---
-name: "Saint Gaspare Bufalo"
+name: Saint Gaspare Bufalo
 honorific: Venerable
-summary: "Son of Antonio del Bufalo, a chef to Prince Altieri, and Annunziata Quartieroni. As an infant he suffered from an eye condition that threatened to blind him; he was cured in 1788 following prayers for the intervention of Saint Francis Xavier. Studied at the Collegium Romanum from"
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Gaspare-Bufalo1.jpg"
+summary: >-
+  Son of Antonio del Bufalo, a chef to Prince Altieri, and Annunziata Quartieroni. As an infant he suffered from an eye
+  condition that threatened to blind him; he was cured in 1788 following prayers for the intervention of Saint Francis
+  Xavier. Studied at the Collegium Romanum from
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Gaspare-Bufalo1.jpg
 searchAliases:
-  - "Apostle of Rome"
-  - "Caspar Bufalo"
-  - "Caspar del Bufalo"
-  - "Gaspare del Bufalo"
-  - "Hammer of Italian Freemasonry"
-  - "Kasper del Bufalo"
-  - "Martello dei Carbonari"
+  - Apostle of Rome
+  - Caspar Bufalo
+  - Caspar del Bufalo
+  - Gaspare del Bufalo
+  - Hammer of Italian Freemasonry
+  - Kasper del Bufalo
+  - Martello dei Carbonari
 birthYear: 1786
 deathYear: 1837
-born: "6 January 1786 at Rome, Italy"
-died: "28 December 1837 of cholera"
-birthPlace: "Italy"
-region: "Brazil"
+born: 6 January 1786 at Rome, Italy
+died: 28 December 1837 of cholera
+birthPlace: Italy
+region: Brazil
 feastDay:
   month: 1
   day: 2
-centuries: [18, 19]
+centuries:
+  - 18
+  - 19
 canonizationStatus: Venerable
 vocation:
   - Priest
   - Religious
   - Missionary
-religiousOrder: "Jesuit"
+religiousOrder: Jesuit
 martyr: false
+prayers: []
 ---
 
 Son of Antonio del Bufalo, a chef to Prince Altieri, and Annunziata Quartieroni. As an infant he suffered from an eye condition that threatened to blind him; he was cured in 1788 following prayers for the intervention of Saint Francis Xavier. Studied at the Collegium Romanum from age twelve, and considered becoming a Jesuit. President of the newly instituted catechetical school of Santa Maria del Pianto at age 19. Ordained on 31 July 1808. On 23 October 1808 he, with his friends Father Bonanni, Father Santelli and Father Gonnelli, founded the nocturnal Oratory of Saint Mary in Vinci, Italy. On 8 December 1808 he helped Father Albertini found the Confraternity of the Precious Blood in San Nicola Arcella, Italy.

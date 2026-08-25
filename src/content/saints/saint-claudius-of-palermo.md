@@ -16,6 +16,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/0/09/Saint_Oliva_-_Cathedral_of_Palermo_-_Italy_2015.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Claudius of Palermo
 imageCreditUrl: https://en.wikipedia.org/wiki/Olivia%20of%20Palermo
+prayers: []
 ---
 
 Martyred in the persecutions of Diocletian.

@@ -1,28 +1,34 @@
 ---
-name: "Saint María Maravillas de Jesús"
+name: Saint María Maravillas de Jesús
 honorific: Venerable
-summary: "Daughter of Luis Pidal y Mon and Cristina Chico de Guzman y Munoz, the Marquess and Marchioness of Pidal; her father was Spanish ambassador to the Vatican and a very active supporter of the Church. She was baptized at the age of eight days, Confirmed in 1896, made her first Commu"
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-María-Maravillas-de-Jesús.jpg"
+summary: >-
+  Daughter of Luis Pidal y Mon and Cristina Chico de Guzman y Munoz, the Marquess and Marchioness of Pidal; her father
+  was Spanish ambassador to the Vatican and a very active supporter of the Church. She was baptized at the age of eight
+  days, Confirmed in 1896, made her first Commu
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-María-Maravillas-de-Jesús.jpg
 searchAliases:
-  - "Maravillas Pidal y Chico de Guzm&aacute;n"
-  - "Maria de las Maravillas Jesus"
+  - Maravillas Pidal y Chico de Guzm&aacute;n
+  - Maria de las Maravillas Jesus
 birthYear: 1891
 deathYear: 1974
-born: "4 November 1891 in Madrid, Spain"
-died: "11 December 1974 in La Aldehuela monastery, Madrid province, Spain of natural causes"
-birthPlace: "Spain"
-deathPlace: "Madrid province, Spaof natural causes"
-region: "India"
+born: 4 November 1891 in Madrid, Spain
+died: 11 December 1974 in La Aldehuela monastery, Madrid province, Spain of natural causes
+birthPlace: Spain
+deathPlace: Madrid province, Spaof natural causes
+region: India
 feastDay:
   month: 12
   day: 11
-centuries: [19, 20]
+centuries:
+  - 19
+  - 20
 canonizationStatus: Venerable
 vocation:
   - Priest
   - Religious
-religiousOrder: "Carmelite"
+religiousOrder: Carmelite
 martyr: false
+prayers: []
 ---
 
 Daughter of Luis Pidal y Mon and Cristina Chico de Guzman y Munoz, the Marquess and Marchioness of Pidal; her father was Spanish ambassador to the Vatican and a very active supporter of the Church. She was baptized at the age of eight days, Confirmed in 1896, made her first Communion in 1902, grew up in a pious family, was known as an intelligent and religious child, and early perceived a call to religious life. She entered the Carmelite novitiate at El Escorial, Madrid, Spain in 1920.

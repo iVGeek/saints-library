@@ -1,21 +1,24 @@
 ---
-name: "Saint Foillan of Fosses"
+name: Saint Foillan of Fosses
 honorific: Saint
-summary: "Brother of Saint Fursey of Peronne and Saint Ultan of Péronne. Travelled with them from Ireland to East Anglia, England c.630 where they worked as missionaries, and established the monastery of Burgh Castle near Yarmouth. Abbot of the community at Cnoberesburg, Suffolk, England i"
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Foillan-of-Fosses1.jpg"
+summary: >-
+  Brother of Saint Fursey of Peronne and Saint Ultan of Péronne. Travelled with them from Ireland to East Anglia,
+  England c.630 where they worked as missionaries, and established the monastery of Burgh Castle near Yarmouth. Abbot of
+  the community at Cnoberesburg, Suffolk, England i
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Foillan-of-Fosses1.jpg
 searchAliases:
-  - "Faelan"
-  - "Faillan"
-  - "Faolan"
-  - "Feuillien"
-  - "Foalan"
-  - "Foelan"
-  - "Foillano"
+  - Faelan
+  - Faillan
+  - Faolan
+  - Feuillien
+  - Foalan
+  - Foelan
+  - Foillano
 deathYear: 655
-born: "7th century Ireland"
-died: "murdered 31 October 655 in the forest near Nivelles, Belgium"
-deathPlace: "Belgium"
-region: "Belgium"
+born: 7th century Ireland
+died: murdered 31 October 655 in the forest near Nivelles, Belgium
+deathPlace: Belgium
+region: Belgium
 feastDay:
   month: 1
   day: 16
@@ -25,14 +28,18 @@ vocation:
   - Priest
   - Missionary
 patronage:
-  - "children's nurses"
-  - "dentists"
-  - "surgeons"
-  - "truss makers"
-  - "–"
-  - "in Belgium\n\nFosses"
-  - "Nivelles"
+  - children's nurses
+  - dentists
+  - surgeons
+  - truss makers
+  - –
+  - |-
+    in Belgium
+
+    Fosses
+  - Nivelles
 martyr: true
+prayers: []
 ---
 
 Brother of Saint Fursey of Peronne and Saint Ultan of Péronne. Travelled with them from Ireland to East Anglia, England c.630 where they worked as missionaries, and established the monastery of Burgh Castle near Yarmouth. Abbot of the community at Cnoberesburg, Suffolk, England in the 640s, a house founded by his brother Fursey. During a war between the Mercians and Anglo-Saxons c.650, the house was destroyed, the brothers killed, captured or dispersed. Foillan ransomed back his brothers, collected the surviving relics, books and liturgical equipage from the house, and travelled to France.

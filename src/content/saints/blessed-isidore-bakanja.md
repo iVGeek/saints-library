@@ -1,14 +1,17 @@
 ---
-name: "Blessed Isidore Bakanja"
+name: Blessed Isidore Bakanja
 honorific: Blessed
-summary: "Worked as an assistant stone mason for white colonists in what was then the Belgian Congo and later known as Zaire or simply the Congo. Convert, baptized on 6 May 1906 at age 18 after receiving instruction from Trappists missionaries. Rosary in hand, he used any chance to share h"
-image: "https://upload.wikimedia.org/wikipedia/commons/7/7b/Isidor_Bakanja.jpg"
+summary: >-
+  Worked as an assistant stone mason for white colonists in what was then the Belgian Congo and later known as Zaire or
+  simply the Congo. Convert, baptized on 6 May 1906 at age 18 after receiving instruction from Trappists missionaries.
+  Rosary in hand, he used any chance to share h
+image: https://upload.wikimedia.org/wikipedia/commons/7/7b/Isidor_Bakanja.jpg
 birthYear: 1887
 deathYear: 1909
-born: "c.1887 at northeast Republic of the Congo"
-died: "15 August 1909 in Busira, Équateur, Democratic Republic of Congo"
-deathPlace: "Équateur, Democratic RepublicCongo"
-region: "Africa"
+born: c.1887 at northeast Republic of the Congo
+died: 15 August 1909 in Busira, Équateur, Democratic Republic of Congo
+deathPlace: Équateur, Democratic RepublicCongo
+region: Africa
 feastDay:
   month: 8
   day: 15
@@ -16,6 +19,7 @@ canonizationStatus: Blessed
 vocation:
   - Priest
 martyr: true
+prayers: []
 ---
 
 Worked as an assistant stone mason for white colonists in what was then the Belgian Congo and later known as Zaire or simply the Congo. Convert, baptized on 6 May 1906 at age 18 after receiving instruction from Trappists missionaries. Rosary in hand, he used any chance to share his faith; though untrained, many thought of him as a catechist.

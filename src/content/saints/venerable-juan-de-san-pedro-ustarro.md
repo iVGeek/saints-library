@@ -1,30 +1,36 @@
 ---
-name: "Venerable Juan de San Pedro Ustárro"
+name: Venerable Juan de San Pedro Ustárro
 honorific: Venerable
-summary: "Born to a Jewish family that had converted to Catholicism. Juan studied at the University of Alcalá de Henares from 1579 to 1582 when he became a Discalced Carmelite novice; he made his profession on 30 January 1583. He continued his studies in Alcalá, Spain, in Genoa, Italy, and"
-image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Juan-de-San-Pedro-Ustarro.jpg"
+summary: >-
+  Born to a Jewish family that had converted to Catholicism. Juan studied at the University of Alcalá de Henares from
+  1579 to 1582 when he became a Discalced Carmelite novice; he made his profession on 30 January 1583. He continued his
+  studies in Alcalá, Spain, in Genoa, Italy, and
+image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Juan-de-San-Pedro-Ustarro.jpg
 searchAliases:
-  - "Father Juan of Jesus Mary"
-  - "Juan San Pedro Ustárroz"
-  - "Giovanni di Gesù Maria"
-  - "Giovanni de San Pedro y Ustárroz"
+  - Father Juan of Jesus Mary
+  - Juan San Pedro Ustárroz
+  - Giovanni di Gesù Maria
+  - Giovanni de San Pedro y Ustárroz
 birthYear: 1564
 deathYear: 1615
-born: "27 January 1564 in Calahorra, La Rioja, Spain"
-died: "28 May 1615 at the San Silvestro convent in Monte Compatri, Rome, Italy of natural causes"
-birthPlace: "La Rioja, Spain"
-deathPlace: "Rome, Italynatural causes"
-region: "Spain"
+born: 27 January 1564 in Calahorra, La Rioja, Spain
+died: 28 May 1615 at the San Silvestro convent in Monte Compatri, Rome, Italy of natural causes
+birthPlace: La Rioja, Spain
+deathPlace: Rome, Italynatural causes
+region: Spain
 feastDay:
   month: 1
   day: 30
-centuries: [16, 17]
+centuries:
+  - 16
+  - 17
 canonizationStatus: Venerable
 vocation:
   - Priest
   - Missionary
-religiousOrder: "Carmelite"
+religiousOrder: Carmelite
 martyr: false
+prayers: []
 ---
 
 Born to a Jewish family that had converted to Catholicism. Juan studied at the University of Alcalá de Henares from 1579 to 1582 when he became a Discalced Carmelite novice; he made his profession on 30 January 1583. He continued his studies in Alcalá, Spain, in Genoa, Italy, and was ordained a priest in 1589.

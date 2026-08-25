@@ -22,6 +22,7 @@ vocation:
   - Priest
   - Religious
 martyr: true
+prayers: []
 ---
 
 Son of Anna Petrenko and Basil Hopko, poor, landless peasants. His father died when the boy was just a year old, and when he was four his mother emigrated to the United States to look for work. Educated in Hungary, graduating with honors in 1923. Trained at the Eparchial Seminary, Prjashev, Czechoslovakia. He had dreams of joining his mother in the United States, and of persuing his vocation there, but the cost of recurring health problems left him unable to afford to travel. When he finally decided to serve in his native land, he was suddenly cured, and realized he was been given a sign about his calling. Ordained on 3 February 1929. Parish priest in Prague where he was noted for a mission to the poor, the unemployed, and to students. Taught at the Eparchial Seminary in Prjashev. Awarded the title of Monsignor in 1936. Doctor of Theology in 1940. Auxiliary bishop of Prjashev, Slovakia on 11 May 1947.

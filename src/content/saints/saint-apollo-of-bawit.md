@@ -1,13 +1,15 @@
 ---
-name: "Saint Apollo of Bawit"
+name: Saint Apollo of Bawit
 honorific: Saint
-summary: "Hermit in Thebes in Egypt for 40 years. Monk. Abbot of Bawit in Hermopolis, a house of 500 monks. Left the monastic life to oppose the decrees of Julian the Apostate."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Apollo-of-Bawit.jpg"
+summary: >-
+  Hermit in Thebes in Egypt for 40 years. Monk. Abbot of Bawit in Hermopolis, a house of 500 monks. Left the monastic
+  life to oppose the decrees of Julian the Apostate.
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Apollo-of-Bawit.jpg
 birthYear: 316
 deathYear: 395
-born: "316 in Egypt"
-died: "395 of natural causes"
-region: "Egypt"
+born: 316 in Egypt
+died: 395 of natural causes
+region: Egypt
 feastDay:
   month: 10
   day: 22
@@ -16,6 +18,7 @@ vocation:
   - Monk
   - Hermit
 martyr: false
+prayers: []
 ---
 
 Hermit in Thebes in Egypt for 40 years. Monk. Abbot of Bawit in Hermopolis, a house of 500 monks. Left the monastic life to oppose the decrees of Julian the Apostate.

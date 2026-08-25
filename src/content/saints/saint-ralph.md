@@ -17,6 +17,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Monk at the monastery of Solignac, France. Abbot of Saint Medard in Soissons, France. Bishop of Bourges, France in 840. Founded several monasteries; known for his charity and good works.

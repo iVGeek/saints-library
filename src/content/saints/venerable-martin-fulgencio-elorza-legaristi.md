@@ -1,27 +1,33 @@
 ---
-name: "Venerable Martín Fulgencio Elorza Legaristi"
+name: Venerable Martín Fulgencio Elorza Legaristi
 honorific: Venerable
-summary: "Member of the Passionists, joining in 1912 and making his solemn profession on 12 June 1924. Ordained a priest on 13 July 1924. He served as director of students in Gabiria, Spain, then Provincial Councilor, and then Provincial Superior, serving during the persecutions of the Spa"
-image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Martin-Fulgencio-Elorza-Legaristi.jpg"
+summary: >-
+  Member of the Passionists, joining in 1912 and making his solemn profession on 12 June 1924. Ordained a priest on 13
+  July 1924. He served as director of students in Gabiria, Spain, then Provincial Councilor, and then Provincial
+  Superior, serving during the persecutions of the Spa
+image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Martin-Fulgencio-Elorza-Legaristi.jpg
 searchAliases:
-  - "Martín of the Side of Jesus"
+  - Martín of the Side of Jesus
 birthYear: 1899
 deathYear: 1966
-born: "30 December 1899 in Elgueta, Guipúzcoa, Spain"
-died: "30 December 1966 in Lima, Peru of a heart attack"
-birthPlace: "Guipúzcoa, Spain"
-deathPlace: "Perua heart attack"
-region: "Peru"
+born: 30 December 1899 in Elgueta, Guipúzcoa, Spain
+died: 30 December 1966 in Lima, Peru of a heart attack
+birthPlace: Guipúzcoa, Spain
+deathPlace: Perua heart attack
+region: Peru
 feastDay:
   month: 6
   day: 12
-centuries: [19, 20]
+centuries:
+  - 19
+  - 20
 canonizationStatus: Venerable
 vocation:
   - Bishop
   - Priest
   - Missionary
 martyr: false
+prayers: []
 ---
 
 Member of the Passionists, joining in 1912 and making his solemn profession on 12 June 1924. Ordained a priest on 13 July 1924. He served as director of students in Gabiria, Spain, then Provincial Councilor, and then Provincial Superior, serving during the persecutions of the Spanish Civil War.

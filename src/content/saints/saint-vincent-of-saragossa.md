@@ -46,6 +46,7 @@ patronage:
     Saint-Malo
   - Viviers
 martyr: true
+prayers: []
 ---
 
 Friend of Saint Valerius of Saragossa in Spain, and served as his deacon. Imprisoned and tortured in Valencia, Spain for his faith during the persecutions of Diocletian; part of his time was spent being burned on a gridiron. While in prison, he converted his jailer. Was finally offered release if he would give up the scripture texts for burning, but he refused. Martyr. Acts written by the poet Prudentius.

@@ -1,16 +1,17 @@
 ---
-name: "Saint Brychan of Brycheiniog"
+name: Saint Brychan of Brycheiniog
 honorific: Saint
-summary: "King in Wales. Relative of Saint Clydog and Saint Dubritius of Llandaff. Father of"
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Brychan-of-Brycheiniog.jpg"
+summary: King in Wales. Relative of Saint Clydog and Saint Dubritius of Llandaff. Father of
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Brychan-of-Brycheiniog.jpg
 searchAliases: []
-region: "England"
+region: England
 feastDay:
   month: 4
   day: 6
 canonizationStatus: Saint
 vocation: []
 martyr: false
+prayers: []
 ---
 
 King in Wales. Relative of Saint Clydog and Saint Dubritius of Llandaff. Father of

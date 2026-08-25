@@ -13,6 +13,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/c/c9/MS._Hatton_48_fol._6v-7r.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Basil of North Africa
 imageCreditUrl: https://en.wikipedia.org/wiki/Rule%20of%20Saint%20Benedict
+prayers: []
 ---
 
 Martyr. No other information has survived.

@@ -1,9 +1,9 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Sopatra"
+name: Saint Sopatra
 honorific: Saint
-summary: "Seventh-century nun. May have been the daughter of Emperor Maurice of Constantinople."
-region: "Turkey"
+summary: Seventh-century nun. May have been the daughter of Emperor Maurice of Constantinople.
+region: Turkey
 feastDay:
   month: 11
   day: 9
@@ -12,6 +12,7 @@ vocation:
   - Monk
   - Religious
 martyr: false
+prayers: []
 ---
 
 Seventh-century nun. May have been the daughter of Emperor Maurice of Constantinople.

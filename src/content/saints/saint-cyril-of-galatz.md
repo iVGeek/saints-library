@@ -1,20 +1,21 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Cyril of Galatz"
+name: Saint Cyril of Galatz
 honorific: Saint
-summary: "Martyred with six companion Christians. No other information has survived, not even the names of the companions."
+summary: Martyred with six companion Christians. No other information has survived, not even the names of the companions.
 searchAliases:
-  - "Cyril of Axiopolis"
-  - "Cirillo"
-died: "3rd century Galatz (Axiopolis), Mesia (in modern Romania)"
-deathPlace: "Mesia (modern Romania)"
-region: "Italy"
+  - Cyril of Axiopolis
+  - Cirillo
+died: 3rd century Galatz (Axiopolis), Mesia (in modern Romania)
+deathPlace: Mesia (modern Romania)
+region: Italy
 feastDay:
   month: 5
   day: 12
 canonizationStatus: Saint
 vocation: []
 martyr: true
+prayers: []
 ---
 
 Martyred with six companion Christians. No other information has survived, not even the names of the companions.

@@ -1,10 +1,10 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Meneus"
+name: Saint Meneus
 honorific: Saint
-summary: "Martyr. No other information has survived."
+summary: Martyr. No other information has survived.
 searchAliases:
-  - "Hymenseus"
+  - Hymenseus
 feastDay:
   month: 7
   day: 24
@@ -12,6 +12,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Martyr. No other information has survived.

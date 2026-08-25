@@ -1,13 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Italius of Cilicia"
+name: Saint Italius of Cilicia
 honorific: Saint
-summary: "Martyr. No other information has survived."
+summary: Martyr. No other information has survived.
 searchAliases:
-  - "Italus"
-died: "in Cilicia, Asia Minor (in modern Turkey), date unknown"
-deathPlace: "Asia Minor (modern Turkey), date unknown"
-region: "Turkey"
+  - Italus
+died: in Cilicia, Asia Minor (in modern Turkey), date unknown
+deathPlace: Asia Minor (modern Turkey), date unknown
+region: Turkey
 feastDay:
   month: 6
   day: 4
@@ -15,6 +15,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Martyr. No other information has survived.

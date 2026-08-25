@@ -21,6 +21,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Christian slave of a Phrygian prince. Flogged for refusing to join in pagan celebrations on her owner's birthday. When she fled from his household, a large rock opened up for her to escape into; she was never seen again. She was assumed to have died in the rock, it became her tomb, and she is considered a martyr.

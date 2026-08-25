@@ -1,12 +1,12 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Ampelus of Messina"
+name: Saint Ampelus of Messina
 honorific: Saint
-summary: "Martyred in the persecutions of Diocletian. No other information has survived."
+summary: Martyred in the persecutions of Diocletian. No other information has survived.
 deathYear: 302
-died: "c.302 in Messina, Sicily"
-deathPlace: "Sicily"
-region: "England"
+died: c.302 in Messina, Sicily
+deathPlace: Sicily
+region: England
 feastDay:
   month: 11
   day: 20
@@ -14,6 +14,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Martyred in the persecutions of Diocletian. No other information has survived.

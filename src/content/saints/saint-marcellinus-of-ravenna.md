@@ -1,9 +1,9 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Marcellinus of Ravenna"
+name: Saint Marcellinus of Ravenna
 honorific: Saint
-summary: "Third century bishop of Ravenna, Italy."
-region: "Italy"
+summary: Third century bishop of Ravenna, Italy.
+region: Italy
 feastDay:
   month: 10
   day: 5
@@ -12,6 +12,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Third century bishop of Ravenna, Italy.

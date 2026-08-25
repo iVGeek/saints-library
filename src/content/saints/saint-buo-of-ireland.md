@@ -15,6 +15,7 @@ vocation:
   - Monk
   - Missionary
 martyr: false
+prayers: []
 ---
 
 Monk. Missionary to the Norwegians on Iceland and the Faroe Islands.

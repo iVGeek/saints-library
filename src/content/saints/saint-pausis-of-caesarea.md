@@ -1,9 +1,9 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Pausis of Caesarea"
+name: Saint Pausis of Caesarea
 honorific: Saint
-summary: "Martyred in the persecutions of Diocletian."
-region: "England"
+summary: Martyred in the persecutions of Diocletian.
+region: England
 feastDay:
   month: 3
   day: 24
@@ -11,6 +11,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Martyred in the persecutions of Diocletian.

@@ -1,30 +1,33 @@
 ---
-name: "Saint Gaspare Luigi Bertoni"
+name: Saint Gaspare Luigi Bertoni
 honorific: Venerable
-summary: " At h Son of Francis, a wealthy lawyer and notary, and Brunora Ravelli Bertoni, he was raised in a pious family. His beloved sister died when Gaspare was quite young. He was educated at home, then by Jesuits and the Marian Congregation at Saint Sebastian's School in Verona, Italy."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Gaspare-Bertoni.jpg"
+summary: ' At h Son of Francis, a wealthy lawyer and notary, and Brunora Ravelli Bertoni, he was raised in a pious family. His beloved sister died when Gaspare was quite young. He was educated at home, then by Jesuits and the Marian Congregation at Saint Sebastian''s School in Verona, Italy.'
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Gaspare-Bertoni.jpg
 searchAliases:
-  - "Caspar Bertoni"
-  - "Gaspar Bertoni"
-  - "The Apostolic Missionary"
+  - Caspar Bertoni
+  - Gaspar Bertoni
+  - The Apostolic Missionary
 birthYear: 1777
 deathYear: 1853
-born: "9 October 1777 in Verona, Italy"
-died: "Sunday 12 June 1853 in Verona, Italy of natural causes"
-birthPlace: "Italy"
-deathPlace: "Italynatural causes"
-region: "France"
+born: 9 October 1777 in Verona, Italy
+died: Sunday 12 June 1853 in Verona, Italy of natural causes
+birthPlace: Italy
+deathPlace: Italynatural causes
+region: France
 feastDay:
   month: 6
   day: 12
-centuries: [18, 19]
+centuries:
+  - 18
+  - 19
 canonizationStatus: Venerable
 vocation:
   - Bishop
   - Priest
   - Missionary
-religiousOrder: "Jesuit"
+religiousOrder: Jesuit
 martyr: false
+prayers: []
 ---
 
 Son of Francis, a wealthy lawyer and notary, and Brunora Ravelli Bertoni, he was raised in a pious family. His beloved sister died when Gaspare was quite young. He was educated at home, then by Jesuits and the Marian Congregation at Saint Sebastian's School in Verona, Italy.

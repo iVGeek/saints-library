@@ -1,15 +1,15 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Juan Moreno Juárez"
+name: Blessed Juan Moreno Juárez
 honorific: Blessed
-summary: "Priest of the archdiocese of Granada, Spain. Martyred in the Spanish Civil War."
+summary: Priest of the archdiocese of Granada, Spain. Martyred in the Spanish Civil War.
 birthYear: 1891
 deathYear: 1936
-born: "15 December 1891 in Válor, Granada Spain"
-died: "4 September 1936 in Berja, Almeria Spain"
-birthPlace: "Granada Spain"
-deathPlace: "Almeria Spain"
-region: "Spain"
+born: 15 December 1891 in Válor, Granada Spain
+died: 4 September 1936 in Berja, Almeria Spain
+birthPlace: Granada Spain
+deathPlace: Almeria Spain
+region: Spain
 feastDay:
   month: 9
   day: 4
@@ -18,6 +18,7 @@ vocation:
   - Priest
   - Cardinal
 martyr: true
+prayers: []
 ---
 
 Priest of the archdiocese of Granada, Spain. Martyred in the Spanish Civil War.

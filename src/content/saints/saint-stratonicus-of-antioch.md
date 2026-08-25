@@ -1,12 +1,12 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Stratonicus of Antioch"
+name: Saint Stratonicus of Antioch
 honorific: Saint
-summary: "Soldier. Martyr."
-born: "Greece"
-died: "Antioch (modern Antakya, Turkey)"
-deathPlace: "Turkey)"
-region: "Greece"
+summary: Soldier. Martyr.
+born: Greece
+died: Antioch (modern Antakya, Turkey)
+deathPlace: Turkey)
+region: Greece
 feastDay:
   month: 1
   day: 2
@@ -15,6 +15,7 @@ vocation:
   - Monk
   - Soldier
 martyr: true
+prayers: []
 ---
 
 Soldier. Martyr.

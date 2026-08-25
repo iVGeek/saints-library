@@ -1,23 +1,24 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Leoncio Arce Urrutia"
+name: Blessed Leoncio Arce Urrutia
 honorific: Blessed
-summary: "Dominican priest. Martyred in the Spanish Civil War."
+summary: Dominican priest. Martyred in the Spanish Civil War.
 birthYear: 1899
 deathYear: 1936
-born: "12 January 1899 in Villareal, Alava, Spain"
-died: "10 September 1936 in Madrid, Spain"
-birthPlace: "Alava, Spain"
-deathPlace: "Spain"
-region: "Spain"
+born: 12 January 1899 in Villareal, Alava, Spain
+died: 10 September 1936 in Madrid, Spain
+birthPlace: Alava, Spain
+deathPlace: Spain
+region: Spain
 feastDay:
   month: 9
   day: 10
 canonizationStatus: Blessed
 vocation:
   - Priest
-religiousOrder: "Dominican"
+religiousOrder: Dominican
 martyr: true
+prayers: []
 ---
 
 Dominican priest. Martyred in the Spanish Civil War.

@@ -1,14 +1,14 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Phiala of Hayle"
+name: Saint Phiala of Hayle
 honorific: Saint
-summary: "Sister of Saint Fingar. Martyred with several companions by pagans. No other information has survived."
+summary: Sister of Saint Fingar. Martyred with several companions by pagans. No other information has survived.
 searchAliases:
-  - "Piala"
-born: "Irish"
-died: "5th century at Hayle, Cornwall, England"
-deathPlace: "Cornwall, England"
-region: "Ireland"
+  - Piala
+born: Irish
+died: 5th century at Hayle, Cornwall, England
+deathPlace: Cornwall, England
+region: Ireland
 feastDay:
   month: 12
   day: 14
@@ -17,6 +17,7 @@ vocation:
   - Monk
   - Religious
 martyr: true
+prayers: []
 ---
 
 Sister of Saint Fingar. Martyred with several companions by pagans. No other information has survived.

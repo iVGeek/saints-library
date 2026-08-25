@@ -16,6 +16,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/d/d7/Francisco_de_Zurbar%C3%A1n_035.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Fortunatus of Alexandria
 imageCreditUrl: https://en.wikipedia.org/wiki/Saint%20Apollonia
+prayers: []
 ---
 
 Martyr. No other information has survived.

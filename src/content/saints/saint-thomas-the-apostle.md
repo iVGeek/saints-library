@@ -58,6 +58,7 @@ patronage:
   - Belthangady, diocese of
   - Kottapuram, diocese of
 martyr: true
+prayers: []
 ---
 
 Apostle. He was ready to die with Jesus when Christ went to Jerusalem, but is best remembered for doubting the Resurrection until allowed to touch Christ's wounds. Preached in Parthia, Persia and India, though he was so reluctant to start the mission that he had to be taken into slavery by a merchant headed that way. He eventually gave in to God's will, was freed, and planted the new Church over a wide area. He formed many parishes and built many churches along the way. An old tradition says that Thomas baptised the wise men from the Nativity into Christianity.

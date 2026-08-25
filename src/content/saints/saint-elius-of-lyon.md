@@ -17,6 +17,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/6/63/Hoxne_Hoard_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Elius of Lyon
 imageCreditUrl: https://en.wikipedia.org/wiki/Hoxne%20Hoard
+prayers: []
 ---
 
 Bishop of Lyon, France in the early 3rd century.

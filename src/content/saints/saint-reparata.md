@@ -24,6 +24,7 @@ patronage:
     Nice, city of
   - Nice, diocese of
 martyr: true
+prayers: []
 ---
 
 Baptized very young. Arrested and tortured for her faith at age 11 during the persecution of Decius. Thrown into a furnace to die, she sat for a while in the flames, then emerged unharmed. Rather than see this as divine intervention, the authorities simply offered her another chance to apostacize; when she refused, she was beheaded.

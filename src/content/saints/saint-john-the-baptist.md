@@ -85,6 +85,7 @@ patronage:
   - Molenbeek-Saint-Jean
   - Welkenraedt
 martyr: true
+prayers: []
 ---
 
 Cousin of Jesus Christ. Son of Zachary, a priest of the order of Abia whose job in the temple was to burn incense; and of Elizabeth, a descendent of Aaron. As Zachary was ministering in the Temple, an angel brought him news that Elizabeth would bear a child filled with the Holy Spirit from the moment of his birth. Zachary doubted and was struck dumb until John's birth.

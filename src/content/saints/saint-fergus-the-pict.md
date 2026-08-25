@@ -30,6 +30,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/44/Dupplin_Cross%2C_St_Serfs_Church.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Fergus the Pict
 imageCreditUrl: https://en.wikipedia.org/wiki/Causant%C3%ADn%20mac%20Fergusa
+prayers: []
 ---
 
 May have studied in both Scotland and Ireland. Priest. Travelling bishop in Ireland. Evangelist in the counties of Perth and Caithness in Scotland. Founded churches dedicated to Saint Patrick at Strageath, Blackford, and Dolpatrick in Perthshire; Wick and Halkirk, in Caithnessshire; and Lungley (now Saint Fergus), in Aberdeenshire. Settled in Glamis in c.710. Attended a synod in Rome, Italy in 721 which condemned sorcery and irregular marriages.

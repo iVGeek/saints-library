@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Palladius of Antioch"
+name: Saint Palladius of Antioch
 honorific: Saint
-summary: "Hermit in the desert near Antioch, Syria. Friend of Saint Simeon."
+summary: Hermit in the desert near Antioch, Syria. Friend of Saint Simeon.
 deathYear: 390
-died: "390 of natural causes"
-region: "Turkey"
+died: 390 of natural causes
+region: Turkey
 feastDay:
   month: 1
   day: 28
@@ -14,6 +14,7 @@ vocation:
   - Monk
   - Hermit
 martyr: false
+prayers: []
 ---
 
 Hermit in the desert near Antioch, Syria. Friend of Saint Simeon.

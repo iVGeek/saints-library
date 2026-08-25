@@ -1,12 +1,12 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Emilian"
+name: Saint Emilian
 honorific: Saint
-summary: "A confessor of the faith. No details about him have survived."
+summary: A confessor of the faith. No details about him have survived.
 searchAliases:
-  - "Aemilian"
-  - "Aemyliani"
-  - "Aemylianus"
+  - Aemilian
+  - Aemyliani
+  - Aemylianus
 feastDay:
   month: 1
   day: 8
@@ -15,6 +15,7 @@ vocation:
   - Monk
   - Confessor
 martyr: false
+prayers: []
 ---
 
 A confessor of the faith. No details about him have survived.

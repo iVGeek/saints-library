@@ -1,14 +1,16 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Guinizo"
+name: Saint Guinizo
 honorific: Saint
-summary: "Benedictine monk at Monte Cassino. After the destruction of the abbey there, he spent the rest of his life as a hermit on the mountain."
+summary: >-
+  Benedictine monk at Monte Cassino. After the destruction of the abbey there, he spent the rest of his life as a hermit
+  on the mountain.
 searchAliases:
-  - "Guinizzone"
+  - Guinizzone
 deathYear: 1050
-born: "in Spain"
-died: "c.1050 of natural causes"
-region: "Spain"
+born: in Spain
+died: c.1050 of natural causes
+region: Spain
 feastDay:
   month: 5
   day: 26
@@ -16,8 +18,9 @@ canonizationStatus: Saint
 vocation:
   - Monk
   - Hermit
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 martyr: false
+prayers: []
 ---
 
 Benedictine monk at Monte Cassino. After the destruction of the abbey there, he spent the rest of his life as a hermit on the mountain.

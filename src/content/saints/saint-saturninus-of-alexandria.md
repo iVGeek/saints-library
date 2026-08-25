@@ -1,12 +1,12 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Saturninus of Alexandria"
+name: Saint Saturninus of Alexandria
 honorific: Saint
-summary: "Marytred in the persecutions of Diocletian. Nothing else is known about him."
+summary: Marytred in the persecutions of Diocletian. Nothing else is known about him.
 deathYear: 304
-died: "martyred in 304 in Alexandria, Egypt"
-deathPlace: "Egypt"
-region: "Germany"
+died: martyred in 304 in Alexandria, Egypt
+deathPlace: Egypt
+region: Germany
 feastDay:
   month: 5
   day: 2
@@ -14,6 +14,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: false
+prayers: []
 ---
 
 Marytred in the persecutions of Diocletian. Nothing else is known about him.

@@ -29,6 +29,7 @@ religiousOrder: Jesuit
 patronage:
   - Armagh, Ireland, archdiocese of
 martyr: true
+prayers: []
 ---
 
 Oliver was born to the Irish nobility, part of a family who supported King Charles I and the fight for Irish national freedom from England. Growing up, he was greatly influenced by his uncle Patrick, a Cistercian monk who later became bishop of the Irish dioceses of Ardagh and Meath. Beginning in 1647, Oliver studied at the newly established Irish College in Rome, Italy, an institute operated by the Jesuits. He was ordained a priest in Rome in 1654. He loved the city of Rome and stayed there to serve as professor of theology at the Propaganda Fide College from 1654 through 1669, and part of the time as procurator or agent in Rome for the bishops of Ireland. In 1669 Father Oliver was chosen archbishop of Armagh, Ireland, making him the primate, or primary Church official, of all Ireland.

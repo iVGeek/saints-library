@@ -1,12 +1,12 @@
 ---
-name: "Saint Florentinus of Trier"
+name: Saint Florentinus of Trier
 honorific: Saint
-summary: "Fourth-century bishop of Trier, Germany."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Florentinus-of-Trier.jpg"
+summary: Fourth-century bishop of Trier, Germany.
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Florentinus-of-Trier.jpg
 searchAliases:
-  - "Florentinus of Treve"
-  - "Florentius of…."
-region: "Germany"
+  - Florentinus of Treve
+  - Florentius of….
+region: Germany
 feastDay:
   month: 10
   day: 16
@@ -15,6 +15,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Fourth-century bishop of Trier, Germany.

@@ -1,12 +1,12 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Villicus of Metz"
+name: Saint Villicus of Metz
 honorific: Saint
-title: "Bishop"
-summary: "Bishop of Metz, France from 543 to 568."
+title: Bishop
+summary: Bishop of Metz, France from 543 to 568.
 deathYear: 568
-died: "568"
-region: "France"
+died: '568'
+region: France
 feastDay:
   month: 4
   day: 17
@@ -14,6 +14,7 @@ canonizationStatus: Saint
 vocation:
   - Bishop
 martyr: false
+prayers: []
 ---
 
 Bishop of Metz, France from 543 to 568.

@@ -29,6 +29,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/0/0a/Saint-Ouen_et_Saint-Waninge.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Agilus
 imageCreditUrl: https://en.wikipedia.org/wiki/Audoin%20(bishop)
+prayers: []
 ---
 
 Frankish nobleman and courtier. Monk at Luxeuil Abbey. Spiritual student of Saint Columbanus. Missionary to Bavaria, Germany. Abbot of Rebais monastery near Paris, France.

@@ -1,32 +1,38 @@
 ---
-name: "Saint Crispin of Viterbo"
+name: Saint Crispin of Viterbo
 honorific: Venerable
-summary: "Son of Ubald and Marsha. His father died when Pietro was very young, and his mother consecrated the boy to the Blessed Virgin Mary when he was five years old. Pietro developed an early devotion to Our Lady, calling her his other mother, and displayed such a simple and honest piet"
-image: "https://upload.wikimedia.org/wikipedia/commons/8/86/Fioretti2.jpg"
+summary: >-
+  Son of Ubald and Marsha. His father died when Pietro was very young, and his mother consecrated the boy to the Blessed
+  Virgin Mary when he was five years old. Pietro developed an early devotion to Our Lady, calling her his other mother,
+  and displayed such a simple and honest piet
+image: https://upload.wikimedia.org/wikipedia/commons/8/86/Fioretti2.jpg
 searchAliases:
-  - "Crispinus of Viterbo"
-  - "Crispinus von Viterbo"
-  - "il Santorello"
-  - "Kryspin z Viterbo"
-  - "Peter Fioretti"
-  - "Pietro Fioretti"
+  - Crispinus of Viterbo
+  - Crispinus von Viterbo
+  - il Santorello
+  - Kryspin z Viterbo
+  - Peter Fioretti
+  - Pietro Fioretti
 birthYear: 1668
 deathYear: 1750
-born: "13 November 1668 at Viterbo, Italy as Pietro Fioretti"
-died: "19 May 1750 of pneumonia at the friary of the Immaculate Conception on the Via Veneto in Rome, Italy"
-birthPlace: "Italy as Pietro Fioretti"
-deathPlace: "Italy"
-region: "Italy"
+born: 13 November 1668 at Viterbo, Italy as Pietro Fioretti
+died: 19 May 1750 of pneumonia at the friary of the Immaculate Conception on the Via Veneto in Rome, Italy
+birthPlace: Italy as Pietro Fioretti
+deathPlace: Italy
+region: Italy
 feastDay:
   month: 5
   day: 19
-centuries: [17, 18]
+centuries:
+  - 17
+  - 18
 canonizationStatus: Venerable
 vocation:
   - Bishop
   - Priest
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 martyr: false
+prayers: []
 ---
 
 Son of Ubald and Marsha. His father died when Pietro was very young, and his mother consecrated the boy to the Blessed Virgin Mary when he was five years old. Pietro developed an early devotion to Our Lady, calling her his other mother, and displayed such a simple and honest piety that led his neighbors to call him il Santorello (the little saint). He worked as a shoemaker for the uncle who provided for his education.

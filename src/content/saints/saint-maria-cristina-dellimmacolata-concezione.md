@@ -1,31 +1,37 @@
 ---
-name: "Saint Maria Cristina dell'Immacolata Concezione"
+name: Saint Maria Cristina dell'Immacolata Concezione
 honorific: Venerable
-summary: "Born to a wealthy family, the daughter of Giovanni Giuseppe and Maria Concetta Marrazzo; her mother died with Adelaide was only a few days old. The girl was educated at home, felt an early call to religious life, and attended Mass daily. At age twelve she took a personal vow of c"
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Maria-Cristina-dell-Immacolata-Concezione.jpg"
+summary: >-
+  Born to a wealthy family, the daughter of Giovanni Giuseppe and Maria Concetta Marrazzo; her mother died with Adelaide
+  was only a few days old. The girl was educated at home, felt an early call to religious life, and attended Mass daily.
+  At age twelve she took a personal vow of c
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Maria-Cristina-dell-Immacolata-Concezione.jpg
 searchAliases:
-  - "Adelaide Brando"
-  - "Adelaidis Brando"
-  - "Maria Cristina Brando"
-  - "Maria Cristina of the Immaculata"
-  - "Maria Christina ab Immaculata Conceptione"
-  - "Sister Maria Cristina of the Immaculate Conception"
+  - Adelaide Brando
+  - Adelaidis Brando
+  - Maria Cristina Brando
+  - Maria Cristina of the Immaculata
+  - Maria Christina ab Immaculata Conceptione
+  - Sister Maria Cristina of the Immaculate Conception
 birthYear: 1856
 deathYear: 1906
-born: "1 May 1856 in Naples, Italy as Adelaide Brando"
-died: "20 January 1906 in Casoria, Naples, Italy of natural causes"
-birthPlace: "Italy as Adelaide Brando"
-deathPlace: "Naples, Italynatural causes"
-region: "Italy"
+born: 1 May 1856 in Naples, Italy as Adelaide Brando
+died: 20 January 1906 in Casoria, Naples, Italy of natural causes
+birthPlace: Italy as Adelaide Brando
+deathPlace: Naples, Italynatural causes
+region: Italy
 feastDay:
   month: 1
   day: 20
-centuries: [19, 20]
+centuries:
+  - 19
+  - 20
 canonizationStatus: Venerable
 vocation:
   - Priest
   - Religious
 martyr: false
+prayers: []
 ---
 
 Born to a wealthy family, the daughter of Giovanni Giuseppe and Maria Concetta Marrazzo; her mother died with Adelaide was only a few days old. The girl was educated at home, felt an early call to religious life, and attended Mass daily. At age twelve she took a personal vow of chastity, and soon after tried to enter the monastery of the Sacramentine Nuns in Naples, Italy, but was stopped by her father. She eventually gained his approval to enter the Poor Clare monastery at Fiorentine, Italy but twice fell severely ill, and had to return home. Upon her recovery she returned to Naples, Italy, and joined the Sacramentine Nuns as she had wanted originally, making her vows in 1876, and taking the name Sister Maria Cristina of the Immaculate Conception. Her health broke again, and she was forced to return home.

@@ -1,15 +1,17 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Ithier of Nevers"
+name: Saint Ithier of Nevers
 honorific: Saint
-summary: "Physician. Taught medicine. Treated the poor for free. Chosen bishop of Nevers, France, he became a priest in order to be consecrated."
+summary: >-
+  Physician. Taught medicine. Treated the poor for free. Chosen bishop of Nevers, France, he became a priest in order to
+  be consecrated.
 searchAliases:
-  - "Ythier"
+  - Ythier
 deathYear: 695
-born: "Nogent-sur-Vernisson, France"
-died: "695 of natural causes"
-birthPlace: "France"
-region: "France"
+born: Nogent-sur-Vernisson, France
+died: 695 of natural causes
+birthPlace: France
+region: France
 feastDay:
   month: 7
   day: 8
@@ -19,6 +21,7 @@ vocation:
   - Priest
   - Monk
 martyr: false
+prayers: []
 ---
 
 Physician. Taught medicine. Treated the poor for free. Chosen bishop of Nevers, France, he became a priest in order to be consecrated.

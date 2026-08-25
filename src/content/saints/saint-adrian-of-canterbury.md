@@ -1,18 +1,18 @@
 ---
-name: "Saint Adrian of Canterbury"
+name: Saint Adrian of Canterbury
 honorific: Saint
-summary: " Twice offered In the mid-640's, his family fled to Naples, Italy ahead of Arab invasion. Benedictine monk when quite young. Abbot of Hiridanum, Isle of Nisida, Bay of Naples. Aquainted with Emperor Constans II, who later introduced him to Pope Saint Vitalian. Advisor to Vitalian."
-image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Adrian-Abbot.jpg"
+summary: ' Twice offered In the mid-640''s, his family fled to Naples, Italy ahead of Arab invasion. Benedictine monk when quite young. Abbot of Hiridanum, Isle of Nisida, Bay of Naples. Aquainted with Emperor Constans II, who later introduced him to Pope Saint Vitalian. Advisor to Vitalian.'
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Adrian-Abbot.jpg
 searchAliases:
-  - "Adrien"
-  - "Hadrian"
+  - Adrien
+  - Hadrian
 birthYear: 635
 deathYear: 710
-born: "c.635 in Libya Cyrenaica, North Africa as Hadrian"
-died: "9 January 710 of natural causes at Canterbury, England, and buried there"
-birthPlace: "North Africa as Hadrian"
-deathPlace: "England, and buried there"
-region: "France"
+born: c.635 in Libya Cyrenaica, North Africa as Hadrian
+died: 9 January 710 of natural causes at Canterbury, England, and buried there
+birthPlace: North Africa as Hadrian
+deathPlace: England, and buried there
+region: France
 feastDay:
   month: 1
   day: 9
@@ -21,10 +21,11 @@ vocation:
   - Bishop
   - Priest
   - Confessor
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 patronage:
-  - "Canterbury, England"
+  - Canterbury, England
 martyr: false
+prayers: []
 ---
 
 In the mid-640's, his family fled to Naples, Italy ahead of Arab invasion. Benedictine monk when quite young. Abbot of Hiridanum, Isle of Nisida, Bay of Naples. Aquainted with Emperor Constans II, who later introduced him to Pope Saint Vitalian. Advisor to Vitalian.

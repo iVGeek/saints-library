@@ -1,17 +1,19 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Tortgith of Barking"
+name: Saint Tortgith of Barking
 honorific: Saint
-summary: "Benedictine nun at the abbey of Barking, England. Novice-mistress during the time when Saint Ethelburga was her abbess."
+summary: >-
+  Benedictine nun at the abbey of Barking, England. Novice-mistress during the time when Saint Ethelburga was her
+  abbess.
 searchAliases:
-  - "Theoregitha"
-  - "Theorogitha"
-  - "Thordgith"
-  - "Thorgyth"
-  - "Torctgyd"
+  - Theoregitha
+  - Theorogitha
+  - Thordgith
+  - Thorgyth
+  - Torctgyd
 deathYear: 700
-died: "c.700"
-region: "England"
+died: c.700
+region: England
 feastDay:
   month: 1
   day: 26
@@ -19,8 +21,9 @@ canonizationStatus: Saint
 vocation:
   - Monk
   - Religious
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 martyr: false
+prayers: []
 ---
 
 Benedictine nun at the abbey of Barking, England. Novice-mistress during the time when Saint Ethelburga was her abbess.

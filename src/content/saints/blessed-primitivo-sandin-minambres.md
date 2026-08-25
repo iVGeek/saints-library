@@ -1,23 +1,24 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Primitivo Sandín Miñambres"
+name: Blessed Primitivo Sandín Miñambres
 honorific: Blessed
-summary: "Augustinian priest. Martyred in the Spanish Civil War."
+summary: Augustinian priest. Martyred in the Spanish Civil War.
 birthYear: 1893
 deathYear: 1936
-born: "25 January 1893 in Santibáñez de Tera, Zamora, Spain"
-died: "28 July 1936 in Vallecas, Madrid, Spain"
-birthPlace: "Zamora, Spain"
-deathPlace: "Madrid, Spain"
-region: "Spain"
+born: 25 January 1893 in Santibáñez de Tera, Zamora, Spain
+died: 28 July 1936 in Vallecas, Madrid, Spain
+birthPlace: Zamora, Spain
+deathPlace: Madrid, Spain
+region: Spain
 feastDay:
   month: 7
   day: 28
 canonizationStatus: Blessed
 vocation:
   - Priest
-religiousOrder: "Augustinian"
+religiousOrder: Augustinian
 martyr: true
+prayers: []
 ---
 
 Augustinian priest. Martyred in the Spanish Civil War.

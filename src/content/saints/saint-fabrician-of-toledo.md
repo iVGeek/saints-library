@@ -1,13 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Fabrician of Toledo"
+name: Saint Fabrician of Toledo
 honorific: Saint
-summary: "Martyr."
+summary: Martyr.
 searchAliases:
-  - "Fabricianus"
-died: "Toledo, Spain"
-deathPlace: "Spain"
-region: "Spain"
+  - Fabricianus
+died: Toledo, Spain
+deathPlace: Spain
+region: Spain
 feastDay:
   month: 8
   day: 22
@@ -15,6 +15,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Martyr.

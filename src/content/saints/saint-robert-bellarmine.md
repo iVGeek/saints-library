@@ -38,6 +38,7 @@ patronage:
   - Capua, Italy, archdiocese of
   - Cincinnati, Ohio, archdiocese of
 martyr: false
+prayers: []
 ---
 
 Third of ten children of Vincenzo Bellarmine and Cinzia Cervini, a family of impoverished nobles. His mother, a niece of Pope Marcellus II, was dedicated to almsgiving, prayer, meditation, fasting, and mortification. Robert suffered assorted health problems all his life. Educated by Jesuits as a boy. Joined the Jesuits on 20 September 1560 over the opposition of his father who wanted Robert to enter politics. Studied at the Collegio Romano from 1560 to 1563, Jesuit centers in Florence, Italy in 1563, then in Mondovi, Piedmont, the University of Padua in 1567 and 1568, and the University of Louvain, Flanders in 1569. Ordained on Palm Sunday, 1570 in Ghent, Belgium.

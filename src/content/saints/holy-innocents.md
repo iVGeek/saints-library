@@ -1,12 +1,12 @@
 ---
-name: "Holy Innocents"
+name: Holy Innocents
 honorific: Saint
-summary: " When Herod realized that he had been deceived by the magi, he became furious. He ordered the massacre of all the boys in Bethlehem and its vicinity two years old and under, in accordance with th The children slaughtered by Herod the Great when he tried to kill the infant Christ."
-image: "http://catholicsaints.info/wp-content/gallery/holy-innocents/holy-innocents-04.jpg"
+summary: ' When Herod realized that he had been deceived by the magi, he became furious. He ordered the massacre of all the boys in Bethlehem and its vicinity two years old and under, in accordance with th The children slaughtered by Herod the Great when he tried to kill the infant Christ.'
+image: http://catholicsaints.info/wp-content/gallery/holy-innocents/holy-innocents-04.jpg
 searchAliases:
-  - "Childermas"
-  - "Children's Mass"
-region: "Holy Land"
+  - Childermas
+  - Children's Mass
+region: Holy Land
 feastDay:
   month: 12
   day: 28
@@ -15,18 +15,19 @@ vocation:
   - Bishop
   - Priest
   - Monk
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 patronage:
-  - "against ambition"
-  - "against jealousy"
-  - "altar servers"
-  - "babies"
-  - "children"
-  - "children's choir"
-  - "choir boys"
-  - "foundlings"
-  - "students"
+  - against ambition
+  - against jealousy
+  - altar servers
+  - babies
+  - children
+  - children's choir
+  - choir boys
+  - foundlings
+  - students
 martyr: false
+prayers: []
 ---
 
 The children slaughtered by Herod the Great when he tried to kill the infant Christ.

@@ -17,6 +17,7 @@ vocation:
   - Monk
 religiousOrder: Franciscan
 martyr: true
+prayers: []
 ---
 
 Member of the Franciscan Friars Minor (Observants). Martyred in the Boxer Rebellion.

@@ -1,17 +1,19 @@
 ---
-name: "Blessed Antoni Ulma"
+name: Blessed Antoni Ulma
 honorific: Blessed
-summary: "Child in the archdiocese of Przemysl, Poland, the son of Józef and Wiktoria Ulma. Executed by Nazi forces because his family hid Jewish refugees during World War II. Martyr."
-image: "https://catholicsaints.info/wp-content/uploads/img-Ulma-Children.jpg"
+summary: >-
+  Child in the archdiocese of Przemysl, Poland, the son of Józef and Wiktoria Ulma. Executed by Nazi forces because his
+  family hid Jewish refugees during World War II. Martyr.
+image: https://catholicsaints.info/wp-content/uploads/img-Ulma-Children.jpg
 searchAliases:
-  - "Antos"
+  - Antos
 birthYear: 1941
 deathYear: 1944
-born: "6 June 1941 in Markowa, Lancut, Poland"
-died: "shot in the early morning of 24 March 1944 outside their residence in Markowa, Lancut, Poland"
-birthPlace: "Lancut, Poland"
-deathPlace: "Lancut, Poland"
-region: "Poland"
+born: 6 June 1941 in Markowa, Lancut, Poland
+died: shot in the early morning of 24 March 1944 outside their residence in Markowa, Lancut, Poland
+birthPlace: Lancut, Poland
+deathPlace: Lancut, Poland
+region: Poland
 feastDay:
   month: 3
   day: 24
@@ -19,6 +21,7 @@ canonizationStatus: Blessed
 vocation:
   - Cardinal
 martyr: true
+prayers: []
 ---
 
 Child in the archdiocese of Przemysl, Poland, the son of Józef and Wiktoria Ulma. Executed by Nazi forces because his family hid Jewish refugees during World War II. Martyr.

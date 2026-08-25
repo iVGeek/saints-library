@@ -15,6 +15,7 @@ image: >-
 vocation:
   - Virgin
 martyr: true
+prayers: []
 ---
 
 Third century martyr. No other information has survived.

@@ -29,6 +29,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/b/b1/KellsFol032vChristEnthroned.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Boniface Curitan
 imageCreditUrl: https://en.wikipedia.org/wiki/Christianisation%20of%20Scotland
+prayers: []
 ---
 
 Bishop of Ross, Scotland. Evangelized the Picts and Scots. Introduced Roman liturgy, observance and monastic discipline into the region. Found many churches in the northern British Isles.

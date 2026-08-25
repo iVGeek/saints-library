@@ -32,6 +32,7 @@ religiousOrder: Benedictine
 patronage:
   - Agaunum, Switzerland
 martyr: false
+prayers: []
 ---
 
 Born to the nobility. Entered the abbey of Saint Maurice of Agaune in Switzerland while still very young. Spent thirty years there as a schoolboy, Benedictine monk, and hermit. Accompanied Saint Eustace  to Luxeuil Abbey in 614, and became a monk there. Brought the Merovingian nobleman Saint Romaric to the faith. Among his other charities, Romaric founded a Benedictine double monastery of Remiremont Abbey at Habendum in 620, and Amatus served as its first abbot.

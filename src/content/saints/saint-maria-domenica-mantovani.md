@@ -1,27 +1,33 @@
 ---
-name: "Saint Maria Domenica Mantovani"
+name: Saint Maria Domenica Mantovani
 honorific: Venerable
-summary: "Eldest of four children born to Giovanni and Prudenza Zamperini, Maria grew up in a small farm village She received only three years of elementary school, learned religion from her pious parents, and was early drawn to religious life. In her teens, Maria's parish priest and spiri"
-image: "https://upload.wikimedia.org/wikipedia/commons/1/11/Maria_Domenica_Mantovani.jpg"
+summary: >-
+  Eldest of four children born to Giovanni and Prudenza Zamperini, Maria grew up in a small farm village She received
+  only three years of elementary school, learned religion from her pious parents, and was early drawn to religious life.
+  In her teens, Maria's parish priest and spiri
+image: https://upload.wikimedia.org/wikipedia/commons/1/11/Maria_Domenica_Mantovani.jpg
 searchAliases:
-  - "Mother Maria of the Immaculate"
+  - Mother Maria of the Immaculate
 birthYear: 1862
 deathYear: 1934
-born: "12 November 1862 in Castelletto di Brenzone, Italy"
-died: "2 February 1934 in Castelletto di Brenzone, Italy of natural causes"
-birthPlace: "Italy"
-deathPlace: "Italynatural causes"
-region: "Brazil"
+born: 12 November 1862 in Castelletto di Brenzone, Italy
+died: 2 February 1934 in Castelletto di Brenzone, Italy of natural causes
+birthPlace: Italy
+deathPlace: Italynatural causes
+region: Brazil
 feastDay:
   month: 2
   day: 2
-centuries: [19, 20]
+centuries:
+  - 19
+  - 20
 canonizationStatus: Venerable
 vocation:
   - Virgin
   - Priest
   - Religious
 martyr: false
+prayers: []
 ---
 
 Eldest of four children born to Giovanni and Prudenza Zamperini, Maria grew up in a small farm village She received only three years of elementary school, learned religion from her pious parents, and was early drawn to religious life. In her teens, Maria's parish priest and spiritual director, Blessed Giuseppe Nascimbeni, encouraged her to visit the sick, teach catechism, and become active in her parish work.

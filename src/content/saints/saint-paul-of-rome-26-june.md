@@ -1,11 +1,14 @@
 ---
-name: "Saint Paul of Rome"
+name: Saint Paul of Rome
 honorific: Saint
-summary: "Servant of Constantia, daughter of Constantine. He refused to join the household of Julian the Apostate when he became emperor, and was secretly martyred in his own home. His name is listed in the “Communicantes” in the Canon of the Mass. A basilica in Rome, Italy is named for hi"
-image: "http://catholicsaints.info/wp-content/uploads/pls-Saints-John-and-Paul-Martyrs.jpg"
-born: "Roman"
-died: "beheaded"
-region: "Italy"
+summary: >-
+  Servant of Constantia, daughter of Constantine. He refused to join the household of Julian the Apostate when he became
+  emperor, and was secretly martyred in his own home. His name is listed in the “Communicantes” in the Canon of the
+  Mass. A basilica in Rome, Italy is named for hi
+image: http://catholicsaints.info/wp-content/uploads/pls-Saints-John-and-Paul-Martyrs.jpg
+born: Roman
+died: beheaded
+region: Italy
 feastDay:
   month: 6
   day: 26
@@ -14,6 +17,7 @@ vocation:
   - Priest
   - Monk
 martyr: true
+prayers: []
 ---
 
 Servant of Constantia, daughter of Constantine. He refused to join the household of Julian the Apostate when he became emperor, and was secretly martyred in his own home. His name is listed in the “Communicantes” in the Canon of the Mass. A basilica in Rome, Italy is named for him.

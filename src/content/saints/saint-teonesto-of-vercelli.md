@@ -1,21 +1,22 @@
 ---
-name: "Saint Teonesto of Vercelli"
+name: Saint Teonesto of Vercelli
 honorific: Saint
-summary: "Martyr."
-image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Teonesto-of-Vercelli.jpg"
+summary: Martyr.
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Teonesto-of-Vercelli.jpg
 searchAliases:
-  - "Theoneste"
-  - "Theonestus"
+  - Theoneste
+  - Theonestus
 deathYear: 313
-died: "c.313 in Vercelli, Piedmont, Italy"
-deathPlace: "Piedmont, Italy"
-region: "Italy"
+died: c.313 in Vercelli, Piedmont, Italy
+deathPlace: Piedmont, Italy
+region: Italy
 feastDay:
   month: 11
   day: 20
 canonizationStatus: Saint
 vocation: []
 martyr: true
+prayers: []
 ---
 
 Martyr.

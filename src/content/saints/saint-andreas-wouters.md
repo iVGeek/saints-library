@@ -1,17 +1,19 @@
 ---
-name: "Saint Andreas Wouters"
+name: Saint Andreas Wouters
 honorific: Saint
-summary: "Priest in the diocese of Haarlem, Netherlands. Martyred by Calvinists for “papism” and his belief in the Real Presence in the Eucharist. One of the Martyrs of Gorkum."
-image: "http://catholicsaints.info/wp-content/uploads/Martyrs_de_Gorkum.jpg"
+summary: >-
+  Priest in the diocese of Haarlem, Netherlands. Martyred by Calvinists for “papism” and his belief in the Real Presence
+  in the Eucharist. One of the Martyrs of Gorkum.
+image: http://catholicsaints.info/wp-content/uploads/Martyrs_de_Gorkum.jpg
 searchAliases:
-  - "Andries"
+  - Andries
 birthYear: 1542
 deathYear: 1572
-born: "1542 in Heinenoord, Noord-Holland, Netherlands"
-died: "hanged on 9 July 1572 in Brielle, Zuid-Holland, Netherlands"
-birthPlace: "Noord-Holland, Netherlands"
-deathPlace: "Zuid-Holland, Netherlands"
-region: "Netherlands"
+born: 1542 in Heinenoord, Noord-Holland, Netherlands
+died: hanged on 9 July 1572 in Brielle, Zuid-Holland, Netherlands
+birthPlace: Noord-Holland, Netherlands
+deathPlace: Zuid-Holland, Netherlands
+region: Netherlands
 feastDay:
   month: 7
   day: 9
@@ -19,6 +21,7 @@ canonizationStatus: Saint
 vocation:
   - Priest
 martyr: true
+prayers: []
 ---
 
 Priest in the diocese of Haarlem, Netherlands. Martyred by Calvinists for “papism” and his belief in the Real Presence in the Eucharist. One of the Martyrs of Gorkum.

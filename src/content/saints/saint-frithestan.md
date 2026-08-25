@@ -1,13 +1,15 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Frithestan"
+name: Saint Frithestan
 honorific: Saint
-summary: "Spiritual student of Saint Grimbald. Bishop of Winchester, England, consecrated by Saint Plegmund. He served for 23 years, and noted for his care for the poor and a ministry of prayer for the recently dead."
+summary: >-
+  Spiritual student of Saint Grimbald. Bishop of Winchester, England, consecrated by Saint Plegmund. He served for 23
+  years, and noted for his care for the poor and a ministry of prayer for the recently dead.
 searchAliases:
-  - "Frithustan"
+  - Frithustan
 deathYear: 933
-died: "933"
-region: "England"
+died: '933'
+region: England
 feastDay:
   month: 9
   day: 10
@@ -16,6 +18,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Spiritual student of Saint Grimbald. Bishop of Winchester, England, consecrated by Saint Plegmund. He served for 23 years, and noted for his care for the poor and a ministry of prayer for the recently dead.

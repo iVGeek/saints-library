@@ -1,15 +1,18 @@
 ---
-name: "Blessed Luigi Biraghi"
+name: Blessed Luigi Biraghi
 honorific: Blessed
-summary: "The fifth of eight children. Entered the Minor Seminary of Castello sopra Lecco, Italy at age 12; studied in the Major Seminaries of Monza and Milan in Italy. Ordained in the archdiocese of Milan, Italy on 28 May 1825. Taught in the seminaries of Castello sopra Lecco, Seveso and"
-image: "https://upload.wikimedia.org/wikipedia/commons/1/10/Luigi_Biraghi.jpg"
+summary: >-
+  The fifth of eight children. Entered the Minor Seminary of Castello sopra Lecco, Italy at age 12; studied in the Major
+  Seminaries of Monza and Milan in Italy. Ordained in the archdiocese of Milan, Italy on 28 May 1825. Taught in the
+  seminaries of Castello sopra Lecco, Seveso and
+image: https://upload.wikimedia.org/wikipedia/commons/1/10/Luigi_Biraghi.jpg
 birthYear: 1801
 deathYear: 1879
-born: "2 November 1801 in Vignate, Milan, Italy"
-died: "11 August 1879 in Milan, Italy of natural causes"
-birthPlace: "Milan, Italy"
-deathPlace: "Italynatural causes"
-region: "Mexico"
+born: 2 November 1801 in Vignate, Milan, Italy
+died: 11 August 1879 in Milan, Italy of natural causes
+birthPlace: Milan, Italy
+deathPlace: Italynatural causes
+region: Mexico
 feastDay:
   month: 5
   day: 28
@@ -18,6 +21,7 @@ vocation:
   - Priest
   - Religious
 martyr: false
+prayers: []
 ---
 
 The fifth of eight children. Entered the Minor Seminary of Castello sopra Lecco, Italy at age 12; studied in the Major Seminaries of Monza and Milan in Italy. Ordained in the archdiocese of Milan, Italy on 28 May 1825. Taught in the seminaries of Castello sopra Lecco, Seveso and Monza. A highly educated and cultured man with deep knowledge of the early Church fathers and archeology. Spiritual director of the Major Seminary of Milan in 1833.

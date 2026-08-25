@@ -17,6 +17,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/1/13/Saint_Januarius.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Apollonius of Benevento
 imageCreditUrl: https://en.wikipedia.org/wiki/Januarius
+prayers: []
 ---
 
 Bishop of Benevento, Italy. Forced into hiding during the persecutions of Diocletian.

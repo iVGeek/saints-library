@@ -1,15 +1,15 @@
 ---
-name: "Saint Sophia of Fermo"
+name: Saint Sophia of Fermo
 honorific: Saint
-summary: "Consecrated virgin martyred in the persecutions of Decius."
-image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Sophia-of-Fermo.jpg"
+summary: Consecrated virgin martyred in the persecutions of Decius.
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Sophia-of-Fermo.jpg
 searchAliases:
-  - "Sofia"
+  - Sofia
 deathYear: 250
-born: "Fermo, Italy"
-died: "c.250"
-birthPlace: "Italy"
-region: "Italy"
+born: Fermo, Italy
+died: c.250
+birthPlace: Italy
+region: Italy
 feastDay:
   month: 4
   day: 30
@@ -19,6 +19,7 @@ vocation:
   - Priest
   - Monk
 martyr: true
+prayers: []
 ---
 
 Consecrated virgin martyred in the persecutions of Decius.

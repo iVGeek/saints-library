@@ -1,14 +1,14 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Casari of Villeneuve-lès-Avignon"
+name: Saint Casari of Villeneuve-lès-Avignon
 honorific: Saint
-summary: "Hermitess in the area of Avignon, France near where the Abbey Saint-André-de-Villeneuve was founded."
+summary: Hermitess in the area of Avignon, France near where the Abbey Saint-André-de-Villeneuve was founded.
 searchAliases:
-  - "Cazarie"
-  - "Gosaria"
+  - Cazarie
+  - Gosaria
 deathYear: 586
-died: "586 of natural causes"
-region: "France"
+died: 586 of natural causes
+region: France
 feastDay:
   month: 12
   day: 8
@@ -17,6 +17,7 @@ vocation:
   - Monk
   - Hermit
 martyr: false
+prayers: []
 ---
 
 Hermitess in the area of Avignon, France near where the Abbey Saint-André-de-Villeneuve was founded.

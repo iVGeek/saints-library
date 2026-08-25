@@ -17,6 +17,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/1/19/MonasteroAntonio2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Anthony of Nicopolis
 imageCreditUrl: https://en.wikipedia.org/wiki/Monastery%20of%20Saint%20Anthony
+prayers: []
 ---
 
 Tortured and martyred in the persecutions of emperor Licinius.

@@ -29,6 +29,7 @@ patronage:
   - nail makers
   - Saint Cloud, Minnesota, diocese of
 martyr: false
+prayers: []
 ---
 
 Born to French royalty, son of King Clodomir and Clotilde, and grandson of King Clovis and Saint Clotilda. His father died in battle when his children were still quite young. The king's sons were raised in Paris, France by their grandmother, Saint Clotilda, until an ambitious uncle murdered two of them in a power grab. Clodoaldus escaped, renounced all claims to the throne, and lived as a studious hermit.

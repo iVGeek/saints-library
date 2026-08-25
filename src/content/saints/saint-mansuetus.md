@@ -1,18 +1,20 @@
 ---
-name: "Saint Mansuetus of Toul"
+name: Saint Mansuetus of Toul
 honorific: Saint
-summary: "First bishop of Toul, France, c.338 serving until his death. He was so successful in spreading the faith in the region that he became known as the Apostle of Lorraine."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Mansuetus-of-Toul.jpg"
+summary: >-
+  First bishop of Toul, France, c.338 serving until his death. He was so successful in spreading the faith in the region
+  that he became known as the Apostle of Lorraine.
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Mansuetus-of-Toul.jpg
 searchAliases:
-  - "Mansu"
-  - "Mansueto"
-  - "Mansuy"
-  - "Apostle of Lorraine"
+  - Mansu
+  - Mansueto
+  - Mansuy
+  - Apostle of Lorraine
 deathYear: 350
-born: "British Isles"
-died: "c.350 in Toul, Gaul (in modern France)"
-deathPlace: "Gaul (modern France)"
-region: "France"
+born: British Isles
+died: c.350 in Toul, Gaul (in modern France)
+deathPlace: Gaul (modern France)
+region: France
 feastDay:
   month: 9
   day: 3
@@ -22,8 +24,9 @@ vocation:
   - Priest
   - Monk
 patronage:
-  - "Toul, France"
+  - Toul, France
 martyr: false
+prayers: []
 ---
 
 First bishop of Toul, France, c.338 serving until his death. He was so successful in spreading the faith in the region that he became known as the Apostle of Lorraine.

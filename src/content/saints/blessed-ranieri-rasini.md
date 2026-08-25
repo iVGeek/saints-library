@@ -1,37 +1,41 @@
 ---
-name: "Blessed Ranieri Rasini"
+name: Blessed Ranieri Rasini
 honorific: Blessed
-summary: " Among the miracles attributed to him was the resurrection from the dead of two children, Franciscan Friar Minor who served as his convent porter and beggar in Borgo San Sepolcro (modern Sansepolcro), Italy. He was known for his humility, poverty, patience and service to the poor."
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Rainier-Rasini.jpg"
+summary: ' Among the miracles attributed to him was the resurrection from the dead of two children, Franciscan Friar Minor who served as his convent porter and beggar in Borgo San Sepolcro (modern Sansepolcro), Italy. He was known for his humility, poverty, patience and service to the poor.'
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Rainier-Rasini.jpg
 searchAliases:
-  - "Ranieri of Aretino"
-  - "Ranieri of Arezzo"
-  - "Ranieri of Borgo"
-  - "Ranieri of Sansepolcro"
-  - "Raniero…"
-  - "Ranier…"
-  - "Raynier…"
-  - "Raynerius…"
+  - Ranieri of Aretino
+  - Ranieri of Arezzo
+  - Ranieri of Borgo
+  - Ranieri of Sansepolcro
+  - Raniero…
+  - Ranier…
+  - Raynier…
+  - Raynerius…
 birthYear: 1250
 deathYear: 1304
-born: "c.1250 in Sansepolcro, Umbria, Italy"
-died: "1 November 1304 in Sansepolcro, Umbria, Italy of natural causes"
-birthPlace: "Umbria, Italy"
-deathPlace: "Umbria, Italynatural causes"
-region: "France"
+born: c.1250 in Sansepolcro, Umbria, Italy
+died: 1 November 1304 in Sansepolcro, Umbria, Italy of natural causes
+birthPlace: Umbria, Italy
+deathPlace: Umbria, Italynatural causes
+region: France
 feastDay:
   month: 11
   day: 1
 canonizationStatus: Blessed
 vocation:
   - Priest
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 patronage:
-  - "women in labour"
-  - "–"
-  - "in Italy\n\nArezzo"
-  - "Sansepolcro"
+  - women in labour
+  - –
+  - |-
+    in Italy
+
+    Arezzo
+  - Sansepolcro
 martyr: false
+prayers: []
 ---
 
 Franciscan Friar Minor who served as his convent porter and beggar in Borgo San Sepolcro (modern Sansepolcro), Italy. He was known for his humility, poverty, patience and service to the poor.

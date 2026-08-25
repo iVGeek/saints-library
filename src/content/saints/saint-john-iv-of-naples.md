@@ -1,14 +1,14 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint John IV of Naples"
+name: Saint John IV of Naples
 honorific: Saint
-summary: "Bishop of Naples, Italy."
+summary: Bishop of Naples, Italy.
 searchAliases:
-  - "Giovanni d'Acquarola"
-  - "John the Peacemaker"
+  - Giovanni d'Acquarola
+  - John the Peacemaker
 deathYear: 835
-died: "835 of natural causes"
-region: "Italy"
+died: 835 of natural causes
+region: Italy
 feastDay:
   month: 6
   day: 22
@@ -17,8 +17,9 @@ vocation:
   - Bishop
   - Monk
 patronage:
-  - "Naples, Italy"
+  - Naples, Italy
 martyr: false
+prayers: []
 ---
 
 Bishop of Naples, Italy.

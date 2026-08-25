@@ -1,14 +1,17 @@
 ---
-name: "Saint Donatus of Münstereifel"
+name: Saint Donatus of Münstereifel
 honorific: Saint
-summary: "Son of Faustus, a non-Christian, and Flaminia, a Christian; his father was saved from a severe illness by the intercession of Saint> Gervasius, and Donatus grew up in the faith. When he was 17, he became a soldier, rose through the ranks, and in his mid-20's he was a captain in t"
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Donatus.jpg"
+summary: >-
+  Son of Faustus, a non-Christian, and Flaminia, a Christian; his father was saved from a severe illness by the
+  intercession of Saint> Gervasius, and Donatus grew up in the faith. When he was 17, he became a soldier, rose through
+  the ranks, and in his mid-20's he was a captain in t
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Donatus.jpg
 birthYear: 140
 deathYear: 180
-born: "c.140 of Rome, Italy"
-died: "c.180"
-birthPlace: "Italy"
-region: "Egypt"
+born: c.140 of Rome, Italy
+died: c.180
+birthPlace: Italy
+region: Egypt
 feastDay:
   month: 6
   day: 30
@@ -17,16 +20,17 @@ vocation:
   - Priest
   - Monk
   - Soldier
-religiousOrder: "Jesuit"
+religiousOrder: Jesuit
 patronage:
-  - "against lightning"
-  - "against storms"
-  - "against fire"
-  - "bakers"
-  - "wine makers"
-  - "Buda, Hungary"
-  - "Saint Donatus, Iowa (named in his honour by Luxembourgish immigrants)"
+  - against lightning
+  - against storms
+  - against fire
+  - bakers
+  - wine makers
+  - Buda, Hungary
+  - Saint Donatus, Iowa (named in his honour by Luxembourgish immigrants)
 martyr: true
+prayers: []
 ---
 
 Son of Faustus, a non-Christian, and Flaminia, a Christian; his father was saved from a severe illness by the intercession of Saint> Gervasius, and Donatus grew up in the faith. When he was 17, he became a soldier, rose through the ranks, and in his mid-20's he was a captain in the 12th imperial Roman legion. Around the year 166, his unit was fighting Germanic tribes along the Danube river. The Romans got surrounded and cut off from supplies, including water, for days. The pagan Romans pleaded with their gods for relief, but nothing happened. Donatus finally got all the Christian soldiers together (due to persecutions of Christians, they did not call attention to themselves) and prayed, and a storm blew in; the Romans captured all the water they needed, lightning struck the German camp, and the legion chased the tribes back across the river. However, being exposed as a Christian led to Donatus being executed. Martyr.

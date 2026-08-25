@@ -1,19 +1,20 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Felician of Carthage"
+name: Saint Felician of Carthage
 honorific: Saint
-summary: "Martyr."
+summary: Martyr.
 searchAliases:
-  - "Feliciano"
-died: "Carthage, North Africa"
-deathPlace: "North Africa"
-region: "Italy"
+  - Feliciano
+died: Carthage, North Africa
+deathPlace: North Africa
+region: Italy
 feastDay:
   month: 10
   day: 29
 canonizationStatus: Saint
 vocation: []
 martyr: true
+prayers: []
 ---
 
 Martyr.

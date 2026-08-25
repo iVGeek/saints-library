@@ -1,22 +1,25 @@
 ---
-name: "Blessed Jerzy Kaszyra"
+name: Blessed Jerzy Kaszyra
 honorific: Blessed
-summary: "Raised in an Orthodox family, George converted to Roman Catholicism in 1922 at age 18. He joined the Marians of the Immaculate Conception in 1924 in Druya, Belarus, and made his profession on 2 August 1929. He studied theology and philosophy in Rome, Italy, then at the seminary o"
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Jerzy-Kaszyra.jpg"
+summary: >-
+  Raised in an Orthodox family, George converted to Roman Catholicism in 1922 at age 18. He joined the Marians of the
+  Immaculate Conception in 1924 in Druya, Belarus, and made his profession on 2 August 1929. He studied theology and
+  philosophy in Rome, Italy, then at the seminary o
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Jerzy-Kaszyra.jpg
 searchAliases:
-  - "George Kashira"
-  - "George Kaszyra"
-  - "Juryj Kašyra"
-  - "Giorgio…"
-  - "Jerzy…"
-  - "Yuri"
+  - George Kashira
+  - George Kaszyra
+  - Juryj Kašyra
+  - Giorgio…
+  - Jerzy…
+  - Yuri
 birthYear: 1904
 deathYear: 1943
-born: "4 April 1904 in Aleksandravele, Vilniaus rajonas, Lithuania"
-died: "burned alive on 18 February 1943 in Rositsa (Rosica), Vitebskaya voblasts', Belarus"
-birthPlace: "Vilniaus rajonas, Lithuania"
-deathPlace: "Vitebskaya voblasts', Belarus"
-region: "Italy"
+born: 4 April 1904 in Aleksandravele, Vilniaus rajonas, Lithuania
+died: burned alive on 18 February 1943 in Rositsa (Rosica), Vitebskaya voblasts', Belarus
+birthPlace: Vilniaus rajonas, Lithuania
+deathPlace: Vitebskaya voblasts', Belarus
+region: Italy
 feastDay:
   month: 2
   day: 18
@@ -24,6 +27,7 @@ canonizationStatus: Blessed
 vocation:
   - Priest
 martyr: true
+prayers: []
 ---
 
 Raised in an Orthodox family, George converted to Roman Catholicism in 1922 at age 18. He joined the Marians of the Immaculate Conception in 1924 in Druya, Belarus, and made his profession on 2 August 1929. He studied theology and philosophy in Rome, Italy, then at the seminary of Vilnius, Lithuania. Ordained a priest on 20 June 1935. He taught catechism in Druja, and in the seminary in Vilnius.

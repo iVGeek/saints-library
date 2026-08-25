@@ -1,18 +1,21 @@
 ---
-name: "Blessed Julian Maunoir"
+name: Blessed Julian Maunoir
 honorific: Blessed
-summary: "Raised in a pious home. Classmate of Saint Isaac Jogues. Joined the Jesuits in 1625. Regent of the College of Quimper from 1630 to 1633. Ordained on 6 June 1637. Successfully fought secret societies in Brittany, France. Built homes for the aged in the French cities of Vannes and"
-image: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Julien_Maunoir.jpg"
+summary: >-
+  Raised in a pious home. Classmate of Saint Isaac Jogues. Joined the Jesuits in 1625. Regent of the College of Quimper
+  from 1630 to 1633. Ordained on 6 June 1637. Successfully fought secret societies in Brittany, France. Built homes for
+  the aged in the French cities of Vannes and
+image: https://upload.wikimedia.org/wikipedia/commons/1/1a/Julien_Maunoir.jpg
 searchAliases:
-  - "Julien Maunoir"
-  - "Apostle of Brittany"
+  - Julien Maunoir
+  - Apostle of Brittany
 birthYear: 1606
 deathYear: 1683
-born: "1 October 1606 at Saint-Georges-de-Reitembault, France"
-died: "8pm on 28 January 1683 at Plévin, France of natural causes"
-birthPlace: "France"
-deathPlace: "Francenatural causes"
-region: "Canada"
+born: 1 October 1606 at Saint-Georges-de-Reitembault, France
+died: 8pm on 28 January 1683 at Plévin, France of natural causes
+birthPlace: France
+deathPlace: Francenatural causes
+region: Canada
 feastDay:
   month: 1
   day: 28
@@ -20,8 +23,9 @@ canonizationStatus: Blessed
 vocation:
   - Priest
   - Missionary
-religiousOrder: "Jesuit"
+religiousOrder: Jesuit
 martyr: false
+prayers: []
 ---
 
 Raised in a pious home. Classmate of Saint Isaac Jogues. Joined the Jesuits in 1625. Regent of the College of Quimper from 1630 to 1633. Ordained on 6 June 1637. Successfully fought secret societies in Brittany, France. Built homes for the aged in the French cities of Vannes and Quimper.

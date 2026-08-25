@@ -1,15 +1,17 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Madelgisilus"
+name: Saint Madelgisilus
 honorific: Saint
-summary: "Spiritual student of Saint Fursey. Monk at Saint Riquier Abbey in France. Retired to live as a hermit with Saint Pulgan near Monstrelet, France."
+summary: >-
+  Spiritual student of Saint Fursey. Monk at Saint Riquier Abbey in France. Retired to live as a hermit with Saint
+  Pulgan near Monstrelet, France.
 searchAliases:
-  - "Maguil"
-  - "Mauguille"
+  - Maguil
+  - Mauguille
 deathYear: 655
-born: "Ireland"
-died: "c.655"
-region: "France"
+born: Ireland
+died: c.655
+region: France
 feastDay:
   month: 5
   day: 30
@@ -19,6 +21,7 @@ vocation:
   - Monk
   - Hermit
 martyr: false
+prayers: []
 ---
 
 Spiritual student of Saint Fursey. Monk at Saint Riquier Abbey in France. Retired to live as a hermit with Saint Pulgan near Monstrelet, France.

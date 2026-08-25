@@ -1,10 +1,10 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Primael of Quimper"
+name: Saint Primael of Quimper
 honorific: Saint
-summary: "Hermit near Quimper, France."
-born: "British Isles"
-region: "France"
+summary: Hermit near Quimper, France.
+born: British Isles
+region: France
 feastDay:
   month: 5
   day: 16
@@ -13,6 +13,7 @@ vocation:
   - Monk
   - Hermit
 martyr: false
+prayers: []
 ---
 
 Hermit near Quimper, France.

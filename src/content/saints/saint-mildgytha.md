@@ -1,18 +1,21 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Mildgytha"
+name: Saint Mildgytha
 honorific: Saint
-summary: "Born a princess, the daughter of Merewalh, King of Mercia, and Saint Ebbe in Thanet. Sister of Saint Milburga and Saint Mildred of Thanet. Benedictine nun, receiving the veil from her mother at Minster on the Isle of Thanet. Abbess of a Northumbrian convent."
+summary: >-
+  Born a princess, the daughter of Merewalh, King of Mercia, and Saint Ebbe in Thanet. Sister of Saint Milburga and
+  Saint Mildred of Thanet. Benedictine nun, receiving the veil from her mother at Minster on the Isle of Thanet. Abbess
+  of a Northumbrian convent.
 searchAliases:
-  - "Mildgita"
-  - "Mildgith"
-  - "Mildgyð"
-  - "Mildgyth"
-  - "Milgitha"
-  - "Milgithe"
+  - Mildgita
+  - Mildgith
+  - Mildgyð
+  - Mildgyth
+  - Milgitha
+  - Milgithe
 deathYear: 676
-died: "c.676 of natural causes"
-region: "England"
+died: c.676 of natural causes
+region: England
 feastDay:
   month: 1
   day: 17
@@ -22,8 +25,9 @@ vocation:
   - Priest
   - Monk
   - Religious
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 martyr: false
+prayers: []
 ---
 
 Born a princess, the daughter of Merewalh, King of Mercia, and Saint Ebbe in Thanet. Sister of Saint Milburga and Saint Mildred of Thanet. Benedictine nun, receiving the veil from her mother at Minster on the Isle of Thanet. Abbess of a Northumbrian convent.

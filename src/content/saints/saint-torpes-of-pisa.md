@@ -26,6 +26,7 @@ patronage:
   - Pisa, Italy
   - Saint-Tropez, France
 martyr: true
+prayers: []
 ---
 
 Martyred in the persecutions of Nero. Nothing else is known for sure, though that never slowed early writers who created lengthy biographies of him. Saint-Tropez, France is named for him.

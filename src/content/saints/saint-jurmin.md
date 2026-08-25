@@ -15,6 +15,7 @@ vocation:
   - Monk
   - Confessor
 martyr: false
+prayers: []
 ---
 
 Prince. Relative of King Anna of East Anglia, England. Brother of Saint Etheldreda.  Confessor of the faith.

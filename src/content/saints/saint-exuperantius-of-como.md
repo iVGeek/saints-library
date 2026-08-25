@@ -1,15 +1,15 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Exuperantius of Como"
+name: Saint Exuperantius of Como
 honorific: Saint
-summary: "Sixth bishop of Como, Italy c.495. Ardent opponent of Arianism."
+summary: Sixth bishop of Como, Italy c.495. Ardent opponent of Arianism.
 searchAliases:
-  - "Esuperanzio"
+  - Esuperanzio
 birthYear: 400
 deathYear: 512
-born: "c.400 in Greece"
-died: "c.512 of natural causes"
-region: "Italy"
+born: c.400 in Greece
+died: c.512 of natural causes
+region: Italy
 feastDay:
   month: 6
   day: 22
@@ -18,6 +18,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Sixth bishop of Como, Italy c.495. Ardent opponent of Arianism.

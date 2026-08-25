@@ -15,6 +15,7 @@ vocation:
   - Bishop
   - Monk
 martyr: true
+prayers: []
 ---
 
 Bishop of Bologna, Italy from 540 until his death. Martyred by Goths led by Goterne.

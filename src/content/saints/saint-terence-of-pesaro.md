@@ -28,6 +28,7 @@ patronage:
     Pesaro, archdiocese of
   - Pesaro, city of
 martyr: true
+prayers: []
 ---
 
 Fled to across the Adriatic Sea Italy to escape persecutions in Pannonia (modern Hungary in the early 3rd century. Bishop of Pesaro, Italy. Martyr.

@@ -1,20 +1,23 @@
 ---
-name: "Saint Leobinus of Chartres"
+name: Saint Leobinus of Chartres
 honorific: Saint
-summary: "Son of peasants, he was a field worker and shepherd in his youth. Thirsting for education, he went to the monastery at Noailles, France, working for the monks by day, being taught by them at night. He studied late by candle light, which annoyed the monks who had to wake for early"
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Leobinus-of-Chartres1.jpg"
+summary: >-
+  Son of peasants, he was a field worker and shepherd in his youth. Thirsting for education, he went to the monastery at
+  Noailles, France, working for the monks by day, being taught by them at night. He studied late by candle light, which
+  annoyed the monks who had to wake for early
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Leobinus-of-Chartres1.jpg
 searchAliases:
-  - "Lubinus"
-  - "Lubin"
-  - "Lubinius"
-  - "Lumine"
-  - "Leubinus"
-  - "Loubin"
+  - Lubinus
+  - Lubin
+  - Lubinius
+  - Lumine
+  - Leubinus
+  - Loubin
 deathYear: 558
-born: "at Poitiers, France"
-died: "14 March 558 following a lengthy illness"
-birthPlace: "France"
-region: "France"
+born: at Poitiers, France
+died: 14 March 558 following a lengthy illness
+birthPlace: France
+region: France
 feastDay:
   month: 3
   day: 14
@@ -23,14 +26,15 @@ vocation:
   - Bishop
   - Priest
 patronage:
-  - "against dropsy"
-  - "against edema"
-  - "against rheumatism"
-  - "innkeepers"
-  - "wine merchants"
-  - "–"
-  - "Chartres, France"
+  - against dropsy
+  - against edema
+  - against rheumatism
+  - innkeepers
+  - wine merchants
+  - –
+  - Chartres, France
 martyr: false
+prayers: []
 ---
 
 Son of peasants, he was a field worker and shepherd in his youth. Thirsting for education, he went to the monastery at Noailles, France, working for the monks by day, being taught by them at night. He studied late by candle light, which annoyed the monks who had to wake for early prayers; Leobinus put a screen around the candle, and pressed on.

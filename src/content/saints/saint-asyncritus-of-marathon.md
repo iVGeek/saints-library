@@ -19,6 +19,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/f/fd/Ikon%C3%AB_e_t%C3%AB_Shtat%C3%ABdhjet%C3%AB_Apostujve.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Asyncritus of Marathon
 imageCreditUrl: https://en.wikipedia.org/wiki/Seventy%20disciples
+prayers: []
 ---
 
 First century bishop of Marathon, Greece. May have been one of the “70 Disciples of Christ”. Martyr. Mentioned by Saint Paul the Apostle in the Epistle to the Romans.

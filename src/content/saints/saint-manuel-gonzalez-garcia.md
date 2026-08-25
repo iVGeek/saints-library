@@ -1,33 +1,39 @@
 ---
-name: "Saint Manuel González García"
+name: Saint Manuel González García
 honorific: Venerable
-summary: "Fourth of five boys in his family; his father was a carpenter. Manuel was very active in his parish church, sang in the choir and entered the junior seminary in Seville, Spain at age 12. Ordained a priest in the diocese of Seville on 21 September 1901 by his bishop, Blessed Marce"
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Manuel-González-García.jpg"
+summary: >-
+  Fourth of five boys in his family; his father was a carpenter. Manuel was very active in his parish church, sang in
+  the choir and entered the junior seminary in Seville, Spain at age 12. Ordained a priest in the diocese of Seville on
+  21 September 1901 by his bishop, Blessed Marce
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Manuel-González-García.jpg
 searchAliases:
-  - "Apostle of the Abandoned Tabernacles"
-  - "Bishop of the Abandoned Tabernacle"
-  - "Emmanuel González García"
+  - Apostle of the Abandoned Tabernacles
+  - Bishop of the Abandoned Tabernacle
+  - Emmanuel González García
 birthYear: 1877
 deathYear: 1940
-born: "25 February 1877 at Seville, Spain"
-died: "4 January 1940 in Madrid, Spain of natural causes"
-birthPlace: "Spain"
-deathPlace: "Spaof natural causes"
-region: "Spain"
+born: 25 February 1877 at Seville, Spain
+died: 4 January 1940 in Madrid, Spain of natural causes
+birthPlace: Spain
+deathPlace: Spaof natural causes
+region: Spain
 feastDay:
   month: 1
   day: 4
-centuries: [19, 20]
+centuries:
+  - 19
+  - 20
 canonizationStatus: Venerable
 vocation:
   - Bishop
   - Priest
   - Religious
 patronage:
-  - "Children of Reparation"
-  - "Disciples of Saint John"
-  - "Eucharistic Missionaries of Nazareth"
+  - Children of Reparation
+  - Disciples of Saint John
+  - Eucharistic Missionaries of Nazareth
 martyr: false
+prayers: []
 ---
 
 Fourth of five boys in his family; his father was a carpenter. Manuel was very active in his parish church, sang in the choir and entered the junior seminary in Seville, Spain at age 12. Ordained a priest in the diocese of Seville on 21 September 1901 by his bishop, Blessed Marcelo Spinola y Maestre. 

@@ -1,13 +1,13 @@
 ---
-name: "Saint Seraphina"
+name: Saint Seraphina
 honorific: Saint
-summary: "Martyr. No other information has survived."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Seraphina.jpg"
+summary: Martyr. No other information has survived.
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Seraphina.jpg
 searchAliases:
-  - "Serafina"
+  - Serafina
 deathYear: 426
-died: "c.426 at Civitas Mamiensis"
-region: "Italy"
+died: c.426 at Civitas Mamiensis
+region: Italy
 feastDay:
   month: 7
   day: 29
@@ -15,6 +15,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Martyr. No other information has survived.

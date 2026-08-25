@@ -28,6 +28,7 @@ vocation:
   - Hermit
 religiousOrder: Augustinian
 martyr: false
+prayers: []
 ---
 
 Member of the Augustinian Hermits. Diocesan priest in Brescia, Italy. Bishop of Piacenza, Italy on 14 March 1244. During his 13 years of service there, he founded a university. Bishop of Ferrara, Italy in 1257 where he served for the remaining 17 years of his life. He wrote against the interference of secular authorities, including the Holy Roman Emperor, Frederick II, in matters of spirituality, or of the appointment of bishops.

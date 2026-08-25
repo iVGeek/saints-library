@@ -21,6 +21,7 @@ imageCredit: >-
   href="http://hdl.handle.net/10934/RM0001.COLLECT.168919">http://hdl.handle.net/10934/RM0001.COLLECT.168919</a>
 imageCreditUrl: >-
   https://commons.wikimedia.org/wiki/File:Martelaarsdood%20van%20de%20heiligen%20Hilaria%2C%20Digna%2C%20Eunomia%20en%20Euprepia%2C%20RP-P-OB-7933.jpg
+prayers: []
 ---
 
 Companion of Saint Hilaria of Augsburg on her trip to her mother's tomb, she was arrested and executed in the persecutions of Diocletian.

@@ -1,14 +1,17 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Romana"
+name: Saint Romana
 honorific: Saint
-summary: "Daughter of an imperial Roman official, Romana was drawn to Christianity. Around age 16, to avoid marriage, she fled her family home. With the help of an angel, she made it to the cave on Mount Soracte where Pope Saint Sylvester was hiding from the persecutions of Diocletian. She"
+summary: >-
+  Daughter of an imperial Roman official, Romana was drawn to Christianity. Around age 16, to avoid marriage, she fled
+  her family home. With the help of an angel, she made it to the cave on Mount Soracte where Pope Saint Sylvester was
+  hiding from the persecutions of Diocletian. She
 birthYear: 308
 deathYear: 324
-born: "c.308"
-died: "c.324 in her cave on Mount Soracte near Rome, Italy of natural causes"
-deathPlace: "Italynatural causes"
-region: "Italy"
+born: c.308
+died: c.324 in her cave on Mount Soracte near Rome, Italy of natural causes
+deathPlace: Italynatural causes
+region: Italy
 feastDay:
   month: 2
   day: 23
@@ -17,6 +20,7 @@ vocation:
   - Virgin
   - Monk
 martyr: false
+prayers: []
 ---
 
 Daughter of an imperial Roman official, Romana was drawn to Christianity. Around age 16, to avoid marriage, she fled her family home. With the help of an angel, she made it to the cave on Mount Soracte where Pope Saint Sylvester was hiding from the persecutions of Diocletian. She explained to him her desire for Christian religious life; he baptized her and left, leaving her the cave as a home. Her reputation for holiness soon spread, and she attracted so many students that they founded a community around her cave.

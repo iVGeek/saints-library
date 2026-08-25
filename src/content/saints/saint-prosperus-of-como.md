@@ -1,14 +1,14 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Prosperus of Como"
+name: Saint Prosperus of Como
 honorific: Saint
-title: "Bishop"
-summary: "Bishop of Como, Italy in the latter 6th century."
+title: Bishop
+summary: Bishop of Como, Italy in the latter 6th century.
 searchAliases:
-  - "Prospero"
+  - Prospero
 deathYear: 600
-died: "c.600 of natural causes"
-region: "Italy"
+died: c.600 of natural causes
+region: Italy
 feastDay:
   month: 3
   day: 2
@@ -16,6 +16,7 @@ canonizationStatus: Saint
 vocation:
   - Bishop
 martyr: false
+prayers: []
 ---
 
 Bishop of Como, Italy in the latter 6th century.

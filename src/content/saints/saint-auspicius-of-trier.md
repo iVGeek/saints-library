@@ -1,13 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Auspicius of Trier"
+name: Saint Auspicius of Trier
 honorific: Saint
-summary: "Bishop of Trier, Germany"
+summary: Bishop of Trier, Germany
 searchAliases:
-  - "Auspicius of Tréves"
+  - Auspicius of Tréves
 deathYear: 130
-died: "c.130"
-region: "Germany"
+died: c.130
+region: Germany
 feastDay:
   month: 7
   day: 8
@@ -16,6 +16,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Bishop of Trier, Germany

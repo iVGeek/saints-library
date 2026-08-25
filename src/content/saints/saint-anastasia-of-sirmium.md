@@ -1,12 +1,12 @@
 ---
-name: "Saint Anastasia of Sirmium"
+name: Saint Anastasia of Sirmium
 honorific: Saint
-summary: " Her name is commemorated in the second Mass of Christmas and the first eucharistic prayer. Nothing is reall Daughter of Saint Fausta of Sirmium. Matron of a noble Roman family. Married to a pagan. Spiritual student of Saint Chrysogonus. Martyred in the persecutions of Diocletian."
-image: "https://upload.wikimedia.org/wikipedia/commons/2/21/Saint_Anastasia.jpg"
+summary: ' Her name is commemorated in the second Mass of Christmas and the first eucharistic prayer. Nothing is reall Daughter of Saint Fausta of Sirmium. Matron of a noble Roman family. Married to a pagan. Spiritual student of Saint Chrysogonus. Martyred in the persecutions of Diocletian.'
+image: https://upload.wikimedia.org/wikipedia/commons/2/21/Saint_Anastasia.jpg
 deathYear: 304
-died: "burned to death c.304 at Sirmium, Dalmatia"
-deathPlace: "Dalmatia"
-region: "Italy"
+died: burned to death c.304 at Sirmium, Dalmatia
+deathPlace: Dalmatia
+region: Italy
 feastDay:
   month: 12
   day: 25
@@ -15,12 +15,13 @@ vocation:
   - Priest
   - Monk
 patronage:
-  - "martyrs"
-  - "weavers"
-  - "widows"
-  - "–"
-  - "Borgorose, Italy"
+  - martyrs
+  - weavers
+  - widows
+  - –
+  - Borgorose, Italy
 martyr: true
+prayers: []
 ---
 
 Daughter of Saint Fausta of Sirmium. Matron of a noble Roman family. Married to a pagan. Spiritual student of Saint Chrysogonus. Martyred in the persecutions of Diocletian.

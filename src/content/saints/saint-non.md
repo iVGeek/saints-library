@@ -19,6 +19,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: false
+prayers: []
 ---
 
 Nobility, possibly of a royal house. Widow. Legend says she was the unwed mother of Saint David of Wales. Lived in convents in Wales, Cornwall, and Brittany.

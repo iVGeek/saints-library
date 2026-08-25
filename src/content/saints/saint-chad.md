@@ -33,6 +33,7 @@ patronage:
   - Lichfield, city of
   - Lichfield, diocese of
 martyr: true
+prayers: []
 ---
 
 Brother of Saint Cedd and Saint Cynibild. Missionary monk to Ireland with Saint Egbert. Ordained in 653. Studied Latin and astronomy. Abbot at Lastingham monastery, Yorkshire, England; abbot to Saint Owen.

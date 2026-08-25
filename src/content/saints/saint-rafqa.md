@@ -1,46 +1,52 @@
 ---
-name: "Saint Rafqa"
+name: Saint Rafqa
 honorific: Venerable
-summary: "Daughter and only child of Mourad Saber Shabaq al-Rayes and Rafqa Gemayel. Her mother died when Rafka was six. She and her step-mother never got along. The girl worked as a maid from age 11 to 15, announcing at age 14 that she felt a call to religious life. Her father objected, b"
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Rafqa.jpg"
+summary: >-
+  Daughter and only child of Mourad Saber Shabaq al-Rayes and Rafqa Gemayel. Her mother died when Rafka was six. She and
+  her step-mother never got along. The girl worked as a maid from age 11 to 15, announcing at age 14 that she felt a
+  call to religious life. Her father objected, b
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Rafqa.jpg
 searchAliases:
-  - "Agnes"
-  - "Anissa"
-  - "Boutrosiya"
-  - "Boutrossieh"
-  - "Boutrossieh Ar-Rayes"
-  - "Lily of Himlaya"
-  - "Little Flower of Lebanon"
-  - "Petra"
-  - "Petronilla"
-  - "Pierette"
-  - "Purple Rose"
-  - "Rafka"
-  - "Rafka Al Rayes"
-  - "Rafqa Shabaq al-Rayes"
-  - "Rebecca"
-  - "Rebecca Pierrette Ar-Rayes"
+  - Agnes
+  - Anissa
+  - Boutrosiya
+  - Boutrossieh
+  - Boutrossieh Ar-Rayes
+  - Lily of Himlaya
+  - Little Flower of Lebanon
+  - Petra
+  - Petronilla
+  - Pierette
+  - Purple Rose
+  - Rafka
+  - Rafka Al Rayes
+  - Rafqa Shabaq al-Rayes
+  - Rebecca
+  - Rebecca Pierrette Ar-Rayes
 birthYear: 1832
 deathYear: 1914
-born: "29 June 1832 at Himlaya, Lebanon as Boutrossieh Ar-Rayes"
-died: "23 March 1914 at the Convent of Saint Joseph, Grabta, Lebanon of natural causes"
-birthPlace: "Lebanon as Boutrossieh Ar-Rayes"
-deathPlace: "Grabta, Lebanonnatural causes"
-region: "Lebanon"
+born: 29 June 1832 at Himlaya, Lebanon as Boutrossieh Ar-Rayes
+died: 23 March 1914 at the Convent of Saint Joseph, Grabta, Lebanon of natural causes
+birthPlace: Lebanon as Boutrossieh Ar-Rayes
+deathPlace: Grabta, Lebanonnatural causes
+region: Lebanon
 feastDay:
   month: 3
   day: 23
-centuries: [19, 20]
+centuries:
+  - 19
+  - 20
 canonizationStatus: Venerable
 vocation:
   - Priest
   - Religious
 patronage:
-  - "against bodily ills"
-  - "against sickness"
-  - "loss of parents"
-  - "sick people"
+  - against bodily ills
+  - against sickness
+  - loss of parents
+  - sick people
 martyr: false
+prayers: []
 ---
 
 Daughter and only child of Mourad Saber Shabaq al-Rayes and Rafqa Gemayel. Her mother died when Rafka was six. She and her step-mother never got along. The girl worked as a maid from age 11 to 15, announcing at age 14 that she felt a call to religious life. Her father objected, but at 21 she became a nun in the Marian Order of the Immaculate Conception at Bikfaya, taking the religious name Anissa (= Agnes), and making her final vows in 1856.

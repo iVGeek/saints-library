@@ -1,19 +1,23 @@
 ---
-name: "Saint Magnus of Füssen"
+name: Saint Magnus of Füssen
 honorific: Saint
-summary: "Priest. Benedictine. Spiritual student of Saint Columban and Saint Gall at Arbon (part of modern Switzerland). Superior of his house following the death of Saint Gall. At the request of the bishop of Augsberg, Bavaria, he evangelized in Eptaticus in the eastern part of Allg&auml;"
-image: "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Saint_Magnus_of_F%C3%BCssen.jpg/960px-Saint_Magnus_of_F%C3%BCssen.jpg"
+summary: >-
+  Priest. Benedictine. Spiritual student of Saint Columban and Saint Gall at Arbon (part of modern Switzerland).
+  Superior of his house following the death of Saint Gall. At the request of the bishop of Augsberg, Bavaria, he
+  evangelized in Eptaticus in the eastern part of Allg&auml;
+image: >-
+  https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Saint_Magnus_of_F%C3%BCssen.jpg/960px-Saint_Magnus_of_F%C3%BCssen.jpg
 searchAliases:
-  - "Apostle of the Alg&auml;u"
-  - "Maginaldus"
-  - "Maginold"
-  - "Magno"
-  - "Magnoaldus"
-  - "Mang"
+  - Apostle of the Alg&auml;u
+  - Maginaldus
+  - Maginold
+  - Magno
+  - Magnoaldus
+  - Mang
 deathYear: 666
-died: "c.666 at the monastery at F&uuml;ssen, Bavaria (in modern Germany) of natural causes"
-deathPlace: "Bavaria (modern Germany) of natural causes"
-region: "Germany"
+died: c.666 at the monastery at F&uuml;ssen, Bavaria (in modern Germany) of natural causes
+deathPlace: Bavaria (modern Germany) of natural causes
+region: Germany
 feastDay:
   month: 9
   day: 6
@@ -23,18 +27,19 @@ vocation:
   - Priest
   - Monk
   - Missionary
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 patronage:
-  - "against caterpillars"
-  - "against hail"
-  - "against hailstorms"
-  - "against lightning"
-  - "against snakes"
-  - "against vermin"
-  - "protection of crops"
-  - "–"
-  - "Füssen, Germany"
+  - against caterpillars
+  - against hail
+  - against hailstorms
+  - against lightning
+  - against snakes
+  - against vermin
+  - protection of crops
+  - –
+  - Füssen, Germany
 martyr: false
+prayers: []
 ---
 
 Priest. Benedictine. Spiritual student of Saint Columban and Saint Gall at Arbon (part of modern Switzerland). Superior of his house following the death of Saint Gall. At the request of the bishop of Augsberg, Bavaria, he evangelized in Eptaticus in the eastern part of Allg&auml;u, Bavaria. By the River Lech in Bavaria, in a place still known as Sant Mangstritt (footstep of Saint Magnus) he founded the monastery of F&uuml;ssen.

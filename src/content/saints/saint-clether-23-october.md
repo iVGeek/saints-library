@@ -22,6 +22,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/40/Saint_Non%27s_Chapel_-_Fenster_4_St.Brynach.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Clether
 imageCreditUrl: https://en.wikipedia.org/wiki/Brynach
+prayers: []
 ---
 
 Known in Wales and Cornwall; several churches are dedicated to him. No details about him have survived.

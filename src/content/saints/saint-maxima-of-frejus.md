@@ -1,22 +1,23 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Maxima of Fréjus"
+name: Saint Maxima of Fréjus
 honorific: Saint
-summary: "Seventh century hermit, nun and then abbess at the convent of Saint-Cassien in the area of Fréjus, France."
+summary: Seventh century hermit, nun and then abbess at the convent of Saint-Cassien in the area of Fréjus, France.
 searchAliases:
-  - "Maxime"
-born: "Callian, France"
-died: "7th century France"
-birthPlace: "France"
-region: "France"
+  - Maxime
+born: Callian, France
+died: 7th century France
+birthPlace: France
+region: France
 feastDay:
   month: 5
   day: 16
 canonizationStatus: Saint
 vocation: []
 patronage:
-  - "Fréjus, France (proclaimed on 27 November 1675)"
+  - Fréjus, France (proclaimed on 27 November 1675)
 martyr: false
+prayers: []
 ---
 
 Seventh century hermit, nun and then abbess at the convent of Saint-Cassien in the area of Fréjus, France.

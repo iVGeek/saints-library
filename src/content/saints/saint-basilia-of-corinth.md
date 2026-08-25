@@ -15,6 +15,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/1/1d/LatinEmpire2.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Basilia of Corinth
 imageCreditUrl: https://en.wikipedia.org/wiki/Latin%20Empire
+prayers: []
 ---
 
 Martyr.

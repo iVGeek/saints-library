@@ -1,10 +1,10 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Bicor"
+name: Saint Bicor
 honorific: Saint
-summary: "Bishop in Persia. Martyred in the persecutions of King Sapor II."
+summary: Bishop in Persia. Martyred in the persecutions of King Sapor II.
 deathYear: 360
-died: "c.360 in Persia"
+died: c.360 in Persia
 feastDay:
   month: 4
   day: 22
@@ -13,6 +13,7 @@ vocation:
   - Bishop
   - Monk
 martyr: true
+prayers: []
 ---
 
 Bishop in Persia. Martyred in the persecutions of King Sapor II.

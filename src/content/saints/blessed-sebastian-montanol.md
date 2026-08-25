@@ -1,13 +1,15 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Sebastian Montanol"
+name: Blessed Sebastian Montanol
 honorific: Blessed
-summary: "Dominican missionary to Zacateca, Mexico. When some natives treated the Eucharist with disrespect, Sebastian chastised them; they murdered him."
+summary: >-
+  Dominican missionary to Zacateca, Mexico. When some natives treated the Eucharist with disrespect, Sebastian chastised
+  them; they murdered him.
 deathYear: 1616
-born: "Spanish"
-died: "murdered in 1616 in Zacateca, Mexico"
-deathPlace: "Mexico"
-region: "Mexico"
+born: Spanish
+died: murdered in 1616 in Zacateca, Mexico
+deathPlace: Mexico
+region: Mexico
 feastDay:
   month: 12
   day: 10
@@ -15,8 +17,9 @@ canonizationStatus: Blessed
 vocation:
   - Monk
   - Missionary
-religiousOrder: "Dominican"
+religiousOrder: Dominican
 martyr: false
+prayers: []
 ---
 
 Dominican missionary to Zacateca, Mexico. When some natives treated the Eucharist with disrespect, Sebastian chastised them; they murdered him.

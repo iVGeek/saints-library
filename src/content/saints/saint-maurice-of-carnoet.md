@@ -21,6 +21,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: false
+prayers: []
 ---
 
 Studied at the University of Paris. Cistercian monk at Langonette Monastery in France in 1144. Abbot of the house in 1176. Founding abbot of Carnoet Abbey in Brittany. When the woods around the house were threatened by aggressive wolves, Maurice reminded his brothers that wolves were God's creations, too, but for their protection he prayed for help, some wolves died, and the attacks ceased.

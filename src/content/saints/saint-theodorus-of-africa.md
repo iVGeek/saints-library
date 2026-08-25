@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Theodorus of Africa"
+name: Saint Theodorus of Africa
 honorific: Saint
-summary: "Martyred in Africa. No other information has survived."
+summary: Martyred in Africa. No other information has survived.
 searchAliases:
-  - "Teodorus"
-region: "Africa"
+  - Teodorus
+region: Africa
 feastDay:
   month: 4
   day: 23
@@ -13,6 +13,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Martyred in Africa. No other information has survived.

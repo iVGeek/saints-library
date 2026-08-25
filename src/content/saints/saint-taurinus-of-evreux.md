@@ -1,15 +1,17 @@
 ---
-name: "Saint Taurinus of Evreux"
+name: Saint Taurinus of Evreux
 honorific: Saint
-summary: "Evangelist in Milan, Italy. First bishop of Evreux, Normandy (in modern France) c.385. Fought against the pagan customs of the region. Miracle worker."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Taurinus-of-Evreux.jpg"
+summary: >-
+  Evangelist in Milan, Italy. First bishop of Evreux, Normandy (in modern France) c.385. Fought against the pagan
+  customs of the region. Miracle worker.
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Taurinus-of-Evreux.jpg
 searchAliases:
-  - "Taurino"
+  - Taurino
 birthYear: 350
 deathYear: 412
-born: "c.350"
-died: "c.412"
-region: "France"
+born: c.350
+died: c.412
+region: France
 feastDay:
   month: 8
   day: 11
@@ -18,8 +20,9 @@ vocation:
   - Bishop
   - Monk
 patronage:
-  - "Evreux, France"
+  - Evreux, France
 martyr: false
+prayers: []
 ---
 
 Evangelist in Milan, Italy. First bishop of Evreux, Normandy (in modern France) c.385. Fought against the pagan customs of the region. Miracle worker.

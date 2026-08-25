@@ -1,17 +1,18 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Satullus of Africa"
+name: Saint Satullus of Africa
 honorific: Saint
-summary: "Martyred in Africa, date unknown. No other information has survived."
+summary: Martyred in Africa, date unknown. No other information has survived.
 searchAliases:
-  - "Satulus"
-region: "Africa"
+  - Satulus
+region: Africa
 feastDay:
   month: 4
   day: 2
 canonizationStatus: Saint
 vocation: []
 martyr: true
+prayers: []
 ---
 
 Martyred in Africa, date unknown. No other information has survived.

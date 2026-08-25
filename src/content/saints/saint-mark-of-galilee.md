@@ -1,14 +1,16 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Mark of Galilee"
+name: Saint Mark of Galilee
 honorific: Saint
-summary: "Convert, brought to the faith by Saint Peter the Apostle. Evangelized and served as first bishop of Abruzzi, Italy, was and its first martyr."
+summary: >-
+  Convert, brought to the faith by Saint Peter the Apostle. Evangelized and served as first bishop of Abruzzi, Italy,
+  was and its first martyr.
 searchAliases:
-  - "Mark of Abruzzi"
-born: "Galilee"
-died: "92 in Abruzzi, Italy"
-deathPlace: "Italy"
-region: "Italy"
+  - Mark of Abruzzi
+born: Galilee
+died: 92 in Abruzzi, Italy
+deathPlace: Italy
+region: Italy
 feastDay:
   month: 4
   day: 28
@@ -17,6 +19,7 @@ vocation:
   - Bishop
   - Monk
 martyr: true
+prayers: []
 ---
 
 Convert, brought to the faith by Saint Peter the Apostle. Evangelized and served as first bishop of Abruzzi, Italy, was and its first martyr.

@@ -1,18 +1,21 @@
 ---
-name: "Saint Poppo"
+name: Saint Poppo
 honorific: Saint
-summary: "Born to the Belgian nobility, the son of Tizekinus and Adalwif, Poppo was two months premature and required much care from his grandmother. His was a pious family; when Poppo was grown, his mother became a nun. Career soldier. Pilgrim to the Holy Lands in 1000, and then to Rome,"
-image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Poppo-Abbot.jpg"
+summary: >-
+  Born to the Belgian nobility, the son of Tizekinus and Adalwif, Poppo was two months premature and required much care
+  from his grandmother. His was a pious family; when Poppo was grown, his mother became a nun. Career soldier. Pilgrim
+  to the Holy Lands in 1000, and then to Rome,
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Poppo-Abbot.jpg
 searchAliases:
-  - "Popon"
-  - "Poppone"
+  - Popon
+  - Poppone
 birthYear: 978
 deathYear: 1048
-born: "978 at Flanders, Belgium"
-died: "25 January 1048 at Marchiennes, France of natural causes"
-birthPlace: "Belgium"
-deathPlace: "Francenatural causes"
-region: "Belgium"
+born: 978 at Flanders, Belgium
+died: 25 January 1048 at Marchiennes, France of natural causes
+birthPlace: Belgium
+deathPlace: Francenatural causes
+region: Belgium
 feastDay:
   month: 1
   day: 25
@@ -22,10 +25,11 @@ vocation:
   - Monk
   - Religious
   - Soldier
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 patronage:
-  - "Malmedy, Belgium"
+  - Malmedy, Belgium
 martyr: false
+prayers: []
 ---
 
 Born to the Belgian nobility, the son of Tizekinus and Adalwif, Poppo was two months premature and required much care from his grandmother. His was a pious family; when Poppo was grown, his mother became a nun. Career soldier. Pilgrim to the Holy Lands in 1000, and then to Rome, Italy. While on the road late one night, a flame suddenly lit over his head, and his lance radiated a brilliant light. Poppo took this as a sign of the Holy Spirit, and started considering a religious vocation. Monk at the Saint Theirry monastery at Rheims, France in 1005.

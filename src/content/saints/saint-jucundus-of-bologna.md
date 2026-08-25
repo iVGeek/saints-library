@@ -1,14 +1,14 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Jucundus of Bologna"
+name: Saint Jucundus of Bologna
 honorific: Saint
-summary: "Bishop of Bologna, Italy."
+summary: Bishop of Bologna, Italy.
 searchAliases:
-  - "Giocondo"
-  - "Giocondus"
+  - Giocondo
+  - Giocondus
 deathYear: 485
-died: "485 of natural causes"
-region: "Italy"
+died: 485 of natural causes
+region: Italy
 feastDay:
   month: 11
   day: 14
@@ -17,6 +17,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Bishop of Bologna, Italy.

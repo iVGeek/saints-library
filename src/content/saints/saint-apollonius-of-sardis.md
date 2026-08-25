@@ -23,6 +23,7 @@ imageCredit: >-
   title="User:Tylwyth Eldar">Tylwyth Eldar</a>, 2024-10-28 16:41:57
 imageCreditUrl: >-
   https://commons.wikimedia.org/wiki/File:Bordeaux%20-%20Tr%C3%A9sor%20de%20la%20Cath%C3%A9drale%20Saint-Andr%C3%A9%2043.jpg
+prayers: []
 ---
 
 Fourth-century evangelist who brought many to the faith. Scourged and executed by Prefect Perinius. Martyr.

@@ -1,27 +1,30 @@
 ---
-name: "Saint David Uribe-Velasco"
+name: Saint David Uribe-Velasco
 honorific: Venerable
-summary: " Pa Son of Juan Uribe Ayal and Victoriana Velasco Gutierrez, the seventh of eleven children in an inevitably poor family. Baptized on 6 January 1889. Entered seminary at Chilapa in 1903 at age 14; excellent student. Sub-deacon in 1910, deacon in 1911, and ordained on 2 March 1913."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-David-Uribe-Velasco.jpg"
+summary: ' Pa Son of Juan Uribe Ayal and Victoriana Velasco Gutierrez, the seventh of eleven children in an inevitably poor family. Baptized on 6 January 1889. Entered seminary at Chilapa in 1903 at age 14; excellent student. Sub-deacon in 1910, deacon in 1911, and ordained on 2 March 1913.'
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-David-Uribe-Velasco.jpg
 searchAliases:
-  - "David Uribe"
+  - David Uribe
 birthYear: 1888
 deathYear: 1927
-born: "29 December 1888 at Buenavista de Cuellar, Guerrero, Mexico"
-died: "shot in the back of the head on 12 April 1927 near San Jose Videl, Morelia, Mexico"
-birthPlace: "Guerrero, Mexico"
-deathPlace: "Morelia, Mexico"
-region: "Mexico"
+born: 29 December 1888 at Buenavista de Cuellar, Guerrero, Mexico
+died: shot in the back of the head on 12 April 1927 near San Jose Videl, Morelia, Mexico
+birthPlace: Guerrero, Mexico
+deathPlace: Morelia, Mexico
+region: Mexico
 feastDay:
   month: 4
   day: 12
-centuries: [19, 20]
+centuries:
+  - 19
+  - 20
 canonizationStatus: Venerable
 vocation:
   - Bishop
   - Priest
   - Deacon
 martyr: true
+prayers: []
 ---
 
 Son of Juan Uribe Ayal and Victoriana Velasco Gutierrez, the seventh of eleven children in an inevitably poor family. Baptized on 6 January 1889. Entered seminary at Chilapa in 1903 at age 14; excellent student. Sub-deacon in 1910, deacon in 1911, and ordained on 2 March 1913.

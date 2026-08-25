@@ -32,6 +32,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/8/85/13._Saint_Cloud_et_son_%C3%A9pouse_Marie.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Clodulf of Metz
 imageCreditUrl: https://en.wikipedia.org/wiki/Chlodulf%20of%20Metz
+prayers: []
 ---
 
 Son of Saint Arnulf of Metz. Courtier. Bishop of Metz, France in 656 where he served for 40 years.

@@ -27,6 +27,7 @@ vocation:
   - Priest
 religiousOrder: Franciscan
 martyr: false
+prayers: []
 ---
 
 The oldest of three children born to Jean-Louis-François-Frédéric Clergue, a law clerk, and Rose Amilhau, he was baptized when he was only a few minutes old. He was known as a pious and stubborn child who planned from age 6 to become a priest. He began studying at a junior seminary in Tolouse, France when he was ten years old; even then he went out at night to minister to the homeless.

@@ -28,6 +28,7 @@ patronage:
   - against invaders
   - Naples, Italy
 martyr: false
+prayers: []
 ---
 
 Hermit near Naples, Italy. Monk. Abbot of San Gaudioso monastery at Abtini, Italy. Reported to be a miraculous protector of Naples during the Saracen invasions, turning aside invaders by showing the cross.

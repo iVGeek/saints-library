@@ -28,6 +28,7 @@ patronage:
   - Astorga, Spain
   - Astorga, Spain, diocese of
 martyr: false
+prayers: []
 ---
 
 Bishop of Astorga in northwest Spain. Known as a stern disciplinarian. Fierce opponent of Priscillianist heresy. Great supporter of Pope Saint Leo the Great.

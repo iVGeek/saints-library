@@ -21,6 +21,7 @@ vocation:
   - Monk
   - Confessor
 martyr: false
+prayers: []
 ---
 
 Pious and learned Roman senator and proconsul; member of the noble Fuii family. Studied rhetoric with Saint Jerome. Married to Paulina, one of the daughters of Saint Paula, in 385. Widower in 397, Paulina dying in childbirth. Following Paulina's death, Pammachius devoted his wealth and the rest of his life to study and charity. Cared for sick pilgrims to Rome, Italy working with Saint Fabiola to build a hospital for them, the first in the West, at Porto Romano. Built a church on the property next to his home, and on the site of his home now sits the church of Saint John and Paul in Rome. Friend of Saint Paulinus of Nola. Corresponded with Saint Jerome on matters of faith, and tried unsuccessfully to get Jerome to tone down the language he used when referring to opponents.

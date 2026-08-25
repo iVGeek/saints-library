@@ -1,25 +1,26 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Pablo Martínez Esteban"
+name: Blessed Pablo Martínez Esteban
 honorific: Blessed
-summary: "Monk. Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
+summary: Monk. Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War.
 searchAliases:
-  - "Gaspar"
+  - Gaspar
 birthYear: 1898
 deathYear: 1936
-born: "24 March 1898 in Los Balbases, Burgos, Spain"
-died: "24 July 1936 in Madrid, Spain"
-birthPlace: "Burgos, Spain"
-deathPlace: "Spain"
-region: "Spain"
+born: 24 March 1898 in Los Balbases, Burgos, Spain
+died: 24 July 1936 in Madrid, Spain
+birthPlace: Burgos, Spain
+deathPlace: Spain
+region: Spain
 feastDay:
   month: 7
   day: 24
 canonizationStatus: Blessed
 vocation:
   - Monk
-religiousOrder: "Marist"
+religiousOrder: Marist
 martyr: true
+prayers: []
 ---
 
 Monk. Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War.

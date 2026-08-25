@@ -1,24 +1,25 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Josep Lluis Raga Nadal"
+name: Blessed Josep Lluis Raga Nadal
 honorific: Blessed
-summary: "Member of the Carmelites of the Ancient Observance. Martyred in the Spanish Civil War."
+summary: Member of the Carmelites of the Ancient Observance. Martyred in the Spanish Civil War.
 searchAliases:
-  - "Brother Eufrosí Maria"
+  - Brother Eufrosí Maria
 birthYear: 1913
 deathYear: 1936
-born: "28 December 1913 in Ulldecona, Tarragona, Spain"
-died: "6 October 1936 in Barcelona, Spain"
-birthPlace: "Tarragona, Spain"
-deathPlace: "Spain"
-region: "Spain"
+born: 28 December 1913 in Ulldecona, Tarragona, Spain
+died: 6 October 1936 in Barcelona, Spain
+birthPlace: Tarragona, Spain
+deathPlace: Spain
+region: Spain
 feastDay:
   month: 10
   day: 6
 canonizationStatus: Blessed
 vocation: []
-religiousOrder: "Carmelite"
+religiousOrder: Carmelite
 martyr: true
+prayers: []
 ---
 
 Member of the Carmelites of the Ancient Observance. Martyred in the Spanish Civil War.

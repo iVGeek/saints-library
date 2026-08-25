@@ -16,6 +16,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/a/ac/Flamininus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Catus of Carthage
 imageCreditUrl: https://en.wikipedia.org/wiki/Titus%20Quinctius%20Flamininus
+prayers: []
 ---
 
 One of 39 Christians martyred together in Carthage, date unknown. We have no other information about them.

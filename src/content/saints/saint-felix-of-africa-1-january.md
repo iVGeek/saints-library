@@ -1,9 +1,9 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Felix of Africa"
+name: Saint Felix of Africa
 honorific: Saint
-summary: "Martyred in Africa, date unknown."
-region: "Africa"
+summary: Martyred in Africa, date unknown.
+region: Africa
 feastDay:
   month: 1
   day: 1
@@ -11,6 +11,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Martyred in Africa, date unknown.

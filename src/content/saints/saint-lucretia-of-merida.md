@@ -1,14 +1,14 @@
 ---
-name: "Saint Lucretia of Mérida"
+name: Saint Lucretia of Mérida
 honorific: Saint
-summary: "Consecrated virgin. Martyred in a period of imperial Roman persecution."
-image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Lucretia-of-Merida.jpg"
+summary: Consecrated virgin. Martyred in a period of imperial Roman persecution.
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Lucretia-of-Merida.jpg
 searchAliases:
-  - "Lucrezia"
+  - Lucrezia
 deathYear: 306
-died: "306 in Mérida, Spain"
-deathPlace: "Spain"
-region: "Spain"
+died: 306 in Mérida, Spain
+deathPlace: Spain
+region: Spain
 feastDay:
   month: 11
   day: 23
@@ -18,6 +18,7 @@ vocation:
   - Monk
   - Religious
 martyr: true
+prayers: []
 ---
 
 Consecrated virgin. Martyred in a period of imperial Roman persecution.

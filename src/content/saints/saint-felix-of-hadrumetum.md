@@ -17,6 +17,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/9/90/GiorcesBardo42.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Felix of Hadrumetum
 imageCreditUrl: https://en.wikipedia.org/wiki/Hadrumetum
+prayers: []
 ---
 
 One of a group of 26 martyrs killed by Vandals.

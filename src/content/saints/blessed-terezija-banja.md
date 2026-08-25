@@ -1,17 +1,19 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Terezija Banja"
+name: Blessed Terezija Banja
 honorific: Blessed
-summary: "Member of the Daughters of Divine Charity. Martyred while fighting off Chetnik rapists."
+summary: Member of the Daughters of Divine Charity. Martyred while fighting off Chetnik rapists.
 searchAliases:
-  - "Sister Marija Bernadeta"
+  - Sister Marija Bernadeta
 birthYear: 1912
 deathYear: 1941
-born: "18 June 1912 in Veliki Grdjevac, Bjelovarsko-Bilogorska, Croatia"
-died: "in a fall from a 3rd floor window on 15 December 1941 in a barracks of the former Royal Yugoslav army in Goražde, Bosansko-Podrinjski, Bosnia-Herzegovina"
-birthPlace: "Bjelovarsko-Bilogorska, Croatia"
-deathPlace: "Bosansko-Podrinjski, Bosnia-Herzegovina"
-region: "England"
+born: 18 June 1912 in Veliki Grdjevac, Bjelovarsko-Bilogorska, Croatia
+died: >-
+  in a fall from a 3rd floor window on 15 December 1941 in a barracks of the former Royal Yugoslav army in Goražde,
+  Bosansko-Podrinjski, Bosnia-Herzegovina
+birthPlace: Bjelovarsko-Bilogorska, Croatia
+deathPlace: Bosansko-Podrinjski, Bosnia-Herzegovina
+region: England
 feastDay:
   month: 12
   day: 15
@@ -20,6 +22,7 @@ vocation:
   - Religious
   - Cardinal
 martyr: true
+prayers: []
 ---
 
 Member of the Daughters of Divine Charity. Martyred while fighting off Chetnik rapists.

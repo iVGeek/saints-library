@@ -1,30 +1,33 @@
 ---
-name: "Saint Louis-Marie Grignion de Montfort"
+name: Saint Louis-Marie Grignion de Montfort
 honorific: Venerable
-summary: " Under Mary's inspiration, he founded the Dau Born poor. Studied in Paris, France, and ordained in 1700. While a seminarian he delighted in researching the writings of Church Fathers, Doctors and Saints as they related to the Blessed Virgin Mary, to whom he was singularly devoted."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Louis-Marie-Grignion-de-Montfort.jpg"
+summary: ' Under Mary''s inspiration, he founded the Dau Born poor. Studied in Paris, France, and ordained in 1700. While a seminarian he delighted in researching the writings of Church Fathers, Doctors and Saints as they related to the Blessed Virgin Mary, to whom he was singularly devoted.'
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Louis-Marie-Grignion-de-Montfort.jpg
 birthYear: 1673
 deathYear: 1716
-born: "31 January 1673 at Montfort-La-Cane, Brittany, France"
-died: "28 April 1716 at Saint-Laurent-sur-Sovre, France of natural causes"
-birthPlace: "Brittany, France"
-deathPlace: "Francenatural causes"
-region: "France"
+born: 31 January 1673 at Montfort-La-Cane, Brittany, France
+died: 28 April 1716 at Saint-Laurent-sur-Sovre, France of natural causes
+birthPlace: Brittany, France
+deathPlace: Francenatural causes
+region: France
 feastDay:
   month: 4
   day: 28
-centuries: [17, 18]
+centuries:
+  - 17
+  - 18
 canonizationStatus: Venerable
 vocation:
   - Priest
   - Missionary
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 patronage:
-  - "preachers"
-  - "Brothers of Saint Gabriel"
-  - "Company of Mary"
-  - "Daughters of Divine Wisdom"
+  - preachers
+  - Brothers of Saint Gabriel
+  - Company of Mary
+  - Daughters of Divine Wisdom
 martyr: false
+prayers: []
 ---
 
 Born poor. Studied in Paris, France, and ordained in 1700. While a seminarian he delighted in researching the writings of Church Fathers, Doctors and Saints as they related to the Blessed Virgin Mary, to whom he was singularly devoted.

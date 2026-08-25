@@ -1,33 +1,39 @@
 ---
-name: "Saint Mary Euphrasia Pelletier"
+name: Saint Mary Euphrasia Pelletier
 honorific: Venerable
-summary: "Born during the French Revolution. Studied at Tours, France. Joined the Refuge of Our Lady of Charity at Tours on 20 October 1814, an order devoted to rescuing “fallen” women and those in danger of going on the game. She took the name Marie-Euphrasie, and made her religious profe"
-image: "https://upload.wikimedia.org/wikipedia/commons/e/ea/Marie-Euphrasie_Pelletier.jpg"
+summary: >-
+  Born during the French Revolution. Studied at Tours, France. Joined the Refuge of Our Lady of Charity at Tours on 20
+  October 1814, an order devoted to rescuing “fallen” women and those in danger of going on the game. She took the name
+  Marie-Euphrasie, and made her religious profe
+image: https://upload.wikimedia.org/wikipedia/commons/e/ea/Marie-Euphrasie_Pelletier.jpg
 searchAliases:
-  - "Euphrasia Pelletier"
-  - "Marie of Saint Euphrasia"
-  - "Mary Sainte-Euphrasie Pelletier"
-  - "Rosa Virginia Pelletier"
-  - "Rose Virginie Pelletier"
-  - "Rose-Virginie Pelletier"
+  - Euphrasia Pelletier
+  - Marie of Saint Euphrasia
+  - Mary Sainte-Euphrasie Pelletier
+  - Rosa Virginia Pelletier
+  - Rose Virginie Pelletier
+  - Rose-Virginie Pelletier
 birthYear: 1796
 deathYear: 1868
-born: "31 July 1796 at Noirmoutier, Vendée, France as Rose Virginie Pelletier"
-died: "24 April 1868 at Angers, Maine-et-Loire, France of natural causes"
-birthPlace: "Vendée, France as Rose Virginie Pelletier"
-deathPlace: "Maine-et-Loire, Francenatural causes"
-region: "Chile"
+born: 31 July 1796 at Noirmoutier, Vendée, France as Rose Virginie Pelletier
+died: 24 April 1868 at Angers, Maine-et-Loire, France of natural causes
+birthPlace: Vendée, France as Rose Virginie Pelletier
+deathPlace: Maine-et-Loire, Francenatural causes
+region: Chile
 feastDay:
   month: 4
   day: 24
-centuries: [18, 19]
+centuries:
+  - 18
+  - 19
 canonizationStatus: Venerable
 vocation:
   - Virgin
   - Religious
 patronage:
-  - "travellers"
+  - travellers
 martyr: false
+prayers: []
 ---
 
 Born during the French Revolution. Studied at Tours, France. Joined the Refuge of Our Lady of Charity at Tours on 20 October 1814, an order devoted to rescuing “fallen” women and those in danger of going on the game. She took the name Marie-Euphrasie, and made her religious profession on 9 September 1817. Superioress on 26 May 1825.

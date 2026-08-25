@@ -31,6 +31,7 @@ imageCredit: >-
   href="https://archive.org/download/universaldict02thomrich/universaldict02thomrich.pdf">https://archive.org/download/universaldict02thomrich/universaldict02thomrich.pdf</a></dd></dl>
 imageCreditUrl: >-
   https://commons.wikimedia.org/wiki/File:Universal%20pronouncing%20dictionary%20of%20biography%20and%20mythology%20(IA%20universaldict02thomrich).pdf
+prayers: []
 ---
 
 Benedictine monk in the Subiaco Congregation. Martyred in the Spanish Civil War.

@@ -1,25 +1,29 @@
 ---
-name: "Blessed Juliana of Mont Cornillon"
+name: Blessed Juliana of Mont Cornillon
 honorific: Blessed
-summary: "Orphaned at age 5. She and her sister Agnes were raised by the nuns at the convent of Mount Cornillon. Juliana read the works of Saint Augustine and Saint Bernard while she was still very young. Augustinian nun at Liege, Belgium in 1206. Worked with the sick, and in the convent's"
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Juliana-of-Mont-Cornillon.jpg"
+summary: >-
+  Orphaned at age 5. She and her sister Agnes were raised by the nuns at the convent of Mount Cornillon. Juliana read
+  the works of Saint Augustine and Saint Bernard while she was still very young. Augustinian nun at Liege, Belgium in
+  1206. Worked with the sick, and in the convent's
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Juliana-of-Mont-Cornillon.jpg
 searchAliases:
-  - "Juliana of Mount Cornillon"
-  - "Juliana of Liege"
+  - Juliana of Mount Cornillon
+  - Juliana of Liege
 birthYear: 1192
 deathYear: 1258
-born: "1192 at Retinnes, Flanders, Belgium"
-died: "5 April 1258 of natural causes"
-birthPlace: "Flanders, Belgium"
-region: "Belgium"
+born: 1192 at Retinnes, Flanders, Belgium
+died: 5 April 1258 of natural causes
+birthPlace: Flanders, Belgium
+region: Belgium
 feastDay:
   month: 4
   day: 5
 canonizationStatus: Blessed
 vocation:
   - Confessor
-religiousOrder: "Augustinian"
+religiousOrder: Augustinian
 martyr: false
+prayers: []
 ---
 
 Orphaned at age 5. She and her sister Agnes were raised by the nuns at the convent of Mount Cornillon. Juliana read the works of Saint Augustine and Saint Bernard while she was still very young. Augustinian nun at Liege, Belgium in 1206. Worked with the sick, and in the convent's hospital. Prioress of the convent at Mount Cornillon in 1225.

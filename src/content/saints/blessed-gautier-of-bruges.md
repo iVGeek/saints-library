@@ -1,25 +1,28 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Gautier of Bruges"
+name: Blessed Gautier of Bruges
 honorific: Blessed
-summary: "Member of the Franciscans, joining at the convent of Bruges, Belgium c.1240. Studied in Paris, France where he was the spiritual student of Saint Bonaventure of Bagnoregio. He taught theology and served as regent master in Paris from 1267 to 1269. Franciscan provincial minister f"
+summary: >-
+  Member of the Franciscans, joining at the convent of Bruges, Belgium c.1240. Studied in Paris, France where he was the
+  spiritual student of Saint Bonaventure of Bagnoregio. He taught theology and served as regent master in Paris from
+  1267 to 1269. Franciscan provincial minister f
 searchAliases:
-  - "Guatier Van den Zande"
-  - "Gautier of Poitiers"
-  - "Gualterus Brugensis"
-  - "Gualterus de Brugge"
-  - "Galtier…"
-  - "Gauthier…"
-  - "Gualterus…"
-  - "Gualtiero…"
-  - "Walter…"
+  - Guatier Van den Zande
+  - Gautier of Poitiers
+  - Gualterus Brugensis
+  - Gualterus de Brugge
+  - Galtier…
+  - Gauthier…
+  - Gualterus…
+  - Gualtiero…
+  - Walter…
 birthYear: 1225
 deathYear: 1307
-born: "1225 in Zande, Ostend, Belgium"
-died: "21 January 1307 in Poitiers, France of natural causes"
-birthPlace: "Ostend, Belgium"
-deathPlace: "Francenatural causes"
-region: "Belgium"
+born: 1225 in Zande, Ostend, Belgium
+died: 21 January 1307 in Poitiers, France of natural causes
+birthPlace: Ostend, Belgium
+deathPlace: Francenatural causes
+region: Belgium
 feastDay:
   month: 1
   day: 21
@@ -27,10 +30,11 @@ canonizationStatus: Blessed
 vocation:
   - Bishop
   - Monk
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 patronage:
-  - "against fever"
+  - against fever
 martyr: false
+prayers: []
 ---
 
 Member of the Franciscans, joining at the convent of Bruges, Belgium c.1240. Studied in Paris, France where he was the spiritual student of Saint Bonaventure of Bagnoregio. He taught theology and served as regent master in Paris from 1267 to 1269. Franciscan provincial minister for France in 1269. Part of the Franciscan general chapters in Lyon, France in 1274, Padua, Italy in 1276, and Assisi, Italy in 1279. Wrote a number of theological works, some of which have survived to today.

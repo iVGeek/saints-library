@@ -1,22 +1,23 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Jacinto García Riesco"
+name: Blessed Jacinto García Riesco
 honorific: Blessed
-summary: "Dominican cleric. Martyred in the Spanish Civil War."
+summary: Dominican cleric. Martyred in the Spanish Civil War.
 birthYear: 1894
 deathYear: 1936
-born: "28 August 1894 in Calvillas, Somiedo, Asturias, Spain"
-died: "20 July 1936 in Madrid, Spain"
-birthPlace: "Somiedo, Asturias, Spain"
-deathPlace: "Spain"
-region: "Spain"
+born: 28 August 1894 in Calvillas, Somiedo, Asturias, Spain
+died: 20 July 1936 in Madrid, Spain
+birthPlace: Somiedo, Asturias, Spain
+deathPlace: Spain
+region: Spain
 feastDay:
   month: 7
   day: 20
 canonizationStatus: Blessed
 vocation: []
-religiousOrder: "Dominican"
+religiousOrder: Dominican
 martyr: true
+prayers: []
 ---
 
 Dominican cleric. Martyred in the Spanish Civil War.

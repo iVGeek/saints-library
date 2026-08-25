@@ -16,6 +16,7 @@ vocation:
   - Priest
   - Confessor
 martyr: false
+prayers: []
 ---
 
 Priest. Court chaplain to King Canute of England and Denmark. During a trip to Denmark, William saw a crying need for Christian missionaries, and he worked there the rest of his life. 

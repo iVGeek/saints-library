@@ -1,13 +1,15 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Blath of Kildare"
+name: Saint Blath of Kildare
 honorific: Saint
-summary: "Lay-sister and cook in the Kildare, Ireland convent of Saint Brigid. Known for her simple, personal sanctity, and for her loyalty to Saint Brigid."
+summary: >-
+  Lay-sister and cook in the Kildare, Ireland convent of Saint Brigid. Known for her simple, personal sanctity, and for
+  her loyalty to Saint Brigid.
 searchAliases:
-  - "Flora"
+  - Flora
 deathYear: 523
-died: "523 of natural causes"
-region: "Ireland"
+died: 523 of natural causes
+region: Ireland
 feastDay:
   month: 1
   day: 29
@@ -16,6 +18,7 @@ vocation:
   - Monk
   - Religious
 martyr: false
+prayers: []
 ---
 
 Lay-sister and cook in the Kildare, Ireland convent of Saint Brigid. Known for her simple, personal sanctity, and for her loyalty to Saint Brigid.

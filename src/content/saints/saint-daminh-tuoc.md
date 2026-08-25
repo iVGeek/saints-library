@@ -1,27 +1,30 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Ðaminh Tuoc"
+name: Saint Ðaminh Tuoc
 honorific: Venerable
-summary: "Dominican tertiary and priest. One of the Martyrs of Vietnam."
+summary: Dominican tertiary and priest. One of the Martyrs of Vietnam.
 searchAliases:
-  - "Domenico"
-  - "Dominic"
+  - Domenico
+  - Dominic
 birthYear: 1775
 deathYear: 1839
-born: "c.1775 in Trung Lao, Nam Ðinh, Vietnam"
-died: "2 April 1839 in prison in Nam Ðinh, Vietnam as a result of the abuse he had received there"
-birthPlace: "Nam Ðinh, Vietnam"
-deathPlace: "Vietnam as a resultthe abuse he had received there"
-region: "Vietnam"
+born: c.1775 in Trung Lao, Nam Ðinh, Vietnam
+died: 2 April 1839 in prison in Nam Ðinh, Vietnam as a result of the abuse he had received there
+birthPlace: Nam Ðinh, Vietnam
+deathPlace: Vietnam as a resultthe abuse he had received there
+region: Vietnam
 feastDay:
   month: 4
   day: 2
-centuries: [18, 19]
+centuries:
+  - 18
+  - 19
 canonizationStatus: Venerable
 vocation:
   - Priest
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 martyr: true
+prayers: []
 ---
 
 Dominican tertiary and priest. One of the Martyrs of Vietnam.

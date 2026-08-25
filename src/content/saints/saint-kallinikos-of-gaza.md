@@ -14,4 +14,5 @@ canonizationStatus: Saint
 vocation:
   - Soldier
 martyr: false
+prayers: []
 ---

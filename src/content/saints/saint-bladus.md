@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Bladus"
+name: Saint Bladus
 honorific: Saint
-summary: "Early bishop on the Isle of Man."
+summary: Early bishop on the Isle of Man.
 searchAliases:
-  - "Blade"
-region: "England"
+  - Blade
+region: England
 feastDay:
   month: 7
   day: 3
@@ -14,6 +14,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Early bishop on the Isle of Man.

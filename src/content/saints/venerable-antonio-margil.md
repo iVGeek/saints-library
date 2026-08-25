@@ -35,6 +35,7 @@ vocation:
   - Missionary
 religiousOrder: Franciscan
 martyr: false
+prayers: []
 ---
 
 Son of Juan Margil and Esperanza Ros; he had two sisters. Joined the Franciscans at La Corona de Cristo, Valencia, Spain on 22 April 1673. Regularly referred to himself with the nickname La Misma Nada (Nothingness Itself). Ordained at age 25. Missionary to New Spain in 1683, stationed at Queretaro college. Walked barefoot from Texas to Guatemala, preaching and establishing missions along the way. He fasted every day, and never ate meat or fish. First guardian of the missionary college of Guadalupe, Zacatecas on 25 June 1706. Worked in San Antonio, Texas for over a year. Chosen guardian of his college in 1722. Reported to have saved the settlement of Nacogdoches from drought by striking a rock with a cane and releasing a spring of water.

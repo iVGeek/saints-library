@@ -1,18 +1,20 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Manirus of Scotland"
+name: Saint Manirus of Scotland
 honorific: Saint
-summary: "Missionary bishop to the Highlanders of northern Scotland. Had an on-going battle of words and ideas with the local pagans, but there was apparently little violence from either side during his work."
+summary: >-
+  Missionary bishop to the Highlanders of northern Scotland. Had an on-going battle of words and ideas with the local
+  pagans, but there was apparently little violence from either side during his work.
 searchAliases:
-  - "Manire"
-  - "Monire"
-  - "Miniar"
-  - "Niniar"
+  - Manire
+  - Monire
+  - Miniar
+  - Niniar
 birthYear: 700
 deathYear: 824
-born: "c.700 in Scotland"
-died: "824 in Scotland of natural causes"
-region: "Scotland"
+born: c.700 in Scotland
+died: 824 in Scotland of natural causes
+region: Scotland
 feastDay:
   month: 12
   day: 19
@@ -22,6 +24,7 @@ vocation:
   - Monk
   - Missionary
 martyr: false
+prayers: []
 ---
 
 Missionary bishop to the Highlanders of northern Scotland. Had an on-going battle of words and ideas with the local pagans, but there was apparently little violence from either side during his work.

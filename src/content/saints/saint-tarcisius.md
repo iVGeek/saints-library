@@ -23,6 +23,7 @@ patronage:
   - altar servers
   - first communicants
 martyr: true
+prayers: []
 ---
 
 Third to fourth century layman or deacon (sources vary). While taking Communion to prisoners, Tarcisius was attacked by a pagan mob, and died defending the Host. Martyr. It is said that when the pagans searched him after beating him to death, the Hosts had miraculously disappeared.

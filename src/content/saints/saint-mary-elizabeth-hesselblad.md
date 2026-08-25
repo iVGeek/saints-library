@@ -1,27 +1,30 @@
 ---
-name: "Saint Mary Elizabeth Hesselblad"
+name: Saint Mary Elizabeth Hesselblad
 honorific: Venerable
-summary: " Emigrated to New York at age 18 to seek work to support her family back in Sweden. Studied nu Fifth of thirteen children born to Augusto Roberto Hesselblad and Cajsa Pettesdotter Dag. Raised in the Reformed Church of Sweden. Due to economic hard times, the family moved regularly."
-image: "http://catholicsaints.info/wp-content/uploads/img-Maria-Elizabetta-Hesselblad.jpg"
+summary: ' Emigrated to New York at age 18 to seek work to support her family back in Sweden. Studied nu Fifth of thirteen children born to Augusto Roberto Hesselblad and Cajsa Pettesdotter Dag. Raised in the Reformed Church of Sweden. Due to economic hard times, the family moved regularly.'
+image: http://catholicsaints.info/wp-content/uploads/img-Maria-Elizabetta-Hesselblad.jpg
 searchAliases:
-  - "Maria Elizabetta Hesselblad"
+  - Maria Elizabetta Hesselblad
 birthYear: 1870
 deathYear: 1957
-born: "4 June 1870 at Faglavik, Alvsborg province, Sweden"
-died: "24 April 1957 in Rome, Italy of natural causes"
-birthPlace: "Alvsborg province, Sweden"
-deathPlace: "Italynatural causes"
-region: "Scandinavia"
+born: 4 June 1870 at Faglavik, Alvsborg province, Sweden
+died: 24 April 1957 in Rome, Italy of natural causes
+birthPlace: Alvsborg province, Sweden
+deathPlace: Italynatural causes
+region: Scandinavia
 feastDay:
   month: 4
   day: 24
-centuries: [19, 20]
+centuries:
+  - 19
+  - 20
 canonizationStatus: Venerable
 vocation:
   - Priest
   - Religious
-religiousOrder: "Jesuit"
+religiousOrder: Jesuit
 martyr: false
+prayers: []
 ---
 
 Fifth of thirteen children born to Augusto Roberto Hesselblad and Cajsa Pettesdotter Dag. Raised in the Reformed Church of Sweden. Due to economic hard times, the family moved regularly.

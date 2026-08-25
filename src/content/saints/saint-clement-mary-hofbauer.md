@@ -33,6 +33,7 @@ vocation:
   - Confessor
 religiousOrder: Franciscan
 martyr: false
+prayers: []
 ---
 
 Ninth child of a butcher who changed the family name from the Moravian Dvor&aacute;k to the Germanic Hofbauer. His father died when Clement was six years old. The young man felt a call to the priesthood, but his family was too poor to afford his education. Apprentice and journeyman baker at Premonstratensian monastery at Bruck, Germany. Hermit.

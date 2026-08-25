@@ -1,31 +1,36 @@
 ---
-name: "Saint Maria Mazzarello"
+name: Saint Maria Mazzarello
 honorific: Venerable
-summary: "Daughter of Giuseppe and Maddalena Mazzarello, the eldest of ten children born to a farm family in the mountains; seven of the children survived, and Maria learned the lessons typical of a big sister. Field worker. Member of the Pious Union of Mary Immaculate. Assisted at her par"
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Maria-Mazzarello1.jpg"
+summary: >-
+  Daughter of Giuseppe and Maddalena Mazzarello, the eldest of ten children born to a farm family in the mountains;
+  seven of the children survived, and Maria learned the lessons typical of a big sister. Field worker. Member of the
+  Pious Union of Mary Immaculate. Assisted at her par
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Maria-Mazzarello1.jpg
 searchAliases:
-  - "Mary Dominic Mazzarello"
+  - Mary Dominic Mazzarello
 birthYear: 1837
 deathYear: 1881
-born: "9 May 1837 at Mornese, Acqui, Italy"
-died: "14 May 1881 in Nizza Monferrato, Asti Italy of natural causes"
-birthPlace: "Acqui, Italy"
-deathPlace: "Asti Italynatural causes"
-region: "France"
+born: 9 May 1837 at Mornese, Acqui, Italy
+died: 14 May 1881 in Nizza Monferrato, Asti Italy of natural causes
+birthPlace: Acqui, Italy
+deathPlace: Asti Italynatural causes
+region: France
 feastDay:
   month: 5
   day: 14
-centuries: [19]
+centuries:
+  - 19
 canonizationStatus: Venerable
 vocation:
   - Religious
-religiousOrder: "Salesian"
+religiousOrder: Salesian
 patronage:
-  - "against bodily ills"
-  - "against sickness"
-  - "sick people"
-  - "Colegio Santa María Mazzarello, Canaguaro, Colombia"
+  - against bodily ills
+  - against sickness
+  - sick people
+  - Colegio Santa María Mazzarello, Canaguaro, Colombia
 martyr: false
+prayers: []
 ---
 
 Daughter of Giuseppe and Maddalena Mazzarello, the eldest of ten children born to a farm family in the mountains; seven of the children survived, and Maria learned the lessons typical of a big sister. Field worker. Member of the Pious Union of Mary Immaculate. Assisted at her parish, teaching catechism to younger children, helping the sick. She nearly died of typhus at age 23, and she never really recovered her strength or health again.

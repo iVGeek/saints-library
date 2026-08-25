@@ -1,12 +1,12 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Elizabeth Salviati"
+name: Blessed Elizabeth Salviati
 honorific: Blessed
-summary: "Camaldolese nun. Abbess at the convent of San Giovanni Evangelista di Boldrone in Florence, Italy."
+summary: Camaldolese nun. Abbess at the convent of San Giovanni Evangelista di Boldrone in Florence, Italy.
 deathYear: 1519
-born: "Italy"
-died: "1519"
-region: "Italy"
+born: Italy
+died: '1519'
+region: Italy
 feastDay:
   month: 2
   day: 11
@@ -14,6 +14,7 @@ canonizationStatus: Blessed
 vocation:
   - Religious
 martyr: false
+prayers: []
 ---
 
 Camaldolese nun. Abbess at the convent of San Giovanni Evangelista di Boldrone in Florence, Italy.

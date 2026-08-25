@@ -1,21 +1,22 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Florentius of Arras"
+name: Saint Florentius of Arras
 honorific: Saint
-summary: "Martyr."
+summary: Martyr.
 searchAliases:
-  - "Fiorenzo"
-died: "Rome, Italy"
-deathPlace: "Italy"
-region: "Italy"
+  - Fiorenzo
+died: Rome, Italy
+deathPlace: Italy
+region: Italy
 feastDay:
   month: 7
   day: 13
 canonizationStatus: Saint
 vocation:
   - Priest
-religiousOrder: "Jesuit"
+religiousOrder: Jesuit
 martyr: true
+prayers: []
 ---
 
 Martyr.

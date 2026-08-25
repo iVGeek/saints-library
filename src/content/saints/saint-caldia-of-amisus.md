@@ -1,11 +1,11 @@
 ---
-name: "Saint Caldia of Amisus"
+name: Saint Caldia of Amisus
 honorific: Saint
-summary: "Christian woman martyred in the persecutions of Diocletian."
-image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Caldia-of-Amisus.jpg"
+summary: Christian woman martyred in the persecutions of Diocletian.
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Caldia-of-Amisus.jpg
 searchAliases:
-  - "Claudia"
-region: "Italy"
+  - Claudia
+region: Italy
 feastDay:
   month: 3
   day: 20
@@ -14,6 +14,7 @@ vocation:
   - Monk
   - Religious
 martyr: true
+prayers: []
 ---
 
 Christian woman martyred in the persecutions of Diocletian.

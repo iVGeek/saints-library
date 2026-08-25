@@ -1,24 +1,27 @@
 ---
-name: "Saint Lydwina of Schiedam"
+name: Saint Lydwina of Schiedam
 honorific: Saint
-summary: "Her father was a poor noble, and her mother a poor commoner. Lydwina early evinced a devotion of Our Lady of Schiedam. Injured in an ice-skating accident at age 16, the broken rib caused gangrene to set in, and Lydwina became paralyzed and suffered for decades. She spent her time"
-image: "http://catholicsaints.info/wp-content/uploads/saint-lydwina-of-schiedam.jpg"
+summary: >-
+  Her father was a poor noble, and her mother a poor commoner. Lydwina early evinced a devotion of Our Lady of Schiedam.
+  Injured in an ice-skating accident at age 16, the broken rib caused gangrene to set in, and Lydwina became paralyzed
+  and suffered for decades. She spent her time
+image: http://catholicsaints.info/wp-content/uploads/saint-lydwina-of-schiedam.jpg
 searchAliases:
-  - "Liduina"
-  - "Lidwid"
-  - "Lidwina"
-  - "Lijdwine"
-  - "Ludivine"
-  - "Lydwid"
-  - "Lidwyna"
-  - "Lydwine"
+  - Liduina
+  - Lidwid
+  - Lidwina
+  - Lijdwine
+  - Ludivine
+  - Lydwid
+  - Lidwyna
+  - Lydwine
 birthYear: 1380
 deathYear: 1433
-born: "18 April 1380 at Schiedam, Netherlands"
-died: "14 April (Easter) 1433 at Schiedam, Netherlands of natural causes"
-birthPlace: "Netherlands"
-deathPlace: "Netherlandsnatural causes"
-region: "England"
+born: 18 April 1380 at Schiedam, Netherlands
+died: 14 April (Easter) 1433 at Schiedam, Netherlands of natural causes
+birthPlace: Netherlands
+deathPlace: Netherlandsnatural causes
+region: England
 feastDay:
   month: 4
   day: 14
@@ -28,17 +31,18 @@ vocation:
   - Priest
   - Monk
 patronage:
-  - "against sickness"
-  - "against bodily ills"
-  - "ice skating"
-  - "prolonged suffering"
-  - "roller skating"
-  - "sick people"
-  - "skaters"
-  - "skating"
-  - "—"
-  - "Schiedam, Netherlands"
+  - against sickness
+  - against bodily ills
+  - ice skating
+  - prolonged suffering
+  - roller skating
+  - sick people
+  - skaters
+  - skating
+  - —
+  - Schiedam, Netherlands
 martyr: false
+prayers: []
 ---
 
 Her father was a poor noble, and her mother a poor commoner. Lydwina early evinced a devotion of Our Lady of Schiedam. Injured in an ice-skating accident at age 16, the broken rib caused gangrene to set in, and Lydwina became paralyzed and suffered for decades. She spent her time praying, meditating, and offering her pain to God.

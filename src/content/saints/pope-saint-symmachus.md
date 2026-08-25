@@ -1,16 +1,17 @@
 ---
-name: "Pope Saint Symmachus"
+name: Pope Saint Symmachus
 honorific: Saint
-summary: " An anti-pope, Laurentius, was elected the same day by a minority with Byzantine sympathies and with the support of Emperor Anastasius; King Theodoric the Great supported The son of Fortunatus. Baptized in Rome, Italy. Archdeacon under Pope Anastasius II. Chosen 51st pope in 498."
-image: "https://upload.wikimedia.org/wikipedia/commons/f/fa/Pope_Symmachus_%E2%80%93_apse_mosaic_of_Sant%27Agnese_fuori_le_mura.png"
+summary: ' An anti-pope, Laurentius, was elected the same day by a minority with Byzantine sympathies and with the support of Emperor Anastasius; King Theodoric the Great supported The son of Fortunatus. Baptized in Rome, Italy. Archdeacon under Pope Anastasius II. Chosen 51st pope in 498.'
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/f/fa/Pope_Symmachus_%E2%80%93_apse_mosaic_of_Sant%27Agnese_fuori_le_mura.png
 searchAliases:
-  - "Simmaco"
+  - Simmaco
 deathYear: 514
-born: "in Sardinia, Kingdom of Odoacer (part of modern Italy)"
-died: "19 July 514 in Rome, Ostrogothic Kingdom (in modern Italy) of natural causes"
-birthPlace: "KingdomOdoacer (part of modern Italy)"
-deathPlace: "Ostrogothic Kingdom (modern Italy) of natural causes"
-region: "Italy"
+born: in Sardinia, Kingdom of Odoacer (part of modern Italy)
+died: 19 July 514 in Rome, Ostrogothic Kingdom (in modern Italy) of natural causes
+birthPlace: KingdomOdoacer (part of modern Italy)
+deathPlace: Ostrogothic Kingdom (modern Italy) of natural causes
+region: Italy
 feastDay:
   month: 7
   day: 19
@@ -21,6 +22,7 @@ vocation:
   - Deacon
   - Confessor
 martyr: false
+prayers: []
 ---
 
 The son of Fortunatus. Baptized in Rome, Italy. Archdeacon under Pope Anastasius II. Chosen 51st pope in 498.

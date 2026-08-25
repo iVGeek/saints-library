@@ -1,20 +1,23 @@
 ---
-name: "Blessed María del Tránsito de Jesús Sacramentado"
+name: Blessed María del Tránsito de Jesús Sacramentado
 honorific: Blessed
-summary: "Third child born to Felipe Cabanillas and Francisca Antonia Luj&aacute;n S&aacute;nchez. Raised in a large, wealthy and pious family; she had ten siblings, three of whom died in childhood, one brother became a priest, three sisters nuns. Educated at home and then at Cordoba, Arge"
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-María-del-Tránsito-de-Jesús-Sacramentado.jpg"
+summary: >-
+  Third child born to Felipe Cabanillas and Francisca Antonia Luj&aacute;n S&aacute;nchez. Raised in a large, wealthy
+  and pious family; she had ten siblings, three of whom died in childhood, one brother became a priest, three sisters
+  nuns. Educated at home and then at Cordoba, Arge
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-María-del-Tránsito-de-Jesús-Sacramentado.jpg
 searchAliases:
-  - "María Cabanillas"
-  - "María del Tránsito Cabanillas"
-  - "María del Transito Eugenia de los Dolores Cabanillaswas"
-  - "María del Tránsito Of Jesus In The Blessed Sacrament"
+  - María Cabanillas
+  - María del Tránsito Cabanillas
+  - María del Transito Eugenia de los Dolores Cabanillaswas
+  - María del Tránsito Of Jesus In The Blessed Sacrament
 birthYear: 1821
 deathYear: 1885
-born: "15 August 1821 on the estate of Santa Leocadia, now Carlos Paz, Cordoba, Argentina as Maria Cabanillas"
-died: "25 August 1885 at San Vicente, Cordoba, Argentina of natural causes"
-birthPlace: "now Carlos Paz, Cordoba, Argentina as Maria Cabanillas"
-deathPlace: "Cordoba, Argentinanatural causes"
-region: "Argentina"
+born: 15 August 1821 on the estate of Santa Leocadia, now Carlos Paz, Cordoba, Argentina as Maria Cabanillas
+died: 25 August 1885 at San Vicente, Cordoba, Argentina of natural causes
+birthPlace: now Carlos Paz, Cordoba, Argentina as Maria Cabanillas
+deathPlace: Cordoba, Argentinanatural causes
+region: Argentina
 feastDay:
   month: 8
   day: 25
@@ -22,8 +25,9 @@ canonizationStatus: Blessed
 vocation:
   - Priest
   - Religious
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 martyr: false
+prayers: []
 ---
 
 Third child born to Felipe Cabanillas and Francisca Antonia Luj&aacute;n S&aacute;nchez. Raised in a large, wealthy and pious family; she had ten siblings, three of whom died in childhood, one brother became a priest, three sisters nuns. Educated at home and then at Cordoba, Argentina where she studied and helped care for her seminarian younger brother until his ordination in 1853.

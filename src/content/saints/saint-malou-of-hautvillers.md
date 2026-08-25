@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Malou of Hautvillers"
+name: Saint Malou of Hautvillers
 honorific: Saint
-summary: "Priest at Hautvillers, Marne, France. No other information has survived."
+summary: Priest at Hautvillers, Marne, France. No other information has survived.
 searchAliases:
-  - "Madeloup"
-region: "France"
+  - Madeloup
+region: France
 feastDay:
   month: 12
   day: 20
@@ -14,6 +14,7 @@ vocation:
   - Priest
   - Monk
 martyr: false
+prayers: []
 ---
 
 Priest at Hautvillers, Marne, France. No other information has survived.

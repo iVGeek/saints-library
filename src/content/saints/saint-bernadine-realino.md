@@ -1,18 +1,21 @@
 ---
-name: "Saint Bernadine Realino"
+name: Saint Bernadine Realino
 honorific: Saint
-summary: "Born to the Italian nobility. Studied law and medicine at Bologna, Italy, receiving a law degree in 1556. Mayor of Felizzano, Italy. Judge. Chief tax collector in Alessandria, Italy. Mayor of Cassine, Italy. Mayor of Castelleone, Italy. Superintendent of the fiefs of the marquis"
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Bernadine-Realino.jpg"
+summary: >-
+  Born to the Italian nobility. Studied law and medicine at Bologna, Italy, receiving a law degree in 1556. Mayor of
+  Felizzano, Italy. Judge. Chief tax collector in Alessandria, Italy. Mayor of Cassine, Italy. Mayor of Castelleone,
+  Italy. Superintendent of the fiefs of the marquis
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Bernadine-Realino.jpg
 searchAliases:
-  - "Apostle of Lecce"
-  - "Bernardino Realini"
+  - Apostle of Lecce
+  - Bernardino Realini
 birthYear: 1530
 deathYear: 1616
-born: "1 December 1530 in Carpi, Modena, Italy"
-died: "2 July 1616 in Lecce, Italy of natural causes"
-birthPlace: "Modena, Italy"
-deathPlace: "Italynatural causes"
-region: "Italy"
+born: 1 December 1530 in Carpi, Modena, Italy
+died: 2 July 1616 in Lecce, Italy of natural causes
+birthPlace: Modena, Italy
+deathPlace: Italynatural causes
+region: Italy
 feastDay:
   month: 7
   day: 2
@@ -20,12 +23,13 @@ canonizationStatus: Saint
 vocation:
   - Priest
   - Monk
-religiousOrder: "Jesuit"
+religiousOrder: Jesuit
 patronage:
-  - "Carpi, Italy, city of (proclaimed on 25 March 1949 by Pope Leo XII)"
-  - "Carpi, Italy, diocese of"
-  - "Lecce, Italy (proclaimed on 15 December 1947 by Pope Pius XII)"
+  - Carpi, Italy, city of (proclaimed on 25 March 1949 by Pope Leo XII)
+  - Carpi, Italy, diocese of
+  - Lecce, Italy (proclaimed on 15 December 1947 by Pope Pius XII)
 martyr: false
+prayers: []
 ---
 
 Born to the Italian nobility. Studied law and medicine at Bologna, Italy, receiving a law degree in 1556. Mayor of Felizzano, Italy. Judge. Chief tax collector in Alessandria, Italy. Mayor of Cassine, Italy. Mayor of Castelleone, Italy. Superintendent of the fiefs of the marquis of Naples, Italy.

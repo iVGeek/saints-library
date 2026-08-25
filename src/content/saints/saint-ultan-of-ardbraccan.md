@@ -1,11 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Ultan of Ardbraccan"
+name: Saint Ultan of Ardbraccan
 honorific: Saint
-summary: "Bishop of Ardbraccan, Ireland. Noted for his care of the poor, orphans, and the sick. Thought to have collected the writings of Saint Brigid of Ireland. Illustrated his own manuscripts."
+summary: >-
+  Bishop of Ardbraccan, Ireland. Noted for his care of the poor, orphans, and the sick. Thought to have collected the
+  writings of Saint Brigid of Ireland. Illustrated his own manuscripts.
 deathYear: 657
-died: "657 of natural causes"
-region: "Ireland"
+died: 657 of natural causes
+region: Ireland
 feastDay:
   month: 9
   day: 4
@@ -15,8 +17,9 @@ vocation:
   - Priest
   - Monk
 patronage:
-  - "children"
+  - children
 martyr: false
+prayers: []
 ---
 
 Bishop of Ardbraccan, Ireland. Noted for his care of the poor, orphans, and the sick. Thought to have collected the writings of Saint Brigid of Ireland. Illustrated his own manuscripts.

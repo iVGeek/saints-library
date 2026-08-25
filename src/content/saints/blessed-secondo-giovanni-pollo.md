@@ -1,15 +1,18 @@
 ---
-name: "Blessed Secondo Giovanni Pollo"
+name: Blessed Secondo Giovanni Pollo
 honorific: Blessed
-summary: "Educated by the Brothers of the Christian Schools, Secondo felt a call to the priesthood when he was a little boy, and entered the Vercelli, Italy diocesan junior seminary at age 11. He studied theology in Rome, Italy at the Lombard Seminary, the Pontifical Academy of Saint Thoma"
-image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-Secondo-Giovanni-Pollo.jpg"
+summary: >-
+  Educated by the Brothers of the Christian Schools, Secondo felt a call to the priesthood when he was a little boy, and
+  entered the Vercelli, Italy diocesan junior seminary at age 11. He studied theology in Rome, Italy at the Lombard
+  Seminary, the Pontifical Academy of Saint Thoma
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Secondo-Giovanni-Pollo.jpg
 birthYear: 1908
 deathYear: 1941
-born: "2 January 1908 at Caresanablot, Vercelli, Italy"
-died: "shot in the leg on 26 December 1941 in Dragali, Montenegro"
-birthPlace: "Vercelli, Italy"
-deathPlace: "Montenegro"
-region: "Italy"
+born: 2 January 1908 at Caresanablot, Vercelli, Italy
+died: shot in the leg on 26 December 1941 in Dragali, Montenegro
+birthPlace: Vercelli, Italy
+deathPlace: Montenegro
+region: Italy
 feastDay:
   month: 12
   day: 26
@@ -19,6 +22,7 @@ vocation:
   - Religious
   - Soldier
 martyr: false
+prayers: []
 ---
 
 Educated by the Brothers of the Christian Schools, Secondo felt a call to the priesthood when he was a little boy, and entered the Vercelli, Italy diocesan junior seminary at age 11. He studied theology in Rome, Italy at the Lombard Seminary, the Pontifical Academy of Saint Thomas, and the Pontifical Gregorian University, and was ordained a priest on 15 August 1931 in the archdiocese of Vercelli. He taught philosophy and theology, and served as spiritual director in the minor seminary, and then at the senior seminary in Vercelli. Diocesan assistant of the Catholic Action where he developed a wider youth ministry. He was an anomaly to his brother priests as he was constantly working with young people, finding ways for them to lead active, Christian lives.

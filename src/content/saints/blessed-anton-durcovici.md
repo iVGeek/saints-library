@@ -21,6 +21,7 @@ vocation:
   - Bishop
   - Priest
 martyr: true
+prayers: []
 ---
 
 His father died when Anton was small; he, his mother and his brother moved to Iasi, Romania in 1895. He studied in Iasi and Bucarest in Romania, and in Rome, Italy earning multiple degrees including two doctorates. Priest in the diocese of Bucarest, Romania, ordained on 24 September 1910. Taught at the Bucarest seminary. Parish administrator in Tulcea, Romania. Being an Austrian citizen, he was imprisoned in an internment camp during World War I when Romania joined the Allied forces; freed by order of King Ferdinand I. Rector of the Bucarest seminary from 1924 to 1948. Bishop of Iasi, Romania on 30 October 1947. In the post-World War II period, he became a vocal opponent of the Communists in Romania. Arrested on 26 June 1949, he was shipped from prison to prison, tortured, abused, starved, and left naked in the winter weather. Martyr.

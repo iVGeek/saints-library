@@ -1,15 +1,15 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Josep Ribé Coma"
+name: Blessed Josep Ribé Coma
 honorific: Blessed
-summary: "Claretian priest. Martyred in the Spanish Civil War."
+summary: Claretian priest. Martyred in the Spanish Civil War.
 birthYear: 1893
 deathYear: 1936
-born: "28 October 1893 in Olost, Barcelona, Spain"
-died: "19 October 1936 in Mas Claret, Sant Pere dels Arquells, Lleida, Spain"
-birthPlace: "Barcelona, Spain"
-deathPlace: "Sant Pere dels Arquells, Lleida, Spain"
-region: "Spain"
+born: 28 October 1893 in Olost, Barcelona, Spain
+died: 19 October 1936 in Mas Claret, Sant Pere dels Arquells, Lleida, Spain
+birthPlace: Barcelona, Spain
+deathPlace: Sant Pere dels Arquells, Lleida, Spain
+region: Spain
 feastDay:
   month: 10
   day: 19
@@ -19,6 +19,7 @@ vocation:
   - Priest
   - Cardinal
 martyr: true
+prayers: []
 ---
 
 Claretian priest. Martyred in the Spanish Civil War.

@@ -1,9 +1,9 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Mewrog"
+name: Saint Mewrog
 honorific: Saint
-summary: "A saint from Denbighshire, Wales. No other information has survived."
-region: "England"
+summary: A saint from Denbighshire, Wales. No other information has survived.
+region: England
 feastDay:
   month: 9
   day: 25
@@ -11,6 +11,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: false
+prayers: []
 ---
 
 A saint from Denbighshire, Wales. No other information has survived.

@@ -29,6 +29,7 @@ patronage:
   - Alatri, Italy
   - Alife, Italy
 martyr: true
+prayers: []
 ---
 
 Little known about his life before he was chosen seventh pope in 116. He concerned himself with the liturgy, and instituted elements still in use today. He decreed that only priests may touch the sacred vessels, that bishops returning from the Apostolic See to their dioceses must present Apostolic letters, and that the priest shall recite the Sanctus with the people during the Mass. Reigned during the persecutions of the Roman emperor Trajan. Martyr.

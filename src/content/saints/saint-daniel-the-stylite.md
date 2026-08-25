@@ -1,16 +1,19 @@
 ---
-name: "Saint Daniel the Stylite"
+name: Saint Daniel the Stylite
 honorific: Saint
-summary: "Monk at Samosata on the Upper Euphrates River at the age of twelve. When chosen abbot by his brothers, he declined. He made two trips to learn from Saint Simeon Stylites the Elder, and received that saint's blessing. Would-be pilgrim to the Holy Lands, but a vision of Saint Simeo"
-image: "https://upload.wikimedia.org/wikipedia/commons/5/53/Spas_na_Ilyine_-_Stylite_Daniel.jpg"
+summary: >-
+  Monk at Samosata on the Upper Euphrates River at the age of twelve. When chosen abbot by his brothers, he declined. He
+  made two trips to learn from Saint Simeon Stylites the Elder, and received that saint's blessing. Would-be pilgrim to
+  the Holy Lands, but a vision of Saint Simeo
+image: https://upload.wikimedia.org/wikipedia/commons/5/53/Spas_na_Ilyine_-_Stylite_Daniel.jpg
 searchAliases:
-  - "Daniel of Constantinople"
+  - Daniel of Constantinople
 birthYear: 409
 deathYear: 493
-born: "409 at Maratha, Syria"
-died: "493 near Constantinople of natural causes"
-birthPlace: "Syria"
-region: "Turkey"
+born: 409 at Maratha, Syria
+died: 493 near Constantinople of natural causes
+birthPlace: Syria
+region: Turkey
 feastDay:
   month: 12
   day: 11
@@ -20,6 +23,7 @@ vocation:
   - Monk
   - Hermit
 martyr: false
+prayers: []
 ---
 
 Monk at Samosata on the Upper Euphrates River at the age of twelve. When chosen abbot by his brothers, he declined. He made two trips to learn from Saint Simeon Stylites the Elder, and received that saint's blessing. Would-be pilgrim to the Holy Lands, but a vision of Saint Simeon caused him to travel instead to Constantinople where he spent the rest of his life. At age 42, Daniel decided to become a pillar-dwelling hermit like Simeon, and spent the next thirty-three years on one.

@@ -1,20 +1,23 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Giles of Seville"
+name: Blessed Giles of Seville
 honorific: Blessed
-summary: "Mercedarian friar sent with Blessed John of the Cross to the Moorish kingdom in Granada, Spain in 1324 to redeem Christians enslaved by Muslims. He ministered to all he could, and helped free 267 of them."
+summary: >-
+  Mercedarian friar sent with Blessed John of the Cross to the Moorish kingdom in Granada, Spain in 1324 to redeem
+  Christians enslaved by Muslims. He ministered to all he could, and helped free 267 of them.
 searchAliases:
-  - "Egidio"
-  - "Egidius"
+  - Egidio
+  - Egidius
 deathYear: 1327
-died: "1327 of natural causes"
-region: "Spain"
+died: 1327 of natural causes
+region: Spain
 feastDay:
   month: 8
   day: 4
 canonizationStatus: Blessed
 vocation: []
 martyr: false
+prayers: []
 ---
 
 Mercedarian friar sent with Blessed John of the Cross to the Moorish kingdom in Granada, Spain in 1324 to redeem Christians enslaved by Muslims. He ministered to all he could, and helped free 267 of them.

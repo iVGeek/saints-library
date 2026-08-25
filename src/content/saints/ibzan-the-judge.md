@@ -30,6 +30,7 @@ imageCredit: >-
   href="https://archive.org/download/historyofhebrewn00sharrich/historyofhebrewn00sharrich.pdf">https://archive.org/download/historyofhebrewn00sharrich/historyofhebrewn00sharrich.pdf</a></dd></dl>
 imageCreditUrl: >-
   https://commons.wikimedia.org/wiki/File:The%20history%20of%20the%20Hebrew%20nation%20and%20its%20literature%20-%20with%20an%20appendix%20on%20the%20Hebrew%20chronology%20(IA%20historyofhebrewn00sharrich).pdf
+prayers: []
 ---
 
 Judge of Israel for 7 years, as described in the Old Testament Book of Judges. Married and the father of 30 sons and 30 daughters.

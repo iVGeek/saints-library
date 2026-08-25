@@ -1,25 +1,31 @@
 ---
-name: "Venerable Olinto Fedi"
+name: Venerable Olinto Fedi
 honorific: Venerable
-summary: "Priest in the archdiocese of Florence, Italy. He served at the parish of San Mauro a Signa in Florence for nearly 60 years. Attracted to Franciscan spirituality, he became a Franciscan tertiary. In 1876 he founded the Franciscan Sisters of the Immaculate, headquartered in San Pie"
-image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Olinto-Fedi.jpg"
+summary: >-
+  Priest in the archdiocese of Florence, Italy. He served at the parish of San Mauro a Signa in Florence for nearly 60
+  years. Attracted to Franciscan spirituality, he became a Franciscan tertiary. In 1876 he founded the Franciscan
+  Sisters of the Immaculate, headquartered in San Pie
+image: http://catholicsaints.info/wp-content/uploads/img-Venerable-Olinto-Fedi.jpg
 birthYear: 1841
 deathYear: 1923
-born: "3 October 1841 in Signa, Florence, Italy"
-died: "23 January 1923 in Signa, Florence, Italy of natural causes"
-birthPlace: "Florence, Italy"
-deathPlace: "Florence, Italynatural causes"
-region: "Italy"
+born: 3 October 1841 in Signa, Florence, Italy
+died: 23 January 1923 in Signa, Florence, Italy of natural causes
+birthPlace: Florence, Italy
+deathPlace: Florence, Italynatural causes
+region: Italy
 feastDay:
   month: 1
   day: 1
-centuries: [19, 20]
+centuries:
+  - 19
+  - 20
 canonizationStatus: Venerable
 vocation:
   - Priest
   - Religious
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 martyr: false
+prayers: []
 ---
 
 Priest in the archdiocese of Florence, Italy. He served at the parish of San Mauro a Signa in Florence for nearly 60 years. Attracted to Franciscan spirituality, he became a Franciscan tertiary. In 1876 he founded the Franciscan Sisters of the Immaculate, headquartered in San Piero a Ponti, Italy, working with the laity, supporting worker's rights, and teaching the catechism.

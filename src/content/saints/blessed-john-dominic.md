@@ -1,19 +1,22 @@
 ---
-name: "Blessed Giovanni Dominici"
+name: Blessed Giovanni Dominici
 honorific: Blessed
-summary: "He had a humble background, little education, and a tendency to stammer and stutter, but John had a great memory, great drive to improve, and became a great theologian and preacher. He spent much of his youth in or around the nearby Dominican church of Santa Maria Novella. Though"
-image: "http://catholicsaints.info/wp-content/uploads/John-Dominic.jpg"
+summary: >-
+  He had a humble background, little education, and a tendency to stammer and stutter, but John had a great memory,
+  great drive to improve, and became a great theologian and preacher. He spent much of his youth in or around the nearby
+  Dominican church of Santa Maria Novella. Though
+image: http://catholicsaints.info/wp-content/uploads/John-Dominic.jpg
 searchAliases:
-  - "John Dominic"
-  - "John Dominici"
-  - "John Dominici de Banchini"
+  - John Dominic
+  - John Dominici
+  - John Dominici de Banchini
 birthYear: 1356
 deathYear: 1419
-born: "1356 at Florence, Italy"
-died: "10 June 1419 of a fever at Buda, Hungary"
-birthPlace: "Italy"
-deathPlace: "Hungary"
-region: "Czech Republic"
+born: 1356 at Florence, Italy
+died: 10 June 1419 of a fever at Buda, Hungary
+birthPlace: Italy
+deathPlace: Hungary
+region: Czech Republic
 feastDay:
   month: 6
   day: 10
@@ -22,8 +25,9 @@ vocation:
   - Bishop
   - Priest
   - Confessor
-religiousOrder: "Dominican"
+religiousOrder: Dominican
 martyr: false
+prayers: []
 ---
 
 He had a humble background, little education, and a tendency to stammer and stutter, but John had a great memory, great drive to improve, and became a great theologian and preacher. He spent much of his youth in or around the nearby Dominican church of Santa Maria Novella. Though he lacked education and the Dominicans were scholars, and though he had trouble speaking and the Dominicans were preachers, he joined the Order at age 17.

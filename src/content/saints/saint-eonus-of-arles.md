@@ -1,13 +1,15 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Eonus of Arles"
+name: Saint Eonus of Arles
 honorific: Saint
-summary: "Archbishop of Arles, France in the late 5th and early 6th century. Fought the Pelagian heresy. Ordained Saint Cesareo of Arles."
+summary: >-
+  Archbishop of Arles, France in the late 5th and early 6th century. Fought the Pelagian heresy. Ordained Saint Cesareo
+  of Arles.
 searchAliases:
-  - "Eonio"
+  - Eonio
 deathYear: 502
-died: "502"
-region: "France"
+died: '502'
+region: France
 feastDay:
   month: 8
   day: 18
@@ -16,6 +18,7 @@ vocation:
   - Bishop
   - Priest
 martyr: false
+prayers: []
 ---
 
 Archbishop of Arles, France in the late 5th and early 6th century. Fought the Pelagian heresy. Ordained Saint Cesareo of Arles.

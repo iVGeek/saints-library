@@ -59,6 +59,7 @@ patronage:
   - –
   - Saint-Fiacre, Seine-et-Marne, France
 martyr: false
+prayers: []
 ---
 
 Brother of Saint Syra of Troyes. Raised in an Irish monastery, which in the 7th century were great repositories of learning, including the use of healing herbs, a skill studied by Fiacre. His knowledge and holiness caused followers to flock to him, which destroyed the holy isolation he sought.

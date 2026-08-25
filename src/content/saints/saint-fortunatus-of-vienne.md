@@ -22,6 +22,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/3/32/Tafel_paepste.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Fortunatus of Vienne
 imageCreditUrl: https://en.wikipedia.org/wiki/Pope%20Hormisdas
+prayers: []
 ---
 
 Deacon. Sent by Saint Irenaeus of Lyons to evangelize around Vienne, France. Martyr.

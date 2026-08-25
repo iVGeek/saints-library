@@ -1,15 +1,15 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed John Hambley"
+name: Blessed John Hambley
 honorific: Blessed
-summary: "Priest in the apostolic vicariate of England. Martyred in the persecutions of Queen Elizabeth I."
+summary: Priest in the apostolic vicariate of England. Martyred in the persecutions of Queen Elizabeth I.
 birthYear: 1560
 deathYear: 1587
-born: "c.1560 in Bodmin, Cornwall, England"
-died: "hanged c.29 March 1587 in Salisbury, Wiltshire, England"
-birthPlace: "Cornwall, England"
-deathPlace: "Wiltshire, England"
-region: "England"
+born: c.1560 in Bodmin, Cornwall, England
+died: hanged c.29 March 1587 in Salisbury, Wiltshire, England
+birthPlace: Cornwall, England
+deathPlace: Wiltshire, England
+region: England
 feastDay:
   month: 3
   day: 29
@@ -18,6 +18,7 @@ vocation:
   - Priest
   - Confessor
 martyr: true
+prayers: []
 ---
 
 Priest in the apostolic vicariate of England. Martyred in the persecutions of Queen Elizabeth I.

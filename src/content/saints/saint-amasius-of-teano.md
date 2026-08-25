@@ -22,6 +22,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/d/d2/Saint_Paris%27_Tomb.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Amasius of Teano
 imageCreditUrl: https://en.wikipedia.org/wiki/Saint%20Paris
+prayers: []
 ---
 
 Forced into exile in Italy for his opposition to the Arian heresy. Bishop of Teano, Italy in 346.

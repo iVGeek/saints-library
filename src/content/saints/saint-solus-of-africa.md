@@ -1,17 +1,18 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Solus of Africa"
+name: Saint Solus of Africa
 honorific: Saint
-summary: "Martyr."
-died: "in Africa, date and location unknown"
-deathPlace: "date and location unknown"
-region: "Africa"
+summary: Martyr.
+died: in Africa, date and location unknown
+deathPlace: date and location unknown
+region: Africa
 feastDay:
   month: 3
   day: 3
 canonizationStatus: Saint
 vocation: []
 martyr: true
+prayers: []
 ---
 
 Martyr.

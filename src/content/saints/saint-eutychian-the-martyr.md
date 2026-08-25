@@ -14,6 +14,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/f/f8/FrescoDiomedes.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Eutychian the Martyr
 imageCreditUrl: https://en.wikipedia.org/wiki/Diomedes%20of%20Tarsus
+prayers: []
 ---
 
 Martyr. No other information has survived.

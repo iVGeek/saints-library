@@ -1,35 +1,41 @@
 ---
-name: "Saint Marie of the Incarnation Guyart"
+name: Saint Marie of the Incarnation Guyart
 honorific: Venerable
-summary: "Daughter of a baker, she was raised in a family of craftsmen and tradesmen, and was related on her mother's side to the noble Barbon de la Bourdaisière family. A pious and sometimes mystical child, she would memorize and recite homilies, and early wanted to become a nun. Against"
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Marie-of-the-Incarnation-Guyart.jpg"
+summary: >-
+  Daughter of a baker, she was raised in a family of craftsmen and tradesmen, and was related on her mother's side to
+  the noble Barbon de la Bourdaisière family. A pious and sometimes mystical child, she would memorize and recite
+  homilies, and early wanted to become a nun. Against
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Marie-of-the-Incarnation-Guyart.jpg
 searchAliases:
-  - "Marie Guyard"
-  - "Marie Guyart of the Incarnation"
-  - "Marie Guyart"
-  - "Marie de l'Incarnation"
-  - "Marie of the Ursulines"
-  - "Mother of New France"
-  - "Theresa of the New World"
+  - Marie Guyard
+  - Marie Guyart of the Incarnation
+  - Marie Guyart
+  - Marie de l'Incarnation
+  - Marie of the Ursulines
+  - Mother of New France
+  - Theresa of the New World
 birthYear: 1599
 deathYear: 1672
-born: "28 October 1599 at Tours, France"
-died: "30 April 1672 of hepatitis in Quebec, Canada"
-birthPlace: "France"
-deathPlace: "Canada"
-region: "Canada"
+born: 28 October 1599 at Tours, France
+died: 30 April 1672 of hepatitis in Quebec, Canada
+birthPlace: France
+deathPlace: Canada
+region: Canada
 feastDay:
   month: 4
   day: 30
-centuries: [16, 17]
+centuries:
+  - 16
+  - 17
 canonizationStatus: Venerable
 vocation:
   - Bishop
   - Priest
   - Religious
   - Missionary
-religiousOrder: "Jesuit"
+religiousOrder: Jesuit
 martyr: false
+prayers: []
 ---
 
 Daughter of a baker, she was raised in a family of craftsmen and tradesmen, and was related on her mother's side to the noble Barbon de la Bourdaisière family. A pious and sometimes mystical child, she would memorize and recite homilies, and early wanted to become a nun. Against her wishes, she entered an arranged marriage with Claude Martin, a silk manufacturer, at age seventeen, and was soon the mother of one son. Widowed after two years of marriage, she moved back with her family, and refused to discuss re-marriage. Worked as an embroiderer.

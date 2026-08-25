@@ -1,17 +1,20 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Elgiva of Shaftesbury"
+name: Saint Elgiva of Shaftesbury
 honorific: Saint
-summary: "Queen; wife of King Edmund I. Mother of King Edwy of Saxony, and Saint Edgar the Peaceful. Widowed young. Known all her life for her personal piety and support of the Church, endowing several churches and monasteries Later in life she retired to become a Benedictine nun and then"
+summary: >-
+  Queen; wife of King Edmund I. Mother of King Edwy of Saxony, and Saint Edgar the Peaceful. Widowed young. Known all
+  her life for her personal piety and support of the Church, endowing several churches and monasteries Later in life she
+  retired to become a Benedictine nun and then
 searchAliases:
-  - "Aelfgifu"
-  - "Aelgifu"
-  - "Aelgytha"
-  - "Algyva"
-  - "Elfgiva"
+  - Aelfgifu
+  - Aelgifu
+  - Aelgytha
+  - Algyva
+  - Elfgiva
 deathYear: 971
-died: "971 of natural causes"
-region: "England"
+died: 971 of natural causes
+region: England
 feastDay:
   month: 5
   day: 18
@@ -19,11 +22,15 @@ canonizationStatus: Saint
 vocation:
   - Monk
   - Religious
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 patronage:
-  - "in England\n\nShaftesbury"
-  - "Wareham"
+  - |-
+    in England
+
+    Shaftesbury
+  - Wareham
 martyr: false
+prayers: []
 ---
 
 Queen; wife of King Edmund I. Mother of King Edwy of Saxony, and Saint Edgar the Peaceful. Widowed young. Known all her life for her personal piety and support of the Church, endowing several churches and monasteries Later in life she retired to become a Benedictine nun and then abbess at Shaftesbury, England.

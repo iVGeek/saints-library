@@ -1,22 +1,24 @@
 ---
-name: "Saint Giuditta Adelaide Agata Vannini"
+name: Saint Giuditta Adelaide Agata Vannini
 honorific: Venerable
-summary: " On retreat in 1891 she met B Orphaned as a small child. Raised in the Torlonia Conservatory on Via Sant' Onofrio, under the guidance of the Daughters of Charity of Saint Vincent de Paul. Entered the Daughters' novitiate in Siena, Italy, but was forced to leave due to poor health."
-image: "http://catholicsaints.info/wp-content/gallery/blessed-josephine-vannini/blessed-josephine-vannini-01.jpg"
+summary: ' On retreat in 1891 she met B Orphaned as a small child. Raised in the Torlonia Conservatory on Via Sant'' Onofrio, under the guidance of the Daughters of Charity of Saint Vincent de Paul. Entered the Daughters'' novitiate in Siena, Italy, but was forced to leave due to poor health.'
+image: http://catholicsaints.info/wp-content/gallery/blessed-josephine-vannini/blessed-josephine-vannini-01.jpg
 searchAliases:
-  - "Giuseppina Vannini"
-  - "Josephine Vannini"
+  - Giuseppina Vannini
+  - Josephine Vannini
 deathYear: 1911
-died: "23 February 1911 in Rome, Italy of natural causes"
-deathPlace: "Italynatural causes"
-region: "Peru"
+died: 23 February 1911 in Rome, Italy of natural causes
+deathPlace: Italynatural causes
+region: Peru
 feastDay:
   month: 2
   day: 23
-centuries: [20]
+centuries:
+  - 20
 canonizationStatus: Venerable
 vocation: []
 martyr: false
+prayers: []
 ---
 
 Orphaned as a small child. Raised in the Torlonia Conservatory on Via Sant' Onofrio, under the guidance of the Daughters of Charity of Saint Vincent de Paul. Entered the Daughters' novitiate in Siena, Italy, but was forced to leave due to poor health.

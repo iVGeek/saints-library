@@ -1,21 +1,24 @@
 ---
-name: "Saint John Francis Regis"
+name: Saint John Francis Regis
 honorific: Saint
-title: "Missionary"
-summary: "Son of a wealthy merchant. Educated at the Jesuit college at Beziers, and at Cahors, Le Puy, Auch, and Tournon. Joined the Jesuits at age 18. Preacher. Catechist who was so good that children he taught helped bring their parents back to the Church. Ordained at age 34. Worked with"
-image: "https://upload.wikimedia.org/wikipedia/commons/b/ba/San_Juan_Francisco_de_Regis.jpg"
+title: Missionary
+summary: >-
+  Son of a wealthy merchant. Educated at the Jesuit college at Beziers, and at Cahors, Le Puy, Auch, and Tournon. Joined
+  the Jesuits at age 18. Preacher. Catechist who was so good that children he taught helped bring their parents back to
+  the Church. Ordained at age 34. Worked with
+image: https://upload.wikimedia.org/wikipedia/commons/b/ba/San_Juan_Francisco_de_Regis.jpg
 searchAliases:
-  - "Jean-François Régis"
-  - "John-Francis Regis"
-  - "John Francis Regis"
-  - "Johannes Frans Régis"
+  - Jean-François Régis
+  - John-Francis Regis
+  - John Francis Regis
+  - Johannes Frans Régis
 birthYear: 1597
 deathYear: 1640
-born: "31 January 1597 at Font-Couverte, Narbonne, Languedoc, France"
-died: "31 December 1640 of pneumonia while preaching a mission at La Louvesc, Dauphine, France"
-birthPlace: "Narbonne, Languedoc, France"
-deathPlace: "Dauphine, France"
-region: "France"
+born: 31 January 1597 at Font-Couverte, Narbonne, Languedoc, France
+died: 31 December 1640 of pneumonia while preaching a mission at La Louvesc, Dauphine, France
+birthPlace: Narbonne, Languedoc, France
+deathPlace: Dauphine, France
+region: France
 feastDay:
   month: 12
   day: 31
@@ -23,22 +26,26 @@ canonizationStatus: Saint
 vocation:
   - Missionary
   - Confessor
-religiousOrder: "Jesuit"
+religiousOrder: Jesuit
 patronage:
-  - "against plague"
-  - "embroiderers"
-  - "lace makers"
-  - "lace workers"
-  - "medical social workers"
-  - "social workers"
-  - "–"
-  - "French Jesuits"
-  - "Sisters of Saint Francis Régis"
-  - "–"
-  - "in France\n\nAuvergne"
-  - "Le Puy-en-Velay"
-  - "Montfaucon-en-Velay"
+  - against plague
+  - embroiderers
+  - lace makers
+  - lace workers
+  - medical social workers
+  - social workers
+  - –
+  - French Jesuits
+  - Sisters of Saint Francis Régis
+  - –
+  - |-
+    in France
+
+    Auvergne
+  - Le Puy-en-Velay
+  - Montfaucon-en-Velay
 martyr: false
+prayers: []
 ---
 
 Son of a wealthy merchant. Educated at the Jesuit college at Beziers, and at Cahors, Le Puy, Auch, and Tournon. Joined the Jesuits at age 18. Preacher. Catechist who was so good that children he taught helped bring their parents back to the Church. Ordained at age 34. Worked with plague victims in Toulouse, France. Taught at Pamiers.

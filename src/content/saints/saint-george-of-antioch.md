@@ -17,6 +17,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Monk. Bishop of Antioch, Pisidia. Attended the Second Council of Nicea in 787. Opposed the iconoclasts, for which he was exiled by Emperor Leo V, the Armenian.

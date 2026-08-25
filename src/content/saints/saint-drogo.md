@@ -61,6 +61,7 @@ patronage:
     Baume-les-Messieurs
   - Fleury-sur-Loire
 martyr: false
+prayers: []
 ---
 
 Born to the Flemish nobility. His mother died giving him birth, a fact that emotionally crushed him when he learned of it at age 10; he imagined himself responsible for her death. Later in life he practiced extreme penances, possibly to expiate this guilt. Orphaned in his teens. At 18, he disposed of all his property and became a penitential pilgrim, making nine trips to Rome, Italy. Shepherd for six years at Sebourg, near Valencienne, France, working for Elizabeth de la Haire. Revered for his holiness. Reportedly able to bilocate, with witnesses seeing him simultaneously working the fields and attending Mass. Stricken with an unsightly bodily affliction during a pilgrimage, he became a hermit at Sebourg in Hainault for 40 years surviving on barley, water, and the Eucharist.

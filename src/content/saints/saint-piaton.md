@@ -1,18 +1,20 @@
 ---
-name: "Saint Piaton of Tournai"
+name: Saint Piaton of Tournai
 honorific: Saint
-summary: "Priest, ordained by Saint Dionysius the Areopagite. Early evangelist to the areas of Tournai, Belgium and Chartres in Gaul (modern France). Martyred in the persecutions of Emperor Maximian Herculeus."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Piaton-of-Tournai.jpg"
+summary: >-
+  Priest, ordained by Saint Dionysius the Areopagite. Early evangelist to the areas of Tournai, Belgium and Chartres in
+  Gaul (modern France). Martyred in the persecutions of Emperor Maximian Herculeus.
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Piaton-of-Tournai.jpg
 searchAliases:
-  - "Piat"
-  - "Piato"
-  - "Piatone"
+  - Piat
+  - Piato
+  - Piatone
 deathYear: 286
-born: "at Benevento, Italy"
-died: "skull split by a soldier  c.286 at Tournai, Belgium"
-birthPlace: "Italy"
-deathPlace: "Belgium"
-region: "Belgium"
+born: at Benevento, Italy
+died: skull split by a soldier  c.286 at Tournai, Belgium
+birthPlace: Italy
+deathPlace: Belgium
+region: Belgium
 feastDay:
   month: 10
   day: 1
@@ -22,9 +24,10 @@ vocation:
   - Monk
   - Soldier
 patronage:
-  - "Seclin, France"
-  - "Tournai, Belgium"
+  - Seclin, France
+  - Tournai, Belgium
 martyr: true
+prayers: []
 ---
 
 Priest, ordained by Saint Dionysius the Areopagite. Early evangelist to the areas of Tournai, Belgium and Chartres in Gaul (modern France). Martyred in the persecutions of Emperor Maximian Herculeus.

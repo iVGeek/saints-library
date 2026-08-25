@@ -38,6 +38,7 @@ patronage:
   - students
   - universities
 martyr: false
+prayers: []
 ---
 
 Youngest of five children born to Don Pedro Calasanz and Donna Maria Gastonia. His mother and a brother died while he was still in school. Studied at Estadilla, at the University of Lereda, at Valencia, and at Alcala de Henares. Obtained degrees in canon law and theology. His father wanted the Joseph to become a soldier, to marry, and to continue the family, but a near fatal illness in 1582 caused the young man to seriously examine his life, and he realized a call to the religious life.

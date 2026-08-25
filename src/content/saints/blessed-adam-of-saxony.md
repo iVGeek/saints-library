@@ -23,6 +23,7 @@ vocation:
   - Monk
 religiousOrder: Benedictine
 martyr: false
+prayers: []
 ---
 
 Benedictine Cistercian priest. Sacristan at the Cistercian Loccum Abbey in Saxony (modern Hanover, Germany. Noted for his strong devotion to the Blessed Virgin Mary; he is reported to have received visions of her, received two miraculous healings, and been a miracle worker.

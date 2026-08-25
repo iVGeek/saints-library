@@ -1,12 +1,12 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Quinctus of Africa"
+name: Saint Quinctus of Africa
 honorific: Saint
-summary: "One of a group of 21 Christians martyred together in the persecutions of Decius."
+summary: One of a group of 21 Christians martyred together in the persecutions of Decius.
 deathYear: 250
-born: "African"
-died: "c.250"
-region: "Africa"
+born: African
+died: c.250
+region: Africa
 feastDay:
   month: 1
   day: 9
@@ -14,6 +14,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 One of a group of 21 Christians martyred together in the persecutions of Decius.

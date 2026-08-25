@@ -20,6 +20,7 @@ vocation:
   - Bishop
   - Monk
 martyr: true
+prayers: []
 ---
 
 Legend says that he was a spiritual student of Saint Paul the Apostle, but the dates are wrong for that. Bishop of Laodicea, Phrygia (in modern Turkey). Martyred in the persecutions of Marcus Aurelius.

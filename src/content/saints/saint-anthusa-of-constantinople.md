@@ -18,6 +18,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/c/cf/Johnchrysostom.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Anthusa of Constantinople
 imageCreditUrl: https://en.wikipedia.org/wiki/John%20Chrysostom
+prayers: []
 ---
 
 Eighth-century nun. Tortured and exiled from Constantinople for refusing to comply with the heresy of iconoclasm.

@@ -1,17 +1,20 @@
 ---
-name: "Blessed Peter of Luxembourg"
+name: Blessed Peter of Luxembourg
 honorific: Blessed
-summary: "Son of Guy of Luxembourg, count of Ligny, Belgium. Orphaned at age four. Raised in Paris, France. Canon at Notre Dame, Chartres, and Cambrai. Arch-deacon of Dreux, France. Held for a while in his early teens by the English as hostage for the return of his brother. Bishop of Metz,"
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Peter-of-Luxembourg.jpg"
+summary: >-
+  Son of Guy of Luxembourg, count of Ligny, Belgium. Orphaned at age four. Raised in Paris, France. Canon at Notre Dame,
+  Chartres, and Cambrai. Arch-deacon of Dreux, France. Held for a while in his early teens by the English as hostage for
+  the return of his brother. Bishop of Metz,
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Peter-of-Luxembourg.jpg
 searchAliases:
-  - "Peter of Metz"
+  - Peter of Metz
 birthYear: 1369
 deathYear: 1387
-born: "1369 in Lorraine, France"
-died: "1387 at the Carthusian monastery, Villeneuve, France of a fever"
-birthPlace: "France"
-deathPlace: "Villeneuve, Francea fever"
-region: "Belgium"
+born: 1369 in Lorraine, France
+died: 1387 at the Carthusian monastery, Villeneuve, France of a fever
+birthPlace: France
+deathPlace: Villeneuve, Francea fever
+region: Belgium
 feastDay:
   month: 7
   day: 2
@@ -22,12 +25,16 @@ vocation:
   - Deacon
   - Confessor
 patronage:
-  - "against fatigue"
-  - "–"
-  - "in France\n\nAvignon"
-  - "Dreux"
-  - "Metz"
+  - against fatigue
+  - –
+  - |-
+    in France
+
+    Avignon
+  - Dreux
+  - Metz
 martyr: false
+prayers: []
 ---
 
 Son of Guy of Luxembourg, count of Ligny, Belgium. Orphaned at age four. Raised in Paris, France. Canon at Notre Dame, Chartres, and Cambrai. Arch-deacon of Dreux, France. Held for a while in his early teens by the English as hostage for the return of his brother. Bishop of Metz, France in 1384 at age fourteen. Created cardinal of San Georgio, Velabro in 1386 at age sixteen by decree of anti-pope Clement VII, he used armed troops to take possession of his see, fighting against the forces of Pope Urban VI.

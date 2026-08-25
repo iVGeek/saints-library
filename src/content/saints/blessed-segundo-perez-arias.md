@@ -1,25 +1,26 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Segundo Pérez Arias"
+name: Blessed Segundo Pérez Arias
 honorific: Blessed
-summary: "Franciscan Capuchin priest. Martyred in the Spanish Civil War."
+summary: Franciscan Capuchin priest. Martyred in the Spanish Civil War.
 searchAliases:
-  - "Ildefonso of Armellada"
+  - Ildefonso of Armellada
 birthYear: 1874
 deathYear: 1936
-born: "2 May 1874 in Armellada, León, Spain"
-died: "14 August 1936 in Jove, Asturias, Spain"
-birthPlace: "León, Spain"
-deathPlace: "Asturias, Spain"
-region: "Spain"
+born: 2 May 1874 in Armellada, León, Spain
+died: 14 August 1936 in Jove, Asturias, Spain
+birthPlace: León, Spain
+deathPlace: Asturias, Spain
+region: Spain
 feastDay:
   month: 8
   day: 14
 canonizationStatus: Blessed
 vocation:
   - Priest
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 martyr: true
+prayers: []
 ---
 
 Franciscan Capuchin priest. Martyred in the Spanish Civil War.

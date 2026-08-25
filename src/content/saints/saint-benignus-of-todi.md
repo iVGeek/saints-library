@@ -1,11 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Benignus of Todi"
+name: Saint Benignus of Todi
 honorific: Saint
-summary: "Priest in Todi, Italy. Martyred in the persecutions of Diocletian. One of the 140 saints memorialized on the colonnades in Saint Peter's Square."
+summary: >-
+  Priest in Todi, Italy. Martyred in the persecutions of Diocletian. One of the 140 saints memorialized on the
+  colonnades in Saint Peter's Square.
 deathYear: 303
-died: "c.303"
-region: "Italy"
+died: c.303
+region: Italy
 feastDay:
   month: 2
   day: 13
@@ -14,6 +16,7 @@ vocation:
   - Priest
   - Monk
 martyr: true
+prayers: []
 ---
 
 Priest in Todi, Italy. Martyred in the persecutions of Diocletian. One of the 140 saints memorialized on the colonnades in Saint Peter's Square.

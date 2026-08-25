@@ -1,16 +1,19 @@
 ---
-name: "Blessed Albertin-Marie Maisonade"
+name: Blessed Albertin-Marie Maisonade
 honorific: Blessed
-summary: "Cistercian chorister monk who fled from the persecutions of the French Revolution to the Congregation of Casamari in Veroli, Italy, making his profession on 20 November 1793. Known for his devotion to Eucharistic adoration and the Mass. When anti-Christian French revolutionary soldiers attacked, he was stabbed and shot."
-image: "https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Casamari.jpg"
+summary: >-
+  Cistercian chorister monk who fled from the persecutions of the French Revolution to the Congregation of Casamari in
+  Veroli, Italy, making his profession on 20 November 1793. Known for his devotion to Eucharistic adoration and the
+  Mass. When anti-Christian French revolutionary soldiers attacked, he was stabbed and shot.
+image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Casamari.jpg
 searchAliases:
-  - "Albertino Maria Maisonade"
+  - Albertino Maria Maisonade
 deathYear: 1799
-born: "Bordeaux, Gironde, France"
-died: "stabbed and shot twice on the night of 13 May 1799 in Casamari Abbey, Veroli, Frosinone, Italy"
-birthPlace: "Gironde, France"
-deathPlace: "Veroli, Frosinone, Italy"
-region: "Italy"
+born: Bordeaux, Gironde, France
+died: stabbed and shot twice on the night of 13 May 1799 in Casamari Abbey, Veroli, Frosinone, Italy
+birthPlace: Gironde, France
+deathPlace: Veroli, Frosinone, Italy
+region: Italy
 feastDay:
   month: 5
   day: 16
@@ -19,6 +22,7 @@ vocation:
   - Monk
   - Soldier
 martyr: true
+prayers: []
 ---
 
 Cistercian chorister monk who fled from the persecutions of the French Revolution to the Congregation of Casamari in Veroli, Italy, making his profession on 20 November 1793. Known for his devotion to Eucharistic adoration and the Mass.

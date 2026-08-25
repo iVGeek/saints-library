@@ -16,6 +16,7 @@ vocation:
   - Monk
 religiousOrder: Benedictine
 martyr: false
+prayers: []
 ---
 
 Canon regular at Mons, Belgium. Benedictine Cistercian monk. First abbot at Jardinet Abbey in the diocese of Namur, Belgium. Dispatched by the Order to restore discipline to several houses in the region.

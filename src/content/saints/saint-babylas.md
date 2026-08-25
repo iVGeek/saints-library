@@ -22,6 +22,7 @@ vocation:
   - Priest
   - Monk
 martyr: true
+prayers: []
 ---
 
 Bishop of Antioch in 240. In 244 he refused entrance to liturgical services to emperor Philip the Arabian, due to the emperor having murdered his predecessor; he ordered him to take his place among the penitents by the church door, which the emperor did. During the persecutions of Decius, Babylas made an unwavering confession of faith in public; he was thrown into prison. Martyr.

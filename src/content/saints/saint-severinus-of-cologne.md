@@ -1,17 +1,17 @@
 ---
-name: "Saint Severinus of Cologne"
+name: Saint Severinus of Cologne
 honorific: Saint
-summary: " Legend says that as a priest, Father Severinus heard a voice saying, “Severinus, you will be bishop of Cologne.” He asked, “When?” “When your staff flourishes,” came the reply. So, he planted his walking stick into the g Bishop of Cologne, Germany. Prominent opponent of Arianism."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Severinus-of-Cologne-1.jpg"
+summary: ' Legend says that as a priest, Father Severinus heard a voice saying, “Severinus, you will be bishop of Cologne.” He asked, “When?” “When your staff flourishes,” came the reply. So, he planted his walking stick into the g Bishop of Cologne, Germany. Prominent opponent of Arianism.'
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Severinus-of-Cologne-1.jpg
 searchAliases:
-  - "Severin"
-  - "Severino"
+  - Severin
+  - Severino
 deathYear: 403
-born: "Bordeaux, France"
-died: "c.403 in Cologne, Germany of natural causes"
-birthPlace: "France"
-deathPlace: "Germanynatural causes"
-region: "Germany"
+born: Bordeaux, France
+died: c.403 in Cologne, Germany of natural causes
+birthPlace: France
+deathPlace: Germanynatural causes
+region: Germany
 feastDay:
   month: 10
   day: 23
@@ -22,6 +22,7 @@ vocation:
   - Monk
   - Confessor
 martyr: false
+prayers: []
 ---
 
 Bishop of Cologne, Germany. Prominent opponent of Arianism.

@@ -24,6 +24,7 @@ imageCredit: >-
   Policy</a>
 imageCreditUrl: >-
   https://commons.wikimedia.org/wiki/File:Illustration%20from%20%22L'Ariane%22%20by%20Desmarets%20de%20Saint-Sorlin%3B%20Palamede%20on%20Horseback%20Confronts%20His%20Enemies%20while%20Searching%20for%20Epicharis%20MET%20DP818030.jpg
+prayers: []
 ---
 
 Priest in Rome, Italy. Martyr.

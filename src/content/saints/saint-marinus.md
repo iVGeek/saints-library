@@ -33,6 +33,7 @@ patronage:
   - stone masons
   - San Marino
 martyr: false
+prayers: []
 ---
 
 Stonemason who worked at Monte Titano in modern San Marino. Layman preacher who converted many, and ministered to Christians who had been sentenced to quarry work as punishment for their faith. Deacon, ordained by Saint Gaudentius of Rimini. Bishop of Rimini, Italy. Though he belonged to no order that required it, he was a confirmed, life-long bachelor. Falsely accused by an insane woman of Rimini of being her estranged husband, he fled to a cave on Monte Titano, and lived there with Saint Leo of Montefeltro as a hermit. The small country of San Marino is named for him.

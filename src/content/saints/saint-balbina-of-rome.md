@@ -23,6 +23,7 @@ patronage:
   - scrofulous diseases
   - struma
 martyr: true
+prayers: []
 ---
 
 Daughter of Saint Quirinus the Jailer. Baptised by Pope Saint Alexander I. Virgin recluse. Martyred with her father. Three ancient memorials to her are found in Rome.

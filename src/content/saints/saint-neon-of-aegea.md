@@ -1,12 +1,12 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Neon of Aegea"
+name: Saint Neon of Aegea
 honorific: Saint
-summary: "Denounced by his step-mother as a Christian during the persecutions of Pro-consul Lysias. Tortured and martyred."
+summary: Denounced by his step-mother as a Christian during the persecutions of Pro-consul Lysias. Tortured and martyred.
 deathYear: 285
-died: "crucified in 285 outside the walls of Aegea, Cilicia (in Asia Minor)"
-deathPlace: "Cilicia (Asia Minor)"
-region: "Italy"
+died: crucified in 285 outside the walls of Aegea, Cilicia (in Asia Minor)
+deathPlace: Cilicia (Asia Minor)
+region: Italy
 feastDay:
   month: 8
   day: 23
@@ -15,6 +15,7 @@ vocation:
   - Priest
   - Monk
 martyr: true
+prayers: []
 ---
 
 Denounced by his step-mother as a Christian during the persecutions of Pro-consul Lysias. Tortured and martyred.

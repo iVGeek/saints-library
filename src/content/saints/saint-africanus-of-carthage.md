@@ -20,6 +20,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/3/34/Montage_ville_de_Carthage.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Africanus of Carthage
 imageCreditUrl: https://en.wikipedia.org/wiki/Carthage
+prayers: []
 ---
 
 One of a group of 50 Christians who were imprisoned in a pen of snakes and scorpions, and then martyred, all during the persecutions of Decius.

@@ -1,14 +1,14 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Bodard of Poitiers"
+name: Blessed Bodard of Poitiers
 honorific: Blessed
-summary: "Hermit near Poitiers, France."
+summary: Hermit near Poitiers, France.
 deathYear: 740
-born: "late 7th century near Poitiers, France"
-died: "c.740 near Poitiers, France of natural causes"
-birthPlace: "France"
-deathPlace: "Francenatural causes"
-region: "France"
+born: late 7th century near Poitiers, France
+died: c.740 near Poitiers, France of natural causes
+birthPlace: France
+deathPlace: Francenatural causes
+region: France
 feastDay:
   month: 7
   day: 7
@@ -17,6 +17,7 @@ vocation:
   - Monk
   - Hermit
 martyr: false
+prayers: []
 ---
 
 Hermit near Poitiers, France.

@@ -1,8 +1,8 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Faustus the Soldier"
+name: Saint Faustus the Soldier
 honorific: Saint
-summary: "Christian soldier. Martyred for his faith, but the time and place of his death have been lost."
+summary: Christian soldier. Martyred for his faith, but the time and place of his death have been lost.
 feastDay:
   month: 7
   day: 12
@@ -11,6 +11,7 @@ vocation:
   - Monk
   - Soldier
 martyr: true
+prayers: []
 ---
 
 Christian soldier. Martyred for his faith, but the time and place of his death have been lost.

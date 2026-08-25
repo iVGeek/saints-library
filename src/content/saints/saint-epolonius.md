@@ -18,6 +18,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/f/f8/San_Babila_e_i_tre_piccoli_martiri%2C_Museo_del_Duomo_di_Milano_07.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Epolonius
 imageCreditUrl: https://en.wikipedia.org/wiki/Babylas%20of%20Antioch
+prayers: []
 ---
 
 Spiritual student of Saint Babylas. Martyred in the persecutions of Decius.

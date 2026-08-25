@@ -1,15 +1,18 @@
 ---
-name: "Saint Arbogast of Strasbourg"
+name: Saint Arbogast of Strasbourg
 honorific: Saint
-summary: "The little recorded of his childhood is probably legend. Hermit, living in a cave at Alsace, France with a widespread reputation for holiness. When King Dagobert's son was killed in a hunting accident, Arbogast's prayers brought the lad back to life. Bishop of Strasbourg, France"
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Arbogast-of-Strasbourg.jpg"
+summary: >-
+  The little recorded of his childhood is probably legend. Hermit, living in a cave at Alsace, France with a widespread
+  reputation for holiness. When King Dagobert's son was killed in a hunting accident, Arbogast's prayers brought the lad
+  back to life. Bishop of Strasbourg, France
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Arbogast-of-Strasbourg.jpg
 searchAliases:
-  - "Arascach"
+  - Arascach
 deathYear: 678
-born: "7th century Aquitaine, France"
-died: "c.678 of natural causes"
-birthPlace: "France"
-region: "France"
+born: 7th century Aquitaine, France
+died: c.678 of natural causes
+birthPlace: France
+region: France
 feastDay:
   month: 7
   day: 21
@@ -19,10 +22,14 @@ vocation:
   - Priest
   - Confessor
 patronage:
-  - "against fatigue"
-  - "in France\n\nAquitaine"
-  - "Strasbourg"
+  - against fatigue
+  - |-
+    in France
+
+    Aquitaine
+  - Strasbourg
 martyr: false
+prayers: []
 ---
 
 The little recorded of his childhood is probably legend. Hermit, living in a cave at Alsace, France with a widespread reputation for holiness. When King Dagobert's son was killed in a hunting accident, Arbogast's prayers brought the lad back to life. Bishop of Strasbourg, France c.630; very devoted to his people, and through Dagobert's generosity, he was able to build several churches.

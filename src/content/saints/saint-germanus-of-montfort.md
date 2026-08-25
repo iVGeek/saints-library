@@ -24,6 +24,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/2/25/Saintgermanusofparis.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Germanus of Montfort
 imageCreditUrl: https://en.wikipedia.org/wiki/Germain%20of%20Paris
+prayers: []
 ---
 
 Studied at Paris, France. Priest. Benedictine monk at Savigny, France. Prior of the monastery at Talloires, France. Spent the last years of his life as a hermit.

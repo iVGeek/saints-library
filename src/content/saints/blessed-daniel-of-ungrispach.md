@@ -1,17 +1,17 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Daniel of Ungrispach"
+name: Blessed Daniel of Ungrispach
 honorific: Blessed
-summary: " Though he travelled in wordly circles, Dan Born to the Carinthian nobility, Daniele became a wealthy fabric merchant. Married to Orsina Ricchieri, the two had a daughter named Lucia. Daniel became a judge, and throughout his life he worked in politics and served in civil offices."
+summary: ' Though he travelled in wordly circles, Dan Born to the Carinthian nobility, Daniele became a wealthy fabric merchant. Married to Orsina Ricchieri, the two had a daughter named Lucia. Daniel became a judge, and throughout his life he worked in politics and served in civil offices.'
 searchAliases:
-  - "Daniele"
+  - Daniele
 birthYear: 1344
 deathYear: 1411
-born: "1344 at the Ungrispach castle in the duchy of Carinthia (in modern Cormons, Italy"
-died: "strangled to death in his sleep in 1411 near the San Mattia monastery in the area of Murano, Italy"
-birthPlace: "Italy"
-deathPlace: "Italy"
-region: "Italy"
+born: 1344 at the Ungrispach castle in the duchy of Carinthia (in modern Cormons, Italy
+died: strangled to death in his sleep in 1411 near the San Mattia monastery in the area of Murano, Italy
+birthPlace: Italy
+deathPlace: Italy
+region: Italy
 feastDay:
   month: 3
   day: 20
@@ -19,6 +19,7 @@ canonizationStatus: Blessed
 vocation:
   - Monk
 martyr: false
+prayers: []
 ---
 
 Born to the Carinthian nobility, Daniele became a wealthy fabric merchant. Married to Orsina Ricchieri, the two had a daughter named Lucia. Daniel became a judge, and throughout his life he worked in politics and served in civil offices.

@@ -1,17 +1,20 @@
 ---
-name: "Saint Godric of Finchale"
+name: Saint Godric of Finchale
 honorific: Saint
-summary: "Oldest of three children born to a freedman Anglo-Saxon farmer. An adventurous seafaring man, Godric spent his youth in travel, both on land and sea, as a peddler and merchant mariner first along the coast of the British Isles, then throughout Europe. Sometime sailor, sometime sh"
-image: "https://upload.wikimedia.org/wikipedia/commons/e/e2/Godric-Finchale.jpg"
+summary: >-
+  Oldest of three children born to a freedman Anglo-Saxon farmer. An adventurous seafaring man, Godric spent his youth
+  in travel, both on land and sea, as a peddler and merchant mariner first along the coast of the British Isles, then
+  throughout Europe. Sometime sailor, sometime sh
+image: https://upload.wikimedia.org/wikipedia/commons/e/e2/Godric-Finchale.jpg
 searchAliases:
-  - "Godrick"
+  - Godrick
 birthYear: 1069
 deathYear: 1170
-born: "1069 at Walpole, Norfolk, England"
-died: "1170 at Finchale, County Durham, England of natural causes"
-birthPlace: "Norfolk, England"
-deathPlace: "County Durham, Englandnatural causes"
-region: "Italy"
+born: 1069 at Walpole, Norfolk, England
+died: 1170 at Finchale, County Durham, England of natural causes
+birthPlace: Norfolk, England
+deathPlace: County Durham, Englandnatural causes
+region: Italy
 feastDay:
   month: 5
   day: 21
@@ -20,9 +23,13 @@ vocation:
   - Bishop
   - Priest
 patronage:
-  - "in England\n\nFinchale"
-  - "Walpole"
+  - |-
+    in England
+
+    Finchale
+  - Walpole
 martyr: false
+prayers: []
 ---
 
 Oldest of three children born to a freedman Anglo-Saxon farmer. An adventurous seafaring man, Godric spent his youth in travel, both on land and sea, as a peddler and merchant mariner first along the coast of the British Isles, then throughout Europe. Sometime sailor, sometime ship's captain, he lived a seafarer's life of the day, and it was hardly a religious one. He was known to drink, fight, chase women, con customers, and in a contemporary manuscript, was referred to as a “pirate”. Converted upon visiting Lindisfarne during a voyage, and being touched by the life of Saint Cuthbert of Lindisfarne.

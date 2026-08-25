@@ -16,6 +16,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/f/fc/St._Sebastian_by_Sodoma.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Eugenius of Damascus
 imageCreditUrl: https://en.wikipedia.org/wiki/Saint%20Sebastian
+prayers: []
 ---
 
 Son of Saint Tatta of Damascus and Saint Paul of Damascus. Tortured to death in a persecution by Roman authorities.

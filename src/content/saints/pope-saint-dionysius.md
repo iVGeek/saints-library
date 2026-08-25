@@ -1,13 +1,16 @@
 ---
-name: "Pope Saint Dionysius"
+name: Pope Saint Dionysius
 honorific: Saint
-summary: "Roman citizen. Nothing is known about his early life. Monk. Priest. Bishop in Rome during the papacy of Saint Stephen I. Involved in the controversy over orthodox and heretical forms of Baptism. Following an inter-regnum of a year caused by the persecutions of Valerian, Dionyius"
-image: "https://upload.wikimedia.org/wikipedia/commons/8/8d/Pope_Dionysius.jpg"
+summary: >-
+  Roman citizen. Nothing is known about his early life. Monk. Priest. Bishop in Rome during the papacy of Saint Stephen
+  I. Involved in the controversy over orthodox and heretical forms of Baptism. Following an inter-regnum of a year
+  caused by the persecutions of Valerian, Dionyius
+image: https://upload.wikimedia.org/wikipedia/commons/8/8d/Pope_Dionysius.jpg
 deathYear: 268
-born: "in Greece"
-died: "26 or 27 December 268 at Rome, Italy of natural causes"
-deathPlace: "Italynatural causes"
-region: "Italy"
+born: in Greece
+died: 26 or 27 December 268 at Rome, Italy of natural causes
+deathPlace: Italynatural causes
+region: Italy
 feastDay:
   month: 12
   day: 26
@@ -17,6 +20,7 @@ vocation:
   - Priest
   - Confessor
 martyr: true
+prayers: []
 ---
 
 Roman citizen. Nothing is known about his early life. Monk. Priest. Bishop in Rome during the papacy of Saint Stephen I. Involved in the controversy over orthodox and heretical forms of Baptism. Following an inter-regnum of a year caused by the persecutions of Valerian, Dionyius was chosen 25th Pope.

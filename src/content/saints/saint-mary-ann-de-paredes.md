@@ -1,37 +1,42 @@
 ---
-name: "Saint Mary Ann de Paredes"
+name: Saint Mary Ann de Paredes
 honorific: Venerable
-summary: "Daughter of Don Girolamo Flores Zenel de Paredes, a nobleman of Toledo, and Doña Mariana Cranobles de Xaramilo; her birth was accompanied by unusual celestial phenomena. Orphaned very young, she was raised by her older sister and her husband. Mary Ann was a pious child with a dev"
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Mary-Ann-de-Paredes1.jpg"
+summary: >-
+  Daughter of Don Girolamo Flores Zenel de Paredes, a nobleman of Toledo, and Doña Mariana Cranobles de Xaramilo; her
+  birth was accompanied by unusual celestial phenomena. Orphaned very young, she was raised by her older sister and her
+  husband. Mary Ann was a pious child with a dev
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Mary-Ann-de-Paredes1.jpg
 searchAliases:
-  - "Lily of Quito"
-  - "Mariana de Paredes y Flores"
-  - "Mariana de Paredes"
-  - "Mariana of Jesus"
-  - "Mariana of Quito"
-  - "Mary-Ann de Paredes"
+  - Lily of Quito
+  - Mariana de Paredes y Flores
+  - Mariana de Paredes
+  - Mariana of Jesus
+  - Mariana of Quito
+  - Mary-Ann de Paredes
 birthYear: 1618
 deathYear: 1645
-born: "31 October 1618 at Quito, Ecuador"
-died: "26 May 1645 at Quito, Ecuador"
-birthPlace: "Ecuador"
-deathPlace: "Ecuador"
-region: "Ecuador"
+born: 31 October 1618 at Quito, Ecuador
+died: 26 May 1645 at Quito, Ecuador
+birthPlace: Ecuador
+deathPlace: Ecuador
+region: Ecuador
 feastDay:
   month: 5
   day: 26
-centuries: [17]
+centuries:
+  - 17
 canonizationStatus: Venerable
 vocation:
   - Confessor
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 patronage:
-  - "against bodily ills"
-  - "against sickness"
-  - "Americas"
-  - "loss of parents"
-  - "people rejected by religious orders"
+  - against bodily ills
+  - against sickness
+  - Americas
+  - loss of parents
+  - people rejected by religious orders
 martyr: false
+prayers: []
 ---
 
 Daughter of Don Girolamo Flores Zenel de Paredes, a nobleman of Toledo, and Doña Mariana Cranobles de Xaramilo; her birth was accompanied by unusual celestial phenomena. Orphaned very young, she was raised by her older sister and her husband. Mary Ann was a pious child with a devotion to Mary. She was miraculously saved from death several times.

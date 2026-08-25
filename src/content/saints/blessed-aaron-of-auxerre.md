@@ -15,6 +15,7 @@ vocation:
   - Bishop
   - Priest
 martyr: false
+prayers: []
 ---
 
 Ninth-century bishop of Auxerre, France.

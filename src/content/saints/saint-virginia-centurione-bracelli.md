@@ -24,6 +24,7 @@ vocation:
 patronage:
   - Sisters of Our Lady of Refuge in Mount Calvary
 martyr: false
+prayers: []
 ---
 
 Daughter of Giorgio Centurione, and imposing and controlling individual who became the Doge of Genoa, and Lelia Spinola. Raised in a pious family, she felt drawn to religious life as a child. However, due to family position she agree to an arranged marriage to Gasparo Grimaldi Bracelli on 10 December 1602. He was a drinker, a gambler, and though the couple had two daughters, Lelia and Isabella, he was little of a father or husband. Virginia was widowed on 13 June 1607 after five years of marriage, aged 20, and with two small children.

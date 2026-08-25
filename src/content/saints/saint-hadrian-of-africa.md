@@ -1,21 +1,22 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Hadrian of Africa"
+name: Saint Hadrian of Africa
 honorific: Saint
-summary: "Martyr. No other information has survived."
+summary: Martyr. No other information has survived.
 searchAliases:
-  - "Adrian"
-  - "Arianus"
+  - Adrian
+  - Arianus
 deathYear: 254
-died: "254 in Africa, exact location and date unknown"
-deathPlace: "exact location and date unknown"
-region: "Africa"
+died: 254 in Africa, exact location and date unknown
+deathPlace: exact location and date unknown
+region: Africa
 feastDay:
   month: 3
   day: 5
 canonizationStatus: Saint
 vocation: []
 martyr: true
+prayers: []
 ---
 
 Martyr. No other information has survived.

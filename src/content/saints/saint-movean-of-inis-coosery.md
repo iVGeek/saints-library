@@ -1,11 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Movean of Inis-Coosery"
+name: Saint Movean of Inis-Coosery
 honorific: Saint
-summary: "Spiritual student of Saint Patrick. Monk. Abbot of Inis-Coosery in County Down, Ireland. Retired to live as a prayerful hermit in Perthshire, Scotland."
+summary: >-
+  Spiritual student of Saint Patrick. Monk. Abbot of Inis-Coosery in County Down, Ireland. Retired to live as a
+  prayerful hermit in Perthshire, Scotland.
 searchAliases:
-  - "Biteus of Inis-Coosery"
-region: "Scotland"
+  - Biteus of Inis-Coosery
+region: Scotland
 feastDay:
   month: 7
   day: 22
@@ -14,6 +16,7 @@ vocation:
   - Monk
   - Hermit
 martyr: false
+prayers: []
 ---
 
 Spiritual student of Saint Patrick. Monk. Abbot of Inis-Coosery in County Down, Ireland. Retired to live as a prayerful hermit in Perthshire, Scotland.

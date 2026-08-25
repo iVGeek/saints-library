@@ -11,6 +11,7 @@ image: https://commons.wikimedia.org/wiki/Special:FilePath/Colossal_statue_of_An
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Martyr. No other information has survived.

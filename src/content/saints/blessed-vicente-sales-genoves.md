@@ -1,22 +1,23 @@
 ---
-name: "Blessed Vicente Sales Genovés"
+name: Blessed Vicente Sales Genovés
 honorific: Blessed
-summary: "Jesuit brother. Martyred in the Spanish Civil War."
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Vicente-Sales-Genovés.jpg"
+summary: Jesuit brother. Martyred in the Spanish Civil War.
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Vicente-Sales-Genovés.jpg
 birthYear: 1881
 deathYear: 1936
-born: "15 October 1881 in Valencia, Spain"
-died: "29 September 1936 in Picadero de Paterna, Valencia, Spain"
-birthPlace: "Spain"
-deathPlace: "Valencia, Spain"
-region: "Spain"
+born: 15 October 1881 in Valencia, Spain
+died: 29 September 1936 in Picadero de Paterna, Valencia, Spain
+birthPlace: Spain
+deathPlace: Valencia, Spain
+region: Spain
 feastDay:
   month: 9
   day: 29
 canonizationStatus: Blessed
 vocation: []
-religiousOrder: "Jesuit"
+religiousOrder: Jesuit
 martyr: true
+prayers: []
 ---
 
 Jesuit brother. Martyred in the Spanish Civil War.

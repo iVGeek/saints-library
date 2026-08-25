@@ -18,6 +18,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/4b/Abbaye_de_Saint-Mesmin_1707_dessin_Louis_Boudan.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Avitus of Micy
 imageCreditUrl: https://en.wikipedia.org/wiki/Micy%20Abbey
+prayers: []
 ---
 
 Abbot of Saint-Mesmin de Micy Abbey near Orleans, France. Had the gift of prophecy.

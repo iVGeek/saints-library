@@ -22,6 +22,7 @@ vocation:
   - Priest
   - Confessor
 martyr: false
+prayers: []
 ---
 
 Teacher at the Catechetical School in Alexandria, Egypt. He trained the famous theologian and teacher Origen. Writer and confessor of the faith. During the persecutions of 202, Clement fled to Caesarea, Cappadocia where he governed the diocese during the imprisonment of his student, Bishop Alexander.

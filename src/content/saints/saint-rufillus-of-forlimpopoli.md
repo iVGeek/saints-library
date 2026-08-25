@@ -1,14 +1,16 @@
 ---
-name: "Saint Rufillus of Forlimpopoli"
+name: Saint Rufillus of Forlimpopoli
 honorific: Saint
-summary: "First Bishop of Forlimpopoli, Emilia, Italy. Legend says that he and his parishioners drove out a dragon from the region; it's a metaphor for the work of the local Christians to evangelize the local pagans."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Rufillus-of-Forlimpopoli.jpg"
+summary: >-
+  First Bishop of Forlimpopoli, Emilia, Italy. Legend says that he and his parishioners drove out a dragon from the
+  region; it's a metaphor for the work of the local Christians to evangelize the local pagans.
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Rufillus-of-Forlimpopoli.jpg
 searchAliases:
-  - "Ruffilius"
-  - "Rufillo"
+  - Ruffilius
+  - Rufillo
 deathYear: 382
-died: "382"
-region: "Italy"
+died: '382'
+region: Italy
 feastDay:
   month: 7
   day: 18
@@ -17,9 +19,10 @@ vocation:
   - Bishop
   - Monk
 patronage:
-  - "Forli-Bertinoro, Italy, diocese of"
-  - "Forlimpopoli, Italy"
+  - Forli-Bertinoro, Italy, diocese of
+  - Forlimpopoli, Italy
 martyr: false
+prayers: []
 ---
 
 First Bishop of Forlimpopoli, Emilia, Italy. Legend says that he and his parishioners drove out a dragon from the region; it's a metaphor for the work of the local Christians to evangelize the local pagans.

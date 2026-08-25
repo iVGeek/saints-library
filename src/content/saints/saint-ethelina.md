@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Ethelina"
+name: Saint Ethelina
 honorific: Saint
-summary: "No information has survived."
+summary: No information has survived.
 searchAliases:
-  - "Eudelme"
-region: "England"
+  - Eudelme
+region: England
 feastDay:
   month: 2
   day: 18
@@ -13,8 +13,9 @@ canonizationStatus: Saint
 vocation:
   - Monk
 patronage:
-  - "Little Sodbury, England"
+  - Little Sodbury, England
 martyr: false
+prayers: []
 ---
 
 No information has survived.

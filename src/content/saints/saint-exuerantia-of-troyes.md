@@ -1,16 +1,16 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Exuerantia of Troyes"
+name: Saint Exuerantia of Troyes
 honorific: Saint
-summary: "Nun. Her relics are venerated in Troyes, France. No other information has survived."
+summary: Nun. Her relics are venerated in Troyes, France. No other information has survived.
 searchAliases:
-  - "Esperance"
-  - "Essuperanza"
-  - "Exuperance"
-  - "Exuperantia"
+  - Esperance
+  - Essuperanza
+  - Exuperance
+  - Exuperantia
 deathYear: 380
-died: "c.380 of natural causes"
-region: "France"
+died: c.380 of natural causes
+region: France
 feastDay:
   month: 4
   day: 26
@@ -20,6 +20,7 @@ vocation:
   - Monk
   - Religious
 martyr: false
+prayers: []
 ---
 
 Nun. Her relics are venerated in Troyes, France. No other information has survived.

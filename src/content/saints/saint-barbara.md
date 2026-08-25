@@ -91,7 +91,7 @@ patronage:
     Villers-la-Bonne-Eau
 martyr: false
 prayers:
-  - name: Novena to Saint Barbara
+  - name: Novena to Saint Saint Barbara
     kind: Novena — nine-day prayer for protection from sudden death
     text: >-
       O glorious Saint Barbara, virgin and martyr, I turn to you in this novena for protection and deliverance. You who

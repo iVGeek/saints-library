@@ -1,31 +1,37 @@
 ---
-name: "Saint Giovanni of Triora"
+name: Saint Giovanni of Triora
 honorific: Venerable
-summary: "The son of Antonio Maria Lantrua and Maria Pasqua Ferraironi, Francesco was educated in Barnabite schools. He joined the Franciscan Friars Minor in Rome, Italy on 9 March 1777, just a few days before he turned 17, taking the name Giovanni. Ordained a priest in 1784, and taught th"
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Giovanni-of-Triora-1.jpg"
+summary: >-
+  The son of Antonio Maria Lantrua and Maria Pasqua Ferraironi, Francesco was educated in Barnabite schools. He joined
+  the Franciscan Friars Minor in Rome, Italy on 9 March 1777, just a few days before he turned 17, taking the name
+  Giovanni. Ordained a priest in 1784, and taught th
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Giovanni-of-Triora-1.jpg
 searchAliases:
-  - "Francesco Maria Lantrua"
-  - "Giovanni da Triora"
-  - "Jean de Triora"
-  - "Johannes Lantaru Triora"
-  - "John of Triora"
-  - "John Lantrua of Triora"
+  - Francesco Maria Lantrua
+  - Giovanni da Triora
+  - Jean de Triora
+  - Johannes Lantaru Triora
+  - John of Triora
+  - John Lantrua of Triora
 birthYear: 1760
 deathYear: 1816
-born: "15 March 1760 at Triora, Imperia, Italy as Francesco Maria Lantrua"
-died: "tied to a cross and then strangled to death on 7 February 1816 at Ch'angsha Fu, Hunan, China"
-birthPlace: "Imperia, Italy as Francesco Maria Lantrua"
-deathPlace: "Hunan, China"
-region: "China"
+born: 15 March 1760 at Triora, Imperia, Italy as Francesco Maria Lantrua
+died: tied to a cross and then strangled to death on 7 February 1816 at Ch'angsha Fu, Hunan, China
+birthPlace: Imperia, Italy as Francesco Maria Lantrua
+deathPlace: Hunan, China
+region: China
 feastDay:
   month: 2
   day: 7
-centuries: [18, 19]
+centuries:
+  - 18
+  - 19
 canonizationStatus: Venerable
 vocation:
   - Priest
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 martyr: true
+prayers: []
 ---
 
 The son of Antonio Maria Lantrua and Maria Pasqua Ferraironi, Francesco was educated in Barnabite schools. He joined the Franciscan Friars Minor in Rome, Italy on 9 March 1777, just a few days before he turned 17, taking the name Giovanni. Ordained a priest in 1784, and taught theology in Tivoli and Tarquinia, Italy. Superior of Franciscan convents in Tarquinia, Velletri and Montecelio, Italy.

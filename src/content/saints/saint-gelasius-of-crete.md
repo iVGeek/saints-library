@@ -17,6 +17,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/45/Antique_Valentine_1909_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Gelasius of Crete
 imageCreditUrl: https://en.wikipedia.org/wiki/Valentine's%20Day
+prayers: []
 ---
 
 One of the Ten Martyrs of Crete who died in the persecutions of Decius. No other information has survived.

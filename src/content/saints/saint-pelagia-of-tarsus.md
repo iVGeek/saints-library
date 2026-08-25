@@ -13,6 +13,7 @@ image: https://commons.wikimedia.org/wiki/Special:FilePath/Pelagia_of_Tarsus_%25
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Martyred in the persecutions of Diocletian.

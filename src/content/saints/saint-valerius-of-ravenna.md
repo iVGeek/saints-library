@@ -1,14 +1,16 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Valerius of Ravenna"
+name: Saint Valerius of Ravenna
 honorific: Saint
-title: "Bishop"
-summary: "Bishop of Ravenna, Italy from 788 until his death in 810, serving for 22 years. Known as a zealous pastor to his people, he helped decorate churches and fought endlessly against the heresy of Arianism."
+title: Bishop
+summary: >-
+  Bishop of Ravenna, Italy from 788 until his death in 810, serving for 22 years. Known as a zealous pastor to his
+  people, he helped decorate churches and fought endlessly against the heresy of Arianism.
 searchAliases:
-  - "Valerio"
+  - Valerio
 deathYear: 810
-died: "15 March 810 of natural causes"
-region: "Italy"
+died: 15 March 810 of natural causes
+region: Italy
 feastDay:
   month: 1
   day: 29
@@ -16,6 +18,7 @@ canonizationStatus: Saint
 vocation:
   - Bishop
 martyr: false
+prayers: []
 ---
 
 Bishop of Ravenna, Italy from 788 until his death in 810, serving for 22 years. Known as a zealous pastor to his people, he helped decorate churches and fought endlessly against the heresy of Arianism.

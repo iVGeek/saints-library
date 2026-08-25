@@ -28,6 +28,7 @@ patronage:
     Mantilly
   - Savigny, Manche
 martyr: false
+prayers: []
 ---
 
 Canon and physician at Saint-Venance. Because of a divine warning against avarice, William gave all his possessions to the poor and spent the rest of his life on pilgrimages and as a hermit at Savigny and Mantilly. Known for his closeness to nature, his love of wildlife, and the unusual communication he seemed to have with animals. Legend says that at Dardenay during a drought, he saved the people by striking the ground with his pilgrim's staff, causing a spring of water to appear.

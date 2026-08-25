@@ -1,15 +1,15 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Dionisio Arizaleta Salvador"
+name: Blessed Dionisio Arizaleta Salvador
 honorific: Blessed
-summary: "Member of the Claretians. Martyred in the Spanish Civil War."
+summary: Member of the Claretians. Martyred in the Spanish Civil War.
 birthYear: 1911
 deathYear: 1936
-born: "8 February 1911 in Guirguillano, Navarra, Spain"
-died: "19 October 1936 in Mas Claret, Sant Pere dels Arquells, Lleida, Spain"
-birthPlace: "Navarra, Spain"
-deathPlace: "Sant Pere dels Arquells, Lleida, Spain"
-region: "Spain"
+born: 8 February 1911 in Guirguillano, Navarra, Spain
+died: 19 October 1936 in Mas Claret, Sant Pere dels Arquells, Lleida, Spain
+birthPlace: Navarra, Spain
+deathPlace: Sant Pere dels Arquells, Lleida, Spain
+region: Spain
 feastDay:
   month: 10
   day: 19
@@ -18,6 +18,7 @@ vocation:
   - Bishop
   - Cardinal
 martyr: true
+prayers: []
 ---
 
 Member of the Claretians. Martyred in the Spanish Civil War.

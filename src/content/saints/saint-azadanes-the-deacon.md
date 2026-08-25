@@ -1,12 +1,12 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Azadanes the Deacon"
+name: Saint Azadanes the Deacon
 honorific: Saint
-summary: "Deacon in Persia. Martyred in the persecutions of King Sapor II."
+summary: Deacon in Persia. Martyred in the persecutions of King Sapor II.
 searchAliases:
-  - "Azadames"
+  - Azadames
 deathYear: 360
-died: "c.360 in Persia"
+died: c.360 in Persia
 feastDay:
   month: 4
   day: 22
@@ -15,6 +15,7 @@ vocation:
   - Monk
   - Deacon
 martyr: true
+prayers: []
 ---
 
 Deacon in Persia. Martyred in the persecutions of King Sapor II.

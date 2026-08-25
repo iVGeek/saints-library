@@ -1,10 +1,10 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Marcellus of Treves"
+name: Saint Marcellus of Treves
 honorific: Saint
-summary: "Bishop."
+summary: Bishop.
 searchAliases:
-  - "Marcellus of Tongres"
+  - Marcellus of Tongres
 feastDay:
   month: 9
   day: 4
@@ -13,6 +13,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Bishop.

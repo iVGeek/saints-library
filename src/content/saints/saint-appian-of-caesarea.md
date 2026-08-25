@@ -1,25 +1,28 @@
 ---
-name: "Saint Appian of Caesarea"
+name: Saint Appian of Caesarea
 honorific: Saint
-summary: "Born to wealthy, prominent and non-Christian family. Brother of Saint Aedesius of Alexandria. Well educated, studying rhetoric, philosophy and civil law in Beirut, Lebanon. Convert to Christianity. Friend of Eusebius of Caesarea; the pair made a pilgrimage to Palestine. Studied u"
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Appian-of-Caesarea.jpg"
+summary: >-
+  Born to wealthy, prominent and non-Christian family. Brother of Saint Aedesius of Alexandria. Well educated, studying
+  rhetoric, philosophy and civil law in Beirut, Lebanon. Convert to Christianity. Friend of Eusebius of Caesarea; the
+  pair made a pilgrimage to Palestine. Studied u
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Appian-of-Caesarea.jpg
 searchAliases:
-  - "Affianus"
-  - "Amphian"
-  - "Amphianus"
-  - "Anphian"
-  - "Aphian"
-  - "Aphianus"
-  - "Apian"
-  - "Apphian"
-  - "Apphianos"
+  - Affianus
+  - Amphian
+  - Amphianus
+  - Anphian
+  - Aphian
+  - Aphianus
+  - Apian
+  - Apphian
+  - Apphianos
 birthYear: 287
 deathYear: 306
-born: "c.287 in Gagae, Asia Minor"
-died: "drowned in April 306 in Caesarea, Palestine by having stones tied him and then being thrown into the sea"
-birthPlace: "Asia Minor"
-deathPlace: "Palestine by having stones tied him and then being thrown into the sea"
-region: "Egypt"
+born: c.287 in Gagae, Asia Minor
+died: drowned in April 306 in Caesarea, Palestine by having stones tied him and then being thrown into the sea
+birthPlace: Asia Minor
+deathPlace: Palestine by having stones tied him and then being thrown into the sea
+region: Egypt
 feastDay:
   month: 4
   day: 2
@@ -27,8 +30,9 @@ canonizationStatus: Saint
 vocation:
   - Bishop
   - Priest
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 martyr: true
+prayers: []
 ---
 
 Born to wealthy, prominent and non-Christian family. Brother of Saint Aedesius of Alexandria. Well educated, studying rhetoric, philosophy and civil law in Beirut, Lebanon. Convert to Christianity. Friend of Eusebius of Caesarea; the pair made a pilgrimage to Palestine. Studied under Saint Pamphilus.

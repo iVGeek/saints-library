@@ -15,6 +15,7 @@ image: https://commons.wikimedia.org/wiki/Special:FilePath/Meister_von_San_Vital
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Wealthy member of the imperial Roman nobility who spent largely from her fortune to support fellow Christians during the persecutions of Diocletian. Martyr.

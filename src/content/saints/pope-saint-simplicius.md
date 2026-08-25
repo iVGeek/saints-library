@@ -17,6 +17,7 @@ vocation:
   - Priest
   - Confessor
 martyr: false
+prayers: []
 ---
 
 Son of Castinus. Held the pontificate during the end of the Roman Empire. He defended the Council of Chalcedon against the Monophysites heresy of the Eastern empire. Worked for the Italian people against barbarian invaders. Built four large churches in Rome, and brought some order and organization to the administration of the sacraments in the local churches, bringing the focus back to the sacrament rather than the place of its administration. Opposed Emperor Leo who wanted to officially make the Patriarch of Constantinople second only to the pope in authority. Worked to support orthodox Christianity against the Arianism promoted by King Odoacer.

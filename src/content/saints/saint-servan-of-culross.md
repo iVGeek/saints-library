@@ -1,19 +1,19 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Servan of Culross"
+name: Saint Servan of Culross
 honorific: Saint
-summary: "Bishop, possibly being consecrated by Saint Palladius. Missionary to the Scots."
+summary: Bishop, possibly being consecrated by Saint Palladius. Missionary to the Scots.
 searchAliases:
-  - "Apostle of West Fife"
-  - "Sair"
-  - "Serbán"
-  - "Serf"
-  - "Servanus"
+  - Apostle of West Fife
+  - Sair
+  - Serbán
+  - Serf
+  - Servanus
 birthYear: 500
 deathYear: 583
-born: "c.500 in Ireland"
-died: "c.583"
-region: "Ireland"
+born: c.500 in Ireland
+died: c.583
+region: Ireland
 feastDay:
   month: 7
   day: 1
@@ -24,8 +24,9 @@ vocation:
   - Monk
   - Missionary
 patronage:
-  - "Orkney Islands"
+  - Orkney Islands
 martyr: false
+prayers: []
 ---
 
 Bishop, possibly being consecrated by Saint Palladius. Missionary to the Scots.

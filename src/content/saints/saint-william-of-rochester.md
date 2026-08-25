@@ -1,16 +1,19 @@
 ---
-name: "Saint William of Rochester"
+name: Saint William of Rochester
 honorific: Saint
-summary: "William led a wild and misspent youth, but as an adult he had a complete conversion, devoting himself to God, caring especially for poor and neglected children. He worked as a baker, and gave every tenth loaf to the poor. He attended Mass daily, and one morning on his way to chur"
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-William-of-Rochster.jpg"
+summary: >-
+  William led a wild and misspent youth, but as an adult he had a complete conversion, devoting himself to God, caring
+  especially for poor and neglected children. He worked as a baker, and gave every tenth loaf to the poor. He attended
+  Mass daily, and one morning on his way to chur
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-William-of-Rochster.jpg
 searchAliases:
-  - "William of Perth"
+  - William of Perth
 deathYear: 1201
-born: "12th century at Perth, Scotland"
-died: "throat cut in 1201 at Rochester, England"
-birthPlace: "Scotland"
-deathPlace: "England"
-region: "England"
+born: 12th century at Perth, Scotland
+died: throat cut in 1201 at Rochester, England
+birthPlace: Scotland
+deathPlace: England
+region: England
 feastDay:
   month: 5
   day: 23
@@ -18,8 +21,9 @@ canonizationStatus: Saint
 vocation:
   - Monk
 patronage:
-  - "adopted children"
+  - adopted children
 martyr: true
+prayers: []
 ---
 
 William led a wild and misspent youth, but as an adult he had a complete conversion, devoting himself to God, caring especially for poor and neglected children. He worked as a baker, and gave every tenth loaf to the poor. He attended Mass daily, and one morning on his way to church he found an infant abandoned on the threshold. He named the baby David, and adopted him, and taught him his trade.

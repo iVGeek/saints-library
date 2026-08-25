@@ -21,6 +21,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Monk. Abbot of Vallombrosa. Bishop of Pistoia, Italy for 20 years. Wrote a work on the relics of and miracles that occurred at Saint James of Compostella.

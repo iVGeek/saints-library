@@ -16,6 +16,7 @@ image: https://commons.wikimedia.org/wiki/Special:FilePath/Menodora_spinescens_f
 vocation:
   - Religious
 martyr: true
+prayers: []
 ---
 
 Sister of Saint Metrodora and Saint Nymphodora. Young Christian woman ordered to worship pagan gods during the persecutions of emperor Maximian and governor Fronto; she refused. Martyr.

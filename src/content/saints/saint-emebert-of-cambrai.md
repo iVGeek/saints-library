@@ -27,6 +27,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/e/e5/Reineldis.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Emebert of Cambrai
 imageCreditUrl: https://en.wikipedia.org/wiki/Reineldis
+prayers: []
 ---
 
 Son of Count Witger and Saint Amalburga; brother of Saint Gudule and Saint Reineldis. He was early drawn to the religious life. Monk. Bishop of Cambrai, France. Known for his personal piety and the example he set for his flock.

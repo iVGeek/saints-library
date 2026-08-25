@@ -1,26 +1,31 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Augustinô Phan Viet Huy"
+name: Saint Augustinô Phan Viet Huy
 honorific: Venerable
-summary: "Lifelong layman in the apostolic vicariate of East Tonkin. Soldier. Worked to help the foreign missionaries. Worked, tortured and died with Saint Nicolas The. One of the Martyrs of Vietnam."
+summary: >-
+  Lifelong layman in the apostolic vicariate of East Tonkin. Soldier. Worked to help the foreign missionaries. Worked,
+  tortured and died with Saint Nicolas The. One of the Martyrs of Vietnam.
 searchAliases:
-  - "Augustine Huy Viet Phan"
-  - "Augustine of Huy"
+  - Augustine Huy Viet Phan
+  - Augustine of Huy
 birthYear: 1795
 deathYear: 1839
-born: "c.1795 in Ha Linh, Nam Ðinh, Vietnam"
-died: "sawn in half on 12 June 1839 in Thua Thiên, Vietnam"
-birthPlace: "Nam Ðinh, Vietnam"
-deathPlace: "Vietnam"
-region: "Vietnam"
+born: c.1795 in Ha Linh, Nam Ðinh, Vietnam
+died: sawn in half on 12 June 1839 in Thua Thiên, Vietnam
+birthPlace: Nam Ðinh, Vietnam
+deathPlace: Vietnam
+region: Vietnam
 feastDay:
   month: 6
   day: 13
-centuries: [18, 19]
+centuries:
+  - 18
+  - 19
 canonizationStatus: Venerable
 vocation:
   - Soldier
 martyr: true
+prayers: []
 ---
 
 Lifelong layman in the apostolic vicariate of East Tonkin. Soldier. Worked to help the foreign missionaries. Worked, tortured and died with Saint Nicolas The. One of the Martyrs of Vietnam.

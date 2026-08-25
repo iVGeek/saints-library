@@ -31,6 +31,7 @@ vocation:
   - Missionary
   - Confessor
 martyr: false
+prayers: []
 ---
 
 Seventh in a Christian family of nine children, the son of Vincent Preco and Nathalie Ceravolo. His father was a merchant and health inspector. George was a sickly child. Studied at the Lyceum and Major Seminary on Malta. A severe respiratory ailment in seminary nearly killed him, but he recovered through the intercession of Saint Joseph. While still a student, he began writing a Rule in Latin for use in a planned society of Permanent Deacons. Ordained 22 December 1906.

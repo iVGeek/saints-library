@@ -1,12 +1,12 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Culmatius of Arezzo"
+name: Saint Culmatius of Arezzo
 honorific: Saint
-summary: "Deacon. Martyred in the persecutions of Valentian I along with 53 companions whose names have not come down to us."
+summary: Deacon. Martyred in the persecutions of Valentian I along with 53 companions whose names have not come down to us.
 deathYear: 364
-died: "364 at Arezzo, Tuscany, Italy"
-deathPlace: "Tuscany, Italy"
-region: "Italy"
+died: 364 at Arezzo, Tuscany, Italy
+deathPlace: Tuscany, Italy
+region: Italy
 feastDay:
   month: 6
   day: 19
@@ -15,6 +15,7 @@ vocation:
   - Monk
   - Deacon
 martyr: true
+prayers: []
 ---
 
 Deacon. Martyred in the persecutions of Valentian I along with 53 companions whose names have not come down to us.

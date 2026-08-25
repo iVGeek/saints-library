@@ -31,6 +31,7 @@ patronage:
   - –
   - Metropolitan Chapter of the Cathedral of Saint Martin in Lucca
 martyr: true
+prayers: []
 ---
 
 Evangelising archbishop in North Africa. Exiled with Saint Cerbonius of Populonia and some other Christians to Italy in the persecutions of Arian Vandals. The group settled in the area of Populonia and Piombino, and Regulus lived as a holy and miracle working hermit. Martyred in the persecutions of Totila of the Ostrogoths.

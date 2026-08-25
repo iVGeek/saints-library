@@ -1,13 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Remedius of Gap"
+name: Saint Remedius of Gap
 honorific: Saint
-summary: "Bishop of Gap, France."
+summary: Bishop of Gap, France.
 searchAliases:
-  - "Reméde"
-  - "Remedio"
-died: "early 5th century of natural causes"
-region: "France"
+  - Reméde
+  - Remedio
+died: early 5th century of natural causes
+region: France
 feastDay:
   month: 2
   day: 3
@@ -16,6 +16,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Bishop of Gap, France.

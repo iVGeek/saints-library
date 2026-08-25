@@ -1,13 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Villanus of Gubbio"
+name: Blessed Villanus of Gubbio
 honorific: Blessed
-summary: "Benedictine monk at the monastery of Fonte-Avellana, Italy. Priest. Bishop of Gubbio, Italy in 1206."
+summary: Benedictine monk at the monastery of Fonte-Avellana, Italy. Priest. Bishop of Gubbio, Italy in 1206.
 deathYear: 1237
-born: "Gubbio, Italy"
-died: "1237 of natural causes"
-birthPlace: "Italy"
-region: "Italy"
+born: Gubbio, Italy
+died: 1237 of natural causes
+birthPlace: Italy
+region: Italy
 feastDay:
   month: 5
   day: 7
@@ -16,8 +16,9 @@ vocation:
   - Bishop
   - Priest
   - Monk
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 martyr: false
+prayers: []
 ---
 
 Benedictine monk at the monastery of Fonte-Avellana, Italy. Priest. Bishop of Gubbio, Italy in 1206.

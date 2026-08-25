@@ -1,14 +1,14 @@
 ---
-name: "Saint Renatus of Angers"
+name: Saint Renatus of Angers
 honorific: Saint
-summary: "Bishop of Angers, France."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Renatus-of-Angers.jpg"
+summary: Bishop of Angers, France.
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Renatus-of-Angers.jpg
 searchAliases:
-  - "Renato"
-  - "Rene"
+  - Renato
+  - Rene
 deathYear: 422
-died: "c.422"
-region: "France"
+died: c.422
+region: France
 feastDay:
   month: 11
   day: 12
@@ -17,6 +17,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Bishop of Angers, France.

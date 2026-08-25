@@ -1,27 +1,31 @@
 ---
-name: "Saint Léon-Ignace Mangin"
+name: Saint Léon-Ignace Mangin
 honorific: Venerable
-summary: "Joined the Jesuit on 5 November 1975. Priest. Missionary to China, sailing in 1882. Worked with Saint Paul Denn. Martyred in the Boxer Rebellion while ministering and giving Communion to frightened Christians in church."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Léon-Ignace-Mangin.jpg"
+summary: >-
+  Joined the Jesuit on 5 November 1975. Priest. Missionary to China, sailing in 1882. Worked with Saint Paul Denn.
+  Martyred in the Boxer Rebellion while ministering and giving Communion to frightened Christians in church.
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Léon-Ignace-Mangin.jpg
 searchAliases:
-  - "Leo Ignatius Mangin"
+  - Leo Ignatius Mangin
 birthYear: 1857
 deathYear: 1900
-born: "30 July 1857 in Verny, Moselle, France"
-died: "20 July 1900 in church in Zhujiahe, Jingxian, Hebei, China"
-birthPlace: "Moselle, France"
-deathPlace: "Jingxian, Hebei, China"
-region: "China"
+born: 30 July 1857 in Verny, Moselle, France
+died: 20 July 1900 in church in Zhujiahe, Jingxian, Hebei, China
+birthPlace: Moselle, France
+deathPlace: Jingxian, Hebei, China
+region: China
 feastDay:
   month: 7
   day: 20
-centuries: [19]
+centuries:
+  - 19
 canonizationStatus: Venerable
 vocation:
   - Priest
   - Missionary
-religiousOrder: "Jesuit"
+religiousOrder: Jesuit
 martyr: true
+prayers: []
 ---
 
 Joined the Jesuit on 5 November 1975. Priest. Missionary to China, sailing in 1882. Worked with Saint Paul Denn. Martyred in the Boxer Rebellion while ministering and giving Communion to frightened Christians in church.

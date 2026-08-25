@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Felician of Sicily"
+name: Saint Felician of Sicily
 honorific: Saint
-summary: "Martyr."
+summary: Martyr.
 searchAliases:
-  - "Feliciano"
-  - "Felicianus"
+  - Feliciano
+  - Felicianus
 feastDay:
   month: 7
   day: 9
@@ -13,6 +13,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Martyr.

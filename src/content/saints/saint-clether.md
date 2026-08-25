@@ -23,6 +23,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/40/Saint_Non%27s_Chapel_-_Fenster_4_St.Brynach.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Clether
 imageCreditUrl: https://en.wikipedia.org/wiki/Brynach
+prayers: []
 ---
 
 Hermit on the banks of the river Never, then in the Inny valley in North Cornwall, England in an area now named for him.

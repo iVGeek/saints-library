@@ -1,13 +1,15 @@
 ---
-name: "Saint Madalberta"
+name: Saint Madalberta
 honorific: Saint
-summary: "Daughter of Saint Vincent Madelgarus and Saint Waltrude; sister of Saint Aldetrudis; grand-daughter of Saint Bertille. Spiritual student of her aunt Saint Aldegund. Benedictine nun at the abbey of Maubeuge, France. Abbess in 697."
-image: "https://catholicsaints.info/wp-content/uploads/img-Saint-Madelberte.jpg"
+summary: >-
+  Daughter of Saint Vincent Madelgarus and Saint Waltrude; sister of Saint Aldetrudis; grand-daughter of Saint Bertille.
+  Spiritual student of her aunt Saint Aldegund. Benedictine nun at the abbey of Maubeuge, France. Abbess in 697.
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Madelberte.jpg
 searchAliases:
-  - "Madelberte"
+  - Madelberte
 deathYear: 706
-died: "706 of natural causes"
-region: "France"
+died: 706 of natural causes
+region: France
 feastDay:
   month: 9
   day: 7
@@ -17,10 +19,11 @@ vocation:
   - Priest
   - Monk
   - Religious
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 patronage:
-  - "Maubeuge, France"
+  - Maubeuge, France
 martyr: false
+prayers: []
 ---
 
 Daughter of Saint Vincent Madelgarus and Saint Waltrude; sister of Saint Aldetrudis; grand-daughter of Saint Bertille. Spiritual student of her aunt Saint Aldegund. Benedictine nun at the abbey of Maubeuge, France. Abbess in 697.

@@ -14,6 +14,7 @@ image: >-
 vocation:
   - Bishop
 martyr: true
+prayers: []
 ---
 
 Bishop of Trier, Germany. Martyr.

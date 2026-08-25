@@ -44,6 +44,7 @@ patronage:
   - Émines
   - Montegnée
 martyr: true
+prayers: []
 ---
 
 Born to the nobility, the son of Aper and Herisplindis, he received a good, religious oriented education. Student of Saint Landoaldus and Saint Theodardus. Priest. Bishop of Maastricht, Netherlands in 670. Forced for political reasons into exile from Maastricht from 674 to 681. Missionary in Toxandria (modern Brabant) with Saint Willibrord of Echternach in the late 7th century. Apparently worked with Saint Wito, Saint Plechelm of Guelderland, and Saint Otger of Utrecht. With Saint Landrada, he founded the abbey of Munsterbilsen. Murdered for defending the sanctity of marriage, which was very politically inconvenient for several powerful people of the day. Martyr.

@@ -1,9 +1,9 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Guibsech of Cluain-Bairenn"
+name: Saint Guibsech of Cluain-Bairenn
 honorific: Saint
-summary: "Founded a community of nuns in Cluain-Bairenn, Ireland."
-region: "Ireland"
+summary: Founded a community of nuns in Cluain-Bairenn, Ireland.
+region: Ireland
 feastDay:
   month: 6
   day: 20
@@ -11,8 +11,9 @@ canonizationStatus: Saint
 vocation:
   - Religious
 patronage:
-  - "Cluain-Bairenn (Clonburren, Roscommon County), Ireland"
+  - Cluain-Bairenn (Clonburren, Roscommon County), Ireland
 martyr: false
+prayers: []
 ---
 
 Founded a community of nuns in Cluain-Bairenn, Ireland.

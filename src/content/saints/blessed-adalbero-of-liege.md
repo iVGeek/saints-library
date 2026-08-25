@@ -22,6 +22,7 @@ vocation:
   - Bishop
   - Priest
 martyr: false
+prayers: []
 ---
 
 Born to the nobility. Brother of Count Godfrey Le Barbu of Louvain. Priest. Canon of Metz, France. Prince–Bishop of Liège, Belgium in 1123. Founded the abbey of Saint-Gilles near Liege.

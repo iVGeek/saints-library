@@ -1,15 +1,17 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Condedus"
+name: Saint Condedus
 honorific: Saint
-summary: "Hermit at Fontaine-de-Saint-Valéry, France. Monk at Fontenelle Abbey. Evangelist who worked from an island in the Seine near Caudebec."
+summary: >-
+  Hermit at Fontaine-de-Saint-Valéry, France. Monk at Fontenelle Abbey. Evangelist who worked from an island in the
+  Seine near Caudebec.
 searchAliases:
-  - "Condé"
-  - "Condède"
+  - Condé
+  - Condède
 deathYear: 690
-born: "in England"
-died: "c.690"
-region: "France"
+born: in England
+died: c.690
+region: France
 feastDay:
   month: 10
   day: 21
@@ -18,6 +20,7 @@ vocation:
   - Monk
   - Hermit
 martyr: false
+prayers: []
 ---
 
 Hermit at Fontaine-de-Saint-Valéry, France. Monk at Fontenelle Abbey. Evangelist who worked from an island in the Seine near Caudebec.

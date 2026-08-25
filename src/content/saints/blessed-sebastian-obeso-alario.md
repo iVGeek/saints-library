@@ -1,23 +1,24 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Sebastián Obeso Alario"
+name: Blessed Sebastián Obeso Alario
 honorific: Blessed
-summary: "Member of the Brothers of the Christian Schools. Martyred in the Spanish Civil War."
+summary: Member of the Brothers of the Christian Schools. Martyred in the Spanish Civil War.
 searchAliases:
-  - "Brother Honorio Sebastián"
+  - Brother Honorio Sebastián
 birthYear: 1910
 deathYear: 1936
-born: "12 December 1910 in Añoza, León, Spain"
-died: "19 September 1936 in Tarragona, Spain"
-birthPlace: "León, Spain"
-deathPlace: "Spain"
-region: "Spain"
+born: 12 December 1910 in Añoza, León, Spain
+died: 19 September 1936 in Tarragona, Spain
+birthPlace: León, Spain
+deathPlace: Spain
+region: Spain
 feastDay:
   month: 9
   day: 19
 canonizationStatus: Blessed
 vocation: []
 martyr: true
+prayers: []
 ---
 
 Member of the Brothers of the Christian Schools. Martyred in the Spanish Civil War.

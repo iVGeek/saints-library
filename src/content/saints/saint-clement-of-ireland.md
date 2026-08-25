@@ -24,6 +24,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/c/c5/Clement_of_Ohrid_icon_Zograf_Monastery_Athos.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Clement of Ireland
 imageCreditUrl: https://en.wikipedia.org/wiki/Clement%20of%20Ohrid
+prayers: []
 ---
 
 Clement and his companion Ailbe, arrived in Gaul in 772, and opened shop as teachers. Their fame spread, and Charlemagne sent for them to come to his court, where they stayed for several months. Ailbe was given direction of a monastery near Pavia, Italy. Clement stayed in France as regent of the Paris school from 775 until his death. Legend says that Clement founded the University of Paris, which in a metaphorical sense he did since he started a great tradition of learning in the city.

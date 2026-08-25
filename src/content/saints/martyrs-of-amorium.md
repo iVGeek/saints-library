@@ -1,14 +1,17 @@
 ---
-name: "Martyrs of Amorium"
+name: Martyrs of Amorium
 honorific: Saint
-summary: "A group of 42 Christian senior officials in the Byzantine empire who were captured by forces of the Abbasid Caliphate when the Muslim forces overran the city of Amorium, Phrygia in 838 and massacred or enslaved its population. The men were imprisoned in Samarra, the seat of the C"
-image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Amorium.jpg"
+summary: >-
+  A group of 42 Christian senior officials in the Byzantine empire who were captured by forces of the Abbasid Caliphate
+  when the Muslim forces overran the city of Amorium, Phrygia in 838 and massacred or enslaved its population. The men
+  were imprisoned in Samarra, the seat of the C
+image: http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Amorium.jpg
 searchAliases:
-  - "Martyrs of Syria"
-  - "Martyrs of Samarra"
+  - Martyrs of Syria
+  - Martyrs of Samarra
 deathYear: 845
-died: "beheaded on 6 March 845 in Samarra (in modern Iraq) on the banks of the Euphrates river by Ethiopian slaves"
-region: "England"
+died: beheaded on 6 March 845 in Samarra (in modern Iraq) on the banks of the Euphrates river by Ethiopian slaves
+region: England
 feastDay:
   month: 3
   day: 6
@@ -16,6 +19,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 A group of 42 Christian senior officials in the Byzantine empire who were captured by forces of the Abbasid Caliphate when the Muslim forces overran the city of Amorium, Phrygia in 838 and massacred or enslaved its population. The men were imprisoned in Samarra, the seat of the Caliphate, for seven years. Initially thought to be held for ransom due to their high position in the empire, all attempts to buy their freedom were declined. The Caliph repeatedly ordered them to convert to Islam, and sent Islamic scholars to the prison to convince them; they refused until the Muslims finally gave up and killed them. Martyrs.

@@ -1,17 +1,20 @@
 ---
-name: "Blessed Jean-Marie Joseph Lataste"
+name: Blessed Jean-Marie Joseph Lataste
 honorific: Blessed
-summary: "The youngest of seven children born to Vital, a cloth merchant and vineyard owner, and Jeanne Lataste. Alcide started his work life as an administrator in the tax office, working in several cities in southern France. Friend of and long time correspondent with Father Jean-Baptiste"
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Jean-Marie-Joseph-Lataste.jpg"
+summary: >-
+  The youngest of seven children born to Vital, a cloth merchant and vineyard owner, and Jeanne Lataste. Alcide started
+  his work life as an administrator in the tax office, working in several cities in southern France. Friend of and long
+  time correspondent with Father Jean-Baptiste
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Jean-Marie-Joseph-Lataste.jpg
 searchAliases:
-  - "Alcide-Vital Lataste"
+  - Alcide-Vital Lataste
 birthYear: 1832
 deathYear: 1869
-born: "5 September 1832 in Cadillac-sur-Garonne, Gironde, France as Alcide-Vital"
-died: "10 March 1869 in Frasne-Le-Château, Haute-Saône, France of tuberculosis"
-birthPlace: "Gironde, France as Alcide-Vital"
-deathPlace: "Haute-Saône, Francetuberculosis"
-region: "France"
+born: 5 September 1832 in Cadillac-sur-Garonne, Gironde, France as Alcide-Vital
+died: 10 March 1869 in Frasne-Le-Château, Haute-Saône, France of tuberculosis
+birthPlace: Gironde, France as Alcide-Vital
+deathPlace: Haute-Saône, Francetuberculosis
+region: France
 feastDay:
   month: 3
   day: 10
@@ -20,10 +23,11 @@ vocation:
   - Priest
   - Religious
   - Cardinal
-religiousOrder: "Dominican"
+religiousOrder: Dominican
 patronage:
-  - "Dominican Sisters of Bethany"
+  - Dominican Sisters of Bethany
 martyr: false
+prayers: []
 ---
 
 The youngest of seven children born to Vital, a cloth merchant and vineyard owner, and Jeanne Lataste. Alcide started his work life as an administrator in the tax office, working in several cities in southern France. Friend of and long time correspondent with Father Jean-Baptiste-Henri Dominique Lacordaire. Alcide joined the Society of Saint Vincent de Paul, working with them in several cities, and became a leading administrator in the Society. The community he found there led him to a call to religious life.

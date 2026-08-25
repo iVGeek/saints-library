@@ -1,15 +1,15 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Claude Ponse"
+name: Blessed Claude Ponse
 honorific: Blessed
-summary: "Canon Regular of the Congregation of France priest. One of the Martyrs of September."
+summary: Canon Regular of the Congregation of France priest. One of the Martyrs of September.
 birthYear: 1729
 deathYear: 1792
-born: "1729 in Saint-Pierre-Le-Monastier, Haute-Loire, France"
-died: "martyred on 3 September 1792 at the Seminaire de Saint-Firmin, Paris, France"
-birthPlace: "Haute-Loire, France"
-deathPlace: "Paris, France"
-region: "France"
+born: 1729 in Saint-Pierre-Le-Monastier, Haute-Loire, France
+died: martyred on 3 September 1792 at the Seminaire de Saint-Firmin, Paris, France
+birthPlace: Haute-Loire, France
+deathPlace: Paris, France
+region: France
 feastDay:
   month: 9
   day: 3
@@ -17,6 +17,7 @@ canonizationStatus: Blessed
 vocation:
   - Priest
 martyr: true
+prayers: []
 ---
 
 Canon Regular of the Congregation of France priest. One of the Martyrs of September.

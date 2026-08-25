@@ -1,29 +1,34 @@
 ---
-name: "Saint Maria de Mattias"
+name: Saint Maria de Mattias
 honorific: Venerable
-summary: "Born to a pious and educated upper class family. Though women of her day were forbidden a formal education, she learned to read and write, and much about her faith at home from her father. Being an upper class girl of the time, she grew up isolated and self-involved, but in her m"
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Maria-de-Mattias-1.jpg"
+summary: >-
+  Born to a pious and educated upper class family. Though women of her day were forbidden a formal education, she
+  learned to read and write, and much about her faith at home from her father. Being an upper class girl of the time,
+  she grew up isolated and self-involved, but in her m
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Maria-de-Mattias-1.jpg
 searchAliases:
-  - "Mary de Mattias"
-  - "Mary de Matthias"
+  - Mary de Mattias
+  - Mary de Matthias
 birthYear: 1805
 deathYear: 1866
-born: "4 February 1805 at Vallecorsa, Frosinone, Papal States (modern Italy)"
-died: "20 August 1866 in Rome, Italy of natural causes"
-birthPlace: "Frosinone, Papal States (modern Italy)"
-deathPlace: "Italynatural causes"
-region: "Italy"
+born: 4 February 1805 at Vallecorsa, Frosinone, Papal States (modern Italy)
+died: 20 August 1866 in Rome, Italy of natural causes
+birthPlace: Frosinone, Papal States (modern Italy)
+deathPlace: Italynatural causes
+region: Italy
 feastDay:
   month: 8
   day: 20
-centuries: [19]
+centuries:
+  - 19
 canonizationStatus: Venerable
 vocation:
   - Priest
   - Religious
 patronage:
-  - "Adorers of the Blood of Christ"
+  - Adorers of the Blood of Christ
 martyr: false
+prayers: []
 ---
 
 Born to a pious and educated upper class family. Though women of her day were forbidden a formal education, she learned to read and write, and much about her faith at home from her father. Being an upper class girl of the time, she grew up isolated and self-involved, but in her mid-teens she felt the hollowness of her life, and began to search for more meaning. She prayed for enlightment and received a mystical vision that led her to leave home and wander the roads, explaining the love of God to any who would listen.

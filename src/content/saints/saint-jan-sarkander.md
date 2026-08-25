@@ -24,6 +24,7 @@ vocation:
   - Priest
 religiousOrder: Jesuit
 martyr: false
+prayers: []
 ---
 
 Son of Georg Mathias Sarkander and Helene Kornicz Sarkander. Born in a time and place in the midst of the turmoil of the Protestant Reformation. His father died when Jan was still young, and the family moved to Pribor. He married, but his wife died when they were young, and they had no children.

@@ -18,6 +18,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/8/81/Agapetus_Pechorskiy.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Agapetus of Ruthenia
 imageCreditUrl: https://en.wikipedia.org/wiki/Agapetus%20of%20the%20Kiev%20Caves
+prayers: []
 ---
 
 Monk in Ruthenia (in modern Ukraine). Physician who did not charge for his services.

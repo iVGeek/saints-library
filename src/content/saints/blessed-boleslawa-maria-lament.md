@@ -1,15 +1,18 @@
 ---
-name: "Blessed Bolesława Maria Lament"
+name: Blessed Bolesława Maria Lament
 honorific: Blessed
-summary: "Eldest of eight children born to Martin Lament and Lucia Cyganowska; three of her siblings died in childhood, deeply scarring young Boleslava. Trained in Warsaw, Poland as a seamstress, she returned to her hometown to open a tailor's shop with her sister Stanislava. In 1884 Boles"
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Boleslawa-Maria-Lament.jpg"
+summary: >-
+  Eldest of eight children born to Martin Lament and Lucia Cyganowska; three of her siblings died in childhood, deeply
+  scarring young Boleslava. Trained in Warsaw, Poland as a seamstress, she returned to her hometown to open a tailor's
+  shop with her sister Stanislava. In 1884 Boles
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Boleslawa-Maria-Lament.jpg
 birthYear: 1862
 deathYear: 1946
-born: "3 July 1862 in Lowicz, Lódzkie, Poland"
-died: "29 January 1946 in Bialystok, Podlaskie, Poland of natural causes"
-birthPlace: "Lódzkie, Poland"
-deathPlace: "Podlaskie, Polandnatural causes"
-region: "Poland"
+born: 3 July 1862 in Lowicz, Lódzkie, Poland
+died: 29 January 1946 in Bialystok, Podlaskie, Poland of natural causes
+birthPlace: Lódzkie, Poland
+deathPlace: Podlaskie, Polandnatural causes
+region: Poland
 feastDay:
   month: 1
   day: 29
@@ -18,8 +21,9 @@ vocation:
   - Priest
   - Religious
   - Missionary
-religiousOrder: "Jesuit"
+religiousOrder: Jesuit
 martyr: false
+prayers: []
 ---
 
 Eldest of eight children born to Martin Lament and Lucia Cyganowska; three of her siblings died in childhood, deeply scarring young Boleslava. Trained in Warsaw, Poland as a seamstress, she returned to her hometown to open a tailor's shop with her sister Stanislava. In 1884 Boleslawa became a sister in the Congregation of the Family of Mary, an order in hiding due to czarist persecution. She served as tailor and teacher in several Congregation houses.

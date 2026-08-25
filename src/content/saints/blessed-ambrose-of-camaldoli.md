@@ -24,6 +24,7 @@ canonizationStatus: Blessed
 vocation:
   - Bishop
 martyr: false
+prayers: []
 ---
 
 Born to the Tuscan nobility. Studied assorted arts, sciences and languages in Venice, Italy, and would be considered a classic Renaissance man. Joined the Camaldolese in 1400 at the Santa Maria del Angelis monastery in Florence, Italy. A noted scholar and theologian, he read widely, wrote extensively, including lives of the saints, collected a large library, and translated much of it. Teacher of both religious and lay people. Superior-general of the Camaldolese in 1431. Negotiator between the pope and emperor Sigismond. Worked for re-unification with the Greek bishops at the Council of Florence in 1439, drawing up the final statement of the Council.

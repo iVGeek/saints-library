@@ -13,6 +13,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: false
+prayers: []
 ---
 
 Married to Saint Castulus of Rome. Widow. Healed the arrow wounds of Saint Sebastian, and tried unsuccessfully to talk him into leaving Rome.

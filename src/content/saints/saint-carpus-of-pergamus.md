@@ -1,14 +1,14 @@
 ---
-name: "Saint Carpus of Pergamus"
+name: Saint Carpus of Pergamus
 honorific: Saint
-summary: "Bishop of Thyatira. Martyred in the persecutions of Decius."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Carpus-of-Pergamus.jpg"
+summary: Bishop of Thyatira. Martyred in the persecutions of Decius.
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Carpus-of-Pergamus.jpg
 searchAliases:
-  - "Carpo"
+  - Carpo
 deathYear: 250
-died: "c.250 at Pergamus, Asia Minor"
-deathPlace: "Asia Minor"
-region: "England"
+died: c.250 at Pergamus, Asia Minor
+deathPlace: Asia Minor
+region: England
 feastDay:
   month: 4
   day: 13
@@ -19,6 +19,7 @@ vocation:
   - Monk
   - Deacon
 martyr: true
+prayers: []
 ---
 
 Bishop of Thyatira. Martyred in the persecutions of Decius.

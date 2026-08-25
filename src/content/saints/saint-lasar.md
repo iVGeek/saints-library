@@ -1,13 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Lasar"
+name: Saint Lasar
 honorific: Saint
-summary: "Sixth century nun in Ireland. Niece of Saint Forchera."
+summary: Sixth century nun in Ireland. Niece of Saint Forchera.
 searchAliases:
-  - "Lassar"
-  - "Lassara"
-  - "Lassera"
-region: "Ireland"
+  - Lassar
+  - Lassara
+  - Lassera
+region: Ireland
 feastDay:
   month: 3
   day: 29
@@ -17,6 +17,7 @@ vocation:
   - Monk
   - Religious
 martyr: false
+prayers: []
 ---
 
 Sixth century nun in Ireland. Niece of Saint Forchera.

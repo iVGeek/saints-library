@@ -1,23 +1,29 @@
 ---
-name: "Venerable Leonard Lessius"
+name: Venerable Leonard Lessius
 honorific: Venerable
-summary: "Earned his doctorate of philosophy at Louvain, Belgium at age 17. Joined the Society of Jesus in 1573. Studied theology in Rome, Italy. Professor of theology in Louvain for 15 years. Noted for his intelligence and his piety. Wrote several theological, apologetic and other related"
-image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Leonard-Lessius.jpg"
+summary: >-
+  Earned his doctorate of philosophy at Louvain, Belgium at age 17. Joined the Society of Jesus in 1573. Studied
+  theology in Rome, Italy. Professor of theology in Louvain for 15 years. Noted for his intelligence and his piety.
+  Wrote several theological, apologetic and other related
+image: http://catholicsaints.info/wp-content/uploads/img-Venerable-Leonard-Lessius.jpg
 birthYear: 1554
 deathYear: 1623
-born: "1 October 1554 in Brecht, Belgium"
-died: "15 January 1623 in Louvain, Belgium of natural causes"
-birthPlace: "Belgium"
-deathPlace: "Belgiumnatural causes"
-region: "Belgium"
+born: 1 October 1554 in Brecht, Belgium
+died: 15 January 1623 in Louvain, Belgium of natural causes
+birthPlace: Belgium
+deathPlace: Belgiumnatural causes
+region: Belgium
 feastDay:
   month: 1
   day: 1
-centuries: [16, 17]
+centuries:
+  - 16
+  - 17
 canonizationStatus: Venerable
 vocation: []
-religiousOrder: "Jesuit"
+religiousOrder: Jesuit
 martyr: false
+prayers: []
 ---
 
 Earned his doctorate of philosophy at Louvain, Belgium at age 17. Joined the Society of Jesus in 1573. Studied theology in Rome, Italy. Professor of theology in Louvain for 15 years. Noted for his intelligence and his piety. Wrote several theological, apologetic and other related books and treatises.

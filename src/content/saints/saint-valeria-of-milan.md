@@ -21,6 +21,7 @@ patronage:
   - Milan, Italy
   - Thibodeaux, Louisiana
 martyr: true
+prayers: []
 ---
 
 Wife of Saint Vitalis of Milan. Mother of Saint Gervase and Saint Protase. Martyred for given decent burial for Christian martyrs, and then refusing to sacrifice to pagan gods. Some modern writers contend that she may have been a character in a work of fiction mistaken for history.

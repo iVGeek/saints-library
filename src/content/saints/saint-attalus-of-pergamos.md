@@ -22,6 +22,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/41/Acropolis_-_Bergama_%28Pergamon%29_-_Turkey_-_10_%285747249729%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Attalus of Pergamos
 imageCreditUrl: https://en.wikipedia.org/wiki/Pergamon
+prayers: []
 ---
 
 One of a group of 48 Christians from the areas of Vienne and Lyon in France, who were attacked by a pagan mob, arrested and tried for their faith, and murdered in the persecutions of Marcus Aurelius. A letter describing their fate, possibly written by Saint Irenaeus of Lyons, was sent to the churches in the Middle East.

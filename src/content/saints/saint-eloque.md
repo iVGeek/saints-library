@@ -20,6 +20,7 @@ image: >-
 imageAlt: Portrait of Saint Eloque
 imageCredit: <span class="int-own-work" lang="en">Own work</span>
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:Eglise%20Saint-Quentin%20de%20Gergny%20-%20Statue%20de%20Saint-Eloque.jpg
+prayers: []
 ---
 
 Benedictine monk in Lagny, France. Spiritual student of Saint Fursey of Peronne. Abbot of the Lagny monastery.

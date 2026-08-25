@@ -17,6 +17,7 @@ vocation:
   - Monk
   - Religious
 martyr: false
+prayers: []
 ---
 
 Eighth-century BC shepherd at Koa near Bethlehem. Of himself he said, “I am not a prophet, nor the son of a prophet; but I am a herdsman plucking wild figs.” One of the Old Testament Minor Prophets, the book of Amos is one long denunciation of evildoers.

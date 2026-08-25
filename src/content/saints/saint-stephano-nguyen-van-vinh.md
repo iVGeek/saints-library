@@ -1,25 +1,29 @@
 ---
-name: "Saint Stêphanô Nguyen Van Vinh"
+name: Saint Stêphanô Nguyen Van Vinh
 honorific: Venerable
-summary: "Layman farmer in the apostolic vicariate of East Tonkin (in modern Vietnam). Convert. Dominican tertiary. Imprisoned, tortured and executed for his faith in the persecutions of emperor Minh Mang. Martyr."
-image: "http://catholicsaints.info/wp-content/gallery/martyrs-of-vietnam/martyrs-of-vietnam-01.jpg"
+summary: >-
+  Layman farmer in the apostolic vicariate of East Tonkin (in modern Vietnam). Convert. Dominican tertiary. Imprisoned,
+  tortured and executed for his faith in the persecutions of emperor Minh Mang. Martyr.
+image: http://catholicsaints.info/wp-content/gallery/martyrs-of-vietnam/martyrs-of-vietnam-01.jpg
 searchAliases:
-  - "Stephen Nguyen Van Vinh"
+  - Stephen Nguyen Van Vinh
 birthYear: 1813
 deathYear: 1839
-born: "c.1813 in Phú Trang, Nam Ðanh, Vietnam"
-died: "strangled to death on 19 December 1839 in Co Me, Bac Ninh, Vietnam"
-birthPlace: "Nam Ðanh, Vietnam"
-deathPlace: "Bac Ninh, Vietnam"
-region: "Vietnam"
+born: c.1813 in Phú Trang, Nam Ðanh, Vietnam
+died: strangled to death on 19 December 1839 in Co Me, Bac Ninh, Vietnam
+birthPlace: Nam Ðanh, Vietnam
+deathPlace: Bac Ninh, Vietnam
+region: Vietnam
 feastDay:
   month: 12
   day: 19
-centuries: [19]
+centuries:
+  - 19
 canonizationStatus: Venerable
 vocation: []
-religiousOrder: "Dominican"
+religiousOrder: Dominican
 martyr: true
+prayers: []
 ---
 
 Layman farmer in the apostolic vicariate of East Tonkin (in modern Vietnam). Convert. Dominican tertiary. Imprisoned, tortured and executed for his faith in the persecutions of emperor Minh Mang. Martyr.

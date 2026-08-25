@@ -1,13 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Patrick Salmon"
+name: Blessed Patrick Salmon
 honorific: Blessed
-summary: "Servant of Blessed Thomas Bosgrave. With Thomas, he was arrested and martyred for the crime of sheltering priests."
+summary: Servant of Blessed Thomas Bosgrave. With Thomas, he was arrested and martyred for the crime of sheltering priests.
 deathYear: 1594
-born: "Ireland"
-died: "hanged, drawn, and quartered on 4 July 1594 at Dorchester, Dorset, England"
-deathPlace: "drawn, and quartered on 4 July 1594 at Dorchester, Dorset, England"
-region: "Ireland"
+born: Ireland
+died: hanged, drawn, and quartered on 4 July 1594 at Dorchester, Dorset, England
+deathPlace: drawn, and quartered on 4 July 1594 at Dorchester, Dorset, England
+region: Ireland
 feastDay:
   month: 7
   day: 4
@@ -15,6 +15,7 @@ canonizationStatus: Blessed
 vocation:
   - Priest
 martyr: true
+prayers: []
 ---
 
 Servant of Blessed Thomas Bosgrave. With Thomas, he was arrested and martyred for the crime of sheltering priests.

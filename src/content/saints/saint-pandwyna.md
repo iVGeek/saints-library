@@ -1,10 +1,10 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Pandwyna"
+name: Saint Pandwyna
 honorific: Saint
-summary: "Nun. The church in Eltisley, England is dedicated to her."
-born: "Irish"
-region: "England"
+summary: Nun. The church in Eltisley, England is dedicated to her.
+born: Irish
+region: England
 feastDay:
   month: 8
   day: 26
@@ -13,6 +13,7 @@ vocation:
   - Monk
   - Religious
 martyr: false
+prayers: []
 ---
 
 Nun. The church in Eltisley, England is dedicated to her.

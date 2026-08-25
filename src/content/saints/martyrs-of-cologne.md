@@ -19,6 +19,7 @@ image: >-
 imageAlt: Portrait of Martyrs of Cologne
 imageCredit: Old paper
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:Santa%20Od%C3%ADlia.jpg
+prayers: []
 ---
 
 A group of 360 Christian soldiers martyred together in the persecutions of Diocletian and Maximian.

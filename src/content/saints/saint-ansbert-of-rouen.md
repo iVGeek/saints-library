@@ -28,6 +28,7 @@ religiousOrder: Benedictine
 patronage:
   - Rouen, France
 martyr: false
+prayers: []
 ---
 
 Chancellor at the court of King Clotaire III. Married; with his wife's permission, he retired to become a Benedictine monk at Fontenelle in Normandy, France. Abbot of Fontenelle. Archbishop of Rouen, France in 683. Exiled to Hainaut by Pepin of Heristal.

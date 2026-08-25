@@ -1,9 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Martinus"
+name: Saint Martinus
 honorific: Saint
-summary: "With Saint Declan, he was an eighth century evangelist to the Germanic people who had been brought the faith by Saint Boniface of Crediton."
-region: "Germany"
+summary: >-
+  With Saint Declan, he was an eighth century evangelist to the Germanic people who had been brought the faith by Saint
+  Boniface of Crediton.
+region: Germany
 feastDay:
   month: 12
   day: 1
@@ -11,6 +13,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: false
+prayers: []
 ---
 
 With Saint Declan, he was an eighth century evangelist to the Germanic people who had been brought the faith by Saint Boniface of Crediton.

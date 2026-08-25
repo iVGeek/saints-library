@@ -24,6 +24,7 @@ vocation:
   - Bishop
   - Priest
 martyr: false
+prayers: []
 ---
 
 Ordained a priest on 20 September 1902. Appointed bishop of Molfetta, Giovinazzo e Terlizzi, Italy on 2 July 1918. Appointed bishop of Caltanissetta, Italy from 18 March 1921; he served for over 35 years until his retirement on 21 August 1956. Titular archbishop of Mocissus on 21 August 1956.

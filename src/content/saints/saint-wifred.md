@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Wifred"
+name: Saint Wifred
 honorific: Saint
-summary: "Monk and then abbot of Saint Victor Abbey in Marseilles, France."
+summary: Monk and then abbot of Saint Victor Abbey in Marseilles, France.
 deathYear: 1021
-died: "1021 of natural causes"
-region: "France"
+died: 1021 of natural causes
+region: France
 feastDay:
   month: 12
   day: 13
@@ -13,6 +13,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: false
+prayers: []
 ---
 
 Monk and then abbot of Saint Victor Abbey in Marseilles, France.

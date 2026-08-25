@@ -1,19 +1,20 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Bernardino of Rionero Sannitico"
+name: Blessed Bernardino of Rionero Sannitico
 honorific: Blessed
-summary: "Franciscan friar."
+summary: Franciscan friar.
 deathYear: 1505
-died: "1505 in Isernia, Italy of natural causes"
-deathPlace: "Italynatural causes"
-region: "Italy"
+died: 1505 in Isernia, Italy of natural causes
+deathPlace: Italynatural causes
+region: Italy
 feastDay:
   month: 9
   day: 22
 canonizationStatus: Blessed
 vocation: []
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 martyr: false
+prayers: []
 ---
 
 Franciscan friar.

@@ -27,6 +27,7 @@ imageCredit: >-
   href="https://archive.org/download/cu31924029275398/cu31924029275398.pdf">https://archive.org/download/cu31924029275398/cu31924029275398.pdf</a></dd></dl>
 imageCreditUrl: >-
   https://commons.wikimedia.org/wiki/File:The%20extinction%20of%20the%20Christian%20churches%20in%20North%20Africa%20(IA%20cu31924029275398).pdf
+prayers: []
 ---
 
 Commemoration of the 4,996 martyrs who died in the persecutions of the Vandals in Africa mandated by the Arian king Huneric. The persecuted Christians include bishops, priests, deacons and thousands of the lay faithful.

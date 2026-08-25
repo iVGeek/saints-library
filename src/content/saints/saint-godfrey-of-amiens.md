@@ -1,29 +1,32 @@
 ---
-name: "Saint Godfrey of Amiens"
+name: Saint Godfrey of Amiens
 honorific: Saint
-summary: "Son of Frodon, a solid citizen in a small town. Raised from age 5 in the Benedictine abbey of Mont-Saint-Quentin where his godfather was abbot Godefroid, and where he immediately donned a Benedictine habit and lived as a tiny monk. He became a Benedictine monk when he came of age"
-image: "https://upload.wikimedia.org/wikipedia/commons/9/96/Heiliger_Gottfried.jpg"
+summary: >-
+  Son of Frodon, a solid citizen in a small town. Raised from age 5 in the Benedictine abbey of Mont-Saint-Quentin where
+  his godfather was abbot Godefroid, and where he immediately donned a Benedictine habit and lived as a tiny monk. He
+  became a Benedictine monk when he came of age
+image: https://upload.wikimedia.org/wikipedia/commons/9/96/Heiliger_Gottfried.jpg
 searchAliases:
-  - "Gaufrid"
-  - "Geoffrey"
-  - "Geoffroy"
-  - "Geofroi"
-  - "Gioffredo"
-  - "Godefrid"
-  - "Godefridus"
-  - "Godfried"
-  - "Goffredo"
-  - "Goffrey"
-  - "Gofrido"
-  - "Gotfrid"
-  - "Gottfried"
-  - "Jeffrey"
+  - Gaufrid
+  - Geoffrey
+  - Geoffroy
+  - Geofroi
+  - Gioffredo
+  - Godefrid
+  - Godefridus
+  - Godfried
+  - Goffredo
+  - Goffrey
+  - Gofrido
+  - Gotfrid
+  - Gottfried
+  - Jeffrey
 birthYear: 1066
 deathYear: 1115
-born: "c.1066 at Soissons, France"
-died: "c.1115"
-birthPlace: "France"
-region: "France"
+born: c.1066 at Soissons, France
+died: c.1115
+birthPlace: France
+region: France
 feastDay:
   month: 11
   day: 8
@@ -32,10 +35,11 @@ vocation:
   - Bishop
   - Priest
   - Confessor
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 patronage:
-  - "Amiens, France"
+  - Amiens, France
 martyr: false
+prayers: []
 ---
 
 Son of Frodon, a solid citizen in a small town. Raised from age 5 in the Benedictine abbey of Mont-Saint-Quentin where his godfather was abbot Godefroid, and where he immediately donned a Benedictine habit and lived as a tiny monk. He became a Benedictine monk when he came of age. Priest, ordained by bishop Radbod II of Noyon, France.

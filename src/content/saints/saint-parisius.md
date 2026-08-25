@@ -25,6 +25,7 @@ vocation:
   - Monk
   - Hermit
 martyr: false
+prayers: []
 ---
 
 Camaldolese monk at age 12 at the monastery of Saint Michael's. Hermit. Priest. Chaplain and spiritual director of the Saint Christina convent of Treviso, Italy in 1191; he served there for 72 years. Cared for the spritual needs of pilgrims and the sick at the All Saints Hospice at his monastery. Miracle worker. Had the gift of prophecy.

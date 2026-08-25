@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Theodotus of Kyrenia"
+name: Saint Theodotus of Kyrenia
 honorific: Saint
-summary: "Bishop of Kyrenia, Cyprus. Imprisoned, tortured and executed in the persecutions of Licinius. Martyr."
+summary: Bishop of Kyrenia, Cyprus. Imprisoned, tortured and executed in the persecutions of Licinius. Martyr.
 searchAliases:
-  - "Theodotus of Cyprus"
-region: "England"
+  - Theodotus of Cyprus
+region: England
 feastDay:
   month: 5
   day: 6
@@ -14,6 +14,7 @@ vocation:
   - Bishop
   - Monk
 martyr: true
+prayers: []
 ---
 
 Bishop of Kyrenia, Cyprus. Imprisoned, tortured and executed in the persecutions of Licinius. Martyr.

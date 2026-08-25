@@ -19,6 +19,7 @@ canonizationStatus: Blessed
 vocation: []
 religiousOrder: Franciscan
 martyr: false
+prayers: []
 ---
 
 Franciscan friar and preacher based in the convent of Fermo, Italy. Legend says that when he preached outdoors he would tell the birds to keep quiet, and, of course, they would. Once, having gotten lost in a forest, he encountered a wolf; he asked it to lead him to his original destination, and, of course, it did.

@@ -1,57 +1,66 @@
 ---
-name: "Saint Giles"
+name: Saint Giles
 honorific: Saint
-summary: "Born to a wealthy noble family, when his parents died, Giles gave his fortune to help the poor. Known as a miracle worker. To avoid followers and adulation, he left Greece c.683 for France where he lived as a hermit in a cave in the diocese of Nimes, a cave whose mouth was guarde"
-image: "https://upload.wikimedia.org/wikipedia/commons/e/e9/Saint_Giles_closeup.jpg"
+summary: >-
+  Born to a wealthy noble family, when his parents died, Giles gave his fortune to help the poor. Known as a miracle
+  worker. To avoid followers and adulation, he left Greece c.683 for France where he lived as a hermit in a cave in the
+  diocese of Nimes, a cave whose mouth was guarde
+image: https://upload.wikimedia.org/wikipedia/commons/e/e9/Saint_Giles_closeup.jpg
 searchAliases:
-  - "Aegidius, Aegidus, Aigeides, Aigigios, Egidio, Egidius, Egydius, Gil, Gilg, Gilgen, Gilgian, Gilles, Ilg, Ilgen, Jilg"
+  - >-
+    Aegidius, Aegidus, Aigeides, Aigigios, Egidio, Egidius, Egydius, Gil, Gilg, Gilgen, Gilgian, Gilles, Ilg, Ilgen,
+    Jilg
 deathYear: 710
-born: "at Athens, Greece"
-died: "between 710 and 724 in France of natural causes"
-birthPlace: "Greece"
-region: "Scotland"
+born: at Athens, Greece
+died: between 710 and 724 in France of natural causes
+birthPlace: Greece
+region: Scotland
 feastDay:
   month: 9
   day: 1
 canonizationStatus: Saint
 vocation:
   - Priest
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 patronage:
-  - "abandoned people; against abandonment"
-  - "against breast cancer"
-  - "against epilepsy"
-  - "against fear of night"
-  - "against insanity"
-  - "against leprosy"
-  - "against mental illness"
-  - "against noctiphobia"
-  - "against sterility"
-  - "beggars"
-  - "blacksmiths"
-  - "breast feeding"
-  - "cancer patients"
-  - "cripples"
-  - "disabled people"
-  - "epileptics"
-  - "forests"
-  - "handicapped people"
-  - "hermits"
-  - "horses"
-  - "lepers"
-  - "mentally ill people"
-  - "mothers"
-  - "noctiphobics"
-  - "physically challenged people"
-  - "paupers"
-  - "poor people"
-  - "rams"
-  - "spur makers"
-  - "woods"
-  - "—"
-  - "in Austria\n\nGraz"
-  - "Klagenfurt"
+  - abandoned people; against abandonment
+  - against breast cancer
+  - against epilepsy
+  - against fear of night
+  - against insanity
+  - against leprosy
+  - against mental illness
+  - against noctiphobia
+  - against sterility
+  - beggars
+  - blacksmiths
+  - breast feeding
+  - cancer patients
+  - cripples
+  - disabled people
+  - epileptics
+  - forests
+  - handicapped people
+  - hermits
+  - horses
+  - lepers
+  - mentally ill people
+  - mothers
+  - noctiphobics
+  - physically challenged people
+  - paupers
+  - poor people
+  - rams
+  - spur makers
+  - woods
+  - —
+  - |-
+    in Austria
+
+    Graz
+  - Klagenfurt
 martyr: true
+prayers: []
 ---
 
 Born to a wealthy noble family, when his parents died, Giles gave his fortune to help the poor. Known as a miracle worker. To avoid followers and adulation, he left Greece c.683 for France where he lived as a hermit in a cave in the diocese of Nimes, a cave whose mouth was guarded by a thick thorn bush, and a lifestyle so impoverished that, legend says, God sent a deer to Giles to nourish him with her milk.

@@ -1,19 +1,22 @@
 ---
-name: "Saint Vladimir I of Kiev"
+name: Saint Vladimir I of Kiev
 honorific: Saint
-summary: "Grandson of Saint Olga of Kiev. Son of the pagan Norman-Rus prince Svyatoslav of Kiev and his consort Malushka. Grand prince of Kiev. Prince of Novgorod in 970. On the death of his father in 972, he fled to Scandinavia, enlisted help from an uncle, and overcame Yaropolk, another"
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Vladimir-I-of-Kiev.jpg"
+summary: >-
+  Grandson of Saint Olga of Kiev. Son of the pagan Norman-Rus prince Svyatoslav of Kiev and his consort Malushka. Grand
+  prince of Kiev. Prince of Novgorod in 970. On the death of his father in 972, he fled to Scandinavia, enlisted help
+  from an uncle, and overcame Yaropolk, another
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Vladimir-I-of-Kiev.jpg
 searchAliases:
-  - "Svyatoy Vladimir"
-  - "Vladimir Svyatoslavich"
-  - "Vladimir the Great"
-  - "Vladimir Veliky"
+  - Svyatoy Vladimir
+  - Vladimir Svyatoslavich
+  - Vladimir the Great
+  - Vladimir Veliky
 birthYear: 956
 deathYear: 1015
-born: "956 at Kiev as Vladimir Svyatoslavich"
-died: "15 July 1015 at Berestova, near Kiev"
-deathPlace: "near Kiev"
-region: "Poland"
+born: 956 at Kiev as Vladimir Svyatoslavich
+died: 15 July 1015 at Berestova, near Kiev
+deathPlace: near Kiev
+region: Poland
 feastDay:
   month: 7
   day: 15
@@ -23,16 +26,17 @@ vocation:
   - Monk
   - Religious
 patronage:
-  - "converts"
-  - "parents of large families"
-  - "reformed and penitent murderers"
-  - "—"
-  - "Russia"
-  - "–"
-  - "Kiev, Ukraine"
-  - "Ukrainian Catholic Diocese of Stamford, Connecticut, United States"
-  - "Winnipeg, Manitoba, archeparchy of"
+  - converts
+  - parents of large families
+  - reformed and penitent murderers
+  - —
+  - Russia
+  - –
+  - Kiev, Ukraine
+  - Ukrainian Catholic Diocese of Stamford, Connecticut, United States
+  - Winnipeg, Manitoba, archeparchy of
 martyr: true
+prayers: []
 ---
 
 Grandson of Saint Olga of Kiev. Son of the pagan Norman-Rus prince Svyatoslav of Kiev and his consort Malushka. Grand prince of Kiev. Prince of Novgorod in 970. On the death of his father in 972, he fled to Scandinavia, enlisted help from an uncle, and overcame Yaropolk, another son of Svyatoslav, who had attempted to seize Novgorod and Kiev. By 980 Vladimir had consolidated the Kievan realm from Ukraine to the Baltic Sea, and had solidified the frontiers against Bulgarian, Baltic, and Eastern nomads.

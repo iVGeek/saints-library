@@ -38,6 +38,7 @@ patronage:
   - Lennox, Scotland
   - Scotland
 martyr: true
+prayers: []
 ---
 
 Son of the king of Cashel, Ireland, Kessel grew up a pious child, and was known as a miracle worker. Missionary bishop to Scotland in the area of Lennox and southern Perthshire, working from Monk's Island in Loch Lomond. May have been martyred at Bandry, Scotland, but records are unclear. His name was used as a battle cry by the Scots, and the Kessog oil field in the North Sea is named after him.

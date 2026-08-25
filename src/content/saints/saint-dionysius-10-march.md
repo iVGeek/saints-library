@@ -1,18 +1,21 @@
 ---
-name: "Saint Dionysius of Corinth"
+name: Saint Dionysius of Corinth
 honorific: Saint
-summary: "During the persecution of Emperor Valerian he was arrested for his faith, tortured, and martyred with a group of fellow Christians."
-born: "Greek"
-died: "thrown to wild animals"
-region: "Greece"
+summary: >-
+  During the persecution of Emperor Valerian he was arrested for his faith, tortured, and martyred with a group of
+  fellow Christians.
+born: Greek
+died: thrown to wild animals
+region: Greece
 feastDay:
   month: 3
   day: 10
 canonizationStatus: Saint
-image: "https://upload.wikimedia.org/wikipedia/commons/6/66/Dionysius_Of_Corinth%2C_St.png"
+image: https://upload.wikimedia.org/wikipedia/commons/6/66/Dionysius_Of_Corinth%2C_St.png
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 During the persecution of Emperor Valerian he was arrested for his faith, tortured, and martyred with a group of fellow Christians.

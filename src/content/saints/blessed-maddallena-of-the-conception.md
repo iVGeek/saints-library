@@ -1,11 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Maddallena of the Conception"
+name: Blessed Maddallena of the Conception
 honorific: Blessed
-summary: "Mercedarian nun at the monastery of the Assumption in Seville, Spain. Had a great devotion to prayer for souls in Purgatory."
+summary: >-
+  Mercedarian nun at the monastery of the Assumption in Seville, Spain. Had a great devotion to prayer for souls in
+  Purgatory.
 searchAliases:
-  - "Magdalene"
-region: "Spain"
+  - Magdalene
+region: Spain
 feastDay:
   month: 6
   day: 8
@@ -13,6 +15,7 @@ canonizationStatus: Blessed
 vocation:
   - Religious
 martyr: false
+prayers: []
 ---
 
 Mercedarian nun at the monastery of the Assumption in Seville, Spain. Had a great devotion to prayer for souls in Purgatory.

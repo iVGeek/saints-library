@@ -1,14 +1,14 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Francisco Izquierdo Pérez"
+name: Blessed Francisco Izquierdo Pérez
 honorific: Blessed
-summary: "Layman of the diocese of Córdoba Martyred in the Spanish Civil War."
+summary: Layman of the diocese of Córdoba Martyred in the Spanish Civil War.
 birthYear: 1918
 deathYear: 1936
-born: "1918"
-died: "4 August 1936 in El Carpio, Córdoba, Spain"
-deathPlace: "Córdoba, Spain"
-region: "Spain"
+born: '1918'
+died: 4 August 1936 in El Carpio, Córdoba, Spain
+deathPlace: Córdoba, Spain
+region: Spain
 feastDay:
   month: 8
   day: 4
@@ -16,6 +16,7 @@ canonizationStatus: Blessed
 vocation:
   - Cardinal
 martyr: true
+prayers: []
 ---
 
 Layman of the diocese of Córdoba Martyred in the Spanish Civil War.

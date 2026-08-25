@@ -28,6 +28,7 @@ martyr: true
 lifeEvents:
   - year: '1562'
     event: Born at Tsunokuni.
+prayers: []
 ---
 
 Born wealthy, the son of the military leader Miki Handayu. Paul felt a call to religous life from his youth. Jesuit in 1580, educated at the Jesuit college at Azuchi and Takatsuki. Successful evangelist. When the political climate became hostile to Christianity, he decided to continue his ministry, was soon arrested. On his way to martydom, he and other imprisoned Christians were marched 600 miles so they could be abused by, and be a lesson to, their countrymen; they sang the Te Deum on the way. His last sermon was delivered from the cross. One of the Martyrs of Nagasaki.

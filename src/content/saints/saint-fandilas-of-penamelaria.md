@@ -25,6 +25,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/2/28/EulogioCordovamart.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Fandilas of Penamelaria
 imageCreditUrl: https://en.wikipedia.org/wiki/Martyrs%20of%20C%C3%B3rdoba
+prayers: []
 ---
 
 Monk at Cordova, Spain. Priest. Abbot of the monastery of Peñamelaria near Cordova. Martyred by order of the Moorish emir.

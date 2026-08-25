@@ -1,30 +1,36 @@
 ---
-name: "Blessed Erik IV of Denmark"
+name: Blessed Erik IV of Denmark
 honorific: Blessed
-summary: "Born a prince, the son of King Valdemar II of Denmark and Berengaria of Portugal; great-grandson of Saint Canute Lavard; brother of King Abel of Denmark and King Christopher I of Denmark. Co-ruler of Denmark on 30 May 1232, becoming fully king of Denmark when his father died in 1"
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Erik-IV-of-Denmark.jpg"
+summary: >-
+  Born a prince, the son of King Valdemar II of Denmark and Berengaria of Portugal; great-grandson of Saint Canute
+  Lavard; brother of King Abel of Denmark and King Christopher I of Denmark. Co-ruler of Denmark on 30 May 1232,
+  becoming fully king of Denmark when his father died in 1
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Erik-IV-of-Denmark.jpg
 searchAliases:
-  - "Erik Ploughpenny"
-  - "Erik Plowpenny"
-  - "Erik Plovpenning"
-  - "Erik Plow Money"
-  - "Erik Plogpenning"
-  - "Eric…"
-  - "Erick…"
+  - Erik Ploughpenny
+  - Erik Plowpenny
+  - Erik Plovpenning
+  - Erik Plow Money
+  - Erik Plogpenning
+  - Eric…
+  - Erick…
 birthYear: 1216
 deathYear: 1250
-born: "c.1216"
-died: "beheaded on 10 August 1250 in a boat just off shore near Gottorf Castle in Schlei (in modern Schleswig-Holstein, Germany)"
-deathPlace: "Germany)"
-region: "Scandinavia"
+born: c.1216
+died: >-
+  beheaded on 10 August 1250 in a boat just off shore near Gottorf Castle in Schlei (in modern Schleswig-Holstein,
+  Germany)
+deathPlace: Germany)
+region: Scandinavia
 feastDay:
   month: 8
   day: 10
 canonizationStatus: Blessed
 vocation:
   - Priest
-religiousOrder: "Dominican"
+religiousOrder: Dominican
 martyr: true
+prayers: []
 ---
 
 Born a prince, the son of King Valdemar II of Denmark and Berengaria of Portugal; great-grandson of Saint Canute Lavard; brother of King Abel of Denmark and King Christopher I of Denmark. Co-ruler of Denmark on 30 May 1232, becoming fully king of Denmark when his father died in 1241. Married to Jutta of Saxony on 17 November 1239, and the father of six, two of whom died in infancy.

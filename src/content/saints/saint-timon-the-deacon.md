@@ -1,13 +1,16 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Timon the Deacon"
+name: Saint Timon the Deacon
 honorific: Saint
-summary: "1st century convert. One of the first seven deacons chosen and ordained by the Apostles. May have been one of the original 72 disciples chosen by Christ. Missionary in the area of Berea and then Corinth in Greece where he may have been considered a bishop. Miracle worker. Martyr."
+summary: >-
+  1st century convert. One of the first seven deacons chosen and ordained by the Apostles. May have been one of the
+  original 72 disciples chosen by Christ. Missionary in the area of Berea and then Corinth in Greece where he may have
+  been considered a bishop. Miracle worker. Martyr.
 searchAliases:
-  - "Timone"
-died: "crucified in Corinth, Greece"
-deathPlace: "Greece"
-region: "Greece"
+  - Timone
+died: crucified in Corinth, Greece
+deathPlace: Greece
+region: Greece
 feastDay:
   month: 4
   day: 19
@@ -18,6 +21,7 @@ vocation:
   - Deacon
   - Missionary
 martyr: true
+prayers: []
 ---
 
 1st century convert. One of the first seven deacons chosen and ordained by the Apostles. May have been one of the original 72 disciples chosen by Christ. Missionary in the area of Berea and then Corinth in Greece where he may have been considered a bishop. Miracle worker. Martyr.

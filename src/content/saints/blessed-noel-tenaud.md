@@ -1,15 +1,15 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Noël Tenaud"
+name: Blessed Noël Tenaud
 honorific: Blessed
-summary: "Member of the Paris Foreign Missions Society. Priest. Martyr."
+summary: Member of the Paris Foreign Missions Society. Priest. Martyr.
 birthYear: 1904
 deathYear: 1961
-born: "11 November 1904 in Rocheservière, Vendée, France"
-died: "27 April 1961 in Muang  Phalane, Savannakhet, Laos"
-birthPlace: "Vendée, France"
-deathPlace: "Savannakhet, Laos"
-region: "France"
+born: 11 November 1904 in Rocheservière, Vendée, France
+died: 27 April 1961 in Muang  Phalane, Savannakhet, Laos
+birthPlace: Vendée, France
+deathPlace: Savannakhet, Laos
+region: France
 feastDay:
   month: 4
   day: 27
@@ -18,6 +18,7 @@ vocation:
   - Priest
   - Cardinal
 martyr: true
+prayers: []
 ---
 
 Member of the Paris Foreign Missions Society. Priest. Martyr.

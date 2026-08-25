@@ -16,6 +16,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/b/b7/Portrait_of_Terence_from_Vaticana%2C_Vat._lat.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Eunuchus of Africa
 imageCreditUrl: https://en.wikipedia.org/wiki/Terence
+prayers: []
 ---
 
 Martyr. No other detail have survived.

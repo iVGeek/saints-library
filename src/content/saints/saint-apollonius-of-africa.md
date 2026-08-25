@@ -16,6 +16,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/3/3f/Philosopher%2C_probably_Apollonius_of_Tyana%2C_marble%2C_ca_200_AD%2C_from_Gortys%2C_AMH%2C_145418.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Apollonius of Africa
 imageCreditUrl: https://en.wikipedia.org/wiki/Apollonius%20of%20Tyana
+prayers: []
 ---
 
 Martyr. No other detail have survived.

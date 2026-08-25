@@ -1,14 +1,14 @@
 ---
-name: "Saint Agrippinus of Naples"
+name: Saint Agrippinus of Naples
 honorific: Saint
-summary: "Bishop of Naples, Italy."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Agrippinus-of-Naples.jpg"
+summary: Bishop of Naples, Italy.
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Agrippinus-of-Naples.jpg
 searchAliases:
-  - "Agrippino"
-  - "Arpinus"
+  - Agrippino
+  - Arpinus
 deathYear: 300
-died: "c.300 of natural causes"
-region: "Italy"
+died: c.300 of natural causes
+region: Italy
 feastDay:
   month: 11
   day: 9
@@ -18,8 +18,9 @@ vocation:
   - Monk
   - Cardinal
 patronage:
-  - "Arzano, Italy"
+  - Arzano, Italy
 martyr: false
+prayers: []
 ---
 
 Bishop of Naples, Italy.

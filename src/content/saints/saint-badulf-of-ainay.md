@@ -1,14 +1,14 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Badulf of Ainay"
+name: Saint Badulf of Ainay
 honorific: Saint
-summary: "Monk. Abbot of Ainay Abbey near Lyons, France."
+summary: Monk. Abbot of Ainay Abbey near Lyons, France.
 searchAliases:
-  - "Badour"
-  - "Badolf"
+  - Badour
+  - Badolf
 deathYear: 850
-died: "c.850"
-region: "France"
+died: c.850
+region: France
 feastDay:
   month: 8
   day: 19
@@ -16,6 +16,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: false
+prayers: []
 ---
 
 Monk. Abbot of Ainay Abbey near Lyons, France.

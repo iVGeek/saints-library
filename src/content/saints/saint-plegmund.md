@@ -1,13 +1,15 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Plegmund of Canterbury"
+name: Saint Plegmund of Canterbury
 honorific: Saint
-summary: "Noted scholar. Tutor to King Alfred. Archbishop of Canterbury, England. Restored the Church in England after the attacks of pagan Danes. The hermitage at Plemstall, Plegmundstow, was named after him."
+summary: >-
+  Noted scholar. Tutor to King Alfred. Archbishop of Canterbury, England. Restored the Church in England after the
+  attacks of pagan Danes. The hermitage at Plemstall, Plegmundstow, was named after him.
 deathYear: 923
-born: "Cheshire, England"
-died: "923"
-birthPlace: "England"
-region: "England"
+born: Cheshire, England
+died: '923'
+birthPlace: England
+region: England
 feastDay:
   month: 8
   day: 2
@@ -17,6 +19,7 @@ vocation:
   - Monk
   - Hermit
 martyr: false
+prayers: []
 ---
 
 Noted scholar. Tutor to King Alfred. Archbishop of Canterbury, England. Restored the Church in England after the attacks of pagan Danes. The hermitage at Plemstall, Plegmundstow, was named after him.

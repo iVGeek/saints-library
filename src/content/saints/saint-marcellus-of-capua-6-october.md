@@ -1,9 +1,9 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Marcellus of Capua"
+name: Saint Marcellus of Capua
 honorific: Saint
-summary: "Martyr who was either killed in Capua, Italy, or that's where his relics were first enshrined."
-region: "Italy"
+summary: Martyr who was either killed in Capua, Italy, or that's where his relics were first enshrined.
+region: Italy
 feastDay:
   month: 10
   day: 6
@@ -11,6 +11,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Martyr who was either killed in Capua, Italy, or that's where his relics were first enshrined.

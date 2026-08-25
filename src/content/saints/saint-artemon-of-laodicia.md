@@ -20,6 +20,7 @@ imageCredit: >-
   <a rel="nofollow" class="external free"
   href="http://www.svetigora.com/node/1007">http://www.svetigora.com/node/1007</a>
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:Artemon.jpg
+prayers: []
 ---
 
 Priest. Martyred in the persecutions of Diocletian.

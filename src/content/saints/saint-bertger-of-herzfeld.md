@@ -1,12 +1,12 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Bertger of Herzfeld"
+name: Saint Bertger of Herzfeld
 honorific: Saint
-summary: "Priest in Herzfeld, Germany. Spiritual director and confessor of Saint Ida of Herzfeld."
+summary: Priest in Herzfeld, Germany. Spiritual director and confessor of Saint Ida of Herzfeld.
 deathYear: 830
-died: "c.830 in Herzfeld, Germany of natural causes while celebrating Mass"
-deathPlace: "Germanynatural causes while celebrating Mass"
-region: "Germany"
+died: c.830 in Herzfeld, Germany of natural causes while celebrating Mass
+deathPlace: Germanynatural causes while celebrating Mass
+region: Germany
 feastDay:
   month: 11
   day: 26
@@ -16,6 +16,7 @@ vocation:
   - Monk
   - Confessor
 martyr: false
+prayers: []
 ---
 
 Priest in Herzfeld, Germany. Spiritual director and confessor of Saint Ida of Herzfeld.

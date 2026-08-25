@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Elaphius of Châlons"
+name: Saint Elaphius of Châlons
 honorific: Saint
-summary: "Bishop of Châlons-sur-Marne, France. Envoy to Spain."
+summary: Bishop of Châlons-sur-Marne, France. Envoy to Spain.
 deathYear: 580
-died: "580 of natural causes in Spain while on a pilgrimage to the relics of Saint Eulalia of Merida"
-region: "France"
+died: 580 of natural causes in Spain while on a pilgrimage to the relics of Saint Eulalia of Merida
+region: France
 feastDay:
   month: 8
   day: 19
@@ -14,6 +14,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Bishop of Châlons-sur-Marne, France. Envoy to Spain.

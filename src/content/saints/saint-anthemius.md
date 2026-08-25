@@ -19,6 +19,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/1/18/Satellite_picture_of_Brittany_-_NASA%2C_2002.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Anthemius of Poitiers
 imageCreditUrl: https://en.wikipedia.org/wiki/Brittany
+prayers: []
 ---
 
 Eighth century bishop of Poitiers, France. Evangelized the Saintonge region. Accompanied Charlemagne to Spain where he was martyred.

@@ -1,16 +1,19 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Palaemon of Thebaid"
+name: Saint Palaemon of Thebaid
 honorific: Saint
-summary: "During the persecutions of Diocletian, he sought refuge in the deserts of Upper Egypt, and became one of the earliest Egyptian desert hermits. Friend and spiritual director of Saint Pachomius of Tabenna. Worked to develop the spiritual lives of other desert hermits by bringing th"
+summary: >-
+  During the persecutions of Diocletian, he sought refuge in the deserts of Upper Egypt, and became one of the earliest
+  Egyptian desert hermits. Friend and spiritual director of Saint Pachomius of Tabenna. Worked to develop the spiritual
+  lives of other desert hermits by bringing th
 searchAliases:
-  - "Palamon"
-  - "Palemon"
-  - "Palemone"
+  - Palamon
+  - Palemon
+  - Palemone
 deathYear: 325
-died: "325 at Tabennisi, Egypt"
-deathPlace: "Egypt"
-region: "Egypt"
+died: 325 at Tabennisi, Egypt
+deathPlace: Egypt
+region: Egypt
 feastDay:
   month: 1
   day: 25
@@ -19,6 +22,7 @@ vocation:
   - Monk
   - Hermit
 martyr: false
+prayers: []
 ---
 
 During the persecutions of Diocletian, he sought refuge in the deserts of Upper Egypt, and became one of the earliest Egyptian desert hermits. Friend and spiritual director of Saint Pachomius of Tabenna. Worked to develop the spiritual lives of other desert hermits by bringing them together; this was part of the foundation of Christian monasticism.

@@ -1,17 +1,18 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Anastasius VIII"
+name: Saint Anastasius VIII
 honorific: Saint
-summary: "Martyr. No other information has survived."
-died: "4th century at Syrmium, Pannonia (modern Sremska Mitrovica, Vojvodina, Serbia)"
-deathPlace: "Pannonia (modern Sremska Mitrovica, Vojvodina, Serbia)"
-region: "England"
+summary: Martyr. No other information has survived.
+died: 4th century at Syrmium, Pannonia (modern Sremska Mitrovica, Vojvodina, Serbia)
+deathPlace: Pannonia (modern Sremska Mitrovica, Vojvodina, Serbia)
+region: England
 feastDay:
   month: 1
   day: 6
 canonizationStatus: Saint
 vocation: []
 martyr: true
+prayers: []
 ---
 
 Martyr. No other information has survived.

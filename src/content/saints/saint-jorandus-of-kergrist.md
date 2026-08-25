@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Jorandus of Kergrist"
+name: Saint Jorandus of Kergrist
 honorific: Saint
-summary: "Benedictine monk and hermit at Kergrist, France. Hermit at Saint-Juhee monastery at Pedernec, France."
+summary: Benedictine monk and hermit at Kergrist, France. Hermit at Saint-Juhee monastery at Pedernec, France.
 deathYear: 1340
-died: "1340"
-region: "France"
+died: '1340'
+region: France
 feastDay:
   month: 11
   day: 2
@@ -13,8 +13,9 @@ canonizationStatus: Saint
 vocation:
   - Monk
   - Hermit
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 martyr: false
+prayers: []
 ---
 
 Benedictine monk and hermit at Kergrist, France. Hermit at Saint-Juhee monastery at Pedernec, France.

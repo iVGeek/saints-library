@@ -1,13 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Walter Eustace"
+name: Blessed Walter Eustace
 honorific: Blessed
-summary: "Layman of the archdiocese of Dublin, Ireland. One of the Irish Martyrs."
+summary: Layman of the archdiocese of Dublin, Ireland. One of the Irish Martyrs.
 deathYear: 1583
-born: "Irish"
-died: "martryed on 14 June 1583 in Dublin, Ireland"
-deathPlace: "Ireland"
-region: "Ireland"
+born: Irish
+died: martryed on 14 June 1583 in Dublin, Ireland
+deathPlace: Ireland
+region: Ireland
 feastDay:
   month: 6
   day: 14
@@ -15,6 +15,7 @@ canonizationStatus: Blessed
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Layman of the archdiocese of Dublin, Ireland. One of the Irish Martyrs.

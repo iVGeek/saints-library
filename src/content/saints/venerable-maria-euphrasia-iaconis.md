@@ -1,28 +1,34 @@
 ---
-name: "Venerable Maria Euphrasia Iaconis"
+name: Venerable Maria Euphrasia Iaconis
 honorific: Venerable
-summary: "The daughter of Luigi Antonio Iaconis and Maria Antonia Spina, she was baptized at the age of 9 days. Her aunt, Mother Maria Fabiano, founded the Charity Sisters, Daughters of the Immaculate Conception; Sofia joined the Sisters on 16 July 1886, taking the name Sister Euphrasia. S"
-image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Maria-Euphrasia-Iaconis.jpg"
+summary: >-
+  The daughter of Luigi Antonio Iaconis and Maria Antonia Spina, she was baptized at the age of 9 days. Her aunt, Mother
+  Maria Fabiano, founded the Charity Sisters, Daughters of the Immaculate Conception; Sofia joined the Sisters on 16
+  July 1886, taking the name Sister Euphrasia. S
+image: http://catholicsaints.info/wp-content/uploads/img-Venerable-Maria-Euphrasia-Iaconis.jpg
 searchAliases:
-  - "Maria Giuseppina Amalia Sofia Iaconis"
-  - "Sister Euphrasia"
-  - "Mother Euphrasia"
+  - Maria Giuseppina Amalia Sofia Iaconis
+  - Sister Euphrasia
+  - Mother Euphrasia
 birthYear: 1867
 deathYear: 1916
-born: "18 November 1867 in Casino di Calabria (modern Castelsilano), Italy"
-died: "2 August 1916 at the Pirovano Hospital in Buenos Aires, Argentina from cancer"
-birthPlace: "Italy"
-deathPlace: "Argentinacancer"
-region: "Argentina"
+born: 18 November 1867 in Casino di Calabria (modern Castelsilano), Italy
+died: 2 August 1916 at the Pirovano Hospital in Buenos Aires, Argentina from cancer
+birthPlace: Italy
+deathPlace: Argentinacancer
+region: Argentina
 feastDay:
   month: 7
   day: 16
-centuries: [19, 20]
+centuries:
+  - 19
+  - 20
 canonizationStatus: Venerable
 vocation:
   - Bishop
   - Religious
 martyr: false
+prayers: []
 ---
 
 The daughter of Luigi Antonio Iaconis and Maria Antonia Spina, she was baptized at the age of 9 days. Her aunt, Mother Maria Fabiano, founded the Charity Sisters, Daughters of the Immaculate Conception; Sofia joined the Sisters on 16 July 1886, taking the name Sister Euphrasia. She moved to Rome, Italy in 1887, made her profession on 16 July 1888, and became Superior in Rome on 1 January 1889.

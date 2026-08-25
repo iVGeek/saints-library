@@ -1,15 +1,15 @@
 ---
-name: "Saint Annobert of Séez"
+name: Saint Annobert of Séez
 honorific: Saint
-summary: "Monk at Almenèches, France. Bishop of Séez, France c.685."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Annobert-of-Séez.jpg"
+summary: Monk at Almenèches, France. Bishop of Séez, France c.685.
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Annobert-of-Séez.jpg
 searchAliases:
-  - "Alnobert"
-  - "Alnobertus"
-  - "Aunobert"
+  - Alnobert
+  - Alnobertus
+  - Aunobert
 deathYear: 689
-died: "c.689"
-region: "France"
+died: c.689
+region: France
 feastDay:
   month: 5
   day: 16
@@ -18,6 +18,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Monk at Almenèches, France. Bishop of Séez, France c.685.

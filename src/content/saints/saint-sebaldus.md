@@ -24,4 +24,5 @@ patronage:
   - Bavaria, Germany
   - Nuremberg, Germany
 martyr: false
+prayers: []
 ---

@@ -32,6 +32,7 @@ religiousOrder: Dominican
 patronage:
   - against rickets
 martyr: false
+prayers: []
 ---
 
 At the age of sixteen months, Marie broke her hip in a fall that left her crippled. Her mother, refusing to give up, carried the child to a local Pieta statue each day to pray. On 8 September 1774, having seen her mother spend hours in prayer, Marie was suddenly able to walk. However, the effects of her early immobility, and the rickets she suffered, stayed with her, and even as an adult she stood only four foot, four inches tall.

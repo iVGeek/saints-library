@@ -15,6 +15,7 @@ canonizationStatus: Blessed
 vocation:
   - Hermit
 martyr: false
+prayers: []
 ---
 
 Hermitess.

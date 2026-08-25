@@ -1,23 +1,26 @@
 ---
-name: "Saint Malachy O'More"
+name: Saint Malachy O'More
 honorific: Saint
-summary: "Son of a teacher; brother of Saint Christian O'Morgair of Clogher. Upon the death of his parents, Malachy entered religious life. Ordained at age 25. Studied under Saint Malchus. Preacher and clerical reformer. Instituted celibacy regulations and other disciplines on the Irish cl"
-image: "http://catholicsaints.info/wp-content/gallery/pictorial-lives-of-the-saints/saint-malachi-bishop.jpg"
+summary: >-
+  Son of a teacher; brother of Saint Christian O'Morgair of Clogher. Upon the death of his parents, Malachy entered
+  religious life. Ordained at age 25. Studied under Saint Malchus. Preacher and clerical reformer. Instituted celibacy
+  regulations and other disciplines on the Irish cl
+image: http://catholicsaints.info/wp-content/gallery/pictorial-lives-of-the-saints/saint-malachi-bishop.jpg
 searchAliases:
-  - "Maelmhaedhoc O'Morgair"
-  - "Maolmhaodhog ua Morgair"
-  - "Maol Maedoc"
-  - "Malachy O'Morgair"
-  - "Malachi"
-  - "Malachy of Armagh"
-  - "Máel Máedóc Ua Morgair"
+  - Maelmhaedhoc O'Morgair
+  - Maolmhaodhog ua Morgair
+  - Maol Maedoc
+  - Malachy O'Morgair
+  - Malachi
+  - Malachy of Armagh
+  - Máel Máedóc Ua Morgair
 birthYear: 1094
 deathYear: 1148
-born: "1094 at Armagh, Ireland"
-died: "2 November 1148 at Clairvaux Abbey, France of natural causes"
-birthPlace: "Ireland"
-deathPlace: "Francenatural causes"
-region: "Ireland"
+born: 1094 at Armagh, Ireland
+died: 2 November 1148 at Clairvaux Abbey, France of natural causes
+birthPlace: Ireland
+deathPlace: Francenatural causes
+region: Ireland
 feastDay:
   month: 11
   day: 3
@@ -25,12 +28,16 @@ canonizationStatus: Saint
 vocation:
   - Confessor
 patronage:
-  - "Ireland"
-  - "–"
-  - "in Ireland\n\nArmagh, archdiocese of"
-  - "Down, city of"
-  - "Down and Connor, diocese of"
+  - Ireland
+  - –
+  - |-
+    in Ireland
+
+    Armagh, archdiocese of
+  - Down, city of
+  - Down and Connor, diocese of
 martyr: false
+prayers: []
 ---
 
 Son of a teacher; brother of Saint Christian O'Morgair of Clogher. Upon the death of his parents, Malachy entered religious life. Ordained at age 25. Studied under Saint Malchus. Preacher and clerical reformer. Instituted celibacy regulations and other disciplines on the Irish clergy. Re-introduced the use of canonical hour prayers. Abbot at Bangor. Bishop of Connor, Ireland at age 30. Archbishop of Armagh, Ireland at age 35, the chosen successor of Saint Celsus of Armagh. Spiritual teacher of Blessed Christian O'Conarchy.

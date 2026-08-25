@@ -1,23 +1,24 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Maximino Fernández Marinas"
+name: Blessed Maximino Fernández Marinas
 honorific: Blessed
-summary: "Dominican priest. Martyred in the Spanish Civil War."
+summary: Dominican priest. Martyred in the Spanish Civil War.
 birthYear: 1867
 deathYear: 1936
-born: "2 November 1867 in Casteñedo de Valdés, Luarca, Asturias, Spain"
-died: "5 August 1936 in Madrid, Spain"
-birthPlace: "Luarca, Asturias, Spain"
-deathPlace: "Spain"
-region: "Spain"
+born: 2 November 1867 in Casteñedo de Valdés, Luarca, Asturias, Spain
+died: 5 August 1936 in Madrid, Spain
+birthPlace: Luarca, Asturias, Spain
+deathPlace: Spain
+region: Spain
 feastDay:
   month: 8
   day: 5
 canonizationStatus: Blessed
 vocation:
   - Priest
-religiousOrder: "Dominican"
+religiousOrder: Dominican
 martyr: true
+prayers: []
 ---
 
 Dominican priest. Martyred in the Spanish Civil War.

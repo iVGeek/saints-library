@@ -23,6 +23,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/7/7b/Stemma_777venc.gif?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Aegidius of Sansepolcro
 imageCreditUrl: https://en.wikipedia.org/wiki/Order%20of%20Saint%20Augustine
+prayers: []
 ---
 
 With Saint Arcanus he made a pilgrimage to Palestine where they collected relics which they brought back to Italy in the mid- to late-10th century. They founded a Benedictine monastery, which grew into Borgo San Sepulcro (modern Sansepolcro), Italy, to house them.

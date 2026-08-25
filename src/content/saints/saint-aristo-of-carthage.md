@@ -21,6 +21,7 @@ imageAlt: Portrait of Saint Aristo of Carthage
 imageCredit: Bibliothèque nationale de France
 imageCreditUrl: >-
   https://commons.wikimedia.org/wiki/File:Xerxes%20-%20opera%20italien%20-%20orn%C3%A9%20d'entr%C3%A9es%20de%20ballet%20-%20represent%C3%A9%20dans%20la%20grande%20galerie%20des%20-%20peintures%20du%20louvre%20devant%20le%20Roy%20-%20apr%C3%A8s%20son%20mariage%20avec%20marie%20therese%20-%20d'autriche%20infante...%20-%20bpt6k123467f%20(052%20of%20331).jpg
+prayers: []
 ---
 
 Martyred in the persecutions of Decius.

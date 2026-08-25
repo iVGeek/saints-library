@@ -21,6 +21,7 @@ imageCredit: >-
   maximum zoom level
 imageCreditUrl: >-
   https://commons.wikimedia.org/wiki/File:Guercino%20-%20Burial%20of%20Saint%20Petronilla%20-%20Google%20Art%20Project.jpg
+prayers: []
 ---
 
 Martyred in the persecutions of Diocletian.

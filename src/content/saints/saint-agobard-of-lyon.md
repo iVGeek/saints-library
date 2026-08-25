@@ -22,6 +22,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/0/00/007._Photo_prise_depuis_les_toits_de_la_Basilique_Notre-Dame_de_Fourvi%C3%A8re.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Agobard of Lyon
 imageCreditUrl: https://en.wikipedia.org/wiki/Archdiocese%20of%20Lyon
+prayers: []
 ---
 
 Refugee to France in his youth, escaping the Moorish invasions of Spain. Priest at Lyon, France. Archbishop of Lyons in 813. Deeply involved in the politics of his day, he was exiled from 835 to 838. Wrote works on theology and the liturgy.

@@ -1,15 +1,15 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Teófilo Casajús Alduán"
+name: Blessed Teófilo Casajús Alduán
 honorific: Blessed
-summary: "Member of the Claretians. Martyred in the Spanish Civil War."
+summary: Member of the Claretians. Martyred in the Spanish Civil War.
 birthYear: 1914
 deathYear: 1936
-born: "3 November 1914 in Murchante, Navarra, Spain"
-died: "26 July 1936 in Lleida, Spain"
-birthPlace: "Navarra, Spain"
-deathPlace: "Spain"
-region: "Spain"
+born: 3 November 1914 in Murchante, Navarra, Spain
+died: 26 July 1936 in Lleida, Spain
+birthPlace: Navarra, Spain
+deathPlace: Spain
+region: Spain
 feastDay:
   month: 7
   day: 26
@@ -18,6 +18,7 @@ vocation:
   - Bishop
   - Cardinal
 martyr: true
+prayers: []
 ---
 
 Member of the Claretians. Martyred in the Spanish Civil War.

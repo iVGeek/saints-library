@@ -1,27 +1,33 @@
 ---
-name: "Venerable Aureliano of the Blessed Sacrament"
+name: Venerable Aureliano of the Blessed Sacrament
 honorific: Venerable
-summary: "Entered the novitiate of the Teresian Carmel of Larrea at age 15, taking the name Aureliano. Ordained at age 23. Missionary to India in 1913 working with seminarians at Malabar, India; he stayed the remaining 51 years of his life, working with over 6,000 seminarians, 2,300 of who"
-image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Aureliano-of-the-Blessed-Sacrament.jpg"
+summary: >-
+  Entered the novitiate of the Teresian Carmel of Larrea at age 15, taking the name Aureliano. Ordained at age 23.
+  Missionary to India in 1913 working with seminarians at Malabar, India; he stayed the remaining 51 years of his life,
+  working with over 6,000 seminarians, 2,300 of who
+image: http://catholicsaints.info/wp-content/uploads/img-Venerable-Aureliano-of-the-Blessed-Sacrament.jpg
 searchAliases:
-  - "Apostle of the Eucharist"
-  - "Pedro Landeta y Azcueta"
+  - Apostle of the Eucharist
+  - Pedro Landeta y Azcueta
 birthYear: 1887
 deathYear: 1963
-born: "27 June 1887 in Artunduaga de Basauri, Spain as Pedro Landeta y Azcueta"
-died: "16 November 1963 in Alwaye, India of natural causes"
-birthPlace: "Spaas Pedro Landeta y Azcueta"
-deathPlace: "Indianatural causes"
-region: "India"
+born: 27 June 1887 in Artunduaga de Basauri, Spain as Pedro Landeta y Azcueta
+died: 16 November 1963 in Alwaye, India of natural causes
+birthPlace: Spaas Pedro Landeta y Azcueta
+deathPlace: Indianatural causes
+region: India
 feastDay:
   month: 1
   day: 1
-centuries: [19, 20]
+centuries:
+  - 19
+  - 20
 canonizationStatus: Venerable
 vocation:
   - Priest
   - Missionary
 martyr: false
+prayers: []
 ---
 
 Entered the novitiate of the Teresian Carmel of Larrea at age 15, taking the name Aureliano. Ordained at age 23. Missionary to India in 1913 working with seminarians at Malabar, India; he stayed the remaining 51 years of his life, working with over 6,000 seminarians, 2,300 of whom he directed during their entire seven year stretch. Writer on priestly spirituality.

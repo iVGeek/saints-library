@@ -27,6 +27,7 @@ image: >-
 imageAlt: Portrait of Saint Alexander Akimetes
 imageCredit: This image has been <b>extracted</b> from another file
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:Alexander%20of%20Constantinople%20(cropped).jpg
+prayers: []
 ---
 
 Born to the nobility. Studied in Constantinople. Soldier and officer in the imperial army for four years. Adult convert to Christianity who read himself into the faith, and took his example from the words of Christ to the young rich man – he sold all his goods and became a hermit in Syria for several years. At one point he came back to the city; there he burned a pagan temple, and was imprisoned; he spent his time there bringing his jailers to Christianity. Released, he returned to the life of a hermit for several years, but felt called missionary work, and worked in Antioch, but with no success. Founded monasteries in Mesopotamia, Constantinople and Gomon, and at one point led 400 monks. Converted Rabulas, bishop of Edessa. Alexander began the liturgical service in which his monks sang the Divine Office continuously day and night.

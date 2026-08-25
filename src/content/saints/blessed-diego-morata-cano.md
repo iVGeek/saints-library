@@ -1,14 +1,14 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Diego Morata Cano"
+name: Blessed Diego Morata Cano
 honorific: Blessed
-summary: "Priest of the diocese of Almería, Spain. Martyred in the Spanish Civil War."
+summary: Priest of the diocese of Almería, Spain. Martyred in the Spanish Civil War.
 birthYear: 1881
 deathYear: 1936
-born: "27 March 1881 in Vera, Almeria Spain"
-died: "22 September 1936 in Almeria Spain"
-birthPlace: "Almeria Spain"
-region: "Spain"
+born: 27 March 1881 in Vera, Almeria Spain
+died: 22 September 1936 in Almeria Spain
+birthPlace: Almeria Spain
+region: Spain
 feastDay:
   month: 9
   day: 22
@@ -17,6 +17,7 @@ vocation:
   - Priest
   - Cardinal
 martyr: true
+prayers: []
 ---
 
 Priest of the diocese of Almería, Spain. Martyred in the Spanish Civil War.

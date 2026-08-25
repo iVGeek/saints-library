@@ -1,24 +1,25 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Leo Kurobyoe Nakamura"
+name: Blessed Leo Kurobyoe Nakamura
 honorific: Blessed
-summary: "Member of the Lay Dominicans in the archdiocese of Nagasaki, Japan. Martyr."
+summary: Member of the Lay Dominicans in the archdiocese of Nagasaki, Japan. Martyr.
 searchAliases:
-  - "Franciscus"
+  - Franciscus
 deathYear: 1627
-born: "Chikugo, Japan"
-died: "16 August 1627 in Nagasaki, Japan"
-birthPlace: "Japan"
-deathPlace: "Japan"
-region: "Japan"
+born: Chikugo, Japan
+died: 16 August 1627 in Nagasaki, Japan
+birthPlace: Japan
+deathPlace: Japan
+region: Japan
 feastDay:
   month: 8
   day: 27
 canonizationStatus: Blessed
 vocation:
   - Monk
-religiousOrder: "Dominican"
+religiousOrder: Dominican
 martyr: true
+prayers: []
 ---
 
 Member of the Lay Dominicans in the archdiocese of Nagasaki, Japan. Martyr.

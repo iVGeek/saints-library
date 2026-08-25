@@ -22,6 +22,7 @@ imageCredit: >-
   <a rel="nofollow" class="external free"
   href="https://www.flickr.com/photos/miljopartiet/31867532003/">https://www.flickr.com/photos/miljopartiet/31867532003/</a>
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:Isabella%20L%C3%B6vin%20signing%20climate%20law%20referral.jpg
+prayers: []
 ---
 
 15th century Augustinian nun at the convent of Blessed Michela in Vercelli, Italy.

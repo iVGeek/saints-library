@@ -17,6 +17,7 @@ image: https://commons.wikimedia.org/wiki/Special:FilePath/John_Hogg_Portrait_20
 vocation:
   - Priest
 martyr: true
+prayers: []
 ---
 
 Priest in the apostolic vicariate of England. Martyred in the persecutions of Queen Elizabeth I.

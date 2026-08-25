@@ -41,6 +41,7 @@ patronage:
     Breuil-sur-Lys
   - Douai
 martyr: false
+prayers: []
 ---
 
 Eldest son of Saint Adalbald of Ostrevant and Saint Rictrudis of Marchiennes; brother of Saint Clotsindis of Marchiennes, Saint Eusebia of Hamage, and Saint Adalsindis. Monk at Marchiennes, France. Founded a monastery at Breuil-sur-Lys near Douai, France.

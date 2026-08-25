@@ -1,9 +1,9 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Antoninus of Rome"
+name: Saint Antoninus of Rome
 honorific: Saint
-summary: "Martyred in the persecutions of Diocletian. Mentioned in the Acts of Saint Marcellinus, Pope and Martyr."
-died: "beheaded"
+summary: Martyred in the persecutions of Diocletian. Mentioned in the Acts of Saint Marcellinus, Pope and Martyr.
+died: beheaded
 feastDay:
   month: 4
   day: 26
@@ -11,6 +11,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Martyred in the persecutions of Diocletian. Mentioned in the Acts of Saint Marcellinus, Pope and Martyr.

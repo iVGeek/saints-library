@@ -1,15 +1,15 @@
 ---
-name: "Pope Saint Leo III"
+name: Pope Saint Leo III
 honorific: Saint
-summary: " Upon his election, he sent Charlemagne the keys of Saint Peter a The son of Atyuppius and Elizabeth. Priest. Cardinal. Papal treasurer. Elected pope the day after his predecessor's burial, probably so there would not be any outside interference with the decision of the cardinals."
-image: "https://upload.wikimedia.org/wikipedia/commons/7/75/Pope_Leo_III_portrait_%E2%80%93_Triclinium_Leoninum.jpg"
+summary: ' Upon his election, he sent Charlemagne the keys of Saint Peter a The son of Atyuppius and Elizabeth. Priest. Cardinal. Papal treasurer. Elected pope the day after his predecessor''s burial, probably so there would not be any outside interference with the decision of the cardinals.'
+image: https://upload.wikimedia.org/wikipedia/commons/7/75/Pope_Leo_III_portrait_%E2%80%93_Triclinium_Leoninum.jpg
 searchAliases:
-  - "Charlemagne's Pope"
+  - Charlemagne's Pope
 deathYear: 816
-born: "at Rome, Italy"
-died: "12 June 816"
-birthPlace: "Italy"
-region: "Germany"
+born: at Rome, Italy
+died: 12 June 816
+birthPlace: Italy
+region: Germany
 feastDay:
   month: 6
   day: 12
@@ -17,6 +17,7 @@ canonizationStatus: Saint
 vocation:
   - Priest
 martyr: false
+prayers: []
 ---
 
 The son of Atyuppius and Elizabeth. Priest. Cardinal. Papal treasurer. Elected pope the day after his predecessor's burial, probably so there would not be any outside interference with the decision of the cardinals.

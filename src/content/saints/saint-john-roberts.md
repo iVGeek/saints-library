@@ -24,6 +24,7 @@ vocation:
   - Priest
 religiousOrder: Benedictine
 martyr: true
+prayers: []
 ---
 
 Son of John and Anna Roberts; his ancestors were princes in Wales. Raised Protestant, John always felt an affinity for Catholicism. He studied at Saint John's College, Oxford from 1595 to 1597, but left without a degree. He then studied law at the Inns of Court at age 21. In 1598, while travelling in France, he joined the Church of Rome at Notre Dame in Paris.

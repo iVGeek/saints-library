@@ -1,13 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Ethelnoth the Good"
+name: Saint Ethelnoth the Good
 honorific: Saint
-summary: "Monk of Glastonbury, England. Archbishop of Canterbury, England in 1020. Famed for his wisdom."
+summary: Monk of Glastonbury, England. Archbishop of Canterbury, England in 1020. Famed for his wisdom.
 searchAliases:
-  - "Egelnoth the Good"
+  - Egelnoth the Good
 deathYear: 1038
-died: "1038 of natural causes"
-region: "England"
+died: 1038 of natural causes
+region: England
 feastDay:
   month: 10
   day: 30
@@ -16,6 +16,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Monk of Glastonbury, England. Archbishop of Canterbury, England in 1020. Famed for his wisdom.

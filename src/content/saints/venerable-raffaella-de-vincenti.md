@@ -1,21 +1,23 @@
 ---
-name: "Venerable Raffaella de Vincenti"
+name: Venerable Raffaella de Vincenti
 honorific: Venerable
-summary: "Founder the Congregation of the Little Workers of the Sacred Heart."
-image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Raffaella-de-Vincenti.jpg"
+summary: Founder the Congregation of the Little Workers of the Sacred Heart.
+image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Raffaella-de-Vincenti.jpg
 searchAliases:
-  - "Maria Teresa"
+  - Maria Teresa
 birthYear: 1872
-born: "1 May 1872 in Acri, Cosenza, Italy"
-birthPlace: "Cosenza, Italy"
-region: "Italy"
+born: 1 May 1872 in Acri, Cosenza, Italy
+birthPlace: Cosenza, Italy
+region: Italy
 feastDay:
   month: 1
   day: 1
-centuries: [19]
+centuries:
+  - 19
 canonizationStatus: Venerable
 vocation: []
 martyr: false
+prayers: []
 ---
 
 Founder the Congregation of the Little Workers of the Sacred Heart.

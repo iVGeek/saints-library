@@ -1,9 +1,9 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Pothamius of Cyprus"
+name: Saint Pothamius of Cyprus
 honorific: Saint
-summary: "Martyr."
-died: "Cyprus"
+summary: Martyr.
+died: Cyprus
 feastDay:
   month: 2
   day: 20
@@ -11,6 +11,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Martyr.

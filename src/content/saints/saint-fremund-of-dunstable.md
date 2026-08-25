@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Fremund of Dunstable"
+name: Saint Fremund of Dunstable
 honorific: Saint
-summary: "Hermit. Martyred by pagan Danish invaders."
+summary: Hermit. Martyred by pagan Danish invaders.
 deathYear: 866
-died: "866"
-region: "England"
+died: '866'
+region: England
 feastDay:
   month: 5
   day: 11
@@ -14,6 +14,7 @@ vocation:
   - Monk
   - Hermit
 martyr: true
+prayers: []
 ---
 
 Hermit. Martyred by pagan Danish invaders.

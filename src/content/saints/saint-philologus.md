@@ -1,9 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Philologus"
+name: Saint Philologus
 honorific: Saint
-summary: "A first century Christian in Rome greeted by name by Saint Paul the Apostle in the Epistle to the Romans. No other information has survived."
-region: "Italy"
+summary: >-
+  A first century Christian in Rome greeted by name by Saint Paul the Apostle in the Epistle to the Romans. No other
+  information has survived.
+region: Italy
 feastDay:
   month: 11
   day: 4
@@ -12,6 +14,7 @@ vocation:
   - Monk
   - Religious
 martyr: false
+prayers: []
 ---
 
 A first century Christian in Rome greeted by name by Saint Paul the Apostle in the Epistle to the Romans. No other information has survived.

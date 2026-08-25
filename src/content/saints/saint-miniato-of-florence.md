@@ -1,14 +1,16 @@
 ---
-name: "Saint Miniato of Florence"
+name: Saint Miniato of Florence
 honorific: Saint
-summary: "Soldier, though he is often depicted as a military prince. Evangelized among his fellow troops when stationed in Florence, Italy. Martyred in the persecutions of Decius. An abbey outside the Florence city walls is named for him."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Miniato-of-Florence.jpg"
+summary: >-
+  Soldier, though he is often depicted as a military prince. Evangelized among his fellow troops when stationed in
+  Florence, Italy. Martyred in the persecutions of Decius. An abbey outside the Florence city walls is named for him.
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Miniato-of-Florence.jpg
 searchAliases:
-  - "Minias"
+  - Minias
 deathYear: 250
-died: "c.250 in Florence, Italy"
-deathPlace: "Italy"
-region: "Italy"
+died: c.250 in Florence, Italy
+deathPlace: Italy
+region: Italy
 feastDay:
   month: 10
   day: 25
@@ -17,8 +19,9 @@ vocation:
   - Monk
   - Soldier
 patronage:
-  - "Florence, Italy"
+  - Florence, Italy
 martyr: true
+prayers: []
 ---
 
 Soldier, though he is often depicted as a military prince. Evangelized among his fellow troops when stationed in Florence, Italy. Martyred in the persecutions of Decius. An abbey outside the Florence city walls is named for him.

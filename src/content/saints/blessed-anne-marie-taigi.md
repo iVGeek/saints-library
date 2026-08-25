@@ -1,19 +1,22 @@
 ---
-name: "Blessed Anne Marie Taigi"
+name: Blessed Anne Marie Taigi
 honorific: Blessed
-summary: "Daughter Luigi Giannetti and Maria Masi. Her father was a pharmacist in Siena, Italy, but his business went bankrupt when Anna Marie was five years old. The family moved to Rome, Italy in search of work, but Luigi could only find a job as a household servant. Anne was married on"
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Anne-Marie-Taigi.jpg"
+summary: >-
+  Daughter Luigi Giannetti and Maria Masi. Her father was a pharmacist in Siena, Italy, but his business went bankrupt
+  when Anna Marie was five years old. The family moved to Rome, Italy in search of work, but Luigi could only find a job
+  as a household servant. Anne was married on
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Anne-Marie-Taigi.jpg
 searchAliases:
-  - "Anna Maria Gesualda Antonia Taigi"
-  - "Anna Maria Taigi"
-  - "Anne Marie Gianetti"
+  - Anna Maria Gesualda Antonia Taigi
+  - Anna Maria Taigi
+  - Anne Marie Gianetti
 birthYear: 1769
 deathYear: 1837
-born: "29 May 1769 at Siena, Italy as Anne Marie Gianetti"
-died: "9 June 1837 at Rome, Italy of natural causes"
-birthPlace: "Italy as Anne Marie Gianetti"
-deathPlace: "Italynatural causes"
-region: "Italy"
+born: 29 May 1769 at Siena, Italy as Anne Marie Gianetti
+died: 9 June 1837 at Rome, Italy of natural causes
+birthPlace: Italy as Anne Marie Gianetti
+deathPlace: Italynatural causes
+region: Italy
 feastDay:
   month: 6
   day: 9
@@ -23,8 +26,9 @@ vocation:
   - Monk
   - Cardinal
 patronage:
-  - "victims of verbal spouse abuse"
+  - victims of verbal spouse abuse
 martyr: false
+prayers: []
 ---
 
 Daughter Luigi Giannetti and Maria Masi. Her father was a pharmacist in Siena, Italy, but his business went bankrupt when Anna Marie was five years old. The family moved to Rome, Italy in search of work, but Luigi could only find a job as a household servant. Anne was married on 7 January 1789 to Dominico Taigi, a butler to the noble family of Chigi. She was married for 48 years, and mother of seven, two of whom died very young.

@@ -26,6 +26,7 @@ vocation:
   - Bishop
   - Priest
 martyr: true
+prayers: []
 ---
 
 As a child, János attended schools run by Cistercians until the schools were nationalized by the post-World War II communist government. He felt drawn to the Cistercians, and entered as a novice in Zirc, Hungary in 1950, taking the name Brother Anasztáz. But a few months later the communists began suppressing religious orders and houses, and Brother Anastasius had to continue his vocation from private residences, and then from the seminary where he studied for the priesthood; he continued his Cistercian training via correspondence. Cistercian friar. Ordained a priest in the diocese of Szombathely, Hungary in 1955. Noted for his youth mininstry, which drew the ire of the atheist government. His bishop offered to move him somewhere safer and out of the limelight, but Father János declined. On the night of 14 December 1957, Father Brenner received a request to give last rites to a sick person; it was a lie, meant to draw him out where he could be ambushed and murdered. Martyr.

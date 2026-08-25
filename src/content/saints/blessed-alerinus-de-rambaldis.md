@@ -1,23 +1,24 @@
 ---
-name: "Blessed Alerinus de Rambaldis"
+name: Blessed Alerinus de Rambaldis
 honorific: Blessed
-summary: " Following a vision, Bishop Alerino redi Born to the Italian nobility, from his youth Alerinus was drawn to religious life. He became a canon of the cathedral of Alba, Italy, and was chosen bishop of Alba by Pope Martin V on 10 September 1419; he led the diocese for over 36 years."
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Alerino-Rembaudi.jpg"
+summary: ' Following a vision, Bishop Alerino redi Born to the Italian nobility, from his youth Alerinus was drawn to religious life. He became a canon of the cathedral of Alba, Italy, and was chosen bishop of Alba by Pope Martin V on 10 September 1419; he led the diocese for over 36 years.'
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Alerino-Rembaudi.jpg
 searchAliases:
-  - "Alerino Rembaudi"
+  - Alerino Rembaudi
 deathYear: 1456
-born: "late 14th century in Alba, Cuneo, Italy"
-died: "21 July 1456 of natural causes"
-birthPlace: "Cuneo, Italy"
-region: "Italy"
+born: late 14th century in Alba, Cuneo, Italy
+died: 21 July 1456 of natural causes
+birthPlace: Cuneo, Italy
+region: Italy
 feastDay:
   month: 2
   day: 23
 canonizationStatus: Blessed
 vocation:
   - Bishop
-religiousOrder: "Dominican"
+religiousOrder: Dominican
 martyr: false
+prayers: []
 ---
 
 Born to the Italian nobility, from his youth Alerinus was drawn to religious life. He became a canon of the cathedral of Alba, Italy, and was chosen bishop of Alba by Pope Martin V on 10 September 1419; he led the diocese for over 36 years.

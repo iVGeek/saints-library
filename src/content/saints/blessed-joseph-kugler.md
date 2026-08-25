@@ -23,6 +23,7 @@ canonizationStatus: Blessed
 vocation:
   - Bishop
 martyr: false
+prayers: []
 ---
 
 As a young man he was apprenticed as an iron worker, but an injury ended that career. He joined the Order of the Hospitallers of Saint John of God at Reichenbach, Germany in 1893, making his profession in 1898. He served 20 years in several Hospitaller convent hospitals, often as their prior. He then served 21 years as the Hospitaller provincial. Founded two hospitals.

@@ -1,14 +1,14 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Christian of Auxerre"
+name: Saint Christian of Auxerre
 honorific: Saint
-title: "Bishop"
-summary: "Bishop of Auxerre, France, serving for 12 years."
+title: Bishop
+summary: Bishop of Auxerre, France, serving for 12 years.
 searchAliases:
-  - "Cristiano"
+  - Cristiano
 deathYear: 871
-died: "22 November 871"
-region: "France"
+died: 22 November 871
+region: France
 feastDay:
   month: 11
   day: 22
@@ -16,6 +16,7 @@ canonizationStatus: Saint
 vocation:
   - Bishop
 martyr: false
+prayers: []
 ---
 
 Bishop of Auxerre, France, serving for 12 years.

@@ -1,34 +1,40 @@
 ---
-name: "Saint Angela of the Cross Guerrero"
+name: Saint Angela of the Cross Guerrero
 honorific: Venerable
-summary: "One of fourteen children born to a poor but pious family; only five of her siblings survived to adulthood. Her father worked as a cook and her mother a laundress in a Trinitarian Fathers convent, and Angela had to quit school at age twelve to work in a shoe factory to help suppor"
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Angela-of-the-Cross-Guerrero-1.jpg"
+summary: >-
+  One of fourteen children born to a poor but pious family; only five of her siblings survived to adulthood. Her father
+  worked as a cook and her mother a laundress in a Trinitarian Fathers convent, and Angela had to quit school at age
+  twelve to work in a shoe factory to help suppor
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Angela-of-the-Cross-Guerrero-1.jpg
 searchAliases:
-  - "Angela de la Cruz"
-  - "Angela Guerrero Gonzalez"
-  - "Angela of the Cross Guerrero y Gonz&aacute;lez"
-  - "Angelita (family nickname)"
-  - "Maria of the Angels"
-  - "María de los Ángeles"
-  - "Mother Angela of the Cross"
-  - "Mother of the Poor"
+  - Angela de la Cruz
+  - Angela Guerrero Gonzalez
+  - Angela of the Cross Guerrero y Gonz&aacute;lez
+  - Angelita (family nickname)
+  - Maria of the Angels
+  - María de los Ángeles
+  - Mother Angela of the Cross
+  - Mother of the Poor
 birthYear: 1846
 deathYear: 1932
-born: "30 January 1846 at Seville, Spain as Maria of the Angels Guerrero Gonzalez"
-died: "2 March 1932 in Seville, Spain of natural causes"
-birthPlace: "Spaas Maria of the Angels Guerrero Gonzalez"
-deathPlace: "Spaof natural causes"
-region: "Spain"
+born: 30 January 1846 at Seville, Spain as Maria of the Angels Guerrero Gonzalez
+died: 2 March 1932 in Seville, Spain of natural causes
+birthPlace: Spaas Maria of the Angels Guerrero Gonzalez
+deathPlace: Spaof natural causes
+region: Spain
 feastDay:
   month: 3
   day: 2
-centuries: [19, 20]
+centuries:
+  - 19
+  - 20
 canonizationStatus: Venerable
 vocation:
   - Priest
   - Religious
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 martyr: false
+prayers: []
 ---
 
 One of fourteen children born to a poor but pious family; only five of her siblings survived to adulthood. Her father worked as a cook and her mother a laundress in a Trinitarian Fathers convent, and Angela had to quit school at age twelve to work in a shoe factory to help support her family. She made her First Communion at age eight, Confirmation at nine; she prayed the rosary daily, and had a great devotion as a youth to Christ Crucified. Her piety was so obvious that her employer, Antonia Maldonado, brought her to the attention of Father Jos&eacute; Torres Padilla. He became her spiritual director when she was 16, and helped discern if Angela had a call to religious life.

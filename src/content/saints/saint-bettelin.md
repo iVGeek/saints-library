@@ -1,20 +1,20 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Bettelin of Stafford"
+name: Saint Bettelin of Stafford
 honorific: Saint
-summary: " Some stories claim Bettelin was a Mercian nobleman married to an Irish princess. While the two were travelling through a forest, Spritual student of Saint Guthlac of Croyland. One of several hermits around Croyland in Lincolnshire, England who were subject to the monastery there."
+summary: ' Some stories claim Bettelin was a Mercian nobleman married to an Irish princess. While the two were travelling through a forest, Spritual student of Saint Guthlac of Croyland. One of several hermits around Croyland in Lincolnshire, England who were subject to the monastery there.'
 searchAliases:
-  - "Beccelin"
-  - "Bertelin"
-  - "Bertellin"
-  - "Berthelm"
-  - "Bertram"
-  - "Bethelm"
-  - "Bethlin"
-  - "Beorhthelm"
-  - "Bertoline"
-died: "8th century of natural causes"
-region: "England"
+  - Beccelin
+  - Bertelin
+  - Bertellin
+  - Berthelm
+  - Bertram
+  - Bethelm
+  - Bethlin
+  - Beorhthelm
+  - Bertoline
+died: 8th century of natural causes
+region: England
 feastDay:
   month: 9
   day: 9
@@ -25,8 +25,9 @@ vocation:
   - Hermit
   - Confessor
 patronage:
-  - "Stafford, England"
+  - Stafford, England
 martyr: false
+prayers: []
 ---
 
 Spritual student of Saint Guthlac of Croyland. One of several hermits around Croyland in Lincolnshire, England who were subject to the monastery there.

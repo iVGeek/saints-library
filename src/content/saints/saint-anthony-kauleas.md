@@ -30,6 +30,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/e/eb/Menologion_of_Basil_II_-_Antony_II_of_Constantinople.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Anthony Kauleas
 imageCreditUrl: https://en.wikipedia.org/wiki/Antony%20II%20of%20Constantinople
+prayers: []
 ---
 
 Born to a noble family from Phrygia who had moved to the country to escape persecution by the iconoclasts. Monk near Constantinople at age 12. Abbot of his house. Patriarch of Constantinople in 893. He worked to heal the schisms created by his predecessor Photius, presiding over the Fourth &AElig;cumenical Council of Constantinople in 869 and 870 which condemned or reversed all that Photius had done; all records of the council were destroyed by later schismatics. Throughout his life Antony was known for his personal holiness, his deep personal prayer life, and the sanctity he brought to his offices.

@@ -1,15 +1,15 @@
 ---
-name: "Blessed Teodor Jurij Romzha"
+name: Blessed Teodor Jurij Romzha
 honorific: Blessed
-summary: " Drafted into the military, he served on the border with Germany; discharged in 1938. Minister to the impoverished parish of Berez Greek Catholic. Studied philosophy from 1930 to 1933. Studied theology in Rome from 1933 to 1937; received a Licentiate. Ordained on 25 December 1936."
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Teodor-Jurij-Romzha.jpg"
+summary: ' Drafted into the military, he served on the border with Germany; discharged in 1938. Minister to the impoverished parish of Berez Greek Catholic. Studied philosophy from 1930 to 1933. Studied theology in Rome from 1933 to 1937; received a Licentiate. Ordained on 25 December 1936.'
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Teodor-Jurij-Romzha.jpg
 birthYear: 1911
 deathYear: 1947
-born: "14 April 1911 at Velykyj Bychkiv, Transcarpathia, Ukraine"
-died: "poisoned in his hospital bed on 1 November 1947 at Mukachiv, Ukraine"
-birthPlace: "Transcarpathia, Ukraine"
-deathPlace: "Ukraine"
-region: "Germany"
+born: 14 April 1911 at Velykyj Bychkiv, Transcarpathia, Ukraine
+died: poisoned in his hospital bed on 1 November 1947 at Mukachiv, Ukraine
+birthPlace: Transcarpathia, Ukraine
+deathPlace: Ukraine
+region: Germany
 feastDay:
   month: 11
   day: 1
@@ -18,6 +18,7 @@ vocation:
   - Bishop
   - Priest
 martyr: true
+prayers: []
 ---
 
 Greek Catholic. Studied philosophy from 1930 to 1933. Studied theology in Rome from 1933 to 1937; received a Licentiate. Ordained on 25 December 1936.

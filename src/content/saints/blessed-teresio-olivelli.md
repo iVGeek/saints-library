@@ -1,17 +1,20 @@
 ---
-name: "Blessed Teresio Olivelli"
+name: Blessed Teresio Olivelli
 honorific: Blessed
-summary: "Son of Domenico Olivelli and Clelia Invernizzi, Teresio grew up in a very religious family. His maternal uncle, Father Rocco Invernizzi, was the boy's spiritual teacher and director. His family moved to Pavia, Italy in 1926. Studied at Ghislieri College and then in 1934 at the la"
-image: "https://upload.wikimedia.org/wikipedia/commons/b/be/Teresio_Olivelli.jpg"
+summary: >-
+  Son of Domenico Olivelli and Clelia Invernizzi, Teresio grew up in a very religious family. His maternal uncle, Father
+  Rocco Invernizzi, was the boy's spiritual teacher and director. His family moved to Pavia, Italy in 1926. Studied at
+  Ghislieri College and then in 1934 at the la
+image: https://upload.wikimedia.org/wikipedia/commons/b/be/Teresio_Olivelli.jpg
 searchAliases:
-  - "Agostino Gracchi (alias used when in the Italian Resistance)"
+  - Agostino Gracchi (alias used when in the Italian Resistance)
 birthYear: 1916
 deathYear: 1945
-born: "7 January 1916 at Bellagio, Como, Italy"
-died: "beaten to death by a guard on 12 January 1945 at Hersbruck, Nürnberger Land, Germany"
-birthPlace: "Como, Italy"
-deathPlace: "Nürnberger Land, Germany"
-region: "Austria"
+born: 7 January 1916 at Bellagio, Como, Italy
+died: beaten to death by a guard on 12 January 1945 at Hersbruck, Nürnberger Land, Germany
+birthPlace: Como, Italy
+deathPlace: Nürnberger Land, Germany
+region: Austria
 feastDay:
   month: 9
   day: 9
@@ -21,6 +24,7 @@ vocation:
   - Cardinal
   - Soldier
 martyr: false
+prayers: []
 ---
 
 Son of Domenico Olivelli and Clelia Invernizzi, Teresio grew up in a very religious family. His maternal uncle, Father Rocco Invernizzi, was the boy's spiritual teacher and director. His family moved to Pavia, Italy in 1926. Studied at Ghislieri College and then in 1934 at the law school at the University of Pavia, graduating there with honors in 1938. Member of Catholic Action and a Fascist student group. Professor of administrative law at the University of Turin, Italy; there he began a personal ministry of caring for the poor and orphaned. He wrote a number of articles on the law, social conditions and current events, and won an oratory competition in Trieste, Italy with a thesis on human dignities for all people, regardless of race.

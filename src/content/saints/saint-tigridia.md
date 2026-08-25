@@ -19,6 +19,7 @@ vocation:
   - Monk
   - Religious
 martyr: false
+prayers: []
 ---
 
 Born to the nobility, the daughter of Count Sancho Garcia. Her father founded the convent of Oña near Burgos, Spain, and Tigridia spent her life there as a nun.

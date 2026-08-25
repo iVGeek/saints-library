@@ -18,6 +18,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/0/0c/View_of_Spoleto_ty20060511r12040.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Eutychius of Umbria
 imageCreditUrl: https://en.wikipedia.org/wiki/Spoleto
+prayers: []
 ---
 
 Martyr.

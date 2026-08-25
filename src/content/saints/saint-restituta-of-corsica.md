@@ -1,16 +1,16 @@
 ---
-name: "Saint Restituta of Corsica"
+name: Saint Restituta of Corsica
 honorific: Saint
-summary: " The oldest sources say that Restituta fled persecution in north Africa with five male companions (possibly the Martyrs of Noli). She evangelized We have two stories about this martyr, one medieval with limited information, the second later in composition, and much more colourful."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Restituta-of-Corsica.jpg"
+summary: ' The oldest sources say that Restituta fled persecution in north Africa with five male companions (possibly the Martyrs of Noli). She evangelized We have two stories about this martyr, one medieval with limited information, the second later in composition, and much more colourful.'
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Restituta-of-Corsica.jpg
 searchAliases:
-  - "Restitude"
-  - "Restitute"
-  - "Ristituta"
+  - Restitude
+  - Restitute
+  - Ristituta
 deathYear: 217
-died: "beheaded 21 May in 217, 218, 225 or 303 (records vary)"
-deathPlace: "218, 225 or 303 (records vary)"
-region: "France"
+died: beheaded 21 May in 217, 218, 225 or 303 (records vary)
+deathPlace: 218, 225 or 303 (records vary)
+region: France
 feastDay:
   month: 5
   day: 21
@@ -19,9 +19,10 @@ vocation:
   - Monk
   - Soldier
 patronage:
-  - "Calenzana, Corsica, France (declared in 1984 by the Congregation for Divine Worship)"
-  - "Balagne, Corsica, France (declared in 1984 by the Congregation for Divine Worship)"
+  - Calenzana, Corsica, France (declared in 1984 by the Congregation for Divine Worship)
+  - Balagne, Corsica, France (declared in 1984 by the Congregation for Divine Worship)
 martyr: true
+prayers: []
 ---
 
 We have two stories about this martyr, one medieval with limited information, the second later in composition, and much more colourful.

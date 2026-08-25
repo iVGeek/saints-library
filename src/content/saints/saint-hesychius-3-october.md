@@ -1,14 +1,17 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Hesychius"
+name: Saint Hesychius
 honorific: Saint
-summary: "Spiritual student of Saint Hilarion of Palestine. Hermit in a monastery at Majuma, Palestine. Followed Hilarion from one hermitage to another for years, even tracking him down when Hilarion left without warning in order to seek out solitude; and when the teacher died, Hesychius b"
+summary: >-
+  Spiritual student of Saint Hilarion of Palestine. Hermit in a monastery at Majuma, Palestine. Followed Hilarion from
+  one hermitage to another for years, even tracking him down when Hilarion left without warning in order to seek out
+  solitude; and when the teacher died, Hesychius b
 searchAliases:
-  - "Esichio"
+  - Esichio
 deathYear: 380
-died: "c.380 at Majuma, Palestine of natural causes"
-deathPlace: "Palestinenatural causes"
-region: "Holy Land"
+died: c.380 at Majuma, Palestine of natural causes
+deathPlace: Palestinenatural causes
+region: Holy Land
 feastDay:
   month: 10
   day: 3
@@ -17,6 +20,7 @@ vocation:
   - Monk
   - Hermit
 martyr: false
+prayers: []
 ---
 
 Spiritual student of Saint Hilarion of Palestine. Hermit in a monastery at Majuma, Palestine. Followed Hilarion from one hermitage to another for years, even tracking him down when Hilarion left without warning in order to seek out solitude; and when the teacher died, Hesychius brought his relics back to Majuma.

@@ -1,29 +1,35 @@
 ---
-name: "Saint Paula of Saint Joseph of Calasanz"
+name: Saint Paula of Saint Joseph of Calasanz
 honorific: Venerable
-summary: "Daughter of Ramon and Vicenta Fornes Montal. Raised in a large and pious family in a small seaside village. Her father died when Paula was 10 years old. She worked as a seamstress and lace-maker, and helped raise her siblings, then helped in her parish to care for other children."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Paula-of-Saint-Joseph-of-Calasanz.jpg"
+summary: >-
+  Daughter of Ramon and Vicenta Fornes Montal. Raised in a large and pious family in a small seaside village. Her father
+  died when Paula was 10 years old. She worked as a seamstress and lace-maker, and helped raise her siblings, then
+  helped in her parish to care for other children.
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Paula-of-Saint-Joseph-of-Calasanz.jpg
 searchAliases:
-  - "Paula Montal Fornes"
-  - "Paula Montal"
-  - "Paola Montal"
-  - "Paola Montal Fornes"
+  - Paula Montal Fornes
+  - Paula Montal
+  - Paola Montal
+  - Paola Montal Fornes
 birthYear: 1799
 deathYear: 1889
-born: "11 October 1799 at Arenys de Mar, near Barcelona, Spain"
-died: "26 February 1889 at Olesa de Montserrat, Barcelona, Spain of natural causes"
-birthPlace: "near Barcelona, Spain"
-deathPlace: "Barcelona, Spaof natural causes"
-region: "Italy"
+born: 11 October 1799 at Arenys de Mar, near Barcelona, Spain
+died: 26 February 1889 at Olesa de Montserrat, Barcelona, Spain of natural causes
+birthPlace: near Barcelona, Spain
+deathPlace: Barcelona, Spaof natural causes
+region: Italy
 feastDay:
   month: 2
   day: 26
-centuries: [18, 19]
+centuries:
+  - 18
+  - 19
 canonizationStatus: Venerable
 vocation:
   - Priest
   - Religious
 martyr: false
+prayers: []
 ---
 
 Daughter of Ramon and Vicenta Fornes Montal. Raised in a large and pious family in a small seaside village. Her father died when Paula was 10 years old. She worked as a seamstress and lace-maker, and helped raise her siblings, then helped in her parish to care for other children.

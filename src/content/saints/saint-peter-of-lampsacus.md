@@ -1,12 +1,12 @@
 ---
-name: "Saint Peter of Lampsacus"
+name: Saint Peter of Lampsacus
 honorific: Saint
-summary: "Martyred in the persecutions of Decius for refusing to sacrifice to a statue of Venus."
-image: "http://catholicsaints.info/wp-content/uploads/pls-Saints-Peter-and-Dionysia.jpg"
+summary: Martyred in the persecutions of Decius for refusing to sacrifice to a statue of Venus.
+image: http://catholicsaints.info/wp-content/uploads/pls-Saints-Peter-and-Dionysia.jpg
 deathYear: 250
-died: "beheaded c.250 in Lampsacus, Asia Minor"
-deathPlace: "Asia Minor"
-region: "England"
+died: beheaded c.250 in Lampsacus, Asia Minor
+deathPlace: Asia Minor
+region: England
 feastDay:
   month: 5
   day: 15
@@ -15,6 +15,7 @@ vocation:
   - Priest
   - Monk
 martyr: true
+prayers: []
 ---
 
 Martyred in the persecutions of Decius for refusing to sacrifice to a statue of Venus.

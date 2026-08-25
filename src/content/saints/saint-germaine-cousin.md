@@ -53,6 +53,7 @@ patronage:
     Toulouse
   - Pibrac
 martyr: false
+prayers: []
 ---
 
 Daughter of Laurent Cousin, a farm worker, and Marie Laroche. Her mother died while Germaine was an infant. A sickly child, Germaine suffered from scrofula, and her right hand was deformed. Ignored by her father and abused by her step-family, she was often forced to sleep in the stable or in a cupboard under the stairs, was fed on scraps, beaten or scalded with hot water for misdeeds, real or imagined.

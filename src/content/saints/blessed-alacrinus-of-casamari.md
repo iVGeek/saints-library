@@ -29,6 +29,7 @@ imageCredit: >-
   <dd><a rel="nofollow" class="external free"
   href="https://archive.org/download/1919-novembro-20-quinta-feira/1919%20Novembro%2030%20Domingo.pdf">https://archive.org/download/1919-novembro-20-quinta-feira/1919%20Novembro%2030%20Domingo.pdf</a></dd></dl>
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:1919%20Novembro%20(IA%201919-novembro-20-quinta-feira).pdf
+prayers: []
 ---
 
 Benedictine Cistercian monk. Prior at Casamari, Veroli, Italy. Papal legate to Germany for Pope Innocent III and Pope Honorius III. Bishop.

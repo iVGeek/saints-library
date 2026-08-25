@@ -1,10 +1,10 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Helimenas"
+name: Saint Helimenas
 honorific: Saint
-summary: "Priest. Martyred when Decius invaded Mesapotamia."
+summary: Priest. Martyred when Decius invaded Mesapotamia.
 deathYear: 250
-died: "beheaded c.250 at Babylon"
+died: beheaded c.250 at Babylon
 feastDay:
   month: 4
   day: 22
@@ -13,6 +13,7 @@ vocation:
   - Priest
   - Monk
 martyr: true
+prayers: []
 ---
 
 Priest. Martyred when Decius invaded Mesapotamia.

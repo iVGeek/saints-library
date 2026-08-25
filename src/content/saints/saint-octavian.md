@@ -1,15 +1,17 @@
 ---
-name: "Saint Octavian of Carthage"
+name: Saint Octavian of Carthage
 honorific: Saint
-summary: "Archdeacon at Carthage, North Africa. Martyred with several thousand of his flock in the persecutions of the Arian Vandal King Hunneric."
-image: "http://catholicsaints.info/wp-content/uploads/Octavian.jpg"
+summary: >-
+  Archdeacon at Carthage, North Africa. Martyred with several thousand of his flock in the persecutions of the Arian
+  Vandal King Hunneric.
+image: http://catholicsaints.info/wp-content/uploads/Octavian.jpg
 searchAliases:
-  - "Octavius"
-  - "Ottaviano"
+  - Octavius
+  - Ottaviano
 deathYear: 484
-died: "martyred in 484 at Carthage, North Africa"
-deathPlace: "North Africa"
-region: "Germany"
+died: martyred in 484 at Carthage, North Africa
+deathPlace: North Africa
+region: Germany
 feastDay:
   month: 3
   day: 22
@@ -18,6 +20,7 @@ vocation:
   - Monk
   - Deacon
 martyr: true
+prayers: []
 ---
 
 Archdeacon at Carthage, North Africa. Martyred with several thousand of his flock in the persecutions of the Arian Vandal King Hunneric.

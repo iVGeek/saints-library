@@ -1,17 +1,20 @@
 ---
-name: "Blessed Mariano de Jesus Eues Hoyos"
+name: Blessed Mariano de Jesus Eues Hoyos
 honorific: Blessed
-summary: "Eldest son of a religious rural Colombian family in a time when the state was hostile to the Church. From age 16 he wanted to become a priest; he entered the new Medellin Seminary at age 24, and was ordained in 1872. Worked in the parishes of San Pedro and Yarumel, and in 1878 he"
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Mariano-de-Jesus-Eues-Hoyos.jpg"
+summary: >-
+  Eldest son of a religious rural Colombian family in a time when the state was hostile to the Church. From age 16 he
+  wanted to become a priest; he entered the new Medellin Seminary at age 24, and was ordained in 1872. Worked in the
+  parishes of San Pedro and Yarumel, and in 1878 he
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Mariano-de-Jesus-Eues-Hoyos.jpg
 searchAliases:
-  - "Padre Marianito"
+  - Padre Marianito
 birthYear: 1845
 deathYear: 1926
-born: "14 October 1845 at Yarumal, diocese of Antioqu&iacute;a, Colombia"
-died: "13 July 1926 at Angostura, Antioquia, Colombia of severe urinary system infections"
-birthPlace: "dioceseAntioqu&iacute;a, Colombia"
-deathPlace: "Antioquia, Colombiasevere urinary system infections"
-region: "Colombia"
+born: 14 October 1845 at Yarumal, diocese of Antioqu&iacute;a, Colombia
+died: 13 July 1926 at Angostura, Antioquia, Colombia of severe urinary system infections
+birthPlace: dioceseAntioqu&iacute;a, Colombia
+deathPlace: Antioquia, Colombiasevere urinary system infections
+region: Colombia
 feastDay:
   month: 7
   day: 13
@@ -19,8 +22,9 @@ canonizationStatus: Blessed
 vocation:
   - Priest
 patronage:
-  - "against cancer"
+  - against cancer
 martyr: false
+prayers: []
 ---
 
 Eldest son of a religious rural Colombian family in a time when the state was hostile to the Church. From age 16 he wanted to become a priest; he entered the new Medellin Seminary at age 24, and was ordained in 1872. Worked in the parishes of San Pedro and Yarumel, and in 1878 he was assigned as priest to Angostura, Colombia where he spent the rest of his life.

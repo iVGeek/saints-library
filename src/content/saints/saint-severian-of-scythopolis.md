@@ -1,14 +1,16 @@
 ---
-name: "Saint Severian of Scythopolis"
+name: Saint Severian of Scythopolis
 honorific: Saint
-summary: "Bishop of Scythopolis (in modern north-east Israel). Murdered by a band of soldiers led by a heretical Eutychian monk. Martyr."
-image: "http://catholicsaints.info/wp-content/uploads/pls-severianus.jpg"
+summary: >-
+  Bishop of Scythopolis (in modern north-east Israel). Murdered by a band of soldiers led by a heretical Eutychian monk.
+  Martyr.
+image: http://catholicsaints.info/wp-content/uploads/pls-severianus.jpg
 searchAliases:
-  - "Severianus"
-  - "Severinus"
+  - Severianus
+  - Severinus
 deathYear: 452
-died: "452 or 453 (records vary)"
-region: "England"
+died: 452 or 453 (records vary)
+region: England
 feastDay:
   month: 2
   day: 21
@@ -19,6 +21,7 @@ vocation:
   - Monk
   - Soldier
 martyr: true
+prayers: []
 ---
 
 Bishop of Scythopolis (in modern north-east Israel). Murdered by a band of soldiers led by a heretical Eutychian monk. Martyr.

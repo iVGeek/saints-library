@@ -26,6 +26,7 @@ patronage:
   - parents of large families
   - torture victims
 martyr: true
+prayers: []
 ---
 
 Cambridge educated. Teacher. Renounced Protestantism, and converted. Imprisoned and martyred for his profession of faith. While in jail, he wrote religious poetry in Welsh. One of the Forty Martyrs of England and Wales

@@ -1,8 +1,8 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Cyran of Brenne"
+name: Saint Cyran of Brenne
 honorific: Saint
-region: "France"
+region: France
 feastDay:
   month: 12
   day: 4
@@ -11,4 +11,5 @@ vocation:
   - Monk
   - Hermit
 martyr: false
+prayers: []
 ---

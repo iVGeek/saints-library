@@ -1,12 +1,12 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Symphorosa of Campania"
+name: Saint Symphorosa of Campania
 honorific: Saint
-summary: "Marytred in the persecutions of Diocletian. No other information has survived."
+summary: Marytred in the persecutions of Diocletian. No other information has survived.
 deathYear: 284
-died: "284 in Campania, Italy"
-deathPlace: "Italy"
-region: "Italy"
+died: 284 in Campania, Italy
+deathPlace: Italy
+region: Italy
 feastDay:
   month: 7
   day: 2
@@ -14,6 +14,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: false
+prayers: []
 ---
 
 Marytred in the persecutions of Diocletian. No other information has survived.

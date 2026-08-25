@@ -23,6 +23,7 @@ vocation:
   - Priest
 religiousOrder: Franciscan
 martyr: false
+prayers: []
 ---
 
 Plato's wealthy parents died of disease before he was 13. Raised and educated by an uncle who was a treasurer, and Plato soon handled much of his uncle's business. Excellent student. Pious from youth, he turned away from the world of the royal court, freed his slaves, sold his estates, gave the money to his sisters and the poor, and at age 24 he moved to the monastery at Symbolean on Mount Olympus, though he never took holy orders and remained a layman. He spent his days in prayer, menial labour, and copying holy books. Abbot in 770. Given to severe fasts and self-deprivation.

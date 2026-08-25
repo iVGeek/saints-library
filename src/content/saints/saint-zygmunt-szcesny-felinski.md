@@ -1,33 +1,38 @@
 ---
-name: "Saint Zygmunt Szcesny Felinski"
+name: Saint Zygmunt Szcesny Felinski
 honorific: Venerable
-summary: "Son of Gerard Felinski and Eva Wendorff, the third of six childen in a proudly patriotic Polish family. Two of his siblings died as children, and his father died when Sigimondo was 11 years old. His mother was arrested and exiled to Siberia in 1838 for her pro-Polish politics and"
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Zygmunt-Szcesny-Felinski.jpg"
+summary: >-
+  Son of Gerard Felinski and Eva Wendorff, the third of six childen in a proudly patriotic Polish family. Two of his
+  siblings died as children, and his father died when Sigimondo was 11 years old. His mother was arrested and exiled to
+  Siberia in 1838 for her pro-Polish politics and
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Zygmunt-Szcesny-Felinski.jpg
 searchAliases:
-  - "Sigimondo Felice Felinski"
-  - "Sigismond Felix Felinski"
-  - "Sigismondo Felice Felinski"
-  - "Sigmund Felix Felinski"
-  - "Zygmunt Szczesny Felinski"
-  - "Zygmunt Szczêsny Feliñski"
+  - Sigimondo Felice Felinski
+  - Sigismond Felix Felinski
+  - Sigismondo Felice Felinski
+  - Sigmund Felix Felinski
+  - Zygmunt Szczesny Felinski
+  - Zygmunt Szczêsny Feliñski
 birthYear: 1822
 deathYear: 1895
-born: "1 November 1822 in Voyutin (Wojutyn), Poland (in modern Ukraine)"
-died: "17 September 1895 in Kraków, Malopolskie, Poland of natural causes"
-birthPlace: "Poland (modern Ukraine)"
-deathPlace: "Malopolskie, Polandnatural causes"
-region: "Poland"
+born: 1 November 1822 in Voyutin (Wojutyn), Poland (in modern Ukraine)
+died: 17 September 1895 in Kraków, Malopolskie, Poland of natural causes
+birthPlace: Poland (modern Ukraine)
+deathPlace: Malopolskie, Polandnatural causes
+region: Poland
 feastDay:
   month: 9
   day: 17
-centuries: [19]
+centuries:
+  - 19
 canonizationStatus: Venerable
 vocation:
   - Bishop
   - Priest
   - Religious
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 martyr: false
+prayers: []
 ---
 
 Son of Gerard Felinski and Eva Wendorff, the third of six childen in a proudly patriotic Polish family. Two of his siblings died as children, and his father died when Sigimondo was 11 years old. His mother was arrested and exiled to Siberia in 1838 for her pro-Polish politics and for working to improve the economic conditions of farmers.

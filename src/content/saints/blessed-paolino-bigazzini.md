@@ -1,10 +1,12 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Paolino Bigazzini"
+name: Blessed Paolino Bigazzini
 honorific: Blessed
-summary: "Born to the nobility. Monk at the monastery of Saints Marco e Lucia del Sambuco in Perugia, Italy. Spiritual student of Saint Sylvester Gozzolini. Miracle worker. Hermit at Montefano, Italy."
-died: "of natural causes on the date he prophesied"
-region: "Peru"
+summary: >-
+  Born to the nobility. Monk at the monastery of Saints Marco e Lucia del Sambuco in Perugia, Italy. Spiritual student
+  of Saint Sylvester Gozzolini. Miracle worker. Hermit at Montefano, Italy.
+died: of natural causes on the date he prophesied
+region: Peru
 feastDay:
   month: 5
   day: 4
@@ -13,6 +15,7 @@ vocation:
   - Monk
   - Hermit
 martyr: false
+prayers: []
 ---
 
 Born to the nobility. Monk at the monastery of Saints Marco e Lucia del Sambuco in Perugia, Italy. Spiritual student of Saint Sylvester Gozzolini. Miracle worker. Hermit at Montefano, Italy.

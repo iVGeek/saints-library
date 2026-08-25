@@ -12,6 +12,7 @@ vocation:
   - Hermit
 religiousOrder: Benedictine
 martyr: false
+prayers: []
 ---
 
 Twelfth century Camaldolese hermit.

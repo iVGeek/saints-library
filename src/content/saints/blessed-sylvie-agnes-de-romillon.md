@@ -1,17 +1,17 @@
 ---
-name: "Blessed Sylvie-Agnès de Romillon"
+name: Blessed Sylvie-Agnès de Romillon
 honorific: Blessed
-summary: "Ursuline nun. Martyred in the French Revolution."
-image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Orange.jpg"
+summary: Ursuline nun. Martyred in the French Revolution.
+image: http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Orange.jpg
 searchAliases:
-  - "Sister Agnès of Jesus"
+  - Sister Agnès of Jesus
 birthYear: 1750
 deathYear: 1794
-born: "15 March 1750 in Bollène, Vaucluse, France"
-died: "guillotined on 10 July 1794 in Orange, Vaucluse, France"
-birthPlace: "Vaucluse, France"
-deathPlace: "Vaucluse, France"
-region: "France"
+born: 15 March 1750 in Bollène, Vaucluse, France
+died: guillotined on 10 July 1794 in Orange, Vaucluse, France
+birthPlace: Vaucluse, France
+deathPlace: Vaucluse, France
+region: France
 feastDay:
   month: 7
   day: 10
@@ -19,6 +19,7 @@ canonizationStatus: Blessed
 vocation:
   - Religious
 martyr: true
+prayers: []
 ---
 
 Ursuline nun. Martyred in the French Revolution.

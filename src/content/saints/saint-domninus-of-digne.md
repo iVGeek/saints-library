@@ -1,15 +1,15 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Domninus of Digne"
+name: Saint Domninus of Digne
 honorific: Saint
-summary: "Missionary bishop to the Dauphiné area of France."
+summary: Missionary bishop to the Dauphiné area of France.
 searchAliases:
-  - "Domnin"
-  - "Donnino"
+  - Domnin
+  - Donnino
 deathYear: 374
-born: "North Africa"
-died: "c.374 of natural causes"
-region: "France"
+born: North Africa
+died: c.374 of natural causes
+region: France
 feastDay:
   month: 4
   day: 20
@@ -19,8 +19,9 @@ vocation:
   - Monk
   - Missionary
 patronage:
-  - "Digne, France"
+  - Digne, France
 martyr: false
+prayers: []
 ---
 
 Missionary bishop to the Dauphiné area of France.

@@ -1,19 +1,20 @@
 ---
-name: "Blessed Bernardino Caimi"
+name: Blessed Bernardino Caimi
 honorific: Blessed
-summary: " Back in Europe, Brother Bernardino got the idea of reproducing Franciscan friar at the convent of Sant'Angelo in Milan, Italy. Superior of a community in Lodi, Italy. His gifts as an administror led to him being appointed commissioner of the holy places in the Holy Land in 1478."
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Bernardino-Caimi.jpg"
+summary: ' Back in Europe, Brother Bernardino got the idea of reproducing Franciscan friar at the convent of Sant''Angelo in Milan, Italy. Superior of a community in Lodi, Italy. His gifts as an administror led to him being appointed commissioner of the holy places in the Holy Land in 1478.'
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Bernardino-Caimi.jpg
 deathYear: 1500
-born: "early 15th century in Italy"
-died: "9 February 1500 of natural causes"
-region: "Italy"
+born: early 15th century in Italy
+died: 9 February 1500 of natural causes
+region: Italy
 feastDay:
   month: 2
   day: 9
 canonizationStatus: Blessed
 vocation: []
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 martyr: false
+prayers: []
 ---
 
 Franciscan friar at the convent of Sant'Angelo in Milan, Italy. Superior of a community in Lodi, Italy. His gifts as an administror led to him being appointed commissioner of the holy places in the Holy Land in 1478.

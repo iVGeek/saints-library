@@ -87,14 +87,159 @@ prayers:
       finding what I have lost: (mention the object). Help me to find not only this earthly thing, but also the peace of
       heart that comes from trusting in God's providence. Through your intercession, may I recover what I seek, and may
       I seek above all the treasures of heaven. Amen.
-  - name: Novena to Saint Anthony
-    kind: Novena — nine-day prayer for lost things and learning
+  - name: Novena to Saint Anthony of Padua
+    kind: >-
+      Novena — begins June 4, nine days before the feast of Saint Anthony of Padua (June 13). Source:
+      https://covenantcatholic.org/novenas/st-anthony-novena/
     text: >-
-      O glorious Saint Anthony, wonder worker and friend of all who invoke you, I come to seek your powerful
-      intercession in my need. As the Christ Child rested in your arms, so I place my petition in your hands. You who
-      found what was lost — lost articles, lost souls, lost hope — help me to find what I seek. May God, through your
-      intercession, grant me the grace I so earnestly seek. Blessed Anthony, ark of wisdom and patron of the poor, I
-      trust in your help now and always. Amen.
+      O holy St. Anthony, gentlest of saints, your love for God and charity for his creatures made you worthy while on
+      earth to possess miraculous powers. Miracles waited for your word, which you were ever ready to speak for those in
+      trouble or anxiety. Encouraged by this thought, I implore you to obtain for me the favor I seek in this novena.
+
+
+      (State your intention)
+
+
+      The answer to my prayer may require a miracle; even so, you are the saint of miracles. O gentle and loving Saint
+      Anthony, whose heart was ever full of human sympathy, whisper my petition into the ears of the Infant Jesus, who
+      loved to be folded in your arms, and the gratitude of my heart will always be yours.
+
+
+      Our Father, Hail Mary, Glory Be. Saint Anthony, pray for us!
+
+
+      ---
+
+
+      O miracle-working St. Anthony, remember that it never has been heard that you left without help or relief anyone
+      who in his need had recourse to you. Animated now with the most lively confidence, even with full conviction of
+      not being refused, I fly for refuge to thee, O most favored friend of the Infant Jesus. O eloquent preacher of the
+      divine mercy, despise not my supplications but, bringing them before the throne of God, strengthen them by your
+      intercession and obtain for me the favor I seek in this novena.
+
+
+      (State your intention)
+
+
+      Our Father, Hail Mary, Glory Be. Saint Anthony, pray for us!
+
+
+      ---
+
+
+      O purest St. Anthony, who through your angelic virtue was made worthy to be caressed by the Divine Child Jesus, to
+      hold him in your arms and press him to your heart. I entreat you to cast a benevolent glance upon me. O glorious
+      St. Anthony, born under the protection of Mary Immaculate, on the Feast of her Assumption into Heaven, and
+      consecrated to her and now so powerful an intercessor in Heaven, I beseech you to obtain for me the favor I ask in
+      this novena.
+
+
+      (State your intention)
+
+
+      O great wonder-worker, intercede for me that God may grant my request.
+
+
+      Our Father, Hail Mary, Glory Be. Saint Anthony, pray for us!
+
+
+      ---
+
+
+      I salute and honor you, O powerful helper, St. Anthony. The Christian world confidently turns to you and
+      experiences your tender compassion and powerful assistance in so many necessities and sufferings that I am
+      encouraged in my need to seek your help in obtaining a favorable answer to my request for the favor I seek in this
+      novena.
+
+
+      (State your intention)
+
+
+      O holy St. Anthony, I beseech you, obtain for me the grace that I desire.
+
+
+      Our Father, Hail Mary, Glory Be. Saint Anthony, pray for us!
+
+
+      ---
+
+
+      I salute you, St. Anthony, lily of purity, ornament and glory of Christianity. I salute you, great Saint, cherub
+      of wisdom and seraph of divine love. I rejoice at the favors our Lord has so liberally bestowed upon you. In
+      humility and confidence, I entreat you to help me, for I know that God has given you charity and pity, as well as
+      power. I ask you by the love you did feel toward the Infant Jesus as you held him in your arms to tell Him now of
+      the favor I seek through your intercession in this novena.
+
+
+      (State your intention)
+
+
+      Our Father, Hail Mary, Glory Be. Saint Anthony, pray for us!
+
+
+      ---
+
+
+      O glorious St. Anthony, chosen by God to preach His Word, you received from Him the gift of tongues and the power
+      of working the most extraordinary miracles. O good St. Anthony, pray that I may fulfill the will of God in all
+      things so that I may love Him, with you, for all eternity. O kind St. Anthony, I beseech you, obtain for me the
+      grace that I desire, the favor I seek in this novena.
+
+
+      (State your intention)
+
+
+      Our Father, Hail Mary, Glory Be. Saint Anthony, pray for us!
+
+
+      ---
+
+
+      O renowned champion of the faith of Christ, most holy St. Anthony, glorious for your many miracles, obtain for me
+      from the bounty of my Lord and God the grace which I ardently seek in this novena.
+
+
+      (State your intention)
+
+
+      O holy St. Anthony, ever attentive to those who invoke you, grant me that aid of your powerful intercession.
+
+
+      Our Father, Hail Mary, Glory Be. Saint Anthony, pray for us!
+
+
+      ---
+
+
+      O holy St. Anthony, you have shown yourself so powerful in your intercession, so tender and so compassionate
+      towards those who honor you and invoke you in suffering and distress. I beseech you most humbly and earnestly to
+      take me under your protection in my present necessities and to obtain for me the favor I desire.
+
+
+      (State your intention)
+
+
+      Recommend my request to the merciful Queen of Heaven, that she may plead my cause with you before the throne of
+      her Divine Son.
+
+
+      Our Father, Hail Mary, Glory Be. Saint Anthony, pray for us!
+
+
+      ---
+
+
+      Saint Anthony, servant of Mary, glory of the Church, pray for our Holy Father, our bishops, our priests, our
+      Religious Orders, that, through their pious zeal and apostolic labors, all may be united in faith and give greater
+      glory to God. St. Anthony, helper of all who invoke you, pray for me and intercede for me before the throne of
+      Almighty God that I be granted the favor I so earnestly seek in this novena.
+
+
+      (State your intention)
+
+
+      Our Father, Hail Mary, Glory Be. Saint Anthony, pray for us!
+    source: https://covenantcatholic.org/novenas/st-anthony-novena/
 relatedSaints:
   - name: Francis of Assisi
     slug: francis-of-assisi

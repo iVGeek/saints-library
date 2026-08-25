@@ -1,15 +1,17 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Kjeld of Viborg"
+name: Blessed Kjeld of Viborg
 honorific: Blessed
-summary: "Born to a peasant farming family. Evangelizing priest, Augustinian canon regular, dean of the cathedral, teacher and zealous preacher in Viborg, Denmark. Miracle worker."
+summary: >-
+  Born to a peasant farming family. Evangelizing priest, Augustinian canon regular, dean of the cathedral, teacher and
+  zealous preacher in Viborg, Denmark. Miracle worker.
 searchAliases:
-  - "Ketil"
-  - "Ketille"
-  - "Kield"
+  - Ketil
+  - Ketille
+  - Kield
 deathYear: 1151
-died: "c.1151 in Viborg, Denmark of natural causes"
-deathPlace: "Denmarknatural causes"
+died: c.1151 in Viborg, Denmark of natural causes
+deathPlace: Denmarknatural causes
 feastDay:
   month: 7
   day: 11
@@ -18,10 +20,11 @@ vocation:
   - Bishop
   - Priest
   - Monk
-religiousOrder: "Augustinian"
+religiousOrder: Augustinian
 patronage:
-  - "Viborg, Denmark"
+  - Viborg, Denmark
 martyr: false
+prayers: []
 ---
 
 Born to a peasant farming family. Evangelizing priest, Augustinian canon regular, dean of the cathedral, teacher and zealous preacher in Viborg, Denmark. Miracle worker.

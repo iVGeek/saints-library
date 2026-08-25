@@ -23,6 +23,7 @@ vocation:
   - Priest
   - Missionary
 martyr: false
+prayers: []
 ---
 
 Youngest of eleven children, Cecilia was baptized at the age of 9 days, and her father died when she was 2 months old. On 6 January 1915 the family moved to a small farm near Nepi, Italy, and came under the care of a maternal uncle. Cecilia received Confirmation on 27 May 1917, and made her First Communion on 2 October 1917. She was educated in a Cistercian convent school. In 1922 she joined the Servants of Mary (Servites) as a secular tertiary, receiving the scapular at the San Tolomeo ai Servi church, and taking the name Maria Angela. Member of Catholic Action.

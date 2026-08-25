@@ -1,24 +1,27 @@
 ---
-name: "Venerable Brian Cansfield"
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Records_of_the_English_Province_of_the_Society_of_Jesus_-_historic_facts_illustrative_of_the_labours_and_sufferings_of_its_members_in_the_sixteenth_and_seventeenth_centuries_%28IA_recordsofenglish00fole%29.pdf/page1-500px-thumbnail.pdf.jpg"
+name: Venerable Brian Cansfield
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Records_of_the_English_Province_of_the_Society_of_Jesus_-_historic_facts_illustrative_of_the_labours_and_sufferings_of_its_members_in_the_sixteenth_and_seventeenth_centuries_%28IA_recordsofenglish00fole%29.pdf/page1-500px-thumbnail.pdf.jpg
 honorific: Venerable
-summary: " In 1618 he received permissio Raised Protestant, Brian joined the Catholic Church at age 16. He studied at the English College at Saint-Omer in Flanders, Belgium then at the Venerable English College in Rome, Italy. Returning to Flanders, Brian joined the Jesuits in 1604. Priest."
+summary: ' In 1618 he received permissio Raised Protestant, Brian joined the Catholic Church at age 16. He studied at the English College at Saint-Omer in Flanders, Belgium then at the Venerable English College in Rome, Italy. Returning to Flanders, Brian joined the Jesuits in 1604. Priest.'
 searchAliases:
-  - "Christopher Benson"
-  - "Christopher Barton"
+  - Christopher Benson
+  - Christopher Barton
 deathYear: 1645
-died: "3 August 1645 in Yorkshire, England from the abuse received in prison"
-deathPlace: "Englandthe abuse received in prison"
-region: "Belgium"
+died: 3 August 1645 in Yorkshire, England from the abuse received in prison
+deathPlace: Englandthe abuse received in prison
+region: Belgium
 feastDay:
   month: 12
   day: 1
-centuries: [17]
+centuries:
+  - 17
 canonizationStatus: Venerable
 vocation:
   - Priest
-religiousOrder: "Jesuit"
+religiousOrder: Jesuit
 martyr: true
+prayers: []
 ---
 
 Raised Protestant, Brian joined the Catholic Church at age 16. He studied at the English College at Saint-Omer in Flanders, Belgium then at the Venerable English College in Rome, Italy. Returning to Flanders, Brian joined the Jesuits in 1604. Priest.

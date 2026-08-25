@@ -1,17 +1,19 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Jožefa Fabjan"
+name: Blessed Jožefa Fabjan
 honorific: Blessed
-summary: "Member of the Daughters of Divine Charity. Martyred while fighting off Chetnik rapists."
+summary: Member of the Daughters of Divine Charity. Martyred while fighting off Chetnik rapists.
 searchAliases:
-  - "Sister Marija Antonija"
+  - Sister Marija Antonija
 birthYear: 1907
 deathYear: 1941
-born: "23 January 1907 in Malo Lipje, Dolenjska, Slovenia"
-died: "in a fall from a 3rd floor window on 15 December 1941 in a barracks of the former Royal Yugoslav army in Goražde, Bosansko-Podrinjski, Bosnia-Herzegovina"
-birthPlace: "Dolenjska, Slovenia"
-deathPlace: "Bosansko-Podrinjski, Bosnia-Herzegovina"
-region: "England"
+born: 23 January 1907 in Malo Lipje, Dolenjska, Slovenia
+died: >-
+  in a fall from a 3rd floor window on 15 December 1941 in a barracks of the former Royal Yugoslav army in Goražde,
+  Bosansko-Podrinjski, Bosnia-Herzegovina
+birthPlace: Dolenjska, Slovenia
+deathPlace: Bosansko-Podrinjski, Bosnia-Herzegovina
+region: England
 feastDay:
   month: 12
   day: 15
@@ -20,6 +22,7 @@ vocation:
   - Religious
   - Cardinal
 martyr: true
+prayers: []
 ---
 
 Member of the Daughters of Divine Charity. Martyred while fighting off Chetnik rapists.

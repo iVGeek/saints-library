@@ -1,14 +1,17 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Comgan the Monk"
+name: Saint Comgan the Monk
 honorific: Saint
-summary: "Born to the Irish royalty, the son of a prince of Leinster, Ireland; brother of Saint Kentigern, nephew of Saint Fillan. Soldier, wounded in battle with a neighboring clan, he and his sister fled to Scotland where he became a monk at Lochaise."
+summary: >-
+  Born to the Irish royalty, the son of a prince of Leinster, Ireland; brother of Saint Kentigern, nephew of Saint
+  Fillan. Soldier, wounded in battle with a neighboring clan, he and his sister fled to Scotland where he became a monk
+  at Lochaise.
 searchAliases:
-  - "Congan"
-born: "Ireland"
-died: "buried on the island of Iona Abbey, Scotland"
-deathPlace: "Scotland"
-region: "Scotland"
+  - Congan
+born: Ireland
+died: buried on the island of Iona Abbey, Scotland
+deathPlace: Scotland
+region: Scotland
 feastDay:
   month: 10
   day: 13
@@ -18,6 +21,7 @@ vocation:
   - Religious
   - Soldier
 martyr: false
+prayers: []
 ---
 
 Born to the Irish royalty, the son of a prince of Leinster, Ireland; brother of Saint Kentigern, nephew of Saint Fillan. Soldier, wounded in battle with a neighboring clan, he and his sister fled to Scotland where he became a monk at Lochaise.

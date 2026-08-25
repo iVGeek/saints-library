@@ -16,6 +16,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/2/28/Constantine_I_The_Great%2C_Colossal_bronze_statue_fragments%2C_Capitoline_Museums.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Eutropia of North Africa
 imageCreditUrl: https://en.wikipedia.org/wiki/Constantine%20the%20Great
+prayers: []
 ---
 
 Martyred in the persecutions of Valerian.

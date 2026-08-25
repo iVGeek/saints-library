@@ -1,32 +1,37 @@
 ---
-name: "Saint Pedro de San José Betancur"
+name: Saint Pedro de San José Betancur
 honorific: Venerable
-summary: "Born a poor shepherd, Pedro devoted his time with the flocks to prayer. At age thirty-one, he journeyed to Guatemala City in hopes of a job away from the sheep. Befriended by the Jesuits and Franciscans of the area, he enrolled in the Jesuit College of San Borgia in hopes of beco"
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Pedro-de-San-Jose-Betancur-1.jpg"
+summary: >-
+  Born a poor shepherd, Pedro devoted his time with the flocks to prayer. At age thirty-one, he journeyed to Guatemala
+  City in hopes of a job away from the sheep. Befriended by the Jesuits and Franciscans of the area, he enrolled in the
+  Jesuit College of San Borgia in hopes of beco
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Pedro-de-San-Jose-Betancur-1.jpg
 searchAliases:
-  - "Pedro Betancur"
-  - "Peter Betancur"
-  - "Peter of Saint Joseph Betancur"
-  - "Saint Francis of the Americas"
+  - Pedro Betancur
+  - Peter Betancur
+  - Peter of Saint Joseph Betancur
+  - Saint Francis of the Americas
 birthYear: 1619
 deathYear: 1667
-born: "16 May 1619 at Villaflores, Tenerife Island, Canary Islands, Spain"
-died: "25 April 1667 at Guatemala City, Guatemala of natural causes"
-birthPlace: "Tenerife Island, Canary Islands, Spain"
-deathPlace: "Guatemalanatural causes"
-region: "Mexico"
+born: 16 May 1619 at Villaflores, Tenerife Island, Canary Islands, Spain
+died: 25 April 1667 at Guatemala City, Guatemala of natural causes
+birthPlace: Tenerife Island, Canary Islands, Spain
+deathPlace: Guatemalanatural causes
+region: Mexico
 feastDay:
   month: 4
   day: 25
-centuries: [17]
+centuries:
+  - 17
 canonizationStatus: Venerable
 vocation:
   - Priest
-religiousOrder: "Jesuit"
+religiousOrder: Jesuit
 patronage:
-  - "Bethlemite Congregations"
-  - "Canary Islands"
+  - Bethlemite Congregations
+  - Canary Islands
 martyr: false
+prayers: []
 ---
 
 Born a poor shepherd, Pedro devoted his time with the flocks to prayer. At age thirty-one, he journeyed to Guatemala City in hopes of a job away from the sheep. Befriended by the Jesuits and Franciscans of the area, he enrolled in the Jesuit College of San Borgia in hopes of becoming a priest. However, with little background education he was unable to master the material, and withdrew. He then took private vows, and became a Franciscan tertiary, taking the name Peter of Saint Joseph.

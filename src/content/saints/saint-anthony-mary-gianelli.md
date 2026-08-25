@@ -1,31 +1,37 @@
 ---
-name: "Saint Anthony Mary Gianelli"
+name: Saint Anthony Mary Gianelli
 honorific: Venerable
-title: "Missionary"
-summary: "Son of Mary and James Gianelli, Anthony grew up in a poor, pious family in a small farming village. His mother taught catechism, and his father was known as a generous peace-maker in the town. Anthony was such a promising student that the owner of his family farm paid for his sem"
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Anthony-Mary-Gianelli.jpg"
+title: Missionary
+summary: >-
+  Son of Mary and James Gianelli, Anthony grew up in a poor, pious family in a small farming village. His mother taught
+  catechism, and his father was known as a generous peace-maker in the town. Anthony was such a promising student that
+  the owner of his family farm paid for his sem
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Anthony-Mary-Gianelli.jpg
 searchAliases:
-  - "Antony Gianelli"
+  - Antony Gianelli
 birthYear: 1789
 deathYear: 1846
-born: "12 April 1789 at Cerreto, Italy"
-died: "7 June 1846 of a serious fever"
-birthPlace: "Italy"
-region: "Italy"
+born: 12 April 1789 at Cerreto, Italy
+died: 7 June 1846 of a serious fever
+birthPlace: Italy
+region: Italy
 feastDay:
   month: 6
   day: 7
-centuries: [18, 19]
+centuries:
+  - 18
+  - 19
 canonizationStatus: Venerable
 vocation:
   - Missionary
 patronage:
-  - "Bobbio, Italy (proclaimed on 7 December 1963 by Pope Paul VI)"
-  - "–"
-  - "Missionaries of Saint Alphonsus"
-  - "Oblates of Saint Alphonsus"
-  - "Sisters of Our Lady of the Garden"
+  - Bobbio, Italy (proclaimed on 7 December 1963 by Pope Paul VI)
+  - –
+  - Missionaries of Saint Alphonsus
+  - Oblates of Saint Alphonsus
+  - Sisters of Our Lady of the Garden
 martyr: false
+prayers: []
 ---
 
 Son of Mary and James Gianelli, Anthony grew up in a poor, pious family in a small farming village. His mother taught catechism, and his father was known as a generous peace-maker in the town. Anthony was such a promising student that the owner of his family farm paid for his seminary education. Ordained a priest on 24 May 1812; he was so young that he needed special dispensation for the ordination, but was such a promising candidate that he received it. Served as a parish priest.

@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Theoidus"
+name: Saint Theoidus
 honorific: Saint
-summary: "Martyr."
+summary: Martyr.
 searchAliases:
-  - "Thelois"
-died: "trampled to death"
+  - Thelois
+died: trampled to death
 feastDay:
   month: 1
   day: 5
@@ -13,6 +13,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Martyr.

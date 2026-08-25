@@ -1,15 +1,18 @@
 ---
-name: "Blessed John Sullivan"
+name: Blessed John Sullivan
 honorific: Blessed
-summary: "Son of the Lord Chancellor of Ireland, and raised in the Church of Ireland; his mother was Catholic. Successful barrister in Dublin, Ireland. When his father died in 1885, he inherited the family fortune, quit his career, travelled, and became known as the best dressed man in Dub"
-image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-John-Sullivan.jpg"
+summary: >-
+  Son of the Lord Chancellor of Ireland, and raised in the Church of Ireland; his mother was Catholic. Successful
+  barrister in Dublin, Ireland. When his father died in 1885, he inherited the family fortune, quit his career,
+  travelled, and became known as the best dressed man in Dub
+image: http://catholicsaints.info/wp-content/uploads/img-Venerable-John-Sullivan.jpg
 birthYear: 1861
 deathYear: 1933
-born: "8 May 1861 in Dublin, Ireland"
-died: "19 February 1933 at Saint Vincent's Nursing Home in Dublin, Ireland of natural causes"
-birthPlace: "Ireland"
-deathPlace: "Irelandnatural causes"
-region: "Ireland"
+born: 8 May 1861 in Dublin, Ireland
+died: 19 February 1933 at Saint Vincent's Nursing Home in Dublin, Ireland of natural causes
+birthPlace: Ireland
+deathPlace: Irelandnatural causes
+region: Ireland
 feastDay:
   month: 2
   day: 19
@@ -17,8 +20,9 @@ canonizationStatus: Blessed
 vocation:
   - Priest
   - Cardinal
-religiousOrder: "Jesuit"
+religiousOrder: Jesuit
 martyr: false
+prayers: []
 ---
 
 Son of the Lord Chancellor of Ireland, and raised in the Church of Ireland; his mother was Catholic. Successful barrister in Dublin, Ireland. When his father died in 1885, he inherited the family fortune, quit his career, travelled, and became known as the best dressed man in Dublin. 

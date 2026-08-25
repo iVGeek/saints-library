@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Monas of Milan"
+name: Saint Monas of Milan
 honorific: Saint
-summary: "Bishop of Milan, Italy for 56 years, serving through many imperial Roman persecutions from 193 until his death."
+summary: Bishop of Milan, Italy for 56 years, serving through many imperial Roman persecutions from 193 until his death.
 deathYear: 249
-died: "249 of natural causes"
-region: "Italy"
+died: 249 of natural causes
+region: Italy
 feastDay:
   month: 10
   day: 12
@@ -14,6 +14,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Bishop of Milan, Italy for 56 years, serving through many imperial Roman persecutions from 193 until his death.

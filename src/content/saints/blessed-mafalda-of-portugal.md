@@ -21,6 +21,7 @@ vocation:
   - Religious
 religiousOrder: Benedictine
 martyr: false
+prayers: []
 ---
 
 Born a princess, the daughter of King Sancho I of Portugal. Sister of Saint Theresa of Portugal and Saint Sancha of Portugal. Portugal was involved in a war to reclaim the Iberian peninsula from the Moors, and to seal an alliance with the neighboring kingdom of Castile, a marriage was arranged between Mafalda and King Henry I of Castile even though he was a small boy and she was around 30. They were married in 1215, but Pope Innocent III annuled the marriage in 1216 because they were actually related. Mafalda returned to Portugal in 1222, entering the Benedictine convent in Arouca. In 1223 she helped introduce the Cistercian Rule to the convent, and was known for her strict adherence to the Cistercian way. Helped restore the cathedral in Oporto, Portugal, and founded a hospice for pilgrims and a hospital for poor widows in Arouca.

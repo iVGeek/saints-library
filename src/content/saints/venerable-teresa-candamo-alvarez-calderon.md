@@ -1,24 +1,28 @@
 ---
-name: "Venerable Teresa Candamo Álvarez-Calderon"
+name: Venerable Teresa Candamo Álvarez-Calderon
 honorific: Venerable
-summary: "Founder of the Canonesses of the Cross."
-image: "http://catholicsaints.info/wp-content/gallery/venerable-teresa-candamo-alvarez-calderon/venerable-teresa-candamo-alvarez-calderon-01.jpg"
+summary: Founder of the Canonesses of the Cross.
+image: >-
+  http://catholicsaints.info/wp-content/gallery/venerable-teresa-candamo-alvarez-calderon/venerable-teresa-candamo-alvarez-calderon-01.jpg
 searchAliases:
-  - "Sister Teresa of the Cross"
+  - Sister Teresa of the Cross
 birthYear: 1875
 deathYear: 1953
-born: "19 August 1875 in Lima, Peru"
-died: "24 August 1953 in Lima, Peru of natural causes"
-birthPlace: "Peru"
-deathPlace: "Perunatural causes"
+born: 19 August 1875 in Lima, Peru
+died: 24 August 1953 in Lima, Peru of natural causes
+birthPlace: Peru
+deathPlace: Perunatural causes
 feastDay:
   month: 1
   day: 1
-centuries: [19, 20]
+centuries:
+  - 19
+  - 20
 canonizationStatus: Venerable
 vocation:
   - Religious
 martyr: false
+prayers: []
 ---
 
 Founder of the Canonesses of the Cross.

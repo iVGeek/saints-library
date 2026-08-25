@@ -20,6 +20,7 @@ vocation:
   - Priest
   - Hermit
 martyr: false
+prayers: []
 ---
 
 Born to an esteemed Milanese family. Priest of the parishes of Cuasso, Cuasso al Piano, Cuasso al Monte, Brusimpiano and Porto Ceresio Besano in the diocese of Milan. Hermit on Monte San Giorgio, Italy. His reputation for piety spread, which led to a series of people asking for his advice, and his intercession in a plague in 1207; he recommended pilgrimages to the tombs of saints and to ask for their intercession, which worked. Miracle worker.

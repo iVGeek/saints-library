@@ -26,6 +26,7 @@ vocation:
   - Bishop
   - Priest
 martyr: false
+prayers: []
 ---
 
 Son of Vincenzo and Anna Maria Marello. His mother died when Joseph was very young, and the family moved from Turin to Santi Martino Alfieri. Entered the seminary at age 12. Contracted typhus at age 19; promised Our Lady that if he survived, he would continue his studies to be ordained. He recovered, attributed the cure to Our Lady of Consolation, and was ordained on 19 September 1868.

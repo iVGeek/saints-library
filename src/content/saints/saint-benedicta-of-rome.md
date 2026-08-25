@@ -25,6 +25,7 @@ imageAlt: Portrait of Saint Benedicta of Rome
 imageCredit: <span class="int-own-work" lang="en">Own work</span>
 imageCreditUrl: >-
   https://commons.wikimedia.org/wiki/File:Prague-Smichov-St%20Gabriel%20Church-Saint%20Benedict%20and%20Saint%20Scholastica%201.jpg
+prayers: []
 ---
 
 Nun in 6th century Rome, Italy. Friend of Saint Galla who had founded their monastery. She received a vision of Saint Peter the Apostle warning her of her death.

@@ -1,14 +1,14 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Christiana"
+name: Saint Christiana
 honorific: Saint
-summary: "Anglo-Saxon princess. Nun in Flanders, Belgium."
+summary: Anglo-Saxon princess. Nun in Flanders, Belgium.
 searchAliases:
-  - "Christine"
-born: "7th century England"
-died: "Flanders, Belgium"
-deathPlace: "Belgium"
-region: "Belgium"
+  - Christine
+born: 7th century England
+died: Flanders, Belgium
+deathPlace: Belgium
+region: Belgium
 feastDay:
   month: 7
   day: 24
@@ -17,8 +17,9 @@ vocation:
   - Monk
   - Religious
 patronage:
-  - "Termonde, Belgium"
+  - Termonde, Belgium
 martyr: false
+prayers: []
 ---
 
 Anglo-Saxon princess. Nun in Flanders, Belgium.

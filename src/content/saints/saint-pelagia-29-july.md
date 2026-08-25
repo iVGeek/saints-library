@@ -1,14 +1,15 @@
 ---
-name: "Saint Pelagia"
+name: Saint Pelagia
 honorific: Saint
-summary: "Martyr. No other information has survived."
+summary: Martyr. No other information has survived.
 feastDay:
   month: 7
   day: 29
 canonizationStatus: Saint
-image: "https://upload.wikimedia.org/wikipedia/commons/a/af/Saint_pelagia.jpg"
+image: https://upload.wikimedia.org/wikipedia/commons/a/af/Saint_pelagia.jpg
 vocation: []
 martyr: true
+prayers: []
 ---
 
 Martyr. No other information has survived.

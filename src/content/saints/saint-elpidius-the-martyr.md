@@ -16,6 +16,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/2/2a/The_statue_of_St._Expeditus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Elpidius the Martyr
 imageCreditUrl: https://en.wikipedia.org/wiki/Expeditus
+prayers: []
 ---
 
 Official in the court of Emperor Constantius. He was demoted from the court by Julian the Apostate. Martyr.

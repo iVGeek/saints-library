@@ -1,25 +1,26 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed José María Recalde Magúregui"
+name: Blessed José María Recalde Magúregui
 honorific: Blessed
-summary: "Franciscan Capuchin priest. Martyred in the Spanish Civil War."
+summary: Franciscan Capuchin priest. Martyred in the Spanish Civil War.
 searchAliases:
-  - "Ignacio of Galdácano"
+  - Ignacio of Galdácano
 birthYear: 1912
 deathYear: 1936
-born: "7 February 1912 in Galdácano, Vitoria, Spain"
-died: "6 August 1936 in Antequera, Málaga, Spain"
-birthPlace: "Vitoria, Spain"
-deathPlace: "Málaga, Spain"
-region: "Spain"
+born: 7 February 1912 in Galdácano, Vitoria, Spain
+died: 6 August 1936 in Antequera, Málaga, Spain
+birthPlace: Vitoria, Spain
+deathPlace: Málaga, Spain
+region: Spain
 feastDay:
   month: 8
   day: 6
 canonizationStatus: Blessed
 vocation:
   - Priest
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 martyr: true
+prayers: []
 ---
 
 Franciscan Capuchin priest. Martyred in the Spanish Civil War.

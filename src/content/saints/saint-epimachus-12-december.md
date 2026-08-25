@@ -14,6 +14,7 @@ canonizationStatus: Saint
 vocation:
   - Priest
 martyr: true
+prayers: []
 ---
 
 Martyred in the persecutions of Decius.

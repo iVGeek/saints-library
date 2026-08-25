@@ -1,14 +1,16 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Goscelinus of Toul"
+name: Saint Goscelinus of Toul
 honorific: Saint
-summary: "Bishop of Toul, Lotharingia (in modern France). Promoted monastic institutions in his diocese, and monastic discipline on those houses."
+summary: >-
+  Bishop of Toul, Lotharingia (in modern France). Promoted monastic institutions in his diocese, and monastic discipline
+  on those houses.
 searchAliases:
-  - "Gauzlino"
-  - "Gozzelino"
+  - Gauzlino
+  - Gozzelino
 deathYear: 962
-died: "962 of natural causes"
-region: "France"
+died: 962 of natural causes
+region: France
 feastDay:
   month: 9
   day: 7
@@ -17,6 +19,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Bishop of Toul, Lotharingia (in modern France). Promoted monastic institutions in his diocese, and monastic discipline on those houses.

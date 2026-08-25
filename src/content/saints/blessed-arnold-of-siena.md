@@ -1,21 +1,24 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Arnold of Siena"
+name: Blessed Arnold of Siena
 honorific: Blessed
-summary: "Studied law in Toulouse, France. Augustinian hermit, taking his vows on 11 July 1494; known for his strict observance of the Rule of his Order."
+summary: >-
+  Studied law in Toulouse, France. Augustinian hermit, taking his vows on 11 July 1494; known for his strict observance
+  of the Rule of his Order.
 searchAliases:
-  - "Arnaldo"
+  - Arnaldo
 deathYear: 1507
-died: "20 May 1507 of natural causes"
-region: "France"
+died: 20 May 1507 of natural causes
+region: France
 feastDay:
   month: 3
   day: 15
 canonizationStatus: Blessed
 vocation:
   - Hermit
-religiousOrder: "Augustinian"
+religiousOrder: Augustinian
 martyr: false
+prayers: []
 ---
 
 Studied law in Toulouse, France. Augustinian hermit, taking his vows on 11 July 1494; known for his strict observance of the Rule of his Order.

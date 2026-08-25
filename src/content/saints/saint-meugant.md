@@ -1,15 +1,15 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Meugant"
+name: Saint Meugant
 honorific: Saint
-summary: "Sixth-century spiritual student of Saint Illtyd. Hermit. Several churches in Wales and Cornwall are dedicated to him."
+summary: Sixth-century spiritual student of Saint Illtyd. Hermit. Several churches in Wales and Cornwall are dedicated to him.
 searchAliases:
-  - "Maughan"
-  - "Mawghan"
-  - "Morgan"
-died: "Isle of Bardsey, Wales"
-deathPlace: "Wales"
-region: "England"
+  - Maughan
+  - Mawghan
+  - Morgan
+died: Isle of Bardsey, Wales
+deathPlace: Wales
+region: England
 feastDay:
   month: 9
   day: 26
@@ -18,6 +18,7 @@ vocation:
   - Monk
   - Hermit
 martyr: false
+prayers: []
 ---
 
 Sixth-century spiritual student of Saint Illtyd. Hermit. Several churches in Wales and Cornwall are dedicated to him.

@@ -1,24 +1,27 @@
 ---
-name: "Saint Alferius of La Cava"
+name: Saint Alferius of La Cava
 honorific: Saint
-summary: "Member of the noble Pappacarbone family. Ambassador for Duke Gisulf of Salerno, Italy. When he fell seriously ill at the abbey of Chiusa, Italy, he made the common promise to God that if he lived, he would enter religious life. When he recovered, he became a monk at Cluny, France"
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Alferius-of-La-Cava.jpg"
+summary: >-
+  Member of the noble Pappacarbone family. Ambassador for Duke Gisulf of Salerno, Italy. When he fell seriously ill at
+  the abbey of Chiusa, Italy, he made the common promise to God that if he lived, he would enter religious life. When he
+  recovered, he became a monk at Cluny, France
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Alferius-of-La-Cava.jpg
 searchAliases:
-  - "Alferius Pappacarbone"
-  - "Adalfere"
-  - "Adalfericus"
-  - "Adalferius"
-  - "Alfere"
-  - "Alferio Abbate"
-  - "Alferio the Abbot"
-  - "Allerius"
-  - "Alpherius"
+  - Alferius Pappacarbone
+  - Adalfere
+  - Adalfericus
+  - Adalferius
+  - Alfere
+  - Alferio Abbate
+  - Alferio the Abbot
+  - Allerius
+  - Alpherius
 birthYear: 930
 deathYear: 1050
-born: "930 at Salerno, Italy"
-died: "Holy Thursday 1050"
-birthPlace: "Italy"
-region: "France"
+born: 930 at Salerno, Italy
+died: Holy Thursday 1050
+birthPlace: Italy
+region: France
 feastDay:
   month: 4
   day: 12
@@ -26,8 +29,9 @@ canonizationStatus: Saint
 vocation:
   - Monk
   - Hermit
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 martyr: false
+prayers: []
 ---
 
 Member of the noble Pappacarbone family. Ambassador for Duke Gisulf of Salerno, Italy. When he fell seriously ill at the abbey of Chiusa, Italy, he made the common promise to God that if he lived, he would enter religious life. When he recovered, he became a monk at Cluny, France, training under Saint Odilo of Cluny. Duke Gisulf recalled him to Salerno to reform the monasteries in his region.

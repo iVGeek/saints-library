@@ -1,23 +1,24 @@
 ---
-name: "Blessed Isidro Gil Arano"
+name: Blessed Isidro Gil Arano
 honorific: Blessed
-summary: "Joined the Hospitallers of Saint John of God in 1905. Martyred in the Spanish Civil War."
-image: "http://catholicsaints.info/wp-content/uploads/img-Martyred-Hospitallers-of-Spain.jpg"
+summary: Joined the Hospitallers of Saint John of God in 1905. Martyred in the Spanish Civil War.
+image: http://catholicsaints.info/wp-content/uploads/img-Martyred-Hospitallers-of-Spain.jpg
 searchAliases:
-  - "Brother Carmelo"
+  - Brother Carmelo
 birthYear: 1879
 deathYear: 1936
-born: "15 May 1879 in Tudela, Navarra, Spain"
-died: "shot on 1 September 1936 near Boadillo del Monte, Madrid, Spain"
-birthPlace: "Navarra, Spain"
-deathPlace: "Madrid, Spain"
-region: "Spain"
+born: 15 May 1879 in Tudela, Navarra, Spain
+died: shot on 1 September 1936 near Boadillo del Monte, Madrid, Spain
+birthPlace: Navarra, Spain
+deathPlace: Madrid, Spain
+region: Spain
 feastDay:
   month: 9
   day: 1
 canonizationStatus: Blessed
 vocation: []
 martyr: true
+prayers: []
 ---
 
 Joined the Hospitallers of Saint John of God in 1905. Martyred in the Spanish Civil War.

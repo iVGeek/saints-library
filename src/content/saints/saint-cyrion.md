@@ -1,14 +1,14 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Cyrion"
+name: Saint Cyrion
 honorific: Saint
-summary: "Soldier. One of the Forty Armenian Martyrs killed in the persecutions of Licinius."
+summary: Soldier. One of the Forty Armenian Martyrs killed in the persecutions of Licinius.
 searchAliases:
-  - "Quirinus"
+  - Quirinus
 deathYear: 320
-died: "frozen to death in 320 in Sebaste, Armenia"
-deathPlace: "Armenia"
-region: "Italy"
+died: frozen to death in 320 in Sebaste, Armenia
+deathPlace: Armenia
+region: Italy
 feastDay:
   month: 3
   day: 9
@@ -17,8 +17,9 @@ vocation:
   - Monk
   - Soldier
 patronage:
-  - "Montaldo di Castro, Italy"
+  - Montaldo di Castro, Italy
 martyr: true
+prayers: []
 ---
 
 Soldier. One of the Forty Armenian Martyrs killed in the persecutions of Licinius.

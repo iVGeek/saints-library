@@ -1,14 +1,16 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Jarlath of Armagh"
+name: Saint Jarlath of Armagh
 honorific: Saint
-summary: "Spiritual student of Saint Patrick. Bishop of Armagh, Ireland. Involved in the monastic expansion and general missionary work in the British Isles."
+summary: >-
+  Spiritual student of Saint Patrick. Bishop of Armagh, Ireland. Involved in the monastic expansion and general
+  missionary work in the British Isles.
 searchAliases:
-  - "Hierlath"
+  - Hierlath
 deathYear: 480
-born: "Irish"
-died: "c.480 of natural causes"
-region: "Ireland"
+born: Irish
+died: c.480 of natural causes
+region: Ireland
 feastDay:
   month: 2
   day: 1
@@ -18,6 +20,7 @@ vocation:
   - Monk
   - Missionary
 martyr: false
+prayers: []
 ---
 
 Spiritual student of Saint Patrick. Bishop of Armagh, Ireland. Involved in the monastic expansion and general missionary work in the British Isles.

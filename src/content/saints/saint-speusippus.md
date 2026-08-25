@@ -1,19 +1,22 @@
 ---
-name: "Saint Speusippus"
+name: Saint Speusippus
 honorific: Saint
-summary: "Triplet brother of Saint Eleusippus and Saint Meleusippus; grandson of Saint Leonilla. Martyred by Marcus Aurelius. An extraordinary series of legends grew up around the family over the years."
-died: "relics in Langres, France"
-deathPlace: "France"
-region: "France"
+summary: >-
+  Triplet brother of Saint Eleusippus and Saint Meleusippus; grandson of Saint Leonilla. Martyred by Marcus Aurelius. An
+  extraordinary series of legends grew up around the family over the years.
+died: relics in Langres, France
+deathPlace: France
+region: France
 feastDay:
   month: 1
   day: 17
 canonizationStatus: Saint
-image: "https://upload.wikimedia.org/wikipedia/commons/8/85/Speusippus_in_Thomas_Stanley_History_of_Philosophy.jpg"
+image: https://upload.wikimedia.org/wikipedia/commons/8/85/Speusippus_in_Thomas_Stanley_History_of_Philosophy.jpg
 vocation:
   - Priest
   - Monk
 martyr: true
+prayers: []
 ---
 
 Triplet brother of Saint Eleusippus and Saint Meleusippus; grandson of Saint Leonilla. Martyred by Marcus Aurelius. An extraordinary series of legends grew up around the family over the years.

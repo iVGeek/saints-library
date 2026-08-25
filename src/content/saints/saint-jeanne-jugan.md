@@ -28,6 +28,7 @@ vocation:
   - Religious
 religiousOrder: Franciscan
 martyr: false
+prayers: []
 ---
 
 Born in a small, impoverished fishing village. Her father was a fisherman named Joseph who was gone to sea most of the time, and died when Jeanne was 4 years old. Her mother was named Marie, did farm work to support her family, and raised the children in the Faith during the time of the French Revolution when Christianity was being suppressed.

@@ -1,33 +1,38 @@
 ---
-name: "Saint Stanislaw of Jesus and Mary"
+name: Saint Stanislaw of Jesus and Mary
 honorific: Venerable
-summary: "Youngest of eight children of Tomasz Papczyński, a village blacksmith and bailiff and Zofia Tacikowska. As a boy he worked as a shepherd, tending his father's sheep. He was not a natural student, but he worked hard and graduated from a series of schools, colleges and seminaries."
-
-image: "http://catholicsaints.info/wp-content/uploads/papczynski.jpg"
+summary: >-
+  Youngest of eight children of Tomasz Papczyński, a village blacksmith and bailiff and Zofia Tacikowska. As a boy he
+  worked as a shepherd, tending his father's sheep. He was not a natural student, but he worked hard and graduated from
+  a series of schools, colleges and seminaries.
+image: http://catholicsaints.info/wp-content/uploads/papczynski.jpg
 searchAliases:
-  - "Jan Papczynski"
-  - "Jana Papczynski"
-  - "Stanislao de Jesus Maria"
-  - "Stanislaus of Jesus and Mary"
-  - "Stanislaus Papczynski"
-  - "Father Founder of the Marians"
+  - Jan Papczynski
+  - Jana Papczynski
+  - Stanislao de Jesus Maria
+  - Stanislaus of Jesus and Mary
+  - Stanislaus Papczynski
+  - Father Founder of the Marians
 birthYear: 1631
 deathYear: 1701
-born: "18 May 1631 in Podegrodzie, Malopolskie, Poland as  Jan Papczyński"
-died: "17 September 1701 in Góra Kalwaria, Mazowieckie, Poland of natural causes"
-birthPlace: "Malopolskie, Poland as  Jan Papczyński"
-deathPlace: "Mazowieckie, Polandnatural causes"
-region: "Poland"
+born: 18 May 1631 in Podegrodzie, Malopolskie, Poland as  Jan Papczyński
+died: 17 September 1701 in Góra Kalwaria, Mazowieckie, Poland of natural causes
+birthPlace: Malopolskie, Poland as  Jan Papczyński
+deathPlace: Mazowieckie, Polandnatural causes
+region: Poland
 feastDay:
   month: 9
   day: 17
-centuries: [17, 18]
+centuries:
+  - 17
+  - 18
 canonizationStatus: Venerable
 vocation:
   - Priest
 patronage:
-  - "Marian Fathers of the Immaculate Conception of the Most Blessed Virgin Mary"
+  - Marian Fathers of the Immaculate Conception of the Most Blessed Virgin Mary
 martyr: false
+prayers: []
 ---
 
 Youngest of eight children of Tomasz Papczyński, a village blacksmith and bailiff and Zofia Tacikowska. As a boy he worked as a shepherd, tending his father's sheep. He was not a natural student, but he worked hard and graduated from a series of schools, colleges and seminaries.

@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Sergius of Tiberiopolis"
+name: Saint Sergius of Tiberiopolis
 honorific: Saint
-summary: "Priest. Martyred in the persecutions of Julian the Apostate. No other information has survived."
+summary: Priest. Martyred in the persecutions of Julian the Apostate. No other information has survived.
 deathYear: 361
-died: "beheaded in 361 at Tiberiopolis, Phrygia Pacatiana, Asia Minor"
-deathPlace: "Phrygia Pacatiana, Asia Minor"
+died: beheaded in 361 at Tiberiopolis, Phrygia Pacatiana, Asia Minor
+deathPlace: Phrygia Pacatiana, Asia Minor
 feastDay:
   month: 11
   day: 28
@@ -14,6 +14,7 @@ vocation:
   - Priest
   - Monk
 martyr: true
+prayers: []
 ---
 
 Priest. Martyred in the persecutions of Julian the Apostate. No other information has survived.

@@ -1,12 +1,12 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Cesarius of Cologne"
+name: Saint Cesarius of Cologne
 honorific: Saint
-summary: "Priest. Travelled with and martyred with Saint Ursula."
+summary: Priest. Travelled with and martyred with Saint Ursula.
 deathYear: 238
-died: "21 October 238 in Cologne, Germany"
-deathPlace: "Germany"
-region: "Germany"
+died: 21 October 238 in Cologne, Germany
+deathPlace: Germany
+region: Germany
 feastDay:
   month: 10
   day: 21
@@ -15,6 +15,7 @@ vocation:
   - Priest
   - Monk
 martyr: true
+prayers: []
 ---
 
 Priest. Travelled with and martyred with Saint Ursula.

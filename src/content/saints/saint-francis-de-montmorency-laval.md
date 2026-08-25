@@ -1,31 +1,37 @@
 ---
-name: "Saint Francis de Montmorency Laval"
+name: Saint Francis de Montmorency Laval
 honorific: Venerable
-summary: "Third son of Hughes de Laval, an aristocrat soldier, and Michelle de P&eacute;ricard. His was an old, distinguished and religious family, and Francis early felt a call to the priesthood. Educated by Jesuits at La Fleche from ages eight to fourteen. His father died when the boy wa"
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Francis-de-Montmorency-Laval1.jpg"
+summary: >-
+  Third son of Hughes de Laval, an aristocrat soldier, and Michelle de P&eacute;ricard. His was an old, distinguished
+  and religious family, and Francis early felt a call to the priesthood. Educated by Jesuits at La Fleche from ages
+  eight to fourteen. His father died when the boy wa
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Francis-de-Montmorency-Laval1.jpg
 searchAliases:
-  - "Fran&ccedil;ois de Montmorency Laval"
+  - Fran&ccedil;ois de Montmorency Laval
 birthYear: 1623
 deathYear: 1708
-born: "30 April 1623 in Montigny-sur-Avre, Normandy, France"
-died: "6 May 1708 in Quebec, Canada of natural causes"
-birthPlace: "Normandy, France"
-deathPlace: "Canadanatural causes"
-region: "Vietnam"
+born: 30 April 1623 in Montigny-sur-Avre, Normandy, France
+died: 6 May 1708 in Quebec, Canada of natural causes
+birthPlace: Normandy, France
+deathPlace: Canadanatural causes
+region: Vietnam
 feastDay:
   month: 5
   day: 6
-centuries: [17, 18]
+centuries:
+  - 17
+  - 18
 canonizationStatus: Venerable
 vocation:
   - Bishop
   - Priest
   - Deacon
   - Missionary
-religiousOrder: "Jesuit"
+religiousOrder: Jesuit
 patronage:
-  - "bishops of Canada"
+  - bishops of Canada
 martyr: false
+prayers: []
 ---
 
 Third son of Hughes de Laval, an aristocrat soldier, and Michelle de P&eacute;ricard. His was an old, distinguished and religious family, and Francis early felt a call to the priesthood. Educated by Jesuits at La Fleche from ages eight to fourteen. His father died when the boy was thirteen, and as clerical positions were often as much politics as religion, Francis was made a parish canon so that his salary could help support the family. Studied for the priesthood at the Jesuit Clermont College in Paris, France at age nineteen, but withdrew for a while in 1645 when his two older brothers died and he was forced to manage the family estates. Ordained on 1 May 1647. Archdeacon of Evreux. Member of the Paris Foreign Mission Society at age thirty. Vicar apostolic of Tongkin, Indochina (modern Vietnam) in 1653, but family obligations and the turmoil of the region prevented him moving there. Resigned his position in 1654 to spend four years in a hermitage in Caen. Titular bishop of Petraea.

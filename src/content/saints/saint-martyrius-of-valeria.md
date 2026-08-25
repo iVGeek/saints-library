@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Martyrius of Valeria"
+name: Saint Martyrius of Valeria
 honorific: Saint
-summary: "Sixth century hermit in the Valeria (modern Abruzzo), Italy."
+summary: Sixth century hermit in the Valeria (modern Abruzzo), Italy.
 searchAliases:
-  - "Martory"
-region: "Italy"
+  - Martory
+region: Italy
 feastDay:
   month: 1
   day: 23
@@ -14,6 +14,7 @@ vocation:
   - Monk
   - Hermit
 martyr: false
+prayers: []
 ---
 
 Sixth century hermit in the Valeria (modern Abruzzo), Italy.

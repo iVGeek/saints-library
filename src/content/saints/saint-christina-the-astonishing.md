@@ -1,18 +1,21 @@
 ---
-name: "Saint Christina the Astonishing"
+name: Saint Christina the Astonishing
 honorific: Saint
-summary: "Born to a peasant family, orphaned as a child, and raised by two older sisters. At age 21, she experienced a severe seizure of what may have been epilepsy. It was so severe as to be cateleptic, and she was thought to have died. During her funeral Mass, she suddenly recovered, and"
-image: "https://upload.wikimedia.org/wikipedia/commons/b/b4/Christina_the_Astonishing_1630_prayer_card_Fasti_Mariani.png"
+summary: >-
+  Born to a peasant family, orphaned as a child, and raised by two older sisters. At age 21, she experienced a severe
+  seizure of what may have been epilepsy. It was so severe as to be cateleptic, and she was thought to have died. During
+  her funeral Mass, she suddenly recovered, and
+image: https://upload.wikimedia.org/wikipedia/commons/b/b4/Christina_the_Astonishing_1630_prayer_card_Fasti_Mariani.png
 searchAliases:
-  - "Christina Mirabilis"
-  - "Christine the Admirable"
+  - Christina Mirabilis
+  - Christine the Admirable
 birthYear: 1150
 deathYear: 1224
-born: "1150 at Brusthem near Liege, Belgium"
-died: "24 July 1224 at Saint Catherine's convent, Sint-Truiden, Belgium of natural causes"
-birthPlace: "Belgium"
-deathPlace: "Sint-Truiden, Belgiumnatural causes"
-region: "England"
+born: 1150 at Brusthem near Liege, Belgium
+died: 24 July 1224 at Saint Catherine's convent, Sint-Truiden, Belgium of natural causes
+birthPlace: Belgium
+deathPlace: Sint-Truiden, Belgiumnatural causes
+region: England
 feastDay:
   month: 7
   day: 24
@@ -22,22 +25,23 @@ vocation:
   - Monk
   - Religious
   - Cardinal
-religiousOrder: "Dominican"
+religiousOrder: Dominican
 patronage:
-  - "against insanity"
-  - "against madness"
-  - "against mental disorders"
-  - "against mental handicaps"
-  - "against mental illness"
-  - "lunatics"
-  - "mental health caregivers"
-  - "mental health professionals"
-  - "mentally ill people"
-  - "psychiatrists"
-  - "therapists"
-  - "–"
-  - "Sint-Truiden, Belgium"
+  - against insanity
+  - against madness
+  - against mental disorders
+  - against mental handicaps
+  - against mental illness
+  - lunatics
+  - mental health caregivers
+  - mental health professionals
+  - mentally ill people
+  - psychiatrists
+  - therapists
+  - –
+  - Sint-Truiden, Belgium
 martyr: false
+prayers: []
 ---
 
 Born to a peasant family, orphaned as a child, and raised by two older sisters. At age 21, she experienced a severe seizure of what may have been epilepsy. It was so severe as to be cateleptic, and she was thought to have died. During her funeral Mass, she suddenly recovered, and levitated to the roof of the church. Ordered down by the priest, she landed on the altar and stated that she had been to hell, purgatory, and heaven, and had been returned to earth with a ministry to pray for souls in purgatory.

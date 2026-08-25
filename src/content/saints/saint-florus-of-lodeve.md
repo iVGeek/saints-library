@@ -22,6 +22,7 @@ vocation:
 patronage:
   - Saint-Flour, France, diocese of
 martyr: false
+prayers: []
 ---
 
 Bishop of Lodève, France.

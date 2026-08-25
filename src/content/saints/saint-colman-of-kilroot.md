@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Colman of Kilroot"
+name: Saint Colman of Kilroot
 honorific: Saint
-summary: "Monk. Disciple of Saint Ailbe of Emly. Abbot. Bishop of Kilroot, Ireland."
+summary: Monk. Disciple of Saint Ailbe of Emly. Abbot. Bishop of Kilroot, Ireland.
 searchAliases:
-  - "MacCathbad Colman"
-region: "Ireland"
+  - MacCathbad Colman
+region: Ireland
 feastDay:
   month: 10
   day: 17
@@ -14,6 +14,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Monk. Disciple of Saint Ailbe of Emly. Abbot. Bishop of Kilroot, Ireland.

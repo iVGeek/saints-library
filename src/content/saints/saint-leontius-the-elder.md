@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Leontius the Elder"
+name: Saint Leontius the Elder
 honorific: Saint
-summary: "Bishop of Bordeaux, France."
+summary: Bishop of Bordeaux, France.
 deathYear: 541
-died: "c.541"
-region: "France"
+died: c.541
+region: France
 feastDay:
   month: 8
   day: 21
@@ -14,6 +14,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Bishop of Bordeaux, France.

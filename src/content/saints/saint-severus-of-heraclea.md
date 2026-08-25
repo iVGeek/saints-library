@@ -1,12 +1,14 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Severus of Heraclea"
+name: Saint Severus of Heraclea
 honorific: Saint
-summary: "Deacon to Saint Philip in Heraclea. Arrested in the persecutions of Diocletian and ordered to turn over all scriptures; he refused. Martyr."
+summary: >-
+  Deacon to Saint Philip in Heraclea. Arrested in the persecutions of Diocletian and ordered to turn over all
+  scriptures; he refused. Martyr.
 deathYear: 304
-died: "burned at the stake in 304 in Adrianople (modern Edirne, Turkey)"
-deathPlace: "Turkey)"
-region: "England"
+died: burned at the stake in 304 in Adrianople (modern Edirne, Turkey)
+deathPlace: Turkey)
+region: England
 feastDay:
   month: 10
   day: 22
@@ -16,6 +18,7 @@ vocation:
   - Priest
   - Deacon
 martyr: true
+prayers: []
 ---
 
 Deacon to Saint Philip in Heraclea. Arrested in the persecutions of Diocletian and ordered to turn over all scriptures; he refused. Martyr.

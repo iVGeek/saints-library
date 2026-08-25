@@ -16,6 +16,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/d/db/Franciscus_de_Xabier.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Ambon of Rome
 imageCreditUrl: https://en.wikipedia.org/wiki/Francis%20Xavier
+prayers: []
 ---
 
 Martyr. No other information has survived.

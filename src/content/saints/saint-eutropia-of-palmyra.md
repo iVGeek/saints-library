@@ -17,6 +17,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/8/8b/Palestine_with_the_Hauran_and_the_adjacent_districts%2C_William_Hughes_1843.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Eutropia of Palmyra
 imageCreditUrl: https://en.wikipedia.org/wiki/History%20of%20Palestine
+prayers: []
 ---
 
 Twelve-year-old girl martyred in the persecutions of Diocletian.

@@ -21,6 +21,7 @@ religiousOrder: Benedictine
 patronage:
   - Michaelsbuch, Germany
 martyr: false
+prayers: []
 ---
 
 Born to a wealthy family, and may have been a member of the nobility. Pilgrim to Rome, Italy. Parish priest in Michaelsbuch, Germany for over 50 years. Founded the Benedictine Metten Abbey in Bavaria, Germany. Uncle of its first abbot, Blessed Utto of Metten.

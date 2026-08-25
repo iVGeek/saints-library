@@ -26,6 +26,7 @@ imageCredit: >-
   href="https://archive.org/download/saintlonginuscen00gree/saintlonginuscen00gree.pdf">https://archive.org/download/saintlonginuscen00gree/saintlonginuscen00gree.pdf</a></dd></dl>
 imageCreditUrl: >-
   https://commons.wikimedia.org/wiki/File:Saint%20Longinus%20the%20Centurion%2C%20and%20other%20poems%20(IA%20saintlonginuscen00gree).pdf
+prayers: []
 ---
 
 Old Testament prophetess and judge. Married to Lapidoth. See the passage below from Judges that talks about her.

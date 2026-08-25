@@ -1,13 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Hermes the Exorcist"
+name: Saint Hermes the Exorcist
 honorific: Saint
-summary: "Priest. Exorcist. Martyred in the persecution of Marcus Aurelian."
+summary: Priest. Exorcist. Martyred in the persecution of Marcus Aurelian.
 searchAliases:
-  - "Hermes of Rome"
+  - Hermes of Rome
 deathYear: 270
-died: "c.270"
-region: "Italy"
+died: c.270
+region: Italy
 feastDay:
   month: 12
   day: 31
@@ -16,6 +16,7 @@ vocation:
   - Priest
   - Monk
 martyr: true
+prayers: []
 ---
 
 Priest. Exorcist. Martyred in the persecution of Marcus Aurelian.

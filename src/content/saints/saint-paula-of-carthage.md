@@ -1,10 +1,10 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Paula of Carthage"
+name: Saint Paula of Carthage
 honorific: Saint
-summary: "Nun. Martyr."
-died: "in Carthage in North Africa"
-region: "Africa"
+summary: Nun. Martyr.
+died: in Carthage in North Africa
+region: Africa
 feastDay:
   month: 8
   day: 10
@@ -13,6 +13,7 @@ vocation:
   - Monk
   - Religious
 martyr: true
+prayers: []
 ---
 
 Nun. Martyr.

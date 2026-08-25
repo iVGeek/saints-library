@@ -23,6 +23,7 @@ vocation:
 patronage:
   - Foix, France
 martyr: true
+prayers: []
 ---
 
 As a layman, he suffered through years of a terrible marriage. Imperial Roman senator at Tours, France. Bishop of Tours in 488. Exiled to Spain in 496 by Arian Visigoths. May have been martyred, but records are unclear.

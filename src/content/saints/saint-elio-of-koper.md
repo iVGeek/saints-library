@@ -23,6 +23,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/b/be/Vittorio_Italico_Zupelli_1915.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Elio of Koper
 imageCreditUrl: https://en.wikipedia.org/wiki/Vittorio%20Italico%20Zupelli
+prayers: []
 ---
 
 First century convert. Spiritual student of Saint Ermacora of Aquileia. Deacon to Nazarius, first bishop of Koper (in modern Slovenia). Built a church dedicated to the Blessed Virgin Mary.

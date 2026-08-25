@@ -1,11 +1,13 @@
 ---
-name: "Saint Mary of Cleophas"
+name: Saint Mary of Cleophas
 honorific: Saint
-summary: "Mother of Saint James the Lesser. Sister of Our Lady. Present at the Crucifixion, and went to Christ's tomb on Easter morning. All else that we know about her is legend."
-image: "http://catholicsaints.info/wp-content/uploads/Mary-of-Cleophas.jpg"
+summary: >-
+  Mother of Saint James the Lesser. Sister of Our Lady. Present at the Crucifixion, and went to Christ's tomb on Easter
+  morning. All else that we know about her is legend.
+image: http://catholicsaints.info/wp-content/uploads/Mary-of-Cleophas.jpg
 searchAliases:
-  - "Mary of Clopas"
-region: "England"
+  - Mary of Clopas
+region: England
 feastDay:
   month: 4
   day: 24
@@ -14,6 +16,7 @@ vocation:
   - Monk
   - Religious
 martyr: false
+prayers: []
 ---
 
 Mother of Saint James the Lesser. Sister of Our Lady. Present at the Crucifixion, and went to Christ's tomb on Easter morning. All else that we know about her is legend.

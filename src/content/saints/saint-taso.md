@@ -1,21 +1,24 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Taso"
+name: Saint Taso
 honorific: Saint
-summary: "Brother of Saint Paldo and Saint Tato. Benedictine monk at Farfa, Sabina, Italy. The three brothers founded the monastery of San Vincenzo on the Voltorno river. Second abbot of the house."
+summary: >-
+  Brother of Saint Paldo and Saint Tato. Benedictine monk at Farfa, Sabina, Italy. The three brothers founded the
+  monastery of San Vincenzo on the Voltorno river. Second abbot of the house.
 deathYear: 729
-born: "in Benevento, Italy"
-died: "c.729 of natural causes"
-birthPlace: "Italy"
-region: "Italy"
+born: in Benevento, Italy
+died: c.729 of natural causes
+birthPlace: Italy
+region: Italy
 feastDay:
   month: 1
   day: 11
 canonizationStatus: Saint
 vocation:
   - Monk
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 martyr: false
+prayers: []
 ---
 
 Brother of Saint Paldo and Saint Tato. Benedictine monk at Farfa, Sabina, Italy. The three brothers founded the monastery of San Vincenzo on the Voltorno river. Second abbot of the house.

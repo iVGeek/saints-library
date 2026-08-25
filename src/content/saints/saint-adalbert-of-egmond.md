@@ -32,6 +32,7 @@ vocation:
 patronage:
   - Egmond, Netherlands
 martyr: false
+prayers: []
 ---
 
 Member of the Northumbrian royal family. Spiritual student of and fellow evangelist in Ireland with Saint Egbert of Rathemigisi. Deacon at Rathemigisi monastery. Evangelized in Friesland with Saint Willibrord in 690. Converted most of the people of Egmond by his preaching and his example. May have been abbot of Epternach; records are unclear. Archdeacon of the diocese of Utrecht, Netherlands.

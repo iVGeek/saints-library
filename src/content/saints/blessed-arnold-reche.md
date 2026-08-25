@@ -1,19 +1,22 @@
 ---
-name: "Blessed Arnold Reche"
+name: Blessed Arnold Reche
 honorific: Blessed
-summary: "Son of Claude and Anne Flausset Reche, a poor family in a small village. His father was extremely religious shoemaker, his mother given to fits of depression over their impoverished condition, and Nicholas was one of nine children. He grew up with strong religious values and a fe"
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Arnold-Reche.jpg"
+summary: >-
+  Son of Claude and Anne Flausset Reche, a poor family in a small village. His father was extremely religious shoemaker,
+  his mother given to fits of depression over their impoverished condition, and Nicholas was one of nine children. He
+  grew up with strong religious values and a fe
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Arnold-Reche.jpg
 searchAliases:
-  - "Arnold Jules-Nicolas Rèche"
-  - "Jules Reche"
-  - "Julian-Nicolas Rèche"
-  - "Nicholas-Jules Reche"
+  - Arnold Jules-Nicolas Rèche
+  - Jules Reche
+  - Julian-Nicolas Rèche
+  - Nicholas-Jules Reche
 birthYear: 1838
 deathYear: 1890
-born: "2 September 1838 at Landroff, Lorraine, France as Nicholas-Jules Reche"
-died: "23 October 1890 following a cerebral hemorrhage"
-birthPlace: "Lorraine, France as Nicholas-Jules Reche"
-region: "France"
+born: 2 September 1838 at Landroff, Lorraine, France as Nicholas-Jules Reche
+died: 23 October 1890 following a cerebral hemorrhage
+birthPlace: Lorraine, France as Nicholas-Jules Reche
+region: France
 feastDay:
   month: 10
   day: 23
@@ -22,6 +25,7 @@ vocation:
   - Priest
   - Religious
 martyr: false
+prayers: []
 ---
 
 Son of Claude and Anne Flausset Reche, a poor family in a small village. His father was extremely religious shoemaker, his mother given to fits of depression over their impoverished condition, and Nicholas was one of nine children. He grew up with strong religious values and a fear of sin. Considered the only serious student in his cathechism class, he taught catechism to the younger children. However, when he moved to the Charlesville as a young adult, he began drifting to a more secular life.

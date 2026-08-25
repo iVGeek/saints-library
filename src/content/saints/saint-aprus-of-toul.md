@@ -27,6 +27,7 @@ vocation:
   - Monk
   - Confessor
 martyr: false
+prayers: []
 ---
 
 Lawyer, known for his skill, integrity and devotion to justice. He gave up his profession to became a priest. Bishop of Toul, France.

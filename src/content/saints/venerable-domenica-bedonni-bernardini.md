@@ -1,23 +1,28 @@
 ---
-name: "Venerable Domenica Bedonni Bernardini"
+name: Venerable Domenica Bedonni Bernardini
 honorific: Venerable
-summary: "Married to Venerable Sergio Bernardini; mother; lifelong lay woman in the archdiocese of Modena-Nonantola, Italy. Franciscan tertiary."
-image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Domenica-Bedonni-Bernardini.jpg"
+summary: >-
+  Married to Venerable Sergio Bernardini; mother; lifelong lay woman in the archdiocese of Modena-Nonantola, Italy.
+  Franciscan tertiary.
+image: http://catholicsaints.info/wp-content/uploads/img-Venerable-Domenica-Bedonni-Bernardini.jpg
 birthYear: 1889
 deathYear: 1971
-born: "12 April 1889 in Verica, Modena, Italy"
-died: "27 February 1971 in Verica, Modena, Italy of natural causes"
-birthPlace: "Modena, Italy"
-deathPlace: "Modena, Italynatural causes"
-region: "Italy"
+born: 12 April 1889 in Verica, Modena, Italy
+died: 27 February 1971 in Verica, Modena, Italy of natural causes
+birthPlace: Modena, Italy
+deathPlace: Modena, Italynatural causes
+region: Italy
 feastDay:
   month: 1
   day: 1
-centuries: [19, 20]
+centuries:
+  - 19
+  - 20
 canonizationStatus: Venerable
 vocation: []
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 martyr: false
+prayers: []
 ---
 
 Married to Venerable Sergio Bernardini; mother; lifelong lay woman in the archdiocese of Modena-Nonantola, Italy. Franciscan tertiary.

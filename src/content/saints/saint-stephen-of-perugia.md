@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Stephen of Perugia"
+name: Saint Stephen of Perugia
 honorific: Saint
-summary: "Abbot of Saint Peter's Abbey in Perugia, Italy."
+summary: Abbot of Saint Peter's Abbey in Perugia, Italy.
 deathYear: 1026
-died: "1026"
-region: "Peru"
+died: '1026'
+region: Peru
 feastDay:
   month: 9
   day: 16
@@ -13,6 +13,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: false
+prayers: []
 ---
 
 Abbot of Saint Peter's Abbey in Perugia, Italy.

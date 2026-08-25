@@ -1,15 +1,18 @@
 ---
-name: "Blessed Jacinto Blanch Ferrer"
+name: Blessed Jacinto Blanch Ferrer
 honorific: Blessed
-summary: "The son of José Blanch Bosch, a secretary, and Maria Ferrer Raurell, Jacinto was baptized on the day of his birth in his parish church of Santa Maria. His was a large and pious family; all his siblings would enter religious life, five of them as Claretian Missionaries. He made hi"
-image: "http://catholicsaints.info/wp-content/uploads/img-Jacinto-Blanch-Ferrer.jpg"
+summary: >-
+  The son of José Blanch Bosch, a secretary, and Maria Ferrer Raurell, Jacinto was baptized on the day of his birth in
+  his parish church of Santa Maria. His was a large and pious family; all his siblings would enter religious life, five
+  of them as Claretian Missionaries. He made hi
+image: http://catholicsaints.info/wp-content/uploads/img-Jacinto-Blanch-Ferrer.jpg
 birthYear: 1868
 deathYear: 1936
-born: "27 April 1868 in Vilanova de Sau, Barcelona, diocese of Vic, Spain"
-died: "shot on 21 August 1936 in Pedrales, Barcelona, Spain"
-birthPlace: "Barcelona, dioceseVic, Spain"
-deathPlace: "Barcelona, Spain"
-region: "France"
+born: 27 April 1868 in Vilanova de Sau, Barcelona, diocese of Vic, Spain
+died: shot on 21 August 1936 in Pedrales, Barcelona, Spain
+birthPlace: Barcelona, dioceseVic, Spain
+deathPlace: Barcelona, Spain
+region: France
 feastDay:
   month: 8
   day: 21
@@ -17,6 +20,7 @@ canonizationStatus: Blessed
 vocation:
   - Priest
 martyr: true
+prayers: []
 ---
 
 The son of José Blanch Bosch, a secretary, and Maria Ferrer Raurell, Jacinto was baptized on the day of his birth in his parish church of Santa Maria. His was a large and pious family; all his siblings would enter religious life, five of them as Claretian Missionaries. He made his First Communion at age 12, and entered the Claretian Missionaries' novitiate on 21 July 1884 in Vic, Spain at age 16. He studied in Vic, then Santo Domingo de la Calzada, and made his profession on 18 September 1885. Ordained a priest in the diocese of Zaragoza, Spain on 12 March 1892. As a seminarian, Jacinto had not been noted for scholarship, but was an immensely practical young man. He was assigned to teach Latin, and soon developed the speaking skills to preach in a series of Spanish cities for several years.

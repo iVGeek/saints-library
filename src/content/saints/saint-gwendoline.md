@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Gwendoline"
+name: Saint Gwendoline
 honorific: Saint
-summary: "No information has survived."
+summary: No information has survived.
 searchAliases:
-  - "Gwedolen"
-  - "Gwynnin"
+  - Gwedolen
+  - Gwynnin
 feastDay:
   month: 10
   day: 18
@@ -13,6 +13,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: false
+prayers: []
 ---
 
 No information has survived.

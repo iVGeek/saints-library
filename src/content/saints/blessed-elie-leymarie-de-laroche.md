@@ -1,23 +1,26 @@
 ---
-name: "Blessed Élie Leymarie de Laroche"
+name: Blessed Élie Leymarie de Laroche
 honorific: Blessed
-summary: "Priest in the diocese of Verdun, France. Imprisoned on a ship in the harbor of Rochefort, France and left to die during the anti-Catholic persecutions of the French Revolution. One of the Martyrs of the Hulks of Rochefort."
-image: "http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-the-Hulks-of-Rochefort.jpg"
+summary: >-
+  Priest in the diocese of Verdun, France. Imprisoned on a ship in the harbor of Rochefort, France and left to die
+  during the anti-Catholic persecutions of the French Revolution. One of the Martyrs of the Hulks of Rochefort.
+image: http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-the-Hulks-of-Rochefort.jpg
 birthYear: 1758
 deathYear: 1794
-born: "8 January 1758 in Annesse, Dordogne, France"
-died: "22 August 1794 aboard the prison ship Deux-Associés, in Rochefort, Charente-Maritime, France"
-birthPlace: "Dordogne, France"
-deathPlace: "Rochefort, Charente-Maritime, France"
-region: "France"
+born: 8 January 1758 in Annesse, Dordogne, France
+died: 22 August 1794 aboard the prison ship Deux-Associés, in Rochefort, Charente-Maritime, France
+birthPlace: Dordogne, France
+deathPlace: Rochefort, Charente-Maritime, France
+region: France
 feastDay:
   month: 8
   day: 22
 canonizationStatus: Blessed
 vocation:
   - Priest
-religiousOrder: "Carmelite"
+religiousOrder: Carmelite
 martyr: true
+prayers: []
 ---
 
 Priest in the diocese of Verdun, France. Imprisoned on a ship in the harbor of Rochefort, France and left to die during the anti–Catholic persecutions of the French Revolution. One of the Martyrs of the Hulks of Rochefort.

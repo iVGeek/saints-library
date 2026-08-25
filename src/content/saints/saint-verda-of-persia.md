@@ -1,10 +1,10 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Verda of Persia"
+name: Saint Verda of Persia
 honorific: Saint
-summary: "Persian Christian martyred in the persecutions of King Shapur II."
+summary: Persian Christian martyred in the persecutions of King Shapur II.
 deathYear: 344
-died: "344"
+died: '344'
 feastDay:
   month: 2
   day: 21
@@ -14,6 +14,7 @@ vocation:
   - Priest
   - Monk
 martyr: true
+prayers: []
 ---
 
 Persian Christian martyred in the persecutions of King Shapur II.

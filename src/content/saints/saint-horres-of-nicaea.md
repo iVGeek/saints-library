@@ -1,13 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Horres of Nicaea"
+name: Saint Horres of Nicaea
 honorific: Saint
-summary: "Son of Saint Theusitas of Nicaea. Martyred with his father and several others."
+summary: Son of Saint Theusitas of Nicaea. Martyred with his father and several others.
 searchAliases:
-  - "Ilorres"
-died: "at Nicaea, Bithynia (modern Iznik, Turkey), date unknown"
-deathPlace: "Bithynia (modern Iznik, Turkey), date unknown"
-region: "England"
+  - Ilorres
+died: at Nicaea, Bithynia (modern Iznik, Turkey), date unknown
+deathPlace: Bithynia (modern Iznik, Turkey), date unknown
+region: England
 feastDay:
   month: 3
   day: 13
@@ -16,6 +16,7 @@ vocation:
   - Priest
   - Monk
 martyr: true
+prayers: []
 ---
 
 Son of Saint Theusitas of Nicaea. Martyred with his father and several others.

@@ -27,6 +27,7 @@ patronage:
   - against sickness
   - sick people
 martyr: false
+prayers: []
 ---
 
 Only child of a wealthy Florentine noble family of Chiarissimo and Riguirdata Falconieri. Niece of Saint Alexis Falconieri. Her father died Juliana was very young, and her uncle Alexis had a great influence on her. Given to chronic gastric problems throughout her life. Legend says she never gazed into a mirror, never looked at a man's face, trembled at the mention of sin, and fainted upon hearing scandalous gossip.

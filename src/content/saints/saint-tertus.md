@@ -1,13 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Tertus"
+name: Saint Tertus
 honorific: Saint
-summary: "Monk. Martyred in the persecutions of the Arian Vandal king Huneric."
+summary: Monk. Martyred in the persecutions of the Arian Vandal king Huneric.
 searchAliases:
-  - "Tertius"
+  - Tertius
 deathYear: 484
-died: "flayed alive in 484 somewhere in North Africa"
-region: "Italy"
+died: flayed alive in 484 somewhere in North Africa
+region: Italy
 feastDay:
   month: 12
   day: 6
@@ -16,6 +16,7 @@ vocation:
   - Priest
   - Monk
 martyr: true
+prayers: []
 ---
 
 Monk. Martyred in the persecutions of the Arian Vandal king Huneric.

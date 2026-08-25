@@ -19,6 +19,7 @@ canonizationStatus: Blessed
 vocation:
   - Priest
 martyr: false
+prayers: []
 ---
 
 Son of Elias and Matilda Hélye. School teacher and tutor in Biville, France and then in Cherbourg, France where he ran a school. A pious young man, he would fast several days a week. Pilgrim to Rome, Italy. Studied theology in Paris, France, and was ordained a priest there c.1236. Travelling priest and evangelist in the diocese of Avranches and Coutances, France, spending his days in ministry, his nights in prayer and penance, and spreading his own intense dedication to the Eucharist.

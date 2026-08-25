@@ -18,6 +18,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Married to Nicostratus, a high court official in imperial Rome. She had a great devotion to Saint Peter the Apostle. One day while praying at the tomb of Saint Peter, she was arrested for her faith. Martyr.

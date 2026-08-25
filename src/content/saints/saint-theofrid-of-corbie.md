@@ -1,13 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Theofrid of Corbie"
+name: Saint Theofrid of Corbie
 honorific: Saint
-summary: "Benedictine monk at Luxeuil Abbey. Abbot of Corbie Abbey. Bishop."
+summary: Benedictine monk at Luxeuil Abbey. Abbot of Corbie Abbey. Bishop.
 searchAliases:
-  - "Theofroy"
+  - Theofroy
 deathYear: 690
-died: "c.690 of natural causes"
-region: "England"
+died: c.690 of natural causes
+region: England
 feastDay:
   month: 1
   day: 26
@@ -15,8 +15,9 @@ canonizationStatus: Saint
 vocation:
   - Bishop
   - Monk
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 martyr: false
+prayers: []
 ---
 
 Benedictine monk at Luxeuil Abbey. Abbot of Corbie Abbey. Bishop.

@@ -1,17 +1,17 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Jaume Balcells Grau"
+name: Blessed Jaume Balcells Grau
 honorific: Blessed
-summary: "Priest. Member of the Discalced Carmelites. Martyred in the Spanish Civil War."
+summary: Priest. Member of the Discalced Carmelites. Martyred in the Spanish Civil War.
 searchAliases:
-  - "Father Gabriel of the Annunciation"
+  - Father Gabriel of the Annunciation
 birthYear: 1908
 deathYear: 1936
-born: "12 October 1908 in Valls, Tarragona, Spain"
-died: "25 July 1936 in Montcada, Barcelona, Spain"
-birthPlace: "Tarragona, Spain"
-deathPlace: "Barcelona, Spain"
-region: "Spain"
+born: 12 October 1908 in Valls, Tarragona, Spain
+died: 25 July 1936 in Montcada, Barcelona, Spain
+birthPlace: Tarragona, Spain
+deathPlace: Barcelona, Spain
+region: Spain
 feastDay:
   month: 7
   day: 25
@@ -19,8 +19,9 @@ canonizationStatus: Blessed
 vocation:
   - Priest
   - Religious
-religiousOrder: "Carmelite"
+religiousOrder: Carmelite
 martyr: true
+prayers: []
 ---
 
 Priest. Member of the Discalced Carmelites. Martyred in the Spanish Civil War.

@@ -1,14 +1,14 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Erluph of Werden"
+name: Saint Erluph of Werden
 honorific: Saint
-summary: "Missionary to Germany. Bishop of Werden, Germany. Martyred by pagans."
+summary: Missionary to Germany. Bishop of Werden, Germany. Martyred by pagans.
 searchAliases:
-  - "Erlulph"
+  - Erlulph
 deathYear: 830
-born: "Scotland"
-died: "830"
-region: "Germany"
+born: Scotland
+died: '830'
+region: Germany
 feastDay:
   month: 2
   day: 10
@@ -19,6 +19,7 @@ vocation:
   - Monk
   - Missionary
 martyr: true
+prayers: []
 ---
 
 Missionary to Germany. Bishop of Werden, Germany. Martyred by pagans.

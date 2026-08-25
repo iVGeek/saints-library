@@ -1,15 +1,17 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Raynerius of Aquila"
+name: Saint Raynerius of Aquila
 honorific: Saint
-summary: "Bishop of Forconium (modern Aquila), Abruzzi region, Italy. Noted for his excellent administrative skills, but no details about the man have survived."
+summary: >-
+  Bishop of Forconium (modern Aquila), Abruzzi region, Italy. Noted for his excellent administrative skills, but no
+  details about the man have survived.
 searchAliases:
-  - "Rainer"
-  - "Raniero"
-  - "Rainerius"
+  - Rainer
+  - Raniero
+  - Rainerius
 deathYear: 1077
-died: "1077 of natural causes"
-region: "Italy"
+died: 1077 of natural causes
+region: Italy
 feastDay:
   month: 12
   day: 30
@@ -18,6 +20,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Bishop of Forconium (modern Aquila), Abruzzi region, Italy. Noted for his excellent administrative skills, but no details about the man have survived.

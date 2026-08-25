@@ -21,6 +21,7 @@ vocation:
   - Missionary
 religiousOrder: Franciscan
 martyr: false
+prayers: []
 ---
 
 Ordained in 1899. Taught at the college of Pontlevoy, France. Entered the Congregation of the Holy Ghost at Orly, France in 1902. Missionary to Saint-Louis, Senegal in 1903. His health suffered, and he returned to France in 1911.

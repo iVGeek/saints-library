@@ -1,14 +1,14 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Aretius of Rome"
+name: Saint Aretius of Rome
 honorific: Saint
-summary: "Martyr."
+summary: Martyr.
 searchAliases:
-  - "Arecius"
-  - "Aregius"
-died: "Rome, Italy, date unknown"
-deathPlace: "Italy, date unknown"
-region: "Italy"
+  - Arecius
+  - Aregius
+died: Rome, Italy, date unknown
+deathPlace: Italy, date unknown
+region: Italy
 feastDay:
   month: 6
   day: 4
@@ -16,6 +16,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Martyr.

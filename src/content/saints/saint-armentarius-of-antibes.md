@@ -22,6 +22,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/a/aa/Antibesbordmer.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Armentarius of Antibes
 imageCreditUrl: https://en.wikipedia.org/wiki/Antibes
+prayers: []
 ---
 
 Bishop of Antibes, Provence, France during the mid-5th century. Attended the Council of Vaison in 442. Legend says that the saved the town of Draguignan from a dragon, which is often a metaphor for bringing Christianity to them, driving out evil.

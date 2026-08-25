@@ -1,16 +1,16 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Belina of Troyes"
+name: Saint Belina of Troyes
 honorific: Saint
-summary: "A peasant shepherd girl who died fighting off a rape by the feudal lord of her district."
+summary: A peasant shepherd girl who died fighting off a rape by the feudal lord of her district.
 searchAliases:
-  - "Belina of Landreville"
+  - Belina of Landreville
 deathYear: 1135
-born: "Troyes, France"
-died: "1135 near Troyes, France"
-birthPlace: "France"
-deathPlace: "France"
-region: "France"
+born: Troyes, France
+died: 1135 near Troyes, France
+birthPlace: France
+deathPlace: France
+region: France
 feastDay:
   month: 2
   day: 19
@@ -19,6 +19,7 @@ vocation:
   - Virgin
   - Monk
 martyr: false
+prayers: []
 ---
 
 A peasant shepherd girl who died fighting off a rape by the feudal lord of her district.

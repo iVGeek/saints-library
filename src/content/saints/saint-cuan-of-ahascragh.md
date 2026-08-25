@@ -1,22 +1,25 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Cuán of Ahascragh"
+name: Saint Cuán of Ahascragh
 honorific: Saint
-summary: "Listed in early saint lists, but we have no details about him."
+summary: Listed in early saint lists, but we have no details about him.
 searchAliases:
-  - "Cuán of Áth Eascrach\nCavan…"
-  - "Cuana…"
-  - "Dochua Oiléin…"
-  - "Dochuailéan…"
-  - "Mochua…"
+  - |-
+    Cuán of Áth Eascrach
+    Cavan…
+  - Cuana…
+  - Dochua Oiléin…
+  - Dochuailéan…
+  - Mochua…
 deathYear: 770
-died: "770 of natural causes"
+died: 770 of natural causes
 feastDay:
   month: 3
   day: 2
 canonizationStatus: Saint
 vocation: []
 martyr: false
+prayers: []
 ---
 
 Listed in early saint lists, but we have no details about him.

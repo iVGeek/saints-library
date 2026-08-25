@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Romanus of Auxerre"
+name: Saint Romanus of Auxerre
 honorific: Saint
-summary: "Bishop of Auxerre, France."
+summary: Bishop of Auxerre, France.
 deathYear: 564
-died: "c.564"
-region: "France"
+died: c.564
+region: France
 feastDay:
   month: 10
   day: 6
@@ -14,6 +14,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Bishop of Auxerre, France.

@@ -1,33 +1,37 @@
 ---
-name: "Saint Meinrad of Einsiedeln"
+name: Saint Meinrad of Einsiedeln
 honorific: Saint
-summary: "May have been a member of the noble Hohenzollern family. Educated, professed as a Benedictine monk, and ordained at the abbey on the island of Reichenau, in Lake Constance in Switzerland. Teacher in Zurich, Switzerland. Around 829 he withdrew to live in prayer as a hermit in the"
-image: "https://upload.wikimedia.org/wikipedia/commons/9/93/Mainrado.JPG"
+summary: >-
+  May have been a member of the noble Hohenzollern family. Educated, professed as a Benedictine monk, and ordained at
+  the abbey on the island of Reichenau, in Lake Constance in Switzerland. Teacher in Zurich, Switzerland. Around 829 he
+  withdrew to live in prayer as a hermit in the
+image: https://upload.wikimedia.org/wikipedia/commons/9/93/Mainrado.JPG
 searchAliases:
-  - "Meinrad of Reichenau"
-  - "Maynard…"
-  - "Meginrad…"
-  - "Meginrat…"
-  - "Meino…"
-  - "Meinrado…"
-  - "Meginrado…"
+  - Meinrad of Reichenau
+  - Maynard…
+  - Meginrad…
+  - Meginrat…
+  - Meino…
+  - Meinrado…
+  - Meginrado…
 deathYear: 861
-born: "at Solgen, Swabia (S&uuml;lichgau near Wurtemberg)"
-died: "beaten to death with clubs by robbers on 21 January 861 at Einsiedeln, Switzerland"
-birthPlace: "Swabia (S&uuml;lichgau near Wurtemberg)"
-deathPlace: "Switzerland"
-region: "Germany"
+born: at Solgen, Swabia (S&uuml;lichgau near Wurtemberg)
+died: beaten to death with clubs by robbers on 21 January 861 at Einsiedeln, Switzerland
+birthPlace: Swabia (S&uuml;lichgau near Wurtemberg)
+deathPlace: Switzerland
+region: Germany
 feastDay:
   month: 1
   day: 21
 canonizationStatus: Saint
 vocation:
   - Priest
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 patronage:
-  - "Einsiedeln, Switzerland"
-  - "hospitality"
+  - Einsiedeln, Switzerland
+  - hospitality
 martyr: true
+prayers: []
 ---
 
 May have been a member of the noble Hohenzollern family. Educated, professed as a Benedictine monk, and ordained at the abbey on the island of Reichenau, in Lake Constance in Switzerland. Teacher in Zurich, Switzerland. Around 829 he withdrew to live in prayer as a hermit in the Black Forest. As word of his holiness and wisdom spread, he attracted many visitors and would-be students. In 836 he retreated to a more remote location near Einsiedeln (which means hermitage).

@@ -20,6 +20,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/0/02/Saint_Arethas_of_Najran.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Areta of Najran
 imageCreditUrl: https://en.wikipedia.org/wiki/Arethas%20of%20Najran
+prayers: []
 ---
 
 Christian prince of the city of Nagrana (modern Najran, Saudi Arabia). He, his wife and children were part of the Martyrs of Najran who were killed by order of Dhu Nuwas, king of the Omeritani who had converted to Judaism and demanded that everyone in his kingdom do so, too.

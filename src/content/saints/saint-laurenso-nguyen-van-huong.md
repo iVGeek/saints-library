@@ -1,18 +1,20 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Laurensô Nguyen Van Huong"
+name: Saint Laurensô Nguyen Van Huong
 honorific: Saint
-summary: "Priest of the apostolic vicariate of West Tonkin (in modern Vietnam). Arrested as he was visiting a dying man during the persecutions of Emperor Tu-Duc; he was ordered to trample a cross; he refused. Flogged and executed. Martyr."
+summary: >-
+  Priest of the apostolic vicariate of West Tonkin (in modern Vietnam). Arrested as he was visiting a dying man during
+  the persecutions of Emperor Tu-Duc; he was ordered to trample a cross; he refused. Flogged and executed. Martyr.
 searchAliases:
-  - "Lawrence"
-  - "Lorenzo"
+  - Lawrence
+  - Lorenzo
 birthYear: 1802
 deathYear: 1856
-born: "c.1802 in Ke Sài, Hanoi, Vietnam"
-died: "beheaded on 27 April 1856 in Ninh Bình, Vietnam"
-birthPlace: "Hanoi, Vietnam"
-deathPlace: "Vietnam"
-region: "Vietnam"
+born: c.1802 in Ke Sài, Hanoi, Vietnam
+died: beheaded on 27 April 1856 in Ninh Bình, Vietnam
+birthPlace: Hanoi, Vietnam
+deathPlace: Vietnam
+region: Vietnam
 feastDay:
   month: 4
   day: 27
@@ -20,6 +22,7 @@ canonizationStatus: Saint
 vocation:
   - Priest
 martyr: true
+prayers: []
 ---
 
 Priest of the apostolic vicariate of West Tonkin (in modern Vietnam). Arrested as he was visiting a dying man during the persecutions of Emperor Tu-Duc; he was ordered to trample a cross; he refused. Flogged and executed. Martyr.

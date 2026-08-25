@@ -1,9 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Guasacht of Granard"
+name: Saint Guasacht of Granard
 honorific: Saint
-summary: "Son of Maelchu, the man who “owned” Saint Patrick when he was enslaved. Converted by Saint Patrick. Helped to evangelize Ireland. Bishop of Granard, Ireland."
-region: "Ireland"
+summary: >-
+  Son of Maelchu, the man who “owned” Saint Patrick when he was enslaved. Converted by Saint Patrick. Helped to
+  evangelize Ireland. Bishop of Granard, Ireland.
+region: Ireland
 feastDay:
   month: 1
   day: 24
@@ -12,6 +14,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Son of Maelchu, the man who “owned” Saint Patrick when he was enslaved. Converted by Saint Patrick. Helped to evangelize Ireland. Bishop of Granard, Ireland.

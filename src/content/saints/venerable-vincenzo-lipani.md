@@ -1,29 +1,32 @@
 ---
-name: "Venerable Vincenzo Lipàni"
+name: Venerable Vincenzo Lipàni
 honorific: Venerable
-summary: " In 1866, religious orde Studied at the Jesuit college in Caltanissetta, Italy. He joined the Franciscan Capuchins in Palermo, Italy on 13 October 1861, taking the name Fra Angelico; he made his solemn profession on 13 October 1865. Ordained a priest on 3 December 1865 in Palermo."
-image: "http://catholicsaints.info/wp-content/uploads/img-Venerable-Vincenzo-Lipàni.jpg"
+summary: ' In 1866, religious orde Studied at the Jesuit college in Caltanissetta, Italy. He joined the Franciscan Capuchins in Palermo, Italy on 13 October 1861, taking the name Fra Angelico; he made his solemn profession on 13 October 1865. Ordained a priest on 3 December 1865 in Palermo.'
+image: http://catholicsaints.info/wp-content/uploads/img-Venerable-Vincenzo-Lipàni.jpg
 searchAliases:
-  - "Angelico of Caltanisetta"
-  - "Angelico Lipàni"
-  - "Fra Angelico"
+  - Angelico of Caltanisetta
+  - Angelico Lipàni
+  - Fra Angelico
 birthYear: 1842
 deathYear: 1920
-born: "28 December 1842 in Caltanissetta, Kingdom of the Two Sicilies (in modern Italy)"
-died: "9 July 1920 in Caltanissetta, Italy of natural causes"
-birthPlace: "Kingdomthe Two Sicilies (in modern Italy)"
-deathPlace: "Italynatural causes"
-region: "Italy"
+born: 28 December 1842 in Caltanissetta, Kingdom of the Two Sicilies (in modern Italy)
+died: 9 July 1920 in Caltanissetta, Italy of natural causes
+birthPlace: Kingdomthe Two Sicilies (in modern Italy)
+deathPlace: Italynatural causes
+region: Italy
 feastDay:
   month: 10
   day: 13
-centuries: [19, 20]
+centuries:
+  - 19
+  - 20
 canonizationStatus: Venerable
 vocation:
   - Priest
   - Religious
-religiousOrder: "Jesuit"
+religiousOrder: Jesuit
 martyr: false
+prayers: []
 ---
 
 Studied at the Jesuit college in Caltanissetta, Italy. He joined the Franciscan Capuchins in Palermo, Italy on 13 October 1861, taking the name Fra Angelico; he made his solemn profession on 13 October 1865. Ordained a priest on 3 December 1865 in Palermo.

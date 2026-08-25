@@ -1,19 +1,20 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Bertinus the Younger"
+name: Saint Bertinus the Younger
 honorific: Saint
-summary: "Benedictine monk at the abbey of Sithiu, France. Spiritual student of Saint Bertin the Great."
+summary: Benedictine monk at the abbey of Sithiu, France. Spiritual student of Saint Bertin the Great.
 deathYear: 699
-died: "c.699 of natural causes"
-region: "France"
+died: c.699 of natural causes
+region: France
 feastDay:
   month: 5
   day: 2
 canonizationStatus: Saint
 vocation:
   - Monk
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 martyr: false
+prayers: []
 ---
 
 Benedictine monk at the abbey of Sithiu, France. Spiritual student of Saint Bertin the Great.

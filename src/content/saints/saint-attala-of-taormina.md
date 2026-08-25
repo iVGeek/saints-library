@@ -1,21 +1,22 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Attala of Taormina"
+name: Saint Attala of Taormina
 honorific: Saint
-summary: "Benedictine monk and then abbot of a monastery in Taormina, Sicily."
+summary: Benedictine monk and then abbot of a monastery in Taormina, Sicily.
 searchAliases:
-  - "Attalus of Taormina"
+  - Attalus of Taormina
 deathYear: 800
-died: "c.800"
-region: "Italy"
+died: c.800
+region: Italy
 feastDay:
   month: 4
   day: 3
 canonizationStatus: Saint
 vocation:
   - Monk
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 martyr: false
+prayers: []
 ---
 
 Benedictine monk and then abbot of a monastery in Taormina, Sicily.

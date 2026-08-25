@@ -36,6 +36,7 @@ patronage:
   - Gumaca, Philippines, diocese of
   - San Diego, California, diocese of
 martyr: true
+prayers: []
 ---
 
 Didacus loved and felt drawn to the solitary life from his youth, and when still young he became a hermit who supported himself by weaving mats. Franciscan lay-brother at the convent of Arizafa. Though he lacked a formal education, he was sought out for his insights into the Christian life.

@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Cocha"
+name: Saint Cocha
 honorific: Saint
-summary: "Sixth-century abbess of Ross-Benchuir, Ireland."
+summary: Sixth-century abbess of Ross-Benchuir, Ireland.
 searchAliases:
-  - "Coecha"
-region: "Ireland"
+  - Coecha
+region: Ireland
 feastDay:
   month: 6
   day: 29
@@ -14,6 +14,7 @@ vocation:
   - Monk
   - Religious
 martyr: false
+prayers: []
 ---
 
 Sixth-century abbess of Ross-Benchuir, Ireland.

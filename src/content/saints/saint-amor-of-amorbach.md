@@ -1,12 +1,12 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Amor of Amorbach"
+name: Saint Amor of Amorbach
 honorific: Saint
-summary: "Worked with Saint Pirmin as an 8th-century missionary in Germany. Founded the monastery of Amorbach in Franconia."
+summary: Worked with Saint Pirmin as an 8th-century missionary in Germany. Founded the monastery of Amorbach in Franconia.
 searchAliases:
-  - "Amator"
-  - "Amour"
-region: "Germany"
+  - Amator
+  - Amour
+region: Germany
 feastDay:
   month: 8
   day: 17
@@ -15,6 +15,7 @@ vocation:
   - Monk
   - Missionary
 martyr: false
+prayers: []
 ---
 
 Worked with Saint Pirmin as an 8th-century missionary in Germany. Founded the monastery of Amorbach in Franconia.

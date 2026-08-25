@@ -17,6 +17,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/1/1d/St._Anastasius_Sinaita_%28Church_of_Panagia_Theotokos_-_Vouliagmenis_Avenue%29%2C_8-15-2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Anastasius the Monk
 imageCreditUrl: https://en.wikipedia.org/wiki/Anastasius%20Sinaita
+prayers: []
 ---
 
 Friend and spiritual student of Saint Acacius. Monk. Imprisoned and exiled for failure to adopt the Monothelite heresy. Martyr.

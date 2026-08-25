@@ -19,6 +19,7 @@ image: >-
 imageAlt: Portrait of Saint Achillas of Sketis
 imageCredit: <span class="int-own-work" lang="en">Own work</span>
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:Church%20of%20Saint%20Domitilla.jpg
+prayers: []
 ---
 
 Fourth century desert hermit in Egypt for decades. Friend of Saint Amoes of Sketis.

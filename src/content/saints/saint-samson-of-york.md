@@ -1,19 +1,22 @@
 ---
-name: "Saint Samson of York"
+name: Saint Samson of York
 honorific: Saint
-summary: "Born to the Welsh nobility; brother of Saint Gwenyth of Cornwall and Saint Veep. At age seven, Samson was sent to the abbey of Llanwit Major in South Glamorgan for instruction by the abbot, Saint Illtud. Ordained in 512. Retired to a small monastery on Caldey Island to deepen his"
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Samson-of-York.jpg"
+summary: >-
+  Born to the Welsh nobility; brother of Saint Gwenyth of Cornwall and Saint Veep. At age seven, Samson was sent to the
+  abbey of Llanwit Major in South Glamorgan for instruction by the abbot, Saint Illtud. Ordained in 512. Retired to a
+  small monastery on Caldey Island to deepen his
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Samson-of-York.jpg
 searchAliases:
-  - "Samson of Dol"
-  - "Samson of Brittany"
-  - "Sampson…"
-  - "Sansone…"
+  - Samson of Dol
+  - Samson of Brittany
+  - Sampson…
+  - Sansone…
 birthYear: 490
 deathYear: 565
-born: "c.490 at south Wales"
-died: "565 at Dol-de-Bre-ta-paign, Brittany of natural causes"
-deathPlace: "Brittanynatural causes"
-region: "Ireland"
+born: c.490 at south Wales
+died: 565 at Dol-de-Bre-ta-paign, Brittany of natural causes
+deathPlace: Brittanynatural causes
+region: Ireland
 feastDay:
   month: 7
   day: 28
@@ -24,6 +27,7 @@ vocation:
   - Monk
   - Confessor
 martyr: false
+prayers: []
 ---
 
 Born to the Welsh nobility; brother of Saint Gwenyth of Cornwall and Saint Veep. At age seven, Samson was sent to the abbey of Llanwit Major in South Glamorgan for instruction by the abbot, Saint Illtud. Ordained in 512. Retired to a small monastery on Caldey Island to deepen his prayer life; later chosen its abbot.

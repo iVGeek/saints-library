@@ -1,12 +1,12 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Barhadbescialas"
+name: Saint Barhadbescialas
 honorific: Saint
-summary: "Deacon. Martyred in the persecutions of Sapor II. The Acts of the his martyrdom, written in Aramaic, have survived."
+summary: Deacon. Martyred in the persecutions of Sapor II. The Acts of the his martyrdom, written in Aramaic, have survived.
 searchAliases:
-  - "Barhadbesciabas"
+  - Barhadbesciabas
 deathYear: 354
-died: "354"
+died: '354'
 feastDay:
   month: 7
   day: 21
@@ -16,6 +16,7 @@ vocation:
   - Monk
   - Deacon
 martyr: true
+prayers: []
 ---
 
 Deacon. Martyred in the persecutions of Sapor II. The Acts of the his martyrdom, written in Aramaic, have survived.

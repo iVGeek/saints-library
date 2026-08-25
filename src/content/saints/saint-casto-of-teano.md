@@ -1,9 +1,9 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Casto of Teano"
+name: Saint Casto of Teano
 honorific: Saint
-summary: "Bishop of Teano, Italy."
-region: "Italy"
+summary: Bishop of Teano, Italy.
+region: Italy
 feastDay:
   month: 8
   day: 5
@@ -12,8 +12,9 @@ vocation:
   - Bishop
   - Monk
 patronage:
-  - "Teano, Italy, diocese"
+  - Teano, Italy, diocese
 martyr: false
+prayers: []
 ---
 
 Bishop of Teano, Italy.

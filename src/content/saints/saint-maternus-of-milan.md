@@ -1,11 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Maternus of Milan"
+name: Saint Maternus of Milan
 honorific: Saint
-summary: "Bishop of Milan, Italy in 295. He was tortured in the persecutions of Diocletian, but survived to follow his vocation and die of natural causes."
+summary: >-
+  Bishop of Milan, Italy in 295. He was tortured in the persecutions of Diocletian, but survived to follow his vocation
+  and die of natural causes.
 deathYear: 307
-died: "c.307 of natural causes"
-region: "Italy"
+died: c.307 of natural causes
+region: Italy
 feastDay:
   month: 7
   day: 18
@@ -14,6 +16,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Bishop of Milan, Italy in 295. He was tortured in the persecutions of Diocletian, but survived to follow his vocation and die of natural causes.

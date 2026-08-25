@@ -17,6 +17,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/5/59/1800471_10203364161694165_299594990_n.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Basso of Carthage
 imageCreditUrl: https://en.wikipedia.org/wiki/History%20of%20cannabis%20in%20Italy
+prayers: []
 ---
 
 Sentenced for his faith to hard labour in the stone quarries. Martyred in the persecutions of Decius.

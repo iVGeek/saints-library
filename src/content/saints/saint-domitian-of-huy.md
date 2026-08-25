@@ -21,6 +21,7 @@ patronage:
   - against fever
   - Huy, Liège, Belgium
 martyr: false
+prayers: []
 ---
 
 Priest. Bishop of Tongres (in modern Belgium). He spoke out convincingly against heretics and pagans. Opposed heretics at the Synod of Orleans in 549. Encouraged the development of writings and sermons against heresy. Worked in the Meuse Valley to convert pagans. Built churches and hospices to care for the spiritual and physical needs of the people. Well known for his generosity, his fund-raising abilities that helped ease a famine, and his work against heretics.

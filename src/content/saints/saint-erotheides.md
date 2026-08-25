@@ -1,10 +1,10 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Erotheides"
+name: Saint Erotheides
 honorific: Saint
-summary: "Martyred in the persecutions of Diocletian."
+summary: Martyred in the persecutions of Diocletian.
 deathYear: 304
-died: "304 in Cappadocia"
+died: 304 in Cappadocia
 feastDay:
   month: 10
   day: 27
@@ -12,6 +12,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Martyred in the persecutions of Diocletian.

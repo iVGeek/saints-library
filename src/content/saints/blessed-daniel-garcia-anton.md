@@ -1,24 +1,25 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Daniel García Antón"
+name: Blessed Daniel García Antón
 honorific: Blessed
-summary: "Member of the Carmelites of the Ancient Observance. Martyred in the Spanish Civil War."
+summary: Member of the Carmelites of the Ancient Observance. Martyred in the Spanish Civil War.
 searchAliases:
-  - "Brother Daniel María"
+  - Brother Daniel María
 birthYear: 1913
 deathYear: 1936
-born: "11 December 1913 in Navacepeda de Tormes, Avila, Spain"
-died: "18 August 1936 in Carabanchel Bajo, Madrid, Spain"
-birthPlace: "Avila, Spain"
-deathPlace: "Madrid, Spain"
-region: "Spain"
+born: 11 December 1913 in Navacepeda de Tormes, Avila, Spain
+died: 18 August 1936 in Carabanchel Bajo, Madrid, Spain
+birthPlace: Avila, Spain
+deathPlace: Madrid, Spain
+region: Spain
 feastDay:
   month: 8
   day: 18
 canonizationStatus: Blessed
 vocation: []
-religiousOrder: "Carmelite"
+religiousOrder: Carmelite
 martyr: true
+prayers: []
 ---
 
 Member of the Carmelites of the Ancient Observance. Martyred in the Spanish Civil War.

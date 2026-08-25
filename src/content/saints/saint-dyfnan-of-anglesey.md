@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Dyfnan of Anglesey"
+name: Saint Dyfnan of Anglesey
 honorific: Saint
-summary: "Founded a church in Anglesey, Wales."
-born: "Wales"
-died: "5th century"
-region: "England"
+summary: Founded a church in Anglesey, Wales.
+born: Wales
+died: 5th century
+region: England
 feastDay:
   month: 4
   day: 24
@@ -13,6 +13,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: false
+prayers: []
 ---
 
 Founded a church in Anglesey, Wales.

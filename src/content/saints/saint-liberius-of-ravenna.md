@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Liberius of Ravenna"
+name: Saint Liberius of Ravenna
 honorific: Saint
-summary: "One of the first bishops of the diocese of Ravenna, Italy."
+summary: One of the first bishops of the diocese of Ravenna, Italy.
 deathYear: 200
-died: "c.200 of natural causes"
-region: "Italy"
+died: c.200 of natural causes
+region: Italy
 feastDay:
   month: 12
   day: 30
@@ -14,6 +14,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 One of the first bishops of the diocese of Ravenna, Italy.

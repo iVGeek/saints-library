@@ -1,9 +1,9 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Polychronius of Babylon"
+name: Saint Polychronius of Babylon
 honorific: Saint
-summary: "Bishop of Babylon. Martyr. No other reliable information has survived."
-region: "England"
+summary: Bishop of Babylon. Martyr. No other reliable information has survived.
+region: England
 feastDay:
   month: 2
   day: 17
@@ -12,6 +12,7 @@ vocation:
   - Bishop
   - Monk
 martyr: true
+prayers: []
 ---
 
 Bishop of Babylon. Martyr. No other reliable information has survived.

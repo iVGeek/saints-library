@@ -18,6 +18,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/d/d8/Martyrs_of_Damascus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Martyrs of Syria
 imageCreditUrl: https://en.wikipedia.org/wiki/Martyrs%20of%20Damascus
+prayers: []
 ---
 
 350 monks massacred by heretics for their adherence to orthodox Christianity and the decrees of the Council of Chalcedon.

@@ -1,13 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Miqael of Ulompo"
+name: Blessed Miqael of Ulompo
 honorific: Blessed
-summary: "Sixth-century monk who worked with Saint John Zedazneli to evangelize Georgia."
+summary: Sixth-century monk who worked with Saint John Zedazneli to evangelize Georgia.
 searchAliases:
-  - "Michael Ulumbijski"
-  - "one of the Fathers of the Church in Georgia"
-born: "Syria"
-region: "England"
+  - Michael Ulumbijski
+  - one of the Fathers of the Church in Georgia
+born: Syria
+region: England
 feastDay:
   month: 5
   day: 7
@@ -16,6 +16,7 @@ vocation:
   - Priest
   - Monk
 martyr: false
+prayers: []
 ---
 
 Sixth-century monk who worked with Saint John Zedazneli to evangelize Georgia.

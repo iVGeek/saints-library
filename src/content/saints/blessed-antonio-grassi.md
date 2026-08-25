@@ -1,23 +1,28 @@
 ---
-name: "Blessed Antonio Grassi"
+name: Blessed Antonio Grassi
 honorific: Blessed
-summary: "Oldest child in a devout family. Antonio's father, Vincenzo Grassi, died when the boy was only 10 years old, but he managed to pass on his devotion to Our Lady of Loreto. Antonio, who attended Mass each day as a boy, joined the Oratorian Fathers at age 17 where he showed a natura"
-image: "https://upload.wikimedia.org/wikipedia/commons/d/dc/%D0%91%D0%BB%D0%B0%D0%B6%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%90%D0%BD%D1%82%D0%BE%D0%BD%D0%B8%D0%BE_%D0%93%D1%80%D0%B0%D1%81%D1%81%D0%B8.jpg"
+summary: >-
+  Oldest child in a devout family. Antonio's father, Vincenzo Grassi, died when the boy was only 10 years old, but he
+  managed to pass on his devotion to Our Lady of Loreto. Antonio, who attended Mass each day as a boy, joined the
+  Oratorian Fathers at age 17 where he showed a natura
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/d/dc/%D0%91%D0%BB%D0%B0%D0%B6%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%90%D0%BD%D1%82%D0%BE%D0%BD%D0%B8%D0%BE_%D0%93%D1%80%D0%B0%D1%81%D1%81%D0%B8.jpg
 birthYear: 1592
 deathYear: 1671
-born: "13 November 1592 in Fermo, Italy"
-died: "13 December 1671 in Fermo, Italy of natural causes"
-birthPlace: "Italy"
-deathPlace: "Italynatural causes"
-region: "Italy"
+born: 13 November 1592 in Fermo, Italy
+died: 13 December 1671 in Fermo, Italy of natural causes
+birthPlace: Italy
+deathPlace: Italynatural causes
+region: Italy
 feastDay:
   month: 12
   day: 13
 canonizationStatus: Blessed
 vocation:
   - Priest
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 martyr: false
+prayers: []
 ---
 
 Oldest child in a devout family. Antonio's father, Vincenzo Grassi, died when the boy was only 10 years old, but he managed to pass on his devotion to Our Lady of Loreto. Antonio, who attended Mass each day as a boy, joined the Oratorian Fathers at age 17 where he showed a natural talent for the study of theology and Scripture. Priest.

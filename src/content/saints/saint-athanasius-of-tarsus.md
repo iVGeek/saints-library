@@ -16,6 +16,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/4a/Fresco_of_Saint_Paul_at_Ephesus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Athanasius of Tarsus
 imageCreditUrl: https://en.wikipedia.org/wiki/Paul%20the%20Apostle
+prayers: []
 ---
 
 Bishop of Tarsus in Asia Minor. Martyred in the persecutions of Emperor Valerian.

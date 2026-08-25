@@ -15,6 +15,7 @@ vocation:
   - Monk
   - Soldier
 martyr: false
+prayers: []
 ---
 
 During the persecutions of Diocletian, many Christians fled their homes to live in caves in the area of Nicomedia. In 303 troops descended on the area, systematically hunted them down, and murdered all they could find.

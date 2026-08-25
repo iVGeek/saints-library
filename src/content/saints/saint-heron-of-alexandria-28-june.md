@@ -1,15 +1,15 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Heron of Alexandria"
+name: Saint Heron of Alexandria
 honorific: Saint
-summary: "A new convert, he was a spiritual student of Origen. Martyred in the persecutions of Severus."
+summary: A new convert, he was a spiritual student of Origen. Martyred in the persecutions of Severus.
 searchAliases:
-  - "Erone"
-  - "Hero"
+  - Erone
+  - Hero
 deathYear: 206
-died: "beheaded c.206 in Alexandria, Egypt"
-deathPlace: "Egypt"
-region: "Italy"
+died: beheaded c.206 in Alexandria, Egypt
+deathPlace: Egypt
+region: Italy
 feastDay:
   month: 6
   day: 28
@@ -18,6 +18,7 @@ vocation:
   - Priest
   - Monk
 martyr: true
+prayers: []
 ---
 
 A new convert, he was a spiritual student of Origen. Martyred in the persecutions of Severus.

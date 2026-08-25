@@ -1,23 +1,25 @@
 ---
-name: "Venerable Giuseppe Marrazzo"
+name: Venerable Giuseppe Marrazzo
 honorific: Venerable
-summary: " His first mission as a Rogationist priest was to spread devotion to Saint A Born to a pious peasant family. Educated by the Rogationists of the Sacred Heart of Jesus, he joined them on 29 September 1934; he made his profession on 24 December 1940. Ordained a priest on 9 May 1943."
-image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Giuseppe-Marrazzo.jpg"
+summary: ' His first mission as a Rogationist priest was to spread devotion to Saint A Born to a pious peasant family. Educated by the Rogationists of the Sacred Heart of Jesus, he joined them on 29 September 1934; he made his profession on 24 December 1940. Ordained a priest on 9 May 1943.'
+image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Giuseppe-Marrazzo.jpg
 birthYear: 1917
 deathYear: 1992
-born: "5 May 1917 in San Vito dei Normanni, Brindisi, Italy"
-died: "30 November 1992 in Messina, Italy of cardiac arrest"
-birthPlace: "Brindisi, Italy"
-deathPlace: "Italycardiac arrest"
-region: "Italy"
+born: 5 May 1917 in San Vito dei Normanni, Brindisi, Italy
+died: 30 November 1992 in Messina, Italy of cardiac arrest
+birthPlace: Brindisi, Italy
+deathPlace: Italycardiac arrest
+region: Italy
 feastDay:
   month: 9
   day: 29
-centuries: [20]
+centuries:
+  - 20
 canonizationStatus: Venerable
 vocation:
   - Priest
 martyr: false
+prayers: []
 ---
 
 Born to a pious peasant family. Educated by the Rogationists of the Sacred Heart of Jesus, he joined them on 29 September 1934; he made his profession on 24 December 1940. Ordained a priest on 9 May 1943.

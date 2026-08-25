@@ -21,6 +21,7 @@ image: >-
 imageAlt: Portrait of Saint Áugulo of Viviers
 imageCredit: HathiTrust identifier
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:Saint%20Theresa%20of%20Avila%20(Gilman%201889).djvu
+prayers: []
 ---
 
 Seventh century bishop of Viviers, Neustria (in modern France). Founded the first hospital in the city, and freed slaves.

@@ -1,23 +1,28 @@
 ---
-name: "Saint Emily de Vialar"
+name: Saint Emily de Vialar
 honorific: Venerable
-summary: "Born to an aristocratic family, the eldest of three children, and only daughter of Baron James Augustine and Antoinette de Vialar. Because of the anti-Church sentiment of the years following the French Revolution, Emily was baptized in secret, and was taught religion at home by h"
-image: "https://upload.wikimedia.org/wikipedia/commons/6/6e/EmiliVialar.jpg"
+summary: >-
+  Born to an aristocratic family, the eldest of three children, and only daughter of Baron James Augustine and
+  Antoinette de Vialar. Because of the anti-Church sentiment of the years following the French Revolution, Emily was
+  baptized in secret, and was taught religion at home by h
+image: https://upload.wikimedia.org/wikipedia/commons/6/6e/EmiliVialar.jpg
 searchAliases:
-  - "Anne Marguerite Adelaide Emily de Vialar"
-  - "Emilie de Vialar"
-  - "Emilie de Vialard"
+  - Anne Marguerite Adelaide Emily de Vialar
+  - Emilie de Vialar
+  - Emilie de Vialard
 birthYear: 1797
 deathYear: 1856
-born: "12 September 1797 at Gaillace, Albi, southern France as Anne Marguerite Adelaide Emily de Vialar"
-died: "24 August 1856 at Marseilles, Bouches-du-Rhône, France of natural causes"
-birthPlace: "Albi, southern France as Anne Marguerite Adelaide Emily de Vialar"
-deathPlace: "Bouches-du-Rhône, Francenatural causes"
-region: "France"
+born: 12 September 1797 at Gaillace, Albi, southern France as Anne Marguerite Adelaide Emily de Vialar
+died: 24 August 1856 at Marseilles, Bouches-du-Rhône, France of natural causes
+birthPlace: Albi, southern France as Anne Marguerite Adelaide Emily de Vialar
+deathPlace: Bouches-du-Rhône, Francenatural causes
+region: France
 feastDay:
   month: 8
   day: 24
-centuries: [18, 19]
+centuries:
+  - 18
+  - 19
 canonizationStatus: Venerable
 vocation:
   - Bishop
@@ -25,6 +30,7 @@ vocation:
   - Religious
   - Missionary
 martyr: false
+prayers: []
 ---
 
 Born to an aristocratic family, the eldest of three children, and only daughter of Baron James Augustine and Antoinette de Vialar. Because of the anti-Church sentiment of the years following the French Revolution, Emily was baptized in secret, and was taught religion at home by her mother. Sent at age 7 to Paris, France for her education. Her mother died when Emily was 15, and the girl returned home. She managed her father's house until she was 35 years old, privately devoting herself to a life of celibacy and prayer, and occasionally arguing with her father over her desire to enter religious life.

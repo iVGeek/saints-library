@@ -24,6 +24,7 @@ vocation:
   - Bishop
   - Priest
 martyr: false
+prayers: []
 ---
 
 Sixth-century bishop of Marseille, Gaul (in modern France). For trying to establish clerical discipline and control of his clergy, he ran into opposition from King Childebert and King Guntram, and was sometimes imprisoned and was exiled three times. Attended the synod of Mâcon in 585. Received letters from Pope Saint Gregory the Great about the proper way to convert Jews by convincing them of the faith instead of forcibly baptizing them as some priests were doing.

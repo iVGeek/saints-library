@@ -1,17 +1,17 @@
 ---
-name: "Blessed Daniele di Calabria"
+name: Blessed Daniele di Calabria
 honorific: Blessed
-summary: " Called to missionary work, he was one of a group of seven Fria Priest who joined the Franciscans in 1219. In 1224 he helped found the convent of Santa Maria del Soccorso near Rogliano, Italy. He helped found the convent of Gerace Superiore. Provincial superior of Calabria, Italy."
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Daniele-di-Calabria.jpg"
+summary: ' Called to missionary work, he was one of a group of seven Fria Priest who joined the Franciscans in 1219. In 1224 he helped found the convent of Santa Maria del Soccorso near Rogliano, Italy. He helped found the convent of Gerace Superiore. Provincial superior of Calabria, Italy.'
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Daniele-di-Calabria.jpg
 searchAliases:
-  - "Daniele Fasanella"
-  - "Deniele of Ceuta"
+  - Daniele Fasanella
+  - Deniele of Ceuta
 deathYear: 1227
-born: "latter 12th century Belvedere Marittimo, Kingdom of Sicily (modern Italy)"
-died: "beheaded in October 1227 in Mauritania Tingitana, Almohad Empire (modern Ceuta, Spain)"
-birthPlace: "KingdomSicily (modern Italy)"
-deathPlace: "Almohad Empire (modern Ceuta, Spain)"
-region: "Spain"
+born: latter 12th century Belvedere Marittimo, Kingdom of Sicily (modern Italy)
+died: beheaded in October 1227 in Mauritania Tingitana, Almohad Empire (modern Ceuta, Spain)
+birthPlace: KingdomSicily (modern Italy)
+deathPlace: Almohad Empire (modern Ceuta, Spain)
+region: Spain
 feastDay:
   month: 10
   day: 10
@@ -19,11 +19,15 @@ canonizationStatus: Blessed
 vocation:
   - Priest
   - Missionary
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 patronage:
-  - "in Italy\n\nBelvedere Marittimo"
-  - "Orani"
+  - |-
+    in Italy
+
+    Belvedere Marittimo
+  - Orani
 martyr: true
+prayers: []
 ---
 
 Priest who joined the Franciscans in 1219. In 1224 he helped found the convent of Santa Maria del Soccorso near Rogliano, Italy. He helped found the convent of Gerace Superiore. Provincial superior of Calabria, Italy.

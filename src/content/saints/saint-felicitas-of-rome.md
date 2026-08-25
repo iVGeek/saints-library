@@ -14,6 +14,7 @@ image: >-
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Two martyrs with the same name who were executed together. No other details have survived.

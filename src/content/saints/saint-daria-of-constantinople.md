@@ -1,19 +1,20 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Daria of Constantinople"
+name: Saint Daria of Constantinople
 honorific: Saint
-summary: "Martyr."
+summary: Martyr.
 searchAliases:
-  - "Daretia"
-died: "Constantinople (modern Istanbul, Turkey), date unknown"
-deathPlace: "Turkey), date unknown"
-region: "Turkey"
+  - Daretia
+died: Constantinople (modern Istanbul, Turkey), date unknown
+deathPlace: Turkey), date unknown
+region: Turkey
 feastDay:
   month: 7
   day: 19
 canonizationStatus: Saint
 vocation: []
 martyr: true
+prayers: []
 ---
 
 Martyr.

@@ -1,19 +1,22 @@
 ---
-name: "Blessed Louis Tezza"
+name: Blessed Louis Tezza
 honorific: Blessed
-summary: "The only son of Augustine Tezza, a physician, and Catherine Nedwiedt. His father died when Louis was nine, and his mother moved to Padova, Italy. Entered the Ministers of the Sick of Saint Camillus de Lellis (Camillians) on 8 December 1858 at age 17 at Verona, Italy; his mother t"
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Louis-Tezza.jpg"
+summary: >-
+  The only son of Augustine Tezza, a physician, and Catherine Nedwiedt. His father died when Louis was nine, and his
+  mother moved to Padova, Italy. Entered the Ministers of the Sick of Saint Camillus de Lellis (Camillians) on 8
+  December 1858 at age 17 at Verona, Italy; his mother t
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Louis-Tezza.jpg
 searchAliases:
-  - "Aloysius Tezza"
-  - "Luigi Tezza"
-  - "Apostle of Lima"
+  - Aloysius Tezza
+  - Luigi Tezza
+  - Apostle of Lima
 birthYear: 1841
 deathYear: 1923
-born: "1 November 1841 at Conegliano, Italy"
-died: "23 September 1923 at Lima, Peru"
-birthPlace: "Italy"
-deathPlace: "Peru"
-region: "Peru"
+born: 1 November 1841 at Conegliano, Italy
+died: 23 September 1923 at Lima, Peru
+birthPlace: Italy
+deathPlace: Peru
+region: Peru
 feastDay:
   month: 9
   day: 26
@@ -24,6 +27,7 @@ vocation:
   - Missionary
   - Confessor
 martyr: false
+prayers: []
 ---
 
 The only son of Augustine Tezza, a physician, and Catherine Nedwiedt. His father died when Louis was nine, and his mother moved to Padova, Italy. Entered the Ministers of the Sick of Saint Camillus de Lellis (Camillians) on 8 December 1858 at age 17 at Verona, Italy; his mother then became a nun. Ordained on 21 May 1864.

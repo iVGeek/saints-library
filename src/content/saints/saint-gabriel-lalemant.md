@@ -28,6 +28,7 @@ martyr: true
 lifeEvents:
   - year: '1610'
     event: Born at Paris.
+prayers: []
 ---
 
 Nephew of the Jesuit missionaries Charles and Jerome Lalemant. Entered the Jesuits in Paris, France on 24 March 1630. Missionary, arriving in Canada on 20 September 1646. Assigned as assistant to Saint John de Brebeuf among the Huron in early 1649, he was soon martyred with him. One of the Martyrs of North America.

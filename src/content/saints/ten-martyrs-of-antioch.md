@@ -1,12 +1,14 @@
 ---
 image: /placeholder-saint.svg
-name: "Ten Martyrs of Antioch"
+name: Ten Martyrs of Antioch
 honorific: Saint
-summary: "Ten Christians murdered together by Arabs after their seizure of Antioch, Syria. No names or other details about them have come down to us."
+summary: >-
+  Ten Christians murdered together by Arabs after their seizure of Antioch, Syria. No names or other details about them
+  have come down to us.
 deathYear: 637
-died: "637 in Antioch, Syria"
-deathPlace: "Syria"
-region: "Turkey"
+died: 637 in Antioch, Syria
+deathPlace: Syria
+region: Turkey
 feastDay:
   month: 11
   day: 6
@@ -14,6 +16,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: false
+prayers: []
 ---
 
 Ten Christians murdered together by Arabs after their seizure of Antioch, Syria. No names or other details about them have come down to us.

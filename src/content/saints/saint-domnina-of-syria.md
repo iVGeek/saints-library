@@ -16,6 +16,7 @@ canonizationStatus: Saint
 vocation:
   - Virgin
 martyr: false
+prayers: []
 ---
 
 Consecrated virgin who lived in a shed, leaving only to attend Mass. She devoted her life to prayer and to caring for travellers. Known for keeping her face covered at all times and refusing to look at the faces of others.

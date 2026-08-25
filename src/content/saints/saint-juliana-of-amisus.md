@@ -1,9 +1,9 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Juliana of Amisus"
+name: Saint Juliana of Amisus
 honorific: Saint
-summary: "Christian woman martyred in the persecutions of Diocletian. No other information has survived."
-region: "Turkey"
+summary: Christian woman martyred in the persecutions of Diocletian. No other information has survived.
+region: Turkey
 feastDay:
   month: 3
   day: 20
@@ -12,6 +12,7 @@ vocation:
   - Monk
   - Religious
 martyr: true
+prayers: []
 ---
 
 Christian woman martyred in the persecutions of Diocletian. No other information has survived.

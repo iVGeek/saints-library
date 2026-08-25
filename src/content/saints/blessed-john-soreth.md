@@ -20,6 +20,7 @@ canonizationStatus: Blessed
 vocation: []
 religiousOrder: Carmelite
 martyr: false
+prayers: []
 ---
 
 Carmelite. Studied in Paris, France. Doctor of theology in 1438. Prior-general of his order from 1451 to 1471. Wrote a famous commentary on the Rule. Issued new Constitutions in 1462. Worked to return his order to its earliest observance, and to admit convents. Spiritual director of Blessed Frances d'Amboise.

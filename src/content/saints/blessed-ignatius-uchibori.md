@@ -1,21 +1,24 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Ignatius Uchibori"
+name: Blessed Ignatius Uchibori
 honorific: Blessed
-summary: "Child in the archdiocese of Nagasaki, Japan. Son of Blessed Paulus Uchibori Sakuemon; brother of Blessed Balthasar Uchibori and Blessed Antonius Uchibori. Martyr."
+summary: >-
+  Child in the archdiocese of Nagasaki, Japan. Son of Blessed Paulus Uchibori Sakuemon; brother of Blessed Balthasar
+  Uchibori and Blessed Antonius Uchibori. Martyr.
 birthYear: 1622
 deathYear: 1627
-born: "c.1622 in Fukae, Nagasaki, Japan"
-died: "21 February 1627 in Shimabara, Nagasaki, Japan"
-birthPlace: "Nagasaki, Japan"
-deathPlace: "Nagasaki, Japan"
-region: "Japan"
+born: c.1622 in Fukae, Nagasaki, Japan
+died: 21 February 1627 in Shimabara, Nagasaki, Japan
+birthPlace: Nagasaki, Japan
+deathPlace: Nagasaki, Japan
+region: Japan
 feastDay:
   month: 2
   day: 21
 canonizationStatus: Blessed
 vocation: []
 martyr: true
+prayers: []
 ---
 
 Child in the archdiocese of Nagasaki, Japan. Son of Blessed Paulus Uchibori Sakuemon; brother of Blessed Balthasar Uchibori and Blessed Antonius Uchibori. Martyr.

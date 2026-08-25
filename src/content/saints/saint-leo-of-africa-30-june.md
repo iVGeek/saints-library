@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Leo of Africa"
+name: Saint Leo of Africa
 honorific: Saint
-summary: "Sub-deacon. Martyr."
-died: "unknown location in Africa, date unknown"
-deathPlace: "date unknown"
-region: "Africa"
+summary: Sub-deacon. Martyr.
+died: unknown location in Africa, date unknown
+deathPlace: date unknown
+region: Africa
 feastDay:
   month: 6
   day: 30
@@ -14,6 +14,7 @@ vocation:
   - Monk
   - Deacon
 martyr: true
+prayers: []
 ---
 
 Sub-deacon. Martyr.

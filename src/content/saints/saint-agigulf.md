@@ -1,18 +1,21 @@
 ---
-name: "Saint Agigulf of Cologne"
+name: Saint Agigulf of Cologne
 honorific: Saint
-summary: "Educated at the Benedictine monastery of Stavelot-Malmédy (in modern Belgium) where he became monk and later abbot. Bishop of Cologne, Austrasia (in modern Germany) c.745. Noted for his austerity of life and his preaching. When King Pepin was dying, Agigulf counseled against nami"
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Agigulf.jpg"
+summary: >-
+  Educated at the Benedictine monastery of Stavelot-Malmédy (in modern Belgium) where he became monk and later abbot.
+  Bishop of Cologne, Austrasia (in modern Germany) c.745. Noted for his austerity of life and his preaching. When King
+  Pepin was dying, Agigulf counseled against nami
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Agigulf.jpg
 searchAliases:
-  - "Agigulfus"
-  - "Agilolfo"
-  - "Agilulfo"
-  - "Agilulfus"
-  - "Agilulph"
+  - Agigulfus
+  - Agilolfo
+  - Agilulfo
+  - Agilulfus
+  - Agilulph
 deathYear: 751
-died: "murdered c.751 in Cologne, Austrasia (in modern Germany)"
-deathPlace: "Austrasia (modern Germany)"
-region: "Belgium"
+died: murdered c.751 in Cologne, Austrasia (in modern Germany)
+deathPlace: Austrasia (modern Germany)
+region: Belgium
 feastDay:
   month: 3
   day: 31
@@ -20,11 +23,15 @@ canonizationStatus: Saint
 vocation:
   - Bishop
   - Monk
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 patronage:
-  - "in Belgium\n\nMalmedy"
-  - "Stavelot"
+  - |-
+    in Belgium
+
+    Malmedy
+  - Stavelot
 martyr: true
+prayers: []
 ---
 
 Educated at the Benedictine monastery of Stavelot-Malmédy (in modern Belgium) where he became monk and later abbot. Bishop of Cologne, Austrasia (in modern Germany) c.745. Noted for his austerity of life and his preaching. When King Pepin was dying, Agigulf counseled against naming Charles Martel as the new king; when Martel came to the throne, he had Agigulf killed. Martyr.

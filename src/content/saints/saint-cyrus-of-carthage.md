@@ -1,9 +1,9 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Cyrus of Carthage"
+name: Saint Cyrus of Carthage
 honorific: Saint
-summary: "Bishop of Carthage."
-region: "Italy"
+summary: Bishop of Carthage.
+region: Italy
 feastDay:
   month: 7
   day: 14
@@ -12,6 +12,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Bishop of Carthage.

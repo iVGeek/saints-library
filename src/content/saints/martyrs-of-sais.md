@@ -16,6 +16,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/b/b1/East-Ortho-cross.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Martyrs of Sais
 imageCreditUrl: https://en.wikipedia.org/wiki/January%205%20(Eastern%20Orthodox%20liturgics)
+prayers: []
 ---
 
 A group of Christians martyred for their faith, but about whom no details have survived.

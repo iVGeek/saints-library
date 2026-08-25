@@ -1,25 +1,26 @@
 ---
-name: "Blessed Villana de'Botti"
+name: Blessed Villana de'Botti
 honorific: Blessed
-title: "Priest"
-summary: " The rejection at the convent and the marriage seemed to change Vil Daughter of Andrew de'Botti, a merchant. Villana was a pious child, and at age 13 ran away from home to join a convent. She was refused and had to return home. Soon after, her family married her to Rosso di Piero."
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Villana-deBotti.jpg"
+title: Priest
+summary: ' The rejection at the convent and the marriage seemed to change Vil Daughter of Andrew de''Botti, a merchant. Villana was a pious child, and at age 13 ran away from home to join a convent. She was refused and had to return home. Soon after, her family married her to Rosso di Piero.'
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Villana-deBotti.jpg
 birthYear: 1332
 deathYear: 1361
-born: "1332 in Florence, Italy"
-died: "29 January 1361 of natural causes"
-birthPlace: "Italy"
-region: "Italy"
+born: 1332 in Florence, Italy
+died: 29 January 1361 of natural causes
+birthPlace: Italy
+region: Italy
 feastDay:
   month: 2
   day: 28
 canonizationStatus: Blessed
 vocation:
   - Priest
-religiousOrder: "Dominican"
+religiousOrder: Dominican
 patronage:
-  - "Florence, Italy"
+  - Florence, Italy
 martyr: false
+prayers: []
 ---
 
 Daughter of Andrew de'Botti, a merchant. Villana was a pious child, and at age 13 ran away from home to join a convent. She was refused and had to return home. Soon after, her family married her to Rosso di Piero.

@@ -1,14 +1,16 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Colman of Elo"
+name: Saint Colman of Elo
 honorific: Saint
-summary: "Nephew of Saint Columba of Iona. Founded monasteries in Lynally (Land-Elo, Lin-Alli) and in Muckamore in Ireland. Wrote the Alphabet of Devotion."
+summary: >-
+  Nephew of Saint Columba of Iona. Founded monasteries in Lynally (Land-Elo, Lin-Alli) and in Muckamore in Ireland.
+  Wrote the Alphabet of Devotion.
 searchAliases:
-  - "Colman Macusailni"
-  - "Elo Colman"
+  - Colman Macusailni
+  - Elo Colman
 deathYear: 610
-died: "c.610"
-region: "Ireland"
+died: c.610
+region: Ireland
 feastDay:
   month: 9
   day: 26
@@ -18,6 +20,7 @@ vocation:
   - Monk
   - Confessor
 martyr: false
+prayers: []
 ---
 
 Nephew of Saint Columba of Iona. Founded monasteries in Lynally (Land-Elo, Lin-Alli) and in Muckamore in Ireland. Wrote the Alphabet of Devotion.

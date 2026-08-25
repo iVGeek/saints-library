@@ -1,19 +1,19 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Bean of Mortlach"
+name: Saint Bean of Mortlach
 honorific: Saint
-summary: "Bishop of Mortlach, Banff, Scotland, chosen by Pope Benedict VIII. Evangelized in Aberdeen, Scotland."
+summary: Bishop of Mortlach, Banff, Scotland, chosen by Pope Benedict VIII. Evangelized in Aberdeen, Scotland.
 searchAliases:
-  - "Bean of Aberdeen"
-  - "Bean of Lough Derg"
-  - "Bean of Murlach"
-  - "Beano"
-  - "Beanus"
-  - "Beóán"
+  - Bean of Aberdeen
+  - Bean of Lough Derg
+  - Bean of Murlach
+  - Beano
+  - Beanus
+  - Beóán
 deathYear: 1012
-born: "Scotland"
-died: "c.1012"
-region: "Scotland"
+born: Scotland
+died: c.1012
+region: Scotland
 feastDay:
   month: 12
   day: 16
@@ -22,6 +22,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Bishop of Mortlach, Banff, Scotland, chosen by Pope Benedict VIII. Evangelized in Aberdeen, Scotland.

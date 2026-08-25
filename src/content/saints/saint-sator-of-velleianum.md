@@ -1,14 +1,14 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Sator of Velleianum"
+name: Saint Sator of Velleianum
 honorific: Saint
-summary: "Martyred in the persecutions of Maximian Herculeaus."
+summary: Martyred in the persecutions of Maximian Herculeaus.
 searchAliases:
-  - "Satyrus"
+  - Satyrus
 deathYear: 303
-died: "c.303 at Velleianum, Italy"
-deathPlace: "Italy"
-region: "Italy"
+died: c.303 at Velleianum, Italy
+deathPlace: Italy
+region: Italy
 feastDay:
   month: 8
   day: 29
@@ -17,6 +17,7 @@ vocation:
   - Priest
   - Monk
 martyr: true
+prayers: []
 ---
 
 Martyred in the persecutions of Maximian Herculeaus.

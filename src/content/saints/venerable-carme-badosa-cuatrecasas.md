@@ -1,26 +1,29 @@
 ---
-name: "Venerable Carme Badosa Cuatrecasas"
-image: "https://upload.wikimedia.org/wikipedia/commons/b/b1/BadosaArcangela.jpg"
+name: Venerable Carme Badosa Cuatrecasas
+image: https://upload.wikimedia.org/wikipedia/commons/b/b1/BadosaArcangela.jpg
 honorific: Venerable
-summary: "Carmelite nun."
+summary: Carmelite nun.
 searchAliases:
-  - "Sister Arcàngela"
+  - Sister Arcàngela
 birthYear: 1878
 deathYear: 1918
-born: "16 June 1878 in Sant Joan les Fonts, Girona, Spain"
-died: "27 November 1918 in Elda, Alicante, Spain of natural causes"
-birthPlace: "Girona, Spain"
-deathPlace: "Alicante, Spaof natural causes"
-region: "Spain"
+born: 16 June 1878 in Sant Joan les Fonts, Girona, Spain
+died: 27 November 1918 in Elda, Alicante, Spain of natural causes
+birthPlace: Girona, Spain
+deathPlace: Alicante, Spaof natural causes
+region: Spain
 feastDay:
   month: 1
   day: 1
-centuries: [19, 20]
+centuries:
+  - 19
+  - 20
 canonizationStatus: Venerable
 vocation:
   - Religious
-religiousOrder: "Carmelite"
+religiousOrder: Carmelite
 martyr: false
+prayers: []
 ---
 
 Carmelite nun.

@@ -1,17 +1,20 @@
 ---
-name: "Blessed Juan Otazua y Madariaga"
+name: Blessed Juan Otazua y Madariaga
 honorific: Blessed
-summary: "Member of the Trinitarians, beginning his novitiate at the Shrine of Bien Aparecida in Cantabria, Spain, and making his simple vows on 11 October 1914. He studied at several convents, and made his final profession on 17 May 1918 in Cordoba, Spain. Ordained a priest in Madrid, Spa"
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Juan-Otazua-y-Madariaga.jpg"
+summary: >-
+  Member of the Trinitarians, beginning his novitiate at the Shrine of Bien Aparecida in Cantabria, Spain, and making
+  his simple vows on 11 October 1914. He studied at several convents, and made his final profession on 17 May 1918 in
+  Cordoba, Spain. Ordained a priest in Madrid, Spa
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Juan-Otazua-y-Madariaga.jpg
 searchAliases:
-  - "Juan de Jesús y María"
+  - Juan de Jesús y María
 birthYear: 1895
 deathYear: 1937
-born: "8 February 1895 in Rigoitia, Vizcaya, Spain"
-died: "shot at dawn on 3 April 1937 in the cemetery of Mancha Real, Jaén, Spain"
-birthPlace: "Vizcaya, Spain"
-deathPlace: "Jaén, Spain"
-region: "Spain"
+born: 8 February 1895 in Rigoitia, Vizcaya, Spain
+died: shot at dawn on 3 April 1937 in the cemetery of Mancha Real, Jaén, Spain
+birthPlace: Vizcaya, Spain
+deathPlace: Jaén, Spain
+region: Spain
 feastDay:
   month: 4
   day: 3
@@ -19,8 +22,9 @@ canonizationStatus: Blessed
 vocation:
   - Virgin
   - Priest
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 martyr: true
+prayers: []
 ---
 
 Member of the Trinitarians, beginning his novitiate at the Shrine of Bien Aparecida in Cantabria, Spain, and making his simple vows on 11 October 1914. He studied at several convents, and made his final profession on 17 May 1918 in Cordoba, Spain. Ordained a priest in Madrid, Spain on 23 October 1921, he began to serve at the church of Sant'Ignazio de Loyola dei vaschi. A musician familiar with several instruments, Father Juan was an excellent cello player.

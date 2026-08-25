@@ -1,13 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Columbinus of Lure"
+name: Saint Columbinus of Lure
 honorific: Saint
-summary: "Monk. Spiritual student of Saint Deicola. Abbot of Lure in France."
+summary: Monk. Spiritual student of Saint Deicola. Abbot of Lure in France.
 searchAliases:
-  - "Colombino"
+  - Colombino
 deathYear: 680
-died: "c.680"
-region: "France"
+died: c.680
+region: France
 feastDay:
   month: 9
   day: 13
@@ -15,6 +15,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: false
+prayers: []
 ---
 
 Monk. Spiritual student of Saint Deicola. Abbot of Lure in France.

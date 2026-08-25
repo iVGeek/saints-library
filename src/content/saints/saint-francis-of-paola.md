@@ -50,6 +50,7 @@ patronage:
   - Poço Fundo
   - São Francisco de Paula
 martyr: false
+prayers: []
 ---
 
 Francis's parents were childless for many years, but following prayers for the intercession of Saint Francis of Assisi, they had three children; Francis was the oldest. Following a pilgrimage in his teens to Rome and Assisi in Italy, he became a hermit in a cave near Paola. Before he was 20 years old he began to attract followers. By the 1450's the followers had become so numerous that he established a Rule for them and sought Church approval. This was the founding of the Hermits of Saint Francis of Assisi, who were approved by the Holy See in 1474. In 1492 they were renamed the Franciscan Order of Minim Fiars, which means they count themselves the least of the family of God.

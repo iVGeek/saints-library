@@ -1,16 +1,16 @@
 ---
-name: "Saint Demet of Plozévet"
+name: Saint Demet of Plozévet
 honorific: Saint
-summary: "Fourth-century hermit near Plozévet, Brittany (in modern France). One of the Breton Missionaries to Britain."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Demet-of-Plozévet-1.jpg"
+summary: Fourth-century hermit near Plozévet, Brittany (in modern France). One of the Breton Missionaries to Britain.
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Demet-of-Plozévet-1.jpg
 searchAliases:
-  - "Demet of Plozeved"
-  - "Demat"
-  - "Dervel"
-  - "Devet"
-  - "Tevet"
-  - "Zevet"
-region: "France"
+  - Demet of Plozeved
+  - Demat
+  - Dervel
+  - Devet
+  - Tevet
+  - Zevet
+region: France
 feastDay:
   month: 1
   day: 1
@@ -19,6 +19,7 @@ vocation:
   - Monk
   - Hermit
 martyr: false
+prayers: []
 ---
 
 Fourth-century hermit near Plozévet, Brittany (in modern France). One of the Breton Missionaries to Britain.

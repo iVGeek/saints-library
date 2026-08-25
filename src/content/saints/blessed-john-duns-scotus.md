@@ -1,27 +1,31 @@
 ---
-name: "Blessed John Duns Scotus"
+name: Blessed John Duns Scotus
 honorific: Blessed
-summary: "Son of a wealthy farmer. Friar Minor at Dumfries where his uncle Elias Duns was superior. Studied at Oxford and Paris. Ordained 17 March 1291 at Saint Andrew's Church, Northampton at age 25. Lectured at Oxford and Cambridge from 1297 to 1301 when he returned to Paris to teach and"
-image: "https://catholicsaints.info/wp-content/uploads/img-Blessed-John-Duns-Scotus-1.jpg"
+summary: >-
+  Son of a wealthy farmer. Friar Minor at Dumfries where his uncle Elias Duns was superior. Studied at Oxford and Paris.
+  Ordained 17 March 1291 at Saint Andrew's Church, Northampton at age 25. Lectured at Oxford and Cambridge from 1297 to
+  1301 when he returned to Paris to teach and
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-John-Duns-Scotus-1.jpg
 searchAliases:
-  - "Doctor Subtilis"
-  - "Johannes Scotus"
-  - "The Subtle Doctor"
+  - Doctor Subtilis
+  - Johannes Scotus
+  - The Subtle Doctor
 birthYear: 1266
 deathYear: 1308
-born: "1266 at Duns, Berwick, Scotland"
-died: "8 November 1308 of natural causes at Cologne, North Rhine-Westphalia (in modern Germany)"
-birthPlace: "Berwick, Scotland"
-deathPlace: "North Rhine-Westphalia (modern Germany)"
-region: "Germany"
+born: 1266 at Duns, Berwick, Scotland
+died: 8 November 1308 of natural causes at Cologne, North Rhine-Westphalia (in modern Germany)
+birthPlace: Berwick, Scotland
+deathPlace: North Rhine-Westphalia (modern Germany)
+region: Germany
 feastDay:
   month: 11
   day: 8
 canonizationStatus: Blessed
 vocation:
   - Priest
-religiousOrder: "Franciscan"
+religiousOrder: Franciscan
 martyr: false
+prayers: []
 ---
 
 Son of a wealthy farmer. Friar Minor at Dumfries where his uncle Elias Duns was superior. Studied at Oxford and Paris. Ordained 17 March 1291 at Saint Andrew's Church, Northampton at age 25. Lectured at Oxford and Cambridge from 1297 to 1301 when he returned to Paris to teach and complete his doctorate.

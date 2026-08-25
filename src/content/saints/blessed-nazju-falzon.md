@@ -1,17 +1,20 @@
 ---
-name: "Blessed Nazju Falzon"
+name: Blessed Nazju Falzon
 honorific: Blessed
-summary: "Son of Francis Joseph, a judge, and Mary Teresa, the daughter of judge. Ignatius and all three of his brothers became lawyers; two of his brothers entered the priesthood. Ignatius received minor orders at age 15. He earned a degree in theology, but did not feel worthy of the prie"
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Nazju-Falzon.jpg"
+summary: >-
+  Son of Francis Joseph, a judge, and Mary Teresa, the daughter of judge. Ignatius and all three of his brothers became
+  lawyers; two of his brothers entered the priesthood. Ignatius received minor orders at age 15. He earned a degree in
+  theology, but did not feel worthy of the prie
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Nazju-Falzon.jpg
 searchAliases:
-  - "Ignatius Falzon"
+  - Ignatius Falzon
 birthYear: 1813
 deathYear: 1865
-born: "1 July 1813 at Valletta, Malta"
-died: "1 July 1865, Valletta, Malta of cancer"
-birthPlace: "Malta"
-deathPlace: "Valletta, Maltacancer"
-region: "France"
+born: 1 July 1813 at Valletta, Malta
+died: 1 July 1865, Valletta, Malta of cancer
+birthPlace: Malta
+deathPlace: Valletta, Maltacancer
+region: France
 feastDay:
   month: 7
   day: 1
@@ -19,8 +22,9 @@ canonizationStatus: Blessed
 vocation:
   - Bishop
   - Priest
-religiousOrder: "Jesuit"
+religiousOrder: Jesuit
 martyr: false
+prayers: []
 ---
 
 Son of Francis Joseph, a judge, and Mary Teresa, the daughter of judge. Ignatius and all three of his brothers became lawyers; two of his brothers entered the priesthood. Ignatius received minor orders at age 15. He earned a degree in theology, but did not feel worthy of the priesthood, and though his bishop encouraged him, Ignatius never took the final step of becoming ordained. Taught catechism to children at the Institute of the Good Shepherd; known to help the poorer children with money, as well.

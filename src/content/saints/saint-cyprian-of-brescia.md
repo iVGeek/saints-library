@@ -1,9 +1,9 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Cyprian of Brescia"
+name: Saint Cyprian of Brescia
 honorific: Saint
-summary: "Martyr. No other information has survived."
-region: "Italy"
+summary: Martyr. No other information has survived.
+region: Italy
 feastDay:
   month: 7
   day: 11
@@ -11,6 +11,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Martyr. No other information has survived.

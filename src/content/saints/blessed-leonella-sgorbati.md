@@ -1,17 +1,20 @@
 ---
-name: "Blessed Leonella Sgorbati"
+name: Blessed Leonella Sgorbati
 honorific: Blessed
-summary: "Youngest of three children born to Carlo Sgorbati and Giovannina Teresa Vigilini; she was baptised almost immediately after birth at her parish church of San Savio. The family moved to Milan, Italy on 9 October 1950 when Leonella was 9 so her father could find work; he died less"
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-Leonella-Sgorbati.jpg"
+summary: >-
+  Youngest of three children born to Carlo Sgorbati and Giovannina Teresa Vigilini; she was baptised almost immediately
+  after birth at her parish church of San Savio. The family moved to Milan, Italy on 9 October 1950 when Leonella was 9
+  so her father could find work; he died less
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Leonella-Sgorbati.jpg
 searchAliases:
-  - "Rosa Maria Sgorbati"
+  - Rosa Maria Sgorbati
 birthYear: 1940
 deathYear: 2006
-born: "9 December 1940 at Gazzola, Piacenza, Italy as Rosa Maria Sgorbati"
-died: "shot just after 12:30pm on 17 September 2006 outside her children's hospital in Mogadishu, Somalia"
-birthPlace: "Piacenza, Italy as Rosa Maria Sgorbati"
-deathPlace: "Somalia"
-region: "Africa"
+born: 9 December 1940 at Gazzola, Piacenza, Italy as Rosa Maria Sgorbati
+died: shot just after 12:30pm on 17 September 2006 outside her children's hospital in Mogadishu, Somalia
+birthPlace: Piacenza, Italy as Rosa Maria Sgorbati
+deathPlace: Somalia
+region: Africa
 feastDay:
   month: 9
   day: 17
@@ -20,6 +23,7 @@ vocation:
   - Priest
   - Missionary
 martyr: true
+prayers: []
 ---
 
 Youngest of three children born to Carlo Sgorbati and Giovannina Teresa Vigilini; she was baptised almost immediately after birth at her parish church of San Savio. The family moved to Milan, Italy on 9 October 1950 when Leonella was 9 so her father could find work; he died less than a year later on 16 July 1951 when Leonella was 10 years old. She felt a call to religious life and missionary work in her mid-teens, but at her mother's request she waited until age 20 to make a final decision. She joined the Consolata Mission Sisters in San Fre, Cuneo, Italy on 5 May 1963, making her profession in November 1972, and taking the name Leonella.

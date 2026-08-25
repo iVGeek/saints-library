@@ -1,31 +1,37 @@
 ---
-name: "Venerable Michel le Nobletz"
+name: Venerable Michel le Nobletz
 honorific: Venerable
-summary: "One of eleven children born to a family in the minor French nobility, the son of Hervé Le Nobletz and Françoise de Lesvern; his father was a royal notary. Michel studied at small local schools, then at the Jesuit college in Agen, France, and at the Sorbonne, then spent a year liv"
-image: "https://catholicsaints.info/wp-content/uploads/img-Venerable-Michel-le-Nobletz.jpg"
+summary: >-
+  One of eleven children born to a family in the minor French nobility, the son of Hervé Le Nobletz and Françoise de
+  Lesvern; his father was a royal notary. Michel studied at small local schools, then at the Jesuit college in Agen,
+  France, and at the Sorbonne, then spent a year liv
+image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Michel-le-Nobletz.jpg
 searchAliases:
-  - "Mikêl an Nobletz"
-  - "Mikael an Nobletz"
-  - "The Mad Priest (nickname from his outspoken preaching against the vices of powerful people)"
-  - "Apostle of Lower Brittany"
+  - Mikêl an Nobletz
+  - Mikael an Nobletz
+  - The Mad Priest (nickname from his outspoken preaching against the vices of powerful people)
+  - Apostle of Lower Brittany
 birthYear: 1577
 deathYear: 1652
-born: "29 September 1577 in Kerodern manor, Plouguerneau parish, diocese of Léon, Finistère, France"
-died: "5 May 1652 in Le Conquet, Finistère, France of complications from Parkinson's diseease"
-birthPlace: "Plouguerneau parish, dioceseLéon, Finistère, France"
-deathPlace: "Finistère, Francecomplications from Parkinson's diseease"
-region: "France"
+born: 29 September 1577 in Kerodern manor, Plouguerneau parish, diocese of Léon, Finistère, France
+died: 5 May 1652 in Le Conquet, Finistère, France of complications from Parkinson's diseease
+birthPlace: Plouguerneau parish, dioceseLéon, Finistère, France
+deathPlace: Finistère, Francecomplications from Parkinson's diseease
+region: France
 feastDay:
   month: 1
   day: 1
-centuries: [16, 17]
+centuries:
+  - 16
+  - 17
 canonizationStatus: Venerable
 vocation:
   - Priest
   - Religious
   - Hermit
-religiousOrder: "Jesuit"
+religiousOrder: Jesuit
 martyr: false
+prayers: []
 ---
 
 One of eleven children born to a family in the minor French nobility, the son of Hervé Le Nobletz and Françoise de Lesvern; his father was a royal notary. Michel studied at small local schools, then at the Jesuit college in Agen, France, and at the Sorbonne, then spent a year living as a hermit in a cell on the beach in Plouguerneau, France, discerning his vocation.

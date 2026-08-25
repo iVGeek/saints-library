@@ -1,19 +1,21 @@
 ---
-name: "Blessed Maria Adeodata Pisani"
+name: Blessed Maria Adeodata Pisani
 honorific: Blessed
-summary: "Daughter of Baron Benedict Pisani Mompalao Cuzker and Vincenza Carrano. Her father was rich, noble, Maltese, and an alcoholic, so the girl was raised by her grandmother. Her father was involved in a revolt, and exiled to Malta in 1821; Adeodata and her mother joined him in 1825."
-
-image: "https://upload.wikimedia.org/wikipedia/commons/1/18/Adeodata_Pisani.jpg"
+summary: >-
+  Daughter of Baron Benedict Pisani Mompalao Cuzker and Vincenza Carrano. Her father was rich, noble, Maltese, and an
+  alcoholic, so the girl was raised by her grandmother. Her father was involved in a revolt, and exiled to Malta in
+  1821; Adeodata and her mother joined him in 1825.
+image: https://upload.wikimedia.org/wikipedia/commons/1/18/Adeodata_Pisani.jpg
 searchAliases:
-  - "Maria Adeodata"
-  - "Teresa Pisani"
+  - Maria Adeodata
+  - Teresa Pisani
 birthYear: 1806
 deathYear: 1855
-born: "29 December 1806 at Naples, Italy"
-died: "25 February 1855 from heart problems at the Benedictine monastery at Mdina, Malta"
-birthPlace: "Italy"
-deathPlace: "Malta"
-region: "Italy"
+born: 29 December 1806 at Naples, Italy
+died: 25 February 1855 from heart problems at the Benedictine monastery at Mdina, Malta
+birthPlace: Italy
+deathPlace: Malta
+region: Italy
 feastDay:
   month: 2
   day: 25
@@ -22,10 +24,11 @@ vocation:
   - Priest
   - Religious
   - Missionary
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 patronage:
-  - "against cancer"
+  - against cancer
 martyr: false
+prayers: []
 ---
 
 Daughter of Baron Benedict Pisani Mompalao Cuzker and Vincenza Carrano. Her father was rich, noble, Maltese, and an alcoholic, so the girl was raised by her grandmother. Her father was involved in a revolt, and exiled to Malta in 1821; Adeodata and her mother joined him in 1825.

@@ -54,6 +54,7 @@ patronage:
     Regensburg, city of
   - Regensburg, diocese of
 martyr: false
+prayers: []
 ---
 
 Bishop of Ardagh, Ireland. Missionary to Bavaria, Germany working mainly around modern Regensburg. Assisted the archbishop of Trier, Germany. Bishop of Regensburg. Miracle worker. Baptized Saint Odilia of Alsace, which cured her congenital blindness. After his death a group of women formed a religious group called Erardinonnen (Nuns of Erhard) to pray perpetually at Erhard's tomb; Pope Leo IX gave them his approval, and they continued until the Reformation.

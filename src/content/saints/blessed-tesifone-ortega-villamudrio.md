@@ -1,25 +1,26 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Tesifone Ortega Villamudrio"
+name: Blessed Tesifone Ortega Villamudrio
 honorific: Blessed
-summary: "Monk. Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War."
+summary: Monk. Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War.
 searchAliases:
-  - "Néstor Eugenio"
+  - Néstor Eugenio
 birthYear: 1912
 deathYear: 1937
-born: "10 April 1912 in Arlanzón, Burgos, Spain"
-died: "2 January 1937 in Cabezón de la Sal, Santander, Spain"
-birthPlace: "Burgos, Spain"
-deathPlace: "Santander, Spain"
-region: "Spain"
+born: 10 April 1912 in Arlanzón, Burgos, Spain
+died: 2 January 1937 in Cabezón de la Sal, Santander, Spain
+birthPlace: Burgos, Spain
+deathPlace: Santander, Spain
+region: Spain
 feastDay:
   month: 1
   day: 2
 canonizationStatus: Blessed
 vocation:
   - Monk
-religiousOrder: "Marist"
+religiousOrder: Marist
 martyr: true
+prayers: []
 ---
 
 Monk. Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War.

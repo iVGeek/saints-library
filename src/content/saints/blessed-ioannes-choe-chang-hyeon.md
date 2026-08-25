@@ -1,23 +1,24 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Ioannes Choe Chang-hyeon"
+name: Blessed Ioannes Choe Chang-hyeon
 honorific: Blessed
-summary: "Layman martyr in the apostolic vicariate of Korea."
+summary: Layman martyr in the apostolic vicariate of Korea.
 searchAliases:
-  - "John"
+  - John
 birthYear: 1759
 deathYear: 1801
-born: "1759 in Seoul, South Korea"
-died: "8 April 1801 at the Small West Gate, Seoul, South Korea"
-birthPlace: "South Korea"
-deathPlace: "Seoul, South Korea"
-region: "Korea"
+born: 1759 in Seoul, South Korea
+died: 8 April 1801 at the Small West Gate, Seoul, South Korea
+birthPlace: South Korea
+deathPlace: Seoul, South Korea
+region: Korea
 feastDay:
   month: 4
   day: 8
 canonizationStatus: Blessed
 vocation: []
 martyr: true
+prayers: []
 ---
 
 Layman martyr in the apostolic vicariate of Korea.

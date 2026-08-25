@@ -1,13 +1,15 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Dulcardus"
+name: Saint Dulcardus
 honorific: Saint
-summary: "Monk at Saint-Mesmin Abbey in Orleans, France. Hermit near Bourges, France where the village of Saint-Doulchard was named for him."
+summary: >-
+  Monk at Saint-Mesmin Abbey in Orleans, France. Hermit near Bourges, France where the village of Saint-Doulchard was
+  named for him.
 searchAliases:
-  - "Doulchard"
+  - Doulchard
 deathYear: 584
-died: "584"
-region: "France"
+died: '584'
+region: France
 feastDay:
   month: 10
   day: 25
@@ -16,6 +18,7 @@ vocation:
   - Monk
   - Hermit
 martyr: false
+prayers: []
 ---
 
 Monk at Saint-Mesmin Abbey in Orleans, France. Hermit near Bourges, France where the village of Saint-Doulchard was named for him.

@@ -1,20 +1,23 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Rumwold of Buckingham"
+name: Saint Rumwold of Buckingham
 honorific: Saint
-summary: "Son of the Christian queen Saint Cyneburga (Cuneburga), and the pagan King Alchfrid (Aldfrith) of Northumbria. Grandson of Penda, king of Mercia. He lived only three days during which time he repeated several times “I am a Christian”, and asked for Baptism (which he received from"
+summary: >-
+  Son of the Christian queen Saint Cyneburga (Cuneburga), and the pagan King Alchfrid (Aldfrith) of Northumbria.
+  Grandson of Penda, king of Mercia. He lived only three days during which time he repeated several times “I am a
+  Christian”, and asked for Baptism (which he received from
 searchAliases:
-  - "Rumwold of Brackley"
-  - "Rumbald…"
-  - "Rumbold…"
-  - "Rumwald…"
+  - Rumwold of Brackley
+  - Rumbald…
+  - Rumbold…
+  - Rumwald…
 birthYear: 662
 deathYear: 662
-born: "662 at King Sutton, Northants, England"
-died: "662 at King Sutton, Northants, England"
-birthPlace: "Northants, England"
-deathPlace: "Northants, England"
-region: "England"
+born: 662 at King Sutton, Northants, England
+died: 662 at King Sutton, Northants, England
+birthPlace: Northants, England
+deathPlace: Northants, England
+region: England
 feastDay:
   month: 11
   day: 3
@@ -25,11 +28,12 @@ vocation:
   - Monk
   - Confessor
 patronage:
-  - "fishermen of Folkestone, England"
-  - "—"
-  - "Brackley, England"
-  - "Buckingham, England"
+  - fishermen of Folkestone, England
+  - —
+  - Brackley, England
+  - Buckingham, England
 martyr: false
+prayers: []
 ---
 
 Son of the Christian queen Saint Cyneburga (Cuneburga), and the pagan King Alchfrid (Aldfrith) of Northumbria. Grandson of Penda, king of Mercia. He lived only three days during which time he repeated several times “I am a Christian”, and asked for Baptism (which he received from bishop Wilderin) and Holy Communion. Immediately after Baptism, he made a confession of faith the Holy Trinity, preached a sermon on the Trinity, reciting Scripture and the Athanasian Creed as part of his proofs. He completed this performance by predicting his death, and outlining his desired burial arrangements.

@@ -1,13 +1,15 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Clarus of Vallis Regia"
+name: Saint Clarus of Vallis Regia
 honorific: Saint
-summary: "May have been a bishop, may have been an abbot, may have been both; surviving records are very unclear. Venerated at Vallis Regia, Genoa, Italy."
+summary: >-
+  May have been a bishop, may have been an abbot, may have been both; surviving records are very unclear. Venerated at
+  Vallis Regia, Genoa, Italy.
 searchAliases:
-  - "Chiaro"
+  - Chiaro
 deathYear: 1043
-died: "1043 of natural causes"
-region: "Italy"
+died: 1043 of natural causes
+region: Italy
 feastDay:
   month: 1
   day: 1
@@ -16,6 +18,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 May have been a bishop, may have been an abbot, may have been both; surviving records are very unclear. Venerated at Vallis Regia, Genoa, Italy.

@@ -26,6 +26,7 @@ symbols:
   - Blessed Virgin Mary holding the Child Jesus, representing his advocacy of the doctrine of Mary as Mother of God
 martyr: false
 lifeEvents: []
+prayers: []
 ---
 
 Nephew of Theophilus the Patriarch. Monk. Priest. Bishop and patriarch of Alexandria, Egypt on 18 October 412. Suppressed the Novatians. Worked at the Council of Ephesus. Fought against Nestorius who taught the heresy that there were two persons in Christ. Catechetical writer. Wrote a book opposing Julian the Apostate. Greek Father of the Church. Doctor of the Church.

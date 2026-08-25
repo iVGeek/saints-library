@@ -1,17 +1,20 @@
 ---
-name: "Saint Leodegarius of Autun"
+name: Saint Leodegarius of Autun
 honorific: Saint
-summary: "Son of the nobles Bobilo and Saint Sigrada. Brother of Saint Gerinus. Raised in the court of King Clotaire II. Studied in Poitiers, France under the guidance of his uncle, the bishop of Poitiers. Deacon in Poitiers, working in diocesan administration. Priest. Monk at Maxentius Ab"
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Leodegarius-of-Autun-1.jpg"
+summary: >-
+  Son of the nobles Bobilo and Saint Sigrada. Brother of Saint Gerinus. Raised in the court of King Clotaire II. Studied
+  in Poitiers, France under the guidance of his uncle, the bishop of Poitiers. Deacon in Poitiers, working in diocesan
+  administration. Priest. Monk at Maxentius Ab
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Leodegarius-of-Autun-1.jpg
 searchAliases:
-  - "Leodegar"
-  - "Leger"
+  - Leodegar
+  - Leger
 birthYear: 616
 deathYear: 678
-born: "c.616"
-died: "murdered in 678 in the woods near Sarcing, Somme, France"
-deathPlace: "Somme, France"
-region: "France"
+born: c.616
+died: murdered in 678 in the woods near Sarcing, Somme, France
+deathPlace: Somme, France
+region: France
 feastDay:
   month: 10
   day: 2
@@ -20,21 +23,22 @@ vocation:
   - Bishop
   - Priest
   - Deacon
-religiousOrder: "Benedictine"
+religiousOrder: Benedictine
 patronage:
-  - "against blindness"
-  - "against eye problems"
-  - "against sore eyes"
-  - "blind people"
-  - "millers"
-  - "—"
-  - "Saint-Léger-en-Gaume, Belgium"
-  - "Autun, France"
-  - "Guebwiller, France"
-  - "Murbach, France"
-  - "Wessobrunn, Germany"
-  - "Lucerne, Switzerland"
+  - against blindness
+  - against eye problems
+  - against sore eyes
+  - blind people
+  - millers
+  - —
+  - Saint-Léger-en-Gaume, Belgium
+  - Autun, France
+  - Guebwiller, France
+  - Murbach, France
+  - Wessobrunn, Germany
+  - Lucerne, Switzerland
 martyr: true
+prayers: []
 ---
 
 Son of the nobles Bobilo and Saint Sigrada. Brother of Saint Gerinus. Raised in the court of King Clotaire II. Studied in Poitiers, France under the guidance of his uncle, the bishop of Poitiers. Deacon in Poitiers, working in diocesan administration. Priest. Monk at Maxentius Abbey in 650. Abbot in 651, a position he held for six years during which he placed the abbey under the Benedictine Rule. Advisor to Queen Saint Bathild, and tutor to her children, in 656. Reforming bishop of Autun in 663. Fought Manichaeism, reformed the secular clergy, enforced discipline in religious houses, adopted the Creed of Saint Athanasius, and stressed the administration of the sacraments, especially baptism.

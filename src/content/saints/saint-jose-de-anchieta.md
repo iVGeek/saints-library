@@ -1,32 +1,37 @@
 ---
-name: "Saint José de Anchieta"
+name: Saint José de Anchieta
 honorific: Venerable
-summary: "Son of a wealthy and prominent family, and possibly related to Saint Ignatius of Loyola. Educated in Portugal. Joined the Jesuits in 1551 at age 17. Missionary to Brazil, arriving on 13 July 1553. He is the National Apostle of Brazil, and was co-founder of the cities of Sao Paulo"
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-José-de-Anchieta-1.jpg"
+summary: >-
+  Son of a wealthy and prominent family, and possibly related to Saint Ignatius of Loyola. Educated in Portugal. Joined
+  the Jesuits in 1551 at age 17. Missionary to Brazil, arriving on 13 July 1553. He is the National Apostle of Brazil,
+  and was co-founder of the cities of Sao Paulo
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-José-de-Anchieta-1.jpg
 searchAliases:
-  - "Apostle of Brazil"
-  - "Giuseppe de Anchieta"
-  - "Jose Anchieta"
-  - "Joseph Anchieta"
+  - Apostle of Brazil
+  - Giuseppe de Anchieta
+  - Jose Anchieta
+  - Joseph Anchieta
 birthYear: 1534
 deathYear: 1597
-born: "19 March 1534 at San Cristobal de la Laguna, Tenerife, Canary Islands, Spain"
-died: "9 June 1597 at Reritigba (Anchieta), Brazil of natural causes"
-birthPlace: "Tenerife, Canary Islands, Spain"
-deathPlace: "Brazilnatural causes"
-region: "Brazil"
+born: 19 March 1534 at San Cristobal de la Laguna, Tenerife, Canary Islands, Spain
+died: 9 June 1597 at Reritigba (Anchieta), Brazil of natural causes
+birthPlace: Tenerife, Canary Islands, Spain
+deathPlace: Brazilnatural causes
+region: Brazil
 feastDay:
   month: 6
   day: 9
-centuries: [16]
+centuries:
+  - 16
 canonizationStatus: Venerable
 vocation:
   - Virgin
   - Priest
   - Monk
   - Missionary
-religiousOrder: "Jesuit"
+religiousOrder: Jesuit
 martyr: false
+prayers: []
 ---
 
 Son of a wealthy and prominent family, and possibly related to Saint Ignatius of Loyola. Educated in Portugal. Joined the Jesuits in 1551 at age 17. Missionary to Brazil, arriving on 13 July 1553. He is the National Apostle of Brazil, and was co-founder of the cities of Sao Paulo and Rio de Janeiro.

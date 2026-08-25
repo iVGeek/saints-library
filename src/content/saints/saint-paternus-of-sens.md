@@ -14,6 +14,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: true
+prayers: []
 ---
 
 Monk at Cessier, France. Monk at Saint-Pierre-le-Vif near Sens, France. Martyr.

@@ -1,14 +1,17 @@
 ---
-name: "Blessed John de Montmirail"
+name: Blessed John de Montmirail
 honorific: Blessed
-summary: "French nobility, born to Andrew, Lord of Montmirail and Ferté-Gaucher, and Hildiarde d'Oisy. Trained in religion by his mother, and secular science by his schools. Soldier. Friend of Philip Augustus, later King of France. Married to Helvide de Dampierre, and father of several chi"
-image: "http://catholicsaints.info/wp-content/uploads/img-Blessed-John-de-Montmirail.jpg"
+summary: >-
+  French nobility, born to Andrew, Lord of Montmirail and Ferté-Gaucher, and Hildiarde d'Oisy. Trained in religion by
+  his mother, and secular science by his schools. Soldier. Friend of Philip Augustus, later King of France. Married to
+  Helvide de Dampierre, and father of several chi
+image: http://catholicsaints.info/wp-content/uploads/img-Blessed-John-de-Montmirail.jpg
 searchAliases:
-  - "Seigneur de Montmirail on the Marne"
-  - "John de Monte Mirabili"
+  - Seigneur de Montmirail on the Marne
+  - John de Monte Mirabili
 deathYear: 1217
-died: "29 September 1217 at Longpoint abbey of natural causes"
-region: "France"
+died: 29 September 1217 at Longpoint abbey of natural causes
+region: France
 feastDay:
   month: 9
   day: 29
@@ -18,6 +21,7 @@ vocation:
   - Monk
   - Soldier
 martyr: false
+prayers: []
 ---
 
 French nobility, born to Andrew, Lord of Montmirail and Ferté-Gaucher, and Hildiarde d'Oisy. Trained in religion by his mother, and secular science by his schools. Soldier. Friend of Philip Augustus, later King of France. Married to Helvide de Dampierre, and father of several children. Spent time in the French court, leading a dissolute life.

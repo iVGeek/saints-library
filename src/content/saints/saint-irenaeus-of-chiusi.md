@@ -1,14 +1,16 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Irenaeus of Chiusi"
+name: Saint Irenaeus of Chiusi
 honorific: Saint
-summary: "Deacon. Tortured and martyred with Saint Mustiola for ministering to Christian prisoners, and giving proper burial to martyrs."
+summary: >-
+  Deacon. Tortured and martyred with Saint Mustiola for ministering to Christian prisoners, and giving proper burial to
+  martyrs.
 searchAliases:
-  - "Ireneo"
+  - Ireneo
 deathYear: 273
-died: "273 at Chiusi, Tuscany, Italy"
-deathPlace: "Tuscany, Italy"
-region: "Italy"
+died: 273 at Chiusi, Tuscany, Italy
+deathPlace: Tuscany, Italy
+region: Italy
 feastDay:
   month: 7
   day: 3
@@ -17,8 +19,9 @@ vocation:
   - Monk
   - Deacon
 patronage:
-  - "Chiusi, Italy"
+  - Chiusi, Italy
 martyr: true
+prayers: []
 ---
 
 Deacon. Tortured and martyred with Saint Mustiola for ministering to Christian prisoners, and giving proper burial to martyrs.

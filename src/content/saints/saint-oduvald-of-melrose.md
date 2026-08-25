@@ -1,12 +1,14 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Oduvald of Melrose"
+name: Saint Oduvald of Melrose
 honorific: Saint
-summary: "Born to the Scottish nobility. Governor of the province of Laudon. He gave up his wealth and status to become a monk and then abbot at Melrose Abbey."
+summary: >-
+  Born to the Scottish nobility. Governor of the province of Laudon. He gave up his wealth and status to become a monk
+  and then abbot at Melrose Abbey.
 deathYear: 698
-born: "Scottish"
-died: "698 of natural causes"
-region: "England"
+born: Scottish
+died: 698 of natural causes
+region: England
 feastDay:
   month: 5
   day: 26
@@ -16,6 +18,7 @@ vocation:
   - Monk
   - Confessor
 martyr: false
+prayers: []
 ---
 
 Born to the Scottish nobility. Governor of the province of Laudon. He gave up his wealth and status to become a monk and then abbot at Melrose Abbey.

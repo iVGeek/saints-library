@@ -1,11 +1,13 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Longinus of Africa"
+name: Saint Longinus of Africa
 honorific: Saint
-summary: "Bishop of Tlemcen, Mauritania who stayed loyal to orthodox Christianity and opposed Arianism. Tortured and martyred by order of the Arian Vandal king Hunneric."
+summary: >-
+  Bishop of Tlemcen, Mauritania who stayed loyal to orthodox Christianity and opposed Arianism. Tortured and martyred by
+  order of the Arian Vandal king Hunneric.
 deathYear: 485
-died: "beheaded c.485"
-region: "England"
+died: beheaded c.485
+region: England
 feastDay:
   month: 5
   day: 2
@@ -14,6 +16,7 @@ vocation:
   - Bishop
   - Monk
 martyr: true
+prayers: []
 ---
 
 Bishop of Tlemcen, Mauritania who stayed loyal to orthodox Christianity and opposed Arianism. Tortured and martyred by order of the Arian Vandal king Hunneric.

@@ -1,17 +1,19 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Ursus of Toul"
+name: Saint Ursus of Toul
 honorific: Saint
-summary: "Bishop of Toul, Gallia Belgica (in modern France) c.490. Assigned Saint Vaast of Arras to bring Clovis I, king of the Salian Franks, to Christianity."
+summary: >-
+  Bishop of Toul, Gallia Belgica (in modern France) c.490. Assigned Saint Vaast of Arras to bring Clovis I, king of the
+  Salian Franks, to Christianity.
 searchAliases:
-  - "Orso"
-  - "Ours"
-  - "Ursinus"
+  - Orso
+  - Ours
+  - Ursinus
 deathYear: 500
-born: "Frankish"
-died: "c.500 in Toul, France"
-deathPlace: "France"
-region: "France"
+born: Frankish
+died: c.500 in Toul, France
+deathPlace: France
+region: France
 feastDay:
   month: 3
   day: 1
@@ -19,6 +21,7 @@ canonizationStatus: Saint
 vocation:
   - Bishop
 martyr: false
+prayers: []
 ---
 
 Bishop of Toul, Gallia Belgica (in modern France) c.490. Assigned Saint Vaast of Arras to bring Clovis I, king of the Salian Franks, to Christianity.

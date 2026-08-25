@@ -21,6 +21,7 @@ vocation:
   - Monk
   - Hermit
 martyr: false
+prayers: []
 ---
 
 Farmer. Upon the discovery of his wife's adultery, Paul became a desert hermit. Spiritual student of Saint Anthony the Abbot. Given the title The Simple for his simple and humble acceptance of the teachings. Received visions, and known as a miracle worker.

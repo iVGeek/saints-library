@@ -1,18 +1,21 @@
 ---
-name: "Saint Wendelin"
+name: Saint Wendelin
 honorific: Saint
-summary: "Prince of Scotland, the son of King Forchado and Queen Irelina. Educated by the local bishop, Wendelin decided to abandon life in the royal family, and devote himself to God. Dressed as a pilgrim, Wendelin left his castle home in the middle of the night, and left the worldly life"
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Wendelin1.jpg"
+summary: >-
+  Prince of Scotland, the son of King Forchado and Queen Irelina. Educated by the local bishop, Wendelin decided to
+  abandon life in the royal family, and devote himself to God. Dressed as a pilgrim, Wendelin left his castle home in
+  the middle of the night, and left the worldly life
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Wendelin1.jpg
 searchAliases:
-  - "Wendel"
-  - "Wendolinus"
-  - "Wendelinus"
+  - Wendel
+  - Wendolinus
+  - Wendelinus
 birthYear: 554
 deathYear: 617
-born: "554 in Scotland"
-died: "617 at Tholey, Germany of natural causes"
-deathPlace: "Germanynatural causes"
-region: "Scotland"
+born: 554 in Scotland
+died: 617 at Tholey, Germany of natural causes
+deathPlace: Germanynatural causes
+region: Scotland
 feastDay:
   month: 10
   day: 21
@@ -22,12 +25,13 @@ vocation:
   - Priest
   - Confessor
 patronage:
-  - "cattle"
-  - "livestock"
-  - "shepherds"
-  - "–"
-  - "Trier, Germany"
+  - cattle
+  - livestock
+  - shepherds
+  - –
+  - Trier, Germany
 martyr: false
+prayers: []
 ---
 
 Prince of Scotland, the son of King Forchado and Queen Irelina. Educated by the local bishop, Wendelin decided to abandon life in the royal family, and devote himself to God. Dressed as a pilgrim, Wendelin left his castle home in the middle of the night, and left the worldly life behind.

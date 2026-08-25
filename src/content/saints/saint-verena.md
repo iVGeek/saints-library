@@ -1,15 +1,18 @@
 ---
-name: "Saint Verena of Zürich"
+name: Saint Verena of Zürich
 honorific: Saint
-summary: "Born to a wealthy Theban family, and baptized by Bishop Charemon. She was related to one of the soldiers of the Theban Legion; legend says she was the cousin of Mauritius and was engaged to a soldier named Victor. She travelled with the Legion to Milan, Italy where she stayed to"
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Verena-of-Zurich.jpg"
+summary: >-
+  Born to a wealthy Theban family, and baptized by Bishop Charemon. She was related to one of the soldiers of the Theban
+  Legion; legend says she was the cousin of Mauritius and was engaged to a soldier named Victor. She travelled with the
+  Legion to Milan, Italy where she stayed to
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Verena-of-Zurich.jpg
 searchAliases:
-  - "Verena of Zurzach"
-  - "Verena of Thebes"
-born: "mid-3rd century Thebes, Egypt"
-died: "3rd century"
-birthPlace: "Egypt"
-region: "Italy"
+  - Verena of Zurzach
+  - Verena of Thebes
+born: mid-3rd century Thebes, Egypt
+died: 3rd century
+birthPlace: Egypt
+region: Italy
 feastDay:
   month: 9
   day: 1
@@ -17,20 +20,24 @@ canonizationStatus: Saint
 vocation:
   - Bishop
 patronage:
-  - "against eye ailments"
-  - "children"
-  - "fishermen"
-  - "for male offspring"
-  - "housewives, especially those serving in a parsonage"
-  - "mariners, sailors"
-  - "millers"
-  - "nurses"
-  - "poor people"
-  - "ship captains"
-  - "–"
-  - "in Switzerland\n\nBasel, diocese of"
-  - "Zurich"
+  - against eye ailments
+  - children
+  - fishermen
+  - for male offspring
+  - housewives, especially those serving in a parsonage
+  - mariners, sailors
+  - millers
+  - nurses
+  - poor people
+  - ship captains
+  - –
+  - |-
+    in Switzerland
+
+    Basel, diocese of
+  - Zurich
 martyr: true
+prayers: []
 ---
 
 Born to a wealthy Theban family, and baptized by Bishop Charemon. She was related to one of the soldiers of the Theban Legion; legend says she was the cousin of Mauritius and was engaged to a soldier named Victor. She travelled with the Legion to Milan, Italy where she stayed to nurse the sick while the soldiers crossed the Alps. When the Legion did not return, she travelled to Switzerland to search for them. After learning of their martyrdoms, she became a cave hermit near the city of Solothurn. 

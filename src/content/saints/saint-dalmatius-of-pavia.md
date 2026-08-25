@@ -30,6 +30,7 @@ patronage:
   - Cogliate
   - Cuneo-Fossano, diocese of
 martyr: true
+prayers: []
 ---
 
 Raised a pagan. Adult convert to Christianity. Preached in Gaul and northern Italy. Bishop of Pavia, Italy for the last year of his life. Martyred in the persecutions of Maximian Herculeus.

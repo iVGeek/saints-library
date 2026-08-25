@@ -21,6 +21,7 @@ vocation:
 patronage:
   - Rouen, France
 martyr: false
+prayers: []
 ---
 
 Courtier to King Clothaire II. Bishop of Rouen, France c.629. He worked to convert the remaining pagans in his diocese, and personally tore down a temple to Venus. He ministered to prisoners, especially those on death row, and was known as a miracle worker.

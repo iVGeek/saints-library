@@ -38,6 +38,7 @@ patronage:
     Bologna, city of
   - Bologna Academy of Art
 martyr: false
+prayers: []
 ---
 
 Born to the nobility of Bologna, Italy, the daughter of a diplomat. Tradition says her father received a vision telling him of her birth. Maid of honour to the daughter of a marquis, receiving the same training and education as her mistress. Franciscan tertiary at age 14. Poor Clare nun. Novice mistress. Established a Poor Clare convent at Bologna, Italy in 1456, and served as its abbess. Miracle worker. Prophetess. Mystic. Visionary. Painter and manuscript illuminator. Received a Christmas Day vision of Jesus cradled in Mary's arms.

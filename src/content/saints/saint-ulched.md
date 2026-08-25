@@ -1,12 +1,12 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Ulched"
+name: Saint Ulched
 honorific: Saint
-summary: "Holy man for whom Llechulched, Anglesey, Wales was named. I have no further information."
+summary: Holy man for whom Llechulched, Anglesey, Wales was named. I have no further information.
 searchAliases:
-  - "Ulchad"
-  - "Ylched"
-region: "England"
+  - Ulchad
+  - Ylched
+region: England
 feastDay:
   month: 4
   day: 6
@@ -14,6 +14,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: false
+prayers: []
 ---
 
 Holy man for whom Llechulched, Anglesey, Wales was named. I have no further information.

@@ -1,11 +1,11 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Zoticus of Comana"
+name: Saint Zoticus of Comana
 honorific: Saint
-summary: "Bishop of Comana, Italy. Fought against the Montanist heresy. Martyred in the persecutions of Septimius Severus."
+summary: Bishop of Comana, Italy. Fought against the Montanist heresy. Martyred in the persecutions of Septimius Severus.
 deathYear: 204
-died: "204"
-region: "Italy"
+died: '204'
+region: Italy
 feastDay:
   month: 7
   day: 21
@@ -15,6 +15,7 @@ vocation:
   - Priest
   - Monk
 martyr: true
+prayers: []
 ---
 
 Bishop of Comana, Italy. Fought against the Montanist heresy. Martyred in the persecutions of Septimius Severus.

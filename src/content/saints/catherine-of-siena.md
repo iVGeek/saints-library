@@ -81,16 +81,124 @@ prayers:
       wearying it. Fill us with Your grace, that we may know ourselves as You know us, love ourselves as You love us,
       and serve You with our whole being. Amen.
   - name: Novena to Saint Catherine of Siena
-    kind: Novena — nine-day prayer for courage and service
+    kind: >-
+      Novena — begins April 20, nine days before the feast of Saint Catherine of Siena (April 29). Source:
+      https://www.catholicculture.org/culture/liturgicalyear/prayers/view.cfm?id=1039
     text: >-
-      O Saint Catherine of Siena, virgin, mystic, and Doctor of the Church, I come before you in this novena filled with
-      admiration for your holy boldness. You who set all Italy ablaze with the fire of divine love, inflame my heart
-      with the same holy zeal. Obtain for me the courage to speak the truth with charity, to defend the faith with
-      wisdom, and to serve God without reservation. You who counseled popes and brought the papacy back to Rome,
-      intercede for the leaders of the Church and for all in authority. Grant me the grace to embrace the cross with
-      joy, to serve the sick and the poor with tenderness, and to unite my sufferings with those of Christ for the
-      salvation of souls. O Catherine, who saw the world as a garden watered by the blood of Christ, obtain for me the
-      fire of your love and the strength of your faith. Amen.
+      O God, who gave St. Catherine of Siena a deep love for the Holy Name of Jesus and a burning desire for the unity
+      of the Church, grant that, by her intercession, we may serve You with pure love and work effectively for the
+      salvation of souls.
+
+
+      (State your intention)
+
+
+      Our Father, Hail Mary, Glory Be. St. Catherine of Siena, pray for us.
+
+
+      ---
+
+
+      O blessed Catherine, who from your youth devoted yourself to prayer and penance, obtain for me the grace of true
+      contrition for my sins and a firm resolution to amend my life.
+
+
+      (State your intention)
+
+
+      Our Father, Hail Mary, Glory Be. St. Catherine of Siena, pray for us.
+
+
+      ---
+
+
+      O blessed Catherine, who loved the Blessed Sacrament with ardent devotion, help me to receive Holy Communion with
+      great reverence and love, and to remain united to our Lord in the Blessed Sacrament.
+
+
+      (State your intention)
+
+
+      Our Father, Hail Mary, Glory Be. St. Catherine of Siena, pray for us.
+
+
+      ---
+
+
+      O blessed Catherine, who faithfully obeyed the Holy Father and worked for the unity of the Church, pray for the
+      Pope and all the leaders of the Church. May they be faithful to their sacred duties.
+
+
+      (State your intention)
+
+
+      Our Father, Hail Mary, Glory Be. St. Catherine of Siena, pray for us.
+
+
+      ---
+
+
+      O blessed Catherine, who endured great suffering with patience and offered it for the conversion of sinners, teach
+      me to unite my sufferings to those of Christ for the salvation of souls.
+
+
+      (State your intention)
+
+
+      Our Father, Hail Mary, Glory Be. St. Catherine of Siena, pray for us.
+
+
+      ---
+
+
+      O blessed Catherine, who received the sacred stigmata invisibly, obtain for me the grace to bear the marks of
+      Christ's suffering in my own life with courage and faith.
+
+
+      (State your intention)
+
+
+      Our Father, Hail Mary, Glory Be. St. Catherine of Siena, pray for us.
+
+
+      ---
+
+
+      O blessed Catherine, who wrote so beautifully about divine love in the Dialogue, help me to grow in my love for
+      God and to seek His will in all things.
+
+
+      (State your intention)
+
+
+      Our Father, Hail Mary, Glory Be. St. Catherine of Siena, pray for us.
+
+
+      ---
+
+
+      O blessed Catherine, who converted many sinners through your prayers and sacrifices, intercede for the conversion
+      of all sinners and for those who have lost the faith.
+
+
+      (State your intention)
+
+
+      Our Father, Hail Mary, Glory Be. St. Catherine of Siena, pray for us.
+
+
+      ---
+
+
+      O blessed Catherine, who died in Rome on April 29, 1380, at the age of 33, obtain for me the grace of a holy death
+      and the joy of seeing God face to face in heaven.
+
+
+      (State your intention)
+
+
+      Our Father, Hail Mary, Glory Be. St. Catherine of Siena, pray for us.
+    source: https://www.catholicculture.org/culture/liturgicalyear/prayers/view.cfm?id=1039
 relatedSaints:
   - name: Francis of Assisi
     slug: francis-of-assisi

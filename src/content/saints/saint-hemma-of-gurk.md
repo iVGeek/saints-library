@@ -29,6 +29,7 @@ patronage:
   - Carinthia, Austria
   - Gurk, Austria, diocese of
 martyr: false
+prayers: []
 ---
 
 Born to the nobility, and a relative of emperor Saint Henry II; Countess of Zeltschach. Educated at the court of Henry II where she was a lady-in-waiting to Saint Cunegundes.

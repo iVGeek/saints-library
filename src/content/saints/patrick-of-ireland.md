@@ -87,8 +87,10 @@ prayers:
       I bind to myself today the power of the heavens, the light of the sun, the brightness of the moon, the splendor of
       fire, the flashing of lightning, the swiftness of wind, the depth of the sea, the stability of the earth, and the
       firmness of rock. I arise through the strength of heaven. Amen.
-  - name: Novena to Saint Patrick
-    kind: Novena — nine-day prayer for mission and faith
+  - name: Novena to Saint Patrick of Ireland
+    kind: >-
+      Novena — begins March 8, nine days before the feast of Saint Patrick of Ireland (March 17). Source:
+      https://www.catholicculture.org/culture/liturgicalyear/prayers/view.cfm?id=1039
     text: >-
       O glorious Saint Patrick, apostle of Ireland and faithful bishop, I turn to you in this novena with a heart
       longing for God. You who were once a slave and became a spiritual father to a nation, obtain for me the grace to
@@ -98,6 +100,7 @@ prayers:
       evil that bind me and those I love. Watch over all who labor for the faith in dangerous places, and protect me
       from every spiritual harm. O Saint Patrick, who arose through the strength of heaven, intercede for me that I may
       arise each day in faith, hope, and love. Amen.
+    source: https://www.catholicculture.org/culture/liturgicalyear/prayers/view.cfm?id=1039
 relatedSaints:
   - name: Michael the Archangel
     slug: michael-the-archangel

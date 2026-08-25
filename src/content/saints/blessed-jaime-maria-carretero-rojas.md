@@ -1,22 +1,23 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Jaime María Carretero Rojas"
+name: Blessed Jaime María Carretero Rojas
 honorific: Blessed
-summary: "Professed cleric in the Carmelites of the Ancient Observance. Martyred in the Spanish Civil War."
+summary: Professed cleric in the Carmelites of the Ancient Observance. Martyred in the Spanish Civil War.
 birthYear: 1911
 deathYear: 1936
-born: "27 April 1911 in Villaviciosa, Córdoba, Spain"
-died: "22 July 1936 in Montoro, Córdoba, Spain"
-birthPlace: "Córdoba, Spain"
-deathPlace: "Córdoba, Spain"
-region: "Spain"
+born: 27 April 1911 in Villaviciosa, Córdoba, Spain
+died: 22 July 1936 in Montoro, Córdoba, Spain
+birthPlace: Córdoba, Spain
+deathPlace: Córdoba, Spain
+region: Spain
 feastDay:
   month: 7
   day: 22
 canonizationStatus: Blessed
 vocation: []
-religiousOrder: "Carmelite"
+religiousOrder: Carmelite
 martyr: true
+prayers: []
 ---
 
 Professed cleric in the Carmelites of the Ancient Observance. Martyred in the Spanish Civil War.

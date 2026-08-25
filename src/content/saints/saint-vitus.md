@@ -57,6 +57,7 @@ patronage:
     Rijeka, city of
   - Rijeka, diocese of
 martyr: false
+prayers: []
 ---
 
 Legend says that Vitus was the son of a pagan Sicilian senator named Hylas. The boy was converted to Christianity at age twelve by his tutor, Saint Modestus, and his nurse Saint Crescentia. His father showed his objection to the conversion by having all three arrested and scourged.

@@ -1,28 +1,31 @@
 ---
-name: "Saint José María Robles Hurtado"
+name: Saint José María Robles Hurtado
 honorific: Venerable
-summary: " Consecrated to the Sacred Eucharistic Heart of Jesus, and in 1918 founded the Congregat Born to a fervently Catholic family, the son of Antonio Robles and Petronila Hurtado. Entered the seminary of Guadalajara, Mexico at age 12. Ordained on 22 March 1913 at age 25 at Guadalajara."
-image: "https://upload.wikimedia.org/wikipedia/commons/9/9a/San_jose_maria_robles_hurtado.jpg"
+summary: ' Consecrated to the Sacred Eucharistic Heart of Jesus, and in 1918 founded the Congregat Born to a fervently Catholic family, the son of Antonio Robles and Petronila Hurtado. Entered the seminary of Guadalajara, Mexico at age 12. Ordained on 22 March 1913 at age 25 at Guadalajara.'
+image: https://upload.wikimedia.org/wikipedia/commons/9/9a/San_jose_maria_robles_hurtado.jpg
 searchAliases:
-  - "Jose Maria Robles"
-  - "Josef Maria Robles"
+  - Jose Maria Robles
+  - Josef Maria Robles
 birthYear: 1888
 deathYear: 1927
-born: "3 May 1888 at Mascota, Jalisco, Mexico"
-died: "hanged on 26 June 1927 at Quila, Jalisco, Mexico"
-birthPlace: "Jalisco, Mexico"
-deathPlace: "Jalisco, Mexico"
-region: "Mexico"
+born: 3 May 1888 at Mascota, Jalisco, Mexico
+died: hanged on 26 June 1927 at Quila, Jalisco, Mexico
+birthPlace: Jalisco, Mexico
+deathPlace: Jalisco, Mexico
+region: Mexico
 feastDay:
   month: 6
   day: 26
-centuries: [19, 20]
+centuries:
+  - 19
+  - 20
 canonizationStatus: Venerable
 vocation:
   - Priest
   - Religious
   - Soldier
 martyr: true
+prayers: []
 ---
 
 Born to a fervently Catholic family, the son of Antonio Robles and Petronila Hurtado. Entered the seminary of Guadalajara, Mexico at age 12. Ordained on 22 March 1913 at age 25 at Guadalajara.

@@ -29,6 +29,7 @@ imageCredit: >-
   href="https://archive.org/download/historicmartyrso00masorich/historicmartyrso00masorich.pdf">https://archive.org/download/historicmartyrso00masorich/historicmartyrso00masorich.pdf</a></dd></dl>
 imageCreditUrl: >-
   https://commons.wikimedia.org/wiki/File:The%20historic%20martyrs%20of%20the%20primitive%20church%20(IA%20historicmartyrso00masorich).pdf
+prayers: []
 ---
 
 A group of 4th-century parishioners in Alexandria, Egypt. During the celebration of Mass one day an Arian officer named Syrianus led a troop of soldiers into their church and proceded to murder all the orthodox Christians in the place.

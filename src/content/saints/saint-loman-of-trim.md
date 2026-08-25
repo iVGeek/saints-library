@@ -1,19 +1,21 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Loman of Trim"
+name: Saint Loman of Trim
 honorific: Saint
-summary: "Son of Tigris. Nephew of Saint Patrick. He evangelized Ireland with Patrick, and converted Saint Fortchern of Trim and his family, including the pagan chieftain Fedelmid, to the faith. Bishop of Trim, Meath, Ireland."
+summary: >-
+  Son of Tigris. Nephew of Saint Patrick. He evangelized Ireland with Patrick, and converted Saint Fortchern of Trim and
+  his family, including the pagan chieftain Fedelmid, to the faith. Bishop of Trim, Meath, Ireland.
 searchAliases:
-  - "Loman mac Dalláin"
-  - "Lomán…"
-  - "Lomanus…"
-  - "Lommán…"
-  - "Lonan…"
-  - "Luman…"
-  - "Lumanus…"
+  - Loman mac Dalláin
+  - Lomán…
+  - Lomanus…
+  - Lommán…
+  - Lonan…
+  - Luman…
+  - Lumanus…
 deathYear: 450
-died: "c.450 of natural causes"
-region: "Ireland"
+died: c.450 of natural causes
+region: Ireland
 feastDay:
   month: 2
   day: 17
@@ -24,8 +26,9 @@ vocation:
   - Monk
   - Confessor
 patronage:
-  - "Trim, Ireland"
+  - Trim, Ireland
 martyr: false
+prayers: []
 ---
 
 Son of Tigris. Nephew of Saint Patrick. He evangelized Ireland with Patrick, and converted Saint Fortchern of Trim and his family, including the pagan chieftain Fedelmid, to the faith. Bishop of Trim, Meath, Ireland.

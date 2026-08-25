@@ -1,17 +1,20 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Dominica of Constantinople"
+name: Saint Dominica of Constantinople
 honorific: Saint
-summary: "Raised in a pious family, when she was grown Dominica slipped away from her home and took ship to Alexandria, Egypt. There she lived with four pagan women, whom she converted to Christianity, and then lived the rest of her days as a prayerful, ascetic recluse. Reported to have th"
+summary: >-
+  Raised in a pious family, when she was grown Dominica slipped away from her home and took ship to Alexandria, Egypt.
+  There she lived with four pagan women, whom she converted to Christianity, and then lived the rest of her days as a
+  prayerful, ascetic recluse. Reported to have th
 searchAliases:
-  - "Dominica of Carthage"
-  - "Dominique…"
+  - Dominica of Carthage
+  - Dominique…
 birthYear: 395
 deathYear: 474
-born: "c.395 in Carthage, North Africa (modern Tunis, Tunisia)"
-died: "c.474 in Constantinople of natural causes"
-birthPlace: "North Africa (modern Tunis, Tunisia)"
-region: "Egypt"
+born: c.395 in Carthage, North Africa (modern Tunis, Tunisia)
+died: c.474 in Constantinople of natural causes
+birthPlace: North Africa (modern Tunis, Tunisia)
+region: Egypt
 feastDay:
   month: 1
   day: 8
@@ -20,6 +23,7 @@ vocation:
   - Monk
   - Hermit
 martyr: false
+prayers: []
 ---
 
 Raised in a pious family, when she was grown Dominica slipped away from her home and took ship to Alexandria, Egypt. There she lived with four pagan women, whom she converted to Christianity, and then lived the rest of her days as a prayerful, ascetic recluse. Reported to have the gift of prophecy.

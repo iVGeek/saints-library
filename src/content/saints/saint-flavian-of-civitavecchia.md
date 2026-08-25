@@ -19,6 +19,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/5/55/Roma_dall%27aereo.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 imageAlt: Portrait of Saint Flavian of Civitavecchia
 imageCreditUrl: https://en.wikipedia.org/wiki/Metropolitan%20City%20of%20Rome%20Capital
+prayers: []
 ---
 
 Roman deputy prefect. Martyred in the persecutions of Diocletian.

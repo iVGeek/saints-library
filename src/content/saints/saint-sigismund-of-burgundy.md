@@ -1,14 +1,14 @@
 ---
-name: "Saint Sigismund of Burgundy"
+name: Saint Sigismund of Burgundy
 honorific: Saint
-summary: " A Christian by faith, Si Son of Gunebald, the Vandal king of Burgundy. Spiritual student of bishop Saint Avitus of Vienne. Built the monastery of Saint-Maurice at Agaune in Valais, Switzerland in 515. Married; father of Saint Gistaldo and Saint Gundebado. King of Burgundy in 516."
-image: "https://upload.wikimedia.org/wikipedia/commons/d/de/St._Sigismund.jpg"
+summary: ' A Christian by faith, Si Son of Gunebald, the Vandal king of Burgundy. Spiritual student of bishop Saint Avitus of Vienne. Built the monastery of Saint-Maurice at Agaune in Valais, Switzerland in 515. Married; father of Saint Gistaldo and Saint Gundebado. King of Burgundy in 516.'
+image: https://upload.wikimedia.org/wikipedia/commons/d/de/St._Sigismund.jpg
 searchAliases:
-  - "King Sigismund"
+  - King Sigismund
 deathYear: 523
-died: "executed in 523 at Orleans, France"
-deathPlace: "France"
-region: "Italy"
+died: executed in 523 at Orleans, France
+deathPlace: France
+region: Italy
 feastDay:
   month: 5
   day: 1
@@ -17,16 +17,20 @@ vocation:
   - Bishop
   - Priest
 patronage:
-  - "against fever"
-  - "against malaria"
-  - "–"
-  - "Czech Repubic"
-  - "–"
-  - "Prague, Czech Republic, city of"
-  - "Freising, Germany"
-  - "in Italy\n\nGaiole in Chianti"
-  - "Rimini"
+  - against fever
+  - against malaria
+  - –
+  - Czech Repubic
+  - –
+  - Prague, Czech Republic, city of
+  - Freising, Germany
+  - |-
+    in Italy
+
+    Gaiole in Chianti
+  - Rimini
 martyr: true
+prayers: []
 ---
 
 Son of Gunebald, the Vandal king of Burgundy. Spiritual student of bishop Saint Avitus of Vienne. Built the monastery of Saint-Maurice at Agaune in Valais, Switzerland in 515. Married; father of Saint Gistaldo and Saint Gundebado. King of Burgundy in 516.

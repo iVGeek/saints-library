@@ -24,6 +24,7 @@ vocation:
   - Soldier
   - Confessor
 martyr: false
+prayers: []
 ---
 
 May have been born to the Gallic nobility. Career soldier. Retired to become a monk at Lerins, France. Wrote the Commonitory, a great defense of the faith.

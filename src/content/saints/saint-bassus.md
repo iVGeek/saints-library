@@ -1,19 +1,20 @@
 ---
-name: "Saint Bassus"
+name: Saint Bassus
 honorific: Saint
-summary: "Son of Saint Catervus and Saint Severina. Martyr."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Catervus.jpg"
+summary: Son of Saint Catervus and Saint Severina. Martyr.
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Catervus.jpg
 searchAliases:
-  - "Basso"
-died: "4th century Tolentino, Italy"
-deathPlace: "Italy"
-region: "Italy"
+  - Basso
+died: 4th century Tolentino, Italy
+deathPlace: Italy
+region: Italy
 feastDay:
   month: 10
   day: 17
 canonizationStatus: Saint
 vocation: []
 martyr: true
+prayers: []
 ---
 
 Son of Saint Catervus and Saint Severina. Martyr.

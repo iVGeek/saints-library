@@ -1,23 +1,26 @@
 ---
-name: "Blessed Jordan of Saxony"
+name: Blessed Jordan of Saxony
 honorific: Blessed
-summary: "Born to the Saxon nobility, he received a pious upbringing and was noted for his charity to the poor from an early age. Educated in Germany, and received his masters degree in theology at the University of Paris. Joined the Order of Preachers in 1220 under Saint Dominic himself."
-image: "https://upload.wikimedia.org/wikipedia/commons/0/0e/Jordanofsaxony.png"
+summary: >-
+  Born to the Saxon nobility, he received a pious upbringing and was noted for his charity to the poor from an early
+  age. Educated in Germany, and received his masters degree in theology at the University of Paris. Joined the Order of
+  Preachers in 1220 under Saint Dominic himself.
+image: https://upload.wikimedia.org/wikipedia/commons/0/0e/Jordanofsaxony.png
 searchAliases:
-  - "Jordan de Alamaia"
-  - "Giordana…"
-  - "Giordano…"
-  - "Giordanus…"
-  - "Gordanus…"
-  - "Jordana…"
-  - "Jordanka…"
-  - "Jordanus…"
+  - Jordan de Alamaia
+  - Giordana…
+  - Giordano…
+  - Giordanus…
+  - Gordanus…
+  - Jordana…
+  - Jordanka…
+  - Jordanus…
 birthYear: 1190
 deathYear: 1237
-born: "c.1190 at Padberg Castle, diocese of Paderborn, Westphalia, old Saxony (in modern Germany)"
-died: "drowned in 1237 in a shipwreck off the coast of Syria while on a pilgrimage to the Holy Land"
-birthPlace: "diocesePaderborn, Westphalia, old Saxony (in modern Germany)"
-region: "Scandinavia"
+born: c.1190 at Padberg Castle, diocese of Paderborn, Westphalia, old Saxony (in modern Germany)
+died: drowned in 1237 in a shipwreck off the coast of Syria while on a pilgrimage to the Holy Land
+birthPlace: diocesePaderborn, Westphalia, old Saxony (in modern Germany)
+region: Scandinavia
 feastDay:
   month: 2
   day: 13
@@ -26,12 +29,13 @@ vocation:
   - Priest
   - Monk
   - Confessor
-religiousOrder: "Dominican"
+religiousOrder: Dominican
 patronage:
-  - "against drowning"
-  - "Dominicans"
-  - "University of Santo Tomas Faculty of Engineering"
+  - against drowning
+  - Dominicans
+  - University of Santo Tomas Faculty of Engineering
 martyr: false
+prayers: []
 ---
 
 Born to the Saxon nobility, he received a pious upbringing and was noted for his charity to the poor from an early age. Educated in Germany, and received his masters degree in theology at the University of Paris. Joined the Order of Preachers in 1220 under Saint Dominic himself. Prior-provincial of the Order in Lombardy, Italy in 1221. Succeeded Dominic as master-general of the Order in 1222. Under his administration, the Order spread throughout Germany, and into Denmark.

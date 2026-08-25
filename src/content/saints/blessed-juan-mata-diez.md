@@ -1,21 +1,22 @@
 ---
 image: /placeholder-saint.svg
-name: "Blessed Juan Mata Díez"
+name: Blessed Juan Mata Díez
 honorific: Blessed
-summary: "Layman in the diocese of Burgos, Spain. Martyred in the Spanish Civil War."
+summary: Layman in the diocese of Burgos, Spain. Martyred in the Spanish Civil War.
 birthYear: 1903
 deathYear: 1936
-born: "11 February 1903 in Ubierna, Burgos, Spain"
-died: "1 October 1936 in Madrid, Spain"
-birthPlace: "Burgos, Spain"
-deathPlace: "Spain"
-region: "Spain"
+born: 11 February 1903 in Ubierna, Burgos, Spain
+died: 1 October 1936 in Madrid, Spain
+birthPlace: Burgos, Spain
+deathPlace: Spain
+region: Spain
 feastDay:
   month: 10
   day: 1
 canonizationStatus: Blessed
 vocation: []
 martyr: true
+prayers: []
 ---
 
 Layman in the diocese of Burgos, Spain. Martyred in the Spanish Civil War.

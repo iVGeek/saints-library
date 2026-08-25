@@ -1,12 +1,15 @@
 ---
 image: /placeholder-saint.svg
-name: "Saint Senach of Clonard"
+name: Saint Senach of Clonard
 honorific: Saint
-summary: "Educated at the School of Clonard in Ireland. Spiritual student of Saint Finnian of Clonard. Extreme ascetic who lived a life of penance and self-denial. Often assigned to shepherd seminarians at Clonard, which included Saint Columba of Terryglass. Succeeded Finnian as abbot of C"
+summary: >-
+  Educated at the School of Clonard in Ireland. Spiritual student of Saint Finnian of Clonard. Extreme ascetic who lived
+  a life of penance and self-denial. Often assigned to shepherd seminarians at Clonard, which included Saint Columba of
+  Terryglass. Succeeded Finnian as abbot of C
 searchAliases:
-  - "Snach"
-died: "6th century"
-region: "Ireland"
+  - Snach
+died: 6th century
+region: Ireland
 feastDay:
   month: 8
   day: 3
@@ -15,6 +18,7 @@ vocation:
   - Bishop
   - Monk
 martyr: false
+prayers: []
 ---
 
 Educated at the School of Clonard in Ireland. Spiritual student of Saint Finnian of Clonard. Extreme ascetic who lived a life of penance and self-denial. Often assigned to shepherd seminarians at Clonard, which included Saint Columba of Terryglass. Succeeded Finnian as abbot of Clonard. Bishop.

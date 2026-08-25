@@ -40,6 +40,7 @@ patronage:
   - Chichester, diocese of
   - Sussex
 martyr: false
+prayers: []
 ---
 
 Second son of Richard and Alice de Wych. His father died when the boy was young. The family fell upon hard times, but as soon as he became old enough, Richard took over management of their estates and brought them back to profit. Educated at Oxford, England, in Paris, France, and in Bologna, Italy. Chancellor of Oxford University. Legal advisor to Saint Edmund Rich and Saint Boniface of Savoy, the Archbishops of Canterbury. Priest. Bishop of Chichester. Miracles and cures occured at his shrine in Chichester. His patronage of coachmen began with the Milanese Guild of Coachmen, possibly because Richard drove carts and wagons on the family farm.

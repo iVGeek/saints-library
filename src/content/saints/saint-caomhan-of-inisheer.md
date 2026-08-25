@@ -15,6 +15,7 @@ vocation:
 patronage:
   - Inisheer, Ireland
 martyr: false
+prayers: []
 ---
 
 May have been related to Saint Kevin of Glendalough. Spiritual student of Saint Enda of Aran.

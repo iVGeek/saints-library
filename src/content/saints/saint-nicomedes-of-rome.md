@@ -1,11 +1,11 @@
 ---
-name: "Saint Nicomedes of Rome"
+name: Saint Nicomedes of Rome
 honorific: Saint
-summary: "Priest in Rome, Italy. Arrested for helping martyrs, and for giving them Christian burial. Martyred."
-image: "http://catholicsaints.info/wp-content/uploads/img-Saint-Nicomedes-of-Rome.jpg"
-died: "beaten to death with clubs c.71 at Rome, Italy"
-deathPlace: "Italy"
-region: "Italy"
+summary: Priest in Rome, Italy. Arrested for helping martyrs, and for giving them Christian burial. Martyred.
+image: http://catholicsaints.info/wp-content/uploads/img-Saint-Nicomedes-of-Rome.jpg
+died: beaten to death with clubs c.71 at Rome, Italy
+deathPlace: Italy
+region: Italy
 feastDay:
   month: 9
   day: 15
@@ -14,8 +14,9 @@ vocation:
   - Priest
   - Monk
 patronage:
-  - "Grondola, Pontremoli, Italy"
+  - Grondola, Pontremoli, Italy
 martyr: true
+prayers: []
 ---
 
 Priest in Rome, Italy. Arrested for helping martyrs, and for giving them Christian burial. Martyred.

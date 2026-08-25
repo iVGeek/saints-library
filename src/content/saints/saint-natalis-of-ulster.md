@@ -16,6 +16,7 @@ canonizationStatus: Saint
 vocation:
   - Monk
 martyr: false
+prayers: []
 ---
 
 Spiritual student of Saint Columba. One of the great founders of monasticism in northern Ireland. Abbot of monasteries of Naile, Daunhinis, and Cill. A well in the region honors his memory.

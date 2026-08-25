@@ -222,7 +222,7 @@
         var chip = document.createElement('button');
         chip.type = 'button';
         chip.className = 'chip chip-active';
-        chip.innerHTML = esc(v) + ' <span aria-hidden="true">\u2715</span>';
+        chip.innerHTML = esc(v.replace(/-/g, ' ')) + ' <span aria-hidden="true">\u2715</span>';
         chip.addEventListener('click', function () {
           filters[group].delete(v);
           if (filters[group].size === 0) delete filters[group];

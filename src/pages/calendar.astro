@@ -222,7 +222,7 @@ const statusDot: Record<string, string> = {
                         data-status={s.status}
                         data-martyr={String(s.martyr)}
                         data-summary={s.summary ?? ''}
-                        data-patronage={s.patronage.join(', ')}
+                        data-patronage={s.patronage.map(p => p.replace(/-/g, ' ')).join(', ')}
                       />
                     ))}
                   </div>

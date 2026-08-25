@@ -24,7 +24,7 @@ export const GET: APIRoute = async () => {
       feastLabel: formatFeastLabel(s.data.feastDay),
       feastMonth: s.data.feastDay.month,
       feastDayNum: s.data.feastDay.day,
-      patronage: s.data.patronage,
+      patronage: s.data.patronage.map((p: string) => p.replace(/-/g, ' ')),
       causes: s.data.causes,
       vocation: s.data.vocation,
       religiousOrder: s.data.religiousOrder ?? '',

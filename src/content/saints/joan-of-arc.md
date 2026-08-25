@@ -88,6 +88,23 @@ prayers:
       to hear and follow God's call in my own life. You who showed extraordinary courage in the face of impossible odds,
       grant me the strength to face my own battles with faith and determination. O Saint Joan, patron of soldiers and of
       France, pray for me that I may have the courage to do God's will in all things. Amen.
+
+
+      ---
+
+
+      **Closing Prayer**
+
+
+      Thank you for joining in this novena. May the intercession of the saints strengthen your faith and bring you
+      closer to God. Through their prayers and example, may you find peace, hope, and grace in your daily life.
+
+
+      Glory be to the Father, and to the Son, and to the Holy Spirit, as it was in the beginning, is now, and ever shall
+      be, world without end. Amen.
+
+
+      Saints of God, pray for us.
 relatedSaints:
   - name: Michael the Archangel
     slug: michael-the-archangel

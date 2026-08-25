@@ -86,6 +86,9 @@ prayers:
       Novena — begins March 10, nine days before the feast of Saint Joseph (March 19). Source:
       https://catholicmasstimes.com/novena-to-st-joseph-9-days-of-prayer/
     text: >-
+      **Day 1**
+
+
       O Glorious St Joseph, faithful follower of Jesus Christ, to you do we raise our hearts and hands, to implore your
       powerful intercession in obtaining from the benign Heart of Jesus all the help and graces necessary for our
       spiritual and temporal welfare, particularly the grace of a happy death, and the special favor we now implore.
@@ -107,6 +110,9 @@ prayers:
       ---
 
 
+      **Day 2**
+
+
       O great St. Joseph, with feelings of unlimited confidence, we beg you to bless this novena that we begin in your
       honor. "You are never invoked in vain" says the seraphic St. Theresa of Jesus. Be you then to me what you have
       been to that spouse of the Sacred Heart of Jesus and graciously hear me as you did her.
@@ -119,6 +125,9 @@ prayers:
 
 
       ---
+
+
+      **Day 3**
 
 
       O blessed Saint Joseph, tenderhearted father, faithful guardian of Jesus, chaste spouse of the Mother of God, we
@@ -141,6 +150,9 @@ prayers:
       ---
 
 
+      **Day 4**
+
+
       Blessed St. Joseph, enkindle in our cold hearts a spark of your charity. May God be always the first and only
       object of our affections. Keep our souls always in sanctifying grace and, if we should be so unhappy as to lose
       it, give us the strength to recover it immediately by a sincere repentance. Help us to such a love of our God as
@@ -158,6 +170,9 @@ prayers:
 
 
       ---
+
+
+      **Day 5**
 
 
       Saint Joseph, pride of Heaven, unfailing hope for our lives, and support of those on earth, graciously accept our
@@ -178,6 +193,9 @@ prayers:
       ---
 
 
+      **Day 6**
+
+
       O holy St. Joseph, what a lesson your life is for us, ever so eager to appear so anxious to display before the
       eyes of men the graces that we owe entirely to the liberality of God. In addition to the special favor for which
       we plead in this novena, grant that we may attribute to God the glory of all things, that we may love the humble
@@ -192,6 +210,9 @@ prayers:
 
 
       ---
+
+
+      **Day 7**
 
 
       O glorious Saint Joseph, appointed by the Eternal Father as the guardian and protector of the life of Jesus
@@ -210,6 +231,9 @@ prayers:
       ---
 
 
+      **Day 8**
+
+
       O faithful and prudent Saint Joseph, watch over our weakness and our inexperience; obtain for us that prudence
       which reminds us of our end, which directs our paths and which protects us from every danger. Pray for us, then, O
       great Saint, and by your love for Jesus and Mary, and by their love for you, obtain for us the favor we ask in
@@ -223,6 +247,9 @@ prayers:
 
 
       ---
+
+
+      **Day 9**
 
 
       O blessed Joseph, to whom it was given not only to see and to hear that God whom many kings longed to see and saw
@@ -270,6 +297,23 @@ prayers:
       to your protection or asked for your aid without obtaining relief. Confiding, therefore, in your goodness, I come
       before you and humbly implore you. Despise not my petitions, foster-father of the Redeemer, but graciously receive
       them. Amen.
+
+
+      ---
+
+
+      **Closing Prayer**
+
+
+      Thank you for joining in this novena. May the intercession of the saints strengthen your faith and bring you
+      closer to God. Through their prayers and example, may you find peace, hope, and grace in your daily life.
+
+
+      Glory be to the Father, and to the Son, and to the Holy Spirit, as it was in the beginning, is now, and ever shall
+      be, world without end. Amen.
+
+
+      Saints of God, pray for us.
     source: https://catholicmasstimes.com/novena-to-st-joseph-9-days-of-prayer/
 relatedSaints:
   - name: Mary Magdalene

@@ -85,6 +85,9 @@ prayers:
       Novena — begins April 20, nine days before the feast of Saint Catherine of Siena (April 29). Source:
       https://www.catholicculture.org/culture/liturgicalyear/prayers/view.cfm?id=1039
     text: >-
+      **Day 1**
+
+
       O God, who gave St. Catherine of Siena a deep love for the Holy Name of Jesus and a burning desire for the unity
       of the Church, grant that, by her intercession, we may serve You with pure love and work effectively for the
       salvation of souls.
@@ -97,6 +100,9 @@ prayers:
 
 
       ---
+
+
+      **Day 2**
 
 
       O blessed Catherine, who from your youth devoted yourself to prayer and penance, obtain for me the grace of true
@@ -112,6 +118,9 @@ prayers:
       ---
 
 
+      **Day 3**
+
+
       O blessed Catherine, who loved the Blessed Sacrament with ardent devotion, help me to receive Holy Communion with
       great reverence and love, and to remain united to our Lord in the Blessed Sacrament.
 
@@ -123,6 +132,9 @@ prayers:
 
 
       ---
+
+
+      **Day 4**
 
 
       O blessed Catherine, who faithfully obeyed the Holy Father and worked for the unity of the Church, pray for the
@@ -138,6 +150,9 @@ prayers:
       ---
 
 
+      **Day 5**
+
+
       O blessed Catherine, who endured great suffering with patience and offered it for the conversion of sinners, teach
       me to unite my sufferings to those of Christ for the salvation of souls.
 
@@ -149,6 +164,9 @@ prayers:
 
 
       ---
+
+
+      **Day 6**
 
 
       O blessed Catherine, who received the sacred stigmata invisibly, obtain for me the grace to bear the marks of
@@ -164,6 +182,9 @@ prayers:
       ---
 
 
+      **Day 7**
+
+
       O blessed Catherine, who wrote so beautifully about divine love in the Dialogue, help me to grow in my love for
       God and to seek His will in all things.
 
@@ -175,6 +196,9 @@ prayers:
 
 
       ---
+
+
+      **Day 8**
 
 
       O blessed Catherine, who converted many sinners through your prayers and sacrifices, intercede for the conversion
@@ -190,6 +214,9 @@ prayers:
       ---
 
 
+      **Day 9**
+
+
       O blessed Catherine, who died in Rome on April 29, 1380, at the age of 33, obtain for me the grace of a holy death
       and the joy of seeing God face to face in heaven.
 
@@ -198,6 +225,23 @@ prayers:
 
 
       Our Father, Hail Mary, Glory Be. St. Catherine of Siena, pray for us.
+
+
+      ---
+
+
+      **Closing Prayer**
+
+
+      Thank you for joining in this novena. May the intercession of the saints strengthen your faith and bring you
+      closer to God. Through their prayers and example, may you find peace, hope, and grace in your daily life.
+
+
+      Glory be to the Father, and to the Son, and to the Holy Spirit, as it was in the beginning, is now, and ever shall
+      be, world without end. Amen.
+
+
+      Saints of God, pray for us.
     source: https://www.catholicculture.org/culture/liturgicalyear/prayers/view.cfm?id=1039
 relatedSaints:
   - name: Francis of Assisi

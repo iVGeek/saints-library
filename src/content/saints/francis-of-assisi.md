@@ -105,6 +105,9 @@ prayers:
       Novena — begins September 25, nine days before the feast of Saint Francis of Assisi (October 4). Source:
       https://www.catholicculture.org/culture/liturgicalyear/prayers/view.cfm?id=1039
     text: >-
+      **Day 1**
+
+
       O blessed Francis, who during your life on earth were so deeply concerned with the sufferings and wants of others,
       look kindly upon me now as I recommend to you my present needs and intentions.
 
@@ -117,6 +120,9 @@ prayers:
 
 
       ---
+
+
+      **Day 2**
 
 
       O blessed Francis, whose whole life was a shining example of humility, charity, and love for God, obtain for me
@@ -133,6 +139,9 @@ prayers:
       ---
 
 
+      **Day 3**
+
+
       O blessed Francis, who embraced the lepers and those rejected by society, teach me to see Christ in the poor, the
       sick, and the suffering. Help me to serve them with love and compassion.
 
@@ -144,6 +153,9 @@ prayers:
 
 
       ---
+
+
+      **Day 4**
 
 
       O blessed Francis, who renounced all worldly possessions to follow Christ more closely, help me to detach myself
@@ -159,6 +171,9 @@ prayers:
       ---
 
 
+      **Day 5**
+
+
       O blessed Francis, who received the sacred stigmata on Mount La Verna, intercede for me that I may bear my crosses
       with patience and unite my sufferings to those of Christ.
 
@@ -170,6 +185,9 @@ prayers:
 
 
       ---
+
+
+      **Day 6**
 
 
       O blessed Francis, who preached to the birds and to all of God's creatures, help me to appreciate the beauty of
@@ -185,6 +203,9 @@ prayers:
       ---
 
 
+      **Day 7**
+
+
       O blessed Francis, who founded the Franciscan Order and restored the Church through your holy life, pray for the
       Church and all her ministers. May they be faithful to their calling.
 
@@ -196,6 +217,9 @@ prayers:
 
 
       ---
+
+
+      **Day 8**
 
 
       O blessed Francis, who composed the beautiful Canticle of the Sun, praising God for all His gifts, help me to have
@@ -211,6 +235,9 @@ prayers:
       ---
 
 
+      **Day 9**
+
+
       O blessed Francis, who died in peace on October 4, 1226, with the words "I have done what was mine to do; may
       Christ teach you what is yours" on your lips, obtain for me the grace of a holy death and the joy of seeing God
       face to face in heaven.
@@ -220,6 +247,23 @@ prayers:
 
 
       Our Father, Hail Mary, Glory Be. St. Francis of Assisi, pray for us.
+
+
+      ---
+
+
+      **Closing Prayer**
+
+
+      Thank you for joining in this novena. May the intercession of the saints strengthen your faith and bring you
+      closer to God. Through their prayers and example, may you find peace, hope, and grace in your daily life.
+
+
+      Glory be to the Father, and to the Son, and to the Holy Spirit, as it was in the beginning, is now, and ever shall
+      be, world without end. Amen.
+
+
+      Saints of God, pray for us.
     source: https://www.catholicculture.org/culture/liturgicalyear/prayers/view.cfm?id=1039
 relatedSaints:
   - name: Clare of Assisi

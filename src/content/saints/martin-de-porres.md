@@ -84,6 +84,23 @@ prayers:
       remind me that no act of service is too small, and may your example teach me that true greatness lies in making
       oneself small before God and neighbor. Through your intercession, may God's love overcome all hatred and division.
       Amen.
+
+
+      ---
+
+
+      **Closing Prayer**
+
+
+      Thank you for joining in this novena. May the intercession of the saints strengthen your faith and bring you
+      closer to God. Through their prayers and example, may you find peace, hope, and grace in your daily life.
+
+
+      Glory be to the Father, and to the Son, and to the Holy Spirit, as it was in the beginning, is now, and ever shall
+      be, world without end. Amen.
+
+
+      Saints of God, pray for us.
 relatedSaints:
   - name: Rose of Lima
     slug: rose-of-lima

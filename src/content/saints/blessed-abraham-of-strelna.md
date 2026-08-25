@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/e/ec/Moscow_July_2011-4a.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Abraham of Strelna
 honorific: Blessed
 summary: >-
@@ -21,6 +22,8 @@ vocation:
   - Hermit
 martyr: false
 prayers: []
+imageAlt: Portrait of Blessed Abraham of Strelna
+imageCreditUrl: https://en.wikipedia.org/wiki/Culture%20of%20Russia
 ---
 
 Like his three brothers, he became a Premonstratensian monk at the monastery in Hradisko, Moravia (in modern Slovakia). He withdrew from the monastery to live for 30 years as a hermit, but was eventually ordered back to the monastery in 1229 and was soon after elected abbot. He agreed on the condition that he would only serve for three years and could then return to his hermit's shack.

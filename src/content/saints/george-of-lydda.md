@@ -73,6 +73,23 @@ prayers:
       your Lord, strengthen my faith so that I may never be ashamed of the Gospel. O Saint George, whose banner bears
       the red cross of Christ's sacrifice, may I carry that cross with honor through every battle of life and arrive at
       the heavenly kingdom where Christ reigns triumphant. Amen.
+
+
+      ---
+
+
+      **Closing Prayer**
+
+
+      Thank you for joining in this novena. May the intercession of the saints strengthen your faith and bring you
+      closer to God. Through their prayers and example, may you find peace, hope, and grace in your daily life.
+
+
+      Glory be to the Father, and to the Son, and to the Holy Spirit, as it was in the beginning, is now, and ever shall
+      be, world without end. Amen.
+
+
+      Saints of God, pray for us.
 relatedSaints:
   - name: Michael the Archangel
     slug: michael-the-archangel

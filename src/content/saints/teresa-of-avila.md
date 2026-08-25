@@ -89,6 +89,9 @@ prayers:
       Novena — begins October 6, nine days before the feast of Saint Teresa of Ávila (October 15). Source:
       https://www.catholicculture.org/culture/liturgicalyear/prayers/view.cfm?id=1039
     text: >-
+      **Day 1**
+
+
       O God, who gave the spirit of prayer and contemplation to blessed Teresa, your virgin and doctor of the Church,
       grant that by her merits and intercession we may live in perfect charity and always live in your presence.
 
@@ -100,6 +103,9 @@ prayers:
 
 
       ---
+
+
+      **Day 2**
 
 
       O blessed Teresa, who through your writings taught the soul the path of prayer and union with God, obtain for me
@@ -115,6 +121,9 @@ prayers:
       ---
 
 
+      **Day 3**
+
+
       O blessed Teresa, who reformed the Carmelite Order with courage and humility, help me to reform my own life and to
       be faithful to the duties of my state in life.
 
@@ -126,6 +135,9 @@ prayers:
 
 
       ---
+
+
+      **Day 4**
 
 
       O blessed Teresa, who endured many trials and sufferings with patience, teach me to offer my crosses to God and to
@@ -141,6 +153,9 @@ prayers:
       ---
 
 
+      **Day 5**
+
+
       O blessed Teresa, who experienced mystical union with God, help me to grow in my love for God and to seek Him in
       prayer and the sacraments.
 
@@ -152,6 +167,9 @@ prayers:
 
 
       ---
+
+
+      **Day 6**
 
 
       O blessed Teresa, who said "Let nothing disturb you, let nothing frighten you, all things are passing away: God
@@ -167,6 +185,9 @@ prayers:
       ---
 
 
+      **Day 7**
+
+
       O blessed Teresa, who loved the Blessed Sacrament with ardent devotion, help me to receive Holy Communion with
       great love and reverence.
 
@@ -178,6 +199,9 @@ prayers:
 
 
       ---
+
+
+      **Day 8**
 
 
       O blessed Teresa, who was declared a Doctor of the Church, obtain for me the grace to study the faith diligently
@@ -193,6 +217,9 @@ prayers:
       ---
 
 
+      **Day 9**
+
+
       O blessed Teresa, who died in Alba de Tormes on October 15, 1582, with the words "I am a daughter of the Church"
       on her lips, obtain for me the grace of a holy death and the joy of seeing God face to face in heaven.
 
@@ -201,6 +228,23 @@ prayers:
 
 
       Our Father, Hail Mary, Glory Be. St. Teresa of Avila, pray for us.
+
+
+      ---
+
+
+      **Closing Prayer**
+
+
+      Thank you for joining in this novena. May the intercession of the saints strengthen your faith and bring you
+      closer to God. Through their prayers and example, may you find peace, hope, and grace in your daily life.
+
+
+      Glory be to the Father, and to the Son, and to the Holy Spirit, as it was in the beginning, is now, and ever shall
+      be, world without end. Amen.
+
+
+      Saints of God, pray for us.
     source: https://www.catholicculture.org/culture/liturgicalyear/prayers/view.cfm?id=1039
 relatedSaints:
   - name: John of the Cross

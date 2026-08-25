@@ -51,6 +51,23 @@ prayers:
       shone from your chest at your baptism, may the light of Christ shine through my life to guide others to salvation.
       O Saint Dominic, who carried the torch of faith across Europe, carry my petition before the throne of God and
       obtain for me the grace of perseverance in the true faith. Amen.
+
+
+      ---
+
+
+      **Closing Prayer**
+
+
+      Thank you for joining in this novena. May the intercession of the saints strengthen your faith and bring you
+      closer to God. Through their prayers and example, may you find peace, hope, and grace in your daily life.
+
+
+      Glory be to the Father, and to the Son, and to the Holy Spirit, as it was in the beginning, is now, and ever shall
+      be, world without end. Amen.
+
+
+      Saints of God, pray for us.
 ---
 
 Born of wealthy Spanish nobility. Son of Blessed Joan of Aza. Joan had difficulty conceiving, and prayed at the shrine of Saint Dominic of Silos who had a tradition of patronage of that problem; when she became pregnant she named the child Dominic in honour of the Saint. While pregnant, Blessed Joan mother had a vision that her unborn child was a dog who would set the world on fire with a torch it carried in its mouth; a dog with a torch in its mouth became a symbol for the Order which he founded, the Dominicans. At Dominic's baptism, Blessed Joan saw a star shining from his chest, which became another  of his symbols in art, and led to his patronage of astronomy.

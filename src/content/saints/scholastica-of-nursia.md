@@ -76,6 +76,23 @@ prayers:
       every human rule, help me to listen for God's call in my own life and to respond with generous obedience. O Saint
       Scholastica, who saw your brother's soul rise to heaven like a dove, obtain for me the grace to persevere in
       prayer until I see God face to face. Amen.
+
+
+      ---
+
+
+      **Closing Prayer**
+
+
+      Thank you for joining in this novena. May the intercession of the saints strengthen your faith and bring you
+      closer to God. Through their prayers and example, may you find peace, hope, and grace in your daily life.
+
+
+      Glory be to the Father, and to the Son, and to the Holy Spirit, as it was in the beginning, is now, and ever shall
+      be, world without end. Amen.
+
+
+      Saints of God, pray for us.
 relatedSaints:
   - name: Benedict of Nursia
     slug: benedict-of-nursia

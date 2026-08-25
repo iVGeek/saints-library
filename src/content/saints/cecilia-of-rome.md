@@ -79,6 +79,23 @@ prayers:
       faithful to Christ even unto martyrdom, keep me steadfast in faith and pure in heart. O Saint Cecilia, whose love
       for God was a melody that death could not silence, may my life become a song of praise that resounds for eternity
       in the courts of heaven. Amen.
+
+
+      ---
+
+
+      **Closing Prayer**
+
+
+      Thank you for joining in this novena. May the intercession of the saints strengthen your faith and bring you
+      closer to God. Through their prayers and example, may you find peace, hope, and grace in your daily life.
+
+
+      Glory be to the Father, and to the Son, and to the Holy Spirit, as it was in the beginning, is now, and ever shall
+      be, world without end. Amen.
+
+
+      Saints of God, pray for us.
 relatedSaints:
   - name: Agnes of Rome
     slug: agnes-of-rome

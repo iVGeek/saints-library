@@ -82,6 +82,9 @@ prayers:
       Novena — begins August 19, nine days before the feast of Saint Augustine of Hippo (August 28). Source:
       https://www.catholicculture.org/culture/liturgicalyear/prayers/view.cfm?id=1039
     text: >-
+      **Day 1**
+
+
       O God, who gave the Bishop Saint Augustine the grace to understand what it means to seek You and to find You,
       grant that we, following his example, may always seek You with sincere hearts and find You in the reading of Your
       Word and in the celebration of Your sacraments.
@@ -94,6 +97,9 @@ prayers:
 
 
       ---
+
+
+      **Day 2**
 
 
       O blessed Augustine, who wrote "Our hearts are restless until they rest in You," help me to direct my heart and
@@ -109,6 +115,9 @@ prayers:
       ---
 
 
+      **Day 3**
+
+
       O blessed Augustine, who lived a sinful life before your dramatic conversion, obtain for me the grace of true
       contrition and a firm purpose of amendment.
 
@@ -120,6 +129,9 @@ prayers:
 
 
       ---
+
+
+      **Day 4**
 
 
       O blessed Augustine, whose Confessions have inspired countless souls to return to God, help me to be honest before
@@ -135,6 +147,9 @@ prayers:
       ---
 
 
+      **Day 5**
+
+
       O blessed Augustine, who taught the faith with such brilliance and depth, grant me the grace to study the faith
       diligently and to grow in understanding.
 
@@ -146,6 +161,9 @@ prayers:
 
 
       ---
+
+
+      **Day 6**
 
 
       O blessed Augustine, who said "Late have I loved You, Beauty so ancient and so new," help me to love God with all
@@ -161,6 +179,9 @@ prayers:
       ---
 
 
+      **Day 7**
+
+
       O blessed Augustine, who was converted through the tears and prayers of your mother Monica, intercede for all
       mothers who pray for the conversion of their children.
 
@@ -172,6 +193,9 @@ prayers:
 
 
       ---
+
+
+      **Day 8**
 
 
       O blessed Augustine, Doctor of the Church, who wrote so extensively about grace, sin, and redemption, help me to
@@ -187,6 +211,9 @@ prayers:
       ---
 
 
+      **Day 9**
+
+
       O blessed Augustine, who died in Hippo in 430 AD with the words of the Psalms on your lips, obtain for me the
       grace of a holy death and the joy of seeing God face to face in heaven.
 
@@ -195,6 +222,23 @@ prayers:
 
 
       Our Father, Hail Mary, Glory Be. St. Augustine, pray for us.
+
+
+      ---
+
+
+      **Closing Prayer**
+
+
+      Thank you for joining in this novena. May the intercession of the saints strengthen your faith and bring you
+      closer to God. Through their prayers and example, may you find peace, hope, and grace in your daily life.
+
+
+      Glory be to the Father, and to the Son, and to the Holy Spirit, as it was in the beginning, is now, and ever shall
+      be, world without end. Amen.
+
+
+      Saints of God, pray for us.
     source: https://www.catholicculture.org/culture/liturgicalyear/prayers/view.cfm?id=1039
 relatedSaints:
   - name: Patrick of Ireland

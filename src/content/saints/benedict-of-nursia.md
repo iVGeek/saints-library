@@ -88,6 +88,9 @@ prayers:
       Novena — begins July 2, nine days before the feast of Saint Benedict of Nursia (July 11). Source:
       https://www.catholicculture.org/culture/liturgicalyear/prayers/view.cfm?id=1039
     text: >-
+      **Day 1**
+
+
       O blessed Benedict, who founded the monastic tradition in the West and wrote the Rule that has guided monks for
       centuries, intercede for me before the throne of God.
 
@@ -99,6 +102,9 @@ prayers:
 
 
       ---
+
+
+      **Day 2**
 
 
       O blessed Benedict, who sought God above all things in the solitude of the desert, help me to seek God in prayer
@@ -114,6 +120,9 @@ prayers:
       ---
 
 
+      **Day 3**
+
+
       O blessed Benedict, who overcame the temptations of the flesh through prayer and fasting, grant me the grace to
       resist temptation and to live a life of purity.
 
@@ -125,6 +134,9 @@ prayers:
 
 
       ---
+
+
+      **Day 4**
 
 
       O blessed Benedict, who raised a dead man to life and performed many other miracles, intercede for me in my
@@ -140,6 +152,9 @@ prayers:
       ---
 
 
+      **Day 5**
+
+
       O blessed Benedict, who taught that "Ora et Labora" (Pray and Work) is the path to holiness, help me to sanctify
       my work by offering it to God and to pray without ceasing.
 
@@ -151,6 +166,9 @@ prayers:
 
 
       ---
+
+
+      **Day 6**
 
 
       O blessed Benedict, who established the monasteries of Monte Cassino and Subiaco, pray for all religious
@@ -166,6 +184,9 @@ prayers:
       ---
 
 
+      **Day 7**
+
+
       O blessed Benedict, whose Medal is a powerful sign of protection against evil, protect me and my family from all
       spiritual and physical harm.
 
@@ -177,6 +198,9 @@ prayers:
 
 
       ---
+
+
+      **Day 8**
 
 
       O blessed Benedict, who died in prayer on Easter Sunday in 547 AD, obtain for me the grace of a holy death and the
@@ -192,6 +216,9 @@ prayers:
       ---
 
 
+      **Day 9**
+
+
       O blessed Benedict, Patron of Europe, pray for the nations of Europe and for all people of good will. May they
       return to the Christian faith and live in peace and harmony.
 
@@ -200,6 +227,23 @@ prayers:
 
 
       Our Father, Hail Mary, Glory Be. St. Benedict, pray for us.
+
+
+      ---
+
+
+      **Closing Prayer**
+
+
+      Thank you for joining in this novena. May the intercession of the saints strengthen your faith and bring you
+      closer to God. Through their prayers and example, may you find peace, hope, and grace in your daily life.
+
+
+      Glory be to the Father, and to the Son, and to the Holy Spirit, as it was in the beginning, is now, and ever shall
+      be, world without end. Amen.
+
+
+      Saints of God, pray for us.
     source: https://www.catholicculture.org/culture/liturgicalyear/prayers/view.cfm?id=1039
 relatedSaints:
   - name: Francis of Assisi

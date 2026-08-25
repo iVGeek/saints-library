@@ -265,6 +265,23 @@ prayers:
 
       O Little Thérèse of the Child Jesus, I ask you to answer my prayer by granting me the grace that I desire, and to
       let fall from heaven a rose in sign of the favor obtained. Amen.
+
+
+      ---
+
+
+      **Closing Prayer**
+
+
+      Thank you for joining in this novena. May the intercession of the saints strengthen your faith and bring you
+      closer to God. Through their prayers and example, may you find peace, hope, and grace in your daily life.
+
+
+      Glory be to the Father, and to the Son, and to the Holy Spirit, as it was in the beginning, is now, and ever shall
+      be, world without end. Amen.
+
+
+      Saints of God, pray for us.
     source: https://littleway.app/blog/novena-to-st-therese-of-lisieux
 relatedSaints:
   - name: Mary Magdalene

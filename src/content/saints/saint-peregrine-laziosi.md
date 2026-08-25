@@ -49,6 +49,23 @@ prayers:
       healing through the miraculous wound. You continued to heal the sick and to comfort the sorrowful. You are a
       powerful intercessor before God for all who suffer from any form of cancer. Please take my petition and place it
       before the throne of God. Through your powerful intercession, may the Lord grant health of body and soul. Amen.
+
+
+      ---
+
+
+      **Closing Prayer**
+
+
+      Thank you for joining in this novena. May the intercession of the saints strengthen your faith and bring you
+      closer to God. Through their prayers and example, may you find peace, hope, and grace in your daily life.
+
+
+      Glory be to the Father, and to the Son, and to the Holy Spirit, as it was in the beginning, is now, and ever shall
+      be, world without end. Amen.
+
+
+      Saints of God, pray for us.
 ---
 
 Born wealthy, he spent a worldly youth, and became involved in politics. Peregrine was initially strongly anti–Catholic. During a popular revolt, he struck the papal peace negotiator, Saint Philip Benizi, across the face. Saint Philip calmly turned the other cheek, prayed for the youth, and Peregine had a conversion.

@@ -47,6 +47,23 @@ prayers:
       the consolation and help of heaven as I work with my challenges. I praise God with you and all the saints forever.
       I promise, blessed Saint Jude, to be ever mindful of this great favor, to always honor you as my special and
       powerful patron, and to gratefully encourage devotion to you. Amen.
+
+
+      ---
+
+
+      **Closing Prayer**
+
+
+      Thank you for joining in this novena. May the intercession of the saints strengthen your faith and bring you
+      closer to God. Through their prayers and example, may you find peace, hope, and grace in your daily life.
+
+
+      Glory be to the Father, and to the Son, and to the Holy Spirit, as it was in the beginning, is now, and ever shall
+      be, world without end. Amen.
+
+
+      Saints of God, pray for us.
 ---
 
 Son of Cleophas, who died a martyr, and Mary who stood at the foot of the Cross, and who annointed Christ's body after death. Brother of Saint James the Lesser. Nephew of Mary and Joseph; blood relative of Jesus Christ, and reported to look a lot like him. May have been a fisherman. Apostle.

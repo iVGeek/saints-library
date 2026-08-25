@@ -100,6 +100,23 @@ prayers:
       your sword before the altar of Our Lady at Montserrat, may I lay down my own will and take up the mission God has
       prepared for me. O Ignatius, obtain for me the grace of generous discipleship and the consolation of knowing that
       in all things, God's greater glory may be served. Amen.
+
+
+      ---
+
+
+      **Closing Prayer**
+
+
+      Thank you for joining in this novena. May the intercession of the saints strengthen your faith and bring you
+      closer to God. Through their prayers and example, may you find peace, hope, and grace in your daily life.
+
+
+      Glory be to the Father, and to the Son, and to the Holy Spirit, as it was in the beginning, is now, and ever shall
+      be, world without end. Amen.
+
+
+      Saints of God, pray for us.
 relatedSaints:
   - name: Francis of Assisi
     slug: francis-of-assisi

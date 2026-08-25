@@ -46,6 +46,23 @@ prayers:
       animals with compassion, obtain for me the grace to care for all God's creatures with tenderness. O Saint Blaise,
       who was martyred for the faith yet continues to heal the faithful through your intercession, be my protector now
       and at the hour of my death. Amen.
+
+
+      ---
+
+
+      **Closing Prayer**
+
+
+      Thank you for joining in this novena. May the intercession of the saints strengthen your faith and bring you
+      closer to God. Through their prayers and example, may you find peace, hope, and grace in your daily life.
+
+
+      Glory be to the Father, and to the Son, and to the Holy Spirit, as it was in the beginning, is now, and ever shall
+      be, world without end. Amen.
+
+
+      Saints of God, pray for us.
 ---
 
 Physician. Bishop of Sebaste, Armenia. Lived in a cave on Mount Argeus. Healer of men and animals; according to legend, sick animals would come to him on their own for help, but would never disturb him at prayer. Agricola, governor of Cappadocia, came to Sebaste to persecute Christians. His huntsmen went into the forests of Argeus to find wild animals for the arena games, and found many waiting outside Blaise’s cave. Discovered in prayer, Blaise was arrested, and Agricola tried to get him to recant his faith. While in prison, Blaise ministered to and healed fellow prisoners, including saving a child who was choking on a fish bone; this led to the blessing of throats on Blaise’s feast day. Thrown into a lake to drown, Blaise stood on the surface and invited his persecutors to walk out and prove the power of their gods; they drowned. When he returned to land, he was martyred by being beaten, his flesh torn with wool combs (which led to his association with and patronage of those involved in the wool trade), and then beheading. Blaise has been extremely popular for centuries in both the Eastern and Western Churches. In 1222 the Council of Oxford prohibited servile labour in England on his feast. He is one of the Fourteen Holy Helpers

@@ -102,6 +102,23 @@ prayers:
       soldiers, firefighters, and those who handle explosives, and bring them home safely. Through your intercession,
       may I receive the sacraments before I die, and may I face my final hour with the courage you showed at your
       martyrdom. O Saint Barbara, tower of strength and shield against every danger, be near me now and always. Amen.
+
+
+      ---
+
+
+      **Closing Prayer**
+
+
+      Thank you for joining in this novena. May the intercession of the saints strengthen your faith and bring you
+      closer to God. Through their prayers and example, may you find peace, hope, and grace in your daily life.
+
+
+      Glory be to the Father, and to the Son, and to the Holy Spirit, as it was in the beginning, is now, and ever shall
+      be, world without end. Amen.
+
+
+      Saints of God, pray for us.
 ---
 
 A beautiful maiden imprisoned in a high tower by her father Dioscorus for disobedience. While there, she was tutored by philosphers, orators and poets. From them she learned to think, and decided that polytheism was nonsense. With the help of Origen and Valentinian, she converted to Christianity.

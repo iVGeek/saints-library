@@ -80,6 +80,9 @@ prayers:
       Novena — begins Good Friday, nine days before the feast of Saint Faustina Kowalska (Divine Mercy Sunday). Source:
       https://covenantcatholic.org/novenas/divine-mercy-novena/
     text: >-
+      **Day 1**
+
+
       "Today bring to Me all mankind, especially all sinners, and immerse them in the ocean of My mercy. In this way you
       will console Me in the bitter grief into which the loss of souls plunges Me."
 
@@ -96,6 +99,9 @@ prayers:
 
 
       ---
+
+
+      **Day 2**
 
 
       "Today bring to Me the Souls of Priests and Religious, and immerse them in My unfathomable mercy. It was they who
@@ -116,6 +122,9 @@ prayers:
       ---
 
 
+      **Day 3**
+
+
       "Today bring to Me all Devout and Faithful Souls, and immerse them in the ocean of My mercy. These souls brought
       me consolation on the Way of the Cross. They were a drop of consolation in the midst of an ocean of bitterness."
 
@@ -132,6 +141,9 @@ prayers:
 
 
       ---
+
+
+      **Day 4**
 
 
       "Today bring to Me those who do not believe in God and those who do not know Me, I was thinking also of them
@@ -151,6 +163,9 @@ prayers:
 
 
       ---
+
+
+      **Day 5**
 
 
       "Today bring to Me the Souls of those who have separated themselves from My Church, and immerse them in the ocean
@@ -174,6 +189,9 @@ prayers:
       ---
 
 
+      **Day 6**
+
+
       "Today bring to Me the Meek and Humble Souls and the Souls of Little Children, and immerse them in My mercy. These
       souls most closely resemble My Heart. They strengthened Me during My bitter agony. I saw them as earthly Angels,
       who will keep vigil at My altars. I pour out upon them whole torrents of grace. I favor humble souls with My
@@ -195,6 +213,9 @@ prayers:
 
 
       ---
+
+
+      **Day 7**
 
 
       "Today bring to Me the Souls who especially venerate and glorify My Mercy, and immerse them in My mercy. These
@@ -222,6 +243,9 @@ prayers:
       ---
 
 
+      **Day 8**
+
+
       "Today bring to Me the Souls who are in the prison of Purgatory and immerse them in the abyss of My mercy. Let the
       torrents of My Blood cool down their scorching flames. All these souls are greatly loved by Me. They are making
       retribution to My justice. It is in your power to bring them relief. Draw all the indulgences from the treasury of
@@ -245,6 +269,9 @@ prayers:
       ---
 
 
+      **Day 9**
+
+
       "Today bring to Me the Souls who have become Lukewarm and immerse them in the abyss of My mercy. These souls wound
       My Heart most painfully. My soul suffered the most dreadful loathing in the Garden of Olives because of lukewarm
       souls. They were the reason I cried out: 'Father, take this cup away from Me, if it be Your will.' For them, the
@@ -261,6 +288,23 @@ prayers:
       Eternal Father, turn Your merciful gaze upon lukewarm souls who are nonetheless enfolded in the Most Compassionate
       Heart of Jesus. Father of Mercy, I beg You by the bitter Passion of Your Son and by His three-hour agony on the
       Cross: Let them, too, glorify the abyss of Your mercy. Amen.
+
+
+      ---
+
+
+      **Closing Prayer**
+
+
+      Thank you for joining in this novena. May the intercession of the saints strengthen your faith and bring you
+      closer to God. Through their prayers and example, may you find peace, hope, and grace in your daily life.
+
+
+      Glory be to the Father, and to the Son, and to the Holy Spirit, as it was in the beginning, is now, and ever shall
+      be, world without end. Amen.
+
+
+      Saints of God, pray for us.
     source: https://covenantcatholic.org/novenas/divine-mercy-novena/
 relatedSaints:
   - name: Pio of Pietrelcina

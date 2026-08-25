@@ -36,6 +36,9 @@ prayers:
       Novena — July 17 (9 days before feast day), nine days before the feast of Saint Anne (July 26). Source:
       https://covenantcatholic.org/novenas/st-anne-novena/
     text: >-
+      **Day 1**
+
+
       O St. Anne, you are my spiritual grandmother. Please pray for me!
 
 
@@ -54,6 +57,9 @@ prayers:
 
 
       ---
+
+
+      **Day 2**
 
 
       O St. Anne, you are my spiritual grandmother. Please pray for me!
@@ -82,6 +88,9 @@ prayers:
       ---
 
 
+      **Day 3**
+
+
       O St. Anne, you are my spiritual grandmother. Please pray for me!
 
 
@@ -107,6 +116,9 @@ prayers:
 
 
       ---
+
+
+      **Day 4**
 
 
       O St. Anne, you are my spiritual grandmother. Please pray for me!
@@ -142,6 +154,9 @@ prayers:
       ---
 
 
+      **Day 5**
+
+
       O St. Anne, you are my spiritual grandmother. Please pray for me!
 
 
@@ -164,6 +179,9 @@ prayers:
 
 
       ---
+
+
+      **Day 6**
 
 
       O St. Anne, you are my spiritual grandmother. Please pray for me!
@@ -195,6 +213,9 @@ prayers:
       ---
 
 
+      **Day 7**
+
+
       O St. Anne, you are my spiritual grandmother. Please pray for me!
 
 
@@ -213,6 +234,9 @@ prayers:
 
 
       ---
+
+
+      **Day 8**
 
 
       O St. Anne, you are my spiritual grandmother. Please pray for me!
@@ -245,6 +269,9 @@ prayers:
       ---
 
 
+      **Day 9**
+
+
       O St. Anne, you are my spiritual grandmother. Please pray for me!
 
 
@@ -270,6 +297,23 @@ prayers:
 
       But most of all, please pray that I may be open to God's will the way that you were, and that I will be able to
       wait with patience, perseverance in faith and hope, and with absolute trust in the Lord's plan for me. Amen.
+
+
+      ---
+
+
+      **Closing Prayer**
+
+
+      Thank you for joining in this novena. May the intercession of the saints strengthen your faith and bring you
+      closer to God. Through their prayers and example, may you find peace, hope, and grace in your daily life.
+
+
+      Glory be to the Father, and to the Son, and to the Holy Spirit, as it was in the beginning, is now, and ever shall
+      be, world without end. Amen.
+
+
+      Saints of God, pray for us.
     source: https://covenantcatholic.org/novenas/st-anne-novena/
 ---
 

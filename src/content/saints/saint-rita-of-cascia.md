@@ -44,20 +44,7 @@ prayers:
       Novena — May 13 (9 days before feast day), nine days before the feast of Saint Rita of Cascia (May 22). Source:
       https://covenantcatholic.org/novenas/st-rita-novena/
     text: >-
-      O God, in your infinite tenderness you have been pleased to regard the prayer of your servant Rita, and to grant
-      to her supplication that which is impossible to human foresight, skill, and effort, as rewards for her
-      compassionate love and firm reliance on your promises. Have pity on us in times of adversities and comfort us in
-      our calamities, that even the unbelievers may know that you are the recompense of the humble, the defense of the
-      helpless, and the strength of those who trust in you. Grant this in the Name of Jesus the Lord.
-
-
-      (Mention your request here)
-
-
-      Our Father, Hail Mary, Glory Be.
-
-
-      ---
+      **Day 1**
 
 
       O God, in your infinite tenderness you have been pleased to regard the prayer of your servant Rita, and to grant
@@ -76,20 +63,7 @@ prayers:
       ---
 
 
-      O God, in your infinite tenderness you have been pleased to regard the prayer of your servant Rita, and to grant
-      to her supplication that which is impossible to human foresight, skill, and effort, as rewards for her
-      compassionate love and firm reliance on your promises. Have pity on us in times of adversities and comfort us in
-      our calamities, that even the unbelievers may know that you are the recompense of the humble, the defense of the
-      helpless, and the strength of those who trust in you. Grant this in the Name of Jesus the Lord.
-
-
-      (Mention your request here)
-
-
-      Our Father, Hail Mary, Glory Be.
-
-
-      ---
+      **Day 2**
 
 
       O God, in your infinite tenderness you have been pleased to regard the prayer of your servant Rita, and to grant
@@ -108,20 +82,7 @@ prayers:
       ---
 
 
-      O God, in your infinite tenderness you have been pleased to regard the prayer of your servant Rita, and to grant
-      to her supplication that which is impossible to human foresight, skill, and effort, as rewards for her
-      compassionate love and firm reliance on your promises. Have pity on us in times of adversities and comfort us in
-      our calamities, that even the unbelievers may know that you are the recompense of the humble, the defense of the
-      helpless, and the strength of those who trust in you. Grant this in the Name of Jesus the Lord.
-
-
-      (Mention your request here)
-
-
-      Our Father, Hail Mary, Glory Be.
-
-
-      ---
+      **Day 3**
 
 
       O God, in your infinite tenderness you have been pleased to regard the prayer of your servant Rita, and to grant
@@ -140,20 +101,7 @@ prayers:
       ---
 
 
-      O God, in your infinite tenderness you have been pleased to regard the prayer of your servant Rita, and to grant
-      to her supplication that which is impossible to human foresight, skill, and effort, as rewards for her
-      compassionate love and firm reliance on your promises. Have pity on us in times of adversities and comfort us in
-      our calamities, that even the unbelievers may know that you are the recompense of the humble, the defense of the
-      helpless, and the strength of those who trust in you. Grant this in the Name of Jesus the Lord.
-
-
-      (Mention your request here)
-
-
-      Our Father, Hail Mary, Glory Be.
-
-
-      ---
+      **Day 4**
 
 
       O God, in your infinite tenderness you have been pleased to regard the prayer of your servant Rita, and to grant
@@ -172,6 +120,9 @@ prayers:
       ---
 
 
+      **Day 5**
+
+
       O God, in your infinite tenderness you have been pleased to regard the prayer of your servant Rita, and to grant
       to her supplication that which is impossible to human foresight, skill, and effort, as rewards for her
       compassionate love and firm reliance on your promises. Have pity on us in times of adversities and comfort us in
@@ -183,6 +134,99 @@ prayers:
 
 
       Our Father, Hail Mary, Glory Be.
+
+
+      ---
+
+
+      **Day 6**
+
+
+      O God, in your infinite tenderness you have been pleased to regard the prayer of your servant Rita, and to grant
+      to her supplication that which is impossible to human foresight, skill, and effort, as rewards for her
+      compassionate love and firm reliance on your promises. Have pity on us in times of adversities and comfort us in
+      our calamities, that even the unbelievers may know that you are the recompense of the humble, the defense of the
+      helpless, and the strength of those who trust in you. Grant this in the Name of Jesus the Lord.
+
+
+      (Mention your request here)
+
+
+      Our Father, Hail Mary, Glory Be.
+
+
+      ---
+
+
+      **Day 7**
+
+
+      O God, in your infinite tenderness you have been pleased to regard the prayer of your servant Rita, and to grant
+      to her supplication that which is impossible to human foresight, skill, and effort, as rewards for her
+      compassionate love and firm reliance on your promises. Have pity on us in times of adversities and comfort us in
+      our calamities, that even the unbelievers may know that you are the recompense of the humble, the defense of the
+      helpless, and the strength of those who trust in you. Grant this in the Name of Jesus the Lord.
+
+
+      (Mention your request here)
+
+
+      Our Father, Hail Mary, Glory Be.
+
+
+      ---
+
+
+      **Day 8**
+
+
+      O God, in your infinite tenderness you have been pleased to regard the prayer of your servant Rita, and to grant
+      to her supplication that which is impossible to human foresight, skill, and effort, as rewards for her
+      compassionate love and firm reliance on your promises. Have pity on us in times of adversities and comfort us in
+      our calamities, that even the unbelievers may know that you are the recompense of the humble, the defense of the
+      helpless, and the strength of those who trust in you. Grant this in the Name of Jesus the Lord.
+
+
+      (Mention your request here)
+
+
+      Our Father, Hail Mary, Glory Be.
+
+
+      ---
+
+
+      **Day 9**
+
+
+      O God, in your infinite tenderness you have been pleased to regard the prayer of your servant Rita, and to grant
+      to her supplication that which is impossible to human foresight, skill, and effort, as rewards for her
+      compassionate love and firm reliance on your promises. Have pity on us in times of adversities and comfort us in
+      our calamities, that even the unbelievers may know that you are the recompense of the humble, the defense of the
+      helpless, and the strength of those who trust in you. Grant this in the Name of Jesus the Lord.
+
+
+      (Mention your request here)
+
+
+      Our Father, Hail Mary, Glory Be.
+
+
+      ---
+
+
+      **Closing Prayer**
+
+
+      Thank you for joining in this novena. May the intercession of the saints strengthen your faith and bring you
+      closer to God. Through their prayers and example, may you find peace, hope, and grace in your daily life.
+
+
+      Glory be to the Father, and to the Son, and to the Holy Spirit, as it was in the beginning, is now, and ever shall
+      be, world without end. Amen.
+
+
+      Saints of God, pray for us.
     source: https://covenantcatholic.org/novenas/st-rita-novena/
 ---
 

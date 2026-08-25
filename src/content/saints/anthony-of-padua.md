@@ -92,6 +92,9 @@ prayers:
       Novena — begins June 4, nine days before the feast of Saint Anthony of Padua (June 13). Source:
       https://covenantcatholic.org/novenas/st-anthony-novena/
     text: >-
+      **Day 1**
+
+
       O holy St. Anthony, gentlest of saints, your love for God and charity for his creatures made you worthy while on
       earth to possess miraculous powers. Miracles waited for your word, which you were ever ready to speak for those in
       trouble or anxiety. Encouraged by this thought, I implore you to obtain for me the favor I seek in this novena.
@@ -111,6 +114,9 @@ prayers:
       ---
 
 
+      **Day 2**
+
+
       O miracle-working St. Anthony, remember that it never has been heard that you left without help or relief anyone
       who in his need had recourse to you. Animated now with the most lively confidence, even with full conviction of
       not being refused, I fly for refuge to thee, O most favored friend of the Infant Jesus. O eloquent preacher of the
@@ -125,6 +131,9 @@ prayers:
 
 
       ---
+
+
+      **Day 3**
 
 
       O purest St. Anthony, who through your angelic virtue was made worthy to be caressed by the Divine Child Jesus, to
@@ -146,6 +155,9 @@ prayers:
       ---
 
 
+      **Day 4**
+
+
       I salute and honor you, O powerful helper, St. Anthony. The Christian world confidently turns to you and
       experiences your tender compassion and powerful assistance in so many necessities and sufferings that I am
       encouraged in my need to seek your help in obtaining a favorable answer to my request for the favor I seek in this
@@ -164,6 +176,9 @@ prayers:
       ---
 
 
+      **Day 5**
+
+
       I salute you, St. Anthony, lily of purity, ornament and glory of Christianity. I salute you, great Saint, cherub
       of wisdom and seraph of divine love. I rejoice at the favors our Lord has so liberally bestowed upon you. In
       humility and confidence, I entreat you to help me, for I know that God has given you charity and pity, as well as
@@ -178,6 +193,9 @@ prayers:
 
 
       ---
+
+
+      **Day 6**
 
 
       O glorious St. Anthony, chosen by God to preach His Word, you received from Him the gift of tongues and the power
@@ -195,6 +213,9 @@ prayers:
       ---
 
 
+      **Day 7**
+
+
       O renowned champion of the faith of Christ, most holy St. Anthony, glorious for your many miracles, obtain for me
       from the bounty of my Lord and God the grace which I ardently seek in this novena.
 
@@ -209,6 +230,9 @@ prayers:
 
 
       ---
+
+
+      **Day 8**
 
 
       O holy St. Anthony, you have shown yourself so powerful in your intercession, so tender and so compassionate
@@ -229,6 +253,9 @@ prayers:
       ---
 
 
+      **Day 9**
+
+
       Saint Anthony, servant of Mary, glory of the Church, pray for our Holy Father, our bishops, our priests, our
       Religious Orders, that, through their pious zeal and apostolic labors, all may be united in faith and give greater
       glory to God. St. Anthony, helper of all who invoke you, pray for me and intercede for me before the throne of
@@ -239,6 +266,23 @@ prayers:
 
 
       Our Father, Hail Mary, Glory Be. Saint Anthony, pray for us!
+
+
+      ---
+
+
+      **Closing Prayer**
+
+
+      Thank you for joining in this novena. May the intercession of the saints strengthen your faith and bring you
+      closer to God. Through their prayers and example, may you find peace, hope, and grace in your daily life.
+
+
+      Glory be to the Father, and to the Son, and to the Holy Spirit, as it was in the beginning, is now, and ever shall
+      be, world without end. Amen.
+
+
+      Saints of God, pray for us.
     source: https://covenantcatholic.org/novenas/st-anthony-novena/
 relatedSaints:
   - name: Francis of Assisi

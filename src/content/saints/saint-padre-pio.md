@@ -41,6 +41,9 @@ prayers:
       Novena — September 14 (9 days before feast day), nine days before the feast of Saint Padre Pio (September 23).
       Source: https://covenantcatholic.org/novenas/padre-pio-novena/
     text: >-
+      **Day 1**
+
+
       Beloved Saint Padre Pio of Pietrelcina, who bore on your body the signs of the Passion of Our Lord Jesus Christ,
       you took the Cross to the ends of the world while enduring the physical and moral sufferings that scourged your
       body in continuous martyrdom. We beg you to pray to God for us, that each of us may accept the crosses of our
@@ -52,6 +55,9 @@ prayers:
 
 
       ---
+
+
+      **Day 2**
 
 
       Saint Pio of Pietrelcina, who is now with Our Lord Jesus, you who knew how to resist the temptations, blows, and
@@ -66,6 +72,9 @@ prayers:
       ---
 
 
+      **Day 3**
+
+
       Most virtuous Saint Pio of Pietrelcina, you who really love Our Lady, from whom you received daily graces and
       consolations: we implore you to pray to the Blessed Mother for us while placing in her hands our sins and
       faithless prayers so that, as happened at Cana in Galilee, her Son may heed His Mother and have our names written
@@ -76,6 +85,9 @@ prayers:
 
 
       ---
+
+
+      **Day 4**
 
 
       Most chaste Saint Pio of Pietrelcina, who so loved and taught us to love the Holy Guardian Angel that served you
@@ -90,6 +102,9 @@ prayers:
       ---
 
 
+      **Day 5**
+
+
       Most prudent Saint Pio of Pietrelcina, who so loved and taught us to love the souls in Purgatory; you who offered
       yourself as a victim to atone for their sins; pray to God Our Lord to place in our hearts feelings of compassion
       and love for these holy souls. We too will help the souls in Purgatory and will reduce their time of banishment
@@ -100,6 +115,9 @@ prayers:
 
 
       ---
+
+
+      **Day 6**
 
 
       Most obedient Saint Pio of Pietrelcina, you who loved the sick even more than yourself by seeing Jesus in them;
@@ -114,6 +132,9 @@ prayers:
       ---
 
 
+      **Day 7**
+
+
       Most blessed Saint Pio of Pietrelcina, you who have accomplished God's plan of salvation and have offered your
       sufferings to free sinners worldwide from the claws of Satan, pray to God for unbelievers so they may acquire a
       great and true faith and be converted, repenting from the depth of their hearts; for people with little faith to
@@ -124,6 +145,9 @@ prayers:
 
 
       ---
+
+
+      **Day 8**
 
 
       Most pure Saint Pio of Pietrelcina, you who so loved your spiritual children as to buy many of them at the cost of
@@ -138,6 +162,9 @@ prayers:
       ---
 
 
+      **Day 9**
+
+
       Humble Padre Pio of Pietrelcina, you who are truly loved by the Holy Mother Church, pray to God, the Lord of
       prosperous harvests, to send out workers into His harvest so that we may have holy priests with strength and
       divine inspiration. We also beseech you to intercede with the Blessed Virgin Mary so that she will lead all men to
@@ -145,6 +172,23 @@ prayers:
 
 
       Padre Pio, pray for us! Our Father, Hail Mary, Glory Be.
+
+
+      ---
+
+
+      **Closing Prayer**
+
+
+      Thank you for joining in this novena. May the intercession of the saints strengthen your faith and bring you
+      closer to God. Through their prayers and example, may you find peace, hope, and grace in your daily life.
+
+
+      Glory be to the Father, and to the Son, and to the Holy Spirit, as it was in the beginning, is now, and ever shall
+      be, world without end. Amen.
+
+
+      Saints of God, pray for us.
     source: https://covenantcatholic.org/novenas/padre-pio-novena/
 ---
 

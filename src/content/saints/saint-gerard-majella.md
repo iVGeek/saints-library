@@ -54,25 +54,7 @@ prayers:
       Novena — October 7 (9 days before feast day), nine days before the feast of Saint Gerard Majella (October 16).
       Source: https://covenantcatholic.org/novenas/saint-gerard-novena/
     text: >-
-      O great Saint Gerard, beloved servant of Jesus Christ, perfect imitator of your meek and humble Savior, and
-      devoted child of Mother of God, enkindle within my heart one spark of that heavenly fire of charity which glowed
-      in your heart and made you an angel of love.
-
-
-      (Mention your request here)
-
-
-      O glorious Saint Gerard, because when falsely accused of crime, you did bear, like your Divine Master, without
-      murmur or complaint, the calumnies of wicked men, you have been raised up by God as the patron and protector of
-      expectant mothers. Preserve me from danger and from the excessive pains accompanying childbirth, and shield the
-      child which I now carry, that it may see the light of day and receive the purifying and life-giving waters of
-      baptism through Jesus Christ our Lord. Amen.
-
-
-      Our Father, Hail Mary, Glory Be.
-
-
-      ---
+      **Day 1**
 
 
       O great Saint Gerard, beloved servant of Jesus Christ, perfect imitator of your meek and humble Savior, and
@@ -96,25 +78,7 @@ prayers:
       ---
 
 
-      O great Saint Gerard, beloved servant of Jesus Christ, perfect imitator of your meek and humble Savior, and
-      devoted child of Mother of God, enkindle within my heart one spark of that heavenly fire of charity which glowed
-      in your heart and made you an angel of love.
-
-
-      (Mention your request here)
-
-
-      O glorious Saint Gerard, because when falsely accused of crime, you did bear, like your Divine Master, without
-      murmur or complaint, the calumnies of wicked men, you have been raised up by God as the patron and protector of
-      expectant mothers. Preserve me from danger and from the excessive pains accompanying childbirth, and shield the
-      child which I now carry, that it may see the light of day and receive the purifying and life-giving waters of
-      baptism through Jesus Christ our Lord. Amen.
-
-
-      Our Father, Hail Mary, Glory Be.
-
-
-      ---
+      **Day 2**
 
 
       O great Saint Gerard, beloved servant of Jesus Christ, perfect imitator of your meek and humble Savior, and
@@ -138,25 +102,7 @@ prayers:
       ---
 
 
-      O great Saint Gerard, beloved servant of Jesus Christ, perfect imitator of your meek and humble Savior, and
-      devoted child of Mother of God, enkindle within my heart one spark of that heavenly fire of charity which glowed
-      in your heart and made you an angel of love.
-
-
-      (Mention your request here)
-
-
-      O glorious Saint Gerard, because when falsely accused of crime, you did bear, like your Divine Master, without
-      murmur or complaint, the calumnies of wicked men, you have been raised up by God as the patron and protector of
-      expectant mothers. Preserve me from danger and from the excessive pains accompanying childbirth, and shield the
-      child which I now carry, that it may see the light of day and receive the purifying and life-giving waters of
-      baptism through Jesus Christ our Lord. Amen.
-
-
-      Our Father, Hail Mary, Glory Be.
-
-
-      ---
+      **Day 3**
 
 
       O great Saint Gerard, beloved servant of Jesus Christ, perfect imitator of your meek and humble Savior, and
@@ -180,25 +126,7 @@ prayers:
       ---
 
 
-      O great Saint Gerard, beloved servant of Jesus Christ, perfect imitator of your meek and humble Savior, and
-      devoted child of Mother of God, enkindle within my heart one spark of that heavenly fire of charity which glowed
-      in your heart and made you an angel of love.
-
-
-      (Mention your request here)
-
-
-      O glorious Saint Gerard, because when falsely accused of crime, you did bear, like your Divine Master, without
-      murmur or complaint, the calumnies of wicked men, you have been raised up by God as the patron and protector of
-      expectant mothers. Preserve me from danger and from the excessive pains accompanying childbirth, and shield the
-      child which I now carry, that it may see the light of day and receive the purifying and life-giving waters of
-      baptism through Jesus Christ our Lord. Amen.
-
-
-      Our Father, Hail Mary, Glory Be.
-
-
-      ---
+      **Day 4**
 
 
       O great Saint Gerard, beloved servant of Jesus Christ, perfect imitator of your meek and humble Savior, and
@@ -222,6 +150,9 @@ prayers:
       ---
 
 
+      **Day 5**
+
+
       O great Saint Gerard, beloved servant of Jesus Christ, perfect imitator of your meek and humble Savior, and
       devoted child of Mother of God, enkindle within my heart one spark of that heavenly fire of charity which glowed
       in your heart and made you an angel of love.
@@ -238,6 +169,119 @@ prayers:
 
 
       Our Father, Hail Mary, Glory Be.
+
+
+      ---
+
+
+      **Day 6**
+
+
+      O great Saint Gerard, beloved servant of Jesus Christ, perfect imitator of your meek and humble Savior, and
+      devoted child of Mother of God, enkindle within my heart one spark of that heavenly fire of charity which glowed
+      in your heart and made you an angel of love.
+
+
+      (Mention your request here)
+
+
+      O glorious Saint Gerard, because when falsely accused of crime, you did bear, like your Divine Master, without
+      murmur or complaint, the calumnies of wicked men, you have been raised up by God as the patron and protector of
+      expectant mothers. Preserve me from danger and from the excessive pains accompanying childbirth, and shield the
+      child which I now carry, that it may see the light of day and receive the purifying and life-giving waters of
+      baptism through Jesus Christ our Lord. Amen.
+
+
+      Our Father, Hail Mary, Glory Be.
+
+
+      ---
+
+
+      **Day 7**
+
+
+      O great Saint Gerard, beloved servant of Jesus Christ, perfect imitator of your meek and humble Savior, and
+      devoted child of Mother of God, enkindle within my heart one spark of that heavenly fire of charity which glowed
+      in your heart and made you an angel of love.
+
+
+      (Mention your request here)
+
+
+      O glorious Saint Gerard, because when falsely accused of crime, you did bear, like your Divine Master, without
+      murmur or complaint, the calumnies of wicked men, you have been raised up by God as the patron and protector of
+      expectant mothers. Preserve me from danger and from the excessive pains accompanying childbirth, and shield the
+      child which I now carry, that it may see the light of day and receive the purifying and life-giving waters of
+      baptism through Jesus Christ our Lord. Amen.
+
+
+      Our Father, Hail Mary, Glory Be.
+
+
+      ---
+
+
+      **Day 8**
+
+
+      O great Saint Gerard, beloved servant of Jesus Christ, perfect imitator of your meek and humble Savior, and
+      devoted child of Mother of God, enkindle within my heart one spark of that heavenly fire of charity which glowed
+      in your heart and made you an angel of love.
+
+
+      (Mention your request here)
+
+
+      O glorious Saint Gerard, because when falsely accused of crime, you did bear, like your Divine Master, without
+      murmur or complaint, the calumnies of wicked men, you have been raised up by God as the patron and protector of
+      expectant mothers. Preserve me from danger and from the excessive pains accompanying childbirth, and shield the
+      child which I now carry, that it may see the light of day and receive the purifying and life-giving waters of
+      baptism through Jesus Christ our Lord. Amen.
+
+
+      Our Father, Hail Mary, Glory Be.
+
+
+      ---
+
+
+      **Day 9**
+
+
+      O great Saint Gerard, beloved servant of Jesus Christ, perfect imitator of your meek and humble Savior, and
+      devoted child of Mother of God, enkindle within my heart one spark of that heavenly fire of charity which glowed
+      in your heart and made you an angel of love.
+
+
+      (Mention your request here)
+
+
+      O glorious Saint Gerard, because when falsely accused of crime, you did bear, like your Divine Master, without
+      murmur or complaint, the calumnies of wicked men, you have been raised up by God as the patron and protector of
+      expectant mothers. Preserve me from danger and from the excessive pains accompanying childbirth, and shield the
+      child which I now carry, that it may see the light of day and receive the purifying and life-giving waters of
+      baptism through Jesus Christ our Lord. Amen.
+
+
+      Our Father, Hail Mary, Glory Be.
+
+
+      ---
+
+
+      **Closing Prayer**
+
+
+      Thank you for joining in this novena. May the intercession of the saints strengthen your faith and bring you
+      closer to God. Through their prayers and example, may you find peace, hope, and grace in your daily life.
+
+
+      Glory be to the Father, and to the Son, and to the Holy Spirit, as it was in the beginning, is now, and ever shall
+      be, world without end. Amen.
+
+
+      Saints of God, pray for us.
     source: https://covenantcatholic.org/novenas/saint-gerard-novena/
 ---
 

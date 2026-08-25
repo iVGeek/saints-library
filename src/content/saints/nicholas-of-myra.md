@@ -82,6 +82,23 @@ prayers:
       the trials I face. As the merchants and the poor alike found in you a protector, may I find in your intercession
       the help I need before the throne of God. O Saint Nicholas, who turned gold into grace, turn my heart toward
       charity and my life toward holiness. Amen.
+
+
+      ---
+
+
+      **Closing Prayer**
+
+
+      Thank you for joining in this novena. May the intercession of the saints strengthen your faith and bring you
+      closer to God. Through their prayers and example, may you find peace, hope, and grace in your daily life.
+
+
+      Glory be to the Father, and to the Son, and to the Holy Spirit, as it was in the beginning, is now, and ever shall
+      be, world without end. Amen.
+
+
+      Saints of God, pray for us.
 relatedSaints:
   - name: John the Evangelist
     slug: john-the-evangelist

@@ -22,6 +22,9 @@ prayers:
       of the Holy Spirit (Pentecost Sunday). Source:
       https://www.catholicculture.org/culture/liturgicalyear/prayers/view.cfm?id=1039
     text: >-
+      **Day 1**
+
+
       Come, Holy Spirit, fill the hearts of your faithful and kindle in them the fire of your love. Send forth your
       Spirit and they shall be created. And You shall renew the face of the earth.
 
@@ -31,6 +34,9 @@ prayers:
 
 
       ---
+
+
+      **Day 2**
 
 
       Holy Spirit, Lord of light, From Thy clear celestial height, Thy pure beaming radiance give.
@@ -44,6 +50,9 @@ prayers:
       ---
 
 
+      **Day 3**
+
+
       Come Thou Father of the poor, Come with treasures which endure, Come Thou light of all that live.
 
 
@@ -53,6 +62,9 @@ prayers:
 
 
       ---
+
+
+      **Day 4**
 
 
       Thou of all Consolers best, Visiting the troubled breast, Dost refreshing peace bestow.
@@ -66,6 +78,9 @@ prayers:
       ---
 
 
+      **Day 5**
+
+
       Thou in toil art comfort sweet, Pleasant coolness in the heat, Solace in the midst of woe.
 
 
@@ -74,6 +89,9 @@ prayers:
 
 
       ---
+
+
+      **Day 6**
 
 
       Light immortal, Light divine, Visit Thou these hearts of Thine And our inmost being fill.
@@ -86,6 +104,9 @@ prayers:
       ---
 
 
+      **Day 7**
+
+
       If Thou take Thy grace away, Nothing pure in man will stay; All his good is turned to ill.
 
 
@@ -96,6 +117,9 @@ prayers:
       ---
 
 
+      **Day 8**
+
+
       Heal our wounds, our strength renew; On our dryness pour Thy dew; Wash the stains of guilt away.
 
 
@@ -104,6 +128,9 @@ prayers:
 
 
       ---
+
+
+      **Day 9**
 
 
       Bend the stubborn heart and will, Melt the frozen, warm the chill, Guide the steps that go astray.
@@ -126,6 +153,23 @@ prayers:
       with the duties of our state, carry our daily crosses patiently, and grow daily in Christian perfection. Grant us,
       we beseech Thee through the same Divine Spirit, the intentions of this novena or what is most conducive to our
       eternal salvation and Thy glory. Amen.
+
+
+      ---
+
+
+      **Closing Prayer**
+
+
+      Thank you for joining in this novena. May the intercession of the saints strengthen your faith and bring you
+      closer to God. Through their prayers and example, may you find peace, hope, and grace in your daily life.
+
+
+      Glory be to the Father, and to the Son, and to the Holy Spirit, as it was in the beginning, is now, and ever shall
+      be, world without end. Amen.
+
+
+      Saints of God, pray for us.
     source: https://www.catholicculture.org/culture/liturgicalyear/prayers/view.cfm?id=1039
 ---
 

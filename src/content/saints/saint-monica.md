@@ -38,6 +38,9 @@ prayers:
       Novena — August 18 (9 days before feast day), nine days before the feast of Saint Monica (August 27). Source:
       https://catholicculture.org/culture/liturgicalyear/prayers/view.cfm?id=1039
     text: >-
+      **Day 1**
+
+
       O blessed Monica, mother of Augustine, who wept for the conversion of your son for many years with unwavering
       faith, intercede for me and my loved ones.
 
@@ -49,6 +52,9 @@ prayers:
 
 
       ---
+
+
+      **Day 2**
 
 
       O blessed Monica, who taught your son the ways of faith and never gave up praying for his conversion, help me to
@@ -64,6 +70,9 @@ prayers:
       ---
 
 
+      **Day 3**
+
+
       O blessed Monica, who endured great suffering in your marriage with patience and love, teach me to offer my
       difficulties to God and to trust in His providence.
 
@@ -75,6 +84,9 @@ prayers:
 
 
       ---
+
+
+      **Day 4**
 
 
       O blessed Monica, whose tears moved St. Ambrose to say "the son of so many tears cannot perish," continue to pray
@@ -90,6 +102,9 @@ prayers:
       ---
 
 
+      **Day 5**
+
+
       O blessed Monica, who died at Ostia while on a pilgrimage with your son Augustine, obtain for me the grace of a
       holy death and the joy of reunion with my loved ones in heaven.
 
@@ -101,6 +116,9 @@ prayers:
 
 
       ---
+
+
+      **Day 6**
 
 
       O blessed Monica, who is a model of perseverance in prayer, help me to never give up praying for my intentions and
@@ -116,6 +134,9 @@ prayers:
       ---
 
 
+      **Day 7**
+
+
       O blessed Monica, who loved God above all things and sought His will in every circumstance, inflame my heart with
       a greater love for God.
 
@@ -127,6 +148,9 @@ prayers:
 
 
       ---
+
+
+      **Day 8**
 
 
       O blessed Monica, who is patron of Alcoholics Anonymous, intercede for all those who struggle with addiction and
@@ -142,6 +166,9 @@ prayers:
       ---
 
 
+      **Day 9**
+
+
       O blessed Monica, who died in peace knowing that your son would one day become a great saint and Doctor of the
       Church, obtain for me the grace to trust in God's plan and to persevere in faith.
 
@@ -150,6 +177,23 @@ prayers:
 
 
       Our Father, Hail Mary, Glory Be. St. Monica, pray for us.
+
+
+      ---
+
+
+      **Closing Prayer**
+
+
+      Thank you for joining in this novena. May the intercession of the saints strengthen your faith and bring you
+      closer to God. Through their prayers and example, may you find peace, hope, and grace in your daily life.
+
+
+      Glory be to the Father, and to the Son, and to the Holy Spirit, as it was in the beginning, is now, and ever shall
+      be, world without end. Amen.
+
+
+      Saints of God, pray for us.
     source: https://catholicculture.org/culture/liturgicalyear/prayers/view.cfm?id=1039
 ---
 

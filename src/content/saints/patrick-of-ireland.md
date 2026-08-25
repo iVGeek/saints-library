@@ -100,6 +100,23 @@ prayers:
       evil that bind me and those I love. Watch over all who labor for the faith in dangerous places, and protect me
       from every spiritual harm. O Saint Patrick, who arose through the strength of heaven, intercede for me that I may
       arise each day in faith, hope, and love. Amen.
+
+
+      ---
+
+
+      **Closing Prayer**
+
+
+      Thank you for joining in this novena. May the intercession of the saints strengthen your faith and bring you
+      closer to God. Through their prayers and example, may you find peace, hope, and grace in your daily life.
+
+
+      Glory be to the Father, and to the Son, and to the Holy Spirit, as it was in the beginning, is now, and ever shall
+      be, world without end. Amen.
+
+
+      Saints of God, pray for us.
     source: https://www.catholicculture.org/culture/liturgicalyear/prayers/view.cfm?id=1039
 relatedSaints:
   - name: Michael the Archangel

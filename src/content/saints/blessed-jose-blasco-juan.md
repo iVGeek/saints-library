@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/c/c1/Carl_Albert%2C_a_Gypsy_man%2C_and_two_Gypsy_women._Spain%2C_1930s.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed José Blasco Juan
 honorific: Blessed
 summary: Member of the Claretians. Martyred in the Spanish Civil War.
@@ -17,6 +18,8 @@ canonizationStatus: Blessed
 vocation: []
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed José Blasco Juan
+imageCreditUrl: https://en.wikipedia.org/wiki/Romani%20people%20in%20Spain
 ---
 
 Member of the Claretians. Martyred in the Spanish Civil War.

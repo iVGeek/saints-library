@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/9/9c/ADAMELLO_-_PAPA_-_Giovanni_Paolo_II_-_panoramio_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Peter Paul Navarro
 honorific: Blessed
 summary: ' An imperial edict in 1614 expelled all foreig Joined the Jesuits in Naples, Italy in 1578. Ordained in Goa, India. Missionary to Japan. Became fluent in Japanese, and lived as much like a native as he could, wanting to show that Christianity was no threat to a Japanese lifestyle.'
@@ -23,6 +24,8 @@ vocation:
 religiousOrder: Jesuit
 martyr: false
 prayers: []
+imageAlt: Portrait of Blessed Peter Paul Navarro
+imageCreditUrl: https://en.wikipedia.org/wiki/Pope%20John%20Paul%20II
 ---
 
 Joined the Jesuits in Naples, Italy in 1578. Ordained in Goa, India. Missionary to Japan. Became fluent in Japanese, and lived as much like a native as he could, wanting to show that Christianity was no threat to a Japanese lifestyle.

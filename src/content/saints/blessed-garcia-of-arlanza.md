@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/9/98/Burgos_city_view_facing_south_east.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Garcia of Arlanza
 honorific: Blessed
 summary: >-
@@ -19,6 +20,8 @@ vocation:
   - Soldier
 martyr: false
 prayers: []
+imageAlt: Portrait of Blessed Garcia of Arlanza
+imageCreditUrl: https://en.wikipedia.org/wiki/Burgos
 ---
 
 Soldier. Monk. Abbot of Arlanza monastery, Burgos, Spain in 1039. Friend and counsellor of King Ferdinand I of Castile.

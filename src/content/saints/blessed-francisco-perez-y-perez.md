@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/d/d4/Catedral_Santa_Ana.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Francisco Pérez y Pérez
 honorific: Blessed
 summary: Member of the Carmelites of the Ancient Observance. Martyred in the Spanish Civil War.
@@ -20,6 +21,8 @@ vocation: []
 religiousOrder: Carmelite
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Francisco Pérez y Pérez
+imageCreditUrl: https://en.wikipedia.org/wiki/Diocese%20of%20Canarias
 ---
 
 Member of the Carmelites of the Ancient Observance. Martyred in the Spanish Civil War.

@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/e/e9/Paus_Johannes_Paulus_I_%28Bestanddeelnr_929-9074%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Margherita Tornielli
 honorific: Blessed
 summary: Poor Clare nun.
@@ -17,6 +18,8 @@ vocation:
   - Religious
 martyr: false
 prayers: []
+imageAlt: Portrait of Blessed Margherita Tornielli
+imageCreditUrl: https://en.wikipedia.org/wiki/Pope%20John%20Paul%20I
 ---
 
 Poor Clare nun.

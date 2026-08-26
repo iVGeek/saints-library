@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/7/74/AmbroseOfMilan_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed George Errington
 honorific: Blessed
 summary: Layman in the apostolic vicariate of England during a period of persecutions of Catholics. Martyr.
@@ -17,6 +18,8 @@ canonizationStatus: Blessed
 vocation: []
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed George Errington
+imageCreditUrl: https://en.wikipedia.org/wiki/Ambrose
 ---
 
 Layman in the apostolic vicariate of England during a period of persecutions of Catholics. Martyr.

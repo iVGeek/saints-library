@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/0/0d/EgliseSaintMartinLuch%C3%A9.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Pierre Frémond
 honorific: Blessed
 summary: Layman of the diocese of Angers, France. Martyred in the persecutions of the French Revolution.
@@ -17,6 +18,8 @@ canonizationStatus: Blessed
 vocation: []
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Pierre Frémond
+imageCreditUrl: https://en.wikipedia.org/wiki/Saint-Martin%20de%20Luch%C3%A9%20Church
 ---
 
 Layman of the diocese of Angers, France. Martyred in the persecutions of the French Revolution.

@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/8/8c/Tumba_de_San_Pedro_de_Jesus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed José Acosta Alemán
 honorific: Blessed
 summary: Vincentian priest. Martyred in the Spanish Civil War.
@@ -19,6 +20,8 @@ vocation:
   - Cardinal
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed José Acosta Alemán
+imageCreditUrl: https://en.wikipedia.org/wiki/Saints%20of%20the%20Cristero%20War
 ---
 
 Vincentian priest. Martyred in the Spanish Civil War.

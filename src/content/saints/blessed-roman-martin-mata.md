@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/1/16/Mariano_de_La_Mata_Aparico_003_BarrioDelaPuebla.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Román Martín Mata
 honorific: Blessed
 summary: Augustinian friar. Martyred in the Spanish Civil War.
@@ -18,6 +19,8 @@ vocation: []
 religiousOrder: Augustinian
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Román Martín Mata
+imageCreditUrl: https://en.wikipedia.org/wiki/Mariano%20de%20la%20Mata
 ---
 
 Augustinian friar. Martyred in the Spanish Civil War.

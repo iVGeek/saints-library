@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/4/4f/Frm_beatification_banner.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Louis Longuet
 honorific: Blessed
 summary: >-
@@ -22,6 +23,8 @@ vocation:
 religiousOrder: Carmelite
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Louis Longuet
+imageCreditUrl: https://en.wikipedia.org/wiki/Holy%20September%20Martyrs
 ---
 
 Ordained a priest in the archdiocese of Tours, France in 1781. Vicar of Néauphe at Séez, France. Canon of the cathedral of Saint Martin of Tours. Arrested on 10 August 1792 by the anti–Catholic forces of the French Revolution for “treason”. One of the Martyrs of September.

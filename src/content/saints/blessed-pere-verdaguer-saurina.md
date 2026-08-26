@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/f/fe/Beatificaciotarragona2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Pere Verdaguer Saurina
 honorific: Blessed
 summary: >-
@@ -20,6 +21,8 @@ vocation:
   - Priest
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Pere Verdaguer Saurina
+imageCreditUrl: https://en.wikipedia.org/wiki/522%20Spanish%20Martyrs
 ---
 
 Priest. Member of the Sons of the Holy Family. Prefect of the Marian congregation at Vilafranca del Penedès, Barcelona, Spain. Worked in the community school. Martyred in the Spanish Civil War.

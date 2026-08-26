@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/6/6c/Blessed_pacificus_of_ceredano.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Pacificus
 honorific: Blessed
 summary: >-
@@ -24,6 +25,8 @@ vocation: []
 religiousOrder: Franciscan
 martyr: false
 prayers: []
+imageAlt: Portrait of Blessed Pacificus
+imageCreditUrl: https://en.wikipedia.org/wiki/Pacificus%20of%20Ceredano
 ---
 
 Travelling musician, he was crowned a “prince of poets” in Rome, Italy by the Emperor, and lived a very dissolute life. He was brought to an active faith by the preaching of Saint Francis of Assisi, joining the Franciscan friars in 1212, he became one of the favourite travelling companions of Saint Francis and even set some of his writings to music. Saint Francis sent him to spread Franciscan spirituality and life in Paris, France in 1217. Entrusted by Pope Gregory IX with the spiritual direction of the Poor Clares in Siena, Italy in 1223. Spiritual leader of the Franciscans in northern France c.1230.

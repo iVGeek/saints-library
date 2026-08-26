@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/7/70/Bishop_Roger_Foys_preaches_at_an_ordination.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Roger of Ellant
 honorific: Blessed
 summary: >-
@@ -22,6 +23,8 @@ vocation:
   - Confessor
 martyr: false
 prayers: []
+imageAlt: Portrait of Blessed Roger of Ellant
+imageCreditUrl: https://en.wikipedia.org/wiki/Roger%20Joseph%20Foys
 ---
 
 Cistercian monk at Lorroyen-Berry, France. Founding abbot of a monastery at Ellent, archdiocese of Rheims, France in 1156. Known for his dedication to the monastic life, and his care for the area sick.

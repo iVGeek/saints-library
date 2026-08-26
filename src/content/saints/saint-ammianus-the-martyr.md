@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/a/a5/Sant_Art%C3%A8mi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Ammianus the Martyr
 honorific: Saint
 summary: Martyred in the persecutions of Maximian Herculeus.
@@ -14,6 +15,8 @@ vocation:
   - Monk
 martyr: true
 prayers: []
+imageAlt: Portrait of Saint Ammianus the Martyr
+imageCreditUrl: https://en.wikipedia.org/wiki/Artemius
 ---
 
 Martyred in the persecutions of Maximian Herculeus.

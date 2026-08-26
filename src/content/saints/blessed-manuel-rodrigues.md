@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/c/cd/Mocathedral.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Manuel Rodrigues
 honorific: Blessed
 summary: Jesuit friar. Missionary. Martyred by the Huguenot Jacques Sourie while en route to Brazil.
@@ -19,6 +20,9 @@ vocation:
 religiousOrder: Jesuit
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Manuel Rodrigues
+imageCreditUrl: >-
+  https://en.wikipedia.org/wiki/Catholic%20religious%20institutions%2C%20associations%2C%20and%20communities%20in%20Macau
 ---
 
 Jesuit friar. Missionary. Martyred by the Huguenot Jacques Sourie while en route to Brazil.

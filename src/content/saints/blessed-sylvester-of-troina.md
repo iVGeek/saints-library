@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/d/db/Operation_Tidal_Wave_in_1943.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Sylvester of Troina
 honorific: Blessed
 summary: >-
@@ -24,6 +25,8 @@ vocation:
   - Hermit
 martyr: false
 prayers: []
+imageAlt: Portrait of Blessed Sylvester of Troina
+imageCreditUrl: https://en.wikipedia.org/wiki/August%201943
 ---
 
 Born to the local nobility, as a young man he became a twelfth-century monk in the Basilian monastery of Saint Michael the Archangel in Troina, Sicily, Italy, where he became known for his charity. Lived briefly at the monastery of San Filippo di Fragalà near Frazzanò, Italy. Ordained a priest by Pope Adrian VI in Rome, Italy c.1155. Soon after he was chosen served as abbot of his house. In later life he resigned his position to live as a prayerful hermit in a cell in a wooded area near the monastery and next to the oratory of Saint Barthomomew.

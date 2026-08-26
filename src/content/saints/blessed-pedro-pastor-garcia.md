@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/8/8c/Tumba_de_San_Pedro_de_Jesus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Pedro Pastor García
 honorific: Blessed
 summary: Monk. Member of the Hospitallers of Saint John of God. Martyred in the Spanish Civil War.
@@ -20,6 +21,8 @@ vocation:
   - Monk
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Pedro Pastor García
+imageCreditUrl: https://en.wikipedia.org/wiki/Saints%20of%20the%20Cristero%20War
 ---
 
 Monk. Member of the Hospitallers of Saint John of God. Martyred in the Spanish Civil War.

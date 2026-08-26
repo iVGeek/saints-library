@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/1/18/Saint-Laurent_sur_S%C3%A8vre.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Laurent
 honorific: Blessed
 summary: Priest in the archdiocese of Paris, France. One of the Martyrs of September.
@@ -15,6 +16,8 @@ vocation:
   - Priest
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Laurent
+imageCreditUrl: https://en.wikipedia.org/wiki/Saint-Laurent-sur-S%C3%A8vre
 ---
 
 Priest in the archdiocese of Paris, France. One of the Martyrs of September.

@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/7/7e/LocationPuertoRico.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Manuela Prensa Cano
 honorific: Blessed
 summary: Conceptionist nun. Martyred in the Spanish Civil War.
@@ -21,6 +22,8 @@ vocation:
   - Cardinal
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Manuela Prensa Cano
+imageCreditUrl: https://en.wikipedia.org/wiki/List%20of%20Puerto%20Ricans
 ---
 
 Conceptionist nun. Martyred in the Spanish Civil War.

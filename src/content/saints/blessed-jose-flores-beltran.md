@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/5/53/Mexico_city_Insigne_y_Nacional_Bas%C3%ADlica_de_Santa_Mar%C3%ADa_de_Guadalupe.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed José Flores Beltrán
 honorific: Blessed
 summary: >-
@@ -20,6 +21,8 @@ vocation:
   - Cardinal
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed José Flores Beltrán
+imageCreditUrl: https://en.wikipedia.org/wiki/Basilica%20of%20Our%20Lady%20of%20Guadalupe
 ---
 
 Ordained a priest in the diocese of Almería, Spain in December 1899. he served over 30 years in the parish of Cuevas de Almanzora. Martyred in the Spanish Civil War.

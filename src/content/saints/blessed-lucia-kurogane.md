@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/5/53/1899._Tzarevich_Dmitry_by_M._Nesterov.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Lucia Kurogane
 honorific: Blessed
 summary: >-
@@ -20,6 +21,8 @@ vocation:
   - Cardinal
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Lucia Kurogane
+imageCreditUrl: https://en.wikipedia.org/wiki/List%20of%20child%20saints
 ---
 
 Young daughter of Blessed Thecla Kurogane and Blessed Vincentius Kurogane Ichibiyoe in the diocese of Niigata, Japan. Martyr.

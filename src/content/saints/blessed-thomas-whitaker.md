@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/en/d/d6/Real_Colegio_de_Ingleses_Valladolid.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Thomas Whitaker
 honorific: Blessed
 summary: >-
@@ -23,6 +24,8 @@ vocation:
   - Priest
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Thomas Whitaker
+imageCreditUrl: https://en.wikipedia.org/wiki/English%20College%2C%20Valladolid
 ---
 
 Son of Thomas, a schoolmaster, and Helen. Studied at Saint Omer and in Valladolid, Spain. Ordained at Valladolid in 1638. He returned to England where he spent five years ministering to covert Catholics in Lancashire. Arrested, imprisoned from 7 August 1643 to 1646, and condemned to death for the crime of being a priest. One of the Martyrs of England, Scotland, and Wales.

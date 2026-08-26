@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/9/96/Hugh-faringdon-belmont-stained-glass.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed William Thomson
 honorific: Blessed
 summary: >-
@@ -23,6 +24,8 @@ vocation:
   - Priest
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed William Thomson
+imageCreditUrl: https://en.wikipedia.org/wiki/Hugh%20Faringdon
 ---
 
 Studied at the English College in Rheims, France. Ordained, he returned to minister to covert Catholics in England during a period of persecution. Executed for the crime of being a priest. Martyr.

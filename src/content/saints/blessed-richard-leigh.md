@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/3/3f/Official_portrait_of_Rt_Hon_Sir_Edward_Leigh_MP_crop_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Richard Leigh
 honorific: Blessed
 summary: >-
@@ -25,6 +26,8 @@ vocation:
   - Monk
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Richard Leigh
+imageCreditUrl: https://en.wikipedia.org/wiki/Edward%20Leigh
 ---
 
 Educated at Rheims and Rome. Ordained at Rome in February 1586. Returned to England as a home missioner in 1586. Arrested in London in 1586 for his faith, and exiled. Undaunted, he returned, and was arrested in 1588 and imprisoned in the Tower of London in June. Convicted down the Old Bailey for the crime of priesthood. Martyr.

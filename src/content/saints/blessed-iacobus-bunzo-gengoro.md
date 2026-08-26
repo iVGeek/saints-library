@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/4/48/Painting_of_the_Nagasaki_Martyrs.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Iacobus Bunzo Gengoro
 honorific: Blessed
 summary: >-
@@ -15,6 +16,8 @@ canonizationStatus: Blessed
 vocation: []
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Iacobus Bunzo Gengoro
+imageCreditUrl: https://en.wikipedia.org/wiki/205%20Martyrs%20of%20Japan
 ---
 
 Young boy in the diocese of Fukuoka, Japan. Son of Blessed Thomas and Maria Gengoro. Member of the Confraternity of the Rosary. Martyred at the age of two in the persecutions of governor Yetsundo.

@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/b/b2/St_Thomas_Aquinas_Cathedral_-_panoramio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Thomas Abel
 honorific: Blessed
 summary: >-
@@ -22,6 +23,8 @@ canonizationStatus: Blessed
 vocation: []
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Thomas Abel
+imageCreditUrl: https://en.wikipedia.org/wiki/Saint%20Thomas%20Aquinas%20Cathedral
 ---
 
 Thomas received his Doctor of Divinity from Oxford University in England. Priest. Chaplain to Queen Catherine of Aragon, wife of King Henry VIII. He delivered the letter of Emperor Charles V that sought the permission and blessing of Pope Julius II for the marriage of Henry and Catherine. He confided to the emperor that Catherine had been coerced into writing the letter; Charles refused to pass on the request to the pope, and Thomas returned empty-handed to England.

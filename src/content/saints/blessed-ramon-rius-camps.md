@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/7/72/Antoni_Gaudi_1878.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Ramon Rius Camps
 honorific: Blessed
 summary: Member of the Claretians, professed on 15 August 1929/a>. Martyred in the Spanish Civil War.
@@ -19,6 +20,8 @@ vocation:
   - Cardinal
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Ramon Rius Camps
+imageCreditUrl: https://en.wikipedia.org/wiki/Antoni%20Gaud%C3%AD
 ---
 
 Member of the Claretians, professed on 15 August 1929/a>. Martyred in the Spanish Civil War.

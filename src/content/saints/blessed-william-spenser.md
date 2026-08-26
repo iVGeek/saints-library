@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/7/71/The_Faerie_Queene_frontispiece.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed William Spenser
 honorific: Blessed
 summary: >-
@@ -21,6 +22,8 @@ vocation:
   - Priest
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed William Spenser
+imageCreditUrl: https://en.wikipedia.org/wiki/The%20Faerie%20Queene
 ---
 
 Raised in an Anglican family. Studied at Trinity College, Oxford, England but left in 1580 and joined the Catholic Church in 1582. Studied at the seminary in Rheims, France. Ordained as a priest in the apostolic vicariate of England on 24 September 1583. Father William returned to England to ministery to covert Catholics on 29 August 1584 where he brought his family to the Church. For a while Blessed Robert Hardesty hid and supported him. William turned himself in to authorities in York for the crime of being a priest in England so he could minister to other prisoners. Martyr.

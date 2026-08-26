@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/4/48/Painting_of_the_Nagasaki_Martyrs.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Leo Tanaka
 honorific: Blessed
 summary: Layman catechist in the Archdiocese of Nagasaki, Japan. Martyr.
@@ -21,6 +22,8 @@ vocation: []
 religiousOrder: Jesuit
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Leo Tanaka
+imageCreditUrl: https://en.wikipedia.org/wiki/205%20Martyrs%20of%20Japan
 ---
 
 Layman catechist in the Archdiocese of Nagasaki, Japan. Martyr.

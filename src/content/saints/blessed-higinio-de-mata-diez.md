@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/0/08/Roma_martires_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Higinio de Mata Díez
 honorific: Blessed
 summary: >-
@@ -21,6 +22,8 @@ vocation: []
 religiousOrder: Salesian
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Higinio de Mata Díez
+imageCreditUrl: https://en.wikipedia.org/wiki/498%20Spanish%20Martyrs
 ---
 
 Cousin of Blessed Juan de Mata Díez. Higinio grew up a pious child, attending Mass and praying the Rosary daily. At age 25 he began working at house of the Salesians of Don Bosco in Carabanchal Alto, Spain, and became a postulent to the Order. When the anti–Christian persecutions of the Spanish Civil War began, he went into hiding, but was found and murdered. Martyr.

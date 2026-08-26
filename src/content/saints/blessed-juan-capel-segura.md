@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/6/69/Bas%C3%ADlica_Catedral_Metropolitana_de_Lima_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Juan Capel Segura
 honorific: Blessed
 summary: Priest of the diocese of Almería, Spain. Martyred in the Spanish Civil War.
@@ -19,6 +20,8 @@ vocation:
   - Cardinal
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Juan Capel Segura
+imageCreditUrl: https://en.wikipedia.org/wiki/Lima
 ---
 
 Priest of the diocese of Almería, Spain. Martyred in the Spanish Civil War.

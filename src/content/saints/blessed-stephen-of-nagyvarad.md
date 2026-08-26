@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/c/c8/King_St._Ladislaus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Stephen of Nagyvárad
 honorific: Blessed
 summary: >-
@@ -26,6 +27,8 @@ vocation: []
 religiousOrder: Franciscan
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Stephen of Nagyvárad
+imageCreditUrl: https://en.wikipedia.org/wiki/Ladislaus%20I%20of%20Hungary
 ---
 
 Franciscan friar. Imprisoned for his faith, he escaped and sought shelter in Sarai Batu (modern Selitrennoye, Russia). To save himself from his persecutors, he denied that he was Christian and announced his conversion to Islam. He immediately repented this apostasy, declared that he was a Christian, and was executed. Martyr.

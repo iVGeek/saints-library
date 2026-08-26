@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/4/4f/Frm_beatification_banner.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed François-Urbain Salins de Niart
 honorific: Blessed
 summary: Priest of the diocese of Pamiers, France. One of the Martyrs of September.
@@ -19,6 +20,8 @@ vocation:
 religiousOrder: Carmelite
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed François-Urbain Salins de Niart
+imageCreditUrl: https://en.wikipedia.org/wiki/Holy%20September%20Martyrs
 ---
 
 Priest of the diocese of Pamiers, France. One of the Martyrs of September.

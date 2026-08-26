@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/4/4f/Frm_beatification_banner.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Pierre-Florent Leclercq
 honorific: Blessed
 summary: Deacon in the diocese of Amiens, France. One of the Martyrs of September.
@@ -20,6 +21,8 @@ vocation:
   - Deacon
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Pierre-Florent Leclercq
+imageCreditUrl: https://en.wikipedia.org/wiki/Holy%20September%20Martyrs
 ---
 
 Deacon in the diocese of Amiens, France. One of the Martyrs of September.

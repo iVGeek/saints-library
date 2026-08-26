@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/3/32/Vaucelles_facade_arriere_palais_abbatial.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 name: Blessed Raoul of Vaucelles
 honorific: Blessed
 summary: >-
@@ -23,6 +24,9 @@ vocation:
 religiousOrder: Benedictine
 martyr: false
 prayers: []
+imageAlt: Portrait of Blessed Raoul of Vaucelles
+imageCredit: Ottaviani serge
+imageCreditUrl: https://commons.wikimedia.org/wiki/File:Vaucelles%20facade%20arriere%20palais%20abbatial.jpg
 ---
 
 Benedictine Cistercian monk and spiritual student of Saint Bernard at Clairvaux Abbey. Sent by Bernard to found and govern a Cistercian abbey of Vaucelles, diocese of Cambrai, France.

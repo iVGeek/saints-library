@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/1/1c/LuikVlag.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Stephen of Liège
 honorific: Blessed
 summary: >-
@@ -17,6 +18,8 @@ vocation:
 religiousOrder: Benedictine
 martyr: false
 prayers: []
+imageAlt: Portrait of Blessed Stephen of Liège
+imageCreditUrl: https://en.wikipedia.org/wiki/Prince-Bishopric%20of%20Li%C3%A8ge
 ---
 
 Canon of Saint Denis, Liège, Belgium. Benedictine monk at Saint Vannes monastery, Verdun, France. Founded the monastery of Saint Laurence at Liège, and served as its first abbot.

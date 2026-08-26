@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/b/b1/Abbaye_d%27Aulne_%28DSCF7748%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Simon of Aulne
 honorific: Blessed
 summary: >-
@@ -19,6 +20,8 @@ vocation:
   - Priest
 martyr: false
 prayers: []
+imageAlt: Portrait of Blessed Simon of Aulne
+imageCreditUrl: https://en.wikipedia.org/wiki/Aulne%20Abbey
 ---
 
 Born to nobility, related to the counts of Guelders. At age 16 he became a Cistercian lay brother at the Aulne Abbey in the diocese of Liege, Belgium. A mystic and visionary, known to fall into ecstasies during prayer. His reputation for holiness was such that Pope Innocent III summoned him to Rome in 1215 to act as papal advisor during the Fourth Lateran Council. Pope Innocent wanted to ordained Simon a priest, but he declined and asked permission to return to his life in Aulne.

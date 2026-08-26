@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/f/f4/San_Ginesio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Giacomo Brunforte of Falerone
 honorific: Blessed
 summary: Franciscan friar and priest. Confessor of Blessed Giovanni della Verna.
@@ -19,6 +20,8 @@ vocation:
 religiousOrder: Franciscan
 martyr: false
 prayers: []
+imageAlt: Portrait of Blessed Giacomo Brunforte of Falerone
+imageCreditUrl: https://en.wikipedia.org/wiki/San%20Ginesio
 ---
 
 Franciscan friar and priest. Confessor of Blessed Giovanni della Verna.

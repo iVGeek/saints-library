@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/c/c0/Pampuri.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Richard Sergeant
 honorific: Blessed
 summary: >-
@@ -24,6 +25,8 @@ vocation:
   - Deacon
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Richard Sergeant
+imageCreditUrl: https://en.wikipedia.org/wiki/Richard%20Pampuri
 ---
 
 Son of Thomas and Katherine Sergeant. Graduated Oxford University c.1570. Seminarian at the English College in Rheims, France on 25 July 1581. Deacon at Soissons, France on 9 June 1582. Ordained at Laon, France on 7 April 1583. Returned to England on 10 September 1583 to minister to covert Catholics, hiding as a layman, using the names Richard Lee  or Lea, and Richard Long or Longe. Arrested and martyred for the crime of being a priest. One of the Martyrs of England, Scotland and Wales.

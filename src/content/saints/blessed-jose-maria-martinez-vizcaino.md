@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/a/a1/Maria_Callas_1958.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed José María Martínez Vizcaíno
 honorific: Blessed
 summary: Priest of the diocese of Almeria Spain. Martyred in the Spanish Civil War.
@@ -19,6 +20,8 @@ vocation:
   - Cardinal
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed José María Martínez Vizcaíno
+imageCreditUrl: https://en.wikipedia.org/wiki/Maria%20(given%20name)
 ---
 
 Priest of the diocese of Almeria Spain. Martyred in the Spanish Civil War.

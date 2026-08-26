@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/0/0f/Cour_honneur_abbaye_Igny_06730.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Louis Gastineau
 honorific: Blessed
 summary: Priest in the diocese of Laval, France. Martyred in the French Revolution.
@@ -19,6 +20,8 @@ vocation:
   - Monk
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Louis Gastineau
+imageCreditUrl: https://en.wikipedia.org/wiki/Igny%20Abbey
 ---
 
 Priest in the diocese of Laval, France. Martyred in the French Revolution.

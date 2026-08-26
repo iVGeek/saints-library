@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/5/52/Beatification_of_John_Paul_II_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Klara Schramm
 honorific: Blessed
 summary: >-
@@ -24,6 +25,8 @@ vocation:
   - Soldier
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Klara Schramm
+imageCreditUrl: https://en.wikipedia.org/wiki/List%20of%20Polish%20Catholic%20saints
 ---
 
 A member of the Sisters of Saint Elizabeth, making her first profession on 16 August 1915 and her perpetual profession on 29 June 1924. She served in Ramultowice, Szklarska Poreba, Walbrzych-Sobiecin, and Godzieszów, where she was the superior of her house. When the village was overrun by Soviet soldiers near the end of World War II, she tried to hide from them on the farm of Pawel and Maria Baum. However, they found her, and when she tried to fight off a would-be rapist soldier, she, the Baums and some other people hiding there were murdered. Martyr.

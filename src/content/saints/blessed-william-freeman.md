@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/7/76/Blessed-william-freeman.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed William Freeman
 honorific: Blessed
 summary: >-
@@ -19,6 +20,8 @@ vocation:
   - Priest
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed William Freeman
+imageCreditUrl: https://en.wikipedia.org/wiki/William%20Freeman%20(martyr)
 ---
 
 Priest in the Vicariate Apostlic of England. Martyred in the persecutions of Queen Elizabeth I for the crime of being a priest.

@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/b/bc/Nikki_Sixx.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Mariano Brandi
 honorific: Blessed
 summary: Franciscan tertiary. Noted in Franciscan writings for his effectiveness against demons.
@@ -16,6 +17,8 @@ vocation: []
 religiousOrder: Franciscan
 martyr: false
 prayers: []
+imageAlt: Portrait of Blessed Mariano Brandi
+imageCreditUrl: https://en.wikipedia.org/wiki/Nikki%20Sixx
 ---
 
 Franciscan tertiary. Noted in Franciscan writings for his effectiveness against demons.

@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/8/86/Ignatius-Loyola.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Francisco de Sales Gómez Gil
 honorific: Blessed
 summary: Married layman in the diocese of Córdoba, Spain. Martyred in the Spanish Civil War.
@@ -18,6 +19,8 @@ vocation:
   - Cardinal
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Francisco de Sales Gómez Gil
+imageCreditUrl: https://en.wikipedia.org/wiki/List%20of%20saints%20of%20the%20Society%20of%20Jesus
 ---
 
 Married layman in the diocese of Córdoba, Spain. Martyred in the Spanish Civil War.

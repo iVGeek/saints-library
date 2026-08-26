@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/7/7c/Location_Nordic_Council.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Kjeld of Viborg
 honorific: Blessed
 summary: >-
@@ -25,6 +26,8 @@ patronage:
   - Viborg, Denmark
 martyr: false
 prayers: []
+imageAlt: Portrait of Blessed Kjeld of Viborg
+imageCreditUrl: https://en.wikipedia.org/wiki/List%20of%20Scandinavian%20saints
 ---
 
 Born to a peasant farming family. Evangelizing priest, Augustinian canon regular, dean of the cathedral, teacher and zealous preacher in Viborg, Denmark. Miracle worker.

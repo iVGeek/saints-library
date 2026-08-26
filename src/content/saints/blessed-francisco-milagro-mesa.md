@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/3/36/Lollapalooza_2015.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Francisco Milagro Mesa
 honorific: Blessed
 summary: Member of the Claretians. Martyred in the Spanish Civil War.
@@ -19,6 +20,8 @@ vocation:
   - Cardinal
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Francisco Milagro Mesa
+imageCreditUrl: https://en.wikipedia.org/wiki/List%20of%20Lollapalooza%20lineups%20by%20year
 ---
 
 Member of the Claretians. Martyred in the Spanish Civil War.

@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/0/08/Roma_martires_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Francisco Carlés González
 honorific: Blessed
 summary: >-
@@ -22,6 +23,8 @@ vocation:
 religiousOrder: Franciscan
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Francisco Carlés González
+imageCreditUrl: https://en.wikipedia.org/wiki/498%20Spanish%20Martyrs
 ---
 
 Franciscan Friar Minor, entering the novitiate on 19 March 1909 and making his solemn vows on 12 April 1913. Ordained in Cordoba, Spain on 2 June 1917. Served in the Holy Lands in the sanctuaries of the Holy Sepulchre, in Bethlehem and Hain Karem. Studied Arabic in Syria. Co-adjustor of Knaje, Syria. Co-adjutor in Aleppo, Syria. Superior of a Franciscan community of Er-Ram in Aleppo in 1928. Parish priest near Jerusalem in 1931. He returned to Spain in September 1934. Worked at the College of Chipiona in Cadiz, Spain in 1935. Martyred in the Spanish Civil War.

@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/f/fc/Saint_Bruno%2C_Bishop_of_Segni.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Peter II of La Cava
 honorific: Blessed
 summary: >-
@@ -22,6 +23,8 @@ vocation:
 religiousOrder: Benedictine
 martyr: false
 prayers: []
+imageAlt: Portrait of Blessed Peter II of La Cava
+imageCreditUrl: https://en.wikipedia.org/wiki/Bruno%20(bishop%20of%20Segni)
 ---
 
 Benedictine monk at Santissima Trinita monastery, Cava dei Tirreni, Salerno, Campania, Italy under the leadership of Blessed Benincasa. Abbot of the house in 1195. Obtained the support of Emperor Henry VI for the house. Involved in the region's politics of the day. Founded the hospice of Vietri sul mare in 1202.

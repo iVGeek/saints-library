@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/3/38/Perceval-arrives-at-grail-castle-bnf-fr-12577-f18v-1330-detail.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Joseph Pellé
 honorific: Blessed
 summary: Priest in the diocese of Laval, France. Martyred in the French Revolution.
@@ -19,6 +20,8 @@ vocation:
   - Monk
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Joseph Pellé
+imageCreditUrl: https://en.wikipedia.org/wiki/Fisher%20King
 ---
 
 Priest in the diocese of Laval, France. Martyred in the French Revolution.

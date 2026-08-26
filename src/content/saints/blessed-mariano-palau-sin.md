@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/f/fd/Cathedral_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Mariano Palau Sin
 honorific: Blessed
 summary: Priest. Member of the Benedictine Solesmes Congregation. Martyred in the Spanish Civil War.
@@ -22,6 +23,8 @@ vocation:
 religiousOrder: Benedictine
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Mariano Palau Sin
+imageCreditUrl: https://en.wikipedia.org/wiki/Palmarian%20Catholic%20Church
 ---
 
 Priest. Member of the Benedictine Solesmes Congregation. Martyred in the Spanish Civil War.

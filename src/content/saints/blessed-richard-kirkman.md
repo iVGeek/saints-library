@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/f/f9/Natascha_McElhone_2014_1.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Richard Kirkman
 honorific: Blessed
 summary: >-
@@ -21,6 +22,8 @@ vocation:
   - Monk
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Richard Kirkman
+imageCreditUrl: https://en.wikipedia.org/wiki/Natascha%20McElhone
 ---
 
 Studied at Douai, France; ordained in Rheims, France in 1579. Returned to England to minister to covert Catholics. Tutor for Richard Dymake's family in Scrivelsby. Arrested near Wakefield in 1582 for the treason of not accepting the Queen as head of the Church. Martyr.

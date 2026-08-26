@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/f/fe/Beatificaciotarragona2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Ramón Sanz De Galdeano Mañeru
 honorific: Blessed
 summary: Priest. Member of the Benedictine Solesmes Congregation. Martyred in the Spanish Civil War.
@@ -22,6 +23,8 @@ vocation:
 religiousOrder: Benedictine
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Ramón Sanz De Galdeano Mañeru
+imageCreditUrl: https://en.wikipedia.org/wiki/522%20Spanish%20Martyrs
 ---
 
 Priest. Member of the Benedictine Solesmes Congregation. Martyred in the Spanish Civil War.

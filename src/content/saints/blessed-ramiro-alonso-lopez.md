@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/1/12/Catedral_de_Oviedo_03.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Ramiro Alonso López
 honorific: Blessed
 summary: Augustinian friar. Martyred in the Spanish Civil War.
@@ -18,6 +19,8 @@ vocation: []
 religiousOrder: Augustinian
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Ramiro Alonso López
+imageCreditUrl: https://en.wikipedia.org/wiki/Oviedo
 ---
 
 Augustinian friar. Martyred in the Spanish Civil War.

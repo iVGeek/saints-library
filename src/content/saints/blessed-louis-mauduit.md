@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/4/4f/Frm_beatification_banner.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Louis Mauduit
 honorific: Blessed
 summary: >-
@@ -22,6 +23,8 @@ vocation:
 religiousOrder: Carmelite
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Louis Mauduit
+imageCreditUrl: https://en.wikipedia.org/wiki/Holy%20September%20Martyrs
 ---
 
 Feeling a call to religious life, Louis studied at the seminary in Sens, France. Ordained a priest of the archdiocese of Orléans, France in 1785. He served as curate in Noyers, France. At the start of the French Revolution, he refused to take the oath to the Civil Constitution, was expelled from his parish, and began work on a translation of the New Testament. Ordered again to take the oath, he refused again. One of the Martyrs of September.

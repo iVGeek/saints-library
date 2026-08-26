@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/b/b5/Martyrdom-of-Leonardo-Kimura-with-4-Christians-in-Nagasaki-Nov-18-1619-%28made-c1626%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Leonardus Kimura
 honorific: Blessed
 summary: >-
@@ -27,6 +28,8 @@ vocation:
 religiousOrder: Jesuit
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Leonardus Kimura
+imageCreditUrl: https://en.wikipedia.org/wiki/Leonardo%20Kimura
 ---
 
 His grandfather was the first Japanese person baptized by Saint Francis Xavier, and Leonard was raised Christian; he was related to Blessed Anthony Kimura. Attended the Jesuit school in Nagasaki, Japan. Served as lay catechist. Travelled with Jesuit priests on missionary trips. Jesuit Co-adjutor Brother, serving as cook and tailor. When the Jesuits were expelled from Japan in 1614, Leonard stayed behind and worked alone for years, living as a fugitive for his faith.

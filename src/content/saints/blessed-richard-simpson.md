@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/f/f8/Edmundus_Campion.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Richard Simpson
 honorific: Blessed
 summary: Priest in the apostolic vicariate of England. Martyred in the persecutions of Queen Elizabeth I.
@@ -18,6 +19,8 @@ vocation:
   - Priest
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Richard Simpson
+imageCreditUrl: https://en.wikipedia.org/wiki/Edmund%20Campion
 ---
 
 Priest in the apostolic vicariate of England. Martyred in the persecutions of Queen Elizabeth I.

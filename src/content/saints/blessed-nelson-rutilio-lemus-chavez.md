@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/f/f2/Un_mural_del_padre_Rutilio_Grande.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Nelson Rutilio Lemus Chávez
 honorific: Blessed
 summary: >-
@@ -20,6 +21,8 @@ vocation: []
 religiousOrder: Jesuit
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Nelson Rutilio Lemus Chávez
+imageCreditUrl: https://en.wikipedia.org/wiki/Rutilio%20Grande
 ---
 
 Young, single layman in the archdiocese of San Salvador, El Salvador. Murdered by El Salvadoran security forces while on his way to serve at Saturday night Mass. Martyr.

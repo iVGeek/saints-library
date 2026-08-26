@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/9/9d/Martyrs_of_laos.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Lucien Galan
 honorific: Blessed
 summary: >-
@@ -25,6 +26,8 @@ vocation:
   - Missionary
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Lucien Galan
+imageCreditUrl: https://en.wikipedia.org/wiki/Martyrs%20of%20Laos
 ---
 
 Member of the Paris Foreign Missions Society. Priest. Missionary to China, working the Xichang, Sichuan area. Imprisoned for this work in November 1950, he was exiled and arrived in Hong Kong in January 1952. He was reassigned to a mountainous area of Laos in 1956; in February 1960 he replaced Blessed René Dubroux who had been murdered in 1959. Parish priest of Blessed Thomas Khampheuane Inthirath, he was taking the boy to catechist training when the two were murdered. Martyr.

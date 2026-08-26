@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/3/33/Philip_Fruytiers_-_St._Francis_of_Assisi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Henry the Hagiographer
 honorific: Blessed
 summary: Benedictine monk. Headmaster of the monastic school at Saint-Germain d'Auxerre. Noted hagiographer.
@@ -19,6 +20,8 @@ vocation:
 religiousOrder: Benedictine
 martyr: false
 prayers: []
+imageAlt: Portrait of Blessed Henry the Hagiographer
+imageCreditUrl: https://en.wikipedia.org/wiki/Francis%20of%20Assisi
 ---
 
 Benedictine monk. Headmaster of the monastic school at Saint-Germain d'Auxerre. Noted hagiographer.

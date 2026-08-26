@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/7/71/Begijnhof_Amsterdam.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Ursula of Haarlem
 honorific: Blessed
 summary: Beguine sister. Martyred by Calvinists.
@@ -15,6 +16,8 @@ vocation:
   - Religious
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Ursula of Haarlem
+imageCreditUrl: https://en.wikipedia.org/wiki/Begijnhof%20Chapel%2C%20Amsterdam
 ---
 
 Beguine sister. Martyred by Calvinists.

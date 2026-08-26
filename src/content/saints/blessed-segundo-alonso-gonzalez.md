@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/0/08/Roma_martires_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Segundo Alonso González
 honorific: Blessed
 summary: >-
@@ -24,6 +25,8 @@ vocation:
 religiousOrder: Dominican
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Segundo Alonso González
+imageCreditUrl: https://en.wikipedia.org/wiki/498%20Spanish%20Martyrs
 ---
 
 Segundo grew up in a pious family; two his brothers became Dominican missionaries, and a sister became a Dominican nun. He married a local girl name Maria, and they had twelve children, two of whom became priests; Maria died in childbirth in 1926. Segundo worked as a carpenter, small farmer, and miner to support his family, and later re-married. Because of his loyalty to the Church and the faith, Secundo was imprisoned at the start of the Spanish Civil War, put to forced labour for several months, and finally executed. Martyr.

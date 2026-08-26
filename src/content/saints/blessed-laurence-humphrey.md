@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/0/0d/Melchior_k%C3%BCsel-tom%C3%A1s_cottam.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Laurence Humphrey
 honorific: Blessed
 summary: >-
@@ -23,6 +24,8 @@ vocation:
   - Priest
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Laurence Humphrey
+imageCreditUrl: https://en.wikipedia.org/wiki/Thomas%20Cottam
 ---
 
 Raised in a Protestant family, Laurence was known to be a studious and pious boy, spending his time with the Bible and other religious works. At the age of 18 he began arguing the faith with a local priest, Father Stanney – and soon wound up converting to Catholicism. He continued his studies, and spent his spare time visiting prisoners and the sick, teaching and catechizing.

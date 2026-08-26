@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/f/fe/Beatificaciotarragona2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Pedro Velasco Narbona
 honorific: Blessed
 summary: A postulant in the Carmelites of the Ancient Observance. Martyred in the Spanish Civil War.
@@ -18,6 +19,8 @@ vocation: []
 religiousOrder: Carmelite
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Pedro Velasco Narbona
+imageCreditUrl: https://en.wikipedia.org/wiki/522%20Spanish%20Martyrs
 ---
 
 A postulant in the Carmelites of the Ancient Observance. Martyred in the Spanish Civil War.

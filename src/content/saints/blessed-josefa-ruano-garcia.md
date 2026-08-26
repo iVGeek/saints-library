@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/f/fe/Beatificaciotarragona2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Josefa Ruano García
 honorific: Blessed
 summary: Nun. Member of the Little Sisters of the Abandoned Elderly. Martyred in the Spanish Civil War.
@@ -20,6 +21,8 @@ vocation:
   - Religious
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Josefa Ruano García
+imageCreditUrl: https://en.wikipedia.org/wiki/522%20Spanish%20Martyrs
 ---
 
 Nun. Member of the Little Sisters of the Abandoned Elderly. Martyred in the Spanish Civil War.

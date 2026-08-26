@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/e/e3/Guido_Reni_-_St_Joseph_with_the_Infant_Jesus_-_WGA19304.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Richard Holiday
 honorific: Blessed
 summary: Priest in the apostolic vicariate of England. Martyred in the persecutions of Queen Elizabeth I.
@@ -18,6 +19,8 @@ vocation:
   - Priest
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Richard Holiday
+imageCreditUrl: https://en.wikipedia.org/wiki/Saint%20Joseph
 ---
 
 Priest in the apostolic vicariate of England. Martyred in the persecutions of Queen Elizabeth I.

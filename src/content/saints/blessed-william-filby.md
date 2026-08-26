@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/0/06/Blessed-william-filby.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed William Filby
 honorific: Blessed
 summary: >-
@@ -22,6 +23,8 @@ vocation:
   - Monk
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed William Filby
+imageCreditUrl: https://en.wikipedia.org/wiki/William%20Filby%20(Roman%20Catholic%20priest)
 ---
 
 Educated at Lincoln College, Oxford, England. Seminarian at Rheims, France beginning on 12 October 1579. Ordained on 25 March 1581. Soon after he returned to England to minister to covert Catholics. Arrested in July 1579 for the crime of priesthood, he was imprisoned in the Tower of London and Marshalsea prison. Abused for several months, and then executed. Martyr.

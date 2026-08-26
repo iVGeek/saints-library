@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/0/0b/Sint_Amelbergakerk_Susteren.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Amelberga of Susteren
 honorific: Saint
 summary: Benedictine nun. Abbess of Susteren Abbey.
@@ -20,6 +21,8 @@ vocation:
 religiousOrder: Benedictine
 martyr: false
 prayers: []
+imageAlt: Portrait of Saint Amelberga of Susteren
+imageCreditUrl: https://en.wikipedia.org/wiki/Susteren%20Abbey
 ---
 
 Benedictine nun. Abbess of Susteren Abbey.

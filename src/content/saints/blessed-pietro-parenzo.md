@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/8/8b/Unknown_woman%2C_formerly_known_as_Margaret_Pole%2C_Countess_of_Salisbury_from_NPG_retouched.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Pietro Parenzo
 honorific: Blessed
 summary: >-
@@ -23,6 +24,8 @@ patronage:
   - Orvieto, Italy
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Pietro Parenzo
+imageCreditUrl: https://en.wikipedia.org/wiki/Margaret%20Pole%2C%20Countess%20of%20Salisbury
 ---
 
 Born to the Italian nobility, the son of Giovanni, a senator and judge; his mother's name was Odolina. We know he had brothers, and was married at one point, but nothing else survives of his early life. Served in the court of Pope Innocent III. Chosen rector and papal governor of Orvieto, Italy in 1199, a turbulent area used as a base by Patarine Cathar heretics, and in the middle of endless struggles and machinations of the Guelphs and Ghibellines, between supporters of the Pope and those of the Emperor of Germany; Pietro was given a mission to bring peace and suppress heresy which meant he was welcomed with open arms by orthodox Catholics, with open opposition by the supporters of the various heresies and factions. Kidnapped by a gang of Patarine heretics, he was beaten and offered freedom if he would retract all anti–heresy laws in the area, and agree to never trouble the Patarines and Carthars again; he declined. Martyr. The backlash against his killers led to a popular uprising, suppression and exile of the heretics.

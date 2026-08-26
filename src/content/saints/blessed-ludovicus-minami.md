@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/5/53/1899._Tzarevich_Dmitry_by_M._Nesterov.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Ludovicus Minami
 honorific: Blessed
 summary: >-
@@ -20,6 +21,8 @@ vocation:
   - Cardinal
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Ludovicus Minami
+imageCreditUrl: https://en.wikipedia.org/wiki/List%20of%20child%20saints
 ---
 
 Young boy in the diocese of Fukuoka, Japan. Adopted son of Blessed Magdalena Minami and Blessed Ioannes Minami Gorozaemon. Martyr.

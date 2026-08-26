@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/c/c1/Carl_Albert%2C_a_Gypsy_man%2C_and_two_Gypsy_women._Spain%2C_1930s.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Manuel Martínez Giménez
 honorific: Blessed
 summary: Priest of the diocese of Almería, Spain. Martyred in the Spanish Civil War.
@@ -19,6 +20,8 @@ vocation:
   - Cardinal
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Manuel Martínez Giménez
+imageCreditUrl: https://en.wikipedia.org/wiki/Romani%20people%20in%20Spain
 ---
 
 Priest of the diocese of Almería, Spain. Martyred in the Spanish Civil War.

@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/e/e2/GezichtOpNieuwAmsterdam.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Gabriel-Joseph-Roger Longueville
 honorific: Blessed
 summary: Priest of the diocese of Viviers, France. Fidei Donum missionary in the diocese of La Rioja, Argentina. Martyr.
@@ -20,6 +21,8 @@ vocation:
   - Missionary
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Gabriel-Joseph-Roger Longueville
+imageCreditUrl: https://en.wikipedia.org/wiki/1650s
 ---
 
 Priest of the diocese of Viviers, France. Fidei Donum missionary in the diocese of La Rioja, Argentina. Martyr.

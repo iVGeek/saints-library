@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/6/6c/SMC_Pictures_026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed William Pike
 honorific: Blessed
 summary: Layman in the apostolic vicariate of England during a period of persecutions of Catholics. Martyr.
@@ -21,6 +22,8 @@ vocation:
   - Confessor
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed William Pike
+imageCreditUrl: https://en.wikipedia.org/wiki/Saint%20Giles%20Episcopal%20Church
 ---
 
 Layman in the apostolic vicariate of England during a period of persecutions of Catholics. Martyr.

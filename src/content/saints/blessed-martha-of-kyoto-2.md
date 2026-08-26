@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/9/96/03973jfCubao_Cathedral_Interior_Quezon_Cityfvf_09_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Martha of Kyoto
 honorific: Blessed
 summary: Daughter of Blessed Rufina of Kyoto. One of the Martyrs of Kyoto, murdered at the age of 4.
@@ -17,6 +18,8 @@ canonizationStatus: Blessed
 vocation: []
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Martha of Kyoto
+imageCreditUrl: https://en.wikipedia.org/wiki/Lorenzo%20Ruiz
 ---
 
 Daughter of Blessed Rufina of Kyoto. One of the Martyrs of Kyoto, murdered at the age of 4.

@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/7/7a/Mary%27s_monogram_%28Marist_Brothers%29.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Robert Sutton
 honorific: Blessed
 summary: >-
@@ -21,6 +22,8 @@ vocation:
 religiousOrder: Jesuit
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Robert Sutton
+imageCreditUrl: https://en.wikipedia.org/wiki/Marist%20Brothers
 ---
 
 Protestant minister; rector of Lutterworth, Leicestershire, England in 1571. Convert to Catholicism, led to the faith by his younger brother William who became a Jesuit priest. With his younger brother Abraham, he studied in Douai, France in 1576. Ordained in February 1577 for the apostolic vicariate of England. Robert returned to England on 19 March 1578 to minister to covert Catholics during the persecutions of Elizabeth I. Imprisoned and martyred for the crime of priesthood.

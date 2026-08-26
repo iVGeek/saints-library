@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/5/53/Rubens_apostel_andreas_grt.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Andrew of Constantinople
 honorific: Saint
 summary: Christian desert hermit. One of over 300 martyred together for opposing iconoclasm.
@@ -16,6 +17,8 @@ vocation:
   - Hermit
 martyr: true
 prayers: []
+imageAlt: Portrait of Saint Andrew of Constantinople
+imageCreditUrl: https://en.wikipedia.org/wiki/Andrew%20the%20Apostle
 ---
 
 Christian desert hermit. One of over 300 martyred together for opposing iconoclasm.

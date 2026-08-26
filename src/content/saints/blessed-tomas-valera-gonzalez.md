@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/a/aa/Ohio_River_flood_of_1937.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Tomás Valera González
 honorific: Blessed
 summary: Layman the diocese of Almería, Spain. Martyred in the Spanish Civil War.
@@ -18,6 +19,8 @@ vocation:
   - Cardinal
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Tomás Valera González
+imageCreditUrl: https://en.wikipedia.org/wiki/1937
 ---
 
 Layman the diocese of Almería, Spain. Martyred in the Spanish Civil War.

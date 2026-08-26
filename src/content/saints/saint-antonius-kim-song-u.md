@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/3/36/Gerald_Ford_presidential_portrait_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Antonius Kim Song-u
 honorific: Venerable
 summary: Married layman catechist in the apostolic vicariate of Korea who taught new Christians at his home. Martyr.
@@ -23,6 +24,8 @@ canonizationStatus: Venerable
 vocation: []
 martyr: true
 prayers: []
+imageAlt: Portrait of Saint Antonius Kim Song-u
+imageCreditUrl: https://en.wikipedia.org/wiki/September%201975
 ---
 
 Married layman catechist in the apostolic vicariate of Korea who taught new Christians at his home. Martyr.

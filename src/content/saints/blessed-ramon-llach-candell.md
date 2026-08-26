@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/f/fe/Beatificaciotarragona2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Ramon Llach-Candell
 honorific: Blessed
 summary: >-
@@ -20,6 +21,8 @@ vocation:
   - Priest
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Ramon Llach-Candell
+imageCreditUrl: https://en.wikipedia.org/wiki/522%20Spanish%20Martyrs
 ---
 
 Priest. Member of the Sons of the Holy Family. Treasurer. Teacher. Director of several centers run by the Sons. Writer and poet. One of the Martyrs of the Spanish Civil War.

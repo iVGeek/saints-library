@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/1/12/Vicente_Carducho._Pinturas_para_la_cartuja_de_El_Paular._14.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed William Greenwood
 honorific: Blessed
 summary: >-
@@ -18,6 +19,8 @@ vocation:
   - Monk
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed William Greenwood
+imageCreditUrl: https://en.wikipedia.org/wiki/Carthusian%20Martyrs%20of%20London
 ---
 
 A lay brother in the Carthusian London Charterhouse. Arrested for opposing the policies of King Henry VIII, and remaining loyal to Rome. Martyred with six companions.

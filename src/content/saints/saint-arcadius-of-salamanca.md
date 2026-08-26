@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/4/4a/Fresco_of_Saint_Paul_at_Ephesus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Arcadius of Salamanca
 honorific: Saint
 summary: >-
@@ -18,6 +19,8 @@ vocation:
   - Monk
 martyr: true
 prayers: []
+imageAlt: Portrait of Saint Arcadius of Salamanca
+imageCreditUrl: https://en.wikipedia.org/wiki/Paul%20the%20Apostle
 ---
 
 Courtier who accompanied the Vandal King Genseric to Africa. When anti-Christian persecutions began, he was first banished from court, then, when he continue to use the Nicene Creed, was imprisoned, tortured and martyred.

@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/0/08/Roma_martires_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Francisca Pons Sarda
 honorific: Blessed
 summary: >-
@@ -24,6 +25,8 @@ vocation:
 religiousOrder: Carmelite
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Francisca Pons Sarda
+imageCreditUrl: https://en.wikipedia.org/wiki/498%20Spanish%20Martyrs
 ---
 
 Member of the Carmelite Missionaries, beginning her novitiate in Barcelona, Spain in 1907 at age 26; she made her solemn profession in 1913. During periods of anti–Christian activity in Spain, her family would urge her to return home, but she insisted that life, or death, with her Sisters was where God wanted her. Her 28 years in religious life were spent working in hospitals, nursing homes and care homes for the disabled in Spain and Argentina. Murdered by the Communist “Red Committee” in the Spanish Civil War. Martyr.

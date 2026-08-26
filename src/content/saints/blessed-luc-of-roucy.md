@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/d/d0/Soissons_%2802%29_Cath%C3%A9drale_Fa%C3%A7ade_occidentale_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Luc of Roucy
 honorific: Blessed
 summary: >-
@@ -24,6 +25,8 @@ vocation:
   - Hermit
 martyr: false
 prayers: []
+imageAlt: Portrait of Blessed Luc of Roucy
+imageCreditUrl: https://en.wikipedia.org/wiki/Diocese%20of%20Soissons
 ---
 
 Born to the French nobility; related to Blessed Irmengard. Priest. Dean of Laon, France. Around 1115, Luc retired from worldly things to live as a hermit at Cuissy-et-Geny, France. His reputation of holiness and wisdom attracted would-be students, Count Guntarius founded a monastery there them all. In 1122 the house became part of the Premonstratensians; in 1124 the community officially became an abbey, and Luc served as its first abbot.

@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/8/81/Manuel_belgrano_by_carbonier_retouched.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Francisco Pérez Godoy
 honorific: Blessed
 summary: Jesuit novice. Missionary. Martyred by the Huguenot Jacques Sourie while en route to Brazil.
@@ -20,6 +21,8 @@ vocation:
 religiousOrder: Jesuit
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Francisco Pérez Godoy
+imageCreditUrl: https://en.wikipedia.org/wiki/Manuel%20Belgrano
 ---
 
 Jesuit novice. Missionary. Martyred by the Huguenot Jacques Sourie while en route to Brazil.

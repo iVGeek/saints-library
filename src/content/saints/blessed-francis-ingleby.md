@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/7/77/Plaque_in_honor_of_Blessed_George_Haydock.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Francis Ingleby
 honorific: Blessed
 summary: >-
@@ -22,6 +23,8 @@ vocation:
   - Priest
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Francis Ingleby
+imageCreditUrl: https://en.wikipedia.org/wiki/Eighty-five%20martyrs%20of%20England%20and%20Wales
 ---
 
 Studied at Rheims, France. Ordained on 21 March 1581, he returned to England in April 1581 to minister to covert Catholics during a period of official persecution. Imprisoned and executed for the crime of being a priest. Martyr.

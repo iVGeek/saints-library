@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/4/48/Painting_of_the_Nagasaki_Martyrs.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Romanus Motoyama Myotaro
 honorific: Blessed
 summary: >-
@@ -21,6 +22,8 @@ vocation:
   - Monk
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Romanus Motoyama Myotaro
+imageCreditUrl: https://en.wikipedia.org/wiki/205%20Martyrs%20of%20Japan
 ---
 
 Layman in the archdiocese of Nagasaki, Japan. Member of the Confraternity of the Rosary. One of a group of eleven Christians martyred together for their faith during a period of official persecution in Japan.

@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/4/48/Painting_of_the_Nagasaki_Martyrs.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Franciscus Takeya
 honorific: Blessed
 summary: >-
@@ -19,6 +20,8 @@ canonizationStatus: Blessed
 vocation: []
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Franciscus Takeya
+imageCreditUrl: https://en.wikipedia.org/wiki/205%20Martyrs%20of%20Japan
 ---
 
 Son of Blessed Cosmas Takeya Sozaburo and Blessed Agnes Takeya in the archdiocese of Nagasaki, Japan. Martyred at age 12.

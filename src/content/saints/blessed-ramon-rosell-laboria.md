@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/f/fe/Beatificaciotarragona2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Ramon Rosell Laboria
 honorific: Blessed
 summary: Priest. Member of the Hospitallers of Saint John of God. Martyred in the Spanish Civil War.
@@ -20,6 +21,8 @@ vocation:
   - Priest
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Ramon Rosell Laboria
+imageCreditUrl: https://en.wikipedia.org/wiki/522%20Spanish%20Martyrs
 ---
 
 Priest. Member of the Hospitallers of Saint John of God. Martyred in the Spanish Civil War.

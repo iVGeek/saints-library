@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/e/e0/Tour_de_l%27abbaye_de_Cambron.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Fastré of Cambron
 honorific: Blessed
 summary: >-
@@ -28,6 +29,8 @@ vocation:
   - Monk
 martyr: false
 prayers: []
+imageAlt: Portrait of Blessed Fastré of Cambron
+imageCreditUrl: https://en.wikipedia.org/wiki/Cambron%20Abbey
 ---
 
 Born to the nobility of the Hainault region. Attracted to religious life from an early age, and at age 15 he became a Cistercian monk at Clairvaux, receiving the habit from Saint Bernard himself. In 1148, he was assigned to lead 12 brother monks to establish a Cistercian house in Cambron, Hainault; he served there till 1156. Chosen third abbot of Clairvaux, he retreated to spend time in prayer over it, hoping that while he was gone, the brothers would choose some one else; he received a vision of the Blessed Virgin Mary who told him to accept the position, and so he did. Chosen abbot of the Cîteaux house in 1161, a position made him the effective head of the Order. He worked for the canonization of Saint Bernard; he was working on this with Pope Alexander III and King Louis the Younger in Paris when he died.

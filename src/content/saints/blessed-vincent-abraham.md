@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/9/96/County_Waterford_-_Mount_Melleray_Abbey_-_20190905151536.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Vincent Abraham
 honorific: Blessed
 summary: Priest in the archdiocese of Rheims, France. One of the Martyrs of September.
@@ -20,6 +21,8 @@ vocation:
 religiousOrder: Carmelite
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Vincent Abraham
+imageCreditUrl: https://en.wikipedia.org/wiki/Mount%20Melleray%20Abbey
 ---
 
 Priest in the archdiocese of Rheims, France. One of the Martyrs of September.

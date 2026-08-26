@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/1/19/Hug-lin-pi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Hugh Taylor
 honorific: Blessed
 summary: >-
@@ -21,6 +22,8 @@ vocation:
   - Priest
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Hugh Taylor
+imageCreditUrl: https://en.wikipedia.org/wiki/Hugh%20of%20Lincoln
 ---
 
 Studied at Rheims, France. Ordained in 1584. Ministered to covert and oppressed Catholics in England starting in March 1585. He worked for only a few months, being the first person martyred in the persecutions of Queen Elizabeth. One of the Martyrs of England, Scotland and Wales.

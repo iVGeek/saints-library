@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/7/7e/Joseph_Overseer_of_Pharaoh%27s_Graneries_1874.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Peter of Chavanon
 honorific: Blessed
 title: Priest
@@ -21,6 +22,8 @@ vocation:
 religiousOrder: Augustinian
 martyr: false
 prayers: []
+imageAlt: Portrait of Blessed Peter of Chavanon
+imageCreditUrl: https://en.wikipedia.org/wiki/Joseph's%20granaries
 ---
 
 Priest in the Haute Loire region of France. Founded a monastery for Augustinian canons at Pebrac, Auvergne, France. Assigned to reform several Augustinian cathedral chapeters.

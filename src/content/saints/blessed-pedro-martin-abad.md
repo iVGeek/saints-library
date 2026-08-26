@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/d/dc/Pintura_de_Gregorio_Castro.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Pedro Martín Abad
 honorific: Blessed
 summary: Priest of the diocese of Almeria Spain. Martyred in the Spanish Civil War.
@@ -18,6 +19,8 @@ vocation:
   - Priest
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Pedro Martín Abad
+imageCreditUrl: https://en.wikipedia.org/wiki/Jos%C3%A9%20Gregorio%20Castro
 ---
 
 Priest of the diocese of Almeria Spain. Martyred in the Spanish Civil War.

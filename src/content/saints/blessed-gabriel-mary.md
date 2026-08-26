@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/9/9e/Tizian_041.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Gabriel Mary
 honorific: Blessed
 summary: >-
@@ -28,6 +29,8 @@ patronage:
   - Order of the Annunciation of the Blessed Virgin Mary
 martyr: false
 prayers: []
+imageAlt: Portrait of Blessed Gabriel Mary
+imageCreditUrl: https://en.wikipedia.org/wiki/Assumption%20of%20Mary
 ---
 
 Gabriel was refused admission by several houses of the Franciscan Observants before being received at Notre Dame de la Fon, Rochelle, France. Priest. Served as confessor to Saint Jane of Valois. Worked with Saint Jane to found the order of the Annonciades in 1532.

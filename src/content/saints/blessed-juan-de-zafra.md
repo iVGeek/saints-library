@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/2/2f/Attributed_to_el_Greco_-_Portrait_of_Juan_de_%C3%81vila_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Juan de Zafra
 honorific: Blessed
 summary: Jesuit novice. Missionary. Martyred by the Huguenot Jacques Sourie while en route to Brazil.
@@ -19,6 +20,8 @@ vocation:
 religiousOrder: Jesuit
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Juan de Zafra
+imageCreditUrl: https://en.wikipedia.org/wiki/John%20of%20%C3%81vila
 ---
 
 Jesuit novice. Missionary. Martyred by the Huguenot Jacques Sourie while en route to Brazil.

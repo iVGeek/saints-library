@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/c/c1/Carl_Albert%2C_a_Gypsy_man%2C_and_two_Gypsy_women._Spain%2C_1930s.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Juan Navas Rodríguez-Carretero
 honorific: Blessed
 summary: Priest of the diocese of Córdoba, Spain, serving in the Palma del Río community. Martyred in the Spanish Civil War.
@@ -19,6 +20,8 @@ vocation:
   - Cardinal
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Juan Navas Rodríguez-Carretero
+imageCreditUrl: https://en.wikipedia.org/wiki/Romani%20people%20in%20Spain
 ---
 
 Priest of the diocese of Córdoba, Spain, serving in the Palma del Río community. Martyred in the Spanish Civil War.

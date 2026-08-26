@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/6/6b/Katharinenkloster_Sinai_BW_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Arabia of Nicaea
 honorific: Saint
 summary: Martyr.
@@ -14,6 +15,8 @@ vocation:
   - Monk
 martyr: true
 prayers: []
+imageAlt: Portrait of Saint Arabia of Nicaea
+imageCreditUrl: https://en.wikipedia.org/wiki/Saint%20Catherine's%20Monastery
 ---
 
 Martyr.

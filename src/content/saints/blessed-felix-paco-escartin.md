@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/0/08/Roma_martires_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Félix Paco Escartín
 honorific: Blessed
 summary: Salesian priest. Martyred in the Spanish Civil War.
@@ -19,6 +20,8 @@ vocation:
 religiousOrder: Salesian
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Félix Paco Escartín
+imageCreditUrl: https://en.wikipedia.org/wiki/498%20Spanish%20Martyrs
 ---
 
 Salesian priest. Martyred in the Spanish Civil War.

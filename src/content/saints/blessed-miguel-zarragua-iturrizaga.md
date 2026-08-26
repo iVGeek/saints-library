@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/0/08/Roma_martires_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Miguel Zarragua Iturrízaga
 honorific: Blessed
 summary: >-
@@ -23,6 +24,8 @@ vocation:
 religiousOrder: Franciscan
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Miguel Zarragua Iturrízaga
+imageCreditUrl: https://en.wikipedia.org/wiki/498%20Spanish%20Martyrs
 ---
 
 Joined the Franciscan Friars Minor, taking the name Miguel, and making his solemn vows on 9 September 1893. Missionary to Morocco from November 1895 to November 1906. Worked with victims of the Spanish influenza epidemic of 1918. Monk and sacristan at the convent of Fuenteobejuna, Spain. Martyred in the Spanish Civil War.

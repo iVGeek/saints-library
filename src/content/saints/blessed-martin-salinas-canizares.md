@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/8/84/Cimbori_almoina_abril_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Martín Salinas Cañizares
 honorific: Blessed
 summary: Priest of the diocese of Almería, Spain. Martyred in the Spanish Civil War.
@@ -19,6 +20,8 @@ vocation:
   - Cardinal
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Martín Salinas Cañizares
+imageCreditUrl: https://en.wikipedia.org/wiki/Archdiocese%20of%20Valencia%20in%20Spain
 ---
 
 Priest of the diocese of Almería, Spain. Martyred in the Spanish Civil War.

@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/f/fb/Saint_Anthony_%28Damaskinos%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Antony
 honorific: Saint
 summary: >-
@@ -15,6 +16,8 @@ vocation:
   - Monk
 martyr: true
 prayers: []
+imageAlt: Portrait of Saint Antony
+imageCreditUrl: https://en.wikipedia.org/wiki/Anthony%20the%20Great
 ---
 
 There is an old Eastern tradition that he converted after watching the martyrdom of Saint George, but all we know for sure is that this is the name of yet another early Christianity murdered for his faith. Martyr.

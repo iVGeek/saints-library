@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/9/93/St_Mary%27s_Cathedral%2C_Wellington.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Joseph Lambton
 honorific: Blessed
 summary: >-
@@ -21,6 +22,8 @@ vocation:
   - Priest
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Joseph Lambton
+imageCreditUrl: https://en.wikipedia.org/wiki/St%20Mary's%20Cathedral%2C%20Wellington
 ---
 
 Second son of Thomas Lambton of Malton-in-Rydall, Yorkshire, England, and Katharine, daughter of Robert Birkhead of West Brandon, Durham, England. Joseph studied at the English College in Reims, France beginning in 1584, then at the English College in Rome, Italy beginning in 1589. Ordained in 1591. He and Blessed Edward Waterson returned to England to minister to covert Catholics on 22 April 1592 during the persecutions of Queen Elizabeth I but were almost immediately arrested, imprisoned and executed for the crime of being a priest. Martyr.

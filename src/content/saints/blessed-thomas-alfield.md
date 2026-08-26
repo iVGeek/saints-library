@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/8/8a/One-hundred-and-seven-martyrs-of-england-and-wales.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Thomas Alfield
 honorific: Blessed
 summary: >-
@@ -27,6 +28,8 @@ vocation:
   - Monk
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Thomas Alfield
+imageCreditUrl: https://en.wikipedia.org/wiki/One%20Hundred%20and%20Seven%20Martyrs%20of%20England%20and%20Wales
 ---
 
 Educated at Eton and King's College, Cambridge, obtaining his degree in 1568. Raised Protestant, he converted as an adult to Catholicism. Entered the seminary at Douai and Rheims, France in 1576. Ordained in 1581. Returned to England to minister to covert Catholics during a period of persecution, working in the north. Arrested, tortured and sent to the Tower of London on 2 May 1582, he renounced his conversion to Catholicism, expressed a desire to return to the Protestant church, and was released. Riddled with guilt over his failure to keep the faith, he returned to Rheims, returned to the Church, and then returned to England. Arrested again, he was sent back to the Tower, then to Newgate prison, then condemned for treason, and executed for the crimes of priesthood and distributing the booklet True and Modest Defense, a defense of the faith. Martyr.

@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/b/b6/CLOCHER_2.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Marie Leroy
 honorific: Blessed
 summary: Lay woman of the diocese of Angers, France. Martyred in the persecutions of the French Revolution.
@@ -17,6 +18,8 @@ canonizationStatus: Blessed
 vocation: []
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Marie Leroy
+imageCreditUrl: https://en.wikipedia.org/wiki/Saint-Malo%20Cathedral
 ---
 
 Lay woman of the diocese of Angers, France. Martyred in the persecutions of the French Revolution.

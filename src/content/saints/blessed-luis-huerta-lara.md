@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/8/8c/Tumba_de_San_Pedro_de_Jesus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Luis Huerta Lara
 honorific: Blessed
 summary: Monk. Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War.
@@ -21,6 +22,8 @@ vocation:
 religiousOrder: Marist
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Luis Huerta Lara
+imageCreditUrl: https://en.wikipedia.org/wiki/Saints%20of%20the%20Cristero%20War
 ---
 
 Monk. Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War.

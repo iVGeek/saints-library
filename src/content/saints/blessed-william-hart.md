@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/9/9b/McNicholscross.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed William Hart
 honorific: Blessed
 summary: >-
@@ -23,6 +24,8 @@ vocation:
   - Confessor
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed William Hart
+imageCreditUrl: https://en.wikipedia.org/wiki/William%20Hart%20McNichols
 ---
 
 Raised Protestant. Educated at Lincoln College, Oxford. Convert to Catholicism. Studied for the priesthood at Douai, Rheims, and Rome, Italy. Ordained in 1581, he returned to England to minister to covert Catholics. Betrayed by an apostate in the house of Saint Margaret Clitherow. Martyr.

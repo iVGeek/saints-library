@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/b/b6/Menaion_icon_%2817_c.%2C_TsAK%29_-_October.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Romanus of Athos
 honorific: Blessed
 summary: >-
@@ -22,6 +23,8 @@ vocation:
   - Monk
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Romanus of Athos
+imageCreditUrl: https://en.wikipedia.org/wiki/October%201%20(Eastern%20Orthodox%20liturgics)
 ---
 
 A pius and illiterate man, following a pilgrimage to the Holy Lands, Romanus sought spiritual direction at the monastery of Saint-Sabas on Mount Athos. He then returned to Thessalonica where he pubicly confessed his Christianity in front of Muslim Turks. Romanus was condemned to serve as a galley slave for this crime, but was later ransomed, regained his freedom, and spent more time in spiritual retreat on Mount Athos, this time at the Kavsokalyvia monastery. Again feeling a call to witness to Muslims, he travelled to Constantinople where he proclaimed his faith to the Muslim Turks. This time his crime led to torture and execution. Martyr. He is especially venerated in the Eastern churches.

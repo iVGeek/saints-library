@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/8/88/Epikouros_BM_1843.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Sixtus of Kyoto
 honorific: Blessed
 summary: Son of Blessed Maria of Kyoto. One of the Martyrs of Kyoto, murdered at the age of 3.
@@ -17,6 +18,8 @@ canonizationStatus: Blessed
 vocation: []
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Sixtus of Kyoto
+imageCreditUrl: https://en.wikipedia.org/wiki/Epicureanism
 ---
 
 Son of Blessed Maria of Kyoto. One of the Martyrs of Kyoto, murdered at the age of 3.

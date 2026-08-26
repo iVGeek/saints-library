@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/a/a5/04_2024_Notre_Dame_Paris_8862.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed François Peltier
 honorific: Blessed
 summary: Priest of the diocese of Angers, France. Martyred in the persecutions of the French Revolution.
@@ -18,6 +19,8 @@ vocation:
   - Priest
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed François Peltier
+imageCreditUrl: https://en.wikipedia.org/wiki/Reopening%20of%20Notre-Dame%20de%20Paris
 ---
 
 Priest of the diocese of Angers, France. Martyred in the persecutions of the French Revolution.

@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/8/8e/Saint_Alban_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed William Wogan
 honorific: Blessed
 summary: Layman in the archdiocese of Dublin, Ireland. One of the Irish Martyrs.
@@ -16,6 +17,8 @@ vocation:
   - Monk
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed William Wogan
+imageCreditUrl: https://en.wikipedia.org/wiki/Saint%20Alban
 ---
 
 Layman in the archdiocese of Dublin, Ireland. One of the Irish Martyrs.

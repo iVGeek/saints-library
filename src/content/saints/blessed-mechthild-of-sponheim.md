@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/b/ba/Hildegard_von_Bingen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Mechthild of Sponheim
 honorific: Blessed
 title: Virgin
@@ -23,6 +24,8 @@ vocation:
   - Virgin
 martyr: false
 prayers: []
+imageAlt: Portrait of Blessed Mechthild of Sponheim
+imageCreditUrl: https://en.wikipedia.org/wiki/Hildegard%20of%20Bingen
 ---
 
 An anchoress in the German cities of Mainz and Sponheim.

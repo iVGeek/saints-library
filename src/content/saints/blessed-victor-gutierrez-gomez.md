@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/8/8c/Tumba_de_San_Pedro_de_Jesus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Victor Gutiérrez Gómez
 honorific: Blessed
 summary: Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War.
@@ -20,6 +21,8 @@ vocation: []
 religiousOrder: Marist
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Victor Gutiérrez Gómez
+imageCreditUrl: https://en.wikipedia.org/wiki/Saints%20of%20the%20Cristero%20War
 ---
 
 Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War.

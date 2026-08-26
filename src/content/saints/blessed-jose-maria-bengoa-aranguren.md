@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/f/f6/Daimiel_-_Ermita_del_Cristo_de_la_Luz_%28Padres_Pasionistas%29_03.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Jose María Bengoa Aranguren
 honorific: Blessed
 summary: Passionist priest. Martyred in the Spanish Civil War.
@@ -20,6 +21,8 @@ vocation:
   - Priest
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Jose María Bengoa Aranguren
+imageCreditUrl: https://en.wikipedia.org/wiki/Martyrs%20of%20Daimiel
 ---
 
 Passionist priest. Martyred in the Spanish Civil War.

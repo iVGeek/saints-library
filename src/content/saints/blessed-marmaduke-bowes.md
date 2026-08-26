@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/e/e8/Saint_brendan_german_manuscript.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Marmaduke Bowes
 honorific: Blessed
 summary: >-
@@ -20,6 +21,8 @@ vocation:
   - Priest
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Marmaduke Bowes
+imageCreditUrl: https://en.wikipedia.org/wiki/Brendan%20the%20Navigator
 ---
 
 Married layman and father. Fearful of the persecutions of the day, he was a covert Catholic who put in appearances in the Established church to keep the authorities away. He sheltered priests on the run, and had his children raised Catholic. In 1585 his children's tutor was arrested and bribed to apostatize, turn informer, and denounce Bowes for helping priests. Bowes and his wife were arrested and imprisoned in York; she was released, but Marmaduke was convicted on the statements the tutor. First layman executed under the law that made helping priests a felony. Martyr.

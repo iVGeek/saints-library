@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/8/82/IsabelPort.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Urraca of Cañas
 honorific: Blessed
 summary: >-
@@ -23,6 +24,8 @@ vocation:
   - Religious
 martyr: false
 prayers: []
+imageAlt: Portrait of Blessed Urraca of Cañas
+imageCreditUrl: https://en.wikipedia.org/wiki/Isabella%20of%20Portugal%2C%20Queen%20of%20Castile
 ---
 
 Born to the Castilian nobility, the daughter of Diego Leopez II of Haro and Toda Perez de Azagra; niece of Queen Urraca of León. Married to Count Alvaro Núñez de Lara in her early 20's, she was widowed in 1218 at age 26. Instead to continuing her life in the world, Urraca retired to become a Cistercian nun at the Saint Maria del Salvador monastery in Cañas, La Rioja, Spain, a house which had been founded by her grandparents. In 1222 she was chosen abbess of the house and served the rest of her life, nearly 40 years. She was known for her charity to the house from her personal family fortune, including the Gothic church at the monastery, hospital and hospice built at the monastery; and was known for the personal austerity of life and adherence to the Rule of her Order.

@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/d/db/Blessed-james-duckett.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Thomas Watkinson
 honorific: Blessed
 summary: >-
@@ -19,6 +20,8 @@ vocation:
   - Priest
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Thomas Watkinson
+imageCreditUrl: https://en.wikipedia.org/wiki/James%20Duckett
 ---
 
 Married layman and family man in the apostolic vicariate of England who provided aid to covert priests in the persecutions of Queen Elizabeth I. Martyr.

@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/4/4f/Frm_beatification_banner.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Pierre-Robert Regnet
 honorific: Blessed
 summary: >-
@@ -21,6 +22,8 @@ vocation:
   - Priest
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Pierre-Robert Regnet
+imageCreditUrl: https://en.wikipedia.org/wiki/Holy%20September%20Martyrs
 ---
 
 Pierre began studying at the Collège d'Harcourt (modern Lycée Saint-Louis) in Paris, France in 1774, earning doctorates in literature and philosophy on 13 August 1782, and then a law license in 1787. Priest in the archdiocese of Paris, France. Tutor to Baron Thirry of Ville-d'Avray. Courtier to King Louis XVI. One of the Martyrs of September.

@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/0/08/Roma_martires_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Nicolás Alberich Lluch
 honorific: Blessed
 summary: Member of the Salesians. Martyred in the Spanish Civil War.
@@ -20,6 +21,8 @@ vocation: []
 religiousOrder: Salesian
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Nicolás Alberich Lluch
+imageCreditUrl: https://en.wikipedia.org/wiki/498%20Spanish%20Martyrs
 ---
 
 Member of the Salesians. Martyred in the Spanish Civil War.

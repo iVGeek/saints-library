@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/7/75/Santa_Trinita_16_Neri_di_Bicci.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Orlando of Vallombrosa
 honorific: Blessed
 summary: Lay-brother in the Vallombrosan Order. Noted exorcist.
@@ -16,6 +17,8 @@ vocation:
 religiousOrder: Benedictine
 martyr: false
 prayers: []
+imageAlt: Portrait of Blessed Orlando of Vallombrosa
+imageCreditUrl: https://en.wikipedia.org/wiki/Vallombrosians
 ---
 
 Lay-brother in the Vallombrosan Order. Noted exorcist.

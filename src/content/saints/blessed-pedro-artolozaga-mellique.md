@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/0/08/Roma_martires_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Pedro Artolozaga Mellique
 honorific: Blessed
 summary: >-
@@ -24,6 +25,8 @@ vocation:
 religiousOrder: Salesian
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Pedro Artolozaga Mellique
+imageCreditUrl: https://en.wikipedia.org/wiki/498%20Spanish%20Martyrs
 ---
 
 Pedro studied at the Salesians of Don Bosco college in Santander, Spain, and joined the Order himself in 1926; he made his solemn profession in 1931. He was assigned to the María Auxiliadora school in Salamanca, Spain in 1933, and while teaching, he continued his studies for the priesthood. When the Spanish Civil War broke out on 20 July 1936, he was forced to flee the school and go into hiding. He was soon located by the anti–Christian militia, imprisoned in a series of locations, “tried” in a mock court, and then murdered. Martyr.

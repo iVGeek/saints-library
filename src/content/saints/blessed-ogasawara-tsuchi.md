@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/0/0e/Itsukushima_Gate.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Ogasawara Tsuchi
 honorific: Blessed
 summary: >-
@@ -19,6 +20,8 @@ vocation:
   - Cardinal
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Ogasawara Tsuchi
+imageCreditUrl: https://en.wikipedia.org/wiki/Shinto
 ---
 
 Lifelong lay woman in the diocese of Fukuoka, Japan. Daughter of Blessed Ogasawara Yosaburo Gen'ya and Blessed Ogasawara Miya Luisa. Martyr.

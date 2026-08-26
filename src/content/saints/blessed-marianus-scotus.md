@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/e/ea/Saint_Augustine_by_Philippe_de_Champaigne.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Marianus Scotus
 honorific: Blessed
 summary: >-
@@ -27,6 +28,8 @@ vocation:
 religiousOrder: Benedictine
 martyr: false
 prayers: []
+imageAlt: Portrait of Blessed Marianus Scotus
+imageCreditUrl: https://en.wikipedia.org/wiki/Augustine%20of%20Hippo
 ---
 
 Pilgrim to Rome, Italy in 1067, but he never made it. As he passed through Michaelsberg, Germany, he was asked to help copy some manuscripts for a convent. With his travelling companions working to make the vellum on which he wrote, he stayed for the work, and became a Benedictine monk at Michelsberg Abbey, and then at the Upper Minster, Ratisbon, Bavaria (in modern Germany). Founded Saint Peter's abbey at Ratisbon in 1078, and served as its first abbot. This house began the congregation of twelve monasteries in southern Germany staffed by holy men from the British Isles. Marianus spent any free time copying manuscripts, including the Bible, and was known as a exceptional calligrapher; some of his manuscripts survive today.

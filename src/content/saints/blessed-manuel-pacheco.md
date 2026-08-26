@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/f/fd/Cathedral_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Manuel Pacheco
 honorific: Blessed
 summary: Jesuit friar. Missionary. Martyred by the Huguenot Jacques Sourie while en route to Brazil.
@@ -19,6 +20,8 @@ vocation:
 religiousOrder: Jesuit
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Manuel Pacheco
+imageCreditUrl: https://en.wikipedia.org/wiki/Palmarian%20Catholic%20Church
 ---
 
 Jesuit friar. Missionary. Martyred by the Huguenot Jacques Sourie while en route to Brazil.

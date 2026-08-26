@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/9/91/Nuremberg_chronicles_f_145v_4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Patrick O'Loughran
 honorific: Blessed
 summary: Priest in the archdiocese of Armagh, Ireland. One of the Irish Martyrs.
@@ -21,6 +22,8 @@ vocation:
   - Priest
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Patrick O'Loughran
+imageCreditUrl: https://en.wikipedia.org/wiki/List%20of%20saints%20of%20Ireland
 ---
 
 Priest in the archdiocese of Armagh, Ireland. One of the Irish Martyrs.

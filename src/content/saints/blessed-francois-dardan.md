@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/4/4f/Frm_beatification_banner.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed François Dardan
 honorific: Blessed
 summary: >-
@@ -23,6 +24,8 @@ vocation:
 religiousOrder: Carmelite
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed François Dardan
+imageCreditUrl: https://en.wikipedia.org/wiki/Holy%20September%20Martyrs
 ---
 
 Ordained a priest in the archdiocese of Paris, France on 5 June 1762. He taught at and served as director of the the Larressore seminary for about ten years. Minister and confessor to students of the college of Saint Barbara in Paris for over twenty years. In 1790 he received a royal prize for his work in education. During the French Revolution, he refused to take the oath of loyalty to the civil government, choosing loyalty to the Pope. One of the Martyrs of September.

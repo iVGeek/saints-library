@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/f/fb/Saint_Anthony_%28Damaskinos%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Antony of Rome
 honorific: Saint
 summary: One of 23 Christians martyred in the persecutions of Gallienus. No other information has survived.
@@ -15,6 +16,8 @@ vocation:
   - Monk
 martyr: true
 prayers: []
+imageAlt: Portrait of Saint Antony of Rome
+imageCreditUrl: https://en.wikipedia.org/wiki/Anthony%20the%20Great
 ---
 
 One of 23 Christians martyred in the persecutions of Gallienus. No other information has survived.

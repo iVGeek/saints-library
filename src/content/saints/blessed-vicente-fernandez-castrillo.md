@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/b/b6/La_Seo_del_Salvador.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Vicente Fernández Castrillo
 honorific: Blessed
 summary: Member of the Brothers of the Christian Schools. Martyred in the Spanish Civil War.
@@ -19,6 +20,8 @@ canonizationStatus: Blessed
 vocation: []
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Vicente Fernández Castrillo
+imageCreditUrl: https://en.wikipedia.org/wiki/Archdiocese%20of%20Zaragoza
 ---
 
 Member of the Brothers of the Christian Schools. Martyred in the Spanish Civil War.

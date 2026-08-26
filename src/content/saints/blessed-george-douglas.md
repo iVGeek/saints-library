@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/7/70/Madonna_Advocata.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed George Douglas
 honorific: Blessed
 summary: >-
@@ -19,6 +20,8 @@ vocation:
   - Priest
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed George Douglas
+imageCreditUrl: https://en.wikipedia.org/wiki/Mary%2C%20mother%20of%20Jesus
 ---
 
 Studied in Paris, France. Priest. Ministered to covert Catholics in England. Arrested in York and martyred for the crime of being a priest. One of the Martyrs of England, Scotland, and Wales.

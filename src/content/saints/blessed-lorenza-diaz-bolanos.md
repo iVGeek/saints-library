@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/1/1c/Bakhita_Szent_Jozefina.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Lorenza Díaz Bolaños
 honorific: Blessed
 summary: >-
@@ -20,6 +21,8 @@ vocation:
   - Religious
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Lorenza Díaz Bolaños
+imageCreditUrl: https://en.wikipedia.org/wiki/List%20of%20Africans%20venerated%20in%20the%20Catholic%20Church
 ---
 
 Nun in the Archdiocese of Madrid, Spain. Member of the Daughters of Charity of Saint Vincent de Paul. Martyred in the Spanish Civil War.

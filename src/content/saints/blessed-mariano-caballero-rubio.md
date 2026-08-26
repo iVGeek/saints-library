@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/0/08/Roma_martires_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Mariano Caballero Rubio
 honorific: Blessed
 summary: >-
@@ -22,6 +23,8 @@ vocation:
   - Cardinal
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Mariano Caballero Rubio
+imageCreditUrl: https://en.wikipedia.org/wiki/498%20Spanish%20Martyrs
 ---
 
 Ordained a priest of the archdiocese of Sevilla, Spain on 22 December 1923. Assistant pastor in Huelva on 27 April 1934. His parish church was burned by anti–Catholic forces on 21 July 1936 at the start of the Spanish Civil War, and Father Mariano went into hiding with some parishioners. He was quickly located, however, shot in the back as he was being transported to prison, and died soon after in hospital. Martyr.

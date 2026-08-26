@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/0/00/FNeri.gif?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Thomas Caccia
 honorific: Blessed
 summary: >-
@@ -22,6 +23,8 @@ vocation: []
 religiousOrder: Franciscan
 martyr: false
 prayers: []
+imageAlt: Portrait of Blessed Thomas Caccia
+imageCreditUrl: https://en.wikipedia.org/wiki/Philip%20Neri
 ---
 
 Born to the Italian nobility. He joined the Franciscans at the convent of San Nazaro in Novara, Italy, receiving the habit from Saint Bernardine of Siena. Thomas was known for his dedication to the Franciscan rule and spirituality, and for the gifts of prophecy and miraculous healing.

@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/3/36/Mrs_mary_sherwood1775_1851.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Thomas Sherwood
 honorific: Blessed
 summary: >-
@@ -22,6 +23,8 @@ vocation:
   - Confessor
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Thomas Sherwood
+imageCreditUrl: https://en.wikipedia.org/wiki/Mary%20Martha%20Sherwood
 ---
 
 A draper's assistant and a physically small man. Both parents had been arrested for clinging to their faith during a time when Catholicism was outlawed in England. Thomas aspired to the priesthood, and planned to go to Douai, France to study. Condemned to the Tower of London for his faith, he was tortured to obtain the location where he had attended Mass; while in prison, he ministered to other prisoners. Thomas stated that he considered Queen Elizabeth to be excommunicated from the Church, and that he denied her supremacy over the Church; this caused his conviction for treason. Martyr.

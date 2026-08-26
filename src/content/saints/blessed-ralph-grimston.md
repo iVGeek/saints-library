@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/4/42/Leeds_Cathedral.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Ralph Grimston
 honorific: Blessed
 summary: Married layman in the apostolic vicariate of England during a period of persecutions of Catholics. Martyr.
@@ -16,6 +17,8 @@ canonizationStatus: Blessed
 vocation: []
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Ralph Grimston
+imageCreditUrl: https://en.wikipedia.org/wiki/Leeds%20Cathedral
 ---
 
 Married layman in the apostolic vicariate of England during a period of persecutions of Catholics. Martyr.

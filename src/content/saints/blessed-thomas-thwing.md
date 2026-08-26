@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/e/e0/Holy_Trinity_Church_Heworth_York.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Thomas Thwing
 honorific: Blessed
 summary: >-
@@ -23,6 +24,8 @@ vocation:
   - Priest
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Thomas Thwing
+imageCreditUrl: https://en.wikipedia.org/wiki/Heworth%2C%20York
 ---
 
 Studied at Douai, France. Priest, ordained in 1665. Returning to England, he served as chaplain for his cousin, Sir Miles Stapleton, and chaplain to a Yorkshire school. Arrested in 1680, accused of involvement in the Titus Oates Plot. Martyr.

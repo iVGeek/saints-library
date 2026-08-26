@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/a/a8/PalmezzanoIgneo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Henry of Albano
 honorific: Blessed
 summary: Cistercian Benedictine monk. Bishop of Albano, Italy in 1179. Cardinal.
@@ -21,6 +22,8 @@ vocation:
 religiousOrder: Benedictine
 martyr: false
 prayers: []
+imageAlt: Portrait of Blessed Henry of Albano
+imageCreditUrl: https://en.wikipedia.org/wiki/Peter%20Igneus
 ---
 
 Cistercian Benedictine monk. Bishop of Albano, Italy in 1179. Cardinal.

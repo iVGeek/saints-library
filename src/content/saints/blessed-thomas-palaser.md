@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/en/d/d6/Real_Colegio_de_Ingleses_Valladolid.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Thomas Palaser
 honorific: Blessed
 summary: >-
@@ -25,6 +26,8 @@ vocation:
   - Priest
 martyr: false
 prayers: []
+imageAlt: Portrait of Blessed Thomas Palaser
+imageCreditUrl: https://en.wikipedia.org/wiki/English%20College%2C%20Valladolid
 ---
 
 Seminarian at Rheims, France, and at Valladolid, Spain. Ordained in 1596. Returned to England to minister to covert Catholics in the north. Arrested almost immediately, but managed to escape. Arrested again, he was condemned for the crime of priesthood. Marytr.

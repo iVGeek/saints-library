@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/7/70/Madonna_Advocata.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Richard Barry
 honorific: Blessed
 summary: Dominican priest. One of the Irish Martyrs.
@@ -17,6 +18,8 @@ vocation:
 religiousOrder: Dominican
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Richard Barry
+imageCreditUrl: https://en.wikipedia.org/wiki/Mary%2C%20mother%20of%20Jesus
 ---
 
 Dominican priest. One of the Irish Martyrs.

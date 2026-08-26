@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/e/e1/Three_Bishops_of_the_Anglican_Diocese_of_Szechwan.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Julien Moulé
 honorific: Blessed
 summary: >-
@@ -22,6 +23,8 @@ vocation:
   - Monk
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Julien Moulé
+imageCreditUrl: https://en.wikipedia.org/wiki/Song%20Cheng-tsi
 ---
 
 Priest in the diocese of Laval, France. Curate and rector of the college at Beaufray, France. Parish priest at Saulges, France. During the French Revolution he initially took a loyalty oath to the government, but he later repudiated it. Martyr.

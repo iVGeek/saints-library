@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/a/a1/Church_Fathers.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Auspicius of Toul
 honorific: Saint
 title: Bishop
@@ -17,6 +18,8 @@ vocation:
   - Bishop
 martyr: false
 prayers: []
+imageAlt: Portrait of Saint Auspicius of Toul
+imageCreditUrl: https://en.wikipedia.org/wiki/Patristics
 ---
 
 Bishop of Toul, France from c.470 to c.487.

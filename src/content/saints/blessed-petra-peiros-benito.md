@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/4/49/Saint_Patrick_Catholic_Church_%28Columbus%2C_Ohio%29_-_relics_of_16_Dominican_saints.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Petra Peirós Benito
 honorific: Blessed
 summary: Conceptionist nun. Martyred in the Spanish Civil War.
@@ -21,6 +22,8 @@ vocation:
   - Cardinal
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Petra Peirós Benito
+imageCreditUrl: https://en.wikipedia.org/wiki/List%20of%20Dominicans%20proposed%20for%20canonization
 ---
 
 Conceptionist nun. Martyred in the Spanish Civil War.

@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/6/60/JuliaLopezFineArtsToluca01.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Juan Aguilar Donis
 honorific: Blessed
 summary: >-
@@ -22,6 +23,8 @@ vocation:
 religiousOrder: Dominican
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Juan Aguilar Donis
+imageCreditUrl: https://en.wikipedia.org/wiki/Julia%20L%C3%B3pez%20(painter)
 ---
 
 Dominican friar. After studying philosophy and theology in Almagro, Spain. Ordained a priest in 1913, he was assigned to several Dominican houses, including in Almería, Spain. At the outbreak of the Spanish Civil War, he went into hiding to escape the anti–Catholic Communist milita, but was found on 26 August 1936, imprisoned and tortured for several days, and finally executed. Martyr.

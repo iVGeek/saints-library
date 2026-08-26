@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/8/80/Victoriano_S%C3%A1nchez_Barc%C3%A1iztegui_%28Museo_Naval_de_Madrid%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Victoriano Martínez Martín
 honorific: Blessed
 summary: Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War.
@@ -20,6 +21,8 @@ vocation: []
 religiousOrder: Marist
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Victoriano Martínez Martín
+imageCreditUrl: https://en.wikipedia.org/wiki/Victoriano%20S%C3%A1nchez%20Barc%C3%A1iztegui
 ---
 
 Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War.

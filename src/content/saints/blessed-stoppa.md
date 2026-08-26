@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/8/87/Padre_Pio_portraitFXD.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Stoppa
 honorific: Blessed
 summary: >-
@@ -20,6 +21,8 @@ vocation: []
 religiousOrder: Franciscan
 martyr: false
 prayers: []
+imageAlt: Portrait of Blessed Stoppa
+imageCreditUrl: https://en.wikipedia.org/wiki/Padre%20Pio
 ---
 
 Franciscan tertiary. At one point she travelled from Italy to Spain to help establish houses for religious life, then returned to Siena, Italy for a life of prayer. No details of her life survive, but all records of her speak of her piety.

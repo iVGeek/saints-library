@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/4/46/Chora-Kirche_2013-03-21zh_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Anatolius of Alexandria
 honorific: Saint
 summary: >-
@@ -24,6 +25,8 @@ vocation:
   - Monk
 martyr: false
 prayers: []
+imageAlt: Portrait of Saint Anatolius of Alexandria
+imageCreditUrl: https://en.wikipedia.org/wiki/Cyril%20of%20Alexandria
 ---
 
 Noted scientist, philosopher, scholar, teacher, and writer. He wrote ten books on mathematics alone, and Saint Jerome praised his scholarship and writing. Head of the Aristotlean school in Alexandria, Egypt. However, he was known not just as a scholar but as a humble and deeply religious man. Ignorance horrified him, and part of his work with the poor was to educate them. Held a number of government posts in Alexandria.

@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/1/19/Abbaye_Pontigny.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Hugh of Macon
 honorific: Blessed
 summary: >-
@@ -18,6 +19,8 @@ vocation:
 religiousOrder: Benedictine
 martyr: false
 prayers: []
+imageAlt: Portrait of Blessed Hugh of Macon
+imageCreditUrl: https://en.wikipedia.org/wiki/Pontigny%20Abbey
 ---
 
 Cistercian Benedictine monk. Abbot at Pontigny in 1114. Bishop of Auxerre, France in 1137, the first Cistercian monk to become a bishop.

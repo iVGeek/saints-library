@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/4/48/Painting_of_the_Nagasaki_Martyrs.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Mancius Araki Kyuzaburo
 honorific: Blessed
 summary: >-
@@ -22,6 +23,8 @@ vocation:
   - Missionary
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Mancius Araki Kyuzaburo
+imageCreditUrl: https://en.wikipedia.org/wiki/205%20Martyrs%20of%20Japan
 ---
 
 Lifelong layman in the archdiocese of Nagasaki, Japan. Gave Blessed Francisco Pacheco a home during his missionary work. For this he was imprisoned and left to die. Martyr.

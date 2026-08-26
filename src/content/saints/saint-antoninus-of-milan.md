@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/e/ec/MSR-ra-61-b-1-DM.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Antoninus of Milan
 honorific: Saint
 summary: Archbishop of Milan, Italy.
@@ -18,6 +19,8 @@ vocation:
   - Monk
 martyr: false
 prayers: []
+imageAlt: Portrait of Saint Antoninus of Milan
+imageCreditUrl: https://en.wikipedia.org/wiki/Marcus%20Aurelius
 ---
 
 Archbishop of Milan, Italy.

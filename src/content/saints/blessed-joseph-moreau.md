@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/8/8e/Official_Moreau_high_density.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Joseph Moreau
 honorific: Blessed
 summary: Priest of the diocese of Angers, France. Martyred in the persecutions of the French Revolution.
@@ -18,6 +19,8 @@ vocation:
   - Priest
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Joseph Moreau
+imageCreditUrl: https://en.wikipedia.org/wiki/Basil%20Moreau
 ---
 
 Priest of the diocese of Angers, France. Martyred in the persecutions of the French Revolution.

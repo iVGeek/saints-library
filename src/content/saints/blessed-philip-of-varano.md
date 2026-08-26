@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/b/bd/Camillavarano.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Philip of Varano
 honorific: Blessed
 summary: >-
@@ -25,6 +26,8 @@ vocation:
 religiousOrder: Benedictine
 martyr: false
 prayers: []
+imageAlt: Portrait of Blessed Philip of Varano
+imageCreditUrl: https://en.wikipedia.org/wiki/Camilla%20Battista%20da%20Varano
 ---
 
 Benedictine monk in the monastery of Grottafucile in Fabriano, Italy. First spiritual student of Saint Sylvester Gozzolini and member of the Sylvestrines. Priest.

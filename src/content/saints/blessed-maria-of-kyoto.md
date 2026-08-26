@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/6/60/SSND_symbol_2017.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Maria of Kyoto
 honorific: Blessed
 summary: Lay woman in the diocese of Kyoto, Japan. Married to Blessed Linus Rihyoe. One of the Martyrs of Kyoto.
@@ -16,6 +17,8 @@ canonizationStatus: Blessed
 vocation: []
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Maria of Kyoto
+imageCreditUrl: https://en.wikipedia.org/wiki/School%20Sisters%20of%20Notre%20Dame
 ---
 
 Lay woman in the diocese of Kyoto, Japan. Married to Blessed Linus Rihyoe. One of the Martyrs of Kyoto.

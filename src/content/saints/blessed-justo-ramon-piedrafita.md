@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/0/08/Josemaria_Escriva.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Justo Ramón Piedrafita
 honorific: Blessed
 summary: >-
@@ -20,6 +21,8 @@ vocation:
   - Cardinal
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Justo Ramón Piedrafita
+imageCreditUrl: https://en.wikipedia.org/wiki/Josemar%C3%ADa%20Escriv%C3%A1
 ---
 
 Married layman in the archdiocese of Madrid, Spain. Member of the Association of the Miraculous Medal. Martyred in the Spanish Civil War.

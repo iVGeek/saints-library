@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/0/08/Roma_martires_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Luis Echevarría Gorostiaga
 honorific: Blessed
 summary: >-
@@ -23,6 +24,8 @@ vocation:
 religiousOrder: Franciscan
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Luis Echevarría Gorostiaga
+imageCreditUrl: https://en.wikipedia.org/wiki/498%20Spanish%20Martyrs
 ---
 
 Studied at the Seraphic College of Chipiona in Cadiz, Spain. Franciscan Friar Minor, making his solemn vows on 17 September 1916. Ordained in the diocese of Cadiz on 29 May 1920. Teacher at Puente Genil, Cordoba, Spain; director of the school in 1922 and 1923. Served as cantor and choirmaster at the convent of the Holy Sepulchre in Jersusalem from 1923 to 1927, and then at the Basilica of the Annunciation in Nazareth from 1927 to 1929. In October 1929 he returned to teaching in Spain, and served as youth minister. Martyred in the Spanish Civil War.

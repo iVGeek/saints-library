@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/2/2e/Diocese_of_Blackburn_arms_updated.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Thomas Tunstal
 honorific: Blessed
 summary: >-
@@ -24,6 +25,8 @@ vocation:
 religiousOrder: Benedictine
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Thomas Tunstal
+imageCreditUrl: https://en.wikipedia.org/wiki/Diocese%20of%20Blackburn
 ---
 
 Benedictine. Studied at the seminary in Douai, France. Priest. He returned to England to minister to covert Catholics, using false names to hide from the authorities. Martyred for the crime of priesthood in the persecutions of King James I.

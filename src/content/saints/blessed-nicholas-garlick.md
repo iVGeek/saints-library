@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/a/ae/Oaten-hill-martyrs.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Nicholas Garlick
 honorific: Blessed
 summary: Priest in the apostolic vicariate of England. Martyred in the persecutions of Queen Elizabeth I.
@@ -18,6 +19,8 @@ vocation:
   - Priest
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Nicholas Garlick
+imageCreditUrl: https://en.wikipedia.org/wiki/Oaten%20Hill%20Martyrs
 ---
 
 Priest in the apostolic vicariate of England. Martyred in the persecutions of Queen Elizabeth I.

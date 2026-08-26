@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/4/4f/Frm_beatification_banner.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Thomas-René Dubuisson
 honorific: Blessed
 summary: >-
@@ -22,6 +23,8 @@ vocation:
 religiousOrder: Carmelite
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Thomas-René Dubuisson
+imageCreditUrl: https://en.wikipedia.org/wiki/Holy%20September%20Martyrs
 ---
 
 Priest of the diocese of Orléans, France. Served in the Holy Cross parish in Sens, France in 1781, and then at the Saint Dionysius parish in Barville. In the French Revolution, he refused to take the oath of loyalty to the civil government, which opposed loyalty to the Vatican. One of the Martyrs of September.

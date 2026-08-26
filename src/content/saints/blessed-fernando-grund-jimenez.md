@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/6/63/Max_Koch_Schlacht_bei_Hemmingstedt.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Fernando Grund Jiménez
 honorific: Blessed
 summary: >-
@@ -22,6 +23,8 @@ vocation:
 religiousOrder: Jesuit
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Fernando Grund Jiménez
+imageCreditUrl: https://en.wikipedia.org/wiki/1500s%20(decade)
 ---
 
 Studied at the Jesuit School of the Sacred Heart. Member of the Domincans. Ordained a priest in 1931. Assigned to a working class area of Almería, Spain with a mission to preach. On 21 July 1936, at the outbreak of the Spanish Civil War, he and Blessed Tomás Morales y Morales fled the anti–Catholic Communist milita, but were found on the road, imprisoned on the ship Astoy Mendi for several weeks, and then executed. Martyr.

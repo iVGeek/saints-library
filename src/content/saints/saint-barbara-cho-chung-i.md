@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/a/a6/7645Shrine_of_Saint_Andrew_Kim_Bulacan_22_%28hq%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Barbara Cho Chung-I
 honorific: Venerable
 summary: Married lay woman in the apostolic vicariate of Korea. Martyr.
@@ -22,6 +23,8 @@ canonizationStatus: Venerable
 vocation: []
 martyr: true
 prayers: []
+imageAlt: Portrait of Saint Barbara Cho Chung-I
+imageCreditUrl: https://en.wikipedia.org/wiki/Korean%20Martyrs
 ---
 
 Married lay woman in the apostolic vicariate of Korea. Martyr.

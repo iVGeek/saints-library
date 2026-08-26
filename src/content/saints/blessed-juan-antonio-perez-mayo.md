@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/0/08/Roma_martires_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Juan Antonio Pérez Mayo
 honorific: Blessed
 summary: >-
@@ -19,6 +20,8 @@ vocation:
   - Missionary
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Juan Antonio Pérez Mayo
+imageCreditUrl: https://en.wikipedia.org/wiki/498%20Spanish%20Martyrs
 ---
 
 One of seven children born to Modesto Pérez and Beatriz Mayo; his was a pious family, and Juan was baptized on 23 March 1908. Member of the Tarsicios, a religious association for children; at age 14 he started doing over-night Eucharistic adoration and started talking about becoming a missionary. Member of the Missionary Oblates of Mary Immaculate, making his first profession on 15 August 1927. Studied at the Pontifical University of Saint Thomas in Rome, Italy, made his perpetual vows in 1930, and was ordained on 26 June 1932. Worked in the Basque region in 1934, then in Madrid in 1935 where he taught philosophy. Arrested on 22 July 1936 by anti–Catholic forces fighting in the Spanish Civil War, he was imprisoned for a couple of days then martyred for his faith.

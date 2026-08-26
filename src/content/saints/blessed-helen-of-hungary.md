@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/c/cf/Jolanta.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Helen of Hungary
 honorific: Blessed
 summary: >-
@@ -20,6 +21,8 @@ vocation:
 religiousOrder: Dominican
 martyr: false
 prayers: []
+imageAlt: Portrait of Blessed Helen of Hungary
+imageCreditUrl: https://en.wikipedia.org/wiki/Yolanda%20of%20Poland
 ---
 
 Dominican nun in Veszprem, Hungary. Novice mistress to Saint Margaret of Hungary. Prioress. Reputed stigmatist. Given to ecstasies, and lilies of light grew from her hands during prayers.

@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/5/53/1899._Tzarevich_Dmitry_by_M._Nesterov.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed José Quintas Durán
 honorific: Blessed
 summary: Young layman in the diocese of Almería, Spain. Martyred in the Spanish Civil War.
@@ -17,6 +18,8 @@ vocation:
   - Cardinal
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed José Quintas Durán
+imageCreditUrl: https://en.wikipedia.org/wiki/List%20of%20child%20saints
 ---
 
 Young layman in the diocese of Almería, Spain. Martyred in the Spanish Civil War.

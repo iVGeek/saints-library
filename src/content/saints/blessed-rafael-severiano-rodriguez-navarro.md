@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/f/f8/Cruz_de_la_Parra.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Rafaél Severiano Rodríguez Navarro
 honorific: Blessed
 summary: Franciscan Capuchin monk. Martyred in the Spanish Civil War.
@@ -21,6 +22,8 @@ vocation:
 religiousOrder: Franciscan
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Rafaél Severiano Rodríguez Navarro
+imageCreditUrl: https://en.wikipedia.org/wiki/List%20of%20venerated%20Central%20Americans%20and%20Caribbeans
 ---
 
 Franciscan Capuchin monk. Martyred in the Spanish Civil War.

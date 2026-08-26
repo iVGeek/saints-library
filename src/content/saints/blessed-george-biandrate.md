@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/4/4b/Cairo_Self.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed George Biandrate
 honorific: Blessed
 title: Virgin
@@ -18,6 +19,8 @@ vocation:
   - Virgin
 martyr: false
 prayers: []
+imageAlt: Portrait of Blessed George Biandrate
+imageCreditUrl: https://en.wikipedia.org/wiki/Francesco%20Cairo
 ---
 
 Born to the nobility, the family of the counts of San Giorgio Canavese. Noted for his devotion to the Blessed Virgin Mary.

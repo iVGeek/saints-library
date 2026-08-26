@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/d/db/Blessed-james-duckett.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Robert Watkinson
 honorific: Blessed
 summary: >-
@@ -19,6 +20,8 @@ vocation:
   - Priest
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Robert Watkinson
+imageCreditUrl: https://en.wikipedia.org/wiki/James%20Duckett
 ---
 
 Priest in the apostolic vicariate of England. Only a month after his ordination, he was imprisoned and executed in the persecutions of Queen Elizabeth I for the crime of being a priest. Martyr.

@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/0/01/Blessed_Richard_Whiting_of_Glastonbury.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Roger James
 honorific: Blessed
 summary: >-
@@ -21,6 +22,8 @@ vocation:
 religiousOrder: Benedictine
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Roger James
+imageCreditUrl: https://en.wikipedia.org/wiki/Richard%20Whiting%20(abbot)
 ---
 
 Sub-treasurer of, sacristan for and the youngest Benedictine monk in Glastonbury Abbey. Arrested for refusing to acknowledge King Henry VIII as head of the Church. Martyr.

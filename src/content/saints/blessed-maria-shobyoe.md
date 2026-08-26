@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/4/48/Painting_of_the_Nagasaki_Martyrs.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Maria Shobyoe
 honorific: Blessed
 summary: Member of the Secular Francisicans in the archdiocese of Nagasaki, Japan. Married to Blessed Tsuji Shobyoe. Martyr.
@@ -18,6 +19,8 @@ vocation:
 religiousOrder: Franciscan
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Maria Shobyoe
+imageCreditUrl: https://en.wikipedia.org/wiki/205%20Martyrs%20of%20Japan
 ---
 
 Member of the Secular Francisicans in the archdiocese of Nagasaki, Japan. Married to Blessed Tsuji Shobyoe. Martyr.

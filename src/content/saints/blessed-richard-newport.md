@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/2/29/Gary_R._Studniewski_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Richard Newport
 honorific: Blessed
 summary: >-
@@ -23,6 +24,8 @@ vocation:
   - Monk
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Richard Newport
+imageCreditUrl: https://en.wikipedia.org/wiki/Gary%20Studniewski
 ---
 
 Studied in Douai, France and Rome, Italy, and ordained in 1597. Returning to England, he minister to covert Catholics in London for several years. He was imprisoned and exiled twice for the crime of being a priest, returning each time before being arrested and condemned to death. Martyred in the persecutions of King James I.

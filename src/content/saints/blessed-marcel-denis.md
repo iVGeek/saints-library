@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/7/7f/M%C3%A4rtyrer_von_Nagasaki_1628.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Marcel Denis
 honorific: Blessed
 summary: Member of the Paris Foreign Missions Society. Priest. Martyr.
@@ -19,6 +20,8 @@ vocation:
   - Cardinal
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Marcel Denis
+imageCreditUrl: https://en.wikipedia.org/wiki/List%20of%20saints%20from%20Asia
 ---
 
 Member of the Paris Foreign Missions Society. Priest. Martyr.

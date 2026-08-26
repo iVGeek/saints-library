@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/8/80/Basilica_of_the_National_Shrine_of_the_Immaculate_Conception.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Josep Tristany Pujol
 honorific: Blessed
 summary: Priest. Member of the Discalced Carmelites. Martyred in the Spanish Civil War.
@@ -21,6 +22,8 @@ vocation:
 religiousOrder: Carmelite
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Josep Tristany Pujol
+imageCreditUrl: https://en.wikipedia.org/wiki/List%20of%20venerated%20American%20Catholics
 ---
 
 Priest. Member of the Discalced Carmelites. Martyred in the Spanish Civil War.

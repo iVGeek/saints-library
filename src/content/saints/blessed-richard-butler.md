@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/d/de/Maria_Faustyna_Kowalska.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Richard Butler
 honorific: Blessed
 summary: Franciscan Friar Minor priest. One of the Irish Martyrs.
@@ -17,6 +18,8 @@ vocation:
 religiousOrder: Franciscan
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Richard Butler
+imageCreditUrl: https://en.wikipedia.org/wiki/Faustina%20Kowalska
 ---
 
 Franciscan Friar Minor priest. One of the Irish Martyrs.

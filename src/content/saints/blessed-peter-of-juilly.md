@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/d/de/Saintlouis_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Peter of Juilly
 honorific: Blessed
 summary: >-
@@ -22,6 +23,8 @@ vocation:
 religiousOrder: Benedictine
 martyr: false
 prayers: []
+imageAlt: Portrait of Blessed Peter of Juilly
+imageCreditUrl: https://en.wikipedia.org/wiki/Louis%20IX%20of%20France
 ---
 
 Benedictine monk. Noted preacher. Friend of Saint Stephen Harding, and worked with him at the monastery in Molesme. Chaplain, rector and confessor to the convent of Juilly les Nonnais, France where he worked with Saint Humbeline. Miracle worker.

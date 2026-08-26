@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/f/fd/Cathedral_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Primo Martínez de San Vicente Castillo
 honorific: Blessed
 summary: >-
@@ -19,6 +20,8 @@ canonizationStatus: Blessed
 vocation: []
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Primo Martínez de San Vicente Castillo
+imageCreditUrl: https://en.wikipedia.org/wiki/Palmarian%20Catholic%20Church
 ---
 
 Joined the Hospitallers of Saint John of God in 1885 and making his final vows on 11 October 1887. Superior of the school in Talavera, Spain. Martyred in the Spanish Civil War.

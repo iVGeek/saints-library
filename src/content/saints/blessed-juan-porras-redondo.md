@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/c/c9/Dotie_Joseph.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Juan Porras Redondo
 honorific: Blessed
 summary: >-
@@ -21,6 +22,8 @@ vocation:
   - Cardinal
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Juan Porras Redondo
+imageCreditUrl: https://en.wikipedia.org/wiki/Dotie%20Joseph
 ---
 
 Priest of the diocese of Córdoba, Spain, serving in the Azuel-Cardeña, El Carpio, Pedroche and Ojuelos Altos communities. Martyred in the Spanish Civil War.

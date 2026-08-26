@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/1/18/Sants_Justs_i_Pastor.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Justo Vicente Martínez
 honorific: Blessed
 summary: Dominican friar. Martyred in the Spanish Civil War.
@@ -18,6 +19,8 @@ vocation: []
 religiousOrder: Dominican
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Justo Vicente Martínez
+imageCreditUrl: https://en.wikipedia.org/wiki/Justus%20and%20Pastor
 ---
 
 Dominican friar. Martyred in the Spanish Civil War.

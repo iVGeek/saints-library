@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/0/0a/St-thomas-aquinasFXD.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Thomas Hunt
 honorific: Blessed
 summary: >-
@@ -23,6 +24,8 @@ vocation:
   - Priest
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Thomas Hunt
+imageCreditUrl: https://en.wikipedia.org/wiki/Thomas%20Aquinas
 ---
 
 Studied at the Royal College of Saint Alban in Valladolid, Spain, and the English College of Saint Gregory in Seville, Spain. Ordained at Seville in 1599. He returned to England to minister to covert Catholics. He was almost immediately arrested at the Saracen's Head, Lincoln with Blessed Thomas Sprott. He escaped, was caught again, and condemned for the crime of being a priest.  Martyred for the crime of being a priest during the persecutions of Queen Elizabeth I.

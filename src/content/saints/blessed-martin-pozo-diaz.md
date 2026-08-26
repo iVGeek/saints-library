@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/0/08/Roma_martires_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Martín Pozo Díaz
 honorific: Blessed
 summary: Married layman in the diocese of Córdoba, Spain.
@@ -18,6 +19,8 @@ vocation:
   - Cardinal
 martyr: false
 prayers: []
+imageAlt: Portrait of Blessed Martín Pozo Díaz
+imageCreditUrl: https://en.wikipedia.org/wiki/498%20Spanish%20Martyrs
 ---
 
 Married layman in the diocese of Córdoba, Spain.

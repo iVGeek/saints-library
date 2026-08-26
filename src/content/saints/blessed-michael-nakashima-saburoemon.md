@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/4/48/Painting_of_the_Nagasaki_Martyrs.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Michaël Nakashima Saburoemon
 honorific: Blessed
 summary: Jesuit. Martyred for hiding and assisting priests and missionaries.
@@ -19,6 +20,8 @@ vocation:
 religiousOrder: Jesuit
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Michaël Nakashima Saburoemon
+imageCreditUrl: https://en.wikipedia.org/wiki/205%20Martyrs%20of%20Japan
 ---
 
 Jesuit. Martyred for hiding and assisting priests and missionaries.

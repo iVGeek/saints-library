@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/e/ea/EudisteEmb.gif?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed François Lefranc
 honorific: Blessed
 summary: Eudist priest. One of the Martyrs of September.
@@ -19,6 +20,8 @@ vocation:
 religiousOrder: Carmelite
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed François Lefranc
+imageCreditUrl: https://en.wikipedia.org/wiki/Congregation%20of%20Jesus%20and%20Mary
 ---
 
 Eudist priest. One of the Martyrs of September.

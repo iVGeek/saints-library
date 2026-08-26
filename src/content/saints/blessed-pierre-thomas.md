@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/0/0a/St-thomas-aquinasFXD.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Pierre Thomas
 honorific: Blessed
 summary: Priest in the diocese of Laval, France. Martyred in the French Revolution.
@@ -19,6 +20,8 @@ vocation:
   - Monk
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Pierre Thomas
+imageCreditUrl: https://en.wikipedia.org/wiki/Thomas%20Aquinas
 ---
 
 Priest in the diocese of Laval, France. Martyred in the French Revolution.

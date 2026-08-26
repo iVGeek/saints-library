@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/f/f8/GA_Ordre_du_Saint-S%C3%A9pulcre.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Gautier of Bruges
 honorific: Blessed
 summary: >-
@@ -35,6 +36,8 @@ patronage:
   - against fever
 martyr: false
 prayers: []
+imageAlt: Portrait of Blessed Gautier of Bruges
+imageCreditUrl: https://en.wikipedia.org/wiki/Order%20of%20the%20Holy%20Sepulchre%20(Catholic)
 ---
 
 Member of the Franciscans, joining at the convent of Bruges, Belgium c.1240. Studied in Paris, France where he was the spiritual student of Saint Bonaventure of Bagnoregio. He taught theology and served as regent master in Paris from 1267 to 1269. Franciscan provincial minister for France in 1269. Part of the Franciscan general chapters in Lyon, France in 1274, Padua, Italy in 1276, and Assisi, Italy in 1279. Wrote a number of theological works, some of which have survived to today.

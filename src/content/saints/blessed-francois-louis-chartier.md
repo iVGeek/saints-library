@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/c/c3/Joan_of_Arc_miniature_graded.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed François-Louis Chartier
 honorific: Blessed
 summary: Priest in the diocese of Angers, France. Martyred in the persecutions of the French Revolution.
@@ -20,6 +21,8 @@ vocation:
   - Priest
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed François-Louis Chartier
+imageCreditUrl: https://en.wikipedia.org/wiki/Joan%20of%20Arc
 ---
 
 Priest in the diocese of Angers, France. Martyred in the persecutions of the French Revolution.

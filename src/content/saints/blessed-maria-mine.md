@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/0/08/Josemaria_Escriva.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Maria Mine
 honorific: Blessed
 summary: >-
@@ -18,6 +19,8 @@ canonizationStatus: Blessed
 vocation: []
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Maria Mine
+imageCreditUrl: https://en.wikipedia.org/wiki/Josemar%C3%ADa%20Escriv%C3%A1
 ---
 
 Lay woman in the archdiocese of Nagasaki, Japan. Married to Blessed Ioachim Mine Sukedayu. One of the Martyrs of Unzen.

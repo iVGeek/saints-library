@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/7/76/Fontana_e_municipio%2C_Mortara%2C_Lombardia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Amelius of Mortara
 honorific: Saint
 summary: Knight in the army of Blessed Charlemagne. Fought in the campaign against the Lombards in northern Italy. Martyr.
@@ -20,6 +21,8 @@ patronage:
   - Mortara, Italy
 martyr: true
 prayers: []
+imageAlt: Portrait of Saint Amelius of Mortara
+imageCreditUrl: https://en.wikipedia.org/wiki/Mortara%2C%20Lombardy
 ---
 
 Knight in the army of Blessed Charlemagne. Fought in the campaign against the Lombards in northern Italy. Martyr.

@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/5/5c/Sister_Krizina_Bojac.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Jožefa Bojanc
 honorific: Blessed
 summary: Member of the Daughters of Divine Charity. Martyred while fighting off Chetnik rapists.
@@ -23,6 +24,8 @@ vocation:
   - Cardinal
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Jožefa Bojanc
+imageCreditUrl: https://en.wikipedia.org/wiki/Krizina%20Bojanc
 ---
 
 Member of the Daughters of Divine Charity. Martyred while fighting off Chetnik rapists.

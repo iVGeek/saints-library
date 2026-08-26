@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/e/e1/Tullio_%28Tulio%29_Maruzzo_y_Angello_Roncali.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 name: Blessed Tullio Maruzzo
 honorific: Blessed
 summary: >-
@@ -24,6 +25,11 @@ vocation:
   - Missionary
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Tullio Maruzzo
+imageCredit: >-
+  <a href="//commons.wikimedia.org/w/index.php?title=User:Julitomenchu&amp;action=edit&amp;redlink=1" class="new"
+  title="User:Julitomenchu (page does not exist)">Julitomenchu</a>
+imageCreditUrl: https://commons.wikimedia.org/wiki/File:Tullio%20(Tulio)%20Maruzzo%20y%20Angello%20Roncali.jpg
 ---
 
 Born a twin, with a brother named Lucio. Member of the Order of Friars Minor, making his profession on 15 July 1951. He and his brother Lucio were ordained priests on 21 June 1953. Missionary to Guatemala in 1960 where he fought for the rights of the poor against the wealthy land owners. Murdered by anti–Christian guerrillas. Martyr.

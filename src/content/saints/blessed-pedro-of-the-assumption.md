@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/6/6d/Beata_Juana_de_Aza_madre_de_Sto_Domingo_Guzman.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Pedro of the Assumption
 honorific: Blessed
 summary: Franciscan Friars Minor (Alcantarines) missionary priest. Martyr.
@@ -24,6 +25,8 @@ vocation:
 religiousOrder: Franciscan
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Pedro of the Assumption
+imageCreditUrl: https://en.wikipedia.org/wiki/Joan%20of%20Aza
 ---
 
 Franciscan Friars Minor (Alcantarines) missionary priest. Martyr.

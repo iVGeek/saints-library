@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/a/a2/Blessed-robert-anderton.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed William Marsden
 honorific: Blessed
 summary: >-
@@ -21,6 +22,8 @@ vocation:
   - Priest
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed William Marsden
+imageCreditUrl: https://en.wikipedia.org/wiki/Robert%20Anderton
 ---
 
 Convert to Catholicism; entered the English College at Rheims, France in 1580. Ordained at Rheims with his friend and co-worker Blessed Robert Anderton. Sailed for England as a home missioner, but their ship was driven off course, and wrecked on the Isle of Wight. Arrested soon after, they were charged with being priests on English soil. They argued that they had been shipwrecked, and had no choice about being there; due to the appeal, they were sent to London for further interrogation. There they acknowledged Elizabeth as their lawful queen in temporal matters, but would not not in matters spiritual. Martyred.

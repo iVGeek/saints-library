@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/7/70/Madonna_Advocata.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Sebastian of the Holy Spirit
 honorific: Blessed
 summary: >-
@@ -171,6 +172,8 @@ prayers:
 
       Saints of God, pray for us.
     source: https://www.catholicculture.org/culture/liturgicalyear/prayers/view.cfm?id=1039
+imageAlt: Portrait of Blessed Sebastian of the Holy Spirit
+imageCreditUrl: https://en.wikipedia.org/wiki/Mary%2C%20mother%20of%20Jesus
 ---
 
 Mercedarian lay brother at the convent of the Holy Spirit in Lima, Peru. Miracle worker known to heal the sick by singing the Magnificat.

@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/3/30/PaniquiChurchjf5479_07.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Pio Ruiz De La Torre
 honorific: Blessed
 summary: Member of the Christian Brothers. Martyred in the Spanish Civil War.
@@ -19,6 +20,8 @@ canonizationStatus: Blessed
 vocation: []
 martyr: true
 prayers: []
+imageAlt: Portrait of Blessed Pio Ruiz De La Torre
+imageCreditUrl: https://en.wikipedia.org/wiki/List%20of%20South%20American%20Catholic%20saints
 ---
 
 Member of the Christian Brothers. Martyred in the Spanish Civil War.

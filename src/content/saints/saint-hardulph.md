@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: https://www.catholic.org/files/images/saints/3698.jpg
 name: Saint Hardulph
 honorific: Saint
 summary: >-
@@ -14,6 +14,9 @@ vocation:
   - Monk
 martyr: false
 prayers: []
+imageAlt: Artistic portrait of Saint Hardulph
+imageCredit: Catholic Online
+imageCreditUrl: https://www.catholic.org/saints/saint.php?saint_id=3698
 ---
 
 The church at Breedon-on-the-Hill, Leicestershire, England is dedicated to this saint, but nothing of his story has survived.

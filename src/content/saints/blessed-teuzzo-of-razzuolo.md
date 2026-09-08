@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: https://www.santiebeati.it/immagini/Thumbs/99469/99469.jpg
 name: Blessed Teuzzo of Razzuolo
 honorific: Blessed
 summary: >-
@@ -19,6 +19,9 @@ vocation:
 religiousOrder: Benedictine
 martyr: false
 prayers: []
+imageAlt: Depiction of Blessed Teuzzo of Razzuolo
+imageCredit: Santiebeati.it
+imageCreditUrl: https://www.santiebeati.it/dettaglio/99469
 ---
 
 An early spiritual student of Saint Giovanni Gualberto, Teuzzo became a Benedictine monk at the monastery in Vallombrosa, Italy, a house that adhered strictly to the Benedictine Rule, and where he where served as a nurse. In the mid-11th century, when the third Vallombrosan abbey of San Paolo in Razzuolo (part of modern Borgo San Lorenzo), Italy, Teuzzo served as its first abbot, starting with eight brother monks; his first act was to built a hospital and hospice staffed by the monks. Wrote about the life and work of Saint Giovanni, and about the meaning and application of the Benedictine Rule.

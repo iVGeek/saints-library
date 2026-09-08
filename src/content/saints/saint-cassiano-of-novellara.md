@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: https://www.santiebeati.it/immagini/Thumbs/91781/91781.JPG
 name: Saint Cassiano of Novellara
 honorific: Saint
 summary: Bishop. Martyred in the persecutions of Diocletian with several of his flock.
@@ -17,6 +17,9 @@ vocation:
   - Bishop
 martyr: true
 prayers: []
+imageAlt: Depiction of Saint Cassiano of Novellara
+imageCredit: Santiebeati.it
+imageCreditUrl: https://www.santiebeati.it/dettaglio/91781
 ---
 
 Bishop. Martyred in the persecutions of Diocletian with several of his flock.

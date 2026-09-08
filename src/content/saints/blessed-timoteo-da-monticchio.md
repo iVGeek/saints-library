@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: https://www.santiebeati.it/immagini/Thumbs/91914/91914.jpg
 name: Blessed Timoteo da Monticchio
 honorific: Blessed
 summary: >-
@@ -22,6 +22,9 @@ vocation:
 religiousOrder: Franciscan
 martyr: false
 prayers: []
+imageAlt: Depiction of Blessed Timoteo da Monticchio
+imageCredit: Santiebeati.it
+imageCreditUrl: https://www.santiebeati.it/dettaglio/91914
 ---
 
 Born to a peasant family and grew up poor but pious. Joined the Franciscan Friars Minor. Priest. Franciscan novice master in Campli, Teramo, Italy, and lived in the San Angelo d'Ocre convent. Noted for his austere devotion to the Franciscan life, his deep prayer life, and devotion to Franciscan saints. Received visions of the Blessed Virgin Mary and Saint Francis of Assisi.

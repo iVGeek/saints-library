@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: https://www.santiebeati.it/immagini/Thumbs/97458/97458.JPG
 name: Blessed Teófilo Casajús Alduán
 honorific: Blessed
 summary: Member of the Claretians. Martyred in the Spanish Civil War.
@@ -19,6 +19,9 @@ vocation:
   - Cardinal
 martyr: true
 prayers: []
+imageAlt: Depiction of Blessed Teófilo Casajús Alduán
+imageCredit: Santiebeati.it
+imageCreditUrl: https://www.santiebeati.it/dettaglio/97458
 ---
 
 Member of the Claretians. Martyred in the Spanish Civil War.

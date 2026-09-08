@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: https://www.catholic.org/files/images/saints/3509.jpg
 name: Saint Gallgo
 honorific: Saint
 summary: Sixth century founder of the Llanallgo monastery in Anglesey, Wales.
@@ -13,6 +13,9 @@ vocation:
   - Monk
 martyr: false
 prayers: []
+imageAlt: Artistic portrait of Saint Gallgo
+imageCredit: Catholic Online
+imageCreditUrl: https://www.catholic.org/saints/saint.php?saint_id=3509
 ---
 
 Sixth century founder of the Llanallgo monastery in Anglesey, Wales.

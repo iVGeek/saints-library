@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: https://www.santiebeati.it/immagini/Thumbs/100176/100176.jpg
 name: Saint Fathna
 honorific: Saint
 title: Bishop
@@ -14,6 +14,9 @@ vocation:
   - Bishop
 martyr: false
 prayers: []
+imageAlt: Depiction of Saint Fathna
+imageCredit: Santiebeati.it
+imageCreditUrl: https://www.santiebeati.it/dettaglio/100176
 ---
 
 Bishop.

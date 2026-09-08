@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: https://www.santiebeati.it/immagini/Thumbs/99591/99591.jpg
 name: Saint Flaminia of Davayat
 honorific: Saint
 summary: Martyr.
@@ -20,6 +20,9 @@ patronage:
   - against eye diseases
 martyr: true
 prayers: []
+imageAlt: Depiction of Saint Flaminia of Davayat
+imageCredit: Santiebeati.it
+imageCreditUrl: https://www.santiebeati.it/dettaglio/99591
 ---
 
 Martyr.

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: https://www.santiebeati.it/immagini/Thumbs/97207/97207.JPG
 name: Blessed José Almunia López-Teruel
 honorific: Blessed
 summary: >-
@@ -22,6 +22,9 @@ vocation:
   - Cardinal
 martyr: true
 prayers: []
+imageAlt: Depiction of Blessed José Almunia López-Teruel
+imageCredit: Santiebeati.it
+imageCreditUrl: https://www.santiebeati.it/dettaglio/97207
 ---
 
 Brother of Blessed Alfredo Almunia López-Teruel. After studying at the seminary of San Indalecio de Almería, José was ordained a priest in the diocese of Almería, Spain on 23 June 1893. Parish priest, and supporter of the group Daughters of Mary. He earned a doctorate in theology in 1894, a degree in canon law in 1906, and a degree in civil law in 1909. Teacher. Martyred in the Spanish Civil War.

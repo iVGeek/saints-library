@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: https://www.santiebeati.it/immagini/Thumbs/100786/100786.JPG
 name: Blessed Ciril Montaner Fabré
 honorific: Blessed
 summary: >-
@@ -22,6 +22,9 @@ vocation:
   - Cardinal
 martyr: true
 prayers: []
+imageAlt: Depiction of Blessed Ciril Montaner Fabré
+imageCredit: Santiebeati.it
+imageCreditUrl: https://www.santiebeati.it/dettaglio/100786
 ---
 
 Member of the Claretians, professsed on 7 March 1897 in Cervera, Spain. Ordained a priest on 29 June 1902. Martyred in the Spanish Civil War.

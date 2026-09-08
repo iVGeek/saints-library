@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: https://www.santiebeati.it/immagini/Thumbs/99744/99744.jpg
 name: Saint Liadán of Killyon
 honorific: Saint
 summary: >-
@@ -23,6 +23,9 @@ vocation:
   - Religious
 martyr: true
 prayers: []
+imageAlt: Depiction of Saint Liadán of Killyon
+imageCredit: Santiebeati.it
+imageCreditUrl: https://www.santiebeati.it/dettaglio/99744
 ---
 
 Daughter of a pagan chieftain, and the mother of Saint Kieran; a legend in the Oengu Martyrology says that she conceived Kieran “when a star fell into her mouth”. She was a convert, brought to the faith by her son. Helping Saint Patrick and Saint Kieran spread the faith, she became a nun and then abbess.

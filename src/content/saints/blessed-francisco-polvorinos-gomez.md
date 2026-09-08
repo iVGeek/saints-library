@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: https://www.santiebeati.it/immagini/Thumbs/95880/95880.jpg
 name: Blessed Francisco Polvorinos Gómez
 honorific: Blessed
 summary: Priest. Member of the Missionary Oblates of Mary Immaculate. Martyr.
@@ -16,6 +16,9 @@ vocation:
   - Missionary
 martyr: true
 prayers: []
+imageAlt: Depiction of Blessed Francisco Polvorinos Gómez
+imageCredit: Santiebeati.it
+imageCreditUrl: https://www.santiebeati.it/dettaglio/95880
 ---
 
 Priest. Member of the Missionary Oblates of Mary Immaculate. Martyr.

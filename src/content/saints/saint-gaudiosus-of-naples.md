@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: https://www.catholic.org/files/images/saints/3522.jpg
 name: Saint Gaudiosus of Naples
 honorific: Saint
 summary: >-
@@ -21,6 +21,9 @@ vocation:
   - Monk
 martyr: false
 prayers: []
+imageAlt: Artistic portrait of Saint Gaudiosus of Naples
+imageCredit: Catholic Online
+imageCreditUrl: https://www.catholic.org/saints/saint.php?saint_id=3522
 ---
 
 Bishop of Abitinae in North Africa. Exiled by the Arian Vandal king Genseric in 440, he fled to Naples, Italy, where he founded a monastery.

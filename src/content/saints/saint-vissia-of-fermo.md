@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: https://www.santiebeati.it/immagini/Thumbs/91652/91652.JPG
 name: Saint Vissia of Fermo
 honorific: Saint
 summary: Consecrated virgin martyred in the persecutions of Decius.
@@ -19,6 +19,9 @@ patronage:
   - Fermo, Italy
 martyr: true
 prayers: []
+imageAlt: Depiction of Saint Vissia of Fermo
+imageCredit: Santiebeati.it
+imageCreditUrl: https://www.santiebeati.it/dettaglio/91652
 ---
 
 Consecrated virgin martyred in the persecutions of Decius.

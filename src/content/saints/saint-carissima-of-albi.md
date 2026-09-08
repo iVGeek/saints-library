@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: https://www.santiebeati.it/immagini/Thumbs/69510/69510.jpg
 name: Saint Carissima of Albi
 honorific: Saint
 summary: >-
@@ -15,6 +15,9 @@ canonizationStatus: Saint
 vocation: []
 martyr: false
 prayers: []
+imageAlt: Depiction of Saint Carissima of Albi
+imageCredit: Santiebeati.it
+imageCreditUrl: https://www.santiebeati.it/dettaglio/69510
 ---
 
 Fifth century anchoress who lived for years in a forest near Albi, France, and in later years moved to the convent of Viants.

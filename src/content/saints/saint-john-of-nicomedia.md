@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: https://www.catholic.org/files/images/saints/4022.jpg
 name: Saint John of Nicomedia
 honorific: Saint
 summary: When an edict of Christian persecution was posted in Nicomedia, John ripped it down and tore it to pieces. Martyr.
@@ -14,6 +14,9 @@ vocation:
   - Monk
 martyr: true
 prayers: []
+imageAlt: Artistic portrait of Saint John of Nicomedia
+imageCredit: Catholic Online
+imageCreditUrl: https://www.catholic.org/saints/saint.php?saint_id=4022
 ---
 
 When an edict of Christian persecution was posted in Nicomedia, John ripped it down and tore it to pieces. Martyr.

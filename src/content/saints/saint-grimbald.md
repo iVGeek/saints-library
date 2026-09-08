@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: https://www.catholic.org/files/images/saints/3608.jpg
 name: Saint Grimbald
 honorific: Saint
 summary: >-
@@ -22,6 +22,9 @@ vocation:
 religiousOrder: Benedictine
 martyr: false
 prayers: []
+imageAlt: Artistic portrait of Saint Grimbald
+imageCredit: Catholic Online
+imageCreditUrl: https://www.catholic.org/saints/saint.php?saint_id=3608
 ---
 
 Benedictine monk, and prior of Saint Bertin monastery. Alfred of England was impressed with the man's holiness, and when he ascended the throne, Alfred asked Grimbald to come to England to share his knowledge and holiness. Grimbald arrived in England around 885, and impressed many with his knowledge of Scripture, his skill in music, and his holiness. Grimbald helped found the University of Oxford, and served as its first professor of divinity. Declined the bishopric of Canterbury. He retired to Winchester, and with the king's encouragement, he began the foundation of Newminister, and was then installed as abbot. After two decades in England, Grimbald became ill. He took Communion, spent several days in contemplation, gathered the monks of the community to his room for one last time of fellowship, and died.

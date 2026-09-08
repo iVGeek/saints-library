@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: https://www.santiebeati.it/immagini/Thumbs/97213/97213.JPG
 name: Blessed Aurelio Leyva Garzón
 honorific: Blessed
 summary: Priest of the diocese of Guadix, Spain. Martyred in the Spanish Civil War.
@@ -19,6 +19,9 @@ vocation:
   - Cardinal
 martyr: true
 prayers: []
+imageAlt: Depiction of Blessed Aurelio Leyva Garzón
+imageCredit: Santiebeati.it
+imageCreditUrl: https://www.santiebeati.it/dettaglio/97213
 ---
 
 Priest of the diocese of Guadix, Spain. Martyred in the Spanish Civil War.

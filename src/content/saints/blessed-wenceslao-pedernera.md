@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: https://www.santiebeati.it/immagini/Thumbs/96724/96724.JPG
 name: Blessed Wenceslao Pedernera
 honorific: Blessed
 summary: >-
@@ -20,6 +20,9 @@ vocation:
   - Cardinal
 martyr: false
 prayers: []
+imageAlt: Depiction of Blessed Wenceslao Pedernera
+imageCredit: Santiebeati.it
+imageCreditUrl: https://www.santiebeati.it/dettaglio/96724
 ---
 
 Married layman of the diocese of La Rioja, Argentina. Organized the Movimiento Rural Catolico. Murdered in front of his family.

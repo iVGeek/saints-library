@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: https://www.catholic.org/files/images/saints/812.jpg
 name: Saint Rufus
 honorific: Saint
 summary: Martyred with his entire household in the persecutions of Diocletian. No other information has survived.
@@ -15,6 +15,9 @@ vocation:
   - Monk
 martyr: true
 prayers: []
+imageAlt: Artistic portrait of Saint Rufus
+imageCredit: Catholic Online
+imageCreditUrl: https://www.catholic.org/saints/saint.php?saint_id=812
 ---
 
 Martyred with his entire household in the persecutions of Diocletian. No other information has survived.

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: https://www.santiebeati.it/immagini/Thumbs/100155/100155.JPG
 name: Blessed Enrique Palacios Monrabá
 honorific: Blessed
 summary: >-
@@ -22,6 +22,9 @@ vocation:
   - Cardinal
 martyr: true
 prayers: []
+imageAlt: Depiction of Blessed Enrique Palacios Monrabá
+imageCredit: Santiebeati.it
+imageCreditUrl: https://www.santiebeati.it/dettaglio/100155
 ---
 
 The son of Blessed Manuel Palacios Rodríguez, Enrique entered the seminary of the archdiocese of Seville, Spain on 29 August 1928. He was visiting his family in the summer of 1936 when the Spanish Civil War broke out. He and his father were arrested and executed together. Martyr.

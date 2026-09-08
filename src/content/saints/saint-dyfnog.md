@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: https://www.catholic.org/files/images/saints/3007.jpg
 name: Saint Dyfnog
 honorific: Saint
 summary: Venerated in Clwyd, Wales.
@@ -14,6 +14,9 @@ vocation:
   - Monk
 martyr: false
 prayers: []
+imageAlt: Artistic portrait of Saint Dyfnog
+imageCredit: Catholic Online
+imageCreditUrl: https://www.catholic.org/saints/saint.php?saint_id=3007
 ---
 
 Venerated in Clwyd, Wales.

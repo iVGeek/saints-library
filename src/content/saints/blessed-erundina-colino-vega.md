@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: https://www.santiebeati.it/immagini/Thumbs/100530/100530.JPG
 name: Blessed Erundina Colino Vega
 honorific: Blessed
 summary: Member of the Carmelite Sisters of Charity. Martyred in the Spanish Civil War.
@@ -21,6 +21,9 @@ vocation:
 religiousOrder: Carmelite
 martyr: true
 prayers: []
+imageAlt: Depiction of Blessed Erundina Colino Vega
+imageCredit: Santiebeati.it
+imageCreditUrl: https://www.santiebeati.it/dettaglio/100530
 ---
 
 Member of the Carmelite Sisters of Charity. Martyred in the Spanish Civil War.

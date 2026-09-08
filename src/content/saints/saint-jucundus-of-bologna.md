@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: https://www.catholic.org/files/images/saints/4101.jpg
 name: Saint Jucundus of Bologna
 honorific: Saint
 summary: Bishop of Bologna, Italy.
@@ -18,6 +18,9 @@ vocation:
   - Monk
 martyr: false
 prayers: []
+imageAlt: Artistic portrait of Saint Jucundus of Bologna
+imageCredit: Catholic Online
+imageCreditUrl: https://www.catholic.org/saints/saint.php?saint_id=4101
 ---
 
 Bishop of Bologna, Italy.

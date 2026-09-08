@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: https://www.santiebeati.it/immagini/Thumbs/91040/91040.JPG
 name: Saint Lupercilla
 honorific: Saint
 summary: >-
@@ -21,6 +21,9 @@ patronage:
   - Crodo, Italy
 martyr: true
 prayers: []
+imageAlt: Depiction of Saint Lupercilla
+imageCredit: Santiebeati.it
+imageCreditUrl: https://www.santiebeati.it/dettaglio/91040
 ---
 
 Born to the 3rd century Roman nobility, Lupercilla was martyred at age 7 or 8 with all 42 members of her family in the persecutions of Alexander Severus; no other information about her life has survived.

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: https://www.catholic.org/files/images/saints/2700.jpg
 name: Saint Colman of Kilmacduagh
 honorific: Saint
 summary: >-
@@ -24,6 +24,9 @@ patronage:
   - Kilmacduagh, Ireland, diocese of
 martyr: false
 prayers: []
+imageAlt: Artistic portrait of Saint Colman of Kilmacduagh
+imageCredit: Catholic Online
+imageCreditUrl: https://www.catholic.org/saints/saint.php?saint_id=2700
 ---
 
 Son of a chieftain named Duagh. Hermit in Arranmore where he built two churches. His reputation for holiness attracted too much attention, so he retreated to the woods of Burren in 592 to live in isolation. In 610, on land donated by King Guaire of Connacht, he founded a monastery which became the center of the diocese of Kilmacduagh. He reluctantly served as the house's first abbot, the diocese's first bishop.

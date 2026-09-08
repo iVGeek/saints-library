@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: https://www.catholic.org/files/images/saints/4000.jpg
 name: Saint John of the Goths
 honorific: Saint
 summary: >-
@@ -17,6 +17,9 @@ vocation:
   - Monk
 martyr: false
 prayers: []
+imageAlt: Artistic portrait of Saint John of the Goths
+imageCredit: Catholic Online
+imageCreditUrl: https://www.catholic.org/saints/saint.php?saint_id=4000
 ---
 
 Bishop of the Goths in South Russia. Noted defender of religious images, opposing the iconoclasts. Driven from his see by invading Khazars, and never able to return.

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: https://www.santiebeati.it/immagini/Thumbs/71050/71050.JPG
 name: Saint Candida of Carthage
 honorific: Saint
 summary: Consecrated virgin. Martyred in the persecutions of Maximian Herculeus.
@@ -17,6 +17,9 @@ vocation:
   - Religious
 martyr: true
 prayers: []
+imageAlt: Depiction of Saint Candida of Carthage
+imageCredit: Santiebeati.it
+imageCreditUrl: https://www.santiebeati.it/dettaglio/71050
 ---
 
 Consecrated virgin. Martyred in the persecutions of Maximian Herculeus.

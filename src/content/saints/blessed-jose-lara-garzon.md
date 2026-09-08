@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: https://www.santiebeati.it/immagini/Thumbs/97226/97226.JPG
 name: Blessed José Lara Garzón
 honorific: Blessed
 summary: Priest of the archdiocese of Granada, Spain. Martyred in the Spanish Civil War.
@@ -19,6 +19,9 @@ vocation:
   - Cardinal
 martyr: true
 prayers: []
+imageAlt: Depiction of Blessed José Lara Garzón
+imageCredit: Santiebeati.it
+imageCreditUrl: https://www.santiebeati.it/dettaglio/97226
 ---
 
 Priest of the archdiocese of Granada, Spain. Martyred in the Spanish Civil War.

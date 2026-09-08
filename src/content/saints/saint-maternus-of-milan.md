@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: https://www.catholic.org/files/images/saints/4969.jpg
 name: Saint Maternus of Milan
 honorific: Saint
 summary: >-
@@ -17,6 +17,9 @@ vocation:
   - Monk
 martyr: false
 prayers: []
+imageAlt: Artistic portrait of Saint Maternus of Milan
+imageCredit: Catholic Online
+imageCreditUrl: https://www.catholic.org/saints/saint.php?saint_id=4969
 ---
 
 Bishop of Milan, Italy in 295. He was tortured in the persecutions of Diocletian, but survived to follow his vocation and die of natural causes.

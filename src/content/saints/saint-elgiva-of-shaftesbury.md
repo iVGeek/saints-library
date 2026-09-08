@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: https://www.catholic.org/files/images/saints/3090.jpg
 name: Saint Elgiva of Shaftesbury
 honorific: Saint
 summary: >-
@@ -31,6 +31,9 @@ patronage:
   - Wareham
 martyr: false
 prayers: []
+imageAlt: Artistic portrait of Saint Elgiva of Shaftesbury
+imageCredit: Catholic Online
+imageCreditUrl: https://www.catholic.org/saints/saint.php?saint_id=3090
 ---
 
 Queen; wife of King Edmund I. Mother of King Edwy of Saxony, and Saint Edgar the Peaceful. Widowed young. Known all her life for her personal piety and support of the Church, endowing several churches and monasteries Later in life she retired to become a Benedictine nun and then abbess at Shaftesbury, England.

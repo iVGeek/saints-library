@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: https://www.santiebeati.it/immagini/Thumbs/65230/65230.jpg
 name: Saint Gionato of Marchiennes
 honorific: Saint
 summary: >-
@@ -19,6 +19,9 @@ vocation:
   - Monk
 martyr: false
 prayers: []
+imageAlt: Depiction of Saint Gionato of Marchiennes
+imageCredit: Santiebeati.it
+imageCreditUrl: https://www.santiebeati.it/dettaglio/65230
 ---
 
 Monk. Spiritual student of Saint Amand of Maastricht. On Amand's recommendation, Gionato was chosen abbot of Marchiennes Abbey. During his time there it became a double monastery, and he worked with Saint Richrudis.

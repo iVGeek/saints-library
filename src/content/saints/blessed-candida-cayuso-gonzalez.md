@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: https://www.santiebeati.it/immagini/Thumbs/100537/100537.JPG
 name: Blessed Cándida Cayuso González
 honorific: Blessed
 summary: Member of the Carmelite Sisters of Charity. Martyred in the Spanish Civil War.
@@ -21,6 +21,9 @@ vocation:
 religiousOrder: Carmelite
 martyr: true
 prayers: []
+imageAlt: Depiction of Blessed Cándida Cayuso González
+imageCredit: Santiebeati.it
+imageCreditUrl: https://www.santiebeati.it/dettaglio/100537
 ---
 
 Member of the Carmelite Sisters of Charity. Martyred in the Spanish Civil War.

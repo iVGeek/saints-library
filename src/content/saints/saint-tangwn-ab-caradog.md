@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: https://www.santiebeati.it/immagini/Thumbs/97437/97437.JPG
 name: Saint Tangwn ab Caradog
 honorific: Saint
 summary: >-
@@ -20,6 +20,9 @@ patronage:
   - Llangoed, Anglesey, Wales
 martyr: false
 prayers: []
+imageAlt: Depiction of Saint Tangwn ab Caradog
+imageCredit: Santiebeati.it
+imageCreditUrl: https://www.santiebeati.it/dettaglio/97437
 ---
 
 Sixth-century confessor. Brother of Saint Cadfarch, Saint Cawrdaf, and Saint Maethlu, legend says he was the son of Caradog Freichfras, a Knight of the Round Table.

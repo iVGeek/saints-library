@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: https://www.catholic.org/files/images/saints/3999.jpg
 name: Saint John of Gorze
 honorific: Saint
 summary: >-
@@ -24,6 +24,9 @@ vocation:
 religiousOrder: Benedictine
 martyr: false
 prayers: []
+imageAlt: Artistic portrait of Saint John of Gorze
+imageCredit: Catholic Online
+imageCreditUrl: https://www.catholic.org/saints/saint.php?saint_id=3999
 ---
 
 Born to a wealthy family. Studied at the Benedictine monastery of Saint-Mihiel in Metz, France. Reputed to have a prodigious memory, what today was would call “photographic”. Administrator of landed estates. Pilgrim to Rome, Italy. Spent some time at the Monte Cassino Abbey. Benedictine monk at Gorze Abbey in 933. Ambassador for Emperor Otto II to the Caliph Abd-er-Rahman of Cordoba, Spain for two years. Abbot at Gorze in 960. Noted as a wise and gentle reformer.

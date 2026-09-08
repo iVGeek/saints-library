@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: https://www.santiebeati.it/immagini/Thumbs/90649/90649.JPG
 name: Saint Felice of Tubzak
 honorific: Saint
 summary: >-
@@ -30,6 +30,9 @@ vocation:
   - Monk
 martyr: true
 prayers: []
+imageAlt: Depiction of Saint Felice of Tubzak
+imageCredit: Santiebeati.it
+imageCreditUrl: https://www.santiebeati.it/dettaglio/90649
 ---
 
 Bishop of Tibiuca. During the persecutions of Diocletian, Felice was ordered by Procurator Magniliano to burn his copies of the scriptures. Felice replied that he would rather be burned himself that burn the scriptures. Martyr.

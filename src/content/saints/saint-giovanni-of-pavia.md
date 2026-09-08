@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: https://www.santiebeati.it/immagini/Thumbs/67730/67730.jpg
 name: Saint Giovanni of Pavia
 honorific: Saint
 title: Bishop
@@ -13,6 +13,9 @@ vocation:
   - Bishop
 martyr: false
 prayers: []
+imageAlt: Depiction of Saint Giovanni of Pavia
+imageCredit: Santiebeati.it
+imageCreditUrl: https://www.santiebeati.it/dettaglio/67730
 ---
 
 Bishop of Pavia, Lombardy, Italy from 801 to 813.

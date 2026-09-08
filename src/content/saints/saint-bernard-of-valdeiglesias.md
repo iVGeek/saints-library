@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: https://www.catholic.org/files/images/saints/1764.jpg
 name: Saint Bernard of Valdeiglesias
 honorific: Saint
 summary: Benedictine Cistercian monk.
@@ -19,6 +19,9 @@ patronage:
   - Candelada, Spain
 martyr: false
 prayers: []
+imageAlt: Artistic portrait of Saint Bernard of Valdeiglesias
+imageCredit: Catholic Online
+imageCreditUrl: https://www.catholic.org/saints/saint.php?saint_id=1764
 ---
 
 Benedictine Cistercian monk.

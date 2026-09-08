@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: https://www.santiebeati.it/immagini/Thumbs/38830/38830.JPG
 name: Blessed Rosalie du Verdier de la Sorinière
 honorific: Blessed
 summary: >-
@@ -20,6 +20,9 @@ vocation:
 religiousOrder: Benedictine
 martyr: true
 prayers: []
+imageAlt: Depiction of Blessed Rosalie du Verdier de la Sorinière
+imageCredit: Santiebeati.it
+imageCreditUrl: https://www.santiebeati.it/dettaglio/38830
 ---
 
 Our Lady of Calvary Benedictine nun of the diocese of Angers, France. Martyred in the persecutions of the French Revolution.

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: https://www.santiebeati.it/immagini/Thumbs/99296/99296.jpg
 name: Saint Liuican
 honorific: Saint
 summary: >-
@@ -19,6 +19,9 @@ vocation:
   - Monk
 martyr: false
 prayers: []
+imageAlt: Depiction of Saint Liuican
+imageCredit: Santiebeati.it
+imageCreditUrl: https://www.santiebeati.it/dettaglio/99296
 ---
 
 Monk. Founded and served as first abbot of the monastery of Killucan (Killuquin; Cill Liúcainne) in the barony of Farbill, Westmeath, Ireland.

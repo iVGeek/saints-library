@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: https://www.catholic.org/files/images/saints/6380.jpg
 name: Saint Julia of Carthage
 honorific: Saint
 summary: Martyred in the persecutions of Decius.
@@ -15,6 +15,9 @@ vocation:
   - Monk
 martyr: true
 prayers: []
+imageAlt: Artistic portrait of Saint Julia of Carthage
+imageCredit: Catholic Online
+imageCreditUrl: https://www.catholic.org/saints/saint.php?saint_id=6380
 ---
 
 Martyred in the persecutions of Decius.

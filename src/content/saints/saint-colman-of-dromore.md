@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: https://www.catholic.org/files/images/saints/611.jpg
 name: Saint Colman of Dromore
 honorific: Saint
 summary: >-
@@ -34,6 +34,9 @@ patronage:
   - Dromore, diocese of
 martyr: false
 prayers: []
+imageAlt: Artistic portrait of Saint Colman of Dromore
+imageCredit: Catholic Online
+imageCreditUrl: https://www.catholic.org/saints/saint.php?saint_id=611
 ---
 
 Knew Saint Patrick. Studied at Noendrum under Saint Mochae of Noendrum, and then under Saint Ailbe of Emly. First abbot of Muckmore Abbey, County Antrim, Ireland. Founding abbot–bishop of the diocese of Dromore, County Down, Ireland c.514. Taught Saint Finnian of Clonard. Friend and advisor to Saint Macanisius. Miracle worker.

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: https://www.santiebeati.it/immagini/Thumbs/97237/97237.JPG
 name: Blessed Juan José Egea Rodríguez
 honorific: Blessed
 summary: >-
@@ -21,6 +21,9 @@ vocation:
   - Cardinal
 martyr: true
 prayers: []
+imageAlt: Depiction of Blessed Juan José Egea Rodríguez
+imageCredit: Santiebeati.it
+imageCreditUrl: https://www.santiebeati.it/dettaglio/97237
 ---
 
 Ordained a priest of the diocese of Almería, Spain on 9 June 1900. Co-adjutor of the parish of Zurgena. Martyred in the Spanish Civil War.

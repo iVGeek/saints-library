@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: https://www.catholic.org/files/images/saints/1470.jpg
 name: Saint Anthusa the Younger
 honorific: Saint
 summary: Martyr.
@@ -13,6 +13,9 @@ vocation:
   - Monk
 martyr: true
 prayers: []
+imageAlt: Artistic portrait of Saint Anthusa the Younger
+imageCredit: Catholic Online
+imageCreditUrl: https://www.catholic.org/saints/saint.php?saint_id=1470
 ---
 
 Martyr.

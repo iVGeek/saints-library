@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: https://www.catholic.org/files/images/saints/581.jpg
 name: Saint Fillan
 honorific: Saint
 summary: >-
@@ -33,6 +33,9 @@ patronage:
   - mentally ill people
 martyr: false
 prayers: []
+imageAlt: Artistic portrait of Saint Fillan
+imageCredit: Catholic Online
+imageCreditUrl: https://www.catholic.org/saints/saint.php?saint_id=581
 ---
 
 Son of Feriach and Saint Kentigerna, and related to Saint Comgan. Became a monk in his youth, taking the habit at Saint Fintan Munnu monastery. Accompanied Kentigerna and Comgan to Scotland in the 8th century. Hermit, living most of his life in prayer at Ptiienweem near the Saint Andrew monastery. Abbot of Saint Andrews; his bell and staff survive to today. Hermit at Glendochart, Perthshire, where he built a church.

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: https://www.santiebeati.it/immagini/Thumbs/94710/94710.jpg
 name: Saint Martiniano of Como
 honorific: Saint
 title: Bishop
@@ -13,6 +13,9 @@ vocation:
   - Bishop
 martyr: false
 prayers: []
+imageAlt: Depiction of Saint Martiniano of Como
+imageCredit: Santiebeati.it
+imageCreditUrl: https://www.santiebeati.it/dettaglio/94710
 ---
 
 Bishop of Como, Italy in the mid-7th century.

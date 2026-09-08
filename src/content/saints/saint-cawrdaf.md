@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: https://www.catholic.org/files/images/saints/2639.jpg
 name: Saint Cawrdaf
 honorific: Saint
 summary: >-
@@ -18,6 +18,9 @@ vocation:
   - Monk
 martyr: false
 prayers: []
+imageAlt: Artistic portrait of Saint Cawrdaf
+imageCredit: Catholic Online
+imageCreditUrl: https://www.catholic.org/saints/saint.php?saint_id=2639
 ---
 
 Chieftain in Brecknock (in modern Wales) and Hereford (in modern England). Abdicated and retired to a monastery under the leadership of Saint Illtyd.

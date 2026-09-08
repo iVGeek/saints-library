@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: https://www.santiebeati.it/immagini/Thumbs/99673/99673.jpg
 name: Saint Etelgita of Northumbria
 honorific: Saint
 summary: Nun and then abbess in Northumberland, England; we do not know at what house.
@@ -17,6 +17,9 @@ vocation:
   - Religious
 martyr: false
 prayers: []
+imageAlt: Depiction of Saint Etelgita of Northumbria
+imageCredit: Santiebeati.it
+imageCreditUrl: https://www.santiebeati.it/dettaglio/99673
 ---
 
 Nun and then abbess in Northumberland, England; we do not know at what house.

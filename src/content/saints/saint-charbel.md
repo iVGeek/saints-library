@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: https://www.catholic.org/files/images/saints/5610.jpg
 name: Saint Charbel
 honorific: Saint
 summary: Martyred in the persecutions of Trajan.
@@ -14,6 +14,9 @@ vocation:
   - Monk
 martyr: true
 prayers: []
+imageAlt: Artistic portrait of Saint Charbel
+imageCredit: Catholic Online
+imageCreditUrl: https://www.catholic.org/saints/saint.php?saint_id=5610
 ---
 
 Martyred in the persecutions of Trajan.

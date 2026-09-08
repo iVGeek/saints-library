@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: https://www.santiebeati.it/immagini/Thumbs/92081/92081.jpg
 name: Saint Arealdo of Brescia
 honorific: Saint
 summary: Martyred with his sons Carillo and Oderico by invading Lombards.
@@ -14,6 +14,9 @@ canonizationStatus: Saint
 vocation: []
 martyr: true
 prayers: []
+imageAlt: Depiction of Saint Arealdo of Brescia
+imageCredit: Santiebeati.it
+imageCreditUrl: https://www.santiebeati.it/dettaglio/92081
 ---
 
 Martyred with his sons Carillo and Oderico by invading Lombards.

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: https://www.santiebeati.it/immagini/Thumbs/97285/97285.JPG
 name: Blessed Aquilino Rivera Tamargo
 honorific: Blessed
 summary: Priest in the archdiocese of Toledo, Spain. Martyred in the Spanish Civil War.
@@ -18,6 +18,9 @@ vocation:
   - Cardinal
 martyr: true
 prayers: []
+imageAlt: Depiction of Blessed Aquilino Rivera Tamargo
+imageCredit: Santiebeati.it
+imageCreditUrl: https://www.santiebeati.it/dettaglio/97285
 ---
 
 Priest in the archdiocese of Toledo, Spain. Martyred in the Spanish Civil War.

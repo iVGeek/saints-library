@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: https://www.santiebeati.it/immagini/Thumbs/92710/92710.JPG
 name: Saint Lucia Yi Zhenmei
 honorific: Venerable
 summary: >-
@@ -27,6 +27,9 @@ vocation:
   - Priest
 martyr: true
 prayers: []
+imageAlt: Depiction of Saint Lucia Yi Zhenmei
+imageCredit: Santiebeati.it
+imageCreditUrl: https://www.santiebeati.it/dettaglio/92710
 ---
 
 Lay woman in the apostolic vicariate of Guizhou, China. She was the youngest child in her family, and grew up loving to read and learn; her mother taught her to spin. She served as a catechist in her parish; her priest asked her to use that experence to teach in the local school. When the family moved so her brother could study medicine, her new priest asked her to continue teaching, and to include adult women, as well. When her mother died, Lucia decided to support the work of the Paris Foreign Missions Society, which led to her death with them. One of the Martyrs of Guizhou.

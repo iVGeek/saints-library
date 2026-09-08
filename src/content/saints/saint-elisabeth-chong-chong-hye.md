@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: https://www.santiebeati.it/immagini/Thumbs/96720/96720.JPG
 name: Saint Elisabeth Chong Chong-Hye
 honorific: Venerable
 summary: Lay woman in the apostolic vicariate of Korea. Martyr.
@@ -22,6 +22,9 @@ canonizationStatus: Venerable
 vocation: []
 martyr: true
 prayers: []
+imageAlt: Depiction of Saint Elisabeth Chong Chong-Hye
+imageCredit: Santiebeati.it
+imageCreditUrl: https://www.santiebeati.it/dettaglio/96720
 ---
 
 Lay woman in the apostolic vicariate of Korea. Martyr.

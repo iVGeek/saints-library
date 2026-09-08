@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: https://www.santiebeati.it/immagini/Thumbs/97230/97230.JPG
 name: Blessed Gregorio Morales Membrives
 honorific: Blessed
 summary: Priest of the diocese of Almería, Spain. Martyred in the Spanish Civil War.
@@ -19,6 +19,9 @@ vocation:
   - Cardinal
 martyr: true
 prayers: []
+imageAlt: Depiction of Blessed Gregorio Morales Membrives
+imageCredit: Santiebeati.it
+imageCreditUrl: https://www.santiebeati.it/dettaglio/97230
 ---
 
 Priest of the diocese of Almería, Spain. Martyred in the Spanish Civil War.

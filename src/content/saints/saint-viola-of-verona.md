@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: https://www.santiebeati.it/immagini/Thumbs/92103/92103.JPG
 name: Saint Viola of Verona
 honorific: Saint
 summary: Early martyr. No other information has survived.
@@ -16,6 +16,9 @@ canonizationStatus: Saint
 vocation: []
 martyr: true
 prayers: []
+imageAlt: Depiction of Saint Viola of Verona
+imageCredit: Santiebeati.it
+imageCreditUrl: https://www.santiebeati.it/dettaglio/92103
 ---
 
 Early martyr. No other information has survived.

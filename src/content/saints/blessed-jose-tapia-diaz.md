@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: https://www.santiebeati.it/immagini/Thumbs/97200/97200.JPG
 name: Blessed José Tapia Díaz de Villachica
 honorific: Blessed
 summary: >-
@@ -20,6 +20,9 @@ vocation:
   - Cardinal
 martyr: true
 prayers: []
+imageAlt: Depiction of Blessed José Tapia Díaz de Villachica
+imageCredit: Santiebeati.it
+imageCreditUrl: https://www.santiebeati.it/dettaglio/97200
 ---
 
 Young layman in the diocese of Almería, Spain, he was the son of merchants and early began working as a clerk to learn the family trade. Member of Catholic Action. Martyred in the Spanish Civil War for refusing to renounce his faith.

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: https://www.santiebeati.it/immagini/Thumbs/98263/98263.JPG
 name: Blessed Francisco Edreira Mosquera
 honorific: Blessed
 summary: Member of the Salesians of Don Bosco. Martyred in the Spanish Civil War.
@@ -18,6 +18,9 @@ vocation: []
 religiousOrder: Salesian
 martyr: true
 prayers: []
+imageAlt: Depiction of Blessed Francisco Edreira Mosquera
+imageCredit: Santiebeati.it
+imageCreditUrl: https://www.santiebeati.it/dettaglio/98263
 ---
 
 Member of the Salesians of Don Bosco. Martyred in the Spanish Civil War.

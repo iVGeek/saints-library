@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: https://www.santiebeati.it/immagini/Thumbs/97206/97206.JPG
 name: Blessed José Romero Ortega
 honorific: Blessed
 summary: >-
@@ -22,6 +22,9 @@ vocation:
   - Cardinal
 martyr: true
 prayers: []
+imageAlt: Depiction of Blessed José Romero Ortega
+imageCredit: Santiebeati.it
+imageCreditUrl: https://www.santiebeati.it/dettaglio/97206
 ---
 
 The son of a tailor, the brother of Blessed Francisco Romero Ortega, after studies at the seminary of San Indalecio de Almería, José was ordained a priest in the diocese of Almería, Spain in December 1899. Chaplain of the hospital run by the Daughters of Charity. Parish priest in a number of places for 25+ years. Martyred with his brother in the Spanish Civil War.

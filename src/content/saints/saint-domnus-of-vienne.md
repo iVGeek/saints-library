@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: https://www.catholic.org/files/images/saints/2965.jpg
 name: Saint Domnus of Vienne
 honorific: Saint
 summary: Priest. Bishop of Vienne, France. He was zealous in ransoming captives.
@@ -16,6 +16,9 @@ vocation:
   - Monk
 martyr: false
 prayers: []
+imageAlt: Artistic portrait of Saint Domnus of Vienne
+imageCredit: Catholic Online
+imageCreditUrl: https://www.catholic.org/saints/saint.php?saint_id=2965
 ---
 
 Priest. Bishop of Vienne, France. He was zealous in ransoming captives.

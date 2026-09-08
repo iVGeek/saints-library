@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: https://www.santiebeati.it/immagini/Thumbs/65970/65970.JPG
 name: Saint Giacôbê Ðo Mai Nam
 honorific: Venerable
 summary: >-
@@ -25,6 +25,9 @@ vocation:
   - Priest
 martyr: true
 prayers: []
+imageAlt: Depiction of Saint Giacôbê Ðo Mai Nam
+imageCredit: Santiebeati.it
+imageCreditUrl: https://www.santiebeati.it/dettaglio/65970
 ---
 
 Priest in the apostolic vicariate of West Tonkin. Worked with the Society of Foreign Missions of Paris. One of the Martyrs of Vietnam.

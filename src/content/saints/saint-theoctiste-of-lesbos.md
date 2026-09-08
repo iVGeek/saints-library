@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: https://www.catholic.org/files/images/saints/2200.jpg
 name: Saint Theoctiste of Lesbos
 honorific: Saint
 summary: >-
@@ -22,6 +22,9 @@ vocation:
   - Hermit
 martyr: false
 prayers: []
+imageAlt: Artistic portrait of Saint Theoctiste of Lesbos
+imageCredit: Catholic Online
+imageCreditUrl: https://www.catholic.org/saints/saint.php?saint_id=2200
 ---
 
 Orphaned as a child, Theoctiste was raised in a convent. Kidnapped by Arab raiders and forced into slavery on Paros island. She escaped and lived for for over 30 years as a hermitess in an old church. She was discovered one day by a hunter named Simon; she begged him to bring her Communion when he could. He returned a year later, she made her first Communion in decades, and died soon after.

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: https://www.santiebeati.it/immagini/Thumbs/93428/93428.JPG
 name: Blessed María De La Encarnación de La Yglesia de Varo
 honorific: Blessed
 summary: Member of the Sisters of the Pious Schools. Martyred in the Spanish Civil War.
@@ -20,6 +20,9 @@ vocation:
   - Religious
 martyr: true
 prayers: []
+imageAlt: Depiction of Blessed María De La Encarnación de La Yglesia de Varo
+imageCredit: Santiebeati.it
+imageCreditUrl: https://www.santiebeati.it/dettaglio/93428
 ---
 
 Member of the Sisters of the Pious Schools. Martyred in the Spanish Civil War.

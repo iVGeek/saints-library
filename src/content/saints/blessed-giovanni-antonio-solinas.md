@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: https://www.santiebeati.it/immagini/Thumbs/99735/99735.JPG
 name: Blessed Giovanni Antonio Solinas
 honorific: Blessed
 summary: >-
@@ -25,6 +25,9 @@ vocation:
 religiousOrder: Jesuit
 martyr: true
 prayers: []
+imageAlt: Depiction of Blessed Giovanni Antonio Solinas
+imageCredit: Santiebeati.it
+imageCreditUrl: https://www.santiebeati.it/dettaglio/99735
 ---
 
 Jesuit priest. Missionary to the Tobas, Mocovíes and Mataguayos people in Argentina. Martyred with a fellow priest and 23 converts by Tobas and Mocovíes members for bringing Christianity.

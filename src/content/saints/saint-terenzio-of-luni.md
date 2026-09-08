@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: https://www.santiebeati.it/immagini/Thumbs/95924/95924.JPG
 name: Saint Terenzio of Luni
 honorific: Saint
 summary: >-
@@ -20,6 +20,9 @@ patronage:
   - San Terenzo Monti, Italy
 martyr: true
 prayers: []
+imageAlt: Depiction of Saint Terenzio of Luni
+imageCredit: Santiebeati.it
+imageCreditUrl: https://www.santiebeati.it/dettaglio/95924
 ---
 
 Sixth bishop of Luni, Italy, noted at the time for his charity and care for the poor. Martyred by Arian Lombards for trying to bring them to orthodox Christianity.

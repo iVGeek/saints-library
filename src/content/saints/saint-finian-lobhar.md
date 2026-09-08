@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: https://www.catholic.org/files/images/saints/3366.jpg
 name: Saint Finian Lobhar
 honorific: Saint
 summary: >-
@@ -27,6 +27,9 @@ vocation:
   - Monk
 martyr: false
 prayers: []
+imageAlt: Artistic portrait of Saint Finian Lobhar
+imageCredit: Catholic Online
+imageCreditUrl: https://www.catholic.org/saints/saint.php?saint_id=3366
 ---
 
 Disciple of Saint Columba. Founded a church and monastery at Innisfallen, Ireland. Monk at Clonmore, Ireland. Abbot of Swords abbey near Dublin, Ireland. In his later years he retired to Clonmore to spend his last days as a prayerful monk. He was called Lobhar (the Leper) because he briefly contracted leprosy when he miraculously cured a young boy of the disease.

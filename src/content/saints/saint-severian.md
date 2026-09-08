@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: https://www.catholic.org/files/images/saints/2517.jpg
 name: Saint Severian
 honorific: Saint
 summary: >-
@@ -17,6 +17,9 @@ vocation:
   - Monk
 martyr: true
 prayers: []
+imageAlt: Artistic portrait of Saint Severian
+imageCredit: Catholic Online
+imageCreditUrl: https://www.catholic.org/saints/saint.php?saint_id=2517
 ---
 
 Roman imperial senator during the persecutions of Licinius. He witnessed the martyrdom of the Forty Martyrs of Sebaste and was moved to proclaim his own faith. Martyr.

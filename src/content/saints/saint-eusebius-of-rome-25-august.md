@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: https://www.catholic.org/files/images/saints/970.jpg
 name: Saint Eusebius of Rome
 honorific: Saint
 summary: Martyred in the persecution of Emperor Commodus. No other information has survived.
@@ -15,6 +15,9 @@ vocation:
   - Monk
 martyr: true
 prayers: []
+imageAlt: Artistic portrait of Saint Eusebius of Rome
+imageCredit: Catholic Online
+imageCreditUrl: https://www.catholic.org/saints/saint.php?saint_id=970
 ---
 
 Martyred in the persecution of Emperor Commodus. No other information has survived.

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: https://www.santiebeati.it/immagini/Thumbs/100159/100159.JPG
 name: Blessed Gabriel López-Cepero y Murú
 honorific: Blessed
 summary: >-
@@ -21,6 +21,9 @@ vocation:
   - Cardinal
 martyr: true
 prayers: []
+imageAlt: Depiction of Blessed Gabriel López-Cepero y Murú
+imageCredit: Santiebeati.it
+imageCreditUrl: https://www.santiebeati.it/dettaglio/100159
 ---
 
 Lifelong layman in the archdiocese of Sevilla, Spain. Married to María Teresa Ovelar Ovelar, with whom he had seven children. A member of the Society of Saint Vincent de Paul and his parish council. Murdered with his brother, Blessed Mariano López-Cepero y Murú in the Spanish Civil War. Martyr.

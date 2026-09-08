@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: https://www.santiebeati.it/immagini/Thumbs/97224/97224.JPG
 name: Blessed José Gómez Matarín
 honorific: Blessed
 summary: Priest of the archdiocese of Granada, Spain. Martyred in the Spanish Civil War.
@@ -19,6 +19,9 @@ vocation:
   - Cardinal
 martyr: true
 prayers: []
+imageAlt: Depiction of Blessed José Gómez Matarín
+imageCredit: Santiebeati.it
+imageCreditUrl: https://www.santiebeati.it/dettaglio/97224
 ---
 
 Priest of the archdiocese of Granada, Spain. Martyred in the Spanish Civil War.

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: https://www.catholic.org/files/images/saints/5335.jpg
 name: Saint Pelagia of Antioch
 honorific: Saint
 summary: One of a group of 59 Christians martyred together. No other information has survived.
@@ -14,6 +14,9 @@ vocation:
   - Monk
 martyr: true
 prayers: []
+imageAlt: Artistic portrait of Saint Pelagia of Antioch
+imageCredit: Catholic Online
+imageCreditUrl: https://www.catholic.org/saints/saint.php?saint_id=5335
 ---
 
 One of a group of 59 Christians martyred together. No other information has survived.

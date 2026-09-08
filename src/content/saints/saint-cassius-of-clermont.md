@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: https://www.catholic.org/files/images/saints/2625.jpg
 name: Saint Cassius of Clermont
 honorific: Saint
 summary: Priest. Martyred by Teutonic barbarians led by Chrocas.
@@ -16,6 +16,9 @@ vocation:
   - Monk
 martyr: true
 prayers: []
+imageAlt: Artistic portrait of Saint Cassius of Clermont
+imageCredit: Catholic Online
+imageCreditUrl: https://www.catholic.org/saints/saint.php?saint_id=2625
 ---
 
 Priest. Martyred by Teutonic barbarians led by Chrocas.

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: https://www.santiebeati.it/immagini/Thumbs/99237/99237.JPG
 name: Blessed Norberto Cembranos de la Verdura
 honorific: Blessed
 summary: >-
@@ -22,6 +22,9 @@ vocation:
 religiousOrder: Franciscan
 martyr: true
 prayers: []
+imageAlt: Depiction of Blessed Norberto Cembranos de la Verdura
+imageCredit: Santiebeati.it
+imageCreditUrl: https://www.santiebeati.it/dettaglio/99237
 ---
 
 Norberto joined the Franciscan Capuchin lay oblates in El Pardo, Madrid, Spain. He was serving there in 1936 at the start of the Spanish Civil War when the convent came under siege by hundreds of militiamen. Norberto managed to escape, and hid for a while in a local inn, but was located, arrested and executed for being in religious life. Martyr.

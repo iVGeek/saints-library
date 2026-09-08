@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: https://www.santiebeati.it/immagini/Thumbs/100529/100529.JPG
 name: Blessed Daría Campillo Paniagua
 honorific: Blessed
 summary: Member of the Carmelite Sisters of Charity. Martyred in the Spanish Civil War.
@@ -19,6 +19,9 @@ vocation:
 religiousOrder: Carmelite
 martyr: true
 prayers: []
+imageAlt: Depiction of Blessed Daría Campillo Paniagua
+imageCredit: Santiebeati.it
+imageCreditUrl: https://www.santiebeati.it/dettaglio/100529
 ---
 
 Member of the Carmelite Sisters of Charity. Martyred in the Spanish Civil War.

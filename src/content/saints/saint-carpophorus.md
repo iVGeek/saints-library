@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: https://www.catholic.org/files/images/saints/2605.jpg
 name: Saint Carpophorus
 honorific: Saint
 summary: Priest. Martyred in the persecutions of Diocletian.
@@ -20,6 +20,9 @@ patronage:
   - Arona, Italy
 martyr: true
 prayers: []
+imageAlt: Artistic portrait of Saint Carpophorus
+imageCredit: Catholic Online
+imageCreditUrl: https://www.catholic.org/saints/saint.php?saint_id=2605
 ---
 
 Priest. Martyred in the persecutions of Diocletian.

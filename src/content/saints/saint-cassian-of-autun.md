@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: https://www.catholic.org/files/images/saints/2621.jpg
 name: Saint Cassian of Autun
 honorific: Saint
 summary: >-
@@ -21,6 +21,9 @@ vocation:
   - Monk
 martyr: false
 prayers: []
+imageAlt: Artistic portrait of Saint Cassian of Autun
+imageCredit: Catholic Online
+imageCreditUrl: https://www.catholic.org/saints/saint.php?saint_id=2621
 ---
 
 Born to the Egyptian mobility. Worked with Saint Reticius. Bishop of Autun, France from 314 to the end of his life; he served for 36 years. Miracle worker.

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: https://www.catholic.org/files/images/saints/2935.jpg
 name: Saint Dominic of Brescia
 honorific: Saint
 summary: Bishop of Brescia, Italy.
@@ -15,6 +15,9 @@ vocation:
   - Monk
 martyr: false
 prayers: []
+imageAlt: Artistic portrait of Saint Dominic of Brescia
+imageCredit: Catholic Online
+imageCreditUrl: https://www.catholic.org/saints/saint.php?saint_id=2935
 ---
 
 Bishop of Brescia, Italy.

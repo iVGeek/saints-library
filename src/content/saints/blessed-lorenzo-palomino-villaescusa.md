@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: https://www.santiebeati.it/immagini/Thumbs/98405/98405.JPG
 name: Blessed Lorenzo Palomino Villaescusa
 honorific: Blessed
 summary: Priest of the archdiocese of Granada, Spain. Martyred in the Spanish Civil War.
@@ -18,6 +18,9 @@ vocation:
   - Priest
 martyr: true
 prayers: []
+imageAlt: Depiction of Blessed Lorenzo Palomino Villaescusa
+imageCredit: Santiebeati.it
+imageCreditUrl: https://www.santiebeati.it/dettaglio/98405
 ---
 
 Priest of the archdiocese of Granada, Spain. Martyred in the Spanish Civil War.

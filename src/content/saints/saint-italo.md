@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: https://www.santiebeati.it/immagini/Thumbs/66850/66850.jpg
 name: Saint Italo
 honorific: Saint
 summary: Martyred in the persecutions of Diocletian.
@@ -13,6 +13,9 @@ canonizationStatus: Saint
 vocation: []
 martyr: true
 prayers: []
+imageAlt: Depiction of Saint Italo
+imageCredit: Santiebeati.it
+imageCreditUrl: https://www.santiebeati.it/dettaglio/66850
 ---
 
 Martyred in the persecutions of Diocletian.

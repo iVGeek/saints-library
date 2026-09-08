@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: https://www.catholic.org/files/images/saints/3137.jpg
 name: Saint Enodoch
 honorific: Saint
 summary: Venerated in Wales. No other information has survived.
@@ -16,6 +16,9 @@ vocation:
   - Monk
 martyr: false
 prayers: []
+imageAlt: Artistic portrait of Saint Enodoch
+imageCredit: Catholic Online
+imageCreditUrl: https://www.catholic.org/saints/saint.php?saint_id=3137
 ---
 
 Venerated in Wales. No other information has survived.

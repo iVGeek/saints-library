@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: https://www.catholic.org/files/images/saints/885.jpg
 name: Saint Peter of Sebaste
 honorific: Saint
 summary: >-
@@ -24,6 +24,9 @@ vocation:
   - Confessor
 martyr: false
 prayers: []
+imageAlt: Artistic portrait of Saint Peter of Sebaste
+imageCredit: Catholic Online
+imageCreditUrl: https://www.catholic.org/saints/saint.php?saint_id=885
 ---
 
 Youngest of ten children born to Saint Basil the Elder and Saint Emmelia; brother of Saint Basil the Great, Saint Gregory of Nyssa, and Saint Macrina the Younger. His father died when Peter was an infant, and he was raised and educated by Saint Macrina. Monk in a monastery in Armenia on the Iris River, a house that had been founded by his parents and was headed by his brother Basil. Abbot of the house in 362. Worked to help people suffering in a famine in Pontus and Cappadocia. Ordained in 370. Bishop of Sebaste, Armenia in 380. Fought fiercely against Arianism in his see. Attended the General Council of Constantinople in 381.

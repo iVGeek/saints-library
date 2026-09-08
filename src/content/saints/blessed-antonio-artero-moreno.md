@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: https://www.santiebeati.it/immagini/Thumbs/100698/100698.jpg
 name: Blessed Antonio Artero Moreno
 honorific: Blessed
 summary: Seminarian of the diocese of Córdoba, Spain. Martyred in the Spanish Civil War.
@@ -18,6 +18,9 @@ vocation:
   - Cardinal
 martyr: true
 prayers: []
+imageAlt: Depiction of Blessed Antonio Artero Moreno
+imageCredit: Santiebeati.it
+imageCreditUrl: https://www.santiebeati.it/dettaglio/100698
 ---
 
 Seminarian of the diocese of Córdoba, Spain. Martyred in the Spanish Civil War.

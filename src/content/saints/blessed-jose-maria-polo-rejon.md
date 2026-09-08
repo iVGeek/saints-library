@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: https://www.santiebeati.it/immagini/Thumbs/98413/98413.JPG
 name: Blessed José María Polo Rejón
 honorific: Blessed
 summary: Priest of the archdiocese of Granada, Spain. Martyred in the Spanish Civil War.
@@ -18,6 +18,9 @@ vocation:
   - Priest
 martyr: true
 prayers: []
+imageAlt: Depiction of Blessed José María Polo Rejón
+imageCredit: Santiebeati.it
+imageCreditUrl: https://www.santiebeati.it/dettaglio/98413
 ---
 
 Priest of the archdiocese of Granada, Spain. Martyred in the Spanish Civil War.

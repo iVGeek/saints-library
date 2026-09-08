@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: https://www.catholic.org/files/images/saints/3577.jpg
 name: Saint Gluvias
 honorific: Saint
 summary: >-
@@ -18,6 +18,9 @@ vocation:
   - Monk
 martyr: true
 prayers: []
+imageAlt: Artistic portrait of Saint Gluvias
+imageCredit: Catholic Online
+imageCreditUrl: https://www.catholic.org/saints/saint.php?saint_id=3577
 ---
 
 Brother of Saint Cadoc of Llancarfan; may have been the nephew of Saint Petroc. Monk. Sent to Cornwall by Cadoc, he founded the monastery and parish now know as Saint Glywys. May have been martyred; records are unclear.

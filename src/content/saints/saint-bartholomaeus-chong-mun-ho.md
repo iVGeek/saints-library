@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: https://www.santiebeati.it/immagini/Thumbs/101240/101240.JPG
 name: Saint Bartholomaeus Chong Mun-Ho
 honorific: Venerable
 summary: Layman of the apostolic vicariate of Korea. Martyr.
@@ -22,6 +22,9 @@ vocation:
   - Monk
 martyr: true
 prayers: []
+imageAlt: Depiction of Saint Bartholomaeus Chong Mun-Ho
+imageCredit: Santiebeati.it
+imageCreditUrl: https://www.santiebeati.it/dettaglio/101240
 ---
 
 Layman of the apostolic vicariate of Korea. Martyr.

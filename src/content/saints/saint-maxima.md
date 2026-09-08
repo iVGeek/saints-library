@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: https://www.catholic.org/files/images/saints/745.jpg
 name: Saint Maxima
 honorific: Saint
 summary: Slave in imperial Rome. Martyred with Saint Ansanus in the persecutions of Diocletian.
@@ -15,6 +15,9 @@ vocation:
   - Monk
 martyr: true
 prayers: []
+imageAlt: Artistic portrait of Saint Maxima
+imageCredit: Catholic Online
+imageCreditUrl: https://www.catholic.org/saints/saint.php?saint_id=745
 ---
 
 Slave in imperial Rome. Martyred with Saint Ansanus in the persecutions of Diocletian.

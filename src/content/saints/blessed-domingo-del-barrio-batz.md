@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: https://www.santiebeati.it/immagini/Thumbs/99133/99133.JPG
 name: Blessed Domingo del Barrio Batz
 honorific: Blessed
 summary: >-
@@ -19,6 +19,9 @@ canonizationStatus: Blessed
 vocation: []
 martyr: true
 prayers: []
+imageAlt: Depiction of Blessed Domingo del Barrio Batz
+imageCredit: Santiebeati.it
+imageCreditUrl: https://www.santiebeati.it/dettaglio/99133
 ---
 
 Married layman of the diocese of Quiché, Guatemala. Member of Catholic Action. Worked as a sacristan for Blessed José María Gran Cirera in the parish of San Gaspar di Chajul, and was murdered with him. Martyr.

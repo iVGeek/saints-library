@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: https://www.santiebeati.it/immagini/Thumbs/97187/97187.JPG
 name: Blessed Ramiro Argüelles Hevia
 honorific: Blessed
 summary: Priest of the diocese of Almería, Spain. Martyred in the Spanish Civil War.
@@ -19,6 +19,9 @@ vocation:
   - Cardinal
 martyr: true
 prayers: []
+imageAlt: Depiction of Blessed Ramiro Argüelles Hevia
+imageCredit: Santiebeati.it
+imageCreditUrl: https://www.santiebeati.it/dettaglio/97187
 ---
 
 Priest of the diocese of Almería, Spain. Martyred in the Spanish Civil War.

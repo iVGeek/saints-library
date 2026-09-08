@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: https://www.santiebeati.it/immagini/Thumbs/100867/100867.JPG
 name: Blessed José García Pérez
 honorific: Blessed
 summary: Novice in the Vincentian Congregation of the Mission. Martyred in the Spanish Civil War.
@@ -19,6 +19,9 @@ vocation:
 religiousOrder: Lazarist
 martyr: true
 prayers: []
+imageAlt: Depiction of Blessed José García Pérez
+imageCredit: Santiebeati.it
+imageCreditUrl: https://www.santiebeati.it/dettaglio/100867
 ---
 
 Novice in the Vincentian Congregation of the Mission. Martyred in the Spanish Civil War.

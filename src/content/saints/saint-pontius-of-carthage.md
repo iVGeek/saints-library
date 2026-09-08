@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: https://www.catholic.org/files/images/saints/6604.jpg
 name: Saint Pontius of Carthage
 honorific: Saint
 summary: >-
@@ -19,6 +19,9 @@ vocation:
   - Deacon
 martyr: false
 prayers: []
+imageAlt: Artistic portrait of Saint Pontius of Carthage
+imageCredit: Catholic Online
+imageCreditUrl: https://www.catholic.org/saints/saint.php?saint_id=6604
 ---
 
 Deacon in Carthage, North Africa. Companion in exile, biographer of, and witness at the trial and execution Saint Cyprian of Carthage.

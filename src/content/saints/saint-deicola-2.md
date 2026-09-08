@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: https://www.catholic.org/files/images/saints/2839.jpg
 name: Saint Deicola
 honorific: Saint
 summary: >-
@@ -17,6 +17,9 @@ vocation:
   - Monk
 martyr: false
 prayers: []
+imageAlt: Artistic portrait of Saint Deicola
+imageCredit: Catholic Online
+imageCreditUrl: https://www.catholic.org/saints/saint.php?saint_id=2839
 ---
 
 Seventh-century evangelist in the Norfolk and Sussex regions of England. Founded the abbey at Bosham in Sussex, and spent time as a monk at Saint Fursey's Abbey in Burgcastle, East Anglia.

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: https://www.catholic.org/files/images/saints/5622.jpg
 name: Saint Tigrius
 honorific: Saint
 summary: >-
@@ -19,6 +19,9 @@ vocation:
   - Monk
 martyr: false
 prayers: []
+imageAlt: Artistic portrait of Saint Tigrius
+imageCredit: Catholic Online
+imageCreditUrl: https://www.catholic.org/saints/saint.php?saint_id=5622
 ---
 
 Priest in Constantinople. Active supporter of Saint John Chrysostom during his exile. To silence him, Tigrius was arrested and exiled on trumped up charges of trying to burn down the Constantinople cathedral and senate.

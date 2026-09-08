@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: https://www.santiebeati.it/immagini/Thumbs/96967/96967.JPG
 name: Blessed Genaro Fueyo Castañon
 honorific: Blessed
 summary: >-
@@ -22,6 +22,9 @@ vocation:
   - Cardinal
 martyr: true
 prayers: []
+imageAlt: Depiction of Blessed Genaro Fueyo Castañon
+imageCredit: Santiebeati.it
+imageCreditUrl: https://www.santiebeati.it/dettaglio/96967
 ---
 
 The son of Ramón Fueyo and Isabel Castañón. Ordained a priest in the diocese of Oviedo, Spain on 17 December 1887. Priest for the Saint James parish in Nembra, Spain where he was noted for a devotion to the Eucharist; overnight Eucharistic adoration became a common thing in the region due to his work. Imprisoned and martyred in the Spanish Civil War.

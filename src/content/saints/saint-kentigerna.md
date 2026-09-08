@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: https://www.catholic.org/files/images/saints/4166.jpg
 name: Saint Kentigerna
 honorific: Saint
 summary: >-
@@ -25,6 +25,9 @@ vocation:
   - Religious
 martyr: false
 prayers: []
+imageAlt: Artistic portrait of Saint Kentigerna
+imageCredit: Catholic Online
+imageCreditUrl: https://www.catholic.org/saints/saint.php?saint_id=4166
 ---
 
 Daughter of Prince Kelly of Leinster, and Saint Coellen. Sister of Saint Comghan. Married lay woman. Mother of Saint Fillan. When her bother Comghan had to flee the country due to opposition to his dedication to the faith, Kentigerna fled to Scotland. Widow. Anchoress on Inchebroida Island in Loch Lomond where there still stands a church in her name.

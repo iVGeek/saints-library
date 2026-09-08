@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: https://www.santiebeati.it/immagini/Thumbs/97274/97274.JPG
 name: Blessed José Ruiz Berruezo
 honorific: Blessed
 summary: Priest in the diocese of Almeria Spain. Martyred in the Spanish Civil War.
@@ -19,6 +19,9 @@ vocation:
   - Cardinal
 martyr: true
 prayers: []
+imageAlt: Depiction of Blessed José Ruiz Berruezo
+imageCredit: Santiebeati.it
+imageCreditUrl: https://www.santiebeati.it/dettaglio/97274
 ---
 
 Priest in the diocese of Almeria Spain. Martyred in the Spanish Civil War.

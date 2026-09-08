@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: https://www.santiebeati.it/immagini/Thumbs/97277/97277.JPG
 name: Blessed Herminio Motos Torrecillas
 honorific: Blessed
 summary: Priest in the diocese of Almeria Spain. Martyred in the Spanish Civil War.
@@ -19,6 +19,9 @@ vocation:
   - Cardinal
 martyr: true
 prayers: []
+imageAlt: Depiction of Blessed Herminio Motos Torrecillas
+imageCredit: Santiebeati.it
+imageCreditUrl: https://www.santiebeati.it/dettaglio/97277
 ---
 
 Priest in the diocese of Almeria Spain. Martyred in the Spanish Civil War.

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: https://www.santiebeati.it/immagini/Thumbs/95220/95220.jpg
 name: Blessed Felicissimo of Mosciano
 honorific: Blessed
 summary: >-
@@ -24,6 +24,9 @@ vocation:
 religiousOrder: Benedictine
 martyr: false
 prayers: []
+imageAlt: Depiction of Blessed Felicissimo of Mosciano
+imageCredit: Santiebeati.it
+imageCreditUrl: https://www.santiebeati.it/dettaglio/95220
 ---
 
 As a young man he became a Benedictine monk at the monstery of San Eutizio near Norcia, Italy, but was soon forced to leave to help support his poor farming family. Worked as a cowherd, praying while in the fields, and giving all that he could to people even poorer than himself. Hermit near Pulcano, Italy where he spent time in prayer for the conversion of indifferent Christians. Miracle worker.

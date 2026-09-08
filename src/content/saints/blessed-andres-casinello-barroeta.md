@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: https://www.santiebeati.it/immagini/Thumbs/97267/97267.JPG
 name: Blessed Andrés Casinello Barroeta
 honorific: Blessed
 summary: Married layman of the diocese of Almería, Spain. Martyred in the Spanish Civil War.
@@ -17,6 +17,9 @@ vocation:
   - Cardinal
 martyr: true
 prayers: []
+imageAlt: Depiction of Blessed Andrés Casinello Barroeta
+imageCredit: Santiebeati.it
+imageCreditUrl: https://www.santiebeati.it/dettaglio/97267
 ---
 
 Married layman of the diocese of Almería, Spain. Martyred in the Spanish Civil War.

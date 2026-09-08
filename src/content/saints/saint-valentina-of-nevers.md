@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: https://www.santiebeati.it/immagini/Thumbs/62675/62675.JPG
 name: Saint Valentina of Nevers
 honorific: Saint
 summary: No information has survived.
@@ -15,6 +15,9 @@ vocation:
   - Cardinal
 martyr: false
 prayers: []
+imageAlt: Depiction of Saint Valentina of Nevers
+imageCredit: Santiebeati.it
+imageCreditUrl: https://www.santiebeati.it/dettaglio/62675
 ---
 
 No information has survived.

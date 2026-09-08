@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: https://www.santiebeati.it/immagini/Thumbs/93818/93818.JPG
 name: Saint Mariano of Acerenza
 honorific: Saint
 summary: >-
@@ -20,6 +20,9 @@ patronage:
   - Ripacandida, Italy
 martyr: true
 prayers: []
+imageAlt: Depiction of Saint Mariano of Acerenza
+imageCredit: Santiebeati.it
+imageCreditUrl: https://www.santiebeati.it/dettaglio/93818
 ---
 
 Friend of Saint Laviero. Deacon and courageous preacher in a time of persecution. Martyred in the persecutions of Diocletian.

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: https://www.santiebeati.it/immagini/Thumbs/90294/90294.JPG
 name: Saint Fortunata of Baucina
 honorific: Saint
 summary: >-
@@ -24,6 +24,9 @@ patronage:
   - Baucina, Italy (declared on 9 April 1870 due to the level of devotion by local Christians)
 martyr: true
 prayers: []
+imageAlt: Depiction of Saint Fortunata of Baucina
+imageCredit: Santiebeati.it
+imageCreditUrl: https://www.santiebeati.it/dettaglio/90294
 ---
 
 Young woman who converted to Christianity in her teens. Imprisoned for her faith by Imperial Roman troops, she was tortured and eventually executed when she refused to renounce Christianity. Martyr.

@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: https://www.catholic.org/files/images/saints/4088.jpg
 name: Saint Joseph of Volokolamsk
 honorific: Saint
 summary: >-
@@ -25,6 +25,9 @@ vocation:
   - Monk
 martyr: false
 prayers: []
+imageAlt: Artistic portrait of Saint Joseph of Volokolamsk
+imageCredit: Catholic Online
+imageCreditUrl: https://www.catholic.org/saints/saint.php?saint_id=4088
 ---
 
 Monk. Abbot at the monastery of Borovsk, Russia in 1477, but his strict discipline did not sit well with his brothers. Founded the monastery at Volokolamsk, Russia in 1479, and served as its abbot. Reformer in his houses, stressing discipline, fasting, obedience, devotion to the liturgy, learning, and works of charity; his vision of a monastery included support of social services to local laity. Met Saint Nilus of Sora at a Council at Moscow, Russia in 1503 to discuss the church reforms each had put forth; Joseph's ideas won out, and helped changed the direction of the Church activities in his land.

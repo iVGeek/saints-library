@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: https://www.santiebeati.it/immagini/Thumbs/100158/100158.JPG
 name: Blessed Mariano López-Cepero y Murú
 honorific: Blessed
 summary: >-
@@ -21,6 +21,9 @@ vocation:
   - Cardinal
 martyr: false
 prayers: []
+imageAlt: Depiction of Blessed Mariano López-Cepero y Murú
+imageCredit: Santiebeati.it
+imageCreditUrl: https://www.santiebeati.it/dettaglio/100158
 ---
 
 Married layman in the archdiocese of Seville, Spain. Deputy mayor of Cazalla de la Sierra, Spain. Member of the Society of Saint Vincent de Paul and his parish council. Murdered with his brother, Blessed Gabriel López-Cepero y Murú in the persecutions of the Spanish Civil War.

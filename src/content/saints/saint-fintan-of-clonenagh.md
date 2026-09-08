@@ -1,5 +1,8 @@
 ---
-image: /placeholder-saint.svg
+image: https://nominis.cef.fr/images/gallerie/clonenagh.jpg
+imageAlt: "Saint Fintán of Clonenagh"
+imageCredit: Nominis (French Episcopal Conference)
+imageCreditUrl: https://nominis.cef.fr
 name: Saint Fintán of Clonenagh
 honorific: Saint
 summary: >-

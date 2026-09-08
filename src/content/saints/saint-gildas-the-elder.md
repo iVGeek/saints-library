@@ -1,5 +1,8 @@
 ---
-image: /placeholder-saint.svg
+image: https://nominis.cef.fr/images/gallerie/gildaspardon.jpg
+imageAlt: "Saint Gildas (pardon de Saint-Gildas)"
+imageCredit: Nominis (French Episcopal Conference)
+imageCreditUrl: https://nominis.cef.fr
 name: Saint Gildas the Elder
 honorific: Saint
 summary: >-

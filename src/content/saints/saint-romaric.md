@@ -1,5 +1,8 @@
 ---
-image: /placeholder-saint.svg
+image: https://nominis.cef.fr/images/gallerie/romaric.jpg
+imageAlt: "Vitrail de Saint Romaric, diocèse de Saint-Dié"
+imageCredit: Nominis (French Episcopal Conference)
+imageCreditUrl: https://nominis.cef.fr
 name: Saint Romaric of Remiremont
 honorific: Saint
 summary: >-

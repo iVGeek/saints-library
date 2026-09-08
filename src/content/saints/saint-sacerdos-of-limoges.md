@@ -1,5 +1,8 @@
 ---
-image: /placeholder-saint.svg
+image: https://nominis.cef.fr/images/gallerie/sacerdos.jpg
+imageAlt: "Buste de Saint Sacerdos, église de Saint-Urbain"
+imageCredit: Nominis (French Episcopal Conference)
+imageCreditUrl: https://nominis.cef.fr
 name: Saint Sacerdos of Limoges
 honorific: Saint
 summary: Monk. Founded Calabre Abbey and served as its first abbot. Bishop of Limoges, France.

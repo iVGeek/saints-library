@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/d/d7/Francisco_de_Zurbar%C3%A1n_035.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Isaac of Persia
 honorific: Saint
 summary: >-
@@ -15,6 +16,8 @@ vocation:
   - Monk
 martyr: true
 prayers: []
+imageAlt: Portrait of Saint Isaac of Persia
+imageCreditUrl: https://en.wikipedia.org/wiki/Saint%20Apollonia
 ---
 
 Tortured, mutilated, imprisoned, starved and finally executed for refusing to worship the sun and fire during the persecutions of Shapur II.

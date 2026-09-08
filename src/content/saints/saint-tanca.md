@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: https://upload.wikimedia.org/wikipedia/commons/Statue%20de%20ste%20Tanche%2006087.jpg
 name: Saint Tanca
 honorific: Saint
 summary: Young girl martyed defending her virginity.
@@ -18,6 +18,8 @@ patronage:
   - against hemorrhages
 martyr: false
 prayers: []
+imageAlt: Portrait of Saint Tanca
+imageCreditUrl: https://www.wikidata.org/wiki/Saint%20Tanca
 ---
 
 Young girl martyed defending her virginity.

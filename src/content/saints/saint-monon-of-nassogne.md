@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/4/41/Nassogne_050525_%286%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Monon of Nassogne
 honorific: Saint
 summary: Hermit in the Ardennes region of France. Murdered by a pack of local thugs who were offended by his personal holiness.
@@ -22,6 +23,8 @@ vocation:
   - Hermit
 martyr: false
 prayers: []
+imageAlt: Portrait of Saint Monon of Nassogne
+imageCreditUrl: https://en.wikipedia.org/wiki/Saint%20Monon
 ---
 
 Hermit in the Ardennes region of France. Murdered by a pack of local thugs who were offended by his personal holiness.

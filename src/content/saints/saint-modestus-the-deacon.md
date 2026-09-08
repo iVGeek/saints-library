@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/4/4d/Modestus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Modestus the Deacon
 honorific: Saint
 summary: Deacon. Martyred in the persecutions of Diocletian.
@@ -16,6 +17,8 @@ vocation:
   - Deacon
 martyr: true
 prayers: []
+imageAlt: Portrait of Saint Modestus the Deacon
+imageCreditUrl: https://en.wikipedia.org/wiki/Modestus%20of%20Carantania
 ---
 
 Deacon. Martyred in the persecutions of Diocletian.

@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/3/39/Saint_Publius_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Modestus of Carthage
 honorific: Saint
 summary: Martyr. No other information has survived.
@@ -16,6 +17,8 @@ patronage:
   - Cartagena, Spain
 martyr: true
 prayers: []
+imageAlt: Portrait of Saint Modestus of Carthage
+imageCreditUrl: https://en.wikipedia.org/wiki/Saint%20Publius
 ---
 
 Martyr. No other information has survived.

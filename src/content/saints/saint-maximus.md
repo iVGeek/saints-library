@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: https://upload.wikimedia.org/wikipedia/commons/Donatello%20%28attr.%29%2C%20san%20massimo%2001.JPG
 name: Saint Maximus
 honorific: Saint
 summary: Martyred in the persecutions of Decius.
@@ -14,6 +14,8 @@ canonizationStatus: Saint
 vocation: []
 martyr: true
 prayers: []
+imageAlt: Portrait of Saint Maximus
+imageCreditUrl: https://www.wikidata.org/wiki/Saint%20Maximus
 ---
 
 Martyred in the persecutions of Decius.

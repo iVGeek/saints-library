@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/d/d8/Gaeta%2C_chiesa_di_Santa_Caterina_d%27Alessandria_-_Esterno_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Montanus of Gaeta
 honorific: Saint
 summary: Soldier. Martyr.
@@ -16,6 +17,8 @@ vocation:
   - Soldier
 martyr: true
 prayers: []
+imageAlt: Portrait of Saint Montanus of Gaeta
+imageCreditUrl: https://en.wikipedia.org/wiki/Church%20of%20St.%20Catherine%20of%20Alexandria%20(Gaeta)
 ---
 
 Soldier. Martyr.

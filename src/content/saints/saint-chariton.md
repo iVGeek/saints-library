@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: https://upload.wikimedia.org/wikipedia/commons/Saint%20Chariton.jpg
 name: Saint Chariton
 honorific: Saint
 summary: Martyred in the persecutions of Diocletian.
@@ -13,6 +13,8 @@ vocation:
   - Monk
 martyr: true
 prayers: []
+imageAlt: Portrait of Saint Chariton
+imageCreditUrl: https://www.wikidata.org/wiki/Saint%20Chariton
 ---
 
 Martyred in the persecutions of Diocletian.

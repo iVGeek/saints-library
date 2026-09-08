@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/8/86/IMG_R449road2825a.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Molling of Wexford
 honorific: Saint
 summary: >-
@@ -29,6 +30,8 @@ vocation:
   - Confessor
 martyr: false
 prayers: []
+imageAlt: Portrait of Saint Molling of Wexford
+imageCreditUrl: https://en.wikipedia.org/wiki/Regional%20road%20(Ireland)
 ---
 
 Monk at Glendalough. Abbot of Aghacainid. Bishop of Ferns, Ireland, but eventually resigned to specified his latter years as a prayerful monk.

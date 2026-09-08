@@ -1,5 +1,5 @@
 ---
-image: /placeholder-saint.svg
+image: https://upload.wikimedia.org/wikipedia/commons/St.Pior.jpg
 name: Saint Pior
 honorific: Saint
 summary: Hermit in a cave in the Baid desert on the Nile in Egypt. Spiritual student of Saint Anthony the Abbot.
@@ -15,6 +15,8 @@ vocation:
   - Hermit
 martyr: false
 prayers: []
+imageAlt: Portrait of Saint Pior
+imageCreditUrl: https://www.wikidata.org/wiki/Saint%20Pior
 ---
 
 Hermit in a cave in the Baid desert on the Nile in Egypt. Spiritual student of Saint Anthony the Abbot.

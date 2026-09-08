@@ -1,5 +1,6 @@
 ---
-image: /placeholder-saint.svg
+image: >-
+  https://upload.wikimedia.org/wikipedia/commons/4/4a/Deventer_zonsondergang_k.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Isala
 honorific: Saint
 summary: Travelling companion of, and martyred with Saint Ursula. Nothing else is known about her.
@@ -14,6 +15,8 @@ canonizationStatus: Saint
 vocation: []
 martyr: true
 prayers: []
+imageAlt: Portrait of Saint Isala
+imageCreditUrl: https://en.wikipedia.org/wiki/IJssel
 ---
 
 Travelling companion of, and martyred with Saint Ursula. Nothing else is known about her.

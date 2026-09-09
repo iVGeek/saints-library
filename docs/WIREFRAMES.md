@@ -9,7 +9,7 @@ Header (every page)
 ┌────────────────────────────────────────────────────────────────┐
 │ ☩ The Communion of Saints — a digital library of Catholic      │
 │    sanctity            [Directory] [Calendar] [Patronage]      │
-│                        [Prayers] [Articles] [About]            │
+│                        [Prayers] [About]            │
 └────────────────────────────────────────────────────────────────┘
 ```
 
@@ -26,7 +26,6 @@ Feast of the day (auto-selected by date)
   Saint card with monogram/photo → /saints/:slug
 Featured saints (horizontal row of SaintCards)
 Season's essay + "The library grows" note
-  Latest articles (from articles collection)
 Footer (navy): colophon, nav, copyright
 ```
 
@@ -53,9 +52,8 @@ Hero (navy)
          stat row: Feast day · Next observance · Region · Canonized
          patronage chips → /saints?patronage=:key
   right: ArchImage (vintage frame) + image credit
-Main (parchment, two-column: article + 320px aside)
-  article
-    biography (Content body, .saint-prose typography)
+Main (parchment, two-column: biography + 320px aside)
+  biography (Content body, .saint-prose typography)
     Timeline "Life at a glance"      (lifeEvents)
     Symbols & iconography chips
     Patronage & causes (links)       (patronage + causes)
@@ -100,14 +98,6 @@ Page header + search input
 Grouped by saint (section per saint with prayers)
   each prayer: name, kind, prayer text, optional source
   "Full profile →" link to /saints/:slug#prayers
-```
-
-## Articles
-
-```
-Index (/articles): grid of article cards (hero, title, category, date)
-Article (/articles/:slug/): hero image, meta (author/category/date),
-  prose body, breadcrumbs, related articles (future)
 ```
 
 ## About (`/about`)

@@ -3,9 +3,9 @@
 ## Phase 1 — MVP (current)
 
 - [x] Static site (Astro 5 + Tailwind 4), design system, layouts
-- [x] Content collections + Zod schema (`saints`, `articles`)
+- [x] Content collections + Zod schema (`saints`)
 - [x] Core pages: home, directory, saint profile, calendar, patronage
-      explorer, prayers, articles, about, 404
+      explorer, prayers, about, 404
 - [x] Client-side search (Fuse.js) over build-time `/search-index.json`
 - [x] Feast-days JSON + sitemap + robots
 - [x] 17 sample saints, 9 verified Wikimedia images
@@ -24,7 +24,7 @@
 - [ ] Accessibility pass: contrast, focus states, reduced motion, alt text
 - [ ] Lighthouse/Core Web Vitals pass (image width params, preloading)
 - [ ] Share/open-graph page previews for individual saints
-- [ ] Custom 404 suggestions and related-article rails
+- [ ] Custom 404 suggestions and related-saint rails
 - [ ] Admin cheat-sheet for adding content without touching code (PR template
       for new saint files)
 
@@ -39,7 +39,7 @@
 - [ ] Curated collections: Doctors of the Church, patron saints by country,
       martyrs of the 20th century, etc.
 - [ ] Translations (phase 2 candidate): i18n routing, locale content dirs
-- [ ] Webmentions / reader contributions on articles
+- [ ] Webmentions / reader contributions on saints
 - [ ] Newsletter subscription for feast-day digests
 
 ## Phase 4 — Long-term

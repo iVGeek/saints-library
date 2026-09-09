@@ -78,20 +78,6 @@ rewrite.
 | `relatedSaints` | `{ name, slug, relation? }[]` | `slug` is the other saint's **slug** (no `.md`, no leading slash). |
 | `sources` | string[] | Public-domain works, Vatican docs, museum catalogs; URLs render as links. |
 
-## Articles — field reference
-
-| Field | Type | Notes |
-| ----- | ---- | ----- |
-| `title` | string | Required. |
-| `description` | string | Required; cards + meta. |
-| `pubDate` | date | Required (YAML `2026-08-01`). |
-| `updatedDate` | date? | Shown when present. |
-| `heroImage` | string? | Same rules as saint `image`. |
-| `author` | string | Default `The Communion of Saints Editors`. |
-| `category` | string | Default `History`; powers grouping. |
-| `tags` | string[] | Default empty. |
-| `featured` | boolean | Featured article on the home page. |
-
 ## Patronage vocabulary
 
 `src/data/patronage.ts` is the **only** allowed source of `patronage` keys.

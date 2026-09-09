@@ -1,21 +1,19 @@
 # Site Map
 
-All routes are static and generated at build time. Content pages (saints,
-articles) are derived from the content collections; everything else is a
+All routes are static and generated at build time. Content pages (saints)
+are derived from the content collection; everything else is a
 hand-written page or endpoint.
 
 ## Public pages
 
 | Route                     | Source file                | Description |
 | ------------------------- | -------------------------- | ----------- |
-| `/`                       | `pages/index.astro`        | Home: hero with current liturgical season, feast-of-the-day, featured saints, latest articles, site intro. |
+| `/`                       | `pages/index.astro`        | Home: hero with current liturgical season, feast-of-the-day, featured saints, site intro. |
 | `/saints`                 | `pages/saints/index.astro` | Directory with search box and filters (vocation, region, order, century, patronage, rank, status). |
 | `/saints/:slug/`          | `pages/saints/[slug].astro`| Saint profile (see WIREFRAMES.md). Slug = filename minus `.md`. |
 | `/calendar`               | `pages/calendar.astro`     | Twelve liturgical months; days link to the saints whose feast falls on them. |
 | `/patronage`              | `pages/patronage.astro`    | Patronage explorer: search + popular patrons + every category as an accordion. |
 | `/prayers`                | `pages/prayers.astro`      | All prayers, grouped by saint, client-filterable. |
-| `/articles`               | `pages/articles/index.astro` | Article index. |
-| `/articles/:slug/`        | `pages/articles/[slug].astro` | Article page. |
 | `/about`                  | `pages/about.astro`        | Mission, editorial principles, and source policy. |
 | `/404`                    | `pages/404.astro`          | Custom not-found page. |
 

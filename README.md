@@ -4,7 +4,7 @@ A serene, museum-quality static website of the lives, writings, patronage, and
 prayers of Catholic saints. Built with **Astro 5 + Tailwind CSS 4**, fully
 static, searchable, and content-driven.
 
-> **Status:** MVP. 17 saint profiles and 1 featured article in the library.
+> **Status:** MVP. 17 saint profiles in the library.
 > Launch target: 150–250 saints from public-domain sources, originally rewritten.
 
 ## Quick start
@@ -30,7 +30,6 @@ src/
   content.config.ts       # Zod schema — single source of truth for content
   content/
     saints/*.md           # one file per saint (frontmatter + Markdown body)
-    articles/*.md         # essays and features
   data/
     site.ts               # SITE metadata + navigation
     patronage.ts          # canonical patronage vocabulary (keys/labels/aliases)

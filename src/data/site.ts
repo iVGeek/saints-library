@@ -15,6 +15,5 @@ export const NAV = [
   { href: '/calendar', label: 'Liturgical Calendar' },
   { href: '/patronage', label: 'Patronage Explorer' },
   { href: '/prayers', label: 'Prayers' },
-  { href: '/articles', label: 'Articles' },
   { href: '/about', label: 'About & Sources' },
 ] as const;

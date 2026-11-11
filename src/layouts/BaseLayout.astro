@@ -95,9 +95,21 @@ const orgJsonLd = {
     </main>
     <Footer />
 
+    <button
+      id="back-to-top"
+      type="button"
+      class="fixed bottom-6 right-6 hidden rounded-full border border-gold-600/50 bg-navy-900/90 px-3 py-2 font-heading text-gold-300 shadow-deep hover:bg-navy-800"
+      aria-label="Back to top"
+    >
+      ↑
+    </button>
     <script>
-      // Skip link handling (skip link lives in Header)
-      // No-op — kept minimal to avoid layout shift.
+      const btn = document.getElementById('back-to-top');
+      window.addEventListener('scroll', () => {
+        if (window.scrollY > 400) btn?.classList.remove('hidden');
+        else btn?.classList.add('hidden');
+      });
+      btn?.addEventListener('click', () => window.scrollTo({ top: 0, behavior: 'smooth' }));
     </script>
   </body>
 </html>

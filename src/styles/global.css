@@ -386,3 +386,7 @@ button:focus-visible {
 /* Focus-visible outlines for keyboard users. */
 :focus-visible { outline: 2px solid #c6a155; outline-offset: 2px; }
 
+
+/* Print styles for saint profiles. */
+@media print { nav, footer, #back-to-top, .btn { display: none !important; } body { background: #fff; color: #000; } a { color: #000; text-decoration: none; } }
+

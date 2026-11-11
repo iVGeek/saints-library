@@ -5,7 +5,7 @@ summary: >-
   Raised Protestant. Educated at Saint John's College, Oxford, but was not awarded a degree because he would not
   acknowledge the queen as the head of Christianity in England. Converted to Catholicism. Seminarian at Rheims and Rome,
   Italy. Ordained in 1583, he returned to England in
-image: http://catholicsaints.info/wp-content/uploads/some-martyrs-of-england.jpg
+image: https://catholicsaints.info/wp-content/uploads/some-martyrs-of-england.jpg
 searchAliases:
   - Gerald Edwards
   - Gerard Edwards

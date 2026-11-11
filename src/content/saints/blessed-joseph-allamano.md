@@ -5,7 +5,7 @@ summary: >-
   Fourth of five children; nephew of Saint John Cafasso. His father died when Joseph was three years old. Studied at the
   Salesian Oratory in Valdocco, Italy; Saint John Bosco was one of Giuseppe's spiritual directors. He entered the
   diocesan seminary of Turin, Italy in November 186
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Joseph-Allamano.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Joseph-Allamano.jpg
 searchAliases:
   - Giuseppe Allamano
 birthYear: 1851

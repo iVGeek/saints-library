@@ -5,7 +5,7 @@ summary: >-
   Ninth-century lay woman in Antioch, Syria. Married to Saint Andronicus of Antioch. Mother of two.  On the death of
   their children, Andronicus and Athanasia agreed to live separately as hermits in upper Egypt. Made multiple
   pilgrimages to Jerusalem.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Athanasia-of-Antioch.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Athanasia-of-Antioch.jpg
 region: Turkey
 feastDay:
   month: 10

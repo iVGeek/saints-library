@@ -2,7 +2,7 @@
 name: Saint Longinus the Centurian
 honorific: Saint
 summary: Soldier who pierced the side of Jesus at the Crucifixion. Convert. Martyred by order of Pontius Pilate.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Longinus-the-Centurian.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Longinus-the-Centurian.jpg
 searchAliases:
   - Longino
 born: Cappadocia

@@ -4,7 +4,7 @@ honorific: Venerable
 summary: >-
   Daughter of the New England author Nathaniel Hawthorne. Convert to Catholicism. Foundress of the Dominican Sisters of
   Saint Rose of Lima (Dominican Sisters for the Care of Incurable Cancer).
-image: http://catholicsaints.info/wp-content/uploads/img-Mother-Alphonsa-Hawthorne.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Mother-Alphonsa-Hawthorne.jpg
 searchAliases:
   - Rose Hawthorne
   - Mother Alphonsa

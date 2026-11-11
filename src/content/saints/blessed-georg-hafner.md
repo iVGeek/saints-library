@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Priest in the diocese of Würzburg, Germany. Arrested by the Nazis and sent to die in the concentration camps for his
   faith. Martyr.
-image: http://catholicsaints.info/wp-content/gallery/venerable-georg-hafner/venerable-georg-hafner-01.jpg
+image: https://catholicsaints.info/wp-content/gallery/venerable-georg-hafner/venerable-georg-hafner-01.jpg
 searchAliases:
   - Georg Haefner
 birthYear: 1900

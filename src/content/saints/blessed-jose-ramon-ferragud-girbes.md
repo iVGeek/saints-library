@@ -5,7 +5,7 @@ summary: >-
   Baptized at the age of two days at his parish church of Saint James the Apostle. Lifelong layman in the archdiocese of
   Valencia, Spain. Married on 21 January 1914 to Josefa Borras Borras. Father of eight children. Attended daily Mass,
   and was active in the lay apostolates in his
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-José-Ramón-Ferragud-Girbes.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-José-Ramón-Ferragud-Girbes.jpg
 birthYear: 1887
 deathYear: 1936
 born: 10 October 1887 in Algemesí, Valencia, Spain

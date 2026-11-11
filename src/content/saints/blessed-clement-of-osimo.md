@@ -5,7 +5,7 @@ summary: >-
   Priest. Joined the Congregation of Hermits of Brettino, which in 1256 merged with the Augustinian Hermits. Chosen the
   Augustinian Provincial Prior of the Marches of Ancona, Italy in 1269. Chosen the third Augustinian Prior General on
   Pentecost Sunday 1271, and served till 1274, v
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Clement-of-Osimo.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Clement-of-Osimo.jpg
 searchAliases:
   - Clement of Saint Elpidio
   - Clemente…

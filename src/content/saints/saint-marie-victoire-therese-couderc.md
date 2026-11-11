@@ -5,7 +5,7 @@ summary: >-
   Nun in the Sisters of Saint Regis. Novice mistress and house superior in La Louvesc, France. Superior general of her
   order. With Father Stephen Terme, she founded the Congregation of Our Lady of the Retreat in the Cenacle, in La
   Louvesc in 1826; it began in a mountain hostel for
-image: http://catholicsaints.info/wp-content/uploads/Therese_Couderc.jpg
+image: https://catholicsaints.info/wp-content/uploads/Therese_Couderc.jpg
 birthYear: 1805
 deathYear: 1885
 born: 1 February 1805 at Mas de Sablières, Ardèche, France as Marie Victoire Couderc

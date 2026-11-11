@@ -5,7 +5,7 @@ summary: >-
   Born to the nobility. Benedictine monk and then abbot of Santa Maria di Storaco Abbey where he was known for his
   knowledge of the scriptures. Priest. Noted and popular preacher. Bishop of Foligno, Italy in 1078. Pilgrim and
   Crusader to the Holy Lands from 1096 to 1104, after whic
-image: http://catholicsaints.info/wp-content/uploads/Bonfilius-of-Foligno.jpg
+image: https://catholicsaints.info/wp-content/uploads/Bonfilius-of-Foligno.jpg
 searchAliases:
   - Bonfiglio
   - Bonfilio

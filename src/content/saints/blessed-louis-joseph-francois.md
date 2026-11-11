@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Vincentian priest. During the French Revolution, he refused to take the oath of allegiance to the government, and
   opposed the civil constitution. One of the Martyrs of September.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Louis-Joseph-François.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Louis-Joseph-François.jpg
 birthYear: 1751
 deathYear: 1792
 born: 3 February 1751 in Busigny, Nord, France

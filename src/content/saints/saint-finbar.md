@@ -5,7 +5,7 @@ summary: >-
   Son of an artisan named Amergin and a lady of the Irish royal court. Educated at Kilmacahil monastery, Kilkenny,
   Ireland. He had very light hair, which led to the nickname Fionnbharr, “white hair”. Made multiple pilgrimages to
   Rome, Italy, visiting Saint David of Wales on one tri
-image: http://catholicsaints.info/wp-content/gallery/pictorial-lives-of-the-saints/saint-finbarr-bishop.jpg
+image: https://catholicsaints.info/wp-content/gallery/pictorial-lives-of-the-saints/saint-finbarr-bishop.jpg
 searchAliases:
   - Bairre
   - Barr

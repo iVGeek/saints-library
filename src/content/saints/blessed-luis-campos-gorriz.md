@@ -5,7 +5,7 @@ summary: >-
   Educated from age 7 by Jesuits. From 1921 to 1926 he studied law and philosophy at the University of Valencia. While
   in university, he worked with Marian congregations. Began work as a lawyer in 1930. Married to Carmen Arteche
   Echeturia in the archdiocese of Valencia, Spain on 25
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Luis-Campos-Górriz.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Luis-Campos-Górriz.jpg
 birthYear: 1905
 deathYear: 1936
 born: 30 June 1905 in Valencia, Spain

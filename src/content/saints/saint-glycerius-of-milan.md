@@ -2,7 +2,7 @@
 name: Saint Glycerius of Milan
 honorific: Saint
 summary: Archbishop of Milan, Italy.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Glycerius-of-Milan.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Glycerius-of-Milan.jpg
 searchAliases:
   - Clicerius
   - Glicerius of Milan

@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Soldier. Tribune in the Greek army. Convert to Christianity, along with a number of his men, following a miraculous
   victory over the Persians. Martyred by Seleucus as a group for their new faith.
-image: http://catholicsaints.info/wp-content/uploads/Andrew-Stratelates.jpg
+image: https://catholicsaints.info/wp-content/uploads/Andrew-Stratelates.jpg
 searchAliases:
   - Andrew Stratelates
   - Andrew of Cilicia

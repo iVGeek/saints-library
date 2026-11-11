@@ -5,7 +5,7 @@ summary: >-
   Daughter of Saint Brychan of Brecknock. When Saint Gwynllyw asked for her hand in marriage, Brychan refused. Gwynllyw
   kidnapped the girl, and the two started a violent life on the run. Mother of Saint Cadoc of Llancarvan who eventually
   convinced Gwynllyw and Gladys to give up the
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Gladys.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Gladys.jpg
 searchAliases:
   - Gwladys
   - Gwaladys

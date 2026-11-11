@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Priest. Member of the Hermits of Saint Augustine, and lived in their convent in Recanati, Italy. Worked as a
   peacemaker between warring Italian political and military factions.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Girolamo-da-Recanati.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Girolamo-da-Recanati.jpg
 searchAliases:
   - Girolamo Gherarducci
   - Jerome…

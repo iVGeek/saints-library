@@ -5,7 +5,7 @@ summary: >-
   Studied in the seminary at Pont a Mousson and the Grand Seminary of Nancy. Priest. Member of the Paris Society of
   Foreign Missions in 1846. Missionary to Viet Nam beginning in 1848, preaching first in Hong Kong, and then in the
   Vietnamese province of Sudoa, then in the Christian
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Augustine-Schoffler.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Augustine-Schoffler.jpg
 searchAliases:
   - Augustus Schoffler
   - Agostino Schoeffler

@@ -5,7 +5,7 @@ summary: >-
   Daughter of Angiolo Corsini, a royal army captain of grenadiers, and Giulia Salvi. Due to her father's military
   postings, she lived in the Italian cities of Pistioa, Florence, Arrezo and Rome by the time Maria was nine. Initially
   enrolled in a Rome parochial school, her father tr
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Maria-Corsini-Beltrame-Quattrocchi.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Maria-Corsini-Beltrame-Quattrocchi.jpg
 birthYear: 1884
 deathYear: 1965
 born: 24 June 1884 at Florence, Italy

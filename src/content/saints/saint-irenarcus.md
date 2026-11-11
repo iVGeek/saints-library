@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   An official torturer and executioner who murdered Christians in the persecutions of Diocletian. He was so impressed by
   the courage and faith of his victims, the women in particular, that he converted. Martyr.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Irenarco.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Irenarco.jpg
 searchAliases:
   - Irenarchus
   - Irenarco

@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Priest in the Congregation of the Mission of Saint Vincent de Paul. Founder of the Institute of the Sisters of Jesus
   the Nazarene.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Marco-Antonio-Durando-268x300.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Marco-Antonio-Durando-268x300.jpg
 searchAliases:
   - Marcantonio Durando
 birthYear: 1801

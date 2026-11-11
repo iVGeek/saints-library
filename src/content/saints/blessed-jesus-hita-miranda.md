@@ -2,7 +2,7 @@
 name: Blessed Jesús Hita Miranda
 honorific: Blessed
 summary: Member of the Society of Mary (Marianists). Martyred in the persecutions of the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Jesus-Hita-Miranda.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Jesus-Hita-Miranda.jpg
 birthYear: 1909
 deathYear: 1936
 born: 17 April 1909 in Calahorra, Logroño, Spain

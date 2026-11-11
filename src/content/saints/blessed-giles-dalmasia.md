@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Obtained a degree in theology. Mercedarian. While suffering regular beatings and abuse for being a Christian, he not
   only ransomed many Christian slaves in Africa, he converted others to the faith. Martyr.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Giles-Dalmasia.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Giles-Dalmasia.jpg
 searchAliases:
   - Egidio
 deathYear: 1399

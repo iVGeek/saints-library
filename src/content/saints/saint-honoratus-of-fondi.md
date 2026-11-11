@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Sixth century Benedictine monk. Founder and abbot of the monastery at Fondi, southern Italy. Pope Saint Gregory the
   Great wrote a brief biography of him.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Honoratus-of-Fondi.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Honoratus-of-Fondi.jpg
 region: Italy
 feastDay:
   month: 1

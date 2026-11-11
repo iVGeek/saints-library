@@ -5,7 +5,7 @@ summary: >-
   Seminarian at Guadalajara, Mexico. Ordained in 1911. Priest at several parishes, including Tecolotlan, Jalisco. Noted
   for his combination of pastoral work with his parishioners and the sick, and for his organzational and administrative
   skills. When anti-religious laws were promul
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Jenaro-Sanchez-DelGadillo.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Jenaro-Sanchez-DelGadillo.jpg
 birthYear: 1886
 deathYear: 1927
 born: 19 September 1886 at Zapop&aacute;n, diocese of Guadalajara, Jalisco, Mexico

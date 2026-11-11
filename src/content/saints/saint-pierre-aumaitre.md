@@ -5,7 +5,7 @@ summary: >-
   Eldest of five children in a peasant family; his father was a farmer, his mother a seamstress. Pierre was baptized in
   Verteuil, France on 26 May 1837, confirmed in Aizecq, France on 21 May 1844, and made his first Communion on 2 May
   1847. He early felt a call to the priesthood, w
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Pierre-Aumaître.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Pierre-Aumaître.jpg
 birthYear: 1837
 deathYear: 1866
 born: 8 April 1837 in Aizecq, Charente, France

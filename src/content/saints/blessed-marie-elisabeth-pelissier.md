@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Joined the Sacramentine nuns at Bollène, Provence, France, making her profession on 25 June 1759. Musician, singer and
   poet. Martyred in the French Revolution.
-image: http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Orange.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Orange.jpg
 searchAliases:
   - Maria Elisabetta di S. Teoctisto Pélissier
   - Sister Théotiste of the Blessed Sacrament

@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Sixth of nine children. Priest in the archdiocese of Verona, Italy. Founded the Sisters of Charity of Saint Mary in
   1882. Founded the Little Sisters of Saint Joseph in 1894.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Giuseppe-Baldo.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Giuseppe-Baldo.jpg
 searchAliases:
   - Joseph Baldo
 birthYear: 1843

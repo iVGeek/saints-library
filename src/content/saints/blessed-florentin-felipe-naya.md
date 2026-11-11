@@ -5,7 +5,7 @@ summary: >-
   Son of Miguel Felipe and Francisca Naya; he was baptized on the day of his birth. Entered the Piarist novitiate on 27
   February 1876 in Paralta de la Sal, Spain as a lay brother; he made his solemn profession on 29 April 1883. Served for
   over 50 years in the kitchens and schools o
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Florentín-Felipe-Naya.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Florentín-Felipe-Naya.jpg
 searchAliases:
   - Florentín of Saint Francis Borgia
 deathYear: 1936

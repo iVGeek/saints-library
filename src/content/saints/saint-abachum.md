@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Born to the nobility. Son of Saint Maris and Saint Martha, brother of Saint Audifax. Convert. Martyred with his whole
   family in the persecutions of Aurelian.
-image: http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-the-Via-Cornelia.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-the-Via-Cornelia.jpg
 searchAliases:
   - Abacum
 deathYear: 270

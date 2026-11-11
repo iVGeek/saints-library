@@ -5,7 +5,7 @@ summary: >-
   A hermit in the Liba forest near Fusignano, Italy for many years, an angel appeared to Savinus to encourage him to
   evangelize the area between the Italian cities of Spoleto and Assisi. Evangelizing bishop in the late 3rd and early
   4th centuries during the persecutions of Diocleti
-image: http://catholicsaints.info/wp-content/uploads/img-San-Savino.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-San-Savino.jpg
 searchAliases:
   - Sabino of Assisi
   - Sabino of Faenza

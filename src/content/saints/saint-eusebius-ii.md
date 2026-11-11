@@ -3,7 +3,7 @@ name: Saint Eusebius II
 honorific: Saint
 title: Bishop
 summary: Bishop of Vercelli, Italy in 501.
-image: http://catholicsaints.info/wp-content/uploads/Eusebius-II.jpg
+image: https://catholicsaints.info/wp-content/uploads/Eusebius-II.jpg
 searchAliases:
   - Eusebio II
   - Eusebius II of Vercelli

@@ -5,7 +5,7 @@ summary: >-
   Christian centurian in the imperial Roman army stationed in Thrace. Tortured and executed in the persecutions of
   Diocletian. Several churches in Constantinople dedicated to him, including one dedicated by Constantine the Great. One
   of the Fourteen Holy Helpers.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Acacius-of-Byzantium.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Acacius-of-Byzantium.jpg
 searchAliases:
   - Acacius of Constantinople
   - Acacius of Armenia

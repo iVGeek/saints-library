@@ -5,7 +5,7 @@ summary: >-
   Bishop of Urgell in the Spanish Pyrenees from 1010 till 1035. Built the cathedral in Urgell, and established a rule
   for its canons based on the life of Saint Augustine of Hippo. Often at odds with the nobility of Urgell both for
   political reasons and because he was a reformer.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Hermengaudius-of-Urgell.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Hermengaudius-of-Urgell.jpg
 searchAliases:
   - Armengol
   - Ermengol

@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Raised a devout Catholic. Dominican tertiary. Priest. Worked in the missions until his arrest in 1842. One of the
   Martyrs of Vietnam.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Ðaminh-Trach-Ðoài.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Ðaminh-Trach-Ðoài.jpg
 searchAliases:
   - Dominic Trach Doai
 birthYear: 1792

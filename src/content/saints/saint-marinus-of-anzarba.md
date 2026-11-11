@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Converted to Christianity in his old age, he brought many others to the faith. Arrested, tortured and executed in the
   persecutions of Diocletian and governor Lysias. Martyr.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Marinus-of-Anzarba.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Marinus-of-Anzarba.jpg
 deathYear: 290
 born: Cilicia, Asia Minor (modern Çukurova region of Turkey)
 died: beheaded in 290 in Anzarba, Cilicia, Asia Minor (modern Çukurova region of Turkey)

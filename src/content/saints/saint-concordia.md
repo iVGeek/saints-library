@@ -2,7 +2,7 @@
 name: Saint Concordia of Rome
 honorific: Saint
 summary: Martyr. No other information has survived.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Concordia-of-Rome.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Concordia-of-Rome.jpg
 died: beheaded outside Rome, Italy
 deathPlace: Italy
 region: Italy

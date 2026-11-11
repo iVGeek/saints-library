@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Educated by Jesuits. Trained as an architect, graduating in 1915. Worked on schools, churches and houses for
   religious. Priest in the diocese of Vitoria, Spain, ordained in 1924. Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-blessed-pedro-asua-mendía.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-blessed-pedro-asua-mendía.jpg
 birthYear: 1890
 deathYear: 1936
 born: 30 August 1890 at Valmaseda, Vizcaya, Spain

@@ -5,7 +5,7 @@ summary: >-
   Well-educated deacon in the archdiocese of Milan, Italy. Taught at the cathedral school of Milan. Led the Pataria, the
   anti-nicolaism and anti-simony efforts in Milan, begining in 1057. He had the support of the Vatican, but was opposed
   by his simoniac archbishop Guido da Velate.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Arialdus-of-Milan.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Arialdus-of-Milan.jpg
 searchAliases:
   - Arialdo
 deathYear: 1066

@@ -5,7 +5,7 @@ summary: >-
   Benedictine monk at the Saint Hippolyte monastery on Mount Zobor outside Nitra in modern Slovakia, taking the name
   Benedict. Spiritual student of Saint Andrew Zorard. With his abbot's permission, Benedict withdrew from communal life
   to live nearby as a hermit. Noted for his ascet
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Benedict-of-Szkalka.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Benedict-of-Szkalka.jpg
 deathYear: 1012
 born: 10th century Nitra (in modern Slovakia) as Stojislav
 died: strangled by thieves in 1012 on Mount Zobor, Slovakia

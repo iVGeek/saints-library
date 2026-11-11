@@ -5,7 +5,7 @@ summary: >-
   Born to a poor family, and when she was old enough Gertrude began to work as a servant to a rich family in Delft,
   Netherlands. She was engaged, but was jilted by her betrothed. Joined the Beguine convent at Delft. Received the
   stigmata and the gift of prophesy. The surname van Oo
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Gertrude-van-Oosten.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Gertrude-van-Oosten.jpg
 searchAliases:
   - Gertrude of Delft
   - Gertrude of the East

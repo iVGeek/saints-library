@@ -5,7 +5,7 @@ summary: >-
   Son of a poor fisherman. Adriatic fisherman and farmer in his youth. Sailor. In 1468, while on a trip to Venice, Italy
   he heard a sermon by Blessed Simon of Camerino; he was so moved that he gave up his worldly life and became an
   Augustinian lay brother at the monastery of Monte
-image: http://catholicsaints.info/wp-content/gallery/blessed-gratia-of-cattaro/blessed-gratia-of-cattaro.jpg
+image: https://catholicsaints.info/wp-content/gallery/blessed-gratia-of-cattaro/blessed-gratia-of-cattaro.jpg
 searchAliases:
   - Gratia of Kotor
   - Gracija…

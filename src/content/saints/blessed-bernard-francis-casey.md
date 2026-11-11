@@ -5,7 +5,7 @@ summary: >-
   Bernard joined the Franciscan Capuchins in 1897. He was ordained a priest in 1904, but because he was unable to
   complete the academic requirements of priesthood, Father Solanus was limited in his duties, not being permitted to
   preach, hear Confessions or perform other tasks usual
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Bernard-Francis-Casey.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Bernard-Francis-Casey.jpg
 searchAliases:
   - Francis Solanus
   - Father Solanus

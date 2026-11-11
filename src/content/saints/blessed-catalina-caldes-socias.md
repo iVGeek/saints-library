@@ -2,7 +2,7 @@
 name: Blessed Catalina Caldés Socías
 honorific: Blessed
 summary: Nun. Member of the Franciscan Daughters of Mercy. Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Catalina-Caldés-Socías.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Catalina-Caldés-Socías.jpg
 searchAliases:
   - Sister Catalina of Carmel
   - Caterina Caldes Socias

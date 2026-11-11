@@ -5,7 +5,7 @@ summary: >-
   Born to the Italian nobility, the daughter of the Duke of Marciano, and Anna, daughter of the Count of Corbara; her
   mother died when Angelina was 12. Given in an arranged marriage at age 15 to the Duke of Civitella, Giovanni da Terni,
   who agreed to honour the girl's private vow o
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Angelina-di-Marsciano.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Angelina-di-Marsciano.jpg
 searchAliases:
   - Angelina of Montegiove
   - Angelina of Corbara

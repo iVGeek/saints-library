@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Eldest son in a family of Italian nobility, he gave up wealth and the world for piety and poverty, and died while on
   pilgrimage to Santiago de Compostella, Spain.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Contardo-dEste.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Contardo-dEste.jpg
 searchAliases:
   - Contardo of Este
   - Contardo the Pilgrim

@@ -5,7 +5,7 @@ summary: >-
   Born to a wealthy family, Lucia was drawn to religious life as a child, and at age 15 she made private vows. With
   seven like-minded friends, she founded a religious community that set such an example that on 28 January 1386 the City
   Council voted to help them, and the group moved
-image: http://catholicsaints.info/wp-content/uploads/Lucia-of-Norcia.jpg
+image: https://catholicsaints.info/wp-content/uploads/Lucia-of-Norcia.jpg
 searchAliases:
   - Lucia of Norcia
 birthYear: 1370

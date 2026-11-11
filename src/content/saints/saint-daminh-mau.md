@@ -4,7 +4,7 @@ honorific: Venerable
 summary: >-
   Dominican. Priest. Promoted the use of the Rosary to strengthen the faith of Christians. Imprisoned in the
   persecutions of emperor Tu-Duc, he ministered to other prisoners until he was executed. Martyr.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Dominic-Mau.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Dominic-Mau.jpg
 searchAliases:
   - Dominic
 birthYear: 1794

@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Born to the Saxon nobility. Donated land to the monastery of Einsiedeln, Switzerland where his sons, Cuno and Ulric
   became monks. Retired to live as a hermit near Mitternach, Germany.
-image: http://catholicsaints.info/wp-content/uploads/Heiliger-Gerold.jpg
+image: https://catholicsaints.info/wp-content/uploads/Heiliger-Gerold.jpg
 searchAliases:
   - Gerold of Einsiedeln
   - Gerold of Großwalsertal

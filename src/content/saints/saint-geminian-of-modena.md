@@ -5,7 +5,7 @@ summary: >-
   Deacon and later bishop of Modena, Italy. Sheltered Saint Athanasius of Alexandria and Saint John Chrystostom in their
   exiles. Opposed Jovinianism and other heresies. The people of Modena believe his intercession saved them from the
   invading Huns.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Geminian-of-Modena.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Geminian-of-Modena.jpg
 searchAliases:
   - Geminiano
   - Geminianus

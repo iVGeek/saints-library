@@ -2,7 +2,7 @@
 name: Blessed Jaume Vendrell Olivella
 honorific: Blessed
 summary: Member of the Benedictine Subiaco Congregation. Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Jaume-Vendrell-Olivella.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Jaume-Vendrell-Olivella.jpg
 searchAliases:
   - Brother Bernat
 birthYear: 1878

@@ -5,7 +5,7 @@ summary: >-
   First Christian martyr. Deacon. Preacher. All we know of him is related in the Acts of the Apostles. While preaching
   the Gospel in the streets, angry Jews who believed his message to be blasphemy dragged him outside the city, and
   stoned him to death. In the crowd, on the side of
-image: http://catholicsaints.info/wp-content/uploads/img-Stoning-of-Saint-Stephen.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Stoning-of-Saint-Stephen.jpg
 searchAliases:
   - Stephen the Deacon
 died: stoned to death c.33

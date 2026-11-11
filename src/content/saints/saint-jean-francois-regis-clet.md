@@ -5,7 +5,7 @@ summary: >-
   Tenth of fifteen children; his father was a farmer and merchant, and the boy was named after Saint John Francis Regis.
   He was raised in a pious family; one brother became a priest, one sister a nun. Studied at the Jesuit Royal College at
   Grenoble, France. Joined the Congregation
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Jean-Francois-Regis-Clet.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Jean-Francois-Regis-Clet.jpg
 birthYear: 1748
 deathYear: 1820
 born: 1748 at Grenoble, France

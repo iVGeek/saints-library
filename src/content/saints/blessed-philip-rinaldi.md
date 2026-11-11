@@ -5,7 +5,7 @@ summary: >-
   Philip met Don Bosco at age 5, and apparently instinctively understood the importance of the future saint. Though he
   felt a call to a religious vocation, Philip was torn, and was seriously considering marriage when he decided to become
   a disciple of Don Bosco at age 22. The Chris
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Philip-Rinaldi.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Philip-Rinaldi.jpg
 searchAliases:
   - Filippo Rinaldi
   - Philippi Rinaldi

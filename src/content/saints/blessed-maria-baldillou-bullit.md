@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Nun, joining the Sisters of the Pious Schools at age 19, making her profession on 18 April 1927. Teacher and
   housekeeper of her house in Valencia, Spain. Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Piarist-Martyrs.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Piarist-Martyrs.jpg
 searchAliases:
   - Sister Maria of the Child Jesus
 birthYear: 1905

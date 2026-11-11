@@ -2,7 +2,7 @@
 name: Saint Floriana of Rome
 honorific: Saint
 summary: Virgin martyr.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Floriana-of-Rome.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Floriana-of-Rome.jpg
 died: Rome, Italy, date unknown
 deathPlace: Italy, date unknown
 region: Italy

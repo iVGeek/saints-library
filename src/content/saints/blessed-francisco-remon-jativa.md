@@ -2,7 +2,7 @@
 name: Blessed Francisco Remón Játiva
 honorific: Blessed
 summary: Franciscan Conventual friar. Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Francisco-Remón-Játiva.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Francisco-Remón-Játiva.jpg
 birthYear: 1890
 deathYear: 1936
 born: 22 September 1890 in Caudé, Teruel, Spain

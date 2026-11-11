@@ -2,7 +2,7 @@
 name: Blessed Francisco Terrero de Ortega Pérez
 honorific: Blessed
 summary: Augustinian priest. Martyr.
-image: http://catholicsaints.info/wp-content/uploads/img-Augustinian-Martyrs-of-Japan.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Augustinian-Martyrs-of-Japan.jpg
 searchAliases:
   - Francisco of Jesus
 birthYear: 1590

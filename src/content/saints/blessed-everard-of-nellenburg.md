@@ -5,7 +5,7 @@ summary: >-
   Born to the nobility. Count of Nellenberg, Swabia (in modern Germany). Married to Blessed Ita of Nellenberg. Founded
   the Benedictine monastery of Allerheiligen (All Saints) in Schaffhausen, Swabia, c.1049, built and provisioned it, and
   c.1070 entered it as a monk.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Everard-of-Nellenburg.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Everard-of-Nellenburg.jpg
 searchAliases:
   - Everard of Schaeffhausen
   - Eberhard VI…

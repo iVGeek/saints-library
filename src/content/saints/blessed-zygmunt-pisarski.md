@@ -5,7 +5,7 @@ summary: >-
   Priest of the archdiocese of Lublin, Poland, leading a parish that refused to renounce Christianity during World War
   II. Father Zygmunt was arrested and beaten by the Gestapo who were looking for the Communists that had been
   persecuting the parish before the Germans arrived. Zygm
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Zygmunt-Pisarski.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Zygmunt-Pisarski.jpg
 searchAliases:
   - Segismundo Pisarski
   - Sigismondo Pisarski

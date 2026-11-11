@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Hermit, monk and abbot on the Island of Tino near Genoa, Italy. The lighthouse on the island, and Venerius's holy
   reputation, led to his patronage of lighthouse keepers.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Venerius-of-Tino.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Venerius-of-Tino.jpg
 searchAliases:
   - Venerio
 birthYear: 560

@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Born to the nobility, the daughter of Blessed Adalbert and Blessed Reine, the count and countess of Hainaut (in modern
   France near Belgium). Benedictine nun. Her family built Denain Abbey, and Ragenfreda served as its abbess.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Ragenfreda.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Ragenfreda.jpg
 searchAliases:
   - Ragenfréde
   - Ragenfrida

@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Benedictine Cistercian monk. Abbot at Locedio, diocese of Vercelli, Italy. Wrote a series of sermons defending the
   doctrine of the Immaculate Conception.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Ogerius.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Ogerius.jpg
 searchAliases:
   - Ogler
   - Oglerio

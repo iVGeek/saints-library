@@ -5,7 +5,7 @@ summary: >-
   Studied in Ireland with Saint Egbert of Rathemigisi. Benedictine monk. Preacher. Spiritual teacher of Saint Willeic.
   One of a group of twelve English missionaries led by Saint Willibrord of Echternach who worked in Friesland, a group
   of islands off the coast of the Netherlands, e
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Swithbert-1.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Swithbert-1.jpg
 searchAliases:
   - Swithbert the Elder
   - Swithbert of Kaiserswerth

@@ -2,7 +2,7 @@
 name: Blessed Rafael Martí Fugueras
 honorific: Blessed
 summary: Priest in the archdiocese of Tarragona, Spain. Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Rafael-Martí-Fugueras.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Rafael-Martí-Fugueras.jpg
 birthYear: 1878
 deathYear: 1936
 born: 4 December 1878 in Tarragona, Spain

@@ -5,7 +5,7 @@ summary: >-
   Member of the Florentine nobility. Benedictine Vallombrosan monk. Abbot of San Salvi monastery. General-superior of
   the Vallombrosans. Created cardinal by Pope Urban II in 1097. Papal legate. Bishop of Parma, Italy in 1106. Exiled
   twice during disputes with anti-papal forces oppo
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Bernardo-degli-Uberti.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Bernardo-degli-Uberti.jpg
 searchAliases:
   - Bernardo of Parma
   - Bernard…

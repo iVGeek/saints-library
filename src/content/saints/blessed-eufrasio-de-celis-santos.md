@@ -2,7 +2,7 @@
 name: Blessed Eufrasio de Celis Santos
 honorific: Blessed
 summary: Passionist cleric martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Eufrasio-de-Celis-Santos.png
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Eufrasio-de-Celis-Santos.png
 searchAliases:
   - Eufrasio of Merciful Love
 birthYear: 1913

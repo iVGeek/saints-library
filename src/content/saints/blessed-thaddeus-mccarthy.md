@@ -5,7 +5,7 @@ summary: >-
   Son of the Lord of Muskerry, Ireland; grandson of the Lord of Kerry, Ireland. Educated by the Franciscans at
   Timoleague,at the University of Paris, and in Rome, Italy. Priest. Bishop of Ross, Ireland in 1482; when he arrived in
   Ross he found that Bishop Hugh O'Driscoll was still
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Thaddeus-McCarthy.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Thaddeus-McCarthy.jpg
 searchAliases:
   - Tadhg MacCarthy
   - Taddeo Machar

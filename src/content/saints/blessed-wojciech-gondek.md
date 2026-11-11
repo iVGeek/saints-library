@@ -5,7 +5,7 @@ summary: >-
   Joined the Franciscan Friars Minor in 1928, making his solemn profession on 18 April 1933, taking the name Krystyn.
   Ordained on 21 June 1936, and served as parish priest in Wloclaweck, Poland. Arrested on 26 August 1940, deported,
   imprisoned, tortured and martyred for his faith b
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Wojciech-Gondek.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Wojciech-Gondek.jpg
 searchAliases:
   - Cristino Gondek
   - Krystyn Gondek

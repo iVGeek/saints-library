@@ -2,7 +2,7 @@
 name: Blessed Michele Orsucci
 honorific: Blessed
 summary: Dominican priest. Martyred in the persecution of the Tokugawa Shogunate as part of the Great Genna Martyrdom.
-image: http://catholicsaints.info/wp-content/uploads/img-Great-Genna-Martyrdom.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Great-Genna-Martyrdom.jpg
 searchAliases:
   - Angelo of Saint Vincent Ferrer
   - Ángel Ferrer Orsucci

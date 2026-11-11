@@ -5,7 +5,7 @@ summary: >-
   Sister of Saint Tarsilla. Married to Gordianus, a Roman regionarius. Mother of two sons, one of which was Pope Saint
   Gregory the Great. After the death of her husband, Silvia devoted herself to religious life, living in a cell  like an
   early anchoress. Noted for her great persona
-image: http://catholicsaints.info/wp-content/uploads/img-Santa-Silvia-di-Rome.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Santa-Silvia-di-Rome.jpg
 searchAliases:
   - Silvia of Palermo
   - Sylvia

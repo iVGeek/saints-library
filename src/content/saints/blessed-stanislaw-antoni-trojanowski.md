@@ -5,7 +5,7 @@ summary: >-
   Born to a poor, rural family, he had limited schooling and had to work from an early age. Joined the Friars Minor
   Conventual in Niepokalanów, Poland on 5 March 1930, taking the name Tymoteusz and making his solemn profession on 11
   February 1935. Worked in the convent infirmary, a
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Stanislaw-Antoni-Trojanowski.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Stanislaw-Antoni-Trojanowski.jpg
 searchAliases:
   - Tymoteusz
   - Timoteo Trojanowski

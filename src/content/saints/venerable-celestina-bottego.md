@@ -2,7 +2,7 @@
 name: Venerable Celestina Bottego
 honorific: Venerable
 summary: Founded the Xaverian Missionary Sisters, Society of Mary.
-image: http://catholicsaints.info/wp-content/uploads/img-Celestina-Bottego.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Celestina-Bottego.jpg
 birthYear: 1895
 deathYear: 1980
 born: 20 December 1895 in Glendale, Ohio

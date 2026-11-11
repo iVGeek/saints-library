@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Hermitess near Amiens, France. Spiritual student of Saint Domitius at Saint Acheul abbey. Her reputation for holiness
   attracted students who built hermitage nearby. Ulphia organized them into a community, then resumed her solitary life.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Domitius-and-Saint-Ulphia.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Domitius-and-Saint-Ulphia.jpg
 searchAliases:
   - Olfe
   - Ulpha

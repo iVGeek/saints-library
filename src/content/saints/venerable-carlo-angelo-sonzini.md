@@ -5,7 +5,7 @@ summary: >-
   Born to a wealthy family, Carlo was educated at seminaries in the Italian cities of Seveso, Monza and Milan. While
   still in seminary, he served as Prefect of the Collegio San Carlo in Milan, and then at the Collegio San Martino di
   San Pietro Martire. Ordained a priest in the arch
-image: http://catholicsaints.info/wp-content/uploads/img-Venerable-Carlo-Angelo-Sonzini.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Carlo-Angelo-Sonzini.jpg
 birthYear: 1878
 deathYear: 1957
 born: 24 June 1878 in Malnate, Varese, Italy

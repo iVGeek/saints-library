@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Noted for her many pilgrimages to the graves of martyrs. Hid the relics of Saint Isidore from persecutors, for which
   action she was imprisoned and scourged.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Myrope.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Myrope.jpg
 searchAliases:
   - Mirope
 born: Chios, Greece

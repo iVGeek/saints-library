@@ -2,7 +2,7 @@
 name: Blessed Iulianus Nakaura
 honorific: Blessed
 summary: Jesuit priest. Martyr.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Iulianus-Nakaura.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Iulianus-Nakaura.jpg
 searchAliases:
   - Giuliano
   - Julian

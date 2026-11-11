@@ -2,7 +2,7 @@
 name: Saint Conus of Lucania
 honorific: Saint
 summary: Benedictine monk in at Santa Maria dei Codossa monastery near Lucania, Italy.
-image: http://catholicsaints.info/wp-content/uploads/Conus-of-Lucania.jpg
+image: https://catholicsaints.info/wp-content/uploads/Conus-of-Lucania.jpg
 searchAliases:
   - Cono
 born: late 12th century in Diano, Italy

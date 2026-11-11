@@ -5,7 +5,7 @@ summary: >-
   Roman centurion at Tangiers (in modern Morocco). During a celebration of the emperor's birthday, Marcellus refused to
   participate in the pagan offering ceremony. He threw away his arms and armour, openly declared himself a Christian,
   and was condemned to death. His condemnation l
-image: http://catholicsaints.info/wp-content/gallery/pictorial-lives-of-the-saints/saint-marcellus-the-centurion-martyr.jpg
+image: https://catholicsaints.info/wp-content/gallery/pictorial-lives-of-the-saints/saint-marcellus-the-centurion-martyr.jpg
 searchAliases:
   - Marcellus of Tangier
 deathYear: 298

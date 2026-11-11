@@ -5,7 +5,7 @@ summary: >-
   Son of Leonardo and Beatrice Varingez. Jakov re-located to Bari, Italy to escape Turkish invaders. There he felt a
   call to religious life and joined the Order of Friars Minor at the friary of Bitetto, Italy; he lived there nearly all
   the rest of his life. He served as cook, alms-
-image: http://catholicsaints.info/wp-content/gallery/blessed-jakov-varingez/blessed-jakov-varingez.jpg
+image: https://catholicsaints.info/wp-content/gallery/blessed-jakov-varingez/blessed-jakov-varingez.jpg
 searchAliases:
   - Giacomo de Bitetto
   - Giacomo of Bitetto

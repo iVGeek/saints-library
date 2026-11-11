@@ -2,7 +2,7 @@
 name: Blessed Alonso de Mena Navarette
 honorific: Blessed
 summary: Dominican priest. Martyred in the persecution of the Tokugawa Shogunate as part of the Great Genna Martyrdom.
-image: http://catholicsaints.info/wp-content/uploads/img-Great-Genna-Martyrdom.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Great-Genna-Martyrdom.jpg
 birthYear: 1568
 deathYear: 1622
 born: 3 February 1568 in La Rioja, Logroño, Spain

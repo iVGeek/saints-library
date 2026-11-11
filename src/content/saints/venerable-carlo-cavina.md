@@ -5,7 +5,7 @@ summary: >-
   Raised in a pious family. Due to health problems, Carlo had trouble attending seminary, so he did most of his studies
   for the priesthood from home. He was ordained a priest of the diocese of Imola, Italy on 10 June 1846; he was ordained
   by the future Pope Pius IX. Father Carlo ta
-image: http://catholicsaints.info/wp-content/uploads/img-Venerable-Carlo-Cavina.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Carlo-Cavina.jpg
 birthYear: 1820
 deathYear: 1880
 born: 29 August 1820 in Castel Bolognese, Ravenna, Italy

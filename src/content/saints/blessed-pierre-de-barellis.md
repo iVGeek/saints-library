@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Born to the French nobility. Mercedarian friar. Served as the attorney general of his Order. Papal legate. Created
   cardinal-deacon by Pope Nicholas IV.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Pierre-de-Barellis.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Pierre-de-Barellis.jpg
 died: Ascoli Piceno, Italy of natural causes
 deathPlace: Italynatural causes
 region: Italy

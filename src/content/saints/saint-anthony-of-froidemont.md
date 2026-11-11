@@ -2,7 +2,7 @@
 name: Saint Anthony of Froidemont
 honorific: Saint
 summary: Tenth century Benedictine monk at Luxeuil Abbey. Hermit at Froidemont in Franche-Comté, France.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Anthony-of-Froidemont.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Anthony-of-Froidemont.jpg
 searchAliases:
   - Anthony of Liaroles
   - Anthony of Luxeuil

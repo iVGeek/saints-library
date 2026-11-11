@@ -5,7 +5,7 @@ summary: >-
   The daughter of Gerardo and Caridad, Gertrudis was orphaned at an early age. After studying at the Normal School in
   Barcelona, Spain, she began to feel a call to religious life. Professed religious in the Sisters of the Christian
   Doctrine, joining in 1918. In addition to regular
-image: http://catholicsaints.info/wp-content/uploads/img-Martyred-Sisters-of-the-Christian-Doctrine.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Martyred-Sisters-of-the-Christian-Doctrine.jpg
 searchAliases:
   - Maria Dolors
 birthYear: 1899

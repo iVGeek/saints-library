@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Bishop of Orange, France. Known for his scholarship, his personal piety, and his non-stop fight against the heresies
   of the day. Part of the Council of Epaone in 517. Part of the Council of Arles in 527. Pilgrim to Rome, Italy.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Florentius-of-Orange.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Florentius-of-Orange.jpg
 searchAliases:
   - Fiorenzo
   - Florence

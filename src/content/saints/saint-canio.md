@@ -2,7 +2,7 @@
 name: Saint Canio
 honorific: Saint
 summary: Convert to Christianity. Bishop of a region of the North African coast.
-image: http://catholicsaints.info/wp-content/uploads/canio.jpg
+image: https://catholicsaints.info/wp-content/uploads/canio.jpg
 searchAliases:
   - Canion
   - Canione

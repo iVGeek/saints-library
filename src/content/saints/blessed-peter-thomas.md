@@ -5,7 +5,7 @@ summary: >-
   Carmelite at age 21. Noted preacher and homilist. Order's procurator-general to the papal court at Avignon, France in
   1345; while there, he entered the papal diplomatic service. Papal legate to Genoa, Milan, and Venice in Italy. Bishop
   of Patti, Italy and Lipari, Italy in 1354. B
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Peter-Thomas-1.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Peter-Thomas-1.jpg
 searchAliases:
   - Pedro Tomas
 birthYear: 1305

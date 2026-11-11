@@ -5,7 +5,7 @@ summary: >-
   Pagan officer and body guard at the imperial court of Nicomedia. Adrian was so impressed by the strength and faith
   shown by persecuted Christians that he declared himself a Christian, though he had not even been baptized. He was
   immediately arrested and tortured. He and fellow pr
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Adrian-of-Nicomedia1.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Adrian-of-Nicomedia1.jpg
 searchAliases:
   - Hadrian
 died: thrown to a lion, which refused to touch him

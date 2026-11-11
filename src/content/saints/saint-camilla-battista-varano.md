@@ -5,7 +5,7 @@ summary: >-
   Born to the wealthy nobility; her father was the prince of Camerino, Italy. Camilla early felt a call to the religious
   life, which her family initially opposed, hoping for a good marriage for her. She became a Poor Clare nun in Urbino,
   Italy at age 23. Abbess of the convent of Sa
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Camilla-Battista-Varano.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Camilla-Battista-Varano.jpg
 searchAliases:
   - Battista Varano
   - Camilla da Varano

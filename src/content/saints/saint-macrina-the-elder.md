@@ -5,7 +5,7 @@ summary: >-
   Grandmother of Saint Basil the Great, Saint Gregory of Nyssa, Saint Peter of Sebaste, and Saint Macrina the Younger,
   and apparently raised Basil. Spiritual student of Saint Gregory Thaumaturgus. She and her husband lived in hiding in a
   forest at Pontus for seven years during the
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Macrina-the-Elder.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Macrina-the-Elder.jpg
 searchAliases:
   - Macrina of Caesarea
   - Macrina of Neo-Caesarea

@@ -5,7 +5,7 @@ summary: >-
   Son of a mining engineer. From childhood he was known for high spirits and cheerfulness, and he grew up in a pious
   home. Born to privilege, he had great affinity for the poor and working classes. Victim of recurring stomach disorder.
   Jesuit novice at 20. Exiled during the Mexican
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Miguel-Austin-Pro.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Miguel-Austin-Pro.jpg
 birthYear: 1891
 deathYear: 1927
 born: 13 January 1891 at Guadalupe, Zacatecas, Mexico

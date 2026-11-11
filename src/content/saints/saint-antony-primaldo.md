@@ -5,7 +5,7 @@ summary: >-
   An aged lay man artisan in Otranto, Italy, known for his personal piety. In 1480 Otranto was invaded by Turks who
   offered the inhabitants the choice between death and conversion to Islam. Antony was chosen as spokesman for the town,
   and explained to the Turks that Otranto chose C
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Antony-Primaldo.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Antony-Primaldo.jpg
 searchAliases:
   - Antonio Primaldo
 deathYear: 1480

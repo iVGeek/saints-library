@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Soldier. Knight who fought in the First Crusade. Captured by Saracens, he was ordered to renounce Christianity; he
   refused. Martyr.
-image: http://catholicsaints.info/wp-content/uploads/Matthew-of-Beauvais.jpg
+image: https://catholicsaints.info/wp-content/uploads/Matthew-of-Beauvais.jpg
 searchAliases:
   - Matteo di Beauvais
 deathYear: 1098

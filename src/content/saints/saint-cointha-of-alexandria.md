@@ -2,7 +2,7 @@
 name: Saint Cointha of Alexandria
 honorific: Saint
 summary: Martyred in the persecutions of Decius for refusing to sacrifice to idols.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Cointha-of-Alexandria.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Cointha-of-Alexandria.jpg
 searchAliases:
   - Coint
   - Cointa

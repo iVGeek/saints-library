@@ -2,7 +2,7 @@
 name: Venerable Carolina Beltrami
 honorific: Venerable
 summary: Founder of the Institute of the Immaculatine Sisters of Alessandria.
-image: http://catholicsaints.info/wp-content/gallery/venerable-carolina-beltrami/venerable-carolina-beltrami-01.jpg
+image: https://catholicsaints.info/wp-content/gallery/venerable-carolina-beltrami/venerable-carolina-beltrami-01.jpg
 birthYear: 1869
 deathYear: 1932
 born: 4 August 1869 in Alessandria, Italy

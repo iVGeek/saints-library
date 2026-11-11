@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Soldier. Member of the Theban Legion. He escaped the massacre of his fellow Legionaires only to be later captured and
   killed in the persecutions of Diocletian. Martyr.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Fortunato-the-Theban.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Fortunato-the-Theban.jpg
 searchAliases:
   - Fortunatus
 deathYear: 300

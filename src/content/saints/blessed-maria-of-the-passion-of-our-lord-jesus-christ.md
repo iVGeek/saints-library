@@ -5,7 +5,7 @@ summary: >-
   Born to Leopoldo Tarallo and Concetta Borriello, Maria was raised in a pious family, and received a Christian
   education. She made a private vow of virginity at age five in front of a statue of the Blessed Mother. Made her First
   Communion at age 7, and received Confirmation at 10.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Maria-of-the-Passion-of-Our-Lord-Jesus-Christ.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Maria-of-the-Passion-of-Our-Lord-Jesus-Christ.jpg
 searchAliases:
   - Maria Grazia Tarallo
 birthYear: 1866

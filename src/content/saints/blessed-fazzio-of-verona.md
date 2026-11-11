@@ -5,7 +5,7 @@ summary: >-
   An accomplished goldsmith in Verona, Italy, his business opponents developed a vicious hatred for him. He moved to
   Cremona, Italy, where he worked and gave away his earnings to the poor. Pilgrim to Compostela, Spain, and to Rome,
   Italy. Returning to his native Verona, he was fals
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Fazzio-of-Verona.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Fazzio-of-Verona.jpg
 searchAliases:
   - Fazzio of Cremona
   - Facio

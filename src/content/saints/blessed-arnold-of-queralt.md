@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Mercedarian lay knight at the royal convent of Santa Maria d'Ausonia in Spain. Suffered great abuse from Saracens for
   remaining Christian in Muslim occupied Spain.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Arnold-of-Queralt.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Arnold-of-Queralt.jpg
 searchAliases:
   - Arnaldo
 died: convent of Santa Maria d'Ausonia in Spain of natural causes

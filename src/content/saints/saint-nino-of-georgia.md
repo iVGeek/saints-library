@@ -2,7 +2,7 @@
 name: Saint Nino of Georgia
 honorific: Saint
 summary: ' She cured a dying child by placi Slave. Not originally from Georgia, she may have been brought there by her master when he emigrated, she may have been the spoils of war, or she may have fled her own war-racked homeland and become enslaved after her move to more peaceful Georgia.'
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Nino-of-Georgia.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Nino-of-Georgia.jpg
 searchAliases:
   - Apostle of Georgia
   - Chrétienne

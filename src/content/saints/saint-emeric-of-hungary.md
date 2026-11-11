@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Born a prince, the son of Saint Stephen of Hungary. Spiritual student of Saint Gerard Sagredo. Married in 1022. Known
   for his personal piety and austerity.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Emeric-of-Hungary1.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Emeric-of-Hungary1.jpg
 searchAliases:
   - Americus
   - Emerick

@@ -2,7 +2,7 @@
 name: Blessed Eusebi Maria Codina Millà
 honorific: Blessed
 summary: One of the Martyred Claretians of Barbastro killed in the persecutions of the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Eusebi-Maria-Codina-Millà.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Eusebi-Maria-Codina-Millà.jpg
 birthYear: 1914
 deathYear: 1936
 born: 7 December 1914 in Albesa, Lleida, Spain

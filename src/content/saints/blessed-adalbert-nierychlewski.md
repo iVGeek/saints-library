@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Professed priest in the Congregation of Saint Michael the Archangel, taking the name Adalbert. Arrested in 1941 in
   Cracow, Poland as part of the Nazi persecution of the Church. Martyr.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Adalbert-Nierychlewski.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Adalbert-Nierychlewski.jpg
 searchAliases:
   - Wojciech Nierychlewski
 birthYear: 1903

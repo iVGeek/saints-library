@@ -2,7 +2,7 @@
 name: Blessed Ludovic Frarijn
 honorific: Blessed
 summary: Dominican priest. Martyr.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Ludovic-Frarijn.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Ludovic-Frarijn.jpg
 searchAliases:
   - Ludovico Flores
   - Luis Flores

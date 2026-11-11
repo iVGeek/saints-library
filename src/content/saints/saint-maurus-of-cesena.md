@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Nephew of Pope John IX. Priest. Benedictine monk at Classe monastery, Ravenna, Italy. Abbot of Classe in 926. Bishop
   of Cesena, Italy in 934; he served for about 12 years.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Maurus-of-Cesena.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Maurus-of-Cesena.jpg
 searchAliases:
   - Maur
   - Mauro

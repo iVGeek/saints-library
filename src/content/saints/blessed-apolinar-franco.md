@@ -5,7 +5,7 @@ summary: >-
   Franciscan Friars Minor (Observants) priest. Missionary to Japan during the 17th century when Christianity was a
   capital offense. Imprisoned soon after his arrival, Apollinar spent over five years on death row during which he
   converted his jailers, ministered to other prisoners,
-image: http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Japan.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Japan.jpg
 searchAliases:
   - Apollinaris
 birthYear: 1575

@@ -2,7 +2,7 @@
 name: Saint Golvinus of Leon
 honorific: Saint
 summary: Bishop of Saint Pol-de-Leon, Brittany, France.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Golvinus-of-Leon.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Golvinus-of-Leon.jpg
 searchAliases:
   - Golvein
   - Golven

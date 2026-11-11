@@ -5,7 +5,7 @@ summary: >-
   Raised in a piously Catholic family. Educated at Douai and at Paris, France. Joined the Jesuits in 1580. Prefect of
   studies in the English College at Rome, Italy. Ordained in 1584. Returned to England in 1586 to minister to covert
   Catholics, working with Henry Garnett. Chaplain t
-image: http://catholicsaints.info/wp-content/uploads/img-Father-Robert-Southwell.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Father-Robert-Southwell.jpg
 birthYear: 1561
 deathYear: 1595
 born: 1561 in Horsham Saint Faith, Norfolk, England

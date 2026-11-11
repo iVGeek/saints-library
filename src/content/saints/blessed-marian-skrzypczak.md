@@ -5,7 +5,7 @@ summary: >-
   Priest in the archdiocese of Gniezno, Poland where he served in the parish of Plonkowo. Though he knew the dangers of
   the invading Nazis, Father Marian stayed to serve his parishioners, and was shot by Nazi youth militia members.
   Martyr.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Marian-Skrzypczak.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Marian-Skrzypczak.jpg
 birthYear: 1909
 deathYear: 1939
 born: 15 April 1909 in Janowiec, Kujawsko-Pomorskie, Poland

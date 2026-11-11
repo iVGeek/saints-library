@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Relative of Charlemagne. Benedictine monk. Supervised building operations at Saint Pantaleon abbey, Cologne, Germany.
   Murdered by the construction workers; Reinhold worked harder than they did and made them look bad.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Reinhold-of-Cologne-1.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Reinhold-of-Cologne-1.jpg
 searchAliases:
   - Reinhold of Koln
   - Reinhold of Dortmund

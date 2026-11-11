@@ -2,7 +2,7 @@
 name: Blessed Bartolomé Gutiérrez Rodríguez
 honorific: Blessed
 summary: Augustinian priest. Martyr.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Bartolomé-Gutiérrez-Rodríguez.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Bartolomé-Gutiérrez-Rodríguez.jpg
 birthYear: 1580
 deathYear: 1632
 born: 1580 in Mexico City, Mexico

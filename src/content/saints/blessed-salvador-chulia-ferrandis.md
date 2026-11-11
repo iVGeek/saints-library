@@ -5,7 +5,7 @@ summary: >-
   Studied at the Conciliar Seminary of Valencia, Spain. Joined the Capuchin Tertiary Fathers and Brothers of Our Lady of
   Sorrows on 14 April 1892. Ordained a priest on 5 July 1898. Imprisoned on 21 August 1936 in the anti-Christian
   persecutions of the Spanish Civil War. Martyr.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Salvador-Chuliá-Ferrandis.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Salvador-Chuliá-Ferrandis.jpg
 searchAliases:
   - Ambrosio María del Torrent
 birthYear: 1866

@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Lay woman in the archdiocese of Valencia, Spain. Baptized at the age of two days. Member of Catholic Action. Attended
   Mass every day. Catechist known for her work with the poor. Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Ana-María-Aranda-Riera.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Ana-María-Aranda-Riera.jpg
 birthYear: 1888
 deathYear: 1936
 born: 24 January 1888 in Denia, Alicante, Spain

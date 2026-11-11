@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Born to the nobility; brother of Blessed Colomba of Mount Brancastello. Benedictine monk at Monte Cassino abbey.
   Priest Bishop of Teramo, Italy in 1115. Known as a zealous reformer, evangelist, and for his charity.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Bernard-Valeara-of-Teramo.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Bernard-Valeara-of-Teramo.jpg
 searchAliases:
   - Bernard Paleara
   - Bernard Pagliara

@@ -2,7 +2,7 @@
 name: Saint Ursus the Theban
 honorific: Saint
 summary: One of the Martyrs of the Theban Legion. No other information has survived.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Ursus-and-Saint-Victor.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Ursus-and-Saint-Victor.jpg
 searchAliases:
   - Ursus of Solothurn
   - Urs…

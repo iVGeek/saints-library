@@ -5,7 +5,7 @@ summary: >-
   Raised in a Catholic family, Agnes was a teenager when her parents died, and she moved from her home village to
   Xingyi. Married to a young farmer at age 18. Widowed two years later when her husband was martyred, she devoted
   herself to teaching catechism. At the request of Saint,
-image: http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-China1.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-China1.jpg
 searchAliases:
   - Agnese Cao Kuiying
   - Agnes Tsao Kou Ying

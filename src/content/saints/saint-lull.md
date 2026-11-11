@@ -5,7 +5,7 @@ summary: >-
   Related to Saint Boniface. Monk at Malmesbury Abbey in England. Missionary to Germany with Boniface who ordained him a
   priest with a mission of training new priests. Bishop of Mainz, Germany. After the death of Boniface, Lull took charge
   of the missionary work. Founded several mo
-image: http://catholicsaints.info/wp-content/uploads/Lullus_statue_hersfeld.jpg
+image: https://catholicsaints.info/wp-content/uploads/Lullus_statue_hersfeld.jpg
 searchAliases:
   - Lul
   - Lullon

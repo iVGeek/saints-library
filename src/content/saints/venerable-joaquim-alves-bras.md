@@ -4,7 +4,7 @@ honorific: Venerable
 summary: >-
   Priest in the patriarchate of Lisbon, Portugal. Founded the Secular Institute of the Cooperators of the Family.
   Founded Work of Saint Zita.
-image: http://catholicsaints.info/wp-content/uploads/img-Venerable-Joaquim-Alves-Brás.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Joaquim-Alves-Brás.jpg
 birthYear: 1889
 deathYear: 1966
 born: 20 March 1889 in Casegas-Covilhã, Castelo Branco, Portugal

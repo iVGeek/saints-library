@@ -2,7 +2,7 @@
 name: Blessed Juan Mesonero Huerta
 honorific: Blessed
 summary: Priest in the diocese of Ávila, Spain. Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Juan-Mesonero-Huerta.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Juan-Mesonero-Huerta.jpg
 birthYear: 1913
 deathYear: 1936
 born: 12 September 1913 in Rágama, Salamanca, Spain

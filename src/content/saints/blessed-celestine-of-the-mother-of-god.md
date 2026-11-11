@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   She early felt drawn to religious life. Founded the Congregation of the Daughters of the Poor of Saint Joseph
   Calasanzio (Calasanzian Sisters) in 1889 with a mission to teach the poor and the children of prisoners.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Celestine-of-the-Mother-of-God.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Celestine-of-the-Mother-of-God.jpg
 searchAliases:
   - Celestina Donati
   - Maria Anna Donati

@@ -5,7 +5,7 @@ summary: >-
   In 617, following the death of his parents, Omer became a Benedictine monk at Luxeuil, France under the direction of
   Saint Eustace. Bishop of Therouanne in 637. He reformed the administration of his diocese, and supported ministry to
   the sick and poor; his brother monks from Luxe
-image: http://catholicsaints.info/wp-content/gallery/pictorial-lives-of-the-saints/saint-omer-bishop.jpg
+image: https://catholicsaints.info/wp-content/gallery/pictorial-lives-of-the-saints/saint-omer-bishop.jpg
 searchAliases:
   - Audomaro
   - Audomarus

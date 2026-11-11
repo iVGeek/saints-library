@@ -2,7 +2,7 @@
 name: Blessed Ricardo Atanes Castro
 honorific: Blessed
 summary: Vincentian priest. Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Ricardo-Atanes-Castro.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Ricardo-Atanes-Castro.jpg
 birthYear: 1875
 deathYear: 1936
 born: 5 August 1875 in Cualedro, Orense, Spain

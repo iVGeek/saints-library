@@ -5,7 +5,7 @@ summary: >-
   Born a princess, the youngest daughter of King Victor Emmanuel I of Sardinia and Archduchess Maria Teresa of
   Austria-Este; grand-daughter of Archduke Ferdinand of Austria-Este and Maria Beatrice Ricciarda d'Este. Married to
   Ferdinand II of the Two Sicilies on 21 November 1832; it
-image: http://catholicsaints.info/wp-content/uploads/Maria_Cristina_di_Savoia.jpg
+image: https://catholicsaints.info/wp-content/uploads/Maria_Cristina_di_Savoia.jpg
 searchAliases:
   - Maria Cristina of Savoy
 birthYear: 1812

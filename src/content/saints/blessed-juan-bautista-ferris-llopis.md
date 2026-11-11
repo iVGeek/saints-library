@@ -2,7 +2,7 @@
 name: Blessed Juan Bautista Ferris Llopis
 honorific: Blessed
 summary: Trappist priest. Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Martyred-Cistercians-of-the-Spanish-Civil-War.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Martyred-Cistercians-of-the-Spanish-Civil-War.jpg
 birthYear: 1905
 deathYear: 1936
 born: 24 March 1905 in Algemesí, Valencia, Spain

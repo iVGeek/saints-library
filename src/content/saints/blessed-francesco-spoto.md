@@ -5,7 +5,7 @@ summary: >-
   Priest. Member of the Congregation of Missionary Servants of the Poor. Chosen superior general of the Congregation in
   1959. He re-vitalized the group, encouraging vocations, and leading missionaries to Biringi, Congo. Beaten by Simba
   rebels in the middle of the Congo civil war, h
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Francesco-Spoto.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Francesco-Spoto.jpg
 birthYear: 1924
 deathYear: 1964
 born: 8 July 1924 in Raffadali, Agrigento, Italy

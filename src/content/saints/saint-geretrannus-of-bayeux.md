@@ -3,7 +3,7 @@ name: Saint Geretrannus of Bayeux
 honorific: Saint
 title: Bishop
 summary: Sixth century bishop of Bayeux, France.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Geretrannus-of-Bayeux.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Geretrannus-of-Bayeux.jpg
 region: France
 feastDay:
   month: 12

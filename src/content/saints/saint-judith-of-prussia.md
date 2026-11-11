@@ -5,7 +5,7 @@ summary: >-
   Born to the nobility. Lay woman. Married with children. Widowed when her husband died on a Crusade to the Holy Land.
   Judith then made financial provision for her children, sold off her property, and spent her remaining years as a
   hermitess in the territory of the Teutonic Knights
-image: http://catholicsaints.info/wp-content/uploads/Judith-of-Prussia.jpg
+image: https://catholicsaints.info/wp-content/uploads/Judith-of-Prussia.jpg
 searchAliases:
   - Judith of Kulmsee
   - Judith of Sangerhausen

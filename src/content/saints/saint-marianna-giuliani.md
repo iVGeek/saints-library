@@ -2,7 +2,7 @@
 name: Saint Marianna Giuliani
 honorific: Venerable
 summary: Nun. Member of the Franciscan Missionaries of Mary. Missionary to China. Martyred in the Boxer Rebellion.
-image: http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Shanxi.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Shanxi.jpg
 searchAliases:
   - Sister Maria of Peace
 birthYear: 1875

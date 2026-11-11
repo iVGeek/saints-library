@@ -5,7 +5,7 @@ summary: >-
   Raised in a pious family; three of his brothers entered religious life. Had a devotion to Saint John Berchmans.
   Priest. Member of the Sons of the Holy Family. Director of the Saint Peter the Apostle school in Reus, Spain.
   Supporter, spiritual and material, of vocations in others.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Eduard-Cabanach-Majem.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Eduard-Cabanach-Majem.jpg
 birthYear: 1908
 deathYear: 1936
 born: 31 December 1908 in Bellmunt, Tarragona, Spain

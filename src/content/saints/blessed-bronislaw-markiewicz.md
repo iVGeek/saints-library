@@ -5,7 +5,7 @@ summary: >-
   Sixth of the eleven children of John Markiewicz and Marianna Gryziecka; his father was the mayor of Pruchnik, Poland.
   Raised in a pious family, but at one point nearly lost his faith due to the anti-Church atmosphere of his school.
   Seminarian at Przemysl in 1863. Ordained in the
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Bronislaw-Markiewicz-05.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Bronislaw-Markiewicz-05.jpg
 birthYear: 1842
 deathYear: 1912
 born: 13 July 1842 at Pruchnik, archdiocese of Przemysl dei Latini, Poland

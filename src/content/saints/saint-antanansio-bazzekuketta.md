@@ -2,7 +2,7 @@
 name: Saint Antanansio Bazzekuketta
 honorific: Venerable
 summary: Nkima clan. Convert. One of the Martyrs of Uganda who died in the Mwangan persecutions.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Antanansio-Bazzekuketta.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Antanansio-Bazzekuketta.jpg
 searchAliases:
   - Atanasio
 deathYear: 1886

@@ -5,7 +5,7 @@ summary: >-
   Son of Gregory of Osma, a Hispano-Roman bishop. Monk at Saint Engratia's monastery, Zaragoza, Spain. Studied in
   Seville, Spain under Saint Isidore. Ordained in 624 by his brother John, archbhishop of Zaragoza. Archdeacon to John.
   Bishop in 631, and archbishop of Zaragoza. Noted s
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Braulio-of-Saragossa.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Braulio-of-Saragossa.jpg
 searchAliases:
   - Braulio
 birthYear: 590

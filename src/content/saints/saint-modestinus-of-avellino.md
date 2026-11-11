@@ -5,7 +5,7 @@ summary: >-
   Born to the nobility of Asia Minor. Bishop of Antioch, Turkey in 302, working with Saint Fiorentinus and Saint
   Flavianus. Imprisoned in the persecutions of Diocletian, he was miraculously freed and fled to Italy. There he was
   imprisoned for his faith in Locri, Italy by the local
-image: http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Avellino.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Avellino.jpg
 searchAliases:
   - Modestinus of Mercogliano
   - Modestin…

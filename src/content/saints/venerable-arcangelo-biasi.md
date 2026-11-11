@@ -5,7 +5,7 @@ summary: >-
   One of several sons born to a poor village family, Arcangelo was baptized at the age of one day. At the age of 12, he
   began to feel drawn to religious life, and on 4 October 1915 he joined the Franciscans, taking the name Fra Girolamo
   Maria. During World War I, Fra Girolamo studi
-image: http://catholicsaints.info/wp-content/uploads/img-Venerable-Arcangelo-Biasi.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Arcangelo-Biasi.jpg
 searchAliases:
   - Fra Girolamo Maria
 birthYear: 1897

@@ -5,7 +5,7 @@ summary: >-
   Married layman in the diocese of Tzaneen, South Africa. Member of the Lemba tribe, called “Black Jews” because they
   followed Jewish laws and traditions. Converted to Catholicism in 1963 and became very active in the Church. Teacher,
   catechist and worked with local youth; he combi
-image: http://catholicsaints.info/wp-content/uploads/img-Venerable-Benedict-Daswa.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Benedict-Daswa.jpg
 searchAliases:
   - Tshimangadzo Samuel Benedict Daswa
   - Bakali

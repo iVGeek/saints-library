@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Born to an illustrious Italian family. Mercedarian. Ransomed 49 Christians who had been enslaved in Africa. Noted for
   his personal piety and virtue.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Giovanni-de-Barthulono.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Giovanni-de-Barthulono.jpg
 deathYear: 1500
 died: 1500 in Trapani, Italy of natural causes
 deathPlace: Italynatural causes

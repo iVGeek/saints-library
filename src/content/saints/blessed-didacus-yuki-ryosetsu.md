@@ -2,7 +2,7 @@
 name: Blessed Didacus Yuki Ryosetsu
 honorific: Blessed
 summary: Jesuit priest. Martyr.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Didacus-Yuki-Ryosetsu.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Didacus-Yuki-Ryosetsu.jpg
 birthYear: 1575
 deathYear: 1636
 born: c.1575 in Awa, Tokushima, Japan

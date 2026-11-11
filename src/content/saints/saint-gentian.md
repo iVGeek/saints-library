@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Elderly convert to Christianity. When troops arrested Saint Victoricus and Saint Fuscian, Gentian objected and was
   martyred on the spot.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Gentien.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Gentien.jpg
 searchAliases:
   - Gentien
 deathYear: 287

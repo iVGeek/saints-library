@@ -5,7 +5,7 @@ summary: >-
   Greek Catholic. Studied theology in Rome, graduating in 1907. Ordained on 9 October 1907. Vice-rector and professor of
   theology at the Stanislaviv, Ukraine seminary. Entered the Basilian novitiate on 2 October 1911. Bishop of Premeshyl,
   Poland on 23 September 1917. Imprisoned for
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Yosafat-Kotsylovskyi.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Yosafat-Kotsylovskyi.jpg
 searchAliases:
   - Josaphat Kocylovskyj
   - Josaphat Kotsylovsky

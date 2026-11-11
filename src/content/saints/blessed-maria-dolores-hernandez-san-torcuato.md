@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Nun, a member of the Sisters Adorers, Handmaids of Charity and of the Blessed Sacrament. Martyred in the Spanish Civil
   War.
-image: http://catholicsaints.info/wp-content/uploads/img-Martyred-Sisters-Adorers.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Martyred-Sisters-Adorers.jpg
 searchAliases:
   - Sister María Dolores of the Holy Trinity
 birthYear: 1911

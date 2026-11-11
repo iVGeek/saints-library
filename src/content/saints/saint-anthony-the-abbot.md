@@ -5,7 +5,7 @@ summary: >-
   Following the death of his parents when he was about 20, Anthony insured that his sister completed her education, then
   he sold his house, furniture, and the land he owned, gave the proceeds to the poor, joined the anchorites who lived
   nearby, and moved into an empty sepulchre. At
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Anthony-the-Abbot.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Anthony-the-Abbot.jpg
 searchAliases:
   - Abba Antonius
   - Anthony of Egypt

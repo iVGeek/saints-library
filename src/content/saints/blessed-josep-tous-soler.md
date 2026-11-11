@@ -5,7 +5,7 @@ summary: >-
   Joined the Franciscan Capuchins at age 15, and professed his vows on 19 February 1828. Josep was ordained on 24 May
   1834 in Barcelona, Spain; two months later, amidst anti-clerical violence in Catalonia, he was exiled from Spain and
   spent the next nine years ministering in France
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Josep-Tous-Soler.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Josep-Tous-Soler.jpg
 searchAliases:
   - Józef Tous y Soler
   - Josep de Igualada

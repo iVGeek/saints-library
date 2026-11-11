@@ -5,7 +5,7 @@ summary: >-
   Born to the French nobility. Joined the Augustinians in Toulouse, France at age 19. Studied there and in Paris,
   France. Prior of the Augustinian house of Pamiers, France. Spiritual director, exorcist and, most importantly, a
   noted, popular preacher in Toulouse whose sermons broug
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-William-of-Toulouse.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-William-of-Toulouse.jpg
 searchAliases:
   - William of Naurose
 birthYear: 1297

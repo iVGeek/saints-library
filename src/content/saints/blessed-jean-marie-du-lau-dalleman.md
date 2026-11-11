@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Born to the French nobility. Member of the French parliment. Archbishop of Arles, France. One of the Martyrs of
   September.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Jean-Marie-du-Lau-dAlleman.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Jean-Marie-du-Lau-dAlleman.jpg
 birthYear: 1738
 deathYear: 1792
 born: 30 October 1738 in Biras, Dordogne, France

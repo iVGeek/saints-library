@@ -5,7 +5,7 @@ summary: >-
   Son of Apollonius, a poor farmer. As a young man he worked as a shepherd to support his family and neighbors who were
   poorer than himself. Convert, baptized with his father by Bishop Redemptus of Trani, Italy. Magnus succeeded him as
   bishop of Trani, chosen by popular acclaim of
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Magnus-and-Saint-Secondina.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Magnus-and-Saint-Secondina.jpg
 searchAliases:
   - Magno di Anagni
   - Magnus of Fabrateria Vetus

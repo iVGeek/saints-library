@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Joined the Hospitallers of Saint John of God in 1910. Ordained in August 1926. Rector of the Holy Family school in
   Carabanchel Alto. Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Martyred-Hospitallers-of-Spain.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Martyred-Hospitallers-of-Spain.jpg
 searchAliases:
   - Father Cristí
 birthYear: 1899

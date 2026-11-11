@@ -2,7 +2,7 @@
 name: Blessed Guillermo Rubio Alonso
 honorific: Blessed
 summary: Joined the Hospitallers of Saint John of God in 1894. Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Guillermo-Rubio-Alonso.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Guillermo-Rubio-Alonso.jpg
 searchAliases:
   - Brother Dositeo
 birthYear: 1869

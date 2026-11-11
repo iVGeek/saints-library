@@ -2,7 +2,7 @@
 name: Venerable Antonio Filomeno Maria Losito
 honorific: Venerable
 summary: Redemptorist priest.
-image: http://catholicsaints.info/wp-content/uploads/img-Venerable-Antonio-Filomeno-Maria-Losito.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Antonio-Filomeno-Maria-Losito.jpg
 birthYear: 1838
 deathYear: 1917
 born: 16 December 1838 in Canosa di Puglia, Bari, Italy

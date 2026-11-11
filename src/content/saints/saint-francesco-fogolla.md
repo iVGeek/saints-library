@@ -4,7 +4,7 @@ honorific: Venerable
 summary: >-
   Priest. Franciscan missionary. Co-adjutor of the apostolic vicar of Northern Shanxi, China. One of the Martyrs of
   China, dying in the Boxer Rebellion.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Francesco-Fogolla.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Francesco-Fogolla.jpg
 searchAliases:
   - Frans Fogolla
 birthYear: 1839

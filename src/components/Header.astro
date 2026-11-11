@@ -46,6 +46,7 @@ const isActive = (href: string) => pathname === href || pathname.startsWith(href
       {NAV.map((item) => (
         <a
           href={item.href}
+          aria-current={isActive(item.href) ? 'page' : undefined}
           class:list={[
             'rounded px-3 py-2 font-heading text-lg font-medium transition-colors',
             isActive(item.href)
@@ -95,6 +96,7 @@ const isActive = (href: string) => pathname === href || pathname.startsWith(href
         <li>
           <a
             href={item.href}
+            aria-current={isActive(item.href) ? 'page' : undefined}
             class:list={[
               'block rounded px-3 py-2 font-heading text-lg',
               isActive(item.href) ? 'bg-gold-600/15 text-gold-300' : 'text-parchment-100/85',
@@ -145,16 +147,15 @@ const isActive = (href: string) => pathname === href || pathname.startsWith(href
   interface IndexedSaint {
     slug: string;
     name: string;
-    honorific: string;
     feast: string;
-    feastMonth: number;
     patronage: string[];
     summary: string;
     image: string | null;
-    imageAlt: string | null;
     vocation: string[];
     region: string;
     religiousOrder: string;
+    status: string;
+    martyr: boolean;
   }
 
   const overlay = document.getElementById('search-overlay') as HTMLElement;
@@ -227,7 +228,7 @@ const isActive = (href: string) => pathname === href || pathname.startsWith(href
         };
         return `
         <a href="/saints/${item.slug}" class="group flex items-center gap-4 rounded-md px-3 py-2.5 transition-colors hover:bg-gold-600/10" data-result>
-          <img src="${item.image ? esc(item.image) : '/placeholder.svg'}" alt="" loading="lazy" class="arch-frame h-14 w-11 shrink-0 object-cover" />
+          <img src="${item.image ? esc(item.image) : '/placeholder-saint.svg'}" alt="" loading="lazy" class="arch-frame h-14 w-11 shrink-0 object-cover" />
           <span class="min-w-0">
             <span class="block truncate font-heading text-lg font-semibold text-ivory group-hover:text-gold-300">${hl('name', item.name)}</span>
             <span class="block truncate font-body text-sm text-parchment-100/65">${hl('patronage', '') || esc(item.feast)}</span>

@@ -2,7 +2,7 @@
 name: Blessed Teresa Rosat Balasch
 honorific: Blessed
 summary: Professed religious in the Sisters of the Christian Doctrine. Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Teresa-Rosat-Balasch.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Teresa-Rosat-Balasch.jpg
 searchAliases:
   - Amparo
 birthYear: 1873

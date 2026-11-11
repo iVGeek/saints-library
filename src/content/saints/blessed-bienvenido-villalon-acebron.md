@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Member of the Brothers of the Christian Schools (De La Salle Brothers). Director of Saint Joseph College. Martyred in
   the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Bienvenido-Villalón-Acebrón.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Bienvenido-Villalón-Acebrón.jpg
 searchAliases:
   - Brother Aurelio María
 birthYear: 1890

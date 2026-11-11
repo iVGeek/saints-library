@@ -2,7 +2,7 @@
 name: Venerable Elena Raparelli
 honorific: Venerable
 summary: Founded the Basilian Sisters, Daughters of Saint Macrina.
-image: http://catholicsaints.info/wp-content/uploads/img-Venerable-Elena-Raparelli.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Elena-Raparelli.jpg
 searchAliases:
   - Macrina
 birthYear: 1893

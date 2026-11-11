@@ -5,7 +5,7 @@ summary: >-
   Shepherd. Shoemaker. Franciscan lay brother at Barcelona, Spain. Cook, beggar and porter at the friary in the
   Horta-Guinardó area of Barcelona. Miracle worker and healer. His cell became a destination for sick pilgrims; said to
   have cured as many as 2,000 in a single day.
-image: http://catholicsaints.info/wp-content/uploads/Salvator-of-Horta.jpg
+image: https://catholicsaints.info/wp-content/uploads/Salvator-of-Horta.jpg
 searchAliases:
   - Salvatore Grionesos da Horta
   - Salvador

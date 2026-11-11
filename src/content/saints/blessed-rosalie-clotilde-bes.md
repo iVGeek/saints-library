@@ -2,7 +2,7 @@
 name: Blessed Rosalie-Clotilde Bes
 honorific: Blessed
 summary: Sacramentine nun. Martyred in the French Revolution.
-image: http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Orange.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Orange.jpg
 searchAliases:
   - |-
     Rosalia Clotilde di S. Pelagia Bès

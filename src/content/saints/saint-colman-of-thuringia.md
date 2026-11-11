@@ -2,7 +2,7 @@
 name: Saint Colman of Thuringia
 honorific: Saint
 summary: Evangelized Franconia and East Thuringia. Worked and martyred with Saint Kilian and Saint Totnan.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Kolonat.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Kolonat.jpg
 searchAliases:
   - Colomann
   - Kolonat

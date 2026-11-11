@@ -5,7 +5,7 @@ summary: >-
   Born to a wealthy and pious family who raised cattle and sheep. Orphaned at an early age he devoted himself to
   managing the estate and supervising the herds. In the solitude of the fields he realized he had a call to religious
   life. He sold his estate, converted his assets to cas
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Leolucas-of-Corleone-1.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Leolucas-of-Corleone-1.jpg
 searchAliases:
   - Leo Lukas
   - Leo Luke

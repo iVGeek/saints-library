@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Niece of Saint Engelbert; Ada's whole family was known for its piety. Nun at Soissons, France. Abbess at Saint
   Julien-des-Pr&eacute;s abbey, Le Mans, France.
-image: http://catholicsaints.info/wp-content/gallery/saint-ada/saint-ada.jpg
+image: https://catholicsaints.info/wp-content/gallery/saint-ada/saint-ada.jpg
 searchAliases:
   - Ada of Soissons
   - Ada of St-Julien

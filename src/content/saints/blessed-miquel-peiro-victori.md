@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Married layman in the archdiocese of Barcelona, Spain. Member of the Lay Dominicans. Martyred in the Spanish Civil
   War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Miquel-Peiro-Victori.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Miquel-Peiro-Victori.jpg
 birthYear: 1887
 deathYear: 1936
 born: 7 February 1887 in Ayguafreda, Barcelona, Spain

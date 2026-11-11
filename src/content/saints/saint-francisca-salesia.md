@@ -5,7 +5,7 @@ summary: >-
   Daughter of Theodore Aviat, a shopkeeper, and Emilie Caillot. Baptized 17 September 1844; Confirmed on 2 July 1856.
   Educated at the Visitation School in Troyes, France from age eleven to sixteen. With Father Louis Brisson and Mother
   Marie Therese de Sales Chappuis, she founded th
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Francisca-Salesia.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Francisca-Salesia.jpg
 searchAliases:
   - Frances de Sales Aviat
   - Francesca Salesia Aviat

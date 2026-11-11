@@ -5,7 +5,7 @@ summary: >-
   Graduated from Cambridge with degrees in civil and canon law. Ordained in 1501 and served as a parish priest for four
   years. Carthusian monk, doing his noviate in the London Charterhouse, and making his final vows in 1516. Prior of the
   Beauvale Carthusian Charterhouse in Northamp
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-John-Houghton.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-John-Houghton.jpg
 birthYear: 1487
 deathYear: 1535
 born: 1487 at Essex, England

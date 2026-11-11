@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Augustinian friar  and hermit at Cerqueto, Italy. Known as a preacher and miracle worker. It was his prayers that
   secured permission for the Augustinians to wear white habits in tribute to Mary.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-James-of-Cerqueto.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-James-of-Cerqueto.jpg
 birthYear: 1285
 deathYear: 1366
 born: 1285 at Cerqueto in Perugia, Umbria, Italy

@@ -5,7 +5,7 @@ summary: >-
   Nothing reliable is recorded about his life before his service to the Church. Patriarch of Antioch. Friend and advisor
   to empress Saint Helena. Named bishop of Treves, Gaul (modern Trier, Germany) by Pope Sylvester I; served for 20
   years. Attended the Council of Arles in 314. Bui
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Agrecius-of-Trier.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Agrecius-of-Trier.jpg
 searchAliases:
   - Agricius of Trier
   - Agritius of Tr&egrave;ves

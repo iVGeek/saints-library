@@ -5,7 +5,7 @@ summary: >-
   Probably an Hellenized Jew. One of the seven Jerusalem deacons mentioned in the canonical Acts of the Apostles.
   Preached and performed miracles in Samaria, converting many including the magician Simon Magus. Commanded by an angel,
   he travelled from Jerusalem to Gaza. Converted an
-image: http://catholicsaints.info/wp-content/gallery/saint-philip-the-deacon/saint-philip-the-deacon-01.jpg
+image: https://catholicsaints.info/wp-content/gallery/saint-philip-the-deacon/saint-philip-the-deacon-01.jpg
 searchAliases:
   - Philip of Hierapolis
   - Philip the Evangelist

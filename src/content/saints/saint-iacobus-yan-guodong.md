@@ -2,7 +2,7 @@
 name: Saint Iacobus Yan Guodong
 honorific: Venerable
 summary: Layman in the apostolic vicariate of Northern Shanxi, China. Martyred in the Boxer Rebellion.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Giacomo-Yen.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Giacomo-Yen.jpg
 searchAliases:
   - Guo Dong Yan
   - Yage

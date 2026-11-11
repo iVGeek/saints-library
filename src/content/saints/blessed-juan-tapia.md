@@ -3,7 +3,7 @@ name: Blessed Juan Tapia
 honorific: Blessed
 title: Missionary
 summary: Mercedarian friar. Missionary to Guatemala. Leader of his convent.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Juan-Tapia.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Juan-Tapia.jpg
 deathYear: 1562
 died: '1562'
 region: Italy

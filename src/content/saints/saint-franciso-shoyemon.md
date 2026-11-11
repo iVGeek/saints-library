@@ -2,7 +2,7 @@
 name: Saint Franciso Shoyemon
 honorific: Saint
 summary: Lay Dominican catechist. Martyr.
-image: http://catholicsaints.info/wp-content/uploads/img-Dominican-Martyrs-of-Japan.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Dominican-Martyrs-of-Japan.jpg
 deathYear: 1633
 born: Japanese
 died: 14 August 1633

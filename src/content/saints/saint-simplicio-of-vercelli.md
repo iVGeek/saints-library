@@ -5,7 +5,7 @@ title: Bishop
 summary: >-
   Eighth bishop of Vercelli, Italy. Served during a period of barbarian invasion. No records of his episcopate have
   survived.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Simplicio-of-Vercelli.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Simplicio-of-Vercelli.jpg
 searchAliases:
   - Simplicius
 deathYear: 470

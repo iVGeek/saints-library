@@ -5,7 +5,7 @@ summary: >-
   Born to a large, poor but pious farm family, Bruno was a happy and popular boy who loved soccer and swimming. He knew
   early on that he had a call to the priesthood, and studied in the seminaries in the archdiocese of Bologna, and in
   Rome, Italy; he proved to be an excellent stude
-image: http://catholicsaints.info/wp-content/uploads/img-Venerable-Bruno-Marchesini.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Bruno-Marchesini.jpg
 birthYear: 1915
 deathYear: 1938
 born: 8 August 1915 in Bagno di Piano, Bologna, Italy

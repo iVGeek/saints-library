@@ -5,7 +5,7 @@ summary: >-
   Member of the Salesians of Don Bosco, professed on 5 September 1909. Priest, ordained on 28 July 1918 in Salamanca,
   Spain. Taught and served as an administrator in schools in Campello, Barcelona, Madrid and Salamanca. Known for his
   personal piety, his dedication to the priesthood
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Enrique-Sáiz-Aparicio.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Enrique-Sáiz-Aparicio.jpg
 birthYear: 1889
 deathYear: 1936
 born: 1 December 1889 in Ubierna, Burgos, Spain

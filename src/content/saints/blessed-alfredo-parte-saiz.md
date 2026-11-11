@@ -5,7 +5,7 @@ summary: >-
   Member of the Piarists, making his vows on 13 August 1916. Began working in the Pious Schools in Villacarriedo, Spain
   in 1922. Ordained in Palencia, Spain on 3 March 1928. Arrested on 17 November 1936 for the crime of being a Catholic
   priest during the Spanish Civil War; he was i
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Alfredo-Parte-Saiz.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Alfredo-Parte-Saiz.jpg
 searchAliases:
   - Alfredo of the Virgin
 birthYear: 1899

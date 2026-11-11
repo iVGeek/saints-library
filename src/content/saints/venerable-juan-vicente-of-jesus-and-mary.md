@@ -2,7 +2,7 @@
 name: Venerable Juan Vicente of Jesus and Mary
 honorific: Venerable
 summary: Discalced Carmelite priest.
-image: http://catholicsaints.info/wp-content/uploads/img-Venerable-Juan-Vicente-of-Jesus-and-Mary.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Juan-Vicente-of-Jesus-and-Mary.jpg
 searchAliases:
   - Juan Vicente Zengotitabengoa Lausen
 birthYear: 1862

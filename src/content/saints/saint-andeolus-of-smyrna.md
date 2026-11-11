@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Sub-deacon in Smyrna. Spiritual student of Saint Polycarp of Smyrna who sent him with Saint Benignus, Saint Andochius,
   and Saint Thyrsus to evangelize the Vivarais in Gaul. Scourged with thorny sticks and executed. Martyr.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Andeolus-of-Smyrna.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Andeolus-of-Smyrna.jpg
 searchAliases:
   - Andeolus of Vivarais
   - Andeolus of Vals

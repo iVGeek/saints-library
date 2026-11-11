@@ -2,7 +2,7 @@
 name: Blessed Ioannes Nagata Magoshichiro
 honorific: Blessed
 summary: Dominican friar. Martyred in the persecution of the Tokugawa Shogunate as part of the Great Genna Martyrdom.
-image: http://catholicsaints.info/wp-content/uploads/img-Great-Genna-Martyrdom.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Great-Genna-Martyrdom.jpg
 searchAliases:
   - Dominicus of the Rosary
 birthYear: 1601

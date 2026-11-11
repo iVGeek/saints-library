@@ -5,7 +5,7 @@ summary: >-
   Eldest of nine children born to a peasant family. Around the age of 12, possibly due to an apparition of Saint Teresa
   of Avila, María Josefa received an inspiration that she should spread the devotion to the Merciful Love of Jesus. At
   age 23 she joined the Daughters of Calvary, t
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Esperanza-de-Jesus.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Esperanza-de-Jesus.jpg
 searchAliases:
   - Giuseppa Alhama Valera
   - María Esperanza of Jesus

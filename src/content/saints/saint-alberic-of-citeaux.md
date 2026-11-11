@@ -5,7 +5,7 @@ summary: >-
   Hermit at Collan, Chatillon-sur-Seine, France. He, Saint Robert of Molesme, and several fellow hermits formed a
   monastery at Molesmes in 1075 with Alberic as prior. The group's reputation grew, and they attracted disciples, though
   some were not interested in living by the monasti
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Alberic-of-Citeaux.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Alberic-of-Citeaux.jpg
 searchAliases:
   - Aubrey…
 deathYear: 1109

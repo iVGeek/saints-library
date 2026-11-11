@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Joined the Hospitallers of Saint John of God on 4 March 1908. Worked at the San Rafael asylum hospital in Barcelona,
   Spain. Martyred in the Spanish Civil War
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Lorenzo-Villanueva-Larrayoz.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Lorenzo-Villanueva-Larrayoz.jpg
 searchAliases:
   - Pedro de Alcántara
 birthYear: 1881

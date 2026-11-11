@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Basilian monk. Founded the Nicholas Abbey at the foot of Monte San Calogero near Cucumo, Sicily, and served as its
   first abbot.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Theoctistus.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Theoctistus.jpg
 deathYear: 830
 died: 830 near Cucumo, Italy of natural causes
 deathPlace: Italynatural causes

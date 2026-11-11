@@ -5,7 +5,7 @@ summary: >-
   Born to the nobility. Married twice, she spent most of her time in dissolute, sinful pleasures. When her father and
   brother were executed in civil disturbances, Clare changed her life completely. She became a Franciscan tertiary and
   founded a convent, though she never became a nu
-image: http://catholicsaints.info/wp-content/uploads/Clare-of-Rimini.jpg
+image: https://catholicsaints.info/wp-content/uploads/Clare-of-Rimini.jpg
 searchAliases:
   - Chiara Agolanti
   - Clare of Rimini

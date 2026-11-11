@@ -2,7 +2,7 @@
 name: Blessed Catherine du Verdier de la Sorinière
 honorific: Blessed
 summary: Lay woman of the diocese of Angers, France. Martyred in the persecutions of the French Revolution.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Catherine-du-Verdier-de-la-Sorinière.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Catherine-du-Verdier-de-la-Sorinière.jpg
 birthYear: 1758
 deathYear: 1794
 born: 29 June 1758 in Saint-Pierre de Chemillé, Maine-et-Loire, France

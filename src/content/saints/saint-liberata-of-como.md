@@ -5,7 +5,7 @@ summary: >-
   Born to the wealthy, Italian nobility; sister of Saint Faustina of Como. Their mother died when the girls were very
   small, and they were raised by a guardian. Their father tried to arrange marriages for them, but both girls were drawn
   to religious life and fled their homes for Co
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Liberata-of-Como1.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Liberata-of-Como1.jpg
 deathYear: 580
 born: Rocca d'Olgisio, Italy
 died: 580 of natural causes

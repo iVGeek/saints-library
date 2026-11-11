@@ -5,7 +5,7 @@ summary: >-
   Born to the Bavarian nobility. Educated by Augustinian monks at the Saint Nikola monastery in Passau, Germany. Dean of
   the cathedral of Salzburg, Austria in 1122. Bishop of Brixen. Counselor to his parishioners, the poor, his clergy,
   popes and emperors. Great benefactor to those
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Hartmann-of-Brixen.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Hartmann-of-Brixen.jpg
 searchAliases:
   - Armand
   - Artmanno

@@ -5,7 +5,7 @@ summary: >-
   Italian peasant. A pious youth, she was trained as a seamstress. She desired a religious life, and was convinced by
   Father James Alberione to become a co-foundress of the Daughters of Saint Paul, a congregation devoted to spreading
   the Gospel through print and mass media. She too
-image: http://catholicsaints.info/wp-content/uploads/img-Venerable-Thecla-Merlo.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Thecla-Merlo.jpg
 searchAliases:
   - Maria Teresa Merlo
   - Tecla Merlo

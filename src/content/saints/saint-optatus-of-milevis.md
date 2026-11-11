@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Raised a pagan. Rhetorician. Convert to Christianity. Lived through the persecutions of Diocletian and Julian the
   Apostate. Late fourth century bishop of Milevis, Numidia (modern Algeria). Wrote against the Donatists.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Optatus-of-Milevis.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Optatus-of-Milevis.jpg
 searchAliases:
   - Optate
   - Ottato

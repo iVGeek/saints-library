@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Franciscan Friars Minor (Alcantarines) friary. Martyred in the persecution of the Tokugawa Shogunate as part of the
   Great Genna Martyrdom.
-image: http://catholicsaints.info/wp-content/uploads/img-Great-Genna-Martyrdom.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Great-Genna-Martyrdom.jpg
 birthYear: 1597
 deathYear: 1622
 born: 1597 in Ayamonte, Huelva, Spain

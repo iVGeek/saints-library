@@ -5,7 +5,7 @@ summary: >-
   The eldest of ten children born to Angelo and Maria Romano Clerici; hers was a poor but pious family with two of her
   brothers becoming monks, one sister a Sister of the Precious Blood. Received a Master's degree from the College of the
   Sisters of the Precious Blood in Monza, Ital
-image: http://catholicsaints.info/wp-content/gallery/blessed-alfonsa-clerici/blessed-alfonsa-clerici.jpg
+image: https://catholicsaints.info/wp-content/gallery/blessed-alfonsa-clerici/blessed-alfonsa-clerici.jpg
 birthYear: 1860
 deathYear: 1930
 born: 14 February 1860 in Lainate, Milan, Italy

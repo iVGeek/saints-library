@@ -2,7 +2,7 @@
 name: Saint Carpus of Pergamus
 honorific: Saint
 summary: Bishop of Thyatira. Martyred in the persecutions of Decius.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Carpus-of-Pergamus.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Carpus-of-Pergamus.jpg
 searchAliases:
   - Carpo
 deathYear: 250

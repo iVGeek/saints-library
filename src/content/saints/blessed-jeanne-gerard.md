@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Nun in the Daughters of Charity of Saint Vincent de Paul at Arras, France. Imprisoned in 1792 and executed two years
   later in the anti-Catholic excesses of the French Revolution.
-image: http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Cambrai.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Cambrai.jpg
 searchAliases:
   - Jane Gérard
   - Joan Gérard

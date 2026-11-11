@@ -2,7 +2,7 @@
 name: Saint Eleutherius
 honorific: Saint
 summary: Deacon. Tortured and martyred with Saint Denis.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Rusticus-and-Saint-Eleuthere.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Rusticus-and-Saint-Eleuthere.jpg
 deathYear: 258
 died: beheaded c.258 at Montmarte (= mount of martyrs)
 region: France

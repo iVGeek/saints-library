@@ -2,7 +2,7 @@
 name: Blessed Andrés Avelino Gutiérrez Moral
 honorific: Blessed
 summary: Vincentian priest. Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Andrés-Avelino-Gutiérrez-Moral.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Andrés-Avelino-Gutiérrez-Moral.jpg
 birthYear: 1886
 deathYear: 1936
 born: 11 November 1886 in Salazar de Amaya, Burgos, Spain

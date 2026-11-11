@@ -2,7 +2,7 @@
 name: Blessed Vicente Sicluna Hernández
 honorific: Blessed
 summary: Priest in the archdiocese of Valencia, Spain. Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Vicente-Sicluna-Hernández.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Vicente-Sicluna-Hernández.jpg
 birthYear: 1859
 deathYear: 1936
 born: 31 October 1859 in Valencia, Spain

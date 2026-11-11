@@ -2,7 +2,7 @@
 name: Blessed Ramon Novich Rabionet
 honorific: Blessed
 summary: One of the Martyred Claretians of Barbastro killed in the persecutions of the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Ramon-Novich-Rabionet.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Ramon-Novich-Rabionet.jpg
 birthYear: 1913
 deathYear: 1936
 born: 18 April 1913 in La Cellera de Ter, Girona, Spain

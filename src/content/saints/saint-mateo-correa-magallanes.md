@@ -5,7 +5,7 @@ summary: >-
   Attended the seminary at Zacatecas, Mexico on a scholarship, beginning 12 January 1881. Ordained on 20 August 1893.
   Parish priest, assigned to Concepcion de Oro, Mexico from 1898 to 1905. Close friend of the Pro-Juarez family, he
   baptized Humberto Pro, and gave First Communion to
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Mateo-Correa-Magallanes.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Mateo-Correa-Magallanes.jpg
 searchAliases:
   - Mateo Correa
 deathYear: 1927

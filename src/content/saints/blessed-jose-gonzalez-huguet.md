@@ -2,7 +2,7 @@
 name: Blessed José González Huguet
 honorific: Blessed
 summary: Priest in the archdiocese of Valencia, Spain. Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-José-González-Huguet.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-José-González-Huguet.jpg
 birthYear: 1874
 deathYear: 1936
 born: 23 January 1874 in Alaquás, Valencia, Spain

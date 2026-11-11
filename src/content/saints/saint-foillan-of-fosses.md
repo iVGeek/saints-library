@@ -5,7 +5,7 @@ summary: >-
   Brother of Saint Fursey of Peronne and Saint Ultan of Péronne. Travelled with them from Ireland to East Anglia,
   England c.630 where they worked as missionaries, and established the monastery of Burgh Castle near Yarmouth. Abbot of
   the community at Cnoberesburg, Suffolk, England i
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Foillan-of-Fosses1.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Foillan-of-Fosses1.jpg
 searchAliases:
   - Faelan
   - Faillan

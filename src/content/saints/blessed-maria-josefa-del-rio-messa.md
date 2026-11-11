@@ -2,7 +2,7 @@
 name: Blessed María Josefa del Río Messa
 honorific: Blessed
 summary: Member of the Carmelite Sisters of Charity. Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-María-Josefa-del-Río-Messa.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-María-Josefa-del-Río-Messa.jpg
 searchAliases:
   - Sister María Josefa of Saint Sophia
 birthYear: 1895

@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Benedictine monk. Abbot of Saints Peter and Paul abbey at Wessobrunn in Bavaria (in modern Germany). Martyred along
   with six of his brother monks by invading Hungarians.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Thiento-of-Wessobrunn.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Thiento-of-Wessobrunn.jpg
 searchAliases:
   - Tientone
 deathYear: 955

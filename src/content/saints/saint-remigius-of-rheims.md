@@ -5,7 +5,7 @@ summary: >-
   Born to the Gallo-Roman nobility, the son of Emilius, count of Laon, and of Saint Celina; younger brother of Saint
   Principius of Soissons; uncle of Saint Lupus of Soissons. A speaker noted for his eloquence, he was selected bishop of
   Rheims (in modern France) at age 22 while stil
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Remegius-of-Rheims.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Remegius-of-Rheims.jpg
 searchAliases:
   - Apostle of the Franks
   - Remigius of Reims

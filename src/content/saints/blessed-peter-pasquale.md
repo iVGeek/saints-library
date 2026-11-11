@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Mercedarian friar, receiving the habit from Saint Peter Nolasco. First Commander of the San Martino monastery in
   Perpignan, France. Miracle worker.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Peter-Pasquale.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Peter-Pasquale.jpg
 region: France
 feastDay:
   month: 3

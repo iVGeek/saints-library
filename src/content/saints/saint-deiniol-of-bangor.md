@@ -5,7 +5,7 @@ summary: >-
   Son of a Celtic chieftain, possibly from the area of Strathclyde, Scotland; related to Saint Asaph of Llanelwy.
   Founded monasteries in Gwynedd and Flintshire. First bishop of Bangor, Wales, consecrated by Saint Dubritius. An
   evangelist and excellent shepherd of his people. Worked
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Deiniol-of-Bangor.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Deiniol-of-Bangor.jpg
 searchAliases:
   - Daniel
   - Daniele

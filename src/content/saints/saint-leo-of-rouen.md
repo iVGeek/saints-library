@@ -5,7 +5,7 @@ summary: >-
   Raised in a pious family. Bishop of Rouen, France. Evangelist in Navarre and the Basque regions. Martyred by Saracen
   pirates. Legend says that a spring of water sprang up where he died, and that his body carried his severed head back
   to the place of his last sermon before finally
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Leo-of-Rouen.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Leo-of-Rouen.jpg
 searchAliases:
   - Leon of Bayonne
   - Leo of Carentan

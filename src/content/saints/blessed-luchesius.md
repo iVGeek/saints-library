@@ -5,7 +5,7 @@ summary: >-
   Layman who spent the first part of his life indifferent to religion. Married to Blessed Buona dei Segni. Worked as a
   grocer, money changer, and corn merchant. Father. Spent every waking moment in pursuit of wealth and political
   influence. In his 30's, his children all died of nat
-image: http://catholicsaints.info/wp-content/uploads/Luchesius.jpg
+image: https://catholicsaints.info/wp-content/uploads/Luchesius.jpg
 searchAliases:
   - Lucchese
   - Lucesio

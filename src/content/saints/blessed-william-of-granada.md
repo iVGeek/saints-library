@@ -2,7 +2,7 @@
 name: Blessed William of Granada
 honorific: Blessed
 summary: Mercedarian friar. Martyred for preaching Christianity in Moorish-occupied Granada, Spain.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Raymond-and-William-of-Granada.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Raymond-and-William-of-Granada.jpg
 died: Granada, Spain
 deathPlace: Spain
 region: Spain

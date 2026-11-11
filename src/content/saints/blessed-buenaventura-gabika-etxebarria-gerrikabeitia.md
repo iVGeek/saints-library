@@ -2,7 +2,7 @@
 name: Blessed Buenaventura Gabika-Etxebarria Gerrikabeitia
 honorific: Blessed
 summary: Trinitarian priest. Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Buenaventura-Gabika-Etxebarria-Gerrikabeitia.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Buenaventura-Gabika-Etxebarria-Gerrikabeitia.jpg
 searchAliases:
   - Buenaventura of Saint Catherine
 birthYear: 1887

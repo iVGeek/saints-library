@@ -2,7 +2,7 @@
 name: Saint Laurentius Han I-Hyong
 honorific: Venerable
 summary: Married layman catechist in the apostolic vicariate of Korea. Martyr.
-image: http://catholicsaints.info/wp-content/uploads/img-Maryrs-of-Korea.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Maryrs-of-Korea.jpg
 searchAliases:
   - Han I-Hyeong
   - Leourensio

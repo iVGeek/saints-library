@@ -5,7 +5,7 @@ summary: >-
   Born poor, the daughter of John and Anne Achler. Franciscan tertiary at age 14, but found it hard to lead a religious
   life while living with her parents. At age 17 she joined four other tertiaries in a community in Reute, Germany; she
   lived there the rest of her life. For most of
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Elizabeth-Achler.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Elizabeth-Achler.jpg
 searchAliases:
   - Betha the Good
   - Betha von Reute

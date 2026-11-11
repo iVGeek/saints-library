@@ -2,7 +2,7 @@
 name: Blessed Ascensión Duart Roig
 honorific: Blessed
 summary: Professed religious in the Sisters of the Christian Doctrine. Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Martyred-Sisters-of-the-Christian-Doctrine.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Martyred-Sisters-of-the-Christian-Doctrine.jpg
 searchAliases:
   - Teresa of Saint Joseph
 birthYear: 1876

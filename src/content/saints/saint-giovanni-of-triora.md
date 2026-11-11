@@ -5,7 +5,7 @@ summary: >-
   The son of Antonio Maria Lantrua and Maria Pasqua Ferraironi, Francesco was educated in Barnabite schools. He joined
   the Franciscan Friars Minor in Rome, Italy on 9 March 1777, just a few days before he turned 17, taking the name
   Giovanni. Ordained a priest in 1784, and taught th
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Giovanni-of-Triora-1.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Giovanni-of-Triora-1.jpg
 searchAliases:
   - Francesco Maria Lantrua
   - Giovanni da Triora

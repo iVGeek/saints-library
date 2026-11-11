@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Old Testament Patriarch. The man “simple and upright and fearing God and avoiding evil” who figures in the canonical
   Old Testament Book of Job.
-image: http://catholicsaints.info/wp-content/uploads/img-Job-the-Patriarch.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Job-the-Patriarch.jpg
 searchAliases:
   - Giobbe
 region: England

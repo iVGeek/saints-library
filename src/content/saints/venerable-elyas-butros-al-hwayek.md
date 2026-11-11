@@ -5,7 +5,7 @@ summary: >-
   Elias studied at the Seminary College of Saint John Maroun in North Lebanon, the Jesuit seminary in Ghazir, Lebanon
   beginning in 1859, in Rome, Italy in beginning in 1866, and was ordained a priest in 1870. Chosen Maronite archbishop
   of Antioch, Lebanon and Titular Archbishop of
-image: http://catholicsaints.info/wp-content/uploads/img-Venerable-Elyas-Butros-Al-Hwayek.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Elyas-Butros-Al-Hwayek.jpg
 searchAliases:
   - Elyas Butros Hawayek
   - Elyas Butros Hoayek

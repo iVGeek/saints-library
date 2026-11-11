@@ -2,7 +2,7 @@
 name: Saint Nicostratus
 honorific: Saint
 summary: One of the Four Crowned Martyrs.
-image: http://catholicsaints.info/wp-content/uploads/img-Four-Crowned-Martyrs.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Four-Crowned-Martyrs.jpg
 searchAliases:
   - 8 November
 region: Italy

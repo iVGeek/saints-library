@@ -2,7 +2,7 @@
 name: Saint Adalgis of Novara
 honorific: Saint
 summary: Member of the court of Emperor Lothair I of the Franks. Bishop of Novara, Italy c.830.
-image: http://catholicsaints.info/wp-content/uploads/Adagisio.jpg
+image: https://catholicsaints.info/wp-content/uploads/Adagisio.jpg
 searchAliases:
   - Adalgisio
   - Adalgiso

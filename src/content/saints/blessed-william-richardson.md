@@ -5,7 +5,7 @@ summary: >-
   Grew up in the area of Sheffield, Yorkshire, England. Studied at Rheims, France, the English College, Valladolid,
   Spain and the College of Saint Gregory in Seville, Spain from 1592 through 1594. Ordained in 1594. He returned to
   England to minister to covert Catholics, often hidin
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-William-Richardson.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-William-Richardson.jpg
 searchAliases:
   - William Anderson
 deathYear: 1603

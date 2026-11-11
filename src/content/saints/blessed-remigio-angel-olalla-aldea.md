@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Joined the Salesians in Bujedo, Spain in 1916 at the age of 13; made his perpetual vows on 26 August 1928. Teacher in
   Griñon, Spain. Director of the Salesian community of Santa Cruz de Mudela in 1935. Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Remigio-Ángel-Olalla-Aldea.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Remigio-Ángel-Olalla-Aldea.jpg
 searchAliases:
   - Brother Agapito León
 birthYear: 1903

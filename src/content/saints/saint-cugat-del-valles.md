@@ -5,7 +5,7 @@ summary: >-
   Born to an illustrious family in north Africa. He fled to Spain to avoid the persecutions of Diocletian. Spiritual
   teacher of Saint Juliana of Mataro and Saint Semproniana of Mataro. Arrested for his faith in Barcelona, he was hauled
   before Governor Dacian and ordered to sacrific
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Cugat-del-Valles.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Cugat-del-Valles.jpg
 searchAliases:
   - Cobad
   - Cocoba

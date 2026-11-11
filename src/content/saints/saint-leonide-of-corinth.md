@@ -2,7 +2,7 @@
 name: Saint Leonide of Corinth
 honorific: Saint
 summary: One of a group of eight Christians who were tortured and martyred together in the persecutions of Decius.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Leonidas.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Leonidas.jpg
 searchAliases:
   - Leonid
 deathYear: 250

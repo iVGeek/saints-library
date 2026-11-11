@@ -5,7 +5,7 @@ summary: >-
   Born to a non-Christian family, the daughter of Nengapeta. With her mother and sisters, she converted to Christianity,
   taking the name Alfonsina. Nun, a member of the Nivelles, Belgium based Congregation of the Holy Family, making her
   first profession on 5 August 1959. Served as
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Alphonsine-Anuarite-Nengapeta.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Alphonsine-Anuarite-Nengapeta.jpg
 searchAliases:
   - Sister Marie Clementine
   - Clementina Nengapeta

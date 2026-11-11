@@ -5,7 +5,7 @@ summary: >-
   Daughter of Piero Satellico and Lucia Mander, she grew up in the home of her maternal uncle who was a priest. Weak and
   sickly as a child, she was strong in prayer, music and singing. “I want to become a nun,” she said, “and if I succeed,
   I want to become a saint“. Student in the
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Maria-Crucified-Satellico.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Maria-Crucified-Satellico.jpg
 searchAliases:
   - Elisabetta Maria Satellico
   - Maria Crocifissa

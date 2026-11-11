@@ -5,7 +5,7 @@ summary: >-
   Benedictine monk at Glastonbury Abbey. Educated at Cambridge. Ordained in 1501. Abbot of Glastonbury in 1525. Leader
   of his house when King Henry VIII seized Church property as part of his usurpation of religious power. Arrested for
   refusing to turn his abbey over to the king's m
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Richard-Whiting.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Richard-Whiting.jpg
 deathYear: 1539
 born: Wrington, Somerset, England
 died: hanged, drawn, and quartered on 1 December 1539 at Tor Hill, Glastonbury, England

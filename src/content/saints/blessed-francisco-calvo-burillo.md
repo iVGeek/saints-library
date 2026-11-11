@@ -5,7 +5,7 @@ summary: >-
   Member of the Dominicans, professed in the Order on 5 April 1898. Studied at the Dominican convents of Padron and
   Corias in Asturias, Spain, and later at university in Barcelona, Spain. Ordained a priest in 1905 in Salamanca, Spain.
   Teacher for several years in Oviedo, Spain. Ass
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Francisco-Calvo-Burillo.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Francisco-Calvo-Burillo.jpg
 birthYear: 1881
 deathYear: 1936
 born: 21 November 1881 in Hijár, Teruel, Spain

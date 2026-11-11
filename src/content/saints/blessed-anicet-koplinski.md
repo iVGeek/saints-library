@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Franciscan Capuchin friar. Priest. Friend of Blessed Fidelis Chojnacki. Martyred in the Nazi persecutions of World War
   II.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Anicet-Koplinski.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Anicet-Koplinski.jpg
 searchAliases:
   - Adalbert Koplinski
 birthYear: 1875

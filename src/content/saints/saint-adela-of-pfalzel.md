@@ -5,7 +5,7 @@ summary: >-
   Daughter of Saint Dagobert II, King of the Franks, and the Anglo-Saxon princess Matilda. Sister of Saint Irmina of
   Oehren. Grand-daughter of Saint Sigebert III, king of Austrasia. Princess. Married to a man named Alberic. Mother of
   one son. Widowed in 700. Her wealth, position, a
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Adela-of-Pfalzel.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Adela-of-Pfalzel.jpg
 searchAliases:
   - Addula
   - Athela

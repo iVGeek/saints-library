@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   One of the Seven Founders of the Servants of Mary. Led the Servite province of Umbria, Italy from 1260 until his
   death, and brought the Servite Order to Germany.
-image: http://catholicsaints.info/wp-content/uploads/img-Seven-Foudners-of-the-Servites.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Seven-Foudners-of-the-Servites.jpg
 searchAliases:
   - Gherardino Sostenes
   - Gherardino Sostegno

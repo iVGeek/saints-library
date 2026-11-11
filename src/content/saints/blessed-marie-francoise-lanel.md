@@ -5,7 +5,7 @@ summary: >-
   Attended the school of the Daughters of Charity of Saint Vincent de Paul. Nun in the Daughters at Arras, France,
   entering the novitiate in 1764. Imprisoned in 1792 and executed two years later in the anti-Catholic excesses of the
   French Revolution.
-image: http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Cambrai.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Cambrai.jpg
 searchAliases:
   - Frances Lanel
   - Francesca Label

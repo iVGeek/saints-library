@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   One of Saint Francis of Assisi's earliest disciples and one of first Franciscans. Priest. Noted preachers, miracle
   worker, healer and visionary.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Bentivoglio-de-Bonis.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Bentivoglio-de-Bonis.jpg
 searchAliases:
   - Bentivolius Bonis
   - Bentivoglio de Bonis of San Severino Marche

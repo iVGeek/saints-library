@@ -2,7 +2,7 @@
 name: Venerable Jadwiga Jaroszewska
 honorific: Venerable
 summary: Founded the Benedictine Samaritan Sisters of the Cross of Christ.
-image: http://catholicsaints.info/wp-content/uploads/img-Venerable-Jadwiga-Jaroszewska.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Jadwiga-Jaroszewska.jpg
 searchAliases:
   - Vincenta of the Passion of the Lord
 birthYear: 1900

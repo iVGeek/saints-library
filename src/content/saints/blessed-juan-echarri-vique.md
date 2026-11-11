@@ -2,7 +2,7 @@
 name: Blessed Juan Echarri Vique
 honorific: Blessed
 summary: One of the Martyred Claretians of Barbastro killed in the persecutions of the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Juan-Echarri-Vique.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Juan-Echarri-Vique.jpg
 birthYear: 1913
 deathYear: 1936
 born: 30 March 1913 in Olite, Navarra, Spain

@@ -2,7 +2,7 @@
 name: Saint Auxibius of Soli
 honorific: Saint
 summary: Convert, baptized by Saint Mark the Evangelist. Bishop of Soli, Cyprus, ordained by Saint Paul the Apostle.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Auxibius.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Auxibius.jpg
 searchAliases:
   - Auxibius of Cyprus
   - Ausibio…

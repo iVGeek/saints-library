@@ -2,7 +2,7 @@
 name: Saint Sérvulo of Trieste
 honorific: Saint
 summary: Martyred in the persecutions of Numerian.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Sérvulo-of-Trieste.gif
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Sérvulo-of-Trieste.gif
 searchAliases:
   - Sérvolo
   - Servulus

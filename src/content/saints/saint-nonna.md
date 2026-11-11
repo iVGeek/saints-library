@@ -5,7 +5,7 @@ summary: >-
   Daughter of Filtazius, she was raised in a Christian home. Married and converted Saint Gregory of Nazianzen the Elder.
   Mother of Saint Gregory Nazianzen, Saint Caesarius of Nazianzen, and Saint Gorgonia. She outlived her husband and the
   latter two children.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Nonna.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Nonna.jpg
 searchAliases:
   - Nona
 deathYear: 374

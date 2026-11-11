@@ -5,7 +5,7 @@ summary: >-
   Feeling an early call to the priesthood, Daniel entered the Pontifical Seminary in Scutari, Albania at age 12. He
   joined the Jesuits in Gorizia, Albania on 8 July 1926, and made his final profession on 2 February 1942. He studied
   philosophy in Chieri, Italy from 1931 to 1933, and
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Daniel-Dajani.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Daniel-Dajani.jpg
 birthYear: 1906
 deathYear: 1946
 born: 2 December 1906 in Blinisht, Zadrima, Lezhë, Albania

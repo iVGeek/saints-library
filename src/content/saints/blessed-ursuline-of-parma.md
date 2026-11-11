@@ -5,7 +5,7 @@ summary: >-
   Daughter of Peter and Veneri Bertolina. At age 11 she was healed from a serious illness through the intercession of
   Saint Peter Martyr. At age 15, after having received a vision, she made a pilgrimage to Avignon, France to plead with
   anti-Pope Clement VII (Robert of Geneva) to re
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Ursuline-of-Parma.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Ursuline-of-Parma.jpg
 searchAliases:
   - Ursuline of Bologna
   - Orsolina…

@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   One of the earliest martyrs in Gaul (modern France). Her cultus in Normandy goes back to the beginning of the Church,
   but her Acts have been lost, and no details are known.
-image: http://catholicsaints.info/wp-content/uploads/img-Sainte-Honorine.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Sainte-Honorine.jpg
 searchAliases:
   - Honorine
   - Onorina

@@ -4,7 +4,7 @@ honorific: Venerable
 summary: >-
   Married layman in the apostolic vicariate of Korea. Catechist who conducted Bible studies in his home. One of the
   Martyrs of Korea.
-image: http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Korea.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Korea.jpg
 searchAliases:
   - Augustine Gwang-Heon
   - Augustinus…

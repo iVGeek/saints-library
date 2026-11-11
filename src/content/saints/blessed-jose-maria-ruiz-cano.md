@@ -2,7 +2,7 @@
 name: Blessed José María Ruiz Cano
 honorific: Blessed
 summary: Claretian priest. Martyred in the religious persecutions of the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-José-María-Ruiz-Cano.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-José-María-Ruiz-Cano.jpg
 birthYear: 1906
 deathYear: 1936
 born: 13 September 1906 at Jerez de los Caballeros, Badajoz, Spain

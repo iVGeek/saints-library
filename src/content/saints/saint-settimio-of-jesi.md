@@ -5,7 +5,7 @@ summary: >-
   Raised in a pagan family, Settimio received a good education and was a professional soldier. While in Italy, he
   converted to Christianity, and began to preach the faith. He was forced to flee from Milan, Italy in 303 during the
   persecutions of Diocletian. In Rome he became known
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Settimio-of-Jesi.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Settimio-of-Jesi.jpg
 searchAliases:
   - Septimus
 born: Germany

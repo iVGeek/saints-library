@@ -2,7 +2,7 @@
 name: Blessed Vicente Pelufo Orts
 honorific: Blessed
 summary: Priest in the archdiocese of Valencia, Spain. Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Vicente-Pelufo-Orts.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Vicente-Pelufo-Orts.jpg
 birthYear: 1868
 deathYear: 1936
 born: 26 February 1868 in Alzira, Valencia, Spain

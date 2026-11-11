@@ -2,7 +2,7 @@
 name: Blessed Hyacinthe-Augustine-Gabrielle Bourla
 honorific: Blessed
 summary: One of a group of Ursuline nuns martyred  in the persecutions of the French Revolution.
-image: http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Valenciennes-1.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Valenciennes-1.jpg
 searchAliases:
   - Marie-Ursule-Joseph of Saint Bernardine
 birthYear: 1746

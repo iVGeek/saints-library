@@ -2,7 +2,7 @@
 name: Blessed Enric Morante Chic
 honorific: Blessed
 summary: Mercedarian priest. Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Enric-Morante-Chic.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Enric-Morante-Chic.jpg
 birthYear: 1896
 deathYear: 1936
 born: 23 September 1896 in Lleida, Spain

@@ -2,7 +2,7 @@
 name: Blessed José García Mas
 honorific: Blessed
 summary: Priest in the archdiocese of Valencia, Spain. Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-José-García-Mas.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-José-García-Mas.jpg
 birthYear: 1896
 deathYear: 1936
 born: 11 June 1896 in Pego, Alicante, Spain

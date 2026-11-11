@@ -2,7 +2,7 @@
 name: Blessed Inés Zudaire Galdeano
 honorific: Blessed
 summary: Member of the Visitation Nuns. Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Inés-Zudaire-Galdeano.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Inés-Zudaire-Galdeano.jpg
 searchAliases:
   - Sister María Inés
 birthYear: 1900

@@ -5,7 +5,7 @@ summary: >-
   Born a princess, the daughter of the King of East Anglia (part of modern England). Sister of Saint Etheldred, Saint
   Ethelburgh and Saint Withburgh, and half-sister of Saint Sethrid. Married to Erconbert, King of Kent (part of modern
   England). Mother of Saint Ermenhild and Saint E
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Saxburgh-of-Ely.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Saxburgh-of-Ely.jpg
 searchAliases:
   - Saxburgh of Kent
   - Sexburga

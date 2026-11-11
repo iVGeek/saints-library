@@ -5,7 +5,7 @@ summary: >-
   Member of the Missionary Sisters of Our Lady of the Apostles, making her first vows on 8 September 1959 and taking the
   name Sister Angèle-Marie. She was asssigned to the Sisters's house in Bouzarea where they operated an orphanage and a
   boarding school for young girls. Sister Ang
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Jeanne-Littlejohn.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Jeanne-Littlejohn.jpg
 searchAliases:
   - Sister Angèle-Marie
 birthYear: 1933

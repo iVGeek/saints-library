@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Spiritual student of Saint Foillan of Fosses. Priest. Missionary monk and then abbot at Kerkelodor Abbey near Antwerp,
   Belgium.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Fredegand-of-Kerkelodor.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Fredegand-of-Kerkelodor.jpg
 searchAliases:
   - Frédégand of Deurne
   - Frédégand of Turninum

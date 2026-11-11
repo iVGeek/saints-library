@@ -2,7 +2,7 @@
 name: Blessed Tomás Campo Marín
 honorific: Blessed
 summary: Mercedarian priest. Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Tomás-Campo-Marín.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Tomás-Campo-Marín.jpg
 birthYear: 1879
 deathYear: 1936
 born: 23 January 1879 in Mahamud, Burgos, Spain

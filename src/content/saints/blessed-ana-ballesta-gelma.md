@@ -2,7 +2,7 @@
 name: Blessed Ana Ballesta Gelmá
 honorific: Blessed
 summary: Nun in the Order of Minim Nuns in the Archdiocese of Barcelona, Spain. Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Ana-Ballesta-Gelmá.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Ana-Ballesta-Gelmá.jpg
 searchAliases:
   - Filomena of Saint Francis de Paola
 birthYear: 1895

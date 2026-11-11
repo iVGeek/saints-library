@@ -2,7 +2,7 @@
 name: Saint Theresia Yi Mae-im
 honorific: Venerable
 summary: Lay woman in the apostolic vicariate of Korea. Martyr.
-image: http://catholicsaints.info/wp-content/uploads/img-Maryrs-of-Korea.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Maryrs-of-Korea.jpg
 searchAliases:
   - Teresa
 birthYear: 1788

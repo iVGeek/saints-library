@@ -5,7 +5,7 @@ summary: >-
   Son of D&egrave;sir&egrave;, a baker, and Josefa; Edward was one of eleven children; one brother became a priest, five
   sisters were nuns. Raised in a pious and hard working family, Edward was an energetic, almost hyperactive child, but
   an excellent student who early felt a call t
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Edward-Joannes-Maria-Poppe.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Edward-Joannes-Maria-Poppe.jpg
 birthYear: 1890
 deathYear: 1924
 born: 18 December 1890 in Temse, Belgium

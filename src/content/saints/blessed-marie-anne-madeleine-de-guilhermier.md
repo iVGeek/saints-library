@@ -2,7 +2,7 @@
 name: Blessed Marie-Anne-Madeleine de Guilhermier
 honorific: Blessed
 summary: Ursuline nun. Martyred in the French Revolution. One of the Martyrs of Orange.
-image: http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Orange.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Orange.jpg
 searchAliases:
   - Sister Saint Melania
 birthYear: 1733

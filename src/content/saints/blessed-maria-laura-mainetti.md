@@ -5,7 +5,7 @@ summary: >-
   Baptized in Villatico di Colico on 22 August 1939 at the age of 2 days. Sisters of the Cross nun, entering the
   novitiate in Rome, Italy on 22 August 1957 and taking the name Sister Maria Laura. Her ministry was to children and
   young people both as a class room teacher and spiritu
-image: http://catholicsaints.info/wp-content/gallery/new-catholic-dictionary/maria-laura-mainetti.jpg
+image: https://catholicsaints.info/wp-content/gallery/new-catholic-dictionary/maria-laura-mainetti.jpg
 searchAliases:
   - Teresina Elsa Mainetti
 birthYear: 1939

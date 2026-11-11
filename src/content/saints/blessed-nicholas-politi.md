@@ -1,7 +1,7 @@
 ---
 name: Blessed Nicholas Politi
 honorific: Blessed
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Nicholas-Politi.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Nicholas-Politi.jpg
 searchAliases:
   - Nicolò Politi
 birthYear: 1117

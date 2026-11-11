@@ -5,7 +5,7 @@ summary: >-
   Born to the French nobility, the son of the lord of Maumont Jean de La Rochefoucauld and Marguerite des Escots; his
   brother Francois-Joseph became bishop of Beauvais, France, and his sister was abbess of the convent of Notre Dame de
   Soissons. Priest. Prior commendator of Nanteuil
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Pierre-Louis-de-la-Rochefoucauld-Bayers.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Pierre-Louis-de-la-Rochefoucauld-Bayers.jpg
 birthYear: 1744
 deathYear: 1792
 born: 12 October 1744 in Blanzaguet-Saint-Cybard-le-Peyrat, Charente, France

@@ -5,7 +5,7 @@ summary: >-
   Gregory spent the first 50 years of his life as a pagan, and worked as a government official most of his adult life.
   Married to Saint Nonna, who converted him to Christianity in 325. Father of Saint Gregory Nazianzen, Saint Caesarius
   of Nazianzen, and Saint Gorgonius. Bishop of N
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Gregory-Nazianzen-the-Elder.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Gregory-Nazianzen-the-Elder.jpg
 birthYear: 276
 deathYear: 374
 born: c.276 at Nazianzos, Cappadocia, Asia Minor

@@ -5,7 +5,7 @@ summary: >-
   Born to a family of shepherds. Feeling a call to religious life, he joined the Claretians in his teens, making his
   profession in Vic, Spain on 15 August 1930. While he was in seminary in 1936, the Spanish Civil War broke out. In
   July, Atanasio collapsed from an unspecified health
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Atanasio-Vidaurreta-Labra.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Atanasio-Vidaurreta-Labra.jpg
 birthYear: 1911
 deathYear: 1936
 born: 2 May 1911 in Adiós, Navarra, Spain

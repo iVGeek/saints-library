@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Brother of Blessed Herman of Heidelberg. Benedictine monk and priest at the monastery of Niederaltaich, Bavaria
   (modern Germany). After his brother's death, Otto exercised his vocation from Herman's old cell.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Otto-of-Heidelberg.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Otto-of-Heidelberg.jpg
 deathYear: 1344
 died: '1344'
 region: Germany

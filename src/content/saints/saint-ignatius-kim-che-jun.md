@@ -2,7 +2,7 @@
 name: Saint Ignatius Kim Che-Jun
 honorific: Venerable
 summary: Married layman in the apostolic vicariate of Korea. Imprisoned, tortured and martyred in the persecutions in Korea.
-image: http://catholicsaints.info/wp-content/uploads/img-Maryrs-of-Korea.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Maryrs-of-Korea.jpg
 searchAliases:
   - Ignatius Gim Je-Jun
   - Inyadio…

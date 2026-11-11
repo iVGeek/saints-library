@@ -5,7 +5,7 @@ summary: >-
   Born to the Norwegian royalty. In 1043, as he was about to cross the Drammenfjord in a boat, a woman ran up to him,
   begging his help; she claimed she was falsely accused of theft, and feared for her life. Hallvard took her aboard, but
   the pursuers reached them before he could pus
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Hallvard-of-Oslo.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Hallvard-of-Oslo.jpg
 searchAliases:
   - Hallvard Vebjørnsson
   - Hallvard of Lier

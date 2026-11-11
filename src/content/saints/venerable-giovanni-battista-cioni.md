@@ -3,7 +3,7 @@ name: Venerable Giovanni Battista Cioni
 honorific: Venerable
 title: Priest
 summary: Priest in the Clerics Regular of the Mother of God.
-image: http://catholicsaints.info/wp-content/uploads/img-Venerable-Giovanni-Battista-Cioni.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Giovanni-Battista-Cioni.jpg
 birthYear: 1556
 deathYear: 1623
 born: 11 November 1556 in Lucca, Italy

@@ -5,7 +5,7 @@ summary: >-
   Apochryphal martyr whose story has been beautifully told, and was popular for many years. Having made a personal vow
   of virginity, she refused to marry, or to sacrifice to idols. She was tried, tortured, and sentenced to death for her
   faith by the prefect Sapricius during the per
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Dorothy-of-Caesarea.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Dorothy-of-Caesarea.jpg
 searchAliases:
   - Dora
   - Dorotea

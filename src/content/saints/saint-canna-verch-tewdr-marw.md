@@ -5,7 +5,7 @@ summary: >-
   Legend says she was a princess, the daughter of King Tewdwr Mawr ap Emyr Llydaw of Brittany, and great-niece of King
   Arthur. Married to Prince Sadwen of Wales; mother of Saint Crallo; niece of Saint Cadfan. In the 6th century the
   family fled to Wales to escape Frankish invaders.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Canna-verch-Tewdr-Marw.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Canna-verch-Tewdr-Marw.jpg
 searchAliases:
   - Cenaf
   - Candice

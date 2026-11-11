@@ -5,7 +5,7 @@ summary: >-
   Joined the reformed Dominican priory of Cortona, Italy at age 15. Ordained in Cortona. Known for his deep life of
   prayer, penance and contemplation. Noted preacher, often on the theme of contemplating your own death, preaching with
   a skull in his hand.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Peter-of-Città-di-Castello.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Peter-of-Città-di-Castello.jpg
 searchAliases:
   - Peter Capucci
   - Peter of Tiferno

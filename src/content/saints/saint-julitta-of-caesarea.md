@@ -5,7 +5,7 @@ summary: >-
   Rich lay woman in Caesarea, Cappadocia (in modern Turkey) whose property was stolen by an influential local pagan. She
   took him to court where he objected that she had no standing or rights in court as she was a Christian. The judge
   ordered her to prove her standing by making a s
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Julitta-of-Caesarea.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Julitta-of-Caesarea.jpg
 searchAliases:
   - Julitta of Tarsus
   - Giulietta…

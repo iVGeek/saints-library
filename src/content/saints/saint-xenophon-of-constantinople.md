@@ -5,7 +5,7 @@ summary: >-
   Married to Saint Mary of Constantinople, father of Saint John and Saint Arcadius. A wealthy man of Senatorial rank in
   5th century imperial Constantinople, he was known as a Christian who lived a simple life. To give their sons a good
   education, Xenophon and Mary sent them to univ
-image: http://catholicsaints.info/wp-content/uploads/img-Martyred-Family-of-Constantinople.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Martyred-Family-of-Constantinople.jpg
 searchAliases:
   - Csenofonte
   - Senofonte

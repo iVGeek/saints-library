@@ -5,7 +5,7 @@ summary: >-
   Swineherd near Castlemaine, Ireland. Monk. Spiritual student of Saint Carthage the Elder. Priest. Hermit at
   Kiltallagh, Ireland in 580. He attracted would-be students, founded the monastery in Raithean in County Offaly,
   Ireland c.590, and served as its abbot. Abbot-Bishop of the
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Carthage-the-Younger.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Carthage-the-Younger.jpg
 searchAliases:
   - |-
     Carthage of Lismore

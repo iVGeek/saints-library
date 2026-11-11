@@ -5,7 +5,7 @@ summary: >-
   The only child in a farm family, Francisco married at age 18, but became a widower just sixteen months later. He then
   followed a call to religious life, and Franciscan friar at the convent of Sant Miquel d'Escornalbou, making his
   religious profession on 14 July 1641 and taking th
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Bonaventura-of-Barcelona.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Bonaventura-of-Barcelona.jpg
 searchAliases:
   - Bonaventure of Riudoms
   - Bonaventura Gran

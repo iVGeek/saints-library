@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Soldier. Knight. Mercedarian. Captured by Muslim invaders, he was imprisoned, tortured, and executed for his faith.
   First Mercedarian martyr.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Ryamond-de-Blanes.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Ryamond-de-Blanes.jpg
 deathYear: 1235
 died: beheaded on 6 January 1235 in Granada, Spain
 deathPlace: Spain

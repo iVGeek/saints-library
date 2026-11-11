@@ -5,7 +5,7 @@ summary: >-
   Born to the Mercian nobility, the son of Penwald; brother of Saint Pega of Peakirk. Soldier for nine years in the army
   of King Ethelred of Mercia; the freedom to loot led to him amassing a large forture. However, in 697 he had a
   conversion experience and gave up the violent life
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Guthlac-of-Croyland.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Guthlac-of-Croyland.jpg
 searchAliases:
   - Guthlac of Crowland
   - Guthlacus….

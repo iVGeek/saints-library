@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Architect. Priest. Monk. Abbot. Founded the monastery of Saint Peter in Perugia, Italy and oversaw both its
   construction and the construction or re-building of other structures in his diocese.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Peter-Vincioli.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Peter-Vincioli.jpg
 searchAliases:
   - Peter of Perugia
 deathYear: 1007

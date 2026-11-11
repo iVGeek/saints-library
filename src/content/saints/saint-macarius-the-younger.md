@@ -5,7 +5,7 @@ summary: >-
   Successful merchant in fruits, candies, and pastries in Alexandria, Egypt. Converting to Christianity, Macarius gave
   up his business in 335 to become a monk and hermit in the Thebaid, Upper Egypt. For a while he lived near and was a
   friend of Saint Anthony the Abbot. Macarius was
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Macarius-the-Younger.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Macarius-the-Younger.jpg
 searchAliases:
   - Macarius of Alexandria
   - Macarius the Alexandrian

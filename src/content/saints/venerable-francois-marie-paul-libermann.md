@@ -5,7 +5,7 @@ summary: >-
   Son of a Jewish rabbi. Convert to Catholicism, baptized at Paris, France on 24 December 1826 Studied at Saint Sulpice
   seminary beginning in 1827. An epileptic, his attacks interfered with his studies, extending his time in seminary.
   Ordained on 18 September 1841 in the archdioces
-image: http://catholicsaints.info/wp-content/uploads/img-Venerable-François-Marie-Paul-Libermann.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Venerable-François-Marie-Paul-Libermann.jpg
 searchAliases:
   - Jacob Libermann
 birthYear: 1804

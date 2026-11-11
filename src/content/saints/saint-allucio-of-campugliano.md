@@ -6,7 +6,7 @@ summary: >-
   Son of Omodeo, a rancher. Shepherd in Pescia, Tuscany, Italy. Director of the alms-house in Valdi Nievole, Italy.
   Built shelters for travellers in mountain passes and river crossings. His work attracted other people who became the
   core of the future Brothers of Saint Allucio. Kno
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Allucio-of-Campugliano.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Allucio-of-Campugliano.jpg
 searchAliases:
   - Allucio of Valdi Nievole
   - Allucio of Valdinievole

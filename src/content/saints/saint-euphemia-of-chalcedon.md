@@ -5,7 +5,7 @@ summary: >-
   Born to a wealthy, aristocratic, and pious family; the daughter of Philophorm and Theodosia, Christians in a pagan
   world. Consecrated virgin who used her fortune to aid the poor. Ordered to sacrifice to a statue of Ares, she refused.
   She was imprisoned and tortured, but repeatedl
-image: http://catholicsaints.info/wp-content/uploads/Euphemia-of-Chalcedon.jpg
+image: https://catholicsaints.info/wp-content/uploads/Euphemia-of-Chalcedon.jpg
 deathYear: 305
 died: tortured, then thrown to wild beasts c.305 at Chalcedon, Asia Minor
 deathPlace: then thrown to wild beasts c.305 at Chalcedon, Asia Minor

@@ -2,7 +2,7 @@
 name: Venerable Giuseppe Beschin
 honorific: Venerable
 summary: Priest. Member of the Order of Friars Minor, taking the name Ignazio.
-image: http://catholicsaints.info/wp-content/uploads/img-Venerable-Giuseppe-Beschin.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Giuseppe-Beschin.jpg
 searchAliases:
   - Father Ignazio
 birthYear: 1880

@@ -5,7 +5,7 @@ summary: >-
   Beautiful Roman Christian noblewoman. Sister of Saint Victoria. The two sisters were set for arranged marriages to
   noble Roman pagans, and were hesitant. Victoria argued that it would be all right as the patriarchs in the Old
   Testament had been married; but Anatolia cited other e
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Anatolia.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Anatolia.jpg
 searchAliases:
   - Anatolia of Thyrum
   - Anatolia of Thurium

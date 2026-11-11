@@ -5,7 +5,7 @@ summary: >-
   Educated at the Abbey of Luxeuil, France known for its strict adherence to the Rule of Saint Columban, a Rule known
   for its austerity. Though he was not a novice, Bertin felt called to follow the Rule with the monks at the abbey; when
   grown, he took the cowl. In 639, Bertin and t
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Bertin-the-Great1.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Bertin-the-Great1.jpg
 searchAliases:
   - Bertin of Sithiu
   - Bercht…

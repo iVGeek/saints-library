@@ -5,7 +5,7 @@ summary: >-
   A pious youth, his family nicknamed him “the little monk.” After graduating the Jesuit college in Poznan, Poland,
   Melchior joined the cavalry, and was made an officer within three years. In 1715, against the advice of his brothers
   in arms, Melchior joined the Conventual Friars Mi
-image: http://catholicsaints.info/wp-content/uploads/chylinski.jpg
+image: https://catholicsaints.info/wp-content/uploads/chylinski.jpg
 searchAliases:
   - Melchior Chylinski
 birthYear: 1694

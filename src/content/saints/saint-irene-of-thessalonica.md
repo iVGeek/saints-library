@@ -5,7 +5,7 @@ summary: >-
   Sister of Saint Agape and Saint Chionia. Convicted of possessing the Scriptures despite a prohibition issued in 303 by
   Emperor Diocletian, and of refusing food that had been offered to the gods. Following the martyrdom of her sisters,
   Irene was also ordered to deny the faith; she
-image: http://catholicsaints.info/wp-content/gallery/saint-irene-of-thessalonica/saint-irene-of-thessolinica-01.jpg
+image: https://catholicsaints.info/wp-content/gallery/saint-irene-of-thessalonica/saint-irene-of-thessolinica-01.jpg
 searchAliases:
   - Herene
 deathYear: 304

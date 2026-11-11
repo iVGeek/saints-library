@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Member of the Carmelite Sisters of Charity, joining on 11 September 1922. Noted as an excellent teacher. Martyred in
   the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Maria-de-las-Nieves.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Maria-de-las-Nieves.jpg
 searchAliases:
   - Sister María de Las Nieves of the Holy Trinity
 birthYear: 1897

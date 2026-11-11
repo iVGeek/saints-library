@@ -5,7 +5,7 @@ summary: >-
   Youngest of four children. Studied at the seminary of the Universidad Pontificia Comillas from 1943 to 1948, then in
   Salamanca, Spain from 1948 to 1953. Ordained in the archdiocese of Toledo, Spain on 4 April 1953. Curate of the parish
   of Saint Thomas from 1953 to 1955, and then
-image: http://catholicsaints.info/wp-content/uploads/img-Venerable-José-Rivera-Ramírez.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Venerable-José-Rivera-Ramírez.jpg
 birthYear: 1925
 deathYear: 1991
 born: 17 December 1925 at the Plaza de Santa Isabel in Toledo, Spain

@@ -3,7 +3,7 @@ name: Gabriel the Archangel
 honorific: Saint
 title: Archangel
 summary: Archangel and messenger of God. One of the three angels mentioned by name in the Catholic Bible.
-image: http://catholicsaints.info/wp-content/gallery/gabriel-the-archangel/gabriel-the-archangel-00.jpg
+image: https://catholicsaints.info/wp-content/gallery/gabriel-the-archangel/gabriel-the-archangel-00.jpg
 searchAliases: []
 died: hasn't
 region: Africa

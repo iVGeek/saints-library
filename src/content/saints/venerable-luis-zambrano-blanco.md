@@ -2,7 +2,7 @@
 name: Venerable Luis Zambrano Blanco
 honorific: Venerable
 summary: Priest of the archdiocese of Mérida-Badajoz, Spain. Founded the Secular Institute of the Hearth of Nazareth.
-image: http://catholicsaints.info/wp-content/uploads/img-Venerable-Luis-Zambrano-Blanco.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Luis-Zambrano-Blanco.jpg
 birthYear: 1909
 deathYear: 1983
 born: 23 December 1909 in Fuente del Maestre, Badajoz, Spain

@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Joined the Hospitallers of Saint John of God in 1900, making his vows on 21 June 1904. Martyred in the Spanish Civil
   War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Mariano-Niño-Pérez.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Mariano-Niño-Pérez.jpg
 searchAliases:
   - Brother Cesáreo
 birthYear: 1878

@@ -5,7 +5,7 @@ summary: >-
   One of eight children born to Jan and Antonina Dulny, and raised in a very pious family. Seminarian in the diocese of
   Wloclawek, Poland where he was known for being devout, studious (though not a great student), and showing a true
   vocation to the priesthood. Arrested on 7 October
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Tadeusz-Dulny.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Tadeusz-Dulny.jpg
 searchAliases:
   - Tadeo Dulny
   - Taddeo Dulny

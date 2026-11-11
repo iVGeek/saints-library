@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Born to the imperial Roman nobility. Consecrated virgin, the closest thing at that time to a nun. Tortured and
   martyred during the persecutions of Valerian.
-image: http://catholicsaints.info/wp-content/gallery/saint-agrippina-of-rome/saint-agrippina-of-rome.jpg
+image: https://catholicsaints.info/wp-content/gallery/saint-agrippina-of-rome/saint-agrippina-of-rome.jpg
 searchAliases:
   - Agrippina of Mineo
 deathYear: 262

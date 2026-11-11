@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Ordained a priest on 24 September 1898. Chosen bishop of Cuenca, Spain on 30 November 1921. Martyred in the Spanish
   Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Cruz-Laplana-Laguna.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Cruz-Laplana-Laguna.jpg
 searchAliases:
   - Cruz Laplana y Laguna
 birthYear: 1875

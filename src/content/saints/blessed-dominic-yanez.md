@@ -2,7 +2,7 @@
 name: Blessed Dominic Yanez
 honorific: Blessed
 summary: Mercedarian friar in the convent of Santa Caterina in Toledo, Spain.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Domenico-Yanez.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Domenico-Yanez.jpg
 region: Spain
 feastDay:
   month: 12

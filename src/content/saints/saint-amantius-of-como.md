@@ -2,7 +2,7 @@
 name: Saint Amantius of Como
 honorific: Saint
 summary: Member of the imperial Roman court. Third bishop of Como, Italy. Built the Basilica of Sant'Abbondio in Como.
-image: http://catholicsaints.info/wp-content/gallery/saint-amantius-of-como/sant-amanzio-di-como.jpg
+image: https://catholicsaints.info/wp-content/gallery/saint-amantius-of-como/sant-amanzio-di-como.jpg
 searchAliases:
   - Amanzio di Como
 deathYear: 448

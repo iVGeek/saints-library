@@ -5,7 +5,7 @@ summary: >-
   Son of a senatorial family from Cordoba, Spain. Well educated. Priest. Head of an ecclesiastical school. Worked to
   comfort and support Christian martyrs and their survivors during Islamic persecutions in Moorish occupied Spain.
   Arrested several times for his faith, he wrote Exhor
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Leocricia-and-Saint-Eulalia-of-Cordoba.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Leocricia-and-Saint-Eulalia-of-Cordoba.jpg
 deathYear: 859
 died: scourged and beheaded 11 March 859 at Cordoba, Spain
 deathPlace: Spain

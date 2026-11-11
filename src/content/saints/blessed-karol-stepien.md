@@ -5,7 +5,7 @@ summary: >-
   Born to Józef and Marianna Puch, poor working class farmers, Karol as a child was considered extremely intelligent and
   extremely unruly. He early felt a call to the priesthood, and at age 13 began studying at the Franciscan seminary in
   Lviv (in modern Ukraine). He joined the Fran
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Karol-Herman-Stepien.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Karol-Herman-Stepien.jpg
 searchAliases:
   - Brother Herman
   - Father Herman

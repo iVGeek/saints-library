@@ -5,7 +5,7 @@ summary: >-
   Ordained a priest on 17 December 1814. Superior of the seminary at Cimiez, Nice, France in 1822. Entered the
   Missionary Oblates of Mary Immaculate at Aix-la-Chappelle in 1824; professed by Apostolic indult after a few months
   novitiate. Missionary to Corsica in 1835 where his work
-image: http://catholicsaints.info/wp-content/gallery/venerable-carlo-domenico-albini/venerable-carlo-domenico-albini-01.jpg
+image: https://catholicsaints.info/wp-content/gallery/venerable-carlo-domenico-albini/venerable-carlo-domenico-albini-01.jpg
 searchAliases:
   - Apostle of Corsica
   - Charles Dominic Albini

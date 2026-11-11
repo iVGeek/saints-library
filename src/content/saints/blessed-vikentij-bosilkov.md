@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Passionist priest, ordained on 25 July 1926. Bishop of Nikopol, Bulgaria on 26 July 1947. Imprisoned and tortured for
   his faith and for refusing to denouce affiliation with the Vatican by the Communist government in 1948. Martyr.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Vikentij-Bosilkov.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Vikentij-Bosilkov.jpg
 searchAliases:
   - Eugene Bossilkov
   - Evgeni of the Sacred Heart

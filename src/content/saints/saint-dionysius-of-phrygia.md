@@ -2,7 +2,7 @@
 name: Saint Dionysius of Phrygia
 honorific: Saint
 summary: Pagan priest who converted to Christianity. Martyred in the persecutions of Emperor Elagabalus.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Dionysius-of-Phrygia.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Dionysius-of-Phrygia.jpg
 died: crucified at Pergen, Pamphylia, Asia Minor (in modern Turkey)
 deathPlace: Pamphylia, Asia Minor (modern Turkey)
 region: Italy

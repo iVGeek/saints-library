@@ -2,7 +2,7 @@
 name: Saint Flaviana of Auxerre
 honorific: Saint
 summary: Nun. Martyr.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Flaviana-of-Auxerre.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Flaviana-of-Auxerre.jpg
 died: in Auxerre, France
 deathPlace: France
 region: France

@@ -5,7 +5,7 @@ summary: >-
   Son of duke Burhard II of Swabia. Educated at Einsiedeln, Switzerland. Monk of Einsiedeln. Hermit on the island of
   Ufnau in Lake Zurich where his mother had lived in seclusion following her diagnosis with leprosy, and where he built
   a church dedicated to Our Lady.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Alarich.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Alarich.jpg
 searchAliases:
   - Alaric
   - Alarico

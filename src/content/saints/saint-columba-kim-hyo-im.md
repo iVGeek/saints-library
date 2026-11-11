@@ -2,7 +2,7 @@
 name: Saint Columba Kim Hyo-Im
 honorific: Venerable
 summary: Layman in the apostolic vicariate of Korea. Imprisoned, tortured and martyred in the persecutions in Korea.
-image: http://catholicsaints.info/wp-content/uploads/img-Maryrs-of-Korea.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Maryrs-of-Korea.jpg
 searchAliases:
   - Columba Gim Hyo-Im
   - Gollumba…

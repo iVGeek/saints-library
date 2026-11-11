@@ -5,7 +5,7 @@ summary: >-
   Peter grew up in a poor family during the anti-clerical, anti-Catholic aftermath of the French Revolution. His first
   attempt at the priesthood, against his family's wishes, ended when he had to withdraw from seminary due to illness; he
   never completely recovered his health. He re
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Peter-Julian-Eymund.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Peter-Julian-Eymund.jpg
 searchAliases:
   - Peter Julian Eymard
   - Pierre-Julien Eymard

@@ -5,7 +5,7 @@ summary: >-
   Priest of the archdiocese of Barcelona, Spain. Rector of the parish of San Pedro in Rubi, Spain, he organized
   pilgrimages, supported education, and worked to make the church a hub of life for his parishioners. Had a great
   devotion to Our Lady of Monserrat. Imprisoned and executed
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Jose-Guardiet-y-Pujol.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Jose-Guardiet-y-Pujol.jpg
 birthYear: 1879
 deathYear: 1936
 born: 21 June 1879 in Manlleu, Barcelona, Spain

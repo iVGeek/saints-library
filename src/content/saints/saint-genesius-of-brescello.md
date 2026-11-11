@@ -2,7 +2,7 @@
 name: Saint Genesius of Brescello
 honorific: Saint
 summary: Bishop of Brescello, Italy, possibly the first in this diocese.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Genesius-of-Brescello.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Genesius-of-Brescello.jpg
 searchAliases:
   - Genesius of Brixellum
   - Genesio…

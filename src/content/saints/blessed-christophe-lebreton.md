@@ -5,7 +5,7 @@ summary: >-
   Seventh of a family of twelve children. He joined the Trappists in 1974, and moved to the monastery of Tamié in
   Algeria in 1987. Ordained a priest in 1990. Served as novice master of his community. He was one of the seven monks at
   the Atlas Abbey of Tibhirine near Médéa, Algeria
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Christophe-Lebreton.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Christophe-Lebreton.jpg
 searchAliases:
   - one of the Monks of Tibhirine
 birthYear: 1950

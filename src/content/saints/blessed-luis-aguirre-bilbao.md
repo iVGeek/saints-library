@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Orphaned as a small boy. Worked as a mechanic while studying to enter the Vincentians, making his profession on 30
   June 1933. Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Luis-Aguirre-Bilbao.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Luis-Aguirre-Bilbao.jpg
 birthYear: 1914
 deathYear: 1936
 born: 13 September 1914 in Murguía, Vizcaya, Spain

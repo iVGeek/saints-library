@@ -2,7 +2,7 @@
 name: Venerable Marcello Labor
 honorific: Venerable
 summary: ' Medica Born to Jewish parents. From his early youth he loved to write, keeping diaries and endlessly corresponding. Attended the University of Vienna. Married to Elsa Reiss in 1912. Graduated as a physician in 1914. Joined the Catholic Church on 23 December 1914. Father of three.'
-image: http://catholicsaints.info/wp-content/uploads/img-Venerable-Marcello-Labor.gif
+image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Marcello-Labor.gif
 birthYear: 1890
 deathYear: 1954
 born: 8 July 1890 in Trieste, Italy as Marcello Loewy

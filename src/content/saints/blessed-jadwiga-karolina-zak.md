@@ -5,7 +5,7 @@ summary: >-
   Professed religious, joining the Sisters of the Holy Family of Nazareth on 13 May 1911, taking the name Maria Imelda
   of the Eucharistic Jesus. She moved to Nowogródek in 1936. School teacher. Noted for her intense spiritual life and
   for her spiritual leadership in the lay communi
-image: http://catholicsaints.info/wp-content/uploads/img-blessed-maria-imelda-of-the-eucharistic-jesus.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-blessed-maria-imelda-of-the-eucharistic-jesus.jpg
 searchAliases:
   - Hedvig Karolina Zak
   - Sister Maria Imelda of the Eucharistic Jesus

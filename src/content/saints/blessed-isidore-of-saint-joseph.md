@@ -5,7 +5,7 @@ summary: >-
   Oldest of three children born to a pious farm family, and loved working the fields. Passionist lay brother, entering
   the congregation in 1906, and making his vows on 13 September 1908, taking the name Isidore of Saint Joseph. Known for
   an intense prayer life, and for his personal
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Isidore-of-Saint-Joseph.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Isidore-of-Saint-Joseph.jpg
 searchAliases:
   - Brother of the Will of God
   - Isidore de Loor

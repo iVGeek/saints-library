@@ -5,7 +5,7 @@ summary: >-
   Born to a Christian Saxon noble family. Brother of Saint Adolph of Utrecht. Educated with his brother at the monastery
   of Cnobersburg (Burgh Castle), Suffolk under the direction of its founder, Saint Fursey. When Mercian forces under
   King Penda invaded the region, the boys were s
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Botulph-of-Ikanhoe.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Botulph-of-Ikanhoe.jpg
 searchAliases:
   - Botulph of Ikenhoe
   - Botolph

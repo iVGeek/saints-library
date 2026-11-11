@@ -5,7 +5,7 @@ summary: >-
   Young layman in the archdiocese of Poznan, Poland; his sister became an Ursuline nun. Educated by Salesians in
   Oswiecim, Poland. Construction worker. A serious and mature young man, he had a great devotion to Eucharistic
   adoration and the teachings of Saint John Bosco. Martyred i
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Edward-Klinik.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Edward-Klinik.jpg
 birthYear: 1919
 deathYear: 1942
 born: 21 July 1919 in Bochum, Wielkopolskie, Poland

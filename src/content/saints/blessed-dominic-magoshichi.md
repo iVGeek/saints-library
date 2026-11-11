@@ -2,7 +2,7 @@
 name: Blessed Dominic Magoshichi
 honorific: Blessed
 summary: Lifelong layman in the diocese of Funai, Japan. Dominican catechist. Martyr.
-image: http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Japan.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Japan.jpg
 searchAliases:
   - Dominic of Fiunga
   - Dominicus….

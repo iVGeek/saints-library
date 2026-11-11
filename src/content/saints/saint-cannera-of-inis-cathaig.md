@@ -2,7 +2,7 @@
 name: Saint Cannera of Inis Cathaig
 honorific: Saint
 summary: Friend of Saint Senan. Anchoress near Bantry, Ireland.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Cannera-of-Inis-Cathaig.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Cannera-of-Inis-Cathaig.jpg
 searchAliases:
   - Cainder
   - Conaire

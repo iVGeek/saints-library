@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Greek rite monk from Calabria, Italy. Monk in the Abruzzo region of Italy, possibly fleeing Muslim raids on
   monasteries in Calabria. Hermit in the central Appennine mountains.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Francus-of-Francavilla.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Francus-of-Francavilla.jpg
 searchAliases:
   - Franco
 born: mid-10th-century in Italy

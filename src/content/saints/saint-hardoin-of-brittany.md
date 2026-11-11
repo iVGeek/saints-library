@@ -5,7 +5,7 @@ summary: >-
   Immigrant from the British Isles to Brittany (in modern France); legend says he was brought there in a stone boat
   propelled by angels. Hermit in the area of  Landerneau. Priest. Bishop of Saint Pol-de-Léon, Finistère, France. Friend
   of Saint Herve.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Hardoin-of-Brittany.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Hardoin-of-Brittany.jpg
 searchAliases:
   - Hardoin of St-Paul-de-Leon
   - Hardouin…

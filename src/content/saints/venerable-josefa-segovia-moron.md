@@ -5,7 +5,7 @@ summary: >-
   Lifelong lay woman in the archdiocese of Madrid, Spain. She studied in Granada and Madrid to become a school teacher.
   Back home in Jaén, she met Saint Pedro Poveda Castroverde and with him founded the Teresian Institute for female
   teachers; she served as its first director.  Prof
-image: http://catholicsaints.info/wp-content/uploads/img-Venerable-Josefa-Segovia-Morón.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Josefa-Segovia-Morón.jpg
 birthYear: 1891
 deathYear: 1957
 born: 10 October 1891 in Jaén, Spain

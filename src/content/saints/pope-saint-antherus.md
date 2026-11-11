@@ -5,7 +5,7 @@ summary: >-
   Son of Romulus. His family seems to have originally been from Greece. Priest in Rome, Italy, and served as 19th Pope
   for about six weeks. He started the Vatican library to preserve documents concerning the early martyrs, and founded a
   cemetery on the Appian Way for the poor. Mart
-image: http://catholicsaints.info/wp-content/uploads/img-Pope-Saint-Antero.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Pope-Saint-Antero.jpg
 searchAliases:
   - Antère
   - Anteros

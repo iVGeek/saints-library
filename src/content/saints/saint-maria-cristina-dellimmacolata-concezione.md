@@ -5,7 +5,7 @@ summary: >-
   Born to a wealthy family, the daughter of Giovanni Giuseppe and Maria Concetta Marrazzo; her mother died with Adelaide
   was only a few days old. The girl was educated at home, felt an early call to religious life, and attended Mass daily.
   At age twelve she took a personal vow of c
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Maria-Cristina-dell-Immacolata-Concezione.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Maria-Cristina-dell-Immacolata-Concezione.jpg
 searchAliases:
   - Adelaide Brando
   - Adelaidis Brando

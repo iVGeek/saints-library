@@ -5,7 +5,7 @@ summary: >-
   Immigrant to the United States. Ordained at Notre Dame University in 1941. Despite ongoing health problems, he entered
   the Congregation of Holy Cross. He recovered his health, attributed the healing to the intercession of the Virgin
   Mary, and was moved to establish the Rosary Cru
-image: http://catholicsaints.info/wp-content/gallery/new-catholic-dictionary/father-patrick-peyton.jpg
+image: https://catholicsaints.info/wp-content/gallery/new-catholic-dictionary/father-patrick-peyton.jpg
 birthYear: 1909
 deathYear: 1992
 born: 9 January 1909 in Carracastle, Mayo, Ireland

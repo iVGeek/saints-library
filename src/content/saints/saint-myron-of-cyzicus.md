@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Priest who tried to face down the people who came to destroy his church in the persecutions of Decius and Antipater.
   They tortured and killed him, and then razed the building.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Myron-of-Cyzicus.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Myron-of-Cyzicus.jpg
 searchAliases:
   - Miron
 deathYear: 250

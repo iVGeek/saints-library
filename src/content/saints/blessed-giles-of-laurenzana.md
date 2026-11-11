@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Raised on a farm at Laurenzana, Naples. Franciscan lay brother. Lived as a hermit in the garden of the Franciscan
   friary at Laurenzana. Noted for a great love of animals.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Giles-of-Laurenzana.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Giles-of-Laurenzana.jpg
 searchAliases:
   - Giles di Bello
   - Bernardin….

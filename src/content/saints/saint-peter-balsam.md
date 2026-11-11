@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Arrested for his faith in the persecutions of Maximinus. Tried by Severus, governor of Eleutheropolis; the transcript
   of their dialogue was famous in early Christian literature. Martyr.
-image: http://catholicsaints.info/wp-content/uploads/img-Matyrdom-of-Saint-Peter-Balsam.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Matyrdom-of-Saint-Peter-Balsam.jpg
 searchAliases:
   - Peter Apselamus
   - Peter Balsamus

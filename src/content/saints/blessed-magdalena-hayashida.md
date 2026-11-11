@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Young lay woman in the archdiocese of Nagasaki, Japan. Daughter of Blessed Leo Hayashida Sukeemon and Blessed Martha
   Hayashida. One of the Martyrs of Arima.
-image: http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Arima.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Arima.jpg
 birthYear: 1593
 deathYear: 1613
 born: c.1593 in Arima, Hyogo, Japan

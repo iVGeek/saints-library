@@ -5,7 +5,7 @@ summary: >-
   Daughter of Count Maniago. Married at age 15 to a knight named Anthony del Cavalcanti. Happily married for 25 years,
   and mother of several children. Widow. Augustinian tertiary, noted for her charity and austerity. Took a vow of
   silence, speaking only on Christmas night. Had an o
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Helen-del-Cavalcanti.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Helen-del-Cavalcanti.jpg
 searchAliases:
   - Helen Valentini
   - Helen of Udine

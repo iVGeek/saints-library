@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Daughter of Saint Tryphonia of Rome. Known for her charity and almsgiving. Martyred in the persecutions of Claudius
   II.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Cyrilla-of-Rome.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Cyrilla-of-Rome.jpg
 searchAliases:
   - Cirilla
 deathYear: 268

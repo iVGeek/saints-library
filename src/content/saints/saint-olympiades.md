@@ -5,7 +5,7 @@ summary: >-
   Pagan imperial Roman consul and magistrate who conducted the trial against Saint Firmina of Amelia for her faith. Her
   beauty, her strength and her resolve caused him to fall for her, but when he tried to force himself on her physically,
   he became paralyzed until she prayed over h
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Olympiades.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Olympiades.jpg
 searchAliases:
   - Olympias
 deathYear: 303

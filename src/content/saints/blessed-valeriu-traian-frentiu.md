@@ -5,7 +5,7 @@ summary: >-
   Ordained a priest in the Romanian Greek-Catholic Rite on 28 September 1898. Chosen eparch (bishop) of Lugoj, Romania
   on 14 December 1912. Chosen eparch (bishop) of Oradea Mare, Gran Varadino, Romania on 25 February 1922. Apostolic
   Administrator of Fagaras si Alba Iulia, Romania f
-image: http://catholicsaints.info/wp-content/uploads/img-Bishop-Valeriu-Traian-Frentiu.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Bishop-Valeriu-Traian-Frentiu.jpg
 searchAliases:
   - Valerio Traiano Frentiu
 birthYear: 1875

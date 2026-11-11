@@ -4,7 +4,7 @@ honorific: Venerable
 summary: >-
   Layman catechist in the apostolic vicariate of West Tonkin (modern Vietnam). Martyred in the persecutions of emperor
   Tu Duc.
-image: http://catholicsaints.info/wp-content/gallery/martyrs-of-vietnam/martyrs-of-vietnam-01.jpg
+image: https://catholicsaints.info/wp-content/gallery/martyrs-of-vietnam/martyrs-of-vietnam-01.jpg
 searchAliases:
   - Peter Doan Van Van
 birthYear: 1780

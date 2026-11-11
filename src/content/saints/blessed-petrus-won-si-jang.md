@@ -2,7 +2,7 @@
 name: Blessed Petrus Won Si-jang
 honorific: Blessed
 summary: Layman convert who served as a catechist. Martyred in the apostolic vicariate of Korea.
-image: http://catholicsaints.info/wp-content/uploads/img-Maryrs-of-Korea.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Maryrs-of-Korea.jpg
 birthYear: 1732
 deathYear: 1793
 born: 1732 in Hongju, Chungcheong-do, South Korea

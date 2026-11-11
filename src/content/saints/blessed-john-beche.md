@@ -5,7 +5,7 @@ summary: >-
   Benedictine monk. Doctor of Divinity from Oxford in 1515. Abbot of Saint Werburgh abbey, Chester, England. Abbot of
   Saint John's abbey, Colchester, England on 10 June 1530. Friend of Saint John Fisher and Saint John More. Initially
   opposed King Henry VIII's presumption of suprema
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-John-Beche.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-John-Beche.jpg
 searchAliases:
   - Thomas Marshall
 deathYear: 1539

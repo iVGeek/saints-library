@@ -5,7 +5,7 @@ summary: >-
   Moved from Britain to Brittany to become the spiritual student of his uncle Saint Paul Aurelian. Monk at Landevennec,
   Brittany (in modern France). Co-adjutor bishop with, and successor to Saint Paul. At least two churches in Brittany
   are dedicated to him.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Joavan-of-Brittany.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Joavan-of-Brittany.jpg
 searchAliases:
   - Jaoua
   - Joevin

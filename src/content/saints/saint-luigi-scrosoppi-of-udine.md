@@ -5,7 +5,7 @@ summary: >-
   Youngest of three brothers born to Domenico Scrosoppi, a jeweler, and Antonia Lazzarini; his brother Carlo was
   ordained when Luigi was six, and his brother Giovanni several years later. When Luigi was 11 or 12 years old, his home
   region was struck by drought, famine, typhus, and
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Luigi-Scrosoppi-of-Udine-1.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Luigi-Scrosoppi-of-Udine-1.jpg
 searchAliases:
   - Aloisius Scrosoppi
   - Aloysius of Udine

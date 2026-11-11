@@ -4,7 +4,7 @@ honorific: Venerable
 summary: >-
   Married lay woman in the apostolic vicariate of Southeastern Zhili, China. Mother of a priest. Martyred in the Boxer
   Rebellion.
-image: http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-China1.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-China1.jpg
 searchAliases:
   - Mali
   - Du Zhaoshi Maria

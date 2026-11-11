@@ -5,7 +5,7 @@ summary: >-
   Born to family that was wealthy but indifferent to the faith. Forced into an arranged marriage at age 13. Mother of
   three, though one died in childhood. Widowed at age 18. She turned away all suitors to care for lepers for eleven
   years while she raised her children. Had an ongoin
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Ivetta-of-Huy.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Ivetta-of-Huy.jpg
 searchAliases:
   - Ivetta of Liege
   - Ivette of…

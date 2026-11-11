@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Evangelist in Milan, Italy. First bishop of Evreux, Normandy (in modern France) c.385. Fought against the pagan
   customs of the region. Miracle worker.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Taurinus-of-Evreux.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Taurinus-of-Evreux.jpg
 searchAliases:
   - Taurino
 birthYear: 350

@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Uncle of Saint Eremberta of Wierre. Priest. Monk. Founded a convent at Wierre-aux-Bois, France and the monastery of
   Samer near Boulogne, France that was later renamed Saint-Vulmaire in his honour.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Wulmar.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Wulmar.jpg
 searchAliases:
   - Ulmar
   - Ulmer

@@ -5,7 +5,7 @@ summary: >-
   Young lay woman in the Diocese of Aqui Terme, Italy. Daughter of Ruggero Badano, a truck driver, and Maria Teresa
   Caviglia. A kind, happy and pious girl, she enjoyed tennis, swimming, hiking, singing, dancing and initially wanted to
   be a flight attendant. Member of the Focolare M
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Chiara-Badano.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Chiara-Badano.jpg
 searchAliases:
   - Luce Badano
 birthYear: 1971

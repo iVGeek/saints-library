@@ -5,7 +5,7 @@ summary: >-
   Converted to Christianity by Vincentian missionaries in 1844, Michael joined the Order himself. He was ordained in
   1851, and served in the Apostolic Vicariate of Abyssinia. Arrested for his faith with four companions whose names have
   been lost to us during the persecution of Negu
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Michael-Ghebre.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Michael-Ghebre.jpg
 searchAliases:
   - Ghébre Michael
   - Michele Ghébré

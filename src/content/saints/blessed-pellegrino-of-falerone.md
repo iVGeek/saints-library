@@ -5,7 +5,7 @@ summary: >-
   Son of Roger, the wealthy lord of Falerone, Italy. Studied philosophy and canon law in Bologna, Italy. He abandoned
   his university studies to become one of the first followers of Saint Francis of Assisi. Pilgrim to the Holy Lands.
   Considered himself one of the lowest of servants
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Pellegrino-of-Falerone.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Pellegrino-of-Falerone.jpg
 deathYear: 1233
 died: 1233 at the convent of San Severino March, Italy of natural causes
 deathPlace: Italynatural causes

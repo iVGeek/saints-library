@@ -5,7 +5,7 @@ summary: >-
   Convert. Priest in the apostolic vicariate of West Tonkin (in modern Vietnam). Spent a long period in prison for his
   faith while still a seminarian. Seminary administrator. Wrote a book that compiled a catechism with a collection of
   homilies. Martyr.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Phaolô-Lê-Bao-Tinh.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Phaolô-Lê-Bao-Tinh.jpg
 birthYear: 1793
 deathYear: 1857
 born: c.1793 in Trinh Hà, Thanh Hoá, Vietnam

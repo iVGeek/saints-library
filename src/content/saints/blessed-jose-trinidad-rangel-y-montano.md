@@ -5,7 +5,7 @@ summary: >-
   Parish priest in Silao, Mexico noted for his zeal as a pastor to his parishioners. During the Mexican Revolution, laws
   were enacted that required priests to register with the government; Jose did not register, and in 1927 went into
   hiding in León. In April 1927 Father Rangel went
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Jose-Trinidad-Rangel-y-Montano.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Jose-Trinidad-Rangel-y-Montano.jpg
 birthYear: 1887
 born: 4 June 1887 in Dolores Hidalgo, Guanajuato, Mexico
 birthPlace: Guanajuato, Mexico

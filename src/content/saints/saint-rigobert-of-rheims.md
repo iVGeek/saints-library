@@ -5,7 +5,7 @@ summary: >-
   Benedictine monk. Abbot of Orbais. Archbishop of Rheims, France. Persecuted and exiled by Charles Martel. While he was
   away, another was appointed bishop. He eventually returned to his see, but to prevent scandal and dissention among the
   faithful, he did not try to recover his bi
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Rigobert-of-Rheims.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Rigobert-of-Rheims.jpg
 searchAliases:
   - Gobert
   - Rigobertus

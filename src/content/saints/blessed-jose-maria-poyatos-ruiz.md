@@ -5,7 +5,7 @@ summary: >-
   Young layman in the diocese of Jaén, Spain; factory worker, member of Catholic Action and frequently spent time in
   Eucharistis adoration. Taken from his home and killed for being a Christian activist. Martyred in the Spanish Civil
   War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-José-María-Poyatos-Ruiz.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-José-María-Poyatos-Ruiz.jpg
 birthYear: 1914
 deathYear: 1936
 born: 20 October 1914 in Vilches, Jaén, Spain

@@ -5,7 +5,7 @@ summary: >-
   Daughter of the Duke of Clarence. Niece of King Edward IV and King Richard III of England. Married Sir Richard Pole in
   1491. Mother of five, one of whom became a cardinal. Widow. Unofficial ward of King Henry VIII, who made her Countess
   of Salisbury and governess to Princess Mary
-image: http://catholicsaints.info/wp-content/gallery/blessed-margaret-pole/blessed-margaret-pole.jpg
+image: https://catholicsaints.info/wp-content/gallery/blessed-margaret-pole/blessed-margaret-pole.jpg
 searchAliases:
   - Margaret Plantaganet
 birthYear: 1473

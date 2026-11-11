@@ -5,7 +5,7 @@ summary: >-
   Born wealthy. From her early youth Mary felt called to the religious life, but she entered into an arranged marriage
   at age 14. She convinced her husband to live chastely, and to turn their home into a leper hospice. Mary gave away as
   much of her fortune to the poor as she could,
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Mary-of-Oignies1.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Mary-of-Oignies1.jpg
 searchAliases:
   - Maria di Oignies
   - Marie d'Oignies

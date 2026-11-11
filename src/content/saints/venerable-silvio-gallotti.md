@@ -2,7 +2,7 @@
 name: Venerable Silvio Gallotti
 honorific: Venerable
 summary: Priest in the diocese of Novara, Italy.
-image: http://catholicsaints.info/wp-content/uploads/img-Venerable-Silvio-Gallotti.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Silvio-Gallotti.jpg
 birthYear: 1881
 deathYear: 1927
 born: 21 September 1881 in Cannobio, Verbania, Italy

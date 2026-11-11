@@ -2,7 +2,7 @@
 name: Blessed Enrique Juan Requena
 honorific: Blessed
 summary: Priest in the archdiocese of Valencia, Spain. Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Enrique-Juan-Requena.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Enrique-Juan-Requena.jpg
 birthYear: 1907
 deathYear: 1936
 born: 2 March 1907 in Aielo de Malferit, Valencia, Spain

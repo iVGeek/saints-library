@@ -2,7 +2,7 @@
 name: Saint Guntramnus
 honorific: Saint
 summary: ' He divorced Mercatrude; some time later she became seriously ill, and when her physician coul Grew up without the faith. Son of King Clotaire and Saint Clothildis. Brother of King Charibert and King Sigebert. King of Orleans and Burgundy in 561. Married to Mercatrude. Peacemaker.'
-image: http://catholicsaints.info/wp-content/uploads/Statue_de_saint_Gontran.jpg
+image: https://catholicsaints.info/wp-content/uploads/Statue_de_saint_Gontran.jpg
 searchAliases:
   - Contran
   - Gontram

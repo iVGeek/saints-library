@@ -5,7 +5,7 @@ summary: >-
   Jesuit priest. Dean and then rector of the Colegio de San José in Valencia, Spain. Rector in Sarriá, Spain in 1916,
   and then re-assigned to Valencia. Imprisoned several times and eventually martyred in the persecutions of the Spanish
   Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Alfredo-Simón-Colomina.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Alfredo-Simón-Colomina.jpg
 searchAliases:
   - Anselmo Simón-Colomina
 birthYear: 1877

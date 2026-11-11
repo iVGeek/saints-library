@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Priest in the archdiocese of Valencia, Spain. Superintendant of public schools in Valencia. Martyred in the Spanish
   Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Alfonso-Sebastiá-Viñals.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Alfonso-Sebastiá-Viñals.jpg
 birthYear: 1910
 deathYear: 1936
 born: 27 May 1910 in Valencia, Spain

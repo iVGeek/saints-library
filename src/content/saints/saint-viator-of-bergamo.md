@@ -2,7 +2,7 @@
 name: Saint Viator of Bergamo
 honorific: Saint
 summary: Disciple of the Apostles. Bishop of Bergamo, Italy.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Viator-of-Bergamo.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Viator-of-Bergamo.jpg
 searchAliases:
   - Viater
   - Viateur

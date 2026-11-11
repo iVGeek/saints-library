@@ -5,7 +5,7 @@ summary: >-
   Bishop of Arles, Gaul (modern France) in 546. Founded a monastery and convent in Arles, and brought many relics to
   them including a piece of the True Cross. The Rule he gave each of the houses in his diocese stressed devotion to the
   saints and martyrs. Assisted at the Council of
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Aurelian-of-Arles.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Aurelian-of-Arles.jpg
 searchAliases:
   - Aurelian the Sinner
   - Aureliano

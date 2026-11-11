@@ -2,7 +2,7 @@
 name: Saint Proculus the Soldier
 honorific: Saint
 summary: An officer in the Imperial Roman army. Martyred in the persecutions of Diocletian.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Proculus-the-Soldier.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Proculus-the-Soldier.jpg
 searchAliases:
   - Procolo
 deathYear: 304

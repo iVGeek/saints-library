@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Innkeeper. Gardener. Martyr. Used surplus crops to feed the poor. Even cared for the soldiers sent to execute him for
   being a Christian; he fed and sheltered them, and dug his own grave.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Phocas-the-Gardener.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Phocas-the-Gardener.jpg
 searchAliases:
   - Phocas of Hovenier
   - Phocas of Sinope

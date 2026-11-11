@@ -2,7 +2,7 @@
 name: Saint Severina
 honorific: Saint
 summary: Married to Saint Catervus, and mother of Saint Bassus. Martyr.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Catervus.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Catervus.jpg
 searchAliases:
   - Septimia Severina
 died: 4th century Tolentino, Italy

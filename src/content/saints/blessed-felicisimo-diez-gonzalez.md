@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Lifelong friend of Blessed Saturio Rey Robles. Dominican priest, professed in the Order on 27 November 1923, and
   ordained on 5 October 1930. Taught philosophy in Calanda, Spain Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Felicísimo-Díez-González.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Felicísimo-Díez-González.jpg
 birthYear: 1907
 deathYear: 1936
 born: 26 November 1907 in Devesa de Curueño, León, Spain

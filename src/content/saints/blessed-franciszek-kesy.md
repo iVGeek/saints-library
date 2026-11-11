@@ -5,7 +5,7 @@ summary: >-
   Young layman in the archdiocese of Poznan, Poland, the son of a carpenter who moved to Poznan for work. Franciszek
   planned to enter the Salesian novitiate, but the German invasion of Poland in 1939 intervened. He worked in a factory,
   spent his free time at the Salesian oratory, w
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Franciszek-Kesy.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Franciszek-Kesy.jpg
 birthYear: 1920
 deathYear: 1942
 born: 13 November 1920 in Berlin, Germany

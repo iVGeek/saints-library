@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Priest. Member of the Sons of the Holy Family. Imprisoned and executed in the anti-Christian persecutions of the
   Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Josep-Vila-Barri.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Josep-Vila-Barri.jpg
 birthYear: 1910
 deathYear: 1936
 born: 14 April 1910 in Camprodon, Girona, Spain

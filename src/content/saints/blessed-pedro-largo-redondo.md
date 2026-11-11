@@ -5,7 +5,7 @@ summary: >-
   Born to a peasant family. Joined the Passionists in 1922 in Corella, Spain. Never a great student, and known for a
   quick temper, his call to the priesthood was strong, and he was ordained in 1932 in Zaragoza, Spain. Assigned to serve
   as a military chaplain. Martyred in the Spanis
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Pedro-Largo-Redondo.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Pedro-Largo-Redondo.jpg
 searchAliases:
   - Pedro of the Heart of Jesus
 birthYear: 1907

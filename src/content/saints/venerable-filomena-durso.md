@@ -2,7 +2,7 @@
 name: Venerable Filomena d'Urso
 honorific: Venerable
 summary: Member of the Congregation of the Sisters of Jesus the Redeemer.
-image: http://catholicsaints.info/wp-content/uploads/img-Venerable-Filomena-dUrso.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Filomena-dUrso.jpg
 searchAliases:
   - Sister Ambrogina of Saint Charles
 birthYear: 1909

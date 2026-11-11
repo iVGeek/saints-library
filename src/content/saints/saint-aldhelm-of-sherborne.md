@@ -2,7 +2,7 @@
 name: Saint Aldhelm of Sherborne
 honorific: Saint
 summary: ' Abbot at Malmesbury c Son of Centa, he was a Saxon and related to the King of Wessex. Lived for a while as a hermit near Wiltshire, England. Monk at Malmesbury Abbey in Wiltshire. Spiritual student of Saint Maeldulph and Saint Adrian of Canterbury. Teacher and spiritual director.'
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Aldhelm-of-Sherborne1.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Aldhelm-of-Sherborne1.jpg
 searchAliases:
   - Adhelm
   - Aldelmus

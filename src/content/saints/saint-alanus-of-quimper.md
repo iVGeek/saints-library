@@ -2,7 +2,7 @@
 name: Saint Alanus of Quimper
 honorific: Saint
 summary: Fifth century bishop of Quimper in Brittany.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Alanus-of-Quimper.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Alanus-of-Quimper.jpg
 searchAliases:
   - Alain
   - Alan

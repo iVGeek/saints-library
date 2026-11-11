@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Canon of Saint Rufus at Valence, France. Companion of Saint Bruno at the foundation of the Grande Chartreuse. Founded
   the charterhouse at Meyria in 1116.
-image: http://catholicsaints.info/wp-content/uploads/img-Seven-Stars.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Seven-Stars.jpg
 searchAliases:
   - Stephen Bourg-en-Bresse
   - Etienne….

@@ -4,7 +4,7 @@ honorific: Venerable
 summary: >-
   Lifelong lay woman. Lace maker. Married to Saint Louis Martin on 12 July 1858. Mother of nine children; five of them,
   all girls, survived to adulthood and became nuns; the youngest was Saint Therese of Lisieux.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Marie-Azélie-Guérin-Martin.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Marie-Azélie-Guérin-Martin.jpg
 birthYear: 1831
 deathYear: 1877
 born: 23 December 1831 in Saint-Denis-sur-Sarthon, Orne, France

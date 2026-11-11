@@ -5,7 +5,7 @@ summary: >-
   May have been the son of Saint Selevan; may have been the cousin of Saint David of Wales. Itinerent hermit,
   evangelist, monk and abbot. Found of the monastery of Caer Gybi (Cybi's Fort) at Holyhead, Anglesey, Wales, located
   within the walls of an ancient Roman fort, and is still
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Cybi-of-Caenarvon.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Cybi-of-Caenarvon.jpg
 searchAliases:
   - Cuby
   - Gybi

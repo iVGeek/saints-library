@@ -2,7 +2,7 @@
 name: Venerable Maria Isabel da Santissima Trinidade
 honorific: Venerable
 summary: Nun. Founded the Conceptionist Sisters at the Service of the Poor.
-image: http://catholicsaints.info/wp-content/uploads/Maria-Isabel-da-Santissima-Trinidade.jpg
+image: https://catholicsaints.info/wp-content/uploads/Maria-Isabel-da-Santissima-Trinidade.jpg
 searchAliases:
   - Maria Isabel Of The Holy Trinity
   - Maria Isabel Picao Caldeira viuda de Carneiro

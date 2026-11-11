@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Sister of Saint Lazarus and Saint Mary of Bethany. Friend of Jesus, and hostess to him in her house. May have been
   part of an early mission to France.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Marthe-of-Bethany.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Marthe-of-Bethany.jpg
 searchAliases:
   - Martha of Tarascon
   - Wonder Worker of Southern Gaul

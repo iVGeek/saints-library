@@ -5,7 +5,7 @@ summary: >-
   Second of five children born to an upper class family in the Lombard region of modern Italy. A pious young man and
   good student, he had a mystical outlook on things, and was subject to bouts of depression. At age 18 Enrico felt a
   call to the priesthood, but his family, especially
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Enrico-Rebuschini.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Enrico-Rebuschini.jpg
 birthYear: 1860
 deathYear: 1938
 born: 28 April 1860 at Gravedona, Como, Italy

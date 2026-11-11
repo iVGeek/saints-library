@@ -5,7 +5,7 @@ summary: >-
   Nun, joining the School Sisters of Our Lady in 1901, and making her profession on 27 September 1910 in Breslau,
   Silesia. Elementary school in Karwina, Poland from 1906 to 1917, and then in Lwów, Poland (modern Lviv, Ukraine) from
   1917 to 1925. Head of a Congregation boarding scho
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Maria-Anna-Kratochwil.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Maria-Anna-Kratochwil.jpg
 searchAliases:
   - Maria Antonina
   - Sister Antonina

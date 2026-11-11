@@ -5,7 +5,7 @@ summary: >-
   Catherine's entire family died of plague when the girl was very young, and she was adopted by a woman in Milan, Italy.
   At age 14 she felt a call to devote herself to the service of God, and lived 15 years with a group of women hermits in
   the mountains near Varese, Italy. Noted fo
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Catherine-of-Pallanza.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Catherine-of-Pallanza.jpg
 searchAliases:
   - Caterina Morigi di Pallanza
   - Catherine Morigi

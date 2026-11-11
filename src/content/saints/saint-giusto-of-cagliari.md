@@ -2,7 +2,7 @@
 name: Saint Giusto of Cagliari
 honorific: Saint
 summary: Martyr.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Giusto-of-Cagliari.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Giusto-of-Cagliari.jpg
 searchAliases:
   - Iustus
 died: interred in the catacombs of San Saturnino in Calgiari, Italy

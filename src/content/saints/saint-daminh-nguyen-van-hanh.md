@@ -2,7 +2,7 @@
 name: Saint Ðaminh Nguyen Van Hanh
 honorific: Venerable
 summary: Dominican priest. Martyr.
-image: http://catholicsaints.info/wp-content/gallery/martyrs-of-vietnam/martyrs-of-vietnam-01.jpg
+image: https://catholicsaints.info/wp-content/gallery/martyrs-of-vietnam/martyrs-of-vietnam-01.jpg
 searchAliases:
   - Dominic
   - Domenico

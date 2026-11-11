@@ -5,7 +5,7 @@ summary: >-
   Studied at the preceptory of Andorra in 1882, then the seminary in Zaragoza, Spain. Ordained in the diocese of
   Zaragoza in early June 1891. Member of the Dominicans. Noted for his charity to his parishioners, and his ministery to
   sick priests. Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Matías-Manuel-Albert-Ginés.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Matías-Manuel-Albert-Ginés.jpg
 birthYear: 1867
 deathYear: 1936
 born: 3 October 1867 in Calanda, Teruel, Spain

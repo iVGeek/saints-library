@@ -5,7 +5,7 @@ summary: >-
   Married to Saint Gundebert of Gumber. When Gundebert retired to a monastery in Ireland, Bertha became Benedictine nun.
   Founder and abbess of the convent at Avenay in the diocese of Châlons-sur-Marne, France. When a drought hit the
   region, a vision of Saint Peter the Apostle led h
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Bertha-of-Avenay.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Bertha-of-Avenay.jpg
 searchAliases:
   - Bertha of Val d'Or
 deathYear: 685

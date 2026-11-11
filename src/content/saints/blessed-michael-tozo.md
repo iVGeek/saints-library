@@ -2,7 +2,7 @@
 name: Blessed Michaël Tozo
 honorific: Blessed
 summary: Jesuit priest. Martyr.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Giovanni-Battista-Zola.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Giovanni-Battista-Zola.jpg
 birthYear: 1588
 deathYear: 1626
 born: c.1588 in Chijiwa, Nagasaki, Japan

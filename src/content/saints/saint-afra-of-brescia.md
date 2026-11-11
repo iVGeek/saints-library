@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Second-century lay-woman, married to a nobleman in Brescia, Lombardy. Adult convert to Christianity, baptized by Saint
   Apollonius of Brescia. Martyred in the persecutions of emperor Adrian.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Afra-of-Brescia.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Afra-of-Brescia.jpg
 deathYear: 133
 died: 133 in Brescia, Italy
 deathPlace: Italy

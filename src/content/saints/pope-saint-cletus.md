@@ -5,7 +5,7 @@ summary: >-
   Convert, brought to the faith by Saint Peter the Apostle, who ordained him. Third pope. He ordained an undetermined
   number of priests during his reign, but almost nothing else is known about him. Martyred in the persecutions of
   Domitian. May have been the Cletus that Saint August
-image: http://catholicsaints.info/wp-content/uploads/M-Cletus-3.jpg
+image: https://catholicsaints.info/wp-content/uploads/M-Cletus-3.jpg
 searchAliases:
   - Anacletus
   - Anacletus I

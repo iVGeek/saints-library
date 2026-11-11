@@ -2,7 +2,7 @@
 name: Blessed Paul of Saint Clare
 honorific: Blessed
 summary: Franciscan Friars Minor (Alcantarines) priest. Martyr.
-image: http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Japan.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Japan.jpg
 searchAliases:
   - Peter Paul of Saint Claire
 deathYear: 1622

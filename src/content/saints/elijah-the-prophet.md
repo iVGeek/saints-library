@@ -5,7 +5,7 @@ summary: >-
   Old Testament prophet. He announced to Achad, King of Israel, who under the influence of his Tyrian wife Jezabel had
   erected a temple to Baal, that Jehovah had determined to avenge the apostasy of Israel by bringing a long drought on
   the land. During the drought which lasted thre
-image: http://catholicsaints.info/wp-content/uploads/img-Elijah-the-Prophet.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Elijah-the-Prophet.jpg
 searchAliases:
   - Elias the Prophet
 region: Syria

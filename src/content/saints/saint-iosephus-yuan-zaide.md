@@ -2,7 +2,7 @@
 name: Saint Iosephus Yuan Zaide
 honorific: Venerable
 summary: Priest in the apostolic vicariate of Sichuan. One of the Martyrs of China.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Iosephus-Yuan-Zaide.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Iosephus-Yuan-Zaide.jpg
 searchAliases:
   - Joseph Yuen
   - Joseph Uen

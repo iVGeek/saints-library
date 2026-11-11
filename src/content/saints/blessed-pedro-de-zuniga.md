@@ -2,7 +2,7 @@
 name: Blessed Pedro de Zúñiga
 honorific: Blessed
 summary: Augustinian priest. Martyr.
-image: http://catholicsaints.info/wp-content/uploads/img-Augustinian-Martyrs-of-Japan.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Augustinian-Martyrs-of-Japan.jpg
 birthYear: 1579
 deathYear: 1622
 born: c.1579 in Seville, Spain

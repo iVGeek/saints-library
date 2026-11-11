@@ -5,7 +5,7 @@ summary: >-
   Youngest of four children, Vicenta was a pious girl, known for her devotion to the Infant Jesus, for making little
   altars and asking other children to pray with her. She grew up in Mexicaltzingo, a neighborhood inhabited by poor and
   unskilled workers. Her parish priest, Father Ag
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Vicenta-Chavez-Orozco.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Vicenta-Chavez-Orozco.jpg
 searchAliases:
   - María Vicenta of Saint Dorothy
   - María Vicenta of Saint Dorothy Chávez Orozco

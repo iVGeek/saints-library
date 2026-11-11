@@ -73,7 +73,7 @@ export function liturgicalSeason(date = new Date()): LiturgicalSeason {
   const before = (m: number, d: number) => month < m || (month === m && day < d);
 
   // Approximate boundaries (Easter falls Mar 22–Apr 25).
-  if (today(12, 3) || before(12, 25)) return 'Advent';
+  if ((month === 11 && day >= 27) || (month === 12 && day < 25)) return 'Advent';
   if (today(12, 25) || (month === 1 && day <= 13)) return 'Christmas';
 
   const easter = approximateEaster(date.getFullYear());

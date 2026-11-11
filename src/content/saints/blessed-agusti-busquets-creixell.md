@@ -2,7 +2,7 @@
 name: Blessed Agustí Busquets Creixell
 honorific: Blessed
 summary: Member of the Benedictine Subiaco Congregation. Priest. Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Agustí-Busquets-Creixell.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Agustí-Busquets-Creixell.jpg
 searchAliases:
   - Father Ambrosi Maria
 birthYear: 1903

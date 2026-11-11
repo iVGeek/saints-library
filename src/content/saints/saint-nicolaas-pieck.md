@@ -5,7 +5,7 @@ summary: >-
   Son of John Pieck and Henriea Clavia, a pious Catholic family with a long history. Educated at Bois-le-Duc,
   Netherlands. Joined the Franciscan Friars Minor at Bois-le-Duc. Studied at Louvain, Belgium where he was ordained in
   1558. He evangelized throughout the Netherlands and Bel
-image: http://catholicsaints.info/wp-content/uploads/Martyrs_de_Gorkum.jpg
+image: https://catholicsaints.info/wp-content/uploads/Martyrs_de_Gorkum.jpg
 searchAliases:
   - Claes Pieck
   - Nicholas Pick

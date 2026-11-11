@@ -2,7 +2,7 @@
 name: Blessed Narciso Pascual y Pascual
 honorific: Blessed
 summary: Vincentian monk. Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Narciso-Pascual-y-Pascual.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Narciso-Pascual-y-Pascual.jpg
 birthYear: 1917
 deathYear: 1936
 born: 11 August 1917 in Sarreaus de Tioira, Orense, Spain

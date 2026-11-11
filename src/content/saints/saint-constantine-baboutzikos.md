@@ -5,7 +5,7 @@ summary: >-
   Brother-in-law of the Byzantine empress Theodora. Held the high-ranking title of magistros in the Byzantine imperial
   court. One of the 42 Martyrs of Amorium who were captured by invading Muslims, imprisoned for seven years, and then
   murdered when they refused to convert to Islam.
-image: http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Amorium.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Amorium.jpg
 deathYear: 845
 died: beheaded on 6 March 845 in Samarra (in modern Iraq) on the banks of the Euphrates river by Ethiopian slaves
 region: England

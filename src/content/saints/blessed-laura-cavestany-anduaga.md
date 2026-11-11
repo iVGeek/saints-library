@@ -2,7 +2,7 @@
 name: Blessed Laura Cavestany Anduaga
 honorific: Blessed
 summary: Member of the Visitation Nuns. Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Laura-Cavestany-Anduaga.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Laura-Cavestany-Anduaga.jpg
 searchAliases:
   - Sister Teresa María
 birthYear: 1888

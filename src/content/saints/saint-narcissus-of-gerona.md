@@ -5,7 +5,7 @@ summary: >-
   Born to he nobility. Priest, preacher and bishop of Gerona, Spain in the early 4th century. During the persecutions of
   Diocletian he fled to modern Augsburg, Germany with his deacon, Saint Felix of Gerona. There they befriended Saint
   Afra of Augsburg. Returning to Gerona, he and
-image: http://catholicsaints.info/wp-content/uploads/Narcissus-of-Gerona.jpg
+image: https://catholicsaints.info/wp-content/uploads/Narcissus-of-Gerona.jpg
 searchAliases:
   - Narcissus of Ausburg
   - Narcissus of Girona

@@ -2,7 +2,7 @@
 name: Blessed Joan Codinachs Tuneu
 honorific: Blessed
 summary: One of the Martyred Claretians of Barbastro killed in the persecutions of the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Joan-Codinachs-Tuneu.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Joan-Codinachs-Tuneu.jpg
 birthYear: 1914
 deathYear: 1936
 born: 14 February 1914 in Santa Eugènia de Berga, Barcelona, Spain

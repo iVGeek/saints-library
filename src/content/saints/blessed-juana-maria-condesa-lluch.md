@@ -5,7 +5,7 @@ summary: >-
   Born into a wealthy and pious family, she received a good secular and Christian education. Even as a child Juana was
   devoted to the Holy Eucharist and Our Lady, and felt a call to serve. As she grew she developed a deep prayer life,
   felt a call to religious life, and a need to he
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Juana-Maria-Condesa-Lluch.gif
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Juana-Maria-Condesa-Lluch.gif
 searchAliases:
   - Joanna Maria Condesa Lluch
 birthYear: 1862

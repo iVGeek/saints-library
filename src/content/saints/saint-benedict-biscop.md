@@ -5,7 +5,7 @@ summary: >-
   Anglo-Saxon nobility. Grew up around the court of King Oswy of Northumbria, and held court offices. Following a
   pilgrimage to Rome he renouced his wealth and position, and dedicated himself to prayer and scripture study. Monk at
   the monastery of Saint-Honorat near Cannes, France
-image: http://catholicsaints.info/wp-content/uploads/Benedict-Biscop.jpg
+image: https://catholicsaints.info/wp-content/uploads/Benedict-Biscop.jpg
 searchAliases:
   - Benet Biscop
   - Biscop Baducing

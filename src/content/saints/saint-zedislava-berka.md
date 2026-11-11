@@ -5,7 +5,7 @@ summary: >-
   Born to the Bohemian nobility. Married laywoman, and mother of four. Hers was not a happy marriage, and her largesse
   to the poor put her in frequent conflict with her husband. Dominican tertiary. Founded the Dominican priory of Saint
   Lawrence near her castle where she received Co
-image: http://catholicsaints.info/wp-content/uploads/Zedislava-Berka.jpg
+image: https://catholicsaints.info/wp-content/uploads/Zedislava-Berka.jpg
 searchAliases:
   - Zedislava Berkiana
   - Zedislava of Lemberk

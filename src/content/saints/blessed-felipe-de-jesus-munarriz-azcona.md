@@ -5,7 +5,7 @@ summary: >-
   Born to a pious family; he became a Claretian priest, as did two of his brothers. He joined the Claretians in 1886.
   Studied at Santo Domingo de la Calzada. Ordained in 1898. Novice master. Worked to reduce the spread of tuberculosis,
   which was spreadly wildly at the time. Superio
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Felipe-de-Jesús-Munárriz-Azcona.png
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Felipe-de-Jesús-Munárriz-Azcona.png
 birthYear: 1875
 deathYear: 1936
 born: 4 February 1875 in Allo, Navarra, Spain

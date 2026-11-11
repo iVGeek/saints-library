@@ -5,7 +5,7 @@ summary: >-
   Pious farm girl who fled her home to escape an arranged marriage. Worked as a servant in Lucca, Italy then became an
   itinerant miracle worker in the region. Eventually returned to her birthplace, to found and lead an Augustinian
   convent. Known for her dedication to her prayer lif
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Oringa-of-the-Cross.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Oringa-of-the-Cross.jpg
 searchAliases:
   - Christiana of the Cross
   - Christine of the Cross

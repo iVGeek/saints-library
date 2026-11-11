@@ -5,7 +5,7 @@ summary: >-
   Travelling from Ireland to the continent to become a missionary, Erkemboden's companions were murdered and he decided
   to stop at the monastery of Saint-Omer in France. He became a monk and then abbot there. Bishop of Thérouanne, France
   for 26 years.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Erkemboden-of-Thérouanne.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Erkemboden-of-Thérouanne.jpg
 searchAliases:
   - Arkembode
   - Erchembod

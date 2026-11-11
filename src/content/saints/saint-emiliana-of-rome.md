@@ -2,7 +2,7 @@
 name: Saint Emiliana of Rome
 honorific: Saint
 summary: A virgin-martyr. No other information has survived.
-image: http://catholicsaints.info/wp-content/uploads/img-Pictorial-Saints-Thrasilla-and-Emiliana-Virgins.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Pictorial-Saints-Thrasilla-and-Emiliana-Virgins.jpg
 died: martyred in Rome, Italy, date unknown
 deathPlace: Italy, date unknown
 region: Italy

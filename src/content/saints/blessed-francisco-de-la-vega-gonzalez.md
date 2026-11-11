@@ -2,7 +2,7 @@
 name: Blessed Francisco de la Vega González
 honorific: Blessed
 summary: Trappist monk. Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Martyred-Cistercians-of-the-Spanish-Civil-War.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Martyred-Cistercians-of-the-Spanish-Civil-War.jpg
 searchAliases:
   - Brother Ángel
 birthYear: 1868

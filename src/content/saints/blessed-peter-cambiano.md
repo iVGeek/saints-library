@@ -5,7 +5,7 @@ summary: >-
   Peter's father was a city councillor, his mother was from a noble family, and the boy was raised in a pious household.
   He received a good education, and was early drawn to religious life, with a personal devotion to Our Lady of the
   Rosary. Joined the Dominicans in Piedmont, Italy
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Peter-Cambiano.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Peter-Cambiano.jpg
 searchAliases:
   - Peter de Ruffi
   - Peter of Ruffia

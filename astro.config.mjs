@@ -8,6 +8,7 @@ import sitemap from '@astrojs/sitemap';
 export default defineConfig({
   site: 'https://saints-library.onrender.com',
   output: 'static',
+  compressHTML: true,
   trailingSlash: 'never',
   integrations: [sitemap()],
   vite: {

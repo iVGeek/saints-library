@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Bishop of Caesarea in Palestine. Opposed the Quartodecimans, a sect that advocated commemorating Easter on Passover,
   whether that was Sunday or not.
-image: http://catholicsaints.info/wp-content/uploads/theophilus-5-march.jpg
+image: https://catholicsaints.info/wp-content/uploads/theophilus-5-march.jpg
 deathYear: 195
 died: c.195 of natural causes
 region: Holy Land

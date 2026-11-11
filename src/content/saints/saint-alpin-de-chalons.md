@@ -6,7 +6,7 @@ summary: >-
   Lord of Baye, France. Studied at the abbey of Lérins, France. Worked with Saint Germanus of Auxerre and Saint Lupus of
   Troyes to fight the Pelagian heresy. Negotiated with Attila the Hun, and saved the city of Châlons, France from being
   sacked. Travelling evangelist, he founded s
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Alpin-de-Châlons.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Alpin-de-Châlons.jpg
 searchAliases:
   - Albino
   - Alpine

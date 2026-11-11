@@ -2,7 +2,7 @@
 name: Saint Clarus of Nantes
 honorific: Saint
 summary: Third century missionary to Armorica (in modern Brittany, France). Bishop of Nantes, France.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Clair-of-Nantes.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Clair-of-Nantes.jpg
 searchAliases:
   - Chiara
 region: France

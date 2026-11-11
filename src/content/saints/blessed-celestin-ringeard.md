@@ -5,7 +5,7 @@ summary: >-
   Célestin served as a nurse during the Algeria Independence War, caring for the injured on both sides of the conflict.
   Catechist who worked with the homeless, alcoholics, prostitutes and outcasts of Nantes, France. Diocesan priest.
   Célestin joined the Trappist monks in 1983, and m
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Célestin-Ringeard.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Célestin-Ringeard.jpg
 searchAliases:
   - one of the Monks of Tibhirine
 birthYear: 1933

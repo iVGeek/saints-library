@@ -2,7 +2,7 @@
 name: Saint Peregrinus of Rome
 honorific: Saint
 summary: Martyred in the persecutions of Emperor Commodus.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Peregrinus-of-Rome.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Peregrinus-of-Rome.jpg
 searchAliases:
   - Pellegrino
 deathYear: 192

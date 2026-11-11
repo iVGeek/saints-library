@@ -2,7 +2,7 @@
 name: Blessed Nicolás María Alberca Torres
 honorific: Blessed
 summary: Franciscan priest. Ordered by Druz Muslims to convert to Islam; he refused. One of the Martyrs of Damascus.
-image: http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Damascus.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Damascus.jpg
 birthYear: 1830
 deathYear: 1860
 born: 10 September 1830 in Aguilar de la Frontera, Córdoba, Spain

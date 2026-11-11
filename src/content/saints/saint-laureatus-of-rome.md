@@ -2,7 +2,7 @@
 name: Saint Laureatus of Rome
 honorific: Saint
 summary: Martyred in the persecutions of Valerian.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Laureato.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Laureato.jpg
 deathYear: 258
 died: c.258 in Rome, Italy
 deathPlace: Italy

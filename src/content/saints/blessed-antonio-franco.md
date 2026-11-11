@@ -5,7 +5,7 @@ summary: >-
   Born to the nobility; his family were French expatriates. Earned a doctorate in civil and canon law at age 17. Studied
   in Rome, Italy. Courtier to King Philip III in Madrid, Spain. Ordained a priest in 1610. Royal chaplain to Philip III
   for ten years. Bishop of the territorial pr
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Antonio-Franco.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Antonio-Franco.jpg
 birthYear: 1585
 deathYear: 1626
 born: 26 September 1585 in Naples, Italy

@@ -2,7 +2,7 @@
 name: Blessed Lluís Janer Riba
 honorific: Blessed
 summary: Priest of the archdiocese of Tarragona, Spain. Martyed in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Lluís-Janer-Riba.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Lluís-Janer-Riba.jpg
 birthYear: 1880
 deathYear: 1936
 born: 4 March 1880 in Pontils, Tarragona, Spain

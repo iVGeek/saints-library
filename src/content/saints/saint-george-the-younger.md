@@ -6,7 +6,7 @@ summary: >-
   Born wealthy, he used his fortune help the sick and poor until it was gone, then entered a monastery. Bishop of
   Mitylene, Greece; known as the Younger because there had been two previous bishops in Mitylene named George. Noted for
   his humility and fasting, for his gifts of healin
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-George-the-Younger.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-George-the-Younger.jpg
 searchAliases:
   - George of Militene
 birthYear: 776

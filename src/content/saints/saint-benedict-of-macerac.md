@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Monk. Abbot at Petras. Hermit at Macerac, diocese of Nantes, France. His holiness and wisdom attacted so many
   spiritual students that he founded a Columban monastery for them.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Benedict-of-Macerac.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Benedict-of-Macerac.jpg
 searchAliases:
   - Benedict of Massérac
   - Benito…

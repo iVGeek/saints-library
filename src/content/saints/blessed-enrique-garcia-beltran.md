@@ -5,7 +5,7 @@ summary: >-
   The son of Vicente García and Donna Concepción Beltrán, Enrique was baptized on the day of his birth. As he grew, he
   was known as a pious child, spending all his free time in church. He entered the Seraphic Seminary of Massamagrell,
   Spain at age 14. Joined the Franciscan Capuchin
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Enrique-García-Beltrán.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Enrique-García-Beltrán.jpg
 searchAliases:
   - Brother Enrique of Almazora
 birthYear: 1913

@@ -5,7 +5,7 @@ summary: >-
   Bishop of Samosata, Syria. Fought Arianism, and defended Orthodox Christianity in the 4th century. Active in the Synod
   of Antioch in 361, a site of great debate over Arianism. Emperor Constantius was displeased, and demanded that
   Eusebius turn over records from the synod, threate
-image: http://catholicsaints.info/wp-content/uploads/img-Eusebius-of-Samosata.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Eusebius-of-Samosata.jpg
 searchAliases:
   - Eusebio
 deathYear: 379

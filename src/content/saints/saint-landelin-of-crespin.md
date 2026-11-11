@@ -5,7 +5,7 @@ summary: >-
   Born to the nobility, Landelinus lived for a time as a highway bandit, but repented and became a Benedictine monk.
   Priest. Founded monasteries in France and Belgium including Lobbes, Beligum in 654; Aulne Abbey, Belgium in 656;
   Wallers, France in 657; Crespin, France in 670. Work
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Landelin-of-Crespin.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Landelin-of-Crespin.jpg
 searchAliases:
   - Landelinus
   - Lando

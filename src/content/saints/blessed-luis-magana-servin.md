@@ -5,7 +5,7 @@ summary: >-
   Lifelong layman in the archdiocese of Guadalajara. Active member of the Catholic Association of Mexican Youth. Member
   of the Archconfraternity of the Night Adoration of the Blessed Sacrament and the Our Lady of Guadalupe Association of
   tradesmen in his parish. He grew up helping
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Luis-Magaña-Servín.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Luis-Magaña-Servín.jpg
 birthYear: 1902
 deathYear: 1928
 born: 24 August 1902 in Arandas, Jalisco, Mexico

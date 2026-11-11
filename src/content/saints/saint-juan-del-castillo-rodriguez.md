@@ -5,7 +5,7 @@ summary: >-
   Born to the Spanish nobility, the son of Alonso del Castillo and María Rodríguez, Juan was baptized at the age of
   seven days. The boy was well educated, and was studying law at the University of Alcalá de Henares when he gave in to
   a call to religious life, and joined the Jesuits
-image: http://catholicsaints.info/wp-content/uploads/img-Jesuit-Martyrs-of-Paraguay.png
+image: https://catholicsaints.info/wp-content/uploads/img-Jesuit-Martyrs-of-Paraguay.png
 birthYear: 1595
 deathYear: 1628
 born: 14 September 1595 in Belmonte, Cuenca, Spain

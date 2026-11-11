@@ -5,7 +5,7 @@ summary: >-
   Born to the nobility. Studied under Saint Genesius of Clermont. Priest. Bishop of Clermont, France from 666 to 676.
   Founded monasteries, hospitals, and churches. Worked with Saint Reol of Rheims, Saint Agilbert of Paris, Saint
   Amarinus of Clermont, and Saint Ouen of Rouen. Killed
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Praejectus-of-Clermont.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Praejectus-of-Clermont.jpg
 searchAliases:
   - Preietto
   - Preils

@@ -2,7 +2,7 @@
 name: Blessed Cándido Castán San José
 honorific: Blessed
 summary: Married layman. Martyr.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Cándido-Castán-San-José.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Cándido-Castán-San-José.jpg
 birthYear: 1894
 born: 5 August 1894 in Benifaió, Valencia, Spain
 birthPlace: Valencia, Spain

@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Cistercian nun, entering the novitiate in Avignon, France in 1772, and making her profession on 24 October 1773.
   Martyred in the French Revolution.
-image: http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Orange.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Orange.jpg
 searchAliases:
   - Sister Madeleine of the Blessed Sacrament
 birthYear: 1754

@@ -5,7 +5,7 @@ summary: >-
   Saint John Joseph of the Cross and Saint Francis de Geronimo both predicted Mary France's sanctity even before she was
   born. Daughter of Francesco Gallo, a greedy and angry man, and Barbara Basinsin, a pious and patient woman who put up
   with her husband’s abuse of herself, and hi
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Mary-Frances-of-the-Five-Wounds-of-Jesus.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Mary-Frances-of-the-Five-Wounds-of-Jesus.jpg
 searchAliases:
   - Anna Maria Gallo
 birthYear: 1715

@@ -2,7 +2,7 @@
 name: Blessed Sante of Cori
 honorific: Blessed
 summary: Joined the Augustinians in Cori, Italy. Prior of his house. Priest. Noted preacher, always centered on Scripture.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Sante-of-Cori.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Sante-of-Cori.jpg
 deathYear: 1392
 born: early 14th-century in Cori, Lazio, Italy
 died: 1392 of natural causes

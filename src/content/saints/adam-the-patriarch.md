@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   First human being. Lived in the Garden of Eden until expelled by God. Married to Eve. Father of Cain, Abel, Seth and
   other children. Old Testament Patriarch.
-image: http://catholicsaints.info/wp-content/uploads/img-Adam.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Adam.jpg
 region: England
 feastDay:
   month: 12

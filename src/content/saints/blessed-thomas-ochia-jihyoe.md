@@ -5,7 +5,7 @@ summary: >-
   Born to a Christian family, his parents were both catechists, and both died as martyrs. Thomas attended a Jesuit
   school in Arima, Japan, and when he felt a call to religious life, he continued his studies in Macao. In 1622 he went
   to Manila, Philippines to study, and there he joi
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Thomas-Ochia-Jihyoe.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Thomas-Ochia-Jihyoe.jpg
 searchAliases:
   - Thomas Jihyoe di Sant'Agostino
   - Thomas of Saint Augustine

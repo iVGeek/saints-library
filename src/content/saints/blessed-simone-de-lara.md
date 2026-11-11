@@ -5,7 +5,7 @@ summary: >-
   Mercedarian friar at the convent of Seville, Spain. With Blessed Pedro of Santa Maria, he was sent to north Africa
   where he ransomed many Christians who were enslaved by Muslims. While en route home to Spain, the friars were captured
   by Moorish pirates, and when they refused to r
-image: http://catholicsaints.info/wp-content/uploads/img-Beati-Pedro-of-Santa-Maria-and-Simone-de-Lara.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Beati-Pedro-of-Santa-Maria-and-Simone-de-Lara.jpg
 deathYear: 1361
 born: Andalusia, Spain
 died: drowned in 1361

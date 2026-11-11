@@ -5,7 +5,7 @@ summary: >-
   Entered the novitiate of the Friars Minor Conventual at the Franciscan convent at Granollers, Spain as a teenager in
   1929. Studied at the seminary in Osimo, Italy where he was ordained in 1934. His short career as a parish priest in
   Granollers was noted for his preaching and devo
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Modesto-Vegas-y-Vegas.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Modesto-Vegas-y-Vegas.jpg
 birthYear: 1912
 deathYear: 1936
 born: 24 February 1912 in La Serna, Palencia, diocese of Leon, Spain

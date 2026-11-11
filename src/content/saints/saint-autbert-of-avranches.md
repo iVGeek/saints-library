@@ -5,7 +5,7 @@ title: Bishop
 summary: >-
   Bishop of Avranches, France. Founded the monastery of Mont-St-Michel of the coast of Normandy, France after receiving
   a vision of Michael the Archangel.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Autbert-of-Avranches.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Autbert-of-Avranches.jpg
 searchAliases:
   - Aubert
   - Auberto

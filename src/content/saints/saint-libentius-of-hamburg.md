@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Benedictine monk. Exiled to Hamburg, Germany with Pope Benedict V. Developed a ministery to the poor and sick of
   Bremen, Germany. Chamberlain to Archbishop Adaldago of Hamburg. Archbishop of Hamburg in 988.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Libentius-of-Hamburg.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Libentius-of-Hamburg.jpg
 searchAliases:
   - Libentius of Bremen
   - Liäwizo of…

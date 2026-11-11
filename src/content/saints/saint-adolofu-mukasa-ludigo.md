@@ -2,7 +2,7 @@
 name: Saint Adolofu Mukasa Ludigo
 honorific: Venerable
 summary: Herdsman. Convert. One of the Martyrs of Uganda who died in the Mwangan persecutions.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Adolofu-Mukasa-Ludigo.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Adolofu-Mukasa-Ludigo.jpg
 searchAliases:
   - Adolphus Mukasa Ludigo
   - Adolphus Ludigo-Mkasa

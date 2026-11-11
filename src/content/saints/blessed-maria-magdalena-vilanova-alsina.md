@@ -5,7 +5,7 @@ summary: >-
   Baptized at the age of two days, Confirmed when she was three years old. She joined the Capuchin Institute of the
   Mother of the Divine Shepherd in 1908, making her profession at the Noviciado House of Sarriá, Barcelona, Spain in
   1909. She was still working at the Community School
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Maria-Magdalena-Vilanova-Alsina.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Maria-Magdalena-Vilanova-Alsina.jpg
 searchAliases:
   - Sister Patrocini
 birthYear: 1877

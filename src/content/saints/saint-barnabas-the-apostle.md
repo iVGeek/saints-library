@@ -1,7 +1,7 @@
 ---
 name: Saint Barnabas the Apostle
 honorific: Saint
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Barnabas-the-Apostle1.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Barnabas-the-Apostle1.jpg
 searchAliases:
   - Apostle of Antioch
   - Apostle of Cyprus

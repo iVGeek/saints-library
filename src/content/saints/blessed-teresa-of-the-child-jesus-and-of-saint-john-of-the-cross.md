@@ -5,7 +5,7 @@ summary: >-
   Second of eight children born to Juan and Eulalia. As a child, she would often visit her uncle Florentino, a priest
   who was later martyred in the Spanish Civil War At age nine she made personal vows of chastity and devotion to the
   Blessed Virgin Mary, and in 1918 she moved to an
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Maria-Angeles-of-Saint-Joseph.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Maria-Angeles-of-Saint-Joseph.jpg
 searchAliases:
   - Eusebia García y García
 birthYear: 1909

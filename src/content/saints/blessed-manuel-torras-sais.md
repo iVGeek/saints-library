@@ -2,7 +2,7 @@
 name: Blessed Manuel Torras Sais
 honorific: Blessed
 summary: One of the Martyred Claretians of Barbastro killed in the persecutions of the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Manuel-Torras-Sais.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Manuel-Torras-Sais.jpg
 birthYear: 1915
 deathYear: 1936
 born: 12 February 1915 in San Martí Vell, Girona, Spain

@@ -5,7 +5,7 @@ summary: >-
   Raised at the court of Charlemagne, and became his friend and confidante. Studied under Alcuin. Nicknamed “Homer”
   because of his Latin poetry. Married to Charlemagne's daughter Bertha. With her permission he turned to religious life
   when prayers for a successful resistance to a D
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Angilbert-of-Centula.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Angilbert-of-Centula.jpg
 searchAliases:
   - Angilbert of Saint-Riquier
   - Angilberto…

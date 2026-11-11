@@ -5,7 +5,7 @@ summary: >-
   Praemonstratensian canon of the cathedral of Ratzeburg (modern Landkreis Herzogtum Lauenburg), Schleswig-Holstein,
   Germany. Priest. Noted preacher. Bishop of Ratzeburg in 1236. Imprisoned, severely beaten and exiled by Duke Albert
   Urso of Lauenburg, Saxony for defending the cathe
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Ludolf-of-Ratzeburg.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Ludolf-of-Ratzeburg.jpg
 searchAliases:
   - Ludolfo
   - Ludolph

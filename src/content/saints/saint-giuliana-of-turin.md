@@ -2,7 +2,7 @@
 name: Saint Giuliana of Turin
 honorific: Saint
 summary: Lay woman who gave Christian burial to the Martyrs of Turin in 297.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Giuliana-of-Turin.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Giuliana-of-Turin.jpg
 searchAliases:
   - Giuliana of Ivrea
   - Juliana…

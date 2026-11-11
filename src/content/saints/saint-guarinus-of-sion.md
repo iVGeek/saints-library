@@ -5,7 +5,7 @@ summary: >-
   Born to the nobility. Cistercian Benedictine monk at the monastery of Molesmes in Laignes, Côte-d'Or, Burgundy,
   France. Spiritual student of Saint Robert of Molesmes. Helped found the monastery of Aulps in the Savoy region,
   diocese of Geneva, Switzerland, and was chosen its secon
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Guerrino-di-Sion.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Guerrino-di-Sion.jpg
 searchAliases:
   - Guarinus of Molesmes
   - Guarinus of Sitten

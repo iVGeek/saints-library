@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Joined the Claretians in 1915. Studied in Barbastro and Cervera, Spain. Priest, ordained in July 1928. Noted teacher
   and preacher in Calatayud, Aranda de Duero and Barbastro. Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Sebastián-Calvo-Martínez.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Sebastián-Calvo-Martínez.jpg
 birthYear: 1903
 deathYear: 1936
 born: 20 January 1903 in Gumiel de Izán, Burgos, Spain

@@ -5,7 +5,7 @@ summary: >-
   Third son of Hughes de Laval, an aristocrat soldier, and Michelle de P&eacute;ricard. His was an old, distinguished
   and religious family, and Francis early felt a call to the priesthood. Educated by Jesuits at La Fleche from ages
   eight to fourteen. His father died when the boy wa
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Francis-de-Montmorency-Laval1.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Francis-de-Montmorency-Laval1.jpg
 searchAliases:
   - Fran&ccedil;ois de Montmorency Laval
 birthYear: 1623

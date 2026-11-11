@@ -5,7 +5,7 @@ summary: >-
   Born to a peasant family in the Austro-Hungarian Empire. Seminarian at Klagenfurt, Austria. Ordained on 8 September
   1824. Parish priest for five years. Spiritual director of the Klagenfurt seminary. Taught the Slovene language to
   seminarians; because the rulers of the empire spok
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Anton-Martin-Slomsek.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Anton-Martin-Slomsek.jpg
 searchAliases:
   - Anton Martin Slomshek
 birthYear: 1800

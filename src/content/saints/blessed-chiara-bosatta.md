@@ -5,7 +5,7 @@ summary: >-
   Daughter of Alexander Bosatta and Rosa Mazzocchi. Her father was a silk manufacturer, and died when the girl was still
   young. She studied with the Daughters of Charity at age 13. Began a novitiate in the Canossians but felt that their
   charism was not what she was called to do. Sh
-image: http://catholicsaints.info/wp-content/uploads/Sister-Chiara.jpg
+image: https://catholicsaints.info/wp-content/uploads/Sister-Chiara.jpg
 searchAliases:
   - Clare
   - Dina

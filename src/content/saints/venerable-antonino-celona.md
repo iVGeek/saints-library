@@ -5,7 +5,7 @@ summary: >-
   Seminarian in Stretto section of Messina, Italy. Ordained in the archdiocese of Messina on 21 December 1895. Studied
   theology in Rome, Italy. Secretary to the bishop of Oppido Mamertina, Italy, and spiritual leader of the diocesan
   seminary. Worked with Saint Hannibal Maria di Fra
-image: http://catholicsaints.info/wp-content/uploads/img-Venerable-Antonino-Celona.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Antonino-Celona.jpg
 birthYear: 1873
 deathYear: 1952
 born: 13 April 1873 in Ganzirri, Messina, Italy

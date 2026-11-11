@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Adult convert, brought to Christianity by witnessing the faith of Blessed Thomas Vives during his martyrdom.
   Mercedarian friar.
-image: http://catholicsaints.info/wp-content/uploads/img-Saints-James-and-Paul-of-Africa.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saints-James-and-Paul-of-Africa.jpg
 born: north Africa
 region: Italy
 feastDay:

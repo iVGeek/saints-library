@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Born to a wealthy and socially prominent family, the son of a lawyer. Studied at the University of Padua. Physician.
   Franciscan friar. Franciscan Provincial for the Marches on five separate occasions.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Donatus-of-Urbino.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Donatus-of-Urbino.jpg
 searchAliases:
   - Donato
 deathYear: 1504

@@ -5,7 +5,7 @@ summary: >-
   Youngest of eight children. Educated by the Piarists, and studied engineering in Valencia, Spain. Married to Isabel
   Rodes Reig, the main witness to his life and martyrdom, and who died in 1993. Spread a Christian outlook and morality
   among his peers, and known for charity to the
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Vicente-Vilar-David.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Vicente-Vilar-David.jpg
 birthYear: 1889
 deathYear: 1937
 born: 28 June 1889 at Manises, Valencia, Spain

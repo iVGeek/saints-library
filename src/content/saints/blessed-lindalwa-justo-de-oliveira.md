@@ -5,7 +5,7 @@ summary: >-
   Born to a large family. Nun. Member of the Daughters of Charity of Saint Vincent de Paul in 1986. Began working at a
   homeless center in El Salvador on 29 January 1991. Murdered by a man who became obsessed with her and angered that she
   would not give up her religious life for him
-image: http://catholicsaints.info/wp-content/uploads/Lindalva-Justo-de-Oliveira.jpg
+image: https://catholicsaints.info/wp-content/uploads/Lindalva-Justo-de-Oliveira.jpg
 searchAliases:
   - Lindalwa
 birthYear: 1953

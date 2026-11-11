@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Priest in the Diocese of Madrid, Spain. Member of the Order of Saint Jerome, restorer. Martyred in the Spanish Civil
   War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Manuel-Sanz-Domínguez.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Manuel-Sanz-Domínguez.jpg
 searchAliases:
   - Manuel of the Holy Family
 birthYear: 1887

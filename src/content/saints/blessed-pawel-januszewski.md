@@ -5,7 +5,7 @@ summary: >-
   Son of Martin and Marianne Januszewski. Pawel studied at colleges in Greblin, Suchary and Krakow in Poland. Joined the
   Carmelites of the Ancient Observance in 1927 at age 20, taking the name Hilary, and beginning his novitiate in Lviv
   (in modern Ukraine). He studied philosophy in
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Pawel-Januszewski.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Pawel-Januszewski.jpg
 searchAliases:
   - Father Hilary Januszewski
 birthYear: 1907

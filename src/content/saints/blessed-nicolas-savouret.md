@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Priest. Member of the Franciscan Conventuals. Imprisoned on a ship in the harbor of Rochefort, France and left to die
   during the anti-Catholic persecutions of the French Revolution. One of the Martyrs of the Hulks of Rochefort.
-image: http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-the-Hulks-of-Rochefort.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-the-Hulks-of-Rochefort.jpg
 birthYear: 1773
 deathYear: 1794
 born: 27 February 1773 in Jouvelle, Haute-Saône, France

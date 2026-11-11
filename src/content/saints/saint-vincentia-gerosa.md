@@ -5,7 +5,7 @@ summary: >-
   Orphaned young. Spent 40 years as a homemaker and lay woman devoted to care for the poor. Around 1832 she and Saint
   Bartholomea Capitanio formed the Sisters of Charity of Lovere, a congregation for the welfare and support of sick poor
   people, and for the education of poor childre
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Vincentia-Gerosa.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Vincentia-Gerosa.jpg
 searchAliases:
   - Catherine Gerosa
   - Vincenza Gerosa

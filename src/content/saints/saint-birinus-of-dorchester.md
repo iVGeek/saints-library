@@ -5,7 +5,7 @@ summary: >-
   Ordained in Rome, Italy. Bishop in Genoa, Italy. Sent by Pope Honorius I as a missionary to Britain in 634. Preached
   with the pagan West Saxons where he had great success, converting King Cynegils and many of his subjects. Bishop of
   Dorchester, England. Founded many churches in t
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Birinus-of-Dorchester.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Birinus-of-Dorchester.jpg
 searchAliases:
   - Birinus of Genoa
   - Apostle of Wessex

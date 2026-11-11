@@ -5,7 +5,7 @@ summary: >-
   Greek Catholic. Redemptorist, making his vows on 28 August 1926. Studied philosophy and theology in Belgium. Ordained
   in Ukraine on 4 September 1937. Worked in Volyn. Arrested for his faith on 20 December 1940, the Solemnity of the
   Immaculate Conception, during Mass while giving
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Zenon-Kovalyk.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Zenon-Kovalyk.jpg
 searchAliases:
   - Zenone
   - Zynovii

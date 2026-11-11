@@ -4,7 +4,7 @@ honorific: Venerable
 summary: >-
   The daughter of Angelo Camera and Caterina Merialdi, a poor farming family. She founded the Congregation of the
   Daughters of Our Lady of Pieta.
-image: http://catholicsaints.info/wp-content/uploads/img-Venerable-Maria-Teresa-Camera.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Maria-Teresa-Camera.jpg
 birthYear: 1818
 deathYear: 1894
 born: 8 October 1818 in Ovada, Alessandria, Italy

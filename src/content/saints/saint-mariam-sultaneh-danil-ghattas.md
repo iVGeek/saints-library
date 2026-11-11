@@ -5,7 +5,7 @@ summary: >-
   Joined the Congregation of Saint Joseph of the Apparition at age 14. Nun. Following a vision of the Blessed Virgin
   Mary she received in Bethlehem, she co-founded the Rosary Sisters (Sisters of the Holy Rosary of Jerusalem of the
   Latins; Congregation of the Sisters of the Most Hol
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Mariam-Sultaneh-Danil-Ghattas1.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Mariam-Sultaneh-Danil-Ghattas1.jpg
 searchAliases:
   - Marie-Alphonsine Danil Ghattas
   - Maryam Sultanah Danil Ghattas

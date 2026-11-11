@@ -2,7 +2,7 @@
 name: Saint Anempodistus
 honorific: Saint
 summary: Priest martyred in the persecutions of King Sapor II. One of the Martyrs of Isfahan.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Anempodistos.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Anempodistos.jpg
 deathYear: 350
 born: Persian
 died: burned to death c.350 in Isfahan, Persia

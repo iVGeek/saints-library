@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Brought to Rome, Italy with Saint Ignatius of Antioch and Saint Rufus during the persecutions of Trajan. Marytred with
   Saint Rufus.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Zosimus-of-Rome.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Zosimus-of-Rome.jpg
 deathYear: 107
 born: Greek
 died: mangled by wild animals c.107 in the arena of Rome, Italy

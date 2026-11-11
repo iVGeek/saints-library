@@ -2,7 +2,7 @@
 name: Blessed Jan Andrzejuk
 honorific: Blessed
 summary: Married layman in the diocese of Podlasie, Poland. Martyr.
-image: http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Podlasie.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Podlasie.jpg
 birthYear: 1848
 deathYear: 1874
 born: 8 April 1848 in Derlo, Podlasie, Poland

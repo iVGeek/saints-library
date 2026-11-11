@@ -5,7 +5,7 @@ summary: >-
   Born to a deeply religious family, Enrique attended a Catholic high school in Gandia, Spain, began studying
   architecture in Madrid, Spain, but finally gave in to a call to the priesthood. Ordained in the archdiocese of
   Valencia, Spain in 1933. Parish priest in Barig where he revi
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Enrique-Morant-Pellicer.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Enrique-Morant-Pellicer.jpg
 birthYear: 1908
 deathYear: 1936
 born: 13 October 1908 in Bellreguard, Valencia, Spain

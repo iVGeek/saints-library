@@ -5,7 +5,7 @@ summary: >-
   Raised in a Christian family, Kibe early felt called to the priesthood, and began studying at seminary at age 13. He
   began studying Jesuit spirituality in 1606. When the Japanese government ordered the deportation of Christians in
   1614, Kibe was exiled to the Portuguese colony in
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Petro-Kasui-Kibe.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Petro-Kasui-Kibe.jpg
 searchAliases:
   - the Japanese Marco Polo
 birthYear: 1587

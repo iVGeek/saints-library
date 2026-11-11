@@ -5,7 +5,7 @@ summary: >-
   The eldest of six children born to Benigno María Hernández Manzaneda and Josefa Antonia Cisneros Mansilla; he was
   baptized on 30 January 1865 and confirmed on 6 December 1867. Beginning at age 18, he studied medicine at the
   University of Caracas, Venezuela, graduating on 29 June
-image: http://catholicsaints.info/wp-content/uploads/img-Venerable-José-Gregorio-Hernandez-Cisneros.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Venerable-José-Gregorio-Hernandez-Cisneros.jpg
 birthYear: 1864
 deathYear: 1919
 born: 26 October 1864 in Isnotú, Trujillo, Venezuela

@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Convert, baptized by the Jesuits in 1584. Franciscan tertiary. Catechist. In charge of Saint Joseph's hospital in
   Kyoto, Japan. One of the Martyrs of Nagasaki. He preached from the cross in his last minutes.
-image: http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Nagasaki.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Nagasaki.jpg
 birthYear: 1563
 deathYear: 1597
 born: 1563 at Owari, Japan

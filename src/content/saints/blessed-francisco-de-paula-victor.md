@@ -5,7 +5,7 @@ summary: >-
   Born a slave and trained as a tailor. He early felt a call to the priesthood, but, being a slave, had to have special
   dispensation to enter seminary, and was shunned by fellow seminarians and the parishioners of his first assignment in
   the diocese of Campanha, Brazil; his parishi
-image: http://catholicsaints.info/wp-content/uploads/img-Padre-Victor.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Padre-Victor.jpg
 birthYear: 1827
 deathYear: 1905
 born: 12 April 1827 in Campanha, Minas Gerais, Brazil

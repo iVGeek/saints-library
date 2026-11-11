@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Monk at Luxeuil Abbey. Founded the monastery of Leuconay, France. The town of Saint-Valery-sur-Somme was named for
   him.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Valery-of-Leucone.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Valery-of-Leucone.jpg
 searchAliases:
   - Valery of Leuconay
   - Gualaric…

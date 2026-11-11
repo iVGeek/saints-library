@@ -5,7 +5,7 @@ summary: >-
   Son of Saint Michael Kozaki. Altar boy. Helped his father with his carpentry for the Franciscan missionaries, and then
   stayed at the convent they had built. His farewell letter to his mother, written from prison, has survived. One of the
   Martyrs of Nagasaki.
-image: http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Nagasaki.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Nagasaki.jpg
 searchAliases:
   - Thomas Cozaki
   - Thomas Kasaki

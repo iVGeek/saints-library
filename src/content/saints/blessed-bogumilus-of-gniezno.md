@@ -5,7 +5,7 @@ summary: >-
   Born to the Polish nobility, twin brother of Boguphalus. Studied in Paris, France. Priest. Served Holy Trinity parish
   in Dobrow, Poland, a church that he built himself. Chancellor of Gniezno, Poland. Had a great dedication to the
   Blessed Virgin Mary, and loved solitude. Archbisho
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Bogumilus-of-Gniezno.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Bogumilus-of-Gniezno.jpg
 searchAliases:
   - Bogimilus
   - Bogumil Piotr

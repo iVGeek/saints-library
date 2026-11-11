@@ -2,7 +2,7 @@
 name: Blessed Josep Masquef Ferré
 honorific: Blessed
 summary: Priest in the archdiocese of Tarragona, Spain. Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Josep-Masquef-Ferré.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Josep-Masquef-Ferré.jpg
 birthYear: 1872
 deathYear: 1936
 born: 11 May 1872 in Tarragona, Spain

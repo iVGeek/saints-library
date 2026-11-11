@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Married to Saint Flavian; mother of Saint Bibiana and Saint Demetria. Martyred in the persecutions of Julian the
   Apostate. Her story is included in the Acts of Bibiana.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Dafrosa-of-Acquapendente.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Dafrosa-of-Acquapendente.jpg
 searchAliases:
   - Dafrosa of Rome
   - Aifrosa…

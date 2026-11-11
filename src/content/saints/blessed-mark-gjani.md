@@ -5,7 +5,7 @@ summary: >-
   Studied at the Shkodra Pontifical Seminary, and then theology in Bobion, Italy. Ordained on 21 March 1942 as a priest
   of the archdiocese of Shkodrë-Pult, Albania. Imprisoned and tortured in the anti-Christian persecutions of the
   Albanian Communist government. His torturers repeat
-image: http://catholicsaints.info/wp-content/uploads/img-Dom-Mark-Xhani.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Dom-Mark-Xhani.jpg
 searchAliases:
   - Mark Xhani
 birthYear: 1914

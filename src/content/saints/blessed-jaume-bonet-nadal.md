@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Member of the Salesians, professed in Seville, Spain in 1909. Priest, ordained in Andalusia in 1917. Martyred in the
   Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Jaume-Bonet-Nadal.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Jaume-Bonet-Nadal.jpg
 birthYear: 1884
 deathYear: 1936
 born: 4 August 1884 in Sta. Maria de Montmagastrell, Lleida, Spain

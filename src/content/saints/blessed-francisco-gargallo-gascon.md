@@ -2,7 +2,7 @@
 name: Blessed Francisco Gargallo Gascón
 honorific: Blessed
 summary: Mercedarian priest. Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Francisco-Gargallo-Gascón.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Francisco-Gargallo-Gascón.jpg
 birthYear: 1872
 deathYear: 1936
 born: 24 February 1872 in Castellote, Teruel, Spain

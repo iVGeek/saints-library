@@ -5,7 +5,7 @@ summary: >-
   Second of five children born to Michael Rodzinska and Marianna (née Sekuly). Michael was the church organist, led the
   parish choir and worked at a local bank. They were a poor but pious family, and though Marianna's family was wealthy,
   they refused to help. Marianna died when Sta
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Stanislawa-Rodzinska.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Stanislawa-Rodzinska.jpg
 searchAliases:
   - Stanislawa Rodzinska
   - Giulia Rodzinska

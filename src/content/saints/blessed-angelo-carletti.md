@@ -5,7 +5,7 @@ summary: >-
   Born to the Italian nobility, Antonio studied law at Bologna, Italy, and practised in the Monferrato region of Italy.
   Elected senator, he abandoned the office and his practice to become a Franciscan monk at Santa Maria del Monte in
   Genoa, Italy, taking the name Brother Angelo, se
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Angelo-Carletti.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Angelo-Carletti.jpg
 searchAliases:
   - Angelo of Chiavasso
   - Angelus…

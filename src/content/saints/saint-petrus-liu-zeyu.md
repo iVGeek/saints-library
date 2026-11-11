@@ -4,7 +4,7 @@ honorific: Venerable
 summary: >-
   Layman in the apostolic vicariate of Southeastern Zhili, China. During the Boxer Rebellion, he was ordered by the
   Mandarin to renounce Christianity; he refused. Martyr.
-image: http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-China1.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-China1.jpg
 searchAliases:
   - Peter Liu Ziyu
   - Baiduo

@@ -2,7 +2,7 @@
 name: Blessed Ioannes Mukuno Chozaburo
 honorific: Blessed
 summary: Young married lay catechist in the archdiocese of Nagasaki, Japan. Member of the Lay Augustinians. Martyr.
-image: http://catholicsaints.info/wp-content/uploads/img-Augustinian-Martyrs-of-Japan.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Augustinian-Martyrs-of-Japan.jpg
 searchAliases:
   - John Shozaburo
 birthYear: 1613

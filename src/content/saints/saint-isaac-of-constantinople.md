@@ -2,7 +2,7 @@
 name: Saint Isaac of Constantinople
 honorific: Saint
 summary: While still a layman, he publicly opposed the Arian heresy of Emperor Valens. Monk. Abbot at Constantinople.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Isaac-of-Constantinople.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Isaac-of-Constantinople.jpg
 searchAliases:
   - Isaac of Dalmatia
 deathYear: 383

@@ -5,7 +5,7 @@ summary: >-
   Daughter of King Béla IV of Hungary and Maria Laskarina; sister of Saint Margaret of Hungary and Blessed Jolenta of
   Poland; niece of Saint Elizabeth of Hungary; great-niece of Saint Hedwig of Andechs. Reluctant member of Polish
   royalty when she married Prince Boleslaus V, but it
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Kinga-of-Poland.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Kinga-of-Poland.jpg
 searchAliases:
   - Cunegonda
   - Cunegunda

@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Possibly legendary. Unclear whether his name led to his association with expeditious matters, or the other way around.
   This association led to his becoming the patron of people who had to deliver things on time.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Expeditus-of-Melitene1.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Expeditus-of-Melitene1.jpg
 searchAliases:
   - Expeditus of Mylitene
   - Elpidius…

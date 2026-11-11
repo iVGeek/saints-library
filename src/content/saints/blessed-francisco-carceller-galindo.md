@@ -2,7 +2,7 @@
 name: Blessed Francisco Carceller Galindo
 honorific: Blessed
 summary: Piarist priest. Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Francisco-Carceller-Galindo.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Francisco-Carceller-Galindo.jpg
 searchAliases:
   - Father Francisco of Our Lady of Lourdes
 birthYear: 1901

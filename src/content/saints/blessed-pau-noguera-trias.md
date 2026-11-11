@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Teenaged professed religious brother. Member of the Missionaries of the Sacred Hearts of Jesus and Mary of Mallorca.
   Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Pau-Noguera-Trías.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Pau-Noguera-Trías.jpg
 birthYear: 1916
 deathYear: 1936
 born: 24 November 1916 in Sóller, Mallorca, Islas Baleares, Spain

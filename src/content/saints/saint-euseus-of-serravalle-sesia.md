@@ -3,7 +3,7 @@ name: Saint Euseus of Serravalle-Sesia
 honorific: Saint
 title: Hermit
 summary: Shoemaker in the area of 13th - 14th century Serravalle-Sesia, Italy who lived as a prayerful hermit.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Euseus-of-Serravalle-Sesia.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Euseus-of-Serravalle-Sesia.jpg
 searchAliases:
   - Euseo
 died: 14th century, year unknown, at home in Serravalle-Sesia, Vercelli, Italy of natural causes

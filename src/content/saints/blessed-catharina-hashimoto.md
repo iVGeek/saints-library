@@ -2,7 +2,7 @@
 name: Blessed Catharina Hashimoto
 honorific: Blessed
 summary: Daughter of Blessed Ioannes Hashimoto Tahyoe and Blessed Thecla Hashimoto. One of the Martyrs of Kyoto.
-image: http://catholicsaints.info/wp-content/uploads/img-Martyred-Hashimoto-Family.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Martyred-Hashimoto-Family.jpg
 birthYear: 1606
 deathYear: 1619
 born: c.1606 in Kyoto, Japan

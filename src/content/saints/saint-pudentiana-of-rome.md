@@ -5,7 +5,7 @@ summary: >-
   Daughter of Saint Claudia of Rome and Senator Pudens; sister of Saint Praxedes. Gave away all her property to the
   poor, and was persecuted for giving Christian burial to early martyrs who were left to rot. Virgin martyr. The church
   of Saint Pudentiana, probably the oldest in Rome
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Puedntiana-of-Rome.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Puedntiana-of-Rome.jpg
 searchAliases:
   - Potentiana
 deathYear: 160

@@ -5,7 +5,7 @@ summary: >-
   Son of a Roman senator, and raised a pagan, Quentin converted to Christianity. He served as a missionary to Gaul (in
   modern France), working with Saint Lucian of Beauvais. Quentin's preaching and example won many converts in the area
   of Amiens. He was arrested in 286 by Prefect R
-image: http://catholicsaints.info/wp-content/uploads/img-Siant-Quentin.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Siant-Quentin.jpg
 searchAliases:
   - Quentin of Vermand
   - Quinten…

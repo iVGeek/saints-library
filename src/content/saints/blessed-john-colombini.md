@@ -5,7 +5,7 @@ summary: >-
   Wealthy, greedy, ambitious, and ill-tempered son of a patrician family. Married layman, and father of two children,
   his son Peter and daughter Angela. First magistrate (Gonfalionere) of Siena, Italy. With his family and friends, he
   alternated between bouts of anger and consequent
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-John-Colombini.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-John-Colombini.jpg
 searchAliases:
   - John Columbini
   - Giovanni…

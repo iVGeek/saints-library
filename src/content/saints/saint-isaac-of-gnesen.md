@@ -2,7 +2,7 @@
 name: Saint Isaac of Gnesen
 honorific: Saint
 summary: Benedictine monk. Missionary with Saint Adalbert of Prague to the Slavs.
-image: http://catholicsaints.info/wp-content/uploads/img-Five-Polish-Brothers.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Five-Polish-Brothers.jpg
 born: Italy
 region: Italy
 feastDay:

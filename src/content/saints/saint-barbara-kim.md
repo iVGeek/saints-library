@@ -2,7 +2,7 @@
 name: Saint Barbara Kim
 honorific: Venerable
 summary: Married lay woman in the apostolic vicariate of Korea. Imprisoned and left to die for her faith. Martyr.
-image: http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Korea.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Korea.jpg
 searchAliases:
   - Bareubara Gim
 birthYear: 1805

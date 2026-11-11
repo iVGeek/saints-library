@@ -5,7 +5,7 @@ summary: >-
   May have trained as a shoemaker in his youth. Joined the Friars Minor at age 14 at the convent of San Giuliano outside
   L'Aquila, Italy, and spent his teen-aged novitiate in a hut in the forest near the convent, leaving it only when for
   services, Mass, or when called upon by his s
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Vincent-de-LAquila.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Vincent-de-LAquila.jpg
 birthYear: 1435
 deathYear: 1504
 born: c.1435

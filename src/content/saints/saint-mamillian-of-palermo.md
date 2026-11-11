@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Bishop of Palermo, Sicily. Because Mamillian stood for orthodox Christianity, the Arian King Genseric first imprisoned
   and then exiled him. He sailed to Sardinia and other islands before settling in the area of Tuscany, Italy.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Mamillian-of-Palermo.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Mamillian-of-Palermo.jpg
 deathYear: 460
 died: 460 on the island of Montecristo in the Tuscany region of Italy
 region: Italy

@@ -5,7 +5,7 @@ summary: >-
   Sixth of seven children of peasant farmers Jean-Fran&ccedil;ois Billiart and Marie-Louise-Antoinette Debraine. She was
   poorly educated, but knew her catechism by heart at age 7, and used to explain it to other children. At age 14 she
   took a private vow of chastity, and gave her l
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Julia-Billiart.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Julia-Billiart.jpg
 searchAliases:
   - Julia of Billiart
   - Julie Billart

@@ -3,7 +3,7 @@ name: Saint Ampelius of Milan
 honorific: Saint
 title: Bishop
 summary: Bishop of Milan, Italy from 665 to 672. Worked to Christianize the invading Lombards.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Ampelius-of-Milan.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Ampelius-of-Milan.jpg
 searchAliases:
   - Ampèle
   - Ampelio

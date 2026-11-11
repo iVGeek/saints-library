@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Carthusian choir monk of the Charterhouse in London, England. Martyred for refusing to accept King Henry VIII as head
   of the Church.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Thomas-Redyng.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Thomas-Redyng.jpg
 searchAliases:
   - Thomas Reding
 deathYear: 1537

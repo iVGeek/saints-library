@@ -5,7 +5,7 @@ summary: >-
   We have no information about the life, nor specifics about the death of this martyr. Tradition says that her relics
   were miraculously found by a Spanish shepherdess in the late 11th century. Devotion began immediately due to the
   miraculous healings caused by the intercession of S
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Euphenia-of-Orense.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Euphenia-of-Orense.jpg
 searchAliases:
   - Ephemia of Ourense
   - Eufemia…

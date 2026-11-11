@@ -2,7 +2,7 @@
 name: Saint Rufina of Rome
 honorific: Saint
 summary: Nun. Martyred in the persecutions of Valerian.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Rufina-and-Saint-Secunda.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Rufina-and-Saint-Secunda.jpg
 deathYear: 257
 died: martyred in 257 in Rome, Italy
 deathPlace: Italy

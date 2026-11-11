@@ -5,7 +5,7 @@ summary: >-
   Eleventh child in his family, he was raised in a pious household; his family went to Mass daily. Lodovico entered
   junior seminary of Cremona in 1900. Ordained a priest in 1912. Served as secretary to his bishop. Attracted by the
   spirituality of Saint Peter Julian Eymard, in 1913
-image: http://catholicsaints.info/wp-content/uploads/img-Venerable-Lodovico-Longari.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Lodovico-Longari.jpg
 birthYear: 1889
 deathYear: 1963
 born: 20 June 1889 in Montodine, Cremona, Italy

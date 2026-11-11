@@ -5,7 +5,7 @@ title: Priest
 summary: >-
   Priest driven from Africa by invading Arian Vandals due to his orthodox Christianity. He fled to Campania, Italy where
   he spent the rest of his life as a preacher and evangelist. One of the Exiles of Campania
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Augustus-of-Campania.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Augustus-of-Campania.jpg
 searchAliases:
   - Augustus of Caserta
   - Augustus of Calatia

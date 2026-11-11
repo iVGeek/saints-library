@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Hermitess in 8th century Bithynia (in modern Turkey), wearing a monk's habit. The desert fathers of the time knew her,
   wrote of her, and considered her a holy woman.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Marina-Marino.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Marina-Marino.jpg
 deathYear: 750
 died: c.750 of natural causes
 region: Turkey

@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Monk. An opponent of the monothelite heresy, he withdrew from the world to become a naked, barefoot hermit on the
   island of Candia (modern Crete).
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Comus-of-Crete.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Comus-of-Crete.jpg
 searchAliases:
   - Comus of Candia
   - Cosma…

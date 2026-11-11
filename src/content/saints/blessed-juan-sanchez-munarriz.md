@@ -2,7 +2,7 @@
 name: Blessed Juan Sánchez Munárriz
 honorific: Blessed
 summary: One of the Martyred Claretians of Barbastro killed in the persecutions of the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Juan-Sánchez-Munárriz.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Juan-Sánchez-Munárriz.jpg
 birthYear: 1913
 deathYear: 1936
 born: 5 June 1913 in Malón, Zaragoza, Spain

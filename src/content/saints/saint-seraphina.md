@@ -5,7 +5,7 @@ summary: >-
   Born poor, and though she stayed that way, she still found ways to help those in worse shape that herself. A pretty
   girl, she lived as a hermit in her home, doing chores, giving to the poor when she could, spinning, sewing, and
   praying through the nights. Seraphina's father died
-image: http://catholicsaints.info/wp-content/uploads/seraphina.jpg
+image: https://catholicsaints.info/wp-content/uploads/seraphina.jpg
 searchAliases:
   - Fina
   - Serafina

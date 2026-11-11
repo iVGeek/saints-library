@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Mercedarian nun in monastery of the Assumption in Seville, Spain. Noted for a deep prayer life devoted to the
   conversion of sinners, which were accompanied by apparitions.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Agostina-of-the-Assumption.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Agostina-of-the-Assumption.jpg
 region: Spain
 feastDay:
   month: 10

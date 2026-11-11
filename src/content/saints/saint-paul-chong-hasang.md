@@ -5,7 +5,7 @@ summary: >-
   Son of Yak Jong Church who was martyred in 1801 in the persecution of Shin-Yu, an attack on the faith that killed all
   the clergy in the country. Son of Saint Yu Cecilia; brother of Saint Jung Hye. Paul, though a layman, reunited the
   scattered Christians, and encouraged them to ke
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Paul-Chong-Hasang-1.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Paul-Chong-Hasang-1.jpg
 birthYear: 1795
 deathYear: 1839
 born: 1795 in Korea

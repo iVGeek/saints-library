@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Nephew of Blessed Peter Paul Navarro. Entered the Dominican Order at Salamanca, Spain. Priest. Missionary to Japan.
   Martyr.
-image: http://catholicsaints.info/wp-content/gallery/blessed-alphonsus-de-mena/beato-alfonso-de-mena.jpg
+image: https://catholicsaints.info/wp-content/gallery/blessed-alphonsus-de-mena/beato-alfonso-de-mena.jpg
 searchAliases:
   - Alonso de Mena Navarette
   - Alonso de Mena Navarro

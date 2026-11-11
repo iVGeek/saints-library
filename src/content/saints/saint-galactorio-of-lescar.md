@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Sixth century bishop of Lescar in the French Pyrenees. Participated in the Council of Agde. Martyred by invading Arian
   Visigoths led by Alaric.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Galactorio-of-Lescar.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Galactorio-of-Lescar.jpg
 searchAliases:
   - Galactorio of Béarn
   - Galattorio…

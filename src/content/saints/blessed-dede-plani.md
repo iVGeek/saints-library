@@ -5,7 +5,7 @@ summary: >-
   Studied at the Shkodrë Pontifical Seminary, and in Innsbruck, Austria. Ordained in Primiz, Austria on 3 August 1919 as
   a priest of the archdiocese of Shkodrë-Pult, Albania. Imprisoned in 1947 during the Communist government's
   anti-Christian persecutions, he survived months of tor
-image: http://catholicsaints.info/wp-content/uploads/img-Dom-Dede-Plani.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Dom-Dede-Plani.jpg
 birthYear: 1891
 deathYear: 1948
 born: 21 January 1891 in Shiroka, Shkodrë, Albania

@@ -5,7 +5,7 @@ summary: >-
   Educated at Oxford, England. Convert to Catholicism. Seminarian at the English College in Rome, Italy; ordained in
   1583. He returned to England to minister to covert Catholics during the persecutions of Queen Elizabeth I. Arrested
   and executed for the crime of being a priest. Mar
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Thomas-Hemeford.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Thomas-Hemeford.jpg
 searchAliases:
   - Thomas Hemerford
 deathYear: 1584

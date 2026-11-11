@@ -5,7 +5,7 @@ summary: >-
   The fifth of eight children born to José and Tomasa Ortiz, making her First Communion awakened a call to religious
   life in ten-year-old Tomasa. The family moved to Canales, Spain in 1866 when her mother died. Tomasa was educated at
   Loreto College, and she wanted to enter religiou
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Piedad-de-la-Cruz-Ortiz-Real.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Piedad-de-la-Cruz-Ortiz-Real.jpg
 searchAliases:
   - Tomasa Ortiz Real
   - Pietà della Croce Ortiz Real

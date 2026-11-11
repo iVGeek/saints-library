@@ -5,7 +5,7 @@ summary: >-
   Son of the Duke of Naples, Italy. Bishop of Naples at age 18. He restored the church of Saint Januarius that had been
   destroyed by Saracens, founded a hospice, and instituted a service for the ransom of captive Christians. Because he
   fought simony, he was imprisoned by his corrup
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Athanasius-of-Naples.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Athanasius-of-Naples.jpg
 deathYear: 872
 born: Naples, Italy
 died: 872 at Veroli, Italy of natural causes

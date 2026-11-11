@@ -2,7 +2,7 @@
 name: Blessed Ludovicus Kawara Rokuemon
 honorific: Blessed
 summary: Jesuit cleric. Martyred in the persecution of the Tokugawa Shogunate as part of the Great Genna Martyrdom.
-image: http://catholicsaints.info/wp-content/uploads/img-Great-Genna-Martyrdom.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Great-Genna-Martyrdom.jpg
 birthYear: 1583
 deathYear: 1622
 born: c.1583 in Arima,

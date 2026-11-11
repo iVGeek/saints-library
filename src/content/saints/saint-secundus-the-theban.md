@@ -2,7 +2,7 @@
 name: Saint Secundus the Theban
 honorific: Saint
 summary: Soldier. Martyr. Member of the Martyrs of the Theban Legion.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Secundus-the-Theban.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Secundus-the-Theban.jpg
 deathYear: 287
 died: martyred c.287 in Agaunum (modern St-Maurice-en-Valais, Switzerland
 deathPlace: Switzerland

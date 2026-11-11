@@ -5,7 +5,7 @@ summary: >-
   Grew up in Ireland. Educated at Much Woolton, in Rheims, France, and at the English College, Rome, Italy at age 20.
   Ordained in 1598. Returned to England as a home missioner in 1602. Arrested in 1608 and 1612 for the crime of being a
   priest. The effectiveness of his debating skil
-image: http://catholicsaints.info/wp-content/gallery/saint-john-almond/saint-john-almond.jpg
+image: https://catholicsaints.info/wp-content/gallery/saint-john-almond/saint-john-almond.jpg
 birthYear: 1577
 deathYear: 1612
 born: c.1577 at Allerton, Lancashire, England

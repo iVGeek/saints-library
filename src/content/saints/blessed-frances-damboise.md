@@ -5,7 +5,7 @@ summary: >-
   Daughter of Louis d'Amboise, Viscount de Thouars, she grew up in the courts of Brittany. Duchess of Brittany, being
   married to Peter II, Duke of Britanny at age 15; she was betrothed to him at age four. It was not a happy marriage,
   and Peter sometimes abused her, but Frances soft
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Frances-dAmboise.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Frances-dAmboise.jpg
 searchAliases:
   - Francisca de Amboise
   - Françoise d’Amboise

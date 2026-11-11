@@ -5,7 +5,7 @@ summary: >-
   Professed religious in the Sisters of the Christian Doctrine, joining in 1906, serving as a teacher, and was noted for
   her devotion to the Rule and community aspect of religious life. Director of the college of Molins de Rei. Martyred in
   the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Martyred-Sisters-of-the-Christian-Doctrine.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Martyred-Sisters-of-the-Christian-Doctrine.jpg
 searchAliases:
   - Corazón de Jesus
 birthYear: 1881

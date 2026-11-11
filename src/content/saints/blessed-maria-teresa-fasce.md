@@ -5,7 +5,7 @@ summary: >-
   Taught catechetism to children. She grew to love Augustinian spirituality, and became acquainted with the human and
   spiritual adventure of Rita of Cascia, whose canonization in 1900 was very special to Maria, leading to her desire to
   be an Augustinian religious in the monastery o
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Maria-Teresa-Fasce.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Maria-Teresa-Fasce.jpg
 birthYear: 1881
 deathYear: 1947
 born: 27 December 1881 at Torriglia, Genoa, Italy as Maria Fasce

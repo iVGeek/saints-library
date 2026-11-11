@@ -5,7 +5,7 @@ summary: >-
   Friend of Saint Peter Nolasco, who urged him to join the Mercedarians; Peter did at the convent of Sant Antonio Abate
   in Tarragona, Spain. Dispatched to Africa in 1236 to ransom a large number of Christians who had been enslaved by
   Muslims.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Pedro-de-Calidis.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Pedro-de-Calidis.jpg
 deathYear: 1240
 died: 1240 in Tarragona, Spain of natural causes
 deathPlace: Spaof natural causes

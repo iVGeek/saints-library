@@ -2,7 +2,7 @@
 name: Saint Paterniano
 honorific: Saint
 summary: Hermit near Fano, Italy. Monk. Abbot. Bishop of Marche, Italy for 40 years.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Paterniano.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Paterniano.jpg
 deathYear: 348
 died: 13 November 348 near Cervia, Italy of natural causes
 deathPlace: Italynatural causes

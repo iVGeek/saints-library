@@ -4,7 +4,7 @@ honorific: Venerable
 summary: >-
   Born to a large and pious family; Vincenzo and two of his brothers were members of the Theatines. Ordained a priest on
   16 June 1764. Chosen archbishop of Otranto, Italy on 16 December 1791.
-image: http://catholicsaints.info/wp-content/uploads/img-Venerable-Vincenzo-Maria-Morelli.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Vincenzo-Maria-Morelli.jpg
 birthYear: 1741
 deathYear: 1812
 born: 25 April 1741 in Lecce, Italy

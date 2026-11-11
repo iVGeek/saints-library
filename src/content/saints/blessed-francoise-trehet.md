@@ -5,7 +5,7 @@ summary: >-
   Born to the nobility, she grew up in a family of wealthy land-owners. Joined of the Soeurs de la Charité de Notre-Dame
   d'Evron (Sisters of Charity of Our Lady of Evron), dedicated to education of children and care of the sick. She began
   teaching at the parish school of St-Pierre-
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Françoise-Tréhet.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Françoise-Tréhet.jpg
 searchAliases:
   - Francesca
 birthYear: 1756

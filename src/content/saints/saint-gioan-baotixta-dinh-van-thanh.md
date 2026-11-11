@@ -5,7 +5,7 @@ summary: >-
   Layman catechist in the apostolic vicariate of West Tonkin (in modern Vietnam). Worked with the Society of Foreign
   Missionaries. Imprisoned and tortured for their faith for three years during the persecutions of Emperor Minh Mang; he
   was repeatedly ordered to denounce Christianit
-image: http://catholicsaints.info/wp-content/gallery/martyrs-of-vietnam/martyrs-of-vietnam-01.jpg
+image: https://catholicsaints.info/wp-content/gallery/martyrs-of-vietnam/martyrs-of-vietnam-01.jpg
 searchAliases:
   - John Baptist Dinh Van Than
 birthYear: 1796

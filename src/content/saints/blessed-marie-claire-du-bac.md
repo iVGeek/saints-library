@@ -2,7 +2,7 @@
 name: Blessed Marie-Claire du Bac
 honorific: Blessed
 summary: Ursuline nun. Martyred in the French Revolution.
-image: http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Orange.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Orange.jpg
 searchAliases:
   - Sister Claire of Saint Rosalie
 birthYear: 1727

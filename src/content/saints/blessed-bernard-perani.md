@@ -5,7 +5,7 @@ summary: >-
   The third of eight children born to a pious peasant family, he was baptized on the day of his birth and worked the
   fields as a shepherd in his youth. Capuchin lay brother, joining the Order in 1626. Worked seven years as a cook.
   Noted for his charity to the poor, his extensive st
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Bernard-Perani1.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Bernard-Perani1.jpg
 searchAliases:
   - Bernard Offida
   - Bernard Offidski

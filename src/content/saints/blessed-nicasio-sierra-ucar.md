@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Joined the Claretians in 1907. Studied at the college of Alagón, then in Cervera. Ordained in 1915 in Zaragoza, Spain.
   Taught at Aranda de Duero. Noted preacher in Calatayud, Cartagena and Barbastro. Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Nicasio-Sierra-Ucar.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Nicasio-Sierra-Ucar.jpg
 birthYear: 1890
 deathYear: 1936
 born: 11 October 1890 in Cascante, Navarra, Spain

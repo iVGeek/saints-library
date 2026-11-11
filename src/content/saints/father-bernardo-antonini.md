@@ -2,7 +2,7 @@
 name: Venerable Bernardo Antonini
 honorific: Venerable
 summary: Priest from the diocese of Verona, Italy. Member of the Secular Institute of Jesus the Priest.
-image: http://catholicsaints.info/wp-content/gallery/new-catholic-dictionary/father-bernardo-antonini.jpg
+image: https://catholicsaints.info/wp-content/gallery/new-catholic-dictionary/father-bernardo-antonini.jpg
 birthYear: 1932
 deathYear: 2002
 born: 20 October 1932 in Cimego, Trent, Italy

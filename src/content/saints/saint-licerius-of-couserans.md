@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Spiritual student of Saint Faustus of Riez in France. Bishop of Couserans, France in 506. Saved the city of Courserans
   from Visigoth destruction by prayer.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Lizier-deCouserans.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Lizier-deCouserans.jpg
 searchAliases:
   - Licerio
   - Lizier

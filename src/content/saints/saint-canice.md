@@ -5,7 +5,7 @@ summary: >-
   His father was a distinguished royal bard, and his mother's name was Maul. Spiritual student of Saint Finnian of
   Clonard in 543 with Saint Columba. Spiritual student of Saint Kieran of Conmacnoise, Saint Comgall of Bangor, and
   Saint Mobhi in 544. Ordained in 545 at Llancarvan, Gl
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Canice-1.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Canice-1.jpg
 searchAliases:
   - Caimnech
   - Cainnech

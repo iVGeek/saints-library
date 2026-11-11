@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Daughter of Saint Hedwig of Silesia and Duke Henry I. Engaged to the Count Palatine Otto of Wittelsbach, but he died
   before the wedding. Cistercian nun and then abbess in Trzebnica, Poland.
-image: http://catholicsaints.info/wp-content/uploads/Gertrude-of-Trebnitz.jpg
+image: https://catholicsaints.info/wp-content/uploads/Gertrude-of-Trebnitz.jpg
 birthYear: 1200
 deathYear: 1268
 born: c.1200

@@ -5,7 +5,7 @@ summary: >-
   Born to a very poor family. Educated by an Italian monk who had been taken prisoner by his people. Monk at the San
   Saba monastery near Bethlehem. Bishop of Mayuma near Gaza in the Holy Lands in 743 where he served the rest of his
   life. Known as one of the most gifted hymnist of h
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Cosmas-the-Melodist.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Cosmas-the-Melodist.jpg
 searchAliases:
   - Cosmas the Hymnographer
   - Cosma…

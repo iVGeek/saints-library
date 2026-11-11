@@ -5,7 +5,7 @@ summary: >-
   Court page to King Philip II, Gregorio was well educated, especially in the sciences of his day. He lived six years as
   a hermit in the Navarre region of Spain before moving to Mexico in 1562 where he lived as a hermit among the natives
   near Zacatecas and the area of modern Mexico
-image: http://catholicsaints.info/wp-content/uploads/Gregorio-Lopez.jpg
+image: https://catholicsaints.info/wp-content/uploads/Gregorio-Lopez.jpg
 birthYear: 1542
 deathYear: 1596
 born: 4 July 1542 at Madrid, Spain

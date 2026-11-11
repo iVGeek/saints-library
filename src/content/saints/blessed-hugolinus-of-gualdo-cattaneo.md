@@ -5,7 +5,7 @@ summary: >-
   Augustinian hermit as a young man. With Blessed Angelus of Foligno, he founded a monastery in Gualdo Cattaneo, Italy
   in 1258, and served his remaining years as the prior of the house. For many years there was fellowship named for him,
   but it dissolved in 1568.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Hugolinus-of-Gualdo-Cattaneo.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Hugolinus-of-Gualdo-Cattaneo.jpg
 searchAliases:
   - Hugo Linus a Gualdo Captaneorum
   - Hugo Linus of Gualdo

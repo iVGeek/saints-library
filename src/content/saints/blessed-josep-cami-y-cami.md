@@ -2,7 +2,7 @@
 name: Blessed Josep Camí y Camí
 honorific: Blessed
 summary: Priest in the diocese of Lleida, Spain. Trappist postulant. Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Martyred-Cistercians-of-the-Spanish-Civil-War.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Martyred-Cistercians-of-the-Spanish-Civil-War.jpg
 birthYear: 1907
 deathYear: 1936
 born: 5 September 1907 in Aitona, Lleida, Spain

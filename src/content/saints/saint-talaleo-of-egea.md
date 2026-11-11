@@ -2,7 +2,7 @@
 name: Saint Talaleo of Egea
 honorific: Saint
 summary: Physician. Imprisoned, tortured and martyred in the persecutions of Numerian.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Talaleo-of-Egea.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Talaleo-of-Egea.jpg
 searchAliases:
   - Taleleo
   - Thalelaeus

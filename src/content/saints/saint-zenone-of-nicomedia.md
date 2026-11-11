@@ -2,7 +2,7 @@
 name: Saint Zenone of Nicomedia
 honorific: Saint
 summary: Father of Saint Theodore of Nicomedia and Saint Concordius of Nicomedia. Martyred in the persecutions of Diocletian.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Zenone-of-Nicomedia.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Zenone-of-Nicomedia.jpg
 searchAliases:
   - Zeno
 died: 3rd century Nicomedia, Bithynia (in modern Turkey)

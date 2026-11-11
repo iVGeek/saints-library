@@ -5,7 +5,7 @@ summary: >-
   Son of Crinthainn. Disciple of Saint Finnian of Clonard; administered Last Rites to Saint Finnian on his death-bed.
   Spiritual director of Saint Caemban, Saint Fintan, and Saint Mocumin. Founded the monastery of Tirdaglas (Terryglass)
   in 548, and served as its abbot. Visited Tours
-image: http://catholicsaints.info/wp-content/uploads/img-Twelve-Apostles-of-Ireland.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Twelve-Apostles-of-Ireland.jpg
 searchAliases:
   - Colum mac Crimthainn
   - Colum moccu Loigse

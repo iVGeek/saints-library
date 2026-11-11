@@ -5,7 +5,7 @@ summary: >-
   The youngest of four children born to José Cardoso da Silva and Thereza Maria da Silva; her father died before she was
   born, her mother before Benigna was a year old, and she and her brother were then adopted by another family. Benigna
   was known as a pious girl, always willing to
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Benigna-Cardoso-da-Silva.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Benigna-Cardoso-da-Silva.jpg
 birthYear: 1928
 deathYear: 1941
 born: 15 October 1928 in Sítio Oitis, Santana do Cariri, Ceará, Brazil

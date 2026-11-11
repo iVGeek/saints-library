@@ -3,7 +3,7 @@ name: Saint Stephen of Caiazzo
 honorific: Saint
 title: Bishop
 summary: Abbot of San Salvatore Maggiore territorial abbey. Bishop of Cajazzo, Italy in 979.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Stephen-of-Cajazzo.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Stephen-of-Cajazzo.jpg
 searchAliases:
   - Stefano Minicillo
   - Stephen the Thaumaturge

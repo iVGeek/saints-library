@@ -5,7 +5,7 @@ summary: >-
   Son of Vincent and Antonia. Joined the Franciscan Capuchin tertiaries in 1889. Priest, ordained in 1890. Member of the
   Brothers of Our Lady of Sorrows; served several times as their secretary-general. Worked with young people, especially
   those we would today call “at risk”. Noted
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Agustín-Hurtado-Soler.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Agustín-Hurtado-Soler.jpg
 searchAliases:
   - Father Domingo María From Alboraya
 birthYear: 1872

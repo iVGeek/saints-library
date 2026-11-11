@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Spiritual student of Isleifur, bishop of Skalholt, Iceland. First bishop of Holar, Iceland in 1106. Great evangelist
   of the island.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Jón-Helgi-Ögmundarson.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Jón-Helgi-Ögmundarson.jpg
 searchAliases:
   - Apostle to Iceland
   - Ogmund

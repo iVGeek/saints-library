@@ -2,7 +2,7 @@
 name: Blessed Baltasar de Torres Arias
 honorific: Blessed
 summary: Jesuit priest. Martyr.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Giovanni-Battista-Zola.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Giovanni-Battista-Zola.jpg
 birthYear: 1563
 deathYear: 1626
 born: 14 December 1563 in Granada, Spain

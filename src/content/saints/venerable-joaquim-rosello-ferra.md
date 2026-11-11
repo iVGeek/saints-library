@@ -4,7 +4,7 @@ honorific: Venerable
 summary: >-
   Priest in the diocese of Mallorca, Spain. Founded the Congregation of the Missionaries of the Sacred Hearts of Jesus
   and Mary of Mallorca.
-image: http://catholicsaints.info/wp-content/uploads/img-Joaquim-Roselló-Ferrá.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Joaquim-Roselló-Ferrá.jpg
 birthYear: 1833
 deathYear: 1909
 born: 28 June 1833 in Palma de Mallorca, Islas Baleares, Spain

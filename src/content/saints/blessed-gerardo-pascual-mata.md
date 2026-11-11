@@ -2,7 +2,7 @@
 name: Blessed Gerardo Pascual Mata
 honorific: Blessed
 summary: Augustinian friar. Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Gerardo-Pascual-Mata.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Gerardo-Pascual-Mata.jpg
 searchAliases:
   - Gerardo of Leganés
 birthYear: 1915

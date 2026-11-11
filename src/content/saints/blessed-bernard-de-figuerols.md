@@ -2,7 +2,7 @@
 name: Blessed Bernard de Figuerols
 honorific: Blessed
 summary: Mercedarian lay knight. Fought invading Moors in Almeria, Spain.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Bernard-de-Figuerols.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Bernard-de-Figuerols.jpg
 region: Spain
 feastDay:
   month: 10

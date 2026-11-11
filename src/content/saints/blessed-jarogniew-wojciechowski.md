@@ -5,7 +5,7 @@ summary: >-
   Young layman in the archdiocese of Poznan, Poland, the son of an alcoholic manager of a cosmetics shop who eventually
   abandoned the family. Jarogniew found the Saleisan oratory and it became a second home. Played piano. He became a
   pious young man who thought deeply, worked for a
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Jarogniew-Wojciechowski.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Jarogniew-Wojciechowski.jpg
 birthYear: 1922
 deathYear: 1942
 born: 5 November 1922 Poznan, Wielkopolskie, Poland

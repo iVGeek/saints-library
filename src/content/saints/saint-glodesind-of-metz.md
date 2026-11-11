@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Engaged to a courtier who was arrested on their wedding day, and later executed. She became a nun at Metz, France and
   later abbess.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Glodesind-of-Metz.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Glodesind-of-Metz.jpg
 searchAliases:
   - Glodesinda
 deathYear: 608

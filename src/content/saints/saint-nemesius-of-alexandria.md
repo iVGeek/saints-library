@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Arrested for theft, Nemesius was proved innocent, but in the process the authorities discovered that he was a
   Christian. He was scourged and executed with a couple of criminals in the persecutions of Decius. Martyr.
-image: http://catholicsaints.info/wp-content/uploads/img-Pictorial-Saint-Nemesion.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Pictorial-Saint-Nemesion.jpg
 searchAliases:
   - Nemesian
 deathYear: 250

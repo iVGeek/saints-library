@@ -2,7 +2,7 @@
 name: Blessed Frederick of Ratisbon
 honorific: Blessed
 summary: Augustinian lay-brother at Ratisbon, Germany. Worked for the holy hermits in the area as a carpenter and wood cutter.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Frederick-of-Ratisbon.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Frederick-of-Ratisbon.jpg
 searchAliases:
   - Frederick of Regensburg
 deathYear: 1329

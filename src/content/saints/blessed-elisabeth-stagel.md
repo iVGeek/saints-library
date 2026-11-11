@@ -5,7 +5,7 @@ summary: >-
   Born to the nobility. Dominican nun. Friend and spiritual student of Blessed Henry Suso; unknown to him, she kept all
   their correspondence and wrote down their conversations about relgious life. When he found out, Elisabeth gave Henry
   her writings and he burned most of them as he
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Elisabeth-Stagel.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Elisabeth-Stagel.jpg
 searchAliases:
   - Elisabeth Staglin
   - Elisabeth Steiglin

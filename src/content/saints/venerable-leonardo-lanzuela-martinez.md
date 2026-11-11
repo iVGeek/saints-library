@@ -4,7 +4,7 @@ honorific: Venerable
 summary: >-
   Member of the Brothers of the Christian Schools. Taught for 40 years at La Salle College in Montemolin, Spain. Known
   as a model of life, balance and serenity whose primary concern was to bring his students to a life in Christ.
-image: http://catholicsaints.info/wp-content/uploads/img-Venerable-Leonardo-Lanzuela-Martínez.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Leonardo-Lanzuela-Martínez.jpg
 searchAliases:
   - Brother Adolfo
 birthYear: 1894

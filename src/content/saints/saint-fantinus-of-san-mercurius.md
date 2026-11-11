@@ -5,7 +5,7 @@ summary: >-
   Monk in Calabria, Italy. Manuscript copyist. Known for his severely ascetic life style, and for receiving visions of
   heaven and hell. Abbot of San Mercurius Abbey, a monastery that was destroyed by invading Saracens when Fantinus was
   an old man.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Fantino-the-Younger.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Fantino-the-Younger.jpg
 searchAliases:
   - Fantinus of Calabria
   - Fantinus the Younger

@@ -2,7 +2,7 @@
 name: Saint Candidus the Martyr
 honorific: Saint
 summary: Martyr. No other information has survived.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Candidus-the-Martyr.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Candidus-the-Martyr.jpg
 searchAliases:
   - Candidus of Rome
   - Candida…

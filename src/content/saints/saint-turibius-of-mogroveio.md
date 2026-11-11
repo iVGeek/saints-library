@@ -5,7 +5,7 @@ summary: >-
   Born to the nobility. Lawyer. Professor of law at Salamanca, Spain. Ordained in 1578 at age 40. Judge of the Court of
   the Inquisition at Granada, Spain. Archbishop of Lima, Peru on 15 May 1579. Founded the first seminary in the Western
   hemisphere. Fought for the rights of the nat
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Turibius-of-Mogroveio.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Turibius-of-Mogroveio.jpg
 searchAliases:
   - Turibius of Lima
   - Turibius…

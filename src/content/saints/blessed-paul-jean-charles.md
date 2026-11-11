@@ -5,7 +5,7 @@ summary: >-
   Trappist monk. Priest. Prior of the Sept-Fons abbey. In 1791, the anti-Catholic forces of the French Revolution
   suppressed his abbey; Prior Paul-Jean took his brother monks to the abandoned monastery in Montluçon, France. That
   house was suppressed in February 1793. On 30 March 17
-image: http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-the-Hulks-of-Rochefort.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-the-Hulks-of-Rochefort.jpg
 birthYear: 1743
 deathYear: 1794
 born: 29 September 1743 in Millery, Côte-d’Or, France

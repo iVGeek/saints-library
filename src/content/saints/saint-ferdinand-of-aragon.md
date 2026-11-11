@@ -5,7 +5,7 @@ summary: >-
   Born to the royal family of Aragon, Spain, and the rulers of the two Sicilies, the fourth child of King Sancho III and
   Elvisa, Countess of Castile. Ferdinand was early drawn to religious and contemplative life. Hermit in the forest near
   Caiazzo, Italy where he became renowned in
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Ferdinand-of-Aragon.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Ferdinand-of-Aragon.jpg
 searchAliases:
   - Ferdinand of Caiazzo
   - Ferdinand of the Angels

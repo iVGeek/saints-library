@@ -5,7 +5,7 @@ summary: >-
   Raised in a pious family, they recited the rosary together daily, and his elder brother Fernando was a priest. Studied
   at the Seminary of Veracruz, Mexico in the 1930s during a period of official persecution of the Church, when the
   seminary was underground and the classes were co
-image: http://catholicsaints.info/wp-content/uploads/img-Venerable-Manuel-Martín-del-Campo.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Manuel-Martín-del-Campo.jpg
 birthYear: 1917
 deathYear: 1996
 born: 14 December 1917 in Lagos de Moreno, Jalisco, Mexico

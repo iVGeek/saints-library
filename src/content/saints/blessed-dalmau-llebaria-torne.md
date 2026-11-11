@@ -2,7 +2,7 @@
 name: Blessed Dalmau Llebaría Torné
 honorific: Blessed
 summary: Priest in the archdiocese of Tarragona, Spain. Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Dalmau-Llebaría-Torné.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Dalmau-Llebaría-Torné.jpg
 birthYear: 1877
 deathYear: 1936
 born: 5 October 1877 in Falset, Tarragona, Spain

@@ -5,7 +5,7 @@ summary: >-
   Deacon to Saint Hermes of Adrianople. During the persecutions of Diocletian, Saint Hermes and Saint Philip were
   ordered by governor Basso to close their church and turn over all scriptures and other documents, and all altar
   furnishings. When Hermes explained that he had no author
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Philip-of-Adrianople.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Philip-of-Adrianople.jpg
 searchAliases:
   - Filippo
 died: burned to death in Adrianople, Thrace

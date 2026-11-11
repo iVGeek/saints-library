@@ -5,7 +5,7 @@ summary: >-
   Born to a wealthy Italian noble family, the daughter of Tommaso and Teresa Primoli. She married Cristoforo Mora on 10
   January 1796. Cristoforo, a lawyer, was jealous, controlling, and became suspicious of Elisabetta's family ties; he
   finally became resentful, abusive, then cold a
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Elisabetta-Canori-Mora.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Elisabetta-Canori-Mora.jpg
 birthYear: 1774
 deathYear: 1825
 born: 21 November 1774 in Rome, Italy

@@ -5,7 +5,7 @@ summary: >-
   First bishop of Agrigento, Italy; one tradition says he was assigned to the post by Saint Peter the Apostle, but it is
   also likely he lived and served after Peter's death, perhaps as late as the 3rd century. Noted and successful
   preacher. Built a church on the site of the current
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Libertine-of-Agrigento.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Libertine-of-Agrigento.jpg
 searchAliases:
   - Libertino
   - Libertinus

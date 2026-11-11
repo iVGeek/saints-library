@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Franciscan, taking the name Liberat. Priest Missionary to Ethiopia. In 1716 the emperor declared a persecution of
   Christians. Father Liberat was arrested and ordered to renounce his faith; he refused. Martyr.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Johannes-Laurentius-Weiss.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Johannes-Laurentius-Weiss.jpg
 searchAliases:
   - Liberat Weiss
 birthYear: 1675

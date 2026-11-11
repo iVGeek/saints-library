@@ -4,7 +4,7 @@ honorific: Venerable
 summary: >-
   Child in the apostolic vicariate of Southeastern Zhili, China, the seven-year-old son of Saint Yangzhi Lang. Martyred
   in the anti-Christian persecutions of the Boxer Rebellion.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Paulus-Lang-Fu.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Paulus-Lang-Fu.jpg
 searchAliases:
   - Paolo Lang-Eull
   - Baolu

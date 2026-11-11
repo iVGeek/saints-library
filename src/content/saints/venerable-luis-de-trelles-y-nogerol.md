@@ -5,7 +5,7 @@ summary: >-
   Lifelong layman. Studied at the Seminary of Mondoñedo, Spain, and then studied civil law at the University of Santiago
   de Compostela, Spain. Taught civil law at the University of Santiago de Compostela in 1839. Opened his own law firm in
   Viveiro, Spain in 1840, then in La Coruña,
-image: http://catholicsaints.info/wp-content/uploads/img-Venerable-Luis-de-Trelles-y-Nogerol.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Luis-de-Trelles-y-Nogerol.jpg
 birthYear: 1819
 deathYear: 1891
 born: 20 August 1819 in Viveiro, Lugo, Spain

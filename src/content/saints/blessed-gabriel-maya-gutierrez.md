@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Joined the Hospitallers of Saint John of God in 1932. Martyred in the Spanish Civil War. One of the Martyred
   Colombians of Barcelona.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Gabriel-Maya-Gutiérrez.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Gabriel-Maya-Gutiérrez.jpg
 searchAliases:
   - Esteban
 birthYear: 1907

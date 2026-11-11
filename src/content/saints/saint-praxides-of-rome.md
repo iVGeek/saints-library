@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Daughter of a Senator Pudens and Saint Claudia of Rome; sister of Saint Prudentiana. Lifelong single lay woman. She
   employed her wealth in the interest of the Church, and was renowned for her virtues.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Praxides-of-Rome.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Praxides-of-Rome.jpg
 searchAliases:
   - Prassede
   - Praxedes

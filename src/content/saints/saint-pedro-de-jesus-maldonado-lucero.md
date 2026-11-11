@@ -4,7 +4,7 @@ honorific: Venerable
 summary: >-
   Parish priest in Santa Isabel, archdiocese of Chihuáhua, Mexico. Beaten and martyred in the anti-Catholic persecutions
   of the Mexican Revolution.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Pedro-de-Jesus-Maldonado-Lucero.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Pedro-de-Jesus-Maldonado-Lucero.jpg
 birthYear: 1892
 deathYear: 1937
 born: 15 June 1892 in Chihuáhua City, Chihuáhua, Mexico

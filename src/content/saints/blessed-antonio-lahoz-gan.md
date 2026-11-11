@@ -2,7 +2,7 @@
 name: Blessed Antonio Lahoz Gan
 honorific: Blessed
 summary: Mercedarian brother. Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Antonio-Lahoz-Gan.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Antonio-Lahoz-Gan.jpg
 birthYear: 1858
 deathYear: 1936
 born: 22 October 1858 in Híjar, Teruel, Spain

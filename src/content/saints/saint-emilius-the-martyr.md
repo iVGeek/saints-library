@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Tortured in the persecutions of Decius, he renounced his Christianity. He later repented, returned to the Church, and
   when arrested a second time he stood by his Christianity. Martyr.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Emilio.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Emilio.jpg
 searchAliases:
   - Aemilius
   - Emilio

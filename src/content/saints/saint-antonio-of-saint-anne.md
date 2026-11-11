@@ -5,7 +5,7 @@ summary: >-
   Born to a deeply religious family of high social status. At 13 he began studies at the Jesuit seminary in
   Bel&eacute;m, but anti-Jesuit sentiment in the region caused his family to move him to the Alcantarine Franciscans.
   Novice at the Saint Bonaventure friary in Macacu, Rio de J
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Antonio-of-Saint-Anne-1.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Antonio-of-Saint-Anne-1.jpg
 searchAliases:
   - Antonio Galvao de Franca
   - Antônio de Sant’Anna Galvão

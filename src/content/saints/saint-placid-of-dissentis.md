@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Wealthy seventh century Swiss land owner. Friend of Saint Sigisbert of Dissentis. Donated the land on which Dissentis
   Abbey was founded in Switzerland. He then joined it as a monk and later was martyred defending it.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Placid-of-Disentis.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Placid-of-Disentis.jpg
 searchAliases:
   - Placido
 died: murdered for defending the ecclesiastical rights of the abbey

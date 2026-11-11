@@ -5,7 +5,7 @@ summary: >-
   Third of seven children born to Stephen and Euphrosyne, small land-owning farmers; the family was forced to flee to
   Thessaly ahead of Saracen raids on their home island. In his youth Luke worked the fields and tended sheep to help
   support his family, but when his father died, the
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Luke-the-Younger.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Luke-the-Younger.jpg
 searchAliases:
   - Luke of Aegina
   - Luke of Mount Joannitsa

@@ -5,7 +5,7 @@ title: Priest
 summary: >-
   Priest in North Africa. Tortured and exiled by being stick in a boat without a rudder and sent out to sea by the Arian
   Vandals. The boat landed in the Campania region of southern Italy, and he resumed his ministry with the people there.
-image: http://catholicsaints.info/wp-content/uploads/Sant_Adiutore.jpg
+image: https://catholicsaints.info/wp-content/uploads/Sant_Adiutore.jpg
 searchAliases:
   - Adiutor of Africa
   - Adjutor…

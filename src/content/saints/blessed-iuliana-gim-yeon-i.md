@@ -2,7 +2,7 @@
 name: Blessed Iuliana Gim Yeon-i
 honorific: Blessed
 summary: Lay woman convert and martyr in the apostolic vicariate of Korea.
-image: http://catholicsaints.info/wp-content/uploads/img-Maryrs-of-Korea.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Maryrs-of-Korea.jpg
 searchAliases:
   - Giuliana Kim Yeon-i
 deathYear: 1801

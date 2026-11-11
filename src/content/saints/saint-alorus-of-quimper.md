@@ -2,7 +2,7 @@
 name: Saint Alorus of Quimper
 honorific: Saint
 summary: Fifth century bishop of Quimper in Brittany.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Alorus-of-Quimper.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Alorus-of-Quimper.jpg
 searchAliases:
   - Alar
   - Alor

@@ -2,7 +2,7 @@
 name: Blessed Crescencio Lasheras Aizcorbe
 honorific: Blessed
 summary: Joined the Hospitallers of Saint John of God in 1927. Martyred in the Spanish Civil War
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Crescencio-Lasheras-Aizcorbe.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Crescencio-Lasheras-Aizcorbe.jpg
 searchAliases:
   - Brother Rufino
 birthYear: 1900

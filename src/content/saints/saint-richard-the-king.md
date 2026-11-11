@@ -5,7 +5,7 @@ summary: >-
   Saxon king, possibly of Wessex in modern England. Married, and the father of Saint Willibald, Saint Winebald, and
   Saint Walburga. At least two disparate biographies exist for him, neither of them very creditable. Died suddenly
   during a pilgrimage to Rome, Italy.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Richard-the-King.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Richard-the-King.jpg
 searchAliases:
   - Richard of Lucca
   - Richard of Wessex

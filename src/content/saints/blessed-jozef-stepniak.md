@@ -5,7 +5,7 @@ summary: >-
   Born to a farm family, the son of Paul and Anna Misztal; he was baptized at the age of one day. Jozef's mother died
   when the boy was very small. Studied at the Capuchin college of Saint Fidelis in Lomza, Poland; he was a mediocre
   student, succeeded through simple determination an
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Józef-Stepniak.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Józef-Stepniak.jpg
 searchAliases:
   - Father Florian
   - prisoner 22738

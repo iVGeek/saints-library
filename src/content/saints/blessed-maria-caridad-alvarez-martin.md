@@ -5,7 +5,7 @@ summary: >-
   The daughter of Sotera Martín and Constantino Álvarez, María joined the Augustinian Missionary Sisters in 1955, and
   made her perpetual vows on 3 May 1960. She served in Algeria for more than 30 years, working with the poor and the
   elderly. Murdered by Muslim fundamentalists in th
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-María-Caridad-Álvarez-Martín.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-María-Caridad-Álvarez-Martín.jpg
 birthYear: 1933
 deathYear: 1994
 born: 9 May 1933 in Santa Cruz de Salceda, Burgos, Spain

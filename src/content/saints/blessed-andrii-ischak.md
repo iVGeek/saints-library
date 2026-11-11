@@ -5,7 +5,7 @@ summary: >-
   Greek Catholic. Studied at universities in Lviv, Ukraine, and Innsbruck, Austria. Doctor of theology in 1914,
   receiving his degree from the University of Innsbruck. Ordained in 1914. Teacher at the Lviv Theological Academy in
   1928. Pastor of the Archeparchy of Lviv for the Ukrain
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Andrii-Ischak.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Andrii-Ischak.jpg
 searchAliases:
   - Andrew Ishchak
   - Andreas Iscak

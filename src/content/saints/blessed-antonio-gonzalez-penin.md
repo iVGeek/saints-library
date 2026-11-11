@@ -2,7 +2,7 @@
 name: Blessed Antonio González Penín
 honorific: Blessed
 summary: Mercedarian brother. Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Antonio-González-Penín.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Antonio-González-Penín.jpg
 birthYear: 1864
 deathYear: 1936
 born: 1 March 1864 in San Salvador de Rabal, Celanova, Orense, Spain

@@ -1,7 +1,7 @@
 ---
 name: Blessed Claudio of San Romano
 honorific: Blessed
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Claudio-of-San-Romano.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Claudio-of-San-Romano.jpg
 region: Italy
 feastDay:
   month: 1

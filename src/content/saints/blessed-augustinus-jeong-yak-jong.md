@@ -5,7 +5,7 @@ summary: >-
   Married layman and father. A convert to Catholicism within two years of the first missionaries arriving in the
   country, he brought all his family into the faith. He wrote a two-volume catechism in Korean. Imprisoned, tortured and
   executed in the early days of the Shinyu Persecuti
-image: http://catholicsaints.info/wp-content/uploads/img-Maryrs-of-Korea.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Maryrs-of-Korea.jpg
 birthYear: 1760
 deathYear: 1801
 born: 1760 in Gwangju, Gyeonggi-do, South Korea

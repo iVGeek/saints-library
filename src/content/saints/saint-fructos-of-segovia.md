@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Brother of Saint Engratia of Segovia and Saint Valentine of Segovia. When his brother and sister were martyred by
   invading Moors, Fructos fled and lived out his life as a hermit.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Fructos-of-Segovia.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Fructos-of-Segovia.jpg
 searchAliases:
   - Fruitos
   - Frutos

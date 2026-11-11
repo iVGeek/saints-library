@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Priest in Rome, Italy. With Saint Amantius of Wintershoven, he evangelized areas of modern France and Belgium. Founded
   the church at Wintershoven, Belgium.
-image: http://catholicsaints.info/wp-content/uploads/Landoald-of-Maastricht.jpg
+image: https://catholicsaints.info/wp-content/uploads/Landoald-of-Maastricht.jpg
 searchAliases:
   - Lanoald of Ghent
   - Lanoald of Haspengau

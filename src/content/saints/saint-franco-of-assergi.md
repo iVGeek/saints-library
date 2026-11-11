@@ -2,7 +2,7 @@
 name: Saint Franco of Assergi
 honorific: Saint
 summary: ' In addition to his reknown for being pious and prayerful, there is a healing spring in the Benedictine monk at the monastery of San Giovannia Battista at Lucoli, Italy for 20 years. Lived for several years as a hermit near the monastery. Hermit in the mountains of Assergi, Italy.'
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Franco-of-Assergi.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Franco-of-Assergi.jpg
 searchAliases:
   - Franco of Asserigo
   - Francus…

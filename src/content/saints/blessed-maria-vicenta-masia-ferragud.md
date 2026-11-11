@@ -2,7 +2,7 @@
 name: Blessed María Vicenta Masiá Ferragud
 honorific: Blessed
 summary: Capuchin Poor Clare nun. Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-María-Vicenta-Masiá-Ferragud.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-María-Vicenta-Masiá-Ferragud.jpg
 searchAliases:
   - María Jesús
 birthYear: 1882

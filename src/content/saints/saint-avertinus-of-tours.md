@@ -5,7 +5,7 @@ summary: >-
   Deacon who travelled into exile in France with Saint Thomas Becket. Participated in the synod of Tours, France in
   1163. After the death of Saint Thomas, Avertinus dedicated himself to the service of the poor and strangers at Vinzai,
   Touraine, France, and spent his final years as
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Avertinus-of-Tours.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Avertinus-of-Tours.jpg
 searchAliases:
   - Avertinus the Deacon
   - Avertin…

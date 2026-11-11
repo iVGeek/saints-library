@@ -4,7 +4,7 @@ honorific: Venerable
 summary: >-
   Grandson of the Tlaxcala noble Xicoht&eacute;ncati, and heir to his title and estates. Convert to Christianity. One of
   the Three Child Martyrs of Tlaxcala.
-image: http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Tlaxcala.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Tlaxcala.jpg
 searchAliases:
   - Anthony of Tlaxcala
 birthYear: 1516

@@ -2,7 +2,7 @@
 name: Saint Felix of Nocera
 honorific: Saint
 summary: Martyred with Saint Constantia in the persecutions of Nero.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Felix-of-Nocera.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Felix-of-Nocera.jpg
 searchAliases:
   - Felice
 region: Italy

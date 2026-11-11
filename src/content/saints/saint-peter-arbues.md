@@ -5,7 +5,7 @@ summary: >-
   Born to the nobility, the son of Antonio Arbues and Sancia Ruiz. Studied philosophy at Huesca, Spain. Studied canon
   law at the University of Bologna. Augustinian canon at Saragossa, Spain in 1478. Inquisitor of the Aragonregion of
   Spain in 1484. Forcibly converted Jews and Marran
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Peter-Arbues.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Peter-Arbues.jpg
 searchAliases:
   - Peter of Arbues
 birthYear: 1442

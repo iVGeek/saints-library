@@ -2,7 +2,7 @@
 name: Saint Saturnina of Arras
 honorific: Saint
 summary: Virgin-martyr.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Saturnina-of-Arras.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Saturnina-of-Arras.jpg
 searchAliases:
   - Saturnine
 born: German

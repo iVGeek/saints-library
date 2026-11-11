@@ -5,7 +5,7 @@ summary: >-
   The only son of Augustine Tezza, a physician, and Catherine Nedwiedt. His father died when Louis was nine, and his
   mother moved to Padova, Italy. Entered the Ministers of the Sick of Saint Camillus de Lellis (Camillians) on 8
   December 1858 at age 17 at Verona, Italy; his mother t
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Louis-Tezza.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Louis-Tezza.jpg
 searchAliases:
   - Aloysius Tezza
   - Luigi Tezza

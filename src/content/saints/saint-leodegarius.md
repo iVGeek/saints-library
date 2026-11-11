@@ -5,7 +5,7 @@ summary: >-
   Son of the nobles Bobilo and Saint Sigrada. Brother of Saint Gerinus. Raised in the court of King Clotaire II. Studied
   in Poitiers, France under the guidance of his uncle, the bishop of Poitiers. Deacon in Poitiers, working in diocesan
   administration. Priest. Monk at Maxentius Ab
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Leodegarius-of-Autun-1.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Leodegarius-of-Autun-1.jpg
 searchAliases:
   - Leodegar
   - Leger

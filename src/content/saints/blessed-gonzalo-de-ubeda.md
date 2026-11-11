@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Priest. Auxiliary bishop of Granada, Spain. Mercedarian Commander. Moved his house to Granada c.1500 and build a
   church and convent there.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Gonzalo-de-Ubeda.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Gonzalo-de-Ubeda.jpg
 searchAliases:
   - Gonzalo of Granada
 deathYear: 1538

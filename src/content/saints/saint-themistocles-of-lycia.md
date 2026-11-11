@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Shepherd at Myra, Lycia. Martyred because he would not tell the authorities where Saint Dioscorus was hiding during
   the persecution of Valerian.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Themistocles-of-Lycia.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Themistocles-of-Lycia.jpg
 deathYear: 253
 died: beheaded in 253
 region: England

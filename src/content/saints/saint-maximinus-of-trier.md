@@ -5,7 +5,7 @@ summary: >-
   Born to the Gallic nobility. Brother of Saint Maxentius of Poitiers. Educated and ordained by Saint Agritius, whom he
   succeeded as bishop of Trier in 332 or 335. Trier was the government seat of the Western Empire, and his office put
   Maximinus close contact with Emperors Constant
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Maximinus-of-Trier.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Maximinus-of-Trier.jpg
 searchAliases:
   - Maximinus of Treviri
   - Maximin

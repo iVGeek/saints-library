@@ -2,7 +2,7 @@
 name: Saint Annobert of Séez
 honorific: Saint
 summary: Monk at Almenèches, France. Bishop of Séez, France c.685.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Annobert-of-Séez.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Annobert-of-Séez.jpg
 searchAliases:
   - Alnobert
   - Alnobertus

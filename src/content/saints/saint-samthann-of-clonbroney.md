@@ -5,7 +5,7 @@ summary: >-
   Fled an arranged marriage to become a nun. Spiritual student of Saint Cognat at Ernaide. Founded Clonbroney
   (Cluain-Bronach) Abbey in County Longford, a house that refused large donations for fear of losing the simplicity of
   their lives. Her cultus was promoted by Saint Virgilius
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Samthann-of-Clonbroney.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Samthann-of-Clonbroney.jpg
 searchAliases:
   - Samthan
   - Samthana

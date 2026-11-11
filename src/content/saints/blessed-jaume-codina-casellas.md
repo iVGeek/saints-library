@@ -2,7 +2,7 @@
 name: Blessed Jaume Codina Casellas
 honorific: Blessed
 summary: Mercedarian brother. Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Jaume-Codina-Casellas.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Jaume-Codina-Casellas.jpg
 birthYear: 1901
 deathYear: 1936
 born: 3 May 1901 in Aguilar de Segarra, Barcelona, Spain

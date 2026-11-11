@@ -5,7 +5,7 @@ summary: >-
   Joined the Dominicans in 1697. Ordained on 24 September 1704. Missionary to the Philippines in 1712. Missionary to
   China in 1713. Co-adjutor vicar apostolic of Fo-Kien, China on 29 January 1728. Bishop co-adjutor and titular bishop
   of Mauricastro on 24 February 1730. Vicar aposto
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Pere-Sans-Jordà.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Pere-Sans-Jordà.jpg
 searchAliases:
   - Pedro Sanz
   - Peter Sanz

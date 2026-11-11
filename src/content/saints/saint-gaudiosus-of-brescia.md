@@ -2,7 +2,7 @@
 name: Saint Gaudiosus of Brescia
 honorific: Saint
 summary: Bishop of Brescia, Italy.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Gaudiosus-of-Brescia.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Gaudiosus-of-Brescia.jpg
 searchAliases:
   - Gaudioso
 deathYear: 445

@@ -2,7 +2,7 @@
 name: Saint Augustinus Park Chong-Won
 honorific: Venerable
 summary: Lay catechist in the apostolic vicariate of Korea. Martyr.
-image: http://catholicsaints.info/wp-content/uploads/img-Maryrs-of-Korea.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Maryrs-of-Korea.jpg
 searchAliases:
   - Auguseutino Bak Jong-Weon
 birthYear: 1793

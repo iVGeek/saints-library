@@ -2,7 +2,7 @@
 name: Blessed Pascual Ferrer Botella
 honorific: Blessed
 summary: Priest in the archdiocese of Valencia, Spain. Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Pascual-Ferrer-Botella.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Pascual-Ferrer-Botella.jpg
 searchAliases:
   - Jose Pascual Ramon Ferrer Botella
 birthYear: 1894

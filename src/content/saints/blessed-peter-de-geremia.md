@@ -5,7 +5,7 @@ summary: >-
   Educated at the University of Bologna, Italy; brilliant law student. One night while he meditated on the worldly
   success he would have, he was visited by the spirit of a deceased relative, a man who had also been a lawyer, whose
   pride and perjury had lost him his chance at paradi
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Peter-de-Geremia.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Peter-de-Geremia.jpg
 searchAliases:
   - Pietro Geremia
 birthYear: 1381

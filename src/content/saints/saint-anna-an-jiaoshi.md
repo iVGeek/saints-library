@@ -2,7 +2,7 @@
 name: Saint Anna An Jiaoshi
 honorific: Venerable
 summary: Married lay woman in the apostolic vicariate of Southeastern Zhili, China. Martyred in the Boxer Rebellion.
-image: http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-China1.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-China1.jpg
 birthYear: 1874
 deathYear: 1900
 born: c.1874 in Anping, Hebei, China

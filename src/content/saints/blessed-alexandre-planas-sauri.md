@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Deaf layman in the archdiocese of Barcelona, Spain. Member of the Salesian Cooperators whom he considered his family.
   Skiled sculptor. Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Alexandre-Planas-Saurí.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Alexandre-Planas-Saurí.jpg
 birthYear: 1878
 deathYear: 1936
 born: 31 October 1878 in Mataró, Barcelona, Spain

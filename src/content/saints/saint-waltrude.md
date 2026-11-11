@@ -5,7 +5,7 @@ summary: >-
   Daughter of Saint Bertille and Saint Walbert of Hainault. Sister of Saint Aldegundis. Married to Saint Vincent
   Madelgaire, count of Hainault, a lord in King Dagobert's court. Mother of two sons and two daughters - including Saint
   Landericus of Soignies, Saint Madalberta and Saint
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Waltrudis.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Waltrudis.jpg
 searchAliases:
   - Valdetrudis
   - Vaudru

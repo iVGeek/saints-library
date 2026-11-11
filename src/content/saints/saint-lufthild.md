@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Abused by a jealous step-mother for her kindness to the poor, Lufthild left home young to live as an often-homeless
   hermit in and around Cologne, Germany.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Lufthild.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Lufthild.jpg
 searchAliases:
   - Lufthildis
 deathYear: 850

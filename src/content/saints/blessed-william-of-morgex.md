@@ -5,7 +5,7 @@ summary: >-
   Priest. We have no certain information about this person except there was a tradition of a Blessed William in the town
   of Morgex, Italy, possibly from the 8th century. A grave was discovered in the Léaval Plaza at the church of Santa
   Maria Assunta in Morgex in 1687; a chalice and
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-William-of-Morgex.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-William-of-Morgex.jpg
 searchAliases:
   - William of Léaval
 deathYear: 1687

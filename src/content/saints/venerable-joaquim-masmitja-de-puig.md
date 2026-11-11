@@ -5,7 +5,7 @@ summary: >-
   Ordained a priest of the diocese of Girona, Spain on 22 February 1834. Founded the Daughters of the Most Holy and
   Immaculate Heart of the Blessed Virgin Mary, a teaching order later renamed Missionary Sisters of the Immaculate Heart
   of Mary, in 1848.
-image: http://catholicsaints.info/wp-content/uploads/img-Venerable-Joaquim-Masmitjà-de-Puig.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Joaquim-Masmitjà-de-Puig.jpg
 searchAliases:
   - Joaquin Masmitjà
 birthYear: 1808

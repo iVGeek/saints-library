@@ -5,7 +5,7 @@ summary: >-
   Born to the nobility, the only son of Giovanna Battista Gigli and Leopoldo Marcucci. Francesco was drawn to the
   priesthood, but as he was an only child, his family objected. When his mother died, he moved to Rome, Italy. With the
   support of his aunt, Contessa Francesca Gastaldi,
-image: http://catholicsaints.info/wp-content/uploads/Francisco-Antonio-Marcucci.jpg
+image: https://catholicsaints.info/wp-content/uploads/Francisco-Antonio-Marcucci.jpg
 birthYear: 1717
 deathYear: 1798
 born: 27 November 1717 in Force, Ascoli Piceno, Italy

@@ -2,7 +2,7 @@
 name: Saint Felicity of Rome
 honorific: Saint
 summary: Rich, noble widow. Mother of seven sons, all of whom were martyred
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Felicity-and-her-Sons.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Felicity-and-her-Sons.jpg
 searchAliases: []
 deathYear: 165
 died: beheaded in 165 at Rome, Italy

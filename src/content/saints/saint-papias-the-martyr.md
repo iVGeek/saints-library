@@ -2,7 +2,7 @@
 name: Saint Papias the Martyr
 honorific: Saint
 summary: Tortured and martyred in the persecutions of Diocletian.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Papias-the-Martyr.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Papias-the-Martyr.jpg
 searchAliases:
   - Papius
   - Pappio

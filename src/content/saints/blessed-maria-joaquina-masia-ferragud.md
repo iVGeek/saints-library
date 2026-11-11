@@ -2,7 +2,7 @@
 name: Blessed María Joaquina Masiá Ferragud
 honorific: Blessed
 summary: Capuchin Poor Clare nun. Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-María-Joaquina-Masiá-Ferragud.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-María-Joaquina-Masiá-Ferragud.jpg
 searchAliases:
   - María Veronica
 birthYear: 1884

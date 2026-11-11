@@ -2,7 +2,7 @@
 name: Saint Antonio González
 honorific: Venerable
 summary: Dominican priest. Missionary to Japan. Martyr.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Antonio-González.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Antonio-González.jpg
 birthYear: 1593
 born: 1593 in León, Spain
 birthPlace: Spain

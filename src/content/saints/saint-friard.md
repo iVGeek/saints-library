@@ -5,7 +5,7 @@ title: Hermit
 summary: >-
   Hermit on the island of Vindomitte, France. Friend of Saint Secundel. When tormented for his piety, a cloud of wasps
   attacked his tormenters; when Friard prayed for them, the wasps left.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Friard.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Friard.jpg
 searchAliases:
   - Friardo
 birthYear: 511

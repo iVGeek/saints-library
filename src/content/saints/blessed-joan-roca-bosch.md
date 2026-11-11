@@ -2,7 +2,7 @@
 name: Blessed Joan Roca Bosch
 honorific: Blessed
 summary: Member of the Benedictine Subiaco Congregation. Priest. Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Joan-Roca-Bosch.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Joan-Roca-Bosch.jpg
 birthYear: 1884
 deathYear: 1936
 born: 11 July 1884 in Guisona, Lleida, Spain

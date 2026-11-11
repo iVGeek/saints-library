@@ -5,7 +5,7 @@ summary: >-
   Jewish dynasty which began with the rebellion of Mathathias and his five sons against the Syrian king, Antiochus IV
   (168 BC) and ruled the fortunes of Israel until the advent of Herod the Great. Syrian attempts to force Greek paganism
   on the Jews, the profanation of the Temple at
-image: http://catholicsaints.info/wp-content/uploads/img-Holy-Maccabees.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Holy-Maccabees.jpg
 searchAliases:
   - The Machabees
 region: Turkey

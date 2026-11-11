@@ -5,7 +5,7 @@ summary: >-
   One of five children born to Pasquale Mariano Esposito and Rosa Maria Aversa, Aniello was baptized on the day he was
   born, and grew up on a farm. He joined the Franciscan Friar Minor Alcantarini on 17 September 1844, and made his
   perpetual profession on 11 May 1848. Ordained a pr
-image: http://catholicsaints.info/wp-content/uploads/img-Venerable-Aniello-Maresca.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Aniello-Maresca.jpg
 searchAliases:
   - Simpliciano of the Nativity
   - Simpliciano Maresca

@@ -5,7 +5,7 @@ summary: >-
   Married lay evangelist who worked tirelessly to spread the faith in Gaul. He arrived Nîmes, France during a sacrifice
   to the Roman god Veiovis; he knocked over the statue, interrupted the sacrifice, preached against false gods, and was
   immediately seized, whipped and murdered. Ma
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Baudelius-of-Nimes.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Baudelius-of-Nimes.jpg
 searchAliases:
   - Baldiri
   - Basile

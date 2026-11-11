@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Poor day labourer. Lay Dominican tertiary in the apostolic vicariate of East Tonkin. Catechist. Ordered by government
   authorities to trample a cross to show his renunciation of the faith; he declined. One of the Martyrs of Vietnam.
-image: http://catholicsaints.info/wp-content/gallery/martyrs-of-vietnam/martyrs-of-vietnam-01.jpg
+image: https://catholicsaints.info/wp-content/gallery/martyrs-of-vietnam/martyrs-of-vietnam-01.jpg
 searchAliases:
   - Augustinô Nguyen Van Moi
 birthYear: 1806

@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Wealthy widow in Rome, Italy. Converted to Christianity by her Syrian servant Serapia. Serapia was martyred, and
   Sabina about a month later. Basilica on the Aventine in Rome named for her, and her cultus is confined to it.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Sabina.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Sabina.jpg
 deathYear: 126
 died: 126 in Rome, Italy
 deathPlace: Italy

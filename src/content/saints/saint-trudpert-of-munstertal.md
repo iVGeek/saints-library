@@ -5,7 +5,7 @@ summary: >-
   Abbot. Following a pilgrimage to Rome, he became a missionary hermit at Münstertal, Germany. Legend says that some
   workers, paid by a local lord to clear difficult land to establish a foundation for Trudpert, were fed up with the
   hard work and killed Trudpert to end the job. Cons
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Trudpert.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Trudpert.jpg
 searchAliases:
   - Trudpert of Ménstethal
   - Trudbert…

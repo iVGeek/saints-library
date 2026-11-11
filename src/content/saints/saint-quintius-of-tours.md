@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Worked in the court of the king of the Franks. When the queen tried to seduce him, Quintius refused, explaining that
   his faith prohibited adultery; angered at the rejection, she had Quintius murdered.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Quintius-of-Tours.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Quintius-of-Tours.jpg
 searchAliases:
   - Quentin
   - Quintino

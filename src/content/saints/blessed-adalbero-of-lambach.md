@@ -5,7 +5,7 @@ summary: >-
   Son of Count Arnold II of Lambach, Austria and Countess Reginlint. Studied in the cathedral school at Würzburg,
   Germany, and in Paris, France. Member of the court of King Henry III. Helped found the Benedictine abbey of Lambach
   c.1040. Bishop of W&uuml;rzburg, Germany in 1045. Wo
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Adalbero-of-Lambach.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Adalbero-of-Lambach.jpg
 searchAliases:
   - Adalbero of W&uuml;rzburg
   - Adalberone di Lambach

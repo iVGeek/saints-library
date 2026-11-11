@@ -5,7 +5,7 @@ summary: >-
   Worked as a carver in the imperial quarries at modern Sremska Mitrovica, Serbia for emperor Diocletian. Imprisoned for
   refusing to sacrifice to pagan gods during the persecutions of Diocletian. Tortured and executed after being falsely
   accused of the murder of an imperial officer
-image: http://catholicsaints.info/wp-content/uploads/img-Four-Crowned-Martyrs.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Four-Crowned-Martyrs.jpg
 searchAliases:
   - Castorius
 died: in Pannonia, Hungary

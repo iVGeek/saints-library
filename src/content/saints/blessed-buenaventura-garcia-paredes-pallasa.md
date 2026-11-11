@@ -5,7 +5,7 @@ summary: >-
   Born to a pious family of shepherds, and he worked the fields as a boy. Educated at the Dominican Apostolic School.
   Dominican novice in Toledo, Spain; he made his solemn profession in 1887, taking the name Bonaventure of Saint Louis
   Bertran. Studied theology in Avila, Salamanca,
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Buenaventura-García-Paredes-Pallasá.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Buenaventura-García-Paredes-Pallasá.jpg
 birthYear: 1866
 deathYear: 1936
 born: 19 April 1866 in Castañedo, Valdés, Asturias, Spain

@@ -5,7 +5,7 @@ summary: >-
   The oldest of three children, his family moved to Argentina when Ángel was eight years old, but returned to Spain four
   years later. Seminarian in Madrid and Santander. Ordained a priest on 25 July 1926 in the diocese of Astorga, Spain.
   Founded a Catholic Action group in his paris
-image: http://catholicsaints.info/wp-content/uploads/img-Venerable-Ángel-Riesco-Carbajo.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Ángel-Riesco-Carbajo.jpg
 birthYear: 1902
 deathYear: 1972
 born: 9 July 1902 in Bercianos de Vidriales, Zamora, Spain

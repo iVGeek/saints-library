@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Son of a Roman senator. Converted to Christianity by Saint Saturninus. Ordained by Saint Honestus at Toulouse, France.
   Missionary to France. First bishop of Amiens at age 24. Martyred at age 31.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Firminus-of-Amiens.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Firminus-of-Amiens.jpg
 searchAliases:
   - Farmin of…
   - Firmin of…

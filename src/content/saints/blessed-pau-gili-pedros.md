@@ -2,7 +2,7 @@
 name: Blessed Pau Gili Pedrós
 honorific: Blessed
 summary: Priest of the archdiocese of Tarragona, Spain. Martyed in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Pau-Gili-Pedrós.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Pau-Gili-Pedrós.jpg
 birthYear: 1912
 deathYear: 1936
 born: 29 January 1912 in Els Omellons, Lleida, Spain

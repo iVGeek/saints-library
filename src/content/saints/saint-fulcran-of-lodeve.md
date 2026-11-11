@@ -5,7 +5,7 @@ summary: >-
   Pious youth who early decided on a life in the Church. Priest. Bishop of Lodève, France for 57 years, consecrated on 4
   February 949. Rebuilt many churches and convents. Founded the monastery of Saint Sauveur, and several hospitals for
   the poor. Untiring reformer and supporter of
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Fulcrain.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Fulcrain.jpg
 searchAliases:
   - Fulcrano
   - Fulcranno

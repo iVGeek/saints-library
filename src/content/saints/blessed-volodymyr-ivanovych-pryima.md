@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Greek Catholic. Layman, married and a father. Cantor and choir director at Stradch. Martyred with Blessed Mykola
   Konrad while returning from a sick call.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Volodymyr-Ivanovych-Pryima.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Volodymyr-Ivanovych-Pryima.jpg
 birthYear: 1906
 deathYear: 1941
 born: 17 July 1906 at Stradch, Yavoriv, L’vivs’ka oblast’, Ukraine

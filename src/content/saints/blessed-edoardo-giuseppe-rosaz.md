@@ -5,7 +5,7 @@ summary: >-
   Ordained in 1854 at Nice, France. Worked in prison ministry. Wrote a catechism. Founded a home for abused and
   abandoned children in 1856. Founded the Sisters of the Third Order of Saint Francis of Susa. Bishop of Susa, Italy on
   24 February 1878.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Edoardo-Giuseppe-Rosaz.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Edoardo-Giuseppe-Rosaz.jpg
 searchAliases:
   - Edward Joseph Rosaz
   - Edvard Josef Rosaz

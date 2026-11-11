@@ -6,7 +6,7 @@ summary: >-
   Mercedarian friar. Commander of the house of Carcassonne, France. In 1318 he went on the road as a pilgrim to collect
   alms to ransom Christians held in slavery in Muslim controlled territories. His pilgrim's staff had a flag with the
   image of Our Lady of Mercy, a slave kneeling a
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Claudio-di-Portaceli.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Claudio-di-Portaceli.jpg
 born: France
 region: France
 feastDay:

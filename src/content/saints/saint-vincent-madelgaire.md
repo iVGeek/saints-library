@@ -5,7 +5,7 @@ summary: >-
   Married to Saint Waltrude c.635; son-in-law of Saint Bertille. Father of four: Saint Madalberta, Saint Landericus,
   Saint Dentlin of Soignies, and Saint Aldetrudis. Sent by King Dagobert I to Ireland to recruit monks to work as
   missionaries in the region. Founded the Benedictine a
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Vincent-Madelgaire.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Vincent-Madelgaire.jpg
 searchAliases:
   - Madelgaire
   - Madelgarus

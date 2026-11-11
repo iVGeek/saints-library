@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Archdeacon at Carthage, North Africa. Martyred with several thousand of his flock in the persecutions of the Arian
   Vandal King Hunneric.
-image: http://catholicsaints.info/wp-content/uploads/Octavian.jpg
+image: https://catholicsaints.info/wp-content/uploads/Octavian.jpg
 searchAliases:
   - Octavius
   - Ottaviano

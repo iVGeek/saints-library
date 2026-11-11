@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Born to the nobility. Soldier. Martyr. A late legend makes him an escaped member of the Theban Legend, but that's
   doubtful.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Paragorius-of-Noli.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Paragorius-of-Noli.jpg
 born: Noli, Italy
 died: Corsica, France
 birthPlace: Italy

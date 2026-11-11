@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Convert at about age eleven. Catechist with Blessed Daudi Okelo. Local chiefs demanded that the two of them stop
   teaching the Gospel; they refused. Martyr.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Daudi-Okelo.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Daudi-Okelo.jpg
 birthYear: 1906
 deathYear: 1918
 born: c.1906 in Bar Kitoba, Kitgum, Uganda, Acholi tribe

@@ -6,7 +6,7 @@ summary: >-
   Dean at the chapter of Saint Servatius. Bishop of Tongeren-Maastricht, Netherlands in the early 7th century. Helped
   build churches in many of the towns and villages of his diocese. Attended the council of Paris, France in 614. Helped
   to rebuild the town of Tongeren which had been
-image: http://catholicsaints.info/wp-content/uploads/img-Saints-Monulph-and-Gondulph.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saints-Monulph-and-Gondulph.jpg
 searchAliases:
   - Gondulf of Maastricht
   - Gondulf of Tongeren

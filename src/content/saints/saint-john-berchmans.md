@@ -5,7 +5,7 @@ summary: >-
   Son of a shoemaker, and one of five children, three of whom entered religious life. John had great devotion to his
   position as an altar boy. He spent much of his time caring for his mother, who was in poor health. Jesuit noviate in
   1616, deciding to become a Jesuit after reading
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-John-Berchmans.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-John-Berchmans.jpg
 searchAliases:
   - Jan Berchmans
 birthYear: 1599

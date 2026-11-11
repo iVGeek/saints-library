@@ -2,7 +2,7 @@
 name: Saint Heliconis of Thessalonica
 honorific: Saint
 summary: Tortured, mutilated and martyred in the persecutions of Decius for refusing to worship idols.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Heliconis.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Heliconis.jpg
 searchAliases:
   - Eliconide
   - Helconis

@@ -2,7 +2,7 @@
 name: Blessed Pau Segalà Solé
 honorific: Blessed
 summary: Priest in the diocese of Urgell, Spain. Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Venerable-Pau-Segalà-Solé.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Pau-Segalà-Solé.jpg
 searchAliases:
   - Pablo Segalà Solé
 birthYear: 1903

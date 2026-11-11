@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Daughter of Saint Elizabeth of Hungary and Louis IV, landgrave of Thuringia. Educated at Altenberg Abbey. Cistercian
   nun at Altenberg. Chosen abbess when very young, and led the house for 50 years.
-image: http://catholicsaints.info/wp-content/uploads/img-Gertrud-von-Altenberg.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Gertrud-von-Altenberg.jpg
 birthYear: 1227
 deathYear: 1297
 born: '1227'

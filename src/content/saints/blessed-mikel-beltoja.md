@@ -5,7 +5,7 @@ summary: >-
   Received theological training from Bishop Ernest Çoba of Shkodrë, Albania. Ordained on 8 December 1961 as a priest of
   the archdiocese of Shkodrë-Pult, Albania. When the Communist government closed all churches in Albania in March 1967,
   Father Mikel travelled from village to villa
-image: http://catholicsaints.info/wp-content/uploads/img-Dom-Mikel-Beltoja.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Dom-Mikel-Beltoja.jpg
 birthYear: 1935
 deathYear: 1974
 born: 9 May 1935 in Beltoj, Shkodrë, Albania

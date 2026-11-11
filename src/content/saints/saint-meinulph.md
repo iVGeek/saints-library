@@ -5,7 +5,7 @@ summary: >-
   Born to the nobility; his godfather was Charlemagne. Educated at the cathedral school of Paderborn, Germany.
   Archdeacon of Paderborn in 836. Priest. Noted preacher and evangelist. Founded the convent of Böddeken in Westphalia,
   Germany; legend says that abbey site was a place wher
-image: http://catholicsaints.info/wp-content/uploads/Relief_St.Meinolf_Dreifaltigkeitskapelle_im_Paderborner_Dom.jpg
+image: https://catholicsaints.info/wp-content/uploads/Relief_St.Meinolf_Dreifaltigkeitskapelle_im_Paderborner_Dom.jpg
 searchAliases:
   - Meinolf
   - Meinolfo

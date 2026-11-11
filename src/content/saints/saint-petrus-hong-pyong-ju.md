@@ -2,7 +2,7 @@
 name: Saint Petrus Hong Pyong-Ju
 honorific: Venerable
 summary: Lay catechist in the apostolic vicariate of Korea. Martyr.
-image: http://catholicsaints.info/wp-content/uploads/img-Maryrs-of-Korea.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Maryrs-of-Korea.jpg
 searchAliases:
   - Peteuro Hong Byeong-Ju
 birthYear: 1799

@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Spiritual student of Saint Ambrose of Milan and Saint Martin of Tours in France. Missionary. Bishop of Angers, France
   c.407.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Maurilius-of-Angers.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Maurilius-of-Angers.jpg
 searchAliases:
   - Maurilio
 deathYear: 430

@@ -5,7 +5,7 @@ summary: >-
   Born to a wealthy and prominent noble Italian family. Well educated, especially in theology and law. Ordained, he
   served as canon to Holy Cross Abbey in Mortara, Italy. Abbey prior. Bishop of Bobbio, Italy in 1184. Bishop of
   Vercelli, Italy. Mediated disputes between Pope Clement
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Albert-of-Jerusalem.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Albert-of-Jerusalem.jpg
 searchAliases:
   - Albert Avogadro
   - Albert of Acre

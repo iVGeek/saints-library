@@ -5,7 +5,7 @@ summary: >-
   Daughter of a wealthy farmer, she grew up during the French Revolution, and saw her family risk everything by hiding
   priests. Pious girl who wanted to devote herself to teaching children and helping the poor. In 1800 she had a vision
   in Besan&ccedil;on where she was surrounded by
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Anne-Mary-Javouhey.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Anne-Mary-Javouhey.jpg
 birthYear: 1779
 deathYear: 1851
 born: 10 November 1779 at Jallanges, France

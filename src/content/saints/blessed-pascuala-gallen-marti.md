@@ -5,7 +5,7 @@ summary: >-
   Born to a pious family - she and her three sisters all became nuns. Pascuala joined the Sisters of the Pious Schools
   at San Martin of Provensals on 30 August 1892. Taught for seven years at the College of Olesa of Montserrat, and then
   was assigned to Valencia, Spain. Martyred in
-image: http://catholicsaints.info/wp-content/uploads/img-Piarist-Martyrs.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Piarist-Martyrs.jpg
 searchAliases:
   - Sister Presentación of the Holy Family
 birthYear: 1872

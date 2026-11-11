@@ -2,7 +2,7 @@
 name: Blessed Amparo Hinojosa Naveros
 honorific: Blessed
 summary: Member of the Visitation Nuns. Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Amparo-Hinojosa-Naveros.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Amparo-Hinojosa-Naveros.jpg
 searchAliases:
   - Sister María Gabriela
 birthYear: 1872

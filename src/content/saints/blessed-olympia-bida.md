@@ -5,7 +5,7 @@ summary: >-
   Greek Catholic. Joined the Congregation of the Sisters of Saint Joseph. Worked in several towns as a catechist and
   novice director, and with the aged and sick. Taught and helped to raise several young women. Convent superior in
   Kheriv where the Communists worked against her. Arre
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Olympia-Bida.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Olympia-Bida.jpg
 searchAliases:
   - Olga
   - Olha

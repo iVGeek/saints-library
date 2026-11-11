@@ -2,7 +2,7 @@
 name: Saint Peter of Palestine
 honorific: Saint
 summary: Imprisoned, tortured and martyred for his faith.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Peter-Balsam.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Peter-Balsam.jpg
 searchAliases:
   - Peter Balsam
   - Peter Aulanus

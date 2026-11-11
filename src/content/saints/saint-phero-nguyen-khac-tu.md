@@ -4,7 +4,7 @@ honorific: Venerable
 summary: >-
   Layman catechist in the apostolic vicariate of West Tonkin (in modern Vietnam. Martyred in the persecutions of emperor
   Minh Mang.
-image: http://catholicsaints.info/wp-content/gallery/martyrs-of-vietnam/martyrs-of-vietnam-01.jpg
+image: https://catholicsaints.info/wp-content/gallery/martyrs-of-vietnam/martyrs-of-vietnam-01.jpg
 searchAliases:
   - Peter
   - Pietro

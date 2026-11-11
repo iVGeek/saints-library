@@ -2,7 +2,7 @@
 name: Saint Barbara Ch'oe Yong-i
 honorific: Venerable
 summary: Young married lay woman in the apostolic vicariate of Korea. Martyr.
-image: http://catholicsaints.info/wp-content/uploads/img-Maryrs-of-Korea.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Maryrs-of-Korea.jpg
 searchAliases:
   - Bareubara Choe Yeong-i
 birthYear: 1819

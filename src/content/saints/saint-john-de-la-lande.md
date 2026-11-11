@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Layman. Worked with Jesuit missionaries in North America. Martyred with Saint Isaac Jogues while on a trip to the
   Iroquois territory.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-John-de-la-Lande.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-John-de-la-Lande.jpg
 searchAliases:
   - Jean Lalande
   - John Lalande

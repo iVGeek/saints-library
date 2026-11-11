@@ -5,7 +5,7 @@ summary: >-
   Born to the Italian nobility, he received a good education in music, literature and the sciences. As a young man he
   felt a call to religious life, gave away all he had to the poor, and left home to live as a hermit in the area of
   Campania, Italy. He and a another hermit, named Gi
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Giulio-of-Montevergine.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Giulio-of-Montevergine.jpg
 searchAliases:
   - Julio
   - Julius

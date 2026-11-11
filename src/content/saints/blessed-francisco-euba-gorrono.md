@@ -2,7 +2,7 @@
 name: Blessed Francisco Euba Gorroño
 honorific: Blessed
 summary: Trinitarian priest. Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Francisco-Euba-Gorroño.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Francisco-Euba-Gorroño.jpg
 searchAliases:
   - Francisco of Saint Lawrence
 birthYear: 1889

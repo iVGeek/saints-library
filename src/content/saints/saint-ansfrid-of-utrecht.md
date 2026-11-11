@@ -5,7 +5,7 @@ summary: >-
   Count of Brabant. Married to Hilsondis; father of one daughter; after the girl's birth, Ansfrid and Hilsondis, lived
   as brother and sister. Courtier and knight in the service of Holy Roman Emperor Otto III and Saint Henry II. After
   many years of this life he realized a call to re
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Ansfrid-of-Utrecht.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Ansfrid-of-Utrecht.jpg
 searchAliases:
   - Ansfridus
   - Ansfried

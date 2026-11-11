@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Wealthy merchant, and a cousin of King Olaf of Norway. Killed when he defended a woman falsely accused of theft.
   Martyr.
-image: http://catholicsaints.info/wp-content/uploads/Clipboard01-1.jpg
+image: https://catholicsaints.info/wp-content/uploads/Clipboard01-1.jpg
 deathYear: 1043
 born: Norway
 died: 15 May 1043

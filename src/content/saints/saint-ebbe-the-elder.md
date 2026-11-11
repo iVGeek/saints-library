@@ -5,7 +5,7 @@ summary: >-
   Daughter of the pagan King Aethelfrith the Ravager of Bernicia and Princess Aacha of Deira, one of seven children.
   Sister of Saint Oswald of Northumbria and King Oswiu. Niece of Saint Ethelreda. When her father was killed in battle
   when Ebbe was about ten years old, her mother fl
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Ebbe-the-Elder.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Ebbe-the-Elder.jpg
 searchAliases:
   - Ebbe of Coldingham
   - Abbs….

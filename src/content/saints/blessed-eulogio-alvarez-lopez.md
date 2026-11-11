@@ -2,7 +2,7 @@
 name: Blessed Eulogio Álvarez López
 honorific: Blessed
 summary: Trappist monk. Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Martyred-Cistercians-of-the-Spanish-Civil-War.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Martyred-Cistercians-of-the-Spanish-Civil-War.jpg
 birthYear: 1916
 deathYear: 1936
 born: 28 July 1916 in Quintana de Fuseros, León, Spain

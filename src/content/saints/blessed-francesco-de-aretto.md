@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Mercedarian friar. Evangelized the area of Provence (in modern France), working to convert Muslims and free enslaved
   Christians.
-image: http://catholicsaints.info/wp-content/uploads/img-Four-Mercedarians.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Four-Mercedarians.jpg
 region: France
 feastDay:
   month: 2

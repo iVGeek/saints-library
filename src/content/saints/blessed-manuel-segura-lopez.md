@@ -5,7 +5,7 @@ summary: >-
   Worked at the Piarist school in Zaragoza, Spain. Entered the Piarist novitiate at age 18, and was professed in 1901.
   Ordained in 1907 in the diocese of Barbastro, Spain. Parish priest in the Spanish cities of Barbastro, Tamarite de
   Litera, Pamplona, Tafalla, Torre de Cascajo and
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Manuel-Segura-López.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Manuel-Segura-López.jpg
 searchAliases:
   - Manuel of the Virgin of the Pillar
   - Emanuele Segura

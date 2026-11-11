@@ -2,7 +2,7 @@
 name: Blessed Ramón Martí Soriano
 honorific: Blessed
 summary: Priest in the archdiocese of Valencia, Spain. Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Ramón-Martí-Soriano.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Ramón-Martí-Soriano.jpg
 birthYear: 1902
 deathYear: 1936
 born: 7 October 1902 in Burjassot, Valencia, Spain

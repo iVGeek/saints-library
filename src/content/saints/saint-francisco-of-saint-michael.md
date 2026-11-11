@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Franciscan lay brother, joining the Order in 1566. Missionary to Phillipines and Japan. Arrested in Osaka with Saint
   Peter Baptist in 1596. One of the Martyrs of Nagasaki.
-image: http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Nagasaki.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Nagasaki.jpg
 searchAliases:
   - Francisco Andrade Arco
   - Francis….

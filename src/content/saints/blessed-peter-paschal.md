@@ -5,7 +5,7 @@ summary: >-
   Received his doctorate from the University of Paris, France. Joined the Mercedarians in 1250. Priest. Tutor to Don
   Sancho, son of the king of Aragon (part of modern Spain), in 1253. Bishop of Jaén, Spain in 1289 during a period when
   the diocese was in territory controlled by Moor
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Peter-Paschal.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Peter-Paschal.jpg
 searchAliases:
   - Peter Pascual
   - Peter Pascualez

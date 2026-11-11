@@ -5,7 +5,7 @@ summary: >-
   French nobility. Pious and studious youth. Augustinian priest. Curate of Oresscoth in Brabant. Worked with Saint
   Frederick of Utrecht to evangelize the Frisons. Canon of the cathedral at Utrecht, Netherlands where he worked to set
   a good example of prayer and fasting to laymen. F
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Odulph-of-Utrecht.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Odulph-of-Utrecht.jpg
 searchAliases:
   - Odulph of Stavoren
   - Odolfo…

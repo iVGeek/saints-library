@@ -2,7 +2,7 @@
 name: Blessed Vicente Simões de Carvalho
 honorific: Blessed
 summary: Augustinian priest. Martyr.
-image: http://catholicsaints.info/wp-content/uploads/img-Augustinian-Martyrs-of-Japan.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Augustinian-Martyrs-of-Japan.jpg
 searchAliases:
   - Vicente of Saint Anthony
 birthYear: 1590

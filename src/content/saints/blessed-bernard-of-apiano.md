@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Mercedarian at the convent of Saint Martin in Perpignan, France. He was noted for his personal piety, hist observance
   of the Mercedarian rule, and his depth of education.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Bernard-of-Apiano.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Bernard-of-Apiano.jpg
 region: France
 feastDay:
   month: 11

@@ -5,7 +5,7 @@ summary: >-
   The son of José Blanch Bosch, a secretary, and Maria Ferrer Raurell, Jacinto was baptized on the day of his birth in
   his parish church of Santa Maria. His was a large and pious family; all his siblings would enter religious life, five
   of them as Claretian Missionaries. He made hi
-image: http://catholicsaints.info/wp-content/uploads/img-Jacinto-Blanch-Ferrer.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Jacinto-Blanch-Ferrer.jpg
 birthYear: 1868
 deathYear: 1936
 born: 27 April 1868 in Vilanova de Sau, Barcelona, diocese of Vic, Spain

@@ -4,7 +4,7 @@ honorific: Venerable
 summary: >-
   Priest in the apostolic vicariate of West Cochinchina (modern Vietnam). Martyred in the persecutions of emperor Tu
   Ðuc.
-image: http://catholicsaints.info/wp-content/gallery/martyrs-of-vietnam/martyrs-of-vietnam-01.jpg
+image: https://catholicsaints.info/wp-content/gallery/martyrs-of-vietnam/martyrs-of-vietnam-01.jpg
 searchAliases:
   - Paul Le-Van-Loc
 birthYear: 1830

@@ -5,7 +5,7 @@ summary: >-
   Nun, joining the Institute of the Servants of Mary at age 18, taking name Maria Josefa of the Heart of Mary. Helped
   found the Institute of the Servants of Jesus in Bilbao, Spain in 1871; the Institute sisters care for the children,
   the sick, the elderly and the abandoned in hospi
-image: http://catholicsaints.info/wp-content/uploads/Maria-Josefa-Sancho-de-Guerra.jpg
+image: https://catholicsaints.info/wp-content/uploads/Maria-Josefa-Sancho-de-Guerra.jpg
 searchAliases:
   - Maria Josefa of the Heart of Jesus
   - Maria Giuseppina del Cuore di Gesù

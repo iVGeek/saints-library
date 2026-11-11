@@ -5,7 +5,7 @@ summary: >-
   Oldest of four sons born to Newton and Delia Sheen. Suffered from tuberculosis as an infant. Ordained on 20 September
   1919 in the Diocese of Peoria, Illinois. Earned a doctorate in philosophy at Catholic University in Leuven, Belgium in
   1923, and won the Cardinal Mercier award fo
-image: http://catholicsaints.info/wp-content/uploads/Venerable-Fulton-John-Sheen.jpg
+image: https://catholicsaints.info/wp-content/uploads/Venerable-Fulton-John-Sheen.jpg
 birthYear: 1895
 deathYear: 1979
 born: 8 May 1895 in El Paso, Illinois

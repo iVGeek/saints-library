@@ -5,7 +5,7 @@ summary: >-
   Qerim served in the Albanian gendarmerie in the reign of Zog I, rising to the rank of lieutenant. During World War II,
   he ran a shop and avoided politics. He married Marije Vata in September 1944. After the war, when the Communists took
   over Albania, Querim was known to be anti-C
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Qerim-Sadiku.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Qerim-Sadiku.jpg
 birthYear: 1919
 deathYear: 1946
 born: 18 February 1919 in Vudanje, Yugoslavia (modern Vuthaj, Shkodrë, Albania)

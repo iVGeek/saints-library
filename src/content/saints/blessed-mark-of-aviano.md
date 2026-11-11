@@ -5,7 +5,7 @@ summary: >-
   Son of Marco Pasquale Cristofori and Rosa Zanoni. Educated at home and at the Jesuit school in Gorizia, Italy. He was
   especially fascinated with stories of the saints. At age 16 he left home to walk to Crete, where Venice was at war
   with the Ottoman Turks; he planned to preaching
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Mark-of-Aviano.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Mark-of-Aviano.jpg
 searchAliases:
   - Carlo Domenico Cristofori
   - Marco D'Aviano

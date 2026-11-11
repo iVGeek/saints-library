@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Joined the Dominicans in 1622. Priest. Dominican prior provincial of Ireland. Bishop of Emly, Ireland. He was ordered
   to acknowledge the English king as head of the Church; he declined. Martyr.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Terrence-Albert-OBrien1.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Terrence-Albert-OBrien1.jpg
 searchAliases:
   - Toirdhealbhach Albert Ó Briain
   - Terence Albert O'Brien

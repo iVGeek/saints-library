@@ -2,7 +2,7 @@
 name: Blessed Francesc Llagostera Bonet
 honorific: Blessed
 summary: Mercedarian priest. Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Francesc-Llagostera-Bonet.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Francesc-Llagostera-Bonet.jpg
 birthYear: 1883
 deathYear: 1936
 born: 30 August 1883 in Valls, Tarragona, Spain

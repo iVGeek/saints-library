@@ -5,7 +5,7 @@ summary: >-
   Son of a Venetian senator. Educated at the University of Padua. Civil and canon lawyer. Worked on the negotiations for
   the Peace of Westphalia that ended the Thirty Years' War on 24 October 1648; one of his co-workers was archbishop
   Fabio Chigi, the future Pope Alexander VII. Ord
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Gregory-Barbarigo-1.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Gregory-Barbarigo-1.jpg
 searchAliases:
   - Gregory Bardardico
   - Gregorio Barbarigo

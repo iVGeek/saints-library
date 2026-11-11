@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Daughter of Charity of Saint Vincent de Paul nun of the diocese of Angers, France. Martyred in the persecutions of the
   French Revolution.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Marie-Anne-Vaillot.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Marie-Anne-Vaillot.jpg
 birthYear: 1736
 deathYear: 1794
 born: 13 May 1736 in Fontainebleau, Maine-et-Loire, France

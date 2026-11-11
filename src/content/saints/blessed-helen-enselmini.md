@@ -5,7 +5,7 @@ summary: >-
   Became a Poor Clare nun at age 12, receiving the veil from Saint Francis of Assisi himself at Arcella. Had the gift of
   inedia, living solely off the Eucharist for months. Her health suffered in adulthood, and she was both blind and mute
   by her death.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Helen-Enselmini.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Helen-Enselmini.jpg
 searchAliases:
   - Elena Enselmini
 deathYear: 1242

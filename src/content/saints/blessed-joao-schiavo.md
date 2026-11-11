@@ -5,7 +5,7 @@ summary: >-
   Eldest of nine children born to Luiz, a shoemaker, and Rosa Schiavo. At one point in his youth, João suffered through
   four years of meningitis, which nearly killed him. He joined the Josephites of Murialdo (Murialdines) in 1917 where he
   came to know Venerable Eugenio Ruffo. Ordai
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-João-Schiavo.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-João-Schiavo.jpg
 searchAliases:
   - Giovanni Schiavo
 birthYear: 1903

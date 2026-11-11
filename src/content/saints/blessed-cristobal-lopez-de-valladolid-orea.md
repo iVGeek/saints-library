@@ -5,7 +5,7 @@ summary: >-
   One of six brothers born to a poor farming family. He was known as a pious child, and at age 7 or 8 he ran away from
   home, planning to join the Friars Minor; his mother sent his brothers to find him and bring him back. He served as an
   altar boy as often as he could, and when old
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Cristóbal-López-de-Valladolid-Orea.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Cristóbal-López-de-Valladolid-Orea.jpg
 searchAliases:
   - Cristóbal of Saint Catherine
 birthYear: 1638

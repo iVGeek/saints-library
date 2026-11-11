@@ -5,7 +5,7 @@ summary: >-
   Tertiary of the Sisters of Penance of Saint Dominic at age 20. She had a great devotion to Saint Catherine of Siena.
   Magdalen lived at with her family, devoting her days to prayer, and care for the poor and young children. She gave
   talks to groups of lay people and children, then
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Maddalena-Panattieri.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Maddalena-Panattieri.jpg
 searchAliases:
   - Maddalena Panattieri
   - Mary Magdalen Panattieri

@@ -5,7 +5,7 @@ summary: >-
   The little recorded of his childhood is probably legend. Hermit, living in a cave at Alsace, France with a widespread
   reputation for holiness. When King Dagobert's son was killed in a hunting accident, Arbogast's prayers brought the lad
   back to life. Bishop of Strasbourg, France
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Arbogast-of-Strasbourg.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Arbogast-of-Strasbourg.jpg
 searchAliases:
   - Arascach
 deathYear: 678

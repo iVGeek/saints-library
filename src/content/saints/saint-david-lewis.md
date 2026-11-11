@@ -5,7 +5,7 @@ summary: >-
   His mother, Margaret Prichard, was Catholic, but his father, Morgan Lewis, was a Protestant school headmaster; David,
   the youngest of nine children, was raised Protestant. He was reconciled to Catholicism in Paris, France at age 16.
   Studied at the English College in Rome, Italy f
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-David-Lewis.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-David-Lewis.jpg
 searchAliases:
   - Charles Baker (alias used to hide from anti-Catholic authorities in Wales)
 birthYear: 1616

@@ -4,7 +4,7 @@ honorific: Venerable
 summary: >-
   Layman soldier in the apostolic vicariate of Korea. When he admitted to being a Christian, he was imprisoned,
   tortured, and repeatedly dragged before a judge who ordered Paul to renounce his faith; he repeatedly refused. Martyr.
-image: http://catholicsaints.info/wp-content/uploads/img-Maryrs-of-Korea.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Maryrs-of-Korea.jpg
 searchAliases:
   - Heo Hyeob
   - Baolo

@@ -5,7 +5,7 @@ summary: >-
   Studied theology in Budapest, Hungary and in Vienna, Austria. Ordained a Romanian Greek-Catholic Rite priest on 7 July
   1903. Served in Blaj, Romania, and then Bucharest, Romania in 1909, and then back to Blaj in 1919. Cathedral canon.
   Rector of the theological academy in 1921. Ap
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Ioan-Bãlan.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Ioan-Bãlan.jpg
 birthYear: 1880
 deathYear: 1959
 born: 11 February 1880 in Teius, Alba, Romania

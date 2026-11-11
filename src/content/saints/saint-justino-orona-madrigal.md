@@ -4,7 +4,7 @@ honorific: Venerable
 summary: >-
   Priest in the archdiocese of Guadalajara, Mexico. Founded the Hermanas Clarisas del Sagrado Corazón. Martyred in the
   Mexican Revolution.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Justino-Orona-Madrigal.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Justino-Orona-Madrigal.jpg
 birthYear: 1877
 deathYear: 1928
 born: 14 April 1877 in Cuyucapán, Atoyac, Jalisco, Mexico

@@ -2,7 +2,7 @@
 name: Blessed Vicente María Izquierdo Alcón
 honorific: Blessed
 summary: Priest in the archdiocese of Valencia, Spain. Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Vicente-María-Izquierdo-Alcón.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Vicente-María-Izquierdo-Alcón.jpg
 birthYear: 1891
 deathYear: 1936
 born: 24 May 1891 in Mosquerela, Teruel, Spain

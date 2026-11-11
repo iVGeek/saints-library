@@ -5,7 +5,7 @@ summary: >-
   Son of a devoutly Christian mother, Anrê was baptized at age 15 by Jesuit missionary Father Alexandre de Rhodes.
   Andrew became a catechist a year later. In 1643, with other catechists, he made a vow to serve the Church for the rest
   of his life. In 1644 he was arrested and beaten,
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Andrew-the-Catechist.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Andrew-the-Catechist.jpg
 searchAliases:
   - Andrew of Phu&ugrave; Ye&acirc;n
   - Anrê of Phú Yên

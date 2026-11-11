@@ -5,7 +5,7 @@ summary: >-
   Son of Gisella of Burgundy and Henry II the Quarrelsome, Duke of Bavaria. Educated at the cathedral school in
   Hildesheim by bishop Wolfgang of Regensburg. Became Duke of Bavaria himself in 995 upon his father's death, which
   ended Henry's thoughts of becoming a priest. Ascended to
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Henry-II.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Henry-II.jpg
 searchAliases:
   - Good King Henry
   - Heinrich, Duke of Bavaria

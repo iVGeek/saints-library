@@ -5,7 +5,7 @@ summary: >-
   Bishop of Formiae, Campagna, Italy. He fled to Mount Lebanon in the persecutions of emperor Diocletian where he was
   fed by a raven so he could stay in hiding. Discovered by the authorities, he was imprisoned, but an angel rescued him.
   Recaptured, he was martyred. One of the Fourt
-image: http://catholicsaints.info/wp-content/gallery/saint-erasmus/saint-erasmus-00.jpg
+image: https://catholicsaints.info/wp-content/gallery/saint-erasmus/saint-erasmus-00.jpg
 searchAliases:
   - Elmo
   - Eramo

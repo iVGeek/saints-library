@@ -5,7 +5,7 @@ summary: >-
   Lay woman who, against her will, married Benedict dall'Oglio in order to please her family; she spent 30 happy years
   with him, both of them being known for their Christian lives. Widowed, she devoted herself to charity in her few
   remaining years. Those who knew her considered her
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Helen-Duglioli.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Helen-Duglioli.jpg
 searchAliases:
   - Elena Duglioli Dall'Olio
   - Helen of Bologna

@@ -5,7 +5,7 @@ summary: >-
   Born to the French nobility, the son of Count Arnold of Champagne. In his youth, he was led to great sanctity by
   reading the lives of the saints, especially about the hermits and cenobites in the desert of Thebaid. Pilgrim to
   several holy sites including Santiage de Compostella,
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Theobald.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Theobald.jpg
 searchAliases:
   - Teobaldo
   - Theobaldus

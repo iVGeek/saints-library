@@ -4,7 +4,7 @@ honorific: Venerable
 summary: >-
   Born to the minor nobility, the son of an architect. Ordained a priest on 2 August 1887. Joined the Franciscans,
   making his vows on 14 July 1911. Worked with Saint Maximilian Kolbe.
-image: http://catholicsaints.info/wp-content/uploads/img-Venerable-Józef-Jakub-Fordon.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Józef-Jakub-Fordon.jpg
 searchAliases:
   - Father Melchior
 birthYear: 1862

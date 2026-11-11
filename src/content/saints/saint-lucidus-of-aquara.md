@@ -5,7 +5,7 @@ summary: >-
   The son of Albino della Croce and Sabina Nicodemo. Monk of Saint Peter's Abbey near Aquara, Italy, joining at the age
   of 15. Following his training, he served at Saint Peter's, at the Monte Cassino Abbey and in Salerno, Italy. Counselor
   to Prince Guaimaro in Salerno. Pilgrim to t
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Lucidus-of-Aquara.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Lucidus-of-Aquara.jpg
 searchAliases:
   - Lucido
 deathYear: 938

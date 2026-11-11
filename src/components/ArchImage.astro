@@ -23,13 +23,19 @@ const resolved = imageSrc(src);
 <div class:list={['arch-frame', aspect, className]}>
   {
     resolved ? (
-      <img
-        src={resolved}
-        alt={alt || name}
-        loading="lazy"
-        decoding="async"
-        class:list={['h-full w-full object-cover', vintage && 'img-vintage']}
-      />
+      <>
+        <img
+          src={resolved}
+          alt={alt || name}
+          loading="lazy"
+          decoding="async"
+          class:list={['h-full w-full object-cover', vintage && 'img-vintage']}
+          onerror="this.style.display='none'; var f=this.parentElement.querySelector('.monogram-fallback'); if(f) f.removeAttribute('hidden');"
+        />
+        <div class="monogram-fallback hidden h-full w-full">
+          <Monogram name={name} symbol={symbol} className="h-full w-full" />
+        </div>
+      </>
     ) : (
       <Monogram name={name} symbol={symbol} className="h-full w-full" />
     )

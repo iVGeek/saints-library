@@ -5,7 +5,7 @@ summary: >-
   Born to the dynastic house of Este. Aunt of Blessed Beatrix of Este the Younger. Nun in the convent of Santa
   Margherita at Solarolo, Italy. Feeling a need for more seclusion, she took over a deserted monastery at Gemmola,
   Italy, and founded a new convent where she apparently spen
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Beatrix-of-Este-the-Elder.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Beatrix-of-Este-the-Elder.jpg
 searchAliases:
   - Beatrix d'Este I
 birthYear: 1200

@@ -5,7 +5,7 @@ summary: >-
   Son of Ambrosio, a carpenter and sacristan of his church, and María del Rosario; he was baptized at the age of one
   day. Began to study religion at the convent of San Francisco in Bogotá, Colombia, but had to stop in 1861 when the
   government seized all Church property. Ordained on
-image: http://catholicsaints.info/wp-content/uploads/img-Venerable-Rafaél-Manuel-Almansa-Riaño.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Rafaél-Manuel-Almansa-Riaño.jpg
 searchAliases:
   - Father Almansa
 birthYear: 1840

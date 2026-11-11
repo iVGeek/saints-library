@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Priest. Member of the Capuchin Tertiary Fathers and Brothers of Our Lady of Sorrows. Martyred in the Spanish Civil
   War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Timoteo-Valero-Pérez.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Timoteo-Valero-Pérez.jpg
 birthYear: 1901
 deathYear: 1936
 born: 24 January 1901 in Terriente, Teruel, Spain

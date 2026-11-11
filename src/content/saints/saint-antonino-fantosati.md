@@ -5,7 +5,7 @@ summary: >-
   Antonino joined the Franciscan Order of Reformed Friars Minor on 28 July 1862 at the convent of Spineta in Todi,
   Italy. Ordained a priest on 13 June 1865. Missionary to China in 1867; he served for his remaining 33 years. Chosen
   vicar apostolic for southern Hunan, China and titul
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Antonino-Fantosati.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Antonino-Fantosati.jpg
 searchAliases:
   - Antoninus…
   - Antonio…

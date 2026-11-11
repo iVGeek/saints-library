@@ -5,7 +5,7 @@ summary: >-
   Layman in the archdiocese of Thare and Nonseng, Thailand. Catechist in Songkhon in 1926. Married to Marie Thong in
   1931. Father of five. When the parish priest was exiled during a persecution in Thailand, Filip took over leadership
   of the Christian community. He also protested th
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Filip-Siphong-Onphithakt.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Filip-Siphong-Onphithakt.jpg
 searchAliases:
   - Filippo Siphong Onphitak
 birthYear: 1907

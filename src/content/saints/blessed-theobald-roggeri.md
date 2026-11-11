@@ -5,7 +5,7 @@ summary: >-
   Born to a wealthy, noble Piedmont family, his reading of the Gospel caused him to abandon position for a simple life.
   Cobbler in Alba, Italy. Theobald proved himself a skillful craftsman, and his master hoped that the young apprentice
   would marry his daughter and carry on the bus
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Theobald-Roggeri.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Theobald-Roggeri.jpg
 searchAliases:
   - Theobald of Vico
   - Theobald of Alba

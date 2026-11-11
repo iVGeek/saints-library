@@ -5,7 +5,7 @@ summary: >-
   Professed religious in the Sisters of the Christian Doctrine. Worked as a seamstress to support the Sisters. Known for
   her youth ministry when in the community, spiritual reading in front of the Eucharist when alone. Martyred in the
   Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Martyred-Sisters-of-the-Christian-Doctrine.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Martyred-Sisters-of-the-Christian-Doctrine.jpg
 searchAliases:
   - María Concepción
 birthYear: 1861

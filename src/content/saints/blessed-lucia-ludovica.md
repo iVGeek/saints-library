@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Married lay woman in the archdiocese of Nagasaki, Japan. Member of the Lay Domincans and Secular Franciscans. Arrested
   and executed for her faith. Martyr.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Lucia-Ludovica.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Lucia-Ludovica.jpg
 searchAliases:
   - Louise of Omura
 birthYear: 1548

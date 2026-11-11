@@ -1,7 +1,7 @@
 ---
 name: Saint Grellen
 honorific: Saint
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Grellen.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Grellen.jpg
 searchAliases:
   - Grellan
   - Greallain

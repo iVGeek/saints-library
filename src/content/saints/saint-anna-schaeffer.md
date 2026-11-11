@@ -5,7 +5,7 @@ summary: >-
   Daughter of a poor carpenter. Anna dropped out of school at age 14 to work as a maid, and had hopes of a religious
   vocation, but her father's death left her working to support the family, and she was a lifelong lay woman. In 1898 she
   received a vision of Christ who warned her tha
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Anna-Schaeffer1.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Anna-Schaeffer1.jpg
 birthYear: 1882
 deathYear: 1925
 born: 18 February 1882 in Mindelstetten, Bavaria, Germany

@@ -2,7 +2,7 @@
 name: Blessed José Erausquin Aramburu
 honorific: Blessed
 summary: Member of the Benedictine Subiaco Congregation. Priest. Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-José-Erausquin-Aramburu.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-José-Erausquin-Aramburu.jpg
 searchAliases:
   - Brother Eugenio María
 birthYear: 1902

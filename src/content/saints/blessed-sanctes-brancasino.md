@@ -2,7 +2,7 @@
 name: Blessed Sanctes Brancasino
 honorific: Blessed
 summary: Franciscan lay-brother at Scotameto, Italy.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Sanctes-Brancasino.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Sanctes-Brancasino.jpg
 searchAliases:
   - Sanctes of Montefabbri
   - Sanctes of Montefabro

@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Carmelite nun, professed in May 1775. Prioress. One of the Carmelite Martyrs of Compiegne, killed in the anti-Catholic
   excesses of the French Revolution.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Marie-Madeleine-Claudine-Lidoine.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Marie-Madeleine-Claudine-Lidoine.jpg
 searchAliases:
   - Mother Thérèse of Saint Augustine
 birthYear: 1752

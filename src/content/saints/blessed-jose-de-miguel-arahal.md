@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Priest. Member of the Capuchin Tertiary Fathers and Brothers of Our Lady of Sorrows. Martyred in the Spanish Civil
   War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-José-de-Miguel-Arahal.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-José-de-Miguel-Arahal.jpg
 searchAliases:
   - Father Bienvenido María of Dos Hermanas
 birthYear: 1887

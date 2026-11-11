@@ -2,7 +2,7 @@
 name: Saint Carantoc
 honorific: Saint
 summary: Sixth-century monk. Abbot. Founded the church of Llangranog in Wales.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Carannog.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Carannog.jpg
 searchAliases:
   - Carantock
   - Carannog

@@ -3,7 +3,7 @@ name: Blessed Corrado of Laodicea
 honorific: Blessed
 title: Bishop
 summary: Mercedarian friar. Bishop of Laodicea, Syria. Zealous evangelist. Miracle worker.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Corrado-of-Laodicea.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Corrado-of-Laodicea.jpg
 searchAliases:
   - Conrad
 region: Syria

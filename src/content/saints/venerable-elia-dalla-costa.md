@@ -5,7 +5,7 @@ summary: >-
   Youngest of five children born to Luigi dalla Costa and Teresa dal Balcon; he was one of only two that survived
   childhood, and his mother died when the boy was only five years old. In addition to theological studies, he obtained a
   degree in literature while in seminary. Ordained
-image: http://catholicsaints.info/wp-content/uploads/img-Venerable-Elia-dalla-Costa.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Elia-dalla-Costa.jpg
 searchAliases:
   - Elia Angelo
 birthYear: 1872

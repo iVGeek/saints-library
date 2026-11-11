@@ -5,7 +5,7 @@ summary: >-
   Son of Alfonso IX, King of Leon, and Berengaria, daughter of King Alfonso III of Castile; cousin of Saint Louis IX.
   King of Castile in 1217 at age 18. King of Leon in 1230. King of Palencia, Valladolid, and Burgos. Married to Princess
   Beatrice, daughter of Philip of Swabia, King
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Ferdinand-III-of-Castille.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Ferdinand-III-of-Castille.jpg
 birthYear: 1198
 deathYear: 1252
 born: 1198 near Salamanca, Spain

@@ -5,7 +5,7 @@ summary: >-
   Benedictine monk at the abbey of Saint Ferreol. Abbot of Saint Marcellus in Vienne, Dauphine (in modern France). Noted
   spiritual director, including work at the convent of Saint Blandina where his own mother and sisters were nuns. Was
   also known for a profound understanding of th
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Clarus-of-Vienne.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Clarus-of-Vienne.jpg
 searchAliases:
   - Clarus du Dauphiné
   - Clair…

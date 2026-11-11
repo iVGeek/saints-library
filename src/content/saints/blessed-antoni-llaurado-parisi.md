@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Member of the Hospitallers of Saint John of God. Martyred in the Spanish Civil War while still a novice. One of the
   Martyred Hospitallers of Spain.
-image: http://catholicsaints.info/wp-content/uploads/img-Martyred-Hospitallers-of-Spain.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Martyred-Hospitallers-of-Spain.jpg
 searchAliases:
   - Antonio
 birthYear: 1910

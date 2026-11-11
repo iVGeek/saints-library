@@ -5,7 +5,7 @@ summary: >-
   Daughter of Louis and Lucrezia. Following the death of her mother, the teenage Caesarea left home to escape the
   incestuous interests of her father. She consecrated herself to God, and withdrew from the world to live as an
   anchoress in a cave near Otranto, Italy where she devoted
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Caesarea-of-Otranto.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Caesarea-of-Otranto.jpg
 born: 14th century
 died: 14th century of natural causes
 region: Italy

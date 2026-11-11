@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Jesuit brother in 1907. Served his community in Gandia, Spain as an electrician and mechanic. Martyred in the Spanish
   Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Pere-Gelabert-Amer.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Pere-Gelabert-Amer.jpg
 birthYear: 1887
 deathYear: 1936
 born: 29 March 1887 in Manacor, Mallorca, Islas Baleares, Spain

@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Augustinian friar at Canterbury, England. Doctor of Divinity. Professor and prior at Droitwich. Martyred for denying
   royal supremacy of the Church.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-John-Stone.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-John-Stone.jpg
 deathYear: 1538
 died: hanged, drawn, and quartered December 1538 or December 1539 (sources vary) at Dane-John, Canterbury, England
 deathPlace: drawn, and quartered December 1538 or December 1539 (sources vary) at Dane-John, Canterbury, England

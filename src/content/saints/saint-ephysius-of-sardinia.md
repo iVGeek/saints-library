@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   In Rome, Italy, Ephysius gained the favour of emperor Diocletian who made him governor of the island of Sardinia.
   Convert to Christianity. Diocletian then had him stripped of office, tortured and murdered. Martyr.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Ephysius-of-Sardinia.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Ephysius-of-Sardinia.jpg
 searchAliases:
   - Ephysius of Cagliari
   - Efisio…

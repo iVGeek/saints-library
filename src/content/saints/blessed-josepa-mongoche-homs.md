@@ -5,7 +5,7 @@ summary: >-
   Professed religious in the Sisters of the Christian Doctrine. Worked as a seamstress to support the Sisters, and was
   known for her devotion to Mary; she could recite the work “The Glories of Mary” by Saint Alphonsus de Liguori.
   Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Martyred-Sisters-of-the-Christian-Doctrine.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Martyred-Sisters-of-the-Christian-Doctrine.jpg
 searchAliases:
   - Maria de l'Asunció
 birthYear: 1859

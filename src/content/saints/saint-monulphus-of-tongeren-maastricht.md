@@ -3,7 +3,7 @@ name: Saint Monulphus of Tongeren-Maastricht
 honorific: Saint
 title: Bishop
 summary: Bishop of Tongeren-Maastricht, Netherlands in the late 6th and early 7th centuries.
-image: http://catholicsaints.info/wp-content/uploads/img-Saints-Monulph-and-Gondulph.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saints-Monulph-and-Gondulph.jpg
 searchAliases:
   - Monulph
   - Monulphe

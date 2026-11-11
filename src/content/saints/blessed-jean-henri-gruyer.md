@@ -2,7 +2,7 @@
 name: Blessed Jean-Henri Gruyer
 honorific: Blessed
 summary: Vincentian priest. One of the Martyrs of September.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Jean-Henri-Gruyer.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Jean-Henri-Gruyer.jpg
 birthYear: 1734
 deathYear: 1792
 born: 13 June 1734 in Dôle, Jura, France

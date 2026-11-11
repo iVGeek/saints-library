@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Deacon. Gave away all his possessions to live first as a monk, and then as a cave hermit and finally as one of the
   early ascetics who would live atop a pillar for long periods.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Alypius-the-Stylite.gif
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Alypius-the-Stylite.gif
 searchAliases:
   - Alypius of Adrianople
   - Alypius of Adrianoplis

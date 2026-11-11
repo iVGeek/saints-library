@@ -5,7 +5,7 @@ summary: >-
   Hermit. His reputation caused him to be chosen bishop of Geris, Egypt; he was so reluctant to accept that he
   barricaded his door with stones. When the authorities and people insisted, he began to pray to be relieved to the
   burden, and died while in prayer.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Nilammon-of-Geris.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Nilammon-of-Geris.jpg
 searchAliases:
   - Nilammone
   - Nilamon

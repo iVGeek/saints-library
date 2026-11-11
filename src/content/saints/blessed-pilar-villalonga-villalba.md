@@ -2,7 +2,7 @@
 name: Blessed Pilar Villalonga Villalba
 honorific: Blessed
 summary: Lay woman in the archdiocese of Valencia, Spain. Member of Catholic Action. Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Pilar-Villalonga-Villalba.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Pilar-Villalonga-Villalba.jpg
 searchAliases:
   - Maria della Colonna
 birthYear: 1891

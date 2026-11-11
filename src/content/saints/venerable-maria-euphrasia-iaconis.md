@@ -5,7 +5,7 @@ summary: >-
   The daughter of Luigi Antonio Iaconis and Maria Antonia Spina, she was baptized at the age of 9 days. Her aunt, Mother
   Maria Fabiano, founded the Charity Sisters, Daughters of the Immaculate Conception; Sofia joined the Sisters on 16
   July 1886, taking the name Sister Euphrasia. S
-image: http://catholicsaints.info/wp-content/uploads/img-Venerable-Maria-Euphrasia-Iaconis.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Maria-Euphrasia-Iaconis.jpg
 searchAliases:
   - Maria Giuseppina Amalia Sofia Iaconis
   - Sister Euphrasia

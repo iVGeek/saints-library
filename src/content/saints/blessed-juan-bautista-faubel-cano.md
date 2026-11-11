@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Lifelong layman in the archdiocese of Valencia, Spain. Married to Patrocinio Olba Martínez in 1914. Father of three.
   Worked to establish Catholic schools and keep them open. Imprisoned, tortured and martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Juan-Bautista-Faubel-Cano.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Juan-Bautista-Faubel-Cano.jpg
 birthYear: 1889
 deathYear: 1936
 born: 10 January 1889 in Liria, Valencia, Spain

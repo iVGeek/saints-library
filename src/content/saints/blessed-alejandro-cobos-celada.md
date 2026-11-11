@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Joined the Hospitallers of Saint John of God at age 14, making his final nows 12 November 1905. Martyred in the
   Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Alejandro-Cobos-Celada.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Alejandro-Cobos-Celada.jpg
 searchAliases:
   - Brother Benjamin
 birthYear: 1887

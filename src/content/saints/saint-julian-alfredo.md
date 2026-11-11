@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Member of the Brothers of the Christian Schools, entering the novitate on 4 February 1926. One of the Martyrs of
   Tur&oacute;n killed in the persecutions of the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Julián-Alfredo.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Julián-Alfredo.jpg
 searchAliases:
   - Vilfrido Fernández Zapico
 birthYear: 1903

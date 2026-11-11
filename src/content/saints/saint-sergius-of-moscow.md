@@ -5,7 +5,7 @@ summary: >-
   Born to the nobility, his family moved to Radonezh to escape attack against the city of Rostov, losing their fortune
   and becoming peasants in the process. Following the deaths of his parents, Sergius and his brother Stephen became
   hermits at Makovka in 1335, then each left separa
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Sergius-of-Moscow.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Sergius-of-Moscow.jpg
 searchAliases:
   - Sergius of Radonezh
   - Sergius of Radonez

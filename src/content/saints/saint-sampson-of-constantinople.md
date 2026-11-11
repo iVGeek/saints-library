@@ -2,7 +2,7 @@
 name: Saint Sampson of Constantinople
 honorific: Saint
 summary: Priest and physician in Constantinople, noted for his care for the poor.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Sampson-of-Constantinople.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Sampson-of-Constantinople.jpg
 searchAliases:
   - Sampson Xenodochius
   - Sampson the Hospitable

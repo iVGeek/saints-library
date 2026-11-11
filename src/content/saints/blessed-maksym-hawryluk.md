@@ -2,7 +2,7 @@
 name: Blessed Maksym Hawryluk
 honorific: Blessed
 summary: Married layman in the diocese of Podlasie, Poland. Martyr.
-image: http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Podlasie.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Podlasie.jpg
 birthYear: 1840
 deathYear: 1874
 born: 2 May 1840 in Bohukaly, Podlasie, Poland

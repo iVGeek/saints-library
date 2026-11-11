@@ -5,7 +5,7 @@ summary: >-
   A fellow and noted classical scholar at Exeter College, Oxford, England; he received his Master of Arts degree on 2
   July 1574. Convert to Catholicism in 1575. Studied for the priesthood at the English College, Douai, France; ordained
   on 23 March 1577. He then studied at the Engli
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Ralph-Sherwin.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Ralph-Sherwin.jpg
 birthYear: 1550
 deathYear: 1581
 born: c.1550 at Rodsley, Derbyshire, England

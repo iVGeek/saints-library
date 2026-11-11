@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Benedictine monk. Pilgrim to the Holy Land. Lived as a hermit near Farfa Abbey, Italy. Friend of the duke of Spoleto,
   Italy. Restored Farfa Abbey with the financial aid of the duke. Abbot.
-image: http://catholicsaints.info/wp-content/uploads/img-Thomas-of-Maurienne.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Thomas-of-Maurienne.jpg
 deathYear: 720
 born: at Maurienne, Savoy, France
 died: c.720 of natural causes

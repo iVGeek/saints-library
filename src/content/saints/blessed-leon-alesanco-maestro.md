@@ -2,7 +2,7 @@
 name: Blessed León Alesanco Maestro
 honorific: Blessed
 summary: Benedictine priest in the Subiaco Congregation. Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-León-Alesanco-Maestro.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-León-Alesanco-Maestro.jpg
 searchAliases:
   - Brother Luis Gonzaga
   - Lleó Alesanco i Maestro

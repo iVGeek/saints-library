@@ -5,7 +5,7 @@ summary: >-
   Migrated to France as a boy. Studied at Arles, France. Carthusian monk at Montreuil, France. Transferred to the Grande
   Chartreuse under Saint Anthelm of Belley. Founder and first prior of the charterhouse of Reposoir near Lake Geneva,
   Switzerland. Drew up the first constitutions
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-John-the-Spaniard.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-John-the-Spaniard.jpg
 searchAliases:
   - John of Spain
 birthYear: 1123

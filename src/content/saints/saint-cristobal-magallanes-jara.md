@@ -5,7 +5,7 @@ summary: >-
   Born to a farm family, and worked as a shepherd in his youth. He entered the seminary at 19, and served as parish
   priest at Totatiche, Mexico. Helped found schools, a newspaper, catechism centers for children and adults, carpentry
   shops, and an electric plant to power the mills.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Cristobal-Magallanes-Jara.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Cristobal-Magallanes-Jara.jpg
 birthYear: 1869
 deathYear: 1927
 born: 30 July 1869 in La Sementera, Totatiche, Jalisco, Mexico

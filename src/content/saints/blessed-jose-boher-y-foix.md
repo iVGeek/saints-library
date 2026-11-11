@@ -5,7 +5,7 @@ summary: >-
   The son of Mattia Boher and Benvenuta Foix. He studied in seminary of the diocese of Urgel, Spain, and was ordained a
   priest on 11 April 1914. He served as coadjutor in various parishes and in 1929 was appointed parish priest of Pobleta
   di Belvehí. Martyred in the Spanish Civil W
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Jose-Boher-y-Foix.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Jose-Boher-y-Foix.jpg
 birthYear: 1887
 deathYear: 1936
 born: 2 November 1887 in Sant Salvador de Tol&oacute;, Pallars Juss&agrave;, Lleida, Spain

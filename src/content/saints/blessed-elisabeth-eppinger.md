@@ -5,7 +5,7 @@ summary: >-
   Eldest of eleven children born to a poor farm family. Élisabeth was a sickly but very pious child. In 1846 she had the
   first of a series of visions, including of Jesus Christ. The combination led her to her belief that suffering could
   block a person from experiencing God's love,
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Élisabeth-Eppinger.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Élisabeth-Eppinger.jpg
 searchAliases:
   - Mother Alphonse-Marie
   - Sister Alphonse-Marie

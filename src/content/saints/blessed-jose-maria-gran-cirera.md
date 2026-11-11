@@ -5,7 +5,7 @@ summary: >-
   A member of the Missionaries of the Sacred Heart, joining on 8 September 1966, and making his solemn profession on 8
   September 1969. Ordained a priest in Valladolid, Spain on 9 June 1972. Served as parish priest in Valencia, Spain. In
   1975 he was sent to minister in Guatemala whe
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-José-María-Gran-Cirera.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-José-María-Gran-Cirera.jpg
 birthYear: 1945
 deathYear: 1980
 born: 27 April 1945 in Barcelona, Spain

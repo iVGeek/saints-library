@@ -5,7 +5,7 @@ summary: >-
   Studied at the Pontifical French Seminary. Ordained on 26 April 1932 in the archdiocese of Tiranë-Durrës, Albania.
   Secretary of the Archbishop of Tiranë-Durrës. Vicar of Tiranë-Durrës. Arrested in Durres on 18 May 1947 in the
   Communist anti-Catholic persecutions. Martyr.
-image: http://catholicsaints.info/wp-content/uploads/img-Dom-Anton-Zogaj.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Dom-Anton-Zogaj.jpg
 birthYear: 1908
 deathYear: 1946
 born: 26 July 1908 in Kthellë, Mirditë, Albania

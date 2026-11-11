@@ -5,7 +5,7 @@ summary: >-
   Priest in the diocese of Moulins, France. Canon of Moulins. During the French Revolution he was arrested and sentenced
   to forced labour for the crime of being a priest. Imprisoned on a ship anchored off shore, he was tortured repeatedly,
   starved and left to die. One of the Martyr
-image: http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-the-Hulks-of-Rochefort.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-the-Hulks-of-Rochefort.jpg
 birthYear: 1736
 deathYear: 1794
 born: 17 November 1736 in Molins, Allier, France

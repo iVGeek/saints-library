@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Abbot of the Benedictine abbey at Lobbes, Belgium c.689. Trained Saint Dodo. Missionary bishop. Helped found Aulne
   Abbey and the Abbey of Wallers-en-Faigne, France.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Ursmar-of-Lobbes.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Ursmar-of-Lobbes.jpg
 searchAliases:
   - Ursmaro
   - Ursmer

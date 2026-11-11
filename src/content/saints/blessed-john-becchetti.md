@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Brother of Blessed Pietro Becchetti; related to Saint Thomas Beckett. Augustinian hermit. Taught in Rimini, Italy in
   1385. Taught at Oxford, England, and at the same time received a degree in theology from there.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Giovanni-da-Fabriano-Becchetti.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Giovanni-da-Fabriano-Becchetti.jpg
 searchAliases:
   - John Becchetti
   - Giovanni Becchetti da Fabriano

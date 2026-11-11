@@ -161,7 +161,7 @@
     var html = '<a href="/saints/' + s.s + '" class="card-glow group flex flex-col overflow-hidden">' +
       '<div class="arch-frame m-3 aspect-[4/4.6] overflow-hidden">';
     if (img) {
-      html += '<img src="' + img + '" alt="' + esc(s.a || s.n + ' \u2014 traditional portrait') +
+      html += '<img src="' + img + '" alt="' + esc(s.n + ' \u2014 traditional portrait') +
         '" loading="lazy" decoding="async" class="h-full w-full object-cover transition-transform duration-700 group-hover:scale-105" />';
     } else {
       html += renderMonogram(s.n, s.sy);

@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Cantor in the church of Saint Mary at Clermont, France. Precentor of the cathedral of Clermont. Parish priest in Riom,
   France.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Amabilis-of-Auvergne.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Amabilis-of-Auvergne.jpg
 searchAliases:
   - Amabilis of Riom
   - Amabilis the Cantor

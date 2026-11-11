@@ -5,7 +5,7 @@ summary: >-
   Joined the Salesians in 1890. Ordained in 1895. Secretary to Blessed Felipe Rinaldi for ten years. Director of the
   College of La Esmeralda in Sarria, Spain. Leader of the Salesians in Camaguey, Cuba in 1916. Salesian Provincial for
   Bolivia and Peru. Salesian Provincial in Barcelo
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-José-Calasanz-Marqués.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-José-Calasanz-Marqués.jpg
 birthYear: 1872
 deathYear: 1936
 born: 23 November 1872 in Azanuy, Huesca, Spain

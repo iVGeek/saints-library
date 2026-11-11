@@ -5,7 +5,7 @@ summary: >-
   Studied at the Salesian College in Valencia, Spain. Joined the Salesians, making his profession in 1927. Teacher in
   Sarria, Spain. Ordained in 1936 in the diocese of Valencia. Parish priest in Tibidabo, Spain. At the outbreak of the
   Spanish Civil War, he set up a shelter for boys
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-José-Caselles-Moncho.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-José-Caselles-Moncho.jpg
 birthYear: 1907
 deathYear: 1936
 born: 8 August 1907 in Benidoleig, Alicante, Spain

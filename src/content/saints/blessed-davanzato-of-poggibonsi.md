@@ -5,7 +5,7 @@ title: Priest
 summary: >-
   Spiritual student of Blessed Luchesius. Franciscan tertiary. Priest. Pastor of Saint Lucia parish in Casciano, Italy.
   Known for his prayer life, his charity, his spirit of penance.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Davanzato-of-Poggibonsi.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Davanzato-of-Poggibonsi.jpg
 searchAliases:
   - Davanzat
 birthYear: 1200

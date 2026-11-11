@@ -5,7 +5,7 @@ summary: >-
   Around the age of 16, José travelled to England to study business, but he finally gave in to a call to the priesthood,
   and returned to Mexico. He studied at the Tridentine seminary in Morelia, Mexico, and then in Rome, Italy. Ordained a
   priest in Tivoli, Italy on 11 June 1865. Re
-image: http://catholicsaints.info/wp-content/uploads/img-Venerable-José-Antonio-Plancarte-y-Labastida.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Venerable-José-Antonio-Plancarte-y-Labastida.jpg
 birthYear: 1840
 deathYear: 1898
 born: 23 December 1840 in Mexico City, Mexico

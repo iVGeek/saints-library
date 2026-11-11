@@ -2,7 +2,7 @@
 name: Blessed Manuel Alvares
 honorific: Blessed
 summary: Jesuit friar. Missionary. Martyred by the Huguenot Jacques Sourie while en route to Brazil.
-image: http://catholicsaints.info/wp-content/uploads/img-Martyred-Jesuit-Missionaries-of-Brazil.png
+image: https://catholicsaints.info/wp-content/uploads/img-Martyred-Jesuit-Missionaries-of-Brazil.png
 birthYear: 1536
 deathYear: 1570
 born: c.1536 in Estremoz, Évora, Portugal

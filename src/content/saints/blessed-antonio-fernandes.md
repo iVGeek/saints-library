@@ -2,7 +2,7 @@
 name: Blessed Antônio Fernandes
 honorific: Blessed
 summary: Jesuit novice. Missionary. Martyred by the Huguenot Jacques Sourie while en route to Brazil.
-image: http://catholicsaints.info/wp-content/uploads/img-Martyred-Jesuit-Missionaries-of-Brazil.png
+image: https://catholicsaints.info/wp-content/uploads/img-Martyred-Jesuit-Missionaries-of-Brazil.png
 birthYear: 1552
 deathYear: 1570
 born: c.1552 in Montemor-o-Novo, Évora, Portugal

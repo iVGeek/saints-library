@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Priest. Poet. Member of the Sons of the Holy Family. Preached devotion to the Holy Family in the pulpit, the press and
   the confessional. Killed in the anti-Christian persecutions of the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Joan-Franquesa-Costa.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Joan-Franquesa-Costa.jpg
 searchAliases:
   - Apostle of Devotion to the Holy Family
 birthYear: 1867

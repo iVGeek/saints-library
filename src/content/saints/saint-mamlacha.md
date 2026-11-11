@@ -2,7 +2,7 @@
 name: Saint Mamlacha
 honorific: Saint
 summary: Nun. Martyred in the persecutions of king Shapur II.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Mamlacha.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Mamlacha.jpg
 died: Persia
 region: Italy
 feastDay:

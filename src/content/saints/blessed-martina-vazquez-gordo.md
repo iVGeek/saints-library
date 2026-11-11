@@ -5,7 +5,7 @@ summary: >-
   One of eight children born to Zacarías and Antonia, owners of a pastry shop, Martina was known to be an intelligent,
   courageous, and strong young woman. She became engaged to a young man, then realized her calling to religious life and
   joined the Daughters of Charity instead. She
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Martina-Vázquez-Gordo.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Martina-Vázquez-Gordo.jpg
 birthYear: 1865
 deathYear: 1936
 born: 30 January 1865 in Cuéllar, Segovia, Spain

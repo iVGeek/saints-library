@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Helped found the monastery of Llanbadarn Fawr in Wales where he served as abbot. Noted preacher in the area around
   Aberystwyth, Wales.
-image: http://catholicsaints.info/wp-content/uploads/Patern-of-Wales.jpg
+image: https://catholicsaints.info/wp-content/uploads/Patern-of-Wales.jpg
 searchAliases:
   - Badarn
   - Padarn

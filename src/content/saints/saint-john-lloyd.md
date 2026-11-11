@@ -5,7 +5,7 @@ summary: >-
   Educated at the Royal College of Saint Alban at Valladolid, Spain, entering in 1649. Took the missionary oath on 16
   October 1649 to return to England. Sent to Wales in 1654 to minister to covert Catholics, he lived his vocation while
   constantly on the run for 24 years. Arrested a
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-John-Lloyd.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-John-Lloyd.jpg
 deathYear: 1679
 born: at Powys, Wales
 died: hanged, drawn, and quartered 22 July 1679 on Gallows Field in Cardiff, Wales

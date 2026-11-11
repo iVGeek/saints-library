@@ -2,7 +2,7 @@
 name: Blessed Eufrasio of the Child Jesus
 honorific: Blessed
 summary: Discalced Carmelite priest. Murdered in the religious persecutions of the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Eufrasio-of-the-Child-Jesus.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Eufrasio-of-the-Child-Jesus.jpg
 searchAliases:
   - Eufrasio Barredo Fernández
 birthYear: 1897

@@ -5,7 +5,7 @@ summary: >-
   Daughter of Ettore Vernazza, a patrician who founded hospitals for the poor in the Italian cities of Genoa, Rome, and
   Naples. God-daughter of Saint Catherine Fieschi-Adorno. She became a Canoness Regular of the Lateran of Saint
   Augustine at the monastery of Saint Maria delle Graz
-image: http://catholicsaints.info/wp-content/uploads/img-Venerable-Tommasina-Vernazza.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Tommasina-Vernazza.jpg
 searchAliases:
   - Battistina
 birthYear: 1497

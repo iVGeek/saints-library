@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Mercedarian sent to Tunisia to redeem Christian prisoners. There he was imprisoned for five years before being
   executed. Martyr.
-image: http://catholicsaints.info/wp-content/uploads/Tommaso-Vives.jpg
+image: https://catholicsaints.info/wp-content/uploads/Tommaso-Vives.jpg
 searchAliases:
   - Tommaso
 died: stoned to death while in prayer

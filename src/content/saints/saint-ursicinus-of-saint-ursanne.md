@@ -5,7 +5,7 @@ title: Missionary
 summary: >-
   Friend of Saint Columbanus. Missionary to Switzerland. Built a monastery at Saint Ursanne in the Swiss Juras, and
   served as its abbot. He could not bear wine nor those who served it to him.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Ursicinus-of-Saint-Ursanne.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Ursicinus-of-Saint-Ursanne.jpg
 searchAliases:
   - Ursicino del Giura
   - Ursan

@@ -5,7 +5,7 @@ summary: >-
   A lifelong layman, Rafael was married to Maria Adelaid Ruiz Glens in 1916; the couple were parents to four daughters.
   He worked as postmaster in Ontinyent, Valencia, Spain, and served as catechist and youth teacher by night at his
   parish. Member of the Catholic Legion, Catholic A
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Rafael-Alonso-Gutiérrez.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Rafael-Alonso-Gutiérrez.jpg
 birthYear: 1890
 deathYear: 1936
 born: 14 June 1890 in Ontinyent, Valencia, Spain

@@ -5,7 +5,7 @@ summary: >-
   Lay women in the archdiocese of Valencia, Spain. Textile worker. President of the Union of Spanish Catholic Women in
   Valencia, a member of Catholic Action and the Daughters of Mary. Franciscan tertiary. Had a devotion to Saint Therese
   of Lisieux, and worked to spread devotion to
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Florencia-Caerols-Martínez.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Florencia-Caerols-Martínez.jpg
 searchAliases:
   - Fiorenza
   - Florence

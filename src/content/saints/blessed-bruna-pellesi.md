@@ -5,7 +5,7 @@ summary: >-
   Youngest of nine children. When her two sisters-in-law died, the teenaged Bruna helped raised their six small
   children. On 27 August 1940 she joined the Franciscan Missionary Sisters of Christ (formerly Franciscan Sisters of
   Sant'Onofrio), taking the name Maria Rosa of Jesus. Tau
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Bruna-Pellesi.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Bruna-Pellesi.jpg
 searchAliases:
   - Sister Maria Rosa of Jesus
 birthYear: 1917

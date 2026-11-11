@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Child in the archdiocese of Nagasaki, Japan. Martyred in the persecution of the Tokugawa Shogunate as part of the
   Great Genna Martyrdom.
-image: http://catholicsaints.info/wp-content/uploads/img-Great-Genna-Martyrdom.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Great-Genna-Martyrdom.jpg
 birthYear: 1619
 deathYear: 1622
 born: 1619 in Nagasaki,

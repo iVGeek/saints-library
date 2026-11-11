@@ -5,7 +5,7 @@ summary: >-
   Second century bishop of Heirapolis, Phrygia. Held in high regard by other early saints including Saint Jerome and the
   historian Theodoret. Noted for writing a defense of the faith to Emperor Marcus Aurelius that reminded the Emperor of
   a miraculous victory that resulted from the
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Apollinaris-the-Apologist.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Apollinaris-the-Apologist.jpg
 searchAliases:
   - Apollinaris Claudius
   - Apollinaris of Hierapolis

@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Servant of Saint Regula and Saint Felix of Zürich. During the persecutions of Maximian Herculeaus the two fled to
   Switzerland. They were found there near Zürich. Martyr.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Essuperanzio-of-Zurich.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Essuperanzio-of-Zurich.jpg
 searchAliases:
   - Exuperantius
 died: beheaded in the 3rd century near Zürich, Switzerland

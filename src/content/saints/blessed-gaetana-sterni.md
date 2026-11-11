@@ -5,7 +5,7 @@ summary: >-
   Daughter of Giovanni Battista Sterni and Giovanna Chiuppani; one of six children. Her father was an administrator for
   the country property of the Mora, who were members of the Venetian nobility. The family lived relatively comfortably
   until Gaetana was about 15 years old when, in
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Gaetana-Sterni.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Gaetana-Sterni.jpg
 searchAliases:
   - Cajetana Sterni
 birthYear: 1827

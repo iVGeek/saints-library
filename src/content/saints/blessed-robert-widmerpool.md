@@ -5,7 +5,7 @@ summary: >-
   Robert studied in Oxford, England, and then worked as a tutor to the sons of the Earl of Northumberland. During the
   anti-Catholic persecutions of Queen Elizabeth I, Robert was imprisoned and executed for aiding a Catholic priest.
   Martyr.
-image: http://catholicsaints.info/wp-content/uploads/some-martyrs-of-england.jpg
+image: https://catholicsaints.info/wp-content/uploads/some-martyrs-of-england.jpg
 deathYear: 1588
 born: Widmerpool, Nottinghamshire, England
 died: hanged, drawn and quartered 1 October 1588 in Canterbury, Kent, England

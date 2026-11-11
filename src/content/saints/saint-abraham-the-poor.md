@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Disciple of Saint Pachomius of Tabenna for 23 years. Lived 17 years as a cave hermit. His nicknames the poor and the
   child refer to his simple life and simple faith.
-image: http://catholicsaints.info/wp-content/uploads/Saint-Abraham-the-Poor-by-Jan-Sadeler.jpg
+image: https://catholicsaints.info/wp-content/uploads/Saint-Abraham-the-Poor-by-Jan-Sadeler.jpg
 searchAliases:
   - Abraham the Child
   - Abraham the Hermit

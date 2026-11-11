@@ -2,7 +2,7 @@
 name: Blessed Marie-Anne Depeyre
 honorific: Blessed
 summary: Ursuline nun. Martyred in the French Revolution.
-image: http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Orange.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Orange.jpg
 searchAliases:
   - Saint Saint Frances
 birthYear: 1756

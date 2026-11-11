@@ -2,7 +2,7 @@
 name: Saint Seraphina
 honorific: Saint
 summary: Martyr. No other information has survived.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Seraphina.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Seraphina.jpg
 searchAliases:
   - Serafina
 deathYear: 426

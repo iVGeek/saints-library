@@ -2,7 +2,7 @@
 name: Blessed José Osés Sainz
 honorific: Blessed
 summary: Passionist cleric. Martyred in the Spanish Civil War. One of the Martyrs of Daimiel.
-image: http://catholicsaints.info/wp-content/uploads/img-Passionist-Martyrs-of-the-Spanish-Civil-War.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Passionist-Martyrs-of-the-Spanish-Civil-War.jpg
 searchAliases:
   - José of Jesus and Mary
 birthYear: 1915

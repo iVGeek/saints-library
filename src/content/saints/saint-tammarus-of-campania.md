@@ -5,7 +5,7 @@ title: Priest
 summary: >-
   Priest in North Africa. Tortured and exiled by being stuck in a boat without a rudder and sent out to sea by the Arian
   Vandals. The boat landed in the Campania region of southern Italy, and he resumed his ministry with the people there.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Tammarus-of-Campania.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Tammarus-of-Campania.jpg
 searchAliases:
   - Tàmaro
   - Tambaro

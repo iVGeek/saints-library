@@ -5,7 +5,7 @@ summary: >-
   Layman catechumen against the wishes of his family; he began taking classes at the local mission in 1900 at age 57. He
   could not read, and had a terrible time trying to remember the prayers, but his belief was strong. When the Boxer
   Rebellion began, local criminals began an extor
-image: http://catholicsaints.info/wp-content/uploads/Huailu-Zhang.jpg
+image: https://catholicsaints.info/wp-content/uploads/Huailu-Zhang.jpg
 searchAliases:
   - Hoai-Lou Tchang
 birthYear: 1843

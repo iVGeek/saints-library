@@ -5,7 +5,7 @@ summary: >-
   Studied at the Shkodrë Pontifical Seminary, and then theology in Innsbruck, Austria. Ordained on 24 April 1916 as a
   priest of the archdiocese of Shkodrë-Pult, Albania. Parish priest in several places. Playwright. Secretary to the
   Archbishop of Shkodrë. Martyred in the anti-Christ
-image: http://catholicsaints.info/wp-content/uploads/img-Dom-Ndre-Zadeja.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Dom-Ndre-Zadeja.jpg
 birthYear: 1891
 deathYear: 1945
 born: 3 November 1891 in Shkodrë, Albania

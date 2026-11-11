@@ -5,7 +5,7 @@ summary: >-
   Born to the Gallic nobility of Burgundy (in modern France), he was orphaned at an early age. Hermit on Mount Brufagaña
   for 30 years. Had the gift of healing by prayer, which he did for the governor of Tarragona, Spain. Imprisoned,
   tortured and martyred in the persecutions of Dioc
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Magino-of-Tarragona.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Magino-of-Tarragona.jpg
 searchAliases:
   - Magi
   - Magin

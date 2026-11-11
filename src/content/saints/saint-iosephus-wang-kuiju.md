@@ -2,7 +2,7 @@
 name: Saint Iosephus Wang Kuiju
 honorific: Venerable
 summary: Layman in the apostolic vicariate of Southeastern Zhili, China. Martyred in the Boxer Rebellion.
-image: http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-China1.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-China1.jpg
 searchAliases:
   - Joseph Wang Guiji
   - Ruose

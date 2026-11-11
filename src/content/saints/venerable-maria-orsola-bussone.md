@@ -4,7 +4,7 @@ honorific: Venerable
 summary: >-
   Her father owned a car repair service, her mother was a tailor, and Maria was active in parish life from an early age,
   playing guitar, singing, and being a leader of youth groups at her church. Member of the Focolare Movement.
-image: http://catholicsaints.info/wp-content/uploads/img-Venerable-Maria-Orsola-Bussone.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Maria-Orsola-Bussone.jpg
 birthYear: 1954
 deathYear: 1970
 born: 2 October 1954 in Vallo Torinese, Italy

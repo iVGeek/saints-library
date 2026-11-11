@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Joined the Claretians in Cervera, Spain in 1927. Priest, ordained on 24 February 1934 in Valencia, Spain. Taught at
   the College of Játiva. Assigned to Calatayud and Barbastro to teach seminarians. Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-José-Pavón-Bueno.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-José-Pavón-Bueno.jpg
 birthYear: 1909
 deathYear: 1936
 born: 19 January 1909 in Cartagena, Murcia, Spain

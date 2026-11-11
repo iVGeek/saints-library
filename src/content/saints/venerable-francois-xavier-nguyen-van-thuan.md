@@ -5,7 +5,7 @@ summary: >-
   Ordained on 11 June 1953 in the diocese of Nha Trang, Viêt Nam. Bishop of Nha Trang on 13 April 1967. Coadjutor
   Archbishop of Thành-Phô Hô Chí Minh, Viêt Nam and Titular Archbishop of Vadesi from 24 April 1975 until 24 November
   1994. President of the Pontifical Council for Justic
-image: http://catholicsaints.info/wp-content/gallery/new-catholic-dictionary/cardinal-francois-xavier-nguyen-van-thuan.jpg
+image: https://catholicsaints.info/wp-content/gallery/new-catholic-dictionary/cardinal-francois-xavier-nguyen-van-thuan.jpg
 searchAliases:
   - Phanxicô Xaviê Nguyên Van Thuán
 birthYear: 1928

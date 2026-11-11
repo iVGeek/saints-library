@@ -2,7 +2,7 @@
 name: Venerable Francisco of the Child Jesus
 honorific: Venerable
 summary: Discalced Carmelite brother.
-image: http://catholicsaints.info/wp-content/uploads/img-Venerable-Francisco-of-the-Child-Jesus.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Francisco-of-the-Child-Jesus.jpg
 searchAliases:
   - Francisco Pascual Sánchez
 birthYear: 1544

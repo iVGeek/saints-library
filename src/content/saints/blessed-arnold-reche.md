@@ -5,7 +5,7 @@ summary: >-
   Son of Claude and Anne Flausset Reche, a poor family in a small village. His father was extremely religious shoemaker,
   his mother given to fits of depression over their impoverished condition, and Nicholas was one of nine children. He
   grew up with strong religious values and a fe
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Arnold-Reche.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Arnold-Reche.jpg
 searchAliases:
   - Arnold Jules-Nicolas Rèche
   - Jules Reche

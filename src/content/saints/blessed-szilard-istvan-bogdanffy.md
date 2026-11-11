@@ -5,7 +5,7 @@ summary: >-
   Son of teachers. Studied philosophy and theology at Peter Pazmany University of Budapest, Hungary. Ordained on 29 June
   1934, and assigned to the Saint Therese of Lisieux parish in Oradea (in modern Romania). Taught in Satu Mare and the
   seminary in Oradea. Bishop of Satu Mare, Rom
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Szilárd-István-Bogdánffy.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Szilárd-István-Bogdánffy.jpg
 birthYear: 1911
 deathYear: 1953
 born: 21 February 1911 in Crna Bara, Coka, Hungary (in modern Serbia)

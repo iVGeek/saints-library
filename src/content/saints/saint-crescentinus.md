@@ -5,7 +5,7 @@ summary: >-
   Imperial Roman soldier. Convert to Christianity. During the persecutions of Diocletian, Crescentinus fled to Thifernum
   Tiberinum (modern Città di Castello). There he is reported to have slain a dragon that had terrorized the region; this
   convinced the locals of the power of God a
-image: http://catholicsaints.info/wp-content/gallery/saint-crescentinus/saint-crescentinus-01.jpg
+image: https://catholicsaints.info/wp-content/gallery/saint-crescentinus/saint-crescentinus-01.jpg
 searchAliases:
   - Crescentinus di Città di Castello
   - Crescentian…

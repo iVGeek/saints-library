@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Benedictine monk at Corvey Abbey. Bishop of Hildesheim, Germany in 851. Founded Essen Abbey. Adviser to the East
   Frankish King Louis the German. Known for his devotion to the Mother of God.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Alfred-of-Hildesheim.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Alfred-of-Hildesheim.jpg
 searchAliases:
   - Alfrid
   - Altfried

@@ -4,7 +4,7 @@ honorific: Venerable
 summary: >-
   Married lay women in the apostolic vicariate of Korea. Widow. Imprisoned, beaten, tortured and executed for being a
   Christian. Martyr.
-image: http://catholicsaints.info/wp-content/uploads/img-Maryrs-of-Korea.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Maryrs-of-Korea.jpg
 searchAliases:
   - Theresia Kim
   - Teresa Gim

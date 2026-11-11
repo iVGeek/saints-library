@@ -5,7 +5,7 @@ summary: >-
   Convert to Catholicism. Studied at the English College at Douai, France, but was dismissed for an infraction of
   discipline. Benedictine priest in 1612 at Dieulouard, France. Missionary to England. He was arrested and exiled in
   1615 for his work. Returning to England in 1618, he w
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Alban-Bartholomew-Roe.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Alban-Bartholomew-Roe.jpg
 birthYear: 1583
 deathYear: 1642
 born: 1583 in Bury Saint Edmunds, Suffolk, England

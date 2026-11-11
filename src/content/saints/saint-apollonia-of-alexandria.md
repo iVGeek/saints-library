@@ -5,7 +5,7 @@ summary: >-
   Consecrated virgin. Deaconess. During an anti-Christian uprising in Alexandria, Egypt caused by a pagan prophecy, the
   mob seized Apollonia as a leader among the local Christians. After her teeth were broken with pincers, she was given
   the choice of renouncing Christ or being burn
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Apollonia-of-Alexandria.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Apollonia-of-Alexandria.jpg
 searchAliases:
   - Apolline of Alexandria
 deathYear: 249

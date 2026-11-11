@@ -2,7 +2,7 @@
 name: Saint Gaspare Luigi Bertoni
 honorific: Venerable
 summary: ' At h Son of Francis, a wealthy lawyer and notary, and Brunora Ravelli Bertoni, he was raised in a pious family. His beloved sister died when Gaspare was quite young. He was educated at home, then by Jesuits and the Marian Congregation at Saint Sebastian''s School in Verona, Italy.'
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Gaspare-Bertoni.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Gaspare-Bertoni.jpg
 searchAliases:
   - Caspar Bertoni
   - Gaspar Bertoni

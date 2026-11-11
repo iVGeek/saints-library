@@ -2,7 +2,7 @@
 name: Venerable Maria Giuseppina Teresa Marcucci
 honorific: Venerable
 summary: Passionist nun.
-image: http://catholicsaints.info/wp-content/uploads/img-Venerable-Maria-Giuseppina-Teresa-Marcucci.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Maria-Giuseppina-Teresa-Marcucci.jpg
 searchAliases:
   - Maria Magdalena of Jesus in the Blessed Sacrament
 birthYear: 1888

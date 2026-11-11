@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Soldier. Knight. Lay member of the Mercedarians. Ransomed at least 150 Christian prisoners from slavery in Africa.
   Known for his personal piety.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Artale.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Artale.jpg
 died: Oran, Algeria of natural causes
 deathPlace: Algerianatural causes
 region: Italy

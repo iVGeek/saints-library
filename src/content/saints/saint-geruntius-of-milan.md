@@ -2,7 +2,7 @@
 name: Saint Geruntius of Milan
 honorific: Saint
 summary: Bishop of Milan, Italy c.465 to c.470.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Geruntius-of-Milan.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Geruntius-of-Milan.jpg
 searchAliases:
   - Gerontius
   - Geronzio

@@ -2,7 +2,7 @@
 name: Blessed Anicet Hryciuk
 honorific: Blessed
 summary: Bachelor layman from the village of Zaczopki, Poland. One of the Marytrs of Podlasie.
-image: http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Podlasie.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Podlasie.jpg
 birthYear: 1855
 deathYear: 1874
 born: 1855 in Zaczopki, Podlasie, Poland

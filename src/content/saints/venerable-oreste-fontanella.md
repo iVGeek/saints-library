@@ -2,7 +2,7 @@
 name: Venerable Oreste Fontanella
 honorific: Venerable
 summary: Priest in the diocese of Biella, Italy.
-image: http://catholicsaints.info/wp-content/uploads/img-Venerable-Oreste-Fontanella.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Oreste-Fontanella.jpg
 birthYear: 1883
 deathYear: 1935
 born: 1 December 1883 in Strona Biellese, Vercelli, Italy

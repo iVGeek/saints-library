@@ -5,7 +5,7 @@ summary: >-
   Raised in a pious Christian household. Member of the Carmelite Sisters of Charity, beginning her novitiate on 16
   October 1900 in Vitoria, Spain. Served as a cook at the College of Oliva in Valencia, Spain. Served as a cook at the
   College of the Immaculate Conception of Cullera, S
-image: http://catholicsaints.info/wp-content/uploads/img-Francisca.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Francisca.jpg
 searchAliases:
   - Sister Francisca of Saint Teresa
 birthYear: 1881

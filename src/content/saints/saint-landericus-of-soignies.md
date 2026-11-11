@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Eldest son of Saint Madelgarus and Saint Waldetrudis. Soldier. Priest. Bishop of Meaux, France from 641 to 650.
   Benedictine abbot in Soignies, Belgium. Abbot of Hautmont, France.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Landricus.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Landricus.jpg
 searchAliases:
   - Landericus of Meaux
   - Landry…

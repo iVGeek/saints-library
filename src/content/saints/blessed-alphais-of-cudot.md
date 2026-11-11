@@ -5,7 +5,7 @@ summary: >-
   Born to a poor peasant family. Bed-ridden with leprosy while still very young; in later life she first lost the use of
   her arms and legs, then lost the limbs themselves. Became known for holiness and penance. Had the gift of inedia,
   subsisting solely on Holy Communion. A church w
-image: http://catholicsaints.info/wp-content/uploads/Alphais-of-Cudot.jpg
+image: https://catholicsaints.info/wp-content/uploads/Alphais-of-Cudot.jpg
 searchAliases:
   - Alpais
   - Alpaida

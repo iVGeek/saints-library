@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Member of the Carmelite Sisters of Charity, beginning her novitiate on 2 June 1902. Assigned to the College of the
   Immaculate Conception of Cullera, Spain where she served the rest of her life. Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Maria-Desamparados.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Maria-Desamparados.jpg
 searchAliases:
   - Sister María Desamparados of the Blessed Sacrament
 birthYear: 1877

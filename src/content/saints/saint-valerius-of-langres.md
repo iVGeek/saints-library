@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Deacon in the early Church in the area of Langres, France. Worked with Saint Desiderius of Langres. Martyred by area
   pagans.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Valerius-of-Langres.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Valerius-of-Langres.jpg
 deathYear: 411
 died: beheaded on 22 October 411 near Besancon, France
 deathPlace: France

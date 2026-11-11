@@ -5,7 +5,7 @@ summary: >-
   Born to the Italian nobility. Her mother died while Mary was five months old; the lack of a mother affected the girl
   deeply, and led her to intense religious devotion and prayer. At age 18 she joined the Capuchin Poor Clares of Santa
   Maria della Neve in Brescia, Italy. Professed
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Mary-Magdalene-Martinengo-1.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Mary-Magdalene-Martinengo-1.jpg
 searchAliases:
   - Margarita Martinengo
   - Maria Maddalena

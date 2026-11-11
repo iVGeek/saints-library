@@ -2,7 +2,7 @@
 name: Saint Shamuna of Edessa
 honorific: Saint
 summary: Martyred in the persecutions of Diocletian.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Shamuna-of-Edessa.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Shamuna-of-Edessa.jpg
 searchAliases:
   - Samonas
 deathYear: 305

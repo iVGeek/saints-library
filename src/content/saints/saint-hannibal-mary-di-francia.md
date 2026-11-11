@@ -5,7 +5,7 @@ summary: >-
   Third of four children of Francis the Marquises of Saint Catherine of Jonio, a Papal Vice-Consul, a knight, and
   Honorary Captain of the Navy; his mother was Anna Toscano, an Italian aristocrat. His father died when Hannibal was
   fifteen months old. The boy developed a devotion to
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Hannibal-Mary-di-Francia1.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Hannibal-Mary-di-Francia1.jpg
 searchAliases:
   - Annibale Maria di Francia
   - Hannibal di Francia

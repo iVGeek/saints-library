@@ -2,7 +2,7 @@
 name: Saint Dominica of Campania
 honorific: Saint
 summary: Daughter of Doroteo and Arsenia. Martyred in the persecutions of Diocletian for destroying pagan idols.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Dominica-of-Campania.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Dominica-of-Campania.jpg
 searchAliases:
   - Dominica of Tropea
   - Ciriaca of…

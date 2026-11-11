@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Soldier in the imperial Roman army. Martyred in the persecutions of Diocletian for having declared himself a Christian
   in open court.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Procopius-of-Ceasarea.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Procopius-of-Ceasarea.jpg
 searchAliases:
   - Procopius of Scythopolis
   - Procopio…

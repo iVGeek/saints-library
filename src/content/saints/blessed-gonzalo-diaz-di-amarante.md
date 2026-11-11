@@ -6,7 +6,7 @@ summary: >-
   A sailor who, in Lima, Peru in 1603, joined the Mercedarians at the Convent of Mercy. Served as doorman and porter for
   his house. Chaplain of the Mercedarian house of Callao, Peru. Noted for his deep prayer life, his charity to the
   indigenous people and the poor, his miraculous a
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Gonzalo-Diaz-di-Amarante.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Gonzalo-Diaz-di-Amarante.jpg
 birthYear: 1540
 deathYear: 1618
 born: 1540 in Amarante, Portugal

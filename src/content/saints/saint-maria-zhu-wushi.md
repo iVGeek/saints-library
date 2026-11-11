@@ -5,7 +5,7 @@ summary: >-
   Married lay woman in the apostolic vicariate of Southeastern Zhili, China. Worked to support the missionary work of
   Saint Léon-Ignace Mangin and Saint Paul Denn and martyred with them in the Boxer Rebellion. She was killed while
   trying to protect Saint Léon who was distributing H
-image: http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-China1.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-China1.jpg
 searchAliases:
   - Mali
 birthYear: 1850

@@ -5,7 +5,7 @@ summary: >-
   During the 13th century Moorish invasions of Spain, the town of Atocha was lost in a battle during which many
   Christians were taken prisoner. The Moors would not allow adults to bring food or water to the prisoners, and the
   villagers prayed for the protection of their lost sons.
-image: http://catholicsaints.info/wp-content/uploads/img-Nino-de-Atocha.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Nino-de-Atocha.jpg
 searchAliases:
   - |-
     Child of Atocha

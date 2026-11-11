@@ -5,7 +5,7 @@ summary: >-
   Courtier to a relative who was an official in the Byzantine court in Constantinople c.842. Travelled on court business
   to the area of modern Bulgaria. However, by this point he had read himself into a more religious life, and soon after
   entered a monastery in Constantinople, taki
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Evarestus.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Evarestus.jpg
 searchAliases:
   - Evarestus
   - Sergio

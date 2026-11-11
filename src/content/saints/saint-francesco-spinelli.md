@@ -5,7 +5,7 @@ summary: >-
   As a child, Francesco would put on puppet shows for other kids. With his mother, he would visit and help the poor and
   sick in his city. Francesco studied in Bergamo, Italy, and ordained as a priest in 1875. Later that year, while in
   Rome, Italy to celebate the Jubilee, he had a v
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Francesco-Spinelli.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Francesco-Spinelli.jpg
 birthYear: 1853
 deathYear: 1913
 born: 14 April 1853 in Milan, Italy

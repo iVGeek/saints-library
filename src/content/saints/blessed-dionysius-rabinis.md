@@ -2,7 +2,7 @@
 name: Blessed Dionysius Rabinis
 honorific: Blessed
 summary: Mercedarian friar. Wrote a number of works on theology, especially against heresies of his day.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Dionysius-Rabinis.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Dionysius-Rabinis.jpg
 searchAliases:
   - Dionisio
 deathYear: 1413

@@ -5,7 +5,7 @@ summary: >-
   Born to the French nobility. Raised in a pious family; he was a Franciscan tertiary at age 5. Lived as a hermit in a
   cave with his brother from age 18 to 20. They became somewhat famous as holy men, which they took as a sign that they
   should become pilgrims in order to escape the
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Gerard-of-Lunel.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Gerard-of-Lunel.jpg
 searchAliases:
   - Gerio
   - Gerius

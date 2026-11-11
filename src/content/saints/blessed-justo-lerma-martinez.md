@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Priest. Member of the Capuchin Tertiary Fathers and Brothers of Our Lady of Sorrows. Martyred in the Spanish Civil
   War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Justo-Lerma-Martínez.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Justo-Lerma-Martínez.jpg
 searchAliases:
   - Father Francisco María of Torrent
 birthYear: 1886

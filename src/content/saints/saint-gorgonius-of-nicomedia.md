@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Soldier. Favourite and trusted servant in the court of Emperor Diocletian. Convert to Christianity. Tortured and
   martyred with a group of other Christians during the persecutions of Diocletian.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Gorgon.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Gorgon.jpg
 searchAliases:
   - Gorgon
 deathYear: 303

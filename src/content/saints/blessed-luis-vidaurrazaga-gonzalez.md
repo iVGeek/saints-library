@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Benedictine monk, Solesmes Congregation. Priest. Noted spiritual director. Devoted to Gregorian chants. He went into
   hiding during the Spanish Civil War, but was betrayed, arrested by anti-Catholic forces and executed. Martyr.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Luis-Vidaurrázaga-González.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Luis-Vidaurrázaga-González.jpg
 birthYear: 1901
 deathYear: 1936
 born: 13 September 1901 in Bilbao, Spain

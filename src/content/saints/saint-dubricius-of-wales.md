@@ -5,7 +5,7 @@ summary: >-
   Related to Saint Brychan of Brycheiniog. One of the founders of monastic life in Wales. He founded monasteries in
   Gwent and England with his main centers in Henllan and Moccas. Worked with Saint Teilo of Llandaff and Saint Samson of
   York who he appointed as abbot on Caldey Island
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Dubricius-of-Wales.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Dubricius-of-Wales.jpg
 searchAliases:
   - Dubricius of Caerleon
   - Dubricius of Llandaff

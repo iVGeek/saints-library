@@ -5,7 +5,7 @@ summary: >-
   The middle of three children born to a wealthy family; her father, Giuseppi, owned a chain of hotels in Egypt, and her
   mother, Giuseppina Viglini, was from an Italian upper class family. Teresa's mother insured the girl received an
   excellent education, spent time in prayer, and u
-image: http://catholicsaints.info/wp-content/uploads/img-Venerable-Teresa-Valse-Pantellini.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Teresa-Valse-Pantellini.jpg
 birthYear: 1878
 deathYear: 1907
 born: 10 October 1878 at Milan, Italy

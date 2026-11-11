@@ -5,7 +5,7 @@ summary: >-
   Raised a pagan. Duke of Westphalia (in modern Germany). When Communion was given to Christian soldiers on Christmas
   night, he had a vision of the Christ Child. He converted to Christianity, was sponsored into the Church by
   Charlemagne, and baptized in 785.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Wittikund-of-Westphalia.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Wittikund-of-Westphalia.jpg
 searchAliases:
   - Wittikund of Saxony
   - Widukind of….

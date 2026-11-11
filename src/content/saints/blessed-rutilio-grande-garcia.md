@@ -5,7 +5,7 @@ summary: >-
   The youngest of seven children born to a poor family, his parents divorced when Rutilio was small, and he was raised
   by his grandmother and an older brother. He began attending a high school seminary in San Salvador at age 12, and
   joined the Jesuits when he was 17. Ordained a pri
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Rutilio-Grande-García.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Rutilio-Grande-García.jpg
 birthYear: 1928
 deathYear: 1977
 born: 5 July 1928 in El Paisnal, San Salvador, El Salvador

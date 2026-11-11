@@ -5,7 +5,7 @@ summary: >-
   Son of Eormenric; great-grandson of Hengist, Saxon conqueror of Britain. Raised as a pagan worshipper of Odin. King of
   Kent (in modern England) in 560. Defeated by Ceawlin of Wessex at the battle of Wimbledon in 568, ending his attempt
   to rule all of Britain. Married the Christia
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Ethelbert-of-Kent.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Ethelbert-of-Kent.jpg
 searchAliases:
   - '&AElig;dilberct'
   - '&AElig;thelberht'

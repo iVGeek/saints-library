@@ -5,7 +5,7 @@ summary: >-
   Raised in a peasant family, Stephen early felt a desire for religious life, and became a monk. Spiritual student,
   friend and travelling companion of Saint Nilus the Younger, he was noted for his zeal for the monastic life and desire
   to spread the faith.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Stephen-of-Rossano-Calabro.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Stephen-of-Rossano-Calabro.jpg
 birthYear: 925
 deathYear: 1001
 born: c.925 in Rossano Calabro, Italy

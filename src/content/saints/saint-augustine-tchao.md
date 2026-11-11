@@ -5,7 +5,7 @@ summary: >-
   Soldier. Escorted Saint Gabriel John Tauin du-Fresse to Beijing, China during his missionary work. Convert to
   Christianity. Priest. Worked in the Sichuan apostolic vicariate. Arrested for his faith and his work. He died in
   prison. One of the Martyrs of China.
-image: http://catholicsaints.info/wp-content/gallery/saint-augustine-tchao/saint-augustine-tchao-01.jpg
+image: https://catholicsaints.info/wp-content/gallery/saint-augustine-tchao/saint-augustine-tchao-01.jpg
 searchAliases:
   - Augustin Rong Zhao
   - Augustinus Zhao

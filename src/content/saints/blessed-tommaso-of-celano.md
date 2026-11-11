@@ -5,7 +5,7 @@ summary: >-
   One of the first spiritual students of Saint Francis of Assisi, Tommaso joined the Order c.1215. Priest. Assigned to
   missionary work to spread Franciscan spirituality and houses in Germany from 1221 to 1223. He was present at both the
   death and the canonization of Saint Francis.
-image: http://catholicsaints.info/wp-content/uploads/img-Father-Tommaso-da-Celano.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Father-Tommaso-da-Celano.jpg
 birthYear: 1185
 deathYear: 1260
 born: c.1185 in Celano, L'Aquila, Italy

@@ -5,7 +5,7 @@ summary: >-
   Trained in the law, he taught at the University of Paris, France. Mercedarian secular knight in Valencia, Spain.
   Assigned to Granada, Spain where he worked to ransom Christians held prisoner by the Moors, and encourage Christians
   who were about to renounce their faith in fear. Be
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Giustino-of-Paris.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Giustino-of-Paris.jpg
 deathYear: 1337
 born: Paris, France
 died: hanged in 1337 in Granada, Spain

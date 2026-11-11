@@ -2,7 +2,7 @@
 name: Blessed Andreas Gim Gwang-Ok
 honorific: Blessed
 summary: Layman martyr in the apostolic vicariate of Korea.
-image: http://catholicsaints.info/wp-content/uploads/people-who-open-the-light-of-dawn.jpg
+image: https://catholicsaints.info/wp-content/uploads/people-who-open-the-light-of-dawn.jpg
 birthYear: 1841
 deathYear: 1801
 born: c.1841 in Yesan, Chungcheong-do, South Korea

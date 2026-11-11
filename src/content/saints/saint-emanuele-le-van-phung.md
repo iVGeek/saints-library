@@ -5,7 +5,7 @@ summary: >-
   Married layman in the apostolic vicariate of West Cochinchina (in modern Vietnam). Father and catechist; he built a
   church, a convent for the Daughters of Mary, a home for missionaries, and a college. Arrested on 7 January 1859 in the
   persecutions of emperor Tu-Duc for the crime
-image: http://catholicsaints.info/wp-content/gallery/martyrs-of-vietnam/martyrs-of-vietnam-01.jpg
+image: https://catholicsaints.info/wp-content/gallery/martyrs-of-vietnam/martyrs-of-vietnam-01.jpg
 searchAliases:
   - Emmanuel Le Van Phung
 birthYear: 1796

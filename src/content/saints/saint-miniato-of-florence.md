@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Soldier, though he is often depicted as a military prince. Evangelized among his fellow troops when stationed in
   Florence, Italy. Martyred in the persecutions of Decius. An abbey outside the Florence city walls is named for him.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Miniato-of-Florence.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Miniato-of-Florence.jpg
 searchAliases:
   - Minias
 deathYear: 250

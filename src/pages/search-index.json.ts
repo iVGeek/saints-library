@@ -16,25 +16,16 @@ export const GET: APIRoute = async () => {
     .map((s) => ({
       slug: slug(s.id),
       name: s.data.name,
-      honorific: s.data.honorific,
-      title: s.data.title ?? '',
       aliases: s.data.searchAliases,
       summary: s.data.summary ?? '',
       feast: `${s.data.feastDay.month}/${s.data.feastDay.day}`,
-      feastLabel: formatFeastLabel(s.data.feastDay),
-      feastMonth: s.data.feastDay.month,
-      feastDayNum: s.data.feastDay.day,
       patronage: s.data.patronage.map((p: string) => p.replace(/-/g, ' ')),
-      causes: s.data.causes,
       vocation: s.data.vocation,
       religiousOrder: s.data.religiousOrder ?? '',
       region: s.data.region ?? '',
-      centuries: s.data.centuries,
       status: s.data.canonizationStatus,
       martyr: s.data.martyr,
-      symbols: s.data.symbols,
       image: imageSrc(s.data.image, 500),
-      imageAlt: s.data.imageAlt ?? '',
     }))
     .sort((a, b) => a.name.localeCompare(b.name));
 
@@ -43,7 +34,4 @@ export const GET: APIRoute = async () => {
   });
 };
 
-function formatFeastLabel(f: { month: number; day: number }): string {
-  const months = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
-  return `${months[f.month - 1]} ${f.day}`;
-}
+

@@ -2,7 +2,7 @@
 name: Saint Hermes of Rome
 honorific: Saint
 summary: Wealthy freed Roman slave. Brother of Saint Theodora of Rome. Martyr. A catacomb in the Salesian Way bears his name.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Hermes-of-Rome.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Hermes-of-Rome.jpg
 searchAliases:
   - Ermete
 deathYear: 125

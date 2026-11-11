@@ -5,7 +5,7 @@ summary: >-
   Relative of Irish royalty, the son of Coelcharna and Lassair. Student of Saint Nathy at Sligo, Ireland. Priest. Hermit
   near Fore, Westmeath, Ireland. Founded Fobhar monastery in Westmeath and served as its first abbot; the house
   eventually grew to over 300 monks. Founded monaster
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Fechin-of-Fobhar.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Fechin-of-Fobhar.jpg
 searchAliases:
   - Feichin
   - Vigean

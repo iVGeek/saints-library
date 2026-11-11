@@ -2,7 +2,7 @@
 name: Saint Bernard of Arce
 honorific: Saint
 summary: Pilgrim to the Holy Lands and then to Rome, Italy. Hermit at Arpino, Italy.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Bernard-of-Arce.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Bernard-of-Arce.jpg
 searchAliases:
   - Berhard of Arce
 died: 9th century of natural causes

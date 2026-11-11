@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Physician who treated the poor for free. Franciscan tertiary. Sometime cook for the Franciscan missionaries at Osaka,
   Japan. Catechist. One of the Martyrs of Nagasaki.
-image: http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Nagasaki.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Nagasaki.jpg
 searchAliases:
   - Joachim Sakachibara
   - Joachim Saccachibara

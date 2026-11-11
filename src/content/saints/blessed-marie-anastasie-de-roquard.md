@@ -2,7 +2,7 @@
 name: Blessed Marie-Anastasie de Roquard
 honorific: Blessed
 summary: Ursuline nun. Martyred in the French Revolution.
-image: http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Orange.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Orange.jpg
 searchAliases:
   - Sister Saint Gervase
 birthYear: 1749

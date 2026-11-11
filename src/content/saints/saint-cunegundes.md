@@ -5,7 +5,7 @@ summary: >-
   Daughter of Sigfrid, Count of Luxembourg. Received a religious education, and took a private vow of virginity. Married
   Saint Henry II, Duke of Bavaria, who agreed to honour her vow. On the death of Emperor Otho III, Henry was chosen King
   of the Romans, and Cunegundes was crowned
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Cunigundes.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Cunigundes.jpg
 searchAliases:
   - Chunigundis
   - Cunegund

@@ -2,7 +2,7 @@
 name: Blessed Ioannes Hashimoto Tahyoe
 honorific: Blessed
 summary: Layman, married to Blessed Thecla Hashimoto; father of four. One of the Martyrs of Kyoto.
-image: http://catholicsaints.info/wp-content/uploads/img-Martyred-Hashimoto-Family.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Martyred-Hashimoto-Family.jpg
 deathYear: 1619
 born: Kyoto, Japan
 died: 6 October 1619 in Kyoto (Miyako), Japan

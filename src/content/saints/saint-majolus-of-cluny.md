@@ -5,7 +5,7 @@ summary: >-
   Archdeacon of Macon, France. Priest. Monk at Cluny Abbey in France, taking the cowl partly to avoid being chosen a
   bishop. Chosen co-adjutor abbot in 954 to assist Blessed Aimaro, who was losing his sight; abbot in 965, much against
   his will. Mayeul was devoted to learning, and l
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Majolus-of-Cluny.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Majolus-of-Cluny.jpg
 searchAliases:
   - Maieul
   - Maiolo

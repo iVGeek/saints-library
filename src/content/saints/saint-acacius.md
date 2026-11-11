@@ -2,7 +2,7 @@
 name: Saint Acacius of Miletus
 honorific: Saint
 summary: Bishop who was tortured and martyred in the persecutions of Licinius.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Acacius.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Acacius.jpg
 searchAliases:
   - Acacio
   - Acazio

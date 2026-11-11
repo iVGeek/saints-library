@@ -5,7 +5,7 @@ summary: >-
   Raised in a pious family, Sebastiana became a school teacher and catechist. With some like-minded young women, she
   founded the Missionaries of the Sacred Hearts of Jesus and Mary (Misioneras de los Sagrados Corazones) in the spring
   of 1891, a teaching order that continues their g
-image: http://catholicsaints.info/wp-content/uploads/img-Venerable-Sebastiana-Lladó-Sala.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Sebastiana-Lladó-Sala.jpg
 searchAliases:
   - Sister Maria Rafaela of the Sacred Heart
 birthYear: 1814

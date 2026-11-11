@@ -5,7 +5,7 @@ summary: >-
   Born to the Venetian nobility; his ancestors had fled Constantinople for political reasons. Against his widowed
   mother's wishes, he chose against marriage and for the religious life. Augustinian canon regular at San Giorgio, Alga,
   Italy in 1400. Spent his days wandering the islan
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Lawrence-Giustiniani.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Lawrence-Giustiniani.jpg
 searchAliases:
   - Lawrence Justinian
   - Laurence…

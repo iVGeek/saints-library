@@ -5,7 +5,7 @@ summary: >-
   Born to an ancient and noble family; daughter of Count Arnaud. As a child, Rosalina was noted for her charity to the
   poor, often slipping away to give food to beggars outside the family castle. Her father, seeing that she was giving
   away expensive meals, ordered her to stop. Sadd
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Rosalina-of-Villeneuve.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Rosalina-of-Villeneuve.jpg
 searchAliases:
   - Roseline
   - Roselyne

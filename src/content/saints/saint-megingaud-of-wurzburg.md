@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Benedictine monk at the monastery of Fritzlar, Germany, in 738. Teacher at the abbey school. Abbot at Fritzlar. Bishop
   of Würzburg, Germany in February 754. In 769 he retired to Neustadt abbey to spend his last days as a prayerful monk.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Megingaud-of-Würzburg.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Megingaud-of-Würzburg.jpg
 searchAliases:
   - Megingaud of Wérzburg
   - Megingoz

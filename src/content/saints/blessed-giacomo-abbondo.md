@@ -5,7 +5,7 @@ summary: >-
   Second of six children born to Carlo Benedetto Abbondo and Francesca Maria Naya. Giacomo was greatly influenced by his
   paternal uncle, Father Giovanni Carlo Abbondo. Studied in Tronzano and Vercelli in Italy. Ordained in the diocese of
   Vercelli on 21 March 1744; he received dispe
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Giacomo-Abbondo.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Giacomo-Abbondo.jpg
 birthYear: 1720
 deathYear: 1788
 born: 27 August 1720 in Salomino, Duchy of Milan (in modern Italy)

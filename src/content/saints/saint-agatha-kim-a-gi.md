@@ -2,7 +2,7 @@
 name: Saint Agatha Kim A-Gi
 honorific: Venerable
 summary: Married lay woman. A Convert, baptized while in prison for being around Christians. One of the Martyrs of Korea.
-image: http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Korea.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Korea.jpg
 searchAliases:
   - Agata Kim A-Gi
 birthYear: 1787

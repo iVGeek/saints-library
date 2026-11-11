@@ -5,7 +5,7 @@ summary: >-
   Son of Francis Joseph, a judge, and Mary Teresa, the daughter of judge. Ignatius and all three of his brothers became
   lawyers; two of his brothers entered the priesthood. Ignatius received minor orders at age 15. He earned a degree in
   theology, but did not feel worthy of the prie
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Nazju-Falzon.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Nazju-Falzon.jpg
 searchAliases:
   - Ignatius Falzon
 birthYear: 1813

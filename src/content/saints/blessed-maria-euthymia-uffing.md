@@ -5,7 +5,7 @@ summary: >-
   One of eleven children of August Üffing and Maria Schmidt, Emma grew up in a pious family in a small town. At 18
   months, she developed a form of rickets that stunted her growth and left her in poor health the rest of her life. Made
   her First Communion on 27 April 1924, and was Co
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Maria-Euthymia-Üffing.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Maria-Euthymia-Üffing.jpg
 searchAliases:
   - Emma Uffing
   - Maria Eutimia

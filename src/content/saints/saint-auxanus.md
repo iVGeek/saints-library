@@ -2,7 +2,7 @@
 name: Saint Auxanus of Milan
 honorific: Saint
 summary: Bishop of Milan, Italy.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Auxanus-of-Milan.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Auxanus-of-Milan.jpg
 searchAliases:
   - Ansano
   - Ausano

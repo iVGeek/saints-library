@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Joined the Capuchin Order in Seville, Spain in 1759. Missionary throughout Spain, primarily in Andalusia. Spent most
   of his pastoral time in the confessional. Member of the Confraternity of the Most Holy Trinity.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Diego-Josef-of-Cadiz.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Diego-Josef-of-Cadiz.jpg
 searchAliases:
   - Apostle of Our Lady, the Mother of the Good Shepherd
   - Apostle of the Blessed Trinity

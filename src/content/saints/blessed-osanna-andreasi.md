@@ -5,7 +5,7 @@ summary: >-
   Daughter of Italian nobles Nicolaus and Agnes. Reported to have had a vision of angels, paradise, and the Trinity at
   age five. Feeling called to religious life, she rejected a marriage arranged by her father, and became a Dominican
   tertiary at 17; she waited 37 years to complete
-image: http://catholicsaints.info/wp-content/gallery/blessed-osanna-andreasi/blessed-osanna-andreasi-01.jpg
+image: https://catholicsaints.info/wp-content/gallery/blessed-osanna-andreasi/blessed-osanna-andreasi-01.jpg
 searchAliases:
   - Hosanna Andreasi
   - Hosanna Andreassi

@@ -5,7 +5,7 @@ summary: >-
   Second of seven children born to Santo Romero and Guadaleupe de Jesus Galdamez. Ordained on 4 April 1942 in Rome,
   Italy. Parish priest of Anamoros, La Union, El Salvador in 1943. Secretary to the diocese of San Miguel, El Salvador
   in 1944. Auxiliary bishop of San Salvador, El Sal
-image: http://catholicsaints.info/wp-content/uploads/img-Archbishop-Oscar-Arnulfo-Romero-y-Galdámez.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Archbishop-Oscar-Arnulfo-Romero-y-Galdámez.jpg
 birthYear: 1917
 deathYear: 1980
 born: 15 August 1917 in Ciudad Barrios, San Miguel, El Salvador

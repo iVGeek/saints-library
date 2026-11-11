@@ -5,7 +5,7 @@ summary: >-
   Born to the Roman patrician class. Divorced from her first marriage after being abused by her adulterous husband.
   Widowed in second marriage. Friend of Saint Jerome, Saint Paula of Rome, and Saint Pammachius. Founded the first
   hospital in the west. Built a hospice in Porto Romano
-image: http://catholicsaints.info/wp-content/uploads/Fabiola-of-Rome.jpg
+image: https://catholicsaints.info/wp-content/uploads/Fabiola-of-Rome.jpg
 deathYear: 399
 born: 4th century in Rome, Italy
 died: 399 in Rome, Italy of natural causes

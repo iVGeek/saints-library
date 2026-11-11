@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Sister of Saint Chionia and Saint Irene. Convicted of possessing the Scriptures despite a prohibition issued in 303 by
   Emperor Diocletian. She was ordered to sacrifice to pagan gods; she refused. Martyr.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Agape-of-Thessalonica.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Agape-of-Thessalonica.jpg
 searchAliases:
   - Acapis
 deathYear: 304

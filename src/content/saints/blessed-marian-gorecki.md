@@ -5,7 +5,7 @@ summary: >-
   Son of Tomas and Petronela Górecki. Joined the army at age 17 fight in the Polish-Bolshevik war. Following his
   service, he entered the seminary, graduating with honors, and being ordained on 1 July 1928. Curate in Leszno, Poland.
   Prefect of the seminary in Kozmin and Wolsztyn. As
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Marian-Górecki.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Marian-Górecki.jpg
 birthYear: 1903
 deathYear: 1940
 born: 21 May 1903 in Poznan, Wielkopolskie, Poland

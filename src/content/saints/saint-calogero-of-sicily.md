@@ -3,7 +3,7 @@ name: Saint Calogero of Sicily
 honorific: Saint
 title: Hermit
 summary: Hermit with the gift of healing by prayer.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Calogero-of-Sicily.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Calogero-of-Sicily.jpg
 searchAliases:
   - Calogerus
 birthYear: 466

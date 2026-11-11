@@ -5,7 +5,7 @@ summary: >-
   Third century officer in Roman army stationed in modern Austria. Military administrator of the town of Noricum, and a
   closet Christian. Said to have stopped a town from burning by praying and throwing a single bucket of water on the
   blaze, and thus his association with firefighte
-image: http://catholicsaints.info/wp-content/uploads/img-Florian-of-Lorch.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Florian-of-Lorch.jpg
 searchAliases:
   - Floriano
 deathYear: 304

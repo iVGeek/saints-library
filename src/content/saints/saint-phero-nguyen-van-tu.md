@@ -2,7 +2,7 @@
 name: Saint Phêrô Nguyen Van Tu
 honorific: Venerable
 summary: Dominican priest. Martyr.
-image: http://catholicsaints.info/wp-content/gallery/saint-phero-nguyen-van-tu/saint-phero-nguyen-van-tu-01.jpg
+image: https://catholicsaints.info/wp-content/gallery/saint-phero-nguyen-van-tu/saint-phero-nguyen-van-tu-01.jpg
 birthYear: 1796
 deathYear: 1838
 born: c.1796 in Ninh Cuong, Nam Ðinh, Vietnam

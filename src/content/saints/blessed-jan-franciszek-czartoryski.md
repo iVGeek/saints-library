@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Civil engineer. Dominican, taking the name Michal. Priest. Executed in the Nazi persecution for ministering to wounded
   resistance fighters in World War II. Martyr.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Jan-Franciszek-Czartoryski.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Jan-Franciszek-Czartoryski.jpg
 searchAliases:
   - Michal Czartoryski
   - Father Michal

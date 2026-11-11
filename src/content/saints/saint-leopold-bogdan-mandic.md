@@ -5,7 +5,7 @@ summary: >-
   Saint Leopold was a contrast between physical frailty and spiritual strength. Four foot five inches tall, and
   physically weak, his health became worse with age. He had a stammer, suffered abdominal pains, and was gradually
   deformed by chronic arthritis, making his frame stooped,
-image: http://catholicsaints.info/wp-content/gallery/saint-leopold-bogdan-mandic/saint-leopold-bogdan-mandic-01.jpg
+image: https://catholicsaints.info/wp-content/gallery/saint-leopold-bogdan-mandic/saint-leopold-bogdan-mandic-01.jpg
 searchAliases:
   - Adeodato Bogdan Mandic
   - Apostle of the Confession

@@ -5,7 +5,7 @@ summary: >-
   Born to the nobility, one of eleven children Count Fontenella of Santena, Italy. At age twelve she joined the
   Cistercians at Saluzzo, Italy. Unfortunately, Mary's father died soon after, and Mary had to return home to help with
   the family. Four years later, over the protests of h
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Mary-Fontanella-1.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Mary-Fontanella-1.jpg
 searchAliases:
   - Mary of the Angels
   - Maria degli Angeli

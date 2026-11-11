@@ -5,7 +5,7 @@ summary: >-
   Chief or prefect of the island of Malta, and a land-owner. He cared for Saint Paul when the apostle stopped there when
   being taken to Rome, Italy as prisoner. Paul cured Publius' father of fever and dysentery. May have been the first
   bishop of Malta; other writers claim he became
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Publius-of-Malta.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Publius-of-Malta.jpg
 searchAliases:
   - Publius of Athens
 deathYear: 112

@@ -5,7 +5,7 @@ summary: >-
   Priest. Member of the Sons of the Holy Family, and the treasurer of his community. Teacher at Saint Peter the Apostle
   school in Reus, Tarragona, Spain. He was arrested on 27 July 1936 during the persecutions of the Spanish Civil War for
   the crime of being a priest, imprisoned on
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Fermí-Martorell-Vies.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Fermí-Martorell-Vies.jpg
 birthYear: 1879
 deathYear: 1936
 born: 3 November 1879 in Margalef, Tarragona, Spain

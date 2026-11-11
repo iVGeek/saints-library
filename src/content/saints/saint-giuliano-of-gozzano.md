@@ -5,7 +5,7 @@ summary: >-
   Younger brother of Saint Julius of Novara with whom he studied in Athens, Greece. When Julius was ordained a priest,
   Giuliano was ordained a deacon so he could serve his brother's ministry. The two worked to build churches and teach
   orthodox Christianity in the areas of modern Hu
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Giuliano-of-Gozzano.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Giuliano-of-Gozzano.jpg
 searchAliases:
   - Giuliano of Orta
   - Julian

@@ -2,7 +2,7 @@
 name: Blessed Ezequiel Álvaro de La Fuente
 honorific: Blessed
 summary: Trappist monk. Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Martyred-Cistercians-of-the-Spanish-Civil-War.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Martyred-Cistercians-of-the-Spanish-Civil-War.jpg
 birthYear: 1917
 deathYear: 1936
 born: 21 May 1917 in Espinosa de Cerrato, Palencia, Spain

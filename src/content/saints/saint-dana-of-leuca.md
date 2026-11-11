@@ -5,7 +5,7 @@ summary: >-
   Immigrant to and deacon in Santa Maria di Leuca, Italy. When the port town was invaded, Dana gathered up the sacred
   vessels and scriptures and ran inland; he managed to consume the consecrated Hosts to prevent them from being
   profaned. Ordered to sacrifice wine to the pagan god B
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Dana-of-Leuca.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Dana-of-Leuca.jpg
 searchAliases:
   - Dana of Aulana
   - Dana of Aulon

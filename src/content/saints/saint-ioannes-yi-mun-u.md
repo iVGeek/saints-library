@@ -4,7 +4,7 @@ honorific: Venerable
 summary: >-
   Married layman in the apostolic vicariate of Korea. Ministered to the poor and gave Christian burial to martyrs.
   Martyr.
-image: http://catholicsaints.info/wp-content/uploads/img-Maryrs-of-Korea.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Maryrs-of-Korea.jpg
 searchAliases:
   - Yohan Yi Mun-u
   - John Yi Mun-u

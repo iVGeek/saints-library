@@ -5,7 +5,7 @@ summary: >-
   Joined the Franciscan Friars Minor in the province of Saint Mary of the Angels in 1912. Drafted into military service
   in World War I, he returned to the monastery after the war and made his solemn profession on 4 October 1924, taking
   the name Marcin. Priest. Arrested on 26 August
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Jan-Oprzadek.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Jan-Oprzadek.jpg
 searchAliases:
   - Marcin Oprzadek
   - Martin Oprzadek

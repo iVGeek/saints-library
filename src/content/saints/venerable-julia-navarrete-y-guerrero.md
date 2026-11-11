@@ -5,7 +5,7 @@ summary: >-
   One of six children born to pious parents, Professor Demetrio Navarrette, director of a teacher's college, and Julia
   Guerrero, a music and singing teacher. Nun. She had a deep devotion to the Sacred Heart of Jesus, the Holy Spirit and
   the Virgin Mary, and constantly worked to spr
-image: http://catholicsaints.info/wp-content/uploads/img-Venerable-Julia-Navarrete-y-Guerrero.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Julia-Navarrete-y-Guerrero.jpg
 birthYear: 1881
 deathYear: 1974
 born: 30 June 1881 in Oaxaca, Mexico

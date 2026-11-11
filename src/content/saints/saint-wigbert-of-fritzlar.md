@@ -5,7 +5,7 @@ summary: >-
   Became a monk as a very young man, possibly at Glastonbury Abbey. Missionary who worked with Saint Boniface. He
   arrived in Germany c.734. Abbot of the monastery of Hersfeld, Hesse. Spiritual teacher of Saint Sturmi of Fulda. Abbot
   of Ohrdruf, Thuringia in 737. He later retired to
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Wigbert-of-Fritzlar.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Wigbert-of-Fritzlar.jpg
 searchAliases:
   - Vigbert
   - Vigberto

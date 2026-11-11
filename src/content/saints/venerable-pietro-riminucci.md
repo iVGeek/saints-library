@@ -2,7 +2,7 @@
 name: Venerable Pietro Riminucci
 honorific: Venerable
 summary: Franciscan Capuchin friar.
-image: http://catholicsaints.info/wp-content/uploads/img-Venerable-Pietro-Riminucci.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Pietro-Riminucci.jpg
 searchAliases:
   - Serafino of Pietrarubbia
 birthYear: 1875

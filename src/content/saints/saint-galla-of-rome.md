@@ -5,7 +5,7 @@ summary: >-
   Born to the Roman nobility, the daughter Symmachus the Younger who served as consul in 485; sister-in-law of Boethius.
   Lay woman, marrying soon after her father's murder, but widowed after a year of marriage; legend says she grew a beard
   to avoid further offers of marriage. She b
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Galla-of-Rome.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Galla-of-Rome.jpg
 deathYear: 550
 died: c.550 of breast cancer
 region: Italy

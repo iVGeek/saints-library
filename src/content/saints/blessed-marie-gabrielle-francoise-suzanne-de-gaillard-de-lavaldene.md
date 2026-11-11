@@ -2,7 +2,7 @@
 name: Blessed Marie-Gabrielle-Françoise-Suzanne de Gaillard de Lavaldène
 honorific: Blessed
 summary: Sacramentine nun. Martyred in the French Revolution.
-image: http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Orange.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Orange.jpg
 searchAliases:
   - Francesca Maria Susanna
   - Ifigenia di S. Matteo de Gaillard de la Valdène

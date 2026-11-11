@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Claretians co-adjutor brother, making his profession in 1897, and serving his community as sacristan and tailor.
   Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Gregorio-Chirivas-Lacamba.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Gregorio-Chirivas-Lacamba.jpg
 birthYear: 1880
 deathYear: 1936
 born: 24 April 1880 in Siétamo, Huesca, Spain

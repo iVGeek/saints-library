@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Brother of Blessed Lucy Bufalari. Augustinian friar-hermit at Rieti, Italy. Loved to serve at Mass. Friary porter,
   caring for travellers and the poor.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-John-of-Rieti.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-John-of-Rieti.jpg
 searchAliases:
   - Giovanni Bufalari
   - John…

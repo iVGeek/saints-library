@@ -4,7 +4,7 @@ honorific: Venerable
 summary: >-
   Married layman in the apostolic vicariate of Korea. Pharmacist. Convert. Imprisoned, tortured and left to die in
   prison for his faith. Martyr.
-image: http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Korea.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Korea.jpg
 searchAliases:
   - Joseph Chang Song-jib
   - Giuseppe Chang Song-jib

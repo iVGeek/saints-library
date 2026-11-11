@@ -4,7 +4,7 @@ honorific: Venerable
 summary: >-
   Entered the seminary of the Paris Foreign Missionary Society in the apostolic vicariate of Cochinchina, Vietnam in his
   late teens. Martyr.
-image: http://catholicsaints.info/wp-content/gallery/saint-toma-tran-van-thien/saint-toma-tran-van-thien-01.jpg
+image: https://catholicsaints.info/wp-content/gallery/saint-toma-tran-van-thien/saint-toma-tran-van-thien-01.jpg
 birthYear: 1820
 deathYear: 1838
 born: c.1820 in Trung Quán, Quang Bình, Vietnam

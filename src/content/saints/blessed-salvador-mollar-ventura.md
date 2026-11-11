@@ -2,7 +2,7 @@
 name: Blessed Salvador Mollar Ventura
 honorific: Blessed
 summary: Franciscan Friar Minor. Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Salvador-Mollar-Ventura.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Salvador-Mollar-Ventura.jpg
 birthYear: 1896
 deathYear: 1936
 born: 27 March 1896 in Manises, Valencia, Spain

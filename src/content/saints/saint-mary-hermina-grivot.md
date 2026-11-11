@@ -5,7 +5,7 @@ summary: >-
   Daughter of a cooper and a housekeeper. Irma was an active, affectionate, sensitive, intelligent but sickly child, and
   her education stopped at the elementary level. She felt drawn to religious life, but her family opposed it, She worked
   as a tutor to make her own way, and in 189
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Mary-Hermina-Grivot.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Mary-Hermina-Grivot.jpg
 searchAliases:
   - Irma Grivot
   - Maria Ermellina di Gesù

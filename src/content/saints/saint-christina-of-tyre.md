@@ -2,7 +2,7 @@
 name: Saint Christina of Tyre
 honorific: Saint
 summary: ' Due to the details of her martyrdom, listed below, she''s likely a pious fiction, but was highly honoured in Greece for ce Young girl imprisoned for her faith. Her mother tried to argue her into making the required pagan sacrifices, but Christina refused, and was executed. Martyr.'
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Christina-of-Tyre.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Christina-of-Tyre.jpg
 born: at Tyre
 died: a fire was lit under her, raged out of control, killed hundreds of pagan bystanders, but Christina escaped unscathed
 deathPlace: raged outcontrol, killed hundreds of pagan bystanders, but Christina escaped unscathed

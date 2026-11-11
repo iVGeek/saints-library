@@ -5,7 +5,7 @@ summary: >-
   Born to a wealthy farm family. Studied in the Spanish cities of Vic in 1922, then Cervera and Barbastro. Intelligent
   and studious, he suffered with stuttering. Joined the Claretians in 1927. He was ordained as a sub-deacon, but his
   health was poor, and he set aside his seminary s
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Wenceslau-Clarís-Vilaregut.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Wenceslau-Clarís-Vilaregut.jpg
 birthYear: 1907
 deathYear: 1936
 born: 3 January 1907 in Olost de Llusanés, Barcelona, Spain

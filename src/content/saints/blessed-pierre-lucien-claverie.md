@@ -5,7 +5,7 @@ summary: >-
   Born to a working class French family living in Algeria. At age 10, Pierre joined the scouts in a troop led by
   Dominicans, and became familiar with their spirituality. He attended college in Grenoble, France, and joined the
   Dominicans himself at the convent in Lille, France on 7
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Pierre-Lucien-Claverie.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Pierre-Lucien-Claverie.jpg
 searchAliases:
   - the bishop of the Muslims (he was called this by Muslim mourners at his funeral)
 birthYear: 1938

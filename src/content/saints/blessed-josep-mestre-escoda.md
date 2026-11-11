@@ -2,7 +2,7 @@
 name: Blessed Josep Mestre Escoda
 honorific: Blessed
 summary: Priest in the archdiocese of Tarragona, Spain. Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Josep-Mestre-Escoda.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Josep-Mestre-Escoda.jpg
 birthYear: 1899
 deathYear: 1937
 born: 12 February 1899 in Dosaiguas, Tarragona, Spain

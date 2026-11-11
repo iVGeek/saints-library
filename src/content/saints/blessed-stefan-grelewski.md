@@ -5,7 +5,7 @@ summary: >-
   Older brother of Blessed Kazimierz Grelewski. Studied at the Progimnazjum in Sandomierz and Lubartów in Poland.
   Ordained in October 1921 as a priest in the archdiocese of Radom, Poland. Graduated with a doctorate in canon law in
   Strasbourg, France in 1924. General secretary of th
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Stefan-Grelewski.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Stefan-Grelewski.jpg
 searchAliases:
   - prisoner 10444 (Auschwitz)
   - prisoner 25581 (Dachau)

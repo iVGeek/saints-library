@@ -5,7 +5,7 @@ summary: >-
   Born to the Castilian nobility, the daughter of Felix de Caleruega, constable of Castile. Lay woman noted for her
   physical and spiritual beauty. Married to Felix de Guzman, governor of Calaruega, Burgos, Spain c.1165. Mother of
   four. Her oldest son, Venerable Anthony, became a pr
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Juana-de-Aza.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Juana-de-Aza.jpg
 searchAliases:
   - Jane of Aza
   - Joan of Aza

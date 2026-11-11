@@ -5,7 +5,7 @@ summary: >-
   Daughter of Manuel Lopes and Josefa de Jesus Almeida. Hers was a pious family, reading and praying the rosary together
   every evening. She grew up in a time when Portugese Freemasons, with government support, were in open conflict with
   the Church. Churches and property were seized
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Rita-Amada-de-Jesus.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Rita-Amada-de-Jesus.jpg
 searchAliases:
   - Apostle of the Rosary
   - Rita L&oacute;pes de Almeida

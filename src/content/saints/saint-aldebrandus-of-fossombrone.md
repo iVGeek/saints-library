@@ -5,7 +5,7 @@ summary: >-
   Studied at Santa Maria de Porto near Ravenna, Italy. Priest. Prior of the monastery of Rimini, Italy. Known for his
   bold preaching against sinful lives, which put him afoul of some local authorities; he once had to flee from death
   threats. Bishop of Fossombrone, Italy in 1170. Bu
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Aldebrandus-of-Fossombrone.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Aldebrandus-of-Fossombrone.jpg
 searchAliases:
   - Aldebrand
   - Aldebrando

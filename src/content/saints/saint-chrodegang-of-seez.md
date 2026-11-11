@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Brother of Saint Opportune. 15th bishop of Seez, France. Noted for his support of the poor and disabled. Murdered
   while returning from a pilgrimage.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Chrodegang-of-Seez.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Chrodegang-of-Seez.jpg
 searchAliases:
   - Godegrand
 deathYear: 765

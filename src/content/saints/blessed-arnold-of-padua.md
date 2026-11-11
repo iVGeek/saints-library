@@ -5,7 +5,7 @@ summary: >-
   Born to the nobility. Benedictine monk at the Santa Giustina monastery in Padua, Italy. Chosen abbot in 1209 at age
   24, he restored and expanded the abbey structure, and fought to maintain its rights. When Ezzelino III conquered Padua
   in 1237, Arnold escaped to Monselice. He retu
-image: http://catholicsaints.info/wp-content/uploads/Arnold-of-Padua.jpg
+image: https://catholicsaints.info/wp-content/uploads/Arnold-of-Padua.jpg
 searchAliases:
   - Arnold de'Cattanei
   - Arnold Cattaneo

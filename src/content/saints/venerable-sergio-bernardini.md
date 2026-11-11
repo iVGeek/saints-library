@@ -4,7 +4,7 @@ honorific: Venerable
 summary: >-
   Married to Venerable Domenica Bedonni Bernardini; father; lifelong layman in the archdiocese of Modena-Nonantola,
   Italy. Franciscan tertiary.
-image: http://catholicsaints.info/wp-content/uploads/img-Venerable-Sergio-Bernardini.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Sergio-Bernardini.jpg
 birthYear: 1882
 deathYear: 1966
 born: 20 May 1882 in Sassoguidano, Modena, Italy

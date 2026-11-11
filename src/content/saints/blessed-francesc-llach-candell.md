@@ -5,7 +5,7 @@ summary: >-
   Priest. Member of the Sons of the Holy Family. Secretary of his community and science teacher at Saint Peter the
   Apostle school in Reus, Tarragona, Spain. He was arrested on 25 July 1936 during the persecutions of the Spanish Civil
   War for the crime of being a priest, imprisoned
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Francesc-Llach-Candell.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Francesc-Llach-Candell.jpg
 birthYear: 1889
 deathYear: 1936
 born: 7 December 1889 in Torelló, Barcelona, Spain

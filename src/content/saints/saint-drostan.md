@@ -5,7 +5,7 @@ summary: >-
   Born to the Scottish royalty, the son of Cosgrach. Educated by Saint Columba. Benedictine monk. Travelled to Aberdeen,
   Scotland with Saint Columba. First abbot of the monastery at Dier in Pictland. Abbot of Dercongal Abbey (Holywood). He
   evangelized the Picts, and brought Christi
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Drostan.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Drostan.jpg
 searchAliases:
   - Drost&aacute;n mac Coscreig of Deer
   - |-

@@ -4,7 +4,7 @@ honorific: Venerable
 summary: >-
   Joined the Society of Missionaries of Saint Francis Xavier (Pilar Fathers) on 17 July 1897. Ordained on 2 September
   1899. Mystic and noted preacher.
-image: http://catholicsaints.info/wp-content/uploads/img-Venerable-Agnelo-Gustavo-Adolfo-de-Souza.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Agnelo-Gustavo-Adolfo-de-Souza.jpg
 birthYear: 1869
 deathYear: 1927
 born: 21 January 1869 at Anjuan, archdiocese of Goa and Daman, India

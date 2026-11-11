@@ -2,7 +2,7 @@
 name: Blessed Marie-Clotilde Blanc
 honorific: Blessed
 summary: Sacramentine nun. Martyred in the French Revolution.
-image: http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Orange.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Orange.jpg
 searchAliases:
   - Maria Chiara di S. Martino Blanc
   - Sister Saint Martin

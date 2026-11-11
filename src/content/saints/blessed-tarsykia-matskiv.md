@@ -5,7 +5,7 @@ summary: >-
   Greek Catholic. Entered the Sister Servants of Mary Immaculate on 3 May 1938, taking her vows on 5 November 1940. Made
   a private vow to her spiritual director that she would give her life for the conversion of Russia and the good of the
   Church. When the Bolsheviks arrived to dest
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Tarsykia-Matskiv.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Tarsykia-Matskiv.jpg
 searchAliases:
   - Tarsykia Mackiv
   - Tarcisia….

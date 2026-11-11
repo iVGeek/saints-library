@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Layman convert, one of the first in Korea. He started building a house of prayer house in his village for his fellow
   converts, but was arrested before he could finish it, and murdered during questioning.
-image: http://catholicsaints.info/wp-content/uploads/img-Maryrs-of-Korea.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Maryrs-of-Korea.jpg
 searchAliases:
   - Francis
 birthYear: 1745

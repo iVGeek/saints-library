@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Nun. Member of the Calasanzian Institute, Daughters of the Divine Shepherdess. Superior of the convent-school in
   Martos, Spain. Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Francisca-Inés-Valverde-González.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Francisca-Inés-Valverde-González.jpg
 searchAliases:
   - Victoria Valverde González
   - Vittoria Valverde Gonzalez

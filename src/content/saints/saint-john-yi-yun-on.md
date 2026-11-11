@@ -4,7 +4,7 @@ honorific: Venerable
 summary: >-
   Layman farmer. Married. Father. Catechist. Beaten, whipped and executed for his faith, the last martyr of a particular
   state-sponsored persecution of Christians in Korea.
-image: http://catholicsaints.info/wp-content/uploads/img-Maryrs-of-Korea.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Maryrs-of-Korea.jpg
 searchAliases:
   - Giovanni Yi Yun-il
   - Ioannes Yi Yun-il

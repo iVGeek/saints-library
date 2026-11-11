@@ -5,7 +5,7 @@ summary: >-
   Member of the Trinitarians, beginning his novitiate at the Shrine of Bien Aparecida in Cantabria, Spain, and making
   his simple vows on 11 October 1914. He studied at several convents, and made his final profession on 17 May 1918 in
   Cordoba, Spain. Ordained a priest in Madrid, Spa
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Juan-Otazua-y-Madariaga.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Juan-Otazua-y-Madariaga.jpg
 searchAliases:
   - Juan de Jesús y María
 birthYear: 1895

@@ -5,7 +5,7 @@ summary: >-
   Educated at the Jesuit College of Saint Francis Xavier in Manila, Philippines. Ordained a priest in the diocese of
   Lipa, Philippines on 15 March 1919. Parish priest at Malvar, Batangas, Philippines and the cathedral parish of Lipa
   from 1927 to 1944 during which he established sev
-image: http://catholicsaints.info/wp-content/uploads/img-Bishop-Alfredo-Maria-Obviar.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Bishop-Alfredo-Maria-Obviar.jpg
 birthYear: 1889
 deathYear: 1978
 born: 29 August 1889 in Lipa, Batangas, Philippines

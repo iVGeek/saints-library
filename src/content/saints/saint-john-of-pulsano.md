@@ -5,7 +5,7 @@ summary: >-
   Benedictine monk. Lived with such austerity that it brought on the enmity of his brothers who felt he was setting a
   standard that they could not meet, making them look bad, and drawing attention to himself. Monk at Montevergine Abbey
   under the spiritual direction of his friend Sa
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-John-of-Pulsano.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-John-of-Pulsano.jpg
 searchAliases:
   - Giovanni di Matera
   - Giovanni Scalcione

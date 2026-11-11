@@ -5,7 +5,7 @@ summary: >-
   The son of Antonio Perot and Celestina Juanmartí, the family moved from France to Spain when José was still a young
   boy. He studied in the seminary of the diocese of Urgell, Spain, and was ordained a priest on 28 March 1903. Father
   José served as coadjutor in several parishes, an
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-José-Juan-Perot-y-Juanmarti.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-José-Juan-Perot-y-Juanmarti.jpg
 searchAliases:
   - Josep-Joan Perot y Juanmarti
 birthYear: 1877

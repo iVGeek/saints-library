@@ -5,7 +5,7 @@ summary: >-
   Born to a poor, small town family, she was baptized at the age of a week and grew up as a pious child, active in her
   parish church. Member of the Daughters of Mary. Member of the Oblates of the Sacred Heart of Jesus in Rome, Italy from
   1 February 1915 to 9 September 1929. Spiritu
-image: http://catholicsaints.info/wp-content/uploads/img-Venerable-Rosa-di-Majo.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Rosa-di-Majo.jpg
 searchAliases:
   - Sister Maria Dolores of Christ the King
 birthYear: 1888

@@ -2,7 +2,7 @@
 name: Saint Odilia
 honorific: Saint
 summary: ' In the spring of 1287, she appeared in a vision to John Novelan of Eppa, a lay brother of the Crosier Order in Paris. She told him that God had appointed her patron and protectress of members of the Order of the H Princess. Friend of Saint Ursula; travelled and martyred with her.'
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Odilia.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Odilia.jpg
 died: Cologne, Germany
 deathPlace: Germany
 region: Belgium

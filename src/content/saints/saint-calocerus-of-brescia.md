@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Officer in the army of Emperor Hadrian. Convert. Martyr. Connected in old writings with Saint Faustinus and Saint
   Jovita.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Calocerus-of-Brescia.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Calocerus-of-Brescia.jpg
 searchAliases:
   - Calogerus
 died: beheaded in 2nd century Albenga, Italy

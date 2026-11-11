@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Bishop of Mende, France. Captured by invading barbarians, but was offered his freedom if he would reveal where his
   flock was hiding or sacrifice to idols; he declined both offers. Martyr.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Privatus-of-Mende.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Privatus-of-Mende.jpg
 searchAliases:
   - Privado
   - Privato

@@ -5,7 +5,7 @@ summary: >-
   Orphaned when very young. Worked under Blessed Rose Venerini to train schoolmistresses. Founded the Religious Teachers
   Filippini, a group devoted to the education of young girls. Founded several schools throughout Italy. Called to Rome,
   Italy by Pope Clement XI in 1707 to establi
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Lucia-Filippini.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Lucia-Filippini.jpg
 searchAliases:
   - Lucy Filippini
 birthYear: 1672

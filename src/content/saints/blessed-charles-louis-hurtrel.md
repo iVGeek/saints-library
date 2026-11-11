@@ -2,7 +2,7 @@
 name: Blessed Charles-Louis Hurtrel
 honorific: Blessed
 summary: Order of Minims priest. One of the Martyrs of September.
-image: http://catholicsaints.info/wp-content/gallery/blessed-charles-louis-hurtrel/blessed-charles-louis-hurtrel-01.jpg
+image: https://catholicsaints.info/wp-content/gallery/blessed-charles-louis-hurtrel/blessed-charles-louis-hurtrel-01.jpg
 birthYear: 1760
 deathYear: 1792
 born: 1760 in Paris, France

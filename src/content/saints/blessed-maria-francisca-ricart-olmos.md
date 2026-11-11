@@ -2,7 +2,7 @@
 name: Blessed María Francisca Ricart Olmos
 honorific: Blessed
 summary: Servite nun. Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-María-Francisca-Ricart-Olmos.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-María-Francisca-Ricart-Olmos.jpg
 searchAliases:
   - Sister María Guadalupe
 birthYear: 1881

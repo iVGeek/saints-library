@@ -2,7 +2,7 @@
 name: Blessed Martina Olaizola Garagarza
 honorific: Blessed
 summary: Member of the Visitation Nuns. Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Martina-Olaizola-Garagarza.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Martina-Olaizola-Garagarza.jpg
 searchAliases:
   - Sister María Angela
 birthYear: 1913

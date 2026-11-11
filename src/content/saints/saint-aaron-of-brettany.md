@@ -5,7 +5,7 @@ summary: >-
   Migrated to Cesambre, a small island near Aleth in Armorica, Brittany (modern St Malo, France) to live as a hermit;
   the island was accessible only at low tide, and for centuries was known as Aaron in his honour. His reputation
   attracted spiritual students, including Saint Malo. T
-image: http://catholicsaints.info/wp-content/uploads/Aaron-of-Brittany.jpg
+image: https://catholicsaints.info/wp-content/uploads/Aaron-of-Brittany.jpg
 searchAliases:
   - Aaron of Aleth
   - Aaron of Brittany

@@ -2,7 +2,7 @@
 name: Blessed Xavier Lluís Bandrés Jiménez
 honorific: Blessed
 summary: One of the Martyred Claretians of Barbastro killed in the persecutions of the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Xavier-Lluís-Bandrés-Jiménez.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Xavier-Lluís-Bandrés-Jiménez.jpg
 birthYear: 1912
 deathYear: 1936
 born: 1 December 1912 in Sangüesa, Navarra, Spain

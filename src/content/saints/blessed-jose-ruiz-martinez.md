@@ -2,7 +2,7 @@
 name: Blessed José Ruiz Martinez
 honorific: Blessed
 summary: Passionist cleric. Martyred in the Spanish Civil War. One of the Martyrs of Daimiel.
-image: http://catholicsaints.info/wp-content/uploads/img-Passionist-Martyrs-of-the-Spanish-Civil-War.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Passionist-Martyrs-of-the-Spanish-Civil-War.jpg
 searchAliases:
   - José María of Jesus Agonizing
 birthYear: 1916

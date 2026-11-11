@@ -5,7 +5,7 @@ summary: >-
   Wife of Zebedee. Mother of Saint John the Apostle, and Saint James the Greater. May have been a cousin of the Blessed
   Virgin Mary. One of the “three Marys,” the holy women who ministered to Jesus during his earthly ministry, and may
   have accompanied him on his travels. Witnessed
-image: http://catholicsaints.info/wp-content/uploads/Salome_capp.jpg
+image: https://catholicsaints.info/wp-content/uploads/Salome_capp.jpg
 searchAliases:
   - Salome the Myrophore
   - Irene (Greek equivalent to Salome)

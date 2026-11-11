@@ -5,7 +5,7 @@ summary: >-
   Ordained a priest of the vicariate of Rome, Italy on 7 July 1907. He made a personal vow to remain a diocesan priest
   his whole life, and never accepted any ecclesiastical titles. Beginning in 1915, he served as a military chaplain in
   World War I,  and worked with the sick and wou
-image: http://catholicsaints.info/wp-content/uploads/img-Venerable-Pirro-Scavizzi.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Pirro-Scavizzi.jpg
 birthYear: 1884
 deathYear: 1964
 born: 31 March 1884 in Gubbio, Perugia, Italy

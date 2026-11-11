@@ -4,7 +4,7 @@ A serene, museum-quality static website of the lives, writings, patronage, and
 prayers of Catholic saints. Built with **Astro 5 + Tailwind CSS 4**, fully
 static, searchable, and content-driven.
 
-> **Status:** MVP. 17 saint profiles in the library.
+> **Status:** Expanded catalogue. 17,000+ saint profiles (scraped; many need curation, biographies, and imagery). Original hand-written MVP set: 17.
 > Launch target: 150–250 saints from public-domain sources, originally rewritten.
 
 ## Quick start

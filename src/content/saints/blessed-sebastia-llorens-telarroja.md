@@ -5,7 +5,7 @@ summary: >-
   Studious and pious layman farm worker in the diocese of Girona, Spain, known locally for his mechanical skills.
   Alumnus of the Colegio Santa María de Blanes in Spain, which was run by the Sons of the Holy Family. Member of
   Catholic Action. Member of the Federation of Young Christ
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Sebastià-Llorens-Telarroja.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Sebastià-Llorens-Telarroja.jpg
 birthYear: 1909
 deathYear: 1936
 born: 2 December 1909 in Tordera, Barcelona, Spain

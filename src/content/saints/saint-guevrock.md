@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Sixth century Briton. Friend and travelling companion of Saint Tudwal. Abbot at Loc-Kirec, Brittany. Assisted bishop
   Saint Paul of Léon.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Guevrock.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Guevrock.jpg
 searchAliases:
   - Gueroc
   - Guevroc

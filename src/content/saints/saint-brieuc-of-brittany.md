@@ -5,7 +5,7 @@ summary: >-
   Born and raised a pagan in a family of the Welsh nobility, but converted to Christianity as a young adult. Educated in
   France by Saint Germanus of Auxerre. Priest; a column of fire was reported seen near him at his ordination. He then
   returned to the British Isles as an evangelis
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Brieuc-of-Brittany1.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Brieuc-of-Brittany1.jpg
 searchAliases:
   - Breock
   - Briach

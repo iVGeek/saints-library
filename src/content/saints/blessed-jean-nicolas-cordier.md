@@ -5,7 +5,7 @@ summary: >-
   Jean-Nicolas joined the Jesuits in Nancy, France on 28 September 1728. Priest. After studying at the University of
   Pont-à-Mousson, he taught philosophy at colleges in Dijon, Auxerre, Autun, Stasbourg, and Pont-à-Mousson. Prefect of
   studies in Reims in 1757. Superior of the house
-image: http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-the-Hulks-of-Rochefort.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-the-Hulks-of-Rochefort.jpg
 searchAliases:
   - Johannes Nikolas Cordier
 birthYear: 1710

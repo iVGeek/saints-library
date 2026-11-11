@@ -5,7 +5,7 @@ summary: >-
   He grew up in the court of King Athelstan. Studied under and was ordained by his relative, Saint Alphege of
   Winchester. Ordained with Saint Dunstan of Canterbury. Benedictine dean at Glastonbury Abbey after Dunstan restored
   the Rule. Abbot of Abingdon, England in 954. Bishop of W
-image: http://catholicsaints.info/wp-content/uploads/img-Ethelwold-of-Winchester.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Ethelwold-of-Winchester.jpg
 searchAliases:
   - Aethelwold
   - Aethelwald

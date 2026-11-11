@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Shoemaker. Converted by Saint Mark the Evangelist, worked with him to evangelize Alexandria, Egypt, and succeeded him
   as bishop there.
-image: http://catholicsaints.info/wp-content/uploads/Anianus-of-Alexandria.gif
+image: https://catholicsaints.info/wp-content/uploads/Anianus-of-Alexandria.gif
 searchAliases:
   - Anian
   - Annianus

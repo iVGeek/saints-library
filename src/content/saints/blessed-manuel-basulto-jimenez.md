@@ -5,7 +5,7 @@ summary: >-
   Son of a miller. Seminarian in Avila, Spain in 1880. Ordained on 15 March 1893. Parish priest in Narros del Puerto,
   Spain. Studied theology at the San Carlo Borromeo seminary and law at the University of Valladolid. Taught in the
   seminary in Madrid, Spain. Canon of the cathedral
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Manuel-Basulto-Jiménez1.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Manuel-Basulto-Jiménez1.jpg
 birthYear: 1860
 deathYear: 1936
 born: 17 May 1860 in Adanero, Ávila, Spain

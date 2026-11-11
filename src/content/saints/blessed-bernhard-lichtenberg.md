@@ -5,7 +5,7 @@ summary: >-
   Priest in the diocese of Berlin, Germany. He served in the Berlin Cathedral, and was well known in civic circles. An
   out-spoken critic of the Nazis and their anti-Semitism, Father Berhard organized protests outside the concentration
   camps, led public prayers for the Jews after th
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Bernhard-Lichtenberg.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Bernhard-Lichtenberg.jpg
 birthYear: 1875
 deathYear: 1943
 born: 3 December 1875 at Ohlau, Germany

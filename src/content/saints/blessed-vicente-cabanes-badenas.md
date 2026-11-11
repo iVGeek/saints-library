@@ -5,7 +5,7 @@ summary: >-
   Eldest of four brothers. Studied at the University of Valencia and the Institute for Criminal Studies. Joined the
   Capuchin Tertiary Fathers and Brothers of Our Lady of Sorrows on 12 March 1923. Ordained a priest in 1932 in the
   archdiocese of Madrid, Spain. Superior of the Prince
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Vicente-Cabanes-Badenas.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Vicente-Cabanes-Badenas.jpg
 birthYear: 1908
 deathYear: 1936
 born: 25 February 1908 in Torrent, Valencia, Spain

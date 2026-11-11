@@ -4,7 +4,7 @@ honorific: Venerable
 summary: >-
   Nun. Founded the Hermanas de la Caridad del Sagrado Corazón de Jesús (Sisters of Charity of the Sacred Heart of
   Jesus).
-image: http://catholicsaints.info/wp-content/uploads/img-Venerable-Isabel-Larrañaga-Ramírez.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Isabel-Larrañaga-Ramírez.jpg
 searchAliases:
   - Isabel of the Heart of Jesus
 birthYear: 1836

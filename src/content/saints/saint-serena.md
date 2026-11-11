@@ -2,7 +2,7 @@
 name: Saint Serena
 honorific: Saint
 summary: ' Serena has been dropped from modern martyrologies due to its questionab Married to emperor Diocletian, and a secret Christian. Through she was certainly unable to stop the massacre of Christians, she worked to help where she could to ease their persecutions and improve their lot.'
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Serena.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Serena.jpg
 died: late 3rd century
 region: Italy
 feastDay:

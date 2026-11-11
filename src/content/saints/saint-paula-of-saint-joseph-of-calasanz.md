@@ -5,7 +5,7 @@ summary: >-
   Daughter of Ramon and Vicenta Fornes Montal. Raised in a large and pious family in a small seaside village. Her father
   died when Paula was 10 years old. She worked as a seamstress and lace-maker, and helped raise her siblings, then
   helped in her parish to care for other children.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Paula-of-Saint-Joseph-of-Calasanz.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Paula-of-Saint-Joseph-of-Calasanz.jpg
 searchAliases:
   - Paula Montal Fornes
   - Paula Montal

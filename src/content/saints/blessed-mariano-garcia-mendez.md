@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Eldest of 15 children of pious farmers Mariano Garcia Hernandez and Emeteria Mendez Grande. Dehonian priest. Martyred
   in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Mariano-García-Méndez.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Mariano-García-Méndez.jpg
 searchAliases:
   - Father Juan María of the Cross
 birthYear: 1891

@@ -5,7 +5,7 @@ summary: >-
   Son of Lenin. Poet. Royal bard, poet, musician, court historian, and genealogist at Cashel, Ireland. Adult convert at
   age fifty, being baptized by Saint Brendan the Navigator; he had become involved with Brendan and Christianity while
   helping recover the stolen shrine of Saint Ai
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Colman-of-Cloyne.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Colman-of-Cloyne.jpg
 searchAliases:
   - Colman MacLenini
   - Colman Mac Lenine

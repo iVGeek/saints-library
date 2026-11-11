@@ -5,7 +5,7 @@ summary: >-
   Servite friar in Milan, Italy, joining in 1468. Ordained a priest in Florence, Italy. Hermit at the Monte Senario
   Servite hermitage for almost 20 years where he was noted for his love of nature. The Servite prior-general eventually
   sent him back to Milan to minister to the people
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-John-Angelo-Porro.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-John-Angelo-Porro.jpg
 searchAliases:
   - Giovannangelo Porro
 birthYear: 1451

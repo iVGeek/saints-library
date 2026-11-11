@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Born to wealthy Moorish parents, Leocritia converted to Christianity; her family drove her out. Saint Eulogius of
   Cordoba gave her shelter. She entered into religious life, was arrested, scourged, and martyred.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Leocricia-and-Saint-Eulalia-of-Cordoba.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Leocricia-and-Saint-Eulalia-of-Cordoba.jpg
 searchAliases:
   - Leocrizia
   - Lucretia

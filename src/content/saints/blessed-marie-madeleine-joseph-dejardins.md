@@ -2,7 +2,7 @@
 name: Blessed Marie-Madeleine-Joseph Déjardins
 honorific: Blessed
 summary: One of a group of Ursuline nuns martyred  in the persecutions of the French Revolution.
-image: http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Valenciennes-1.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Valenciennes-1.jpg
 birthYear: 1760
 deathYear: 1794
 born: 11 June 1760 in Cambrai, Nord, France

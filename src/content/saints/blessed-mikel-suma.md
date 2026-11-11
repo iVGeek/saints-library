@@ -5,7 +5,7 @@ summary: >-
   Studied philosphy and theology in Shkodrë, Albania, the Austrian cities of Vienna, Grac and Lankowitz, and in Genoa,
   Italy. Ordained a priest in Genoa on 24 July 1921. Franciscan Friar Minor. Taught at the seminary in Shkodrë.
   Imprisoned for his faith by Communists authorities on
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Mikel-Suma.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Mikel-Suma.jpg
 searchAliases:
   - Gaspër
 birthYear: 1897

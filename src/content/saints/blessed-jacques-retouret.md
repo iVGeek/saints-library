@@ -5,7 +5,7 @@ summary: >-
   Born to a family of merchants, Jacques received an education and was known as a lover of books. Joined the Carmelites
   of the Ancient Observant at age 15. Priest. A popular preacher, his health forced him to limit his mission work.
   Arrested at the convent at Limoges, France, he wa
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Jacques-Retouret.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Jacques-Retouret.jpg
 birthYear: 1746
 deathYear: 1794
 born: 15 September 1746 in Limoges, Haute-Vienne, France

@@ -2,7 +2,7 @@
 name: Blessed Marguerite-Thérèse Charensol
 honorific: Blessed
 summary: Sacramentine nun. Martyred in the French Revolution.
-image: http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Orange.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Orange.jpg
 searchAliases:
   - Marie of Jesus of the Conception of the Blessed Sacrament
 birthYear: 1758

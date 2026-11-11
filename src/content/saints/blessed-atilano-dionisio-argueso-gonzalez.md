@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Joined the Hospitallers of Saint John of God in 1894, making his vows on 14 May 1896. Member of the Hospitallers
   community in Ciempozuelos, Madrid, Spain. Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Atilano-Dionisio-Argüeso-González.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Atilano-Dionisio-Argüeso-González.jpg
 searchAliases:
   - Brother Flavio
 birthYear: 1877

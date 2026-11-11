@@ -5,7 +5,7 @@ summary: >-
   Moved from Greece to Apulia, Italy as a teenager where he wandered the streets carrying a cross and crying “Kyrie
   Eleison” (“Lord, have mercy”). Groups of children would follow him, also crying “Kyrie Eleison”. Noted for his piety
   and personal holiness, but considered a lunatic b
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Nicholas-Peregrinus.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Nicholas-Peregrinus.jpg
 searchAliases:
   - Nicholas the Pilgrim
   - Nicola Pellegrino di Trani

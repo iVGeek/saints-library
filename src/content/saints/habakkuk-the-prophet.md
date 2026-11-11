@@ -2,7 +2,7 @@
 name: Habakkuk the Prophet
 honorific: Saint
 summary: Seventh century BC Old Testament prophet in Judea during the time of the captivity.
-image: http://catholicsaints.info/wp-content/uploads/img-Habakkuk-the-Prophet.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Habakkuk-the-Prophet.jpg
 searchAliases:
   - Avvakoum
   - Habacuc

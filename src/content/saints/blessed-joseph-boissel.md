@@ -5,7 +5,7 @@ summary: >-
   Born to a poor peasant family, Joseph was baptized on the day of his birth. His father died when the boy was 14.
   Joseph studied at the junior seminary of the Missionary Oblates of Mary Immaculate on the Isle of Jersey, and then on
   the Isle of Berder, France; he was considered a v
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Joseph-Boissel.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Joseph-Boissel.jpg
 birthYear: 1909
 deathYear: 1969
 born: 20 December 1909 in Le Loroux, Ille-et-Vilaine, France

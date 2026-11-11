@@ -2,7 +2,7 @@
 name: Blessed Pascual Penades Jornet
 honorific: Blessed
 summary: Priest in the archdiocese of Valencia, Spain. Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Pascual-Penades-Jornet.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Pascual-Penades-Jornet.jpg
 birthYear: 1894
 deathYear: 1936
 born: 3 January 1894 in Montaverner, Valencia, Spain

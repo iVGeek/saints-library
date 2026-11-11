@@ -5,7 +5,7 @@ summary: >-
   Benedictine lay brother at the Saint Gregory Monastery in Douai, France in 1660. Sent to London, England in 1665 to
   serve as steward to the Benedictines in the queen's royal chapel. He came to know Queen Catherine of Braganza and King
   Charles II, and in 1675 when the all other Be
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Thomas-Pickering.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Thomas-Pickering.jpg
 birthYear: 1621
 deathYear: 1679
 born: c.1621 in Westmorland, England

@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Born a princess, the daughter of Saint Brychan of Brycheiniog. She relocated to Cornwall, England where she lived as a
   prayerful hermitess in an area which was later named after her.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Mabena.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Mabena.jpg
 searchAliases:
   - Maben
   - Mabena

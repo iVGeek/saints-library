@@ -2,7 +2,7 @@
 name: Saint Isberga
 honorific: Saint
 summary: Sister of Charlemagne. Nun at Aire in the Artois region of France.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Isberga.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Isberga.jpg
 searchAliases:
   - Itisberga
   - Gisella

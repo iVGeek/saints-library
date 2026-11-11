@@ -2,7 +2,7 @@
 name: Saint Clement of Ancyra
 honorific: Saint
 summary: Fourth-century bishop of Ancyra in Galatia, Asia Minor. Martyred in the persecutions of Diocletian and Maximinian.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Clement-of-Ankyra.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Clement-of-Ankyra.jpg
 deathYear: 303
 died: '303'
 region: Turkey

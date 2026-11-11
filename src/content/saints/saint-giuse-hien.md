@@ -2,7 +2,7 @@
 name: Saint Giuse Hiên
 honorific: Venerable
 summary: Dominican priest. Martyred in the persecutions of Emperor Thiệu Trị.
-image: http://catholicsaints.info/wp-content/gallery/martyrs-of-vietnam/martyrs-of-vietnam-01.jpg
+image: https://catholicsaints.info/wp-content/gallery/martyrs-of-vietnam/martyrs-of-vietnam-01.jpg
 searchAliases:
   - Giuseppe Do Quang Hien
   - Joseph Hien

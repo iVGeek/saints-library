@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Born a princess, the daughter of King Wulfhere of Mercia and his queen, Saint Ermenilda. Nun. Spiritual student of
   Saint Etheldreda. Worked for reform in female religious houses throughout England. Reported to read minds.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Werburga.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Werburga.jpg
 searchAliases:
   - Vereburga
   - Werburga

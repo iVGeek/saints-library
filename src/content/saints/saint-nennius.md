@@ -5,7 +5,7 @@ summary: >-
   Born to the Irish nobility, Ninnian was early drawn to religious life. Spiritual student of Saint Fiechus of Leinster
   and of Saint Finnian of Clonard. Hermit on Inis-muighe-samb in Lake Erne. His reputation for learning and personal
   piety attracted many spiritual students to the
-image: http://catholicsaints.info/wp-content/uploads/img-Twelve-Apostles-of-Ireland.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Twelve-Apostles-of-Ireland.jpg
 searchAliases:
   - Nennidhius
   - Ninnidh

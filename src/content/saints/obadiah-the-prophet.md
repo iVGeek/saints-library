@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Old Testament prophet whose writings are dated between the 9th and 5th centuries before Christ. Outside of the text,
   which announces the punishment of the enemies of Israel, nothing is known about him.
-image: http://catholicsaints.info/wp-content/uploads/img-Obadiah-the-Prophet1.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Obadiah-the-Prophet1.jpg
 searchAliases:
   - Abdia
   - Abdias

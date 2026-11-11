@@ -2,7 +2,7 @@
 name: Venerable Marie de la Ferre
 honorific: Venerable
 summary: Co-founder of the Institute of the Religious Hospitallers of Saint Joseph.
-image: http://catholicsaints.info/wp-content/gallery/venerable-marie-de-la-ferre/venerable-marie-de-la-ferre-01.jpg
+image: https://catholicsaints.info/wp-content/gallery/venerable-marie-de-la-ferre/venerable-marie-de-la-ferre-01.jpg
 birthYear: 1589
 deathYear: 1652
 born: 1589 or 1590 in Roiffé, Vienne, France

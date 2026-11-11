@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Deacon in Milan, Italy. Ordained by Saint Eustogius II. Fled to Seville, Spain to escape Arian persecution; he was
   chosen archbishop of Seville in 522 and served for 17 years. Martyred by Totila, king of the Arian Ostrogoths.
-image: http://catholicsaints.info/wp-content/uploads/img-San-Laureano.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-San-Laureano.jpg
 searchAliases:
   - Laureano
   - Laurianus

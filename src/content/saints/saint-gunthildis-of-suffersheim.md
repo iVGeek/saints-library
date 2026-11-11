@@ -5,7 +5,7 @@ summary: >-
   A pious milk maid and servant, known for her charity to the poor. On two occasions, in response to her prayers,
   springs of fresh water erupted out of the ground, once from solid rock; the water from the latter was said to cure a
   leper who washed in it. Once when she was about to
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Gunthildis-of-Suffersheim.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Gunthildis-of-Suffersheim.jpg
 searchAliases:
   - Gunthild
   - Gunhildis

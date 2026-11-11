@@ -5,7 +5,7 @@ summary: >-
   Son of Mansur, representative of the Christians to the court of the Muslim caliph. Apparently thrived as a Christian
   in a Saracen land, becoming the chief financial officer for caliph Abdul Malek. Tutored in his youth by a captured
   Italian monk named Cosmas. Between the Christian
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-John-Damascene.gif
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-John-Damascene.gif
 searchAliases:
   - Doctor of Christian Art
   - Jean Damascene

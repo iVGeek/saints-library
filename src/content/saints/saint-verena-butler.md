@@ -5,7 +5,7 @@ summary: >-
   Fourth of eight children born to a family of farmers; baptized on the day she was born and made her First Communion on
   16 April 1860. Known as a pious girl who early felt a call to religous life and had a devotion to the Eucharist. She
   became engaged, but broke it off to follow r
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Verena-Bütler.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Verena-Bütler.jpg
 searchAliases:
   - Maria Bernarda of the Holy Heart of Mary
   - Maria Bernarda Butler

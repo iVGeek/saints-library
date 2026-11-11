@@ -1,7 +1,7 @@
 ---
 name: Martyrs of Nowogrodek
 honorific: Venerable
-image: http://catholicsaints.info/wp-content/uploads/img-martyrs-of-nowogrodek.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-martyrs-of-nowogrodek.jpg
 searchAliases: []
 deathYear: 1943
 died: >-

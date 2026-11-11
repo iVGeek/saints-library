@@ -5,7 +5,7 @@ summary: >-
   Benedictine monk. Pilgrim to the Holy Land in 743, and on the way home he stopped in Bavaria - and stayed. Worked with
   Saint Rupert of Salzburg. Abbot of Saint Peter's monastery in Salzburg, Austria; one of his monks was Saint Modestus.
   Bishop of Salzburg in 765, ordained by Duke
-image: http://catholicsaints.info/wp-content/gallery/saint-virgilius-of-salzburg/saint-virgilius-of-salzburg-01.jpg
+image: https://catholicsaints.info/wp-content/gallery/saint-virgilius-of-salzburg/saint-virgilius-of-salzburg-01.jpg
 searchAliases:
   - Fergal
   - Feargal

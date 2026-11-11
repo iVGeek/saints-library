@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Christian soldier in the Theban Legion of the imperial Roman army. Martyred by emperor Maximian for refusing to
   sacrifice to pagan gods prior to a battle.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Defendente-the-Theban.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Defendente-the-Theban.jpg
 searchAliases:
   - Defendente of Thebes
   - Defendens…

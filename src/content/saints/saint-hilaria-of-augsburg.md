@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Mother of Saint Afra of Augsburg. While visiting the tomb of Saint Afra with some friends, she was seized by the
   authorities and martyred.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Hilaria-of-Augsburg.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Hilaria-of-Augsburg.jpg
 deathYear: 304
 died: burned alive c.304
 region: Austria

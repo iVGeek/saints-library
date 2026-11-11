@@ -5,7 +5,7 @@ summary: >-
   Third of six children born to Francesco Matteo and Carolina Mozzoni Frosconi. Eugenia's mother died when the girl was
   three, her father moved with some of the children to Genoa, Italy to find work, and Eugenia was raised in Milan by her
   pious aunt Marietta Anselmi. The family reu
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Eugenia-Ravasco.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Eugenia-Ravasco.jpg
 birthYear: 1845
 deathYear: 1900
 born: 4 January 1845 at Milan, Italy

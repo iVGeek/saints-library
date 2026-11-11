@@ -5,7 +5,7 @@ summary: >-
   Layman catechist in the the apostolic vicariate of Korea. Assistant to Saint Lawrence Imbert. Turned his home into a
   safe-house for Christians hiding from official persecutions, for which he was shot, arrested and finally executed.
   Martyr.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Andreas-Chong-Hwa-Gyong.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Andreas-Chong-Hwa-Gyong.jpg
 searchAliases:
   - Andeurea Jeong Hwa-Gyeong
   - Andrea Tyong Hwa-Gyong

@@ -2,7 +2,7 @@
 name: Saint Tiburtius of Rome
 honorific: Saint
 summary: Son of Saint Chromatius the Prefect. Martyr. Pope Saint Damasus wrote about him.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Tiburcio.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Tiburcio.jpg
 searchAliases:
   - Tiburcio
   - Tiburzio

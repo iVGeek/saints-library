@@ -5,7 +5,7 @@ summary: >-
   Layman in the apostolic vicariate of East Tonkin (in modern Vietnam). A soldier during the persecutions of emperor
   Minh Mang, he was ordered by the army to renounce Christianity and prove it by trampling a crucifix; he refused and
   was tortured until he relented and apostasized. R
-image: http://catholicsaints.info/wp-content/gallery/martyrs-of-vietnam/martyrs-of-vietnam-01.jpg
+image: https://catholicsaints.info/wp-content/gallery/martyrs-of-vietnam/martyrs-of-vietnam-01.jpg
 searchAliases:
   - Domenico Nicolao Dinh Dat
 birthYear: 1803

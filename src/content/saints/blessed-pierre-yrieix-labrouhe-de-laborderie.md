@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Priest in the diocese of Limoges, France. Canon of Auvergne, France. Martyred in the French Revolution. One of the
   Martyrs of the Hulks of Rochefort.
-image: http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-the-Hulks-of-Rochefort-1-July.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-the-Hulks-of-Rochefort-1-July.jpg
 searchAliases:
   - Peter Aredio Labrouhe de Laborderie
   - Pietro Aredio Labrouhe de Laborderie

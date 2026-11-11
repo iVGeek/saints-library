@@ -5,7 +5,7 @@ title: Bishop
 summary: >-
   Founded a monastery in the forest of Argentan, France; it was later named Saint-Loyer-des-Champs in his honour. Bishop
   of Séez, France for thirty-two years.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Lotharius-of-Séez.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Lotharius-of-Séez.jpg
 searchAliases:
   - Lotario
 deathYear: 756

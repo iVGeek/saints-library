@@ -5,7 +5,7 @@ summary: >-
   The son of Juan García Blázquez and María Antonia Nieto Sánchez. He studied at the Conciliar Seminary of Salamanca,
   Spain, and was ordained a priest on 16 May 1920. Parish priest in Cantalapiedra and Santa María de Sando. He joined
   the Jesuits on 30 July 1926. Served as spiritual
-image: http://catholicsaints.info/wp-content/uploads/img-Venerable-Manuel-García-Nieto.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Manuel-García-Nieto.jpg
 searchAliases:
   - Father Nieto
 birthYear: 1894

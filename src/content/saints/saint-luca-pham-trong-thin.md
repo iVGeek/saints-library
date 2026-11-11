@@ -4,7 +4,7 @@ honorific: Venerable
 summary: >-
   Married lay Dominicans in the apostolic vicariate of Central Tonkin (modern Vietnam). Tortured and executed in the
   persecutions of emperor Tu-Duc rather than stomp on a cross as ordered. Martyr.
-image: http://catholicsaints.info/wp-content/gallery/martyrs-of-vietnam/martyrs-of-vietnam-01.jpg
+image: https://catholicsaints.info/wp-content/gallery/martyrs-of-vietnam/martyrs-of-vietnam-01.jpg
 searchAliases:
   - Luca (Cai) Thin
 birthYear: 1819

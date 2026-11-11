@@ -2,7 +2,7 @@
 name: Blessed José Fenollosa Alcaina
 honorific: Blessed
 summary: Priest in the archdiocese of Valencia, Spain. Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-José-Fenollosa-Alcaina.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-José-Fenollosa-Alcaina.jpg
 birthYear: 1903
 deathYear: 1936
 born: 16 March 1903 in Rafelbunyol, Valencia, Spain

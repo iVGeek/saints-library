@@ -5,7 +5,7 @@ summary: >-
   Born to a wealthy family, the son of Compagno Venimbeni, a physician, and Margaret di Federico. Studied humanities and
   philosophy, then joined the Franciscans in 1267, at age 16; he spent part of his novitiate studying under the
   companions of Saint Francis of Assisi. Friar. Pries
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Francis-Venimbeni.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Francis-Venimbeni.jpg
 searchAliases:
   - Francis Venimbeni
   - Francesco…

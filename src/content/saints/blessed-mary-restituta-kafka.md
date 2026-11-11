@@ -5,7 +5,7 @@ summary: >-
   Sixth daughter of a shoemaker. Grew up in Vienna, Austria. Worked as a sales clerk. Nurse. Joined the Franciscan
   Sisters of Christian Charity (Hartmannschwestern) in 1914, taking the name Restituta after an early Church martyr.
   Worked for twenty years as a surgical nurse, beginni
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Mary-Restituta-Kafka.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Mary-Restituta-Kafka.jpg
 searchAliases:
   - Helen Kafka
   - Helena Kafka

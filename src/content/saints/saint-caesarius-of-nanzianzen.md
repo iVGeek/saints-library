@@ -5,7 +5,7 @@ summary: >-
   Son of Saint Gregory of Nazianzen the Elder and Saint Nonna. Brother of Saint Gorgonia and Saint Gregory of Nazianzen.
   Studied in Caesarea, Cappadocia, and Alexandria, Egypt. Noted and skillful physician. He moved to Constantinople c.355
   where he became wealthy in his profession.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Caesarius-of-Nanzianzen.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Caesarius-of-Nanzianzen.jpg
 birthYear: 329
 deathYear: 369
 born: c.329 in Arianzus

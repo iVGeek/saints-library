@@ -6,7 +6,7 @@ summary: >-
   Son of Mary and James Gianelli, Anthony grew up in a poor, pious family in a small farming village. His mother taught
   catechism, and his father was known as a generous peace-maker in the town. Anthony was such a promising student that
   the owner of his family farm paid for his sem
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Anthony-Mary-Gianelli.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Anthony-Mary-Gianelli.jpg
 searchAliases:
   - Antony Gianelli
 birthYear: 1789

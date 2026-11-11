@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Sacristan in his hometown parish of Saint Anthony the Abbot. Joined the Salesians in 1923. Priest. Imprisoned,
   tortured and murdered in the persecutions of the Spanish Civil War. Martyr.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Juan-Martorell-Soria.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Juan-Martorell-Soria.jpg
 birthYear: 1889
 deathYear: 1936
 born: 1 September 1889 in Picasent, Valencia, Spain

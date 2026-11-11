@@ -5,7 +5,7 @@ summary: >-
   Born to the family of the Norman dukes of Apulia, Italy. Daughter of the Marques of Ferrara, Italy. Niece of Blessed
   Beatrix of Este the Elder. Betrothed to Galeazzo Manfredi of Vicenza, Italy, but just before the wedding he died of
   wounds received in combat. Beatrix refused to r
-image: http://catholicsaints.info/wp-content/uploads/Beatrix-of-Este-the-Younger.jpg
+image: https://catholicsaints.info/wp-content/uploads/Beatrix-of-Este-the-Younger.jpg
 deathYear: 1262
 died: 1262 of natural causes
 region: Italy

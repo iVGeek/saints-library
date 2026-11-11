@@ -5,7 +5,7 @@ summary: >-
   Born to a wealthy, pious family. Studied at the University of Turin, and the College of Saint Sulpice in Paris,
   France. Ordained in 1851 at the Church of the Visitation. After studies in France, he returned to Italy to take the
   assignment of “provisional director” of an impoveris
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Leonard-Murialdo.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Leonard-Murialdo.jpg
 searchAliases:
   - Leonardo
 birthYear: 1828

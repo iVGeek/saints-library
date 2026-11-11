@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Joined the Carmelite Sisters of Charity at Vic, Spain on 9 September 1906. She served as superior of her community
   when they were martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Elvira.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Elvira.jpg
 searchAliases:
   - Sister Elvira of the Nativity of Our Lady
 birthYear: 1883

@@ -5,7 +5,7 @@ summary: >-
   Tradition says that Autor was a cobbler, known in the city of Metz, France for his holiness. When Bishop Valerius was
   murdered, local people approached Autor to take the office. He initially refused, but while he was arguing with the
   people, he dropped his leather awl; it landed
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Autor-of-Metz.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Autor-of-Metz.jpg
 searchAliases:
   - Adinctor
   - Auctor

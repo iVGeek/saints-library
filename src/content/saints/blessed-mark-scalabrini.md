@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Born to the nobility. Joined the Dominicans in Modena, Italy. Priest. Noted preacher throughout central and northern
   Italy. Prior of the Dominican monastery in Pesaro, Italy. Miracle worker.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Mark-Scalabrini.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Mark-Scalabrini.jpg
 searchAliases:
   - Mark of Modena
 birthYear: 1420

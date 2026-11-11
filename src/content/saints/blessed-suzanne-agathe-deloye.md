@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Benedictine nun at Caderousse in 1762, taking the name Mary Rose. Expelled from the convent, imprisoned and then
   executed during the persecutions of the French Revolution. The first of the Martyrs of Orange.
-image: http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Orange.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Orange.jpg
 searchAliases:
   - Maria Rosa de Loye
   - Marie Rose Deloye

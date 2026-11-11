@@ -4,7 +4,7 @@ honorific: Venerable
 summary: >-
   Dominican priest. Studying in Palermo, Italy and Salamanca, Spain. Missionary to Mexico, the Philippines and Japan. As
   he travelled, he wrote a book on the lives of Dominican saints. Martyr.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Giacinto-Ansalone.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Giacinto-Ansalone.jpg
 searchAliases:
   - Giordano Ansaloni
   - Giordano of Saint Stephen

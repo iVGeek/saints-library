@@ -5,7 +5,7 @@ summary: >-
   Raised a pagan in Sweden. He converted to Christianity in England, and then returned home to the region of
   Södermanland in southeastern Sweden as a missionary. Murdered by an apostate Finnish pagan slave whom Botvid had
   instructed in the faith. Martyr.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Botvid.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Botvid.jpg
 searchAliases:
   - Botwid of Södermanland
   - Botwid of Sudermannia

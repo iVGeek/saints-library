@@ -5,7 +5,7 @@ summary: >-
   Born to a family of wealth land-owners, Walhère mother died when he was still an infant. Studied with the
   Premonstratensian canons of Leffe Abbey, then at the Benedictine abbey of Waulsort in Hastière, Belgium. Parish
   priest. He served as curate of Flavion (in modern Florennes, B
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Walhère-of-Dinant.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Walhère-of-Dinant.jpg
 searchAliases:
   - Walhère of Bouvignes
   - Walhère of Namur

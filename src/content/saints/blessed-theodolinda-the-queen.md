@@ -5,7 +5,7 @@ summary: >-
   Born to the nobility, the daughter of Wandrada and Duke Garibald I of Bavaria. She married King Authari of the
   Lombards in 588 in an arranged, political marriage, and was widowed in 590. In 591 she married Agilulf of Turin who
   ascended as the new king of the Lombards. Theodolinda
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Theodolinda-the-Queen.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Theodolinda-the-Queen.jpg
 searchAliases:
   - Theodolinda of Monza
   - Dietlind

@@ -5,7 +5,7 @@ summary: >-
   Born to the Italian nobility, Lorenzo's family had a military history and a duty to protect the outer defenses of the
   city of Pisa, Italy. Lorenzo, however, was drawn to the religious life, began studying for the priesthood, and while a
   deacon, he joined the Dominicans at the con
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Lorenzo-of-Ripafratta.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Lorenzo-of-Ripafratta.jpg
 birthYear: 1373
 deathYear: 1456
 born: c.1373 in Ripafratta, Italy

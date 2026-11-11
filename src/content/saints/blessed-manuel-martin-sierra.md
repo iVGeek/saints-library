@@ -5,7 +5,7 @@ summary: >-
   Ordained in the diocese of Granada, Spain in 1915. Received a doctorate in theology. Teacher and chaplain at the
   seminary of Granada, Spain. Parish priest at the Divine Shepherdess church in Motril, Spain where he lived in poverty
   to help support the local poor, and worked endles
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Manuel-Martín-Sierra.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Manuel-Martín-Sierra.jpg
 birthYear: 1892
 deathYear: 1936
 born: 2 October 1892 in Churriana de la Vega, Granada, Spain

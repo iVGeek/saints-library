@@ -5,7 +5,7 @@ summary: >-
   Born a prince, the son of the Northumbrian King Alcred. King of Northumbria after the murders of his father and his
   brother Osred. Known for his charity to the poor and orphaned. Exiled to the area of Pictish Scotland and later
   murdered by agents of the usurping king Eardwulf of
-image: http://catholicsaints.info/wp-content/uploads/Alkmund.jpg
+image: https://catholicsaints.info/wp-content/uploads/Alkmund.jpg
 searchAliases:
   - Alkmund of Derby
   - Alkmund of Lilleshall

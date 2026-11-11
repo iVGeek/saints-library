@@ -2,7 +2,7 @@
 name: Saint Apphia
 honorific: Saint
 summary: Married to Saint Philemon. Martyr.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Apphia.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Apphia.jpg
 died: stoned to death in the 1st century at Colossae, Phrygia
 deathPlace: Phrygia
 region: Italy

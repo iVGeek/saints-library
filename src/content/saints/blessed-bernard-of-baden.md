@@ -5,7 +5,7 @@ summary: >-
   Born to the nobility, the son of Margrave Jacob of Baden and Catherine de Lorraine; grandson of Saint Margaret of
   Bavaria. Heir to the title Margrave of Baden, he renounced it to become the personal envoy of Emperor Frederick III.
   Worked to help the poor, spending largely from hi
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Bernard-of-Baden.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Bernard-of-Baden.jpg
 searchAliases:
   - Bernard of Marchio
   - Bernard II, Margrave of Baden-Baden

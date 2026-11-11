@@ -5,7 +5,7 @@ summary: >-
   Born wealthy. Studied in France and Italy. Provost of the cathedral of Sandomir, Poland. May have been the principal
   of the cathedral school of Cracow, Poland. Bishop of Cracow from 28 March 1208. Worked to reform the clergy and
   invigorate the laity in his diocese. Supported mona
-image: http://catholicsaints.info/wp-content/uploads/Vincent-Kadlubek.png
+image: https://catholicsaints.info/wp-content/uploads/Vincent-Kadlubek.png
 searchAliases:
   - Vincent Kadlubo
   - Vincent Kadlubko

@@ -5,7 +5,7 @@ summary: >-
   Studied at the Dominican university of San Gregorio. Jesuit. Ordained in 1580. Taught philosophy at the University of
   Salamanca in Spain. An excellent administrator and novice master, he was forced to withdraw from active positions due
   to poor health. Worked in Villagarcia during
-image: http://catholicsaints.info/wp-content/uploads/img-Venerable-Luis-Lapuente.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Luis-Lapuente.jpg
 searchAliases:
   - Ludwig de Ponte
   - Luis D'Aponte

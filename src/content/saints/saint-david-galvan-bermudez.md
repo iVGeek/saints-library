@@ -5,7 +5,7 @@ summary: >-
   Entered the seminary in Guadalajara, Mexico at age 14. An excellent student. Questioning his vocation, David left the
   seminary for three years. He worked, dated, wasted his time, and lived a dissolute lifestyle; at one point he was
   arrested for hitting his girlfriend while he was
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-David-Galvan-Bermudez.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-David-Galvan-Bermudez.jpg
 birthYear: 1881
 deathYear: 1915
 born: 29 January 1881 at Guadalajara, Jalisco, Mexico

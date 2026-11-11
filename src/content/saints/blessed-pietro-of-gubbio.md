@@ -2,7 +2,7 @@
 name: Blessed Pietro of Gubbio
 honorific: Blessed
 summary: ' When he was 40 years old, Pietro came to know the Augustinians and Born to the Italian nobility, Pietro studied law at universities in Perugia, Italy, and Paris, France. He was a successful and brilliant lawyer known for his honesty, and who concentrated on representing the poor.'
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Pietro-of-Gubbio.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Pietro-of-Gubbio.jpg
 searchAliases:
   - Peter Ghisengi
 deathYear: 1306

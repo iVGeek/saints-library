@@ -2,7 +2,7 @@
 name: Blessed Julio Melgar Salgado
 honorific: Blessed
 summary: Priest in the diocese of Ciudad Real, Spain. Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Julio-Melgar-Salgado.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Julio-Melgar-Salgado.jpg
 birthYear: 1900
 deathYear: 1936
 born: 16 April 1900 in Bercero, Valladolid, Spain

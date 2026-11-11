@@ -2,7 +2,7 @@
 name: Venerable Alberto Capellán Zuazo
 honorific: Venerable
 summary: Married layman and father.
-image: http://catholicsaints.info/wp-content/uploads/img-Venerable-Alberto-Capellán-Zuazo.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Alberto-Capellán-Zuazo.jpg
 birthYear: 1888
 deathYear: 1965
 born: 7 August 1888 in Santo Domingo de la Calzada, Logrono, Spain

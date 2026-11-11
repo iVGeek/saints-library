@@ -2,7 +2,7 @@
 name: Blessed Felipe Ruiz Fraile
 honorific: Blessed
 summary: Passionists friar. Martyred in the Spanish Civil War. One of the Martyrs of Daimiel.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Felipe-Ruiz-Fraile.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Felipe-Ruiz-Fraile.jpg
 searchAliases:
   - Felipe of Saint Michael
 birthYear: 1915

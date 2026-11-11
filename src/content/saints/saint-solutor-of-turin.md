@@ -2,7 +2,7 @@
 name: Saint Solutor of Turin
 honorific: Saint
 summary: Martyr. His original story was lost, and somehow he came to be associated with the Theban Legion.
-image: http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Turin.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Turin.jpg
 searchAliases:
   - Solutore
 deathYear: 297

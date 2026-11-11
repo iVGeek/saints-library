@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Martyred in the persecutions of Nero. One tradition says that she was the Samaritan woman that Jesus talked to at
   Jacob's well (John 4).
-image: http://catholicsaints.info/wp-content/uploads/Photina-of-Rome.jpg
+image: https://catholicsaints.info/wp-content/uploads/Photina-of-Rome.jpg
 searchAliases:
   - Photina the Samaritan
   - Fotina….

@@ -5,7 +5,7 @@ summary: >-
   Born to the French nobility, Claude early felt a call to religious life. Educated at Jesuit college in Lyons, France.
   Priest. Taught humanities at Avignon, France. Continued his studies in Paris, France. Tutor. Preached against
   Jansenism, advocating dedication to the Sacred Heart
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Claude-de-la-Colombiere.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Claude-de-la-Colombiere.jpg
 searchAliases:
   - Claudio
   - Claudius

@@ -2,7 +2,7 @@
 name: Blessed Josep Maria Fontseré Masdeú
 honorific: Blessed
 summary: Member of the Benedictine Subiaco Congregation. Priest. Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Josep-Maria-Fontseré-Masdeú.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Josep-Maria-Fontseré-Masdeú.jpg
 birthYear: 1854
 deathYear: 1936
 born: 30 October 1854 in Vinyoles d’Oris, Barcelona, Spain

@@ -5,7 +5,7 @@ summary: >-
   Joined the Mercedarians as a young man. Commander of the convent of Santa Maria degli Angeli in El Puig, Spain. While
   on a mission to Tunisia in 1442 to redeem captives from slavery, he and Blessed Pierre Boffet were shipwrecked and
   imprisoned for ransom themselves. He spent 15 y
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Lorenzo-Company.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Lorenzo-Company.jpg
 birthYear: 1415
 deathYear: 1479
 born: 1415 El Puig, Spain

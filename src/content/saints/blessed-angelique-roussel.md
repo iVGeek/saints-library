@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Discalced Carmelite nun, professed on 14 May 1769. One of the Carmelite Martyrs of Compiegne, killed in the
   anti-Christian persecutions of the French Revolution.
-image: http://catholicsaints.info/wp-content/uploads/img-Carmelite-Martyrs-of-Compiègne.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Carmelite-Martyrs-of-Compiègne.jpg
 searchAliases:
   - Sister Marie of the Holy Spirit
 birthYear: 1742

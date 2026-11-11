@@ -2,7 +2,7 @@
 name: Saint Vicente Shiwozuka de la Cruz
 honorific: Venerable
 summary: Dominican priest. Martyr.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Lorenzo-Ruiz-and-Companions.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Lorenzo-Ruiz-and-Companions.jpg
 searchAliases:
   - Vincentius Shiotsuka
   - Vincentius of the Cross

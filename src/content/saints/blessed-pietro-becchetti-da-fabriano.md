@@ -5,7 +5,7 @@ summary: >-
   Brother of Blessed Giovanni da Fabriano Becchetti; related to Saint Thomas Beckett. Augustinian priest known for his
   education, wisdom, personal piety, deep prayer life and preaching. Studied in Padua, Italy in 1385. Taught at the
   Augustinian school in Rimini, Italy. Professor of
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Peter-Becchetti-da-Fabriano.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Peter-Becchetti-da-Fabriano.jpg
 born: 14th century in Fabriano, Italy
 died: in Fabriano, Italy
 birthPlace: Italy

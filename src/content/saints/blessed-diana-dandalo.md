@@ -5,7 +5,7 @@ summary: >-
   Born to a wealthy and politically connected land owner. We know nothing of her childhood, but was known as a
   beautiful, intelligent and happy young woman. Influenced by the preaching of Blessed Reginald, she joined the
   Dominicans, and was received into the Order by Saint Dominic
-image: http://catholicsaints.info/wp-content/gallery/blessed-diana-dandalo/blessed-diana-dandalo.jpg
+image: https://catholicsaints.info/wp-content/gallery/blessed-diana-dandalo/blessed-diana-dandalo.jpg
 birthYear: 1201
 deathYear: 1236
 born: 1201 near Bologna, Italy

@@ -5,7 +5,7 @@ summary: >-
   Mercedarian friar. Worked with Saint Ferdinand of Portalegre. In 1253 the two sailed from Barcelona, Spain to Tunis in
   North Africa to ransom Christians imprisoned and enslaved for their faith by Muslims. By 16 October 1253 they had free
   129 but were double-crossed by some of the
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Theobald-of-Narbonne.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Theobald-of-Narbonne.jpg
 born: French
 region: Spain
 feastDay:

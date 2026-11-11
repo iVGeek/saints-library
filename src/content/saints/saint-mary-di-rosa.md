@@ -5,7 +5,7 @@ summary: >-
   One of nine children born to the industrialist Clement di Rosa and Countess Camilla Albani and Clement di Rosa. Her
   father owned a large spinning mill, and Mary grew up in a happy and pious family. Educated by Visitandine nuns. Mary's
   mother died when the girl was seventeen, and
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Mary-di-Rosa-1.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Mary-di-Rosa-1.jpg
 searchAliases:
   - Maria Crocifissa
   - Mary Crucifixa

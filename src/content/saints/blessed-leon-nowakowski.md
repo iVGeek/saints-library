@@ -2,7 +2,7 @@
 name: Blessed Leon Nowakowski
 honorific: Blessed
 summary: Priest in the diocese of Wloclawek, Poland. Executed for defending the faith in the face of Nazi persecution. Martyr.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Leon-Nowakowski.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Leon-Nowakowski.jpg
 birthYear: 1913
 deathYear: 1939
 born: 28 June 1913 in Byton (Cuiavia), Kujawsko-Pomorskie, Poland

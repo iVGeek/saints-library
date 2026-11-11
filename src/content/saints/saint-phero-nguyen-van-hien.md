@@ -5,7 +5,7 @@ summary: >-
   Layman catechist in the apostolic vicariate of West Tonkin (in modern Vietnam). Imprisoned and tortured for their
   faith for three years during the persecutions of Emperor Minh Mang; he was repeatedly ordered to denounce
   Christianity; he refused. Martyr.
-image: http://catholicsaints.info/wp-content/gallery/martyrs-of-vietnam/martyrs-of-vietnam-01.jpg
+image: https://catholicsaints.info/wp-content/gallery/martyrs-of-vietnam/martyrs-of-vietnam-01.jpg
 searchAliases:
   - Peter Nguyen Van Hieu
 birthYear: 1783

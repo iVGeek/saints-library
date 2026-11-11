@@ -5,7 +5,7 @@ summary: >-
   Moved from Campi to Siena, Italy with his family as a child. He married and worked as a comb-maker. Widower.
   Franciscan tertiary, serving as a nurse in a Franciscan hospital. He continued making combs, living a simple, solitary
   life, giving any excess monies to the Franciscans, a
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Pietro-Tecelano.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Pietro-Tecelano.jpg
 searchAliases:
   - Pietro Pectinarius
   - Pietro Pettinaio

@@ -5,7 +5,7 @@ summary: >-
   Born to the German nobility, he became a Count (Graf); he was an unusually large man for the time, standing at least 6
   foot 6. As a soldier, he fought invading Hungarians. Pilgrim to the Holy Lands and then to Rome, Italy; along the way
   he collected relics, which were later enshr
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Rasso-of-Grafrath.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Rasso-of-Grafrath.jpg
 searchAliases:
   - Rasso of Andechs
   - Rasso of Diessen-Andechs

@@ -5,7 +5,7 @@ summary: >-
   In his youth he got to listen to the preaching of Saint Vincent Ferrer. Joined the Dominicans at Saint Maximin
   monastery. Priest. Prior of Saint Mary Magdalen monastery, Provence, France, a noted pilgrimage site; tradition says
   it is one of the places where Saint Mary Magdalen we
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Andrew-Abellon.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Andrew-Abellon.jpg
 searchAliases:
   - André
 birthYear: 1375

@@ -2,7 +2,7 @@
 name: Blessed Jacinto de Los Ángeles
 honorific: Blessed
 summary: Married layman in the archdiocese of Antequera-Oaxaca, Mexico. Catechist. Martyred for refusing to worship idols.
-image: http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Oaxaca.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Oaxaca.jpg
 birthYear: 1660
 deathYear: 1700
 born: c.1660 – 1663 in San Francisco Cajonos, Oaxaca, Mexico

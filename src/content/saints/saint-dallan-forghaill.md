@@ -5,7 +5,7 @@ summary: >-
   Son of Colla Mac Erc and Forchella; related to Irish royalty, and to Saint Aidan of Ferns. Noted student who went
   blind as a young man; some said it was due to too much reading. Chief bard and poet of Ireland in 575; he reformed the
   Bardic Order, thus helping preserve the Gaelic
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Dallan-Forghaill.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Dallan-Forghaill.jpg
 searchAliases:
   - Cluain Dallain
   - Dallan Forchella

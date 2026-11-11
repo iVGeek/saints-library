@@ -5,7 +5,7 @@ summary: >-
   Seventh child in the working class family of Martin Gapp and Antonia Wach. Received a basic education in his native
   town, then entered the Franciscan high school in Hall in 1910. Austrian soldier on the Italian front from May 1915
   till he was wounded in 1916; received the silver
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Jakob-Gapp-1.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Jakob-Gapp-1.jpg
 searchAliases:
   - Jacob Gapp
   - Jakub Gapp

@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Bishop of Gafsa, Nicomedia (in modern Turkey) who stayed loyal to orthodox Christianity and opposed Arianism. Tortured
   and martyred by order of the Arian Vandal king Hunneric.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Vindemialis-of-Africa.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Vindemialis-of-Africa.jpg
 searchAliases:
   - Vendemiale
   - Vindemial

@@ -2,7 +2,7 @@
 name: Blessed José López Piteira
 honorific: Blessed
 summary: Augustinian friar and deacon. Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-José-López-Piteira.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-José-López-Piteira.jpg
 birthYear: 1913
 deathYear: 1936
 born: 27 March 1913 in Arroyo Blanco, Jatibonico, Camagüey, Cuba

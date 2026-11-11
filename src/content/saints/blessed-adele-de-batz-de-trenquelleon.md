@@ -5,7 +5,7 @@ summary: >-
   Born to the French nobility, the daughter of Baron Charles de Trenquelléon and Marie-Ursule de Peyronnencq de
   Saint-Chamarand, she was related through her mother to Saint Louis IX; she was baptized when only a few hours old. Her
   father, the baron, fought on the side of King Louis
-image: http://catholicsaints.info/wp-content/uploads/img-Venerable-Adèle-de-Batz-de-Trenquelléon.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Adèle-de-Batz-de-Trenquelléon.jpg
 searchAliases:
   - Sister Marie of the Conception
 birthYear: 1789

@@ -5,7 +5,7 @@ summary: >-
   The oldest of five children, Ferdinando's father ran a rope-making business. The boy was drawn to religious life from
   an early age, and was stressed when he had to spend time at work instead of in church. On 5 March 1899, less than 16
   years old, he became a Passionist cleric and
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Ferdinando-Santamaria-1.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Ferdinando-Santamaria-1.jpg
 searchAliases:
   - Grimoaldo of the Purification
 birthYear: 1883

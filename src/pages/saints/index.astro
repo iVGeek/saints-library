@@ -28,7 +28,6 @@ const saintsJSON = JSON.stringify(all.map((s) => ({
   s: s.id.replace(/\.md$/, ''),
   i: imageSrc(s.data.image, 600) ?? '',
   t: s.data.title ?? '',
-  a: s.data.imageAlt ?? '',
   m: s.data.feastDay.month,
   d: s.data.feastDay.day,
   p: s.data.patronage,

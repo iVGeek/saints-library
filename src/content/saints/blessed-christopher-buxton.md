@@ -5,7 +5,7 @@ summary: >-
   School and spiritual student of Blessed Nicholas Garlick in Tideswell, England. He began studying for the priesthood
   in Reims, France in 1582, and then at the English College in Rome, Italy in 1584. He was ordained a priest on 26
   October 1586. In September 1587 he returned to Eng
-image: http://catholicsaints.info/wp-content/uploads/some-martyrs-of-england.jpg
+image: https://catholicsaints.info/wp-content/uploads/some-martyrs-of-england.jpg
 birthYear: 1562
 deathYear: 1588
 born: 1562 in Tideswell, Derbyshire, England

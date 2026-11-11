@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Joined the Jesuits in 1890. Priest. Director of the Foundation for Youth Workers in Valencia, Spain. Martyred in the
   Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Narcis-Basté-y-Basté.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Narcis-Basté-y-Basté.jpg
 birthYear: 1866
 deathYear: 1936
 born: 16 December 1866 in Sant Andreu de Palomar, Barcelona, Spain

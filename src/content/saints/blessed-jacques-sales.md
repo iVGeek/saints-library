@@ -5,7 +5,7 @@ summary: >-
   Jesuit. Preached against Protestantism in the Cevennes region of France. A band of Huguenot raiders dragged him and
   William Saultemouche before a self-appointed court; the “judges” argued theology with the two, and then condemned them
   to death. Martyr.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Jacques-Salès.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Jacques-Salès.jpg
 searchAliases:
   - James Salès
 birthYear: 1556

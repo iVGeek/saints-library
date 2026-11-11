@@ -2,7 +2,7 @@
 name: Venerable Vittoria Gisella Gregoris
 honorific: Venerable
 summary: Nun in the Suore Francescane di Cristo Re.
-image: http://catholicsaints.info/wp-content/uploads/img-Venerable-Vittoria-Gisella-Gregoris.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Vittoria-Gisella-Gregoris.jpg
 searchAliases:
   - Serafina of the Angels
 birthYear: 1873

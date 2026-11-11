@@ -5,7 +5,7 @@ summary: >-
   First century convert in Iconium, brought to the faith by the preaching of Saint Paul the Apostle; her family threw
   her out. She dedicated herself to God, became a spiritual student of Saint Paul, and assisted him in his travels and
   works. She was thrown to wild animals as a Chri
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Thecla-of-Iconium.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Thecla-of-Iconium.jpg
 searchAliases:
   - Tecla
   - Tegla

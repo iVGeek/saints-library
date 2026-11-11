@@ -2,7 +2,7 @@
 name: Saint Fabius of Caesarea
 honorific: Saint
 summary: Soldier. Martyred in the persecutions of Diocletian for refusing to carry a standard with emblems of idols.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Fabius-of-Caesarea.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Fabius-of-Caesarea.jpg
 searchAliases:
   - Fabius the Standard-Bearer
   - Fabio…

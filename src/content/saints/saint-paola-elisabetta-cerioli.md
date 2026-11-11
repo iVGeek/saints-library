@@ -5,7 +5,7 @@ summary: >-
   Born to Italian nobility, the youngest of 16 children of Francesco Cerioli and Francesca Corniani; she was born with a
   heart condition and slight spinal deformity that gave her a lifetime of frail health. Educated in Bergamo, Italy. On
   30 April 1835, at age 19, she entered into a
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Paola-Elisabetta-Cerioli.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Paola-Elisabetta-Cerioli.jpg
 searchAliases:
   - Constanse Honorata Cerioli
   - Constantia Honorata

@@ -5,7 +5,7 @@ summary: >-
   Born to a pious family and raised in a small village. When his father died in 1747, Francesco took up the trade of
   rope maker to support his mother and siblings. Drawn to a religious life, he applied to the Discalced Friars Minor of
   Saint Peter of Alcantara at Naples, Italy in 17
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Giles-Mary-of-Saint-Joseph.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Giles-Mary-of-Saint-Joseph.jpg
 searchAliases:
   - Aegidius Mary of Saint Joseph Pontillo
   - Egidio Maria de Saint Giuseppe

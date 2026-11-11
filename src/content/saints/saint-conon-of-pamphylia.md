@@ -2,7 +2,7 @@
 name: Saint Conon of Pamphylia
 honorific: Saint
 summary: Gardener at the imperial palace at Magydos, Pamphylia (in modern Turkey). Martyred in the persecutions of Decius.
-image: http://catholicsaints.info/wp-content/uploads/Conon-of-Pamphylia.jpg
+image: https://catholicsaints.info/wp-content/uploads/Conon-of-Pamphylia.jpg
 searchAliases:
   - Conon the Gardener
   - Conon of Palestine

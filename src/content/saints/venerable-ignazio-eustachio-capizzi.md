@@ -2,7 +2,7 @@
 name: Venerable Ignazio Eustachio Capizzi
 honorific: Venerable
 summary: Oratorian priest.
-image: http://catholicsaints.info/wp-content/uploads/img-Venerable-Ignazio-Eustachio-Capizzi.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Ignazio-Eustachio-Capizzi.jpg
 birthYear: 1708
 deathYear: 1783
 born: 20 September 1708 in Bronte, Catania, Italy

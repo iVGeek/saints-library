@@ -5,7 +5,7 @@ summary: >-
   Born to an aristocratic French family with a military tradition; his father, a general, was the commander of the 67th
   Artillery Regiment of Africa, and Charles spent part of his childhood in Algeria before the family returned to France.
   He studied at the Carmelite Sainte-Marie de
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Christian-de-Chergé.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Christian-de-Chergé.jpg
 searchAliases:
   - Charles-Marie Christian de Chergé
   - one of the Monks of Tibhirine

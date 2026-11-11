@@ -4,7 +4,7 @@ honorific: Venerable
 summary: >-
   Joined the Dominicans in Ecija, Spain at age 17, making his profession on 12 September 1731. Priest. Missionary to the
   Philippines in 1735, and soon after that in China. Martyr.
-image: http://catholicsaints.info/wp-content/uploads/img-Francisco-Díaz-del-Rincón.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Francisco-Díaz-del-Rincón.jpg
 birthYear: 1713
 deathYear: 1748
 born: 2 October 1713 in Ecija, Seville, Spain

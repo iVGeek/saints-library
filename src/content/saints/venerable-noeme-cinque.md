@@ -5,7 +5,7 @@ summary: >-
   Second of twelve children born to Vincent and Sarah Cinque. Though she felt drawn to religious life from an early age,
   she worked as a teacher and a nurse; she would often visit the sick and elderly at home. Catechist. Member of Catholic
   Action, the Daughters of Mary, and the Apo
-image: http://catholicsaints.info/wp-content/uploads/img-Venerable-Noeme-Cinque.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Noeme-Cinque.jpg
 searchAliases:
   - Sister Serafina
   - White Angel of the Trans-Amazonian Highway

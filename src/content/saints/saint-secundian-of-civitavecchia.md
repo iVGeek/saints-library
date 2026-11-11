@@ -2,7 +2,7 @@
 name: Saint Secundian of Civitavecchia
 honorific: Saint
 summary: Prominent imperial Roman official. Martyred in the persecutions of Decius.
-image: http://catholicsaints.info/wp-content/uploads/img-Saints-Secundian-Marcellian-and-Verian.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saints-Secundian-Marcellian-and-Verian.jpg
 deathYear: 250
 died: 250 near Civitavecchia, Italy
 deathPlace: Italy

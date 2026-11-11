@@ -5,7 +5,7 @@ summary: >-
   Teenaged layman in the apostolic vicariate of Southeastern Zhili, China, raised in a rare village where the majority
   were Catholic. He was in the church where the other Martyrs of Zhujiahe were killed during the Boxer Rebellion, but
   managed to escape. Petrus was later caught and
-image: http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-China1.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-China1.jpg
 searchAliases:
   - Peter Zhou Rixin
 birthYear: 1881

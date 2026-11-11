@@ -5,7 +5,7 @@ summary: >-
   Abbot of Saint Andrew's Abbey on the Coelian Hill in Rome, Italy. Sent by Pope Saint Gregory the Great as a missionary
   to England in 601. Worked for three years in Kent. Bishop of London, England in 604. Exiled to France for refusing to
   give Communion to apostates. Recalled to se
-image: http://catholicsaints.info/wp-content/uploads/San_Mellito_di_Canterbury.jpg
+image: https://catholicsaints.info/wp-content/uploads/San_Mellito_di_Canterbury.jpg
 searchAliases:
   - Mellitus of London
 deathYear: 624

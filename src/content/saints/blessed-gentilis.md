@@ -2,7 +2,7 @@
 name: Blessed Gentilis of Toringa
 honorific: Blessed
 summary: Born to the Italian nobility. Franciscan Friar Minor. Missionary to the Muslims in Egypt, Persia and Armenia. Martyr.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Gentilis-of-Toringa.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Gentilis-of-Toringa.jpg
 searchAliases:
   - Gentilis of Matelica
   - Gentile…

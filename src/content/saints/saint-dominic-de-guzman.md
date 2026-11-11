@@ -5,7 +5,7 @@ summary: >-
   Born of wealthy Spanish nobility. Son of Blessed Joan of Aza. Joan had difficulty conceiving, and prayed at the shrine
   of Saint Dominic of Silos who had a tradition of patronage of that problem; when she became pregnant she named the
   child Dominic in honour of the Saint. While pr
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Dominic-de-Guzman.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Dominic-de-Guzman.jpg
 searchAliases:
   - Dominic of Osma
   - Dominic of Caleruega

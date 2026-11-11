@@ -2,7 +2,7 @@
 name: Blessed Juan Jacobo Fernández y Fernández
 honorific: Blessed
 summary: Franciscan priest. Ordered by Druz Muslims to convert to Islam; he refused. One of the Martyrs of Damascus.
-image: http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Damascus.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Damascus.jpg
 birthYear: 1808
 deathYear: 1860
 born: 25 July 1808 in Moire, Carballeda, Orense, Spain

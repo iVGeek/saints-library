@@ -2,7 +2,7 @@
 name: Blessed Mariano Pina Turón
 honorific: Blessed
 summary: Mercedarian priest. Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Mariano-Pina-Turón.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Mariano-Pina-Turón.jpg
 birthYear: 1867
 deathYear: 1936
 born: 13 April 1867 in Híjar, Teruel, Spain

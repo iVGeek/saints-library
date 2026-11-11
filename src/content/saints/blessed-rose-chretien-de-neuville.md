@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Married young. Widow. Carmelite nun at Compiegne, France, taking the name Julia Louise of Jesus, professed in 1777.
   She sang in their choir. One of the Carmelite Martyrs of Compiegne.
-image: http://catholicsaints.info/wp-content/uploads/img-Carmelite-Martyrs-of-Compiègne.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Carmelite-Martyrs-of-Compiègne.jpg
 searchAliases:
   - Sister Julia Louise of Jesus
 birthYear: 1741

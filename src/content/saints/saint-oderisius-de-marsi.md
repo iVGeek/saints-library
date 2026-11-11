@@ -5,7 +5,7 @@ summary: >-
   Born to the nobility, son of the count of Marsi. Educated at Monte Cassino monastery. Poet. Benedictine monk at Monte
   Cassino under the direction of Diseiderius II who would become Pope Blessed Victor III. Deacon of Saint Agatha's
   church. Priest. Cardinal in 1059, elevated by Pop
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Oderisius-de-Marsi.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Oderisius-de-Marsi.jpg
 searchAliases:
   - Oderisius I
   - Oderisius of Montecassino

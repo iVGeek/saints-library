@@ -5,7 +5,7 @@ summary: >-
   Son of Heorstan, a Wessex nobleman. Nephew of Saint Athelm, and related to Saint Alphege of Winchester. Educated at
   Glastonbury Abbey by Irish monks. Hermit. Monk. Expert goldsmith, metal-worker, and harpist. Ordained by Saint
   Alphege. Appointed abbot of Glastonbury in 944 by Kin
-image: http://catholicsaints.info/wp-content/gallery/saint-dunstan-of-canterbury/saint-dunstan-of-canterbury-00_0.jpg
+image: https://catholicsaints.info/wp-content/gallery/saint-dunstan-of-canterbury/saint-dunstan-of-canterbury-00_0.jpg
 birthYear: 909
 deathYear: 988
 born: 909 at Baltonsborough, Glastonbury, England

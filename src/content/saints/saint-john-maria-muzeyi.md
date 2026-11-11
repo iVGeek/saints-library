@@ -4,7 +4,7 @@ honorific: Venerable
 summary: >-
   Mbogo clan. Member of the Ugandan royal court. Convert. One of the Martyrs of Uganda who died in the Mwangan
   persecutions, the last one to die in that persecution.
-image: http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Uganda1.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Uganda1.jpg
 searchAliases:
   - Jean-Marie Muzeeyi
   - Jean-Marie the Elder

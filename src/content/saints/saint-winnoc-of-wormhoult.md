@@ -5,7 +5,7 @@ summary: >-
   Born to the nobility, possibly a prince, and some sources say his father was Saint Judicael. Raised and educated in
   Brittany, his family running there to escape the Saxons. Monk. Founded Saint Winnow's church in Cornwall, England.
   Monk at Sithiu (in modern Saint Omer, France) und
-image: http://catholicsaints.info/wp-content/uploads/img-WinnocofFlanders.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-WinnocofFlanders.jpg
 searchAliases:
   - Winnoc of Flanders
   - Winnoc of Wormhoudt

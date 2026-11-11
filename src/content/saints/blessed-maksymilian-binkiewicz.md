@@ -5,7 +5,7 @@ summary: >-
   Maksymilian studied at the seminary in Czestochowa, Krakow, Poland, and then at the Jagiellonian University. He was
   ordained a priest in the archdiocese of Czestochowa in 1931. Prefect of a diocesan school in Wielun. Known as
   extremely intelligent, pious and comfortable in social
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Maksymilian-Binkiewicz.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Maksymilian-Binkiewicz.jpg
 searchAliases:
   - Maximilian
 birthYear: 1908

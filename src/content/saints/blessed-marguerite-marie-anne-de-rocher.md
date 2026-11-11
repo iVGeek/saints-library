@@ -2,7 +2,7 @@
 name: Blessed Marguerite-Marie-Anne de Rocher
 honorific: Blessed
 summary: Ursuline nun. Martyred in the French Revolution. One of the Martyrs of Orange.
-image: http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Orange.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Orange.jpg
 searchAliases:
   - Sister Marguerite-Marie-Anne of the Angels
   - Maria Anna Margherita degli Angeli de Rocher

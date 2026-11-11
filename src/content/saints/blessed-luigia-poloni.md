@@ -5,7 +5,7 @@ summary: >-
   Baptized on the day of her birth, the youngest of the twelve children, she was raised in a pious family, the daughter
   of a small businessman who ran a combination pharmacy and grocery in the heart of Verona, Italy. When her fathers
   died, Luigia took over the family finances. Spir
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Luigia-Poloni.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Luigia-Poloni.jpg
 searchAliases:
   - Mother Vincenza Maria
 birthYear: 1802

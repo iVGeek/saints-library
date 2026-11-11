@@ -5,7 +5,7 @@ summary: >-
   Pious farmer. Married to Saint Mary de la Cabeza. Their son died young; they became convinced it was the will of God
   that they not have children, and they lived together chastely the rest of their lives, doing good works. Accused by
   fellow workers of shirking his duties by attend
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Isidore-the-Farmer.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Isidore-the-Farmer.jpg
 searchAliases:
   - Isidore Bonden
   - Isidore of Madrid

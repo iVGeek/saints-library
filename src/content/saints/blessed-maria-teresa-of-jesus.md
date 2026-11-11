@@ -5,7 +5,7 @@ summary: >-
   An unknown illness kept the young Maria bedridden for two years; she was cured following a vision of Saint Fiorenzo,
   and soon after she felt a call to the religious life. On 28 May 1846 she entered the monastery of Saint Mary Magdalene
   de’ Pazzi, Florence, Italy, and though she l
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Maria-Teresa-of-Jesus.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Maria-Teresa-of-Jesus.jpg
 searchAliases:
   - Maria Scrilli
 birthYear: 1825

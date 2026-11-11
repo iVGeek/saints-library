@@ -5,7 +5,7 @@ summary: >-
   Studied at the College of Saint Joseph in Tortosa, Spain. Priest, ordained on 6 June 1914. Member of the Diocesan
   Laborer Priests of the Sacred Heart of Jesus, making his solemn profession on 12 August 1923. Vocations director at
   the College of Saint Joseph. Rector of the seminar
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-José-María-Peris-Polo.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-José-María-Peris-Polo.jpg
 birthYear: 1889
 deathYear: 1936
 born: 1 November 1889 in Cinctorres, Castellón, Spain

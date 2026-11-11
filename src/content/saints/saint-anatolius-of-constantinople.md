@@ -5,7 +5,7 @@ summary: >-
   Patriarch of Constantinople from 449 to 458. Known for his simple, austere life, his charity to the poor, his zeal for
   the faith, and his opposition to heresy. He opposed the heretic Dioscurus at the Council of Chalcedon, and supported
   the doctrinal authority of Pope Saint Leo th
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Anatolius-of-Constantinople.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Anatolius-of-Constantinople.jpg
 deathYear: 458
 died: 458 of unknown circumstances
 region: Turkey

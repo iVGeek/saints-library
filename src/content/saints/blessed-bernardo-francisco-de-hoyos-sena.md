@@ -5,7 +5,7 @@ summary: >-
   Son of Don Manuel de Hoyos and Doña Francisca de Seña. Baptized at 16 days; he was named for Saint Bernard of
   Clairvaux and Saint Francis Xavier. Confirmed at age nine. Began studying at the Jesuit College at Medina del Campo,
   Spain at age 10. Joined the Jesuit novitiate on 11 Ju
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Bernardo-Francisco-de-Hoyos-Seña.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Bernardo-Francisco-de-Hoyos-Seña.jpg
 birthYear: 1711
 deathYear: 1735
 born: 21 August, 1711 in Torrelobatón, Valladolid, Spain

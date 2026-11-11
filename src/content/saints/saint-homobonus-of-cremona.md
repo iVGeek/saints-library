@@ -5,7 +5,7 @@ summary: >-
   Son of a well-to-do tailor and merchant. He became a tailor himself, and took over his father's business. Married
   layman. He believed that his ability to work was given to him by God so he could support the poor, and he devoted most
   of his profits, and some of his house space, to
-image: http://catholicsaints.info/wp-content/gallery/saint-homobonus/saint-homobonus.jpg
+image: https://catholicsaints.info/wp-content/gallery/saint-homobonus/saint-homobonus.jpg
 searchAliases:
   - Hombonus
   - Homobonius

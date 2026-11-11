@@ -3,7 +3,7 @@ name: Saint Lupus of Soissons
 honorific: Saint
 title: Bishop
 summary: Nephew of Saint Remigius of Rheims. Bishop of Soissons, France.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Loup-de-Soissons.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Loup-de-Soissons.jpg
 searchAliases:
   - Lou
   - Loup

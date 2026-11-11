@@ -5,7 +5,7 @@ summary: >-
   Ordained in 1906. Chaplain of the Cabildo of the Cathedral of Colima, Mexico in 1912. When the government's
   persecution of the Church began, Father Miguel was arrested, but quickly released on bail with a warning to stop his
   ministry. When the churches were closed and public wors
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Miguel-de-la-Mora.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Miguel-de-la-Mora.jpg
 searchAliases:
   - Michele de la Mora
 birthYear: 1874

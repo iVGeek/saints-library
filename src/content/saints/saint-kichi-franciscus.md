@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Layman soldier. Convert. Franciscan tertiary. When soldiers came to arrest the Franciscan friars, he insisted he was a
   Christian, too; they took him, and he shared their fate. One of the Martyrs of Nagasaki.
-image: http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Nagasaki.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Nagasaki.jpg
 searchAliases:
   - Caius Francis
   - Gaius Francis

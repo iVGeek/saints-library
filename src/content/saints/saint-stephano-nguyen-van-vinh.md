@@ -4,7 +4,7 @@ honorific: Venerable
 summary: >-
   Layman farmer in the apostolic vicariate of East Tonkin (in modern Vietnam). Convert. Dominican tertiary. Imprisoned,
   tortured and executed for his faith in the persecutions of emperor Minh Mang. Martyr.
-image: http://catholicsaints.info/wp-content/gallery/martyrs-of-vietnam/martyrs-of-vietnam-01.jpg
+image: https://catholicsaints.info/wp-content/gallery/martyrs-of-vietnam/martyrs-of-vietnam-01.jpg
 searchAliases:
   - Stephen Nguyen Van Vinh
 birthYear: 1813

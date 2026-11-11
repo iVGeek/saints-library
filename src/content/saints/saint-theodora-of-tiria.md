@@ -2,7 +2,7 @@
 name: Saint Theodora of Tiria
 honorific: Saint
 summary: Imprisoned, tortured and executed in her late teens for encouraging other martyrs to not give up their faith. Martyr.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Theodora-of-Tiria.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Theodora-of-Tiria.jpg
 searchAliases:
   - Theodora of Tyre
   - Theodora of Tyros

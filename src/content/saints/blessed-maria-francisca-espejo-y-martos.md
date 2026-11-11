@@ -2,7 +2,7 @@
 name: Blessed María Francisca Espejo y Martos
 honorific: Blessed
 summary: Trinitarian nun. One of the Martyrs of the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-María-Francisca-Espejo-y-Martos.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-María-Francisca-Espejo-y-Martos.jpg
 searchAliases:
   - Francisca of the Incarnation
   - Francisca Espejo Martos

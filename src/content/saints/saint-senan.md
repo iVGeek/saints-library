@@ -5,7 +5,7 @@ summary: >-
   Apparently born to a Christian farm family. Educated by Saint Naul and a saintly monk named Cassidan. Monk at
   Kilmanagh (Kilkenny), Ireland. Founded a monastery at Enniscorthy, Ireland. Pilgrim to Rome, Italy and to Tours,
   France, a center of monasticism at the time. Founded seve
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Senan.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Senan.jpg
 searchAliases:
   - Senan of Scattery
   - Senan of Inis Cathaigh

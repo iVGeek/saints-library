@@ -1,7 +1,7 @@
 ---
 name: Martyrs of Constantinople
 honorific: Saint
-image: http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Constantinople.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Constantinople.jpg
 died: beheaded in Constantinople
 region: Italy
 feastDay:

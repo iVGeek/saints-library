@@ -5,7 +5,7 @@ title: Bishop
 summary: >-
   Bishop of Girgenti (Agrigento), Sicily. Worked for the restoration of Christianity throughout Sicily after the
   Saracens were driven out by his relative, Robert Guiscard of Normandy.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Gerland-the-Bishop.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Gerland-the-Bishop.jpg
 searchAliases:
   - Gerland of Agrigento
   - Gerlando….

@@ -5,7 +5,7 @@ summary: >-
   Dominican lay brother. Basing their operations in a farmhouse outside Avignonet, France, he and his brother missioners
   worked against heresy. Murdered by Albigensian heretics while singing the Te Deum on the eve of Ascension. One of the
   Martyrs of Toulouse.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Garcia-dAure.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Garcia-dAure.jpg
 searchAliases:
   - Garcias d'Aux
 deathYear: 1242

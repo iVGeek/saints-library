@@ -2,7 +2,7 @@
 name: Saint Evodius of Camerino
 honorific: Saint
 summary: Convert. Martyr.
-image: http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Camerino.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Camerino.jpg
 searchAliases:
   - Ebodi
 deathYear: 251

@@ -5,7 +5,7 @@ summary: >-
   Youngest son of King Malcolm III Canmore and Saint Margaret of Scotland; brother of Saint Matilde in whose court he
   grew up and was educated. Prince of Cumbria in 1107. Married. Ascended to the throne of Scotland in 1124. Fought in
   the border wars with England, and in 1138 partic
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-David-of-Scotland1.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-David-of-Scotland1.jpg
 searchAliases:
   - David I
 birthYear: 1085

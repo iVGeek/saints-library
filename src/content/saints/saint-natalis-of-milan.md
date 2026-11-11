@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Priest. Bishop of Milan, Italy for 14 months from 746 to 747. Governed during the difficult period when the Arian
   Lombards were converting to orthodox Christianity.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Natalis-of-Milan.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Natalis-of-Milan.jpg
 searchAliases:
   - Natale
 deathYear: 747

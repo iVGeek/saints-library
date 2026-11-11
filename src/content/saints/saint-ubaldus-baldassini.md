@@ -5,7 +5,7 @@ summary: >-
   Born to the nobility. Related to Saint Sperandea. Ubaldo's father, Rovaldo Baldassini, died when the boy was very
   young; his mother was an invalid, afflicted with what we now consider a neurological disease. Raised by his uncle.
   Educated by the prior of the cathedral in Gubbio, I
-image: http://catholicsaints.info/wp-content/gallery/saint-ubaldus-baldassini/saint-ubaldus-baldassini-01.jpg
+image: https://catholicsaints.info/wp-content/gallery/saint-ubaldus-baldassini/saint-ubaldus-baldassini-01.jpg
 searchAliases:
   - Ubaldus of Gubbio
   - Ubaldo…

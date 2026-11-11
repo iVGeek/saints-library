@@ -5,7 +5,7 @@ summary: >-
   Daughter of Penwalh. Sister of Saint Guthlac of Croyland. Related to the royal family of the East Angles. Lived as a
   hermit in the Fens, Northhamptonshire, England near her brother. Once the devil took on her form to persuade Guthlac
   to break his vow to never eat before sunset. T
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Pega-of-Peakirk.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Pega-of-Peakirk.jpg
 searchAliases:
   - Pega of Croyland
   - Margareta…

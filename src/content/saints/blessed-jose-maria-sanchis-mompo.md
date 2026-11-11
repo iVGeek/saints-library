@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Member of the Capuchin Tertiary Fathers and Brothers of Our Lady of Sorrows. Priest. Martyred in the Spanish Civil
   War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-José-María-Sanchís-Mompó.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-José-María-Sanchís-Mompó.jpg
 searchAliases:
   - Brother Gabriel María of Benifaió
 birthYear: 1858

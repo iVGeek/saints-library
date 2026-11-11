@@ -5,7 +5,7 @@ summary: >-
   Consecrated to God as a small child at the abbey of Hirschau, Germany. Educated by and professed as a Benedictine monk
   at the abbey. Abbot in Lorsch, Germany in 1110. Fearing his appointment had been bought, he resigned and returned to
   Hirschau. First prior of Prüfening Abbey nea
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Erminold-of-Prüfening.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Erminold-of-Prüfening.jpg
 deathYear: 1121
 born: 11th century Germany
 died: in 1121 at Prüfening Abbey, Germany by being hit with a piece of timber

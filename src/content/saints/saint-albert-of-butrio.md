@@ -5,7 +5,7 @@ summary: >-
   Born to a regionally important family. Hermit in Butrio (modern Palazzuolo) near the Borrione River Valley in the
   diocese of Tortona, Italy in 1030. When he miraculously healed the mute son of the Marquis of Casaco, the Marquis
   built a Romanesque church where Albert and his broth
-image: http://catholicsaints.info/wp-content/gallery/saint-albert-of-butrio/sant-alberto-di-butrio.jpg
+image: https://catholicsaints.info/wp-content/gallery/saint-albert-of-butrio/sant-alberto-di-butrio.jpg
 searchAliases:
   - Alberto di Butrio
 deathYear: 1073

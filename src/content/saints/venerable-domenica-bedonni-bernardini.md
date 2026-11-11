@@ -4,7 +4,7 @@ honorific: Venerable
 summary: >-
   Married to Venerable Sergio Bernardini; mother; lifelong lay woman in the archdiocese of Modena-Nonantola, Italy.
   Franciscan tertiary.
-image: http://catholicsaints.info/wp-content/uploads/img-Venerable-Domenica-Bedonni-Bernardini.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Domenica-Bedonni-Bernardini.jpg
 birthYear: 1889
 deathYear: 1971
 born: 12 April 1889 in Verica, Modena, Italy

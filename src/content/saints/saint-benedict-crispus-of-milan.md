@@ -2,7 +2,7 @@
 name: Saint Benedict Crispus of Milan
 honorific: Saint
 summary: Archbishop of Milan, Italy from 681 until his death 45 years later. Wrote the epitaph for King Caedwalla of Wessex.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Benedict-Crispus-of-Milan.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Benedict-Crispus-of-Milan.jpg
 searchAliases:
   - Benedetto
 deathYear: 725

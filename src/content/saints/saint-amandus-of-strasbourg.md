@@ -3,7 +3,7 @@ name: Saint Amandus of Strasbourg
 honorific: Saint
 title: Bishop
 summary: First bishop of Strasbourg, France.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Amandus-of-Strasbourg.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Amandus-of-Strasbourg.jpg
 searchAliases:
   - Amand
   - Amando

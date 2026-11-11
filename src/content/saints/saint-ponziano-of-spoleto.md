@@ -2,7 +2,7 @@
 name: Saint Ponziano of Spoleto
 honorific: Saint
 summary: Beaten and executed in the persecutions of Emperor Marcus Aurelius. Martyr.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Ponziano-of-Spoleto.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Ponziano-of-Spoleto.jpg
 searchAliases:
   - Pontian
   - Pontianus

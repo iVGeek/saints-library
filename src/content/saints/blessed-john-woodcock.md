@@ -2,7 +2,7 @@
 name: Blessed John Woodcock
 honorific: Blessed
 summary: Franciscan Friar Minor (Recollects) priest. Martyr.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-John-Woodcock.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-John-Woodcock.jpg
 searchAliases:
   - John Farington
   - John Thompson

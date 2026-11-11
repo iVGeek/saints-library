@@ -5,7 +5,7 @@ summary: >-
   Priest in the diocese of Radom, Poland, serving in the Konskie parish. Imprisoned, tortured, sent to the Auschwitz
   forced labour camp, and eventually executed during the Nazi persecutions of World War II for refusing to stop
   preaching Christianity.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Kazimierz-Tomasz-Sykulski.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Kazimierz-Tomasz-Sykulski.jpg
 birthYear: 1882
 deathYear: 1942
 born: 29 December 1882 in Końskie, Świętokrzyskie, Poland

@@ -5,7 +5,7 @@ summary: >-
   Priest and parochial vicar in the diocese of Cahors, France. Imprisoned on a ship in the harbor of Rochefort, France
   and left to die during the anti-Catholic persecutions of the French Revolution. One of the Martyrs of the Hulks of
   Rochefort.
-image: http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-the-Hulks-of-Rochefort.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-the-Hulks-of-Rochefort.jpg
 searchAliases:
   - Constant
 birthYear: 1764

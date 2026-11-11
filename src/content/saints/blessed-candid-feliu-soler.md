@@ -2,7 +2,7 @@
 name: Blessed Càndid Feliu Soler
 honorific: Blessed
 summary: Member of the Benedictine Subiaco Congregation. Priest. Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Càndid-Feliu-Soler.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Càndid-Feliu-Soler.jpg
 searchAliases:
   - Father Placid Maria
 birthYear: 1904

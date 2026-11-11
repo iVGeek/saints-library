@@ -1,7 +1,7 @@
 ---
 name: Blessed Ubaldo Adimari
 honorific: Blessed
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Ubaldo-Adimari.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Ubaldo-Adimari.jpg
 searchAliases:
   - Ubaldo da Borgo San Sepolcro
 birthYear: 1245

@@ -4,7 +4,7 @@ honorific: Venerable
 summary: >-
   Seminarian in the apostolic vicariate of Guizhou, China. Locked in a cold, damp cave, tortured and martyred for his
   faith.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Paulus-Chen-Changpin.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Paulus-Chen-Changpin.jpg
 searchAliases:
   - Baolu
 birthYear: 1838

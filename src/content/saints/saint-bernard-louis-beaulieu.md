@@ -5,7 +5,7 @@ summary: >-
   Bernard-Louis's father died when the boy was very young, but his mother raised him with a good Christian education. He
   entered the seminary of the diocese of Bordeaux, France at age 17, but health problems caused his studies to take a
   little longer than normal. He joined the Pari
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Bernard-Louis-Beaulieu.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Bernard-Louis-Beaulieu.jpg
 birthYear: 1840
 deathYear: 1866
 born: 8 October 1840 in Langon, Gironde, France

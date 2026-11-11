@@ -2,7 +2,7 @@
 name: Saint Elian ap Erbin
 honorific: Saint
 summary: No information has survived.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Elian-ap-Erbin.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Elian-ap-Erbin.jpg
 searchAliases:
   - Elian of Cornwall
 region: England

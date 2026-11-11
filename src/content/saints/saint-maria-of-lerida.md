@@ -5,7 +5,7 @@ summary: >-
   Daughter of Almanzor, Muslim caliph of Lerida, Catalonia in modern Spain. Sister of Saint Bernard of Lérida and Saint
   Grace of Lérida. Convert, brought to the faith by her brother Bernard. The three tried to convert their brother
   Almanzor, who turned them over to Moorish authorit
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Maria-of-Lérida.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Maria-of-Lérida.jpg
 searchAliases:
   - Mary of Lérida
   - Zoraida of Lérida

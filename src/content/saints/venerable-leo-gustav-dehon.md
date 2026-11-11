@@ -5,7 +5,7 @@ summary: >-
   Raised in a pious family; his mother was especially devoted to the Sacred Heart, and passed this on to Leo. As a young
   man he felt a call to the priesthood, but his father had other plans for him, and sent him to study at the Sorbonne in
   Paris, France. He earned a degree in civil
-image: http://catholicsaints.info/wp-content/uploads/img-Venerable-Leo-Gustav-Dehon.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Leo-Gustav-Dehon.jpg
 searchAliases:
   - Father John of the Sacred Heart
   - Leon Dehon

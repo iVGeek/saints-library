@@ -2,7 +2,7 @@
 name: Venerable Casimiro Barello Morello
 honorific: Venerable
 summary: Layman.
-image: http://catholicsaints.info/wp-content/uploads/img-Venerable-Casimiro-Barello-Morello.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Casimiro-Barello-Morello.jpg
 birthYear: 1857
 deathYear: 1884
 born: 23 January 1857 in Cavagnolo, Italy

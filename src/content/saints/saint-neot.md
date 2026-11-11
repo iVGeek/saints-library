@@ -5,7 +5,7 @@ summary: >-
   Related to King Alfred the Great. Monk of Glastonbury Abbey. Priest. Sacristan. Hermit in Cornwall, England. Reports
   describe him from being 4 foot tall down to a mere 15 inches. Spent much of his day up to his neck in a well during
   his devotions. Neot had a strange way with anim
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Neot.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Neot.jpg
 searchAliases:
   - the Pygmy Saint
 deathYear: 877

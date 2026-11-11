@@ -5,7 +5,7 @@ summary: >-
   Son of Cleophas, who died a martyr, and Mary who stood at the foot of the Cross, and who annointed Christ's body after
   death. Brother of Saint James the Lesser. Nephew of Mary and Joseph; blood relative of Jesus Christ, and reported to
   look a lot like him. May have been a fisherm
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Jude-Thaddeus-1.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Jude-Thaddeus-1.jpg
 searchAliases:
   - Jude of James
   - Judas Thaddaeus

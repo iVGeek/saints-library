@@ -5,7 +5,7 @@ summary: >-
   Educated by Franciscan friars, he joined the Order as a young man. Seminarian in Brescia, Italy, he was ordained a
   priest in June 1936, taking the name Father Karl, and serving parishes in the mountain villages of Albania. He was
   arrested on 9 October 1946 by Communist authoritie
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Ndue-Serreqi.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Ndue-Serreqi.jpg
 searchAliases:
   - Karl
 birthYear: 1911

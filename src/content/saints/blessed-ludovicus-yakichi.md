@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Layman in the archdiocese of Nagasaki, Japan. Married to Blessed Lucia Yakichi; father of Blessed Andreas Yakichi and
   Blessed Franciscus Yakichi. Martyr.
-image: http://catholicsaints.info/wp-content/uploads/img-Martyred-Yakichi-Family.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Martyred-Yakichi-Family.jpg
 deathYear: 1622
 born: Nagasaki, Japan
 died: burned alive on 2 October 1622 in Nagasaki, Japan

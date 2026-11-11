@@ -5,7 +5,7 @@ summary: >-
   As a girl Edel felt a call to religious life, but ill health prevented it. Joined the Legion of Mary in Dublin,
   Ireland at age 20 and gave herself completely to its work. In 1936, at age 29 and dying of tuberculosis, she became a
   Legion of Mary envoy, a missionary to East and Cen
-image: http://catholicsaints.info/wp-content/uploads/img-Venerable-Edel-Mary-Quinn.gif
+image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Edel-Mary-Quinn.gif
 birthYear: 1907
 deathYear: 1944
 born: 14 September 1907 at Kanturk, County Cork, Ireland

@@ -3,7 +3,7 @@ name: Blessed Guy de Gherardesca
 honorific: Blessed
 title: Hermit
 summary: Hermit at Campo, Italy.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Guy-de-Gherardesca.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Guy-de-Gherardesca.jpg
 searchAliases:
   - Guido
 deathYear: 1099

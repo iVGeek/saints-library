@@ -2,7 +2,7 @@
 name: Blessed Maria Dolors Llimona Planas
 honorific: Blessed
 summary: Professed religious in the Sisters of the Christian Doctrine. Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Martyred-Sisters-of-the-Christian-Doctrine.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Martyred-Sisters-of-the-Christian-Doctrine.jpg
 searchAliases:
   - Maria de Montserrat
 birthYear: 1860

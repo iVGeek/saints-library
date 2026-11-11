@@ -2,7 +2,7 @@
 name: Blessed Aurea Navarro
 honorific: Blessed
 summary: Professed religious in the Sisters of the Christian Doctrine, joining in 1934. Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Martyred-Sisters-of-the-Christian-Doctrine.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Martyred-Sisters-of-the-Christian-Doctrine.jpg
 searchAliases:
   - Marcela of Saint Thomas
 deathYear: 1936

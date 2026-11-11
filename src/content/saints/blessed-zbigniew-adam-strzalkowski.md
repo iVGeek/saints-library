@@ -2,7 +2,7 @@
 name: Blessed Zbigniew Adam Strzalkowski
 honorific: Blessed
 summary: Franciscan Conventual priest. One of the Martyrs of Chimbote, murdered by Shining Path Communist guerillas.
-image: http://catholicsaints.info/wp-content/uploads/img-Zbigniew-Adam-Strzalkowski.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Zbigniew-Adam-Strzalkowski.jpg
 birthYear: 1958
 deathYear: 1991
 born: 3 July 1958 in Tarnów, Poland

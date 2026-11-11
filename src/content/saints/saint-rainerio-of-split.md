@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Camaldolese monk. Bishop of Cagli, Italy in 1154. Martyred for defending the rights of the Church against civil
   authorities.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Rainerio-of-Split.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Rainerio-of-Split.jpg
 searchAliases:
   - Rainerio of Cagli
   - Rainerio of Spalato

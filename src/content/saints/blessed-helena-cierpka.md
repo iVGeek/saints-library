@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Member of the Sisters of the Holy Family of Nazareth. One of the Martyrs of Nowogrodek who were killed for their faith
   in the Nazi persecutions.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Helena-Cierpka.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Helena-Cierpka.jpg
 searchAliases:
   - Sister Maria Gwidona of the Mercy of God
 birthYear: 1900

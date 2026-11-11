@@ -2,7 +2,7 @@
 name: Blessed Teresa Ríus Casas
 honorific: Blessed
 summary: Nun in the Order of Minim Nuns in the Archdiocese of Barcelona, Spain. Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Teresa-Ríus-Casas.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Teresa-Ríus-Casas.jpg
 searchAliases:
   - Trinitat
 birthYear: 1875

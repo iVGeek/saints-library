@@ -5,7 +5,7 @@ summary: >-
   The fifth of eleven children born to Giuseppe Fiorelli, a barber, and Rosalinda Pecorai, a seamstress. From childhood
   Anna felt a call to religious life, but her family's poverty limited her options, and on 18 February 1833 she married
   childhood friend Giovanni Lapini. They had n
-image: http://catholicsaints.info/wp-content/uploads/img-Venerable-Anna-Maria-Fiorelli-Lapini.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Anna-Maria-Fiorelli-Lapini.jpg
 searchAliases:
   - Anna Lapini
   - Anna of Florence

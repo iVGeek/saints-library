@@ -5,7 +5,7 @@ summary: >-
   Priest in the archdiocese of Warsaw, Poland. Exceptional teacher and rector of the seminary in Warsaw. Imprisoned and
   tortured at the Majdanek concentration camp by the Gestapo during the Nazi occupation of Poland in World War II.
   Martyr.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Roman-Archutowski.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Roman-Archutowski.jpg
 birthYear: 1882
 deathYear: 1943
 born: 5 August 1882 in Karolin, Mazowieckie, Poland

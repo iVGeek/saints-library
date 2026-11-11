@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Travelled from Batanaea to Caesarea in Palestine to visit and minister to the Christians there. Martyred with Saint
   Eubulus in the persecutions of governor Firmilian.
-image: http://catholicsaints.info/wp-content/uploads/img-Saints-Adrian-and-Eubulus-of-Caesarea.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saints-Adrian-and-Eubulus-of-Caesarea.jpg
 searchAliases:
   - Adrian of Batanea
   - Adriano…

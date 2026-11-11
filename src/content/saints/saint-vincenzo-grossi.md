@@ -5,7 +5,7 @@ summary: >-
   One of seven children born to Baldassare Grossi and Maddalena Capellini. Ordained in the diocese of Lodi, Italy on 22
   May 1869. Parish priest of Vicobellignano, Italy. Noted for this simple austere life style, and the humour and trust
   in Christ that he brought to it. Founded the
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Vincenzo-Grossi.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Vincenzo-Grossi.jpg
 birthYear: 1845
 deathYear: 1917
 born: 9 March 1845 in Pizzighettone, Cremona, Italy

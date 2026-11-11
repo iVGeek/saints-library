@@ -5,7 +5,7 @@ summary: >-
   Bishop of Marseille, France c.595. Correspondent with Saint Gregory the Great; four of their letters have survived and
   provide what little we know about Serenus. He questioned the use of sacred images, and destroyed some icons in his
   cathedral to stop what he considered a tendenc
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Serenus-of-Marseille.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Serenus-of-Marseille.jpg
 searchAliases:
   - Sereno
   - Clear (translation of his name)

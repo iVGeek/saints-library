@@ -5,7 +5,7 @@ summary: >-
   At a time when few women wrote, Hildegard produced major works of theology and visionary writings. When few women were
   respected, she was consulted by and advised bishops, popes, and kings. She used the curative powers of natural objects
   for healing, and wrote treatises about nat
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Hildegard-von-Bingen1.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Hildegard-von-Bingen1.jpg
 searchAliases:
   - Hildegard Eibingen
   - Hildegard of Bingen

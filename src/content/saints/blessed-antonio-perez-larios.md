@@ -2,7 +2,7 @@
 name: Blessed Antonio Pérez Lários
 honorific: Blessed
 summary: Layman. Martyred in the anti-Catholic persecutions of the Mexican Revolution.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Antonio-Perez-Larios.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Antonio-Perez-Larios.jpg
 birthYear: 1883
 deathYear: 1927
 born: 28 November 1883 in Lagos de Moreno, Jalisco, Mexico

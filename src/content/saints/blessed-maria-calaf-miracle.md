@@ -2,7 +2,7 @@
 name: Blessed Maria Calaf Miracle
 honorific: Blessed
 summary: Member of the Carmelite Sisters of Charity. Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Maria.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Maria.jpg
 searchAliases:
   - Sister Maria of Our Lady of Providence
 birthYear: 1871

@@ -5,7 +5,7 @@ summary: >-
   Born to the wealthy Italian nobility. Lived as a prayerful hermit in the valley of Sant Anastasio. Monk at Bagno de
   Romagna, Sarcina, Italy. Hermit on Mount Fumaiolo where he associated with the Camaldolese monasterys near Bagno di
   Romagna, Italy.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Alberic-of-Bagno-de-Romagna.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Alberic-of-Bagno-de-Romagna.jpg
 searchAliases:
   - Alberico
 deathYear: 1050

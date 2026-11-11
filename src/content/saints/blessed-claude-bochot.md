@@ -2,7 +2,7 @@
 name: Blessed Claude Bochot
 honorific: Blessed
 summary: Doctrinarian priest. One of the Martyrs of September.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Claude-Bochot.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Claude-Bochot.jpg
 birthYear: 1720
 deathYear: 1792
 born: 10 July, 1720 in Troyes, Aube, France

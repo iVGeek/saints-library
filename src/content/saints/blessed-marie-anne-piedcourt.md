@@ -5,7 +5,7 @@ summary: >-
   Discalced Carmelite nun, professed in 1737. She sang in the convent choir. One of the Carmelite Martyrs of Compiegne,
   killed in the anti-Christian persecutions of the French Revolution. As she climbed the scaffold she told the
   executioner, “I forgive you as heartily as I wish God
-image: http://catholicsaints.info/wp-content/uploads/img-Carmelite-Martyrs-of-Compiègne.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Carmelite-Martyrs-of-Compiègne.jpg
 searchAliases:
   - Sister of Jesus Crucified
 birthYear: 1715

@@ -5,7 +5,7 @@ summary: >-
   Son of Irish immigrants. Studied at the Saint-Hyacinthe's Seminary in Saint-Hyacinthe, Quebec, Canada beginning in
   1868; finished his studies at Saint Mary's Seminary in Baltimore, Maryland, in 1873. Before he could be ordained,
   however, his father died, and Michael returned home
-image: http://catholicsaints.info/wp-content/uploads/img-Venerable-Michael-Joseph-McGivney.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Michael-Joseph-McGivney.jpg
 birthYear: 1852
 born: 12 August 1852 in Waterbury, Connecticut
 birthPlace: Connecticut

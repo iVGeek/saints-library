@@ -2,7 +2,7 @@
 name: Saint Barbara Yi
 honorific: Venerable
 summary: 14 year old girl in the apostolic vicariate of Korea. Imprisoned and left to die for her faith. Martyr.
-image: http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Korea.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Korea.jpg
 searchAliases:
   - Bareubara Yi
 birthYear: 1825

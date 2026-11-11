@@ -2,7 +2,7 @@
 name: Blessed Marie-Anne-Françoise Brideau
 honorific: Blessed
 summary: Sub-prioress of the Carmelite Martyrs of Compiegne, killed in the anti-Catholic excesses of the French Revolution.
-image: http://catholicsaints.info/wp-content/uploads/img-Carmelite-Martyrs-of-Compiègne.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Carmelite-Martyrs-of-Compiègne.jpg
 searchAliases:
   - Marie-Antoinette Brideau
   - Mother Saint Louis

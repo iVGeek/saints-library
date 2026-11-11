@@ -2,7 +2,7 @@
 name: Blessed Tomás Cuartero Gascón
 honorific: Blessed
 summary: Passionist cleric martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Tomás-Cuartero-Gascón.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Tomás-Cuartero-Gascón.jpg
 birthYear: 1915
 deathYear: 1936
 born: 22 February 1915 in Tabuenca, Zaragoza, Spain

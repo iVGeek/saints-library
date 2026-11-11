@@ -5,7 +5,7 @@ summary: >-
   Born to the nobility, possibly related to the emperor. To escape an arranged marriage, and to give herself to the
   religious life, she made a pilgrimage to Jerusalem and then to Rome, Italy. Nun in Rome. Returned to Constantinople to
   give away her wealth to the poor. She then retu
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Patricia.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Patricia.jpg
 searchAliases:
   - Patricia of Constantinople
   - Patritia of…

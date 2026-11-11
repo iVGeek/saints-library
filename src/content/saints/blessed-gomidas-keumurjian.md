@@ -5,7 +5,7 @@ summary: >-
   Married at age 20. Priest in the Armenian church. In 1696 he and his family made complete submission to the authority
   of Rome. This angered Armenian officials who took this as an insult. Some of them falsely accused Gomidas of being a
   spy for Rome, which led to his arrest and exe
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Gomidas-Keumurjian.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Gomidas-Keumurjian.jpg
 searchAliases:
   - Gomida Keumurgian
   - Cosma de Carboniano

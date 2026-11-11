@@ -2,7 +2,7 @@
 name: Saint Eustratius of Sebaste
 honorific: Saint
 summary: Martyred in the persecutions of Diocletian.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Eustratius-of-Sebaste.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Eustratius-of-Sebaste.jpg
 deathYear: 302
 died: burned to death in a furnace c.302 at Sebaste, Armenia (in modern Turkey)
 deathPlace: Armenia (modern Turkey)

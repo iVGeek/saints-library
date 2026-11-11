@@ -5,7 +5,7 @@ summary: >-
   Lay woman of the archdiocese of Catanzaro-Squillace, Italy who suffered all her life from physical deformities and
   paralysis. She spent a life of 60 years praying, contemplating the suffering of Christ, and dispensing spiritual
   wisdom to any who came to her.
-image: http://catholicsaints.info/wp-content/uploads/img-Venerable-Gaetana-Tolomeo.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Gaetana-Tolomeo.jpg
 searchAliases:
   - Nuccia
 birthYear: 1936

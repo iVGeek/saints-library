@@ -2,7 +2,7 @@
 name: Saint Rufus of Rome
 honorific: Saint
 summary: Brought to Rome with Saint Ignatius of Antioch and Saint Zosimus during the persecutions of Trajan. Marytr.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Rufus-of-Rome.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Rufus-of-Rome.jpg
 deathYear: 107
 born: Philippi, Greek
 died: mangled by wild animals c.107 in the arena of Rome, Italy

@@ -5,7 +5,7 @@ summary: >-
   Married in 1884 at age 23, he became a widower when his wife died in the cholera epidemic of 1885-1886. He joined the
   religious in the Hospitallers of Saint John of God in 1887. He served in Hospitaller communities in the Spanish cities
   of Ciempozuelos, Zaragoza, Carabanche Alto
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Tobias-Francisco-Borrás-Román.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Tobias-Francisco-Borrás-Román.jpg
 searchAliases:
   - Francisco Borrás Romeu
   - Tobias Borrás Román

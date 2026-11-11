@@ -5,7 +5,7 @@ summary: >-
   Educated by the Sisters of Mercy in Enguera, Spain; the Pious Schools in Valencia, Spain; the College of Saint Joseph
   Valenza; and the Seminario Conciliar Center. Ordained a priest in the archdiocese of Valencia on 17 June 1916. As a
   parish priest he was known for his work with c
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-José-Aparicio-Sanz.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-José-Aparicio-Sanz.jpg
 birthYear: 1893
 deathYear: 1936
 born: 12 March 1893 in Enguera, Valencia, Spain

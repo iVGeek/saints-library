@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Married young, and widowed young. Founded the Sisters of the Presentation of the Blessed Virgin Mary, dedicated to
   caring for and the education poor and orphaned girls.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Zofia-Czeska-Maciejowska.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Zofia-Czeska-Maciejowska.jpg
 searchAliases:
   - Sofia Czeska-Maciejowska
 birthYear: 1584

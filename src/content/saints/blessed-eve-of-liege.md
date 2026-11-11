@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Born wealthy, she gave it up to become an anchoress at the church of Saint Martin in  in Liège, Belgium. Friend of
   Blessed Juliana of Mont Cornillon, and continued her campaign to introduce the feast of Corpus Christi.
-image: http://catholicsaints.info/wp-content/uploads/Eve-of-St-Martin.jpg
+image: https://catholicsaints.info/wp-content/uploads/Eve-of-St-Martin.jpg
 searchAliases:
   - Eve of Saint-Martin
   - Eve of Mount Cornelius

@@ -5,7 +5,7 @@ summary: >-
   Son of the Greek-Catholic priest Štefan Gojdic and Anna Gerberyov&aacute;. Attended elementary school at Cigelka,
   Bardejov and Prešov, finishing in 1907. Studied theology at Prešov, Slovak Republic and then Budapest where he
   consecrated himself and his work to the Sacred Heart. F
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Pavol-Gojdic1.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Pavol-Gojdic1.jpg
 searchAliases:
   - Pavel Peter Gojdic
   - Peter Gojdic

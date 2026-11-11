@@ -2,7 +2,7 @@
 name: Saint Constantia of Nocera
 honorific: Saint
 summary: Martyred in the persecutions of Nero.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Constantia-of-Nocera.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Constantia-of-Nocera.jpg
 searchAliases:
   - Costanza
   - Constance

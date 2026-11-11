@@ -2,7 +2,7 @@
 name: Saint Helen of Burgos
 honorific: Saint
 summary: Nun. Martyr.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Centola-and-Saint-Helen-of-Burgos.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Centola-and-Saint-Helen-of-Burgos.jpg
 searchAliases:
   - Helena
 deathYear: 304

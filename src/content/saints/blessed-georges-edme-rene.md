@@ -5,7 +5,7 @@ summary: >-
   Son of a lawyer. Priest in the archdiocese of Sens, France. Canon of Vezelay, France. Imprisoned on a ship in the
   harbor of Rochefort, France and left to die during the anti-Catholic persecutions of the French Revolution for
   refusing to take the oath of loyalty to the government
-image: http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-the-Hulks-of-Rochefort.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-the-Hulks-of-Rochefort.jpg
 searchAliases:
   - Giorgio Edmondo Renè
 birthYear: 1748

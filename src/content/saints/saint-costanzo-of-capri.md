@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Wandering bishop who preached against heresies in southern Italy, arriving on the island of Capri c.739 where he
   settled to lead the church there.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Costanzo-of-Capri.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Costanzo-of-Capri.jpg
 searchAliases:
   - Costantio
   - Constantius

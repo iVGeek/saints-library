@@ -5,7 +5,7 @@ summary: >-
   Studied at the Pontifical Seminary in Shkodrë, Albania, and theology at the Propaganda Fide Congregation in Rome,
   Italy. Ordained on 23 March 1940 as a priest of the archdiocese of Shkodrë-Pult, Albania. Served in several mountain
   village parishes. Imprisoned, tortured, and dumpe
-image: http://catholicsaints.info/wp-content/uploads/img-Dom-Pjeter-Cuni.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Dom-Pjeter-Cuni.jpg
 birthYear: 1914
 deathYear: 1948
 born: 9 July 1914 in Shkodrë, Albania

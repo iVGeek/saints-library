@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Bishop of Maiferkat, Mesopotamia. He reorganized the Church adminstration in Syria and Persia. Collected the stories
   (called the Passiones) of Syrian and Persian martyrs. Hymnist. Friend of Saint John Chrysostom.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Maruthas.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Maruthas.jpg
 searchAliases:
   - Apostle of Iran
   - Apostle of Persia

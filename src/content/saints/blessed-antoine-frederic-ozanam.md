@@ -5,7 +5,7 @@ summary: >-
   Born to Jean and Marie Ozanam, the fifth of 14 children; only three of them survived to adulthood. Married layman
   scholar, teacher and author in the archdioceses of Paris and Marseilles, France. Studied law in Paris. Worked in the
   judicial service in Lyons, France. Obtained a doc
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Frederic-Ozanam.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Frederic-Ozanam.jpg
 birthYear: 1813
 deathYear: 1853
 born: 23 April 1813 in Milan, Italy

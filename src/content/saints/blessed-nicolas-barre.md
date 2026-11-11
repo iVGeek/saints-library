@@ -5,7 +5,7 @@ summary: >-
   Educated by Jesuits. Joined the Minims of Saint Francis of Paola at age 19. Taught philosophy while still a deacon.
   Priest. Director of the library at the convent of Place Royale, Paris, France. Noted preacher. Falling ill, he was
   sent to the friary in Amiens, France, and then to
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Nicholas-Barre.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Nicholas-Barre.jpg
 birthYear: 1621
 deathYear: 1686
 born: 21 October 1621 in Amiens, Somme, France

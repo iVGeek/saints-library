@@ -5,7 +5,7 @@ summary: >-
   Priest, ordained on 19 September 1903. Notary of the Curia. Spiritual diretor of the seminary of Tarragona, Spain.
   Auxiliary bishop of Tarragona and titular bishop of Bisica on 2 July 1934. Martyred in the persecutions of the Spanish
   Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Manuel-Borràs-Ferré.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Manuel-Borràs-Ferré.jpg
 birthYear: 1880
 deathYear: 1936
 born: 9 September 1880 in La Canonja, Tarragona, Spain

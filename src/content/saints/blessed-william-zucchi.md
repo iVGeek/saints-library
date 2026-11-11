@@ -5,7 +5,7 @@ summary: >-
   As a young man, Guglielmo lived as a hermit. Priest. He was commissioned to oversee the construction of the cathedral
   of Alessandria, Italy. While he worked tirelessly to fund good public works, he quietly distributed everything he
   could to the poor, person to person; it was so m
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Guglielmo-Zucchi.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Guglielmo-Zucchi.jpg
 searchAliases:
   - Guglielmo Zucchi
 deathYear: 1377

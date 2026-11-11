@@ -5,7 +5,7 @@ summary: >-
   Born a Calabrian family who had been forced to emigrate due to Saracen invasion. He returned to Calabria, Italy in
   1040, he first lived in Reggio Calabria, then became a monk at the monastery of Saint Elias of Aurlia. He worked as a
   shepherd, using the solitude for contemplation,
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Philaret-of-Calabria.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Philaret-of-Calabria.jpg
 searchAliases:
   - Philaret the Gardener
   - Philaret of Ortolano

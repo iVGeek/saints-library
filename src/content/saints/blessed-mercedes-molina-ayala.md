@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Nun in 1873. Founded the Institute of the Sisters of Saint Mariana of Jesus (Marianitas Sisters) to care for and
   educate orphans and poor girls, and to help prostitutes escape the life.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Mercedes-Molina-Ayala.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Mercedes-Molina-Ayala.jpg
 searchAliases:
   - Mercedes of Jesus
   - Mercedes Maria di Gesù

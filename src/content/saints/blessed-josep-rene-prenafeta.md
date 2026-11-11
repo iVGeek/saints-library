@@ -2,7 +2,7 @@
 name: Blessed Josep Reñé Prenafeta
 honorific: Blessed
 summary: Mercedarian priest. Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Josep-Reñé-Prenafeta.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Josep-Reñé-Prenafeta.jpg
 birthYear: 1903
 deathYear: 1936
 born: 15 June 1903 in Lleida, Spain

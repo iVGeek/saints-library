@@ -2,7 +2,7 @@
 name: Saint Alexandra of Amisus
 honorific: Saint
 summary: Christian woman martyred in the persecutions of Diocletian.
-image: http://catholicsaints.info/wp-content/uploads/Alexandra.jpg
+image: https://catholicsaints.info/wp-content/uploads/Alexandra.jpg
 searchAliases:
   - Alexandra of Samsun
   - Alessandra….

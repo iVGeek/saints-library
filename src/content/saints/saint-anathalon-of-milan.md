@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Spiritual student of Saint Barnabas the Apostle. First-century bishop of Milan, Italy, assigned by Saint Barnabas.
   Evangelized the entire region.
-image: http://catholicsaints.info/wp-content/uploads/img-Anathalon-of-Milan.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Anathalon-of-Milan.jpg
 searchAliases:
   - Anatalone
   - Anatelon

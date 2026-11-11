@@ -5,7 +5,7 @@ summary: >-
   Franciscan friar at the monastery in Chelm Lubelski, Poland, taking the name Bruno. Arrested for his faith by the
   Nazis in November 1939 and sent to the Dachau concentration camp which had a special unit for dealing with imprisoned
   Catholic clergy. Bruno spent his time in the cam
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Bruno-Zembol-1.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Bruno-Zembol-1.jpg
 searchAliases:
   - Brunon Zembol
   - Jan Zembol

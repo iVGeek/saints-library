@@ -5,7 +5,7 @@ summary: >-
   Career soldier who retired from the military to become a hermit, monk and preacher. Worked with Saint Isaac the Great
   in the formation of the Armenian Church. Civil servant. Missionary to Armenia and Georgia. Developed the alphabet for
   writing Armenian. Organized schools and the
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Mesrop-the-Teacher.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Mesrop-the-Teacher.jpg
 searchAliases:
   - Mesrop Mashtots
   - Mesrob…

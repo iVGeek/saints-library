@@ -5,7 +5,7 @@ summary: >-
   William led a wild and misspent youth, but as an adult he had a complete conversion, devoting himself to God, caring
   especially for poor and neglected children. He worked as a baker, and gave every tenth loaf to the poor. He attended
   Mass daily, and one morning on his way to chur
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-William-of-Rochster.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-William-of-Rochster.jpg
 searchAliases:
   - William of Perth
 deathYear: 1201

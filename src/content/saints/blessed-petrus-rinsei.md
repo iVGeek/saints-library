@@ -2,7 +2,7 @@
 name: Blessed Petrus Rinsei
 honorific: Blessed
 summary: Jesuit priest. Martyr.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Giovanni-Battista-Zola.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Giovanni-Battista-Zola.jpg
 searchAliases:
   - Peter Rinsei
 birthYear: 1588

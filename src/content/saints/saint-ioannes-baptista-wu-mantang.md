@@ -4,7 +4,7 @@ honorific: Venerable
 summary: >-
   Young layman of the apostolic vicariate of Southeastern Zhili, China; son of Saint Paulus Wu Anju. Martyred in the
   Boxer Rebellion.
-image: http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-China2.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-China2.jpg
 searchAliases:
   - Ruohan
   - Wu Mantang Ioannes Baptista

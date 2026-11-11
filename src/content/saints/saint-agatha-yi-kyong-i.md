@@ -2,7 +2,7 @@
 name: Saint Agatha Yi Kyong-I
 honorific: Venerable
 summary: Lay woman. One of the Martyrs of Korea.
-image: http://catholicsaints.info/wp-content/uploads/img-Maryrs-of-Korea.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Maryrs-of-Korea.jpg
 searchAliases:
   - Agata Yi Gyeong-I
 birthYear: 1814

@@ -5,7 +5,7 @@ summary: >-
   Oldest child of Prince Ladislaus and Princess Maria Amparo, daughter of the Queen of Spain; the couple had settled in
   Paris, France after being losing all their property and being exiled in the 1830 revolution. Both Augustus and his
   mother contracted tuberculosis; she died when h
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Augustus-Czartoryski.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Augustus-Czartoryski.jpg
 searchAliases:
   - Prince August Franciszek Maria Anna Józef Kajetan Czartoryski
   - Duke of Vista Alegre

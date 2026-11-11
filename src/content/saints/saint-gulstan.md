@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Sailor. Hermit. Benedictine monk and then abbot at the abbey of Saint Gildas of Rhuys, Brittany under Saint Felix.
   Hermit on Hoëdic Island off the southern coast of Brittany.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Gulstan.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Gulstan.jpg
 searchAliases:
   - Constans
   - Goustan

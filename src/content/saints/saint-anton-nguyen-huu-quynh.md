@@ -5,7 +5,7 @@ summary: >-
   Layman. Physician. Catechist. Worked to help the missionaries of the Paris Foreign Mission Society. Arrested in 1838
   he spent two years in prison for associating with foreign missionaries. There, between bouts of torture and abuse, he
   used his medical skills to help fellow prison
-image: http://catholicsaints.info/wp-content/gallery/martyrs-of-vietnam/martyrs-of-vietnam-01.jpg
+image: https://catholicsaints.info/wp-content/gallery/martyrs-of-vietnam/martyrs-of-vietnam-01.jpg
 birthYear: 1768
 deathYear: 1840
 born: c.1768 in My Huong, Quang Bình, Vietnam

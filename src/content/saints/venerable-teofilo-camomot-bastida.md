@@ -5,7 +5,7 @@ summary: >-
   Third of eight children born to Luis and Angela Bastida. Studied at the Seminario de San Carlos in Cebu City,
   Philippines, and was ordained in the archdiocese of Cebu, Philippines on 14 December 1941. Priest of Sainte Teresa
   parish, Talisay, Cebu in 1943; known for his ministry t
-image: http://catholicsaints.info/wp-content/uploads/img-Archbishop-Teofilo-Camomot-Bastida.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Archbishop-Teofilo-Camomot-Bastida.jpg
 birthYear: 1914
 deathYear: 1988
 born: 3 March 1914 in Carcar, Cebu, Philippines

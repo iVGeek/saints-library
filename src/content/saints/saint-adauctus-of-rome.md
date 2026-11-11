@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   As Saint Felix of Rome was being dragged to his martyrdom, Adauctus, a bystander, was moved to proclaim his own faith.
   Martyr.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Adauctus-and-Saint-Felix.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Adauctus-and-Saint-Felix.jpg
 searchAliases:
   - Adautto
 deathYear: 303

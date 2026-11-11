@@ -4,7 +4,7 @@ honorific: Venerable
 summary: >-
   Member of the Brothers of the Christian Schools. He worked in Cuba, establishing several Catholic youth associations,
   and supported the vocation of many young men and women to enter the priesthood and religious life.
-image: http://catholicsaints.info/wp-content/uploads/img-Venerable-Augustin-Arnaud-Pagès.gif
+image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Augustin-Arnaud-Pagès.gif
 searchAliases:
   - Victorino Nymphas
   - Victorin Nymphas

@@ -5,7 +5,7 @@ summary: >-
   Born to the Japanese nobility. Educated by Jesuits at Arima, he joined the Society in 1587. Thomas traveled Japan and
   became known for his eloquent, persuasive preaching. His vocation was cut short when he was arrested and exiled to
   Macao because of his religion. Thomas returned
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Thomas-Tsuji.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Thomas-Tsuji.jpg
 searchAliases:
   - Thomas Tsugi
   - Thomas Tsughi

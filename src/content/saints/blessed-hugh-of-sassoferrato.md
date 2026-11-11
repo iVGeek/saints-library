@@ -2,7 +2,7 @@
 name: Blessed Hugh of Sassoferrato
 honorific: Blessed
 summary: Studied at Bologna, Italy. Spiritual student of Saint Sylvester Guzzolini. Benedictine monk.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Hugh-of-Sassoferrato.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Hugh-of-Sassoferrato.jpg
 searchAliases:
   - Hugh of Actes
   - Hugh of Actis

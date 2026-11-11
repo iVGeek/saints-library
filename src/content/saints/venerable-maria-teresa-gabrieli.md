@@ -2,7 +2,7 @@
 name: Venerable Maria Teresa Gabrieli
 honorific: Venerable
 summary: Co-founded the Sisters of the Poor, Palazzolo Institute.
-image: http://catholicsaints.info/wp-content/uploads/img-Venerable-Maria-Teresa-Gabrieli.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Maria-Teresa-Gabrieli.jpg
 birthYear: 1837
 deathYear: 1908
 born: 13 September 1837 in Bergamo, Italy

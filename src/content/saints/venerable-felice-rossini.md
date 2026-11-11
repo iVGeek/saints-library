@@ -5,7 +5,7 @@ summary: >-
   Baptized at the age of one day. Educated by Capuchins, he joined them at the convent of Lovere, Italy on 23 June 1891,
   and made his solemn profession at the convent of Brescia, Italy on 2 July 1896. Missionary to Brazil, arriving on 30
   August 1898. Ordained a priest in the cathed
-image: http://catholicsaints.info/wp-content/uploads/img-Venerable-Felice-Rossini.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Felice-Rossini.jpg
 searchAliases:
   - Daniele of Samarate
 birthYear: 1876

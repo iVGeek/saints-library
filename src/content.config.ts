@@ -9,12 +9,17 @@ import { defineCollection, z } from 'astro:content';
  * rewrite. See docs/CONTENT_MODEL.md for the admin guide and CMS mapping.
  */
 
-export const feastSchema = z.object({
-  /** 1-12 */
-  month: z.number().int().min(1).max(12),
-  /** 1-31 */
-  day: z.number().int().min(1).max(31),
-});
+export const feastSchema = z
+  .object({
+    /** 1-12 */
+    month: z.number().int().min(1).max(12),
+    /** 1-31 */
+    day: z.number().int().min(1).max(31),
+  })
+  .refine(({ month, day }) => {
+    const d = new Date(Date.UTC(2000, month - 1, day));
+    return d.getUTCMonth() === month - 1 && d.getUTCDate() === day;
+  }, { message: 'Invalid calendar date for feastDay' });
 
 const saints = defineCollection({
   type: 'content',

@@ -2,7 +2,7 @@
 name: Saint John I of Naples
 honorific: Saint
 summary: Fifth-century bishop of Naples, Italy. Translated the body of Saint Januarius to Naples.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-John-I-of-Naples.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-John-I-of-Naples.jpg
 deathYear: 432
 born: Campania, Italy
 died: Holy Saturday night in 432 of natural causes

@@ -5,7 +5,7 @@ summary: >-
   Born to a poor farm family. Worked as a shepherd in La Rioja, Spain. Hermit. Priest. Parish priest in Berceo, Spain
   for some time, but eventually returned to his life as a hermit. His reputation for holiness spread, a large number of
   would-be spritual students gathered around him
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Emilian-Cucullatus.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Emilian-Cucullatus.jpg
 searchAliases:
   - Millan de la Cogolla
   - Emilian the Cowled

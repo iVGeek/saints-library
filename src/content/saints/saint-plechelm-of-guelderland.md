@@ -5,7 +5,7 @@ summary: >-
   Benedictine monk. Priest. Pilgrim to Rome, Italy with Saint Wiro and Saint Otger. Regional missionary bishop to
   Northumberland, England. Missionary to Friesland, in the modern Netherlands; may have worked with Saint Willibrord of
   Echternach. Helped found Saint Peter's monastery a
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Plechelm-of-Guelderland.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Plechelm-of-Guelderland.jpg
 searchAliases:
   - Plechelm of Utrecht
   - Plechelmo of…

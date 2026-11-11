@@ -4,7 +4,7 @@ honorific: Venerable
 summary: >-
   Layman merchant in the apostolic vicariate of Southeastern Zhili, China. Seized by followers of the Yihetuan movement
   and killed for being Christian. Martyr.
-image: http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Xianxian.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Xianxian.jpg
 searchAliases:
   - Ruose
 birthYear: 1853

@@ -2,7 +2,7 @@
 name: Saint Proclus of Ancyra
 honorific: Saint
 summary: Martyred in the persecutions of emperor Trajan and the governor Maximus.
-image: http://catholicsaints.info/wp-content/uploads/img-Saints-Proclus-and-Hilarion-of-Ancyra.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saints-Proclus-and-Hilarion-of-Ancyra.jpg
 searchAliases:
   - Proclo
 died: Ancyra, Asia Minor (in modern Turkey)

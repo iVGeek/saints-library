@@ -5,7 +5,7 @@ summary: >-
   Abbess at Coldingham, Berwickshire, Scotland, a double monastery that had been founded by Saint Ebbe the Elder, and
   which was the largest in the country at the time. When the monastery was attacked by Scandinavian pirates, Ebbe
   gathered her nuns and exhorted them to save themselv
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Ebbe-the-Younger.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Ebbe-the-Younger.jpg
 searchAliases:
   - Ebbe of Coldingham
   - Abb

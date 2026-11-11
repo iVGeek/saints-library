@@ -5,7 +5,7 @@ summary: >-
   Panacea's mother died when the girl was an infant. When she was old enough, Panacea worked as shepherdess. Her father
   re-married, but her step-mother, Margherita di Locarno Sesia, quickly developed a hatred of the girl, partly because
   she would not work as ordered, and partially
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Panacea-deMuzzi-of-Quarona.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Panacea-deMuzzi-of-Quarona.jpg
 searchAliases:
   - Panacea de Muzzi
   - Panacea of Quarona

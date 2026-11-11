@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Born to the French nobility. Count of Anjou. He gave up the title and worldly life to become a monk. Bishop of Angers,
   France, ordained by Saint Gregory of Tours.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Lucinus-of-Angers.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Lucinus-of-Angers.jpg
 searchAliases:
   - Lesin
   - Lezin

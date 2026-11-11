@@ -5,7 +5,7 @@ summary: >-
   Son of a soldier named Odilo, a man known for his Christian life, and who later became a Cistercian monk; his mother
   was known for her life of prayer and alms-giving. Uncle of Saint Hugh of Bonnevaux. Hugh was an exceptionally good
   student as a child. Canon in the cathedral of Va
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Hugh-of-Grenoble-1.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Hugh-of-Grenoble-1.jpg
 searchAliases:
   - Hugh of Châteauneuf
 birthYear: 1053

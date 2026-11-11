@@ -4,7 +4,7 @@ honorific: Venerable
 summary: >-
   Girl who grew up in an Christian-run orphanage in Wangla, apostolic vicariate of Southeastern Zhili, China. Martyred
   in the Boxer Rebellion.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Maria-Zheng-Xu.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Maria-Zheng-Xu.jpg
 searchAliases:
   - Mali
   - Zheng Xu Maria

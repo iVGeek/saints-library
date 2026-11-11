@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Joined the Hospitallers of Saint John of God, making his temporary vows on 28 August 1932. Martyred in the Spanish
   Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Martyred-Hospitallers-of-Spain.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Martyred-Hospitallers-of-Spain.jpg
 searchAliases:
   - Brother Faustino
 birthYear: 1913

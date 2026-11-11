@@ -5,7 +5,7 @@ summary: >-
   A professor of classical languages, he became a priest in the archdiocese of Gniezno, Poland, serving in the parish of
   the Blessed Virgin Mary church in Inowroclaw, Poland. Arrested by occupying Nazi forces on 2 November 1939, he was
   sent to the Sachsenhausen concentration camp w
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Ladislao-Demski.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Ladislao-Demski.jpg
 searchAliases:
   - Ladislao Demski
   - Ladislaus Demski

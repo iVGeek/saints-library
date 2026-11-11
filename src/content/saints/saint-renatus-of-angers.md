@@ -2,7 +2,7 @@
 name: Saint Renatus of Angers
 honorific: Saint
 summary: Bishop of Angers, France.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Renatus-of-Angers.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Renatus-of-Angers.jpg
 searchAliases:
   - Renato
   - Rene

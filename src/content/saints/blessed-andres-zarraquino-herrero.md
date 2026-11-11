@@ -5,7 +5,7 @@ summary: >-
   Member of the Brothers of the Christian Schools, joining in Cambrils on 27 July 1924 and taking the habit on 15 August
   1925, taking the name Brother Honorato Andrés. Teacher in Tortosa, Gracia, and then the College of Our Lady of
   Bonanova in Barcelona, Spain. Martyred in the Span
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Andrés-Zarraquino-Herrero.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Andrés-Zarraquino-Herrero.jpg
 searchAliases:
   - Brother Honorato Andrés
 birthYear: 1908

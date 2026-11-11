@@ -2,7 +2,7 @@
 name: Saint Castrensis of Capua
 honorific: Saint
 summary: Priest. Bishop exiled from Africa to Italy in the 5th century by Arian Vandals. Bishop of Capua, Italy.
-image: http://catholicsaints.info/wp-content/uploads/P1014548.jpg
+image: https://catholicsaints.info/wp-content/uploads/P1014548.jpg
 searchAliases:
   - Castrensis of Sessa
   - Castrensis of Campania

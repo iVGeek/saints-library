@@ -5,7 +5,7 @@ summary: >-
   Educated by the monks of San Antonio Aban. Lebanese Maronite monk in Batrun, Lebanon in 1828, taking the name Father
   Nimatullah. Worked as a bookbinder of religious works for his house. Ordained in 1833. Spiritual director and novice
   master in his house, and chosen to be part of
-image: http://catholicsaints.info/wp-content/uploads/Hardini.jpg
+image: https://catholicsaints.info/wp-content/uploads/Hardini.jpg
 searchAliases:
   - Nimatullah al-Hardini
   - Nimatullah Youssef Kassab Al-Hardini

@@ -2,7 +2,7 @@
 name: Blessed Eliseo García y García
 honorific: Blessed
 summary: Member of the Salesians of Don Bosco, joining in 1932. Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Eliseo-García-y-García.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Eliseo-García-y-García.jpg
 birthYear: 1907
 deathYear: 1936
 born: 25 August 1907 in El Manzano, Salamanca, Spain

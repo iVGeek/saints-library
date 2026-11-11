@@ -5,7 +5,7 @@ summary: >-
   Born to a pious, French-Canadian farm family, the daughter of Jean Baptiste Blondin and Marie Rose Limoges. Illiterate
   into adulthood, as were the other members of her family and most of her acquaintances. Domestic servant for a village
   merchant, and then in the convent of the Si
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Maria-Anna-Blondin.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Maria-Anna-Blondin.jpg
 searchAliases:
   - Esther Blondin
   - Sister Marie-Anne

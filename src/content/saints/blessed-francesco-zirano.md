@@ -5,7 +5,7 @@ summary: >-
   Member of the Friars Minor Conventuals, making his profession in 1580. Priest, ordained in 1586. In 1599 he received
   authorization from Pope Clement VIII to collect funds to ransom Christians who were enslaved and held for ransom by
   Muslims in North Africa. On 20 August 1602 he a
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Francesco-Zirano.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Francesco-Zirano.jpg
 searchAliases:
   - Francesco Cirano
   - Francesco Cyrano

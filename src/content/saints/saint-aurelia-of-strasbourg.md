@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Born a princess, a member of the royal family of Hugh Capet. To escape marriage, she fled to Alsace and lived as a
   recluse for 52 years. Only Bishop Wolfgang of Ratisbon knew that she was even alive.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Aurelia-of-Strasbourg.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Aurelia-of-Strasbourg.jpg
 searchAliases:
   - Aurelia of Ratisbon
   - Aurelia of Regensburg

@@ -5,7 +5,7 @@ summary: >-
   Daughter of Count Dietrich of Westphalia and Reinhild of Denmark; she was raised by her grandmother, abbess of the
   Eufurt. In 913, Matilda left the abbey, and married King Henry the Fowler of Saxony (Henry I), who had received an
   annulment from a previous marriage. Queen of Germa
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Matilda-of-Saxony.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Matilda-of-Saxony.jpg
 searchAliases:
   - Matilda of Germany
   - Matilda of Ringelheim

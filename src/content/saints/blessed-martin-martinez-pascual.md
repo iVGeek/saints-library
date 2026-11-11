@@ -5,7 +5,7 @@ summary: >-
   Son of Martín Martínez Callao, a carpenter, and Francisca Pascual Amposta; Martin was baptized at the age of one day.
   He was a religious child. He joined the Diocesan Laborer Priests of the Sacred Heart of Jesus in 1934 while in
   seminary in the diocese of Zaragoza, Spain. Priest,
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Martín-Martínez-Pascual.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Martín-Martínez-Pascual.jpg
 birthYear: 1910
 deathYear: 1936
 born: 11 November 1910 in Valdealgorfa, Teruel, Spain

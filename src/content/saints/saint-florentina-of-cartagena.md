@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Sister of Saint Leander of Seville, Saint Fulgentius of Ecija and Saint Isidore of Seville. Orphaned young and raised
   by Saint Leander of Seville. Nun. Abbess.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Florentina-of-Cartagena.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Florentina-of-Cartagena.jpg
 searchAliases:
   - Florence
   - Fiorentina

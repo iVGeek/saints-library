@@ -5,7 +5,7 @@ summary: >-
   Sister of Saint Faustinus of Rome and Saint Simplicius of Rome. Betrothed to be married even though she had taken
   personal vows of chastity. When she was caught burying her martyred brothers, she was denounced as a Christian by her
   fiance Lucretius, which led to imprisonment and
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Beatrice-of-Rome.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Beatrice-of-Rome.jpg
 searchAliases:
   - Beatrix
   - Viatrice

@@ -5,7 +5,7 @@ summary: >-
   Son of Jose Agramunt and Antonia Riera. Began his Piarist novitiate in August 1922, making his solemn vows on 15
   February 1928. Priest, ordained on 28 December 1930. Taught at Albacete, Spain. Transferred to the College of
   Castellón de la Plana in September 1935. When the persecu
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Juan-Agramunt-y-Riera.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Juan-Agramunt-y-Riera.jpg
 searchAliases:
   - Juan of the Sacred Hearts
 birthYear: 1907

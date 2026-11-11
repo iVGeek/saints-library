@@ -5,7 +5,7 @@ summary: >-
   His father died when David was only a year old. Entered the seminary at Durango when very young, but had to leave to
   help support his family by working as a miner; never returned to seminary, and remained a layman. Worked with Saint
   Luis Batiz in his local parish. Joined Catholic
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-David-Roldan-Lara.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-David-Roldan-Lara.jpg
 birthYear: 1907
 deathYear: 1926
 born: 2 March 1907 at Chalchihuites, Zacatecas, Mexico

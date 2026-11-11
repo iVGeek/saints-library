@@ -4,7 +4,7 @@ honorific: Venerable
 summary: >-
   Married layman in the apostolic vicariate of Southeastern Zhili, China. Father of Saint Ioannes Baptista Wu Mantang;
   uncle of Saint Paulus Wu Wanshu. Martyred in the Boxer Rebellion.
-image: http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-China2.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-China2.jpg
 searchAliases:
   - Baolu
   - Wu Anju Paulus

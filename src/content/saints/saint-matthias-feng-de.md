@@ -4,7 +4,7 @@ honorific: Venerable
 summary: >-
   Married layman in the apostolic vicariate of Northern Shanxi, China. Member of the Secular Franciscans. Martyred in
   the Boxer Rebellion.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Mattia-Fan.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Mattia-Fan.jpg
 searchAliases:
   - Madi
   - Mattia Fan

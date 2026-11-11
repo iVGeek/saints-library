@@ -2,7 +2,7 @@
 name: Saint Polieuctus of Caesarea
 honorific: Saint
 summary: Martyr.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Polieuctus-of-Caesarea.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Polieuctus-of-Caesarea.jpg
 searchAliases:
   - Polieuto
   - Polieutto

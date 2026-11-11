@@ -5,7 +5,7 @@ summary: >-
   Daughter of Count Roger IV of Foix and Brunisenda Cardona. Queen of Majorca, married to King James II of Majorca (in
   modern Spain) on 1 September 1275. Joined the Mercedarians at San Pedro de Amer in 1291, and became a great protector
   and benefactor of the Order.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Esclaramunda-of-Majorca.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Esclaramunda-of-Majorca.jpg
 searchAliases:
   - Esclaramunda of Foix
   - Esclarmonde…

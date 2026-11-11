@@ -5,7 +5,7 @@ summary: >-
   Educated at the monastery at Lerins on the island of Saint Honorat. Monk. Abbot at Lerins. Abbot at Saint-Symphorien
   at Autun, France. Archbishop of Arles, France, appointed by Pope Saint Gregory the Great. Papal vicar in Gaul.
   Ordained Saint Augustine of Canterbury. Had to be re
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Virgilius-of-Arles.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Virgilius-of-Arles.jpg
 searchAliases:
   - Virgil
 deathYear: 618

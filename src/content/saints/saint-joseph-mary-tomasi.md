@@ -5,7 +5,7 @@ summary: >-
   Born to the wealthy Sicilian nobility, the son of the duke of Palermo, Italy and Rosalia Traino. When their children
   were grown, both of his parents entered religious life, and four of his sisters became nuns. Joseph renounced his
   inheritance and position in favour of his brother
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Joseph-Mary-Tomasi-1.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Joseph-Mary-Tomasi-1.jpg
 searchAliases:
   - Giuseppe Maria Tomasi di Lampedusa
   - Giuseppe Maria Tomasi

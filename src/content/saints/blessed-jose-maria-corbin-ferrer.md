@@ -5,7 +5,7 @@ summary: >-
   Young layman in the archdiocese of Valencia, Spain. Brilliant university student, studying chemistry. Member of the
   Federation of Catholic Students. Arrested on 28 August 1936 for being a faithful Catholic during the Spanish Civil
   War, he was imprisoned on a ship in the harbour o
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-José-María-Corbin-Ferrer.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-José-María-Corbin-Ferrer.jpg
 searchAliases:
   - Giuseppe Maria Ferrer-Corbin
 birthYear: 1914

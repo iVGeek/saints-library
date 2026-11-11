@@ -5,7 +5,7 @@ summary: >-
   Michael decided at age six that he wanted to be a monk, and imposed such austerities on himself as a child that he had
   to be restrained. Orphaned, he became the apprentice of a merchant. Tried to join the Trinitarian monastery in
   Barcelona, Spain at age 12. Took his vows at age 1
-image: http://catholicsaints.info/wp-content/uploads/Michael-of-the-Saints.jpg
+image: https://catholicsaints.info/wp-content/uploads/Michael-of-the-Saints.jpg
 searchAliases:
   - Michael de Sanctis
   - Michael of the Saints

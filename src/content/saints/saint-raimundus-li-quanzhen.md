@@ -2,7 +2,7 @@
 name: Saint Raimundus Li Quanzhen
 honorific: Venerable
 summary: Married layman in the apostolic vicariate of Southeastern Zhili, China. Martyred in the Boxer Rebellion.
-image: http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-China2.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-China2.jpg
 searchAliases:
   - Rimen
   - Li Quanzhen Raimundus

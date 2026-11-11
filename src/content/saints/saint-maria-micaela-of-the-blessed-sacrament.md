@@ -5,7 +5,7 @@ summary: >-
   The daughter of Miguel Desmaisières y Flores, a high-ranking officer in the Spanish army, and Bernarda López de
   Dicastillo y Olmeda, a lady-in-waiting to Queen Maria Luisa de Parma of Spain; her mother was known for her charity to
   the sick and poor. Her mother died when Micaela w
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Micaela-Desmaisières-López-de-Dicastillo.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Micaela-Desmaisières-López-de-Dicastillo.jpg
 searchAliases:
   - Micaela Desmaisières López de Dicastillo
   - Maria Micaela Desmaisieres

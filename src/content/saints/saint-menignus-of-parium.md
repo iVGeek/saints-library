@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Married layman fuller and cloth dyer. Tortured, his fingers hacked off, and executed in the persecutions of Decius for
   tearing down an edict suppressing the faith. Martyr.
-image: http://catholicsaints.info/wp-content/uploads/Menigno-of-Parium.jpg
+image: https://catholicsaints.info/wp-content/uploads/Menigno-of-Parium.jpg
 searchAliases:
   - Menigno of Pario
   - Menignus the Dyer

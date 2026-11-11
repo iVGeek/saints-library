@@ -5,7 +5,7 @@ summary: >-
   Educated at Oxford University. Priest. Though he resisted the Reformation changes at first, he eventually conformed to
   the rules of the state church under Queen Elizabeth, and served as a minister in the Church of England for 20 years.
   Taken to task by a Catholic woman for abando
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-James-Bell.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-James-Bell.jpg
 birthYear: 1520
 deathYear: 1584
 born: c.1520 at Warrington, Lancashire, England

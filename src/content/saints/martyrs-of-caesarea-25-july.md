@@ -1,7 +1,7 @@
 ---
 name: Martyrs of Caesarea
 honorific: Saint
-image: http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Caesarea.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Caesarea.jpg
 deathYear: 309
 died: 309 in Caesarea, Palestine
 deathPlace: Palestine

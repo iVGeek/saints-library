@@ -2,7 +2,7 @@
 name: Saint Petrus Yu Tae-Ch'ol
 honorific: Venerable
 summary: Imprisoned, tortured and martyred at the age of 13 for his faith.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Petrus-Yu-Tae-Chol.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Petrus-Yu-Tae-Chol.jpg
 searchAliases:
   - Peteuro Yu Dae-Jeol
   - Peter Yu Tae-Ch'ol

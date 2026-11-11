@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Priest. Bishop of Agrigento, Italy in the mid-6th-century. Began teaching Saint Gregory of Agrigento in 567, and
   ordained him into the priesthood in 571.
-image: http://catholicsaints.info/wp-content/uploads/img-Bishops-of-Agrigento-Italy.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Bishops-of-Agrigento-Italy.jpg
 searchAliases:
   - Potamio
   - Potamius

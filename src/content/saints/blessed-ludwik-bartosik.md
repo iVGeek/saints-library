@@ -5,7 +5,7 @@ summary: >-
   Eldest son of Wojciech, a poor shoemaker, and Wiktoria Tomczyk. With the help of his parish priest, Ludwik obtained a
   good education. Joined the Franciscan Conventual Friars in 1926, taking the name Pius. Studied in Franciscan
   seminaries in Sanok, then Lviv and finally Krakow, Po
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Ludwik-Bartosik.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Ludwik-Bartosik.jpg
 searchAliases:
   - Father Pio
   - Father Pius

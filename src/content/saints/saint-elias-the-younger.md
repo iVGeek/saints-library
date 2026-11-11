@@ -5,7 +5,7 @@ summary: >-
   Monk in the tradition of the Eastern Fathers. Escaping the persecutions of invading Muslim Saracens, Elias fled to
   Jerusalem where he received the monastic habit from the Patriarch of Jerusalem, taking the name Elias. He spent three
   years in a monastery in Sinai, then travelled t
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Elias-the-Younger.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Elias-the-Younger.jpg
 searchAliases:
   - Elias of Enna
   - Elias of Salinas

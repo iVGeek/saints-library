@@ -5,7 +5,7 @@ summary: >-
   Known as a pious child, Luis entered the seminary at Durango, Mexico at age 12. Ordained on 1 January 1894. Seminary
   spiritual director and parish priest at Chalchihuites, Mexico the rest of his life. Worked with Catholic Action.
   Started schools for poor children. Taught catechis
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Luis-Batiz-Sainz.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Luis-Batiz-Sainz.jpg
 birthYear: 1870
 deathYear: 1926
 born: 13 September 1870 at San Miguel del Mezquital, Mexico

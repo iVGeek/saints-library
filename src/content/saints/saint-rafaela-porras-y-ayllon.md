@@ -5,7 +5,7 @@ summary: >-
   Daughter of the mayor of Pedro Abad, Spain. Her father died when Raphaela was four years old. She and her sister
   Dolores (Pilar) joined the Sisters of Marie Reparatrice in Cordova, Spain in 1873. When Bishop Ceferino Gonzalez asked
   the community to leave his diocese, Raphaela and
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Rafaela-Porras-y-Ayllón.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Rafaela-Porras-y-Ayllón.jpg
 searchAliases:
   - Rafaela Maria del Sagrado Corazon
   - Raphaela of the Sacred Heart of Jesus

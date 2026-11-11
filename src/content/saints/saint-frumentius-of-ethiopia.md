@@ -5,7 +5,7 @@ summary: >-
   Brother of Saint Aedesius. Student of the philosopher Meropius. While on a voyage on the Red Sea, their ship wrecked
   on the Ethiopian shore, and only Frumentius and Aedeius survived. They were taken to the king at Axum as a curiosity,
   and became members of the court, Frumentius s
-image: http://catholicsaints.info/wp-content/gallery/saint-frumentius-of-ethopia/saint-frumentius-of-ethiopia-01.jpg
+image: https://catholicsaints.info/wp-content/gallery/saint-frumentius-of-ethopia/saint-frumentius-of-ethiopia-01.jpg
 searchAliases:
   - Apostle to Ethiopia
   - Abuna of Ethiopia

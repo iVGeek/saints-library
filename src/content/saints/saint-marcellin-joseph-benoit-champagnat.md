@@ -5,7 +5,7 @@ summary: >-
   Entered the seminary at age 16. Student with Saint John Marie Vianney. Ordained in 1816. Founded the Little Brothers
   of Mary (Marists) in 1817 mainly involving boys in their late teens with a great devotion of Our Lady who wanted to
   teach and help bring the Word to other young me
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Marcellin-Joseph-Benoit-Champagnat.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Marcellin-Joseph-Benoit-Champagnat.jpg
 birthYear: 1789
 deathYear: 1840
 born: 20 May 1789 at Hameau du Rosey, Lyon, France

@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Priest in the diocese of Limoges, France. Martyred in the French Revolution. One of the Martyrs of the Hulks of
   Rochefort.
-image: http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-the-Hulks-of-Rochefort.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-the-Hulks-of-Rochefort.jpg
 birthYear: 1746
 deathYear: 1794
 born: 3 September 1746 in Saint-Germain, Haute-Vienne, France

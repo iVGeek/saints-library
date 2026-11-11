@@ -5,7 +5,7 @@ summary: >-
   Studied and was ordained at the English College, Douai, France. he returned to England on 13 October 1619 to minister
   to covert Catholics. Arrested and condemned to death for his faith in Lancashire in 1627; he was held in various
   prisons, at one point hearing the final confessio
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-John-Southworth.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-John-Southworth.jpg
 birthYear: 1592
 deathYear: 1654
 born: 1592 at Samlesbury, Lancashire, England

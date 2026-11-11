@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Military officer. Discalced Carmelite in 1615, taking the name Redemptorus of the Cross. With Blessed Denis of the
   Nativity, he travelled as a missionary to the king of Achin. He and his party were ambushed and martyred by Muslims.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Redemptorus-of-the-Cross.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Redemptorus-of-the-Cross.jpg
 searchAliases:
   - Thomas Rodriguez da Cunha
 deathYear: 1638

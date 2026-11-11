@@ -5,7 +5,7 @@ summary: >-
   Daughter of Saint Marcella of Alexandria. Young, beautiful, pious, Christian, virgin, girl. Tortured extensively for
   her faith, burned with boiling pitch, and threatened with being handed over to gladiators to be raped during the
   persecutions of Severus. Her calm and faith during
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Potamiaena-the-Elder.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Potamiaena-the-Elder.jpg
 searchAliases:
   - Potamiaena of Alexandria
   - Potamicena….

@@ -2,7 +2,7 @@
 name: Blessed Valeriano Rodríguez García
 honorific: Blessed
 summary: Trappist priest. Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Martyred-Cistercians-of-the-Spanish-Civil-War.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Martyred-Cistercians-of-the-Spanish-Civil-War.jpg
 birthYear: 1906
 deathYear: 1936
 born: 10 June 1906 in Villaviciosa de San Miguel, León, Spain

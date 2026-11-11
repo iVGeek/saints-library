@@ -5,7 +5,7 @@ summary: >-
   Born to the Irish nobility. Educated in Bangor Abbey, Ireland. Spiritual student of Saint Comgall of Bangor. Legend
   says that one day as Moloc stood on a rock on the Irish shore, the rock broke away, sailed across the sea, and came
   ashore on the island of Lismore in Loch Linnhe.
-image: http://catholicsaints.info/wp-content/gallery/saint-moloc-of-mortlach/saint-moloc-of-mortlach-01.jpg
+image: https://catholicsaints.info/wp-content/gallery/saint-moloc-of-mortlach/saint-moloc-of-mortlach-01.jpg
 searchAliases:
   - Lua
   - Luan

@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Benedictine monk. Abbot. Drained the Pontine marshes in Italy. Founded an abbey in Sezze in the Papal States (part of
   modern Italy).
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Lidanus-of-Sezze.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Lidanus-of-Sezze.jpg
 searchAliases:
   - Lidanus of Antena
   - Lidan…

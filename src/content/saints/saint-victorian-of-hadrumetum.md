@@ -5,7 +5,7 @@ summary: >-
   The wealthiest subject of the Vandal king Hunseric, Victorian served as governor of Carthage with the imperial Roman
   title of Proconsul, and was known for his devotion to orthodox Christianity. Hunseric offered him all the wealth and
   power he could bestow if Victorian would decla
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Victorian-of-Hadrumetum.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Victorian-of-Hadrumetum.jpg
 searchAliases:
   - Vittoriano
 region: Italy

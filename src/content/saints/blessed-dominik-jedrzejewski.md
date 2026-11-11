@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Priest of the diocese of Wloclawek, Poland. Deported, imprisoned, tortured and martyred in the Nazi persecutions of
   World War II.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Dominik-Jedrzejewski.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Dominik-Jedrzejewski.jpg
 birthYear: 1886
 deathYear: 1942
 born: 4 August 1886 in Kowal, Kujawsko-Pomorskie, Poland

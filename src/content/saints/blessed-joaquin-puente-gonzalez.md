@@ -5,7 +5,7 @@ summary: >-
   Baptized at the age of three days; confirmed on 13 October 1922. Like his brother before him, he joined the
   Congregation of San Pedro ad Vincula, begining the novitiate in Marseille, France on 23 September 1934 and making his
   profession in 1935. Served as a school teacher in Barc
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Joaquín-Puente-González.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Joaquín-Puente-González.jpg
 searchAliases:
   - Brother Jacinto
 birthYear: 1915

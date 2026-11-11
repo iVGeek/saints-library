@@ -5,7 +5,7 @@ summary: >-
   Officer in the imperial Roman army, and a closet Christian. He retired from the army and fled to Auvergne, France
   during the persecutions of Diocletian. At one point he was hidden by Saint Ferreolus the Tribune. Julian later
   surrendered to pursuing Christian-hunters, and made a p
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Julian-of-Auvergne.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Julian-of-Auvergne.jpg
 searchAliases:
   - Julian of Brionde
   - Julian of Brioude

@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Brother of Saint Donatian of Nantes. Arrested, torture, mutilated, and finally martyred in the persecutions of
   Diocletian.
-image: http://catholicsaints.info/wp-content/uploads/pls-Saints-Donatian-and-Rogatian-Martyrs.jpg
+image: https://catholicsaints.info/wp-content/uploads/pls-Saints-Donatian-and-Rogatian-Martyrs.jpg
 deathYear: 299
 died: beheaded in 299 in Nantes, Brittany (in modern France)
 deathPlace: Brittany (modern France)

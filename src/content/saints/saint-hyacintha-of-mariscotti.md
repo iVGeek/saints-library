@@ -5,7 +5,7 @@ summary: >-
   Born to the Italian nobility. Educated in a Franciscan convent. Franciscan tertiary at Saint Bernardine's convent in
   Viterbo, Italy for ten years, though with no real enthusiasm; she used her personal funds to insure comfortable
   lodgings, and none of the privations of the other t
-image: http://catholicsaints.info/wp-content/uploads/img-Giacinta-Mariscotti.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Giacinta-Mariscotti.jpg
 searchAliases:
   - Giacinta Marescotti
   - Jacinta Mariscotti

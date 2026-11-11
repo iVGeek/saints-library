@@ -5,7 +5,7 @@ summary: >-
   Joined the Dominicans at the convent of San Marco in Florence, Italy as a young man. While travelling to preach in
   Naples, Italy, he was captured by Moorish pirates, he was taken to Tunis, Tunisia. He was initially treated pretty
   well, but his captors perceived him as arrogant fo
-image: http://catholicsaints.info/wp-content/uploads/Anthony-Neyrot.jpg
+image: https://catholicsaints.info/wp-content/uploads/Anthony-Neyrot.jpg
 searchAliases:
   - Antoine Neirotti
   - Antonio…

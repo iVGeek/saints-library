@@ -5,7 +5,7 @@ summary: >-
   Son of a Breton chieftain. Educated at Landevennec, Brittany (in modern France under Saint Winwaloe in 489. Monk at
   Landevennec. Abbot of Landevennec in 532. Missionary to Britain and Ireland where he abolished the last pagan customs.
   Helped establish Cornouailles in Brittany in
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Guenhaël.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Guenhaël.jpg
 searchAliases:
   - Guenaël
   - Guenaele

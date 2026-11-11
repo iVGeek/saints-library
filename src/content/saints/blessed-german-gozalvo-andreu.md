@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Attended seminary on academic scholarships. Priest in the archdiocese of Valencia, Spain, ordained on 14 July 1936.
   Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Germán-Gozalvo-Andreu.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Germán-Gozalvo-Andreu.jpg
 birthYear: 1913
 deathYear: 1936
 born: 30 August 1913 in Torrent, Valencia, Spain

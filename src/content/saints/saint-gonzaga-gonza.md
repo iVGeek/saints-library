@@ -2,7 +2,7 @@
 name: Saint Gonzaga Gonza
 honorific: Venerable
 summary: Mpologoma clan. Convert. One of the Martyrs of Uganda who died in the Mwangan persecutions.
-image: http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Uganda.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Uganda.jpg
 deathYear: 1886
 born: at Busoga, Uganda
 died: beheaded on 27 May 1886 at Lubowa, Uganda

@@ -5,7 +5,7 @@ summary: >-
   The fourth of six children born to the farming family of Pasqual Maoloni and Serafino Caioni, Giovanni worked the
   fields as a child and youth, did not attend school, and learned to read and write and home. He joined the Capuchin
   Franciscans at Fossombrone, Italy on 6 April 1902,
-image: http://catholicsaints.info/wp-content/uploads/img-Venerable-Giovanni-Maoloni.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Giovanni-Maoloni.jpg
 searchAliases:
   - Marcellino of Capradosso
 birthYear: 1873

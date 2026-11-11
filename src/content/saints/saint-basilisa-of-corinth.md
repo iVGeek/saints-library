@@ -2,7 +2,7 @@
 name: Saint Basilisa of Corinth
 honorific: Saint
 summary: One of a group of eight Christians who were tortured and martyred together in the persecutions of Decius.
-image: http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Corinth.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Corinth.jpg
 deathYear: 250
 died: thrown into the sea at Corinth, Greece c.250
 deathPlace: Greece c.250

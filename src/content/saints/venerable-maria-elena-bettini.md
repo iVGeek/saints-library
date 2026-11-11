@@ -2,7 +2,7 @@
 name: Venerable Maria Elena Bettini
 honorific: Venerable
 summary: Founder of the Daughters of Divine Providence.
-image: http://catholicsaints.info/wp-content/gallery/venerable-maria-elena-bettini/venerable-maria-elena-bettini-01.jpg
+image: https://catholicsaints.info/wp-content/gallery/venerable-maria-elena-bettini/venerable-maria-elena-bettini-01.jpg
 birthYear: 1814
 deathYear: 1894
 born: 6 January 1814 in Rome, Italy

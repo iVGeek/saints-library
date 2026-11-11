@@ -5,7 +5,7 @@ summary: >-
   French nobility, born to Andrew, Lord of Montmirail and Ferté-Gaucher, and Hildiarde d'Oisy. Trained in religion by
   his mother, and secular science by his schools. Soldier. Friend of Philip Augustus, later King of France. Married to
   Helvide de Dampierre, and father of several chi
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-John-de-Montmirail.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-John-de-Montmirail.jpg
 searchAliases:
   - Seigneur de Montmirail on the Marne
   - John de Monte Mirabili

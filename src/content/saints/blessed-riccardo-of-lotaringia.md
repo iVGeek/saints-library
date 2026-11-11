@@ -5,7 +5,7 @@ summary: >-
   Spiritual student of Radolfo in Laon, France. He was so moved by a sermon of Saint Norbert of Xanten that he followed
   Norbert back to his monastery and joined the new Premonstratensians. Noted for his austere, ascetic life. Assigned by
   Blessed Hugh of Fosse to be prior of the new
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Riccardo-of-Lotaringia.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Riccardo-of-Lotaringia.jpg
 searchAliases:
   - Riccardo of Lotharingia
   - Ricardo of…

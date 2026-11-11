@@ -5,7 +5,7 @@ summary: >-
   Born to the Welsh royalty, the son of King Sandde, Prince of Powys, and of Saint Non, the daughter of a chieftain of
   Menevia (western Wales). Grandson of Ceredig, Prince of Cardigan. Uncle of King Arthur. Priest. Studied under Saint
   Paul Aurelian. Worked with Saint Columbanus, Sa
-image: http://catholicsaints.info/wp-content/gallery/saint-david-of-wales/saint-david-of-wales-00.jpg
+image: https://catholicsaints.info/wp-content/gallery/saint-david-of-wales/saint-david-of-wales-00.jpg
 searchAliases:
   - David the Briton
   - David of Menevia

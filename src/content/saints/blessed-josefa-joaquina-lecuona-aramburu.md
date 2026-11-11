@@ -2,7 +2,7 @@
 name: Blessed Josefa Joaquina Lecuona Aramburu
 honorific: Blessed
 summary: Member of the Visitation Nuns. Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Josefa-Joaquina-Lecuona-Aramburu.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Josefa-Joaquina-Lecuona-Aramburu.jpg
 searchAliases:
   - Sister María Engracia
 birthYear: 1897

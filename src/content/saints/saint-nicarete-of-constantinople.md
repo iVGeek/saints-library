@@ -5,7 +5,7 @@ summary: >-
   Wealthy Byzantine noble woman who lived in Constantinople in private vows of chastity, and used her position to help
   the poor and sick. Close friend of Saint John Chrysostom, and was exiled with him. When the soldiers came to escort
   her from the city, and steal any money or jewel
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Nicarete-of-Constantinople.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Nicarete-of-Constantinople.jpg
 searchAliases:
   - Nicarete of Nicomedia
   - Niceras of….

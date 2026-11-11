@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Member of the Carmelite Sisters of Charity, beginning her novitiate on 27 November 1918. She served as a cook at
   several schools run by the Siste. Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Agueda.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Agueda.jpg
 searchAliases:
   - Sister Agueda of Our Lady of Virtues
 birthYear: 1893

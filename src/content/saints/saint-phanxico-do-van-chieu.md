@@ -5,7 +5,7 @@ summary: >-
   Raised in a Christian family. Layman catechist in the apostolic vicariate of East Tonkin (modern Vietnam). Devoted
   himself to helping missionary priests. Aide to bishop Saint Dominic Henares de Zafra Cubero, with whom he was arrested
   and murdered in the persecutions of emperor Mi
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Phanxicô-Ðo-Van-Chieu.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Phanxicô-Ðo-Van-Chieu.jpg
 searchAliases:
   - Francis Do Minh Chieu
   - Francesco Do Minh Chieu

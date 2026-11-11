@@ -5,7 +5,7 @@ summary: >-
   Third of four children born to Tommaso Troiani and Teresa Panici, her mother died when the Maria was six. Franciscan
   tertiary, dedicated to the teachings of Saint Francis, and to the care and education of girls. Franciscan nun, taking
   the habit on 8 December 1829, and taking the
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Maria-Catalina-Troiani.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Maria-Catalina-Troiani.jpg
 searchAliases:
   - Maria Caterina of Saint Rose
 birthYear: 1813

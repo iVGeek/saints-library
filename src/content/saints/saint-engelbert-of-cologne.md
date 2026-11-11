@@ -5,7 +5,7 @@ summary: >-
   Son of the influential Count Englebert of Berg and Margaret, daughter of the Count of Gelderland. Studied at the
   cathedral school at Cologne, Germany. In a time when clerical and episcopal positions were a part of political
   patronage, Englebert was made provost of churches in Col
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Engelbert-of-Cologne.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Engelbert-of-Cologne.jpg
 searchAliases:
   - Engelbert of Berg
 birthYear: 1185

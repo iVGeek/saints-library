@@ -5,7 +5,7 @@ summary: >-
   Converted to an active faith after hearing the preaching of Blessed Ambrose Sansedoni. He felt drawn to religious
   life, and joined the Servites, received into the order by Saint Philip Benizi. Spiritual teacher of Blessed Bartolomea
   of Siena. Noted for his personal holiness, and
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Francis-Patrizzi.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Francis-Patrizzi.jpg
 searchAliases:
   - Francis Patrizi
   - Francis Patrizi of Siena

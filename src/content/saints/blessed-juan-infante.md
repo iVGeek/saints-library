@@ -5,7 +5,7 @@ title: Priest
 summary: >-
   Mercedarian priest. With Blessed Juan Solorzano and Venerable Jorge of Seville, Blessed Juan accompanied Christopher
   Columbus on his second voyage to the Americas, and was the first celebrate Mass in South America.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Juan-Infante.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Juan-Infante.jpg
 region: Spain
 feastDay:
   month: 1

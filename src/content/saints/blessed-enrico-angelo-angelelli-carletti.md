@@ -5,7 +5,7 @@ summary: >-
   Son of Italian immigrants. He entered the seminary of Our Lady of Loreto at age 15, studied in Rome, Italy, and then
   was ordained a priest on 9 October 1949 at Rome for the diocese of Córdoba, Argentina. He served as a parish priest in
   Córdoba, founded youth groups, and ministeri
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Enrico-Angelo-Angelelli-Carletti.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Enrico-Angelo-Angelelli-Carletti.jpg
 birthYear: 1923
 deathYear: 1976
 born: 18 July 1923 in Córdoba, Argentina

@@ -2,7 +2,7 @@
 name: Blessed Francisco Pinazo Peñalver
 honorific: Blessed
 summary: Franciscan priest. Ordered by Druz Muslims to convert to Islam; he refused. One of the Martyrs of Damascus.
-image: http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Damascus.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Damascus.jpg
 birthYear: 1802
 deathYear: 1860
 born: 26 August 1802 in Chopo, Alpuente, Valencia, Spain

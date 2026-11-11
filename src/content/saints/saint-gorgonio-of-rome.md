@@ -2,7 +2,7 @@
 name: Saint Gorgonio of Rome
 honorific: Saint
 summary: Martyr.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Gorgonio-of-Rome.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Gorgonio-of-Rome.jpg
 searchAliases:
   - Gorgonius
 died: Two Laurels cemetery, Via Labicana, Rome, Italy

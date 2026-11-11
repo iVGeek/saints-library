@@ -2,7 +2,7 @@
 name: Blessed Constantino Carbonell Sempere
 honorific: Blessed
 summary: Joined the Jesuits in 1886. Priest. Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Constantino-Carbonell-Sempere.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Constantino-Carbonell-Sempere.jpg
 birthYear: 1866
 deathYear: 1936
 born: 12 April 1866 in Alcoy, Alicante, Spain

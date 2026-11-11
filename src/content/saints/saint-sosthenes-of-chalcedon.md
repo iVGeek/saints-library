@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Executioner assigned to torture Saint Euphemia; her faith and prayers converted him to Christianity. Martyred in the
   persecutions of Diocletian.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Sosthenes-of-Chalcedon.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Sosthenes-of-Chalcedon.jpg
 searchAliases:
   - Sostene
 deathYear: 307

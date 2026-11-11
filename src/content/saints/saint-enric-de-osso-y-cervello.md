@@ -5,7 +5,7 @@ summary: >-
   The youngest of three children born to Jaime and Micaela de Osso y Cervello. Enric felt an early call to the
   priesthood, which his mother supported but his father opposed. At age 12 Enric was sent to Quinto de Ebro to learn the
   textile business from his uncle. There Henry became
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Enric-de-Osso-y-Cervello.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Enric-de-Osso-y-Cervello.jpg
 searchAliases:
   - Enrique
   - Henry

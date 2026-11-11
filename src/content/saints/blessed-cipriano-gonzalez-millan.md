@@ -2,7 +2,7 @@
 name: Blessed Cipriano González Millán
 honorific: Blessed
 summary: Member of the Benedictine Subiaco Congregation. Priest. Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Cipriano-González-Millán.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Cipriano-González-Millán.jpg
 searchAliases:
   - Father Domingo
   - Domènec González i Millán

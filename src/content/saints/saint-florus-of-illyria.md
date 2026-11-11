@@ -2,7 +2,7 @@
 name: Saint Florus of Illyria
 honorific: Saint
 summary: Twin brother of Saint Laurus of Illyria. Stone-cutter who worked to build Christian churches. Martyr.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Florus-of-Illyria.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Florus-of-Illyria.jpg
 searchAliases:
   - Floro
 died: drowned in a well

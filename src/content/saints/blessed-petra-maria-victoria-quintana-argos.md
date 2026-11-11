@@ -5,7 +5,7 @@ summary: >-
   Daughter of Antonio Quintana and Luisa Cuesta de Argos Cabanzón. Joined the Capuchin Tertiary Sisters of the Holy
   Family in 1889, and making her perpetual vows in 1896. Served as novice mistress, superior of several houses, general
   councilor of her Order from 1896 to 1914, Superi
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Petra-María-Victoria-Quintana-Argos.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Petra-María-Victoria-Quintana-Argos.jpg
 searchAliases:
   - Sister Rosario of Soano
 birthYear: 1866

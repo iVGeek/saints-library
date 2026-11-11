@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Dominican priest, professed in the Order on 5 December 1908. Director of the schools in Solsona and Calanda, Spain.
   Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Ramon-Peiró-Victori.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Ramon-Peiró-Victori.jpg
 birthYear: 1891
 deathYear: 1936
 born: 7 March 1891 in Aiguafreda, Vic, Barcelona, Spain

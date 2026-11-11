@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Married to Manius Acilius Glabrio. Mother of Senator Pudens. Supported Saint Peter the Apostle in his work in Rome,
   Italy, her villa near the Roman catacombs serving as Peter's headquarters.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Priscilla-of-Rome.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Priscilla-of-Rome.jpg
 searchAliases:
   - Prisca
 region: Italy

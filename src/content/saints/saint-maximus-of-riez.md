@@ -5,7 +5,7 @@ summary: >-
   Raised in a Christian home, in his youth he began to live as a hermit there. Monk at the monastery founded by Saint
   Honoratius in Lerins, France. Abbot in 426; Saint Sidonius wrote about the revitalization of the monastic life under
   Maximus' leadership. He became known as a mirac
-image: http://catholicsaints.info/wp-content/gallery/pictorial-lives-of-the-saints/saint-maximus-bishop.jpg
+image: https://catholicsaints.info/wp-content/gallery/pictorial-lives-of-the-saints/saint-maximus-bishop.jpg
 deathYear: 460
 born: in Decom, Provence (modern Châteauredon, France)
 died: 460 of natural causes

@@ -5,7 +5,7 @@ summary: >-
   Graduated from the University of Salerno in 1525, and then from the University of Bologna in 1536; the future Pope
   Gregory XIII was one of his teachers. Layman civil and canon lawyer in Naples, Italy for twelve years. Royal
   counsellor to Emperor Charles V in 1549. Auditor general
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Paul-Burali-d’Arezzo.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Paul-Burali-d’Arezzo.jpg
 searchAliases:
   - Paolo Burali d'Arezzo
   - Scipione

@@ -5,7 +5,7 @@ summary: >-
   From an early age, Jane felt drawn to religious life. Her family opposed the vocation, and she obeyed them, living a
   pious, austere life in her parents' home. On their deaths she founded the Our Lady of the People Carmelite priory at
   Reggio, Italy, and served as its first priores
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Jane-Scopelli.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Jane-Scopelli.jpg
 searchAliases:
   - Giovanna Scopelli
   - Jane of Reggio

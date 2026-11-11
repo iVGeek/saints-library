@@ -2,7 +2,7 @@
 name: Blessed Josep Ormo Seró
 honorific: Blessed
 summary: One of the Martyred Claretians of Barbastro killed in the persecutions of the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Josep-Ormo-Seró.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Josep-Ormo-Seró.jpg
 birthYear: 1913
 deathYear: 1936
 born: 18 August 1913 in Almatret, Lleida, Spain

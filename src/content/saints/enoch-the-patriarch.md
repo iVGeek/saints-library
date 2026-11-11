@@ -5,7 +5,7 @@ title: Priest
 summary: >-
   Old Testament Patriarch, a descendant of Seth and ancestor of Noah. He is mentioned by other writers in the Old and
   New Testaments, and an extensive library of legends has grown up around him.
-image: http://catholicsaints.info/wp-content/uploads/img-Enoch-the-Patriarch.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Enoch-the-Patriarch.jpg
 searchAliases:
   - Chanoch
   - Henoch

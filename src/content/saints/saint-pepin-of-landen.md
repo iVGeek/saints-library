@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Duke of Brabant. Married to Saint Ida of Nivelles. Father of Saint Gertrude of Nivelles and Saint Begga of Ardenne.
   Described as “a lover of peace and the constant defender of truth and justice”.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Pepin-of-Landen-1.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Pepin-of-Landen-1.jpg
 searchAliases:
   - Pepin the Elder
   - Pepin I

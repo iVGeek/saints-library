@@ -2,7 +2,7 @@
 name: Blessed Pontius de Clariana
 honorific: Blessed
 summary: Layman knight. One of the early Mercedarians.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Pontius-de-Clariana.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Pontius-de-Clariana.jpg
 died: monastery of San Antonio, Tarragona, Spain
 deathPlace: Tarragona, Spain
 region: Spain

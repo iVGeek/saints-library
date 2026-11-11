@@ -5,7 +5,7 @@ summary: >-
   Officer in the army of emperor Julian the Apostate in the mid-4th century who retired when he decided that military
   service was incompatible with Christianity. For this action he was tortured and sentenced to death, but no one acted
   on the execution order. Friend of Saint Martin
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Victricius-of-Rouen.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Victricius-of-Rouen.jpg
 searchAliases:
   - Vittricio
 deathYear: 407

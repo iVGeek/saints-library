@@ -2,7 +2,7 @@
 name: Blessed Marie-Marguerite de Barbégie d’Albrède
 honorific: Blessed
 summary: Ursuline nun. Martyred in the French Revolution.
-image: http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Orange.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Orange.jpg
 searchAliases:
   - Maria Margherita di S. Sofia de Barbegie d'Albarède
   - Sister Saint Sophia

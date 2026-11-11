@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Joined the Hospitallers of Saint John of God in 1893. Served as superior of his community. Martyred in the Spanish
   Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Nicolás-Aramendía-García.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Nicolás-Aramendía-García.jpg
 searchAliases:
   - Brother Eutimio
 birthYear: 1878

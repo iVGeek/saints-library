@@ -5,7 +5,7 @@ summary: >-
   Lay woman member of the Franciscan Third Order of Saint Peter of Alcantara in the archdiocese of Naples, Italy. Much
   sought after for spiritual direction and for her simple wisdom. She prayed continuously for the triumph of the Church
   and Pope Pius VII during the persecutions of
-image: http://catholicsaints.info/wp-content/uploads/img-Venerable-Maria-Giuseppa-dAmbrosio.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Maria-Giuseppa-dAmbrosio.jpg
 searchAliases:
   - Maria Crocifissa of the Wounds of Our Lord Jesus Christ
   - Maria Crucifixa of the Five Wounds

@@ -2,7 +2,7 @@
 name: Saint Firmina of Amelia
 honorific: Saint
 summary: Maiden martyred in the persecutions of Diocletian.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Firmina-of-Amelia.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Firmina-of-Amelia.jpg
 searchAliases:
   - Fermina
 deathYear: 303

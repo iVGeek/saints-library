@@ -5,7 +5,7 @@ summary: >-
   Born to the nobility. A pious child, her prayers caused her the conversion of her father who had lived a dissolute
   life. After his death, she stayed with her mother Sedulia, and worked for the spiritual growth of her brother
   Eutropius, who became bishop of Troyes, France. She dev
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Maura-of-Troyes.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Maura-of-Troyes.jpg
 birthYear: 827
 deathYear: 850
 born: 827 at Troyes, Champagne, France

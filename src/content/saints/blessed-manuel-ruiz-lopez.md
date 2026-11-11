@@ -2,7 +2,7 @@
 name: Blessed Manuel Ruiz López
 honorific: Blessed
 summary: Franciscan priest. Ordered by Druz Muslims to convert to Islam; he refused. One of the Martyrs of Damascus.
-image: http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Damascus.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Damascus.jpg
 searchAliases:
   - Emmanuel Ruiz
 birthYear: 1804

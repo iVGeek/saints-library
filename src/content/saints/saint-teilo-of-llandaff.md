@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Son of Ensic and Guenhaff; brother of Queen Anaumed of Cornwall. Spiritual student of Saint Dyfrig of Wales. Friend of
   Saint David of Wales and Saint Samson of York. Founded Llandaff monastery in Dyfed, Wales. Bishop of Llandaff in 495.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Teilo-of-Llandaff-1.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Teilo-of-Llandaff-1.jpg
 searchAliases:
   - Dillo
   - Dillon

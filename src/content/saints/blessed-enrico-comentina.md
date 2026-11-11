@@ -5,7 +5,7 @@ summary: >-
   Born to the nobility. Papal auditor. Bishop of Negroponte. Papal legate in Asia Minor where he worked for the union of
   Greek and Latin Churches. Patriarch of Constantinople in 1339. Negotiated an alliance between King Hugh IV of Cyprus
   and the Knights Hospitaler against the Turks
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Enrico-Comentina.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Enrico-Comentina.jpg
 searchAliases:
   - Enrico of Asti
   - Henry…

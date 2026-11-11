@@ -5,7 +5,7 @@ summary: >-
   Born to the wealthy nobility, the daughter of Ermeonoldo and Armensinda, and related to the Pepin family. Ermelinda
   was early drawn to religious life, and when her family arranged a marriage for her, she refused, and left home to seek
   prayer and solitude. She lived as a hermitess
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Ermelinda-of-Meldaert.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Ermelinda-of-Meldaert.jpg
 searchAliases:
   - Ermelinde
   - Ermelindis

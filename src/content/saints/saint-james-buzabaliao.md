@@ -4,7 +4,7 @@ honorific: Venerable
 summary: >-
   Ngeye clan. Son of the royal bark-cloth maker. Soldier under King Mwanga of Uganda. Convert, baptized in 1885. One of
   the Martyrs of Uganda who died in the Mwangan persecutions.
-image: http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Uganda1.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Uganda1.jpg
 searchAliases:
   - Yakobo Buuzabalyawo
   - Jakob Buzabaliawo

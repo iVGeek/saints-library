@@ -5,7 +5,7 @@ summary: >-
   Began studying carpentry in a Salesian school in December 1893 at age 14. Joined the Salesians in 1900 in Callao, the
   Order's first Peruvian member, making his perpetual vows in 1902. Assigned to found a new vocational school in Piura,
   Peru in 1906. Ordained a priest on 27 Januar
-image: http://catholicsaints.info/wp-content/uploads/img-Venerable-Octavio-Ortiz-Arrieta.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Octavio-Ortiz-Arrieta.jpg
 birthYear: 1879
 deathYear: 1958
 born: 19 April 1879 in Lima, Peru

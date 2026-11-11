@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Son of Cleophas and related to Jesus. Second bishop of Jerusalem. Tortured and executed in the persecutions of Trajan.
   Martyr.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Simeon-of-Jerusalem.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Simeon-of-Jerusalem.jpg
 searchAliases:
   - Simeon
   - Simon

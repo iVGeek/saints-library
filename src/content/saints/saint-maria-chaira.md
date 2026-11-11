@@ -5,7 +5,7 @@ summary: >-
   Known as a pretty, high-spirited, intelligent, joyful, energetic and impulsive girl. Her parents encouraged her to a
   more active social life in the hope that she would marry, but she declined, working at home, and living a private vow
   of chastity. At 18 she asked permission to en
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Maria-Chaira.gif
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Maria-Chaira.gif
 searchAliases:
   - Clelia Nanette
 birthYear: 1872

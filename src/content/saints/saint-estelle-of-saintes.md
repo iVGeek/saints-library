@@ -5,7 +5,7 @@ summary: >-
   Descended from a powerful family of Druids, and the daughter of a imperial Roman official. A convert to Christianity,
   baptized by Saint Eutropius of Saintes; when Saint Eutropius was martyred, Estelle saw to his burial. Her father
   ordered Estelle to renounce her new faith; she re
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Estelle-of-Saintes.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Estelle-of-Saintes.jpg
 searchAliases:
   - Eustelle, Stella
 died: beheaded in the mid-3rd century Gaul (modern western France)

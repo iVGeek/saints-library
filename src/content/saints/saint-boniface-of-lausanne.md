@@ -5,7 +5,7 @@ summary: >-
   Educated at the Universities of Paris, France. Cistercian monk at Cambre Abbey near Brussels, Belgium. Noted for his
   learning, he taught at universities in Paris, France from 1222 to 1229, and then in Cologne, Germany from 1229 to
   1231. Bishop of Lausanne, Switzerland in 1231. On
-image: http://catholicsaints.info/wp-content/uploads/Boniface_de_Bruxelles.jpg
+image: https://catholicsaints.info/wp-content/uploads/Boniface_de_Bruxelles.jpg
 searchAliases:
   - Boniface of Brussels
   - Boniface of Losanna

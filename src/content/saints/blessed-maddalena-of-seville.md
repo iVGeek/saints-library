@@ -2,7 +2,7 @@
 name: Blessed Maddalena of Seville
 honorific: Blessed
 summary: Mercedarian nun at the monastery of the Assumption in Seville, Spain.
-image: http://catholicsaints.info/wp-content/uploads/img-Mercedarian-Nuns-of-Seville.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Mercedarian-Nuns-of-Seville.jpg
 region: Spain
 feastDay:
   month: 10

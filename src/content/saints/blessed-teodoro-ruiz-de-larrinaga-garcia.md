@@ -2,7 +2,7 @@
 name: Blessed Teodoro Ruiz de Larrinaga García
 honorific: Blessed
 summary: One of the Martyred Claretians of Barbastro killed in the persecutions of the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Teodoro-Ruiz-de-Larrinaga-García.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Teodoro-Ruiz-de-Larrinaga-García.jpg
 birthYear: 1912
 deathYear: 1936
 born: 9 November 1912 in Bargota, Navarra, Spain

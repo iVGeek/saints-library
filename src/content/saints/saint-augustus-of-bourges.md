@@ -2,7 +2,7 @@
 name: Saint Augustus of Bourges
 honorific: Saint
 summary: Friend of Saint Germanus of Paris. Monk. Abbot of Bourges, France. Discovered the relics of Saint Ursinus.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Augustus-of-Bourges.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Augustus-of-Bourges.jpg
 searchAliases:
   - Augustus of San Sinforiano
   - Augosto of….

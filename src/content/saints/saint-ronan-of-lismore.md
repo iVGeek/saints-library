@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Eighth century bishop of Lismore, Ireland. Several churches in Munster, Ireland are named for him. Confessor of the
   faith.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Ronan-of-Lismore.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Ronan-of-Lismore.jpg
 region: Ireland
 feastDay:
   month: 2

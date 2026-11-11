@@ -5,7 +5,7 @@ summary: >-
   Son of a Senator Justinian of Constantinople. Priest. Bishop of Cyzicus. Attended the Synod of Constantinople in 712,
   and may have briefly agreed to the teaching of the Monothelite heresy supported by the emperor. Patriarch of
   Constantinople in 715. Opposed the Monothelites and t
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Germanus-of-Constantinople-2.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Germanus-of-Constantinople-2.jpg
 searchAliases:
   - Germano
 birthYear: 640

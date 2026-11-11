@@ -5,7 +5,7 @@ summary: >-
   Son of Saint Hilgis. Educated at Ripon, England and in Ireland under Saint Egbert. Missionary to Friesland and
   Luxembourg with Saint Swithbert. Benedictine monk. Founding bishop of Utrecht, Netherlands in 695, ordained by Pope
   Saint Sergius I. Worked with Saint Boniface, Saint Ru
-image: http://catholicsaints.info/wp-content/gallery/saint-willibrord-of-echternach/saint-willibrord-of-echternach-01.jpg
+image: https://catholicsaints.info/wp-content/gallery/saint-willibrord-of-echternach/saint-willibrord-of-echternach-01.jpg
 searchAliases:
   - Clement of Echternach
   - Apostle of the Frisians

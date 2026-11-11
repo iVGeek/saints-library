@@ -2,7 +2,7 @@
 name: Saint Domitius of Phrygia
 honorific: Saint
 summary: Convert to Christianity. Hermit at Nisibis, Mesopotamia. Martyred for challenging Julian the Apostate.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Domitius-of-Phrygia.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Domitius-of-Phrygia.jpg
 searchAliases:
   - Dometius
 deathYear: 362

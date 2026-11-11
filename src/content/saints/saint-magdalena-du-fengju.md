@@ -4,7 +4,7 @@ honorific: Venerable
 summary: >-
   Married lay woman in the apostolic vicariate of Southeastern Zhili, China; mother of Saint Maria Du Tianshi. Martyred
   in the Boxer Rebellion.
-image: http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-China2.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-China2.jpg
 searchAliases:
   - Delian
   - Du Fengju Magdalena

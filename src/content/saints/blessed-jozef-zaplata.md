@@ -5,7 +5,7 @@ summary: >-
   Born to a poor farm family, and never made it past elementary school. Served in the army. Joined the Brothers of the
   Sacred Heart of Jesus in 1927, making his first profession on 8 September 1928 and his solemn vows on 10 March 1938 in
   Poznan, Poland. Served in the office of the
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Józef-Zaplata.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Józef-Zaplata.jpg
 searchAliases:
   - prisoner P22099
 birthYear: 1904

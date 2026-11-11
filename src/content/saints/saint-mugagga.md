@@ -4,7 +4,7 @@ honorific: Venerable
 summary: >-
   Ngo clan. Raised and educated by the royal clothmaker of Uganda. Convert. One of the Martyrs of Uganda who died in the
   Mwangan persecutions.
-image: http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Uganda1.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Uganda1.jpg
 searchAliases:
   - Mgagga
 deathYear: 1886

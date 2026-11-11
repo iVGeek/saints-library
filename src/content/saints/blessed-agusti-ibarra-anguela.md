@@ -2,7 +2,7 @@
 name: Blessed Agustì Ibarra Angüela
 honorific: Blessed
 summary: Priest in the archdiocese of Tarragona, Spain. Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Agustì-Ibarra-Angüela.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Agustì-Ibarra-Angüela.jpg
 birthYear: 1911
 deathYear: 1936
 born: 2 March 1911 in Alió, Tarragona, Spain

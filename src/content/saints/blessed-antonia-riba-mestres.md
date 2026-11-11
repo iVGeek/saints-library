@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Student at a Piarist school. Joined the Sisters of the Pious Schools in 1918. Taught at Zaragoza and Valencia, Spain.
   Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Piarist-Martyrs.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Piarist-Martyrs.jpg
 searchAliases:
   - Sister Climenta of Saint John the Baptist
 birthYear: 1893

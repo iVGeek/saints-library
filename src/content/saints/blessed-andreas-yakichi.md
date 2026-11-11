@@ -2,7 +2,7 @@
 name: Blessed Andreas Yakichi
 honorific: Blessed
 summary: Son of Blessed Lucia Yakichi and Blessed Ludovicus Yakichi; brother of Blessed Franciscus Yakichi. Martyr.
-image: http://catholicsaints.info/wp-content/uploads/img-Martyred-Yakichi-Family.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Martyred-Yakichi-Family.jpg
 birthYear: 1615
 deathYear: 1622
 born: 1615 in Nagasaki, Japan

@@ -2,7 +2,7 @@
 name: Saint Agatha Yi Kan-Nan
 honorific: Venerable
 summary: Married lay woman. Widow. One of the Martyrs of Korea.
-image: http://catholicsaints.info/wp-content/uploads/img-Maryrs-of-Korea.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Maryrs-of-Korea.jpg
 searchAliases:
   - Agata Yi Gan-Nan
 birthYear: 1814

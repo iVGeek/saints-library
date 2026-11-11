@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Layman in the archdiocese of Nagasaki, Japan. Member of the Confraternity of the Rosary. Martyred in the persecution
   of the Tokugawa Shogunate as part of the Great Genna Martyrdom.
-image: http://catholicsaints.info/wp-content/uploads/img-Great-Genna-Martyrdom.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Great-Genna-Martyrdom.jpg
 birthYear: 1603
 deathYear: 1622
 born: 1603 in Omura, Nagasaki,

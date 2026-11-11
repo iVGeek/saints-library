@@ -5,7 +5,7 @@ summary: >-
   Daughter of a Paduan nun who had been seduced into ignoring her vow of chastity; Lucrezia grew up in the convent. She
   felt a call to the religious life, which many of the sisters of opposed due to the scandal of her birth. The bishop
   approved of her vocation, however, and she ent
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Eustochium-of-Padua.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Eustochium-of-Padua.jpg
 searchAliases:
   - Lucrezia Bellini
   - Cinderella of the Cloister

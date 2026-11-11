@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Son of the king of Domnonia, Brittany (in modern France). Brother of Saint Joducus. Well-loved king of Domnonia.
   Abdicated to become a monk, living his last 20 years in a monastery of Gael in Vannes, France.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Judicaël-1.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Judicaël-1.jpg
 searchAliases:
   - Gaël
   - Gaëlle

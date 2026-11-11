@@ -2,7 +2,7 @@
 name: Blessed Jeanne-Marie de Romillon
 honorific: Blessed
 summary: Ursuline nun. Martyred in the French Revolution.
-image: http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Orange.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Orange.jpg
 searchAliases:
   - Giovanna Maria di S. Bernardo de Romillon
   - Sister Saint Bernard

@@ -5,7 +5,7 @@ summary: >-
   Studied theology under Blessed Giuseppe Allamano and Blessed Luigi Boccardo. Ordained a priest in the archdiocese of
   Turin, Italy on 29 June 1903. Parish priest in Carmagnola, Italy and then in Turin. Chosen auxiliary bishop of Turin
   and titular bishop of Eduoxias on 24 January 1
-image: http://catholicsaints.info/wp-content/uploads/img-Venerable-Giovanni-Battista-Pinardi.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Giovanni-Battista-Pinardi.jpg
 birthYear: 1880
 deathYear: 1962
 born: 15 August 1880 in Castagnole Piemonte, Turin, Italy

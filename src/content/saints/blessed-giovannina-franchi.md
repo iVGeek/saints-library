@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Born to a wealthy family, she grew up wanting and working to help the poor. Nun in the diocese of Como, Italy. Founded
   the Nursing Sisters of Our Lady of Sorrows.
-image: http://catholicsaints.info/wp-content/uploads/img-Giovannina-Franchi.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Giovannina-Franchi.jpg
 birthYear: 1807
 deathYear: 1872
 born: 24 June 1807 in Como, Italy

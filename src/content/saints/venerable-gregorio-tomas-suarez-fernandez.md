@@ -5,7 +5,7 @@ summary: >-
   Tenth of eleven children born to the peasant family of Pedro and Petra Suárez Fernández. He joined the Augustinians in
   Valladolid, Spain in 1930. He studied in Valladolid, in Zaragoza, Spain and in Rome, Italy, where he was considered a
   brilliant student. Ordained a priest on 15
-image: http://catholicsaints.info/wp-content/uploads/img-Venerable-Gregorio-Tomás-Suárez-Fernández.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Gregorio-Tomás-Suárez-Fernández.jpg
 searchAliases:
   - Gregorio Suárez
 birthYear: 1915

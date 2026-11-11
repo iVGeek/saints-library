@@ -2,7 +2,7 @@
 name: Saint Hypatius of Tripoli
 honorific: Saint
 summary: Soldier. Convert, brought to the faith by Saint Leontius of Tripoli. Martyr.
-image: http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Tripoli.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Tripoli.jpg
 searchAliases:
   - Ipazio
 deathYear: 135

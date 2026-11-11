@@ -5,7 +5,7 @@ summary: >-
   Born a princess, the oldest daughter of King Sancho I. Married to King Alfonso IX of Leon, Spain; northern Portugal
   formed part of her dowry. Mother of three children. Several years into the marriage it was dissolved by the Vatican
   upon the revelation that Theresa and Alfonso wer
-image: http://catholicsaints.info/wp-content/uploads/Teresa_de_Portugal.jpg
+image: https://catholicsaints.info/wp-content/uploads/Teresa_de_Portugal.jpg
 searchAliases:
   - Tarasia
   - Teresa

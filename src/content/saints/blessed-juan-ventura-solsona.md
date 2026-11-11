@@ -2,7 +2,7 @@
 name: Blessed Juan Ventura Solsona
 honorific: Blessed
 summary: Priest in the archdiocese of Valencia, Spain. Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Juan-Ventura-Solsona.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Juan-Ventura-Solsona.jpg
 birthYear: 1875
 deathYear: 1936
 born: 1875 in Villahermosa del Río, Castellón, Spain

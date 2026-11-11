@@ -2,7 +2,7 @@
 name: Saint Florentinus of Trier
 honorific: Saint
 summary: Fourth-century bishop of Trier, Germany.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Florentinus-of-Trier.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Florentinus-of-Trier.jpg
 searchAliases:
   - Florentinus of Treve
   - Florentius of….

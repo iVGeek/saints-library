@@ -5,7 +5,7 @@ summary: >-
   Lay woman in the archdiocese of Poznan, Poland. School teacher in Poznan. Very active in her parish. Arrested,
   tortured, held to public ridicule, deported, imprisoned, and sentenced to forced labor during the Nazi occupation of
   Poland and persecution of Christians in World War II
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Natalia-Tulasiewicz.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Natalia-Tulasiewicz.jpg
 birthYear: 1906
 deathYear: 1945
 born: 9 April 1906 in Rzeszów, Podkarpackie, Poland

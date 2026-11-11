@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Claretian co-adjustor brother. One of the Martyred Claretians of Barbastro killed in the persecutions of the Spanish
   Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Manuel-Buil-Lalueza.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Manuel-Buil-Lalueza.jpg
 birthYear: 1914
 deathYear: 1936
 born: 31 August 1914 in Abizanda, Huesca, Spain

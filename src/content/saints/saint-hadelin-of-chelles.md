@@ -5,7 +5,7 @@ summary: >-
   Born to the nobility. Benedictine monk. Spiritual student of Saint Remaclus. Worked with Remaclus at Solignac, at
   Maastricht, Netherlands, and at Stavelot, Belgium. Priest, ordained at  by Saint Remaclus. With the assistance of
   Remaclus and Pepin of Heristal, he founded the Chell
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Hadelin-of-Chelles.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Hadelin-of-Chelles.jpg
 searchAliases:
   - Hadelin of Dinant
   - Adelino

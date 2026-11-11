@@ -5,7 +5,7 @@ summary: >-
   Baptized at the age of two days, and Confirmed on 18 March 1907 at the parish of Saint Andrew the Apostle.
   Well-educated lifelong lay woman in the archdiocese of Valencia, Spain who spent years caring for her parents. Member
   of Catholic Action. Attended daily Mass. Had a deep dev
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-María-Luisa-Montesinos-Orduña.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-María-Luisa-Montesinos-Orduña.jpg
 birthYear: 1901
 deathYear: 1937
 born: 3 May 1901 in Valencia, Spain

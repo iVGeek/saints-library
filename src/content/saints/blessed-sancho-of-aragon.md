@@ -5,7 +5,7 @@ summary: >-
   Born a prince, the fourth son of Blessed James I, King of Aragon. Turning from worldly ways, he joined the
   Mercedarians, receiving the habit from Saint Peter Nolasco. Archbishop of Toledo, Spain. Saracens cut off his hand
   with the ring of his office, and then martyred him for not
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Sancho-of-Aragon.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Sancho-of-Aragon.jpg
 birthYear: 1238
 deathYear: 1275
 born: '1238'

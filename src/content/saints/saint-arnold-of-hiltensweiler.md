@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Married, lifelong layman. Soldier. Knight who fought in the First Crusade. Founded a monastery at Langnan, Germany
   c.1122.
-image: http://catholicsaints.info/wp-content/gallery/saint-arnold-of-hiltensweiler/saint-arnold-of-hiltensweiler.jpg
+image: https://catholicsaints.info/wp-content/gallery/saint-arnold-of-hiltensweiler/saint-arnold-of-hiltensweiler.jpg
 searchAliases:
   - Arnold von Hiltensweiler
 deathYear: 1127

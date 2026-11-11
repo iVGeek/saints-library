@@ -5,7 +5,7 @@ summary: >-
   Eldest of eight children, the son of Eugenio, an accountant, and Domenica Malaguzzi, a teacher. Nephew and god-son of
   Blessed Giuseppe Tovini. Attended elementary school in Breno, Italy, and was a good student. Moved in with Blessed
   Giuseppe in Brescia, Italy at age nine to conti
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Mose-Tovini.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Mose-Tovini.jpg
 searchAliases:
   - Moses Tovini
 birthYear: 1877

@@ -2,7 +2,7 @@
 name: Blessed Guillaume Répin
 honorific: Blessed
 summary: Priest in the diocese of Angers, France. Martyred in the persecutions of the French Revolution.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Guillaume-Répin.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Guillaume-Répin.jpg
 searchAliases:
   - Vilhelm Répin
   - William Répin

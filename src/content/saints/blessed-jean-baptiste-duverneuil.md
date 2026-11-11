@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Priest. Member of the Discalced Carmelites. Martyred in the French Revolution. One of the Martyrs of the Hulks of
   Rochefort.
-image: http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-the-Hulks-of-Rochefort-1-July.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-the-Hulks-of-Rochefort-1-July.jpg
 searchAliases:
   - Léonard
   - Giovan Battista Duverneuil

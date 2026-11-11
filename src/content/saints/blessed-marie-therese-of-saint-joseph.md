@@ -5,7 +5,7 @@ summary: >-
   Daughter of a Lutheran Superintendent. Convert to Catholicism, joining the Church on 30 October 1888. Nun, taking the
   name Maria Theresia of Saint Joseph. In 1891 she founded a home of neglected children in Berlin, Germany. The young
   women that helped there formed Congregation of
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Marie-Therese-of-Saint-Joseph.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Marie-Therese-of-Saint-Joseph.jpg
 searchAliases:
   - Anna Maria Tauscher van den Bosch
   - Maria Theresia of Saint Joseph

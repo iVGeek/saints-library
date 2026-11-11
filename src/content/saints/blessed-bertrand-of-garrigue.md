@@ -5,7 +5,7 @@ summary: >-
   Priest. Worked with the Cistercians. Noted preacher. Fought Albigensianism. Worked with Saint Dominic de Guzman, and
   became his close friend and travelling companion. Joined the Dominicans in 1216 and helped them survive and thrive in
   their early years. Governed the first Dominic
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Bertrand-of-Garrigue.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Bertrand-of-Garrigue.jpg
 searchAliases:
   - Bertrand of Garrigua
   - The Second Dominic

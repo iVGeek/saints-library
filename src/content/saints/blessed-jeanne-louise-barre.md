@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Ursuline nun. One of a group of religious sisters murdered together in the anti-Christian excesses of the French
   Revolution.
-image: http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Valenciennes.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Valenciennes.jpg
 searchAliases:
   - Sister Cordula
   - Marie-Cordule-Joseph of Saint Dominic

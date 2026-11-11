@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Son of Saint Elibouban. Sixth century exile who fled from Britain to Brittany to escape invading Anglo-Saxons. Hermit
   at Tréguier, France. Helped bring Prince Alwand to Christianity.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Goneri-of-Tréguier.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Goneri-of-Tréguier.jpg
 searchAliases:
   - Gonéri of Brittany
   - Gonéri of Plougrescant

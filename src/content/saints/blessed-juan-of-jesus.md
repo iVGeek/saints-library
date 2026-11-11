@@ -2,7 +2,7 @@
 name: Blessed Juan of Jesus
 honorific: Blessed
 summary: Mercedarian friar at the convent of Saint Eulalia in Seville, Spain.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Juan-de-Jesus.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Juan-de-Jesus.jpg
 region: Spain
 feastDay:
   month: 6

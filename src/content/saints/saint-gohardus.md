@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Bishop of Nantes, France Murdered by Norman raiders while celebrating Mass with a large group of monks and priests.
   Martyr.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Gohardus-of-Nantes.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Gohardus-of-Nantes.jpg
 searchAliases:
   - Gohard
   - Gunardo

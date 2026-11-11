@@ -5,7 +5,7 @@ summary: >-
   Assessor of the Areopagus in Athens, Greece. Converted from paganism to Christianity by Saint Paul the Apostle (Acts
   17:34). Married to Saint Athens. Early writers say he became the first bishop of Athens, and was martyred. Later
   writers confused his story with that of Denis of F
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Dionysius-the-Aeropagite.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Dionysius-the-Aeropagite.jpg
 searchAliases:
   - Dionysius of Athens
   - Denis…

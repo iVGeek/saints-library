@@ -2,7 +2,7 @@
 name: Blessed Raimundo Joaquín Castaño González
 honorific: Blessed
 summary: Dominican priest. Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Raimundo-Joaquín-Castaño-González.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Raimundo-Joaquín-Castaño-González.jpg
 birthYear: 1877
 deathYear: 1936
 born: 15 January 1877 in Santibáñez de Murias, Asturias, Spain

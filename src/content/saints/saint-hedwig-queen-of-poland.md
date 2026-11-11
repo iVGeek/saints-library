@@ -5,7 +5,7 @@ summary: >-
   Youngest daughter of King Louis I of Hungary. Because she was great-niece to King Casimir III of Poland, she became
   Queen of Poland in 1382 upon her father's death. She was engaged to William, Duke of Austria, whom she loved, but
   broke off the relationship in order to marry Jagie
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Hedwig-Queen-of-Poland.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Hedwig-Queen-of-Poland.jpg
 searchAliases:
   - Hedwig of Anjou
   - Hedwig Andegawenska

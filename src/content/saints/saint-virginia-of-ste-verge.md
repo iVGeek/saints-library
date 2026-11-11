@@ -3,7 +3,7 @@ name: Saint Virginia of Ste-Verge
 honorific: Saint
 title: Virgin
 summary: Shepherdess in the area of Poitou, France.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Virginia-of-Ste-Verge.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Virginia-of-Ste-Verge.jpg
 searchAliases:
   - Virginia of Poitiers
   - Virginia of Thonars

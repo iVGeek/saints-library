@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Priest. Disciple of Saint Norbert, and succeeded him as superior general of the Premonstratensians. Under his
   leadership the Order grew to 120 houses.
-image: http://catholicsaints.info/wp-content/uploads/Hugh-of-Fosse.jpg
+image: https://catholicsaints.info/wp-content/uploads/Hugh-of-Fosse.jpg
 searchAliases:
   - Hugues
 deathYear: 1164

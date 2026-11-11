@@ -5,7 +5,7 @@ summary: >-
   Married layman in the diocese of Kraków, Poland. Civil engineer. Father of three. Teacher at the Cracow University of
   Technology and the University of Chartumski. Loved handball, basketball, rowing, canoeing and camping. Friend of Karol
   Wojtyla, the future Pope John Paul II.
-image: http://catholicsaints.info/wp-content/uploads/img-Venerable-Jerzy-Ciesielski.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Jerzy-Ciesielski.jpg
 birthYear: 1929
 deathYear: 1970
 born: 12 February 1929 in Kraków, Poland

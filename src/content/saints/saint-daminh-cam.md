@@ -5,7 +5,7 @@ summary: >-
   Priest in the apostolic vicariate of Tonkin (in modern Vietnam). Member of the Fraternity of Dominican Priests. Worked
   in secret for years during the persecutions of emperor Tu-Duc, ministering to covert Catholics before he was captured.
   Imprisoned for years, repeatedly tortured
-image: http://catholicsaints.info/wp-content/gallery/martyrs-of-vietnam/martyrs-of-vietnam-01.jpg
+image: https://catholicsaints.info/wp-content/gallery/martyrs-of-vietnam/martyrs-of-vietnam-01.jpg
 searchAliases:
   - Domenic Cam
 deathYear: 1859

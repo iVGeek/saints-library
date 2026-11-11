@@ -2,7 +2,7 @@
 name: Blessed Susanna Gang Gyeong-bok
 honorific: Blessed
 summary: Layman martyr in the apostolic vicariate of Korea.
-image: http://catholicsaints.info/wp-content/uploads/img-Maryrs-of-Korea.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Maryrs-of-Korea.jpg
 birthYear: 1762
 deathYear: 1801
 born: '1762'

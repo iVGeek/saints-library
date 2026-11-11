@@ -2,7 +2,7 @@
 name: Blessed Chiara de Ugarte
 honorific: Blessed
 summary: Mercedarian nun in the monastery of Jesus and Mary to Orozco, Spain.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Chiara-de-Ugarte.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Chiara-de-Ugarte.jpg
 region: Spain
 feastDay:
   month: 1

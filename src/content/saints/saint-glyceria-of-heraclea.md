@@ -1,7 +1,7 @@
 ---
 name: Saint Glyceria of Heraclea
 honorific: Saint
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Glyceria-of-Heraclea.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Glyceria-of-Heraclea.jpg
 searchAliases:
   - Gliceria
 died: Heraclea, Thrace

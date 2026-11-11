@@ -5,7 +5,7 @@ summary: >-
   Born to the nobility, his father was a royal advisor and treasury official. Studied in the French cities of Ligny and
   Paris, then the seminaries of San Luis and then San Sulpice. Ordained a priest in 1756. Earned his doctorate in 1760
   at the college of Navarra. Canon and vicar-ge
-image: http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-the-Hulks-of-Rochefort.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-the-Hulks-of-Rochefort.jpg
 searchAliases:
   - Scipione Gerolamo Brigeat de Lambert
 birthYear: 1733

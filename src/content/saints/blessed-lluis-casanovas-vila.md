@@ -2,7 +2,7 @@
 name: Blessed Lluis Casanovas Vila
 honorific: Blessed
 summary: Member of the Benedictine Subiaco Congregation. Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Lluis-Casanovas-Vila.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Lluis-Casanovas-Vila.jpg
 searchAliases:
   - Brother Hildebrand Maria
 birthYear: 1918

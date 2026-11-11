@@ -5,7 +5,7 @@ summary: >-
   Born a prince, son of Bela I, King of Hungary. King of Hungary in 1077. Annexed Dalmatia and Croatia to greater
   Hungary. He expelled the Huns, Poles, Tatars, and Russians from his lands, and made Christianity the national
   religion. Known for his enlightened government, his devoti
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Ladislaus-I-of-Hungary.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Ladislaus-I-of-Hungary.jpg
 searchAliases:
   - Ladislao
   - Ladislaus

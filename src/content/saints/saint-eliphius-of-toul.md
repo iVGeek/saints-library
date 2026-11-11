@@ -2,7 +2,7 @@
 name: Saint Eliphius of Toul
 honorific: Saint
 summary: Martyred in the persecutions of Julian the Apostate.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Eliphius-of-Toul.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Eliphius-of-Toul.jpg
 searchAliases:
   - Elifio
   - Eloff

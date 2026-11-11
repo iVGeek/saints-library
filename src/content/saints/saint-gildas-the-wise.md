@@ -5,7 +5,7 @@ summary: >-
   Born to the English nobility. As a child, he was placed under the care of a nearby monastery where he was trained by
   Saint Illtyd. Friend of Saint Samson of York and Saint Peter Aurelian. Teacher of Saint Finnian of Clonard, Saint
   Kenneth of Wales, and Blessed Bieuzy of Brittany.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Gildas-the-Wise.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Gildas-the-Wise.jpg
 searchAliases:
   - Badonicus
   - Gildas di Rhuys

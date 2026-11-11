@@ -5,7 +5,7 @@ summary: >-
   Born to the wealthy German nobility, she had a twin brother, Max, and pious parents, Klemens Heidenreich Franz
   Hubertus Eusebius Maria, the count Droste zu Vischering, and Helene Clementine Maria Anna Sybille Huberta Antonia, the
   countess of Galen, who were loyal to the Church du
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Maria-Droste-zu-Vischering.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Maria-Droste-zu-Vischering.jpg
 searchAliases:
   - Countess Droste zu Vischering
   - Maria Anna Johanna Franziska Theresia Antonia Huberta Droste zu Vischering

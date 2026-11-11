@@ -5,7 +5,7 @@ summary: >-
   Member of the Canons Regular of Saint Augustine. Priest. Canon at the Segeberg Abbey in Holstein, Germany. Missionary
   to the Slavs in the latter 12th century, he worked to convert pagan Semigallians, Latgalians, and Livonians. He
   settled in the area of modern Riga, Latvia in 1184
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Meinards.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Meinards.jpg
 searchAliases:
   - Meinards
   - Meinhard

@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Royal cup-bearer in his youth. Monk at Fontenelle under Saint Lambert. Priest. With twelve brother monks, he
   established an abbey on an island at Aindre on the Loire, and served as its first abbot.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Hermeland.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Hermeland.jpg
 searchAliases:
   - Erblon
   - Ermelando

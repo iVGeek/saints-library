@@ -3,7 +3,7 @@ name: Saint Equizio of Telese
 honorific: Saint
 title: Deacon
 summary: Deacon to Saint Palerio of Telese.
-image: http://catholicsaints.info/wp-content/uploads/img-Sant-Equizio-of-Telese.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Sant-Equizio-of-Telese.jpg
 searchAliases:
   - Equizio the Deacon
 died: buried in the church of San Palerio at an unknown point

@@ -5,7 +5,7 @@ summary: >-
   The fourth of seven sons born to pious farm family during a time of oppression of Irish Catholics by the English. He
   became wealthy working with his uncle's shipping business. He married Mary Elliott in 1787, was the father of one
   daughter, and became a widower in 1789. In his se
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Edmund-Rice.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Edmund-Rice.jpg
 searchAliases:
   - Ignatius Rice
   - Edmund Ignatius Rice

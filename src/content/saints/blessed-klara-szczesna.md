@@ -5,7 +5,7 @@ summary: >-
   Sixth of seven children of Anthony and Frances, née Skorupska; baptized in the parish church in Lubowidzu, Poland, and
   educated at home by her mother who died when the girl as 12. Pressured by her father to get married, at age 17 she
   left home with desire to devote herself to God
-image: http://catholicsaints.info/wp-content/uploads/img-Venerable-Klara-Szczesna.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Klara-Szczesna.jpg
 searchAliases:
   - Sister Ludwika
 birthYear: 1863

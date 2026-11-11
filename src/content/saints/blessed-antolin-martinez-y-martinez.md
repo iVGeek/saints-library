@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Joined the Salesians on 29 September 1928 in Bujedo, Spain, making his profession on 1 February 1931. Taught in Santa
   Cruz de Mudela beginning in 1934. Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Antolín-Martínez-y-Martínez.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Antolín-Martínez-y-Martínez.jpg
 searchAliases:
   - Brother Dámaso Luis
 birthYear: 1915

@@ -5,7 +5,7 @@ summary: >-
   While a seminarian, Joseph was drafted into the army at age 16. Soldier from 1788 to 1792, serving as drum-major and
   quartermaster. He left the army to join the Congregation of the Most Holy Redeemer in Warsaw, Poland. Student of Saint
   Clement Marie Hofbauer. Vicar-general over a
-image: http://catholicsaints.info/wp-content/uploads/img-Venerable-Joseph-Amand-Passerat.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Joseph-Amand-Passerat.jpg
 searchAliases:
   - the Great Pray-er
 birthYear: 1772

@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Brother in the Salesians of Don Bosco, making his solemn profession on 26 July 1916. Martyred in the Spanish Civil
   War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Mateu-Garrolera-Masferrer.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Mateu-Garrolera-Masferrer.jpg
 birthYear: 1888
 deathYear: 1936
 born: 11 November 1888 in San Miguel de Oladella, Girona, Spain

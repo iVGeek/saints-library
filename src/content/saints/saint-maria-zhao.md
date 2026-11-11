@@ -5,7 +5,7 @@ summary: >-
   Teenaged lay woman in the apostolic vicariate of Southeastern Zhili, China. Daughter of Saint Maria Zhao Guoshi;
   sister of Saint Rosa Zhao. During the persecutions of the Boxer Rebellion, the three of them hid in a well to avoid
   being raped. They were found, dragged out, and kill
-image: http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-China1.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-China1.jpg
 searchAliases:
   - Mali
 birthYear: 1883

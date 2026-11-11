@@ -2,7 +2,7 @@
 name: Blessed Vicente Vilumbrales Fuente
 honorific: Blessed
 summary: Vincentian priest. Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Vicente-Vilumbrales-Fuente.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Vicente-Vilumbrales-Fuente.jpg
 birthYear: 1909
 deathYear: 1936
 born: 5 April 1909 in Reinoso de Bureba, Burgos, Spain

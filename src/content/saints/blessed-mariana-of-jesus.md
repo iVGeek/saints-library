@@ -5,7 +5,7 @@ summary: >-
   Known as a pious youth. At age 23 she turned down a marriage proposal and instead became a Discalced Mercedarian nun
   at Madrid, Spain. Noted for her life of penance, devotion to the Eucharist, and intense prayer life. Ordered by her
   superiors to write her spiritual biography.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Mariana-of-Jesus.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Mariana-of-Jesus.jpg
 searchAliases:
   - Lily of Madrid
   - Mariana Navarra de Guevara

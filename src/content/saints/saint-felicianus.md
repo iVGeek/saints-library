@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Brother of Saint Primus. With his brother he was tortured and martyred in the persecutions of Diocletian. The two were
   the first martyrs whose remains were transferred from a basilica outside the walls of Rome, Italy.
-image: http://catholicsaints.info/wp-content/uploads/Felicianus-and-Primus.jpg
+image: https://catholicsaints.info/wp-content/uploads/Felicianus-and-Primus.jpg
 searchAliases:
   - Felician
   - Feliciano

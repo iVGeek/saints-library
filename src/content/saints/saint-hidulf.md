@@ -5,7 +5,7 @@ summary: >-
   Benedictine monk at the monastery of Maximinus in Trier, Germany. Bishop. Founded the monastery of Moyenmourier in
   eastern France where retired in 676 to live as a monk. He eventually served as abbot of the house, and then of the
   monastery of Bonmoutier.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Hidulf.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Hidulf.jpg
 searchAliases:
   - Hidulphus
   - Hildulph

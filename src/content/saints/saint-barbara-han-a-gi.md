@@ -2,7 +2,7 @@
 name: Saint Barbara Han A-Gi
 honorific: Venerable
 summary: Married lay woman in the apostolic vicariate of Korea. One of the Martyrs of Korea.
-image: http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Korea.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Korea.jpg
 searchAliases:
   - Bareubara Han A-Gi
 birthYear: 1792

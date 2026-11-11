@@ -5,7 +5,7 @@ summary: >-
   The son of Antonio and Concetta Braghó Mottola; his mother committed suicide in 1913 when the Francesco was only 12.
   He studied in Tropea and Catanzaro, Italy, and was ordained a priest of the diocese of Tropea, Italy on 5 April 1924;
   as a seminarian, he was known for devotion to
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Francesco-Mottola.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Francesco-Mottola.jpg
 birthYear: 1901
 deathYear: 1969
 born: 3 January 1901 in Tropea, Vibo Valentia, Italy

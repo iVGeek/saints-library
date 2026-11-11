@@ -2,7 +2,7 @@
 name: Blessed José Vicente Hormaechea Apoita
 honorific: Blessed
 summary: Trinitarian priest. Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-José-Vicente-Hormaechea-Apoita.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-José-Vicente-Hormaechea-Apoita.jpg
 searchAliases:
   - Father José of Jesus Mary
 birthYear: 1880

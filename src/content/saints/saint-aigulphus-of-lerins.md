@@ -5,7 +5,7 @@ summary: >-
   Benedictine monk at Fleury, France at age 20. Sent to Monte Cassino Abbey to obtain relics of Saint Benedict of
   Nursia. Abbot of the Abbey of Lérins c.670, instituting the Benedictine Rule there. Kidnapped and murdered with four
   of his brother monks by a group of men who objected
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Aigulphus-of-Lérins.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Aigulphus-of-Lérins.jpg
 searchAliases:
   - Aigulphus of Fleury
   - Aigulf…

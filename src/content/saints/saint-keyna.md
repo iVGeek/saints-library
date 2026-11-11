@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Daughter of Saint Brychan of Brycheiniog. Fifth century anchoress in Cornwall, England where a church is dedicated to
   her. The town of a href=”patrons-of-keynsham-england”>Keynsham, Somerset, England may have been named for her.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Keyna.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Keyna.jpg
 searchAliases:
   - Cain
   - Ceinwan

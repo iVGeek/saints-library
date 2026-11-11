@@ -5,7 +5,7 @@ summary: >-
   Eleventh century Countess of Süchteln in the area of Cologne, Germany, the daughter of the Earl of Aspel. Known for
   her personal piety, her charity, as a miracle worker, and for dedicating her whole fortune to the construction of
   churches. Returning from pilgrimage to Rome, Italy
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Irmgard.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Irmgard.jpg
 searchAliases:
   - Irmgarda
   - Irmengarda

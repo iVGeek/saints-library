@@ -2,7 +2,7 @@
 name: Saint Sosius of Misenum
 honorific: Saint
 summary: Deacon of the church of Miseno, Italy. Imprisoned and martyred in the persecutions of Diocletian.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Sossio-of-Misenum.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Sossio-of-Misenum.jpg
 searchAliases:
   - Sosius of Miseno
   - Sosius of Puzzuoli

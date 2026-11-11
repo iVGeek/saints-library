@@ -5,7 +5,7 @@ summary: >-
   Trappist monk at Sept-Fons abbey. When it was suppressed in September 1791 by the anti-Christian forces of the French
   Revolution, he and his brother monks re-located to the abandoned Capuchin convent in Montluçon, France. In February
   1793 the government suppressed that house and
-image: http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-the-Hulks-of-Rochefort.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-the-Hulks-of-Rochefort.jpg
 searchAliases:
   - Elia
   - Élie

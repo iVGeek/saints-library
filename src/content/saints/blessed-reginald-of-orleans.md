@@ -5,7 +5,7 @@ summary: >-
   Priest. Professor of canon law at the Sorbonne in Paris, France. Dean of the collegiate church of Saint-Agnan in
   Orléans, France. While on pilgrimage in Rome, Italy in 1218, the future Pope Gregory IX introduced him to Saint
   Dominic de Guzman. Reginald was moved by Dominic's prea
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Reginald-of-Orleans.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Reginald-of-Orleans.jpg
 searchAliases:
   - Réginald de Saint-Gilles
   - Reginaldo…

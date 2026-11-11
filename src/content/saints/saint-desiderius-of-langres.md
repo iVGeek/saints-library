@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Bishop of Langres, France. Supported the Acts of the Council of Serdica in 343. Killed by Vandal invaders while trying
   to negotiate with them for the people in his diocese. Martyr with many of his flock.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Desiderius-of-Langres.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Desiderius-of-Langres.jpg
 searchAliases:
   - Desiderius of Genoa
   - Desiderius of Vienne

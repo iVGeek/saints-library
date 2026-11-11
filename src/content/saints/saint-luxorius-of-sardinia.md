@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Christian soldier in the imperial Roman army. Comforted Saint Cisellus and Saint Camerinus after the boys had been
   sentenced to death. Martyred in the persecutions of Diocletian.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Luxorius-of-Sardinia.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Luxorius-of-Sardinia.jpg
 searchAliases:
   - Lussurio
   - Luxurius

@@ -5,7 +5,7 @@ summary: >-
   Noted soldier and military leader under Emperor Constantine the Great. Imperial prefect (viceroy) of Egypt and Duke of
   Alexandria, appointed by Emperor Constantius; he used his position to spread the faith. During the reign of Julian the
   Apostate, Artemius became a fanatical Aria
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Artemius-Megalomartyr.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Artemius-Megalomartyr.jpg
 searchAliases:
   - Artemios of Antioch
   - Artemois the Greatmartyr

@@ -5,7 +5,7 @@ summary: >-
   Entered the Society of Foreign Missions of Paris seminary in 1774, and ordained on 17 September. Missionary to
   Szechuan, China in 1775. Imprisoned for six months in 1784 during a government persecution of Christians. He was
   re-assigned to Macao, but return to the Chinese missions
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Jean-Gabriel-Taurin-Dufresse.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Jean-Gabriel-Taurin-Dufresse.jpg
 birthYear: 1750
 deathYear: 1815
 born: 8 December 1750 at Ville-de-Lezoux, diocese of Clermont, Puy-de-Dôme, France

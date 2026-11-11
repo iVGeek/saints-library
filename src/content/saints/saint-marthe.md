@@ -6,7 +6,7 @@ summary: >-
   Married to a man named John from Edessa; she had previously made a private vow of virginity but received a revelation
   that she should agree to the arranged marriage. Mother of Saint Simeon Stylites the Younger. Widowed when Simeon was
   very young, she devoted herself to his Christ
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Marthe.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Marthe.jpg
 searchAliases:
   - Martha
   - Marta

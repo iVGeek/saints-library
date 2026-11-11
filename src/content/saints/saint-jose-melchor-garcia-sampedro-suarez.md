@@ -5,7 +5,7 @@ summary: >-
   Studied theology at the University of Oviedo. Dominican priest, ordained on 29 May 1847 at the Ocana monastery.
   Missionary to Vietnam beginning in 1849. Co-adjutor vicar apostolic of Central Tonkin (in modern Vietnam) on 15 April
   1853. Imprisoned, tortured and finally executed as
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-José-Melchór-García-Sampedro-Suárez.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-José-Melchór-García-Sampedro-Suárez.jpg
 searchAliases:
   - Melchior Garcia Sanpedro
 birthYear: 1821

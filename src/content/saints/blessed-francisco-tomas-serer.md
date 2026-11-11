@@ -5,7 +5,7 @@ summary: >-
   Son of Antonio and Dolores. Studied with Capuchin tertiaries. Joined the Capuchin Tertiary Fathers and Brothers of Our
   Lady of Sorrows in 1928. Ordained a priest in 1934. Studied in Belgium and France. Studied medicine at the Central
   University of Madrid. Martyred in the Spanish
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Francesco-Tomas-Serer.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Francesco-Tomas-Serer.jpg
 birthYear: 1911
 deathYear: 1936
 born: 10 October 1911 in Alcalalí, Alicante, Spain

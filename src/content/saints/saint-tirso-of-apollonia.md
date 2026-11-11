@@ -2,7 +2,7 @@
 name: Saint Tirso of Apollonia
 honorific: Saint
 summary: Martyred in the persecutions of Decius.
-image: http://catholicsaints.info/wp-content/uploads/81370.jpg
+image: https://catholicsaints.info/wp-content/uploads/81370.jpg
 died: Apollonia, Bithynia (in modern Turkey)
 deathPlace: Bithynia (modern Turkey)
 region: Italy

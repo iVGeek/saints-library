@@ -5,7 +5,7 @@ summary: >-
   Married lay man. Father of Saint Thomas Kozaki. Bow maker and carpenter. Already a Christian with the Franciscans
   started their missionary work in his area, he joined as a Secular Franciscan, and worked with them as a catechist, and
   as a nurse in their hospital. Helped to build c
-image: http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Nagasaki.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Nagasaki.jpg
 searchAliases:
   - Michael Cozaki
   - Michael Kasaki

@@ -5,7 +5,7 @@ summary: >-
   Joined the Salesians at Carabanchel Alto, Madrid, Spain, making his vows on 13 September 1907. Priest, ordained in
   Campello, Spain on 18 July 1915. Arrested with his entire community on 20 July 1936. Released, he immediately resumed
   his ministry, which led to his re-arrest. Marty
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Félix-González-Tejedor.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Félix-González-Tejedor.jpg
 birthYear: 1888
 deathYear: 1936
 born: 17 April 1888 in Ledesma, Salamanca, Spain

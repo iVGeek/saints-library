@@ -2,7 +2,7 @@
 name: Saint Arduinus of Trepino
 honorific: Saint
 summary: May have been an English pilgrim to holy sites in southern Italy, but no reliable information has survived.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Arduinus-of-Trepino.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Arduinus-of-Trepino.jpg
 searchAliases:
   - Arduinus of Ceprano
   - Ardoin…

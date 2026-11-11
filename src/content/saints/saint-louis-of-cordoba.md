@@ -2,7 +2,7 @@
 name: Saint Louis of Córdoba
 honorific: Saint
 summary: Layman. Murdered by Saracens for publicly proclaiming his faith. Martyr.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Louis-of-Córdoba.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Louis-of-Córdoba.jpg
 searchAliases:
   - Ludovico
 deathYear: 855

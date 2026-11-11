@@ -5,7 +5,7 @@ summary: >-
   Born to the nobility, a member of the Alliati family. Known for his learning and his personal piety. Bishop of Milan,
   Italy c.530. Ordered the history of the Church in Milan known as Historia Datiana. Imprisoned and exiled by Arian
   Ostrogoths for defending orthodox Christianity.
-image: http://catholicsaints.info/wp-content/uploads/img-Siant-Datius-of-Milan.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Siant-Datius-of-Milan.jpg
 searchAliases:
   - Dacius
   - Dasius

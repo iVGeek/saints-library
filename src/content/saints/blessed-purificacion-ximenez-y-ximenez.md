@@ -2,7 +2,7 @@
 name: Blessed Purificación Ximénez y Ximénez
 honorific: Blessed
 summary: Member of the Carmelite Sisters of Charity. Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Purificación-Ximénez-y-Ximénez.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Purificación-Ximénez-y-Ximénez.jpg
 searchAliases:
   - Sister Purificación of Saint Joseph
 birthYear: 1871

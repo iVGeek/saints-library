@@ -5,7 +5,7 @@ summary: >-
   Descendant of a Roman consular family. His father was chosen as consul in 487, but died soon after, leaving Severinus
   an orphan. Educated by a pious, aristocratic friend of the family, Quintus Aurelius Memmius Symmachus. Fluent in
   Greek, he probably studied in Athens, Greece or A
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Severinus-Boethius.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Severinus-Boethius.jpg
 searchAliases:
   - Anicius Manlius Torquatus Severinus Boethius
   - Last of the Romans

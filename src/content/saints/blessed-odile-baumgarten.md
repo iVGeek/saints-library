@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Daughter of Charity of Saint Vincent de Paul nun of the diocese of Angers, France. Martyred in the persecutions of the
   French Revolution.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Odile-Baumgarten.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Odile-Baumgarten.jpg
 birthYear: 1750
 deathYear: 1794
 born: 15 November 1750 in Gondrexange, Moselle France

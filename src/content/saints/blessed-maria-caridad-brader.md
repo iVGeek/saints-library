@@ -5,7 +5,7 @@ summary: >-
   The only child of Joseph Sebastian Brader and Maria Anna Carolina Zahner. Raised in a pious family, she was known as a
   highly intelligent child, and received the best education her parents could provide. There were high expectations for
   the girl's future, but instead of continued
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Maria-Caridad-Brader.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Maria-Caridad-Brader.jpg
 searchAliases:
   - Caritas Brader
   - Karolina Brader Zahner

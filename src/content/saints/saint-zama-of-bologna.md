@@ -2,7 +2,7 @@
 name: Saint Zama of Bologna
 honorific: Saint
 summary: First known bishop of Bologna, Italy, consecrated by Pope Saint Dionysius, c.260.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Zama-of-Bologna.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Zama-of-Bologna.jpg
 searchAliases:
   - Zamas
 deathYear: 268

@@ -5,7 +5,7 @@ summary: >-
   The second of five children born to Félix and Maria Giannotti, pious Italian peasants; his older brother, Guilherme,
   became a diocesan priest and seminary director, and his younger sister, Pia, joined the Sisters of Santa Zita. Pio's
   first Communion had a profound effect on the b
-image: http://catholicsaints.info/wp-content/uploads/img-Venerable-Pio-Giannotti.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Pio-Giannotti.jpg
 searchAliases:
   - Damião of Bozzano
   - Damiano…

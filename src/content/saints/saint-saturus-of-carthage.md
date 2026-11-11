@@ -2,7 +2,7 @@
 name: Saint Saturus of Carthage
 honorific: Saint
 summary: Catechumen. Martyr.
-image: http://catholicsaints.info/wp-content/uploads/Satyrus.jpg
+image: https://catholicsaints.info/wp-content/uploads/Satyrus.jpg
 searchAliases:
   - Satyrus
 deathYear: 203

@@ -2,7 +2,7 @@
 name: Saint Renato of Sorrento
 honorific: Saint
 summary: Hermit. Early bishop of Sorrento, Italy. His hermitage became the first cathedral of Sorrento.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Renato-of-Sorrento.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Renato-of-Sorrento.jpg
 region: Italy
 feastDay:
   month: 10

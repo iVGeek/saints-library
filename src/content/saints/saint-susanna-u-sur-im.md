@@ -2,7 +2,7 @@
 name: Saint Susanna U Sur-Im
 honorific: Venerable
 summary: Married lay woman in the apostolic vicariate of Korea. Widow. Martyr.
-image: http://catholicsaints.info/wp-content/uploads/img-Maryrs-of-Korea.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Maryrs-of-Korea.jpg
 birthYear: 1803
 deathYear: 1846
 born: 1803 in Gwangju, Gyeonggi-do, South Korea

@@ -5,7 +5,7 @@ summary: >-
   Born to the Gallic nobility; relative of Saint Vettius Apagatus. Uncle and teacher of Saint Gregory of Tours. He
   refused an arranged marriage to the daughter of an imperial senator, and withdrew to the monastery at Cournon near
   Auvergne, France. Monk. Deacon under Saint Quinctian
-image: http://catholicsaints.info/wp-content/uploads/pls-Saint-Gal.jpg
+image: https://catholicsaints.info/wp-content/uploads/pls-Saint-Gal.jpg
 searchAliases:
   - Gal
 birthYear: 489

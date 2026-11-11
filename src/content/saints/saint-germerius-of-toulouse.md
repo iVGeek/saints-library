@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Priest. Bishop of Toulouse, France for 50 years. Noted for living an austere life devoted to prayer and almsgiving, as
   a miracle worker and healer, and a devotion to Saint Saturninus, the first bishop of Toulouse.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Germerius-of-Toulouse.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Germerius-of-Toulouse.jpg
 searchAliases:
   - Germerio
   - Germier

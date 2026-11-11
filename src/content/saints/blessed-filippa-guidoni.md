@@ -5,7 +5,7 @@ summary: >-
   Born to the nobility of Arezzo, Italy. Benedictine Santucci (later Servents of Mary) nun. Spiritual student of the
   founder of the Santucci, Blessed Santuccia Terrebotti. Founded the Santa Maria de Valverde abbey in Arezzo, and served
   as its first abbess.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Filippa-Guidoni.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Filippa-Guidoni.jpg
 searchAliases:
   - Felipa Guidoni
 deathYear: 1335

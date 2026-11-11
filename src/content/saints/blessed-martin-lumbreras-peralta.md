@@ -2,7 +2,7 @@
 name: Blessed Martín Lumbreras Peralta
 honorific: Blessed
 summary: Augustinian Recollect priest. Martyr.
-image: http://catholicsaints.info/wp-content/uploads/img-Augustinian-Martyrs-of-Japan.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Augustinian-Martyrs-of-Japan.jpg
 searchAliases:
   - Father Martín of Saint Nicholas
 birthYear: 1598

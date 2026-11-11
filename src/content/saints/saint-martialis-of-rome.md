@@ -2,7 +2,7 @@
 name: Saint Martialis of Rome
 honorific: Saint
 summary: ' In the 19th century there was a serious drought in Born to the Roman nobility, son of Saint Felicitas of Rome; one of the Seven Holy Brothers. His father died when the boy was very young. Martyred at age seven along with his whole family in the persecutions of Emperor Antoninus.'
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Martialis-of-Rome.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Martialis-of-Rome.jpg
 searchAliases:
   - Martial
   - Marziale

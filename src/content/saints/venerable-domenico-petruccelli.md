@@ -5,7 +5,7 @@ summary: >-
   Born to a peasant family, the son of Salvatore Petruccelli and Brigida Mastrovita, Domenico helped work the fields in
   his youth, spending as much of his time as possible in prayer. He apprenticed as a shoe maker, but the call to
   religious life was too strong, and he joined the Ca
-image: http://catholicsaints.info/wp-content/uploads/img-Venerable-Domenico-Petruccelli.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Domenico-Petruccelli.jpg
 searchAliases:
   - Raffaele of Sant'Elia a Pianisi
 birthYear: 1816

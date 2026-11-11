@@ -5,7 +5,7 @@ summary: >-
   Orphaned at age five, Katarzyna was raised by childless relatives. Entered the Congregation of the Sisters Servants of
   Mary Immaculate in 1930, taking the name Celestyna and making pertual vows on 15 September 1938. Catechist and
   kindergarten teacher. During World War II she ran
-image: http://catholicsaints.info/wp-content/uploads/Katarzyna-Faron.jpg
+image: https://catholicsaints.info/wp-content/uploads/Katarzyna-Faron.jpg
 searchAliases:
   - Celestyna Faron
   - Catherine Faron

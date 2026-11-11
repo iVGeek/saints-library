@@ -5,7 +5,7 @@ summary: >-
   Joined the Carthusians on 18 December 1769 at the monastery of Fontenay, France. Priest. Served as vicar of his house
   until June 1791 when the monastery was suppressed by the civil authorities of the French Revolution. Arrested on 19
   April 1793 for refusing to take the oath that
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Lazare-Tiersot.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Lazare-Tiersot.jpg
 birthYear: 1739
 deathYear: 1794
 born: 29 March 1739 in Semur-en-Auxois, Diocese of Sens-Auxerre, Côte-d’Or, France

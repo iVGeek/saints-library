@@ -2,7 +2,7 @@
 name: Venerable Giuseppe Girelli
 honorific: Venerable
 summary: Seventh child of Gaetano and Mary Girelli. Priest in the diocese of Verona, Italy.
-image: http://catholicsaints.info/wp-content/uploads/img-Don-Giuseppe-Girelli.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Don-Giuseppe-Girelli.jpg
 birthYear: 1886
 deathYear: 1978
 born: 10 January 1886 in Dossobuono, Verona, Italy

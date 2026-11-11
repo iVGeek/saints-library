@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   First bishop of Toul, France, c.338 serving until his death. He was so successful in spreading the faith in the region
   that he became known as the Apostle of Lorraine.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Mansuetus-of-Toul.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Mansuetus-of-Toul.jpg
 searchAliases:
   - Mansu
   - Mansueto

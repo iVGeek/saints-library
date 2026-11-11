@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Priest of the diocese of Zaragoza, Spain. Chaplain of Our Lady of Mount Carmel School in Bonanova, Spain. Martyred in
   the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Leonardo-Olivera-Buera.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Leonardo-Olivera-Buera.jpg
 birthYear: 1889
 deathYear: 1936
 born: 6 March 1889 in Campo, Huesca, Spain

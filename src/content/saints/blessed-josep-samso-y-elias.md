@@ -5,7 +5,7 @@ summary: >-
   Josep grew up in the town of Rubí in the area of Barcelona, Spain. He studied at the College of the Marist Brothers,
   the diocesan seminary of Barcelona, and then the Pontifical Institute of Tarragona, Spain. Ordained a priest in the
   Archdiocese of Barcelona on 12 March 1910. Secr
-image: http://catholicsaints.info/wp-content/gallery/venerable-josep-samso-y-elias/venerable-josep-samso-y-elias-01.jpg
+image: https://catholicsaints.info/wp-content/gallery/venerable-josep-samso-y-elias/venerable-josep-samso-y-elias-01.jpg
 birthYear: 1887
 deathYear: 1936
 born: 17 January 1887 in Castellbisball, Valles, Barcelona, Spain

@@ -4,7 +4,7 @@ honorific: Venerable
 summary: >-
   Member of the Brothers of the Christian Schools, entering the novitate on 3 February 1926. One of the Martyrs of
   Tur&oacute;n killed in the persecutions of the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-saint-augusto-andres.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-saint-augusto-andres.jpg
 searchAliases:
   - Rom&aacute;n Mart&iacute;n Fern&aacute;ndez
 birthYear: 1910

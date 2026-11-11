@@ -2,7 +2,7 @@
 name: Blessed Josep Brengaret Pujol
 honorific: Blessed
 summary: One of the Martyred Claretians of Barbastro killed in the persecutions of the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Josep-Brengaret-Pujol.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Josep-Brengaret-Pujol.jpg
 birthYear: 1913
 deathYear: 1936
 born: 18 January 1913 in Sant Jordi Desvalls, Girona, Spain

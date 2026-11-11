@@ -2,7 +2,7 @@
 name: Blessed Ignasi Guilà Ximenes
 honorific: Blessed
 summary: Member of the Benedictine Subiaco Congregation. Priest. Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Ignasi-Guilà-Ximenes.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Ignasi-Guilà-Ximenes.jpg
 searchAliases:
   - Brother Emilià Maria
   - Emilià Maria Guilà i Ximenes

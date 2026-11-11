@@ -5,7 +5,7 @@ summary: >-
   Archangel. One of the three angels mentioned by name in Scripture, and one of the seven that stand before God's
   throne. Lead character in the deutero-canonical book of Tobit in which he travelled with (and guarded) Tobiah, and
   cured a man's blindness; hence his connection with tr
-image: http://catholicsaints.info/wp-content/uploads/img-Raphael-the-Archangel.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Raphael-the-Archangel.jpg
 searchAliases:
   - Azariah
   - Angel of Love

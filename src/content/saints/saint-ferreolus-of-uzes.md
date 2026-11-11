@@ -5,7 +5,7 @@ summary: >-
   Brother of Saint Tarsicia of Rodez. Sixth century bishop of Uzès, France. Devoted to converting Jews to Christianity.
   Exiled for three years by King Childebert I of Paris over a political dispute. Founded a monastery in his see, and
   wrote its Rule.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Ferreolus-of-Uzès.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Ferreolus-of-Uzès.jpg
 searchAliases:
   - Ferreol
   - Ferreolo

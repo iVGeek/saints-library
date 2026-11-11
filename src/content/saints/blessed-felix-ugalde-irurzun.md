@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Entered the Passionist novitiate at Corella, Spain in 1932, and began studying for the priesthood. Martyred in the
   Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Felix-Ugalde-Irurzun.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Felix-Ugalde-Irurzun.jpg
 searchAliases:
   - Felix of the Five Wounds
 birthYear: 1915

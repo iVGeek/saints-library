@@ -5,7 +5,7 @@ summary: >-
   Anatomist and priest. Among his anatomical achievements was the discovery of the excretory duct of the parotid glands
   and the circulation of the blood in the body. When the Danes finally called for him to return, he had become a
   Catholic in Florence, Italy, and as such could not
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Niels-Stenson.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Niels-Stenson.jpg
 searchAliases:
   - Niels Steensen
   - Niels Stenone

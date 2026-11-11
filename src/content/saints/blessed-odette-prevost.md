@@ -5,7 +5,7 @@ summary: >-
   Odette qualified as a school teacher in 1950, and worked as a teacher from then till 1953 when she joined the Little
   Sisters of the Sacred Heart; she made her final vows in 1959. She worked as a teacher at the Kbab mission in Morocco,
   and later in Argenteuil, France. Assigned to
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Odette-Prévost.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Odette-Prévost.jpg
 birthYear: 1932
 deathYear: 1995
 born: 17 July 1932 in Oger, Marne, France

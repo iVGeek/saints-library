@@ -5,7 +5,7 @@ summary: >-
   Priest in the archdiocese of Guadalajara, Mexico at a time when ordination was a crime in Mexico. He ministered to
   covert Catholics, administering the sacraments in secret and hiding from the authorities. Martyred in the Mexican
   Revolution.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Atilano-Cruz-Alvarado.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Atilano-Cruz-Alvarado.jpg
 birthYear: 1901
 deathYear: 1928
 born: 5 October 1901 in Ahuetita de Abajo, Teocaltiche, Jalisco, Mexico

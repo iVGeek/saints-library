@@ -5,7 +5,7 @@ summary: >-
   Nearly blind. Pious youth, given to severe, self-imposed austerities. She attracted followers, and founded a religious
   community of men and women. She wrote a separate rule for the community, but the group did not survive her death, the
   members joining other, established groups.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Margaret-of-Ravenna.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Margaret-of-Ravenna.jpg
 searchAliases:
   - Margaret Molli
   - Margarita

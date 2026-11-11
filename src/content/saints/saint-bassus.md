@@ -2,7 +2,7 @@
 name: Saint Bassus
 honorific: Saint
 summary: Son of Saint Catervus and Saint Severina. Martyr.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Catervus.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Catervus.jpg
 searchAliases:
   - Basso
 died: 4th century Tolentino, Italy

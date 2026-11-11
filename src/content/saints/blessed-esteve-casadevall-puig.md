@@ -2,7 +2,7 @@
 name: Blessed Esteve Casadevall Puig
 honorific: Blessed
 summary: One of the Martyred Claretians of Barbastro killed in the persecutions of the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Esteve-Casadevall-Puig.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Esteve-Casadevall-Puig.jpg
 birthYear: 1913
 deathYear: 1936
 born: 18 March 1913 in Argelaguer, Girona, Spain

@@ -5,7 +5,7 @@ summary: >-
   Born to the Irish nobility. Monk at the monastery of Hy. May have been an abbot. Travelling bishop throughout Ireland.
   Missionary with eleven companions through Gaul to W&uuml;rzburg, Germany whose people he found to be pagan, and whom
   he resolved to convert. Pilgrim to Rome, Ita
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Kilian.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Kilian.jpg
 searchAliases:
   - Apostle of Bavaria
   - Apostle of Franconia

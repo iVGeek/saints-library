@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Professed religious in the Sisters of the Christian Doctrine, joining in 1889, and serving her community in any menial
   task needed to keep the house running, much of the time spent as a cook. Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Martyred-Sisters-of-the-Christian-Doctrine.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Martyred-Sisters-of-the-Christian-Doctrine.jpg
 searchAliases:
   - Ignacia of the Blessed Sacrament
 birthYear: 1862

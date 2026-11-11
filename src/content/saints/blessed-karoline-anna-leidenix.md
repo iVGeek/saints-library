@@ -2,7 +2,7 @@
 name: Blessed Karoline Anna Leidenix
 honorific: Blessed
 summary: Member of the Daughters of Divine Charity. Martyred by a Chetnik soldier.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Karoline-Anna-Leidenix.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Karoline-Anna-Leidenix.jpg
 searchAliases:
   - Sister Maria Berchmana Johanna
   - Sister Marija Berchmana Johanna Leidenix

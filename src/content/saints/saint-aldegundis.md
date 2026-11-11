@@ -5,7 +5,7 @@ summary: >-
   Daughter of Saint Walbert of Hainault and Saint Bertilia; sister of Saint Waldetrudis; aunt of Saint Madalberta. Lived
   in the convent at Mons, Belgium with Waldetrudis. Benedictine abbess. Hermitess at Maubeuge Abbey; her cell became the
   core of a Benedictine monastery she founde
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Aldegundis.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Aldegundis.jpg
 searchAliases:
   - Adelgund
   - Adelgundis

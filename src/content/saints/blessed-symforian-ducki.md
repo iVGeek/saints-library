@@ -5,7 +5,7 @@ summary: >-
   Son of Julian and Marianna Lenardt; his father was a locksmith. Franciscan Capuchin friar, entering the community on 3
   January 1918, taking the name Antonio; his religious name is later changed to Symforian and makes his final vows on 22
   May 1925. He served his community as cook.
-image: http://catholicsaints.info/wp-content/uploads/Symforian-Ducki.jpg
+image: https://catholicsaints.info/wp-content/uploads/Symforian-Ducki.jpg
 searchAliases:
   - Felix Ducki
   - Antonio Ducki

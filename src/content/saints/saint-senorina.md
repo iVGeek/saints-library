@@ -5,7 +5,7 @@ summary: >-
   Born to the nobility, and related to Saint Rudesind of Mondoñedo. Raised by her aunt, Blessed Godina who as abbess of
   the convent of Saint John in modern Vieira do Minho, Portugal, a house founded by her father. Senorina joined the
   convent as a nun, eventually became its abbess.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Senorina-of-Basto.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Senorina-of-Basto.jpg
 searchAliases:
   - Senorina of Vieira
   - Segnorin…

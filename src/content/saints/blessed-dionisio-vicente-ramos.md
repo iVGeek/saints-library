@@ -2,7 +2,7 @@
 name: Blessed Dionisio Vicente Ramos
 honorific: Blessed
 summary: Franciscan Conventual friar. Priest. Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Dionisio-Vicente-Ramos.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Dionisio-Vicente-Ramos.jpg
 birthYear: 1871
 deathYear: 1936
 born: 9 October 1871 in Caudé, Teruel, Spain

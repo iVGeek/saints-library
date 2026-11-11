@@ -5,7 +5,7 @@ summary: >-
   Ordained a priest in the diocese of Zaragoza, Spain on 20 March 1920. Member of the Dominican Fraternity of Priests.
   Parish priest for 16 years, concerned with the spiritual lives of his people, caring nothing for politics; but the
   political turmoil came for him. Martyred in the
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Zósimo-Izquierdo-Gil.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Zósimo-Izquierdo-Gil.jpg
 birthYear: 1895
 deathYear: 1936
 born: 17 December 1895 in Villahermosa del Campo, Teruel, Spain

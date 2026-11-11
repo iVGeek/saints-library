@@ -5,7 +5,7 @@ summary: >-
   Oldest of four children of Umbelino Manuel Ferreira da Silva and Joaquina da Conceição Cardoso Emilia. Following the
   death of her fiance, Silvia devoted herself to the care of poor children. Founded homes for the abandoned, organized
   retreats for laity, and set an example of the
-image: http://catholicsaints.info/wp-content/uploads/img-Sílvia-Cardoso-Ferreiro-da-Silva.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Sílvia-Cardoso-Ferreiro-da-Silva.jpg
 birthYear: 1882
 deathYear: 1950
 born: 26 July 1882 in Paços de Ferreira, Porto, Portugal

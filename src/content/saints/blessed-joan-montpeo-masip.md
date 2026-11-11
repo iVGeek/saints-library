@@ -2,7 +2,7 @@
 name: Blessed Joan Montpeó Masip
 honorific: Blessed
 summary: Seminarian of the archdiocese of Tarragona, Spain. Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Joan-Montpeó-Masip.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Joan-Montpeó-Masip.jpg
 birthYear: 1918
 deathYear: 1938
 born: 31 October 1918 in Borges del Camp, Tarragona, Spain

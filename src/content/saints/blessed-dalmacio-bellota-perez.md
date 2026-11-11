@@ -5,7 +5,7 @@ summary: >-
   Began the Lasallian novitiate in Bujedo, Spain on 2 February 1925, taking the name Carlos Jorge. Taught at Nuestra
   Señora de las Maravillas College in Madrid, Spain until anti-Christian forces destroyed it by a fire in 1931. Taught
   at the Cuevas Community in Almeria, Spain. Taugh
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Carlos-Jorge.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Carlos-Jorge.jpg
 searchAliases:
   - Carlos Jorge
 birthYear: 1908

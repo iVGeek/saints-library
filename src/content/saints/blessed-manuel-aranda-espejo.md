@@ -2,7 +2,7 @@
 name: Blessed Manuel Aranda Espejo
 honorific: Blessed
 summary: Seminarian of the diocese of Jaén, Spain. Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/Manuel-Aranda-Espejo.jpg
+image: https://catholicsaints.info/wp-content/uploads/Manuel-Aranda-Espejo.jpg
 birthYear: 1916
 deathYear: 1936
 born: 22 March 1916 in Monte Lope Alvarez, Jaén, Spain

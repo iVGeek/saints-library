@@ -5,7 +5,7 @@ summary: >-
   Youngest of eight children born to Rocco Gargani and Angiolina De Paola. Hers was a pious family, and her father made
   sure the children learned their faith. Educated in Morra de Sanctis and Avellino in Italy, and earned a master's
   degree in 1913. School teacher in San Marco la Ca
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Maria-Gargani.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Maria-Gargani.jpg
 searchAliases:
   - Maria Crocifissa del Divino Amore
   - Maria Crocifissa of Divine Love

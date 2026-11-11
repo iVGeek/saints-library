@@ -5,7 +5,7 @@ summary: >-
   Son of Count Hucpald and Thetbirga; related to the dukes of Alamannia and the imperial family of the Ottos. He was a
   sickly child. Educated at the monastic school of Saint Gall where he proved to be an excellent student. Chamberlain to
   his uncle Blessed Adalbero, bishop of Augsbu
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Ulric-of-Augsburg.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Ulric-of-Augsburg.jpg
 searchAliases:
   - Ulric of Augusta
   - Udalric

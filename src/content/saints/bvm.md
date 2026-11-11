@@ -2,7 +2,7 @@
 name: Blessed Virgin Mary
 honorific: Blessed
 summary: Mother of Jesus. Spouse of the Holy Spirit. Betrothed of Saint Joseph
-image: http://catholicsaints.info/wp-content/uploads/img-BVM.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-BVM.jpg
 born: unknown, perhaps 20BC
 died: unknown
 birthPlace: perhaps 20BC

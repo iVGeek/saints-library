@@ -5,7 +5,7 @@ summary: >-
   The eldest child of Jusepe Iuco, a Chinese convert to Christianity, and Maria Jeronima; Ignacia was the only one of
   their children to survive to adulthood. Baptized on 4 March 1663. Though her parents wanted her to marry, Ignacia felt
   a call to religious life, and in her 20's she
-image: http://catholicsaints.info/wp-content/uploads/img-Venerable-Ignacia-del-Espiritu-Santo-Juco.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Ignacia-del-Espiritu-Santo-Juco.jpg
 birthYear: 1663
 deathYear: 1748
 born: February 1663 in Binondo, Manila, Philippines

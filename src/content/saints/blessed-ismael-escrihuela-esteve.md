@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Layman in the archdiocese of Valencia, Spain. Married to Josefa Grau, and the father of three. Member of Catholic
   Action. Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Ismael-Escrihuela-Esteve.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Ismael-Escrihuela-Esteve.jpg
 searchAliases:
   - Soldier of Christ (nickname because he always wore a cross in his button hole)
 birthYear: 1902

@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Bishop of Scythopolis (in modern north-east Israel). Murdered by a band of soldiers led by a heretical Eutychian monk.
   Martyr.
-image: http://catholicsaints.info/wp-content/uploads/pls-severianus.jpg
+image: https://catholicsaints.info/wp-content/uploads/pls-severianus.jpg
 searchAliases:
   - Severianus
   - Severinus

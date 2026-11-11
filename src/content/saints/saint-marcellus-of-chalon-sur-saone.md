@@ -5,7 +5,7 @@ summary: >-
   Priest in Lyons in Gaul (in modern France). Imprisoned for his faith during the persecutions of Marcus Aurelius, when
   released he became a missionary along the Saône River. Arrested again, he was publicly tortured during a pagan
   festival, then buried to the waist and left to die
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Marcellus-of-Chalon-sur-Saône.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Marcellus-of-Chalon-sur-Saône.jpg
 searchAliases:
   - Marcellus of Lyons
   - Marcello…

@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Arab physician. Friend of Saint Cyrus the Physician. May have been a monk, and certainly lived a lot like one.
   Tortured and martyred with Cyrus, Saint Athanasia and her three daughters during the persecutions of Diocletian.
-image: http://catholicsaints.info/wp-content/uploads/img-John-the-Physician.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-John-the-Physician.jpg
 deathYear: 312
 born: Syria
 died: beheaded in 312 in Alexandria, Egypt

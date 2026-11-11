@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   First Bishop of Forlimpopoli, Emilia, Italy. Legend says that he and his parishioners drove out a dragon from the
   region; it's a metaphor for the work of the local Christians to evangelize the local pagans.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Rufillus-of-Forlimpopoli.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Rufillus-of-Forlimpopoli.jpg
 searchAliases:
   - Ruffilius
   - Rufillo

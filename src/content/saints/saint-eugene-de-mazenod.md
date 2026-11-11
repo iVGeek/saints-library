@@ -5,7 +5,7 @@ summary: >-
   Eldest son of Charles-Antoine De Mazenod and Marie-Rose Joannis. His mother was of the French middle class, convent
   educated, and wealthy; his father was an aristocrat, classically educated, and poor. Their marriage, and Eugene's home
   life, were plagued by constant family in-figh
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Eugene-de-Mazenod.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Eugene-de-Mazenod.jpg
 searchAliases:
   - Charles Joseph Eugene de Mazenod
   - Carlo Eugenio de Mazenod

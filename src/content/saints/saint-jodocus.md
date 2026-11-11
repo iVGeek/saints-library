@@ -5,7 +5,7 @@ summary: >-
   Seventh century king in Brittany, the son of King Juthael of Amorica. Following a pilgrimage to Rome, Italy c.636, he
   abdicated to lead a religious life. Ordained at Ponthieu. Hermit at Runiacum, which was later renamed
   Saint-Josse-sur-Mer. Felt a special call to pray for sailors
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Jodocus.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Jodocus.jpg
 searchAliases:
   - Giudoco
   - Giudioco

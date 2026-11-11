@@ -5,7 +5,7 @@ summary: >-
   One of five children born to pious members of Opus Dei. Alexia made her First Communion in Rome, Italy on 8 May 1979,
   the next day attended the pope's weekly general audience, and when Pope Saint John Paul II passed nearby greeting the
   pilgrims, she ran from the crowd to hug him,
-image: http://catholicsaints.info/wp-content/uploads/img-Venerable-Alexia-González-Barros.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Alexia-González-Barros.jpg
 birthYear: 1971
 deathYear: 1985
 born: 7 March 1971 in Madrid, Spain

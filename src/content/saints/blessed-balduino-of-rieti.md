@@ -5,7 +5,7 @@ summary: >-
   Born to a pious noble family, the son of Berardo X, Count of Marsi; his brother Rainaold became abbot of Montecassino
   Abbey, and created cardinal by Pope Innocent II in 1138. Benedictine Cistercian monk at Clairvaux Abbey. Spiritual
   student of Saint Bernard of Clairvaux. Abbot of
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Baudoin-of-Rieti.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Baudoin-of-Rieti.jpg
 searchAliases:
   - Baldovino
   - Baldwin

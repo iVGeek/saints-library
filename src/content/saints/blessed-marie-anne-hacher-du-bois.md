@@ -2,7 +2,7 @@
 name: Blessed Marie-Anne Hacher du Bois
 honorific: Blessed
 summary: Lay woman of the diocese of Angers, France. Martyred in the persecutions of the French Revolution.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Marie-Anne-Hacher-du-Bois.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Marie-Anne-Hacher-du-Bois.jpg
 birthYear: 1765
 deathYear: 1794
 born: 3 April 1765 in Jallais, Maine-et-Loire, France

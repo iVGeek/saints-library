@@ -5,7 +5,7 @@ summary: >-
   Disciple of Saint Polycarp of Smyrna. Ordained in 177. Bishop of Lugdunum, Gaul (modern Lyons, France). Worked and
   wrote against Gnosticism, basing his arguments on the works of Saint John the Apostle, whose Gospel is often cited by
   Gnostics. Dispatched evangelists, including Sai
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Irenaeus-of-Lyons.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Irenaeus-of-Lyons.jpg
 searchAliases:
   - Ireneo
   - Doctor unitatis

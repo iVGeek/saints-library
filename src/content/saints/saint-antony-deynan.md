@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Son of a Chinese father and Japanese mother. Altar boy. Educated by the Jesuits in Nagasaki and the Franciscans in
   Osaka. Franciscan tertiary. One of the Martyrs of Nagasaki at age 13.
-image: http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Nagasaki.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Nagasaki.jpg
 searchAliases:
   - Antony Dainan
   - Anthony…

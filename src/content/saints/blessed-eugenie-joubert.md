@@ -5,7 +5,7 @@ summary: >-
   Fourth of eight children born to wine-makers Pietro Joubert and Antonia Celle; she was baptized on the day she was
   born. Educated at the Ursuline boarding school at Ministrel, France from 1881 till 1887, and then at the College of
   Saint Mary in Le Puy, France, run by the Sisters
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Eugénie-Joubert.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Eugénie-Joubert.jpg
 birthYear: 1876
 deathYear: 1904
 born: 11 February 1876 in Yssingeaux, Haute-Loire, France

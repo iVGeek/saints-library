@@ -5,7 +5,7 @@ summary: >-
   Alberto's father died when the boy was four years old, and he grew up in poverty, living with a series of relatives.
   Educated at the Jesuit College in Santiago, Chile. He early felt a call to religion, and to work with those as poor as
   himself. He entered the Jesuit novitiate in
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Alberto-Hurtado-Cruchaga.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Alberto-Hurtado-Cruchaga.jpg
 birthYear: 1901
 deathYear: 1952
 born: 22 January 1901 at Vina del Mar, Chile

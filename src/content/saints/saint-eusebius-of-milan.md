@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Bishop of Milan, Italy for 16 years. Fought the heresy of Eutychianism. Rebuilt the cathedral after its destruction by
   invading Huns.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Eusebius-of-Milan.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Eusebius-of-Milan.jpg
 searchAliases:
   - Eusebio
 deathYear: 465

@@ -2,7 +2,7 @@
 name: Saint Totnan of Thuringia
 honorific: Saint
 summary: Evangelized Franconia and East Thuringia. Worked and martyred with Saint Kilian and Saint Colman.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Totnan.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Totnan.jpg
 deathYear: 689
 died: c.689 at East Thuringia
 region: Germany

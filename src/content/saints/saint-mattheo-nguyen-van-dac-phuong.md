@@ -4,7 +4,7 @@ honorific: Venerable
 summary: >-
   Married layman catechist in the apostolic vicariate of North Cochinchina. Tortured and martyred in the persecutions of
   emperor Tu-Duc.
-image: http://catholicsaints.info/wp-content/gallery/martyrs-of-vietnam/martyrs-of-vietnam-01.jpg
+image: https://catholicsaints.info/wp-content/gallery/martyrs-of-vietnam/martyrs-of-vietnam-01.jpg
 searchAliases:
   - Matteo Nguyen Van Phuong
   - Matthew Nguyen Van Phuong

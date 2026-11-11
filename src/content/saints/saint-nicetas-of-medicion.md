@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Monk and abbot of Medicion Abbey in Bithynia (in modern Turkey). He and his brother monks suffered in the persecutions
   of iconclast Emperor Leo, and he was imprisoned for many years.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Nicetas-of-Medicion-1.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Nicetas-of-Medicion-1.jpg
 searchAliases:
   - Nicetas of Constantinople
   - Nicetas the Confessor

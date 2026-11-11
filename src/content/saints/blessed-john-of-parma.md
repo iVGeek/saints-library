@@ -5,7 +5,7 @@ summary: >-
   Franciscan. Priest. Taught theology at Bologna and Naples. Seventh minister general of the Franciscans from 1247-1257.
   Visited Franciscan provinces of different countries, including England. Papal legate to Constantinople. Retired to
   Greccio, Italy.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-John-of-Parma.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-John-of-Parma.jpg
 searchAliases:
   - Giovanni di Parma
   - John Buralli

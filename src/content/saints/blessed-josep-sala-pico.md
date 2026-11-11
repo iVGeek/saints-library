@@ -5,7 +5,7 @@ summary: >-
   Studied at the seminary of Seo de Urgel. Ordained on 15 April 1911. Member of the Diocesan Laborer Priests of the
   Sacred Heart of Jesus on 12 August 1914. Director of the seminary of Segovia, Spain. Dean of the College of Vocations
   in Toledo, Spain. Martyred by Communists in the
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Josep-Sala-Picó.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Josep-Sala-Picó.jpg
 birthYear: 1888
 deathYear: 1936
 born: 24 June 1888 in Pons, Lleida, Spain

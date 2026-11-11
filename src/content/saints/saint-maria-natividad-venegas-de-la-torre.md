@@ -5,7 +5,7 @@ summary: >-
   Youngest of twelve children in a pious Bible-reading, Rosary-praying family; her father was an accountant and her
   mother a homemaker. Natividad was early drawn to prayer and contemplation, and made her first Communion at age 9. Her
   mother died when Nati was 16. The family moved t
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-María-Natividad-Venegas-de-la-Torre.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-María-Natividad-Venegas-de-la-Torre.jpg
 searchAliases:
   - María de Jesús Sacramentado
   - María of Jesus in the Blessed Sacrament

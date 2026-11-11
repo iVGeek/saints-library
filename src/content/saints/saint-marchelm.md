@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Missionary to the Netherlands with Saint Willibrord of Echternach. Worked with Saint Lebuin of Deventer in the area of
   Overijssel, Netherlands.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Marchelm.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Marchelm.jpg
 searchAliases:
   - Marcellinus
   - Marculf

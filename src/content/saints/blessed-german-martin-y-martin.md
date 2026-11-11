@@ -5,7 +5,7 @@ summary: >-
   Member of the Salesians, making his novitiate in Carabanchel Alto, Spain, and making his religious profession in 1918.
   He studied philosophy and education in Carabanchel Alto, Barcelona and Baracaldo. Teacher in Havana, Cuba in work that
   substituted for mandatory military service
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Germán-Martín-Martín.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Germán-Martín-Martín.jpg
 birthYear: 1899
 deathYear: 1936
 born: 9 February 1899 in San Cristobál de Priero, Oviedo, Spain

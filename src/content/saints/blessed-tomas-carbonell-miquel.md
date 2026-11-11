@@ -2,7 +2,7 @@
 name: Blessed Tomás Carbonell Miquel
 honorific: Blessed
 summary: Mercedarian priest. Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Tomás-Carbonell-Miquel.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Tomás-Carbonell-Miquel.jpg
 birthYear: 1888
 deathYear: 1936
 born: 20 December 1888 in Jijona, Alicante, Spain

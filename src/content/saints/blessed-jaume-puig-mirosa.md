@@ -5,7 +5,7 @@ summary: >-
   Priest. Member of the Sons of the Holy Family. Superior of his Order and Director of Colegio Santa María de Blanes in
   Spain. As anti-Catholic forces approached, he hid the ancient image of the Virgin of Vilar, patroness of Blanes.
   Martyred in the Spanish Civil War, the first mart
-image: http://catholicsaints.info/wp-content/uploads/01-Jaume-Puig.png
+image: https://catholicsaints.info/wp-content/uploads/01-Jaume-Puig.png
 birthYear: 1908
 deathYear: 1936
 born: 3 June 1908 in Terrasa, Barcelona, Spain

@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Sixth century BC Old Testament prophet during the period after the exile. The message he brought concerned rebuilding
   the Temple in Jerusalem.
-image: http://catholicsaints.info/wp-content/uploads/img-Haggai-the-Prophet.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Haggai-the-Prophet.jpg
 searchAliases:
   - Aggaeus
   - Aggeus

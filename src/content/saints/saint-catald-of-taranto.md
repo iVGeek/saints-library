@@ -5,7 +5,7 @@ summary: >-
   Student at the monastic school of Lismore, Waterford under Saint Carthage. Later a teacher there, and then headmaster.
   Pilgrim to the Holy Land. On his way home a storm shipwrecked him in Taranto, Italy. As he recovered, his holiness was
   such that he was chosen by the people to b
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Catald-of-Taranto.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Catald-of-Taranto.jpg
 searchAliases:
   - Catald of Tarentum
   - Catald of Rachau

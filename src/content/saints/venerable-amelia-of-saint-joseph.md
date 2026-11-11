@@ -2,7 +2,7 @@
 name: Venerable Amelia of Saint Joseph
 honorific: Venerable
 summary: Nun. Founded the Congregation of the Little Servants of the Poor of Maiquetia.
-image: http://catholicsaints.info/wp-content/uploads/img-Venerable-Amelia-of-Saint-Joseph.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Amelia-of-Saint-Joseph.jpg
 searchAliases:
   - Maria Amelia Chapellin Istúriz
   - María Emilia Chapellín Istúriz

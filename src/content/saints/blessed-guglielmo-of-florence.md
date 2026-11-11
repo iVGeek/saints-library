@@ -5,7 +5,7 @@ summary: >-
   Born to the nobility, the family of the counts of Gueda. Mercedarian friar. Served as the Master General of the
   Mercedarians. He helped broker peace between forces loyal to the Guelphs and Ghibellines, and was so successful that
   Pope Alexander IV granted privileges to the Order i
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Guglielmo-of-Florence.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Guglielmo-of-Florence.jpg
 searchAliases:
   - Guglielmo da Firenze
   - Guglielmo Novelli

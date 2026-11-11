@@ -2,7 +2,7 @@
 name: Saint Irene of Egypt
 honorific: Saint
 summary: Martyr.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Irene.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Irene.jpg
 deathYear: 200
 died: beheaded c.200 in Egypt
 region: Italy

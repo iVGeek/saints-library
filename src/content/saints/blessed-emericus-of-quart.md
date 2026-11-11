@@ -5,7 +5,7 @@ summary: >-
   Born to the Italian nobility, the son of James II, lord of the region of Quart, Italy; two of his brothers also had
   lives in religion. Emericus studied theology in his youth, and earned a doctorate. He then lived as a hermit,
   dedicated to prayer and contemplation in an area now k
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Emericus-of-Quart.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Emericus-of-Quart.jpg
 searchAliases:
   - Émeric
   - Emerico

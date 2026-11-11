@@ -5,7 +5,7 @@ summary: >-
   Steward and servant of an Alexandrian magistrate in Roman imperial Egypt. During the persecutions of Decius,
   Ischyrion's employer demanded that he renounce Christianity and sacrifice to pagan gods. When Ischyrion refused, the
   magistrate ordered him beaten and martyred.
-image: http://catholicsaints.info/wp-content/uploads/img-Pictorial-Saint-Ischyrion.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Pictorial-Saint-Ischyrion.jpg
 searchAliases:
   - Ischirion
   - Ischirione

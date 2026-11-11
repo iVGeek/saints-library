@@ -5,7 +5,7 @@ summary: >-
   Born to the Tonkinese nobility. Studied in the Philippines. Joined the Dominicans in 1753, making his solemn
   profession in 1754. Ordained in 1758. Returned to Tonkin in January 1759 where he served as missionary and evangelist.
   Imprisoned for preaching Christianity, he preached t
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Vincent-Liêm.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Vincent-Liêm.jpg
 searchAliases:
   - Vincent Liêm Quang Lê
   - Vinh-son Le Quang Liem

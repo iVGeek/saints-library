@@ -5,7 +5,7 @@ summary: >-
   Soldier. Martyr. No other reliable information has survived. An apparition of Phanurius was reported on the island of
   Rhodes in 1500. Tradition says that he died praying for his mother; she was such a notorious sinner that he became
   known as patron of lost or impossible causes.
-image: http://catholicsaints.info/wp-content/uploads/Agios_fanourios.jpg
+image: https://catholicsaints.info/wp-content/uploads/Agios_fanourios.jpg
 searchAliases:
   - Fanourios
   - Fanourius

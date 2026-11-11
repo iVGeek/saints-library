@@ -5,7 +5,7 @@ summary: >-
   Bishop of Fiesole, Italy. Defended the rights and authority of the Church against the kings of Lombardy. When he
   refused give in to the lay authorities and put their choices in positions of power for political reasons, his
   opponents ambushed and murdered him.
-image: http://catholicsaints.info/wp-content/gallery/saint-alexander-of-fiesole/sant-alessandro-di-fiesole.jpg
+image: https://catholicsaints.info/wp-content/gallery/saint-alexander-of-fiesole/sant-alessandro-di-fiesole.jpg
 searchAliases:
   - Alessandro
 deathYear: 590

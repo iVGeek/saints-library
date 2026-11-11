@@ -2,7 +2,7 @@
 name: Saint Stratonicus
 honorific: Saint
 summary: Servant to Saint Hermylus at Singidunum (modern Belgrade). Martyred with Hermylus in the persecutions of Licinius.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Stratonicus.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Stratonicus.jpg
 searchAliases:
   - Estratonico
   - Stratonik

@@ -5,7 +5,7 @@ summary: >-
   Third of five children. Teacher in Egypt when he felt a call to religious life. Franciscan Capuchin monk, making his
   perpetual vows in 1898. Ordained in 1901, he was assigned to the Bab Idriss monastery in Beirut, Lebanon. Working
   tirelessly for the physical and moral improvement
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Khalil-Al-Haddad.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Khalil-Al-Haddad.jpg
 searchAliases:
   - Yaaqub El-Haddad
   - Jacob of Ghazir

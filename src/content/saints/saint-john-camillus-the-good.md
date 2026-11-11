@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Archbishop of Milan, Italy in the mid-7th-century, the first to live in the city for 80 years, his predecessors being
   in exile due to Arian Lombard invasion. Fought Arianism and Monothelitism.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-John-Camillus-the-Good.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-John-Camillus-the-Good.jpg
 searchAliases:
   - John Camillus
   - John the Good

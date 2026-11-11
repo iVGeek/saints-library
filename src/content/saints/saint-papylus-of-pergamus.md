@@ -2,7 +2,7 @@
 name: Saint Papylus of Pergamus
 honorific: Saint
 summary: Brother of Saint Agathonica of Pergamus. Deacon. Martyred in the persecutions of Decius.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Papylus-of-Pergamus.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Papylus-of-Pergamus.jpg
 searchAliases:
   - Papilo
 deathYear: 250

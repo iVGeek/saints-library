@@ -2,7 +2,7 @@
 name: Venerable Luisa Ferrari
 honorific: Venerable
 summary: Founded the Institute of the Franciscan Missionary Sisters of the Incarnate Word.
-image: http://catholicsaints.info/wp-content/uploads/img-Venerable-Luisa-Ferrari.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Luisa-Ferrari.jpg
 searchAliases:
   - Mother Giovanna Francesca of the Holy Spirit
 birthYear: 1888

@@ -5,7 +5,7 @@ summary: >-
   Member of the Carmelite Sisters of Charity, beginning novitiate on 21 April 1900. Humble and very quiet, she served as
   a teacher in the Spanish cities of Manresa, Denia and Oliva, and then at the orphange of Cullera. Martyred in the
   Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Teresa.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Teresa.jpg
 searchAliases:
   - Sister Teresa of the Good Shepherdess
 birthYear: 1881

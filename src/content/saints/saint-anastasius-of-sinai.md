@@ -5,7 +5,7 @@ summary: >-
   May have studied medicine as he seemed to have a greater knowledge of the subject than most people. Monk at Saint
   Catherine's Monastery on Mount Sinai. Travelled to Damascus, Syria, and Alexandria, Egypt. Defended the faith in
   Chalcedon, urged Christians to keep their faith in th
-image: http://catholicsaints.info/wp-content/uploads/Anastasius-of-Sinai.jpg
+image: https://catholicsaints.info/wp-content/uploads/Anastasius-of-Sinai.jpg
 searchAliases:
   - Anastasius Sinaita
   - Anastasius the Sinaite

@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Baptized at the age of one day. Joined the Salesians of Don Bosco in Carabanchel Alto, Madrid, Spain on 5 January
   1906. Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Joseph-Maria-Celaya-Badiola.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Joseph-Maria-Celaya-Badiola.jpg
 birthYear: 1887
 deathYear: 1936
 born: 24 February 1887 in Azcoitia, Guipúzcoa, Spain

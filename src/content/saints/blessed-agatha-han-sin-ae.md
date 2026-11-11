@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Lay woman. Convert to Christianity. Organized catechism classes for other working glass young women. martyr in the
   apostolic vicariate of Korea.
-image: http://catholicsaints.info/wp-content/uploads/img-Maryrs-of-Korea.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Maryrs-of-Korea.jpg
 deathYear: 1801
 born: Boryeong, Chungcheong-do, South Korea
 died: 2 July 1801 at the Small West Gate, Seoul, South Korea

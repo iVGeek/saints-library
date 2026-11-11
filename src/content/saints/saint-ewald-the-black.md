@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Priest. Studied in Ireland. Knew Saint Willibrord of Echternach. Missionary to Saxony with Saint Ewald the Fair c.690.
   Tortured and murdered by pagan Saxons who feared to give up the old religion. Martyr.
-image: http://catholicsaints.info/wp-content/uploads/Ewalde_scan_dark.jpg
+image: https://catholicsaints.info/wp-content/uploads/Ewalde_scan_dark.jpg
 searchAliases:
   - Ewald the Dark
   - Hewald

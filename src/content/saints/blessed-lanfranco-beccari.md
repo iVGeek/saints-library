@@ -5,7 +5,7 @@ summary: >-
   Born to the Italian nobility. Chosen bishop of Pavia, Italy by Pope Alexander III in 1159. Known as a pious and
   charitable shepherd of his people. Had to fight civil authorities who wanted to seize Church property, and worked to
   recover property that had already been seized. When
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Lanfranco-Beccari.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Lanfranco-Beccari.jpg
 searchAliases:
   - Lanfranc
 birthYear: 1124

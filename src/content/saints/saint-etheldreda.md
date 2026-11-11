@@ -5,7 +5,7 @@ summary: >-
   Sister of Saint Jurmin. Relative of King Anna of East Anglia, England. Princess. Widowed after three years marriage;
   rumor had it that the marriage was never consumated as Etheldrda had taken a vow of perpetual virginity. She married
   again for political reasons. Her new husband k
-image: http://catholicsaints.info/wp-content/gallery/saint-etheldreda/saint-etheldreda-00.jpg
+image: https://catholicsaints.info/wp-content/gallery/saint-etheldreda/saint-etheldreda-00.jpg
 searchAliases:
   - Æðelþryð
   - Æthelthryth

@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Augustinian at Briel. Spiritual director of and confessor to a community of Augustinian nuns at Gorkum, Netherlands.
   One of the Gorkum Martyrs.
-image: http://catholicsaints.info/wp-content/uploads/Martyrs_de_Gorkum.jpg
+image: https://catholicsaints.info/wp-content/uploads/Martyrs_de_Gorkum.jpg
 searchAliases:
   - Jan Lenaerts
   - Joannes Lenaerts

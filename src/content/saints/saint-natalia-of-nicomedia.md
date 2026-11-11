@@ -5,7 +5,7 @@ summary: >-
   Christian woman married to a non-Christian Nicomedian imperial officer named Adrian. Her husband was so impressed by
   Christians persecuted by Diocletian that he openly declared he was a Christian, though he hadn't even been baptized;
   he was immediately arrested. Natalia visited h
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Natalie-of-Nicomedia.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Natalie-of-Nicomedia.jpg
 deathYear: 311
 born: 3rd century
 died: 1 December 311 at Argyropolis of natural causes

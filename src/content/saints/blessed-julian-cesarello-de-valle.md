@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Born to the nobility. Joined the Franciscans as a teenager. Priest. Noted preacher throughout the region. Known for
   his austere lifestyle, strict devotion to the Franciscan rule, and charity to the poor.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Julian-Cesarello-de-Valle.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Julian-Cesarello-de-Valle.jpg
 deathYear: 1349
 born: late 13th century at Valle, Istria, Venetian Republic (in modern Croatia)
 died: c.1349 at Valle, Istria, Venetian Republic (in modern Croatia) of natural causes

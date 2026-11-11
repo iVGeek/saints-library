@@ -5,7 +5,7 @@ summary: >-
   Grew up in the household of Saint Bosa of York, and became his spiritual student, aide, and travelling companion.
   Benedictine monk. Close friend of and chaplain to Saint Wilfrid, and accompanied him on trips to the continent. Friend
   of the Venerable Bede, who dedicated some of hi
-image: http://catholicsaints.info/wp-content/uploads/img-Cross-of-Acca.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Cross-of-Acca.jpg
 searchAliases:
   - Accas
   - Actas

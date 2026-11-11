@@ -2,7 +2,7 @@
 name: Saint Florentius of Strasbourg
 honorific: Saint
 summary: Immigrated to Alsace (in modern France), and built a monastery at Haselac. Bishop of Strasbourg, France in 678.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Florentius-of-Strasbourg.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Florentius-of-Strasbourg.jpg
 searchAliases:
   - Florent
 deathYear: 693

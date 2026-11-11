@@ -5,7 +5,7 @@ summary: >-
   The son of Giovanni Battista Ferro, a shoemaker, and Carlotta Borio, Giovanni studied in Milan, Turin and Rome, Italy.
   He joined the Order of Regular Clerics of Somasca on 5 August 1912, and made his solemn profession on 14 March 1924 in
   Genoa, Italy. Ordained a priest on 11 Apri
-image: http://catholicsaints.info/wp-content/uploads/img-Venerable-Giovanni-Vittorio-Ferro.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Giovanni-Vittorio-Ferro.jpg
 birthYear: 1901
 deathYear: 1992
 born: 13 November 1901 in Costigliole d'Asti, Italy

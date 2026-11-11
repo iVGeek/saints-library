@@ -5,7 +5,7 @@ summary: >-
   Nephew of Pope Alexander II. Bishop of Lucca, Italy in 1073. Due to a dispute over imperial investiture, Anselm
   initially refused to accept the regalia of his office from Emperor Henry IV, but later gave in and accepted. He
   retired to lived as a Benedictine monk in a Cluniac mona
-image: http://catholicsaints.info/wp-content/uploads/Anslem-the-Young-of-Lucca.jpg
+image: https://catholicsaints.info/wp-content/uploads/Anslem-the-Young-of-Lucca.jpg
 searchAliases:
   - Anselm II
 birthYear: 1036

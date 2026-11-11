@@ -5,7 +5,7 @@ summary: >-
   Born to the French nobility. Franciscan at age ten. Priest. Bishop of P&eacute;rigord, France in 1437. In 1452 he
   authored a report vindicating Saint Joan of Arc. Archbishop of Tours, France in 1468. Cardinal in 1483. Confessor to
   King Louis XI. Defended the rights of the Church
-image: http://catholicsaints.info/wp-content/uploads/Elias-of-Bourdeilles.jpg
+image: https://catholicsaints.info/wp-content/uploads/Elias-of-Bourdeilles.jpg
 searchAliases:
   - Elie
   - Hélie

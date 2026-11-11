@@ -2,7 +2,7 @@
 name: Blessed Giovanni Battista Mazzucconi
 honorific: Blessed
 summary: Priest. Member of the Pontifical Institute for Foreign Missions. Missionary to Papua New Guinea. Martyr.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Giovanni-Battista-Mazzucconi.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Giovanni-Battista-Mazzucconi.jpg
 searchAliases:
   - John Mazzucconi
   - Johannes Baptiste Mazzucconi

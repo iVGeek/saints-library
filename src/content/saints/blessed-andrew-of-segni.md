@@ -5,7 +5,7 @@ summary: >-
   Member of the royal family of Anagni, Italy. Nephew of Pope Alexander IV. Franciscan lay-brother. Hermit in the
   Apennines mountains in Italy. Known as a mystic, he was routinely visited and attacked by demons his whole life. Pope
   Boniface VIII wished to make him a cardinal, but A
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Andrew-of-Segni.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Andrew-of-Segni.jpg
 searchAliases:
   - Andrew of Conti
   - Andrew of Anagni

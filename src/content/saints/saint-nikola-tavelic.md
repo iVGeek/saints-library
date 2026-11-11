@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Franciscan friar. Priest. Missionary to Bosnia for 12 years; reports of the day say that the friars brought 50,000 to
   Christianity. Missionary to Palestine in 1384. Martyred by the Muslim authorities.
-image: http://catholicsaints.info/wp-content/uploads/Nikola-Tavelic.jpg
+image: https://catholicsaints.info/wp-content/uploads/Nikola-Tavelic.jpg
 searchAliases:
   - Nikola Tavigli
   - Nicholas….

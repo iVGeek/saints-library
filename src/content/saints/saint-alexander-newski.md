@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Grand Duke of Novgorod and Kiev. He defeated the Swedes in battle on the River Neva; from that he derived his surname
   of Newski (Nevski). Defended his land against invading Tatars. Confessor of the faith.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Alexander-Newski.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Alexander-Newski.jpg
 searchAliases:
   - Alexander Nevski
   - Alexander Nevsky

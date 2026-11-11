@@ -2,7 +2,7 @@
 name: Blessed Mancius of Saint Thomas
 honorific: Blessed
 summary: Dominican friar. Martyr.
-image: http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Japan.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Japan.jpg
 searchAliases:
   - Mancius Shibata
 birthYear: 1600

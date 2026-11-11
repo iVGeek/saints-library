@@ -2,7 +2,7 @@
 name: Blessed Alfonso Lopez
 honorific: Blessed
 summary: Friar Minor Conventual priest. Martyred with five companions during the persecutions of the Second Spanish Republic.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Alfonso-Lopez.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Alfonso-Lopez.jpg
 searchAliases:
   - Federico López y López
 birthYear: 1878

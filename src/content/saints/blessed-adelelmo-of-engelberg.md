@@ -5,7 +5,7 @@ summary: >-
   Benedictine monk at the Saint Blaise of Hirsau monastery in the Black Forest. He led several brother monks to the new
   abbey of Engelberg nell'Unterwalden in Switzerland; he served there as its first prior and abbot. Spiritual teacher of
   the founder, Blessed Conrad of Sellenburen.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Adelelmo-of-Engelberg.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Adelelmo-of-Engelberg.jpg
 searchAliases:
   - Adelelmus
   - Adelhelm

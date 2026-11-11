@@ -5,7 +5,7 @@ summary: >-
   Dominican. Friend of Saint Dominic de Guzman. Chief assistant to the inquisitor Peter Seila when he was investigation
   the Albigensians. Basing their operations in a farmhouse outside Avignonet, France, he and his brother missioners
   worked against heresy. Murdered by Albigensian h
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-William-Arnaud.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-William-Arnaud.jpg
 searchAliases:
   - William Arnaldi
 deathYear: 1242

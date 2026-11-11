@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Bishop of Milan, Italy in 423. Attended the Council of Ephesus. Fought the Nestorian heresy that denied that Mary was
   the Mother of God.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Martinian-of-Milan.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Martinian-of-Milan.jpg
 searchAliases:
   - Maternian
   - Matinian

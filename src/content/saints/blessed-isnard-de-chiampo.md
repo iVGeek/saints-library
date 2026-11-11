@@ -5,7 +5,7 @@ summary: >-
   Dominican friar, receiving the cowl from Saint Dominic de Guzman in 1219. Priest. Founder and first prior of the
   friary at Pavia, Italy. Though he lived the life of a friar, he was a fat friar, for which he was mocked and ridiculed
   when he travelled to preach.
-image: http://catholicsaints.info/wp-content/uploads/Isnardo-of-Chiampo.jpg
+image: https://catholicsaints.info/wp-content/uploads/Isnardo-of-Chiampo.jpg
 searchAliases:
   - Isnard of Vicenza
   - Isnardo

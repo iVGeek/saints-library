@@ -5,7 +5,7 @@ summary: >-
   Born to pious parents, the daughter of Joaquín Riquelme y Gómez and María Emilia Zayas de la Vega. She received a good
   education, studying painting, singing, piano and languages. At age 7, Maria received a vision of the Blessed Virgin
   Mary with the Child Jesus; she made a vow to
-image: http://catholicsaints.info/wp-content/uploads/img-Venerable-María-Emilia-Riquelme-y-Zayas.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Venerable-María-Emilia-Riquelme-y-Zayas.jpg
 birthYear: 1847
 deathYear: 1940
 born: 5 August 1847 in Granada, Spain

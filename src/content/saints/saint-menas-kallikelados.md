@@ -5,7 +5,7 @@ summary: >-
   May have been a camel driver in civilian life. Soldier in the imperial Roman army, serving under Firmilian. During the
   anti-Christian persecutions of Diocletian and Maximian, Menas left the army for his own safety, and so he would not in
   any way support such a regime. He retired
-image: http://catholicsaints.info/wp-content/gallery/saint-menas-kallikelados/saint-menas.jpg
+image: https://catholicsaints.info/wp-content/gallery/saint-menas-kallikelados/saint-menas.jpg
 searchAliases:
   - Aba Mina
   - Menas of Egypt

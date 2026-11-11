@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Deacon at Singidunum (modern Belgrade, Serbia). Martyred with his servant, Saint Stratonicus, in the persecutions of
   Licinius.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Hermylus.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Hermylus.jpg
 searchAliases:
   - Ermil
   - Ermilio

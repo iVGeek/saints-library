@@ -5,7 +5,7 @@ summary: >-
   Young layman, born to the wealthy nobility in the apostolic vicariate of Korea. Having become interested in
   Christianity, he met with Saint Siméon-François Berneux, and Saint Marcus Chong Ui-Bae served as his catechist.
   Convert. His family was strongly opposed to Christianity, an
-image: http://catholicsaints.info/wp-content/uploads/img-Maryrs-of-Korea.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Maryrs-of-Korea.jpg
 searchAliases:
   - Alejo U Se-yong
   - Alessio U Se-yong

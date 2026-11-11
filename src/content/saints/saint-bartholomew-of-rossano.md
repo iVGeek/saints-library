@@ -5,7 +5,7 @@ summary: >-
   Son of Greek immigrants to Italy. Spiritual student of Saint Nilus of Rossano. Monk at the monastery of Grottaferrata,
   Frascati, Italy, a house with Greek Rites and Basilian Rule. Abbot at Grottaferrata for forty years, completing the
   construction and other work started by Nilus,
-image: http://catholicsaints.info/wp-content/uploads/img-San-Bartolomeo-da-Rossano.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-San-Bartolomeo-da-Rossano.jpg
 searchAliases:
   - Bartholomew of Grottaferrata
   - Bartholomew The Younger

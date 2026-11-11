@@ -2,7 +2,7 @@
 name: Blessed Caterina Margenat Roura
 honorific: Blessed
 summary: Nun. Member of the Sisters of Saint Joseph. Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Caterina-Margenat-Roura.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Caterina-Margenat-Roura.jpg
 searchAliases:
   - Facunda
 birthYear: 1876

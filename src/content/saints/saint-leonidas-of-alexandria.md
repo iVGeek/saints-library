@@ -5,7 +5,7 @@ summary: >-
   Wealthy and pious layman. Father of seven sons, the eldest of whom was the philosopher Origen, whom he raised and
   taught. Philosopher and rhetorician. Imprisoned and martyred by command of Laertus, Governor of Egypt, during the
   persecutions of emperor Septimius Severus. All his p
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Leonidas-of-Alexandria.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Leonidas-of-Alexandria.jpg
 searchAliases:
   - Leonides
 deathYear: 202

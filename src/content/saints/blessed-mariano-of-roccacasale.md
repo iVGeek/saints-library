@@ -5,7 +5,7 @@ summary: >-
   Born to a poor but pious farm family, he worked as a shepherd on Mount Morrone until the age of 23. Joined the
   Franciscans in 1802 at the convent of Saint Nicholas in Arischia, Italy as a lay brother; he served as cook, gardener,
   woodworker and alms beggar for 12 years. Friar Min
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Mariano-of-Roccacasale.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Mariano-of-Roccacasale.jpg
 searchAliases:
   - Cicchetti (childhood nickname; means “snack size” or “little bit”)
   - Domenico di Nicolantonio

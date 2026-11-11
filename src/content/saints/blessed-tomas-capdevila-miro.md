@@ -2,7 +2,7 @@
 name: Blessed Tomàs Capdevila Miró
 honorific: Blessed
 summary: One of the Martyred Claretians of Barbastro killed in the persecutions of the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Tomàs-Capdevila-Miró.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Tomàs-Capdevila-Miró.jpg
 birthYear: 1914
 deathYear: 1936
 born: 5 May 1914 in Maldá, Lleida, Spain

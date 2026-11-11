@@ -2,7 +2,7 @@
 name: Saint Tôma Ðinh Viet Du
 honorific: Venerable
 summary: Dominican priest. Tortured and martyred in the persecutions of Minh Mang.
-image: http://catholicsaints.info/wp-content/gallery/martyrs-of-vietnam/martyrs-of-vietnam-01.jpg
+image: https://catholicsaints.info/wp-content/gallery/martyrs-of-vietnam/martyrs-of-vietnam-01.jpg
 searchAliases:
   - Thomas Du
 birthYear: 1783

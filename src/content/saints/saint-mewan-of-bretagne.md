@@ -5,7 +5,7 @@ summary: >-
   Followed Saint Samson from Wales to Brittany in the sixth century, accompanied by his godson Saint Austell of
   Cornwall. Evangelized the Broceliande district. Founded the monastery at Parmpont, Brittany, France that was later
   named for him.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Mewan-of-Bretagne-1.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Mewan-of-Bretagne-1.jpg
 searchAliases:
   - Mewan of Brittany
   - Mewan of Cornwall

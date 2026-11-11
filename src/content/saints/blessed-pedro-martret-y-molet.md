@@ -5,7 +5,7 @@ summary: >-
   The son of Biagio Martret and Teresa Moles, Pedro entered the the junior seminary of the diocese of Urgell, Spain at
   age eleven. He was ordained a priest on 6 June 1925, and served as coadjutor in Puigcerda, then Organá, then Trem;
   treasurer of the church in Pobla di Segur in 193
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Pedro-Martret-y-Molet.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Pedro-Martret-y-Molet.jpg
 searchAliases:
   - Pere Martret y Moles
 birthYear: 1901

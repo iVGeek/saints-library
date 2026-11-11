@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Breton monk. Priest. Bishop of Vannes, France. At age 87, he retired from his see to live his remaining days as a
   hermit. Known for healing by prayer.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Gobrain-of-Vannes.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Gobrain-of-Vannes.jpg
 searchAliases:
   - Gobrien
 deathYear: 725

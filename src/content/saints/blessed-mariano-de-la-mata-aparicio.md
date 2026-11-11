@@ -5,7 +5,7 @@ summary: >-
   One of eight children born to Martina and Manuel de la Mata Aparicio. Studied in Valladolid, Spain. Joined the
   Augustinians on 9 September 1921, taking his solemn vows on 23 January 1927. Studied in Pisuerga, Spain and then at
   the monastery of Saint Maria La Vid in Burgos, Spain.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Mariano-de-la-Mata-Aparicio.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Mariano-de-la-Mata-Aparicio.jpg
 birthYear: 1905
 deathYear: 1983
 born: 31 December 1905 in La Puebla de Valdavia, Palencia, Spain

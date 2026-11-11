@@ -5,7 +5,7 @@ summary: >-
   Dominican. Missionary to Manila, Philippines. Priest. Missionary to Viet Nam in 1828. Vicar Apostolic of Eastern
   Tonkin, Viet Nam and titular bishop of Miletopolis on 2 August 1839. Bishop. Worked with Saint Joseph Khang. Martyred
   with Saint Valentin Faustino Berri Ochoa.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Jerome-Hermosilla.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Jerome-Hermosilla.jpg
 searchAliases:
   - Jer&oacute;nimo Hermosilla
   - Jer&oacute;nimo Hermosilla Aransáez

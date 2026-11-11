@@ -2,7 +2,7 @@
 name: Blessed Lotario Arnari
 honorific: Blessed
 summary: Mercedarian friar.
-image: http://catholicsaints.info/wp-content/uploads/img-Beati-Lotario-Arnari-e-Antonio-Taglia.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Beati-Lotario-Arnari-e-Antonio-Taglia.jpg
 died: convent of Santa Maria in Toulouse, France of natural causes
 deathPlace: Francenatural causes
 region: France

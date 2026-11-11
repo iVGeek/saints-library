@@ -5,7 +5,7 @@ summary: >-
   Educated at the Benedictine monastery of Stavelot-Malmédy (in modern Belgium) where he became monk and later abbot.
   Bishop of Cologne, Austrasia (in modern Germany) c.745. Noted for his austerity of life and his preaching. When King
   Pepin was dying, Agigulf counseled against nami
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Agigulf.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Agigulf.jpg
 searchAliases:
   - Agigulfus
   - Agilolfo

@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Widow of Spoleto, Italy. Gave Christian burial to martyrs in the area, including Saint Gregory of Spoleto. Martyred in
   the persecutions of Diocletian.
-image: http://catholicsaints.info/wp-content/gallery/saint-abundantia-the-martyr/santa-abbondanza-di-spoleto.jpg
+image: https://catholicsaints.info/wp-content/gallery/saint-abundantia-the-martyr/santa-abbondanza-di-spoleto.jpg
 searchAliases:
   - Abbondanza di Spoleto
   - Abondance

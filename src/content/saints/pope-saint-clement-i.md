@@ -5,7 +5,7 @@ summary: >-
   Convert, brought to Christianity either by Saint Peter or by Saint Paul. One of the Seventy Apostles. Consecrated as a
   bishop by Saint Peter the Apostle. Mentioned in Philippians 4:3. Fourth Pope. Apostolic Father. The Basilica of Saint
   Clement in Rome, Italy, one of the earliest
-image: http://catholicsaints.info/wp-content/uploads/img-Pope-Saint-Clement-I1.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Pope-Saint-Clement-I1.jpg
 searchAliases:
   - Clement of Rome
   - Clemens Romanus

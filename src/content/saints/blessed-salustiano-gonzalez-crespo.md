@@ -2,7 +2,7 @@
 name: Blessed Salustiano González Crespo
 honorific: Blessed
 summary: Vincentian monk. Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Salustiano-González-Crespo.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Salustiano-González-Crespo.jpg
 birthYear: 1871
 deathYear: 1934
 born: 1 May 1871 in Tapia de la Ribera, León, Spain

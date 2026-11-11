@@ -5,7 +5,7 @@ summary: >-
   Raised in a pious family; one brother became a priest, and was later curator for Theophane's writings, and another was
   the bishop of Poitiers, France. Studied at the College of Doue-la-Fontaine, Montmorillon, Poitiers, and the Paris
   Seminary for Foreign Missions. Ordained on 5 Ju
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Jean-Théophane-Vénard.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Jean-Théophane-Vénard.jpg
 birthYear: 1829
 deathYear: 1861
 born: 21 November 1829 at Saint-Loup, diocese of Poitiers, France

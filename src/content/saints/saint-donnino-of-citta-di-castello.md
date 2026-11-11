@@ -6,7 +6,7 @@ summary: >-
   Late 6th-century layman hermit who assisted Church authorities, including Saint Florido and Saint Amanzio, re-bulid
   Città di Castello, Italy and revitalize the faith there following the Greek-Gothic war. Following the death of Saint
   Amanzio, Donnino retired to spend the rest of h
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Donnino-of-Città-di-Castello.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Donnino-of-Città-di-Castello.jpg
 searchAliases:
   - Donino
 deathYear: 610

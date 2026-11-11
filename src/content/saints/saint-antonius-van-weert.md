@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Franciscan priest. Martyred by Calvinists for “papism” and his belief in the Real Presence in the Eucharist. One of
   the Martyrs of Gorkum.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Antonius-van-Weert.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Antonius-van-Weert.jpg
 searchAliases:
   - Antoon
 birthYear: 1523

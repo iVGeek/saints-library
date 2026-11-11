@@ -5,7 +5,7 @@ summary: >-
   Lifelong lay woman in the archdiocese of Valencia, Spain. Married to Carlo del Río Díez de Bulmesnella in 1905; a
   widower, he brought three children to the marriage, and the couple had four more. Widowed on 27 May 1927, Sofía joined
   Catholic Action and dedicated herself to servic
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Sofía-Ximénez-y-Ximénez-del-Río.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Sofía-Ximénez-y-Ximénez-del-Río.jpg
 birthYear: 1876
 deathYear: 1936
 born: 11 October 1876 in Valencia, Spain

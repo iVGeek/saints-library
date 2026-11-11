@@ -2,7 +2,7 @@
 name: Saint Candida of Whitchurch
 honorific: Saint
 summary: Martyred by pagan Danes. There is a holy well devoted to her at nearby Morcombe Lake.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Candida-of-Whitchurch.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Candida-of-Whitchurch.jpg
 searchAliases:
   - Gwen
   - Hwitn

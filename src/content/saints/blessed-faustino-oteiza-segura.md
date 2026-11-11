@@ -5,7 +5,7 @@ summary: >-
   Son of Isidoro Oteiza and Angela Segura. Baptized at the age of one day. Studied at the Piarist College of Estella,
   Spain. A bout of pneumonia when he was 14 was so sever that he was given last rites, but managed to recover. Entered
   the Piarist novitiate on 9 November 1905 at Per
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Faustino-Oteiza-Segura.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Faustino-Oteiza-Segura.jpg
 searchAliases:
   - Faustino of Our Lady of Sorrows
 birthYear: 1890

@@ -2,7 +2,7 @@
 name: Saint Eufrasia of the Sacred Heart of Jesus Eluvathingal
 honorific: Venerable
 summary: Nun in the Congregation of the Mother of Carmel, taking the name Eufrasia of the Sacred Heart of Jesus.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Eufrasia-of-the-Sacred-Heart-of-Jesus-Eluvathingal.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Eufrasia-of-the-Sacred-Heart-of-Jesus-Eluvathingal.jpg
 searchAliases:
   - Euphrasia of the Sacred Heart
   - Rosa Eluvathingal

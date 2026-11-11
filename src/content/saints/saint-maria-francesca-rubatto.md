@@ -5,7 +5,7 @@ summary: >-
   Anna Maria lost her father at age four. In her teens she received a marriage offer from a local notary, but turned it
   down and made a vow of virginity. Her mother died when Maria as 19, and the girl moved to Turin, Italy where he became
   the friend of Marianna Scoffone, an Italian
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Maria-Francesca-Rubatto1.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Maria-Francesca-Rubatto1.jpg
 searchAliases:
   - Anna Maria Rubatto
   - Madre Rubatto

@@ -2,7 +2,7 @@
 name: Blessed Hermenegildo Iza Aregita
 honorific: Blessed
 summary: Trinitarian priest. Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Hermenegildo-Iza-y-Aregita.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Hermenegildo-Iza-y-Aregita.jpg
 searchAliases:
   - Hermenegildo of the Assumption
 birthYear: 1879

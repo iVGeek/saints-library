@@ -5,7 +5,7 @@ summary: >-
   Eldest of seven children born to Moses and Rosa Malaguzzi; uncle and god-father of Blessed Mose Tovini. Studied law at
   the University of Padua, and worked at a firm in Lovere, Italy. Teacher and deputy director of a local college. Moved
   to diocese of Brescia, Italy in 1864. Mayor
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Giuseppe-Antonio-Tovini.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Giuseppe-Antonio-Tovini.jpg
 birthYear: 1841
 deathYear: 1897
 born: 14 March 1841 in Cividate Camuno, Brescia, Italy

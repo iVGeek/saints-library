@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   First bishop of Châlons-sur-Marne, France, serving in the latter 3rd century. Saint Gregory of Tours wrote about
   Memmius as a miracle worker.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Memmius-of-Châlons-sur-Marne.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Memmius-of-Châlons-sur-Marne.jpg
 searchAliases:
   - Apostle of  of Châlons-sur-Marne
   - Meinge

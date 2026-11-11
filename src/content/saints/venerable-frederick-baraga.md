@@ -5,7 +5,7 @@ summary: >-
   Studied at Ljublajana, Slovenia and Vienna, Austria. Ordained a priest on 21 September 1823. Missionary in the area of
   modern Michigan, arriving in North America in 1830. Chosen Vicar Apostolic of Upper Michigan and Titular Bishop of
   Amyzon on 29 July 1853. Appointed Bishop of Ma
-image: http://catholicsaints.info/wp-content/uploads/img-Venerable-Irenej-Friderik-Baraga.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Irenej-Friderik-Baraga.jpg
 birthYear: 1797
 deathYear: 1868
 born: 28 June 1797 in Knežja Vas, Trebnje, Slovenia

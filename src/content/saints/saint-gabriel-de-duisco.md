@@ -2,7 +2,7 @@
 name: Saint Gabriel de Duisco
 honorific: Saint
 summary: Convert, brought to the faith by Saint Gundisalvus Garcia. Franciscan tertiary. Catechist. Martyr.
-image: http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Nagasaki.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Nagasaki.jpg
 birthYear: 1578
 deathYear: 1597
 born: c.1578 at Ise, Japan

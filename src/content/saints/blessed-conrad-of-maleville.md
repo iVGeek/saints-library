@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Born to the French nobility. Mercedarian knight. In 1300 he ransomed 228 Christians enslaved in Tunis, Tunisia by
   Muslim raiders. Returning to France, he was sent to Algiers, Algeria where he ransomed 218 more.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Conrad-of-Maleville.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Conrad-of-Maleville.jpg
 searchAliases:
   - Corrado
 deathYear: 1310

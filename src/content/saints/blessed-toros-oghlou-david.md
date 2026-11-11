@@ -2,7 +2,7 @@
 name: Blessed Toros Oghlou David
 honorific: Blessed
 summary: Franciscan. One of the Martyrs of Armenia.
-image: http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Armenia.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Armenia.jpg
 deathYear: 1895
 born: Armenian
 died: 22 November 1895 in Mujuk-Dersi, Armenia (modern Turkey)

@@ -5,7 +5,7 @@ summary: >-
   Born to the nobility and orphaned young. Studied at Hameln, Germany and in the cathedral school of Paderborn, Germany.
   Canon at Bremen, Germany. Teacher and principal of the school at Bremen. Spiritual student of Saint Norbert of
   Magdeburg who ordained him. Missionary to the Wagr
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Vicelin.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Vicelin.jpg
 searchAliases:
   - Apostle of Holstein
   - Apostle of Obodriten

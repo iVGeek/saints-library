@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Born to the famous de Medici family. At around age 30, he retired from the world to live as a hermit in the Alpine
   forests.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Rolando-de-Medici.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Rolando-de-Medici.jpg
 searchAliases:
   - Orlando
 birthYear: 1330

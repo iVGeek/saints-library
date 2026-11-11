@@ -5,7 +5,7 @@ summary: >-
   Co-adjutor Jesuit lay brother. Preached against Protestantism at Aubenas in the Cevennes, and publicly argued theology
   with Calvinists. A band of Huguenot raiders dragged him and James Sales before a self-appointed court which publicly
   argued theology with them, lost the argument
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-William-Saultemouche.gif
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-William-Saultemouche.gif
 searchAliases:
   - Guglielmo Saultemouche
   - Guillaume Saltemouche

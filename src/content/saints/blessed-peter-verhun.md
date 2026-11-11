@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Greek Catholic. Doctor of philosophy. Ordained on 30 October 1927. Priest for Ukrainian Catholics at Berlin, Germany.
   Apostolic Visitor to Germany. Arrested for his faith in June 1945, and exiled to Siberia. Martyr.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Peter-Verhun.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Peter-Verhun.jpg
 searchAliases:
   - Petro Verhun
 birthYear: 1890

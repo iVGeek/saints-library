@@ -5,7 +5,7 @@ summary: >-
   Studied theology at the Universidad Central de Madrid. Ordained in the diocese of Plasencia, Spain in April 1865.
   Parish priest. Taught in the seminary. Canon penitentiary. Spiritual director of the Augustinian Recollect Sisters of
   Serradilla. Founded the Josefinas de la Santísim
-image: http://catholicsaints.info/wp-content/uploads/Eladio-Mozas-Santamera.jpg
+image: https://catholicsaints.info/wp-content/uploads/Eladio-Mozas-Santamera.jpg
 birthYear: 1837
 deathYear: 1897
 born: 18 February 1837 in Miedes de Atienza, Guadalajara, Spain

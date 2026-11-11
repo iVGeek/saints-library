@@ -5,7 +5,7 @@ summary: >-
   Son of Saint Nerses the Great, Catholicos of Armenia. Studied at Constantinople. Married layman for several years.
   Widower. Monk. Catholicos of Armenia in 390, succeeding his father to the office. He secured recognition from
   Constantinople of the status, rights and independence o
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Isaac-the-Great.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Isaac-the-Great.jpg
 searchAliases:
   - Sahak
 birthYear: 350

@@ -2,7 +2,7 @@
 name: Blessed Enrique López y López
 honorific: Blessed
 summary: Joined the Hospitallers of Saint John of God in 1916. Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Enrique-Lopez-y-Lopez.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Enrique-Lopez-y-Lopez.jpg
 searchAliases:
   - Brother Cecilio
 birthYear: 1901

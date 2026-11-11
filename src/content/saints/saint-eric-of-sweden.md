@@ -5,7 +5,7 @@ summary: >-
   King of Sweden. Defended his country from Finnish invasions. Codified Swedish law under Gospel principles. Used his
   throne to spread the Gospel through his kingdom. Built the first large church in Sweden at Old Uppsala. Murdered by
   conspiratorial, anti-Christian Swedish nobles; m
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Eric-of-Sweden.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Eric-of-Sweden.jpg
 searchAliases:
   - Henry of Sweden
   - Eric The Lawgiver

@@ -2,7 +2,7 @@
 name: Saint Attilio of Trino
 honorific: Saint
 summary: Soldier. Martyr. Some records make him part of the Theban Legion, others not.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Attilio-of-Trino.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Attilio-of-Trino.jpg
 searchAliases:
   - Attilius
 deathYear: 300

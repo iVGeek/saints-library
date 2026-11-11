@@ -115,9 +115,10 @@ export const CANONIZATION_STATUSES = ['Saint', 'Blessed', 'Venerable'] as const;
 
 /** Human ordinal for a century number: 1 -> "1st", 13 -> "13th". */
 export function centuryLabel(c: number): string {
-  const s = ['th', 'st', 'nd', 'rd'];
   const v = c % 100;
-  return `${c}${s[(v - 20) % 10] ?? s[v] ?? s[0]}`;
+  if (v >= 11 && v <= 13) return `${c}th`;
+  const s = ['th', 'st', 'nd', 'rd'];
+  return `${c}${s[v % 10] ?? s[0]}`;
 }
 
 export function centuryLabels(count: number): string[] {

@@ -5,7 +5,7 @@ summary: >-
   Governor and leading citizen in the area of Autun, France. Married, and the father of Saint Tertricus of Langres.
   Great-uncle of Saint Gregory of Tours. Widower; after his wife's death, he devoted himself to God. Priest. Reluctant
   bishop of Langres, France at age 57. Though he wa
-image: http://catholicsaints.info/wp-content/gallery/pictorial-lives-of-the-saints/saint-gregory-bishop.jpg
+image: https://catholicsaints.info/wp-content/gallery/pictorial-lives-of-the-saints/saint-gregory-bishop.jpg
 deathYear: 539
 died: 539 of natural causes
 region: France

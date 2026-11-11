@@ -2,7 +2,7 @@
 name: Blessed Melchor Sánchez Pérez
 honorific: Blessed
 summary: Augustinian Recollect priest. Martyr.
-image: http://catholicsaints.info/wp-content/uploads/img-Augustinian-Martyrs-of-Japan.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Augustinian-Martyrs-of-Japan.jpg
 searchAliases:
   - Father Melchor of Saint Augustine
 birthYear: 1599

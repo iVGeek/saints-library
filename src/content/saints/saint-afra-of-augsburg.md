@@ -5,7 +5,7 @@ summary: >-
   A prostitute in Augsburg, Germany. During the Diocletian persecutions, c.303, she and her mother Hilaria hid their
   bishop from the authorities. While in hiding, he brought them to the faith, and Afra devoted herself to working with
   the poor. Eventually she was ordered to sacrific
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Afra-of-Augsburg-1.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Afra-of-Augsburg-1.jpg
 deathYear: 304
 born: latter 3rd century at Augsburg, Bavaria, Germany
 died: suffocated from smoke inhalation while being burned alive c.304 at Augsburg, Bavaria, Germany

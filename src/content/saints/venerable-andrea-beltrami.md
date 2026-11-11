@@ -2,7 +2,7 @@
 name: Venerable Andrea Beltrami
 honorific: Venerable
 summary: Salesian priest. Friend of and seminarian with Blessed August Czartoryski.
-image: http://catholicsaints.info/wp-content/uploads/img-Venerable-Andreas-Beltrami.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Andreas-Beltrami.jpg
 birthYear: 1870
 deathYear: 1897
 born: 24 June 1870 in Omegna, Verbania, Italy

@@ -2,7 +2,7 @@
 name: Saint Rosina of Wenglingen
 honorific: Saint
 summary: Young woman who consecrated herself to God. May have lived as a forest hermit. Martyr.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Rosina-of-Wenglingen.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Rosina-of-Wenglingen.jpg
 searchAliases:
   - Rofina
   - Rufina

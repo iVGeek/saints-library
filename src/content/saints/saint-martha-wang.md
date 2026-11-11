@@ -4,7 +4,7 @@ honorific: Venerable
 summary: >-
   Married lay woman in the apostolic vicariate of Guizhou, China. Widow. Carried letters from Blessed Joseph Tshang and
   Blessed John Baptist Lo to their bishop. Arrested for helping spread Christianity. Martyr.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Martha-Wang.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Martha-Wang.jpg
 searchAliases:
   - Marta Wang Louzhi
   - Martha Wang Luoshi

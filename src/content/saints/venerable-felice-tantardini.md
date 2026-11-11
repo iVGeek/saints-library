@@ -5,7 +5,7 @@ summary: >-
   The sixth of eight children in his family. Brother in the Pontifical Institute for Foreign Missions, joining in 1921.
   He worked in Burma (modern Myanmar), beginning in 1922 and serving for nearly 70 years. He travelled on horseback to
   the missions in the mountains and jungles, pr
-image: http://catholicsaints.info/wp-content/uploads/img-Venerable-Felice-Tantardini.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Felice-Tantardini.jpg
 searchAliases:
   - Blacksmith of God
 birthYear: 1898

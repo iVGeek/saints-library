@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Sister in the Carmelite Sisters of Charity, entering the novitiate on 6 December 1898. Martyred in the Spanish Civil
   War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Ascensión-Lloret-Marcos.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Ascensión-Lloret-Marcos.jpg
 searchAliases:
   - Ascensión of Saint Joseph Calasanz
   - Ascensione di San Giuseppe Calasanzio Lloret Marco

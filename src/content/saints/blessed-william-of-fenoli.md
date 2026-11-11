@@ -5,7 +5,7 @@ summary: >-
   Hermit in the Torre Mondovi region. Carthusian lay-brother at the Charterhouse of Casularum, Lombardy, Italy where he
   managed the house's external affairs. He was wholly un-learned in theology, philosophy or the ways of the world aside
   from his assigned duties, but in spiritual l
-image: http://catholicsaints.info/wp-content/uploads/William-of-Fenoli.jpg
+image: https://catholicsaints.info/wp-content/uploads/William-of-Fenoli.jpg
 searchAliases:
   - Guglielmo
   - Gulielmus

@@ -2,7 +2,7 @@
 name: Blessed Amado García Sánchez
 honorific: Blessed
 summary: Vincentian priest. Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Amado-García-Sánchez.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Amado-García-Sánchez.jpg
 birthYear: 1903
 deathYear: 1936
 born: 29 April 1903 in Moscardón, Teruel, Spain

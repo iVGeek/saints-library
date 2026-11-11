@@ -5,7 +5,7 @@ summary: >-
   Joined the Friars Minor Conventual at Nocera, Italy at age 15. Home missioner in southern Italy, serving from convents
   in Campania Aversa, Maddaloni, Amalfi, Ischia, Nocera Inferiore, Sorrento, Naples and finally, Ravello. Noted novice
   master, and known for the theological depth
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Bonaventura-of-Potenza.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Bonaventura-of-Potenza.jpg
 searchAliases:
   - Antonio Carlo Gerardo Lavanca
   - Bonaventure of Potenza

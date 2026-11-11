@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Discalced Carmelite lay sister, joining the community in 1772. One of the Carmelite Martyrs of Compiegne, killed in
   the anti-Christian persecutions of the French Revolution.
-image: http://catholicsaints.info/wp-content/uploads/img-Carmelite-Martyrs-of-Compiègne.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Carmelite-Martyrs-of-Compiègne.jpg
 searchAliases:
   - Sister Saint Martha
 birthYear: 1741

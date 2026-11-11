@@ -5,7 +5,7 @@ summary: >-
   Grandson of Saint Olga of Kiev. Son of the pagan Norman-Rus prince Svyatoslav of Kiev and his consort Malushka. Grand
   prince of Kiev. Prince of Novgorod in 970. On the death of his father in 972, he fled to Scandinavia, enlisted help
   from an uncle, and overcame Yaropolk, another
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Vladimir-I-of-Kiev.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Vladimir-I-of-Kiev.jpg
 searchAliases:
   - Svyatoy Vladimir
   - Vladimir Svyatoslavich

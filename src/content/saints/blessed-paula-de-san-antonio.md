@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Professed religious in the Sisters of the Christian Doctrine, joining in 1900, and serving as a teacher. Martyred in
   the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Martyred-Sisters-of-the-Christian-Doctrine.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Martyred-Sisters-of-the-Christian-Doctrine.jpg
 searchAliases:
   - María Gracia
 birthYear: 1869

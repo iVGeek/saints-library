@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Discalced Carmelite nun, professed in 1764. One of the Carmelite Martyrs of Compiegne, killed in the anti-Christian
   persecutions of the French Revolution.
-image: http://catholicsaints.info/wp-content/uploads/img-Carmelite-Martyrs-of-Compiègne.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Carmelite-Martyrs-of-Compiègne.jpg
 searchAliases:
   - Sister Thérèse of the Heart of Mary
 birthYear: 1742

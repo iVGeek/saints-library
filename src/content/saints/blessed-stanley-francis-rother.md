@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Graduated from Mount Saint Mary's seminary in Maryland. Priest in the archdiocese of Oklahoma City, Oklahoma. A pipe
   smoker. Missionary to Guatemala in 1968. Murdered for his work and faith.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Stanley-Francis-Rother.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Stanley-Francis-Rother.jpg
 birthYear: 1935
 deathYear: 1981
 born: 27 March 1935 in Okarche, Oklahoma

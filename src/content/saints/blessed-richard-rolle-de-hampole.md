@@ -5,7 +5,7 @@ summary: >-
   An excellent student all his life, he was educated at Oxford. Studied in Paris, France from 1320 to 1326. Returning to
   England, he lived as a hermit on his family's estate. Some family members threatened to have him committed as mentally
   ill, and he moved to the estate of his fri
-image: http://catholicsaints.info/wp-content/uploads/Richard_Rolle.jpg
+image: https://catholicsaints.info/wp-content/uploads/Richard_Rolle.jpg
 birthYear: 1300
 deathYear: 1349
 born: c.1300 at Thornton, Yorkshire, England

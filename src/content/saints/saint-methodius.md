@@ -5,7 +5,7 @@ summary: >-
   Brother of Saint Cyril. Born to the Greek nobility. Studied at the University of Constantinople, and taught philosophy
   there. Priest. Sent with Cyril by the emperor in 861 to convert the Jewish Khazars of Russia, a mission that was
   successful, and which allowed him to learn the K
-image: http://catholicsaints.info/wp-content/uploads/img-Cyril-and-Methodius.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Cyril-and-Methodius.jpg
 searchAliases:
   - Apostle of Bulgaria
   - Apostle of the Slavs

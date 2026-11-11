@@ -5,7 +5,7 @@ summary: >-
   Franciscan Capuchin friar, making his profession on 3 January 1897. Ordained a priest on 19 December 1903. Missionary
   to Colombia where he served as superior of several convents. Rector of the Seraphic Seminary of Massamagrell, Spain
   where he encouraged Eucharastic Adoration and
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-José-Ferrer-Adell.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-José-Ferrer-Adell.jpg
 searchAliases:
   - Father Joaquin of Albocácer
 birthYear: 1879

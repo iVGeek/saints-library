@@ -5,7 +5,7 @@ summary: >-
   Son of Ethelred, King of the East Angles, and Leofrana. A pious youth, he would have preferred religious life, but was
   in line for the throne. King of East Anglia for 44 years. He would have preferred to remain celibate, but agreed to
   seek the hand of Althryda (Alfrida) daughter
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Ethelbert-of-East-Anglia.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Ethelbert-of-East-Anglia.jpg
 searchAliases:
   - Aethelbert
   - Albert

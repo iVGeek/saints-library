@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Born to the Italian nobility. Mercedarian lay knight, receiving the habit from Saint Peter Nolasco. Known as an
   innocent and virtuous young man.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Guglielmo-of-Parma.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Guglielmo-of-Parma.jpg
 searchAliases:
   - William
 born: Italy

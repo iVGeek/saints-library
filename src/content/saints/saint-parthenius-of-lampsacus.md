@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Fourth-century bishop of Lampsacus in the Hellespont region of modern Turkey. Known for his preaching, evangelizing
   and his great example of Christian life that led many to the faith.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Parthenius-of-Lampsacus.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Parthenius-of-Lampsacus.jpg
 searchAliases:
   - Partenius
   - Patendo

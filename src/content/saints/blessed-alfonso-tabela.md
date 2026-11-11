@@ -2,7 +2,7 @@
 name: Blessed Alfonso Tabela
 honorific: Blessed
 summary: Mercedarian friar. Freed 50 children in Algiers who had been enslaved by Muslims.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Alfonso-Tabela.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Alfonso-Tabela.jpg
 deathYear: 1550
 born: Portugal
 died: 1550 in Lisbon, Portugal

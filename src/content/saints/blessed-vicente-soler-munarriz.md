@@ -5,7 +5,7 @@ summary: >-
   Joined the Augustinian Recollects on 15 May 1883 while studying at the seminary in Tarragona, Spain. Assigned to
   Manila in the Philippines where he was ordained on 31 May 1890. Missionary to the island of Mindoro, and then on
   Mamburao an island known as a hideout for criminals wh
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Vicente-Soler-Munárriz.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Vicente-Soler-Munárriz.jpg
 searchAliases:
   - Father Vicente of Saint Aloysius Gonzaga
 birthYear: 1867

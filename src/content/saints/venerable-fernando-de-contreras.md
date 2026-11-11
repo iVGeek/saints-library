@@ -2,7 +2,7 @@
 name: Venerable Fernando de Contreras
 honorific: Venerable
 summary: Priest in the archdiocese of Seville, Spain.
-image: http://catholicsaints.info/wp-content/uploads/img-Venerable-Fernando-de-Contreras.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Fernando-de-Contreras.jpg
 birthYear: 1470
 deathYear: 1548
 born: 1470 in Seville, Spain

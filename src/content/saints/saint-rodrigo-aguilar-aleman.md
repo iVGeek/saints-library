@@ -2,7 +2,7 @@
 name: Saint Rodrigo Aguilar Alemán
 honorific: Venerable
 summary: Parish priest in Uniòn de Tula, Mexico. Poet. Martyr.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Rodrigo-Aguilar-Alemán.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Rodrigo-Aguilar-Alemán.jpg
 birthYear: 1875
 deathYear: 1927
 born: 13 February 1875 in Sayula, Jalisco, diocese of Ciudad Guzmán, Mexico

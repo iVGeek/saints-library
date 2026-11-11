@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Soldier in the imperial Roman army of Diocletian. Convert, brought to the faith by Saint Amphibalus of Verulam whom he
   had sheltered. The first martyr in Britain, dying in the persecutions of Diocletian.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Alban-of-Britain.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Alban-of-Britain.jpg
 searchAliases:
   - Alban of Verulam
   - Albano of…

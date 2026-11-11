@@ -2,7 +2,7 @@
 name: Blessed Miquela Rul·Làn Ribot
 honorific: Blessed
 summary: Nun. Member of the Franciscan Daughters of Mercy. Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Miquela-Rul·Làn-Ribot.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Miquela-Rul·Làn-Ribot.jpg
 searchAliases:
   - Sister Miquela of the Blessed Sacrament
   - Michela Rullan Ribot

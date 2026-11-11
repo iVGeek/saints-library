@@ -5,7 +5,7 @@ summary: >-
   Lay person in the diocese of Tubar&atilde;o, Brazil. Raised in a pious family who insured that Albertina had a strong
   foundation in the faith. Baptized on 25 May 1919, Confirmed on 9 March 1925, and made her First Communion on 16 August
   1928. At age 12 she was attacked by one of
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Albertina-Berkenbrock.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Albertina-Berkenbrock.jpg
 searchAliases:
   - Albertina Serva de Deus
   - Albertina, Servant of God

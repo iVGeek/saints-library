@@ -5,7 +5,7 @@ summary: >-
   Hermit at a place now named Cap-Saint-Hospice in his honour, living in the ruins of an old tower, wearing heavy iron
   chains, living off bread and dates and not even that during Lent. Foretold the invasion of Gaul by the Lombards. A
   Lombard patrol c.575, finding Hospitius loaded w
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Hospitius-of-Cap-Saint-Hospice.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Hospitius-of-Cap-Saint-Hospice.jpg
 searchAliases:
   - Hospitus
   - Ospicio

@@ -5,7 +5,7 @@ summary: >-
   Born to the Italian nobility. Brought into the Franciscans by Saint Anthony of Padua and Saint Francis of Assisi.
   Anthony's companion in his travels and preaching, tending to him in his last days and taking Anthony's place upon his
   death. Guardian of the Friars Minor in the city
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Luke-Belludi.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Luke-Belludi.jpg
 searchAliases:
   - Lucas Belludi
   - Lukas Belludi

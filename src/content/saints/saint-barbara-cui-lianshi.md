@@ -4,7 +4,7 @@ honorific: Venerable
 summary: >-
   Married lay woman in the apostolic vicariate of Southeastern Zhili (in modern China). Mother. Imprisoned, tortured and
   murdered for her faith. Martyr.
-image: http://catholicsaints.info/wp-content/uploads/img-Martyrs-of-China1.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-China1.jpg
 searchAliases:
   - Barbara Cui Lianzhi
   - Parui

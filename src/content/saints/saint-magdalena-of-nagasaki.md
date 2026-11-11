@@ -5,7 +5,7 @@ summary: >-
   Her parents were martyred when Magdalena was about nine years old. She became an Augustianian tertiary, and worked as
   an interpreter and catechist for Augustinian missionaries Father Francis of Jesus Terrero and Father Vincent of Saint
   Anthony Simoens. Martyr.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Magdalena-of-Nagasaki.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Magdalena-of-Nagasaki.jpg
 searchAliases:
   - Maddalena
 birthYear: 1610

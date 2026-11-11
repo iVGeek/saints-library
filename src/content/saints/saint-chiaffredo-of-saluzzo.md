@@ -4,7 +4,7 @@ honorific: Saint
 summary: >-
   Soldier. Member of the Theban Legion who escaped from Agaunum to Piedmont in modern Italy only to be killed there for
   his faith. Martyr.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Chiaffredo-of-Saluzzo.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Chiaffredo-of-Saluzzo.jpg
 searchAliases:
   - Chaffre
   - Chiaffredus

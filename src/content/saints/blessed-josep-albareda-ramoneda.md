@@ -4,7 +4,7 @@ honorific: Blessed
 summary: >-
   Older brother of Cardinal Joaquín Anselmo María Albareda. Benedictine (Subiaco Congregation) monk at the abbey of
   Montserrat. Priest. Martyred in the Spanish Civil War.
-image: http://catholicsaints.info/wp-content/uploads/img-Blessed-Josep-Albareda-Ramoneda.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Josep-Albareda-Ramoneda.jpg
 searchAliases:
   - Father Fulgenci
   - Fulgenci Albareda i Ramoneda

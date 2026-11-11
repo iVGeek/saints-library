@@ -2,7 +2,7 @@
 name: Saint Faustina of Cyzicus
 honorific: Saint
 summary: Martyr.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Faustina-of-Cyzicus.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Faustina-of-Cyzicus.jpg
 deathYear: 303
 died: '303'
 region: Italy

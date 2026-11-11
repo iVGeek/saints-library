@@ -5,7 +5,7 @@ summary: >-
   Son of a carpenter, Nicholas was raised in a family dedicated to the persecuted Church, and became a carpenter and
   mason. Two of his brothers became priests, another a printer of underground Catholic books, and Nicholas used his
   building skills to save the lives of priests and he
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Nicholas-Owen.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Nicholas-Owen.jpg
 searchAliases:
   - John Owen
   - Little John

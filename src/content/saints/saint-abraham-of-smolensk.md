@@ -5,7 +5,7 @@ summary: >-
   Born wealthy and orphaned young. When he was old enough to choose for himself, he gave away his fortune, and became a
   monk at the Bogoroditskaya monastery. Bible scholar, priest, and noted preacher. A stern and forceful man, his sermons
   concerned the Day of Judgement, and he live
-image: http://catholicsaints.info/wp-content/uploads/Abraham-of-Smolensk.jpg
+image: https://catholicsaints.info/wp-content/uploads/Abraham-of-Smolensk.jpg
 searchAliases:
   - Avraamii of Smolensk
 born: 12th century at Smolensk, Russia

@@ -5,7 +5,7 @@ summary: >-
   Educated at the college of Saint Omer. Could play the harp, and played tennis. Joined the Jesuits on 7 September 1665.
   Ordained at Liege, Belgium. Sent to southern Wales in 1675 to minister to covert Catholics. Arrested at Christopher
   Turberville's house, Sker, Glamorganshire on
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Philip-Evans-1.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Philip-Evans-1.jpg
 birthYear: 1645
 deathYear: 1679
 born: 1645 in Monmouth, Monmouthshire, Wales

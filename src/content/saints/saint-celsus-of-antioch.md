@@ -2,7 +2,7 @@
 name: Saint Celsus of Antioch
 honorific: Saint
 summary: Young son of Saint Marcionilla. Martyred in the persecutions of Diocletian.
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Celsus-and-Saint-Marcionilla.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Celsus-and-Saint-Marcionilla.jpg
 deathYear: 302
 died: c.302 at Antioch
 region: England

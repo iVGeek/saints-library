@@ -5,7 +5,7 @@ summary: >-
   Educated at York, England. Benedictine monk. Priest. Friend of Blessed Alcuin. Evangelist throughout western Europe.
   Worked in Frisia in 766, preaching in Dokkum, Overyssel, Humsterland, and Utrecht, but was driven out by violent
   pagans. Sent by Charlemagne to evangelize the Saxo
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Willehad-of-Bremen.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Willehad-of-Bremen.jpg
 searchAliases:
   - Willihad of Bremen
 deathYear: 789

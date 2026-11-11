@@ -5,7 +5,7 @@ summary: >-
   One of fourteen children born to a poor but pious family; only five of her siblings survived to adulthood. Her father
   worked as a cook and her mother a laundress in a Trinitarian Fathers convent, and Angela had to quit school at age
   twelve to work in a shoe factory to help suppor
-image: http://catholicsaints.info/wp-content/uploads/img-Saint-Angela-of-the-Cross-Guerrero-1.jpg
+image: https://catholicsaints.info/wp-content/uploads/img-Saint-Angela-of-the-Cross-Guerrero-1.jpg
 searchAliases:
   - Angela de la Cruz
   - Angela Guerrero Gonzalez

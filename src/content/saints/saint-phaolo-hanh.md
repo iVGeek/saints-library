@@ -5,7 +5,7 @@ summary: >-
   Born to a Christian family in the apostolic vicariate of West Cochinchina (in modern Vietnam), Paul and two of his
   brothers joined a band of highwaymen and burglars, with Paul as their leader. When Paul insisted that the thieves
   return some of their loot to the poor, they betraye
-image: http://catholicsaints.info/wp-content/gallery/martyrs-of-vietnam/martyrs-of-vietnam-01.jpg
+image: https://catholicsaints.info/wp-content/gallery/martyrs-of-vietnam/martyrs-of-vietnam-01.jpg
 searchAliases:
   - Paul Hanh
 birthYear: 1826

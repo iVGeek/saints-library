@@ -222,6 +222,27 @@ const personJsonLd = {
         <QuickFacts saint={saint} />
 
         <div class="rounded-md border border-gold-600/30 bg-ivory/70 p-5">
+          <p class="label mb-3">Share</p>
+          <div class="flex gap-2">
+            <a
+              href={`https://twitter.com/intent/tweet?text=${encodeURIComponent(data.name)}&url=${encodeURIComponent(new URL('/saints/' + pageSlug, SITE.url).href)}`}
+              target="_blank"
+              rel="noopener noreferrer"
+              class="btn btn-ghost !py-1 !text-sm"
+            >
+              Twitter
+            </a>
+            <button
+              type="button"
+              class="btn btn-ghost !py-1 !text-sm"
+              onclick={`navigator.clipboard.writeText('${new URL('/saints/' + pageSlug, SITE.url).href}'); this.textContent='Copied!';`}
+            >
+              Copy link
+            </button>
+          </div>
+        </div>
+
+        <div class="rounded-md border border-gold-600/30 bg-ivory/70 p-5">
           <p class="label mb-3">Feast in {monthName(data.feastDay.month)}</p>
           <p class="font-heading text-2xl text-navy-900">{formatFeast(data.feastDay)}</p>
           <a href="/calendar" class="mt-3 inline-block font-heading text-gold-700 underline decoration-gold-600/50 underline-offset-4 hover:text-burgundy-700">

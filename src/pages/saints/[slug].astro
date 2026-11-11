@@ -87,6 +87,9 @@ const personJsonLd = {
             {data.canonizationStatus !== 'Saint' && (
               <span class="chip !border-gold-500/50 !text-gold-300">{data.canonizationStatus}</span>
             )}
+            {data.stub && (
+              <span class="chip !border-gold-500/50 !text-parchment-100/80">Stub profile</span>
+            )}
             {data.martyr && <span class="chip !border-gold-500/50 !text-gold-300">Martyr</span>}
           </div>
 

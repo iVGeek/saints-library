@@ -70,6 +70,8 @@ const saints = defineCollection({
     causes: z.array(z.string()).default([]),
     symbols: z.array(z.string()).default([]),
     martyr: z.boolean().default(false),
+    /** True for auto-generated stub profiles awaiting curation. */
+    stub: z.boolean().default(false),
 
     /* ——— Imagery ——— */
     /** Absolute URL (Wikimedia Commons, museum open access, or self-hosted). */

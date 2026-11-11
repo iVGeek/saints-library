@@ -1,0 +1,26 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import SectionHeading from '../../components/SectionHeading.astro';
+import { getCollection } from 'astro:content';
+import { COLLECTIONS } from '../../data/collections';
+
+const saints = await getCollection('saints');
+const items = COLLECTIONS.map((c) => ({
+  ...c,
+  count: saints.filter(c.match).length,
+}));
+---
+<BaseLayout title="Curated Collections" description="Curated lists of saints by theme." canonicalPath="/collections">
+  <div class="mx-auto max-w-6xl px-4 py-10 sm:px-6">
+    <SectionHeading label="Curated" title="Collections" sub="Themed groupings from the library." />
+    <div class="mt-10 grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
+      {items.map((c) => (
+        <a href={`/collections/${c.id}`} class="card-glow p-6">
+          <h3 class="font-display text-xl font-semibold text-navy-900">{c.title}</h3>
+          <p class="mt-2 font-body text-ink-600">{c.description}</p>
+          <p class="mt-4 font-heading text-gold-700">{c.count} saints →</p>
+        </a>
+      ))}
+    </div>
+  </div>
+</BaseLayout>

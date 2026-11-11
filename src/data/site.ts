@@ -12,6 +12,7 @@ export const SITE = {
 
 export const NAV = [
   { href: '/saints', label: 'Directory' },
+  { href: '/collections', label: 'Collections' },
   { href: '/calendar', label: 'Liturgical Calendar' },
   { href: '/patronage', label: 'Patronage Explorer' },
   { href: '/prayers', label: 'Prayers' },

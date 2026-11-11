@@ -1,0 +1,31 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Breadcrumbs from '../../components/Breadcrumbs.astro';
+import SectionHeading from '../../components/SectionHeading.astro';
+import SaintCard from '../../components/SaintCard.astro';
+import { getCollection } from 'astro:content';
+import { COLLECTIONS } from '../../data/collections';
+import { slug } from '../../utils/slugs';
+
+export async function getStaticPaths() {
+  const saints = await getCollection('saints');
+  return COLLECTIONS.map((c) => ({
+    params: { id: c.id },
+    props: { collection: c, saints: saints.filter(c.match) },
+  }));
+}
+
+const { collection, saints } = Astro.props;
+---
+<BaseLayout title={collection.title} description={collection.description} canonicalPath={`/collections/${collection.id}`}>
+  <div class="mx-auto max-w-6xl px-4 py-10 sm:px-6">
+    <Breadcrumbs crumbs={[{ label: 'Home', href: '/' }, { label: 'Collections', href: '/collections' }, { label: collection.title }]} />
+    <SectionHeading label="Collection" title={collection.title} sub={collection.description} />
+    <p class="mt-4 font-body text-ink-600">{saints.length} saints</p>
+    <div class="mt-8 grid gap-5 sm:grid-cols-2 lg:grid-cols-4">
+      {saints.slice(0, 40).map((s, i) => (
+        <SaintCard saint={s} index={i} />
+      ))}
+    </div>
+  </div>
+</BaseLayout>

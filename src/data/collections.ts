@@ -32,4 +32,16 @@ export const COLLECTIONS: CollectionDef[] = [
     description: 'The beatified, one step from canonisation.',
     match: (s) => s.data.canonizationStatus === 'Blessed',
   },
+  {
+    id: 'doctors',
+    title: 'Doctors of the Church',
+    description: 'Saints honoured for eminent teaching.',
+    match: (s) => s.data.vocation.includes('Doctor'),
+  },
+  {
+    id: 'missionaries',
+    title: 'Missionaries',
+    description: 'Those sent to proclaim the Gospel.',
+    match: (s) => s.data.vocation.includes('Missionary'),
+  },
 ];

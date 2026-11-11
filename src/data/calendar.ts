@@ -107,7 +107,28 @@ export function seasonTheme(season: LiturgicalSeason) {
   return SEASON_THEME[season];
 }
 
-/** Gauss–Anonymous algorithm, valid for Western (Gregorian) Easter. */
+/** Movable feasts for a given year (Western rite), derived from Easter. */
+export function movableFeasts(year: number): { name: string; date: Date }[] {
+  const easter = approximateEaster(year);
+  const mk = (offset: number) => {
+    const d = new Date(easter);
+    d.setDate(easter.getDate() + offset);
+    return d;
+  };
+  return [
+    { name: 'Ash Wednesday', date: mk(-46) },
+    { name: 'Palm Sunday', date: mk(-7) },
+    { name: 'Holy Thursday', date: mk(-3) },
+    { name: 'Good Friday', date: mk(-2) },
+    { name: 'Easter Sunday', date: mk(0) },
+    { name: 'Ascension', date: mk(39) },
+    { name: 'Pentecost', date: mk(49) },
+    { name: 'Trinity Sunday', date: mk(56) },
+    { name: 'Corpus Christi', date: mk(60) },
+  ];
+}
+
+/** Gauss-Anonymous algorithm, valid for Western (Gregorian) Easter. */
 export function approximateEaster(year: number): Date {
   const a = year % 19;
   const b = Math.floor(year / 100);

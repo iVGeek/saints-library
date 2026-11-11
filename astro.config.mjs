@@ -9,6 +9,7 @@ export default defineConfig({
   site: 'https://saints-library.onrender.com',
   output: 'static',
   compressHTML: true,
+  build: { inlineStylesheets: 'auto' },
   trailingSlash: 'never',
   integrations: [sitemap()],
   vite: {

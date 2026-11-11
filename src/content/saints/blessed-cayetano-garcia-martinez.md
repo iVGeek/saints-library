@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/1/16/Escudo_De_Silva_Fern%C3%A1ndez_de_H%C3%ADjar_Portugal.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Cayetano García Martínez
+stub: true
 honorific: Blessed
 summary: Priest in the diocese of Cartagena, Spain. Martyred in the Spanish Civil War.
 birthYear: 1895

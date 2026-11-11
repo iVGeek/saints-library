@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Domitian the Deacon
+stub: true
 honorific: Saint
 summary: Deacon. Martyr. No other information has survived.
 died: Ankara, Galatia (modern Turkey)

@@ -1,5 +1,6 @@
 ---
 name: French Mercedarian Martyrs
+stub: false
 honorific: Saint
 summary: 48 French Mercedarian friars who were murdered by Huguenot heretics for keeping their Catholic faith.
 image: https://catholicsaints.info/wp-content/uploads/img-French-Mercedarian-Martyrs.jpg

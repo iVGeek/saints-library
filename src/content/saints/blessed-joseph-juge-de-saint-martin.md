@@ -1,5 +1,6 @@
 ---
 name: Blessed Joseph Juge de Saint-Martin
+stub: false
 honorific: Blessed
 summary: >-
   Sulpician priest. Imprisoned on a ship in the harbor of Rochefort, France and left to die during the anti-Catholic

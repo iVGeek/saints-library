@@ -1,5 +1,6 @@
 ---
 name: Saint Eanswith of Folkestone
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility, grand-daughter of King Ethelbert of Kent. On the coast near Folkestone, she founded the first

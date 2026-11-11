@@ -1,5 +1,6 @@
 ---
 name: Saint Galla of Rome
+stub: false
 honorific: Saint
 summary: >-
   Born to the Roman nobility, the daughter Symmachus the Younger who served as consul in 485; sister-in-law of Boethius.

@@ -1,5 +1,6 @@
 ---
 name: Saint Ursus the Theban
+stub: true
 honorific: Saint
 summary: One of the Martyrs of the Theban Legion. No other information has survived.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Ursus-and-Saint-Victor.jpg

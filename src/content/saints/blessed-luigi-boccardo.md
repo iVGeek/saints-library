@@ -1,5 +1,6 @@
 ---
 name: Blessed Luigi Boccardo
+stub: false
 honorific: Blessed
 summary: >-
   One of ten children. Brother and god-son of Blessed Giovanni Maria Boccardo. Educated by the Barnabites. Entered the

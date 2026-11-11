@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Marcellus the Martyr
+stub: true
 honorific: Saint
 summary: Martyr.
 deathYear: 362

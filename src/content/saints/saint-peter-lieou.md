@@ -1,5 +1,6 @@
 ---
 name: Saint Peter Lieou
+stub: false
 honorific: Venerable
 summary: >-
   Married lay man convert to Christianity. Catechist. Exiled to Mongolia for his faith in 1814. He was permitted to

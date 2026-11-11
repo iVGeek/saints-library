@@ -1,5 +1,6 @@
 ---
 name: Blessed Catalina Calpe Ibáñez
+stub: false
 honorific: Blessed
 summary: >-
   The daughter of Mariano and Leandra. Professed religious in the Sisters of the Christian Doctrine, joining in 1893.

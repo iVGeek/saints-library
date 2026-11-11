@@ -1,5 +1,6 @@
 ---
 name: Saint Apollo of Bawit
+stub: false
 honorific: Saint
 summary: >-
   Hermit in Thebes in Egypt for 40 years. Monk. Abbot of Bawit in Hermopolis, a house of 500 monks. Left the monastic

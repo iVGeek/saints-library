@@ -1,5 +1,6 @@
 ---
 name: Saint Theodora the Empress
+stub: false
 honorific: Saint
 summary: >-
   Empress, married to the brutal and thuggish Emperor Theophilus; mother of Emperor Michael III. Widowed, she

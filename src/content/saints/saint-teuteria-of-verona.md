@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Teuteria of Verona
+stub: false
 honorific: Saint
 summary: >-
   Adult convert to Christianty. To escape the attentions of pagan king Oswald, she fled to Italy where she hid with

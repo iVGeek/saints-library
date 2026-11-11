@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Hildegund
+stub: false
 honorific: Saint
 summary: >-
   Born to the 12th-century German nobility, the daughter of Count Herman of Lidtberg. Countess, married to Count

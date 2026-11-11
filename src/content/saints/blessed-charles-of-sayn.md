@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/9/9c/San_Carlo_al_Corso_-_esterno.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Charles of Sayn
+stub: false
 honorific: Blessed
 summary: >-
   Son of a wealthy merchant from Cologne, Germany. Trained as a soldier. Knight. On his way home from a jousting

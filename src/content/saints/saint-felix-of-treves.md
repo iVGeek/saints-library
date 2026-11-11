@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Felix of Treves
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Treves, France in the late 4th-century. Zealous opponent of the Priscillianist heresy. Late in life he

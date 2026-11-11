@@ -1,5 +1,6 @@
 ---
 name: Saint Adrianus van Hilvarenbeek
+stub: false
 honorific: Saint
 summary: >-
   Premonstratensian priest. Martyred by Calvinists for “papism” and his belief in the Real Presence in the Eucharist.

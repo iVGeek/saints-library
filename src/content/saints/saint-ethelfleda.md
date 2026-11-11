@@ -1,5 +1,6 @@
 ---
 name: Saint Ethelfleda
+stub: false
 honorific: Saint
 summary: Daughter of King Edward the Elder. Nun and then abbess of Ramsey Abbey where she was a sister with Saint Merewenna.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Ethelfleda.jpg

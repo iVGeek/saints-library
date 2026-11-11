@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Joel of Pulsano
+stub: false
 honorific: Saint
 summary: >-
   Spiritual student of Saint John of Matera. Benedictine monk. Helped found and eventual master-general of the

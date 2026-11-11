@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/a/a4/Marguerite-Marie_Alacoque.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Beatrice of Olive
+stub: false
 honorific: Blessed
 summary: >-
   Cistercian nun at the convent of the Olive in Morlanwelz, Belgium. Her life in the convent led her to question her

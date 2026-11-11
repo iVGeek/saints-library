@@ -1,5 +1,6 @@
 ---
 name: Blessed Florida Cevoli
+stub: false
 honorific: Blessed
 summary: >-
   Born to the late 17th century Italian nobility, the daughter of Count Curzio and Countess Laura della Seta, Lucrezia

@@ -1,5 +1,6 @@
 ---
 name: Saint Juan de Ribera
+stub: false
 honorific: Venerable
 summary: >-
   Son of Peter de Ribera, a devout Christian who was also the Duke of Alcal&aacute;, Spain, and viceroy of Naples,

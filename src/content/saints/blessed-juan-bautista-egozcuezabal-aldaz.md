@@ -1,5 +1,6 @@
 ---
 name: Blessed Juan Bautista Egozcuezábal Aldaz
+stub: false
 honorific: Blessed
 summary: >-
   Entered the Carmelites on 31 January 1911. Joined the Hospitallers of Saint John of God at age 30. Worked at an asylum

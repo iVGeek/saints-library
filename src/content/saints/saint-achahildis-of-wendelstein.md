@@ -1,5 +1,6 @@
 ---
 name: Saint Achahildis of Wendelstein
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility, the sister of Saint Cunegundes. Married to Thietmar and mother of quintuplets; she and her

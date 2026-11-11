@@ -1,5 +1,6 @@
 ---
 name: Blessed Felipe Valcobado Granado
+stub: false
 honorific: Blessed
 summary: Passionist priest. Martyred in the Spanish Civil War. One of the Martyrs of Daimiel.
 image: https://catholicsaints.info/wp-content/uploads/img-Passionist-Martyrs-of-the-Spanish-Civil-War.jpg

@@ -1,5 +1,6 @@
 ---
 name: Saint Jesús Méndez-Montoya
+stub: false
 honorific: Venerable
 summary: >-
   Priest in the diocese of Morelia, Mexico. During the persecutions of the Mexican Revolution, he hid in the villages of

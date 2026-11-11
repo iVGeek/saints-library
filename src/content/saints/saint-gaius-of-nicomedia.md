@@ -1,5 +1,6 @@
 ---
 name: Saint Gaius of Nicomedia
+stub: true
 honorific: Saint
 summary: Officer in the Roman emperor's palace. Martyred with 27 companions.
 searchAliases:

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Everard of Villers
+stub: false
 honorific: Blessed
 summary: >-
   Cistercian lay brother at Villers abbey in Brabant (in modern Belgium). He was a farm worker, and part of the rural

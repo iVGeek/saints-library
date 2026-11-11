@@ -1,5 +1,6 @@
 ---
 name: Saint Dinooth
+stub: false
 honorific: Saint
 summary: >-
   Sixth century northern British chieftain who was driven into Wales by Pictish warriors. There he entered religious

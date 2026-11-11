@@ -1,5 +1,6 @@
 ---
 name: Saint Costanzo of Capri
+stub: false
 honorific: Saint
 summary: >-
   Wandering bishop who preached against heresies in southern Italy, arriving on the island of Capri c.739 where he

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Etherius of Lyons
+stub: true
 honorific: Saint
 summary: Bishop of Lyons, France.
 searchAliases:

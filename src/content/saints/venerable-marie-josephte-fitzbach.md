@@ -1,5 +1,6 @@
 ---
 name: Venerable Marie-Josephte Fitzbach
+stub: false
 honorific: Venerable
 summary: >-
   Born to a poor family, Marie received no education and left home at age 13 to work as a domestic servant in Quebec

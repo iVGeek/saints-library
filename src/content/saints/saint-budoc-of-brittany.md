@@ -1,5 +1,6 @@
 ---
 name: Saint Budoc of Brittany
+stub: false
 honorific: Saint
 summary: >-
   Born a prince, the son of a king of Brittany; his mother was Azenor, princess of Brest, France. Legend says that his

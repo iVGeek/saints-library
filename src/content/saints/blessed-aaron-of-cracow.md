@@ -1,5 +1,6 @@
 ---
 name: Blessed Aaron of Cracow
+stub: false
 image: https://upload.wikimedia.org/wikipedia/commons/5/54/Aaron_%28Gloger%29.jpg
 honorific: Blessed
 summary: >-

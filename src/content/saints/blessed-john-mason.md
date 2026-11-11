@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/3/3c/John_Mason_Neale.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed John Mason
+stub: false
 honorific: Blessed
 summary: >-
   Layman. Servant to a Mr Owen of Oxfordshire. Arrested for harbouring priests in general, and Saint Edmund Gennings in

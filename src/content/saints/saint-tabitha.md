@@ -1,5 +1,6 @@
 ---
 name: Saint Tabitha
+stub: false
 honorific: Saint
 summary: >-
   Married lay woman in Joppa (in modern Israel). Seamstress. Widow. Mentioned in the Acts of the Apostles. When she fell

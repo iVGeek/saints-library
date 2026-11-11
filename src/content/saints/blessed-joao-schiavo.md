@@ -1,5 +1,6 @@
 ---
 name: Blessed João Schiavo
+stub: false
 honorific: Blessed
 summary: >-
   Eldest of nine children born to Luiz, a shoemaker, and Rosa Schiavo. At one point in his youth, João suffered through

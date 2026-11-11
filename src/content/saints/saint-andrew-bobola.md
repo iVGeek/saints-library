@@ -1,5 +1,6 @@
 ---
 name: Saint Andrew Bobola
+stub: false
 honorific: Saint
 title: St. Andrew Bobola
 summary: >-

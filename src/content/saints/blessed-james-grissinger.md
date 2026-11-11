@@ -1,5 +1,6 @@
 ---
 name: Blessed James Grissinger
+stub: false
 honorific: Blessed
 summary: >-
   Mercenary for the army of Naples, Italy in 1432. Disillusioned with military life, he spent five years as a secretary

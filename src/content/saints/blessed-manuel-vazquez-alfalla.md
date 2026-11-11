@@ -1,5 +1,6 @@
 ---
 name: Blessed Manuel Vázquez Alfalla
+stub: false
 honorific: Blessed
 summary: >-
   Ordained a priest of the archdiocese of Granada, Spain on 17 December 1892; an excellent student, he completed six

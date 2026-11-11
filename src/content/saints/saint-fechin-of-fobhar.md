@@ -1,5 +1,6 @@
 ---
 name: Saint Fechin of Fobhar
+stub: false
 honorific: Saint
 summary: >-
   Relative of Irish royalty, the son of Coelcharna and Lassair. Student of Saint Nathy at Sligo, Ireland. Priest. Hermit

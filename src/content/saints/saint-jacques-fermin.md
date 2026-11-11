@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Jacques Fermin
+stub: false
 honorific: Saint
 summary: >-
   Joined the Jesuits in 1646. Priest. Missionary in Canada, working with the Onodaga, Cayuhoga and Mohawk. Established a

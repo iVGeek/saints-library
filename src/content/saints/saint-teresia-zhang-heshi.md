@@ -1,5 +1,6 @@
 ---
 name: Saint Teresia Zhang Heshi
+stub: false
 honorific: Venerable
 summary: >-
   Married lay woman and mother in the apostolic vicariate of Southeastern Zhili, China. Dragged into a pagan temple and

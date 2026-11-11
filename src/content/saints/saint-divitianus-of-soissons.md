@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Divitianus of Soissons
+stub: false
 honorific: Saint
 title: Bishop
 summary: Related to Saint Sinicius of Reims. Third bishop of Soissons, France, serving from c.310 to c.320.

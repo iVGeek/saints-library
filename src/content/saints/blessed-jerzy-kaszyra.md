@@ -1,5 +1,6 @@
 ---
 name: Blessed Jerzy Kaszyra
+stub: false
 honorific: Blessed
 summary: >-
   Raised in an Orthodox family, George converted to Roman Catholicism in 1922 at age 18. He joined the Marians of the

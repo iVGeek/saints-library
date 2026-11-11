@@ -1,5 +1,6 @@
 ---
 name: Venerable Matteo Farina
+stub: false
 honorific: Venerable
 summary: >-
   Young layman of the archdiocese of Brindisi-Ostuni, Italy. Had a strong devotion to Saint Padre Pio, Saint Francis of

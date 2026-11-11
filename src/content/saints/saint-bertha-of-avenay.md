@@ -1,5 +1,6 @@
 ---
 name: Saint Bertha of Avenay
+stub: false
 honorific: Saint
 summary: >-
   Married to Saint Gundebert of Gumber. When Gundebert retired to a monastery in Ireland, Bertha became Benedictine nun.

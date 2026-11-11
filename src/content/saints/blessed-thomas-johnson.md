@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/5/56/Thomas_the_Apostle._Detail_of_the_mosaic_in_the_Basilica_of_San_Vitale._Ravena%2C_Italy.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Thomas Johnson
+stub: false
 honorific: Blessed
 summary: >-
   Carthusian choir monk of the Charterhouse in London, England. Martyred for refusing to accept King Henry VIII as head

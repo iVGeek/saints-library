@@ -1,5 +1,6 @@
 ---
 name: Blessed Vasyl Vsevolod Velychkovskyi
+stub: false
 honorific: Blessed
 summary: >-
   Son of catechists Volodymyr and Anne Theodorowych Velychkovsky. Greek Catholic. Entered the seminary in Lviv, Ukraine

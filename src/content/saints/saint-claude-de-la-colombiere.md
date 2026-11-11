@@ -1,5 +1,6 @@
 ---
 name: Saint Claude de la Colombiere
+stub: false
 honorific: Venerable
 summary: >-
   Born to the French nobility, Claude early felt a call to religious life. Educated at Jesuit college in Lyons, France.

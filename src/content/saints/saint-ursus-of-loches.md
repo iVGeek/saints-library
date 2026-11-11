@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Ursus of Loches
+stub: false
 honorific: Saint
 summary: >-
   Leader of a group of hermits in the area of Cahors, France who had to flee from invading Arian Goths. Monk. Abbot of

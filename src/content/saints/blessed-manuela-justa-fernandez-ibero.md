@@ -1,5 +1,6 @@
 ---
 name: Blessed Manuela Justa Fernández Ibero
+stub: false
 honorific: Blessed
 summary: >-
   Joined the Capuchin Tertiary Sisters of the Holy Family in 1887, making her perpetual vows in 1896. Served as general

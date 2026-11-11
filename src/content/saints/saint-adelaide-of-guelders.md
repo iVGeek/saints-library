@@ -1,5 +1,6 @@
 ---
 name: Saint Adelaide of Guelders
+stub: false
 honorific: Saint
 summary: >-
   Daughter of Megingoz (Megengose), Count of Guelders. Joined the Ursuline convent at Cologne, Germany. Benedictine nun.

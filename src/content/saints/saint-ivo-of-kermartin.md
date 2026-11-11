@@ -1,5 +1,6 @@
 ---
 name: Saint Ivo of Kermartin
+stub: false
 honorific: Saint
 summary: >-
   Born to a wealthy Breton noble family. From age 14 he studied civil and canon lawyer, philosophy, and theology in

@@ -1,5 +1,6 @@
 ---
 name: Saint Alfanus of Salerno
+stub: false
 honorific: Saint
 summary: >-
   Benedictine monk at Monte Cassino Abbey. Archbishop of Salerno, Italy. Assisted Pope Saint Gregory VII on his

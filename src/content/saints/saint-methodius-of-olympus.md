@@ -1,5 +1,6 @@
 ---
 name: Saint Methodius of Olympus
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility. Priest. Bishop of Olympus in Lycia, Asia Minor. Bishop of Tyre. Theological writer admired by

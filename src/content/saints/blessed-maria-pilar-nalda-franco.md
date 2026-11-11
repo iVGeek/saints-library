@@ -1,5 +1,6 @@
 ---
 name: Blessed María Pilar Nalda Franco
+stub: false
 honorific: Blessed
 summary: >-
   The daughter of Manuel, a physician, and Josefa, a housewife, Pilar was a member of the Daughters of Mary in her

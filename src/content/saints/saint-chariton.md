@@ -1,6 +1,7 @@
 ---
 image: https://upload.wikimedia.org/wikipedia/commons/Saint%20Chariton.jpg
 name: Saint Chariton
+stub: true
 honorific: Saint
 summary: Martyred in the persecutions of Diocletian.
 died: burned to death, date unknown

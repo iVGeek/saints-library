@@ -1,5 +1,6 @@
 ---
 name: Blessed Crescencio Lasheras Aizcorbe
+stub: false
 honorific: Blessed
 summary: Joined the Hospitallers of Saint John of God in 1927. Martyred in the Spanish Civil War
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Crescencio-Lasheras-Aizcorbe.jpg

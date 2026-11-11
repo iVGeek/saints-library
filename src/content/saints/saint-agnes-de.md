@@ -1,5 +1,6 @@
 ---
 name: Saint Agnes De
+stub: false
 honorific: Venerable
 summary: >-
   Raised in a Christian family. Married lay woman in the apostolic vicariate of West Tonkin (in modern Vietnam). Mother.

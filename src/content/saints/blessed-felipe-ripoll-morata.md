@@ -1,5 +1,6 @@
 ---
 name: Blessed Felipe Ripoll Morata
+stub: false
 honorific: Blessed
 summary: >-
   Born to a poor but devout family. Priest in the diocese of Teruel, Spain. Professor and spiritual director at the

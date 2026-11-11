@@ -1,5 +1,6 @@
 ---
 name: Saint Augustine Yi Kwang-Hon
+stub: false
 honorific: Venerable
 summary: >-
   Married layman in the apostolic vicariate of Korea. Catechist who conducted Bible studies in his home. One of the

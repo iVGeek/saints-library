@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Berhard of Amiens
+stub: false
 honorific: Saint
 title: Bishop
 summary: Seventh century bishop of Amiens, France. Close friend of Saint Valéry of Leucone.

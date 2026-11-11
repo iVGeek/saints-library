@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/f/fe/Beatificaciotarragona2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Francesc Vidal Sanuy
+stub: false
 honorific: Blessed
 summary: Priest of the archdiocese of Tarragona, Spain. Martyed in the Spanish Civil War.
 birthYear: 1867

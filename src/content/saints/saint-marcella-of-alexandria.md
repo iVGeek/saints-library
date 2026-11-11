@@ -1,5 +1,6 @@
 ---
 name: Saint Marcella of Alexandria
+stub: false
 honorific: Saint
 summary: >-
   Mother of Saint Potamiaena the Elder. Student of Origen at the catechitical school at Alexandria, Egypt. Martyred with

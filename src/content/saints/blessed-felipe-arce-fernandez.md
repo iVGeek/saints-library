@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Felipe Arce Fernández
+stub: true
 honorific: Blessed
 summary: Discalced Carmelite priest. Martyred in the Spanish Civil War.
 searchAliases:

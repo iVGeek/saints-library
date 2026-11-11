@@ -1,5 +1,6 @@
 ---
 name: Saint Didymus of Alexandria
+stub: false
 honorific: Saint
 summary: >-
   Rescued Saint Theodora of Alexandria by trading clothes with her at the house of prostitution where she'd been

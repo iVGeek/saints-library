@@ -1,5 +1,6 @@
 ---
 name: Saint Tudy
+stub: false
 honorific: Saint
 summary: >-
   Spiritual student of Saint Brioc. Monk, hermit and missionary in Brittany. Abbot at Landevennec, Brittany. Founded

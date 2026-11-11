@@ -1,5 +1,6 @@
 ---
 name: Blessed Clement of Dunblane
+stub: false
 honorific: Blessed
 summary: >-
   Studied at the University of Paris, France. Dominican friar, receiving the habit from Saint Dominic de Guzman. Helped

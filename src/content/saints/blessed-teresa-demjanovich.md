@@ -1,5 +1,6 @@
 ---
 name: Blessed Teresa Demjanovich
+stub: false
 honorific: Blessed
 summary: >-
   One of five children born to Alexander and Johanna Demjanovich, emmigrants to the United States from an area of the

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/c/ca/Tomatl%C3%A1n.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Pablo Meléndez Gonzalo
+stub: false
 honorific: Blessed
 summary: Married layman in the archdiocese of Valencia, Spain. Martyred in the Spanish Civil War.
 birthYear: 1876

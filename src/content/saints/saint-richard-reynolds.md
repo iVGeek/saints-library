@@ -1,5 +1,6 @@
 ---
 name: Saint Richard Reynolds
+stub: false
 honorific: Saint
 summary: >-
   Educated at Christ's College and Corpus Christi College, University of Cambridge; made a Fellow of Corpus Christi in

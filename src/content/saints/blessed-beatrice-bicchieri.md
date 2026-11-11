@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/49/Saint_Patrick_Catholic_Church_%28Columbus%2C_Ohio%29_-_relics_of_16_Dominican_saints.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Beatrice Bicchieri
+stub: false
 honorific: Blessed
 summary: >-
   Married to Gioachino de Ivachi. Widow. Joined the Dominicans in 1270. Founded a Domincan convent in Vercelli, Italy,

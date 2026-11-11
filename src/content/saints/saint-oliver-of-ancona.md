@@ -1,5 +1,6 @@
 ---
 name: Saint Oliver of Ancona
+stub: true
 honorific: Saint
 summary: Benedictine monk at Santa Maria di Portonuovo at Ancona, Italy.
 searchAliases:

@@ -1,5 +1,6 @@
 ---
 name: Blessed Thomas Bullaker
+stub: false
 honorific: Blessed
 summary: >-
   Born the only son of a pious, well-to-do physician. Studied at the English College in Saint-Omer, France, and the

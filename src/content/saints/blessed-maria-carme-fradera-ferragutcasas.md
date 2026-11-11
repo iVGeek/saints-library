@@ -1,5 +1,6 @@
 ---
 name: Blessed Maria Carme Fradera Ferragutcasas
+stub: false
 honorific: Blessed
 summary: Member of the Missionary Sisters of the Immaculate Heart of Mary. Nun. Martyred in the Spanish Civil War.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Maria-Carme-Fradera-Ferragutcasas.jpg

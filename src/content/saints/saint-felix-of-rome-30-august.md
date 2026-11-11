@@ -1,5 +1,6 @@
 ---
 name: Saint Felix of Rome
+stub: false
 honorific: Saint
 summary: >-
   Priest in Rome. Ordered to offer sacrifice to the pagan gods, he refused and prayed instead; the idols shattered.

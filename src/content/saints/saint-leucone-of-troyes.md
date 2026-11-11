@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Leucone of Troyes
+stub: false
 honorific: Saint
 title: Bishop
 summary: Zealous evangelizing bishop of Troyes, France for five years. Founded Notre-Dame-des-Nonnains abbey in Troyes.

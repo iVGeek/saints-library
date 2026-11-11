@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Sisinius of Cyzicus
+stub: true
 honorific: Saint
 summary: Bishop. Tortured and martyred in the persecutions of Diocletian.
 searchAliases:

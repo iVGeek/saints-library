@@ -1,5 +1,6 @@
 ---
 name: Saint Giuse Hoàng Luong Canh
+stub: false
 honorific: Venerable
 summary: >-
   Lifelong layman in the apostolic vicariate of East Tonkin. Physician. Catechist and Dominican tertiary. One of the

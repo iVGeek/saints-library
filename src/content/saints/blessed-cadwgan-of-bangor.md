@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/8/83/Arms_of_Llywelyn.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Cadwgan of Bangor
+stub: false
 honorific: Blessed
 summary: >-
   Benedictine Cistercian monk. Abbot of Whitland monastery in Wales in the early 13th century. Chosen bishop of Bangor,

@@ -1,5 +1,6 @@
 ---
 name: Blessed Giorgio di Suelli
+stub: false
 honorific: Blessed
 summary: >-
   Born to a family of house slaves. Granted his freedom in order to persue a vocation to the priesthood. Bishop of

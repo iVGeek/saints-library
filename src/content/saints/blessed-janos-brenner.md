@@ -1,5 +1,6 @@
 ---
 name: Blessed János Brenner
+stub: false
 honorific: Blessed
 summary: >-
   As a child, János attended schools run by Cistercians until the schools were nationalized by the post-World War II

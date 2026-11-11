@@ -1,5 +1,6 @@
 ---
 name: Saint Iosephus Yuan Zaide
+stub: true
 honorific: Venerable
 summary: Priest in the apostolic vicariate of Sichuan. One of the Martyrs of China.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Iosephus-Yuan-Zaide.jpg

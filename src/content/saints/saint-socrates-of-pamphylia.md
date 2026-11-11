@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Socrates of Pamphylia
+stub: true
 honorific: Saint
 summary: Martyred in the persecutions of emperor Aurelian.
 deathYear: 272

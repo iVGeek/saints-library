@@ -1,5 +1,6 @@
 ---
 name: Saint Justina of Seville
+stub: false
 honorific: Saint
 summary: >-
   Potter, and the daughter of a potter. Sister of Saint Rufina. A wealthy customer offered to purchase a large part of

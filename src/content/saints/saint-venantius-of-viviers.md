@@ -1,5 +1,6 @@
 ---
 name: Saint Venantius of Viviers
+stub: false
 honorific: Saint
 title: Bishop
 summary: >-

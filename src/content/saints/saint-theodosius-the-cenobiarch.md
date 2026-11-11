@@ -1,5 +1,6 @@
 ---
 name: Saint Theodosius the Cenobiarch
+stub: false
 honorific: Saint
 summary: >-
   Born to a pious family, he began his studies at an early age, and became a lector while still a youth. The example of

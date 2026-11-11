@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/4b/Cairo_Self.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed George Biandrate
+stub: false
 honorific: Blessed
 title: Virgin
 summary: >-

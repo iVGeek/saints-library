@@ -1,6 +1,7 @@
 ---
 image: https://www.catholic.org/files/images/saints/2639.jpg
 name: Saint Cawrdaf
+stub: false
 honorific: Saint
 summary: >-
   Chieftain in Brecknock (in modern Wales) and Hereford (in modern England). Abdicated and retired to a monastery under

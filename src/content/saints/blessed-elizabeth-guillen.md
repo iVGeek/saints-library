@@ -1,5 +1,6 @@
 ---
 name: Blessed Elizabeth Guillen
+stub: true
 honorific: Blessed
 summary: Mercedarian nun in Barcelona, Spain.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Elizabeth-Guillen.jpg

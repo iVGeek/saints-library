@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Colman McRhoi
+stub: false
 honorific: Saint
 summary: >-
   Spiritual student of Saint Columba of Iona. Deacon. Helped found the monastery of Reachrain (modern Lambay Island),

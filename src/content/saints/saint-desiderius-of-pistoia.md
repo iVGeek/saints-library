@@ -1,5 +1,6 @@
 ---
 name: Saint Desiderius of Pistoia
+stub: true
 honorific: Saint
 summary: Hermit at Pistoia, Italy. Friend of Saint Barontius of Pistoia.
 searchAliases:

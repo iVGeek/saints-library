@@ -1,5 +1,6 @@
 ---
 name: Saint Alexander of Rome
+stub: false
 honorific: Saint
 summary: >-
   Following his public confession of Christianity, Alexander was martyred with 38 companions whose names have not come

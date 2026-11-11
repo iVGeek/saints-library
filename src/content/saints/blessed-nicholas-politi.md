@@ -1,5 +1,6 @@
 ---
 name: Blessed Nicholas Politi
+stub: true
 honorific: Blessed
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Nicholas-Politi.jpg
 searchAliases:

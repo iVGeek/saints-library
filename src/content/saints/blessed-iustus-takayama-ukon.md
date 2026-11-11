@@ -1,5 +1,6 @@
 ---
 name: Blessed Iustus Takayama Ukon
+stub: false
 honorific: Blessed
 summary: >-
   Born to a family of wealthy land owners in feudal Japan. After learning of Christianity from Jesuit missionaries, he

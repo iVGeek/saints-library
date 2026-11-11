@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Severa of Saint Gemma
+stub: false
 honorific: Saint
 summary: >-
   Sister of Saint Modoald of Trier. Nun. First Abbess of Saint Gemma convent in Villeneuve, France; it was later renamed

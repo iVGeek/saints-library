@@ -1,5 +1,6 @@
 ---
 name: Saint Germanus of Besancon
+stub: true
 honorific: Saint
 summary: Bishop of Besancon, France. Martyred by Arians.
 deathYear: 390

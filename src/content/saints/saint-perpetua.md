@@ -1,5 +1,6 @@
 ---
 name: Saint Perpetua
+stub: false
 honorific: Saint
 summary: >-
   Lay-woman born to a noble pagan family. Convert to Christianity. Wife and mother. Martyred with her maid, friend, and

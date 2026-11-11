@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Juliana Kubitzki
+stub: false
 honorific: Blessed
 summary: >-
   The fifth of six children born to Wilhelm and Katarzyna née Bieniek, Juliana was baptized at the age of 5 days. She

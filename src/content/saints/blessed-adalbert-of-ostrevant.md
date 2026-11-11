@@ -1,5 +1,6 @@
 ---
 name: Blessed Adalbert of Ostrevant
+stub: false
 image: https://commons.wikimedia.org/wiki/Special:FilePath/Denain_-_Fontaine_Sainte-Renfroye_%25283%2529.JPG?width=600
 honorific: Blessed
 summary: >-

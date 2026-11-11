@@ -1,5 +1,6 @@
 ---
 name: Blessed John Ingram
+stub: false
 honorific: Blessed
 summary: >-
   Son of Anthony Ingram of Wolford, Warwickshire, and Dorothy, daughter of Sir John Hungerford. Educated at

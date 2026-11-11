@@ -1,5 +1,6 @@
 ---
 name: Saint Eval of Cornwall
+stub: false
 honorific: Saint
 summary: Sixth century bishop in Cornwall, England. The village of St Eval, Cornwall was named in his honour.
 searchAliases:

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Kennocha of Fife
+stub: false
 honorific: Saint
 summary: >-
   The only daughter of a wealthy family, she rejected the worldly life and a series of suitors, feeling a call to a life

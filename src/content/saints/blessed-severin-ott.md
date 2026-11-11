@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/7/75/Paul_H%C3%B6rbiger_%283353372890%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Severin Ott
+stub: false
 honorific: Blessed
 summary: >-
   Norbertine canon of the monastery in Roggenburg, Swabia, Bavaria (in modern Germany). He was known for his deep prayer

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Egbert of Rathemigisi
+stub: false
 honorific: Saint
 summary: >-
   Born to the Northumbrian nobility. Benedictine monk at the monastery of Lindisfarne, England. Unsuccessfully worked to

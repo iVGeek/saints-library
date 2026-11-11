@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Cyneburga of Gloucester
+stub: false
 honorific: Saint
 summary: >-
   A princess who wished to devote herself to God; to avoid an arranged marriage she fled to Gloucester and worked as a

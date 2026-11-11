@@ -1,5 +1,6 @@
 ---
 name: Saint Claudius of Mesopotamia
+stub: true
 honorific: Saint
 summary: Became a monk at age 30. Captured, tortured and martyred in Mesopotamia.
 searchAliases:

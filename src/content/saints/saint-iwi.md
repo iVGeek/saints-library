@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Iwi
+stub: false
 honorific: Saint
 summary: >-
   Monk of Lindisfarne Abbey. Deacon. Spiritual student of Saint Cuthbert at Lindisfarne. Following the Irish ideal of an

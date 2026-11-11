@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Valerian of Alexandria
+stub: true
 honorific: Saint
 summary: Martyred in the persecutions of Diocletian.
 deathYear: 300

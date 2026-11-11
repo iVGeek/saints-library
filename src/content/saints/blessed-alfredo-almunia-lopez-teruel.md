@@ -1,6 +1,7 @@
 ---
 image: https://www.santiebeati.it/immagini/Thumbs/97278/97278.JPG
 name: Blessed Alfredo Almunia López-Teruel
+stub: true
 honorific: Blessed
 summary: Priest in the diocese of Almeria Spain. Martyred in the Spanish Civil War.
 birthYear: 1859

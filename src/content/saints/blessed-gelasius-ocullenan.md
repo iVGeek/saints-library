@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Gelasius O'Cullenan
+stub: true
 honorific: Blessed
 summary: Cistercian priest. One of the Irish Martyrs.
 deathYear: 1580

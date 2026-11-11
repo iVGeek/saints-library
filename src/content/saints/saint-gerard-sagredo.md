@@ -1,5 +1,6 @@
 ---
 name: Saint Gerard Sagredo
+stub: false
 honorific: Saint
 summary: >-
   Benedictine monk. Abbot at San Giorgio Maggiore abbey, Venice, Italy. He passed through Hungary while on a pilgrimage

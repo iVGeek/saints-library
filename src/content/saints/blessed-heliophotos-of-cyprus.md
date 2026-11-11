@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Héliophotos of Cyprus
+stub: false
 honorific: Blessed
 summary: >-
   Christian who retired to Cyprus to live as a cave hermit, devoting himself to prayer and an ascetic life devoted to

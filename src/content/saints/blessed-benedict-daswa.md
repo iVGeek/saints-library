@@ -1,5 +1,6 @@
 ---
 name: Blessed Benedict Daswa
+stub: false
 honorific: Blessed
 summary: >-
   Married layman in the diocese of Tzaneen, South Africa. Member of the Lemba tribe, called “Black Jews” because they

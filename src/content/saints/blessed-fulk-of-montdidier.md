@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Fulk of Montdidier
+stub: false
 honorific: Blessed
 summary: >-
   Premonstratensian canon. Chosen the second prior of the Saint-Jean monastery in Amiens, France in 1130, he served as

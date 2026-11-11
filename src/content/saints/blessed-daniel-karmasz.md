@@ -1,5 +1,6 @@
 ---
 name: Blessed Daniel Karmasz
+stub: true
 honorific: Blessed
 summary: Married layman from Legi, Poland. One of the Marytrs of Podlasie.
 image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Podlasie.jpg

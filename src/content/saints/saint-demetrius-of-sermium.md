@@ -1,5 +1,6 @@
 ---
 name: Saint Demetrius of Sermium
+stub: false
 honorific: Saint
 summary: >-
   Born to a wealthy, noble family and raised Christian. Well-educated, he became a professional public speaker; his

@@ -1,5 +1,6 @@
 ---
 name: Venerable Francesco Maria di Francia
+stub: false
 honorific: Venerable
 summary: >-
   Brother of Saint Hannibal Mary di Francia. Orphaned as a child. Priest of the archdiocese of Messina-Lipari-Santa

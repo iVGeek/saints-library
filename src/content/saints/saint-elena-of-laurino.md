@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Elena of Laurino
+stub: false
 honorific: Saint
 summary: >-
   Born to a poor family, as a young woman Elena felt a call to religious life. She was hounded by slander from the local

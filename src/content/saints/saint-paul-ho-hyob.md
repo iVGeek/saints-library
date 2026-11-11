@@ -1,5 +1,6 @@
 ---
 name: Saint Paul Ho Hyob
+stub: false
 honorific: Venerable
 summary: >-
   Layman soldier in the apostolic vicariate of Korea. When he admitted to being a Christian, he was imprisoned,

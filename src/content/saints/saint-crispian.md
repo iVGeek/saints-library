@@ -1,5 +1,6 @@
 ---
 name: Saint Crispian
+stub: false
 honorific: Saint
 summary: >-
   Member of the imperial Roman nobility. Brother of Saint Crispin with whom he evangelized Gaul in the middle 3rd

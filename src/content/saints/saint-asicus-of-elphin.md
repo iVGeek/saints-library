@@ -1,5 +1,6 @@
 ---
 name: Saint Asicus of Elphin
+stub: false
 honorific: Saint
 summary: >-
   Married coppersmith and silversmith. Convert. Disciple of Saint Patrick. First bishop of the diocese of Elphin,

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Vilfinus of Die
+stub: true
 honorific: Saint
 title: Bishop
 summary: Bishop of Die, France in the late 8th and early 9th centuries.

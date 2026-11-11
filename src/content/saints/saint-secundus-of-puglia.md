@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Secundus of Puglia
+stub: true
 honorific: Saint
 title: Bishop
 summary: Fifth and sixth century bishop in the region of Puglia, Italy.

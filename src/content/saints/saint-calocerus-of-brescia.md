@@ -1,5 +1,6 @@
 ---
 name: Saint Calocerus of Brescia
+stub: false
 honorific: Saint
 summary: >-
   Officer in the army of Emperor Hadrian. Convert. Martyr. Connected in old writings with Saint Faustinus and Saint

@@ -1,6 +1,7 @@
 ---
 image: https://www.catholic.org/files/images/saints/3408.jpg
 name: Saint Florentius of Vienne
+stub: false
 honorific: Saint
 title: Bishop
 summary: Fourth century bishop of Vienne, France. Attended the Council of Valence in 374.

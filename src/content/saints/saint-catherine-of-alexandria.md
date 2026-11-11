@@ -1,5 +1,6 @@
 ---
 name: Saint Catherine of Alexandria
+stub: false
 honorific: Saint
 title: St. Catherine of Alexandria
 summary: >-

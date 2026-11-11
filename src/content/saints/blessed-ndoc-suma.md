@@ -1,5 +1,6 @@
 ---
 name: Blessed Ndoc Suma
+stub: false
 honorific: Blessed
 summary: >-
   Ndoc studied in Albania and at the Jesuit Canisianum College in Innsbruck, Austria. He was ordained a priest in the

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Colman of Kilroot
+stub: true
 honorific: Saint
 summary: Monk. Disciple of Saint Ailbe of Emly. Abbot. Bishop of Kilroot, Ireland.
 searchAliases:

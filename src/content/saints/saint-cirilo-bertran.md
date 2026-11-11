@@ -1,5 +1,6 @@
 ---
 name: Saint Cirilo Bertrán
+stub: false
 honorific: Venerable
 summary: >-
   Professed religious in the Brothers of the Christian Schools, entering the novitate on 23 October 1906. Director of

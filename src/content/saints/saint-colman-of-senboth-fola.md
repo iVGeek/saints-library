@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Colman of Senboth-Fola
+stub: false
 honorific: Saint
 summary: Monk. Spiritual student of Saint Aedan of Ferns. Abbot of Senboth-Fola Abbey near Ferns, Ireland.
 deathYear: 632

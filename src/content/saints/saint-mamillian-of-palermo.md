@@ -1,5 +1,6 @@
 ---
 name: Saint Mamillian of Palermo
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Palermo, Sicily. Because Mamillian stood for orthodox Christianity, the Arian King Genseric first imprisoned

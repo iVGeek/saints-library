@@ -1,5 +1,6 @@
 ---
 name: Saint Benedict dell'Antella
+stub: false
 honorific: Saint
 summary: >-
   One of the Seven Founders of the Servants of Mary. Attended the Council of Lyons in 1246. Governed the Servites in the

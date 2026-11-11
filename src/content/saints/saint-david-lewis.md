@@ -1,5 +1,6 @@
 ---
 name: Saint David Lewis
+stub: false
 honorific: Venerable
 summary: >-
   His mother, Margaret Prichard, was Catholic, but his father, Morgan Lewis, was a Protestant school headmaster; David,

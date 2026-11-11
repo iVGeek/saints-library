@@ -1,5 +1,6 @@
 ---
 name: Mary Magdalene
+stub: false
 honorific: Saint
 title: Apostle to the Apostles
 summary: >-

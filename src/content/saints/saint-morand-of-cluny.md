@@ -1,5 +1,6 @@
 ---
 name: Saint Morand of Cluny
+stub: false
 honorific: Saint
 summary: >-
   Monk of Cluny. Founded the monastery of Saint Christopher at Altkirch, France. Lived the whole of each Lent on a

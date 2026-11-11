@@ -1,5 +1,6 @@
 ---
 name: Martyrs of Brazil
+stub: false
 honorific: Saint
 summary: >-
   On 25 December 1597 an expedition of colonists, with two Jesuit and two Franciscan evangelists, arrived at Natal, Rio

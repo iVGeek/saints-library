@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/48/Painting_of_the_Nagasaki_Martyrs.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Caius of Korea
+stub: false
 honorific: Blessed
 summary: >-
   Layman catechist in the archdiocese of Nagasaki, Japan. Martyr. Caius was accepted into the Jesuits, but had been

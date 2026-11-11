@@ -1,5 +1,6 @@
 ---
 name: Saint Paulus Lang Fu
+stub: false
 honorific: Venerable
 summary: >-
   Child in the apostolic vicariate of Southeastern Zhili, China, the seven-year-old son of Saint Yangzhi Lang. Martyred

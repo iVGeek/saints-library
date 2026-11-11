@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/a/aa/Dormitio_Virginis_Riccia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Stefano Corumano
+stub: false
 honorific: Blessed
 title: Hermit
 summary: Friend of Blessed Jean of Tufara. Hermit who lived in a cave near Riccia, Italy.

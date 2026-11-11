@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/e/ea/EudisteEmb.gif?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Pierre-Claude Pottier
+stub: true
 honorific: Blessed
 summary: Eudist priest. One of the Martyrs of September.
 birthYear: 1743

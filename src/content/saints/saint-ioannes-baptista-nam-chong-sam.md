@@ -1,5 +1,6 @@
 ---
 name: Saint Ioannes Baptista Nam Chong-Sam
+stub: false
 honorific: Venerable
 summary: >-
   Lifelong layman in the apostolic vicariate of Korea. Well educated, he embarked at an early age on a career in civil

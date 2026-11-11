@@ -1,5 +1,6 @@
 ---
 name: Blessed Pontius de Clariana
+stub: true
 honorific: Blessed
 summary: Layman knight. One of the early Mercedarians.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Pontius-de-Clariana.jpg

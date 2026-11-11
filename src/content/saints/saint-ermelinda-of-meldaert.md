@@ -1,5 +1,6 @@
 ---
 name: Saint Ermelinda of Meldaert
+stub: false
 honorific: Saint
 summary: >-
   Born to the wealthy nobility, the daughter of Ermeonoldo and Armensinda, and related to the Pepin family. Ermelinda

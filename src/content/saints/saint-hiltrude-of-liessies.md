@@ -1,5 +1,6 @@
 ---
 name: Saint Hiltrude of Liessies
+stub: false
 honorific: Saint
 summary: Recluse near Liessies, France under the spiritual direction of her brother Gundrad, abbot of the nearby monastery.
 image: >-

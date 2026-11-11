@@ -1,5 +1,6 @@
 ---
 name: Blessed Nevolo of Faenza
+stub: false
 honorific: Blessed
 summary: >-
   Son of a craftsman. Layman cobbler who led a dissolute life in his youth and early married life. However, a serious

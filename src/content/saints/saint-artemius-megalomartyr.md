@@ -1,5 +1,6 @@
 ---
 name: Saint Artemius Megalomartyr
+stub: false
 honorific: Saint
 summary: >-
   Noted soldier and military leader under Emperor Constantine the Great. Imperial prefect (viceroy) of Egypt and Duke of

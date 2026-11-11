@@ -1,5 +1,6 @@
 ---
 name: Martin de Porres
+stub: false
 honorific: Saint
 title: martin-de-porres
 summary: >-

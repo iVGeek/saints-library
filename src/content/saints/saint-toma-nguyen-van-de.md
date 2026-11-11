@@ -1,5 +1,6 @@
 ---
 name: Saint Tôma Nguyen Van Ðe
+stub: false
 honorific: Venerable
 summary: >-
   Layman tailor in the apostolic vicariate of East Tonkin (in modern Vietnam. Dominican tertiary. Arrested for

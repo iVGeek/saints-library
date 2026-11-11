@@ -1,5 +1,6 @@
 ---
 name: Saint Abibus of Egypt
+stub: true
 honorific: Saint
 summary: Martyr.
 died: Egypt

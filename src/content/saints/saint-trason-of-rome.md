@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Trason of Rome
+stub: false
 honorific: Saint
 summary: Martyred in the persecutions of Diocletian for ministering to Christian prisoners.
 searchAliases:

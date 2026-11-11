@@ -1,5 +1,6 @@
 ---
 name: Esdras the Prophet
+stub: false
 honorific: Saint
 summary: >-
   Priest and scribe who left Babylon in the 7th year of Artaxerxes (458 B.C.) with a caravan of 1,800 Jewish exiles, to

@@ -1,5 +1,6 @@
 ---
 name: Blessed Camillus Costanzo
+stub: true
 honorific: Blessed
 summary: Jesuit priest. Missionary to Japan. Martyr.
 image: https://commons.wikimedia.org/wiki/Special:FilePath/Costanzo_Camillus_1.jpg?width=600

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Wasnulf
+stub: false
 honorific: Saint
 summary: >-
   Seventh-century priest and noted preachers. Missionary to the Hainault region (along the border of modern Belgium and

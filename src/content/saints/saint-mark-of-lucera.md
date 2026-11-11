@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Mark of Lucera
+stub: true
 honorific: Saint
 summary: Fourth-century bishop in southern Italy.
 deathYear: 328

@@ -1,5 +1,6 @@
 ---
 name: Saint Lucidus of Aquara
+stub: false
 honorific: Saint
 summary: >-
   The son of Albino della Croce and Sabina Nicodemo. Monk of Saint Peter's Abbey near Aquara, Italy, joining at the age

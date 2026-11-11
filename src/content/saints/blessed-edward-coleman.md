@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/d/d0/Cathedral_of_Saint_Mary_-_Miami_08.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Edward Coleman
+stub: false
 honorific: Blessed
 summary: >-
   Educated at Cambridge. Convert to Catholicism. Secretary to the duchess of York. Falsely condemned as being part of

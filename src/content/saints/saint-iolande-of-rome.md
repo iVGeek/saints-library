@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Iolande of Rome
+stub: false
 honorific: Saint
 summary: >-
   Less than 20 years old when she was arrested for aiding Christian prisoners during the persecutions of Marcus

@@ -1,5 +1,6 @@
 ---
 name: Saint Vincent of Avila
+stub: false
 honorific: Saint
 summary: >-
   Brother of Saint Sabina of Avila and Saint Saint Christeta of Avila. During a period of persecution, he fled Talavera

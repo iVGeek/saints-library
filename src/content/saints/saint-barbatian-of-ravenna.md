@@ -1,5 +1,6 @@
 ---
 name: Saint Barbatian of Ravenna
+stub: false
 honorific: Saint
 summary: >-
   Fifth century priest at Antioch (in modern Turkey). While in Rome, Italy on a mission he was befriended by Empress

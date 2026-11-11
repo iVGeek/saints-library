@@ -1,5 +1,6 @@
 ---
 name: Saint Aetherius of Auxerre
+stub: true
 honorific: Saint
 summary: Sixth-century bishop of Auxerre, France for 10 years.
 searchAliases:

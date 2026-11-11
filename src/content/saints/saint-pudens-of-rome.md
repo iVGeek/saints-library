@@ -1,5 +1,6 @@
 ---
 name: Saint Pudens of Rome
+stub: false
 honorific: Saint
 summary: >-
   First century Roman senator. Adult convert, baptised by the Apostles. May have been the Pudens mentioned by Saint Paul

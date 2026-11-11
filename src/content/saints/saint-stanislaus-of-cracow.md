@@ -1,5 +1,6 @@
 ---
 name: Saint Stanislaus of Cracow
+stub: false
 honorific: Saint
 title: St. Stanislaus of Cracow
 summary: >-

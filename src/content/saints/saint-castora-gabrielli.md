@@ -1,6 +1,7 @@
 ---
 image: https://www.santiebeati.it/immagini/Thumbs/97593/97593.JPG
 name: Saint Castora Gabrielli
+stub: false
 honorific: Saint
 summary: >-
   Lay woman, married to Santuccio Sanfonerio, a lawyer at Sant'Angelo in Vado, Umbria, Italy. Franciscan tertiary.

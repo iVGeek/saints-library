@@ -1,5 +1,6 @@
 ---
 name: Blessed Antero Mateo García
+stub: false
 honorific: Blessed
 summary: >-
   Layman in the archdiocese of Barcelona, Spain. Married to Trabadelo Malagon in 1902; they eventually had eight

@@ -1,5 +1,6 @@
 ---
 name: Saint Anastasia the Elder
+stub: false
 honorific: Saint
 summary: >-
   Third-century nun. Spiritual student of Saint Sophia. Tortured, mutilated (breasts, hands and feet cut off and teeth

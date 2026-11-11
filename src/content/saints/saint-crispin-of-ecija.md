@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Crispin of Ecija
+stub: false
 honorific: Saint
 summary: >-
   Fourth century bishop of Ecija, Andalusia, Spain. Martyred in the persecutions of Maximian Herculeus. Has a special

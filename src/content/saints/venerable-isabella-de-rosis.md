@@ -1,5 +1,6 @@
 ---
 name: Venerable Isabella de Rosis
+stub: false
 honorific: Venerable
 summary: >-
   The eldest of nine children born to the 19th century Italian noble family of Baron Domiziano de Roses and Baroness

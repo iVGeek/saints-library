@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/1/18/Orden_vom_Goldenen_Sporn.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Sylvester Ventura
+stub: false
 honorific: Blessed
 summary: >-
   At age 40 he joined the Camaldolese monks at the convent of Santa Maria degli in Florence, Italy where he served as a

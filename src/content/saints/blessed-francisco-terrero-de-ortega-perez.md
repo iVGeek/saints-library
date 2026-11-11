@@ -1,5 +1,6 @@
 ---
 name: Blessed Francisco Terrero de Ortega Pérez
+stub: true
 honorific: Blessed
 summary: Augustinian priest. Martyr.
 image: https://catholicsaints.info/wp-content/uploads/img-Augustinian-Martyrs-of-Japan.jpg

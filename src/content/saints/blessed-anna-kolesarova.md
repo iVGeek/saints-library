@@ -1,5 +1,6 @@
 ---
 name: Blessed Anna Kolesárová
+stub: false
 honorific: Blessed
 summary: >-
   Daughter of Ján “Hruška” Kolesár and  Anna (née Kušnírová), she was born into a pious farming family and baptized at

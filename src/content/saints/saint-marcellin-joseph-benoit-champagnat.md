@@ -1,5 +1,6 @@
 ---
 name: Saint Marcellin-Joseph-Benoît Champagnat
+stub: false
 honorific: Venerable
 summary: >-
   Entered the seminary at age 16. Student with Saint John Marie Vianney. Ordained in 1816. Founded the Little Brothers

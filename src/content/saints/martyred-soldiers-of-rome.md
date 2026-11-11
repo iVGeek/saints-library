@@ -1,5 +1,6 @@
 ---
 name: Martyred Soldiers of Rome
+stub: true
 honorific: Saint
 died: martyred c.68 in Rome, Italy
 deathPlace: Italy

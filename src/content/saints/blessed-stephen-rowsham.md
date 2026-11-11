@@ -1,5 +1,6 @@
 ---
 name: Blessed Stephen Rowsham
+stub: false
 honorific: Blessed
 summary: >-
   Studied at Oriel College, Oxford University. Anglican vicar of Saint Mary the Virgin, Oxford, England. Convert to

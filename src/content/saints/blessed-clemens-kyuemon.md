@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/48/Painting_of_the_Nagasaki_Martyrs.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Clemens Kyuemon
+stub: true
 honorific: Blessed
 summary: Layman martyr in the archdiocese of Nagasaki, Japan.
 birthYear: 1574

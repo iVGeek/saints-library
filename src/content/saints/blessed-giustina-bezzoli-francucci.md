@@ -1,5 +1,6 @@
 ---
 name: Blessed Giustina Bezzoli Francucci
+stub: false
 honorific: Blessed
 summary: >-
   Born to the nobility, Giustina grew up in a wealthy household. As a child, she frequently fasted on her own, and had a

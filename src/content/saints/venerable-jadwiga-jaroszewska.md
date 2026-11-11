@@ -1,5 +1,6 @@
 ---
 name: Venerable Jadwiga Jaroszewska
+stub: true
 honorific: Venerable
 summary: Founded the Benedictine Samaritan Sisters of the Cross of Christ.
 image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Jadwiga-Jaroszewska.jpg

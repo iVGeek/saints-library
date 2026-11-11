@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/3/30/PaniquiChurchjf5479_07.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed José Vega Riaño
+stub: true
 honorific: Blessed
 summary: Priest. Member of the Missionary Oblates of Mary Immaculate. Martyr.
 birthYear: 1904

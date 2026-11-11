@@ -1,5 +1,6 @@
 ---
 name: Saint Anthony the Roman
+stub: false
 honorific: Saint
 summary: >-
   Raised in a pious family during the time of the Great Schism; Anthony's loyalties lay with the Orthodox Church. He

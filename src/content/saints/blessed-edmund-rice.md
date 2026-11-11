@@ -1,5 +1,6 @@
 ---
 name: Blessed Edmund Rice
+stub: false
 honorific: Blessed
 summary: >-
   The fourth of seven sons born to pious farm family during a time of oppression of Irish Catholics by the English. He

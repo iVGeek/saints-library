@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/5/53/1899._Tzarevich_Dmitry_by_M._Nesterov.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Barbara Sim A-gi
+stub: false
 honorific: Blessed
 summary: >-
   Lay woman who was brought to the faith by her brother, Sim Nak-hun. Barbara consecrated herself to God without joining

@@ -1,5 +1,6 @@
 ---
 name: Venerable Giovanni Maoloni
+stub: false
 honorific: Venerable
 summary: >-
   The fourth of six children born to the farming family of Pasqual Maoloni and Serafino Caioni, Giovanni worked the

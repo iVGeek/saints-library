@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Jean de Bracq
+stub: false
 honorific: Blessed
 summary: >-
   Known as a pious and intelligent youth. Premonstratensian monk. Canon of the Premonstratensian monastery in Vicogne,

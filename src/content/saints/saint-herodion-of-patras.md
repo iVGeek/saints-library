@@ -1,5 +1,6 @@
 ---
 name: Saint Herodion of Patras
+stub: false
 honorific: Saint
 summary: >-
   First century bishop of Patras, Greece. He may have been one of the “70 Disciples of Jesus”. Martyr. Saint Paul the

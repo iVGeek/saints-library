@@ -1,5 +1,6 @@
 ---
 name: Saint Arilda
+stub: false
 honorific: Saint
 summary: Nun in Gloucestershire, England. Died fighting off a rapist. A church at Oldbury-on-the-Hill is dedicated to her.
 searchAliases:

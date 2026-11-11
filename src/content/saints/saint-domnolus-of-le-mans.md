@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Domnolus of Le Mans
+stub: false
 honorific: Saint
 summary: >-
   Monk. Abbot of Saint-Laurent Abbey in Paris, France. Bishop of Cenómano, Neustria (modern Le Mans, France) in 543.

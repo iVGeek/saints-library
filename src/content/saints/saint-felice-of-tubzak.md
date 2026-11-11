@@ -1,6 +1,7 @@
 ---
 image: https://www.santiebeati.it/immagini/Thumbs/90649/90649.JPG
 name: Saint Felice of Tubzak
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Tibiuca. During the persecutions of Diocletian, Felice was ordered by Procurator Magniliano to burn his

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Reginhard of Saint Bertin
+stub: true
 honorific: Saint
 summary: Monk of Saint Bertin Abbey. Murdered by invading Danes. Martyr.
 deathYear: 862

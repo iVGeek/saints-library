@@ -1,5 +1,6 @@
 ---
 name: Saint Pere Sans Jordà
+stub: false
 honorific: Venerable
 summary: >-
   Joined the Dominicans in 1697. Ordained on 24 September 1704. Missionary to the Philippines in 1712. Missionary to

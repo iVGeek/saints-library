@@ -1,5 +1,6 @@
 ---
 name: Saint Philastrius of Brescia
+stub: false
 honorific: Saint
 summary: >-
   Priest. Bishop of Brescia, Italy. Bishop during a time of Arian disturbances, he strongly opposed and wrote against

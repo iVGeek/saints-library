@@ -1,5 +1,6 @@
 ---
 name: Blessed Juan Elías Medina
+stub: false
 honorific: Blessed
 summary: >-
   Parish priest in Castro del Río, diocese of Córdoba, Spain, ordained on 1 July 1926, and serving in the Castro del Rio

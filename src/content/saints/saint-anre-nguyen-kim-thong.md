@@ -1,5 +1,6 @@
 ---
 name: Saint Anrê Nguyen Kim Thông
+stub: false
 honorific: Saint
 summary: >-
   Layman and solid citizen in his small town. Village mayor. Catechist. When the government persecutions of Catholics

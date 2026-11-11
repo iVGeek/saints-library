@@ -1,5 +1,6 @@
 ---
 name: Blessed Charles-Antoine-Nicolas Ancel
+stub: false
 honorific: Blessed
 summary: >-
   Eudist priest. Imprisoned on a ship in the harbor of Rochefort, France and left to die during the anti-Catholic

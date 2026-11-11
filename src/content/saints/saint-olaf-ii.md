@@ -1,5 +1,6 @@
 ---
 name: Saint Olaf II
+stub: false
 honorific: Saint
 summary: >-
   Son of Harald Grenske King of Norway and Åsta Gudbrandsdatter. Viking pirate. Convert to Christianity, baptised in

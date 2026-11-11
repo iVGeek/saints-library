@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Silvanus of Ancyra
+stub: true
 honorific: Saint
 summary: Child martyr.
 died: Ancyra, Galatia

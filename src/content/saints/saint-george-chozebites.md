@@ -1,5 +1,6 @@
 ---
 name: Saint George Chozebites
+stub: false
 honorific: Saint
 summary: >-
   After some time as a monk at the Choziba monastery in Palestine, George felt the need for solitude and withdrew from

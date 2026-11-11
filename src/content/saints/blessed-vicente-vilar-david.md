@@ -1,5 +1,6 @@
 ---
 name: Blessed Vicente Vilar David
+stub: false
 honorific: Blessed
 summary: >-
   Youngest of eight children. Educated by the Piarists, and studied engineering in Valencia, Spain. Married to Isabel

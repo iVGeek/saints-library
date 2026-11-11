@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint John of Rome
+stub: true
 honorific: Saint
 summary: Priest. Martyred during the persecutions of Julian the Apostate.
 deathYear: 362

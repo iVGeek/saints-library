@@ -1,5 +1,6 @@
 ---
 name: Venerable Bernarda Heimgartner
+stub: false
 honorific: Venerable
 summary: >-
   Her father died when Maria Anna was 14. From 1838 to 1840 she worked as a children's nurse in Baden, Aargau,

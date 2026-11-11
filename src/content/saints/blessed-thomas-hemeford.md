@@ -1,5 +1,6 @@
 ---
 name: Blessed Thomas Hemeford
+stub: false
 honorific: Blessed
 summary: >-
   Educated at Oxford, England. Convert to Catholicism. Seminarian at the English College in Rome, Italy; ordained in

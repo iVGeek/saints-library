@@ -1,5 +1,6 @@
 ---
 name: Saint Willigis of Mainz
+stub: false
 honorific: Saint
 summary: >-
   Son of a wheelwright. Well educated. Priest. Canon at Hildesheim, Germany. Noted speaker. Chaplain to Emperor Otto II.

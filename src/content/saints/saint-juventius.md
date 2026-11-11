@@ -1,5 +1,6 @@
 ---
 name: Saint Juventius
+stub: true
 image: >-
   https://commons.wikimedia.org/wiki/Special:FilePath/P._Juventius_Thalna%252C_denarius%252C_179-170_BC%252C_RRC_161-1.png?width=600
 honorific: Saint

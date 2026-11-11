@@ -1,5 +1,6 @@
 ---
 name: Saint Onesimus
+stub: false
 honorific: Saint
 summary: >-
   Slave of the Colossian Christians Saint Philemon and Saint Apphia. Committed a theft and fled from punishment to Rome

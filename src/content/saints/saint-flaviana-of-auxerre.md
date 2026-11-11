@@ -1,5 +1,6 @@
 ---
 name: Saint Flaviana of Auxerre
+stub: true
 honorific: Saint
 summary: Nun. Martyr.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Flaviana-of-Auxerre.jpg

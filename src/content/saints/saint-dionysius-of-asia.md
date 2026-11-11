@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Dionysius of Asia
+stub: false
 honorific: Saint
 summary: >-
   Uncle and guardian of Saint Pancras. In Rome, Italy the two converted to Christianity. Arrested for his faith during

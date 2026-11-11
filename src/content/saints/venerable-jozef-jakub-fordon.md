@@ -1,5 +1,6 @@
 ---
 name: Venerable Józef Jakub Fordon
+stub: false
 honorific: Venerable
 summary: >-
   Born to the minor nobility, the son of an architect. Ordained a priest on 2 August 1887. Joined the Franciscans,

@@ -1,5 +1,6 @@
 ---
 name: Blessed Ciriaco Olarte Pérez de Mendiguren
+stub: false
 honorific: Blessed
 summary: >-
   Ciriaco joined the Redemptorists at El Espino, Spain on 21 September 1904. Ordained a priest in the diocese of Cuenca,

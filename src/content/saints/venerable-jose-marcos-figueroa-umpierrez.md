@@ -1,5 +1,6 @@
 ---
 name: Venerable José Marcos Figueroa Umpierrez
+stub: false
 honorific: Venerable
 summary: >-
   Jesuit co-adjutor brother, making his solemn vows on 2 February 1897. He served in the infirmary and as a cook, tailor

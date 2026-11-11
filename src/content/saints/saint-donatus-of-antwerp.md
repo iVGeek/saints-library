@@ -1,5 +1,6 @@
 ---
 name: Saint Donatus of Antwerp
+stub: true
 image: https://commons.wikimedia.org/wiki/Special:FilePath/Donatus_van_M%25C3%25BCnstereifel.jpg?width=600
 honorific: Saint
 summary: Martyr.

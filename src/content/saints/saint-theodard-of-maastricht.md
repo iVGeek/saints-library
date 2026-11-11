@@ -1,5 +1,6 @@
 ---
 name: Saint Theodard of Maastricht
+stub: false
 honorific: Saint
 summary: >-
   Spiritual student of Saint Remaclus at Malmédy-Stavelot, Belgium. Abbot of Malmédy-Stavelot in 653. Bishop of

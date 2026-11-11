@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/3/30/DuomoVercelli.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Uguccio
+stub: true
 honorific: Blessed
 summary: No information.
 died: Mount Senario near Florence, Italy while at prayer

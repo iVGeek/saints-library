@@ -1,5 +1,6 @@
 ---
 name: Saint Prudentius of Troyes
+stub: false
 honorific: Saint
 summary: >-
   As a young man, Galindo fled from Spain to France ahead of the Saracen invaders, and there changed his name to

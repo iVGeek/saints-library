@@ -1,5 +1,6 @@
 ---
 name: Blessed Gilbert of Neufontaines
+stub: false
 honorific: Blessed
 summary: >-
   Born to the nobility of Aquitaine. Married to Petronilla, father of Pontia. Fought in the Crusades with King Louis VII

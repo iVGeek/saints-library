@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/9/9c/National_Shrine_of_Our_Lady_of_the_Snows.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Edward Powell
+stub: false
 honorific: Blessed
 summary: >-
   Educated at Oxford; Fellow of Oriel in 1495. Doctor of Divinity in 1506. Rector of Bleadon, Somerset, England. Priest.

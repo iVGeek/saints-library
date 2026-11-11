@@ -1,5 +1,6 @@
 ---
 name: Saint Emerita of Africa
+stub: true
 honorific: Saint
 summary: Martyr.
 died: unknown location in Africa, date unknown

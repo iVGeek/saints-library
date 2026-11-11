@@ -1,5 +1,6 @@
 ---
 name: Pope Saint Cletus
+stub: false
 honorific: Saint
 summary: >-
   Convert, brought to the faith by Saint Peter the Apostle, who ordained him. Third pope. He ordained an undetermined

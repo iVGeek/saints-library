@@ -1,5 +1,6 @@
 ---
 name: Saint Fumac
+stub: false
 image: https://commons.wikimedia.org/wiki/Special:FilePath/Recoules-de-Fumas.JPG?width=600
 honorific: Saint
 summary: First Christian missionary in Banffshire, Scotland. A healing well there is named for him.

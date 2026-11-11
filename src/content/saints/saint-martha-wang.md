@@ -1,5 +1,6 @@
 ---
 name: Saint Martha Wang
+stub: false
 honorific: Venerable
 summary: >-
   Married lay woman in the apostolic vicariate of Guizhou, China. Widow. Carried letters from Blessed Joseph Tshang and

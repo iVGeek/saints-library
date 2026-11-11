@@ -1,5 +1,6 @@
 ---
 name: Venerable Miguel Ángel Builes Gómez
+stub: false
 honorific: Venerable
 summary: >-
   The son of Agustín Builes Restrepo and Doña Ana María Gómez Peña. Ordained a priest on 29 November 1914. Chosen bishop

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Joseph of Palestine
+stub: false
 honorific: Saint
 summary: >-
   Jewish layman who was attached to the biblical school of Tiberius, and served as assistant to the famous Rabbi Hillel.

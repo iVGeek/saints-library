@@ -1,5 +1,6 @@
 ---
 name: Saint Boniface the Martyr
+stub: true
 honorific: Saint
 summary: Martyred in the persecutions of the Arian Vandal king Huneric.
 deathYear: 484

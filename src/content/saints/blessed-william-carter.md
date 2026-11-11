@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed William Carter
+stub: false
 honorific: Blessed
 summary: >-
   Married layman. Apprentice to several Catholic printers. Imprisoned and tortured for 18 months for “printing lewd

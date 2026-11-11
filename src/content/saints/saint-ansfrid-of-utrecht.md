@@ -1,5 +1,6 @@
 ---
 name: Saint Ansfrid of Utrecht
+stub: false
 honorific: Saint
 summary: >-
   Count of Brabant. Married to Hilsondis; father of one daughter; after the girl's birth, Ansfrid and Hilsondis, lived

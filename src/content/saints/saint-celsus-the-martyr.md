@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Celsus the Martyr
+stub: true
 honorific: Saint
 summary: Martyr. No other information has survived.
 died: martyred in Rome, Italy, date unknown

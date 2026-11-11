@@ -1,5 +1,6 @@
 ---
 name: Saint John Maron
+stub: false
 honorific: Saint
 summary: >-
   Son of Agathon, the governor of Sarum, and Anohamia, grandson of prince Alidipas, and a member of the Frankish royal

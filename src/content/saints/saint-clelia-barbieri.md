@@ -1,5 +1,6 @@
 ---
 name: Saint Clelia Barbieri
+stub: false
 honorific: Saint
 summary: >-
   From her earliest life, Clelia paid no attention to this world, focused solely on the spiritual life. Founded the

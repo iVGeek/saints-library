@@ -1,5 +1,6 @@
 ---
 name: Blessed Ivan Merz
+stub: false
 honorific: Blessed
 summary: >-
   Educated in Banja Luka, briefly in a military academy, and in Vienna, Austria. Fought on the Italian front of World

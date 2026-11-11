@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/9/91/Equestrian_portrait_of_Guru_Gobind_Singh_attended_upon_by_a_Nihang.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Pannus of Africa
+stub: true
 honorific: Saint
 summary: Martyr. No other detail have survived.
 died: unknown location in Africa, date unknown

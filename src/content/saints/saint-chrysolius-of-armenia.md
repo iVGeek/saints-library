@@ -1,5 +1,6 @@
 ---
 name: Saint Chrysolius of Armenia
+stub: false
 honorific: Saint
 summary: >-
   Raised in a Christian family, Chrysolius fled Armenia to north-east France in order to escape the persecutions of

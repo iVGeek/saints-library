@@ -1,5 +1,6 @@
 ---
 name: Saint Joseph Marello
+stub: false
 honorific: Venerable
 summary: >-
   Son of Vincenzo and Anna Maria Marello. His mother died when Joseph was very young, and the family moved from Turin to

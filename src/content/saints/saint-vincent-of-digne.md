@@ -1,5 +1,6 @@
 ---
 name: Saint Vincent of Digne
+stub: true
 honorific: Saint
 summary: Missionary to the Dauphiné area of France. Bishop of Digne, France.
 image: https://commons.wikimedia.org/wiki/Special:FilePath/Digne-les-Bains_09.JPG?width=600

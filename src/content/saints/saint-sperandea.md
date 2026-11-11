@@ -1,5 +1,6 @@
 ---
 name: Saint Sperandea
+stub: false
 honorific: Saint
 summary: >-
   Relative of Saint Ubaldus Baldassini. Benedictine nun at Cingoli, Ancona, Papal States (modern Italy). Abbess. Mystic

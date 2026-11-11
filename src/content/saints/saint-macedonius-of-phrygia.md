@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/5/59/Roman_Empire_-_Macedonia_%28125_AD%29.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Macedonius of Phrygia
+stub: true
 honorific: Saint
 summary: Martyred for destroying pagan idols.
 deathYear: 362

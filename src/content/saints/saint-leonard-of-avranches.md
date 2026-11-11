@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/7/78/Mont-Saint-Michel_vu_du_ciel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Leonard of Avranches
+stub: false
 honorific: Saint
 title: Bishop
 summary: >-

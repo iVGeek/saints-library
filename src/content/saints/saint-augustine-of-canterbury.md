@@ -1,5 +1,6 @@
 ---
 name: Saint Augustine of Canterbury
+stub: false
 honorific: Saint
 summary: >-
   Monk and abbot of Saint Andrew's abbey in Rome, Italy. Sent by Pope Saint Gregory the Great with 40 brother monks,

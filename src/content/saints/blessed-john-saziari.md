@@ -1,5 +1,6 @@
 ---
 name: Blessed John Saziari
+stub: true
 honorific: Blessed
 summary: Celibate layman farmer. Franciscan tertiary.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-John-Saziari.jpg

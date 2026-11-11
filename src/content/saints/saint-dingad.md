@@ -1,5 +1,6 @@
 ---
 name: Saint Dingad
+stub: false
 honorific: Saint
 summary: Fifth century son of the chieftain Saint Brychan of Brecknock. Hermit in Llandovery, Dyfed, Wales.
 region: England

@@ -1,5 +1,6 @@
 ---
 name: Blessed Salvador Mollar Ventura
+stub: true
 honorific: Blessed
 summary: Franciscan Friar Minor. Martyred in the Spanish Civil War.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Salvador-Mollar-Ventura.jpg

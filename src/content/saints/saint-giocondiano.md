@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Giocondiano
+stub: true
 honorific: Saint
 summary: Martyr.
 died: Africa, date and exact location unknown

@@ -1,5 +1,6 @@
 ---
 name: Saint Ðaminh Mau
+stub: false
 honorific: Venerable
 summary: >-
   Dominican. Priest. Promoted the use of the Rosary to strengthen the faith of Christians. Imprisoned in the

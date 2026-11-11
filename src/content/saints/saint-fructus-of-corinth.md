@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Fructus of Corinth
+stub: true
 honorific: Saint
 summary: Martyr.
 died: Corinth, Greece

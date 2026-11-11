@@ -1,5 +1,6 @@
 ---
 name: Venerable Johann Evangelist Wagner
+stub: true
 honorific: Venerable
 summary: Priest of the diocese of Augsburg, Germany.
 image: >-

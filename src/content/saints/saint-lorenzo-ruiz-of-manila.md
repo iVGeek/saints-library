@@ -1,5 +1,6 @@
 ---
 name: Saint Lorenzo Ruiz of Manila
+stub: false
 honorific: Venerable
 summary: >-
   Born to a Chinese father and Filipino mother, both Christians, Lorenzo learned Chinese and Tagalog at home, Spanish

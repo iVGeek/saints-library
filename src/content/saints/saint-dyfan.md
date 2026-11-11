@@ -1,5 +1,6 @@
 ---
 name: Saint Dyfan
+stub: false
 honorific: Saint
 summary: Second century missionary to the Britons, sent by Pope Saint Eleutherius at the request of King Saint Lucius. Marytr.
 searchAliases:

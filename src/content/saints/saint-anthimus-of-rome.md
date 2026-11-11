@@ -1,5 +1,6 @@
 ---
 name: Saint Anthimus of Rome
+stub: false
 honorific: Saint
 summary: >-
   Parish priest in Rome, Italy, noted for his conversions, including that of a Roman prefect. The official's change of

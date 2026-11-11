@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Ulched
+stub: false
 honorific: Saint
 summary: Holy man for whom Llechulched, Anglesey, Wales was named. I have no further information.
 searchAliases:

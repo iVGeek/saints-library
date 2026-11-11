@@ -1,5 +1,6 @@
 ---
 name: patrons of trecatesi
+stub: true
 honorific: Saint
 region: Italy
 feastDay:

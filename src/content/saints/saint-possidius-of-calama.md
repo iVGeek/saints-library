@@ -1,5 +1,6 @@
 ---
 name: Saint Possidius of Calama
+stub: false
 honorific: Saint
 summary: >-
   Spiritual student of Saint Augustine of Hippo. Bishop of Calama, Numidia in North Africa in 397. He preached against

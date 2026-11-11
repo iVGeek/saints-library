@@ -1,5 +1,6 @@
 ---
 name: Blessed Bernard of Seville
+stub: true
 honorific: Blessed
 summary: Commander of the Mercedarian convent of Saint Eulalia in Seville, Spain.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Bernard-of-Seville.jpg

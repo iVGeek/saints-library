@@ -1,5 +1,6 @@
 ---
 name: Blessed Basil Hopko
+stub: false
 honorific: Blessed
 summary: >-
   Son of Anna Petrenko and Basil Hopko, poor, landless peasants. His father died when the boy was just a year old, and

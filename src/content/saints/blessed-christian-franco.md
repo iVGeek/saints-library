@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/48/Painting_of_the_Nagasaki_Martyrs.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Christian Franco
+stub: false
 honorific: Blessed
 summary: >-
   Brother of Blessed Desiderio Franco. Joined the Augustinians in 1362. Monk at the Carbonara convent in Naples, Italy

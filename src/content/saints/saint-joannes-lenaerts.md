@@ -1,5 +1,6 @@
 ---
 name: Saint Joannes Lenaerts
+stub: false
 honorific: Saint
 summary: >-
   Augustinian at Briel. Spiritual director of and confessor to a community of Augustinian nuns at Gorkum, Netherlands.

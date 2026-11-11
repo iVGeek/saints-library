@@ -1,5 +1,6 @@
 ---
 name: Blessed María del Olvido Noguera Albelda
+stub: false
 honorific: Blessed
 summary: >-
   A lifelong lay woman of the archdiocese of Valencia, Spain, she was baptized on 1 January 1904, confirmed on 22 April

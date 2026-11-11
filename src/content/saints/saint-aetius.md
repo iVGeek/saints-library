@@ -1,5 +1,6 @@
 ---
 name: Saint Aetius
+stub: false
 honorific: Saint
 summary: >-
   General. He and 41 fellow Christian soldiers were captured by Caliph Montassem at Amorium, Syria in 836. They spent

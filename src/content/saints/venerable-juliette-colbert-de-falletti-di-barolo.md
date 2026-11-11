@@ -1,5 +1,6 @@
 ---
 name: Venerable Juliette Colbert de Falletti di Barolo
+stub: false
 honorific: Venerable
 summary: >-
   Married lay woman in the archdiocese of Turin, Italy. Widow. Founded the Daughters of Jesus the Good Shepherd and the

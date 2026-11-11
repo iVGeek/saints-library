@@ -1,5 +1,6 @@
 ---
 name: Saint Phêrô Dung
+stub: false
 honorific: Venerable
 summary: >-
   Married layman in the apostolic vicariate of Central Tonkin (in modern Vietnam). Fisherman by trade. During the

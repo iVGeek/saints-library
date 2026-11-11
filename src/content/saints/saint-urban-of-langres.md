@@ -1,5 +1,6 @@
 ---
 name: Saint Urban of Langres
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Langres, France in 374. During a priod of persecution of the Church, Urban hid for a while in a vineyard.

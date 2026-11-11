@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/3/33/Seznam_pape%C5%BE%C5%AF_pochovan%C3%BDch_v_Bazilice_sv._Petra_%28%C4%8Derven_2024%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Candida of Como
+stub: false
 honorific: Blessed
 summary: >-
   Augustinian nun at the monastery of the Holy Cross in Brescia, Italy. She was known for an ascetic life spent in

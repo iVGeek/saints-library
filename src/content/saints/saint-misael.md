@@ -1,5 +1,6 @@
 ---
 name: Saint Misael
+stub: false
 honorific: Saint
 summary: >-
   One of the three children thrown into the fiery furnace by order of King Nebuchadnezzar II in the 7th-century BC as

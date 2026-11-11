@@ -1,5 +1,6 @@
 ---
 name: Saint Alexis Falconieri
+stub: false
 honorific: Saint
 summary: >-
   One of the Seven Founders of the Servants of Mary; uncle of Saint Juliana Falconieri. Son of Bernard Falconieri, a

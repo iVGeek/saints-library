@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Veranus of Lyon
+stub: true
 honorific: Saint
 summary: Fifth century bishop of Lyon, France.
 region: France

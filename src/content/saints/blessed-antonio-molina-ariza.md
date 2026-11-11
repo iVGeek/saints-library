@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/7/76/Guatemala_collage_%2850%25_size%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Antonio Molina Ariza
+stub: false
 honorific: Blessed
 summary: Priest of the diocese of Córdoba, Spain, serving in the Hornachuelos community. Martyred in the Spanish Civil War.
 birthYear: 1904

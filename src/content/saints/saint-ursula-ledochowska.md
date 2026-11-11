@@ -1,5 +1,6 @@
 ---
 name: Saint Ursula Ledóchowska
+stub: false
 honorific: Venerable
 summary: >-
   Daughter of Count Anthony Ledochowska, a Polish noble, and an Austrian mother. One of five children in a pious family;

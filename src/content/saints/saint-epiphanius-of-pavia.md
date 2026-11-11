@@ -1,5 +1,6 @@
 ---
 name: Saint Epiphanius of Pavia
+stub: false
 honorific: Saint
 summary: >-
   Brother of Saint Honorata and Saint Liberata. Bishop of Pavia, Italy in 467 at age 28. Powerful and influential

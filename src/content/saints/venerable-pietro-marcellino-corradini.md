@@ -1,5 +1,6 @@
 ---
 name: Venerable Pietro Marcellino Corradini
+stub: false
 honorific: Venerable
 summary: >-
   Baptized at the age of one day. As a young man in Rome, Italy, he earned degrees in civil and canon law, and studied

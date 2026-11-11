@@ -1,5 +1,6 @@
 ---
 name: Saint Leodegarius of Autun
+stub: false
 honorific: Saint
 summary: >-
   Son of the nobles Bobilo and Saint Sigrada. Brother of Saint Gerinus. Raised in the court of King Clotaire II. Studied

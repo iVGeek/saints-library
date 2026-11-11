@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Donatus of Carthage
+stub: true
 honorific: Saint
 summary: Martyr.
 deathYear: 430

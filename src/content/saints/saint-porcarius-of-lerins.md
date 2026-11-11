@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Porcarius of Lérins
+stub: false
 honorific: Saint
 summary: >-
   Benedictine monk. Abbot of Lérins, France, a house of 500 monks. Warned in a vision that the monastery would be

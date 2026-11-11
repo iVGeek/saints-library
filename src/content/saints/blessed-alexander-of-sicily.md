@@ -1,5 +1,6 @@
 ---
 name: Blessed Alexander of Sicily
+stub: false
 honorific: Blessed
 summary: >-
   Joined the Mercedarians in Palermo, Sicily. Worked at the convent in Bonaria, Italy. Sent to north Africa to ransom

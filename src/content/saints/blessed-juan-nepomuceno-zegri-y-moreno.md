@@ -1,5 +1,6 @@
 ---
 name: Blessed Juan Nepomuceno Zegrí y Moreno
+stub: false
 honorific: Blessed
 summary: >-
   Son of Antonio Zegr&iacute; Mart&iacute;n and Josefa Moreno Escudero. A pious child, he received a good religious

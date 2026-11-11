@@ -1,5 +1,6 @@
 ---
 name: Blessed Constantino Fernández Álvarez
+stub: false
 honorific: Blessed
 summary: >-
   Dominican priest, making his profession in the Order on 8 July 1923, and ordained on 10 November 1929. He earned a

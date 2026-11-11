@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Relindis
+stub: false
 honorific: Saint
 summary: >-
   Daughter of Count Adelard. Sister of Saint Herlindis. Friend of Saint Willibrord of Echternach and Saint Boniface.

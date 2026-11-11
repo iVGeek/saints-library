@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Theodore of Cagliari
+stub: true
 honorific: Saint
 summary: Martyr.
 deathYear: 300

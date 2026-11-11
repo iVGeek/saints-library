@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Liberius of Achad-Bo
+stub: false
 honorific: Saint
 summary: >-
   Tradition says that Liberius was a wild and sinful youth before a conversion experience brought him to live as a

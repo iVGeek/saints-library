@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Berno of Cluny
+stub: false
 honorific: Saint
 summary: >-
   For a man whose work has had such an impact, surprisingly little is known about him. May have been a member of a noble

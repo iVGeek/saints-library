@@ -1,5 +1,6 @@
 ---
 name: Saint Maddalena of Canossa
+stub: false
 honorific: Venerable
 summary: >-
   One of five children born to a wealthy and famous family, her father died and mother abandoned them all to a governess

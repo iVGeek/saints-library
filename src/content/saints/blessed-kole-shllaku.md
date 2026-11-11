@@ -1,5 +1,6 @@
 ---
 name: Blessed Kolë Shllaku
+stub: false
 honorific: Blessed
 summary: >-
   Son of Loros and Marë Ashtës. Studied at Franciscan schools, and became a Franciscan Friar Minor novice on 4 October

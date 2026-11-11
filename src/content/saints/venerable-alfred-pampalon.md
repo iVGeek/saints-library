@@ -1,5 +1,6 @@
 ---
 name: Venerable Alfred Pampalon
+stub: false
 honorific: Venerable
 summary: >-
   Ninth of twelve children born to Antoine and Josephine Dorion Pampalon; his parents were pious people, and his father

@@ -1,5 +1,6 @@
 ---
 name: Venerable Carla Barbara Colchen Carré de Malberg
+stub: false
 honorific: Venerable
 summary: >-
   Lifelong lay woman. Married on 2 May 1849. Mother. Helped found the Daughters of Saint Francis de Sales, Salesian

@@ -1,5 +1,6 @@
 ---
 name: Venerable Simon Mpeke
+stub: false
 honorific: Venerable
 summary: >-
   Born to a non-Christian farm family, the son of Yomba and Iniyem Ngo Epouhe. Having learned about the faith at school,

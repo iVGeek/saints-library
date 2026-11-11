@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/0/08/Roma_martires_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Manuel Luque Ramos
+stub: false
 honorific: Blessed
 summary: >-
   Layman in the archdiocese of Sevilla, Spain, he lived with his widowed mother. Member of the Society of Saint Vincent

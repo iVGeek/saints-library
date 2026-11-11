@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/0/0d/EgliseSaintMartinLuch%C3%A9.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Pierre Frémond
+stub: false
 honorific: Blessed
 summary: Layman of the diocese of Angers, France. Martyred in the persecutions of the French Revolution.
 birthYear: 1754

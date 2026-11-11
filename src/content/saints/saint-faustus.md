@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Faustus
+stub: true
 honorific: Saint
 summary: Layman. Martyred with eleven others.
 searchAliases:

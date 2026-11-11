@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Eusebius of Mount Coryphe
+stub: true
 honorific: Saint
 title: Hermit
 summary: Fourth-century hermit on Mount Coryphe near Antioch, Syria.

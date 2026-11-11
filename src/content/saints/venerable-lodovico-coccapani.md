@@ -1,5 +1,6 @@
 ---
 name: Venerable Lodovico Coccapani
+stub: true
 honorific: Venerable
 summary: Layman of the diocese of Pisa, Italy. Member of the Secular Franciscan Order.
 image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Lodovico-Coccapani.jpg

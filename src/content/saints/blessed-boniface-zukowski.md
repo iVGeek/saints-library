@@ -1,5 +1,6 @@
 ---
 name: Blessed Boniface Zukowski
+stub: false
 honorific: Blessed
 summary: >-
   Son of Andrzej Zukowski and Albina Walkiewicz and raised on a farm. Entered the Order of Friars Minor Conventual in

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Félix Barrio y Barrio
+stub: false
 honorific: Blessed
 summary: Member of the Claretians, professed on 19 March 1899. Martyred in the Spanish Civil War.
 birthYear: 1883

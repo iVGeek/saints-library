@@ -1,5 +1,6 @@
 ---
 name: Pope Saint Urban I
+stub: false
 honorific: Saint
 summary: >-
   Son of Pontianus. Pope during a time of relative peace and growth in the Church. Continued the orthodox papal

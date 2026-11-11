@@ -1,5 +1,6 @@
 ---
 name: Blessed Maria Karłowska
+stub: false
 honorific: Blessed
 summary: >-
   Born into a large family and pious family, Maria was in her teens when she was orphaned and became an apprentice

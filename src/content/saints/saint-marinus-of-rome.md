@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Marinus of Rome
+stub: false
 honorific: Saint
 summary: >-
   Son of an imperial Roman senator; served as senator himself. For being a Christian during the persecutions of emperor

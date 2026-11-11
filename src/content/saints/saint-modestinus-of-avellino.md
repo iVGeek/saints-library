@@ -1,5 +1,6 @@
 ---
 name: Saint Modestinus of Avellino
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility of Asia Minor. Bishop of Antioch, Turkey in 302, working with Saint Fiorentinus and Saint

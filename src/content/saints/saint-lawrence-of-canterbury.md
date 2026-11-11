@@ -1,5 +1,6 @@
 ---
 name: Saint Lawrence of Canterbury
+stub: false
 honorific: Saint
 summary: >-
   Benedictine monk. At the order of Pope Saint Gregory the Great, he accompanied Saint Augustine of Canterbury to

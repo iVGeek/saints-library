@@ -1,5 +1,6 @@
 ---
 name: Saint Asterius of Petra
+stub: false
 honorific: Saint
 summary: >-
   A former heretic who converted from Arianism to orthodox Christianity. Bishop of Petra. Fought heresy and earned the

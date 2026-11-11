@@ -1,5 +1,6 @@
 ---
 name: Saint Privatus of Mende
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Mende, France. Captured by invading barbarians, but was offered his freedom if he would reveal where his

@@ -1,5 +1,6 @@
 ---
 name: Blessed Tomás Mateos Sánchez
+stub: true
 honorific: Blessed
 summary: Discalced Carmelite brother. Martyred in the Spanish Civil War.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Tomas-Mateos-Sanchez.jpg

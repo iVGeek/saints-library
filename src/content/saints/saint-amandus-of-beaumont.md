@@ -1,5 +1,6 @@
 ---
 name: Saint Amandus of Beaumont
+stub: true
 honorific: Saint
 summary: Hermit at Beaumont, archdiocese of Rheims, France.
 searchAliases:

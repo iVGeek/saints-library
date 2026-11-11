@@ -1,5 +1,6 @@
 ---
 name: Saint Firminus of Amiens
+stub: false
 honorific: Saint
 summary: >-
   Son of a Roman senator. Converted to Christianity by Saint Saturninus. Ordained by Saint Honestus at Toulouse, France.

@@ -1,5 +1,6 @@
 ---
 name: Saint Caimin of Lough Derg
+stub: false
 honorific: Saint
 summary: >-
   Son of Dima and Cuman; related to the kings of Leinster, Ireland and half-brother of Guare, king of Connaught,

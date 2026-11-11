@@ -1,5 +1,6 @@
 ---
 name: Saint Digna of Todi
+stub: false
 honorific: Saint
 summary: >-
   Young woman in 4th-century Todi, Italy who made a private vow of consecration to God. During the persecutions of

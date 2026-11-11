@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Witesindo of Cordoba
+stub: false
 honorific: Saint
 summary: >-
   The only information about the man's personal life to come down to us is that to save himself from the persecution of

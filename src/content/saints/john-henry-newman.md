@@ -1,5 +1,6 @@
 ---
 name: John Henry Newman
+stub: false
 honorific: Saint
 title: Cardinal, Priest, Theologian
 summary: >-

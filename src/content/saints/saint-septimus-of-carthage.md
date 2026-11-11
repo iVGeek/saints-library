@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Septimus of Carthage
+stub: true
 honorific: Saint
 summary: Monk. Martyred in the persecutions of the Arian King Hunneric.
 deathYear: 483

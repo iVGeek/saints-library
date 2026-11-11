@@ -1,5 +1,6 @@
 ---
 name: Saint Cybi of Caenarvon
+stub: false
 honorific: Saint
 summary: >-
   May have been the son of Saint Selevan; may have been the cousin of Saint David of Wales. Itinerent hermit,

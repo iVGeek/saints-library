@@ -1,5 +1,6 @@
 ---
 name: Saint Georgia
+stub: true
 honorific: Saint
 summary: Nun. Anchoress near Clermont, France.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Georgia.jpg

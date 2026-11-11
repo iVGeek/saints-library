@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Emilian
+stub: true
 honorific: Saint
 summary: A confessor of the faith. No details about him have survived.
 searchAliases:

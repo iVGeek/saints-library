@@ -1,5 +1,6 @@
 ---
 name: Blessed Ioan Bãlan
+stub: false
 honorific: Blessed
 summary: >-
   Studied theology in Budapest, Hungary and in Vienna, Austria. Ordained a Romanian Greek-Catholic Rite priest on 7 July

@@ -1,6 +1,7 @@
 ---
 image: https://www.santiebeati.it/immagini/Thumbs/97206/97206.JPG
 name: Blessed José Romero Ortega
+stub: false
 honorific: Blessed
 summary: >-
   The son of a tailor, the brother of Blessed Francisco Romero Ortega, after studies at the seminary of San Indalecio de

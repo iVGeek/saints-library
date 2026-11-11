@@ -1,5 +1,6 @@
 ---
 name: Saint Zosimus of Rome
+stub: false
 honorific: Saint
 summary: >-
   Brought to Rome, Italy with Saint Ignatius of Antioch and Saint Rufus during the persecutions of Trajan. Marytred with

@@ -1,5 +1,6 @@
 ---
 name: Blessed Antony of Pavoni
+stub: false
 honorific: Blessed
 summary: >-
   Known as a pious, intelligent youth. A Dominican, he was a monk at age 15, priest at 25. Pope Urban V appointed him

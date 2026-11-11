@@ -1,5 +1,6 @@
 ---
 name: Saint Asella of Rome
+stub: false
 honorific: Saint
 summary: >-
   A consecreated virgin (a nun) from age 10. At age 12 she moved into a cell in Rome, Italy in which she lived the rest

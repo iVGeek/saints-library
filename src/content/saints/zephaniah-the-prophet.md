@@ -1,5 +1,6 @@
 ---
 name: Zephaniah the Prophet
+stub: false
 honorific: Saint
 summary: Hebrew prophet and author of the canonical Old Testament book that bears his name.
 image: https://catholicsaints.info/wp-content/uploads/img-Zephaniah.jpg

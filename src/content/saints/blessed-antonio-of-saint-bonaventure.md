@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/b/b3/Francisco_de_Zurbar%C3%A1n_-_Sto_Antonio_de_Padua.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Antonio of Saint Bonaventure
+stub: false
 honorific: Blessed
 summary: >-
   Franciscan Alcantarine missionary priest to Japan. He worked for ten years before his arrest, ministering to the

@@ -1,5 +1,6 @@
 ---
 name: Saint Abadios
+stub: true
 honorific: Saint
 summary: Soldier. Martyred in the persecutions of Diocletian.
 born: Bilgai, Egypt

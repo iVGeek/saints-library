@@ -1,5 +1,6 @@
 ---
 name: Blessed María Jordá Botella
+stub: false
 honorific: Blessed
 summary: >-
   A lifelong lay woman in the archdiocese of Valencia, Spain, she was baptized age the age of two days, was confirmed on

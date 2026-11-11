@@ -1,5 +1,6 @@
 ---
 name: Saint Genesius of Arles
+stub: false
 honorific: Saint
 summary: >-
   Soldier. Literate, he was made a notary and secretary to the magistrate of Arles, France. Convert. During the period

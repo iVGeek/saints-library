@@ -1,5 +1,6 @@
 ---
 name: Saint Isidora of Egypt
+stub: false
 honorific: Saint
 summary: >-
   Nun in the monastery at Tabenna, Egypt who worked in the kitchen and pretended to be a simpleton so she could

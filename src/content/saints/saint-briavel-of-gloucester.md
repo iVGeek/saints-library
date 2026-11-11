@@ -1,5 +1,6 @@
 ---
 name: Saint Briavel of Gloucester
+stub: true
 honorific: Saint
 summary: Sixth-century hermit at Saint Briavals, in modern Gloucestershire, England.
 region: England

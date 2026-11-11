@@ -1,5 +1,6 @@
 ---
 name: Saint Cristobal Magallanes Jara
+stub: false
 honorific: Venerable
 summary: >-
   Born to a farm family, and worked as a shepherd in his youth. He entered the seminary at 19, and served as parish

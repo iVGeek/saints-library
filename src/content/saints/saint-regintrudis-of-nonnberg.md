@@ -1,5 +1,6 @@
 ---
 name: Saint Regintrudis of Nonnberg
+stub: true
 honorific: Saint
 summary: Nun. Abbess of Nonnberg Abbey near Salzburg, Austria.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Regintrudis-of-Nonnberg.jpg

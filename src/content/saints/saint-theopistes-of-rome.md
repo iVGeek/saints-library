@@ -1,5 +1,6 @@
 ---
 name: Saint Theopistes of Rome
+stub: false
 honorific: Saint
 summary: >-
   Married to Saint Eustachius; mother of Saint Agapitus of Rome and Saint Theopistus of Rome. Martyred in the

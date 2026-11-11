@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Demetrius of Philadelphia
+stub: true
 honorific: Saint
 summary: First century bishop of Philadelphia in Asia minor.
 searchAliases:

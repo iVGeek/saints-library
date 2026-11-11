@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Susanna of Eleutheropolis
+stub: false
 honorific: Saint
 summary: >-
   Daughter of Arthemius, a pagan priest and Martha, a Jewish woman. Following their deaths, she converted to

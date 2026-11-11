@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Maximus of Durostorum
+stub: true
 honorific: Saint
 summary: Martyred in the persecutions of Diocletian. No other information have survived.
 died: Durostorum (modern Silistra, Bulgaria)

@@ -1,5 +1,6 @@
 ---
 name: Saint Marcionilla of Antioch
+stub: false
 honorific: Saint
 summary: Married laywoman. Mother of Saint Celsus of Antioch. Martyred in the persecutions of Diocletian.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Celsus-and-Saint-Marcionilla.jpg

@@ -1,5 +1,6 @@
 ---
 name: Saint Ferrutio of Besançon
+stub: false
 honorific: Saint
 summary: >-
   Brother of Saint Ferreolus of Besançon. Deacon. Sent by Saint Irenaeus of Lyons to evangelize the area of Besançon,

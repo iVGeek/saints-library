@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/6/6f/Pope_Leo_XIV_3_%283x4_cropped%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Leo of Africa
+stub: true
 honorific: Saint
 summary: One of a group of thirteen African martyrs. No other information has survived.
 region: Africa

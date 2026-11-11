@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Rodobaldo II of Pavia
+stub: false
 honorific: Saint
 summary: >-
   Arch-deacon of the cathedral of diocese of Pavia, Italy. Chosen 53rd bishop of Pavia in 1230 by Pope Gregory IX.

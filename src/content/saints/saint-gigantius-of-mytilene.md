@@ -1,5 +1,6 @@
 ---
 name: Saint Gigantius of Mytilene
+stub: true
 honorific: Saint
 summary: Martyred with several fellow Christians in the persecutions of Diocletian.
 deathYear: 300

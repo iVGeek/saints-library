@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Hymnemodus of Saint-Maurice
+stub: false
 honorific: Saint
 summary: >-
   Official in the court of King Gundobad of Burgundy. Feeling a call to the religious life, Hymnodus entered the

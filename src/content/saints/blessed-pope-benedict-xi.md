@@ -1,5 +1,6 @@
 ---
 name: Blessed Pope Benedict XI
+stub: false
 honorific: Blessed
 summary: >-
   Joined the Dominicans when a young man. Ninth Master-General of his Order in 1296. Arranged an armistice between

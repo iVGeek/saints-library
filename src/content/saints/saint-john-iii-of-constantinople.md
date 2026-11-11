@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint John III of Constantinople
+stub: false
 honorific: Saint
 title: Bishop
 summary: Patriarch of Constantinople in 565. Established regulations that became the code of laws known as the “Nomocanon”.

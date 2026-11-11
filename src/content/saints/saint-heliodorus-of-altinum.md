@@ -1,5 +1,6 @@
 ---
 name: Saint Heliodorus of Altinum
+stub: false
 honorific: Saint
 summary: >-
   A soldier in his youth. Close friend and financial supporter of Saint Jerome, and helped with the logistics of the

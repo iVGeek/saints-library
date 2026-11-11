@@ -1,5 +1,6 @@
 ---
 name: Blessed Jean-Marie Joseph Lataste
+stub: false
 honorific: Blessed
 summary: >-
   The youngest of seven children born to Vital, a cloth merchant and vineyard owner, and Jeanne Lataste. Alcide started

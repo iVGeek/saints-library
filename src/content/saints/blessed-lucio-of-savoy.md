@@ -1,5 +1,6 @@
 ---
 name: Blessed Lucio of Savoy
+stub: false
 honorific: Blessed
 summary: >-
   Born to the Savoian nobility in the area of the modern border of France and Italy, Lucio joined the Mercedarians at

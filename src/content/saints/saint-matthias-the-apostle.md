@@ -1,5 +1,6 @@
 ---
 name: Saint Matthias the Apostle
+stub: false
 honorific: Saint
 summary: >-
   Apostle. As he could bear witness to the Resurrection of Jesus, he was chosen to replace Judas Iscariot. Preached the

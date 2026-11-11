@@ -1,5 +1,6 @@
 ---
 name: Saint Anastasia of Africa
+stub: false
 honorific: Saint
 summary: One of a group of Christians martyred together in Africa, date unknown, exact location unknown.
 region: Africa

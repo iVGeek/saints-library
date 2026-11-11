@@ -1,5 +1,6 @@
 ---
 name: Blessed Scipion-Jérôme Brigeat Lambert
+stub: false
 honorific: Blessed
 summary: >-
   Born to the nobility, his father was a royal advisor and treasury official. Studied in the French cities of Ligny and

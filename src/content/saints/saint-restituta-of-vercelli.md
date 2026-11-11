@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Restituta of Vercelli
+stub: false
 honorific: Saint
 summary: >-
   After her husband was martyred for his faith, Restituta moved from Sardinia to Rome, Italy. Her two small children

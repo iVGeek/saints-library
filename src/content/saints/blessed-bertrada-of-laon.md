@@ -1,5 +1,6 @@
 ---
 name: Blessed Bertrada of Laon
+stub: false
 honorific: Blessed
 summary: >-
   Married to King Pepin the Short. Queen of the Franks. Mother of Blessed Charlemagne. Her life was overshadowed by her

@@ -1,5 +1,6 @@
 ---
 name: Venerable Luis de Trelles y Nogerol
+stub: false
 honorific: Venerable
 summary: >-
   Lifelong layman. Studied at the Seminary of Mondoñedo, Spain, and then studied civil law at the University of Santiago

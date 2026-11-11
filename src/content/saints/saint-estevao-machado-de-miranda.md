@@ -1,5 +1,6 @@
 ---
 name: Saint Estêvão Machado de Miranda
+stub: false
 honorific: Venerable
 summary: Married layman in the archdiocese of Natal, Brazil. One of the Martyrs of Brazil murdered by Calvinist fanatics.
 image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Brazil.jpg

@@ -1,5 +1,6 @@
 ---
 name: Blessed Symforian Ducki
+stub: false
 honorific: Blessed
 summary: >-
   Son of Julian and Marianna Lenardt; his father was a locksmith. Franciscan Capuchin friar, entering the community on 3

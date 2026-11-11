@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Consolata of Genoa
+stub: false
 honorific: Saint
 summary: >-
   Born while her parents were on pilgrimage to the Holy Lands. Nun in a nearby convent that had been built by her

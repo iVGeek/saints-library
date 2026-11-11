@@ -1,5 +1,6 @@
 ---
 name: Saint Andreas Wouters
+stub: false
 honorific: Saint
 summary: >-
   Priest in the diocese of Haarlem, Netherlands. Martyred by Calvinists for “papism” and his belief in the Real Presence

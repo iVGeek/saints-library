@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Timon the Deacon
+stub: false
 honorific: Saint
 summary: >-
   1st century convert. One of the first seven deacons chosen and ordained by the Apostles. May have been one of the

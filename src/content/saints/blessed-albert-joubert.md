@@ -1,5 +1,6 @@
 ---
 name: Blessed Albert Joubert
+stub: false
 honorific: Blessed
 summary: >-
   His father was French and a member of the Papal Guard, and his mother was African. Albert was ordained a priest of the

@@ -1,5 +1,6 @@
 ---
 name: Blessed Pier Giorgio Frassati
+stub: false
 honorific: Blessed
 summary: >-
   Born to a wealthy and politically influential family; his mother was the painter Adelaide Ametis; his father was an

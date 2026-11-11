@@ -1,6 +1,7 @@
 ---
 image: https://www.catholic.org/files/images/saints/172.jpg
 name: Saint Celestine
+stub: true
 honorific: Saint
 summary: Martyr.
 searchAliases:

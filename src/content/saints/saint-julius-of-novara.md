@@ -1,5 +1,6 @@
 ---
 name: Saint Julius of Novara
+stub: false
 honorific: Saint
 summary: >-
   Priest. Missionary to northern Italy. Sent by Emperor Theodosius I to destroy pagan altars and woods, and convert

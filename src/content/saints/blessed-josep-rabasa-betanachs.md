@@ -1,5 +1,6 @@
 ---
 name: Blessed Josep Rabasa Betanachs
+stub: false
 honorific: Blessed
 summary: >-
   Worked as a cook at the Salesian house in Sarria, Barcelona, Spain. Joined the Salesians a co-adjutor brother in 1892,

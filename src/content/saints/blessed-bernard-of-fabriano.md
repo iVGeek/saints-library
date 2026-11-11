@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/0/0c/Ioannes_XXIII%2C_by_De_Agostini%2C_1958%E2%80%931963.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Bernard of Fabriano
+stub: false
 honorific: Blessed
 summary: Franciscan friar noted for his piety and the depth of his prayer and meditative life.
 deathYear: 1421

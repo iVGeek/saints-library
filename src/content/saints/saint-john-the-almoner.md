@@ -1,5 +1,6 @@
 ---
 name: Saint John the Almoner
+stub: false
 honorific: Saint
 summary: >-
   Born to the Cypriot nobility; his father as the governor of Cyprus. Married briefly, and father of one child. Entered

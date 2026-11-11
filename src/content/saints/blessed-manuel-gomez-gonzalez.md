@@ -1,5 +1,6 @@
 ---
 name: Blessed Manuel Gómez González
+stub: false
 honorific: Blessed
 summary: >-
   Ordained in 1902 in the archdiocese of Braga, Portugal. Transferred to the diocese of Frederico Westphalen, Brazil in

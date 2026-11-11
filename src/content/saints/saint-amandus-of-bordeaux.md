@@ -1,5 +1,6 @@
 ---
 name: Saint Amandus of Bordeaux
+stub: true
 honorific: Saint
 summary: Bishop of Bordeaux, France c.404. Brought Saint Paulinus of Nola to the faith.
 searchAliases:

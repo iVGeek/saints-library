@@ -1,6 +1,7 @@
 ---
 image: https://www.santiebeati.it/immagini/Thumbs/94803/94803.JPG
 name: Blessed Guglielmo de Carraria
+stub: false
 honorific: Blessed
 summary: >-
   Soldier. Mercedarian knight at the convent of Santa Maria d'Esteron in Menorca, Spain. Noted for his austere lifestyle

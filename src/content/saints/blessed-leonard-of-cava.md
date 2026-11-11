@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Leonard of Cava
+stub: false
 honorific: Blessed
 summary: >-
   Benedictine monk. Abbot of La Trinita de La Cava Abbey in 1232; he served for over 22 years. Known as a wise, gentle,

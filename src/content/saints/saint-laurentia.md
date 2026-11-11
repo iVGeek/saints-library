@@ -1,5 +1,6 @@
 ---
 name: Saint Laurentia
+stub: false
 honorific: Saint
 summary: >-
   Slave in Ancona, Italy. She brought her mistress, Saint Palatias, to Christianity. Martyred in the persecutions of

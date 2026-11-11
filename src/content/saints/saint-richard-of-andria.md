@@ -1,5 +1,6 @@
 ---
 name: Saint Richard of Andria
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Andria, Italy for 40 years. Attended the Third Lateran Council in 1179. Known for his personal sanctity, his

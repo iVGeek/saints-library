@@ -1,5 +1,6 @@
 ---
 name: Saint Adrian of Nicomedia
+stub: false
 honorific: Saint
 summary: >-
   Pagan officer and body guard at the imperial court of Nicomedia. Adrian was so impressed by the strength and faith

@@ -1,5 +1,6 @@
 ---
 name: Blessed Andrew of Antioch
+stub: false
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/7/70/Church_of_St_Margaret_of_Antioch%2C_Margaretting_-_geograph.org.uk_-_1358260.jpg
 honorific: Blessed

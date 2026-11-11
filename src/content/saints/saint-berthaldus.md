@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Berthaldus
+stub: false
 honorific: Saint
 summary: >-
   Hermit in the Ardennes region of France. Ordained by Saint Remigius of Rheims. The town of Chaumont grew up around his

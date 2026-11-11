@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Donatus the Martyr
+stub: false
 honorific: Saint
 summary: >-
   Evangelist in the area of Iulia Concordia (modern Concodia Saggitaria), Italy who brought many people to the faith,

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/9/91/Montdidier_%C3%A9glise_St-Pierre_%28tombeau_Raoul_de_Cr%C3%A9py%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Everard of Sens
+stub: false
 honorific: Blessed
 summary: >-
   Monk at the abbey of Saint Colomba in Sens (in modern France). Archbishop of Sens, France, consecrated on 28 February

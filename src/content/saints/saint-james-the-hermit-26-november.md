@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint James the Hermit
+stub: false
 honorific: Saint
 summary: >-
   Monk. Hermit. Miracle worker. His reputation for wisdom and holiness led the emperor to ask James to attend the

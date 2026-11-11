@@ -1,5 +1,6 @@
 ---
 name: Saint Madalberta
+stub: false
 honorific: Saint
 summary: >-
   Daughter of Saint Vincent Madelgarus and Saint Waltrude; sister of Saint Aldetrudis; grand-daughter of Saint Bertille.

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Hilarinus
+stub: true
 honorific: Saint
 summary: Benedictine monk martyred by Saracens.
 deathYear: 731

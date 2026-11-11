@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Cyril of Antioch
+stub: true
 honorific: Saint
 summary: Patriarch of Antioch in 280.
 deathYear: 300

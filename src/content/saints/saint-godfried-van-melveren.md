@@ -1,5 +1,6 @@
 ---
 name: Saint Godfried van Melveren
+stub: false
 honorific: Saint
 summary: >-
   Painter. Franciscan friar minor. Priest. Custos of the Franciscan house in Gorkum, Netherlands. Martyred by Calvinists

@@ -1,5 +1,6 @@
 ---
 name: Blessed Pierre-Sulpice-Christophe Faverge
+stub: false
 honorific: Blessed
 summary: >-
   Salesian brother, joining in 1767. Teacher. Imprisoned on a ship in the harbor of Rochefort, France and left to die

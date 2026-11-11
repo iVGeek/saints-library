@@ -1,5 +1,6 @@
 ---
 name: Saint Felix of Nantes
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility, received a good education, and was very fluent in Greek. Ordained in 540. Bishop of Nantes,

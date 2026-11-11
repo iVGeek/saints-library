@@ -1,5 +1,6 @@
 ---
 name: Thérèse of Lisieux
+stub: false
 honorific: Saint
 title: Virgin, Doctor of the Church
 summary: >-

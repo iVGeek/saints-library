@@ -1,5 +1,6 @@
 ---
 name: Haggai the Prophet
+stub: false
 honorific: Saint
 summary: >-
   Sixth century BC Old Testament prophet during the period after the exile. The message he brought concerned rebuilding

@@ -1,5 +1,6 @@
 ---
 name: Saint Agricola of Avignon
+stub: false
 honorific: Saint
 summary: >-
   Son of Saint Magnus of Avignon, a Gallo-Roman senator who became a monk and then bishop. Agricola moved to Lerins,

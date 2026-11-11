@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Erinhard
+stub: true
 honorific: Saint
 summary: Monk. Prior.
 deathYear: 739

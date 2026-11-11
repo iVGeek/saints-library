@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Romulus of Caesarea
+stub: true
 honorific: Saint
 summary: Martyred in the persecutions of Diocletian.
 region: England

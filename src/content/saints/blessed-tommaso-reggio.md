@@ -1,5 +1,6 @@
 ---
 name: Blessed Tommaso Reggio
+stub: false
 honorific: Blessed
 summary: ' Helped found The Catholic Standard, Son of Angela Pareto and the Marquis of Reggio. Tommaso felt a call to the priesthood at age 20; he studied and was ordained on 18 September 1841. Vice-rector of the seminary in Genoa, Italy at age 25. Rector of the seminary in Chiavari, Italy.'
 image: https://upload.wikimedia.org/wikipedia/commons/3/37/Beato_Tom%C3%A1s_Reggio.jpg

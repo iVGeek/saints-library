@@ -1,5 +1,6 @@
 ---
 name: Blessed Adalbert Vos
+stub: false
 image: https://upload.wikimedia.org/wikipedia/commons/d/d6/Szt-adalbert.jpg
 honorific: Blessed
 summary: >-

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/2/29/Sansepolcro_veduta_aerea.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Arcanus of Sansepolcro
+stub: false
 honorific: Saint
 summary: >-
   With Saint Aegidius he made a pilgrimage to Palestine where they collected relics which they brought back to Italy.

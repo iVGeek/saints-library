@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Victor of La Chambon
+stub: false
 honorific: Saint
 title: Hermit
 summary: Seventh century hermit who built and lived in a small chapel at La Chambon, Nantes, Brittany, France.

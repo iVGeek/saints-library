@@ -1,5 +1,6 @@
 ---
 name: Blessed Agnese Pacifica Panas
+stub: true
 honorific: Blessed
 summary: Capuchin Poor Clare nun.
 image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Agnese-Pacifica-Panas.jpg

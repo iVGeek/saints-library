@@ -1,5 +1,6 @@
 ---
 name: Venerable Vicenta Guilarte Alonso
+stub: false
 honorific: Venerable
 summary: >-
   Baptized at the age of two days, Vicenta early felt a call to religious life. She started her notiviate on 25 October

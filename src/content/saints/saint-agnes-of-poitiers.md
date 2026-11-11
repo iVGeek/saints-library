@@ -1,5 +1,6 @@
 ---
 name: Saint Agnes of Poitiers
+stub: false
 honorific: Saint
 summary: >-
   Nun. Abbess of Holy Cross convent, a house of 200 sisters, Poitiers, France, assigned there by Saint Radegund.

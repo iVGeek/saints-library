@@ -1,5 +1,6 @@
 ---
 name: Blessed Wladyslaw Ulma
+stub: false
 honorific: Blessed
 summary: >-
   Child in the archdiocese of Przemysl, Poland, the son of Józef and Wiktoria Ulma. Executed by Nazi forces because his

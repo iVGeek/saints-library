@@ -1,5 +1,6 @@
 ---
 name: Saint Callista of Syracuse
+stub: true
 honorific: Saint
 summary: Martyr.
 searchAliases:

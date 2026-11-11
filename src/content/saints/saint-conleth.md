@@ -1,5 +1,6 @@
 ---
 name: Saint Conleth
+stub: false
 honorific: Saint
 summary: >-
   Hermit in Old Connell on the River Liffey in Ireland. Friend of Saint Brigid of Ireland for whom he fashioned several

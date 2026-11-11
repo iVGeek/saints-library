@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Thomas Hioji Nishi Rokuzaemon
+stub: false
 honorific: Venerable
 summary: >-
   Dominican missionary priest, first Formosa and then Japan. Tortured and martyred in the persecutions of Tokugawa

@@ -1,5 +1,6 @@
 ---
 name: Blessed Angelus of Foligno
+stub: false
 honorific: Blessed
 summary: >-
   Born to the Italian nobility. Augustinian hermit at the age of 20. Friend of Saint Nicholas of Tolentino and Saint

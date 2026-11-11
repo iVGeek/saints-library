@@ -1,5 +1,6 @@
 ---
 name: Blessed Giovanni Dominici
+stub: false
 honorific: Blessed
 summary: >-
   He had a humble background, little education, and a tendency to stammer and stutter, but John had a great memory,

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Magdalena Ariie
+stub: true
 honorific: Blessed
 summary: Married lay woman in the diocese of Niigata, Japan. Martyr.
 deathYear: 1629

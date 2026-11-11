@@ -1,5 +1,6 @@
 ---
 name: Blessed Marie Poussepin
+stub: false
 honorific: Blessed
 summary: >-
   Daughter of a stocking manufacturer, Marie was raised in a pious household and educated by her mother and the local

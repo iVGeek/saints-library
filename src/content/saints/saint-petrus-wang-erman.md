@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Petrus Wang Erman
+stub: false
 honorific: Venerable
 summary: Layman in the apostolic vicariate of Northern Shanxi. Martyred in the Boxer Rebellion.
 searchAliases:

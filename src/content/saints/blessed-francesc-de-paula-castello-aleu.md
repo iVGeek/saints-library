@@ -1,5 +1,6 @@
 ---
 name: Blessed Francesc de Paula Castelló Aleu
+stub: false
 honorific: Blessed
 summary: >-
   Lifelong layperson in the diocese of Lleida, Spain. Youngest of three children, his father died when Francesc was an

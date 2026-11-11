@@ -1,5 +1,6 @@
 ---
 name: Saint Fridolin of Säckingen
+stub: false
 honorific: Saint
 summary: >-
   Born to the Irish nobility, he became a Benedictine monk at Luxeuil Abbey and at Poitiers, France. Reported to have

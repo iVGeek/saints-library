@@ -1,5 +1,6 @@
 ---
 name: Saint Himerius of Amelia
+stub: true
 honorific: Saint
 summary: Monk at Amelia, Umbria, Italy. Bishop of Ameila.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Himerius-of-Amelia.jpg

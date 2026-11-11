@@ -1,5 +1,6 @@
 ---
 name: Teresa of Ávila
+stub: false
 honorific: Saint
 title: Doctor of the Church
 summary: >-

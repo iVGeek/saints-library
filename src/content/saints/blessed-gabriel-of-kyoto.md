@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/0/07/Martyrdom-of-Paul-Miki-and-Companions-in-Nagasaki-%28made-c1635%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Gabriel of Kyoto
+stub: true
 honorific: Blessed
 summary: Layman in the diocese of Kyoto, Japan. One of the Martyrs of Kyoto.
 birthYear: 1549

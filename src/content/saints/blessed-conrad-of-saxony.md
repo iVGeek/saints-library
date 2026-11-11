@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/8/86/Karl_I.%2C_Kaiser_von_%C3%96sterreich_%281887-1922%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Conrad of Saxony
+stub: false
 honorific: Blessed
 summary: >-
   Franciscan friar. Missionary preacher in Ircania, an area near the Caspian Sea, a region of primarily of Muslims and

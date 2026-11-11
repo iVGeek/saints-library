@@ -1,5 +1,6 @@
 ---
 name: Saint Athanasius of Alexandria
+stub: false
 honorific: Saint
 summary: >-
   Studied the classics and theology in Alexandria, Egypt. Deacon, secretary, and student of bishop Alexander of

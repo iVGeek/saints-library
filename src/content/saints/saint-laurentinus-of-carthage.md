@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Laurentinus of Carthage
+stub: false
 honorific: Saint
 summary: Brother of Saint Laurentius and Saint Clerina. Uncle of Saint Celerinus. Martyred in the persecutions of Decius.
 died: 3rd century near Carthage, North Africa

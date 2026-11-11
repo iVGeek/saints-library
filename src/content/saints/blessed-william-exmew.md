@@ -1,5 +1,6 @@
 ---
 name: Blessed William Exmew
+stub: false
 honorific: Blessed
 summary: >-
   Studied at Christ's College, Cambridge; noted classical scholar. Carthusian monk at the London Charterhouse. Vicar of

@@ -1,5 +1,6 @@
 ---
 name: Pope Saint Boniface I
+stub: false
 honorific: Saint
 summary: >-
   Son of the presbyter Jocundus. Priest, apparently having been ordained by Pope Saint Damasus I. Papal legate to

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Julia of Merida
+stub: true
 honorific: Saint
 summary: Martyred with Saint Eulalia of Merida in the persecutions of Diocletian.
 deathYear: 304

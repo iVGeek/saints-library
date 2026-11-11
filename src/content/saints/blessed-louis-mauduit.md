@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/4f/Frm_beatification_banner.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Louis Mauduit
+stub: false
 honorific: Blessed
 summary: >-
   Feeling a call to religious life, Louis studied at the seminary in Sens, France. Ordained a priest of the archdiocese

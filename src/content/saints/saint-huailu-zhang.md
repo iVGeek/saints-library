@@ -1,5 +1,6 @@
 ---
 name: Saint Huailu Zhang
+stub: false
 honorific: Venerable
 summary: >-
   Layman catechumen against the wishes of his family; he began taking classes at the local mission in 1900 at age 57. He

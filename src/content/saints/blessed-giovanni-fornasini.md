@@ -1,5 +1,6 @@
 ---
 name: Blessed Giovanni Fornasini
+stub: false
 honorific: Blessed
 summary: >-
   Ordained a priest of the archdiocese of Bologna, Italy in the cathedral of San Pietro on 28 June 1942 in the midst of

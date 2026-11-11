@@ -1,5 +1,6 @@
 ---
 name: Saint Knud
+stub: false
 honorific: Saint
 summary: >-
   Illegimate son of King Sweyn Estrithson of Denmark. Nephew of King Knud of England. King of Denmark as Knud IV c.1080.

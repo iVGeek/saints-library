@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Osmanna of Jouarre
+stub: true
 honorific: Saint
 summary: Nun at Jouarre, France.
 searchAliases:

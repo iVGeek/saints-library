@@ -1,5 +1,6 @@
 ---
 name: Saint Anastasius of Nicomedia
+stub: true
 honorific: Saint
 summary: Martyred in the persecutions of Diocletian.
 deathYear: 303

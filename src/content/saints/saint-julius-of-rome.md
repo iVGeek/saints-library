@@ -1,5 +1,6 @@
 ---
 name: Saint Julius of Rome
+stub: true
 honorific: Saint
 summary: Imperial Roman senator. Martyred in the persecutions of Commodus.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Julius-of-Rome.jpg

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/e/e2/Pixar_-_front_gates.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Quirus of Africa
+stub: true
 honorific: Saint
 summary: Martyred in Africa, date unknown.
 region: England

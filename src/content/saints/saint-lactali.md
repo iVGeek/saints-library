@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Lactali of Freshford
+stub: false
 honorific: Saint
 summary: >-
   Educated at Bangor Abbey. Monk. Spiritual student of Saint Comgall of Bangor and Saint Molu of Killaloe. Founded the

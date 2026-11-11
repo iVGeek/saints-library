@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Bassus of Silistria
+stub: true
 honorific: Saint
 summary: Martyr.
 feastDay:

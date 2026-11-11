@@ -1,5 +1,6 @@
 ---
 name: Blessed José Juan Perot y Juanmarti
+stub: false
 honorific: Blessed
 summary: >-
   The son of Antonio Perot and Celestina Juanmartí, the family moved from France to Spain when José was still a young

@@ -1,5 +1,6 @@
 ---
 name: Blessed Elizabeth of Melegnano
+stub: true
 honorific: Blessed
 summary: Poor Clare nun in the monastery of Santa Chiara in Mortara, Italy.
 image: https://catholicsaints.info/wp-content/uploads/img-Clarissas.jpg

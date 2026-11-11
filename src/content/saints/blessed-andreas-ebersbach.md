@@ -1,5 +1,6 @@
 ---
 name: Blessed Andreas Ebersbach
+stub: false
 image: https://commons.wikimedia.org/wiki/Special:FilePath/Ebersbach_Pfarrhaus.jpg?width=600
 honorific: Blessed
 summary: >-

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Gregory Makar
+stub: false
 honorific: Saint
 summary: Armenian monk. Bishop of Nicopolis, Armenia. Became a hermit at Pithiviers, Orleans, France.
 searchAliases:

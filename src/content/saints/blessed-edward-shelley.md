@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/6/65/Joseph_Seminary_entry_201_Seminary_Av_jeh.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Edward Shelley
+stub: false
 honorific: Blessed
 summary: >-
   Son of Edward Shelley of Warminghurst, Sussex and Joan of Penshurst, Kent. Lifelong layman. Arrested in April 1584 for

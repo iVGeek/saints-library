@@ -1,5 +1,6 @@
 ---
 name: Saint Donato of Imola
+stub: false
 honorific: Saint
 summary: >-
   Born to a wealthy family. Spiritual student of Cornelius, bishop of Imola, Italy. When his friend and fellow student

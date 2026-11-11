@@ -1,5 +1,6 @@
 ---
 name: Saint Sabinus of Canosa
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Canosa, in the Apulia region of southern Italy. Friend of Saint Benedict of Narsia. Papal legate for Pope

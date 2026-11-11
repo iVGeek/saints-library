@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Constantine of Beauvais
+stub: false
 honorific: Saint
 summary: >-
   A monk at Jumièges Abbey in France. Friend of Saint Philibert of Jumièges. Bishop of Beauvais, France in the late 7th

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/c/ce/Hermann_Stenner_-_Hl._Sebastian_-_1914.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 name: Blessed Hermann of Cologne
+stub: true
 honorific: Blessed
 summary: Benedictine monk. Abbot of the Saint Pantaleon monastery of Cologne, Germany.
 deathYear: 1121

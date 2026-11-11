@@ -1,5 +1,6 @@
 ---
 name: Saint Leolucas of Corleone
+stub: false
 honorific: Saint
 summary: >-
   Born to a wealthy and pious family who raised cattle and sheep. Orphaned at an early age he devoted himself to

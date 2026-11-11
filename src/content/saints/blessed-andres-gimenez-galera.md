@@ -1,5 +1,6 @@
 ---
 name: Blessed Andrés Giménez Galera
+stub: false
 honorific: Blessed
 summary: >-
   Ordained a priest in 1926, he served for several years in parish in Almeria, Spain. He joined the Salesians of Don

@@ -1,5 +1,6 @@
 ---
 name: Saint Heldrad of Novalese
+stub: false
 honorific: Saint
 summary: >-
   Born wealthy, he spent his fortune on charity, then made a pilgrimage to Rome, Italy as a mendicant. Benedictine monk

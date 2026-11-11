@@ -4,6 +4,7 @@ imageAlt: "Saint Gildas (pardon de Saint-Gildas)"
 imageCredit: Nominis (French Episcopal Conference)
 imageCreditUrl: https://nominis.cef.fr
 name: Saint Gildas the Elder
+stub: false
 honorific: Saint
 summary: >-
   Son of Caunus, a chieftain in areas in northern Britain. Monk at Llancarvan. Spiritual student of Saint Cadoc. Hermit

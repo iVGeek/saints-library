@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Juliana of Stobylum
+stub: true
 honorific: Saint
 summary: Martyr.
 died: Strobylum, Asia Minor

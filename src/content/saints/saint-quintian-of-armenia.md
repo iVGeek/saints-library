@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Quintian of Armenia
+stub: true
 honorific: Saint
 summary: Martyred with Saint Irenaeus. Nothing else is known.
 born: Armenian

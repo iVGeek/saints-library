@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Simplicio of Karden
+stub: false
 honorific: Saint
 summary: >-
   Son of Saint Felicio; brother of Saint Simplicio. Pilgrim to various European holy places. Hermit at Karden (modern

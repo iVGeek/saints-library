@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/3/3e/Seraphia.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Neon of Antioch
+stub: true
 honorific: Saint
 summary: Layman. One of the Martyrs of Antioch.
 deathYear: 303

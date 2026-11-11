@@ -1,5 +1,6 @@
 ---
 name: Saint Albina of Caesarea
+stub: false
 honorific: Saint
 summary: >-
   Young Christian maiden martyred in the persecutions of Decius. Greeks maintain that her body was miraculously

@@ -1,5 +1,6 @@
 ---
 name: Blessed Teresa Maria Mastena
+stub: false
 honorific: Blessed
 summary: >-
   Eldest of five children of Giulio Mastena, a grocer, and Maria Antonia Casarotti, an elementary school teacher. Raised

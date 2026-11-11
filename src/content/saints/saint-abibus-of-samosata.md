@@ -1,5 +1,6 @@
 ---
 name: Saint Abibus of Samosata
+stub: false
 honorific: Saint
 summary: >-
   Convert. Martyred for refusing to perform a pagan rite in celebration of the victory of Emperor Maximian over the

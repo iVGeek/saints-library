@@ -1,5 +1,6 @@
 ---
 name: Blessed Vicenta Chávez Orozco
+stub: false
 honorific: Blessed
 summary: >-
   Youngest of four children, Vicenta was a pious girl, known for her devotion to the Infant Jesus, for making little

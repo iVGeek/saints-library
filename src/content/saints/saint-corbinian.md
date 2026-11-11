@@ -1,5 +1,6 @@
 ---
 name: Saint Corbinian
+stub: false
 honorific: Saint
 summary: >-
   Son of Waldegiso, who may have died when Corbinian was an infant. Nothing else is known of his youth. Hermit for

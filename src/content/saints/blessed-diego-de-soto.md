@@ -1,5 +1,6 @@
 ---
 name: Blessed Diego de Soto
+stub: false
 honorific: Blessed
 summary: >-
   Mercedarian monk. Spiritual student of Saint Serapion of Algiers. Master of novices. Sent to Granada to redeem

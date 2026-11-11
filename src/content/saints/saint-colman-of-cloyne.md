@@ -1,5 +1,6 @@
 ---
 name: Saint Colman of Cloyne
+stub: false
 honorific: Saint
 summary: >-
   Son of Lenin. Poet. Royal bard, poet, musician, court historian, and genealogist at Cashel, Ireland. Adult convert at

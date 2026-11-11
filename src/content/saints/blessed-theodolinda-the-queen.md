@@ -1,5 +1,6 @@
 ---
 name: Blessed Theodolinda the Queen
+stub: false
 honorific: Blessed
 summary: >-
   Born to the nobility, the daughter of Wandrada and Duke Garibald I of Bavaria. She married King Authari of the

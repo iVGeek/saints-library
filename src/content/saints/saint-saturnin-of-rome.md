@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Saturnin of Rome
+stub: true
 honorific: Saint
 summary: Martyred with 21 Christian companions in the persecutions of Valerian.
 searchAliases:

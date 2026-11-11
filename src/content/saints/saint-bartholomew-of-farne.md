@@ -1,5 +1,6 @@
 ---
 name: Saint Bartholomew of Farne
+stub: false
 honorific: Saint
 summary: >-
   Descendant of Scandanavian immigrants to England. Because of the teasing he endured as a child, he changed his name

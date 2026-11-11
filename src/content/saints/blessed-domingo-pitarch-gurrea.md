@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Domingo Pitarch Gurrea
+stub: false
 honorific: Blessed
 summary: >-
   Joined the Hospitallers of Saint John of God on 7 December 1935. Martyred as a novice in the Spanish Civil War. One of

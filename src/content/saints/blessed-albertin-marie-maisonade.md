@@ -1,5 +1,6 @@
 ---
 name: Blessed Albertin-Marie Maisonade
+stub: false
 honorific: Blessed
 summary: >-
   Cistercian chorister monk who fled from the persecutions of the French Revolution to the Congregation of Casamari in

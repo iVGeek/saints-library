@@ -1,5 +1,6 @@
 ---
 name: Blessed Giuseppe Girotti
+stub: false
 honorific: Blessed
 summary: >-
   Dominican priest, making his religious profession in 1923 and being ordained on 3 August 1930. Studied at the École

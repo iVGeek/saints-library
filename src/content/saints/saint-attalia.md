@@ -1,5 +1,6 @@
 ---
 name: Saint Attalia
+stub: false
 honorific: Saint
 summary: Niece of Saint Odilia of Alsace. Benedictine nun. Abbess of Saint Stephen's Convent, Strasbourg, France.
 searchAliases:

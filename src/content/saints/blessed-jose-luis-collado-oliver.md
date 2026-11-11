@@ -1,5 +1,6 @@
 ---
 name: Blessed José Luis Collado Oliver
+stub: true
 honorific: Blessed
 summary: Discalced Carmelite brother. Martyred in the Spanish Civil War.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Jose-Luis-Collado-Oliver.jpg

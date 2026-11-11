@@ -1,5 +1,6 @@
 ---
 name: Blessed Peter of Saint James
+stub: true
 honorific: Blessed
 summary: Mercedarian friar. Ransomed 150 Christians enslaved by in Algiers by Mulsims.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Peter-of-Saint-James.jpg

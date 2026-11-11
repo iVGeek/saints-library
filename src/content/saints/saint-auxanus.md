@@ -1,5 +1,6 @@
 ---
 name: Saint Auxanus of Milan
+stub: true
 honorific: Saint
 summary: Bishop of Milan, Italy.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Auxanus-of-Milan.jpg

@@ -1,5 +1,6 @@
 ---
 name: Saint Digna of Augsburg
+stub: false
 honorific: Saint
 summary: >-
   Companion of Saint Hilaria of Augsburg on her trip to her mother's tomb, she was arrested and executed in the

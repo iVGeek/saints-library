@@ -1,5 +1,6 @@
 ---
 name: Saint Kieran the Younger
+stub: false
 honorific: Saint
 summary: >-
   Son of Beoit, a carpenter and chariot builder. Spiritual student of Saint Finian of Clonard and Saint Dermot.

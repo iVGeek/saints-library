@@ -1,5 +1,6 @@
 ---
 name: Blessed Rosalío Benito Ixchop
+stub: false
 honorific: Blessed
 summary: >-
   Pious married layman of the diocese of Quiché, Guatemala who served his parish as a catechist. Murdered by government

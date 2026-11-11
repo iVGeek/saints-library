@@ -1,5 +1,6 @@
 ---
 name: Saint Felix of Corinth
+stub: true
 honorific: Saint
 summary: Martyr.
 died: Corinth, Greece

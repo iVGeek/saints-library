@@ -1,5 +1,6 @@
 ---
 name: Saint Lucian of Antioch
+stub: false
 honorific: Saint
 summary: ' Head of a school of Following the death of his wealthy parents, Lucian gave away his possessions, and studied rhetoric, philosophy, and Scripture under Macarius at Edessa. Lived as a hermit briefly in his youth. Ordained in Antioch. Spiritual director of Saint Pelagia of Antioch.'
 image: https://commons.wikimedia.org/wiki/Special:FilePath/Lucian_of_Antioch_%2528Menologion_of_Basil_II%2529.jpg?width=600

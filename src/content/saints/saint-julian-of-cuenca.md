@@ -1,5 +1,6 @@
 ---
 name: Saint Julian of Cuenca
+stub: false
 honorific: Saint
 summary: >-
   Educated at the cathedral school of Burgos, Spain and the University of Palencia, Spain. Taught theology and

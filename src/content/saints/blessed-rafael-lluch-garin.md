@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Rafael Lluch Garín
+stub: false
 honorific: Blessed
 summary: >-
   Young layman in the archdiocese of Valencia, Spain. Member of the Association of the Sons of Mary of the Miraculous

@@ -1,5 +1,6 @@
 ---
 name: Saint Jean-Pierre Néel
+stub: false
 honorific: Venerable
 summary: Jesuit priest. Missionary to Kuy-tsheu, China in 1858. Arrested, tortured and martyred with three of his converts.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Jean-Pierre_Neel.jpg

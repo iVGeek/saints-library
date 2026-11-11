@@ -1,5 +1,6 @@
 ---
 name: Ibzan the Judge
+stub: false
 honorific: Saint
 summary: >-
   Judge of Israel for 7 years, as described in the Old Testament Book of Judges. Married and the father of 30 sons and

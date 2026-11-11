@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Cinnia of Ulster
+stub: false
 honorific: Saint
 summary: >-
   Princess of Ulster, Ireland. Converted to Christianity by Saint Patrick; when she became a nun, Saint Patrick gave her

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Thomas Plumtree
+stub: false
 honorific: Blessed
 summary: >-
   Began studies at Corpus Christi College, Oxford, England in 1543. Priest. Rector of Stubton, Lincolnshire, England in

@@ -1,5 +1,6 @@
 ---
 name: Saint Giuse Ðang Van Viên
+stub: false
 honorific: Venerable
 summary: Priest in the apostolic vicariate of East Tonkin. One of the Martyrs of Vietnam.
 image: https://catholicsaints.info/wp-content/gallery/martyrs-of-vietnam/martyrs-of-vietnam-01.jpg

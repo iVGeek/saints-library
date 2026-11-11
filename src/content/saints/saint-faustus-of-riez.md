@@ -1,5 +1,6 @@
 ---
 name: Saint Faustus of Riez
+stub: false
 honorific: Saint
 summary: >-
   Monk at Lérins Abbey. Abbot there in 433. Bishop of Riez, France in 459. Fought Arianism and Pelagianism in his

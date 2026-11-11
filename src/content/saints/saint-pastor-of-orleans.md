@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/7/78/Mont-Saint-Michel_vu_du_ciel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Pastor of Orleans
+stub: true
 honorific: Saint
 summary: Sixth century bishop of Orléans, France.
 region: France

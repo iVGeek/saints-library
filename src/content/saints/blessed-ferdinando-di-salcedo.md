@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Ferdinando di Salcedo
+stub: false
 honorific: Blessed
 summary: >-
   Franciscan friar and missionary in the Caribbean. Martyred with Blessed Diego Botello and a companion whose name has

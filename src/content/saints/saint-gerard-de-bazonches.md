@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Gerard de Bazonches
+stub: true
 honorific: Saint
 summary: Benedictine monk at Saint Aubin Monastery, Angers, France. Priest.
 deathYear: 1123

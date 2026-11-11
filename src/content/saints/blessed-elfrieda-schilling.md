@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/5/52/Beatification_of_John_Paul_II_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Elfrieda Schilling
+stub: false
 honorific: Blessed
 summary: >-
   Raised in an Evangelical family, Elfrieda converted to Catholicism at age 20, and joined the Sisters of Saint

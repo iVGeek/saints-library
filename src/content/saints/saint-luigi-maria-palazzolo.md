@@ -1,5 +1,6 @@
 ---
 name: Saint Luigi Maria Palazzolo
+stub: false
 honorific: Venerable
 summary: >-
   Youngest of eight boys born to Octavius and Theresa Antoine Palazzolo; his father died when Luigi was about 10 years

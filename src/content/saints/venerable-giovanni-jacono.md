@@ -1,5 +1,6 @@
 ---
 name: Venerable Giovanni Jacono
+stub: false
 honorific: Venerable
 summary: >-
   Ordained a priest on 20 September 1902. Appointed bishop of Molfetta, Giovinazzo e Terlizzi, Italy on 2 July 1918.

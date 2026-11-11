@@ -1,5 +1,6 @@
 ---
 name: Saint Ninian of Whithorn
+stub: false
 honorific: Saint
 summary: >-
   Son of a chieftain of the Cumbrian Britons. His father was a convert to Christianity, and Ninian was raised a

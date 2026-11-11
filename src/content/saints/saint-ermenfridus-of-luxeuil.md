@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Ermenfridus of Luxeuil
+stub: true
 honorific: Saint
 summary: Monk of Luxeuil Abbey in France. Founded a monastery in Cusance, France.
 searchAliases:

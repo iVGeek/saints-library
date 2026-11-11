@@ -1,5 +1,6 @@
 ---
 name: Saint Iosephus Zhang
+stub: true
 honorific: Venerable
 summary: Seminarian at Su-tchuen, China. Martyr.
 image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-China1.jpg

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Fagildo of Santiago
+stub: false
 honorific: Saint
 summary: >-
   Eleventh century Benedictine monk in Spain. Abbot of the monastery of San Martin de Antealtares in Santiago de

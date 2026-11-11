@@ -1,5 +1,6 @@
 ---
 name: Blessed María de la Salud Baldoví Trull
+stub: false
 honorific: Blessed
 summary: >-
   The eldest of five children born to Juan Bautista Baldoví and Joaquina Trull. She joined the Cistercian nuns at the

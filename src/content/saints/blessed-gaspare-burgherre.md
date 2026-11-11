@@ -1,6 +1,7 @@
 ---
 image: https://www.santiebeati.it/immagini/Thumbs/94328/94328.JPG
 name: Blessed Gaspare Burgherre
+stub: false
 honorific: Blessed
 summary: >-
   Mercedarian friar. A member of the Roman Curia, he resigned his position to work to free Christians enslaved by

@@ -1,5 +1,6 @@
 ---
 name: Saint Peter Faber
+stub: false
 honorific: Saint
 summary: >-
   Born to a farm family, he was a shepherd in his youth. Taught catechism to other children. Entered Saint-Barbe

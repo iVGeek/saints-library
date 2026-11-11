@@ -1,5 +1,6 @@
 ---
 name: Saint Oliver Plunkett
+stub: false
 honorific: Venerable
 summary: >-
   Oliver was born to the Irish nobility, part of a family who supported King Charles I and the fight for Irish national

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Juan Iñiguez de Ciriano Abechuco
+stub: true
 honorific: Blessed
 summary: Picpus priest. Martyred in the Spanish Civil War.
 searchAliases:

@@ -1,5 +1,6 @@
 ---
 name: Saint Brothen
+stub: true
 honorific: Saint
 summary: Sixth century. No information has survived.
 feastDay:

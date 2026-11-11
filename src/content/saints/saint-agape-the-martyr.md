@@ -1,5 +1,6 @@
 ---
 name: Saint Agape the Martyr
+stub: true
 honorific: Saint
 summary: Martyr. No other information has survived.
 region: England

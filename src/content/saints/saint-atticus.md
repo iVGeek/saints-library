@@ -1,5 +1,6 @@
 ---
 name: Saint Atticus
+stub: true
 honorific: Saint
 summary: Martyred in Phrygia. No other information has survived.
 region: England

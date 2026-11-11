@@ -1,5 +1,6 @@
 ---
 name: Blessed Nicasio Sierra Ucar
+stub: false
 honorific: Blessed
 summary: >-
   Joined the Claretians in 1907. Studied at the college of Alagón, then in Cervera. Ordained in 1915 in Zaragoza, Spain.

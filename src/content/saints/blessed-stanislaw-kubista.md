@@ -1,5 +1,6 @@
 ---
 name: Blessed Stanislaw Kubista
+stub: false
 honorific: Blessed
 summary: >-
   One of nine children born to Francis and Frances Kubista. Served in the army on the French front from 1917 to 1919.

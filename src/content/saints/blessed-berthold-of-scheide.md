@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Berthold of Scheide
+stub: false
 honorific: Blessed
 summary: >-
   Older brother of Blessed Menrich of Lübeck. Priest. Member of the Premonstratensians. Lay brother at the Scheide

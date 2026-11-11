@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Anectus of Caesarea
+stub: false
 honorific: Saint
 summary: >-
   Loudly encouraged Christians to not abandon their faith during the persecutions of Diocletian. Overthrew pagan idols;

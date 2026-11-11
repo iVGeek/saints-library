@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Suibhne of Iona
+stub: true
 honorific: Saint
 summary: Monk. Abbot of Iona Abbey for about three years.
 searchAliases:

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Caterine de' Lenzi
+stub: false
 honorific: Blessed
 summary: >-
   Born to the Sienese nobility, the daughter of Angelo and Bartolomea di Benedetto, from the time she was a small girl,

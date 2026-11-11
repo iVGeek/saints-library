@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/f/fe/Beatificaciotarragona2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Francisco Colom González
+stub: false
 honorific: Blessed
 summary: Member of the Brothers of the Christian Schools. Martyred in the Spanish Civil War.
 searchAliases:

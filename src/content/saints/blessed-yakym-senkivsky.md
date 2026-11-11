@@ -1,5 +1,6 @@
 ---
 name: Blessed Yakym Senkivsky
+stub: false
 honorific: Blessed
 summary: >-
   Greek Catholic. Studied theology at Lviv. Ordained on 4 December 1921. Obtained his Doctorate in theology from

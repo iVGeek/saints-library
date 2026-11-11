@@ -1,5 +1,6 @@
 ---
 name: Blessed Giacomo Alberione
+stub: false
 honorific: Blessed
 summary: >-
   Seminarian in Bra and Alba in Italy. During the night of 31 December 1900 to 1 January 1901, while doing nightly

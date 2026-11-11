@@ -1,5 +1,6 @@
 ---
 name: Saint Disibod of Disenberg
+stub: false
 honorific: Saint
 summary: >-
   Disibod travelled from his native Ireland c.640 to live as a pilgim and a hermit on the banks of the Rhine River near

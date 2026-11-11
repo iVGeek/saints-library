@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/1/1c/Saint_Roch_MET_EP14.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed John Roche
+stub: false
 honorific: Blessed
 summary: >-
   Waterman, and servant of Saint Margaret Ward. He helped Father Richard Watson, a condemned priest, escape by meeting

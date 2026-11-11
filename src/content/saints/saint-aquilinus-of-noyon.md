@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Aquilinus of Noyon
+stub: true
 honorific: Saint
 summary: Martyred in the persecutions of Diocletian.
 deathYear: 303

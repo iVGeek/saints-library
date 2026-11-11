@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/b/b9/All_saint.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Optatus of Auxerre
+stub: true
 honorific: Saint
 summary: Bishop of Auxerre, France c.529.
 deathYear: 530

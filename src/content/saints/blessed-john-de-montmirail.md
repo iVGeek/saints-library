@@ -1,5 +1,6 @@
 ---
 name: Blessed John de Montmirail
+stub: false
 honorific: Blessed
 summary: >-
   French nobility, born to Andrew, Lord of Montmirail and Ferté-Gaucher, and Hildiarde d'Oisy. Trained in religion by

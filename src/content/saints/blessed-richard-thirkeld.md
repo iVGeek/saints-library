@@ -1,5 +1,6 @@
 ---
 name: Blessed Richard Thirkeld
+stub: false
 honorific: Blessed
 summary: >-
   Educated at Queen's College, Oxford, 1564 - 1565. Studied at Douai and Rheims, France. Ordained on 18 April 1579 at an

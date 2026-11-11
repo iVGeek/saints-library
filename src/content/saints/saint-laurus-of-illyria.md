@@ -1,5 +1,6 @@
 ---
 name: Saint Laurus of Illyria
+stub: false
 honorific: Saint
 summary: Twin brother of Saint Florus of Illyria. Stone-cutter who worked to build Christian churches. Martyr.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Laurus-of-Illyria.jpg

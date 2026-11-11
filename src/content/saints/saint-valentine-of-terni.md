@@ -1,5 +1,6 @@
 ---
 name: Saint Valentine of Terni
+stub: false
 honorific: Saint
 summary: >-
   Ordained by Saint Felician of Foligno. Consecrated bishop of Terni, Italy by Pope Victor I, c.197. Noted evangelist,

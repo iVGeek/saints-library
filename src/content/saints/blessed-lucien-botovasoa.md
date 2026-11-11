@@ -1,5 +1,6 @@
 ---
 name: Blessed Lucien Botovasoa
+stub: false
 honorific: Blessed
 summary: >-
   Eldest of nine children, Lucien was baptized at age 10 in 1918, and made his First Communion at 14 in 1922. From 1922

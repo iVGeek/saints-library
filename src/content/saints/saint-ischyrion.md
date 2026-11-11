@@ -1,5 +1,6 @@
 ---
 name: Saint Ischyrion
+stub: false
 honorific: Saint
 summary: >-
   Steward and servant of an Alexandrian magistrate in Roman imperial Egypt. During the persecutions of Decius,

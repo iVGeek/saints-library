@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Bessarion of Egypt
+stub: false
 honorific: Saint
 summary: Fourth-century beggar pilgrim to holy places who finally settled to live as a hermit in the desert of Skete in Egypt.
 region: Egypt

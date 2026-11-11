@@ -1,5 +1,6 @@
 ---
 name: Blessed Cándido Castán San José
+stub: true
 honorific: Blessed
 summary: Married layman. Martyr.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Cándido-Castán-San-José.jpg

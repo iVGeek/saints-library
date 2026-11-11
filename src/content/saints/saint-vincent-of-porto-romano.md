@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Vincent of Porto Romano
+stub: true
 honorific: Saint
 summary: Martyr. No other information survives.
 died: in Porto Romano, Italy

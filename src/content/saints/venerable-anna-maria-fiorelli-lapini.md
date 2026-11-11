@@ -1,5 +1,6 @@
 ---
 name: Venerable Anna Maria Fiorelli Lapini
+stub: false
 honorific: Venerable
 summary: >-
   The fifth of eleven children born to Giuseppe Fiorelli, a barber, and Rosalinda Pecorai, a seamstress. From childhood

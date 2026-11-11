@@ -1,5 +1,6 @@
 ---
 name: Saint Athanasius of Naples
+stub: false
 honorific: Saint
 summary: >-
   Son of the Duke of Naples, Italy. Bishop of Naples at age 18. He restored the church of Saint Januarius that had been

@@ -1,5 +1,6 @@
 ---
 name: Blessed Ioan Suciu
+stub: false
 honorific: Blessed
 summary: >-
   Born into a family of Greek-Catholic priests. Studied at Sant'Atanasio and the Pontificium Institutum Internationale

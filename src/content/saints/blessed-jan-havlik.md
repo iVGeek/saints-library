@@ -1,5 +1,6 @@
 ---
 name: Blessed Ján Havlík
+stub: false
 honorific: Blessed
 summary: >-
   The eldest of four children in a very poor family. A member of the Society of Missionaries of Saint Vincent de Paul,

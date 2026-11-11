@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/d/d9/Episcopal_consecration_of_Kiril_Kurtev_in_Basilica_of_San_Clemente_Rome_on_December_5%2C_1926.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 name: Saint Mark of Rome
+stub: false
 honorific: Saint
 summary: Martyr. Mentioned by Pope Pius I in a letter to the bishop of Vienne, Gaul. No other information has survived.
 region: Italy

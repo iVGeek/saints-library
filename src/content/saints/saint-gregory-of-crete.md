@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Gregory of Crete
+stub: false
 honorific: Saint
 summary: >-
   Grew up a shepherd on the island of Crete. He lived as a prayerful pilgrim beggar in Jerusalem and the Holy Lands for

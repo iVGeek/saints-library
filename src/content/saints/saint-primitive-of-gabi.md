@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Primitive of Gabi
+stub: true
 honorific: Saint
 summary: Martyr.
 searchAliases:

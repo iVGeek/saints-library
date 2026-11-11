@@ -1,5 +1,6 @@
 ---
 name: Blessed José Trinidad Rangel y Montaño
+stub: false
 honorific: Blessed
 summary: >-
   Parish priest in Silao, Mexico noted for his zeal as a pastor to his parishioners. During the Mexican Revolution, laws

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Thyrsus of Autun
+stub: false
 honorific: Saint
 summary: >-
   Second-century deacon in Smryna. Missionary in the area of Autun in Gaul (modern France), assigned by Saint Polycarp.

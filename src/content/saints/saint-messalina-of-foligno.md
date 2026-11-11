@@ -1,5 +1,6 @@
 ---
 name: Saint Messalina of Foligno
+stub: false
 honorific: Saint
 summary: >-
   Spiritual student of Saint Felician of Foligno. Nun, receiving the veil from Saint Felician. During a period of

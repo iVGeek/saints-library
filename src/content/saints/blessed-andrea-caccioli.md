@@ -1,5 +1,6 @@
 ---
 name: Blessed Andrea Caccioli
+stub: false
 honorific: Blessed
 summary: >-
   Ordained a priest in the diocese of Spoleto, Italy in 1216. He met and became one of the early spiritual students of

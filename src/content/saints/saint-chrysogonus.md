@@ -1,5 +1,6 @@
 ---
 name: Saint Chrysogonus
+stub: false
 honorific: Saint
 summary: >-
   Priest. Functionary of the vicarius Urbis. Christian teacher of Saint Anastasia of Sirmium, the daughter of the Roman

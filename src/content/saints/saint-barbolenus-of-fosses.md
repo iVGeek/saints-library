@@ -1,5 +1,6 @@
 ---
 name: Saint Barbolenus of Fosses
+stub: false
 honorific: Saint
 summary: >-
   Monk at Luxeuil Abbey, Burgundy (in modern France). Abbot of Saint Peter's Abbey (later known as Saint

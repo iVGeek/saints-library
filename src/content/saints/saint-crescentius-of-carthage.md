@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Crescentius of Carthage
+stub: true
 honorific: Saint
 summary: Priest. Martyred in the persecutions of the Arians.
 deathYear: 484

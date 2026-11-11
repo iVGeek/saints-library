@@ -1,5 +1,6 @@
 ---
 name: Saint Dionysius of Ephesus
+stub: false
 honorific: Saint
 summary: >-
   One of a group of seven young Christian men who hid in a cave in hopes of avoiding the persecution of Decius in the

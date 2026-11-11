@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Porphyrius of Alexandria
+stub: false
 honorific: Saint
 summary: Student of Saint Pamphilus of Alexandria with whom he was tortured and martyred.
 deathYear: 309

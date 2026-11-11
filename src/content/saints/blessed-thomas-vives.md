@@ -1,5 +1,6 @@
 ---
 name: Blessed Thomas Vives
+stub: false
 honorific: Blessed
 summary: >-
   Mercedarian sent to Tunisia to redeem Christian prisoners. There he was imprisoned for five years before being

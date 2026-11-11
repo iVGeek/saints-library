@@ -1,5 +1,6 @@
 ---
 name: Saint Agapitus of Ravenna
+stub: true
 honorific: Saint
 summary: Fourth century bishop of Ravenna, Italy.
 searchAliases:

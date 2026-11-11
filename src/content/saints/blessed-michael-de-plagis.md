@@ -1,5 +1,6 @@
 ---
 name: Blessed Michael de Plagis
+stub: true
 honorific: Blessed
 summary: Mercedarian monk at the monastery of Messina, Italy.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Michael-de-Plagis.jpg

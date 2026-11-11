@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Auxilius of Antioch
+stub: true
 honorific: Saint
 summary: Martyr.
 died: at Antioch, Syria

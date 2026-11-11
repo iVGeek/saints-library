@@ -1,5 +1,6 @@
 ---
 name: Saint Genevieve of Loqueffret
+stub: false
 honorific: Saint
 summary: >-
   The sister of Saint Edeyrn, she accompanied him to Brittany where she lived as a recluse in a cabin on a mountain and

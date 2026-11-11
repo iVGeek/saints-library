@@ -1,5 +1,6 @@
 ---
 name: Blessed Agrícola Rodríguez García de Los Huertos
+stub: true
 image: >-
   https://commons.wikimedia.org/wiki/Special:FilePath/Placa_conmemorativa_%25284_de_julio_de_2015%252C_Mora%2529.jpg?width=600
 honorific: Blessed

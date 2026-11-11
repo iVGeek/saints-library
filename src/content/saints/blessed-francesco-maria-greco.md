@@ -1,5 +1,6 @@
 ---
 name: Blessed Francesco Maria Greco
+stub: false
 honorific: Blessed
 summary: >-
   Born to a pious family, the son of a pharmacist, he received early religious training from his mother. Though his

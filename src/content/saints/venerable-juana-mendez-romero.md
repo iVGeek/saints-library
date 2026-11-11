@@ -1,5 +1,6 @@
 ---
 name: Venerable Juana Méndez Romero
+stub: false
 honorific: Venerable
 summary: >-
   Juana's father worked on the estate of Mother Maria Jesús Herruzo, Foundress of the Congregation of the Worker Sisters

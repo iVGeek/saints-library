@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Jovinus the Martyr
+stub: true
 honorific: Saint
 summary: Martyred in the persecution of Valerian.
 deathYear: 258

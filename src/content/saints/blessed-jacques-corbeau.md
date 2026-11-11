@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/5/5f/Charles_Gounod_001.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Jacques Corbeau
+stub: false
 honorific: Blessed
 summary: >-
   Premonstratensian canon at the Saint-Augustin monastery in Thérouanne, Pas-de-Calais, Nord-Pas-de-Calais, France.

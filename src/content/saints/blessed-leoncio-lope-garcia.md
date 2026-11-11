@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Leoncio Lope García
+stub: true
 honorific: Blessed
 summary: Augustinian friar.
 birthYear: 1902

@@ -1,5 +1,6 @@
 ---
 name: Saint John Maria Muzeyi
+stub: false
 honorific: Venerable
 summary: >-
   Mbogo clan. Member of the Ugandan royal court. Convert. One of the Martyrs of Uganda who died in the Mwangan

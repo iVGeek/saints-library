@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Domnolus of Pouilly
+stub: false
 honorific: Saint
 summary: >-
   Seventh-century parish priest in the diocese of Auxerre, France, serving under Saint Vigilius of Auxerre. He

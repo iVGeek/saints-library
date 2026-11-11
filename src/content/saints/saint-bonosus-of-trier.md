@@ -1,5 +1,6 @@
 ---
 name: Saint Bonosus of Trier
+stub: false
 honorific: Saint
 summary: >-
   Priest. Imprisoned c.353 for supporting his bishop, Saint Paulinus, and orthodox Christianity in the face of Arians.

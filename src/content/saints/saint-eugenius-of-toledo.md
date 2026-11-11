@@ -1,5 +1,6 @@
 ---
 name: Saint Eugenius of Toledo
+stub: false
 honorific: Saint
 summary: >-
   Monk at Saint Engracia Abbey in Saragossa, Spain. Bishop of Toledo, Spain in 646. He was a gifted poet and musician

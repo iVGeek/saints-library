@@ -1,5 +1,6 @@
 ---
 name: Venerable Elisa de Jesus Pereira
+stub: false
 honorific: Venerable
 summary: >-
   Born to a family with ten children. Her parents died when Elisa was 17 years old, and she helped raise her younger

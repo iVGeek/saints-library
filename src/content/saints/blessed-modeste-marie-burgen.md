@@ -1,5 +1,6 @@
 ---
 name: Blessed Modeste-Marie Burgen
+stub: false
 honorific: Blessed
 summary: >-
   Trappist monk at the abbey of Settefonti, Ozzano dell'Emilia, Italy. When it was suppressed as part of the

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/6/60/JuliaLopezFineArtsToluca01.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Juan Aguilar Donis
+stub: false
 honorific: Blessed
 summary: >-
   Dominican friar. After studying philosophy and theology in Almagro, Spain. Ordained a priest in 1913, he was assigned

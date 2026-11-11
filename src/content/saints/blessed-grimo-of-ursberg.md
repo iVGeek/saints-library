@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Grimo of Ursberg
+stub: false
 honorific: Blessed
 summary: >-
   Premonstratensian monk who had a great devotion to Christ in the Passion. Second abbot of Premonstratensian monastery

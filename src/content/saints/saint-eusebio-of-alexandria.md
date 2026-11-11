@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Eusebio of Alexandria
+stub: true
 honorific: Saint
 summary: One of a number of Christian martyrs.
 died: Alexandria, Egypt

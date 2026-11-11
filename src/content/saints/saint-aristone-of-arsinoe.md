@@ -1,5 +1,6 @@
 ---
 name: Saint Aristone of Arsinoe
+stub: true
 honorific: Saint
 title: Bishop
 summary: Fifth century bishop of Arsinoe on the island of Cyprus.

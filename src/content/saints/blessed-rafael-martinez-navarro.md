@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Rafael Martínez Navarro
+stub: false
 honorific: Blessed
 summary: >-
   Priest of the diocese of Córdoba, Spain, serving as canon and priest in the cathedral of Córdoba. Martyred in the

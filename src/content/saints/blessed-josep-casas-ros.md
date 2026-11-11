@@ -1,5 +1,6 @@
 ---
 name: Blessed Josep Casas Ros
+stub: false
 honorific: Blessed
 summary: >-
   Cousin of Blessed Josep Casas Juliá. Seminarian in the archdiocese of Barcelona, Spain. Martyred in the Spanish Civil

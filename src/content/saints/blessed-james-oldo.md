@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed James Oldo
+stub: false
 honorific: Blessed
 summary: >-
   The son of Marchese and Fiordonina Oldo, his father died when the boy was young, leaving him a legacy that allowed to

@@ -1,5 +1,6 @@
 ---
 name: Saint Hermas of Myra
+stub: true
 honorific: Saint
 summary: Priest. Martyr.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Hermas-of-Myra.jpg

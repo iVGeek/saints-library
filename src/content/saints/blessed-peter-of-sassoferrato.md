@@ -1,5 +1,6 @@
 ---
 name: Blessed Peter of Sassoferrato
+stub: false
 honorific: Blessed
 summary: >-
   Franciscan friar. In 1216, he and Blessed John of Perugia were sent by Saint Francis of Assisi to preach to the

@@ -1,5 +1,6 @@
 ---
 name: Saint Edmund of East Anglia
+stub: false
 honorific: Saint
 summary: >-
   King of East Anglia at age 14, crowned on Christmas Day 855 by Bishop Saint Humbert of Elmham. Edmund was a model

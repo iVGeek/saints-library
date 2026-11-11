@@ -1,5 +1,6 @@
 ---
 name: Martyrs of Upper Egypt
+stub: false
 honorific: Saint
 summary: >-
   There were many martyrs who suffered in the persecutions of Diocletian in the Thebaid region. Though we know these

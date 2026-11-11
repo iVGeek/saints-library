@@ -1,5 +1,6 @@
 ---
 name: Venerable Ugo de Blasi
+stub: false
 honorific: Venerable
 summary: >-
   Fifth of seven children born to Nicola and Oronza De Marianis, he was baptized at the age of four days; his father

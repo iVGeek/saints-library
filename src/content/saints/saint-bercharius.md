@@ -1,5 +1,6 @@
 ---
 name: Saint Bercharius
+stub: false
 honorific: Saint
 summary: >-
   Godson of Saint Nivard of Rheims; student of Saint Remaclus of Maestricht. Monk at Luxeuil Abbey under the leadership

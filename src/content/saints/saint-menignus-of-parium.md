@@ -1,5 +1,6 @@
 ---
 name: Saint Menignus of Parium
+stub: false
 honorific: Saint
 summary: >-
   Married layman fuller and cloth dyer. Tortured, his fingers hacked off, and executed in the persecutions of Decius for

@@ -1,5 +1,6 @@
 ---
 name: Saint Marcellus the Centurion
+stub: false
 honorific: Saint
 summary: >-
   Roman centurion at Tangiers (in modern Morocco). During a celebration of the emperor's birthday, Marcellus refused to

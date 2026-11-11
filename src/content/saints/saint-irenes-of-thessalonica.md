@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/5/5b/Agape%2C_Chionia%2C_and_Irene.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Irenes of Thessalonica
+stub: true
 honorific: Saint
 summary: Martyred in the persecution of Diocletian
 deathYear: 303

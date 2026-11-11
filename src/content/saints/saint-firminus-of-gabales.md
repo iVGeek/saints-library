@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Firminus of Gabales
+stub: true
 honorific: Saint
 title: Bishop
 summary: Third bishop of Gabales, France.

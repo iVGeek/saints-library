@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Ferfugill of Clondalkin
+stub: true
 honorific: Saint
 summary: 8th century bishop of Clondalkin, Ireland.
 searchAliases:

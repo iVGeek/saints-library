@@ -1,5 +1,6 @@
 ---
 name: Blessed Giovanni Fausti
+stub: false
 honorific: Blessed
 summary: >-
   Eldest of twelve brothers in his family. Studied at the Inter-Brescia seminary where he became friends with the future

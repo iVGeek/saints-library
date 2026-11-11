@@ -1,5 +1,6 @@
 ---
 name: Deborah the Prophetess
+stub: false
 honorific: Saint
 summary: Old Testament prophetess and judge. Married to Lapidoth. See the passage below from Judges that talks about her.
 searchAliases:

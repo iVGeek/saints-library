@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/0/02/Louise_de_Marillac_Le_Gras._Line_engraving_by_Sisco._Wellcome_L0006155.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Toribia Marticorena Sola
+stub: false
 honorific: Blessed
 summary: Member of the Daughters of Charity of Saint Vincent de Paul. Martyred in the Spanish Civil War.
 birthYear: 1882

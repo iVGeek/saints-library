@@ -1,5 +1,6 @@
 ---
 name: Blessed Leoncio Pérez Nebreda
+stub: false
 honorific: Blessed
 summary: >-
   Joined the Vincentians on 19 August 1911, making his profession on 1 January 1914. Ordained on 10 August 1921.

@@ -1,5 +1,6 @@
 ---
 name: Saint Giovanni Battista Scalabrini
+stub: false
 honorific: Venerable
 summary: >-
   Third of eight children in a deeply religious family. Studied philosophy and theology at the seminary at Como, Italy.

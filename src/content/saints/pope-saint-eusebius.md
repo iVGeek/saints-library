@@ -1,5 +1,6 @@
 ---
 name: Pope Saint Eusebius
+stub: false
 honorific: Saint
 summary: >-
   Son of a physican. 31st pope in 310. His papacy lasted only four months, most of which he spent in exiled to Sicily by

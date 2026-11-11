@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Hermann von Kreitenach
+stub: false
 honorific: Blessed
 summary: Franciscan priest. Pilgrim to the Holy Lands. Martyred by invading Turks for refusing to renounce Christianity.
 deathYear: 1529

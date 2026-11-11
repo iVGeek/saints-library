@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Marinus of Maurienne
+stub: false
 honorific: Saint
 summary: Benedictine monk at Maurienne in Savoy (part of modern France). Hermit near Chandor Abbey. Martyred by Saracens.
 deathYear: 731

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Paphnutius of Bendura
+stub: true
 honorific: Saint
 searchAliases:
   - Paphnutios

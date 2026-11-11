@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Martin Manuel
+stub: true
 honorific: Saint
 summary: Priest in Siure, Portugal. Captured by Saracens. Martyr.
 born: in Auranca, Portugal

@@ -1,5 +1,6 @@
 ---
 name: Blessed Nazaria Gómez Lezaun
+stub: false
 honorific: Blessed
 summary: >-
   Joined the Sisters of the Pious Schools in Carabanchel, Spain, and made her profession on 8 September 1895. Teacher at

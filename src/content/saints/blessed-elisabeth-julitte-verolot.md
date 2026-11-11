@@ -1,5 +1,6 @@
 ---
 name: Blessed Élisabeth-Julitte Vérolot
+stub: false
 honorific: Blessed
 summary: >-
   Discalced Carmelite nun, professed on 12 January 1789. One of the Carmelite Martyrs of Compiegne, killed in the

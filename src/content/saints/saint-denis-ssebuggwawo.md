@@ -1,5 +1,6 @@
 ---
 name: Saint Denis Ssebuggwawo
+stub: false
 honorific: Venerable
 summary: Musu clan. Convert. One of the Martyrs of Uganda who died in the Mwangan persecutions.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Denis-Ssebuggwawo.jpg

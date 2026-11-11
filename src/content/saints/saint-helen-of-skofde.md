@@ -1,5 +1,6 @@
 ---
 name: Saint Helen of Skofde
+stub: false
 honorific: Saint
 summary: >-
   Born to the Swedish nobility. She married young, and was the mother of one daughter. Built the church of Skofde,

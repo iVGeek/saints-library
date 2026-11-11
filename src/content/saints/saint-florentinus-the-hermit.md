@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Florentinus the Hermit
+stub: true
 honorific: Saint
 summary: Hermit. Martyr.
 searchAliases:

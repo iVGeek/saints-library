@@ -1,6 +1,7 @@
 ---
 image: https://www.santiebeati.it/immagini/Thumbs/93697/93697.JPG
 name: Blessed Girolamo of Mondovì
+stub: false
 honorific: Blessed
 summary: >-
   In a vision, Our Lady told Girolamo to join the Mercedarians; he did so, serving in the convent of Saint Eulalia in

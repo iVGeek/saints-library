@@ -1,5 +1,6 @@
 ---
 name: Pope Saint Eugene I
+stub: false
 honorific: Saint
 summary: >-
   Son of Rufinianus. Priest as a young man. Known as a gentle and pious man, very generous to the poor. Vicar for Pope

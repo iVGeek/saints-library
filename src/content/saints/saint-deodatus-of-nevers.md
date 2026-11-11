@@ -1,5 +1,6 @@
 ---
 name: Saint Deodatus of Nevers
+stub: false
 honorific: Saint
 summary: >-
   Monk. Founder of Ebersheimmunster, near Strasbourg, France, served as its first abbot. Bishop of Nevers, France c.655.

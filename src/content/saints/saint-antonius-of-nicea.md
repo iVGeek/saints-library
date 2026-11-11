@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/c/cb/Menaion_icon_%2817_c.%2C_TsAK%29_-_March.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Antonius of Nicea
+stub: true
 honorific: Saint
 summary: Martyr.
 died: Nicea, Asia Minor (Turkey)

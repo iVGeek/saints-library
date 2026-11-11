@@ -1,5 +1,6 @@
 ---
 name: Saint Clement of Ireland
+stub: false
 honorific: Saint
 summary: >-
   Clement and his companion Ailbe, arrived in Gaul in 772, and opened shop as teachers. Their fame spread, and

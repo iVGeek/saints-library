@@ -1,5 +1,6 @@
 ---
 name: Blessed Eusebia Palomino Yenes
+stub: false
 honorific: Blessed
 summary: >-
   Born to a poor but pious family, when she old enough she had to beg to help them survive. She felt a call to religious

@@ -1,5 +1,6 @@
 ---
 name: Saint Anthimus of Aegea
+stub: true
 honorific: Saint
 summary: Martyred with Saints Cosmas and Damian in the persecutions of Diocletian.
 deathYear: 303

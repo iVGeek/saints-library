@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Faustus of Rome and Milan
+stub: true
 honorific: Saint
 summary: Martyr.
 searchAliases:

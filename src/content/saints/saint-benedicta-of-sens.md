@@ -1,5 +1,6 @@
 ---
 name: Saint Benedicta of Sens
+stub: false
 honorific: Saint
 summary: >-
   Sister of Saint Augustine of Sens and Saint Sanctian of Sens. During the persecution of Christians in Spain by

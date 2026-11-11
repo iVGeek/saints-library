@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Antôn Nguyen Ðích
+stub: false
 honorific: Venerable
 summary: >-
   Married layman in the apostolic vicariate of West Tonkin. A wealthy farmer, solid citizen, and patron of his church.

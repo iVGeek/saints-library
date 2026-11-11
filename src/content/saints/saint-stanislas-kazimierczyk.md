@@ -1,5 +1,6 @@
 ---
 name: Saint Stanislas Kazimierczyk
+stub: false
 honorific: Venerable
 summary: >-
   Raised in a pious family, the son of Maciej and Jadwiga Soltys, he received a good education in the faith. Received

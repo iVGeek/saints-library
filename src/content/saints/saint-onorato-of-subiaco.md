@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/1/13/Centro_da_Via_Venerini.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Onorato of Subiaco
+stub: false
 honorific: Saint
 summary: Benedictine monk in the early 6th century. Abbot at Subiaco, Italy, leading a community formed by Saint Benedict.
 searchAliases:

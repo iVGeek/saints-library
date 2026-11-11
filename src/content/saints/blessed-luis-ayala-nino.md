@@ -1,5 +1,6 @@
 ---
 name: Blessed Luis Ayala Niño
+stub: false
 honorific: Blessed
 summary: >-
   Joined the Hospitallers of Saint John of God in 1928, making his final vows on 4 July 1933. Martyred in the Spanish

@@ -1,5 +1,6 @@
 ---
 name: Saint Constantius the Theban
+stub: false
 honorific: Saint
 summary: >-
   Traditionally a soldier, a member of the Theban Legion who survived the massacre and gave a Christian burial to his

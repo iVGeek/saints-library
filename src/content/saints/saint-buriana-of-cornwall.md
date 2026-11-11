@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Buriana of Cornwall
+stub: false
 honorific: Saint
 summary: >-
   Sixth-century anchoress in Cornwall. The town of Saint Buryan, whose parish church served as her base, is named after

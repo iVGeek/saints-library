@@ -1,5 +1,6 @@
 ---
 name: Blessed José Vigil Cabrerizo
+stub: false
 honorific: Blessed
 summary: >-
   Ordained a priest of the archdiocese of Sevilla, Spain on 11 October 1906. Martyred in the Spanish Civil War, the

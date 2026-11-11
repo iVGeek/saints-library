@@ -1,5 +1,6 @@
 ---
 name: Saint Cantianus of Aquileia
+stub: true
 honorific: Saint
 summary: Martyr.
 died: Aquileia, Italy

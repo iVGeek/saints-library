@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Julian of Ankyra
+stub: true
 honorific: Saint
 summary: Priest. Martyed in the persecution of emperor Licinius.
 searchAliases:

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Maxima of Lisbon
+stub: false
 honorific: Saint
 summary: >-
   Martyred with her sister Saint Julia of Lisbon and brother Saint Verissimus of Lisbon in the persecution of

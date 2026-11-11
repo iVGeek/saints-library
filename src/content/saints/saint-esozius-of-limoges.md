@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Esozius of Limoges
+stub: false
 honorific: Saint
 title: Bishop
 summary: Bishop of the diocese of Limoges, France, serving for 15 years in the latter 6th century.

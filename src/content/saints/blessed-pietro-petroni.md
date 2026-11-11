@@ -1,5 +1,6 @@
 ---
 name: Blessed Pietro Petroni
+stub: false
 honorific: Blessed
 summary: >-
   Pietro showed great personal piety as a boy, and in his teens devoted himself to the care of sick people, especially

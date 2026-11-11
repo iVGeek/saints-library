@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Winewald of Beverley
+stub: true
 honorific: Saint
 summary: Abbot of Beverley Abbey in England.
 deathYear: 731

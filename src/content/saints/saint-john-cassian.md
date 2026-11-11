@@ -1,5 +1,6 @@
 ---
 name: Saint John Cassian
+stub: false
 honorific: Saint
 summary: >-
   Pilgrim to the Holy Lands with his friend and relative Saint Germanus. Monk in Egypt and Marseilles, France. Studied

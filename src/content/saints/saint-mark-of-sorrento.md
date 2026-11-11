@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/1/19/Terrace_by_the_sea._Cappuccini_near_Sorrento_by_Sylvester_Feodosiyevich_Shchedrin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 name: Saint Mark of Sorrento
+stub: true
 honorific: Saint
 summary: One of a group of three sisters and a brother who were martyred together.
 died: Sorrento, Italy, date unknown

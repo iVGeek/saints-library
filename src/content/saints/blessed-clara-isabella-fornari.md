@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/2/29/SDamiano-Clara_og_s%C3%B8stre.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Clara Isabella Fornari
+stub: false
 honorific: Blessed
 summary: >-
   Novice in the Poor Clares of Todi, Italy at age 15, and took her vows under the name Clara Isabella at 16. Given to

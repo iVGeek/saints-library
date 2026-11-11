@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Mechthild of Hochsal
+stub: true
 honorific: Blessed
 summary: Anchoress at Hochsal, Waldshut in southern Germany.
 deathYear: 1081

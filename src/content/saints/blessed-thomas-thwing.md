@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/e/e0/Holy_Trinity_Church_Heworth_York.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Thomas Thwing
+stub: false
 honorific: Blessed
 summary: >-
   Studied at Douai, France. Priest, ordained in 1665. Returning to England, he served as chaplain for his cousin, Sir

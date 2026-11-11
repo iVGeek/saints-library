@@ -1,5 +1,6 @@
 ---
 name: Blessed Jan Turchan
+stub: false
 honorific: Blessed
 summary: >-
   Joined the Franciscan Friars Minor in 1899 in the province of Santa Maria degli Angeli in Italy, taking the name

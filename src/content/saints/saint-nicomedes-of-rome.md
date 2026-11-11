@@ -1,5 +1,6 @@
 ---
 name: Saint Nicomedes of Rome
+stub: false
 honorific: Saint
 summary: Priest in Rome, Italy. Arrested for helping martyrs, and for giving them Christian burial. Martyred.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Nicomedes-of-Rome.jpg

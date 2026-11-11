@@ -1,5 +1,6 @@
 ---
 name: Saint Boswell
+stub: false
 honorific: Saint
 summary: >-
   Spiritual student of Saint Aidan of Lindisfarne. Monk. Abbot at the abbey of Melrose, Scotland. Teacher and spiritual

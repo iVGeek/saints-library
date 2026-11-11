@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Fintan of Myshall
+stub: false
 honorific: Saint
 summary: >-
   Son of Eachaidh and Aighleann; brother of Saint Colum of Myshall; great-nephew of Saint Colman of Cloyne. Churches are

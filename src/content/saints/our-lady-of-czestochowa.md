@@ -1,5 +1,6 @@
 ---
 name: Our Lady of Czestochowa
+stub: false
 honorific: Saint
 summary: >-
   A revered four-foot high, wood and canvas icon of the Blessed Virgin Mary housed at the Jasna Góra Monastery in

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/9/91/Nuremberg_chronicles_f_145v_4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Edward Cheevers
+stub: false
 honorific: Blessed
 summary: Lifelong layman in the diocese of Ferns, Ireland; worked as a sailor. One of the Irish Martyrs.
 searchAliases:

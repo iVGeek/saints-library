@@ -1,5 +1,6 @@
 ---
 name: Saint Mutien Marie Wiaux
+stub: false
 honorific: Venerable
 summary: >-
   Third of six children of a blacksmith whose family was noted for piety. Louis attended a small country school, and

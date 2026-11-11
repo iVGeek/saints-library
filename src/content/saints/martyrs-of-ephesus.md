@@ -1,5 +1,6 @@
 ---
 name: Martyrs of Ephesus
+stub: false
 honorific: Saint
 summary: >-
   Forty-two monks martyred at a monastery in Ephesus (modern Turkey) during the persecutions of the Iconoclast Byzantine

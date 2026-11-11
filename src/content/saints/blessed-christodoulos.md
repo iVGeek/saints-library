@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/b/b6/Eschau_StTrophime_75_%28square_crop%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Christodoulos
+stub: false
 honorific: Blessed
 summary: >-
   Layman tailor in Thessaloniki during a period of occupation by Ottoman Turks. Seeing local Christians giving in to

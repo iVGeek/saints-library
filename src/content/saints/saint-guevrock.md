@@ -1,5 +1,6 @@
 ---
 name: Saint Guevrock
+stub: false
 honorific: Saint
 summary: >-
   Sixth century Briton. Friend and travelling companion of Saint Tudwal. Abbot at Loc-Kirec, Brittany. Assisted bishop

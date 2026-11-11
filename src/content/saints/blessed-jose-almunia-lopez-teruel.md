@@ -1,6 +1,7 @@
 ---
 image: https://www.santiebeati.it/immagini/Thumbs/97207/97207.JPG
 name: Blessed José Almunia López-Teruel
+stub: false
 honorific: Blessed
 summary: >-
   Brother of Blessed Alfredo Almunia López-Teruel. After studying at the seminary of San Indalecio de Almería, José was

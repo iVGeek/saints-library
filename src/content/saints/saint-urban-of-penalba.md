@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Urban of Peñalba
+stub: false
 honorific: Saint
 summary: >-
   Benedictine monk at Argeo, Spain in the late 9th century. In 895, Urban and a dozen other monks restored the abandoned

@@ -1,5 +1,6 @@
 ---
 name: Saint Arsacius of Nicomedia
+stub: false
 honorific: Saint
 summary: >-
   Soldier in the imperial Roman army in the reign of Emperor Licinius. Convert to Christianity, which led to his arrest.

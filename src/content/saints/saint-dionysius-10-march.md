@@ -1,5 +1,6 @@
 ---
 name: Saint Dionysius of Corinth
+stub: false
 honorific: Saint
 summary: >-
   During the persecution of Emperor Valerian he was arrested for his faith, tortured, and martyred with a group of

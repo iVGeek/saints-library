@@ -1,5 +1,6 @@
 ---
 name: Saint Honoratus of Vercelli
+stub: false
 honorific: Saint
 summary: >-
   Spiritual student of Saint Eusebius who he accompanied into exile at Scythopolis in 335, and on his travels through

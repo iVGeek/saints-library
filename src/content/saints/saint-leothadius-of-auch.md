@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Leothadius of Auch
+stub: false
 honorific: Saint
 summary: >-
   Born to the Frankish nobility. Monk. Abbot of Moissac Abbey in France in 670. Bishop of Auch, France in 691. KDied

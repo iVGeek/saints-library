@@ -1,5 +1,6 @@
 ---
 name: Saint Grellen
+stub: true
 honorific: Saint
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Grellen.jpg
 searchAliases:

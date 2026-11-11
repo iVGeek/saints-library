@@ -1,5 +1,6 @@
 ---
 name: Pope Saint Vitalian
+stub: false
 honorific: Saint
 summary: >-
   Son of Anastasius; nothing else is known of Vitalian before his election to the papacy. Chosen 76th pope in 657. His

@@ -1,5 +1,6 @@
 ---
 name: Saint Peregrinus of Auxerre
+stub: false
 honorific: Saint
 summary: >-
   Missionary to Auxerre, Gaul (modern France), sent by Pope Saint Sixtus II to serve as the area's first bishop. Worked

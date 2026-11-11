@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Daniel Molini
+stub: true
 honorific: Blessed
 summary: Cistercian monk, abbot and confessor.
 searchAliases:

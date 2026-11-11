@@ -1,5 +1,6 @@
 ---
 name: Blessed Simon of Prague
+stub: false
 honorific: Blessed
 summary: >-
   Franciscan Friar Minor priest. Served as alms collector. One of the Martyrs of Prague, killed by a Lutheran mob. At

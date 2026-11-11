@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Tómmán
+stub: true
 honorific: Saint
 summary: Bishop. No other information has survived.
 born: Ireland

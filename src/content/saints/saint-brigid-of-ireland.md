@@ -1,5 +1,6 @@
 ---
 name: Saint Brigid of Ireland
+stub: false
 honorific: Saint
 title: St. Brigid of Ireland
 summary: >-

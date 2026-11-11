@@ -1,5 +1,6 @@
 ---
 name: Saint Domnina of Syria
+stub: false
 honorific: Saint
 title: Virgin
 summary: >-

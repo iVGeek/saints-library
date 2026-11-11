@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Cyrinus of Aquileia
+stub: false
 honorific: Saint
 summary: >-
   One of a group of approximately 200 Christians martyred together. His is the only name that has come down to us, and

@@ -1,5 +1,6 @@
 ---
 name: Saint Calupan
+stub: false
 honorific: Saint
 summary: Monk at Meallot, Auvergne, France. He spent his later years as a hermit in a cave near the monastery.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Calupan.jpg

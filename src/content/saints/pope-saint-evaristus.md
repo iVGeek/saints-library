@@ -1,5 +1,6 @@
 ---
 name: Pope Saint Evaristus
+stub: false
 honorific: Saint
 summary: >-
   Son of an Hellenic Jew from Bethlehem. Fifth pope, reigning for eight years, and about whom almost nothing is known.

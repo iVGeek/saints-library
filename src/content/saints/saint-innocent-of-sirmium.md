@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Innocent of Sirmium
+stub: false
 honorific: Saint
 summary: Martyred with 31 companions, most of whose names have not come down to us. No other information has survived.
 died: at Sirmium (modern Mitrovica, Kosovo)

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Alexius Sugi Shohachi
+stub: true
 honorific: Blessed
 summary: Layman of the archdiocese of Nagasaki, Japan. One of the Martyrs of Unzen.
 birthYear: 1602

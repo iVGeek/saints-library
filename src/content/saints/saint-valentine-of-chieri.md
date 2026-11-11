@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Valentine of Chieri
+stub: true
 honorific: Saint
 summary: Martyr.
 died: date and location of death unknown

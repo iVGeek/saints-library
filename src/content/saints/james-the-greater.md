@@ -1,5 +1,6 @@
 ---
 name: James the Greater
+stub: false
 honorific: Saint
 title: Apostle, Martyr
 summary: >-

@@ -1,5 +1,6 @@
 ---
 name: Blessed Jacoba de Settesoli
+stub: false
 honorific: Blessed
 summary: >-
   Born to the Italian nobility. Mother of two sons, grandmother of several children, all of whom she outlived. Widow.

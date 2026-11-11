@@ -1,5 +1,6 @@
 ---
 name: Saint Bassus of Lucera
+stub: false
 honorific: Saint
 summary: >-
   First bishop of Lucera, Italy; tradition says that he was consecrated by Saint Peter the Apostle. Martyred in the

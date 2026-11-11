@@ -1,5 +1,6 @@
 ---
 name: Blessed Baldassarre Velasquez
+stub: false
 honorific: Blessed
 summary: >-
   Mercedarian friar. Imprisoned by Saracens in La Muela, Zaragoza, Spain, and ordered by them to renounce Christianiity.

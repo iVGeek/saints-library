@@ -1,5 +1,6 @@
 ---
 name: Saint Epigmenius of Rome
+stub: true
 honorific: Saint
 summary: Priest in Rome, Italy. Martyred in the persecutions of Diocletian.
 searchAliases:

@@ -1,5 +1,6 @@
 ---
 name: Blessed Angelo of Massaccio
+stub: false
 honorific: Blessed
 summary: >-
   Camaldolese monk at the Santa Maria della Serra monastery near Cupramontana, Italy. Prior of his house. Priest. Martyr

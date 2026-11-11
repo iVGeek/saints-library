@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Rufinus the Potter
+stub: true
 honorific: Saint
 summary: Potter. Martyred in the persecutions of Decius.
 deathYear: 250

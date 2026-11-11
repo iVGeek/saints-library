@@ -1,5 +1,6 @@
 ---
 name: Blessed Everard of Nellenburg
+stub: false
 honorific: Blessed
 summary: >-
   Born to the nobility. Count of Nellenberg, Swabia (in modern Germany). Married to Blessed Ita of Nellenberg. Founded

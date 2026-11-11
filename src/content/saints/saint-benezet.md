@@ -1,5 +1,6 @@
 ---
 name: Saint Benezet the Bridge Builder
+stub: false
 honorific: Saint
 summary: >-
   Shepherd. During an eclipse he received a vision telling him to build a bridge over the Rhone at Avignon; angels would

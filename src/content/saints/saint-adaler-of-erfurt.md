@@ -1,5 +1,6 @@
 ---
 name: Saint Adaler of Erfurt
+stub: true
 honorific: Saint
 summary: Evangelized Freisland with Saint Boniface. Martyr.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Adaler-of-Erfurt.jpg

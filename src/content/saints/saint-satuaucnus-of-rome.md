@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Satuaucnus of Rome
+stub: true
 honorific: Saint
 died: Rome, Italy, date unknown
 deathPlace: Italy, date unknown

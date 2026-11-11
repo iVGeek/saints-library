@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Hilary of Carcassone
+stub: false
 honorific: Saint
 title: Bishop
 summary: >-

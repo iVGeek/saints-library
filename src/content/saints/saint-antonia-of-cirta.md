@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/e/ec/MSR-ra-61-b-1-DM.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Antonia of Cirta
+stub: true
 honorific: Saint
 summary: Martyr.
 deathYear: 259

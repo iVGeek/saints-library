@@ -1,5 +1,6 @@
 ---
 name: Saint Processus of Rome
+stub: false
 honorific: Saint
 summary: >-
   Prison guard at the Mamertine prison in Rome, Italy. Worked with Saint Martinian. Guarded Saint Peter the Apostle and

@@ -1,5 +1,6 @@
 ---
 name: Saint Agathius the Martyr
+stub: false
 honorific: Saint
 summary: >-
   One of a group of eight missionaries who worked in eastern Egypt. They were sufficiently successful that they were

@@ -1,5 +1,6 @@
 ---
 name: Saint Gelasius of Poitiers
+stub: true
 honorific: Saint
 title: Bishop
 summary: Bishop of Poitiers, France in the late 4th and early 5th centuries.

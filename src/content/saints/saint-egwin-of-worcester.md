@@ -1,5 +1,6 @@
 ---
 name: Saint Egwin of Worcester
+stub: false
 honorific: Saint
 summary: ' There was a need in his diocese for some reform, but Egwin let it get out of hand, and he was charged with being too severe with English nobility, and the descendant of Mercian kings. Consecrated to God in his youth. Benedictine monk. Bishop of Worcester, England from 692 to 711.'
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Egwin-of-Worcester.jpg

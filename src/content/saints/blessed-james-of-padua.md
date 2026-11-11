@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/b/b4/Basilica_of_St._Anthony_in_Padua.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed James of Padua
+stub: false
 honorific: Blessed
 summary: >-
   Franciscan. Missionary. Martyred with Blessed Thomas of Tolentino, Blessed Peter of Siena, and Blessed Demetrius of

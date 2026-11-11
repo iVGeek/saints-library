@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Davinus of Lucca
+stub: false
 honorific: Saint
 summary: >-
   Layman who sold all that he owned, gave the money to the poor, and set out as a mendicant pilgrim to Rome, Italy and

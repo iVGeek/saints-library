@@ -1,5 +1,6 @@
 ---
 name: Saint Meriadoc of Vannes
+stub: false
 honorific: Saint
 summary: >-
   Wealthy 6th-7th century lord of a large manor, he sold it off and gave the procedes to the poor. Hermit at Rohan,

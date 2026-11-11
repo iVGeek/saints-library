@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Hesychius of Vienne
+stub: false
 honorific: Saint
 title: Bishop
 summary: Imperial Roman quaestor. Bishop of Vienne (in modern France). Participated in councils in Orleans and Paris.

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/8/8c/Escultura_de_la_Virgen_del_Pilar%2C_en_la_Bas%C3%ADlica_del_Pilar_de_Zaragoza%2C_Espa%C3%B1a%2C_Spain.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed María del Carmen Zaragoza y Zaragoza
+stub: false
 honorific: Blessed
 summary: Member of the Dominican Sisters of Education of the Immaculata. Martyred in the Spanish Civil War.
 birthYear: 1888

@@ -1,5 +1,6 @@
 ---
 name: Saint Angilbert of Centula
+stub: false
 honorific: Saint
 summary: >-
   Raised at the court of Charlemagne, and became his friend and confidante. Studied under Alcuin. Nicknamed “Homer”

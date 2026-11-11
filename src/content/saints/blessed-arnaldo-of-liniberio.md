@@ -1,5 +1,6 @@
 ---
 name: Blessed Arnaldo of Liniberio
+stub: false
 honorific: Blessed
 summary: >-
   Mercedarian prior in Barcelona, Spain. Ransomed 156 Christians in Morocco and 32 in Granada, Spain who had been

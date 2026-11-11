@@ -1,5 +1,6 @@
 ---
 name: Saint Jurmin
+stub: false
 honorific: Saint
 summary: Prince. Relative of King Anna of East Anglia, England. Brother of Saint Etheldreda.  Confessor of the faith.
 deathYear: 653

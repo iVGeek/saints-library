@@ -1,5 +1,6 @@
 ---
 name: Saint Amandus of Boixe
+stub: false
 honorific: Saint
 summary: >-
   Rather than go into business as his family wanted, Amand decided to take up arms against the Saracens. Setting sail

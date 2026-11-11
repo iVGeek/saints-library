@@ -1,5 +1,6 @@
 ---
 name: Saint Edmund Gennings
+stub: false
 honorific: Venerable
 summary: >-
   Convert to Catholicism at age 17. He studied and was ordained at Rheims, France in 1590. He then returned to England

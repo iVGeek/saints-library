@@ -1,5 +1,6 @@
 ---
 name: Saint Calepodius of Rome
+stub: false
 honorific: Saint
 summary: Priest. Martyred in the persecutions of Emperor Alexander Severus. One of the Roman catacombs is named for him.
 searchAliases:

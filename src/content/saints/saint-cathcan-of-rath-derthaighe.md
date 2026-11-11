@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Cathcan of Rath-derthaighe
+stub: true
 honorific: Saint
 title: Bishop
 summary: Bishop of Rath-derthaighe, Ireland.

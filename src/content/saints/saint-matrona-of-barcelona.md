@@ -1,5 +1,6 @@
 ---
 name: Saint Matrona of Barcelona
+stub: true
 honorific: Saint
 summary: Girl martyred in Rome, Italy, date unknown. No other information has survived.
 image: https://catholicsaints.info/wp-content/uploads/Martona-of-Barcelona.jpg

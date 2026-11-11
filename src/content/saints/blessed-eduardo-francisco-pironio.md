@@ -1,5 +1,6 @@
 ---
 name: Blessed Eduardo Francisco Pironio
+stub: false
 honorific: Blessed
 summary: >-
   The youngest of 22 children born to José Pironio and Enriqueta Rosa Butazzoni, who had emigrated to Argentina from

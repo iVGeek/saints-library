@@ -1,5 +1,6 @@
 ---
 name: Saint Birstan
+stub: false
 honorific: Saint
 summary: >-
   Spiritual student of Saint Grimbald. Benedictine monk. Bishop of Winchester, England from 931 to 934. Known for his

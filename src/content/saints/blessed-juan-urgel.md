@@ -1,5 +1,6 @@
 ---
 name: Blessed Juan Urgel
+stub: false
 honorific: Blessed
 title: Missionary
 summary: >-

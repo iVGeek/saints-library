@@ -1,5 +1,6 @@
 ---
 name: Blessed Robert Dalby
+stub: false
 honorific: Blessed
 summary: >-
   Protestant minister. Convert to Catholicism. Studied in Douai and Rheims in France. Ordained in 1588, he returned to

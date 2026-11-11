@@ -1,5 +1,6 @@
 ---
 name: Blessed Emil Szramek
+stub: false
 honorific: Blessed
 summary: >-
   Priest in the archdiocese of Katowice, Poland, simultaneously serving as pastor of the parish of Saint Mary in

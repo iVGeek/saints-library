@@ -1,5 +1,6 @@
 ---
 name: Blessed Justo Zariquiegui Mendoza
+stub: false
 honorific: Blessed
 summary: >-
   Member of the Brothers of the Christian Schools (De La Salle Brothers), joining in 1901. Taught in several schools in

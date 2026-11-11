@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Columba of Cordova
+stub: false
 honorific: Saint
 summary: >-
   Born to a pious family; her brother was an abbot, and her sister and brother-in-law founded a double monastery at

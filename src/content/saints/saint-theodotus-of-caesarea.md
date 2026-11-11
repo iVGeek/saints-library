@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Theodotus of Caesarea
+stub: false
 honorific: Saint
 summary: Married to Saint Rufina of Caesarea. Father of Saint Mamas. Martyred in the persecutions of Aurelian.
 deathYear: 270

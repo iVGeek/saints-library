@@ -1,5 +1,6 @@
 ---
 name: Blessed Luigi Biraghi
+stub: false
 honorific: Blessed
 summary: >-
   The fifth of eight children. Entered the Minor Seminary of Castello sopra Lecco, Italy at age 12; studied in the Major

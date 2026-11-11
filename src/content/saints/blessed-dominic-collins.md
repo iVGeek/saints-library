@@ -1,5 +1,6 @@
 ---
 name: Blessed Dominic Collins
+stub: false
 honorific: Blessed
 summary: >-
   Son of John and Felicity Collins. Dominic embarked on a military career, and rose to the rank of Captain. However,

@@ -1,5 +1,6 @@
 ---
 name: Saint Anno II
+stub: false
 honorific: Saint
 summary: >-
   A pious child. As a young man Anno became a soldier, and considered a military career; however, with the help of his

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Thaddeus Moriarty
+stub: true
 honorific: Blessed
 summary: Dominican priest. One of the Irish Martyrs.
 deathYear: 1653

@@ -1,5 +1,6 @@
 ---
 name: Blessed John the Spaniard
+stub: false
 honorific: Blessed
 summary: >-
   Migrated to France as a boy. Studied at Arles, France. Carthusian monk at Montreuil, France. Transferred to the Grande

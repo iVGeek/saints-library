@@ -1,5 +1,6 @@
 ---
 name: Saint Gaetano Catanoso
+stub: false
 honorific: Venerable
 summary: >-
   Born to a wealthy, pious family. Ordained on 20 September 1902, he served as a parish priest. Established a

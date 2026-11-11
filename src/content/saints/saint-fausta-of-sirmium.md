@@ -1,5 +1,6 @@
 ---
 name: Saint Fausta of Sirmium
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility. Married, and the mother of Saint Anastasia of Sirmium; her personal piety helped form her own

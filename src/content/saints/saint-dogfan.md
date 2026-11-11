@@ -1,5 +1,6 @@
 ---
 name: Saint Dogfan
+stub: false
 honorific: Saint
 summary: Son of the chieftain Saint Brychan of Brycheiniog. Martyr. No other information has survived.
 searchAliases:

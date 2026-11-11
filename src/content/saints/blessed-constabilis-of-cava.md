@@ -1,5 +1,6 @@
 ---
 name: Blessed Constabilis of Cava
+stub: false
 honorific: Blessed
 summary: >-
   Benedictine monk under Saint Leo at Cava monastery, Salerno, Italy. Abbot of Cava in 1122. Built the town of

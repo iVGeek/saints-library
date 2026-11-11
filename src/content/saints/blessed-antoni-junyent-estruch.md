@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Antoni Junyent Estruch
+stub: false
 honorific: Blessed
 summary: >-
   Member of the Claretians, professed on 15 August 1913. Ordained a priest on 17 December 1921. Martyred in the Spanish

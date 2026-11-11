@@ -1,5 +1,6 @@
 ---
 name: Saint Artemia
+stub: false
 honorific: Saint
 summary: Travelling companion of, and martyred with Saint Ursula. Nothing else is known about her.
 deathYear: 238

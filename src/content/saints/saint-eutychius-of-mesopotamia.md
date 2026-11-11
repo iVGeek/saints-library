@@ -1,5 +1,6 @@
 ---
 name: Saint Eutychius of Mesopotamia
+stub: false
 honorific: Saint
 summary: One of a group of Christians murdered for their faith in Mesopotamia after the conquest by Muslims. Martyr.
 searchAliases:

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Hanz Wagner
+stub: false
 honorific: Blessed
 summary: >-
   As a young man, Hanz joined the Carthusians at a lay brother at the Ittingen convent near Frauenfeld, Thurgau,

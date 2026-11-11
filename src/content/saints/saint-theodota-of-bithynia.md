@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Theodota of Bithynia
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility. Married, mother of three, Saints Evodius, Hermogenes and Callista. Widow. When she refused an

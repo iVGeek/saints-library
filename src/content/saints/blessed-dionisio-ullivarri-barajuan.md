@@ -1,5 +1,6 @@
 ---
 name: Blessed Dionisio Ullivarri Barajuán
+stub: false
 honorific: Blessed
 summary: >-
   Baptized on the day of his birth. Salesian brother, entering the novitiate in Sarria, Barcelona, Spain, making his

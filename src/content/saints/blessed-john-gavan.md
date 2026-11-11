@@ -1,5 +1,6 @@
 ---
 name: Blessed John Gavan
+stub: false
 honorific: Blessed
 summary: >-
   Educated at the Jesuit College, Saint Omer, France. Priest. Returned to England to minister to covert Catholics in

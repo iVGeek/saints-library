@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/5/50/Breizh_29_-_Kastell_Paol_-_an_iliz_veur_03.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Émilien of Nantes
+stub: false
 honorific: Blessed
 summary: >-
   Bishop of Nantes, France in the early 8th century. When the Muslim Saracens invaded the area, Émilien organized an

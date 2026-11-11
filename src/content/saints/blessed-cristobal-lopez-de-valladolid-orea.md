@@ -1,5 +1,6 @@
 ---
 name: Blessed Cristóbal López de Valladolid Orea
+stub: false
 honorific: Blessed
 summary: >-
   One of six brothers born to a poor farming family. He was known as a pious child, and at age 7 or 8 he ran away from

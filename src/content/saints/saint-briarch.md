@@ -1,5 +1,6 @@
 ---
 name: Saint Briarch of Bourbriac
+stub: false
 honorific: Saint
 summary: >-
   Born to the Irish nobility. Monk in Wales. Friend and evangelist with Saint Tudwal. Priest. He founded a monastery in

@@ -1,5 +1,6 @@
 ---
 name: Saint Carileffo of Anille
+stub: false
 honorific: Saint
 summary: >-
   Hermit in the area of Anille (modern St-Calais), France. The monastery erected in Anille in 576 was named in his

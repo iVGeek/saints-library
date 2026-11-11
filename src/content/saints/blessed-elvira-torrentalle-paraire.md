@@ -1,5 +1,6 @@
 ---
 name: Blessed Elvira Torrentallé Paraire
+stub: false
 honorific: Blessed
 summary: >-
   Joined the Carmelite Sisters of Charity at Vic, Spain on 9 September 1906. She served as superior of her community

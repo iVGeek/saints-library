@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Gwrddelw
+stub: false
 honorific: Saint
 title: Priest
 summary: >-

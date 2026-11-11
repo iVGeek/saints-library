@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/a/a6/Desembarque_de_Pedro_%C3%81lvares_Cabral_em_Porto_Seguro_em_1500_by_Oscar_Pereira_da_Silva_%281865%E2%80%931939%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Damião Vaz
+stub: false
 honorific: Blessed
 summary: >-
   Member of the Knights of Santiago de Castilla. During the re-conquest of the Iberian peninsula from the Muslims by

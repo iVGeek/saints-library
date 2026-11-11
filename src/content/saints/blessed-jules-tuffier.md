@@ -1,5 +1,6 @@
 ---
 name: Blessed Jules Tuffier
+stub: false
 honorific: Blessed
 summary: >-
   After studying at the college of the Picpus Fathers, Jules joined the congregation, making his profession on 14 May

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Amaethlu of Anglesey
+stub: false
 honorific: Saint
 summary: Sixth century hermit. Founded a church in Anglesey, Wales, now named Llanfaethlu.
 searchAliases:

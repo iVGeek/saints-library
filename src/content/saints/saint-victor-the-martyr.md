@@ -1,5 +1,6 @@
 ---
 name: Saint Victor the Martyr
+stub: false
 honorific: Saint
 summary: >-
   Imperial Roman soldier stationed in Damascus, Syria. Arrested, tortured, blinded and martyred for his faith. While in

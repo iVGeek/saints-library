@@ -1,5 +1,6 @@
 ---
 name: Saint Thomas of Farfa
+stub: false
 honorific: Saint
 summary: >-
   Benedictine monk. Pilgrim to the Holy Land. Lived as a hermit near Farfa Abbey, Italy. Friend of the duke of Spoleto,

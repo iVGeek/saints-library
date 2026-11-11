@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Victor of Capua
+stub: true
 honorific: Saint
 summary: Bishop of Capua, Italy in  541. Noted ecclesiastical writer.
 searchAliases:

@@ -1,6 +1,7 @@
 ---
 image: https://www.santiebeati.it/immagini/Thumbs/99269/99269.jpg
 name: Saint Caramnan
+stub: true
 honorific: Saint
 summary: No information has survived.
 searchAliases:

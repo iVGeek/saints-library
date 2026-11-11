@@ -1,5 +1,6 @@
 ---
 name: Venerable Henriette Delille
+stub: false
 honorific: Venerable
 summary: >-
   The daughter of a white man, Jean Baptiste Delille-Sarpy, and Marie Josef Dias, a “free woman of color”; Henriette

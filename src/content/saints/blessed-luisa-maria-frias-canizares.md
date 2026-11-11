@@ -1,5 +1,6 @@
 ---
 name: Blessed Luisa María Frías Cañizares
+stub: false
 honorific: Blessed
 summary: Lay woman in the archdiocese of Valencia, Spain. Martyred in the Spanish Civil War.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Luisa-Maria-Frias-Canizares.jpg

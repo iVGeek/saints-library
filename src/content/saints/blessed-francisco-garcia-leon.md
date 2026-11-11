@@ -1,6 +1,7 @@
 ---
 image: https://www.santiebeati.it/immagini/Thumbs/100692/100692.JPG
 name: Blessed Francisco García León
+stub: false
 honorific: Blessed
 summary: Teenaged boy in the diocese of Córdoba, Spain. Martyred in the Spanish Civil War.
 birthYear: 1920

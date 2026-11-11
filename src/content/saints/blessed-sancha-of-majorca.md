@@ -1,5 +1,6 @@
 ---
 name: Blessed Sancha of Majorca
+stub: false
 honorific: Blessed
 summary: >-
   Born a princess, the daughter of King James II of Majorca and Queen Esclaramunda de Foix. She married Robert of Anjou

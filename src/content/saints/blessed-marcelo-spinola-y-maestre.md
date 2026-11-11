@@ -1,5 +1,6 @@
 ---
 name: Blessed Marcelo Spínola y Maestre
+stub: false
 honorific: Blessed
 summary: >-
   Son of Juan Sp&iacute;nola y Osorno, marquis of Sp&iacute;nola, and Antonia Maestre y Osorno. Educated at the

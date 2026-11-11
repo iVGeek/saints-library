@@ -1,5 +1,6 @@
 ---
 name: Saint Amalburga of Maubeuge
+stub: false
 honorific: Saint
 summary: >-
   Seventh century relative of Saint Pepin of Landen. Married young to Count Witger. Mother of Saint Gudula of Brussels,

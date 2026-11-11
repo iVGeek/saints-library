@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/8/8a/One-hundred-and-seven-martyrs-of-england-and-wales.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Francis Dickenson
+stub: false
 honorific: Blessed
 summary: >-
   Studied at the English Seminary in Rheims, France. Priest, returning to England to minister to covert Catholics during

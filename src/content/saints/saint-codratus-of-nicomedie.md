@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Codratus of Nicomedië
+stub: false
 honorific: Saint
 summary: >-
   Fed and ministered to prisoners who were arrested and tortured in the persecutions of Emperor Valerian. When the

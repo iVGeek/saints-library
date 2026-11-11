@@ -1,5 +1,6 @@
 ---
 name: Blessed Secundino Ortega García
+stub: false
 honorific: Blessed
 summary: >-
   Joined the Claretians in 1928. Priest, ordained in Barbastro, Spain on 6 June 1936. Heard the final confession and the

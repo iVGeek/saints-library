@@ -1,5 +1,6 @@
 ---
 name: Saint Giovanni of Lodi
+stub: false
 honorific: Saint
 summary: >-
   Hermit. Benedictine monk at Fontavellana c.1065. Spiritual student of Saint Peter Damian about whom he wrote a

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Reine of Denain
+stub: false
 honorific: Blessed
 summary: >-
   Born to the 8th century nobility. Married to Count Blessed Adalbert of Ostrevant. Mother of ten daughters including

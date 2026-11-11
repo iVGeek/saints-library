@@ -1,5 +1,6 @@
 ---
 name: Blessed Marina Tanaura
+stub: false
 honorific: Blessed
 summary: >-
   Married layman in the archdiocese of Nagasaki, Japan. Member of the Confraternity of the Rosary. Martyred in the

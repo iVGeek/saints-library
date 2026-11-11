@@ -1,6 +1,7 @@
 ---
 image: https://www.santiebeati.it/immagini/Thumbs/65970/65970.JPG
 name: Saint Giacôbê Ðo Mai Nam
+stub: false
 honorific: Venerable
 summary: >-
   Priest in the apostolic vicariate of West Tonkin. Worked with the Society of Foreign Missions of Paris. One of the

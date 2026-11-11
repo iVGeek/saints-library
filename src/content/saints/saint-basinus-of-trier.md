@@ -1,5 +1,6 @@
 ---
 name: Saint Basinus of Trier
+stub: false
 honorific: Saint
 summary: >-
   Seventh-century Benedictine monk. Abbot of Saint Maximinus monastery in Trier, Germany. Bishop of Trier. Assisted

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Gébétrude of Remiremont
+stub: false
 honorific: Saint
 summary: >-
   Grandaughter of Saint Romaricus. Niece of Saint Clare. Sister of Saint Adolphus. Educated at the convent at Saint-Mont

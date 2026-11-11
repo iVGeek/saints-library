@@ -1,5 +1,6 @@
 ---
 name: Blessed Michel-Bernard Marchand
+stub: false
 honorific: Blessed
 summary: >-
   Priest in the diocese of Rouen, France. Imprisoned on a ship in the harbor of Rochefort, France and left to die during

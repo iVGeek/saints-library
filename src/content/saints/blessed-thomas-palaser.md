@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/en/d/d6/Real_Colegio_de_Ingleses_Valladolid.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Thomas Palaser
+stub: false
 honorific: Blessed
 summary: >-
   Seminarian at Rheims, France, and at Valladolid, Spain. Ordained in 1596. Returned to England to minister to covert

@@ -1,5 +1,6 @@
 ---
 name: Saint Artemide Zatti
+stub: false
 honorific: Venerable
 summary: >-
   One of three sons born to Albino Vecchi and Luigi Zatti. His was a poor family, and the boy had to drop out of school

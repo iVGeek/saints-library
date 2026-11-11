@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/7/7b/2022-08_Cath%C3%A9drale_Saint-Paul_de_Li%C3%A8ge_-_crop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Lambert of Cîteaux
+stub: false
 honorific: Blessed
 summary: >-
   Eleventh-century Cistercian monk in Morimond Abbey, Parnoy-en-Bassigny, France. Abbot of Clairfontaine Abbey in

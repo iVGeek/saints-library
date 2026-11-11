@@ -1,5 +1,6 @@
 ---
 name: Blessed Josep Sala Picó
+stub: false
 honorific: Blessed
 summary: >-
   Studied at the seminary of Seo de Urgel. Ordained on 15 April 1911. Member of the Diocesan Laborer Priests of the

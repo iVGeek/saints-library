@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Frans Rembrandts
+stub: true
 honorific: Blessed
 summary: Son of a man named Jacob. Priest. Martyred by Calvinists.
 deathYear: 1572

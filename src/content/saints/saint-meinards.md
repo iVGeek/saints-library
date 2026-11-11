@@ -1,5 +1,6 @@
 ---
 name: Saint Meinard
+stub: false
 honorific: Saint
 summary: >-
   Member of the Canons Regular of Saint Augustine. Priest. Canon at the Segeberg Abbey in Holstein, Germany. Missionary

@@ -1,5 +1,6 @@
 ---
 name: Blessed Giovanni Gradenigo
+stub: false
 honorific: Blessed
 summary: >-
   Born to the Italian nobility. Benedictine monk at Cuxa in the Catalonian Pyranees of Spain. Friend and fellow monk

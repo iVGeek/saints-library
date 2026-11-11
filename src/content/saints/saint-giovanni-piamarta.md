@@ -1,5 +1,6 @@
 ---
 name: Saint Giovanni Battista Piamarta
+stub: false
 honorific: Venerable
 summary: >-
   Born to a poor family, Giovanni's mother died when the boy was nine years old, and the boy grew up in the slums,

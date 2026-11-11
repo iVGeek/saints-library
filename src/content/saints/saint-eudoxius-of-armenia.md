@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Eudoxius of Armenia
+stub: false
 honorific: Saint
 summary: >-
   One of a group of Christian soldiers in the 2nd century imperial Roman army of Trajan, stationed in Gaul. Ordered to

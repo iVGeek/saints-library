@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Patrick O'Lougham
+stub: true
 honorific: Blessed
 summary: Bishop in Ireland. Martyr.
 birthYear: 1530

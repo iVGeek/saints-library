@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Conon of Alexandria
+stub: false
 honorific: Saint
 summary: Sixth century monk in the monastery of Pentucla in Palestine. Abbot of his house.
 deathYear: 555

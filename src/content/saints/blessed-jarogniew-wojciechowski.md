@@ -1,5 +1,6 @@
 ---
 name: Blessed Jarogniew Wojciechowski
+stub: false
 honorific: Blessed
 summary: >-
   Young layman in the archdiocese of Poznan, Poland, the son of an alcoholic manager of a cosmetics shop who eventually

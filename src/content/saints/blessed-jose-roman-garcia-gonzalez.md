@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed José Román García González
+stub: true
 honorific: Blessed
 summary: Priest of the diocese of Almería, Spain. Martyred in the Spanish Civil War.
 birthYear: 1881

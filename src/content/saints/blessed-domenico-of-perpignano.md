@@ -1,5 +1,6 @@
 ---
 name: Blessed Domenico of Perpignano
+stub: false
 honorific: Blessed
 summary: >-
   Mercedarian friar the Holy Savior convent on Mallorca, Spain. Freed 153 Christians enslaved and imprisoned by Muslims

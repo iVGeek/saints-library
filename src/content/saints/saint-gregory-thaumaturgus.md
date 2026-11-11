@@ -1,5 +1,6 @@
 ---
 name: Saint Gregory Thaumaturgus
+stub: false
 honorific: Saint
 summary: >-
   Born to a wealthy and distinguished pagan family. Trained in law and rhetoric in his youth. Brother-in-law to the

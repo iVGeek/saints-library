@@ -1,5 +1,6 @@
 ---
 name: Saint Praetexatus of Rouen
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Rouen, France from 549, a position he held for 35 years. Because of his involvement in political intrigue,

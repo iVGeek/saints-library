@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/e/ea/Bern-BerchtoldVZahring.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Berchtold of Engelberg
+stub: false
 honorific: Blessed
 summary: >-
   Benedictine monk at Engelberg, Switzerland. Spiritual student of Blessed Frowin, and succeeded him as abbot at

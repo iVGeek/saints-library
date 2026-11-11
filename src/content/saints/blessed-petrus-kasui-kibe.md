@@ -1,5 +1,6 @@
 ---
 name: Blessed Petrus Kasui Kibe
+stub: false
 honorific: Blessed
 summary: >-
   Raised in a Christian family, Kibe early felt called to the priesthood, and began studying at seminary at age 13. He

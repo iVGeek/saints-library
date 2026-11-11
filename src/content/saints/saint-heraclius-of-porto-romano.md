@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Heraclius of Porto Romano
+stub: true
 honorific: Saint
 summary: Martyred in the persecution of Diocletian.
 deathYear: 305

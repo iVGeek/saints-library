@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Olaus of Sweden
+stub: false
 honorific: Saint
 summary: >-
   King of Sweden. Convert, brought to the faith by Saint Anscharius. During a time of famine, he was sacrificed to the

@@ -1,5 +1,6 @@
 ---
 name: Saint Beuno Gasulsych
+stub: false
 honorific: Saint
 summary: >-
   Son of Beugi, and grandson of a Welsh prince, and, legend says, grand-nephew of King Arthur himself. Educated in

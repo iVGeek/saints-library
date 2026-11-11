@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Mary the Slave
+stub: false
 honorific: Saint
 summary: Christian slave in the house of Tertullus, a patrician in Rome, Italy. Martyred in the persecutions of Diocletian.
 deathYear: 300

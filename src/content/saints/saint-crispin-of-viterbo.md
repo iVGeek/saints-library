@@ -1,5 +1,6 @@
 ---
 name: Saint Crispin of Viterbo
+stub: false
 honorific: Venerable
 summary: >-
   Son of Ubald and Marsha. His father died when Pietro was very young, and his mother consecrated the boy to the Blessed

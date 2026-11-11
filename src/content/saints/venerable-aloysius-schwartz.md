@@ -1,5 +1,6 @@
 ---
 name: Venerable Aloysius Schwartz
+stub: false
 honorific: Venerable
 summary: >-
   One of seven children, locals remember him as a boy who loved to swim, play sports, worked at a drug store soda

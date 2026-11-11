@@ -1,5 +1,6 @@
 ---
 name: Blessed Charles the Good
+stub: false
 honorific: Blessed
 summary: >-
   Born a prince, the son of King Saint Canute of Denmark and Adela of Flanders. After his father's murder, he was raised

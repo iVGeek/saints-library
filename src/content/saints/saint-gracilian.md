@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Gracilian
+stub: false
 honorific: Saint
 summary: >-
   While in prison for his faith, Gracilian restored the sight of a blind girl, Saint Felicissima, and converted her to

@@ -1,5 +1,6 @@
 ---
 name: Blessed Jean-Marie du Lau d'Alleman
+stub: false
 honorific: Blessed
 summary: >-
   Born to the French nobility. Member of the French parliment. Archbishop of Arles, France. One of the Martyrs of

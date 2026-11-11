@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Batone of Freising
+stub: false
 honorific: Blessed
 summary: >-
   Monk at the monastery of San Candido of Val Pusteria in the diocese of Freising, Germany. Chaplain to Bishop Ellenhard

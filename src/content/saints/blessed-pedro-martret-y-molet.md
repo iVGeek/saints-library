@@ -1,5 +1,6 @@
 ---
 name: Blessed Pedro Martret y Molet
+stub: false
 honorific: Blessed
 summary: >-
   The son of Biagio Martret and Teresa Moles, Pedro entered the the junior seminary of the diocese of Urgell, Spain at

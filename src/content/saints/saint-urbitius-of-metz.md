@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Urbitius of Metz
+stub: false
 honorific: Saint
 title: Bishop
 summary: >-

@@ -1,5 +1,6 @@
 ---
 name: Blessed Filippa Guidoni
+stub: false
 honorific: Blessed
 summary: >-
   Born to the nobility of Arezzo, Italy. Benedictine Santucci (later Servents of Mary) nun. Spiritual student of the

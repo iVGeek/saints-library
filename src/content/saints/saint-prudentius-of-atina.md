@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Prudentius of Atina
+stub: false
 honorific: Saint
 summary: >-
   Tenth bishop of Atina, Italy from 288 to 313. When Prudentius tried to destroy a statue of the goddess Juno, local

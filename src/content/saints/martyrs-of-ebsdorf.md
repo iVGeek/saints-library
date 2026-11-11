@@ -1,6 +1,7 @@
 ---
 image: https://upload.wikimedia.org/wikipedia/commons/Bruno%20dux.jpg
 name: Martyrs of Ebsdorf
+stub: true
 honorific: Saint
 searchAliases:
   - Ebsdorf Martyrs

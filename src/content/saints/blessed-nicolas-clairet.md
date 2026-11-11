@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/4f/Frm_beatification_banner.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Nicolas Clairet
+stub: false
 honorific: Blessed
 summary: >-
   Priest in the archdiocese of Paris, France. He served as hospital chaplain with a special ministry to the terminally

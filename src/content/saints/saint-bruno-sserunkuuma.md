@@ -1,5 +1,6 @@
 ---
 name: Saint Bruno Sserunkuuma
+stub: false
 honorific: Venerable
 summary: Ndiga clan. Convert, baptized on 18 November 1885. One of the Martyrs of Uganda who died in the Mwangan persecutions.
 image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Uganda1.jpg

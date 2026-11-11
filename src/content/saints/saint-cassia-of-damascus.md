@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Cassia of Damascus
+stub: true
 honorific: Saint
 summary: Martyr.
 searchAliases:

@@ -1,5 +1,6 @@
 ---
 name: Blessed Nicola da Forca Palena
+stub: false
 honorific: Blessed
 summary: >-
   Priest. Nicola joined the Franciscan tertiaries and became known for his personal piety and life of penance. Curate of

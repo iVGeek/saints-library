@@ -1,5 +1,6 @@
 ---
 name: Blessed Hyacinth-Marie Cormier
+stub: false
 honorific: Blessed
 summary: >-
   Born to a family of wealthy merchants, the son of François-Bernard Cormier and Marguerite-Felicité Bracquemond, he was

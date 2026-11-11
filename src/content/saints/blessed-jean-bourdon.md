@@ -1,5 +1,6 @@
 ---
 name: Blessed Jean Bourdon
+stub: false
 honorific: Blessed
 summary: >-
   The son of Simon Bourdon, a wheelwright, and Mary Louise Le Fou, he was baptized at the age of one day. Franciscan

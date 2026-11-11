@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/8/8b/Pope_Francis_Korea_Haemi_Castle_19_%284x5_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Leo II of Cava
+stub: false
 honorific: Blessed
 summary: >-
   Benedictine monk. Fourteenth abbot of the monastery of Cava de Tirreni in Campania, Italy, chosen on 25 January 1268,

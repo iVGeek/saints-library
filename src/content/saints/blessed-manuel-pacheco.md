@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/f/fd/Cathedral_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Manuel Pacheco
+stub: false
 honorific: Blessed
 summary: Jesuit friar. Missionary. Martyred by the Huguenot Jacques Sourie while en route to Brazil.
 deathYear: 1570

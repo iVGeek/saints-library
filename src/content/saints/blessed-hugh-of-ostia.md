@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/a/a8/Victor_III._-_Desiderius_of_Montecassino.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Hugh of Ostia
+stub: false
 honorific: Blessed
 summary: >-
   Born to the French nobility. Benedictine Cistercian monk at Clairvaux Abbey. Friend, spiritual student and future

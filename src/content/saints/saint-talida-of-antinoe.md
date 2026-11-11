@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Talida of Antinoë
+stub: false
 honorific: Saint
 summary: Nun. Abbess. Head of a group of convents in Egypt. Lived over 80 years as a nun.
 searchAliases:

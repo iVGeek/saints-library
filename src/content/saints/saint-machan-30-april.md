@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/5/53/NMSMonymuskReliquary2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Machan
+stub: false
 honorific: Saint
 summary: >-
   12th century holy man. Churches in Ecclesmachan, West Lothian, Clyne and Lennoxtown were dedicated to him, as were

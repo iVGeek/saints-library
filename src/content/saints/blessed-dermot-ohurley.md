@@ -1,5 +1,6 @@
 ---
 name: Blessed Dermot O'Hurley
+stub: false
 honorific: Blessed
 summary: >-
   Born to a wealthy family, the son of William O'Brien O'Hurley and Honoria. Studied at the University of Leuven,

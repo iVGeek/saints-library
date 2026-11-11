@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Venerable Manuel Herranz-Establés
+stub: false
 honorific: Venerable
 summary: Priest in the archdiocese of Madrid, Spain. Founded the Religious Handmaids of Our Lady of Sorrows.
 birthYear: 1880

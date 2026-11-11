@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/5/50/Saint_Spyridon_Icon.tif?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Lucius of Constantinople
+stub: false
 honorific: Saint
 summary: >-
   Priest. Imprisoned and tortured at Amphipolis and then Constantinople during the persecutions of Diocletian and

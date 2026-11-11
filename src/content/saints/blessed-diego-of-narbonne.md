@@ -1,5 +1,6 @@
 ---
 name: Blessed Diego of Narbonne
+stub: false
 honorific: Blessed
 summary: >-
   As a young man he felt a call to religious life, and joined the Mercedarians. He attracted so much attention as a

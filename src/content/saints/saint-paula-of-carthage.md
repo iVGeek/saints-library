@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/9/92/Monica_of_Hippo_by_Gozzoli.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Paula of Carthage
+stub: true
 honorific: Saint
 summary: Nun. Martyr.
 died: in Carthage in North Africa

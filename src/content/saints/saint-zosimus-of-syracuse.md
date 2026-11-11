@@ -1,5 +1,6 @@
 ---
 name: Saint Zosimus of Syracuse
+stub: false
 honorific: Saint
 summary: >-
   Son of wealthy land owners. Dedicated to Saint Lucy of Syracuse. Entered the monastery of Saint Lucy near Syracuse,

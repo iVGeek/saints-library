@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Maximus of Ancyra
+stub: true
 honorific: Saint
 summary: One of a group of seventeen martyrs that died together.
 died: at Ancyra, Galatia (in modern Turkey)

@@ -1,5 +1,6 @@
 ---
 name: Blessed Alphonsus Pacheco
+stub: false
 honorific: Blessed
 summary: >-
   Born to the New Castilian nobility. Joined the Jesuits on 8 September 1567. In September 1574, he arrived in Goa,

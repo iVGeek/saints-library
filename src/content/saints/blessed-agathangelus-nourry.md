@@ -1,5 +1,6 @@
 ---
 name: Blessed Agathangelus Nourry
+stub: false
 honorific: Blessed
 summary: >-
   Joined the Capuchins at Le Mans, France in 1619. Taught theology at Rennes, France. Missionary to the Copts in Egypt

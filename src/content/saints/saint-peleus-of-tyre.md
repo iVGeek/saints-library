@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/a/ab/Joseph_Alanen_-_The_Forging_of_the_Sampo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Peleus of Tyre
+stub: true
 honorific: Saint
 summary: Bishop in Egypt. Martyred in the persecutions of Diocletian.
 deathYear: 304

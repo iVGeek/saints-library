@@ -1,5 +1,6 @@
 ---
 name: Venerable Anna Maria Sorti
+stub: false
 honorific: Venerable
 summary: >-
   Member of the Congregation of the Sisters of the Poor - Palazzolo Institute. She died of the Ebola virus contracted by

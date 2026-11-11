@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Ermen
+stub: true
 honorific: Saint
 summary: Nun, praised for her charity. No other information has survived.
 born: Ireland

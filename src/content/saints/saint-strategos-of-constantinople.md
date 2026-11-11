@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Strategos of Constantinople
+stub: false
 honorific: Saint
 summary: One of a group of 24 Christians martyred in the persecutions of Arian emperor Valens.
 deathYear: 367

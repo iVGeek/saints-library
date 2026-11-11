@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Bernold of Ottobeuren
+stub: false
 honorific: Saint
 summary: >-
   Benedictine monk and priest of Ottobeuren in Bavaria (in modern Germany) in the first half of the 11th century. Known

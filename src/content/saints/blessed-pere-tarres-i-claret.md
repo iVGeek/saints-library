@@ -1,5 +1,6 @@
 ---
 name: Blessed Pere Tarrés i Claret
+stub: false
 honorific: Blessed
 summary: >-
   The son of Francesco and Carmen Tarres i Claret, he and his sisters Francesca and Maria, both of whom became

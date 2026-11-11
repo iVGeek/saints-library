@@ -1,5 +1,6 @@
 ---
 name: Blessed Maria Pilar Izquierdo Albero
+stub: false
 honorific: Blessed
 summary: >-
   The third of five children born to Mariano, a baker, and Paola. Theirs was a poor family, and Maria was known from

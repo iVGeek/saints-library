@@ -1,5 +1,6 @@
 ---
 name: Saint Athanasia of Antioch
+stub: false
 honorific: Saint
 summary: >-
   Ninth-century lay woman in Antioch, Syria. Married to Saint Andronicus of Antioch. Mother of two.  On the death of

@@ -1,5 +1,6 @@
 ---
 name: Saint Angelina of Serbia
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility, the daughter of Prince Georg Skenderberg of Albania. Married to King Stefan Brankovic of Serbia,

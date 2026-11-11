@@ -1,5 +1,6 @@
 ---
 name: Saint Maria Du Zhauzhi
+stub: false
 honorific: Venerable
 summary: >-
   Married lay woman in the apostolic vicariate of Southeastern Zhili, China. Mother of a priest. Martyred in the Boxer

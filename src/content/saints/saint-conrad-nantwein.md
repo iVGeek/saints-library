@@ -1,5 +1,6 @@
 ---
 name: Saint Conrad Nantwein
+stub: false
 honorific: Saint
 summary: >-
   A pious man who stopped at Wolfratshausen, Germany while on pilgrimage to Rome, Italy. There he was falsley accused of

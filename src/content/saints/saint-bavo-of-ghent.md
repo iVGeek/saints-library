@@ -1,5 +1,6 @@
 ---
 name: Saint Bavo of Ghent
+stub: false
 honorific: Saint
 summary: >-
   Belgian nobleman who spent a wild youth, noted for selfishness; known to have sold his servants as slaves to local

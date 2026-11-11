@@ -1,5 +1,6 @@
 ---
 name: Blessed Marie-Françoise de Croissy
+stub: false
 honorific: Blessed
 summary: >-
   Discalced Carmelite nun, professed on 22 February 1764. Prioress from 1779 to 1785. One of the Carmelite Martyrs of

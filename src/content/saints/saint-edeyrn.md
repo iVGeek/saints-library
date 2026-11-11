@@ -1,5 +1,6 @@
 ---
 name: Saint Edeyrn
+stub: false
 honorific: Saint
 summary: >-
   Hermit the Armonica area of Brittany in modern France. Evangelist in Wales. Legend says that he spent his early life

@@ -1,5 +1,6 @@
 ---
 name: Saint Gunifort
+stub: false
 honorific: Saint
 summary: >-
   Brother of Saint Guiniboldus. While making a pilgrimage, Gunifort, his brother and two unnamed sisters travelled

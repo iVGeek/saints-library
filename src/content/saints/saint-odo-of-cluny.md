@@ -1,5 +1,6 @@
 ---
 name: Saint Odo of Cluny
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility, the son of Abbo. Raised in the courts of Count Fulk II of Anjou and Duke William of Aquitaine.

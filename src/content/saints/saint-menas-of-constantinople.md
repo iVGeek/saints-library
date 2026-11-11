@@ -1,5 +1,6 @@
 ---
 name: Saint Menas of Constantinople
+stub: false
 honorific: Saint
 summary: >-
   Superior of the hospice of Saint Samson in Constantinople. Patriarch of Constantinople, ordained and consecrated by

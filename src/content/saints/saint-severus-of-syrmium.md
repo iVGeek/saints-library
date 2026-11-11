@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Severus of Syrmium
+stub: true
 honorific: Saint
 summary: The only one of a group of 62 martyrs whose name has come down to us.
 died: mid-3rd century in Syrmium, Pannonia (modern Sremska Mitrovica, Serbia)

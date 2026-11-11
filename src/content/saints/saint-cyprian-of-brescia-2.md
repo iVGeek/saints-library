@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Cyprian of Brescia
+stub: true
 honorific: Saint
 title: Bishop
 summary: Bishop of Brescia, Italy.

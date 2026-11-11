@@ -1,5 +1,6 @@
 ---
 name: Blessed Bonaventura of Potenza
+stub: false
 honorific: Blessed
 summary: >-
   Joined the Friars Minor Conventual at Nocera, Italy at age 15. Home missioner in southern Italy, serving from convents

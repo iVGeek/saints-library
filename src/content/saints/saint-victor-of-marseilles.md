@@ -1,5 +1,6 @@
 ---
 name: Saint Victor of Marseilles
+stub: false
 honorific: Saint
 summary: >-
   Christian soldier in the imperial Roman army, he was imprisoned in Marseilles, France when he refused to worship pagan

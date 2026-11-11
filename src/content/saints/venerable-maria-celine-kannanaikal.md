@@ -1,5 +1,6 @@
 ---
 name: Venerable Maria Celine Kannanaikal
+stub: false
 honorific: Venerable
 summary: >-
   Raised in a pious family, Maria had a great devotion to the Virgin Mary, to Saint Teresa of the Child Jesus, to Saint

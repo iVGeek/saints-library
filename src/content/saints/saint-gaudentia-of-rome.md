@@ -1,5 +1,6 @@
 ---
 name: Saint Gaudentia of Rome
+stub: false
 honorific: Saint
 summary: >-
   Young woman in Rome, Italy who made personal vows, dedicating herself to God. Martyred with three companions whose

@@ -1,5 +1,6 @@
 ---
 name: Saint Burchard of Worms
+stub: false
 honorific: Saint
 summary: Monk at Lobbes Abbey in Belgium. Canonist. Reluctant bishop of Worms, Germany in 1006.
 deathYear: 1026

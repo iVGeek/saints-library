@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Frederick of Saint-Vanne
+stub: false
 honorific: Blessed
 summary: >-
   Son of Matilda and Count Geoffrey le Barbu of Verdun, France. In 997 he gave his wealth to the bishop of Verdun and

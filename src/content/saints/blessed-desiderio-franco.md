@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/a/ab/Apollo_and_Daphne_%28Bernini%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Desiderio Franco
+stub: false
 honorific: Blessed
 summary: >-
   Brother of Blessed Christian Franco. Augustinian monk in Piedmont and then Naples in Italy. Chosen Vicar-General of

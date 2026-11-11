@@ -1,5 +1,6 @@
 ---
 name: Venerable Pirro Scavizzi
+stub: false
 honorific: Venerable
 summary: >-
   Ordained a priest of the vicariate of Rome, Italy on 7 July 1907. He made a personal vow to remain a diocesan priest

@@ -1,5 +1,6 @@
 ---
 name: Blessed Józef Stepniak
+stub: false
 honorific: Blessed
 summary: >-
   Born to a farm family, the son of Paul and Anna Misztal; he was baptized at the age of one day. Jozef's mother died

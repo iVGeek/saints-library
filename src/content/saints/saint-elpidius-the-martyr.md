@@ -1,5 +1,6 @@
 ---
 name: Saint Elpidius the Martyr
+stub: false
 honorific: Saint
 summary: Official in the court of Emperor Constantius. He was demoted from the court by Julian the Apostate. Martyr.
 deathYear: 362

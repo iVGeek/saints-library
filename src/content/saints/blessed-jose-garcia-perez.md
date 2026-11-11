@@ -1,6 +1,7 @@
 ---
 image: https://www.santiebeati.it/immagini/Thumbs/100867/100867.JPG
 name: Blessed José García Pérez
+stub: false
 honorific: Blessed
 summary: Novice in the Vincentian Congregation of the Mission. Martyred in the Spanish Civil War.
 birthYear: 1915

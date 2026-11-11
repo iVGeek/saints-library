@@ -1,5 +1,6 @@
 ---
 name: Saint Theonas of Egypt
+stub: true
 honorific: Saint
 summary: Monk at Theibaid, Egypt and el-Bahnasa, Egypt.
 image: https://catholicsaints.info/wp-content/uploads/img-saint-theonas-of-egypt.jpg

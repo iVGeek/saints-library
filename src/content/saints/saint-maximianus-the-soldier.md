@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Maximianus the Soldier
+stub: false
 honorific: Saint
 summary: >-
   Soldier in the imperial Herculean Legion serving under an uncle of Julian the Apostate. Tortured and executed for

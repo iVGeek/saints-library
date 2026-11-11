@@ -1,5 +1,6 @@
 ---
 name: Saint Elijah Speleota
+stub: false
 honorific: Saint
 summary: >-
   Born to the wealthy nobility, the son of Peitro Bozzetta and Leonzia de Leontini. At age 18, to avoid an arranged

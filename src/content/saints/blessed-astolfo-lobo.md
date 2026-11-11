@@ -1,5 +1,6 @@
 ---
 name: Blessed Astolfo Lobo
+stub: false
 honorific: Blessed
 summary: >-
   Member of the Mercedarians. Priest. Bishop in Tournai, Belgium. Noted theologian in his day, known for his ministry to

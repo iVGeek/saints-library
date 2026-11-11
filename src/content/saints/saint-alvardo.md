@@ -1,5 +1,6 @@
 ---
 name: Saint Alvardo
+stub: false
 honorific: Saint
 summary: >-
   Wealthy merchant, and a cousin of King Olaf of Norway. Killed when he defended a woman falsely accused of theft.

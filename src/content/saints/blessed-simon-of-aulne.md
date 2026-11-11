@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/b/b1/Abbaye_d%27Aulne_%28DSCF7748%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Simon of Aulne
+stub: false
 honorific: Blessed
 summary: >-
   Born to nobility, related to the counts of Guelders. At age 16 he became a Cistercian lay brother at the Aulne Abbey

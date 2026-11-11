@@ -1,5 +1,6 @@
 ---
 name: Blessed Pietro Tecelano
+stub: false
 honorific: Blessed
 summary: >-
   Moved from Campi to Siena, Italy with his family as a child. He married and worked as a comb-maker. Widower.

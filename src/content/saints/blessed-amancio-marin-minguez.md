@@ -1,5 +1,6 @@
 ---
 name: Blessed Amancio Marín Mínguez
+stub: true
 honorific: Blessed
 summary: Mercedarian priest. Martyred in the Spanish Civil War.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Amancio-Marín-Mínguez.jpg

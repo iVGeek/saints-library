@@ -1,5 +1,6 @@
 ---
 name: Saint Elizabeth of Constantinople
+stub: false
 honorific: Saint
 summary: >-
   Nun and abbess who lived at some point from the 6th to the 9th centuries. At her birth, her mother received the

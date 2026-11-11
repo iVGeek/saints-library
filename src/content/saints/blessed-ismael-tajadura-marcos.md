@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Ismael Tajadura Marcos
+stub: false
 honorific: Blessed
 summary: >-
   Baptized at the age of three days, and Confirmed in 1904. He joined the Congregation of Saint Peter “ad Vincula”,

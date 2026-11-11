@@ -1,5 +1,6 @@
 ---
 name: Blessed Manuel Lozano Garrido
+stub: false
 honorific: Blessed
 summary: >-
   Joined Catholic Action at age 11. As a teenager during the Spanish Civil War he visited prisoners and would sneak them

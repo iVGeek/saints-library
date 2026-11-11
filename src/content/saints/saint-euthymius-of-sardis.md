@@ -1,5 +1,6 @@
 ---
 name: Saint Euthymius of Sardis
+stub: false
 honorific: Saint
 summary: >-
   Studied in Alexandria, Egypt. Monk. Priest. Bishop of Sardis, Lydia (in modern Turkey) in 787. He fought iconoclasm,

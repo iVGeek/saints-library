@@ -1,5 +1,6 @@
 ---
 name: Saint Domitian of Melitene
+stub: false
 honorific: Saint
 summary: >-
   Married. Noted scholar in literature, philosophy and Biblical studies. Widower. Monk. Bishop of Melitene, Armenia at

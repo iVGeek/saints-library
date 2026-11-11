@@ -1,5 +1,6 @@
 ---
 name: Blessed Robert Anderton
+stub: false
 honorific: Blessed
 summary: >-
   Graduated from Brasenose College, Oxford in 1578, and continued his studies abroad. Converted to Catholicism, and

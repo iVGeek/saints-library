@@ -1,5 +1,6 @@
 ---
 name: Saint Solomon III of Bretagne
+stub: false
 honorific: Saint
 summary: >-
   King of Brittany (in modern France). Military leader who fought both Franks and Northmen; the Bretons count him among

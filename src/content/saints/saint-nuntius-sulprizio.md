@@ -1,5 +1,6 @@
 ---
 name: Saint Nuntius Sulprizio
+stub: false
 honorific: Venerable
 summary: >-
   Son of Domenico Sulprizio and Rosa Luciani, Nunzio was named after his grandfather and baptized when only a few hours

@@ -1,5 +1,6 @@
 ---
 name: Saint Thomas Garnet
+stub: false
 honorific: Venerable
 summary: >-
   Son of Richard Garnet, an Oxford don. Nephew of Henry Garnet, superior of all Jesuits in England, and in charge of the

@@ -1,5 +1,6 @@
 ---
 name: Blessed Honoratus Kozminski
+stub: false
 honorific: Blessed
 summary: >-
   After basic education, Honoratus studied architecture at the School of Fine Arts in Warsaw, Poland. During his school

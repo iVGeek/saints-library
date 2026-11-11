@@ -1,5 +1,6 @@
 ---
 name: Blessed Piotr Edward Dankowski
+stub: false
 honorific: Blessed
 summary: >-
   Priest in the Archdiocese of Kraków, Poland. Vicar of the parish of Zakopane, he was known for his service to the

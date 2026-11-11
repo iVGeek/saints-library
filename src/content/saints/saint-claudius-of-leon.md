@@ -1,5 +1,6 @@
 ---
 name: Saint Claudius of Léon
+stub: false
 honorific: Saint
 summary: >-
   Son of Saint Marcellus of Centurion; brother of Saint Lupercus of Léon and Saint Victorius of Léon. Martyred in the

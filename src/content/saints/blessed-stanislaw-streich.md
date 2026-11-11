@@ -1,5 +1,6 @@
 ---
 name: Blessed Stanislaw Streich
+stub: false
 honorific: Blessed
 summary: >-
   The eldest of three sons born to Franciszek Streich and Wladyslawa Streich née Birzynska, Stanislaw was baptized at

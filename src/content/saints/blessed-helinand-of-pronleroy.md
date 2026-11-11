@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Helinand of Pronleroy
+stub: false
 honorific: Blessed
 summary: Court singer and troubadour. Convert. Benedictine Cistercian monk at Froidmont, France.
 searchAliases:

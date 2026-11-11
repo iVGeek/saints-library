@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Zoticus of Tivoli
+stub: true
 honorific: Saint
 summary: Martyr.
 died: Tivoli, Italy

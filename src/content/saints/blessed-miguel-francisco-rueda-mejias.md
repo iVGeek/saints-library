@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/8/8e/Basilica_de_Yarumal-Fachada_Principal.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Miguel Francisco Rueda Mejías
+stub: false
 honorific: Blessed
 summary: Member of the Hospitallers of Saint John of God. Martyred in the Spanish Civil War.
 searchAliases:

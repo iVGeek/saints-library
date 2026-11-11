@@ -1,5 +1,6 @@
 ---
 name: Blessed Antonio Patrizi
+stub: true
 honorific: Blessed
 summary: Priest in the Order of Hermits of Saint Augustine in Lecceto, Italy.
 image: >-

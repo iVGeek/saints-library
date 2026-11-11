@@ -1,5 +1,6 @@
 ---
 name: Jonah the Prophet
+stub: false
 honorific: Saint
 summary: >-
   Old Testament patriarch and prophet. Hero of the Book of Jonah, he was so reluctant to deliver his prophecy against

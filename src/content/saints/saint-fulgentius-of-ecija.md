@@ -1,5 +1,6 @@
 ---
 name: Saint Fulgentius of Ecija
+stub: false
 honorific: Saint
 title: Bishop
 summary: >-

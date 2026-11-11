@@ -1,5 +1,6 @@
 ---
 name: Saint Diomedes the Younger
+stub: false
 honorific: Saint
 summary: >-
   Student of Saint Trifillio. Miracle worker; legend says that when Cyprus was being attacked by Saracens, Diomedes made

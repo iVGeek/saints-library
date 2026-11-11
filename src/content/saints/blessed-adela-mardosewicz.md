@@ -1,5 +1,6 @@
 ---
 name: Blessed Adela Mardosewicz
+stub: false
 honorific: Blessed
 summary: >-
   Studied to be a teacher. Joined the Sisters of Nazareth on 14 September 1910, taking the name Maria Stella of the Most

@@ -1,5 +1,6 @@
 ---
 name: Venerable Alfredo Maria Obviar
+stub: false
 honorific: Venerable
 summary: >-
   Educated at the Jesuit College of Saint Francis Xavier in Manila, Philippines. Ordained a priest in the diocese of

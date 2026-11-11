@@ -1,5 +1,6 @@
 ---
 name: Saint Hermagorus of Aquileia
+stub: false
 honorific: Saint
 summary: >-
   Disciple of Saint Mark the Evangelist. First bishop of Aquileia in northern Italy, appointed by Mark. Martyred with

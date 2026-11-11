@@ -1,5 +1,6 @@
 ---
 name: Blessed Marcel Callo
+stub: false
 honorific: Blessed
 summary: >-
   Second of nine children. Lifelong layman in the diocese of Rennes, France. Joined the Boy Scouts at age 10, and

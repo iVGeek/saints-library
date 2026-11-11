@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/b/b8/Sanezequiel02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Tomás Díaz y Díaz
+stub: true
 honorific: Blessed
 summary: Franciscan Capuchin friar. Murdered by Marxists in the Spanish Civil War.
 searchAliases:

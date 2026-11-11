@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/c/cf/Johnchrysostom.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Palladius of Antioch
+stub: true
 honorific: Saint
 summary: Hermit in the desert near Antioch, Syria. Friend of Saint Simeon.
 deathYear: 390

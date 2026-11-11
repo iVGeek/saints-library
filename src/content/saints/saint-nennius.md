@@ -1,5 +1,6 @@
 ---
 name: Saint Nennius
+stub: false
 honorific: Saint
 summary: >-
   Born to the Irish nobility, Ninnian was early drawn to religious life. Spiritual student of Saint Fiechus of Leinster

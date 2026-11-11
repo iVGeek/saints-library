@@ -1,5 +1,6 @@
 ---
 name: Saint Ambrose Edward Barlow
+stub: false
 honorific: Venerable
 summary: >-
   Fourth son of Sir Alexander Barlow and Mary Brereton. Baptized Catholic on 30 November 1585, he was raised as a

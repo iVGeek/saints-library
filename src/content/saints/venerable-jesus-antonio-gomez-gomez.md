@@ -1,5 +1,6 @@
 ---
 name: Venerable Jesús Antonio Gómez Gómez
+stub: false
 honorific: Venerable
 summary: >-
   One of seventeen children born to José Joaquín and Ana Joaquina, Jesús Antonio was baptized at the age of one day;

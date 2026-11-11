@@ -59,6 +59,7 @@ rewrite.
 | `causes` | string[] | Special causes / secondary patronships, free text, shown as non-link chips. |
 | `symbols` | string[] | Iconographic attributes, e.g. `Roses`, `Keys`, `Lion`. |
 | `martyr` | boolean | Adds a "Martyr" chip. |
+| `stub` | boolean | `true` when the body is under 80 characters and still awaits a real biography. Set by `scripts/mark-stubs.mjs`; drives the "Stub profile" badge and the directory's "Hide stub profiles" filter. |
 
 ### Imagery
 

@@ -1,5 +1,6 @@
 ---
 name: Blessed José Ferrer Adell
+stub: false
 honorific: Blessed
 summary: >-
   Franciscan Capuchin friar, making his profession on 3 January 1897. Ordained a priest on 19 December 1903. Missionary

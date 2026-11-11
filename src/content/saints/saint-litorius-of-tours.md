@@ -1,5 +1,6 @@
 ---
 name: Saint Litorius of Tours
+stub: false
 honorific: Saint
 title: Bishop
 summary: Bishop of Tours, Tertia Lugdunensis, Gaul (in modern France) who built the first church within the walls of the city.

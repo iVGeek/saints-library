@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Fidolus of Aumont
+stub: false
 honorific: Saint
 summary: >-
   Son of an official in Auvergne, France. Kidnapped and sold into slavery, he was ransomed by Abbot Aventinus of Aumont

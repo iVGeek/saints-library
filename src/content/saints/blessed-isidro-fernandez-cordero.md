@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/0/08/Roma_martires_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Isidro Fernández Cordero
+stub: false
 honorific: Blessed
 summary: >-
   Born to a pious family, he received a strong religious education in his youth. Married to Celsa, with whom he had

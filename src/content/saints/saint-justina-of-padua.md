@@ -1,5 +1,6 @@
 ---
 name: Saint Justina of Padua
+stub: false
 honorific: Saint
 summary: >-
   Young woman who took private vows of chastity and devotion to God. Martyr in the persecutions of Diocletian. Some

@@ -1,5 +1,6 @@
 ---
 name: Pope Saint Marcellus I
+stub: false
 honorific: Saint
 summary: >-
   Nothing of his life before the papacy has survived the centuries. Pope at the end of the persecutions of Diocletian;

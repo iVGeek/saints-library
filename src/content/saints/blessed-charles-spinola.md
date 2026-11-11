@@ -1,5 +1,6 @@
 ---
 name: Blessed Charles Spinola
+stub: false
 honorific: Blessed
 summary: >-
   Born to the Italian nobility in a family that originated in Genoa. Studied at Nola, Italy, under his uncle Cardinal

@@ -1,5 +1,6 @@
 ---
 name: Saint Charles de Foucauld
+stub: false
 honorific: Venerable
 summary: >-
   Born to an aristocratic family; orphaned by age six, he and his sister Mary were raised by their grandfather. Studied

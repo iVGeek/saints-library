@@ -1,5 +1,6 @@
 ---
 name: Saint Anselm of Lucca the Younger
+stub: false
 honorific: Saint
 summary: >-
   Nephew of Pope Alexander II. Bishop of Lucca, Italy in 1073. Due to a dispute over imperial investiture, Anselm

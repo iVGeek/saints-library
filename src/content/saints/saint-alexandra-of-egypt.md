@@ -1,5 +1,6 @@
 ---
 name: Saint Alexandra of Egypt
+stub: false
 honorific: Saint
 summary: >-
   To avoid the temptations of the world, around the age of 20 Alexandra walled herself up in a crypt in Alexandria,

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Valerius of Couserans
+stub: true
 honorific: Saint
 title: Bishop
 summary: First bishop in Couserans, France.

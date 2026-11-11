@@ -1,5 +1,6 @@
 ---
 name: Saint Albert of Sicily
+stub: false
 honorific: Saint
 summary: >-
   Albert's parents, Benedict and Joan, promised that if they were blessed with a son, he would be dedicated to Our Lady

@@ -1,5 +1,6 @@
 ---
 name: Blessed Juana de Aza
+stub: false
 honorific: Blessed
 summary: >-
   Born to the Castilian nobility, the daughter of Felix de Caleruega, constable of Castile. Lay woman noted for her

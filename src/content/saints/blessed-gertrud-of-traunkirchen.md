@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Gertrud of Traunkirchen
+stub: false
 honorific: Blessed
 summary: Benedictine nun and then abbess of the Abbey of Traunkirchen, Germany (in modern Austria).
 searchAliases:

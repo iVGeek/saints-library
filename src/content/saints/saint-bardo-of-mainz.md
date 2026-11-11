@@ -1,5 +1,6 @@
 ---
 name: Saint Bardo of Mainz
+stub: false
 honorific: Saint
 summary: >-
   Benedictine monk at Fulda, Germany. Abbot of Werden Abbey, Essen-Werden, Germany in 1029. Abbot of Hersfeld Abbey,

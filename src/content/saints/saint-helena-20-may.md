@@ -1,5 +1,6 @@
 ---
 name: Saint Helena
+stub: true
 honorific: Saint
 summary: One tradition makes her the daughter of Alphaeus the Apostle. Martyr.
 died: stoned to death in 1st century Greece

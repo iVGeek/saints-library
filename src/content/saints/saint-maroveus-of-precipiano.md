@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Maroveus of Precipiano
+stub: false
 honorific: Saint
 summary: ' Legend says that at one point Maroveus set fire to a grove of trees sacred to local pagans; they caught him, beat him and, thinking he was dead, threw him into a l Monk at Bobbio, Italy. He founded Precipiano Abbey near Tortona, Italy, having been assigned there by Saint Attalas.'
 searchAliases:

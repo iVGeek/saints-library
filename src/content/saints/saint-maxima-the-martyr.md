@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Maxima the Martyr
+stub: false
 honorific: Saint
 summary: Married to and martyred with Saint Montanus the Martyr in the persecutions of Diocletian.
 searchAliases:

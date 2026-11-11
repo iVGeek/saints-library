@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/1/15/Saint_Onuphrius_Emmanuel_Tzanes.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Paphnutius of Egypt
+stub: false
 honorific: Saint
 summary: >-
   Hermit. During the persecutions of Diocletian, Paphnutius came out of the wilderness to stand with his fellow

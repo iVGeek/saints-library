@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Failbe of Disert Mic Conlocha
+stub: true
 honorific: Saint
 summary: No information about this saint has survived.
 searchAliases:

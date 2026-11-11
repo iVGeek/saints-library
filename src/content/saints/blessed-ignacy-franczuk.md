@@ -1,5 +1,6 @@
 ---
 name: Blessed Ignacy Franczuk
+stub: false
 honorific: Blessed
 summary: >-
   Married layman and father of seven children from Derlo, Poland; his wife's name was Helen. When Blessed Daniel Karmasz

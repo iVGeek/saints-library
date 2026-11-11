@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/e/ea/Saint_Augustine_by_Philippe_de_Champaigne.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Markus of Africa
+stub: true
 honorific: Saint
 summary: Martyr.
 died: in North Africa

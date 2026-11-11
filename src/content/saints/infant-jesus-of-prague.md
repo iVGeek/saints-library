@@ -1,5 +1,6 @@
 ---
 name: Infant Jesus of Prague
+stub: false
 honorific: Saint
 summary: >-
   The popularity of devotion to the Child Jesus grew in Baroque Spain, possibly caused by the visions of Saint Teresa of

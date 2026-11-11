@@ -1,5 +1,6 @@
 ---
 name: Blessed James of Cerqueto
+stub: false
 honorific: Blessed
 summary: >-
   Augustinian friar  and hermit at Cerqueto, Italy. Known as a preacher and miracle worker. It was his prayers that

@@ -1,5 +1,6 @@
 ---
 name: Venerable Costanza Ricci Curbastro
+stub: false
 honorific: Venerable
 summary: >-
   Born to the Italian nobility, a family noted for their charity to the poor. Sister at the monastery of Corpus Domini

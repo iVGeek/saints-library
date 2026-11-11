@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Urio of Padua
+stub: false
 honorific: Saint
 title: Priest
 summary: >-

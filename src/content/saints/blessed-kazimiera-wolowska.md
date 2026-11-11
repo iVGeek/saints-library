@@ -1,5 +1,6 @@
 ---
 name: Blessed Kazimiera Wolowska
+stub: false
 honorific: Blessed
 summary: >-
   Member of the Sisters of the Immaculate Conception of the Blessed Virgin taking the name Maria Marta of Jesus.

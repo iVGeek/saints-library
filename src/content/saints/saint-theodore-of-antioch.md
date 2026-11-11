@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Theodore of Antioch
+stub: true
 honorific: Saint
 died: martyred in Antioch
 region: England

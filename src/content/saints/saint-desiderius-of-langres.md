@@ -1,5 +1,6 @@
 ---
 name: Saint Desiderius of Langres
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Langres, France. Supported the Acts of the Council of Serdica in 343. Killed by Vandal invaders while trying

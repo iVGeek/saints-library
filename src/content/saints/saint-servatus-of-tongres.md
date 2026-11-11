@@ -1,5 +1,6 @@
 ---
 name: Saint Servatus of Tongres
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Tongres (in the modern Belgium) for 37 years. Welcomed Saint Athanasius of Alexandria during his exile by

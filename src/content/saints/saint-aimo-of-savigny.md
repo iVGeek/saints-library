@@ -1,5 +1,6 @@
 ---
 name: Saint Aimo of Savigny
+stub: false
 honorific: Saint
 summary: >-
   Benedictine monk at Savigny, Normandy, France. He was believed to have leprosy, and so he was assigned to care for

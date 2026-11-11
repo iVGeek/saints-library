@@ -1,5 +1,6 @@
 ---
 name: Venerable Pierre Goursat
+stub: false
 honorific: Venerable
 summary: >-
   Lifelong layman of the archdiocese of Paris, France. Brought to an active faith while being treated for tuberculosis

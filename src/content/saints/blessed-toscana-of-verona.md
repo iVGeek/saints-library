@@ -1,5 +1,6 @@
 ---
 name: Blessed Toscana of Verona
+stub: true
 honorific: Blessed
 summary: Married. Widow. Nun of the Order of Saint John of Jerusalem (Gerosolimitans).
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Toscana-of-Verona.jpg

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Eusebius of Saint Gall
+stub: false
 honorific: Saint
 summary: >-
   Monk of Saint Gall Abbey in Switzerland. Hermit on Mount Saint Victor in the Vorarlberg region of modern Austria.

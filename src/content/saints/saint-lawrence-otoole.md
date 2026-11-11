@@ -1,5 +1,6 @@
 ---
 name: Saint Lawrence O'Toole
+stub: false
 honorific: Saint
 summary: >-
   Son of the chief of Hy Murray. Taken as a hostage by King Dermot McMurrogh Leinster in 1138 when he was ten years old;

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Valentine of Strasbourg
+stub: true
 honorific: Saint
 title: Bishop
 summary: Fourth Bishop of Strasbourg, Alsace, France in the 4th century.

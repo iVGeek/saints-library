@@ -1,5 +1,6 @@
 ---
 name: Saint Joachim Sakakibara
+stub: false
 honorific: Saint
 summary: >-
   Physician who treated the poor for free. Franciscan tertiary. Sometime cook for the Franciscan missionaries at Osaka,

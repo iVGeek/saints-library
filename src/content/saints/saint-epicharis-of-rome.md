@@ -1,5 +1,6 @@
 ---
 name: Saint Epicharis of Rome
+stub: true
 honorific: Saint
 summary: Priest in Rome, Italy. Martyr.
 deathYear: 300

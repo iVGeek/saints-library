@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/e/ed/Church_of_Fontevraud_Abbey_Eleanor_of_Aquitaine_effigy.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Martialis of Sicily
+stub: true
 honorific: Saint
 summary: Martyr.
 died: Sicily, Italy

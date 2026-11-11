@@ -1,5 +1,6 @@
 ---
 name: Saint Baculus of Sorrento
+stub: false
 honorific: Saint
 title: Bishop
 summary: >-

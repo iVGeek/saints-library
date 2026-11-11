@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Cumian of Bobbio
+stub: false
 honorific: Saint
 summary: Eight-century bishop in Ireland, he left his native land to live most of his life as a monk in Bobbio, Italy.
 searchAliases:

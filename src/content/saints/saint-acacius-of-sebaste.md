@@ -1,5 +1,6 @@
 ---
 name: Saint Acacius of Sebaste
+stub: false
 honorific: Saint
 summary: >-
   Priest at Sebaste, Armenia. Martyred during the persecutions of Diocletian with Saint Hirenachus and seven female

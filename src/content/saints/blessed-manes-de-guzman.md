@@ -1,5 +1,6 @@
 ---
 name: Blessed Manés de Guzmán
+stub: false
 honorific: Blessed
 summary: >-
   Son of Felix de Guzman and Blessed Juana of Aza; older brother of Saint Dominic de Guzman. Educated by his uncle

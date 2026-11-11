@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/1/1b/Side_face_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Numidicus of Carthage
+stub: false
 honorific: Saint
 summary: >-
   Seminarian. One of a group of Christians killed in the persecutions of Decius. Just before Numidicus died, Saint

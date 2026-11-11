@@ -1,5 +1,6 @@
 ---
 name: Blessed Andrea Franchi
+stub: false
 honorific: Blessed
 summary: >-
   Studied at the Dominican convent of Santa Maria Novella in Pistoia, Italy as a boy, and joined the Dominicans there at

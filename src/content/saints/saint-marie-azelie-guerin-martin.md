@@ -1,5 +1,6 @@
 ---
 name: Saint Marie-Azélie Guérin Martin
+stub: false
 honorific: Venerable
 summary: >-
   Lifelong lay woman. Lace maker. Married to Saint Louis Martin on 12 July 1858. Mother of nine children; five of them,

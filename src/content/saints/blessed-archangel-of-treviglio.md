@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/3/38/Saint_Peter_the_Apostle_by_Bernardino_Zenale.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 name: Blessed Archangel of Treviglio
+stub: false
 honorific: Blessed
 summary: >-
   Franciscan friar and preacher who served over 40 years in the convent of Santa Maria delle Grazie in the area outside

@@ -1,5 +1,6 @@
 ---
 name: Blessed Diego Ventaja Milán
+stub: false
 honorific: Blessed
 summary: >-
   Son of Juan Ventaja and Palmira Milán. Educated at Sacro Monte Granada, and both the Collegio San Giuseppe and

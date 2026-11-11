@@ -1,5 +1,6 @@
 ---
 name: Saint Isaac of Monteluco
+stub: false
 honorific: Saint
 summary: >-
   Monk. Fleeing Monophysite persecution, he settled at Monteluco, Umbria where he helped restore the eremitical life to

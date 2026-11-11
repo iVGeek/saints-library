@@ -1,5 +1,6 @@
 ---
 name: Blessed Simon Ballachi
+stub: false
 honorific: Blessed
 summary: >-
   Born to the nobility, the son of Count Ballachi. His family had a close association with the Church clergy; two of his

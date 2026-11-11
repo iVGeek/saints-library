@@ -1,5 +1,6 @@
 ---
 name: Saint Theodora the Penitent
+stub: false
 honorific: Saint
 summary: >-
   A Christian woman, she fell into a life of sin for many years, had a conversion experience, returned to her faith, and

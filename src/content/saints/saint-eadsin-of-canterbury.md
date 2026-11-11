@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Eadsin of Canterbury
+stub: false
 honorific: Saint
 summary: >-
   Monk at Christ Church, Canterbury, England c.1030. Archbishop of Canterbury, England in 1038, receiving the pallium

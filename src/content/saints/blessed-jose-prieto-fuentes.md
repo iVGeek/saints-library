@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/49/Saint_Patrick_Catholic_Church_%28Columbus%2C_Ohio%29_-_relics_of_16_Dominican_saints.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed José Prieto Fuentes
+stub: true
 honorific: Blessed
 summary: Dominican friar. Martyred in the Spanish Civil War.
 birthYear: 1913

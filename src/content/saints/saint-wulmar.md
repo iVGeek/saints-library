@@ -1,5 +1,6 @@
 ---
 name: Saint Wulmar
+stub: false
 honorific: Saint
 summary: >-
   Uncle of Saint Eremberta of Wierre. Priest. Monk. Founded a convent at Wierre-aux-Bois, France and the monastery of

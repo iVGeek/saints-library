@@ -1,5 +1,6 @@
 ---
 name: Saint Hermione
+stub: false
 honorific: Saint
 summary: >-
   One of the daughters of Saint Philip the Deacon who is mentioned in the Acts of the Apostles. Had the gift of

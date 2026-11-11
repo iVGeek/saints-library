@@ -1,5 +1,6 @@
 ---
 name: Saint Valerian of Aquileia
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Aquileia, Italy c.370. For years he fought to eradicate Arianism in his region, and led the Council of

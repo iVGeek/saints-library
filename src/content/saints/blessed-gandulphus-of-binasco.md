@@ -1,5 +1,6 @@
 ---
 name: Blessed Gandulphus of Binasco
+stub: false
 honorific: Blessed
 summary: >-
   Born to the nobility, a member of the wealthy and powerful Sacchi family. He joined the Franciscans while Saint

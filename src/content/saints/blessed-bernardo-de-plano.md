@@ -1,5 +1,6 @@
 ---
 name: Blessed Bernardo de Plano
+stub: false
 honorific: Blessed
 summary: >-
   Mercedarian friar involved in the ransoming of Christians enslaved by Muslims. Master-General of the Order on 3

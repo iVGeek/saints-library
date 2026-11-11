@@ -1,5 +1,6 @@
 ---
 name: Saint Mariam Thresia Chiramel Mankidiyan
+stub: false
 honorific: Venerable
 summary: >-
   Made a vow of private chastity at age 10. Her mother died when Mariam was 12, and she dedicated herself to prayer, to

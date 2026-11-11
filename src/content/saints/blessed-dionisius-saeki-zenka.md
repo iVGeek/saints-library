@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Dionisius Saeki Zenka
+stub: false
 honorific: Blessed
 summary: >-
   Married layman of the archdiocese of Nagasaki, Japan. Father of Blessed Ludovicus Saeki Kizo. One of the Martyrs of

@@ -1,5 +1,6 @@
 ---
 name: Saint James Intercisus
+stub: false
 honorific: Saint
 summary: >-
   Military officer and courtier to King Jezdigerd I. During Jezdigerd's persecution of Christians, James apostacized.

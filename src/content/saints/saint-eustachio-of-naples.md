@@ -1,5 +1,6 @@
 ---
 name: Saint Eustachio of Naples
+stub: true
 honorific: Saint
 summary: Mid-3rd-century bishop of Naples, Italy.
 searchAliases:

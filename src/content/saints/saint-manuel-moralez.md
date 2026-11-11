@@ -1,5 +1,6 @@
 ---
 name: Saint Manuel Moralez
+stub: false
 honorific: Venerable
 summary: >-
   Manuel entered the seminary in Durango, Mexico, but had to leave to help support his impoverished family; he remained

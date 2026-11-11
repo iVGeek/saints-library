@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Tathai
+stub: false
 honorific: Saint
 summary: >-
   Nephew of Saint Samson of Dol. Hermit in Glamorgan, Wales. Founded the monastery at Llantathan (Saint Athan), Gwent.

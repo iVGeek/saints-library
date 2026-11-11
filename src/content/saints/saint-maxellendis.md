@@ -1,5 +1,6 @@
 ---
 name: Saint Maxellendis
+stub: false
 honorific: Saint
 summary: >-
   Daughter of Humolin and Ameltrudis. Her parents arranged a marriage for her with Harduin of Solesmes, but Maxellendis

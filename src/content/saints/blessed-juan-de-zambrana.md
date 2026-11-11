@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Juan de Zambrana
+stub: false
 honorific: Blessed
 title: Missionary
 summary: >-

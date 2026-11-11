@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Marcellus of Sicily
+stub: true
 honorific: Saint
 summary: Martyr.
 died: Sicily, Italy

@@ -1,5 +1,6 @@
 ---
 name: Saint Abo of Tblisi
+stub: false
 honorific: Saint
 summary: >-
   Grew up Muslim. Perfumer to Nerses, the prince of Kartli, a region of eastern Georgia. As a young adult, Abo became

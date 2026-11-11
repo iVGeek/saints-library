@@ -1,5 +1,6 @@
 ---
 name: Venerable Luisa Ferrari
+stub: false
 honorific: Venerable
 summary: Founded the Institute of the Franciscan Missionary Sisters of the Incarnate Word.
 image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Luisa-Ferrari.jpg

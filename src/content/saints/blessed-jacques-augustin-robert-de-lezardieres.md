@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/4f/Frm_beatification_banner.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Jacques-Augustin Robert de Lézardières
+stub: true
 honorific: Blessed
 summary: Deacon of the diocese of Luçon, France. One of the Martyrs of September.
 birthYear: 1768

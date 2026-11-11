@@ -1,5 +1,6 @@
 ---
 name: Saint Quirinus the Jailer
+stub: false
 honorific: Saint
 summary: ' An old tradition in German areas says that the weather on Saint Quirin''s day (30 March in those regions) presages the weather for the coming sum Father of Saint Balbina of Rome. Jailer of Pope Saint Alexander I who brought him to the faith. Martyred in the persecution of Hadrian.'
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Quirinus-the-Jailer.jpg

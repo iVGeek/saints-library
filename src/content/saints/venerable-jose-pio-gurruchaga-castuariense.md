@@ -1,5 +1,6 @@
 ---
 name: Venerable José Pio Gurruchaga Castuariense
+stub: false
 honorific: Venerable
 summary: >-
   Ordained a priest of the diocese of Bilbao, Spain on 23 December 1905. Parish priest at Santa María del Juncal in

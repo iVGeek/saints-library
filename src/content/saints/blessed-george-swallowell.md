@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/8/8a/One-hundred-and-seven-martyrs-of-england-and-wales.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed George Swallowell
+stub: false
 honorific: Blessed
 summary: >-
   Layman schoolmaster and Protestant minister. He converted to Catholicism, which led to his execution in the

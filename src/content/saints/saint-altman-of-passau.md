@@ -1,5 +1,6 @@
 ---
 name: Saint Altman of Passau
+stub: false
 honorific: Saint
 summary: >-
   Studied in Paris, France. Priest. Head of the cathedral school at Paderborn, Germany. Chaplain to Emperor Henry III,

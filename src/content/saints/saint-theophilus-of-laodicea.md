@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Theophilus of Laodicea
+stub: true
 honorific: Saint
 summary: Martyr.
 searchAliases:

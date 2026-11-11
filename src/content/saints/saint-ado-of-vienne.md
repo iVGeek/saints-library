@@ -1,5 +1,6 @@
 ---
 name: Saint Ado of Vienne
+stub: false
 honorific: Saint
 summary: >-
   Born to the French nobility. Educated at Ferrières Abbey. Ado renounced his title and inheritence, and became a

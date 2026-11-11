@@ -1,5 +1,6 @@
 ---
 name: Blessed Bentivoglio de Bonis
+stub: false
 honorific: Blessed
 summary: >-
   One of Saint Francis of Assisi's earliest disciples and one of first Franciscans. Priest. Noted preachers, miracle

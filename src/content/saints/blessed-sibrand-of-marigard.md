@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Sibrand of Marigård
+stub: false
 honorific: Blessed
 summary: >-
   Premonstratensian monk. Canon of the Mariengaarde monastery in Friesland (in modern Netherlands). Abbot of the house

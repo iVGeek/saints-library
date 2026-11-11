@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Meleusippus
+stub: false
 honorific: Saint
 summary: >-
   Triplet brother of Saint Speusippus and Saint Eleusippus; grandson of Saint Leonilla. Martyred by Marcus Aurelius. An

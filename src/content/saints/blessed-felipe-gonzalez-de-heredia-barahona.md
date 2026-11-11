@@ -1,5 +1,6 @@
 ---
 name: Blessed Felipe González de Heredia Barahona
+stub: true
 honorific: Blessed
 summary: Member of the Claretians. Martyred in the Spanish Civil War.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Felipe-Gonzalez-de-Heredia-Barahona.jpg

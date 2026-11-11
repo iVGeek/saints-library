@@ -1,5 +1,6 @@
 ---
 name: Saint Victorinus of Celano
+stub: false
 honorific: Saint
 summary: >-
   Martyr. That's really all we know, though it didn't stop writers in later centuries from inventing colourful histories

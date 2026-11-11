@@ -1,5 +1,6 @@
 ---
 name: Blessed Helena Goldberg
+stub: false
 honorific: Blessed
 summary: >-
   A member of the Sisters of Saint Elizabeth, joining in 1905 at age 23, and making her perpetual profession on 25 July

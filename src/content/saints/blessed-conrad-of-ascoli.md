@@ -1,5 +1,6 @@
 ---
 name: Blessed Conrad of Ascoli
+stub: false
 honorific: Blessed
 summary: >-
   Born to the Italian nobility. Lifelong friend of Girolamo d'Ascoli, the future Pope Nicholas IV. The two joined the

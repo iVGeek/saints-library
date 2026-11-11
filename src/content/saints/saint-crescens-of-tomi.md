@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Crescens of Tomi
+stub: true
 honorific: Saint
 summary: Martyr. No other information has survived.
 died: martyred at Tomi (modern Constanta, Romania)

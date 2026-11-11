@@ -1,5 +1,6 @@
 ---
 name: Saint Nostrianus of Naples
+stub: false
 honorific: Saint
 summary: >-
   Fifteenth bishop of Naples, Italy, in the mid-5th century, serving for 17 years. Fought against the spread of the

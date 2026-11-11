@@ -1,5 +1,6 @@
 ---
 name: Saint Mukasa Kiriwawanvu
+stub: false
 honorific: Venerable
 summary: >-
   Ndiga clan. Served at the Ugandan royal table. Convert. One of the Martyrs of Uganda who died in the Mwangan

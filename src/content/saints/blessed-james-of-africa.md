@@ -1,5 +1,6 @@
 ---
 name: Blessed James of Africa
+stub: false
 honorific: Blessed
 summary: >-
   Adult convert, brought to Christianity by witnessing the faith of Blessed Thomas Vives during his martyrdom.

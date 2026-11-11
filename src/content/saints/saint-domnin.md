@@ -1,5 +1,6 @@
 ---
 name: Saint Domnin
+stub: false
 honorific: Saint
 summary: >-
   A child convert to Christianity, Domnin was imprisoned, tortured and executed for his faith in the persecutions of

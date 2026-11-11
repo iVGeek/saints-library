@@ -1,5 +1,6 @@
 ---
 name: Blessed Hilarion of Moglena
+stub: false
 honorific: Blessed
 summary: Monk. Bishop of the Moglena region of western Macedonia. Fought the heresies Manichaeism and Messalianism.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Hilarion-of-Moglena.jpg

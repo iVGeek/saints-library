@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Oriculus
+stub: false
 honorific: Saint
 summary: One of a group of martyrs killed by Arian Vandals; the names of his fellow martyrs have not come down to us.
 deathYear: 430

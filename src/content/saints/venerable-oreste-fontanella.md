@@ -1,5 +1,6 @@
 ---
 name: Venerable Oreste Fontanella
+stub: true
 honorific: Venerable
 summary: Priest in the diocese of Biella, Italy.
 image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Oreste-Fontanella.jpg

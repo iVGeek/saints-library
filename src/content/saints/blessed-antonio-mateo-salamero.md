@@ -1,5 +1,6 @@
 ---
 name: Blessed Antonio Mateo Salamero
+stub: true
 honorific: Blessed
 summary: Priest in the archdiocese of Madrid, Spain. Martyred in the Spanish Civil War.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Antonio-Mateo-Salamero.jpg

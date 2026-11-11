@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Cyran of Brenne
+stub: true
 honorific: Saint
 region: France
 feastDay:

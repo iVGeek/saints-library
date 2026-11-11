@@ -1,5 +1,6 @@
 ---
 name: Blessed Agustín Hurtado Soler
+stub: false
 honorific: Blessed
 summary: >-
   Son of Vincent and Antonia. Joined the Franciscan Capuchin tertiaries in 1889. Priest, ordained in 1890. Member of the

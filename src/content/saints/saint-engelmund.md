@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Engelmund
+stub: false
 honorific: Saint
 summary: >-
   Educated in England, Engelmund became a Benedictine monk at a very early age. Priest. Abbot. Missionary to Friesland,

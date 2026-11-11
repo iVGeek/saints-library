@@ -1,5 +1,6 @@
 ---
 name: Saint Apollonius of Sardis
+stub: false
 honorific: Saint
 summary: Fourth-century evangelist who brought many to the faith. Scourged and executed by Prefect Perinius. Martyr.
 searchAliases:

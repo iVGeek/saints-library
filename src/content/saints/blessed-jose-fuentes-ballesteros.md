@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/d/d0/Prise_du_Trocad%C3%A9ro_par_le_duc_d%27Angoul%C3%AAme%2C_31_aout_1823_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed José Fuentes Ballesteros
+stub: true
 honorific: Blessed
 summary: Priest in the diocese of Almeria Spain. Martyred in the Spanish Civil War.
 birthYear: 1885

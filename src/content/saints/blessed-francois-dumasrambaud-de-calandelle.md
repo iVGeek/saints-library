@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/4f/Frm_beatification_banner.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed François Dumasrambaud de Calandelle
+stub: false
 honorific: Blessed
 summary: >-
   Priest of the diocese of Limoges, France. Vicar of Ahun, France. Professor in the Royal College of Limoges. Chosen

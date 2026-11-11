@@ -1,5 +1,6 @@
 ---
 name: Blessed Christophe Lebreton
+stub: false
 honorific: Blessed
 summary: >-
   Seventh of a family of twelve children. He joined the Trappists in 1974, and moved to the monastery of Tamié in

@@ -1,5 +1,6 @@
 ---
 name: Blessed Lorenzo of Ripafratta
+stub: false
 honorific: Blessed
 summary: >-
   Born to the Italian nobility, Lorenzo's family had a military history and a duty to protect the outer defenses of the

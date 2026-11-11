@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Mochelloc of Kilmallock
+stub: true
 honorific: Saint
 summary: Abbot at Kilmallock, Ireland. No other information has survived.
 searchAliases:

@@ -1,5 +1,6 @@
 ---
 name: Saint Philip of Agira
+stub: false
 honorific: Saint
 summary: First Christian missionary to Sicily. Exorcist. Many stories grew up around him, all apparently legend.
 image: >-

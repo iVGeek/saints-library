@@ -1,5 +1,6 @@
 ---
 name: Venerable Mario Hiriart Pulido
+stub: false
 honorific: Venerable
 summary: >-
   Lifelong layman in the archdiocese of Santiago de Chile. In 1948 he began studying engineering at the Afonso de

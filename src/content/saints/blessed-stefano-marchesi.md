@@ -1,5 +1,6 @@
 ---
 name: Blessed Stefano Marchesi
+stub: false
 honorific: Blessed
 summary: >-
   Mercedarian friar. Philosophy scholar. He was one of twenty Mercedarians who, when an unspecified plague struck

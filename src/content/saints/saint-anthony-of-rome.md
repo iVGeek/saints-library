@@ -1,5 +1,6 @@
 ---
 name: Saint Anthony of Rome
+stub: false
 honorific: Saint
 summary: >-
   Benedictine monk at Saint Andrew's monastery on the Coelian Hill, Rome, Italy under abbot Saint Gregory the Great who

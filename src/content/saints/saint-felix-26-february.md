@@ -1,6 +1,7 @@
 ---
 image: https://upload.wikimedia.org/wikipedia/commons/OrazioSamacchini-1.jpg
 name: Saint Felix
+stub: false
 honorific: Saint
 summary: One of a group of 29 Christians martyred together. No other information has survived.
 feastDay:

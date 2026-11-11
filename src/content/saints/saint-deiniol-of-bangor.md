@@ -1,5 +1,6 @@
 ---
 name: Saint Deiniol of Bangor
+stub: false
 honorific: Saint
 summary: >-
   Son of a Celtic chieftain, possibly from the area of Strathclyde, Scotland; related to Saint Asaph of Llanelwy.

@@ -1,5 +1,6 @@
 ---
 name: Blessed Manuel Solórzano
+stub: false
 honorific: Blessed
 summary: >-
   Lifelong layman in the archdiocese of San Salvador, El Salvador. He was married to Eleuteria Antonia Guillén, and the

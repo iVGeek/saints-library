@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Michela Ranzi of Vercelli
+stub: false
 honorific: Blessed
 summary: >-
   Related to Blessed Demosthenes Ranzi, Blessed Angela Bartolomea dei Ranzi, Blessed Angela Isabella dei Ranzi and

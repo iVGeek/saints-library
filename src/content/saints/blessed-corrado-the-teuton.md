@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Corrado the Teuton
+stub: false
 honorific: Blessed
 summary: Remembered in some old martyrologies as a miracle worker, but no details about him have survived.
 region: Italy

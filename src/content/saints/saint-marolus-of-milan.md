@@ -1,5 +1,6 @@
 ---
 name: Saint Marolus of Milan
+stub: false
 honorific: Saint
 summary: >-
   Grew up in Syria. Moving to Rome, Italy where he became a good friend of Pope Innocent I. Bishop of Milan, Italy in

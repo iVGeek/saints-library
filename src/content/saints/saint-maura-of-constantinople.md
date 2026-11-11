@@ -1,5 +1,6 @@
 ---
 name: Saint Maura of Constantinople
+stub: false
 honorific: Saint
 summary: >-
   Virgin martyr. No details of her life have survived. An island in the Ionian Sea is named for her. Devotion was

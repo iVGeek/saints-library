@@ -1,5 +1,6 @@
 ---
 name: Abel the Patriarch
+stub: false
 honorific: Saint
 summary: >-
   Old Testament patriarch. Second son of Adam and Eve. Shepherd. First human being to die, and the first murder victim,

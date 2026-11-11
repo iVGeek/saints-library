@@ -1,5 +1,6 @@
 ---
 name: Saint Caesidius
+stub: false
 honorific: Saint
 summary: >-
   Son of Saint Rufinus. Priest. Imprisoned, tortured and martyred in the persecutions of Maximinus with several fellow

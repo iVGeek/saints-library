@@ -1,5 +1,6 @@
 ---
 name: Blessed James Duckett
+stub: false
 honorific: Blessed
 summary: >-
   London bookseller. Convert to Catholicism. Married and father of one son. Arrested several times for printing and

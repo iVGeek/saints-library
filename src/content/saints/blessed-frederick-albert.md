@@ -1,5 +1,6 @@
 ---
 name: Blessed Frederick Albert
+stub: false
 honorific: Blessed
 summary: Priest. Founded the Congregation of the Vincentian Sisters of Mary Immaculate (Albertines).
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Frederick-Albert.jpg

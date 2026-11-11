@@ -1,5 +1,6 @@
 ---
 name: Saint Pantalus of Basle
+stub: true
 honorific: Saint
 summary: Bishop of Basle, Switzerland. Martyr.
 image: https://catholicsaints.info/wp-content/uploads/img-saint-pantalus.jpg

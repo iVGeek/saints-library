@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/a/a7/NAGATSUKA_Monastery_for_Jesuits_20140721-3.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Lucia of Kyoto
+stub: false
 honorific: Blessed
 summary: Child in the Kyoto, Japan. Daughter of Blessed Mencia of Kyoto. One of the Martyrs of Kyoto.
 deathYear: 1619

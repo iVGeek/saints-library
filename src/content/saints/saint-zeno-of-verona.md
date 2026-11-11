@@ -1,5 +1,6 @@
 ---
 name: Saint Zeno of Verona
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Verona, Italy from 362 until his death. Noted preacher. Opposed Arianism and welcomed many refugees from

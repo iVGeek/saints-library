@@ -1,5 +1,6 @@
 ---
 name: Saint Declan of Ardmore
+stub: false
 honorific: Saint
 summary: >-
   A convert, he was baptized by and became a spiritual student of Saint Colman. Monk. Trained as an evangelist by Saint

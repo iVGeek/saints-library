@@ -1,5 +1,6 @@
 ---
 name: Blessed Klemens of Prague
+stub: false
 honorific: Blessed
 summary: >-
   Franciscan Friar Minor novice. One of the Martyrs of Prague, killed by a Lutheran mob while setting tables in the

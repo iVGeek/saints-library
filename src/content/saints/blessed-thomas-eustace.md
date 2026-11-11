@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/2/2f/Bayeux_Tapestry_scene55_Eustach.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Thomas Eustace
+stub: true
 honorific: Blessed
 summary: Layman in the archdiocese of Dublin, Ireland. One of the Irish Martyrs.
 deathYear: 1581

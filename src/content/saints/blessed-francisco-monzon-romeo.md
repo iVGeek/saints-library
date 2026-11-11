@@ -1,5 +1,6 @@
 ---
 name: Blessed Francisco Monzón Romeo
+stub: false
 honorific: Blessed
 summary: >-
   Dominican priest, professed in the Order on 4 October 1929 in Valencia, Spain. Following additional studies in

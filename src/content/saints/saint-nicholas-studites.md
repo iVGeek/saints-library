@@ -1,5 +1,6 @@
 ---
 name: Saint Nicholas Studites
+stub: false
 honorific: Saint
 summary: >-
   As a young man Nicholas studied at the Studius monastery in Constantinople, and became a monk at age 18. He was exiled

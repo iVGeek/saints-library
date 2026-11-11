@@ -1,5 +1,6 @@
 ---
 name: Venerable Elia dalla Costa
+stub: false
 honorific: Venerable
 summary: >-
   Youngest of five children born to Luigi dalla Costa and Teresa dal Balcon; he was one of only two that survived

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Everard of Stahleck
+stub: false
 honorific: Blessed
 summary: >-
   Born to the nobility, the youngest son of Wolfram of family of the counts of Stahleck in modern Germany. Page in the

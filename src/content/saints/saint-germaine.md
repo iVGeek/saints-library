@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/Eglise%20Sainte-Germaine%20Statue%20par%20Alexandre%20Falgui%C3%A8re%201877.jpg
 name: Saint Germaine
+stub: false
 honorific: Saint
 summary: >-
   Young lay woman who was drawn to religious life, refused a marriage, and fled from her family's home to escape it. She

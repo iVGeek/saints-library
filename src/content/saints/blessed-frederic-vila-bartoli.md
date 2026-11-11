@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Frederíc Vila Bartolì
+stub: true
 honorific: Blessed
 summary: Claretian priest. Martyred in the Spanish Civil War.
 birthYear: 1884

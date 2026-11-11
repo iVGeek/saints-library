@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Hildegun of Schönau
+stub: false
 honorific: Blessed
 summary: >-
   Dressed as a boy for her own safety, Hildegun accompanied her father on a pilgrimage to the Holy Land. On her return

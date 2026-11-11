@@ -1,5 +1,6 @@
 ---
 name: Saint Dodone of Wallers-en-Fagne
+stub: false
 honorific: Saint
 summary: >-
   Eighth-century Benedictine monk at Lobbes Abbey. Spiritual student of Saint Ursmar of Lobbes in Belgium. Abbot of the

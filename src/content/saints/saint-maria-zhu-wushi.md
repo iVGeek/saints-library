@@ -1,5 +1,6 @@
 ---
 name: Saint Maria Zhu Wushi
+stub: false
 honorific: Venerable
 summary: >-
   Married lay woman in the apostolic vicariate of Southeastern Zhili, China. Worked to support the missionary work of

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Cyprian of Périgueux
+stub: false
 honorific: Saint
 summary: >-
   Sixth century monk at Périgueux, France. In late life he became a hermit on the banks of the River Dordogne. Saint

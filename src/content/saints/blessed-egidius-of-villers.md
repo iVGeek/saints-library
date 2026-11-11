@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Egidius of Villers
+stub: false
 honorific: Blessed
 summary: >-
   A knight in Dion (in modern Belgium). Feeling a call to religious life, he became a Cistercian lay friar at the

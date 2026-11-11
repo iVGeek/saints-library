@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Anrê Tran Van Trông
+stub: false
 honorific: Venerable
 summary: >-
   Raised Catholic, but he kept quiet about it in public. Lifelong layman. Career soldier and officer. Worked to help the

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Ogasawara Miya Luisa
+stub: false
 honorific: Blessed
 summary: >-
   Lifelong lay woman in the diocese of Fukuoka, Japan. Married to Blessed Ogasawara Yosaburo Gen'ya. Mother of Blessed

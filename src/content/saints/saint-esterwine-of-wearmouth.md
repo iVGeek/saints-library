@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Esterwine of Wearmouth
+stub: false
 honorific: Saint
 summary: >-
   Born to the Northumbrian nobility. Soldier in the army of King Egfrid of Northumbria. Monk at Wearmouth Abbey at age

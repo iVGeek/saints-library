@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Widradus
+stub: false
 honorific: Saint
 summary: >-
   Benedictine monk, Restored the monastery of Flavigny near Dijon, France when he served as its abbot. Founded the

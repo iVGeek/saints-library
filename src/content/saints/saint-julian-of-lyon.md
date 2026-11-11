@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Julian of Lyon
+stub: true
 honorific: Saint
 summary: Martyr.
 died: Lyon, France, date unknown

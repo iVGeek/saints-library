@@ -1,5 +1,6 @@
 ---
 name: Blessed Pablo Corres Díaz de Cerio
+stub: false
 honorific: Blessed
 summary: >-
   Joined the Hospitallers of Saint John of God, making his solemn vows on 15 September 1916. Ordained on 15 April 1922.

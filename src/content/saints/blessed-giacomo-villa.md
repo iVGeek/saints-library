@@ -1,5 +1,6 @@
 ---
 name: Blessed Giacomo Villa
+stub: false
 honorific: Blessed
 summary: >-
   Son of Lucantonio and Mustiola Villa. He was a pious child, and as a young man repaired an old hospital and used it to

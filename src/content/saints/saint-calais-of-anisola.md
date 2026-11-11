@@ -1,5 +1,6 @@
 ---
 name: Saint Calais of Anisola
+stub: false
 honorific: Saint
 summary: >-
   Grew up at the Menat monastery in Riom, France. Friend of Saint Avitus of Perche. Ordained at Saint-Mesmin de Micy

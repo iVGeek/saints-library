@@ -1,5 +1,6 @@
 ---
 name: Saint Bernard of Clairvaux
+stub: false
 honorific: Saint
 summary: >-
   Born to the French nobility; brother of Saint Humbeline. At age 22, fearing the ways of the world, he, four of his

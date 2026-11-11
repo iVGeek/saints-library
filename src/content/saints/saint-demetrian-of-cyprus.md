@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Demetrian of Cyprus
+stub: false
 honorific: Saint
 summary: >-
   Married. Widower. Monk at Saint Anthony's Monastery on Cyprus. Priest. Hegoumenos (abbot) of Saint Anthony's for 40

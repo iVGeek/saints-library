@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Teroulus of Tomi
+stub: true
 honorific: Saint
 summary: Martyr.
 died: Tomi (Tomes, Tomis), Pontus Euxinus (modern Constanta, Romania)

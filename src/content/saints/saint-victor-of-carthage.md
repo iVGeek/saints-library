@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Victor of Carthage
+stub: true
 honorific: Saint
 summary: Martyr.
 deathYear: 258

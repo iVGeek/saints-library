@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Sulian
+stub: false
 honorific: Saint
 summary: Founded the monastery of Luxulyan in Cornwall, England, and served as its first abbot.
 searchAliases:

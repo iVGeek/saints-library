@@ -1,5 +1,6 @@
 ---
 name: Saint Balthasar
+stub: false
 honorific: Saint
 summary: >-
   One of the Three Magi who brought gifts to the Infant Jesus. One tradition says he became a Christian, was ordained,

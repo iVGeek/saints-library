@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/5/5e/Pele_con_brasil_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Manoel José Sousa de Sousa
+stub: false
 honorific: Blessed
 summary: >-
   Professed religious in the Brothers of the Christian Schools (De La Salle Brothers). Martyred in the Spanish Civil

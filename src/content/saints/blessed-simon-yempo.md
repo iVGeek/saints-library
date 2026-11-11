@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Simon Yempo
+stub: true
 honorific: Blessed
 summary: Buddhist monk. Convert to Christianity. Lay catechist. Jesuit. Martyr.
 searchAliases:

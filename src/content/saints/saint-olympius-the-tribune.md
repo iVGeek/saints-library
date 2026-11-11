@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Olympius the Tribune
+stub: false
 honorific: Saint
 summary: >-
   Married to Saint Exuperia the Martyr; father of Saint Theodulus the Martyr. Convert, brought to the faith by Saint

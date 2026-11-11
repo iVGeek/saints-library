@@ -1,5 +1,6 @@
 ---
 name: Martyrs of Samaria
+stub: false
 honorific: Saint
 summary: >-
   1480 Christians massacred in and near Samaria during the war between the Greek Emperor Heraclius and the pagan

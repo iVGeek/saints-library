@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/0/0c/Gauchito_Gil_and_San_La_Muerte.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Lewina of Seaford
+stub: false
 honorific: Saint
 summary: Fifth-century nun, martyr by pagan Saxon invaders, and venerated in Seaford, Sussex, England.
 born: British Isles

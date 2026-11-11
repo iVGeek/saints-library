@@ -1,5 +1,6 @@
 ---
 name: Saint Benignus of Milan
+stub: false
 honorific: Saint
 summary: Educated in Rome, Italy. Archbishop of Milan, Italy c.470, serving during a period of barbarian invasion.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Benignus-of-Milan.jpg

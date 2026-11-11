@@ -1,5 +1,6 @@
 ---
 name: Blessed Albertino of Verona
+stub: false
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Cronica_della_citta%27_di_Verona_%28IA_cronicadellacitt02zaga%29.pdf/page1-960px-Cronica_della_citta%27_di_Verona_%28IA_cronicadellacitt02zaga%29.pdf.jpg
 honorific: Blessed

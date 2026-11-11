@@ -1,5 +1,6 @@
 ---
 name: John Fisher
+stub: false
 honorific: Saint
 title: Bishop, Martyr
 summary: >-

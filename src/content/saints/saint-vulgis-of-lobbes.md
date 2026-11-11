@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Vulgis of Lobbes
+stub: false
 honorific: Saint
 summary: Benedictine monk. Abbot of Lobbes Abbey, Belgium. Bishop in the Hainault region of Belgium.
 deathYear: 760

@@ -1,5 +1,6 @@
 ---
 name: Saint Aldericus of Sens
+stub: false
 honorific: Saint
 summary: Benedictine monk at Ferrières, France. Priest. Archbishop of Sens, France in 828.
 searchAliases:

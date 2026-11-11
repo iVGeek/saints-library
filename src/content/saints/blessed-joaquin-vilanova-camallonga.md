@@ -1,5 +1,6 @@
 ---
 name: Blessed Joaquín Vilanova Camallonga
+stub: false
 honorific: Blessed
 summary: >-
   He early felt a call to the priesthood, and was ordained in the archdiocese of Valencia, Spain in 1920. Parish priest

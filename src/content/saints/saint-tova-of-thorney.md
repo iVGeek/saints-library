@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Tova of Thorney
+stub: true
 honorific: Saint
 summary: Hermitess at Thorney Abbey. Martyr.
 deathYear: 869

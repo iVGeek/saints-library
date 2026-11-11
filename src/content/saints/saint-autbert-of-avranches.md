@@ -1,5 +1,6 @@
 ---
 name: Saint Autbert of Avranches
+stub: false
 honorific: Saint
 title: Bishop
 summary: >-

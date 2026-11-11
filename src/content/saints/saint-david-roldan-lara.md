@@ -1,5 +1,6 @@
 ---
 name: Saint David Roldán-Lara
+stub: false
 honorific: Venerable
 summary: >-
   His father died when David was only a year old. Entered the seminary at Durango when very young, but had to leave to

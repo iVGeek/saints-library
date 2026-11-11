@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Victor of Barcelona
+stub: true
 honorific: Saint
 summary: Priest. Bishop of Barcelona, Spain. Martyr.
 searchAliases:

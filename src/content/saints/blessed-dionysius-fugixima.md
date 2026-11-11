@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Dionysius Fugixima
+stub: false
 honorific: Blessed
 summary: Born to the Japanese nobility. Jesuit novice. Worked with Blessed Paul Navarro. Martyr.
 searchAliases:

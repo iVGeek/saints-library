@@ -1,5 +1,6 @@
 ---
 name: Saint Eustace of Luxeuil
+stub: false
 honorific: Saint
 summary: >-
   Monk. Spiritual student of Saint Columbanus. Head of the monastic school at Luxeuil Abbey. Abbot of Luxeuil in 611.

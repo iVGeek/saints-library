@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Phaebadius of Agen
+stub: false
 honorific: Saint
 summary: >-
   Priest. Fouth century bishop of Agen, France. Presided over several Councils including Rimini in 359, Valence in 374,

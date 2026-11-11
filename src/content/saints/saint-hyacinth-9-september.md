@@ -1,5 +1,6 @@
 ---
 name: Saint Hyacinth
+stub: true
 honorific: Saint
 summary: Martyr.
 deathYear: 690

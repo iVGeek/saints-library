@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Menander of Prusa
+stub: true
 honorific: Saint
 summary: Martyr. No other information has survived.
 died: Prusa, Bithynia (in the northwest of modern Turkey)

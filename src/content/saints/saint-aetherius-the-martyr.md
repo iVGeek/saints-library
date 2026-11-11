@@ -1,5 +1,6 @@
 ---
 name: Saint Aetherius the Martyr
+stub: false
 honorific: Saint
 summary: >-
   Bishop who was sent by the Patriarch of Jerusalem to convert people in the Chersonese region of Greece in the early

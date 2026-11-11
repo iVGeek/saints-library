@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/b/be/Callistus-catacomb-Jesus-John-Immersion.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 name: Saint Lucina of the Callistus Catacombs
+stub: false
 honorific: Saint
 summary: >-
   Wealthy convert, brought to the faith by the Apostles. She financially supported the early missionaries, visited

@@ -1,5 +1,6 @@
 ---
 name: Saint Imbenia
+stub: true
 honorific: Saint
 summary: Pious young woman martyred in the persecutions of Diocletian.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Imbenia.jpg

@@ -1,5 +1,6 @@
 ---
 name: Saint Eugene
+stub: false
 honorific: Saint
 summary: >-
   Pagan barbarian who kidnapped and enslaved Saint Lucilla of Rome and Saint Flora of Rome. Their example converted him

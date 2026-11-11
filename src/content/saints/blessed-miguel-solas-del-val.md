@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/8/8c/Tumba_de_San_Pedro_de_Jesus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Miguel Solas del Val
+stub: false
 honorific: Blessed
 summary: >-
   Professed religious in the Brothers of the Christian Schools (De La Salle Brothers). Martyred in the Spanish Civil

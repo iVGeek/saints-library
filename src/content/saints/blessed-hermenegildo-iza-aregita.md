@@ -1,5 +1,6 @@
 ---
 name: Blessed Hermenegildo Iza Aregita
+stub: true
 honorific: Blessed
 summary: Trinitarian priest. Martyred in the Spanish Civil War.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Hermenegildo-Iza-y-Aregita.jpg

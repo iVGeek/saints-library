@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Lupicinus of Lipidiacum
+stub: false
 honorific: Saint
 summary: >-
   Sixth century wanderer and hermit, known for his piety, for carrying a large stone on his head as an act of penance,

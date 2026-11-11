@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/3/33/Philip_Fruytiers_-_St._Francis_of_Assisi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Arnaldo of Lyon
+stub: false
 honorific: Blessed
 summary: >-
   Some records list him as a martyred bishop of Lyon, France, but the records of bishops in Lyon itself are very

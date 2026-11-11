@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Faustus of Messina
+stub: true
 honorific: Saint
 summary: Benedictine monk. Martyr.
 died: 6th century Messina, Sicily, Italy

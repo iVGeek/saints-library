@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Olympus of Aenos
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Aenos, Rumelia (modern Enez, Turkey). Contemporary of Saint Athansius. Strongly opposed Arianism, and was

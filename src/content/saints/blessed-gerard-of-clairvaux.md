@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/c/cd/San_Bernardo%2C_de_Juan_Correa_de_Vivar_%28Museo_del_Prado%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Gerard of Clairvaux
+stub: false
 honorific: Blessed
 summary: >-
   Brother of Saint Bernard of Clairvaux. Soldier. When wounded in combat at the siege of Grancy, Gerard resolved to

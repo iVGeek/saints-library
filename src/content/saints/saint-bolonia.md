@@ -1,5 +1,6 @@
 ---
 name: Saint Bolonia
+stub: false
 honorific: Saint
 summary: >-
   Nun. Martyred at age 15 in the persecutions of Julian the Apostate. Then village of Saint Boulogne in Maine, France is

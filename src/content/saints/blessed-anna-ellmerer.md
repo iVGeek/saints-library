@@ -1,5 +1,6 @@
 ---
 name: Blessed Anna Ellmerer
+stub: false
 honorific: Blessed
 summary: >-
   A member of the Sisters of Saint Elizabeth, joining in 1911 and making her perpetual profession on 5 July 1923. She

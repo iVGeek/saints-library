@@ -1,5 +1,6 @@
 ---
 name: Pope Blessed Urban II
+stub: false
 honorific: Blessed
 summary: >-
   Studied at Rheims, France. Monk and prior at Cluny. Assistant to Pope Saint Gregory VII, and helped in his reforms.

@@ -1,5 +1,6 @@
 ---
 name: Blessed Alejo Pan López
+stub: true
 honorific: Blessed
 summary: Franciscan Capuchin priest. Martyred in the Spanish Civil War.
 searchAliases:

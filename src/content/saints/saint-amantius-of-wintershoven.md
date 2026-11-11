@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Amantius of Wintershoven
+stub: false
 honorific: Saint
 summary: >-
   Deacon from Rome, Italy. With Saint Landoald, he evangelized the area of modern France and Belgium. Founded the church

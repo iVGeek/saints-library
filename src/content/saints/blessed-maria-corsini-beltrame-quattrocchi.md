@@ -1,5 +1,6 @@
 ---
 name: Blessed Maria Corsini Beltrame Quattrocchi
+stub: false
 honorific: Blessed
 summary: >-
   Daughter of Angiolo Corsini, a royal army captain of grenadiers, and Giulia Salvi. Due to her father's military

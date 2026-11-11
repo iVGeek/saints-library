@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Regulus of Rheims
+stub: false
 honorific: Saint
 summary: >-
   Benedictine monk at Rebais, France. Spiritual student of Saint Philibert. Archbishop of Rheims, France. Founded Orbais

@@ -1,5 +1,6 @@
 ---
 name: Saint Aigulf of Bourges
+stub: false
 honorific: Saint
 summary: >-
   Well educated, he became a hermit upon the death of his parents, and soon developed a reputation for great personal

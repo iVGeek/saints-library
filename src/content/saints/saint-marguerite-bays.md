@@ -1,5 +1,6 @@
 ---
 name: Saint Marguerite Bays
+stub: false
 honorific: Venerable
 summary: >-
   The second of seven children born to Pierre-Antoine Bays and Josephine Morel, she grew up in a pious farm family.

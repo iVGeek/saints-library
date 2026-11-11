@@ -1,5 +1,6 @@
 ---
 name: Saint Valerian of Trastevere
+stub: false
 honorific: Saint
 summary: >-
   Brother of Saint Tiburtius; married to Saint Cecilia. Convert to Christianity. Ministered to Christians imprisoned for

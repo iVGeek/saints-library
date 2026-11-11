@@ -1,5 +1,6 @@
 ---
 name: Saint Anianus of Alexandria
+stub: false
 honorific: Saint
 summary: >-
   Shoemaker. Converted by Saint Mark the Evangelist, worked with him to evangelize Alexandria, Egypt, and succeeded him

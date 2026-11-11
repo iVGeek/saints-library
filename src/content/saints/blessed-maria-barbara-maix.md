@@ -1,5 +1,6 @@
 ---
 name: Blessed Maria Bárbara Maix
+stub: false
 honorific: Blessed
 summary: >-
   Exiled from Austria for political reasons, she arrived in Rio de Janeiro, Brazil on 9 November 1848. Drawn to the

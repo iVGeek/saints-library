@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Mamillus of North Africa
+stub: true
 honorific: Saint
 summary: Martyred in North Africa.
 region: Africa

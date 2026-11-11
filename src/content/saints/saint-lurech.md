@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Lurech
+stub: false
 honorific: Saint
 summary: >-
   Seventh century holy man who was brother of King Béec in the area of modern Derry, Ireland, but about whom no other

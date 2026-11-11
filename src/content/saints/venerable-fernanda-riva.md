@@ -1,5 +1,6 @@
 ---
 name: Venerable Fernanda Riva
+stub: true
 honorific: Venerable
 summary: Canossian nun.
 birthYear: 1920

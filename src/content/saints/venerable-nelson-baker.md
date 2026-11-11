@@ -1,5 +1,6 @@
 ---
 name: Venerable Nelson Baker
+stub: false
 honorific: Venerable
 summary: >-
   Soldier in the American Civil War. Successful business man and miller. Priest at age 34 in the diocese of Buffalo, New

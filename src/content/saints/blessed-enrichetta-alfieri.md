@@ -1,5 +1,6 @@
 ---
 name: Blessed Enrichetta Alfieri
+stub: false
 honorific: Blessed
 summary: >-
   From childhood Enrichetta felt a call to religious life, and joined the Sisters of Charity of Saint Joan Antida

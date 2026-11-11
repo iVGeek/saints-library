@@ -1,5 +1,6 @@
 ---
 name: Saint Eutichio
+stub: true
 honorific: Saint
 summary: Martyr.
 died: Rome, Italy

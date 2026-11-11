@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/b/bb/Demetrius_of_Thessalonica_%28St_Michael%27s%2C_Kyiv%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Parthenius of Thessalonica
+stub: true
 honorific: Saint
 summary: Martyr. No other information has survived.
 died: Thessalonica, Greece, date unknown

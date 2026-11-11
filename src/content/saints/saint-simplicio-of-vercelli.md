@@ -1,5 +1,6 @@
 ---
 name: Saint Simplicio of Vercelli
+stub: false
 honorific: Saint
 title: Bishop
 summary: >-

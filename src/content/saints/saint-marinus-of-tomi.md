@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Marinus of Tomi
+stub: true
 honorific: Saint
 summary: Martyr. No other information has survived.
 died: Tomi, Scythia (in modern Romania)

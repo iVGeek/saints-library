@@ -1,5 +1,6 @@
 ---
 name: Saint Epolonius
+stub: true
 honorific: Saint
 summary: Spiritual student of Saint Babylas. Martyred in the persecutions of Decius.
 searchAliases:

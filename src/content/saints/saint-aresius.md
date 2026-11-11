@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Aresius
+stub: false
 honorific: Saint
 summary: >-
   One of a group of seventeen martyrs in North Africa, most of whose names have been lost. No other information has

@@ -1,5 +1,6 @@
 ---
 name: Saint Cyrinus of Lentini
+stub: false
 honorific: Saint
 summary: Brother of Saint Alphius and Saint Philadelphus. Martyred in the persecutions of Decius.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Cyrinus-of-Lentini.jpg

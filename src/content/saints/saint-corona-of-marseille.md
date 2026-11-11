@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Corona of Marseille
+stub: true
 honorific: Saint
 summary: Martyr.
 deathYear: 290

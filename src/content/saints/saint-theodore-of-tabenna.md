@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Theodore of Tabenna
+stub: false
 honorific: Saint
 summary: >-
   Monk at age 14. Spiritual student of Saint Pachomius at the monastery in Tabenna, Egypt; Pachomius delegated Theodore

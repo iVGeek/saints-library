@@ -1,5 +1,6 @@
 ---
 name: Martyrs of Nowogrodek
+stub: false
 honorific: Venerable
 image: https://catholicsaints.info/wp-content/uploads/img-martyrs-of-nowogrodek.jpg
 searchAliases: []

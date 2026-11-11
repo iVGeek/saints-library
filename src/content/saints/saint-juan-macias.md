@@ -1,5 +1,6 @@
 ---
 name: Saint Juan Macías
+stub: false
 honorific: Venerable
 summary: >-
   Born to a pious and impoverished Spanish noble family. Orphaned young, he worked as a shepherd. Worked on a South

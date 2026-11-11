@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Quadratus of Utica
+stub: true
 honorific: Saint
 summary: Bishop of Utica in North Africa. Martyred with all his flock.
 died: 3rd century

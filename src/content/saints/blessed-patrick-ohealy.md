@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/a/a0/Blessed-patrick-o%27hely.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Patrick O'Healy
+stub: false
 honorific: Blessed
 summary: >-
   A member of the Franciscan Friars Minor (Observants), beginning his novitiate in 1561. After studying at the

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Venerable Serafin Kaszuba
+stub: true
 honorific: Venerable
 searchAliases:
   - Alojzy Kazimierz

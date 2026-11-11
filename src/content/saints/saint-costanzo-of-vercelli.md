@@ -1,5 +1,6 @@
 ---
 name: Saint Costanzo of Vercelli
+stub: true
 honorific: Saint
 title: Bishop
 summary: Bishop of Vercelli, Italy c.530. Poet.

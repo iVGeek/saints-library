@@ -1,5 +1,6 @@
 ---
 name: Blessed Veronica of Milan
+stub: false
 honorific: Blessed
 summary: >-
   Grew up in a poor peasant family in a small village, doing chores and working the fields. She had no formal education,

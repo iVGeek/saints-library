@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Caerealis of Tivoli
+stub: false
 honorific: Saint
 summary: >-
   Imperial Roman guard. Sent by Emperor Hadrian with Primitivus to arrest the brother converts Saint Getulius and Saint

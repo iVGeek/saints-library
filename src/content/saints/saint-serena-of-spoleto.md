@@ -1,6 +1,7 @@
 ---
 image: https://www.santiebeati.it/immagini/Thumbs/90505/90505.JPG
 name: Saint Serena of Spoleto
+stub: false
 honorific: Saint
 summary: >-
   Late 3rd and early 4th century widow who worked with Saint Sabino of Spoleto, and buried him after his martyrdom. This

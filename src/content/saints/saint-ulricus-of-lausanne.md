@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Ulricus of Lausanne
+stub: true
 honorific: Saint
 title: Bishop
 summary: 8th century bishop of Lausanne, Switzerland.

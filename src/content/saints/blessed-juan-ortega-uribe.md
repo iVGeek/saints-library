@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/a/a1/Maria_Callas_1958.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Juan Ortega Uribe
+stub: true
 honorific: Blessed
 summary: Priest in the diocese of Almería, Spain. Martyred in the Spanish Civil War.
 birthYear: 1877

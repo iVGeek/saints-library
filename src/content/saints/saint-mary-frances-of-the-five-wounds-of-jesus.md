@@ -1,5 +1,6 @@
 ---
 name: Saint Mary Frances of the Five Wounds of Jesus
+stub: false
 honorific: Venerable
 summary: >-
   Saint John Joseph of the Cross and Saint Francis de Geronimo both predicted Mary France's sanctity even before she was

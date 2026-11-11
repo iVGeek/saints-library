@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/0/00/Sir_Adrian_Fortescue.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed John Lowe
+stub: true
 honorific: Blessed
 summary: Priest for the apostolic vicariate of England. Martyr.
 birthYear: 1553

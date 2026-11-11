@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Archan of Etting
+stub: false
 honorific: Blessed
 summary: >-
   Father of Blessed Haindrit of Etting and Blessed Gardan of Etting. He moved from the British Isles to the area of

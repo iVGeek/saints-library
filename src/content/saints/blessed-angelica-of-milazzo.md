@@ -1,5 +1,6 @@
 ---
 name: Blessed Angelica of Milazzo
+stub: false
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Some_notes%2C_historical_and_otherwise%2C_concerning_the_Sacred_Constantinian_Order_%28IA_somenoteshistori00gilliala%29.pdf/page1-500px-Some_notes%2C_historical_and_otherwise%2C_concerning_the_Sacred_Constantinian_Order_%28IA_somenoteshistori00gilliala%29.pdf.jpg
 honorific: Blessed

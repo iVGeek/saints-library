@@ -1,5 +1,6 @@
 ---
 name: Saint Bruno the Great
+stub: false
 honorific: Saint
 summary: >-
   Youngest son of Emperor Henry I and Saint Matilda of Saxony. Educated at Utrecht, Netherlands. Courtier to his brother

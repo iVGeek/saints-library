@@ -1,5 +1,6 @@
 ---
 name: Venerable Sisto Riario Sforza
+stub: false
 honorific: Venerable
 summary: >-
   Born to the nobility of Naples, Italy, the son Giovanni Antonio Riario Sforza and Maria Gaetana Cattaneo della Volta.

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Elpidius of Brioude
+stub: true
 honorific: Saint
 summary: Fourth-century martyr.
 searchAliases:

@@ -1,5 +1,6 @@
 ---
 name: Saint Exanthus of Como
+stub: false
 honorific: Saint
 summary: Christian soldier in the imperial Roman army. Martyred in the persecutions of Maximian.
 deathYear: 295

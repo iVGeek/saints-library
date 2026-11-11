@@ -1,5 +1,6 @@
 ---
 name: Saint Crescentius of Rome
+stub: false
 honorific: Saint
 summary: >-
   Son of Saint Euthymius. At age 11, during the persecutions of Diocletian, he was arrested, tortured and martyred for

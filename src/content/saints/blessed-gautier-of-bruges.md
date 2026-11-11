@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/f/f8/GA_Ordre_du_Saint-S%C3%A9pulcre.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Gautier of Bruges
+stub: false
 honorific: Blessed
 summary: >-
   Member of the Franciscans, joining at the convent of Bruges, Belgium c.1240. Studied in Paris, France where he was the

@@ -1,5 +1,6 @@
 ---
 name: Saint Armentarius of Pavia
+stub: true
 honorific: Saint
 summary: Bishop of Pavia, Italy c.711.
 deathYear: 732

@@ -1,5 +1,6 @@
 ---
 name: Blessed Ivetta of Huy
+stub: false
 honorific: Blessed
 summary: >-
   Born to family that was wealthy but indifferent to the faith. Forced into an arranged marriage at age 13. Mother of

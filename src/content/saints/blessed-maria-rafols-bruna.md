@@ -1,5 +1,6 @@
 ---
 name: Blessed María Rafols-Bruna
+stub: false
 honorific: Blessed
 summary: >-
   Born to a working class family. After completing her education at a boarding school in Barcelona, Spain, she joined a

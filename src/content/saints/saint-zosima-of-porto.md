@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Zosima of Porto
+stub: true
 honorific: Saint
 summary: Martyred in the persecutions of Aurelian.
 deathYear: 273

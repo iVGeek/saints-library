@@ -1,5 +1,6 @@
 ---
 name: Saint Eutropia of Lentini
+stub: false
 honorific: Saint
 summary: >-
   A member of the imperial Roman pagan nobility, married and the mother of two, Servilian and Saint Euthalia, in

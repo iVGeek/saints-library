@@ -1,5 +1,6 @@
 ---
 name: Blessed Didacus Hayashida
+stub: false
 honorific: Blessed
 summary: >-
   Twelve year old boy in the archdiocese of Nagasaki, Japan. Son of Blessed Leo Hayashida Sukeemon and Blessed Martha

@@ -1,5 +1,6 @@
 ---
 name: Saint Abban of Kill-Abban
+stub: false
 honorific: Saint
 summary: >-
   Contemporary of Saint Patrick. Founded Kill-Abban abbey in Leinster, Ireland, and served as its first abbot. Founded

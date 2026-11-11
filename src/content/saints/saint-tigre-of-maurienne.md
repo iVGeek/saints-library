@@ -1,5 +1,6 @@
 ---
 name: Saint Tigre of Maurienne
+stub: false
 honorific: Saint
 summary: >-
   Lay woman in the late 6th or early 7th century from Maurienne, Gaul (in modern France) swore that she would obtain a

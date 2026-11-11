@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Abrahamus of Pratea
+stub: false
 honorific: Blessed
 summary: >-
   Cistercian monk. Abbot of the monastery of “Pratea” (probably the monastery of Saint Peter of Pradelle in Languedoc,

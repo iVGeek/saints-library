@@ -1,5 +1,6 @@
 ---
 name: Blessed Claude-Barnabé Laurent de Mascloux
+stub: false
 honorific: Blessed
 summary: >-
   Priest in the diocese of Limoges, France. Martyred in the French Revolution. One of the Martyrs of the Hulks of

@@ -1,5 +1,6 @@
 ---
 name: Blessed José Luciano Ezequiel Huerta-Gutiérrez
+stub: false
 honorific: Blessed
 summary: >-
   Married layman and father in the archdiocese of Guadalajara, he worked as a mechanic. Brother of Blessed José Luciano

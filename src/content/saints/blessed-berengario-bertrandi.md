@@ -1,6 +1,7 @@
 ---
 image: https://www.santiebeati.it/immagini/Thumbs/99288/99288.jpg
 name: Blessed Berengario Bertrandi
+stub: false
 honorific: Blessed
 summary: >-
   Franciscan friar and priest. He taught theology in Montpellier, France, and Franciscan records list him as a

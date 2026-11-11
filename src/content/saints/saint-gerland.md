@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Gerland
+stub: true
 honorific: Saint
 summary: Thirteenth century knight.
 died: relics at Caltagirone, Sicily

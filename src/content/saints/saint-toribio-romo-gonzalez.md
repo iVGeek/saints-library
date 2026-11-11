@@ -1,5 +1,6 @@
 ---
 name: Saint Toribio Romo González
+stub: false
 honorific: Venerable
 summary: >-
   Ordained at age 21; he had to receive special dispensation from the Vatican to be ordained so young. Parish priest in

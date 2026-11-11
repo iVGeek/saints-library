@@ -1,5 +1,6 @@
 ---
 name: Saint Brendan of Birr
+stub: false
 honorific: Saint
 summary: >-
   Friend and brother monk with Saint Brendan the Navigator at Clonard abbey. Spiritual student of Saint Finian. Founded

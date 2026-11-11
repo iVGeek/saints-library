@@ -1,5 +1,6 @@
 ---
 name: Saint Felicitas of Rome
+stub: false
 honorific: Saint
 summary: Two martyrs with the same name who were executed together. No other details have survived.
 died: Rome, Italy, date unknown

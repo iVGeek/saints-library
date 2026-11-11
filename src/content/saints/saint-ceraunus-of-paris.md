@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Ceraunus of Paris
+stub: true
 honorific: Saint
 title: Bishop
 summary: Bishop of Paris, France.

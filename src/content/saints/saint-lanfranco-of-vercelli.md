@@ -1,5 +1,6 @@
 ---
 name: Saint Lanfranco of Vercelli
+stub: true
 honorific: Saint
 title: Bishop
 summary: Fifth century bishop of Vercelli, Italy for nine years.

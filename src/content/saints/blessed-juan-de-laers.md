@@ -1,5 +1,6 @@
 ---
 name: Blessed Juan de Laers
+stub: false
 honorific: Blessed
 summary: >-
   One of the first Mercedarian friars to join the order, he served as assistant to Saint Peter Nolasco. Worked in the

@@ -1,5 +1,6 @@
 ---
 name: Saint Severus of Trier
+stub: false
 honorific: Saint
 summary: >-
   Spiritual student of Saint Germanus of Auxerre and Saint Lupos of Troyes. Worked with Saint Germanus to oppose

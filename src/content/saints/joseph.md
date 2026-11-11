@@ -1,5 +1,6 @@
 ---
 name: Joseph
+stub: false
 honorific: Saint
 title: Spouse of the Blessed Virgin Mary
 summary: >-

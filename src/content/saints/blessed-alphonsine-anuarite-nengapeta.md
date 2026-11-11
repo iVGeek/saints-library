@@ -1,5 +1,6 @@
 ---
 name: Blessed Alphonsine Anuarite Nengapeta
+stub: false
 honorific: Blessed
 summary: >-
   Born to a non-Christian family, the daughter of Nengapeta. With her mother and sisters, she converted to Christianity,

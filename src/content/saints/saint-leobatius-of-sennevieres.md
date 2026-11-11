@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Leobatius of Sennevières
+stub: false
 honorific: Saint
 summary: >-
   May have lived as a hermit in the Cahors region, fleeing, as many did, during the invasion of Arian Goths and

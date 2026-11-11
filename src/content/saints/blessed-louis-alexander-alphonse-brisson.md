@@ -1,5 +1,6 @@
 ---
 name: Blessed Louis Alexander Alphonse Brisson
+stub: false
 honorific: Blessed
 summary: >-
   The only child of Toussaint and Savine Brisson. Educated by a local priest who had a large library; Louis read

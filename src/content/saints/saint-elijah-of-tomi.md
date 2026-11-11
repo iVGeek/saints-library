@@ -1,5 +1,6 @@
 ---
 name: Saint Elijah of Tomi
+stub: true
 honorific: Saint
 summary: Martyr.
 searchAliases:

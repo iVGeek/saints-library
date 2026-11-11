@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Elsiar of Lavedan
+stub: true
 honorific: Saint
 summary: Monk at Saint-Savin, Lavedan, France.
 deathYear: 1050

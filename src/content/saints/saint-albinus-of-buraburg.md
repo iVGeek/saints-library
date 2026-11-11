@@ -1,5 +1,6 @@
 ---
 name: Saint Albinus of Büraburg
+stub: false
 honorific: Saint
 summary: >-
   Benedictine monk. Missionary to Germany with Saint Boniface. Only bishop of Buraburg, (part of the modern Archdiocese

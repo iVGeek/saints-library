@@ -1,5 +1,6 @@
 ---
 name: Blessed Ida of Toggenburg
+stub: false
 honorific: Blessed
 summary: >-
   Countess, married to Count Henry of Toggenburg, Switzerland. Henry was abusive, especially after time when the couple

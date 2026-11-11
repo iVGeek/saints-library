@@ -1,5 +1,6 @@
 ---
 name: Saint Gumbert of Ansbach
+stub: false
 honorific: Saint
 summary: >-
   Founded the monastery of Ansbach in Franconia (in modern Germany) on the land around his villa, then retired there to

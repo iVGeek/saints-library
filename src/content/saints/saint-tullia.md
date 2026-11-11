@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Tullia
+stub: false
 honorific: Saint
 summary: >-
   Daughter of Saint Eucherius of Lyon, and Galla; sister of Saint Veranus of Vence, Saint Salonius of Geneva, and Saint

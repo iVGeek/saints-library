@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/1/15/Agrippina.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Paula of Nicomedia
+stub: false
 honorific: Saint
 summary: >-
   Consecrated virgin. Cared for Saint Lucillian of Byzantium, Saint Claudius of Byzantium, Saint Dionysius of Byzantium,

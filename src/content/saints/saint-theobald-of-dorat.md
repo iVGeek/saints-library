@@ -1,5 +1,6 @@
 ---
 name: Saint Theobald of Dorat
+stub: false
 honorific: Saint
 summary: >-
   Born to a poor but pious farm family. Spiritual student of Saint Israel of Limoges at Dorat, France. Augustinian

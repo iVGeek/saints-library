@@ -1,5 +1,6 @@
 ---
 name: Blessed Regina Protmann
+stub: false
 honorific: Blessed
 summary: >-
   Born to a wealthy familiy, at age 19 she gave it all up to live in community with like-minded friends and work with

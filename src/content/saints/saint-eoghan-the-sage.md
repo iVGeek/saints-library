@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Eoghan the Sage
+stub: true
 honorific: Saint
 summary: No reliable information has survived.
 searchAliases:

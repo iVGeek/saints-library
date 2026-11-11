@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Garin of Toul
+stub: false
 honorific: Blessed
 summary: >-
   Benedictine monk at the Saint-Èvre Abbey in Toul, France; he served as its abbot for about 20 years, starting in 1208,

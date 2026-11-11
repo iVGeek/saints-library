@@ -1,5 +1,6 @@
 ---
 name: Blessed Valentin Paquay
+stub: false
 honorific: Blessed
 summary: >-
   The fifth of eleven children born to Hendrik Paquay and Anne Neven, a pious couple who raised all their children to

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Betharius of Chartres
+stub: false
 honorific: Saint
 summary: >-
   Studied philosophy at the chapter school of Chartres, France. Monk. Priest. Hermit. Court chaplain to King Clotaire

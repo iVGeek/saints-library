@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/Francisco%20de%20Zurbar%C3%A1n%20-%20Saint%20Cyril%20of%20Constantinople%20-%2022.642%20-%20Museum%20of%20Fine%20Arts.jpg
 name: Saint Cyril of Constantinople
+stub: false
 honorific: Saint
 summary: >-
   Priest. Teacher. Prior. Known to have had a great devotion to Our Lady. Delegate from emperor to the papal court.

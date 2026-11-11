@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Hermellus
+stub: true
 honorific: Saint
 summary: Hermit. Martyr.
 feastDay:

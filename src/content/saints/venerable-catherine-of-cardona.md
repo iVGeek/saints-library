@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Venerable Catherine of Cardona
+stub: false
 honorific: Venerable
 summary: >-
   Born to the nobility, a member of ducal house of Cordona, and descended from the kings of Aragon. Catherine received a

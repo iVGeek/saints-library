@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Angela Serafina Correggiari
+stub: false
 honorific: Blessed
 summary: >-
   Born to the Italian nobility, Angela became a Dominican nun at the Santa Caterina convent in Ferrara, Italy. She was

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/6/60/King_Charles_I_from_NPG.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed William Lacey
+stub: false
 honorific: Blessed
 summary: >-
   Married to a widow name Creswell; both his step-sons from that marriage became Jesuits. He held a civil service

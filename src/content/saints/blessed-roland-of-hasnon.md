@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Roland of Hasnon
+stub: false
 honorific: Blessed
 summary: >-
   Benedictine monk at the abbey of St-Armand in northern France. Founded the monastery at Hasnon, France in 1069 and

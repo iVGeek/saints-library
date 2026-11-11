@@ -1,5 +1,6 @@
 ---
 name: Blessed Lucrecia García Solanas
+stub: false
 honorific: Blessed
 summary: >-
   Lay woman in the Archdiocese of Barcelona, Spain. Married to José Gaudí Negre on 9 October 1910; they are not known to

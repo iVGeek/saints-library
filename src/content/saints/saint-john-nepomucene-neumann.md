@@ -1,5 +1,6 @@
 ---
 name: Saint John Nepomucene Neumann
+stub: false
 honorific: Venerable
 summary: >-
   Son of Philip, who was German and owned a stocking factory, and Agnes Neumann who was Czech. John was a small and

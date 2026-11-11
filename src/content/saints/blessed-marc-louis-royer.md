@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/3/36/CardinaldeBerulle.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Marc-Louis Royer
+stub: true
 honorific: Blessed
 summary: Priest in the archdiocese of Paris, France. One of the Martyrs of September.
 birthYear: 1720

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/3/3c/Mor_Ephrem_icon.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Paul of Syria
+stub: true
 honorific: Saint
 summary: Martyr. No other information has survived.
 region: England

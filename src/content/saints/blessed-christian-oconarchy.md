@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/9/91/Nuremberg_chronicles_f_145v_4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Christian O'Conarchy
+stub: false
 honorific: Blessed
 summary: >-
   Spritual student and archdeacon of Saint Malachy O'More at Armagh, Ireland. Received the Cistercian habit at

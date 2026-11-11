@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Rusticus of Vallombrosa
+stub: false
 honorific: Blessed
 summary: >-
   Friend, co-worker and spiritual student of Saint John Gualbert. Monk at the Vallombrosa monastery; he served for many

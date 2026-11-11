@@ -1,5 +1,6 @@
 ---
 name: Saint Canion of Campania
+stub: false
 honorific: Saint
 summary: >-
   Priest in North African. Tortured and exiled by being stick in a boat without a rudder and sent out to sea by the

@@ -1,5 +1,6 @@
 ---
 name: Blessed Maria de la Cabeza
+stub: false
 honorific: Blessed
 summary: >-
   In Torrelaguna, Spain she met and married to Saint Isidore the Farmer. She spent her life working on the farm,

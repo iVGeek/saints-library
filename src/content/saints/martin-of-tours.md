@@ -1,5 +1,6 @@
 ---
 name: Martin of Tours
+stub: false
 honorific: Saint
 title: Bishop
 summary: >-

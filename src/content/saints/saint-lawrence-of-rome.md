@@ -1,5 +1,6 @@
 ---
 name: Saint Lawrence of Rome
+stub: false
 honorific: Saint
 title: St. Lawrence of Rome
 summary: >-

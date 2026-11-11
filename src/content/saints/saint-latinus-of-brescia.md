@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Latinus of Brescia
+stub: false
 honorific: Saint
 summary: >-
   Spiritual student of Saint Viator of Bergamo. Third bishop of Brescia, Italy c.84 where he served for 30 years.

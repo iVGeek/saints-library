@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/0/0d/Enrique_VII_de_Inglaterra%2C_por_un_artista_an%C3%B3nimo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Christian of Landais
+stub: false
 honorific: Blessed
 summary: >-
   As a young man, Christian retired from the world to live as a penitent hermit near the village of Gastines, France.

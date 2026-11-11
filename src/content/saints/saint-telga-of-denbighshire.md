@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Telga of Denbighshire
+stub: false
 honorific: Saint
 summary: The patron of a church and a healing well in Ciwyd, Wales. No other information has survived.
 searchAliases:

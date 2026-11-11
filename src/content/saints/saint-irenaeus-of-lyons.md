@@ -1,5 +1,6 @@
 ---
 name: Saint Irenaeus of Lyons
+stub: false
 honorific: Saint
 summary: >-
   Disciple of Saint Polycarp of Smyrna. Ordained in 177. Bishop of Lugdunum, Gaul (modern Lyons, France). Worked and

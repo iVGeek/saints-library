@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/f/f7/Notre-Dame_de_Paris%2C_4_October_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Gabriel Desprez de Roche
+stub: true
 honorific: Blessed
 summary: Priest of the archdiocese of Paris, France. One of the Martyrs of September.
 birthYear: 1751

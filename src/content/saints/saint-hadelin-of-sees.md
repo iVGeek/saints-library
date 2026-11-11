@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Hadelin of Sees
+stub: false
 honorific: Saint
 summary: Benedictine monk at Saint-Calais, France. Abbot at Saint-Calais. Bishop of Sees, France for 26 years from 884.
 searchAliases:

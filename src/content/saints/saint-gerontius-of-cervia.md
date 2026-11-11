@@ -1,5 +1,6 @@
 ---
 name: Saint Gerontius of Cervia
+stub: true
 honorific: Saint
 summary: Bishop of Cervia, Italy. Martyr.
 image: >-

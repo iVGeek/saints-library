@@ -1,5 +1,6 @@
 ---
 name: Saint Abadiu of Antinoë
+stub: true
 honorific: Saint
 summary: Bishop of Antinoë. Martyred by Arians.
 region: England

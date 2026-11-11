@@ -1,5 +1,6 @@
 ---
 name: Saint Hypatius of Gangra
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Gangra, Paphlagonia (modern Çankiri, Turkey). Attended the Council of Nicea where he fiercely defended the

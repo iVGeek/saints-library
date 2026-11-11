@@ -1,5 +1,6 @@
 ---
 name: Saint Turibius of Astorga
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Astorga in northwest Spain. Known as a stern disciplinarian. Fierce opponent of Priscillianist heresy. Great

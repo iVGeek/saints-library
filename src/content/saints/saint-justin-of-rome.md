@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Justin of Rome
+stub: true
 honorific: Saint
 summary: Priest. Martyred for giving Christian burial to the bodies of martyrs.
 deathYear: 259

@@ -1,5 +1,6 @@
 ---
 name: Saint Fausta of Bourges
+stub: true
 honorific: Saint
 summary: Martyr.
 died: Fésenzac, (in modern France)

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/0/08/Josemaria_Escriva.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed José Franco Gómez
+stub: false
 honorific: Blessed
 summary: >-
   Joined the Hospitallers of Saint John of God in 1893, making his vows on 7 April 1895. Martyred in the Spanish Civil

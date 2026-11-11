@@ -1,5 +1,6 @@
 ---
 name: Saint Beatus of Laon
+stub: true
 honorific: Saint
 summary: Third-century cave-living hermit and missionary in the area of Laon, France.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Beatus-of-Laon.jpg

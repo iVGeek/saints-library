@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/5/51/Fachada_Museo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed José María López Carrillo
+stub: true
 honorific: Blessed
 summary: Dominican priest. Martyred in the Spanish Civil War.
 birthYear: 1892

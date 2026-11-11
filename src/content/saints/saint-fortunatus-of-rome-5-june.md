@@ -1,5 +1,6 @@
 ---
 name: Saint Fortunatus of Rome
+stub: true
 honorific: Saint
 summary: Martyr. No other details have survived.
 died: Rome, Italy, date unknown

@@ -1,5 +1,6 @@
 ---
 name: Saint Pacificus of San Severino
+stub: false
 honorific: Saint
 summary: >-
   Son of Antonio M Divini and Mariangela Bruni, both of whom died when Pacificus was about 3 years old, leaving him to

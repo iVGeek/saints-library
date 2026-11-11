@@ -1,5 +1,6 @@
 ---
 name: Blessed Arnold of Queralt
+stub: false
 honorific: Blessed
 summary: >-
   Mercedarian lay knight at the royal convent of Santa Maria d'Ausonia in Spain. Suffered great abuse from Saracens for

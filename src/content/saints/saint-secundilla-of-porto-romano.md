@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Secundilla of Porto Romano
+stub: false
 honorific: Saint
 summary: One of a group of Christians martyred in the persecution of Diocletian. No other information survives.
 region: Italy

@@ -1,5 +1,6 @@
 ---
 name: Saint Abban the Hermit
+stub: false
 honorific: Saint
 summary: >-
   Hermit at Abingdon (formely Abbendun), Berkshire, England, which is named for him. Noted preacher. Founded a monastery

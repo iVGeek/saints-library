@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Antonio Zurita Mestanza
+stub: true
 honorific: Blessed
 summary: Layman in the diocese of Córdoba, Spain. Martyred in the Spanish Civil War.
 birthYear: 1878

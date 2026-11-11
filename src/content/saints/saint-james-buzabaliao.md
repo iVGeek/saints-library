@@ -1,5 +1,6 @@
 ---
 name: Saint James Buzabaliao
+stub: false
 honorific: Venerable
 summary: >-
   Ngeye clan. Son of the royal bark-cloth maker. Soldier under King Mwanga of Uganda. Convert, baptized in 1885. One of

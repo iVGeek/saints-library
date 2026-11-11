@@ -1,5 +1,6 @@
 ---
 name: Saint Gens of Le Beaucet
+stub: false
 honorific: Saint
 summary: >-
   Hermit at Le Beaucet, France in the early 12th century, drawn to the life of a holy solitary in his teens. His father

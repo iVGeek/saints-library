@@ -1,5 +1,6 @@
 ---
 name: Saint Paris of Teano
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Teano, Italy; that's really all we know about him. Legend says that he became bishop after killing the

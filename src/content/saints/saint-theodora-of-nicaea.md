@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Theodora of Nicaea
+stub: true
 honorific: Saint
 summary: Martyr.
 died: at Nicaea, Bithynia (modern Iznik, Turkey), date unknown

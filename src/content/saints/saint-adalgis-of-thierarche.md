@@ -1,5 +1,6 @@
 ---
 name: Saint Adalgis of Thiérarche
+stub: false
 honorific: Saint
 summary: >-
   Monk. Spiritual student of Saint Fursey of Peronne. Missionary in the area of Arras and Laon, France. Founded a

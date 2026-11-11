@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/0/07/Martyrdom-of-Paul-Miki-and-Companions-in-Nagasaki-%28made-c1635%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Paulus of Autun
+stub: false
 honorific: Saint
 summary: >-
   Evangelizing priest. Missionary to Gaul with Saint Reverianus of Autun and ten companions whose names have not come

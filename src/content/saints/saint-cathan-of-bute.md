@@ -1,5 +1,6 @@
 ---
 name: Saint Cathan of Bute
+stub: false
 honorific: Saint
 summary: >-
   Uncle of Saint Blane. Sixth-century bishop on the Isle of Bute, Scotland, a place often known as Kil-Cathan in his

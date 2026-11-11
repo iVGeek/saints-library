@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Meldon of Péronne
+stub: true
 honorific: Saint
 summary: Sixth-century hermit in France.
 searchAliases:

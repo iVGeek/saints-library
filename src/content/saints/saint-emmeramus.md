@@ -1,5 +1,6 @@
 ---
 name: Saint Emmeramus of Regensburg
+stub: false
 honorific: Saint
 summary: >-
   Priest and noted preacher in Bavaria, Germany. Abbot of a monastery in Regensburg, Germany. Bishop of Regensburg.

@@ -1,5 +1,6 @@
 ---
 name: Saint Alexander of Cappadocia
+stub: false
 honorific: Saint
 summary: >-
   Missionary to the Tyrol region of Austria, sent by Saint Ambrose of Milan and welcomed by Saint Vigilius of Trent.

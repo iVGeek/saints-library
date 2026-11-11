@@ -1,5 +1,6 @@
 ---
 name: Saint Cyprian of Carthage
+stub: false
 honorific: Saint
 title: St. Cyprian of Carthage
 summary: >-

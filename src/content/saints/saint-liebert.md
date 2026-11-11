@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Liebert
+stub: true
 honorific: Saint
 summary: Benedictine monk. Abbot. Martyred by Normans.
 searchAliases:

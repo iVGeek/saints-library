@@ -1,5 +1,6 @@
 ---
 name: Saint Ida of Nivelles
+stub: false
 honorific: Saint
 summary: >-
   Daughter of Bishop Arnoald of Metz. Sister of Saint Modoald of Trier and Saint Severa. Married to Saint Pepin of

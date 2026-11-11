@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Damiano Grassi of Rivoli
+stub: false
 honorific: Blessed
 summary: >-
   Spurred by the martyrdom of Blessed Antonius Neyrot in 1460, Damiano joined the Dominicans, ready to accept martyrdom

@@ -1,5 +1,6 @@
 ---
 name: Saint Godric of Finchale
+stub: false
 honorific: Saint
 summary: >-
   Oldest of three children born to a freedman Anglo-Saxon farmer. An adventurous seafaring man, Godric spent his youth

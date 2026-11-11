@@ -1,5 +1,6 @@
 ---
 name: Saint Caius of Corinth
+stub: true
 honorific: Saint
 summary: Martyr.
 died: Corinth, Greece

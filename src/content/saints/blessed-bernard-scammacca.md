@@ -1,5 +1,6 @@
 ---
 name: Blessed Bernard Scammacca
+stub: false
 honorific: Blessed
 summary: >-
   Born to a wealthy and pious family, Bernard was well educated, but spent a wild and dissolute youth. During one of his

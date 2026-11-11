@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Macaille of Croghan
+stub: false
 honorific: Saint
 summary: >-
   Spiritual student of Saint Mel of Ardagh. Bishop of Croghan, Offaly, Ireland. Helped preside at the ceremony where

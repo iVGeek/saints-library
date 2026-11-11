@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Faustus of Cordoba
+stub: false
 honorific: Saint
 summary: Martyred in the persecutions of Diocletian. One of the The Three Crowns of Cordoba.
 deathYear: 304

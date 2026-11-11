@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/2/2b/Martyrology_of_Tallaght.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Maelruan
+stub: false
 honorific: Saint
 summary: >-
   Founder and first Abbot of Tamalcht Abbey, County of Dublin, Ireland in 769 on land given by Donnchadh, King of

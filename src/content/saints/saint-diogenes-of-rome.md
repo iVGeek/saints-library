@@ -1,5 +1,6 @@
 ---
 name: Saint Diogenes of Rome
+stub: true
 honorific: Saint
 summary: Martyr.
 died: on the Via Salaria Vecchia, Rome, Italy

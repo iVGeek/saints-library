@@ -1,5 +1,6 @@
 ---
 name: Saint Basilides of Crete
+stub: false
 honorific: Saint
 summary: >-
   Christian layman of Cydonia, Crete, one of the Martyrs of Crete who died in the persecutions of Decius. No other

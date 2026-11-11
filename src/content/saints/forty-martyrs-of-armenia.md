@@ -1,5 +1,6 @@
 ---
 name: Forty Martyrs of Armenia
+stub: false
 honorific: Saint
 summary: >-
   Forty Christian soldiers of the Thunderstruck Legion of the Imperial Roman army who were tortured and murdered for

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Riagail of Bangor
+stub: false
 honorific: Saint
 summary: >-
   Ninth-century monk and then abbot of Bangor Abbey, County Down, Ireland. He led the house during a bleak period of

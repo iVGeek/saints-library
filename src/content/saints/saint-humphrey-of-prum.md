@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Humphrey of Prüm
+stub: false
 honorific: Saint
 summary: >-
   Benedictine monk at Prüm, Germany. Bishop of Thérouanne, France. Abbot of Saint Bertin Abbey. Cared for and supported

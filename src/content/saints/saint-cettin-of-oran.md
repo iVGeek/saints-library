@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Cettin of Oran
+stub: false
 honorific: Saint
 summary: >-
   Spiritual student of Saint Patrick. Bishop. Helped Patrick evangelize Ireland. His shrine at Orran was a place of

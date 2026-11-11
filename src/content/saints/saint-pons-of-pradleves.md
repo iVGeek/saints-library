@@ -1,5 +1,6 @@
 ---
 name: Saint Pons of Pradleves
+stub: false
 honorific: Saint
 summary: >-
   Traditionally a member of the Theban Legion. Worked with Saint Costanzo to evangelize the region around the rivers

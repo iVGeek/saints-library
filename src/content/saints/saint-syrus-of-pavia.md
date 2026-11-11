@@ -1,5 +1,6 @@
 ---
 name: Saint Syrus of Pavia
+stub: false
 honorific: Saint
 summary: >-
   Evangelized and served as first bishop of Pavia, Italy in the 1st century; tradition says that he was appointed by the

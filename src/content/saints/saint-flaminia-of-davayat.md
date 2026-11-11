@@ -1,6 +1,7 @@
 ---
 image: https://www.santiebeati.it/immagini/Thumbs/99591/99591.jpg
 name: Saint Flaminia of Davayat
+stub: true
 honorific: Saint
 summary: Martyr.
 searchAliases:

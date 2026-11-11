@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Orentius of Satala
+stub: false
 honorific: Saint
 summary: >-
   One of seven Christian brothers who were soldiers in the imperial Roman army. Kicked out of the military, exiled and

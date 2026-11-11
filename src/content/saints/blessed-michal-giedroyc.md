@@ -1,5 +1,6 @@
 ---
 name: Blessed Michal Giedroyc
+stub: false
 honorific: Blessed
 summary: >-
   Born the nobility, related to the princes of Lithuania, Michal suffered from a number of birth defects including being

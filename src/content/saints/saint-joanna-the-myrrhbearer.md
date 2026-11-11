@@ -1,5 +1,6 @@
 ---
 name: Saint Joanna the Myrrhbearer
+stub: false
 honorific: Saint
 summary: >-
   First century lay woman. Married to Chusa, steward of King Herod Antipas. Disciple of Jesus, and mentioned in Luke

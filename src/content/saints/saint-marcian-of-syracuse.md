@@ -1,5 +1,6 @@
 ---
 name: Saint Marcian of Syracuse
+stub: false
 honorific: Saint
 summary: >-
   Third century missionary bishop to Sicily, using Syracuse as his base of operations. Martyred by local Jews who

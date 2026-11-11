@@ -1,5 +1,6 @@
 ---
 name: Saint Scariberga of Yvelines
+stub: false
 honorific: Saint
 summary: >-
   Born to the Gallic nobility; niece of King Clovis I. Given in an arranged marriage to Saint Arnulf of Tours; they

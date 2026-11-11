@@ -1,5 +1,6 @@
 ---
 name: Saint Gregorio Grassi
+stub: false
 honorific: Venerable
 summary: >-
   Priest. Member of the Franciscan Friars Minor (Observants). Missionary to China. Apostolic vicar of Northern Shanxi,

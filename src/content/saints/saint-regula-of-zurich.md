@@ -1,5 +1,6 @@
 ---
 name: Saint Regula of Zurich
+stub: false
 honorific: Saint
 summary: >-
   Sister of Saint Felix of Zürich. During the persecutions of Maximian Herculeaus the two fled to Switzerland. They were

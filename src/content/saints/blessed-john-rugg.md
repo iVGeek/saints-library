@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/9/96/Hugh-faringdon-belmont-stained-glass.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed John Rugg
+stub: false
 honorific: Blessed
 summary: >-
   Former fellow of the two Saint Mary Winton colleges. Priest. First holder of the Wykehamical prebend “Bursalis” at the

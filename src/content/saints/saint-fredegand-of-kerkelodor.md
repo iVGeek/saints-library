@@ -1,5 +1,6 @@
 ---
 name: Saint Frédégand of Kerkelodor
+stub: false
 honorific: Saint
 summary: >-
   Spiritual student of Saint Foillan of Fosses. Priest. Missionary monk and then abbot at Kerkelodor Abbey near Antwerp,

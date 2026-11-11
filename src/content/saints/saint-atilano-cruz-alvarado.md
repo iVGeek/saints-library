@@ -1,5 +1,6 @@
 ---
 name: Saint Atilano Cruz-Alvarado
+stub: false
 honorific: Venerable
 summary: >-
   Priest in the archdiocese of Guadalajara, Mexico at a time when ordination was a crime in Mexico. He ministered to

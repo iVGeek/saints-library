@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Simeon of Cava
+stub: false
 honorific: Blessed
 summary: >-
   Fourth abbot of the abbey of Cava dei Tirreni in Campania, Italy. Elected in 1124, he served for 16 years of great

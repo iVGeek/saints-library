@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/0/0b/Genealogical_arms_House_of_Habsburg-Lorraine_1806.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Constance de Castro
+stub: false
 honorific: Blessed
 summary: >-
   Born to the Spanish nobility. Married to Captain Rodrigo Diaz de Andrade. Widowed c.1245 when the captain died

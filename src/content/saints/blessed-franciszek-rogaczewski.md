@@ -1,5 +1,6 @@
 ---
 name: Blessed Franciszek Rogaczewski
+stub: false
 honorific: Blessed
 summary: >-
   Ordained in Gdansk, Poland in 1918. Pastor of Christ the King parish in Gdansk where be became a sought after

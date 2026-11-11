@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Ioachim Saburobyoe
+stub: true
 honorific: Blessed
 summary: Layman in the diocese of Niigata, Japan. Martyr.
 deathYear: 1629

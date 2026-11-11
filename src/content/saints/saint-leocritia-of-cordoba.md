@@ -1,5 +1,6 @@
 ---
 name: Saint Leocritia of Cordoba
+stub: false
 honorific: Saint
 summary: >-
   Born to wealthy Moorish parents, Leocritia converted to Christianity; her family drove her out. Saint Eulogius of

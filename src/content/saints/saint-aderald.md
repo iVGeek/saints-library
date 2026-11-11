@@ -1,5 +1,6 @@
 ---
 name: Saint Aderald
+stub: false
 honorific: Saint
 title: Deacon
 summary: >-

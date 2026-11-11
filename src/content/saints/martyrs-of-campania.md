@@ -1,5 +1,6 @@
 ---
 name: Martyrs of Campania
+stub: false
 honorific: Saint
 summary: >-
   Approximately 400 northern Italian Christians martyred for their faith by pagan Lombards. Their story was recorded by

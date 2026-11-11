@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Sedulius
+stub: false
 honorific: Saint
 summary: >-
   Wrote the epic poem Carmen Paschale. He left Ireland to found a school of poetry in Athens. May have been a disciple

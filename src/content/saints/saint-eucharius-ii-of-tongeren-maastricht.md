@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Eucharius II of Tongeren-Maastricht
+stub: false
 honorific: Saint
 title: Bishop
 summary: Bishop of Maastricht, Limburg, Netherlands in the early 6th century, serving for about 30 years.

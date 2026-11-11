@@ -1,5 +1,6 @@
 ---
 name: Blessed Josefa Pascual Pallardó
+stub: false
 honorific: Blessed
 summary: >-
   Professed religious in the Sisters of the Christian Doctrine, joining in 1889, and serving her community in any menial

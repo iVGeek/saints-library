@@ -1,5 +1,6 @@
 ---
 name: Saint Mamertus of Vienne
+stub: false
 honorific: Saint
 summary: >-
   Well-educated, and probably born to the Gallic nobility. May have been married at one point. Archbishop of Vienne,

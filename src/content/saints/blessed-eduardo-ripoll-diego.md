@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/0/04/Bundesarchiv_Bild_102-09414%2C_Primo_de_Rivera.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Eduardo Ripoll Diego
+stub: true
 honorific: Blessed
 summary: Member of the Claretians. Martyred in the Spanish Civil War.
 birthYear: 1912

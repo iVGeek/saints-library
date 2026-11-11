@@ -1,5 +1,6 @@
 ---
 name: Blessed Isidro Gil Arano
+stub: false
 honorific: Blessed
 summary: Joined the Hospitallers of Saint John of God in 1905. Martyred in the Spanish Civil War.
 image: https://catholicsaints.info/wp-content/uploads/img-Martyred-Hospitallers-of-Spain.jpg

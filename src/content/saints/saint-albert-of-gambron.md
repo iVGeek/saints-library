@@ -1,5 +1,6 @@
 ---
 name: Saint Albert of Gambron
+stub: false
 honorific: Saint
 title: Hermit
 summary: >-

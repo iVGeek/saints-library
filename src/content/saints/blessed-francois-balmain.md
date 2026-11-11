@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/4f/Frm_beatification_banner.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed François Balmain
+stub: false
 honorific: Blessed
 summary: >-
   Jesuit priest. Teacher in Pont-à-Mousson, France. Chaplain for the Daughters of the Cross in Paris, France. One of the

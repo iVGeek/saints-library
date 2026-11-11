@@ -1,5 +1,6 @@
 ---
 name: Saint Theophilus of Brescia
+stub: true
 honorific: Saint
 summary: Priest. Bishop of Brescia, Italy.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Theophilus-of-Brescia.jpg

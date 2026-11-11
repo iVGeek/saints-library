@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Rufinus of Nicomedië
+stub: true
 honorific: Saint
 summary: Arrested, tortured and executed in the persecutions of Emperor Valerian.
 deathYear: 258

@@ -1,5 +1,6 @@
 ---
 name: Saint Phêrô Nguyen Khac Tu
+stub: false
 honorific: Venerable
 summary: >-
   Layman catechist in the apostolic vicariate of West Tonkin (in modern Vietnam. Martyred in the persecutions of emperor

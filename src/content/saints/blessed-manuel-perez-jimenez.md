@@ -1,5 +1,6 @@
 ---
 name: Blessed Manuel Pérez Jiménez
+stub: false
 honorific: Blessed
 summary: Passionist priest. Martyred in the Spanish Civil War. One of the Martyrs of Daimiel.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Manuel-Perez-Jimenez.jpg

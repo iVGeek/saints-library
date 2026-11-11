@@ -1,5 +1,6 @@
 ---
 name: Martyred Soldiers of Rome
+stub: false
 honorific: Saint
 summary: >-
   Thirty soldiers martyred in Rome as a group during the persecutions of Diocletian. No other information, including

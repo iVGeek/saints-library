@@ -1,5 +1,6 @@
 ---
 name: Saint Ansgar
+stub: false
 honorific: Saint
 summary: >-
   Born to the French nobility. Benedictine monk at Old Corbie Abbey in Picardy (in modern France) and New Corbie in

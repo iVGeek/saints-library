@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/0/08/Roma_martires_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Pedro Artolozaga Mellique
+stub: false
 honorific: Blessed
 summary: >-
   Pedro studied at the Salesians of Don Bosco college in Santander, Spain, and joined the Order himself in 1926; he made

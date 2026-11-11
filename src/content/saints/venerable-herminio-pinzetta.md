@@ -1,5 +1,6 @@
 ---
 name: Venerable Hermínio Pinzetta
+stub: false
 honorific: Venerable
 summary: >-
   Second of thirteen boys born to Fiorentino Pinzetta and Isabela Romani. He became Capuchin friar on 2 February 1944 in

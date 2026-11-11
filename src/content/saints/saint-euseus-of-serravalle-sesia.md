@@ -1,5 +1,6 @@
 ---
 name: Saint Euseus of Serravalle-Sesia
+stub: false
 honorific: Saint
 title: Hermit
 summary: Shoemaker in the area of 13th - 14th century Serravalle-Sesia, Italy who lived as a prayerful hermit.

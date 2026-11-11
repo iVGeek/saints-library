@@ -1,5 +1,6 @@
 ---
 name: Blessed Juan Osiense
+stub: false
 honorific: Blessed
 summary: Mercedarian friar at the convent of Santa Maria in Guardia de los Prados, Spain. Noted theologian. Miracle worker.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Juan-Osiense.jpg

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/f/f8/GA_Ordre_du_Saint-S%C3%A9pulcre.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed William Knight
+stub: false
 honorific: Blessed
 summary: Layman in the apostolic vicariate of England during a period of persecutions of Catholics. Martyr.
 birthYear: 1573

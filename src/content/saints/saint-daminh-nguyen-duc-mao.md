@@ -1,5 +1,6 @@
 ---
 name: Saint Ðaminh Nguyen Ðuc Mao
+stub: false
 honorific: Venerable
 summary: >-
   Married peasant farmer in the apostolic vicariate of Central Tonkin (in modern Vietnam). During the persecutions of

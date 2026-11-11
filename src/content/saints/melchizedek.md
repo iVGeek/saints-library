@@ -1,5 +1,6 @@
 ---
 name: Melchizedek the Patriarch
+stub: false
 honorific: Saint
 summary: >-
   King of Salem, most probably Jerusalem, and a priest of the Most High God. He came to meet Abram after his victory

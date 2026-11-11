@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Sacerdos of Saguntum
+stub: true
 honorific: Saint
 summary: Bishop of Saguntum (now Murviedro), Spain.
 deathYear: 560

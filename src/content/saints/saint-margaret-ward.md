@@ -1,5 +1,6 @@
 ---
 name: Saint Margaret Ward
+stub: false
 honorific: Venerable
 summary: >-
   Nothing is known of her early life. She first appears in the records working as a lady's companion to the Whittle

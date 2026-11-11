@@ -1,5 +1,6 @@
 ---
 name: Blessed Antoni Zawistowski
+stub: false
 honorific: Blessed
 summary: >-
   After high school, Antoni studied at the Metropolitan Seminary in Lublin, Poland, and the Theological Academy in Saint

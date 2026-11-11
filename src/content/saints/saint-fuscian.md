@@ -1,5 +1,6 @@
 ---
 name: Saint Fuscian
+stub: false
 image: >-
   https://commons.wikimedia.org/wiki/Special:FilePath/Sains-en-Ami%25C3%25A9nois_%25C3%25A9glise_tombeau_%2528partie_sup%25C3%25A9rieure%2529.jpg?width=600
 honorific: Saint

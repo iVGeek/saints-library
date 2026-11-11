@@ -1,5 +1,6 @@
 ---
 name: Saint Agape of Thessalonica
+stub: false
 honorific: Saint
 summary: >-
   Sister of Saint Chionia and Saint Irene. Convicted of possessing the Scriptures despite a prohibition issued in 303 by

@@ -1,5 +1,6 @@
 ---
 name: Saint Julius the Veteran
+stub: false
 honorific: Saint
 summary: >-
   Soldier in the imperial Roman army for 27 years, and the veteran of seven campaigns. Converted to Christianity

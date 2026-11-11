@@ -1,5 +1,6 @@
 ---
 name: Saint Bartholomew degli Amidei
+stub: false
 honorific: Saint
 summary: >-
   One of the Seven Founders of Servants of Mary (Servites). Governed the important Servite convent of Carfaggio. Third

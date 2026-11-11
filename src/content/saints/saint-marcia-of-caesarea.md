@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Marcia of Caesarea
+stub: true
 honorific: Saint
 summary: Convert. Martyr.
 died: Caesarea, Palestine, date unknown

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Ephrathus the Thaumaturgist
+stub: false
 honorific: Saint
 summary: Monk. Abbot of the Abgaro monastery on Mount Olympus, Bithynia (in modern Turkey).
 searchAliases:

@@ -1,5 +1,6 @@
 ---
 name: Saint Astius of Durazzo
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Durazzo (in modern Albania). He was martyred in the persecutions of Trajan as part of a sacrifice to the

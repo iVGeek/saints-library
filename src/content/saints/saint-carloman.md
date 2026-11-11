@@ -1,5 +1,6 @@
 ---
 name: Saint Carloman
+stub: false
 honorific: Saint
 summary: >-
   Eldest son of Charles Martel. King of Austrasia in 741. Supported the founding of monasteries at Fulda in Germany, and

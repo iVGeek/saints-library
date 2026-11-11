@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Crescentian of Rome
+stub: true
 honorific: Saint
 summary: Martyred in the persecutions of Maxentius.
 searchAliases:

@@ -1,5 +1,6 @@
 ---
 name: Saint Edwin of Northumbria
+stub: false
 honorific: Saint
 summary: >-
   A prince, born a pagan, the son of King Ella of Northumbria. King of Northumbria from 616 to 633. Married to Saint

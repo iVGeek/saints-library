@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Bertrand of Le Mans
+stub: false
 honorific: Saint
 summary: >-
   Educated and ordained in Paris, France by Saint Germanus of Paris. Worked at the cathedral school at Paris, and served

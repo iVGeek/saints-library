@@ -1,5 +1,6 @@
 ---
 name: Saint Amand of Grisalba
+stub: true
 honorific: Saint
 summary: Count of Grisalba, Bergamo, Italy. No other information has survived.
 searchAliases:

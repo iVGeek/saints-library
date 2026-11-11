@@ -1,5 +1,6 @@
 ---
 name: Saint Peter Julian Eymund
+stub: false
 honorific: Venerable
 summary: >-
   Peter grew up in a poor family during the anti-clerical, anti-Catholic aftermath of the French Revolution. His first

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Ernin of Cremchoill
+stub: false
 honorific: Saint
 summary: This person is listed in the Tallagh and Donegal Martyrologies, but no details about them have survived.
 searchAliases:

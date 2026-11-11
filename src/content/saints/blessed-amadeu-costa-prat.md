@@ -1,5 +1,6 @@
 ---
 name: Blessed Amadeu Costa Prat
+stub: false
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Jochs_Florals_de_Barcelona_en_1901.djvu/page1-960px-Jochs_Florals_de_Barcelona_en_1901.djvu.jpg
 honorific: Blessed

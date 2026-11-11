@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Eonus of Arles
+stub: false
 honorific: Saint
 summary: >-
   Archbishop of Arles, France in the late 5th and early 6th century. Fought the Pelagian heresy. Ordained Saint Cesareo

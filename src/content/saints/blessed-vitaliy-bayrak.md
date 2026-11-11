@@ -1,5 +1,6 @@
 ---
 name: Blessed Vitaliy Bayrak
+stub: false
 honorific: Blessed
 summary: >-
   Greek Catholic. Joined the Basilian Order of Saint Josaphat monastery on 4 September 1924. Ordained on 13 August 1933.

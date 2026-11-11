@@ -1,5 +1,6 @@
 ---
 name: Saint Dunstan of Canterbury
+stub: false
 honorific: Saint
 summary: >-
   Son of Heorstan, a Wessex nobleman. Nephew of Saint Athelm, and related to Saint Alphege of Winchester. Educated at

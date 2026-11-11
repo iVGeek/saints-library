@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Vicente Blanco Guadilla
+stub: false
 honorific: Blessed
 summary: Professed priest in the Missionary Oblates of Mary Immaculate. Martyred in the Spanish Civil War.
 birthYear: 1882

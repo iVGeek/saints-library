@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Hereswitha
+stub: false
 honorific: Saint
 summary: >-
   Princess from Northumbria (in modern England), the daughter of Hereric and Breguswith. Sister of Saint Hilda of

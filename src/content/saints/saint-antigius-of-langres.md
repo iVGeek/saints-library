@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Antigius of Langres
+stub: true
 honorific: Saint
 summary: Itinerant missionary bishop who evangelized in the area of Langres, France.
 searchAliases:

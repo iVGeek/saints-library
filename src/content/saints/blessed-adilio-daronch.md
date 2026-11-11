@@ -1,5 +1,6 @@
 ---
 name: Blessed Adilio Daronch
+stub: true
 honorific: Blessed
 summary: Young lay person in the diocese of Frederico Westphalen, Brazil. Martyr.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Adilio-Daronch.jpg

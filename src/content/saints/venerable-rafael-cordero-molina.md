@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Venerable Rafael Cordero Molina
+stub: true
 honorific: Venerable
 summary: Layman in the archdiocese of San Juan, Puerto Rico.
 birthYear: 1790

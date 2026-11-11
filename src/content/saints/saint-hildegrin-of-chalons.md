@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Hildegrin of Chalons
+stub: false
 honorific: Saint
 summary: >-
   Younger brother of Saint Ludger of Utrecht. Worked with Ludger to evangelize the Saxons. Bishop of Chalons-sur-Marne,

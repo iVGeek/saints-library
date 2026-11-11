@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Nonnus of Heliopolis
+stub: true
 honorific: Saint
 summary: Bishop of Heliopolis in 471.
 region: England

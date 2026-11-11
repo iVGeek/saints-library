@@ -1,5 +1,6 @@
 ---
 name: Saint Deicola
+stub: false
 honorific: Saint
 summary: >-
   Older brother of Saint Gall. Monk. Studied at Bangor Abbey under Saint Comgall of Bangor and Saint Columba.

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/6/62/Alberto_Avog.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Giovanni Avogadro of Vercelli
+stub: true
 honorific: Blessed
 summary: 15th-century Augustinian canon noted for his piety and humility.
 deathYear: 1497

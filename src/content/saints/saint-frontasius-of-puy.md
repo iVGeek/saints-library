@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Frontasius of Puy
+stub: false
 honorific: Saint
 summary: Missionary, sent by Saint Fronto of Périgueux to the area of Puy, France. Tortured and martyred by local pagans.
 died: beheaded in Puy (modern Puy-en-Velay), France

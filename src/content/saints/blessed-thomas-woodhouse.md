@@ -1,5 +1,6 @@
 ---
 name: Blessed Thomas Woodhouse
+stub: false
 honorific: Blessed
 summary: >-
   Priest in Lincolnshire, England. Forced to resign due state persecution, he became a tutor in Wales. Arrested and sent

@@ -1,5 +1,6 @@
 ---
 name: Saint Natalia of Nicomedia
+stub: false
 honorific: Saint
 summary: >-
   Christian woman married to a non-Christian Nicomedian imperial officer named Adrian. Her husband was so impressed by

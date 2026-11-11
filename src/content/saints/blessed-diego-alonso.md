@@ -1,5 +1,6 @@
 ---
 name: Blessed Diego Alonso
+stub: true
 honorific: Blessed
 title: Missionary
 summary: Mercedarian missionary to Peru. Miracle worker.

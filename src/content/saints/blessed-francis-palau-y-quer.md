@@ -1,5 +1,6 @@
 ---
 name: Blessed Francis Palau y Quer
+stub: false
 honorific: Blessed
 summary: >-
   Joined the Carmelites in 1832. Ordained in 1836. Civil disorder forced him into exile. He returned to Spain in 1851

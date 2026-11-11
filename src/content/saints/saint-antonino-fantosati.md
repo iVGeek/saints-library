@@ -1,5 +1,6 @@
 ---
 name: Saint Antonino Fantosati
+stub: false
 honorific: Saint
 summary: >-
   Antonino joined the Franciscan Order of Reformed Friars Minor on 28 July 1862 at the convent of Spineta in Todi,

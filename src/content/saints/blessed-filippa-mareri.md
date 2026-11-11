@@ -1,5 +1,6 @@
 ---
 name: Blessed Filippa Mareri
+stub: false
 honorific: Blessed
 summary: >-
   After having met Saint Francis of Assisi in her parents' home, she became a hermit on a mountain above Mareri, Italy.

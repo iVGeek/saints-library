@@ -1,5 +1,6 @@
 ---
 name: Blessed Esteban Barrenechea Arriaga
+stub: true
 honorific: Blessed
 summary: Trinitarian priest. Martyred in the Spanish Civil War.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Esteban-Barrenechea-Arriaga.jpg

@@ -1,5 +1,6 @@
 ---
 name: Venerable Felisa Pérez de Iriarte Casado
+stub: true
 honorific: Venerable
 summary: Dominican nun.
 image: >-

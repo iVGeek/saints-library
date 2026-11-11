@@ -1,5 +1,6 @@
 ---
 name: Saint Marthe
+stub: false
 honorific: Saint
 title: Virgin
 summary: >-

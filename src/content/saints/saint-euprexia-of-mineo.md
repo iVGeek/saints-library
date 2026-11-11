@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Euprexia of Mineo
+stub: false
 honorific: Saint
 summary: ' The relics of Saint Agrappina were brought from Rome, Italy to a cave near the home of Saint Euprexia where exposure to them cured Saint Theognia of her paralysis. In gratitude, Euprexia built a chapel in her home for t Married lay woman. Mother of Saint Theognia of Mineo. Widow.'
 died: early 4th century in Mineo, Caltagirone, Sicily, Italy

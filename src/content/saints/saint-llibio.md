@@ -1,5 +1,6 @@
 ---
 name: Saint Llibio
+stub: true
 honorific: Saint
 summary: No information has survived.
 searchAliases:

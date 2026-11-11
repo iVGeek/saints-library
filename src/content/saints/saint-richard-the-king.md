@@ -1,5 +1,6 @@
 ---
 name: Saint Richard the King
+stub: false
 honorific: Saint
 summary: >-
   Saxon king, possibly of Wessex in modern England. Married, and the father of Saint Willibald, Saint Winebald, and

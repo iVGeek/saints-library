@@ -1,5 +1,6 @@
 ---
 name: Saint Gregory of Utrecht
+stub: false
 honorific: Saint
 summary: >-
   Son of Saint Wastrada, and uncle of Saint Alberic of Utrecht. Spiritual student and Benedictine monk under Saint

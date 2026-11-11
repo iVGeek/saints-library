@@ -1,5 +1,6 @@
 ---
 name: Saint Paul the Hermit
+stub: false
 honorific: Saint
 summary: >-
   Paul grew up in an upper-class, Christian family. He was well educated, fluent in Greek and Egyptian. His parents died

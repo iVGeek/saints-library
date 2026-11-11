@@ -1,5 +1,6 @@
 ---
 name: Saint Oswald of Worcester
+stub: false
 honorific: Saint
 summary: >-
   Oswald's parents came from Denmark to England before his birth. The boy was educated by his uncle, Saint Odo the Good.

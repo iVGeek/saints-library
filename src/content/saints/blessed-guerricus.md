@@ -1,5 +1,6 @@
 ---
 name: Blessed Guerricus
+stub: false
 honorific: Blessed
 summary: >-
   Studied at Tournai, Belgium. Headmaster of the cathedral school at Tournai. Visited Clairvaux Abbey to see Saint

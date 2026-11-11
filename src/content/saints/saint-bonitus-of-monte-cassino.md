@@ -1,5 +1,6 @@
 ---
 name: Saint Bonitus of Monte Cassino
+stub: false
 honorific: Saint
 summary: Abbot of Monte Cassino when the invading Lombards plundered and destroyed the monastery.
 deathYear: 582

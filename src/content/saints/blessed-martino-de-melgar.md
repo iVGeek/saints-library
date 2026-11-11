@@ -1,5 +1,6 @@
 ---
 name: Blessed Martino de Melgar
+stub: false
 honorific: Blessed
 summary: >-
   Commander of the Mercedarian convent of Santa Maria in Burgos, Spain. Noted for his personal piety and his support of

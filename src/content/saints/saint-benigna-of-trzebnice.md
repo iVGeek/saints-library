@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Benigna of Trzebnice
+stub: true
 honorific: Saint
 summary: Cistercian nun in Trzebnice, Poland. Martyr.
 searchAliases:

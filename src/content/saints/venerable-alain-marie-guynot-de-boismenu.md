@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Venerable Alain-Marie Guynot de Boismenu
+stub: false
 honorific: Venerable
 summary: >-
   Priest. Member of the Missionaries of the Sacred Heart of Jesus. Vicar apostolic of Papuasia. Founded the Handmaids of

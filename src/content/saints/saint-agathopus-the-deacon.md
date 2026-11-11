@@ -1,5 +1,6 @@
 ---
 name: Saint Agathopus the Deacon
+stub: false
 honorific: Saint
 summary: >-
   Deacon. Marytred with Saint Theodulus during the persecution of Maximinian Herculius for refusing to surrender holy

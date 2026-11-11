@@ -1,5 +1,6 @@
 ---
 name: Venerable Anne de Guigné
+stub: true
 honorific: Venerable
 summary: Daughter of the Earl of Guigné.
 image: https://upload.wikimedia.org/wikipedia/commons/9/91/Anne_de_Guign%C3%A9.jpg

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Sebbe of Essex
+stub: false
 honorific: Saint
 summary: >-
   King of Essex in England, ascending in 664. Founded the monastery of Westminster. Known for his personal piety,

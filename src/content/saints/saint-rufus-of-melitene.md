@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Rufus of Melitene
+stub: true
 honorific: Saint
 summary: Martyr.
 region: England

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/5/53/Rubens_apostel_andreas_grt.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Andrew of Bethlehem
+stub: true
 honorific: Saint
 summary: First century convert martyred in the persecutions of King Herod Antipas.
 died: 1st century Bethlehem

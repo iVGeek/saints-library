@@ -1,5 +1,6 @@
 ---
 name: Blessed Pedro Rivera y Rivera
+stub: false
 honorific: Blessed
 summary: >-
   Candido joined the Franciscan Friars Minor Conventual, taking the name Pedro, and making his novitiate in Granollers,

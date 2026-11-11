@@ -1,5 +1,6 @@
 ---
 name: Blessed Paganus of Lecco
+stub: false
 honorific: Blessed
 summary: >-
   Educated in the Dominican convents in Bergamo and Rimini, Italy, Paganus was a Dominican friar for 50 years, received

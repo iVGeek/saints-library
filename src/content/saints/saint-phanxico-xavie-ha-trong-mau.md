@@ -1,5 +1,6 @@
 ---
 name: Saint Phanxicô Xaviê Hà Trong Mau
+stub: false
 honorific: Venerable
 summary: >-
   Lay Dominican in the apostolic vicariate of East Tonkin. Catechist. Imprisoned, tortured and executed for his faith in

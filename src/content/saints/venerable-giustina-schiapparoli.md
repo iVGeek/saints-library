@@ -1,5 +1,6 @@
 ---
 name: Venerable Giustina Schiapparoli
+stub: false
 honorific: Venerable
 summary: >-
   Sister of Venerable Maria Schiapparoli. Studied under Saint Benedicta Cambiagio Frassinello. Professed in 1850.

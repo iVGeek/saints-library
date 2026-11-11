@@ -1,5 +1,6 @@
 ---
 name: Blessed José Aparicio Sanz
+stub: false
 honorific: Blessed
 summary: >-
   Educated by the Sisters of Mercy in Enguera, Spain; the Pious Schools in Valencia, Spain; the College of Saint Joseph

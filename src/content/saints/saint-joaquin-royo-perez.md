@@ -1,5 +1,6 @@
 ---
 name: Saint Joaquín Royo Pérez
+stub: false
 honorific: Venerable
 summary: >-
   Joined the Dominicans in Valencia, Spain in 1709. Missionary to the Philippines in 1712, and then to China in 1715.

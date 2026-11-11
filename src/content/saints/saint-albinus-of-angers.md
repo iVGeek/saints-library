@@ -1,5 +1,6 @@
 ---
 name: Saint Albinus of Angers
+stub: false
 honorific: Saint
 summary: >-
   Born to a noble family of Brittany. Pious child. Monk from his mid-20's into his 60's at Timcillac, which later

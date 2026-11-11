@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/48/Painting_of_the_Nagasaki_Martyrs.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Lucia Sato
+stub: false
 honorific: Blessed
 summary: >-
   Lay woman in the diocese of Niigata, Japan. Married to Blessed Alexius Sato Seisuke; mother of Blessed Elisabeth Sato.

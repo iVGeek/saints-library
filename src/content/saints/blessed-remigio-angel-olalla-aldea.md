@@ -1,5 +1,6 @@
 ---
 name: Blessed Remigio Ángel Olalla Aldea
+stub: false
 honorific: Blessed
 summary: >-
   Joined the Salesians in Bujedo, Spain in 1916 at the age of 13; made his perpetual vows on 26 August 1928. Teacher in

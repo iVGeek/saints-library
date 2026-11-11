@@ -1,5 +1,6 @@
 ---
 name: Blessed Özséb of Esztergom
+stub: false
 honorific: Blessed
 summary: >-
   Born to the wealthy Hungarian nobility. As a child he was noted as an excellent student and for his faith, preferring

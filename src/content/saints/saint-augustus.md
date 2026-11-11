@@ -1,5 +1,6 @@
 ---
 name: Saint Augustus of Campania
+stub: false
 honorific: Saint
 title: Priest
 summary: >-

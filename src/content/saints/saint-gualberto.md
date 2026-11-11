@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Gualberto
+stub: true
 honorific: Saint
 summary: Born to the early 7th century Frankish nobility. Married to Saint Bertilla.
 region: France

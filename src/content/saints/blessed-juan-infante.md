@@ -1,5 +1,6 @@
 ---
 name: Blessed Juan Infante
+stub: false
 honorific: Blessed
 title: Priest
 summary: >-

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Molonachus of Lismore
+stub: false
 honorific: Saint
 summary: Seventh century spiritual student of Saint Brendan. Bishop of Lismore in Argyll, Scotland.
 region: Scotland

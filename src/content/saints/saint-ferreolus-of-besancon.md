@@ -1,5 +1,6 @@
 ---
 name: Saint Ferreolus of Besançon
+stub: false
 honorific: Saint
 summary: >-
   Brother of Saint Ferrutio of Besançon. Priest. Sent by Saint Irenaeus of Lyons to evangelize the area of Besançon,

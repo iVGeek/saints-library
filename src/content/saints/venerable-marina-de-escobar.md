@@ -1,5 +1,6 @@
 ---
 name: Venerable Marina de Escobar
+stub: false
 honorific: Venerable
 title: Virgin
 summary: >-

@@ -1,5 +1,6 @@
 ---
 name: Saint Carina of Ancyra
+stub: false
 honorific: Saint
 summary: >-
   Married to Saint Melassipus of Ancyra. Mother of Saint Anthony of Ancyra. Martyred in the persecutions of Julian the

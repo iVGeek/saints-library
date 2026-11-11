@@ -1,5 +1,6 @@
 ---
 name: Saint Peter of Poitiers
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Poitiers, France, from 1087 till 1115. Publicly denounced the sacrilegious tyranny and license of King

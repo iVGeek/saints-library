@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Eusebius of Languedoc
+stub: true
 honorific: Saint
 summary: Martyr. Saint Gregory of Tours wrote about him.
 died: martyred in Languedoc, France

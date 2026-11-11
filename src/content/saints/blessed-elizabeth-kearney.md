@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/9/96/Fra_Angelico_069.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Elizabeth Kearney
+stub: true
 honorific: Blessed
 summary: Lay woman in the diocese of Cashel, Ireland. One of the Irish Martyrs.
 deathYear: 1647

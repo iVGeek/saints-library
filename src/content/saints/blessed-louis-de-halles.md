@@ -1,5 +1,6 @@
 ---
 name: Blessed Louis de Halles
+stub: false
 honorific: Blessed
 summary: >-
   Mercedarian friar. Imprisoned and tortured by Saracens for preaching Christianity while ransoming Christians enslaved

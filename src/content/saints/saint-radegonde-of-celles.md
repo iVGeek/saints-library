@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/d/da/Celles_%2824%29_%C3%A9glise_%281%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Radegonde of Celles
+stub: false
 honorific: Saint
 summary: >-
   Goddaughter of Saint Bathilde who helped raise her in the monastery of Chelles. The little girl died a few days before

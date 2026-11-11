@@ -1,5 +1,6 @@
 ---
 name: Blessed James Bertoni
+stub: false
 honorific: Blessed
 summary: >-
   Born to a poor family. Joined the Servites at age 9. Priest. Procurator of the Servite friary in Faenza, Italy until

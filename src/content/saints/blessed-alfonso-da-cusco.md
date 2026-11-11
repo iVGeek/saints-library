@@ -1,5 +1,6 @@
 ---
 name: Blessed Alfonso da Cusco
+stub: false
 honorific: Blessed
 summary: >-
   Mercedarian lay brother at the convent of San Giovanni Laterano in Arequipa, Peru. Known for his piety and as a

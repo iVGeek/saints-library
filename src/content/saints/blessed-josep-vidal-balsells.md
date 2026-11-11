@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/f/fe/Beatificaciotarragona2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Josep Vidal Balsells
+stub: true
 honorific: Blessed
 summary: Member of the Claretians. Martyred in the Spanish Civil War.
 birthYear: 1908

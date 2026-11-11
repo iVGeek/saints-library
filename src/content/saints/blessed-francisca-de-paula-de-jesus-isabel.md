@@ -1,5 +1,6 @@
 ---
 name: Blessed Francisca de Paula de Jesus Isabel
+stub: false
 honorific: Blessed
 summary: >-
   Lay person of the diocese of Campanha, Brazil. Her mother died when the girl was 10, and she gave herself over to the

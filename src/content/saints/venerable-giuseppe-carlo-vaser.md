@@ -1,5 +1,6 @@
 ---
 name: Venerable Giuseppe Carlo Vaser
+stub: true
 honorific: Venerable
 summary: First Italian Marist Brother.
 image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Giuseppe-Carlo-Vaser.jpg

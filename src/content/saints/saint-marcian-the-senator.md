@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Marcian the Senator
+stub: false
 honorific: Saint
 summary: >-
   Father of Saint John. Imperial Roman senator. When Saint Abundius brought Saint John back from the dead, Marcian

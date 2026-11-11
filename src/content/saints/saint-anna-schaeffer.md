@@ -1,5 +1,6 @@
 ---
 name: Saint Anna Schaeffer
+stub: false
 honorific: Venerable
 summary: >-
   Daughter of a poor carpenter. Anna dropped out of school at age 14 to work as a maid, and had hopes of a religious

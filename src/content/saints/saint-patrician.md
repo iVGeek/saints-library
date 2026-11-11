@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/d/d9/Theodora_mosaik_ravenna.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Patrician
+stub: false
 honorific: Saint
 summary: >-
   Fifth century bishop in Scotland. Driven into exile by pagan Scots, he spent his latter years as a hermit on the Isle

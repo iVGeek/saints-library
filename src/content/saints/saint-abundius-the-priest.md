@@ -1,5 +1,6 @@
 ---
 name: Saint Abundius the Priest
+stub: false
 honorific: Saint
 summary: >-
   Priest in Rome, Italy. Arrested with Saint Abundantius for refusing to sacrifice to Hercules. Tortured at Mammertine

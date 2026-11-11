@@ -1,5 +1,6 @@
 ---
 name: Saint Germanus of Thessalonica
+stub: true
 honorific: Saint
 summary: Martyr.
 died: in Thessalonica, Greece, date unknown

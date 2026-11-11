@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint John of Châlon
+stub: true
 honorific: Saint
 title: Bishop
 summary: Bishop of Châlon-sur-Saône, France consecrated by Saint Patiens of Lyons.

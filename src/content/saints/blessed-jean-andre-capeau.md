@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/4f/Frm_beatification_banner.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Jean-André Capeau
+stub: true
 honorific: Blessed
 summary: Priest of the archdiocese of Avignon, France. One of the Martyrs of September.
 deathYear: 1792

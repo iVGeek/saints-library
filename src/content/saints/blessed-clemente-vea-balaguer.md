@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/f/fe/Beatificaciotarragona2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Clemente Vea Balaguer
+stub: true
 honorific: Blessed
 summary: Salesian brother. Teacher. Martyred in the Spanish Civil War.
 searchAliases:

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Càndid Casals Sunyer
+stub: false
 honorific: Blessed
 summary: >-
   Member of the Claretians, professed on 8 September 1913 in Cervera, Spain. Ordained a priest on 29 May 1920 in

@@ -1,5 +1,6 @@
 ---
 name: Blessed Isabel Ferrer Sabrià
+stub: false
 honorific: Blessed
 summary: Professed religious in the Sisters of the Christian Doctrine. Martyred in the Spanish Civil War.
 image: https://catholicsaints.info/wp-content/uploads/img-Martyred-Sisters-of-the-Christian-Doctrine.jpg

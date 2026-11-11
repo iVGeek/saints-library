@@ -1,5 +1,6 @@
 ---
 name: Saint Narcissus of Jerusalem
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Jerusalem, consecrated c.180 when he was already an old man. Late in life, he was accused of a crime. None

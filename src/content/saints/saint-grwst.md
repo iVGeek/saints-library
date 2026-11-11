@@ -1,6 +1,7 @@
 ---
 image: https://www.catholic.org/files/images/saints/3610.jpg
 name: Saint Grwst
+stub: true
 honorific: Saint
 summary: Namesake for Llanrwst, Clwyd, Wales.
 region: England

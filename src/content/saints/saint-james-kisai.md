@@ -1,5 +1,6 @@
 ---
 name: Saint James Kisai
+stub: false
 honorific: Saint
 summary: >-
   Raised Buddhist. Convert to Christianity. Married layman, and father of one son. His wife returned to her Buddhist

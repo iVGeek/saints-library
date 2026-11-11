@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Primael of Quimper
+stub: true
 honorific: Saint
 summary: Hermit near Quimper, France.
 born: British Isles

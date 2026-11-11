@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/48/Painting_of_the_Nagasaki_Martyrs.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed João Fernandes
+stub: false
 honorific: Blessed
 summary: Jesuit missionary cleric. Martyred by the Huguenot Jacques Sourie while en route to Brazil.
 deathYear: 1570

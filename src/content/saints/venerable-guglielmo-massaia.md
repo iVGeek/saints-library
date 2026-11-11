@@ -1,5 +1,6 @@
 ---
 name: Venerable Guglielmo Massaia
+stub: false
 honorific: Venerable
 summary: >-
   Member of the Order of Friars Minor Capuchin, taking the name Guglielmo in honour of his deceased brother who had been

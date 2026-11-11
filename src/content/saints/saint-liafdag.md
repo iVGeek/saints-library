@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/0/0b/Sankt_Sigfrid_i_V%C3%A4xj%C3%B6.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Liafdag
+stub: true
 honorific: Saint
 summary: Bishop in Jutland, Denmark. Martyred by local pagans.
 deathYear: 980

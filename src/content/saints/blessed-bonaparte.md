@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/1/15/Fran%C3%A7ois_Pascal_Simon_G%C3%A9rard_002FXD.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Bonaparte
+stub: false
 honorific: Blessed
 summary: Priest. Spiritual student of Saint Sylvester Gozzolini. Sylvestrine monk at the San Tommaso di Jesi monastery.
 died: 13th century of natural causes

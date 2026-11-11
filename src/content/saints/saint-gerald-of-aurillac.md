@@ -1,5 +1,6 @@
 ---
 name: Saint Gerald of Aurillac
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility, the son of Count Gerard and Saint Adeltrude of Aurillac. The boy suffered from several illnesses

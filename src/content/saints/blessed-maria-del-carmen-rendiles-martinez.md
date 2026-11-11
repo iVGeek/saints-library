@@ -1,5 +1,6 @@
 ---
 name: Blessed Maria del Carmen Rendiles Martinez
+stub: false
 honorific: Blessed
 summary: >-
   Third of eight children born to a wealthy and respected family, the daughter of Ramiro Antonio Rendiles and Ana

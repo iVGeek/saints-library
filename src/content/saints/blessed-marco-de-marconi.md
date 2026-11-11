@@ -1,5 +1,6 @@
 ---
 name: Blessed Marco De' Marconi
+stub: false
 honorific: Blessed
 summary: >-
   Born to a pious Christian family. Joined the Order of the Hermits of Saint Jerome in Migliarino, Italy at age 16.

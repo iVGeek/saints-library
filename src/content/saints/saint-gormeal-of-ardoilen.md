@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Gormeal of Ardoilen
+stub: true
 honorific: Saint
 summary: Abbot at Ardoilen, Galway, Ireland.
 searchAliases:

@@ -1,5 +1,6 @@
 ---
 name: Blessed Silao
+stub: false
 honorific: Blessed
 summary: >-
   Born to the Irish nobility. Priest. Benedictine monk. Abbot. Bishop. Having encountered opposition from a local lord,

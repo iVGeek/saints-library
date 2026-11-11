@@ -1,5 +1,6 @@
 ---
 name: Venerable Arnaldo Canepa
+stub: false
 honorific: Venerable
 summary: >-
   Lifelong layman of the diocese of Rome, Italy. He was indifferent to religion during the first half of his life,

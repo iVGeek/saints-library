@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/2/2d/Selected_Poems_of_Francis_Thompson_by_Wilfrid_Meynell.djvu?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 name: Saint Wilfrid the Younger
+stub: false
 honorific: Saint
 summary: >-
   Monk at Beverley Abbey. Spiritual student of Saint John of Beverley. Abbot of Beverley. Late in life he retired to

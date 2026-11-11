@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/4f/Frm_beatification_banner.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Jacques Friteyre-Durvé
+stub: false
 honorific: Blessed
 summary: >-
   Educated by the Jesuits at Boillons, France. Entered the Jesuit novitiate in Toulouse, France in 1742. Priest. Taught

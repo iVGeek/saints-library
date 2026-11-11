@@ -1,5 +1,6 @@
 ---
 name: Saint Benignus of Utrecht
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Chartres, France. Bishop of Utrecht, Netherlands. Saint Gregory of Tours wrote about an apparition of

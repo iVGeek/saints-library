@@ -1,5 +1,6 @@
 ---
 name: Saint Finan of Iona
+stub: false
 honorific: Saint
 summary: >-
   Monk at Iona. Succeeded Saint Aidan of Lindisfarne as governor of the Church in Northumbria, England. Bishop of

@@ -1,5 +1,6 @@
 ---
 name: Saint Felician of Foligno
+stub: false
 honorific: Saint
 summary: >-
   Spiritual student of Pope Saint Eleutherius during his missionary days. Priest. Consecrated bishop of Foligno, Italy

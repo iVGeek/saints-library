@@ -1,5 +1,6 @@
 ---
 name: Saint Gohardus of Nantes
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Nantes, France Murdered by Norman raiders while celebrating Mass with a large group of monks and priests.

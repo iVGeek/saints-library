@@ -1,5 +1,6 @@
 ---
 name: Saint Magnus of Milan
+stub: true
 honorific: Saint
 summary: Archbishop of Milan, Italy from c.520 to 525.
 image: >-

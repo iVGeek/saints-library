@@ -1,5 +1,6 @@
 ---
 name: Saint Maria Du Tianshi
+stub: false
 honorific: Venerable
 summary: >-
   Lay woman in the apostolic vicariate of Southeastern Zhili, China; daughter of Saint Magdalena Du Fengju. Martyred in

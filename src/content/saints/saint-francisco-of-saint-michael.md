@@ -1,5 +1,6 @@
 ---
 name: Saint Francisco of Saint Michael
+stub: false
 honorific: Saint
 summary: >-
   Franciscan lay brother, joining the Order in 1566. Missionary to Phillipines and Japan. Arrested in Osaka with Saint

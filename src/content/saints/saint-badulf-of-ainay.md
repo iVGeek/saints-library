@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Badulf of Ainay
+stub: true
 honorific: Saint
 summary: Monk. Abbot of Ainay Abbey near Lyons, France.
 searchAliases:

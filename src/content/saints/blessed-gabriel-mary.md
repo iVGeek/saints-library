@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/9/9e/Tizian_041.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Gabriel Mary
+stub: false
 honorific: Blessed
 summary: >-
   Gabriel was refused admission by several houses of the Franciscan Observants before being received at Notre Dame de la

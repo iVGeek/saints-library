@@ -1,5 +1,6 @@
 ---
 name: Saint Olga of Kiev
+stub: false
 honorific: Saint
 title: St. Olga of Kiev
 summary: >-

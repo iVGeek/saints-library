@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/b/ba/Yves_Saint-Laurent_at_his_old_studio_of_the_same_name%2C_1961_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Barbara Ko Sun-I
+stub: true
 honorific: Venerable
 summary: Married lay woman in the apostolic vicariate of Korea. Martyr.
 searchAliases:

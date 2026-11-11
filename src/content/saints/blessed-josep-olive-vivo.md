@@ -1,5 +1,6 @@
 ---
 name: Blessed Josep Olivé Vivó
+stub: false
 honorific: Blessed
 summary: >-
   Son of Magí Olivé Rovira and Antonia Vivó Montagut; his father died when Josep was still a little boy, and he grew up

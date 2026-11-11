@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Gunthildis of Biblisheim
+stub: true
 honorific: Saint
 summary: Benedictine nun. First abbess of the Biblisheim Abbey in Alsace.
 searchAliases:

@@ -1,5 +1,6 @@
 ---
 name: Blessed Arnaldo Pons
+stub: false
 honorific: Blessed
 summary: >-
   Mercedarian friar. In 1382 he ransomed 48 Christians enslaved by Muslims in Almeria, Spain. Sent in 1386 to ransom

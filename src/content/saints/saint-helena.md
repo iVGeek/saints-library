@@ -1,5 +1,6 @@
 ---
 name: Saint Helena of Constantinople
+stub: false
 honorific: Saint
 title: St. Helena of Constantinople
 summary: >-

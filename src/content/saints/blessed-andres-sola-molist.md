@@ -1,5 +1,6 @@
 ---
 name: Blessed Andrés Solá Molist
+stub: false
 honorific: Blessed
 summary: >-
   Born to a large and pious farm family. Entered the Claretians in 1914, making his perpetual vows in 1917. Ordained in

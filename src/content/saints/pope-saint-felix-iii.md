@@ -1,5 +1,6 @@
 ---
 name: Pope Saint Felix III
+stub: false
 honorific: Saint
 summary: ' At the time of his ascension the Eastern Church had been split by the Act of Union of Emperor Ze Born to a Roman senatorial family. Great-grandfather of Pope Saint Gregory the Great. Married, father, and widower. Priest. Nothing else is known of his early life. Elected 48th pope.'
 image: >-

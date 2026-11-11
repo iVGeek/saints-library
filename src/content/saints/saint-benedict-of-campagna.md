@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Benedict of Campagna
+stub: false
 honorific: Saint
 summary: >-
   Benedictine hermit in the Campagna region of Italy. Friend of Saint Benedict of Nursia. Captured by Totila the Goth,

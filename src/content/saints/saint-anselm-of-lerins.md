@@ -1,5 +1,6 @@
 ---
 name: Saint Anselm of Lérins
+stub: true
 honorific: Saint
 summary: Eighth century abbot of Lérins Abbey in France.
 deathYear: 750

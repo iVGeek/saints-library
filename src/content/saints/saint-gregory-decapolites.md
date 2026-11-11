@@ -1,5 +1,6 @@
 ---
 name: Saint Gregory Decapolites
+stub: false
 honorific: Saint
 summary: Ninth century monk. Hermit. Pilgrim. An opponent of the iconoclasts, at whose hands he suffered.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Gregory-Decapolites.jpg

@@ -1,5 +1,6 @@
 ---
 name: Blessed Helen del Cavalcanti
+stub: false
 honorific: Blessed
 summary: >-
   Daughter of Count Maniago. Married at age 15 to a knight named Anthony del Cavalcanti. Happily married for 25 years,

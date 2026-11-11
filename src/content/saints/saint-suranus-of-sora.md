@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Suranus of Sora
+stub: false
 honorific: Saint
 summary: >-
   Abbot of a monastery at Sora, Italy. When the Lombards invaded the region, Suranus gave away all the goods of the

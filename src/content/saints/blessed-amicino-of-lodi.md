@@ -1,5 +1,6 @@
 ---
 name: Blessed Amicino of Lodi
+stub: false
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Francesco_Malaguzzi_Valeri_-_Pittori_lombardi_del_Quattrocento%2C_Milano_1902.djvu/page1-960px-Francesco_Malaguzzi_Valeri_-_Pittori_lombardi_del_Quattrocento%2C_Milano_1902.djvu.jpg
 honorific: Blessed

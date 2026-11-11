@@ -1,5 +1,6 @@
 ---
 name: Blessed Emilio Puente González
+stub: false
 honorific: Blessed
 summary: >-
   Raised in a pious family, Emilio was baptized at the age of one day, confirmed when he was 5, had an aunt who was a

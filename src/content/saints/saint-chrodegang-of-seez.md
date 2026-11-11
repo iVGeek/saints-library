@@ -1,5 +1,6 @@
 ---
 name: Saint Chrodegang of Séez
+stub: false
 honorific: Saint
 summary: >-
   Brother of Saint Opportune. 15th bishop of Seez, France. Noted for his support of the poor and disabled. Murdered

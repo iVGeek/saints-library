@@ -1,5 +1,6 @@
 ---
 name: Blessed Rosa Pedret Rull
+stub: false
 honorific: Blessed
 summary: >-
   Joined the Carmelite Sisters of Charity on 4 March 1886, making her perpetual vows in 1891. Assigned to Cullera, Spain

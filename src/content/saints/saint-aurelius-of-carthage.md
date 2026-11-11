@@ -1,5 +1,6 @@
 ---
 name: Saint Aurelius of Carthage
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Carthage in North Africa. Worked with Saint Augustine of Hippo. One of the first to denounce the heresy of

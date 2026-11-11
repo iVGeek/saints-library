@@ -1,5 +1,6 @@
 ---
 name: Blessed Iuliu Hossu
+stub: false
 honorific: Blessed
 summary: >-
   The son of Ioan Hossu and Victoria Mariutiu. He studied at the Seminary of Cluj, Romania, the seminary of Budapest,

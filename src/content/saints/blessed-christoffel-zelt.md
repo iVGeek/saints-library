@@ -1,5 +1,6 @@
 ---
 name: Blessed Christoffel Zelt
+stub: false
 honorific: Blessed
 summary: >-
   Franciscan Friar Minor lay brother, he served in his late 60's as a cook for his house after having served for may

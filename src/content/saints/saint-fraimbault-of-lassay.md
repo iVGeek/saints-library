@@ -1,5 +1,6 @@
 ---
 name: Saint Fraimbault of Lassay
+stub: false
 honorific: Saint
 summary: >-
   Born to the Frankish nobility, the son of a count. At age 15, against his own objections, he followed his father's

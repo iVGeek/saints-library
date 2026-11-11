@@ -1,5 +1,6 @@
 ---
 name: Saint Agatha Kwon Chin-I
+stub: true
 honorific: Venerable
 summary: Married lay woman. One of the Martyrs of Korea.
 image: https://catholicsaints.info/wp-content/uploads/img-Maryrs-of-Korea.jpg

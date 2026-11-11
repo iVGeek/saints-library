@@ -1,5 +1,6 @@
 ---
 name: Saint Paul the Apostle
+stub: false
 honorific: Saint
 summary: >-
   Jewish Talmudic student. Pharisee. Tent-maker by trade. Saul the Jew hated and persecuted Christians as heretical,

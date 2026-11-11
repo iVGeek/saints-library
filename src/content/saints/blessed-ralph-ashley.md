@@ -1,5 +1,6 @@
 ---
 name: Blessed Ralph Ashley
+stub: false
 honorific: Blessed
 summary: >-
   Worked as a cook at Douay College. Entered the English College at Valladolid on 28 April 1590 where he became a Jesuit

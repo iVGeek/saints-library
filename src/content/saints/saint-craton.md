@@ -1,5 +1,6 @@
 ---
 name: Saint Craton
+stub: false
 honorific: Saint
 summary: >-
   Professor of rhetoric and philosophy. Convert, brought to the faith by Saint Valentine of Terni. Martyred with his

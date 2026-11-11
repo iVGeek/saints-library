@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Lyutius
+stub: false
 honorific: Saint
 summary: >-
   Monk at Monte Cassino Abbey. In later life he retired from the community to live as a prayerful hermit near the abbey

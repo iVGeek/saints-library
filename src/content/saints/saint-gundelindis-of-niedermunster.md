@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Gundelindis of Niedermünster
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility, the daughter of the Duke of Alsace. Niece of Saint Odilia of Alsace. Nun. Abbess at

@@ -1,5 +1,6 @@
 ---
 name: Blessed Ángel Marina Álvarez
+stub: false
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Viaje_alrededor_del_mundo%2C_aventuras_de_un_joven_marino_1915.pdf/page1-960px-Viaje_alrededor_del_mundo%2C_aventuras_de_un_joven_marino_1915.pdf.jpg
 honorific: Blessed

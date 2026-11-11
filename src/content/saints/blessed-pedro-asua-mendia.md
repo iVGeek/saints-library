@@ -1,5 +1,6 @@
 ---
 name: Blessed Pedro Asúa Mendía
+stub: false
 honorific: Blessed
 summary: >-
   Educated by Jesuits. Trained as an architect, graduating in 1915. Worked on schools, churches and houses for

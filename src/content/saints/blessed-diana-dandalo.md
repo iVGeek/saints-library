@@ -1,5 +1,6 @@
 ---
 name: Blessed Diana d'Andalo
+stub: false
 honorific: Blessed
 summary: >-
   Born to a wealthy and politically connected land owner. We know nothing of her childhood, but was known as a

@@ -1,5 +1,6 @@
 ---
 name: Saint Claudius of Besançon
+stub: false
 honorific: Saint
 summary: >-
   Priest. Monk. Abbot of Condat, Jura; his house later became known as Saint-Claude. Bishop of Besançon, France in 685.

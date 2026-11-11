@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/7/7d/Troyes_%2810%29_Basilique_Saint-Urbain_Statue_de_Saint-Odilon.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Odilo
+stub: false
 honorific: Saint
 summary: >-
   Benedictine monk at Gorze, Lorraine, France. Abbot of Stavelot-Malmedy, Belgium in 945. Made his monastery an example

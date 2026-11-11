@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/42/Manuel_Aza%C3%B1a_%2813-11-1937%29_en_la_Plaza_de_Cervantes_de_Alcal%C3%A1_de_Henares.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 name: Blessed José Serrano Pastor
+stub: false
 honorific: Blessed
 summary: >-
   Member of the Claretians, professed on 15 August 1915. Ordained a priest on 25 May 1923. Martyred in the Spanish Civil

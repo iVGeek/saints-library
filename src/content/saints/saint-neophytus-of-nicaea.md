@@ -1,5 +1,6 @@
 ---
 name: Saint Neophytus of Nicaea
+stub: true
 honorific: Saint
 summary: Martyred at age 15. No other information has survived.
 image: https://catholicsaints.info/wp-content/uploads/img-saint-neophytus.jpg

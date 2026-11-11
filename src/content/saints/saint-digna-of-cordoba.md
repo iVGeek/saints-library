@@ -1,5 +1,6 @@
 ---
 name: Saint Digna of Cordoba
+stub: false
 honorific: Saint
 summary: >-
   Nun at the double monastery of T&aacute;banos. One of the first three martyrs of Cordoba, Spain, killed for their

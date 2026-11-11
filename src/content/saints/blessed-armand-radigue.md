@@ -1,5 +1,6 @@
 ---
 name: Blessed Armand Radigue
+stub: false
 honorific: Blessed
 summary: >-
   Armand joined the Picpus Fathers on 7 March 1845. He was ordained a priest on 22 April 1848, and served the Fathers as

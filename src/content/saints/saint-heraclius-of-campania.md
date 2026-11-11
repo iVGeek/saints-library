@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Heraclius of Campania
+stub: false
 honorific: Saint
 title: Priest
 summary: >-

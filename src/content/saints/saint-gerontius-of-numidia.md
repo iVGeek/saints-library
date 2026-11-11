@@ -1,5 +1,6 @@
 ---
 name: Saint Gerontius of Numidia
+stub: true
 honorific: Saint
 summary: Second century martyr.
 died: in Numidia in North Africa

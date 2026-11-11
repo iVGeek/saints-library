@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Pontius of Cologne
+stub: true
 honorific: Saint
 summary: Priest. Travelled with and martyred with Saint Ursula.
 deathYear: 238

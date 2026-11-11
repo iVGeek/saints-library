@@ -1,5 +1,6 @@
 ---
 name: Saint Genevieve
+stub: false
 honorific: Saint
 title: St. Genevieve
 summary: >-

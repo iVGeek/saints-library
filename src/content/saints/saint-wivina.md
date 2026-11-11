@@ -1,5 +1,6 @@
 ---
 name: Saint Wivina
+stub: false
 honorific: Saint
 summary: >-
   She received many offers of marriage but turned them all down. At age 23 she became a hermitess near Brussels,

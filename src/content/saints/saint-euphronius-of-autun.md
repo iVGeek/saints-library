@@ -1,5 +1,6 @@
 ---
 name: Saint Euphronius of Autun
+stub: false
 honorific: Saint
 summary: >-
   Friend of Saint Lupus of Troyes. Bishop of Autun, France. Founded the first monastery in the diocese, the priory of

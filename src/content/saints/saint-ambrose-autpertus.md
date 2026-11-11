@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Ambrose Autpertus
+stub: false
 honorific: Saint
 summary: >-
   While in Italy as a diplomatic envoy, he visited the monastery of Saint Vincent near Benevento. There he answered a

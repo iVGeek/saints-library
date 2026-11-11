@@ -1,5 +1,6 @@
 ---
 name: Saint John de la Lande
+stub: false
 honorific: Saint
 summary: >-
   Layman. Worked with Jesuit missionaries in North America. Martyred with Saint Isaac Jogues while on a trip to the

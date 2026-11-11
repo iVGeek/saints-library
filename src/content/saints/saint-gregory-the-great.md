@@ -1,5 +1,6 @@
 ---
 name: Pope Saint Gregory the Great – The Life of Our Most Holy Father Saint Benedict
+stub: false
 honorific: Saint
 title: St. Pope Saint Gregory the Great – The Life of Our Most Holy Father Saint Benedict
 summary: 'Pope Saint Gregory the Great – The Life of Our Most Holy Father Saint Benedict '

@@ -1,5 +1,6 @@
 ---
 name: Saint Emmanuel
+stub: true
 honorific: Saint
 summary: Martyred with 42 companions in the persecutions of Diocletian.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Emmanuel.jpg

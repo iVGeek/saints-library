@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/6/69/Kollamportchurch1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Mundus
+stub: true
 honorific: Saint
 summary: Abbot who founded several monasteries in Argyle, Scotland.
 searchAliases:

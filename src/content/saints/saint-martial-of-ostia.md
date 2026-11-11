@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/0/03/Vatican_City_%28St._Peter_Square%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Martial of Ostia
+stub: true
 honorific: Saint
 summary: Martyr honoured in Ostia, Italy.
 deathYear: 300

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/d/d9/Guerra_cristera.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Juan Castañón Fernández
+stub: false
 honorific: Blessed
 summary: Seminarian of the archdiocese of Oviedo, Spain. Martyred in the Spanish Civil War.
 birthYear: 1916

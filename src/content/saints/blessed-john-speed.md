@@ -1,5 +1,6 @@
 ---
 name: Blessed John Speed
+stub: false
 honorific: Blessed
 summary: >-
   Layman. Martyred for befriending and protecting Catholic priests, including Saint John Boste, during the persecutions

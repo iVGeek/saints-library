@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Quirinus Talesius
+stub: true
 honorific: Blessed
 summary: Local government official. Martyred by Calvinists.
 deathYear: 1572

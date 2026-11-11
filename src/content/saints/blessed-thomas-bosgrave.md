@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/7/77/Melchior_k%C3%BCsel-juan_cornelius.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Thomas Bosgrave
+stub: false
 honorific: Blessed
 summary: >-
   Bosgrave committed the crime of showing support for a priest, Blessed John Cornelius, and helping him by giving him a

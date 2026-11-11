@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Sulpicius
+stub: true
 honorific: Saint
 summary: Converted by the prayers of Saint Flavia Domitilla. Martyr.
 deathYear: 117

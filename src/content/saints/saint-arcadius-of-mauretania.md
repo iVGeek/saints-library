@@ -1,5 +1,6 @@
 ---
 name: Saint Arcadius of Mauretania
+stub: false
 honorific: Saint
 summary: >-
   Wealthy and prominent citizen, and a closet Christian. During a persecution in Mauritania, he withdrew to live as a

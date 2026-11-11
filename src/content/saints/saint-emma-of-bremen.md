@@ -1,5 +1,6 @@
 ---
 name: Saint Emma of Bremen
+stub: false
 honorific: Saint
 summary: >-
   Born to the Saxon nobility; the sister of Bishop Meinwerk of Paderborn, Germany. Lay woman, married to Count Luidger,

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Miqael of Ulompo
+stub: true
 honorific: Blessed
 summary: Sixth-century monk who worked with Saint John Zedazneli to evangelize Georgia.
 searchAliases:

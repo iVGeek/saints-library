@@ -1,5 +1,6 @@
 ---
 name: Blessed René-Marie Andrieux
+stub: false
 honorific: Blessed
 summary: >-
   Educated by Jesuits. Joined the Jesuits in 1760. Ordained in 1766. Taught moral theology in the seminary in Laon,

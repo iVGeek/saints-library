@@ -1,5 +1,6 @@
 ---
 name: Saint José Gabriel del Rosario Brochero
+stub: false
 honorific: Venerable
 summary: >-
   Fourth of ten brothers. Priest in the diocese of Córdoba, Argentina, ordained at age 26. Known to travel long

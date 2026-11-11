@@ -1,5 +1,6 @@
 ---
 name: Saint Theresa of Portugal
+stub: false
 honorific: Saint
 summary: >-
   Born a princess, the oldest daughter of King Sancho I. Married to King Alfonso IX of Leon, Spain; northern Portugal

@@ -1,5 +1,6 @@
 ---
 name: Saint Francis of Girolamo
+stub: false
 honorific: Saint
 summary: >-
   Studied humanities and philosophy at the Jesuit college of Taranto, Italy at age 16; studied theology and canon law at

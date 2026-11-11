@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Begu of Hackness
+stub: true
 honorific: Saint
 summary: Nun at Hackness, Yorkshire, England.
 deathYear: 660

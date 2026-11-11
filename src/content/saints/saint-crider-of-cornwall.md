@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Crider of Cornwall
+stub: true
 honorific: Saint
 summary: Daughter of an Irish chieftain. Nun. Friend of Saint Canice of Aghaboe.
 searchAliases:

@@ -1,5 +1,6 @@
 ---
 name: Saint Elwin
+stub: true
 honorific: Saint
 summary: Missionary who worked with Saint Breaca in Cornwall.
 searchAliases:

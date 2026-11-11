@@ -1,5 +1,6 @@
 ---
 name: Saint Maria Mazzarello
+stub: false
 honorific: Venerable
 summary: >-
   Daughter of Giuseppe and Maddalena Mazzarello, the eldest of ten children born to a farm family in the mountains;

@@ -1,5 +1,6 @@
 ---
 name: Saint Solina of Chartres
+stub: true
 honorific: Saint
 summary: Fled to Chartres, France to avoid marriage to a pagan. Martyr.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Solina-of-Chartres.jpg

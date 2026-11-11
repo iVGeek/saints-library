@@ -1,5 +1,6 @@
 ---
 name: Blessed Burchard of Bellevaux
+stub: false
 honorific: Blessed
 summary: >-
   Cistercian monk where he was a spiritual student of Saint Bernard. Abbot of Balerne Abbey in Franche-Comté, France in

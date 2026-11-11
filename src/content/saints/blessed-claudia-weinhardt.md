@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Claudia Weinhardt
+stub: true
 honorific: Blessed
 summary: Poor Clare nun in Brixon, Italy.
 deathYear: 1643

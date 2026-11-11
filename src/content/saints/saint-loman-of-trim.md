@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Loman of Trim
+stub: false
 honorific: Saint
 summary: >-
   Son of Tigris. Nephew of Saint Patrick. He evangelized Ireland with Patrick, and converted Saint Fortchern of Trim and

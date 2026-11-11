@@ -1,5 +1,6 @@
 ---
 name: Venerable Maria Teresa Gabrieli
+stub: true
 honorific: Venerable
 summary: Co-founded the Sisters of the Poor, Palazzolo Institute.
 image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Maria-Teresa-Gabrieli.jpg

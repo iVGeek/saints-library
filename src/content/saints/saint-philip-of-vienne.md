@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Philip of Vienne
+stub: false
 honorific: Saint
 title: Bishop
 summary: >-

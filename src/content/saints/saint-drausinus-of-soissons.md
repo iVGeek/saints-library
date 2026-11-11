@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Drausinus of Soissons
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Soissons, France. Established several foundations, even getting the tyrant Ebroin, who cared nothing for the

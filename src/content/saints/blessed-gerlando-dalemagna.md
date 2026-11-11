@@ -1,5 +1,6 @@
 ---
 name: Blessed Gerlando d'Alemagna
+stub: false
 honorific: Blessed
 summary: >-
   A knight of the Order of Hospitallers of Saint John of Jerusalem (Knights of Malta), Gerlando lived in the small

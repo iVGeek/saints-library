@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Cyprien
+stub: true
 honorific: Saint
 summary: Martyr. No reliable information has survived.
 searchAliases:

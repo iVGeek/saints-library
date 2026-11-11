@@ -1,5 +1,6 @@
 ---
 name: Saint Martinian of Milan
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Milan, Italy in 423. Attended the Council of Ephesus. Fought the Nestorian heresy that denied that Mary was

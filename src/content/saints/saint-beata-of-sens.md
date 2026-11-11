@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Beata of Sens
+stub: false
 honorific: Saint
 summary: During a persecution of Christians in Spain, he fled to Sens, Gaul, which was no friendlier. Martyr.
 deathYear: 273

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/9/9f/Sarcophagus_of_Junius_Bassus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Bassus the Senator
+stub: false
 honorific: Saint
 summary: >-
   Imperial Roman senator. During the persecutions of Diocletian he was exposed as a Christian. He was removed from

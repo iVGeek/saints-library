@@ -1,5 +1,6 @@
 ---
 name: Saint Nicholas of Flüe
+stub: false
 honorific: Saint
 summary: >-
   Born to a family of relatively wealthy peasants. Soldier who distinguished himself in combat against the break-away

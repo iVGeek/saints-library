@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/d/d2/Hans_Holbein%2C_the_Younger_-_Sir_Thomas_More_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Hugh More
+stub: false
 honorific: Blessed
 summary: >-
   Educated in England at Oxford and Gray's Inn. Converted to Catholicism. Studied and was ordained at Rheims, France,

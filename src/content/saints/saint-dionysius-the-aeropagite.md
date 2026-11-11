@@ -1,5 +1,6 @@
 ---
 name: Saint Dionysius the Aeropagite
+stub: false
 honorific: Saint
 summary: >-
   Assessor of the Areopagus in Athens, Greece. Converted from paganism to Christianity by Saint Paul the Apostle (Acts

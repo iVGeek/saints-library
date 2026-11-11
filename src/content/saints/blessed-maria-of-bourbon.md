@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/b/b9/Blanche_Bourbon.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Maria of Bourbon
+stub: false
 honorific: Blessed
 summary: Related to the French royalty. Poor Clare nun at the monastery of Saint George and Santa Chiara in Amiens, France.
 deathYear: 1445

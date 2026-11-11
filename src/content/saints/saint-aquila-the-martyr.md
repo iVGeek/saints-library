@@ -1,5 +1,6 @@
 ---
 name: Saint Aquila the Martyr
+stub: true
 honorific: Saint
 summary: Married to Saint Severian. Martyr.
 died: in Julia Caesarea, Mauritania, North Africa

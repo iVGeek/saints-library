@@ -1,5 +1,6 @@
 ---
 name: Blessed William Tandi
+stub: false
 honorific: Blessed
 title: Missionary
 summary: >-

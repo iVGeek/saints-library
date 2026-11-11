@@ -1,5 +1,6 @@
 ---
 name: Blessed Christina Ciccarelli
+stub: false
 honorific: Blessed
 summary: >-
   Youngest of six children of Domenico de Pericolo. Drawn to the religious life from an early age. Augustinian recluse

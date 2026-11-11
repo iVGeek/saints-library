@@ -1,5 +1,6 @@
 ---
 name: Blessed Carmen Godoy Calvache de Coromina
+stub: false
 honorific: Blessed
 summary: >-
   Lay woman, married to Antonio María Colomina Bignati in the archdiocese of Granada, Spain. Mother of four, two of whom

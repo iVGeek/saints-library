@@ -1,5 +1,6 @@
 ---
 name: Saint Brónach of Glen-Seichis
+stub: true
 honorific: Saint
 summary: Nun. Abbess of Gleannsechis (Kill-sechis), Ireland.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Bronach.jpg

@@ -1,5 +1,6 @@
 ---
 name: Saint Bantu of Trier
+stub: true
 honorific: Saint
 summary: Sixth century priest and hermit.
 searchAliases:

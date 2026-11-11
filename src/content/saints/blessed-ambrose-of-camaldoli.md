@@ -1,5 +1,6 @@
 ---
 name: Blessed Ambrose of Camaldoli
+stub: false
 honorific: Blessed
 summary: >-
   Born to the Tuscan nobility. Studied assorted arts, sciences and languages in Venice, Italy, and would be considered a

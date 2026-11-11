@@ -1,5 +1,6 @@
 ---
 name: Saint Nicarete of Constantinople
+stub: false
 honorific: Saint
 summary: >-
   Wealthy Byzantine noble woman who lived in Constantinople in private vows of chastity, and used her position to help

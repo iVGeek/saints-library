@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Florentius of Arras
+stub: true
 honorific: Saint
 summary: Martyr.
 searchAliases:

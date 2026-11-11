@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Dorymedon the Senator
+stub: false
 honorific: Saint
 summary: Christian Roman senator. Tortured and martyred in the persecutions of Emperor Probus.
 deathYear: 277

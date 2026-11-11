@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Cronion Eunus
+stub: false
 honorific: Saint
 summary: Servant of and martyred with Saint Julian the Alexandria in the persecutions of Decius.
 searchAliases:

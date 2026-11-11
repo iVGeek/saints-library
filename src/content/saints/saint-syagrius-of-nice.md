@@ -1,5 +1,6 @@
 ---
 name: Saint Syagrius of Nice
+stub: false
 honorific: Saint
 summary: Monk at Lerins, France. Founded Saint Pons Monastery at Cimiez, France. Bishop of Nice, France in 777.
 searchAliases:

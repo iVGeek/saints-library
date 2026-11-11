@@ -1,5 +1,6 @@
 ---
 name: Saint Marcian of Venafro
+stub: true
 honorific: Saint
 summary: Soldier in the imperial Roman army. Martyred in the persecutions of Maximian.
 image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Venafro.jpg

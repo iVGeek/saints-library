@@ -1,5 +1,6 @@
 ---
 name: Saint Kuriakose Elias Chavara
+stub: false
 honorific: Venerable
 summary: >-
   Studied with a Hindu teacher until age 10, and learned a variety of languages and regional dialects. Entered the

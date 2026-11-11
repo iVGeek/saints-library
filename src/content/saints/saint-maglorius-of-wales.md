@@ -1,5 +1,6 @@
 ---
 name: Saint Maglorius of Wales
+stub: false
 honorific: Saint
 summary: >-
   Monk. Went to Brittany with Saint Samson of York. Abbot of Lammeur Abbey. Bishop of Dol, France. Built and retired to

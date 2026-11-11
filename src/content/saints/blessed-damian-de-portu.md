@@ -1,5 +1,6 @@
 ---
 name: Blessed Damian de Portu
+stub: false
 honorific: Blessed
 summary: >-
   Mercedarian friar at the convent of Saint Eulalia, Lerida, Spain. Ransomed 136 Christians who were enslaved by

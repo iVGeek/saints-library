@@ -1,5 +1,6 @@
 ---
 name: Saint Theodard of Narbonne
+stub: false
 honorific: Saint
 summary: >-
   Born to a wealthy family of the French nobility. Excellent student in both secular and Church topics; as a sub-deacon

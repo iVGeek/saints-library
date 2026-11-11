@@ -1,5 +1,6 @@
 ---
 name: Blessed Archangelus Piacentini
+stub: false
 honorific: Blessed
 summary: >-
   Born to the nobility. Known as a quiet and pious child, it was no surprise when he went to live as a hermit in a cave

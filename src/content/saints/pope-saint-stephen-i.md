@@ -1,5 +1,6 @@
 ---
 name: Pope Saint Stephen I
+stub: false
 honorific: Saint
 summary: >-
   Son of Jovius; little else known of his early life. Archdeacon under Pope Lucius I. Elected 23rd pope in 254.

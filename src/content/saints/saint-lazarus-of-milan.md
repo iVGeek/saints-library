@@ -1,5 +1,6 @@
 ---
 name: Saint Lazarus of Milan
+stub: false
 honorific: Saint
 summary: >-
   Archbishop of Milan, Italy c.439, a time when invading Ostrogoths controlled the area. May have developed and

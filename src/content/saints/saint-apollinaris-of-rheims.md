@@ -1,5 +1,6 @@
 ---
 name: Saint Apollinaris of Rheims
+stub: false
 honorific: Saint
 summary: >-
   Jailer in Rheims, France. A spectator at the martyrdom of Saint Timothy, Apollinaris was so moved by the Timothy's

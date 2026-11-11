@@ -1,5 +1,6 @@
 ---
 name: Blessed Frederick of Hirsau
+stub: false
 honorific: Blessed
 summary: >-
   Born to the Swabian nobility. Benedictine monk at Einsideln, Germany. First abbot of the reconstructed Hirsau

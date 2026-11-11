@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Gerard of La-Charite
+stub: false
 honorific: Saint
 summary: >-
   Benedictine monk. Prior of the Cluniac house of La-Charite-sur-Loire, diocese of Namur in modern France. He founded

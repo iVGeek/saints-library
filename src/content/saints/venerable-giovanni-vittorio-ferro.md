@@ -1,5 +1,6 @@
 ---
 name: Venerable Giovanni Vittorio Ferro
+stub: false
 honorific: Venerable
 summary: >-
   The son of Giovanni Battista Ferro, a shoemaker, and Carlotta Borio, Giovanni studied in Milan, Turin and Rome, Italy.

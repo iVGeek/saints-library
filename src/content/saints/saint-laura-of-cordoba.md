@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Laura of Cordoba
+stub: false
 honorific: Saint
 summary: >-
   Married. Widow. Nun and then abbess at Cuteclara during the period of Moorish occupation of Spain. Killed by Muslim

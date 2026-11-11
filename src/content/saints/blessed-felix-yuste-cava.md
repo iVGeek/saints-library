@@ -1,5 +1,6 @@
 ---
 name: Blessed Félix Yuste Cava
+stub: false
 honorific: Blessed
 summary: >-
   Known as a pious child. Studied at the seminary of Valencia, Spain, and at the Spanish College and Gregorian

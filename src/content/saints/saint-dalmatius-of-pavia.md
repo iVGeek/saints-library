@@ -1,5 +1,6 @@
 ---
 name: Saint Dalmatius of Pavia
+stub: false
 honorific: Saint
 summary: >-
   Raised a pagan. Adult convert to Christianity. Preached in Gaul and northern Italy. Bishop of Pavia, Italy for the

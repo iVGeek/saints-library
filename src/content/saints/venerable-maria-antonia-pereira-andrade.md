@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Venerable María Antonia Pereira Andrade
+stub: true
 honorific: Venerable
 summary: Discaled Carmelite nun.
 searchAliases:

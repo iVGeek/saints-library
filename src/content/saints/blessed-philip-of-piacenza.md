@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/7/7d/San_Corado_nella_Cattedrale_di_Noto.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Philip of Piacenza
+stub: false
 honorific: Blessed
 summary: >-
   Priest. Augustinian hermit at Piacenza, Italy. Wore iron armor at all times as a way of reducing his concern for

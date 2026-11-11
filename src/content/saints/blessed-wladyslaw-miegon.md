@@ -1,5 +1,6 @@
 ---
 name: Blessed Wladyslaw Miegon
+stub: false
 honorific: Blessed
 summary: >-
   Priest in the military ordinariate of Poland. Military chaplain. Deported, imprisoned, tortured and martyred in the

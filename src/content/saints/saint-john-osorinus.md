@@ -1,5 +1,6 @@
 ---
 name: Saint John Osorinus
+stub: false
 honorific: Saint
 summary: >-
   Hermit at the Camaldolese monastery at Ossero on the island of Cres. First bishop of Trogir (in modern Croatia)

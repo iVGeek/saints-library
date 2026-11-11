@@ -1,5 +1,6 @@
 ---
 name: Saint Agilo of Sithin
+stub: false
 honorific: Saint
 summary: >-
   Monk at Saint Aper Abbey in Toul, France. Reforming abbot at Saint Bertin Abbey in Sithin, France where he worked to

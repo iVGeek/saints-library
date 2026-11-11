@@ -1,5 +1,6 @@
 ---
 name: Saint Argyrus of Africa
+stub: false
 honorific: Saint
 summary: One of eight Christians martyred together in Africa, date unknown. No other information has survived.
 region: Africa

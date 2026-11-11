@@ -1,5 +1,6 @@
 ---
 name: Blessed André Grasset de Saint-Sauveur
+stub: false
 honorific: Blessed
 summary: >-
   Immigrant from Canada to France where he served as a priest in the archdiocese of Sens and canon of the cathedral

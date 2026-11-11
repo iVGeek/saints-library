@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Colomba of Mount Brancastello
+stub: false
 honorific: Blessed
 summary: >-
   Born to the nobility, she was the daughter of the count of Pagliara, Italy, and sister of Saint Bernard Valeara of

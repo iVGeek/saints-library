@@ -1,5 +1,6 @@
 ---
 name: Saint Margaret Clitherow
+stub: false
 honorific: Saint
 summary: >-
   Daughter of Thomas and Jane Middleton, a candle maker and the Sheriff of York for two years. Raised Anglican. Married

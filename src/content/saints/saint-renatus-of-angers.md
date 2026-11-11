@@ -1,5 +1,6 @@
 ---
 name: Saint Renatus of Angers
+stub: true
 honorific: Saint
 summary: Bishop of Angers, France.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Renatus-of-Angers.jpg

@@ -1,5 +1,6 @@
 ---
 name: Saint Zenone of Nicomedia
+stub: false
 honorific: Saint
 summary: Father of Saint Theodore of Nicomedia and Saint Concordius of Nicomedia. Martyred in the persecutions of Diocletian.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Zenone-of-Nicomedia.jpg

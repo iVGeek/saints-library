@@ -1,5 +1,6 @@
 ---
 name: Blessed Ramón Emiliano Hortelano Gómez
+stub: false
 honorific: Blessed
 summary: Married layman in the diocese of Cuenca, Spain. Martyred in the Spanish Civil War.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Ramon-Emiliano-Hortelano-Gomez.jpg

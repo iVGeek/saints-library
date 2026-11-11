@@ -1,5 +1,6 @@
 ---
 name: Venerable Rocco Giocondo Pasquale Spoletini
+stub: false
 honorific: Venerable
 summary: >-
   Born to a peasant family. Attracted to Franciscan spirituality, in 1888, at age 18, Rocco joined the Order of Friars

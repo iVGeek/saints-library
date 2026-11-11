@@ -1,5 +1,6 @@
 ---
 name: Saint Sulpicius of Bourges
+stub: false
 honorific: Saint
 summary: >-
   Born wealthy. Decided young to live celibately, and devoted himself to charity. Bishop of Bourges, France in 624.

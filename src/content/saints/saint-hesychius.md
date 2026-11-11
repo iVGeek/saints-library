@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Hesychius
+stub: true
 honorific: Saint
 summary: Fled to Macedonia to escape the persecutions in Italy, but martyred en route.
 deathYear: 117

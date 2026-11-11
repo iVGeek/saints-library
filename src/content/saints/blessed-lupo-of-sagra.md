@@ -1,5 +1,6 @@
 ---
 name: Blessed Lupo of Sagra
+stub: false
 honorific: Blessed
 summary: >-
   Mercedarian friar. Assigned to Granada, Spain, in 1428 he ransomed more than 300 Christians who had been enslaved by

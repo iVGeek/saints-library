@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Richard of Vaucelles
+stub: false
 honorific: Saint
 summary: Cistercian monk. Appointed abbot of Vaucelles Abbey, France, by Saint Bernard of Clairvaux.
 deathYear: 1169

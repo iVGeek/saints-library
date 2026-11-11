@@ -1,5 +1,6 @@
 ---
 name: Saint Amatus of Sion
+stub: false
 honorific: Saint
 summary: >-
   Monk. Abbot at Agaunum, Switzerland. Bishop of Sion, Switzerland. Due to a false accusation, he was exiled from his

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Venerable Jan Leopold Tyranowski
+stub: true
 honorific: Venerable
 summary: Layman of the archdiocese of Kraków, Poland.
 birthYear: 1901

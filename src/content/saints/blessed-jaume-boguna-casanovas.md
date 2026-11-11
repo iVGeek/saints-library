@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Jaume Boguñá Casanovas
+stub: false
 honorific: Blessed
 summary: >-
   Franciscan Capuchin, making his profession on 18 April 1915. Ordained a priest on 5 May 1918. Imprisoned and murdered

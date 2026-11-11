@@ -1,5 +1,6 @@
 ---
 name: Saint Illuminata of Todi
+stub: true
 image: >-
   https://commons.wikimedia.org/wiki/Special:FilePath/Chiesa_di_San_Salvatore_di_Canzano_-_Sant%2527Illuminata_di_Todi.jpg?width=600
 honorific: Saint

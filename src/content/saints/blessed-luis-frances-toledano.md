@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/0/08/Roma_martires_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Luis Francés Toledano
+stub: false
 honorific: Blessed
 summary: >-
   Member of the Claretians, professed on 31 August 1926. Ordained a priest on 26 May 1934. Martyred in the Spanish Civil

@@ -1,5 +1,6 @@
 ---
 name: Blessed Ramón Eirin Mayo
+stub: false
 honorific: Blessed
 summary: >-
   Studied at the Salesian college in La Coruña, Spain. Member of the Salesians, taking his vows on 10 October 1930.

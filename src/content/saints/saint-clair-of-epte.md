@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Clair of Epte
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility, Clair felt a call to religious life, and lived at home much like a monk. His father arranged a

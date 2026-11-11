@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Julian of Damascus
+stub: true
 honorific: Saint
 summary: Martyr.
 born: Syria

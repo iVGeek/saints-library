@@ -1,5 +1,6 @@
 ---
 name: Blessed José Villanova Tormo
+stub: false
 honorific: Blessed
 summary: >-
   Baptized at the age of two days, José joined the Salesians of Don Bosco in his late teens; he made his profession 25

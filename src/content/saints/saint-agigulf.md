@@ -1,5 +1,6 @@
 ---
 name: Saint Agigulf of Cologne
+stub: false
 honorific: Saint
 summary: >-
   Educated at the Benedictine monastery of Stavelot-Malmédy (in modern Belgium) where he became monk and later abbot.

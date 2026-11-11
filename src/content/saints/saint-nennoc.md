@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/9/95/Ninnoc.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Nennoc
+stub: false
 honorific: Saint
 summary: >-
   Daughter of Saint Brychan of Brycheiniog. Nun who followed Saint Germanus of Auxerre to France. Abbess of one or more

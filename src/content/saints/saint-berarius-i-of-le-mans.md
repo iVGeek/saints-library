@@ -1,5 +1,6 @@
 ---
 name: Saint Berarius I of Le Mans
+stub: false
 honorific: Saint
 title: Bishop
 summary: Bishop of Le Mans, France. Translated the relics of Saint Scholastica from Monte Cassino to Le Mans.

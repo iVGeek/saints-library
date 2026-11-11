@@ -1,5 +1,6 @@
 ---
 name: Saint Alto of Altomünster
+stub: false
 honorific: Saint
 summary: >-
   Hermit in a forest near Augsburg, Germany. His reputation for holiness attracted would-be spiritual students; to house

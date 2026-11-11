@@ -1,5 +1,6 @@
 ---
 name: Saint Maro
+stub: false
 honorific: Saint
 summary: >-
   Hermit who lived near the Orontes River at Cyrrhus, generally in the open with no shelter. When he found a pagan

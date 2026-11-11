@@ -1,5 +1,6 @@
 ---
 name: Saint Gregory of Ostia
+stub: false
 honorific: Saint
 summary: >-
   Benedictine monk. Priest. Abbot of the monastery of Saints Cosma e Damiano ad Micam auream, Rome, Italy. Chosen

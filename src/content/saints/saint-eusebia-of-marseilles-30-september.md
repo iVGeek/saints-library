@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Eusebia of Marseilles
+stub: true
 honorific: Saint
 summary: Nun in Marseilles, Provence, France.
 deathYear: 497

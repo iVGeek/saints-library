@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Cremete
+stub: false
 honorific: Saint
 summary: >-
   Hermit in an ruined hermitage between Mount Etna and the Placa Forest during a period when Sicily was under Saracen

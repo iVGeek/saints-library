@@ -1,5 +1,6 @@
 ---
 name: Saint Agrippina of Rome
+stub: false
 honorific: Saint
 summary: >-
   Born to the imperial Roman nobility. Consecrated virgin, the closest thing at that time to a nun. Tortured and

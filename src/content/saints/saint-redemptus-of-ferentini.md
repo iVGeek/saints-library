@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Redemptus of Ferentini
+stub: true
 honorific: Saint
 summary: Bishop of Ferentini, Italy.
 deathYear: 586

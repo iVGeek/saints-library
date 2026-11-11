@@ -1,5 +1,6 @@
 ---
 name: Pope Leo VI
+stub: false
 honorific: Saint
 summary: >-
   Son of Christopher who had been prime minister to Pope John VIII. Cardinal-priest of Saint Susanna. 123rd pope. Little

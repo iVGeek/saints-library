@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint James the Confessor
+stub: true
 honorific: Saint
 summary: Martyred for opposing iconoclasm.
 deathYear: 824

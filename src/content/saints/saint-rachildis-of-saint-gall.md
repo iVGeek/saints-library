@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/1/1b/Wiborada1430.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Rachildis of Saint-Gall
+stub: false
 honorific: Saint
 summary: >-
   Benedictine anchoress who lived walled up in a cell near Saint Wiborada, under obedience to the abbot of Saint Gall in

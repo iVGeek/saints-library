@@ -1,5 +1,6 @@
 ---
 name: Saint Evan of Ayrshire
+stub: false
 honorific: Saint
 summary: >-
   Pilgrim to Rome and Jerusalem. Hermit at Ayrshire, Scotland where several wells are named for him, and churches

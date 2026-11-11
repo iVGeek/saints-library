@@ -1,5 +1,6 @@
 ---
 name: Saint Laura of Saint Catherine of Siena
+stub: false
 honorific: Venerable
 summary: >-
   Educated at the Holy Spirit School in Amalfi, Colombia, and in Medell&iacute;n, Colombia. Teacher. Beginning in 1908,

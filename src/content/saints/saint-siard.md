@@ -1,5 +1,6 @@
 ---
 name: Saint Siard
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility of Friesland (an area of modern Netherlands). Studied at the abbey school of Mariëngaarde,

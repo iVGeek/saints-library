@@ -1,5 +1,6 @@
 ---
 name: Blessed Klara Szczesna
+stub: false
 honorific: Blessed
 summary: >-
   Sixth of seven children of Anthony and Frances, née Skorupska; baptized in the parish church in Lubowidzu, Poland, and

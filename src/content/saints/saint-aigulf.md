@@ -1,5 +1,6 @@
 ---
 name: Saint Aigulf
+stub: false
 honorific: Saint
 summary: >-
   Benedictine monk at Fleury, France. He led a party of monks sent to retrieve the relics of Saint Bernard from the

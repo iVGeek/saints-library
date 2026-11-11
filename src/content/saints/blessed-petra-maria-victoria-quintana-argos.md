@@ -1,5 +1,6 @@
 ---
 name: Blessed Petra María Victoria Quintana Argos
+stub: false
 honorific: Blessed
 summary: >-
   Daughter of Antonio Quintana and Luisa Cuesta de Argos Cabanzón. Joined the Capuchin Tertiary Sisters of the Holy

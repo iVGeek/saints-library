@@ -1,5 +1,6 @@
 ---
 name: Saint Fronto of Périgueux
+stub: true
 honorific: Saint
 summary: Third-century missionary bishop of the Périgueux region of France.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Fronto-of-Périgueux.jpg

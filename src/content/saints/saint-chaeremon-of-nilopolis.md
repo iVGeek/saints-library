@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Chaeremon of Nilopolis
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Nilopolis, Egypt, a small island in the middle of the River Nile south of Memphis. He was a very old man

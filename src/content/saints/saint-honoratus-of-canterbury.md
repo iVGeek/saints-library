@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Honoratus of Canterbury
+stub: false
 honorific: Saint
 summary: >-
   Benedictine monk. Missionary to England by order of Pope Gregory the Great, and at the request of Saint Augustine of

@@ -1,5 +1,6 @@
 ---
 name: Saint Irmina of Oehren
+stub: false
 honorific: Saint
 summary: >-
   Daughter of Saint Dagobert II and the Anglo-Saxon princess Matilda. Sister of Saint Adela of Pfalzel. Grand-daughter

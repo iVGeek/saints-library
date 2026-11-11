@@ -1,5 +1,6 @@
 ---
 name: Martyrs of Pannonia
+stub: true
 honorific: Saint
 summary: Seven virgin-martyrs in Sirmium, Pannonia (modern Sremska Mitrovica, Serbia).
 region: England

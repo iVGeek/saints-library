@@ -1,5 +1,6 @@
 ---
 name: Saint Ioannes Baptista Luo Tingyin
+stub: false
 honorific: Venerable
 summary: Married layman servant in the apostolic vicariate of Guizhou, China. Convert. Martyr. One of the Martyrs of China.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Ioannes-Baptista-Luo-Tingyin.jpg

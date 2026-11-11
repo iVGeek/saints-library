@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Peter of Cordoba
+stub: false
 honorific: Saint
 summary: Priest in Moorish-occupied Cordoba, Spain. Martyred in the persecutions of Abderrahman for denouncing Mohammed.
 deathYear: 851

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Giuliano Mayali
+stub: false
 honorific: Blessed
 summary: >-
   Feeling a call to the contemplative religious life of a hermit, Giuliano became a Benedictine monk at Santa Maria

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Ulric of Ratzeburg
+stub: false
 honorific: Blessed
 summary: >-
   Born to the nobility. Premonstratensian canon at the monastery of Ratzeburg, Germany. Priest. Bishop of Ratzeburg in

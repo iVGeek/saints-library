@@ -1,5 +1,6 @@
 ---
 name: Saint Emilian Cucullatus
+stub: false
 honorific: Saint
 summary: >-
   Born to a poor farm family. Worked as a shepherd in La Rioja, Spain. Hermit. Priest. Parish priest in Berceo, Spain

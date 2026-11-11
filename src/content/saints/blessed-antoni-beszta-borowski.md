@@ -1,5 +1,6 @@
 ---
 name: Blessed Antoni Beszta-Borowski
+stub: false
 honorific: Blessed
 summary: >-
   Parish priest in Bielsk Podlaski and vicar-general of the diocese of Pinsk, Poland. In both positions he was noted for

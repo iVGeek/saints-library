@@ -1,5 +1,6 @@
 ---
 name: Blessed Mario Ghibaudo
+stub: false
 honorific: Blessed
 summary: >-
   Ordained a priest of the diocese of Cuneo, Italy on 19 June 1943. He was assigned to a parish in Boves, Italy, where

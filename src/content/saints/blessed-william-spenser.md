@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/7/71/The_Faerie_Queene_frontispiece.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed William Spenser
+stub: false
 honorific: Blessed
 summary: >-
   Raised in an Anglican family. Studied at Trinity College, Oxford, England but left in 1580 and joined the Catholic

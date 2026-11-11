@@ -1,5 +1,6 @@
 ---
 name: Blessed Juan Tapia
+stub: true
 honorific: Blessed
 title: Missionary
 summary: Mercedarian friar. Missionary to Guatemala. Leader of his convent.

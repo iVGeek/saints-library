@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/b/b8/Plaque_to_Robert_Hawker_in_Charles_Church_Plymouth.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Eulalia de Pinos
+stub: false
 honorific: Blessed
 summary: >-
   Born to the nobility, Eulalia renounced wealth and worldly life, and joined the Mercedarians in Barcelona, Spain in

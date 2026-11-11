@@ -1,5 +1,6 @@
 ---
 name: Blessed John Eustace
+stub: false
 honorific: Blessed
 summary: >-
   Canon regular at Mons, Belgium. Benedictine Cistercian monk. First abbot at Jardinet Abbey in the diocese of Namur,

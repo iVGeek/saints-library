@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Fulgentius of Quesada
+stub: false
 honorific: Blessed
 summary: >-
   Born to the Spanish nobility, Fulgentius became a Mercedarian friar. In 1282 he was assigned by Blessed Peter de Amer

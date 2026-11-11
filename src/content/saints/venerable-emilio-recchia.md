@@ -1,5 +1,6 @@
 ---
 name: Venerable Emilio Recchia
+stub: false
 honorific: Venerable
 summary: >-
   Emilio joined the Congregation of the Stigmata of Our Lord Jesus Christ in 1903 at age 17 while still in high school,

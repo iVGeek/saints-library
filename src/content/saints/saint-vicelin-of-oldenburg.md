@@ -1,5 +1,6 @@
 ---
 name: Saint Vicelin of Oldenburg
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility and orphaned young. Studied at Hameln, Germany and in the cathedral school of Paderborn, Germany.

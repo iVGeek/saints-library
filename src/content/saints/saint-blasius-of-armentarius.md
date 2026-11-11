@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Blasius of Armentarius
+stub: false
 honorific: Saint
 summary: >-
   Third century shepherd in the area of Armentarius, Cappadocia (an area of modern Turkey) whose reputation for piety

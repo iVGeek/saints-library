@@ -1,5 +1,6 @@
 ---
 name: Saint Abibus of Edessa
+stub: false
 honorific: Saint
 summary: >-
   Fourth-century deacon in Edessa, Syria. Friend of Saint Shamuna and Saint Gurias, he escaped execution in the

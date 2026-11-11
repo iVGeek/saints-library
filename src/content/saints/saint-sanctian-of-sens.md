@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Sanctian of Sens
+stub: false
 honorific: Saint
 summary: >-
   Brother of Saint Augustine of Sens and Saint Benedicta of Sens. During the persecution of Christians in Spain by

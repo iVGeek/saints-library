@@ -1,5 +1,6 @@
 ---
 name: Saint Virginia of Ste-Verge
+stub: true
 honorific: Saint
 title: Virgin
 summary: Shepherdess in the area of Poitou, France.

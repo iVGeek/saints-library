@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Sylvain
+stub: false
 honorific: Saint
 summary: >-
   6th century hermit near the village of Saint-Pierre-sur-Erve, diocese of Laval, France. A chapel dedicated to him in

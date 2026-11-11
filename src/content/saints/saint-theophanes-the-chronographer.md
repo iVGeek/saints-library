@@ -1,5 +1,6 @@
 ---
 name: Saint Theophanes the Chronographer
+stub: false
 honorific: Saint
 summary: >-
   Educated at the Byzantine imperial court. Married layman. Both he and his wife entered religious life. Founded two

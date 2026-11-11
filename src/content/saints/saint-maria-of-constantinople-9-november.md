@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Maria of Constantinople
+stub: false
 honorific: Saint
 summary: >-
   Member of the imperial patrician class. One of a group of ten Catholic Christians who tried to defend an image of

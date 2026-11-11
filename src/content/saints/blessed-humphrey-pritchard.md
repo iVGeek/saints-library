@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/7/77/Plaque_in_honor_of_Blessed_George_Haydock.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Humphrey Pritchard
+stub: false
 honorific: Blessed
 summary: >-
   Layman. Studied at the University of Oxford, England. Worked at the Catherine Wheel Inn, Saint Giles', Oxford for

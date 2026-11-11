@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/4f/Frm_beatification_banner.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Antoine-Charles-Octavien du Bouzet
+stub: false
 honorific: Blessed
 summary: >-
   Born to the French nobility, Antoine began studying at the San Sulpizius seminary in Paris, France in 1759. Priest in

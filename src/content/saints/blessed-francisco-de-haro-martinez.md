@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/8/85/Arquidi%C3%B3cesis_de_M%C3%A9xico.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Francisco de Haro Martínez
+stub: true
 honorific: Blessed
 summary: Priest of the diocese of Almería, Spain. Martyred in the Spanish Civil War.
 birthYear: 1886

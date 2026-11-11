@@ -1,5 +1,6 @@
 ---
 name: Saint Agathangelus
+stub: false
 honorific: Saint
 summary: >-
   Adult convert to Christianity, baptized by Saint Clement of Ancyra. Deacon. Evangelized in Ancyra (in modern Turkey)

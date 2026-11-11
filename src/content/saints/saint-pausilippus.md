@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Pausilippus
+stub: true
 honorific: Saint
 summary: Martyred in the persecutions of Emperor Hadrian.
 deathYear: 130

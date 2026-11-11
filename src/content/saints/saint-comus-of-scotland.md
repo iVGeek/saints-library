@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Comus of Scotland
+stub: true
 honorific: Saint
 summary: 6th-century monk and abbot in Scotland.
 searchAliases:

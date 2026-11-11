@@ -1,5 +1,6 @@
 ---
 name: Venerable Pietro di Vitale
+stub: false
 honorific: Venerable
 summary: >-
   Sixth of eight boys born to the poor but pious peasant family of Vitale and Anna Scimeca; Pietro was baptized at the

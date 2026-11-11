@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Justina of Constantinople
+stub: true
 honorific: Saint
 summary: Martyred maiden. No other information has survived.
 region: Turkey

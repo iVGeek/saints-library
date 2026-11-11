@@ -1,5 +1,6 @@
 ---
 name: Venerable Felice Canelli
+stub: false
 honorific: Venerable
 summary: >-
   Born to a very poor family, Felice early felt a call to religion, entered the minor seminary at age 12 and was

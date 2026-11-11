@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Dioscorus of Pergen
+stub: true
 honorific: Saint
 summary: Martyred in the persecutions of Emperor Elagabalus.
 deathYear: 220

@@ -1,5 +1,6 @@
 ---
 name: Saint Eutychius
+stub: true
 honorific: Saint
 summary: Priest. Martyr. No other information has survived.
 died: at Ankara, Galatia (modern Turkey)

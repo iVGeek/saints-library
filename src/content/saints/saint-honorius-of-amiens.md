@@ -1,5 +1,6 @@
 ---
 name: Saint Honorius of Amiens
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility. Known as a pious child, he was educated by Saint Beatus of Amiens. Reluctant bishop of Amiens,

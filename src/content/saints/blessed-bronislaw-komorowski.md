@@ -1,5 +1,6 @@
 ---
 name: Blessed Bronislaw Komorowski
+stub: false
 honorific: Blessed
 summary: >-
   Son of Jan Komorowski and Katarzyna née Gencza who had eleven children between them. Priest in the archdiocese of

@@ -1,5 +1,6 @@
 ---
 name: Saint Eulogius of Alexandria
+stub: false
 honorific: Saint
 summary: One of 12 Christian companions marytred together. No other information has survived.
 died: Alexandria, Egypt, date unknown

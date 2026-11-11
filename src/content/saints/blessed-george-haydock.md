@@ -1,5 +1,6 @@
 ---
 name: Blessed George Haydock
+stub: false
 honorific: Blessed
 summary: >-
   Youngest son of Evan and Helen Haydock. Educated at the English College in Douai, France, and the English College in

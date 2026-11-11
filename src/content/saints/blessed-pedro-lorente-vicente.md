@@ -1,5 +1,6 @@
 ---
 name: Blessed Pedro Lorente Vicente
+stub: false
 honorific: Blessed
 summary: >-
   Baptized at the age of four days. Member of the Brothers of the Christian Schools, joining on 7 November 1925 at

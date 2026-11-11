@@ -1,5 +1,6 @@
 ---
 name: Pope Saint John Paul II
+stub: false
 honorific: Venerable
 summary: >-
   For many years Karol believed God was calling him to the priesthood, and after surviving two nearly fatal accidents,

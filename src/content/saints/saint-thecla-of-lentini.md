@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Thecla of Lentini
+stub: false
 honorific: Saint
 summary: >-
   Daughter of Saint Isidore of Lentini; niece of Saint Neofyta; cousin of Saint Neofytus. Thecla was a consecrated

@@ -1,5 +1,6 @@
 ---
 name: Saint Andrew of Florence
+stub: false
 image: >-
   https://commons.wikimedia.org/wiki/Special:FilePath/Stained_glass_with_St._Andrew_in_Pazzi_Chapel._Basilica_Santa_Croce_in_Florence%252C_Italy.jpg?width=600
 honorific: Saint

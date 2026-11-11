@@ -1,5 +1,6 @@
 ---
 name: Blessed Peter of Città di Castello
+stub: false
 honorific: Blessed
 summary: >-
   Joined the reformed Dominican priory of Cortona, Italy at age 15. Ordained in Cortona. Known for his deep life of

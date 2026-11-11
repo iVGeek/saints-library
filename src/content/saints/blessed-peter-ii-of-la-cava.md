@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/f/fc/Saint_Bruno%2C_Bishop_of_Segni.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Peter II of La Cava
+stub: false
 honorific: Blessed
 summary: >-
   Benedictine monk at Santissima Trinita monastery, Cava dei Tirreni, Salerno, Campania, Italy under the leadership of

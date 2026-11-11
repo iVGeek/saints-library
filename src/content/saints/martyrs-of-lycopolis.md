@@ -1,5 +1,6 @@
 ---
 name: Martyrs of Lycopolis
+stub: false
 honorific: Saint
 summary: >-
   Five foot soldiers and their commander who were martyred for their faith by order of the imperial Roman prefect

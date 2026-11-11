@@ -1,5 +1,6 @@
 ---
 name: Saint Anastasius the Fuller
+stub: false
 honorific: Saint
 summary: >-
   Born a wealthy Aquileian noble family. After reading Saint Paul's advice to the Thessalonians that it's best to work

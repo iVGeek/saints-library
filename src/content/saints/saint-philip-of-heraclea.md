@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Philip of Heraclea
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Heraclea (modern Marmara Ereğlisi, Turkey). Arrested with several of his clerics in the persecutions of

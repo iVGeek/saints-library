@@ -1,5 +1,6 @@
 ---
 name: Venerable Geevarghese Thomas Panikkervettil
+stub: false
 honorific: Venerable
 summary: >-
   Son of Thomas Panicker and Annamma Panicker. Attending Madras Christian College as an ordained deacon in the Malankara

@@ -1,5 +1,6 @@
 ---
 name: Saint Theonestus of Philippi
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Philippi in Macedonia. Exiled by Arians. Missionary to the area of modern Germany where he worked with Saint

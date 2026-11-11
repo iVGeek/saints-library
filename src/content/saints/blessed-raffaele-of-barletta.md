@@ -1,5 +1,6 @@
 ---
 name: Blessed Raffaele of Barletta
+stub: false
 honorific: Blessed
 title: Virgin
 summary: >-

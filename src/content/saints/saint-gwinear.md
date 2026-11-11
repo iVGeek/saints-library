@@ -1,5 +1,6 @@
 ---
 name: Saint Gwinear
+stub: false
 honorific: Saint
 summary: >-
   Son of the pagan King Clito of Ireland. When Saint Patrick arrived at Clito's court, the king was hostile; Gwinear

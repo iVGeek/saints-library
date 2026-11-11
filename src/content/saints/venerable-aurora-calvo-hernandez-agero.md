@@ -1,5 +1,6 @@
 ---
 name: Venerable Aurora Calvo Hernández-Agero
+stub: false
 honorific: Venerable
 summary: >-
   Raised in deeply religious family, Aurora was educated at the Collegio della Religiose della Sacra Famiglia di Béjar

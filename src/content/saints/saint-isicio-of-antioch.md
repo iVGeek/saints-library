@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/a/a2/Museu_Alberto_Sampaio-S%C3%A3o_Torcato.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Isicio of Antioch
+stub: true
 honorific: Saint
 summary: Priest. Martyr.
 died: Antioch, Syria

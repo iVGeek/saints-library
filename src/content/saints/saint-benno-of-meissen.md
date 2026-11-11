@@ -1,5 +1,6 @@
 ---
 name: Saint Benno of Meissen
+stub: false
 honorific: Saint
 summary: >-
   Born to the Saxon nobility, the son of Blessed Bezela of Goda; as an adult he was heavily involved in the power

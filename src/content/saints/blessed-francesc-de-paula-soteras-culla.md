@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Francesc de Paula Soteras Culla
+stub: false
 honorific: Blessed
 summary: >-
   Franciscan Capuchin, professed on 13 April 1923. Ordained a priest on 1 February 1925. Murdered by Marxists in the

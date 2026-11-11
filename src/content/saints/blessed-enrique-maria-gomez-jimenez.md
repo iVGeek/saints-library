@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/f/fd/Cathedral_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Enrique María Gómez Jiménez
+stub: false
 honorific: Blessed
 summary: >-
   Baptized at the age of two days. After studying at the seminary of Saint Julian, he was ordained a priest in the

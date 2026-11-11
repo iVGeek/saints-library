@@ -1,5 +1,6 @@
 ---
 name: Blessed Albert of Siena
+stub: false
 image: https://commons.wikimedia.org/w/resources/assets/file-type-icons/fileicon-ogg.png
 honorific: Blessed
 title: Hermit

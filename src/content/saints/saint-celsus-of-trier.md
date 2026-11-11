@@ -1,5 +1,6 @@
 ---
 name: Saint Celsus of Trier
+stub: false
 honorific: Saint
 title: Bishop
 summary: Born to the nobility. Bishop of Trier, Germany, serving for 14 years, converting many in his diocese.

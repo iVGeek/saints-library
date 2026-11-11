@@ -1,5 +1,6 @@
 ---
 name: Saint Agrippinus of Naples
+stub: true
 honorific: Saint
 summary: Bishop of Naples, Italy.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Agrippinus-of-Naples.jpg

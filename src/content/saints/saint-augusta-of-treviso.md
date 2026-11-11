@@ -1,5 +1,6 @@
 ---
 name: Saint Augusta of Treviso
+stub: false
 honorific: Saint
 summary: >-
   Fifth century daughter of the Teutonic duke of Friuli. Convert to Christianity. Killed by her father with his own

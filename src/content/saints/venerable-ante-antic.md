@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Venerable Ante Antic
+stub: true
 honorific: Venerable
 summary: Franciscan Friar Minor. Priest.
 birthYear: 1893

@@ -1,5 +1,6 @@
 ---
 name: Saint Ebrulf of Ouche
+stub: false
 honorific: Saint
 summary: >-
   Merovingian courtier. A married layman, he made financial arrangements for his wife, who may have later become a nun,

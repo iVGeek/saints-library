@@ -1,5 +1,6 @@
 ---
 name: Saint Athanasius the Athonite
+stub: false
 honorific: Saint
 summary: >-
   Studied at Constantinople. Monk at Saint Michael's monastery, Kymina, Bithynia, taking the name Athanasius. Fearing

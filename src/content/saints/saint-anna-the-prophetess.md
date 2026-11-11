@@ -1,5 +1,6 @@
 ---
 name: Saint Anna the Prophetess
+stub: false
 honorific: Saint
 summary: >-
   Jewish, the daughter of Phanuel, tribe of Aser. Married at age fourteen; widowed at twenty-one. At age 72 she was

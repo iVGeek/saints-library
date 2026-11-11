@@ -1,5 +1,6 @@
 ---
 name: Saint Equizio of Telese
+stub: true
 honorific: Saint
 title: Deacon
 summary: Deacon to Saint Palerio of Telese.

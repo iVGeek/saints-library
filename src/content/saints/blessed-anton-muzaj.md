@@ -1,5 +1,6 @@
 ---
 name: Blessed Anton Muzaj
+stub: false
 honorific: Blessed
 summary: >-
   Studied at the Pontifical French Seminary in Shkodrë, Albania, then in 1938 in Rome, Italy at the Congregation

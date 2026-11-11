@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/2/24/Secret_Society_Buildings_New_Haven.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed David of Himmerod
+stub: false
 honorific: Blessed
 summary: >-
   Studied in Paris, France. Benedictine Cistercian monk at Clairvaux Abbey in 1131; spiritual student of Saint Bernard

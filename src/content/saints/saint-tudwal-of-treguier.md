@@ -1,5 +1,6 @@
 ---
 name: Saint Tudwal of Tréguier
+stub: false
 honorific: Saint
 summary: >-
   Son of King Hoel I and Saint Koupaïa; cousin of King Deroc of Dumnonia. Monk in Wales. Friend and co-worker with Saint

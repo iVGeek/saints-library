@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Eufrasio of Ilitirgi
+stub: true
 honorific: Saint
 summary: Early missionary and bishop of Iliturgi (modern Andújar, Spain).
 region: Spain

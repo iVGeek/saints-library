@@ -1,5 +1,6 @@
 ---
 name: Saint Ruggero of Canne
+stub: false
 honorific: Saint
 summary: >-
   Pious youth. Deacon. Reluctant bishop of Canne, Italy at age 30. Legend says that when he travelled his diocese, an

@@ -1,5 +1,6 @@
 ---
 name: Saint Trudo of Hesbaye
+stub: false
 honorific: Saint
 summary: >-
   Son of Blessed Adela. Related to the dukes of Austrasia. Benedictine monk under Saint Remaclus. Studied at the

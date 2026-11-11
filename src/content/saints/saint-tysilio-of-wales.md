@@ -1,5 +1,6 @@
 ---
 name: Saint Tysilio of Wales
+stub: false
 honorific: Saint
 summary: >-
   Born to the Welsh royalty, the son of prince Brochwel Ysgythrog. Monk, and then abbot in Meifod, Montgomeryshire,

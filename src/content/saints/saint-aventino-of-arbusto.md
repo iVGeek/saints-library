@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Aventino of Arbusto
+stub: false
 honorific: Saint
 summary: >-
   Hermit in the Arbusto Valley of the Pyrenees region of France. He spent most of his time in prayer, but would

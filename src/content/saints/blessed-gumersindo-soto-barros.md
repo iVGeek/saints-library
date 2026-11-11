@@ -1,5 +1,6 @@
 ---
 name: Blessed Gumersindo Soto Barros
+stub: false
 honorific: Blessed
 summary: Dominican brother, professed on 27 November 1899 in Padrón, Galicia, Spain. Martyred in the Spanish Civil War.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Gumersindo-Soto-Barros.jpg

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/0/08/Josemaria_Escriva.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Justo Ramón Piedrafita
+stub: false
 honorific: Blessed
 summary: >-
   Married layman in the archdiocese of Madrid, Spain. Member of the Association of the Miraculous Medal. Martyred in the

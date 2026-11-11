@@ -1,5 +1,6 @@
 ---
 name: Saint Bonaventure of Bagnoregio
+stub: false
 honorific: Saint
 title: St. Bonaventure of Bagnoregio
 summary: >-

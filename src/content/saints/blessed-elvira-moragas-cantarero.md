@@ -1,5 +1,6 @@
 ---
 name: Blessed Elvira Moragas Cantarero
+stub: false
 honorific: Blessed
 summary: >-
   Daughter of a pharmacist. She was an excellent student, and in 1900 became the only woman in the pharmacy school of

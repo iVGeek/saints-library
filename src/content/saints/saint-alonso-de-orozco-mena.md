@@ -1,5 +1,6 @@
 ---
 name: Saint Alonso de Orozco Mena
+stub: false
 honorific: Venerable
 summary: >-
   Son of the governor of a castle. Studied at Talavera de la Reina. Studied music and served as choir boy in the

@@ -1,5 +1,6 @@
 ---
 name: Blessed Gerard of Lunel
+stub: false
 honorific: Blessed
 summary: >-
   Born to the French nobility. Raised in a pious family; he was a Franciscan tertiary at age 5. Lived as a hermit in a

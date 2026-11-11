@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Cyril of Galatz
+stub: false
 honorific: Saint
 summary: Martyred with six companion Christians. No other information has survived, not even the names of the companions.
 searchAliases:

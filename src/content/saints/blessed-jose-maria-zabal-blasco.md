@@ -1,5 +1,6 @@
 ---
 name: Blessed José María Zabal Blasco
+stub: false
 honorific: Blessed
 summary: >-
   A lifelong layman in the archdiocese of Valencia, Spain. José's father died when the boy was 12 years old. He

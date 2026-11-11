@@ -1,5 +1,6 @@
 ---
 name: Saint Dominic Uy Van Bui
+stub: false
 honorific: Saint
 summary: >-
   Catechist. Arrested for his faith, he was ordered to repudiate Christianity; he refused. One of the Martyrs of

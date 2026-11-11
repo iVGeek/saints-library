@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Rutilius
+stub: false
 honorific: Saint
 summary: >-
   Rutilius traveled extensively to avoid the persecutions of Decius, sometimes hiding, sometimes bribing officials to

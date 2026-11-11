@@ -1,5 +1,6 @@
 ---
 name: Blessed Sofía Ximénez y Ximénez del Río
+stub: false
 honorific: Blessed
 summary: >-
   Lifelong lay woman in the archdiocese of Valencia, Spain. Married to Carlo del Río Díez de Bulmesnella in 1905; a

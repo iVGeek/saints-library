@@ -1,5 +1,6 @@
 ---
 name: Saint Barontius of Pistoia
+stub: false
 honorific: Saint
 summary: >-
   Member of the French nobility and a courtier to King Theirry II. Married and a father. Retired to become a monk at

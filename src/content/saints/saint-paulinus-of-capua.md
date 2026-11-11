@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/a/a0/Giovanni_Battista_Tiepolo_096.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Paulinus of Capua
+stub: false
 honorific: Saint
 summary: >-
   Pilgrim from the British Isles who emigrated to Capua, Italy. He was such an obvious holy man and teacher that the

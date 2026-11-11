@@ -1,5 +1,6 @@
 ---
 name: Saint Damian of Africa
+stub: true
 honorific: Saint
 summary: Soldier. Martyr. No other information has survived.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Damian-of-Africa.jpg

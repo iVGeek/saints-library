@@ -1,5 +1,6 @@
 ---
 name: Blessed Mary of Saint Joseph Alvarado Cardozo
+stub: false
 honorific: Blessed
 summary: >-
   Laura made her First Communion, and a private vow of chastity, on the feast of the Immaculate Conception in 1888. In

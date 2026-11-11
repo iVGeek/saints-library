@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Hypatius of Chalcedon
+stub: false
 honorific: Saint
 summary: >-
   Monk. Following a vision, he became a hermit at age 19 in Thrace, then Constantinople, and then Chalcedon, Bithynia

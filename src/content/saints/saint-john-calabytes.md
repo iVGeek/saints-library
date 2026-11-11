@@ -1,5 +1,6 @@
 ---
 name: Saint John Calabytes
+stub: false
 honorific: Saint
 summary: >-
   Born wealthy. Ran away from home as a child, and became a monk at Gomon on the Bosphorus at age 12. When he finally

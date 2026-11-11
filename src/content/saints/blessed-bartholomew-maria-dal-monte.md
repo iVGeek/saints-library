@@ -1,5 +1,6 @@
 ---
 name: Blessed Bartholomew Maria Dal Monte
+stub: false
 honorific: Blessed
 summary: >-
   The fifth child born of Orazio Dal Monte and Anna Maria Bassani, he was the first to survive infancy; his mother

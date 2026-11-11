@@ -1,5 +1,6 @@
 ---
 name: Saint Felicity of Carthage
+stub: false
 honorific: Saint
 summary: >-
   Lay-woman. Convert. Maid, friend, and fellow convert of Saint Perpetua. Martyred with her. In centuries past their

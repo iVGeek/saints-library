@@ -1,5 +1,6 @@
 ---
 name: Saint Andrew Corsini
+stub: false
 honorific: Saint
 summary: >-
   Following a wild and misspent youth, Andrew became a Carmelite at Florence, Italy in 1318. Studied at Paris and

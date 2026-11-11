@@ -1,5 +1,6 @@
 ---
 name: Saint Agricola of Tongres
+stub: true
 honorific: Saint
 title: Bishop
 summary: Bishop of Tongres, Belgium in 384.

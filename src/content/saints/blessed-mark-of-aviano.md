@@ -1,5 +1,6 @@
 ---
 name: Blessed Mark of Aviano
+stub: false
 honorific: Blessed
 summary: >-
   Son of Marco Pasquale Cristofori and Rosa Zanoni. Educated at home and at the Jesuit school in Gorizia, Italy. He was

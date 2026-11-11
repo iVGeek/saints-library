@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Alexander of Apema
+stub: false
 honorific: Saint
 summary: >-
   Missionary preacher in the area of Apema, Phrygia (part of modern Turkey). Worked with Saint Caius of Apema. Fought

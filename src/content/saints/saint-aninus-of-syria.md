@@ -1,5 +1,6 @@
 ---
 name: Saint Aninus of Syria
+stub: true
 honorific: Saint
 title: Hermit
 summary: Hermit and miracle worker in Syria. No other information has survived.

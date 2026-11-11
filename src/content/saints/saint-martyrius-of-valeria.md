@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Martyrius of Valeria
+stub: true
 honorific: Saint
 summary: Sixth century hermit in the Valeria (modern Abruzzo), Italy.
 searchAliases:

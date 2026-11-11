@@ -1,5 +1,6 @@
 ---
 name: Blessed Antonio of Olmedo
+stub: false
 honorific: Blessed
 summary: >-
   Mercedarian friar. Missionary in Chile, bringing many to Christianity and instilling a love of devotions. Founded the

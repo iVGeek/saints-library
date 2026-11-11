@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Exuperia the Martyr
+stub: false
 honorific: Saint
 summary: >-
   Married to Saint Olympius the Tribune; mother of Saint Theodulus the Martyr. Convert, brought to the faith by Saint

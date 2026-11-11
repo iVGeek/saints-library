@@ -1,5 +1,6 @@
 ---
 name: Saint Antonius van Hoornaar
+stub: false
 honorific: Saint
 summary: >-
   Franciscan priest. Martyred by Calvinists for “papism” and his belief in the Real Presence in the Eucharist. One of

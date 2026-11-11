@@ -1,5 +1,6 @@
 ---
 name: Saint Pelagia the Penitent
+stub: false
 honorific: Saint
 summary: >-
   Professional dancer. Attended a sermon by Saint Nonnus of Edessa during which he spoke of a stripper who worked to

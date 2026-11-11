@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/f/f3/Tintagel_church_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed John Hewett
+stub: false
 honorific: Blessed
 summary: >-
   Son of a draper. Educated at Caius College, Cambridge. Studied for the priesthood at Rheims, France. Ordained in 1586.

@@ -1,5 +1,6 @@
 ---
 name: Saint Joseph Moscati
+stub: false
 honorific: Venerable
 summary: >-
   Seventh of nine children born to a prominent family, the son of Francsco Moscati, a lawyer and magistrate who served

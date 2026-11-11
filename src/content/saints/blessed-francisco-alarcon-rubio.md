@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/0/08/Roma_martires_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Francisco Alarcón Rubio
+stub: false
 honorific: Blessed
 summary: >-
   Priest of the diocese of Córdoba, Spain, serving in the El Viso de los Pedroches community. Martyred in the Spanish

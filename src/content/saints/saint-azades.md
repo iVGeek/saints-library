@@ -1,5 +1,6 @@
 ---
 name: Saint Azades the Eunuch
+stub: false
 honorific: Saint
 summary: >-
   Eunuch in the court of King Sapor II of Persia, and one of the king's favourites. Convert to Christianity. Martyred in

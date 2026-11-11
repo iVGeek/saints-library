@@ -1,5 +1,6 @@
 ---
 name: Saint Liphardus of Orleans
+stub: false
 honorific: Saint
 summary: >-
   A prominent lawyer in Orleans, France. He gave it all up to devote himself to prayer as a cave-dwelling hermit. At the

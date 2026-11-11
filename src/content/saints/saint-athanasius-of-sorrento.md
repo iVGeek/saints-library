@@ -1,5 +1,6 @@
 ---
 name: Saint Athanasius of Sorrento
+stub: true
 honorific: Saint
 title: Bishop
 summary: Bishop of Sorrento, Italy.

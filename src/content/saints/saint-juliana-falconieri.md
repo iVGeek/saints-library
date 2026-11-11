@@ -1,5 +1,6 @@
 ---
 name: Saint Juliana Falconieri
+stub: false
 honorific: Saint
 summary: >-
   Only child of a wealthy Florentine noble family of Chiarissimo and Riguirdata Falconieri. Niece of Saint Alexis

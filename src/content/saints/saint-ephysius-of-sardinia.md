@@ -1,5 +1,6 @@
 ---
 name: Saint Ephysius of Sardinia
+stub: false
 honorific: Saint
 summary: >-
   In Rome, Italy, Ephysius gained the favour of emperor Diocletian who made him governor of the island of Sardinia.

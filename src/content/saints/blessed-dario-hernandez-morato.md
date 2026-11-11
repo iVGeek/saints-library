@@ -1,5 +1,6 @@
 ---
 name: Blessed Dario Hernández Morató
+stub: false
 honorific: Blessed
 summary: Joined the Jesuits in 1896. Priest. Rector of the Jesuit house in Valencia, Spain. Martyred in the Spanish Civil War.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Dario-Hernández-Morató.jpg

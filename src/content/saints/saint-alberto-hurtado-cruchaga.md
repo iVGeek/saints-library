@@ -1,5 +1,6 @@
 ---
 name: Saint Alberto Hurtado Cruchaga
+stub: false
 honorific: Venerable
 summary: >-
   Alberto's father died when the boy was four years old, and he grew up in poverty, living with a series of relatives.

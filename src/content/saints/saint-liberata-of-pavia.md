@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/e/e6/Hildesheim_StGodehard_Tympanon.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Liberata of Pavia
+stub: true
 honorific: Saint
 summary: Sister of Saint Honorata and Saint Ephiphanius of Pavia. Nun.
 born: 5th century in Pavia, Italy

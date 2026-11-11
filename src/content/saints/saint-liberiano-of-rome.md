@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/8/84/Basilica_di_Santa_Maria_Maggiore_-_Roma.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Liberiano of Rome
+stub: false
 honorific: Saint
 summary: One of a group of spiritual students of Saint Justin Martyr who died with him and about whom we know nothing else.
 searchAliases:

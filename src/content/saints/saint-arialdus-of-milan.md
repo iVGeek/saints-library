@@ -1,5 +1,6 @@
 ---
 name: Saint Arialdus of Milan
+stub: false
 honorific: Saint
 summary: >-
   Well-educated deacon in the archdiocese of Milan, Italy. Taught at the cathedral school of Milan. Led the Pataria, the

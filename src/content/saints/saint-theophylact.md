@@ -1,5 +1,6 @@
 ---
 name: Saint Theophylact of Nicomedia
+stub: false
 honorific: Saint
 summary: >-
   Immigrant to Constantinople. Studied under Saint Tarasius, Patriach of Constantinople. Sent by Tarasius to a monastery

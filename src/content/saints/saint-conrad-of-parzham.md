@@ -1,5 +1,6 @@
 ---
 name: Saint Conrad of Parzham
+stub: false
 honorific: Venerable
 summary: >-
   Youngest of nine children born to a farming family in a region recovering from the Napoleonic wars. His mother died

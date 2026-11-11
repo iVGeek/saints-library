@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Deusdedit the Cobbler
+stub: false
 honorific: Saint
 summary: >-
   Poor layman shoemaker in sixth-century Rome, Italy. Pope Saint Gregory the Great wrote that every Saturday Deusdedit

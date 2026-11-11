@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Guainerth
+stub: false
 honorific: Saint
 summary: Lived in the 6th century. Patron of a chapel in Herefordshire, England. No other information has survived.
 searchAliases:

@@ -1,5 +1,6 @@
 ---
 name: Blessed Adam of Saxony
+stub: false
 image: >-
   https://commons.wikimedia.org/wiki/Special:FilePath/Reichst%25C3%25A4dt_Adam_Rudolph_von_Sch%25C3%25B6nberg_%252805%2529.JPG?width=600
 honorific: Blessed

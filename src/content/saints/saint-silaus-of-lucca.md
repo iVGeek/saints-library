@@ -1,5 +1,6 @@
 ---
 name: Saint Silaus of Lucca
+stub: false
 honorific: Saint
 summary: >-
   Monk. Abbot of Saint Brendan's Abbey. Bishop. In later life he moved to Italy where he was known for his charity to

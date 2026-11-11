@@ -1,6 +1,7 @@
 ---
 image: https://upload.wikimedia.org/wikipedia/commons/OrazioSamacchini-1.jpg
 name: Saint Felix
+stub: false
 honorific: Saint
 summary: >-
   Elderly, semi-paralyzed fifth century bishop in North Africa. In 484, Felix, Saint Cyprian, and 4,964 assorted unnamed

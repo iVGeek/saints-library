@@ -1,5 +1,6 @@
 ---
 name: Saint Aria of Rome
+stub: true
 honorific: Saint
 summary: Martyr.
 died: Rome, Italy

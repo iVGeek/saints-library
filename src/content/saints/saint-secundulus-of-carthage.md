@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Secundulus of Carthage
+stub: true
 honorific: Saint
 summary: Catechumen. Martyr.
 deathYear: 203

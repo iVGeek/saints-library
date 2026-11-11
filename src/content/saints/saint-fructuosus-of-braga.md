@@ -1,5 +1,6 @@
 ---
 name: Saint Fructuosus of Braga
+stub: false
 honorific: Saint
 summary: >-
   Son of a Gothic general, and member of a noble military family. Studied at the seminary in Palencia. From an early

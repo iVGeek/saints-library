@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Gwen of Caer Goch
+stub: false
 honorific: Saint
 summary: >-
   Born to the British nobility, the daughter of Lord Cynyr Ceinfarfog, king of Dyfed; she was the sister of Saint Nonna,

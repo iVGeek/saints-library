@@ -1,5 +1,6 @@
 ---
 name: Blessed Lorenzo della Pietà
+stub: false
 honorific: Blessed
 summary: >-
   Mercedarian. Assigned to north Africa, he was repeatedly beaten and abused by Muslims, but managed for free 121

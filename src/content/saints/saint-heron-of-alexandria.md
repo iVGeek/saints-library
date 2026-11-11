@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Heron of Alexandria
+stub: true
 honorific: Saint
 summary: Martyred in the persecutions of Decius.
 searchAliases:

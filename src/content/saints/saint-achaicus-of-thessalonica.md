@@ -1,5 +1,6 @@
 ---
 name: Saint Achaicus of Thessalonica
+stub: true
 honorific: Saint
 summary: Martyred in the persecutions of Maximian Herculeus.
 deathYear: 300

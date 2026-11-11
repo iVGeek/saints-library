@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/42/Leeds_Cathedral.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Ralph Grimston
+stub: false
 honorific: Blessed
 summary: Married layman in the apostolic vicariate of England during a period of persecutions of Catholics. Martyr.
 deathYear: 1598

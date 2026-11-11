@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Faustinus of North Africa
+stub: true
 honorific: Saint
 summary: Martyred in North Africa. No other information has survived.
 region: Africa

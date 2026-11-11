@@ -1,5 +1,6 @@
 ---
 name: Blessed Dedë Malaj
+stub: false
 honorific: Blessed
 summary: >-
   Studied at the Pontifical French Seminary, and in Italy. Ordained on 20 December 1942 in Castel Gandolfo, Rome, Italy

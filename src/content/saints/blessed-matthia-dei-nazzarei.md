@@ -1,5 +1,6 @@
 ---
 name: Blessed Matthia dei Nazzarei
+stub: false
 honorific: Blessed
 summary: >-
   Born to the nobility, the only child of Count Gualtiero Nazarei and his wife Sibilla, from her youth Matthia preferred

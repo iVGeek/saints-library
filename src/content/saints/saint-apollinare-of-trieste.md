@@ -1,5 +1,6 @@
 ---
 name: Saint Apollinare of Trieste
+stub: false
 honorific: Saint
 summary: Subdeacon martyred in the persecutions of emperor Caracalla and prefect Lucinio.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Apollinare-of-Trieste.jpg

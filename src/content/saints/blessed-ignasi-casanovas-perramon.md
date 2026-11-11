@@ -1,5 +1,6 @@
 ---
 name: Blessed Ignasi Casanovas Perramón
+stub: false
 honorific: Blessed
 summary: >-
   Son of Raimondo Casanovas Brunet and Maria Perramón Oliveras; he was baptized at the age of one day. Joined the

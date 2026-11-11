@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Félicité Pricet
+stub: false
 honorific: Blessed
 summary: Lay woman of the diocese of Angers, France. Martyred in the persecutions of the French Revolution.
 birthYear: 1745

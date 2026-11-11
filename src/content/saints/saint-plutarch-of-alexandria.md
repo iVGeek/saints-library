@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Plutarch of Alexandria
+stub: false
 honorific: Saint
 summary: Brother of Saint Heraclas of Alexandria. Spiritual student of Origen. Martyred in the persecutions of Severus.
 searchAliases:

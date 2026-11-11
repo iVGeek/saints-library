@@ -1,5 +1,6 @@
 ---
 name: Saint Aristonicus of Melitene
+stub: true
 honorific: Saint
 summary: Martyr.
 region: England

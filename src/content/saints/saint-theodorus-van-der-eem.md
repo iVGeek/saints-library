@@ -1,5 +1,6 @@
 ---
 name: Saint Theodorus van der Eem
+stub: false
 honorific: Saint
 summary: >-
   Priest. Franciscan Friars Minor. Martyred by Calvinists for “papism” and his belief in the Real Presence in the

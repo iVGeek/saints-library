@@ -1,5 +1,6 @@
 ---
 name: Lucy of Syracuse
+stub: false
 honorific: Saint
 title: Virgin, Martyr
 summary: >-

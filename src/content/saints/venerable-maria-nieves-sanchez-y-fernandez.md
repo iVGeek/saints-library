@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Venerable Maria Nieves Sánchez y Fernández
+stub: true
 honorific: Venerable
 summary: Member of the Daughters of Mary of the Pious Schools (Escolapias).
 searchAliases:

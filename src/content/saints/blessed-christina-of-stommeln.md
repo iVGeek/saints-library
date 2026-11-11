@@ -1,5 +1,6 @@
 ---
 name: Blessed Christina of Stommeln
+stub: false
 honorific: Blessed
 summary: >-
   Born to wealthy farmers Heinrich and Hilla Bruso. Though she learned to read, Christina could not write. At the age of

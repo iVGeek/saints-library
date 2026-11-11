@@ -1,5 +1,6 @@
 ---
 name: Saint Avitus
+stub: true
 honorific: Saint
 summary: Martyr. No other reliable information has survived.
 died: in Africa

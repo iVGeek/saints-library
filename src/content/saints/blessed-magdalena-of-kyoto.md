@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/3/31/La_Rendici%C3%B3n_de_Granada_-_Pradilla.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Magdalena of Kyoto
+stub: true
 honorific: Blessed
 summary: Lay woman in the Kyoto, Japan. One of the Martyrs of Kyoto.
 birthYear: 1616

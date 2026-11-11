@@ -1,5 +1,6 @@
 ---
 name: Venerable Maria Antonia Solimani
+stub: false
 honorific: Venerable
 summary: >-
   Founded the Romite Nuns of Saint John the Baptist (Nuns Battistine) and the Missionaries of Saint John the Baptist in

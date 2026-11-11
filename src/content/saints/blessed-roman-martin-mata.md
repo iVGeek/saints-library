@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/1/16/Mariano_de_La_Mata_Aparico_003_BarrioDelaPuebla.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Román Martín Mata
+stub: true
 honorific: Blessed
 summary: Augustinian friar. Martyred in the Spanish Civil War.
 birthYear: 1918

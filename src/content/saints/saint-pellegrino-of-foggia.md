@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/1/1a/Apulia_in_Italy.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Pellegrino of Foggia
+stub: true
 honorific: Saint
 title: Hermit
 summary: Hermit at Foggia, Italy.

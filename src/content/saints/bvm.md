@@ -1,5 +1,6 @@
 ---
 name: Blessed Virgin Mary
+stub: true
 honorific: Blessed
 summary: Mother of Jesus. Spouse of the Holy Spirit. Betrothed of Saint Joseph
 image: https://catholicsaints.info/wp-content/uploads/img-BVM.jpg

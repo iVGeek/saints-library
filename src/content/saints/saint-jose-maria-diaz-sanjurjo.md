@@ -1,5 +1,6 @@
 ---
 name: Saint José María Díaz Sanjurjo
+stub: false
 honorific: Venerable
 summary: >-
   Dominican priest, ordained on 23 March 1844. Missionary to Manila, Philippines, and then to Viet Nam. Coadjutor vicar

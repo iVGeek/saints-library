@@ -1,5 +1,6 @@
 ---
 name: Saint Barbatus of Benevento
+stub: false
 honorific: Saint
 summary: >-
   Priest at an early age. Fiery preacher whose flock turned on him because of his zeal; he finally resigned his parish

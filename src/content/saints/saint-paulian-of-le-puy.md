@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/5/5f/Saint-Geneys-pr%C3%A8s-Saint-Paulien_%C3%89glise3.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Paulian of Le Puy
+stub: false
 honorific: Saint
 title: Bishop
 summary: >-

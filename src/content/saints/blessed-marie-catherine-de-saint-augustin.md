@@ -1,5 +1,6 @@
 ---
 name: Blessed Marie-Catherine de Saint-Augustin
+stub: false
 honorific: Blessed
 summary: >-
   Raised primarily by her grandparents, Marie-Catherine was a pious girl noted for her concern for the poor and sick.

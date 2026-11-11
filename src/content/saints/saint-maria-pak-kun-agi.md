@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Maria Pak K'Un-agi
+stub: true
 honorific: Venerable
 summary: Lay woman in the apostolic vicariate of Korea. Martyr.
 searchAliases:

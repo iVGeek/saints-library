@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Pelagius of Laodicea
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Laodicea. Fought Arianism; exiled by the Arian emperor Valens, but recalled by Gratian. Attended the Council

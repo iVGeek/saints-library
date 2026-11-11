@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Clotsindis of Marchiennes
+stub: false
 honorific: Saint
 summary: >-
   Daughter of Saint Adalbald of Ostrevant and Saint Richrudis of Marchiennes. Benedictine nun at the convent of

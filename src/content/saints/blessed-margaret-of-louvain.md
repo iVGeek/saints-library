@@ -1,5 +1,6 @@
 ---
 name: Blessed Margaret of Louvain
+stub: false
 honorific: Blessed
 summary: >-
   Born to a poor family, in her late teens Margaret began working as a maid at the Sint Joris, an inn in Louvain,

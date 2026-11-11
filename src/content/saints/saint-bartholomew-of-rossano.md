@@ -1,5 +1,6 @@
 ---
 name: Saint Bartholomew of Rossano
+stub: false
 honorific: Saint
 summary: >-
   Son of Greek immigrants to Italy. Spiritual student of Saint Nilus of Rossano. Monk at the monastery of Grottaferrata,

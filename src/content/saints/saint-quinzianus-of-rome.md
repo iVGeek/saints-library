@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Quinzianus of Rome
+stub: true
 honorific: Saint
 summary: Martyr. No other information has survived.
 died: buried in the catacombs in Rome, Italy

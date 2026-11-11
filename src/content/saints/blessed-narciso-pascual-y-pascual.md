@@ -1,5 +1,6 @@
 ---
 name: Blessed Narciso Pascual y Pascual
+stub: true
 honorific: Blessed
 summary: Vincentian monk. Martyred in the Spanish Civil War.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Narciso-Pascual-y-Pascual.jpg

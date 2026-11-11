@@ -1,6 +1,7 @@
 ---
 image: https://www.catholic.org/files/images/saints/3608.jpg
 name: Saint Grimbald
+stub: false
 honorific: Saint
 summary: >-
   Benedictine monk, and prior of Saint Bertin monastery. Alfred of England was impressed with the man's holiness, and

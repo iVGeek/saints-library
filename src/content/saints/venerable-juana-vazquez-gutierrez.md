@@ -1,5 +1,6 @@
 ---
 name: Venerable Juana Vazquez Gutierrez
+stub: false
 honorific: Venerable
 summary: >-
   Member of the Franciscan Nuns of the Third Order Regular, taking the name Juana of the Cross. Abbess of the Santa

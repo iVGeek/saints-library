@@ -1,5 +1,6 @@
 ---
 name: Blessed Michele Rua
+stub: false
 honorific: Blessed
 summary: >-
   Son of a weapons manufacturer. Attended a Don Bosco Oratory as a boy, and met Saint John. He impressed Don Bosco so

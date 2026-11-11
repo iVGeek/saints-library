@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Heron of Antioch
+stub: false
 honorific: Saint
 summary: Spiritual student of Saint Ignatius of Antioch. Bishop of Antioch for 20 years. Martyr.
 searchAliases:

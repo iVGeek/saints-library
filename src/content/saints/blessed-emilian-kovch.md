@@ -1,5 +1,6 @@
 ---
 name: Blessed Emilian Kovch
+stub: false
 honorific: Blessed
 summary: >-
   Greek Catholic. Seminarian at Lviv, Ukraine and Rome, Italy; graduated from the College of Sergius and Bachus in Rome.

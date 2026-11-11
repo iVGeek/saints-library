@@ -1,5 +1,6 @@
 ---
 name: Saint Finnian of Moville
+stub: false
 honorific: Saint
 summary: >-
   Descendant of Fiatach the Fair. Studied under Saint Colman of Dromore, Saint Mochae of Noendrum, and the school of

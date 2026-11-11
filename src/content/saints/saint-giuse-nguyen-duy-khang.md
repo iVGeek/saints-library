@@ -1,5 +1,6 @@
 ---
 name: Saint Giuse Nguyen Duy Khang
+stub: false
 honorific: Venerable
 summary: >-
   Dominican tertiary. Catechist. Servant to Saint Jerome Hermosilla. Tried to help Saint Jerome escape from prison.

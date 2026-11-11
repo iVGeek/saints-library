@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Nicaeus of Romatia
+stub: false
 honorific: Saint
 summary: >-
   Fifth-century bishop of Romatia; we don't know exactly where that was, but the best guess is modern Aquileia, Italy.

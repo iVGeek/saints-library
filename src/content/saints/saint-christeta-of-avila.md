@@ -1,5 +1,6 @@
 ---
 name: Saint Christeta of Avila
+stub: false
 honorific: Saint
 summary: >-
   Sister of Saint Sabina of Avila and Saint Vincent of Avila. During a period of persecution, she fled Talavera de la

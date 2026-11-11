@@ -1,5 +1,6 @@
 ---
 name: Saint John Almond
+stub: false
 honorific: Venerable
 summary: >-
   Grew up in Ireland. Educated at Much Woolton, in Rheims, France, and at the English College, Rome, Italy at age 20.

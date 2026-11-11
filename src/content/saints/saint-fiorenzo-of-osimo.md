@@ -1,5 +1,6 @@
 ---
 name: Saint Fiorenzo of Osimo
+stub: true
 honorific: Saint
 summary: Martyr.
 died: Osimo, Italy

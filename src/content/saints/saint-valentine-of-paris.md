@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Valentine of Paris
+stub: false
 honorific: Saint
 summary: >-
   Grew up in the court of King Childebert of Paris. Against the wishes of his family and friends, Valentine declined an

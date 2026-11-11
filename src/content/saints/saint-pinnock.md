@@ -1,6 +1,7 @@
 ---
 image: https://www.catholic.org/files/images/saints/5453.jpg
 name: Saint Pinnock
+stub: false
 honorific: Saint
 summary: A church in Cornwall, England is dedicated to this saint, but no information about him has survived.
 region: England

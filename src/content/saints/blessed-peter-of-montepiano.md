@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/a/a8/PalmezzanoIgneo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Peter of Montepiano
+stub: false
 honorific: Blessed
 summary: >-
   Vallombrosan monk. Abbot of the San Virgilio Abbey in Brescia, Italy. Late in life he retired to live as a hermit in

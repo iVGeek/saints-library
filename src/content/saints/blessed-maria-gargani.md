@@ -1,5 +1,6 @@
 ---
 name: Blessed Maria Gargani
+stub: false
 honorific: Blessed
 summary: >-
   Youngest of eight children born to Rocco Gargani and Angiolina De Paola. Hers was a pious family, and her father made

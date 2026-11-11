@@ -1,5 +1,6 @@
 ---
 name: Saint Alexander of Verona
+stub: true
 honorific: Saint
 summary: Eighth century bishop of Verona, Italy.
 region: Italy

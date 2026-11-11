@@ -1,5 +1,6 @@
 ---
 name: Saint Benignus of Armagh
+stub: false
 honorific: Saint
 summary: >-
   Son of the Irish chieftain Sesenen in County Meath. Baptized by and a disciple of Saint Patrick, accompanying him in

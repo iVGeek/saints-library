@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/45/Helena_Dragas_crop.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Paulina of Thessalonica
+stub: true
 honorific: Saint
 summary: Martyr.
 died: in Thessalonica, Greece, date unknown

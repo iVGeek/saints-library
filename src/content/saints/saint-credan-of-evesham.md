@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Credan of Evesham
+stub: true
 honorific: Saint
 summary: Abbot at Evesham Abbey.
 deathYear: 780

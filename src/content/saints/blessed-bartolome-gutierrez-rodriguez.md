@@ -1,5 +1,6 @@
 ---
 name: Blessed Bartolomé Gutiérrez Rodríguez
+stub: true
 honorific: Blessed
 summary: Augustinian priest. Martyr.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Bartolomé-Gutiérrez-Rodríguez.jpg

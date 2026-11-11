@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Gaudentius of Ossero
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Ossero, Istria (in modern Croatia) in 1030. Falsely accused by some of the nobility who objected to his

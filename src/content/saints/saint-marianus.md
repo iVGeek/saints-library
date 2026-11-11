@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Marianus
+stub: false
 honorific: Saint
 summary: >-
   In 283 an entire congregation was martyred in the persecutions of Numerian when they assembled in the catacombs for

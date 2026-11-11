@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/9/91/Nuremberg_chronicles_f_145v_4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Gerald of Salles
+stub: false
 honorific: Blessed
 summary: >-
   Canon regular in the diocese of Périgueux, France. Reforming monk at the Saint-Avit Abbey. Hermit in the Cadonh

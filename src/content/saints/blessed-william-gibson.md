@@ -1,5 +1,6 @@
 ---
 name: Blessed William Gibson
+stub: false
 honorific: Blessed
 summary: Layman in the apostolic vicariate of England during a period of persecutions of Catholics. Martyr.
 deathYear: 1596

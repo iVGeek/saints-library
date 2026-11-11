@@ -1,5 +1,6 @@
 ---
 name: Saint Callisthene
+stub: false
 honorific: Saint
 summary: >-
   Daughter of Saint Adauctus. Following his martyrdom, she devoted her life to charity. Surrounded by the death of the

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Edfrith of Lindisfarne
+stub: false
 honorific: Saint
 summary: Bishop of Lindisfarne, England. He illuminated the Lindisfarne Gospels in honour of Saint Cuthbert.
 searchAliases:

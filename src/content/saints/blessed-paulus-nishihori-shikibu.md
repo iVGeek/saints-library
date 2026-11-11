@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Paulus Nishihori Shikibu
+stub: true
 honorific: Blessed
 summary: Married layman in the diocese of Niigata, Japan. Martyr.
 birthYear: 1598

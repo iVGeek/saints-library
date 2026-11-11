@@ -1,5 +1,6 @@
 ---
 name: Blessed Juan Bazaga Palacios
+stub: false
 honorific: Blessed
 summary: >-
   After studying in seminary at Málaga, Spain and the Abbey of Sacromonte, Juan was ordained a priest of the archdiocese

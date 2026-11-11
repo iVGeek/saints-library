@@ -1,5 +1,6 @@
 ---
 name: Saint Blitmund of Bobbio
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility, as a young man, Blitmund moved to northern France to live as a hermit along the River Somme in

@@ -1,5 +1,6 @@
 ---
 name: Blessed Jesús Eduard Massanet Flaquer
+stub: true
 honorific: Blessed
 summary: Mercedarian priest. Martyred in the Spanish Civil War.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Jesús-Eduard-Massanet-Flaquer.jpg

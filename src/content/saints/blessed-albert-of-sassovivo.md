@@ -1,5 +1,6 @@
 ---
 name: Blessed Albert of Sassovivo
+stub: false
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/American_architect_and_architecture_%28IA_americanarchite120newyuoft%29.pdf/page1-960px-American_architect_and_architecture_%28IA_americanarchite120newyuoft%29.pdf.jpg
 honorific: Blessed

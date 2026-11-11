@@ -1,5 +1,6 @@
 ---
 name: Saint Hermocrates
+stub: true
 honorific: Saint
 summary: Martyr.
 searchAliases:

@@ -1,5 +1,6 @@
 ---
 name: Blessed Joseph Oriol Isern Massó
+stub: false
 honorific: Blessed
 summary: >-
   Joseph joined the Missionaries of the Sacred Heart at age 20. Ordained a priest in 1933  and assigned to Canet de Mar,

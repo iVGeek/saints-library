@@ -1,5 +1,6 @@
 ---
 name: Saint Matthêô Nguyen Van Ðac Phuong
+stub: false
 honorific: Venerable
 summary: >-
   Married layman catechist in the apostolic vicariate of North Cochinchina. Tortured and martyred in the persecutions of

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Procopius of Decapolis
+stub: false
 honorific: Saint
 summary: >-
   Opposed the 8th-century iconoclast decrees of Leo the Isaurian, and preserved icons and images in his care. Beaten and

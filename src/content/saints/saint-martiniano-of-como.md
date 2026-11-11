@@ -1,6 +1,7 @@
 ---
 image: https://www.santiebeati.it/immagini/Thumbs/94710/94710.jpg
 name: Saint Martiniano of Como
+stub: true
 honorific: Saint
 title: Bishop
 summary: Bishop of Como, Italy in the mid-7th century.

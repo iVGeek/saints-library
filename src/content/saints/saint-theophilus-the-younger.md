@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Theophilus the Younger
+stub: false
 honorific: Saint
 summary: >-
   Commander of the imperial Byzantine military outpost in Cyprus in the late 8th century reign of Constantine IV. During

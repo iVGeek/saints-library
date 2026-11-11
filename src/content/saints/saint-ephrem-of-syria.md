@@ -1,5 +1,6 @@
 ---
 name: Saint Ephrem of Syria
+stub: false
 honorific: Saint
 summary: >-
   May have been the son of a pagan priest. Brought to the faith by Saint James of Nisibis, and baptized at age 18.

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Arnulf of Novalesa
+stub: true
 honorific: Saint
 summary: Benedictine monk at Novalesa Abbey, Piedmont, Italy. Martyred by Saracens.
 deathYear: 840

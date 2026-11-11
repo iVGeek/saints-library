@@ -1,5 +1,6 @@
 ---
 name: Venerable María Natividad Sánchez Villoria
+stub: false
 honorific: Venerable
 summary: >-
   Poor Clare nun, joining the Order on 13 May 1923 and making her solemn profession on 1 January 1928. Venerable María

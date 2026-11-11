@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/b/b7/Nephon_II_of_Constantinople_Icon.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Leonidas of Constantinople
+stub: true
 honorific: Saint
 summary: Martyr. No other information has survived.
 died: burned to death in Constantinople, date unknown

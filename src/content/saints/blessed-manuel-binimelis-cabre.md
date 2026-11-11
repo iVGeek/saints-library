@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Manuel Binimelis Cabré
+stub: true
 honorific: Blessed
 summary: Vincentian priest. Martyred in the Spanish Civil War.
 birthYear: 1892

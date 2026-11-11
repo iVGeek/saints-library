@@ -1,5 +1,6 @@
 ---
 name: Blessed Josephina Gabriella Bonino
+stub: false
 honorific: Blessed
 summary: >-
   Raised in a pious family, she was a deeply religious child. Moved to Turin, Italy at age 12. Made a temporary vow of

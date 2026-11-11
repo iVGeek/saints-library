@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/8/87/Cathedral_of_the_Blessed_Sacrament%2C_Altoona_PA_-_July_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Richard Hill
+stub: false
 honorific: Blessed
 summary: Priest in the apostolic vicariate of England. Martyred in the persecutions of Queen Elizabeth I.
 birthYear: 1565

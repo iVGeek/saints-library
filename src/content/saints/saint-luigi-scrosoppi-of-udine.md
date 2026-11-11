@@ -1,5 +1,6 @@
 ---
 name: Saint Luigi Scrosoppi of Udine
+stub: false
 honorific: Venerable
 summary: >-
   Youngest of three brothers born to Domenico Scrosoppi, a jeweler, and Antonia Lazzarini; his brother Carlo was

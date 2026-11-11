@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Cyrus of Carthage
+stub: true
 honorific: Saint
 summary: Bishop of Carthage.
 region: Italy

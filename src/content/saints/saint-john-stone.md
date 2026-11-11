@@ -1,5 +1,6 @@
 ---
 name: Saint John Stone
+stub: false
 honorific: Saint
 summary: >-
   Augustinian friar at Canterbury, England. Doctor of Divinity. Professor and prior at Droitwich. Martyred for denying

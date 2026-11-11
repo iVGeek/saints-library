@@ -1,5 +1,6 @@
 ---
 name: Blessed Pietro of Treia
+stub: false
 honorific: Blessed
 summary: >-
   Born to the wealthy nobility, from an early age Pietro had a devotion to the Archangel Gabriel and was drawn to

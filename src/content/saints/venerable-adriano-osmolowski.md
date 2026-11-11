@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Venerable Adriano Osmolowski
+stub: true
 honorific: Venerable
 summary: Franciscan priest.
 searchAliases:

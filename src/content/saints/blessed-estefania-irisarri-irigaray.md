@@ -1,5 +1,6 @@
 ---
 name: Blessed Estefanía Irisarri Irigaray
+stub: false
 honorific: Blessed
 summary: >-
   The daughter of Idelfonso and Juana, Estefanía grew up in a farming family. She was educated at home, then moved to

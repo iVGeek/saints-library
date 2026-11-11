@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Hitto of Saint-Gall
+stub: false
 honorific: Saint
 summary: >-
   Born to the Swabian nobility in the 10th century; brother of Saint Wiborada of Gall. Priest. Provost of Saint Magnus

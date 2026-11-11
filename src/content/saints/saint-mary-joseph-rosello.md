@@ -1,5 +1,6 @@
 ---
 name: Saint Mary Joseph Rosello
+stub: false
 honorific: Saint
 summary: >-
   One of nine children, her father was a potter. Born in poverty, she suffered from poor health all her life. Pious from

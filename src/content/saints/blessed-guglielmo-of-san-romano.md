@@ -1,5 +1,6 @@
 ---
 name: Blessed Guglielmo of San Romano
+stub: false
 honorific: Blessed
 summary: >-
   Mercedarian friar. In 1225, he accompanied Saint Peter Nolasco to Algiers where they freed 219 Christians who had been

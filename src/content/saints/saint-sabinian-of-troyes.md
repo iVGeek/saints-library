@@ -1,5 +1,6 @@
 ---
 name: Saint Sabinian of Troyes
+stub: false
 honorific: Saint
 summary: >-
   Brother of Saint Sabina of Troyes. Raised a pagan. Disillusioned with his life in Samos, he travelled to Gaul where he

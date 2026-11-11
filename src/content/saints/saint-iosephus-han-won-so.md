@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Iosephus Han Won-So
+stub: true
 honorific: Venerable
 summary: Layman catechist in the apostolic vicariate of Korea.
 searchAliases:

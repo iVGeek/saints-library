@@ -1,5 +1,6 @@
 ---
 name: Blessed Germain of Talloires
+stub: false
 honorific: Blessed
 summary: >-
   Brother of Saint Ruph. Studied theology at the University of Paris, France for several years where he worked with and

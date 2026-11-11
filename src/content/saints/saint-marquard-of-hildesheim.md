@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/a/a7/Augsburg_Dom_Ostchor.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Marquard of Hildesheim
+stub: false
 honorific: Saint
 summary: >-
   Monk at New Corbey Abbey, Saxony (in modern Germany). Bishop of Hildesheim, Germany from 874. One of the Martyrs of

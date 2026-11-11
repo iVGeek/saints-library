@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/5/52/Santiago_Matamoros%2C_Peruvian_Colonial%2C_18th_century.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Martial of Cordoba
+stub: false
 honorific: Saint
 summary: Martyred in the persecutions of Diocletian. One of the The Three Crowns of Cordoba.
 deathYear: 304

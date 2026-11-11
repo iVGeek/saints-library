@@ -1,5 +1,6 @@
 ---
 name: Saint Elswith
+stub: false
 honorific: Saint
 summary: >-
   Born a princess in Mercia (in modern England). A queen, married to King Alfred the Great of West Saxons. Widowed in

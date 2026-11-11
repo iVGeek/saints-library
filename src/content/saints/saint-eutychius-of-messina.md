@@ -1,5 +1,6 @@
 ---
 name: Saint Eutychius of Messina
+stub: true
 honorific: Saint
 summary: Brother of Saint Placidus of Messina. Benedictine monk. Martyr.
 died: 6th century Messina, Sicily, Italy

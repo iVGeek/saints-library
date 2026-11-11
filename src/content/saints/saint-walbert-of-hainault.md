@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Walbert of Hainault
+stub: false
 honorific: Saint
 title: Priest
 summary: Born to the nobility. Married to Saint Bertilia of Thuringia. Father of Saint Waltrude and Saint Aldegundis.

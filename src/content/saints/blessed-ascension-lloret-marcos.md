@@ -1,5 +1,6 @@
 ---
 name: Blessed Ascensión Lloret Marcos
+stub: false
 honorific: Blessed
 summary: >-
   Sister in the Carmelite Sisters of Charity, entering the novitiate on 6 December 1898. Martyred in the Spanish Civil

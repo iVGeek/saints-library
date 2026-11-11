@@ -1,5 +1,6 @@
 ---
 name: Saint Aurea of Ostia
+stub: false
 honorific: Saint
 summary: Killed for visiting Christian prisoners and giving them a decent burial after their execution. Martyr.
 image: https://upload.wikimedia.org/wikipedia/commons/a/a1/Portrait_of_Saint_Aurea.jpg

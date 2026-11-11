@@ -1,5 +1,6 @@
 ---
 name: Blessed José Olallo Valdés
+stub: false
 honorific: Blessed
 summary: >-
   José was abandoned as an infant at the age of one month at the Saint Joseph orphanage in Havana, Cuba; he had a note

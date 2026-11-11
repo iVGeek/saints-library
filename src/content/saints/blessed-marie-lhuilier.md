@@ -1,5 +1,6 @@
 ---
 name: Blessed Marie Lhuilier
+stub: false
 honorific: Blessed
 summary: >-
   She had no education or place in the world when she was orphaned as a small girl. She worked briefly as a domestic

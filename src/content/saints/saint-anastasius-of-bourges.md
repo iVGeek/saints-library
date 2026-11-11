@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Anastasius of Bourges
+stub: true
 honorific: Saint
 summary: Soldier. Martyr. No other information as survived.
 deathYear: 274

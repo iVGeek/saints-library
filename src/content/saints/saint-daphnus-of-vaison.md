@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Daphnus of Vaison
+stub: false
 honorific: Saint
 title: Bishop
 summary: >-

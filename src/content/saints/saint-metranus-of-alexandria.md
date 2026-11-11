@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Metranus of Alexandria
+stub: false
 honorific: Saint
 summary: >-
   Tortured and murdered in the persecutions of Decius for refusing to sacrifice to idols. Saint Dionysius of Alexandria

@@ -1,5 +1,6 @@
 ---
 name: Blessed Giuseppina Nicoli
+stub: false
 honorific: Blessed
 summary: ' In Fifth of ten children born to a pious family. Joined the Daughters of Charity of Saint Vincent de Paul at the San Salvario house in Turin, Italy on 24 September 1883. In 1885 she was assigned to the island of Sardegna; she spent most of her life ministering to the poor there.'
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Giuseppina-Nicoli.jpg

@@ -1,5 +1,6 @@
 ---
 name: Saint Asterius of Périgord
+stub: false
 honorific: Saint
 summary: >-
   A convert, baptized by Saint Eparchus of Périgord. Withdrew from the world to live as a hermit, but his reputation for

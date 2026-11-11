@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Spes of Spoleto
+stub: true
 honorific: Saint
 title: Bishop
 summary: Beloved 5th century bishop of Spoleto, Italy for 32 years.

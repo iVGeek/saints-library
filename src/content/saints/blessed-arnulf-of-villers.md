@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/d/dd/Schaerbeek_Eglise_Sainte-Alice_010.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Arnulf of Villers
+stub: false
 honorific: Blessed
 summary: >-
   After a wasted youth, at age 22 he had a conversion and became a Cistercian lay brother at Villers, Belgium. There he

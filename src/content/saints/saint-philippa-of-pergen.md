@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Philippa of Pergen
+stub: true
 honorific: Saint
 summary: Mother of Saint Theodore. Martyred in the persecutions of Emperor Elagabalus.
 deathYear: 220

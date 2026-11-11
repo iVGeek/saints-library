@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Maximus of Antioch
+stub: true
 honorific: Saint
 summary: Martyr.
 died: Antioch, date unknown

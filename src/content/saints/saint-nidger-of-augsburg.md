@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/a/a2/Ulryk_z_Zell.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Nidger of Augsburg
+stub: true
 honorific: Saint
 title: Bishop
 summary: Abbot of Ottobeuren in Bavaria, Germany. Bishop of Augsburg, Germany.

@@ -1,5 +1,6 @@
 ---
 name: Saint Avitus of Auxerre
+stub: true
 honorific: Saint
 title: Deacon
 summary: Deacon. No other information has survived.

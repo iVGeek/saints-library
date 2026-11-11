@@ -1,5 +1,6 @@
 ---
 name: Saint Ivo of Huntingdonshire
+stub: false
 honorific: Saint
 summary: >-
   Bishop. Hermit at Huntingdonshire, England. The city of Saint Ives (formerly Slepe), Huntingdonshire (modern

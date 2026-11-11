@@ -1,5 +1,6 @@
 ---
 name: Blessed 'Abd Al-Mu'ti Masabki
+stub: false
 honorific: Blessed
 summary: >-
   Married layman in the archeparchy of Damascus of the Maronites. Ordered by Druz Muslims to convert to Islam; he

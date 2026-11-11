@@ -1,5 +1,6 @@
 ---
 name: Saint Elisabeth Qin Bianshi
+stub: false
 honorific: Venerable
 summary: >-
   Married lay woman in the apostolic vicariate of Southeastern Zhili, China. Mother of Saint Simon Qin Chunfu. Martyred

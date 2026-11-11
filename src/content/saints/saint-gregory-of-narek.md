@@ -1,5 +1,6 @@
 ---
 name: Saint Gregory of Narek
+stub: false
 honorific: Saint
 summary: >-
   Grigor, the son of Bishop Khosrov Andzevatsi, was descended from a line of scholars and churchmen, and was educated by

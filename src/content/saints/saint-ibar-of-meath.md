@@ -1,5 +1,6 @@
 ---
 name: Saint Ibar of Meath
+stub: false
 honorific: Saint
 summary: >-
   Uncle and teacher of Saint Abban. disciple of Saint Patrick. Missionary in south Ireland with Saint Kiaran, Saint

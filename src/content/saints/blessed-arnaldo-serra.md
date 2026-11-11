@@ -1,5 +1,6 @@
 ---
 name: Blessed Arnaldo Serra
+stub: false
 honorific: Blessed
 summary: >-
   Mercedarian. While on a mission to Tunis, Tunisia to ransom Christian slaves from Muslim captors, he was imprisoned,

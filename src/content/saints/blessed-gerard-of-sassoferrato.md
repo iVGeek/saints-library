@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/b/b8/Sandro_Botticelli_-_The_Virgin_and_Child_%28The_Madonna_of_the_Book%29_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Gerard of Sassoferrato
+stub: false
 honorific: Blessed
 title: Priest
 summary: Camaldolese novice at age nine at Holy Cross abbey in Sassoferrato, Italy. Parish priest at Sassoferrato.

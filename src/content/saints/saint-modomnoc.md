@@ -1,5 +1,6 @@
 ---
 name: Saint Modomnoc
+stub: false
 honorific: Saint
 summary: >-
   Member of the Irish royal O'Neill clan. Monk. Spiritual student of Saint David of Wales. Beekeeper while a novice.

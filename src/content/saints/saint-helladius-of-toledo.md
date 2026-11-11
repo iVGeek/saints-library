@@ -1,5 +1,6 @@
 ---
 name: Saint Helladius of Toledo
+stub: false
 honorific: Saint
 summary: >-
   Minister in the court of Visigoth kings in Toledo, Spain, his heart was in the nearby abbey of Agali. He eventually

@@ -1,5 +1,6 @@
 ---
 name: Blessed Humphrey Middlemore
+stub: false
 honorific: Blessed
 summary: >-
   Carthusian monk at the London Charterhouse. Priest. Procurator on the London Charterhouse. When he refused to

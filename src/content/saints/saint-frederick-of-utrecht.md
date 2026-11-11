@@ -1,5 +1,6 @@
 ---
 name: Saint Frederick of Utrecht
+stub: false
 honorific: Saint
 summary: >-
   Grandson of King Radbon of the Frisians. Educated by the priests at Utrecht, Netherlands. Priest, known for his

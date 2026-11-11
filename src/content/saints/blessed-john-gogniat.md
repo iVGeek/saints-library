@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/a/a8/TrinitaPontificale.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed John Gogniat
+stub: false
 honorific: Blessed
 summary: >-
   Premonstratensian monk. Canon of the Bellelay monastery in the Jura Bernois area of Bern, Switzerland. Abbot of the

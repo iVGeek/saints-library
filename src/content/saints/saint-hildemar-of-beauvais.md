@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Hildemar of Beauvais
+stub: true
 honorific: Saint
 summary: Benedictine monk at Corbie Abbey. Bishop of Beauvais, France in 821.
 deathYear: 844

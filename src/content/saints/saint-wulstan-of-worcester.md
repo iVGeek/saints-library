@@ -1,5 +1,6 @@
 ---
 name: Saint Wulstan of Worcester
+stub: false
 honorific: Saint
 summary: >-
   Son of Athelstan and Wulfgeva, he was known as a pious youth. Studied at the monasteries of Evesham and Petersborough.

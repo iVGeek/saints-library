@@ -1,5 +1,6 @@
 ---
 name: Saint Medan
+stub: true
 honorific: Saint
 summary: Sixth century spiritual student of Saint Petroc in Cornwall.
 region: England

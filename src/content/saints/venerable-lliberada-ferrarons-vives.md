@@ -1,5 +1,6 @@
 ---
 name: Venerable Lliberada Ferrarons-Vivés
+stub: true
 honorific: Venerable
 summary: Lay woman in the diocese of Girona, Spain. Member of the Lay Carmelites.
 image: >-

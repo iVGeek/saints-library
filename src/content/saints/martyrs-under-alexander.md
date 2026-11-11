@@ -1,5 +1,6 @@
 ---
 name: Martyrs Under Alexander
+stub: false
 honorific: Saint
 summary: >-
   A large but unspecified number of Christians martyred in the persecutions of Emperor Alexander Severus and the

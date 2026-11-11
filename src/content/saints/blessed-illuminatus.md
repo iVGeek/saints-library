@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/3/33/Philip_Fruytiers_-_St._Francis_of_Assisi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Illuminatus
+stub: true
 honorific: Blessed
 summary: Franciscan monk; spiritual student of Saint Francis of Assisi.
 deathYear: 1230

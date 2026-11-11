@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/a/a5/%C3%89lisabeth_de_Saint-Pol.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Yolanda
+stub: false
 honorific: Saint
 summary: Daughter of the count of Vianden. Dominican nun against the fierce opposition of her father.
 deathYear: 1283

@@ -1,5 +1,6 @@
 ---
 name: Blessed Josep Domènech Bonet
+stub: false
 honorific: Blessed
 summary: >-
   Born to a pious peasant family, Josep was baptized at the age of five days, and made his First Communion at age 11. He

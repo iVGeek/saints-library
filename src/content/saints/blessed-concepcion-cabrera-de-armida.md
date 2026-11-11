@@ -1,5 +1,6 @@
 ---
 name: Blessed Concepcion Cabrera de Armida
+stub: false
 honorific: Blessed
 summary: >-
   Born during the Mexican Civil War, she grew up during the Revolution and the religious persecutions that were a part

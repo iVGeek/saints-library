@@ -1,5 +1,6 @@
 ---
 name: Blessed Marian Skrzypczak
+stub: false
 honorific: Blessed
 summary: >-
   Priest in the archdiocese of Gniezno, Poland where he served in the parish of Plonkowo. Though he knew the dangers of

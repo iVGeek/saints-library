@@ -1,5 +1,6 @@
 ---
 name: Blessed Diego Luis de San Vitores-Alonso
+stub: false
 honorific: Blessed
 summary: >-
   Member of the Jesuits, joining in 1634. Ordained a priest on 23 December 1651. He served several years as a teacher in

@@ -1,5 +1,6 @@
 ---
 name: Saint Paul the Simple
+stub: false
 honorific: Saint
 summary: >-
   Farmer. Upon the discovery of his wife's adultery, Paul became a desert hermit. Spiritual student of Saint Anthony the

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/b/b1/San_Domenico01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Clemente Capponi
+stub: false
 honorific: Blessed
 summary: >-
   Born to the Florentine nobility, Clemente joined the lay Franciscans in 1399 at the convent of Santa Maria del Fiore

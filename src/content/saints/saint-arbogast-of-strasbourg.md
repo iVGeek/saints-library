@@ -1,5 +1,6 @@
 ---
 name: Saint Arbogast of Strasbourg
+stub: false
 honorific: Saint
 summary: >-
   The little recorded of his childhood is probably legend. Hermit, living in a cave at Alsace, France with a widespread

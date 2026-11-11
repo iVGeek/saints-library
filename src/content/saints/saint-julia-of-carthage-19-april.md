@@ -1,6 +1,7 @@
 ---
 image: https://www.catholic.org/files/images/saints/6380.jpg
 name: Saint Julia of Carthage
+stub: true
 honorific: Saint
 summary: Martyred in the persecutions of Decius.
 deathYear: 250

@@ -1,5 +1,6 @@
 ---
 name: Venerable Francesco Antonio Marcucci
+stub: false
 honorific: Venerable
 summary: >-
   Born to the nobility, the only son of Giovanna Battista Gigli and Leopoldo Marcucci. Francesco was drawn to the

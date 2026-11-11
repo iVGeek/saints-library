@@ -1,5 +1,6 @@
 ---
 name: Blessed José María Urruchi Ortiz
+stub: false
 honorific: Blessed
 summary: >-
   Member of the Redemptorists, joining on 24 August 1927 and making his solemn profession on 15 September 1930. Ordained

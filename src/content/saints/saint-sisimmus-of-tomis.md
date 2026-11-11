@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Sisimmus of Tomis
+stub: true
 honorific: Saint
 summary: Martyr.
 searchAliases:

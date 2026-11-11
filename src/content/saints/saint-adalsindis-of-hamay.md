@@ -1,5 +1,6 @@
 ---
 name: Saint Adalsindis of Hamay
+stub: false
 honorific: Saint
 summary: >-
   Daughter of Saint Adalbald of Ostrevant and Saint Rictrudis of Marchiennes. Sister of Saint Eusebia of Hamay, Saint

@@ -1,5 +1,6 @@
 ---
 name: Saint Armin of Egypt
+stub: true
 honorific: Saint
 summary: Venerated in Egypt and Ethiopia, but no details of him have survived.
 deathYear: 304

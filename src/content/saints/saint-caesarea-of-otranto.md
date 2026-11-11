@@ -1,5 +1,6 @@
 ---
 name: Saint Caesarea of Otranto
+stub: false
 honorific: Saint
 summary: >-
   Daughter of Louis and Lucrezia. Following the death of her mother, the teenage Caesarea left home to escape the

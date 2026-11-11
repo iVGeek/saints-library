@@ -1,5 +1,6 @@
 ---
 name: Saint Placid of Dissentis
+stub: false
 honorific: Saint
 summary: >-
   Wealthy seventh century Swiss land owner. Friend of Saint Sigisbert of Dissentis. Donated the land on which Dissentis

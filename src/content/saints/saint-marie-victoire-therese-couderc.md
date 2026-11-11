@@ -1,5 +1,6 @@
 ---
 name: Saint Marie Victoire Therese Couderc
+stub: false
 honorific: Venerable
 summary: >-
   Nun in the Sisters of Saint Regis. Novice mistress and house superior in La Louvesc, France. Superior general of her

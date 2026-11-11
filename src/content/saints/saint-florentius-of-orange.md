@@ -1,5 +1,6 @@
 ---
 name: Saint Florentius of Orange
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Orange, France. Known for his scholarship, his personal piety, and his non-stop fight against the heresies

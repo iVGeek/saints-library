@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Romeo of Limoges
+stub: false
 honorific: Blessed
 summary: >-
   Carmelite lay brother of Limoges, France. Pilgrim companion of Saint Avertanus of Limoges to Rome, Italy and the Holy

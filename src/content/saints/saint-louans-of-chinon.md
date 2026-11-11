@@ -4,6 +4,7 @@ imageAlt: "Saint Louans, Terres de Loire"
 imageCredit: Nominis (French Episcopal Conference)
 imageCreditUrl: https://nominis.cef.fr
 name: Saint Louans of Chinon
+stub: false
 honorific: Saint
 summary: >-
   Seventh century monk at the Abbey of Saint Mesmin near Orleans, France. Feeling a need for solitude with God, he

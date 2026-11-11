@@ -1,5 +1,6 @@
 ---
 name: Saint Martiniano of Pecco
+stub: true
 honorific: Saint
 summary: Soldier in the Theban Legion. Martyr.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Martiniano-of-Pecco.jpg

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Constantine of Cornwall
+stub: false
 honorific: Saint
 summary: >-
   Born a Cornish prince, the son of King Paternus. After a life of vice, Constantine had a conversion experience,

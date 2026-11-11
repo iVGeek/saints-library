@@ -1,5 +1,6 @@
 ---
 name: Saint Aredius of Limoges
+stub: false
 honorific: Saint
 summary: >-
   Founded the monastery of Atane in Limousin, France. The village of Saint Yrieux grew up around the monastery, and was

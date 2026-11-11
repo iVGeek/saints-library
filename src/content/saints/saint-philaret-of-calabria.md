@@ -1,5 +1,6 @@
 ---
 name: Saint Philaret of Calabria
+stub: false
 honorific: Saint
 summary: >-
   Born a Calabrian family who had been forced to emigrate due to Saracen invasion. He returned to Calabria, Italy in

@@ -1,5 +1,6 @@
 ---
 name: Saint Jean-Charles Cornay
+stub: false
 honorific: Venerable
 summary: >-
   Priest. Member of the Paris Society of Foreign Missions. Missionary to Vietnam, working in Annam. Accused of theft

@@ -1,5 +1,6 @@
 ---
 name: Saint Chrodegang of Metz
+stub: false
 honorific: Saint
 summary: >-
   Son of Sigram and Landrada; related to Pepin the Short; brother of Saint Opportuna of Montreuil. Educated at Saint

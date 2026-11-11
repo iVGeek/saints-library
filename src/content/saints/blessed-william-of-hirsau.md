@@ -1,5 +1,6 @@
 ---
 name: Blessed William of Hirsau
+stub: false
 honorific: Blessed
 summary: >-
   Benedictine monk. Abbot at Saint Emmeram monastery, Ratisbon (Regensburg), Germany. Abbot of Hirsau abbey,

@@ -1,5 +1,6 @@
 ---
 name: Saint Thamel
+stub: false
 honorific: Saint
 summary: >-
   Pagan priest. Convert to Christianity. Martyred with his sister, whose name has not come down to us, in the

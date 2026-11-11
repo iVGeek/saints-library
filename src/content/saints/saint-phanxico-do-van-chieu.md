@@ -1,5 +1,6 @@
 ---
 name: Saint Phanxicô Ðo Van Chieu
+stub: false
 honorific: Venerable
 summary: >-
   Raised in a Christian family. Layman catechist in the apostolic vicariate of East Tonkin (modern Vietnam). Devoted

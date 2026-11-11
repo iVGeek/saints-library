@@ -1,5 +1,6 @@
 ---
 name: Saint Robert of Chaise-Dieu
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility, related to Saint Gerald of Aurillac. Studied at the Church of Saint-Julien in Brioude, France.

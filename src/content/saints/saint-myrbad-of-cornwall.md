@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Myrbad of Cornwall
+stub: false
 honorific: Saint
 summary: Sixth century saint who lived in Cornwall. A church is dedicated to him, but no information about him has survived.
 born: Ireland

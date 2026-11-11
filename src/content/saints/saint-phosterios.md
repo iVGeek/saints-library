@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Phosterios
+stub: false
 honorific: Saint
 summary: >-
   Sixth-century mountain hermit noted for going into the community to defend orthodox Christianity against the heresies

@@ -1,5 +1,6 @@
 ---
 name: Blessed Andé Angar
+stub: false
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Den_nyare_natur%C3%A5sk%C3%A5dningen.djvu/page1-960px-Den_nyare_natur%C3%A5sk%C3%A5dningen.djvu.jpg
 honorific: Blessed

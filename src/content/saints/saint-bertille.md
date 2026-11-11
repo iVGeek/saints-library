@@ -1,5 +1,6 @@
 ---
 name: Saint Bertille
+stub: false
 honorific: Saint
 summary: >-
   French noble in the reign of King Dagobert I. Friend and spiritual student of Saint Ouen of Rouen. Bertille wanted to

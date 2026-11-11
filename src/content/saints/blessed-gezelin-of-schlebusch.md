@@ -1,5 +1,6 @@
 ---
 name: Blessed Gezelin of Schlebusch
+stub: false
 honorific: Blessed
 summary: >-
   12th-century hermit and Cistercian lay brother at Altenberg Abbey where he worked as a shepherd. Miracle worker,

@@ -1,5 +1,6 @@
 ---
 name: Martyrs of Palestine
+stub: false
 honorific: Saint
 summary: A group of early 5th century monks in Palestine who were martyred by invading Arabs.
 region: Holy Land

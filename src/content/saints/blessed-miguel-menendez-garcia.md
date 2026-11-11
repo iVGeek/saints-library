@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/8/8c/Tumba_de_San_Pedro_de_Jesus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Miguel Menéndez García
+stub: true
 honorific: Blessed
 summary: Dominican priest. Martyred in the Spanish Civil War.
 birthYear: 1885

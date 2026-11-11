@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Mitrius
+stub: false
 honorific: Saint
 summary: >-
   Slave in Aix-en-Provence, France. Routinely abused by his master and even his fellow slaves for being a Christian.

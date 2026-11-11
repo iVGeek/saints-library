@@ -1,5 +1,6 @@
 ---
 name: Saint Francisco Coll Guitart
+stub: false
 honorific: Venerable
 summary: >-
   One of ten children. His father, Peter, died when Francis was only four. Confirmed in 1818 at age six. Entered the

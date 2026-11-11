@@ -1,5 +1,6 @@
 ---
 name: Saint Desideratus of Gourdon
+stub: false
 honorific: Saint
 summary: >-
   Sixth-century priest and hermit in Gourdon the area of modern Burgundy, France. Pope Saint Gregory the Great wrote of

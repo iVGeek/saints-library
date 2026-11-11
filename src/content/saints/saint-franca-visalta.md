@@ -1,5 +1,6 @@
 ---
 name: Saint Franca Visalta
+stub: false
 honorific: Saint
 summary: ' However, on Placed in the Benedictine convent of Saint Syrus at Piacenza, Italy in 1177 at age seven, she joined the Order at age 14. Abbess while still young, but removed from the office due to the severe austerities she imposed, and she became isolated from most of her sisters.'
 image: https://commons.wikimedia.org/wiki/Special:FilePath/Santa_Franca_%2528Mosteiro_de_Arouca%2529.png?width=600

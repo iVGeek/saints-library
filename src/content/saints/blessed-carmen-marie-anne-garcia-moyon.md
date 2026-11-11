@@ -1,5 +1,6 @@
 ---
 name: Blessed Carmen Marie Anne García Moyon
+stub: false
 honorific: Blessed
 summary: Lay woman in the archdiocese of Valencia, Spain. Catechist. Raped and martyred in the Spanish Civil War.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Carmen-Marie-Anne-García-Moyon.jpg

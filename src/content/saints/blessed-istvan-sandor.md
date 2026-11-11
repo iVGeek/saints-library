@@ -1,5 +1,6 @@
 ---
 name: Blessed István Sándor
+stub: false
 honorific: Blessed
 summary: >-
   Printer. Salesian lay brother in 1940. Led a group of young Catholic workers. Arrested in 1952 by the Hungarian

@@ -1,5 +1,6 @@
 ---
 name: Saint Fanchea of Rossory
+stub: false
 honorific: Saint
 summary: >-
   Sister of Saint Enda of Arran, Saint Lochina, Saint Carecha and Saint Dareima. Nun. Persuaded her brother to become a

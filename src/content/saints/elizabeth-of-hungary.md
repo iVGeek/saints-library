@@ -1,5 +1,6 @@
 ---
 name: Elizabeth of Hungary
+stub: false
 honorific: Saint
 title: Laywoman
 summary: >-

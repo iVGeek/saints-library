@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/7/76/St._Parthenius.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Parthenius of Rome
+stub: false
 honorific: Saint
 summary: >-
   Brother of Saint Calocerus. Eunuch in the palace of Tryphonia, wife of emperor Decius, in charge of Anatolia, daughter

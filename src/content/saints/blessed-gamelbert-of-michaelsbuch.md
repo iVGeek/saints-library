@@ -1,5 +1,6 @@
 ---
 name: Blessed Gamelbert of Michaelsbuch
+stub: false
 honorific: Blessed
 summary: >-
   Born to a wealthy family, and may have been a member of the nobility. Pilgrim to Rome, Italy. Parish priest in

@@ -1,5 +1,6 @@
 ---
 name: Saint Comgall of Bangor
+stub: false
 honorific: Saint
 summary: >-
   Son of Sedna. Soldier. Spiritual student of Saint Fintan of Clonenagh and Saint Kieran at Clonmacnoise. Friend of

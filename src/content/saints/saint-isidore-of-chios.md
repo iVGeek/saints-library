@@ -1,5 +1,6 @@
 ---
 name: Saint Isidore of Chios
+stub: false
 honorific: Saint
 summary: >-
   Sailor. Brought Christianity to the Greek island of Chios. Martyred in the persecutions of Decius for refusing to

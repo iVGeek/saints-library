@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/8/82/Siegel_Otto_I_Posse.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Judith of Ringelheim
+stub: false
 honorific: Blessed
 summary: Sister of Saint Bernward of Hildesheim. All traces of her history were destroyed by Protestants.
 searchAliases:

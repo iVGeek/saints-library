@@ -1,5 +1,6 @@
 ---
 name: Saint Desideratus of Bourges
+stub: false
 honorific: Saint
 summary: >-
   His was a pious family; his parents turned their home into a hospital, and his brothers, Deodato and Didier, died as a

@@ -1,5 +1,6 @@
 ---
 name: Saint Lillian of Cordoba
+stub: false
 honorific: Saint
 summary: >-
   Lay woman in Moorish controlled ninth-century Spain. Married to Saint Felix of Cordoba. A covert Christian who was

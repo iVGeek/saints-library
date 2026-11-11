@@ -1,5 +1,6 @@
 ---
 name: Blessed Liduina Meneguzzi
+stub: false
 honorific: Blessed
 summary: >-
   Born to a poor farm family. Noted as a child for her piety, attending daily Mass, praying often, teaching catechism as

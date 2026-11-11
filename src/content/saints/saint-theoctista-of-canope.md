@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Theoctista of Canope
+stub: false
 honorific: Saint
 summary: Daughter of Saint Athanasia of Canope. Martyred in the persecutions of Diocletian.
 deathYear: 303

@@ -1,5 +1,6 @@
 ---
 name: Saint Artemon of Laodicia
+stub: true
 honorific: Saint
 summary: Priest. Martyred in the persecutions of Diocletian.
 deathYear: 305

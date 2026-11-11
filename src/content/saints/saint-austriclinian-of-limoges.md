@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Austriclinian of Limoges
+stub: true
 honorific: Saint
 summary: Priest in the diocese of Limoges, France. Worked with Saint Martial of Limoges.
 deathYear: 250

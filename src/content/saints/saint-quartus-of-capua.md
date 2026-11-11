@@ -1,5 +1,6 @@
 ---
 name: Saint Quartus of Capua
+stub: true
 honorific: Saint
 summary: Martyr.
 image: https://catholicsaints.info/wp-content/uploads/img-Saints-Quarto-and-Quinto.jpg

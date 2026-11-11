@@ -1,5 +1,6 @@
 ---
 name: Saint Rafael Arnáiz Barón
+stub: false
 honorific: Venerable
 summary: >-
   An artistic young man, he studied architecture in Madrid, Spain. However, he felt a call to the religious life, and on

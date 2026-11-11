@@ -1,5 +1,6 @@
 ---
 name: Saint Lucinus of Angers
+stub: false
 honorific: Saint
 summary: >-
   Born to the French nobility. Count of Anjou. He gave up the title and worldly life to become a monk. Bishop of Angers,

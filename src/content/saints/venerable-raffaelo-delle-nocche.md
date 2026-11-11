@@ -1,5 +1,6 @@
 ---
 name: Venerable Raffaelo delle Nocche
+stub: false
 honorific: Venerable
 summary: >-
   Ordained a priest on 1 June 1901. Chosen bishop of Tricarico, Italy on 28 JUne 1922. Founded the Sisters Disciples of

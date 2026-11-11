@@ -1,5 +1,6 @@
 ---
 name: Blessed Antonio González Alonso
+stub: false
 honorific: Blessed
 summary: >-
   The son of Severino, Antonio became a lifelong layman in the diocese of Oviedo, Spain. At one point he tried to joined

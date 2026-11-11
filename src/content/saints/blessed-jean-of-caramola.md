@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Jean of Caramola
+stub: false
 honorific: Blessed
 title: Hermit
 summary: >-

@@ -1,5 +1,6 @@
 ---
 name: Martyrs in Africa
+stub: false
 honorific: Saint
 summary: A group of 220 Christians martyrs about whom we know nothing but that they died for their faith.
 region: Africa

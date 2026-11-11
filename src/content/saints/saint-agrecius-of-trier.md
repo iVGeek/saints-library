@@ -1,5 +1,6 @@
 ---
 name: Saint Agrecius of Trier
+stub: false
 honorific: Saint
 summary: >-
   Nothing reliable is recorded about his life before his service to the Church. Patriarch of Antioch. Friend and advisor

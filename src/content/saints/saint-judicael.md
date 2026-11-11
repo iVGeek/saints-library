@@ -1,5 +1,6 @@
 ---
 name: Saint Judicaël
+stub: false
 honorific: Saint
 summary: >-
   Son of the king of Domnonia, Brittany (in modern France). Brother of Saint Joducus. Well-loved king of Domnonia.

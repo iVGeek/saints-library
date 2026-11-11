@@ -1,5 +1,6 @@
 ---
 name: Saint Elizabeth of Schönau
+stub: false
 honorific: Saint
 summary: >-
   Born to the German nobility. Raised and educated in Schönau Benedictine abbey near Bingen, Germany from age 12.

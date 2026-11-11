@@ -1,5 +1,6 @@
 ---
 name: Saint Benildus
+stub: false
 honorific: Venerable
 summary: >-
   Educated by the De La Salle Brothers. An excellent student, he was a part-time teacher by age 14. Joined the De La

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Muiredach
+stub: true
 honorific: Saint
 title: Hermit
 summary: Pious hermit in 12th century Argyllshire, Scotland.

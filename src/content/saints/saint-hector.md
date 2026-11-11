@@ -1,5 +1,6 @@
 ---
 name: Saint Hector
+stub: false
 honorific: Saint
 summary: Martyred in the persecutions of Diocletian, possibly in Greece. No other information has survived.
 searchAliases:

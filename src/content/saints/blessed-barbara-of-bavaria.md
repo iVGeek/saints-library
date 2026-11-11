@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/4c/Wilhelm_Kalteysen_-_Saint_Barbara_Altarpiece_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Barbara of Bavaria
+stub: false
 honorific: Blessed
 summary: >-
   Born to the nobility, the daughter of Duke Albert of Bavaria (in modern Germany). She became a Poor Clare nun in

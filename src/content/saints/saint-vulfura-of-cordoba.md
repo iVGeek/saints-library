@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Vulfura of Cordoba
+stub: false
 honorific: Saint
 summary: >-
   Vulfura had a dream in which he was told that in Cordoba, Spain he would meet a young woman with whom he would be

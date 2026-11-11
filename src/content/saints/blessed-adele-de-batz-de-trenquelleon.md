@@ -1,5 +1,6 @@
 ---
 name: Blessed Adèle de Batz de Trenquelléon
+stub: false
 honorific: Blessed
 summary: >-
   Born to the French nobility, the daughter of Baron Charles de Trenquelléon and Marie-Ursule de Peyronnencq de

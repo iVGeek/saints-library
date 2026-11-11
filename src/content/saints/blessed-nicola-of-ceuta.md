@@ -1,5 +1,6 @@
 ---
 name: Blessed Nicola of Ceuta
+stub: false
 honorific: Blessed
 summary: >-
   Priest. One of a group of seven Franciscan Friars Minor missionaries to Muslims in the Ceuta area of modern Morocco.

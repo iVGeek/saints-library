@@ -1,5 +1,6 @@
 ---
 name: Saint Sabino of Abellinum
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Abellinum, an ancient imperial Roman city whose ruins are found in modern Atripalda, Italy, which is now

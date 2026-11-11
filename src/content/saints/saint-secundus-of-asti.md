@@ -1,5 +1,6 @@
 ---
 name: Saint Secundus of Asti
+stub: false
 honorific: Saint
 summary: >-
   Born to the patrician class. Soldier; subaltern officer in the imperial Roman army, a low rank which probably

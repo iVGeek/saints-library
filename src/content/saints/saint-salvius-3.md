@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Salvius of Normandy
+stub: false
 honorific: Saint
 title: Hermit
 summary: >-

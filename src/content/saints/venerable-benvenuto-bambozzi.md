@@ -1,5 +1,6 @@
 ---
 name: Venerable Benvenuto Bambozzi
+stub: false
 honorific: Venerable
 summary: >-
   Benvenuto joined the Franciscan Order of Friars Minor Conventual in 1822. Ordained a priest in 1834. Noted for his

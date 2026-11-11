@@ -1,5 +1,6 @@
 ---
 name: Blessed Balduino of Rieti
+stub: false
 honorific: Blessed
 summary: >-
   Born to a pious noble family, the son of Berardo X, Count of Marsi; his brother Rainaold became abbot of Montecassino

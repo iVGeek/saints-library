@@ -1,5 +1,6 @@
 ---
 name: Blessed Agapios of Vatopedi
+stub: false
 honorific: Blessed
 summary: >-
   16th-century monk at the Vatopedi monastery. Hermit on Mount Athos. Captured by Turkish pirates, he was sold into

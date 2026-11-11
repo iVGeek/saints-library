@@ -1,5 +1,6 @@
 ---
 name: Blessed Henri Vergès
+stub: false
 honorific: Blessed
 summary: >-
   Educated from age 12 by the Marist Brothers of the Schools, he studied in Espirá de l'Aglí and

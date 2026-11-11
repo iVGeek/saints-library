@@ -1,5 +1,6 @@
 ---
 name: Saint Emanuele Lê Van Phung
+stub: false
 honorific: Venerable
 summary: >-
   Married layman in the apostolic vicariate of West Cochinchina (in modern Vietnam). Father and catechist; he built a

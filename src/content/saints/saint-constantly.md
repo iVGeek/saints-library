@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Constantly
+stub: false
 honorific: Saint
 summary: >-
   Daughter of Constantine the Great. Healed of an unnnamed mortal illness a the tomb of Saint Agnes of Rome, she

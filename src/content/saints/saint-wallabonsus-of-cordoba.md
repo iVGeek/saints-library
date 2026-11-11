@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Wallabonsus of Cordoba
+stub: false
 honorific: Saint
 summary: >-
   His mother was a Christan convert from Islam; his sister Maria became a nun. Educated at the monastery of Saint Felix.

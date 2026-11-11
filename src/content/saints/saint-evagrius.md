@@ -1,5 +1,6 @@
 ---
 name: Saint Evagrius
+stub: true
 honorific: Saint
 summary: Martyr. No other information has survived.
 died: Tomi (modern Constanta, Romania)

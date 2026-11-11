@@ -1,5 +1,6 @@
 ---
 name: Blessed Arnald Arench
+stub: false
 honorific: Blessed
 summary: >-
   Mercedarian friar. Professor in a medical school in Montpellier, France. Preacher and writer who made expeditions to

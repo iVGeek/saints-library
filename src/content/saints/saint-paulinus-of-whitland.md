@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/c/c0/Etole_de_Saint_Paul_Aur%C3%A9lien.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Paulinus of Whitland
+stub: false
 honorific: Saint
 summary: >-
   Spiritual student of Saint Illtyd. Monk. Founded the monastery of Whitland in Wales and served as its abbot. Spritual

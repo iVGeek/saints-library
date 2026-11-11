@@ -1,5 +1,6 @@
 ---
 name: Blessed Aurelio da Vinalesa
+stub: false
 honorific: Blessed
 summary: >-
   Third of seven children. Joined the Franciscan Capuchins in 1912, making his perpetual vows on 18 December 1917.

@@ -1,5 +1,6 @@
 ---
 name: Blessed Antoni Julian Nowowiejski
+stub: false
 honorific: Blessed
 summary: >-
   Antoni studied at the seminary of Plock, Poland, and was ordained a priest on 10 July 1881 in Plock. Professor and

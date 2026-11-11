@@ -1,5 +1,6 @@
 ---
 name: Saint Maria Fu Guilin
+stub: false
 honorific: Venerable
 summary: >-
   Lay woman in the apostolic vicariate of Southeastern Zhili, China. Teacher. Turned over to the pagan persecutors in

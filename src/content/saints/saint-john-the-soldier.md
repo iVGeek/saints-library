@@ -1,5 +1,6 @@
 ---
 name: Saint John the Soldier
+stub: false
 honorific: Saint
 summary: >-
   Fourth-century Christian soldier in the imperial Roman army during the reign of Julian the Apostate. Assisted

@@ -1,5 +1,6 @@
 ---
 name: Blessed Tobias Francisco Borrás Román
+stub: false
 honorific: Blessed
 summary: >-
   Married in 1884 at age 23, he became a widower when his wife died in the cholera epidemic of 1885-1886. He joined the

@@ -1,5 +1,6 @@
 ---
 name: Blessed Álvaro Sanjuán Canet
+stub: false
 honorific: Blessed
 summary: >-
   Member of the Salesians of Don Bosco. Studied at the seminary of Campello, Alicante, Spain, and then in Turin, Italy.

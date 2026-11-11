@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Victorian of Asana
+stub: false
 honorific: Saint
 summary: >-
   Founded monasteries and hospices in Italy. Travelled and settled briefly in France. Founded and directed a community

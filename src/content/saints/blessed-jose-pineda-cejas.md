@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/4b/Juan_Valdez%2C_actor.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed José Pineda Cejas
+stub: false
 honorific: Blessed
 summary: Priest of the diocese of Córdoba, Spain, serving in the Puente Genil community. Martyred in the Spanish Civil War.
 birthYear: 1900

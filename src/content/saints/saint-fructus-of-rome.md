@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Fructus of Rome
+stub: true
 honorific: Saint
 summary: Martyr.
 died: Rome, Italy, date unknown

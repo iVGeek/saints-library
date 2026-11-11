@@ -1,5 +1,6 @@
 ---
 name: Blessed Marie-Madeleine-Claudine Lidoine
+stub: false
 honorific: Blessed
 summary: >-
   Carmelite nun, professed in May 1775. Prioress. One of the Carmelite Martyrs of Compiegne, killed in the anti-Catholic

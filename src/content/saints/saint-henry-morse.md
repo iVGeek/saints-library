@@ -1,5 +1,6 @@
 ---
 name: Saint Henry Morse
+stub: false
 honorific: Venerable
 summary: >-
   Convert. Studied for the priesthood in Rome, Italy. Joined the Jesuits in 1626. Worked as a covert priest in London,

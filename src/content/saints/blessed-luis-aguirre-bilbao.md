@@ -1,5 +1,6 @@
 ---
 name: Blessed Luis Aguirre Bilbao
+stub: false
 honorific: Blessed
 summary: >-
   Orphaned as a small boy. Worked as a mechanic while studying to enter the Vincentians, making his profession on 30

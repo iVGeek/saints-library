@@ -1,5 +1,6 @@
 ---
 name: Saint Seiriol Wyn
+stub: false
 honorific: Saint
 summary: >-
   The son of King Owain Danwyn of Rhos; brother of King Cynlas of Rhos and King Saint Einion of Llyn. Called to

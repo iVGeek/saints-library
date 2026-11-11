@@ -1,5 +1,6 @@
 ---
 name: Saint Romano of Antioch
+stub: false
 honorific: Saint
 summary: >-
   Deacon in Caesarea. Preached publicly against Christians sacrificing to idols as a way to get along with pagan

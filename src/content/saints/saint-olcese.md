@@ -1,5 +1,6 @@
 ---
 name: Saint Olcese
+stub: false
 honorific: Saint
 summary: >-
   Bishop in Gaul (modern France) in the late 4th and early 5th century. When his region was invaded by Vandals c.407,

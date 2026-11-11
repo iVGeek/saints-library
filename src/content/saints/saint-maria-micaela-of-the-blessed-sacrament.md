@@ -1,5 +1,6 @@
 ---
 name: Saint María Micaela of the Blessed Sacrament
+stub: false
 honorific: Blessed
 summary: >-
   The daughter of Miguel Desmaisières y Flores, a high-ranking officer in the Spanish army, and Bernarda López de

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Siricius of Hadrumetum
+stub: true
 honorific: Saint
 summary: One of a group of 26 martyrs killed by Vandals.
 deathYear: 434

@@ -1,5 +1,6 @@
 ---
 name: Saint Bonifacia Rodriguez Castro
+stub: false
 honorific: Venerable
 summary: >-
   One of six children born to the pious family of Joseph Rodríguez Gutiérrez, a tailor, and Maria Natalia Jiménez

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Hildemarca of Fécamp
+stub: false
 honorific: Saint
 summary: >-
   Benedictine nun at the Saint Eulalia convent in Bordeaux, France. Invited by Saint Wandrille to govern the monastery

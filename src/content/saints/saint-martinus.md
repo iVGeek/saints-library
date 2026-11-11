@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Martinus
+stub: false
 honorific: Saint
 summary: >-
   With Saint Declan, he was an eighth century evangelist to the Germanic people who had been brought the faith by Saint

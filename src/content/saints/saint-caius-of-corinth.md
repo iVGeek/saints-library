@@ -1,5 +1,6 @@
 ---
 name: Saint Caius of Corinth
+stub: false
 honorific: Saint
 summary: Convert from Corinth, Greece, baptized by Saint Paul the Apostle. First bishop of Thessalonica. Martyr.
 searchAliases:

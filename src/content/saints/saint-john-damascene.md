@@ -1,5 +1,6 @@
 ---
 name: Saint John Damascene
+stub: false
 honorific: Saint
 summary: >-
   Son of Mansur, representative of the Christians to the court of the Muslim caliph. Apparently thrived as a Christian

@@ -1,5 +1,6 @@
 ---
 name: Blessed Carmen Moreno Benítez
+stub: false
 honorific: Blessed
 summary: >-
   Born to a wealthy and pious Christian family. Sister in the Daughters of Mary, Help of Christians, joining in Seville,

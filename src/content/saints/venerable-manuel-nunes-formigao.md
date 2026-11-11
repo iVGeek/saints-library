@@ -1,5 +1,6 @@
 ---
 name: Venerable Manuel Nunes Formigão
+stub: false
 honorific: Venerable
 summary: >-
   Baptised at the age of seven weeks. Feeling an early call to the priesthood, he entered the minor seminary in Farrobo,

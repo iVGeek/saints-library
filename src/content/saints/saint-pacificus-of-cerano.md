@@ -1,5 +1,6 @@
 ---
 name: Saint Pacificus of Cerano
+stub: false
 honorific: Saint
 summary: >-
   Pacificus was orphaned very young. Educated at the Benedictine monastery in Novara, Italy. Joined the Franciscan

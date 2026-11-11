@@ -1,5 +1,6 @@
 ---
 name: Saint Madeline Sophie Barat
+stub: false
 honorific: Venerable
 summary: >-
   Daughter of Jacques Barat, a cooper who worked with the vineyards for whom he supplied barrels. Naturally bright, she

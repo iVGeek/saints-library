@@ -1,5 +1,6 @@
 ---
 name: Venerable Félix de Jesús Rougier
+stub: false
 honorific: Venerable
 summary: >-
   Ordained at age 27. Missionary to Colombia for six years. Missionary to Mexico in 1902. Founder the Congregation of

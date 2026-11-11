@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Mirin of Bangor
+stub: false
 honorific: Saint
 summary: >-
   Spiritual student of Saint Comgall of Bangor. Monk. Evangelized the area of Strathclyde, Scotland. Founded Paisley

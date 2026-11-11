@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/8/82/IsabelPort.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Urraca of Cañas
+stub: false
 honorific: Blessed
 summary: >-
   Born to the Castilian nobility, the daughter of Diego Leopez II of Haro and Toda Perez de Azagra; niece of Queen

@@ -1,5 +1,6 @@
 ---
 name: Blessed Teresio Olivelli
+stub: false
 honorific: Blessed
 summary: >-
   Son of Domenico Olivelli and Clelia Invernizzi, Teresio grew up in a very religious family. His maternal uncle, Father

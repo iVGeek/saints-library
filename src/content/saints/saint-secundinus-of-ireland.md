@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Secundinus of Ireland
+stub: false
 honorific: Saint
 summary: >-
   Migrated to Ireland in 439 with Saint Auxilius and Saint Iserninus to help Saint Patrick evangelize the country;

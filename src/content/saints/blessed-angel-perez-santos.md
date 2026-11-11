@@ -1,5 +1,6 @@
 ---
 name: Blessed Ángel Pérez Santos
+stub: true
 image: >-
   https://commons.wikimedia.org/wiki/Special:FilePath/Buenos_Aires_-_Pasaje_Enrique_Santos_Disc%25C3%25A9polo_-_HDR.jpg?width=600
 honorific: Blessed

@@ -1,5 +1,6 @@
 ---
 name: Blessed Alexius Sanbashi Saburo
+stub: false
 honorific: Blessed
 summary: >-
   Lifelong layman in the archdiocese of Nagasaki, Japan. Member of the Lay Dominicans. Catechist. Martyred in the

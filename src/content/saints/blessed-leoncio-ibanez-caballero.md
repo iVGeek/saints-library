@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Leoncio Ibáñez Caballero
+stub: false
 honorific: Blessed
 summary: Member of the Benedictine Solesmes Congregation. Martyred in the Spanish Civil War.
 searchAliases:

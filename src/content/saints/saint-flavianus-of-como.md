@@ -1,5 +1,6 @@
 ---
 name: Saint Flavianus of Como
+stub: true
 honorific: Saint
 title: Bishop
 summary: Bishop of Como, Italy from 553 to 566.

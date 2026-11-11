@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Quieta of Dijon
+stub: true
 honorific: Saint
 summary: Wife of Saint Hilary, with whom she was martyred.
 died: 5th century Dijon, France

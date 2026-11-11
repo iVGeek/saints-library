@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Odino of Rot
+stub: false
 honorific: Blessed
 summary: >-
   Born to the German nobility, related to the counts of Rajasthan and Waldburg. Premonstratensian monk. Canon of

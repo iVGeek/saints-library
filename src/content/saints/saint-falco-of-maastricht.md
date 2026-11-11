@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Falco of Maastricht
+stub: true
 honorific: Saint
 title: Bishop
 summary: Bishop of Maastricht, Netherlands from 495 till his death.

@@ -1,5 +1,6 @@
 ---
 name: Blessed Macarius the Scot
+stub: false
 honorific: Blessed
 summary: >-
   Benedictine monk. Prior of the Scots Monastery Saint Jacob in Regensburg, Germany c.1138. First abbot of the Scots

@@ -1,5 +1,6 @@
 ---
 name: Saint Bonfilius of Foligno
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility. Benedictine monk and then abbot of Santa Maria di Storaco Abbey where he was known for his

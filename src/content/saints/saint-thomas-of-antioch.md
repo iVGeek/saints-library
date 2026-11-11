@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Thomas of Antioch
+stub: true
 honorific: Saint
 summary: Hermit near Antioch, Syria.
 deathYear: 782

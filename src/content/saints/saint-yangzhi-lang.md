@@ -1,5 +1,6 @@
 ---
 name: Saint Yangzhi Lang
+stub: false
 honorific: Venerable
 summary: >-
   Lay woman in the apostolic vicariate of Southeastern Zhili, China. She married Christian man, became a catechumen, and

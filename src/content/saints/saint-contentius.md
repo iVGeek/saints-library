@@ -1,5 +1,6 @@
 ---
 name: Saint Contentius of Bayeux
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Bayeux, Normandy, France, from 480 until his death. He was so zealous in his preaching the proper way to

@@ -1,5 +1,6 @@
 ---
 name: Saint Nonna
+stub: false
 honorific: Saint
 summary: >-
   Daughter of Filtazius, she was raised in a Christian home. Married and converted Saint Gregory of Nazianzen the Elder.

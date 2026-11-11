@@ -1,5 +1,6 @@
 ---
 name: Blessed Rosalie Rendu
+stub: false
 honorific: Blessed
 summary: >-
   Eldest of four daughters in a middle class mountain family. When she was three years old, the French Revolution broke

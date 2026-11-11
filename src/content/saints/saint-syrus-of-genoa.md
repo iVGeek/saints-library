@@ -1,5 +1,6 @@
 ---
 name: Saint Syrus of Genoa
+stub: false
 honorific: Saint
 summary: Parish priest. Spiritual student of Saint Felix of Genoa. Bishop of Genoa, Italy.
 image: https://commons.wikimedia.org/wiki/Special:FilePath/Polittico_S_Siro_01.jpg?width=600

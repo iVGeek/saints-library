@@ -1,6 +1,7 @@
 ---
 image: https://www.catholic.org/files/images/saints/2835.jpg
 name: Saint David of Sweden
+stub: false
 honorific: Saint
 summary: >-
   Born to the 10th-century English nobility. Benedictine monk. Abbot of a monastery in Sweden. Worked with Saint

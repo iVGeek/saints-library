@@ -1,5 +1,6 @@
 ---
 name: Saint Orestes of Cappadocia
+stub: true
 honorific: Saint
 summary: Christian physician martyred in the persecutions of Diocletian.
 image: >-

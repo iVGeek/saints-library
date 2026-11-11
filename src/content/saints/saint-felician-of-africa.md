@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Felician of Africa
+stub: true
 honorific: Saint
 summary: Marytred with 125 companions. No other information has survived.
 born: African

@@ -1,5 +1,6 @@
 ---
 name: Blessed Marie-Anne Piedcourt
+stub: false
 honorific: Blessed
 summary: >-
   Discalced Carmelite nun, professed in 1737. She sang in the convent choir. One of the Carmelite Martyrs of Compiegne,

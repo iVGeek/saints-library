@@ -1,5 +1,6 @@
 ---
 name: Saint Jane Antide Thouret
+stub: false
 honorific: Venerable
 summary: >-
   Daughter of a tanner. Her mother died when Jane was 16 years old, leaving the girl to manage the family and help her

@@ -1,5 +1,6 @@
 ---
 name: Saint Rudesind
+stub: false
 honorific: Saint
 summary: >-
   Born to the Spanish nobility, son of Count Gutierre de Mendenez. Relative of Saint Senorina and Blessed Ilduara.

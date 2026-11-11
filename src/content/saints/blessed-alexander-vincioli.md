@@ -1,5 +1,6 @@
 ---
 name: Blessed Alexander Vincioli
+stub: false
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Lucernae_Fictiles_Musei_Passerii_%28IA_bib_fict_8687496_1%29.pdf/page1-960px-Lucernae_Fictiles_Musei_Passerii_%28IA_bib_fict_8687496_1%29.pdf.jpg
 honorific: Blessed

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Cuaran the Wise
+stub: false
 honorific: Saint
 summary: >-
   Bishop in Ireland. When the requirements of the office crowded out his prayer life, Cuaran moved to Iona, hid his

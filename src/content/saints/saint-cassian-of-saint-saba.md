@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Cassian of Saint Saba
+stub: true
 honorific: Saint
 summary: Educated at the monastery of Saint Saba where he became a monk and then abbot.
 searchAliases:

@@ -1,5 +1,6 @@
 ---
 name: Saint Desiderius of Longoret
+stub: false
 honorific: Saint
 summary: >-
   Seventh century Benedictine monk at Saint-Pierre de Longoret Abbey in the diocese of Bourges, France. Spiritual

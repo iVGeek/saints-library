@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Audentius of Milan
+stub: false
 honorific: Saint
 summary: >-
   Born to the imperial Roman nobility, and a senator from Milan. When visited by Saint Julius of Novara on the island of

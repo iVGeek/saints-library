@@ -1,5 +1,6 @@
 ---
 name: Blessed Antoine-Frédéric Ozanam
+stub: false
 honorific: Blessed
 summary: >-
   Born to Jean and Marie Ozanam, the fifth of 14 children; only three of them survived to adulthood. Married layman

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Juan Nuñez Orcajo
+stub: false
 honorific: Blessed
 summary: Lay brother in the Vincentian Congregation of the Mission. Martyred in the Spanish Civil War.
 birthYear: 1882

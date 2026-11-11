@@ -1,5 +1,6 @@
 ---
 name: Blessed María Lorenza Requenses de Longo
+stub: false
 honorific: Blessed
 summary: >-
   Born to the Spanish nobility. Married to the Regent of the Viceroy of Naples, she and her husband moved to Naples,

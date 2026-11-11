@@ -1,5 +1,6 @@
 ---
 name: Saint Abraham of Harran
+stub: false
 honorific: Saint
 summary: >-
   Syrian hermit. Hoping to bring the faith to a village at Mount Lebanon, he set up shop as a fruit seller; the people

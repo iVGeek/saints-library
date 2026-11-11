@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Cyrio of Alexandria
+stub: true
 honorific: Saint
 summary: Priest. Martyr.
 died: burned at the stake in Alexandria, Egypt, date unknown

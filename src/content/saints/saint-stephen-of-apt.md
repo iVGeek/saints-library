@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Stephen of Apt
+stub: true
 honorific: Saint
 title: Bishop
 summary: Bishop of Apt, France in 1010. Re-built the cathedral there.

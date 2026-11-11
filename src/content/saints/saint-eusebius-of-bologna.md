@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Eusebius of Bologna
+stub: false
 honorific: Saint
 summary: Bishop of Bologna, Italy c.370. Friend of Saint Ambrose of Milan. Fought against Arianism.
 deathYear: 400

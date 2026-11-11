@@ -1,5 +1,6 @@
 ---
 name: Saint Nicetius of Lyon
+stub: false
 honorific: Saint
 summary: Nephew of Saint Sacerdos of Lyons. Bishop of Lyon, France in 553. Worked to revive ecclesiastical chant.
 image: https://commons.wikimedia.org/wiki/Special:FilePath/NizierdeLyon.jpg?width=600

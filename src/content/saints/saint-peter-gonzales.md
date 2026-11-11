@@ -1,5 +1,6 @@
 ---
 name: Saint Peter Gonzales
+stub: false
 honorific: Saint
 summary: >-
   Castilian nobility who mis-spent a worldly youth. Educated by his uncle, the bishop of Astorga, Spain. Priest,

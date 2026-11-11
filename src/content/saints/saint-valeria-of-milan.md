@@ -1,5 +1,6 @@
 ---
 name: Saint Valeria of Milan
+stub: false
 honorific: Saint
 summary: >-
   Wife of Saint Vitalis of Milan. Mother of Saint Gervase and Saint Protase. Martyred for given decent burial for

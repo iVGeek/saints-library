@@ -1,5 +1,6 @@
 ---
 name: Saint Narcissus of Gerona
+stub: false
 honorific: Saint
 summary: >-
   Born to he nobility. Priest, preacher and bishop of Gerona, Spain in the early 4th century. During the persecutions of

@@ -1,5 +1,6 @@
 ---
 name: Saint Edmund Rich
+stub: false
 honorific: Saint
 summary: >-
   Born to a wealthy and pious family, the son of Reinald and Mabel Rich; his father retired to become a monk, his two

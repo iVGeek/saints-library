@@ -1,5 +1,6 @@
 ---
 name: Saint Apollinaris of Valence
+stub: false
 honorific: Saint
 summary: >-
   Son of Saint Isychius. Elder brother of Saint Avitus of Vienne. Bishop of Valence, France in 486 after a long vacancy

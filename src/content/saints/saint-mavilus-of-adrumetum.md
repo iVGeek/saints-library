@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Mavilus of Adrumetum
+stub: false
 honorific: Saint
 summary: Martyred in the persecutions of Emperor Caracalla for refusing to worship idols.
 searchAliases:

@@ -1,5 +1,6 @@
 ---
 name: Blessed Maria Clara of the Child Jesus
+stub: false
 honorific: Blessed
 summary: >-
   Joined the Capuchin Tertiaries of Our Lady of the Conception in 1869, taking the name Sister Maria Clara of the Child

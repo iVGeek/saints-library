@@ -1,5 +1,6 @@
 ---
 name: Venerable Giovanni Battista Quilici
+stub: false
 honorific: Venerable
 summary: >-
   His childhood home had an attached potter's work shop. Educated by the Barnabites, Dominicans and the priests of the

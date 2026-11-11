@@ -1,5 +1,6 @@
 ---
 name: Venerable Giunio Tinarelli
+stub: false
 honorific: Venerable
 summary: >-
   Son of Alfredo and Maria Giorgini Tinarelli. Giunio was a religious boy, which put him in conflict with his

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Guimérra of Carcassone
+stub: true
 honorific: Saint
 title: Bishop
 summary: Tenth century bishop of Carcassone, Narbonne, Gaul (in modern France).

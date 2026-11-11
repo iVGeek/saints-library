@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Petrus Ch'oe Ch'ang-Hub
+stub: true
 honorific: Venerable
 summary: Married lay woman and catechist in the apostolic vicariate of Korea. Martyr.
 searchAliases:

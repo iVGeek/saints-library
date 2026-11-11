@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Athenodorus of Neo-Caesarea
+stub: false
 honorific: Saint
 summary: >-
   Brother of Saint Gregory Thaumaturgus. Student of Origen. Opposed Paul of Samosata in the First Council of Antioch.

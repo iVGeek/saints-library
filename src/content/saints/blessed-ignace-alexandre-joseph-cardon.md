@@ -1,5 +1,6 @@
 ---
 name: Blessed Ignace-Alexandre-Joseph Cardon
+stub: false
 honorific: Blessed
 summary: >-
   Benedictine monk, making his profession on 4 August 1782 at the monastery of San Mauro in Saint-Faron de Meaux,

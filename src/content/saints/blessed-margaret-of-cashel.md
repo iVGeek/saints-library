@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/9/91/Nuremberg_chronicles_f_145v_4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Margaret of Cashel
+stub: true
 honorific: Blessed
 summary: Lay woman in the diocese of Cashel, Ireland. One of the Irish Martyrs.
 deathYear: 1647

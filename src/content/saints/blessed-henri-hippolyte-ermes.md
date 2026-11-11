@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/4f/Frm_beatification_banner.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Henri-Hippolyte Ermès
+stub: false
 honorific: Blessed
 summary: >-
   Studied under the Sulpicians. Awarded a degree in literature in 1775. Ordained in the archdiocese of Paris, France in

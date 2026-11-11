@@ -1,5 +1,6 @@
 ---
 name: Saint Émilie de Villeneuve
+stub: false
 honorific: Venerable
 summary: >-
   Born to the French nobility. Nun. Founder of the Sisters of the Immaculate Conception of Castres who work for the

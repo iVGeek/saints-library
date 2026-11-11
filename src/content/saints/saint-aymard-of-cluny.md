@@ -1,5 +1,6 @@
 ---
 name: Saint Aymard of Cluny
+stub: false
 honorific: Saint
 summary: >-
   Benedictine monk. Brother monk to Saint Odo of Cluny. Third abbot of Cluny Abbey from 942 to 954. Though a man of

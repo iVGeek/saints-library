@@ -1,5 +1,6 @@
 ---
 name: Saint Isaac the Great
+stub: false
 honorific: Saint
 summary: >-
   Son of Saint Nerses the Great, Catholicos of Armenia. Studied at Constantinople. Married layman for several years.

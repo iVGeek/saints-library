@@ -1,5 +1,6 @@
 ---
 name: Venerable Antonietta Farani
+stub: false
 honorific: Venerable
 summary: >-
   Daughter of the vice-consul of Italy in Brazil, she grew up watching her family fortunes dwindle following the death

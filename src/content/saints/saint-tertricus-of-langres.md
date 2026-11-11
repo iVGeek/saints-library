@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Tertricus of Langres
+stub: false
 honorific: Saint
 title: Bishop
 summary: Son of Saint Gregory of Langres; uncle of Saint Gregory of Tours. Bishop of Langres, France c.540.

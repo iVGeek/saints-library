@@ -1,5 +1,6 @@
 ---
 name: Saint Antiochus of Caesarea Philippi
+stub: true
 honorific: Saint
 summary: Soldier. Tribune in the imperial Roman army. Martyred with other soldiers.
 died: Caesarea Philippi

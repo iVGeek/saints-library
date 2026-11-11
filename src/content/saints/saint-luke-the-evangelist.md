@@ -1,5 +1,6 @@
 ---
 name: Saint Luke the Evangelist
+stub: false
 honorific: Saint
 summary: >-
   Born to pagan Greek parents, and possibly a slave. One of the earliest converts to Christianity. Physician, studying

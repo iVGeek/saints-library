@@ -1,5 +1,6 @@
 ---
 name: Venerable Alessandra Sabini
+stub: false
 honorific: Venerable
 summary: Franciscan tertiary who founded several monasteries in the Le Marche region of Italy.
 image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Alessandra-Sabini.jpg

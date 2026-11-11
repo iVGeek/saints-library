@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/6/61/Torrecatedralypalmeras.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Paula of Málaga
+stub: true
 honorific: Saint
 summary: Martyred in the persecutions of Diocletian.
 deathYear: 305

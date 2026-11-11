@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Medrald
+stub: false
 honorific: Saint
 summary: Benedictine monk at Saint-Evroult, Ouche, France. Abbot of Vendome, France in the mid-9th century.
 searchAliases:

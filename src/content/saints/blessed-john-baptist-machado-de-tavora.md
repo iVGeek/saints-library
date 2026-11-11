@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/48/Painting_of_the_Nagasaki_Martyrs.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed John Baptist Machado de Tavora
+stub: false
 honorific: Blessed
 summary: Jesuit at Coimbra, Portugal. Missionary to Japan in 1609. One of the Franciscan Martyrs of Japan.
 birthYear: 1580

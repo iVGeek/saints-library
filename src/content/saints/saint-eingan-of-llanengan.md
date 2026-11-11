@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Eingan of Llanengan
+stub: false
 honorific: Saint
 summary: Sixth century British prince in Cumberland who abdicated to live as a hermit at Llanengan near Bangor, Wales.
 searchAliases:

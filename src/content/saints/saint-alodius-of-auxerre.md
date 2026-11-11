@@ -1,5 +1,6 @@
 ---
 name: Saint Alodius of Auxerre
+stub: false
 honorific: Saint
 title: Bishop
 summary: Bishop of Auxerre, France, probably consecrated in August 452, and then serving for 30 years.

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Theodosius of Rome
+stub: false
 honorific: Saint
 summary: One of a group of 50 soldiers martyred together in the persecutions of Claudius II.
 deathYear: 269

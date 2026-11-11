@@ -1,5 +1,6 @@
 ---
 name: Saint Himelin
+stub: false
 honorific: Saint
 summary: >-
   Relative of Saint Rumold. Priest. Died en route home from a pilgrimage to Rome, Italy. While he was apparently on his

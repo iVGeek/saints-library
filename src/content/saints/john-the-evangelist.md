@@ -1,5 +1,6 @@
 ---
 name: John the Evangelist
+stub: false
 honorific: Saint
 title: Apostle, Evangelist
 summary: >-

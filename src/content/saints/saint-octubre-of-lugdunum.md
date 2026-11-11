@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Octubre of Lugdunum
+stub: false
 honorific: Saint
 summary: >-
   One of a group of 48 Christians from the areas of Vienne and Lyon in France, who were attacked by a pagan mob,

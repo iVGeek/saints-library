@@ -1,5 +1,6 @@
 ---
 name: Saint Aurelius of Riditio
+stub: false
 honorific: Saint
 summary: >-
   When Saint Dionysius of Milan was driven from his diocese by Arians, he fled to Armenia where he was befriended by

@@ -1,5 +1,6 @@
 ---
 name: Saint Mawes
+stub: false
 honorific: Saint
 summary: >-
   Hermit in an area of Cornwall, England; the area now has a village named Saint Mawes (Lannvowsedh in Cornish) in his

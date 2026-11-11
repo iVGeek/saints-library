@@ -1,5 +1,6 @@
 ---
 name: Blessed Alessandra Sabattini
+stub: false
 honorific: Blessed
 summary: >-
   A lifelong lay woman in the diocese of Rimini, Italy, she was the daughter of Giuseppi and Agnese Bonin Sabattini and

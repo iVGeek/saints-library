@@ -1,5 +1,6 @@
 ---
 name: Saint Bathus
+stub: true
 honorific: Saint
 summary: Martyred along with his wife, two sons and two daughters for their faith.
 deathYear: 370

@@ -1,5 +1,6 @@
 ---
 name: Saint Emebert of Cambrai
+stub: false
 honorific: Saint
 summary: >-
   Son of Count Witger and Saint Amalburga; brother of Saint Gudule and Saint Reineldis. He was early drawn to the

@@ -1,5 +1,6 @@
 ---
 name: Saint Baudelius of Nimes
+stub: false
 honorific: Saint
 summary: >-
   Married lay evangelist who worked tirelessly to spread the faith in Gaul. He arrived Nîmes, France during a sacrifice

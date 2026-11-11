@@ -1,5 +1,6 @@
 ---
 name: Saint Jacob of Nisibis
+stub: false
 honorific: Saint
 summary: >-
   Monk. First bishop of Nisibis, Mesopotamia (modern Nusaybin, Turkey) from 309 until his death. Spiritual director of

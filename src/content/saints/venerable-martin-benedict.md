@@ -1,5 +1,6 @@
 ---
 name: Venerable Martin Benedict
+stub: false
 honorific: Venerable
 summary: >-
   A physician, Martin practiced at a series of hospitals from his graduation in 1957 until his death nearly 30 years

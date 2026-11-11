@@ -1,6 +1,7 @@
 ---
 image: https://www.catholic.org/files/images/saints/2517.jpg
 name: Saint Severian
+stub: false
 honorific: Saint
 summary: >-
   Roman imperial senator during the persecutions of Licinius. He witnessed the martyrdom of the Forty Martyrs of Sebaste

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Primus the Deacon
+stub: true
 honorific: Saint
 summary: Deacon. Martyred by Donatist heretics for his defense of orthodox Christianity.
 deathYear: 362

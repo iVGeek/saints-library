@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Valenzio of Mesia
+stub: true
 honorific: Saint
 summary: Martyr. No other information has survived.
 died: beheaded in Mesia, Spain

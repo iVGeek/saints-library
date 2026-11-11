@@ -1,5 +1,6 @@
 ---
 name: Blessed Peter Thomas
+stub: false
 honorific: Blessed
 summary: >-
   Carmelite at age 21. Noted preacher and homilist. Order's procurator-general to the papal court at Avignon, France in

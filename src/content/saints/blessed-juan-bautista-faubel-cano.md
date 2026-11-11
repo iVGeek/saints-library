@@ -1,5 +1,6 @@
 ---
 name: Blessed Juan Bautista Faubel Cano
+stub: false
 honorific: Blessed
 summary: >-
   Lifelong layman in the archdiocese of Valencia, Spain. Married to Patrocinio Olba Martínez in 1914. Father of three.

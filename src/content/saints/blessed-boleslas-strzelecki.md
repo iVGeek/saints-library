@@ -1,5 +1,6 @@
 ---
 name: Blessed Boleslas Strzelecki
+stub: false
 honorific: Blessed
 summary: >-
   Parish priest in the diocese of Radom, Poland. His devotion to God and his fellow man led to his parishioners giving

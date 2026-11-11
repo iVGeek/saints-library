@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Crescendo of Rome
+stub: true
 honorific: Saint
 summary: Martyr.
 searchAliases:

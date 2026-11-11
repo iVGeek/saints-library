@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Urban of Teano
+stub: true
 honorific: Saint
 summary: Bishop of Teano, Campania, Italy.
 deathYear: 356

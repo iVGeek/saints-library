@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Ronan of Kilmaronen
+stub: false
 honorific: Saint
 title: Bishop
 summary: >-

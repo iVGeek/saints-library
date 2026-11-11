@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Uni of Bremen
+stub: false
 honorific: Saint
 summary: Monk at New Corvey Abbey. Archbishop of Bremen-Hamburg, Germany in 917. Evangelized Sweden and Denmark.
 searchAliases:

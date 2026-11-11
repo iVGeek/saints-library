@@ -1,5 +1,6 @@
 ---
 name: Saint Marie-Eugénie de Jésus
+stub: false
 honorific: Venerable
 summary: >-
   Raised in an educated and intellectual family with no faith, but who apparently went through some of the motions since

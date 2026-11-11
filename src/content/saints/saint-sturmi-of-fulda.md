@@ -1,5 +1,6 @@
 ---
 name: Saint Sturmi of Fulda
+stub: false
 honorific: Saint
 summary: >-
   Educated by Saint Wigbert at Fritzlar Abbey under the direction of Saint Boniface. Friend of Charlemagne. Priest.

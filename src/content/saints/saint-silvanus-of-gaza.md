@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Silvanus of Gaza
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Gaza. Branded and sentenced to forced labour with 39 of his clergy by command of Caesar Galerius Maximian

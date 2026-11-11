@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Theodulus the Martyr
+stub: false
 honorific: Saint
 summary: >-
   Son of Saint Olympius the Tribune and Saint Exuperia the Martyr. Convert, brought to the faith by Saint Symphronius

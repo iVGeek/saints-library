@@ -1,5 +1,6 @@
 ---
 name: Saint Anthusa of Seleucia
+stub: false
 honorific: Saint
 summary: >-
   Born to a wealthy, noble, pagan family, Antusa converted to Christianity, and was baptized by Saint Athanasius of

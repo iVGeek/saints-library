@@ -1,5 +1,6 @@
 ---
 name: Saint Parasceva of Rome
+stub: false
 honorific: Saint
 summary: >-
   Daughter of the wealthy Christians Politea and Agathon, and was born after much praying by them for a child. Unusually

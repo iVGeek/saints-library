@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Serapion of Pentapolis
+stub: false
 honorific: Saint
 summary: >-
   Deacon at Pentapolis, Lybia. He was tortured, his tongue cut out and he was left for dead because of his faith, but he

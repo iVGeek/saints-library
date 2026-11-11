@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Nicholaus of Vangadizza
+stub: false
 honorific: Blessed
 summary: Camaldolese monk and priest in the abbey of Vangadizza (in modern Badia Polesine, Italy).
 deathYear: 1210

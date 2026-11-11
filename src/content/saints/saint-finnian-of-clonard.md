@@ -1,5 +1,6 @@
 ---
 name: Saint Finnian of Clonard
+stub: false
 honorific: Saint
 summary: >-
   A pious youth, he founded three churches in Ireland while still a layman. Studied in Wales under Saint Cadoc of

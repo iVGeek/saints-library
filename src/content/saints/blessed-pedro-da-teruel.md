@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Pedro da Teruel
+stub: false
 honorific: Blessed
 summary: Mercedarian friar. Ransomed at least 180 Christians enslaved by Muslims in north Africa.
 region: Italy

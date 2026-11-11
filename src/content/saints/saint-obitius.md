@@ -1,5 +1,6 @@
 ---
 name: Saint Obitius
+stub: false
 honorific: Saint
 summary: >-
   Knight. He narrowly escaped drowning, and during the experience he had a vision of Hell which changed his life. He

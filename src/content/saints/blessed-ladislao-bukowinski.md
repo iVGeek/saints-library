@@ -1,5 +1,6 @@
 ---
 name: Blessed Ladislao Bukowinski
+stub: false
 honorific: Blessed
 summary: >-
   One of three children born to Jozef Tsypriyan Bukowinski and Vladislav Jadwiga Schipo del Campo, he was baptized at

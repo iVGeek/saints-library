@@ -1,5 +1,6 @@
 ---
 name: Saint Simón de Rojas
+stub: false
 honorific: Venerable
 summary: >-
   A pious child, his first words, at age 14 months, were reported to be Ave Maria. From his youth and throughout his

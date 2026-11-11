@@ -1,5 +1,6 @@
 ---
 name: Saint Desiderus of Gourdon
+stub: false
 honorific: Saint
 summary: >-
   Sixth century priest and monk at the monastery of Gourdon, Saône-et-Loire (in modern France). Reported miracle worker.

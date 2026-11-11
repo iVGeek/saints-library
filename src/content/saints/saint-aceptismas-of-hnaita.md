@@ -1,5 +1,6 @@
 ---
 name: Saint Aceptismas of Hnaita
+stub: false
 honorific: Saint
 summary: Bishop of Hnaita, Persia. Over 80 years old, he was tortured and martyred in the persecutions of King Sapor II.
 searchAliases:

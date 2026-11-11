@@ -1,5 +1,6 @@
 ---
 name: Saint Valéry of Leucone
+stub: false
 honorific: Saint
 summary: >-
   Monk at Luxeuil Abbey. Founded the monastery of Leuconay, France. The town of Saint-Valery-sur-Somme was named for

@@ -1,5 +1,6 @@
 ---
 name: Saint Agobard of Lyon
+stub: false
 honorific: Saint
 summary: >-
   Refugee to France in his youth, escaping the Moorish invasions of Spain. Priest at Lyon, France. Archbishop of Lyons

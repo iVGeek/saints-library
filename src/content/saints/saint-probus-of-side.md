@@ -1,5 +1,6 @@
 ---
 name: Saint Probus of Side
+stub: false
 honorific: Saint
 summary: >-
   Tried and tortured for the crime of Christianity in Tarsus, Mopsuestia and Anazarbus in Cilicia during the

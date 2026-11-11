@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint John IV of Naples
+stub: true
 honorific: Saint
 summary: Bishop of Naples, Italy.
 searchAliases:

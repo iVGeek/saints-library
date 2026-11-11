@@ -1,5 +1,6 @@
 ---
 name: Saint Boniface of Saint-Paul-Trois-Châteaux
+stub: true
 honorific: Saint
 title: Bishop
 summary: Bishop of Saint-Paul-Trois-Châteaux (in modern France) beginning c.412.

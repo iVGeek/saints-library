@@ -1,5 +1,6 @@
 ---
 name: Saint Ludmila of Bohemia
+stub: false
 honorific: Saint
 summary: >-
   Daughter of a Slavic prince. Duchess of Bohemia, married to Boriwoi, first Christian Duke of Bohemia; the two were

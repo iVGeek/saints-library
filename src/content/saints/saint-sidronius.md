@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Sidronius
+stub: true
 honorific: Saint
 summary: Martyred in the persecutions of Aurelian.
 deathYear: 270

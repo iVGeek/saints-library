@@ -1,5 +1,6 @@
 ---
 name: Blessed Vicenta Achurra Gogenola
+stub: false
 honorific: Blessed
 summary: >-
   Joined the Carmelite Missionaries in 1910, began her formal novitiate at Gracia-Barcelona, Spain in 1915, her

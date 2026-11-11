@@ -1,5 +1,6 @@
 ---
 name: Blessed Bartolomeo Pucci-Franceschi
+stub: false
 honorific: Blessed
 summary: >-
   Born to the wealthy Tuscan nobility. Married and the father of four. Noted for his charity to the poor, especially in

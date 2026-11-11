@@ -1,5 +1,6 @@
 ---
 name: Saint Juventius of Pavia
+stub: false
 honorific: Saint
 summary: >-
   First century evangelist. First bishop of Pavia, Italy. Worked with Saint Hermagoras of Aquileia and Saint Syrus of

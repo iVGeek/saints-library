@@ -1,5 +1,6 @@
 ---
 name: Blessed Mary Teresa Bonzel
+stub: false
 honorific: Blessed
 summary: >-
   Franciscan tertiary by age 20. She wanted to enter religious life, but her family strongly opposed it. With eight

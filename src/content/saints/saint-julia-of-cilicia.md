@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Julia of Cilicia
+stub: true
 honorific: Saint
 summary: Martyr. No other information has survived.
 died: in Cilicia, Asia Minor (in modern Turkey), date unknown

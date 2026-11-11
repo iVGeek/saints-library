@@ -1,5 +1,6 @@
 ---
 name: Saint William Tempier
+stub: false
 honorific: Saint
 title: Bishop
 summary: >-

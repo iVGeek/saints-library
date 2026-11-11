@@ -1,5 +1,6 @@
 ---
 name: Blessed Ignatius Klopotowski
+stub: false
 honorific: Blessed
 summary: >-
   Born to a pious and patriotic family. He entered the Lublin seminary in 1883, and was ordained on 5 July 1891.

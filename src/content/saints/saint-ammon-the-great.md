@@ -1,5 +1,6 @@
 ---
 name: Saint Ammon the Great
+stub: false
 honorific: Saint
 summary: >-
   Wealthy, married layman. He and his wife lived as brother and sister for 18 years, then each entered religious life.

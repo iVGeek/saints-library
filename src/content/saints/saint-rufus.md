@@ -1,6 +1,7 @@
 ---
 image: https://www.catholic.org/files/images/saints/812.jpg
 name: Saint Rufus
+stub: false
 honorific: Saint
 summary: Martyred with his entire household in the persecutions of Diocletian. No other information has survived.
 deathYear: 304

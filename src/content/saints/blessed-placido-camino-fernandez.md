@@ -1,5 +1,6 @@
 ---
 name: Blessed Plácido Camino Fernández
+stub: true
 honorific: Blessed
 summary: Trinitarian priest. Martyred in the Spanish Civil War.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Plácido-Camino-Fernández.jpg

@@ -1,5 +1,6 @@
 ---
 name: Blessed Fortunato Velasco Tobar
+stub: false
 honorific: Blessed
 summary: >-
   Joined the Vincentians on 18 September 1923, making his final vows on 19 September 1925. Priest. Assigned to the

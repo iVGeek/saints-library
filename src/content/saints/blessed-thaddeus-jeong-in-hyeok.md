@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Thaddeus Jeong In-hyeok
+stub: true
 honorific: Blessed
 summary: Layman martyr in the apostolic vicariate of Korea.
 deathYear: 1801

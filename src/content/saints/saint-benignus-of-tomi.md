@@ -1,5 +1,6 @@
 ---
 name: Saint Benignus of Tomi
+stub: true
 honorific: Saint
 summary: Martyr. No further information has survived.
 died: at Tomi (modern Constanta, Romania)

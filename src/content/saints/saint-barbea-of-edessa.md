@@ -1,5 +1,6 @@
 ---
 name: Saint Barbea of Edessa
+stub: false
 honorific: Saint
 summary: >-
   Sister of Saint Sarbelius. Convert, brought to the faith by Saint Barsimeus of Edessa. Tortured and executed in the

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/f/fe/Beatificaciotarragona2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Bernardo Cembranos Nistal
+stub: false
 honorific: Blessed
 summary: >-
   Feeling an early call to religious life, Bernardo joined the Capuchins on 20 May 1920, aged 17, taking the name

@@ -1,5 +1,6 @@
 ---
 name: Blessed Narcis Basté y Basté
+stub: false
 honorific: Blessed
 summary: >-
   Joined the Jesuits in 1890. Priest. Director of the Foundation for Youth Workers in Valencia, Spain. Martyred in the

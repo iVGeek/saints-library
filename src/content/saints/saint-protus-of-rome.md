@@ -1,5 +1,6 @@
 ---
 name: Saint Protus of Rome
+stub: false
 honorific: Saint
 summary: >-
   Brother of Saint Hyacinth of Rome. Servant in the house of Saint Eugenia in Rome, Italy. Arrested and martyred for

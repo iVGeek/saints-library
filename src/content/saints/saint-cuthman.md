@@ -1,5 +1,6 @@
 ---
 name: Saint Cuthman
+stub: false
 honorific: Saint
 summary: >-
   Poor and pious youth from the south of England. He cared for his invalid mother following his father's death, and

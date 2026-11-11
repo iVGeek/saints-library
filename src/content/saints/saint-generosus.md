@@ -1,5 +1,6 @@
 ---
 name: Saint Generosus
+stub: true
 honorific: Saint
 summary: Martyr, date unknown. No other information has survived.
 died: relics enshrined under the high altar of the cathedral of Tivoli, Italy

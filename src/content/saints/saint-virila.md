@@ -1,5 +1,6 @@
 ---
 name: Saint Virila
+stub: false
 honorific: Saint
 summary: >-
   Benedictine monk in the abbey of Saint Savior, Leyre, Navarre, Spain. Abbot of Peñamayor Abbey, Becerra, Spain in 919.

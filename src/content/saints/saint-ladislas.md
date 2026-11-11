@@ -1,5 +1,6 @@
 ---
 name: Saint Ladislas
+stub: false
 honorific: Saint
 summary: >-
   Born a prince, son of Bela I, King of Hungary. King of Hungary in 1077. Annexed Dalmatia and Croatia to greater

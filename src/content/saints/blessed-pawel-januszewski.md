@@ -1,5 +1,6 @@
 ---
 name: Blessed Pawel Januszewski
+stub: false
 honorific: Blessed
 summary: >-
   Son of Martin and Marianne Januszewski. Pawel studied at colleges in Greblin, Suchary and Krakow in Poland. Joined the

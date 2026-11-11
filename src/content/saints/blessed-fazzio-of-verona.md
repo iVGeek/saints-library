@@ -1,5 +1,6 @@
 ---
 name: Blessed Fazzio of Verona
+stub: false
 honorific: Blessed
 summary: >-
   An accomplished goldsmith in Verona, Italy, his business opponents developed a vicious hatred for him. He moved to

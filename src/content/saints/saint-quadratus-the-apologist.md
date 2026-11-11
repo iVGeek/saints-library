@@ -1,5 +1,6 @@
 ---
 name: Saint Quadratus the Apologist
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Athens, Greece; his background in Greek literature helped him become quickly accepted even by the pagans in

@@ -1,5 +1,6 @@
 ---
 name: Blessed Olinto Marella
+stub: false
 honorific: Blessed
 summary: >-
   One of three children of a wealthy physician who died when Olinto was only ten years old. Educated by his uncle,

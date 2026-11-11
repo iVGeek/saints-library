@@ -1,5 +1,6 @@
 ---
 name: Saint Bernard of Tiron
+stub: false
 honorific: Saint
 summary: >-
   Monk in the Poitou area of France. Hermit. Travelling preacher. Founded a Benedictine monastery in the Tiron Forest

@@ -1,5 +1,6 @@
 ---
 name: Blessed Dominic Dosso
+stub: false
 honorific: Blessed
 summary: >-
   Soldier. Knight. Fought in the recovery of Balearic Islands of Spain from the Saracens. Joined the Mercedarians on 10

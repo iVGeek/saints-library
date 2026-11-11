@@ -1,5 +1,6 @@
 ---
 name: Blessed Guglielmo Saggiano
+stub: false
 honorific: Blessed
 summary: >-
   Born to the nobility of the Ancona, Italy region, his family relocated to the Languedoc, France region in Guglielmo's

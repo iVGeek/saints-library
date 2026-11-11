@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Syntyche of Philippi
+stub: false
 honorific: Saint
 summary: >-
   Mentioned by Saint Paul the Apostle in the Letter to the Philippians as having helped him spread the gospel, but no

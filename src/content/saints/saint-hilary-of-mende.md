@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Hilary of Mende
+stub: false
 honorific: Saint
 summary: >-
   Adult convert. Hermit, living by the River Tarn. Monk at Lérins Abbey. Bishop of Mende, France. Miracle stories

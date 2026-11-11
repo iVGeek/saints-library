@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Constance of Vercelli
+stub: false
 honorific: Saint
 summary: Nun. Sister of Saint Costanzo, bishop of Piedmont, Italy. We know little else about her.
 searchAliases:

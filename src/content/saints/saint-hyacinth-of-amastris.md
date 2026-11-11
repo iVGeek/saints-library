@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Hyacinth of Amastris
+stub: true
 honorific: Saint
 summary: Christian who cut down a tree dedicated to a pagan god. Martyr.
 died: Amastris, Paphlagonia (in modern Turkey)

@@ -1,5 +1,6 @@
 ---
 name: Blessed Gaspare Daverio
+stub: false
 honorific: Blessed
 summary: Franciscan Friar Minor cleric. Ordained a sub-deacon in 1610. One of the Martyrs of Prague, killed by a Lutheran mob.
 image: https://catholicsaints.info/wp-content/uploads/blessed-gaspare-daverio.jpg

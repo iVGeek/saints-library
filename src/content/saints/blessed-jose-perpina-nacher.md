@@ -1,5 +1,6 @@
 ---
 name: Blessed José Perpiñá Nácher
+stub: false
 honorific: Blessed
 summary: >-
   Layman in the archdiocese of Valencia, Spain. A telegrapher (telegraph operator) on the ship “Buenos Aires”. Lawyer.

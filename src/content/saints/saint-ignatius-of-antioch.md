@@ -1,5 +1,6 @@
 ---
 name: Saint Ignatius of Antioch
+stub: false
 honorific: Saint
 summary: >-
   Convert from paganism to Christianity. Succeeded Saint Peter the Apostle as bishop of Antioch, Syria. Served during

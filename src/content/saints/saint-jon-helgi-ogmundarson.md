@@ -1,5 +1,6 @@
 ---
 name: Saint Jón Helgi Ögmundarson
+stub: false
 honorific: Saint
 summary: >-
   Spiritual student of Isleifur, bishop of Skalholt, Iceland. First bishop of Holar, Iceland in 1106. Great evangelist

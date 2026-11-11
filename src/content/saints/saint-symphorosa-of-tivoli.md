@@ -1,5 +1,6 @@
 ---
 name: Saint Symphorosa of Tivoli
+stub: true
 honorific: Saint
 summary: Widow of Saint Getulius of Tivoli. Martyred in the persecutions of Hadrian.
 image: https://catholicsaints.info/wp-content/uploads/img-Santa-Sinforosa.jpg

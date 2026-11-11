@@ -1,5 +1,6 @@
 ---
 name: Blessed Francisco José Marín López de Arroyave
+stub: false
 honorific: Blessed
 summary: >-
   Member of the Salesians of Don Bosco, joining in Mohernando, Spain, and making his solemn profession on 12 October

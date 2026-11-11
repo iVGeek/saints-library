@@ -1,5 +1,6 @@
 ---
 name: Blessed Silvestre Arnau y Pascuet
+stub: false
 honorific: Blessed
 summary: >-
   The son of Lorenzo Arnau and Maria Pasquet, Silvestre entered the minor seminary at age 12, studied in Urgel, Spain

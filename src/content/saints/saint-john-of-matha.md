@@ -1,5 +1,6 @@
 ---
 name: Saint John of Matha
+stub: false
 honorific: Saint
 summary: ' At the first Mass he celebrated, John received a vision of an angel clothed in white with a red and blue cross on Born to the Provencal nobility. Educated at Aix, France, then lived as a hermit at Faucon, France. Earned a doctorate in theology at Paris, France. Ordained in 1197.'
 image: >-

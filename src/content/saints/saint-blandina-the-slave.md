@@ -1,5 +1,6 @@
 ---
 name: Saint Blandina the Slave
+stub: false
 honorific: Saint
 summary: >-
   Slave. With several others, she was set upon by a pagan mob, arrested, tried and convicted of the crime of

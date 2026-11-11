@@ -1,5 +1,6 @@
 ---
 name: Rachel the Matriarch
+stub: false
 honorific: Saint
 summary: >-
   Old Testament Jewish Matriarch. Wife of the Patriach Jacob. She spent a lengthy marriage in shame over her sterility,

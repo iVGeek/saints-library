@@ -1,5 +1,6 @@
 ---
 name: Saint Sofia of Cagliari
+stub: false
 honorific: Saint
 summary: >-
   Born to the Imperial Roman nobility. At age 15 she publicly and stubbornly proclaimed her Christian faith during the

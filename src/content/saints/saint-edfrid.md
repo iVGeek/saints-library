@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Edfrid
+stub: false
 honorific: Saint
 summary: Priest in Northumbria, England. Evangelized in Mercia. Founded a monastery in Leominster, England.
 searchAliases:

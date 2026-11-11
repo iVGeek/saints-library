@@ -1,5 +1,6 @@
 ---
 name: Saint Winebald of Heidenheim
+stub: false
 honorific: Saint
 summary: >-
   Born a prince, the son of Saint Richard the King and Saint Wunna of Wessex; brother of Saint Willibald and Saint

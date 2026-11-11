@@ -1,5 +1,6 @@
 ---
 name: Blessed Seraphina Sforza
+stub: false
 honorific: Blessed
 summary: >-
   Daughter of Cattarina Colonna amd Count Guido Antonio of Montefeltro of Urbino. Orphaned as a child, she grew up in

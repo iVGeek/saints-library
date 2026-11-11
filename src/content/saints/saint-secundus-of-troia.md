@@ -1,5 +1,6 @@
 ---
 name: Saint Secundus of Troia
+stub: false
 honorific: Saint
 summary: >-
   Immigrated to Italy from north Africa to escape persecution by Arian Vandals in the 3rd century. Bishop of Troia,

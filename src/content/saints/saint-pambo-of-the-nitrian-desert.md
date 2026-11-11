@@ -1,5 +1,6 @@
 ---
 name: Saint Pambo of the Nitrian Desert
+stub: false
 honorific: Saint
 summary: >-
   Spiritual student of Saint Anthony the Abbot. Worked to establish the eremitical life in the Nitrian Desert in Egypt,

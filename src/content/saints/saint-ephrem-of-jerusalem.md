@@ -1,5 +1,6 @@
 ---
 name: Saint Ephrem of Jerusalem
+stub: true
 honorific: Saint
 title: Bishop
 summary: 13th bishop of Jerusalem at the time of emperor Hadrian.

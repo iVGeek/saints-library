@@ -1,5 +1,6 @@
 ---
 name: Blessed Aurea Navarro
+stub: false
 honorific: Blessed
 summary: Professed religious in the Sisters of the Christian Doctrine, joining in 1934. Martyred in the Spanish Civil War.
 image: https://catholicsaints.info/wp-content/uploads/img-Martyred-Sisters-of-the-Christian-Doctrine.jpg

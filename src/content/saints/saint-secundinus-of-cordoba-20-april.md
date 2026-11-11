@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Secundinus of Córdoba
+stub: true
 honorific: Saint
 summary: Martyr. No other information has survived.
 died: Córdoba, Spain

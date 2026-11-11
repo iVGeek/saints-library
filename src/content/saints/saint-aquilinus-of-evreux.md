@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Aquilinus of Evreux
+stub: false
 honorific: Saint
 summary: >-
   Married. Aquilinus and his wife agreed to live by good works. When they moved to Evreux, France, Aquilinus's

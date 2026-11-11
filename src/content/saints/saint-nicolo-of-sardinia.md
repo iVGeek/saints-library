@@ -1,5 +1,6 @@
 ---
 name: Saint Nicolo of Sardinia
+stub: true
 honorific: Saint
 title: Hermit
 summary: Hermit.

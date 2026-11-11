@@ -1,5 +1,6 @@
 ---
 name: Venerable François-Marie-Paul Libermann
+stub: false
 honorific: Venerable
 summary: >-
   Son of a Jewish rabbi. Convert to Catholicism, baptized at Paris, France on 24 December 1826 Studied at Saint Sulpice

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Timothy of Philippi
+stub: true
 honorific: Saint
 summary: Martyr.
 deathYear: 345

@@ -1,5 +1,6 @@
 ---
 name: Blessed Jean-Baptiste Duverneuil
+stub: false
 honorific: Blessed
 summary: >-
   Priest. Member of the Discalced Carmelites. Martyred in the French Revolution. One of the Martyrs of the Hulks of

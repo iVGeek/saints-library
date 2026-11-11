@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Martyrs of La Torre de Fontaubella
+stub: true
 honorific: Venerable
 deathYear: 1936
 died: 12 August 1936 in La Torre de Fontaubella, Tarragona, Spain

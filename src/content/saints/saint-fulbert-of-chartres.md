@@ -1,5 +1,6 @@
 ---
 name: Saint Fulbert of Chartres
+stub: false
 honorific: Saint
 summary: >-
   Grew up around Rome, Italy, and known as a promising student. Studied the Benedictine abbey in Rheims, France. A

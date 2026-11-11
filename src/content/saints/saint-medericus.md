@@ -1,5 +1,6 @@
 ---
 name: Saint Médéricus of Autun
+stub: false
 honorific: Saint
 summary: >-
   Monk at Saint Martin's Abbey in Autun, France; he was later chosen abbot there. Hermit near Paris, France; the church

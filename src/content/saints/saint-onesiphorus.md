@@ -1,5 +1,6 @@
 ---
 name: Saint Onesiphorus
+stub: false
 honorific: Saint
 summary: >-
   First-century convert. Relative of Saint Porphyrius. Sheltered, supported, worked with and visited Saint Paul the

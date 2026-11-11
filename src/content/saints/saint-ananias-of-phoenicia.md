@@ -1,5 +1,6 @@
 ---
 name: Saint Ananias of Phoenicia
+stub: false
 honorific: Saint
 summary: >-
   Third-century priest. Martyred in the persections of Diocletian along with seven soldiers whose names have not come

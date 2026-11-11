@@ -1,5 +1,6 @@
 ---
 name: Blessed Arnold of Padua
+stub: false
 honorific: Blessed
 summary: >-
   Born to the nobility. Benedictine monk at the Santa Giustina monastery in Padua, Italy. Chosen abbot in 1209 at age

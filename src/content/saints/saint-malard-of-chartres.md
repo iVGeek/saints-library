@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/3/35/SaintDenisReunion005.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Malard of Chartres
+stub: true
 honorific: Saint
 title: Bishop
 summary: Bishop of Chartres, France. Attended the Council of Chalons-sur-saone in 650.

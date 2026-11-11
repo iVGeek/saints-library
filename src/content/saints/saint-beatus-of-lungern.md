@@ -1,5 +1,6 @@
 ---
 name: Saint Beatus of Lungern
+stub: false
 honorific: Saint
 summary: >-
   Convert, baptized in England by Saint Barnabas the Apostle. Priest, ordained in Rome, Italy by Saint Peter the

@@ -1,5 +1,6 @@
 ---
 name: Blessed Michael Ghebre
+stub: false
 honorific: Blessed
 summary: >-
   Converted to Christianity by Vincentian missionaries in 1844, Michael joined the Order himself. He was ordained in

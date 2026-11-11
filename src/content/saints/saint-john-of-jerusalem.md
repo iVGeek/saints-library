@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint John of Jerusalem
+stub: false
 honorific: Saint
 title: Bishop
 summary: >-

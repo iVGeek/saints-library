@@ -1,5 +1,6 @@
 ---
 name: Blessed Vicente Pinilla Ibáñez
+stub: false
 honorific: Blessed
 summary: >-
   Priest. Member of the Augustinian Recollects. Missionary to the Philippines. When anti-Christian persecutions began in

@@ -1,5 +1,6 @@
 ---
 name: Saint Ambrose of Ferentino
+stub: false
 honorific: Saint
 summary: ' There is a long tradition of the people of Ferentino, Italy caring for the relics of Ambrose, and of Ambrose protecting Ferentino. Legend says that Fourth-century cavalry centurian in the imperial Roman army. Tortured and executed for his faith in the persecutions of Diocletian.'
 born: Liguria, Italy

@@ -1,5 +1,6 @@
 ---
 name: Blessed Albert of Csanád
+stub: false
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/6/6e/Arad-Csan%C3%A1d_vas%C3%BAtvonal_%C3%A9p%C3%ADt%C3%A9se_%281909%29.jpg
 honorific: Blessed

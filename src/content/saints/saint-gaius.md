@@ -1,5 +1,6 @@
 ---
 name: Saint Gaius
+stub: true
 honorific: Saint
 summary: Priest. Martyr. No other information has survived.
 searchAliases:

@@ -1,5 +1,6 @@
 ---
 name: Saint Glyceria of Trajanopolis
+stub: false
 honorific: Saint
 summary: >-
   Roman maiden at Trajanopolis, Greece, and may have been the daughter of a Roman senator. Arrested for her faith during

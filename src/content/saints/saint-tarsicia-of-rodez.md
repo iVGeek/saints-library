@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Tarsicia of Rodez
+stub: false
 honorific: Saint
 summary: >-
   Granddaughter of King Clotaire II of the Franks. Sister of Saint Ferreolus of Uzès. Lived as a hermit near Rodez,

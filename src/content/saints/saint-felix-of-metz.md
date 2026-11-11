@@ -1,5 +1,6 @@
 ---
 name: Saint Felix of Metz
+stub: true
 honorific: Saint
 summary: Third bishop of Metz, France; served for over 40 years in the 2nd century.
 searchAliases:

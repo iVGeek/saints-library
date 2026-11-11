@@ -1,5 +1,6 @@
 ---
 name: Blessed Clelia Merloni
+stub: false
 honorific: Blessed
 summary: >-
   The daughter of Gioacchino Merloni, a wealthy and influential industrialist, and Teresa Brandinelli; Clelia was

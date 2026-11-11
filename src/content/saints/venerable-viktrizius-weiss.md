@@ -1,5 +1,6 @@
 ---
 name: Venerable Viktrizius Weiss
+stub: false
 honorific: Venerable
 summary: >-
   After studies at the diocesan seminary in Freising, Germany, he was ordained to the priesthood on 29 June 1866. He

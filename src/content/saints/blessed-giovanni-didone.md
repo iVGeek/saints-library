@@ -1,5 +1,6 @@
 ---
 name: Blessed Giovanni Didonè
+stub: false
 honorific: Blessed
 summary: >-
   Giovanni grew up in the Paduan countryside, and early felt a call to a religious vocation. He studied at the diocesan

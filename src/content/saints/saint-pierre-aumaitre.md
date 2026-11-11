@@ -1,5 +1,6 @@
 ---
 name: Saint Pierre Aumaître
+stub: false
 honorific: Venerable
 summary: >-
   Eldest of five children in a peasant family; his father was a farmer, his mother a seamstress. Pierre was baptized in

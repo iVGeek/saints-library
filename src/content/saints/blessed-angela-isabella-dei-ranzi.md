@@ -1,5 +1,6 @@
 ---
 name: Blessed Angela Isabella dei Ranzi
+stub: false
 honorific: Blessed
 summary: 15th century Augustinian nun at the convent of Blessed Michela in Vercelli, Italy.
 searchAliases:

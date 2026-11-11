@@ -1,5 +1,6 @@
 ---
 name: Saint Cadwaladr of Brittany
+stub: false
 honorific: Saint
 summary: >-
   Spiritual student of Saint Cadoc of Llancarvan. Helped found the monastery on the island of Morbihan (modern Ile de

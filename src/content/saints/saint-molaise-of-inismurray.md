@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/d/d1/Inishmurray.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Molaise of Inismurray
+stub: false
 honorific: Saint
 summary: >-
   The son of Delglan. Sixth century monk. Abbot of the Inismurray monastery on the island off the coast of Sligo,

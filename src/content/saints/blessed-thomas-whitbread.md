@@ -1,5 +1,6 @@
 ---
 name: Blessed Thomas Whitbread
+stub: false
 honorific: Blessed
 summary: >-
   Seminarian at Saint Omer, France. Joined the Jesuits in 1635. Priest. Using the alias Thomas Harcourt, he returned to

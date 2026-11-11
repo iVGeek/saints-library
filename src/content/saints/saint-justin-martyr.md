@@ -1,5 +1,6 @@
 ---
 name: Saint Justin Martyr
+stub: false
 honorific: Saint
 title: St. Justin Martyr
 summary: >-

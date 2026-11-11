@@ -1,5 +1,6 @@
 ---
 name: Saint Victor of Braga
+stub: true
 honorific: Saint
 summary: Catechumen martyred in the persecutions of Diocletian.
 deathYear: 300

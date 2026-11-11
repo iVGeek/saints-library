@@ -1,5 +1,6 @@
 ---
 name: Saint Osdag of Ebsdorf
+stub: false
 honorific: Saint
 summary: >-
   Soldier, possibly a knight, who fell in battle against pagan Normans, and is considered a martyr. One of the Martyrs

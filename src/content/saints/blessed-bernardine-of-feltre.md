@@ -1,5 +1,6 @@
 ---
 name: Blessed Bernardine of Feltre
+stub: false
 honorific: Blessed
 summary: >-
   Born to the nobility, the eldest of nine children, he grew up with a speech impediment. After hearing Saint James of

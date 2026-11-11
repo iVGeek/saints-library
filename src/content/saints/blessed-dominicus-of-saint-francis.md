@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/48/Painting_of_the_Nagasaki_Martyrs.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Dominicus of Saint Francis
+stub: false
 honorific: Blessed
 summary: >-
   While studying to join the Franciscan Friars Minor (Alcantarines), Dominicus was imprisoned for his faith in Omura,

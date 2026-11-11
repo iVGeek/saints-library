@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Ausilius of Fréjus
+stub: false
 honorific: Saint
 summary: >-
   Monk at the Lerins abbey c.420. Friend of Saint Maximus of Riez. Fifth bishop of Fréjus, France. Ausilius was noted

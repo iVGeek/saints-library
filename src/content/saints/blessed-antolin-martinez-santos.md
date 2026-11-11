@@ -1,5 +1,6 @@
 ---
 name: Blessed Antolín Martínez Santos
+stub: true
 image: https://commons.wikimedia.org/wiki/Special:FilePath/Iglesia_de_San_Antoni%25C3%25B1o_de_Toques.jpg?width=600
 honorific: Blessed
 summary: Dominican novice. Martyred in the Spanish Civil War.

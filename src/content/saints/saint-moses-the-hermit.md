@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/47/San_Pablo_Ermita%C3%B1o%2C_por_Jos%C3%A9_de_Ribera.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Moses the Hermit
+stub: false
 honorific: Saint
 summary: >-
   Hermit in the area between Syria and Egypt. Evangelized the nomadic tribes in the Syro-Arabian desert. Mavia, their

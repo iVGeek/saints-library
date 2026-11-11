@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Maddallena of the Conception
+stub: false
 honorific: Blessed
 summary: >-
   Mercedarian nun at the monastery of the Assumption in Seville, Spain. Had a great devotion to prayer for souls in

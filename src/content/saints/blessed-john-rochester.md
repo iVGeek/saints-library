@@ -1,5 +1,6 @@
 ---
 name: Blessed John Rochester
+stub: false
 honorific: Blessed
 summary: >-
   Son of John Rochester of Terling and Grisold of Bobbingworth. Carthusian choir monk at the London Charterhouse.

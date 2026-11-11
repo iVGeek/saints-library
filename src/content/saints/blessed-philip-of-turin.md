@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/2/25/Bl-sebastian-valfre.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Philip of Turin
+stub: false
 honorific: Blessed
 summary: >-
   On hearing of the work of Saint Francis of Assisi, he tracked down Francis and became one of the first twelve

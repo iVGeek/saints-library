@@ -1,5 +1,6 @@
 ---
 name: Blessed Theobald Roggeri
+stub: false
 honorific: Blessed
 summary: >-
   Born to a wealthy, noble Piedmont family, his reading of the Gospel caused him to abandon position for a simple life.

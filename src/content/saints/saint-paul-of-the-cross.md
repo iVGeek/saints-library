@@ -1,5 +1,6 @@
 ---
 name: Saint Paul of the Cross
+stub: false
 honorific: Saint
 title: St. Paul of the Cross
 summary: >-

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Emilian of Citra
+stub: true
 honorific: Saint
 summary: Soldier. Martyr. No other information has survived.
 searchAliases:

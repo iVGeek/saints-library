@@ -1,5 +1,6 @@
 ---
 name: Saint Bertha of Bingen
+stub: false
 honorific: Saint
 title: Hermit
 summary: >-

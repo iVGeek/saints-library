@@ -1,5 +1,6 @@
 ---
 name: Blessed Gjon Koda
+stub: false
 honorific: Blessed
 summary: >-
   Franciscan Friar Minor. Priest, celebrating his first Mass on 30 July 1925. Vicar in Lezhë, Albania where he was

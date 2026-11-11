@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Vingomarus of Quimperlé
+stub: false
 honorific: Saint
 summary: >-
   Benedictine monk of Quimperlé Abbey in the Finistère department in Brittany (in modern France). Abbot of the house

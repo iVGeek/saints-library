@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Gwinoc
+stub: true
 honorific: Saint
 summary: Son of Saint Aneurin. Sixth century Welsh monk and poet.
 region: Italy

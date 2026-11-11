@@ -1,5 +1,6 @@
 ---
 name: Saint Julian of Auvergne
+stub: false
 honorific: Saint
 summary: >-
   Officer in the imperial Roman army, and a closet Christian. He retired from the army and fled to Auvergne, France

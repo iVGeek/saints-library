@@ -1,5 +1,6 @@
 ---
 name: Saint Fachtna
+stub: false
 honorific: Saint
 summary: Priest. Bishop of Nuachongbhail Reid Bairend (possibly modern Nuachaval, County Longford, Ireland).
 region: Ireland

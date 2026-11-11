@@ -1,5 +1,6 @@
 ---
 name: Saint Alkmund of Northumbria
+stub: false
 honorific: Saint
 summary: >-
   Born a prince, the son of the Northumbrian King Alcred. King of Northumbria after the murders of his father and his

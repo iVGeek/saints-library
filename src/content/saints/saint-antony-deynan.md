@@ -1,5 +1,6 @@
 ---
 name: Saint Antony Deynan
+stub: false
 honorific: Saint
 summary: >-
   Son of a Chinese father and Japanese mother. Altar boy. Educated by the Jesuits in Nagasaki and the Franciscans in

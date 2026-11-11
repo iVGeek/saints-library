@@ -1,5 +1,6 @@
 ---
 name: Saint Eutychius of Alexandria
+stub: false
 honorific: Saint
 summary: >-
   Sub-deacon in Alexandria, Egypt and leader of a group of Christians who supported Saint Athanasius of Alexandria and

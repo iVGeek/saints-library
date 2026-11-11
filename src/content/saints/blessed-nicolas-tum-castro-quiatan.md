@@ -1,5 +1,6 @@
 ---
 name: Blessed Nicolás Tum Castro Quiatan
+stub: false
 honorific: Blessed
 summary: Married layman of the diocese of Quiché, Guatemala. A catechist, altar server and acolyte. Martyr.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Nicolas-Tum-Castro-Quiatan.jpg

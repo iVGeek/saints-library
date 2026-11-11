@@ -1,5 +1,6 @@
 ---
 name: Saint Vitalis of Bologna
+stub: false
 honorific: Saint
 summary: >-
   Martyred in the persecutions of Diocletian. His death led Saint Agricola to stand up for his faith, which led his

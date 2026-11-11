@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/7/7e/LocationPuertoRico.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Antonia Palacios Bonilla de Durán
+stub: false
 honorific: Blessed
 summary: Married lay woman in the diocese of Córdoba, Spain. Martyred in the Spanish Civil War.
 birthYear: 1877

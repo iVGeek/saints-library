@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/b/b0/St_Odili%C3%ABnberg_3_Doppelstatuen_new.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Wiro of Utrecht
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Utrecht, Netherlands. One of the Apostles of Frisia. He and his two companions founded a monastery at

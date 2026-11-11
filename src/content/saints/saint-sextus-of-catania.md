@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Sextus of Catania
+stub: true
 honorific: Saint
 summary: Martyr. No other information has survived.
 died: martyred at Catania, Sicily, date unknown

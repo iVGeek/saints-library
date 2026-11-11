@@ -1,5 +1,6 @@
 ---
 name: Blessed Alojzy Liguda
+stub: false
 honorific: Blessed
 summary: >-
   A member of the Society of the Divine Word, joining in 1920 in hopes of missionary work in China or New Guinea;

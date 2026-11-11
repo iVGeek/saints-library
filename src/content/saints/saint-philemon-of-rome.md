@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Philemon of Rome
+stub: true
 honorific: Saint
 summary: Preached across Italy. Martyr.
 born: Rome, Italy

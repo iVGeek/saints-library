@@ -1,5 +1,6 @@
 ---
 name: Blessed Juan of Jesus
+stub: true
 honorific: Blessed
 summary: Mercedarian friar at the convent of Saint Eulalia in Seville, Spain.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Juan-de-Jesus.jpg

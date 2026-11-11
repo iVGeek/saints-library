@@ -1,5 +1,6 @@
 ---
 name: Saint Abdela
+stub: false
 honorific: Saint
 summary: >-
   Born a princess in 13th-century Bohemia, the daughter of Premislaus Ottocar I, king of Bohemia and Abdela or Adela,

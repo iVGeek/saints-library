@@ -1,5 +1,6 @@
 ---
 name: Saint Sigolena of Troclar
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility of Aquitaine (in modern France). Married in her teens, whe was widowed at age 22. Though she was

@@ -1,5 +1,6 @@
 ---
 name: Saint Philip Benizi
+stub: false
 honorific: Saint
 summary: >-
   Born to the Italian nobility. Brilliant student. Studied medicine at Paris, France, and Padua, Italy, receiving his

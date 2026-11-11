@@ -1,5 +1,6 @@
 ---
 name: Saint Euphrosyne of Polotsk
+stub: false
 honorific: Saint
 summary: >-
   Daughter of Prince Svyatoslav of Polotsk. Granddaughter of Prince Polacak Usiaslau. Entered the Convent of Holy Wisdom

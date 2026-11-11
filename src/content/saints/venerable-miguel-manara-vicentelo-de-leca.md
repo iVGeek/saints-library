@@ -1,5 +1,6 @@
 ---
 name: Venerable Miguel Mañara Vicentelo de Leca
+stub: false
 honorific: Venerable
 summary: >-
   Married layman of the archdiocese of Seville, Spain. Widower. Main founder of the Hospital de la Cardidad (Charity

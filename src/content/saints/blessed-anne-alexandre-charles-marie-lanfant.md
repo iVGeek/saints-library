@@ -1,5 +1,6 @@
 ---
 name: Blessed Anne-Alexandre-Charles-Marie Lanfant
+stub: false
 honorific: Blessed
 summary: >-
   Born to a middle-class family, Alexandre studied at Trinity College in Lyon, France, then became a Jesuits novice on 7

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Marius Aventicus
+stub: false
 honorific: Saint
 summary: >-
   Born to a rich, distinguished family with roots in the Roman empire. Ordained as a young man. Bishop of Avenches,

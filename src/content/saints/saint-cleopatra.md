@@ -1,5 +1,6 @@
 ---
 name: Saint Cleopatra
+stub: false
 honorific: Saint
 summary: >-
   Married, a mother, and living in Kemet, Upper Egypt, Cleopatra witnessed the martyrdom of Saint Varus of Kemet, and

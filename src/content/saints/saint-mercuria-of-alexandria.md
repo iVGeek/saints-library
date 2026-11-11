@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Mercuria of Alexandria
+stub: true
 honorific: Saint
 summary: Elderly woman martyred in the persecutions of Decius.
 deathYear: 250

@@ -1,5 +1,6 @@
 ---
 name: Saint Giuliano of Gozzano
+stub: false
 honorific: Saint
 summary: >-
   Younger brother of Saint Julius of Novara with whom he studied in Athens, Greece. When Julius was ordained a priest,

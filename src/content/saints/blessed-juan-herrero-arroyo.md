@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Juan Herrero Arroyo
+stub: true
 honorific: Blessed
 summary: Dominican friar. Martyred in the Spanish Civil War.
 birthYear: 1859

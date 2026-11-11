@@ -1,5 +1,6 @@
 ---
 name: Saint Glisente of Brescia
+stub: false
 honorific: Saint
 summary: >-
   Eighth-century officer in the army of Blessed Charlemagne. Following his defeat of the Lombards in Valle Camonica,

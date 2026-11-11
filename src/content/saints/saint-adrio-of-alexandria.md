@@ -1,5 +1,6 @@
 ---
 name: Saint Adrio of Alexandria
+stub: true
 honorific: Saint
 summary: Martyr.
 searchAliases:

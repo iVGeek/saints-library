@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Zosimus of Cilicia
+stub: false
 honorific: Saint
 summary: >-
   Tortured for his faith in Cilicia (part of modern Turkey) in the persecutions of Diocletian. His heroic suffering was

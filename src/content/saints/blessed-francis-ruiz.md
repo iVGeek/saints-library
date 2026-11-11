@@ -1,5 +1,6 @@
 ---
 name: Blessed Francis Ruiz
+stub: false
 honorific: Blessed
 summary: >-
   Mercedarian. Missionary to Chile in 1569. Worked in Ecuador and then in Cusco, Peru, working from the Mercedarian

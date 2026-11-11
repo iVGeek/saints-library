@@ -1,5 +1,6 @@
 ---
 name: Saint Peter of Palestine
+stub: true
 honorific: Saint
 summary: Imprisoned, tortured and martyred for his faith.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Peter-Balsam.jpg

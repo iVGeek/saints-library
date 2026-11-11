@@ -1,5 +1,6 @@
 ---
 name: Blessed Francisco Maqueda López
+stub: false
 honorific: Blessed
 summary: >-
   Seminarian in the archdiocese of Toledo, Spain on 5 June 1936. Imprisoned on 11 September 1936 in the anti-Christian

@@ -1,5 +1,6 @@
 ---
 name: Blessed Jildo Irwa
+stub: false
 honorific: Blessed
 summary: >-
   Convert at about age eleven. Catechist with Blessed Daudi Okelo. Local chiefs demanded that the two of them stop

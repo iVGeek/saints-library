@@ -1,5 +1,6 @@
 ---
 name: Saint George Limniotes
+stub: false
 honorific: Saint
 summary: Hermit at Mount Olympus, Bithynia, Asia Minor. Martyred at age 95 under Leo the Isaurian for opposing the iconoclasts.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-George-Limniotes.jpg

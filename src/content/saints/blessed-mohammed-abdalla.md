@@ -1,5 +1,6 @@
 ---
 name: Blessed Mohammed Abdalla
+stub: false
 honorific: Blessed
 summary: >-
   Mercedarian friar at the convent of San Lazzaro in Zaragoza, Spain. Known for his personal piety and outlook that saw

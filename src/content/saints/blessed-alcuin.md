@@ -1,5 +1,6 @@
 ---
 name: Blessed Alcuin
+stub: false
 honorific: Blessed
 summary: >-
   Born to the English nobility. Spiritual student of Saint Colgan. Deacon. Head of the York cathedral school c.770.

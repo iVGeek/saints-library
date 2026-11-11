@@ -1,5 +1,6 @@
 ---
 name: Saint Philogonius of Antioch
+stub: false
 honorific: Saint
 summary: >-
   Married. Lawyer. Widower. Priest. Bishop. Patriarch of Antioch in 319. One of the first to oppose Arianism. Saint John

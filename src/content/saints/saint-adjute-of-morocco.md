@@ -1,5 +1,6 @@
 ---
 name: Saint Adjute of Morocco
+stub: false
 honorific: Saint
 summary: >-
   Franciscan Friar Minor. Saint Francis of Assisi to evangelize the Moors of the West. He and his fellow missionaries

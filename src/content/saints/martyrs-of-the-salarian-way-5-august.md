@@ -1,5 +1,6 @@
 ---
 name: Martyrs of the Salarian Way
+stub: false
 honorific: Saint
 summary: Twenty-three Christians who were martyred together in the persecutions of Diocletian.
 deathYear: 303

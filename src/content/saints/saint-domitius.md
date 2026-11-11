@@ -1,5 +1,6 @@
 ---
 name: Saint Domitius of Amiens
+stub: false
 honorific: Saint
 summary: Eight-century deacon and hermit near Amiens, France. Spiritual teacher of Saint Ulphia of Amiens.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Domitius-and-Saint-Ulphia.jpg

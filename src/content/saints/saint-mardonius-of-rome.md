@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Mardonius of Rome
+stub: false
 honorific: Saint
 summary: >-
   Christian imperial official in Rome, Italy. He refused to renounce his faith during the persecutions of Diocletian.

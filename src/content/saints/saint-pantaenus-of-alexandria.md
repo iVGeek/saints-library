@@ -1,5 +1,6 @@
 ---
 name: Saint Pantaenus of Alexandria
+stub: false
 honorific: Saint
 summary: >-
   Known and praised for his learning, wisdom and holiness by many writers including Saint Jerome. Head of the Orthodox

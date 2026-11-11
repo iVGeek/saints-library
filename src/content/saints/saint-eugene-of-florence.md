@@ -1,5 +1,6 @@
 ---
 name: Saint Eugene of Florence
+stub: false
 honorific: Saint
 summary: Spiritual student of Saint Ambrose of Milan. Deacon in Florence, Italy, working with Saint Zenobius of Florence.
 deathYear: 422

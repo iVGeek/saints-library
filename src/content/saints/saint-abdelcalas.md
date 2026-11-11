@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Abdelcalas
+stub: false
 honorific: Saint
 summary: Elderly priest martyred with about 100 other believers during the persecutions of King Sapor II.
 searchAliases:

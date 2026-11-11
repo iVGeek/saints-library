@@ -1,5 +1,6 @@
 ---
 name: Blessed John of Salerno
+stub: false
 honorific: Blessed
 summary: >-
   Related to Norman princes. Educated at Bologna, Italy. Physically small, he was noted by all for his leadership and

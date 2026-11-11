@@ -1,5 +1,6 @@
 ---
 name: Blessed Thérèse Soiron
+stub: false
 honorific: Blessed
 summary: >-
   Blood-sister of Blessed Catherine Soiron. Served as a tourière, a lay woman who made non-canonical private vows in

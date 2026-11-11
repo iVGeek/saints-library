@@ -1,5 +1,6 @@
 ---
 name: Saint Bilhild
+stub: false
 honorific: Saint
 summary: Born to the nobility. Married to the Duke of Thuringia. Widow. Founded the convent of Altenmünster in Mainz, Germany.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Bilhild.jpg

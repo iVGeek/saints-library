@@ -1,5 +1,6 @@
 ---
 name: Saint Canonica
+stub: true
 honorific: Saint
 summary: Daughter of a prince of Constantinople. Hermitess in the desert of Jordan.
 region: Turkey

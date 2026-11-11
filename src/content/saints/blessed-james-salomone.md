@@ -1,5 +1,6 @@
 ---
 name: Blessed James Salomone
+stub: false
 honorific: Blessed
 summary: >-
   Born to the nobility, and an only child. His father died when James was very small, his mother left the family to

@@ -1,5 +1,6 @@
 ---
 name: Saint Raphael Kalinowski
+stub: false
 honorific: Venerable
 summary: >-
   Son of Andrew Kalinowski, prominent mathmatics professor at the College of Nobility, and Josepha Poionska Kalinowski.

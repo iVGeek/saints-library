@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/6/6c/Saint_Thomas_Aquinas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 name: Blessed Thomas of Foligno
+stub: false
 honorific: Blessed
 summary: >-
   Franciscan friar. Betrayed by a heretic monk, he and several of his religious brothers were martyred by order of King

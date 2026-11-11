@@ -1,5 +1,6 @@
 ---
 name: Saint Eustazio of Palermo
+stub: false
 honorific: Saint
 summary: >-
   Imprisoned for his faith in North Africa in the persecutions by the Arian King Genseric. Escaping, he fled by sea to

@@ -1,5 +1,6 @@
 ---
 name: Blessed Ponzio of Barellis
+stub: false
 honorific: Blessed
 summary: >-
   Ponzio received a doctorate in civil law before joining the Mercedarians. Appointed Master-General of the Mercedarians

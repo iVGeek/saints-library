@@ -1,5 +1,6 @@
 ---
 name: Saint Siméon-François Berneux
+stub: false
 honorific: Venerable
 summary: >-
   Born to a poor family, Siméon felt a call to the priesthood at age ten. He entered the seminary in Mans, France in

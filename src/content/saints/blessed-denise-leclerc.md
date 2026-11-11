@@ -1,5 +1,6 @@
 ---
 name: Blessed Dénise Leclerc
+stub: false
 honorific: Blessed
 summary: >-
   Member of the Missionary Sisters of Our Lady of the Apostles, joining on 4 March 1959, taking the name Sister Bibiane,

@@ -1,5 +1,6 @@
 ---
 name: Blessed Jordan of Pisa
+stub: false
 honorific: Blessed
 summary: >-
   Joined the Dominicans at Pisa, Italy in 1280. Educated at the University of Paris, France. Lector at Sainta Maria

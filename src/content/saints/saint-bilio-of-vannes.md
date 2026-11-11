@@ -1,5 +1,6 @@
 ---
 name: Saint Bilio of Vannes
+stub: false
 honorific: Saint
 summary: Bishop of Vannes, Brittany (in modern France). Murdered by invading Normans. Martyr.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Billi.jpg

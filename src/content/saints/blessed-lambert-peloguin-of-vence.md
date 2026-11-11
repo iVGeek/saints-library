@@ -1,5 +1,6 @@
 ---
 name: Blessed Lambert Péloguin of Vence
+stub: false
 honorific: Blessed
 summary: >-
   His mother died in childbirth. Raised by the Benedictine monks of Lérins Abbey from age 12, Lambert entered the Order

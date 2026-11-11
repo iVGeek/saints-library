@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Faustus of Antioch
+stub: true
 honorific: Saint
 summary: Martyr.
 died: Antioch (in modern Turkey)

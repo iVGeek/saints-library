@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Antony Ixida
+stub: true
 honorific: Blessed
 summary: Evangelizing Jesuit priest noted for his education and eloquence. Martyr.
 searchAliases:

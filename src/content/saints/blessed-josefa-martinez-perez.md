@@ -1,5 +1,6 @@
 ---
 name: Blessed Josefa Martínez Pérez
+stub: false
 honorific: Blessed
 summary: >-
   The third of six children born to the peasant family of Josè and Marcela, she was educated at home, and then at the

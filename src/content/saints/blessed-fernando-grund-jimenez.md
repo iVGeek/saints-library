@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/6/63/Max_Koch_Schlacht_bei_Hemmingstedt.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Fernando Grund Jiménez
+stub: false
 honorific: Blessed
 summary: >-
   Studied at the Jesuit School of the Sacred Heart. Member of the Domincans. Ordained a priest in 1931. Assigned to a

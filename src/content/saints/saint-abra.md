@@ -1,5 +1,6 @@
 ---
 name: Saint Abra
+stub: false
 honorific: Saint
 summary: Daughter of Saint Hilary of Poitiers. Nun. Helped spread the faith around Poitiers, France.
 searchAliases:

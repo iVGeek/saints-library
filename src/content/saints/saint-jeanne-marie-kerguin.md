@@ -1,5 +1,6 @@
 ---
 name: Saint Jeanne-Marie Kerguin
+stub: false
 honorific: Venerable
 summary: >-
   Jeanne-Marie grew up in a poor peasant mountain family. Her mother died when Giovanna was quite young, and she was

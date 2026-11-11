@@ -1,5 +1,6 @@
 ---
 name: Pope Saint Adrian III
+stub: false
 honorific: Saint
 summary: >-
   Pope for approximately one year. Almost nothing is known of his life before his ascension. Adrian opposed the Roman

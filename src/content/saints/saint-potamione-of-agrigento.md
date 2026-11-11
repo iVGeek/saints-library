@@ -1,5 +1,6 @@
 ---
 name: Saint Potamione of Agrigento
+stub: false
 honorific: Saint
 summary: >-
   Priest. Bishop of Agrigento, Italy in the mid-6th-century. Began teaching Saint Gregory of Agrigento in 567, and

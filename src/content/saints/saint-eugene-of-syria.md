@@ -1,5 +1,6 @@
 ---
 name: Saint Eugene of Syria
+stub: true
 image: https://commons.wikimedia.org/wiki/Special:FilePath/Palmyra-Syria-19th_century.jpg?width=600
 honorific: Saint
 summary: Martyr. No other information has survived.

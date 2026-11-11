@@ -1,5 +1,6 @@
 ---
 name: Saint Miguel González de Aozaraza de Leibar
+stub: false
 honorific: Venerable
 summary: Dominican priest. Missionary to Japan. Arrested for his faith in Okinawa. Martyr.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Lorenzo-Ruiz-and-Companions.jpg

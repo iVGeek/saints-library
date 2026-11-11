@@ -1,5 +1,6 @@
 ---
 name: Saint Illtyd
+stub: false
 honorific: Saint
 summary: >-
   Studied under Saint Germanus of Auxerre. Monk under the direction of Saint Cadoc. Founded the influential abbey of

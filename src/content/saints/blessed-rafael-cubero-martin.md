@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Rafael Cubero Martín
+stub: true
 honorific: Blessed
 summary: Seminarian of the diocese of Córdoba, Spain. Martyred in the Spanish Civil War.
 birthYear: 1913

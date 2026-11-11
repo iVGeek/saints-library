@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/5/5d/Fresco_of_Pope_Lucius_I_-_Basilica_of_Saint_Paul_Outside_the_Walls_%28Before_1823%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Lucius of Rome
+stub: true
 honorific: Saint
 summary: Martyr. No other information has survived.
 died: Rome, Italy

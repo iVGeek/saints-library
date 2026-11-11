@@ -1,5 +1,6 @@
 ---
 name: Saint Berard of Bèze
+stub: false
 honorific: Saint
 summary: Benedictine monk. Martyred defending the altar at the monastery Bèze, C&ocirc;te-d'Or, France against Norman invaders.
 deathYear: 888

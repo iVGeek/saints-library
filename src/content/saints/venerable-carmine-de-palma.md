@@ -1,5 +1,6 @@
 ---
 name: Venerable Carmine de Palma
+stub: false
 honorific: Venerable
 summary: >-
   Orphaned as a small boy. Ordained a priest in Naples, Italy on 17 December 1898. For health reasons, he spent several

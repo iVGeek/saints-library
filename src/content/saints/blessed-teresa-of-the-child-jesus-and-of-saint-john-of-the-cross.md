@@ -1,5 +1,6 @@
 ---
 name: Blessed Teresa of the Child Jesus and of Saint John of the Cross
+stub: false
 honorific: Blessed
 summary: >-
   Second of eight children born to Juan and Eulalia. As a child, she would often visit her uncle Florentino, a priest

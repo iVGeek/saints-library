@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Peter Aymillo
+stub: true
 honorific: Blessed
 summary: Mercedarian friar. Priest. Bishop.
 died: Narbonne, France of natural causes

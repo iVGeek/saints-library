@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Odilone of Stavelot-Malamédy
+stub: false
 honorific: Blessed
 summary: >-
   Archdeacon in the bishopric of Verdun (in modern France). Monk at Gorze Abbey in 933 where he helped with its

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Jonatus
+stub: false
 honorific: Saint
 summary: >-
   Benedictine monk at Elnone, Belgium. Spiritual student of Saint Amandus of Maastricht. Abbot at Saint Machiennes

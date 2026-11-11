@@ -1,5 +1,6 @@
 ---
 name: Blessed Martinus In Eon-min
+stub: true
 honorific: Blessed
 summary: Layman convert. Martyred in the Jeongsa Persecution.
 image: https://catholicsaints.info/wp-content/uploads/img-Maryrs-of-Korea.jpg

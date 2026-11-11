@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Cairlon of Cashel
+stub: false
 honorific: Saint
 summary: Abbot. He died and was raised to life through the prayers of Saint Dageus. Archbishop of Cashel, Ireland.
 searchAliases:

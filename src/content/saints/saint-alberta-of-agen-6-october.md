@@ -1,5 +1,6 @@
 ---
 name: Saint Alberta of Agen
+stub: true
 honorific: Saint
 summary: Sister of Saint Faith. Martyred in the persecutions of Diocletian.
 deathYear: 303

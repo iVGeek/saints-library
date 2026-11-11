@@ -1,5 +1,6 @@
 ---
 name: Blessed Pietro Ernandez
+stub: false
 honorific: Blessed
 summary: >-
   Mercedarian. Had the gift of tongues, which he used to preach to Saracens and convert many of them to Christianity.

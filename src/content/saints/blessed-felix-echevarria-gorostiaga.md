@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Félix Echevarría Gorostiaga
+stub: false
 honorific: Blessed
 summary: >-
   Born to a pious family; two of his brothers became Franciscan priests and missionaries. Franciscan Friar Minor, making

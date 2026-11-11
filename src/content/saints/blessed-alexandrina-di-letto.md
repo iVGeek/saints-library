@@ -1,5 +1,6 @@
 ---
 name: Blessed Alexandrina di Letto
+stub: false
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Devotieprent_van_de_zalige_Alexandrina_di_Letto%2C_asset_T1QgUGNoXZglKMiJkjxhLsua.tif/lossless-page1-500px-Devotieprent_van_de_zalige_Alexandrina_di_Letto%2C_asset_T1QgUGNoXZglKMiJkjxhLsua.tif.png
 honorific: Blessed

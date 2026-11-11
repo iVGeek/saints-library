@@ -1,5 +1,6 @@
 ---
 name: Saint Claudius of Vienne
+stub: false
 honorific: Saint
 summary: >-
   15th bishop of Vienne, France, serving from c.440 to c.449. Part of the Council of Orange in 441. Part of the Synod of

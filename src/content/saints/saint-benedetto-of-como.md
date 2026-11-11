@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Benedetto of Como
+stub: true
 honorific: Saint
 title: Bishop
 summary: Bishop of Como, Italy in the late seventh or early eighth century.

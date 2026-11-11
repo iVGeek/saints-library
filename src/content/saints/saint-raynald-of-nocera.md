@@ -1,5 +1,6 @@
 ---
 name: Saint Raynald of Nocera
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility, the eldest son of the the Count of Postignano. He received a good eduction, and his family

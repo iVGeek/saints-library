@@ -1,5 +1,6 @@
 ---
 name: Saint Endellion of Tregony
+stub: true
 honorific: Saint
 summary: Daughter of Saint Brychan of Brycheiniog. Sister of Saint Nectan of Hartland.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Endellion-of-Tregony.jpg

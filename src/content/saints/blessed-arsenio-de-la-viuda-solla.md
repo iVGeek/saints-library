@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/49/Saint_Patrick_Catholic_Church_%28Columbus%2C_Ohio%29_-_relics_of_16_Dominican_saints.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Arsenio de la Viuda Solla
+stub: false
 honorific: Blessed
 summary: >-
   Joined the Dominicans a lay brother on 13 May 1903, making his solemn profession on 20 February 1910 in Cadiz, Spain.

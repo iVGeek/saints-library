@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Timothy of Rheims
+stub: true
 honorific: Saint
 summary: Martyr.
 deathYear: 290

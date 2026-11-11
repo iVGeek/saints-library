@@ -1,5 +1,6 @@
 ---
 name: Blessed Liborius Wagner
+stub: false
 honorific: Blessed
 summary: >-
   Raised a Protestant, he studied in Mühlhausen, Leipzig, Gotha and Strasbourg, then in 1621 began studying with Jesuits

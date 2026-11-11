@@ -1,5 +1,6 @@
 ---
 name: Pope Saint Leo IX
+stub: false
 honorific: Saint
 summary: >-
   Son of Count Hugh of Egisheim. Cousin of Emperor Conrad II. Chapter canon of Saint Stephen's, Toul, France. Deacon.

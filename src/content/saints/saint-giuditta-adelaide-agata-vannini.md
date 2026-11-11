@@ -1,5 +1,6 @@
 ---
 name: Saint Giuditta Adelaide Agata Vannini
+stub: false
 honorific: Venerable
 summary: ' On retreat in 1891 she met B Orphaned as a small child. Raised in the Torlonia Conservatory on Via Sant'' Onofrio, under the guidance of the Daughters of Charity of Saint Vincent de Paul. Entered the Daughters'' novitiate in Siena, Italy, but was forced to leave due to poor health.'
 image: https://catholicsaints.info/wp-content/gallery/blessed-josephine-vannini/blessed-josephine-vannini-01.jpg

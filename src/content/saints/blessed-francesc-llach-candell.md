@@ -1,5 +1,6 @@
 ---
 name: Blessed Francesc Llach Candell
+stub: false
 honorific: Blessed
 summary: >-
   Priest. Member of the Sons of the Holy Family. Secretary of his community and science teacher at Saint Peter the

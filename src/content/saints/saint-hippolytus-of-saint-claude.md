@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Hippolytus of Saint-Claude
+stub: true
 honorific: Saint
 summary: Benedictine monk. Abbot and bishop of Saint-Claude, France.
 deathYear: 775

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/8/87/Belene%2C_Bulgaria.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Paul of Wallachia
+stub: false
 honorific: Blessed
 summary: >-
   Studied law at the University of Bologna, Italy. A friend of Saint Dominic de Guzman, Paul joined the Dominicans and

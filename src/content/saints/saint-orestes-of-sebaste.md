@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Orestes of Sebaste
+stub: true
 honorific: Saint
 summary: Martyred in the persecutions of Diocletian.
 deathYear: 302

@@ -1,5 +1,6 @@
 ---
 name: Venerable Antônio Ferreira Viçoso
+stub: false
 honorific: Venerable
 summary: >-
   Ordained a priest in the Congregation of the Mission on 7 March 1818. Bishop of Mariana, Brazil on 15 July 1843 where

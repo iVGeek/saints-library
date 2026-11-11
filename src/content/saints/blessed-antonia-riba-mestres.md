@@ -1,5 +1,6 @@
 ---
 name: Blessed Antonia Riba Mestres
+stub: false
 honorific: Blessed
 summary: >-
   Student at a Piarist school. Joined the Sisters of the Pious Schools in 1918. Taught at Zaragoza and Valencia, Spain.

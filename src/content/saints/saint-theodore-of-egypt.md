@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Theodore of Egypt
+stub: false
 honorific: Saint
 summary: >-
   Monk. Spiritual student of Saint Ammonius the Great in Egypt. One of the early desert hermits on the Nile. Mentioned

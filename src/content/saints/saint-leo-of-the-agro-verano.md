@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Leo of the Agro Verano
+stub: true
 honorific: Saint
 summary: Married. Adult convert to Christianity. Bishop. Martyred by Arians.
 died: Agro Verano, Rome, Italy, date unknown

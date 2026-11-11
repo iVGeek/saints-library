@@ -1,5 +1,6 @@
 ---
 name: Saint Walburga
+stub: false
 honorific: Saint
 summary: ' Beginning in 748, she evangelized and healed pagans in what is now Germany with Saint Lioba, Saint Bonifa Daughter of Saint Richard the King. Sister of Saint Willibald and Saint Winebald. Student of Saint Tatta at Wimborne monastery, Dorset, England, where she later became a nun.'
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Walburga.jpg

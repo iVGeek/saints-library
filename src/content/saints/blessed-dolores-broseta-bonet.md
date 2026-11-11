@@ -1,5 +1,6 @@
 ---
 name: Blessed Dolores Broseta Bonet
+stub: false
 honorific: Blessed
 summary: >-
   One of six children born to Joaquín and María, a laboring family; two of her siblings died as small children. She was

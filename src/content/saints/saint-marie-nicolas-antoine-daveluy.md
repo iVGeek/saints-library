@@ -1,5 +1,6 @@
 ---
 name: Saint Marie-Nicolas-Antoine Daveluy
+stub: false
 honorific: Venerable
 summary: >-
   Born to a prominent and pious family, his father was a factory owner, city councilman, and government official;

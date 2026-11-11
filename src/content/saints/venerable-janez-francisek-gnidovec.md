@@ -1,5 +1,6 @@
 ---
 name: Venerable Janez Francišek Gnidovec
+stub: false
 honorific: Venerable
 summary: >-
   Born to a small, poor, pious farm family, Janez began working the cows and hogs as a small boy. His mother died when

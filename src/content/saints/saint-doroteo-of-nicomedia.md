@@ -1,5 +1,6 @@
 ---
 name: Saint Doroteo of Nicomedia
+stub: false
 honorific: Saint
 summary: >-
   Clerk in the house of emperor Diocletian. He was exposed as a Christian when he objected to the torture of fellow

@@ -1,5 +1,6 @@
 ---
 name: Saint Lydwina of Schiedam
+stub: false
 honorific: Saint
 summary: >-
   Her father was a poor noble, and her mother a poor commoner. Lydwina early evinced a devotion of Our Lady of Schiedam.

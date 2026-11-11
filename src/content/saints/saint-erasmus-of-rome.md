@@ -1,5 +1,6 @@
 ---
 name: Saint Erasmus of Rome
+stub: true
 honorific: Saint
 died: Rome, Italy, date unknown
 deathPlace: Italy, date unknown

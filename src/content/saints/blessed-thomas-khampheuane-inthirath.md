@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/5/53/1899._Tzarevich_Dmitry_by_M._Nesterov.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Thomas Khampheuane Inthirath
+stub: false
 honorific: Blessed
 summary: >-
   Teenaged layman in the apostolic vicariate of Pakse (in modern Laos). His father had served as catechist for his

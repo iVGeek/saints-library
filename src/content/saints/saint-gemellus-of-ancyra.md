@@ -1,5 +1,6 @@
 ---
 name: Saint Gemellus of Ancyra
+stub: true
 honorific: Saint
 summary: Martyred in the persecutions of Julian the Apostate.
 image: https://commons.wikimedia.org/wiki/Special:FilePath/Menologion_of_Basil_020.jpg?width=600

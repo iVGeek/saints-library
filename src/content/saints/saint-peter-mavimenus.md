@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Peter Mavimenus
+stub: true
 honorific: Saint
 summary: Martyred by Muslims for supporting Christianity and denigrating Islam.
 searchAliases:

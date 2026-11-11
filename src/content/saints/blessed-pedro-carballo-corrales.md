@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Pedro Carballo Corrales
+stub: false
 honorific: Blessed
 summary: >-
   Ordained a priest of the archdiocese of Sevilla, Spain on 18 December 1910. Parish priest of Santa Maria de

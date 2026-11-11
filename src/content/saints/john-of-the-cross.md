@@ -1,5 +1,6 @@
 ---
 name: John of the Cross
+stub: false
 honorific: Saint
 title: Doctor of the Church
 summary: >-

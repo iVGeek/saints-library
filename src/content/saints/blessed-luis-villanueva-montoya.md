@@ -1,5 +1,6 @@
 ---
 name: Blessed Luis Villanueva Montoya
+stub: false
 honorific: Blessed
 summary: Member of the Brothers of the Christian Schools. Martyred in the Spanish Civil War.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Luis-Villanueva-Montoya.jpg

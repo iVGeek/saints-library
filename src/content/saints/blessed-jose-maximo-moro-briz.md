@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/f/fe/Beatificaciotarragona2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed José Máximo Moro Briz
+stub: true
 honorific: Blessed
 summary: Priest in the diocese of Ávila, Spain. Martyred in the Spanish Civil War.
 birthYear: 1882

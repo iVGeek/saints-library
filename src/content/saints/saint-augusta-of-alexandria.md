@@ -1,5 +1,6 @@
 ---
 name: Saint Augusta of Alexandria
+stub: true
 image: https://commons.wikimedia.org/wiki/Special:FilePath/Troas_Therme_2.JPG?width=600
 honorific: Saint
 summary: Martyr.

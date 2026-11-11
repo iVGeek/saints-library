@@ -1,5 +1,6 @@
 ---
 name: Saint Basolus of Verzy
+stub: false
 honorific: Saint
 summary: Benedictine monk at Verzy, France. Lived for 40 years as a hermit on a hill near Rheims, France. Miracle worker.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Basolus-of-Verzy.jpg

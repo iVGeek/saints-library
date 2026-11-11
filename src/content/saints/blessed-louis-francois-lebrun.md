@@ -1,5 +1,6 @@
 ---
 name: Blessed Louis-François Lebrun
+stub: false
 honorific: Blessed
 summary: >-
   Benedictine Maurist priest. Imprisoned on a ship in the harbor of Rochefort, France and left to die during the

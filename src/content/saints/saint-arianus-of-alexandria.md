@@ -1,5 +1,6 @@
 ---
 name: Saint Arianus of Alexandria
+stub: false
 honorific: Saint
 summary: >-
   Third-century governor of Thebes, Egypt. Having witnessed the courage of Christian martyrs, he became interested in

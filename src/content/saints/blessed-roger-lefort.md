@@ -1,5 +1,6 @@
 ---
 name: Blessed Roger Lefort
+stub: false
 honorific: Blessed
 summary: >-
   French noble, the son of Godefroy le Fort, the lord of Ternes, Limousin. Nephew of Cardinal de la Chapelle. Bishop of

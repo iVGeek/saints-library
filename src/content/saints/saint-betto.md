@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Betto of Auxerre
+stub: false
 honorific: Saint
 summary: >-
   Benedictine monk at Saint-Colombe abbey in  in Saint-Denis-lès-Sens, France. Abbot of Saint Heracles abbey in Sens,

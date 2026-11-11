@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Dimitrianus of Verona
+stub: true
 honorific: Saint
 summary: Second bishop of Verona, Italy.
 searchAliases:

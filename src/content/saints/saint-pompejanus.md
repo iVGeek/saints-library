@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Pompejanus
+stub: true
 honorific: Saint
 summary: Martyred at age 26. No other information has survived.
 died: stabbed through the heart with a spear in Cagliari, Sicily, Italy

@@ -1,5 +1,6 @@
 ---
 name: Saint Terence of Pesaro
+stub: false
 honorific: Saint
 summary: >-
   Fled to across the Adriatic Sea Italy to escape persecutions in Pannonia (modern Hungary in the early 3rd century.

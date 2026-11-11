@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/5/53/1899._Tzarevich_Dmitry_by_M._Nesterov.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed José Quintas Durán
+stub: false
 honorific: Blessed
 summary: Young layman in the diocese of Almería, Spain. Martyred in the Spanish Civil War.
 birthYear: 1914

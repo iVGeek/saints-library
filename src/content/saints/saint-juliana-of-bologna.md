@@ -1,5 +1,6 @@
 ---
 name: Saint Juliana of Bologna
+stub: false
 honorific: Saint
 summary: >-
   Pious, married laywoman. Her husand, with her blessing, left her to become a priest. She raised four children alone,

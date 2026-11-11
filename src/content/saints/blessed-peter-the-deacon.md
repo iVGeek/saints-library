@@ -1,5 +1,6 @@
 ---
 name: Blessed Peter the Deacon
+stub: false
 honorific: Blessed
 summary: >-
   Benedictine monk of the Sant'Andrea al Celio monastery in Rome, Italy. Friend and fellow student of Pope Saint Gregory

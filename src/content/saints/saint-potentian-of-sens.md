@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Potentian of Sens
+stub: false
 honorific: Saint
 summary: >-
   Second bishop of Sens, France. Martyr. Some legends list him as a disciple of Saint Peter, but because of the dates,

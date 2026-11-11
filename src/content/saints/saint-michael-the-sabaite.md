@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Michael the Sabaitè
+stub: false
 honorific: Saint
 summary: >-
   Eighth century hermit at the monastery of Saint Sabas. The Muslim Caliph greatly admired him, and tried to convert him

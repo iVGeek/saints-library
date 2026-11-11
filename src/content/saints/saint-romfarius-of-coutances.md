@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Romfarius of Coutances
+stub: false
 honorific: Saint
 summary: >-
   Hermit in Aquitaine (in modern France). While on-board a ship, a storm struck, wrecking the vessel in the area of

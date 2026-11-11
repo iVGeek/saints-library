@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Piamun of Egypt
+stub: false
 honorific: Saint
 title: Priest
 summary: >-

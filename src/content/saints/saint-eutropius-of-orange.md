@@ -1,5 +1,6 @@
 ---
 name: Saint Eutropius of Orange
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility and spent a wild and wasted youth. Married. Widower. Deacon in Marseilles, France. Bishop of

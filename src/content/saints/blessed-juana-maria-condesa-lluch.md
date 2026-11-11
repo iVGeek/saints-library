@@ -1,5 +1,6 @@
 ---
 name: Blessed Juana Maria Condesa Lluch
+stub: false
 honorific: Blessed
 summary: >-
   Born into a wealthy and pious family, she received a good secular and Christian education. Even as a child Juana was

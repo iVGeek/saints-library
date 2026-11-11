@@ -1,5 +1,6 @@
 ---
 name: Blessed Atilano Dionisio Argüeso González
+stub: false
 honorific: Blessed
 summary: >-
   Joined the Hospitallers of Saint John of God in 1894, making his vows on 14 May 1896. Member of the Hospitallers

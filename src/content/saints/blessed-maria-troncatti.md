@@ -1,5 +1,6 @@
 ---
 name: Blessed Maria Troncatti
+stub: false
 honorific: Blessed
 summary: >-
   Worked as a Red Cross nurse in an Italian military hospital during World War I. Nun in the Salesian Sisters. In 1922

@@ -1,5 +1,6 @@
 ---
 name: Venerable María de los Desamparados Portilla Crespo
+stub: false
 honorific: Venerable
 summary: >-
   Her father was killed in the Spanish Civil War when Amparo was 12 years old. She studied child care and education, and

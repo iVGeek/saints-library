@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/b/b5/San_Pedro_Bautista_Basilica_main_facade_2023-04-05.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Pedro Martínez Ramos
+stub: true
 honorific: Blessed
 summary: Augustinian priest. Martyred in the Spanish Civil War.
 birthYear: 1903

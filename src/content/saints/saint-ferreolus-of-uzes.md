@@ -1,5 +1,6 @@
 ---
 name: Saint Ferreolus of Uzès
+stub: false
 honorific: Saint
 summary: >-
   Brother of Saint Tarsicia of Rodez. Sixth century bishop of Uzès, France. Devoted to converting Jews to Christianity.

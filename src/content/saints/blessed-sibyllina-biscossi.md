@@ -1,5 +1,6 @@
 ---
 name: Blessed Sibyllina Biscossi
+stub: false
 honorific: Blessed
 summary: ' Sibyllina developed a devotion to Saint Domini Orphaned when very young, she received no education and was working as a domestic servant by age 10. Blind by age 12; the cause of her blindness has not come down to us. Adopted by a community of Dominican tertiaries at Pavia, Italy.'
 image: https://catholicsaints.info/wp-content/uploads/Sibillina-Biscossi.jpg

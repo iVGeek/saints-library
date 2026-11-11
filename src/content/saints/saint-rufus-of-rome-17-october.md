@@ -1,5 +1,6 @@
 ---
 name: Saint Rufus of Rome
+stub: false
 honorific: Saint
 summary: Brought to Rome with Saint Ignatius of Antioch and Saint Zosimus during the persecutions of Trajan. Marytr.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Rufus-of-Rome.jpg

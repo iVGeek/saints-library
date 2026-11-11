@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/9/9c/Narnicattedrale.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Giovanni Battista Bonetti
+stub: false
 honorific: Blessed
 summary: >-
   A physically small and very humble man, Giovanni joined the Franciscan friars in Turin, Italy in 1635, and was

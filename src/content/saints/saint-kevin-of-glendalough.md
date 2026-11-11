@@ -1,5 +1,6 @@
 ---
 name: Saint Kevin of Glendalough
+stub: false
 honorific: Saint
 title: St. Kevin of Glendalough
 summary: >-

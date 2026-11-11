@@ -1,5 +1,6 @@
 ---
 name: Saint Livinus
+stub: false
 honorific: Saint
 summary: >-
   Son of a Scottish nobleman and an Irish princess, he was raised in Ireland, and studied there and in England. Ordained

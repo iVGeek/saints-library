@@ -1,5 +1,6 @@
 ---
 name: Saint Caillin of Ferns
+stub: false
 honorific: Saint
 summary: >-
   Seventh century spiritual student of Saint Aidan of Ferns in Ireland. Legend says that he turned a group of hostile

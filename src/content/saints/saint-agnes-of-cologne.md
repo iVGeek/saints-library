@@ -1,5 +1,6 @@
 ---
 name: Saint Agnes of Cologne
+stub: false
 honorific: Saint
 summary: One of the young women who travelled with and was martyred with Saint Ursula. Venerated at Cologne, Germany.
 born: British Isles

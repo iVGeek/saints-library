@@ -1,5 +1,6 @@
 ---
 name: Saint Barachisius
+stub: false
 honorific: Saint
 summary: >-
   Monk. Went with Saint Jonas of Hubaham, his brother and fellow monk, to Hubaham, Persia, to minister to Chistians

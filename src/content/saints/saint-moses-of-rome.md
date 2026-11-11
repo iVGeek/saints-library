@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/d/d3/St-stephen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Moses of Rome
+stub: false
 honorific: Saint
 summary: >-
   May have been of Jewish ancestry. Imperial Roman citizen. Priest. Noted preacher. Adamant opponent of the heresy of

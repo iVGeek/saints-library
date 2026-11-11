@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/6/66/Astorga_Cathedral_Fa%C3%A7ade.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Colomba Osorio
+stub: true
 honorific: Blessed
 summary: Nun. Abbess at Archen. Martyred with several of her sisters.
 deathYear: 982

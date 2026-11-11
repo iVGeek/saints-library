@@ -1,5 +1,6 @@
 ---
 name: Saint Agilberta of Jouarre
+stub: false
 honorific: Saint
 summary: Related to Saint Ebrigisil, Saint Ado of Jouarre, and Saint Agilbert of Paris. Nun. Abbess of Jouarre Abbey c.660.
 searchAliases:

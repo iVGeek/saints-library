@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Phocas of Antioch
+stub: true
 honorific: Saint
 summary: Martyred in the persecutions of Emperor Licinius.
 deathYear: 320

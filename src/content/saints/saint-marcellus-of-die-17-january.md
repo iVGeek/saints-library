@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Marcellus of Die
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Die, province of Lugdunense, Gaul (in modern France) in 463. Exiled by Arian king Eurico for defending

@@ -1,5 +1,6 @@
 ---
 name: Saint Calminius
+stub: false
 honorific: Saint
 summary: >-
   A duke in the region of Aquitaine (in modern France), and count of Auvergne, Calminius was married to Saint Namadia of

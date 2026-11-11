@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Triphina of Sicily
+stub: true
 honorific: Saint
 summary: Martyr. No other information has survived.
 deathYear: 306

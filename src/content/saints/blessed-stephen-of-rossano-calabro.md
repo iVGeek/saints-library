@@ -1,5 +1,6 @@
 ---
 name: Blessed Stephen of Rossano Calabro
+stub: false
 honorific: Blessed
 summary: >-
   Raised in a peasant family, Stephen early felt a desire for religious life, and became a monk. Spiritual student,

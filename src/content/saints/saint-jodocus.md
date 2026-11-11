@@ -1,5 +1,6 @@
 ---
 name: Saint Jodocus
+stub: false
 honorific: Saint
 summary: >-
   Seventh century king in Brittany, the son of King Juthael of Amorica. Following a pilgrimage to Rome, Italy c.636, he

@@ -1,5 +1,6 @@
 ---
 name: Blessed Ángel de Tena Martín
+stub: false
 image: >-
   https://commons.wikimedia.org/wiki/Special:FilePath/1892-05-08%252C_Blanco_y_Negro%252C_Los_de_casa%252C_Cilla.jpg?width=600
 honorific: Blessed

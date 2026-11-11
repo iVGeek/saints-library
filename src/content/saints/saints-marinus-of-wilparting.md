@@ -1,5 +1,6 @@
 ---
 name: Saint Marinus of Wilparting
+stub: true
 honorific: Saint
 summary: Uncle of Anianus of Wilparting. Travelling missionary bishop. Martyr.
 image: https://catholicsaints.info/wp-content/uploads/img-Saints-Marinus-and-Arianus-of-Wilparting.jpg

@@ -1,5 +1,6 @@
 ---
 name: Venerable Teresa Rosa Ferdinanda de Saldanha Oliveira y Sousa
+stub: false
 honorific: Venerable
 summary: >-
   Born to the Portuguese nobility, the daughter of João de Saldanha Oliveira Juzarte Figueira e Sousa, 3rd Count of Rio

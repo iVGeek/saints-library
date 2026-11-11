@@ -1,5 +1,6 @@
 ---
 name: Saint Josemaría Escrivá
+stub: false
 honorific: Venerable
 summary: >-
   One of six children born to Jose and Dolores Escriva; three of his siblings died in infancy. His father was a small

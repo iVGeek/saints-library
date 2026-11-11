@@ -1,5 +1,6 @@
 ---
 name: Venerable Magdalen of the Sacred Heart
+stub: false
 honorific: Venerable
 summary: >-
   Daughter of an Anglican clergyman. Volunteer nurse in the Crimean War. Convert to Catholicism in 1855. Founded the

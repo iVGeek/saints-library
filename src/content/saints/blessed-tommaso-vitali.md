@@ -1,5 +1,6 @@
 ---
 name: Blessed Tommaso Vitali
+stub: false
 honorific: Blessed
 title: Hermit
 summary: >-

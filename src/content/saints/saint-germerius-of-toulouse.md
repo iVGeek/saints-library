@@ -1,5 +1,6 @@
 ---
 name: Saint Germerius of Toulouse
+stub: false
 honorific: Saint
 summary: >-
   Priest. Bishop of Toulouse, France for 50 years. Noted for living an austere life devoted to prayer and almsgiving, as

@@ -1,5 +1,6 @@
 ---
 name: Saint Boniface of Lausanne
+stub: false
 honorific: Saint
 summary: >-
   Educated at the Universities of Paris, France. Cistercian monk at Cambre Abbey near Brussels, Belgium. Noted for his

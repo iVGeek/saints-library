@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/e/e6/JDie_achtj%C3%A4hrige_Hildegard_von_Bingen_%28Mitte%29_wird_zu_Jutta_von_Sponheim_%28Mitte_rechts%29_auf_den_Disibodenberg_gebracht.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Jutta of Disibodenberg
+stub: false
 honorific: Blessed
 summary: >-
   Born to the German nobility, the sister of Count Megenhard of Spanheim. On 1 November 1106 she took up life as a

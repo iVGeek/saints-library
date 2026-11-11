@@ -1,5 +1,6 @@
 ---
 name: Saint Giovanni Theristi
+stub: false
 honorific: Saint
 summary: >-
   When his mother was pregnant with “Giovanni” (we don't know his birth name), she was enslaved and taken to Palermo,

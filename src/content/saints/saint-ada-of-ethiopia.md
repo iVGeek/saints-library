@@ -1,5 +1,6 @@
 ---
 name: Saint Ada of Ethiopia
+stub: true
 honorific: Saint
 summary: Martyr.
 died: Ethiopia

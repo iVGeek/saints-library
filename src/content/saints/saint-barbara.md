@@ -1,5 +1,6 @@
 ---
 name: Saint Barbara
+stub: false
 honorific: Saint
 summary: >-
   A beautiful maiden imprisoned in a high tower by her father Dioscorus for disobedience. While there, she was tutored

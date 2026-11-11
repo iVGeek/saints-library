@@ -1,5 +1,6 @@
 ---
 name: Blessed Jaume Codina Casellas
+stub: true
 honorific: Blessed
 summary: Mercedarian brother. Martyred in the Spanish Civil War.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Jaume-Codina-Casellas.jpg

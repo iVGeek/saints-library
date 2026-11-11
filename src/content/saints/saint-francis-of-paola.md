@@ -1,5 +1,6 @@
 ---
 name: Saint Francis of Paola
+stub: false
 honorific: Saint
 summary: >-
   Francis's parents were childless for many years, but following prayers for the intercession of Saint Francis of

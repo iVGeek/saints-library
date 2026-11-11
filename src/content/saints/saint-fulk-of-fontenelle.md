@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Fulk of Fontenelle
+stub: true
 honorific: Saint
 summary: Benedictine monk. Abbot at Fontenelle in France.
 deathYear: 845

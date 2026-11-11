@@ -1,5 +1,6 @@
 ---
 name: Saint Shamuna of Edessa
+stub: true
 honorific: Saint
 summary: Martyred in the persecutions of Diocletian.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Shamuna-of-Edessa.jpg

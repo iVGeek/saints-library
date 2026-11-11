@@ -1,5 +1,6 @@
 ---
 name: Saint Catherine of Palma
+stub: false
 honorific: Saint
 summary: >-
   Orphan who lived an unhappy childhood in the home of her paternal uncle. Felt a call to the religious life at age 15,

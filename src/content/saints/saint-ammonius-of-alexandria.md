@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/3/32/Eusebius_of_Caesarea_and_Ammonius_of_Alexandria_Rabbula_Gospels_Icon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 name: Saint Ammonius of Alexandria
+stub: true
 honorific: Saint
 summary: Martyr. No other information has survived.
 died: beheaded on a 14 February, year unknown, in Alexandria, Egypt

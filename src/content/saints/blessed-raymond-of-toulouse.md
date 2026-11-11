@@ -1,5 +1,6 @@
 ---
 name: Blessed Raymond of Toulouse
+stub: false
 honorific: Blessed
 summary: >-
   Son of the Count de Montfort. Cousin of Blessed George of Lauria. While on pilgrimage to the Marian shrine of

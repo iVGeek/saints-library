@@ -1,5 +1,6 @@
 ---
 name: Blessed Amadeus of Savoy
+stub: false
 honorific: Blessed
 summary: >-
   Member of the royal house of Piedmont. Duke of Savoy (an area of modern France). Known as a just and charitable ruler,

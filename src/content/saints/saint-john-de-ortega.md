@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Juan de Ortega
+stub: false
 honorific: Saint
 summary: >-
   Priest in the diocese of Burgos, Spain. Pilgrim to Palestine, Rome, Italy, and Santiago de Compostela, Spain. Lived as

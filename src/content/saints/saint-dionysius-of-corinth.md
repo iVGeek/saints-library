@@ -1,5 +1,6 @@
 ---
 name: Saint Dionysius of Corinth
+stub: false
 honorific: Saint
 summary: >-
   Second century bishop of Corinth, Greece. Some of his correspondence, including testimony about the martyrdom of Saint

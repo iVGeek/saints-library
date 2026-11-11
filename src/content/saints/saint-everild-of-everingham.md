@@ -1,5 +1,6 @@
 ---
 name: Saint Everild of Everingham
+stub: false
 honorific: Saint
 summary: >-
   Seventh century English nobility. Convert to Christianity. Nun, entering a convent at York with Saint Bega and Saint

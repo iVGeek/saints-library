@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Just
+stub: true
 honorific: Saint
 summary: Martyr.
 died: Ireland

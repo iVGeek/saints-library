@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Nicolò of San Bernardo
+stub: false
 honorific: Blessed
 summary: >-
   Benedictine monk at the abbey outside Gembloux, Belgium. Feeling a call to a more austere life, he joined the

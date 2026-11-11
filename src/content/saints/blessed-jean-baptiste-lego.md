@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/a/a3/Jean-Baptiste_Bory_de_Saint-Vincent_-_Voyage_dans_les_quatre_principales_%C3%AEles_des_mers_d%27Afrique_-_Tome_I.djvu?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 name: Blessed Jean-Baptiste Lego
+stub: false
 honorific: Blessed
 summary: >-
   Brother of Blessed René Lego. Priest in the diocese of Angers, France. Martyred in the persecutions of the French

@@ -1,5 +1,6 @@
 ---
 name: Saint Peregrine Laziosi
+stub: false
 honorific: Saint
 summary: >-
   Born wealthy, he spent a worldly youth, and became involved in politics. Peregrine was initially strongly

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Engratia of Segovia
+stub: false
 honorific: Saint
 summary: Sister of Saint Fructus of Segovia and Saint Valentine of Segovia. Martyred by invading Moors.
 deathYear: 715

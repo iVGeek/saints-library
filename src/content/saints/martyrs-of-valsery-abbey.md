@@ -1,5 +1,6 @@
 ---
 name: Martyrs of Valsery Abbey
+stub: false
 honorific: Saint
 summary: >-
   An unknown number of Premonstratensian monks at the Abbey of Notre-Dame de Valsery, Picardie, France who were martyred

@@ -1,5 +1,6 @@
 ---
 name: Saint Paulina of Rome
+stub: false
 honorific: Saint
 summary: >-
   Daughter of Saint Artemius of Rome and Saint Candida of Rome.  Convert, brought to the faith by Saint Peter the

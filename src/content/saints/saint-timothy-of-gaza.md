@@ -1,5 +1,6 @@
 ---
 name: Saint Timothy of Gaza
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Gaza, Palestine. Scourged, tortured and martyred by order of Urban, governor of Palestine, during the

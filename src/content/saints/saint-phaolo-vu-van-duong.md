@@ -1,5 +1,6 @@
 ---
 name: Saint Phaolô Vu Van Duong
+stub: false
 honorific: Venerable
 summary: >-
   Married layman and father in the apostolic vicariate of Central Tonkin (modern Vietnam). During the persecutions of

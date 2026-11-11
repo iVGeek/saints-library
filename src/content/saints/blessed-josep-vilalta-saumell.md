@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Josep Vilalta Saumell
+stub: false
 honorific: Blessed
 summary: >-
   Franciscan Capuchin friar, professed on 14 March 1935. Ordained a priest on 20 April 1935. Imprisoned and murdered by

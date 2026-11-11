@@ -1,5 +1,6 @@
 ---
 name: Saint Domninus
+stub: false
 honorific: Saint
 summary: >-
   Soldier. Personal attendant to Roman emperor Maximian Herculeus in Milan, Italy. Convert. When the anti-Christian

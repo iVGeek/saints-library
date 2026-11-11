@@ -1,5 +1,6 @@
 ---
 name: Saint Aldegrin of Baume
+stub: false
 honorific: Saint
 summary: >-
   After a life as a knight Aldegrin felt a call to religious life, and became a Benedictine monk at Baume Abbey.

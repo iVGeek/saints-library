@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Sebastian Montanol
+stub: false
 honorific: Blessed
 summary: >-
   Dominican missionary to Zacateca, Mexico. When some natives treated the Eucharist with disrespect, Sebastian chastised

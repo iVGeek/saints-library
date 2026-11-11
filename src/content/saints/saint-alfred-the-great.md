@@ -1,5 +1,6 @@
 ---
 name: Saint Alfred the Great
+stub: false
 honorific: Saint
 summary: >-
   Youngest of five sons of King Ethelwulf of Wessex. Ideal Christian king of Wessex, he came to the throne during a

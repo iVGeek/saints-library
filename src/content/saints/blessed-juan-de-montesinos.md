@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/8/85/Alicante%2C_Spain.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Juan de Montesinos
+stub: true
 honorific: Blessed
 summary: Mercedarian friar. Missionary. Martyr.
 deathYear: 1619

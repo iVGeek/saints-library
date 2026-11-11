@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/f/fe/Malvarrosa_Beach%2C_Valencia%2C_Spain_%2829812271043%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Jaime Calatrava Romero
+stub: true
 honorific: Blessed
 summary: Layman of the diocese of Almería, Spain. Martyred in the Spanish Civil War.
 birthYear: 1913

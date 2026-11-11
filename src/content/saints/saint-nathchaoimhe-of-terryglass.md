@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Nathchaoimhe of Terryglass
+stub: true
 honorific: Saint
 summary: Monk. Abbot at Tir-da-ghlas (Terryglass), Ireland.
 region: Ireland

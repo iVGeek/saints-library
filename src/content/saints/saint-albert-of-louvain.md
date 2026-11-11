@@ -1,5 +1,6 @@
 ---
 name: Saint Albert of Louvain
+stub: false
 honorific: Saint
 summary: >-
   Son of Duke Godfrey III of Brabant. Made a canon of Liege, Belgium at age 12, a political appointment for guaranteed

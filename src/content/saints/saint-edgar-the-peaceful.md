@@ -1,5 +1,6 @@
 ---
 name: Saint Edgar the Peaceful
+stub: false
 honorific: Saint
 summary: >-
   Born a prince, the son of King Edmund I and Saint Elgiva of Shaftesbury. King of the Mercians and Northumbrians in

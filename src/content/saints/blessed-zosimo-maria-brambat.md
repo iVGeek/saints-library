@@ -1,5 +1,6 @@
 ---
 name: Blessed Zosimo Maria Brambat
+stub: false
 honorific: Blessed
 summary: >-
   Cistercian brother in the Congregation of Casamari, he joined the abbey in 1792 and made his profession on 20 November

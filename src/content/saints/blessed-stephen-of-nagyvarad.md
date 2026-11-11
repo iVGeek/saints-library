@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/c/c8/King_St._Ladislaus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Stephen of Nagyvárad
+stub: false
 honorific: Blessed
 summary: >-
   Franciscan friar. Imprisoned for his faith, he escaped and sought shelter in Sarai Batu (modern Selitrennoye, Russia).

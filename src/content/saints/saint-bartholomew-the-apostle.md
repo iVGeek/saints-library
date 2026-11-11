@@ -1,5 +1,6 @@
 ---
 name: Saint Bartholomew the Apostle
+stub: false
 honorific: Saint
 summary: >-
   One of the Twelve Apostles. Probably a close friend of Saint Philip; Bartholomew's name is always mentioned in the

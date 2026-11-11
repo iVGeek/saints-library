@@ -1,5 +1,6 @@
 ---
 name: Blessed Giacomo Abbondo
+stub: false
 honorific: Blessed
 summary: >-
   Second of six children born to Carlo Benedetto Abbondo and Francesca Maria Naya. Giacomo was greatly influenced by his

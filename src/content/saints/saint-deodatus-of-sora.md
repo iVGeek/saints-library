@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Deodatus of Sora
+stub: true
 honorific: Saint
 summary: Martyr. No other information as survived.
 deathYear: 1621

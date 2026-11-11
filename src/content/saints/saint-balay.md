@@ -1,5 +1,6 @@
 ---
 name: Saint Balay
+stub: true
 honorific: Saint
 summary: Hermit at Ploermellac, Brittany, France. Spiritual student of Saint Guenole.
 searchAliases:

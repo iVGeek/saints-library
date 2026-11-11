@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/1/18/Sants_Justs_i_Pastor.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Pastor of Nicomedia
+stub: false
 honorific: Saint
 summary: One of a group of seven Christians who were martyred together in the persecutions of Diocletian.
 feastDay:

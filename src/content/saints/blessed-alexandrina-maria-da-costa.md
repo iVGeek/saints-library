@@ -1,5 +1,6 @@
 ---
 name: Blessed Alexandrina Maria da Costa
+stub: false
 honorific: Blessed
 summary: >-
   Lay woman from the diocese of Braga, Portugal, she went to school in Povoa do Varzim and learned relgion from her

@@ -1,5 +1,6 @@
 ---
 name: Blessed Guy Vignotelli
+stub: false
 honorific: Blessed
 summary: >-
   Wealthy layman known for his charity to the poor. After hearing a sermon by Saint Francis of Assisi, he gave away the

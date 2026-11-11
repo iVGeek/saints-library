@@ -1,5 +1,6 @@
 ---
 name: Blessed Félix González Tejedor
+stub: false
 honorific: Blessed
 summary: >-
   Joined the Salesians at Carabanchel Alto, Madrid, Spain, making his vows on 13 September 1907. Priest, ordained in

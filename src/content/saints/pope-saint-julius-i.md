@@ -1,5 +1,6 @@
 ---
 name: Pope Saint Julius I
+stub: false
 honorific: Saint
 summary: >-
   Son of Rusticus. Elected 35th pope in 337. Built several churches in Rome. Confirmed the right of bishops to appeal to

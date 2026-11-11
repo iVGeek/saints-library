@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/4f/Frm_beatification_banner.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Jean-François-Marie Benoît-Vourlat
+stub: false
 honorific: Blessed
 summary: >-
   Jesuit priest. Noted spiritual director. Chaplain to the Sisters of the Perpetual Adoration of the Blessed Sacrament.

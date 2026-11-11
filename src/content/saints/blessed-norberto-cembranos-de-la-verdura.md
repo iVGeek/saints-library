@@ -1,6 +1,7 @@
 ---
 image: https://www.santiebeati.it/immagini/Thumbs/99237/99237.JPG
 name: Blessed Norberto Cembranos de la Verdura
+stub: false
 honorific: Blessed
 summary: >-
   Norberto joined the Franciscan Capuchin lay oblates in El Pardo, Madrid, Spain. He was serving there in 1936 at the

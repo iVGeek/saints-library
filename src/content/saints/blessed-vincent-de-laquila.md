@@ -1,5 +1,6 @@
 ---
 name: Blessed Vincent de L'Aquila
+stub: false
 honorific: Blessed
 summary: >-
   May have trained as a shoemaker in his youth. Joined the Friars Minor at age 14 at the convent of San Giuliano outside

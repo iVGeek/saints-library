@@ -1,6 +1,7 @@
 ---
 image: https://www.santiebeati.it/immagini/Thumbs/99744/99744.jpg
 name: Saint Liadán of Killyon
+stub: false
 honorific: Saint
 summary: >-
   Daughter of a pagan chieftain, and the mother of Saint Kieran; a legend in the Oengu Martyrology says that she

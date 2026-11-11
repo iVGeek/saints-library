@@ -1,5 +1,6 @@
 ---
 name: Saint Honoratus of Milan
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Milan, Italy in 567 during a time when there was theological conflict with the Arians, battlefield conflict

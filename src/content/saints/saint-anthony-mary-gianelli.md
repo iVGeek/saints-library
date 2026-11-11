@@ -1,5 +1,6 @@
 ---
 name: Saint Anthony Mary Gianelli
+stub: false
 honorific: Venerable
 title: Missionary
 summary: >-

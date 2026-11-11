@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Hiduard
+stub: false
 honorific: Saint
 summary: Benedictine monk. Missionary in Flanders. Founded Saint Peter's abbey at Dickelvenne, Belgium.
 searchAliases:

@@ -1,5 +1,6 @@
 ---
 name: Saint Wolfgang of Ratisbon
+stub: false
 honorific: Saint
 summary: >-
   Educated by Benedictines at Reichenau, Switzerland. Spiritual student of Saint Romuald. Benedictine monk at Einsiedeln

@@ -1,5 +1,6 @@
 ---
 name: Saint Vitalis of Savigny
+stub: false
 honorific: Saint
 summary: >-
   Vitalis gave up wealth and a position in the landed gentry to become a hermit, monk and then abbot of 140 Benedictine

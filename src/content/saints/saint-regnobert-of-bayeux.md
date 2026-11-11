@@ -1,5 +1,6 @@
 ---
 name: Saint Regnobert of Bayeux
+stub: false
 honorific: Saint
 summary: >-
   Missionary priest in the 620s, working to convert the Saxons who had invaded the Bessin region. Twelfth bishop of

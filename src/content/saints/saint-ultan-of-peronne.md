@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Ultan of Péronne
+stub: false
 honorific: Saint
 summary: >-
   Brother of Saint Fursey of Péronne and Saint Foillan of Fosses. Fellow monk with them at Burgh Castle near Yarmouth,

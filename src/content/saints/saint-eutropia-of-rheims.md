@@ -1,5 +1,6 @@
 ---
 name: Saint Eutropia of Rheims
+stub: false
 honorific: Saint
 summary: >-
   Sister of Saint Nicasius. Martyred in the barbarian invasion of Rheims, France. She attacked her brother's murderer

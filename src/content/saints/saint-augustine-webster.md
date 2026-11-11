@@ -1,5 +1,6 @@
 ---
 name: Saint Augustine Webster
+stub: false
 honorific: Venerable
 summary: >-
   Educated at Cambridge. Priest. Carthusian monk and prior of Our Lady of Melwood, a Carthusian house at Epworth, on the

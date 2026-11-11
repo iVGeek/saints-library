@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Secundina of Rome
+stub: false
 honorific: Saint
 summary: >-
   Young woman martyred in the persecutions of Decius. Her guards were converted to Christianity by her testimony of

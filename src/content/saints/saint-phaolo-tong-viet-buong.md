@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Phaolô Tong Viet Buong
+stub: false
 honorific: Venerable
 summary: >-
   Lifelong layman in the apostolic vicariate of Cochinchina. Convert to Christianity. Soldier. Captain of the guard for

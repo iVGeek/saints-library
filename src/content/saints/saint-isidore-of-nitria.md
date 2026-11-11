@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Isidore of Nitria
+stub: false
 honorific: Saint
 summary: Fourth century bishop of Nitria (modern AL Barnuji) in the Egyptian desert. Welcomed Saint Jerome to Egypt.
 searchAliases:

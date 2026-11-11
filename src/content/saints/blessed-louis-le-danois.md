@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/b/b6/Yan%27_Dargent_by_%C3%89mile_Bayard_%28art_historian%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Louis le Danois
+stub: true
 honorific: Blessed
 summary: Priest in the archdiocese of Paris, France. One of the Martyrs of September.
 birthYear: 1744

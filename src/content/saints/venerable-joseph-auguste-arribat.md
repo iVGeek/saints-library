@@ -1,5 +1,6 @@
 ---
 name: Venerable Joseph-Auguste Arribat
+stub: true
 honorific: Venerable
 summary: Priest. Member of the Salesians of Don Bosco.
 image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Joseph-Auguste-Arribat.jpg

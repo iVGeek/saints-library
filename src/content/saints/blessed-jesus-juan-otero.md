@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/c/ce/Bas%C3%ADlica_del_Voto_Nacional_-_Fachada_principal_3c.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Jesús Juan Otero
+stub: false
 honorific: Blessed
 summary: Member of the Brothers of the Christian Schools. Martyred in the Spanish Civil War.
 searchAliases:

@@ -1,5 +1,6 @@
 ---
 name: Saint Theophilus of Caesarea
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Caesarea in Palestine. Opposed the Quartodecimans, a sect that advocated commemorating Easter on Passover,

@@ -1,5 +1,6 @@
 ---
 name: Blessed Ludovico Morbioli
+stub: false
 honorific: Blessed
 summary: >-
   One of six children born to the lower middle class family of Francesco Antonio and Agnes Morbioli, Ludovico spent his

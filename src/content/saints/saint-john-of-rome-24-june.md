@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint John of Rome
+stub: true
 honorific: Saint
 summary: Martyr.
 died: on the Via Salaria Antica, Rome, Italy

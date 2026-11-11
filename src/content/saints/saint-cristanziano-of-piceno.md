@@ -1,5 +1,6 @@
 ---
 name: Saint Cristanziano of Piceno
+stub: false
 honorific: Saint
 summary: >-
   First person in the area of Ascoli Piceno, Italy to convert and be baptized by Saint Emidius who gave him the name

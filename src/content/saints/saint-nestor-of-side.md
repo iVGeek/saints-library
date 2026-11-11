@@ -1,5 +1,6 @@
 ---
 name: Saint Nestor of Side
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Side, Pamphylia (in modern Antalya, Turkey), known for his personal piety and his zeal as an evangelist.

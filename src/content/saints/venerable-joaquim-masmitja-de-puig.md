@@ -1,5 +1,6 @@
 ---
 name: Venerable Joaquim Masmitjà de Puig
+stub: false
 honorific: Venerable
 summary: >-
   Ordained a priest of the diocese of Girona, Spain on 22 February 1834. Founded the Daughters of the Most Holy and

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Philomenus of Heraclea
+stub: true
 honorific: Saint
 summary: Martyred in Heraclea, Thrace. No other information has survived.
 region: England

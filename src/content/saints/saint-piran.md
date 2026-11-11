@@ -1,5 +1,6 @@
 ---
 name: Saint Piran
+stub: false
 honorific: Saint
 summary: >-
   Piran's family origins are obscure; tradition says he came from Ireland. He spent his youth in south Wales where he

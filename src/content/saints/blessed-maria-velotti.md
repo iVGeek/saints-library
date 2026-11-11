@@ -1,5 +1,6 @@
 ---
 name: Blessed Maria Luigia Velotti
+stub: false
 honorific: Blessed
 summary: >-
   Born to Francesco Velotti and Teresa Napoletano, Maria was baptised on the day she was born, but was orphaned before

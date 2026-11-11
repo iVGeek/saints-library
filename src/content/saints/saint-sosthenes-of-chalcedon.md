@@ -1,5 +1,6 @@
 ---
 name: Saint Sosthenes of Chalcedon
+stub: false
 honorific: Saint
 summary: >-
   Executioner assigned to torture Saint Euphemia; her faith and prayers converted him to Christianity. Martyred in the

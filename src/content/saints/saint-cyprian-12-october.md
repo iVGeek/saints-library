@@ -1,5 +1,6 @@
 ---
 name: Saint Cyprian
+stub: false
 honorific: Saint
 summary: >-
   Fifth century bishop in North Africa. In 484, Cyprian, Saint Felix, and 4,964 assorted unnamed parishioners were

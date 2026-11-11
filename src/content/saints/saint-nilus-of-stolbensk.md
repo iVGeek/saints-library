@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Nilus of Stolbensk
+stub: false
 honorific: Saint
 summary: >-
   Spiritual student of Saint Sabas of Pskov. Hermit in the forests in the Tver region. He attracted so many would be

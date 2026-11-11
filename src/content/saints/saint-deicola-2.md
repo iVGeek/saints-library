@@ -1,6 +1,7 @@
 ---
 image: https://www.catholic.org/files/images/saints/2839.jpg
 name: Saint Deicola
+stub: false
 honorific: Saint
 summary: >-
   Seventh-century evangelist in the Norfolk and Sussex regions of England. Founded the abbey at Bosham in Sussex, and

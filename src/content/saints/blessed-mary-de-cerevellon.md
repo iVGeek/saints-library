@@ -1,5 +1,6 @@
 ---
 name: Blessed Mary de Cerevellon
+stub: false
 honorific: Blessed
 summary: >-
   One of the founders of the female branch of the Mercedarians in 1265, she worked with the Christian slaves of the

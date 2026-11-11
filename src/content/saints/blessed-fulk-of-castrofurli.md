@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Fulk of Castrofurli
+stub: false
 honorific: Blessed
 summary: >-
   Pilgrim to Rome, Italy with Saint Arduin of Gallinaro. Died working with plague victims in the Castrofuli and

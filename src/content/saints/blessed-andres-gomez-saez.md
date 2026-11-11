@@ -1,5 +1,6 @@
 ---
 name: Blessed Andrés Gómez Sáez
+stub: false
 honorific: Blessed
 summary: >-
   Member of the Salesians, taking his vows at Carabanchel Alto, Madrid, Spain on 28 July 1914. Ordained in Orense, Spain

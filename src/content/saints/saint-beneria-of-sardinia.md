@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Beneria of Sardinia
+stub: true
 honorific: Saint
 summary: Married to Saint Mauro of Sardinia. Martyr.
 died: beheaded in Sardinia

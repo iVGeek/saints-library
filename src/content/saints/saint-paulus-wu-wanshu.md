@@ -1,5 +1,6 @@
 ---
 name: Saint Paulus Wu Wanshu
+stub: false
 honorific: Venerable
 summary: >-
   Young layperson of the apostolic vicariate of Southeastern Zhili, China; nephew of Saint Paulus Wu Anju. Martyred in

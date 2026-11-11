@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Egdunus
+stub: false
 honorific: Saint
 summary: Martyred in the persecutions of Diocletian with seven other Christians. No other information has survived.
 deathYear: 303

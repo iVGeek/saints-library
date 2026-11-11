@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Jacques Netsetov
+stub: false
 honorific: Blessed
 summary: >-
   Born to a Russian father and an Aleut mother. Studied at the seminary in Irkutsk, Russia. Priest. Missionary to the

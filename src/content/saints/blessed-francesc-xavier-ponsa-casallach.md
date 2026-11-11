@@ -1,5 +1,6 @@
 ---
 name: Blessed Francesc Xavier Ponsa Casallach
+stub: false
 honorific: Blessed
 summary: >-
   Member of Catholic Action Youth. Joined the Hospitallers of Saint John of God on 20 February 1935 and became a novice

@@ -1,5 +1,6 @@
 ---
 name: Blessed Marguerite Rutan
+stub: false
 honorific: Blessed
 summary: >-
   Religious sister in the Daughters of Charity of Saint Vincent de Paul who served at the Dax hospital, caring for the

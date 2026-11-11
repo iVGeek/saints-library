@@ -1,5 +1,6 @@
 ---
 name: Saint Boniface of Carthage
+stub: true
 honorific: Saint
 summary: Monk. Deacon. Martyred in the persecutions of the Arian King Hunneric.
 deathYear: 483

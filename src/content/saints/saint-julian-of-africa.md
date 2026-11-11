@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Julian of Africa
+stub: false
 honorific: Saint
 summary: >-
   Priest of an African church. During a visit to Italy, he witnessed a pagan celebration of Apollo; Julian objected to

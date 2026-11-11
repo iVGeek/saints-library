@@ -1,5 +1,6 @@
 ---
 name: Pope Saint Pius X
+stub: false
 honorific: Venerable
 summary: >-
   Son of Giambattista Sarto, a village cobbler, and Margherita Sanson, living an impoverished childhood as one of eight

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/d/d4/B._D%27_Garzia_Martinez_%28Palazzo_Magistrale%2C_Cappella%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Antonio Martínez García
+stub: true
 honorific: Blessed
 summary: Priest of the diocese of Almería, Spain. Martyred in the Spanish Civil War.
 birthYear: 1892

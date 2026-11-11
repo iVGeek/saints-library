@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/4e/Prise_de_la_Bastille.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Isaias of Cilicia
+stub: false
 honorific: Saint
 summary: >-
   Ministered to Christians who were condemned to work the mines of Cilicia in the persecutions of Galerius Maximianus

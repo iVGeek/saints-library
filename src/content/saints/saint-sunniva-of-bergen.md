@@ -1,5 +1,6 @@
 ---
 name: Saint Sunniva of Bergen
+stub: false
 honorific: Saint
 summary: >-
   Daughter of a tenth century Irish king. To avoid an arranged marriage with an invading pagan king, she, her brother

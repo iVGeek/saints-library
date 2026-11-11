@@ -1,5 +1,6 @@
 ---
 name: Blessed Giulio of Montevergine
+stub: false
 honorific: Blessed
 summary: >-
   Born to the Italian nobility, he received a good education in music, literature and the sciences. As a young man he

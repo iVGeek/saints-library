@@ -1,5 +1,6 @@
 ---
 name: Saint Gallo of Aosta
+stub: true
 honorific: Saint
 title: Bishop
 summary: Bishop of Aosta, Italy, consecrated on 15 October 528.

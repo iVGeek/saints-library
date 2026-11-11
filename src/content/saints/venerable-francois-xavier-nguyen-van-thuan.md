@@ -1,5 +1,6 @@
 ---
 name: Venerable François-Xavier Nguyên Van Thuán
+stub: false
 honorific: Venerable
 summary: >-
   Ordained on 11 June 1953 in the diocese of Nha Trang, Viêt Nam. Bishop of Nha Trang on 13 April 1967. Coadjutor

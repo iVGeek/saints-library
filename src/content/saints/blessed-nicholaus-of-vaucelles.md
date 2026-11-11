@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Nicholaus of Vaucelles
+stub: false
 honorific: Blessed
 summary: One of the first members of the Cistercians. Monk. Abbot of the Vaucelles abbey.
 deathYear: 1163

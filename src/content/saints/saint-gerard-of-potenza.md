@@ -1,5 +1,6 @@
 ---
 name: Saint Gerard of Potenza
+stub: false
 honorific: Saint
 summary: >-
   Born to the Italian nobility, Gerard initially went to Potenza in southern Italy to join the Crusades. However, while

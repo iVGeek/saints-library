@@ -1,5 +1,6 @@
 ---
 name: Blessed Thomas Ford
+stub: false
 honorific: Blessed
 summary: >-
   Received a Master of Arts at Trinity College, Oxford, England on 14 July 1567. Fellow of Trinity College. Left to

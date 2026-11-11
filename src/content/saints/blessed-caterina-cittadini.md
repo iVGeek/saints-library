@@ -1,5 +1,6 @@
 ---
 name: Blessed Caterina Cittadini
+stub: false
 honorific: Blessed
 summary: >-
   Daughter of Giovanni Battista and Magherita Lanzani. Her mother died when Caterina was seven, and her father abandoned

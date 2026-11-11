@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/1/19/Hug-lin-pi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Hugh Taylor
+stub: false
 honorific: Blessed
 summary: >-
   Studied at Rheims, France. Ordained in 1584. Ministered to covert and oppressed Catholics in England starting in March

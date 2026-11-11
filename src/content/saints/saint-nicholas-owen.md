@@ -1,5 +1,6 @@
 ---
 name: Saint Nicholas Owen
+stub: false
 honorific: Venerable
 summary: >-
   Son of a carpenter, Nicholas was raised in a family dedicated to the persecuted Church, and became a carpenter and

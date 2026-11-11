@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/4e/Leonilla_Ivanovna_Baryatinskaya.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Leonilla
+stub: false
 honorific: Saint
 summary: >-
   Grandmother of Saint Speusippus, Saint Eleusippus and Saint Meleusippus. Martyred by Marcus Aurelius. An extraordinary

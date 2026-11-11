@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/d/d3/St-stephen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Nereus of North Africa
+stub: false
 honorific: Saint
 summary: One of a group of 365 Christians who were martyred together in the persecutions of the Vandal king Genseric.
 deathYear: 450

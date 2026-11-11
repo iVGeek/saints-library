@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Eleutherius of Rocca d'Arce
+stub: true
 honorific: Saint
 summary: Brother of Saint Grimwald and Saint Fulk. Died while on pilgrimage.
 searchAliases:

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/5/52/City_of_God_Manuscript.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Lucius of Lucania
+stub: true
 honorific: Saint
 summary: Martyr.
 died: at Lucania, Italy

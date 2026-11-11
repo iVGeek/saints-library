@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Bodfan of Wales
+stub: true
 honorific: Saint
 summary: Seventh century monk at Beaumaris, Wales.
 searchAliases:

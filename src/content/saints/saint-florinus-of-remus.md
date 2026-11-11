@@ -1,5 +1,6 @@
 ---
 name: Saint Florinus of Remüs
+stub: false
 honorific: Saint
 summary: >-
   Legend says that his father was a Saxon, his mother a Jew who converted to Christianity; the two met while they were

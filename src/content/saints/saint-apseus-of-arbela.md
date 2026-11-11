@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Apseus of Arbela
+stub: true
 honorific: Saint
 summary: Christian deacon. Martyred in the persecutions of Shapur II.
 searchAliases:

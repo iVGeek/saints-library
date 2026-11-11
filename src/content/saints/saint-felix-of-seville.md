@@ -1,5 +1,6 @@
 ---
 name: Saint Felix of Seville
+stub: true
 honorific: Saint
 summary: Deacon. Martyr. No other information has survived.
 searchAliases:

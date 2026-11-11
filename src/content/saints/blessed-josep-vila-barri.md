@@ -1,5 +1,6 @@
 ---
 name: Blessed Josep Vila Barri
+stub: false
 honorific: Blessed
 summary: >-
   Priest. Member of the Sons of the Holy Family. Imprisoned and executed in the anti-Christian persecutions of the

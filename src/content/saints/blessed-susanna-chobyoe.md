@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Susanna Chobyoe
+stub: false
 honorific: Blessed
 summary: >-
   Married to Blessed Petrus Araki Chobyoe. Japanese authorities tried to shame her out of her faith by hanging her naked

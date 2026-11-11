@@ -1,5 +1,6 @@
 ---
 name: Blessed Antonia Maria Verna
+stub: false
 honorific: Blessed
 summary: >-
   Antonia early felt a call to religious life, and as a teenager began caring for and catechising children in her

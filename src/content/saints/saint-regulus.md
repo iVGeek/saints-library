@@ -1,5 +1,6 @@
 ---
 name: Saint Regulus
+stub: false
 honorific: Saint
 summary: >-
   Evangelising archbishop in North Africa. Exiled with Saint Cerbonius of Populonia and some other Christians to Italy

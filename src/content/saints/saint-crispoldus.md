@@ -1,5 +1,6 @@
 ---
 name: Saint Crispoldus
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Bettona, Italy where he was known as a miracle worker. May have been bishop of Nocera, Italy, too. Arrested

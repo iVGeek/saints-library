@@ -1,5 +1,6 @@
 ---
 name: Saint Victorinus of Pettau
+stub: false
 honorific: Saint
 summary: >-
   Wrote a number of well-known and scholarly commentaries on the Old and New Testament; only scraps of the writings

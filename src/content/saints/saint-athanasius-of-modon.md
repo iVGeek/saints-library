@@ -1,5 +1,6 @@
 ---
 name: Saint Athanasius of Modon
+stub: false
 honorific: Saint
 summary: >-
   When the Saracens invaded Sicily, Athanasius fled to Patras in Greece to escape their persecutions of Christians. He

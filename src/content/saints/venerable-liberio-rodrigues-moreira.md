@@ -1,5 +1,6 @@
 ---
 name: Venerable Libério Rodrigues Moreira
+stub: false
 honorific: Venerable
 summary: >-
   One of seven children born to a poor family; as a small boy, he helped his father drive oxen, and when the man died,

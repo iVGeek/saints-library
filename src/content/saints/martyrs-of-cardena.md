@@ -1,5 +1,6 @@
 ---
 name: Martyrs of Cardeña
+stub: false
 honorific: Saint
 summary: >-
   Two hundred Benedictine monks at the Saint Peter of Cardeña monastery, Burgos, Spain who were martyred in the 8th

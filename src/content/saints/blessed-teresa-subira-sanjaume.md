@@ -1,5 +1,6 @@
 ---
 name: Blessed Teresa Subirà Sanjaume
+stub: false
 honorific: Blessed
 summary: >-
   Teresa grew up in a farming village in the Pyrenees, and helped out as a shepherdess. Member of the Carmelite

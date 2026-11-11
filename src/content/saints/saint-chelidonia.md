@@ -1,5 +1,6 @@
 ---
 name: Saint Chelidonia
+stub: false
 honorific: Saint
 summary: >-
   Hermitess in a cave near Tivoli, Italy. Benedictine nun at Saint Scholastica Abbey, but lived for 60 years more as a

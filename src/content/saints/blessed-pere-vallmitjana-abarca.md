@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/f/fe/Beatificaciotarragona2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Pere Vallmitjana Abarca
+stub: false
 honorific: Blessed
 summary: Priest. Member of the Benedictine Subiaco Congregation. Martyred in the Spanish Civil War.
 birthYear: 1875

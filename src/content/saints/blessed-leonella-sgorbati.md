@@ -1,5 +1,6 @@
 ---
 name: Blessed Leonella Sgorbati
+stub: false
 honorific: Blessed
 summary: >-
   Youngest of three children born to Carlo Sgorbati and Giovannina Teresa Vigilini; she was baptised almost immediately

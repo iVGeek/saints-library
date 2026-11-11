@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/0/08/Roma_martires_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Segundo Alonso González
+stub: false
 honorific: Blessed
 summary: >-
   Segundo grew up in a pious family; two his brothers became Dominican missionaries, and a sister became a Dominican

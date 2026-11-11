@@ -1,5 +1,6 @@
 ---
 name: Saint Benignus of Flay
+stub: true
 honorific: Saint
 summary: Monk and abbot at Fontenelle and Flay in France.
 searchAliases:

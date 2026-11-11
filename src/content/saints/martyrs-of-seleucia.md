@@ -1,5 +1,6 @@
 ---
 name: Martyrs of Seleucia
+stub: false
 honorific: Saint
 summary: >-
   One-hundred and eleven (111) men and nine (9) women who, because they were Christians, were dragged to Seleucia and

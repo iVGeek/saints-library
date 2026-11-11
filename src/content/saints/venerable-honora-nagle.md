@@ -1,5 +1,6 @@
 ---
 name: Venerable Honora Nagle
+stub: false
 honorific: Venerable
 summary: >-
   The eldest of six children born to a wealthy family during the period of the Irish penal laws which limited denied

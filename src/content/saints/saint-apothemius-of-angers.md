@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Apothemius of Angers
+stub: false
 honorific: Saint
 summary: Hermit. Spritual student of Saint Martin of Tours. Priest. Bishop of Angers, France c.380.
 searchAliases:

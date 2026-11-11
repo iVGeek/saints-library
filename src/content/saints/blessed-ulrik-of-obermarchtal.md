@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Ulrik of Obermarchtal
+stub: false
 honorific: Blessed
 summary: >-
   Premonstratensian canon at the Mönchsrot monastery in Memmingen, Germany. In 1171 he was assigned to the Obermarchtal

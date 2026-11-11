@@ -1,5 +1,6 @@
 ---
 name: Saint Euphemia of Amisus
+stub: false
 honorific: Saint
 summary: Christian woman martyred in the persecutions of Diocletian. No other information has survived.
 region: Turkey

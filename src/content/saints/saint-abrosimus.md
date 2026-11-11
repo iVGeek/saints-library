@@ -1,5 +1,6 @@
 ---
 name: Saint Abrosimus
+stub: false
 honorific: Saint
 summary: Persia priest martyred with a group of his parishioners during the persecutions of King Sapor II.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Abrosimus.jpg

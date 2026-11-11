@@ -1,5 +1,6 @@
 ---
 name: Blessed Jan Nepomucen Chrzan
+stub: false
 honorific: Blessed
 summary: >-
   Raised in a family with seven children. Graduated in 1906 at the Royal Grammar School in Ostrow, Poland. Studied at

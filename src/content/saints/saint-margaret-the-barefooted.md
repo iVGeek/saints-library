@@ -1,5 +1,6 @@
 ---
 name: Saint Margaret the Barefooted
+stub: false
 honorific: Saint
 summary: >-
   Born poor. Married at 15 to an Italian gentleman, and abused for years by her husband for her attachment to the Church

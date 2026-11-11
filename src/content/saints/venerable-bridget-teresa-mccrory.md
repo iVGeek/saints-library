@@ -1,5 +1,6 @@
 ---
 name: Venerable Bridget Teresa McCrory
+stub: false
 honorific: Venerable
 summary: >-
   Bridget's family migrated to Scotland when she was seven, and she grew up there. Joined the Little Sisters of the Poor

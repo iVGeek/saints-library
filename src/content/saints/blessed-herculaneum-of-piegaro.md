@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Herculaneum of Piegaro
+stub: false
 honorific: Blessed
 summary: >-
   Franciscan friar minor. Spiritual student of Blessed Albert of Sarteano. Ordained a priest in the early 15th century,

@@ -1,5 +1,6 @@
 ---
 name: Saint Aidan of Mayo
+stub: true
 honorific: Saint
 summary: Eighth-century abbot-bishop of Mayo, Ireland.
 searchAliases:

@@ -1,5 +1,6 @@
 ---
 name: Blessed Bernard of Verdun
+stub: false
 honorific: Blessed
 summary: >-
   Born to the French nobility, he gave up the worldly life to join the Mercedarians and ransom Christians enslaved by

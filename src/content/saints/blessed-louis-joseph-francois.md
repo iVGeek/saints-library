@@ -1,5 +1,6 @@
 ---
 name: Blessed Louis-Joseph François
+stub: false
 honorific: Blessed
 summary: >-
   Vincentian priest. During the French Revolution, he refused to take the oath of allegiance to the government, and

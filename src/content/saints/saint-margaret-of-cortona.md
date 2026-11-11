@@ -1,5 +1,6 @@
 ---
 name: Saint Margaret of Cortona
+stub: false
 honorific: Saint
 summary: >-
   Farmer's daughter. Her mother died when Margaret was seven years old, and her step-mother considered the girl a

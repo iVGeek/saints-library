@@ -1,5 +1,6 @@
 ---
 name: Saint Antonina of Nicaea
+stub: false
 honorific: Saint
 summary: Tortured and martyred in the persecutions of Diocletian and governor Priscillian.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Antonina-of-Nicaea.jpg

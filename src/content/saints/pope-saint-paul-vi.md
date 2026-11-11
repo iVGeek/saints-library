@@ -1,5 +1,6 @@
 ---
 name: Pope Saint Paul VI
+stub: false
 honorific: Venerable
 summary: >-
   Son of a prominent newspaper editor. Ordained in Brescia, Italy on 29 May 1920, he continued his studies in Rome,

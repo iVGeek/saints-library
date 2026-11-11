@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Crescentiana
+stub: true
 honorific: Saint
 summary: Martyr.
 died: 5th century Rome, Italy

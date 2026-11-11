@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Zachary of Nicomedia
+stub: true
 honorific: Saint
 summary: Martyr.
 died: at Nicomedia, date unknown

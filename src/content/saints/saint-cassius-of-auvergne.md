@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Cassius of Auvergne
+stub: true
 honorific: Saint
 summary: Martyred in the persecutions of Valerian and Gallienus.
 deathYear: 265

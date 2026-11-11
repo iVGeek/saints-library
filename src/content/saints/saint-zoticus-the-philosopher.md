@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Zoticus the Philosopher
+stub: false
 honorific: Saint
 summary: >-
   Philosopher and teacher martyred with several of his spiritual students in the late 3rd-century persecutions of

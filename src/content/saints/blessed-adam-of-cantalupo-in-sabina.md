@@ -1,5 +1,6 @@
 ---
 name: Blessed Adam of Cantalupo in Sabina
+stub: false
 honorific: Blessed
 summary: >-
   11th century monk and hermit who rebuilt churches in Cantalupo in Sabina, Italy that had been destroyed by invading

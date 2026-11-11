@@ -1,5 +1,6 @@
 ---
 name: Blessed Jan Beyzym
+stub: false
 honorific: Blessed
 summary: >-
   Son of a Polish freedom fighter. Jesuit priest. Teacher at Jesuit boarding schools in Tarnopol and Chyrów. In 1898 he

@@ -1,5 +1,6 @@
 ---
 name: Saint Apollinaris the Apologist
+stub: false
 honorific: Saint
 summary: >-
   Second century bishop of Heirapolis, Phrygia. Held in high regard by other early saints including Saint Jerome and the

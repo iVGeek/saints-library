@@ -1,5 +1,6 @@
 ---
 name: Blessed Felix Ugalde Irurzun
+stub: false
 honorific: Blessed
 summary: >-
   Entered the Passionist novitiate at Corella, Spain in 1932, and began studying for the priesthood. Martyred in the

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/0/0f/James_J._Hill_House_2013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Paul of Africa
+stub: true
 honorific: Saint
 summary: Martyr. No other information has survived.
 feastDay:

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Irenaeus of Armenia
+stub: true
 honorific: Saint
 summary: Martyred with Saint Quintian. Nothing else is known.
 born: Armenian

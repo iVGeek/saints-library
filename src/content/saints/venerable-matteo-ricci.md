@@ -1,5 +1,6 @@
 ---
 name: Venerable Matteo Ricci
+stub: false
 honorific: Venerable
 summary: Jesuit priest. An early missionary to China, he hoped to use elements of Chinese culture to explain the faith.
 image: https://upload.wikimedia.org/wikipedia/commons/a/ae/Ricciportrait.jpg

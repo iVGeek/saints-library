@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Venerable Madeleine Du Bois de Fontaines
+stub: false
 honorific: Venerable
 summary: >-
   Discalced Carmelite nun for over 30 years. Novice mistress for her house. In 1608 she was chosen the first prioress of

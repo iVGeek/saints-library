@@ -1,5 +1,6 @@
 ---
 name: Saint Ðaminh Toai
+stub: false
 honorific: Venerable
 summary: >-
   Married layman in the apostolic vicariage of Central Tonkin (in modern Vietnam). Fisherman by trade. Father.

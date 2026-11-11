@@ -1,5 +1,6 @@
 ---
 name: Saint Chiaffredo of Saluzzo
+stub: false
 honorific: Saint
 summary: >-
   Soldier. Member of the Theban Legion who escaped from Agaunum to Piedmont in modern Italy only to be killed there for

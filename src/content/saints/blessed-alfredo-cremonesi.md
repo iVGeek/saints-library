@@ -1,5 +1,6 @@
 ---
 name: Blessed Alfredo Cremonesi
+stub: false
 honorific: Blessed
 summary: >-
   The oldest of seven children born to the grocer Enrico Cremonesi and Maria Rosa Scartabellati; he was baptized at the

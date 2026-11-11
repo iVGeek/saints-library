@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/6/66/Valerian00579obverse.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Lucius of Carthage
+stub: false
 honorific: Saint
 summary: Bishop in North Africa. Attended the Council of Carthage in 259. Martyred in the persecutions of Decius.
 deathYear: 259

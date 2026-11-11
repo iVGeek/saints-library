@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Valerian of Cimiez
+stub: false
 honorific: Saint
 summary: >-
   Monk at Lérins, France. Bishop of Cimiez, France. Attended the Council of Riez in 439, and the Council of Vaison in

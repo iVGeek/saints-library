@@ -1,5 +1,6 @@
 ---
 name: Martyrs of Heraclea
+stub: false
 honorific: Saint
 summary: >-
   Forty women, a mix of nuns, widows and other lay women, who were martyred together. No other details have come down to

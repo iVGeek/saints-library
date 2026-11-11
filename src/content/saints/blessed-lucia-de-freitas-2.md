@@ -1,5 +1,6 @@
 ---
 name: Blessed Lucia de Freitas
+stub: false
 honorific: Blessed
 summary: >-
   Layman of the archdiocese of Nagasaki, Japan. Member of the Secular Franciscans and Confraternity of the Rosary.

@@ -1,5 +1,6 @@
 ---
 name: Saint Aristides the Philosopher
+stub: false
 honorific: Saint
 summary: >-
   Early Christian writer and philosopher. Taught philosophy in Athens, Greece. Presented an explanation of Christianity

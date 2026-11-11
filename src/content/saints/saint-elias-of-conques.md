@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Elias of Conques
+stub: false
 honorific: Saint
 summary: >-
   Monk. Abbot of the monastery Sainte-Foy de Conques, Rouergue, Languedoc, France. Founded the monastery New Conques

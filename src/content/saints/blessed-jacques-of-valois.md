@@ -1,5 +1,6 @@
 ---
 name: Blessed Jacques of Valois
+stub: false
 honorific: Blessed
 summary: >-
   Mercedarian friar, joining in Paris, France. With the support of the French crown, he was sent to Algiers, Algeria to

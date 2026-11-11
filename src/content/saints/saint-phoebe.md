@@ -1,5 +1,6 @@
 ---
 name: Saint Phoebe of Rome
+stub: false
 honorific: Saint
 summary: >-
   Christian matron, and likely a widow. Deaconess at Cenchrese, Greece. Delivered Saint Paul the Apostle's Epistle to

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/e/e1/Greek_Icon_of_Saint_Ambrose_of_Milan_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 name: Saint Mark of Milan
+stub: true
 honorific: Saint
 summary: Early martyr. No other information has survived.
 died: in Milan, Italy

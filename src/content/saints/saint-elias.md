@@ -1,5 +1,6 @@
 ---
 name: Saint Elias
+stub: false
 honorific: Saint
 summary: >-
   Monk. Abbot of the Saint Martin the Great Abbey in Ireland in 1020. Abbot of Saint Panteleon Abbey in Cologne,

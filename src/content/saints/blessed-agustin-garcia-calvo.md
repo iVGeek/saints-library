@@ -1,5 +1,6 @@
 ---
 name: Blessed Agustín García Calvo
+stub: false
 honorific: Blessed
 summary: >-
   Educated by the Salesians in his home town, when Augustin felt a call to religious life, he became a Salesian brother

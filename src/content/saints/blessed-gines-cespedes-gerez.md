@@ -1,6 +1,7 @@
 ---
 image: https://www.santiebeati.it/immagini/Thumbs/97268/97268.JPG
 name: Blessed Ginés Céspedes Gerez
+stub: true
 honorific: Blessed
 summary: Priest of the diocese of Almería, Spain. Martyred in the Spanish Civil War.
 birthYear: 1901

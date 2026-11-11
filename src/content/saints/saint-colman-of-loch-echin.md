@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Colman of Loch Echin
+stub: false
 honorific: Saint
 summary: Listed in the Martyrologies of Tallagh and Donegal, but no details of his life have survived.
 region: England

@@ -1,5 +1,6 @@
 ---
 name: Saint Arsenius of Corfu
+stub: true
 honorific: Saint
 title: Bishop
 summary: Convert from Judaism. First bishop of Corfu, Greece.

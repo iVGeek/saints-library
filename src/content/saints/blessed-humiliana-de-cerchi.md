@@ -1,5 +1,6 @@
 ---
 name: Blessed Humiliana de' Cerchi
+stub: false
 honorific: Blessed
 summary: Married at age 16. Widowed young. First cloistered Franciscan tertiary at Florence, Italy.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Humiliana-Cerchi.jpg

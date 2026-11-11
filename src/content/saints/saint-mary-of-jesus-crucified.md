@@ -1,5 +1,6 @@
 ---
 name: Saint Mary of Jesus Crucified
+stub: false
 honorific: Venerable
 summary: >-
   Born to Giries Baouardy and Mariam Shahine, a poor Greek Melchite Catholic family. Twelve of her thirteen brothers

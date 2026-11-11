@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/f/fb/Saint_Anthony_%28Damaskinos%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Paul of Egypt
+stub: false
 honorific: Saint
 summary: >-
   Leader of a group of 37 Christian noblemen who worked together to spread the faith through Egypt. Though there were

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Werburgh of Bardney
+stub: true
 honorific: Saint
 summary: Married to Ceolred of Mercia. Widow. Nun and then abbess at Bardney, England.
 searchAliases:

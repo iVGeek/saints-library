@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/e/e2/StMonans.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Monan
+stub: false
 honorific: Saint
 summary: >-
   Monk at Saint Andrew's abbey. Spiritual student of Saint Adrian, bishop of Saint Andrew's. Missionary to the Isle of

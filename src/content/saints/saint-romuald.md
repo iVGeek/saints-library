@@ -1,5 +1,6 @@
 ---
 name: Saint Romuald
+stub: false
 honorific: Saint
 summary: >-
   Italian nobility who spent a wild youth. Acting as second, he witnessed his father kill another man in a duel, and

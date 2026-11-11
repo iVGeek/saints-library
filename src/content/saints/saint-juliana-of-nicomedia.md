@@ -1,5 +1,6 @@
 ---
 name: Saint Juliana of Nicomedia
+stub: false
 honorific: Saint
 summary: >-
   Daughter of a pagan named Africanus who promised the girl to a young noble named Evilase. Juliana put him off, first

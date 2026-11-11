@@ -1,5 +1,6 @@
 ---
 name: Saint Amatus Ronconi
+stub: false
 honorific: Saint
 summary: >-
   Born to a wealthy family, Amatus was orphaned when very young and grew up in the home of his older brother Giacomo.

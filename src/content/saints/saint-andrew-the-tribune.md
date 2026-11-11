@@ -1,5 +1,6 @@
 ---
 name: Saint Andrew the Tribune
+stub: false
 honorific: Saint
 summary: >-
   Soldier. Tribune in the Greek army. Convert to Christianity, along with a number of his men, following a miraculous

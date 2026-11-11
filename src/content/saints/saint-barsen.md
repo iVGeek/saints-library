@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Barsen
+stub: false
 honorific: Saint
 summary: >-
   Hermit in northern Mesopotamia. Bishop of Edessa, Syria in 361. For his firm defense of orthodox Christianity, he was

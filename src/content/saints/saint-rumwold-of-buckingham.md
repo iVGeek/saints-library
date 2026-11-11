@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Rumwold of Buckingham
+stub: false
 honorific: Saint
 summary: >-
   Son of the Christian queen Saint Cyneburga (Cuneburga), and the pagan King Alchfrid (Aldfrith) of Northumbria.

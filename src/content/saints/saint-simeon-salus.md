@@ -1,5 +1,6 @@
 ---
 name: Saint Simeon Salus
+stub: false
 honorific: Saint
 summary: >-
   A man who lived as a simple fool for Christ and became known for his holy wisdom and miracles. Pilgrim to many holy

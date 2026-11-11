@@ -1,5 +1,6 @@
 ---
 name: Blessed Berthold of Garsten
+stub: false
 honorific: Blessed
 summary: >-
   Born to the nobility. Benedictine monk at the Abbey of Saint Blaise in the Black Forest in Germany. Priest. Prior of

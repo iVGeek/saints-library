@@ -1,5 +1,6 @@
 ---
 name: Blessed Beatrice de Roelas
+stub: true
 honorific: Blessed
 summary: Mercedarian nun. Founded the Assumption monastery in Seville, Spain.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Beatrice-de-Roelas.jpg

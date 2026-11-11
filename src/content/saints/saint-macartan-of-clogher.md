@@ -1,5 +1,6 @@
 ---
 name: Saint Macartan of Clogher
+stub: false
 honorific: Saint
 summary: >-
   Friend and disciple of Saint Patrick. Uncle of Saint Brigid. Missionary with Patrick through pagan Ireland.

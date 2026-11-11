@@ -1,5 +1,6 @@
 ---
 name: Blessed Basilio González Herrero
+stub: false
 honorific: Blessed
 summary: >-
   Basilio joined the Franciscan Capuchin lay brother on 18 April 1906, taking the name Alejo of Terradillos, and serving

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Robert Hardesty
+stub: false
 honorific: Blessed
 summary: Layman, martyred for the crime of hiding and supporting the work of Blessed William Spenser.
 deathYear: 1589

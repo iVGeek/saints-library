@@ -1,5 +1,6 @@
 ---
 name: Saint Proclus of Constantinople
+stub: false
 honorific: Saint
 summary: >-
   Lector while still a student. Secretary to and spiritual student of Saint John Chrysostom. Priest. Chosen archbishop

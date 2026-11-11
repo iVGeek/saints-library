@@ -1,5 +1,6 @@
 ---
 name: Saint Clothach
+stub: true
 honorific: Saint
 summary: Early Irish bishop.
 region: Ireland

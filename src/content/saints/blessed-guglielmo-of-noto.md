@@ -1,5 +1,6 @@
 ---
 name: Blessed Guglielmo of Noto
+stub: false
 honorific: Blessed
 summary: >-
   Born to the nobility, Guglielmo served as a page in the court of King Frederick II. One day in 1337 while the court

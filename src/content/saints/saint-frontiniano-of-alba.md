@@ -1,5 +1,6 @@
 ---
 name: Saint Frontiniano of Alba
+stub: false
 honorific: Saint
 summary: >-
   May have served as a soldier in an imperial Roman legion. Studied in his home town of Carcassonne, France, and became

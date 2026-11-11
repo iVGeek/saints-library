@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Ritbert of Varennes
+stub: true
 honorific: Saint
 summary: Monk and then abbot of a monastery in Varennes, France.
 deathYear: 690

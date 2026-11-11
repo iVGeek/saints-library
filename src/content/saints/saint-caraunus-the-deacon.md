@@ -1,5 +1,6 @@
 ---
 name: Saint Caraunus the Deacon
+stub: false
 honorific: Saint
 summary: Convert during the 1st century. Deacon. Missionary to Gaul. Martyred in the persecutions of Domitian.
 searchAliases:

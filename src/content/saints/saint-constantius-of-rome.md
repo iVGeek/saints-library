@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Constantius of Rome
+stub: true
 honorific: Saint
 summary: Priest in Rome, Italy. Opposed Pelagianism, and murdered by its adherents.
 deathYear: 418

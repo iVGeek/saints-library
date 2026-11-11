@@ -1,5 +1,6 @@
 ---
 name: Venerable Zacarías Salterain-Bizkarra
+stub: false
 honorific: Venerable
 summary: >-
   Youngest of nine children born to Bartholomew and Venancia Salterain-Bizkarra. Discalced Carmelite priest, ordained on

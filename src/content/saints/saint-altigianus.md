@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Altigianus
+stub: true
 honorific: Saint
 summary: Benedictine monk martyred by Saracens.
 deathYear: 731

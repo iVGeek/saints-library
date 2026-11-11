@@ -1,5 +1,6 @@
 ---
 name: Blessed Jean-Baptiste Menestrel
+stub: false
 honorific: Blessed
 summary: >-
   Priest in the diocese of Saint-Dié, France. Imprisoned on a ship in the harbor of Rochefort, France and left to die

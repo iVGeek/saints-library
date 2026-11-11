@@ -1,5 +1,6 @@
 ---
 name: Venerable Marco Pagani
+stub: false
 honorific: Venerable
 summary: >-
   At age 19, Marco graduated from the University of Padua with degrees in civil and canon law, and the served as a

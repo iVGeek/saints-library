@@ -1,5 +1,6 @@
 ---
 name: Saint Moloc of Mortlach
+stub: false
 honorific: Saint
 summary: >-
   Born to the Irish nobility. Educated in Bangor Abbey, Ireland. Spiritual student of Saint Comgall of Bangor. Legend

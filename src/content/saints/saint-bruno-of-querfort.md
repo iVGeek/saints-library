@@ -1,5 +1,6 @@
 ---
 name: Saint Bruno of Querfort
+stub: false
 honorific: Saint
 summary: >-
   Great-uncle of Saint Bruno of Wurzburg. In 996 he accompanied Emperor Otto III to Rome, Italy where he met Saint

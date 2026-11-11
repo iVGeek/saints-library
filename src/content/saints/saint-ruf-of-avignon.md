@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Ruf of Avignon
+stub: false
 honorific: Saint
 summary: >-
   Fourth century missionary to Avignon, France. He was the first to lead a Christian community there, and has long been

@@ -1,5 +1,6 @@
 ---
 name: Blessed Alan de Solminihac
+stub: false
 honorific: Blessed
 summary: >-
   Born to a noble, pious and patriotic family, Alan wanted to join the Knights of Malta, to serve God while in the

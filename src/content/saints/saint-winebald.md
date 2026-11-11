@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/2/27/Heilige_Walburga.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Winebald
+stub: true
 honorific: Saint
 summary: Monk and then abbot at Saint-Loup-de-Troyes, France.
 searchAliases:

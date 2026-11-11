@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Blanda of Rome
+stub: false
 honorific: Saint
 summary: Married to Saint Felix of Rome. Martyred in the persecutions of Emperor Alexander Severus.
 deathYear: 232

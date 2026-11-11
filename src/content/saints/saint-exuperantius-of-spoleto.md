@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Exuperantius of Spoleto
+stub: false
 honorific: Saint
 summary: Deacon. One of a group of Christians martyred together in the persecutions of Diocletian.
 deathYear: 303

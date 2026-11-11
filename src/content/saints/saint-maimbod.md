@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Maimbod
+stub: false
 honorific: Saint
 summary: >-
   Wandering missionary who made pilgrimages to tombs of saints and martyrs throughout Gaul and northern Italy, preaching

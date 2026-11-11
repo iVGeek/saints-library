@@ -1,5 +1,6 @@
 ---
 name: Venerable Antonino Bello
+stub: false
 honorific: Venerable
 summary: >-
   After studying in Bologna and Rome, Italy, Antonino was ordained a priest in the diocese of Ugento, Italy on 8

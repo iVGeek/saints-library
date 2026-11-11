@@ -1,5 +1,6 @@
 ---
 name: Saint Claudius
+stub: true
 honorific: Saint
 summary: One of the Four Crowned Martyrs.
 image: https://commons.wikimedia.org/wiki/Special:FilePath/Claudius_crop.jpg?width=600

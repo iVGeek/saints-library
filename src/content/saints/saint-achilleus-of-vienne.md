@@ -1,5 +1,6 @@
 ---
 name: Saint Achilleus of Vienne
+stub: false
 honorific: Saint
 summary: Deacon. Sent by Saint Irenaeus of Lyons to evangelize around Vienne, France. Martyr.
 deathYear: 212

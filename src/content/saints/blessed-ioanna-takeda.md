@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Ioanna Takeda
+stub: false
 honorific: Blessed
 summary: Married lay women in the diocese of Fukuoka, Japan. Mother of Blessed Simon Takeda Gohyoe. Martyr.
 birthYear: 1548

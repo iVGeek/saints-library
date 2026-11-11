@@ -1,5 +1,6 @@
 ---
 name: Saint Ermin of Lobbes
+stub: false
 honorific: Saint
 summary: >-
   Studied at the Cathedral School of Laon, France. Priest. Monk at the Benedictine abbey at Lobbes, Belgium. Spiritual

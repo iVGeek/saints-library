@@ -1,5 +1,6 @@
 ---
 name: Blessed Ammon of Cyprus
+stub: false
 image: https://commons.wikimedia.org/wiki/Special:FilePath/Zeus_Ammon_Cyprus.jpg?width=600
 honorific: Blessed
 summary: >-

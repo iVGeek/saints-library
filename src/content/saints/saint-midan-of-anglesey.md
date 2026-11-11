@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Midan of Anglesey
+stub: false
 honorific: Saint
 summary: >-
   Spiritual student of Saint Kentigern. Priest. Confessor of the Penmon monastery where he worked with Saint Seiriol.

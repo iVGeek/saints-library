@@ -1,5 +1,6 @@
 ---
 name: Saint Beornwald of Bampton
+stub: false
 honorific: Saint
 summary: Eighth century priest. Venerated at Bampton, England. No other information have survived.
 searchAliases:

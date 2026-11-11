@@ -1,5 +1,6 @@
 ---
 name: Blessed Anna Maria Adorni Botti
+stub: false
 honorific: Blessed
 summary: >-
   A pious child, Anna ran away from home at age seven to become a missionary. Married. Widowed at age 39, she devoted

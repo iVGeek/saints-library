@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/a/a5/Claire_Parker.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Anea of Como
+stub: true
 honorific: Saint
 summary: Child martyr.
 died: in Rome, Italy, date unknown

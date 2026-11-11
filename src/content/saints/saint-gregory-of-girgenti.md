@@ -1,5 +1,6 @@
 ---
 name: Saint Gregory of Girgenti
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Girgenti, Italy. Wrote a commentary on the book of Ecclesiastes, which has survived, and was a noted Bible

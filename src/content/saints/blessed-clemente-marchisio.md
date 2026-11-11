@@ -1,5 +1,6 @@
 ---
 name: Blessed Clemente Marchisio
+stub: false
 honorific: Blessed
 summary: >-
   Ordained a priest in the archdiocese of Turin, Italy on 20 September 1856. He served as parish priest in Cambiano,

@@ -1,5 +1,6 @@
 ---
 name: Venerable Franciszek Blachnicki
+stub: true
 honorific: Venerable
 summary: Priest in the diocese of Katowice, Poland.
 birthYear: 1921

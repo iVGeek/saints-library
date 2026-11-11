@@ -1,5 +1,6 @@
 ---
 name: Saint Felix of Salona
+stub: true
 honorific: Saint
 summary: Bishop martyred in the persecutions of Diocletian.
 searchAliases:

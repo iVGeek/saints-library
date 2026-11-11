@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint James of Sasseau
+stub: false
 honorific: Saint
 summary: >-
   Army officer, he travelled extensively. He was eventually assigned to Gaul where he retired. Priest at Clermont,

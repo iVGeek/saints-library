@@ -1,5 +1,6 @@
 ---
 name: Saint Pachomius of Tabenna
+stub: false
 honorific: Saint
 summary: >-
   Soldier in the imperial Roman army. Convert in 313. He left the army in 314 and became a spiritual student of Saint

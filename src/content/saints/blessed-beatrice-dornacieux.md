@@ -1,5 +1,6 @@
 ---
 name: Blessed Beatrice d'Ornacieux
+stub: false
 honorific: Blessed
 summary: >-
   In 1273, at the age of thirteen, Beatice joined the Carthusians at the Charterhouse of Parménie, France. In 1301, she

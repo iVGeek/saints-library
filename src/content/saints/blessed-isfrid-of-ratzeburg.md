@@ -1,5 +1,6 @@
 ---
 name: Blessed Isfrid of Ratzeburg
+stub: false
 honorific: Blessed
 summary: >-
   Premonstratensian canon at the Cappenenberg monastery in Westphalia (in modern Germany). Provost of the

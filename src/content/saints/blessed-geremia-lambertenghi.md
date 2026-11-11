@@ -1,5 +1,6 @@
 ---
 name: Blessed Geremia Lambertenghi
+stub: false
 honorific: Blessed
 summary: >-
   Born to the Italian nobility, the son of Francesco Lambertenghi, a member of the city council of Como, and Ursina di

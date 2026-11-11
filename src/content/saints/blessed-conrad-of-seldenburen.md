@@ -1,5 +1,6 @@
 ---
 name: Blessed Conrad of Seldenbüren
+stub: false
 honorific: Blessed
 summary: >-
   Born to the nobility, a member of the royal house of Seldenbüren, and apparently the last member of the family. He

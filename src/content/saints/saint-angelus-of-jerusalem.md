@@ -1,5 +1,6 @@
 ---
 name: Saint Angelus of Jerusalem
+stub: false
 honorific: Saint
 summary: >-
   Angelus' parents were 12th century Jewish converts. At age 18, Angelus and his twin brother joined a group of hermits

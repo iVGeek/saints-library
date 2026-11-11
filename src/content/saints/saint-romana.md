@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Romana
+stub: false
 honorific: Saint
 summary: >-
   Daughter of an imperial Roman official, Romana was drawn to Christianity. Around age 16, to avoid marriage, she fled

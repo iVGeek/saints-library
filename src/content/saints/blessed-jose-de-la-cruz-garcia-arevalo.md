@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/9/9f/Zurbar%C3%A1n_%28atribuido%29-John_of_the_Cross-1656.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed José de La Cruz García-Arévalo
+stub: false
 honorific: Blessed
 summary: Priest of the diocese of Córdoba, Spain, serving in the Dos Torres community. Martyred in the Spanish Civil War.
 birthYear: 1873

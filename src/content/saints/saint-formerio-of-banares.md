@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Formerio of Bañares
+stub: true
 honorific: Saint
 searchAliases:
   - Formerius

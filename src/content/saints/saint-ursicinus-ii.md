@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Ursicinus II
+stub: false
 honorific: Saint
 summary: >-
   Benedictine monk. Abbot of Disentis, Switzerland. Reluctant bishop of Chur, Switzerland in 754. In 758 he resigned to

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/5/56/MassaMartanaMar272024_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Martana
+stub: true
 honorific: Saint
 summary: Martyred in the persecutions of Valerian.
 deathYear: 257

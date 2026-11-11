@@ -1,5 +1,6 @@
 ---
 name: Saint Peter Chanel
+stub: false
 honorific: Venerable
 summary: >-
   Born to a peasant family, he was a shepherd as a boy. An excellent student. Ordained in 1827 at age 24. He was

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Slebhene
+stub: true
 honorific: Saint
 summary: Monk. Abbot of Iona, Scotland from 752 to 767.
 searchAliases:

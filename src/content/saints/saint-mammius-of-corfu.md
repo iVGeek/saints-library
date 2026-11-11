@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/1/19/Agios_Iason_Hosios_Loukas.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Mammius of Corfu
+stub: false
 honorific: Saint
 summary: >-
   A criminal, he was converted by Saint Jason and Saint Sosipater while in prison with them. Killed for his new faith,

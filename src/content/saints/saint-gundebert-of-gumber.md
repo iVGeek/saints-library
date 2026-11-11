@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Gundebert of Gumber
+stub: false
 honorific: Saint
 summary: >-
   Eighth century Frankish courtier. Brother of Saint Nivard. Married to Saint Bertha of Avenay. With Bertha's approval,

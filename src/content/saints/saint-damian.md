@@ -1,5 +1,6 @@
 ---
 name: Saint Damian
+stub: false
 honorific: Saint
 summary: >-
   Twin brother of Saint Cosmas. Physician, trained in Syria; the brothers accepted no payment for their services, and

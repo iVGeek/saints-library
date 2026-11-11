@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Marciano of Constantinople
+stub: true
 honorific: Saint
 summary: Cantor. Martyred by Arians in the persecutions of emperor Constantius.
 region: Italy

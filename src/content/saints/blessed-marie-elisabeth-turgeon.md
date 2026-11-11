@@ -1,5 +1,6 @@
 ---
 name: Blessed Marie-Élisabeth Turgeon
+stub: false
 honorific: Blessed
 summary: >-
   One of nine children born to Louis-Marc Turgeon and Angèle Labrecque; her father died when Elisabeth was 15 years old.

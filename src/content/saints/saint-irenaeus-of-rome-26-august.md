@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/9/99/The_early_Christians_in_Rome_%281911%29.djvu?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 name: Saint Irenaeus of Rome
+stub: true
 honorific: Saint
 summary: Martyred during the persecutions of Valerian.
 deathYear: 258

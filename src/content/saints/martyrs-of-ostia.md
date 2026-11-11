@@ -1,5 +1,6 @@
 ---
 name: Martyrs of Ostia
+stub: false
 honorific: Saint
 summary: >-
   A group of criminals who were brought to the faith by Pope Saint Alexander I while he was in prison with them.

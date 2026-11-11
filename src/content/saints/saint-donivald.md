@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Donivald
+stub: false
 honorific: Saint
 summary: >-
   Married 8th-century layman. Father of nine daughters who became known as the Nine Maidens. He and they lived as a

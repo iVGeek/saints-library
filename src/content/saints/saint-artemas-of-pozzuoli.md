@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Artemas of Pozzuoli
+stub: true
 honorific: Saint
 summary: Teenaged martyr.
 died: Pozzuoli, Italy

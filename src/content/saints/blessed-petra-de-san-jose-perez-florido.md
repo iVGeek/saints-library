@@ -1,5 +1,6 @@
 ---
 name: Blessed Petra de San José Perez Florido
+stub: false
 honorific: Blessed
 summary: >-
   The youngest of five children born to José Perez and Maria Florido; her mother died when the girl was three, and her

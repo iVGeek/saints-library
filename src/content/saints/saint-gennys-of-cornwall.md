@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Gennys of Cornwall
+stub: false
 honorific: Saint
 title: Hermit
 summary: >-

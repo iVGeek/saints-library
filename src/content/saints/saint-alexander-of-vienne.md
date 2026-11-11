@@ -1,5 +1,6 @@
 ---
 name: Saint Alexander of Vienne
+stub: false
 honorific: Saint
 summary: >-
   Physician in Vienne, Gaul. Adult convert to Christianity. Friend of Saint Pothinus. Arrested for his faith during the

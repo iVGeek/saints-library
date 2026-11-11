@@ -1,5 +1,6 @@
 ---
 name: Saint Ermenilda of Ely
+stub: false
 honorific: Saint
 summary: >-
   Born a princess, the daughter of King Erconbert of Kent, and Saint Sexburga of Ely. Ermenilda was a pious youth with a

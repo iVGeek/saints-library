@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Lucia of Thessalonica
+stub: true
 honorific: Saint
 summary: Nun. Martyr.
 died: in Thessalonica, Greece, date unknown

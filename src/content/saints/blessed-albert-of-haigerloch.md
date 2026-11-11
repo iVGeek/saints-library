@@ -1,5 +1,6 @@
 ---
 name: Blessed Albert of Haigerloch
+stub: false
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/History_of_the_settlement_of_Jews_in_Paducah_and_the_lower_Ohio_valley_%28IA_historyofsettlem00bern%29.pdf/page1-500px-History_of_the_settlement_of_Jews_in_Paducah_and_the_lower_Ohio_valley_%28IA_historyofsettlem00bern%29.pdf.jpg
 honorific: Blessed

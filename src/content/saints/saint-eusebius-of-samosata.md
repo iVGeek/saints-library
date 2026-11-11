@@ -1,5 +1,6 @@
 ---
 name: Saint Eusebius of Samosata
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Samosata, Syria. Fought Arianism, and defended Orthodox Christianity in the 4th century. Active in the Synod

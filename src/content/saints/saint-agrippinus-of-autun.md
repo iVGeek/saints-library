@@ -1,5 +1,6 @@
 ---
 name: Saint Agrippinus of Autun
+stub: false
 honorific: Saint
 summary: Bishop of Autun, France. Ordained Saint Germanus of Paris. Attended the Councils of Orleans in 533 and 538.
 searchAliases:

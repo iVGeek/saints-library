@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Tatian of Phrygia
+stub: true
 honorific: Saint
 summary: Martyred for destroying pagan idols.
 deathYear: 362

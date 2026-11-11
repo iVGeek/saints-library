@@ -1,5 +1,6 @@
 ---
 name: Pope Saint Leo II
+stub: false
 honorific: Saint
 summary: >-
   Pope. Eloquent preacher. Interested in music. Noted for his charity to the poor. Confirmed the Sixth Council of

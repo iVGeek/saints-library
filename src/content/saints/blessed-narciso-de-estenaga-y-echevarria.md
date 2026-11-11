@@ -1,5 +1,6 @@
 ---
 name: Blessed Narciso de Esténaga y Echevarría
+stub: false
 honorific: Blessed
 summary: >-
   Priest, ordained in the Diocese of Toledo, Spain in 1907. Bishop of Ciudad Real, Spain and Titular Bishop of Dora on

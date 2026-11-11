@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Paternus the Scot
+stub: false
 honorific: Blessed
 summary: >-
   Hermit. Monk. Joined a group of brothers who emigrated to Westphalia (in modern Germany), and was one of the first

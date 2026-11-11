@@ -1,5 +1,6 @@
 ---
 name: Blessed Alicja Maria Jadwiga Kotowska
+stub: false
 honorific: Blessed
 summary: >-
   Nun, member of the Sisters of the Resurrection. Superior of her house and director of training for her sisters. One of

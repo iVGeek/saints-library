@@ -1,5 +1,6 @@
 ---
 name: Saint Marcellina
+stub: false
 honorific: Saint
 summary: >-
   Daughter of the Roman imperial prefect of Gaul. Elder sister of Saint Ambrose of Milan and Saint Satyrus. She moved to

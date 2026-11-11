@@ -1,5 +1,6 @@
 ---
 name: Blessed Erik IV of Denmark
+stub: false
 honorific: Blessed
 summary: >-
   Born a prince, the son of King Valdemar II of Denmark and Berengaria of Portugal; great-grandson of Saint Canute

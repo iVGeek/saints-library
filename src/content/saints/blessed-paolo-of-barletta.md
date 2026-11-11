@@ -1,5 +1,6 @@
 ---
 name: Blessed Paolo of Barletta
+stub: false
 honorific: Blessed
 summary: >-
   Joined the Augustinians as a young man. Feeling a need to devote himself to God, he wanted to “go where no one knew

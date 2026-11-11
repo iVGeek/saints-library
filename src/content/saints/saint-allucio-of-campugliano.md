@@ -1,5 +1,6 @@
 ---
 name: Saint Allucio of Campugliano
+stub: false
 honorific: Saint
 title: Bishop
 summary: >-

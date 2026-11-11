@@ -1,5 +1,6 @@
 ---
 name: Saint Aengus the Culdee
+stub: false
 honorific: Saint
 summary: >-
   Hermit or culdee near the River Nore in Ireland where he was known to commune with angels. Hermit near Maryborough.

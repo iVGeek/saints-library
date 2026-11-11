@@ -1,5 +1,6 @@
 ---
 name: Saint Gilbert de Moray
+stub: false
 honorific: Saint
 summary: >-
   Son of Duke William de Moravia. Bishop of Caithness, Scotland for 20 years, during which he built the cathedral there.

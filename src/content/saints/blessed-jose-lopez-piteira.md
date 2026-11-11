@@ -1,5 +1,6 @@
 ---
 name: Blessed José López Piteira
+stub: true
 honorific: Blessed
 summary: Augustinian friar and deacon. Martyred in the Spanish Civil War.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-José-López-Piteira.jpg

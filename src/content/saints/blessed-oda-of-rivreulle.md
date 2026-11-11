@@ -1,5 +1,6 @@
 ---
 name: Blessed Oda of Rivreulle
+stub: false
 honorific: Blessed
 summary: >-
   Born to the nobility in the Brabant region. To avoid an arranged marriage to a young nobleman, Oda disfigured her

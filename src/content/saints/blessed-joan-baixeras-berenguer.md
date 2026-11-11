@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/d/d5/Abbey_of_Montserrat_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Joan Baixeras Berenguer
+stub: true
 honorific: Blessed
 summary: Claretian priest. Martyred in the Spanish Civil War.
 birthYear: 1913

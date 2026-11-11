@@ -1,5 +1,6 @@
 ---
 name: Saint Balther of Lindisfarne
+stub: false
 honorific: Saint
 summary: >-
   Benedictine hermit at Lindisfarne and Bass Rock, Northumbria, England. He was an expert gold and silversmith who

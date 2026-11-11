@@ -1,5 +1,6 @@
 ---
 name: Saint Felix of Trier
+stub: true
 honorific: Saint
 title: Bishop
 summary: Bishop of Trier, Germany in 386, consecrated by Saint Martin of Tours.

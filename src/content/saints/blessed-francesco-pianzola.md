@@ -1,5 +1,6 @@
 ---
 name: Blessed Francesco Pianzola
+stub: false
 honorific: Blessed
 summary: >-
   Born to a farming family. Studied at the seminary of Vigevano, Italy, and was ordained on 16 March 1907. He became an

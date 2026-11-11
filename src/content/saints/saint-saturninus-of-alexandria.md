@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Saturninus of Alexandria
+stub: true
 honorific: Saint
 summary: Marytred in the persecutions of Diocletian. Nothing else is known about him.
 deathYear: 304

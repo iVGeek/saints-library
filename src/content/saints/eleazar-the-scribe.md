@@ -1,5 +1,6 @@
 ---
 name: Eleazar the Scribe
+stub: false
 honorific: Saint
 summary: >-
   An elderly scribe in the Hellenistic period who was ordered to eat pork during a persecution of Jews in the reign of

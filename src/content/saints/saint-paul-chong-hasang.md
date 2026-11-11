@@ -1,5 +1,6 @@
 ---
 name: Saint Paul Chong Hasang
+stub: false
 honorific: Saint
 summary: >-
   Son of Yak Jong Church who was martyred in 1801 in the persecution of Shin-Yu, an attack on the faith that killed all

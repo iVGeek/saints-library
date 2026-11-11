@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Servatius Scharff
+stub: false
 honorific: Blessed
 summary: >-
   Joined the Premonstratensians at age 20. Canon of the Premonstratensian Steingadan monastery in Weilheim-Schongau,

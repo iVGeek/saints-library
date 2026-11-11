@@ -1,5 +1,6 @@
 ---
 name: Blessed Maddalena the Greater
+stub: true
 honorific: Blessed
 summary: Mercedarian nun at the monastery of the Assumption in Seville, Spain.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Maddalena-the-Greater.jpg

@@ -1,5 +1,6 @@
 ---
 name: Saint Geltrude Caterina Comensoli
+stub: false
 honorific: Venerable
 summary: >-
   One of a family of eleven children; her father worked an iron forge, and her mother was a seamstress. Caterina joined

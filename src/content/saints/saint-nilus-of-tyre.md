@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/4a/Fresco_of_Saint_Paul_at_Ephesus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Nilus of Tyre
+stub: true
 honorific: Saint
 summary: Bishop in Egypt. Tortured and martyred in the persecutions of Diocletian.
 deathYear: 304

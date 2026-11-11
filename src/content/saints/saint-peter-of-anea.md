@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Peter of Anea
+stub: true
 honorific: Saint
 summary: Martyr. No other information as survived.
 died: burned alive at Eleutheropolis, Asia Minor, date unknown

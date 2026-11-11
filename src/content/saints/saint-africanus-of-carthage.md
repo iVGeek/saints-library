@@ -1,5 +1,6 @@
 ---
 name: Saint Africanus of Carthage
+stub: false
 honorific: Saint
 summary: >-
   One of a group of 50 Christians who were imprisoned in a pen of snakes and scorpions, and then martyred, all during

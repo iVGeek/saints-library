@@ -1,5 +1,6 @@
 ---
 name: Saint Petrus Wang Zuolung
+stub: false
 honorific: Venerable
 summary: >-
   Layman in the apostolic vicariate of Southeastern Zhili, China. Seized by anti-Catholic forces during the Boxer

@@ -1,5 +1,6 @@
 ---
 name: Blessed Ferdinand of Portalegre
+stub: false
 honorific: Blessed
 summary: >-
   Born in Portugal, Ferdinand spent most of his life in the Castilian region of Spain, living in Toledo, Valladolid and

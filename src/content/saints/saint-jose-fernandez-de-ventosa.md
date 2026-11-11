@@ -1,5 +1,6 @@
 ---
 name: Saint José Fernández de Ventosa
+stub: false
 honorific: Venerable
 summary: Dominican priest. Missionary to Vietnam in 1805. Provincial vicar at Tonkin. One of the Martyrs of Vietnam.
 image: https://catholicsaints.info/wp-content/gallery/saint-jose-fernandez-de-ventosa/saint-jose-fernandez-de-ventosa-01.jpg

@@ -1,5 +1,6 @@
 ---
 name: Martyrs of Pontus
+stub: false
 honorific: Saint
 summary: >-
   An unknown number of Christians who were tortured and martyred in assorted painful ways in the region of Pontus (in

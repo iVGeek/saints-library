@@ -1,5 +1,6 @@
 ---
 name: Blessed Ana María Aranda Riera
+stub: false
 honorific: Blessed
 summary: >-
   Lay woman in the archdiocese of Valencia, Spain. Baptized at the age of two days. Member of Catholic Action. Attended

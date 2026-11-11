@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/48/Painting_of_the_Nagasaki_Martyrs.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Luis Cabrera Sotelo
+stub: true
 honorific: Blessed
 summary: Member of the Franciscan Friars Minor (Observants). Priest. Martyr.
 birthYear: 1574

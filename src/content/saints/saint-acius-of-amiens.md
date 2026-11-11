@@ -1,5 +1,6 @@
 ---
 name: Saint Acius of Amiens
+stub: false
 honorific: Saint
 summary: >-
   Sub-deacon who was studying for the priesthood when he was arrested and martyred as part of the persecutions of

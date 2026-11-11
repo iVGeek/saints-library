@@ -1,5 +1,6 @@
 ---
 name: Venerable Isabel Méndez Herrero
+stub: true
 honorific: Venerable
 summary: Nun. Founded the Servants of Saint Joseph in 1944.
 image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Isabel-Méndez-Herrero.jpg

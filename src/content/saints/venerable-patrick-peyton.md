@@ -1,5 +1,6 @@
 ---
 name: Venerable Patrick Peyton
+stub: false
 honorific: Venerable
 summary: >-
   Immigrant to the United States. Ordained at Notre Dame University in 1941. Despite ongoing health problems, he entered

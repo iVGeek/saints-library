@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Felix of Rome
+stub: true
 honorific: Saint
 summary: Martyred in Rome, Italy. No other information has survived.
 searchAliases:

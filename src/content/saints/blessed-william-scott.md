@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/d/d6/Mother_Teresa_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed William Scott
+stub: false
 honorific: Blessed
 summary: >-
   Studied law at Cambridge University. Adult convert to Catholicism, brought to the faith by Blessed John Roberts.

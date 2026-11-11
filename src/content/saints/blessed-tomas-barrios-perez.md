@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Tomás Barrios Pérez
+stub: false
 honorific: Blessed
 summary: Monk. Member of the Hospitallers of Saint John of God. Martyred in the Spanish Civil War.
 searchAliases:

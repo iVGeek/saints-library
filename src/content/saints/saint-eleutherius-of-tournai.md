@@ -1,5 +1,6 @@
 ---
 name: Saint Eleutherius of Tournai
+stub: false
 honorific: Saint
 summary: >-
   Born to the Gallo-Roman nobility, the son of Blanda and Serenus, a family that converted to Christianity after hearing

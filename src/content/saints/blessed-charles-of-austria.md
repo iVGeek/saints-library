@@ -1,5 +1,6 @@
 ---
 name: Blessed Charles of Austria
+stub: false
 honorific: Blessed
 summary: >-
   Son of Archduke Otto and Princess Maria Josephine of Saxony; great-nephew of Emperor Francis Joseph I. A stigmatic nun

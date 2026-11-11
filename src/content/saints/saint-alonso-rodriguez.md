@@ -1,5 +1,6 @@
 ---
 name: Saint Alonso Rodriguez
+stub: false
 honorific: Venerable
 summary: >-
   Third of eleven children in the family of the wealthy wool merchant Diego Rodriguez. Met Blessed Peter Faber when he

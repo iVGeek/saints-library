@@ -1,5 +1,6 @@
 ---
 name: Venerable Anna Kaworek
+stub: false
 honorific: Venerable
 summary: >-
   Third of eight children born to Franciszek Kaworek and Franciszka of Langer. After graduating school, Anna worked on

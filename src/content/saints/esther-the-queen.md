@@ -1,5 +1,6 @@
 ---
 name: Esther the Queen
+stub: false
 honorific: Saint
 summary: >-
   Queen of Persia and wife of Assuerus, who is identified with Xerxes (485-465 B.C.). She was a daughter of Abihail of

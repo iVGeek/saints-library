@@ -1,5 +1,6 @@
 ---
 name: Saint Amator the Hermit
+stub: true
 honorific: Saint
 title: Hermit
 summary: Hermit. Several churches in Portugal are dedicated to him.

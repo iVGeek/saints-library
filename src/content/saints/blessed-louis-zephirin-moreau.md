@@ -1,5 +1,6 @@
 ---
 name: Blessed Louis-Zéphirin Moreau
+stub: false
 honorific: Blessed
 summary: >-
   Born to a farm family, he was a sickly youth. Taught philosophy at the seminary at Nicolet, Quebec, Canada. Ordained

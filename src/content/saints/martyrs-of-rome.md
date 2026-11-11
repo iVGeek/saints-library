@@ -1,5 +1,6 @@
 ---
 name: Martyrs of Rome
+stub: true
 honorific: Saint
 summary: A group of 262 Christians martyred in the persecutions of Diocletian.
 deathYear: 303

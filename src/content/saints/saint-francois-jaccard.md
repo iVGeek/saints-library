@@ -1,5 +1,6 @@
 ---
 name: Saint François Jaccard
+stub: false
 honorific: Venerable
 summary: >-
   Studied at seminaries in Melan, then Chambery in France in 1819. Member of the Society of Foreign Missions of Paris.

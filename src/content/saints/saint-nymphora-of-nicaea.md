@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Nymphora of Nicaea
+stub: true
 honorific: Saint
 summary: Martyr.
 searchAliases:

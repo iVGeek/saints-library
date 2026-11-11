@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Ceratius of Grenoble
+stub: false
 honorific: Saint
 title: Bishop
 summary: >-

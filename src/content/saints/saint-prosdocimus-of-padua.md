@@ -1,5 +1,6 @@
 ---
 name: Saint Prosdocimus of Padua
+stub: false
 honorific: Saint
 summary: >-
   First bishop of Padua, Italy; he evangelized the entire region. Baptized Saint Daniel of Padua, who served him as

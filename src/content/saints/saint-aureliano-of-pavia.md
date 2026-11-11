@@ -1,5 +1,6 @@
 ---
 name: Saint Aureliano of Pavia
+stub: false
 honorific: Saint
 summary: >-
   Martyr. Since there were no surviving records about him, writers in later centuries invented lurid tales detailing his

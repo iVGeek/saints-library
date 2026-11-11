@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/46/Chora-Kirche_2013-03-21zh_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Anatolius of Alexandria
+stub: false
 honorific: Saint
 summary: >-
   Noted scientist, philosopher, scholar, teacher, and writer. He wrote ten books on mathematics alone, and Saint Jerome

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/0/04/Paul_Albert_Laurens.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Jean Laurens
+stub: false
 honorific: Blessed
 summary: >-
   Norbertine canon of the Averbode monastery near Diest, Brabant (in modern Belgium). Ordained in 1574. Sub-prior of his

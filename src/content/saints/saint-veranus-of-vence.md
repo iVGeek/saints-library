@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Veranus of Vence
+stub: false
 honorific: Saint
 summary: >-
   Son of Galla, who became a nun in later life, and Saint Eucherius of Lyon; brother of Saint Salonius of Geneva.

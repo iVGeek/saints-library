@@ -1,5 +1,6 @@
 ---
 name: John Bosco
+stub: false
 honorific: Saint
 title: Priest, Founder
 summary: ''

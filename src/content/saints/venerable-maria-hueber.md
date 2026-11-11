@@ -1,5 +1,6 @@
 ---
 name: Venerable Maria Hueber
+stub: false
 honorific: Venerable
 summary: >-
   Youngest of five children of Nikolaus Hueber and Anna Tapp. After her father died in combat, Maria was placed with a

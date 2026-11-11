@@ -1,5 +1,6 @@
 ---
 name: Saint Aurelian of Lyons
+stub: true
 honorific: Saint
 summary: Benedictine monk of Ainay, France. Abbot of Ainay. Archbishop of Lyons, France.
 deathYear: 895

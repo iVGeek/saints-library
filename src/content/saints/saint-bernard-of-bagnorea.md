@@ -1,5 +1,6 @@
 ---
 name: Saint Bernard of Bagnorea
+stub: true
 honorific: Saint
 summary: Bishop of Vulcia, Italy. Moved the diocese to Ischia de Castro.
 searchAliases:

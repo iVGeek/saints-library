@@ -1,5 +1,6 @@
 ---
 name: Saint Vitalis of Milan
+stub: false
 honorific: Saint
 summary: >-
   Married to Saint Valeria of Milan. Father of Saint Gervase and Saint Protase. Soldier. Convert. When Saint Ursicinus

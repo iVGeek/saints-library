@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint John of Irenopolis
+stub: false
 honorific: Saint
 title: Bishop
 summary: Bishop of Irenopolis, Asia Minor (in modern Turkey). Attended the Council of Nicaea in 325. Worked against Arianism.

@@ -1,5 +1,6 @@
 ---
 name: Saint Calimerius of Milan
+stub: false
 honorific: Saint
 summary: >-
   Educated in Rome, Italy by Pope Saint Telesphorus. Priest. Bishop of Milan, Italy for over 50 years. Evangelized

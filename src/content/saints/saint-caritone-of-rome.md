@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Caritone of Rome
+stub: false
 honorific: Saint
 summary: One of a group of spiritual students of Saint Justin Martyr who died with him and about whom we know nothing else.
 searchAliases:

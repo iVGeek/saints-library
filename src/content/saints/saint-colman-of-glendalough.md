@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Colman of Glendalough
+stub: true
 honorific: Saint
 summary: Abbot of Glendalough, Ireland.
 deathYear: 659

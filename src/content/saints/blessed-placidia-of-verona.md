@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/a/a6/Duomo_e_Battistero_di_Parma.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Placidia of Verona
+stub: true
 honorific: Blessed
 summary: Nun, known for her piety and for her healing miracles.
 deathYear: 533

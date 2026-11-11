@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/48/Painting_of_the_Nagasaki_Martyrs.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Paul Himonoya
+stub: false
 honorific: Blessed
 summary: Son of Blessed Michael Himonoya. Dominican tertiary. Ordered by authorities to renounce his faith; he refused. Martyr.
 deathYear: 1628

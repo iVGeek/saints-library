@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Justa Maiza Goicoechea
+stub: true
 honorific: Blessed
 summary: Member of the Carmelite Sisters of Charity. Martyred in the Spanish Civil War.
 searchAliases:

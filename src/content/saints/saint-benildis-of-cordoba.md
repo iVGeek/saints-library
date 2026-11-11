@@ -1,5 +1,6 @@
 ---
 name: Saint Benildis of Cordoba
+stub: false
 honorific: Saint
 summary: >-
   Having seen the martyrdom of Saint Anastasius, Benildis was moved to make a public statement of her faith. Martyred by

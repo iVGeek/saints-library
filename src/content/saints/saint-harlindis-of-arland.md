@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Harlindis of Arland
+stub: false
 honorific: Saint
 summary: >-
   Daughter of Count Arland. Sister of Saint Belindis. Nun. Helped found an abbey in Belgium, and served as its first

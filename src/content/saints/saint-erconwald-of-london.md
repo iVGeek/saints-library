@@ -1,5 +1,6 @@
 ---
 name: Saint Erconwald of London
+stub: false
 honorific: Saint
 summary: >-
   May have been related to royalty. Benedictine monk. Founded Chertsey Abbey in Surrey, England, and served as its first

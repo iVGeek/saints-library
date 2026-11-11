@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/7/77/Panorama_di_Gualdo_Tadino.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Crescentius of Fabriano
+stub: false
 honorific: Blessed
 summary: >-
   A lawyer and judge who felt a call to religious life and became a Franciscan Friar Minor. He was noted for his

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Gregory of Auxerre
+stub: true
 honorific: Saint
 summary: Bishop of Auxerre, France for 13 years.
 birthYear: 455

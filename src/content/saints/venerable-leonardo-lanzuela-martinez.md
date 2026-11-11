@@ -1,5 +1,6 @@
 ---
 name: Venerable Leonardo Lanzuela-Martínez
+stub: false
 honorific: Venerable
 summary: >-
   Member of the Brothers of the Christian Schools. Taught for 40 years at La Salle College in Montemolin, Spain. Known

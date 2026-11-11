@@ -1,5 +1,6 @@
 ---
 name: Saint Pherô Ðoàn Van Vân
+stub: false
 honorific: Venerable
 summary: >-
   Layman catechist in the apostolic vicariate of West Tonkin (modern Vietnam). Martyred in the persecutions of emperor

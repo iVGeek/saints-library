@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/7/70/Madonna_Advocata.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed George Douglas
+stub: false
 honorific: Blessed
 summary: >-
   Studied in Paris, France. Priest. Ministered to covert Catholics in England. Arrested in York and martyred for the

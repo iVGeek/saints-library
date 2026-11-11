@@ -1,5 +1,6 @@
 ---
 name: Blessed Giuseppe Ambrosoli
+stub: false
 honorific: Blessed
 summary: >-
   Born the seventh son of Giovanni Battista Ambrosoli and Palmira Valli. As a college student in World War II, he helped

@@ -1,5 +1,6 @@
 ---
 name: Saint Atto of Pistoia
+stub: false
 honorific: Saint
 summary: >-
   Monk. Abbot of Vallombrosa. Bishop of Pistoia, Italy for 20 years. Wrote a work on the relics of and miracles that

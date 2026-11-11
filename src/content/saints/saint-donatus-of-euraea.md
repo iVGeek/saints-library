@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Donatus of Euraea
+stub: false
 honorific: Saint
 summary: >-
   Late-4th-century bishop of Euraea in modern Albania. Reported to have killed a dragon by spitting in its mouth; this

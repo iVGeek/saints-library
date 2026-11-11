@@ -1,5 +1,6 @@
 ---
 name: Saint Euphrosyne of Alexandria
+stub: false
 honorific: Saint
 summary: >-
   Daughter of Paphnutius, a rich citizen of Alexandria, Egypt, born in her parents' old age due to the prayers of a monk

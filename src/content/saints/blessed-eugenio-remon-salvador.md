@@ -1,5 +1,6 @@
 ---
 name: Blessed Eugenio Remón Salvador
+stub: false
 honorific: Blessed
 summary: >-
   Eugenio joined the Franciscan Friars Minor Conventual at the convent in Granollers, Spain in 1925 where he took the

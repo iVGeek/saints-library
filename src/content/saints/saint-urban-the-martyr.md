@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Urban the Martyr
+stub: true
 honorific: Saint
 summary: Student of Saint Babylas. Martyr.
 region: Italy

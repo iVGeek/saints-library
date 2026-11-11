@@ -1,5 +1,6 @@
 ---
 name: Venerable Francesco Saverio Vincenzo Toppi
+stub: false
 honorific: Venerable
 summary: >-
   Member of the Order of Friars Minor Capuchin. Ordained a priest on 29 June 1948. Served as archbishop prelate of

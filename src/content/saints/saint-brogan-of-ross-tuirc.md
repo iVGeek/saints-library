@@ -1,5 +1,6 @@
 ---
 name: Saint Brogan of Ross Tuirc
+stub: false
 image: https://commons.wikimedia.org/wiki/Special:FilePath/Frank_Brogan_official_photo.jpg?width=600
 honorific: Saint
 summary: Seventh century abbot of Ross Tuirc, Ossory, Ireland. Author of a hymn to Saint Brigid.

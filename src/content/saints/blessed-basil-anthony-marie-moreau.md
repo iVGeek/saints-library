@@ -1,5 +1,6 @@
 ---
 name: Blessed Basil Anthony Marie Moreau
+stub: false
 honorific: Blessed
 summary: >-
   Ninth of fourteen children born to a poor but pious family during the French Revolution. His parents were involved in

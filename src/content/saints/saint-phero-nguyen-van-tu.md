@@ -1,5 +1,6 @@
 ---
 name: Saint Phêrô Nguyen Van Tu
+stub: true
 honorific: Venerable
 summary: Dominican priest. Martyr.
 image: https://catholicsaints.info/wp-content/gallery/saint-phero-nguyen-van-tu/saint-phero-nguyen-van-tu-01.jpg

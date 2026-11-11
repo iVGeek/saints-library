@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Fintan the Missionary
+stub: false
 honorific: Saint
 summary: >-
   Missionary to Switzerland and Germany. Noted for the depth of his prayer life. In later life he retired to live as a

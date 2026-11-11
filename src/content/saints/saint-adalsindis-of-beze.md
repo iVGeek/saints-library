@@ -1,5 +1,6 @@
 ---
 name: Saint Adalsindis of Bèze
+stub: false
 honorific: Saint
 summary: >-
   Born to the Burgundian nobility, the daughter of Duke Almagar and Duchess Aquilina; sister of Saint Waldalenus of

@@ -1,5 +1,6 @@
 ---
 name: Saint Ambrosio Francisco Ferro
+stub: true
 honorific: Venerable
 summary: Priest. One of the Martyrs of Brazil murdered by Calvinist fanatics.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Ambrosio-Francisco-Ferro.jpg

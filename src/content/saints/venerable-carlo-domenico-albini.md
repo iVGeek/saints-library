@@ -1,5 +1,6 @@
 ---
 name: Venerable Carlo Domenico Albini
+stub: false
 honorific: Venerable
 summary: >-
   Ordained a priest on 17 December 1814. Superior of the seminary at Cimiez, Nice, France in 1822. Entered the

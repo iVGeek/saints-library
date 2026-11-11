@@ -1,5 +1,6 @@
 ---
 name: Blessed Salvador Fernández Pérez
+stub: false
 honorific: Blessed
 summary: >-
   Baptized on the day of his birth, Salvador grew to be a Salesian priest, making his profession in Sarrià-Barcelona,

@@ -1,5 +1,6 @@
 ---
 name: Saint Abilius of Alexandria
+stub: true
 honorific: Saint
 summary: Third bishop of Alexandria, Egypt c.84.
 searchAliases:

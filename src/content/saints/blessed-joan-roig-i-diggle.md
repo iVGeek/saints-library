@@ -1,5 +1,6 @@
 ---
 name: Blessed Joan Roig i Diggle
+stub: false
 honorific: Blessed
 summary: >-
   Born to a poor family, the son of Ramón Roig Fuente and Maud Diggle Puckering. Educated by the La Salle Brothers, and

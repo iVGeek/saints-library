@@ -1,5 +1,6 @@
 ---
 name: Blessed Alfonso de Rojas
+stub: false
 image: >-
   https://commons.wikimedia.org/wiki/Special:FilePath/Cruce_calles_Pintor_Murillo-Pintor_Vel%25C3%25A1zquez-Alcalde_Alfonso_de_Rojas.JPG?width=600
 honorific: Blessed

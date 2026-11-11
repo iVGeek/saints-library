@@ -1,5 +1,6 @@
 ---
 name: Pope Saint Gregory II
+stub: false
 honorific: Saint
 summary: >-
   Involved in Church affairs from an early age. Pope Saint Sergius I ordained Gregory a sub-deacon. He served the next

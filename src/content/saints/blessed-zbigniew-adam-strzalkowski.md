@@ -1,5 +1,6 @@
 ---
 name: Blessed Zbigniew Adam Strzalkowski
+stub: false
 honorific: Blessed
 summary: Franciscan Conventual priest. One of the Martyrs of Chimbote, murdered by Shining Path Communist guerillas.
 image: https://catholicsaints.info/wp-content/uploads/img-Zbigniew-Adam-Strzalkowski.jpg

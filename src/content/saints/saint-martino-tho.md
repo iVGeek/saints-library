@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Martinô Tho
+stub: true
 honorific: Venerable
 summary: Layman martyr.
 birthYear: 1787

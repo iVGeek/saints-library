@@ -1,5 +1,6 @@
 ---
 name: Saint Dominic Loricatus
+stub: false
 honorific: Saint
 summary: >-
   To get Dominic ordained, his parents made a gift to their local bishop, committing the sin of simony. Learning of it,

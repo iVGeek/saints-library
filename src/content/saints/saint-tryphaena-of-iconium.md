@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Tryphaena of Iconium
+stub: false
 honorific: Saint
 summary: >-
   Convert. Knew and were mentioned by Saint Paul the Apostle in the Letter to the Romans. Tradition associates her with

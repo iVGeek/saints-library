@@ -1,5 +1,6 @@
 ---
 name: Saint Hyacinth
+stub: false
 honorific: Saint
 summary: >-
   Relative, possibly the brother of Blessed Ceslas Odrowaz. Educated in Krakow, Prague, Paris and Bologna. Doctor of Law

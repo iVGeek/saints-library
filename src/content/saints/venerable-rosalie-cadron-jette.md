@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Venerable Rosalie Cadron-Jetté
+stub: true
 honorific: Venerable
 summary: Founded the Institute of the Misericordia Sisters.
 searchAliases:

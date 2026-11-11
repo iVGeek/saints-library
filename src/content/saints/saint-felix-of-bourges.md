@@ -1,5 +1,6 @@
 ---
 name: Saint Felix of Bourges
+stub: false
 honorific: Saint
 title: Bishop
 summary: >-

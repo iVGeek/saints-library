@@ -1,5 +1,6 @@
 ---
 name: Saint Athanasius of Jerusalem
+stub: false
 honorific: Saint
 summary: >-
   Deacon in Jerusalem. Denounced the heretic Theodosius who had deposed Saint Juvenal as bishop of Jerusalem. Arrested,

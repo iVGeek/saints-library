@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Cyriacus of Pamphylia
+stub: false
 honorific: Saint
 summary: >-
   Son of Saint Exsuperius and Saint Zoe; brother of Saint Theodulus. Slave, owned by a rich devout worshipper of the

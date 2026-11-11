@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Merililaun
+stub: true
 honorific: Saint
 summary: Eighth century pilgrim, martyred while en route to Rome, Italy.
 searchAliases:

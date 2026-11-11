@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Flodoberthe
+stub: false
 honorific: Saint
 summary: >-
   She and her blood-sister Adalberga were eighth century nuns at the Notre Dame of Faremoutiers en Brie abbey near

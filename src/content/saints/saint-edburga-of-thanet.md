@@ -1,5 +1,6 @@
 ---
 name: Saint Edburga of Thanet
+stub: false
 honorific: Saint
 summary: >-
   Only daughter of King Centwine and Queen Engyth of Wessex, the 8th century royal family of Kent, England. Benedictine

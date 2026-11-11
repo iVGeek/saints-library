@@ -1,5 +1,6 @@
 ---
 name: Saint Paul of Rome
+stub: false
 honorific: Saint
 summary: >-
   Servant of Constantia, daughter of Constantine. He refused to join the household of Julian the Apostate when he became

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/8/83/William_W._Davies.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 name: Blessed William Davies
+stub: false
 honorific: Blessed
 summary: >-
   Priest in the apostolic vicariate of England during a period of government persecution of Catholics. Martyred for the

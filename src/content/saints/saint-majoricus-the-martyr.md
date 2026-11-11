@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/7/70/Saint_Denise_Callot.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 name: Saint Majoricus the Martyr
+stub: false
 honorific: Saint
 summary: Son of Saint Dionysia. Nephew of Saint Dativa. Child martyr in the persecutions of the Arian Vandal king Huneric.
 deathYear: 484

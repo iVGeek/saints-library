@@ -1,5 +1,6 @@
 ---
 name: Blessed Jean-Pierre Simon
+stub: true
 image: >-
   https://commons.wikimedia.org/wiki/Special:FilePath/Jean-Pierre_Sim%25C3%25A9on_%25C3%25A0_La_Roche-sur-Yon.jpg?width=600
 honorific: Blessed

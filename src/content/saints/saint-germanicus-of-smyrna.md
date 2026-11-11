@@ -1,5 +1,6 @@
 ---
 name: Saint Germanicus of Smyrna
+stub: false
 honorific: Saint
 summary: >-
   Spiritual student of Saint Polycarp of Smyrna. Martyr. The manner of with which he met his death gained the admiration

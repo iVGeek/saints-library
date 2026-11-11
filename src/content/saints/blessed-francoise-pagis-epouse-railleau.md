@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Françoise Pagis épouse Railleau
+stub: false
 honorific: Blessed
 summary: Married lay woman in the diocese of Angers, France. Martyred in the persecutions of the French Revolution.
 birthYear: 1732

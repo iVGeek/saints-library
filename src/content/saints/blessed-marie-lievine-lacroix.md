@@ -1,5 +1,6 @@
 ---
 name: Blessed Marie-Liévine Lacroix
+stub: false
 honorific: Blessed
 summary: >-
   Brigittine nun who joined the Ursulines who the Brigittines were forced out of France. One of a group of religious

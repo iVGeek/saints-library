@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/f/f7/The_Abbey_of_Our_Lady_of_Gethsemani.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Félix of Cîteaux
+stub: true
 honorific: Blessed
 summary: No information has survived.
 deathYear: 1113

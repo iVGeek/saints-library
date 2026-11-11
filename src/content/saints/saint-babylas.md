@@ -1,5 +1,6 @@
 ---
 name: Saint Babylas of Antioch
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Antioch in 240. In 244 he refused entrance to liturgical services to emperor Philip the Arabian, due to the

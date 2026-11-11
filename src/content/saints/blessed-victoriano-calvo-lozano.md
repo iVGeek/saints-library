@@ -1,5 +1,6 @@
 ---
 name: Blessed Victoriano Calvo Lozano
+stub: false
 honorific: Blessed
 summary: >-
   Victor early felt a call to the priesthood, but his family opposed it, and they were too poor to help with his

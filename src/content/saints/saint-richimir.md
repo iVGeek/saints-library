@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Richimir
+stub: false
 honorific: Saint
 summary: >-
   Benedictine monk. With a group of disciple brother monks, and with the support of the bishop of Le Mans, France, he

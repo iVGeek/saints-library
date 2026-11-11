@@ -1,5 +1,6 @@
 ---
 name: Blessed Odoric of Pordenone
+stub: false
 honorific: Blessed
 summary: >-
   Joined the Franciscans in 1300. Hermit. Priest. Preacher in northern Italy, drawing large crowds to his services.

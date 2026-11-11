@@ -1,5 +1,6 @@
 ---
 name: Blessed Antonio della Chiesa
+stub: false
 honorific: Blessed
 summary: >-
   Antonio joined the Dominicans in Vercelli, Italy in 1417. Priest. He served as prior of Dominican houses in the

@@ -1,5 +1,6 @@
 ---
 name: Saint Pabo
+stub: false
 honorific: Saint
 summary: >-
   Son of a fifth century Pictish chieftain. Soldier and warlord in the area of modern Scotland who gave up his sword to

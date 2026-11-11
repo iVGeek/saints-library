@@ -1,5 +1,6 @@
 ---
 name: Saint Giacinto Ansalone
+stub: false
 honorific: Venerable
 summary: >-
   Dominican priest. Studying in Palermo, Italy and Salamanca, Spain. Missionary to Mexico, the Philippines and Japan. As

@@ -1,5 +1,6 @@
 ---
 name: Blessed Bonaventure of Barcelona
+stub: false
 honorific: Blessed
 summary: >-
   The only child in a farm family, Francisco married at age 18, but became a widower just sixteen months later. He then

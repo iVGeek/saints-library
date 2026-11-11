@@ -1,5 +1,6 @@
 ---
 name: Saint Ewald the Black
+stub: false
 honorific: Saint
 summary: >-
   Priest. Studied in Ireland. Knew Saint Willibrord of Echternach. Missionary to Saxony with Saint Ewald the Fair c.690.

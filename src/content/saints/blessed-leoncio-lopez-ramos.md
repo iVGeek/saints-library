@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Leoncio López Ramos
+stub: true
 honorific: Blessed
 summary: Priest. Member of the Picpus Fathers. Martyred in the Spanish Civil War.
 searchAliases:

@@ -1,5 +1,6 @@
 ---
 name: Blessed Francisca Desamparados Honorata Lloret Martí
+stub: false
 honorific: Blessed
 summary: >-
   While studying to be a teacher, Francisca felt a call to religious life, and on 20 April 1903 joined the Sisters of

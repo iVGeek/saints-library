@@ -1,5 +1,6 @@
 ---
 name: Saint Baptus of Magnesia
+stub: false
 honorific: Saint
 summary: >-
   Eyewitness to executions of Christians who was so moved by their courage that he examined the faith and converted.

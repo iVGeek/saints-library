@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Vigilius of Auxerre
+stub: false
 honorific: Saint
 summary: Succeeded Saint Palladius as bishop of Auxerre, France in 661. Murdered by order of Waraton, mayor of the palace.
 deathYear: 685

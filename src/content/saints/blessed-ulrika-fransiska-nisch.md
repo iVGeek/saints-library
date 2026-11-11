@@ -1,5 +1,6 @@
 ---
 name: Blessed Ulrika Fransiska Nisch
+stub: false
 honorific: Blessed
 summary: >-
   Oldest of eleven children born to Ulrich Nisch, who cleaned stables, and Klothilde Dettenrieder, a servant in a

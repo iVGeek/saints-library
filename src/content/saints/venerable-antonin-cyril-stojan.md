@@ -1,5 +1,6 @@
 ---
 name: Venerable Antonín Cyril Stojan
+stub: false
 honorific: Venerable
 summary: >-
   Studied in Kromeríž and Olomouc. Ordained on 5 July 1876. Chaplain in Pribor. Founded the Apostolate of Cyril and

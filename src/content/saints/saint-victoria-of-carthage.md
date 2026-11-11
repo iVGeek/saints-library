@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Victoria of Carthage
+stub: false
 honorific: Saint
 summary: >-
   During the persecutions of Diocletian, Victoria refused a marriage in order to devote herself to religious life.

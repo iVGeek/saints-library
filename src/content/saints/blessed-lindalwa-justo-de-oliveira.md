@@ -1,5 +1,6 @@
 ---
 name: Blessed Lindalva Justo de Oliveira
+stub: false
 honorific: Blessed
 summary: >-
   Born to a large family. Nun. Member of the Daughters of Charity of Saint Vincent de Paul in 1986. Began working at a

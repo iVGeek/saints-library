@@ -1,5 +1,6 @@
 ---
 name: Blessed François-Joseph Pey
+stub: false
 honorific: Blessed
 summary: >-
   One of nine children born to Joseph-François Pey, a physician, and Marguerite Rose Moutte; five of them died in

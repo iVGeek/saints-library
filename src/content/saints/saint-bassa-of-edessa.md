@@ -1,5 +1,6 @@
 ---
 name: Saint Bassa of Edessa
+stub: false
 honorific: Saint
 summary: >-
   A devout Christian woman married to a pagan priest. Mother of Saint Theogonius, Saint Agapius and Saint Fidelis.

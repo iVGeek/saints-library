@@ -1,5 +1,6 @@
 ---
 name: Blessed Pascual Torres Lloret
+stub: false
 honorific: Blessed
 summary: >-
   Born to a poor family, Pascual was baptized at the age of two days. He worked as a manufacturer and builder, and was

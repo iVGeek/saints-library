@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Vitale of Spoleto
+stub: true
 honorific: Saint
 summary: Martyr. No other information has survived.
 died: Spoleto, Umbria, Italy

@@ -1,5 +1,6 @@
 ---
 name: Saint Alverius of Agaunum
+stub: false
 honorific: Saint
 summary: >-
   Soldier. Member of the Theban Legion. To escape the persecution of Emperor Maximian, he fled from his unit to the

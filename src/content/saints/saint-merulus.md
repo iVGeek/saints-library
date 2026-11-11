@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/8/85/Pulenda-1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Merulus of Rome
+stub: false
 honorific: Saint
 summary: >-
   Benedictine monk at Saint Andrew's monastery on the Coelian Hill, Rome, Italy under abbot Saint Gregory the Great who

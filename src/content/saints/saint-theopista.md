@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Theopista
+stub: false
 honorific: Saint
 summary: >-
   For preferring a life devoted to God over marriage to a young imperial Roman nobleman, she was martyred in the

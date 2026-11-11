@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/6/6f/Schist_detail.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Mica of Africa
+stub: true
 honorific: Saint
 summary: Martyr.
 died: unknown location in Africa, date unknown

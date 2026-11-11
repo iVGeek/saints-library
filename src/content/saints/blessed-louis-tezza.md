@@ -1,5 +1,6 @@
 ---
 name: Blessed Louis Tezza
+stub: false
 honorific: Blessed
 summary: >-
   The only son of Augustine Tezza, a physician, and Catherine Nedwiedt. His father died when Louis was nine, and his

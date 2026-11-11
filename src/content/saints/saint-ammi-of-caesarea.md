@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/9/97/Suarez_LOC_hec.13754_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Ammi of Caesarea
+stub: true
 honorific: Saint
 summary: Foster-mother of Saint Mamas. Martyred in the persecutions of Aurelian.
 deathYear: 270

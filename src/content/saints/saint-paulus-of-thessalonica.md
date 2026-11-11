@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/4a/Fresco_of_Saint_Paul_at_Ephesus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Paulus of Thessalonica
+stub: true
 honorific: Saint
 summary: Martyr. No other information has survived.
 died: Thessalonica, Greece

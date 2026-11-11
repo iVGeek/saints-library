@@ -1,5 +1,6 @@
 ---
 name: Saint Benjamin of Brescia
+stub: true
 honorific: Saint
 summary: Martyr.
 deathYear: 125

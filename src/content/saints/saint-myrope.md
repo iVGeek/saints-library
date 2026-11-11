@@ -1,5 +1,6 @@
 ---
 name: Saint Myrope
+stub: false
 honorific: Saint
 summary: >-
   Noted for her many pilgrimages to the graves of martyrs. Hid the relics of Saint Isidore from persecutors, for which

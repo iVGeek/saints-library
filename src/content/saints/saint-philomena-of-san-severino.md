@@ -1,5 +1,6 @@
 ---
 name: Saint Philomena of San Severino
+stub: false
 honorific: Saint
 summary: >-
   Virgin of San Severino, Italy. No other information has survived. In writing and art she is often confused with the

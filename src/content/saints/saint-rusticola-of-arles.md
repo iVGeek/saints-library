@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Rusticola of Arles
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility and raised in a Christian family. Nun at an early age at an abbey founded by Saint Caesarius of

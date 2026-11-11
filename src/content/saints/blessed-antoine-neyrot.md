@@ -1,5 +1,6 @@
 ---
 name: Blessed Antoine Neyrot
+stub: false
 honorific: Blessed
 summary: >-
   Joined the Dominicans at the convent of San Marco in Florence, Italy as a young man. While travelling to preach in

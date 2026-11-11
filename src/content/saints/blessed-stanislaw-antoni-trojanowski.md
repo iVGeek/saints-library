@@ -1,5 +1,6 @@
 ---
 name: Blessed Stanislaw Antoni Trojanowski
+stub: false
 honorific: Blessed
 summary: >-
   Born to a poor, rural family, he had limited schooling and had to work from an early age. Joined the Friars Minor

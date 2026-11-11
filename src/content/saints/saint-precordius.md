@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Precordius
+stub: false
 honorific: Saint
 summary: >-
   Sixth century man who travelled from the British Isles to live as a hermit on a hillside in the Valley-sur-Aisne area,

@@ -1,5 +1,6 @@
 ---
 name: Saint Bobo of Provence
+stub: false
 honorific: Saint
 summary: Soldier who fought invading Saracens. Tired of a life of violence, he retired to live as a penitent hermit.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Bovo-of-Veghera.jpg

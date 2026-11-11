@@ -1,5 +1,6 @@
 ---
 name: Saint Candida of Rome
+stub: false
 honorific: Saint
 summary: >-
   Married to Saint Artemius of Rome; mother of Saint Paulina of Rome. Convert, brought to the faith by Saint Peter the

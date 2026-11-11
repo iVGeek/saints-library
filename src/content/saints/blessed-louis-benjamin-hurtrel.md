@@ -1,5 +1,6 @@
 ---
 name: Blessed Louis-Benjamin Hurtrel
+stub: false
 honorific: Blessed
 summary: >-
   Brother of Blessed Charles-Louis Hurtrel. He studied in the seminaries of Trente-Trois and Saint-Nicolas in the

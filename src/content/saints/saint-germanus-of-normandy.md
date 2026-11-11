@@ -1,5 +1,6 @@
 ---
 name: Saint Germanus of Normandy
+stub: false
 honorific: Saint
 summary: Convert, brought to the faith by Saint Germanus of Auxerre, in whose honour he took the name Germanus. Bishop. Martyr.
 image: >-

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/a/ab/Delaunay_-_L_Enlevement_de_Celine.djvu?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 name: Blessed Jeanne Thomas veuve Delaunay
+stub: false
 honorific: Blessed
 summary: Married lay woman of the diocese of Angers, France. Martyred in the persecutions of the French Revolution.
 birthYear: 1730

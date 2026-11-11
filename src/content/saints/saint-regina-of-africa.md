@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Regina of Africa
+stub: true
 honorific: Saint
 summary: Martyred in Africa, date unknown. No other information has survived.
 region: Africa

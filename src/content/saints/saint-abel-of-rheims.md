@@ -1,5 +1,6 @@
 ---
 name: Saint Abel of Rheims
+stub: false
 honorific: Saint
 summary: >-
   Missionary to the European continent with Saint Boniface. Chosen archbishop of Rheims, France in 744 by Pope Saint

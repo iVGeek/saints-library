@@ -1,5 +1,6 @@
 ---
 name: Saint Philip the Deacon
+stub: false
 honorific: Saint
 summary: >-
   Probably an Hellenized Jew. One of the seven Jerusalem deacons mentioned in the canonical Acts of the Apostles.

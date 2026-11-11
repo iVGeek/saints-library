@@ -1,5 +1,6 @@
 ---
 name: Saint Alodia of Huesca
+stub: false
 honorific: Saint
 summary: >-
   Sister of Saint Nunilo of Huesca, she was born to a Muslim father and Christian mother, and was raised Christian. When

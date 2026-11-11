@@ -1,5 +1,6 @@
 ---
 name: Venerable Alfredo Morganti
+stub: false
 honorific: Venerable
 summary: >-
   A professed priest of the Order of Friars Minor in the province of Ancona, Italy, he taught philosophy, and served as

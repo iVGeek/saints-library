@@ -1,5 +1,6 @@
 ---
 name: Saint David of Wales
+stub: false
 honorific: Saint
 summary: >-
   Born to the Welsh royalty, the son of King Sandde, Prince of Powys, and of Saint Non, the daughter of a chieftain of

@@ -1,5 +1,6 @@
 ---
 name: Martyrs of Lesbos
+stub: false
 honorific: Saint
 summary: >-
   Five young Christian women martyred together for their faith. No other details, not even their names, have come down

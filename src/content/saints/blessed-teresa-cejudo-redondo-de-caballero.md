@@ -1,5 +1,6 @@
 ---
 name: Blessed Teresa Cejudo Redondo de Caballero
+stub: false
 honorific: Blessed
 summary: >-
   Lifelong lay woman in the diocese of Córdoba, Spain. Member of Catholic Action. Member of the Society of Saint Vincent

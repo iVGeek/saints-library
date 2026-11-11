@@ -1,5 +1,6 @@
 ---
 name: Venerable Augustus Tolton
+stub: false
 honorific: Venerable
 summary: >-
   Born a slave, the son of slaves, the second of three children of Peter and Martha Tolton. Peter escaped to joined the

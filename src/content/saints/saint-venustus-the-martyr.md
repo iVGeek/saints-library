@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Venustus the Martyr
+stub: true
 honorific: Saint
 summary: Martyred in the persecutions of Julian the Apostate.
 deathYear: 362

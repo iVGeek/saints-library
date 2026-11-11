@@ -1,5 +1,6 @@
 ---
 name: Saint Agostino of Capua
+stub: true
 honorific: Saint
 summary: Martyred in the persecutions of Decius.
 searchAliases:

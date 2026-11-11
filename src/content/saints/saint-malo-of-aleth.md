@@ -1,5 +1,6 @@
 ---
 name: Saint Malo of Aleth
+stub: false
 honorific: Saint
 summary: >-
   An adult convert who was  baptized by and became the spiritual student of Saint Brendan the Navigator. Monk at

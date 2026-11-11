@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Enda of Arran
+stub: false
 honorific: Saint
 summary: >-
   An Irish prince, the son of Conall Derg of Ergall, Ulster. Brother of Saint Fanchea of Rossory who brought him to the

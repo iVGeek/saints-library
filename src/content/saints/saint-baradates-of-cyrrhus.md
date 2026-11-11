@@ -1,5 +1,6 @@
 ---
 name: Saint Baradates of Cyrrhus
+stub: false
 honorific: Saint
 summary: >-
   Hermit in a tiny shack in Cyrrhus, Syria; he wore animal skins, lived on whatever came to hand, and spent every

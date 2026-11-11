@@ -1,5 +1,6 @@
 ---
 name: Saint Nilammon of Geris
+stub: false
 honorific: Saint
 summary: >-
   Hermit. His reputation caused him to be chosen bishop of Geris, Egypt; he was so reluctant to accept that he

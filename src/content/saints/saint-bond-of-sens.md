@@ -1,5 +1,6 @@
 ---
 name: Saint Bond of Sens
+stub: true
 honorific: Saint
 summary: Convert. Spiritual student of Saint Artemius of Sens. Hermit in Sens, France.
 searchAliases:

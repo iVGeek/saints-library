@@ -1,5 +1,6 @@
 ---
 name: Saint Laurentius Bai Xiaoman
+stub: false
 honorific: Venerable
 summary: >-
   Born to a poor family, and orphaned as a young boy. Layman. Day labourer in Guangxi, China, and then in the village of

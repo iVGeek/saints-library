@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Theodotus
+stub: true
 honorific: Saint
 summary: Martyr.
 died: beheaded

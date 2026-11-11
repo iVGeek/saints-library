@@ -1,5 +1,6 @@
 ---
 name: Saint Lufthild
+stub: false
 honorific: Saint
 summary: >-
   Abused by a jealous step-mother for her kindness to the poor, Lufthild left home young to live as an often-homeless

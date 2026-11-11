@@ -1,5 +1,6 @@
 ---
 name: Blessed Josef Mayr-Nusser
+stub: false
 honorific: Blessed
 summary: >-
   Raised in a pious, rural Italian farm family; his brother Jakob became a priest. Devotee of Blessed Antoine-Frédéric

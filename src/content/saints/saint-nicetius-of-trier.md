@@ -1,5 +1,6 @@
 ---
 name: Saint Nicetius of Trier
+stub: false
 honorific: Saint
 summary: >-
   Born to a Gallo-Roman family, he was  a religious youth. Monk at Limoges. Abbot. Knew and was highly thought of by

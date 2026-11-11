@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Sofronius of Cyprus
+stub: false
 honorific: Saint
 summary: >-
   May have been a 6th century bishop on Cyprus, but the records of the period are all lost and all we know for certain

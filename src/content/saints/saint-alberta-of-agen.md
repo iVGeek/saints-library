@@ -1,5 +1,6 @@
 ---
 name: Saint Alberta of Agen
+stub: true
 honorific: Saint
 summary: One of the first martyrs in the persecutions of Diocletian.
 image: https://upload.wikimedia.org/wikipedia/commons/c/cf/SainteAlberteAgen.png

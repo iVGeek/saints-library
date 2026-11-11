@@ -1,5 +1,6 @@
 ---
 name: Saint Felix of Heraclea
+stub: true
 honorific: Saint
 summary: Martyred at Heraclea. No other information has survived.
 region: England

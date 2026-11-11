@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Hesychius
+stub: false
 honorific: Saint
 summary: >-
   Spiritual student of Saint Hilarion of Palestine. Hermit in a monastery at Majuma, Palestine. Followed Hilarion from

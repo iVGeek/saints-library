@@ -1,5 +1,6 @@
 ---
 name: Saint Margaret of England
+stub: false
 honorific: Saint
 summary: >-
   Born to an English mother and Hungarian father. Relative of Saint Thomas of Canterbury. Her mother died while the two

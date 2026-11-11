@@ -1,5 +1,6 @@
 ---
 name: Blessed Primitivo Berrocoso Maillo
+stub: true
 honorific: Blessed
 summary: Claretian cleric. Martyred in the Spanish Civil War.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Primitivo-Berrocoso-Maillo.jpg

@@ -1,5 +1,6 @@
 ---
 name: Saint Philip of Adrianople
+stub: false
 honorific: Saint
 summary: >-
   Deacon to Saint Hermes of Adrianople. During the persecutions of Diocletian, Saint Hermes and Saint Philip were

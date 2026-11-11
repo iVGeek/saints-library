@@ -1,5 +1,6 @@
 ---
 name: Blessed Burchard of Beinwil
+stub: false
 honorific: Blessed
 title: Priest
 summary: >-

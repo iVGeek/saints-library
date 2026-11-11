@@ -1,5 +1,6 @@
 ---
 name: Blessed Valeriano Ruiz Peral
+stub: false
 honorific: Blessed
 summary: >-
   Joined the Salesians on 1 February 1926, and was professed in 1931. Teacher at the school of San Martin in Madrid,

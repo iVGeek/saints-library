@@ -1,5 +1,6 @@
 ---
 name: Saint Berardes of Morocco
+stub: false
 honorific: Saint
 summary: >-
   Born to the Italian nobility. Franciscan monk accepted into the order by Saint Francis of Assisi himself in 1213.

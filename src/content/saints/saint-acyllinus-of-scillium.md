@@ -1,5 +1,6 @@
 ---
 name: Saint Acyllinus of Scillium
+stub: false
 honorific: Saint
 summary: >-
   One of a group of twelve Christians martyred together, the final deaths in the persecutions of Emperor Marcus

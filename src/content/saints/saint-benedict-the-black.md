@@ -1,5 +1,6 @@
 ---
 name: Saint Benedict the Black
+stub: false
 honorific: Saint
 summary: >-
   His parents, Christopher and Diana, were slaves who had been taken from Africa to Sicily. Benedict was granted his

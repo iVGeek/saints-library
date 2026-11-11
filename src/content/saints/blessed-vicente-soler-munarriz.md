@@ -1,5 +1,6 @@
 ---
 name: Blessed Vicente Soler Munárriz
+stub: false
 honorific: Blessed
 summary: >-
   Joined the Augustinian Recollects on 15 May 1883 while studying at the seminary in Tarragona, Spain. Assigned to

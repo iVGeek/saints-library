@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Rufinus of Ireland
+stub: false
 honorific: Saint
 summary: >-
   The scraps of information we have about indicate he may have been a monk  or a hermit at the monastery of Glendalough,

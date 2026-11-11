@@ -1,5 +1,6 @@
 ---
 name: Saint Basil of Parion
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Parion, Mysia (an area of modern Turkey) during the reign of Emperor Leo Isaureren. Defended the use of

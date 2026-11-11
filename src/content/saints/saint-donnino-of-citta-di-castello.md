@@ -1,5 +1,6 @@
 ---
 name: Saint Donnino of Città di Castello
+stub: false
 honorific: Saint
 title: Hermit
 summary: >-

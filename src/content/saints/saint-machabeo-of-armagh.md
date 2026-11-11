@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Machabeo of Armagh
+stub: false
 honorific: Saint
 summary: Abbot of the monastery of Saint Peter and Saint Paul in Armagh, Ireland for over 30 years.
 searchAliases:

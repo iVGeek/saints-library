@@ -1,5 +1,6 @@
 ---
 name: Blessed Mary of Peace
+stub: false
 honorific: Blessed
 summary: Mercedarian tertiary who lived in the monastery of Holy Mary in Granada, Spain. Miracle worker.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Mary-of-Peace.jpg

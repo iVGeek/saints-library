@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/f/f7/Madonna_dell%27Orto_%28Venice%29_-_Choir_-_The_beheading_of_St._Paul.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed George Halley
+stub: true
 honorific: Blessed
 summary: Carmelite, taking the name Angelus of Saint Joseph. One of the Irish Martyrs.
 searchAliases:

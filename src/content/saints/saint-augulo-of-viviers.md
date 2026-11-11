@@ -1,5 +1,6 @@
 ---
 name: Saint Áugulo of Viviers
+stub: false
 honorific: Saint
 title: Bishop
 summary: >-

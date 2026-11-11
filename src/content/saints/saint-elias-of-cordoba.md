@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Elias of Cordoba
+stub: false
 honorific: Saint
 summary: Priest. Martyr. Saint Eulogius of Cordoba witnessed the murder and wrote an account of it.
 deathYear: 856

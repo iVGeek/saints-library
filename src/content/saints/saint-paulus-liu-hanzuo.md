@@ -1,5 +1,6 @@
 ---
 name: Saint Paulus Liu Hanzuo
+stub: false
 honorific: Venerable
 summary: >-
   Raised in a poor Christian family, Paulus worked as a shepherd in his youth, and had little education. Feeling a call

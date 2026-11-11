@@ -1,5 +1,6 @@
 ---
 name: Saint François-Isidore Gagelin
+stub: false
 honorific: Venerable
 summary: >-
   Studied at the Grand Seminary at Besancon, France. Member of the Paris Foreign Mission Society in 1817. Missionary to

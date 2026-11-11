@@ -1,5 +1,6 @@
 ---
 name: Saint Leonidas of Alexandria
+stub: false
 honorific: Saint
 summary: >-
   Wealthy and pious layman. Father of seven sons, the eldest of whom was the philosopher Origen, whom he raised and

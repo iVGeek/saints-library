@@ -1,5 +1,6 @@
 ---
 name: Saint Cyril of Jerusalem
+stub: false
 honorific: Saint
 title: St. Cyril of Jerusalem
 summary: >-

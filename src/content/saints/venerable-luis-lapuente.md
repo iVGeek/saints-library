@@ -1,5 +1,6 @@
 ---
 name: Venerable Luis Lapuente
+stub: false
 honorific: Venerable
 summary: >-
   Studied at the Dominican university of San Gregorio. Jesuit. Ordained in 1580. Taught philosophy at the University of

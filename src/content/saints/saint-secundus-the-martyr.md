@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Secundus the Martyr
+stub: true
 honorific: Saint
 died: martyred in North Africa
 region: Africa

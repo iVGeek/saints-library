@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Cyrilla of Cyrene
+stub: false
 honorific: Saint
 summary: >-
   An elderly widow who was arrested in the persecutions of Diocletian for refusing to sacrifice to idols. To force her

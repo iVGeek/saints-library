@@ -1,5 +1,6 @@
 ---
 name: Saint Tychicus
+stub: false
 honorific: Saint
 summary: >-
   Spiritual student of Saint Paul the Apostle who delivered several of the letters to early churches; many became part

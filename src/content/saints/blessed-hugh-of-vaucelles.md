@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Hugh of Vaucelles
+stub: true
 honorific: Blessed
 summary: Dean of the church in Cambrai, France. Cistercian monk at Vaucelles, France.
 deathYear: 1239

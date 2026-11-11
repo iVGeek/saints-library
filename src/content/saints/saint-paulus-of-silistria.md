@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/e/e7/Battle_of_Posada_%28Chronica_Hungarorum%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Paulus of Silistria
+stub: true
 honorific: Saint
 summary: Martyr.
 feastDay:

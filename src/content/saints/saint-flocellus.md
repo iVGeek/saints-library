@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Flocellus
+stub: true
 honorific: Saint
 summary: Young man martyred in the persecutions of Marcus Aurelius.
 searchAliases:

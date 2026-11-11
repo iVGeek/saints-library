@@ -1,5 +1,6 @@
 ---
 name: Blessed Humbert III of Savoy
+stub: false
 honorific: Blessed
 summary: >-
   Son of Count Amadeus III of Savoy and Matilda of Vienna. Educated by Blessed Amadeus of Lausanne. Count of Savoy from

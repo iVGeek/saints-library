@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Daircheall of Gleann-da-locha
+stub: true
 honorific: Saint
 summary: Early Irish bishop.
 region: Ireland

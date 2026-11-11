@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/f/f3/Anchorites_Skipton.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Wulfric of Haselbury
+stub: false
 honorific: Saint
 summary: >-
   Though a priest, Wulfric led a worldly life, interested more in hunting and parties with local nobles that in tending

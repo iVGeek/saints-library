@@ -1,5 +1,6 @@
 ---
 name: Blessed Giovanni de Barthulono
+stub: false
 honorific: Blessed
 summary: >-
   Born to an illustrious Italian family. Mercedarian. Ransomed 49 Christians who had been enslaved in Africa. Noted for

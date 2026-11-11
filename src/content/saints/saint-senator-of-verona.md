@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Senator of Verona
+stub: false
 honorific: Saint
 title: Bishop
 summary: Bishop of Verona, Italy; records of his service vary from the late 3rd to the early 4th century.

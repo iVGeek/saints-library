@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Beaudoin of Beaumont
+stub: false
 honorific: Blessed
 summary: >-
   Premonstratensian friar. Canon on the Norbertine monastery of Notre-Dame, Belval, Argonne, France. Abbot of the house

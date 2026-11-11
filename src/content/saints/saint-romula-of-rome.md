@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Romula of Rome
+stub: false
 honorific: Saint
 summary: >-
   Hermitess with Saint Redempta near the church Mary Major in Rome, Italy. Spiritual student of Saint Herundo in

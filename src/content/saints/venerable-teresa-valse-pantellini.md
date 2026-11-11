@@ -1,5 +1,6 @@
 ---
 name: Venerable Teresa Valse Pantellini
+stub: false
 honorific: Venerable
 summary: >-
   The middle of three children born to a wealthy family; her father, Giuseppi, owned a chain of hotels in Egypt, and her

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Januarius of Rome
+stub: true
 honorific: Saint
 summary: Three Christians with the same name who were martyred together.
 died: Rome, Italy, date unknown

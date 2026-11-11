@@ -1,5 +1,6 @@
 ---
 name: Saint Abran
+stub: false
 honorific: Saint
 summary: >-
   Brother of Saint Tressan, Saint Helan, Saint Germanus, Saint Gibrian, Saint Petran, Saint Franca, Saint Promptia, and

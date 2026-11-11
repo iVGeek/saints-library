@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Vitus of Bergamo
+stub: true
 honorific: Saint
 summary: Benedictine monk near Bergamo, Italy. Spiritual student of Saint Albert.
 deathYear: 1095

@@ -1,5 +1,6 @@
 ---
 name: Blessed Josep Tous Soler
+stub: false
 honorific: Blessed
 summary: >-
   Joined the Franciscan Capuchins at age 15, and professed his vows on 19 February 1828. Josep was ordained on 24 May

@@ -1,5 +1,6 @@
 ---
 name: Blessed Ferdinand Ayala
+stub: false
 honorific: Blessed
 summary: >-
   Augustinian priest in 1603. Missionary to Mexico. Missionary to Japan. Augustinian vicar provincial in 1605. Worked

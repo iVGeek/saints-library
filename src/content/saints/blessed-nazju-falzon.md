@@ -1,5 +1,6 @@
 ---
 name: Blessed Nazju Falzon
+stub: false
 honorific: Blessed
 summary: >-
   Son of Francis Joseph, a judge, and Mary Teresa, the daughter of judge. Ignatius and all three of his brothers became

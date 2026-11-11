@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/b/be/Margarita_de_Hungr%C3%ADa_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed John of Hungary
+stub: true
 honorific: Blessed
 summary: First Franciscan to work in Hungary.
 deathYear: 1287

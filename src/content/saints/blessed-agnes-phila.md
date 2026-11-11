@@ -1,5 +1,6 @@
 ---
 name: Blessed Agnes Phila
+stub: false
 honorific: Blessed
 summary: >-
   Daughter of Joachim and Anna Thit Son Chum; she was baptized in Viengkhuk, Thaland in 1924, and her god-mother was the

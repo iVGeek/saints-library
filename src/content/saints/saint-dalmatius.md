@@ -1,5 +1,6 @@
 ---
 name: Saint Dalmatius
+stub: false
 honorific: Saint
 summary: >-
   Archimandrite. A staunch defender of Christianity, especially against Nestorianism. Especially venerated in

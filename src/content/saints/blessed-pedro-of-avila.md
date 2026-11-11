@@ -1,5 +1,6 @@
 ---
 name: Blessed Pedro of Ávila
+stub: false
 honorific: Blessed
 summary: >-
   Franciscan Friars Minor (Alcantarines) priest. Martyred in the persecution of the Tokugawa Shogunate as part of the

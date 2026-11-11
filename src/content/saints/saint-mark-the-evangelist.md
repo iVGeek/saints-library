@@ -1,5 +1,6 @@
 ---
 name: Saint Mark the Evangelist
+stub: false
 honorific: Saint
 summary: >-
   Believed to be the young man who ran away when Jesus was arrested (Mark 14:51-52), and the “John whose other name was

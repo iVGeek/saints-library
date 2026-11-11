@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Cursicus of Africa
+stub: true
 honorific: Saint
 summary: Priest. Martyr.
 searchAliases:

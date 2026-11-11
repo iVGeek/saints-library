@@ -1,5 +1,6 @@
 ---
 name: Saint Cyrus the Physician
+stub: false
 honorific: Saint
 summary: >-
   Physician in Alexandria, Egypt. His ministry to the sick, and the Christian example he set, brought many others to the

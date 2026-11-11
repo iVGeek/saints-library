@@ -1,5 +1,6 @@
 ---
 name: Saint Patroclus of Troyes
+stub: false
 honorific: Saint
 summary: >-
   Wealthy Christian of Troyes, Gaul, noted for his charity. Evangelist; he converted his successor, Saint Sabinian of

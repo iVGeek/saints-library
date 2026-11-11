@@ -1,5 +1,6 @@
 ---
 name: Blessed Antonio Vallesio
+stub: false
 honorific: Blessed
 summary: >-
   Mercedarian missionary to Tunisia. Arrested by Muslim authorities for preaching Christianity, sentenced to forced

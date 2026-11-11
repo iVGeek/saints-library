@@ -1,5 +1,6 @@
 ---
 name: Saint Ralph Sherwin
+stub: false
 honorific: Saint
 summary: >-
   A fellow and noted classical scholar at Exeter College, Oxford, England; he received his Master of Arts degree on 2

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Calamanda of Calaf
+stub: false
 honorific: Saint
 summary: >-
   Young woman martyred in the persecutions of Diocletian. A number of other stories have been attached to her including

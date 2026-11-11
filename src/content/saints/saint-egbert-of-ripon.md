@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Egbert of Ripon
+stub: true
 honorific: Saint
 summary: Monk at Ripon, England.
 deathYear: 720

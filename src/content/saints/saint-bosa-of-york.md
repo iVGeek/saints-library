@@ -1,5 +1,6 @@
 ---
 name: Saint Bosa of York
+stub: false
 honorific: Saint
 summary: >-
   Benedictine monk at Whitby, England, under Saint Hilda of Whitby. Bishop of Deira (modern York), the southern half of

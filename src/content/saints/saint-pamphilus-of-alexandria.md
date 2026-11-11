@@ -1,5 +1,6 @@
 ---
 name: Saint Pamphilus of Alexandria
+stub: false
 honorific: Saint
 summary: >-
   Studied in Berytus, Phoenicia and in Alexandria, Egypt. Careful student of the works of Origen. Priest, ordained at

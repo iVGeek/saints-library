@@ -1,5 +1,6 @@
 ---
 name: Blessed Bartlomiej Osypiuk
+stub: false
 honorific: Blessed
 summary: >-
   Married layman from Bohukaly, Poland. Father of two. One of the Marytrs of Podlasie. He was wounded at the scene,

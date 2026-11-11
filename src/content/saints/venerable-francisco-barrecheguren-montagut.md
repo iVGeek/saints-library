@@ -1,5 +1,6 @@
 ---
 name: Venerable Francisco Barrecheguren Montagut
+stub: false
 honorific: Venerable
 summary: >-
   Francisco's father died when the boy was eleven months old, his mother when he was five years, and he was raised by

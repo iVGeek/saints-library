@@ -1,5 +1,6 @@
 ---
 name: Blessed Alfredo Parte-Saiz
+stub: false
 honorific: Blessed
 summary: >-
   Member of the Piarists, making his vows on 13 August 1916. Began working in the Pious Schools in Villacarriedo, Spain

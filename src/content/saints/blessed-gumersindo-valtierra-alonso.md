@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Gumersindo Valtierra Alonso
+stub: false
 honorific: Blessed
 summary: >-
   Member of the Claretians, professed on 15 August 1894 in Cervera, Spain. Ordained a priest in Lleida, Spain on 19

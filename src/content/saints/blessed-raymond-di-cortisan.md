@@ -1,5 +1,6 @@
 ---
 name: Blessed Raymond di Cortisan
+stub: false
 honorific: Blessed
 summary: >-
   Canon and archdeacon of Lézat, Toulouse, France. Basing their operations in a farmhouse outside Avignonet, France, he

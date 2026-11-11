@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Tommasuccio of Foligno
+stub: true
 honorific: Blessed
 summary: Franciscan friar. Noted preacher in the Italian regions of Tuscany and Umbria.
 searchAliases:

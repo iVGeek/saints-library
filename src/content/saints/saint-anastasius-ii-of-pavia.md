@@ -1,5 +1,6 @@
 ---
 name: Saint Anastasius II of Pavia
+stub: false
 honorific: Saint
 summary: >-
   A follower of the Arian heresy, he converted to orthodox Christianity and eventually became bishop of Pavia, Italy in

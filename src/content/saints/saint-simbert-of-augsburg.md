@@ -1,5 +1,6 @@
 ---
 name: Saint Simbert of Augsburg
+stub: false
 honorific: Saint
 summary: >-
   Student and monk at Murbach Abbey near Colmar, Alsace, France. Abbot. Bishop of Augsburg, Germany in 778, and

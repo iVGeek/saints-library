@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Ithamar of Rochester
+stub: false
 honorific: Saint
 summary: >-
   Known in his day for his learning. First Anglo-Saxon to be ordained a bishop, succeeding Saint Paulinus of York to the

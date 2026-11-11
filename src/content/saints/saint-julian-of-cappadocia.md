@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Julian of Cappadocia
+stub: false
 honorific: Saint
 summary: >-
   Man who came to the town of Cilicia on un-related business, saw the bodies of the recently martyred, kissed them and

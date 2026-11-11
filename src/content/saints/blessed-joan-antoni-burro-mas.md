@@ -1,5 +1,6 @@
 ---
 name: Blessed Joan Antoni Burró Mas
+stub: false
 honorific: Blessed
 summary: >-
   Brother in the Hospitallers of Saint John of God, joining at age 14. After training he was a member of the community

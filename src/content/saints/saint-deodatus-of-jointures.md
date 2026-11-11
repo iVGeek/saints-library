@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Deodatus of Jointures
+stub: false
 honorific: Saint
 title: Bishop
 summary: Bishop. Founded the monastery of Val-de-Galilée, Jointures, France, and served as its first abbot.

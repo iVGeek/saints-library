@@ -1,5 +1,6 @@
 ---
 name: Saint Theodora of Alexandria
+stub: false
 honorific: Saint
 summary: >-
   Christian woman who, during the persecutions of Diocletian, refused to sacrifice to idols and claimed that she

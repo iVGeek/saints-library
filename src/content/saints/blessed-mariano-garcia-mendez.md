@@ -1,5 +1,6 @@
 ---
 name: Blessed Mariano García Méndez
+stub: false
 honorific: Blessed
 summary: >-
   Eldest of 15 children of pious farmers Mariano Garcia Hernandez and Emeteria Mendez Grande. Dehonian priest. Martyred

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Pansofius of Alexandria
+stub: false
 honorific: Saint
 summary: >-
   Son of the imperial pro-consul of Alexandria, Egypt. When Pansofius came into his inheritance, he gave away his entire

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Lucia Obasama
+stub: false
 honorific: Blessed
 summary: Lay woman in the diocese of Niigata, Japan. Married to Blessed Timotheus Obasama Jirobyoe. Martyr.
 deathYear: 1629

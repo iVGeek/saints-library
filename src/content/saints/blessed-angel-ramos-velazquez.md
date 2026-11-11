@@ -1,5 +1,6 @@
 ---
 name: Blessed Ángel Ramos Velázquez
+stub: false
 honorific: Blessed
 summary: >-
   Pilgrim to Rome, Italy at age 15 after which he joined the Salesians of Don Bosco at their house at Sarria outside

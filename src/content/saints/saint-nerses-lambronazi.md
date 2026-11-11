@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Nerses Lambronazi
+stub: false
 honorific: Saint
 summary: >-
   Nephew of Saint Nerses Glaietsi. Bishop. Archbishop of Tarsus. Helped reunify Armenia with the Church of Rome in 1198.

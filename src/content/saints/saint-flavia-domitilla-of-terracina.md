@@ -1,5 +1,6 @@
 ---
 name: Saint Flavia Domitilla of Terracina
+stub: false
 honorific: Saint
 summary: >-
   Roman noble lay woman. Grand-daughter of Emperor Vespasian; niece of Emperors Titus and Domitian. Married to Titus

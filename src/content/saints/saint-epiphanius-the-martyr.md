@@ -1,5 +1,6 @@
 ---
 name: Saint Epiphanius the Martyr
+stub: true
 honorific: Saint
 summary: Bishop. One of a group of 13 martyrs in North Africa.
 region: England

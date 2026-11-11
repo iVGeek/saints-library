@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Benedict of Angers
+stub: true
 honorific: Saint
 title: Bishop
 summary: Bishop of Angers, France.

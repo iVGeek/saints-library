@@ -1,5 +1,6 @@
 ---
 name: Saint Modestus of Jerusalem
+stub: false
 honorific: Saint
 summary: >-
   Orphaned at five months of age. Sold into slavery in Egypt as an adult, he converted his pagan “owner” to

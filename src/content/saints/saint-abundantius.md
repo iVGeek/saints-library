@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Abundantius
+stub: true
 honorific: Saint
 summary: Martyr.
 died: France

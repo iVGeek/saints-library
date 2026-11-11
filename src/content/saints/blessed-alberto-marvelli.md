@@ -1,5 +1,6 @@
 ---
 name: Blessed Alberto Marvelli
+stub: false
 honorific: Blessed
 summary: >-
   Son of Alfredo and Maria Marvelli. His father was a bank employee, and his mother was very active in Catholic

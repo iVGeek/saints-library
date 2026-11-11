@@ -1,5 +1,6 @@
 ---
 name: Blessed Ralph Corby
+stub: false
 honorific: Blessed
 summary: >-
   Raised in a pious family; all of the family, his parents included, eventually took religious vows. Educated at the

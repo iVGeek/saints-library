@@ -1,5 +1,6 @@
 ---
 name: Saint Petrus Yi Ho-yong
+stub: false
 honorific: Venerable
 summary: >-
   Brother of Saint Agatha Yi So-sa. Layman catechist in the apostolic vicariate of Korea. Imprisoned for four years,

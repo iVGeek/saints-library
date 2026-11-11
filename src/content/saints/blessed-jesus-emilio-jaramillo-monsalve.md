@@ -1,5 +1,6 @@
 ---
 name: Blessed Jesús Emilio Jaramillo Monsalve
+stub: false
 honorific: Blessed
 summary: >-
   The son of Alberto Jaramillo, a craftsman, and Cecilia Monsalve, a housewife, Jesús was baptized at the age of one

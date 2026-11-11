@@ -1,5 +1,6 @@
 ---
 name: Saint Mummolinus of Noyon
+stub: false
 honorific: Saint
 summary: >-
   Monk at Luxeuil Abbey in France. Abbot at the monastery at Saint Omer. Abbot of Sithin. Friend of Saint Bertin the

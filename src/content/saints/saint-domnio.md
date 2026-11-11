@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Domnio of Bergamo
+stub: true
 honorific: Saint
 summary: Uncle of Saint Eusebia. Martyred in the persecutions of Diocletian.
 deathYear: 295

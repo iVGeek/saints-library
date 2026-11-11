@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/b/b9/All_saint.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Lazarus the Stylite
+stub: false
 honorific: Blessed
 summary: >-
   Set an example of turning his back on the world and living for prayer by living without shelter on top of a series of

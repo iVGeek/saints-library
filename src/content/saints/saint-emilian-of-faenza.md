@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Emilian of Faenza
+stub: false
 honorific: Saint
 title: Bishop
 summary: Bishop. Died while returning from a pilgrimage to Rome, Italy where venerated the tombs of the Apostles.

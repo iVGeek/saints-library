@@ -1,6 +1,7 @@
 ---
 image: https://www.catholic.org/files/images/saints/2935.jpg
 name: Saint Dominic of Brescia
+stub: true
 honorific: Saint
 summary: Bishop of Brescia, Italy.
 deathYear: 612

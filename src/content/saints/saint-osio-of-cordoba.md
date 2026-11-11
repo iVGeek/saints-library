@@ -1,5 +1,6 @@
 ---
 name: Saint Osio of Córdoba
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Córdoba, Spain c.295. Managed to survive the persecutions of Maximian. Presided at the First Council of

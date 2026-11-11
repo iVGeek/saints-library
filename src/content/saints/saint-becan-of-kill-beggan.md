@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Becan of Kill-Beggan
+stub: false
 honorific: Saint
 summary: >-
   Relative of Saint Columba of Iona. Sixth-century evangelist in Ireland. Founded the monastery known as Kill-Beggan in

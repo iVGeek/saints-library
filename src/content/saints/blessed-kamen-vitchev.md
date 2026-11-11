@@ -1,5 +1,6 @@
 ---
 name: Blessed Kamen Vitchev
+stub: false
 honorific: Blessed
 summary: >-
   Born to a pious, orthodox Eastern Rite family, Peter was educated in Strem (in modern Austria) and Adrianopolis

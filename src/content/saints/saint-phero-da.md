@@ -1,5 +1,6 @@
 ---
 name: Saint Phêrô Ða
+stub: false
 honorific: Venerable
 summary: >-
   Married layman in the apostolic vicariate of Central Tonkin (in modern Vietnam). Carpenter by trade, he served as

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Elian of Brittany
+stub: false
 honorific: Saint
 summary: >-
   Related to Saint Ismael, Saint Oudoceus, Saint Melorius, Saint Tugdual and Saint Judictel. Sixth century missionary to

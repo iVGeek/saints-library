@@ -1,5 +1,6 @@
 ---
 name: Blessed Petrus Gim Jeong-Duk
+stub: true
 honorific: Blessed
 summary: Layman martyr in the apostolic vicariate of Korea.
 image: https://catholicsaints.info/wp-content/uploads/people-who-open-the-light-of-dawn.jpg

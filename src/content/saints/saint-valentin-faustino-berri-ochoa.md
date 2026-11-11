@@ -1,5 +1,6 @@
 ---
 name: Saint Valentin Faustino Berri Ochoa
+stub: false
 honorific: Venerable
 summary: >-
   Born in the Basque country. Ordained a priest on 14 June 1851. Made his profession as a Dominican on 12 November 1854.

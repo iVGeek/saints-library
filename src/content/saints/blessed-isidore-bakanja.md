@@ -1,5 +1,6 @@
 ---
 name: Blessed Isidore Bakanja
+stub: false
 honorific: Blessed
 summary: >-
   Worked as an assistant stone mason for white colonists in what was then the Belgian Congo and later known as Zaire or

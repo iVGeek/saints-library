@@ -1,5 +1,6 @@
 ---
 name: Blessed Antonio Cid Rodríguez
+stub: false
 honorific: Blessed
 summary: >-
   Baptized at the age of one day, Antonio grew up with a call to religious life. He joined the Salesians of Don Bosco in

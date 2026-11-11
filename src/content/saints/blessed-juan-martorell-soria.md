@@ -1,5 +1,6 @@
 ---
 name: Blessed Juan Martorell Soria
+stub: false
 honorific: Blessed
 summary: >-
   Sacristan in his hometown parish of Saint Anthony the Abbot. Joined the Salesians in 1923. Priest. Imprisoned,

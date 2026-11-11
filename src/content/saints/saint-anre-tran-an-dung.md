@@ -1,5 +1,6 @@
 ---
 name: Saint Anrê Tran An Dung
+stub: false
 honorific: Venerable
 summary: >-
   Priest in the apostolic vicariate of West Tonkin. Worked in the missions with the priests of the Foreign Mission

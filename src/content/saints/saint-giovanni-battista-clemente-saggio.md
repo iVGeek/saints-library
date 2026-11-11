@@ -1,5 +1,6 @@
 ---
 name: Saint Giovanni Battista Clemente Saggio
+stub: false
 honorific: Saint
 summary: >-
   Born to a poor peasant family, Giovanni was a clever boy who enjoyed study, but had to work the fields with his father

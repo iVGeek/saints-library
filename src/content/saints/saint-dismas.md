@@ -1,5 +1,6 @@
 ---
 name: Saint Dismas
+stub: false
 honorific: Saint
 title: St. Dismas
 summary: >-

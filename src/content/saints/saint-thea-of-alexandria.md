@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Thea of Alexandria
+stub: false
 honorific: Saint
 summary: >-
   Virgin who dedicated herself to God. Arrested, tortured and martyred for her faith in the persecutions of Maximinus

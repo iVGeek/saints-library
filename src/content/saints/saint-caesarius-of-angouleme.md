@@ -1,5 +1,6 @@
 ---
 name: Saint Caesarius of Angoulême
+stub: true
 honorific: Saint
 title: Deacon
 summary: Deacon in Angoulême, France under Saint Ausonius.

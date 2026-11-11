@@ -1,5 +1,6 @@
 ---
 name: Saint Eusterius of Salerno
+stub: true
 honorific: Saint
 summary: Fifth-century bishop of Salerno, Italy.
 region: Italy

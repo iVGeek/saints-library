@@ -1,5 +1,6 @@
 ---
 name: Blessed Antonia of Florence
+stub: false
 honorific: Blessed
 summary: >-
   Married and a mother of one. Widowed twice. Franciscan tertiary. Poor Clare nun. Spiritual student of Saint John

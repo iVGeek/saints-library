@@ -1,5 +1,6 @@
 ---
 name: Martyrs of the Baths
+stub: false
 honorific: Saint
 summary: >-
   A group of Christians enslaved by Diocletian to build the gigantic baths in impoerial Rome, Italy. The end of their

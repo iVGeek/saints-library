@@ -1,5 +1,6 @@
 ---
 name: Blessed Francis Page
+stub: false
 honorific: Blessed
 summary: >-
   Raised in a Protestant family from Harrow-on-the-Hill, England. Convert to Catholicism. Studied at Douai, France where

@@ -4,6 +4,7 @@ imageAlt: "Vitrail de Saint Romaric, diocèse de Saint-Dié"
 imageCredit: Nominis (French Episcopal Conference)
 imageCreditUrl: https://nominis.cef.fr
 name: Saint Romaric of Remiremont
+stub: false
 honorific: Saint
 summary: >-
   Merovingian noble, Lord of Austrasia, and part of the court of King Clotaire II. Married layman. Converted by Saint

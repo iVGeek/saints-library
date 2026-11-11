@@ -1,5 +1,6 @@
 ---
 name: Saint Sophia
+stub: false
 honorific: Saint
 summary: >-
   Legendary mother of the virgin martyrs Faith, Hope, and Charity. Three days after the death of the daughters, Sophia

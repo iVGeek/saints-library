@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Theodulus of Rome
+stub: false
 honorific: Saint
 summary: Priest in Rome, Italy. Imprisoned, tortured and martyred with Saint Alexander of Rome and Saint Eventius of Rome.
 deathYear: 113

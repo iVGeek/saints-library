@@ -1,5 +1,6 @@
 ---
 name: Blessed Isidoro Primo Rodríguez
+stub: false
 honorific: Blessed
 summary: >-
   Member of the Brothers of the Christian Schools (De La Salle Brothers); he entered the novitiate on 3 August 1898,

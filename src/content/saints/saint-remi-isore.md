@@ -1,5 +1,6 @@
 ---
 name: Saint Rémi Isoré
+stub: false
 honorific: Venerable
 summary: >-
   Eldest son in a pious family. His father taught primary school, one brother became a priest, one sister joined the

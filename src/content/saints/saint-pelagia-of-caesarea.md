@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Pelagia of Caesarea
+stub: true
 honorific: Saint
 summary: Martyred in the persecutions by Julian the Apostate.
 region: England

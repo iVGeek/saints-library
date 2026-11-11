@@ -1,5 +1,6 @@
 ---
 name: Saint Lucius of Chur
+stub: false
 honorific: Saint
 summary: >-
   Second century king or chieftain in the British Isles. Wrote to Pope Saint Eleuterus c.180 to ask for missionaries.

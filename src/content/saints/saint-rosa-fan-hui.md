@@ -1,5 +1,6 @@
 ---
 name: Saint Rosa Fan Hui
+stub: false
 honorific: Venerable
 summary: >-
   Unmarried lay woman. A convert, she took the name Rosa. She served as an active and enthusiastic catechist. When the

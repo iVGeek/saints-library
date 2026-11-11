@@ -1,5 +1,6 @@
 ---
 name: Saint Adalgott of Chur
+stub: false
 honorific: Saint
 summary: >-
   Monk at Clairvaux under the spiritual direction of Saint Bernard. Abbot at Dissentis in Switzerland. Bishop of Chur,

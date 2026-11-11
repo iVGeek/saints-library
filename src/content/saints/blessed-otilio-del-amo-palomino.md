@@ -1,5 +1,6 @@
 ---
 name: Blessed Otilio Del Amo Palomino
+stub: true
 honorific: Blessed
 summary: Claretian cleric. Martyred in the Spanish Civil War.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Otilio-Del-Amo-Palomino.jpg

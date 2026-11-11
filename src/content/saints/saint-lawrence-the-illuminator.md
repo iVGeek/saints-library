@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Lawrence the Illuminator
+stub: false
 honorific: Saint
 summary: >-
   Fled from Syria with 300 Catholic companions to Italy due to Monophysite persecution of Severus in 514. Ordained a

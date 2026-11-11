@@ -1,5 +1,6 @@
 ---
 name: Blessed Marie of the Incarnation
+stub: false
 honorific: Blessed
 summary: >-
   Daughter of a French government official named Nicholas Aurillot. Educated at her aunt's convent at Longchamps. Though

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Zosimus of Syria
+stub: false
 honorific: Saint
 summary: Martyr. Known to Saint John Chrysostom who preached on his feast day. No other information has survived.
 died: date unknown, in Syria, possibly in Antioch

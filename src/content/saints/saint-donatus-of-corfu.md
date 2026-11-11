@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Donatus of Corfu
+stub: false
 honorific: Saint
 summary: In 600 Saint Gregory the Great had the relics of Donatus enshrined on Corfu. No other information has survived.
 region: England

@@ -1,5 +1,6 @@
 ---
 name: Saint Erhard of Regensburg
+stub: false
 honorific: Saint
 title: Missionary
 summary: >-

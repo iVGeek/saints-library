@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Walderic of Murrhardt
+stub: false
 honorific: Saint
 summary: With the help of Louis the Pious, Walderic founded a monastery at Murrhardt, Germany, and served as its first abbot.
 deathYear: 817

@@ -1,5 +1,6 @@
 ---
 name: Saint Dymphna
+stub: false
 honorific: Saint
 summary: >-
   Daughter of a pagan Irish chieftain named Damon, and a beautiful devoted Christian woman whose name has not come down

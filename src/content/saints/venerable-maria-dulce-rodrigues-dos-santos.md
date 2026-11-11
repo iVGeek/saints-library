@@ -1,5 +1,6 @@
 ---
 name: Venerable Maria Dulce Rodrigues dos Santos
+stub: false
 honorific: Venerable
 summary: Founded the Pequenas Missionárias de Maria Imaculada (Little Missionary Sisters of Mary Immaculate).
 searchAliases:

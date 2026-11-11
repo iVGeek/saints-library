@@ -1,5 +1,6 @@
 ---
 name: Saint Agathoclia
+stub: false
 honorific: Saint
 summary: >-
   Christian slave of a non-Christian masters, Nicholas and Paulina. The couple regularly tortured and abused her,

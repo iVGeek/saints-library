@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Gerard of Gallinaro
+stub: true
 honorific: Saint
 summary: English pilgrim.
 region: Italy

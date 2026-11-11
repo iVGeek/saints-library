@@ -1,5 +1,6 @@
 ---
 name: Saint Barbara Cui Lianshi
+stub: false
 honorific: Venerable
 summary: >-
   Married lay woman in the apostolic vicariate of Southeastern Zhili (in modern China). Mother. Imprisoned, tortured and

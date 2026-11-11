@@ -1,5 +1,6 @@
 ---
 name: Anonymous Martyrs of Persia
+stub: false
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Martyrs_and_sufferers_for_the_truth.._%28IA_martyrssufferers00plu%29.pdf/page1-500px-Martyrs_and_sufferers_for_the_truth.._%28IA_martyrssufferers00plu%29.pdf.jpg
 honorific: Saint

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Dominic of Comacchio
+stub: true
 honorific: Saint
 summary: Monk at Comacchio near Venice, Italy.
 deathYear: 820

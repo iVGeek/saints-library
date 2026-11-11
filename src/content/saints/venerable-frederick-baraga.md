@@ -1,5 +1,6 @@
 ---
 name: Venerable Irenej Friderik Baraga
+stub: false
 honorific: Venerable
 summary: >-
   Studied at Ljublajana, Slovenia and Vienna, Austria. Ordained a priest on 21 September 1823. Missionary in the area of

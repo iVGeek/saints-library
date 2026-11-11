@@ -1,5 +1,6 @@
 ---
 name: Saint Veronica Giuliani
+stub: false
 honorific: Saint
 title: St. Veronica Giuliani
 summary: >-

@@ -1,5 +1,6 @@
 ---
 name: Saint John the Physician
+stub: false
 honorific: Saint
 summary: >-
   Arab physician. Friend of Saint Cyrus the Physician. May have been a monk, and certainly lived a lot like one.

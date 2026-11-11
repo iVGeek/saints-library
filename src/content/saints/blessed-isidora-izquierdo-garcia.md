@@ -1,5 +1,6 @@
 ---
 name: Blessed Isidora Izquierdo García
+stub: false
 honorific: Blessed
 summary: >-
   The daughter of Esteban and Felicitas, Isidora was baptized at the age of eight days; she was educated at home, and

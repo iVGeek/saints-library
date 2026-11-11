@@ -1,5 +1,6 @@
 ---
 name: Saint Declan
+stub: false
 honorific: Saint
 title: St. Declan
 summary: >-

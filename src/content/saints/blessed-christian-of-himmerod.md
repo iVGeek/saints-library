@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/2/24/Secret_Society_Buildings_New_Haven.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Christian of Himmerod
+stub: false
 honorific: Blessed
 summary: >-
   Twelfth century Cistercian monk at the Himmerod Abbey in Grosslittgen, Germany. Noted for his humility, spirit of

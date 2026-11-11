@@ -1,5 +1,6 @@
 ---
 name: Blessed Tit Liviu Chinezu
+stub: false
 honorific: Blessed
 summary: >-
   Ordained a priest in the Romanian Greek-Catholic Rite on 31 January 1930. Chosen auxiliary bishop of Fagaras si Alba

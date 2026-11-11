@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Peter Cho Hwa-so
+stub: false
 honorific: Venerable
 summary: >-
   Son of Andrew Cho, who was killed for his faith in 1839. Peter moved to Sinchang, Chungcheong where he assisted the

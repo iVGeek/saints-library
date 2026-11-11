@@ -1,5 +1,6 @@
 ---
 name: Saint Aloysius Gonzaga
+stub: false
 honorific: Saint
 summary: >-
   Born to the Italian nobility who grew up in a castle, the son of Ferdinand Gonzaga, a prince in the Holy Roman Emperor

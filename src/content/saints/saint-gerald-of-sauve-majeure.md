@@ -1,5 +1,6 @@
 ---
 name: Saint Gerald of Sauve-Majeure
+stub: false
 honorific: Saint
 summary: >-
   Educated at the monastery of Corbie, France. Benedictine monk at Corbie. Cellarer. Travelled with his abbot to Monte

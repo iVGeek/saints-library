@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Amoes of Sketis
+stub: false
 honorific: Saint
 title: Hermit
 summary: Fourth century desert hermit in Egypt for decades. Friend of Saint Achillas of Sketis.

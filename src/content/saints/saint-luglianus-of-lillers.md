@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Luglianus of Lillers
+stub: false
 honorific: Saint
 summary: >-
   Brother of Saint Luglius. A lifelong layman, and possible hermit, he is often depicted as a king due to some old

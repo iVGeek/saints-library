@@ -1,5 +1,6 @@
 ---
 name: Saint Ignatius of Constantinople
+stub: false
 honorific: Saint
 summary: >-
   Son of the Byzantine emperor Michael I. Imprisoned for political reasons in a monastery in 813 by Leo the Armenian;

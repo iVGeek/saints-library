@@ -1,6 +1,7 @@
 ---
 image: https://www.catholic.org/files/images/saints/3745.jpg
 name: Saint Hermogenes
+stub: true
 honorific: Saint
 summary: Martyred with 23 companions. No other information has survived.
 died: forced into a swamp to die of cold and exhaustion

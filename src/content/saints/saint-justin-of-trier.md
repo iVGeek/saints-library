@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Justin of Trier
+stub: true
 honorific: Saint
 summary: Martyred with a group of fellow Christians in the persecutions of Diocletian.
 searchAliases:

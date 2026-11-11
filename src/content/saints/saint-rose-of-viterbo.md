@@ -1,5 +1,6 @@
 ---
 name: Saint Rose of Viterbo
+stub: false
 honorific: Saint
 summary: >-
   Franciscan tertiary. At age three she brought a person back from death. Preached in the streets from age ten and led

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/1/15/Saint_Onuphrius_Emmanuel_Tzanes.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Paphnutius of Jerusalem
+stub: true
 honorific: Saint
 summary: Priest in Jerusalem. Martyr.
 died: Jerusalem, date unknown

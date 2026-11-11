@@ -1,5 +1,6 @@
 ---
 name: Saint Hilda of Whitby
+stub: false
 honorific: Saint
 summary: >-
   Daughter of Hereric and Breguswith. Sister of Saint Hereswitha. Grand-niece of King Saint Edwin of Northumbria.

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/f/ff/Saint_luke_kirby.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Lawrence Richardson
+stub: false
 honorific: Blessed
 summary: >-
   Son of Richard Johnson, Lawrence was born to an ancient landed family known for its piety. Educated at Brasenose

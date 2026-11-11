@@ -1,5 +1,6 @@
 ---
 name: Saint Gerland the Bishop
+stub: false
 honorific: Saint
 title: Bishop
 summary: >-

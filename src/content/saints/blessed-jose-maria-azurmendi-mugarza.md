@@ -1,5 +1,6 @@
 ---
 name: Blessed José María Azurmendi Mugarza
+stub: false
 honorific: Blessed
 summary: >-
   Baptized on the day of his birth as it seemed that he and his twin brother, Agapito, might not survive the day. In his

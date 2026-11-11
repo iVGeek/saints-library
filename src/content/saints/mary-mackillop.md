@@ -1,5 +1,6 @@
 ---
 name: Mary MacKillop
+stub: false
 honorific: Saint
 title: Virgin, Religious
 summary: >-

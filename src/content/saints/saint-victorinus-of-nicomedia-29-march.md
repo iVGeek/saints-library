@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Victorinus of Nicomedia
+stub: false
 honorific: Saint
 summary: One of a group of seven Christians who were martyred together in the persecutions of Diocletian.
 feastDay:

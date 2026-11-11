@@ -1,5 +1,6 @@
 ---
 name: Blessed Godfrey of Cappenberg
+stub: false
 honorific: Blessed
 summary: >-
   Descendant of Charlemagne through his father, of the dukes of Swabia through his mother. Wealthy count in Westphalia

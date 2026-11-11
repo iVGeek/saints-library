@@ -1,5 +1,6 @@
 ---
 name: Saint Ebbe the Younger
+stub: false
 honorific: Saint
 summary: >-
   Abbess at Coldingham, Berwickshire, Scotland, a double monastery that had been founded by Saint Ebbe the Elder, and

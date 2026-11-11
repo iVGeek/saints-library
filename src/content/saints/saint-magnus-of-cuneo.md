@@ -1,5 +1,6 @@
 ---
 name: Saint Magnus of Cuneo
+stub: false
 honorific: Saint
 summary: >-
   One of the soldiers in the Theban Legion who survived their massacre. He fled to the mountains of the Piedmont region,

@@ -1,5 +1,6 @@
 ---
 name: Saint Glaphyra
+stub: false
 honorific: Saint
 summary: >-
   A slave, belonging to Constantia, the wife of the emperor Licinius. To safeguard her vow of chastity, she ran to Saint

@@ -1,5 +1,6 @@
 ---
 name: Saint James of Valencia
+stub: false
 honorific: Saint
 summary: >-
   Joined the Mercedarians at age 27 at El Puig, Spain. Noted for a austere personal life and ministry to the poor. Sent

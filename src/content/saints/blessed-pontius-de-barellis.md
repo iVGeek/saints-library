@@ -1,5 +1,6 @@
 ---
 name: Blessed Pontius de Barellis
+stub: true
 honorific: Blessed
 summary: Mercedarian friar. Theologian and teacher of theology.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Pontius-de-Barellis.jpg

@@ -1,5 +1,6 @@
 ---
 name: Blessed Ludovic Frarijn
+stub: true
 honorific: Blessed
 summary: Dominican priest. Martyr.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Ludovic-Frarijn.jpg

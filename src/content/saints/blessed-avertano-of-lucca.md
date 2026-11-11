@@ -1,5 +1,6 @@
 ---
 name: Blessed Avertano of Lucca
+stub: false
 honorific: Blessed
 summary: >-
   Carmelite lay brother. Miracle worker who received visions, and was known for his deep, mystical prayer life. With a

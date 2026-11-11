@@ -1,5 +1,6 @@
 ---
 name: Saint Andrea of Constantinople
+stub: false
 image: >-
   https://commons.wikimedia.org/wiki/Special:FilePath/Protection_de_la_Mere_de_Dieu_Ecole_de_Novgorod_Moscou%252C_Galerie_Tretiakov.jpg?width=600
 honorific: Saint

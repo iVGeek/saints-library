@@ -1,5 +1,6 @@
 ---
 name: Saint Aaron of Pais-de-Laon
+stub: true
 honorific: Saint
 summary: Martyred with in the persecutions of Diocletian.
 deathYear: 303

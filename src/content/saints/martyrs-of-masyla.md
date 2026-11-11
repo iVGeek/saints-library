@@ -1,5 +1,6 @@
 ---
 name: Martyrs of Masyla
+stub: true
 honorific: Saint
 summary: Group of Christians martyred in Masyla in northwest Africa.
 searchAliases:

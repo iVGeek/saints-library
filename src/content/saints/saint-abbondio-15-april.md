@@ -1,5 +1,6 @@
 ---
 name: Saint Abbondio
+stub: false
 honorific: Saint
 summary: >-
   Described by Saint Gregory the Great, who wrote about him in the Dialogues, as a man of great humility and diginity in

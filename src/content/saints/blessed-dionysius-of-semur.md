@@ -1,5 +1,6 @@
 ---
 name: Blessed Dionysius of Semur
+stub: false
 honorific: Blessed
 summary: >-
   Mercedarian professor of theology. In 1534 he made a journey to Algiers to ransom 109 Christians enslaved by Muslims.

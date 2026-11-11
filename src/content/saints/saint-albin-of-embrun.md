@@ -1,5 +1,6 @@
 ---
 name: Saint Albin of Embrun
+stub: false
 honorific: Saint
 title: Bishop
 summary: >-

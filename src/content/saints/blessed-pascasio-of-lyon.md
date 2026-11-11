@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Pascasio of Lyon
+stub: true
 honorific: Blessed
 title: Bishop
 summary: Mercedarian friar. Bishop of Lycaonia, Asia Minor.

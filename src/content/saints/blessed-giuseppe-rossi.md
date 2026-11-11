@@ -1,5 +1,6 @@
 ---
 name: Blessed Giuseppe Rossi
+stub: false
 honorific: Blessed
 summary: >-
   Born the second son of a poor family. After studying at the seminary in the diocese of Novara, Italy, Giuseppe was

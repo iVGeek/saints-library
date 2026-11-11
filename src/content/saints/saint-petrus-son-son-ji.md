@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Petrus Son Son-Ji
+stub: true
 honorific: Venerable
 summary: Married layman in the apostolic vicariate of Korea. Catechist. Martyr.
 searchAliases:

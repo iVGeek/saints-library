@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Maximus of Jerusalem
+stub: false
 honorific: Saint
 summary: >-
   For publicly declaring his Christianity, Maximus was branded on the foot, blinded in one eye, and sentenced to forced

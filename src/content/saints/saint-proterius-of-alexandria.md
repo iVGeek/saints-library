@@ -1,5 +1,6 @@
 ---
 name: Saint Proterius of Alexandria
+stub: false
 honorific: Saint
 summary: >-
   Ordained by Saint Cyril, Patriarch of Alexandria. Leader of the orthodox Christians in Alexandria. Appointed

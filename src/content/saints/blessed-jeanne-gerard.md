@@ -1,5 +1,6 @@
 ---
 name: Blessed Jeanne Gérard
+stub: false
 honorific: Blessed
 summary: >-
   Nun in the Daughters of Charity of Saint Vincent de Paul at Arras, France. Imprisoned in 1792 and executed two years

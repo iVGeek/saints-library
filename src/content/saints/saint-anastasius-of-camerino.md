@@ -1,5 +1,6 @@
 ---
 name: Saint Anastasius of Camerino
+stub: false
 honorific: Saint
 summary: >-
   Tribune in the imperial Roman army in the reign of Emperor Decius; corniculario, a sort of justice of the peace.

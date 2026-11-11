@@ -1,5 +1,6 @@
 ---
 name: Blessed Angelina di Marsciano
+stub: false
 honorific: Blessed
 summary: >-
   Born to the Italian nobility, the daughter of the Duke of Marciano, and Anna, daughter of the Count of Corbara; her

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Domnina of Terni
+stub: true
 honorific: Saint
 summary: Consecrated virgin martyr.
 deathYear: 200

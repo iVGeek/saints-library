@@ -1,5 +1,6 @@
 ---
 name: Saint Leutfridus of La-Croix
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility of Évreux, France. Brother of Saint Agofredus. Studied at Condat and Chartres in France. Teacher

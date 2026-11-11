@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Vincentian of Tulle
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility, Vincentian was drawn to religious life, and became known for his charity and piety. Spiritual

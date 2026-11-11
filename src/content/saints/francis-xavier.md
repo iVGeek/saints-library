@@ -1,5 +1,6 @@
 ---
 name: Francis Xavier
+stub: false
 honorific: Saint
 title: Priest, Missionary
 summary: >-

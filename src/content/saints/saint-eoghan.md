@@ -1,5 +1,6 @@
 ---
 name: Saint Éoghan of Ardstraw
+stub: false
 honorific: Saint
 summary: >-
   As a boy he was captured and enslaved by pirates, first to Britain, then to Brittany. Friend of Saint Tighernach. As

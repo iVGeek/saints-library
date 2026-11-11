@@ -1,5 +1,6 @@
 ---
 name: Blessed Dominic Vernagalli
+stub: false
 honorific: Blessed
 summary: >-
   Born to a wealthy family, Dominic was early drawn to religious and monastic life. He joined the Camaldolese Hermits of

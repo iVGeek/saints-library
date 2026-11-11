@@ -1,5 +1,6 @@
 ---
 name: Blessed Guillermo Sanz
+stub: false
 honorific: Blessed
 summary: >-
   Commander of the Mercedarians in Valencia, Spain. Imprisoned by invading Muslim Moors, then sent to live as a slave in

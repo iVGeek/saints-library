@@ -1,6 +1,7 @@
 ---
 image: https://www.santiebeati.it/immagini/Thumbs/94256/94256.JPG
 name: Blessed Lupo de Paredes
+stub: false
 honorific: Blessed
 summary: >-
   Joined the Mercedarians at age 34, and served for the next 80 (!) years at the convent of Santa Maria in Logrono,

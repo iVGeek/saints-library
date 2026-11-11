@@ -1,5 +1,6 @@
 ---
 name: Saint Alexander of Soli
+stub: true
 honorific: Saint
 summary: Martyr.
 region: England

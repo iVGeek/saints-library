@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/9/93/St_Mary%27s_Cathedral%2C_Wellington.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Joseph Lambton
+stub: false
 honorific: Blessed
 summary: >-
   Second son of Thomas Lambton of Malton-in-Rydall, Yorkshire, England, and Katharine, daughter of Robert Birkhead of

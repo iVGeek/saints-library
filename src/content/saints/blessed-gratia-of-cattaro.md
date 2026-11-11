@@ -1,5 +1,6 @@
 ---
 name: Blessed Gratia of Cattaro
+stub: false
 honorific: Blessed
 summary: >-
   Son of a poor fisherman. Adriatic fisherman and farmer in his youth. Sailor. In 1468, while on a trip to Venice, Italy

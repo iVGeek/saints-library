@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/5/53/NMSMonymuskReliquary2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Marnock
+stub: false
 honorific: Saint
 summary: Spiritual student of Saint Columba an Iona Abbey. Bishop. Kilmarnock, Scotland is named for him.
 searchAliases:

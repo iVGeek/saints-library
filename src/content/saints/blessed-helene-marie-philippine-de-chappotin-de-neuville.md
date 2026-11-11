@@ -1,5 +1,6 @@
 ---
 name: Blessed Hélène-Marie-Philippine de Chappotin de Neuville
+stub: false
 honorific: Blessed
 summary: >-
   The death of two sisters and a cousin led Hélène to look for meaning in life, which led to her discerning a call to

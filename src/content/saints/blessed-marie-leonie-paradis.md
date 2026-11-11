@@ -1,5 +1,6 @@
 ---
 name: Blessed Marie-Léonie Paradis
+stub: false
 honorific: Blessed
 summary: >-
   Born to a poor but pious family. Educated by the Sisters of Notre Dame. Joined the Marianite Sisters of the

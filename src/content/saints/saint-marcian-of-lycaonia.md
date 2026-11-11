@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Marcian of Lycaonia
+stub: false
 honorific: Saint
 summary: >-
   Young Christian man who publicly proclaimed his faith during persections led by governor Perennio; it led to his

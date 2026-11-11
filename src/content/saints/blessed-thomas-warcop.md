@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/8/8a/One-hundred-and-seven-martyrs-of-england-and-wales.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Thomas Warcop
+stub: false
 honorific: Blessed
 summary: >-
   Landed gentleman in Yorkshire, England. Arrested and executed for the crime of giving shelter to Blessed William

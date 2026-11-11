@@ -1,5 +1,6 @@
 ---
 name: Saint Alexander of Constantinople
+stub: false
 honorific: Saint
 summary: >-
   Soldier in the imperial Roman army. In the persecutions of Maximian, he changed clothes and places with Saint Antonina

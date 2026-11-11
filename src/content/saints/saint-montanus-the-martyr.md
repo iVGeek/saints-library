@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/8/8e/Montanus1669_martyrs_233.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 name: Saint Montanus the Martyr
+stub: true
 honorific: Saint
 summary: Priest. Married to and martyred with Saint Maxima the Martyr.
 searchAliases:

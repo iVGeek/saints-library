@@ -1,5 +1,6 @@
 ---
 name: Blessed Maria Asuncion
+stub: false
 honorific: Blessed
 summary: >-
   Daughter of Anacleto González and María del Rosario Trujillano, Juliana was baptized at the age of 11 days. Tertiary

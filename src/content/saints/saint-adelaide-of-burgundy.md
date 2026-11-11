@@ -1,5 +1,6 @@
 ---
 name: Saint Adelaide of Burgundy
+stub: false
 honorific: Saint
 summary: >-
   Born a princess, the daughter of King Rudolf II (Rupert II) of Upper Burgundy. Promised at age two in an arranged

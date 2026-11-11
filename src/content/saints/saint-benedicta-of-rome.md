@@ -1,5 +1,6 @@
 ---
 name: Saint Benedicta of Rome
+stub: false
 honorific: Saint
 summary: >-
   Nun in 6th century Rome, Italy. Friend of Saint Galla who had founded their monastery. She received a vision of Saint

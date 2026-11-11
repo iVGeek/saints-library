@@ -1,5 +1,6 @@
 ---
 name: Saint Arnulf of Soissons
+stub: false
 honorific: Saint
 summary: >-
   French nobleman. Distinguished career soldier under King Robert and King Henry I. Benedictine monk at the monastery of

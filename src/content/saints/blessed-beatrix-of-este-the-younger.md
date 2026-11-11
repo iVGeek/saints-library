@@ -1,5 +1,6 @@
 ---
 name: Blessed Beatrix of Este the Younger
+stub: false
 honorific: Blessed
 summary: >-
   Born to the family of the Norman dukes of Apulia, Italy. Daughter of the Marques of Ferrara, Italy. Niece of Blessed

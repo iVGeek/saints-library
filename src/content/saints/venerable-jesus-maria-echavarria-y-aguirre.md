@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Venerable Jesús María Echavarría y Aguirre
+stub: false
 honorific: Venerable
 summary: >-
   Priest, ordained on 18 October 1886 in the diocese of Sinaloa, Mexico. Taught and served as rector of his seminary.

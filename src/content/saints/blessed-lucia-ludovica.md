@@ -1,5 +1,6 @@
 ---
 name: Blessed Lucia Ludovica
+stub: false
 honorific: Blessed
 summary: >-
   Married lay woman in the archdiocese of Nagasaki, Japan. Member of the Lay Domincans and Secular Franciscans. Arrested

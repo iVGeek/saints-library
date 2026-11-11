@@ -1,5 +1,6 @@
 ---
 name: Saint Telemachus
+stub: false
 honorific: Saint
 summary: >-
   Hermit or monk from the eastern part of the Roman empire. He protested in Rome against gladiatorial combat, and was

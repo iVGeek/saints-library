@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Cunegund of Regensburg
+stub: true
 honorific: Saint
 summary: Nun at Niedermunster convent in Ratisbon, Germany.
 deathYear: 1052

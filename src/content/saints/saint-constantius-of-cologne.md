@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Constantius of Cologne
+stub: true
 honorific: Saint
 summary: Martyr.
 died: Rome, Italy, date unknown

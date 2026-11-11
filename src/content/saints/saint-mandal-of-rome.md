@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/d/d2/Juan_de_Borb%C3%B3n_portrait_%28NL-HaNA_2.24.01.09_0_901-4072_%E2%80%93_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Mandal of Rome
+stub: true
 honorific: Saint
 summary: One of a group of 23 martyrs who died together in the persecutions of Aurelian.
 searchAliases:

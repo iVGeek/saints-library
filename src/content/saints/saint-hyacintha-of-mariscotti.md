@@ -1,5 +1,6 @@
 ---
 name: Saint Hyacintha of Mariscotti
+stub: false
 honorific: Saint
 summary: >-
   Born to the Italian nobility. Educated in a Franciscan convent. Franciscan tertiary at Saint Bernardine's convent in

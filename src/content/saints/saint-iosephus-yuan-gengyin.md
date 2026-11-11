@@ -1,5 +1,6 @@
 ---
 name: Saint Iosephus Yuan Gengyin
+stub: false
 honorific: Venerable
 summary: >-
   Layman merchant in the apostolic vicariate of Southeastern Zhili, China. Seized by followers of the Yihetuan movement

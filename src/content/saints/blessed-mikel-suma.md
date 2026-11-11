@@ -1,5 +1,6 @@
 ---
 name: Blessed Mikel Suma
+stub: false
 honorific: Blessed
 summary: >-
   Studied philosphy and theology in Shkodrë, Albania, the Austrian cities of Vienna, Grac and Lankowitz, and in Genoa,

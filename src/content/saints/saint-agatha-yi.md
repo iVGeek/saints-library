@@ -1,5 +1,6 @@
 ---
 name: Saint Agatha Yi
+stub: true
 honorific: Venerable
 summary: Young single lay woman martyred in the persecutions in Korea.
 image: https://catholicsaints.info/wp-content/uploads/img-Maryrs-of-Korea.jpg

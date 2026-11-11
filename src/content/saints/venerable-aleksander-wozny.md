@@ -1,5 +1,6 @@
 ---
 name: Venerable Aleksander Wozny
+stub: false
 honorific: Venerable
 summary: >-
   Ordained a priest of the archdiocese of Poznan, Poland on 10 June 1933. During World War II he was imprisoned in the

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Manuel Olay Colunga
+stub: false
 honorific: Blessed
 summary: Seminarian of the archdiocese of Oviedo, Spain. Martyred in the Spanish Civil War.
 birthYear: 1911

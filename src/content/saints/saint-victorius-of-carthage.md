@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Victorius of Carthage
+stub: false
 honorific: Saint
 summary: >-
   Priest. Disciple of Saint Cyprian of Carthage. When revolt erupted in Carthage in 259, during a period of persecution

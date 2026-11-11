@@ -1,5 +1,6 @@
 ---
 name: Saint Adauctus of Rome
+stub: false
 honorific: Saint
 summary: >-
   As Saint Felix of Rome was being dragged to his martyrdom, Adauctus, a bystander, was moved to proclaim his own faith.

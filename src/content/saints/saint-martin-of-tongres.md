@@ -1,5 +1,6 @@
 ---
 name: Saint Martin of Tongres
+stub: false
 honorific: Saint
 summary: Bishop of Tongres in modern Belgium. Apostle of the Hesbaye district, in Brabant.
 region: Belgium

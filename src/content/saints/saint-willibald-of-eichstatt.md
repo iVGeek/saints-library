@@ -1,5 +1,6 @@
 ---
 name: Saint Willibald of Eichstätt
+stub: false
 honorific: Saint
 summary: >-
   Born a prince, the son of Saint Richard the King. Brother of Saint Winnebald of Heidenheim and Saint Walburga. Related

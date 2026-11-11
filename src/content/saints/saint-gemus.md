@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Gemus
+stub: true
 honorific: Saint
 summary: Monk, probably at Moyenmoutier in the Alsace (part of modern France).
 died: relics at Horbach, Germany

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Chrodobald of Marchiennes
+stub: false
 honorific: Saint
 summary: >-
   Spiritual student of Saint Amandus of Belgium. Benedictine monk at the monastery of Elnone (modern

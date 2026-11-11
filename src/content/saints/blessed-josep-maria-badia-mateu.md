@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Josep Maria Badía Mateu
+stub: true
 honorific: Blessed
 summary: Claretian priest. Martyred in the Spanish Civil War.
 birthYear: 1912

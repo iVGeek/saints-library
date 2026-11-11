@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/9/9c/ADAMELLO_-_PAPA_-_Giovanni_Paolo_II_-_panoramio_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Cipriano Polo García
+stub: true
 honorific: Blessed
 summary: Augustinian priest. Martyred in the Spanish Civil War.
 birthYear: 1880

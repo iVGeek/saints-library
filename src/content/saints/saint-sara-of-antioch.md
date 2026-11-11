@@ -1,5 +1,6 @@
 ---
 name: Saint Sara of Antioch
+stub: false
 honorific: Saint
 summary: >-
   Born to a wealthy Imperial Roman family. Married to a Roman army officer. Publicly exposed as a Christian when she

@@ -1,5 +1,6 @@
 ---
 name: Saint Pezenne
+stub: false
 honorific: Saint
 summary: >-
   Pezenne fled to France from Spain during the persecutions of Diocletian in the early 4th century. In the area of

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Restituta of Sora
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility. During the persecutions of Aurelian, Restituta and several Christian companions fled to Sora,

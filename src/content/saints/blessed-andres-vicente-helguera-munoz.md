@@ -1,5 +1,6 @@
 ---
 name: Blessed Andrés Vicente Helguera Muñoz
+stub: false
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/California_Digital_Library_%28IA_bibliothecahispa00trrich%29.pdf/page1-500px-California_Digital_Library_%28IA_bibliothecahispa00trrich%29.pdf.jpg
 honorific: Blessed

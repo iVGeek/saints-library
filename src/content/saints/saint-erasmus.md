@@ -1,5 +1,6 @@
 ---
 name: Saint Erasmus of Formiae
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Formiae, Campagna, Italy. He fled to Mount Lebanon in the persecutions of emperor Diocletian where he was

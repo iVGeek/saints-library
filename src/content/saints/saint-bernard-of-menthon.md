@@ -1,5 +1,6 @@
 ---
 name: Saint Bernard of Menthon
+stub: false
 honorific: Saint
 summary: >-
   Born to the French nobility. Priest. Archdeacon of Aosta in 996. Evangelized the people of the Alps for over 40 years.

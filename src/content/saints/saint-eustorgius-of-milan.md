@@ -1,5 +1,6 @@
 ---
 name: Saint Eustorgius of Milan
+stub: true
 honorific: Saint
 summary: Bishop of Milan, Italy in 315. Noted opponent of Arianism.
 image: https://catholicsaints.info/wp-content/uploads/Sant_Eustorgio_di_Milano.jpg

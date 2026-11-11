@@ -1,5 +1,6 @@
 ---
 name: Saint Fort of Bordeaux
+stub: false
 honorific: Saint
 summary: >-
   First bishop of Bordeaux, France, serving in the early 4th century. Participated in the Council of Arles in 314.

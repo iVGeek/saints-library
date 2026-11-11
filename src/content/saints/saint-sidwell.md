@@ -1,5 +1,6 @@
 ---
 name: Saint Sidwell
+stub: false
 honorific: Saint
 summary: >-
   Sister of Saint Urith and Saint Juthwara. Virgin-martyr, murdered by reapers at the instigation of the girl's

@@ -1,5 +1,6 @@
 ---
 name: Saint Richard of Chichester
+stub: false
 honorific: Saint
 summary: >-
   Second son of Richard and Alice de Wych. His father died when the boy was young. The family fell upon hard times, but

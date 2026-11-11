@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Tottone of Ottobeuren
+stub: false
 honorific: Blessed
 summary: >-
   Born to the nobility, the son of Silach and Ermenswinth who donated a manor to be used as a monastery. Benedictine

@@ -1,5 +1,6 @@
 ---
 name: Blessed Notburga
+stub: true
 honorific: Blessed
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/6/6e/Bled_-_cerkev_Marijinega_vnebovzetja_%28sveta_Notburga%2C_medaljon%29.jpg

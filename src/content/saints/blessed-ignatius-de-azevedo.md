@@ -1,5 +1,6 @@
 ---
 name: Blessed Ignatius de Azevedo
+stub: false
 honorific: Blessed
 summary: >-
   Joined the Jesuits at Coimbra, Portugal on 28 December 1548. Priest. Rector of the Jesuit college at Lisbon, Portugal.

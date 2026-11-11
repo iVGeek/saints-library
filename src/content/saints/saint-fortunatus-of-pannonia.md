@@ -1,5 +1,6 @@
 ---
 name: Saint Fortunatus of Pannonia
+stub: true
 honorific: Saint
 summary: Fourth century martyr. No other information has survived.
 feastDay:

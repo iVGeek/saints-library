@@ -1,5 +1,6 @@
 ---
 name: Venerable Felice Rossini
+stub: false
 honorific: Venerable
 summary: >-
   Baptized at the age of one day. Educated by Capuchins, he joined them at the convent of Lovere, Italy on 23 June 1891,

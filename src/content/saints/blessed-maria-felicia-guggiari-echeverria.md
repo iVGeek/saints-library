@@ -1,5 +1,6 @@
 ---
 name: Blessed María Felicia Guggiari Echeverria
+stub: false
 honorific: Blessed
 summary: >-
   Eldest of seven children born to Ramón Guggiari and María Arminda Echeverría, she was baptized on 28 February 1929,

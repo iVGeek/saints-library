@@ -1,5 +1,6 @@
 ---
 name: Blessed Margaret Pole
+stub: false
 honorific: Blessed
 summary: >-
   Daughter of the Duke of Clarence. Niece of King Edward IV and King Richard III of England. Married Sir Richard Pole in

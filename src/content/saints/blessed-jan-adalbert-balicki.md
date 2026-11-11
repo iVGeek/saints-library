@@ -1,5 +1,6 @@
 ---
 name: Blessed Jan Adalbert Balicki
+stub: true
 honorific: Blessed
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Jan-Adalbert-Balicki.jpg
 searchAliases:

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/f/f8/Edmundus_Campion.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Edmund of Scotland
+stub: false
 honorific: Blessed
 summary: >-
   Born a prince, the son of Saint Margaret of Scotland and King Malcoem Ceanmore. Soldier, fighting beside his maternal

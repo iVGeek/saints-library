@@ -1,5 +1,6 @@
 ---
 name: Saint Henry Walpole
+stub: false
 honorific: Venerable
 summary: >-
   Educated at Norwich, Cambridge and Gray's Inn, London, England. Adult convert to Catholicism. Studied for the

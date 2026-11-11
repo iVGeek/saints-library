@@ -1,5 +1,6 @@
 ---
 name: Saint Epimachus of Melusio
+stub: false
 honorific: Saint
 summary: >-
   When, during the persecutions of Decius, he saw Christians forced to sacrifice to idols, Epimachus attacked the pagan

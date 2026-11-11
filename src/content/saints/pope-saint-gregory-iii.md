@@ -1,5 +1,6 @@
 ---
 name: Pope Saint Gregory III
+stub: false
 honorific: Saint
 summary: >-
   Priest at Saint Crisogono Church in Rome, Italy; except that his father's name was John, nothing else is known about

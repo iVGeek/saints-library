@@ -1,5 +1,6 @@
 ---
 name: Blessed Mancius Yukimoto Ichizaemon
+stub: false
 honorific: Blessed
 summary: Layman in the archdiocese of Nagasaki, Japan. Member of the Lay Augustinians. Martyr.
 image: https://catholicsaints.info/wp-content/uploads/img-Augustinian-Martyrs-of-Japan.jpg

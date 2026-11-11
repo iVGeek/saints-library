@@ -1,6 +1,7 @@
 ---
 image: https://www.catholic.org/files/images/saints/3366.jpg
 name: Saint Finian Lobhar
+stub: false
 honorific: Saint
 summary: >-
   Disciple of Saint Columba. Founded a church and monastery at Innisfallen, Ireland. Monk at Clonmore, Ireland. Abbot of

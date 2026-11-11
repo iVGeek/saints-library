@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/0/06/Blessed-william-filby.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed William Filby
+stub: false
 honorific: Blessed
 summary: >-
   Educated at Lincoln College, Oxford, England. Seminarian at Rheims, France beginning on 12 October 1579. Ordained on

@@ -1,5 +1,6 @@
 ---
 name: Blessed Antoni Perulles Estivill
+stub: false
 honorific: Blessed
 summary: >-
   Studied at the College of Saint Joseph in Tortosa, Spain. Priest, ordained in Burgos, Spain. Began work in the

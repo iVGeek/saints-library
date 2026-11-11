@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Sicharia of Orléans
+stub: true
 honorific: Saint
 summary: Fifth century nun whose story has not survived.
 searchAliases:

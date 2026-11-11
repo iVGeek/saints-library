@@ -1,5 +1,6 @@
 ---
 name: Saint Anselm of Canterbury
+stub: false
 honorific: Saint
 summary: >-
   Born to the Italian nobility. After a childhood devoted to piety and study, at age 15 Anselm wanted to enter religious

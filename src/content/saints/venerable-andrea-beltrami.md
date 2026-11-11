@@ -1,5 +1,6 @@
 ---
 name: Venerable Andrea Beltrami
+stub: true
 honorific: Venerable
 summary: Salesian priest. Friend of and seminarian with Blessed August Czartoryski.
 image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Andreas-Beltrami.jpg

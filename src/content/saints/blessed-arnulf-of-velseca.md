@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Arnulf of Velseca
+stub: false
 honorific: Blessed
 summary: >-
   Premonstratensian monk. Lector at the Saint Cornelius monastery in Ninove in modern Belgium. Worked as a shoemaker at

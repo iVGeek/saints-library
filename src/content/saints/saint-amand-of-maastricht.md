@@ -1,5 +1,6 @@
 ---
 name: Saint Amand of Maastricht
+stub: false
 honorific: Saint
 summary: >-
   Lived some time as a hermit, then became a monk at age 20 at the Abbey of Saint Martin at Tours, France. When he took

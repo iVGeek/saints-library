@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/3/38/Vierzehnheiligen_Fassade.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Anthony of Ilbenstadt
+stub: false
 honorific: Blessed
 summary: >-
   Anthony heard Saint Norbert of Xanten preach in Nivelles, Belgium c.1120, and was so impressed that he gave away

@@ -1,5 +1,6 @@
 ---
 name: Saint Germanus of Man
+stub: false
 honorific: Saint
 summary: >-
   Nephew of Saint Patrick. Missionary monk in Ireland, Wales and Brittany. Bishop on the Isle of Man where several

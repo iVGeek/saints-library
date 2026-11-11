@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Blitharius of Seganne
+stub: false
 honorific: Saint
 summary: >-
   Evangelizing priest in Gaul, working with Saint Fursey of Peronne. In the early 640's, he settled in Sézanne,

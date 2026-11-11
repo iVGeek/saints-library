@@ -1,5 +1,6 @@
 ---
 name: Saint Giovanni Battista Rossi
+stub: false
 honorific: Saint
 summary: >-
   One of four children born to Charles de Rossi and Frances Anfossi. Taken by a wealthy noble couple to Genoa, Italy for

@@ -1,5 +1,6 @@
 ---
 name: Blessed Pontius of Faucigny
+stub: false
 honorific: Blessed
 summary: >-
   Born to the nobility of the Savoy region (in modern France). Monk at the Canonici Regolari di Abondance abbey as a

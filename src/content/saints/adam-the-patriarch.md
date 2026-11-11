@@ -1,5 +1,6 @@
 ---
 name: Adam the Patriarch
+stub: false
 honorific: Saint
 summary: >-
   First human being. Lived in the Garden of Eden until expelled by God. Married to Eve. Father of Cain, Abel, Seth and

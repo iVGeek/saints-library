@@ -1,5 +1,6 @@
 ---
 name: Saint Plechelm of Guelderland
+stub: false
 honorific: Saint
 summary: >-
   Benedictine monk. Priest. Pilgrim to Rome, Italy with Saint Wiro and Saint Otger. Regional missionary bishop to

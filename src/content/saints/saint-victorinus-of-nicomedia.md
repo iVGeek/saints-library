@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Victorinus of Nicomedia
+stub: true
 honorific: Saint
 summary: Martyr. No other information has survived.
 died: at Nicomedia, Bithynia, Asia Minor (modern Izmit, Turkey)

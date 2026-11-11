@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Curonotus of Iconium
+stub: false
 honorific: Saint
 summary: >-
   Priest. Bishop of Iconium, Asia Minor. Imprisoned, dragged through the streets and executed in the persecutions of

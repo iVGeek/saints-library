@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Ruidche
+stub: true
 honorific: Saint
 summary: Nun.
 born: 9th century Ireland

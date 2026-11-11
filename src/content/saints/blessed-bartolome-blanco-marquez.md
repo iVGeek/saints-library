@@ -1,5 +1,6 @@
 ---
 name: Blessed Bartolomé Blanco Márquez
+stub: false
 honorific: Blessed
 summary: >-
   Young layman in the diocese of Córdoba, Spain. His mother died with the boy was three, his father when Bartolome was

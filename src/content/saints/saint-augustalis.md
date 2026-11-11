@@ -1,5 +1,6 @@
 ---
 name: Saint Augustalis
+stub: true
 honorific: Saint
 summary: Bishop in Gaul, possibly in Arles.
 searchAliases:

@@ -1,5 +1,6 @@
 ---
 name: Saint Valerius of Saragossa
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Zaragoza, Spain from 290 to 315. Attended the Council of Iliberis. Imprisoned and then exiled during the

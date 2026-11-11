@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/5/52/Beatification_of_John_Paul_II_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Klara Schramm
+stub: false
 honorific: Blessed
 summary: >-
   A member of the Sisters of Saint Elizabeth, making her first profession on 16 August 1915 and her perpetual profession

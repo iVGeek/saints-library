@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Matthias Shobara Ichizaemon
+stub: true
 honorific: Blessed
 summary: Layman in the diocese of Hiroshima, Japan. Martyr.
 birthYear: 1587

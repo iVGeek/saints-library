@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Sophia of Egypt
+stub: true
 honorific: Saint
 summary: Martyr.
 deathYear: 200

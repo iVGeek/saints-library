@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/0/03/Saint_Paul%27s_Church_in_Hammersmith.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Richard Langley
+stub: false
 honorific: Blessed
 summary: >-
   Member of the English gentry and lifelong layman. Condemned for travelling with Blessed Robert Morton, and for paying

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Arnold of Gemblours
+stub: false
 honorific: Blessed
 summary: Benedictine monk at Saint-Nicaise Abbey, Rheims, France. Abbot of Gemblours Abbey in Belgium.
 deathYear: 1155

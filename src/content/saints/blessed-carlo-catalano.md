@@ -1,5 +1,6 @@
 ---
 name: Blessed Carlo Catalano
+stub: false
 honorific: Blessed
 summary: >-
   Mercedarian friar. Following a prophecy he was given about the coming of the statue name Santa Maria di Bonaria, in

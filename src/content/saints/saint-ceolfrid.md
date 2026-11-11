@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Ceolfrid
+stub: false
 honorific: Saint
 summary: >-
   Saxon Northumbrian noble. Benedictine monk at Gilling, North Yorkshire, then at Ripon, England where he served as

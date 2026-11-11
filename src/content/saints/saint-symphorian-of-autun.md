@@ -1,5 +1,6 @@
 ---
 name: Saint Symphorian of Autun
+stub: false
 honorific: Saint
 summary: >-
   Born to the imperial Roman nobility, the son of Senator Faustus and Blessed Augusta. Covert Christian. As a young man

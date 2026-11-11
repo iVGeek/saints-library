@@ -1,5 +1,6 @@
 ---
 name: Blessed Ambrose of Massa
+stub: false
 honorific: Blessed
 title: Priest
 summary: >-

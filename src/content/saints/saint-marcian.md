@@ -1,5 +1,6 @@
 ---
 name: Saint Marcian
+stub: false
 honorific: Saint
 summary: Possible devil worshipper who converted to Christianity and was martyred in the persecutions of Decius.
 deathYear: 250

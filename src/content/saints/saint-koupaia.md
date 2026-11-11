@@ -1,5 +1,6 @@
 ---
 name: Saint Koupaïa
+stub: false
 honorific: Saint
 summary: >-
   Born a princess, the daughter of King Eusebius and Saint Landouenne, and learned her faith at her mother's knee. She

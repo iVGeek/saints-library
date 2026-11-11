@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Maria of Aquileia
+stub: true
 honorific: Saint
 summary: Martyr.
 deathYear: 100

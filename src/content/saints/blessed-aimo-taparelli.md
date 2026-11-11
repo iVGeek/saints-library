@@ -1,5 +1,6 @@
 ---
 name: Blessed Aimo Taparelli
+stub: false
 honorific: Blessed
 summary: >-
   Born to the Italian nobility, the family of the Counts of Lagnasco. Aimo felt a call to religious life in his youth,

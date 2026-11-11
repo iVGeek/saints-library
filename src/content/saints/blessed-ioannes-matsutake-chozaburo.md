@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Ioannes Matsutake Chozaburo
+stub: true
 honorific: Blessed
 summary: Layman of the archdiocese of Nagasaki, Japan. Martyr.
 birthYear: 1589

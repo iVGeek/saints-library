@@ -1,5 +1,6 @@
 ---
 name: Blessed Katarzyna Faron
+stub: false
 honorific: Blessed
 summary: >-
   Orphaned at age five, Katarzyna was raised by childless relatives. Entered the Congregation of the Sisters Servants of

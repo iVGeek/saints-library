@@ -1,5 +1,6 @@
 ---
 name: Blessed Otto of Heidelberg
+stub: false
 honorific: Blessed
 summary: >-
   Brother of Blessed Herman of Heidelberg. Benedictine monk and priest at the monastery of Niederaltaich, Bavaria

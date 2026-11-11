@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Arcontius of Brioude
+stub: true
 honorific: Saint
 summary: Fourth-century confessor in Brioude, France.
 searchAliases:

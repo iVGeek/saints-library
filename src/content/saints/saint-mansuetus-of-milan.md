@@ -1,5 +1,6 @@
 ---
 name: Saint Mansuetus of Milan
+stub: false
 honorific: Saint
 summary: >-
   Born to the Italian nobility. Archbishop of Milan, Italy c.672. He revitalized the faith in his diocese, and wrote a

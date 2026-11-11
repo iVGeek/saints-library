@@ -1,5 +1,6 @@
 ---
 name: Rose of Lima
+stub: false
 honorific: Saint
 title: Virgin, Religious
 image: https://commons.wikimedia.org/wiki/Special:FilePath/Sta_Rosa_de_Lima_por_Claudio_Coello.jpg?width=600

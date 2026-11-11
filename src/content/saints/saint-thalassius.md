@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Thalassius
+stub: false
 honorific: Saint
 summary: >-
   Fifth-century cave hermit near Cyrrhus (in modern Syria). Spiritual teacher of Saint limnaeus. Known for his personal

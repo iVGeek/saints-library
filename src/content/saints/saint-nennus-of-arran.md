@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Nennus of Arran
+stub: false
 honorific: Saint
 summary: Seventh-century abbot of monasteries on the Isle of Arran and the Isle of Bute in Ireland.
 searchAliases:

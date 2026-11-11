@@ -1,5 +1,6 @@
 ---
 name: Saint Grimoaldus of Pontecorvo
+stub: false
 honorific: Saint
 summary: >-
   Archpriest in Pontecorvo, southern Italy. Around 1137 he built a church dedicated to an apparition of Saint John the

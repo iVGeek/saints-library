@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Grimonia of Picardy
+stub: false
 honorific: Saint
 summary: >-
   Daughter of a pagan chieftain. Converted to Christianity around age twelve, and dedicated herself to God. When ordered

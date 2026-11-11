@@ -1,5 +1,6 @@
 ---
 name: Venerable Mary Aikenhead
+stub: false
 honorific: Venerable
 summary: >-
   Born to a Catholic mother and a Scots Protestant father, Mary was brought up in the Church of Ireland; her father was

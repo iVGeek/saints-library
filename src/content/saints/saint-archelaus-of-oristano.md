@@ -1,5 +1,6 @@
 ---
 name: Saint Archelaus of Oristano
+stub: false
 honorific: Saint
 summary: >-
   Convert to Christianity. Priest. Imprisoned and executed during the persecutions of either Diocletian or Trajan

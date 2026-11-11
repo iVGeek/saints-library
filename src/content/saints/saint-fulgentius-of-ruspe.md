@@ -1,5 +1,6 @@
 ---
 name: Saint Fulgentius of Ruspe
+stub: false
 honorific: Saint
 summary: >-
   Born to a Roman senatorial family, and was well educated. Provincial fiscal procurator and lieutenant governor of

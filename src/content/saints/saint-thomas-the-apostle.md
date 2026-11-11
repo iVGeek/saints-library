@@ -1,5 +1,6 @@
 ---
 name: Saint Thomas the Apostle
+stub: false
 honorific: Saint
 summary: >-
   Apostle. He was ready to die with Jesus when Christ went to Jerusalem, but is best remembered for doubting the

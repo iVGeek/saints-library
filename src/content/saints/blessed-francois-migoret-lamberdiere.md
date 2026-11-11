@@ -1,5 +1,6 @@
 ---
 name: Blessed François Migoret-Lamberdière
+stub: false
 honorific: Blessed
 summary: >-
   Priest in the diocese of Laval, France. Parish priest of Oisseau, France, and rector of a nearby college. Parish

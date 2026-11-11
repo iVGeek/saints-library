@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Rafael Vinagre Torres Muñoz
+stub: true
 honorific: Blessed
 summary: Vincentian priest. Martyred in the Spanish Civil War.
 birthYear: 1867

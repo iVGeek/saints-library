@@ -1,5 +1,6 @@
 ---
 name: Blessed Anton Martin Slomsek
+stub: false
 honorific: Blessed
 summary: >-
   Born to a peasant family in the Austro-Hungarian Empire. Seminarian at Klagenfurt, Austria. Ordained on 8 September

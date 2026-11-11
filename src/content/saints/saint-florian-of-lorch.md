@@ -1,5 +1,6 @@
 ---
 name: Saint Florian of Lorch
+stub: false
 honorific: Saint
 summary: >-
   Third century officer in Roman army stationed in modern Austria. Military administrator of the town of Noricum, and a

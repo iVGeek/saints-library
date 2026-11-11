@@ -1,6 +1,7 @@
 ---
 image: https://www.catholic.org/files/images/saints/3090.jpg
 name: Saint Elgiva of Shaftesbury
+stub: false
 honorific: Saint
 summary: >-
   Queen; wife of King Edmund I. Mother of King Edwy of Saxony, and Saint Edgar the Peaceful. Widowed young. Known all

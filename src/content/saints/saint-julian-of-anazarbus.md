@@ -1,5 +1,6 @@
 ---
 name: Saint Julian of Anazarbus
+stub: false
 honorific: Saint
 summary: >-
   Prominent citizen of senatorial rank. Arrested for his faith during the persecutions of Diocletian, he was tortured

@@ -1,5 +1,6 @@
 ---
 name: Saint Modan
+stub: false
 honorific: Saint
 summary: >-
   Son of a chieftain. Monk at Dryburgh Abbey in 522 where he gave himself over to prayer 7 to 8 hours a day. Preacher at

@@ -1,5 +1,6 @@
 ---
 name: Saint Christina the Astonishing
+stub: false
 honorific: Saint
 summary: >-
   Born to a peasant family, orphaned as a child, and raised by two older sisters. At age 21, she experienced a severe

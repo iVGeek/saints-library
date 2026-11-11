@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Gratus of Chalons
+stub: true
 honorific: Saint
 title: Bishop
 summary: Bishop of Chalons-sur-Saone, France.

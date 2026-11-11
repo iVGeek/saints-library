@@ -1,5 +1,6 @@
 ---
 name: Saint Luke Kirby
+stub: false
 honorific: Saint
 summary: >-
   Educated at Cambridge University in England. Converted to Catholicism in Louvain, France. Seminarian at Douai College

@@ -1,5 +1,6 @@
 ---
 name: Blessed Dionisio Pamplona-Polo
+stub: false
 honorific: Blessed
 summary: >-
   Piarist priest. Teacher. Rector of the Piarist school in Buenos Aires, Spain. Parish priest in Parelta de la Sal.

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Sosthenes of Colophon
+stub: false
 honorific: Saint
 summary: >-
   First century leader of the synagogue at Corinth. Convert, led to the faith by Saint Paul the Apostle, and mentioned

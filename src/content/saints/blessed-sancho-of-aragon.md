@@ -1,5 +1,6 @@
 ---
 name: Blessed Sancho of Aragon
+stub: false
 honorific: Blessed
 summary: >-
   Born a prince, the fourth son of Blessed James I, King of Aragon. Turning from worldly ways, he joined the

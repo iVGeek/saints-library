@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed William Andleby
+stub: false
 honorific: Blessed
 summary: >-
   Raised Protestant. Studied at Saint Johns College, Cambridge, England. Soldier. Convert to Catholicism. Studied in

@@ -1,5 +1,6 @@
 ---
 name: Blessed Jaume Falgarona Vilanova
+stub: false
 honorific: Blessed
 summary: >-
   Member of the Claretians, making his profession in Vich, Spain on 15 August 1930. On 1 July 1936 he entered the

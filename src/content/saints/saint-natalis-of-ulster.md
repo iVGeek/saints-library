@@ -1,5 +1,6 @@
 ---
 name: Saint Natalis of Ulster
+stub: false
 honorific: Saint
 summary: >-
   Spiritual student of Saint Columba. One of the great founders of monasticism in northern Ireland. Abbot of monasteries

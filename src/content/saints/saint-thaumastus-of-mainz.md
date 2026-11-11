@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Thaumastus of Mainz
+stub: false
 honorific: Saint
 summary: >-
   Early 5th century bishop of Mainz (in modern Germany). Saint Gregory of Tours writes about him in The Glory of the

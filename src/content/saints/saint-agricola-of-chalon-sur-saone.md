@@ -1,5 +1,6 @@
 ---
 name: Saint Agricola of Châlon-sur-Saône
+stub: false
 honorific: Saint
 summary: >-
   Son of a Gallo-Roman senator. Bishop of Châlon-sur-Saône, France in 532; he governed  the diocese for 48 years. Friend

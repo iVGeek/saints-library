@@ -1,5 +1,6 @@
 ---
 name: Blessed Arsenio Mañoso González
+stub: false
 honorific: Blessed
 summary: >-
   Joined the Hospitallers of Saint John of God in 1913 and made his solemn vows on 30 May 1915. Martyred in the Spanish

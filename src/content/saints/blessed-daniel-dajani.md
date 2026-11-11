@@ -1,5 +1,6 @@
 ---
 name: Blessed Daniel Dajani
+stub: false
 honorific: Blessed
 summary: >-
   Feeling an early call to the priesthood, Daniel entered the Pontifical Seminary in Scutari, Albania at age 12. He

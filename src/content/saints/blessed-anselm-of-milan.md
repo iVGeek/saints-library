@@ -1,5 +1,6 @@
 ---
 name: Blessed Anselm of Milan
+stub: false
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/5/57/Desing%2C_Anselm_%E2%80%93_Opes_sacerdotii_num_reipublicae_noxiae%3F%2C_1768_%E2%80%93_BEIC_13723230.jpg
 honorific: Blessed

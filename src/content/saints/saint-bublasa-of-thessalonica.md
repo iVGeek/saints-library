@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Bublasa of Thessalonica
+stub: true
 honorific: Saint
 summary: Martyr.
 died: in Thessalonica, Greece, date unknown

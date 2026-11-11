@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Gosselinus of Metz
+stub: true
 honorific: Saint
 title: Bishop
 summary: 18th bishop of Metz, France, serving from c.443 to c.460.

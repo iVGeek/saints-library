@@ -1,5 +1,6 @@
 ---
 name: Blessed Maria Crocifissa Curcio
+stub: false
 honorific: Blessed
 summary: >-
   Seventh of ten children born to Salvatore Curcio and Concetta Franz&ograve;. During much of her life she was diabetic,

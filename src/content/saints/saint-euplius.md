@@ -1,6 +1,7 @@
 ---
 image: https://www.catholic.org/files/images/saints/631.jpg
 name: Saint Euplius
+stub: true
 honorific: Saint
 summary: Martyr.
 died: rolled in a cowhide and laid out in the sun to be crushed as it shrank

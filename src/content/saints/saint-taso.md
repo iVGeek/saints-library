@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Taso
+stub: false
 honorific: Saint
 summary: >-
   Brother of Saint Paldo and Saint Tato. Benedictine monk at Farfa, Sabina, Italy. The three brothers founded the

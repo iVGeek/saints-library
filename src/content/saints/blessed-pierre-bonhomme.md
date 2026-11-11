@@ -1,5 +1,6 @@
 ---
 name: Blessed Pierre Bonhomme
+stub: false
 honorific: Blessed
 summary: >-
   Pierre was known as a pious and studious child who early felt a call to the priesthood. He entered seminary at

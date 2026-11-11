@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Rasyphus of Macé
+stub: true
 honorific: Saint
 summary: Fifth-century hermit in northern France. Martyr.
 born: British Isles

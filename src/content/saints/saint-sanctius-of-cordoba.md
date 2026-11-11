@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Sanctius of Córdoba
+stub: false
 honorific: Saint
 summary: >-
   Lifelong layman and Christian. Captured by the Moors as a prisoner of war, he was taken to Córdoba, Spain, educated at

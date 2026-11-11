@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Sarnat
+stub: true
 honorific: Saint
 summary: Daughter of Maelan. Nun. Abbess.
 born: Irish

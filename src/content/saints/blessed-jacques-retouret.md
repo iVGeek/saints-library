@@ -1,5 +1,6 @@
 ---
 name: Blessed Jacques Retouret
+stub: false
 honorific: Blessed
 summary: >-
   Born to a family of merchants, Jacques received an education and was known as a lover of books. Joined the Carmelites

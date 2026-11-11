@@ -1,5 +1,6 @@
 ---
 name: Blessed Vittoria Diaz y Bustos de Molina
+stub: false
 honorific: Blessed
 summary: >-
   Lay woman of the diocese of Córdoba, Spain. She studied at the teacher's college in Seville, Spain, earning her degree

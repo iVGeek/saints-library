@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Dositeus
+stub: false
 honorific: Saint
 summary: >-
   Dositeus was a layman who served as a page to a senior army officer. During a pilgrimage to Jerusalem, a painting of

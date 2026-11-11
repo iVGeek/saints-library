@@ -1,5 +1,6 @@
 ---
 name: Pope Blessed Innocent V
+stub: false
 honorific: Blessed
 summary: >-
   Joined the Dominicans at age 16. Studied at the University of Paris, receiving a master in sacred theology in 1250. He

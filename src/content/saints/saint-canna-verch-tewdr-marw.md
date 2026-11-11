@@ -1,5 +1,6 @@
 ---
 name: Saint Canna verch Tewdr Marw
+stub: false
 honorific: Saint
 summary: >-
   Legend says she was a princess, the daughter of King Tewdwr Mawr ap Emyr Llydaw of Brittany, and great-niece of King

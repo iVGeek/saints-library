@@ -1,5 +1,6 @@
 ---
 name: Blessed Aimée-Adèle le Bouteiller
+stub: false
 honorific: Blessed
 summary: >-
   Third of four children of Andrea and Maria Francesca le Bouteiller Morel; the family were farmers and linen weavers,

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/3/3f/Official_portrait_of_Rt_Hon_Sir_Edward_Leigh_MP_crop_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Richard Leigh
+stub: false
 honorific: Blessed
 summary: >-
   Educated at Rheims and Rome. Ordained at Rome in February 1586. Returned to England as a home missioner in 1586.

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Valerius of Armenia
+stub: true
 honorific: Saint
 summary: Martyred in the persecutions of emperor Hadrian.
 born: Armenian

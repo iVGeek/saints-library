@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Matthew of Albano
+stub: false
 honorific: Blessed
 summary: >-
   Canon of Rheims, France. Benedictine Cluniac monk at Saint-Martin-des-Champs in 1108. Prior of his house in 1117.

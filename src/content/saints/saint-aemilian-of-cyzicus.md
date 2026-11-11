@@ -1,5 +1,6 @@
 ---
 name: Saint Aemilian of Cyzicus
+stub: false
 honorific: Saint
 summary: Ninth century bishop of Cyzicus, Greece. Fought Iconoclasm for which he was exiled in 820 by Emperor Leo the Armenian.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Aemilian-of-Cyzicus.jpg

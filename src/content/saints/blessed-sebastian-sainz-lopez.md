@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/8/8c/Tumba_de_San_Pedro_de_Jesus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Sebastián Sáinz López
+stub: true
 honorific: Blessed
 summary: Joined the Dominicans on 4 October 1933. Martyred in the Spanish Civil War.
 birthYear: 1915

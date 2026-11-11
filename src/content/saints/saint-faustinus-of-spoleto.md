@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Faustinus of Spoleto
+stub: false
 honorific: Saint
 summary: >-
   Spiritual student of Saint Felix of Martano near Spoleto, Italy, and was there at Felix's martyrdom. Faustinus was

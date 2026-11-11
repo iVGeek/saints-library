@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/f/fb/Chludov_Nikephoros_I_of_Constantinople.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Nicephorus of Egypt
+stub: true
 honorific: Saint
 summary: Exiled to Egypt in 249. Tortured and martyred in the persecutions of Numerian.
 deathYear: 283

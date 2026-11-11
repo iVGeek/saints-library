@@ -1,5 +1,6 @@
 ---
 name: Saint Eutropius of Adrianopolis
+stub: false
 honorific: Saint
 title: Bishop
 summary: >-

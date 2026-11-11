@@ -1,5 +1,6 @@
 ---
 name: Blessed Ambrose de Feis
+stub: false
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Par%C3%A9_-_Works%2C_1649.djvu/page1-960px-Par%C3%A9_-_Works%2C_1649.djvu.jpg
 honorific: Blessed

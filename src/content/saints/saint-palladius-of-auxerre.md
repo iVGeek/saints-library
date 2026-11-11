@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/2/25/Auxerre_-_Abbatiale_Saint-Germain_-_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Palladius of Auxerre
+stub: false
 honorific: Saint
 title: Bishop
 summary: Abbot of Saint Germanus in Auxerre, France. Bishop of Auxerre; founded several monasteries.

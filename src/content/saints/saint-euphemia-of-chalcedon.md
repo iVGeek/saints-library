@@ -1,5 +1,6 @@
 ---
 name: Saint Euphemia of Chalcedon
+stub: false
 honorific: Saint
 summary: >-
   Born to a wealthy, aristocratic, and pious family; the daughter of Philophorm and Theodosia, Christians in a pagan

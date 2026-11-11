@@ -1,5 +1,6 @@
 ---
 name: Blessed Pietro d'Arnaud
+stub: false
 honorific: Blessed
 summary: >-
   Notary, working with the Inquisition. Basing their operations in a farmhouse outside Avignonet, France, he and his

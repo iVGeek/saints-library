@@ -1,5 +1,6 @@
 ---
 name: Saint Maria Wang Lishi
+stub: false
 honorific: Venerable
 summary: >-
   Married lay woman in the apostolic vicariate of Southeastern Zhili, China. Martyred in the Boxer Rebellion for openly

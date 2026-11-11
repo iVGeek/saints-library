@@ -1,6 +1,7 @@
 ---
 image: https://www.santiebeati.it/immagini/Thumbs/96636/96636.jpg
 name: Blessed Robert Montserrat Beliart
+stub: false
 honorific: Blessed
 summary: Accomplished musician. Priest. Member of the Sons of the Holy Family. Martyred in the Spanish Civil War.
 birthYear: 1911

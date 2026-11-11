@@ -1,5 +1,6 @@
 ---
 name: Saint Albinus of Brixen
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility, the son of Blessed Agatha Hildegardis of Carinthia and Count Paul, Margrave of Carinthia. Bishop

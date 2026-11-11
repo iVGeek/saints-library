@@ -1,5 +1,6 @@
 ---
 name: Saint Adalbert of Casauria
+stub: false
 honorific: Saint
 summary: >-
   Benedictine monk at Cassoria, Abruzzi, Italy. Worked for a while with Saint Guy of Casauria. Retired to live as a

@@ -1,5 +1,6 @@
 ---
 name: Venerable Pedro Díez Gil
+stub: false
 honorific: Venerable
 summary: >-
   Studied at the Escuelas Pías de Tolosa in Guipúzcoa, Spain, a school run by the Piarists. He joined the Piarists

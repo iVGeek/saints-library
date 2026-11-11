@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Venerable Josefa Oliver Molina
+stub: true
 honorific: Venerable
 summary: Founded the Congregation of the Sisters of the Virgin of Mount Carmel.
 searchAliases:

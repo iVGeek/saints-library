@@ -1,5 +1,6 @@
 ---
 name: Saint Anne Line
+stub: false
 honorific: Venerable
 summary: >-
   Born the daughter of a wealthy and ardent Calvinist. When she and her brother converted to Catholicism, they were

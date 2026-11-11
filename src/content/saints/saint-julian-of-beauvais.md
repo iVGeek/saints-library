@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Julian of Beauvais
+stub: true
 honorific: Saint
 summary: Missionary to Beauvais, France. Martyr.
 deathYear: 290

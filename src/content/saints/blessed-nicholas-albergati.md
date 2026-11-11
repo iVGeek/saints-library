@@ -1,5 +1,6 @@
 ---
 name: Blessed Nicholas Albergati
+stub: false
 honorific: Blessed
 summary: >-
   Studied law. Carthusian monk in 1394. Prior of several Carthusian houses. Ordained in June 1404. Chosen as reluctant

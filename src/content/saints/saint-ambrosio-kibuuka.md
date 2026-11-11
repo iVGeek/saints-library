@@ -1,5 +1,6 @@
 ---
 name: Saint Ambrosio Kibuuka
+stub: false
 honorific: Venerable
 summary: >-
   Lugave clan. Page to King Mwanga. Convert, being baptized on 17 November 1885. One of the Martyrs of Uganda who died

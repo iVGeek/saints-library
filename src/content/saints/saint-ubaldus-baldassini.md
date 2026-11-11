@@ -1,5 +1,6 @@
 ---
 name: Saint Ubaldus Baldassini
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility. Related to Saint Sperandea. Ubaldo's father, Rovaldo Baldassini, died when the boy was very

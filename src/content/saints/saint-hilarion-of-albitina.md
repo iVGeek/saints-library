@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Hilarion of Albitina
+stub: false
 honorific: Saint
 summary: >-
   Young son of Saint Saturninus of Albitinia the Elder. One of a group of 46 Christians arrested in Albitina, North

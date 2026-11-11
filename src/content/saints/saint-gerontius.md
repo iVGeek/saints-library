@@ -1,5 +1,6 @@
 ---
 name: Saint Gerontius
+stub: false
 honorific: Saint
 summary: King of Damnonia (in modern Devon, England). He and his wife Enid are the subjects of romantic legends in the region.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Geraint.jpg

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/a/a3/Pierina_Morosini.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed John Morosini
+stub: false
 honorific: Blessed
 summary: >-
   Benedictine monk at Cux&aacute;, Catalonian Pyranees. Founded the monastery of San Giorgio Maggiiore in Venice, Italy

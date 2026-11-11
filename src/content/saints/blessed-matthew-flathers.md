@@ -1,5 +1,6 @@
 ---
 name: Blessed Matthew Flathers
+stub: false
 honorific: Blessed
 summary: >-
   Studied at the English College in Douai, France. Priest in the apostolic vicariate of England, serving covert

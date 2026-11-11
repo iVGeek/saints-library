@@ -1,5 +1,6 @@
 ---
 name: Saint Eutichius of Como
+stub: false
 honorific: Saint
 summary: >-
   Hermit. Priest. Bishop of Como, Italy in 525. He had such a dedication to the contemplative prayer life that he led

@@ -1,5 +1,6 @@
 ---
 name: Saint Leopold Bogdan Mandic
+stub: false
 honorific: Venerable
 summary: >-
   Saint Leopold was a contrast between physical frailty and spiritual strength. Four foot five inches tall, and

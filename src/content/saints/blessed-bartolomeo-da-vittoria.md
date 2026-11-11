@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/1/1a/Ecstasy_of_St._Teresa_HDR.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Bartolomeo da Vittoria
+stub: false
 honorific: Blessed
 summary: A 15th-16th century Franciscan friar known as a humble man with a deep prayer life and the gift of prophecy.
 searchAliases:

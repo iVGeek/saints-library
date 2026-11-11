@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Stephen of Reggio
+stub: false
 honorific: Saint
 summary: >-
   First bishop of Reggio, Italy, ordained by Saint Paul the Apostle in the 1st century. Martyred in the persecutions of

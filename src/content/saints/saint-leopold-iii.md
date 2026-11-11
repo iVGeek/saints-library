@@ -1,5 +1,6 @@
 ---
 name: Saint Leopold III
+stub: false
 honorific: Saint
 summary: >-
   Grandson of Emperor Henry III. Grandfather of Frederick Barbarossa. Educated by bishop Altman of Passau, Germany. At

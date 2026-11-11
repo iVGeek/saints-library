@@ -1,5 +1,6 @@
 ---
 name: Saint Saeran
+stub: true
 image: >-
   https://commons.wikimedia.org/wiki/Special:FilePath/Sant_Saeran_o_garreg_o_Eglwys_Sant_Saeran%252C_Llanynys_01.png?width=600
 honorific: Saint

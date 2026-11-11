@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Benedict the Hermit
+stub: true
 honorific: Saint
 summary: Camaldolese hermit in Moravia and Hungary. Martyr.
 deathYear: 1020

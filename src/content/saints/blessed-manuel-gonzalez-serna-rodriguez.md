@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/3/30/PaniquiChurchjf5479_07.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Manuel González-Serna Rodríguez
+stub: false
 honorific: Blessed
 summary: >-
   Ordained a priest of the archdiocese of Sevilla, Spain on 20 September 1902. Imprisoned on the night of 19 July 1936

@@ -1,5 +1,6 @@
 ---
 name: Saint Malchus of Syria
+stub: false
 honorific: Saint
 summary: >-
   Only child of a farming family. Worked as a shepherd, spending his time in the field in prayer. His family hoped he

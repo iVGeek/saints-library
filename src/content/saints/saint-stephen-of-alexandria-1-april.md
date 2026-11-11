@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Stephen of Alexandria
+stub: true
 honorific: Saint
 summary: Martyr.
 died: Alexandria, Egypt, date unknown

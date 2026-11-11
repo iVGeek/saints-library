@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Phillip Ciardella
+stub: true
 honorific: Blessed
 summary: Francsican friar.
 searchAliases:

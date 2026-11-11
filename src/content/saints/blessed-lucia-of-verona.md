@@ -1,5 +1,6 @@
 ---
 name: Blessed Lucia of Verona
+stub: false
 honorific: Blessed
 summary: >-
   As a girl, Lucia was noted for her piety and charity. She joined the Third Order of the Servants of Mary in Verona,

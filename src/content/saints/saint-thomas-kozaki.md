@@ -1,5 +1,6 @@
 ---
 name: Saint Thomas Kozaki
+stub: false
 honorific: Saint
 summary: >-
   Son of Saint Michael Kozaki. Altar boy. Helped his father with his carpentry for the Franciscan missionaries, and then

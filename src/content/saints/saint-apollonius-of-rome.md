@@ -1,5 +1,6 @@
 ---
 name: Saint Apollonius of Rome
+stub: true
 honorific: Saint
 summary: Martyr. No other information has survived.
 died: tied to a stake and shot with arrows

@@ -1,5 +1,6 @@
 ---
 name: Saint Gerbold of Bayeux
+stub: false
 honorific: Saint
 summary: >-
   Benedictine monk at Ebriciacum (in modern France). Founder and abbot of the abbey of Livray, France. Bishop of Bayeux,

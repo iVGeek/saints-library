@@ -1,5 +1,6 @@
 ---
 name: Our Lady of Bonaria
+stub: false
 honorific: Saint
 summary: >-
   Devotion to the Blessed Virgin Mary in the form of a statue of Mary and the Christ Child that was washed up at a

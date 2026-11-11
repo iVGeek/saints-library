@@ -1,5 +1,6 @@
 ---
 name: Saint John-Louis Bonnard
+stub: false
 honorific: Venerable
 summary: >-
   Studied at seminaries in Aix and Lyons. Ordained in 1848. Missionary priest with the Paris Society of Foreign

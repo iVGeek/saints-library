@@ -1,5 +1,6 @@
 ---
 name: Blessed Juan Gonga Martínez
+stub: false
 honorific: Blessed
 summary: Layman in the archdiocese of Valencia, Spain. Martyred in the Spanish Civil War.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Juan-Gonga-Martinez.jpg

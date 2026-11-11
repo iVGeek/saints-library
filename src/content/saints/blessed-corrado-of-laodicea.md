@@ -1,5 +1,6 @@
 ---
 name: Blessed Corrado of Laodicea
+stub: false
 honorific: Blessed
 title: Bishop
 summary: Mercedarian friar. Bishop of Laodicea, Syria. Zealous evangelist. Miracle worker.

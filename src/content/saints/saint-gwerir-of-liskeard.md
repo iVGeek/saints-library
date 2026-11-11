@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Gwerir of Liskeard
+stub: false
 honorific: Saint
 summary: >-
   Ninth century monk and hermit in Liskeard, Cornwall, England. King Alfred said to have been cured of a serious illness

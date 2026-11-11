@@ -1,5 +1,6 @@
 ---
 name: Saint Pamphilus of Sulmona
+stub: false
 honorific: Saint
 summary: >-
   Seventh century bishop of Sulmona and Corfinium with his see in Abruzzi, Italy. Fed the poor, educated the people, and

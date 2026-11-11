@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/f/f1/S._Hogan_-_Flying_Column_No._2%2C_3rd_Tipperary_Brigade%2C_IRA_-_1921.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 name: Blessed Thomas Morrissey
+stub: true
 honorific: Blessed
 summary: Priest in the diocese of Cashel, Ireland. One of the Irish Martyrs.
 deathYear: 1647

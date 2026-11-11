@@ -1,5 +1,6 @@
 ---
 name: Blessed Peter Pasquale
+stub: false
 honorific: Blessed
 summary: >-
   Mercedarian friar, receiving the habit from Saint Peter Nolasco. First Commander of the San Martino monastery in

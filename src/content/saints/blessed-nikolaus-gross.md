@@ -1,5 +1,6 @@
 ---
 name: Blessed Nikolaus Gross
+stub: false
 honorific: Blessed
 summary: >-
   Miner. Father of seven. Member of the Christian miners' labour union at age 19, and secretary at 22. Member of the

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Bertrand of Saint Quentin
+stub: false
 honorific: Saint
 summary: >-
   Benedictine monk. Friend and spiritual student of Saint Bertinus. Aide to Saint Omer. Missionary in northern France

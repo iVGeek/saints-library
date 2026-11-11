@@ -1,5 +1,6 @@
 ---
 name: Blessed Juliana of Mont Cornillon
+stub: false
 honorific: Blessed
 summary: >-
   Orphaned at age 5. She and her sister Agnes were raised by the nuns at the convent of Mount Cornillon. Juliana read

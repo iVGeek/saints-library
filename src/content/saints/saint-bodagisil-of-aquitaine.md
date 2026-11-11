@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Bodagisil of Aquitaine
+stub: false
 honorific: Saint
 summary: >-
   Born to the Frankish nobility, and a royal courtier. Convert. Governor of Marseilles and Germania. Married to Oda, a

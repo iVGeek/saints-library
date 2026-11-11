@@ -1,5 +1,6 @@
 ---
 name: Saint Pionius of Smyrna
+stub: false
 honorific: Saint
 summary: >-
   Priest. Noted scholar and preacher. During the persecutions of Decius, Pionius and fifteen followers, hearing they

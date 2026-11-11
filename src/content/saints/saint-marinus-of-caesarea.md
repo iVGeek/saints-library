@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Marinus of Caesarea
+stub: false
 honorific: Saint
 summary: >-
   Soldier in the Roman army, and a closet Christian. When a centurian's post fell open, he and another soldier applied.

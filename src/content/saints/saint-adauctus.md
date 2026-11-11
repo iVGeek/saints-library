@@ -1,5 +1,6 @@
 ---
 name: Saint Adauctus
+stub: false
 honorific: Saint
 summary: Layman. Father of Saint Callisthene. Martyred in the persecutions of Emperor Maximinus.
 deathYear: 312

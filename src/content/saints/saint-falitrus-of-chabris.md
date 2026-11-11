@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Falitrus of Chabris
+stub: false
 honorific: Saint
 summary: >-
   Hermit in Berry, France. Pilgrim to Jerusalem and the Holy Lands; tradition says he brought back relics of the Blessed

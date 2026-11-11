@@ -1,5 +1,6 @@
 ---
 name: Saint Alban of Britain
+stub: false
 honorific: Saint
 summary: >-
   Soldier in the imperial Roman army of Diocletian. Convert, brought to the faith by Saint Amphibalus of Verulam whom he

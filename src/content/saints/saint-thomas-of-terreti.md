@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Thomas of Terreti
+stub: false
 honorific: Saint
 summary: >-
   Monk. Abbot of the Mother of God monastery in Terrti, a hilly district outside Reggio Calabria, Italy. Known for his

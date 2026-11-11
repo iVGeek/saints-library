@@ -1,5 +1,6 @@
 ---
 name: Saint Amanzio
+stub: false
 honorific: Saint
 title: Priest
 summary: >-

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Hermias of Comana
+stub: true
 honorific: Saint
 summary: Professional soldier. Martyr. Mentioned prominently in Greek liturgy.
 searchAliases:

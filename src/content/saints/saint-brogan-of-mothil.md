@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Brogan of Mothil
+stub: false
 honorific: Saint
 summary: >-
   Sixth or seventh century scribe and bishop of Mothil, Waterford, Ireland. May have been the nephew of Saint Patrick,

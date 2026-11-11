@@ -1,5 +1,6 @@
 ---
 name: Saint Antonio of Saint Anne
+stub: false
 honorific: Venerable
 summary: >-
   Born to a deeply religious family of high social status. At 13 he began studies at the Jesuit seminary in

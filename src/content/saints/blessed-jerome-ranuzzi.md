@@ -1,5 +1,6 @@
 ---
 name: Blessed Jerome Ranuzzi
+stub: false
 honorific: Blessed
 summary: >-
   Born to a noted middle class family; his father was later given rank in the noblity. Servite. Studied philosophy and

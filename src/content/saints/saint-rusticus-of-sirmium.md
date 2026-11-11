@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Rusticus of Sirmium
+stub: true
 honorific: Saint
 summary: Martyr.
 died: 4th century Sirmium, Pannonia (modern Sremska Mitrovica, Serbia)

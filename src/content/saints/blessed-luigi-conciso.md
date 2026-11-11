@@ -1,5 +1,6 @@
 ---
 name: Blessed Luigi Conciso
+stub: false
 honorific: Blessed
 summary: >-
   Mercedarian friar. A doctor of theology, he wrote a number of books about the Mercedarians. Assigned to Algiers in

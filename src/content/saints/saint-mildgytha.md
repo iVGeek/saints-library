@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Mildgytha
+stub: false
 honorific: Saint
 summary: >-
   Born a princess, the daughter of Merewalh, King of Mercia, and Saint Ebbe in Thanet. Sister of Saint Milburga and

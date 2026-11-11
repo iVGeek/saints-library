@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Eugene of Raith-Sithe
+stub: true
 honorific: Saint
 title: Bishop
 summary: Bishop of Raith-Sithe (Ráth Sí; Rashee), Down, Ireland.

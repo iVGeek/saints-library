@@ -1,5 +1,6 @@
 ---
 name: Blessed Diodoro López Hernando
+stub: false
 honorific: Blessed
 summary: Member of the Brothers of the Christian Schools. Martyred in the Spanish Civil War.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Diodoro-Lopez-Hernando.jpg

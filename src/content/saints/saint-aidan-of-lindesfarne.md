@@ -1,5 +1,6 @@
 ---
 name: Saint Aidan of Lindesfarne
+stub: false
 honorific: Saint
 summary: >-
   Monk at Iona, Scotland. Studied under Saint Senan at Inish Cathay. Bishop of Clogher, Ireland. Resigned the see to

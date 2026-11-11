@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Vitalis of Salzburg
+stub: false
 honorific: Saint
 summary: >-
   Monk. Spiritual student of Saint Rupert of Salzburg. Abbot of Saint Peter's Abbey in Salzburg, Austria. Archbishop of

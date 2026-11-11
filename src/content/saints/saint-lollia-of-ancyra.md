@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Lollia of Ancyra
+stub: false
 honorific: Saint
 summary: >-
   Daughter of Saint Gaius of Ancyra; sister of Saint Urban and Saint Probus; great-niece of Saint Eustochius. Raised a

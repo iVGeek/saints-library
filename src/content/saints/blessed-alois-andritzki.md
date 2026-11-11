@@ -1,5 +1,6 @@
 ---
 name: Blessed Alois Andritzki
+stub: false
 honorific: Blessed
 summary: >-
   One of six childen born to Johann Andritzki Kantor, a school teacher, and Magdalena Andritzki. Ordained on 30 July

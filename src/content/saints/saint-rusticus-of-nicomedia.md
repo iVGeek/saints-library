@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Rusticus of Nicomedia
+stub: true
 honorific: Saint
 summary: Martyr.
 died: Nicomedia, Bitynia, Asia Minor (near modern Izmet, Turkey)

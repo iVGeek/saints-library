@@ -1,5 +1,6 @@
 ---
 name: Saint Amator of Auxerre
+stub: false
 honorific: Saint
 summary: >-
   Born to the upper class. Convert, brought to the faith by Saint Helladius of Auxerre. Amator felt a call to the

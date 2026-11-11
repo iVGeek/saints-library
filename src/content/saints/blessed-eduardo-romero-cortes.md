@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/f/fe/Beatificaciotarragona2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Eduardo Romero Cortés
+stub: true
 honorific: Blessed
 summary: Priest in the archdiocese of Granada, Spain. Martyred in the Spanish Civil War.
 birthYear: 1878

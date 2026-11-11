@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/3/30/PaniquiChurchjf5479_07.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Julio Marcos Rodríguez
+stub: true
 honorific: Blessed
 summary: Augustinian friar. Martyred in the Spanish Civil War.
 birthYear: 1914

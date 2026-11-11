@@ -1,5 +1,6 @@
 ---
 name: Saint Zoticus of Constantinople
+stub: false
 honorific: Saint
 summary: >-
   Wealthy noble Roman citizen. He first surrendered his position to become a priest, and then gave away his worldly

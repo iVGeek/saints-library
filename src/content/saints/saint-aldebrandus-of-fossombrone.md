@@ -1,5 +1,6 @@
 ---
 name: Saint Aldebrandus of Fossombrone
+stub: false
 honorific: Saint
 summary: >-
   Studied at Santa Maria de Porto near Ravenna, Italy. Priest. Prior of the monastery of Rimini, Italy. Known for his

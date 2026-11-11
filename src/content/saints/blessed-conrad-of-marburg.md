@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/3/33/Simone_Martini_046.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Conrad of Marburg
+stub: false
 honorific: Blessed
 summary: >-
   Franciscan friar. Provincial of Franciscans in Germany. He was known for his personal holiness, and for a great

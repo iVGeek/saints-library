@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/c/cf/Abbaye-Nouvelle_-2.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Leobard of Tours
+stub: false
 honorific: Saint
 summary: Spiritual student of Saint Gregory of Tours. Hermit for over 20 years near Marmoutier, France.
 searchAliases:

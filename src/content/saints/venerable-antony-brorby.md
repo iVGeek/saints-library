@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Venerable Antony Brorby
+stub: false
 honorific: Venerable
 summary: >-
   Franciscan Friar Minor. Priest. Lecturer at Magdalen College, Oxford, England. Fluent in Greek and Hebrew, he was a

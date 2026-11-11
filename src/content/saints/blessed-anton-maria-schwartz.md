@@ -1,5 +1,6 @@
 ---
 name: Blessed Anton Maria Schwartz
+stub: false
 honorific: Blessed
 summary: >-
   Ordained in 1875 in the archdiocese of Vienna. Founder of the Congregation of Christian Workers of Saint Joseph

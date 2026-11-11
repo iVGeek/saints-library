@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Maprilis of Ostia
+stub: true
 honorific: Saint
 summary: Martyr honoured in Ostia, Italy.
 deathYear: 300

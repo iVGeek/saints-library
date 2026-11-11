@@ -1,5 +1,6 @@
 ---
 name: Venerable Eliswa Vakayil
+stub: false
 honorific: Venerable
 summary: >-
   Born to the nobility, the eldest of eight children born to Thomman and Thanda of Vyppissery. She was known as a pious

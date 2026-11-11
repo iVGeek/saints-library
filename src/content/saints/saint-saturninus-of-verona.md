@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Saturninus of Verona
+stub: true
 honorific: Saint
 summary: Fourth century bishop of Verona, Italy.
 searchAliases:

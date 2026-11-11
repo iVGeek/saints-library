@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Venerable Generoso of the Crucified
+stub: true
 honorific: Venerable
 summary: Priest. Member of the Congregation of the Passion of Jesus Christ.
 searchAliases:

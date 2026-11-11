@@ -1,5 +1,6 @@
 ---
 name: Blessed John Sugar
+stub: false
 honorific: Blessed
 summary: Priest in the apostolic vicariate of England during a period of government persecution. Martyr.
 searchAliases:

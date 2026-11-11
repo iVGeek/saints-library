@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed José Pascual Carda Saporta
+stub: false
 honorific: Blessed
 summary: >-
   Ordained on 12 August 1918. Member of the Diocesan Laborer Priests of the Sacred Heart of Jesus. Prefect of the

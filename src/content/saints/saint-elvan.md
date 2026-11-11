@@ -1,5 +1,6 @@
 ---
 name: Saint Elvan
+stub: false
 honorific: Saint
 summary: >-
   Sent with Saint Mydwyn by King Saint Lucius to Pope Saint Eleuterus to petition for missionaries to Britain, then

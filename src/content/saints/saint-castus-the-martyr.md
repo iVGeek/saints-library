@@ -1,5 +1,6 @@
 ---
 name: Saint Castus the Martyr
+stub: false
 honorific: Saint
 summary: >-
   Tortured in the persecutions of Decius, he renounced his Christianity. He later repented, returned to the Church, and

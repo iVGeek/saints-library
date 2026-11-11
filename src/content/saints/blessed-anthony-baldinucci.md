@@ -1,5 +1,6 @@
 ---
 name: Blessed Anthony Baldinucci
+stub: false
 honorific: Blessed
 summary: >-
   Joined the Jesuits on 21 April 1681. He taught in Rome and Terni, Italy. Ordained on 28 October 1695. Parish missioner

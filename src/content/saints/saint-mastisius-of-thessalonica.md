@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Mastisius of Thessalonica
+stub: false
 honorific: Saint
 summary: Martyred in Thessalonica in Greece, date unknown. No other information has survived.
 searchAliases:

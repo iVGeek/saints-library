@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Selyf of Cornwall
+stub: true
 honorific: Saint
 summary: Sixth century hermit in Saint Levan, Cornwall, England.
 searchAliases:

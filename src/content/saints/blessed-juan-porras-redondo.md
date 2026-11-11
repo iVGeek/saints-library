@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/c/c9/Dotie_Joseph.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Juan Porras Redondo
+stub: false
 honorific: Blessed
 summary: >-
   Priest of the diocese of Córdoba, Spain, serving in the Azuel-Cardeña, El Carpio, Pedroche and Ojuelos Altos

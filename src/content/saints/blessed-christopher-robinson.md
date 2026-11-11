@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/3/31/Blessed-christopher-robinson.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Christopher Robinson
+stub: false
 honorific: Blessed
 summary: >-
   Studied in Douai and Rheims, France beginning in 1590. Ordained 24 February 1592. Returned to England in September

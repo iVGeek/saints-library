@@ -1,5 +1,6 @@
 ---
 name: Blessed Denis of the Nativity
+stub: false
 honorific: Blessed
 summary: >-
   Sailor from age twelve. Pilot-in-chief, cartographer, and cosmographer to the king of Portugal, and to the French

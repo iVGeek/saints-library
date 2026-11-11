@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Erfo of Münster
+stub: false
 honorific: Blessed
 summary: >-
   Priest. Provost of the cathedral of Saint Paul in Münster, Germany. Chosen bishop of Münster, Germany in 1084; he

@@ -1,5 +1,6 @@
 ---
 name: Blessed Marija Petkovic
+stub: false
 honorific: Blessed
 summary: >-
   Sixth of eleven children born to Antun Petkovic-Kovac and Maria Marinovic. Raised in a wealthy family known for their

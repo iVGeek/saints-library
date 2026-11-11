@@ -1,5 +1,6 @@
 ---
 name: Saint Vitalis of Gaza
+stub: false
 honorific: Saint
 summary: >-
   Monk and hermit in the Gaza region. At age 60 he felt driven to travel to Alexandria, Egypt and work to save the area

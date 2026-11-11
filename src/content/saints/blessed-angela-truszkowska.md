@@ -1,5 +1,6 @@
 ---
 name: Blessed Angela Truszkowska
+stub: false
 honorific: Blessed
 summary: >-
   Eldest daughter of Joseph and Josephine Truszkowski, Polish nobles. Well educated, Sophia was a pious, and lively

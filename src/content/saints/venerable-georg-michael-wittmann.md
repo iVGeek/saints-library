@@ -1,5 +1,6 @@
 ---
 name: Venerable Georg Michael Wittmann
+stub: false
 honorific: Venerable
 summary: >-
   Studied with the Jesuits, then the Benedictines, and then at the University of Heidelberg. Ordained a priest in

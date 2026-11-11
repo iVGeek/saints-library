@@ -1,5 +1,6 @@
 ---
 name: Saint Bassus
+stub: true
 honorific: Saint
 summary: Son of Saint Catervus and Saint Severina. Martyr.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Catervus.jpg

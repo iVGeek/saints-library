@@ -1,5 +1,6 @@
 ---
 name: Blessed Edoardo Giuseppe Rosaz
+stub: false
 honorific: Blessed
 summary: >-
   Ordained in 1854 at Nice, France. Worked in prison ministry. Wrote a catechism. Founded a home for abused and

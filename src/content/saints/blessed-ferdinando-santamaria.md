@@ -1,5 +1,6 @@
 ---
 name: Blessed Ferdinando Santamaria
+stub: false
 honorific: Blessed
 summary: >-
   The oldest of five children, Ferdinando's father ran a rope-making business. The boy was drawn to religious life from

@@ -1,5 +1,6 @@
 ---
 name: Blessed Joan Cuscó Oliver
+stub: false
 honorific: Blessed
 summary: >-
   One of eleven children born to a farm family. He studied at the school of San Ramón de Vilafranca del Penedés, was a

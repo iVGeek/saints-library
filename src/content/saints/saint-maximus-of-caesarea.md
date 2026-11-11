@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Maximus of Caesarea
+stub: true
 honorific: Saint
 summary: Rural itinerant bishop. Martyr.
 deathYear: 255

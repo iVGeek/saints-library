@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Benvenuto Mareni
+stub: false
 honorific: Blessed
 summary: >-
   13th-century Franciscan Conventual lay brother in Recanati, Italy. Worked at his monastery as a cook, and spent his

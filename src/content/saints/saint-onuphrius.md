@@ -1,5 +1,6 @@
 ---
 name: Saint Onuphrius
+stub: false
 honorific: Saint
 summary: >-
   Hermit for 70 years in the desert near Thebais, Upper Egypt. He sought to imitate the solitude and privations of Saint

@@ -1,5 +1,6 @@
 ---
 name: Blessed Gerardo Pascual Mata
+stub: true
 honorific: Blessed
 summary: Augustinian friar. Martyred in the Spanish Civil War.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Gerardo-Pascual-Mata.jpg

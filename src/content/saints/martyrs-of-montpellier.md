@@ -1,5 +1,6 @@
 ---
 name: Martyrs of Montpellier
+stub: false
 honorific: Saint
 summary: >-
   A group of 70 Mercedarian friars, led by Blessed Luigi Puell, who were martyred by Huguenots for trying to bring

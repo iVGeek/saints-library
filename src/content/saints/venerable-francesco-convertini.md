@@ -1,5 +1,6 @@
 ---
 name: Venerable Francesco Convertini
+stub: true
 honorific: Venerable
 summary: Priest. Member of the Salesian Society of Don Bosco.
 image: https://upload.wikimedia.org/wikipedia/commons/4/41/Francesco_Convertini_c1935.jpg

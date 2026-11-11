@@ -1,5 +1,6 @@
 ---
 name: Saint Asterius of Aegea
+stub: false
 honorific: Saint
 summary: Denounced by his step-mother as a Christian during the persecutions of Pro-consul Lysias. Tortured and martyred.
 deathYear: 285

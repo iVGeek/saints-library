@@ -1,5 +1,6 @@
 ---
 name: Saint Florentius the Martyr
+stub: false
 honorific: Saint
 summary: >-
   One of a group of nine martyrs who were murdered at the command of Emperor Maximian Herculeus. May have been part of

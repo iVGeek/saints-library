@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/4f/Frm_beatification_banner.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Louis-François Rigot
+stub: false
 honorific: Blessed
 summary: >-
   Layman in the archdiocese of Paris, France. He became a sacristan in the hospital of the Pietà in Paris in 1760. One

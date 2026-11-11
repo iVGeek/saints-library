@@ -1,5 +1,6 @@
 ---
 name: Blessed Alacrinus of Casamari
+stub: false
 honorific: Blessed
 summary: >-
   Benedictine Cistercian monk. Prior at Casamari, Veroli, Italy. Papal legate to Germany for Pope Innocent III and Pope

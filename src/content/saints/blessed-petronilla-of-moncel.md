@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/2/29/SDamiano-Clara_og_s%C3%B8stre.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Petronilla of Moncel
+stub: false
 honorific: Blessed
 summary: >-
   Born to the family of the Counts of Troyes, France, Petronilla served as the first abbess of a Poor Clare monastery in

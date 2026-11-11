@@ -1,5 +1,6 @@
 ---
 name: Saint Atto of Tordino
+stub: true
 honorific: Saint
 summary: Benedictine monk. First Abbot of Tordino Abbey near Teramo, Italy in 1004.
 searchAliases:

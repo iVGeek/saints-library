@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed John Talbot
+stub: false
 honorific: Blessed
 summary: Married layman in the apostolic vicariate of England during a period of government persecution of Catholics. Martyr.
 deathYear: 1600

@@ -1,5 +1,6 @@
 ---
 name: Saint Tillo of Solignac
+stub: false
 honorific: Saint
 summary: >-
   Kidnapped by raiders and brought to the Low Countries as a slave. Ransomed by Saint Eligius of Noyon. Benedictine monk

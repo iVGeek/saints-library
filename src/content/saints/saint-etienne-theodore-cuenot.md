@@ -1,5 +1,6 @@
 ---
 name: Saint Etienne-Théodore Cuenot
+stub: false
 honorific: Venerable
 summary: >-
   Priest, ordained in 1825. Member of the Paris Foreign Missions Society. Missionary to Vietnam in 1828. Missionary

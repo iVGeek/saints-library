@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Peter of Braga
+stub: true
 honorific: Saint
 summary: First bishop of Braga, Portugal. Martyr
 region: Portugal

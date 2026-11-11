@@ -1,5 +1,6 @@
 ---
 name: Saint Etheldreda
+stub: false
 honorific: Saint
 summary: >-
   Sister of Saint Jurmin. Relative of King Anna of East Anglia, England. Princess. Widowed after three years marriage;

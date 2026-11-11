@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/5/5d/Blessed-john-amias-and-robert-dalby.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Edmund Sykes
+stub: false
 honorific: Blessed
 summary: Priest in the apostolic vicariate of England. Martyred in the persecutions of Queen Elizabeth I.
 searchAliases:

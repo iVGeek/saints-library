@@ -1,5 +1,6 @@
 ---
 name: Blessed Emilia Bicchieri
+stub: false
 honorific: Blessed
 summary: >-
   Four of seven daughters born to the wealthy Ghibelline patrician family of Pietro Bicchieri. Emilia was well educated,

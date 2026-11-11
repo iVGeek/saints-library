@@ -1,5 +1,6 @@
 ---
 name: Blessed Rafael Alonso Gutiérrez
+stub: false
 honorific: Blessed
 summary: >-
   A lifelong layman, Rafael was married to Maria Adelaid Ruiz Glens in 1916; the couple were parents to four daughters.

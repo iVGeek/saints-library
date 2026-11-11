@@ -1,5 +1,6 @@
 ---
 name: Blessed Millán Garde Serrano
+stub: false
 honorific: Blessed
 summary: >-
   Studied at the seminary at Cuenca, Spain. Ordained a priest on 21 December 1901. Joined the Hermandad de Sacerdotes

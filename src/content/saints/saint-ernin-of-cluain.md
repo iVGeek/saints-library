@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Ernin of Cluain
+stub: false
 honorific: Saint
 summary: >-
   Son of Craskin. Though he is mentioned in several martyrologies, menologies and writings, no details about him have

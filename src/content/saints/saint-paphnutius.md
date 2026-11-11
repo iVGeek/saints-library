@@ -1,5 +1,6 @@
 ---
 name: Saint Paphnutius of Thebes
+stub: false
 honorific: Saint
 summary: >-
   Hermit. Spiritual student of Saint Anthony the Abbot. Monk. Bishop in Egypt. During the persecutions of emperor

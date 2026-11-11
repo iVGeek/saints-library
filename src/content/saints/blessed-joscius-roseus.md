@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Joscius Roseus
+stub: false
 honorific: Blessed
 summary: Benedictine monk at Saint Bertin Abbey, diocese of Arras, France. Renowned for his devotion to Our Lady.
 searchAliases:

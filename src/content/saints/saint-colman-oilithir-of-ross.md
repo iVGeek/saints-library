@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Colman Oilithir of Ross
+stub: false
 honorific: Saint
 summary: >-
   Student of Saint Finbar in Cork, Ireland. Evangelist in the area of Rosscarbery, East Carbery, County Cork, Munster,

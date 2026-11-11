@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Cominus of Catania
+stub: true
 honorific: Saint
 summary: Martyr.
 died: in Catania, Sicily

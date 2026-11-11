@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Salvius
+stub: false
 honorific: Saint
 summary: >-
   Bishop near Angouleme, France. Missionary to the Flemish in Valenciennes (in modern France) with Saint Superius.

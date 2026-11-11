@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Ioannes Chen Xianheng
+stub: false
 honorific: Venerable
 summary: Layman in the apostolic vicariate of Guizhou, China. Convert. Catechist. Martyr.
 searchAliases:

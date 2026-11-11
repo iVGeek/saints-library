@@ -1,5 +1,6 @@
 ---
 name: Blessed Corrado of Spoleto
+stub: false
 image: https://upload.wikimedia.org/wikipedia/commons/d/dd/Piazza-arcobalena.jpg
 honorific: Blessed
 summary: >-

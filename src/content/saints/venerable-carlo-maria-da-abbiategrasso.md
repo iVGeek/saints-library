@@ -1,5 +1,6 @@
 ---
 name: Venerable Carlo Maria da Abbiategrasso
+stub: false
 honorific: Venerable
 summary: >-
   The eldest of 17 children born to Carlo Vigevano and Giuditta Colzi. Gaetano's father was a tailor, and the boy grew

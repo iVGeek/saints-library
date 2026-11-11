@@ -1,5 +1,6 @@
 ---
 name: Ten Thousand Martyrs of Ararat
+stub: false
 honorific: Saint
 summary: >-
   A group of thousands of Christians martyred on Mount Ararat. Some tellings make them all soldiers, some that they were

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/e/e8/Saint_brendan_german_manuscript.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Marmaduke Bowes
+stub: false
 honorific: Blessed
 summary: >-
   Married layman and father. Fearful of the persecutions of the day, he was a covert Catholic who put in appearances in

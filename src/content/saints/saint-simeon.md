@@ -1,5 +1,6 @@
 ---
 name: Saint Siméon-François Berneux
+stub: false
 honorific: Saint
 title: St. Siméon-François Berneux
 summary: >-

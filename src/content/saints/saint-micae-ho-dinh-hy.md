@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Micae Hô Ðình Hy
+stub: false
 honorific: Saint
 summary: >-
   A mandarin (official of the imperial court) and supervisor of the royal silk factories, Micae was a covert Christian

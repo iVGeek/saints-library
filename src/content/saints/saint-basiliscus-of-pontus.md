@@ -1,5 +1,6 @@
 ---
 name: Saint Basiliscus of Pontus
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Comana in Pontus, Asia Minor (in modern Turkey). One of a large group of Christians who were tortured and

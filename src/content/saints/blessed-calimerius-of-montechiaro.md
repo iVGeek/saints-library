@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Calimerius of Montechiaro
+stub: false
 honorific: Blessed
 summary: >-
   Dominican. Spent a long life preaching throughout Italy. When he was 90 years old and unable to climb into the pulpit,

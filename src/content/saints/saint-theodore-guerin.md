@@ -1,5 +1,6 @@
 ---
 name: Saint Théodore Guérin
+stub: false
 honorific: Saint
 title: St. Théodore Guérin
 summary: >-

@@ -1,6 +1,7 @@
 ---
 image: https://www.catholic.org/files/images/saints/3243.jpg
 name: Saint Eurgain
+stub: false
 honorific: Saint
 summary: >-
   Sixth century Welsh princess, the daughter of chieftain Caradog of Glamorgan, Wales. Founded the convent of

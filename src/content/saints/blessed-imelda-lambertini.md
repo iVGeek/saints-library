@@ -1,5 +1,6 @@
 ---
 name: Blessed Imelda Lambertini
+stub: false
 honorific: Blessed
 summary: >-
   Daughter of Count Egano Lambertini of Bologna and Castora Galuzzi. While still a child, she put together a little

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Thecla of Kitzingen
+stub: false
 honorific: Saint
 summary: >-
   Benedictine nun at Wimborne Abbey, Dorset, England. Missionary to Germany, working with her relative, Saint Lioba of

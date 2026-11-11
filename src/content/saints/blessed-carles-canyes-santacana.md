@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Carles Canyes Santacana
+stub: false
 honorific: Blessed
 summary: >-
   Franciscan Capuchin friar, joining on 25 July 1933. He never made his solemn profession as he was murdered by Marxists

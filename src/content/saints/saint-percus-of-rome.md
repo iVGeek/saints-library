@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/5/5f/Louis_XIV_of_France.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Percus of Rome
+stub: false
 honorific: Saint
 summary: One of a group of 226 Christians martyred in Rome, Italy, date unknown; no details of their lives have survived.
 region: Italy

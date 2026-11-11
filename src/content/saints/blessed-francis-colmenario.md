@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Francis Colmenario
+stub: false
 honorific: Blessed
 summary: >-
   Discalced Franciscan friar. Priest. Missionary to the West Indies and Guatemala, serving for 35 years. First

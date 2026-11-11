@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Theodosius of Vaison
+stub: true
 honorific: Saint
 title: Bishop
 summary: Bishop of Vaison, France.

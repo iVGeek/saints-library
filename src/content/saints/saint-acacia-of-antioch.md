@@ -1,5 +1,6 @@
 ---
 name: Saint Acacia of Antioch
+stub: true
 honorific: Saint
 summary: One of a group of 250 Christians martyred together in Antioch.
 searchAliases:

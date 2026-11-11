@@ -1,5 +1,6 @@
 ---
 name: Blessed Guido of Acqui
+stub: false
 honorific: Blessed
 summary: >-
   Born to the nobility; his father was the Count of Acquesana. Educated in Bologna, Italy. Bishop of Acqui,

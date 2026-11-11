@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Eoin O'Mulkern
+stub: true
 honorific: Blessed
 summary: Premonstratensian priest. One of the Irish Martyrs.
 searchAliases:

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Auxentius of Mopsuetia
+stub: false
 honorific: Saint
 summary: >-
   Officer in the personal guard of the Emperor Augustus Licinus. Dismissed from his post for refusing to sacrifice to

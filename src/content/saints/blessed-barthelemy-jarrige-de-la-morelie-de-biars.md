@@ -1,5 +1,6 @@
 ---
 name: Blessed Barthélemy Jarrige de La Morelie de Biars
+stub: false
 honorific: Blessed
 summary: >-
   Priest of the diocese of Limoges, France. Imprisoned on a ship in the harbor of Rochefort, France and left to die

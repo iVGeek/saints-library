@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Vera of Clermont
+stub: false
 honorific: Saint
 summary: >-
   Holy woman whose relics are enshrined in the church of Saint Artemius in Clermont, France. No details of her life have

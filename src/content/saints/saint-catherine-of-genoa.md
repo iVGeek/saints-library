@@ -1,5 +1,6 @@
 ---
 name: Saint Catherine of Genoa
+stub: false
 honorific: Saint
 title: St. Catherine of Genoa
 summary: >-

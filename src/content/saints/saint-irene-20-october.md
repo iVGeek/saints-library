@@ -1,5 +1,6 @@
 ---
 name: Saint Irene of Tomar
+stub: false
 honorific: Saint
 summary: Nun in Portugal, possibly at Santarem where her memory is especially revered. Died fighting off a rape attempt.
 image: >-

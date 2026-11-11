@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Josep Maria Masip Tamarit
+stub: true
 honorific: Blessed
 summary: Member of the Discalced Carmelites. Martyred in the Spanish Civil War.
 searchAliases:

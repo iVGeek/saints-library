@@ -1,5 +1,6 @@
 ---
 name: Saint Flannán of Killaloe
+stub: false
 honorific: Saint
 summary: >-
   Son of an Irish chieftain named Turdough. Intellectual and spiritual student of the monk Saint Molua. Despite family

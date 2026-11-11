@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Chorus of Africa
+stub: true
 honorific: Saint
 summary: Martyred in Africa. No other information has survived.
 searchAliases:

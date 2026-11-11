@@ -1,6 +1,7 @@
 ---
 image: https://www.santiebeati.it/immagini/Thumbs/97220/97220.JPG
 name: Blessed Joaquín Berruezo Prieto
+stub: true
 honorific: Blessed
 summary: Priest of the diocese of Almeria Spain. Martyred in the Spanish Civil War.
 birthYear: 1899

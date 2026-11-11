@@ -1,5 +1,6 @@
 ---
 name: Saint Cosmas Takeya
+stub: false
 honorific: Saint
 summary: >-
   Sword maker. Convert to Christianity, brought into the faith by Jesuit missionaries. Lay Franciscan tertiary.

@@ -1,5 +1,6 @@
 ---
 name: Venerable Ludovico Fioravanti
+stub: false
 honorific: Venerable
 summary: >-
   Franciscan Friar Minor, taking the name Gregorio. Priest. Served as a teacher in Rome and Venice, Italy. Elected

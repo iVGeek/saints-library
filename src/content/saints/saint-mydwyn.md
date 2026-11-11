@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Mydwyn
+stub: false
 honorific: Saint
 summary: >-
   Sent with Saint Elvan by King Saint Lucius to Pope Saint Eleuterus to petition for missionaries to Britain. In Rome he

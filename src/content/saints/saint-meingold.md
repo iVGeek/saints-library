@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Meingold
+stub: false
 honorific: Saint
 summary: >-
   Member of a noble family of Liege, Belgium, the County of Huy, Belgium. Known for his personal holiness. Assassinated

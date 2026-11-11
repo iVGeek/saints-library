@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/7/72/Antoni_Gaudi_1878.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Joan Torrents Figueras
+stub: false
 honorific: Blessed
 summary: >-
   Member of the Claretians, making his profession on 8 December 1889. Ordained a priest on 3 April 1897. Martyred in the

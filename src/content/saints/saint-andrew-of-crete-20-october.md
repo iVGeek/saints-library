@@ -1,5 +1,6 @@
 ---
 name: Saint Andrew of Crete
+stub: false
 honorific: Saint
 summary: >-
   Eighth-century hermit on Crete. When the Byzantine Emperor Constantine Copronymus published his edict against

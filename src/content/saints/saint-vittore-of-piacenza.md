@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Vittore of Piacenza
+stub: true
 honorific: Saint
 title: Deacon
 summary: Fifth century deacon of Piacenza, Italy.

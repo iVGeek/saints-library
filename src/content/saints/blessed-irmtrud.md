@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Irmtrud
+stub: false
 honorific: Blessed
 summary: >-
   13th-century Poor Clare nun. Correspondent with Saint Clare of Assisi. Founded Poor Clare monasteries in several

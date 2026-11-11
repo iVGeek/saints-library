@@ -1,5 +1,6 @@
 ---
 name: Blessed Artale
+stub: false
 honorific: Blessed
 summary: >-
   Soldier. Knight. Lay member of the Mercedarians. Ransomed at least 150 Christian prisoners from slavery in Africa.

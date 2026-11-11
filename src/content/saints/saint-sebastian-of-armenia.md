@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Sebastian of Armenia
+stub: true
 honorific: Saint
 summary: Armenian monk. Martyr.
 region: England

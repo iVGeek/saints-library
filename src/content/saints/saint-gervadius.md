@@ -1,5 +1,6 @@
 ---
 name: Saint Gervadius
+stub: false
 honorific: Saint
 summary: >-
   Hermit at Kenedor and Holyman Head in Scotland, where he lived in a cave. He would light torches at night to warn

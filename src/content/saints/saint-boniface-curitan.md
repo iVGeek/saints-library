@@ -1,5 +1,6 @@
 ---
 name: Saint Boniface Curitan
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Ross, Scotland. Evangelized the Picts and Scots. Introduced Roman liturgy, observance and monastic

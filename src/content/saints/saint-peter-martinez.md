@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Peter Martinez
+stub: false
 honorific: Saint
 summary: >-
   Benedictine monk at the monastery of Saint Mary of Mozonzo c.950. Abbot of Saint Martin of Antealares in Compostela,

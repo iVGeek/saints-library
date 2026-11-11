@@ -1,5 +1,6 @@
 ---
 name: Venerable Cesare Baronio
+stub: false
 honorific: Venerable
 summary: >-
   Born to the nobility in Naples, Italy, the son of Camillo Baronio and Porzia Febonia. Educated in Veroli, Italy.

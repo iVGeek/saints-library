@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Ceolwulph
+stub: false
 honorific: Saint
 summary: >-
   Eighth century king of Northumbria in England. Patron and supporter of Venerable Bede who dedicated his Ecclesiastical

@@ -1,5 +1,6 @@
 ---
 name: Venerable Nicolò Cortese
+stub: true
 honorific: Venerable
 summary: Professed priest in the Friars Minor Conventual.
 image: https://commons.wikimedia.org/wiki/Special:FilePath/PlacidoCortese1933.jpg?width=600

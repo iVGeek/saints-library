@@ -1,5 +1,6 @@
 ---
 name: Blessed Antonio Franco
+stub: false
 honorific: Blessed
 summary: >-
   Born to the nobility; his family were French expatriates. Earned a doctorate in civil and canon law at age 17. Studied

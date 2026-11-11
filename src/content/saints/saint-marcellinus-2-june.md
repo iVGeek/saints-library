@@ -1,5 +1,6 @@
 ---
 name: Saint Marcellinus
+stub: false
 honorific: Saint
 summary: >-
   Priest in Rome, Italy. Noted for his piety. Martyred with Saint Peter in the persecutions of Diocletian. His name is

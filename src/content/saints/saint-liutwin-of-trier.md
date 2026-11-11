@@ -1,5 +1,6 @@
 ---
 name: Saint Liutwin of Trier
+stub: false
 honorific: Saint
 summary: Married. A widower, he founded a monastery in Mettlach, Germany and became a monk there. Bishop of Trier, Germany.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Liutwin-of-Trier.jpg

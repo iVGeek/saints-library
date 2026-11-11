@@ -1,5 +1,6 @@
 ---
 name: Blessed James Bell
+stub: false
 honorific: Blessed
 summary: >-
   Educated at Oxford University. Priest. Though he resisted the Reformation changes at first, he eventually conformed to

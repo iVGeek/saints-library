@@ -1,5 +1,6 @@
 ---
 name: Blessed Salvador Chuliá Ferrandis
+stub: false
 honorific: Blessed
 summary: >-
   Studied at the Conciliar Seminary of Valencia, Spain. Joined the Capuchin Tertiary Fathers and Brothers of Our Lady of

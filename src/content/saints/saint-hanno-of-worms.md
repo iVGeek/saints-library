@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Hanno of Worms
+stub: false
 honorific: Saint
 summary: >-
   Benedictine monk in the monastery of Saint Maximin in Trier, Germany. First abbot of the monastery of Saint Mauritius

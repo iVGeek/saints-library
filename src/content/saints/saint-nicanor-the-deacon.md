@@ -1,5 +1,6 @@
 ---
 name: Saint Nicanor the Deacon
+stub: false
 honorific: Saint
 summary: >-
   Chosen by the Apostles as one of the seven deacons and minister of charities in Jerusalem. Missionary to Cyprus.

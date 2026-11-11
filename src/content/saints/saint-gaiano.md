@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Gaiano
+stub: true
 honorific: Saint
 summary: Martyr.
 died: on the Adriatic coast of modern Croatia

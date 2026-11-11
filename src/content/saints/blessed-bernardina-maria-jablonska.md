@@ -1,5 +1,6 @@
 ---
 name: Blessed Bernardina Maria Jabłońska
+stub: false
 honorific: Blessed
 summary: >-
   Raised in a pious family. Spiritual student of Saint Albert Chmielowski. Co-foundress of the Sisters of the Third

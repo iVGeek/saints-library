@@ -1,5 +1,6 @@
 ---
 name: Saint Alferius of La Cava
+stub: false
 honorific: Saint
 summary: >-
   Member of the noble Pappacarbone family. Ambassador for Duke Gisulf of Salerno, Italy. When he fell seriously ill at

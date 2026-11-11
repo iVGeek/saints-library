@@ -1,5 +1,6 @@
 ---
 name: Martyrs of Plovdiv
+stub: false
 honorific: Saint
 summary: 38 Christians martyred together in the persecutions of Diocletian and Maximian. We don't even known their names.
 searchAliases:

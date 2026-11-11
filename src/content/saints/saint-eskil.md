@@ -1,5 +1,6 @@
 ---
 name: Saint Eskil
+stub: false
 honorific: Saint
 summary: >-
   Missionary, working in Sweden with Saint Ansgar. Bishop. He converted so many pagan Swedes to Christianity that he was

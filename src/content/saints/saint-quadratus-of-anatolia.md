@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Quadratus of Anatolia
+stub: false
 honorific: Saint
 summary: Bishop in Anatolia (in modern Turkey). Martyred with 42 companions in the persecutions of Diocletian.
 searchAliases:

@@ -1,5 +1,6 @@
 ---
 name: Blessed Columba Marmion
+stub: false
 honorific: Blessed
 title: Missionary
 summary: ' He dreamed of becoming a miss Son of an Irish father, William Marmion, and French mother, Herminie Cordier. He entered the seminary in Dublin, Ireland  in 1874, and studied at the College for the Propagation of the Faith in Rome, Italy from 1876. Ordained in Rome on 16 June 1881.'

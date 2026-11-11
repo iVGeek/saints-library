@@ -1,5 +1,6 @@
 ---
 name: Saint Paulinus of Antioch
+stub: false
 honorific: Saint
 summary: >-
   First bishop of Lucca, Tuscany, Italy. Legend says he was sent there by Saint Peter the Apostle. Martyred with a

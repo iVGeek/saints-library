@@ -1,5 +1,6 @@
 ---
 name: Saint Sergius of Moscow
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility, his family moved to Radonezh to escape attack against the city of Rostov, losing their fortune

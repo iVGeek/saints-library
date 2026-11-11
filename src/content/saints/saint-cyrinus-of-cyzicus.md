@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Cyrinus of Cyzicus
+stub: true
 honorific: Saint
 summary: Soldier in the Roman army. Martyred.
 deathYear: 320

@@ -1,5 +1,6 @@
 ---
 name: Saint Socrates
+stub: true
 honorific: Saint
 summary: Early martyr venerated in England. No other information has survived.
 region: England

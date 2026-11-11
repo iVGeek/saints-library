@@ -1,5 +1,6 @@
 ---
 name: Blessed Joachim of Fiore
+stub: false
 honorific: Blessed
 summary: >-
   Born to a middle class family; his father was a notary. Page to the court of the Norman King Roger of Sicily. Pilgrim

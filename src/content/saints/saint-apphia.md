@@ -1,5 +1,6 @@
 ---
 name: Saint Apphia
+stub: true
 honorific: Saint
 summary: Married to Saint Philemon. Martyr.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Apphia.jpg

@@ -1,6 +1,7 @@
 ---
 image: https://www.catholic.org/files/images/saints/815.jpg
 name: Saint Theophanes
+stub: false
 honorific: Saint
 summary: >-
   Officer in the Byzantine imperial court of Leo the Armenian. He was arrested with three others officers for treason

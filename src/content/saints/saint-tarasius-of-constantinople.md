@@ -1,5 +1,6 @@
 ---
 name: Saint Tarasius of Constantinople
+stub: false
 honorific: Saint
 summary: >-
   Born to the Byzantine nobility. Consul and then Secretary of State to Emperor Constantine IV and Empress Irene. Though

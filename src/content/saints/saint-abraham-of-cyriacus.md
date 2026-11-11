@@ -1,5 +1,6 @@
 ---
 name: Saint Abraham of Cyriacus
+stub: false
 honorific: Saint
 summary: >-
   While seeking to learn from hermits, Abraham was captured by bandits in Egypt, he was imprisoned and enslaved by them

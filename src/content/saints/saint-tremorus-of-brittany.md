@@ -1,5 +1,6 @@
 ---
 name: Saint Tremorus of Brittany
+stub: false
 honorific: Saint
 summary: >-
   Son of Saint Triphina. Educated by Saint Gildas the Wise. Murdered as a child by his step-father, Count Conmore due to

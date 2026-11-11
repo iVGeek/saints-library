@@ -1,5 +1,6 @@
 ---
 name: Saint Ralph of Bourges
+stub: false
 honorific: Saint
 summary: >-
   Born to the French royal family, the son of the count of Cahors and lord of Turenne. Ralph gave up his worldly

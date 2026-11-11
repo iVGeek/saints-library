@@ -1,5 +1,6 @@
 ---
 name: Blessed Francisca Cualladó Baixauli
+stub: false
 honorific: Blessed
 summary: >-
   Lay woman in the archdiocese of Valencia, Spain; baptized at the age of 2 days. Her father died when Francisca was

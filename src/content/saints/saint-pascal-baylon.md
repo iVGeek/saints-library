@@ -1,5 +1,6 @@
 ---
 name: Saint Pascal Baylon
+stub: false
 honorific: Saint
 summary: >-
   Son of the pious peasants Martin Baylon and Elizabeth Jubera. From youth he displayed great devotion to the Eucharist.

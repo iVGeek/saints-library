@@ -1,5 +1,6 @@
 ---
 name: Blessed Stefan Wyszyński
+stub: false
 honorific: Blessed
 summary: >-
   Born to a poor member of the Polish nobility, Stefan's mother died when the boy was nine years old. Ordained a priest

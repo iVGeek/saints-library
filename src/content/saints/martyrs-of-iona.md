@@ -1,5 +1,6 @@
 ---
 name: Martyrs of Iona
+stub: false
 honorific: Saint
 summary: Thirty-eight monks martyred in Iona, Ireland. Their names have not come down to us.
 searchAliases:

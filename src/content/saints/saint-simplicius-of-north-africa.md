@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Simplicius of North Africa
+stub: false
 honorific: Saint
 summary: One of a group of Christians martyred in the persecutions of Decius and Valerian. No other information has survived.
 deathYear: 255

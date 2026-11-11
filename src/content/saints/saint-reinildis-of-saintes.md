@@ -1,5 +1,6 @@
 ---
 name: Saint Reinildis of Saintes
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility, the daughter of Saint Amalburga and Duke Witger of Lorraine; sister of Saint Gudula of Brussels

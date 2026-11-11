@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Hesychius of Antioch
+stub: false
 honorific: Saint
 summary: >-
   Imperial Roman soldier during a period of persecution. Suddenly moved to proclaim his faith, he threw off his military

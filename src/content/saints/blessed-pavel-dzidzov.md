@@ -1,5 +1,6 @@
 ---
 name: Blessed Pavel Dzidzov
+stub: false
 honorific: Blessed
 summary: >-
   Joined the Congregation of the Assumption in 1926. Studied at Saint Augustine College, Plovdiv, Bulgaria from 1931 to

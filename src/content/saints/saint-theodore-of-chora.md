@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Theodore of Chora
+stub: false
 honorific: Saint
 summary: >-
   Maternal uncle of Empress Theodora. General of the Byzantine armies during war with the Persians in 528. Following the

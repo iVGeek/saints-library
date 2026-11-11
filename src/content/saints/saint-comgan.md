@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Comgan
+stub: true
 honorific: Saint
 summary: Monk. Abbot in Glenthsen, Ireland.
 searchAliases:

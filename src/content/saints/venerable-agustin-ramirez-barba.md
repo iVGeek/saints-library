@@ -1,5 +1,6 @@
 ---
 name: Venerable Agustín Ramírez Barba
+stub: false
 honorific: Venerable
 summary: >-
   Born to a poor family. Ordained on 2 August 1908 in the diocese of San Juan de los Lagos, Mexico. Director of the

@@ -1,5 +1,6 @@
 ---
 name: Blessed Amadeus of Clermont
+stub: false
 image: https://upload.wikimedia.org/wikipedia/commons/1/10/AmadeuClermontI.png
 honorific: Blessed
 summary: >-

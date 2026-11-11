@@ -1,5 +1,6 @@
 ---
 name: Saint Ioannes Baptista Chon Chang-un
+stub: false
 honorific: Venerable
 summary: >-
   Married layman, father and family man in the apostolic vicariate of Korea. Adult convert. Worked with Saint Petrus

@@ -1,5 +1,6 @@
 ---
 name: Saint Godfried van Duynen
+stub: false
 honorific: Saint
 summary: >-
   Parish priest in the diocese of Utrecht, Netherlands. Rector of a school in Paris, France. Martyred by Calvinists for

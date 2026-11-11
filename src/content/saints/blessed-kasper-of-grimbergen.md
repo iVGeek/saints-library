@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Kasper of Grimbergen
+stub: false
 honorific: Blessed
 summary: >-
   Premonstratensian monk. Canon of the Grimbergen Premonstratensian monastery in modern Flanders, Belgium. Priest. When

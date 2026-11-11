@@ -1,5 +1,6 @@
 ---
 name: Saint Boniface of Trier
+stub: true
 honorific: Saint
 summary: Martyred with a group of Christians in the persecutions of Maximian Herculeus.
 deathYear: 287

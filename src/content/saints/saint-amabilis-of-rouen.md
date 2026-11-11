@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Amabilis of Rouen
+stub: true
 honorific: Saint
 summary: Born to the English nobility. Nun at Saint-Amand in Rouen, France.
 deathYear: 634

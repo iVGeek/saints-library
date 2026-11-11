@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/6/60/Our_Lady_of_Guadalupe_Church%2C_Calle_69_n53_-Av.6%2C_Venustiano_Carranza%2C_Federal_District%2C_Mexico05.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Tomás Morales y Morales
+stub: false
 honorific: Blessed
 summary: >-
   Member of the Domincans. Ordained a priest in 1931. Professor of Greek and Hebrew in Almería, Spain in 1933. On 21

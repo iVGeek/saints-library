@@ -1,5 +1,6 @@
 ---
 name: Saint Caesarius of Damascus
+stub: true
 honorific: Saint
 summary: Martyred with six companions. No other information has survived.
 died: in Damascus, Syria

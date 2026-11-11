@@ -1,5 +1,6 @@
 ---
 name: Venerable Virginja de Brincat
+stub: false
 honorific: Venerable
 summary: >-
   Made a private vow of virginity at age 15. Member of the Association of the Twelve Stars of the Heart of Jesus on 8

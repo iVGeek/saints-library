@@ -1,5 +1,6 @@
 ---
 name: Saint Brychan of Brycheiniog
+stub: false
 honorific: Saint
 summary: King in Wales. Relative of Saint Clydog and Saint Dubritius of Llandaff. Father of
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Brychan-of-Brycheiniog.jpg

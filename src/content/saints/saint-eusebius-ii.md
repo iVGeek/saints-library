@@ -1,5 +1,6 @@
 ---
 name: Saint Eusebius II
+stub: true
 honorific: Saint
 title: Bishop
 summary: Bishop of Vercelli, Italy in 501.

@@ -1,5 +1,6 @@
 ---
 name: Saint Eustochium
+stub: false
 honorific: Saint
 summary: >-
   Daughter of Saint Paula of Rome and Roman senator Toxotius. Sister of Saint Blaesilla. Spiritual student of Saint

@@ -1,5 +1,6 @@
 ---
 name: Venerable Marie-Charlotte Dupouy Bordes
+stub: false
 honorific: Venerable
 summary: >-
   Nun. Member of the Society of the Sacred Heart of Jesus. Founded the Missionaries of the Sacred Heart of Jesus and of

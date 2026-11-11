@@ -1,5 +1,6 @@
 ---
 name: Saint Benigno of Malcesine
+stub: false
 honorific: Saint
 title: Hermit
 summary: >-

@@ -1,5 +1,6 @@
 ---
 name: Blessed Adolf IV of Schauenburg
+stub: false
 honorific: Blessed
 summary: >-
   Born to the nobility. Count of Schauenburg, Germany. Conquered the Holstein region of modern Germany from invading

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Genistus of Limoges
+stub: true
 honorific: Saint
 summary: Monk at Beaulieu, Limousin, Limoges. Martyr.
 searchAliases:

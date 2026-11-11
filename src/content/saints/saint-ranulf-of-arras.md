@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Ranulf of Arras
+stub: true
 honorific: Saint
 summary: Father of Saint Hadulph. Martyr.
 searchAliases:

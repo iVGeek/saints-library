@@ -1,5 +1,6 @@
 ---
 name: Blessed Nicholas Horner
+stub: false
 honorific: Blessed
 summary: >-
   Lifelong layman and a tailor by trade. An informal but enthusiastic evangelist for Catholicism. While in London,

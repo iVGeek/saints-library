@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Benedict d'Alignan
+stub: false
 honorific: Blessed
 summary: >-
   13th century Benedictine monk. Abbot of his house. Bishop of Marseilles in southern France. Following a pilgrimage to

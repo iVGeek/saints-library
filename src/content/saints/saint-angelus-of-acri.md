@@ -1,5 +1,6 @@
 ---
 name: Saint Angelus of Acri
+stub: false
 honorific: Venerable
 summary: >-
   Twice refused admission to the Capuchins, but was finally accepted in 1690. Priest. His first sermons were miserable

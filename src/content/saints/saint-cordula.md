@@ -1,5 +1,6 @@
 ---
 name: Saint Cordula
+stub: false
 honorific: Saint
 summary: >-
   One of the companions of Saint Ursula. When she saw the tortures being inflicted on her friends, she hid, but the next

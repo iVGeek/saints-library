@@ -1,5 +1,6 @@
 ---
 name: Saint Paula of Saint Joseph of Calasanz
+stub: false
 honorific: Venerable
 summary: >-
   Daughter of Ramon and Vicenta Fornes Montal. Raised in a large and pious family in a small seaside village. Her father

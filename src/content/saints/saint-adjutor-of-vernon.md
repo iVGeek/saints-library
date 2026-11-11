@@ -1,5 +1,6 @@
 ---
 name: Saint Adjutor of Vernon
+stub: false
 honorific: Saint
 summary: >-
   Lord of Vernon-sur-Seine. Norman knight in the First Crusade in 1095 during which he was captured by Muslims who tried

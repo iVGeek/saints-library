@@ -1,5 +1,6 @@
 ---
 name: Blessed Pope Eugene III
+stub: false
 honorific: Blessed
 summary: >-
   Prominent Cistercian monk. Friend of Saint Bernard of Clairvaux. Abbot of the monastery of Tre Fontaine. Elected pope

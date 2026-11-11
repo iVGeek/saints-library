@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Hierotheus
+stub: true
 honorific: Saint
 summary: Friend and teacher of Saint Dionysius the Aeropagite.
 region: England

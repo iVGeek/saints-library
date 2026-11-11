@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/3/32/Burke-BB-768x1152.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed John Burke
+stub: true
 honorific: Blessed
 summary: Layman in the diocese of Limerick, Ireland. One of the Irish Martyrs.
 deathYear: 1606

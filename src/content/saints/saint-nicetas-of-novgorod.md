@@ -1,5 +1,6 @@
 ---
 name: Saint Nicetas of Novgorod
+stub: false
 honorific: Saint
 summary: >-
   Monk at the Monastery of the Caves. Hermit. Tormented by demons in his solitude, he returned to the monastery. Bishop

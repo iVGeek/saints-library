@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Eusebius of Sicily
+stub: true
 honorific: Saint
 summary: Exile.
 deathYear: 310

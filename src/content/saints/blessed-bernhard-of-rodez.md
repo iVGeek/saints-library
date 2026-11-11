@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/41/Cathedrale_vue_de_montjuzet_detail.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Bernhard of Rodez
+stub: false
 honorific: Blessed
 summary: >-
   Born to the nobility, one of eight children born to Viscount Richard II of Millau and Rixinde. Benedictine monk at the

@@ -1,5 +1,6 @@
 ---
 name: Blessed María Purificación Vidal Pastor
+stub: false
 honorific: Blessed
 summary: >-
   Lifelong lay woman in the archdiocese of Valencia, Spain. Tutor. Member of Catholic Action. Devoted to teaching and

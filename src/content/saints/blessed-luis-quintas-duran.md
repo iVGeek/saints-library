@@ -1,5 +1,6 @@
 ---
 name: Blessed Luis Quintas Durán
+stub: false
 honorific: Blessed
 summary: Young layman in the diocese of Almería, Spain. Martyred in the Spanish Civil War.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Luis-Quintas-Duran.jpg

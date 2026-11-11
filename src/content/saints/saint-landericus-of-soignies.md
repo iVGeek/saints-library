@@ -1,5 +1,6 @@
 ---
 name: Saint Landericus of Soignies
+stub: false
 honorific: Saint
 summary: >-
   Eldest son of Saint Madelgarus and Saint Waldetrudis. Soldier. Priest. Bishop of Meaux, France from 641 to 650.

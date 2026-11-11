@@ -1,6 +1,7 @@
 ---
 image: https://www.santiebeati.it/immagini/Thumbs/97277/97277.JPG
 name: Blessed Herminio Motos Torrecillas
+stub: true
 honorific: Blessed
 summary: Priest in the diocese of Almeria Spain. Martyred in the Spanish Civil War.
 birthYear: 1877

@@ -1,5 +1,6 @@
 ---
 name: Saint Remigius of Rouen
+stub: false
 honorific: Saint
 summary: >-
   Son of Charles Martel. Archbishop of Rouen, France in 755. He served as ambassador to the court of King Desiderio of

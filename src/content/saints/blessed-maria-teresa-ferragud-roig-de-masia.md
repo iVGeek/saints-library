@@ -1,5 +1,6 @@
 ---
 name: Blessed María Teresa Ferragud Roig de Masiá
+stub: false
 honorific: Blessed
 summary: >-
   Lifelong lay woman in the archdiocese of Valencia, Spain. Married and mother of Blessed María Joaquina Masiá Ferragud,

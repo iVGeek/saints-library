@@ -1,5 +1,6 @@
 ---
 name: Blessed Jacopone da Todi
+stub: false
 honorific: Blessed
 summary: >-
   Italian noble from the Benedetti family of Todi. Successful lawyer at Bologna, Italy. Married to Vanna di Guidone in

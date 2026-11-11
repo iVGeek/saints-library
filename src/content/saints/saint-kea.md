@@ -1,5 +1,6 @@
 ---
 name: Saint Kea
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility; some records indicate that he was the son of King Lleuddun Luyddog of Lothian. Ordained a priest

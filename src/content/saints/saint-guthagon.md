@@ -1,5 +1,6 @@
 ---
 name: Saint Guthagon
+stub: true
 honorific: Saint
 summary: May have been Irish royalty. Hermit at Oostkerk, Flanders, Belgium.
 born: Eighth century Ireland

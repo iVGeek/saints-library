@@ -1,5 +1,6 @@
 ---
 name: Blessed Maurice Tornay
+stub: false
 honorific: Blessed
 summary: >-
   Seventh of eight children born to Jean-Joseph Tornay and Faustina Dossier, and likely named for Saint Maurice of the

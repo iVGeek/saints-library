@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Gerald of Beziers
+stub: false
 honorific: Saint
 summary: >-
   Augustinian canon regular. Deacon in 1094; ordained to the priesthood in 1101. Abbot of Cassan Abbey near Roujan,

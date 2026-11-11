@@ -1,5 +1,6 @@
 ---
 name: Saint Hadelin of Chelles
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility. Benedictine monk. Spiritual student of Saint Remaclus. Worked with Remaclus at Solignac, at

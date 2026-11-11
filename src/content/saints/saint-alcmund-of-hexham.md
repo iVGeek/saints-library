@@ -1,5 +1,6 @@
 ---
 name: Saint Alcmund of Hexham
+stub: false
 honorific: Saint
 summary: Bishop of Hexham in 767. He was renowned for his piety, but no other certain information about him has survived.
 searchAliases:

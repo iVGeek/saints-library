@@ -1,5 +1,6 @@
 ---
 name: Saint Aemilian of Dorostorium
+stub: false
 honorific: Saint
 summary: >-
   Son of the imperial Roman prefect of Dorostorium. Martyred in the persecutions of Julian the Apostate for destroying

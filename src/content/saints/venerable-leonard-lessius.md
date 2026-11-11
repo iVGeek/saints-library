@@ -1,5 +1,6 @@
 ---
 name: Venerable Leonard Lessius
+stub: false
 honorific: Venerable
 summary: >-
   Earned his doctorate of philosophy at Louvain, Belgium at age 17. Joined the Society of Jesus in 1573. Studied

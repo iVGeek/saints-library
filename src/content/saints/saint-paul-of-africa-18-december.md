@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/3/31/Minneapolis_Skyline_looking_south.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Paul of Africa
+stub: false
 honorific: Saint
 summary: One of a group of 35 martyrs who died together. No other information has survived.
 died: in northwestern Africa

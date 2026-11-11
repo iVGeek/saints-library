@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Serenus of Alexandria
+stub: true
 honorific: Saint
 summary: Spiritual student of Origen. Martyred in the persecutions of Severus.
 searchAliases:

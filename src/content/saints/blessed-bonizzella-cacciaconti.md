@@ -1,5 +1,6 @@
 ---
 name: Blessed Bonizzella Cacciaconti
+stub: false
 honorific: Blessed
 summary: >-
   Born to the Italian nobility, the daughter of Ildebrandino Cacciaconti. Married to Naddo di Benuccio Piccolomini, a

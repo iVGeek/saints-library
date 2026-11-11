@@ -1,5 +1,6 @@
 ---
 name: Martyrs of Rome
+stub: true
 honorific: Saint
 summary: Group of 165 Christians martyred in the persecutions of Aurelian.
 deathYear: 274

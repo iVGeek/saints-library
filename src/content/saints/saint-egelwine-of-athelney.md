@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Egelwine of Athelney
+stub: false
 honorific: Saint
 summary: Seventh century prince of Wessex, England. Lived as a prayerful hermit at Athelney, Somersetshire, England.
 searchAliases:

@@ -1,5 +1,6 @@
 ---
 name: Pope Saint Leo the Great
+stub: false
 honorific: Saint
 summary: ' Pope from 440 to 461 during the time of the invasion of Attila the Hun. When Attila marched on Rome, Leo went out to meet him and pleaded for him to leave. As Born to the Italian nobility. Strong student, especially in scripture and theology. Priest. Eloquent writer and homilist.'
 image: https://catholicsaints.info/wp-content/uploads/img-Pope-Saint-Leo-the-Great.jpg

@@ -1,5 +1,6 @@
 ---
 name: Saint Pammachius
+stub: false
 honorific: Saint
 summary: >-
   Pious and learned Roman senator and proconsul; member of the noble Fuii family. Studied rhetoric with Saint Jerome.

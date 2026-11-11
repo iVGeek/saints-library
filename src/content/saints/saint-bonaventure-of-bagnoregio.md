@@ -1,5 +1,6 @@
 ---
 name: Saint Bonaventure of Bagnoregio
+stub: false
 honorific: Saint
 summary: >-
   Healed from a childhood disease through the prayers of Saint Francis of Assisi. Bonaventure joined the Order of Friars

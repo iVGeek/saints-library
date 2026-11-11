@@ -1,5 +1,6 @@
 ---
 name: Blessed Francesco Paoli
+stub: false
 honorific: Blessed
 summary: >-
   The son of Angelo Paoli and Santa Morelli. As a young man he spent his spare time teaching catechism to poor children

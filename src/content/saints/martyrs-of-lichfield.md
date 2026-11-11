@@ -1,5 +1,6 @@
 ---
 name: Martyrs of Lichfield
+stub: false
 honorific: Saint
 summary: >-
   Many Christians suffered at Lichfield (aka Lyke-field, meaning field of dead bodies), England in the persecutions of

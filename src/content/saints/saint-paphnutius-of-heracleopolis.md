@@ -1,5 +1,6 @@
 ---
 name: Saint Paphnutius of Heracleopolis
+stub: false
 honorific: Saint
 summary: >-
   Spiritual student of Saint Anthony the Great and Saint Paul of Thebes. Monk. Founded the monastery of Hercleopolis

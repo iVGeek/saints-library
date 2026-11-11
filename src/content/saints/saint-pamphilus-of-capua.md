@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/7/78/Cattedrale_di_Capua%2C_Presbiterio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Pamphilus of Capua
+stub: true
 honorific: Saint
 summary: Bishop of Capua, Italy.
 deathYear: 400

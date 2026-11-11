@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Maximus of Verona
+stub: true
 honorific: Saint
 title: Bishop
 summary: Sixth-century bishop of Verona, Italy.

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Mencia of Kyoto
+stub: false
 honorific: Blessed
 summary: Married lay woman in the Kyoto, Japan. Mother of Blessed Lucia of Kyoto. Widow. One of the Martyrs of Kyoto.
 deathYear: 1619

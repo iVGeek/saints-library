@@ -1,5 +1,6 @@
 ---
 name: Saint Paulina do Coração Agonizante de Jesus
+stub: false
 honorific: Venerable
 summary: >-
   The daughter of Antonio Napoleone Visintainer and Anna Pianezzer, she was born to a poor but pious family. In

@@ -1,5 +1,6 @@
 ---
 name: Saint Fortunato the Theban
+stub: false
 honorific: Saint
 summary: >-
   Soldier. Member of the Theban Legion. He escaped the massacre of his fellow Legionaires only to be later captured and

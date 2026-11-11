@@ -1,5 +1,6 @@
 ---
 name: Saint Jarlath of Tuam
+stub: false
 honorific: Saint
 summary: >-
   Born to the Irish nobility. Studied under Saint Benignus. Priest. Founded a monastery and college at Cluain Fois

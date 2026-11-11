@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Albert of Montecorvino
+stub: false
 honorific: Saint
 title: Bishop
 summary: >-

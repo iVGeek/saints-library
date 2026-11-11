@@ -1,5 +1,6 @@
 ---
 name: Blessed Juan Díaz Nosti
+stub: false
 honorific: Blessed
 summary: >-
   Joined the Claretians in 1893. Ordained in 1906 in Zaragoza, Spain. Superior of the community in Calatayud, Spain in

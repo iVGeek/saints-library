@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Faustinus of Brescia
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Brescia, Italy c.360. Legend says that he was a relative of Saint Faustinus and Saint Jovita, and we know

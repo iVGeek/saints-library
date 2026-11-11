@@ -1,5 +1,6 @@
 ---
 name: Saint Flavian of Civitavecchia
+stub: true
 honorific: Saint
 summary: Roman deputy prefect. Martyred in the persecutions of Diocletian.
 searchAliases:

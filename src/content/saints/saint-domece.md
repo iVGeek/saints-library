@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Domèce
+stub: false
 honorific: Saint
 summary: >-
   Pagan physician in service of Roman Emperor Valens. Sometime between 364 and 378, an angel appeared to Domèce and

@@ -1,5 +1,6 @@
 ---
 name: Saint Jenaro Sánchez DelGadillo
+stub: false
 honorific: Venerable
 summary: >-
   Seminarian at Guadalajara, Mexico. Ordained in 1911. Priest at several parishes, including Tecolotlan, Jalisco. Noted

@@ -1,6 +1,7 @@
 ---
 image: https://www.santiebeati.it/immagini/Thumbs/100159/100159.JPG
 name: Blessed Gabriel López-Cepero y Murú
+stub: false
 honorific: Blessed
 summary: >-
   Lifelong layman in the archdiocese of Sevilla, Spain. Married to María Teresa Ovelar Ovelar, with whom he had seven

@@ -1,5 +1,6 @@
 ---
 name: Saint James of Tarentaise
+stub: false
 honorific: Saint
 summary: >-
   Soldier in the imperial Persian army. Convert to Christianity. Monk. Spiritual student of Saint Honoratus at Lérins in

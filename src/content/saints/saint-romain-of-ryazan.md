@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Romain of Ryazan
+stub: false
 honorific: Saint
 summary: >-
   Son of the Prince of Ryazan. Imprisoned, tortured and murdered by pagan Tatars who accused him of insulting their

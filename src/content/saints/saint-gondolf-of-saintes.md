@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Gondolf of Saintes
+stub: false
 honorific: Saint
 summary: Layman servant of Saint Grimoald of Saintes. Martyred by pagan Frisian invaders.
 deathYear: 700

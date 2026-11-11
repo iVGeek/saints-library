@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/6/6d/Linzer_Dom_-_Fenster_-_Paulinus_von_Nola.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Paulinus of Cologne
+stub: true
 honorific: Saint
 summary: Martyr.
 died: relics enshrined in Cologne, Germany

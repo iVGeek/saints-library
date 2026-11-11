@@ -1,5 +1,6 @@
 ---
 name: Blessed Antonio de Pietra
+stub: true
 honorific: Blessed
 summary: Mercedarian friar. Ransomed 80 Christians from Muslim slavery in North Africa.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Antonio-de-Pietra.jpg

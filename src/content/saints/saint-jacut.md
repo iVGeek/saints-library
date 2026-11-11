@@ -1,5 +1,6 @@
 ---
 name: Saint Jacut
+stub: false
 honorific: Saint
 summary: >-
   Son of Saint Fragan and Saint Gwen; brother of Saint Guethenoc and Saint Gwenaloe. Spiritual student of Saint Budoc.

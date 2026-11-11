@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Victor of Saint Gall
+stub: true
 honorific: Saint
 summary: Monk at Saint Gall in Switzerland. Hermit in the Vosges, France.
 deathYear: 995

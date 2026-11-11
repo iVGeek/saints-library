@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Neachtain of Cill-Uinche
+stub: true
 honorific: Saint
 summary: A relative of Saint Patrick. Present at Patrick's death.
 searchAliases:

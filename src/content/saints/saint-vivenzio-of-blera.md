@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Vivenzio of Blera
+stub: false
 honorific: Saint
 summary: >-
   Priest. Bishop of Blera, Italy from 457 to 484. Noted for his vocal opposition to the pagan and corrupt local

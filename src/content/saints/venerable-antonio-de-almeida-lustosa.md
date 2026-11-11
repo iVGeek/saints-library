@@ -1,5 +1,6 @@
 ---
 name: Venerable Antônio de Almeida Lustosa
+stub: false
 honorific: Venerable
 summary: >-
   Antônio studied at the Salesian college of Cachoreira do Campo, Brazil, and joined the Order. Ordained a priest on 28

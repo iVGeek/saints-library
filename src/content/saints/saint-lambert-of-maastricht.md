@@ -1,5 +1,6 @@
 ---
 name: Saint Lambert of Maastricht
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility, the son of Aper and Herisplindis, he received a good, religious oriented education. Student of

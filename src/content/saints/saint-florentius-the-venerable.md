@@ -1,5 +1,6 @@
 ---
 name: Saint Florentius the Venerable
+stub: false
 honorific: Venerable
 summary: >-
   Spiritual student of Saint Martin of Tours who ordained him as priest and sent him to evangelize in Poitou, France.

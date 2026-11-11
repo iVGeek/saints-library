@@ -1,5 +1,6 @@
 ---
 name: Blessed Convoyon of Redon
+stub: false
 honorific: Blessed
 summary: >-
   Archdeacon of Vannes, France. Hermit. Benedictine monk at Glanfeuil, France. Founded Saint Savior monastery near

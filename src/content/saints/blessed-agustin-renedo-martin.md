@@ -1,5 +1,6 @@
 ---
 name: Blessed Agustín Renedo Martín
+stub: true
 image: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/EUD_1994-695.pdf/page1-960px-EUD_1994-695.pdf.jpg
 honorific: Blessed
 summary: Augustinian priest. Martyred in the Spanish Civil War.

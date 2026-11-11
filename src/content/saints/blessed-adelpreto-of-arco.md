@@ -1,5 +1,6 @@
 ---
 name: Blessed Adelpreto of Arco
+stub: false
 honorific: Blessed
 summary: >-
   Born to the German nobility, he served as a soldier in the army of emperor Frederick Barbarossa, fighting in the area

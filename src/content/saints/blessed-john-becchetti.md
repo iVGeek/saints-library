@@ -1,5 +1,6 @@
 ---
 name: Blessed Giovanni da Fabriano Becchetti
+stub: false
 honorific: Blessed
 summary: >-
   Brother of Blessed Pietro Becchetti; related to Saint Thomas Beckett. Augustinian hermit. Taught in Rimini, Italy in

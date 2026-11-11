@@ -1,5 +1,6 @@
 ---
 name: Saint Francesco Spinelli
+stub: false
 honorific: Venerable
 summary: >-
   As a child, Francesco would put on puppet shows for other kids. With his mother, he would visit and help the poor and

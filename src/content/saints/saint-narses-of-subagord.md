@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Narses of Subagord
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Subagord, Persia (modern Iran). Martyred with a spiritual student named Joseph in the persecutions of Shapur

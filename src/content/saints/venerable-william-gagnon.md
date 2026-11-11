@@ -1,5 +1,6 @@
 ---
 name: Venerable William Gagnon
+stub: false
 honorific: Venerable
 summary: >-
   As a young man, William felt a call to religious life, and after a six year search, he joined the Hospitallers of

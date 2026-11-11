@@ -1,5 +1,6 @@
 ---
 name: Saint Cadfarch of Wales
+stub: false
 honorific: Saint
 summary: Sixth-century spiritual student of Saint Iltyd. Founded churches in Penegoes and Abererch in Wales.
 searchAliases:

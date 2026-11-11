@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Valerian of Abbenza
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Abbenza in North Africa. Arian Vandals demanded that he turn over his sacred vessels to them; he refused and

@@ -1,5 +1,6 @@
 ---
 name: Zacharius the Prophet
+stub: false
 honorific: Saint
 summary: >-
   Son of Barachius. Old Testament prophet in the reign of King Darius. He began his ministry c.520 BC, two months after

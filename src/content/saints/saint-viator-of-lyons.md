@@ -1,5 +1,6 @@
 ---
 name: Saint Viator of Lyons
+stub: false
 honorific: Saint
 summary: >-
   Lector and catechist at the cathedral of Lyons, France. Spiritual student of and assistant to Saint Justus of Lyons.

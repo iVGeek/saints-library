@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Venerable Étienne-Pierre Morlanne
+stub: false
 honorific: Venerable
 summary: >-
   Son of Étienne-Pierre Morlanne, a surgeon in the Royal Polish Cavalry, and Anne Antoinette Janet. Be became a

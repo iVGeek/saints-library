@@ -1,5 +1,6 @@
 ---
 name: Ignatius of Loyola
+stub: false
 honorific: Saint
 title: Priest, Founder of the Society of Jesus
 summary: >-

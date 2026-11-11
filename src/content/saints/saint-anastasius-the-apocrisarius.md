@@ -1,5 +1,6 @@
 ---
 name: Saint Anastasius the Apocrisarius
+stub: false
 honorific: Saint
 summary: Monk. Priest. Apocrisarius (special diplomatic envoy) in Rome. Accompanied Saint Maximus the Confessor into exile.
 deathYear: 666

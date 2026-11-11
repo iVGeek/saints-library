@@ -1,5 +1,6 @@
 ---
 name: Agatha of Sicily
+stub: false
 honorific: Saint
 title: Virgin, Martyr
 summary: >-

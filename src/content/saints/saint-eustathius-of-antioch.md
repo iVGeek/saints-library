@@ -1,5 +1,6 @@
 ---
 name: Saint Eustathius of Antioch
+stub: false
 honorific: Saint
 summary: >-
   Noted for his learning and personal piety, and his eloquence in the defense of Christianity. Bishop of Beroea, Syria.

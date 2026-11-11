@@ -1,5 +1,6 @@
 ---
 name: Blessed Arnaldo de Prades
+stub: false
 honorific: Blessed
 summary: >-
   Arnaldo worked as a barber, but felt a call to religious life. Mercedarian friar, joining during the early years of

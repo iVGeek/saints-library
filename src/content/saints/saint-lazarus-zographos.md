@@ -1,5 +1,6 @@
 ---
 name: Saint Lazarus Zographos
+stub: false
 honorific: Saint
 summary: >-
   Monk at Constantinople. Skilled painter of icons. Opposed the Iconoclasts under emperor Theophilus. He defended sacred

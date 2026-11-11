@@ -1,5 +1,6 @@
 ---
 name: Saint Marie-Madeleine Postel
+stub: false
 honorific: Venerable
 summary: >-
   Aunt of Blessed Placide Viel. Educated by the Benedictines at Valognes, France. Director of a school for girls at age

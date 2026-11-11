@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Honorius of Casalvieri
+stub: true
 honorific: Saint
 summary: Imperial Roman soldier executed for refusing to repudiate Christianity. Martyr.
 searchAliases:

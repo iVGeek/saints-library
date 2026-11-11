@@ -1,5 +1,6 @@
 ---
 name: Saint Devota
+stub: false
 honorific: Saint
 summary: >-
   Member of the household of the imperial Roman senator Eutychiu, Devota wanted to devote herself to a life of God, but

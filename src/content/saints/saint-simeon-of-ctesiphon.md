@@ -1,5 +1,6 @@
 ---
 name: Saint Simeon of Ctesiphon
+stub: false
 honorific: Saint
 summary: >-
   Son of a fuller. Co-adjutor bishop of Seleucia-Ctesiphon in 316. Patriarch of the Church in the East in 326. During

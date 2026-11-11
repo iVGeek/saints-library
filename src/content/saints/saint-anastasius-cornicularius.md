@@ -1,6 +1,7 @@
 ---
 image: https://www.catholic.org/files/images/saints/1374.jpg
 name: Saint Anastasius Cornicularius
+stub: false
 honorific: Saint
 summary: >-
   Military tribune, a position known as cornicularius. He was so impressed and moved by the courage of Saint Aeapitus

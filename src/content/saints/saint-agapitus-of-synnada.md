@@ -1,5 +1,6 @@
 ---
 name: Saint Agapitus of Synnada
+stub: true
 honorific: Saint
 summary: Third century bishop of Synnada, Phrygia.
 feastDay:

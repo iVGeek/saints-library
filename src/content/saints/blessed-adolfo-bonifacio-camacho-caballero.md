@@ -1,5 +1,6 @@
 ---
 name: Blessed Adolfo Bonifacio Camacho Caballero
+stub: false
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Arturo_Scarone_-_1956_-_Efemerides_uruguayas._Tomo_4.pdf/page1-960px-Arturo_Scarone_-_1956_-_Efemerides_uruguayas._Tomo_4.pdf.jpg
 honorific: Blessed

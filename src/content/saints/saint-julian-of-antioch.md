@@ -1,5 +1,6 @@
 ---
 name: Saint Julian of Antioch
+stub: false
 honorific: Saint
 summary: >-
   Married to Saint Basilissa of Antioch, they agreed to mutual vows of chastity, and lived as brother and sister,

@@ -1,5 +1,6 @@
 ---
 name: Blessed Cecilia Schelingová
+stub: false
 honorific: Blessed
 summary: >-
   One of ten children born to Pavol Schelingov&aacute; and Zuzana P&aacute;nikov&aacute;. She received her basic

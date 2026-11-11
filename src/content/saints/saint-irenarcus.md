@@ -1,5 +1,6 @@
 ---
 name: Saint Irenarcus
+stub: false
 honorific: Saint
 summary: >-
   An official torturer and executioner who murdered Christians in the persecutions of Diocletian. He was so impressed by

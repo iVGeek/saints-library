@@ -1,5 +1,6 @@
 ---
 name: Saint Judith of Prussia
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility. Lay woman. Married with children. Widowed when her husband died on a Crusade to the Holy Land.

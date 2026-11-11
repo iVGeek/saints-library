@@ -1,5 +1,6 @@
 ---
 name: Blessed Mariana of Jesus
+stub: false
 honorific: Blessed
 summary: >-
   Known as a pious youth. At age 23 she turned down a marriage proposal and instead became a Discalced Mercedarian nun

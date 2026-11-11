@@ -1,5 +1,6 @@
 ---
 name: Blessed Marie-Céline of the Presentation
+stub: false
 honorific: Blessed
 summary: >-
   Fifth of twelve children born to a poor but pious family. Due to a childhood polio, one of her legs was paralyzed, but

@@ -1,5 +1,6 @@
 ---
 name: Blessed Elisabetta Berti
+stub: false
 honorific: Blessed
 summary: >-
   Married. Widow. Mercedarian, donating all her wealth to the ransoming of Christians enslaved by invading Muslims. With

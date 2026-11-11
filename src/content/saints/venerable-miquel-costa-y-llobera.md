@@ -1,5 +1,6 @@
 ---
 name: Venerable Miquel Costa y Llobera
+stub: false
 honorific: Venerable
 summary: >-
   Initially a law student, Miquel began studying at the University of Barcelona in 1872, but abandoned the field, and

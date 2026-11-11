@@ -1,5 +1,6 @@
 ---
 name: Saint Auxentius of Constantinople
+stub: false
 honorific: Saint
 summary: One of over 300 Christians martyred together for opposing iconoclasm. No other information has survived.
 deathYear: 764

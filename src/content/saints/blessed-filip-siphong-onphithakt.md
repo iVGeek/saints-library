@@ -1,5 +1,6 @@
 ---
 name: Blessed Filip Siphong Onphithakt
+stub: false
 honorific: Blessed
 summary: >-
   Layman in the archdiocese of Thare and Nonseng, Thailand. Catechist in Songkhon in 1926. Married to Marie Thong in

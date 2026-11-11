@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Theobald of Vicenza
+stub: false
 honorific: Saint
 summary: >-
   Born to the Italian nobility, in the family of the counts of Campania. Hermit. Known for his personal holiness and as

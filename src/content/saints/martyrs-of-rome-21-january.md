@@ -1,5 +1,6 @@
 ---
 name: Martyrs of Rome
+stub: true
 honorific: Saint
 summary: Thirty Christian soldiers executed together in the persecutions of Diocletian.
 deathYear: 304

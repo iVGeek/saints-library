@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Simeon of Metz
+stub: true
 honorific: Saint
 title: Bishop
 summary: Fourth century bishop of Metz, France.

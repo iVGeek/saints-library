@@ -1,5 +1,6 @@
 ---
 name: Saint Benedict of Szkalka
+stub: false
 honorific: Saint
 summary: >-
   Benedictine monk at the Saint Hippolyte monastery on Mount Zobor outside Nitra in modern Slovakia, taking the name

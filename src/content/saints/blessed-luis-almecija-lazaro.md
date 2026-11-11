@@ -1,5 +1,6 @@
 ---
 name: Blessed Luis Almécija Lázaro
+stub: false
 honorific: Blessed
 summary: >-
   Born to a pious farming family, Luis was baptized at the age of three days; his sister became a Poor Clare prioress,

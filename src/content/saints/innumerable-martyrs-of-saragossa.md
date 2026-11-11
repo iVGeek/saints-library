@@ -1,5 +1,6 @@
 ---
 name: Innumerable Martyrs of Saragossa
+stub: false
 honorific: Saint
 summary: >-
   A large group of Christians martyred in Zaragoza, Spain by Dacian during the persecutions of Diocletian. Dacian

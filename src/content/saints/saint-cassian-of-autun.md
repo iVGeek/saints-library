@@ -1,6 +1,7 @@
 ---
 image: https://www.catholic.org/files/images/saints/2621.jpg
 name: Saint Cassian of Autun
+stub: false
 honorific: Saint
 summary: >-
   Born to the Egyptian mobility. Worked with Saint Reticius. Bishop of Autun, France from 314 to the end of his life; he

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Marema of Soissons
+stub: false
 honorific: Saint
 summary: >-
   This saint's name appears in litanies, martyrologies and reference works from the 8th to the 18th century, and there

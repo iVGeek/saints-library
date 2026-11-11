@@ -1,5 +1,6 @@
 ---
 name: Venerable Antonio Seghezzi
+stub: false
 honorific: Venerable
 summary: >-
   Priest of the diocese of Bergamo, Italy. Spiritual director in the diocesan minor seminary. Spiritual director of

@@ -1,5 +1,6 @@
 ---
 name: Saint Fleuret of Estaing
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Auvergne, France. Travelling home from a synod in Rome, Italy, Fleuret made a stopover at the village of

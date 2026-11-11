@@ -1,5 +1,6 @@
 ---
 name: Saint Killian
+stub: false
 honorific: Saint
 summary: >-
   Born to the Irish nobility. Monk at the monastery of Hy. May have been an abbot. Travelling bishop throughout Ireland.

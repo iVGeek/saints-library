@@ -1,5 +1,6 @@
 ---
 name: Saint Julitta of Iconium
+stub: false
 honorific: Saint
 summary: >-
   Mother of Saint Cyriacus of Iconium. Widow. Moved from Iconium to Isauria to avoid persecution as a Christian.

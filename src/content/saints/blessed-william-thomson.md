@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/9/96/Hugh-faringdon-belmont-stained-glass.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed William Thomson
+stub: false
 honorific: Blessed
 summary: >-
   Studied at the English College in Rheims, France. Ordained, he returned to minister to covert Catholics in England

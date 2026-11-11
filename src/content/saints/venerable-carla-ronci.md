@@ -1,5 +1,6 @@
 ---
 name: Venerable Carla Ronci
+stub: true
 honorific: Venerable
 summary: Lay woman. Professed member of the Mater Misericordiae Secular Institute.
 image: https://commons.wikimedia.org/wiki/Special:FilePath/Carla_Ronci.jpg?width=600

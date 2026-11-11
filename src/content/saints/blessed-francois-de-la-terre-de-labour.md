@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed François de la Terre de Labour
+stub: false
 honorific: Blessed
 summary: Franciscan Friar Minor. Martyred for trying to bring apostates back to the faith.
 searchAliases:

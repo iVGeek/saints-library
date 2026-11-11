@@ -1,5 +1,6 @@
 ---
 name: Venerable Zygmunt Kryszkiewicz
+stub: false
 honorific: Venerable
 summary: >-
   Born to a family of seven children, Zygmunt was baptized at the age of 6 days. Feeling a call to religion, he joined

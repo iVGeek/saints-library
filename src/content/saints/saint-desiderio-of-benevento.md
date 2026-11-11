@@ -1,5 +1,6 @@
 ---
 name: Saint Desiderio of Benevento
+stub: true
 honorific: Saint
 summary: Lector. Martyr.
 searchAliases:

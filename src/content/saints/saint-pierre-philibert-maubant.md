@@ -1,5 +1,6 @@
 ---
 name: Saint Pierre Philibert Maubant
+stub: false
 honorific: Venerable
 summary: >-
   Ordained in the Diocese of Bayeux, France in 1829. Joined the Foreign Missionary Society of Paris. Missionary to

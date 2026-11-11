@@ -1,5 +1,6 @@
 ---
 name: Venerable Giovanni Francesco Bascapè
+stub: false
 honorific: Venerable
 summary: >-
   Born to the nobility, Giovanni studied law in Pavia, Italy, and was a friend of Saint Charles Borromeo. Ordained a

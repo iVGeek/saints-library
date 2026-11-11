@@ -1,5 +1,6 @@
 ---
 name: Saint Giuse Hiên
+stub: true
 honorific: Venerable
 summary: Dominican priest. Martyred in the persecutions of Emperor Thiệu Trị.
 image: https://catholicsaints.info/wp-content/gallery/martyrs-of-vietnam/martyrs-of-vietnam-01.jpg

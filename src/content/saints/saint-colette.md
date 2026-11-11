@@ -1,5 +1,6 @@
 ---
 name: Saint Colette
+stub: false
 honorific: Saint
 summary: >-
   Carpenter's daughter whose parents were near 60 at her birth. Colette was orphaned at age 17, and left in the care of

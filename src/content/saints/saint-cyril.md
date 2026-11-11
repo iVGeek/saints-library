@@ -1,5 +1,6 @@
 ---
 name: Saint Cyril
+stub: false
 honorific: Saint
 summary: >-
   Brother of Saint Methodius. Born to the Greek nobility; his family was connected with the senate of Thessalonica, and

@@ -1,5 +1,6 @@
 ---
 name: Saint Marguerite d'Youville
+stub: false
 honorific: Venerable
 summary: >-
   Eldest of six children born to Christophe Dufrost de Lajemmerais, who died in her youth, and Renee de Varennes; niece

@@ -1,5 +1,6 @@
 ---
 name: Blessed Francisco Gárate Aranguren
+stub: false
 honorific: Blessed
 summary: >-
   Second of seven boys born to Francisco and Maria Aranguren, a pious farm family in the Basque region of northern

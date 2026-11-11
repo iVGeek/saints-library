@@ -1,6 +1,7 @@
 ---
 image: https://www.catholic.org/files/images/saints/3728.jpg
 name: Saint Herbert of Derwentwater
+stub: false
 honorific: Saint
 summary: >-
   Benedictine monk and priest. Disciple and friend of Saint Cuthbert of Lindisfarne. Hermit on the island of Lake

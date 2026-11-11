@@ -1,5 +1,6 @@
 ---
 name: Saint Emilas of Cordoba
+stub: false
 honorific: Saint
 summary: >-
   Deacon. Friend of and fellow student with Saint Jeremias at Cordova, Spain during a time when the city was under

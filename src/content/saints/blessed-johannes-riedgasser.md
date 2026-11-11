@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Johannes Riedgasser
+stub: false
 honorific: Blessed
 summary: >-
   Member of the Premonstratensians. Canon of the monastery in Obermarchtal, Swabia (in modern Germany); spiritual

@@ -1,5 +1,6 @@
 ---
 name: Venerable Alphonse Gallegos
+stub: false
 honorific: Venerable
 summary: >-
   A twin, the son of a carpenter, the eighth of eleven children in his family, Alphonse was born with severe myopia

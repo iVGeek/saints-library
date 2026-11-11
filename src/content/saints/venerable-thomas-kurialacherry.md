@@ -1,5 +1,6 @@
 ---
 name: Venerable Thomas Kurialacherry
+stub: false
 honorific: Venerable
 summary: >-
   Studied at the College of the Papal Propaganda Congregation in Rome, Italy. Ordained a Syro-Malabar priest on 27 May

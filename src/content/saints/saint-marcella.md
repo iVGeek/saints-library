@@ -1,5 +1,6 @@
 ---
 name: Saint Marcella of Rome
+stub: false
 honorific: Saint
 summary: >-
   Wealthy married imperial Roman noble woman. Widowed young after only seven months of marriage. Declined a wedding

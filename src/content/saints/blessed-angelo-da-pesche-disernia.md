@@ -1,5 +1,6 @@
 ---
 name: Blessed Angelo da Pesche d'Isernia
+stub: false
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Atti_del_Consiglio_Provinciale_di_Molise_%28IA_gri_33125006799486%29.pdf/page1-960px-Atti_del_Consiglio_Provinciale_di_Molise_%28IA_gri_33125006799486%29.pdf.jpg
 honorific: Blessed

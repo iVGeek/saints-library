@@ -1,5 +1,6 @@
 ---
 name: Saint Eustathius of Aosta
+stub: false
 honorific: Saint
 summary: >-
   Eustathius assisted Saint Eusebius of Vercelli when Eusebius was exiled. After getting to know him, Eusebius then

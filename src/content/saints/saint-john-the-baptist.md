@@ -1,5 +1,6 @@
 ---
 name: Saint John the Baptist
+stub: false
 honorific: Saint
 summary: >-
   Cousin of Jesus Christ. Son of Zachary, a priest of the order of Abia whose job in the temple was to burn incense; and

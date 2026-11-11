@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Ida of Cologne
+stub: false
 honorific: Saint
 summary: >-
   Daughter of Matilda and Erenfrid, Count Palatine of Lorraine; her brother was Archbishop Hermann II of Cologne, her

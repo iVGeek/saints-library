@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Eusebius of Laodicea
+stub: false
 honorific: Saint
 summary: >-
   Deacon in Alexandria, Egypt, serving under Saint Dionysius the Great. Exiled to Kefro, Libya in the persecutions of

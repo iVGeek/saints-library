@@ -1,5 +1,6 @@
 ---
 name: Saint Simon Qin Chunfu
+stub: false
 honorific: Venerable
 summary: >-
   Son of Saint Elisabeth Qin Bianshi Elisabeth in the apostolic vicariate of Southeastern Zhili, China. Martyred as a

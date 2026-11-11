@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Arnulph of Gap
+stub: true
 honorific: Saint
 title: Bishop
 summary: Benedictine. Bishop of Gap, France.

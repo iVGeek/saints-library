@@ -1,5 +1,6 @@
 ---
 name: Blessed Francisco Remón Játiva
+stub: true
 honorific: Blessed
 summary: Franciscan Conventual friar. Martyred in the Spanish Civil War.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Francisco-Remón-Játiva.jpg

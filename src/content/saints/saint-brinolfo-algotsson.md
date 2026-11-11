@@ -1,5 +1,6 @@
 ---
 name: Saint Brinolfo Algotsson
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility, the son of Algot Brynolfsson. Educated at the cathedral of Skara, Sweden, and in Paris, France

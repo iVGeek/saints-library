@@ -1,5 +1,6 @@
 ---
 name: Saint Priscilla of Rome
+stub: false
 honorific: Saint
 summary: >-
   Married to Manius Acilius Glabrio. Mother of Senator Pudens. Supported Saint Peter the Apostle in his work in Rome,

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Venerable Juan José Jaime Bonal Cortada
+stub: false
 honorific: Venerable
 summary: >-
   Born to a deeply religious family, and received a good education, studying in Barcelona and Zaragoza, Spain. Teacher.

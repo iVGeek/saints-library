@@ -1,5 +1,6 @@
 ---
 name: Venerable Francisca Ana María Alcover Morell
+stub: false
 honorific: Venerable
 summary: >-
   Lifelong lay woman of the archdiocese of Mallorca, Spain, she was born to a wealthy family who had immigrated to Spain

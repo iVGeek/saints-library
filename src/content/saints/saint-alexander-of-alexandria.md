@@ -1,5 +1,6 @@
 ---
 name: Saint Alexander of Alexandria
+stub: false
 honorific: Saint
 summary: >-
   Known as a pious youth. Bishop of Alexandria, Egypt in 313. Worked against Arianism, and excommunicated Arius when he

@@ -1,5 +1,6 @@
 ---
 name: Saint Alban Bartholomew Roe
+stub: false
 honorific: Venerable
 summary: >-
   Convert to Catholicism. Studied at the English College at Douai, France, but was dismissed for an infraction of

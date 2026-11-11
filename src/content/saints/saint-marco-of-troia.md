@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Marco of Troia
+stub: true
 honorific: Saint
 title: Bishop
 summary: Bishop of Troia, Italy.

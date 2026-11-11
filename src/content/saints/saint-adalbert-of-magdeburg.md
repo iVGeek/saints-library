@@ -1,5 +1,6 @@
 ---
 name: Saint Adalbert of Magdeburg
+stub: false
 honorific: Saint
 summary: >-
   Benedictine monk at the monastery of Saint Maximin at Trier, Germany. Missionary bishop. Leader of the band of

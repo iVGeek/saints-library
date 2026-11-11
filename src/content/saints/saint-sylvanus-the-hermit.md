@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Sylvanus the Hermit
+stub: true
 honorific: Saint
 summary: Hermit near Burgos, Old Castile, Spain. Martyred by Saracens.
 deathYear: 950

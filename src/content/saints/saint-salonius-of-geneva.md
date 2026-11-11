@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Salonius of Geneva
+stub: false
 honorific: Saint
 summary: >-
   Son of Galla, who became a nun late in life, and of Saint Eucherius of Lyon; brother of Saint Veranus of Vence.

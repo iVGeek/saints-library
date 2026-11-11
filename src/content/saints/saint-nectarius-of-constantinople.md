@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Nectarius of Constantinople
+stub: false
 honorific: Saint
 summary: >-
   Born to the imperial Roman nobility, the son of a senator of Constantinople (modern Istanbul, Turkey). Imperial

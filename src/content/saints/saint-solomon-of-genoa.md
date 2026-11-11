@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Solomon of Genoa
+stub: true
 honorific: Saint
 summary: First bishop of Genoa, Italy.
 searchAliases:

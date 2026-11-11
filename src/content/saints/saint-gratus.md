@@ -1,5 +1,6 @@
 ---
 name: Saint Gratus
+stub: true
 honorific: Saint
 summary: One of twelve Africans martyred in the persecutions of Diocletian.
 deathYear: 302

@@ -1,5 +1,6 @@
 ---
 name: Blessed Bartholomew of Olmedo
+stub: false
 honorific: Blessed
 summary: >-
   Mercedarian priest. The first missionary priest in Mexico, arriving in 1516, travelling with Cortés and working with

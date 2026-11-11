@@ -1,5 +1,6 @@
 ---
 name: Saint Peter the Farmer
+stub: false
 honorific: Saint
 summary: >-
   Legend says that Peter was an 11th century farmer from Castagnole Monferrato, Italy who miraculously dug a spring to

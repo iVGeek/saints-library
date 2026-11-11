@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Damian of Scotland
+stub: false
 honorific: Saint
 title: Priest
 summary: ' 1) He was a priest in Patras, Greece. With Saint Regulus of Scotland, he came to the west with the relics of Saint Andrew the Apostle. 2) He was a priest in Scotland who received Saint Regulus of Scotland and helped him enshrined the relics of Sai Two versions of his story exist:'

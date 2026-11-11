@@ -1,5 +1,6 @@
 ---
 name: Blessed Damian dei Fulcheri
+stub: false
 honorific: Blessed
 summary: >-
   Born to wealthy Italian nobility. When he was kidnapped as an infant by a mentally ill man, his parents prayed

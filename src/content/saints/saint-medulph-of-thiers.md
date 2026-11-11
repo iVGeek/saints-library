@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Medulph of Thiers
+stub: false
 honorific: Saint
 summary: >-
   Married, a father, and a fervant Christian, Medulph one day went to gather food for the family. It was a fasting day,

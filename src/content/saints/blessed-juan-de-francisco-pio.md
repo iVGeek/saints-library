@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/2/25/Passionists.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Juan de Francisco Pío
+stub: false
 honorific: Blessed
 summary: Monk. Member of the Hospitallers of Saint John of God. Martyred in the Spanish Civil War.
 searchAliases:

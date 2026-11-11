@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/3/3d/The_King_Conrad_I_enthroned.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Conrad of Ottobeuren
+stub: false
 honorific: Blessed
 summary: >-
   Benedictine monk. Abbot of Ottobeuren Abbey in Allgäu, Germany from 1193 to 1217. Known for his care of his brother

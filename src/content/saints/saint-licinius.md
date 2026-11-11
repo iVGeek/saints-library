@@ -1,5 +1,6 @@
 ---
 name: Saint Licinius
+stub: false
 honorific: Saint
 summary: Born to the French nobility. Monk. Bishop of Angers, France in 586, consecrated by Saint Gregory of Tours.
 searchAliases:

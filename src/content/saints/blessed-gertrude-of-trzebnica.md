@@ -1,5 +1,6 @@
 ---
 name: Blessed Gertrude of Trzebnica
+stub: false
 honorific: Blessed
 summary: >-
   Daughter of Saint Hedwig of Silesia and Duke Henry I. Engaged to the Count Palatine Otto of Wittelsbach, but he died

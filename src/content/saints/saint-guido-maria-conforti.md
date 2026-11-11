@@ -1,5 +1,6 @@
 ---
 name: Saint Guido Maria Conforti
+stub: false
 honorific: Venerable
 summary: >-
   As a child he used to have conversations in his parish church with Christ crucified. Entered the seminary in Parma,

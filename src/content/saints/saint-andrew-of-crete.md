@@ -1,5 +1,6 @@
 ---
 name: Saint Andrew of Crete
+stub: false
 honorific: Saint
 summary: >-
   Young monk at Mar Sabas. Monk at the Holy Sepulchre in Jerusalem at the age of 15. Sent to Constantinople by Patriarch

@@ -1,5 +1,6 @@
 ---
 name: Pope Saint Zosimus
+stub: false
 honorific: Saint
 summary: >-
   Little is known about Zosimus' life before his election as Pope. May have been Jewish by birth, and his father may

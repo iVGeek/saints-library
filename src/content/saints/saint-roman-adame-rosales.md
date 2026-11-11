@@ -1,5 +1,6 @@
 ---
 name: Saint Roman Adame Rosales
+stub: false
 honorific: Venerable
 summary: >-
   Ordained on 30 November 1890. Parish priest at Nochistlan, Zacatecas, Mexico in 1913, a position he held until his

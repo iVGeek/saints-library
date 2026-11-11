@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Dioscorus of Kynopolis
+stub: true
 honorific: Saint
 summary: Lector in a church in Kynopolis, Egypt. Martyr.
 searchAliases:

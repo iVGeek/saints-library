@@ -1,5 +1,6 @@
 ---
 name: Blessed William Ireland
+stub: false
 honorific: Blessed
 summary: >-
   Eldest son of William Ireland of Crofton Hall, Yorkshire, England and Barbara Eure of Washingborough, Lincolnshire,

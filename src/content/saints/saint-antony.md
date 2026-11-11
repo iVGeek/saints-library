@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/f/fb/Saint_Anthony_%28Damaskinos%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Antony
+stub: false
 honorific: Saint
 summary: >-
   There is an old Eastern tradition that he converted after watching the martyrdom of Saint George, but all we know for

@@ -1,5 +1,6 @@
 ---
 name: Blessed Conon of Naso
+stub: false
 honorific: Blessed
 summary: >-
   Born to the wealthy nobility, the son of Count Anselmo Navacita, governor of Naso, Italy, and Claudia Santapau. At age

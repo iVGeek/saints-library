@@ -1,5 +1,6 @@
 ---
 name: Blessed Piedad de la Cruz Ortiz Real
+stub: false
 honorific: Blessed
 summary: >-
   The fifth of eight children born to José and Tomasa Ortiz, making her First Communion awakened a call to religious

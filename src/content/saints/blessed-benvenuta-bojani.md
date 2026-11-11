@@ -1,5 +1,6 @@
 ---
 name: Blessed Benvenuta Bojani
+stub: false
 honorific: Blessed
 summary: >-
   Youngest of seven daughters. She refused to play any childhood games that smacked of worldliness or vanity; by age

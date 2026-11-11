@@ -1,5 +1,6 @@
 ---
 name: Saint Arnulphus of Soissons
+stub: false
 honorific: Saint
 summary: >-
   Eleventh-century nobleman of Brabant (in modern Belgium). Soldier. Monk at Soissons, France. Bishop of Soissons. Worn

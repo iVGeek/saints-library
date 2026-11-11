@@ -1,5 +1,6 @@
 ---
 name: Saint Rusticus of Verona
+stub: false
 honorific: Saint
 summary: >-
   Martyred with Saint Firmus. Saint Zeno of Verona, also from North Africa, brought their relics to his diocese; some

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Eberhard of Marchtal
+stub: false
 honorific: Blessed
 summary: >-
   Premonstratensian monk at Mönchsrot monastery. He was chosen provost of Marchtal Abbey in Swabia, Germany, when it was

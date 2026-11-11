@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Juan Francisco Barahona Martín
+stub: true
 honorific: Blessed
 summary: Franciscan Capuchin priest. Martyred in the Spanish Civil War.
 searchAliases:

@@ -1,5 +1,6 @@
 ---
 name: Saint Kichi Franciscus
+stub: false
 honorific: Saint
 summary: >-
   Layman soldier. Convert. Franciscan tertiary. When soldiers came to arrest the Franciscan friars, he insisted he was a

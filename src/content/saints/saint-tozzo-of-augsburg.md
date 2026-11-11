@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Tozzo of Augsburg
+stub: false
 honorific: Saint
 summary: >-
   Benedictine monk in the 8th century abbey in Murbach (in modern France). Advisor to Saint Wicterp of Augsburg. Worked

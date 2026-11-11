@@ -1,5 +1,6 @@
 ---
 name: Saint Luigi Orione
+stub: false
 honorific: Venerable
 summary: ' Studied at the se Joined the Franciscans at Voghera, Italy as a young man, but developed severe health problems and returned to his family. Studied under Saint John Bosco at Turin, Italy, was present at Saint John''s death, and was cured of his illness during Saint John''s funeral.'
 image: https://commons.wikimedia.org/wiki/Special:FilePath/Don_Orione.jpg?width=600

@@ -1,5 +1,6 @@
 ---
 name: Venerable Marcello Candia
+stub: false
 honorific: Venerable
 summary: >-
   One of five children born to Camillo and Louise; his father owned of several chemical plants, and the family was

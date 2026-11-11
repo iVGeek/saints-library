@@ -1,5 +1,6 @@
 ---
 name: Blessed Jacinto Gómez Peña
+stub: false
 honorific: Blessed
 summary: >-
   Raised in a pious family; his brother and an uncle were both members of the Piarists. Jacinto joined the Congregation

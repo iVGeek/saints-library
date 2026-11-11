@@ -1,5 +1,6 @@
 ---
 name: Saint Eusebius of Vercelli
+stub: false
 honorific: Saint
 title: St. Eusebius of Vercelli
 summary: >-

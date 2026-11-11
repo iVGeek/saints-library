@@ -1,5 +1,6 @@
 ---
 name: Saint Maximus the Confessor
+stub: false
 honorific: Saint
 summary: >-
   Born to the Byzantine nobility. Chief secretary to Emperor Heraclius, a post he resigned to become a monk at

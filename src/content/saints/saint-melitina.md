@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Melitina
+stub: false
 honorific: Saint
 summary: >-
   Christian woman in a time persecution by emperor Antoninus Pius and governor Antiochus, she was twice taken into pagan

@@ -1,5 +1,6 @@
 ---
 name: Saint Letizia
+stub: false
 honorific: Saint
 summary: Travelling companion of, and martyred with Saint Ursula. Nothing else is known about her.
 image: https://catholicsaints.info/wp-content/uploads/Busto_de_Santa_Leticia.jpg

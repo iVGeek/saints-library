@@ -1,5 +1,6 @@
 ---
 name: Blessed Margaret Colonna
+stub: false
 honorific: Blessed
 summary: >-
   Daughter of Prince Odo Colonna of Palestrina, Italy. Her parents died when Margaret was young, and she had to care for

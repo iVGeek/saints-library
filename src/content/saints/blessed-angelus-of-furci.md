@@ -1,5 +1,6 @@
 ---
 name: Blessed Angelus of Furci
+stub: false
 honorific: Blessed
 summary: >-
   Born to wealthy parents; they were childless for many years but conceived Angelus after a pilgrimage and prayers for

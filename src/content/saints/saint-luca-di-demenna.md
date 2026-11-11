@@ -1,5 +1,6 @@
 ---
 name: Saint Luca di Demenna
+stub: false
 honorific: Saint
 summary: >-
   Monk in Sicily. When the Muslim Saracens invaded the region, he moved from house to house to avoid them. Founded the

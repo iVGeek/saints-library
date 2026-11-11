@@ -1,5 +1,6 @@
 ---
 name: Blessed Gennaro Maria Sarnelli
+stub: false
 honorific: Blessed
 summary: >-
   Son of the Baron of Ciorani. Civil and canon lawyer at age 20. Friend of Saint Alphonsus Maria de Liguori. While

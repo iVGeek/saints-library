@@ -1,5 +1,6 @@
 ---
 name: Saint Paola Elisabetta Cerioli
+stub: false
 honorific: Venerable
 summary: >-
   Born to Italian nobility, the youngest of 16 children of Francesco Cerioli and Francesca Corniani; she was born with a

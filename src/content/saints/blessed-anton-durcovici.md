@@ -1,5 +1,6 @@
 ---
 name: Blessed Anton Durcovici
+stub: false
 honorific: Blessed
 summary: >-
   His father died when Anton was small; he, his mother and his brother moved to Iasi, Romania in 1895. He studied in

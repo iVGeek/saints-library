@@ -1,5 +1,6 @@
 ---
 name: Blessed Giovanna Soderini
+stub: false
 honorific: Blessed
 summary: >-
   Born to the Italian nobility. Spiritual student of Saint Juliana Falconieri. She became a Servite tertiary, attending

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Marcellinus of Bologna
+stub: true
 honorific: Saint
 summary: Martyr, date and location unknown.
 died: relics enshrined in churches in Bologna and Rome in Italy

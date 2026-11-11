@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Ramona Solans Ballester
+stub: false
 honorific: Blessed
 summary: >-
   Ramona joined the Capuchin Sisters of the Mother of the Divine Shepherd in April 1893 in the Sants area of Barcelona,

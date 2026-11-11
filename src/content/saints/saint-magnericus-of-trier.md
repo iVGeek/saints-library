@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Magnericus of Trier
+stub: false
 honorific: Saint
 summary: >-
   Grew up in the Trier, Germany residence of bishop Nicetius. Ordained by Nicetius. Accompanied the bishop into exile

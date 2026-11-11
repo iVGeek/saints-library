@@ -1,5 +1,6 @@
 ---
 name: First Martyrs of Rome
+stub: false
 honorific: Saint
 summary: >-
   Christians who were blamed by the Roman Emperor Nero with setting fire to Rome, Italy, and were sentenced to death as

@@ -1,5 +1,6 @@
 ---
 name: Blessed Marino Blanes Giner
+stub: false
 honorific: Blessed
 summary: >-
   Baptized on the day of his birth and confirmed on 8 August 1902, all in his parish church of Santa Maria in the

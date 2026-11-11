@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Robert-François Guérin du Rocher
+stub: true
 honorific: Blessed
 summary: Jesuit priest. One of the Martyrs of September.
 birthYear: 1736

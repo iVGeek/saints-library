@@ -1,5 +1,6 @@
 ---
 name: Blessed Miguel Léibar Garay
+stub: true
 honorific: Blessed
 summary: Marianist priest. Martyred in the Spanish Civil War.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Miguel-Leibar-Garay.jpg

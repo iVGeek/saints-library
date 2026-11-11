@@ -1,5 +1,6 @@
 ---
 name: Blessed Anne Catherine Emmerich
+stub: false
 honorific: Blessed
 summary: >-
   Born to poor but pious peasants. She was a very pious child who suffered with poor health, but who received visions

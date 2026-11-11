@@ -1,5 +1,6 @@
 ---
 name: Saint Tassach of Raholp
+stub: true
 honorific: Saint
 summary: Early spiritual student of Saint Patrick. First bishop of Raholp, Ireland.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Tassach-of-Raholp-1.jpg

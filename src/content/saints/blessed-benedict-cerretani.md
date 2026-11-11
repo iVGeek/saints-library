@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/5/5a/CerretoDiSpoletoPanoramaAndBorgo.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Benedict Cerretani
+stub: true
 honorific: Blessed
 summary: Vallombrosan abbot.
 deathYear: 1205

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Santucci Terrebotti
+stub: false
 honorific: Blessed
 summary: >-
   Married. Mother of one daughter who died in childhood. She and her husband agreed to split up, each entering religious

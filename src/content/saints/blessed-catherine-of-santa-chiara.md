@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/1/1f/SDamiano-Clara.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Catherine of Santa Chiara
+stub: false
 honorific: Blessed
 summary: >-
   Born to the Spanish nobility. Feeling an early call to religious life, she became a Poor Clare nun at age 14 at the

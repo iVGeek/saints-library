@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/e/e0/MisisBr%C3%BCcke.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Nicephorus of Tiberiopolis
+stub: false
 honorific: Saint
 summary: Priest. Martyred in the persecutions of Julian the Apostate. No other information has survived.
 deathYear: 361

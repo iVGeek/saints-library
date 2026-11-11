@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Conindrus
+stub: false
 honorific: Saint
 summary: Converted by Saint Patrick. Ordained as priest and bishop by Patrick, and sent by him to evangelize the Isle of Man.
 deathYear: 450

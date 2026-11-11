@@ -1,5 +1,6 @@
 ---
 name: Blessed Frederic Campisani
+stub: false
 honorific: Blessed
 summary: >-
   Born to the nobility. Known as a pious child, Frederic joined the Franciscans as soon as they would taken him. Hermit

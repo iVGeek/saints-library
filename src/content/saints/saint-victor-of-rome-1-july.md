@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Victor of Rome
+stub: true
 honorific: Saint
 summary: Martyr.
 died: in Rome, Italy, date unknown

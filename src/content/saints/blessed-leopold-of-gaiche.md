@@ -1,5 +1,6 @@
 ---
 name: Blessed Leopold of Gaiche
+stub: false
 honorific: Blessed
 summary: >-
   Born to a peasant family, he was a shepherd as a boy. He early showed signs of a religious vocation, and joined the

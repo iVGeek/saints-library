@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/0/08/Josemaria_Escriva.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Maria Mine
+stub: false
 honorific: Blessed
 summary: >-
   Lay woman in the archdiocese of Nagasaki, Japan. Married to Blessed Ioachim Mine Sukedayu. One of the Martyrs of

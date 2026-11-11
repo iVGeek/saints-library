@@ -1,5 +1,6 @@
 ---
 name: Blessed William Horne
+stub: false
 honorific: Blessed
 summary: >-
   Carthusian lay brother of the Charterhouse in London, England. Martyred for refusing to accept King Henry VIII as head

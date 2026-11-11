@@ -1,5 +1,6 @@
 ---
 name: Blessed Alruna of Cham
+stub: false
 image: https://commons.wikimedia.org/wiki/Special:FilePath/ChamAlrunaStr3_1.JPG?width=600
 honorific: Blessed
 summary: >-

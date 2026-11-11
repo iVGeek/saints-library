@@ -1,5 +1,6 @@
 ---
 name: Blessed Karoline Anna Leidenix
+stub: true
 honorific: Blessed
 summary: Member of the Daughters of Divine Charity. Martyred by a Chetnik soldier.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Karoline-Anna-Leidenix.jpg

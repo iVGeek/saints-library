@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Moroc of Scotland
+stub: false
 honorific: Saint
 summary: >-
   Abbot at Dunkeld, Scotland. Bishop of Dunblane, Scotland. Several churches are named for him, and he was venerated

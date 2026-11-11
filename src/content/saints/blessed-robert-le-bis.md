@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Robert le Bis
+stub: true
 honorific: Blessed
 summary: Priest in the diocese of Versailles, France. One of the Martyrs of September.
 birthYear: 1719

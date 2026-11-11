@@ -1,5 +1,6 @@
 ---
 name: Blessed Maria Calaf Miracle
+stub: true
 honorific: Blessed
 summary: Member of the Carmelite Sisters of Charity. Martyred in the Spanish Civil War.
 image: https://catholicsaints.info/wp-content/uploads/img-Maria.jpg

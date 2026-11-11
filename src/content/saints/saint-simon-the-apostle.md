@@ -1,5 +1,6 @@
 ---
 name: Saint Simon the Apostle
+stub: false
 honorific: Saint
 summary: >-
   Apostle. Called the Cananean or Zealot because of his zeal for the Jewish law; he was not from Cana, nor a member of

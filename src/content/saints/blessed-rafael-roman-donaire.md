@@ -1,6 +1,7 @@
 ---
 image: https://www.santiebeati.it/immagini/Thumbs/97287/97287.JPG
 name: Blessed Rafael Román Donaire
+stub: true
 honorific: Blessed
 summary: Priest in the diocese of Almería, Spain. Martyred in the Spanish Civil War.
 birthYear: 1891

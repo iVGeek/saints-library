@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/2/26/FiesoleDec102023_15.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Andrew of Fiesole
+stub: false
 honorific: Saint
 summary: >-
   Born to the Irish nobility. Brother of Saint Bridget the Younger. Educated by Saint Donatus of Fiesoli, and made a

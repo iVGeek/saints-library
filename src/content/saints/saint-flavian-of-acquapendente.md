@@ -1,5 +1,6 @@
 ---
 name: Saint Flavian of Acquapendente
+stub: false
 honorific: Saint
 summary: >-
   Father of Saint Bibiana and Saint Demetria; married to Saint Dafrosa of Acquapendente. A former prefect of imperial

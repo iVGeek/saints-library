@@ -1,5 +1,6 @@
 ---
 name: Saint Brogan
+stub: true
 honorific: Saint
 summary: Mentioned in the Gorman Martyrology. No other information has survived.
 feastDay:

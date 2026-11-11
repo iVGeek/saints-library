@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/44/Terni_Collage.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Nera
+stub: true
 honorific: Blessed
 summary: Dominican tertiary. Cared for the sick in Siena, Italy.
 birthYear: 1230

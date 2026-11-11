@@ -1,5 +1,6 @@
 ---
 name: Saint Mugagga
+stub: false
 honorific: Venerable
 summary: >-
   Ngo clan. Raised and educated by the royal clothmaker of Uganda. Convert. One of the Martyrs of Uganda who died in the

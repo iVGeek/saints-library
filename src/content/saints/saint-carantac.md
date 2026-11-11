@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Carantac
+stub: true
 honorific: Saint
 summary: Worked with Saint Patrick to bring Christianity to Ireland.
 searchAliases:

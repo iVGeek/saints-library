@@ -1,5 +1,6 @@
 ---
 name: Saint Anno of Verona
+stub: false
 honorific: Saint
 summary: >-
   Brother of Saint Maria Consolatrice of Verona. Priest. Bishop of Verona, Italy. Connected with the translation of the

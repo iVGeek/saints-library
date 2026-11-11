@@ -1,5 +1,6 @@
 ---
 name: Blessed Àngel Prat Hostench
+stub: false
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Jochs_Florals_de_Barcelona_en_1880.djvu/page1-960px-Jochs_Florals_de_Barcelona_en_1880.djvu.jpg
 honorific: Blessed

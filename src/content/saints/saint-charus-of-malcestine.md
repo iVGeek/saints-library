@@ -1,5 +1,6 @@
 ---
 name: Saint Charus of Malcesine
+stub: false
 honorific: Saint
 title: Hermit
 summary: >-

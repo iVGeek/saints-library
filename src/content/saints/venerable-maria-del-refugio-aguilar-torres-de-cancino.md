@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Venerable María del Refugio Aguilar Torres de Cancino
+stub: true
 honorific: Venerable
 summary: Married. Widow. Nun. Founded the Mercedarian Sisters of the Blessed Sacrament.
 birthYear: 1866

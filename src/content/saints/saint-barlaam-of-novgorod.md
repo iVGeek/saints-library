@@ -1,5 +1,6 @@
 ---
 name: Saint Barlaam of Novgorod
+stub: false
 honorific: Saint
 summary: >-
   Born to a wealthy family. When his parents died, Alexis became a hermit on the Volga River. His reputation for

@@ -1,5 +1,6 @@
 ---
 name: Blessed Úrsula Medes Ferris
+stub: false
 honorific: Blessed
 summary: Cistercian nun in the Congregation of Saint Bernard of Spain. Martyred in the Spanish Civil War.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Ursula-Medes-Ferris.jpg

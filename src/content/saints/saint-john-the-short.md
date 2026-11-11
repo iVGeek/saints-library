@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint John the Short
+stub: false
 honorific: Saint
 summary: >-
   Born to a poor but pious family. From age 18, he lived in an underground cave he dug in the desert of Skete. Spiritual

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Guy Maramaldi
+stub: false
 honorific: Blessed
 summary: >-
   Dominican friar. Taught philosophy and theology. Founded a friary at Ragusa. Served as General Inquisitor for the

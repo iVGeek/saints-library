@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/3/30/Pavillon_LouisXIV.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed John Bathe
+stub: true
 honorific: Blessed
 summary: Jesuit priest. One of the Irish Martyrs.
 deathYear: 1649

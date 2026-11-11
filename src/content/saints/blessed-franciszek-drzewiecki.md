@@ -1,5 +1,6 @@
 ---
 name: Blessed Franciszek Drzewiecki
+stub: false
 honorific: Blessed
 summary: >-
   Orionist. After studies at the mother-house in Tortona, Italy, he was ordained on 6 June 1936. Returning to Poland, he

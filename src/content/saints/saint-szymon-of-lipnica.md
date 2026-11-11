@@ -1,5 +1,6 @@
 ---
 name: Saint Szymon of Lipnica
+stub: false
 honorific: Saint
 summary: >-
   Born to a poor and pious family, the son of Grzegorz and Anna. In 1454, at age 17 he moved from his small town to

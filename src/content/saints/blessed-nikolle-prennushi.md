@@ -1,5 +1,6 @@
 ---
 name: Blessed Nikollë Prennushi
+stub: false
 honorific: Blessed
 summary: >-
   Nikollë entered the Franciscan Friars Minor in 1900, taking the name Vinçenc, and made his profession at Salzburg,

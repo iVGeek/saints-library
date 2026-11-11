@@ -1,5 +1,6 @@
 ---
 name: Saint Majolus of Cluny
+stub: false
 honorific: Saint
 summary: >-
   Archdeacon of Macon, France. Priest. Monk at Cluny Abbey in France, taking the cowl partly to avoid being chosen a

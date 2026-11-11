@@ -1,5 +1,6 @@
 ---
 name: Venerable Silvio Dissegna
+stub: false
 honorific: Venerable
 summary: >-
   Child in the archdiocese of Turin, Italy. He developed bone cancer in early 1978 and spent his illness in prayer,

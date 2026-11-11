@@ -1,6 +1,7 @@
 ---
 image: https://www.santiebeati.it/immagini/Thumbs/94127/94127.JPG
 name: Blessed Giusto Samper
+stub: false
 honorific: Blessed
 summary: >-
   Mercedarian friar known for devotion to praying for souls in Purgatory. Ransomed 216 Christians from slavery in Muslim

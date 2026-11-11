@@ -1,5 +1,6 @@
 ---
 name: Saint Margaret Mary Alacoque
+stub: false
 honorific: Saint
 title: St. Margaret Mary Alacoque
 summary: >-

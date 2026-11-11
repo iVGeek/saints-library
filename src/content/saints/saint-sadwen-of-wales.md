@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Sadwen of Wales
+stub: false
 honorific: Saint
 summary: >-
   Son of a prince, Bicanus Farchog of Llydaw; brother of Saint Illtyd. Educated by Saint Garmon of Manaw. Soldier.

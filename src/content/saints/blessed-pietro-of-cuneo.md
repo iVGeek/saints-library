@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/43/Blessed_angelo_carletti.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Pietro of Cuneo
+stub: false
 honorific: Blessed
 summary: >-
   Franciscan friar. Travelling preacher in the regions of Piedmont in modern Italy, Provence in modern France, and then

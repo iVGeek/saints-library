@@ -1,5 +1,6 @@
 ---
 name: Elijah the Prophet
+stub: false
 honorific: Saint
 summary: >-
   Old Testament prophet. He announced to Achad, King of Israel, who under the influence of his Tyrian wife Jezabel had

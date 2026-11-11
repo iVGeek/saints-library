@@ -1,5 +1,6 @@
 ---
 name: Saint Amandus of Strasbourg
+stub: true
 honorific: Saint
 title: Bishop
 summary: First bishop of Strasbourg, France.

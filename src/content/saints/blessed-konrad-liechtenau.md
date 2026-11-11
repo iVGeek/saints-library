@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Konrad Liechtenau
+stub: false
 honorific: Blessed
 summary: >-
   Born to the noblity, member of the family of the Count of Liechtenau, Baden-Wuerttemberg, Germany. Canon of the

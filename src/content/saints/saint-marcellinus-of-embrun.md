@@ -1,5 +1,6 @@
 ---
 name: Saint Marcellinus of Embrun
+stub: false
 honorific: Saint
 summary: >-
   Priest. Missionary to the Dauphiné area of France and Switzerland in the early 4th century. First Bishop of Embrun,

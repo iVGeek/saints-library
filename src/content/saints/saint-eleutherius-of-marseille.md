@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Eleutherius of Marseille
+stub: true
 honorific: Saint
 summary: Young martyr.
 searchAliases:

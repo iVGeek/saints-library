@@ -1,5 +1,6 @@
 ---
 name: Saint Peter of Córdoba
+stub: true
 honorific: Saint
 summary: Monk. Murdered by Saracens for publicly proclaiming his faith. Martyr.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Peter-of-Córdoba.jpg

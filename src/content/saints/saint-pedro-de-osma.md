@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Pedro de Osma
+stub: false
 honorific: Saint
 summary: >-
   Benedictine monk at the Cluniac Saint-Orens Abbey in Auch, France. He and several brother monks moved to Castile at

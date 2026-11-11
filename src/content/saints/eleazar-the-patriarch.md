@@ -1,5 +1,6 @@
 ---
 name: Eleazar the Patriarch
+stub: false
 honorific: Saint
 summary: >-
   Third son of Old Testament Patriarch Aaron. Leader of the Jewish theocracy. With his brother Ithamar, he founded the

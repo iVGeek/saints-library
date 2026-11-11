@@ -1,5 +1,6 @@
 ---
 name: Blessed Manuel López Álvarez
+stub: false
 honorific: Blessed
 summary: >-
   Born to a peasant family, Manuel was baptized on the day he was born. Ordained as a priest in the archdiocese of

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/b/bb/Anastasius_Gr%C3%BCn_1847.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 name: Saint Anastasius V
+stub: true
 honorific: Saint
 summary: Priest. Martyr.
 died: in Sicily

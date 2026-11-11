@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/6/63/Papias.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Papius
+stub: true
 honorific: Saint
 summary: Martyr. No other information has survived
 deathYear: 303

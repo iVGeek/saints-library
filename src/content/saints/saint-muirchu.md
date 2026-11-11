@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Muirchu
+stub: false
 honorific: Saint
 summary: Son of Cogitosus. Writer whose works include biographies of Saint Brigid of Ireland and Saint Patrick.
 searchAliases:

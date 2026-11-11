@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Eleutherius of Auxerre
+stub: false
 honorific: Saint
 summary: Bishop of Auxerre, France in 532; he served for 29 years. Assisted at the four Councils of Orleans
 deathYear: 561

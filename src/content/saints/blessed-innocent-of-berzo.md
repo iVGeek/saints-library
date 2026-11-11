@@ -1,5 +1,6 @@
 ---
 name: Blessed Innocent of Berzo
+stub: false
 honorific: Blessed
 summary: >-
   Capuchin priest. Having a special gift working with those seeking the Franciscan life, he was made assistant novice

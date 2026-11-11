@@ -1,5 +1,6 @@
 ---
 name: Saint Finbar
+stub: false
 honorific: Saint
 summary: >-
   Son of an artisan named Amergin and a lady of the Irish royal court. Educated at Kilmacahil monastery, Kilkenny,

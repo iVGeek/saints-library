@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/1/1c/Bakhita_Szent_Jozefina.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Lucius of North Africa
+stub: false
 honorific: Saint
 summary: One of a group of 19 Christians martyred together in the persecutions of the Arian Vandal King Hunneric.
 deathYear: 430

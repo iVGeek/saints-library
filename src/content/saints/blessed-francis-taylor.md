@@ -1,5 +1,6 @@
 ---
 name: Blessed Francis Taylor
+stub: false
 honorific: Blessed
 summary: >-
   Born to the local nobility, son of Robert Taylor and Elizabeth Golding. Married laymen and father of six. Lord Mayor

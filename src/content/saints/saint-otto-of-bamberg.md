@@ -1,5 +1,6 @@
 ---
 name: Saint Otto of Bamberg
+stub: false
 honorific: Saint
 summary: >-
   Born to the Swabian nobility. Priest. Part of the household of Duke Ladislas of Poland. Entered the service of Emperor

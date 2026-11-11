@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Fedelemia
+stub: false
 honorific: Saint
 summary: >-
   Daughter of King Leoghaire of Ireland; sister of Saint Eithne. She and her sister met Saint Patrick near the fountain

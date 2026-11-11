@@ -1,5 +1,6 @@
 ---
 name: Saint Austell of Cornwall
+stub: false
 honorific: Saint
 summary: Spiritual student of Saint Mewan of Bretagne. He probably lived in the area now known as Saint Austol.
 searchAliases:

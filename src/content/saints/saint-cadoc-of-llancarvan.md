@@ -1,5 +1,6 @@
 ---
 name: Saint Cadoc of Llancarvan
+stub: false
 honorific: Saint
 summary: >-
   Son of Saint Gwynllyw, a king in Wales, a robber chieftain who led a band of 300; his mother, Saint Gladys, had been

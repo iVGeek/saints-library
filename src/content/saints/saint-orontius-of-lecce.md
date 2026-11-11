@@ -1,5 +1,6 @@
 ---
 name: Saint Orontius of Lecce
+stub: false
 honorific: Saint
 summary: >-
   Son of Publius, a Roman imperial treasurer; uncle of Saint Fortunatus. Converted by the shipwrecked Saint Paul the

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/c/cc/Portrait_of_John_Petrie_and_his_wife_Anne_%28nee_Keble%29_and_three_of_their_children%2C_their_ayan_and_a_musician_%28by_Arthur_William_Devis%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 name: Blessed John Thules
+stub: false
 honorific: Blessed
 summary: >-
   Priest of the apostolic vicariate of England, ministering to covert Catholics during the persecutions of James I.

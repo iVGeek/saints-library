@@ -1,5 +1,6 @@
 ---
 name: Blessed Bartholomew Longo
+stub: false
 honorific: Blessed
 summary: >-
   Son of a physician, Longo was born financially well off, and received a good education, both secular and Christian,

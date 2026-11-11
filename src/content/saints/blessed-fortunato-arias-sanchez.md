@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/0/08/Roma_martires_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Fortunato Arias Sánchez
+stub: true
 honorific: Blessed
 summary: Priest in the diocese of Albacete, Spain. Martyred in the Spanish Civil War.
 birthYear: 1892

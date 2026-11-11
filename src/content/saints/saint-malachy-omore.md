@@ -1,5 +1,6 @@
 ---
 name: Saint Malachy O'More
+stub: false
 honorific: Saint
 summary: >-
   Son of a teacher; brother of Saint Christian O'Morgair of Clogher. Upon the death of his parents, Malachy entered

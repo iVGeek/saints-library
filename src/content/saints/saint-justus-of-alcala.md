@@ -1,5 +1,6 @@
 ---
 name: Saint Justus of Alcala
+stub: false
 honorific: Saint
 summary: >-
   Brother of Saint Pastor. The teenager made a public proclamation of his Christianity, and was promptly arrested on the

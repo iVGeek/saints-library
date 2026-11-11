@@ -1,5 +1,6 @@
 ---
 name: Saint Edisto
+stub: false
 honorific: Saint
 summary: >-
   Born to the imperial Roman nobility. Soldier. Equerry to emperor Nero. Convert, baptized by Saint Peter the Apostle.

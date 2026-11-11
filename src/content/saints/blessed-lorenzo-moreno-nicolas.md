@@ -1,5 +1,6 @@
 ---
 name: Blessed Lorenzo Moreno Nicolás
+stub: false
 honorific: Blessed
 summary: >-
   At age 12, Lorenzo left school to help support his widowed mother. Worked at a railway station. Joined the

@@ -1,5 +1,6 @@
 ---
 name: Venerable Fernando de Contreras
+stub: true
 honorific: Venerable
 summary: Priest in the archdiocese of Seville, Spain.
 image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Fernando-de-Contreras.jpg

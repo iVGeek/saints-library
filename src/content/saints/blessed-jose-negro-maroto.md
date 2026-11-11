@@ -1,5 +1,6 @@
 ---
 name: Blessed José Negro Maroto
+stub: false
 honorific: Blessed
 summary: >-
   Dominican friar, priest and missionary to Japan. Provincial vicar of Dominican missions to Japan. Noted for his fluent

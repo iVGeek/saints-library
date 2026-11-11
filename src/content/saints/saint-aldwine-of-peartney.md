@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Aldwine of Peartney
+stub: false
 honorific: Saint
 summary: >-
   Raised in a pious family; his brother Ethelwine was the second bishop of Lindsey, England, and his sister Ethelhild

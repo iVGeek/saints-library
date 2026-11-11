@@ -1,5 +1,6 @@
 ---
 name: Blessed Germán Gozalvo Andreu
+stub: false
 honorific: Blessed
 summary: >-
   Attended seminary on academic scholarships. Priest in the archdiocese of Valencia, Spain, ordained on 14 July 1936.

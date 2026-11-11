@@ -1,5 +1,6 @@
 ---
 name: Blessed William of Altavilla
+stub: false
 honorific: Blessed
 summary: >-
   Born to the 13th century nobility, he gave up the worldly life to become a Mercedarian knight, and to devote himself

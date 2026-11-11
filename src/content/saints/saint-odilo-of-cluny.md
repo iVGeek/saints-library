@@ -1,5 +1,6 @@
 ---
 name: Saint Odilo of Cluny
+stub: false
 honorific: Saint
 summary: >-
   Born to the French nobility, the son of Berald de Mercoeur and Gerberga who became a nun when widowed. Cured of

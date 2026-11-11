@@ -1,5 +1,6 @@
 ---
 name: Saint André Bessette
+stub: false
 honorific: Venerable
 summary: >-
   Son of a woodcutter, and eighth of twelve children. His father died in a work-related accident, his mother of

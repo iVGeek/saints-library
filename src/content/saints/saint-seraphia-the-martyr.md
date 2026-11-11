@@ -1,5 +1,6 @@
 ---
 name: Saint Seraphia the Martyr
+stub: false
 honorific: Saint
 summary: >-
   When Seraphia was very young, her family fled from Syria to Italy to escape the persecutions of Hadrian. Orphaned as a

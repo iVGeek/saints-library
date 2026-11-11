@@ -1,5 +1,6 @@
 ---
 name: Saint Panteleon
+stub: false
 honorific: Saint
 summary: >-
   Raised by a Christian mother and pagan father, Panteleon chose Christian, and became physician to emperor Maximian. He

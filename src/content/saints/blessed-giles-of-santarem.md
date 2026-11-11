@@ -1,5 +1,6 @@
 ---
 name: Blessed Giles of Santarém
+stub: false
 honorific: Blessed
 summary: >-
   Son of Rodrigo Pelayo Valladaris, governor of Coimbra, Portugal and councillor to King Sancho I. Though his family

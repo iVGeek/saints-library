@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Claudia of Ethiopia
+stub: true
 honorific: Saint
 summary: Martyr. No other information has survived.
 died: Ethiopia

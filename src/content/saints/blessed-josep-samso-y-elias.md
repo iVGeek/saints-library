@@ -1,5 +1,6 @@
 ---
 name: Blessed Josep Samsó y Elias
+stub: false
 honorific: Blessed
 summary: >-
   Josep grew up in the town of Rubí in the area of Barcelona, Spain. He studied at the College of the Marist Brothers,

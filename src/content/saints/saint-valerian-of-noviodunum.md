@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Valerian of Noviodunum
+stub: true
 honorific: Saint
 summary: Martyr.
 died: Noviodunum, Lower Moesia (near modern Isaccea, Romania

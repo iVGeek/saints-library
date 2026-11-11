@@ -1,5 +1,6 @@
 ---
 name: Saint Anastasio
+stub: true
 honorific: Saint
 summary: Martyr.
 died: on the Adriatic coast of modern Croatia

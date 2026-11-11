@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Pausilopo of Thrace
+stub: false
 honorific: Saint
 summary: Martyred in Thrace in the persecutions of Hadrian. No other information has survived.
 searchAliases:

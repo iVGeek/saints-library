@@ -1,5 +1,6 @@
 ---
 name: Venerable Antoine Kowalczyk
+stub: false
 honorific: Venerable
 summary: >-
   Lost an arm in a sawmill accident in 1897 and had to use a prosthetic the rest of his life. Lay brother of the

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Felicissimus of Carthage
+stub: true
 honorific: Saint
 summary: Layman. Martyr.
 deathYear: 256

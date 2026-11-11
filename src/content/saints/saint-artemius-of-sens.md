@@ -1,5 +1,6 @@
 ---
 name: Saint Artemius of Sens
+stub: true
 honorific: Saint
 title: Bishop
 summary: Bishop of Sens, France. Spiritual teacher of Saint Bond of Sens.

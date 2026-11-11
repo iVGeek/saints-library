@@ -1,5 +1,6 @@
 ---
 name: Blessed Fermí Martorell Vies
+stub: false
 honorific: Blessed
 summary: >-
   Priest. Member of the Sons of the Holy Family, and the treasurer of his community. Teacher at Saint Peter the Apostle

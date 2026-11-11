@@ -1,5 +1,6 @@
 ---
 name: Venerable Augustine John Ukken
+stub: false
 honorific: Venerable
 summary: >-
   The second son of Punnaparambil Ukken Anthappan and Chalakal Annamma. Augustine was orphaned by the age of six; the

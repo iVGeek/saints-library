@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Ioannes Ariie Kiemon
+stub: false
 honorific: Blessed
 summary: >-
   Layman in the diocese of Niigata, Japan. Married to Blessed Magdalena Ariie; father of Blessed Petrus Ariie Jinzo.

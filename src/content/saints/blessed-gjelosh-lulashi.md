@@ -1,5 +1,6 @@
 ---
 name: Blessed Gjelosh Lulashi
+stub: false
 honorific: Blessed
 summary: >-
   A lifelong layman in the archdiocese of Shkodrë-Pult, Albania, Gjelosh was educated by Franciscans, and studied at the

@@ -1,5 +1,6 @@
 ---
 name: Blessed Jacinto Orfanell-Prades
+stub: false
 honorific: Blessed
 summary: Dominican at Barcelona, Spain. Priest. Gifted teacher. Missionary to Japan. Martyr.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Jacinto-Orfanell-Prades.jpg

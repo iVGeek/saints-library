@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/a/a6/Filippodiacono.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Parmenas the Deacon
+stub: false
 honorific: Saint
 summary: >-
   One of the seven deacons appointed by the Apostles to minister to Hellenized Jews of Jerusalem who had converted to

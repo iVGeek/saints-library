@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Robert of Frassinoro
+stub: true
 honorific: Blessed
 summary: Benedictine monk. Abbot of the abbey of Frassinoro near Modena, Italy.
 deathYear: 1070

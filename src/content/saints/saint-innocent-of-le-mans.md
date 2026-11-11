@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Innocent of Le Mans
+stub: true
 honorific: Saint
 summary: Bishop of Le Mans, France for over 40 years.
 deathYear: 559

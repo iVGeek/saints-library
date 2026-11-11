@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Optatian of Brescia
+stub: true
 honorific: Saint
 summary: Bishop of Brescia, Italy for over 50 years.
 searchAliases:

@@ -1,5 +1,6 @@
 ---
 name: Pope Saint Gregory the Great
+stub: false
 honorific: Saint
 summary: >-
   Son of Gordianus, a Roman regionarius, and Saint Silvia of Rome. Nephew of Saint Emiliana and Saint Tarsilla.

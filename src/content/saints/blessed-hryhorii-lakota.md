@@ -1,5 +1,6 @@
 ---
 name: Blessed Hryhorii Lakota
+stub: false
 honorific: Blessed
 summary: >-
   Greek Catholic. Studied theology at Lviv, Ukraine. Ordained in 1908 at Przemysl (in modern Poland). Doctor of theology

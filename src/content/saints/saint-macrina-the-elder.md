@@ -1,5 +1,6 @@
 ---
 name: Saint Macrina the Elder
+stub: false
 honorific: Saint
 summary: >-
   Grandmother of Saint Basil the Great, Saint Gregory of Nyssa, Saint Peter of Sebaste, and Saint Macrina the Younger,

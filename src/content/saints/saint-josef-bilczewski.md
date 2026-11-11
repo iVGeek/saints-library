@@ -1,5 +1,6 @@
 ---
 name: Saint Jósef Bilczewski
+stub: false
 honorific: Venerable
 summary: >-
   Eldest of nine children in a peasant family. Seminarian at Krakow, Poland. Ordained on 6 July 1884. Doctor of theology

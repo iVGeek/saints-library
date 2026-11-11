@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/b/ba/Hildegard_von_Bingen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Daniel of Schönau
+stub: false
 honorific: Blessed
 summary: >-
   Cistercian monk at Himmerod Abbey in Großlittgen, Germany. Prior of the house. Abbot of the Schönau Abbey in

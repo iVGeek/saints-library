@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed John Slade
+stub: false
 honorific: Blessed
 summary: >-
   Studied at New College, Oxford, England. Schoolmaster. Refused to accept King Henry VIII's authority in spiritual

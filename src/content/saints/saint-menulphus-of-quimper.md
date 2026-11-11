@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Menulphus of Quimper
+stub: true
 honorific: Saint
 summary: Seventh century bishop of Quimper in Brittany, (part of modern France).
 searchAliases:

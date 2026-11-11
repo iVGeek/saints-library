@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Pinian
+stub: false
 honorific: Saint
 summary: >-
   Married to Saint Melania the Younger. Father of two; both children died very young. About 410 the couple left Rome,

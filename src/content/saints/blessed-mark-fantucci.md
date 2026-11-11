@@ -1,5 +1,6 @@
 ---
 name: Blessed Mark Fantucci
+stub: false
 honorific: Blessed
 summary: >-
   Born wealthy and known as an excellent student. Lawyer. In his mid-20's he felt a call to religious life and gave up

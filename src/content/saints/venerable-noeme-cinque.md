@@ -1,5 +1,6 @@
 ---
 name: Venerable Noeme Cinque
+stub: false
 honorific: Venerable
 summary: >-
   Second of twelve children born to Vincent and Sarah Cinque. Though she felt drawn to religious life from an early age,

@@ -1,5 +1,6 @@
 ---
 name: Blessed Josaphata Mykhailyna Hordashevska
+stub: false
 honorific: Blessed
 summary: >-
   Greek Catholic. Entered the contemplative Basilian Sisters at age 18. When the Basilians decided to establish a

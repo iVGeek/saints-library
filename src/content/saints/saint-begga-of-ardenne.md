@@ -1,5 +1,6 @@
 ---
 name: Saint Begga of Andenne
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility, the daughter of Saint Pepin of Landen, mayor of the palace, and Saint Ida of Nivelles. Sister of

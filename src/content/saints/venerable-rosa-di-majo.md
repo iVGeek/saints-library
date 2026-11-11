@@ -1,5 +1,6 @@
 ---
 name: Venerable Rosa di Majo
+stub: false
 honorific: Venerable
 summary: >-
   Born to a poor, small town family, she was baptized at the age of a week and grew up as a pious child, active in her

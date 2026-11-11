@@ -1,5 +1,6 @@
 ---
 name: Saint Evagrius of Tomi
+stub: true
 honorific: Saint
 summary: Martyr. No further information has survived.
 searchAliases:

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Martyrs of Colonia Suffetulana
+stub: true
 honorific: Saint
 summary: A group of 60 Christians martyred for destroying a statue of Hermes.
 died: Colonia Suffetulana, Africa

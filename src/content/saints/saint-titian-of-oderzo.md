@@ -1,5 +1,6 @@
 ---
 name: Saint Titian of Oderzo
+stub: false
 honorific: Saint
 summary: >-
   Born to the Italian nobility. Educated by Bishop Floriano of Oderzo, Italy. Priest. Treasurer of the diocese of

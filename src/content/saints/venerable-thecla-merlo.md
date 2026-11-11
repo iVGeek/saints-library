@@ -1,5 +1,6 @@
 ---
 name: Venerable Thecla Merlo
+stub: false
 honorific: Venerable
 summary: >-
   Italian peasant. A pious youth, she was trained as a seamstress. She desired a religious life, and was convinced by

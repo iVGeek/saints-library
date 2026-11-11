@@ -1,5 +1,6 @@
 ---
 name: Saint Amphilochius of Iconium
+stub: false
 honorific: Saint
 summary: >-
   Successful 4th-century lawyer who gave up the worldly life to live as a hermit. Bishop of Iconium. Worked with Saint

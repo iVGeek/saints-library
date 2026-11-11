@@ -1,5 +1,6 @@
 ---
 name: Blessed Richard Rolle de Hampole
+stub: false
 honorific: Blessed
 summary: >-
   An excellent student all his life, he was educated at Oxford. Studied in Paris, France from 1320 to 1326. Returning to

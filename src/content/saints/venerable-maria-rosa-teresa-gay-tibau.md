@@ -1,5 +1,6 @@
 ---
 name: Venerable Maria Rosa Teresa Gay Tibau
+stub: true
 honorific: Venerable
 summary: Founded of the Institute of the Religious of Saint Joseph of Girona.
 image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Maria-Rosa-Teresa-Gay-Tibau.jpg

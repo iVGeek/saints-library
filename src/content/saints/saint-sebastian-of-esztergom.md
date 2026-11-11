@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Sebastian of Esztergom
+stub: false
 honorific: Saint
 summary: Monk. Archbishop of Esztergom, Hungary in 1002. Worked with Saint Stephen to evangelize the Hungarian people.
 deathYear: 1036

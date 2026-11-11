@@ -1,5 +1,6 @@
 ---
 name: Saint Humility
+stub: false
 honorific: Saint
 summary: >-
   Born to a wealthy family. Married at age 15 to a nobleman named Ugoletto. Mother of two, both of whom died in infancy.

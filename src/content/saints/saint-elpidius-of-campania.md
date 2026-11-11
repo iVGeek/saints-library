@@ -1,5 +1,6 @@
 ---
 name: Saint Elpidius of Campania
+stub: false
 honorific: Saint
 summary: >-
   Born to the North African nobility, both Elpidius and his brother Canione became priests. Tortured and exiled by being

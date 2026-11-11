@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Pere Sitges Obiols
+stub: false
 honorific: Blessed
 summary: >-
   Member of the Claretians, professed on 15 August 1916. Ordained a priest on 6 June 1925. Martyred in the Spanish Civil

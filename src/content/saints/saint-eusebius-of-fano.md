@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Eusebius of Fano
+stub: true
 honorific: Saint
 title: Bishop
 summary: Bishop of Fano, Italy.

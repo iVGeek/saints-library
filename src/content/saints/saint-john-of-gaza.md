@@ -1,5 +1,6 @@
 ---
 name: Saint John of Gaza
+stub: true
 honorific: Saint
 died: beheaded in Gaza, Palestine
 deathPlace: Palestine

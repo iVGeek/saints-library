@@ -1,5 +1,6 @@
 ---
 name: Saint Heribert of Cologne
+stub: false
 honorific: Saint
 summary: >-
   Son of Duke Hugo of Worms, Germany. Educated at the cathedral school at Worms. Provost of the cathedral. Ordained in

@@ -1,6 +1,7 @@
 ---
 image: https://www.catholic.org/files/images/saints/617.jpg
 name: Saint Cyrus
+stub: true
 honorific: Saint
 summary: No details have survived.
 searchAliases:

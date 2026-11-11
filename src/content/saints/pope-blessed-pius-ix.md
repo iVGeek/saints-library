@@ -1,5 +1,6 @@
 ---
 name: Pope Blessed Pius IX
+stub: false
 honorific: Blessed
 summary: >-
   Son of Gerolamo Ferretti and Caterina Solazzi, local nobles, the family's ninth child. Frail, intelligent and pious

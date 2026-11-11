@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/7/72/110525_Pinerolo_Duomo_di_Pinerolo_CS_%28101%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Francesco of Pinerolo
+stub: false
 honorific: Blessed
 summary: >-
   Member of the Minor Conventuals of Saint Francis in Pinerolo, Italy. Spiritual director of Prince Ludovico di Savoia

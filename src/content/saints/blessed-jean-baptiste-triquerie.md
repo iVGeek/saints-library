@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/e/ec/FrancescoCoA_PioM.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Jean-Baptiste Triquerie
+stub: true
 honorific: Blessed
 summary: Franciscan Conventual priest. Martyred in the French Revolution.
 birthYear: 1737

@@ -1,5 +1,6 @@
 ---
 name: Saint Justus of Poland
+stub: true
 image: https://commons.wikimedia.org/wiki/Special:FilePath/Justus_robot_in_Krakow_Poland_Aug2009.jpg?width=600
 honorific: Saint
 summary: One of four brothers who became hermits, Benedictine monks, and saints.

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Emilian of Vercelli
+stub: false
 honorific: Saint
 summary: >-
   Lived as a hermit for 40 years. Bishop of Vercelli, Italy. Attended three synods held in Rome, Italy by Pope Saint

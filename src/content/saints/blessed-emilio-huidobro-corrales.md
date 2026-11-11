@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/5/53/1899._Tzarevich_Dmitry_by_M._Nesterov.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Emilio Huidobro Corrales
+stub: false
 honorific: Blessed
 summary: Young layman in the archdiocese of Burgos, Spain. Martyred in the Spanish Civil War. One of the Martyrs of Suances.
 birthYear: 1917

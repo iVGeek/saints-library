@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Goban
+stub: false
 honorific: Saint
 summary: >-
   Spiritual student of Saint Fursey. Benedictine monk at Burgh-Castle, Suffolk, England. Travelled with Fursey to France

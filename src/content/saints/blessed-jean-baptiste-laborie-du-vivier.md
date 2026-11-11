@@ -1,5 +1,6 @@
 ---
 name: Blessed Jean-Baptiste Laborie du Vivier
+stub: false
 honorific: Blessed
 summary: >-
   Priest in the diocese of Maçon, France. Imprisoned on a ship in the harbor of Rochefort, France and left to die during

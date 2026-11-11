@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Honoratus of North Africa
+stub: true
 honorific: Saint
 summary: Martyred in Africa. No other information has survived.
 region: England

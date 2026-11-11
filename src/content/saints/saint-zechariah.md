@@ -1,5 +1,6 @@
 ---
 name: Saint Zechariah
+stub: false
 honorific: Saint
 summary: >-
   Jewish priest in Jerusalem. Married to Saint Elizabeth; father of Saint John the Baptist. In his later years he was

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Faustus of Cologne
+stub: true
 honorific: Saint
 summary: Martyr.
 died: Rome, Italy, date unknown

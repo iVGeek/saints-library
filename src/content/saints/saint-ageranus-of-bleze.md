@@ -1,5 +1,6 @@
 ---
 name: Saint Ageranus of Bèze
+stub: false
 honorific: Saint
 summary: Benedictine monk. Martyred defending the altar at the monastery of Bèze, Côte-d'Or, France against Norman invaders.
 searchAliases:

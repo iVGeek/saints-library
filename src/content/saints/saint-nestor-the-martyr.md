@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Nestor the Martyr
+stub: true
 honorific: Saint
 summary: Fourth century missionary, possibly bishop, who evangelized in Cyprus. Martyr.
 searchAliases:

@@ -1,5 +1,6 @@
 ---
 name: Saint Titus Brandsma
+stub: false
 honorific: Saint
 summary: >-
   A pious youth from a pious family, three of Titus's four sisters were nuns, and a brother became a Franciscan priest.

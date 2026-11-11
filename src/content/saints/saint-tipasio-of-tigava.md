@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Tipasio of Tigava
+stub: false
 honorific: Saint
 summary: >-
   Veteran soldier. During the persecutions of Diocletian, all soldiers were ordered to sacrifice to pagan idols; Tipasio

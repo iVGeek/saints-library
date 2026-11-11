@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/6/6f/Catedral_de_San_Juan_Bautista_a.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Juan Cano Gómez
+stub: false
 honorific: Blessed
 summary: Priest of the diocese of Córdoba, Spain, serving in the Bujalante community. Martyred in the Spanish Civil War.
 birthYear: 1863

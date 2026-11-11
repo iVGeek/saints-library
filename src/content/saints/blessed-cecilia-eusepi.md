@@ -1,5 +1,6 @@
 ---
 name: Blessed Cecilia Eusepi
+stub: false
 honorific: Blessed
 summary: >-
   Youngest of eleven children, Cecilia was baptized at the age of 9 days, and her father died when she was 2 months old.

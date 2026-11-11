@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Nicolaus Fukunaga Keian
+stub: true
 honorific: Blessed
 summary: Jesuit lay brother. Martyr.
 birthYear: 1570

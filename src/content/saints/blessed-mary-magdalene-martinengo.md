@@ -1,5 +1,6 @@
 ---
 name: Blessed Mary Magdalene Martinengo
+stub: false
 honorific: Blessed
 summary: >-
   Born to the Italian nobility. Her mother died while Mary was five months old; the lack of a mother affected the girl

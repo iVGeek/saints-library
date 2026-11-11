@@ -1,5 +1,6 @@
 ---
 name: Blessed Costanza Starace
+stub: false
 honorific: Blessed
 summary: >-
   Consecrated as a baby to Our Lady of Sorrows. Attended a boarding school run by the Daughters of Charity in

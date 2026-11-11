@@ -1,5 +1,6 @@
 ---
 name: Saint Liborius of Le Mans
+stub: false
 honorific: Saint
 summary: >-
   Born to a noble family of Gaul. Priest. Bishop of Le Mans, France from 348. Friend of Saint Martin of Tours. Served

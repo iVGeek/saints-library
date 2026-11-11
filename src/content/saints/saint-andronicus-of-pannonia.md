@@ -1,5 +1,6 @@
 ---
 name: Saint Andronicus of Pannonia
+stub: false
 honorific: Saint
 summary: >-
   Early Christian, relative, travelling companion and fellow prisoner of Saint Paul the Apostle mentioned in the New

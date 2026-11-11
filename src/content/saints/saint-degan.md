@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Degan
+stub: true
 honorific: Saint
 summary: Sixth century spiritual student of Saint Petroc in Cornwall.
 searchAliases:

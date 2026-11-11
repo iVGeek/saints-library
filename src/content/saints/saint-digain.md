@@ -1,5 +1,6 @@
 ---
 name: Saint Digain
+stub: false
 honorific: Saint
 summary: >-
   Born to the 5th-century nobility, the son of Constantine, a lord in Cornwall, England. The village of Llangernyw,

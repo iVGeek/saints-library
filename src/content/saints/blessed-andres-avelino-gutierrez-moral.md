@@ -1,5 +1,6 @@
 ---
 name: Blessed Andrés Avelino Gutiérrez Moral
+stub: true
 honorific: Blessed
 summary: Vincentian priest. Martyred in the Spanish Civil War.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Andrés-Avelino-Gutiérrez-Moral.jpg

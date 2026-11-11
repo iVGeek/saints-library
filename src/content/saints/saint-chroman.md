@@ -1,5 +1,6 @@
 ---
 name: Saint Chroman
+stub: false
 honorific: Saint
 title: Priest
 summary: >-

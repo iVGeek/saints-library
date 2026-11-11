@@ -1,5 +1,6 @@
 ---
 name: Saint Alphege the Bald
+stub: false
 honorific: Saint
 summary: >-
   Relative of Saint Dunstan of Canterbury and Saint Ethelwold. Monk. Bishop of Winchester, England in 935. Great

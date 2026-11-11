@@ -1,5 +1,6 @@
 ---
 name: Saint Irene of Rome
+stub: false
 honorific: Saint
 summary: >-
   Married to Saint Castulus of Rome. Widow. Healed the arrow wounds of Saint Sebastian, and tried unsuccessfully to talk

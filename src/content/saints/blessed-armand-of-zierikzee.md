@@ -1,5 +1,6 @@
 ---
 name: Blessed Armand of Zierikzee
+stub: false
 honorific: Blessed
 summary: >-
   Franciscan friar who used his knowledge of Greek, Hebrew and Chaldean languages to become and influential Bible

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Domna of Nicomedia
+stub: false
 honorific: Saint
 summary: >-
   Pagan priestess who converted to become a Christian nun. Martyred in the persecutions of Diocletian for the crime of

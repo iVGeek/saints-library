@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/f/fd/Cathedral_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Eduardo Bautista Jiménez
+stub: false
 honorific: Blessed
 summary: Member of the Hospitallers of Saint John of God. Martyred in the Spanish Civil War.
 birthYear: 1885

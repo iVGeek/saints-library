@@ -1,5 +1,6 @@
 ---
 name: Saint Mercurialis of Forli
+stub: false
 honorific: Saint
 summary: >-
   First bishop of Forlì, Italy. Worked to convert pagans and suppress Arianism, which led to him being depicted in art

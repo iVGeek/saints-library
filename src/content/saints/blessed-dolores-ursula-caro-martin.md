@@ -1,5 +1,6 @@
 ---
 name: Blessed Dolores Úrsula Caro Martín
+stub: false
 honorific: Blessed
 summary: >-
   Daughters of Charity of Saint Vincent de Paul nun in the Archdiocese of Madrid, Spain, joining in 19 May 1917. She

@@ -1,5 +1,6 @@
 ---
 name: Blessed Valentín Gil Arribas
+stub: false
 honorific: Blessed
 summary: >-
   Baptized at the age of four days, Valentín was a religious boy, and when he old enough, joined the Salesians of Don

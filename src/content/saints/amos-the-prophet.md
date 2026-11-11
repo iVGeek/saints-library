@@ -1,5 +1,6 @@
 ---
 name: Amos the Prophet
+stub: false
 honorific: Saint
 summary: >-
   Eighth-century BC shepherd at Koa near Bethlehem. Of himself he said, “I am not a prophet, nor the son of a prophet;

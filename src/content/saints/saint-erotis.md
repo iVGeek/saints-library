@@ -1,5 +1,6 @@
 ---
 name: Saint Erotis
+stub: true
 honorific: Saint
 summary: Martyr. No other information has survived.
 searchAliases:

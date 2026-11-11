@@ -1,5 +1,6 @@
 ---
 name: Saint Fortunata of Patria
+stub: true
 honorific: Saint
 summary: Martyr.
 region: Italy

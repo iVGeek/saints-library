@@ -1,5 +1,6 @@
 ---
 name: Pope Saint Innocent I
+stub: false
 honorific: Saint
 summary: >-
   Friend of Saint John Chrysostom. 40th pope. Brought several churches back from the Novatian heresy to orthodoxy.

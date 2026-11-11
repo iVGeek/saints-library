@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Anglinus of Stavelot
+stub: true
 honorific: Saint
 summary: Monk. Abbot of Stavelot-Malmédy Abbey in Belgium.
 deathYear: 768

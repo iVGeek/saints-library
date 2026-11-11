@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Damaris of Athens
+stub: false
 honorific: Saint
 summary: >-
   One of the people who heard Saint Paul the Apostle speak at the Areopagus in Athens, Greece (Acts 17:34). Convert, the

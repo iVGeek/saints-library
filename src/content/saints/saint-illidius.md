@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Illidius of Clermont
+stub: false
 honorific: Saint
 summary: >-
   Fourth Bishop of Clermont (formerly Averna), Auvergne, France. He worked to establish Clermont as a center of

@@ -1,5 +1,6 @@
 ---
 name: Blessed Luigi Novarese
+stub: false
 honorific: Blessed
 summary: >-
   One of six children born to a farming family; his father died of pneumonia when the boy was very young. Due to a

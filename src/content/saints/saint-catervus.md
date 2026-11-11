@@ -1,5 +1,6 @@
 ---
 name: Saint Catervus
+stub: false
 honorific: Saint
 summary: >-
   Born to the imperial Roman nobility. Roman prefect. Married to Saint Severina, and father of Saint Bassus. Brought

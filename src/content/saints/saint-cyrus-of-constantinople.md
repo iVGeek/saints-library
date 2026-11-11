@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Cyrus of Constantinople
+stub: false
 honorific: Saint
 summary: >-
   Monk in Amasra and Paflagonia. Bishop and patriarch of Constantinople, c.705. He helped prevent the new emperor from

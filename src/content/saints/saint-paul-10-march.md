@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/d/dc/Fresco_of_Saint_Titos.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Paul of Corinth
+stub: false
 honorific: Saint
 summary: >-
   During the persecution of Emperor Valerian he was arrested for his faith, tortured, and martyred with a group of

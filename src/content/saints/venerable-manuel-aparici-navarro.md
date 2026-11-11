@@ -1,5 +1,6 @@
 ---
 name: Venerable Manuel Aparici Navarro
+stub: false
 honorific: Venerable
 summary: >-
   Member of Catholic Action. Spanish national youth chairman of Catholic Action from 1934 to 1941, a period of great

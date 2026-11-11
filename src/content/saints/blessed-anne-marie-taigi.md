@@ -1,5 +1,6 @@
 ---
 name: Blessed Anne Marie Taigi
+stub: false
 honorific: Blessed
 summary: >-
   Daughter Luigi Giannetti and Maria Masi. Her father was a pharmacist in Siena, Italy, but his business went bankrupt

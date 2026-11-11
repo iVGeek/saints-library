@@ -1,5 +1,6 @@
 ---
 name: Saint Philip Howard
+stub: false
 honorific: Venerable
 summary: >-
   Grandson of the poet Henry, Earl of Surrey, who was executed by King Henry VIII in 1547. Son of Thomas, the 4th Duke

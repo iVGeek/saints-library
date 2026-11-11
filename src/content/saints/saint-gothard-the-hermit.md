@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Gothard the Hermit
+stub: false
 honorific: Saint
 summary: Hermit in a cell high in the Alps near a mountain range and pass now known as Saint Gothard in his honour.
 searchAliases:

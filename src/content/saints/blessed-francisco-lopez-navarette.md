@@ -1,5 +1,6 @@
 ---
 name: Blessed Francisco López Navarette
+stub: false
 honorific: Blessed
 summary: >-
   Priest in the diocese of Jaén, Spain; he celebrated his first Mass on 1 January 1917 in his home town. Parish priest

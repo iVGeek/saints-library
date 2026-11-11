@@ -1,5 +1,6 @@
 ---
 name: Saint Diogenes of Philippi
+stub: true
 honorific: Saint
 summary: Martyr.
 deathYear: 345

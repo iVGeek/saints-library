@@ -1,5 +1,6 @@
 ---
 name: Saint Adelelmus
+stub: false
 honorific: Saint
 summary: >-
   Manservant. Soldier for France, with a promising career. While on pilgrimage to Rome, Italy, he met Saint Robert at

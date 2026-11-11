@@ -1,5 +1,6 @@
 ---
 name: Blessed Pietro Corradini of Mogliano
+stub: false
 honorific: Blessed
 summary: >-
   At age 13 young Pietro had a vision of the world in ruins which was rescued by a monk. He studied law in Perugia,

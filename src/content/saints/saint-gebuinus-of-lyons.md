@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Gebuinus of Lyons
+stub: true
 honorific: Saint
 title: Bishop
 summary: Archbishop of Lyons, France.

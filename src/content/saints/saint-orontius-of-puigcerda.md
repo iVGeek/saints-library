@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Orontius of Puigcerda
+stub: false
 honorific: Saint
 summary: >-
   Brother of Saint Vincent. Missionary in the Pyrenees, working with Saint Vincent and Saint Victor of Puigcerda.

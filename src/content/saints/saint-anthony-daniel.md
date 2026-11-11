@@ -1,5 +1,6 @@
 ---
 name: Saint Anthony Daniel
+stub: false
 honorific: Saint
 title: St. Anthony Daniel
 summary: >-

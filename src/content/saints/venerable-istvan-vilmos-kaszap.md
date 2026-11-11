@@ -1,5 +1,6 @@
 ---
 name: Venerable István Vilmos Kaszap
+stub: false
 honorific: Venerable
 summary: >-
   István was the middle of five children born to the pious family of Lajos Kaszap and Róza Vinkler. In his youth he was

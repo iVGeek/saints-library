@@ -1,5 +1,6 @@
 ---
 name: Saint Caesarius of Armenia
+stub: false
 honorific: Saint
 summary: >-
   Caesarius led a dissolute and sinful life for years. Father of the Arian heretic Eudoxius. In the end, however,

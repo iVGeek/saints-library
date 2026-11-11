@@ -1,5 +1,6 @@
 ---
 name: Blessed Delphine of Glandèves
+stub: false
 honorific: Blessed
 summary: >-
   Born to the French nobility, the daughter of the Lord of Puimichel, France. Orphaned in infancy, she was raised by her

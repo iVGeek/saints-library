@@ -1,5 +1,6 @@
 ---
 name: Blessed Gregorio Chirivas Lacamba
+stub: false
 honorific: Blessed
 summary: >-
   Claretians co-adjutor brother, making his profession in 1897, and serving his community as sacristan and tailor.

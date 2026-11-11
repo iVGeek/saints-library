@@ -1,5 +1,6 @@
 ---
 name: Blessed Wilburgis
+stub: false
 honorific: Blessed
 summary: >-
   Her father died on a pilgrimage to Jerusalem, and her mother soon after. Pilgrim at age 16 to Saint James de

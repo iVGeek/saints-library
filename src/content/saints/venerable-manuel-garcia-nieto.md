@@ -1,5 +1,6 @@
 ---
 name: Venerable Manuel García Nieto
+stub: false
 honorific: Venerable
 summary: >-
   The son of Juan García Blázquez and María Antonia Nieto Sánchez. He studied at the Conciliar Seminary of Salamanca,

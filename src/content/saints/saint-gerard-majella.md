@@ -1,5 +1,6 @@
 ---
 name: Saint Gerard Majella
+stub: false
 honorific: Saint
 summary: >-
   Son of a tailor who died when the boy was 12, leaving the family in poverty. Gerard tried to join the Capuchins, but

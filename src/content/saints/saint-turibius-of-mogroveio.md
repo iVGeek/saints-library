@@ -1,5 +1,6 @@
 ---
 name: Saint Turibius of Mogroveio
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility. Lawyer. Professor of law at Salamanca, Spain. Ordained in 1578 at age 40. Judge of the Court of

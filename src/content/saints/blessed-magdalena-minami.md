@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/5/53/1899._Tzarevich_Dmitry_by_M._Nesterov.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Magdalena Minami
+stub: false
 honorific: Blessed
 summary: Lay woman in the diocese of Fukuoka, Japan. Married to Blessed Ioannes Minami Gorozaemon. Martyr.
 birthYear: 1560

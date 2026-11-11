@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Thomas Pormort
+stub: false
 honorific: Blessed
 summary: >-
   Educated at Cambridge University. Studied at the seminary in Rheims, France in 1581, and then, beginning in 1582, in

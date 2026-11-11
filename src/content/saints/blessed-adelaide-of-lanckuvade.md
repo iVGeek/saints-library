@@ -1,5 +1,6 @@
 ---
 name: Blessed Adelaide of Lanckuvade
+stub: false
 honorific: Blessed
 summary: >-
   After a wicked and wasted early life, Adelaide repented and became Cistercian nun in the convent of Lenkwend, Germany.

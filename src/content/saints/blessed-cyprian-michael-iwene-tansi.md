@@ -1,5 +1,6 @@
 ---
 name: Blessed Cyprian Michael Iwene Tansi
+stub: false
 honorific: Blessed
 summary: >-
   Son of Tabansi of Igboezunu-Aguleri and Ejikwevi of Nteje; one of five children. Though his parents were

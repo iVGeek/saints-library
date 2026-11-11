@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Salvi Tolosa Alsina
+stub: true
 honorific: Blessed
 summary: Salesian brother. Martyred in the Spanish Civil War.
 searchAliases:

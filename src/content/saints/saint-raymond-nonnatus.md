@@ -1,5 +1,6 @@
 ---
 name: Saint Raymond Nonnatus
+stub: false
 honorific: Saint
 summary: >-
   Born to the Spanish nobility. Well educated, his father planned a career for Raymond in the royal court in Aragon

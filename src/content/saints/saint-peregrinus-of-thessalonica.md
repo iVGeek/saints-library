@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Peregrinus of Thessalonica
+stub: true
 honorific: Saint
 summary: Martyred in the persecution of Diocletian
 deathYear: 303

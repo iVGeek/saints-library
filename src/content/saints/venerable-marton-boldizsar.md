@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Venerable Marton Boldizsár
+stub: true
 honorific: Venerable
 summary: Discalced Carmelite priest.
 searchAliases:

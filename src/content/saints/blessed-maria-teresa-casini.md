@@ -1,5 +1,6 @@
 ---
 name: Blessed Maria Teresa Casini
+stub: false
 honorific: Blessed
 summary: >-
   Born to a wealthy family, the eldest daughter of Tommaso Casini, an engineer, and Melania Rayner, she was baptized at

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Lucian of Lentini
+stub: true
 honorific: Saint
 title: Bishop
 summary: Bishop of Lentini, Sicily.

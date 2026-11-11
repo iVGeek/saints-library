@@ -1,5 +1,6 @@
 ---
 name: Saint Cadwallader
+stub: true
 honorific: Saint
 summary: A pious king in Wales.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Cadwallader.jpg

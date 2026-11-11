@@ -1,5 +1,6 @@
 ---
 name: Saint Arnold of Arnoldsweiler
+stub: false
 honorific: Saint
 summary: ' Part of the tradition of devotion to Saint Arnold is a donation of candles, sometimes referred to as “wax interest” or “wax sacrifice”. For several centuries, parishes and villages Harpist and singer at the court of Blessed Charlemagne. Pilgrim to Santiago de Compostela in Spain.'
 image: >-

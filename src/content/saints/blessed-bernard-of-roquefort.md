@@ -1,5 +1,6 @@
 ---
 name: Blessed Bernard of Roquefort
+stub: false
 honorific: Blessed
 summary: >-
   Dominican. Basing their operations in a farmhouse outside Avignonet, France, he and his brother missioners worked

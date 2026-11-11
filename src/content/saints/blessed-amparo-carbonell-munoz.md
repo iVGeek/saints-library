@@ -1,5 +1,6 @@
 ---
 name: Blessed Amparo Carbonell Muñoz
+stub: false
 honorific: Blessed
 summary: >-
   Born to a poor peasant family, Amparo was educated at a convent of Daughters of Mary, Help of Christians sisters near

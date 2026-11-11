@@ -1,5 +1,6 @@
 ---
 name: Blessed Claude Bochot
+stub: true
 honorific: Blessed
 summary: Doctrinarian priest. One of the Martyrs of September.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Claude-Bochot.jpg

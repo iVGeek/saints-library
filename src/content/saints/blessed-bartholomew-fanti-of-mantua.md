@@ -1,5 +1,6 @@
 ---
 name: Blessed Bartholomew Fanti of Mantua
+stub: false
 honorific: Blessed
 summary: >-
   Carmelite priest at Mantua, Italy for 35 years. Spiritual director and rector of the Confraternity of the Blessed

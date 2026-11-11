@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/5/50/Corwen_Patron_Saints.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Mael
+stub: false
 honorific: Saint
 summary: >-
   Travelled with Saint Cadfan to Wales in the 6th century. Spent the rest of his life as a hermit on the isle of

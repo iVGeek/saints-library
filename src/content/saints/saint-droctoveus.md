@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Droctoveus
+stub: false
 honorific: Saint
 summary: >-
   Monk in abbies in Paris, France. Spiritual student of Saint Germanus of Paris. Abbot of Saint Symphorium abbey at

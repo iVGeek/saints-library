@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Scoth
+stub: true
 honorific: Saint
 summary: Irish nun.
 region: Ireland

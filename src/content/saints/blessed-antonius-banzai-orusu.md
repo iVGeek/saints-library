@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/5/53/1899._Tzarevich_Dmitry_by_M._Nesterov.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Antonius Banzai Orusu
+stub: false
 honorific: Blessed
 summary: Child in the diocese of Niigata, Japan. Son of Blessed Ioannes Banzai Kazue and Blessed Aurea Banzai. Martyr.
 birthYear: 1617

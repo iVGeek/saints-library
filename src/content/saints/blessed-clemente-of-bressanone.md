@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/e/e4/Gaeta%2C_Basilica_Cattedrale_-_Esterno.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Clemente of Bressanone
+stub: false
 honorific: Blessed
 summary: >-
   Franciscan friar minor. Sent to the Pinerolo region to preach against Waldensianism, he brought many back to the

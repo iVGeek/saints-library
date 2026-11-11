@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Cisinandus of Tarouca
+stub: false
 honorific: Blessed
 summary: >-
   12th century Cistercian monk and evangelist. Spiritual student of Saint Bernard of Clairvaux who sent him to northern

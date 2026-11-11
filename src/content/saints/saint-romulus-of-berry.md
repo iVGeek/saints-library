@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Romulus of Berry
+stub: true
 honorific: Saint
 summary: Priest. Founded a monastery in Berry, France.
 deathYear: 700

@@ -1,5 +1,6 @@
 ---
 name: Saint Eulogius of Edessa
+stub: false
 honorific: Saint
 summary: >-
   Priest in Edessa, Syria. When a Arian bishop was imposed on the area by Emperor Valens, Eulogius refused to renouce

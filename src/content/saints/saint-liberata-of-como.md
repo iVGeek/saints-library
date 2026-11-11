@@ -1,5 +1,6 @@
 ---
 name: Saint Liberata of Como
+stub: false
 honorific: Saint
 summary: >-
   Born to the wealthy, Italian nobility; sister of Saint Faustina of Como. Their mother died when the girls were very

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Jerome of Nevers
+stub: true
 honorific: Saint
 title: Bishop
 summary: Bishop of Nevers, France.

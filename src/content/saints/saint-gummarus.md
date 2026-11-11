@@ -1,5 +1,6 @@
 ---
 name: Saint Gummarus
+stub: false
 honorific: Saint
 summary: >-
   Son of the Lord of Emblem, a court official. Gummarus received no formal education but grew up serving in the court of

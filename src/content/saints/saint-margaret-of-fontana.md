@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Margaret of Fontana
+stub: false
 honorific: Saint
 summary: >-
   A pious youth who was orphaned when she was young. Dominican tertiary. Devoted to the sick and poor, spending whole

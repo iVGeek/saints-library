@@ -1,5 +1,6 @@
 ---
 name: Blessed Vicente Sales Genovés
+stub: true
 honorific: Blessed
 summary: Jesuit brother. Martyred in the Spanish Civil War.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Vicente-Sales-Genovés.jpg

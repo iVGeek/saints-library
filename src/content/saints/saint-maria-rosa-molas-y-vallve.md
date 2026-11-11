@@ -1,5 +1,6 @@
 ---
 name: Saint Maria Rosa Molas y Vallvé
+stub: false
 honorific: Venerable
 summary: >-
   The daughter of Jose Molas and Maria Vallvé, Rosa was baptized at the age of one day. She joined the Daughters of

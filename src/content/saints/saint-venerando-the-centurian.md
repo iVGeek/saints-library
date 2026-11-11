@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Venerando the Centurian
+stub: true
 honorific: Saint
 summary: Roman centurian. Convert to Christianity. Martyr.
 searchAliases:

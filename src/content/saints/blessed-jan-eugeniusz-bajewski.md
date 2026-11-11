@@ -1,5 +1,6 @@
 ---
 name: Blessed Jan Eugeniusz Bajewski
+stub: false
 honorific: Blessed
 summary: >-
   Member of the Franciscan Conventuals, taking the name Antonin. Priest. Worked with Saint Maximilian Kolbe. Imprisoned,

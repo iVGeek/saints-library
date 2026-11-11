@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Benedicta of Origny-sur-Oise
+stub: false
 honorific: Saint
 summary: >-
   Third-century Christian daughter of Mathoclus, a pagan imperial Roman senator. Missionary in Origny-sur-Oise, France.

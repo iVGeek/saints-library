@@ -1,5 +1,6 @@
 ---
 name: Blessed Dominic of Villanova
+stub: false
 honorific: Blessed
 title: Priest
 summary: Mercedarian friar at the convent of Santa Maria di Montflorite in Aragon, Spain. Commander of his house. Priest.

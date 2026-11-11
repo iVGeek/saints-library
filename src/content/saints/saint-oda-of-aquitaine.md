@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/3/31/Irmina_von_Trier_V-1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Oda of Aquitaine
+stub: false
 honorific: Saint
 summary: >-
   Princess. Married to the Duke of Aquitaine (in modern France. Widow. Devoted her life after marriage, and her fortune,

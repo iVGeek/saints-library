@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint John of Parma
+stub: false
 honorific: Saint
 title: Priest
 summary: Priest. Made six pilgimages to Jerusalem. Abbot of Saint John's Abbey in Parma, Italy from 973 until his death.

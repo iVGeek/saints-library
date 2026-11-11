@@ -1,5 +1,6 @@
 ---
 name: Saint Rita of Cascia
+stub: false
 honorific: Saint
 title: St. Rita of Cascia
 summary: >-

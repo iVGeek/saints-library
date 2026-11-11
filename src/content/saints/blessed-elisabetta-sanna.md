@@ -1,5 +1,6 @@
 ---
 name: Blessed Elisabetta Sanna
+stub: false
 honorific: Blessed
 summary: >-
   Married lay women in the dioceses of Rome and Sassari, Italy. Widow. Member of the Secular Franciscan Order, and of

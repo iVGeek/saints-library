@@ -1,5 +1,6 @@
 ---
 name: Saint Camella of Ricaud
+stub: false
 honorific: Saint
 summary: >-
   Martyr in the diocese of Mirepoix, France, killed by invading Visigoths. A church, a small village, and a healing well

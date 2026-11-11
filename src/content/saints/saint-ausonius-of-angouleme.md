@@ -1,5 +1,6 @@
 ---
 name: Saint Ausonius of Angoulême
+stub: false
 honorific: Saint
 summary: Third century spiritual student of Saint Martial of Limoges. First Bishop of Angoulême, France.
 searchAliases:

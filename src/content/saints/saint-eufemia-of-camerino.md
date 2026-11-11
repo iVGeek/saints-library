@@ -1,5 +1,6 @@
 ---
 name: Saint Eufemia of Camerino
+stub: true
 honorific: Saint
 summary: Convert. Martyr.
 image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Camerino.jpg

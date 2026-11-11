@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Maximus of Brescia
+stub: true
 honorific: Saint
 summary: Martyr.
 deathYear: 125

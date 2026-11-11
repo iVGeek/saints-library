@@ -1,5 +1,6 @@
 ---
 name: Blessed Manuel Martín Sierra
+stub: false
 honorific: Blessed
 summary: >-
   Ordained in the diocese of Granada, Spain in 1915. Received a doctorate in theology. Teacher and chaplain at the

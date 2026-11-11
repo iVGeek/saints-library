@@ -1,5 +1,6 @@
 ---
 name: Saint Dietmar of Prague
+stub: false
 honorific: Saint
 summary: >-
   Benedictine monk, possibly at double monastery in Prague, Bohemia (in modern Czech Republic). Chosen first bishop of

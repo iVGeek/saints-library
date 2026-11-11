@@ -1,5 +1,6 @@
 ---
 name: Blessed Cayetano Giménez Martín
+stub: false
 honorific: Blessed
 summary: >-
   Ordained a priest of the archdiocese of Granada, Spain, Father Cayetano continued studying canon law for several

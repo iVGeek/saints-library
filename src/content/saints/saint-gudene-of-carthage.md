@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Gudene of Carthage
+stub: false
 honorific: Saint
 summary: Tortured, imprisoned for a long period and finally executed in the persecutions of proconsul Rufino. Martyr.
 searchAliases:

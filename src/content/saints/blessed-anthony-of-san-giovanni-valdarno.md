@@ -1,5 +1,6 @@
 ---
 name: Blessed Anthony of San Giovanni Valdarno
+stub: false
 image: >-
   https://commons.wikimedia.org/wiki/Special:FilePath/Saint_Anthony_Abbot_Tempted_by_Gold_by_Giovanni_di_ser_Giovanni_Guidi.jpg?width=600
 honorific: Blessed

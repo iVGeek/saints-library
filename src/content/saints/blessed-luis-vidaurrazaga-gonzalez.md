@@ -1,5 +1,6 @@
 ---
 name: Blessed Luis Vidaurrázaga González
+stub: false
 honorific: Blessed
 summary: >-
   Benedictine monk, Solesmes Congregation. Priest. Noted spiritual director. Devoted to Gregorian chants. He went into

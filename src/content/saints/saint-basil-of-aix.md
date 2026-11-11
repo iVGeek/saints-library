@@ -1,5 +1,6 @@
 ---
 name: Saint Basil of Aix
+stub: false
 honorific: Saint
 summary: >-
   Priest at Arles, France. Bishop of Aix, Provence, France. Known for his exceptional sanctity, his work in his diocese,

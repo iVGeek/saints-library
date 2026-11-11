@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed John Storey
+stub: false
 honorific: Blessed
 summary: ' Member of the English Parliament in 1547. Opposed anti-Catholic laws enacted by King Edward VI. Imprisoned from 1548 t Educated at Oxford. Doctor of law. President of Broadgate Hall (modern Pembroke College) form 1537 to 1539. First Regius Professor of civil law. Married in 1547.'
 searchAliases:

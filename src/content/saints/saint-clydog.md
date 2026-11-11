@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Clydog
+stub: false
 honorific: Saint
 summary: >-
   Sixth century king, part of the Brychan family who ruled Ewyas (modern Hereford and Monmoth), England. A nobleman's

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Fortunatus of Saddi
+stub: true
 honorific: Saint
 summary: Martyred in the persecutions of Decius.
 died: at Pieve de' Saddi, Pietralunga, Italy

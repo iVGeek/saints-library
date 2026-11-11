@@ -1,5 +1,6 @@
 ---
 name: Blessed Francisca Aldea y Araujo
+stub: false
 honorific: Blessed
 summary: >-
   Orphaned at an early age, Francisca grew up and was educated at Saint Susanna's College in Madrid, Spain, a school run

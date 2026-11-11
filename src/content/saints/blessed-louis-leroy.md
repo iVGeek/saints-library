@@ -1,5 +1,6 @@
 ---
 name: Blessed Louis Leroy
+stub: true
 honorific: Blessed
 summary: Member of the Missionary Oblates of Mary Immaculate. Priest. Martyr.
 birthYear: 1923

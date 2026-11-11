@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Sallustia
+stub: false
 honorific: Saint
 summary: >-
   Married to Saint Caerealis. Convert to Christianity, instructed in the faith by Pope Saint Cornelius. Martyred in the

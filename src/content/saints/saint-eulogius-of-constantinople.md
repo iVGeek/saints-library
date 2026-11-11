@@ -1,5 +1,6 @@
 ---
 name: Saint Eulogius of Constantinople
+stub: false
 honorific: Saint
 summary: Two men with same name who were part of a group of 24 Christians martyred in the persecutions of Arian emperor Valens.
 deathYear: 367

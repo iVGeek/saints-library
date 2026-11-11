@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Landulf of Yariglia
+stub: false
 honorific: Saint
 summary: >-
   Studied at the Benedictine monastery of San Pietro in Ciel d'Oro in Pavia, Italy. Priest. Canon of Milan, Italy.

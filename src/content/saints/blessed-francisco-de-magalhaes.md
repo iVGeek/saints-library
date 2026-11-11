@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/b/b3/Francisco_de_Zurbar%C3%A1n_-_Sto_Antonio_de_Padua.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Francisco de Magalhães
+stub: false
 honorific: Blessed
 summary: Jesuit novice. Missionary. Martyred by the Huguenot Jacques Sourie while en route to Brazil.
 birthYear: 1549

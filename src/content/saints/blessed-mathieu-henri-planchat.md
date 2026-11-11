@@ -1,5 +1,6 @@
 ---
 name: Blessed Mathieu-Henri Planchat
+stub: false
 honorific: Blessed
 summary: >-
   While studying theology in Paris, France, Mathieu-Henri joined the Religious of Saint Vincent de Paul, worked with its

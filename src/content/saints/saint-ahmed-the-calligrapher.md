@@ -1,5 +1,6 @@
 ---
 name: Saint Ahmed the Calligrapher
+stub: false
 honorific: Saint
 summary: >-
   Raised as a Muslim in 17th-century Constantinople. Calligrapher and copyist in the royal chancery. He lived as an

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Cera of Kilkeary
+stub: false
 honorific: Saint
 summary: >-
   Nun. Spiritual student of Saint Fintan Minnu. Abbess of a monastery at Tehelly, Ireland. Founder and abbess of a house

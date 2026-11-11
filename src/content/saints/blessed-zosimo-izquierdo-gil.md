@@ -1,5 +1,6 @@
 ---
 name: Blessed Zósimo Izquierdo Gil
+stub: false
 honorific: Blessed
 summary: >-
   Ordained a priest in the diocese of Zaragoza, Spain on 20 March 1920. Member of the Dominican Fraternity of Priests.

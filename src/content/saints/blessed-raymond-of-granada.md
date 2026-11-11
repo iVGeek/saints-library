@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/5/5a/StPeterNolasco.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Raymond of Granada
+stub: false
 honorific: Blessed
 summary: Mercedarian friar. Martyred for preaching Christianity in Moorish-occupied Granada, Spain.
 died: Granada, Spain

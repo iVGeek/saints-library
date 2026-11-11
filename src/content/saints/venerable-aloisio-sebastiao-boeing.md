@@ -1,5 +1,6 @@
 ---
 name: Venerable Aloísio Sebastião Boeing
+stub: false
 honorific: Venerable
 summary: >-
   Aloísio was raised in a pious family - his father João served as choirmaster and participated in Mass every day; his

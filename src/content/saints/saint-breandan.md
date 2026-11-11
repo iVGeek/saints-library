@@ -1,5 +1,6 @@
 ---
 name: Saint Breandan
+stub: false
 honorific: Saint
 summary: >-
   Monk. Migrated from Ireland to Britain. Persecuted by Pelagian heretics, he sought refuge in a monastery in Gaul. It

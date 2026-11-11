@@ -1,5 +1,6 @@
 ---
 name: Saint William of Eskilsoe
+stub: false
 honorific: Saint
 summary: >-
   Born to the Gallic upper class. Educated at the cathedral school of Saint Germain. Priest. Canon at the church of

@@ -1,5 +1,6 @@
 ---
 name: Saint Felix of Pistoia
+stub: true
 honorific: Saint
 summary: Ninth-century hermit in Pistoia, Italy.
 searchAliases:

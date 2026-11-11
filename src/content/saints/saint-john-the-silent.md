@@ -1,5 +1,6 @@
 ---
 name: Saint John the Silent
+stub: false
 honorific: Saint
 summary: >-
   Son of Enkratios, a military commander, and Euphemia; his brother and other family members were advisors to emperors.

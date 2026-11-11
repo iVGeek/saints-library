@@ -1,5 +1,6 @@
 ---
 name: Blessed Hugh of Fosse
+stub: false
 honorific: Blessed
 summary: >-
   Priest. Disciple of Saint Norbert, and succeeded him as superior general of the Premonstratensians. Under his

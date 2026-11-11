@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/6/60/Urbano_II_in_consacrazione_de_l%27altare_del_monastero_di_Cluny_%28detail%29_%28crop%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Odo of Beauvais
+stub: false
 honorific: Blessed
 summary: >-
   A soldier when young, Odo initially planned on a military career. He gave up the military life to become a Benedictine

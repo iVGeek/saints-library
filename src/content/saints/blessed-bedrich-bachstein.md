@@ -1,5 +1,6 @@
 ---
 name: Blessed Bedrich Bachstein
+stub: false
 honorific: Blessed
 summary: >-
   Franciscan Friar Minor priest. He served as novice master, preacher and church vicar of his house. One of the Martyrs

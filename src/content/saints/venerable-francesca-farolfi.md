@@ -1,5 +1,6 @@
 ---
 name: Venerable Francesca Farolfi
+stub: false
 honorific: Venerable
 summary: >-
   Daughter of Uttilia Santandrea and Frederick Farolfi. Educated in Borgo Tossignano, Italy and Ravenna, Italy. Worked

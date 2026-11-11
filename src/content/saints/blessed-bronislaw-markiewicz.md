@@ -1,5 +1,6 @@
 ---
 name: Blessed Bronislaw Markiewicz
+stub: false
 honorific: Blessed
 summary: >-
   Sixth of the eleven children of John Markiewicz and Marianna Gryziecka; his father was the mayor of Pruchnik, Poland.

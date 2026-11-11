@@ -1,5 +1,6 @@
 ---
 name: Blessed John van Ruysbroeck
+stub: false
 honorific: Blessed
 summary: >-
   Nothing is known of John's father, but history remembers his mother as a very pious woman who eventually entered a

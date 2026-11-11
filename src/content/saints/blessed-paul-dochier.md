@@ -1,5 +1,6 @@
 ---
 name: Blessed Paul Dochier
+stub: false
 honorific: Blessed
 summary: >-
   A physician, he joined the Trappists in 1941 but continued to practice medicine throughout World War II, treating

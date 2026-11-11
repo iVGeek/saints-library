@@ -1,5 +1,6 @@
 ---
 name: Saint Blaise
+stub: false
 honorific: Saint
 title: St. Blaise
 summary: >-

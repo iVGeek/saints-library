@@ -1,5 +1,6 @@
 ---
 name: Saint Giulia Salzano
+stub: false
 honorific: Venerable
 summary: >-
   Daughter of Adelaide Valentino and Diego Salzano. Her father was a captain in the Lancers of King Ferdinand II of

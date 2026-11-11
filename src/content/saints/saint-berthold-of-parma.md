@@ -1,5 +1,6 @@
 ---
 name: Saint Berthold of Parma
+stub: false
 honorific: Saint
 summary: >-
   Born to Anglo-Saxon parents who had fled England at the Norman Conquest of 1066. Saintly lay brother at the monastery

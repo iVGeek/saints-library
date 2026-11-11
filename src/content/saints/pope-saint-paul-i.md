@@ -1,5 +1,6 @@
 ---
 name: Pope Saint Paul I
+stub: false
 honorific: Saint
 summary: >-
   Brother of Pope Stephen II. Orphaned young. Educated at the Lateran school. Deacon under Pope Zachary. Ordained in

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Valentine of Trier
+stub: true
 honorific: Saint
 summary: Early bishop of Trier, Germany. Martyred in the persecutions of Diocletian.
 searchAliases:

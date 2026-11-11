@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Domninus of Rome
+stub: true
 honorific: Saint
 summary: Travelling preacher throughout Italy. Martyr.
 born: Rome, Italy

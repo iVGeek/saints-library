@@ -1,5 +1,6 @@
 ---
 name: Blessed Ludovicus Sasada
+stub: true
 honorific: Blessed
 summary: Member of the Franciscan Friars Minor (Observants). Priest. Martyr.
 deathYear: 1624

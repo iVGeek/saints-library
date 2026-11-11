@@ -1,6 +1,7 @@
 ---
 image: https://www.santiebeati.it/immagini/Thumbs/91781/91781.JPG
 name: Saint Cassiano of Novellara
+stub: true
 honorific: Saint
 summary: Bishop. Martyred in the persecutions of Diocletian with several of his flock.
 deathYear: 303

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Juan Garrido Requena
+stub: true
 honorific: Blessed
 summary: Priest of the diocese of Guadix, Spain. Martyred in the Spanish Civil War.
 birthYear: 1864

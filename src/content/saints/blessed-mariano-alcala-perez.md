@@ -1,5 +1,6 @@
 ---
 name: Blessed Mariano Alcalá Pérez
+stub: false
 honorific: Blessed
 summary: >-
   Son of Thomas and Vincenza Alcalá Pérez. Joined the Mercedarians on 24 September 1881 at the convent of dell'Olivar, a

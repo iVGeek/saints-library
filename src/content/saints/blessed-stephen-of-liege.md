@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/1/1c/LuikVlag.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Stephen of Liège
+stub: false
 honorific: Blessed
 summary: >-
   Canon of Saint Denis, Liège, Belgium. Benedictine monk at Saint Vannes monastery, Verdun, France. Founded the

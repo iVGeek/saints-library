@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Vitaliano of Osimo
+stub: true
 honorific: Saint
 title: Bishop
 summary: Eighth century bishop of Osimo, Ancona, Italy for 33 years.

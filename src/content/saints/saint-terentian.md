@@ -1,5 +1,6 @@
 ---
 name: Saint Terentian of Todi
+stub: false
 honorific: Saint
 summary: >-
   Priest. Bishop of Todi, Umbria, Italy. Old traditions says that he was tortured on the rack, had his tongue cut out

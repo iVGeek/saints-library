@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Vivaldus
+stub: false
 honorific: Blessed
 summary: >-
   Franciscan tertiary. A close friend of Blessed Bartholomew Buonpedoni, he tended to Bartholomew and assisted in his

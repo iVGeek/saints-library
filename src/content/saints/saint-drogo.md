@@ -1,5 +1,6 @@
 ---
 name: Saint Drogo
+stub: false
 honorific: Saint
 summary: >-
   Born to the Flemish nobility. His mother died giving him birth, a fact that emotionally crushed him when he learned of

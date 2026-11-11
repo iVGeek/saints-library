@@ -1,5 +1,6 @@
 ---
 name: Blessed Maria Anna Blondin
+stub: false
 honorific: Blessed
 summary: >-
   Born to a pious, French-Canadian farm family, the daughter of Jean Baptiste Blondin and Marie Rose Limoges. Illiterate

@@ -1,5 +1,6 @@
 ---
 name: Saint Natalis of Milan
+stub: false
 honorific: Saint
 summary: >-
   Priest. Bishop of Milan, Italy for 14 months from 746 to 747. Governed during the difficult period when the Arian

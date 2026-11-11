@@ -1,5 +1,6 @@
 ---
 name: Saint Rhipsime
+stub: false
 honorific: Saint
 summary: >-
   Virgin martyr, executed with a group of fellow Christian in Armenia. She and her fellow victims are honored as the

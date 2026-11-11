@@ -1,5 +1,6 @@
 ---
 name: Saint Alphonsus of Astorga
+stub: false
 honorific: Saint
 summary: >-
   Ninth century bishop of Astorga, Spain. He eventually retired to live as monk at the monastery of Saint Stephen de

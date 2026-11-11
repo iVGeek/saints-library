@@ -1,5 +1,6 @@
 ---
 name: Saint Diogenes of Milan
+stub: true
 honorific: Saint
 summary: Martyr.
 searchAliases:

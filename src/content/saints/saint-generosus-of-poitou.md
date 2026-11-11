@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Generosus of Poitou
+stub: true
 honorific: Saint
 summary: Monk. Abbot of Saint-Jouin-de-Marnes, Poitou, France.
 deathYear: 682

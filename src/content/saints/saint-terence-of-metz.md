@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Terence of Metz
+stub: false
 honorific: Saint
 summary: Priest. 17th bishop of Metz, France. A noted scholar, he fought for orthodox doctines.
 searchAliases:

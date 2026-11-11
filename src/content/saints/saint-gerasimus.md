@@ -1,5 +1,6 @@
 ---
 name: Saint Gerasimus of Palestine
+stub: false
 honorific: Saint
 summary: >-
   Monk at Lycia, Asia Minor. Hermit. He moved to Palestine where c.451 he founded a house near the Dead Sea, and then

@@ -1,5 +1,6 @@
 ---
 name: Blessed Diego Martinez
+stub: false
 honorific: Blessed
 summary: >-
   Mercedarian friar in Spain. Came to the Americas with Francisco Pizarro and Diego de Almagro. Missionary in Panama,

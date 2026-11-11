@@ -1,5 +1,6 @@
 ---
 name: Saint Gervais
+stub: false
 honorific: Saint
 summary: Deacon in the diocese of Le Mans, France. Pilgrim to Rome, Italy, he was murdered while travelling home.
 died: buried in Saint-Gervais-en-Vallière, France

@@ -1,5 +1,6 @@
 ---
 name: Blessed Luigi Carrara
+stub: false
 honorific: Blessed
 summary: >-
   Joined the Xaverian Missionaries in 1947, making his perpetual profession on 5 November 1959. Ordained a priest on 15

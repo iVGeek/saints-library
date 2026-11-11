@@ -1,5 +1,6 @@
 ---
 name: Blessed Gonzalo Mercador
+stub: false
 honorific: Blessed
 summary: >-
   Mercedarian friar. Bishop of Granada, Spain. Participated in the Council of Florence in 1450. On his way home from

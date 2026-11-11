@@ -1,5 +1,6 @@
 ---
 name: Saint Theuderius
+stub: false
 honorific: Saint
 summary: >-
   Monk at Lérins Abbey. Ordained by Saint Caesarius of Arles. In Dauphiné he attracted a group of spiritual students,

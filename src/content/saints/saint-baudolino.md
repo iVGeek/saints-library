@@ -1,5 +1,6 @@
 ---
 name: Saint Baudolino
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility. Gave away all his wealth to the poor, and lived as a hermit in a hut on the banks of the River

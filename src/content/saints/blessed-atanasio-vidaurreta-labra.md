@@ -1,5 +1,6 @@
 ---
 name: Blessed Atanasio Vidaurreta Labra
+stub: false
 honorific: Blessed
 summary: >-
   Born to a family of shepherds. Feeling a call to religious life, he joined the Claretians in his teens, making his

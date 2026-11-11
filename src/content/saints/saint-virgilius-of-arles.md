@@ -1,5 +1,6 @@
 ---
 name: Saint Virgilius of Arles
+stub: false
 honorific: Saint
 summary: >-
   Educated at the monastery at Lerins on the island of Saint Honorat. Monk. Abbot at Lerins. Abbot at Saint-Symphorien

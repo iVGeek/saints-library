@@ -1,6 +1,7 @@
 ---
 image: https://www.santiebeati.it/immagini/Thumbs/98864/98864.JPG
 name: Saint Mari
+stub: false
 honorific: Saint
 summary: >-
   Converted by and spiritual student of Saint Addai. Missionary around Nisibis, Nineveh, and along the Euphrates. Won

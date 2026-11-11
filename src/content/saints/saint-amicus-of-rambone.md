@@ -1,5 +1,6 @@
 ---
 name: Saint Amicus of Rambone
+stub: false
 honorific: Saint
 summary: >-
   Born a prince, the son of a local Italian ruler. Benedictine monk in the Rambone abbey, Pollenza, Italy. Abbot there

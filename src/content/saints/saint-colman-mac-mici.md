@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Colman mac Mici
+stub: true
 honorific: Saint
 summary: No details about him have survived.
 region: England

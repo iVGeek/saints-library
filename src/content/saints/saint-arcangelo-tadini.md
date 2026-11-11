@@ -1,5 +1,6 @@
 ---
 name: Saint Arcangelo Tadini
+stub: false
 honorific: Venerable
 summary: >-
   As a young adult, Arcangelo had an accident that left him with a lifelong limp. He entered the seminary in Brescia,

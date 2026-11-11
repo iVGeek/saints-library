@@ -1,5 +1,6 @@
 ---
 name: Saint Thaïs the Penitent
+stub: false
 honorific: Saint
 summary: >-
   Following a long life of sin, Thais converted to Christianity, brought to the faith by Saint Paphnutius of

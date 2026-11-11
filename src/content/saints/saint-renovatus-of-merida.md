@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Renovatus of Merida
+stub: false
 honorific: Saint
 summary: >-
   Arian heretic who converted to orthodox Christianity. Monk and then abbot of Cauliana monastery in Lusitania (in

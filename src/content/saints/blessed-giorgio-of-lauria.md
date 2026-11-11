@@ -1,5 +1,6 @@
 ---
 name: Blessed Giorgio of Lauria
+stub: false
 honorific: Blessed
 summary: >-
   Son of Admiral Don Ruggero. Cousin of Blessed Raymond of Toulouse, he fiercely opposed Raymond's call to religious

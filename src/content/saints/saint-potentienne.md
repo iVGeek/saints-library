@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Potentienne
+stub: true
 honorific: Saint
 summary: 7th century nun.
 died: Spain

@@ -1,5 +1,6 @@
 ---
 name: Saint Trophimus of Arles
+stub: false
 honorific: Saint
 summary: >-
   Evangelist sent from Rome to Gaul c.250. Worked with Saint Saturninus of Toulouse and Saint Denis of Paris. First

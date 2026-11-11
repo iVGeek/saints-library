@@ -1,5 +1,6 @@
 ---
 name: Saint Gregory the Illuminator
+stub: false
 honorific: Saint
 summary: >-
   Gregory's father Anak killed King Khosrov I of Armenia, and young Gregory was sent to Caesarea to avoid being killed

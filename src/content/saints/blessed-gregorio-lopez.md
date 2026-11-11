@@ -1,5 +1,6 @@
 ---
 name: Blessed Gregorio López
+stub: false
 honorific: Blessed
 summary: >-
   Court page to King Philip II, Gregorio was well educated, especially in the sciences of his day. He lived six years as

@@ -1,5 +1,6 @@
 ---
 name: Saint Quintius of Tours
+stub: false
 honorific: Saint
 summary: >-
   Worked in the court of the king of the Franks. When the queen tried to seduce him, Quintius refused, explaining that

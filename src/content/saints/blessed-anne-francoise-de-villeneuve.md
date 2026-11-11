@@ -1,5 +1,6 @@
 ---
 name: Blessed Anne-Françoise de Villeneuve
+stub: false
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/La_Bigne_Villeneuve_-_Cartulaire_de_l%E2%80%99Abbaye_Saint-Georges.djvu/page1-960px-La_Bigne_Villeneuve_-_Cartulaire_de_l%E2%80%99Abbaye_Saint-Georges.djvu.jpg
 honorific: Blessed

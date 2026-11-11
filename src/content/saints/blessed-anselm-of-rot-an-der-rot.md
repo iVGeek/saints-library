@@ -1,5 +1,6 @@
 ---
 name: Blessed Anselm of Rot an der Rot
+stub: false
 honorific: Blessed
 summary: >-
   Soldier. Premonstratensian monk. Canon at the monastery of Mönchsrot in Rot an der Rot near Memmingen, Oberschwaben,

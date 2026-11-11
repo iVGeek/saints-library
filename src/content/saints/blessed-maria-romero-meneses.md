@@ -1,5 +1,6 @@
 ---
 name: Blessed María Romero Meneses
+stub: false
 honorific: Blessed
 summary: >-
   One of eight children born to a wealthy, upper-class family; her father was a government minister. Educated by her

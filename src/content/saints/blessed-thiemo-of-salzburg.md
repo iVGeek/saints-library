@@ -1,5 +1,6 @@
 ---
 name: Blessed Thiemo of Salzburg
+stub: false
 honorific: Blessed
 summary: >-
   Born to the Bavarian nobility. Benedictine monk at Niederaltaich Abbey. Renowned painter, engraver, sculptor, and

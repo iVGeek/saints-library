@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Marcellinus of Tomi
+stub: false
 honorific: Saint
 summary: >-
   Imperial Roman tribune. Married to Saint Mannea; father of Saint John of Tomi. One of group of 17 Christians

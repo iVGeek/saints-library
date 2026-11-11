@@ -1,6 +1,7 @@
 ---
 image: https://www.santiebeati.it/immagini/Thumbs/69510/69510.jpg
 name: Saint Carissima of Albi
+stub: false
 honorific: Saint
 summary: >-
   Fifth century anchoress who lived for years in a forest near Albi, France, and in later years moved to the convent of

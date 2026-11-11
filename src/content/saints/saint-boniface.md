@@ -1,5 +1,6 @@
 ---
 name: Saint Boniface of Crediton
+stub: false
 honorific: Saint
 title: St. Boniface of Crediton
 summary: >-

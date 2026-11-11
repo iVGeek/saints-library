@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Kevoca of Kyle
+stub: false
 honorific: Saint
 summary: Seventh century saint honored in Kyle, Scotland; I have found no other reliable information.
 searchAliases:

@@ -1,5 +1,6 @@
 ---
 name: Blessed Raymond de Barellis
+stub: true
 honorific: Blessed
 summary: Mercedarian monk at the convent of Saint Eulalia in Lerida, Spain.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Raimondo-de-Barellis.jpg

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Gudwall
+stub: false
 honorific: Saint
 summary: >-
   Monk. Abbot of a monastery on the isle of Plecit. Bishop. Founder of monasteries in Devon and Cornwall in England, and

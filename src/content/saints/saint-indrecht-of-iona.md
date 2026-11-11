@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Indrecht of Iona
+stub: true
 honorific: Saint
 summary: Monk. Abbot of Iona Abbey. Martyred by Saxons while travelling to Rome, Italy.
 deathYear: 854

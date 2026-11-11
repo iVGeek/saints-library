@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/2/20/Kathedrale_Bourges_v2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Arcadius of Bourges
+stub: false
 honorific: Saint
 summary: >-
   Born to the Gallo-Roman aristocracy, the son of Count Apollinaire. Senator in the court of the Visigothic king Alaric

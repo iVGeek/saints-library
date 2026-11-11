@@ -1,5 +1,6 @@
 ---
 name: Saint Abundius the Sacristan
+stub: false
 honorific: Saint
 summary: >-
   Sacristan of the Church of Saint Peter in Rome, Italy. His simple, humble, holy life was an inspiration to all who

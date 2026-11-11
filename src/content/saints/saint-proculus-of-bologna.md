@@ -1,5 +1,6 @@
 ---
 name: Saint Proculus of Bologna
+stub: false
 honorific: Saint
 summary: Bishop of Bologna, Italy from 540 until his death. Martyred by Goths led by Goterne.
 deathYear: 542

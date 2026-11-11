@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Rorice of Limoges
+stub: false
 honorific: Saint
 summary: >-
   Married, he was known in his community as an honourabl and upright man. Rorice one day had a conversion experience

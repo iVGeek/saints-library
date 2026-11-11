@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/0/0d/Melchior_k%C3%BCsel-tom%C3%A1s_cottam.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Laurence Humphrey
+stub: false
 honorific: Blessed
 summary: >-
   Raised in a Protestant family, Laurence was known to be a studious and pious boy, spending his time with the Bible and

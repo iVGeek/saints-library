@@ -1,5 +1,6 @@
 ---
 name: Saint Druthmar of Corvey
+stub: false
 honorific: Saint
 summary: >-
   Monk at Lorsch. Abbot of Corvey Abbey in 1014, assigned by the emperor, Saint Henry II. The brothers there were

@@ -1,5 +1,6 @@
 ---
 name: Saint Enéour
+stub: false
 honorific: Saint
 summary: >-
   Brother of Saint Thumette, the two of them sailed on a stone from Wales to Bigouden in Brittany in northern France.

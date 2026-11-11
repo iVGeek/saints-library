@@ -1,5 +1,6 @@
 ---
 name: Blessed Pedro Ruiz de los Paños Angel
+stub: false
 honorific: Blessed
 summary: >-
   Studied at the seminary in Toledo, Spain. Priest. Joined the Diocesan Laborer Priests of the Sacred Heart of Jesus.

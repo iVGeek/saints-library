@@ -1,5 +1,6 @@
 ---
 name: Blessed Thomas Pilcher
+stub: false
 honorific: Blessed
 summary: >-
   Studied at Balliol College, Oxford, England. Converted to Catholicism. Studied at Douai College, Rheims, France.

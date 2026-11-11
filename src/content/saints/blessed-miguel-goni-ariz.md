@@ -1,5 +1,6 @@
 ---
 name: Blessed Miguel Goñi Ariz
+stub: false
 honorific: Blessed
 summary: >-
   Miguel joined the Redemptorists on 8 September 1918, making his profession on 26 August 1920. Ordained a priest in the

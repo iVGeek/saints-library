@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Chrestus of Africa
+stub: true
 honorific: Saint
 summary: An early martyr of the Church. No other information has survived.
 feastDay:

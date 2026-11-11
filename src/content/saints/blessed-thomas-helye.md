@@ -1,5 +1,6 @@
 ---
 name: Blessed Thomas Hélye
+stub: false
 honorific: Blessed
 summary: >-
   Son of Elias and Matilda Hélye. School teacher and tutor in Biville, France and then in Cherbourg, France where he ran

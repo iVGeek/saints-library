@@ -1,5 +1,6 @@
 ---
 name: Blessed Daniel of the Annunciation
+stub: false
 honorific: Blessed
 summary: >-
   Mercedarian monk at the monastery of Santa Maria della Pace in Naples, Italy. Staunch defender of the freedom of the

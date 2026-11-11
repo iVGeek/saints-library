@@ -1,5 +1,6 @@
 ---
 name: Blessed Francis of Fabriano
+stub: false
 honorific: Blessed
 summary: >-
   Born to a wealthy family, the son of Compagno Venimbeni, a physician, and Margaret di Federico. Studied humanities and

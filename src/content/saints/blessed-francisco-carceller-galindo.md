@@ -1,5 +1,6 @@
 ---
 name: Blessed Francisco Carceller Galindo
+stub: true
 honorific: Blessed
 summary: Piarist priest. Martyred in the Spanish Civil War.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Francisco-Carceller-Galindo.jpg

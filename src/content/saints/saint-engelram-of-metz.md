@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Engelram of Metz
+stub: true
 honorific: Saint
 summary: 8th-9th century bishop of Metz, France.
 region: France

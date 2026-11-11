@@ -1,5 +1,6 @@
 ---
 name: Saint Dominic of Silos
+stub: false
 honorific: Saint
 summary: >-
   Born to a peasant family, he worked as a shepherd in his youth. Benedictine monk at San Mill&aacute;n de Cogolla

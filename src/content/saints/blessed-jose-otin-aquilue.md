@@ -1,5 +1,6 @@
 ---
 name: Blessed José Otín Aquilué
+stub: false
 honorific: Blessed
 summary: >-
   Educated by the Salesians, when José began to feel a call to religious life he joined the Society in Campello, Spain.

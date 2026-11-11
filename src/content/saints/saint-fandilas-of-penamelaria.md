@@ -1,5 +1,6 @@
 ---
 name: Saint Fandilas of Penamelaria
+stub: false
 honorific: Saint
 summary: >-
   Monk at Cordova, Spain. Priest. Abbot of the monastery of Peñamelaria near Cordova. Martyred by order of the Moorish

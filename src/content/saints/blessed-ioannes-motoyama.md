@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/48/Painting_of_the_Nagasaki_Martyrs.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Ioannes Motoyama
+stub: false
 honorific: Blessed
 summary: Member of the royal house of Firando. Relative of Blessed Ioannes Iwanga. Layman. Martyr.
 searchAliases:

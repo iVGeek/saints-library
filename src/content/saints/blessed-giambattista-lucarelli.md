@@ -1,5 +1,6 @@
 ---
 name: Blessed Giambattista Lucarelli
+stub: false
 honorific: Blessed
 summary: >-
   The son of Gregorio and Camilla Perti, Giambattista joined the Franciscan Friars Minor Conventual at Mondaino, Italy

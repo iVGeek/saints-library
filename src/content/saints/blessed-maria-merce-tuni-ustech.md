@@ -1,5 +1,6 @@
 ---
 name: Blessed Maria Mercè Tuñi Ustech
+stub: false
 honorific: Blessed
 summary: >-
   Nun, a member of the Sisters Adorers, Handmaids of Charity and of the Blessed Sacrament. Martyred in the Spanish Civil

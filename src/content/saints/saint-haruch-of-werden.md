@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Haruch of Werden
+stub: true
 honorific: Saint
 summary: Benedictine monk, abbot and bishop in Werden, Germany.
 deathYear: 830

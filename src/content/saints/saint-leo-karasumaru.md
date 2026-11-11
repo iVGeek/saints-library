@@ -1,5 +1,6 @@
 ---
 name: Saint Leo Karasumaru
+stub: false
 honorific: Saint
 summary: >-
   Younger brother of Saint Paul Ibaraki. Uncle of Saint Louis Ibaraki. A Buddhist bonze in his youth. Convert to

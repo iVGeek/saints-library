@@ -1,5 +1,6 @@
 ---
 name: Saint Martina of Rome
+stub: false
 honorific: Saint
 summary: >-
   Wealthy daughter of a Christian Roman consul. On her parent's death, she gave away her riches to the poor and devoted

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Blinlivet
+stub: true
 honorific: Saint
 summary: Ninth century bishop of Vannes, France.
 searchAliases:

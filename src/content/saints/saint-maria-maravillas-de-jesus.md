@@ -1,5 +1,6 @@
 ---
 name: Saint María Maravillas de Jesús
+stub: false
 honorific: Venerable
 summary: >-
   Daughter of Luis Pidal y Mon and Cristina Chico de Guzman y Munoz, the Marquess and Marchioness of Pidal; her father

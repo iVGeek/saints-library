@@ -1,5 +1,6 @@
 ---
 name: Blessed Giovanni Battista Zola
+stub: false
 honorific: Blessed
 summary: >-
   Joined the Jesuits in 1595 in Brescia, Italy. Missionary to India in 1602. Missionary to Japan in 1606, settling in

@@ -1,5 +1,6 @@
 ---
 name: Blessed Nikita Budka
+stub: false
 honorific: Blessed
 summary: >-
   Greek-Catholic. Studied theology in Vienna and Innsbruck, Austria, graduating in 1905. Ordained on 25 October 1905.

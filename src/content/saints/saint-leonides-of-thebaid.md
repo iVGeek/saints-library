@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/e/e0/FirenzeOrsanmichele03.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Leonides of Thebaid
+stub: true
 honorific: Saint
 summary: Martyred with a group of fellow Christians in the persecutions of Diocletian.
 feastDay:

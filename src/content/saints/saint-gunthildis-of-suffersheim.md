@@ -1,5 +1,6 @@
 ---
 name: Saint Gunthildis of Suffersheim
+stub: false
 honorific: Saint
 summary: >-
   A pious milk maid and servant, known for her charity to the poor. On two occasions, in response to her prayers,

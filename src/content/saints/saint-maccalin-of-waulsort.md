@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Maccalin of Waulsort
+stub: false
 honorific: Saint
 summary: >-
   Friend of Saint Cadroe. During a pilgrimage to the shrine of Saint Fursey in Peronne, France, Maccalin became a

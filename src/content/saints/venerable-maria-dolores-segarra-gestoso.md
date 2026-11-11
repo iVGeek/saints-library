@@ -1,5 +1,6 @@
 ---
 name: Venerable Maria Dolores Segarra Gestoso
+stub: true
 honorific: Venerable
 summary: Founded the Missionary Sisters of Christ the Priest.
 image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Maria-Dolores-Segarra-Gestoso.jpg

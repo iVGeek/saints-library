@@ -1,5 +1,6 @@
 ---
 name: Saint Maruthas
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Maiferkat, Mesopotamia. He reorganized the Church adminstration in Syria and Persia. Collected the stories

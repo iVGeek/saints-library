@@ -1,5 +1,6 @@
 ---
 name: Blessed Rosalina of Villeneuve
+stub: false
 honorific: Blessed
 summary: >-
   Born to an ancient and noble family; daughter of Count Arnaud. As a child, Rosalina was noted for her charity to the

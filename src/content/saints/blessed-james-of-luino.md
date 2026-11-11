@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed James of Luino
+stub: false
 honorific: Blessed
 title: Virgin
 summary: >-

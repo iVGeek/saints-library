@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Asclas of Antinoe
+stub: false
 honorific: Saint
 summary: >-
   Arrested and tortured for his faith by order of Arrian, governor of Egypt, during the persecutions of Diocletian.

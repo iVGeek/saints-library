@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/b/bd/Ancona_-_Duomo_di_San_Ciriaco_-_veduta_aerea.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Girolamo Ginelli
+stub: false
 honorific: Blessed
 summary: >-
   Born to the Italian nobility. In his mid-teens, Girolamo was drawn to religious life, and at age 16 joined the

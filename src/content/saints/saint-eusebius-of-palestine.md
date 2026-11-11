@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Eusebius of Palestine
+stub: true
 honorific: Saint
 summary: Priest. Martyred in the persecutions of Maximian Herculeus.
 died: late 3rd century Palestine

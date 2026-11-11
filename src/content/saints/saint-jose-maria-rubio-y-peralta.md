@@ -1,5 +1,6 @@
 ---
 name: Saint José María Rubio y Peralta
+stub: false
 honorific: Venerable
 summary: ' Parish priest in Chinchón and Estremera. For nearly 20 y One of twelve children born to a farm family; six of his siblings died in childhood. Educated in Almer&iacute;a, Spain. Entered the diocesan seminary in 1876, and the Granada seminary in 1878. Ordained on 24 September 1887.'
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Jose-Maria-Rubio-y-Peralta.jpg

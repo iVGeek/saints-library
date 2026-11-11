@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Englatius
+stub: true
 honorific: Saint
 summary: Bishop in the area of Tarves, Aberdeenshire, Scotland.
 searchAliases:

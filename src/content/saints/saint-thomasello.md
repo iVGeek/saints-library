@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Thomasello
+stub: true
 honorific: Saint
 summary: Dominican. Student of Saint Thomas Aquinas.
 searchAliases:

@@ -1,5 +1,6 @@
 ---
 name: Saint Gilduin of Dol
+stub: false
 honorific: Saint
 summary: >-
   Devout young canon at Dol, Brittany (in modern France). Elected bishop of Dol, he felt unworthy of the post, and

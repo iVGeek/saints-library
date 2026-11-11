@@ -1,5 +1,6 @@
 ---
 name: Blessed Robert Drury
+stub: false
 honorific: Blessed
 summary: >-
   Studied at the English College, Rheims, France in 1588, and the English College, Valladolid, Spain in 1590. Ordained

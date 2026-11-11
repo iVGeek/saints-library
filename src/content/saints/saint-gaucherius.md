@@ -1,5 +1,6 @@
 ---
 name: Saint Gaucherius
+stub: false
 honorific: Saint
 summary: >-
   Hermit near Limousin, France, probably supporting himself as a wood cutter. Founder and abbot of the Augustinian

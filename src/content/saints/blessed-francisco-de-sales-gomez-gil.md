@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/8/86/Ignatius-Loyola.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Francisco de Sales Gómez Gil
+stub: false
 honorific: Blessed
 summary: Married layman in the diocese of Córdoba, Spain. Martyred in the Spanish Civil War.
 birthYear: 1894

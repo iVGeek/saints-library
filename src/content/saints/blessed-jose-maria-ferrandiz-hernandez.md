@@ -1,5 +1,6 @@
 ---
 name: Blessed José María Ferrándiz Hernández
+stub: false
 honorific: Blessed
 summary: Priest in the archdiocese of Valencia, Spain. Martyred in the Spanish Civil War.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-José-María-Ferrándiz-Hernández.jpg

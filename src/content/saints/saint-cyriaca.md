@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Cyriaca
+stub: false
 honorific: Saint
 summary: >-
   Wealthy married woman in Rome, Italy. Widowed, she spent her fortune sheltering persecuted Christians. Saint Lawrence

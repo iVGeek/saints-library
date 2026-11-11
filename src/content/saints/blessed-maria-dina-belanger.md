@@ -1,5 +1,6 @@
 ---
 name: Blessed Maria Dina Bélanger
+stub: false
 honorific: Blessed
 summary: >-
   Born to Olivier Octave Bélanger and Séraphia Matte, Dina, as her family called her, was baptized when just a few hours

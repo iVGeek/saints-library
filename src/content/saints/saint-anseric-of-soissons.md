@@ -1,5 +1,6 @@
 ---
 name: Saint Anseric of Soissons
+stub: false
 honorific: Saint
 title: Bishop
 summary: >-

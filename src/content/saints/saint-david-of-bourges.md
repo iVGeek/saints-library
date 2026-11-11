@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint David of Bourges
+stub: false
 honorific: Saint
 title: Bishop
 summary: Archbishop of Bourges, France in 785 where he served the remaining 30 years of his life.

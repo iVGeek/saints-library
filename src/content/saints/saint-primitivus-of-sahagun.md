@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Primitivus of Sahagun
+stub: true
 honorific: Saint
 summary: Martyr.
 searchAliases:

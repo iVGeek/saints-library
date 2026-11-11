@@ -1,5 +1,6 @@
 ---
 name: Saint Arnulf of Gruyere
+stub: false
 honorific: Saint
 summary: >-
   A pious youth. As soon as he was old enough, Arnulf left home to make an endless pilgrimage to shrines and relics

@@ -1,5 +1,6 @@
 ---
 name: Saint Catherine del Ricci
+stub: false
 honorific: Saint
 summary: >-
   Born to the patrician class. Her mother died when Catherine was an infant; she was raised by her godmother, but

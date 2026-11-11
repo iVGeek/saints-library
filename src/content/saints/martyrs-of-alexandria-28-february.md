@@ -1,5 +1,6 @@
 ---
 name: Martyrs of Alexandria
+stub: false
 honorific: Saint
 summary: >-
   A number of clerics and layman who died as martyrs of charity for ministering to the sick during a plague that ravaged

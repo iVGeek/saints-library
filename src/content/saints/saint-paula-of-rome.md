@@ -1,5 +1,6 @@
 ---
 name: Saint Paula of Rome
+stub: false
 honorific: Saint
 summary: >-
   Member of the Imperial Roman nobility, married to senator Toxotius. Mother of five children including Saint Eustochium

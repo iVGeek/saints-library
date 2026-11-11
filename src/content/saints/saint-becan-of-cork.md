@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Becan of Cork
+stub: true
 honorific: Saint
 summary: Sixth-century hermit near Cork, Ireland.
 searchAliases:

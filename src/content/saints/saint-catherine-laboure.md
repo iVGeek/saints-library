@@ -1,5 +1,6 @@
 ---
 name: Saint Catherine Labouré
+stub: false
 honorific: Venerable
 summary: >-
   Ninth of eleven children born to a farm family, and from an early age Catherine felt a call to the religious life.

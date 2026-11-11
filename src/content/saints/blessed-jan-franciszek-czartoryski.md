@@ -1,5 +1,6 @@
 ---
 name: Blessed Jan Franciszek Czartoryski
+stub: false
 honorific: Blessed
 summary: >-
   Civil engineer. Dominican, taking the name Michal. Priest. Executed in the Nazi persecution for ministering to wounded

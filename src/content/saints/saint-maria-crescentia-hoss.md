@@ -1,5 +1,6 @@
 ---
 name: Saint Maria Crescentia Höss
+stub: false
 honorific: Venerable
 summary: >-
   Seventh of the eight children of Matthias H&ouml;ss and Lucia Hoermann. Franciscan tertiary nun in 1703, admitted to

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Huna of Slättåkra
+stub: false
 honorific: Saint
 summary: >-
   Christian widow who became famous in rural Sweden for her charity work with the poor and sick. Saint Huna never worked

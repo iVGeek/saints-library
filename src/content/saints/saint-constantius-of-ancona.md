@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Constantius of Ancona
+stub: true
 honorific: Saint
 summary: Sixth century sacristan of the church of Saint Stephen, Ancona, Italy.
 region: Italy

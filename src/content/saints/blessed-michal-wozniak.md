@@ -1,5 +1,6 @@
 ---
 name: Blessed Michal Wozniak
+stub: false
 honorific: Blessed
 summary: >-
   Priest in the archdiocese of Warsaw, Poland, serving in the parish of Kutno. He was very active in youth ministry, and

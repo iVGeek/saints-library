@@ -1,5 +1,6 @@
 ---
 name: Saint Gaetano Errico
+stub: false
 honorific: Venerable
 summary: >-
   Second of nine children born to Pasquale, a pasta factory manager, and Marie Marseglia Errico, who worked weaving

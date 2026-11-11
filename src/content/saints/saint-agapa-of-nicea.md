@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Agapa of Nicea
+stub: true
 honorific: Saint
 summary: Martyr.
 died: Nicea, Asia Minor (Turkey)

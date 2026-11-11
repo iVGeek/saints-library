@@ -1,5 +1,6 @@
 ---
 name: Blessed Pascual Araguàs y Guàrdia
+stub: false
 honorific: Blessed
 summary: >-
   The son of Francesco Araguas e Carmen Guardia, Pascual grew up in a pious, very poor family. He entered the junior

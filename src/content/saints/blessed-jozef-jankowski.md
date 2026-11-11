@@ -1,5 +1,6 @@
 ---
 name: Blessed Józef Jankowski
+stub: false
 honorific: Blessed
 summary: >-
   Second of eight children of Robert and Michalina Jankowski. Joined the Pallottines in 1929, making his final vows on 5

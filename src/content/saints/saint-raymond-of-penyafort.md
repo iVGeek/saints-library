@@ -1,5 +1,6 @@
 ---
 name: Saint Raymond of Penyafort
+stub: false
 honorific: Saint
 summary: >-
   Born to the Aragonian nobility. Educated at the cathedral school in Barcelona, Spain. Philosophy teacher around age

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Rufus of Avignon
+stub: true
 honorific: Saint
 summary: First bishop of Avignon, France.
 region: France

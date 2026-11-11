@@ -1,6 +1,7 @@
 ---
 image: https://www.santiebeati.it/immagini/Thumbs/93818/93818.JPG
 name: Saint Mariano of Acerenza
+stub: false
 honorific: Saint
 summary: >-
   Friend of Saint Laviero. Deacon and courageous preacher in a time of persecution. Martyred in the persecutions of

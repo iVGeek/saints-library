@@ -1,5 +1,6 @@
 ---
 name: Blessed Sebastian of Riccafont
+stub: false
 honorific: Blessed
 title: Missionary
 summary: Mercedarian missionary to India. He converted many and founded several Mercedarian houses.

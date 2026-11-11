@@ -1,6 +1,7 @@
 ---
 image: https://www.catholic.org/files/images/saints/3007.jpg
 name: Saint Dyfnog
+stub: true
 honorific: Saint
 summary: Venerated in Clwyd, Wales.
 born: Wales

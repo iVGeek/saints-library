@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Mareas
+stub: true
 honorific: Saint
 summary: Bishop in Persia. Martyred in the persecutions of King Sapor II.
 deathYear: 360

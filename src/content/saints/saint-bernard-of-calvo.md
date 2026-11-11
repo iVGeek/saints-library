@@ -1,5 +1,6 @@
 ---
 name: Saint Bernard of Calvo
+stub: false
 honorific: Saint
 summary: >-
   Educated in Manso Calvo, Spain and Lleida, Spain. Benedictine Cistercian monk. Worked with Saint Raymond of Penyafort.

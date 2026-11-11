@@ -1,5 +1,6 @@
 ---
 name: Saint Alfonso Maria Fusco
+stub: false
 honorific: Venerable
 summary: >-
   Son of Giuseppina Schiavone and Aniello Fusco, the eldest of five children in a pious peasant family. The couple had

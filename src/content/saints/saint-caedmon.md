@@ -1,5 +1,6 @@
 ---
 name: Saint Caedmon
+stub: false
 honorific: Saint
 summary: >-
   A layman cowherd, in his later years he came to work with animals at the double monastery of Whitby. One night in 657

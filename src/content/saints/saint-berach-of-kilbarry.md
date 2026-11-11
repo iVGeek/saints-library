@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Berach of Kilbarry
+stub: false
 honorific: Saint
 summary: >-
   Brother of Saint Midabaria. Raised by his uncle, Saint Freoch. Spiritual student of Saint Kevin of Glendalough. Built

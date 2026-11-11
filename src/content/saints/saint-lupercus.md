@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/7/7f/Marcellus_Cassian.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Lupercus
+stub: false
 honorific: Saint
 summary: >-
   Evangelizing second bishop of Eauze, France, converting many. Martyred by Dacian the governor during the pesecutions

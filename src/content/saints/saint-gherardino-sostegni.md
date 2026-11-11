@@ -1,5 +1,6 @@
 ---
 name: Saint Gherardino Sostegni
+stub: false
 honorific: Saint
 summary: >-
   One of the Seven Founders of the Servants of Mary. Led the Servite province of Umbria, Italy from 1260 until his

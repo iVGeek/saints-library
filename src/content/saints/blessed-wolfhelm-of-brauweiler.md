@@ -1,5 +1,6 @@
 ---
 name: Blessed Wolfhelm of Brauweiler
+stub: false
 honorific: Blessed
 summary: >-
   Born to a pious, noble family; his sister became a nun at Vilich Abbey. He entered the Benedictines in 1036, becoming

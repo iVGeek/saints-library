@@ -1,5 +1,6 @@
 ---
 name: Blessed Dionisio of Morocco
+stub: false
 honorific: Blessed
 summary: >-
   Mercedarian. One of a group captured by Moors near Valencia, Spain and taken to Morocco. Though enslaved, they refused

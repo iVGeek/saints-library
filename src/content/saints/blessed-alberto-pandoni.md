@@ -1,5 +1,6 @@
 ---
 name: Blessed Alberto Pandoni
+stub: false
 image: >-
   https://commons.wikimedia.org/wiki/Special:FilePath/Sarcofago_in_marmo_dorato_del_vescovo_alberto_pandoni%252C_xv_secolo_01.jpg?width=600
 honorific: Blessed

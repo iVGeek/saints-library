@@ -1,5 +1,6 @@
 ---
 name: Saint Godelieve
+stub: false
 honorific: Saint
 summary: >-
   Born to the Flemish nobility, the daughter of Hemfried, Lord of Wierre-Effray. Married to Bertulf of Ghistelles, a

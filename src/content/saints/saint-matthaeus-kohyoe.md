@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Matthaeus Kohyoe
+stub: true
 honorific: Venerable
 summary: Dominican novice and catechist. Martyr.
 searchAliases:

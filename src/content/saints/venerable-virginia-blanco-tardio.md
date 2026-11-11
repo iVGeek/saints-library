@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Venerable Virginia Blanco Tardío
+stub: false
 honorific: Venerable
 summary: >-
   Second of four daughters of Louis Pius White Unzueta and Daria Late Quiroga. Taught catechism to children in her

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Sylvanus of Syria
+stub: true
 honorific: Saint
 summary: Bishop condemned to work the mines during the persecutions of Maximian. Martyr.
 born: Syrian

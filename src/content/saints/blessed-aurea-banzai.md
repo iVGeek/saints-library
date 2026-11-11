@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/5/57/Buddha_Bar_door.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Aurea Banzai
+stub: false
 honorific: Blessed
 summary: Lay woman in the diocese of Niigata, Japan. Married to Blessed Ioannes Banzai Kazue. Martyr.
 deathYear: 1629

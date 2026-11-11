@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Manirus of Scotland
+stub: false
 honorific: Saint
 summary: >-
   Missionary bishop to the Highlanders of northern Scotland. Had an on-going battle of words and ideas with the local

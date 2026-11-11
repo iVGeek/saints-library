@@ -1,5 +1,6 @@
 ---
 name: Venerable Emmanuel-Maurice d'Alzon
+stub: false
 honorific: Venerable
 summary: >-
   Ordained in Rome, Italy in 1834. Vicar-General of Nimes, France. Founded the Augustinians of the Assumption

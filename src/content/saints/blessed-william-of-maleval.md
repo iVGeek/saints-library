@@ -1,5 +1,6 @@
 ---
 name: Blessed William of Maleval
+stub: false
 honorific: Blessed
 summary: >-
   William lived a wild and dissolute life as a soldier in his youth. However, at some point he began to take his

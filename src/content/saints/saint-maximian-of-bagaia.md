@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Maximian of Bagaia
+stub: false
 honorific: Saint
 summary: >-
   Converted from Donatism to orthodox Christianity. Bishop of Bagaia, Numidia. Had an on-going conflict with Donatists

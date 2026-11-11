@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Zoilus of Cordoba
+stub: false
 honorific: Saint
 summary: >-
   Young man martyred with 19 unnamed Christian companions in the persecutions of Diocletian. The monastery of San Zoil

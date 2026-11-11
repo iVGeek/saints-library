@@ -1,5 +1,6 @@
 ---
 name: Blessed Ion Costist
+stub: false
 honorific: Blessed
 summary: >-
   A pious boy raised in Romania, he emigrated to Italy at age 19 because he thought the greatest Christians could be

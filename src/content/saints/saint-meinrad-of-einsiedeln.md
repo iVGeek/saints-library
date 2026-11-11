@@ -1,5 +1,6 @@
 ---
 name: Saint Meinrad of Einsiedeln
+stub: false
 honorific: Saint
 summary: >-
   May have been a member of the noble Hohenzollern family. Educated, professed as a Benedictine monk, and ordained at

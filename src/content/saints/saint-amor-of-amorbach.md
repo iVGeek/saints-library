@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/7/79/Amorbach_Klosterkirche_Fassade_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Amor of Amorbach
+stub: false
 honorific: Saint
 summary: Worked with Saint Pirmin as an 8th-century missionary in Germany. Founded the monastery of Amorbach in Franconia.
 searchAliases:

@@ -1,5 +1,6 @@
 ---
 name: Venerable Maria Allegri
+stub: false
 honorific: Venerable
 summary: >-
   Member of the Sisters Established in the Charity of the Good Shepherd. She was devoted to the contemplative life, the

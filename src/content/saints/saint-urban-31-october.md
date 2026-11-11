@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Urban
+stub: false
 honorific: Saint
 summary: >-
   First-century spiritual student of Saint Paul the Apostle, and mentioned by him in the Epistle to the Romans.

@@ -1,5 +1,6 @@
 ---
 name: Saint Smaragdus
+stub: false
 honorific: Saint
 summary: >-
   Ministered to the Christian slaves who worked to build and staff the baths of Diocletian. Tortured and martyred with a

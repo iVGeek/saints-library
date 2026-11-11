@@ -1,5 +1,6 @@
 ---
 name: Blessed Álvaro del Portillo Díez de Sollano
+stub: false
 honorific: Blessed
 summary: >-
   One of eight children. Joined Opus Dei in 1935. Engineering student. Member of the Saint Vicent de Paul Society, and

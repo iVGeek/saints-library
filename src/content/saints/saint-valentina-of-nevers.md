@@ -1,6 +1,7 @@
 ---
 image: https://www.santiebeati.it/immagini/Thumbs/62675/62675.JPG
 name: Saint Valentina of Nevers
+stub: true
 honorific: Saint
 summary: No information has survived.
 died: relics discovered in the catacombs of Rome, Italy in the early 19th century

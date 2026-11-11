@@ -1,5 +1,6 @@
 ---
 name: Saint Constantine Baboutzikos
+stub: false
 honorific: Saint
 summary: >-
   Brother-in-law of the Byzantine empress Theodora. Held the high-ranking title of magistros in the Byzantine imperial

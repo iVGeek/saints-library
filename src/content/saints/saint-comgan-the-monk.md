@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Comgan the Monk
+stub: false
 honorific: Saint
 summary: >-
   Born to the Irish royalty, the son of a prince of Leinster, Ireland; brother of Saint Kentigern, nephew of Saint

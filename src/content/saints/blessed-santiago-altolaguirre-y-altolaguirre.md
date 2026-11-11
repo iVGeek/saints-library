@@ -1,5 +1,6 @@
 ---
 name: Blessed Santiago Altolaguirre y Altolaguirre
+stub: true
 honorific: Blessed
 summary: Trinitarian priest. Martyred in the Spanish Civil War.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Santiago-Altolaguirre-y-Altolaguirre.jpg

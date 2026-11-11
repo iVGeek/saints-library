@@ -1,5 +1,6 @@
 ---
 name: Saint Severus of Barcelona
+stub: true
 honorific: Saint
 summary: Bishop of Barcelona, Spain. Martyred by Arian Visigoths.
 image: >-

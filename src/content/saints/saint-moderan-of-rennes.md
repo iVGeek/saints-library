@@ -1,5 +1,6 @@
 ---
 name: Saint Moderan of Rennes
+stub: false
 honorific: Saint
 summary: >-
   Benedictine, monk. Bishop of Rennes, France in 703. Pilgrim to Rome, Italy in 720. In his later years he resigned his

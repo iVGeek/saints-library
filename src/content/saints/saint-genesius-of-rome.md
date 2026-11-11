@@ -1,5 +1,6 @@
 ---
 name: Saint Genesius of Rome
+stub: false
 honorific: Saint
 summary: >-
   Genesius was an actor who worked in a series of plays that mocked Christianity. One day while performing in a work

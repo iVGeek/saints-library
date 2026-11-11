@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Rufinian
+stub: true
 honorific: Saint
 summary: Brother of Saint Rufinus. Martyr.
 feastDay:

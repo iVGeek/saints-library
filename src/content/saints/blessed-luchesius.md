@@ -1,5 +1,6 @@
 ---
 name: Blessed Luchesius
+stub: false
 honorific: Blessed
 summary: >-
   Layman who spent the first part of his life indifferent to religion. Married to Blessed Buona dei Segni. Worked as a

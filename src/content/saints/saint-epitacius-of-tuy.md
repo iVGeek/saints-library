@@ -1,5 +1,6 @@
 ---
 name: Saint Epitacius of Tuy
+stub: true
 honorific: Saint
 summary: First bishop of Tuy, Galatia (in modern Spain).
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Epitacius-of-Tuy.jpg

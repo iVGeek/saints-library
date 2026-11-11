@@ -1,5 +1,6 @@
 ---
 name: Saint Lawrence Mary Joseph Imbert
+stub: false
 honorific: Venerable
 summary: >-
   Born to a poor farm family. Studied at the Foreign Mission Seminary at Paris, France in 1818. Ordained on 18 December

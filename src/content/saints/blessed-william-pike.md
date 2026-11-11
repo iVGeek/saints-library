@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/6/6c/SMC_Pictures_026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed William Pike
+stub: false
 honorific: Blessed
 summary: Layman in the apostolic vicariate of England during a period of persecutions of Catholics. Martyr.
 searchAliases:

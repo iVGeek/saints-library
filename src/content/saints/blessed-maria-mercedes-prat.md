@@ -1,5 +1,6 @@
 ---
 name: Blessed Maria Mercedes Prat
+stub: false
 honorific: Blessed
 summary: >-
   Baptized on 7 March 1880, and made her First Holy Communion on 30 June 1890. She was a pious child who attended Mass

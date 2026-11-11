@@ -1,5 +1,6 @@
 ---
 name: Blessed José Boher y Foix
+stub: false
 honorific: Blessed
 summary: >-
   The son of Mattia Boher and Benvenuta Foix. He studied in seminary of the diocese of Urgel, Spain, and was ordained a

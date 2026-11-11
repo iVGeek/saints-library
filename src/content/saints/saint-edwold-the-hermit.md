@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Edwold the Hermit
+stub: false
 honorific: Saint
 summary: >-
   May have been the brother of Saint Edmund the Martyr. Ninth-century hermit at Cerne, Doresetshire, England, having

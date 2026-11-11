@@ -1,5 +1,6 @@
 ---
 name: Saint Parthenius of Lampsacus
+stub: false
 honorific: Saint
 summary: >-
   Fourth-century bishop of Lampsacus in the Hellespont region of modern Turkey. Known for his preaching, evangelizing

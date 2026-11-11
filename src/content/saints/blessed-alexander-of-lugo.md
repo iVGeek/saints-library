@@ -1,5 +1,6 @@
 ---
 name: Blessed Alexander of Lugo
+stub: false
 image: https://upload.wikimedia.org/wikipedia/commons/0/0e/Alexander_Romanovsky.png
 honorific: Blessed
 summary: >-

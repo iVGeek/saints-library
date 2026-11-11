@@ -1,5 +1,6 @@
 ---
 name: Saint Desideratus of Verdun
+stub: false
 honorific: Saint
 title: Bishop
 summary: >-

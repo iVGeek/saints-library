@@ -1,5 +1,6 @@
 ---
 name: Saint Antiochus of Sebaste
+stub: false
 honorific: Saint
 summary: Brother of Saint Plato of Ancyra. Physician. Martyred in the persecutions of the governor Hadrian.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Antiochus-of-Sebaste.jpg

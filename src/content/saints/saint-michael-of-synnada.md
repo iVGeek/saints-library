@@ -1,5 +1,6 @@
 ---
 name: Saint Michael of Synnada
+stub: false
 honorific: Saint
 summary: >-
   Moved to Constantinople as a young man where he became a student of Saint Tarasius of Constantinople. Friend of Saint

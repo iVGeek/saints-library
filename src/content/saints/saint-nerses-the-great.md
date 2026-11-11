@@ -1,5 +1,6 @@
 ---
 name: Saint Nerses the Great
+stub: false
 honorific: Saint
 summary: >-
   Educated at Cappadocia. Married a princess of the Mamikonian family. Father of Saint Isaac the Great. Catholicos in

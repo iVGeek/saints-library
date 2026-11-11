@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/0/0f/Hilsindis_en_Ansfridus_van_Leuven%2C_RP-P-1905-499.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 name: Blessed Hilsindis
+stub: false
 honorific: Blessed
 summary: >-
   Daughter of the Duke of Lorraine. Married lay woman. Widow. Founded a convent at Thorn (now in the Netherlands), and

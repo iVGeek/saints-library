@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Nem of Drum Dallain
+stub: true
 honorific: Saint
 summary: Early Irish bishop.
 region: Ireland

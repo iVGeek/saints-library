@@ -1,5 +1,6 @@
 ---
 name: Blessed Raymond de Blanes
+stub: false
 honorific: Blessed
 summary: >-
   Soldier. Knight. Mercedarian. Captured by Muslim invaders, he was imprisoned, tortured, and executed for his faith.

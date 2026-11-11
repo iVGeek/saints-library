@@ -1,5 +1,6 @@
 ---
 name: Blessed François-Louis Hébert
+stub: false
 honorific: Blessed
 summary: >-
   Joined the Eudists in 1756. Ordained in 1761. Taught in the seminaries of the French cities of Caen, Dol and Domfort.

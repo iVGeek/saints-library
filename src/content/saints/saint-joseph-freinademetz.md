@@ -1,5 +1,6 @@
 ---
 name: Saint Joseph Freinademetz
+stub: false
 honorific: Venerable
 summary: >-
   Born into a pious farm family, the fourth of twelve children. Joseph was a polymath who knew seven languages. Ordained

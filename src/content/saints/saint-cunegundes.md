@@ -1,5 +1,6 @@
 ---
 name: Saint Cunegundes
+stub: false
 honorific: Saint
 summary: >-
   Daughter of Sigfrid, Count of Luxembourg. Received a religious education, and took a private vow of virginity. Married

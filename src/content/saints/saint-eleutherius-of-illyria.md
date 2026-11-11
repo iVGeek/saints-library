@@ -1,5 +1,6 @@
 ---
 name: Saint Eleutherius of Illyria
+stub: false
 honorific: Saint
 summary: >-
   Son of Saint Anthia of Illyria; his father died when the boy was very young. Educated by Bishop Dynamius. Bishop of

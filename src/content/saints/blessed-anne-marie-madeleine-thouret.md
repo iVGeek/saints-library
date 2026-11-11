@@ -1,5 +1,6 @@
 ---
 name: Blessed Anne-Marie-Madeleine Thouret
+stub: false
 honorific: Blessed
 summary: >-
   Carmelite nun, professed on 19 August 1740. Sub-prioress in 1764 and 1778. Sacristan of her house's chapel. One of the

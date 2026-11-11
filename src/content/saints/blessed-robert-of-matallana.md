@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Robert of Matallana
+stub: false
 honorific: Blessed
 summary: Benedictine Cistercian monk of La Criste in Champagne, France. Abbot at the Matallana monastery in Valladolid, Spain.
 deathYear: 1185

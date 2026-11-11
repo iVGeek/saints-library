@@ -1,5 +1,6 @@
 ---
 name: Blessed Roman Archutowski
+stub: false
 honorific: Blessed
 summary: >-
   Priest in the archdiocese of Warsaw, Poland. Exceptional teacher and rector of the seminary in Warsaw. Imprisoned and

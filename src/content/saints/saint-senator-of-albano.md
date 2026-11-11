@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Senator of Albano
+stub: true
 honorific: Saint
 summary: Martyr.
 searchAliases:

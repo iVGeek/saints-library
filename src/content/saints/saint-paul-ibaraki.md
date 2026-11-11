@@ -1,5 +1,6 @@
 ---
 name: Saint Paul Ibaraki
+stub: false
 honorific: Saint
 summary: >-
   Member of a noble samuri family. Brother of Saint Leo Karasumaru. Ran a small sake brewery to support his family.

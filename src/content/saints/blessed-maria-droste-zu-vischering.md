@@ -1,5 +1,6 @@
 ---
 name: Blessed Maria Droste zu Vischering
+stub: false
 honorific: Blessed
 summary: >-
   Born to the wealthy German nobility, she had a twin brother, Max, and pious parents, Klemens Heidenreich Franz

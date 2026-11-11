@@ -1,5 +1,6 @@
 ---
 name: Blessed Mosè Tovini
+stub: false
 honorific: Blessed
 summary: >-
   Eldest of eight children, the son of Eugenio, an accountant, and Domenica Malaguzzi, a teacher. Nephew and god-son of

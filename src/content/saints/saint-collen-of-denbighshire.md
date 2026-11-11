@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Collen of Denbighshire
+stub: false
 honorific: Saint
 summary: >-
   Monk in Wales, Brittany and Cornwall. Believed to have travelled to Rome, Italy. Lived as a hermit in a small cave

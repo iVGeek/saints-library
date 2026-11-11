@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Rotrudis of Saint-Omer
+stub: true
 honorific: Saint
 summary: No information has survived.
 deathYear: 869

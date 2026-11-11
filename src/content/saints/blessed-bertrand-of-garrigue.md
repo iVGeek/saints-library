@@ -1,5 +1,6 @@
 ---
 name: Blessed Bertrand of Garrigue
+stub: false
 honorific: Blessed
 summary: >-
   Priest. Worked with the Cistercians. Noted preacher. Fought Albigensianism. Worked with Saint Dominic de Guzman, and

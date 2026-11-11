@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Thurstan Hunt
+stub: false
 honorific: Blessed
 summary: Priest in the apostolic vicariate of England. Martyred in the persecutions of Queen Elizabeth I.
 searchAliases:

@@ -1,5 +1,6 @@
 ---
 name: Saint Agape of Antioch
+stub: true
 honorific: Saint
 summary: Nun. Martyr.
 died: Antioch, Syria

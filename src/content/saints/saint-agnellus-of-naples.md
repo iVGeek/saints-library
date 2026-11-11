@@ -1,5 +1,6 @@
 ---
 name: Saint Agnellus of Naples
+stub: false
 honorific: Saint
 summary: >-
   Hermit near Naples, Italy. Monk. Abbot of San Gaudioso monastery at Abtini, Italy. Reported to be a miraculous

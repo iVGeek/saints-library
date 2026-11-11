@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/5/53/NMSMonymuskReliquary2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Machan
+stub: false
 honorific: Saint
 summary: >-
   A spiritual student of Saint Cadoc of Llancarvan, Machan was educated in Ireland where he was ordained a priest. He

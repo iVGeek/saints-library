@@ -1,5 +1,6 @@
 ---
 name: Blessed Adam of San Sabine
+stub: false
 honorific: Blessed
 summary: Hermit on Mount Vissiano near Fermo, Italy. Benedictine monk at San Sabine abbey. Abbot of San Sabine.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Adam-of-San-Sabine.jpg

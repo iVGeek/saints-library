@@ -1,5 +1,6 @@
 ---
 name: Blessed Louis of Mercy
+stub: false
 honorific: Blessed
 summary: >-
   Contemplative Mercidarian at the convent of Saint Antolino in Valladolid, Spain. In 1331 he ransomed 207 Christian

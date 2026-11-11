@@ -1,5 +1,6 @@
 ---
 name: Pope Saint Mark
+stub: false
 honorific: Saint
 summary: >-
   Son of Priscus. Chosen 34th pope; he reigned less than a year. Believed to have built the basilica of San Marco in

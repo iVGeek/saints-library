@@ -1,5 +1,6 @@
 ---
 name: Saint Gerold of Saxony
+stub: false
 honorific: Saint
 summary: >-
   Born to the Saxon nobility. Donated land to the monastery of Einsiedeln, Switzerland where his sons, Cuno and Ulric

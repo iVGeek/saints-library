@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Romulus of Rome
+stub: false
 honorific: Saint
 summary: >-
   Member of the court of Roman Emperor Trajan. During a period of persecution of Christians, Romulus spoke out against

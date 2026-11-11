@@ -1,5 +1,6 @@
 ---
 name: Saint Alexander of Pydna
+stub: false
 honorific: Saint
 summary: >-
   Priest in Pydna, Macedonia (in modern Greece). Martyr by Maximian Galerius for publicly refusing to sacrifice to

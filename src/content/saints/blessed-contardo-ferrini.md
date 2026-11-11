@@ -1,5 +1,6 @@
 ---
 name: Blessed Contardo Ferrini
+stub: false
 honorific: Blessed
 summary: >-
   Lifelong layman in the archdiocese of Milan, Italy. Graduated from the University of Padua in 1880. Noted civil and

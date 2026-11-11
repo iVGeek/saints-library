@@ -1,5 +1,6 @@
 ---
 name: Saint Dana of Leuca
+stub: false
 honorific: Saint
 summary: >-
   Immigrant to and deacon in Santa Maria di Leuca, Italy. When the port town was invaded, Dana gathered up the sacred

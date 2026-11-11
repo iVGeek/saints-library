@@ -1,5 +1,6 @@
 ---
 name: Saint Framboldus of Bayeux
+stub: false
 honorific: Saint
 summary: >-
   Monk and abbot of the abbey of Le Mans, France. Bishop of Bayeux, France from 691 to 720. While there is evidence of

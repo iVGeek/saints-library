@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Gundekar
+stub: true
 honorific: Saint
 summary: Benedictine monk. Travelled, worked and martyred with Saint Boniface.
 deathYear: 754

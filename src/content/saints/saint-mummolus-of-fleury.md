@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Mummolus of Fleury
+stub: false
 honorific: Saint
 summary: >-
   Benedictine monk. Abbot at Fleury Abbey. Brought relics of Saint Benedict and Saint Scholastica to Fleury; the abbey

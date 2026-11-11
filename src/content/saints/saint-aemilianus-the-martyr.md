@@ -1,5 +1,6 @@
 ---
 name: Saint Aemilianus the Martyr
+stub: true
 honorific: Saint
 summary: Physician. Martyred in the persecutions of the Arian Vandal king Huneric.
 searchAliases:

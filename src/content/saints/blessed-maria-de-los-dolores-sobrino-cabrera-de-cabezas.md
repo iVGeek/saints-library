@@ -1,6 +1,7 @@
 ---
 image: https://www.santiebeati.it/immagini/Thumbs/100156/100156.JPG
 name: Blessed María de Los Dolores Sobrino Cabrera de Cabezas
+stub: false
 honorific: Blessed
 summary: >-
   Lifelong lay woman of the archdiocese of Seville, Spain. She married Rafael Cabezas Ruival de Flores on 27 December

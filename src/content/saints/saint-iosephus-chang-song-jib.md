@@ -1,5 +1,6 @@
 ---
 name: Saint Iosephus Chang Song-Jib
+stub: false
 honorific: Venerable
 summary: >-
   Married layman in the apostolic vicariate of Korea. Pharmacist. Convert. Imprisoned, tortured and left to die in

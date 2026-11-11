@@ -1,5 +1,6 @@
 ---
 name: Saint Jerome de Pratis
+stub: false
 honorific: Saint
 summary: >-
   Member of the Mercedarians at the convent of Saint Eulalia in Barcelona, Spain. Known for his humility, holy charity,

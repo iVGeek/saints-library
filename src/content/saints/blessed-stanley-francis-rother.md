@@ -1,5 +1,6 @@
 ---
 name: Blessed Stanley Francis Rother
+stub: false
 honorific: Blessed
 summary: >-
   Graduated from Mount Saint Mary's seminary in Maryland. Priest in the archdiocese of Oklahoma City, Oklahoma. A pipe

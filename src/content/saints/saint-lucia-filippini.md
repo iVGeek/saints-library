@@ -1,5 +1,6 @@
 ---
 name: Saint Lucia Filippini
+stub: false
 honorific: Saint
 summary: >-
   Orphaned when very young. Worked under Blessed Rose Venerini to train schoolmistresses. Founded the Religious Teachers

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Ferbuta of Seleucia
+stub: true
 honorific: Saint
 summary: Sister of Saint Simeon. Widow. Martyred in the persecutions of King Sapur II.
 deathYear: 342

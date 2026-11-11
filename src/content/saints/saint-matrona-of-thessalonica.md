@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Matrona of Thessalonica
+stub: true
 honorific: Saint
 summary: Two Christians with the same name who were martyred.
 died: in Thessalonica, Greece, date unknown

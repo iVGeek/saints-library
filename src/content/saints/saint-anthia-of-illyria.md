@@ -1,5 +1,6 @@
 ---
 name: Saint Anthia of Illyria
+stub: false
 honorific: Saint
 summary: >-
   Mother of Saint Eleutherius of Illyria. Martyred in the persecutions of Hadrian along with his mother and eleven other

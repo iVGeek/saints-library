@@ -1,5 +1,6 @@
 ---
 name: Venerable Maria Oliva Bonaldo
+stub: true
 honorific: Venerable
 summary: Founded the Institute of the Daughters of the Church.
 searchAliases:

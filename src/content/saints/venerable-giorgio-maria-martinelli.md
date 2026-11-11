@@ -1,5 +1,6 @@
 ---
 name: Venerable Giorgio Maria Martinelli
+stub: false
 honorific: Venerable
 summary: Priest in the archdiocese of Milan, Italy. Founded the Missionary Oblate Fathers.
 image: >-

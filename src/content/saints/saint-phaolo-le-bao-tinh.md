@@ -1,5 +1,6 @@
 ---
 name: Saint Phaolô Lê Bao Tinh
+stub: false
 honorific: Venerable
 summary: >-
   Convert. Priest in the apostolic vicariate of West Tonkin (in modern Vietnam). Spent a long period in prison for his

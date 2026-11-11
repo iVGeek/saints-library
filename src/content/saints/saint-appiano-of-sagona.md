@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Appiano of Sagona
+stub: true
 honorific: Saint
 summary: Early bishop of Sagona, Corsica (part of modern France). Martyr.
 searchAliases:

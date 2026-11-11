@@ -1,5 +1,6 @@
 ---
 name: Blessed Isidoro Bover Oliver
+stub: false
 honorific: Blessed
 summary: >-
   Member of the Diocesan Laborer Priests of the Sacred Heart of Jesus, joining on 12 August 1910 while still in

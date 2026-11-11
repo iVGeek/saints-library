@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Giusto of Condat
+stub: true
 honorific: Saint
 summary: Monk in area of Condat, France.
 region: France

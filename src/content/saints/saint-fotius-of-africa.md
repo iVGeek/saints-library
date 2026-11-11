@@ -1,5 +1,6 @@
 ---
 name: Saint Fotius of Africa
+stub: true
 honorific: Saint
 summary: Martyr.
 searchAliases:

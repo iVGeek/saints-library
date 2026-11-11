@@ -1,5 +1,6 @@
 ---
 name: Saint Dionysius of Byzantium
+stub: true
 honorific: Saint
 summary: Martyr.
 deathYear: 273

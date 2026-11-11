@@ -1,5 +1,6 @@
 ---
 name: Saint Denis of Paris
+stub: false
 honorific: Saint
 summary: >-
   Missionary to Paris, France. First Bishop of Paris. His success roused the ire of local pagans, and he was imprisoned

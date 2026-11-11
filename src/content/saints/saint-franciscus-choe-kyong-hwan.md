@@ -1,5 +1,6 @@
 ---
 name: Saint Franciscus Ch'oe Kyong-Hwan
+stub: false
 honorific: Venerable
 summary: >-
   Raised in a prosperous Christian family; his grandfather was an early convert, and brought his family into the faith.

@@ -1,5 +1,6 @@
 ---
 name: Saint Simon of Jerusalem
+stub: false
 honorific: Saint
 summary: >-
   A relative of Jesus, possibly a first cousin. He is mentioned in the Gospel of Matthew, and was one of the 72

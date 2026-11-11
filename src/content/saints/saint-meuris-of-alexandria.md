@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/a/ad/Saint_Nemesius_and_Saint_John_the_Baptist.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Meuris of Alexandria
+stub: false
 honorific: Saint
 summary: >-
   Virgin who dedicated herself to God. Arrested, tortured and martyred for her faith in the persecutions of Maximinus

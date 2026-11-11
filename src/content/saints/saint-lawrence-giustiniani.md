@@ -1,5 +1,6 @@
 ---
 name: Saint Lawrence Giustiniani
+stub: false
 honorific: Saint
 summary: >-
   Born to the Venetian nobility; his ancestors had fled Constantinople for political reasons. Against his widowed

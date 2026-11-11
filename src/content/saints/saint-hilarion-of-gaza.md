@@ -1,5 +1,6 @@
 ---
 name: Saint Hilarion of Gaza
+stub: false
 honorific: Saint
 summary: >-
   Raised in a pagan family. Converted to Christianity while studying at Alexandria, Egypt as a teenager. Studied with

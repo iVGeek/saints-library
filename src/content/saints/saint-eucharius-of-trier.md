@@ -1,5 +1,6 @@
 ---
 name: Saint Eucharius of Trier
+stub: false
 honorific: Saint
 summary: ' Legend says that he was one of the 72 disciples of Christ, and that he was sent to Gaul as its first bishop in the 1st century. There, one of his companions, Maternus, died. Euch First bishop of Trier, Germany. A basilica was built over his tomb in the catacomb of Saint Matthias.'
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Eucharius-of-Trier.jpg

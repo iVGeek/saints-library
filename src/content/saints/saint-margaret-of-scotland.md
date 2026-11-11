@@ -1,5 +1,6 @@
 ---
 name: Saint Margaret of Scotland
+stub: false
 honorific: Saint
 summary: >-
   Granddaughter of King Edmund Ironside of England. Great-niece of Saint Stephen of Hungary. Born in Hungary while her

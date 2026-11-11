@@ -1,5 +1,6 @@
 ---
 name: Saint Alena of Brussels
+stub: false
 honorific: Saint
 summary: >-
   Daughter of a pagan chieftain in an area in modern Belgium. Secret convert to Christianity. One night she slipped out

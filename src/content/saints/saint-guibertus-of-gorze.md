@@ -1,5 +1,6 @@
 ---
 name: Saint Guibertus of Gorze
+stub: false
 honorific: Saint
 summary: >-
   Born to the French nobility. Soldier who fought in several campaigns. Hermit on his estates at Gembloux, Brabant (in

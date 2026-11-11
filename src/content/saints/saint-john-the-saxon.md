@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint John the Saxon
+stub: false
 honorific: Saint
 summary: >-
   Monk in France. Invited by King Alfred of England to restore faith and learning to the English abbeys ravaged by the

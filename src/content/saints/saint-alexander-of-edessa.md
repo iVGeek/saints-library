@@ -1,5 +1,6 @@
 ---
 name: Saint Alexander of Edessa
+stub: false
 honorific: Saint
 summary: >-
   An old man tortured and executed in the persecutions of Decius for repeatedly proclaiming his Christianity in public.

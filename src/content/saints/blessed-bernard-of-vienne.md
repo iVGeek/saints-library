@@ -1,5 +1,6 @@
 ---
 name: Blessed Bernard of Vienne
+stub: false
 honorific: Blessed
 summary: >-
   Born to the French nobility. Military officer in the army of Blessed Charlemagne. Upon the death of his parents, he

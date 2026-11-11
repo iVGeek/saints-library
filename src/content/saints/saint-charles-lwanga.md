@@ -1,5 +1,6 @@
 ---
 name: Saint Charles Lwanga
+stub: false
 honorific: Saint
 title: St. Charles Lwanga
 summary: >-

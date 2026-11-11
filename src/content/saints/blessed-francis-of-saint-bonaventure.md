@@ -1,5 +1,6 @@
 ---
 name: Blessed Francis of Saint Bonaventure
+stub: true
 honorific: Blessed
 summary: Franciscan Friars Minor (Alcantarines) priest. Martyr.
 image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Japan.jpg

@@ -1,5 +1,6 @@
 ---
 name: Saint Sabas the Lector
+stub: false
 honorific: Saint
 summary: >-
   Goth. Lector in a church in what is now Romania. Captured by heathen Goths, he refused to eat food that had been

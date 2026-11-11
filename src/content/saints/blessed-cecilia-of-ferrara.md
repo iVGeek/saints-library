@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/e/e9/Sant%27Andrea_della_Valle_%28Rome%29_-_Fa%C3%A7ade.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Cecilia of Ferrara
+stub: false
 honorific: Blessed
 summary: >-
   Married to a very pious young man, each was devoted to the Church and spiritual growth. After eight years together

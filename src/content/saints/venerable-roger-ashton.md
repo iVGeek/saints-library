@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Venerable Roger Ashton
+stub: false
 honorific: Venerable
 summary: >-
   Third son of Richard Ashton. Soldier in the army of the Earl of Leicester who fought against Spain in the Low

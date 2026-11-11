@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/4c/Strangulation_of_Godelieve.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Arnulf of Leuven
+stub: false
 honorific: Blessed
 summary: >-
   Cistercian monk. Abbot at Villers-la-Ville, Brabant (in modern Belgium) for 10 years. He expanded the abbey, made it a

@@ -1,5 +1,6 @@
 ---
 name: Saint Hilaria of Augsburg
+stub: false
 honorific: Saint
 summary: >-
   Mother of Saint Afra of Augsburg. While visiting the tomb of Saint Afra with some friends, she was seized by the

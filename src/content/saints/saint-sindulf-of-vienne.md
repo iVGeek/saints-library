@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Sindulf of Vienne
+stub: false
 honorific: Saint
 summary: Bishop of Vienne, France. Attended councils in 625 and 630. Encouraged the monastic life in his diocese.
 searchAliases:

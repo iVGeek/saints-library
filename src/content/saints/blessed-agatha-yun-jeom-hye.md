@@ -1,5 +1,6 @@
 ---
 name: Blessed Agatha Yun Jeom-Hye
+stub: true
 honorific: Blessed
 summary: Lay woman martyr in the apostolic vicariate of Korea.
 image: https://catholicsaints.info/wp-content/uploads/people-who-open-the-light-of-dawn.jpg

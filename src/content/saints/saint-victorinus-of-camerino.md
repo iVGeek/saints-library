@@ -1,5 +1,6 @@
 ---
 name: Saint Victorinus of Camerino
+stub: false
 honorific: Saint
 summary: >-
   Brother of Saint Severinus of Septempeda. The two brothers distributed their wealth to the poor in their area, then

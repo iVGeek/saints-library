@@ -1,5 +1,6 @@
 ---
 name: Blessed Albertinus of Fonte Avellana
+stub: false
 honorific: Blessed
 summary: >-
   Benedictine monk at Fonte Avellana monastery in Serra Sant'Abbondio, Italy. When his congregation merged with the

@@ -1,5 +1,6 @@
 ---
 name: Saint Venantius Fortunatus
+stub: false
 honorific: Saint
 summary: >-
   Born to a pagan family, Venantius converted to Christianity when still quite young. He grew up in Aquileia, Italy, and

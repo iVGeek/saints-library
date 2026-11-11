@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/8/86/Ignatius-Loyola.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Paulus Nakajima
+stub: false
 honorific: Blessed
 summary: Son of Blessed Leo Nakajima Sokan. Layman of the archdiocese of Nagasaki, Japan. One of the Martyrs of Unzen.
 deathYear: 1627

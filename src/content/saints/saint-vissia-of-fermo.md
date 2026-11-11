@@ -1,6 +1,7 @@
 ---
 image: https://www.santiebeati.it/immagini/Thumbs/91652/91652.JPG
 name: Saint Vissia of Fermo
+stub: true
 honorific: Saint
 summary: Consecrated virgin martyred in the persecutions of Decius.
 deathYear: 250

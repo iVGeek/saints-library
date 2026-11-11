@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Hoger of Hamburg-Bremen
+stub: false
 honorific: Saint
 summary: >-
   Benedictine monk at New Corbie Abbey in Saxony, Germany. Archbishop of Bremen-Hamberg, Germany in 909. Known for

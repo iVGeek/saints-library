@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/b/b0/Augustus_of_Prima_Porta.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Ammus of Constantinople
+stub: false
 honorific: Saint
 summary: One of a group of 24 Christians martyred in the persecutions of Arian emperor Valens.
 deathYear: 367

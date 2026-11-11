@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/f/f6/Daimiel_-_Ermita_del_Cristo_de_la_Luz_%28Padres_Pasionistas%29_03.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed José María Cuartero Gascón
+stub: true
 honorific: Blessed
 summary: Passionist cleric martyred in the Spanish Civil War.
 searchAliases:

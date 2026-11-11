@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/e/ec/Jesaja_%28Michelangelo%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Isaias
+stub: false
 honorific: Saint
 summary: >-
   Monk at the Monastery of the Caves under the direction of Saint Anthony and Saint Theodosius, founders of the house.

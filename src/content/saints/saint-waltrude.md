@@ -1,5 +1,6 @@
 ---
 name: Saint Waltrude of Mons
+stub: false
 honorific: Saint
 summary: >-
   Daughter of Saint Bertille and Saint Walbert of Hainault. Sister of Saint Aldegundis. Married to Saint Vincent

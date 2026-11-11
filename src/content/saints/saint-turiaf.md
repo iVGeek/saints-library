@@ -1,5 +1,6 @@
 ---
 name: Saint Turiaf of Dol
+stub: false
 honorific: Saint
 summary: >-
   Born to the 8th century French nobility. Monk. Abbot. Priest, ordained by Saint Sampson. Bishop of Dol, Brittany,

@@ -1,5 +1,6 @@
 ---
 name: Saint Hermenland
+stub: false
 honorific: Saint
 summary: >-
   Royal cup-bearer in his youth. Monk at Fontenelle under Saint Lambert. Priest. With twelve brother monks, he

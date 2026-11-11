@@ -1,5 +1,6 @@
 ---
 name: Blessed Ana Julia Duque Heckner
+stub: true
 honorific: Blessed
 summary: Founded the Congregation of the Little Sisters of the Annunciation.
 searchAliases:

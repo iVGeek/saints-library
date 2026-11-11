@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Lua of Limerick
+stub: false
 honorific: Saint
 summary: >-
   Spiritual student of Saint Comgall of Bangor. Founded several monasteries; tradition says he founded 120 of them in

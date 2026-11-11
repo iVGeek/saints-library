@@ -1,5 +1,6 @@
 ---
 name: Saint Maximian of Ravenna
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Ravenna, Italy in 546 by Pope Vigilius with the support of Emperor Justinian; the choice was initially so

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/2/2d/Jheronimus_Bosch_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Hugo of Haarlem
+stub: true
 honorific: Blessed
 summary: Layman. Martyred by Calvinists.
 deathYear: 1572

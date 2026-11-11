@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint John of Vilna
+stub: false
 honorific: Saint
 summary: >-
   Young nobleman at the court of Duke Olgierd. Originally a fire worshipper, he converted to Christianity. Martyred for

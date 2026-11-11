@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Sola
+stub: false
 honorific: Saint
 summary: >-
   No information of his early life has survived, and the first we hear of Sola he is a monk in England. He immigrated to

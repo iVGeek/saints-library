@@ -1,5 +1,6 @@
 ---
 name: Venerable Coloma Antònia Martí y Valls
+stub: false
 honorific: Venerable
 summary: >-
   Coloma began to feel a call to religious life at age 11. She joined the Poor Clares of Divine Providence 2 October

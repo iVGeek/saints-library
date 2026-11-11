@@ -1,5 +1,6 @@
 ---
 name: Venerable Giulio Bocci
+stub: false
 honorific: Venerable
 summary: >-
   Giulio joined the Order of Friars Minor Capuchin at the convent at Cingoli, Italy at the age of 13; he made his solemn

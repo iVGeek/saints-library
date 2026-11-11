@@ -1,5 +1,6 @@
 ---
 name: Saint Albaud of Toul
+stub: false
 honorific: Saint
 summary: >-
   Priest. Friend of Saint Aprus of Toul. Bishop of Toul, Gallia Belgica (in modern France) in 507. For centuries,

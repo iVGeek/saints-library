@@ -1,5 +1,6 @@
 ---
 name: Blessed Anthony of Milan
+stub: false
 honorific: Blessed
 summary: >-
   One of three Franciscans assigned to Armenia with a mission to improve the conditions of Christians there, and to

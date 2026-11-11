@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Theoger
+stub: false
 honorific: Saint
 summary: >-
   Benedictine monk. Leading supporter of the monastic reform at Hirsau Abbey and the Cluniac reform in general. Abbot of

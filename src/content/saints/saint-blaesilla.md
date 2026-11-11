@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Blaesilla
+stub: false
 honorific: Saint
 summary: >-
   Daughter of Saint Paula. Friend and spiritual student of Saint Jerome. Married in her teens to Furius, son of Titiana;

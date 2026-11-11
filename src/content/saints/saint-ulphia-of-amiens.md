@@ -1,5 +1,6 @@
 ---
 name: Saint Ulphia of Amiens
+stub: false
 honorific: Saint
 summary: >-
   Hermitess near Amiens, France. Spiritual student of Saint Domitius at Saint Acheul abbey. Her reputation for holiness

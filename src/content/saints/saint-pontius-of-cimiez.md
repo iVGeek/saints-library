@@ -1,5 +1,6 @@
 ---
 name: Saint Pontius of Cimiez
+stub: false
 honorific: Saint
 summary: >-
   Born to a pagan imperial Roman senatorial family, the son of Marcus and and Julia. Martyred in the persecutions of

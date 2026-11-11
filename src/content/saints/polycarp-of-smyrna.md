@@ -1,5 +1,6 @@
 ---
 name: Polycarp of Smyrna
+stub: false
 honorific: Saint
 title: Bishop, Martyr
 summary: >-

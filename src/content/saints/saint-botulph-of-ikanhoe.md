@@ -1,5 +1,6 @@
 ---
 name: Saint Botulph of Ikanhoe
+stub: false
 honorific: Saint
 summary: >-
   Born to a Christian Saxon noble family. Brother of Saint Adolph of Utrecht. Educated with his brother at the monastery

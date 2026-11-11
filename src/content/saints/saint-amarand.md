@@ -1,5 +1,6 @@
 ---
 name: Saint Amarand
+stub: true
 honorific: Saint
 summary: Abbot of Moissac, France. Bishop of Albi, Italy.
 deathYear: 700

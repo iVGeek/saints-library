@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Heliodorus of Persia
+stub: true
 honorific: Saint
 summary: Martyred with several hundred companions during the persecutions of Shapur II.
 deathYear: 362

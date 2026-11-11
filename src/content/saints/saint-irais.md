@@ -1,5 +1,6 @@
 ---
 name: Saint Irais
+stub: true
 honorific: Saint
 summary: Martyred in the persecutions of Diocletian.
 searchAliases:

@@ -1,5 +1,6 @@
 ---
 name: Saint John Joseph of the Cross
+stub: false
 honorific: Saint
 summary: >-
   Joined Franciscans at age 16. Ascetic. First Italian to follow the reform movement of Saint Peter Alcantara who sought

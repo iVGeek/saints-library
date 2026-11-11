@@ -1,5 +1,6 @@
 ---
 name: Saint Castor of Apt
+stub: false
 honorific: Saint
 title: Bishop
 summary: >-

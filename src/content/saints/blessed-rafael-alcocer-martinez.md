@@ -1,5 +1,6 @@
 ---
 name: Blessed Rafael Alcocer Martínez
+stub: false
 honorific: Blessed
 summary: >-
   Benedictine monk, Solesmes Congregation. Priest. Popular speaker, and an expert in Arab studies. Martyred in the

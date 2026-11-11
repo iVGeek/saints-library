@@ -1,5 +1,6 @@
 ---
 name: Venerable Aldo Brienza
+stub: false
 honorific: Venerable
 summary: >-
   Discalced Carmelite brother. He bed-ridden for 50 years with osteomyelitis, a painful and debilitating bone infection;

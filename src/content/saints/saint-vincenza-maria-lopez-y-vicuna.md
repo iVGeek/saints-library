@@ -1,5 +1,6 @@
 ---
 name: Saint Vincenza María López y Vicuña
+stub: false
 honorific: Venerable
 summary: >-
   Daughter of a lawyer. Educated in Madrid, Spain. As a young woman she refused an arranged marriage and took a private

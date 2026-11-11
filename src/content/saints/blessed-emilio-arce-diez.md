@@ -1,5 +1,6 @@
 ---
 name: Blessed Emilio Arce Díez
+stub: false
 honorific: Blessed
 summary: >-
   Baptized at the age of 2 days. Salesian Brother, making his vows in Carabanchel Alto, Madrid, Spain on 16 July 1926.

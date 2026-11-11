@@ -1,5 +1,6 @@
 ---
 name: Saint Abundius of Syria
+stub: false
 honorific: Saint
 summary: >-
   Grandson of Saint Anastasius. Deacon. Migrated from Syria to Umbria, Italy where he was martyred in the persecutions

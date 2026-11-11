@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Valerian of Auxerre
+stub: true
 honorific: Saint
 title: Bishop
 summary: Third bishop of Auxerre, France. Fought Arianism.

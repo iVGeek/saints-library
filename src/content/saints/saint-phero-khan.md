@@ -1,5 +1,6 @@
 ---
 name: Saint Phêrô Khan
+stub: false
 honorific: Venerable
 summary: >-
   Priest in the apostolic vicariate of West Tonkin (in modern Vietnam). Imprisoned for six months in the persecutions of

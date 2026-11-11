@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Ebbe of Minster-in-Thanet
+stub: false
 honorific: Saint
 summary: >-
   Daughter of Prince Eormenred of Kent, England; grand-daughter of King Edbald. Sister of Saint Ermengitha, Saint

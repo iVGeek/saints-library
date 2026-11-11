@@ -1,5 +1,6 @@
 ---
 name: Blessed Mafalda of Portugal
+stub: false
 honorific: Blessed
 summary: >-
   Born a princess, the daughter of King Sancho I of Portugal. Sister of Saint Theresa of Portugal and Saint Sancha of

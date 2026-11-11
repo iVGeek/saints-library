@@ -1,5 +1,6 @@
 ---
 name: Saint Firminus the Younger
+stub: false
 honorific: Saint
 summary: >-
   His father, Faustinian, was prefect of imperial Roman Gaul and a convert, baptized by Saint Firminus of Amiens;

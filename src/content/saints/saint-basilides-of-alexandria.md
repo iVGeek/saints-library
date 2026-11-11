@@ -1,5 +1,6 @@
 ---
 name: Saint Basilides of Alexandria
+stub: false
 honorific: Saint
 summary: >-
   Pagan Roman soldier. Guard to the prefect of Egypt. Defended Saint Potomiana from the mob as she was being led to her

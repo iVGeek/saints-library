@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Hypatius
+stub: true
 honorific: Saint
 summary: Martyr.
 deathYear: 273

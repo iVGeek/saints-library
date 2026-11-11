@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Bobinus of Troyes
+stub: true
 honorific: Saint
 summary: Benedictine monk at Moulier-la-Celle. Bishop of Troyes, France in 760.
 deathYear: 766

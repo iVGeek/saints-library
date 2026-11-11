@@ -1,5 +1,6 @@
 ---
 name: Saint Theoctistus
+stub: false
 honorific: Saint
 summary: >-
   Basilian monk. Founded the Nicholas Abbey at the foot of Monte San Calogero near Cucumo, Sicily, and served as its

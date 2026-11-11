@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint James the Deacon
+stub: false
 honorific: Saint
 summary: Benedictine monk. Deacon. Missionary with Saint Paulinus of York to Northumbria, England.
 region: England

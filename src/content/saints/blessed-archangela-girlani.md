@@ -1,5 +1,6 @@
 ---
 name: Blessed Archangela Girlani
+stub: false
 honorific: Blessed
 summary: >-
   Drawn to religious life from an early age, Eleanor planned to become a Benedictine nun. However, when she left for the

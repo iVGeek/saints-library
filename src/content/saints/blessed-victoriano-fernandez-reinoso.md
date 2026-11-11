@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/0/08/Roma_martires_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Victoriano Fernández Reinoso
+stub: true
 honorific: Blessed
 summary: Cleric in the Salesians of Don Bosco. Martyred in the Spanish Civil War.
 birthYear: 1913

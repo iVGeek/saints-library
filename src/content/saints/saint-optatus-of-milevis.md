@@ -1,5 +1,6 @@
 ---
 name: Saint Optatus of Milevis
+stub: false
 honorific: Saint
 summary: >-
   Raised a pagan. Rhetorician. Convert to Christianity. Lived through the persecutions of Diocletian and Julian the

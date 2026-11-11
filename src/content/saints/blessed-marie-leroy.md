@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/b/b6/CLOCHER_2.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Marie Leroy
+stub: false
 honorific: Blessed
 summary: Lay woman of the diocese of Angers, France. Martyred in the persecutions of the French Revolution.
 birthYear: 1771

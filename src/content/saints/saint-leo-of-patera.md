@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/a/a3/Complaint_tablet_to_Ea-Nasir_2023.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Leo of Patera
+stub: false
 honorific: Saint
 summary: Martyred for protesting a pagan festival being held near the grave of Saint Paregorius.
 deathYear: 260

@@ -1,5 +1,6 @@
 ---
 name: Blessed Yusuf Nehme
+stub: true
 honorific: Blessed
 summary: Lebanese Maronite monk.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Yusuf-Nehme-1.jpg

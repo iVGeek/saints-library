@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/9/95/Processione_Sant%27Antioco_martire_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Antiochus of Lyons
+stub: false
 honorific: Saint
 summary: >-
   When Saint Justus of Lyon left France to become a hermit in Egypt, Father Antiochus was sent to talk him into coming

@@ -1,5 +1,6 @@
 ---
 name: Saint Procopius of Ceasarea
+stub: false
 honorific: Saint
 summary: >-
   Soldier in the imperial Roman army. Martyred in the persecutions of Diocletian for having declared himself a Christian

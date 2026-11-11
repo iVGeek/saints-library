@@ -1,5 +1,6 @@
 ---
 name: Blessed Rupert Mayer
+stub: false
 honorific: Blessed
 summary: >-
   Rupert grew up in a family with five children and received his basic education in Stuttgart, Germany. Feeling a call

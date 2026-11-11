@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/5/53/Guido_van_Arezzo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Andrew of Arezzo
+stub: false
 honorific: Saint
 summary: >-
   Married layman. Martyred in the persecutions of Valentian I along with his wife and children and 50 companions whose

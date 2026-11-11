@@ -1,5 +1,6 @@
 ---
 name: Blessed Marianna Biernacka
+stub: false
 honorific: Blessed
 summary: >-
   Lifelong lay woman in the diocese of Lomza, Poland. She had little education; she may have been able to read a little,

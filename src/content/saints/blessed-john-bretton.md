@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/6/60/Augustine_Abbey.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed John Bretton
+stub: false
 honorific: Blessed
 summary: Married layman. Father. Martyred in the persecutions of Queen Elizabeth I for remaining loyal to the Catholic Church.
 searchAliases:

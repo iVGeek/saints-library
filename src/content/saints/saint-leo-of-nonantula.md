@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/6/62/Abbazia_di_nonantola_00.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Leo of Nonantula
+stub: true
 honorific: Saint
 summary: Monk and later abbot of Nonantula Abbey near Modena, Italy.
 deathYear: 1000

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Genesius of Lyon
+stub: false
 honorific: Saint
 summary: >-
   Benedictine monk. Abbot of Fontenelle. Part of the court and camp of King Clovis II. Chief almoner to Queen Saint

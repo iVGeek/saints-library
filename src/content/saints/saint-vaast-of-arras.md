@@ -1,5 +1,6 @@
 ---
 name: Saint Vaast of Arras
+stub: false
 honorific: Saint
 summary: >-
   Hermit. Worked with Saint Remigius to convert the Franks. Priest. Instructed King Clovis in the faith. His miraculous

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Damian of Terracina
+stub: false
 honorific: Saint
 summary: >-
   Born to the imperial Roman nobility, Damian was raised a Christian and was known for his piety from his youth. When

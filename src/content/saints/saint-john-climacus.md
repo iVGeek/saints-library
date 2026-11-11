@@ -1,5 +1,6 @@
 ---
 name: Saint John Climacus
+stub: false
 honorific: Saint
 summary: >-
   Well educated and came to adulthood in a intellectual environment. Monk on Mount Sinai at age 16. Hermit in various

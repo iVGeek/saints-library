@@ -1,5 +1,6 @@
 ---
 name: Venerable Olinto Fedi
+stub: false
 honorific: Venerable
 summary: >-
   Priest in the archdiocese of Florence, Italy. He served at the parish of San Mauro a Signa in Florence for nearly 60

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint John of Pavia
+stub: false
 honorific: Saint
 summary: >-
   Ninth-century bishop of Pavia, Italy for 12 years. Noted for his care for the poor, his insistence on clerical

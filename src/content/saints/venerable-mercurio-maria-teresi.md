@@ -1,5 +1,6 @@
 ---
 name: Venerable Mercurio Maria Teresi
+stub: false
 honorific: Venerable
 summary: >-
   Ordained a priest of the diocese of Cefalù, Italy on 21 September 1765. Chosen archbishop of the archdiocese of

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/0/0d/St_ethelburga_bishopsgate.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed John Larke
+stub: false
 honorific: Blessed
 summary: >-
   Parish priest. Rector of Saint Ethelburga's, Bishopgate, London, England from 1504 to 1524. Rector of Woodford, Essex

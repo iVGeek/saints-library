@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/a/a0/Eauze_Gers_11_church.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Aspasius of Auch
+stub: false
 honorific: Saint
 title: Bishop
 summary: >-

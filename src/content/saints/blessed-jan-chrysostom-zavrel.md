@@ -1,5 +1,6 @@
 ---
 name: Blessed Jan Chrysostom Zavrel
+stub: false
 honorific: Blessed
 summary: >-
   Dominican friar and priest in the Congregation of Saint Sabina in Prague (in modern Czech Republic) with the name

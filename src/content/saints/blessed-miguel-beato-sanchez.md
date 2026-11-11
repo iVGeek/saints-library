@@ -1,5 +1,6 @@
 ---
 name: Blessed Miguel Beato Sánchez
+stub: true
 honorific: Blessed
 summary: Priest in the archdiocese of Toledo, Spain. Martyred in the Spanish Civil War.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Miguel-Beato-Sánchez.jpg

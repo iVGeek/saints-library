@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Liminius of Auvergne
+stub: false
 honorific: Saint
 summary: >-
   Companion of Saint Antholian of Auvergne. Martyred by pagan Alamanni under the leadership of Chrocus during their

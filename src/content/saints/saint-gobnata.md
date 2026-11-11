@@ -1,5 +1,6 @@
 ---
 name: Saint Gobnata
+stub: false
 honorific: Saint
 summary: >-
   Sixth century abbess of a convent at in Ballyvourney, Ireland. A holy well there that is named for her still exists.

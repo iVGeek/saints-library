@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Gundenis of Carthage
+stub: true
 honorific: Saint
 summary: Maiden martyred in the persecutions of Septimus Severus.
 searchAliases:

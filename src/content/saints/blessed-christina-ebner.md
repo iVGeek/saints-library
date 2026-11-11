@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/6/6d/Margareta_Ebner_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Christina Ebner
+stub: false
 honorific: Blessed
 summary: >-
   Daughter of Seyfried Ebner and Elizabeth Kuhdorf. Entered the Dominican monastery of Saint John the Baptist in

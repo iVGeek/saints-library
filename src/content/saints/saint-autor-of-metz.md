@@ -1,5 +1,6 @@
 ---
 name: Saint Autor of Metz
+stub: false
 honorific: Saint
 summary: >-
   Tradition says that Autor was a cobbler, known in the city of Metz, France for his holiness. When Bishop Valerius was

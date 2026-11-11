@@ -1,5 +1,6 @@
 ---
 name: Blessed Frances Martel
+stub: false
 honorific: Blessed
 summary: >-
   Mercedarian sister. Founded the monastery of the Assumption in Seville, Spain. Known for her personal piety and deep

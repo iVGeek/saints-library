@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Micae Nguyen Huy My
+stub: false
 honorific: Venerable
 summary: Lifelong layman in the apostolic vicariate of West Tonkin. One of the Martyrs of Vietnam.
 birthYear: 1804

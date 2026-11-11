@@ -1,5 +1,6 @@
 ---
 name: Saint Pepin of Landen
+stub: false
 honorific: Saint
 summary: >-
   Duke of Brabant. Married to Saint Ida of Nivelles. Father of Saint Gertrude of Nivelles and Saint Begga of Ardenne.

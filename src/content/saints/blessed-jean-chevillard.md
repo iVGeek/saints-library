@@ -1,5 +1,6 @@
 ---
 name: Blessed Jean Chevillard
+stub: false
 honorific: Blessed
 summary: >-
   Member of the Missionaries of Africa, making his vows on 29 June 1949. Ordained a priest in Carthage, Tunisia on 1

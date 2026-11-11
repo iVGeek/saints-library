@@ -1,5 +1,6 @@
 ---
 name: Saint Raymond of Barbastro
+stub: false
 honorific: Saint
 summary: >-
   Augustinian canon regular at the monastery of Saint-Antonin de Frédélas in Pamiers, France. Prior of the monastery of

@@ -1,5 +1,6 @@
 ---
 name: Blessed Jaume Puig Mirosa
+stub: false
 honorific: Blessed
 summary: >-
   Priest. Member of the Sons of the Holy Family. Superior of his Order and Director of Colegio Santa María de Blanes in

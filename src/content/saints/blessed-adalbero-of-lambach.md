@@ -1,5 +1,6 @@
 ---
 name: Blessed Adalbero of Lambach
+stub: false
 honorific: Blessed
 summary: >-
   Son of Count Arnold II of Lambach, Austria and Countess Reginlint. Studied in the cathedral school at Würzburg,

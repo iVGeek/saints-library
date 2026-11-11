@@ -1,5 +1,6 @@
 ---
 name: Saint Angela of Foligno
+stub: false
 honorific: Saint
 summary: >-
   Born to a wealthy non-Christian family. She married young, and was the mother of several children. Angela lived a

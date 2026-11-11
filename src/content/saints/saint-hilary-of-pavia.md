@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Hilary of Pavia
+stub: true
 honorific: Saint
 title: Bishop
 summary: Bishop of Pavia in northern Italy. Fought Arianism.

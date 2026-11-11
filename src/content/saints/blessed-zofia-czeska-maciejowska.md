@@ -1,5 +1,6 @@
 ---
 name: Blessed Zofia Czeska-Maciejowska
+stub: false
 honorific: Blessed
 summary: >-
   Married young, and widowed young. Founded the Sisters of the Presentation of the Blessed Virgin Mary, dedicated to

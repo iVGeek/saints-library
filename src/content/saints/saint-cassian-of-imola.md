@@ -1,5 +1,6 @@
 ---
 name: Saint Cassian of Imola
+stub: false
 honorific: Saint
 summary: >-
   Schoolmaster at Imola, Italy who taught hand-writing, and sometimes talked about Christianity. During one of the

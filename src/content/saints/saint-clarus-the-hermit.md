@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Clarus the Hermit
+stub: false
 honorific: Saint
 summary: >-
   Born to the English nobility. Priest. Hermit near Rouen, France. Martyr. The village where he was murdered is named

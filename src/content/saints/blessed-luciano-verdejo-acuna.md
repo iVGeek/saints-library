@@ -1,6 +1,7 @@
 ---
 image: https://www.santiebeati.it/immagini/Thumbs/97296/97296.jpg
 name: Blessed Luciano Verdejo Acuña
+stub: false
 honorific: Blessed
 summary: Married layman in the diocese of Almeria, Spain. Martyred in the Spanish Civil War.
 birthYear: 1885

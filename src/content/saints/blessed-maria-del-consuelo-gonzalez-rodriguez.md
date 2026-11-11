@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/3/30/PaniquiChurchjf5479_07.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed María del Consuelo González Rodríguez
+stub: false
 honorific: Blessed
 summary: Sister in the Daughters of the Patronage of Mary. Martyred in the Spanish Civil War.
 searchAliases:

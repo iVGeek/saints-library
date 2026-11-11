@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Arborius of Verona
+stub: true
 honorific: Saint
 summary: 29th bishop of the diocese of Verona, Italy.
 searchAliases:

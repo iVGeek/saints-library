@@ -1,5 +1,6 @@
 ---
 name: Saint Kenneth of Wales
+stub: false
 image: https://upload.wikimedia.org/wikipedia/commons/f/f1/Kenneth_Morris.png
 honorific: Saint
 summary: >-

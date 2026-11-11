@@ -1,5 +1,6 @@
 ---
 name: Saint Amandus of Avignon
+stub: true
 honorific: Saint
 summary: Bishop of Avignon, France.
 searchAliases:

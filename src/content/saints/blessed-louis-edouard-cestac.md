@@ -1,5 +1,6 @@
 ---
 name: Blessed Louis-Édouard Cestac
+stub: false
 honorific: Blessed
 summary: >-
   As a child, he suffered from neuralgia, and was unable to speak for three years; he was healed after his mother

@@ -1,5 +1,6 @@
 ---
 name: Blessed Francisco de Paula Victor
+stub: false
 honorific: Blessed
 summary: >-
   Born a slave and trained as a tailor. He early felt a call to the priesthood, but, being a slave, had to have special

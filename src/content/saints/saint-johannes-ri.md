@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Johannes Ri
+stub: true
 honorific: Saint
 summary: Lay man. Martyr. A letter he wrote from prison has survived.
 searchAliases:

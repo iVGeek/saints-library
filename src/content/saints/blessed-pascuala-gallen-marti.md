@@ -1,5 +1,6 @@
 ---
 name: Blessed Pascuala Gallén Martí
+stub: false
 honorific: Blessed
 summary: >-
   Born to a pious family - she and her three sisters all became nuns. Pascuala joined the Sisters of the Pious Schools

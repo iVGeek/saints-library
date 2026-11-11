@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/4f/Frm_beatification_banner.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Armand-Anne-Auguste-Antonin-Sicaire Chapt de Rastignac
+stub: true
 honorific: Blessed
 summary: Priest in the diocese of Orléans, France. One of the Martyrs of September.
 birthYear: 1727

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/b/b2/Saint_Mochta%27s_%27House%27%2C_an_ancient_church.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Mochta of Louth
+stub: false
 honorific: Saint
 summary: Spiritual student of Saint Patrick. Monk. Founded the monastery of Louth, Ireland. Bishop of Louth.
 searchAliases:

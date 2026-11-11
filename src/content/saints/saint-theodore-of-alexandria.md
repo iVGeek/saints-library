@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Theodore of Alexandria
+stub: true
 honorific: Saint
 summary: Patriarch of Alexandria, Egypt. Martyr.
 deathYear: 609

@@ -1,5 +1,6 @@
 ---
 name: Blessed Wladyslaw Maczkowski
+stub: false
 honorific: Blessed
 summary: >-
   Priest in the Archdiocese of Gniezno, Poland, serving in the parish of Lubowo. Arrested on 26 August 1940 by occupying

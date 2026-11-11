@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Peter of Tomi
+stub: false
 honorific: Saint
 summary: Soldier. One of group of 17 Christians imprisoned and excuted for their faith during the persecutions of Diocletian.
 died: tied to a stake and burned alive; he emerged unharmed

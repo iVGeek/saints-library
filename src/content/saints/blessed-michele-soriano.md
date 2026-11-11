@@ -1,5 +1,6 @@
 ---
 name: Blessed Michele Soriano
+stub: false
 honorific: Blessed
 summary: >-
   Mercedarian friar at the convent of Santa Maria degli Angeli in El Puig, Spain, known for his extreme piety, penance

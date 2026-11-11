@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Thomas-Nicolas Dubray
+stub: false
 honorific: Blessed
 summary: >-
   Sulpician priest. Sacristan priest of the parish of Saint Sulpicius, ministering and supporting the parish poor. In

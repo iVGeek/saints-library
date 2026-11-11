@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Vicente Burrel Enjuanes
+stub: false
 honorific: Blessed
 summary: Benedictine monk in the Solesmes Congregation. Martyred in the Spanish Civil War.
 birthYear: 1896

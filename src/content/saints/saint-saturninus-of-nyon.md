@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Saturninus of Nyon
+stub: true
 honorific: Saint
 summary: Martyred for refusing to sacrifice to imperial Roman idols.
 searchAliases:

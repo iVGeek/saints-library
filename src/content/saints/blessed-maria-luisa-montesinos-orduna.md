@@ -1,5 +1,6 @@
 ---
 name: Blessed María Luisa Montesinos Orduña
+stub: false
 honorific: Blessed
 summary: >-
   Baptized at the age of two days, and Confirmed on 18 March 1907 at the parish of Saint Andrew the Apostle.

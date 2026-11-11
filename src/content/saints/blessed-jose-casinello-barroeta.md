@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed José Casinello Barroeta
+stub: false
 honorific: Blessed
 summary: Married layman of the diocese of Almería, Spain. Martyred in the Spanish Civil War.
 birthYear: 1895

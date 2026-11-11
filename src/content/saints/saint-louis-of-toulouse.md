@@ -1,5 +1,6 @@
 ---
 name: Saint Louis of Toulouse
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility, the son of Charles II of Anjou, king of Naples. Great-nephew of Saint Louis IX, and of Saint

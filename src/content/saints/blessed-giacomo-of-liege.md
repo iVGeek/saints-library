@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Giacomo of Liège
+stub: false
 honorific: Blessed
 summary: >-
   Cistercian monk at the Valley of Saint Lambert monastery in the diocese of Liège, Belgium. We have no details of his

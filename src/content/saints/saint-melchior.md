@@ -1,5 +1,6 @@
 ---
 name: Saint Melchior
+stub: true
 honorific: Saint
 summary: One of the Three Magi.
 image: https://catholicsaints.info/wp-content/uploads/img-Feast-of-the-Epiphany.jpg

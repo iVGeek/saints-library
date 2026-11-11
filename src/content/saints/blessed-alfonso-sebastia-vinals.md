@@ -1,5 +1,6 @@
 ---
 name: Blessed Alfonso Sebastiá Viñals
+stub: false
 honorific: Blessed
 summary: >-
   Priest in the archdiocese of Valencia, Spain. Superintendant of public schools in Valencia. Martyred in the Spanish

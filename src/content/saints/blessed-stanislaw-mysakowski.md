@@ -1,5 +1,6 @@
 ---
 name: Blessed Stanislaw Mysakowski
+stub: false
 honorific: Blessed
 summary: >-
   Priest in the archdiocese of Lublin, Poland. He served as a catechist and developed a personal ministry to the poor,

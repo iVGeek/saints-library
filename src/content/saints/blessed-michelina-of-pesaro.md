@@ -1,5 +1,6 @@
 ---
 name: Blessed Michelina of Pesaro
+stub: false
 honorific: Blessed
 summary: >-
   Born to the wealthy Italian nobility, at age twelve Michelina was given in an arranged marriage to Duke Malatesta, the

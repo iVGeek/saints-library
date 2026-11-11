@@ -1,5 +1,6 @@
 ---
 name: Saint Stephen of Muret
+stub: false
 honorific: Saint
 summary: >-
   Educated at Benevento, Italy from age 12 by Archbishop Blessed Milo of Benevento. Founder of the Benedictine house of

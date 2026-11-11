@@ -1,5 +1,6 @@
 ---
 name: Blessed Maria Gabriella Sagheddu
+stub: false
 honorific: Blessed
 summary: >-
   Born to a family of shepherds. As a child she was described as obstinate, critical, protesting, and rebellious - but

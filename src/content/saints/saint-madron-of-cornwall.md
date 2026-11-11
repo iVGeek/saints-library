@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Madron of Cornwall
+stub: false
 honorific: Saint
 summary: >-
   Monk and hermit. Cures worked at Saint Madron's Church, Cornwall, England. Honoured in Brittany. Like many holy people

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Beatrix of Cappenberg
+stub: false
 honorific: Blessed
 summary: >-
   Born to the nobility, she was Countess of Cappenberg in modern Germany. Sister of Blessed Godfrey of Cappenberg and

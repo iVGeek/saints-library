@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Hippolytus of Africa
+stub: true
 honorific: Saint
 summary: Martyr. No further information has survived.
 region: England

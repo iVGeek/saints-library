@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Julius of Gelduba
+stub: true
 honorific: Saint
 summary: Martyr. No other information has survived.
 searchAliases:

@@ -1,5 +1,6 @@
 ---
 name: Saint Paulinus of Trier
+stub: false
 honorific: Saint
 summary: >-
   Missionary to Germany where he worked with Saint Maximinus in the area of Trier. Bishop of Trier in 349. Strongly

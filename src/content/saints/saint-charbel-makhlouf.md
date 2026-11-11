@@ -1,5 +1,6 @@
 ---
 name: Saint Charbel Makhlouf
+stub: false
 honorific: Venerable
 summary: >-
   Son of a mule driver. Raised by an uncle who opposed the boy's youthful piety. The boy's favorite book was Thomas a

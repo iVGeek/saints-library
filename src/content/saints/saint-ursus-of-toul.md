@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Ursus of Toul
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Toul, Gallia Belgica (in modern France) c.490. Assigned Saint Vaast of Arras to bring Clovis I, king of the

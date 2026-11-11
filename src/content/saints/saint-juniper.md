@@ -1,5 +1,6 @@
 ---
 name: Saint Juniper
+stub: false
 honorific: Saint
 summary: >-
   One of the earliest Franciscan friars, received into the order by Francis himself. He travelled extensively,

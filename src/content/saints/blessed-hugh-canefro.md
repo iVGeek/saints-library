@@ -1,5 +1,6 @@
 ---
 name: Blessed Hugh Canefro
+stub: false
 honorific: Blessed
 summary: >-
   Born to the Italian nobility. Fought in the Third Crusade. Member of the Knights of Malta. Assigned to the Saint John

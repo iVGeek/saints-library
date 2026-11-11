@@ -1,5 +1,6 @@
 ---
 name: Blessed Augustine Gazotich
+stub: false
 honorific: Blessed
 summary: >-
   Joined the Domnicans at age 29. Missionary to the Slavs and Hungarians. Bishop of Zagreb, Croatia in 1303. Bishop of

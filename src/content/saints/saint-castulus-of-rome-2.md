@@ -1,5 +1,6 @@
 ---
 name: Saint Castulus of Rome
+stub: true
 honorific: Saint
 summary: Martyred in Rome, Italy. No other information has survived.
 region: Italy

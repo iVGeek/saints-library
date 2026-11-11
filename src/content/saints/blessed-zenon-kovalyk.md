@@ -1,5 +1,6 @@
 ---
 name: Blessed Zenon Kovalyk
+stub: false
 honorific: Blessed
 summary: >-
   Greek Catholic. Redemptorist, making his vows on 28 August 1926. Studied philosophy and theology in Belgium. Ordained

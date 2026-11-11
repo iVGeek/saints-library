@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Marcus of Nicaea
+stub: true
 honorific: Saint
 summary: Martyr.
 searchAliases:

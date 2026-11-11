@@ -1,5 +1,6 @@
 ---
 name: Saint Afra of Augsburg
+stub: false
 honorific: Saint
 summary: >-
   A prostitute in Augsburg, Germany. During the Diocletian persecutions, c.303, she and her mother Hilaria hid their

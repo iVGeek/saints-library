@@ -1,5 +1,6 @@
 ---
 name: Blessed Georges-Edme René
+stub: false
 honorific: Blessed
 summary: >-
   Son of a lawyer. Priest in the archdiocese of Sens, France. Canon of Vezelay, France. Imprisoned on a ship in the

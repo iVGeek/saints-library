@@ -1,5 +1,6 @@
 ---
 name: Saint Sophia of Rome
+stub: true
 honorific: Saint
 summary: Young woman martyred in the persecutions of Diocletian.
 searchAliases:

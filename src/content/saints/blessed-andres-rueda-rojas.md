@@ -1,5 +1,6 @@
 ---
 name: Blessed Andrés Rueda Rojas
+stub: true
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Andr%C3%A9s_Chenier_-_drama_hist%C3%B3rico_en_cuatro_actos%2C_y_en_verso_%28IA_andrschenierdram02dazj%29.pdf/page1-960px-Andr%C3%A9s_Chenier_-_drama_hist%C3%B3rico_en_cuatro_actos%2C_y_en_verso_%28IA_andrschenierdram02dazj%29.pdf.jpg
 honorific: Blessed

@@ -1,5 +1,6 @@
 ---
 name: Venerable Clovis Veuthey
+stub: false
 honorific: Venerable
 summary: >-
   Professed priest of the Order of Friars Minor Conventual. Writer on Franciscan philosophy, theology and spirituality.

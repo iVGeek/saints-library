@@ -1,5 +1,6 @@
 ---
 name: Blessed Michele Pío Fasoli
+stub: false
 honorific: Blessed
 summary: >-
   Franciscan priest. Missionary to Ethiopia. In 1716 the emperor declared a persecution of Christians. Father Michele

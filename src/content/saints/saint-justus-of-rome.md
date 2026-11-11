@@ -1,5 +1,6 @@
 ---
 name: Saint Justus of Rome
+stub: true
 image: >-
   https://commons.wikimedia.org/wiki/Special:FilePath/1850_Justus_Perthes_Map_of_Italy_-_Geographicus_-_Italy-perthes-50.jpg?width=600
 honorific: Saint

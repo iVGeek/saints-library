@@ -1,5 +1,6 @@
 ---
 name: Saint Felix of Campania
+stub: true
 honorific: Saint
 summary: Marytred in the persecutions of Diocletian. No other information has survived.
 deathYear: 284

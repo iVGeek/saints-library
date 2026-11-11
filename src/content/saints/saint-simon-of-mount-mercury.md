@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Simon of Mount Mercury
+stub: false
 honorific: Saint
 summary: >-
   Tenth century monk in Calabria, Italy. Abbot. He travelled to North Africa to obtain the relesae of some monks held

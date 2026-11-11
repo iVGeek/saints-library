@@ -1,5 +1,6 @@
 ---
 name: Saint Ciriaco of Rome
+stub: true
 honorific: Saint
 summary: Martyr.
 died: at the 7 mile marker, on the Via Ostia, Rome, Italy

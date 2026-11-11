@@ -1,5 +1,6 @@
 ---
 name: Blessed Epifanio Sierra Conde
+stub: false
 honorific: Blessed
 summary: >-
   Passionist brother, joining on 17 September 1934 and making his profession on 23 October 1935. Martyred in the Spanish

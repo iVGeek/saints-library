@@ -1,6 +1,7 @@
 ---
 image: https://www.santiebeati.it/immagini/Thumbs/91040/91040.JPG
 name: Saint Lupercilla
+stub: false
 honorific: Saint
 summary: >-
   Born to the 3rd century Roman nobility, Lupercilla was martyred at age 7 or 8 with all 42 members of her family in the

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Elidan
+stub: true
 honorific: Saint
 summary: Nun in Llangurig, Denbigshire, Wales.
 searchAliases:

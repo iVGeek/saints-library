@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Eusebius of Murano
+stub: false
 honorific: Blessed
 summary: >-
   Born to the Spanish nobility, he became ambassador from the Spanish throne to the Republic of Venice (in modern

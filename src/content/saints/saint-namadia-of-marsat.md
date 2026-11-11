@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Namadia of Marsat
+stub: true
 honorific: Saint
 summary: Married to Saint Calminius. Widow. Nun at Marsat, France.
 deathYear: 700

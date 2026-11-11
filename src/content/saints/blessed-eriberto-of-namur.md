@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Eriberto of Namur
+stub: true
 honorific: Blessed
 summary: The details of this person's life have been lost.
 died: relics enshrined in a Marian chapel in the Saint Alban cathedral in Bois-Vlilliers, Namur, Belgium

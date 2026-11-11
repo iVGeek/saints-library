@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Crescens of Rome
+stub: true
 honorific: Saint
 summary: Martyr.
 deathYear: 244

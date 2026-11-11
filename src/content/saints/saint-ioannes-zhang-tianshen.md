@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Ioannes Zhang Tianshen
+stub: false
 honorific: Venerable
 summary: Married layman in the apostolic vicariate of Guizhou, China. Convert. Catechist. Martyr.
 searchAliases:

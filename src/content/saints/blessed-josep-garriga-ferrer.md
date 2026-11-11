@@ -1,5 +1,6 @@
 ---
 name: Blessed Josep Garriga Ferrer
+stub: false
 honorific: Blessed
 summary: Priest of the archdiocese of Tarragona, Spain. Martyed in the Spanish Civil War.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Josep-Garriga-Ferrer.jpg

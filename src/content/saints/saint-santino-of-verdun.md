@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Santino of Verdun
+stub: true
 honorific: Saint
 summary: Missionary bishop in Verdun, France.
 region: France

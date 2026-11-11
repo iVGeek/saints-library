@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/9/96/St_Irminen_18.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Modesta of Trier
+stub: false
 honorific: Saint
 summary: >-
   Niece of Saint Modoald of Trier. Benedictine. First abbess of the convent of Oehren, Trier, Germany, appointed by

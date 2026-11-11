@@ -1,5 +1,6 @@
 ---
 name: Blessed Giuseppe Antonio Migliavacca
+stub: false
 honorific: Blessed
 summary: >-
   The fifth of twelve children born to Glicerio Migliavacca and Annunziata Strumia. Giuseppe entered the diocesan

@@ -1,5 +1,6 @@
 ---
 name: Saint Andochius of Autun
+stub: false
 image: https://commons.wikimedia.org/wiki/Special:FilePath/Saint_Andoche_Saint_Thyrse_gr_Alleaume.jpg?width=600
 honorific: Saint
 summary: >-

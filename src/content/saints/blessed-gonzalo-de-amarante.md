@@ -1,5 +1,6 @@
 ---
 name: Blessed Gonzalo de Amarante
+stub: false
 honorific: Blessed
 summary: >-
   Born to a wealthy, high-ranking family. Upon his ordination, he transferred his great wealth to his nephews, and spent

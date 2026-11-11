@@ -1,5 +1,6 @@
 ---
 name: Venerable Mariacristina Cella Mocellin
+stub: false
 honorific: Venerable
 summary: >-
   Young woman in the diocese of Padua, Italy. She served as a catechist at her parish in Cinisello Balsamo, Italy,

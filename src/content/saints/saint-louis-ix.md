@@ -1,5 +1,6 @@
 ---
 name: Saint Louis IX
+stub: false
 honorific: Saint
 summary: >-
   Son of King Louis VIII and Blanche of Castile. King of France and Count of Artois at age eleven; his mother ruled as

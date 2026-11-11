@@ -1,5 +1,6 @@
 ---
 name: Saint Lukka Baanabakintu
+stub: false
 honorific: Venerable
 summary: Mmamba clan. Convert. One of the Martyrs of Uganda who died in the Mwangan persecutions.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Lukka-Baanabakintu.jpg

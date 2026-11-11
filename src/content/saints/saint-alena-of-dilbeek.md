@@ -1,5 +1,6 @@
 ---
 name: Saint Alena of Dilbeek
+stub: false
 honorific: Saint
 summary: Raised in a pagan family, Alena converted and was baptised in secret. Murdered while trying to secretly go to Mass.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Alena-of-Dilbeek.jpg

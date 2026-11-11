@@ -1,5 +1,6 @@
 ---
 name: Saint Opportuna of Montreuil
+stub: false
 honorific: Saint
 summary: >-
   Sister of Saint Chrodegang of Séez. Niece of Saint Lanthilda. Benedictine nun and abbess at the convent near

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Crescentia Anazawa
+stub: false
 honorific: Blessed
 summary: Lifelong lay woman in the diocese of Niigata, Japan. Married to Blessed Antonius Anazawa Han'emon. Martyr.
 deathYear: 1629

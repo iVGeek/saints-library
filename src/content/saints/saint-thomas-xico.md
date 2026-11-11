@@ -1,5 +1,6 @@
 ---
 name: Saint Thomas Xico
+stub: false
 honorific: Saint
 summary: >-
   Pharmacist with a violent disposition. Prayer and faith eventually mellowed him, and he became a kind-hearted

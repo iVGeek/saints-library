@@ -1,5 +1,6 @@
 ---
 name: Blessed Didak Jan
+stub: false
 honorific: Blessed
 summary: Franciscan Friar Minor lay brother. Tailor. One of the Martyrs of Prague, killed by a Lutheran mob.
 image: https://catholicsaints.info/wp-content/uploads/blessed-didak-jan.jpg

@@ -1,5 +1,6 @@
 ---
 name: Saint Maginus
+stub: false
 honorific: Saint
 summary: Evangelized in the area of Tarragona, Spain. Martyred in the persecutions of Diocletian.
 image: >-

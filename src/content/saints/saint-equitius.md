@@ -1,5 +1,6 @@
 ---
 name: Saint Equitius of Valeria
+stub: false
 honorific: Saint
 summary: >-
   Spiritual student of Saint Benedict of Nursia. Benedictine monk. Worked to spread monasticism throughout Italy,

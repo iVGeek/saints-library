@@ -1,5 +1,6 @@
 ---
 name: Saint Benignus of Dijon
+stub: false
 honorific: Saint
 summary: >-
   Missionary to the areas of Marseilles, Autun, and Dijon in France, sent by Saint Polycarp of Smyrna. Martyred in the

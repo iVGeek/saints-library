@@ -1,5 +1,6 @@
 ---
 name: Saint Gladys
+stub: false
 honorific: Saint
 summary: >-
   Daughter of Saint Brychan of Brecknock. When Saint Gwynllyw asked for her hand in marriage, Brychan refused. Gwynllyw

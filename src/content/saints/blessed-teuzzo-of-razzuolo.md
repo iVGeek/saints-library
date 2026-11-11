@@ -1,6 +1,7 @@
 ---
 image: https://www.santiebeati.it/immagini/Thumbs/99469/99469.jpg
 name: Blessed Teuzzo of Razzuolo
+stub: false
 honorific: Blessed
 summary: >-
   An early spiritual student of Saint Giovanni Gualberto, Teuzzo became a Benedictine monk at the monastery in

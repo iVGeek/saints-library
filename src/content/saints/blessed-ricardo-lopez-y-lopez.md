@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/c/ca/JuandePalafoxyMendoza.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Ricardo López y López
+stub: true
 honorific: Blessed
 summary: Dominican friar. Martyred in the Spanish Civil War.
 birthYear: 1914

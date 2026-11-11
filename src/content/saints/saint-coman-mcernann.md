@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Coman McErnann
+stub: false
 honorific: Saint
 summary: >-
   Brother of Saint Beccan and Saint Communian. Monk of the abbey of Iona where he was the spiritual student of Saint

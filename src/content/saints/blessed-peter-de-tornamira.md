@@ -1,5 +1,6 @@
 ---
 name: Blessed Peter de Tornamira
+stub: false
 honorific: Blessed
 title: Missionary
 summary: >-

@@ -1,5 +1,6 @@
 ---
 name: Saint Honoratus of Fondi
+stub: false
 honorific: Saint
 summary: >-
   Sixth century Benedictine monk. Founder and abbot of the monastery at Fondi, southern Italy. Pope Saint Gregory the

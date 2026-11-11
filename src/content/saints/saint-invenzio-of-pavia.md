@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Invenzio of Pavia
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Pavia, Italy from 381 to 397, chosen for the see by Saint Ambrose of Milan. Attended the Council of Aquileia

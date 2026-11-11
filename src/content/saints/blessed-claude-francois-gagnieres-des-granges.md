@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/4f/Frm_beatification_banner.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Claude-François Gagnières des Granges
+stub: true
 honorific: Blessed
 summary: Jesuit priest. One of the Martyrs of September.
 birthYear: 1722

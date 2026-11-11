@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Felix of Thyniss
+stub: false
 honorific: Saint
 summary: >-
   Arrested for his faith, he was found dead in prison the day before for his scheduled execution. No other information

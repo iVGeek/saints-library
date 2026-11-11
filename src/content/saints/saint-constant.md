@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Constant
+stub: true
 honorific: Saint
 summary: Priest. Hermit at Lough Erne. Martyr.
 deathYear: 777

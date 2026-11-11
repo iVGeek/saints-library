@@ -1,5 +1,6 @@
 ---
 name: Blessed Carlo Acutis
+stub: false
 honorific: Blessed
 summary: >-
   Teenaged layman in the archdiocese of Milan, Italy known for creating a series of websites devoted to Church-related

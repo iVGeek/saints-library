@@ -1,5 +1,6 @@
 ---
 name: Venerable Joseph-Amand Passerat
+stub: false
 honorific: Venerable
 summary: >-
   While a seminarian, Joseph was drafted into the army at age 16. Soldier from 1788 to 1792, serving as drum-major and

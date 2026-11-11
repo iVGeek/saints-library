@@ -1,5 +1,6 @@
 ---
 name: Blessed Bertold of Mount Carmel
+stub: false
 honorific: Blessed
 summary: >-
   Soldier who fought in the Crusades and was in Antioch during its siege by Saracens. Following a vision of Christ,

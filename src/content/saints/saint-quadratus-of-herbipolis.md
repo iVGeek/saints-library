@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Quadratus of Herbipolis
+stub: false
 honorific: Saint
 summary: Imprisoned for several years and then martyred for his faith in the persecutions of Valerian.
 deathYear: 257

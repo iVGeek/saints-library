@@ -1,5 +1,6 @@
 ---
 name: Saint Tydecho
+stub: false
 honorific: Saint
 summary: >-
   Brother of Saint Cadfan. Probably lived as a hermit. Several Welsh churches are named for him. No other information

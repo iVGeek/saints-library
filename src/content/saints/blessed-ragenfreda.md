@@ -1,5 +1,6 @@
 ---
 name: Blessed Ragenfreda
+stub: false
 honorific: Blessed
 summary: >-
   Born to the nobility, the daughter of Blessed Adalbert and Blessed Reine, the count and countess of Hainaut (in modern

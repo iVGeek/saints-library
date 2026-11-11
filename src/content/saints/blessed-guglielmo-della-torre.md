@@ -1,5 +1,6 @@
 ---
 name: Blessed Guglielmo della Torre
+stub: false
 honorific: Blessed
 summary: >-
   Born to the Swiss nobility, the son of Ruggero and Adilia. Priest. Canon of the cathedral of Como, Italy. Bishop of

@@ -1,5 +1,6 @@
 ---
 name: Saint Prudentius of Tarazona
+stub: false
 honorific: Saint
 summary: >-
   Cave hermit at age 15, and the spiritual student of another hermit near Osma, Old Castille, Spain. At age 22 he began

@@ -1,5 +1,6 @@
 ---
 name: Blessed Plàcid Fàbrega Julià
+stub: false
 honorific: Blessed
 summary: >-
   Son of Pablo and Maria Julià. Like his older brother before him, Plàcid joined the Marist Brothers of the Schools as a

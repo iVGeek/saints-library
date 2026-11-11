@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Timothy of Rome
+stub: false
 honorific: Saint
 summary: Martyr. Mentioned by Pope Pius I in a letter to the bishop of Vienne, Gaul. No other information has survived.
 region: Italy

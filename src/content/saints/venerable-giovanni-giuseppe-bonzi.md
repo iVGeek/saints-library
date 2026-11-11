@@ -1,5 +1,6 @@
 ---
 name: Venerable Giovanni Giuseppe Bonzi
+stub: false
 honorific: Venerable
 summary: >-
   Licensed as a banker, as a young adult Giovanni worked at the Credito Italiano and at the Cassa di Risparmio banks in

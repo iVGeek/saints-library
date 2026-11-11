@@ -1,5 +1,6 @@
 ---
 name: Saint Alkeld the Martyr
+stub: true
 honorific: Saint
 summary: Martyred by Danes. Two churches in Yorkshire, England are dedicated to her.
 searchAliases:

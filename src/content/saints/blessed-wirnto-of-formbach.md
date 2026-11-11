@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/4b/Furth_bei_G%C3%B6ttweig_-_Stift_G%C3%B6ttweig_%28a%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Wirnto of Formbach
+stub: false
 honorific: Blessed
 summary: >-
   Benedictine monk at the Saint Blase monastery in the Black Forest in Germany. Prior of Göttweig monastery in Austria.

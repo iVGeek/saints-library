@@ -1,5 +1,6 @@
 ---
 name: Blessed Augustus Czartoryski
+stub: false
 honorific: Blessed
 summary: >-
   Oldest child of Prince Ladislaus and Princess Maria Amparo, daughter of the Queen of Spain; the couple had settled in

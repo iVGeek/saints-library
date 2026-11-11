@@ -1,5 +1,6 @@
 ---
 name: Blessed Lazare Tiersot
+stub: false
 honorific: Blessed
 summary: >-
   Joined the Carthusians on 18 December 1769 at the monastery of Fontenay, France. Priest. Served as vicar of his house

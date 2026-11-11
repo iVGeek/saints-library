@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Octavian of Savona
+stub: false
 honorific: Blessed
 summary: >-
   Brother of Pope Saint Callistus II. Educated by Benedictines. Benedictine monk at Saint Peter's abbey at Pavia, Italy.

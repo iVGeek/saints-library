@@ -1,5 +1,6 @@
 ---
 name: Blessed Ludovicus Yakichi
+stub: false
 honorific: Blessed
 summary: >-
   Layman in the archdiocese of Nagasaki, Japan. Married to Blessed Lucia Yakichi; father of Blessed Andreas Yakichi and

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Maximinus of Antioch
+stub: false
 honorific: Saint
 summary: >-
   Member of the imperial guard of Julian the Apostate. When Julian issued orders prohibiting the veneration of the

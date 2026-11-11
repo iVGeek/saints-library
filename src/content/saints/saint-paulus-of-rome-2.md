@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/0/03/Vatican_City_%28St._Peter_Square%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Paulus of Rome
+stub: false
 honorific: Saint
 summary: One of a group of 226 Christians martyred in Rome, Italy, date unknown; no details of their lives have survived.
 region: Italy

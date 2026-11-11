@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Florentín Pérez Romero
+stub: false
 honorific: Blessed
 summary: >-
   Member of the Capuchin Tertiary Fathers and Brothers of Our Lady of Sorrows. Priest. Martyred in the Spanish Civil

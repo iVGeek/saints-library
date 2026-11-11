@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/2/23/ADurerWoodwoses1499.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Eberhard of Schäftlarn
+stub: false
 honorific: Blessed
 summary: >-
   Premonstratensian canon. Prior of the Premonstratensian monastery in Schäftlarn, Bavaria (in modern Germany) in 1153.

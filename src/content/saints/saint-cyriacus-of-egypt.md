@@ -1,5 +1,6 @@
 ---
 name: Saint Cyriacus of Egypt
+stub: false
 image: https://upload.wikimedia.org/wikipedia/commons/7/74/Cyriacus_vs_Bosch_giraffe.jpg
 honorific: Saint
 summary: >-

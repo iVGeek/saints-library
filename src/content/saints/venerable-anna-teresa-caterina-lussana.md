@@ -1,5 +1,6 @@
 ---
 name: Venerable Anna Teresa Caterina Lussana
+stub: false
 honorific: Venerable
 summary: >-
   Born to a wealthy family, Maria earned her teaching certification but had to return home for many years to care for

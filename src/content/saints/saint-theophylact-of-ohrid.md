@@ -1,5 +1,6 @@
 ---
 name: Saint Theophylact of Ohrid
+stub: false
 honorific: Saint
 summary: >-
   Clerk of the Hagia Sophia church in Constantinople. Reluctant bishop of Ohrid, Macedonia, serving for 25 years. Noted

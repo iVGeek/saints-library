@@ -1,5 +1,6 @@
 ---
 name: Martyrs of North-West Africa
+stub: false
 honorific: Saint
 summary: >-
   Large group of Christians murdered while celebrating Easter Mass during the persecutions of Genseric, the Arian king

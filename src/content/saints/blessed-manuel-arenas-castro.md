@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/0/08/Roma_martires_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Manuel Arenas Castro
+stub: false
 honorific: Blessed
 summary: >-
   Priest of the diocese of Córdoba, Spain, serving in the Fuente Tójar and Castil de Campos communities. Martyred in the

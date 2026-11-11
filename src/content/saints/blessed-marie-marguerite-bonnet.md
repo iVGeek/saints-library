@@ -1,5 +1,6 @@
 ---
 name: Blessed Marie-Marguerite Bonnet
+stub: true
 honorific: Blessed
 summary: Sacramentine nun. Martyred in the French Revolution.
 image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Orange.jpg

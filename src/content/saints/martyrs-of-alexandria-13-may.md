@@ -1,5 +1,6 @@
 ---
 name: Martyrs of Alexandria
+stub: false
 honorific: Saint
 summary: >-
   A group of Catholic Christians martyred in the church of Theonas, Alexandria, Egypt by order of the Arian Emperor

@@ -1,5 +1,6 @@
 ---
 name: Saint Zoe of Rome
+stub: false
 honorific: Saint
 summary: >-
   Married to Nicostratus, a high court official in imperial Rome. She had a great devotion to Saint Peter the Apostle.

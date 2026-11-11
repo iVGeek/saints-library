@@ -1,5 +1,6 @@
 ---
 name: Blessed Clemens August von Galen
+stub: false
 honorific: Blessed
 summary: >-
   Born to one of the oldest German noble families. Ordained on 28 May 1904 at Münster, Germany. Chosen bishop of Münster

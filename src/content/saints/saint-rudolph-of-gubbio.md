@@ -1,5 +1,6 @@
 ---
 name: Saint Rudolph of Gubbio
+stub: false
 honorific: Saint
 summary: >-
   In 1054 he gave his castle at Campo Regio to Saint Peter Damian, and became a Benedictine monk at Fonte Avellana under

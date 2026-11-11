@@ -1,5 +1,6 @@
 ---
 name: Saint Pierre-Henri Dorie
+stub: false
 honorific: Venerable
 summary: >-
   Studied at the seminaries of Sables-d'Olonne and Luçon. Ordained a priest on 21 May 1864. Member of the Paris Foreign

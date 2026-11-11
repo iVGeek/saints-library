@@ -1,5 +1,6 @@
 ---
 name: Saint Benedict Biscop
+stub: false
 honorific: Saint
 summary: >-
   Anglo-Saxon nobility. Grew up around the court of King Oswy of Northumbria, and held court offices. Following a

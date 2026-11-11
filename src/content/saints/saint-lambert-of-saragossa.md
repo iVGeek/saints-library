@@ -1,5 +1,6 @@
 ---
 name: Saint Lambert of Saragossa
+stub: false
 honorific: Saint
 summary: Farmer and servant during the period of Muslim occupation of Spain. Martyred by his Saracen master.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Lamberto-of-Saragossa.jpg

@@ -1,5 +1,6 @@
 ---
 name: Saint Methodius of Constantinople
+stub: false
 honorific: Saint
 summary: >-
   Educated in Syracuse, Sicily. While in Constantinople to seek a position at court, he felt the call to enter the

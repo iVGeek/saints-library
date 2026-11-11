@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Helladius of Auxerre
+stub: false
 honorific: Saint
 summary: Bishop of Auxerre, France for 30 years. Converted Saint Amator, his successor as bishop, to the faith.
 searchAliases:

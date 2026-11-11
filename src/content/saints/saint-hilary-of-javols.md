@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Hilary of Javols
+stub: true
 honorific: Saint
 summary: Sixth-century bishop of Javols, France.
 region: France

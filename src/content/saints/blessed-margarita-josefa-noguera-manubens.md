@@ -1,5 +1,6 @@
 ---
 name: Blessed Margarita Josefa Noguera Manubens
+stub: false
 honorific: Blessed
 summary: >-
   Baptized at the age of one day. As she grew, Margarita felt a call to religious life, and in 1896 became a novice in

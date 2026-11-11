@@ -1,5 +1,6 @@
 ---
 name: Saint Lotharius of Séez
+stub: false
 honorific: Saint
 title: Bishop
 summary: >-

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Paramon
+stub: false
 honorific: Saint
 summary: >-
   One of a group of 375 martyrs who died together in the persecutions of Decius. The names of the others have not come

@@ -1,5 +1,6 @@
 ---
 name: Saint Procopius of Taormina
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Taormina, Sicily, Italy. Murdered along with hundreds of other Christians by invading Muslim Berbers.

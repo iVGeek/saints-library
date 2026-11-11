@@ -1,5 +1,6 @@
 ---
 name: Blessed Andreas Yakichi
+stub: false
 honorific: Blessed
 summary: Son of Blessed Lucia Yakichi and Blessed Ludovicus Yakichi; brother of Blessed Franciscus Yakichi. Martyr.
 image: https://catholicsaints.info/wp-content/uploads/img-Martyred-Yakichi-Family.jpg

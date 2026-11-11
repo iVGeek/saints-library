@@ -1,5 +1,6 @@
 ---
 name: Blessed Florencia Caerols Martínez
+stub: false
 honorific: Blessed
 summary: >-
   Lay women in the archdiocese of Valencia, Spain. Textile worker. President of the Union of Spanish Catholic Women in

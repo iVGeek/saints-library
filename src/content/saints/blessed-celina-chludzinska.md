@@ -1,5 +1,6 @@
 ---
 name: Blessed Celina Chludzinska
+stub: false
 honorific: Blessed
 summary: >-
   Celina was early drawn to religious life, but acceded to her parent's wishes and married Joseph Borzęcka in 1853.

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Kragon
+stub: false
 honorific: Saint
 summary: >-
   Highway bandit in Egypt. Around the the year 297, he and two fellow thieves were brought to Christianity by a desert

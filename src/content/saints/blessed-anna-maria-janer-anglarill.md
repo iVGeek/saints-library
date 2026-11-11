@@ -1,5 +1,6 @@
 ---
 name: Blessed Anna Maria Janer Anglarill
+stub: false
 honorific: Blessed
 summary: >-
   Studied at the Real Colegio de Educandras. Worked as a nurse in the Castelltort Hospital. Director the House of

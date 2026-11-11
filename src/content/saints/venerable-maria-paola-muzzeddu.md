@@ -1,5 +1,6 @@
 ---
 name: Venerable Maria Paola Muzzeddu
+stub: false
 honorific: Venerable
 summary: >-
   Raised in a farm family and educated primarily at home by her mother who insured she was trained in domestic and

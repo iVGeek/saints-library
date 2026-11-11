@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Finbar of Wexford
+stub: false
 honorific: Saint
 summary: >-
   Founded a monastery on the Innis Doimhle (Isle of Crimlen), Wexford, Ireland in the sixth century, and served as its

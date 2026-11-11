@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Menas of Sinai
+stub: false
 honorific: Saint
 summary: >-
   Monk and abbot of the monastery of Saint Catherine on the Sinai peninsula in the desert of Egypt for 15 years. Saint

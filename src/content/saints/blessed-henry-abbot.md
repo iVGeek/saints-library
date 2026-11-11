@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/0/01/Blessed_Richard_Whiting_of_Glastonbury.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Henry Abbot
+stub: false
 honorific: Blessed
 summary: >-
   Layman. Convert. He was approached by a Protestant minister who claimed to be searching for a priest so he could

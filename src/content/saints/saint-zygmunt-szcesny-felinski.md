@@ -1,5 +1,6 @@
 ---
 name: Saint Zygmunt Szcesny Felinski
+stub: false
 honorific: Venerable
 summary: >-
   Son of Gerard Felinski and Eva Wendorff, the third of six childen in a proudly patriotic Polish family. Two of his

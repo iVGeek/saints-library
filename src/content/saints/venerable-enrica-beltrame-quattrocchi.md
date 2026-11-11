@@ -1,5 +1,6 @@
 ---
 name: Venerable Enrica Beltrame Quattrocchi
+stub: true
 honorific: Venerable
 summary: Lay woman in the vicariage of Rome, Italy.
 image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Enrica-Beltrame-Quattrocchi.jpg

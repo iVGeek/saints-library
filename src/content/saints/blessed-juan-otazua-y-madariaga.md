@@ -1,5 +1,6 @@
 ---
 name: Blessed Juan Otazua y Madariaga
+stub: false
 honorific: Blessed
 summary: >-
   Member of the Trinitarians, beginning his novitiate at the Shrine of Bien Aparecida in Cantabria, Spain, and making

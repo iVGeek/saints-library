@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Hermes of Adrianople
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Heraclea. During the persecutions of Diocletian, Saint Hermes and Saint Philip were ordered by governor

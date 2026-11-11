@@ -1,5 +1,6 @@
 ---
 name: Saint Gaugericus of Cambrai
+stub: false
 honorific: Saint
 summary: >-
   Son of Gaudentius and Austadiola. Pious youth. Ordained as a deacon when he showed he knew all the Psalms by heart.

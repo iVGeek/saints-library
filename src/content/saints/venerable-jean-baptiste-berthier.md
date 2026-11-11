@@ -1,5 +1,6 @@
 ---
 name: Venerable Jean-Baptiste Berthier
+stub: false
 honorific: Venerable
 summary: >-
   The eldest son in a pious peasant farm family, Jean early felt a call to the priesthood, and began studying at the

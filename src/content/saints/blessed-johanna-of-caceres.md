@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/a/a1/Maria_Callas_1958.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Johanna of Cáceres
+stub: false
 honorific: Blessed
 summary: >-
   Benedictine Cistercian nun the convent of Saint Benedict at Cáceres, western Spain when still very young; she spent

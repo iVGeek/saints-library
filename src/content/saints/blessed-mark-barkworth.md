@@ -1,5 +1,6 @@
 ---
 name: Blessed Mark Barkworth
+stub: false
 honorific: Blessed
 summary: >-
   Described as a tall, burly man, always cheerful, even in the sufferings of his later life. Studied at Oxford

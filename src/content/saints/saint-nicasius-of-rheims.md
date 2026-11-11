@@ -1,5 +1,6 @@
 ---
 name: Saint Nicasius of Rheims
+stub: false
 honorific: Saint
 summary: >-
   Brother of Saint Eutropia. Bishop of Rheims, France, and founder of its basilica. Martyred in the barbarian invasion

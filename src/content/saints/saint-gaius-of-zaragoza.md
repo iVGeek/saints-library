@@ -1,5 +1,6 @@
 ---
 name: Saint Gaius of Zaragoza
+stub: true
 honorific: Saint
 summary: Martyr.
 searchAliases:

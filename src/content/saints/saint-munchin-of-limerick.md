@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/2/28/Limerickcitycollage3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Munchin of Limerick
+stub: false
 honorific: Saint
 summary: >-
   First bishop of Limerick (Luimneach), occupying the see in the 7th century. A prince gave him the island, possibly in

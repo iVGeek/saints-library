@@ -1,5 +1,6 @@
 ---
 name: Venerable Catherine Elizabeth McAuley
+stub: false
 honorific: Venerable
 summary: >-
   The daughter of James and Elinor McAuley, her father died when Catherine was 5, her mother when the girl was 20; she

@@ -1,5 +1,6 @@
 ---
 name: Blessed Marin Shkurti
+stub: false
 honorific: Blessed
 summary: >-
   Ordained a priest of the archdiocese of Shkodrë-Pult, Albania in the cathedral of Shkodra, by Monsignor Çoba on 8

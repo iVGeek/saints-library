@@ -1,5 +1,6 @@
 ---
 name: Blessed Marie-Louise Trichet
+stub: false
 honorific: Blessed
 summary: >-
   The fourth of eight children born to Julien, a court magistrate, and Françoise Lecocq, a notably pious mother; one of

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Valens of Jerusalem
+stub: false
 honorific: Saint
 summary: Deacon in Jerusalem. Imprisoned and sentenced to forced labour in the mines of Cilicia. Martyr.
 deathYear: 309

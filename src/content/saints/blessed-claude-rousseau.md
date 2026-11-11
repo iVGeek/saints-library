@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/d/d4/Sainte-Anne-d%27Auray_%28statue_Sainte_Anne_dans_le_parc%292.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Claude Rousseau
+stub: false
 honorific: Blessed
 summary: >-
   The son of a famous lawyer, member of parliament, and professor of law at the University of Paris. Claude began

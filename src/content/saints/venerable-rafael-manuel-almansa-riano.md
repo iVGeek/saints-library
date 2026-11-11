@@ -1,5 +1,6 @@
 ---
 name: Venerable Rafaél Manuel Almansa Riaño
+stub: false
 honorific: Venerable
 summary: >-
   Son of Ambrosio, a carpenter and sacristan of his church, and María del Rosario; he was baptized at the age of one

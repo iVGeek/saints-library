@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/d/d9/Marx_Reichlich_und_Werkstatt_-_Hl._Ottilie_-_4366a_-_Belvedere.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Otilia Alonso González
+stub: false
 honorific: Blessed
 summary: Member of the Dominican Sisters of the Anunciata. Martyred in the Spanish Civil War.
 birthYear: 1916

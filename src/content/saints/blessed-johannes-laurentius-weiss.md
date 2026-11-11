@@ -1,5 +1,6 @@
 ---
 name: Blessed Johannes Laurentius Weiss
+stub: false
 honorific: Blessed
 summary: >-
   Franciscan, taking the name Liberat. Priest Missionary to Ethiopia. In 1716 the emperor declared a persecution of

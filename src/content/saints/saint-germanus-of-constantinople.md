@@ -1,5 +1,6 @@
 ---
 name: Saint Germanus of Constantinople
+stub: false
 honorific: Saint
 summary: >-
   Son of a Senator Justinian of Constantinople. Priest. Bishop of Cyzicus. Attended the Synod of Constantinople in 712,

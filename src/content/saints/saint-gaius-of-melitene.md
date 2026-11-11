@@ -1,5 +1,6 @@
 ---
 name: Saint Gaius of Melitene
+stub: true
 honorific: Saint
 summary: Martyr.
 searchAliases:

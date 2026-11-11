@@ -1,5 +1,6 @@
 ---
 name: Saint Almedha
+stub: false
 honorific: Saint
 summary: >-
   A princess, the daughter of King Brychan. A pious girl, she made a private vow of chastity, and dedicated her life to

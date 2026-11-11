@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/6/66/Astorga_Cathedral_Fa%C3%A7ade.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Francisco de Asis Arias Rivas
+stub: false
 honorific: Blessed
 summary: >-
   Ordained a priest of the archdiocese of Sevilla, Spain on 1 June 1901. Parish priest at several locations in Sevilla.

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint James of Saroug
+stub: false
 honorific: Saint
 title: Bishop
 summary: >-

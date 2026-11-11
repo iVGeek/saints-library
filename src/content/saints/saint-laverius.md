@@ -1,5 +1,6 @@
 ---
 name: Saint Laverius
+stub: false
 honorific: Saint
 summary: >-
   Son of Achille, Laverius was raised in a pagan family. Served as a soldier in the imperial Roman army. A convert to

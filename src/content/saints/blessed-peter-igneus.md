@@ -1,5 +1,6 @@
 ---
 name: Blessed Peter Igneus
+stub: false
 honorific: Blessed
 summary: >-
   Born to the Florentine nobility, he was the uncle of Saint Bernardo degli Uberti, and related to Saint John Gualbert.

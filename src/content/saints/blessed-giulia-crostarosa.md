@@ -1,5 +1,6 @@
 ---
 name: Blessed Giulia Crostarosa
+stub: false
 honorific: Blessed
 summary: >-
   Tenth of twelve children in her family. At age 20, she and her sister entered the Carmelite monastery of Marigliano,

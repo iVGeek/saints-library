@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Natalis of Casale
+stub: true
 honorific: Saint
 summary: Priest at Casale, Piedmont, Italy.
 born: in Benevento, Italy

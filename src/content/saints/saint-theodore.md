@@ -1,6 +1,7 @@
 ---
 image: https://upload.wikimedia.org/wikipedia/commons/St.%20Theodor.jpg
 name: Saint Theodore
+stub: true
 honorific: Saint
 summary: One of 23 Christians martyred in the persecutions of Gallienus.
 deathYear: 260

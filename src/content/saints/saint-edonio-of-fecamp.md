@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Edonio of Fécamp
+stub: false
 honorific: Saint
 summary: >-
   Seventh century Benedictine monk at the Holy Trinity abbey of Fécamp, France. Spiritual student of Saint Benedict

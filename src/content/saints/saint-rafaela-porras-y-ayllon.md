@@ -1,5 +1,6 @@
 ---
 name: Saint Rafaela Porras y Ayllón
+stub: false
 honorific: Venerable
 summary: >-
   Daughter of the mayor of Pedro Abad, Spain. Her father died when Raphaela was four years old. She and her sister

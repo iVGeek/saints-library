@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Hildemar of Arrouaise
+stub: false
 honorific: Blessed
 summary: >-
   Court chaplain to William the Conqueror in England. Hermit in the forest of Arrouaise, Artois (in modern France) in

@@ -1,5 +1,6 @@
 ---
 name: Blessed Robert Wilcox
+stub: false
 honorific: Blessed
 summary: >-
   Robert began studying for the priesthood in Reims, France on 12 August 1583, and was ordained on 20 April 1585. He

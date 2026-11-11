@@ -1,5 +1,6 @@
 ---
 name: Blessed William Arnaud
+stub: false
 honorific: Blessed
 summary: >-
   Dominican. Friend of Saint Dominic de Guzman. Chief assistant to the inquisitor Peter Seila when he was investigation

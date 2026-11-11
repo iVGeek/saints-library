@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Macarius of Petra
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Petra. Attended the Council of Sardica. When the Arian heresy began to spread, Bishop Arius changed his name

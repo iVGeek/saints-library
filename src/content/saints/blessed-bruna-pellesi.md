@@ -1,5 +1,6 @@
 ---
 name: Blessed Bruna Pellesi
+stub: false
 honorific: Blessed
 summary: >-
   Youngest of nine children. When her two sisters-in-law died, the teenaged Bruna helped raised their six small

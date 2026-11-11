@@ -1,5 +1,6 @@
 ---
 name: Saint Bernadette of Lourdes
+stub: false
 honorific: Venerable
 summary: >-
   Oldest of six children born to Francois and Louise Casterot, and grew up very poor. Hired out as a servant from age 12

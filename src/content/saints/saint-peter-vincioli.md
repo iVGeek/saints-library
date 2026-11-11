@@ -1,5 +1,6 @@
 ---
 name: Saint Peter Vincioli
+stub: false
 honorific: Saint
 summary: >-
   Architect. Priest. Monk. Abbot. Founded the monastery of Saint Peter in Perugia, Italy and oversaw both its

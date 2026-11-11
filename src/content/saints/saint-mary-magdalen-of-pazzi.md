@@ -1,5 +1,6 @@
 ---
 name: Saint Mary Magdalen of Pazzi
+stub: false
 honorific: Saint
 summary: >-
   Catherine received a religious upbringing. She was initially sent to a convent at age 14, but was taken back home by

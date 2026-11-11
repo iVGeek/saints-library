@@ -1,5 +1,6 @@
 ---
 name: Saint Authaire of La-Ferté
+stub: false
 honorific: Saint
 summary: Father of Saint Ouen of Rouen. Courtier to King Dagobert I of France. Known for his charity for the poor.
 searchAliases:

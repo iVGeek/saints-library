@@ -1,5 +1,6 @@
 ---
 name: Blessed Giles Dalmasia
+stub: false
 honorific: Blessed
 summary: >-
   Obtained a degree in theology. Mercedarian. While suffering regular beatings and abuse for being a Christian, he not

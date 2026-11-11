@@ -1,5 +1,6 @@
 ---
 name: Blessed Maria Antonia Bandrés y Elósegui
+stub: false
 honorific: Blessed
 summary: >-
   The 2nd of 15 children born to Ramon Bandres and Teresa Elosegui; her father worked as an attorney. Antonita was

@@ -1,5 +1,6 @@
 ---
 name: Saint Leonard of Port Maurice
+stub: false
 honorific: Saint
 summary: >-
   Son of Domenico Casanova, a sea captain, and Anna Maria Benza. Placed at age thirteen with his uncle Agostino to study

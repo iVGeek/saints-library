@@ -1,5 +1,6 @@
 ---
 name: Blessed Carlos Eraña Guruceta
+stub: false
 honorific: Blessed
 summary: >-
   Member of the Society of Mary (Marianists). Martyred with Blessed Fidel Fuidio Rodriguez and Blessed Jesus Hita

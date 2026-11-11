@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/9/96/Hugh-faringdon-belmont-stained-glass.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed William Eynon
+stub: false
 honorific: Blessed
 summary: >-
   Benedictine monk. Priest at Saint Giles, Reading, England. He refused to surrender his parish to non-Catholic

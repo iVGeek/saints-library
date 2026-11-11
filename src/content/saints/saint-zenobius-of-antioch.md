@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Zenobius of Antioch
+stub: true
 honorific: Saint
 summary: Physcian. Priest in Sidon. Martyred in the persecutions of Diocletian.
 deathYear: 310

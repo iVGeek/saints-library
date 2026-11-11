@@ -1,5 +1,6 @@
 ---
 name: Saint Cassian of Tangiers
+stub: false
 honorific: Saint
 summary: >-
   Court stenographer at the trial of Saint Marcellus the Centurion at Tangiers. When Marcellus was condemned to death,

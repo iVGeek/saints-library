@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Tryphonia of Rome
+stub: true
 honorific: Saint
 summary: Mother of Saint Cyrilla of Rome. Third-century widow and martyr.
 searchAliases:

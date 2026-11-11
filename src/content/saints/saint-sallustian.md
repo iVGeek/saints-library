@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Sallustian of Sardinia
+stub: true
 honorific: Saint
 summary: Hermit in Sardinia.
 searchAliases:

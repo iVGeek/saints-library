@@ -1,5 +1,6 @@
 ---
 name: Saint Martha of Astorga
+stub: true
 honorific: Saint
 summary: Virgin martyr in the persecutions of Decius.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Martha-of-Astorga.jpg

@@ -1,5 +1,6 @@
 ---
 name: Blessed Pere Cunill Padrós
+stub: false
 honorific: Blessed
 summary: >-
   Pedro's family was in the sausage business. He early felt a call to the priesthood and religious life. Studied at the

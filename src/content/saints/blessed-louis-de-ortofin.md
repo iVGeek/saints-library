@@ -1,5 +1,6 @@
 ---
 name: Blessed Louis de Ortofin
+stub: false
 honorific: Blessed
 summary: >-
   Known for his personal piety and zeal for the faith, Luigi was sent to north Africa to redeem Christians enslaved by

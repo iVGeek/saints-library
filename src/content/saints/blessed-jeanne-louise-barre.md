@@ -1,5 +1,6 @@
 ---
 name: Blessed Jeanne-Louise Barré
+stub: false
 honorific: Blessed
 summary: >-
   Ursuline nun. One of a group of religious sisters murdered together in the anti-Christian excesses of the French

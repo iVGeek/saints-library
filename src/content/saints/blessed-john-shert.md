@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed John Shert
+stub: false
 honorific: Blessed
 summary: >-
   Educated at Brasenose College, Oxford, England graduating in 1566. Schoolmaster in London, England. Convert to

@@ -1,5 +1,6 @@
 ---
 name: Saint Marinus of Anzarba
+stub: false
 honorific: Saint
 summary: >-
   Converted to Christianity in his old age, he brought many others to the faith. Arrested, tortured and executed in the

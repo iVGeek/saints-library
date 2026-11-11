@@ -1,5 +1,6 @@
 ---
 name: Blessed Mieczyslawa Kowalska
+stub: false
 honorific: Blessed
 summary: >-
   Maria grew up in a family of socialists. Joined the Capuchin Poor Clare nuns at the convent of Przasnysz, Poland on 12

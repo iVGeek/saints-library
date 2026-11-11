@@ -1,5 +1,6 @@
 ---
 name: Saint Grata of Bergamo
+stub: false
 honorific: Saint
 summary: >-
   Widowed lay woman who zealously pursued a mission of giving Christian burial for martyrs. This included the body of

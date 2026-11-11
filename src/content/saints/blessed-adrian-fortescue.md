@@ -1,5 +1,6 @@
 ---
 name: Blessed Adrian Fortescue
+stub: false
 honorific: Blessed
 summary: >-
   Born to the English nobility, the son of Sir John Fortescue, and a cousin of Anne Boleyn. Made a Knight of Bath in

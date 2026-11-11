@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/7/79/St_Ethelburga-All_Hallows.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Wulfhilda
+stub: false
 honorific: Saint
 summary: >-
   May have been a member of the Anglo-Saxon nobility. While a novice at Wilton abbey, King Edgar the Peaceful sought her

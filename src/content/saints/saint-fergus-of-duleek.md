@@ -1,5 +1,6 @@
 ---
 name: Saint Fergus of Duleek
+stub: true
 honorific: Saint
 summary: Bishop of Duleek, Meath, Ireland.
 deathYear: 778

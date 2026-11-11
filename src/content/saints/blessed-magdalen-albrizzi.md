@@ -1,5 +1,6 @@
 ---
 name: Blessed Magdalen Albrizzi
+stub: false
 honorific: Blessed
 summary: >-
   Born to the Italian nobility. On the death of her parents, she became a nun at Brunate, Italy. As abbess she

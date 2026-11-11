@@ -1,5 +1,6 @@
 ---
 name: Saint Eustochia Calafato
+stub: false
 honorific: Venerable
 summary: >-
   Daughter of Count Bernardo and Countess Macaldo Romano Colonna, Sicilian nobles and wealthy merchants. Legend says she

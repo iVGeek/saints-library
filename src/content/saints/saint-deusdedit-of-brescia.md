@@ -1,5 +1,6 @@
 ---
 name: Saint Deusdedit of Brescia
+stub: false
 honorific: Saint
 summary: >-
   Latter seventh centry bishop of Brescia, Italy. Played a leading role in the councils convened against the Monothelite

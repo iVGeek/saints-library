@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Venerable Pasquale Uva
+stub: false
 honorific: Venerable
 title: Priest
 summary: >-

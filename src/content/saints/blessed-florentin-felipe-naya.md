@@ -1,5 +1,6 @@
 ---
 name: Blessed Florentín Felipe Naya
+stub: false
 honorific: Blessed
 summary: >-
   Son of Miguel Felipe and Francisca Naya; he was baptized on the day of his birth. Entered the Piarist novitiate on 27

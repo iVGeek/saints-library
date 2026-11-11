@@ -1,5 +1,6 @@
 ---
 name: Saint Justina of Sardinia
+stub: true
 image: >-
   https://commons.wikimedia.org/wiki/Special:FilePath/Lisbon_%2528Lisboa%2529_historic_elevator_Santa_Justa_Luca_Galuzzi_2006.jpg?width=600
 honorific: Saint

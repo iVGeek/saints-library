@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/a/a8/Piazza_Camillo_Benso_conte_di_Cavour.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint William of Foggia
+stub: true
 honorific: Saint
 title: Hermit
 summary: Hermit at Foggia, Italy.

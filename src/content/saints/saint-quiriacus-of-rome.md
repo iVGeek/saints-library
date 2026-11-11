@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/a/a1/Portrait_of_Saint_Aurea.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Quiriacus of Rome
+stub: true
 honorific: Saint
 summary: Martyr.
 deathYear: 304

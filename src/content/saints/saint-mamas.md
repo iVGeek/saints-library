@@ -1,5 +1,6 @@
 ---
 name: Saint Mamas
+stub: false
 honorific: Saint
 summary: >-
   Son of Saint Theodotus and Saint Rufina; he was born in prison where they were being held prior to martyrdom, and he

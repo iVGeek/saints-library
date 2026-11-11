@@ -1,5 +1,6 @@
 ---
 name: Saint Digna of Sicily
+stub: true
 honorific: Saint
 summary: Martyr. No other information has survived.
 died: in Sicily

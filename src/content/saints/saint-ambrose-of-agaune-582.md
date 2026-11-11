@@ -1,5 +1,6 @@
 ---
 name: Saint Ambrose of Agaune
+stub: true
 honorific: Saint
 summary: Abbot of the monastery of Agaunum, Switzerland.
 deathYear: 582

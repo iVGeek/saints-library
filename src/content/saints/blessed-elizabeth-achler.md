@@ -1,5 +1,6 @@
 ---
 name: Blessed Elizabeth Achler
+stub: false
 honorific: Blessed
 summary: >-
   Born poor, the daughter of John and Anne Achler. Franciscan tertiary at age 14, but found it hard to lead a religious

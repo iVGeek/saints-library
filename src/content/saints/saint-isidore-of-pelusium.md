@@ -1,5 +1,6 @@
 ---
 name: Saint Isidore of Pelusium
+stub: false
 honorific: Saint
 summary: >-
   Hermit. Monk. Abbot. Theologian. Priest. In his desert monastic life, he tried to imitate the life and mission of

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/9/91/Montdidier_%C3%A9glise_St-Pierre_%28tombeau_Raoul_de_Cr%C3%A9py%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Arnulf of Saint-Père-en-Vallée
+stub: false
 honorific: Blessed
 summary: >-
   Benedictine monk. Abbot of the Saint-Père-en-Vallée monastery near Chartres, France for the final three years of his

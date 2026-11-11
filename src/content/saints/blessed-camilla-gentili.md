@@ -1,5 +1,6 @@
 ---
 name: Blessed Camilla Gentili
+stub: false
 honorific: Blessed
 summary: >-
   Born to the Italian nobility. Friend and supporter of the future Pope Benedict XIV. Suffered through an arranged

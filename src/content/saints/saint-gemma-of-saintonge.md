@@ -1,5 +1,6 @@
 ---
 name: Saint Gemma of Saintonge
+stub: false
 honorific: Saint
 summary: >-
   Christian daughter of a pagan noble who beat her to death when she refused an arranged marriage to a young pagan man.

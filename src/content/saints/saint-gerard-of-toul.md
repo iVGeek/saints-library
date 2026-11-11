@@ -1,5 +1,6 @@
 ---
 name: Saint Gerard of Toul
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility, he was known as a pious boy, and received a good education in Cologne, Germany. Priest.

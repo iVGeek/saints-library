@@ -1,5 +1,6 @@
 ---
 name: Saint Ursmar of Lobbes
+stub: false
 honorific: Saint
 summary: >-
   Abbot of the Benedictine abbey at Lobbes, Belgium c.689. Trained Saint Dodo. Missionary bishop. Helped found Aulne

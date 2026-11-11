@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Venerable Romano Bottegal
+stub: true
 honorific: Venerable
 summary: Trappist priest.
 birthYear: 1921

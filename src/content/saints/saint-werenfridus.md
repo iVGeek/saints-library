@@ -1,5 +1,6 @@
 ---
 name: Saint Werenfridus
+stub: false
 honorific: Saint
 summary: >-
   Benedictine monk. He studied and lived as a hermit in Ireland. Missionary priest to the Frisians (in the modern

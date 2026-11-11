@@ -1,5 +1,6 @@
 ---
 name: Saint Eremberta of Wierre
+stub: false
 honorific: Saint
 summary: Niece of Saint Wulmar. Seventh-century nun. Abbess of Wierre-aux-Bois Abbey in France which Wulmar built for her.
 region: France

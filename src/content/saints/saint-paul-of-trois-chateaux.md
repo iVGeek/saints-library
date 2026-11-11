@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/d/d9/Stpaul_vuegenerale.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Paul of Trois Châteaux
+stub: false
 honorific: Saint
 summary: >-
   Paul fled his home to escape the Germanic tribes invading the northern provinces of the Roman empire. He became a

@@ -1,5 +1,6 @@
 ---
 name: Blessed Manuel Buil Lalueza
+stub: false
 honorific: Blessed
 summary: >-
   Claretian co-adjustor brother. One of the Martyred Claretians of Barbastro killed in the persecutions of the Spanish

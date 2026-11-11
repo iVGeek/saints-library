@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Venerable Alfred Gregori
+stub: false
 honorific: Venerable
 summary: >-
   Member of the Sylvestrine Congregation of the Order of Saint Benedict, taking the name Ildebrando. Monk. Priest.

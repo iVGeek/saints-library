@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Abundus of Villers
+stub: false
 honorific: Blessed
 summary: >-
   Cistercian monk at Villers in Brabant (in modern Belgium). Known from his youth for his unworldly innocence and

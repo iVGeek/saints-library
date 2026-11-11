@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Jonas of Muchon
+stub: false
 honorific: Saint
 summary: >-
   Fourth century monk at Demeskenyanos, Egypt. Spiritual student of Saint Pachomius of Tabenna. A gardener by day, a

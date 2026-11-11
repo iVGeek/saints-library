@@ -1,5 +1,6 @@
 ---
 name: Saint Geminianus of Rome
+stub: false
 honorific: Saint
 summary: >-
   A convert, she was imprisoned and tortured during the persecutions of Diocletian while still a neophyte. Baptized in

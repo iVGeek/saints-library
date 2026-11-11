@@ -1,6 +1,7 @@
 ---
 image: https://www.santiebeati.it/immagini/Thumbs/95772/95772.JPG
 name: Blessed Eleuterio Prado Villaroel
+stub: false
 honorific: Blessed
 summary: Professed religious brother in the Missionary Oblates of Mary Immaculate. Martyred in the Spanish Civil War.
 birthYear: 1915

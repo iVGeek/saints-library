@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Clarus of Seligenstadt
+stub: true
 honorific: Saint
 title: Hermit
 summary: Ascetic hermit in Seligenstadt, Germany.

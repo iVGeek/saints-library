@@ -1,5 +1,6 @@
 ---
 name: Venerable Antonio Filomeno Maria Losito
+stub: true
 honorific: Venerable
 summary: Redemptorist priest.
 image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Antonio-Filomeno-Maria-Losito.jpg

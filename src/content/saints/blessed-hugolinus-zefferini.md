@@ -1,5 +1,6 @@
 ---
 name: Blessed Hugolinus Zefferini
+stub: false
 honorific: Blessed
 summary: >-
   Civil strife forced Hugolinus' family to flee Cortona for Mantua, Italy while the Hugolinus was still a baby. He

@@ -1,5 +1,6 @@
 ---
 name: Blessed Eustáquio van Lieshout
+stub: false
 honorific: Blessed
 summary: >-
   Eighth of eleven children in a deeply Catholic farm family. Baptized on the day he was born. A popular, cheerful

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/a/a9/Santiago_cathedral_2021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Manuel Santiago y Santiago
+stub: true
 honorific: Blessed
 summary: Member of the Dominicans. Martyred in the Spanish Civil War.
 birthYear: 1916

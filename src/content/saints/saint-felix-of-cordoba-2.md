@@ -1,5 +1,6 @@
 ---
 name: Saint Felix of Cordoba
+stub: false
 honorific: Saint
 summary: >-
   Layman in Moorish controlled ninth-century Spain. Married to Saint Liliosa of Cordoba. A covert Christian who was

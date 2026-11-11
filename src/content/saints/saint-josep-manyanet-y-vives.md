@@ -1,5 +1,6 @@
 ---
 name: Saint Josep Manyanet y Vives
+stub: false
 honorific: Venerable
 summary: >-
   Born to a large and pious family. Dedicated to Our Lady at age 5 by his mother. Educated by the Piarist Fathers in

@@ -1,5 +1,6 @@
 ---
 name: Saint Magnus of Orkney
+stub: false
 honorific: Saint
 summary: >-
   Born to a Viking family, son of Erlend Thorfinnsson, Earl of Orkney; related to King Olav II and King Harald II of

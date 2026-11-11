@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint John of Kathara
+stub: false
 honorific: Saint
 summary: >-
   Entered a monastery at age nine. Attended the Second Council of Nicaea in 787. Ordained at the Dalmatus monastery in

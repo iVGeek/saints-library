@@ -1,5 +1,6 @@
 ---
 name: Blessed Savina Petrilli
+stub: false
 honorific: Blessed
 summary: >-
   Second daughter of Celso and Matilde Venturini. At age 10 she read a life of Saint Catherine of Siena, and immediately

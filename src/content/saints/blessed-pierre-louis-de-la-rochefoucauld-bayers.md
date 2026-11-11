@@ -1,5 +1,6 @@
 ---
 name: Blessed Pierre-Louis de la Rochefoucauld-Bayers
+stub: false
 honorific: Blessed
 summary: >-
   Born to the French nobility, the son of the lord of Maumont Jean de La Rochefoucauld and Marguerite des Escots; his

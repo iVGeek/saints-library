@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Principia of Rome
+stub: true
 honorific: Saint
 summary: Nun in Rome, Italy. Spiritual student of Saint Marcella.
 deathYear: 420

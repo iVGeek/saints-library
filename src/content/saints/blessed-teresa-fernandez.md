@@ -1,5 +1,6 @@
 ---
 name: Blessed Teresa Fernandez
+stub: true
 honorific: Blessed
 summary: Founded and led the Mercedarian monastery of the Consolation in Lorca, Spain.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Teresa-Fernandez.jpg

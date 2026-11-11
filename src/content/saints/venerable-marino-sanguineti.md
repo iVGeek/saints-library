@@ -1,5 +1,6 @@
 ---
 name: Venerable Marino Sanguineti
+stub: false
 honorific: Venerable
 summary: >-
   Son of Girolamo and Angela Sanguineti. Joined the Discalced Augustinian in 1673, taking the name Carlo Giacinto of

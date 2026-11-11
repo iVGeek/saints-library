@@ -1,5 +1,6 @@
 ---
 name: Venerable Thomas Tichborne
+stub: false
 honorific: Venerable
 summary: >-
   Brother of Venerable Nicholas Tichnborne. Suffered for years with tuberculosis. Seminarian at Rheims, France and Rome,

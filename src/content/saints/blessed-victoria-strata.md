@@ -1,5 +1,6 @@
 ---
 name: Blessed Victoria Strata
+stub: false
 honorific: Blessed
 summary: >-
   Happily married to Angelo Strata from age seventeen to twenty-six. Mother of six. Widowed in 1587 at age 25, Victoria

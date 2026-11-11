@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/b/bc/F%C3%A0bric_Carbonell_i_Reverter.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Joan Puig Serra
+stub: true
 honorific: Blessed
 summary: Vincentian priest. Martyred in the Spanish Civil War.
 birthYear: 1879

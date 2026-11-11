@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Benedicta of Lorraine
+stub: false
 honorific: Saint
 summary: >-
   Tenth-century princess, the daughter of the king of Lorraine. Sister of Saint Cecilia of Lorraine. Nun and then abbess

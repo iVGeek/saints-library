@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Theodulphus of Lobbes
+stub: true
 honorific: Saint
 summary: Benedictine monk. Abbot of Lobbes Abbey in Belgium. Bishop of Lobbes.
 searchAliases:

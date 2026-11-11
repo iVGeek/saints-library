@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Sylvester of Assisi
+stub: false
 honorific: Blessed
 title: Priest
 summary: >-

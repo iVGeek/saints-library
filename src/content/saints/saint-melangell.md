@@ -1,5 +1,6 @@
 ---
 name: Saint Melangell
+stub: false
 honorific: Saint
 summary: >-
   Princess. Anchoress in Powys, Wales. One day Prince Brochwel of Powys was hunting and chased a hare. The animal ran to

@@ -1,5 +1,6 @@
 ---
 name: Blessed Ursula Haider
+stub: false
 honorific: Blessed
 summary: >-
   Orphaned soon after her birth, Usula was raised by her maternal grandmother and her uncle, Father Johannes Bör. In

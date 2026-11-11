@@ -1,5 +1,6 @@
 ---
 name: Blessed Humbert of Romans
+stub: false
 honorific: Blessed
 summary: >-
   Studied in Paris, France. Doctor of civil law. Joined the Dominicans in 1224. Pilgrim to the Holy Lands. Provincial of

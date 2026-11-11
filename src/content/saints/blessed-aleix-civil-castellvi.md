@@ -1,5 +1,6 @@
 ---
 name: Blessed Aleix Civil Castellví
+stub: false
 honorific: Blessed
 summary: Benedictine monk in the Subiaco Congregation. Martyred in the Spanish Civil War.
 searchAliases:

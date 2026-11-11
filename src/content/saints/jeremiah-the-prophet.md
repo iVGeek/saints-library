@@ -1,5 +1,6 @@
 ---
 name: Jeremiah the Prophet
+stub: false
 honorific: Saint
 summary: >-
   Old Testament prophet. Son of Helcias, of a priestly race of Anathoth, a little village of the tribe of Benjamin.

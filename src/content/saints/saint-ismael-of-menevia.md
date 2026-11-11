@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Ismael of Menevia
+stub: false
 honorific: Saint
 summary: >-
   Sixth century son of Budic, prince of Cornouaille, Brittany (in modern France), who was forced into exile at Dyfed,

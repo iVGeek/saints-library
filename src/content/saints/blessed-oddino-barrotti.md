@@ -1,5 +1,6 @@
 ---
 name: Blessed Oddino Barrotti
+stub: false
 honorific: Blessed
 summary: >-
   Priest at Saint John the Baptist Church, Fossano, Italy. Franciscan tertiary. Eventually resigned his parish and

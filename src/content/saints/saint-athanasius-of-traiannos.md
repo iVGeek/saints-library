@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Athanasius of Traiannos
+stub: false
 honorific: Saint
 summary: >-
   Wandering monk. Settling in Traiannos, Greece c.908, he worked as a calligrapher and copied manuscripts of the Bible

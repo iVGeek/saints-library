@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Flavien of Toulon
+stub: false
 honorific: Saint
 summary: >-
   Sixth century Gothic soldier. He was a convert to Christianity, brought to the faith and baptized by Saint Cyprian of

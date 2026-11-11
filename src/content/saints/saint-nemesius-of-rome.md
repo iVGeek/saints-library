@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/b/b9/All_saint.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Nemesius of Rome
+stub: false
 honorific: Saint
 summary: >-
   Father of Saint Lucilla. Roman military tribune. Convert, brought to Christianity by Pope Saint Stephen I. Deacon in

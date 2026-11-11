@@ -1,5 +1,6 @@
 ---
 name: Blessed Valeriu Traian Frentiu
+stub: false
 honorific: Blessed
 summary: >-
   Ordained a priest in the Romanian Greek-Catholic Rite on 28 September 1898. Chosen eparch (bishop) of Lugoj, Romania

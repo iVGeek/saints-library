@@ -1,5 +1,6 @@
 ---
 name: Saint Paul of Ptolemais
+stub: true
 honorific: Saint
 summary: Brother of Saint Juliana. Martyred with her in the persecution of Aurelian.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Paul-of-Ptolemais.jpg

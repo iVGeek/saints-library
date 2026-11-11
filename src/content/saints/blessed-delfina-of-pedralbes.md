@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Delfina of Pedralbes
+stub: false
 honorific: Blessed
 summary: >-
   While we do not know of family circumstances, we do know that she was married against her will and then widowed.

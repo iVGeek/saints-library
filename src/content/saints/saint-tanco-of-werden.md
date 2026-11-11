@@ -1,5 +1,6 @@
 ---
 name: Saint Tanco of Werden
+stub: false
 honorific: Saint
 summary: >-
   Monk. Abbot of Amalbarich Abbey in Saxony (in modern Germany). Bishop of Werden, Germany. Murdered by pagans for

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/a/a7/Saint_Justin_Martyr_by_Theophanes_the_Cretan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Antoninus the Martyr
+stub: true
 honorific: Saint
 summary: Martyr. No other information has survived.
 feastDay:

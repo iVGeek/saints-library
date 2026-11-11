@@ -1,5 +1,6 @@
 ---
 name: Blessed Mati Paliq
+stub: false
 honorific: Blessed
 summary: >-
   Though he grew up in a primarily Muslim area, Mati was raised in a pious Christian family; two of his brothers also

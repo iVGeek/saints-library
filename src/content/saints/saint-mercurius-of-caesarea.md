@@ -1,5 +1,6 @@
 ---
 name: Saint Mercurius of Caesarea
+stub: false
 honorific: Saint
 summary: >-
   Scythian Christian soldier who distinguished himself against the barbarian invaders of the Roman empire, and gained

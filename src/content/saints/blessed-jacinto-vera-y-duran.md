@@ -1,5 +1,6 @@
 ---
 name: Blessed Jacinto Vera y Durán
+stub: false
 honorific: Blessed
 summary: >-
   Born to a farming family, Jacinto worked the fields with them in his youth. About the age of 19, he discerned a call

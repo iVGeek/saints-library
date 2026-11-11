@@ -1,5 +1,6 @@
 ---
 name: Saint Gavinus of Sassari
+stub: false
 honorific: Saint
 summary: Imperial Roman soldier executed for his faith in the persecutions of Diocletian. Martyr.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Gavinus-of-Sassari.jpg

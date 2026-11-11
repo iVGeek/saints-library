@@ -1,5 +1,6 @@
 ---
 name: Saint Francis Mary of Camporosso
+stub: false
 honorific: Venerable
 summary: >-
   The son of Anselmo Croese and Maria Antonia Garza, Giovanni was baptized at the age of two days. He joined the Order

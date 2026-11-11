@@ -1,5 +1,6 @@
 ---
 name: Saint Hegesippus of Jerusalem
+stub: false
 honorific: Saint
 summary: >-
   Born Jewish, he became an adult convert to Christianity. Hegesippus lived twenty years in Rome, Italy where he

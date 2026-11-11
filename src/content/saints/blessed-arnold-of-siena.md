@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/5/5a/Shield_of_Dominican_Order.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Arnold of Siena
+stub: false
 honorific: Blessed
 summary: >-
   Studied law in Toulouse, France. Augustinian hermit, taking his vows on 11 July 1494; known for his strict observance

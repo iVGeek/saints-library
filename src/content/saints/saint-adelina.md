@@ -1,5 +1,6 @@
 ---
 name: Saint Adelina of Mortain
+stub: false
 honorific: Saint
 summary: >-
   Grand-daughter of William the Conqueror. Sister of Saint Vitalis. Benedictine nun. Abbess of the convent of La

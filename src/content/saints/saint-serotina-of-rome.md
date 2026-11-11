@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Serotina of Rome
+stub: true
 honorific: Saint
 summary: One of a group of Roman women martyred in an  early persecution, date unknown.
 died: relics enshrined in the catacombs of Via Salaria, Rome, Italy

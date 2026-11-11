@@ -1,5 +1,6 @@
 ---
 name: Venerable Amalia Streitel
+stub: false
 honorific: Venerable
 summary: >-
   One of four children raised in a pious family. Educated to be a teacher of music and language, but around age 17 she

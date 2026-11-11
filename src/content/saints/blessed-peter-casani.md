@@ -1,5 +1,6 @@
 ---
 name: Blessed Peter Casani
+stub: false
 honorific: Blessed
 summary: >-
   Born to the Tuscan nobility, Pietro studied at Franciscan schools in Lucca and Rome, Italy. He could play several

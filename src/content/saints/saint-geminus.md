@@ -1,5 +1,6 @@
 ---
 name: Saint Geminus
+stub: false
 honorific: Saint
 summary: Monk at Sanpaterniano de Fano, Narni, Umbria, Italy. Claimed by both the Basilians and Benedictines.
 deathYear: 815

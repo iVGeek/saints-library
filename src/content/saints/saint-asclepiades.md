@@ -1,5 +1,6 @@
 ---
 name: Saint Asclepiades
+stub: false
 honorific: Saint
 summary: >-
   During the persecutions of Decius, Asclepiades and fifteen fellow parishioners, hearing they were about to be

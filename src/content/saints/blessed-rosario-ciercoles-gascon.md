@@ -1,5 +1,6 @@
 ---
 name: Blessed Rosario Ciércoles Gascón
+stub: false
 honorific: Blessed
 summary: >-
   The daughter of Juan, a guitarist, and Maria, Rosario was educated at a boarding school run by the Daughters of

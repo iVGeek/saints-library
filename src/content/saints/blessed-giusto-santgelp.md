@@ -1,5 +1,6 @@
 ---
 name: Blessed Giusto Santgelp
+stub: false
 honorific: Blessed
 summary: >-
   Born to the nobility. Secular Mercedarian knight. Ransomed 200 Christian slaves from the Saracens in Muslim occupied

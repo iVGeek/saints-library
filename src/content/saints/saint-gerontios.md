@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Gérontios
+stub: true
 honorific: Saint
 summary: Desert mountain hermit near the monastery of Saint Panteleimon.
 feastDay:

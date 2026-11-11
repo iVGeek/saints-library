@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Urbicius
+stub: false
 honorific: Saint
 summary: >-
   Born to the Frankish nobility. Monk at the monastery of Saint Martin, Val de Onsera, France. Priest. Captured by

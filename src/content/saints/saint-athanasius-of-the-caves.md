@@ -1,5 +1,6 @@
 ---
 name: Saint Athanasius of the Caves
+stub: false
 honorific: Saint
 summary: >-
   Hermit in the caves around Kiev, Ukraine. He was found dead, and his brother monks and hermits prepared to bury him;

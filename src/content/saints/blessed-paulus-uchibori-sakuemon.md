@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Paulus Uchibori Sakuemon
+stub: false
 honorific: Blessed
 summary: Married layman of the archdiocese of Nagasaki, Japan. One of the Martyrs of Unzen.
 deathYear: 1627

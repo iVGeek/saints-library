@@ -1,5 +1,6 @@
 ---
 name: Blessed Modestinus of Jesus and Mary
+stub: false
 honorific: Blessed
 summary: >-
   Born to a poor, working-class family; his father prepared hemp for use in rope making, and his mother worked as a

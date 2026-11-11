@@ -1,5 +1,6 @@
 ---
 name: Saint Alexander of Perga
+stub: false
 honorific: Saint
 summary: >-
   Martyred during the persecutions of Diocletian with several companions by order of Flavian for destroying the altar of

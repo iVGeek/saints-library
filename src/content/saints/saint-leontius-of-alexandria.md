@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/3/32/Dionisii_alek.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Leontius of Alexandria
+stub: false
 honorific: Saint
 summary: Brother of Saint Sarapion of Alexandria. Martyred in the persecutions of Diocletian.
 deathYear: 300

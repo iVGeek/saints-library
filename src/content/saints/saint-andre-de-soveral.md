@@ -1,5 +1,6 @@
 ---
 name: Saint André de Soveral
+stub: false
 honorific: Venerable
 summary: >-
   André joined the Jesuits in 1593, making his novitiate in Bahia, Brazil. Priest. He worked at the College of Olinda

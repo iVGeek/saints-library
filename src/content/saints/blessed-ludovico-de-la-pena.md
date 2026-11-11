@@ -1,5 +1,6 @@
 ---
 name: Blessed Ludovico de la Pena
+stub: false
 honorific: Blessed
 summary: >-
   Mercedarian monk at the convent of Santa Eulalia in Seville, Spain. Miracle worker restoring sight to the blind,

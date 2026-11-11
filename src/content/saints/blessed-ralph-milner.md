@@ -1,5 +1,6 @@
 ---
 name: Blessed Ralph Milner
+stub: false
 honorific: Blessed
 summary: >-
   Poor, uneducated but pious farmer, husband and father of eight children in 16th century England. Raised an Anglican,

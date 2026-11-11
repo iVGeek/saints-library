@@ -1,5 +1,6 @@
 ---
 name: Saint Geremarus
+stub: false
 honorific: Saint
 summary: >-
   Born to the Frankish nobility, he was educated in Beauvais, France. Worked with Saint Eloi. Part of the court of King

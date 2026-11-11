@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Litard of Corneto
+stub: false
 honorific: Saint
 summary: >-
   A 12th century pilgrim to holy places, Litard was on his way home from Rome, Italy when he died in Corneto (modern

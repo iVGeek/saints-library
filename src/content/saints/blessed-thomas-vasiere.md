@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Thomas Vasière
+stub: false
 honorific: Blessed
 summary: >-
   Mercedarian friar at the convent of Santa Maria in Tolosa, Spain. Ransomed 114 Christians from Muslim slavery in north

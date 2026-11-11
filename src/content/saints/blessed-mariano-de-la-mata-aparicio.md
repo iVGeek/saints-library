@@ -1,5 +1,6 @@
 ---
 name: Blessed Mariano de la Mata Aparicio
+stub: false
 honorific: Blessed
 summary: >-
   One of eight children born to Martina and Manuel de la Mata Aparicio. Studied in Valladolid, Spain. Joined the

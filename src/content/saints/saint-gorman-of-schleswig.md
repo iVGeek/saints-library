@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Gorman of Schleswig
+stub: false
 honorific: Saint
 summary: Benedictine monk at Reichenau, Germany. Missionary preacher throughout northern Europe. Bishop of Schleswig, Denmark.
 deathYear: 965

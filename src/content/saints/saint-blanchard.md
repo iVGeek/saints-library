@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Blanchard
+stub: true
 honorific: Saint
 summary: I can find no biographical information on this person.
 searchAliases:

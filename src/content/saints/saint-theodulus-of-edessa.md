@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Theodulus of Edessa
+stub: false
 honorific: Saint
 summary: >-
   Prefect in the court of Theodosius the Great in Constantinople. Married. When his wife died, Theodulus felt drawn to

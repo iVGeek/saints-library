@@ -1,5 +1,6 @@
 ---
 name: Saint Alexander of Thessalonica
+stub: true
 honorific: Saint
 summary: Martyr. No other information has survived.
 died: Thessalonica, Greece, date unknown

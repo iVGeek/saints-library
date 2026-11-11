@@ -1,6 +1,7 @@
 ---
 image: https://www.santiebeati.it/immagini/Thumbs/98071/98071.JPG
 name: Blessed Senén López Cots
+stub: false
 honorific: Blessed
 summary: Member of the Claretians, professed on 6 January 1932. Martyred in the Spanish Civil War.
 birthYear: 1915

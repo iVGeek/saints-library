@@ -1,5 +1,6 @@
 ---
 name: Saint Justus of Canterbury
+stub: false
 honorific: Saint
 summary: >-
   Benedictine monk. Priest. Missionary to the Anglo-Saxons in 601, sent by Pope Saint Gregory the Great. Worked with

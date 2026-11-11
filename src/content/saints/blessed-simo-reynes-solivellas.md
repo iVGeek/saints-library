@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Simó Reynés Solivellas
+stub: false
 honorific: Blessed
 summary: >-
   Priest. Member of the Missionaries of the Sacred Hearts of Jesus and Mary of Mallorca. Martyred in the Spanish Civil

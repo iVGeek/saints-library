@@ -1,5 +1,6 @@
 ---
 name: Blessed Foulques of Neuilly
+stub: false
 honorific: Blessed
 summary: >-
   We have no details of his youth, but it was apparently spent in a pretty dissolute manner. Foulques came to the faith,

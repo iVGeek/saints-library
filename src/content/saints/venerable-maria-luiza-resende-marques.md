@@ -1,5 +1,6 @@
 ---
 name: Venerable Maria Luiza Resende Marques
+stub: true
 honorific: Venerable
 summary: Discalced Carmelite nun.
 image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Maria-Luiza-Resende-Marques.jpg

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Venerable Margaret Sinclair
+stub: true
 honorific: Venerable
 summary: Joined the Poor Clare Colettine Nuns in London, England in 1923.
 searchAliases:

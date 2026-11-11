@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/f/f5/Soissons-hotel-de-ville.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Paul of Noviodunum
+stub: true
 honorific: Saint
 summary: Martyr.
 searchAliases:

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Faustina of Rome
+stub: true
 honorific: Saint
 summary: Virgin martyr.
 died: Rome, Italy, date unknown

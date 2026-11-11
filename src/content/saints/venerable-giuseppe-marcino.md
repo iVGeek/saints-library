@@ -1,5 +1,6 @@
 ---
 name: Venerable Giuseppe Marcinò
+stub: true
 honorific: Venerable
 summary: Capuchin priest.
 image: >-

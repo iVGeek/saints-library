@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Saturninus of North Africa
+stub: false
 honorific: Saint
 summary: One of a group of 365 Christians who were martyred together in the persecutions of the Vandal king Genseric.
 deathYear: 450

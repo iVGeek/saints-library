@@ -1,5 +1,6 @@
 ---
 name: Venerable Daniela Zanetta
+stub: false
 honorific: Venerable
 summary: >-
   Young layperson of the diocese of Novara, Italy who suffered from a rare skin disease (dystrophic epidermolysis

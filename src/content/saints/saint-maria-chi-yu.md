@@ -1,5 +1,6 @@
 ---
 name: Saint Maria Chi Yu
+stub: false
 honorific: Venerable
 summary: >-
   Girl who grew up in an Christian-run orphanage in Wangla, apostolic vicariate of Southeastern Zhili, China. Martyred

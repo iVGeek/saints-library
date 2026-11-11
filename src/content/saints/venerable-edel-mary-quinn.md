@@ -1,5 +1,6 @@
 ---
 name: Venerable Edel Mary Quinn
+stub: false
 honorific: Venerable
 summary: >-
   As a girl Edel felt a call to religious life, but ill health prevented it. Joined the Legion of Mary in Dublin,

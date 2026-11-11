@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/d/d8/Martyrs_of_Damascus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Basilissa Fernandez
+stub: false
 honorific: Blessed
 summary: >-
   Premonstratensian nun at the monastery of Santa Sofia Toro in Zamora, Spain, making her vows on 13 October 1867.

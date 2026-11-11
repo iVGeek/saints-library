@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Maurontus of Marseille
+stub: true
 honorific: Saint
 title: Bishop
 summary: Abbot of Saint Victor Abbey at Marseilles, France. Bishop of Marseilles c.767.

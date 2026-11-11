@@ -1,5 +1,6 @@
 ---
 name: Blessed Jean-Baptiste Fouque
+stub: false
 honorific: Blessed
 summary: >-
   Jean-Baptiste grew up in a pious household, the son of Louis Fouque and Adèle Anne Remuzat. He studied at the school

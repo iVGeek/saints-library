@@ -1,5 +1,6 @@
 ---
 name: Saint Menna of Sannio
+stub: false
 honorific: Saint
 summary: >-
   Holy hermit who lived in a cave in the Sannio mountains in the region of modern Molise, Italy. Pope Saint Gregory the

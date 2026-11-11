@@ -1,5 +1,6 @@
 ---
 name: Saint Natalia
+stub: false
 honorific: Saint
 summary: >-
   Half-Moorish. Convert to Christianity. Married to Saint Aurelius. Mother of two. She and Aurelius knew that to openly

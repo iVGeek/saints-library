@@ -1,5 +1,6 @@
 ---
 name: Saint Liberalis of Treviso
+stub: false
 honorific: Saint
 summary: >-
   Priest. Worked to convert Arians to orthodox Christianity, and was much abused by the Arians because of it. Late in

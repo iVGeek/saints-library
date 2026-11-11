@@ -1,5 +1,6 @@
 ---
 name: Saint Amator of Autun
+stub: true
 honorific: Saint
 summary: Bishop of Autun, France c.270. Brought the Gallic Aedui tribe to the faith.
 searchAliases:

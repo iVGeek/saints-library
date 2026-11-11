@@ -1,5 +1,6 @@
 ---
 name: Saint Afra of Brescia
+stub: false
 honorific: Saint
 summary: >-
   Second-century lay-woman, married to a nobleman in Brescia, Lombardy. Adult convert to Christianity, baptized by Saint

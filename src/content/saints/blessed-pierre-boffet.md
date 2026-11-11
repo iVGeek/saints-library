@@ -1,5 +1,6 @@
 ---
 name: Blessed Pierre Boffet
+stub: false
 honorific: Blessed
 summary: >-
   Mercedarian. Professor of theology. Noted preacher. Worked to ransom Christians enslaved in Muslim-controlled areas.

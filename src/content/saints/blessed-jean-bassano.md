@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/45/Antique_Valentine_1909_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Jean Bassano
+stub: false
 honorific: Blessed
 summary: >-
   Canon regular. Celestine Benedictine at Paris, France. Spiritual director of Saint Colette. Held several offices in

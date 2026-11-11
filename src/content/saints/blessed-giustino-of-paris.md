@@ -1,5 +1,6 @@
 ---
 name: Blessed Giustino of Paris
+stub: false
 honorific: Blessed
 summary: >-
   Trained in the law, he taught at the University of Paris, France. Mercedarian secular knight in Valencia, Spain.

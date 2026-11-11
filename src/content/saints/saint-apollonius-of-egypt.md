@@ -1,5 +1,6 @@
 ---
 name: Saint Apollonius of Egypt
+stub: true
 honorific: Saint
 summary: Martyred in the persecutions of Galerius Maximian.
 searchAliases:

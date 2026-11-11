@@ -1,5 +1,6 @@
 ---
 name: Venerable Carme Badosa Cuatrecasas
+stub: true
 image: https://upload.wikimedia.org/wikipedia/commons/b/b1/BadosaArcangela.jpg
 honorific: Venerable
 summary: Carmelite nun.

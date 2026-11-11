@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Lucio of Alexandria
+stub: true
 honorific: Saint
 summary: One of a number of Christians martyred in the persecutions of Valerian.
 died: Alexandria, Egypt

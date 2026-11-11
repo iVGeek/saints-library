@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Rosius of Campania
+stub: false
 honorific: Saint
 summary: >-
   Priest in North African. Tortured and exiled by being stuck in a boat without a rudder and sent out to sea by the

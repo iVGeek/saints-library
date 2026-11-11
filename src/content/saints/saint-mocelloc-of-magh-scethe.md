@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Mocelloc of Magh-Scethe
+stub: false
 honorific: Saint
 summary: >-
   One of the first Christians in Ireland, baptized c.347, and coming to the faith even before the work of Saint Patrick.

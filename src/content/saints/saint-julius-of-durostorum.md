@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Julius of Durostorum
+stub: true
 honorific: Saint
 summary: Martyr.
 searchAliases:

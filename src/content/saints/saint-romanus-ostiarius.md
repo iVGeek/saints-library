@@ -1,5 +1,6 @@
 ---
 name: Saint Romanus Ostiarius
+stub: false
 honorific: Saint
 summary: >-
   Soldier. Converted to Christianity by the example of Saint Lawrence of Rome, by whom he was baptized. Church ostiarius

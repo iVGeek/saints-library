@@ -1,5 +1,6 @@
 ---
 name: Pope Saint Hormisdas
+stub: false
 honorific: Saint
 summary: ' Best known for the written work Formula of Hormisdas, a succinct confession of the faith, acceptance of which ended the Monophysite schism of Acacius in the Eastern church. Married, and father of the future Pope Saint Silverius. Widower. Pope.'
 image: https://commons.wikimedia.org/wiki/Special:FilePath/Tafel_paepste.jpg?width=600

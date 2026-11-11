@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Potamius of Troyes
+stub: false
 honorific: Saint
 summary: >-
   A sixth century gentleman who, after committing a serious but unspecified sin, made a pilgrimage to Rome, Italy to ask

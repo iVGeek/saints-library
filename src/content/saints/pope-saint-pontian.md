@@ -1,5 +1,6 @@
 ---
 name: Pope Saint Pontian
+stub: false
 honorific: Saint
 summary: >-
   Son of Calpurnius. Chosen 18th pope in 230. Ended the schism of Hippolytus and reconciled the schismatics with the

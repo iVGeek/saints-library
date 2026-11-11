@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Venerable Raimundo Calcagno
+stub: true
 honorific: Venerable
 summary: Member of the Congregation of the Oratory of Saint Philip Neri. Priest.
 birthYear: 1888

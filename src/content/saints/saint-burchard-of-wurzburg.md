@@ -1,5 +1,6 @@
 ---
 name: Saint Burchard of Würzburg
+stub: false
 honorific: Saint
 summary: >-
   Born wealthy, he felt early called to the Church and working with the poor. Inspired by Saint Boniface, he became a

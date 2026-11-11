@@ -1,5 +1,6 @@
 ---
 name: Andrew the Apostle
+stub: false
 honorific: Saint
 title: Apostle, Martyr
 summary: >-

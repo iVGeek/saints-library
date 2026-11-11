@@ -1,5 +1,6 @@
 ---
 name: Saint Conleth of Kildare
+stub: false
 honorific: Saint
 summary: >-
   Skilled worker in gold and silver, and manuscript illuminator. Hermit in a cell in Old Connell, Ireland near the

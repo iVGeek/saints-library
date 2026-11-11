@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Quintian of Rhodez
+stub: true
 honorific: Saint
 summary: Bishop of Rhodez, France.
 searchAliases:

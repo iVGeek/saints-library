@@ -1,5 +1,6 @@
 ---
 name: Saint Alexander of Adrumetum
+stub: true
 honorific: Saint
 summary: Martyr.
 deathYear: 434

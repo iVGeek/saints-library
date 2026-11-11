@@ -1,5 +1,6 @@
 ---
 name: Pope Saint Callistus II
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility. Uncle of the Queen of France, cousin of the King of England, related to the German Emperor.

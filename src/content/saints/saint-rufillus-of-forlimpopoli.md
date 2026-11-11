@@ -1,5 +1,6 @@
 ---
 name: Saint Rufillus of Forlimpopoli
+stub: false
 honorific: Saint
 summary: >-
   First Bishop of Forlimpopoli, Emilia, Italy. Legend says that he and his parishioners drove out a dragon from the

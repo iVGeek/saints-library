@@ -1,5 +1,6 @@
 ---
 name: Saint Theobald
+stub: false
 honorific: Saint
 summary: >-
   Born to the French nobility, the son of Count Arnold of Champagne. In his youth, he was led to great sanctity by

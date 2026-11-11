@@ -1,5 +1,6 @@
 ---
 name: Saint Nuño de Santa Maria Álvares Pereira
+stub: false
 honorific: Saint
 summary: >-
   Cousin of the founder of the noble Braganza family. Constable of the kingdom of Portugal, a knight, and a prior in the

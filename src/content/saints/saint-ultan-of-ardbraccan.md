@@ -1,6 +1,7 @@
 ---
 image: https://www.catholic.org/files/images/saints/1883.jpg
 name: Saint Ultan of Ardbraccan
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Ardbraccan, Ireland. Noted for his care of the poor, orphans, and the sick. Thought to have collected the

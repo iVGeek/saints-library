@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Theodulus of Caesarea
+stub: false
 honorific: Saint
 summary: >-
   Member of the household of the governor of Palestine. When the governor learned of Theodulus's Christianity, he

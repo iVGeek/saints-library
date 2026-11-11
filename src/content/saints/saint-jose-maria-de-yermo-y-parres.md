@@ -1,5 +1,6 @@
 ---
 name: Saint Jose Maria de Yermo y Parres
+stub: false
 honorific: Venerable
 summary: >-
   Excellent student in his youth. Worked in the Saint Vincent de Paul Society. Ordained in 24 August 1879 at León,

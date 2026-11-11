@@ -1,5 +1,6 @@
 ---
 name: Blessed Augustine Novello
+stub: false
 honorific: Blessed
 summary: >-
   Graduated a Doctor of law in Bologna, Italy and stayed to teach. Held assorted offices in civil government. Chancellor

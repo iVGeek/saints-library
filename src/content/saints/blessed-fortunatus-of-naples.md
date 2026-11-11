@@ -1,5 +1,6 @@
 ---
 name: Blessed Fortunatus of Naples
+stub: false
 honorific: Blessed
 summary: Bishop of Naples, Italy in the mid-4th-century. Fought to keep Arianism out of his diocese.
 searchAliases:

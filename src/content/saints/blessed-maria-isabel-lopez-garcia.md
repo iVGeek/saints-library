@@ -1,5 +1,6 @@
 ---
 name: Blessed María Isabel López García
+stub: false
 honorific: Blessed
 summary: >-
   The daughter of Pietro and Maria, Isabel was educated by the Sisters of the Christian Doctrine, and joined the

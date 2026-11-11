@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Vintila of Orensee
+stub: true
 honorific: Saint
 summary: Benedictine monk. Hermit at Pugino, near Orense, in Spanish Galicia.
 deathYear: 890

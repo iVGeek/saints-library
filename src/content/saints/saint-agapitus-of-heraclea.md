@@ -1,5 +1,6 @@
 ---
 name: Saint Agapitus of Heraclea
+stub: true
 honorific: Saint
 summary: One of a group of 43 Christians martyred together.
 died: Heraclea, Thrace

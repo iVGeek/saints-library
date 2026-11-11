@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Hormisdas of Persia
+stub: false
 honorific: Saint
 summary: >-
   Born to the Persian noblity. He converted to Christianity in his youth. He later refused to apostacize, was stripped

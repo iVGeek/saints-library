@@ -1,5 +1,6 @@
 ---
 name: Saint Severino Gallo
+stub: false
 honorific: Saint
 summary: >-
   Received a doctorate from the University of Paris. Mercedarian friar. While ransoming Christians enslaved by Muslims

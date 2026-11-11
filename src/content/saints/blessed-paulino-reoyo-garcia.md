@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/49/Saint_Patrick_Catholic_Church_%28Columbus%2C_Ohio%29_-_relics_of_16_Dominican_saints.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Paulino Reoyo García
+stub: false
 honorific: Blessed
 summary: >-
   Educated by the Dominicans in Almagro, Spain, Paulino joined the Dominicans on 29 September 1929, making his solemn

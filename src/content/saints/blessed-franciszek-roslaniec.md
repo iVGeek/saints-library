@@ -1,5 +1,6 @@
 ---
 name: Blessed Franciszek Roslaniec
+stub: false
 honorific: Blessed
 summary: >-
   Priest in the diocese of Radom, Poland, Father Franciszek was a noted Bible scholar, and taught at the University of

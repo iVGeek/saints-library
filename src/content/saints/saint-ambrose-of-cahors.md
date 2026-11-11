@@ -1,5 +1,6 @@
 ---
 name: Saint Ambrose of Cahors
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Cahors, France during a turbulent period; he was forced to flee his diocese several times to escape enemies.

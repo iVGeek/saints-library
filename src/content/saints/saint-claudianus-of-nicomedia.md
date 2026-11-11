@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Claudianus of Nicomedia
+stub: true
 honorific: Saint
 summary: Third-century layman, married to Saint Bassa of Nicomedia. Martyr.
 searchAliases:

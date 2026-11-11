@@ -1,5 +1,6 @@
 ---
 name: Saint Timothy
+stub: false
 honorific: Saint
 summary: >-
   His father was a Greek gentile, his mother Eunice was Jewish. Converted to Christianity by Saint Paul the Apostle

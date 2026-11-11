@@ -1,5 +1,6 @@
 ---
 name: Venerable Maria Teresa Camera
+stub: false
 honorific: Venerable
 summary: >-
   The daughter of Angelo Camera and Caterina Merialdi, a poor farming family. She founded the Congregation of the

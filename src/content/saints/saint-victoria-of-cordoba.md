@@ -1,5 +1,6 @@
 ---
 name: Saint Victoria of Cordoba
+stub: false
 honorific: Saint
 summary: >-
   Sister of Saint Acisclus. Martyred in the persecutions of Diocletian. After their deaths, their home was turned into a

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Clarus of Vallis Regia
+stub: false
 honorific: Saint
 summary: >-
   May have been a bishop, may have been an abbot, may have been both; surviving records are very unclear. Venerated at

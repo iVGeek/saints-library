@@ -1,5 +1,6 @@
 ---
 name: Blessed Francisco Cástor Sojo López
+stub: false
 honorific: Blessed
 summary: >-
   Francisco studied at the seminary of Plasencia, Spain, joining the Hermandad de Sacerdotes Operarios Diocesanos

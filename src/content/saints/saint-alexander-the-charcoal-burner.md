@@ -1,5 +1,6 @@
 ---
 name: Saint Alexander the Charcoal Burner
+stub: false
 honorific: Saint
 summary: >-
   Well-born, educated, and erudiate 3rd century Greek with philosophical training. Convert to Christianity. To escape

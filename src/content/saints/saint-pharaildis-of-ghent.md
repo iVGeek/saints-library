@@ -1,5 +1,6 @@
 ---
 name: Saint Pharaïldis of Ghent
+stub: false
 honorific: Saint
 summary: >-
   Sister of Saint Gudule. Niece of Saint Gertrude of Nivelles. After making a private vow of virginity, Pharaïldis was

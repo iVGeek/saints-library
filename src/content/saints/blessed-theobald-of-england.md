@@ -1,5 +1,6 @@
 ---
 name: Blessed Theobald of England
+stub: false
 honorific: Blessed
 summary: >-
   Mercedarian friar. He and several brother Mercedarians were sent to Africa to ransom Christians held in slavery by

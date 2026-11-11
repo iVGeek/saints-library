@@ -1,5 +1,6 @@
 ---
 name: Blessed Khalil Al-Haddad
+stub: false
 honorific: Blessed
 summary: >-
   Third of five children. Teacher in Egypt when he felt a call to religious life. Franciscan Capuchin monk, making his

@@ -1,5 +1,6 @@
 ---
 name: Saint Leucius of Brindisi
+stub: true
 honorific: Saint
 summary: Missionary from Alexandria, Egypt. First bishop of Brindisi, Italy.
 image: https://upload.wikimedia.org/wikipedia/commons/b/b1/Sleuciusofbrindisi.jpg

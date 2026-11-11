@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Hermes of Numidia
+stub: true
 honorific: Saint
 summary: Martyred in the persecution of Maximian Herculeus.
 deathYear: 290

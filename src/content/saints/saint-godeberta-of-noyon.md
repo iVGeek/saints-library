@@ -1,5 +1,6 @@
 ---
 name: Saint Godeberta of Noyon
+stub: false
 honorific: Saint
 summary: >-
   Though her parents wanted to arrange a suitable marriage for her, Godeberta was drawn to the religious life. In 657

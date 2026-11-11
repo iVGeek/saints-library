@@ -1,5 +1,6 @@
 ---
 name: Saint Aprus of Toul
+stub: false
 honorific: Saint
 summary: >-
   Lawyer, known for his skill, integrity and devotion to justice. He gave up his profession to became a priest. Bishop

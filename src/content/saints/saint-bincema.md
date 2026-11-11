@@ -1,5 +1,6 @@
 ---
 name: Saint Bincema
+stub: true
 honorific: Saint
 summary: Nun. Martyr.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Bincema.jpg

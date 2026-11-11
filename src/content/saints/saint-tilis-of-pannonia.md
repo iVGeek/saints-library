@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Tilis of Pannonia
+stub: true
 honorific: Saint
 summary: Fourth-century martyr.
 died: in Syrmium, Pannonia (in modern Hungary

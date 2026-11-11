@@ -1,5 +1,6 @@
 ---
 name: Saint Willehad of Bremen
+stub: false
 honorific: Saint
 summary: >-
   Educated at York, England. Benedictine monk. Priest. Friend of Blessed Alcuin. Evangelist throughout western Europe.

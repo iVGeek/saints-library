@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Venerable Francisco Camacho
+stub: false
 honorific: Venerable
 summary: >-
   Francisco grew up on a farm. He joined the army at age 20 and fought against the French at the siege of Lleida, Spain.

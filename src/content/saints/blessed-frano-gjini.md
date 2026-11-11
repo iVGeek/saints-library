@@ -1,5 +1,6 @@
 ---
 name: Blessed Frano Gjini
+stub: false
 honorific: Blessed
 summary: >-
   Ordained a priest in the diocese of Shkodrë, Albania on 28 June 1908. Vicar-general of the archdiocese of Durrës,

@@ -1,5 +1,6 @@
 ---
 name: Blessed Luke Belludi
+stub: false
 honorific: Blessed
 summary: >-
   Born to the Italian nobility. Brought into the Franciscans by Saint Anthony of Padua and Saint Francis of Assisi.

@@ -1,5 +1,6 @@
 ---
 name: Saint Appian of Comacchio
+stub: false
 honorific: Saint
 summary: >-
   Benedictine monk at the abbey of Saint Peter of Ciel d'Oro, Pavia, Italy. Steward of his house's goods. Hermit at

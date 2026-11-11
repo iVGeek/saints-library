@@ -1,5 +1,6 @@
 ---
 name: Saint Tatiana
+stub: true
 honorific: Saint
 summary: Nun noted for her ascetic life.
 feastDay:

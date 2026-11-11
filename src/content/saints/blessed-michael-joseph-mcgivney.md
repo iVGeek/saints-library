@@ -1,5 +1,6 @@
 ---
 name: Blessed Michael Joseph McGivney
+stub: false
 honorific: Blessed
 summary: >-
   Son of Irish immigrants. Studied at the Saint-Hyacinthe's Seminary in Saint-Hyacinthe, Quebec, Canada beginning in

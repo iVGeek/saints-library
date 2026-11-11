@@ -1,5 +1,6 @@
 ---
 name: Saint Agapius of Caesarea
+stub: false
 honorific: Saint
 summary: >-
   Arrested three times during the persecutions of Diocletian, but released each time. On his fourth arrest he was

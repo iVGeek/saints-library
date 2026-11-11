@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Nicholas Denise of Beuzeville
+stub: false
 honorific: Blessed
 title: Priest
 summary: >-

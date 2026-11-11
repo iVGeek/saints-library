@@ -1,6 +1,7 @@
 ---
 image: https://www.santiebeati.it/immagini/Thumbs/94331/94331.JPG
 name: Blessed Menda Isategui
+stub: false
 honorific: Blessed
 summary: >-
   Mercedarian nun at the monastery of Santa Maria della Pieta in Marquina, Spain for 80 years. Had the gift of healing

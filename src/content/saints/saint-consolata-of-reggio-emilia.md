@@ -1,6 +1,7 @@
 ---
 image: https://www.santiebeati.it/immagini/Thumbs/93267/93267.jpg
 name: Saint Consolata of Reggio Emilia
+stub: true
 honorific: Saint
 summary: Martyr.
 region: Italy

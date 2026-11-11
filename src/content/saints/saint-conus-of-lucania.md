@@ -1,5 +1,6 @@
 ---
 name: Saint Conus of Lucania
+stub: true
 honorific: Saint
 summary: Benedictine monk in at Santa Maria dei Codossa monastery near Lucania, Italy.
 image: https://catholicsaints.info/wp-content/uploads/Conus-of-Lucania.jpg

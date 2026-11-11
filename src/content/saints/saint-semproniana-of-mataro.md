@@ -1,5 +1,6 @@
 ---
 name: Saint Semproniana of Mataró
+stub: false
 honorific: Saint
 summary: >-
   Blood sister of Saint Juliana of Mataró. Baptized by and spiritual student of Saint Cugat del Valles. Nun. Imprisoned

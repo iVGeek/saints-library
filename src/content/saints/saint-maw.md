@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Maw
+stub: false
 honorific: Saint
 summary: >-
   Immigrated from Ireland to Cornwall, England to live as a hermit by the sea near Falmouth. His reputation for piety

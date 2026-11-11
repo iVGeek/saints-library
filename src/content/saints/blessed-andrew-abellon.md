@@ -1,5 +1,6 @@
 ---
 name: Blessed Andrew Abellon
+stub: false
 honorific: Blessed
 summary: >-
   In his youth he got to listen to the preaching of Saint Vincent Ferrer. Joined the Dominicans at Saint Maximin

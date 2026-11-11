@@ -1,5 +1,6 @@
 ---
 name: Saint Agatho of Thessalonica
+stub: false
 honorific: Saint
 summary: >-
   Convicted of possessing the Scriptures despite a prohibition issued in 303 by Emperor Diocletian. He was ordered to

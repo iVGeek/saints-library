@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Besas of Alexandria
+stub: false
 honorific: Saint
 summary: >-
   Soldier. He was on duty when Saint Julian of Alexandria and Saint Cronion Eunus were being led to their deaths. When

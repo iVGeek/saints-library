@@ -1,5 +1,6 @@
 ---
 name: Saint Floriana of Rome
+stub: true
 honorific: Saint
 summary: Virgin martyr.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Floriana-of-Rome.jpg

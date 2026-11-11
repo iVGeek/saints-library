@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Felicissimus of Perugia
+stub: true
 honorific: Saint
 summary: Martyred under Diocletian.
 deathYear: 303

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Sembeeth of Bardiaboch
+stub: false
 honorific: Saint
 summary: >-
   One of a group of Christians who were arrested, tortured and executed together for their faith during the persecutions

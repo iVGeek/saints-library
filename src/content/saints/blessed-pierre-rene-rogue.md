@@ -1,5 +1,6 @@
 ---
 name: Blessed Pierre-René Rogue
+stub: false
 honorific: Blessed
 summary: >-
   Priest. Member of the Congregation of the Mission (Vincentians). Ordered to take an oath of allegiance to the

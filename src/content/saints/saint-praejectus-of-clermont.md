@@ -1,5 +1,6 @@
 ---
 name: Saint Praejectus of Clermont
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility. Studied under Saint Genesius of Clermont. Priest. Bishop of Clermont, France from 666 to 676.

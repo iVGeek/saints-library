@@ -1,5 +1,6 @@
 ---
 name: Nicholas of Myra
+stub: false
 honorific: Saint
 title: Bishop
 summary: >-

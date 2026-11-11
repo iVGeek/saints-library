@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Noël Tenaud
+stub: true
 honorific: Blessed
 summary: Member of the Paris Foreign Missions Society. Priest. Martyr.
 birthYear: 1904

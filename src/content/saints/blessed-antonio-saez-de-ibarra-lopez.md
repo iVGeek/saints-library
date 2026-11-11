@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/0/08/Roma_martires_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Antonio Sáez de Ibarra López
+stub: false
 honorific: Blessed
 summary: >-
   Franciscan Friar Minor postulant, entering the novitiate on 17 January 1931 and taking the name Antonio; his novitiate

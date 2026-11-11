@@ -1,5 +1,6 @@
 ---
 name: Saint Bradan
+stub: true
 honorific: Saint
 summary: Saint venerated on the Isle of Man. No other information has survived.
 searchAliases:

@@ -1,5 +1,6 @@
 ---
 name: Saint Daniel of Padua
+stub: false
 honorific: Saint
 summary: >-
   Jewish convert. Deacon to Saint Prosdocimus of Padua, and assisted in his missionary work. Martyed for his efforts

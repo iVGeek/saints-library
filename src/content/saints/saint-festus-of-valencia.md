@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Festus of Valencia
+stub: false
 honorific: Saint
 summary: >-
   Fifth-century bishop of Valencia, Spain. When his city was invaded by barbarians, their leader Chrocus demanded that

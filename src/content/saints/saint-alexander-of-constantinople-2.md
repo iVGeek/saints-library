@@ -1,5 +1,6 @@
 ---
 name: Saint Alexander of Constantinople
+stub: false
 honorific: Saint
 summary: >-
   First bishop of Constantinople. Fought Arianism and turned away the writings of Arius from entering his diocese.

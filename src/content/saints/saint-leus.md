@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/e/e5/%C3%89glise_Saint-Leu-Saint-Gilles%2C_Paris_26_May_2012.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Leus
+stub: true
 honorific: Saint
 title: Priest
 summary: Fourth century priest.

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Phaina of Ancyra
+stub: true
 honorific: Saint
 summary: Nun martyred in the persecutions of Diocletian.
 deathYear: 304

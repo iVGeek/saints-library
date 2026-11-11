@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Pia of Quedlinburg
+stub: false
 honorific: Saint
 summary: >-
   Hermitess at Saint Mary's chapel, Huysburg, Halberstadt, Germany c.1070. When the double monastery of Quedlinburg was

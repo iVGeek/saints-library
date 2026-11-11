@@ -1,5 +1,6 @@
 ---
 name: Saint Caian of Tregaian
+stub: false
 honorific: Saint
 summary: Fifth-century son or grandson of King Brychan of Brecknock. A church at Tregaian, Wales is dedicated to him.
 searchAliases:

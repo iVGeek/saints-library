@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/e/e5/S%C3%A3o_Jo%C3%A3o_Maria_Vianney.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Jean of France
+stub: false
 honorific: Blessed
 summary: >-
   Mercedarian friar. Travelling through Algiers and north Africa from 1398 to 1401, he was repeatedly abused and

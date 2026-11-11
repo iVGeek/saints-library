@@ -1,5 +1,6 @@
 ---
 name: Blessed Teresa Jiménez Baldoví
+stub: false
 honorific: Blessed
 summary: >-
   Professed religious in the Sisters of the Christian Doctrine, joining in 1907. She served as a teacher. Having lost

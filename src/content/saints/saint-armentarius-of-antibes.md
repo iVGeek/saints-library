@@ -1,5 +1,6 @@
 ---
 name: Saint Armentarius of Antibes
+stub: false
 honorific: Saint
 title: Bishop
 summary: >-

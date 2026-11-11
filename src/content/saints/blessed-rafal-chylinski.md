@@ -1,5 +1,6 @@
 ---
 name: Blessed Rafał Chyliński
+stub: false
 honorific: Blessed
 summary: >-
   A pious youth, his family nicknamed him “the little monk.” After graduating the Jesuit college in Poznan, Poland,

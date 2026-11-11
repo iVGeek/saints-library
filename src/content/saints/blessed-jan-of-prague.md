@@ -1,5 +1,6 @@
 ---
 name: Blessed Jan of Prague
+stub: false
 honorific: Blessed
 summary: Franciscan Friar Minor novice. One of the Martyrs of Prague, killed by a Lutheran mob.
 image: https://catholicsaints.info/wp-content/uploads/blessed-jan-of-prague.jpg

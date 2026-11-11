@@ -1,5 +1,6 @@
 ---
 name: Saint Gregory the Moor
+stub: true
 honorific: Saint
 summary: Martyr.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Gregory-the-Moor.jpg

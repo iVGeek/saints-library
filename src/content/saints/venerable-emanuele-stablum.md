@@ -1,5 +1,6 @@
 ---
 name: Venerable Emanuele Stablum
+stub: false
 honorific: Venerable
 summary: >-
   Religious brother, joining the Sons of the Immaculate Conception on 15 August 1913. By order of his Congregation

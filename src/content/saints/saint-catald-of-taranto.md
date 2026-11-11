@@ -1,5 +1,6 @@
 ---
 name: Saint Catald of Taranto
+stub: false
 honorific: Saint
 summary: >-
   Student at the monastic school of Lismore, Waterford under Saint Carthage. Later a teacher there, and then headmaster.

@@ -1,5 +1,6 @@
 ---
 name: Blessed Franco of Siena
+stub: false
 honorific: Blessed
 summary: >-
   Born to the Italian nobility. Spent a dissolute youth as a soldier in Italy. Near Sartiano, Italy he was blinded, and

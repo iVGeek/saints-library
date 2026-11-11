@@ -1,5 +1,6 @@
 ---
 name: Saint Diaconus
+stub: false
 honorific: Saint
 summary: >-
   A 6th-century deacon in the Marsi region of Italy. Martyred by Lombards with two unnamed monks. His name has been

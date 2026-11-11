@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Lucillian of Byzantium
+stub: true
 honorific: Saint
 summary: Converted in his old age. Martyr.
 searchAliases:

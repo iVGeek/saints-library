@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Hunegund of Homblieres
+stub: false
 honorific: Saint
 summary: >-
   Hunegund was drawn to religious life, but was compelled to marry against her wishes. She convinced her future husband

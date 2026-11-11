@@ -1,5 +1,6 @@
 ---
 name: Saint Catula of Africa
+stub: true
 honorific: Saint
 summary: Martyred in Africa, date unknown. No other information has survivied.
 region: Africa

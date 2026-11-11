@@ -1,5 +1,6 @@
 ---
 name: Blessed Félix Gómez-Pinto Piñero
+stub: false
 honorific: Blessed
 summary: >-
   One of four children born to pious farm family; his mother was a Franciscan tertiary, and two of his sisters became

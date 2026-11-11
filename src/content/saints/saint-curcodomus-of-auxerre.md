@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Curcodomus of Auxerre
+stub: false
 honorific: Saint
 summary: >-
   Third century deacon in Rome, Italy. Missionary to Auxerre, Gaul (modern France), sent by Pope Sixtus II to assist the

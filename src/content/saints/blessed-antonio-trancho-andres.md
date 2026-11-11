@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/49/Saint_Patrick_Catholic_Church_%28Columbus%2C_Ohio%29_-_relics_of_16_Dominican_saints.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Antonio Trancho Andrés
+stub: false
 honorific: Blessed
 summary: >-
   Antonio joined the Dominicans in Almagro, Spain on 23 September 1917. He made his profession in September 1918,

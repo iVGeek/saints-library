@@ -1,5 +1,6 @@
 ---
 name: Saint Adiutor of Campania
+stub: false
 honorific: Saint
 title: Priest
 summary: >-

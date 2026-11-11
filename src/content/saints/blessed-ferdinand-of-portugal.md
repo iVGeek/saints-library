@@ -1,5 +1,6 @@
 ---
 name: Blessed Ferdinand of Portugal
+stub: false
 honorific: Blessed
 summary: >-
   A prince, the son of King John I of Portugal. He grew up in the royal court, but spent his free time in prayer and

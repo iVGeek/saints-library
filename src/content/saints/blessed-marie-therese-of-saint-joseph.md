@@ -1,5 +1,6 @@
 ---
 name: Blessed Marie Therese of Saint Joseph
+stub: false
 honorific: Blessed
 summary: >-
   Daughter of a Lutheran Superintendent. Convert to Catholicism, joining the Church on 30 October 1888. Nun, taking the

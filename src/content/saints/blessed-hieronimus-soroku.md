@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Hieronimus Soroku
+stub: false
 honorific: Blessed
 summary: Layman in the Kyoto, Japan. Married to Blessed Lucia Soroku. One of the Martyrs of Kyoto.
 deathYear: 1619

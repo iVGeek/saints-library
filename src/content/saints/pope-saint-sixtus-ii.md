@@ -1,5 +1,6 @@
 ---
 name: Pope Saint Sixtus II
+stub: false
 honorific: Saint
 summary: ' He dealt with the controversy concerning baptism by heretics. He believed that anyone who was baptised with a desire to be a Christian, even if the baptism was performed by a heretic, Philosopher and adult convert to Christianity. Deacon in Rome, Italy. Pope for less than a year.'
 image: https://upload.wikimedia.org/wikipedia/commons/2/23/Sandro_Botticelli_%E2%80%93_Sixtus_II.jpg

@@ -1,5 +1,6 @@
 ---
 name: Saint John of Beverley
+stub: false
 honorific: Saint
 summary: >-
   Studied at Canterbury under Saint Adrian and Saint Theodore. Benedictine monk at Whitby. Bishop of Hexham, England in

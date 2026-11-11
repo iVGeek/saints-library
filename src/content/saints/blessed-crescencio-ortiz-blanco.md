@@ -1,5 +1,6 @@
 ---
 name: Blessed Crescencio Ortiz Blanco
+stub: false
 honorific: Blessed
 summary: >-
   Member of the Redemptorists, making his profession on 24 September 1900. Ordained a priest on 23 December 1905.

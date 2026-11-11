@@ -1,5 +1,6 @@
 ---
 name: Saint Eleutherius the Abbot
+stub: false
 honorific: Saint
 summary: >-
   Abbot of Saint Mark's Abbey, Spoleto, Italy. Monk in Rome, Italy under the direction of Saint Gregory the Great who

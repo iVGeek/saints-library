@@ -1,5 +1,6 @@
 ---
 name: Saint Eustochium of Tarsus
+stub: false
 honorific: Saint
 summary: >-
   When Julian the Apostate renounced Christianity, he ordered all subjects to make a sacrifice to idols. Eustochium

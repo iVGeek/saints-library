@@ -1,5 +1,6 @@
 ---
 name: Saint Paulinus of York
+stub: false
 honorific: Saint
 summary: >-
   The Venerable Bede describes him as a “tall man with a slight stoop, who had black hair, a thin face and a narrow,

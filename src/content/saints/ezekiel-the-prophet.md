@@ -1,5 +1,6 @@
 ---
 name: Ezekiel the Prophet
+stub: false
 honorific: Saint
 summary: >-
   Prophet, son of Buzi, exiled to Babylon about 598 BC. He began to prophesy five years later and continued for over

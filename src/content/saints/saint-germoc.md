@@ -1,5 +1,6 @@
 ---
 name: Saint Germoc
+stub: false
 honorific: Saint
 summary: Sixth century Irish chieftain. Brother of Saint Breaca. Monk. Late in life he moved to Cornwall, England.
 searchAliases:

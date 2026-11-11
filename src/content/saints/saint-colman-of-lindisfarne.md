@@ -1,5 +1,6 @@
 ---
 name: Saint Colman of Lindisfarne
+stub: false
 honorific: Saint
 summary: >-
   Spiritual student and disciple of Saint Columba. Monk at Iona. Bishop of Lindisfarne, England in 661. Friend of king

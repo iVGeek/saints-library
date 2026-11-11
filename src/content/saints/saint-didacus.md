@@ -1,5 +1,6 @@
 ---
 name: Saint Didacus of Alcalá
+stub: false
 honorific: Saint
 summary: >-
   Didacus loved and felt drawn to the solitary life from his youth, and when still young he became a hermit who

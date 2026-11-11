@@ -1,5 +1,6 @@
 ---
 name: Saint Diodoro of Aphrodisias
+stub: true
 honorific: Saint
 summary: Martyred in the persecutions of Diocletian.
 died: stoned to death at Aphrodisias, Caria (near modern Geyre, Turkey)

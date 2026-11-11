@@ -1,5 +1,6 @@
 ---
 name: Venerable Gregorio Tomás Suárez Fernández
+stub: false
 honorific: Venerable
 summary: >-
   Tenth of eleven children born to the peasant family of Pedro and Petra Suárez Fernández. He joined the Augustinians in

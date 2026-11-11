@@ -1,5 +1,6 @@
 ---
 name: Blessed John Discalceat
+stub: false
 honorific: Blessed
 summary: >-
   Stone mason. Franciscan. Priest. Pastor of Saint Gregoire, Rennes, France, where he attended to his duties barefooted.

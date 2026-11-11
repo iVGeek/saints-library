@@ -1,5 +1,6 @@
 ---
 name: Saint Methodius
+stub: false
 honorific: Saint
 summary: >-
   Brother of Saint Cyril. Born to the Greek nobility. Studied at the University of Constantinople, and taught philosophy

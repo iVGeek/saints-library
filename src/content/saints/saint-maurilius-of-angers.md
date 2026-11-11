@@ -1,5 +1,6 @@
 ---
 name: Saint Maurilius of Angers
+stub: false
 honorific: Saint
 summary: >-
   Spiritual student of Saint Ambrose of Milan and Saint Martin of Tours in France. Missionary. Bishop of Angers, France

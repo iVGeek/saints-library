@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Rufina of Caesarea
+stub: false
 honorific: Saint
 summary: Married to Saint Theodotus of Caesarea. Mother of Saint Mamas. Martyred in the persecutions of Aurelian.
 deathYear: 270

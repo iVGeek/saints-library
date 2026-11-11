@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Waldrada of Metz
+stub: false
 honorific: Saint
 summary: >-
   Born to the Frankish nobility, a member of the Merovingians. Benedictine nun. First abbess of the

@@ -1,5 +1,6 @@
 ---
 name: Saint Hervé
+stub: false
 honorific: Saint
 summary: >-
   Son of the bard Hyvarnion, Herve was born blind. His father died when Herve was an infant, his mother, Rivanone,

@@ -1,5 +1,6 @@
 ---
 name: Saint Vincent of Lérins
+stub: false
 honorific: Saint
 summary: >-
   May have been born to the Gallic nobility. Career soldier. Retired to become a monk at Lerins, France. Wrote the

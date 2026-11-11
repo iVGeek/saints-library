@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Sapor of Persia
+stub: true
 honorific: Saint
 summary: Relative of King Shapur II who had him executed for his faith. Martyr.
 searchAliases:

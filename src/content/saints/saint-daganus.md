@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Daganus
+stub: false
 honorific: Saint
 summary: >-
   Bishop honoured in Galloway, Scotland, who was known for his personal piety. Involved in the dispute over using the

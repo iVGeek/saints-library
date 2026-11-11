@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Marchisianus of Fiesole
+stub: true
 honorific: Saint
 summary: Martyred in the persecutions of emperor Domitian.
 died: c.90 near Fiesole, Italy

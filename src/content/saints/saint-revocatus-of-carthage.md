@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Revocatus of Carthage
+stub: true
 honorific: Saint
 summary: Catechumen. Martyr.
 deathYear: 203

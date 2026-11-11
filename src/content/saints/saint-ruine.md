@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Ruine
+stub: false
 honorific: Saint
 summary: Nun mentioned in a litany of saints in the 12th century Book of Leinster, but no details about her have survived.
 born: early 9th century Ireland

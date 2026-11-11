@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Ortario of Landelles
+stub: false
 honorific: Saint
 summary: >-
   Monk. Abbot of Landelles Abbey, Bayeux, France. Noted for the austerity of his personal life and his dedication to

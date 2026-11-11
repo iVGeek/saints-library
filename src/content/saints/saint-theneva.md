@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Theneva
+stub: false
 honorific: Saint
 summary: >-
   British princess. When Theneva became pregnant before marriage, her family threw her from a cliff. She survived the

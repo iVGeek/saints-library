@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Colman of Templeshambo
+stub: false
 honorific: Saint
 summary: >-
   Contemporary of Saint Aidan. Monk. Abbot of Templeshambo monastery, the mother church of Enniscorthy and hub of the

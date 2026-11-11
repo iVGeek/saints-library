@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Blath of Kildare
+stub: false
 honorific: Saint
 summary: >-
   Lay-sister and cook in the Kildare, Ireland convent of Saint Brigid. Known for her simple, personal sanctity, and for

@@ -1,5 +1,6 @@
 ---
 name: Saint Senan
+stub: false
 honorific: Saint
 summary: >-
   Apparently born to a Christian farm family. Educated by Saint Naul and a saintly monk named Cassidan. Monk at

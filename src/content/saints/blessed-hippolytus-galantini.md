@@ -1,5 +1,6 @@
 ---
 name: Blessed Hippolytus Galantini
+stub: false
 honorific: Blessed
 summary: >-
   Silk-weaver. From age twelve, he assisted priests in teaching children their catechism. As an adult, he formed the

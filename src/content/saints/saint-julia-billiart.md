@@ -1,5 +1,6 @@
 ---
 name: Saint Julia Billiart
+stub: false
 honorific: Venerable
 summary: >-
   Sixth of seven children of peasant farmers Jean-Fran&ccedil;ois Billiart and Marie-Louise-Antoinette Debraine. She was

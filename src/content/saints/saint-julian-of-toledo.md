@@ -1,5 +1,6 @@
 ---
 name: Saint Julian of Toledo
+stub: false
 honorific: Saint
 summary: >-
   Parents may have been Jewish, but Julian was raised Christian. Well educated at the local cathedral school. Monk at

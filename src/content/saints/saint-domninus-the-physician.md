@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Domninus the Physician
+stub: false
 honorific: Saint
 summary: Physician condemned to work the mines during the persecutions of Maximian. Martyr.
 searchAliases:

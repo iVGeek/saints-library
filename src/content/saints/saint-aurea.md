@@ -1,5 +1,6 @@
 ---
 name: Saint Aurea of Paris
+stub: false
 honorific: Saint
 summary: >-
   Immigrated from Syria to France. Nun. Served as abbess of Saint Martial in Paris, France for 33 years. Died with 160

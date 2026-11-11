@@ -1,5 +1,6 @@
 ---
 name: Blessed Gerard of Clairvaux
+stub: false
 honorific: Blessed
 summary: >-
   As a young man, Gerard was drawn to religious life and joined the Benedictines at the Fossanova Abbey near Rome,

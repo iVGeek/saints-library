@@ -1,5 +1,6 @@
 ---
 name: Saint Felix of Rome
+stub: true
 honorific: Saint
 title: Priest
 summary: Priest in Rome, Italy. No other information has survived.

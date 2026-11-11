@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/d/d4/Lorenzo_maitani_%28attr.%29%2C_monumento_di_benedetto_XI%2C_1305_circa%2C_05%28rotated%29%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Romeo of Lucca
+stub: false
 honorific: Blessed
 summary: >-
   Carmelite brother. Pilgrim to the Holy Land and to Rome, Italy. He travelled and is associated with Blessed Avertano

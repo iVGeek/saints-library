@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Santiago de Prado Fernández
+stub: true
 honorific: Blessed
 summary: Dominican friar. Martyred in the Spanish Civil War.
 searchAliases:

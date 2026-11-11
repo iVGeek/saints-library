@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/8/87/Padre_Pio_portraitFXD.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Stoppa
+stub: false
 honorific: Blessed
 summary: >-
   Franciscan tertiary. At one point she travelled from Italy to Spain to help establish houses for religious life, then

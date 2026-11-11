@@ -1,5 +1,6 @@
 ---
 name: Saint Teresa Margaret Redi
+stub: false
 honorific: Saint
 summary: ' Educated at the Saint Apollonia convent at Florence, Italy from age nine. A gentl Born to the Tuscan nobility, the daughter of Count Ignatius Redi and Camilla Billeti. Pious child who saw God in all things, and who was confused to learn that not everyone knew that God loved them.'
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Teresa-Margaret-Redi.jpg

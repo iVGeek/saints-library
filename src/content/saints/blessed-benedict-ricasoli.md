@@ -1,5 +1,6 @@
 ---
 name: Blessed Benedict Ricasoli
+stub: false
 honorific: Blessed
 summary: >-
   Vallumbrosan monk at a mountain monastery founded by his parents. In later life he became a hermit in a cell near the

@@ -1,5 +1,6 @@
 ---
 name: Saint Desiderius of Piacenza
+stub: true
 honorific: Saint
 summary: Martyr.
 searchAliases:

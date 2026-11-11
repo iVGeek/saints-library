@@ -1,5 +1,6 @@
 ---
 name: Blessed Wojciech Gondek
+stub: false
 honorific: Blessed
 summary: >-
   Joined the Franciscan Friars Minor in 1928, making his solemn profession on 18 April 1933, taking the name Krystyn.

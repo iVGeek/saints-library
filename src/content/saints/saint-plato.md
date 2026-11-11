@@ -1,5 +1,6 @@
 ---
 name: Saint Plato
+stub: false
 honorific: Saint
 summary: >-
   Plato's wealthy parents died of disease before he was 13. Raised and educated by an uncle who was a treasurer, and

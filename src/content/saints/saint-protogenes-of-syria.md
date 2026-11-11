@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Protogenes of Syria
+stub: false
 honorific: Saint
 summary: >-
   Priest in Edessa. During the Arian persecutions of the Roman emperor Valens c.370, the Catholic bishop of Edessa,

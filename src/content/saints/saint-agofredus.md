@@ -1,5 +1,6 @@
 ---
 name: Saint Agofredus of Saint-Leufroy
+stub: false
 honorific: Saint
 summary: Brother of Saint Leutfridus. Holy Cross Benedictine monk. Known throughout Normandy, France, for his holiness.
 deathYear: 738

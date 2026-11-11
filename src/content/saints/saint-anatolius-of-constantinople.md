@@ -1,5 +1,6 @@
 ---
 name: Saint Anatolius of Constantinople
+stub: false
 honorific: Saint
 summary: >-
   Patriarch of Constantinople from 449 to 458. Known for his simple, austere life, his charity to the poor, his zeal for

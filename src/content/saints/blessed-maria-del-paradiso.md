@@ -1,5 +1,6 @@
 ---
 name: Blessed Maria del Paradiso
+stub: false
 honorific: Blessed
 summary: >-
   Sister of Blessed Elisabetta del Paradiso. The two became Mercedarian nuns together at the monastery of Santa Maria ad

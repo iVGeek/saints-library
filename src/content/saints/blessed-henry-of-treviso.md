@@ -1,5 +1,6 @@
 ---
 name: Blessed Henry of Treviso
+stub: false
 honorific: Blessed
 summary: >-
   Born poor, Henry was a married lay man and father who worked as a day labourer. However, when his wife and child died

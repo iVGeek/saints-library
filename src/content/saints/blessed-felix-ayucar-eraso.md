@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Félix Ayúcar Eraso
+stub: false
 honorific: Blessed
 summary: Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War.
 searchAliases:

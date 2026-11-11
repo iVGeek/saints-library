@@ -1,5 +1,6 @@
 ---
 name: Venerable Pierre Toussaint
+stub: false
 honorific: Venerable
 summary: >-
   Born a slave. His master, Jean Berard, taught Pierre to read and write, and when Berard moved to New York in 1787, he

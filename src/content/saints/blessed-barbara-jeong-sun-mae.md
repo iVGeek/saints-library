@@ -1,5 +1,6 @@
 ---
 name: Blessed Barbara Jeong Sun-Mae
+stub: false
 honorific: Blessed
 summary: >-
   Lay woman martyr in the apostolic vicariate of Korea. Convert to Catholicism. Moving to Seoul, she founded a group of

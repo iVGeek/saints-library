@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Mary of Seyne
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility, the family of the Count of Seyne (an area of modern Germany). Many of the noble families sought

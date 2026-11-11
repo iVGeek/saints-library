@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Cassian of Benevento
+stub: true
 honorific: Saint
 title: Bishop
 summary: Bishop of Benevento, Italy.

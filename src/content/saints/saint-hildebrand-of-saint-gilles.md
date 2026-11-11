@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Hildebrand of Saint-Gilles
+stub: true
 honorific: Saint
 summary: Cistercian monk. Martyred by Albigensians.
 deathYear: 1209

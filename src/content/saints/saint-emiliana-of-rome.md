@@ -1,5 +1,6 @@
 ---
 name: Saint Emiliana of Rome
+stub: true
 honorific: Saint
 summary: A virgin-martyr. No other information has survived.
 image: https://catholicsaints.info/wp-content/uploads/img-Pictorial-Saints-Thrasilla-and-Emiliana-Virgins.jpg

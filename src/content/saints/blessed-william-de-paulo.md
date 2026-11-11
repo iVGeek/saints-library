@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/9/9e/S._F._Nerist.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed William de Paulo
+stub: false
 honorific: Blessed
 summary: Benedictine monk at San Niccolo dell' Arena. Abbot at Maniaco, assigned to restore discipline.
 deathYear: 1423

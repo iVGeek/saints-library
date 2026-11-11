@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Honestus of Nimes
+stub: false
 honorific: Saint
 summary: Convert. Priest. Evangelized in Spain with Saint Saturninus, who had brought him into the faith. Martyr.
 deathYear: 270

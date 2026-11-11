@@ -1,5 +1,6 @@
 ---
 name: Saint Eucherius of Orléans
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility, Eucherius was a very pious in youth, and highly educated; legend says that his pregnant mother

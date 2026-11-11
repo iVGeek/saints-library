@@ -1,5 +1,6 @@
 ---
 name: Pope Saint Gelasius II
+stub: false
 honorific: Saint
 summary: >-
   Benedictine monk at Monte Cassino. Counsellor to Pope Pascal II. Cardinal. Chancellor of the Vatican. Chosen 161st

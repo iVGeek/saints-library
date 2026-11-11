@@ -1,5 +1,6 @@
 ---
 name: Saint Sigeberht of East Anglia
+stub: false
 honorific: Saint
 summary: >-
   While exiled from East Anglia to France during the reign of King Redwald, Sigeberht converted to Christianity. He

@@ -1,5 +1,6 @@
 ---
 name: Saint Tommaso da Cori
+stub: false
 honorific: Venerable
 summary: >-
   Spent his youth as a shepherd. Studied philosophy and theology in Viterbo, Italy. Joined the Observant Franciscans in

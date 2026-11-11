@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Venerable Bénigne Joly
+stub: false
 honorific: Venerable
 summary: Priest of the diocese of Dijon, France. Founded the Congregation of Our Lady of Charity of Dijon.
 birthYear: 1644

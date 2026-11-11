@@ -1,5 +1,6 @@
 ---
 name: Saint Albert of Como
+stub: false
 honorific: Saint
 summary: Hermit at Rho, Italy. Benedictine monk at San Carpofero monastery in Como, Italy. Abbot of his house. Bishop of Como.
 searchAliases:

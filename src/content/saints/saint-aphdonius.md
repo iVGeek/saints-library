@@ -1,5 +1,6 @@
 ---
 name: Saint Aphdonius
+stub: false
 honorific: Saint
 summary: >-
   A torturer in the court of King Sapor II of Persia. Witnessing the courage and faith of his victims, Saints Acindynus,

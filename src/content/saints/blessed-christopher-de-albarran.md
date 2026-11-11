@@ -1,5 +1,6 @@
 ---
 name: Blessed Christopher de Albarran
+stub: false
 honorific: Blessed
 summary: Mercedarian priest. Missionary in area of modern Peru, Argentina and Paraguay. Martyred by Chiriguanos.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Christopher-de-Albarran.jpg

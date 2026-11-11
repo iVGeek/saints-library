@@ -1,5 +1,6 @@
 ---
 name: Saint Bruno of Würzburg
+stub: false
 honorific: Saint
 summary: >-
   Son of Duke Conrad of Carinthia and the Baroness Matilda. Nephew of Pope Gregory V. Cousin to emperor Conrad II, and

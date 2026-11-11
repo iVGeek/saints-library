@@ -1,5 +1,6 @@
 ---
 name: Blessed Antoni Swiadek
+stub: false
 honorific: Blessed
 summary: >-
   The son of Władysław and Władysława Swiadek; his father was a wheelwright. After studying at the seminary in Poznań,

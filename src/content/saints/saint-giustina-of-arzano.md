@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Giustina of Arzano
+stub: false
 honorific: Saint
 summary: >-
   Young Christian woman in Trieste, Italy who had consecrated herself to God during a period of persecution. A pagan

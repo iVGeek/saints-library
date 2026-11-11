@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/f/f0/UK-2014-Oxford-Oriel_College_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Bartholomew de Vir
+stub: false
 honorific: Blessed
 summary: >-
   Bishop of Laon, France from 1113 to 1151. Helped Saint Norbert of Xanten with the founding of the Premonstratensians.

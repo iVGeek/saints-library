@@ -1,5 +1,6 @@
 ---
 name: Blessed John Nutter
+stub: false
 honorific: Blessed
 summary: >-
   Brother of Blessed Robert Nutter. Fellow at Saint John's College, Cambridge. Studied for the priesthood at the English

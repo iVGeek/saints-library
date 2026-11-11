@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Ismidone of Die
+stub: false
 honorific: Saint
 title: Bishop
 summary: >-

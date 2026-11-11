@@ -1,5 +1,6 @@
 ---
 name: Saint Vincent Pallotti
+stub: false
 honorific: Venerable
 summary: >-
   Born to the Italian nobility. Priest. Taught theology. He lived in constant danger working with the sick during a

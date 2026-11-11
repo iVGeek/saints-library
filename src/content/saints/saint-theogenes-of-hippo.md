@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Theogenes of Hippo
+stub: false
 honorific: Saint
 summary: >-
   Third century bishop of Hippo in North Africa. Attended the Council of Carthage called by Saint Cyprian c.250.

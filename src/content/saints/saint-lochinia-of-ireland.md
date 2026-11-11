@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Lochinia of Ireland
+stub: false
 honorific: Saint
 summary: >-
   Born a princess, the daughter of Briga and King Conall Derg of Oriel in northern Ireland. Sister of Saint Fanchea of

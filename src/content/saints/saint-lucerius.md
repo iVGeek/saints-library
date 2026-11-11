@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Lucerius
+stub: false
 honorific: Saint
 summary: >-
   Benedictine monk at Farfa, Italy. Spiritual student of Saint Thomas of Farfa. Second abbot of the house at Maurienne,

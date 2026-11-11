@@ -1,5 +1,6 @@
 ---
 name: Saint John Buonagiunta Monetti
+stub: false
 honorific: Saint
 summary: >-
   One of the Seven Founders of Servants of Mary. The youngest of the Founders. Elected as the second prior-general of

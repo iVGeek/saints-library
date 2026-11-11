@@ -1,5 +1,6 @@
 ---
 name: Venerable Teofilo Camomot-Bastida
+stub: false
 honorific: Venerable
 summary: >-
   Third of eight children born to Luis and Angela Bastida. Studied at the Seminario de San Carlos in Cebu City,

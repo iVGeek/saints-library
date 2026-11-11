@@ -1,5 +1,6 @@
 ---
 name: Blessed Cassian Vaz Lopez-Neto
+stub: false
 honorific: Blessed
 summary: Capuchin monk at Angers, France. Missionary with Blessed Agathangelus to the Egyptian Copts. Martyr.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Angathangelus-and-Cassianus.jpg

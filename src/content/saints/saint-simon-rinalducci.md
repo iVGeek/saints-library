@@ -1,5 +1,6 @@
 ---
 name: Blessed Simon Rinalducci
+stub: false
 honorific: Blessed
 summary: >-
   Augustinian friar in 1280. Noted for his theological studies. Lector. Prior of several houses. Famous preacher.

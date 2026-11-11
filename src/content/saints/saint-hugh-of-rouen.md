@@ -1,5 +1,6 @@
 ---
 name: Saint Hugh of Rouen
+stub: false
 honorific: Saint
 summary: >-
   Benedictine monk at Fontenelle Abbey. Primicerius of Metz, France. Bishop of Rouen, France in 722. Bishop of Paris,

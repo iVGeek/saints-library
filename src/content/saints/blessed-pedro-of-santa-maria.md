@@ -1,5 +1,6 @@
 ---
 name: Blessed Pedro of Santa Maria
+stub: false
 honorific: Blessed
 summary: >-
   Mercedarian friar at the convent of Seville, Spain. With Blessed Simone de Lara, he was sent to north Africa where he

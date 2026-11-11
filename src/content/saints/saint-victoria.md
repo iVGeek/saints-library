@@ -1,5 +1,6 @@
 ---
 name: Saint Victoria
+stub: false
 honorific: Saint
 summary: >-
   Beautiful Roman Christian noblewoman. Sister of Saint Anatolia. The two sisters were set for arranged marriages to

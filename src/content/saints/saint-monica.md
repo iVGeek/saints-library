@@ -1,5 +1,6 @@
 ---
 name: Saint Monica
+stub: false
 honorific: Saint
 title: St. Monica
 summary: >-

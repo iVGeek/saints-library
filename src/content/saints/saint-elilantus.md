@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Elilantus
+stub: false
 honorific: Saint
 summary: >-
   Brother of Saint Lantfrid and Saint Waltram. With them he founded the monastery of Benediktbeuren in Bavaria, Germany,

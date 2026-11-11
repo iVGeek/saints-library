@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/6/63/Juliana_of_Nicomedia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Antonia of Nicomedia
+stub: false
 honorific: Saint
 summary: >-
   Imprisoned for two years, repeatedly tortured and eventually executed for her faith during the persecutions of

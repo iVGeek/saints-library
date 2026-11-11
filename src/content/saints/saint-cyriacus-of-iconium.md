@@ -1,5 +1,6 @@
 ---
 name: Saint Cyriacus of Iconium
+stub: false
 honorific: Saint
 summary: >-
   Son of Saint Julitta. When Cyriacus was a small child, his mother was sentenced to death at Tarsus during the

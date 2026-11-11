@@ -1,5 +1,6 @@
 ---
 name: Saint Christopher
+stub: false
 honorific: Saint
 title: St. Christopher
 summary: >-

@@ -1,5 +1,6 @@
 ---
 name: Blessed María Emilia Riquelme y Zayas
+stub: false
 honorific: Blessed
 summary: >-
   Born to pious parents, the daughter of Joaquín Riquelme y Gómez and María Emilia Zayas de la Vega. She received a good

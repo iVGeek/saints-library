@@ -1,6 +1,7 @@
 ---
 image: https://www.santiebeati.it/immagini/Thumbs/96724/96724.JPG
 name: Blessed Wenceslao Pedernera
+stub: false
 honorific: Blessed
 summary: >-
   Married layman of the diocese of La Rioja, Argentina. Organized the Movimiento Rural Catolico. Murdered in front of

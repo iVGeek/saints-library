@@ -1,5 +1,6 @@
 ---
 name: Saint Gaius of Apamea
+stub: true
 honorific: Saint
 summary: Fought the Montanist heresy. Martyred in the persecutions of Marcus Aurelius.
 deathYear: 172

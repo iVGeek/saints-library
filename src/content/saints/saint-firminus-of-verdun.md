@@ -1,5 +1,6 @@
 ---
 name: Saint Firminus of Verdun
+stub: false
 honorific: Saint
 summary: >-
   Born to the land-owning nobility. Bishop of Verdun, France from 486 to 502, a time of religious changes, political

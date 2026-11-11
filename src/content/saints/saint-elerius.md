@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Elerius
+stub: true
 honorific: Saint
 summary: Sixth century abbot of a monastery in northern Wales.
 region: England

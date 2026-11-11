@@ -1,5 +1,6 @@
 ---
 name: Blessed Hroznata of Bohemia
+stub: false
 honorific: Blessed
 summary: >-
   Born to the Bohemian nobility. Brother of Saint Bozena of Bohemia. Married layman. Widower, with both his wife and

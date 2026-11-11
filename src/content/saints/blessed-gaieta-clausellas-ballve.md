@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Gaietà Clausellas Ballvé
+stub: false
 honorific: Blessed
 summary: >-
   After studying at the seminary of the archdiocese of Barcelona, Spain, Gaietà was ordained a priest on 3 May 1888. He

@@ -1,6 +1,7 @@
 ---
 image: https://www.santiebeati.it/immagini/Thumbs/99296/99296.jpg
 name: Saint Liuican
+stub: false
 honorific: Saint
 summary: >-
   Monk. Founded and served as first abbot of the monastery of Killucan (Killuquin; Cill Liúcainne) in the barony of

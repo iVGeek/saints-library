@@ -1,5 +1,6 @@
 ---
 name: Blessed Juan Francisco Joya Corralero
+stub: true
 honorific: Blessed
 summary: Member of the Trinitarians. Martyred in the Spanish Civil War.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Juan-Francisco-Joya-Corralero.jpg

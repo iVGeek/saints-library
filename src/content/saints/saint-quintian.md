@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Quintian
+stub: false
 honorific: Saint
 summary: One of a group people martyred in Catania, Sicily, date unknown. No other information has survived.
 region: Italy

@@ -1,5 +1,6 @@
 ---
 name: Blessed Alfonso del Rio
+stub: false
 honorific: Blessed
 summary: Mercedarian friar. Ransomed 258 Christians who had enslaved and imprisoned by Moors.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Alfonso-del-Rio.jpg

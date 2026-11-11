@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Theodule of Cilicia
+stub: true
 honorific: Saint
 summary: Elderly servant of governor Firmilian. Martyr.
 deathYear: 309

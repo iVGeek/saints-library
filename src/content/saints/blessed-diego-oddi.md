@@ -1,5 +1,6 @@
 ---
 name: Blessed Diego Oddi
+stub: false
 honorific: Blessed
 summary: >-
   Son of Vicenzo Oddi and Bernardina Pasquali; raised in a poor but pious farm family. He had little education, but

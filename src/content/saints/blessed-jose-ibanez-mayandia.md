@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed José Ibañez Mayandia
+stub: false
 honorific: Blessed
 summary: Priest. Member of the Vincentian Congregation of the Mission. Martyred in the Spanish Civil War.
 birthYear: 1877

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/9/91/Nuremberg_chronicles_f_145v_4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Charles Meehan
+stub: true
 honorific: Blessed
 summary: Franciscan priest. Martyred in connection with the Titus Oates Plot.
 searchAliases:

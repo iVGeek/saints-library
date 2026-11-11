@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Pelagia of Antioch
+stub: false
 honorific: Saint
 summary: >-
   Disciple of Saint Lucian of Antioch. When soldiers arrived to arrest her for her faith, she believed she would be

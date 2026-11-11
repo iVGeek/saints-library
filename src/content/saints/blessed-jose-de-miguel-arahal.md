@@ -1,5 +1,6 @@
 ---
 name: Blessed José de Miguel Arahal
+stub: false
 honorific: Blessed
 summary: >-
   Priest. Member of the Capuchin Tertiary Fathers and Brothers of Our Lady of Sorrows. Martyred in the Spanish Civil

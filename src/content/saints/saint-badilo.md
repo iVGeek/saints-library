@@ -1,5 +1,6 @@
 ---
 name: Saint Badilo
+stub: false
 honorific: Saint
 summary: >-
   Monk at Vezelay, France, leading the work to re-found the abbey after Moorish and Norman raids in the 8th century.

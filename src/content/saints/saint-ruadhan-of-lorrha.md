@@ -1,5 +1,6 @@
 ---
 name: Saint Ruadhán of Lorrha
+stub: false
 honorific: Saint
 summary: >-
   Related to the royal family of Munster (part of modern Ireland. Studied under Saint Finian of Clonard. Founded the

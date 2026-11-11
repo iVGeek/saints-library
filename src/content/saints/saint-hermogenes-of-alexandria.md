@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Hermogenes of Alexandria
+stub: true
 honorific: Saint
 summary: Martyr.
 deathYear: 312

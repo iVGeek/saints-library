@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/2/29/San_Martin_de_Porres_huaycan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Juan de San Martín
+stub: false
 honorific: Blessed
 summary: Jesuit novice missionary. Martyred by the Huguenot Jacques Sourie while en route to Brazil.
 deathYear: 1570

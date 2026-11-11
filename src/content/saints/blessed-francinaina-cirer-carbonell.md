@@ -1,5 +1,6 @@
 ---
 name: Blessed Francinaina Cirer-Carbonell
+stub: false
 honorific: Blessed
 summary: >-
   Youngest of six children born to Paulo Cirer and Joan Carbonell, Francinaina grew up in a pious home. She received no

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Venerable Sebastián Elorza Arizmendi
+stub: true
 honorific: Venerable
 summary: Augustinian friar.
 birthYear: 1882

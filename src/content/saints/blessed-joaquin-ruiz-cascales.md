@@ -1,5 +1,6 @@
 ---
 name: Blessed Joaquín Ruiz Cascales
+stub: false
 honorific: Blessed
 summary: >-
   Joined the Hospitallers of Saint John of God in 1915, making his vows on 2 April 1917. Priest. Martyred in the Spanish

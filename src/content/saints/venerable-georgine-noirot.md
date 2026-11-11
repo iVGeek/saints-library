@@ -1,5 +1,6 @@
 ---
 name: Venerable Georgine Noirot
+stub: false
 honorific: Venerable
 summary: >-
   Drawn to religious life from her youth, Georgine joined the Institute of the Daughters of Saint Vincent de Paul at age

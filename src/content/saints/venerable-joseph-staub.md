@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Venerable Joseph Staub
+stub: false
 honorific: Venerable
 summary: Assumptionist priest. Founded the Sœurs de Ste-Jeanne d’Arc (Sisters of Saint Joan of Arc).
 searchAliases:

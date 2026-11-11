@@ -1,5 +1,6 @@
 ---
 name: Blessed Sabas Ji Hwang
+stub: false
 honorific: Blessed
 summary: >-
   Layman catechist in the apostolic vicariate of Korea. Arrested, tortured and executed for assisting Blessed Iacobus

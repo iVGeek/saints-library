@@ -1,5 +1,6 @@
 ---
 name: Blessed Beatrix of Valfleury
+stub: false
 honorific: Blessed
 summary: >-
   Born to a wealthy family. A pious child, at age seven she moved into a convent of Béguines. She later joined the

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Eutychius of Asta
+stub: true
 honorific: Saint
 summary: Martyred in the persecutions of Diocletian.
 deathYear: 300

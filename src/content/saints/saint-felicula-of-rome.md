@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Felicula of Rome
+stub: false
 honorific: Saint
 summary: A sanctified virgin who was imprisoned and martyred in the persecution of Domitian.
 searchAliases:

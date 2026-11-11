@@ -1,5 +1,6 @@
 ---
 name: Saint Emeric of Hungary
+stub: false
 honorific: Saint
 summary: >-
   Born a prince, the son of Saint Stephen of Hungary. Spiritual student of Saint Gerard Sagredo. Married in 1022. Known

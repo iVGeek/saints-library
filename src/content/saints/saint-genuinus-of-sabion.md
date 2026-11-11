@@ -1,5 +1,6 @@
 ---
 name: Saint Genuinus of Sabion
+stub: false
 honorific: Saint
 summary: Bishop of Sabion, a small town of the Italian Tyrol that has since disappeared. Attended the Synod of Marano in 588.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Genuinus-of-Sabion.jpg

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Venerable Maria Giuseppina Benvenuti
+stub: false
 honorific: Venerable
 summary: >-
   Kidnapped as a child and sold by Arab slavers, Zeinab was ransomed out of slavery by Father Niccolò Olivieri, and

@@ -1,5 +1,6 @@
 ---
 name: Blessed Arthur Bell
+stub: false
 honorific: Blessed
 summary: >-
   Studied at Saint Omer and at the Royal College of Saint Alban, Valladolid, Spain. Ordained in Salamanca, Spain in

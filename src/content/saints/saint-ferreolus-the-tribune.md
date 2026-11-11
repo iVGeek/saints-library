@@ -1,5 +1,6 @@
 ---
 name: Saint Ferreolus the Tribune
+stub: false
 honorific: Saint
 summary: >-
   Tribune in the imperial Roman army, stationed at Vienne, Gaul (modern France). During the persecutions of Diocletian,

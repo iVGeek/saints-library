@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Cumgar
+stub: false
 honorific: Saint
 summary: >-
   Son of Geraint, prince of Devon. Founded and served as abbot at monasteries in Badgworth and Congresbury in Somerset,

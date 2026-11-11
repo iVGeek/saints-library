@@ -1,5 +1,6 @@
 ---
 name: Blessed Pierre-Yrieix Labrouhe de Laborderie
+stub: false
 honorific: Blessed
 summary: >-
   Priest in the diocese of Limoges, France. Canon of Auvergne, France. Martyred in the French Revolution. One of the

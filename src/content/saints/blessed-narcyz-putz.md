@@ -1,5 +1,6 @@
 ---
 name: Blessed Narcyz Putz
+stub: false
 honorific: Blessed
 summary: >-
   Priest at Saint Wojciech parish, Poznan, Poland. Arrested in the Nazi anti-Catholic sweeps of 1939 and sent to the

@@ -1,5 +1,6 @@
 ---
 name: Blessed Wladyslaw Demski
+stub: false
 honorific: Blessed
 summary: >-
   A professor of classical languages, he became a priest in the archdiocese of Gniezno, Poland, serving in the parish of

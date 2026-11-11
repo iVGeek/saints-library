@@ -1,5 +1,6 @@
 ---
 name: Saint Arnulf of Mainz
+stub: false
 honorific: Saint
 summary: >-
   Studied in Paris, France. Chamberlain to the archbishop of Mainz, Germany. archbishop of Mainz, Germany in 1153.

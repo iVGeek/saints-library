@@ -1,5 +1,6 @@
 ---
 name: Saint Matilda of Saxony
+stub: false
 honorific: Saint
 summary: >-
   Daughter of Count Dietrich of Westphalia and Reinhild of Denmark; she was raised by her grandmother, abbess of the

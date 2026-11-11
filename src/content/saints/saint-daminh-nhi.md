@@ -1,5 +1,6 @@
 ---
 name: Saint Ðaminh Nhi
+stub: false
 honorific: Venerable
 summary: >-
   Peasant farmer in the apostolic vicariate of Central Tonkin (in modern Vietnam). During the persecutions of emperor Tu

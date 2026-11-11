@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/f/fb/A-Procession-in-the-Catacomb-of-Callistus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Ponzio of Villeneuve
+stub: false
 honorific: Blessed
 summary: >-
   Benedictine monk. Abbot of the abbey of Sant'André in Villeneuve-lès-Avignon, France from 1063 to 1087. His brother

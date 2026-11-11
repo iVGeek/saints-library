@@ -1,5 +1,6 @@
 ---
 name: Saint Pierre de Cervis
+stub: false
 honorific: Saint
 summary: >-
   Mercedarian. Commander of the convent of Santa Maria in Narbonne, France. Travelled to Moorish occupied Granada to

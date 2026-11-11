@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Bartolomeo di Cervere
+stub: false
 honorific: Blessed
 summary: >-
   After studying in Savigliano and Turin, Italy, Bartolomeo joined the Dominicans at Savigliano. He was ordained a

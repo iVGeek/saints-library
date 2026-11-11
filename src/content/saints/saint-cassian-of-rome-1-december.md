@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Cassian of Rome
+stub: true
 honorific: Saint
 summary: Roman martyr. No other information has survived.
 region: England

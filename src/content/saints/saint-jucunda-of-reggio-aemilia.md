@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Jucunda of Reggio Aemilia
+stub: true
 honorific: Saint
 summary: Spiritual student of Saint Prosper of Reggio. Nun.
 deathYear: 466

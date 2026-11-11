@@ -1,5 +1,6 @@
 ---
 name: Saint Leonard of Noblac
+stub: false
 honorific: Saint
 title: St. Leonard of Noblac
 summary: >-

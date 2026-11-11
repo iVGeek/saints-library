@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Magnobodus of Angers
+stub: false
 honorific: Saint
 summary: Born to the Frankish nobility. Bishop of Angers, France, chosen by popular acclaim due to his personal piety.
 searchAliases:

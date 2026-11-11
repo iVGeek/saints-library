@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/3/39/QuricusJulietIconLife.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Quiricus of Murisengo
+stub: true
 honorific: Saint
 summary: Martyr whose death became linked to the Theban Legion.
 searchAliases:

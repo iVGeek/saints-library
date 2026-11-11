@@ -1,5 +1,6 @@
 ---
 name: Blessed Enrico Rebuschini
+stub: false
 honorific: Blessed
 summary: >-
   Second of five children born to an upper class family in the Lombard region of modern Italy. A pious young man and

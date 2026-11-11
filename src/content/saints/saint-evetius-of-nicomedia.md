@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Evetius of Nicomedia
+stub: false
 honorific: Saint
 summary: When a copy of Diocletian's edict against Christianity was posted in public, Evetius vandalized it. Martyr.
 searchAliases:

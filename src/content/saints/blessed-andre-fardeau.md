@@ -1,5 +1,6 @@
 ---
 name: Blessed André Fardeau
+stub: false
 image: >-
   https://commons.wikimedia.org/wiki/Special:FilePath/Jacques-Louis_David%252C_The_Coronation_of_Napoleon_edit.jpg?width=600
 honorific: Blessed

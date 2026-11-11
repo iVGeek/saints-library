@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Murtagh of Killala
+stub: false
 honorific: Saint
 summary: >-
   Disciple of Saint Patrick, and may have been a relative. First bishop of Killala, Ireland, consecrated by Patrick

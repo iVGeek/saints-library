@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Elisabeth Heimburg
+stub: true
 honorific: Blessed
 summary: 13th-century Dominican nun in Diessenhofen am Rhein, Thurgau, Switzerland.
 searchAliases:

@@ -1,5 +1,6 @@
 ---
 name: Saint Essuperanzio of Zurich
+stub: false
 honorific: Saint
 summary: >-
   Servant of Saint Regula and Saint Felix of Zürich. During the persecutions of Maximian Herculeaus the two fled to

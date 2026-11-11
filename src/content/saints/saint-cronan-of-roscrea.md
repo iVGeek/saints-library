@@ -1,6 +1,7 @@
 ---
 image: https://www.catholic.org/files/images/saints/2773.jpg
 name: Saint Cronan of Roscrea
+stub: false
 honorific: Saint
 summary: >-
   Spent his youth in Connaught, Ireland but returned to his native district, c.610. Founded several monasteries

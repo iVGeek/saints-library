@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Venerable Orsola Maria Rivata
+stub: true
 honorific: Venerable
 summary: Nun. First superior general of the Sister Disciples of the Divine Master.
 searchAliases:

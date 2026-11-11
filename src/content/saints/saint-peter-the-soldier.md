@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Peter the Soldier
+stub: false
 honorific: Saint
 summary: >-
   One of a group of fifty Christian soldiers martyred as a group during the persecutions of Emperor Claudius II

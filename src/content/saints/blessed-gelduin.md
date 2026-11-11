@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/b/bb/TroyesCathedrale.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Gelduin
+stub: false
 honorific: Blessed
 summary: Monk. Abbot of a monastery near Douai, France. Friend of and extensive correspondent with Saint Anselm of Canterbury.
 deathYear: 1123

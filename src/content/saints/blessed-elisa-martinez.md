@@ -1,5 +1,6 @@
 ---
 name: Blessed Elisa Martinez
+stub: false
 honorific: Blessed
 summary: >-
   Elisa early felt a call to religious life, and at the age of 23 joined the Sisters of Our Lady of Charity of the Good

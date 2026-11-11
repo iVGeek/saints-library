@@ -1,5 +1,6 @@
 ---
 name: Saint Euthymius the Great
+stub: false
 honorific: Saint
 summary: >-
   May have been an orphan as he was educated at the home of the Bishop Orteus of Melitine, Armenia (modern Malatya,

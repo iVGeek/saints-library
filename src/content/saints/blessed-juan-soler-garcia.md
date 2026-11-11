@@ -1,5 +1,6 @@
 ---
 name: Blessed Juan Soler García
+stub: false
 honorific: Blessed
 summary: >-
   The son of Miguel and Catalina, a pious couple, Juan was baptized at the age of two days. He felt early called to the

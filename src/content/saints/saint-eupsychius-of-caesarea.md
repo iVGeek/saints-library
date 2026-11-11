@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Eupsychius of Caesarea
+stub: true
 honorific: Saint
 summary: Martyred in the persecutions of the Roman emperor Hadrian.
 deathYear: 130

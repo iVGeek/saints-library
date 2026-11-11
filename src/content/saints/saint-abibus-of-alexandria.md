@@ -1,5 +1,6 @@
 ---
 name: Saint Abibus of Alexandria
+stub: true
 honorific: Saint
 summary: Deacon. Martyred in the persecutions of Decius.
 searchAliases:

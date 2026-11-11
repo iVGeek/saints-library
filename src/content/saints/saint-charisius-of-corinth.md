@@ -1,5 +1,6 @@
 ---
 name: Saint Charisius of Corinth
+stub: false
 honorific: Saint
 summary: One of a group of eight Christians who were tortured and martyred together in the persecutions of Decius.
 image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Corinth.jpg

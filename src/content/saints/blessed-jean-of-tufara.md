@@ -1,5 +1,6 @@
 ---
 name: Blessed Jean of Tufara
+stub: false
 honorific: Blessed
 title: Hermit
 summary: >-

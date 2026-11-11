@@ -1,6 +1,7 @@
 ---
 image: https://upload.wikimedia.org/wikipedia/commons/San%20Vittore%20Mauro%20Poschiavo%201.jpg
 name: Saint Victor
+stub: false
 honorific: Saint
 summary: >-
   There is an old Eastern tradition that he converted after watching the martyrdom of Saint George, but all we know for

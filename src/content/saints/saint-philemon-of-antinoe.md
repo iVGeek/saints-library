@@ -1,5 +1,6 @@
 ---
 name: Saint Philemon of Antinoë
+stub: false
 honorific: Saint
 summary: >-
   Actor and musician. Convert. Ordered to sacrifice to idols during the persecutions of Diocletian, he confessed that he

@@ -1,5 +1,6 @@
 ---
 name: Saint Lull
+stub: false
 honorific: Saint
 summary: >-
   Related to Saint Boniface. Monk at Malmesbury Abbey in England. Missionary to Germany with Boniface who ordained him a

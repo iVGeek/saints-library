@@ -1,5 +1,6 @@
 ---
 name: Saint Leontius of Tripoli
+stub: false
 honorific: Saint
 summary: Imperial Roman legionairy who was imprisoned, tortured and executed for his faith. Martyr.
 image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Tripoli.jpg

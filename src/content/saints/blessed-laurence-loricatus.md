@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Laurence Loricatus
+stub: false
 honorific: Blessed
 summary: >-
   Raised to be a soldier, but when he accidentally killed a man Laurence was so overcome with remorse that he put his

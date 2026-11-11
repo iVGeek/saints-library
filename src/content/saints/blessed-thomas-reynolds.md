@@ -1,5 +1,6 @@
 ---
 name: Blessed Thomas Reynolds
+stub: false
 honorific: Blessed
 summary: >-
   Studied at Rheims, France, and at Valladolid and Seville in Spain. Ordained in 1592 in Cadiz, Spain, he returned to

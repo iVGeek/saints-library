@@ -1,5 +1,6 @@
 ---
 name: Blessed Aimone of Halberstadt
+stub: false
 image: https://upload.wikimedia.org/wikipedia/commons/d/d9/KAS-George%2C_Haimo-Bild-1710-1.jpg
 honorific: Blessed
 summary: >-

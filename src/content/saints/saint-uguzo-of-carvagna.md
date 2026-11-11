@@ -1,5 +1,6 @@
 ---
 name: Saint Uguzo of Carvagna
+stub: false
 honorific: Saint
 summary: >-
   Shepherd in the mountains of Carvagna in the Italian Alps. Poor as he was, he regularly gave away all he had to the

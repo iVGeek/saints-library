@@ -1,5 +1,6 @@
 ---
 name: Blessed Martha Hayashida
+stub: false
 honorific: Blessed
 summary: >-
   Lay woman in the archdiocese of Nagasaki, Japan. Married to Blessed Leo Hayashida Sukeemon; mother of Blessed

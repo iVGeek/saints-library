@@ -1,5 +1,6 @@
 ---
 name: Venerable Santina Collani
+stub: false
 honorific: Venerable
 summary: >-
   Born to a peasant family, her mother died when Santina was only four years old; as her father was still serving in the

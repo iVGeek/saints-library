@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/c/c2/Assassination-of-joseph-smith-carthage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Martial of Carthage
+stub: true
 honorific: Saint
 summary: Martyred in the persecutions of Decius.
 deathYear: 250

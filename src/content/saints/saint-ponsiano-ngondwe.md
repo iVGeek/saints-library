@@ -1,5 +1,6 @@
 ---
 name: Saint Ponsiano Ngondwe
+stub: false
 honorific: Venerable
 summary: Nnyonyi Nnyange clan. Soldier. Convert. One of the Martyrs of Uganda who died in the Mwangan persecutions.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Ponsiano-Ngondwe.jpg

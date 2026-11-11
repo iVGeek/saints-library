@@ -1,6 +1,7 @@
 ---
 image: https://www.catholic.org/files/images/saints/2697.jpg
 name: Saint Colman of Armagh
+stub: true
 honorific: Saint
 summary: Fifth century disciple of Saint Patrick.
 died: buried beside Saint Patrick

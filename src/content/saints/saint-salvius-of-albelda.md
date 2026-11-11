@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Salvius of Albelda
+stub: true
 honorific: Saint
 summary: Abbot at Albelda, Spain.
 deathYear: 962

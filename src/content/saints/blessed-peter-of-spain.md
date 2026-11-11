@@ -1,5 +1,6 @@
 ---
 name: Blessed Peter of Spain
+stub: false
 honorific: Blessed
 summary: >-
   Mercedarian tertiary and knight. Known as a man of great learning and personal piety. Led a Christian army into

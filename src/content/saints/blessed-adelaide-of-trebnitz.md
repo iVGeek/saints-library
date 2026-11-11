@@ -1,5 +1,6 @@
 ---
 name: Blessed Adelaide of Trebnitz
+stub: false
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Familie_von_Randow_1804.pdf/page1-960px-Familie_von_Randow_1804.pdf.jpg
 honorific: Blessed

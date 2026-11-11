@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/5/54/Angri1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Damian of Campania
+stub: true
 honorific: Blessed
 summary: Franciscan Friar Minor.
 searchAliases:

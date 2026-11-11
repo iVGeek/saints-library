@@ -1,5 +1,6 @@
 ---
 name: Blessed Pedro del Barco
+stub: false
 honorific: Blessed
 summary: >-
   Known as a pious child, when Pedro's parents died he moved to the area of modern Ribera Barcense, started a garden

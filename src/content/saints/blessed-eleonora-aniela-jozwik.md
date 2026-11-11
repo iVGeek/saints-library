@@ -1,5 +1,6 @@
 ---
 name: Blessed Eleonora Aniela Józwik
+stub: false
 honorific: Blessed
 summary: >-
   Member of the Sisters of the Holy Family of Nazareth. One of the Martyrs of Nowogrodek who were killed for their faith

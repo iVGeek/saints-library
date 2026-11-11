@@ -1,5 +1,6 @@
 ---
 name: Blessed Francesc Castells-Areny
+stub: false
 honorific: Blessed
 summary: >-
   We have no information about his birth parents, but know that Francesco was adopted, and used the name of his adoptive

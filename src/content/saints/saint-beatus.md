@@ -1,5 +1,6 @@
 ---
 name: Saint Beatus of Liébana
+stub: false
 honorific: Saint
 summary: >-
   Monk at Saint Martin's monastery, Liébana, Spain. Wrote and preached against the Adoptionist heresy, and worked to

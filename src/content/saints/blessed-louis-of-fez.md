@@ -1,5 +1,6 @@
 ---
 name: Blessed Louis of Fez
+stub: false
 honorific: Blessed
 summary: >-
   One of a group of Mercedarians sent to Fez, Morocco to ransom Christians imprisoned and enslaved by Muslims. For being

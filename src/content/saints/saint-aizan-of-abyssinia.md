@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Aizan of Abyssinia
+stub: false
 honorific: Saint
 summary: >-
   Brother of Saint Sazan; friend of Saint Athanasius of Alexandria. Chieftain in Abyssinia (modern Ethiopia). Worked to

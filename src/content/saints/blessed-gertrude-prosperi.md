@@ -1,5 +1,6 @@
 ---
 name: Blessed Gertrude Prosperi
+stub: false
 honorific: Blessed
 summary: >-
   Born to a wealthy, pious family, the daughter of Dominic and Maria Diomedi. Joined the Benedictines at the monastery

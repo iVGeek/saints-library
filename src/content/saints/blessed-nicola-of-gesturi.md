@@ -1,5 +1,6 @@
 ---
 name: Blessed Nicola of Gesturi
+stub: false
 honorific: Blessed
 summary: >-
   The sixth of seven children born to Giovanni Medda and Priama Cogoni Zedda, Giovanni's father died when the boy was

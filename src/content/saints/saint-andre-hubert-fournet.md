@@ -1,5 +1,6 @@
 ---
 name: Saint André-Hubert Fournet
+stub: false
 honorific: Venerable
 summary: >-
   Andrew had a strong religious upbringing, nagged by his mother to become a priest. Andrew resisted, and tried to study

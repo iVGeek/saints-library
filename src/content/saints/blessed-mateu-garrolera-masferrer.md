@@ -1,5 +1,6 @@
 ---
 name: Blessed Mateu Garrolera Masferrer
+stub: false
 honorific: Blessed
 summary: >-
   Brother in the Salesians of Don Bosco, making his solemn profession on 26 July 1916. Martyred in the Spanish Civil

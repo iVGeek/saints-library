@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/3/3e/Elena_Colosseo_Rome_Italy.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Antonia of Constantinople
+stub: false
 honorific: Saint
 summary: Christian maiden who was tortured and martyred in the persecutions of Diocletian and Galerius.
 died: burned at the stake in the late 3rd century in Constantinople

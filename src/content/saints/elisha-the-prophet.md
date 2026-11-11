@@ -1,5 +1,6 @@
 ---
 name: Elisha the Prophet
+stub: false
 honorific: Saint
 summary: >-
   Old Testament prophet of Israel on whom, by Divine command, fell the mantle of Elias the Prophet. Accompanied Elias

@@ -1,5 +1,6 @@
 ---
 name: Saint Fortunatus of Thessalonica
+stub: true
 honorific: Saint
 summary: Three Christians with the same name who were martyred.
 died: in Thessalonica, Greece, date unknown

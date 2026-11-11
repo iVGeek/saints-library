@@ -1,5 +1,6 @@
 ---
 name: Saint Mary Magdalen
+stub: false
 honorific: Saint
 summary: ' She was a friend and follower of Jesus. Filled with sorrow over her sin, she anointed Christ, washed his feet with her hair. He exorcised seve We have very little solid information about Saint Mary, and both scholars and traditions differ on the interpretation of what we do know.'
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Mary-Magdalen-1.jpg

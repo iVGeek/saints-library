@@ -1,5 +1,6 @@
 ---
 name: Venerable Guido Vidal França Schäffer
+stub: false
 honorific: Venerable
 summary: >-
   Baptized at the church of Saint Cecilia in Volta Redonda, Brazil at the age of 7 months. An avid surfer throughout his

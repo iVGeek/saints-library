@@ -1,5 +1,6 @@
 ---
 name: Saint Alexander of Rome
+stub: true
 honorific: Saint
 summary: Martyr. No other information has survived.
 feastDay:

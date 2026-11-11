@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Eutychia of Thessalonica
+stub: false
 honorific: Saint
 summary: >-
   Widow. During the persecutions of Diocletian and governor Dulcetius, Eutychia was exposed as a Christian when she

@@ -1,6 +1,7 @@
 ---
 image: https://www.catholic.org/files/images/saints/3698.jpg
 name: Saint Hardulph
+stub: false
 honorific: Saint
 summary: >-
   The church at Breedon-on-the-Hill, Leicestershire, England is dedicated to this saint, but nothing of his story has

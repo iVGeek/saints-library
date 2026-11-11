@@ -1,5 +1,6 @@
 ---
 name: Saint Stanislaus Kostka
+stub: false
 honorific: Saint
 summary: >-
   Born to the Polish nobility, the son of a senator. Attended the Viennese Jesuit college from age 14 with his brother

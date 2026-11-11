@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Chrysophorus
+stub: false
 honorific: Saint
 summary: >-
   There is an old Eastern tradition that he converted after watching the martyrdom of Saint George, but all we know for

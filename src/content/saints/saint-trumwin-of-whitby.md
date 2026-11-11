@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Trumwin of Whitby
+stub: false
 honorific: Saint
 summary: >-
   Bishop of the Southern Picts in Scotland in 681; he worked from the monastery of Abercorn on the Firth of Forth. When

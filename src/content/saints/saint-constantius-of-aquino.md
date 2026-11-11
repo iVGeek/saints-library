@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Constantius of Aquino
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Aquino, Italy c.465 to c.487. Attended the Council of Rome in 465. Had the gift of prophecy. Pope Saint

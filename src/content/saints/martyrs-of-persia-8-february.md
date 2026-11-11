@@ -1,5 +1,6 @@
 ---
 name: Martyrs of Persia
+stub: false
 honorific: Saint
 summary: >-
   An unknown number of Christians murdered in early 6th-century Persia. Legend says that so many miracles occurred

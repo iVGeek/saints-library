@@ -1,5 +1,6 @@
 ---
 name: Blessed Józef Stanek
+stub: false
 honorific: Blessed
 summary: >-
   Baptized at the age of one day, Jozef was orphaned at age six. He was educated at a Pallottine school in Wadowice,

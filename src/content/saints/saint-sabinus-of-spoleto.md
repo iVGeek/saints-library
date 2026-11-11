@@ -1,5 +1,6 @@
 ---
 name: Saint Sabino of Spoleto
+stub: false
 honorific: Saint
 summary: >-
   A hermit in the Liba forest near Fusignano, Italy for many years, an angel appeared to Savinus to encourage him to

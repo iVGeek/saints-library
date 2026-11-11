@@ -1,5 +1,6 @@
 ---
 name: Pope Saint Damasus I
+stub: false
 honorific: Saint
 summary: >-
   Raised in a pious family; his father was a priest in Rome, Italy and Damasus served for a time as deacon in his

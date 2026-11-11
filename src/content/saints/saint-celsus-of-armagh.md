@@ -1,5 +1,6 @@
 ---
 name: Saint Celsus of Armagh
+stub: false
 honorific: Saint
 summary: >-
   Son of Áed mac Máele Ísu meic Amalgada of the Clann Sínnaig. Benedictine monk. May have been a monk at Glastonbury.

@@ -1,5 +1,6 @@
 ---
 name: Saint Deochar
+stub: false
 honorific: Saint
 summary: >-
   Hermit in the Franconia forests near Fulda, an area in modern Germany. Spiritual student of Blessed Alcuin at Aachen,

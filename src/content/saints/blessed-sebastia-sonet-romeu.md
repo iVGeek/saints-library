@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Sebastià Sonet Romeu
+stub: false
 honorific: Blessed
 summary: >-
   Franciscan Capuchin, making his solemn profession on 2 August 1903. Ordained a priest on 31 March 1907. Murdered by

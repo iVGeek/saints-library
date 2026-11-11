@@ -1,5 +1,6 @@
 ---
 name: Saint William of Bourges
+stub: false
 honorific: Saint
 summary: >-
   Member of the family of the Counts of Nevers, his father Baldwin planned a military life for William. Educated by his

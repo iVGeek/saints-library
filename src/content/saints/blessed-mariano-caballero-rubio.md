@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/0/08/Roma_martires_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Mariano Caballero Rubio
+stub: false
 honorific: Blessed
 summary: >-
   Ordained a priest of the archdiocese of Sevilla, Spain on 22 December 1923. Assistant pastor in Huelva on 27 April

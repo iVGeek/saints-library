@@ -1,5 +1,6 @@
 ---
 name: Blessed Wlodzimierz Laskowski
+stub: false
 honorific: Blessed
 summary: >-
   Parish priest in Lwówek, archdiocese of Poznan, Poland. Financial director of the Poznan seminary. Imprisoned,

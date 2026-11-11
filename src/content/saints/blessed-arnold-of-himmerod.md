@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Arnold of Himmerod
+stub: false
 honorific: Blessed
 summary: Cistercian monk at Himmerod monastery in Trier, Germany. Renowned for his personal piety.
 searchAliases:

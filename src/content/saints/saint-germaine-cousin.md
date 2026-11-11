@@ -1,5 +1,6 @@
 ---
 name: Saint Germaine Cousin
+stub: false
 honorific: Saint
 summary: >-
   Daughter of Laurent Cousin, a farm worker, and Marie Laroche. Her mother died while Germaine was an infant. A sickly

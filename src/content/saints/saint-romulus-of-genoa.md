@@ -1,5 +1,6 @@
 ---
 name: Saint Romulus of Genoa
+stub: true
 honorific: Saint
 summary: Bishop of Genoa, Italy. Noted theologian. Known as a peacemaker.
 image: https://commons.wikimedia.org/wiki/Special:FilePath/San_Remo038.jpg?width=600

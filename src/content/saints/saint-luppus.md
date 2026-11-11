@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Luppus
+stub: true
 honorific: Saint
 summary: Christian slave. Martyr, date and location unknown.
 feastDay:

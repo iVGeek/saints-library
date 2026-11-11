@@ -1,5 +1,6 @@
 ---
 name: Pope Saint Hyginus
+stub: false
 honorific: Saint
 summary: >-
   Pope during a period of relative peace with no official persecutions of the early Church, but was forced to deal with

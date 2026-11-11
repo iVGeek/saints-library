@@ -1,6 +1,7 @@
 ---
 image: https://www.catholic.org/files/images/saints/1470.jpg
 name: Saint Anthusa the Younger
+stub: true
 honorific: Saint
 summary: Martyr.
 born: Persian

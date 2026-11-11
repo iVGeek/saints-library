@@ -1,5 +1,6 @@
 ---
 name: Saint Cristobal of Tlaxcala
+stub: false
 honorific: Venerable
 summary: >-
   Son of a pagan tribal chief. Convert to Christianity. Educated at the first Franciscan school in Tlaxcala. Beaten and

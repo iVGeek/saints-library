@@ -1,5 +1,6 @@
 ---
 name: Saint Simeon of Jerusalem
+stub: false
 honorific: Saint
 summary: >-
   Son of Cleophas and related to Jesus. Second bishop of Jerusalem. Tortured and executed in the persecutions of Trajan.

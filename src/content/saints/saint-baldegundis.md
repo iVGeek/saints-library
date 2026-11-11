@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Baldegundis
+stub: true
 honorific: Saint
 summary: Abbess of Saint-Croix in Poitiers, France.
 deathYear: 580

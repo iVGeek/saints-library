@@ -1,5 +1,6 @@
 ---
 name: Saint Sulpicius Severus
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Bourges, France in 584. Attended the Council of Macon in 585. Spiritual teacher of Saint Clair. Wrote a

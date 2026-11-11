@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Althryda
+stub: false
 honorific: Saint
 summary: >-
   Born a princess, the daughter of King Offa of Mercia. Betrothed to Saint Ethelbert after whose death she retired to

@@ -1,5 +1,6 @@
 ---
 name: Saint Abraham Kidunaia
+stub: false
 honorific: Saint
 summary: >-
   Born to a wealthy family near Edessa, Syria. Forced into an arranged marriage at an early age. During the wedding

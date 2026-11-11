@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/7/7a/Mary%27s_monogram_%28Marist_Brothers%29.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Robert Sutton
+stub: true
 honorific: Blessed
 summary: Layman martyr.
 deathYear: 1588

@@ -1,5 +1,6 @@
 ---
 name: Venerable Giovanni Battista Pinardi
+stub: false
 honorific: Venerable
 summary: >-
   Studied theology under Blessed Giuseppe Allamano and Blessed Luigi Boccardo. Ordained a priest in the archdiocese of

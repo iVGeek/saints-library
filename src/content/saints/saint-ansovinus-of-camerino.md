@@ -1,5 +1,6 @@
 ---
 name: Saint Ansovinus of Camerino
+stub: false
 honorific: Saint
 summary: >-
   Priest. Hermit at Castel Raimondo near Torcello, Italy. Bishop of Camerino, Italy, consecrated by Pope Leo IV; he

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/7/7e/LocationPuertoRico.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Diego Botello
+stub: false
 honorific: Blessed
 summary: >-
   Franciscan friar and missionary in the Caribbean. Martyred with Blessed Ferdinando di Salcedo and a companion whose

@@ -1,5 +1,6 @@
 ---
 name: Saint Terenzio of Imola
+stub: false
 honorific: Saint
 summary: >-
   Terenzio grew up beside the cathedral in Imola, Italy, and early saw life in the Church as just part of life in

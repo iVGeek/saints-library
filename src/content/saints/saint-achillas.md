@@ -1,5 +1,6 @@
 ---
 name: Saint Achillas
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Alexandria, Egypt. Ordained Arius, the founder of the Arian heresy. Attacked by Meletianists for his

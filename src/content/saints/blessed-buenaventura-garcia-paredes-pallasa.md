@@ -1,5 +1,6 @@
 ---
 name: Blessed Buenaventura García-Paredes Pallasá
+stub: false
 honorific: Blessed
 summary: >-
   Born to a pious family of shepherds, and he worked the fields as a boy. Educated at the Dominican Apostolic School.

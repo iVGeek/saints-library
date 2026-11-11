@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Titus the Deacon
+stub: false
 honorific: Saint
 summary: Deacon. Martyred by Goths during the sacking of Rome, he was murdered while distributing alms to starving Romans.
 deathYear: 410

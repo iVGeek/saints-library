@@ -1,5 +1,6 @@
 ---
 name: Saint Agatha of Wimborne
+stub: false
 honorific: Saint
 summary: >-
   Benedictine nun at Wimborne, England. Spiritual student of Saint Lioba of Bischofsheim with whom she travelled to

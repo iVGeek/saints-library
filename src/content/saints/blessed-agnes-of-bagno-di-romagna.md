@@ -1,5 +1,6 @@
 ---
 name: Blessed Agnes of Bagno di Romagna
+stub: false
 honorific: Blessed
 summary: Camaldolese nun at the Santa Lucia convent near Bagno di Romagna, Italy. Friend of Blessed Joan of Bagno di Romagna.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Agnes-of-Bagno-di-Romagna.jpg

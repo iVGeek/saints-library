@@ -1,5 +1,6 @@
 ---
 name: Blessed Gertrude van Oosten
+stub: false
 honorific: Blessed
 summary: >-
   Born to a poor family, and when she was old enough Gertrude began to work as a servant to a rich family in Delft,

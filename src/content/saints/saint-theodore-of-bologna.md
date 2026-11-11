@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Theodore of Bologna
+stub: true
 honorific: Saint
 summary: Bishop of Bologna, Italy for 20 years.
 deathYear: 550

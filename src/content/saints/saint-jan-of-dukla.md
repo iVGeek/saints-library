@@ -1,5 +1,6 @@
 ---
 name: Saint Jan of Dukla
+stub: false
 honorific: Saint
 summary: >-
   Hermit. Friar Minor Conventual in 1440. Priest. Preacher in Ukraine, Moldavia and Belarus. Often a local superior, and

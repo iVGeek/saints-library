@@ -1,5 +1,6 @@
 ---
 name: Saint Isidore the Farmer
+stub: false
 honorific: Saint
 summary: >-
   Pious farmer. Married to Saint Mary de la Cabeza. Their son died young; they became convinced it was the will of God

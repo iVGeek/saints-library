@@ -1,5 +1,6 @@
 ---
 name: Saint Elizabeth of the Trinity
+stub: false
 honorific: Venerable
 summary: >-
   Daughter of Captain Joseph Catez and Marie Catez. Her father died when the girl was seven, leaving her mother to raise

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/49/Saint_Patrick_Catholic_Church_%28Columbus%2C_Ohio%29_-_relics_of_16_Dominican_saints.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Augustinô Nguyen Van Moi
+stub: false
 honorific: Venerable
 summary: Lay Dominican in the apostolic vicariate of East Tonkin. One of the Martyrs of Vietnam.
 birthYear: 1806

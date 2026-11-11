@@ -1,5 +1,6 @@
 ---
 name: Saint Elpidius the Cappadocian
+stub: false
 honorific: Saint
 summary: >-
   Monk. Abbot in Asia Minor. Hermit in a cave on Mount Luca, Cappadocia for over twenty years. Legend says that an angel

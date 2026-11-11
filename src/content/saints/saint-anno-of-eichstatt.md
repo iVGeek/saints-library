@@ -1,5 +1,6 @@
 ---
 name: Saint Anno of Eichstätt
+stub: true
 honorific: Saint
 summary: Monk who evangelized the area of Eichstätt, Germany in the 8th century.
 region: Germany

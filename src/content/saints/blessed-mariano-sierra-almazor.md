@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/f/fe/Beatificaciotarragona2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Mariano Sierra Almázor
+stub: false
 honorific: Blessed
 summary: Benedictine priest in the Solesmes Congregation. Martyred in the Spanish Civil War.
 birthYear: 1869

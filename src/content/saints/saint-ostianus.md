@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Ostianus
+stub: false
 honorific: Saint
 summary: >-
   A relative of King Sigismund of Burgundy and Saint Venantius of Viviers. Ostianus gave away all his possessions, was

@@ -1,5 +1,6 @@
 ---
 name: Pope Saint Lucius I
+stub: false
 honorific: Saint
 summary: >-
   Chosen 22nd pope. Noted for his ascetic lifestyle, even while on the throne. Forbade men and women not related by

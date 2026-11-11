@@ -1,5 +1,6 @@
 ---
 name: Saint Tryphillius of Leucosia
+stub: false
 honorific: Saint
 summary: >-
   Educated in Constantinople. Worked as a lawyer. Convert to Christianity. Spritiual student of Saint Spyridon of

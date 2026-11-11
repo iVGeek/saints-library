@@ -1,5 +1,6 @@
 ---
 name: Saint Diogène of Arras
+stub: false
 honorific: Saint
 summary: >-
   Missionary, assigned to Gaul by Pope Saint Siricius c.380, working in the area of modern Arras, France. Tradition says

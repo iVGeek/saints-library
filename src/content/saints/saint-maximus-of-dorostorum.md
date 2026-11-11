@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Maximus of Dorostorum
+stub: false
 honorific: Saint
 summary: Reader and interpreter of the Scriptures. Martyred in the persecutions of Diocletian.
 deathYear: 303

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Laureano Pérez Carrascal
+stub: false
 honorific: Blessed
 summary: Priest. Member of the Vincentian Congregation of the Mission. Martyred in the Spanish Civil War.
 birthYear: 1876

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Nicander of Alexandria
+stub: false
 honorific: Saint
 summary: >-
   Physician noted for his charity, for ministering to and treating people imprisoned for their faith, and giving

@@ -1,5 +1,6 @@
 ---
 name: Saint Theodore Krateros
+stub: false
 honorific: Saint
 summary: >-
   Eunuch. Member of the imperial Byzantine court. May have been the general of the Bucellarian division of the imperial

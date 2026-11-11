@@ -1,5 +1,6 @@
 ---
 name: Blessed Ezequiél Prieto Otero
+stub: false
 honorific: Blessed
 summary: >-
   Feeling a call to a religious vocation, Ezequiél joined the Franciscan Capuchins on 2 February 1907, taking the name

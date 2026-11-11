@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Alanus of Sassovivo
+stub: false
 honorific: Blessed
 summary: >-
   Benedictine monk in late 13th century Austria. Pilgrim to Rome, Italy for the Holy Year of 1300. Joined the

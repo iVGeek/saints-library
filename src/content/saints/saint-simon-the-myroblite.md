@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Simon the Myroblite
+stub: false
 honorific: Saint
 summary: Thirteenth-century monk and founder of the Simonos-Petras monastery on Mount Athos during the time of the Crusades.
 feastDay:

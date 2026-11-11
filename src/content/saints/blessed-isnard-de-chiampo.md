@@ -1,5 +1,6 @@
 ---
 name: Blessed Isnard de Chiampo
+stub: false
 honorific: Blessed
 summary: >-
   Dominican friar, receiving the cowl from Saint Dominic de Guzman in 1219. Priest. Founder and first prior of the

@@ -1,5 +1,6 @@
 ---
 name: Blessed Alfons Arimany Ferrer
+stub: true
 image: https://upload.wikimedia.org/wikipedia/commons/8/86/12ALFONSO.jpg
 honorific: Blessed
 summary: Discalced Carmelite priest. Martyred in the Spanish Civil War.

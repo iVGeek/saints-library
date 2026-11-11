@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Victor Roma
+stub: true
 honorific: Saint
 summary: Martyr.
 searchAliases:

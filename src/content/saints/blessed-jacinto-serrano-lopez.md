@@ -1,5 +1,6 @@
 ---
 name: Blessed Jacinto Serrano López
+stub: true
 honorific: Blessed
 summary: Dominican priest. Martyred in the Spanish Civil War.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Jacinto-Serrano-Lopez.jpg

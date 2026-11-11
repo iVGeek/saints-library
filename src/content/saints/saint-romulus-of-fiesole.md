@@ -1,5 +1,6 @@
 ---
 name: Saint Romulus of Fiesole
+stub: false
 honorific: Saint
 summary: ' Later popular fictions describe Converted by Saint Peter the Apostle, he preached throughout central Italy, and served as first bishop of Fiesole, Italy. Martyred with Carissimus, Dulcissimus, and Crescentius by order of governor Repertian in the persecutions of Emperor Domitian.'
 image: >-

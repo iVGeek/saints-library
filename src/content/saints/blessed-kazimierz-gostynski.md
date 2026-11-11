@@ -1,5 +1,6 @@
 ---
 name: Blessed Kazimierz Gostyński
+stub: false
 honorific: Blessed
 summary: >-
   Parish priest known as a zealous pastor and teacher. He was arrested in January 1940 during the Nazi persecutions, he

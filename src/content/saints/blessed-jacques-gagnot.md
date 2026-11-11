@@ -1,5 +1,6 @@
 ---
 name: Blessed Jacques Gagnot
+stub: false
 honorific: Blessed
 summary: >-
   Discalced Carmelite priest. Imprisoned on a ship in the harbor of Rochefort, France and left to die during the

@@ -1,5 +1,6 @@
 ---
 name: Saint Wenceslaus of Bohemia
+stub: false
 honorific: Saint
 summary: >-
   Son of Vratislav I, Duke of Bohemia, whose family had been converted by Saint Cyril and Saint Methodius, and

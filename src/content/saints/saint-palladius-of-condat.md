@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Palladius of Condat
+stub: false
 honorific: Saint
 summary: >-
   Fifth century monk at Condat (modern Saint-Claude), France. Friend, travelling companion and spiritual student of

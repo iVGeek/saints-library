@@ -1,5 +1,6 @@
 ---
 name: Saint Libaire the Great
+stub: false
 honorific: Saint
 summary: >-
   Born to an imperial Roman patrician family, the daughter of Baccius Lientrude and sister of Saint Amée, Saint

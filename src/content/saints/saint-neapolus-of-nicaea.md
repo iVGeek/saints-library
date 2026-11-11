@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Neapolus of Nicaea
+stub: true
 honorific: Saint
 summary: One of 279 Christians martyred together.
 died: Nicaea, Bithynia

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Felix of Africa
+stub: true
 honorific: Saint
 summary: Martyred in Africa, date unknown.
 region: Africa

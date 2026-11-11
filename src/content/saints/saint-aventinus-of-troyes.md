@@ -1,5 +1,6 @@
 ---
 name: Saint Aventinus of Troyes
+stub: false
 honorific: Saint
 summary: >-
   Almoner for Saint Lupus of Troyes and Saint Camelianus of Troyes; legend says that his wine barrel never ran dry.

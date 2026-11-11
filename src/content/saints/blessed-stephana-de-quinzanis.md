@@ -1,5 +1,6 @@
 ---
 name: Blessed Stephana de Quinzanis
+stub: false
 honorific: Blessed
 summary: >-
   Born to pious parents; her father became a Dominican tertiary while Stephana was very young. She was taught her

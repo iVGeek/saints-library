@@ -1,5 +1,6 @@
 ---
 name: Blessed Werner von Ellerbach
+stub: false
 honorific: Blessed
 summary: >-
   Benedictine monk at the Saint Blaise Abbey in the Black Forest area of Baden-Württemberg in modern Germany. He and

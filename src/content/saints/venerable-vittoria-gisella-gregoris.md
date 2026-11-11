@@ -1,5 +1,6 @@
 ---
 name: Venerable Vittoria Gisella Gregoris
+stub: true
 honorific: Venerable
 summary: Nun in the Suore Francescane di Cristo Re.
 image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Vittoria-Gisella-Gregoris.jpg

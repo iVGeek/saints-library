@@ -1,5 +1,6 @@
 ---
 name: Blessed Marie-Gabrielle Trezel
+stub: false
 honorific: Blessed
 summary: >-
   Discalced Carmelite nun, professed on 12 December 1771. Sang in the convent choir. One of the Carmelite Martyrs of

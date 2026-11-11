@@ -1,5 +1,6 @@
 ---
 name: Saint Felix of Burgundy
+stub: false
 honorific: Saint
 summary: >-
   Monk. Priest. Met, befriended, converted and baptised King Sigebert who was in exile from East Anglia. When Sigebert

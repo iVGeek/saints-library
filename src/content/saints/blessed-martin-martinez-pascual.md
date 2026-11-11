@@ -1,5 +1,6 @@
 ---
 name: Blessed Martín Martínez Pascual
+stub: false
 honorific: Blessed
 summary: >-
   Son of Martín Martínez Callao, a carpenter, and Francisca Pascual Amposta; Martin was baptized at the age of one day.

@@ -1,5 +1,6 @@
 ---
 name: Saint Clemente Ignacio Delgado Cebrián
+stub: false
 honorific: Venerable
 summary: >-
   Raised in a pious family. Joined the Dominicans in 1780. Priest. Missionary to the Philippines, and then Vietnam where

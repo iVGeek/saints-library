@@ -1,5 +1,6 @@
 ---
 name: Martyrs of Tarsus
+stub: false
 honorific: Saint
 summary: A group of 20 martyrs who were killed together during the persecutions of Diocletian.
 died: martyred in Tarsus (in modern Turkey)

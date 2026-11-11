@@ -1,5 +1,6 @@
 ---
 name: Saint Eugene de Mazenod
+stub: false
 honorific: Venerable
 summary: >-
   Eldest son of Charles-Antoine De Mazenod and Marie-Rose Joannis. His mother was of the French middle class, convent

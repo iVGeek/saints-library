@@ -1,5 +1,6 @@
 ---
 name: Saint Kennera
+stub: false
 image: >-
   https://commons.wikimedia.org/wiki/Special:FilePath/The_St_Kennera_Parish_Kirk_at_Kirkinner%252C_Galloway.jpg?width=600
 honorific: Saint

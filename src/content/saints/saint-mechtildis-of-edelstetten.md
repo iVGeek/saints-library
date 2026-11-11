@@ -1,5 +1,6 @@
 ---
 name: Saint Mechtildis of Edelstetten
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility, the daughter of Count Berthold and Sophie of Andechs; sister of Blessed Euphemia of Altomünster.

@@ -1,5 +1,6 @@
 ---
 name: Saint Louis Ibaraki
+stub: false
 honorific: Saint
 summary: >-
   Nephew of Saint Paul Ibaraki and Saint Leo Karasumaru. Altar boy for the Franciscan missionaries. One of the Martyrs

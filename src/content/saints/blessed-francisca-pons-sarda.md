@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/0/08/Roma_martires_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Francisca Pons Sarda
+stub: false
 honorific: Blessed
 summary: >-
   Member of the Carmelite Missionaries, beginning her novitiate in Barcelona, Spain in 1907 at age 26; she made her

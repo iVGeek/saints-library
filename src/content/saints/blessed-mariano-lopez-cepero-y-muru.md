@@ -1,6 +1,7 @@
 ---
 image: https://www.santiebeati.it/immagini/Thumbs/100158/100158.JPG
 name: Blessed Mariano López-Cepero y Murú
+stub: false
 honorific: Blessed
 summary: >-
   Married layman in the archdiocese of Seville, Spain. Deputy mayor of Cazalla de la Sierra, Spain. Member of the

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Pierre of Narbonne
+stub: false
 honorific: Saint
 summary: Franciscan friar. Priest. Missionary to Palestine in 1384. Martyred by the Muslim authorities.
 deathYear: 1391

@@ -1,5 +1,6 @@
 ---
 name: Saint Apollonius of Antinoë
+stub: false
 honorific: Saint
 summary: >-
   Christian ordered to sacrifice to pagan idols during the persecutions of Diocletian. Thinking that Saint Philemon of

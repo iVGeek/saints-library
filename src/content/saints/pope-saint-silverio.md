@@ -1,5 +1,6 @@
 ---
 name: Pope Saint Silverio
+stub: false
 honorific: Saint
 summary: >-
   Son of Pope Hormisdas, who had entered religious life after raising a family. Sub-deacon when elected pope at the

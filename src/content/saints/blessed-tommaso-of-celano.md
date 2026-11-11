@@ -1,5 +1,6 @@
 ---
 name: Blessed Tommaso of Celano
+stub: false
 honorific: Blessed
 summary: >-
   One of the first spiritual students of Saint Francis of Assisi, Tommaso joined the Order c.1215. Priest. Assigned to

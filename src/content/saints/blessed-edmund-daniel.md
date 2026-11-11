@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/a/a2/Portrait_of_Edmund_Rice_SR_Watson.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Edmund Daniel
+stub: true
 honorific: Blessed
 summary: Jesuit seminarian. One of the Irish Martyrs. First Jesuit martyr in Europe.
 searchAliases:

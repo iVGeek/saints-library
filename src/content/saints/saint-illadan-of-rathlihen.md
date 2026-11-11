@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Illadan of Rathlihen
+stub: true
 honorific: Saint
 summary: Sixth century bishop of Rathlihen, Offaly, Ireland.
 searchAliases:

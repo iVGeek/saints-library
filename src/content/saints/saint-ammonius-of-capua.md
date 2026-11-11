@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Ammonius of Capua
+stub: false
 honorific: Saint
 summary: One group of seven Christians martyred together. No other details have survived.
 died: in Capua, Campania, Italy, date unknown

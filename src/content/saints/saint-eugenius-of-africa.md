@@ -1,5 +1,6 @@
 ---
 name: Saint Eugenius of Africa
+stub: false
 image: https://upload.wikimedia.org/wikipedia/commons/a/a0/Hotel_San_Eugenio_del_Cuareim_-_4_estrellas.jpg
 honorific: Saint
 summary: >-

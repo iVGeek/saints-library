@@ -1,5 +1,6 @@
 ---
 name: Saint Serafino of Montegranaro
+stub: false
 honorific: Saint
 summary: >-
   Born to a poor, pious farming family. An uneducated shepherd in his youth, he spent his time in the fields in prayer.

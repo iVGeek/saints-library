@@ -1,5 +1,6 @@
 ---
 name: Saint Banban
+stub: true
 honorific: Saint
 summary: Priest.
 searchAliases:

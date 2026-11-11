@@ -1,5 +1,6 @@
 ---
 name: Blessed Donato Jiménez Bibiano
+stub: false
 honorific: Blessed
 summary: >-
   Member of the Redemptorists, making his profession on 8 September 1893. Ordained a priest on 27 May 1899. Martyred in

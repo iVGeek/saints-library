@@ -1,5 +1,6 @@
 ---
 name: Blessed Diégo Josef of Cádiz
+stub: false
 honorific: Blessed
 summary: >-
   Joined the Capuchin Order in Seville, Spain in 1759. Missionary throughout Spain, primarily in Andalusia. Spent most

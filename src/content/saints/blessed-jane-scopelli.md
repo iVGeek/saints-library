@@ -1,5 +1,6 @@
 ---
 name: Blessed Jane Scopelli
+stub: false
 honorific: Blessed
 summary: >-
   From an early age, Jane felt drawn to religious life. Her family opposed the vocation, and she obeyed them, living a

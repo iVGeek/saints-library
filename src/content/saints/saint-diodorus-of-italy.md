@@ -1,5 +1,6 @@
 ---
 name: Saint Diodorus of Italy
+stub: false
 honorific: Saint
 summary: Martyred at an unknown date and location in Italy. No other information has survived.
 region: Italy

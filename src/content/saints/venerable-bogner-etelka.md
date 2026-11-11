@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Venerable Bogner Etelka
+stub: true
 honorific: Venerable
 summary: Visitation nun.
 searchAliases:

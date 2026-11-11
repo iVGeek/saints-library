@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Phêrô Lê Tùy
+stub: false
 honorific: Venerable
 summary: >-
   Studied at the seminary in Vinh-Tri in the apostolic vicariate of West Tonkin (in modern Vietnam). Parish priest in

@@ -1,5 +1,6 @@
 ---
 name: Saint Oswine of Deira
+stub: false
 honorific: Saint
 summary: >-
   Born a prince, the son of King Osric of Deira in Britain. Educated by Saint Aidan. Succeeded Saint Oswald of

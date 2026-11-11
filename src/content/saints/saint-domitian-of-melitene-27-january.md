@@ -1,5 +1,6 @@
 ---
 name: Saint Domitian of Melitene
+stub: false
 honorific: Saint
 summary: >-
   Spiritual student of Saint Euthymius the Great. Desert hermit. Evangelizing preacher in the Caphar Baricha region.

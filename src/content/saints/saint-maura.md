@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Maura
+stub: false
 honorific: Saint
 summary: >-
   Fourth century nun. Martyred with Saint Britta. Their story was lost, but their relics were discovered by Saint

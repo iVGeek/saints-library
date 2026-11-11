@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Rioch
+stub: false
 honorific: Saint
 summary: >-
   Nephew of Saint Patrick who consecrated him as a travelling, missionary bishop. Worn from his travels, he retired to

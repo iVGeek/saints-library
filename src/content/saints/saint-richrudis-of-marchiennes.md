@@ -1,5 +1,6 @@
 ---
 name: Saint Richrudis of Marchiennes
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility, the daughter of Ernold. Married to the Frankish nobleman Saint Adalbald of Ostrevant. Her family

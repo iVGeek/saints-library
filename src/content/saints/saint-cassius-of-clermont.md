@@ -1,6 +1,7 @@
 ---
 image: https://www.catholic.org/files/images/saints/2625.jpg
 name: Saint Cassius of Clermont
+stub: true
 honorific: Saint
 summary: Priest. Martyred by Teutonic barbarians led by Chrocas.
 deathYear: 264

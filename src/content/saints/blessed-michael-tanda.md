@@ -1,5 +1,6 @@
 ---
 name: Blessed Michaël Tanda
+stub: false
 honorific: Blessed
 summary: >-
   Child of the archdiocese of Nagasaki, Japan. Martyred in the persecution of the Tokugawa Shogunate as part of the

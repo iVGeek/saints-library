@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Rigomero of Meaux
+stub: false
 honorific: Saint
 title: Bishop
 summary: >-

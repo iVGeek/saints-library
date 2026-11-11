@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Diomma of Kildimo
+stub: false
 honorific: Saint
 summary: Son of Cass. Spiritual teacher of Saint Declan of Ardmore and other Irish evangelists.
 searchAliases:

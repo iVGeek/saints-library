@@ -1,5 +1,6 @@
 ---
 name: Saint Ioannes Baptista Wu Mantang
+stub: false
 honorific: Venerable
 summary: >-
   Young layman of the apostolic vicariate of Southeastern Zhili, China; son of Saint Paulus Wu Anju. Martyred in the

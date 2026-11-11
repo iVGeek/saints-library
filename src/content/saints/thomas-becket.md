@@ -1,5 +1,6 @@
 ---
 name: Thomas Becket
+stub: false
 honorific: Saint
 title: Bishop, Martyr
 summary: >-

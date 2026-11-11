@@ -1,5 +1,6 @@
 ---
 name: Blessed Anthony Middleton
+stub: false
 image: https://commons.wikimedia.org/wiki/Special:FilePath/Warwick_Mill_-_Middleton_-_geograph.org.uk_-_2717940.jpg?width=600
 honorific: Blessed
 summary: >-

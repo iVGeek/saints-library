@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Gregory of Elvira
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Elvira, Spain in 375. Fought Arianism in his diocese, refusing to compromise with heretics or heresy. Wrote

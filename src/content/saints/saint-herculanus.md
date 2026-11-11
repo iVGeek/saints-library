@@ -1,5 +1,6 @@
 ---
 name: Saint Herculanus of Perugia
+stub: true
 honorific: Saint
 summary: Bishop of Perugia, Italy. Martyred under orders of Ostro-Gothic leader Totila.
 image: https://commons.wikimedia.org/wiki/Special:FilePath/Pietro_Perugino_cat48h.jpg?width=600

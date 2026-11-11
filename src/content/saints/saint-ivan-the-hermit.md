@@ -1,5 +1,6 @@
 ---
 name: Saint Ivan the Hermit
+stub: false
 honorific: Saint
 summary: Ninth century Bohemian courtier who renounced his high position to become a hermit.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Ivan-the-Hermit.jpg

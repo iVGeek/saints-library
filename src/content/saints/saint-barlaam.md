@@ -1,5 +1,6 @@
 ---
 name: Saint Barlaam
+stub: false
 honorific: Saint
 summary: >-
   Convert to Christianity in northern India. Hermit. Brought Saint Josaphat to the faith, and then returned to his life

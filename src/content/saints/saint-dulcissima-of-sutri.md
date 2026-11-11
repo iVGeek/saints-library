@@ -1,5 +1,6 @@
 ---
 name: Saint Dulcissima of Sutri
+stub: false
 honorific: Saint
 summary: >-
   Virgin martyr. Nothing else is known about her for sure, but her name has been entwined with the stories of many other

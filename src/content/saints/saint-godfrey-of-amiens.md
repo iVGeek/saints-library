@@ -1,5 +1,6 @@
 ---
 name: Saint Godfrey of Amiens
+stub: false
 honorific: Saint
 summary: >-
   Son of Frodon, a solid citizen in a small town. Raised from age 5 in the Benedictine abbey of Mont-Saint-Quentin where

@@ -1,5 +1,6 @@
 ---
 name: Saint Hyacinth of Caesarea
+stub: false
 honorific: Saint
 summary: >-
   Chamberlain to the emperor Trajan at Caesarea, Cappadocia. Imprisoned for his faith, his only food was meat that had

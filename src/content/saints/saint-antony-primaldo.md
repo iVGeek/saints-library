@@ -1,5 +1,6 @@
 ---
 name: Saint Antony Primaldo
+stub: false
 honorific: Saint
 summary: >-
   An aged lay man artisan in Otranto, Italy, known for his personal piety. In 1480 Otranto was invaded by Turks who

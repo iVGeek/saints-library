@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Ingbert
+stub: true
 honorific: Saint
 title: Hermit
 summary: Hermit near modern Saint Ingbert, Saarland, Germany, a town named for him.

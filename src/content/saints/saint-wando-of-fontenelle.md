@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Wando of Fontenelle
+stub: false
 honorific: Saint
 summary: >-
   Benedictine monk. Abbot of Fontenelle, France. Due to a false accusation, he was exiled to Troyes, France; reinstated

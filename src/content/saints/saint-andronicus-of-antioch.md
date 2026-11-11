@@ -1,5 +1,6 @@
 ---
 name: Saint Andronicus of Antioch
+stub: false
 honorific: Saint
 summary: >-
   Ninth-century layman in Antioch, Syria. Married to Saint Athanasia of Antioch. Silversmith and possibly a banker.

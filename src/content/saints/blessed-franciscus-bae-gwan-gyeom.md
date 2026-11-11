@@ -1,5 +1,6 @@
 ---
 name: Blessed Franciscus Bae Gwan-gyeom
+stub: false
 honorific: Blessed
 summary: >-
   Layman convert, one of the first in Korea. He started building a house of prayer house in his village for his fellow

@@ -1,5 +1,6 @@
 ---
 name: Blessed Margarita de Maturana
+stub: false
 honorific: Blessed
 summary: >-
   Pilar and her twin sister Leonor were the youngest of five children born to Juana Ortiz de Zarate and Vicente Lopez de

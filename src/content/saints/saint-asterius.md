@@ -1,5 +1,6 @@
 ---
 name: Saint Asterius
+stub: false
 honorific: Saint
 summary: >-
   Priest under Pope Callistus, whom he secretly buried, and for which act he was killed by order of Emperor Alexander

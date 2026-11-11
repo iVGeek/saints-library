@@ -1,5 +1,6 @@
 ---
 name: Blessed Vincenzo Calderon
+stub: false
 honorific: Blessed
 summary: >-
   Mercedarian priest. He was one of twenty Mercedarians who, when an unspecified plague struck Palermo, Italy,

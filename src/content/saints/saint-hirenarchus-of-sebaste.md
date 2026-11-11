@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Hirenarchus of Sebaste
+stub: false
 honorific: Saint
 summary: >-
   Pagan who converted while witnessing the faith of the Martyrs of Sebaste during their persecution; he was martyred

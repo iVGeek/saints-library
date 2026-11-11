@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Cassiano of Albitina
+stub: false
 honorific: Saint
 summary: >-
   One of a group of 46 Christians arrested in Albitina, North Africa during Mass, shipped to Carthage for judgment and

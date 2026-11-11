@@ -1,5 +1,6 @@
 ---
 name: Blessed Pauline of Thuringia
+stub: false
 honorific: Blessed
 summary: >-
   Born to the Saxon nobility. Married. Widow. Re-married to Sir Ulric de Scharaplan. Mother. Widowed again. Founded a

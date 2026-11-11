@@ -1,5 +1,6 @@
 ---
 name: Venerable Emilie Engel
+stub: true
 honorific: Venerable
 summary: Consecrated member of the Secular Institute of the Schönstatt Sisters of Mary.
 birthYear: 1893

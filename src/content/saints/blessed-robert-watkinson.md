@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/d/db/Blessed-james-duckett.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Robert Watkinson
+stub: false
 honorific: Blessed
 summary: >-
   Priest in the apostolic vicariate of England. Only a month after his ordination, he was imprisoned and executed in the

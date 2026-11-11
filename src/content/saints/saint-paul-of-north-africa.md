@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/0/0f/James_J._Hill_House_2013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Paul of North Africa
+stub: false
 honorific: Saint
 summary: One of a group of 19 Christians martyred together in the persecutions of the Arian Vandal King Hunneric.
 deathYear: 430

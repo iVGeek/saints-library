@@ -1,5 +1,6 @@
 ---
 name: Saint Werburgh of Chester
+stub: false
 honorific: Saint
 summary: >-
   Born a princess, the daughter of King Wulfhere of Mercia and his queen, Saint Ermenilda. Nun. Spiritual student of

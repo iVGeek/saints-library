@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Peter of Veroli
+stub: true
 honorific: Saint
 summary: Hermit near Veroli, Italy.
 born: Spain

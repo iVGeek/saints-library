@@ -1,5 +1,6 @@
 ---
 name: Saint Alipius of Tagaste
+stub: false
 honorific: Saint
 summary: >-
   From youth he was a friend of Saint Augustine of Hippo. Studied law in Rome, Italy. Magistrate in Rome. When Augustine

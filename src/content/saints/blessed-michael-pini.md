@@ -1,5 +1,6 @@
 ---
 name: Blessed Michael Pini
+stub: false
 honorific: Blessed
 summary: >-
   Favored courtier to Lorenzo de' Medici. Camaldolese hermit in 1502. After his ordination, Michael was walled up in his

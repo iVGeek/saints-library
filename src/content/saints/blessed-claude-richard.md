@@ -1,5 +1,6 @@
 ---
 name: Blessed Claude Richard
+stub: false
 honorific: Blessed
 summary: >-
   Benedictine monk at the monastery in Metz, France. Priest. Imprisoned on a ship in the harbor of Rochefort, France and

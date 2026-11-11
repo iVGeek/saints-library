@@ -1,5 +1,6 @@
 ---
 name: Saint Gabriel of Our Lady of Sorrows
+stub: false
 honorific: Venerable
 summary: >-
   One of thirteen children. After a youth devoted to the world and society, attending the theatre, chasing women and the

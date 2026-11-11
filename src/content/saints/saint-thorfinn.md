@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Thorfinn
+stub: false
 honorific: Saint
 summary: >-
   Cistercian monk at the abbey of Tautra. Canon of the Cathedral of Nidaros (modern Trondheim, Norway) by 1277 when he

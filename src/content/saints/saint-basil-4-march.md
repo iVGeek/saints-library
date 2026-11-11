@@ -1,5 +1,6 @@
 ---
 name: Saint Basil
+stub: false
 honorific: Saint
 summary: >-
   Missionary bishop who was sent by the Patriarch of Jerusalem to convert people in the Chersonese region of greater

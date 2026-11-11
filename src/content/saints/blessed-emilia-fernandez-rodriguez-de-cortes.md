@@ -1,5 +1,6 @@
 ---
 name: Blessed Emilia Fernández Rodríguez de Cortés
+stub: false
 honorific: Blessed
 summary: Married lay woman in the diocese of Almería, Spain. Martyred in the Spanish Civil War.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Emilia-Fernandez-Rodriguez-de-Cortes.jpg

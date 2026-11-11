@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Clair of Tours
+stub: false
 honorific: Saint
 summary: >-
   Wealthy citizen of Tours, France; he gave up his wealth and position to become a monk at Marmoutier Abbey in Tours.

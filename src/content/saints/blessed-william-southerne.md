@@ -1,5 +1,6 @@
 ---
 name: Blessed William Southerne
+stub: false
 honorific: Blessed
 summary: >-
   Studied in Lithuania, at the English College at Douai, France, and the College of Saint Alban, Valladolid, Spain.

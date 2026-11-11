@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/e/e0/Tour_de_l%27abbaye_de_Cambron.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Jean of Hainaut
+stub: false
 honorific: Blessed
 summary: >-
   Civil and canon lawyer. Premonstratensian monk. Canon of the Joyenval monastery in the area of Ile-de-France. Abbot of

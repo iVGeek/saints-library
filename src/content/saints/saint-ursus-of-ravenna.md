@@ -1,5 +1,6 @@
 ---
 name: Saint Ursus of Ravenna
+stub: false
 honorific: Saint
 summary: >-
   Born to the Sicilian nobility. Convert to Christianity. His father violently opposed the conversion, and Ursus fled to

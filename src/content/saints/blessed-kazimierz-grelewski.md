@@ -1,5 +1,6 @@
 ---
 name: Blessed Kazimierz Grelewski
+stub: false
 honorific: Blessed
 summary: >-
   Brother of Blessed Stefan Grelewski. Parish priest, teacher and prefect of schools in the diocese of Radom, Poland.

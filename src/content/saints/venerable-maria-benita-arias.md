@@ -1,5 +1,6 @@
 ---
 name: Venerable María Benita Arias
+stub: false
 honorific: Venerable
 summary: >-
   For 30 years she used her own home to care for orphaned and abandoned children. Founded the Handmaids of Jesus in the

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Maximus of Padua
+stub: true
 honorific: Saint
 summary: Second century Bishop of Padua, Italy. Known as a miracle worker.
 region: Italy

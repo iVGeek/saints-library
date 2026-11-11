@@ -1,5 +1,6 @@
 ---
 name: Saint Agnes of Montepulciano
+stub: true
 honorific: Saint
 image: >-
   https://commons.wikimedia.org/wiki/Special:FilePath/Sant%2527Agnese_Segni%252C_1507%252C_01_%2528cropped%2529.jpg?width=600

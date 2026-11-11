@@ -1,5 +1,6 @@
 ---
 name: Saint Matiya Mulumba
+stub: false
 honorific: Venerable
 summary: >-
   Born to the Lugave clan. A man who was seeking God, he converted first to Islam, and then to Christianity. One of the

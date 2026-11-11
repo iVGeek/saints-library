@@ -1,5 +1,6 @@
 ---
 name: Blessed Bertha de'Alberti of Cavriglia
+stub: false
 honorific: Blessed
 summary: >-
   Daughter of Lothario di Ugo, Count of Vernio. Vallombrosan Benedictine nun at the Saint Felicitas convent in Florence,

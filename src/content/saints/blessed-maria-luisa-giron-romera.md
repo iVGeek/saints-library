@@ -1,5 +1,6 @@
 ---
 name: Blessed María Luisa Girón Romera
+stub: false
 honorific: Blessed
 summary: >-
   Student at the Piarist school in her hometown of Bujalance, Spain. She joined the Sisters of the Pious Schools in

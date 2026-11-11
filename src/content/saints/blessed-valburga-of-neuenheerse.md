@@ -1,5 +1,6 @@
 ---
 name: Blessed Valburga of Neuenheerse
+stub: false
 honorific: Blessed
 summary: >-
   Nun. First abbess of the monastery in Neuenheerse, Germany in 868. The house was established by her brother, Bishop

@@ -1,5 +1,6 @@
 ---
 name: Saint Cyriacus the Martyr
+stub: false
 honorific: Saint
 summary: >-
   Member of the Roman patrician nobility. Adult convert who gave away his wealth to the poor. Deacon. Ministered to the

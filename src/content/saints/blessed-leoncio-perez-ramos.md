@@ -1,5 +1,6 @@
 ---
 name: Blessed Leoncio Pérez Ramos
+stub: false
 honorific: Blessed
 summary: >-
   Born to a poor peasant family. Joined the Claretian at the school in Alagón in 1889. Priest, ordained in Miranda de

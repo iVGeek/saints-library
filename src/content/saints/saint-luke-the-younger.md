@@ -1,5 +1,6 @@
 ---
 name: Saint Luke the Younger
+stub: false
 honorific: Saint
 summary: >-
   Third of seven children born to Stephen and Euphrosyne, small land-owning farmers; the family was forced to flee to

@@ -1,5 +1,6 @@
 ---
 name: Saint Gregory of Nyssa
+stub: false
 honorific: Saint
 title: St. Gregory of Nyssa
 summary: >-

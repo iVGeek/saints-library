@@ -1,5 +1,6 @@
 ---
 name: Saint Louise de Marillac
+stub: false
 honorific: Saint
 summary: >-
   Though she considered a religious vocation from an early age, her ill health kept any house from taking her. She

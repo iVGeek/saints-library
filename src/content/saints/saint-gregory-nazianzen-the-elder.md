@@ -1,5 +1,6 @@
 ---
 name: Saint Gregory Nazianzen the Elder
+stub: false
 honorific: Saint
 summary: >-
   Gregory spent the first 50 years of his life as a pagan, and worked as a government official most of his adult life.

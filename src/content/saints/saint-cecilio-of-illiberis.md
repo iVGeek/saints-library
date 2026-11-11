@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Cecilio of Illiberis
+stub: true
 honorific: Saint
 summary: Early missionary and bishop of Illiberis (modern Elvira, Granada, Spain).
 region: Spain

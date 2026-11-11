@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/0/0e/Timahoe.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Mochua of Timahoe
+stub: false
 honorific: Saint
 summary: >-
   Son of Lonan. Soldier. Monk as a young man. Founded a monastery in Derenish, County Laois, Ireland. Founded the

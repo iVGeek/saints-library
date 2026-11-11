@@ -1,5 +1,6 @@
 ---
 name: Saint Emanuele of Rome
+stub: true
 honorific: Saint
 summary: Martyr.
 died: Rome, Italy in the early days of the Church

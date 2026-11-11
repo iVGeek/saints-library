@@ -1,5 +1,6 @@
 ---
 name: Saint Miguel de la Mora
+stub: false
 honorific: Venerable
 summary: >-
   Ordained in 1906. Chaplain of the Cabildo of the Cathedral of Colima, Mexico in 1912. When the government's

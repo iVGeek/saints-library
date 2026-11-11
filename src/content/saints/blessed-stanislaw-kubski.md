@@ -1,5 +1,6 @@
 ---
 name: Blessed Stanislaw Kubski
+stub: false
 honorific: Blessed
 summary: >-
   Priest in the archdiocese of Gniezno, Poland, serving in the parish of the Blessed Virgin Mary in Inowroclaw, Poland.

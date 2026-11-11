@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Publius of Zeugma
+stub: false
 honorific: Saint
 summary: >-
   Son of a fourth-century senator in Zeugma on the River Euphrates (in modern Turkey). When he came of age, Publius sold

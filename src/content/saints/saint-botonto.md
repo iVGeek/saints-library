@@ -1,5 +1,6 @@
 ---
 name: Saint Botonto
+stub: false
 honorific: Saint
 summary: >-
   On 28 December 1841, the relics of eight martyrs, including an ampule of blood, dating to the time of Diocletian, were

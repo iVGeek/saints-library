@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/1/16/Margaret_the_Virgin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Andrew of Antioch
+stub: true
 honorific: Saint
 summary: Martyr.
 deathYear: 280

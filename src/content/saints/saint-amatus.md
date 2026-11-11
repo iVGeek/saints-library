@@ -1,5 +1,6 @@
 ---
 name: Saint Amatus
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility. Entered the abbey of Saint Maurice of Agaune in Switzerland while still very young. Spent thirty

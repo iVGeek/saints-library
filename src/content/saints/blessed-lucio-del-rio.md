@@ -1,5 +1,6 @@
 ---
 name: Blessed Lucio del Rio
+stub: false
 honorific: Blessed
 summary: Mercedarian priest. Confessor of King James II of Castille, and the Infanta Isabella.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Lucio-del-Rio.jpg

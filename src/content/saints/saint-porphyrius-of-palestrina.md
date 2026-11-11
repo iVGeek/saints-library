@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Porphyrius of Palestrina
+stub: true
 honorific: Saint
 summary: Martyr.
 died: in Palestrina, Italy

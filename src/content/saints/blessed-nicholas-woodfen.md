@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Nicholas Woodfen
+stub: false
 honorific: Blessed
 summary: >-
   Studied in Rheims, France. Priest. Returned to London, England to minister to covert Catholics at the Inns of Court,

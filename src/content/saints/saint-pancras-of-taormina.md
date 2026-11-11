@@ -1,5 +1,6 @@
 ---
 name: Saint Pancras of Taormina
+stub: false
 honorific: Saint
 summary: >-
   Travelled from Turkey to Jerusalem as a boy during the ministry of Jesus. Back in Antioch, he and his entire family

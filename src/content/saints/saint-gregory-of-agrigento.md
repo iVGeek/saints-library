@@ -1,5 +1,6 @@
 ---
 name: Saint Gregory of Agrigento
+stub: true
 honorific: Saint
 summary: Martyred in the persecutions of Valerian.
 image: >-

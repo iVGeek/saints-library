@@ -1,5 +1,6 @@
 ---
 name: Saint Casimir of Poland
+stub: false
 honorific: Saint
 title: St. Casimir of Poland
 summary: >-

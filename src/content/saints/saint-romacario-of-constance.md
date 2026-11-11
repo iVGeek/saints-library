@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Romacario of Constance
+stub: true
 honorific: Saint
 title: Bishop
 summary: Sixth century bishop in Constance, Neustria (modern Konstanz, Germany).

@@ -1,5 +1,6 @@
 ---
 name: Saint Melito of Sardis
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Sardis, Lydia (part of modern Turkey). Ecclesiastical writer; he wrote an Apology (defense of Christianity)

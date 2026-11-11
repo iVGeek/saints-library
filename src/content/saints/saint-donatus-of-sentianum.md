@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Donatus of Sentianum
+stub: true
 honorific: Saint
 summary: Martyred in the persecutions of Maximian Herculeaus.
 deathYear: 303

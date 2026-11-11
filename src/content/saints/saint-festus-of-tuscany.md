@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Festus of Tuscany
+stub: true
 honorific: Saint
 summary: Martyr honoured in Tuscany, Italy. No other information has survived.
 region: Italy

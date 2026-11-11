@@ -1,5 +1,6 @@
 ---
 name: Blessed Francisca Inés Valverde González
+stub: false
 honorific: Blessed
 summary: >-
   Nun. Member of the Calasanzian Institute, Daughters of the Divine Shepherdess. Superior of the convent-school in

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Willebald of Bavaria
+stub: false
 honorific: Blessed
 summary: >-
   Born to the 13th century German nobility, he fell ill and died on the road in Bavaria while on pilgrimage. Given a

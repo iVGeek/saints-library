@@ -1,5 +1,6 @@
 ---
 name: Saint Acacius of Ptolemais
+stub: true
 honorific: Saint
 summary: Martyr.
 died: Ptolemais, Phoenicia

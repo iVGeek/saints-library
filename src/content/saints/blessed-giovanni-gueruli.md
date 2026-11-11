@@ -1,5 +1,6 @@
 ---
 name: Blessed Giovanni Gueruli
+stub: false
 honorific: Blessed
 summary: >-
   Deacon. Canon of the cathedral of Santa Columba in the diocese of Rimini, Italy. Vicar-general to Bishop Guido de

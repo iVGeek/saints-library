@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/2/20/Santa_Teresa_de_Jes%C3%BAs_%28Museo_del_Prado%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Joan Mercer Soler
+stub: false
 honorific: Blessed
 summary: >-
   Member of the Claretians, professed on 15 September 1895. Ordained a priest on 19 December 1903. Martyred in the

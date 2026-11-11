@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Cyra of Beroea
+stub: false
 honorific: Saint
 summary: Pious woman who lived a life of extreme asceticism walled up in a small house just outside of Beroea, Syria.
 deathYear: 455

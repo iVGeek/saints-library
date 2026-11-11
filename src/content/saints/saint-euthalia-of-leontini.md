@@ -1,5 +1,6 @@
 ---
 name: Saint Euthalia of Leontini
+stub: false
 honorific: Saint
 summary: >-
   Daughter of Saint Eutropia of Lentini. A convert, she was baptized following a vision and healing received by her

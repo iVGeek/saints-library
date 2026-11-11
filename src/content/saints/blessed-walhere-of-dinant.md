@@ -1,5 +1,6 @@
 ---
 name: Blessed Walhère of Dinant
+stub: false
 honorific: Blessed
 summary: >-
   Born to a family of wealth land-owners, Walhère mother died when he was still an infant. Studied with the

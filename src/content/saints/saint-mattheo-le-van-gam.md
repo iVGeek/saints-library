@@ -1,5 +1,6 @@
 ---
 name: Saint Matthêô Lê Van Gam
+stub: false
 honorific: Venerable
 summary: >-
   Eldest son in a pious Christian family. Matthew briefly studied at the seminary at Lai Thieu in the apostolic

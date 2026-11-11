@@ -1,5 +1,6 @@
 ---
 name: Venerable Teresa Candamo Álvarez-Calderon
+stub: true
 honorific: Venerable
 summary: Founder of the Canonesses of the Cross.
 image: >-

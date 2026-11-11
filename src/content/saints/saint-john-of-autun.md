@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint John of Autun
+stub: true
 honorific: Saint
 summary: Bishop venerated at Autun, France.
 region: France

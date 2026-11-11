@@ -1,5 +1,6 @@
 ---
 name: Blessed Clement of Osimo
+stub: false
 honorific: Blessed
 summary: >-
   Priest. Joined the Congregation of Hermits of Brettino, which in 1256 merged with the Augustinian Hermits. Chosen the

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Ulric of Croyland
+stub: true
 honorific: Saint
 summary: Monk at Croyland Abbey. Martyred by pagan Danes.
 searchAliases:

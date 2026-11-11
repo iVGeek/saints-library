@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/9/9e/Rome_-_Basilique_Sainte-Marie_Majeure.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Andrew of Marula
+stub: true
 honorific: Saint
 summary: Martyr.
 searchAliases:

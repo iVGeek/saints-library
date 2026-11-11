@@ -1,5 +1,6 @@
 ---
 name: Saint Lomer of Corbion
+stub: false
 honorific: Saint
 summary: >-
   Born to a poor family, as a boy he worked as a shepherd near Chartres, France. Priest. Treasurer of the cathedral

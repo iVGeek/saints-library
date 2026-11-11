@@ -1,5 +1,6 @@
 ---
 name: Saint John of Constantinople
+stub: false
 honorific: Saint
 summary: >-
   Son of Saint Xenophon and Saint Mary of Constantinople; brother of Saint Arcadius. His family was part of the wealthy

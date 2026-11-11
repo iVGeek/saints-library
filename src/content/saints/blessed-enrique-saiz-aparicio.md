@@ -1,5 +1,6 @@
 ---
 name: Blessed Enrique Sáiz-Aparicio
+stub: false
 honorific: Blessed
 summary: >-
   Member of the Salesians of Don Bosco, professed on 5 September 1909. Priest, ordained on 28 July 1918 in Salamanca,

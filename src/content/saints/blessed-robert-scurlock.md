@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/6/66/Stirling_Castle_20080505_Robert_the_Bruce.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Robert Scurlock
+stub: true
 honorific: Blessed
 summary: Layman in the archdiocese of Dublin, Ireland. One of the Irish Martyrs.
 deathYear: 1581

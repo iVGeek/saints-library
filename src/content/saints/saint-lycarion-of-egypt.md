@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/a/af/Martha_and_Mary%2C_and_their_brother_Lycarion%2C_in_Egypt_%28Menologion_of_Basil_II%29.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Lycarion of Egypt
+stub: true
 honorific: Saint
 summary: Tortured extensively and executed for his faith. Martyr.
 searchAliases:

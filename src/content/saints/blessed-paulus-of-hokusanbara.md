@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Paulus of Hokusanbara
+stub: false
 honorific: Blessed
 summary: >-
   A child in the diocese of Niigata, Japan, the son of Blessed Paulus Sanjuro and Blessed Rufina Banzai, martyred with

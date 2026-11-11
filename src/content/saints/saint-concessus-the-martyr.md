@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Concessus the Martyr
+stub: true
 honorific: Saint
 summary: Martyr. No other details are known.
 region: England

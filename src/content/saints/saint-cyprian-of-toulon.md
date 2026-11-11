@@ -1,5 +1,6 @@
 ---
 name: Saint Cyprian of Toulon
+stub: false
 honorific: Saint
 summary: >-
   Spiritual student of Saint Caesarius of Arles, who made him arch-deacon in the diocese of Arles, France in 505.

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Ulpia Candida
+stub: true
 honorific: Saint
 summary: Martyr, apparently dying in the persecutions of Diocletian.
 deathYear: 303

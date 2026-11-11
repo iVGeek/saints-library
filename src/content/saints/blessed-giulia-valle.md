@@ -1,5 +1,6 @@
 ---
 name: Blessed Giulia Valle
+stub: false
 honorific: Blessed
 summary: >-
   Daughter of Anselmo Valle and Cristina Dalbar who both worked in the family's milliner's shop; she had one brother,

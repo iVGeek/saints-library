@@ -1,5 +1,6 @@
 ---
 name: Saint Ethelburga of Faremoutier
+stub: false
 honorific: Saint
 summary: >-
   Daughter of the king of East Angles. During her childhood, Ethelburga lived in a Gallic convent under the direction of

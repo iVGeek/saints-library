@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Godwin of Stavelot
+stub: true
 honorific: Saint
 summary: Benedictine monk. Abbot of the monastery of Stavelot-Malmedy, Belgium.
 deathYear: 690

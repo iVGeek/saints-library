@@ -1,5 +1,6 @@
 ---
 name: Saint Constantina
+stub: false
 honorific: Saint
 summary: >-
   Born to the imperial Roman nobility, the daughter of emperor Constantine I and Fausta; the granddaughter of emperor

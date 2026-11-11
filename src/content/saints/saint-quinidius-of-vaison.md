@@ -1,5 +1,6 @@
 ---
 name: Saint Quinidius of Vaison
+stub: false
 honorific: Saint
 summary: >-
   Known in his youth as an excellent student. Studied theology at Lerins Abbey. Travelling preacher through the areas of

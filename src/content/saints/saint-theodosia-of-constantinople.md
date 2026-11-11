@@ -1,5 +1,6 @@
 ---
 name: Saint Theodosia of Constantinople
+stub: false
 honorific: Saint
 summary: >-
   Nun in Constantinople. Martyred by iconoclasts for defending an icon of Christ which emperor Leo the Isaurian had

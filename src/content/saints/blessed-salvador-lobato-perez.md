@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Salvador Lobato Pérez
+stub: false
 honorific: Blessed
 summary: >-
   Ordained a priest of the archdiocese of Sevilla, Spain on 12 March 1927. Administrator of the parish of El Saucejo in

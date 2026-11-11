@@ -1,5 +1,6 @@
 ---
 name: Blessed Frédéric Janssone
+stub: false
 honorific: Blessed
 summary: >-
   Youngest of 13 children in a wealthy farm family, Frederic grew up in France but his language at home was Flemish. His

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Jerónimo Ochoa Urdangarín
+stub: false
 honorific: Blessed
 summary: >-
   Joined Hospitallers of Saint John of God in 1921, making his solemn vows on 3 June 1923. Martyred in the Spanish Civil

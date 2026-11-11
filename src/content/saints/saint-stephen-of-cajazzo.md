@@ -1,5 +1,6 @@
 ---
 name: Saint Stephen of Caiazzo
+stub: false
 honorific: Saint
 title: Bishop
 summary: Abbot of San Salvatore Maggiore territorial abbey. Bishop of Cajazzo, Italy in 979.

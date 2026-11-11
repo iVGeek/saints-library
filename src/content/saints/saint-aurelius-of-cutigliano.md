@@ -1,5 +1,6 @@
 ---
 name: Saint Aurelius of Cutigliano
+stub: true
 honorific: Saint
 summary: Martyr.
 searchAliases:

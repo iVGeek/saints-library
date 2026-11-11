@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Philotheus of Samosata
+stub: false
 honorific: Saint
 summary: >-
   Local magistrate. Martyred for refusing to perform a pagan rite in celebration of the victory of Emperor Maximian over

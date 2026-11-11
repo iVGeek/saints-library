@@ -1,5 +1,6 @@
 ---
 name: Saint Othmar of Saint Gall
+stub: false
 honorific: Saint
 summary: >-
   Educated in the ancient provice Rhaetia, an area in modern Switzerland and Germany. Priest, assigned to the parish of

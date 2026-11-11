@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Peter of Capitolíade
+stub: false
 honorific: Saint
 summary: >-
   Priest. For preaching Christianity in territory held by the Saracen prince Walid, he was mutilated and executed.

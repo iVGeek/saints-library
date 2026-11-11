@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/f/fb/Saint_Anthony_%28Damaskinos%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Antony of Rome
+stub: false
 honorific: Saint
 summary: One of 23 Christians martyred in the persecutions of Gallienus. No other information has survived.
 deathYear: 260

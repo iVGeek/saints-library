@@ -1,5 +1,6 @@
 ---
 name: Saint Sidonius Apollinaris
+stub: false
 honorific: Saint
 summary: >-
   Born to the imperial Roman nobility, son of Apollinaris, Prefect of Gaul. Soldier. Married to Papianilla, the daughter

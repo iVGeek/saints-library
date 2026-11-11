@@ -1,5 +1,6 @@
 ---
 name: Saint Brocard
+stub: false
 honorific: Saint
 summary: >-
   Monk on Mount Carmel who was chosen prior of his house. Around the year 1210, he asked Saint Albert, patriarch of

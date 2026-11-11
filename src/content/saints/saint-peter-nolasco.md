@@ -1,5 +1,6 @@
 ---
 name: Saint Peter Nolasco
+stub: false
 honorific: Saint
 summary: >-
   Born to the French nobility. Grew up a pious youth. His father died when Peter was fifteen, and he inherited a

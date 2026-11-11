@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Peter of Nicomedia
+stub: true
 honorific: Saint
 summary: Martyred in the persecutions of the Arian Emperor Constantius.
 deathYear: 349

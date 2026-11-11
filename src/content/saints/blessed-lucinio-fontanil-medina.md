@@ -1,5 +1,6 @@
 ---
 name: Blessed Lucinio Fontanil Medina
+stub: false
 honorific: Blessed
 summary: >-
   Lucinio joined the Franciscan Capuchins in 1914 at the age of 30, taking the name Primitivo di Villamizar; he made his

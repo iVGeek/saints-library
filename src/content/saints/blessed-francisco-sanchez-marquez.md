@@ -1,5 +1,6 @@
 ---
 name: Blessed Francisco Sánchez Márquez
+stub: false
 honorific: Blessed
 summary: >-
   The eldest of four children in a rural peasant family, Francisco was baptized at the age of five days, and grew up in

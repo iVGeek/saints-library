@@ -1,5 +1,6 @@
 ---
 name: Saint Callistus of Todi
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Todi, Italy c.523. Zealous opponent of the heresy of Arianism. Preached against the excesses and loose lives

@@ -1,5 +1,6 @@
 ---
 name: Blessed Agno of Zaragoza
+stub: false
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/University_of_Michigan_%28IA_afj2106.0001.001.umich.edu%29.pdf/page1-960px-University_of_Michigan_%28IA_afj2106.0001.001.umich.edu%29.pdf.jpg
 honorific: Blessed

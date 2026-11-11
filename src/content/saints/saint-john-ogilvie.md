@@ -1,5 +1,6 @@
 ---
 name: Saint John Ogilvie
+stub: false
 honorific: Venerable
 summary: >-
   Walter Ogilvie was a Scottish noble who raised his son John in the state religion of Scotland, Calvinism. John

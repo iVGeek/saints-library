@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Fausta of Cyzicum
+stub: false
 honorific: Saint
 summary: >-
   A pagan magistrate who ordered the torture and martyrdom of Saint Evilasius of Cyzicum. Seeing her courage and faith,

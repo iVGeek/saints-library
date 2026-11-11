@@ -1,5 +1,6 @@
 ---
 name: Saint Laurian of Seville
+stub: false
 honorific: Saint
 summary: >-
   Deacon in Milan, Italy. Ordained by Saint Eustogius II. Fled to Seville, Spain to escape Arian persecution; he was

@@ -1,5 +1,6 @@
 ---
 name: Saint Sabina of Avila
+stub: false
 honorific: Saint
 summary: >-
   Sister of Saint Saint Christeta of Avila and Saint Vincent of Avila. During a period of persecution, she fled Talavera

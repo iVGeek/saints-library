@@ -1,5 +1,6 @@
 ---
 name: Blessed Bartolomeo Dalmasoni
+stub: false
 honorific: Blessed
 summary: >-
   Franciscan Friar Minor priest. He restored and repaired the Franciscan church and monastery in Prague, Czech Republic,

@@ -1,5 +1,6 @@
 ---
 name: Blessed Clemenzia of the Holy Trinity
+stub: false
 honorific: Blessed
 summary: >-
   Blood sister of Blessed Mary of Colonna and Blessed Mary of the Resurrection. Mercedarian nun at the monastery of the

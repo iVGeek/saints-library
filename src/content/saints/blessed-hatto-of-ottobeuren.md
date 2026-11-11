@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Hatto of Ottobeuren
+stub: false
 honorific: Blessed
 summary: >-
   Born to the Swabian nobility, when Hatto came of age he gave all his property to the Benedictine abbey at Ottobeuren,

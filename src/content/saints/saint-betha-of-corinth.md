@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Betha of Corinth
+stub: true
 honorific: Saint
 summary: Martyr.
 searchAliases:

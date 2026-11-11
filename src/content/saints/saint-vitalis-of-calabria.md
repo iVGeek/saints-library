@@ -1,5 +1,6 @@
 ---
 name: Saint Vitalis of Calabria
+stub: false
 honorific: Saint
 summary: >-
   Monk at the monastery of Saint Philip at Agira, Sicily. Pilgrim to Rome, Italy. Hermit in the Calabria region of Italy

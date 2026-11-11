@@ -1,5 +1,6 @@
 ---
 name: Saint Cugat del Valles
+stub: false
 honorific: Saint
 summary: >-
   Born to an illustrious family in north Africa. He fled to Spain to avoid the persecutions of Diocletian. Spiritual

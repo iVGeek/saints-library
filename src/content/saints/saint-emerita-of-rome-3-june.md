@@ -1,5 +1,6 @@
 ---
 name: Saint Emerita of Rome
+stub: true
 honorific: Saint
 died: Rome, Italy, date unknown
 deathPlace: Italy, date unknown

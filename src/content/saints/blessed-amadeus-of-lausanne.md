@@ -1,5 +1,6 @@
 ---
 name: Blessed Amadeus of Lausanne
+stub: false
 honorific: Blessed
 summary: >-
   Son of Blessed Amadeus of Clermont. Member of the royal family of Franconia. Educated at the monasteries at Bonnevaux

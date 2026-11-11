@@ -1,5 +1,6 @@
 ---
 name: Blessed Michal Oziebijowski
+stub: false
 honorific: Blessed
 summary: >-
   Priest of the archdiocese of Warsaw, Poland, serving in the parish of Kutno where he was know for ministry and

@@ -1,5 +1,6 @@
 ---
 name: Saint Myron of Cyzicus
+stub: false
 honorific: Saint
 summary: >-
   Priest who tried to face down the people who came to destroy his church in the persecutions of Decius and Antipater.

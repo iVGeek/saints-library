@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Apelles of Eraclea Sintica
+stub: false
 honorific: Saint
 summary: >-
   First century convert, and one of the 70 disciples sent out as missionaries as described in the Acts of the Apostles.

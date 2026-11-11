@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/4a/Fresco_of_Saint_Paul_at_Ephesus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Papias of Perga
+stub: true
 honorific: Saint
 summary: Shepherd. Martyred in the persecutions of Decius.
 deathYear: 250

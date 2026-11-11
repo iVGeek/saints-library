@@ -1,5 +1,6 @@
 ---
 name: Blessed Miguel Tiu Imul
+stub: false
 honorific: Blessed
 summary: >-
   Married layman of the diocese of Quiché, Guatemala. Director of Catholic Action and served as a catechist. Murdered by

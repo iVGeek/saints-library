@@ -1,5 +1,6 @@
 ---
 name: Blessed Otto Neururer
+stub: false
 honorific: Blessed
 summary: >-
   Twelfth and youngest child of a peasant family, Otto grew up on a small farm with a mill. His father died when the boy

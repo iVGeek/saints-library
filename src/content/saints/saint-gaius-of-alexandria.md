@@ -1,5 +1,6 @@
 ---
 name: Saint Gaius of Alexandria
+stub: true
 honorific: Saint
 summary: Martyr. No other information has survived.
 searchAliases:

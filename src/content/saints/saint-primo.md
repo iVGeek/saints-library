@@ -1,5 +1,6 @@
 ---
 name: Saint Primo
+stub: false
 honorific: Saint
 summary: >-
   Son of Saint Claudio and Saint Prepedigna, grandson of Saint Maximus, brother of Saint Alexander and Saint Acucio.

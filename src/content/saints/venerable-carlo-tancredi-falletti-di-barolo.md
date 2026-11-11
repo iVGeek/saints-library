@@ -1,5 +1,6 @@
 ---
 name: Venerable Carlo Tancredi Falletti di Barolo
+stub: false
 honorific: Venerable
 summary: >-
   Son of Ottavio Alessandro Falletti, the Marquess of Barolo, and Paolina d'Oncieu; he was the last descendant of the

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Vodoaldus of Soissons
+stub: false
 honorific: Saint
 summary: >-
   Missionary from the British Isles to France. Hermit beside Saint Mary's convent at Soissons, France. Known as a

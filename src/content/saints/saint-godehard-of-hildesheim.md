@@ -1,5 +1,6 @@
 ---
 name: Saint Godehard of Hildesheim
+stub: false
 honorific: Saint
 summary: >-
   Godehard was raised around churchmen, his father working for the canons of Niederaltaich Abbey in Bavaria. Ordained a

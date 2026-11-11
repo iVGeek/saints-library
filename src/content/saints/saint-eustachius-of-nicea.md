@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Eustachius of Nicea
+stub: true
 honorific: Saint
 summary: Martyred in the persecutions of Emperor Maximinius the Thracian.
 deathYear: 235

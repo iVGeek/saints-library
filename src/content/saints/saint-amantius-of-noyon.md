@@ -1,5 +1,6 @@
 ---
 name: Saint Amantius of Noyon
+stub: false
 honorific: Saint
 summary: >-
   He and three of his brothers were converts, then priests. Bishop of Noyon, France. Martyred for his faith with five

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Publia
+stub: false
 honorific: Saint
 summary: >-
   Mother of one son, John, who became bishop of Antioch. Widow. Formed a group of local Christian women into an informal

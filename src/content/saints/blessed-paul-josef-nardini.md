@@ -1,5 +1,6 @@
 ---
 name: Blessed Paul Josef Nardini
+stub: false
 honorific: Blessed
 summary: >-
   The son of Margherita Lichtenberger, a single mother; at age two he was adopted by his aunt, Barbara Nardini, and grew

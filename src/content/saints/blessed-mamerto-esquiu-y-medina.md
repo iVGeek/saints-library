@@ -1,5 +1,6 @@
 ---
 name: Blessed Mamerto Esquiú y Medina
+stub: false
 honorific: Blessed
 summary: >-
   The son of Santiago Esquiú and María de las Nieves Medina. Mamerto was early called to religious life, and would wear

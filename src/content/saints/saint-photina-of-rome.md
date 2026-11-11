@@ -1,5 +1,6 @@
 ---
 name: Saint Photina of Rome
+stub: false
 honorific: Saint
 summary: >-
   Martyred in the persecutions of Nero. One tradition says that she was the Samaritan woman that Jesus talked to at

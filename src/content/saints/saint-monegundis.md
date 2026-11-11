@@ -1,5 +1,6 @@
 ---
 name: Saint Monegundis
+stub: false
 honorific: Saint
 summary: >-
   She married young, and was the mother of two daughters, both of whom died in childhood, sending Monegundis into a deep

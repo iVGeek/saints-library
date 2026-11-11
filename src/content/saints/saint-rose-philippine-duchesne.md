@@ -1,5 +1,6 @@
 ---
 name: Saint Rose Philippine Duchesne
+stub: false
 honorific: Venerable
 summary: >-
   Born to family with wealth and political connections; her father, Pierre Francois Duchesne, was a lawyer, businessman,

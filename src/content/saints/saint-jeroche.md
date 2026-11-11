@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Jéroche
+stub: true
 honorific: Saint
 summary: Seventh-century parish priest in a small village in the Brie region of France.
 died: relics enshrined at the abbey in Rebais Seine-et-Marne, France

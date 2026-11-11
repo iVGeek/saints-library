@@ -1,5 +1,6 @@
 ---
 name: Saint Sabina of Troyes
+stub: true
 honorific: Saint
 summary: Sister of Saint Sabinian of Troyes.
 image: https://catholicsaints.info/wp-content/uploads/img-Saints-Sabina-and-Sabinian-of-Troyes.jpg

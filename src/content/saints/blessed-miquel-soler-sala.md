@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/d/d5/Abbey_of_Montserrat_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Miquel Soler Sala
+stub: true
 honorific: Blessed
 summary: Carmelites of the Ancient Observance friar. Martyred in the Spanish Civil War.
 searchAliases:

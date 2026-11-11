@@ -1,5 +1,6 @@
 ---
 name: Saint Romanus of Subiaco
+stub: false
 honorific: Saint
 summary: >-
   Monk and then abbot near Subiaco, Italy. Friend of Saint Benedict of Nursia, and supported him during his time as a

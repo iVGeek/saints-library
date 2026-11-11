@@ -1,5 +1,6 @@
 ---
 name: Blessed Nicolò Rusca
+stub: false
 honorific: Blessed
 summary: >-
   Studied at the Collegium Helveticum in Milan, Italy from 1580 to 1587. Priest in the diocese of Como, Italy. Worked to

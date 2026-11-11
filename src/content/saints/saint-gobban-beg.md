@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Gobbán Beg
+stub: false
 honorific: Saint
 summary: >-
   Mentioned on old calendars in Ireland. The word “Beg” means “small”, so he was probably a small man, but no details

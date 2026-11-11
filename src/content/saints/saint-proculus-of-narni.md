@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Proculus of Narni
+stub: true
 honorific: Saint
 summary: Bishop of Narni, Italy. Executed by order of the Gothic King Totila.
 deathYear: 542

@@ -1,5 +1,6 @@
 ---
 name: Blessed Thomas Belson
+stub: false
 honorific: Blessed
 summary: >-
   Young layman of the apostolic vicariate of England. Educated of Exeter College, Oxford, England, and Douai College,

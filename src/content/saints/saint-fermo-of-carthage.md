@@ -1,5 +1,6 @@
 ---
 name: Saint Fermo of Carthage
+stub: true
 honorific: Saint
 summary: Martyred in the persecutions of Decius.
 deathYear: 250

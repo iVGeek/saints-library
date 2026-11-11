@@ -1,5 +1,6 @@
 ---
 name: Saint Guarinus of Palestrina
+stub: false
 honorific: Saint
 summary: >-
   Born to the Italian nobility. Priest. Canon of the catehdral of Bologna, Italy. Augustinian canon c.1104. Chosen

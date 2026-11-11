@@ -1,5 +1,6 @@
 ---
 name: Blessed Adolphus of Tunis
+stub: false
 honorific: Blessed
 summary: >-
   Mercedarian friar who in 1314 went to Tunis, Tunisia in North Africa to free Christian captives, working with Blessed

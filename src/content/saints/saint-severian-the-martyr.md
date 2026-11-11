@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Severian the Martyr
+stub: true
 honorific: Saint
 summary: Married to Saint Aquila. Martyr.
 died: in Julia Caesarea, Mauritania, North Africa

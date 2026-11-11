@@ -1,5 +1,6 @@
 ---
 name: Saint Thaddeus Liu Ruiting
+stub: false
 honorific: Venerable
 summary: >-
   Priest, ordained at age 35, he spent his ministry walking from village to village, ministering to Christians and

@@ -1,5 +1,6 @@
 ---
 name: Saint Exuperius of Bayeux
+stub: true
 honorific: Saint
 title: Bishop
 summary: Fourth century bishop of Bayeux, France.

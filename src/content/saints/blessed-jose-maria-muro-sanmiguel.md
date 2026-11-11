@@ -1,5 +1,6 @@
 ---
 name: Blessed José María Muro-Sanmiguel
+stub: false
 honorific: Blessed
 summary: >-
   Studied at the San Gaudioso seminary in Tarazona, Spain, and was ordained a priest there on 17 July 1928. He served as

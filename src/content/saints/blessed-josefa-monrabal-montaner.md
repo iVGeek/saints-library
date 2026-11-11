@@ -1,5 +1,6 @@
 ---
 name: Blessed Josefa Monrabal Montaner
+stub: true
 honorific: Blessed
 summary: Nun. Member of the Sisters of Saint Joseph. Martyred in the Spanish Civil War.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Josefa-Monrabal-Montaner.jpg

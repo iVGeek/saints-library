@@ -1,5 +1,6 @@
 ---
 name: Blessed Rabanus Maurus
+stub: false
 honorific: Blessed
 summary: >-
   He grew up in the abbey in Fulda, Germany. Spiritual student of Saint Alcuin of Tours and Saint Eigil. Benedictine

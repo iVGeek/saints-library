@@ -1,5 +1,6 @@
 ---
 name: Saint Carissimus of Fiesole
+stub: true
 honorific: Saint
 summary: Martyred in the persecutions of emperor Domitian.
 died: c.90 near Fiesole, Italy

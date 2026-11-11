@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Cyril of Trier
+stub: true
 honorific: Saint
 title: Bishop
 summary: Fifth century bishop of Trier, Germany.

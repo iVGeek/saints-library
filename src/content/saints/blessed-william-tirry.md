@@ -1,5 +1,6 @@
 ---
 name: Blessed William Tirry
+stub: false
 honorific: Blessed
 summary: >-
   Son of John and Joan Tirry. Studied in Valladolid, Spain and Paris, France. Augustinian priest. He returned to Ireland

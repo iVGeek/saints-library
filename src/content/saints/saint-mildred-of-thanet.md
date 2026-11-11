@@ -1,5 +1,6 @@
 ---
 name: Saint Mildred of Thanet
+stub: false
 honorific: Saint
 summary: >-
   Daughter of Merewalh, King of Mercia, and Saint Ermenburga of Thanet. Sister of Saint Milburga and Saint Mildgytha.

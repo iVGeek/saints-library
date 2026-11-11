@@ -1,5 +1,6 @@
 ---
 name: Saint Genoveva Torres Morales
+stub: false
 honorific: Venerable
 summary: >-
   Youngest of six children. By the age of eight, both her parents and four of her siblings had died. A child homemaker

@@ -1,5 +1,6 @@
 ---
 name: Venerable Antonino Celona
+stub: false
 honorific: Venerable
 summary: >-
   Seminarian in Stretto section of Messina, Italy. Ordained in the archdiocese of Messina on 21 December 1895. Studied

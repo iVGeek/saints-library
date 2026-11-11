@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/3/33/Philip_Fruytiers_-_St._Francis_of_Assisi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed William of Assisi
+stub: false
 honorific: Blessed
 summary: >-
   May have been a priest. Joined the Franciscans and travelled with Saint Francis of Assisi in the early days of the

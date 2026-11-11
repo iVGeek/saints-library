@@ -1,5 +1,6 @@
 ---
 name: Saint Amand of Nantes
+stub: true
 honorific: Saint
 summary: Founder and first abbot of the monastery at Nantes, France.
 searchAliases:

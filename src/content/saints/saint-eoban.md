@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Eobán of Utrecht
+stub: false
 honorific: Saint
 summary: >-
   Benedictine monk. Priest. Evangelized Freisland with Saint Boniface and Saint Willibrord of Echternach. Appointed

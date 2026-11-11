@@ -1,5 +1,6 @@
 ---
 name: Pope Saint Alexander I
+stub: false
 honorific: Saint
 summary: >-
   Roman citizen. Pope in the reign of Emperor Trajan. Baptized Saint Balbina of Rome. He inserted in the Canon of the

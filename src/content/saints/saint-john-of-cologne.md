@@ -1,5 +1,6 @@
 ---
 name: Saint John of Cologne
+stub: false
 honorific: Saint
 summary: >-
   Joined the Dominicans in Cologne, Germany, though the persecutions of the time made it impossible for him to wear his

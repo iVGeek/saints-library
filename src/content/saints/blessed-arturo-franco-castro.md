@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/b/b4/Sta._Monica_Parish_Church%2C_Minalin%2C_Pampanga_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Arturo Franco Castro
+stub: false
 honorific: Blessed
 summary: Priest of the diocese of Córdoba, Spain, serving in the Fernán-Núñez community. Martyred in the Spanish Civil War.
 birthYear: 1878

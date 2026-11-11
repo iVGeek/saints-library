@@ -1,5 +1,6 @@
 ---
 name: Saint Anastasius of Cordoba
+stub: false
 honorific: Saint
 summary: >-
   Deacon of the church of Saint Acisclus in Cordoba, Spain. Monk at the double monastery of T&aacute;banos. Priest. One

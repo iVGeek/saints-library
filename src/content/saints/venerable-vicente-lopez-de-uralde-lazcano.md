@@ -1,5 +1,6 @@
 ---
 name: Venerable Vicente López de Uralde Lazcano
+stub: false
 honorific: Venerable
 summary: >-
   Professed priest in the Society of Mary (Marianists), he was known as a kind, peaceful and pious teacher who was able

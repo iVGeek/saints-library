@@ -1,5 +1,6 @@
 ---
 name: Saint Albert Quadrelli
+stub: false
 honorific: Saint
 summary: >-
   Parish priest at Rivolta d'Adda, Italy for 25 years. Chosen bishop of Lodi, Italy on Holy Thursday, 29 March 1168.

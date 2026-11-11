@@ -1,5 +1,6 @@
 ---
 name: Saint Agilus
+stub: false
 honorific: Saint
 summary: >-
   Frankish nobleman and courtier. Monk at Luxeuil Abbey. Spiritual student of Saint Columbanus. Missionary to Bavaria,

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/2/29/SDamiano-Clara_og_s%C3%B8stre.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Clare of Orléans
+stub: false
 honorific: Blessed
 summary: >-
   12th century Cistercian nun. Devotion developed around her, and lasted for centuries, but all record of her life has

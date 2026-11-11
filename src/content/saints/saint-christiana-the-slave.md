@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Christiana the Slave
+stub: false
 honorific: Saint
 summary: >-
   Fourth century Christian maiden kidnapped and enslaved by the pagan Iberi around the Caspian and Black Sea; her real

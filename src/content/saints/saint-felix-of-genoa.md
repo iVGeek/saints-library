@@ -1,5 +1,6 @@
 ---
 name: Saint Felix of Genoa
+stub: false
 honorific: Saint
 title: Bishop
 summary: Second bishop of Genoa, Italy, c.400. Spiritual teacher of Saint Syrus of Genoa.

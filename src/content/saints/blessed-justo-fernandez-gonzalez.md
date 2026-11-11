@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/e/e3/La_Batalla_de_Clavijo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Justo Fernández González
+stub: false
 honorific: Blessed
 summary: Professed cleric in the Missionary Oblates of Mary Immaculate. Martyred in the Spanish Civil War.
 birthYear: 1916

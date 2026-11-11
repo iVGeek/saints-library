@@ -1,5 +1,6 @@
 ---
 name: Saint Macarius of Alexandria
+stub: true
 honorific: Saint
 summary: Martyr. No other information has survived.
 deathYear: 250

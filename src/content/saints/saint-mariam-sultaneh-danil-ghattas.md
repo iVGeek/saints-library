@@ -1,5 +1,6 @@
 ---
 name: Saint Mariam Sultaneh Danil Ghattas
+stub: false
 honorific: Venerable
 summary: >-
   Joined the Congregation of Saint Joseph of the Apparition at age 14. Nun. Following a vision of the Blessed Virgin

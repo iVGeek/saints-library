@@ -1,5 +1,6 @@
 ---
 name: Saint Ebbe the Elder
+stub: false
 honorific: Saint
 summary: >-
   Daughter of the pagan King Aethelfrith the Ravager of Bernicia and Princess Aacha of Deira, one of seven children.

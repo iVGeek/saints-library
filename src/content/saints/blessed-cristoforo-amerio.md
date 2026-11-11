@@ -1,5 +1,6 @@
 ---
 name: Blessed Cristoforo Amerio
+stub: true
 honorific: Blessed
 summary: Mercedarian friar. Cardinal.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Cristoforo-Amerio.jpg

@@ -1,5 +1,6 @@
 ---
 name: Blessed James Fenn
+stub: false
 honorific: Blessed
 summary: >-
   Educated at Corpus Christi College and Gloucester Hall at Oxford University. Married layman and schoolmaster. Widower.

@@ -1,5 +1,6 @@
 ---
 name: Saint Felix of Sutri
+stub: false
 honorific: Saint
 summary: Priest in Sutri, Tuscany, Italy. Martyred in the persecutions of Valerian and Gallienus.
 deathYear: 257

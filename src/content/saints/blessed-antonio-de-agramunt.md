@@ -1,5 +1,6 @@
 ---
 name: Blessed Antonio de Agramunt
+stub: false
 honorific: Blessed
 summary: Mercedarian who ransomed 530 Christian slaves from Moorish occupied Spain in 1428.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Antonio-de-Agramunt.jpg

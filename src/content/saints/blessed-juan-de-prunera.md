@@ -1,5 +1,6 @@
 ---
 name: Blessed Juan de Prunera
+stub: true
 honorific: Blessed
 summary: Mercedarian friar. Ransomed Christians who were enslaved by Muslims.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Juan-de-Prunera.jpg

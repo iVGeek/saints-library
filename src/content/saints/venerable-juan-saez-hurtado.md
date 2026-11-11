@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Venerable Juan Sáez Hurtado
+stub: true
 honorific: Venerable
 summary: Priest of the diocese of Cartagena, Spain.
 birthYear: 1897

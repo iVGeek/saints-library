@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/f/f9/Santa_Venera_di_Platania.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Antonius of Rome
+stub: true
 honorific: Saint
 summary: Martyr.
 searchAliases:

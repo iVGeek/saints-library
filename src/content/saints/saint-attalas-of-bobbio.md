@@ -1,5 +1,6 @@
 ---
 name: Saint Attalas of Bobbio
+stub: false
 honorific: Saint
 summary: >-
   Monk at Lérins, France. Monk at Luxeuil Abbey. Helped Columbanus build the abbey in Bobbio, Italy. Served as its abbot

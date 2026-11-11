@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Euprepius of Verona
+stub: true
 honorific: Saint
 summary: First century bishop of Verona, Italy.
 searchAliases:

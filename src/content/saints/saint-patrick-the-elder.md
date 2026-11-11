@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/8/81/Saint_Patrick%27s_Saltire.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Patrick the Elder
+stub: true
 honorific: Saint
 summary: Bishop in Ireland.
 deathYear: 450

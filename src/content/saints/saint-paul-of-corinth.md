@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/d/dc/Fresco_of_Saint_Titos.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Paul of Corinth
+stub: true
 honorific: Saint
 summary: Martyr.
 died: Corinth, Greece

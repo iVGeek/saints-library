@@ -1,5 +1,6 @@
 ---
 name: Venerable Elizabeth Lange
+stub: false
 honorific: Venerable
 summary: >-
   To escape harsh racial discrimination, Elizabeth's family moved to South Carolina in the United States in 1813.

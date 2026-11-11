@@ -1,5 +1,6 @@
 ---
 name: Blessed Nicolas Roland
+stub: false
 honorific: Blessed
 summary: >-
   Raised in a pious family. Educated by Jesuits. Canon of Rheims, France while still a seminarian. Priest. Noted

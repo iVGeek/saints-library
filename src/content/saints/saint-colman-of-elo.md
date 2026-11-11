@@ -1,6 +1,7 @@
 ---
 image: https://www.catholic.org/files/images/saints/2698.jpg
 name: Saint Colman of Elo
+stub: false
 honorific: Saint
 summary: >-
   Nephew of Saint Columba of Iona. Founded monasteries in Lynally (Land-Elo, Lin-Alli) and in Muckamore in Ireland.

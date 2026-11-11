@@ -1,5 +1,6 @@
 ---
 name: Blessed María Asunción Mayoral Peña
+stub: false
 honorific: Blessed
 summary: >-
   Daughters of Charity of Saint Vincent de Paul nun in the Archdiocese of Madrid, Spain, joining on 17 March 1897. She

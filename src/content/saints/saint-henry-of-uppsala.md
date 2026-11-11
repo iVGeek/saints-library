@@ -1,5 +1,6 @@
 ---
 name: Saint Henry of Uppsala
+stub: false
 honorific: Saint
 summary: >-
   While working in Rome, Italy, Henry was sent to evangelize Scandinavia, travelling with papal legate Cardinal Nicholas

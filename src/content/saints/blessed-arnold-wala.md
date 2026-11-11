@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/7/78/Saint_Arnould.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Arnold Wala
+stub: false
 honorific: Blessed
 summary: >-
   Premonstratensian monk. Canon of the monastery of Saint Cornelius in Ninove, Belgium. Prior of the monastery for 40

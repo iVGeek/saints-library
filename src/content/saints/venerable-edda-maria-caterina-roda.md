@@ -1,5 +1,6 @@
 ---
 name: Venerable Edda Maria Caterina Roda
+stub: false
 honorific: Venerable
 summary: >-
   One of three children born to Guerrino, a baker, and Cecilia Capelli; she made her First Communion on 18 April 1948 at

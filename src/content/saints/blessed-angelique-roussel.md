@@ -1,5 +1,6 @@
 ---
 name: Blessed Angelique Roussel
+stub: false
 honorific: Blessed
 summary: >-
   Discalced Carmelite nun, professed on 14 May 1769. One of the Carmelite Martyrs of Compiegne, killed in the

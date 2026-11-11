@@ -1,5 +1,6 @@
 ---
 name: Saint Eugenius of Noli
+stub: false
 honorific: Saint
 summary: Evangelizing bishop along the coastline from Provençe, France to Livorno, Italy.
 died: Noli, duchy of Genoa (in modern Liguria, Italy)

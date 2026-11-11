@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Tryphon of Africa
+stub: true
 honorific: Saint
 summary: Martyred by the Arian Vandal king Hunneric.
 searchAliases:

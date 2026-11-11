@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Camelian of Troyes
+stub: false
 honorific: Saint
 title: Bishop
 summary: >-

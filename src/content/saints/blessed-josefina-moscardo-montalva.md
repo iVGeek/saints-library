@@ -1,5 +1,6 @@
 ---
 name: Blessed Josefina Moscardó Montalvá
+stub: false
 honorific: Blessed
 summary: >-
   Lifelong lay woman in the archdiocese of Valencia, Spain. Member of several religious associations including Catholic

@@ -1,5 +1,6 @@
 ---
 name: Venerable Ottorino Zanon
+stub: false
 honorific: Venerable
 summary: >-
   Son of a stone mason; his mother was cured from a chronic condition during a pilgrimage to Lourdes, France. Priest in

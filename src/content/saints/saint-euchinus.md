@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Euchinus
+stub: true
 honorific: Saint
 title: Bishop
 summary: Bishop who evangelized the pagan Picts in Scotland.

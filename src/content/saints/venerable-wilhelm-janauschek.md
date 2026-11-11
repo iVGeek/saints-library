@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Venerable Wilhelm Janauschek
+stub: true
 honorific: Venerable
 summary: Remptorist priest.
 birthYear: 1859

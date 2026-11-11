@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Guinizo
+stub: false
 honorific: Saint
 summary: >-
   Benedictine monk at Monte Cassino. After the destruction of the abbey there, he spent the rest of his life as a hermit

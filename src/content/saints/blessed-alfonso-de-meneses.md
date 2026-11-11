@@ -1,5 +1,6 @@
 ---
 name: Blessed Alfonso de Meneses
+stub: false
 honorific: Blessed
 summary: >-
   Born to the nobility. Mercedarian friar at the convent of San Eulalia, Montpellier, France. Exceptionally pious, even

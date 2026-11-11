@@ -1,5 +1,6 @@
 ---
 name: Saint Abraham the Poor
+stub: false
 honorific: Saint
 summary: >-
   Disciple of Saint Pachomius of Tabenna for 23 years. Lived 17 years as a cave hermit. His nicknames the poor and the

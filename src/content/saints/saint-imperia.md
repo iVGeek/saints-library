@@ -1,5 +1,6 @@
 ---
 name: Saint Imperia
+stub: true
 honorific: Saint
 summary: Honoured in Mauprévoir, France, but no information about her has survived.
 region: France

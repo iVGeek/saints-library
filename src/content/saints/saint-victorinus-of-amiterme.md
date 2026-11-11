@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Victorinus of Amiterme
+stub: true
 honorific: Saint
 summary: Sixth-century bishop of Amiterme, Italy (outskirts of Rome). Martyr.
 died: hanged upside down near Rome, Italy; he lasted three days

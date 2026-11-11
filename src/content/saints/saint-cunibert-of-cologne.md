@@ -1,5 +1,6 @@
 ---
 name: Saint Cunibert of Cologne
+stub: false
 honorific: Saint
 summary: >-
   Born to the Frankish nobility. Archdeacon of Trier, Germany. Archbishop of Cologne, Germany in 627. Spiritual teacher

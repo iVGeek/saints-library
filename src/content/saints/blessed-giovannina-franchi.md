@@ -1,5 +1,6 @@
 ---
 name: Blessed Giovannina Franchi
+stub: false
 honorific: Blessed
 summary: >-
   Born to a wealthy family, she grew up wanting and working to help the poor. Nun in the diocese of Como, Italy. Founded

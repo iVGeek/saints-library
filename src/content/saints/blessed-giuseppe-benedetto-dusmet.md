@@ -1,5 +1,6 @@
 ---
 name: Blessed Giuseppe Benedetto Dusmet
+stub: false
 honorific: Blessed
 summary: >-
   Born to the Sicilian nobility, the son of Marquis Luigi Dusmet. Educated at the abbey of San Martino delle Scales when

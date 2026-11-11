@@ -1,5 +1,6 @@
 ---
 name: Saint Basilissa of Asia
+stub: true
 honorific: Saint
 summary: Married to a man named Felicius. Martyred, date unknown.
 feastDay:

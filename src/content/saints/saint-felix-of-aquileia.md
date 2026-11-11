@@ -1,5 +1,6 @@
 ---
 name: Saint Felix of Aquileia
+stub: true
 honorific: Saint
 summary: Layman in Aquileia, Italy. Martyred in the persecutions of Numerian.
 deathYear: 284

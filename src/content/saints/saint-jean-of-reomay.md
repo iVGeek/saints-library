@@ -1,5 +1,6 @@
 ---
 name: Saint Jean of Réomay
+stub: false
 honorific: Saint
 summary: >-
   Hermit at Réome, France. His reputation for holiness spread, and he began to attract would-be disciples. To escape

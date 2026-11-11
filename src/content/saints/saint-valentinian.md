@@ -1,5 +1,6 @@
 ---
 name: Saint Valentinian of Salerno
+stub: true
 honorific: Saint
 title: Bishop
 summary: Bishop of Salerno, Italy.

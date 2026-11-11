@@ -1,5 +1,6 @@
 ---
 name: Venerable Uberto Mori
+stub: false
 honorific: Venerable
 summary: >-
   Married layman and father in the archdiocese of Modena-Nonantola, Italy. Engineer, lecturer, and successful business

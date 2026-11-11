@@ -1,5 +1,6 @@
 ---
 name: Blessed Manuel Borràs Ferré
+stub: false
 honorific: Blessed
 summary: >-
   Priest, ordained on 19 September 1903. Notary of the Curia. Spiritual diretor of the seminary of Tarragona, Spain.

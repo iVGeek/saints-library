@@ -1,5 +1,6 @@
 ---
 name: Saint Magdalena Ho Kye-Im
+stub: false
 honorific: Venerable
 summary: Married lay woman in the apostolic vicariate of Korea. Imprisoned, tortured and martyred in the persecutions in Korea.
 image: https://catholicsaints.info/wp-content/uploads/img-Maryrs-of-Korea.jpg

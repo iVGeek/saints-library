@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Bertarius of Vallombrosa
+stub: false
 honorific: Blessed
 summary: >-
   Spiritual student of Saint Giovanni Gualbert, and one of the first Vallombrosan monks. In 1070 he was sent to

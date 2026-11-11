@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Dositheus of Gaza
+stub: false
 honorific: Saint
 summary: >-
   Born a rich pagan, Dositheus spent a wild and worldly youth. During a visit to Jerusalem he was so impressed by

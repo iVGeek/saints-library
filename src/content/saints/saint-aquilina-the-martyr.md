@@ -1,5 +1,6 @@
 ---
 name: Saint Aquilina the Martyr
+stub: false
 honorific: Saint
 summary: Sister of Saint Niceta. Third-century convert, brought to the faith by Saint Christopher. Martyr.
 region: Italy

@@ -1,5 +1,6 @@
 ---
 name: Venerable Ersilia Penelope Frey
+stub: false
 honorific: Venerable
 summary: >-
   Daughter of Luigi and Maria Giannotti. Cistercian nun, joining on 2 July 1858 and taking the name Maria Giuseppa

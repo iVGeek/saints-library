@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Victorinus of Corinth
+stub: false
 honorific: Saint
 summary: Arrested, tortured, and murdered with a group of fellow Christians during the persecutions of Valerian.
 born: Greek

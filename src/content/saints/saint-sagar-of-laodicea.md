@@ -1,5 +1,6 @@
 ---
 name: Saint Sagar of Laodicea
+stub: false
 image: https://commons.wikimedia.org/wiki/Special:FilePath/Aanand_sagar_Shegaon.jpg?width=600
 honorific: Saint
 summary: >-

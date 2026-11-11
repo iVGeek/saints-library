@@ -1,5 +1,6 @@
 ---
 name: Saint Joseph of Arimathea
+stub: false
 honorific: Saint
 summary: >-
   Wealthy Israelite owner of tin mines in Cornwall. May have been related to Jesus, and certainly was a disciple and

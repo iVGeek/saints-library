@@ -1,5 +1,6 @@
 ---
 name: Venerable Joaquim Roselló Ferrá
+stub: false
 honorific: Venerable
 summary: >-
   Priest in the diocese of Mallorca, Spain. Founded the Congregation of the Missionaries of the Sacred Hearts of Jesus

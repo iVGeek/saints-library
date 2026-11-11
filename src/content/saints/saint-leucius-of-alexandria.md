@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/b/b1/Sleuciusofbrindisi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Leucius of Alexandria
+stub: true
 honorific: Saint
 summary: Martyred for publicly proclaiming the faith. No other information has survived.
 deathYear: 309

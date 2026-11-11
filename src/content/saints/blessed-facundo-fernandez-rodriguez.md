@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/7/7b/Stemma_777venc.gif?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Facundo Fernández Rodríguez
+stub: true
 honorific: Blessed
 summary: Priest of the archdiocese of Granada, Spain. Martyred in the Spanish Civil War.
 birthYear: 1869

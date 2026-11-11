@@ -1,5 +1,6 @@
 ---
 name: Venerable Agostino Ernesto Castrillo
+stub: false
 honorific: Venerable
 summary: >-
   Third of eleven children in his family. In 1919, at the age of 15, he joined the Franciscan Friars Minor. Ordained a

@@ -1,5 +1,6 @@
 ---
 name: Blessed José María Corbin-Ferrer
+stub: false
 honorific: Blessed
 summary: >-
   Young layman in the archdiocese of Valencia, Spain. Brilliant university student, studying chemistry. Member of the

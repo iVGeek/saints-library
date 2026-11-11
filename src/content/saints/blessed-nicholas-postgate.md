@@ -1,5 +1,6 @@
 ---
 name: Blessed Nicholas Postgate
+stub: false
 honorific: Blessed
 summary: Priest for 50 years, serving covert Catholics in the apostolic vicariate of England. Martyr.
 birthYear: 1597

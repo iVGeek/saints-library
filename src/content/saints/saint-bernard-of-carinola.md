@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Bernard of Carinola
+stub: false
 honorific: Saint
 summary: >-
   Studied at Monte Cassino Abbey; spiritual student of the abbot who later became Pope Victor III; fellow student of

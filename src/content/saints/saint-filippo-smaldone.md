@@ -1,5 +1,6 @@
 ---
 name: Saint Filippo Smaldone
+stub: false
 honorific: Venerable
 summary: >-
   While in seminary he worked extensively with deaf-mutes in Naples, Italy. Ordained in 1871. While working with plague

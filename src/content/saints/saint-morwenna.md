@@ -1,5 +1,6 @@
 ---
 name: Saint Morwenna
+stub: false
 honorific: Saint
 summary: >-
   No details about her have survived. She is reported to have appeared in visions in Morwenstow, Cornwall, England where

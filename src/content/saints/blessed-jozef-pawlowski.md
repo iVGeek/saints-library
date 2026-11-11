@@ -1,5 +1,6 @@
 ---
 name: Blessed Józef Pawlowski
+stub: false
 honorific: Blessed
 summary: >-
   Priest in the diocese of Kielce, Poland, and rector of its seminary. Arrested by the Gestapo on 10 February 1941 and

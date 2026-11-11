@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/b/b9/All_saint.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Anicetus of Mytilene
+stub: true
 honorific: Saint
 summary: Martyred with several fellow Christians in the persecutions of Diocletian.
 deathYear: 300

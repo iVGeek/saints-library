@@ -1,5 +1,6 @@
 ---
 name: Blessed Andrea Gallerani
+stub: false
 honorific: Blessed
 summary: >-
   Born to the nobility, he was a distinguished soldier. Exiled for killing a blasphemer with his sword, Andrea devoted

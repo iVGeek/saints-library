@@ -1,5 +1,6 @@
 ---
 name: Blessed Maria Teresa Fasce
+stub: false
 honorific: Blessed
 summary: >-
   Taught catechetism to children. She grew to love Augustinian spirituality, and became acquainted with the human and

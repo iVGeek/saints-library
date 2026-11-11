@@ -1,5 +1,6 @@
 ---
 name: Blessed Pedro Ruiz Ortega
+stub: false
 honorific: Blessed
 summary: >-
   Professed cleric in the Sons of the Holy Family. Seminarian. When the persecutions of the Spanish Civil War began, he

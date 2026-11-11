@@ -1,5 +1,6 @@
 ---
 name: Blessed Paul-Hélène Saint Raymond
+stub: false
 honorific: Blessed
 summary: >-
   Eighth of ten children born into a pious family. Paul-Hélène studied engineering at the Sorbonne in Paris, France, but

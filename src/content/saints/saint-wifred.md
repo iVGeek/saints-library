@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Wifred
+stub: true
 honorific: Saint
 summary: Monk and then abbot of Saint Victor Abbey in Marseilles, France.
 deathYear: 1021

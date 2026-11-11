@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Severus of Avranches
+stub: false
 honorific: Saint
 summary: >-
   Born to a poor peasant family. Worked as a shepherd in his youth. Priest. Monk. Abbot. Bishop of Avranches, France. In

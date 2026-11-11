@@ -1,5 +1,6 @@
 ---
 name: Blessed Berengar of Assisi
+stub: false
 honorific: Blessed
 summary: >-
   Mercedarian preacher in the Spanish cities of Granada, Valencia and Murcia who was noted for his prison ministry.

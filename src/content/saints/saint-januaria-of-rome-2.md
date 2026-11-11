@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Januaria of Rome
+stub: false
 honorific: Saint
 summary: >-
   Three people of this name were part of a group of 226 Christians martyred in Rome, Italy, date unknown; no details of

@@ -1,5 +1,6 @@
 ---
 name: Saint Mirocles of Milan
+stub: false
 honorific: Saint
 summary: >-
   Archbishop of Milan, Italy. Writer. Attended the Council of Rome in 313. One of the originators of the Ambrosian

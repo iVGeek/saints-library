@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/4f/Frm_beatification_banner.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Jean-François Bonnel de Pradal
+stub: false
 honorific: Blessed
 summary: Canon Regular of the Congregation of France priest. One of the Martyrs of September.
 birthYear: 1738

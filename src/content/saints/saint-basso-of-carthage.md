@@ -1,5 +1,6 @@
 ---
 name: Saint Basso of Carthage
+stub: false
 honorific: Saint
 summary: Sentenced for his faith to hard labour in the stone quarries. Martyred in the persecutions of Decius.
 deathYear: 250

@@ -1,5 +1,6 @@
 ---
 name: Venerable Carlo Cavina
+stub: false
 honorific: Venerable
 summary: >-
   Raised in a pious family. Due to health problems, Carlo had trouble attending seminary, so he did most of his studies

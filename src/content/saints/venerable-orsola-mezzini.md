@@ -1,5 +1,6 @@
 ---
 name: Venerable Orsola Mezzini
+stub: false
 honorific: Venerable
 summary: >-
   Her mother died when Orsola was less than two years old, her father re-married, and the girl grew up in a house of

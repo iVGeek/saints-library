@@ -1,5 +1,6 @@
 ---
 name: Saint Alexius U Se-Yong
+stub: false
 honorific: Venerable
 summary: >-
   Young layman, born to the wealthy nobility in the apostolic vicariate of Korea. Having become interested in

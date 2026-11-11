@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Maximus of Cravagliana
+stub: true
 honorific: Saint
 summary: Martyr.
 searchAliases:

@@ -1,5 +1,6 @@
 ---
 name: Blessed Mary of Colonna
+stub: false
 honorific: Blessed
 summary: >-
   Blood sister of Blessed Clemenzia of the Holy Trinity and Blessed Mary of the Resurrection. Mercedarian nun at the

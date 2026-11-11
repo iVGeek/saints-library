@@ -1,5 +1,6 @@
 ---
 name: Saint Benedict of Cupra
+stub: false
 honorific: Saint
 summary: >-
   Soldier in the imperial Roman army, stationed at modern Cupra Marittima, Italy. Martyred in the persecutions of

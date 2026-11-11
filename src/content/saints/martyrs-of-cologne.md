@@ -1,5 +1,6 @@
 ---
 name: Martyrs of Cologne
+stub: false
 honorific: Saint
 summary: A group of 360 Christian soldiers martyred together in the persecutions of Diocletian and Maximian.
 deathYear: 303

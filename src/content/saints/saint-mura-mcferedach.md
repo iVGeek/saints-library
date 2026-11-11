@@ -1,5 +1,6 @@
 ---
 name: Saint Mura McFeredach
+stub: false
 honorific: Saint
 summary: >-
   Abbot of Fahan (Othan Mor), appointed by Saint Columba. Friend of King Hugh of Ireland. Spiritual teacher of Saint

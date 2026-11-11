@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Ptolemy of Rome
+stub: false
 honorific: Saint
 summary: >-
   Arrested and martyred in the persecutions of Antoninus Pius for the crime of teaching a woman about Christianity. His

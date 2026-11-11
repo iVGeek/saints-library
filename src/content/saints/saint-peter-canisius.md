@@ -1,5 +1,6 @@
 ---
 name: Saint Peter Canisius
+stub: false
 honorific: Saint
 title: St. Peter Canisius
 summary: >-

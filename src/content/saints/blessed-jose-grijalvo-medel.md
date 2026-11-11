@@ -1,5 +1,6 @@
 ---
 name: Blessed José Grijalvo Medel
+stub: true
 honorific: Blessed
 summary: Discalced Carmelite priest. Martyred in the Spanish Civil War.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Jose-Grijalvo-Medel.jpg

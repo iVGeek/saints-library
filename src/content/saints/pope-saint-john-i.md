@@ -1,5 +1,6 @@
 ---
 name: Pope Saint John I
+stub: false
 honorific: Saint
 summary: >-
   Priest in Rome. Elected 53rd pope in 523. Italy's ruler, Theodoric the Goth, was an Arian, and for a while he let

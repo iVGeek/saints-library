@@ -1,5 +1,6 @@
 ---
 name: Saint Calliope
+stub: true
 honorific: Saint
 summary: Third century martyr. No other information has survived.
 searchAliases:

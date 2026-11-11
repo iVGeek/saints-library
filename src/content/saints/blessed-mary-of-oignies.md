@@ -1,5 +1,6 @@
 ---
 name: Blessed Mary of Oignies
+stub: false
 honorific: Blessed
 summary: >-
   Born wealthy. From her early youth Mary felt called to the religious life, but she entered into an arranged marriage

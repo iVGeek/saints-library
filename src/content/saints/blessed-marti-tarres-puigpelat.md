@@ -1,5 +1,6 @@
 ---
 name: Blessed Martí Tarrés Puigpelat
+stub: false
 honorific: Blessed
 summary: >-
   Joined the Franciscan Capuchins on 21 November 1886 in Arenys de Mar, Spain, and made his solemn profession on 25

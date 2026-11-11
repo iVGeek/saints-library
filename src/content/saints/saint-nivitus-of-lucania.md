@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Nivitus of Lucania
+stub: true
 honorific: Saint
 summary: Martyr.
 died: Lucania (modern Basilicata), Italy, date unknown

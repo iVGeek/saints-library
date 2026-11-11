@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Daria of Constantinople
+stub: true
 honorific: Saint
 summary: Martyr.
 searchAliases:

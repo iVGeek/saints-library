@@ -1,5 +1,6 @@
 ---
 name: Blessed Esperanza de Jesus
+stub: false
 honorific: Blessed
 summary: >-
   Eldest of nine children born to a peasant family. Around the age of 12, possibly due to an apparition of Saint Teresa

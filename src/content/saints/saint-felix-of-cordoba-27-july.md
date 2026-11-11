@@ -1,5 +1,6 @@
 ---
 name: Saint Felix of Cordoba
+stub: false
 honorific: Saint
 summary: >-
   Layman Christian in Moorish-occupied Spain. Married to Saint Lillian of Cordoba. Martyred in the persecutions of

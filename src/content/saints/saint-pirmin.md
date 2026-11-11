@@ -1,5 +1,6 @@
 ---
 name: Saint Pirmin
+stub: false
 honorific: Saint
 summary: >-
   Possibly of Visigoth ancestry. Monk, following a mixed rule with strong influences from Irish monasticism. When the

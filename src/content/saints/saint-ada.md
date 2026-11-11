@@ -1,5 +1,6 @@
 ---
 name: Saint Ada of Le Mans
+stub: false
 honorific: Saint
 summary: >-
   Niece of Saint Engelbert; Ada's whole family was known for its piety. Nun at Soissons, France. Abbess at Saint

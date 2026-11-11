@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Rufus of Metz
+stub: true
 honorific: Saint
 summary: 4th century bishop of Metz, France, serving for 29 years.
 searchAliases:

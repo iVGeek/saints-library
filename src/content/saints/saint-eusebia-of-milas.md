@@ -1,5 +1,6 @@
 ---
 name: Saint Eusebia of Milas
+stub: false
 honorific: Saint
 summary: >-
   Feeling a call to religious life, Eusebia declined several marriage proposals and finally moved to Milas, Caria in

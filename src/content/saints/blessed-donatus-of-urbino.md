@@ -1,5 +1,6 @@
 ---
 name: Blessed Donatus of Urbino
+stub: false
 honorific: Blessed
 summary: >-
   Born to a wealthy and socially prominent family, the son of a lawyer. Studied at the University of Padua. Physician.

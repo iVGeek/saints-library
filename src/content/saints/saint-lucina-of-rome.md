@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/6/65/%27Saint_Sebastian_Tended_by_Irene%27%2C_attributed_to_Georges_de_La_Tour%2C_early_1630s%2C_oil_on_canvas%2C_Kimbell_Art_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 name: Saint Lucina of Rome
+stub: false
 honorific: Saint
 summary: >-
   Imperial Roman matron in the reign of emperor Nero. Convert, brought to the faith by the work of the Apostles in Rome.

@@ -1,5 +1,6 @@
 ---
 name: Blessed José Vergara Echevarria
+stub: false
 honorific: Blessed
 summary: >-
   Member of the Missionaries of the Sacred Heart. Ordained a priest in 1934. Trained and taught new members of the

@@ -1,5 +1,6 @@
 ---
 name: Blessed Antoni Lladós Salud
+stub: false
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Taller_sobre_edici%C3%B3n_de_contenido_cient%C3%ADfico_en_Wikipedia.pdf/page1-960px-Taller_sobre_edici%C3%B3n_de_contenido_cient%C3%ADfico_en_Wikipedia.pdf.jpg
 honorific: Blessed

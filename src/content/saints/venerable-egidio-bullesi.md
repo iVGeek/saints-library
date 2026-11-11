@@ -1,5 +1,6 @@
 ---
 name: Venerable Egidio Bullesi
+stub: false
 honorific: Venerable
 summary: >-
   Born to a poor family, the third of nine brothers. His family was imprisoned and starved during World War I. After the

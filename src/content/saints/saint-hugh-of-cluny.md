@@ -1,5 +1,6 @@
 ---
 name: Saint Hugh of Cluny
+stub: false
 honorific: Saint
 summary: >-
   Born to the Burgundian nobility. Eldest son of Count Dalmatius of Semur and Aremberge of Vergy. His father wanted him

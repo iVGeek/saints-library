@@ -1,5 +1,6 @@
 ---
 name: Blessed Dalmacio Bellota Pérez
+stub: false
 honorific: Blessed
 summary: >-
   Began the Lasallian novitiate in Bujedo, Spain on 2 February 1925, taking the name Carlos Jorge. Taught at Nuestra

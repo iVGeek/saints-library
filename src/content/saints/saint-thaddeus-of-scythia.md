@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Thaddeus of Scythia
+stub: false
 honorific: Saint
 summary: >-
   Ninth-century Scythian slave. Relative of Saint Theodore Studites. Freed from slavery, Thaddeus became a monk. His

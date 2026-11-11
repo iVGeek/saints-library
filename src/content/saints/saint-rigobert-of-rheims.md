@@ -1,5 +1,6 @@
 ---
 name: Saint Rigobert of Rheims
+stub: false
 honorific: Saint
 summary: >-
   Benedictine monk. Abbot of Orbais. Archbishop of Rheims, France. Persecuted and exiled by Charles Martel. While he was

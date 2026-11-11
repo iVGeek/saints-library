@@ -1,5 +1,6 @@
 ---
 name: Saint Erminold of Prüfening
+stub: false
 honorific: Saint
 summary: >-
   Consecrated to God as a small child at the abbey of Hirschau, Germany. Educated by and professed as a Benedictine monk

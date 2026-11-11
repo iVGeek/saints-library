@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Donatus of Lucania
+stub: true
 honorific: Saint
 summary: Martyred by Saracens.
 died: Lucania region of southern Italy, date unknown

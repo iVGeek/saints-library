@@ -1,5 +1,6 @@
 ---
 name: Saint Xantippa
+stub: true
 honorific: Saint
 summary: Spiritual student of the Apostles.
 image: https://catholicsaints.info/wp-content/uploads/img-Saints-Xanthippe-and-Polyxene.jpg

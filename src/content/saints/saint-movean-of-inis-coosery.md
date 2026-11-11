@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Movean of Inis-Coosery
+stub: false
 honorific: Saint
 summary: >-
   Spiritual student of Saint Patrick. Monk. Abbot of Inis-Coosery in County Down, Ireland. Retired to live as a

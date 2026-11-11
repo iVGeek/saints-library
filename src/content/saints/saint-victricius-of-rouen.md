@@ -1,5 +1,6 @@
 ---
 name: Saint Victricius of Rouen
+stub: false
 honorific: Saint
 summary: >-
   Officer in the army of emperor Julian the Apostate in the mid-4th century who retired when he decided that military

@@ -1,5 +1,6 @@
 ---
 name: Blessed Roman Lysko
+stub: false
 honorific: Blessed
 summary: >-
   Greek Catholic. Graduated from the Lviv Theological Academy. Married. Ordained on 28 August 1941. Pastor of the

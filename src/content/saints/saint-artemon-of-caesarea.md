@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Artemón of Caesarea
+stub: false
 honorific: Saint
 summary: >-
   Elderly Christian man who was ordered to sacrifice to Roman gods. When Artemón refused, he was dragged to the temple

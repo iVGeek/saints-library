@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/4a/Cappella_palluzzi-albertoni_di_giacomo_mola_%281622-25%29%2C_con_beata_ludovica_alberoni_di_bernini_%281671-75%29_e_pala_del_baciccio_%28s._anna_e_la_vergine%29_05.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Giovanni Orsini
+stub: false
 honorific: Blessed
 summary: >-
   Born to the Italian nobility; his was a pious family and several of his brothers became monks. Canon lawyer. Canon of

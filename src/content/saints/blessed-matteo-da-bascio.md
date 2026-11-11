@@ -1,5 +1,6 @@
 ---
 name: Blessed Matteo da Bascio
+stub: false
 honorific: Blessed
 title: Priest
 summary: >-

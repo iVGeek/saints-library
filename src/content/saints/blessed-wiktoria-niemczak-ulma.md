@@ -1,5 +1,6 @@
 ---
 name: Blessed Wiktoria Niemczak Ulma
+stub: false
 honorific: Blessed
 summary: >-
   Lay woman in the archdiocese of Przemysl, Poland. She married to Blessed Józef Ulma on 7 July 1935 and became

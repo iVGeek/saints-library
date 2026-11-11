@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Tertulla of the Via Aurelia
+stub: true
 honorific: Saint
 summary: Martyr.
 died: 69 on the Via Aurelia near Rome, Italy

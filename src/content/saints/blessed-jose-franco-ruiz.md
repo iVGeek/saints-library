@@ -1,5 +1,6 @@
 ---
 name: Blessed José Franco Ruiz
+stub: false
 honorific: Blessed
 summary: >-
   The eldest of 14 brothers, José was baptized at the age of one day and confirmed on 18 September 1910. He joined the

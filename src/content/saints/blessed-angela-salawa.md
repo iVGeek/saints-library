@@ -1,5 +1,6 @@
 ---
 name: Blessed Angela Salawa
+stub: false
 honorific: Blessed
 summary: >-
   Daughter of Salaw Bartlomiej and Ewa Bochenek, the youngest of ten children in a pious tradesman's family. She

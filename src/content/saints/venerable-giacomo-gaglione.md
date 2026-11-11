@@ -1,5 +1,6 @@
 ---
 name: Venerable Giacomo Gaglione
+stub: false
 honorific: Venerable
 summary: >-
   Lifelong lay man in the diocese of Caserta, Italy. Member of the Secular Franciscans. Founder of the Association of

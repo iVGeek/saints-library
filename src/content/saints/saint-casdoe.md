@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Casdoe
+stub: false
 honorific: Saint
 summary: >-
   Persian noble woman. Married to Saint Dadas. Martyred with him and Saint Gabdelas, who may have been their son, for

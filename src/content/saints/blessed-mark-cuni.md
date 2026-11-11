@@ -1,5 +1,6 @@
 ---
 name: Blessed Mark Çuni
+stub: false
 honorific: Blessed
 summary: >-
   Mark was a 3rd year seminarian at the Albanian Pontifical Seminary in the archdiocese of Shkodër-Pult, Albania. For

@@ -1,6 +1,7 @@
 ---
 image: https://upload.wikimedia.org/wikipedia/commons/San%20Zeno%20Naviglio%20Parrocchia.jpg
 name: Saint Zeno
+stub: false
 honorific: Saint
 summary: >-
   There is an old Eastern tradition that he converted after watching the martyrdom of Saint George, but all we know for

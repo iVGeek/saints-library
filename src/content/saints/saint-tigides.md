@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Tigides of Gap
+stub: true
 honorific: Saint
 summary: Sixth century bishop of Gap, France.
 searchAliases:

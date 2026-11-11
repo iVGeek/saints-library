@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Timothy of Tiberiopolis
+stub: false
 honorific: Saint
 summary: Bishop. Martyred in the persecutions of Julian the Apostate. No other information has survived.
 deathYear: 361

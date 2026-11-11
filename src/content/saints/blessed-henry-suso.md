@@ -1,5 +1,6 @@
 ---
 name: Blessed Henry Suso
+stub: false
 honorific: Blessed
 summary: >-
   Born to the German nobility. Joined the Dominicans at age 13. Known as a mystic. Served as prior at several houses.

@@ -1,5 +1,6 @@
 ---
 name: Saint Leo of Catania
+stub: false
 honorific: Saint
 summary: >-
   Learned priest in Ravenna, Italy, and then in Reggio Calabria, Italy. Bishop of Catania, Italy; legend says that an

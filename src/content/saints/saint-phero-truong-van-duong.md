@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Phêrô Truong Van Ðuong
+stub: false
 honorific: Venerable
 summary: Lifelong layman in the apostolic vicariate of West Tonkin. Catechist. One of the Martyrs of Vietnam.
 searchAliases:

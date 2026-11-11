@@ -1,5 +1,6 @@
 ---
 name: Blessed Batilani Marsalio
+stub: false
 honorific: Blessed
 summary: >-
   Mercedarian lay brother. He was one of twenty Mercedarians who, when an unspecified plague struck Palermo, Italy,

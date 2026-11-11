@@ -1,5 +1,6 @@
 ---
 name: Saint Emiliana of Rome
+stub: false
 honorific: Saint
 summary: >-
   Daughter of the senator Gordian and Saint Silvia of Rome. Sister of Saint Trasilla. Paternal aunt of Pope Saint

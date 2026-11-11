@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Theodoric of Saint Evroult
+stub: false
 honorific: Blessed
 summary: >-
   Educated by his uncle and godfather, Abbot Theodoric of Jumièges Abbey, the younger Theodoric became a Benedictine

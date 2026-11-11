@@ -1,5 +1,6 @@
 ---
 name: Saint Cumiano of Bobbio
+stub: false
 honorific: Saint
 summary: >-
   Monk at the monastery of San Colombano in Bobbio, Italy. He was known for his personal piety, as a peacemaker, and for

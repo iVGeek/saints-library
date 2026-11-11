@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Philip Berruyer
+stub: true
 honorific: Saint
 title: Bishop
 summary: Nephew of Saint William of Bourges. Archbishop of Bourges, France.

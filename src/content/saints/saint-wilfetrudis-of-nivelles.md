@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Wilfetrudis of Nivelles
+stub: true
 honorific: Saint
 summary: Niece of Saint Gertrude of Nivelles. Abbess of the abbey in Nivelles, Belgium.
 deathYear: 670

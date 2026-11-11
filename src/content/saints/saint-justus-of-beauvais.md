@@ -1,5 +1,6 @@
 ---
 name: Saint Justus of Beauvais
+stub: false
 honorific: Saint
 summary: >-
   During a trip with his father to Amiens, France to ransom or rescue an imprisoned relative during the persecutions of

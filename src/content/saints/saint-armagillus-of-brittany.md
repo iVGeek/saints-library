@@ -1,5 +1,6 @@
 ---
 name: Saint Armagillus of Brittany
+stub: false
 honorific: Saint
 summary: >-
   Cousin of Saint Samson of York and Saint Cadfan. Monk. Abbot. Founded Saint-Armel-des-Boscheaux and Plou-Ermel

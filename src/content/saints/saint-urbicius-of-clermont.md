@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Urbicius of Clermont
+stub: false
 honorific: Saint
 summary: >-
   Born a member of an imperial Roman senatorial family, Urbicius was drawn to the Church and lived a pious married life.

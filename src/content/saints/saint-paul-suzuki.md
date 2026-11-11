@@ -1,5 +1,6 @@
 ---
 name: Saint Paul Suzuki
+stub: false
 honorific: Saint
 summary: >-
   Convert, baptized by the Jesuits in 1584. Franciscan tertiary. Catechist. In charge of Saint Joseph's hospital in

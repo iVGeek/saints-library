@@ -1,5 +1,6 @@
 ---
 name: Saint Euphebius of Naples
+stub: true
 honorific: Saint
 summary: 4th century bishop of Naples, Italy.
 searchAliases:

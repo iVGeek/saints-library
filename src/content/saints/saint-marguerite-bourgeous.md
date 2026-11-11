@@ -1,5 +1,6 @@
 ---
 name: Saint Marguerite Bourgeous
+stub: false
 honorific: Venerable
 summary: >-
   The sixth of twelve children of devout parents. When Marguerite was 19 her mother died, and the young lady cared for

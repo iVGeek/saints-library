@@ -1,5 +1,6 @@
 ---
 name: Saint Nonnosus of Monte Soratte
+stub: false
 honorific: Saint
 summary: >-
   Benedictine monk, then prior at the San Silvestre monastery on Monte Soratte north of Rome, Italy. Known to have

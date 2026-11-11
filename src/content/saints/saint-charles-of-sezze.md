@@ -1,5 +1,6 @@
 ---
 name: Saint Charles of Sezze
+stub: false
 honorific: Venerable
 summary: >-
   Born to a poor but pious rural family, he worked as a shepherd as a child. His family encouraged his vocation to the

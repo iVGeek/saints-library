@@ -1,5 +1,6 @@
 ---
 name: Saint Caomhán of Inisheer
+stub: false
 honorific: Saint
 summary: May have been related to Saint Kevin of Glendalough. Spiritual student of Saint Enda of Aran.
 born: Ireland

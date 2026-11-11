@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Ammonaria of Alexandria
+stub: true
 honorific: Saint
 summary: Two young women with the same name martyred in the persecutions of Decius.
 searchAliases:

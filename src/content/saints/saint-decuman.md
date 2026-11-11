@@ -1,5 +1,6 @@
 ---
 name: Saint Decuman
+stub: false
 honorific: Saint
 summary: Hermit in Somerset, England in an area that is now named Saint Decumans in his honour. Martyr.
 searchAliases:

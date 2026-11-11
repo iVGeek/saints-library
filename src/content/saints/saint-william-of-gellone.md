@@ -1,5 +1,6 @@
 ---
 name: Saint William of Gellone
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility, the son of Aldana and Count Thierry of Toulouse. Career soldier. Member of the court of Blessed

@@ -1,5 +1,6 @@
 ---
 name: Blessed Thomas Ochia Jihyoe
+stub: false
 honorific: Blessed
 summary: >-
   Born to a Christian family, his parents were both catechists, and both died as martyrs. Thomas attended a Jesuit

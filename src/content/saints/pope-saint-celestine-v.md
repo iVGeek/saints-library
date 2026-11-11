@@ -1,5 +1,6 @@
 ---
 name: Pope Saint Celestine V
+stub: false
 honorific: Saint
 summary: ' At 20 Peter became a hermit, praying, working, and reading the Bible. He followe Eleventh of twelve children. His father died when Peter was quite young. When his mother would ask, “Which one of you is going to become a saint?” Peter would answer “Me, Mama! I''ll become a saint!”.'
 image: https://commons.wikimedia.org/wiki/Special:FilePath/Celestine_V_Castel_Nuovo_Napoli_n02.jpg?width=600

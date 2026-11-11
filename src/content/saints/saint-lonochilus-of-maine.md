@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Lonochilus of Maine
+stub: false
 honorific: Saint
 title: Priest
 summary: Priest. Founded a monastery in Maine, France. Spiritual teacher of Saint Agnofleda of Maine.

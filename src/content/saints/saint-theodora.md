@@ -1,5 +1,6 @@
 ---
 name: Saint Theodora
+stub: false
 honorific: Saint
 summary: >-
   Wealthy member of the imperial Roman nobility who spent largely from her fortune to support fellow Christians during

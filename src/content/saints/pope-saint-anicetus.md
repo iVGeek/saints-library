@@ -1,5 +1,6 @@
 ---
 name: Pope Saint Anicetus
+stub: false
 honorific: Saint
 summary: >-
   Son of John. Little is known of his life before his election as 11th Pope. Met with Saint Polycarp of Smyrna and

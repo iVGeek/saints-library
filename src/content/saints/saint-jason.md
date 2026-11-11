@@ -1,5 +1,6 @@
 ---
 name: Saint Jason of Tarsus
+stub: false
 honorific: Saint
 summary: >-
   Acts 17:5-9 says that Saint Paul the Apostle stayed at Jason's home in Thessalonica, and he is mentioned in Romans

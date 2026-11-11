@@ -1,5 +1,6 @@
 ---
 name: Eve the Matriarch
+stub: true
 honorific: Saint
 title: Priest
 summary: First woman. Married to Adam. Mother of Cain, Abel and Seth.

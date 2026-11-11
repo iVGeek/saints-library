@@ -1,5 +1,6 @@
 ---
 name: Saint Athanasius of Nicomedia
+stub: false
 honorific: Saint
 summary: >-
   Born wealthy but preferred the life of a poor hermit. Monk and then abbot at the monastery of Saints Peter and Paul

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Gundebert of Sens
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Sens, France. Around 660 he retired from the office, lived as a hermit in the Vosges region of France, and

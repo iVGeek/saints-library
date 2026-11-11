@@ -1,5 +1,6 @@
 ---
 name: Scholastica of Nursia
+stub: false
 honorific: Saint
 title: Virgin
 summary: >-

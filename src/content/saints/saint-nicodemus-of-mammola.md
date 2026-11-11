@@ -1,5 +1,6 @@
 ---
 name: Saint Nicodemus of Mammola
+stub: false
 honorific: Saint
 summary: >-
   Son of Theophanes and Pandia. Educated by a local priest, Father Galatone, known for his learning and piety. Even as a

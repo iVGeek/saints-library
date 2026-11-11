@@ -1,5 +1,6 @@
 ---
 name: Venerable Domenico Petruccelli
+stub: false
 honorific: Venerable
 summary: >-
   Born to a peasant family, the son of Salvatore Petruccelli and Brigida Mastrovita, Domenico helped work the fields in

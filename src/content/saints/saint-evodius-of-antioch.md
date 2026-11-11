@@ -1,5 +1,6 @@
 ---
 name: Saint Evodius of Antioch
+stub: false
 honorific: Saint
 summary: >-
   Traditionally one of the 72 disciples commissioned by Jesus. Priest. Bishop of Antioch, probably ordained by Saint

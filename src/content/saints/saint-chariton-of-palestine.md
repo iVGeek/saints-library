@@ -1,5 +1,6 @@
 ---
 name: Saint Chariton of Palestine
+stub: false
 honorific: Saint
 summary: >-
   Hermit in the Kidron Valley near Jericho. His reputation for holiness atrracted so many would-be spiritual students

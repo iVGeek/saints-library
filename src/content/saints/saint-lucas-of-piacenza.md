@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Lucas of Piacenza
+stub: true
 honorific: Saint
 summary: Monk at the San Sabinus monastery in Piacenza, Italy.
 region: Italy

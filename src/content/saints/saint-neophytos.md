@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/3/32/Chypre_Agios_Neofytos_Monastere_Troglodyte_-_panoramio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Neophytos
+stub: false
 honorific: Saint
 summary: >-
   One of a group of nine young women who were seized, ordered to renounce Christianity, offered bribes to do it, and

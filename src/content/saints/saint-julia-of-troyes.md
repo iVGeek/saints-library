@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Julia of Troyes
+stub: false
 honorific: Saint
 summary: >-
   Captured as a spoil of war by the forces of Roman emperor Aurelian following his victory over Tetricus. Given as a

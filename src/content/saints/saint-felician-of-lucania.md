@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Felician of Lucania
+stub: true
 honorific: Saint
 summary: Martyr.
 died: at Lucania, Italy

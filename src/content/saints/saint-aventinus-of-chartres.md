@@ -1,5 +1,6 @@
 ---
 name: Saint Aventinus of Chartres
+stub: false
 honorific: Saint
 summary: >-
   Born to the French nobility. Brother of Saint Solemnis of Chartres. Bishop of Chateaudun, France. Bishop of Chartres,

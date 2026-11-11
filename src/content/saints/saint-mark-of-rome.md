@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/d/db/Pope_Mark.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 name: Saint Mark of Rome
+stub: false
 honorific: Saint
 summary: One of a group of 50 soldiers martyred together in the persecutions of Claudius II.
 deathYear: 269

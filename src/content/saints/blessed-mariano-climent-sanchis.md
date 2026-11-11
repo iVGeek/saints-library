@@ -1,5 +1,6 @@
 ---
 name: Blessed Mariano Climent Sanchis
+stub: false
 honorific: Blessed
 summary: >-
   The son of Mariano Climent and Mariana Sanchís, Mariano was orphaned very young and was raised by his maternal aunt,

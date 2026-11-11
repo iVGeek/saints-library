@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Tarcisio Moreno Redondo
+stub: false
 honorific: Blessed
 summary: >-
   Priest of the diocese of Córdoba, Spain, serving as an assistant pastor in the Villanueva community. Martyred in the

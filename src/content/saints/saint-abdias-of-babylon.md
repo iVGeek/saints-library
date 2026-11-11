@@ -1,5 +1,6 @@
 ---
 name: Saint Abdias of Babylon
+stub: false
 honorific: Saint
 title: Bishop
 summary: >-

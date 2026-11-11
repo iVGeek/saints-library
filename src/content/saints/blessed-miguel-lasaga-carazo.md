@@ -1,5 +1,6 @@
 ---
 name: Blessed Miguel Lasaga Carazo
+stub: false
 honorific: Blessed
 summary: >-
   Baptized at the age of one day, Miguel joined the Salesians of Don Bosco in his late teens, making his solemn

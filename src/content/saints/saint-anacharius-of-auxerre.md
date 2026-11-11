@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Anacharius of Auxerre
+stub: false
 honorific: Saint
 summary: >-
   Born to the 6th-century nobility. Educated at the court of King Guntram of Burgundy. Spiritual student of Saint

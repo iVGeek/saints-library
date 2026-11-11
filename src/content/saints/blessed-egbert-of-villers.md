@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/2/23/Brouwerij_van_de_Abdij_van_Villers_Abbaye_de_Villers._La_Brasserie_%28titel_op_object%29%2C_RP-F-2001-7-1287-21.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 name: Blessed Egbert of Villers
+stub: false
 honorific: Blessed
 summary: >-
   Convert. Cistercian monk at the Villers abbey in Wallonia, Belgium where he worked as a baker. Known for his piety and

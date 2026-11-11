@@ -1,5 +1,6 @@
 ---
 name: Saint Felix of Rhuys
+stub: false
 honorific: Saint
 summary: >-
   Born to a wealthy family, Felix withdrew from the world to live as a hermit on Ouessant Island, France. Benedictine

@@ -1,5 +1,6 @@
 ---
 name: Blessed Gonzalo Diaz di Amarante
+stub: false
 honorific: Blessed
 title: Virgin
 summary: >-

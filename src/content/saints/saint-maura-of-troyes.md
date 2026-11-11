@@ -1,5 +1,6 @@
 ---
 name: Saint Maura of Troyes
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility. A pious child, her prayers caused her the conversion of her father who had lived a dissolute

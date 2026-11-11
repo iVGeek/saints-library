@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Sarra of Egypt
+stub: false
 honorific: Saint
 summary: Fifth-century desert hermitess in Egypt known for her piety, discipline and extremely ascetic life.
 region: Egypt

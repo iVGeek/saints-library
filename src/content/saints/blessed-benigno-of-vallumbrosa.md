@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Benigno of Vallumbrosa
+stub: false
 honorific: Blessed
 summary: >-
   May have been related to Saint John Gualbert. Young priest probably ordained in the region of Florence, Italy. He

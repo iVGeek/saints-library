@@ -1,5 +1,6 @@
 ---
 name: Saint Bernadine Realino
+stub: false
 honorific: Saint
 summary: >-
   Born to the Italian nobility. Studied law and medicine at Bologna, Italy, receiving a law degree in 1556. Mayor of

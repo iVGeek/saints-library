@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Helimenas of Persia
+stub: true
 honorific: Saint
 summary: Priest martyred in Persia.
 feastDay:

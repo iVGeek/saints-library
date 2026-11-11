@@ -1,6 +1,7 @@
 ---
 image: https://www.catholic.org/files/images/saints/3699.jpg
 name: Saint Hatebrand
+stub: false
 honorific: Saint
 summary: >-
   Benedictine monk at Saint Paul's abbey in Utrecht, Netherlands. Abbot of Olden-Klooster, Frisia (in modern

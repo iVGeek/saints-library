@@ -1,5 +1,6 @@
 ---
 name: Blessed Miguel Agustin Pro
+stub: false
 honorific: Blessed
 summary: >-
   Son of a mining engineer. From childhood he was known for high spirits and cheerfulness, and he grew up in a pious

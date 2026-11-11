@@ -1,5 +1,6 @@
 ---
 name: Saint Brecan of Ara
+stub: true
 honorific: Saint
 summary: Bishop.
 region: Ireland

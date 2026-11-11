@@ -1,5 +1,6 @@
 ---
 name: Saint Elzear of Ariano
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility. Nephew of William of Sabron, abbot of Saint Victor's abbey, Marseilles, France, where Elzear was

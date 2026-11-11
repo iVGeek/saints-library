@@ -1,5 +1,6 @@
 ---
 name: Saint Aileran of Clonard
+stub: false
 honorific: Saint
 summary: >-
   Monk and teacher at the monastery of Clonard, Ireland. Rector in 650. Noted scholar and master of Greek and Latin.

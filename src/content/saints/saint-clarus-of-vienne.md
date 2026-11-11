@@ -1,5 +1,6 @@
 ---
 name: Saint Clarus of Vienne
+stub: false
 honorific: Saint
 summary: >-
   Benedictine monk at the abbey of Saint Ferreol. Abbot of Saint Marcellus in Vienne, Dauphine (in modern France). Noted

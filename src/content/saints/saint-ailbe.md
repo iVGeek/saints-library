@@ -1,5 +1,6 @@
 ---
 name: Saint Ailbe of Emly
+stub: false
 honorific: Saint
 summary: >-
   Disciple of Saint Patrick. Effective evangelist throughout Ireland with the support of King Aengus of Munster. Noted

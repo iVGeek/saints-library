@@ -1,5 +1,6 @@
 ---
 name: Venerable Cesare Maria Barzaghi
+stub: false
 honorific: Venerable
 summary: >-
   Priest in the Congregation of Clerics Regular of Saint Paul (Barnabites) Noted scholar and evangelist in Lodi, Italy.

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Spinulus
+stub: false
 honorific: Saint
 summary: >-
   Monk at Moyenmoutier, France. Friend of Saint Hidulf. Founded the monastery of Bégon-Celle (now known as

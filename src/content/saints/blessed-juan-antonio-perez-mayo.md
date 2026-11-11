@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/0/08/Roma_martires_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Juan Antonio Pérez Mayo
+stub: false
 honorific: Blessed
 summary: >-
   One of seven children born to Modesto Pérez and Beatriz Mayo; his was a pious family, and Juan was baptized on 23

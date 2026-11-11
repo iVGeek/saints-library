@@ -1,5 +1,6 @@
 ---
 name: Blessed Richard Whiting
+stub: false
 honorific: Blessed
 summary: >-
   Benedictine monk at Glastonbury Abbey. Educated at Cambridge. Ordained in 1501. Abbot of Glastonbury in 1525. Leader

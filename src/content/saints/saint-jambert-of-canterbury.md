@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Jambert of Canterbury
+stub: false
 honorific: Saint
 title: Bishop
 summary: Abbot of Saint Augustine's monastery, Canterbury, England. Archbishop of Canterbury, England in 765.

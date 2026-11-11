@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/3/36/Antoninus_of_Sorrento_statue.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Antoninus of Campania
+stub: false
 honorific: Saint
 summary: >-
   One of a group of 23 Christians arrested, tortured and then beheaded together in the later 3rd century by order of

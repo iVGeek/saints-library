@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Peter of Melitene
+stub: true
 honorific: Saint
 summary: Deacon. Martyr.
 died: Melitene, Armenia

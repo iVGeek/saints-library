@@ -1,5 +1,6 @@
 ---
 name: Saint Aelred of Rievaulx
+stub: false
 honorific: Saint
 summary: >-
   Son of Eilaf, a priest during a period when English priests were allowed to marry, and keeper of the shrine of Hexham.

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Phêrô Truong Van Thi
+stub: false
 honorific: Venerable
 summary: >-
   Priest in the apostolic vicariate of West Tonkin. He worked in the missions with the priests of the Foreign Mission

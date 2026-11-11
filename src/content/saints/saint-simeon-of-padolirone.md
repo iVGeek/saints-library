@@ -1,5 +1,6 @@
 ---
 name: Saint Simeon of Padolirone
+stub: false
 honorific: Saint
 summary: >-
   Hermit. Pilgrim to Jerusalem, to Rome, Italy, to Compostella, Spain, and to Tours, France. Miracle worker. Monk at

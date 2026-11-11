@@ -1,5 +1,6 @@
 ---
 name: Saint Symmachus of Capua
+stub: false
 honorific: Saint
 title: Bishop
 summary: >-

@@ -1,5 +1,6 @@
 ---
 name: Saint Guillermo Courtet
+stub: false
 honorific: Venerable
 summary: Dominican priest. Missionary to Japan. Arrested for his faith in Okinawa, and martyred soon after.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Lorenzo-Ruiz-and-Companions.jpg

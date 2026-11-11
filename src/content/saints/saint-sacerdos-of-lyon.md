@@ -1,5 +1,6 @@
 ---
 name: Saint Sacerdos of Lyon
+stub: false
 honorific: Saint
 summary: >-
   Son of Saint Rusticus of Lyon and Hiberie de Limoges; nephew of Saint Viventiolus of Lyon; uncle of Saint Nicetius of

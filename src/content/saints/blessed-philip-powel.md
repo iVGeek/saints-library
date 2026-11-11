@@ -1,5 +1,6 @@
 ---
 name: Blessed Philip Powel
+stub: false
 honorific: Blessed
 summary: >-
   Son of Roger and Catherine Powel. Studied law in London, England. Seminarian in Douai, France. Joined the Benedictines

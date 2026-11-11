@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Candida of Bañoles
+stub: false
 honorific: Saint
 summary: Mother of Saint Emerius of Bañoles. Lived as a anchoress near Saint Stephen of Bañoles Abbey, Garona, Spain.
 deathYear: 798

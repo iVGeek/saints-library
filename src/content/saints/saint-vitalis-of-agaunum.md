@@ -1,5 +1,6 @@
 ---
 name: Saint Vitalis of Agaunum
+stub: false
 honorific: Saint
 summary: >-
   Soldier and member of the Martyrs of the Theban Legion. Martyr. Having the initial massacre of the Legino, he stayed

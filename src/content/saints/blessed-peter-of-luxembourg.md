@@ -1,5 +1,6 @@
 ---
 name: Blessed Peter of Luxembourg
+stub: false
 honorific: Blessed
 summary: >-
   Son of Guy of Luxembourg, count of Ligny, Belgium. Orphaned at age four. Raised in Paris, France. Canon at Notre Dame,

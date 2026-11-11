@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Mucius the Lector
+stub: false
 honorific: Saint
 summary: Lector for bishop Saint Silvanus of Emesa, Phoenicia. Martyred with Silvanus during the persecutions of Maximian.
 deathYear: 311

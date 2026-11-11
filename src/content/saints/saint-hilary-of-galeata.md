@@ -1,5 +1,6 @@
 ---
 name: Saint Hilary of Galeata
+stub: false
 honorific: Saint
 title: Hermit
 summary: >-

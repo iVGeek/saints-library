@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Servan of Culross
+stub: true
 honorific: Saint
 summary: Bishop, possibly being consecrated by Saint Palladius. Missionary to the Scots.
 searchAliases:

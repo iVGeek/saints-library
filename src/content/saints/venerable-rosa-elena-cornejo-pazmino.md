@@ -1,5 +1,6 @@
 ---
 name: Venerable Rosa Elena Cornejo Pazmiño
+stub: false
 honorific: Venerable
 summary: >-
   Nun in the diocese of Quito, Ecuador, taking the name María Francisca of the Wounds. Founded the Congregation of the

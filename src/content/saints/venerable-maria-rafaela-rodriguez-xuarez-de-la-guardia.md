@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Venerable María Rafaela Rodríguez Xuarez de la Guardia
+stub: true
 honorific: Venerable
 summary: Nun. Member of the Congregation of Sisters of the Divine Love.
 searchAliases:

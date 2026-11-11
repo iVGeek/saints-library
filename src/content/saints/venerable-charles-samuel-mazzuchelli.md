@@ -1,5 +1,6 @@
 ---
 name: Venerable Charles Samuel Mazzuchelli
+stub: false
 honorific: Venerable
 summary: >-
   Dominican missionary priest to the United States and the Native American tribes around the Great Lakes. Assigned in

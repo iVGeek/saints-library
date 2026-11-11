@@ -1,5 +1,6 @@
 ---
 name: Saint Gordian the Judge
+stub: false
 honorific: Saint
 summary: >-
   Roman judge. Adult convert to Christianity. Tortured and martyred by order of the Roman prefect Apronianus during the

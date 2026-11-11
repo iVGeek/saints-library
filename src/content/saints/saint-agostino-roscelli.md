@@ -1,5 +1,6 @@
 ---
 name: Saint Agostino Roscelli
+stub: false
 honorific: Venerable
 summary: >-
   Born to a poor farming family, Agostino spent his youth as a mountain shepherd, using his solitary time for prayer.

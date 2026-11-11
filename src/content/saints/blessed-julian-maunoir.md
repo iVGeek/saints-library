@@ -1,5 +1,6 @@
 ---
 name: Blessed Julian Maunoir
+stub: false
 honorific: Blessed
 summary: >-
   Raised in a pious home. Classmate of Saint Isaac Jogues. Joined the Jesuits in 1625. Regent of the College of Quimper

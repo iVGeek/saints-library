@@ -1,5 +1,6 @@
 ---
 name: Saint Ermine
+stub: true
 honorific: Saint
 summary: Sixth century nun. Honoured in Ireland.
 searchAliases:

@@ -1,5 +1,6 @@
 ---
 name: Venerable Octavio Ortiz Arrieta
+stub: false
 honorific: Venerable
 summary: >-
   Began studying carpentry in a Salesian school in December 1893 at age 14. Joined the Salesians in 1900 in Callao, the

@@ -1,5 +1,6 @@
 ---
 name: Blessed María del Tránsito de Jesús Sacramentado
+stub: false
 honorific: Blessed
 summary: >-
   Third child born to Felipe Cabanillas and Francisca Antonia Luj&aacute;n S&aacute;nchez. Raised in a large, wealthy

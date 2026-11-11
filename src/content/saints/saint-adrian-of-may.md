@@ -1,5 +1,6 @@
 ---
 name: Saint Adrian of May
+stub: false
 honorific: Saint
 summary: >-
   May have been a member of the Hungarian royal family. Missionary bishop and leader on the isle of May in the Firth of

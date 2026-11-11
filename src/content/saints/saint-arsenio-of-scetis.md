@@ -1,5 +1,6 @@
 ---
 name: Saint Arsenio of Scetis
+stub: true
 honorific: Saint
 summary: Deacon. Hermit at Mount Scetis, Egypt.
 born: 4th century

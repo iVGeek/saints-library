@@ -1,5 +1,6 @@
 ---
 name: Saint Louis Martin
+stub: false
 honorific: Saint
 title: St. Louis Martin
 summary: >-

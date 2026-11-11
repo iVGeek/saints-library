@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Peter of Seville
+stub: false
 honorific: Saint
 summary: >-
   Martyr. Venerated in Seville, Spain. Many legends and tall tales grew up around him to fill in the empty parts of his

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Secundus of Alexandria
+stub: false
 honorific: Saint
 summary: >-
   Priest. Martyred along with a group of unnamed clergy in the persecutions of Constantius for opposing the Arian

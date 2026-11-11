@@ -1,5 +1,6 @@
 ---
 name: Blessed Thérèse-Madeleine Fantou
+stub: false
 honorific: Blessed
 summary: >-
   Nun in the Daughters of Charity of Saint Vincent de Paul at Arras, France in 1771. Imprisoned in 1792 and executed two

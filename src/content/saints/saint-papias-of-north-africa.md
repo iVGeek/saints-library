@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/b/bb/Rubens_apostel_simon.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Papias of North Africa
+stub: true
 honorific: Saint
 summary: Martyr. No other information has survived.
 died: martyred in North Africa, date unknown

@@ -1,5 +1,6 @@
 ---
 name: Pope Venerable Pius XII
+stub: false
 honorific: Venerable
 summary: >-
   Studied at the Pontifical Gregorian University in Rome. Ordained on 2 April 1899. Staff member of the Sacred

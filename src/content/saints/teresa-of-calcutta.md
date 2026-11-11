@@ -1,5 +1,6 @@
 ---
 name: Teresa of Calcutta
+stub: false
 honorific: Saint
 title: Founder, Missionaries of Charity
 summary: >-

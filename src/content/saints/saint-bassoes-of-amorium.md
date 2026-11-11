@@ -1,5 +1,6 @@
 ---
 name: Saint Bassoes of Amorium
+stub: false
 honorific: Saint
 summary: >-
   Member of the imperial Byzantine court. One of the 42 Martyrs of Amorium who were captured by invading Muslims,

@@ -1,6 +1,7 @@
 ---
 image: https://www.santiebeati.it/immagini/Thumbs/99133/99133.JPG
 name: Blessed Domingo del Barrio Batz
+stub: false
 honorific: Blessed
 summary: >-
   Married layman of the diocese of Quiché, Guatemala. Member of Catholic Action. Worked as a sacristan for Blessed José

@@ -1,5 +1,6 @@
 ---
 name: Saint Caesarius of Arles
+stub: false
 honorific: Saint
 summary: >-
   Brother of Saint Caesaria of Arles. Entered the monastery at L&eacute;rins at age 18, and worked as his house's

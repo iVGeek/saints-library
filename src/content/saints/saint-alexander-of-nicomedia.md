@@ -1,5 +1,6 @@
 ---
 name: Saint Alexander of Nicomedia
+stub: false
 honorific: Saint
 summary: One of a group of Christians martyred in the persecutions of Diocletian. No other information has survived.
 deathYear: 303

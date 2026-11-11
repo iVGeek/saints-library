@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Gerald of Mâcon
+stub: false
 honorific: Saint
 summary: >-
   Benedictine monk at Brou. Bishop of Mâcon, France for 40 years, but in his old age he resigned and retired to his old

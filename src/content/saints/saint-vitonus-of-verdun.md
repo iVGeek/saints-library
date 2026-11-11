@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Vitonus of Verdun
+stub: false
 honorific: Saint
 summary: >-
   Became a monk as a young man. Bishop of Verdun, France c.500. Converted all the residents in his diocese, wiping out

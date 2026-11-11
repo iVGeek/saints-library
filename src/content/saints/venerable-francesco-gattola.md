@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Venerable Francesco Gattola
+stub: false
 honorific: Venerable
 summary: Priest in the archdiocese of Naples, Italy. Founded the Daughters of the Most Holy Immaculate Virgin of Lourdes.
 birthYear: 1822

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Remigi Tamarit Pinyol
+stub: false
 honorific: Blessed
 summary: Member of the Claretians, professed on 15 August 1927. Martyred in the Spanish Civil War.
 birthYear: 1911

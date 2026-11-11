@@ -1,5 +1,6 @@
 ---
 name: Saint Silvanus of Jerusalem
+stub: false
 honorific: Saint
 summary: >-
   One of the original disciples, Silas is mentioned in the Acts of the Apostles as one of the leaders of the Church in

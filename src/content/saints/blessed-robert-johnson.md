@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Robert Johnson
+stub: false
 honorific: Blessed
 summary: >-
   Studied at Rheims, France, and Rome, Italy. Ordained at Douai, France in 1576. He then returned to England to minister

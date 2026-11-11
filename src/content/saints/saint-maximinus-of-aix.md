@@ -1,5 +1,6 @@
 ---
 name: Saint Maximinus of Aix
+stub: false
 honorific: Saint
 summary: ' Legend says that Maximinus was one of the 72 disciples sent out by Christ, and that he was a servant in the house of Saints Martha, Mary and Lazarus of Bethany. He travelled from the Holy Land to the area of Aix in Gaul  with Sain First bishop of Aix, Provence (in modern France).'
 image: https://commons.wikimedia.org/wiki/Special:FilePath/Aix-Notre-Dame_de_la_Seds-bjs180816-03.jpg?width=600

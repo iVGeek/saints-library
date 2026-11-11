@@ -1,5 +1,6 @@
 ---
 name: Blessed Arturo Ros Montalt
+stub: false
 honorific: Blessed
 summary: >-
   Lifelong layman in the archdiocese of Valencia, Spain. Married to Maria Llopis Sirer at the church of San Honorato in

@@ -1,5 +1,6 @@
 ---
 name: Venerable Manuel Martín del Campo
+stub: false
 honorific: Venerable
 summary: >-
   Raised in a pious family, they recited the rosary together daily, and his elder brother Fernando was a priest. Studied

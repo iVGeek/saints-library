@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Simplicius of Bourges
+stub: false
 honorific: Saint
 summary: >-
   Married layman father of a large family; his wife was a member of the Roman senatorial Paladii family. His reputation

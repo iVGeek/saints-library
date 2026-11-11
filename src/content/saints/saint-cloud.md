@@ -1,5 +1,6 @@
 ---
 name: Saint Cloud
+stub: false
 honorific: Saint
 summary: >-
   Born to French royalty, son of King Clodomir and Clotilde, and grandson of King Clovis and Saint Clotilda. His father

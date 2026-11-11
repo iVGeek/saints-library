@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Simitrius of Rome
+stub: false
 honorific: Saint
 summary: >-
   Simitrius and 22 fellow parishioners, whose names have not come down to us, were grabbed and summarily executed for

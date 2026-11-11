@@ -1,5 +1,6 @@
 ---
 name: Saint Metrodora
+stub: false
 honorific: Saint
 summary: >-
   Sister of Saint Menodora and Saint Nymphodora. Young Christian woman ordered to worship pagan gods during the

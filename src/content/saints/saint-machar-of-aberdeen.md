@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/7/70/The_font_at_St_Machar%27s_Cathedral_by_Hew_Lorimer.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Machar of Aberdeen
+stub: false
 honorific: Saint
 summary: >-
   Baptized by Saint Colman. Spiritual student of Saint Columba at Iona Abbey. Bishop of Aberdeen, Scotland. Missionary

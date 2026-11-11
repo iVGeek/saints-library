@@ -1,5 +1,6 @@
 ---
 name: Saint Pedro Bautista Blásquez y Blásquez
+stub: false
 honorific: Saint
 summary: >-
   Born to the Castillian nobility, Pedro studied at the University of Salamanca and then joined the Franciscans in 1542.

@@ -1,5 +1,6 @@
 ---
 name: Saint Dentlin of Soignies
+stub: false
 honorific: Saint
 summary: >-
   Son of Saint Vincent Madelgarus and Saint Waldetrudis; brother of Saint Landric, Saint Madalbarta and Saint

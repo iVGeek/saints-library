@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/2/29/Gary_R._Studniewski_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Richard Newport
+stub: false
 honorific: Blessed
 summary: >-
   Studied in Douai, France and Rome, Italy, and ordained in 1597. Returning to England, he minister to covert Catholics

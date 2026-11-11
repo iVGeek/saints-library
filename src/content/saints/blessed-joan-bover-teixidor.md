@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Joan Bover Teixidor
+stub: false
 honorific: Blessed
 summary: >-
   Franciscan Capuchin, making his profession on 28 June 1902. Ordained a priest on 20 July 1902. Murdered by Marxists in

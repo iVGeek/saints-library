@@ -1,5 +1,6 @@
 ---
 name: Saint Elian ap Erbin
+stub: true
 honorific: Saint
 summary: No information has survived.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Elian-ap-Erbin.jpg

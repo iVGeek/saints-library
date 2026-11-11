@@ -1,5 +1,6 @@
 ---
 name: Saint Ferdinand III of Castille
+stub: false
 honorific: Saint
 summary: >-
   Son of Alfonso IX, King of Leon, and Berengaria, daughter of King Alfonso III of Castile; cousin of Saint Louis IX.

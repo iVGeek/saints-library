@@ -1,5 +1,6 @@
 ---
 name: Saint Francesco Saverio Maria Bianchi
+stub: false
 honorific: Venerable
 summary: >-
   Studied in Naples, Italy. Joined the Barnabite at age 14 over the objections of his family. Ordained in 1767. Served

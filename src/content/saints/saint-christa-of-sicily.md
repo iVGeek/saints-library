@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Christa of Sicily
+stub: true
 honorific: Saint
 summary: Martyr. No other information has survived.
 died: Sicily, Italy, date unknown

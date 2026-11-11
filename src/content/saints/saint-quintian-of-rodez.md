@@ -1,5 +1,6 @@
 ---
 name: Saint Quintian of Rodez
+stub: false
 honorific: Saint
 summary: >-
   Fled his native North Africa to France in order to escape Arian-Vandal persecution. Bishop of Rodez, France. Exiled

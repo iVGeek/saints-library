@@ -1,5 +1,6 @@
 ---
 name: Blessed Lucio Martínez Mancebo
+stub: false
 honorific: Blessed
 summary: >-
   Entered the seminary of León, Spain in 1912, and the Dominican novitiate in Solsona, Spain in 1919. He made his

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Rictiovarus of Gaul
+stub: false
 honorific: Saint
 summary: >-
   Appointed imperial Roman prefect of Gaul by Emperor Diocletian in the late 3rd century, Rictiovarus was known for his

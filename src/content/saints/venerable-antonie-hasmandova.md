@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Venerable Antonie Hasmandová
+stub: false
 honorific: Venerable
 summary: >-
   Nun in the Congregation of the Sisters of Mercy of Saint Charles Borromeo. The Communist regime in power in

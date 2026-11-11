@@ -1,5 +1,6 @@
 ---
 name: Saint Jeroen of Noordwijk
+stub: false
 honorific: Saint
 summary: >-
   Born to the Scottish nobility, the son of a large land-owner. Known as a pious child who preferred to spend his time

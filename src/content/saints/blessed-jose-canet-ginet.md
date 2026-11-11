@@ -1,5 +1,6 @@
 ---
 name: Blessed José Canet Ginet
+stub: false
 honorific: Blessed
 summary: >-
   Born to a poor family. Studied at the seminary in Valencia, Spain. Ordained a priest in the archdiocese of Valencia,

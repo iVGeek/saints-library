@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/f/ff/CatherinaeTekakwithaVirginis1690.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Antonia of Siena
+stub: false
 honorific: Blessed
 summary: 15th century Franciscan tertiary who lived in the Santa Maria Nuova monastery in Ancona, Italy.
 deathYear: 1455

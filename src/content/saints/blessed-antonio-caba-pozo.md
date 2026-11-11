@@ -1,5 +1,6 @@
 ---
 name: Blessed Antonio Caba Pozo
+stub: false
 honorific: Blessed
 summary: >-
   Feeling a call to the religious life from an early age, Antonio began studying at the San Cecilio Seminary in the

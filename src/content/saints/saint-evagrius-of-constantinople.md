@@ -1,5 +1,6 @@
 ---
 name: Saint Evagrius of Constantinople
+stub: false
 honorific: Saint
 summary: >-
   Priest. Bishop of Constantinople in 370 after the see had been vacant for 20 years due to Arian persecution. After a

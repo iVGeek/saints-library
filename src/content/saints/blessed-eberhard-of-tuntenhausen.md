@@ -1,5 +1,6 @@
 ---
 name: Blessed Eberhard of Tüntenhausen
+stub: false
 honorific: Blessed
 summary: >-
   Shepherd who wandered the region of Freising, Germany who was known for his holy life, for his knowledge of herbal

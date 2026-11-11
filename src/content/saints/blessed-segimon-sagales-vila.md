@@ -1,5 +1,6 @@
 ---
 name: Blessed Segimon Sagalés Vilá
+stub: false
 honorific: Blessed
 summary: >-
   Lay brother in the Sons of the Holy Family. Kindergarten teacher in Barcelona, Spain. Suffered from a cancerous tumour

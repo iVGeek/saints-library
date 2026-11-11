@@ -1,5 +1,6 @@
 ---
 name: Saint Caesarius of Africa
+stub: false
 honorific: Saint
 summary: >-
   Deacon of an African church. During a visit to Italy, he witnessed a pagan celebration of Apollo; Caesarius objected

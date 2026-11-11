@@ -1,5 +1,6 @@
 ---
 name: Saint Vincent Liêm
+stub: false
 honorific: Venerable
 summary: >-
   Born to the Tonkinese nobility. Studied in the Philippines. Joined the Dominicans in 1753, making his solemn

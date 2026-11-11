@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/2/29/Jheronimus_Bosch_-_Saint_Christopher_-_Google_Art_ProjectFXD_%28Cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Andreas the Soldier
+stub: false
 honorific: Saint
 summary: Christian soldier. Martyred for his faith, but the time and place of his death have been lost.
 feastDay:

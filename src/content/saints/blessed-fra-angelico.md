@@ -1,5 +1,6 @@
 ---
 name: Blessed Fra Angelico
+stub: false
 honorific: Blessed
 summary: >-
   Joined the Dominicans in Fiesole, Italy in 1407, taking the name Fra Giovanna. He was taught to illuminate missals and

@@ -1,5 +1,6 @@
 ---
 name: Venerable Alexia González-Barros y González
+stub: false
 honorific: Venerable
 summary: >-
   One of five children born to pious members of Opus Dei. Alexia made her First Communion in Rome, Italy on 8 May 1979,

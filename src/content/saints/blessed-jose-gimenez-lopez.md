@@ -1,5 +1,6 @@
 ---
 name: Blessed José Giménez López
+stub: false
 honorific: Blessed
 summary: Priest. Member of the Salesians of Don Bosco. Martyred in the Spanish Civil War.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Jose-Gimenez-Lopez.jpg

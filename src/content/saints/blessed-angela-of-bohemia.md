@@ -1,5 +1,6 @@
 ---
 name: Blessed Angela of Bohemia
+stub: true
 image: https://commons.wikimedia.org/wiki/Special:FilePath/%25C3%2582ngela_Vieira.jpg?width=600
 honorific: Blessed
 title: Hermit

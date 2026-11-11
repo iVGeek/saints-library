@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Martyrs of Rhaitu
+stub: true
 honorific: Saint
 summary: 43 monks martyred by Blemmyes.
 died: Raíthu, Egypt, date unknown

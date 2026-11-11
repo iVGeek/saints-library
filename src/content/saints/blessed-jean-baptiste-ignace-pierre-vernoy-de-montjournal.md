@@ -1,5 +1,6 @@
 ---
 name: Blessed Jean-Baptiste-Ignace-Pierre Vernoy de Montjournal
+stub: false
 honorific: Blessed
 summary: >-
   Priest in the diocese of Moulins, France. Canon of Moulins. During the French Revolution he was arrested and sentenced

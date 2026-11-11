@@ -1,5 +1,6 @@
 ---
 name: Saint Saturnina of Arras
+stub: true
 honorific: Saint
 summary: Virgin-martyr.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Saturnina-of-Arras.jpg

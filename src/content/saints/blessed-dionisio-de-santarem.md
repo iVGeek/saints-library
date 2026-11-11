@@ -1,5 +1,6 @@
 ---
 name: Blessed Dionisio de Santarem
+stub: false
 honorific: Blessed
 summary: >-
   Mercedarian friar at the convent of Sant'Antolino in Valladolid, Spain. Known as a model of piety, humility, and love

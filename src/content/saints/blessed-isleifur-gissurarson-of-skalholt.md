@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Ísleifur Gissurarson of Skálholt
+stub: false
 honorific: Blessed
 summary: >-
   The son of Gissur Teitsson, one of the first Christians in Iceland, and Þórdís Þóroddsdóttir. Married to Dalla

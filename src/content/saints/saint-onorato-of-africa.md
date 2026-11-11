@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/c/c5/Castello_di_ninfa_e_giardino.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Onorato of Africa
+stub: false
 honorific: Saint
 summary: One of a group of 35 martyrs who died together. No other information has survived.
 died: in northwestern Africa

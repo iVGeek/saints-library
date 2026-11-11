@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Eberwin of Helfenstein
+stub: false
 honorific: Blessed
 summary: >-
   Augustinian canon. In 1121 he and several companions took over the abandoned Benedictine monastery of Springiersbach

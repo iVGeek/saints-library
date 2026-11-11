@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Thomas of Taw
+stub: true
 honorific: Saint
 died: beheaded in Taw, Egypt, date unknown
 deathPlace: Egypt, date unknown

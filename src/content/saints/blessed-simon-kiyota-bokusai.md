@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Simon Kiyota Bokusai
+stub: false
 honorific: Blessed
 summary: >-
   Layman catechist in the diocese of Fukuoka, Japan. Married to Blessed Magdalena Kiyota Bokusai. Member of the

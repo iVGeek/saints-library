@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Troiano of Saintes
+stub: true
 honorific: Saint
 title: Bishop
 summary: Fifth-century bishop of Saintes, Aquitaine (in modern France).

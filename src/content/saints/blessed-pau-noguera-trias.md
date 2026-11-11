@@ -1,5 +1,6 @@
 ---
 name: Blessed Pau Noguera Trías
+stub: false
 honorific: Blessed
 summary: >-
   Teenaged professed religious brother. Member of the Missionaries of the Sacred Hearts of Jesus and Mary of Mallorca.

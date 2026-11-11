@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Consortia
+stub: false
 honorific: Saint
 summary: >-
   Born into the nobility, daughter of Saint Eucherius of Lyon, and Galla; sister of Saint Veranus of Vence, Saint

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Frederick of Liège
+stub: false
 honorific: Saint
 summary: >-
   Twelfth century bishop of Liège, Belgium. Known for repressing simony, nepotism, and the usurpation of Church

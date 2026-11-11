@@ -1,5 +1,6 @@
 ---
 name: Blessed Peter the Hermit
+stub: false
 honorific: Blessed
 title: Hermit
 summary: >-

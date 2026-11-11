@@ -1,5 +1,6 @@
 ---
 name: Saint Adela of Pfalzel
+stub: false
 honorific: Saint
 summary: >-
   Daughter of Saint Dagobert II, King of the Franks, and the Anglo-Saxon princess Matilda. Sister of Saint Irmina of

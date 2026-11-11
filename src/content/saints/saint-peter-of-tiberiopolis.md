@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Peter of Tiberiopolis
+stub: false
 honorific: Saint
 summary: Priest. Martyred in the persecutions of Julian the Apostate. No other information has survived.
 deathYear: 361

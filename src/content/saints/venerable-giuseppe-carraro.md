@@ -1,5 +1,6 @@
 ---
 name: Venerable Giuseppe Carraro
+stub: false
 honorific: Venerable
 summary: >-
   Ordained on 31 March 1923 in the diocese of Treviso, Italy. Auxiliary bishop of Treviso and titular bishop of Usula on

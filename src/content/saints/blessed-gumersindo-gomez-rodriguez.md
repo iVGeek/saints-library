@@ -1,5 +1,6 @@
 ---
 name: Blessed Gumersindo Gómez Rodríguez
+stub: false
 honorific: Blessed
 summary: Member of the Missionaries of the Sacred Heart, making his profession in 1929. Martyred in the Spanish Civil War.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Gumersindo-Gomez-Rodriguez.jpg

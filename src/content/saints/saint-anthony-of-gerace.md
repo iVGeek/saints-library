@@ -1,5 +1,6 @@
 ---
 name: Saint Anthony of Gerace
+stub: false
 honorific: Saint
 summary: >-
   Basilian monk at the Greek monastery of San Felipe Argiró near Locri in lower Calabria, Italy. Friend of Saint

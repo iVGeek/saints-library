@@ -1,5 +1,6 @@
 ---
 name: Saint Agia of Hainault
+stub: false
 honorific: Saint
 summary: >-
   Wife of Saint Hidulphus of Hainault. They separated to enter religious life, Agia becoming a Benedictine nun at the

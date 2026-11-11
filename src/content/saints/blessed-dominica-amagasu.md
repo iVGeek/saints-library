@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Dominica Amagasu
+stub: false
 honorific: Blessed
 summary: Lay woman in the diocese of Niigata, Japan. Married to Blessed Michaël Amagasu Tayemon. Martyr.
 birthYear: 1606

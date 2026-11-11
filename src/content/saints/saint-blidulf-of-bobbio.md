@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Blidulf of Bobbio
+stub: false
 honorific: Saint
 summary: >-
   Monk at Bobbio, Italy. Spiritual student of Saint Columbanus. Denounced the heresy of King Arioald of the Lombards.

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/d/d0/Codexaureus_17.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Papias of Africa
+stub: true
 honorific: Saint
 summary: Martyr.
 died: unknown location in Afria, date unknown

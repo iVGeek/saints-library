@@ -1,5 +1,6 @@
 ---
 name: Saint Settimio of Jesi
+stub: false
 honorific: Saint
 summary: >-
   Raised in a pagan family, Settimio received a good education and was a professional soldier. While in Italy, he

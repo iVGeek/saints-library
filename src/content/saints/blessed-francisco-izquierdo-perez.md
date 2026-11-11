@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/6/69/H%C3%A9rcules_desv%C3%ADa_el_curso_del_r%C3%ADo_Alfeo%2C_por_Zurbar%C3%A1n.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 name: Blessed Francisco Izquierdo Pérez
+stub: true
 honorific: Blessed
 summary: Layman of the diocese of Córdoba Martyred in the Spanish Civil War.
 birthYear: 1918

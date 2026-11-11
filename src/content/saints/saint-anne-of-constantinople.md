@@ -1,5 +1,6 @@
 ---
 name: Saint Anne of Constantinople
+stub: false
 honorific: Saint
 summary: >-
   Born an aristocrat, she was orphaned young and inherited a large fortune. Though she spent her money to support the

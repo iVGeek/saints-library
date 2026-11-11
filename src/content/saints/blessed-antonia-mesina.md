@@ -1,5 +1,6 @@
 ---
 name: Blessed Antonia Mesina
+stub: false
 honorific: Blessed
 summary: >-
   Second of ten children born to a peasant family. She received only four years of school, quitting to take over

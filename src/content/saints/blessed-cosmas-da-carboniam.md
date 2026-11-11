@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Cosmas da Carboniam
+stub: false
 honorific: Blessed
 summary: >-
   Priest in the Armenian Church in 1683. Convert to Catholicism in 1696. Pastor of Saint George's in Sulu Monastir from

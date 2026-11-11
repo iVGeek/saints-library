@@ -1,5 +1,6 @@
 ---
 name: Saint Cleopas
+stub: true
 honorific: Saint
 summary: One of the two disciples of the Way to Emmaus. Martyr.
 image: https://commons.wikimedia.org/wiki/Special:FilePath/Michelangelo_Caravaggio_016.jpg?width=600

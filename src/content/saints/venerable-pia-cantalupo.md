@@ -1,5 +1,6 @@
 ---
 name: Venerable Pia Cantalupo
+stub: false
 honorific: Venerable
 summary: >-
   Religious sister in the Daughters of Charity of Saint Vincent de Paul in Catania, Italy known for her zealous work for

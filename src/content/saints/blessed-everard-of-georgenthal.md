@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Everard of Georgenthal
+stub: false
 honorific: Blessed
 summary: >-
   Born to the nobility, the son of Count Adolf I of Berg and his wife Adelheid von Lauffen; he became the Count of Berg

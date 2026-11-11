@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Bezela of Göda
+stub: true
 honorific: Blessed
 summary: Mother of Saint Benno of Meissen.
 born: late 10th century Germany

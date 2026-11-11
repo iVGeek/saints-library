@@ -1,5 +1,6 @@
 ---
 name: Pope Saint Celestine I
+stub: false
 honorific: Saint
 summary: ' Ordered the bishops of Vienne and Narbonne in Gaul to Son of Priscus. May have been related to Emperor Valentinian. May have worked with Saint Ambrose of Milan. Deacon in Rome, Italy in 416. Almost nothing else is known about Celestine before his unanimous election as 43rd pope.'
 image: >-

@@ -1,5 +1,6 @@
 ---
 name: Blessed Valentín Palencia Marquina
+stub: false
 honorific: Blessed
 summary: >-
   Priest in the archdiocese of Burgos, Spain known for his ministry to the poor and abandoned. Founded the Patronato di

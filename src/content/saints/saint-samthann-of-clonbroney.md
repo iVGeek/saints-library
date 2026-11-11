@@ -1,5 +1,6 @@
 ---
 name: Saint Samthann of Clonbroney
+stub: false
 honorific: Saint
 summary: >-
   Fled an arranged marriage to become a nun. Spiritual student of Saint Cognat at Ernaide. Founded Clonbroney

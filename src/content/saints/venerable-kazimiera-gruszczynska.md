@@ -1,5 +1,6 @@
 ---
 name: Venerable Kazimiera Gruszczynska
+stub: false
 honorific: Venerable
 summary: >-
   Drawn to religious life as a child, Kazimiera made private vow of chastity at age 10. She renewed this at age 21, and

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Hilary of Toulouse
+stub: true
 honorific: Saint
 title: Bishop
 searchAliases:

@@ -1,5 +1,6 @@
 ---
 name: Saints of the Day – Syrus of Pavia, Bishop, Martyr
+stub: false
 honorific: Saint
 summary: >-
   1st century (?). Alleged first bishop of Pavia and said to have been sent there by the apostles. He probably belongs

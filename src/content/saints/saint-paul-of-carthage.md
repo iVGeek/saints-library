@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/b/b5/Acropolium.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Paul of Carthage
+stub: true
 honorific: Saint
 summary: Courtier. Martyred in the persecutions of Decius.
 deathYear: 250

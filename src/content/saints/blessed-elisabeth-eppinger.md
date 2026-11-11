@@ -1,5 +1,6 @@
 ---
 name: Blessed Élisabeth Eppinger
+stub: false
 honorific: Blessed
 summary: >-
   Eldest of eleven children born to a poor farm family. Élisabeth was a sickly but very pious child. In 1846 she had the

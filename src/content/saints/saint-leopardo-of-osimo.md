@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/9/9a/Osimo%2C_Duomo.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Leopardo of Osimo
+stub: true
 honorific: Saint
 title: Bishop
 summary: First bishop of Osimo, Italy, serving in the 5th century.

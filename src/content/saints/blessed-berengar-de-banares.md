@@ -1,5 +1,6 @@
 ---
 name: Blessed Berengar de Banares
+stub: false
 honorific: Blessed
 summary: >-
   Soldier. Knight. Mercedarin, received into the Order by Saint Peter Nolasco. Sent to Algiers in 1240 where he ransomed

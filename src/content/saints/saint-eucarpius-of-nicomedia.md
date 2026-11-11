@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Eucarpius of Nicomedia
+stub: false
 honorific: Saint
 summary: >-
   Pagan soldier in the imperial Roman army and stationed in Nicomedia (in modern Turkey). Assigned to hunt Christians

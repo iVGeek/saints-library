@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Constantine of Laodicea
+stub: true
 honorific: Saint
 summary: Bishop of Laodicea in Anatolia (part of modern Turkey) from c.508 to 518.
 region: Turkey

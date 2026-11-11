@@ -1,5 +1,6 @@
 ---
 name: Blessed Moisés Lira Serafín
+stub: false
 honorific: Blessed
 summary: >-
   Born to a pious family, the youngest of six children; his mother died when the boy was four years old. His father

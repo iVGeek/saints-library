@@ -1,5 +1,6 @@
 ---
 name: Saint Giuse Tuân
+stub: false
 honorific: Saint
 summary: >-
   Dominican priest. Arrested and executed in the persecutions of Emperor Tu-Duc, charged with spying when caught

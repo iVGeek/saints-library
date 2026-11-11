@@ -1,5 +1,6 @@
 ---
 name: Saint Sebastian
+stub: false
 honorific: Saint
 title: St. Sebastian
 summary: >-

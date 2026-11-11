@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Parthenius of Thessaly
+stub: false
 honorific: Blessed
 summary: >-
   Bishop, known for his ascetic lifestyle in which he continually gave away all that he had to the poor, and as often as

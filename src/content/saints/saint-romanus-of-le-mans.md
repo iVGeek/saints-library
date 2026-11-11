@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Romanus of Le Mans
+stub: false
 honorific: Saint
 summary: >-
   Summoned across the Alps to LeMans by his uncle, Saint Julian, missionary bishop of the area, who ordained him.

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/d/db/Sant_Basil_The_Prayer.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed David Sutton
+stub: true
 honorific: Blessed
 summary: Layman in the archdiocese of Dublin, Ireland. One of the Irish Martyrs.
 deathYear: 1581

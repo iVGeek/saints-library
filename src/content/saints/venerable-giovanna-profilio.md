@@ -1,5 +1,6 @@
 ---
 name: Venerable Giovanna Profilio
+stub: false
 honorific: Venerable
 summary: >-
   Fourth daughter of Giuseppe Profilio and Nunziata Marchese, a pious family who provided her a solid Christian

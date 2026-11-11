@@ -1,5 +1,6 @@
 ---
 name: Martyrs of Syria
+stub: false
 honorific: Saint
 summary: >-
   350 monks massacred by heretics for their adherence to orthodox Christianity and the decrees of the Council of

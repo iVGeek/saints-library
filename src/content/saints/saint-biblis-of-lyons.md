@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Biblis of Lyons
+stub: false
 honorific: Saint
 summary: >-
   Tortured to admit to the crime of cannibalism, a slur often ascribed to early Christians. Martyred with 45 other

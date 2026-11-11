@@ -1,5 +1,6 @@
 ---
 name: Saint Salvius of Albi
+stub: false
 honorific: Saint
 summary: Lawyer. Monk. Abbot. Hermit. Bishop of Albi, France in 574. Died while tending the sick during an epidemic.
 searchAliases:

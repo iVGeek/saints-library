@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Christian of Auxerre
+stub: true
 honorific: Saint
 title: Bishop
 summary: Bishop of Auxerre, France, serving for 12 years.

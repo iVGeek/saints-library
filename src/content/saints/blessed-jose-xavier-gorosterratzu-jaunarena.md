@@ -1,5 +1,6 @@
 ---
 name: Blessed José Xavier Gorosterratzu y Jaunarena
+stub: false
 honorific: Blessed
 summary: >-
   The second of eight children born to the farm family of José María and Tomasa Gorosterratzu y Jaunarena; José was

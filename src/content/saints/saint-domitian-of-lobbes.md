@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Domitian of Lobbes
+stub: false
 honorific: Saint
 summary: >-
   Benedictine monk. Spiritual student of Saint Landelin of Crespin at Lobbes, Belgium. Friend of Saint Hadelin of

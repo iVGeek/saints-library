@@ -1,5 +1,6 @@
 ---
 name: Saint Eulampia
+stub: false
 honorific: Saint
 summary: >-
   Sister of Saint Eulampius. As a child she was arrested for being a Christian during the persecutions of Maximinian

@@ -1,5 +1,6 @@
 ---
 name: Saint Fortunatus of Potenza
+stub: true
 honorific: Saint
 summary: Martyred in the persecutions of Maximian.
 deathYear: 303

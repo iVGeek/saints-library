@@ -1,5 +1,6 @@
 ---
 name: Saint Apollinaris Syncletica
+stub: false
 honorific: Saint
 summary: >-
   Daughter of an Byzantine pro-consul. Feeling drawn to religious life, she dressed as a man, moved to the desert,

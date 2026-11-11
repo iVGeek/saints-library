@@ -1,5 +1,6 @@
 ---
 name: Blessed Józef Czempiel
+stub: false
 honorific: Blessed
 summary: >-
   Parish priest in Chorzow-Batory, archdiocese of Katowice, Poland. Known for his piety, ministry to the poor, and

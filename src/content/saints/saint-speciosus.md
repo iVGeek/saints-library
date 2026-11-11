@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Speciosus
+stub: false
 honorific: Saint
 summary: >-
   Wealthy land owner at Campania, Italy. He and his brother Gregory became monks, taking the cowl from Saint Benedict at

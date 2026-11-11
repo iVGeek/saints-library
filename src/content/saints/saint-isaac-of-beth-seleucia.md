@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/0/06/An_epitaph_of_a_Nestorian_Christian.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Isaac of Beth-Seleucia
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Beth-Seleucia, he was known for the number of converts he brought to the faith. Denounced for interfering

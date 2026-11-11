@@ -1,5 +1,6 @@
 ---
 name: Saint Petrus Zhu Rixin
+stub: false
 honorific: Venerable
 summary: >-
   Teenaged layman in the apostolic vicariate of Southeastern Zhili, China, raised in a rare village where the majority

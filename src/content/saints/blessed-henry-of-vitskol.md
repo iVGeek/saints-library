@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Henry of Vitskøl
+stub: false
 honorific: Blessed
 summary: >-
   Cistercian monk at the abbey of Clairvaux. Spiritual student of Saint Bernard of Clairvaux. Like many others from that

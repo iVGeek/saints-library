@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Diman Dubh of Connor
+stub: false
 honorific: Saint
 summary: >-
   Monk. Spiritual student of Saint Columba. Sixth century Apostolic Delegate to Ireland. Abbot at Connor, Ireland.

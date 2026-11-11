@@ -1,5 +1,6 @@
 ---
 name: Saint Walstan of Bawburgh
+stub: false
 honorific: Saint
 summary: >-
   The son of a prince and Saint Blida, Walstan left home at an early age to live as a mendicant pilgrim and itinerant

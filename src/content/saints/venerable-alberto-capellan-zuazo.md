@@ -1,5 +1,6 @@
 ---
 name: Venerable Alberto Capellán Zuazo
+stub: true
 honorific: Venerable
 summary: Married layman and father.
 image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Alberto-Capellán-Zuazo.jpg

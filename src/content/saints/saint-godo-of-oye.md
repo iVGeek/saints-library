@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Godo of Oye
+stub: false
 honorific: Saint
 summary: >-
   Nephew and spiritual student of Saint Wandrille. Benedictine monk under Wandrille at Fontenelle Abbey. Founder and

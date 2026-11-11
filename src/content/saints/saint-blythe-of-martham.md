@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Blythe of Martham
+stub: false
 honorific: Saint
 summary: >-
   Some legends have her as a 10th century queen and the mother of Saint Walstan of Bawburgh. However, though there are

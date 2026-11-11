@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Crescentius of Florence
+stub: false
 honorific: Saint
 summary: Sub-deacon in Florence, Italy. Spiritual student of Saint Zenobius and Saint Ambrose.
 deathYear: 396

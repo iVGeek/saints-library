@@ -1,5 +1,6 @@
 ---
 name: Blessed Irene of Hungary
+stub: false
 honorific: Blessed
 summary: >-
   Born a princesses, the daughter of King Ladislaus I of Hungary and Princess Adelaide of Swabia; her mother died when

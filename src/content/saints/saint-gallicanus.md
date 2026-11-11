@@ -1,5 +1,6 @@
 ---
 name: Saint Gallicanus
+stub: false
 honorific: Saint
 summary: >-
   Ranking officer in the imperial army of Constantine the Great. Roman consul. In 330 he retired from his military and

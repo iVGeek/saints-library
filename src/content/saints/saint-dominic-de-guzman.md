@@ -1,5 +1,6 @@
 ---
 name: Saint Dominic de Guzman
+stub: false
 honorific: Saint
 summary: >-
   Born of wealthy Spanish nobility. Son of Blessed Joan of Aza. Joan had difficulty conceiving, and prayed at the shrine

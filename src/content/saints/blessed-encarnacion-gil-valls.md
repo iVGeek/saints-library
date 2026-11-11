@@ -1,5 +1,6 @@
 ---
 name: Blessed Encarnación Gil Valls
+stub: false
 honorific: Blessed
 summary: >-
   Lay woman in the archdiocese of Valencia, Spain. Baptized on the day of her birth, she was confirmed at age 5 and made

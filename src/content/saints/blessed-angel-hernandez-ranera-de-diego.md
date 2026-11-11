@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/0/08/Roma_martires_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Ángel Hernández-Ranera De Diego
+stub: false
 honorific: Blessed
 summary: >-
   Second of four children born to Felix and Manuela, a poor but pious family; Ángel was baptized at the age of one day.

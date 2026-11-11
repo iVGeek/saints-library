@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Saula of Cologne
+stub: true
 honorific: Saint
 summary: Martyr. No other information has survived.
 died: Cologne, Germany

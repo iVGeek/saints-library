@@ -1,5 +1,6 @@
 ---
 name: Saint Mary Hermina Grivot
+stub: false
 honorific: Venerable
 summary: >-
   Daughter of a cooper and a housekeeper. Irma was an active, affectionate, sensitive, intelligent but sickly child, and

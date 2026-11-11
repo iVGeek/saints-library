@@ -1,5 +1,6 @@
 ---
 name: Saint Paul III of Brescia
+stub: true
 honorific: Saint
 summary: Bishop of Brescia, Italy in the late 6th and early 7th century.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Paul-III-of-Brescia.jpg

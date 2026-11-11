@@ -1,5 +1,6 @@
 ---
 name: Blessed Assunta Marchetti
+stub: false
 honorific: Blessed
 summary: >-
   One of eleven children. Nun. Co-founder the Missionaries of Saint Charles Borromeo (Scalabrinian Sisters) whose 800

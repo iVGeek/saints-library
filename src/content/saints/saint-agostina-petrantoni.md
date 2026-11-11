@@ -1,5 +1,6 @@
 ---
 name: Saint Agostina Petrantoni
+stub: false
 honorific: Venerable
 summary: >-
   Born to a small farm family, the daughter of Francesco Pietrantoni and Caterina Costantini. Nurse at the Holy Spirit

@@ -1,5 +1,6 @@
 ---
 name: Saint Evodius of Rouen
+stub: true
 honorific: Saint
 summary: Fifth century bishop of Rouen, France.
 region: France

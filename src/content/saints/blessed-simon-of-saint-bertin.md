@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/0/0c/Saint_Mother_Theodore_Guerin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Simon of Saint Bertin
+stub: false
 honorific: Blessed
 summary: Benedictine monk at the Abbey of Saint-Bertin, France. Abbot at Auchy, France. Abbot at Saint-Bertin in 1138.
 deathYear: 1148

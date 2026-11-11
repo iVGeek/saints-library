@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Francisco García Balanza
+stub: false
 honorific: Blessed
 summary: >-
   Layman in the diocese of Cartagena, Spain. Member of the Association of the Sons of Mary of the Miraculous Medal.

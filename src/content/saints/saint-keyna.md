@@ -1,5 +1,6 @@
 ---
 name: Saint Keyna
+stub: false
 honorific: Saint
 summary: >-
   Daughter of Saint Brychan of Brycheiniog. Fifth century anchoress in Cornwall, England where a church is dedicated to

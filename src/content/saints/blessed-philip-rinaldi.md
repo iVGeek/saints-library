@@ -1,5 +1,6 @@
 ---
 name: Blessed Philip Rinaldi
+stub: false
 honorific: Blessed
 summary: >-
   Philip met Don Bosco at age 5, and apparently instinctively understood the importance of the future saint. Though he

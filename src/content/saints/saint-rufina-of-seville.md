@@ -1,5 +1,6 @@
 ---
 name: Saint Rufina of Seville
+stub: false
 honorific: Saint
 summary: >-
   Potter, and the daughter of a potter. Sister of Saint Justina. A wealthy customer offered to purchase a large part of

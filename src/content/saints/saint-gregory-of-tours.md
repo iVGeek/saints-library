@@ -1,5 +1,6 @@
 ---
 name: Saint Gregory of Tours
+stub: false
 honorific: Saint
 summary: >-
   Born to the Gallic nobility; great-nephew of Saint Eustadius. Friend of Saint Magnericus and Saint Senoch. While on

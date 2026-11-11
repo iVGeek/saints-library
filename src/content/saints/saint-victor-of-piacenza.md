@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Victor of Piacenza
+stub: false
 honorific: Saint
 title: Bishop
 summary: >-

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Plegmund of Canterbury
+stub: false
 honorific: Saint
 summary: >-
   Noted scholar. Tutor to King Alfred. Archbishop of Canterbury, England. Restored the Church in England after the

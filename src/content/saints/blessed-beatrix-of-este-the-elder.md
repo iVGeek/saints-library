@@ -1,5 +1,6 @@
 ---
 name: Blessed Beatrix of Este the Elder
+stub: false
 honorific: Blessed
 summary: >-
   Born to the dynastic house of Este. Aunt of Blessed Beatrix of Este the Younger. Nun in the convent of Santa

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Cassian of Rome
+stub: true
 honorific: Saint
 summary: Martyred with four companions, date unknown.
 died: Rome, Italy

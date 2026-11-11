@@ -1,5 +1,6 @@
 ---
 name: Blessed Charles Decker
+stub: false
 honorific: Blessed
 summary: >-
   Member of the Missionaries of Africa, making his vows on 21 July 1949. Ordained a priest on 8 April 1950. Father

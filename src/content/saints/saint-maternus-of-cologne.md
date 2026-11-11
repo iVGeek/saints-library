@@ -1,5 +1,6 @@
 ---
 name: Saint Maternus of Cologne
+stub: false
 honorific: Saint
 summary: >-
   Early bishop of Cologne, Germany. Fought against the Donatist heresy. Old legend says he was born in Palestine and

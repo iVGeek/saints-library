@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Innocent of Tortona
+stub: false
 honorific: Saint
 summary: >-
   Confessor of the faith, imprisoned and scourged in the Diocletian persecution. Priest. Bishop of Tortona, Italy in

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/b/b6/Bafa_Lake_Kapikiri.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Paul of Latros
+stub: false
 honorific: Saint
 summary: >-
   Son of a Byzantine army officer who died in battle. After his mother's death sometime later, he and his brother Basil

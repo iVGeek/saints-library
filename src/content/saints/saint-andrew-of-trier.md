@@ -1,5 +1,6 @@
 ---
 name: Saint Andrew of Trier
+stub: true
 honorific: Saint
 summary: Bishop of Trier, Germany. Martyr.
 deathYear: 235

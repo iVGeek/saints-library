@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Venerable Helena Maria Magdalena Kalb
+stub: true
 honorific: Venerable
 summary: Professed religious in the Canonesses of the Holy Spirit of Sassia.
 searchAliases:

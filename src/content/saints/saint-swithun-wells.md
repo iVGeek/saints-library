@@ -1,5 +1,6 @@
 ---
 name: Saint Swithun Wells
+stub: false
 honorific: Venerable
 summary: >-
   Married layman teacher in the apostolic vicariate of England. Martyred in the persecutions of Queen Elizabeth I for

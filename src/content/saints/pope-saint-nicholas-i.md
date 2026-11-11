@@ -1,5 +1,6 @@
 ---
 name: Pope Saint Nicholas I
+stub: false
 honorific: Saint
 summary: >-
   Son of the Theodore, who held the title Defensor. An excellent student, known for his piety and eloquence. Ordained as

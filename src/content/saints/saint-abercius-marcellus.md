@@ -1,5 +1,6 @@
 ---
 name: Saint Abercius Marcellus
+stub: false
 honorific: Saint
 summary: >-
   Resident of Phrygia Salutaris. Bishop of Hierapolis (an area of modern southwestern Turkey). Active missionary in his

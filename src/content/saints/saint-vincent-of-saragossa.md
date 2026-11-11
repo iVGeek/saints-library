@@ -1,5 +1,6 @@
 ---
 name: Saint Vincent of Saragossa
+stub: false
 honorific: Saint
 summary: >-
   Friend of Saint Valerius of Saragossa in Spain, and served as his deacon. Imprisoned and tortured in Valencia, Spain

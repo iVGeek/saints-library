@@ -1,5 +1,6 @@
 ---
 name: Saint Etto
+stub: false
 honorific: Saint
 summary: >-
   Etto left Ireland for Rome, Italy with seven brother monks to receive papal blessing as a missionary. He was ordained

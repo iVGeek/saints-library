@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Estfan Al-Dwayhi
+stub: false
 honorific: Blessed
 summary: >-
   Patriarch of Antioch of the Maronites, noted for his writings on liturgy, history, Christian living, philosophy and

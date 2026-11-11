@@ -1,5 +1,6 @@
 ---
 name: Saint Gertrude the Great
+stub: false
 honorific: Saint
 summary: >-
   We don't know who her parents were or what became of them, and she may have been an orphan. Gertrude was raised in the

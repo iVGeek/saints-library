@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/c/c1/Saintangelus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed John Angelus
+stub: false
 honorific: Blessed
 summary: Benedictine monk at Pomposa, diocese of Ferrara, Italy. Spiritual student of Saint Guy of Pomposa.
 deathYear: 1050

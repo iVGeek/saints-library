@@ -1,5 +1,6 @@
 ---
 name: Saint Sandila
+stub: true
 honorific: Saint
 summary: Martyred by Moors.
 searchAliases:

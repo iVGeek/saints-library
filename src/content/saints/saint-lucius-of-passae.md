@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Lucius of Passae
+stub: true
 honorific: Saint
 summary: Christian in the diocese of Saint Valetine in Terni, Italy. Martyr.
 deathYear: 273

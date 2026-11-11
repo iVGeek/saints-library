@@ -1,5 +1,6 @@
 ---
 name: Blessed Josep Batalla Parramon
+stub: false
 honorific: Blessed
 summary: >-
   Joined the Salesians, making his solemn vows on 7 December 1894. Ordained in 1900. Teacher. Expelled from his teaching

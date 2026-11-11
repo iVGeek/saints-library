@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/9/95/Jorge_Rafael_Videla_Oath.PNG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Jacques Ledoyen
+stub: false
 honorific: Blessed
 summary: Priest of the diocese of Angers, France. Martyred in the persecutions of the French Revolution.
 birthYear: 1760

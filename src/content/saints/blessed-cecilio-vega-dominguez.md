@@ -1,5 +1,6 @@
 ---
 name: Blessed Cecilio Vega Domínguez
+stub: false
 honorific: Blessed
 summary: >-
   Born to a poor but pious farm family, one of nine children born to Juan and Micaela. Joined the Missionary Oblates of

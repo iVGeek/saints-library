@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/3/32/Vaucelles_facade_arriere_palais_abbatial.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 name: Blessed Raoul of Vaucelles
+stub: false
 honorific: Blessed
 summary: >-
   Benedictine Cistercian monk and spiritual student of Saint Bernard at Clairvaux Abbey. Sent by Bernard to found and

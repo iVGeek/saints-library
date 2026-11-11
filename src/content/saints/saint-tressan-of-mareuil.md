@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Tressan of Mareuil
+stub: false
 honorific: Saint
 summary: >-
   One a group of siblings who evangelized sixth century Rheims, France. The names of the others are given as Helan,

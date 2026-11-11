@@ -1,5 +1,6 @@
 ---
 name: Saint Giuse Tuân
+stub: false
 honorific: Saint
 summary: >-
   Married layman, a father, a family man and a farmer. In the persecutions of Tu Duc, Guise was ordered to trample on a

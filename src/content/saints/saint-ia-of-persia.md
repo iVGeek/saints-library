@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Ia of Persia
+stub: false
 honorific: Saint
 summary: Born a slave. Martyred in the persecution of King Shapur II for her success in converting Persian women to the faith.
 deathYear: 360

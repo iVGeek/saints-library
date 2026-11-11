@@ -1,5 +1,6 @@
 ---
 name: Saint Petca Parasceva
+stub: false
 honorific: Saint
 summary: >-
   Born to wealthy, noble, pious landowners. During services at age ten, at the Church of the Holy Theotokos, she heard

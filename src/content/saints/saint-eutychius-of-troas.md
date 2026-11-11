@@ -1,5 +1,6 @@
 ---
 name: Saint Eutychius of Troas
+stub: false
 honorific: Saint
 summary: >-
   Spiritual student of Saint Paul the Apostle. May have been the young man raised from the dead by Paul at Troas in Acts

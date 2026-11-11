@@ -1,5 +1,6 @@
 ---
 name: Venerable Alessandro Luzzago
+stub: false
 honorific: Venerable
 summary: >-
   Lifelong lay man who was elected to the city council of Milan, Italy where he worked to smooth relations between

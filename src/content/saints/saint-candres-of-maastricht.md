@@ -1,5 +1,6 @@
 ---
 name: Saint Candres of Maastricht
+stub: false
 honorific: Saint
 summary: Fifth century regional bishop. Evangelized the territory of Maastricht, Netherlands.
 region: Netherlands

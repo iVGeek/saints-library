@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/6/6f/Eloi_de_Bianya.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Joan Ayats Plantalech
+stub: false
 honorific: Blessed
 summary: >-
   Baptized on the day of his birth. Franciscan Capuchin friar, making his solemn profession on 26 June 1904. Murdered by

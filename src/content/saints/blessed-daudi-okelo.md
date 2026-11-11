@@ -1,5 +1,6 @@
 ---
 name: Blessed Daudi Okelo
+stub: false
 honorific: Blessed
 summary: >-
   Convert at about age fifteen. Catechist with Blessed Jildo Irwa. Local chiefs demanded that the two of them stop

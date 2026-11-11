@@ -1,5 +1,6 @@
 ---
 name: Saint Angadrisma of Beauvais
+stub: false
 honorific: Saint
 summary: >-
   Cousin of Saint Lambert of Lyon. Educated in Therouanne by Lambert and Saint Omer. She felt drawn to religious life

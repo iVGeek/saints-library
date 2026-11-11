@@ -1,5 +1,6 @@
 ---
 name: Blessed Mercedes de Jesús Molina y Ayala
+stub: false
 honorific: Blessed
 summary: >-
   Nun in 1873. Founded the Institute of the Sisters of Saint Mariana of Jesus (Marianitas Sisters) to care for and

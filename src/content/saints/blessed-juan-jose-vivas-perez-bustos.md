@@ -1,5 +1,6 @@
 ---
 name: Blessed Juan José Vivas-Pérez Bustos
+stub: false
 honorific: Blessed
 summary: >-
   Raised in a pious family who was very involved with the Church and parish life, Juan studied with the Jesuits in

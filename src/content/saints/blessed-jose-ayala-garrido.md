@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/b/b8/Plaque_to_Robert_Hawker_in_Charles_Church_Plymouth.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed José Ayala Garrido
+stub: false
 honorific: Blessed
 summary: Priest of the diocese of Córdoba, Spain, serving in the Castro del Río community. Martyred in the Spanish Civil War.
 birthYear: 1883

@@ -1,5 +1,6 @@
 ---
 name: Saint Claudius of Egypt and Companions
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility, he was martyred with 194 fellow Christians; no other information about him, and none of the

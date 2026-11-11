@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Trophimus of Synnada
+stub: true
 honorific: Saint
 summary: Martyr.
 searchAliases:

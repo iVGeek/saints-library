@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/f/fe/Beatificaciotarragona2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Jaume Llach-Candell
+stub: false
 honorific: Blessed
 summary: Priest. Member of the Sons of the Holy Family. One of the Martyrs of the Spanish Civil War.
 birthYear: 1878

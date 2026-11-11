@@ -1,5 +1,6 @@
 ---
 name: Saint Anysia of Salonika
+stub: false
 honorific: Saint
 summary: >-
   Born to a wealthy and pious family, Anysia lived private vows of chastity and poverty, praying and using her wealth to

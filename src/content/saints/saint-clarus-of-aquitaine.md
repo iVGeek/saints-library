@@ -1,5 +1,6 @@
 ---
 name: Saint Clarus of Aquitaine
+stub: false
 honorific: Saint
 summary: >-
   Priest who emigrated from north Africa to Italy in the late 1st century, was consecrated as a bishop, and became a

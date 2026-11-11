@@ -1,5 +1,6 @@
 ---
 name: Blessed Maria Klemensa Staszewska
+stub: true
 honorific: Blessed
 summary: Ursuline nun. Martyred in the persecutions of the Nazis.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Maria-Klemensa-Staszewska.jpg

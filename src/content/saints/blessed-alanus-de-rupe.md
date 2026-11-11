@@ -1,5 +1,6 @@
 ---
 name: Blessed Alanus de Rupe
+stub: false
 honorific: Blessed
 title: Virgin
 summary: >-

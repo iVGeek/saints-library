@@ -1,5 +1,6 @@
 ---
 name: Saint Saturninus of Cagliari
+stub: false
 honorific: Saint
 summary: >-
   Martyred by order of governor Barbarus for refusing to take part in the festival of Jupiter during the persecutions of

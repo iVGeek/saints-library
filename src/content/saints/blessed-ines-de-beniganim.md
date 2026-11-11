@@ -1,5 +1,6 @@
 ---
 name: Blessed Ines de Beniganim
+stub: false
 honorific: Blessed
 summary: >-
   Born to a poor family, the daughter of Luigi and Vincenza Gomar. Her father died when Giuseppa was very young, and as

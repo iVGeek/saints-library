@@ -1,5 +1,6 @@
 ---
 name: Blessed Maria Catalina Troiani
+stub: false
 honorific: Blessed
 summary: >-
   Third of four children born to Tommaso Troiani and Teresa Panici, her mother died when the Maria was six. Franciscan

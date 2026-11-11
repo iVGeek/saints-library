@@ -1,5 +1,6 @@
 ---
 name: Blessed Gaetana Sterni
+stub: false
 honorific: Blessed
 summary: >-
   Daughter of Giovanni Battista Sterni and Giovanna Chiuppani; one of six children. Her father was an administrator for

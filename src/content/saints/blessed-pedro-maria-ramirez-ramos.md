@@ -1,5 +1,6 @@
 ---
 name: Blessed Pedro María Ramírez Ramos
+stub: false
 honorific: Blessed
 summary: >-
   The son of Ramón Ramírez Flórez and Isabel Ramos, he was baptized at the age of one day. Feeling a call to the

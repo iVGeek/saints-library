@@ -1,5 +1,6 @@
 ---
 name: Saint Adleida of Bergamo
+stub: false
 honorific: Saint
 summary: Married to Saint Lupo of Bergamo. Mother of Saint Grata of Bergamo. Convert. Martyr.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Lupo-and-Saint-Adleida.jpg

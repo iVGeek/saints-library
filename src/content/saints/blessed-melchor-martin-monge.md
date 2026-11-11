@@ -1,5 +1,6 @@
 ---
 name: Blessed Melchor Martín Monge
+stub: true
 honorific: Blessed
 summary: Discalced Carmelite brother. Martyred in the Spanish Civil War.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Melchor-Martin-Monge.jpg

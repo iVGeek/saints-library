@@ -1,5 +1,6 @@
 ---
 name: Saint Victoriano Pío
+stub: false
 honorific: Venerable
 summary: >-
   Member of the Brothers of the Christian Schools, entering the novitiate on 30 August 1921. One of the Martyrs of

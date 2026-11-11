@@ -1,5 +1,6 @@
 ---
 name: Blessed Aldericus of Füssenich
+stub: false
 image: https://commons.wikimedia.org/wiki/Special:FilePath/F%25C3%25BCssenich%252C_Aldericuskapelle_002x.jpg?width=600
 honorific: Blessed
 summary: >-

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Lucia de Freitas
+stub: false
 honorific: Blessed
 summary: >-
   Lay woman in the archdiocese of Nagasaki, Japan. Married to Philip de Freitas. Member of the Secular Franciscans and

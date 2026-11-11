@@ -1,5 +1,6 @@
 ---
 name: Saint Demet of Plozévet
+stub: false
 honorific: Saint
 summary: Fourth-century hermit near Plozévet, Brittany (in modern France). One of the Breton Missionaries to Britain.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Demet-of-Plozévet-1.jpg

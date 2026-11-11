@@ -1,6 +1,7 @@
 ---
 image: https://www.catholic.org/files/images/saints/5376.jpg
 name: Saint Peter of Alexandria
+stub: false
 honorific: Saint
 summary: >-
   Exiled to Libya in the persecutions of Decius in 250. Arrested, brought to Alexandria, Egypt in 257 in the

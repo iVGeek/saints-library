@@ -1,5 +1,6 @@
 ---
 name: Blessed Karoliny Kózkówny
+stub: false
 honorific: Blessed
 summary: >-
   Fourth of eleven children born to the farm family of Jan and Maria Borzechka Kózka. Catechist. A teenaged virgin, she

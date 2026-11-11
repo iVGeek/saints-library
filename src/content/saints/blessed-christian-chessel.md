@@ -1,5 +1,6 @@
 ---
 name: Blessed Christian Chessel
+stub: false
 honorific: Blessed
 summary: >-
   Graduated with a degree in engineering in 1981. Worked as a volunteer in Ivory Coast for two years. Joined the

@@ -1,5 +1,6 @@
 ---
 name: Blessed Maria Ludovica de Angelis
+stub: false
 honorific: Blessed
 summary: >-
   The eldest of eight chidren born to a peasant family. Against the opposition of her family, Antonina joined the

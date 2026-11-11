@@ -1,5 +1,6 @@
 ---
 name: Blessed Alexandre Planas Saurí
+stub: false
 honorific: Blessed
 summary: >-
   Deaf layman in the archdiocese of Barcelona, Spain. Member of the Salesian Cooperators whom he considered his family.

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/a/a1/Maria_Callas_1958.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Asunción Pascual Nieto
+stub: true
 honorific: Blessed
 summary: Conceptionist nun. Martyred in the Spanish Civil War.
 birthYear: 1887

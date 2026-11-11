@@ -1,5 +1,6 @@
 ---
 name: Saint Simon of Cyrene
+stub: false
 honorific: Saint
 summary: >-
   First century convert. Father of Saint Rufus. Helped Christ carry the cross on the way to Calvary. Missionary to

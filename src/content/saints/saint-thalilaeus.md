@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Thalilaeus
+stub: false
 honorific: Saint
 summary: >-
   Fifth-century hermit for 60 years, sometimes living with no shelter but a barrel, near a pagan temple outside Gabala

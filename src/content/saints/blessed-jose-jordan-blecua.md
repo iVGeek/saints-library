@@ -1,5 +1,6 @@
 ---
 name: Blessed José Jordán Blecua
+stub: true
 honorific: Blessed
 summary: Priest in the diocese of Lleida, Spain. Martyred in the Spanish Civil War.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-José-Jordán-Blecua.jpg

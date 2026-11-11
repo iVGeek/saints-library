@@ -1,5 +1,6 @@
 ---
 name: Saint Foillan of Fosses
+stub: false
 honorific: Saint
 summary: >-
   Brother of Saint Fursey of Peronne and Saint Ultan of Péronne. Travelled with them from Ireland to East Anglia,

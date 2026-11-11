@@ -1,5 +1,6 @@
 ---
 name: Blessed Enric Canadell Quintana
+stub: false
 honorific: Blessed
 summary: >-
   Son of Francisco Canadell Presta and Margarita Quintana, Enric was baptized at the age of one day. Joined the Piarists

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Sostenaeus
+stub: true
 honorific: Blessed
 summary: No information.
 died: Mount Senario near Florence, Italy while at prayer

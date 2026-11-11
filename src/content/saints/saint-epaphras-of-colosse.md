@@ -1,5 +1,6 @@
 ---
 name: Saint Epaphras of Colosse
+stub: false
 honorific: Saint
 summary: First century missionary to Colossae, Laodicea And Hierapolis. Bishop of Colossae. Martyr. Saint Paul mentions him.
 searchAliases:

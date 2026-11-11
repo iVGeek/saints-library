@@ -1,5 +1,6 @@
 ---
 name: Blessed Maria Angela Astorch
+stub: false
 honorific: Blessed
 summary: >-
   Raised in a pious family. Poor Clare Capuchin nun at Barcelona, Spain, entering the Order on 16 September 1603 and

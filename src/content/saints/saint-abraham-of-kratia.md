@@ -1,5 +1,6 @@
 ---
 name: Saint Abraham of Kratia
+stub: false
 honorific: Saint
 summary: >-
   Monk in at Emesa (modern Hims, Syria). His community was destroyed and the brothers dispersed by pagan nomad raids

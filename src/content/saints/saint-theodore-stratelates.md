@@ -1,5 +1,6 @@
 ---
 name: Saint Theodore Stratelates
+stub: false
 honorific: Saint
 summary: >-
   Roman general (stratelates) and covert Christian during a time of persecution. Exposed as a Christian, a military

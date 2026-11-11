@@ -1,5 +1,6 @@
 ---
 name: Blessed John Angelo Porro
+stub: false
 honorific: Blessed
 summary: >-
   Servite friar in Milan, Italy, joining in 1468. Ordained a priest in Florence, Italy. Hermit at the Monte Senario

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Pomponius of Naples
+stub: true
 honorific: Saint
 summary: Bishop of Naples, Italy from 508 to 536. Fierce opponent of Arianism.
 searchAliases:

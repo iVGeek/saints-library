@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/8/85/Estatua_del_Cid_%28Burgos%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Martin Cid
+stub: false
 honorific: Saint
 summary: >-
   Benedictine Cistercian monk. Worked with Saint Bernard of Clairvaux. Founded Val-Paraiso Abbey with brothers sent by

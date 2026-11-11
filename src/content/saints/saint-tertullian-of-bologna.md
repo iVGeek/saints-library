@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Tertullian of Bologna
+stub: false
 honorific: Saint
 summary: Eighth bishop of Bologna, Italy, serving during the collapse of the western Roman Empire.
 deathYear: 490

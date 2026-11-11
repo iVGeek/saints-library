@@ -1,5 +1,6 @@
 ---
 name: Saint Asaph of Llanelwy
+stub: false
 honorific: Saint
 summary: >-
   Related to Saint Deiniol of Bangor and Saint Tysilo. Hermit near Tenegal, Wales. Servant to and spiritual student of

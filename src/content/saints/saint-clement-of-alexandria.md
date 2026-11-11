@@ -1,5 +1,6 @@
 ---
 name: Saint Clement of Alexandria
+stub: false
 honorific: Saint
 summary: >-
   Teacher at the Catechetical School in Alexandria, Egypt. He trained the famous theologian and teacher Origen. Writer

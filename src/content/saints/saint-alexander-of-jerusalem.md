@@ -1,5 +1,6 @@
 ---
 name: Saint Alexander of Jerusalem
+stub: false
 honorific: Saint
 summary: >-
   Studied in Alexandria, Egypt. Fellow student with Origen. Bishop of Cappadocia. Imprisoned from 204 to 211 for his

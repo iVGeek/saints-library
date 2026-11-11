@@ -1,5 +1,6 @@
 ---
 name: Saint Theodore of Pavia
+stub: false
 honorific: Saint
 summary: >-
   Little known of his early life. Bishop of Pavia from 743 to 778. Outspoken critic of Arianism, which caused his

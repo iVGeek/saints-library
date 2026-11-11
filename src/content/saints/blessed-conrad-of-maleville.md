@@ -1,5 +1,6 @@
 ---
 name: Blessed Conrad of Maleville
+stub: false
 honorific: Blessed
 summary: >-
   Born to the French nobility. Mercedarian knight. In 1300 he ransomed 228 Christians enslaved in Tunis, Tunisia by

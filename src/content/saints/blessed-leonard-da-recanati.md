@@ -1,5 +1,6 @@
 ---
 name: Blessed Leonard da Recanati
+stub: true
 honorific: Blessed
 title: Bishop
 summary: Mercedarian friar. Bishop.

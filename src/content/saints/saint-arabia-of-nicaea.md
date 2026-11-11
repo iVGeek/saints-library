@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/6/6b/Katharinenkloster_Sinai_BW_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Arabia of Nicaea
+stub: true
 honorific: Saint
 summary: Martyr.
 died: at Nicaea, Bithynia (modern Iznik, Turkey), date unknown

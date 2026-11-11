@@ -1,5 +1,6 @@
 ---
 name: Blessed Claude Beguignot
+stub: false
 honorific: Blessed
 summary: >-
   Carthusian priest. Imprisoned on a ship in the harbor of Rochefort, France and left to die during the anti-Catholic

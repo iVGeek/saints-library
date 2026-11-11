@@ -1,5 +1,6 @@
 ---
 name: Saint Guy of Pomposa
+stub: false
 honorific: Saint
 summary: >-
   Known in his youth for being meticulous about his clothing and appearance - until the day he realized it was simply

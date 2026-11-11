@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Adelmann of Beauvais
+stub: false
 honorific: Saint
 summary: >-
   Benedictine monk of Corbie Abbey, Amiens, France. Spiritual student of Saint Adelhard. Bishop of Beauvaus, France in

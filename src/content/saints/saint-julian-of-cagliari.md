@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Julian of Cagliari
+stub: true
 honorific: Saint
 summary: Believed to have been a count. Martyr, date unknown.
 deathYear: 1615

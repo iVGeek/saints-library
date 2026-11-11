@@ -1,6 +1,7 @@
 ---
 image: https://www.santiebeati.it/immagini/Thumbs/94126/94126.JPG
 name: Blessed Giacomo Soler
+stub: false
 honorific: Blessed
 summary: >-
   Mercedarian friar known for his dedication to Bible study. Ransomed 289 Christians enslaved by Muslims in Algiers, and

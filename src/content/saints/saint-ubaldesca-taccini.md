@@ -1,5 +1,6 @@
 ---
 name: Saint Ubaldesca Taccini
+stub: false
 honorific: Saint
 summary: >-
   An only child born to a poor but pious family, she was early drawn to religious life and the care of people even

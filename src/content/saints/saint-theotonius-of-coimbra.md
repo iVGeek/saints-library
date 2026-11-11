@@ -1,5 +1,6 @@
 ---
 name: Saint Theotonius of Coimbra
+stub: false
 honorific: Saint
 summary: >-
   Nephew of the bishop of Coimbra, Portugal. Educated at the University of Coimbra. Parish priest, assigned to Viseu,

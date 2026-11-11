@@ -1,5 +1,6 @@
 ---
 name: Blessed Eleuterio of Platea
+stub: false
 honorific: Blessed
 summary: >-
   A Mercedarian lay knight, noted for his personal piety and zeal for the austere life. In 1257 he and Blessed Ferdinand

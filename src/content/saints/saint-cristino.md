@@ -1,5 +1,6 @@
 ---
 name: Saint Cristino
+stub: true
 honorific: Saint
 summary: Martyr. No other details about his life have come down to us.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Cristino.jpg

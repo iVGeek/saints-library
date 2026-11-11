@@ -1,5 +1,6 @@
 ---
 name: Blessed Jordan Forzatei
+stub: false
 honorific: Blessed
 summary: >-
   Benedictine monk at Padua. Abbot at Saint Justina's abbey at Padua. Involved in local politics, he helped ally several

@@ -1,5 +1,6 @@
 ---
 name: Blessed Gervais-Protais Brunel
+stub: false
 honorific: Blessed
 summary: >-
   Trappist monk. Priest. Prior of La Trappe Abbey in early 1790. Imprisoned on the ship Deux-Associés in the harbor of

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Petrus Jo Yong-sam
+stub: true
 honorific: Blessed
 summary: Layman martyr in the apostolic vicariate of Korea.
 searchAliases:

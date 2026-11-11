@@ -1,5 +1,6 @@
 ---
 name: Saint Apro
+stub: true
 honorific: Saint
 summary: Priest. Hermit.
 searchAliases:

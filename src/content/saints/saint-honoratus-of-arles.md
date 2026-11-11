@@ -1,5 +1,6 @@
 ---
 name: Saint Honoratus of Arles
+stub: false
 honorific: Saint
 summary: >-
   Son of a Roman consul, and raised as a pagan. Converted to Christianity as a young man. Friend of Saint Caprasius;

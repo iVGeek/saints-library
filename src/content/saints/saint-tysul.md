@@ -1,5 +1,6 @@
 ---
 name: Saint Tysul
+stub: false
 honorific: Saint
 summary: >-
   Son of Corun; cousin of Saint David of Wales. Founded a church in Llandysul, Wales; the church and it's ancient altar

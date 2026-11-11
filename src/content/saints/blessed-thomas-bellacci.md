@@ -1,5 +1,6 @@
 ---
 name: Blessed Thomas Bellacci
+stub: false
 honorific: Blessed
 summary: >-
   Son of a butcher, he led such a wild and dissolute life that parents warned their sons to stay away from him. Accused

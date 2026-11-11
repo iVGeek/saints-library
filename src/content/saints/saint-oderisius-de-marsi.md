@@ -1,5 +1,6 @@
 ---
 name: Saint Oderisius de Marsi
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility, son of the count of Marsi. Educated at Monte Cassino monastery. Poet. Benedictine monk at Monte

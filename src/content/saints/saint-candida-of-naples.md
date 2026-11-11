@@ -1,5 +1,6 @@
 ---
 name: Saint Candida of Naples
+stub: false
 honorific: Saint
 summary: >-
   Lay woman noted throughout her region for her personal holiness. It was the work of her lifetime to convert her

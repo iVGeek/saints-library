@@ -1,5 +1,6 @@
 ---
 name: Saint Carolina Santocanale
+stub: false
 honorific: Venerable
 summary: >-
   Born to the nobility, part of the family of the barons of Celsa Reale near Palermo, Italy. Baptized at the age of

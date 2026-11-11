@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Narcís Simón Sala
+stub: true
 honorific: Blessed
 summary: Member of the Claretians. Martyred in the Spanish Civil War.
 birthYear: 1908

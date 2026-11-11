@@ -1,5 +1,6 @@
 ---
 name: Saint Spyridon of Cyprus
+stub: false
 honorific: Saint
 summary: ' Bishop of Tremithus, Cyprus. Spiritual teacher of Saint Tryphillius of Leucosia. Fought Arianism. During th Known as a pious youth as he grew up on Cyprus. Shepherd. Married, and father one of daughter. Both his wife and daughter became nuns, and he became a monk at Mount Carmel.'
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Spyridon-of-Cyprus.jpg

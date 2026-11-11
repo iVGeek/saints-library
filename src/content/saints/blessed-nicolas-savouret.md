@@ -1,5 +1,6 @@
 ---
 name: Blessed Nicolas Savouret
+stub: false
 honorific: Blessed
 summary: >-
   Priest. Member of the Franciscan Conventuals. Imprisoned on a ship in the harbor of Rochefort, France and left to die

@@ -1,5 +1,6 @@
 ---
 name: Blessed Martino of Pegli
+stub: false
 honorific: Blessed
 summary: >-
   Born to the Italian nobility, Martino became a career soldier and knight. In a moment of anger, he killed a friend and

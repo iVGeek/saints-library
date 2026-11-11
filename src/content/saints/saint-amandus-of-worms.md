@@ -1,5 +1,6 @@
 ---
 name: Saint Amandus of Worms
+stub: true
 honorific: Saint
 summary: Fourth century bishop of Worms, Germany.
 region: Germany

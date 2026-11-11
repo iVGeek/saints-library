@@ -1,5 +1,6 @@
 ---
 name: Saint Avitus of Micy
+stub: false
 honorific: Saint
 summary: Abbot of Saint-Mesmin de Micy Abbey near Orleans, France. Had the gift of prophecy.
 searchAliases:

@@ -1,5 +1,6 @@
 ---
 name: Saint Noël Chabanel
+stub: false
 honorific: Saint
 title: St. Noël Chabanel
 summary: >-

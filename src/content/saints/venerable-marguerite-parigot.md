@@ -1,5 +1,6 @@
 ---
 name: Venerable Marguerite Parigot
+stub: false
 honorific: Venerable
 summary: >-
   At age five, Margaret received her first vision of the Child Jesus. At age eleven she made her First Communion, and

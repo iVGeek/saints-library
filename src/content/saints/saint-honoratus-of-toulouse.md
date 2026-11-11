@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Honoratus of Toulouse
+stub: true
 honorific: Saint
 summary: Third century bishop of Toulouse, France. Ordained Saint Firminus II.
 searchAliases:

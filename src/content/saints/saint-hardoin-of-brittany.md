@@ -1,5 +1,6 @@
 ---
 name: Saint Hardoin of Brittany
+stub: false
 honorific: Saint
 summary: >-
   Immigrant from the British Isles to Brittany (in modern France); legend says he was brought there in a stone boat

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/e/ea/Affligemabdij5.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Fulgentius of Afflighem
+stub: false
 honorific: Blessed
 summary: >-
   Benedictine monk at the monastery of Saint Airy in Verdun, France. When the monastery, was dissolved due to political

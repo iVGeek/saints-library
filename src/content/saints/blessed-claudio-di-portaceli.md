@@ -1,5 +1,6 @@
 ---
 name: Blessed Claudio di Portaceli
+stub: false
 honorific: Blessed
 title: Cardinal
 summary: >-

@@ -1,5 +1,6 @@
 ---
 name: Saint John Southworth
+stub: false
 honorific: Venerable
 summary: >-
   Studied and was ordained at the English College, Douai, France. he returned to England on 13 October 1619 to minister

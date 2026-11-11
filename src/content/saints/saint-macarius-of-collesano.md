@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Macarius of Collesano
+stub: true
 honorific: Saint
 summary: Monk. Abbot.
 region: Italy

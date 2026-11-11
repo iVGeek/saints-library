@@ -1,5 +1,6 @@
 ---
 name: Saint Juan García López-Rico
+stub: false
 honorific: Venerable
 summary: >-
   Fifth of eight children born to Xixón and Isabel García Marcos López-Rico; three of his siblings entered religious

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Stephen of Perugia
+stub: true
 honorific: Saint
 summary: Abbot of Saint Peter's Abbey in Perugia, Italy.
 deathYear: 1026

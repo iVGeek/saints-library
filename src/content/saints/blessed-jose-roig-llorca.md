@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed José María Roig Llorca
+stub: true
 honorific: Blessed
 summary: Franciscan friar. Martyred in the Spanish Civil War.
 birthYear: 1871

@@ -1,5 +1,6 @@
 ---
 name: Blessed Jose Tàpies y Sirvant
+stub: false
 honorific: Blessed
 summary: >-
   Son of Juan Tàpies and Serafina Sirvant. Ordained a priest in the diocese of Urgell, Spain on 11 June 1892. Organist.

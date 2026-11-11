@@ -1,5 +1,6 @@
 ---
 name: Blessed Thomas Cottam
+stub: false
 honorific: Blessed
 summary: >-
   Son of Laurence Cottam and Anne Brewer; raised in a Protestant family. Educated at Brasenose College, Oxford, England,

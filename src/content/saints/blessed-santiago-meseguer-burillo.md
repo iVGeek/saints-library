@@ -1,5 +1,6 @@
 ---
 name: Blessed Santiago Meseguer Burillo
+stub: false
 honorific: Blessed
 summary: >-
   Dominican priest, professed in the Order on 9 April 1901. Taught theology in the convents and the seminary in

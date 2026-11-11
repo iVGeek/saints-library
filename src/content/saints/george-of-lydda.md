@@ -1,5 +1,6 @@
 ---
 name: George of Lydda
+stub: false
 honorific: Saint
 title: Martyr
 summary: >-

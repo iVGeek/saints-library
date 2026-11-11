@@ -1,5 +1,6 @@
 ---
 name: Blessed Fiorina Cecchin
+stub: false
 honorific: Blessed
 summary: >-
   Feeling a call to religious life from her youth, Fiorina first applied to join the Dorotee Sisters of Vicenza, but was

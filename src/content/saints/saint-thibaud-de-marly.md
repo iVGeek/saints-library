@@ -1,5 +1,6 @@
 ---
 name: Saint Thibaud de Marly
+stub: false
 honorific: Saint
 summary: >-
   Born to the French nobility, he served as a knight before renouncing worldly life and property to become a Cistercian

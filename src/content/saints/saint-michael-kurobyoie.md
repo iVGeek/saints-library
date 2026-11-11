@@ -1,5 +1,6 @@
 ---
 name: Saint Michaël Kurobyoie
+stub: true
 honorific: Venerable
 summary: Dominican lay catechist. Martyr.
 image: https://catholicsaints.info/wp-content/uploads/img-Dominican-Martyrs-of-Japan.jpg

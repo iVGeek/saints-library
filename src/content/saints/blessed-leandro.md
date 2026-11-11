@@ -1,5 +1,6 @@
 ---
 name: Blessed Leandro
+stub: false
 honorific: Blessed
 summary: >-
   Member of the Mercedarians. Noted teacher and scholar, he knew Latin, Greek, Arabic, Hebrew and Chaldean, taught

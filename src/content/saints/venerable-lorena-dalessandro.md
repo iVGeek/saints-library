@@ -1,5 +1,6 @@
 ---
 name: Venerable Lorena d'Alessandro
+stub: false
 honorific: Venerable
 summary: >-
   The eldest of three children, Lorena developed bone cancer as a small child, had a transplant at age 10, and an

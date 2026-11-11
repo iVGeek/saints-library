@@ -1,5 +1,6 @@
 ---
 name: Martyrs of Constantinople
+stub: false
 honorific: Saint
 summary: >-
   Fourth-century Christians who were exiled, branded on the forehead, imprisoned, tortured, impoverished and murdered

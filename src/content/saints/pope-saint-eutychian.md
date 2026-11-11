@@ -1,5 +1,6 @@
 ---
 name: Pope Saint Eutychian
+stub: false
 honorific: Saint
 summary: >-
   He was the 27th pope, but very little is known about him. Legend says he buried 324 martyrs with his own hands, but he

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Grimkeld of Croyland
+stub: false
 honorific: Saint
 summary: Monk at Croyland Abbey. Martyred by pagan Danes. Over 100 years of age at his death.
 searchAliases:

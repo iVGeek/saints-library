@@ -1,5 +1,6 @@
 ---
 name: Blessed Francesco Faà di Bruno
+stub: false
 honorific: Blessed
 summary: >-
   Youngest of twelve children born to Louis, Marquis of Bruno, and Carolina Milanesi, a family of wealthy nobles.

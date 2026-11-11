@@ -1,6 +1,7 @@
 ---
 image: https://www.santiebeati.it/immagini/Thumbs/91420/91420.JPG
 name: Saint Guisitano of Sardinia
+stub: true
 honorific: Saint
 summary: Martyr. No details have survived.
 died: beheaded on Sardinia

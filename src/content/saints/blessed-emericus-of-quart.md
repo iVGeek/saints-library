@@ -1,5 +1,6 @@
 ---
 name: Blessed Emericus of Quart
+stub: false
 honorific: Blessed
 summary: >-
   Born to the Italian nobility, the son of James II, lord of the region of Quart, Italy; two of his brothers also had

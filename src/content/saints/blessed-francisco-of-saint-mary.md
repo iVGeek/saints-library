@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/6/6b/Saints_Francisco_and_Jacinta_Marto_double_portrait_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Francisco of Saint Mary
+stub: true
 honorific: Blessed
 summary: Member of the Franciscan Friars Minor (Alcantarines). Priest. Martyr.
 deathYear: 1627

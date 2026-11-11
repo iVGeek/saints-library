@@ -1,5 +1,6 @@
 ---
 name: Saint Luigi Versiglia
+stub: false
 honorific: Venerable
 summary: >-
   Studied at Don Bosco's Oratory from age 12. Salesian. Ordained on 21 December 1895. Missonary to China in 1906.

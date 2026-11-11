@@ -1,5 +1,6 @@
 ---
 name: Saint Aichardus of Jumièges
+stub: false
 honorific: Saint
 summary: >-
   Son of a military officer in the court of King Clotaire II. Educated at a monastery in Poitiers, France. Destined by

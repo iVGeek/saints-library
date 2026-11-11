@@ -1,5 +1,6 @@
 ---
 name: Saint John Baptist de La Salle
+stub: false
 honorific: Saint
 summary: ' Spiritual director of Studied for the priesthood in Paris, France, but quit to care for his brothers and sisters upon the death of his parents. When his siblings were grown, John returned to seminary. Canon of Rheims, France in 1667. Ordained in 1678. Doctor of theology in 1680.'
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Jean-Baptiste-de-La-Salle.jpg

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Ansilio
+stub: true
 honorific: Saint
 summary: Seventh-century monk, and possibly a prior, of Lagny Abbey
 searchAliases:

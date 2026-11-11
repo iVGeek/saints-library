@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Gerald of Mayo
+stub: false
 honorific: Saint
 summary: >-
   Monk at Lindisfarne, England. Friend of Saint Colman of Lindesfarne. Monk at Innisboffin, Ireland in 668. Abbot at

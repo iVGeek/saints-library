@@ -1,5 +1,6 @@
 ---
 name: Saint Olympiades
+stub: false
 honorific: Saint
 summary: >-
   Pagan imperial Roman consul and magistrate who conducted the trial against Saint Firmina of Amelia for her faith. Her

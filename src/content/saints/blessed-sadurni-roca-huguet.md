@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/f/fe/Beatificaciotarragona2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Sadurní Roca Huguet
+stub: false
 honorific: Blessed
 summary: >-
   Member of the Hospitallers of Saint John of God, making his final vows on 11 November 1914. Martyred in the Spanish

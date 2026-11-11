@@ -1,5 +1,6 @@
 ---
 name: Saint Torpes of Pisa
+stub: false
 honorific: Saint
 summary: >-
   Martyred in the persecutions of Nero. Nothing else is known for sure, though that never slowed early writers who

@@ -1,5 +1,6 @@
 ---
 name: Blessed Alexander Rawlins
+stub: false
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Speech_of_Major_Gen%27l_John_A._Rawlins%2C_chief_of_staff%2C_U._S._A.%3B_General_Grant%27s_views_in_harmony_with_Congress_%28IA_speechofmajorgen00rawl%29.pdf/page1-500px-Speech_of_Major_Gen%27l_John_A._Rawlins%2C_chief_of_staff%2C_U._S._A.%3B_General_Grant%27s_views_in_harmony_with_Congress_%28IA_speechofmajorgen00rawl%29.pdf.jpg
 honorific: Blessed

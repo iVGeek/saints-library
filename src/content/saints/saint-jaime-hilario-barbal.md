@@ -1,5 +1,6 @@
 ---
 name: Saint Jaime Hilario Barbal
+stub: false
 honorific: Venerable
 summary: >-
   Raised in a pious and hardworking family near the Pyrenees mountains. Entered the seminary at age 12, but when his

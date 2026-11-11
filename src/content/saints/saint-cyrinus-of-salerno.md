@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Cyrinus of Salerno
+stub: true
 honorific: Saint
 summary: Bishop. Martyr. No other information has surived.
 searchAliases:

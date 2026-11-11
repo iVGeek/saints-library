@@ -1,5 +1,6 @@
 ---
 name: Blessed Zygmunt Pisarski
+stub: false
 honorific: Blessed
 summary: >-
   Priest of the archdiocese of Lublin, Poland, leading a parish that refused to renounce Christianity during World War

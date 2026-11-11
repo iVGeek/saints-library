@@ -1,5 +1,6 @@
 ---
 name: Blessed Pierina Morosini
+stub: false
 honorific: Blessed
 summary: >-
   One of eight children in a poor family in the diocese of Bergamo, Italy. Trained as a seamstress, she began work in a

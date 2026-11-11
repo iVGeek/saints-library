@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Valentine of Genoa
+stub: true
 honorific: Saint
 title: Bishop
 summary: Bishop of Genoa, Italy from c.295.

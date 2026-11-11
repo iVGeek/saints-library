@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Flamidianus
+stub: true
 honorific: Saint
 summary: Martyr.
 died: Catalonia (in modern Spain)

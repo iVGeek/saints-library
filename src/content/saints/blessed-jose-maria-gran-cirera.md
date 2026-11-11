@@ -1,5 +1,6 @@
 ---
 name: Blessed José María Gran Cirera
+stub: false
 honorific: Blessed
 summary: >-
   A member of the Missionaries of the Sacred Heart, joining on 8 September 1966, and making his solemn profession on 8

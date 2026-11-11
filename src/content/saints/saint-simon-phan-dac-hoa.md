@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Simon Phan Ðac Hòa
+stub: false
 honorific: Venerable
 summary: >-
   Married, father, family man, physician and mayor who worked with local charities and the missionaries working in the

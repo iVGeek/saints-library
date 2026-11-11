@@ -1,5 +1,6 @@
 ---
 name: Saint John Mary Vianney
+stub: false
 honorific: Saint
 title: St. John Mary Vianney
 summary: >-

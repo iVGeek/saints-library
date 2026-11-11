@@ -1,5 +1,6 @@
 ---
 name: Saint John of Gnesen
+stub: true
 honorific: Saint
 summary: Benedictine monk. Missionary with Saint Adalbert of Prague to the Slavs.
 image: https://catholicsaints.info/wp-content/uploads/img-Five-Polish-Brothers.jpg

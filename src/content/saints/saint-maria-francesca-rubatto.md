@@ -1,5 +1,6 @@
 ---
 name: Saint Maria Francesca Rubatto
+stub: false
 honorific: Venerable
 summary: >-
   Anna Maria lost her father at age four. In her teens she received a marriage offer from a local notary, but turned it

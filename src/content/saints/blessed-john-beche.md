@@ -1,5 +1,6 @@
 ---
 name: Blessed John Beche
+stub: false
 honorific: Blessed
 summary: >-
   Benedictine monk. Doctor of Divinity from Oxford in 1515. Abbot of Saint Werburgh abbey, Chester, England. Abbot of

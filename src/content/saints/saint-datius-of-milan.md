@@ -1,5 +1,6 @@
 ---
 name: Saint Datius of Milan
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility, a member of the Alliati family. Known for his learning and his personal piety. Bishop of Milan,

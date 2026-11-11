@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Euporus of Crete
+stub: false
 honorific: Saint
 summary: One of the Martyrs of Crete who died in the persecutions of Decius. No other information has survived.
 region: England

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/c/c5/Giovanni_Merlini_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Biagio of L'Aquila
+stub: false
 honorific: Blessed
 summary: >-
   Franciscan lay brother who travelled with and supported the work of Saint John of Capistrano. It was said that he

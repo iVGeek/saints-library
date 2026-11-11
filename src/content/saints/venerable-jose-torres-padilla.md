@@ -1,5 +1,6 @@
 ---
 name: Venerable José Torres-Padilla
+stub: false
 honorific: Venerable
 summary: >-
   The son of Francisco de Torres Bauta and María Padilla Cabeza, José was baptized at the age of six days in the parish

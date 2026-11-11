@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Himerius of Gaza
+stub: true
 honorific: Saint
 died: beheaded in Gaza, Palestine
 deathPlace: Palestine

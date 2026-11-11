@@ -1,5 +1,6 @@
 ---
 name: Venerable Rachele Lalía
+stub: false
 honorific: Venerable
 summary: >-
   Born to a pious family. At age 15, due to health problems, Rachele was entrusted to the Dominican Sisters in

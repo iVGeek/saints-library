@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Dabius
+stub: false
 honorific: Saint
 summary: >-
   May have been a spiritual student of Saint Patrick. Priest. Missionary to Scotland where several churches are named

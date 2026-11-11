@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Hortolana of Assisi
+stub: false
 honorific: Saint
 summary: >-
   Married to Count Faverone of Sciffi. Mother of Saint Agnes of Assisi and Saint Clare of Assisi. Pilgrim to assorted

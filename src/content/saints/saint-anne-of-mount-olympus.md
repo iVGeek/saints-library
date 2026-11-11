@@ -1,5 +1,6 @@
 ---
 name: Saint Anne of Mount Olympus
+stub: false
 honorific: Saint
 summary: >-
   Born to a prominent family, Anne was drawn to religious life but her parents pushed her into an arranged marriage.

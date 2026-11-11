@@ -1,5 +1,6 @@
 ---
 name: Saint George the Younger
+stub: false
 honorific: Saint
 title: Bishop
 summary: >-

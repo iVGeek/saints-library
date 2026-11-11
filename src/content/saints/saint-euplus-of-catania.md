@@ -1,5 +1,6 @@
 ---
 name: Saint Euplus of Catania
+stub: false
 honorific: Saint
 summary: >-
   Deacon. Tortured and martyred by order of governor Calvisianus in the persecutions of Diocletian for the crime of

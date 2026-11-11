@@ -1,6 +1,7 @@
 ---
 image: https://www.santiebeati.it/immagini/Thumbs/95880/95880.jpg
 name: Blessed Francisco Polvorinos Gómez
+stub: true
 honorific: Blessed
 summary: Priest. Member of the Missionary Oblates of Mary Immaculate. Martyr.
 birthYear: 1910

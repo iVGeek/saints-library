@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Françoise Bonneau
+stub: false
 honorific: Blessed
 summary: Lay woman in the diocese of Angers, France. Martyred in the persecutions of the French Revolution.
 birthYear: 1763

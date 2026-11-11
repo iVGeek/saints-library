@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Ethor of Chertsey
+stub: false
 honorific: Saint
 summary: Benedictine monk and priest at Chertsey Abbey. Martyred with 90 of his brothers by pagan Danish raiders.
 searchAliases:

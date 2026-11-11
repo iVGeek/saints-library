@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/c/c7/Cattedrale_di_Santa_Maria_del_Fiore_%E2%80%93_Il_Duomo_di_Firenze.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Christopher of Penne
+stub: false
 honorific: Blessed
 summary: >-
   Franciscan monk who lived his entire life in religion at the convent of Santissima Annunziata del Poggio of Orsogna,

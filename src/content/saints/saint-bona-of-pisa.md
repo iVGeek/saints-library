@@ -1,5 +1,6 @@
 ---
 name: Saint Bona of Pisa
+stub: false
 honorific: Saint
 summary: >-
   Mystic and visionary from her childhood. Augustinian tertiary by age 10. Pilgrim to the Holy Lands at age 14,

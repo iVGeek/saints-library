@@ -1,5 +1,6 @@
 ---
 name: Blessed Robert Middleton
+stub: false
 honorific: Blessed
 summary: Jesuit priest in the apostolic vicariate of England. Martyred in the persecutions of Queen Elizabeth I.
 birthYear: 1571

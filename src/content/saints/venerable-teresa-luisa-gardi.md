@@ -1,5 +1,6 @@
 ---
 name: Venerable Teresa Luisa Gardi
+stub: false
 honorific: Venerable
 summary: >-
   Lifelong lay women in the diocese of Imola, Italy. Franciscan tertiary. Had a great devotion to the works of Saint

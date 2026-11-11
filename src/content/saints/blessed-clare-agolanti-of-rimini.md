@@ -1,5 +1,6 @@
 ---
 name: Blessed Clare Agolanti of Rimini
+stub: false
 honorific: Blessed
 summary: >-
   Born to the nobility. Married twice, she spent most of her time in dissolute, sinful pleasures. When her father and

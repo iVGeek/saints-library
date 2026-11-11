@@ -1,5 +1,6 @@
 ---
 name: Saint Euthymius of Alexandria
+stub: false
 honorific: Saint
 summary: Deacon in Alexandria, Egypt. Imprisoned for his faith, he eventually died of mistreatment. Martyr.
 searchAliases:

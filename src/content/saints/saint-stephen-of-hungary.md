@@ -1,5 +1,6 @@
 ---
 name: Saint Stephen of Hungary
+stub: false
 honorific: Saint
 summary: >-
   Born to a pagan family, but was baptized at age 10 with his father. King of the Magyars in Hungary. Married to Blessed

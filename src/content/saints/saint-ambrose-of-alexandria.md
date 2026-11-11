@@ -1,5 +1,6 @@
 ---
 name: Saint Ambrose of Alexandria
+stub: false
 honorific: Saint
 summary: >-
   Rich nobleman of Alexandria, Egypt. Friend and financial supporter of Origen. Imprisoned for his faith in the

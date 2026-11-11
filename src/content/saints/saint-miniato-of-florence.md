@@ -1,5 +1,6 @@
 ---
 name: Saint Miniato of Florence
+stub: false
 honorific: Saint
 summary: >-
   Soldier, though he is often depicted as a military prince. Evangelized among his fellow troops when stationed in

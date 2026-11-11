@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Laurence of North Africa
+stub: true
 honorific: Saint
 summary: One of a group of 22 martyrs. No other information has survived.
 region: England

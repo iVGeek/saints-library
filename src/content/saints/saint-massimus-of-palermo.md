@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Massimus of Palermo
+stub: false
 honorific: Saint
 summary: >-
   Martyred in the persecutions of Diocletian. The monastery of San Massimo di Lucusiano in Palermo, founded by Pope

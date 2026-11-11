@@ -1,5 +1,6 @@
 ---
 name: Venerable Augustin Arnaud Pagès
+stub: false
 honorific: Venerable
 summary: >-
   Member of the Brothers of the Christian Schools. He worked in Cuba, establishing several Catholic youth associations,

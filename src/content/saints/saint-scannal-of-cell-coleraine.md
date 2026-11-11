@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Scannal of Cell-Coleraine
+stub: true
 honorific: Saint
 summary: Spiritual student in Ireland of Saint Columba of Iona. Zealous missionary.
 searchAliases:

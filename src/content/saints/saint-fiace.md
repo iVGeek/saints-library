@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Fiace
+stub: false
 honorific: Saint
 summary: >-
   Prince of Hy-Bairrche, Ireland; son of MacDara. Nephew of the famous bard and convert Dubhtach who taught him to sing.

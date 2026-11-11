@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Wenog
+stub: false
 honorific: Saint
 summary: Listed on several liturgical calendars, but no details of his life have survived.
 born: Wales

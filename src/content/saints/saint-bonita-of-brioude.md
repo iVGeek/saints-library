@@ -1,5 +1,6 @@
 ---
 name: Saint Bonita of Brioude
+stub: false
 honorific: Saint
 summary: >-
   Tenth-century young woman in the region of Brioude, Aquitaine (in modern France) who miraculously caused the river

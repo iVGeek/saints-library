@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/f/fb/Saint_Anthony_%28Damaskinos%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Antonius of Alexandria
+stub: true
 honorific: Saint
 summary: Martyr.
 died: drowned in the sea at Alexandria, Egypt

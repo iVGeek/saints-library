@@ -1,5 +1,6 @@
 ---
 name: Venerable Oscar Gattiani
+stub: false
 honorific: Venerable
 summary: >-
   Oscar grew up helping in the small grocery his parents operated. In 1929, at age 15, he began the Capuchin novitiate

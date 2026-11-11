@@ -1,5 +1,6 @@
 ---
 name: Blessed Eugénie Joubert
+stub: false
 honorific: Blessed
 summary: >-
   Fourth of eight children born to wine-makers Pietro Joubert and Antonia Celle; she was baptized on the day she was

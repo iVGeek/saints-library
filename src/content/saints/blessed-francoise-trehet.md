@@ -1,5 +1,6 @@
 ---
 name: Blessed Françoise Tréhet
+stub: false
 honorific: Blessed
 summary: >-
   Born to the nobility, she grew up in a family of wealthy land-owners. Joined of the Soeurs de la Charité de Notre-Dame

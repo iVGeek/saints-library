@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Faustinus of Rome
+stub: true
 honorific: Saint
 summary: Brother of Saint Beatrice of Rome. Martyred in the persecutions of Diocletian.
 deathYear: 303

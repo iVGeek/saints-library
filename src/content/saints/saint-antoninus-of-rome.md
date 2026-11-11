@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/8/8e/Sant%27antonino_pierozzi_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Antoninus of Rome
+stub: false
 honorific: Saint
 summary: >-
   Imperial government executioner in the reign of Commodus. Convert who had to immediately turn his back on all his

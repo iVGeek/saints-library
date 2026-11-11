@@ -1,5 +1,6 @@
 ---
 name: Saint Modeste of Chartres
+stub: false
 honorific: Saint
 summary: >-
   Daughter of Quirinus, the imperial Roman magistrate in Chartres (in modern France) in the 2nd century. She converted

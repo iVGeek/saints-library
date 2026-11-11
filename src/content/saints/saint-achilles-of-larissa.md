@@ -1,5 +1,6 @@
 ---
 name: Saint Achilles of Larissa
+stub: false
 honorific: Saint
 summary: >-
   Born to an imperial Roman patrician family, he received a good education, especially in philosophy. On the death of

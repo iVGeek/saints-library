@@ -1,5 +1,6 @@
 ---
 name: Martyrs of the Salarian Way
+stub: false
 honorific: Saint
 summary: >-
   A group of 260 Christians who, for their faith, were condemned to road work on the Salarian Way in Rome, Italy during

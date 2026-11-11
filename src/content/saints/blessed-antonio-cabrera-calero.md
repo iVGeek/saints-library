@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/7/7e/LocationPuertoRico.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Antonio Cabrera Calero
+stub: false
 honorific: Blessed
 summary: >-
   Priest in the diocese of Córdoba, Spain, serving as an assistant pastor in the Pedroche community. Martyred in the

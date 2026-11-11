@@ -1,5 +1,6 @@
 ---
 name: Saint Jacinta Marto
+stub: true
 honorific: Venerable
 summary: Youngest visionary of Our Lady of Fatima in Portugal in 1917.
 image: https://catholicsaints.info/wp-content/uploads/img-Jacinta-Marto.jpg

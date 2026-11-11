@@ -1,5 +1,6 @@
 ---
 name: Saint Jose Isabel Flores Varela
+stub: false
 honorific: Venerable
 summary: >-
   Seminarian at Guadalajara, Mexico. Parish priest at Zapotlanejo, Jalisco, Mexico in 1900. Strong and gentle father to

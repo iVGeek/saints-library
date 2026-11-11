@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Dubtach Mac Dubhan
+stub: true
 honorific: Saint
 summary: Ninth century priest.
 born: Ireland

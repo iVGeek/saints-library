@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Darerca
+stub: false
 honorific: Saint
 summary: >-
   Sister of Saint Patrick. Married to Conis. Mother of nineteen children, ten of whom became bishops; they include Saint

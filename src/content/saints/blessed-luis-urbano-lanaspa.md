@@ -1,5 +1,6 @@
 ---
 name: Blessed Luis Urbano Lanaspa
+stub: false
 honorific: Blessed
 summary: >-
   Dominican priest, professed in the Order on 30 October 1899. He earned degrees in physics and theology, and taught for

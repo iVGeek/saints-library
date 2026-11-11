@@ -1,5 +1,6 @@
 ---
 name: Saint Canio
+stub: true
 honorific: Saint
 summary: Convert to Christianity. Bishop of a region of the North African coast.
 image: https://catholicsaints.info/wp-content/uploads/canio.jpg

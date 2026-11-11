@@ -1,5 +1,6 @@
 ---
 name: Blessed Edward Detkens
+stub: false
 honorific: Blessed
 summary: >-
   Priest in the archdiocese of Warsaw, Poland where he served as chaplain to university students and personnel, and

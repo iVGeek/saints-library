@@ -1,5 +1,6 @@
 ---
 name: Saint Eleutherius of Bithynia
+stub: false
 honorific: Saint
 summary: >-
   Imperial Roman senator. Chamberlain to Emperor Maximian Galerius at Constantinople. Convert to Christianity, after

@@ -1,5 +1,6 @@
 ---
 name: Blessed Luigi Maria Monti
+stub: false
 honorific: Blessed
 summary: >-
   Eighth of eleven children. His father died when Luigi was twelve years old. To support the family he made wooden craft

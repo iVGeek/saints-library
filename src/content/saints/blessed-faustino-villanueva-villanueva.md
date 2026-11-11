@@ -1,5 +1,6 @@
 ---
 name: Blessed Faustino Villanueva y Villanueva
+stub: false
 honorific: Blessed
 summary: >-
   A member of the Missionaries of the Sacred Heart, joining on 8 September 1949, and making his perpetual profession in

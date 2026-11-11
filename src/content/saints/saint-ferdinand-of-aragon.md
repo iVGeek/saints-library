@@ -1,5 +1,6 @@
 ---
 name: Saint Ferdinand of Aragon
+stub: false
 honorific: Saint
 summary: >-
   Born to the royal family of Aragon, Spain, and the rulers of the two Sicilies, the fourth child of King Sancho III and

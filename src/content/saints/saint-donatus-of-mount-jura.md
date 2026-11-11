@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Donatus of Mount Jura
+stub: false
 honorific: Saint
 summary: >-
   Deacon. Priest. Following a pilgrimage to the tomb of Saint Martin of Tours, he retired from world to live as a hermit

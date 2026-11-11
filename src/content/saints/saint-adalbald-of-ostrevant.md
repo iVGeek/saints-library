@@ -1,5 +1,6 @@
 ---
 name: Saint Adalbald of Ostrevant
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility of Flanders, Belgium. Son of Saint Gertrude the Elder. Duke of Douai, France. Served in the

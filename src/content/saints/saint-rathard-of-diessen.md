@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Rathard of Diessen
+stub: true
 honorific: Saint
 title: Priest
 summary: Born to the nobility. Priest. Built a church and monastery in Diessen, Germany.

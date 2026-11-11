@@ -1,5 +1,6 @@
 ---
 name: Saint Brice of Tours
+stub: false
 honorific: Saint
 summary: >-
   An orphan rescued by Saint Martin of Tours, and raised by Martin's clerics. Though ostensibly a spiritual student of

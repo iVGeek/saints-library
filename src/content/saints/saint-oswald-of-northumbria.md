@@ -1,5 +1,6 @@
 ---
 name: Saint Oswald of Northumbria
+stub: false
 honorific: Saint
 summary: >-
   Son of the pagan King Aethelfrith the Ravager of Bernicia and Princess Aacha of Deira, the second of seven children.

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/3/36/Saint_Francis_Caracciolo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Cristiana of Assisi
+stub: false
 honorific: Blessed
 summary: >-
   Daughter of Suppo di Bernardo. Poor Clare nun. May have been one of the founders of the monastery of San Damiano in

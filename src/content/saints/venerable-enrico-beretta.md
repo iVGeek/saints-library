@@ -1,5 +1,6 @@
 ---
 name: Venerable Enrico Beretta
+stub: false
 honorific: Venerable
 summary: >-
   The seventh of thirteen children born to Alberto and Maria Beretta, Enrico was raised in a pious family - one sister

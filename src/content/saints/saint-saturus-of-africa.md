@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Saturus of Africa
+stub: false
 honorific: Saint
 summary: >-
   Wealthy master of the household of the anti-Christian Arian and then pagan Vandal king Genseric. When Genseric cracked

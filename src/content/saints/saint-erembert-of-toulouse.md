@@ -1,5 +1,6 @@
 ---
 name: Saint Erembert of Toulouse
+stub: false
 honorific: Saint
 summary: >-
   Benedictine monk at Fontenelle Abbey c.640. Bishop of Toulouse, France, c.656, and ruled for 12 years. In his later

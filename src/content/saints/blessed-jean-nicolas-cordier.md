@@ -1,5 +1,6 @@
 ---
 name: Blessed Jean-Nicolas Cordier
+stub: false
 honorific: Blessed
 summary: >-
   Jean-Nicolas joined the Jesuits in Nancy, France on 28 September 1728. Priest. After studying at the University of

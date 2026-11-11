@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Conall of Inniscoel
+stub: false
 honorific: Saint
 summary: Monk. Seventh-century abbot of Inniscoel Abbey in Donegal, Ireland where there is a holy well dedicated to him.
 searchAliases:

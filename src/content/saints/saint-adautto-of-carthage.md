@@ -1,5 +1,6 @@
 ---
 name: Saint Adautto of Carthage
+stub: true
 honorific: Saint
 summary: Martyred in the persecutions of Diocletian.
 searchAliases:

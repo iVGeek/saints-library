@@ -1,5 +1,6 @@
 ---
 name: Blessed Michal Rapacz
+stub: false
 honorific: Blessed
 summary: >-
   Born to a farm family, the son of Jan and Marianna née Wójcik. Having studied in the seminary of Kraków, Poland,

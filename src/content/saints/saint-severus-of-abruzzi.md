@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Severus of Abruzzi
+stub: false
 honorific: Saint
 summary: >-
   Priest in the Abruzzi region of Italy. Saint Gregory the Great writes that Severus brought a man back from the dead

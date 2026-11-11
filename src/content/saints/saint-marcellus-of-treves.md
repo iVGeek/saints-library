@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Marcellus of Treves
+stub: true
 honorific: Saint
 summary: Bishop.
 searchAliases:

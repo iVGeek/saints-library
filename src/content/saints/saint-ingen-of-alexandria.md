@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Ingen of Alexandria
+stub: false
 honorific: Saint
 summary: >-
   Imperial Roman soldier assigned to guard a group of Egyptian Christians imprisoned for their faith in the persecutions

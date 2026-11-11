@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/8/89/St_Ethelbert_the_King.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Offa of Essex
+stub: true
 honorific: Saint
 summary: King of Essex, England. He gave up the crown to become a monk in Rome, Italy.
 deathYear: 709

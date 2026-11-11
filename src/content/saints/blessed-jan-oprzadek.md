@@ -1,5 +1,6 @@
 ---
 name: Blessed Jan Oprzadek
+stub: false
 honorific: Blessed
 summary: >-
   Joined the Franciscan Friars Minor in the province of Saint Mary of the Angels in 1912. Drafted into military service

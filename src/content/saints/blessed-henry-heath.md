@@ -1,5 +1,6 @@
 ---
 name: Blessed Henry Heath
+stub: false
 honorific: Blessed
 summary: >-
   Raised in a Protestant family, Henry became a minister in the Church of England. Convert to Catholicism. Joined the

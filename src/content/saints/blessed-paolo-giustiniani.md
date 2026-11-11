@@ -1,5 +1,6 @@
 ---
 name: Blessed Paolo Giustiniani
+stub: false
 honorific: Blessed
 summary: >-
   Born to the Venetian nobility, the son of Francesco Giustiniani and Paola Malipiero. Studied theology and philosophy

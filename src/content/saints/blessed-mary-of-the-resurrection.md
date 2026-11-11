@@ -1,5 +1,6 @@
 ---
 name: Blessed Mary of the Resurrection
+stub: false
 honorific: Blessed
 summary: >-
   Blood sister of Blessed Clemenzia of the Holy Trinity and Blessed Mary of Colonna. Mercedarian nun at the monastery of

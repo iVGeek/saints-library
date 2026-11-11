@@ -1,5 +1,6 @@
 ---
 name: Venerable Luigi Maria Olivares
+stub: false
 honorific: Venerable
 summary: >-
   Ordained on 4 April 1896. Joined the Salesians of Don Bosco on 15 November 1905. Bishop of Nepi e Sutri, Italy on 15

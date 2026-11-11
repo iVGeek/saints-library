@@ -1,5 +1,6 @@
 ---
 name: Saint Goran
+stub: false
 image: >-
   https://commons.wikimedia.org/wiki/Special:FilePath/Goran_persson_swedish_pm_election_rally_2006-sept-05_gothenburg_closeup_img1_edit.jpg?width=600
 honorific: Saint

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Sapor
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Beth-Nictor, he was known for the number of converts he brought to the faith. Denounced for interfering with

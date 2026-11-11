@@ -1,5 +1,6 @@
 ---
 name: Saint Vigilius of Brescia
+stub: false
 honorific: Saint
 summary: >-
   Priest. Fourteenth bishop of Brescia, Italy, serving in the latter 5th century and early 6th century. He evangelized

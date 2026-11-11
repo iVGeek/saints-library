@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Sobel
+stub: true
 honorific: Saint
 summary: Martyred in Egypt. No other information has survived.
 region: Egypt

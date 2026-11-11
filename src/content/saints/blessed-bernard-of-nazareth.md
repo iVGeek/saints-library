@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/e/e3/Guido_Reni_-_St_Joseph_with_the_Infant_Jesus_-_WGA19304.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Bernard of Nazareth
+stub: false
 honorific: Blessed
 summary: >-
   Priest. Bishop. He relocated to Palestine in the wake of the First Crusade, travelling with the forces who mustered at

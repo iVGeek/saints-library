@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Giselbert of Cappenberg
+stub: false
 honorific: Blessed
 summary: Servant to Blessed Godfrey of Cappenberg. Premonstratensian monk. Lector. Known for his charity.
 died: early 12th century

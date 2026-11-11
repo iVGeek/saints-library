@@ -1,5 +1,6 @@
 ---
 name: Saint Magnus the Deacon
+stub: true
 image: https://commons.wikimedia.org/wiki/Special:FilePath/Deacon_dalmatic_20100418.jpg?width=600
 honorific: Saint
 summary: Deacon. Martyred with Pope Saint Sixtus II and other deacons.

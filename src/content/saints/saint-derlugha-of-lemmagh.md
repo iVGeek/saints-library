@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Derlugha of Lemmagh
+stub: true
 honorific: Saint
 summary: Nun.
 searchAliases:

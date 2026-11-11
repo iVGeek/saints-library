@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Venustian of Spoleto
+stub: false
 honorific: Saint
 summary: Layman convert. He and his family were part of a group of martyrs in the persecutions of Diocletian.
 deathYear: 303

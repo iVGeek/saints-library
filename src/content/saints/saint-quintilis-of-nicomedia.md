@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Quintilis of Nicomedia
+stub: true
 honorific: Saint
 summary: Martryed at Nicomedia, date unknown. No other information has survived.
 region: England

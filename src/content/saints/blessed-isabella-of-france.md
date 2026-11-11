@@ -1,5 +1,6 @@
 ---
 name: Blessed Isabella of France
+stub: false
 honorific: Blessed
 summary: >-
   Born a princess, the daughter of King Louis VIII of France and Blanche of Castile; sister of Saint Louis IX; aunt of

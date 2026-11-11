@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Lluís Estruch Vives
+stub: false
 honorific: Blessed
 summary: >-
   Franciscan Capuchin friar, making his first profession on 9 September 1934. He never made his solemn profession as he

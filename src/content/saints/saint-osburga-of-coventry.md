@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Osburga of Coventry
+stub: true
 honorific: Saint
 summary: First abbess of a convent founded by King Canute in Coventry, England.
 searchAliases:

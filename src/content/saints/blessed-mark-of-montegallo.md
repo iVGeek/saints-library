@@ -1,5 +1,6 @@
 ---
 name: Blessed Mark of Montegallo
+stub: false
 honorific: Blessed
 summary: >-
   Italian noble from the Marches of Ancona. Physician. Married layman; both he and his wife joined the Franciscans, she

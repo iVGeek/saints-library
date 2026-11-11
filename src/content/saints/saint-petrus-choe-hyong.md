@@ -1,5 +1,6 @@
 ---
 name: Saint Petrus Ch’oe Hyong
+stub: false
 honorific: Venerable
 summary: >-
   Married layman, father and family man in the apostolic vicariate of Korea. Adult convert. Catechist. Worked with Saint

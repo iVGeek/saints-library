@@ -1,5 +1,6 @@
 ---
 name: Saint Actinea of Volterra
+stub: true
 honorific: Saint
 summary: Martyred in the persecutions of Diocletian. No other information has survived.
 died: beheaded at Volterra, Etruria, Italy in the early 4th century

@@ -1,5 +1,6 @@
 ---
 name: Blessed María Pilar Gullón Yturriaga
+stub: false
 honorific: Blessed
 summary: >-
   The eldest of four children born to Manuel Gullón and Pilar Yturriaga. Member of Catholic Action and the Daughters of

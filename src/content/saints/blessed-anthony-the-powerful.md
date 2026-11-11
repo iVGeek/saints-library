@@ -1,5 +1,6 @@
 ---
 name: Blessed Anthony the Powerful
+stub: false
 image: >-
   https://commons.wikimedia.org/wiki/Special:FilePath/Saint_Anthony_of_Padua_Shrine_-_St_John_the_Evangelist_Cathedral_%252847400408702%2529.jpg?width=600
 honorific: Blessed

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Sanctan of Kill-da-Les
+stub: false
 honorific: Saint
 summary: Son of King Sawyl Penuchel and Dechter. Sixth-century bishop of Kill-da-Les (Kill-na-Sanctan) in Ireland.
 searchAliases:

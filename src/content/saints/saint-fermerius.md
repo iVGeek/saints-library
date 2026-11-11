@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Fermerius
+stub: false
 honorific: Saint
 summary: >-
   A reputation for piety, evidence of devotion to him, but we have no information about his life or work. There are

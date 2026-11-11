@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Conval of Strathclyde
+stub: false
 honorific: Saint
 summary: >-
   Son of an Irish prince. Spiritual student of Saint Kentigern. Archdeacon and priest. One day as he stood on the edge

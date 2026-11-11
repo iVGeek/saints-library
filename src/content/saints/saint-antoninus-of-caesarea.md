@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/e/ec/MSR-ra-61-b-1-DM.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Antoninus of Caesarea
+stub: false
 honorific: Saint
 summary: >-
   Christian man who was scourged and martyred in the persecutions of Diocletian and Galerius. Just before he died, the

@@ -1,5 +1,6 @@
 ---
 name: Blessed Antonio Arribas Hortigüela
+stub: false
 honorific: Blessed
 summary: >-
   Student at the minor seminary of the Missionaries of the Sacred Heart in Canet de Mar, Spain, and then joined the

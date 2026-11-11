@@ -1,6 +1,7 @@
 ---
 image: https://www.catholic.org/files/images/saints/2770.jpg
 name: Saint Cristiolus
+stub: false
 honorific: Saint
 summary: Brother of Saint Sulian. Founded churches, including in Anglesey and Pembrokeshire in Wales.
 born: Wales

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/e/e3/Carlo_Lodi_313M.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Biagio of Cento
+stub: false
 honorific: Blessed
 title: Priest
 summary: >-

@@ -1,5 +1,6 @@
 ---
 name: Saint Claudius the Martyr
+stub: false
 honorific: Saint
 summary: >-
   Husband of Saint Hilaria. Father of Saint Jason and Saint Maurus. Roman military tribune. Converted to Christianity

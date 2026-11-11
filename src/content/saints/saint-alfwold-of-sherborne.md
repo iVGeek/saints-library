@@ -1,5 +1,6 @@
 ---
 name: Saint Alfwold of Sherborne
+stub: false
 honorific: Saint
 summary: >-
   Monk in Winchester, England. Bishop of Sherborne, England in 1045. Had a great devotion to Saint Cuthbert and Saint

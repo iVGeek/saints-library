@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Peter the Spaniard
+stub: true
 honorific: Saint
 title: Hermit
 summary: Pilgrim from Spain to Rome. Settled to live as a hermit in Babuco, Italy.

@@ -1,5 +1,6 @@
 ---
 name: Saint John Camillus the Good
+stub: false
 honorific: Saint
 summary: >-
   Archbishop of Milan, Italy in the mid-7th-century, the first to live in the city for 80 years, his predecessors being

@@ -1,5 +1,6 @@
 ---
 name: Blessed Tirso Manrique Melero
+stub: false
 honorific: Blessed
 summary: >-
   After studying with Jesuits at the seminary in Tarazona, Spain, Tirso was ordained a priest on 1 April 1911. He then

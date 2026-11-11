@@ -1,5 +1,6 @@
 ---
 name: Blessed Girolamo da Recanati
+stub: false
 honorific: Blessed
 summary: >-
   Priest. Member of the Hermits of Saint Augustine, and lived in their convent in Recanati, Italy. Worked as a

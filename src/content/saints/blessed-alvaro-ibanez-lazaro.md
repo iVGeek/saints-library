@@ -1,5 +1,6 @@
 ---
 name: Blessed Álvaro Ibáñez Lázaro
+stub: false
 honorific: Blessed
 summary: >-
   Baptized at the age of one day. Member of the Brothers of the Christian Schools, joining at Cambrils, Spain on 10

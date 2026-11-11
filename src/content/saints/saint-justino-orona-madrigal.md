@@ -1,5 +1,6 @@
 ---
 name: Saint Justino Orona-Madrigal
+stub: false
 honorific: Venerable
 summary: >-
   Priest in the archdiocese of Guadalajara, Mexico. Founded the Hermanas Clarisas del Sagrado Corazón. Martyred in the

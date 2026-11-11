@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Potamon of Heraclea
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Heraclea, Egypt. Tortured, mutilated and crippled for his faith during the persecutions of Maximinus Daia in

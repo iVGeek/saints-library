@@ -1,5 +1,6 @@
 ---
 name: Saint John of Ávila
+stub: false
 honorific: Venerable
 title: Missionary
 summary: >-

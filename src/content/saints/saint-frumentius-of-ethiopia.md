@@ -1,5 +1,6 @@
 ---
 name: Saint Frumentius of Ethiopia
+stub: false
 honorific: Saint
 summary: >-
   Brother of Saint Aedesius. Student of the philosopher Meropius. While on a voyage on the Red Sea, their ship wrecked

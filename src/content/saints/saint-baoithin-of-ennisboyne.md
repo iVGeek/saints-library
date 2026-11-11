@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Baoithin of Ennisboyne
+stub: true
 honorific: Saint
 summary: No information available.
 searchAliases:

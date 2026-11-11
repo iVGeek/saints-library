@@ -1,5 +1,6 @@
 ---
 name: Saint Dominic de la Calzada
+stub: false
 honorific: Saint
 summary: >-
   Feeling a call to religious life, Dominic tried to join the Benedictines at Valvanera, Spain, but was turned away.

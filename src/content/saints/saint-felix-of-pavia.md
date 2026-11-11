@@ -1,5 +1,6 @@
 ---
 name: Saint Felix of Pavia
+stub: true
 honorific: Saint
 summary: Bishop. Martyr.
 died: Pavia, Italy, date unknown

@@ -1,5 +1,6 @@
 ---
 name: Saint Virgilius of Salzburg
+stub: false
 honorific: Saint
 summary: >-
   Benedictine monk. Pilgrim to the Holy Land in 743, and on the way home he stopped in Bavaria - and stayed. Worked with

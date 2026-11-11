@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Lambert of Neuwerk
+stub: false
 honorific: Blessed
 summary: >-
   Augustinian Canon Regular at the abbey of Rottenbuch, Germany. He helped found the canonry at Neuwerk bei Halle,

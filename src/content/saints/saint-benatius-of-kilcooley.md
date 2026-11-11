@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Benatius of Kilcooley
+stub: true
 honorific: Saint
 summary: Mentioned in early Irish martyrologies, but no details about him have survived.
 region: Ireland

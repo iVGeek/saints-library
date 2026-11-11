@@ -1,5 +1,6 @@
 ---
 name: Saint Anastasia the Patrician
+stub: false
 honorific: Saint
 summary: >-
   Christian Byzantine noble. Lady-in-waiting to the Empress Theodora in Constantinople. To escape the unwanted

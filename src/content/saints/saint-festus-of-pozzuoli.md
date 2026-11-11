@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Festus of Pozzuoli
+stub: false
 honorific: Saint
 summary: Deacon to Saint Januarius of Naples. Imprisoned and martyred in the persecutions of Diocletian.
 deathYear: 304

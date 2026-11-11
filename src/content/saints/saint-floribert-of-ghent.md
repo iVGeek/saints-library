@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Floribert of Ghent
+stub: false
 honorific: Saint
 summary: Abbot of monasteries in Ghent, Mont-Blandin and Saint-Bavon in Belgium. Worked with Saint Amandus.
 searchAliases:

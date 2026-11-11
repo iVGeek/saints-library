@@ -1,5 +1,6 @@
 ---
 name: Saint Remaclus of Maastricht
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility, Remaclus grew up in and around the royal court of Aquitaine (in modern France. Studied under

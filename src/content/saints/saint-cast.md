@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Cast
+stub: false
 honorific: Saint
 summary: >-
   Monk in 6th-century Ireland and Wales. Spiritual student of Saint Jacut. He travelled from Wales to Armorica, an area

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Venerable Luigi Savaré
+stub: true
 honorific: Venerable
 summary: Priest in the diocese of Lodi, Italy.
 birthYear: 1878

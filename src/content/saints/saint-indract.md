@@ -1,5 +1,6 @@
 ---
 name: Saint Indract
+stub: false
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/7/78/Halton_Quay_and_Tamar_valley_market_gardening_-_geograph.org.uk_-_674933.jpg
 honorific: Saint

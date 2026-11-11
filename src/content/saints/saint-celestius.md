@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Celestius
+stub: true
 honorific: Saint
 summary: Martyr. No other information has survived.
 searchAliases:

@@ -1,5 +1,6 @@
 ---
 name: Saint Gemma Galgani
+stub: false
 honorific: Venerable
 summary: >-
   Eldest daughter of a poor pharmacist; her mother died when Gemma was seven, her father when the girl was eighteen, and

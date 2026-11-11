@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/0/07/Martyrdom-of-Paul-Miki-and-Companions-in-Nagasaki-%28made-c1635%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Paul of Numidia
+stub: true
 honorific: Saint
 summary: Second century martyr.
 died: in Numidia in North Africa

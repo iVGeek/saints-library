@@ -1,5 +1,6 @@
 ---
 name: Blessed Pere Roca Toscas
+stub: false
 honorific: Blessed
 summary: >-
   Drawn to religious life in his early teens. Had a great love of literature, especially Catalan, and wrote poetry.

@@ -1,5 +1,6 @@
 ---
 name: Saint Brigid of Moin-Miolain
+stub: false
 honorific: Saint
 summary: A saint venerated in Moin-Miolain, Ireland, but the little information we have is confused and contradictory.
 searchAliases:

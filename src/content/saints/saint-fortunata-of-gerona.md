@@ -1,5 +1,6 @@
 ---
 name: Saint Fortunata of Gerona
+stub: true
 honorific: Saint
 summary: Martyr. No other details have survived.
 died: Gerona, Catalonia, Spain, date unknown

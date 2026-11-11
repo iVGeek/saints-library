@@ -1,5 +1,6 @@
 ---
 name: Saint Aurelia of Strasbourg
+stub: false
 honorific: Saint
 summary: >-
   Born a princess, a member of the royal family of Hugh Capet. To escape marriage, she fled to Alsace and lived as a

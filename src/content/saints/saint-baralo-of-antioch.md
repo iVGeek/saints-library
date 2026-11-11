@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Baralo of Antioch
+stub: true
 honorific: Saint
 summary: Nun. Martyr.
 died: Antioch, Syria

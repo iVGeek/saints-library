@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Scalleria of Nicomedia
+stub: true
 honorific: Saint
 summary: Martyr.
 died: in Nicomedia, Bithynia, Asia Minor (modern Izmet, Turkey)

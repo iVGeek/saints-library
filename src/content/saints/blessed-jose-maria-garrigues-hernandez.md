@@ -1,5 +1,6 @@
 ---
 name: Blessed José María Garrigues Hernández
+stub: false
 honorific: Blessed
 summary: >-
   Franciscan Capuchin friar, making his profession on 15 August 1912. Priest, ordained on 9 February 1919. School

@@ -1,5 +1,6 @@
 ---
 name: Blessed Antoine Auriel
+stub: false
 honorific: Blessed
 summary: >-
   Priest and parochial vicar in the diocese of Cahors, France. Imprisoned on a ship in the harbor of Rochefort, France

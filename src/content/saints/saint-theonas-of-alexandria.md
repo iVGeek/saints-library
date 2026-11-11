@@ -1,5 +1,6 @@
 ---
 name: Saint Theonas of Alexandria
+stub: false
 honorific: Saint
 summary: Teacher at Origen's school of theology in Alexandria, Egypt. Priest. Bishop of Alexandria in 282.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Theonas-of-Alexandria.jpg

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/a/a5/04_2024_Notre_Dame_Paris_8862.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed François Peltier
+stub: false
 honorific: Blessed
 summary: Priest of the diocese of Angers, France. Martyred in the persecutions of the French Revolution.
 birthYear: 1728

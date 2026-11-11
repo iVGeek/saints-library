@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Joan Buxó Font
+stub: true
 honorific: Blessed
 summary: Member of the Claretians. Priest. Martyred in the Spanish Civil War.
 birthYear: 1879

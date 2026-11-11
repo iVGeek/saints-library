@@ -1,5 +1,6 @@
 ---
 name: Saint Aristion of Salamis
+stub: true
 honorific: Saint
 summary: One of Jesus's 72 disciples. Preached in Cyprus. Martyr.
 died: burned to death on a funeral pyre at the Battle of Salamis in Cyprus

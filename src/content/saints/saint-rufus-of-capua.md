@@ -1,5 +1,6 @@
 ---
 name: Saint Rufus of Capua
+stub: false
 honorific: Saint
 summary: Spiritual student of Saint Apollinaris of Ravenna. Bishop of Capua, Italy. Martyred in the persecutions of Diocletian.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Rufus-of-Capua.jpg

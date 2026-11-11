@@ -1,5 +1,6 @@
 ---
 name: Saint Marcian of Constantinople
+stub: false
 honorific: Saint
 summary: >-
   One of a group of ten Christians who were arrested, tortured and executed for defending an icon of Christ in defiance

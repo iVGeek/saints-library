@@ -1,5 +1,6 @@
 ---
 name: Saint Arnoul the Martyr
+stub: true
 honorific: Saint
 summary: Sixth-century missionary to the Franks. Martyr.
 searchAliases:

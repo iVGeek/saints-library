@@ -1,5 +1,6 @@
 ---
 name: Saint Mary of Cleophas
+stub: false
 honorific: Saint
 summary: >-
   Mother of Saint James the Lesser. Sister of Our Lady. Present at the Crucifixion, and went to Christ's tomb on Easter

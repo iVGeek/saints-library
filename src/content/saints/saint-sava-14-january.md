@@ -1,5 +1,6 @@
 ---
 name: Saint Sava
+stub: false
 honorific: Saint
 summary: >-
   Prince of Serbia, the son of King Stephen I Nemanya. He took the name Sava (Sabas) when he became a monk at Mount

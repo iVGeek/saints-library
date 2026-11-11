@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/1/1c/Bakhita_Szent_Jozefina.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Bernard of Rodez
+stub: false
 honorific: Blessed
 summary: >-
   Augustinian monk as a young man. Spiritual student of Blessed Gausberto of Montsalvy. Monk at Montsalvy abbey. Chosen

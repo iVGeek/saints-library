@@ -1,5 +1,6 @@
 ---
 name: Saint Peter of Pappacarbone
+stub: false
 honorific: Saint
 summary: >-
   Born to the Salerno nobility; relative of Saint Alferius of La Cava. Benedictine monk at Cava, Italy while still a

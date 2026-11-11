@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/7/75/Martyrdom-of-Nagasaki-Painting-1622.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Francisco Vicente Edo
+stub: true
 honorific: Blessed
 summary: Member of the De La Salle Brothers. Martyred in the Spanish Civil War.
 searchAliases:

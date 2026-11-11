@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Maelcethair
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility and related to King Fiatach Finn, Maelcethair went out as a missionary across Ireland. With Saint

@@ -1,5 +1,6 @@
 ---
 name: Blessed Adam Arakawa
+stub: true
 honorific: Blessed
 summary: Married layman catechist martyr in the diocese of Funai, Japan.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Adam-Arakawa.jpg

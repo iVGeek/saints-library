@@ -1,5 +1,6 @@
 ---
 name: Blessed Acacio Calleja Santamaría
+stub: false
 honorific: Blessed
 summary: >-
   Baptized at the age of 2 days. Member of the Congregation of Saint Peter ad Vincula, making his profession in 1934 in

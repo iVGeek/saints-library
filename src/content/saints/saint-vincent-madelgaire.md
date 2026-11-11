@@ -1,5 +1,6 @@
 ---
 name: Saint Vincent Madelgaire
+stub: false
 honorific: Saint
 summary: >-
   Married to Saint Waltrude c.635; son-in-law of Saint Bertille. Father of four: Saint Madalberta, Saint Landericus,

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/c/ca/JuandePalafoxyMendoza.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Gregorio Escobar García
+stub: false
 honorific: Blessed
 summary: Professed priest in the Missionary Oblates of Mary Immaculate. Martyred in the Spanish Civil War.
 birthYear: 1912

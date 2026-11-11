@@ -1,5 +1,6 @@
 ---
 name: Saint Verano of Cavaillon
+stub: false
 honorific: Saint
 summary: >-
   Ordained in 540. Hermit in Vaucluse, France. Pilgrim to Rome, Italy. Bishop of Cavaillon, France in 568. Godfather of

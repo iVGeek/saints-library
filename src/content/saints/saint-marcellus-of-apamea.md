@@ -1,5 +1,6 @@
 ---
 name: Saint Marcellus of Apamea
+stub: false
 honorific: Saint
 summary: >-
   Civil magistrate noted for his honesty, justice and mercy. Chosen bishop of Apamea, Syria in the late 4th century.

@@ -1,5 +1,6 @@
 ---
 name: Blessed Crescencia Valls Espí
+stub: false
 honorific: Blessed
 summary: >-
   Lay woman in the archdiocese of Valencia, Spain. The daughter of Joaquin Valls and Francisca Espí, Crescensia was

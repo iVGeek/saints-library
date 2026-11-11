@@ -1,5 +1,6 @@
 ---
 name: Saint Alexander of Corinth
+stub: true
 honorific: Saint
 summary: Martyred in the persecutions of Julian the Apostate.
 deathYear: 361

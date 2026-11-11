@@ -1,5 +1,6 @@
 ---
 name: Blessed Sancja Szymkowiak
+stub: false
 honorific: Blessed
 summary: >-
   Youngest of five children, the only daughter of Augustine and Mary Duchalska. After high school Janina studied

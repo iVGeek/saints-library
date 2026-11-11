@@ -1,5 +1,6 @@
 ---
 name: Blessed Faustino Oteiza Segura
+stub: false
 honorific: Blessed
 summary: >-
   Son of Isidoro Oteiza and Angela Segura. Baptized at the age of one day. Studied at the Piarist College of Estella,

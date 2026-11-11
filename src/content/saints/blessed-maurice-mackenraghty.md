@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Maurice Mackenraghty
+stub: false
 honorific: Blessed
 summary: >-
   Parish priest in the diocese of Limerick, Ireland. Spent two years in prison and then executed for refusing to accept

@@ -1,5 +1,6 @@
 ---
 name: Saint Abbo II of Metz
+stub: true
 honorific: Saint
 summary: Bishop of Metz, France from 697 to 707.
 searchAliases:

@@ -1,5 +1,6 @@
 ---
 name: Saint Ninfa of Palermo
+stub: false
 honorific: Saint
 summary: >-
   The daughter of Aureliano, imperial Roman prefect of Palermo, Ninfa was raised in a pagan household. She was brought

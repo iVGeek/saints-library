@@ -1,5 +1,6 @@
 ---
 name: Blessed Blandina Merten
+stub: false
 honorific: Blessed
 summary: >-
   After graduating from the Marienau Institute of Teaching, Maria taught in several Catholic elementary schools in the

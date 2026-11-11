@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/48/Painting_of_the_Nagasaki_Martyrs.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Leo Sukeemon
+stub: false
 honorific: Blessed
 summary: Layman in the archdiocese of Nagasaki, Japan. Member of the Confraternity of the Rosary. Martyr.
 deathYear: 1622

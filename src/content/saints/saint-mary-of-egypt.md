@@ -1,5 +1,6 @@
 ---
 name: Saint Mary of Egypt
+stub: false
 honorific: Saint
 summary: >-
   Beautiful, spoiled, cynical, disenchanted, rich child who was the center of her family's pride, and who repaid them by

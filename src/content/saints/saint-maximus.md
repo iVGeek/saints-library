@@ -1,6 +1,7 @@
 ---
 image: https://upload.wikimedia.org/wikipedia/commons/Donatello%20%28attr.%29%2C%20san%20massimo%2001.JPG
 name: Saint Maximus
+stub: true
 honorific: Saint
 summary: Martyred in the persecutions of Decius.
 searchAliases:

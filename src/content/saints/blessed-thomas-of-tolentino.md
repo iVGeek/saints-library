@@ -1,5 +1,6 @@
 ---
 name: Blessed Thomas of Tolentino
+stub: false
 honorific: Blessed
 summary: >-
   Joined the Franciscans as a young man; he was noted by his brothers for his strict adherence to the Rule of the Order.

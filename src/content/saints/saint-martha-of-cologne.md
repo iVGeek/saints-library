@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/9/9d/Carlo_Crivelli_041.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Martha of Cologne
+stub: true
 honorific: Saint
 summary: Martyr. May have been part of the group that travelled with Saint Ursula.
 died: Cologne, Germany

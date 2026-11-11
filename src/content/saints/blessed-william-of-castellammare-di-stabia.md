@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/7/7c/Ortigia_%28SR%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed William of Castellammare di Stabia
+stub: false
 honorific: Blessed
 summary: Franciscan friar. Missionary to Palestine. Imprisoned and murdered by Muslims for this work. Martyr.
 deathYear: 1364

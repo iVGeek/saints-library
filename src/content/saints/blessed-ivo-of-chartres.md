@@ -1,5 +1,6 @@
 ---
 name: Blessed Ivo of Chartres
+stub: false
 honorific: Blessed
 summary: >-
   Born to the French nobility. Studied in Paris and the abbey of Bec in Normandy. Fellow student with Saint Anselm of

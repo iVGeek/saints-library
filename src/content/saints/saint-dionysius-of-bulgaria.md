@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Dionysius of Bulgaria
+stub: true
 honorific: Saint
 summary: Archbishop from Bulgaria. Missionary to Russia. Built a monastery in Novgorod.
 deathYear: 1180

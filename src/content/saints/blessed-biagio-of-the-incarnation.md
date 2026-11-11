@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Biagio of the Incarnation
+stub: true
 honorific: Blessed
 title: Deacon
 summary: Mercedarian deacon at the Incarnation convent in Valdonquillo, Spain.

@@ -1,5 +1,6 @@
 ---
 name: Blessed María del Carmen Viel Ferrando
+stub: false
 honorific: Blessed
 summary: >-
   Lay woman in the archdiocese of Valencia, Spain. Baptized at the age of two days, and made her First Communion on 24

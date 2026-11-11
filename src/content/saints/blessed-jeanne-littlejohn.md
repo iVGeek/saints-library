@@ -1,5 +1,6 @@
 ---
 name: Blessed Jeanne Littlejohn
+stub: false
 honorific: Blessed
 summary: >-
   Member of the Missionary Sisters of Our Lady of the Apostles, making her first vows on 8 September 1959 and taking the

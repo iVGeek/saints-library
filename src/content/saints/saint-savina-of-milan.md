@@ -1,5 +1,6 @@
 ---
 name: Saint Savina of Milan
+stub: false
 honorific: Saint
 summary: Martyred for ministering to Christian prisoners and for burying martyrs during the persecutions of Diocletian.
 image: >-

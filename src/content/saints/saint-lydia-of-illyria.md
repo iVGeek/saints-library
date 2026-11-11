@@ -1,5 +1,6 @@
 ---
 name: Saint Lydia of Illyria
+stub: false
 honorific: Saint
 summary: >-
   Married to Saint Philetus of Illyria; mother of Saint Macedo of Illyria and Saint Theoprepius of Illyria. Martyred in

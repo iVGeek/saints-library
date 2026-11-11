@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Ronan of Iona
+stub: false
 honorific: Saint
 summary: >-
   Monk at Iona Abbey. Was involved in the controversy with Saint Finan of Iona concerning the celebration of Easter.

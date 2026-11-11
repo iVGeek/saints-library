@@ -1,5 +1,6 @@
 ---
 name: Saint Arno of Würzburg
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Würzburg, Germany in 855. Helped organize Crusaders from Bohemia, Moravia and Normandy. Killed by pagan

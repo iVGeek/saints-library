@@ -1,5 +1,6 @@
 ---
 name: Blessed Gemma of Goriano
+stub: false
 honorific: Blessed
 summary: >-
   Born to a poor but pious farm family, they all moved into the village of Goriano Sicoli, diocese of Sulmona, Italy to

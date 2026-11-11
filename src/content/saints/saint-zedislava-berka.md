@@ -1,5 +1,6 @@
 ---
 name: Saint Zedislava Berka
+stub: false
 honorific: Saint
 summary: >-
   Born to the Bohemian nobility. Married laywoman, and mother of four. Hers was not a happy marriage, and her largesse

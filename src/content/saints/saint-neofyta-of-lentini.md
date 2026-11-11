@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Neofyta of Lentini
+stub: false
 honorific: Saint
 summary: >-
   Born to the Sicilian nobility; sister of Saint Isadora of Lentini. Married. Mother of Saint Neofytus of Lentini.

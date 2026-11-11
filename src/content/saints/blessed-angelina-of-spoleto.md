@@ -1,5 +1,6 @@
 ---
 name: Blessed Angelina of Spoleto
+stub: false
 honorific: Blessed
 summary: >-
   Born to the Italian nobility; her father's name was Antonio. She became a Poor Clare nun c.1440 at the Sante Lucia

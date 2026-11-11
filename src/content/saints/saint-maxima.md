@@ -1,6 +1,7 @@
 ---
 image: https://www.catholic.org/files/images/saints/745.jpg
 name: Saint Maxima
+stub: false
 honorific: Saint
 summary: Slave in imperial Rome. Martyred with Saint Ansanus in the persecutions of Diocletian.
 deathYear: 304

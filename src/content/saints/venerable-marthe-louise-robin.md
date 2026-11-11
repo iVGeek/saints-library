@@ -1,5 +1,6 @@
 ---
 name: Venerable Marthe-Louise Robin
+stub: false
 honorific: Venerable
 summary: >-
   Lay woman in the diocese of Valence, France. Mystic and visionary, and reported to have received the stigmata. Founded

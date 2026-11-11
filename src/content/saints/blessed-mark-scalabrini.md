@@ -1,5 +1,6 @@
 ---
 name: Blessed Mark Scalabrini
+stub: false
 honorific: Blessed
 summary: >-
   Born to the nobility. Joined the Dominicans in Modena, Italy. Priest. Noted preacher throughout central and northern

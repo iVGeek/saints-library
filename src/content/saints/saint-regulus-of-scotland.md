@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Regulus of Scotland
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Patras, Greece. Custodian of the relics of Saint Andrew the Apostle. In 345 he received a vision telling him

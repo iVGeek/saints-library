@@ -1,5 +1,6 @@
 ---
 name: Blessed Santiago Mestre Iborra
+stub: false
 honorific: Blessed
 summary: >-
   Seventh of the nine children born to Onofre Mestre and Mercedes Iborra, Santiago was baptized at the age of two days.

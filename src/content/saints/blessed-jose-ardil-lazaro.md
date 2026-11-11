@@ -1,6 +1,7 @@
 ---
 image: https://www.santiebeati.it/immagini/Thumbs/100487/100487.JPG
 name: Blessed José Ardil Lázaro
+stub: false
 honorific: Blessed
 summary: >-
   Young layman in the diocese of Cartegena, Spain. Member of the Association of the Sons of Mary of the Miraculous

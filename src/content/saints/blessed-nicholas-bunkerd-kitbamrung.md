@@ -1,5 +1,6 @@
 ---
 name: Blessed Nicholas Bunkerd Kitbamrung
+stub: false
 honorific: Blessed
 summary: >-
   One of six children. His parents were converts, and he was raised as a Christian. Entered the Hang Xan Minor Seminary

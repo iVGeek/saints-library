@@ -1,5 +1,6 @@
 ---
 name: Blessed Pelayo José Granado Prieto
+stub: true
 honorific: Blessed
 summary: Vincentian priest. Martyred in the Spanish Civil War.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Pelayo-José-Granado-Prieto.jpg

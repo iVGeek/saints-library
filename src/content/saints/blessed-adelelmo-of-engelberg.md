@@ -1,5 +1,6 @@
 ---
 name: Blessed Adelelmo of Engelberg
+stub: false
 honorific: Blessed
 summary: >-
   Benedictine monk at the Saint Blaise of Hirsau monastery in the Black Forest. He led several brother monks to the new

@@ -1,5 +1,6 @@
 ---
 name: Blessed Andrew of Montereale
+stub: false
 honorific: Blessed
 summary: >-
   Joined the Augustinians at age 14 in Montereale, Italy. Priest. Travelling preacher in Italy and France, known for his

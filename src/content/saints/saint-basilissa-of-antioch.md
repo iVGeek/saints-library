@@ -1,5 +1,6 @@
 ---
 name: Saint Basilissa of Antioch
+stub: false
 honorific: Saint
 summary: >-
   Married to Saint Julian of Antioch, they agreed to mutual vows of chastity, and lived as brother and sister, devoted

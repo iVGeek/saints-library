@@ -1,5 +1,6 @@
 ---
 name: Saint Acutius of Pozzuoli
+stub: false
 honorific: Saint
 summary: >-
   Christian layman imprisoned and martyred in the persecutions of Diocletian for objecting to the deaths of other

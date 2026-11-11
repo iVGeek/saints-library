@@ -1,5 +1,6 @@
 ---
 name: Saint Eutychius of Thrace
+stub: true
 honorific: Saint
 summary: Bishop of Perinthus, Thrace (in modern Turkey). Martyr.
 searchAliases:

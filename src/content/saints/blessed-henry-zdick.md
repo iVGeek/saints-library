@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Henry Zdick
+stub: false
 honorific: Blessed
 summary: >-
   Bohemian prince; son of King Wratislas I. Bishop of Olmutz (in the modern Czech Republic) in 1126. During a pilgrimage

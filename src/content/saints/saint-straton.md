@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Straton
+stub: true
 honorific: Saint
 summary: Martyr.
 died: tied to two bent trees then released so he was torn in half

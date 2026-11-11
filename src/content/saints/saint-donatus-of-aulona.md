@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Donatus of Aulona
+stub: true
 honorific: Saint
 summary: Martyr.
 died: Aulona, Illyricum (modern Vlorë, Albania)

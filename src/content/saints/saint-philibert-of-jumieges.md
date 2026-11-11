@@ -1,5 +1,6 @@
 ---
 name: Saint Philibert of Jumièges
+stub: false
 honorific: Saint
 summary: >-
   The only son of a member of the court of King Dagobert I. Educated by Saint Ouen of Rouen. Monk of Rébais Abbey at age

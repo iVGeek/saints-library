@@ -1,5 +1,6 @@
 ---
 name: Saint Basilides the Senator
+stub: false
 honorific: Saint
 summary: >-
   Imperial Roman senator. During the persecutions of Diocletian he was exposed as a Christian. He was removed from

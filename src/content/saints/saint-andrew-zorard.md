@@ -1,5 +1,6 @@
 ---
 name: Saint Andrew Zorard
+stub: false
 honorific: Saint
 summary: >-
   Missionary hermit in the area of Olawa, Silesia (in modern Poland). Monk in Tropie, Poland. Hermit and then

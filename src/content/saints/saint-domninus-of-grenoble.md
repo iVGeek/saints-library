@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Domninus of Grenoble
+stub: true
 honorific: Saint
 title: Bishop
 summary: First bishop of Grenoble, France.

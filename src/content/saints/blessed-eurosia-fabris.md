@@ -1,5 +1,6 @@
 ---
 name: Blessed Eurosia Fabris
+stub: false
 honorific: Blessed
 summary: >-
   Born to a farm family, the daughter of Luigi and Maria Fabris, she grew up with the nickname Rosina. In 1870, when

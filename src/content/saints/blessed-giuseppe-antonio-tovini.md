@@ -1,5 +1,6 @@
 ---
 name: Blessed Giuseppe Antonio Tovini
+stub: false
 honorific: Blessed
 summary: >-
   Eldest of seven children born to Moses and Rosa Malaguzzi; uncle and god-father of Blessed Mose Tovini. Studied law at

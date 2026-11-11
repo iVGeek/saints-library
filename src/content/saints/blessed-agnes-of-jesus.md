@@ -1,5 +1,6 @@
 ---
 name: Blessed Agnès of Jesus
+stub: false
 honorific: Blessed
 summary: >-
   Third of eight children born to Pierre Galand and Guillemette Massiote. A pious girl, Agnès consecrated herself to the

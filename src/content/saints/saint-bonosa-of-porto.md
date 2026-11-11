@@ -1,5 +1,6 @@
 ---
 name: Saint Bonosa of Porto
+stub: true
 honorific: Saint
 summary: Martyred in the persecutions of Aurelian.
 deathYear: 207

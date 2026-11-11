@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Maurice Eustace
+stub: true
 honorific: Blessed
 summary: Layman in the archdiocese of Dublin, Ireland. One of the Irish Martyrs.
 deathYear: 1581

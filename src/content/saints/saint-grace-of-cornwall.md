@@ -1,5 +1,6 @@
 ---
 name: Saint Grace of Cornwall
+stub: false
 honorific: Saint
 summary: >-
   Married to Saint Probus of Cornwall. No other information has come down to us. During renovation of the church named

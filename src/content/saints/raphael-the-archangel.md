@@ -1,5 +1,6 @@
 ---
 name: Raphael the Archangel
+stub: false
 honorific: Saint
 summary: >-
   Archangel. One of the three angels mentioned by name in Scripture, and one of the seven that stand before God's

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Josep Reixach Reguer
+stub: false
 honorific: Blessed
 summary: >-
   Member of the Claretians, professed on 10 November 1891. Ordained a priest on 6 April 1889. Martyred in the Spanish

@@ -1,5 +1,6 @@
 ---
 name: Saint Archippus of Colossi
+stub: false
 honorific: Saint
 summary: >-
   Companion of Saint Paul the Apostle. Tradition says he was one of the 72 disciples. In the canonical Epistle to the

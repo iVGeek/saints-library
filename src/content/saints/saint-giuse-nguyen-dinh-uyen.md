@@ -1,5 +1,6 @@
 ---
 name: Saint Giuse Nguyen Ðình Uyen
+stub: false
 honorific: Venerable
 summary: >-
   Layman Dominican tertiary and catechist. Died after being imprisoned for his faith during the persecutions of Emperor

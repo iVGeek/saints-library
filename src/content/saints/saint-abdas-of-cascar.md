@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Abdas of Cascar
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Beth-Cascar, Chaldea (Susa, Persia). When he destroyed a Zoroastrian temple and refused to re-build it, he

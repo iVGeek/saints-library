@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Concordius of Saintes
+stub: true
 honorific: Saint
 title: Bishop
 summary: Bishop of Saintes, France c.600.

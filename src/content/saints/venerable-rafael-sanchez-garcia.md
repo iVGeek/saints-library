@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Venerable Rafael Sánchez García
+stub: false
 honorific: Venerable
 summary: >-
   Ordained a priest of the archdiocese of Mérida-Badajoz, Spain on 29 June 1936. Being ordained at the start of the

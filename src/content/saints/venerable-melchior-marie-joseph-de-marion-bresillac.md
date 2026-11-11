@@ -1,5 +1,6 @@
 ---
 name: Venerable Melchior-Marie-Joseph de Marion-Brésillac
+stub: false
 honorific: Venerable
 summary: >-
   Member of La Société des Missions Etrangères. Ordained a priest on 22 December 1838. Pro-Vicar Apostolic of

@@ -1,5 +1,6 @@
 ---
 name: Saint Columba of Sens
+stub: false
 honorific: Saint
 summary: >-
   Born to the Spanish nobility. At age 16 she and other Christians fled Spain for Gaul (modern France) to escape the

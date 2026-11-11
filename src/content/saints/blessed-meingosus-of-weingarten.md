@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Meingosus of Weingarten
+stub: false
 honorific: Blessed
 summary: Benedictine monk. Abbot of at Weingarten abbey in Swabia (in modern Germany) c.1188.
 searchAliases:

@@ -1,5 +1,6 @@
 ---
 name: Saint Fermin of Mende
+stub: true
 honorific: Saint
 summary: Bishop of Mende, France.
 searchAliases:

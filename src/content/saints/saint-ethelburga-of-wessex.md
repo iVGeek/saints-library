@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Ethelburga of Wessex
+stub: false
 honorific: Saint
 summary: >-
   Queen of Wessex (part of modern England) from 688 to 726, married to Saint Ina of Wessex. Late in life, Ina abdicated,

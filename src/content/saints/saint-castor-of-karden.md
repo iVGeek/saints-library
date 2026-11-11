@@ -1,5 +1,6 @@
 ---
 name: Saint Castor of Karden
+stub: false
 honorific: Saint
 summary: >-
   Spiritual student of Saint Maximinus of Trier. Priest, ordained by Maximinus in the mid-4th-century. Hermit at Karden

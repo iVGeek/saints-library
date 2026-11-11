@@ -1,5 +1,6 @@
 ---
 name: Saint Acheric of Vosges
+stub: true
 honorific: Saint
 summary: Hermit at a monastery in the Vosges region of France.
 deathYear: 860

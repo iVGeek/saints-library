@@ -1,5 +1,6 @@
 ---
 name: Saint Protus of Aquileia
+stub: false
 honorific: Saint
 summary: >-
   Tutor and catechist to Saints Cantius, Cantian and Cantianilla of Aquileia. To escape the persecutions of Diocletian,

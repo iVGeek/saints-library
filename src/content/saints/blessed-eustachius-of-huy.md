@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Eustachius of Huy
+stub: false
 honorific: Blessed
 summary: >-
   Eldest of the sons of Blessed Ivetta of Huy, he was eventually brought to the faith by her. Cistercian monk at the

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Honulphus of Sens
+stub: true
 honorific: Saint
 summary: Father of Saint Honobertus of Sens. 38th bishop of Sens, France c.755.
 searchAliases:

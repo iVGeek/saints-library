@@ -1,5 +1,6 @@
 ---
 name: Saint Marie Amandine
+stub: false
 honorific: Venerable
 summary: >-
   One of seven children in a pious family; three of her siblings went into religious life. Her mother died when Pauline

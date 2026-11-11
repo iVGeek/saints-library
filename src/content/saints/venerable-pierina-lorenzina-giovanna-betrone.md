@@ -1,5 +1,6 @@
 ---
 name: Venerable Pierina Lorenzina Giovanna Betrone
+stub: true
 honorific: Venerable
 summary: Capuchin Poor Clare nun.
 image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Pierina-Lorenzina-Giovanna-Betrone.jpg

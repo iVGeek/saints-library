@@ -1,5 +1,6 @@
 ---
 name: Saint Melania the Elder
+stub: false
 honorific: Saint
 summary: >-
   Married; mother; grandmother of Saint Melania the Younger. Widowed at age 21. Travelled through Palestine for several

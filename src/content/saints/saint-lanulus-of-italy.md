@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Lanulus of Italy
+stub: false
 honorific: Saint
 summary: Martyred at an unknown date and location in Italy. No other information has survived.
 searchAliases:

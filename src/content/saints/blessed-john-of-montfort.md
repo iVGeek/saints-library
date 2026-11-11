@@ -1,5 +1,6 @@
 ---
 name: Blessed John of Montfort
+stub: false
 honorific: Blessed
 summary: >-
   Benedictine Knight Templar of Jerusalem. Wounded in combat with the Saracens, he was taken to Cyprus where he never

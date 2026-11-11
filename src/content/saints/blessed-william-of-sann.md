@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/d/d9/Flora_of_Kwangtung_and_Hongkong.djvu?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 name: Blessed William of Sann
+stub: false
 honorific: Blessed
 summary: Count of Sann. Married to Blessed Hemma of Gurk. Died while returning home from pilgrimage.
 deathYear: 1015

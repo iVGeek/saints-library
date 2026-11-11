@@ -1,5 +1,6 @@
 ---
 name: Saint Acacius Agathangelos of Melitene
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Hither, Asia (Melitene in Armenia, modern Malatya, Turkey). He intervened in the Council of Ephesus to

@@ -1,5 +1,6 @@
 ---
 name: Saint Acca of Hexham
+stub: false
 honorific: Saint
 summary: >-
   Grew up in the household of Saint Bosa of York, and became his spiritual student, aide, and travelling companion.

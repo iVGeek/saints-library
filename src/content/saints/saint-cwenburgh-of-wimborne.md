@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Cwenburgh of Wimborne
+stub: false
 honorific: Saint
 summary: >-
   Daughter of the viceroy Conrad of Wessex; sister of King Ina of Wessex in England; sister of Saint Cuthburgh of

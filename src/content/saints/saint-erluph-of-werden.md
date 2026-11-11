@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Erluph of Werden
+stub: true
 honorific: Saint
 summary: Missionary to Germany. Bishop of Werden, Germany. Martyred by pagans.
 searchAliases:

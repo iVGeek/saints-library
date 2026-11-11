@@ -1,5 +1,6 @@
 ---
 name: Pope Saint Sixtus III
+stub: false
 honorific: Saint
 summary: >-
   Chosen 44th pope in 432. Approved the results of the Council of Ephesus. Corresponded extensively with Saint Augustine

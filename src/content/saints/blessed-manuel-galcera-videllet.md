@@ -1,5 +1,6 @@
 ---
 name: Blessed Manuel Galcerá Videllet
+stub: false
 honorific: Blessed
 summary: >-
   Manuel studied at the seminary in Zaragoza, Spain, and was ordained a priest on 1 June 1901. He joined the Hermandad

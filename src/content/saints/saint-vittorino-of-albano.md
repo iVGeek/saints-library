@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Vittorino of Albano
+stub: true
 honorific: Saint
 summary: Martyr. No other information has survived.
 died: Albano, Italy

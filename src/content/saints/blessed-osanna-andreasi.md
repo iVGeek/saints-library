@@ -1,5 +1,6 @@
 ---
 name: Blessed Osanna Andreasi
+stub: false
 honorific: Blessed
 summary: >-
   Daughter of Italian nobles Nicolaus and Agnes. Reported to have had a vision of angels, paradise, and the Trinity at

@@ -1,5 +1,6 @@
 ---
 name: Blessed Paula de San Antonio
+stub: false
 honorific: Blessed
 summary: >-
   Professed religious in the Sisters of the Christian Doctrine, joining in 1900, and serving as a teacher. Martyred in

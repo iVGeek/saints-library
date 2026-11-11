@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/8/81/Ani_Harabeleri_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Basil of Tiberiopolis
+stub: false
 honorific: Saint
 summary: Deacon. Martyred in the persecutions of Julian the Apostate. No other information has survived.
 deathYear: 361

@@ -1,5 +1,6 @@
 ---
 name: Saint Eulogius of Cordoba
+stub: false
 honorific: Saint
 summary: >-
   Son of a senatorial family from Cordoba, Spain. Well educated. Priest. Head of an ecclesiastical school. Worked to

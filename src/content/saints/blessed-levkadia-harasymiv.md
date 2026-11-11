@@ -1,5 +1,6 @@
 ---
 name: Blessed Levkadia Harasymiv
+stub: false
 honorific: Blessed
 summary: >-
   Greek Catholic. Entered the Sisters of Saint Joseph in 1931, taking her vows in 1933. Arrested for her faith by the

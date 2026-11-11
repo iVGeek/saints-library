@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/c/cc/Quingua_Church%2C_Plaridel%2C_Bulacan%2C_Mar_2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Manuel Ruiz Caballero
+stub: false
 honorific: Blessed
 summary: >-
   Priest of the diocese of Córdoba, Spain, serving int he Hinojosa del Duque community. Martyred in the Spanish Civil

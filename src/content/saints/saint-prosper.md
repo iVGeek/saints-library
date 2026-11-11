@@ -1,5 +1,6 @@
 ---
 name: Saint Prosper of Reggio
+stub: false
 honorific: Saint
 summary: >-
   A good student in his youth, especially of the work of Saint Augustine of Hippo; Prosper was known throughout his life

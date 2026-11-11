@@ -1,5 +1,6 @@
 ---
 name: Blessed Ludwik Mzyk
+stub: false
 honorific: Blessed
 summary: >-
   The fifth of ten children born in the family of a pious coal miner. Early feeling a call to the priesthood, Ludwyk

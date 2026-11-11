@@ -1,5 +1,6 @@
 ---
 name: Blessed Francisco Arias Martín
+stub: false
 honorific: Blessed
 summary: >-
   Ordained in 1909. Joined the Hospitallers of Saint John of God in 1935. Member of the community in Ciempozuelos,

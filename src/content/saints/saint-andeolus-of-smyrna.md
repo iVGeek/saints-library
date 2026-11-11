@@ -1,5 +1,6 @@
 ---
 name: Saint Andeolus of Smyrna
+stub: false
 honorific: Saint
 summary: >-
   Sub-deacon in Smyrna. Spiritual student of Saint Polycarp of Smyrna who sent him with Saint Benignus, Saint Andochius,

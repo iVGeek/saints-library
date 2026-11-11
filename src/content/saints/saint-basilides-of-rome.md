@@ -1,5 +1,6 @@
 ---
 name: Saint Basilides of Rome
+stub: true
 honorific: Saint
 summary: One of a group of 23 martyrs who died together in the persecutions of Aurelian.
 deathYear: 270

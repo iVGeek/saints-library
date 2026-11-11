@@ -1,5 +1,6 @@
 ---
 name: Saint Gleb
+stub: false
 honorific: Saint
 summary: ' After Vladimir''s death, the kingdom was to have been divided among his sons, but their eldest half-brother, Svyatopolk, wished to rule alone. Son of Saint Vladimir I of Kiev and Anne of Constantinople, Duke of Muscovy. Brother of Saint Boris; great-grandson of Saint Olga of Kiev.'
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Gleb-and-Saint-Boris.jpg

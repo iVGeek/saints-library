@@ -1,5 +1,6 @@
 ---
 name: Saint Secunda of Rome
+stub: true
 honorific: Saint
 summary: Nun. Martyred in the persecutions of Valerian.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Rufina-and-Saint-Secunda.jpg

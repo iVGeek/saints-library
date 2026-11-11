@@ -1,5 +1,6 @@
 ---
 name: Blessed Zygmunt Sajna
+stub: false
 honorific: Blessed
 summary: >-
   Parish priest of the archdiocese of Warsaw, Poland, serving in Góra Kalwaria and known as a beloved spiritual advisor.

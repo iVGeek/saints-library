@@ -1,5 +1,6 @@
 ---
 name: Blessed Alexandru Rusu
+stub: false
 honorific: Blessed
 summary: >-
   One of twelve children of a priest in the Saulia Commune, Mures, Romania. Ordained a priest in the Romanian

@@ -1,5 +1,6 @@
 ---
 name: Blessed Marie Rose Durocher
+stub: false
 honorific: Blessed
 summary: >-
   Tenth of eleven children. Drawn to the religious life, but turned away due to frail health. She became housekeeper to

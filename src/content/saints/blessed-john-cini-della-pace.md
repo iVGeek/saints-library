@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/8/8f/OFS-Mezin%C3%A1rodn%C3%AD_znak.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Giovanni Cini della Pace
+stub: false
 honorific: Blessed
 summary: >-
   A soldier in the army of the Republic of Pisa, Italy. A bit wild by nature, he was imprisoned at one point for the 8

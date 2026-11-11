@@ -1,5 +1,6 @@
 ---
 name: Blessed Protasi Cubells Minguell
+stub: false
 honorific: Blessed
 summary: >-
   A member of the Hospitallers of Saint John of God, he lived and served in several houses, sometimes as as vicar-prior.

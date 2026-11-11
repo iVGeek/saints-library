@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Imina of Würzburg
+stub: false
 honorific: Saint
 summary: >-
   Daughter of Duke Hedan II of Thuringia. Donated Marienburg castle in Würzburg, Germany to Bishop Burkhard, and retired

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/8/87/Pulilan_Church_20191027jwilz.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Isidro Juan Martínez
+stub: false
 honorific: Blessed
 summary: >-
   Layman in the diocese of Cartagena, Spain. Member of the Association of the Sons of Mary of the Miraculous Medal.

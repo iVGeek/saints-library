@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint John of Ravenna
+stub: false
 honorific: Saint
 title: Bishop
 summary: Bishop of Ravenna, Italy during a period when the area of devastated by war with the Lombards.

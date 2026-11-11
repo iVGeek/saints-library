@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Primitiva
+stub: true
 honorific: Saint
 summary: An early martyr in Rome, Italy. No other information has survived.
 searchAliases:

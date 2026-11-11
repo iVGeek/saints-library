@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/Saint%20Susanna%20statue%20-%20Cathedral%20of%20Santiago%20de%20Compostela.JPG
 name: Saint Susanna
+stub: false
 honorific: Saint
 summary: >-
   One of a group of wives of 2nd century martyred soldiers under the command of Saint Meletius. Following the death of

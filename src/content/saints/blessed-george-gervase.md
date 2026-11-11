@@ -1,5 +1,6 @@
 ---
 name: Blessed George Gervase
+stub: false
 honorific: Blessed
 summary: >-
   George spent an adventurous youth, travelling to the West Indies with the explorer Sir Francis Drake. He entered the

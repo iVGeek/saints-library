@@ -1,5 +1,6 @@
 ---
 name: Blessed Titus Zeman
+stub: false
 honorific: Blessed
 summary: >-
   Joined the Salesians of Don Bosco in 1931, and made his solemn vows on 7 March 1938. Ordained a priest in 1940.

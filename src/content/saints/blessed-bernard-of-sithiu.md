@@ -1,5 +1,6 @@
 ---
 name: Blessed Bernard of Sithiu
+stub: false
 honorific: Blessed
 summary: >-
   To atone for the sins of his early life, including a murder, Bernard lived in complete poverty, wearing rags, eating

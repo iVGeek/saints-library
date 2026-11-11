@@ -1,5 +1,6 @@
 ---
 name: Saint Erasmo
+stub: true
 honorific: Saint
 summary: Hermit. May have been a monk or anchorite, but no details have survived.
 region: Italy

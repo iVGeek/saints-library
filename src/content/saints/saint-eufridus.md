@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Eufridus
+stub: false
 honorific: Saint
 summary: Seventh-century Benedictine monk near Asti, Italy. Abbot. Martyred by invading Saracens.
 searchAliases:

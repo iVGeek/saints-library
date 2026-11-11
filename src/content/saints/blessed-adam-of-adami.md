@@ -1,5 +1,6 @@
 ---
 name: Blessed Adam of Adami
+stub: false
 image: https://commons.wikimedia.org/wiki/Special:FilePath/Adamus_Adami.jpg?width=600
 honorific: Blessed
 summary: >-

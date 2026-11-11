@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Potamiaena of Alexandria the Younger
+stub: true
 honorific: Saint
 summary: Young Christian girl martyred in the persecutions of Diocletian.
 deathYear: 304

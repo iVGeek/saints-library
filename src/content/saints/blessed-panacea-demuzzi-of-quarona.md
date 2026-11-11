@@ -1,5 +1,6 @@
 ---
 name: Blessed Panacea de'Muzzi of Quarona
+stub: false
 honorific: Blessed
 summary: >-
   Panacea's mother died when the girl was an infant. When she was old enough, Panacea worked as shepherdess. Her father

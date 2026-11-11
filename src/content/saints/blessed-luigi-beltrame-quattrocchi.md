@@ -1,5 +1,6 @@
 ---
 name: Blessed Luigi Beltrame Quattrocchi
+stub: false
 honorific: Blessed
 summary: >-
   Son of Carlo and Francesca Quattrocchi. Layman lawyer. Married to Blessed Maria Corsini. Father of four, three of whom

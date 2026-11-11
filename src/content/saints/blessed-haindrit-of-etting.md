@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Haindrit of Etting
+stub: false
 honorific: Blessed
 title: Hermit
 summary: >-

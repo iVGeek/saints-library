@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/b/b9/All_saint.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Leovigild of Cordoba
+stub: true
 honorific: Saint
 summary: Priest. Monk in Cordoba, Spain. Martyred in the persecutions of Abderrahman II.
 deathYear: 852

@@ -1,5 +1,6 @@
 ---
 name: Saint Ceccardus of Luni
+stub: true
 honorific: Saint
 summary: Bishop of Luni, Italy. Martyr.
 image: https://commons.wikimedia.org/wiki/Special:FilePath/Carrara-cattedrale-busto_san_Ceccardo.jpg?width=600

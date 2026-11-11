@@ -1,5 +1,6 @@
 ---
 name: Saint Arsenius of Reggio Calabria
+stub: true
 honorific: Saint
 title: Hermit
 summary: Hermit famous for his austere lifestyle and deep prayer life.

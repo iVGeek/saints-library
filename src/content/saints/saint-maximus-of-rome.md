@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Maximus of Rome
+stub: true
 honorific: Saint
 summary: Priest. Martyred in the persecutions of Valerian.
 deathYear: 255

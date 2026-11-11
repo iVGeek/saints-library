@@ -1,5 +1,6 @@
 ---
 name: Saint Joseph the Hymnographer
+stub: false
 honorific: Saint
 summary: >-
   Born to Christian parents. He fled Sicily in 830 due to Arab invasion, and became a monk in Thessalonica. He joined

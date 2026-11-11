@@ -1,5 +1,6 @@
 ---
 name: Saint Jean-Gabriel Perboyre
+stub: false
 honorific: Saint
 title: St. Jean-Gabriel Perboyre
 image: https://upload.wikimedia.org/wikipedia/commons/f/fd/Statue_perboyre.jpg

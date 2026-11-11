@@ -1,5 +1,6 @@
 ---
 name: Blessed Alexander Blake
+stub: true
 image: >-
   https://commons.wikimedia.org/wiki/Special:FilePath/William_Blake_-_Alexander_Pope_-_Manchester_City_Gallery_-_Tempera_on_canvas_c_1800.jpg?width=600
 honorific: Blessed

@@ -1,5 +1,6 @@
 ---
 name: Saint Birinus of Dorchester
+stub: false
 honorific: Saint
 summary: >-
   Ordained in Rome, Italy. Bishop in Genoa, Italy. Sent by Pope Honorius I as a missionary to Britain in 634. Preached

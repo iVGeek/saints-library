@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Harold the King
+stub: false
 honorific: Saint
 summary: >-
   First Christian king of Denmark. When he tried to bring his pagan people to the faith they revolted and killed him.

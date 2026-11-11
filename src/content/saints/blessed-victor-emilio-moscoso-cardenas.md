@@ -1,5 +1,6 @@
 ---
 name: Blessed Victor Emilio Moscoso-Cárdenas
+stub: false
 honorific: Blessed
 summary: >-
   Baptized at the age of six days. Studied law in college, but was drawn to religious life and joined the Jesuits at age

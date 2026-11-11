@@ -1,5 +1,6 @@
 ---
 name: Saint Domingo Henares de Zafra Cubero
+stub: false
 honorific: Venerable
 summary: >-
   Born to a poor family. Joined the Dominicans at the Santa Croce monastery in Granada, Spain in 1783. Missionary to the

@@ -1,5 +1,6 @@
 ---
 name: Saint Maximilian of Thebeste
+stub: false
 honorific: Saint
 summary: >-
   Son of a Roman army veteran. Conscientious objector - when drafted into the Roman army, he refused to serve on the

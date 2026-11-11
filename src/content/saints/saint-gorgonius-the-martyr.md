@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Gorgonius the Martyr
+stub: true
 honorific: Saint
 summary: Third century martyr.
 feastDay:

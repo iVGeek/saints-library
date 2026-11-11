@@ -1,5 +1,6 @@
 ---
 name: Blessed Jordan of Saxony
+stub: false
 honorific: Blessed
 summary: >-
   Born to the Saxon nobility, he received a pious upbringing and was noted for his charity to the poor from an early

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Nazario of Koper
+stub: true
 honorific: Saint
 title: Bishop
 summary: Bishop of Koper (in modern Slovenia) c.524 where he served for 30 years.

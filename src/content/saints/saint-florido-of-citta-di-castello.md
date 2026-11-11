@@ -1,5 +1,6 @@
 ---
 name: Saint Florido of Città di Castello
+stub: false
 honorific: Saint
 summary: >-
   Orphaned at an early age, he managed to study literature and theology and was ordained as a deacon c.542. Forced to

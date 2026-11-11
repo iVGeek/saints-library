@@ -1,5 +1,6 @@
 ---
 name: Saint Theodore of Canterbury
+stub: false
 honorific: Saint
 summary: >-
   Educated in Tarsus, Cilicia (part of modern Turkey). Lived for a while in Athens, Greece. Monk in Rome, Italy. Friend

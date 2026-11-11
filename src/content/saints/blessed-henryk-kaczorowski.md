@@ -1,5 +1,6 @@
 ---
 name: Blessed Henryk Kaczorowski
+stub: false
 honorific: Blessed
 summary: >-
   Priest. Rector of the major seminary of Wloclawek, Poland. Arrested in 1939 during the Nazi persecutions, he kept his

@@ -1,5 +1,6 @@
 ---
 name: Saint Portianus of Miranda
+stub: false
 honorific: Saint
 summary: >-
   Slave. He ran from his masters, and sought refuge in Miaranda monastery, Auvergne, France. He became a monk there, and

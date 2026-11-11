@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint George of Amastris
+stub: false
 honorific: Saint
 summary: >-
   Hermit on Mount Sirik; monk at Bonyssa; bishop of Amastris (modern Amasra, Turkey). Successfully defended Amastris

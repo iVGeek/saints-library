@@ -1,5 +1,6 @@
 ---
 name: Venerable Vincenzo Cimatti
+stub: false
 honorific: Venerable
 summary: >-
   Raised in a pious family; his brother became a priest, his sister a nun. His father died when Vincenzo was three years

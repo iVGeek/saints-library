@@ -1,5 +1,6 @@
 ---
 name: Hilary of Poitiers
+stub: false
 honorific: Saint
 title: Bishop, Doctor of the Church
 summary: >-

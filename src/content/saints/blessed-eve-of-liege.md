@@ -1,5 +1,6 @@
 ---
 name: Blessed Eve of Liège
+stub: false
 honorific: Blessed
 summary: >-
   Born wealthy, she gave it up to become an anchoress at the church of Saint Martin in  in Liège, Belgium. Friend of

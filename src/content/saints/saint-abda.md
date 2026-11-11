@@ -1,5 +1,6 @@
 ---
 name: Saint Abda
+stub: true
 honorific: Saint
 summary: Martyred in Africa. No other information has survived.
 searchAliases:

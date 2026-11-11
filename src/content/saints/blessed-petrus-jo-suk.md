@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/a/a8/YHWH.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Petrus Jo Suk
+stub: true
 honorific: Blessed
 summary: Married layman of the archdiocese of Seoul, Korea. Martyr.
 birthYear: 1787

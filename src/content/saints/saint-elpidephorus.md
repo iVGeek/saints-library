@@ -1,5 +1,6 @@
 ---
 name: Saint Elpidephorus
+stub: false
 honorific: Saint
 summary: >-
   Persian senator during the persecutions of King Sapor II. When he led a group of senators speaking in support of the

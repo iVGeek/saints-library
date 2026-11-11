@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Balsamus of Cava
+stub: true
 honorific: Blessed
 summary: Benedictine monk. Abbot of Cava, Italy from 1208 to 1232.
 searchAliases:

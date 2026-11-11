@@ -1,5 +1,6 @@
 ---
 name: Martyred Women of North-West Africa
+stub: false
 honorific: Saint
 summary: A large group of women martyred in the persecutions of Hunneric, Arian King of the Vandals.
 deathYear: 482

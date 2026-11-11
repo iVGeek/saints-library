@@ -1,5 +1,6 @@
 ---
 name: Saint Sabas Reyes Salazar
+stub: false
 honorific: Venerable
 summary: ' In January 1927 government troops commandeered his chur Seminarian at Guadalajara, Mexico. Ordained in the diocese of Taumalipus, Mexico in 1911. Worked in several parishes in Guadalupe. Sent to Tototlan, Mexico to escape the government''s persection of the Church and its priests.'
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Sabas-Reyes-Salazar.jpg

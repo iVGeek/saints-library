@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Troas
+stub: false
 honorific: Saint
 summary: Martyred in the persecutions of Decius. Saint Gregory the Wonderworker wrote about him.
 searchAliases:

@@ -1,5 +1,6 @@
 ---
 name: Blessed Juan Carbonell Molla
+stub: false
 honorific: Blessed
 summary: >-
   Son of a physician; brother of Blessed Elías Carbonell Molla. Studied at the seminaries at Orihuela and Valencia,

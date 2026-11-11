@@ -1,5 +1,6 @@
 ---
 name: Venerable Nicola D'Onofrio
+stub: false
 honorific: Venerable
 summary: >-
   From the age of seven, Nicola knew that he wanted to be a priest, and was drawn to religious life. Though his family

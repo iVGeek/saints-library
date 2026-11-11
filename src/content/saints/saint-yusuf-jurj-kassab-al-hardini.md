@@ -1,5 +1,6 @@
 ---
 name: Saint Yusuf Jurj Kassab al-Hardini
+stub: false
 honorific: Venerable
 summary: >-
   Educated by the monks of San Antonio Aban. Lebanese Maronite monk in Batrun, Lebanon in 1828, taking the name Father

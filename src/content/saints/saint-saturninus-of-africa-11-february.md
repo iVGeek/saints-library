@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Saturninus of Africa
+stub: true
 honorific: Saint
 summary: Priest. Martyred in the persecutions of Diocletian.
 deathYear: 303

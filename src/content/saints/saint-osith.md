@@ -1,5 +1,6 @@
 ---
 name: Saint Osith
+stub: false
 honorific: Saint
 summary: >-
   Born a princess, the daughter of Frewald, a Merclan prince of the Hwiccan tribe. Niece to Editha, to whom belonged the

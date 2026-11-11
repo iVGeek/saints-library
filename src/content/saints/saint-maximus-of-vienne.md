@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Maximus of Vienne
+stub: false
 honorific: Saint
 summary: >-
   Son of Gundebertus and Magneldis. Studied at the convent school of Saint-Etienne, Cahors, France. His family arranged

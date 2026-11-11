@@ -1,5 +1,6 @@
 ---
 name: Blessed Dominic de Cubells
+stub: false
 honorific: Blessed
 summary: Mercedarian preacher and evanglists working from the convent of Santa Maria in El Puig, Spain.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Dominic-of-Cubells.jpg

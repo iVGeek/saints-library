@@ -1,5 +1,6 @@
 ---
 name: Saint Aphrodisius of Béziers
+stub: false
 honorific: Saint
 summary: >-
   Government official in his native Egypt, and an adult convert to Christianity. First bishop of Béziers in Narbonense

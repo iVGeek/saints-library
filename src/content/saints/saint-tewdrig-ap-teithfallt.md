@@ -1,5 +1,6 @@
 ---
 name: Saint Tewdrig ap Teithfallt
+stub: false
 honorific: Saint
 summary: >-
   Born a prince, the son of King Ceithfalt of Morganwg; he became king upon his father's death. A great supporter of the

@@ -1,5 +1,6 @@
 ---
 name: Saint Syra of Troyes
+stub: false
 honorific: Saint
 summary: >-
   Sister of Saint Fiacre. When her brother fled Ireland to find solitude, she followed and lived as an anchoress in

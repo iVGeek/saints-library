@@ -1,5 +1,6 @@
 ---
 name: Saint Erc of Slane
+stub: true
 honorific: Saint
 summary: Spiritual student of Saint Patrick. Bishop of Slane, Ireland.
 birthYear: 423

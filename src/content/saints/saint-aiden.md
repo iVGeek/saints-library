@@ -1,5 +1,6 @@
 ---
 name: Saint Aiden
+stub: false
 honorific: Saint
 summary: >-
   Known for his piety even as a small child. Studied scripture at the monastery of Saint David in Wales. Reported to

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/3/3c/Immacolatacolonnaroma.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Benedict Revelli
+stub: false
 honorific: Blessed
 summary: >-
   Benedictine monk of Santa Maria dei Fonti, Italy. Hermit on the island of Gallinaria in the Gulf of Genoa, Italy.

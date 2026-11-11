@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/5/54/Antioch_Saint_Pierre_Church_Front.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Paul of Antioch
+stub: true
 honorific: Saint
 summary: Martyr. No other information has survived.
 died: Antioch, Syria

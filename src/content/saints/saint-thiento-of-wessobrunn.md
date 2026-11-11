@@ -1,5 +1,6 @@
 ---
 name: Saint Thiento of Wessobrunn
+stub: false
 honorific: Saint
 summary: >-
   Benedictine monk. Abbot of Saints Peter and Paul abbey at Wessobrunn in Bavaria (in modern Germany). Martyred along

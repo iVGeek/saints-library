@@ -1,5 +1,6 @@
 ---
 name: Saint Gereon
+stub: false
 honorific: Saint
 summary: >-
   Imperial Roman soldier. Martyred with 290 other Christians on order of emperor Maximian for refusing to sacrifice to

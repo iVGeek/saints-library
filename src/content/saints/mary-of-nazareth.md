@@ -1,5 +1,6 @@
 ---
 name: Mary of Nazareth
+stub: false
 honorific: Our Lady
 title: Blessed Virgin, Mother of God
 summary: >-

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Serapione of Alexandria
+stub: true
 honorific: Saint
 summary: Martyr.
 deathYear: 341

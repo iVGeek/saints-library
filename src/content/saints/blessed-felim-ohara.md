@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Felim O'Hara
+stub: true
 honorific: Blessed
 summary: Franciscan. One of the Irish Martyrs.
 deathYear: 1582

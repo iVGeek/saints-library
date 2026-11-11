@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint John de Atarés
+stub: false
 honorific: Saint
 title: Hermit
 summary: >-

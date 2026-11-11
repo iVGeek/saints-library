@@ -1,5 +1,6 @@
 ---
 name: Saint Aignan of Orléans
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility, his parents were Hungarians who had fled to the Dauphine area of modern France to escape Arian

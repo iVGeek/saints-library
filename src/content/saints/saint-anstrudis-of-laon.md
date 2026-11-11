@@ -1,5 +1,6 @@
 ---
 name: Saint Anstrudis of Laon
+stub: false
 honorific: Saint
 summary: >-
   Daughter of Saint Blandinus of Laon and Saint Sadalberga; sister of Saint Baldwin. When Sadalberga withdrew from the

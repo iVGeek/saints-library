@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Bede the Younger
+stub: false
 honorific: Saint
 summary: >-
   Courtier to King Charles the Bald of France. After 40 years of service, he gave up the worldly life to become a monk

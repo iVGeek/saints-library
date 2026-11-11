@@ -1,5 +1,6 @@
 ---
 name: Blessed Miguel Gómez Loza
+stub: false
 honorific: Blessed
 summary: >-
   Born to a peasant family, his father died when Miguel was very young. He was a pious boy, promoted the social doctrine

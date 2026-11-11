@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Venerable Maria Teresa Artusini
+stub: false
 honorific: Venerable
 summary: >-
   After overcoming a number of obstacles to entering religious life, Maria became a Poor Clare nun at the Saint Joseph

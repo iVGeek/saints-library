@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/3/37/Calendar_of_saints.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Narcissus of Africa
+stub: true
 honorific: Saint
 summary: Martyred in Africa, date unknown.
 region: Africa

@@ -1,5 +1,6 @@
 ---
 name: Saint Eugenius of Damascus
+stub: false
 honorific: Saint
 summary: Son of Saint Tatta of Damascus and Saint Paul of Damascus. Tortured to death in a persecution by Roman authorities.
 died: tortured to death in Damascus, Syria, date unknown

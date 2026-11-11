@@ -1,5 +1,6 @@
 ---
 name: Saint Braulio of Saragossa
+stub: false
 honorific: Saint
 summary: >-
   Son of Gregory of Osma, a Hispano-Roman bishop. Monk at Saint Engratia's monastery, Zaragoza, Spain. Studied in

@@ -1,5 +1,6 @@
 ---
 name: Blessed Micaela Hernán Martínez
+stub: false
 honorific: Blessed
 summary: >-
   The daughter of Benito, a merchant, and Micaela, young Micela was educated at a boarding school run by the Daughters

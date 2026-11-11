@@ -1,5 +1,6 @@
 ---
 name: Saint Basilius of Ancyra
+stub: false
 honorific: Saint
 summary: >-
   Layman in Ancyra, Galatia (modern Ankara, Turkey). During the persecutions of Julian the Apostate, Basilius publicly

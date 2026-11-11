@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/5/56/Ej%C3%A9rcito_del_Norte_%288%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Juan José Orellana del Moral
+stub: false
 honorific: Blessed
 summary: >-
   Priest of the diocese of Córdoba, Spain, serving the Montalbán and Espejo communities. Martyred in the Spanish Civil

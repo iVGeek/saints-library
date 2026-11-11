@@ -1,5 +1,6 @@
 ---
 name: Saint Magnus of Füssen
+stub: false
 honorific: Saint
 summary: >-
   Priest. Benedictine. Spiritual student of Saint Columban and Saint Gall at Arbon (part of modern Switzerland).

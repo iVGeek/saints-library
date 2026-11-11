@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/0/0e/Simeon_Barsabae.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Papa of Seleucia
+stub: true
 honorific: Saint
 summary: Martyr.
 searchAliases:

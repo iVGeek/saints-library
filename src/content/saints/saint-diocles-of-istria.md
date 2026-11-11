@@ -1,5 +1,6 @@
 ---
 name: Saint Diocles of Istria
+stub: true
 honorific: Saint
 summary: Early martyr in the Istria peninsula.
 region: England

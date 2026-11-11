@@ -1,5 +1,6 @@
 ---
 name: Blessed Francisco Pacheco
+stub: false
 honorific: Blessed
 summary: >-
   Born to the Portugese nobility. Joined the Jesuit in 1592. Priest. Missionary to the Far East in 1598, first in India,

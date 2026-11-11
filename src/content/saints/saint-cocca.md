@@ -1,5 +1,6 @@
 ---
 name: Saint Cocca
+stub: false
 honorific: Saint
 summary: >-
   The name of Kilcock, a town under his patronage, is derived from the phrase Cocca's cell, so he was presumably a monk

@@ -1,5 +1,6 @@
 ---
 name: Micah the Prophet
+stub: false
 honorific: Saint
 summary: >-
   Old Testament prophet, one of the Twelve Minor Prophets, a contemporary of the Isaiah, and the author of the canonical

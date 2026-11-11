@@ -1,6 +1,7 @@
 ---
 image: https://www.catholic.org/files/images/saints/3509.jpg
 name: Saint Gallgo
+stub: true
 honorific: Saint
 summary: Sixth century founder of the Llanallgo monastery in Anglesey, Wales.
 born: Welsh

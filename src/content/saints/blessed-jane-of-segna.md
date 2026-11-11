@@ -1,5 +1,6 @@
 ---
 name: Blessed Jane of Segna
+stub: false
 honorific: Blessed
 summary: >-
   Born to a peasant family, Giovanna worked as a shepherdess in her youth, became a Franciscan tertiary, and at age 23

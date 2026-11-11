@@ -1,5 +1,6 @@
 ---
 name: Saint Lydia Purpuraria
+stub: false
 honorific: Saint
 summary: >-
   Lay business woman in Thyatira, dealing in purple cloth, the most expensive type in the 1st century Middle East.

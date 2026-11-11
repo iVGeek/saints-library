@@ -1,5 +1,6 @@
 ---
 name: Saint Wiborada of Gall
+stub: false
 honorific: Saint
 summary: >-
   Born to the Swabian nobility. Her brother, Hatto, was a priest and provost of Saint Magnus church. Wiborada turned her

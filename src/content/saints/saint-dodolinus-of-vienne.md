@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Dodolinus of Vienne
+stub: true
 honorific: Saint
 title: Bishop
 summary: Seventh century bishop of Vienne, France.

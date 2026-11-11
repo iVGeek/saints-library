@@ -1,5 +1,6 @@
 ---
 name: Saint Ralph
+stub: false
 honorific: Saint
 summary: >-
   Monk at the monastery of Solignac, France. Abbot of Saint Medard in Soissons, France. Bishop of Bourges, France in

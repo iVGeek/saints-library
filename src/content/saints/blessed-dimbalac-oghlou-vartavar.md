@@ -1,5 +1,6 @@
 ---
 name: Blessed Dimbalac Oghlou Vartavar
+stub: true
 honorific: Blessed
 summary: Lay man. One of the Martyrs of Armenia.
 image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Armenia.jpg

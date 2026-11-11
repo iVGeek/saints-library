@@ -1,5 +1,6 @@
 ---
 name: Saint Eustochius of Tours
+stub: false
 honorific: Saint
 summary: Born to an illustrious Gallic family, and a relative of Saint Perpetuus. Bishop of Tours, France in 444.
 searchAliases:

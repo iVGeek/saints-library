@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Martinian of Belozersk
+stub: false
 honorific: Saint
 summary: >-
   Born to a poor family, they entrusted the boy Martinian to the monastery at White Lake. Spiritual student of Saint

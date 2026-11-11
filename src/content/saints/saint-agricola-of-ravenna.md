@@ -1,5 +1,6 @@
 ---
 name: Saint Agricola of Ravenna
+stub: true
 honorific: Saint
 summary: Martyr. No other information has survived.
 deathYear: 305

@@ -1,5 +1,6 @@
 ---
 name: Venerable Augusto Cesare Bertazzoni
+stub: false
 honorific: Venerable
 summary: >-
   Educated by the Salesians of Don Bosco, Augusto was one of the many boys mentored by Saint John Bosco, himself. Friend

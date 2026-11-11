@@ -4,6 +4,7 @@ imageAlt: "Saint Fintán of Clonenagh"
 imageCredit: Nominis (French Episcopal Conference)
 imageCreditUrl: https://nominis.cef.fr
 name: Saint Fintán of Clonenagh
+stub: false
 honorific: Saint
 summary: >-
   Spiritual student of Saint Columba. Austere hermit at Clonenagh, Ireland. Many would-be students gathered around him

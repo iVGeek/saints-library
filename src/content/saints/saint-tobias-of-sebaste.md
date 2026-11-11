@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Tobias of Sebaste
+stub: false
 honorific: Saint
 summary: >-
   One of a group of ten Christian soldiers in the imperial Roman army of Emperor Licinius who were martyred together for

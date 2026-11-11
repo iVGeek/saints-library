@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/a/a1/Portrait_of_Saint_Aurea.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Quiriacus of Ostia
+stub: true
 honorific: Saint
 summary: Bishop. One of a group martyred in the persecutions of Alexander Severus.
 deathYear: 235

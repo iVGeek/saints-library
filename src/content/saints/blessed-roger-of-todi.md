@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/3/33/Philip_Fruytiers_-_St._Francis_of_Assisi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Roger of Todi
+stub: false
 honorific: Blessed
 summary: >-
   Franciscan, receiving the habit from Saint Francis himself in 1236. Spiritual director of Blessed Philippa Mareria's

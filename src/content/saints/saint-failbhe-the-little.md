@@ -1,5 +1,6 @@
 ---
 name: Saint Failbhe the Little
+stub: true
 honorific: Saint
 summary: Abbot of Iona Abbey for seven years.
 searchAliases:

@@ -1,5 +1,6 @@
 ---
 name: Blessed Lucy of Narni
+stub: false
 honorific: Blessed
 summary: >-
   The eldest of eleven children of Bartolomeo Broccadelli and Gentilina Cassio. A pious child, at age five she received

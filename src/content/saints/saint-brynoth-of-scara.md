@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Brynoth of Scara
+stub: true
 honorific: Saint
 summary: Bishop of Scara West Gothland, Sweden for 38 years.
 deathYear: 1317

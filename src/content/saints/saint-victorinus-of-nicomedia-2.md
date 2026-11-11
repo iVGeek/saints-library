@@ -1,5 +1,6 @@
 ---
 name: Saint Victorinus of Nicomedia
+stub: true
 honorific: Saint
 summary: Martyr.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Victorinus-of-Nicomedia.jpg

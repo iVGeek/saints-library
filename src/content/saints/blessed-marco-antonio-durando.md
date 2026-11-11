@@ -1,5 +1,6 @@
 ---
 name: Blessed Marco Antonio Durando
+stub: false
 honorific: Blessed
 summary: >-
   Priest in the Congregation of the Mission of Saint Vincent de Paul. Founder of the Institute of the Sisters of Jesus

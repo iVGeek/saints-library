@@ -1,5 +1,6 @@
 ---
 name: Abraham the Patriarch
+stub: false
 honorific: Saint
 summary: >-
   Old Testament patriarch. Married to Sarah. Founder of the Hebrew nation. Father of all believers in the true God. At

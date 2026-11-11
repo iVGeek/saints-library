@@ -1,5 +1,6 @@
 ---
 name: Saint Papias the Martyr
+stub: true
 honorific: Saint
 summary: Tortured and martyred in the persecutions of Diocletian.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Papias-the-Martyr.jpg

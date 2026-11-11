@@ -1,5 +1,6 @@
 ---
 name: Blessed Jaume Buch Canals
+stub: false
 honorific: Blessed
 summary: >-
   A Salesians brother, joining in Girona, Spain at age 14; he made his profession in Barcelona, Spain in 1908. Teacher

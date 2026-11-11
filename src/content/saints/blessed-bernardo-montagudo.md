@@ -1,5 +1,6 @@
 ---
 name: Blessed Bernardo Montagudo
+stub: false
 honorific: Blessed
 title: Bishop
 summary: Mercedarian friar, accepted into the Order by Saint Peter Nolasco. Bishop of Zaragoza, Spain.

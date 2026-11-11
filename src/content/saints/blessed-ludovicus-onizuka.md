@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/48/Painting_of_the_Nagasaki_Martyrs.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Ludovicus Onizuka
+stub: false
 honorific: Blessed
 summary: Six-year-old son of Blessed Ioannes Onizuka Naizen and Blessed Monica Onizuka. Martyr.
 birthYear: 1620

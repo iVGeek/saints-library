@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Flavius of Chalon-sur-Saône
+stub: false
 honorific: Saint
 title: Bishop
 summary: >-

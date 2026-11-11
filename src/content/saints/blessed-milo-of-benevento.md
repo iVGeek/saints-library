@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/d/df/Stephen_Muret_Hugh_Lacerta_MNMA_Cl956a.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Milo of Benevento
+stub: false
 honorific: Blessed
 summary: >-
   Studied for the priesthood in Paris, France. Priest in Auvergne, France. Canon of the cathedral of Auvergne. He was

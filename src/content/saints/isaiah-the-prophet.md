@@ -1,5 +1,6 @@
 ---
 name: Isaiah the Prophet
+stub: false
 honorific: Saint
 summary: Eighth century BC Old Testament prophet. Killed at the order of King Manasses of Juda.
 image: https://catholicsaints.info/wp-content/uploads/img-Isaiah-the-Prophet.jpg

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/f/fe/Beatificaciotarragona2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Lorenzo Sobrevia Cañardo
+stub: false
 honorific: Blessed
 summary: Monk. Member of the Benedictine Solesmes Congregation. Martyred in the Spanish Civil War.
 birthYear: 1874

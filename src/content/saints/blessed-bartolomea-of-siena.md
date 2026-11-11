@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/5/5a/Shield_of_Dominican_Order.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Bartolomea of Siena
+stub: false
 honorific: Blessed
 summary: >-
   From her youth, Bartolomea had no interest in the world or the lavish life available to her, and preferred a life in

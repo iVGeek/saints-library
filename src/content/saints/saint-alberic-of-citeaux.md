@@ -1,5 +1,6 @@
 ---
 name: Saint Alberic of Citeaux
+stub: false
 honorific: Saint
 summary: >-
   Hermit at Collan, Chatillon-sur-Seine, France. He, Saint Robert of Molesme, and several fellow hermits formed a

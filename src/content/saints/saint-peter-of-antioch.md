@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Peter of Antioch
+stub: true
 honorific: Saint
 summary: Priest. Martyr.
 died: in Antioch

@@ -1,5 +1,6 @@
 ---
 name: Blessed Józef Cebula
+stub: false
 honorific: Blessed
 summary: Member of the Missionary Oblates of Mary Immaculate. Priest. Martyred in the Nazi anti-Catholic persecutions.
 image: https://upload.wikimedia.org/wikipedia/commons/5/55/Josef_Cebula_priest.jpg

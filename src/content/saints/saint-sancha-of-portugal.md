@@ -1,5 +1,6 @@
 ---
 name: Saint Sancha of Portugal
+stub: false
 honorific: Saint
 summary: >-
   Born a princess, the daughter of King Sancho I of Portugal; sister of Blessed Mafilda and Saint Theresa of Portugal.

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Beatrix of Bohemia
+stub: true
 honorific: Saint
 summary: Born to the Bohemian nobility. Sister of Blessed Hrosnata. Nun.
 searchAliases:

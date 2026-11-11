@@ -1,5 +1,6 @@
 ---
 name: Saint Tatiana of Rome
+stub: false
 honorific: Saint
 summary: Daughter of a Roman consul. Tortured and martyred in the persecutions of Emperor Alexander Severus.
 image: https://upload.wikimedia.org/wikipedia/commons/1/11/Tatiana.jpg

@@ -1,5 +1,6 @@
 ---
 name: Pope Saint Marcellinus
+stub: false
 honorific: Saint
 summary: >-
   Chosen 29th pope. Enlarged the catacombs. Reigned at the start of the persecution of Diocletian, and was himself

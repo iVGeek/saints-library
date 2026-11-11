@@ -1,5 +1,6 @@
 ---
 name: Blessed Louise-Thérèse de Montaignac de Chauvance
+stub: false
 honorific: Blessed
 summary: >-
   Related to the French nobility, Louise was the fifth of six children born to Raimondo Amato and Anna de Raffin; her

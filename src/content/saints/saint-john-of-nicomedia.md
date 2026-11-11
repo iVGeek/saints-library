@@ -1,6 +1,7 @@
 ---
 image: https://www.catholic.org/files/images/saints/4022.jpg
 name: Saint John of Nicomedia
+stub: false
 honorific: Saint
 summary: When an edict of Christian persecution was posted in Nicomedia, John ripped it down and tore it to pieces. Martyr.
 deathYear: 303

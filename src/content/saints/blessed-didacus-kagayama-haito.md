@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Didacus Kagayama Haito
+stub: false
 honorific: Blessed
 summary: Married layman in the diocese of Fukuoka, Japan. Member of the Confraternity of the Rosary. Martyr.
 birthYear: 1565

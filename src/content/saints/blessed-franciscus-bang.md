@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/a/ab/ReformationsdenkmalGenf1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Franciscus Bang
+stub: false
 honorific: Blessed
 summary: Military officer in the Korean army. Layman martyr in the apostolic vicariate of Korea.
 deathYear: 1799

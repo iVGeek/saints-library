@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Castor of Tarsus
+stub: true
 honorific: Saint
 summary: Martyred in one of the early persecutions in Asia Minor.
 died: at Tarsus, Cilicia, Asia Minor

@@ -1,5 +1,6 @@
 ---
 name: Saint Eustadius
+stub: false
 honorific: Saint
 summary: Pious 6th-century monk. Abbot of Saint-Benignus Abbey in Dijon, France. Great-uncle of Saint Gregory of Tours.
 searchAliases:

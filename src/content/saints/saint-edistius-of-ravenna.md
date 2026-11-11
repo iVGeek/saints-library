@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Edistius of Ravenna
+stub: true
 honorific: Saint
 summary: Martyred in the persecutions of Diocletian. No other information has survived.
 deathYear: 303

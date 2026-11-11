@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Nimmia of Rome
+stub: true
 honorific: Saint
 summary: Martyr.
 deathYear: 304

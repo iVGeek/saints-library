@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Teoprepio of Thrace
+stub: true
 honorific: Saint
 summary: Martyr.
 died: 3rd century Thrace

@@ -1,5 +1,6 @@
 ---
 name: Saint Auguste Chapdelaine
+stub: false
 honorific: Venerable
 summary: >-
   Youngest of nine children born to Nicolas Chapdelaine and Madeleine Dodeman. Following grammar school, Auguste dropped

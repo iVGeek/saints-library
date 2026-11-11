@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Genulfus
+stub: true
 honorific: Saint
 summary: Third century monk at Celle-sur-Naton, France.
 searchAliases:

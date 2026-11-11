@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Iacobus Yun Yu-o
+stub: true
 honorific: Blessed
 summary: Layman martyr in the apostolic vicariate of Korea.
 searchAliases:

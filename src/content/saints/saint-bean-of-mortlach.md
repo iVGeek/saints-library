@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/9/91/Nuremberg_chronicles_f_145v_4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Bean of Mortlach
+stub: false
 honorific: Saint
 summary: Bishop of Mortlach, Banff, Scotland, chosen by Pope Benedict VIII. Evangelized in Aberdeen, Scotland.
 searchAliases:

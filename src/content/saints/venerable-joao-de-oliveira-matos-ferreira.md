@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Venerable Joao de Oliveira Matos Ferreira
+stub: false
 honorific: Venerable
 summary: >-
   Ordained on 28 March 1903. Auxiliary bishop of Guarda, Portugal, and titular of Aureliopolis in Lydia on 11 December

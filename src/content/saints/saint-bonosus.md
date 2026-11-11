@@ -1,5 +1,6 @@
 ---
 name: Saint Bonosus
+stub: false
 honorific: Saint
 summary: >-
   Soldier; officer in the imperial Herculean Legion serving under an uncle of Julian the Apostate. Tortured and executed

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Justa of Carthage
+stub: true
 honorific: Saint
 summary: Martyred in the persecutions of Diocletian.
 born: Carthaginian

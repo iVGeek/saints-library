@@ -1,5 +1,6 @@
 ---
 name: Saint Donnan of Eigg
+stub: false
 honorific: Saint
 summary: >-
   Monk of Iona Abbey with Saint Columba of Iona. Founded a monastery on the Island of Eigg off the west coast of

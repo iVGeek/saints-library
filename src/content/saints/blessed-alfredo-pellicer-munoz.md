@@ -1,5 +1,6 @@
 ---
 name: Blessed Alfredo Pellicer Muñoz
+stub: false
 honorific: Blessed
 summary: >-
   Franciscan Friar Minor, making his solemn profession on 5 July 1936, just days before the outbreak of the Spanish

@@ -1,5 +1,6 @@
 ---
 name: Blessed Francus of Francavilla
+stub: false
 honorific: Blessed
 summary: >-
   Greek rite monk from Calabria, Italy. Monk in the Abruzzo region of Italy, possibly fleeing Muslim raids on

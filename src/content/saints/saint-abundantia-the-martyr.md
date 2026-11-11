@@ -1,5 +1,6 @@
 ---
 name: Saint Abundantia the Martyr
+stub: false
 honorific: Saint
 summary: >-
   Widow of Spoleto, Italy. Gave Christian burial to martyrs in the area, including Saint Gregory of Spoleto. Martyred in

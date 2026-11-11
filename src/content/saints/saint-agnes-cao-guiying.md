@@ -1,5 +1,6 @@
 ---
 name: Saint Agnes Cao Guiying
+stub: false
 honorific: Venerable
 summary: >-
   Raised in a Catholic family, Agnes was a teenager when her parents died, and she moved from her home village to

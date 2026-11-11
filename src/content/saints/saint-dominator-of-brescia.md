@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Dominator of Brescia
+stub: true
 honorific: Saint
 summary: Bishop of Brescia, Italy.
 deathYear: 495

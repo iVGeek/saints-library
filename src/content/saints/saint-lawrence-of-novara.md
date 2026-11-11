@@ -1,5 +1,6 @@
 ---
 name: Saint Lawrence of Novara
+stub: false
 honorific: Saint
 summary: >-
   Priest. Friend and assistant to Saint Gaudentius of Novara. Martyred with a group of children he was instructing in

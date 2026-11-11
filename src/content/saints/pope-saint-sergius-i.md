@@ -1,5 +1,6 @@
 ---
 name: Pope Saint Sergius I
+stub: false
 honorific: Saint
 summary: >-
   Son of Syrian immigrants. Educated at Palermo, Italy. Ordained in Rome, Italy. Canon regular of Saint John Lateran.

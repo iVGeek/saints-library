@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Goswin of Clairvaux
+stub: true
 honorific: Blessed
 summary: Benedictine Cistercian monk at Clairvaux Abbey, and then at Cheminon, France.
 deathYear: 1203

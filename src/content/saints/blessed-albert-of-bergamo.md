@@ -1,5 +1,6 @@
 ---
 name: Blessed Albert of Bergamo
+stub: false
 honorific: Blessed
 summary: >-
   Born to a modest but pious farm family. Married layman. Farmer in Villa d'Ogna, Italy. Dominican tertiary. Known for

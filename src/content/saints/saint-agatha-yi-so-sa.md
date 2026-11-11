@@ -1,5 +1,6 @@
 ---
 name: Saint Agatha Yi So-Sa
+stub: false
 honorific: Venerable
 summary: Sister of Saint Petrus Yi Ho-yong. Married lay woman in the apostolic vicariate of Korea. One of the Martyrs of Korea.
 image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Korea.jpg

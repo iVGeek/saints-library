@@ -1,5 +1,6 @@
 ---
 name: Saint Firminus of Uzès
+stub: false
 honorific: Saint
 summary: >-
   Educated by his uncle, the bishop of Uzès, France. Spiritual student of Saint Caesarius of Arles. Bishop of Uzès

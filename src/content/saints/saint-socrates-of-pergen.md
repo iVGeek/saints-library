@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Socrates of Pergen
+stub: true
 honorific: Saint
 summary: Roman soldier. Martyred in the persecutions of Emperor Elagabalus.
 deathYear: 220

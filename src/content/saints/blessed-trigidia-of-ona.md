@@ -1,5 +1,6 @@
 ---
 name: Blessed Trigidia of Oña
+stub: false
 honorific: Blessed
 summary: >-
   Born to the Spanish nobility, the daughter of Sancho García, Count of Castile, and Donna Urraca. Trigidia early felt a

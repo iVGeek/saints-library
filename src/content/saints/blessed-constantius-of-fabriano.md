@@ -1,5 +1,6 @@
 ---
 name: Blessed Constantius of Fabriano
+stub: false
 honorific: Blessed
 summary: >-
   Known as a pious child; Constantius once convinced his parents to pray with him for the healing of his terminally ill

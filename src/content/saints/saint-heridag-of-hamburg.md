@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Heridag of Hamburg
+stub: false
 honorific: Saint
 title: Priest
 summary: >-

@@ -1,5 +1,6 @@
 ---
 name: Saint Alexander of Trier
+stub: true
 honorific: Saint
 summary: Martyred in the persecutions of Diocletian.
 died: 3rd century in Trier, Germany

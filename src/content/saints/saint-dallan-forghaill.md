@@ -1,5 +1,6 @@
 ---
 name: Saint Dallan Forghaill
+stub: false
 honorific: Saint
 summary: >-
   Son of Colla Mac Erc and Forchella; related to Irish royalty, and to Saint Aidan of Ferns. Noted student who went

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Minervius of Lyons
+stub: true
 honorific: Saint
 summary: Martyr.
 died: 3rd century in Lyons, France

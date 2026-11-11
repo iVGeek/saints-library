@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/b/b0/Pammachius_Ss_Giovanni_e_Paolo.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Oceanus the Martyr
+stub: true
 honorific: Saint
 summary: Martyred in the persecutions of Emperor Maximian Herculeus.
 deathYear: 310

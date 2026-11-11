@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/8/8a/One-hundred-and-seven-martyrs-of-england-and-wales.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Edward Catherick
+stub: false
 honorific: Blessed
 summary: >-
   Studied at Douai, France. Priest. Returned to England in 1635 to minister to covert Catholics during a period of

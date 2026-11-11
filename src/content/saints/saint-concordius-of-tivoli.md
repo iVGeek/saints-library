@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Concordius of Tivoli
+stub: false
 honorific: Saint
 summary: >-
   Son of a man who became a priest late in life. Priest. Fled Rome, Italy to Tivoli, Italy during the late 2nd-century

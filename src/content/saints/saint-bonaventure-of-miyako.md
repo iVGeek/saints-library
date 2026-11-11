@@ -1,5 +1,6 @@
 ---
 name: Saint Bonaventure of Miyako
+stub: false
 honorific: Saint
 summary: >-
   Baptized as an infant, his mother died when he was a baby, and his step-mother sent him to be raised in a Buddhist

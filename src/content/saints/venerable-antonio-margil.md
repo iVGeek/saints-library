@@ -1,5 +1,6 @@
 ---
 name: Venerable Antonio Margil
+stub: false
 honorific: Venerable
 summary: >-
   Son of Juan Margil and Esperanza Ros; he had two sisters. Joined the Franciscans at La Corona de Cristo, Valencia,

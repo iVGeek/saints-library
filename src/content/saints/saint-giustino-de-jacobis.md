@@ -1,5 +1,6 @@
 ---
 name: Saint Giustino de Jacobis
+stub: false
 honorific: Venerable
 summary: >-
   Justin grew up a pious youth in the city of Naples, Italy and joined the Vincentians at age 18. Ordained on 12 June

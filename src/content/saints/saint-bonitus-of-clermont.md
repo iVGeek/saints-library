@@ -1,5 +1,6 @@
 ---
 name: Saint Bonitus of Clermont
+stub: false
 honorific: Saint
 summary: >-
   Chancellor to King Sigebert III of Austrasia. Appointed governor of Marseilles by King Thierry III in 667. Bishop of

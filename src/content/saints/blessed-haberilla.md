@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Haberilla of Mehrerau
+stub: false
 honorific: Blessed
 title: Hermit
 summary: >-

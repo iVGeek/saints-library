@@ -1,5 +1,6 @@
 ---
 name: Saint Michael Garicoïts
+stub: false
 honorific: Venerable
 summary: >-
   The eldest son of Pyrenean peasants, Arnold and Gratianne Garicoïts. His family sheltered priests escaping the

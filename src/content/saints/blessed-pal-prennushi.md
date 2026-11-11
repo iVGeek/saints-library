@@ -1,5 +1,6 @@
 ---
 name: Blessed Pal Prennushi
+stub: false
 honorific: Blessed
 summary: >-
   Studied in Schaz, Austria, in Caldaro, Italy, and in Grac, Austria. Franciscan Friar Minor. Ordained a priest in

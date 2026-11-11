@@ -1,5 +1,6 @@
 ---
 name: Saint Salvator of Horta
+stub: false
 honorific: Saint
 summary: >-
   Shepherd. Shoemaker. Franciscan lay brother at Barcelona, Spain. Cook, beggar and porter at the friary in the

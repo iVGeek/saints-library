@@ -1,5 +1,6 @@
 ---
 name: Saint Caidoc
+stub: false
 honorific: Saint
 summary: >-
   Monk. Spiritual student of Saint Columba of Iona. Missionary to the Picardy region of northern France in 622 where he

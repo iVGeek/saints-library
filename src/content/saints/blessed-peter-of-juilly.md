@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/d/de/Saintlouis_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Peter of Juilly
+stub: false
 honorific: Blessed
 summary: >-
   Benedictine monk. Noted preacher. Friend of Saint Stephen Harding, and worked with him at the monastery in Molesme.

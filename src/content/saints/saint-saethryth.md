@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Saethryth
+stub: false
 honorific: Saint
 summary: >-
   Step-daughter of the king of the Angles. Half-sister of Saint Ethelburga and Saint Ethelfreda. Benedictine nun in a

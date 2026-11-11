@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Beatrice Hermosilla of Valladolid
+stub: false
 honorific: Blessed
 summary: >-
   A 15th century woman who built a monastery in Valladolid, Spain, which she name for Saint Elizabeth. She then gave

@@ -1,5 +1,6 @@
 ---
 name: Saint Lioba of Bischofsheim
+stub: false
 honorific: Saint
 summary: >-
   Born to the Wessex nobility to parents who had long prayed for a child. Relative of Saint Boniface with whom she

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/7/74/Eglise_Saint-Lambert_de_Vaugirard_%40_Paris_%2830716474344%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Nicolas Gaudreau
+stub: true
 honorific: Blessed
 summary: Priest in the diocese of Versailles, France. One of the Martyrs of September.
 birthYear: 1744

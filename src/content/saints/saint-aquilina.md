@@ -1,5 +1,6 @@
 ---
 name: Saint Aquilina of Syria
+stub: false
 honorific: Saint
 summary: >-
   Arrested at age 12 for her faith during the persecutions of Diocletian. When she clung to her faith, the magistrate

@@ -1,5 +1,6 @@
 ---
 name: Saint Maximus of Evreux
+stub: false
 honorific: Saint
 summary: Brother of Saint Victorinus of Evreux. Missionary to Gaul, sent by Pope Damasus I. Martyr.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Mauxe.jpg

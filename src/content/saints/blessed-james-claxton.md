@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/c/cd/Bonanza_main_cast_1959.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed James Claxton
+stub: false
 honorific: Blessed
 summary: >-
   Raised a devout Catholic. Educated and ordained at Rheims, France in 1582. He returned to England to minister to

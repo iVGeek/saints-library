@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Laurentius Pak Chwi-deuk
+stub: false
 honorific: Blessed
 summary: >-
   Layman convert to Christianity in the apostolic vicariate of Korea. Zealous about his new found faith, he learned the

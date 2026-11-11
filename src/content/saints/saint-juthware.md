@@ -1,5 +1,6 @@
 ---
 name: Saint Juthware
+stub: false
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/a/a8/Halstock%2C_parish_church_of_St._Mary_-_geograph.org.uk_-_506480.jpg
 honorific: Saint

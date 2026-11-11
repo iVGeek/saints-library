@@ -1,5 +1,6 @@
 ---
 name: Saint Radegunde
+stub: false
 honorific: Saint
 summary: >-
   Princess of Thuringia. Queen of France. Daughter of the pagan king Berthachar of Thuringia. She was given at age 12 to

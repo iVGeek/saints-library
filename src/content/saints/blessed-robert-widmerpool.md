@@ -1,5 +1,6 @@
 ---
 name: Blessed Robert Widmerpool
+stub: false
 honorific: Blessed
 summary: >-
   Robert studied in Oxford, England, and then worked as a tutor to the sons of the Earl of Northumberland. During the

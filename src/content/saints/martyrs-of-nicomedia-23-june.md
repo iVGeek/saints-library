@@ -1,5 +1,6 @@
 ---
 name: Martyrs of Nicomedia
+stub: false
 honorific: Saint
 summary: >-
   During the persecutions of Diocletian, many Christians fled their homes to live in caves in the area of Nicomedia. In

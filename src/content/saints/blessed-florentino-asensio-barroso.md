@@ -1,5 +1,6 @@
 ---
 name: Blessed Florentino Asensio Barroso
+stub: false
 honorific: Blessed
 summary: >-
   Born to a poor but devout family. Ordained on 1 June 1901 in Valladolid, Spain. Graduated as a doctor of theology from

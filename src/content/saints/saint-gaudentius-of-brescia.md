@@ -1,5 +1,6 @@
 ---
 name: Saint Gaudentius of Brescia
+stub: false
 honorific: Saint
 summary: >-
   Studied under Saint Philastrius, Bishop of Brescia, Italy. He preached throughout Italy and in the East, respected 

@@ -1,5 +1,6 @@
 ---
 name: Blessed Thomas of Naples
+stub: false
 honorific: Blessed
 summary: >-
   Mercedian friar. Well educated and a Biblical scholar, he was sent from the area of Naples, Italy, to France to work

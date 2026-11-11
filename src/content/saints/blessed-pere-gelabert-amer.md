@@ -1,5 +1,6 @@
 ---
 name: Blessed Pere Gelabert Amer
+stub: false
 honorific: Blessed
 summary: >-
   Jesuit brother in 1907. Served his community in Gandia, Spain as an electrician and mechanic. Martyred in the Spanish

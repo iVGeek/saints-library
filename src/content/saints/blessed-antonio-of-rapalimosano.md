@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Antonio of Rapalimosano
+stub: true
 honorific: Blessed
 summary: Franciscan lay brother. Known for the gift of healing.
 deathYear: 1514

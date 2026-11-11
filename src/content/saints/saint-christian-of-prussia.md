@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Christian of Prussia
+stub: false
 honorific: Saint
 summary: >-
   Cistercian monk in Poland. Missionary to pagans in Prussia in the early 13th century. Consecrated a missionary bishop

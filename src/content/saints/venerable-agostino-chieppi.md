@@ -1,5 +1,6 @@
 ---
 name: Venerable Agostino Chieppi
+stub: false
 honorific: Venerable
 summary: >-
   Priest in the diocese of Parma, Italy. Founder of the Congregation of the Little Daughters of the Sacred Hearts of

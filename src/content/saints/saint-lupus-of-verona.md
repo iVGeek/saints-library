@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/en/3/35/Vgeant26.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Lupus of Verona
+stub: true
 honorific: Saint
 summary: Bishop of Verona, Italy. No other information has survived.
 searchAliases:

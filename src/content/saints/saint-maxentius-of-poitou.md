@@ -1,5 +1,6 @@
 ---
 name: Saint Maxentius of Poitou
+stub: false
 honorific: Saint
 summary: >-
   Spiritual student of Saint Severus of Poitiers. Monk at a monastery in Poitou, France, a place now Saint-Maixent in

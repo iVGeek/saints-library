@@ -1,5 +1,6 @@
 ---
 name: Blessed Paul Burali d'Arezzo
+stub: false
 honorific: Blessed
 summary: >-
   Graduated from the University of Salerno in 1525, and then from the University of Bologna in 1536; the future Pope

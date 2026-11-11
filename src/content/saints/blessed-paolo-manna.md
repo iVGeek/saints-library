@@ -1,5 +1,6 @@
 ---
 name: Blessed Paolo Manna
+stub: false
 honorific: Blessed
 summary: ' Missionary to Toungoo, East Fifth of six children. Educated at Avellino and Naples in Italy. Studied philosophy at the Gregorian University in Rome, Italy. Seminarian at the Theology Seminary of the Institute for Foreign Missions at Milan, Italy. Ordained on 19 May 1894 at Milan.'
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Paolo-Manna.jpg

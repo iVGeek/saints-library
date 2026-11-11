@@ -1,5 +1,6 @@
 ---
 name: Saint Irene of Lecce
+stub: false
 honorific: Saint
 summary: >-
   The daughter of a wealthy, pagan named Licinius, her father considered Irene so beautiful and such a desirable

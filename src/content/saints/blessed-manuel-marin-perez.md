@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/8/8e/Basilica_de_Yarumal-Fachada_Principal.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Manuel Marín Pérez
+stub: true
 honorific: Blessed
 summary: Member of the Salesians of Don Bosco. Martyred in the Spanish Civil War.
 birthYear: 1904

@@ -1,5 +1,6 @@
 ---
 name: Saint María del Carmen Sallés Barangueras
+stub: false
 honorific: Venerable
 summary: >-
   Second of ten children born to José Sallés y Vall and Francisca Barangueras y de Planell who were pious people. By age

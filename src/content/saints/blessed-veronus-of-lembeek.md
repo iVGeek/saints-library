@@ -1,5 +1,6 @@
 ---
 name: Blessed Veronus of Lembeek
+stub: false
 honorific: Blessed
 summary: >-
   Brother of Blessed Verona of  Mainz. We know nothing of his life, just the miraculous events surrounding his relics.

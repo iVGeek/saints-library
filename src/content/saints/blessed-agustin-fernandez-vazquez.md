@@ -1,5 +1,6 @@
 ---
 name: Blessed Agustín Fernández Vázquez
+stub: false
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Enriqueta_Faber_-_ensayo_de_novela_hist%C3%B3rica_%28IA_enriquetafaberen00vazq%29.pdf/page1-500px-Enriqueta_Faber_-_ensayo_de_novela_hist%C3%B3rica_%28IA_enriquetafaberen00vazq%29.pdf.jpg
 honorific: Blessed

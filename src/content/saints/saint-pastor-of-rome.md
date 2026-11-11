@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/6/69/2872-saint-agnes-domenichino.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Pastor of Rome
+stub: true
 honorific: Saint
 summary: Brother of Pope Pius I. Priest in Rome, Italy.
 deathYear: 160

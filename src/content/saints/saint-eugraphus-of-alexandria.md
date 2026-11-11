@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Eugraphus of Alexandria
+stub: true
 honorific: Saint
 summary: Martyr.
 deathYear: 312

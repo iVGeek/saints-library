@@ -1,5 +1,6 @@
 ---
 name: Blessed Gunther
+stub: false
 honorific: Blessed
 summary: >-
   Cousin of Saint Stephen of Hungary. After a worldly youth, he was brought to the faith by Saint Godehard of

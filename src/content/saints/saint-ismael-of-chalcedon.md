@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Ismael of Chalcedon
+stub: false
 honorific: Saint
 summary: >-
   One of three well-educated Christian men who were sent as ambassadors from King Baltan of Persia to the court of

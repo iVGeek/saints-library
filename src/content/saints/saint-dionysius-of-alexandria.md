@@ -1,5 +1,6 @@
 ---
 name: Saint Dionysius of Alexandria
+stub: false
 honorific: Saint
 summary: >-
   He studied under Origen, and eventually became the head of the catechetical school of Alexandria, Egypt. Archbishop of

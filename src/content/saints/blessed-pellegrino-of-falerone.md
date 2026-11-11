@@ -1,5 +1,6 @@
 ---
 name: Blessed Pellegrino of Falerone
+stub: false
 honorific: Blessed
 summary: >-
   Son of Roger, the wealthy lord of Falerone, Italy. Studied philosophy and canon law in Bologna, Italy. He abandoned

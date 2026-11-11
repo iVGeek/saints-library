@@ -1,5 +1,6 @@
 ---
 name: Saint Andreas Wang Tianqing
+stub: false
 honorific: Venerable
 summary: >-
   Nine year old boy in Machiazhuang, China. On 21 July 1900, an armed group associated with the anti-Christian,

@@ -1,5 +1,6 @@
 ---
 name: Saint Felix of Zurich
+stub: false
 honorific: Saint
 summary: >-
   Brother of Saint Regula of Zürich. During the persecutions of Maximian Herculeaus the two fled to Switzerland. They

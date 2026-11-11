@@ -1,5 +1,6 @@
 ---
 name: Blessed Frances d'Amboise
+stub: false
 honorific: Blessed
 summary: >-
   Daughter of Louis d'Amboise, Viscount de Thouars, she grew up in the courts of Brittany. Duchess of Brittany, being

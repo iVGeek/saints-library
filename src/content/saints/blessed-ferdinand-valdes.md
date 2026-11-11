@@ -1,5 +1,6 @@
 ---
 name: Blessed Ferdinand Valdes
+stub: false
 honorific: Blessed
 summary: Mercedarian friar. Priest. Bishop of Lugo, Spain. Royal chaplain to the court of Castile.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Ferdinand-Valdes.jpg

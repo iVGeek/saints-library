@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Villicus of Metz
+stub: true
 honorific: Saint
 title: Bishop
 summary: Bishop of Metz, France from 543 to 568.

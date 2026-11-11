@@ -1,5 +1,6 @@
 ---
 name: Blessed José Bonet Nadal
+stub: false
 honorific: Blessed
 summary: >-
   Member of the Salesians, making his perpetual vows in 1897. Studied theology at Sivigliae. Priest, ordained in April

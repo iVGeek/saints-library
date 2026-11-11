@@ -1,5 +1,6 @@
 ---
 name: Saint Donatian of Rheims
+stub: true
 honorific: Saint
 summary: Seventh bishop of Rheims, France from 360 to 390.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Donatian-of-Rheims1.jpg

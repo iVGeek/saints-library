@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Helen of Oehren
+stub: true
 honorific: Saint
 summary: Benedictine nun and abbess of the convent of Oehren in Trier, Germany.
 searchAliases:

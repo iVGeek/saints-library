@@ -1,5 +1,6 @@
 ---
 name: Venerable Luigi Maria Raineri
+stub: false
 honorific: Venerable
 summary: >-
   Luigi initially wanted to join the Dominicans like three of his brothers and an uncle, but his school grades worked

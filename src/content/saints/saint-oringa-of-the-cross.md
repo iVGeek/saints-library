@@ -1,5 +1,6 @@
 ---
 name: Blessed Oringa of the Cross
+stub: false
 honorific: Blessed
 summary: >-
   Pious farm girl who fled her home to escape an arranged marriage. Worked as a servant in Lucca, Italy then became an

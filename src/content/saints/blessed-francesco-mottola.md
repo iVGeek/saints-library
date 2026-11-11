@@ -1,5 +1,6 @@
 ---
 name: Blessed Francesco Mottola
+stub: false
 honorific: Blessed
 summary: >-
   The son of Antonio and Concetta Braghó Mottola; his mother committed suicide in 1913 when the Francesco was only 12.

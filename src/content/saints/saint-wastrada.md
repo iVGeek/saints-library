@@ -1,6 +1,7 @@
 ---
 image: https://www.catholic.org/files/images/saints/2039.jpg
 name: Saint Wastrada
+stub: true
 honorific: Saint
 summary: Mother of Saint Gregory of Utrecht. In her later years she became a nun.
 deathYear: 760

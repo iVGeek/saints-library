@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Flora of Rome
+stub: false
 honorific: Saint
 summary: >-
   Sister of Saint Lucilla of Rome, she was kidnapped and enslaved by Saint Eugene of Rome before his conversion, and

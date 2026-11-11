@@ -1,5 +1,6 @@
 ---
 name: Blessed Henry of Austria
+stub: false
 honorific: Blessed
 summary: >-
   Mercedarian lay knight. Noted for his openness, charity and deep prayer life. In Tunis, while working to free

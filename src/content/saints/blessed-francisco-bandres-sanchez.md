@@ -1,5 +1,6 @@
 ---
 name: Blessed Francisco Bandrés Sánchez
+stub: false
 honorific: Blessed
 summary: >-
   Studied at Huesca and Campello, Spain. Joined the Salesians of Don Bosco in 1913, beginning his novitiate at

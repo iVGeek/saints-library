@@ -1,5 +1,6 @@
 ---
 name: Saint Themistocles of Lycia
+stub: false
 honorific: Saint
 summary: >-
   Shepherd at Myra, Lycia. Martyred because he would not tell the authorities where Saint Dioscorus was hiding during

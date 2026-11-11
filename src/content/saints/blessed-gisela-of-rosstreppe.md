@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Gisela of Rosstreppe
+stub: false
 honorific: Blessed
 summary: Born to the royal family of Eastphalia; sister of Blessed Liudbirg of Thale. Nun.
 died: late 9th century in Harz, Germany of natural causes

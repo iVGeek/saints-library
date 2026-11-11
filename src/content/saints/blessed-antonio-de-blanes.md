@@ -1,5 +1,6 @@
 ---
 name: Blessed Antonio de Blanes
+stub: false
 honorific: Blessed
 summary: Mercedarian who freed 208 Christians who had been enslaved in northern Africa by Muslims.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Antonio-de-Blanes.jpg

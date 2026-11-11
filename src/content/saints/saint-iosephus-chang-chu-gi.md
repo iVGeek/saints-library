@@ -1,5 +1,6 @@
 ---
 name: Saint Iosephus Chang Chu-gi
+stub: false
 honorific: Venerable
 summary: >-
   Born to a wealthy family with a history of working as diplomats. Married. An adult convert to Christianity, he was

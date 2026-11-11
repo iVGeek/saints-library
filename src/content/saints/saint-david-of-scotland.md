@@ -1,5 +1,6 @@
 ---
 name: Saint David of Scotland
+stub: false
 honorific: Saint
 summary: >-
   Youngest son of King Malcolm III Canmore and Saint Margaret of Scotland; brother of Saint Matilde in whose court he

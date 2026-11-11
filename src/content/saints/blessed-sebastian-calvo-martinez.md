@@ -1,5 +1,6 @@
 ---
 name: Blessed Sebastián Calvo Martínez
+stub: false
 honorific: Blessed
 summary: >-
   Joined the Claretians in 1915. Studied in Barbastro and Cervera, Spain. Priest, ordained in July 1928. Noted teacher

@@ -1,5 +1,6 @@
 ---
 name: Martyrs of Rome
+stub: false
 honorific: Saint
 summary: A group of 46 soldiers and 21 civilians martyred together in the persecutions of Claudius II.
 deathYear: 269

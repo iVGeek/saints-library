@@ -1,5 +1,6 @@
 ---
 name: Blessed Catherine of Leuven
+stub: false
 honorific: Blessed
 summary: >-
   Born to a Jewish family, Rachel converted to Christianity, having learned about the faith from listening to her father

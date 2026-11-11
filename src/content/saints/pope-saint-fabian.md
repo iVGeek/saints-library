@@ -1,5 +1,6 @@
 ---
 name: Pope Saint Fabian
+stub: false
 honorific: Saint
 summary: >-
   Layman farmer. He came into Rome, Italy on a day when a new pope was to be elected. A dove flew into the crowd and

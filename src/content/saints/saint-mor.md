@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/b/ba/Bourg-Saint-Maurice%2C_Savoie%2C_France.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Mor
+stub: false
 honorific: Saint
 summary: >-
   Some old documents claim Mor was a boy resurrected from the dead by the prayers of Saint David of Wales, and that in

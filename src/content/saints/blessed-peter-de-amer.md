@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Peter de Amer
+stub: false
 honorific: Blessed
 summary: >-
   Mercedarian secular knight. Elected Master-General of the Mercedarians in 1271. Wrote the first Constitutions of the

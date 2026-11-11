@@ -1,6 +1,7 @@
 ---
 image: https://www.catholic.org/files/images/saints/882.jpg
 name: Saint Pontian
+stub: true
 honorific: Saint
 summary: Martyred with four unnamed in the persecutions of Emperor Valerian.
 deathYear: 259

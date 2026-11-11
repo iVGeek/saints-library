@@ -1,5 +1,6 @@
 ---
 name: Blessed Ladislao Batthyány-Strattmann
+stub: false
 honorific: Blessed
 summary: >-
   Born into an ancient noble Hungarian family, the sixth of ten brothers. His family moved to Austria when he was six

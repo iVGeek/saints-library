@@ -1,5 +1,6 @@
 ---
 name: Jesse the Patriarch
+stub: false
 honorific: Saint
 summary: >-
   Grandson of Booz and Ruth, father of King David. Jesse of the tribe of Juda, lived at Bethlehem (Ruth 4). He was an

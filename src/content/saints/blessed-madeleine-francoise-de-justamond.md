@@ -1,5 +1,6 @@
 ---
 name: Blessed Madeleine-Françoise de Justamond
+stub: false
 honorific: Blessed
 summary: >-
   Cistercian nun, entering the novitiate in Avignon, France in 1772, and making her profession on 24 October 1773.

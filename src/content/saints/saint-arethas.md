@@ -1,5 +1,6 @@
 ---
 name: Saint Arethas
+stub: false
 honorific: Saint
 summary: >-
   Martyred in the persecutions of Dhu Nowas (Dunawan), King of the Hymerites along with a large number of fellow

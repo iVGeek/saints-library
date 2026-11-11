@@ -1,5 +1,6 @@
 ---
 name: Blessed Hugh Faringdon
+stub: false
 honorific: Blessed
 summary: >-
   Abbot in Reading, England in 1520. Royal chaplain, member of Parliament, and close friend of King Henry VIII. When

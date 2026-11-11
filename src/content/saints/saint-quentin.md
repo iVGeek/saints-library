@@ -1,5 +1,6 @@
 ---
 name: Saint Quentin of Amiens
+stub: false
 honorific: Saint
 summary: >-
   Son of a Roman senator, and raised a pagan, Quentin converted to Christianity. He served as a missionary to Gaul (in

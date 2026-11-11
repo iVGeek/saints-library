@@ -1,5 +1,6 @@
 ---
 name: Saint Athenogenes of Pontus
+stub: true
 honorific: Saint
 summary: Priest. Hymnist. Martyr.
 deathYear: 196

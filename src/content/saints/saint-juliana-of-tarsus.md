@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Juliana of Tarsus
+stub: true
 honorific: Saint
 summary: Martyed with Saint Cyrenia in the persecutions of Galerius and Maximian.
 deathYear: 306

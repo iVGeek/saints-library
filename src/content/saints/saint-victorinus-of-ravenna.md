@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Victorinus of Ravenna
+stub: true
 honorific: Saint
 summary: Martyr.
 deathYear: 305

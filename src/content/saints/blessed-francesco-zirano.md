@@ -1,5 +1,6 @@
 ---
 name: Blessed Francesco Zirano
+stub: false
 honorific: Blessed
 summary: >-
   Member of the Friars Minor Conventuals, making his profession in 1580. Priest, ordained in 1586. In 1599 he received

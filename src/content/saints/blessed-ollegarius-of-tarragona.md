@@ -1,5 +1,6 @@
 ---
 name: Blessed Ollegarius of Tarragona
+stub: false
 honorific: Blessed
 summary: >-
   Augustinian canon regular. Prior of a succession of monasteries in France. Bishop of Barcelona, Spain in 1115.

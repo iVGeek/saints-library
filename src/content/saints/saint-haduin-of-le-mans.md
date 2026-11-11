@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Haduin of Le Mans
+stub: false
 honorific: Saint
 summary: Bishop at Le Mans, France. Founded several monasteries including Notre-Dame-d'Evron.
 searchAliases:

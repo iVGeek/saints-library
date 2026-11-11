@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed John Thorne
+stub: false
 honorific: Blessed
 summary: >-
   Benedictine monk at Glastonbury. Abbey treasurer at the time the house was dissolved by decree of King Henry VIII.

@@ -1,5 +1,6 @@
 ---
 name: Saint Clare of Montefalco
+stub: false
 honorific: Saint
 summary: >-
   Claimed by both the Franciscans and Augustinians. Pious from childhood, and devoted to Christ's Passion and the Cross.

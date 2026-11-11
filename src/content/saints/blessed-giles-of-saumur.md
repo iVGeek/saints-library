@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Giles of Saumur
+stub: false
 honorific: Blessed
 summary: >-
   Chaplain to King Saint Louis IX. Accompanied the king on Crusade. Bishop of Damietta, Egypt in 1243. Archbishop of

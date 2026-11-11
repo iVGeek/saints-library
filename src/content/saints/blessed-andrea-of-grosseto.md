@@ -1,5 +1,6 @@
 ---
 name: Blessed Andrea of Grosseto
+stub: false
 honorific: Blessed
 summary: >-
   15th century Franciscan. Spiritual student of Blessed Thomas of Scarlino. He was known for his piety, his obedience,

@@ -1,5 +1,6 @@
 ---
 name: Saint Viator
+stub: false
 honorific: Saint
 summary: >-
   Benedictine monk at the Saint-Mesmin Abbey (also known as Micy Abbey) in the early sixth-century near Orleans, France.

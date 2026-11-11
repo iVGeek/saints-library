@@ -1,6 +1,7 @@
 ---
 image: https://www.santiebeati.it/immagini/Thumbs/45630/45630.JPG
 name: Saint Eusebia of Hamage
+stub: false
 honorific: Saint
 summary: >-
   Eldest daughter of Saint Adalbald of Ostrevant and Saint Rictrudis of Marchiennes; great-granddaughter of Saint

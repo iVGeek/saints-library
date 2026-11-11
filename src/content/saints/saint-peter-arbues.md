@@ -1,5 +1,6 @@
 ---
 name: Saint Peter Arbues
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility, the son of Antonio Arbues and Sancia Ruiz. Studied philosophy at Huesca, Spain. Studied canon

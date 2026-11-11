@@ -1,5 +1,6 @@
 ---
 name: Saint Virginia Centurione Bracelli
+stub: false
 honorific: Saint
 summary: >-
   Daughter of Giorgio Centurione, and imposing and controlling individual who became the Doge of Genoa, and Lelia

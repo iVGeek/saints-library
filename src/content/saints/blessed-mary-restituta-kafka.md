@@ -1,5 +1,6 @@
 ---
 name: Blessed Mary Restituta Kafka
+stub: false
 honorific: Blessed
 summary: >-
   Sixth daughter of a shoemaker. Grew up in Vienna, Austria. Worked as a sales clerk. Nurse. Joined the Franciscan

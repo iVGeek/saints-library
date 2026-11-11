@@ -1,5 +1,6 @@
 ---
 name: Blessed John Pelingotto
+stub: false
 honorific: Blessed
 summary: >-
   Son of a wealthy merchant, John cared nothing for business, wealth or worldly success and preferred to live as a

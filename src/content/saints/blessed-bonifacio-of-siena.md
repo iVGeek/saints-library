@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/0/03/Vatican_City_%28St._Peter_Square%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Bonifacio of Siena
+stub: true
 honorific: Blessed
 summary: Franciscan friar.
 searchAliases:

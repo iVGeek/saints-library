@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/7/70/Madonna_Advocata.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Sebastian of the Holy Spirit
+stub: false
 honorific: Blessed
 summary: >-
   Mercedarian lay brother at the convent of the Holy Spirit in Lima, Peru. Miracle worker known to heal the sick by

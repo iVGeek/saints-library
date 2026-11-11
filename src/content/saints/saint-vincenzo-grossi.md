@@ -1,5 +1,6 @@
 ---
 name: Saint Vincenzo Grossi
+stub: false
 honorific: Venerable
 summary: >-
   One of seven children born to Baldassare Grossi and Maddalena Capellini. Ordained in the diocese of Lodi, Italy on 22

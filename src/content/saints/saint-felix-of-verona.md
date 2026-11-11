@@ -1,5 +1,6 @@
 ---
 name: Saint Felix of Verona
+stub: true
 honorific: Saint
 summary: Bishop of Verona, Italy.
 region: Italy

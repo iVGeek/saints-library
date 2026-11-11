@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Sadoth of Seleucia
+stub: false
 honorific: Saint
 summary: >-
   Deacon in service to Saint Barbasymas in the diocese of Seleucia-Ctesiphon. Attended the Council of Nicaea in 325.

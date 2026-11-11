@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Quartilla of Sorrento
+stub: true
 honorific: Saint
 summary: One of a group of three sisters and a brother who were martyred together.
 died: Sorrento, Italy, date unknown

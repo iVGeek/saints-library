@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Miguel Facerías Garcés
+stub: false
 honorific: Blessed
 summary: Member of the Claretians, professed on 24 March 1893. Martyred in the Spanish Civil War.
 birthYear: 1861

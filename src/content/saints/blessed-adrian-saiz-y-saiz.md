@@ -1,5 +1,6 @@
 ---
 name: Blessed Adrián Saiz y Saiz
+stub: false
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Cuba_%22the_pearl_of_the_Antilles%22_.._%28IA_cubathepearlofan00bustrich%29.pdf/page1-960px-Cuba_%22the_pearl_of_the_Antilles%22_.._%28IA_cubathepearlofan00bustrich%29.pdf.jpg
 honorific: Blessed

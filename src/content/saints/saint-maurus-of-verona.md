@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Maurus of Verona
+stub: false
 honorific: Saint
 summary: >-
   32nd bishop of Verona, Italy, serving from 612 to 622. When first chosen for the office, he declared himself unworthy,

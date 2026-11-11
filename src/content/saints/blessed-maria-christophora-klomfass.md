@@ -1,5 +1,6 @@
 ---
 name: Blessed Maria Christophora Klomfass
+stub: false
 honorific: Blessed
 summary: >-
   The daughter of August and Rozalia Such, Marta's mother was a Franciscan tertiary, and theirs was a pious home. In

@@ -1,5 +1,6 @@
 ---
 name: Saint Nectan of Hartland
+stub: true
 honorific: Saint
 summary: Sixth-century hermit in Hartland, Devon, England.
 searchAliases:

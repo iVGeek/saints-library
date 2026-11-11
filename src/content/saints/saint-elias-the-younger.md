@@ -1,5 +1,6 @@
 ---
 name: Saint Elias the Younger
+stub: false
 honorific: Saint
 summary: >-
   Monk in the tradition of the Eastern Fathers. Escaping the persecutions of invading Muslim Saracens, Elias fled to

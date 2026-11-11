@@ -1,5 +1,6 @@
 ---
 name: Blessed Thomas Sprott
+stub: false
 honorific: Blessed
 summary: >-
   Priest in the apostolic vicariate of England. Martyred for the crime of being a priest during the persecutions of

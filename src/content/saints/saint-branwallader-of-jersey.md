@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Branwallader of Jersey
+stub: true
 honorific: Saint
 summary: Hermit. Monk. Bishop of Jersey, England.
 searchAliases:

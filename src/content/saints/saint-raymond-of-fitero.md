@@ -1,5 +1,6 @@
 ---
 name: Saint Raymond of Fitero
+stub: false
 honorific: Saint
 summary: >-
   Priest. Canon of the cathedral of Tarazona, Spain. Cistercian monk at the Escaladieu Abbey in Gascony, France. Founded

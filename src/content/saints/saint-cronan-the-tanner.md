@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Cronan the Tanner
+stub: true
 honorific: Saint
 summary: Spiritual student of Saint Kevin of Glendalough.
 searchAliases:

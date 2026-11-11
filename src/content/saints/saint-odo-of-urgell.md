@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/9/91/Catedral_d%27Urgell%2C_Sant_Ot.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Odo of Urgell
+stub: false
 honorific: Saint
 summary: >-
   Oldest son of a Spanish Count of of Pallars Sobirà. Soldier. Archdeacon in Urgell, Spain. Bishop of Urgell in 1095.

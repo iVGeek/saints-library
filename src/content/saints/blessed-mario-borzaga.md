@@ -1,5 +1,6 @@
 ---
 name: Blessed Mario Borzaga
+stub: false
 honorific: Blessed
 summary: >-
   Joined the Missionary Oblates of Mary Immaculate at age 20. Ordained at 25. Missionary to Laos in 1957, caring for the

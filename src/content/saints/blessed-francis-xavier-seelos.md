@@ -1,5 +1,6 @@
 ---
 name: Blessed Francis Xavier Seelos
+stub: false
 honorific: Blessed
 summary: >-
   One of twelve children born to Mang and Frances Schwarzenbach Seelos; he was named for Saint Francis Xavier. His

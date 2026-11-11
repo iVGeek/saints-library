@@ -1,5 +1,6 @@
 ---
 name: Blessed Sebastian Maggi
+stub: false
 honorific: Blessed
 summary: >-
   Born to the Italian nobility, Sebastian joined the Dominicans in Brescia at age 15 in 1429; this was the earliest that

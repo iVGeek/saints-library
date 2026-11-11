@@ -1,5 +1,6 @@
 ---
 name: Saint Junian
+stub: false
 honorific: Saint
 summary: >-
   The son of the Count of Cambrai, Junian felt a call to religion; at age 15, in the late 5th century, became a hermit

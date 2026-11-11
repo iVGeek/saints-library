@@ -1,5 +1,6 @@
 ---
 name: Saint Justina of Antioch
+stub: false
 honorific: Saint
 summary: >-
   Young maiden who had consecrated her virginity to God, and who became the target of the obsession of Saint Cyprian of

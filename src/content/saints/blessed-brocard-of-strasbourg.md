@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/c/c4/Canonization_of_the_Martyrs_of_Katyn_by_the_Polish_Orthodox_Church_%2825%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Brocard of Strasbourg
+stub: false
 honorific: Blessed
 summary: >-
   Studied in Paris, France. Friend of Blessed Reginald of Orleans. Joined the Dominicans in Paris on 1 February 1220.

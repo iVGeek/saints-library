@@ -1,5 +1,6 @@
 ---
 name: Blessed Simó Isidre Joaquím Brun Ararà
+stub: false
 honorific: Blessed
 summary: Joined the Hospitallers of Saint John of God in 1916. Martyred in the Spanish Civil War.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Simó-Isidre-Joaquím-Brun-Ararà.jpg

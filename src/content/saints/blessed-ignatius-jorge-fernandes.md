@@ -1,5 +1,6 @@
 ---
 name: Blessed Ignatius Jorge-Fernandes
+stub: false
 honorific: Blessed
 summary: >-
   Child in the archdiocese of Nagasaki, Japan. Martyred in the persecution of the Tokugawa Shogunate as part of the

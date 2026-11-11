@@ -1,5 +1,6 @@
 ---
 name: Saint Francesco Fogolla
+stub: false
 honorific: Venerable
 summary: >-
   Priest. Franciscan missionary. Co-adjutor of the apostolic vicar of Northern Shanxi, China. One of the Martyrs of

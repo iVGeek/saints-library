@@ -1,5 +1,6 @@
 ---
 name: Saint Etchen of Clonfad
+stub: false
 honorific: Saint
 summary: >-
   Monk. Founded a monastery in Clonfad, Leinster, Ireland, and served as its abbot. Bishop, based at the monastery.

@@ -1,5 +1,6 @@
 ---
 name: Blessed Bartholomew Buonpedoni
+stub: false
 honorific: Blessed
 summary: >-
   Born to the nobility, the only son of Count Giovanni and Countess Giuntina Bounpedoni, a couple who had prayed for

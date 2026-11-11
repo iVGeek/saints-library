@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Malcoldia of Asti
+stub: true
 honorific: Saint
 summary: Benedictine nun. Anchoress at Asti, Italy.
 deathYear: 1090

@@ -1,5 +1,6 @@
 ---
 name: Saint Theopemptus of Nicomedia
+stub: false
 honorific: Saint
 summary: Bishop of Nicomedia, Bithynia (in modern Turkey). Converted Saint Theonas. Martyred in the persecutions of Diocletian.
 image: >-

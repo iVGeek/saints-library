@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Euménios
+stub: false
 honorific: Blessed
 summary: >-
   Brother of Blessed Parthenios. Euménios was devoted service to lay people and monks in Martsallon, Crete. Monk of the

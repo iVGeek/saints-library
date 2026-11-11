@@ -1,5 +1,6 @@
 ---
 name: Saint Phaolô Lê Van Loc
+stub: false
 honorific: Venerable
 summary: >-
   Priest in the apostolic vicariate of West Cochinchina (modern Vietnam). Martyred in the persecutions of emperor Tu

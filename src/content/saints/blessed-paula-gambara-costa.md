@@ -1,5 +1,6 @@
 ---
 name: Blessed Paula Gambara Costa
+stub: false
 honorific: Blessed
 summary: >-
   Born to the nobility, the eldest of seven children born to Giampaolo Gambara and Taddea Caterina Martinengo. In her

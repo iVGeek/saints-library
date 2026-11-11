@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/8/8f/Digne_les_bains_-_vue_est.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Douceline of Digne
+stub: false
 honorific: Blessed
 summary: >-
   Daughter of Berengarius of Digne, a prosperous merchant, and Huguette of Barjols; the couple was known for their piety

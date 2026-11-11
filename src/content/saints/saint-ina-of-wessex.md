@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Ina of Wessex
+stub: false
 honorific: Saint
 summary: >-
   King of Wessex (in modern England) from 688 to 726. Known as a great warrior, lawgiver and justice, he restored

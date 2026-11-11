@@ -1,5 +1,6 @@
 ---
 name: Venerable José María Arizmendiarrieta Madariaga
+stub: false
 honorific: Venerable
 summary: >-
   The oldest son in his family, José lost an eye in a childhood accident. As an adult, he worked as a journalist for

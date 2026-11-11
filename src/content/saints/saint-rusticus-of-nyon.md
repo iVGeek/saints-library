@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Rusticus of Nyon
+stub: true
 honorific: Saint
 summary: Martyred for refusing to sacrifice to imperial Roman idols.
 died: beheaded in Noviodunum (modern Nyon, Switzerland)

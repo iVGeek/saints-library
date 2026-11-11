@@ -1,5 +1,6 @@
 ---
 name: Saint André Bauer
+stub: false
 honorific: Venerable
 summary: Member of the Franciscan Friars Minor (Observants). Martyred in the Boxer Rebellion.
 deathYear: 1900

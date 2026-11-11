@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/4a/Deventer_zonsondergang_k.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Isala
+stub: false
 honorific: Saint
 summary: Travelling companion of, and martyred with Saint Ursula. Nothing else is known about her.
 deathYear: 238

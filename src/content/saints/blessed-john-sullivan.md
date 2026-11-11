@@ -1,5 +1,6 @@
 ---
 name: Blessed John Sullivan
+stub: false
 honorific: Blessed
 summary: >-
   Son of the Lord Chancellor of Ireland, and raised in the Church of Ireland; his mother was Catholic. Successful

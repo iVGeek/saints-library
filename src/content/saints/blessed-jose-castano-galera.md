@@ -1,5 +1,6 @@
 ---
 name: Blessed José Castaño Galera
+stub: true
 honorific: Blessed
 summary: Priest of the diocese of Almería, Spain. Martyred in the Spanish Civil War.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Jose-Castano-Galera.jpg

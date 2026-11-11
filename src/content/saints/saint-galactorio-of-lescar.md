@@ -1,5 +1,6 @@
 ---
 name: Saint Galactorio of Lescar
+stub: false
 honorific: Saint
 summary: >-
   Sixth century bishop of Lescar in the French Pyrenees. Participated in the Council of Agde. Martyred by invading Arian

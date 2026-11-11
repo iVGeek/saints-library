@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/6/65/Trecynon_St_Fagans_Church_by_Aberdare_Blog.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Paganus
+stub: true
 honorific: Blessed
 summary: Benedictine monk in Sicily. Hermit.
 deathYear: 1423

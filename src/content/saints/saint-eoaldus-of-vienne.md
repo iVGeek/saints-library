@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Eoaldus of Vienne
+stub: true
 honorific: Saint
 summary: Related to Gallic royalty. Bishop of Vienne, France.
 searchAliases:

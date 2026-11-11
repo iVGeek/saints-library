@@ -1,5 +1,6 @@
 ---
 name: Saint John of Meda
+stub: false
 honorific: Saint
 summary: >-
   Priest in Milan and Como, Italy. Following a vision of the Virgin Mary, he joined the Humiliati in 1134, and worked

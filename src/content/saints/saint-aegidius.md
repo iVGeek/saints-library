@@ -1,5 +1,6 @@
 ---
 name: Saint Aegidius of Sansepolcro
+stub: false
 honorific: Saint
 summary: >-
   With Saint Arcanus he made a pilgrimage to Palestine where they collected relics which they brought back to Italy in

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Arianell
+stub: false
 honorific: Saint
 summary: >-
   Sixth century member of the Welsh royal family. She became possessed by an spirit, and was exorcised by Saint Dyfrig.

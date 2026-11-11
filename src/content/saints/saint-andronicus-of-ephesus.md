@@ -1,5 +1,6 @@
 ---
 name: Saint Andronicus of Ephesus
+stub: false
 honorific: Saint
 summary: >-
   Born to a prominent family in Ephesus. Tried and tortured for the crime of Christianity in Tarsus, Mopsuestia and

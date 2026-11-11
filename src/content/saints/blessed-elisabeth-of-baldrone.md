@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Elisabeth of Baldrone
+stub: false
 honorific: Blessed
 summary: ' Elisabeth was known as a miracle w Born to a family active in civic life, Elisabeth was drawn to religious life, and eventually withdrew to become a Camaldolese sister at the monastery of Baldrone, Italy. Considered an example of the proper religious life, she was elected abbess.'
 deathYear: 1280

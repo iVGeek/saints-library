@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/7/77/Saint_Petersburg_Conservatory.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Papo
+stub: true
 honorific: Saint
 summary: Martyr.
 searchAliases:

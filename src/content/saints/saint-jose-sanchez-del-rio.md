@@ -1,5 +1,6 @@
 ---
 name: Saint José Sánchez del Río
+stub: false
 honorific: Venerable
 summary: >-
   Childhood friend of Father Marcial Maciel who founded the Legionnaires of Christ and who witnessed José's death. At

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/6/6a/Albrecht_D%C3%BCrer%2C_Saint_George_Killing_the_Dragon%2C_1501-1504%2C_NGA_6715.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Peter James of Pesaro
+stub: true
 honorific: Blessed
 summary: Augustinian friar at the convent of Saint Nicholas in Pesaro, Italy.
 deathYear: 1496

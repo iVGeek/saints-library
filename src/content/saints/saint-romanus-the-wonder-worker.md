@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Romanus the Wonder Worker
+stub: true
 honorific: Saint
 title: Hermit
 summary: Fifth century hermit who lived on a mountain near Antioch, Syria.

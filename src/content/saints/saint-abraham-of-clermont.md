@@ -1,5 +1,6 @@
 ---
 name: Saint Abraham of Clermont
+stub: false
 honorific: Saint
 summary: >-
   While on a journey from Syria to Egypt to learn from the desert monks, he was kidnapped by thieves and kept captive

@@ -1,5 +1,6 @@
 ---
 name: Blessed Eliseo Moradillo García
+stub: false
 honorific: Blessed
 summary: >-
   Baptized at the age of six days, Eliseo and his family moved often in his childhood as his father worked for the

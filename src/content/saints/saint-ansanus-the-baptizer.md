@@ -1,5 +1,6 @@
 ---
 name: Saint Ansanus the Baptizer
+stub: false
 honorific: Saint
 summary: >-
   Born into the imperial Roman nobility, the son of a pagan senator. Christian convert at age twelve. His father

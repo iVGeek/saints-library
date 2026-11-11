@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Ammon of Alexandria
+stub: true
 honorific: Saint
 summary: Priest. Martyred by Diocletian.
 born: Egypt

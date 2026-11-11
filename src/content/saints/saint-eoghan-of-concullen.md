@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Eoghan of Concullen
+stub: true
 honorific: Saint
 summary: Son of Saran of Cloncullen. Monk.
 born: County Tipperary, Ireland

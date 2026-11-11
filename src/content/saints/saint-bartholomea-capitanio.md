@@ -1,5 +1,6 @@
 ---
 name: Saint Bartholomea Capitanio
+stub: false
 honorific: Venerable
 summary: >-
   Daughter of an alcoholic corn-factor. Wanted to become a nun, but her family opposed the decision, and so she took a

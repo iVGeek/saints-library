@@ -1,5 +1,6 @@
 ---
 name: Saint Amphilocus of Iconium
+stub: false
 honorific: Saint
 summary: >-
   Cousin and friend of Saint Gregory Nazianus; close friend of Saint Basil the Great. Studied law and rhetoric in

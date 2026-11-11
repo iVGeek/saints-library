@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/b/b9/All_saint.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed James the Almsgiver
+stub: false
 honorific: Blessed
 summary: >-
   Born wealthy. Studied law but left it for the priesthood. Restored a ruined hospital where he tended the sick and gave

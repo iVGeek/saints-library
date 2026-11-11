@@ -1,5 +1,6 @@
 ---
 name: Blessed Nicolás de La Torre Merino
+stub: false
 honorific: Blessed
 summary: >-
   A Salesian coadjutor brother, Nicola made his novitiate in Sarrià, Barcelona, Spain, and made his solemn profession on

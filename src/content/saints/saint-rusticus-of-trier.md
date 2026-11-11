@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Rusticus of Trier
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Trier, Germany. Accused of sexual impurity, Rusticus feared the scandal would harm the faith of this

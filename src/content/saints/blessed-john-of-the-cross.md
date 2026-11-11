@@ -1,5 +1,6 @@
 ---
 name: Blessed John of the Cross
+stub: false
 honorific: Blessed
 summary: >-
   Mercedarian friar sent with Blessed Giles of Seville to the Moorish kingdom in Granada, Spain in 1324 to redeem

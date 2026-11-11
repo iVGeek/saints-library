@@ -1,5 +1,6 @@
 ---
 name: Saint Triphina of Brittany
+stub: false
 honorific: Saint
 summary: >-
   Mother of Saint Tremorus. Widowed, she re-married, becoming the wife of Count Conmore of Brittany. After the martyrdom

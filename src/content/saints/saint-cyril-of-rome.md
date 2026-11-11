@@ -1,5 +1,6 @@
 ---
 name: Saint Cyril of Rome
+stub: false
 honorific: Saint
 summary: >-
   A bystander who witnessed the torture and mutilation of Saint Anastasia the Elder. When Anastasia begged for water, he

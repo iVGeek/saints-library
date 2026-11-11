@@ -1,5 +1,6 @@
 ---
 name: Saint Cadfan
+stub: false
 honorific: Saint
 summary: >-
   Sixth-century monk. Spiritual teacher of Sadwen of Wales. Emigrated from Brittany to Wales where he founded several

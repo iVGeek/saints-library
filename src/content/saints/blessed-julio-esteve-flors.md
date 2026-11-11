@@ -1,5 +1,6 @@
 ---
 name: Blessed Julio Esteve Flors
+stub: false
 honorific: Blessed
 summary: >-
   One of nine children born to Vicente Esteve and Donna Josefa Flors, Julio was baptized at the age of one day. He

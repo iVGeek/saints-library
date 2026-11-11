@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/a/ab/Stefan_Lochner%2C_Die_Apostelmartyrien_left.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Conrad of Heisterbach
+stub: false
 honorific: Blessed
 summary: >-
   Soldier. Ministered to the margraves of Thuringia until he was about 50 years old. He then became a Cistercian lay

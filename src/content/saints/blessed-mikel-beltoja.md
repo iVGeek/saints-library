@@ -1,5 +1,6 @@
 ---
 name: Blessed Mikel Beltoja
+stub: false
 honorific: Blessed
 summary: >-
   Received theological training from Bishop Ernest Çoba of Shkodrë, Albania. Ordained on 8 December 1961 as a priest of

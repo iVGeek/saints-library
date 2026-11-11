@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Venerable Maria Maddalena Frescobaldi Capponi
+stub: false
 honorific: Venerable
 summary: >-
   Married lay woman in the archdiocese of Florence, ItalyPassionist Sisters of Saint Paul of the Cross. Founded a school

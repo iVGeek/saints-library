@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Gundisalvus Fusai Chozo
+stub: false
 honorific: Blessed
 summary: >-
   Held high office in the Japanese imperial court. Convert to Christianity. After baptism, he quit his position to work

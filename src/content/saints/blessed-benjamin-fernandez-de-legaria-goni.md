@@ -1,5 +1,6 @@
 ---
 name: Blessed Benjamín Fernández de Legaria Goñi
+stub: false
 honorific: Blessed
 summary: >-
   The son of Tomas, a farmer, and Fermina, a school teacher for over 50 years. He began studying at a junior seminary

@@ -1,5 +1,6 @@
 ---
 name: Saint Abdon
+stub: false
 honorific: Saint
 summary: >-
   Cooper. With Saint Senen, he befriended Christians persecuted under Diocletian. Tortured and executed when they were

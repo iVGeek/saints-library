@@ -1,5 +1,6 @@
 ---
 name: Blessed Émilie Tavernier Gamelin
+stub: false
 honorific: Blessed
 summary: >-
   Daughter of Antoine Tavernier and Marie-Josephte Maurice, the youngest of 15 children. Orphaned young, and raised by

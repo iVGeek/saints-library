@@ -1,5 +1,6 @@
 ---
 name: Catherine of Siena
+stub: false
 honorific: Saint
 title: Virgin, Doctor of the Church, Mystic
 summary: >-

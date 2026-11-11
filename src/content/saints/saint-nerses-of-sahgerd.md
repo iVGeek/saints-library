@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Nerses of Sahgerd
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Sahgerd in Persia. Arrested with 10 or 12 parishioners during the persecutions of Shapur II. They were

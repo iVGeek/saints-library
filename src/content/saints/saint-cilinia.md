@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Cilinia
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility, and married to Emilius, count of Laon. Blind. Mother of Saint Principius of Soissons and Saint

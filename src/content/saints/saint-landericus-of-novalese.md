@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Landericus of Novalese
+stub: true
 honorific: Saint
 summary: Monk at Novalèse abbey in Savoy (part of modern France). Martyr.
 deathYear: 1050

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Saturninus the Martyr
+stub: true
 honorific: Saint
 summary: Martyred with nine Christian companions whose names have not come down to us.
 region: England

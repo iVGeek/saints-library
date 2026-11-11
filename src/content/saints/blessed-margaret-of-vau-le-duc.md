@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Margaret of Vau-le-Duc
+stub: false
 honorific: Blessed
 summary: >-
   Daughter of Duke Henry II of Brabant. Cistercian nun. Abbess at Vau-le-Duc, Brabant (in modern Belgium), an abbey

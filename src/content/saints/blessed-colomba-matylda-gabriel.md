@@ -1,5 +1,6 @@
 ---
 name: Blessed Colomba Matylda Gabriel
+stub: false
 honorific: Blessed
 summary: >-
   Born to the wealthy Polish nobility, Janina became a teacher, first in public schools, and then in ones run by the

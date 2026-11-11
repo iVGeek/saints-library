@@ -1,5 +1,6 @@
 ---
 name: Saint Cecilia
+stub: false
 honorific: Saint
 title: St. Cecilia
 summary: >-

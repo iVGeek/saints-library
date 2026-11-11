@@ -1,5 +1,6 @@
 ---
 name: Blessed Maria Mancini
+stub: false
 honorific: Blessed
 summary: >-
   By age 25, Maria had been married twice, to Baccio Mancini and them Guillermo Spezzalaste, widowed twice, and saw all

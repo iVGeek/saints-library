@@ -1,5 +1,6 @@
 ---
 name: Blessed Luis Obdulio Arroyo Navarro
+stub: false
 honorific: Blessed
 summary: >-
   Born to a pious family, Luis was drawn to religious living from an early age. Layman member of the Third Order of

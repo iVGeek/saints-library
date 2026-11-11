@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Racho of Autun
+stub: true
 honorific: Saint
 title: Bishop
 summary: First bishop of Autun, France.

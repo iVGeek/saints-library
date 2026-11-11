@@ -1,5 +1,6 @@
 ---
 name: Saint Dichu
+stub: false
 honorific: Saint
 summary: >-
   Son of an Ulster chieftain, he was a swineherd in his youth. Saint Patrick's first convert in Ireland. Gave Patrick

@@ -1,5 +1,6 @@
 ---
 name: Blessed Arnaldo de Rossinol
+stub: false
 honorific: Blessed
 summary: >-
   Orphaned young, Arnaldo was raised by his uncle, the archbishop of Tarragona, Spain. As a young man, Arnaldo served

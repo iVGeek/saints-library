@@ -1,5 +1,6 @@
 ---
 name: Saint Gorgonio of Nicomedia
+stub: false
 honorific: Saint
 summary: >-
   Army officer and member of the staff in the house of emperor Diocletian. He was exposed as a Christian when he

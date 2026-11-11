@@ -1,5 +1,6 @@
 ---
 name: Blessed Jean Mopinot
+stub: false
 honorific: Blessed
 summary: >-
   Member of the Brothers of the Christian Schools, entering the novitiate on 14 January 1744. Imprisoned on a ship in

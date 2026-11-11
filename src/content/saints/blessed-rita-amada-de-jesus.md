@@ -1,5 +1,6 @@
 ---
 name: Blessed Rita Amada de Jesus
+stub: false
 honorific: Blessed
 summary: >-
   Daughter of Manuel Lopes and Josefa de Jesus Almeida. Hers was a pious family, reading and praying the rosary together

@@ -1,5 +1,6 @@
 ---
 name: Blessed Pedro de Calidis
+stub: false
 honorific: Blessed
 summary: >-
   Friend of Saint Peter Nolasco, who urged him to join the Mercedarians; Peter did at the convent of Sant Antonio Abate

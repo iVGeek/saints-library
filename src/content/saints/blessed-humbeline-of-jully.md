@@ -1,5 +1,6 @@
 ---
 name: Blessed Humbeline of Jully
+stub: false
 honorific: Blessed
 summary: >-
   Younger sister of Saint Bernard of Clairvaux. Married to Guy de Narcy, a member of the ruling family of Lorraine (in

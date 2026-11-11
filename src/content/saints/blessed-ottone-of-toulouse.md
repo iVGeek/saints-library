@@ -1,5 +1,6 @@
 ---
 name: Blessed Ottone of Toulouse
+stub: false
 honorific: Blessed
 summary: >-
   Born to the French nobilty; brother of a viscount of Narborne; uncle of the queen of Navarre. Joined the Mercedarians.

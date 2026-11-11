@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Cyriacus of Zeganea
+stub: false
 honorific: Saint
 summary: Confessor of the faith in Zeganea, Laziqia (in modern Syria). No details of his life have survived.
 region: Syria

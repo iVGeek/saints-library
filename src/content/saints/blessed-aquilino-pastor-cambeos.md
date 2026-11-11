@@ -1,5 +1,6 @@
 ---
 name: Blessed Aquilino Pastor Cambeos
+stub: false
 honorific: Blessed
 summary: >-
   Aquilino studied at the seminaries of Coria and Toledo, Spain, and was ordained a priest on 25 August 1935. A member

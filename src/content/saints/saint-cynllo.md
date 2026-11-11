@@ -1,5 +1,6 @@
 ---
 name: Saint Cynllo
+stub: false
 honorific: Saint
 summary: Several churches are dedicated to this saint in Wales, but no details about him have survived.
 searchAliases:

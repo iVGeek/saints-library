@@ -1,5 +1,6 @@
 ---
 name: Blessed Bronislava of Poland
+stub: false
 honorific: Blessed
 summary: >-
   Daughter of Count Stanislaus and Countess Anna of Prandata-Odrowaz; related to Saint Hyacinth and Blessed Czeslaw.

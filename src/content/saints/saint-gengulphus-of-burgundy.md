@@ -1,5 +1,6 @@
 ---
 name: Saint Gengulphus of Burgundy
+stub: false
 honorific: Saint
 summary: >-
   Born to wealthy Burgundian nobility, he became knight and courtier. Married a noble woman who proved frequently

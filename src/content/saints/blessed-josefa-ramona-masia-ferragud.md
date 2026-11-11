@@ -1,5 +1,6 @@
 ---
 name: Blessed Josefa Ramona Masiá Ferragud
+stub: true
 honorific: Blessed
 summary: Discalced Augustinian nun. Martyred in the Spanish Civil War.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Josefa-Ramona-Masiá-Ferragud.jpg

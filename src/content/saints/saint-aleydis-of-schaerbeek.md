@@ -1,5 +1,6 @@
 ---
 name: Saint Aleydis of Schaerbeek
+stub: false
 honorific: Saint
 summary: >-
   At age seven Aleydis was sent to the Cistercian convent of Camera Sanctae Mariae to receive an education; she stayed

@@ -1,5 +1,6 @@
 ---
 name: Saint Agapes of Nicomedia
+stub: true
 honorific: Saint
 searchAliases:
   - Agathia

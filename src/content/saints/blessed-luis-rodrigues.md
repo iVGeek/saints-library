@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/f/f4/Ferdinand_the_Saint_%28St._Vincent_Panels%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Luís Rodrigues
+stub: false
 honorific: Blessed
 summary: Jesuit novice. Missionary. Martyred by the Huguenot Jacques Sourie while en route to Brazil.
 birthYear: 1554

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/2/2c/Plaque_de_Saint-Simeon_%28Louvre%2C_Bj_2180%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Pamphilus of Cilicia
+stub: false
 honorific: Saint
 summary: >-
   Pamphilus studied in Alexandria, Egypt where he became a great defender of the works of Origen. Ordained a priest in

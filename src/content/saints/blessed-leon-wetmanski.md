@@ -1,5 +1,6 @@
 ---
 name: Blessed Leon Wetmański
+stub: false
 honorific: Blessed
 summary: >-
   Priest. Auxiliary bishop of Plock, Poland, serving with Blessed Antoni Julian Nowowiejski. Father Leon was known for

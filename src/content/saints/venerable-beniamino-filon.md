@@ -1,5 +1,6 @@
 ---
 name: Venerable Beniamino Filon
+stub: false
 honorific: Venerable
 summary: >-
   The eighth of ten children born to Giacomo Filon and Giuseppina Marin, Beniamino Angelo was baptized at the age of

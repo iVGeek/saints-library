@@ -1,5 +1,6 @@
 ---
 name: Saint Lubentius
+stub: false
 honorific: Saint
 title: Priest
 summary: >-

@@ -1,5 +1,6 @@
 ---
 name: Blessed Leo Hayashida Sukeemon
+stub: false
 honorific: Blessed
 summary: >-
   Layman in the archdiocese of Nagasaki, Japan. Married to Blessed Martha Hayashida; father of Blessed Magdalena

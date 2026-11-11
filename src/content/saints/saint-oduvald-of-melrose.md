@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/3/38/MELROSE_ABBEY_Looking_along_the_nave_from_the_west.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Oduvald of Melrose
+stub: false
 honorific: Saint
 summary: >-
   Born to the Scottish nobility. Governor of the province of Laudon. He gave up his wealth and status to become a monk

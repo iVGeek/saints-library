@@ -1,5 +1,6 @@
 ---
 name: Saint Clement of Ohrid
+stub: false
 honorific: Saint
 summary: >-
   Student of Saint Cyril and Saint Methodius in Moravia and Panonia. Building on their work, he helped found Slavic

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/b/bc/Deniyau.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Kristina Hamm
+stub: false
 honorific: Blessed
 summary: 15th century nun in Hamm, Westphalia (in modern Germany). Stigmatist, attested by 12 witnesses.
 region: Germany

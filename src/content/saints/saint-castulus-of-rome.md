@@ -1,5 +1,6 @@
 ---
 name: Saint Castulus of Rome
+stub: false
 honorific: Saint
 summary: >-
   Married to Saint Irene of Rome. Military officer in the imperial palace in Rome during the reign of Emperor

@@ -1,5 +1,6 @@
 ---
 name: Blessed James of Voragine
+stub: false
 honorific: Blessed
 summary: >-
   Dominican in 1244 at age 14. Taught theology and Bible study. Prior of his house in Genoa, Italy. Provincial of

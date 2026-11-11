@@ -1,5 +1,6 @@
 ---
 name: Saint Peter of Tarentaise
+stub: false
 honorific: Saint
 summary: >-
   Joined the Benedictine Cistercians at Bonneveaux, France at age 20 along with his father and two brothers. Monk. First

@@ -1,5 +1,6 @@
 ---
 name: Venerable Antonio Repiso Martínez de Orbe
+stub: false
 honorific: Venerable
 summary: >-
   The youngest child and only son of Francisco Repiso Membrilla and Carlota Martínez de Orbe, Antonio was 12 years old

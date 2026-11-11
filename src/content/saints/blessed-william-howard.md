@@ -1,5 +1,6 @@
 ---
 name: Blessed William Howard
+stub: false
 honorific: Blessed
 summary: >-
   Son of Thomas, earl of Arundel, England. Grandson of Saint Philip Howard. Raised Catholic in England in a time when

@@ -1,5 +1,6 @@
 ---
 name: Saint Alexandra of Amisus
+stub: true
 honorific: Saint
 summary: Christian woman martyred in the persecutions of Diocletian.
 image: https://catholicsaints.info/wp-content/uploads/Alexandra.jpg

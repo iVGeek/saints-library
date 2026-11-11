@@ -1,5 +1,6 @@
 ---
 name: Saint Anthemius of Poitiers
+stub: false
 honorific: Saint
 summary: >-
   Eighth century bishop of Poitiers, France. Evangelized the Saintonge region. Accompanied Charlemagne to Spain where he

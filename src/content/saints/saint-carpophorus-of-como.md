@@ -1,5 +1,6 @@
 ---
 name: Saint Carpophorus of Como
+stub: false
 honorific: Saint
 summary: Christian soldier in the imperial Roman army. Martyred in the persecutions of Maximian.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Carpophorus-of-Como.jpg

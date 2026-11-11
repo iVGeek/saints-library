@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Securus of Africa
+stub: true
 honorific: Saint
 summary: Martyred by Arian Vandals.
 deathYear: 450

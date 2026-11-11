@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/b/bc/Nikki_Sixx.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Mariano Brandi
+stub: false
 honorific: Blessed
 summary: Franciscan tertiary. Noted in Franciscan writings for his effectiveness against demons.
 deathYear: 1525

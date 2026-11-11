@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Sylvanus of Pisidia
+stub: true
 honorific: Saint
 summary: Tortured and martyred in the persecutions of Severian.
 died: beheaded in Pisidia, Asia Minor in the early 4th-century

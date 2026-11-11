@@ -1,5 +1,6 @@
 ---
 name: Martyrs of Palestine
+stub: false
 honorific: Saint
 summary: >-
   An unknown number of monks and lay people massacred together for their faith by Saracens led by Mundhir III

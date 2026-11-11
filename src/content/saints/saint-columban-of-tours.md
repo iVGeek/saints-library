@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Columban of Tours
+stub: true
 honorific: Saint
 summary: Priest. Listed in the martyrology of Jerome. No other details have survived.
 region: Italy

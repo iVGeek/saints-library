@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Gerricus of Gerresheim
+stub: false
 honorific: Blessed
 summary: >-
   Born to the landed Frankish nobility; he controlled the city of Gerresheim, which is named for him. About the year

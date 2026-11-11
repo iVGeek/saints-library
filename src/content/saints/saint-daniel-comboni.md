@@ -1,5 +1,6 @@
 ---
 name: Saint Daniel Comboni
+stub: false
 honorific: Saint
 title: St. Daniel Comboni
 summary: >-

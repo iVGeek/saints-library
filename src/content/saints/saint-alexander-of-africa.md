@@ -1,5 +1,6 @@
 ---
 name: Saint Alexander of Africa
+stub: true
 honorific: Saint
 summary: Martyr. No other detail have survived.
 died: unknown location in Africa, date unknown

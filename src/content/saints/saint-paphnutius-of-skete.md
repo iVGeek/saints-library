@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/f/fb/Saint_Peter-Sinai_%286th_Century%29_Crop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Paphnutius of Skete
+stub: false
 honorific: Saint
 summary: >-
   Desert hermit in Egypt in the late 3rd and early 4th-century. Priest. Spiritual student of Saint Macarius the Great.

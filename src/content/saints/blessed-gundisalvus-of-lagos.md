@@ -1,5 +1,6 @@
 ---
 name: Blessed Gundisalvus of Lagos
+stub: false
 honorific: Blessed
 summary: >-
   The son of a fisherman, Gonçalo became an Augustinian friar at about age 20. He was renowned as a theologian and

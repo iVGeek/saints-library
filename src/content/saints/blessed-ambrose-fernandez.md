@@ -1,5 +1,6 @@
 ---
 name: Blessed Ambrose Fernandez
+stub: false
 image: https://commons.wikimedia.org/wiki/Special:FilePath/Cordova-mapa_Norte.jpg?width=600
 honorific: Blessed
 summary: >-

@@ -1,5 +1,6 @@
 ---
 name: Blessed Acardo of Avranches
+stub: false
 image: https://commons.wikimedia.org/wiki/Special:FilePath/Gisant_Achard_de_Saint-Victor.JPG?width=600
 honorific: Blessed
 summary: >-

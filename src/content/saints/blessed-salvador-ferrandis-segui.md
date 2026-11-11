@@ -1,5 +1,6 @@
 ---
 name: Blessed Salvador Ferrandis Seguí
+stub: false
 honorific: Blessed
 summary: >-
   Studied at the Colegio del Patriarca. Ordained as a priest in the archdiocese of Valencia, Spain in 1904. Parish

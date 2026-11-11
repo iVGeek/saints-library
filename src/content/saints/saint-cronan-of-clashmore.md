@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Cronan of Clashmore
+stub: true
 honorific: Saint
 summary: Martyred by pagan Danes.
 deathYear: 631

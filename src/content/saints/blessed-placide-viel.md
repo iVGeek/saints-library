@@ -1,5 +1,6 @@
 ---
 name: Blessed Placide Viel
+stub: false
 honorific: Blessed
 summary: >-
   One of eight children of a farm family. Niece of Saint Marie Madeleine Postel. Joined the Sisters of the Christian

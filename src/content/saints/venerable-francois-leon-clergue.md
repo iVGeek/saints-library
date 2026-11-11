@@ -1,5 +1,6 @@
 ---
 name: Venerable François-Léon Clergue
+stub: false
 honorific: Venerable
 summary: >-
   The oldest of three children born to Jean-Louis-François-Frédéric Clergue, a law clerk, and Rose Amilhau, he was

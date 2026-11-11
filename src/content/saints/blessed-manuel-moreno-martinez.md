@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Manuel Moreno Martínez
+stub: true
 honorific: Blessed
 summary: Dominican priest. Martyred in the Spanish Civil War.
 birthYear: 1862

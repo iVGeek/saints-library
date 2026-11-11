@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Ethernan
+stub: false
 honorific: Saint
 summary: >-
   Born to the Scottish nobility, he was educated and consecrated in Ireland as a bishop, then returned home to

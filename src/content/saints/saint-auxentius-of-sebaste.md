@@ -1,5 +1,6 @@
 ---
 name: Saint Auxentius of Sebaste
+stub: true
 honorific: Saint
 summary: Martyred in the persecutions of Diocletian.
 deathYear: 302

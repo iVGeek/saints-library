@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Ioannes Zhang Jingguang
+stub: false
 honorific: Venerable
 summary: >-
   Seminarian in the apostolic vicariate of Northern Shanxi, China. Member of the Secular Franciscans. Martyred in the

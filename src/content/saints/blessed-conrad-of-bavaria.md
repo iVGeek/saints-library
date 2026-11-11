@@ -1,5 +1,6 @@
 ---
 name: Blessed Conrad of Bavaria
+stub: false
 honorific: Blessed
 summary: >-
   Son of Duke Henry IX of Bavaria. Educated at Wiengarten Abbey in Ravensburg, Germany, and in Cologne, Germany. Joined

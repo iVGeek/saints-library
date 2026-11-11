@@ -1,5 +1,6 @@
 ---
 name: Blessed Lukarda of Oberweimar
+stub: false
 honorific: Blessed
 summary: >-
   Cistercian nun at the Oberweimar abbey near Weimar, Thuringia (in modern Germany), joining at the age of 12. In poor

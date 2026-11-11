@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Herulph of Langres
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility, the son of the Count of Ellwangen (part of modern Germany). Benedictine monk at the abbey of

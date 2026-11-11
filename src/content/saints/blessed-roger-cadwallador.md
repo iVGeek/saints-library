@@ -1,5 +1,6 @@
 ---
 name: Blessed Roger Cadwallador
+stub: false
 honorific: Blessed
 summary: >-
   Studied at Rheims, France in 1591, and at English College in Valladolid, Spain in 1592. Ordained at Valladolid in

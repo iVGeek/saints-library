@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/0/08/Josemaria_Escriva.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Santiago Pardo López
+stub: false
 honorific: Blessed
 summary: Priest. Member of the Benedictine Solesmes Congregation. Martyred in the Spanish Civil War.
 birthYear: 1881

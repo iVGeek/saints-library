@@ -1,5 +1,6 @@
 ---
 name: Blessed José Calasanz Marqués
+stub: false
 honorific: Blessed
 summary: >-
   Joined the Salesians in 1890. Ordained in 1895. Secretary to Blessed Felipe Rinaldi for ten years. Director of the

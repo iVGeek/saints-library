@@ -1,5 +1,6 @@
 ---
 name: Saint Metrone of Verona
+stub: false
 honorific: Saint
 title: Bishop
 summary: >-

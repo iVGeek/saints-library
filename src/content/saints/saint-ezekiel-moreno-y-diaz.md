@@ -1,5 +1,6 @@
 ---
 name: Saint Ezekiel Moreno y Diaz
+stub: false
 honorific: Venerable
 summary: >-
   Raised in a pious family in a pious town. Joined the Augustinian Recollects on 21 September 1864 at Montegudo,

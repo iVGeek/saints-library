@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/9/9b/Bayeux_centre.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Patrick of Bayeux
+stub: true
 honorific: Saint
 title: Bishop
 summary: Bishop of Bayeux, France.

@@ -1,5 +1,6 @@
 ---
 name: Blessed Zef Marksen
+stub: false
 honorific: Blessed
 summary: >-
   Studied in Vienna, Austria, and ordained in Munich, Germany on 21 June 1936 as a priest for the diocese of Lezhë,

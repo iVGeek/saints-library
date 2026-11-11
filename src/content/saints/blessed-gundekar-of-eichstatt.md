@@ -1,5 +1,6 @@
 ---
 name: Blessed Gundekar of Eichstätt
+stub: false
 honorific: Blessed
 summary: >-
   Born to the Frankish nobility, the son of Reginher and Irmingart. Moved to Bavaria, Germany as a child. Educated at

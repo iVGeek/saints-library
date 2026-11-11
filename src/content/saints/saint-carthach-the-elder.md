@@ -1,6 +1,7 @@
 ---
 image: https://www.catholic.org/files/images/saints/2611.jpg
 name: Saint Carthach the Elder
+stub: false
 honorific: Saint
 summary: Descendant of a king. Bishop of Ossory, Ireland and Munster, Ireland. Spiritual teacher of Saint Carthage the Younger.
 searchAliases:

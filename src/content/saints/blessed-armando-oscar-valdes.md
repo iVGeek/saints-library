@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/f/f8/Cruz_de_la_Parra.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Armando Óscar Valdés
+stub: false
 honorific: Blessed
 summary: Monk. Member of the Hospitallers of Saint John of God. Martyred in the Spanish Civil War.
 searchAliases:

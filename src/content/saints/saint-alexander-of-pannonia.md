@@ -1,5 +1,6 @@
 ---
 name: Saint Alexander of Pannonia
+stub: false
 honorific: Saint
 summary: >-
   Third-century imperial Roman soldier and Christian stationed in Hungary. Martyred in the persecutions of Emperor

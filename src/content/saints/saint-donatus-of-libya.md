@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Donatus of Libya
+stub: true
 honorific: Saint
 summary: Bishop in Libya.
 feastDay:

@@ -1,5 +1,6 @@
 ---
 name: Blessed Paula of Tuscany
+stub: false
 honorific: Blessed
 summary: >-
   Placed into the care of the local Camaldolese nuns while she was very young, she remained with the order, student and

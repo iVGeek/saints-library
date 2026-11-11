@@ -1,5 +1,6 @@
 ---
 name: Saint Theodore the Sacristan
+stub: false
 honorific: Saint
 summary: >-
   Sixth century sacristan for the Church of Saint Peter in Rome, Italy. Saint Gregory the Great wrote that Theodore

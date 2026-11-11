@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/2/28/Ana_de_Jes%C3%BAs2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Jerome of the Cross de Torres
+stub: false
 honorific: Blessed
 summary: >-
   Educated at Arima, Japan. Franciscan tertiary. Ordained at Manila, Philippines. Parish priest in Japan from 1628.

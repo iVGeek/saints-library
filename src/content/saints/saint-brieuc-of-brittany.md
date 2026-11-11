@@ -1,5 +1,6 @@
 ---
 name: Saint Brieuc of Brittany
+stub: false
 honorific: Saint
 summary: >-
   Born and raised a pagan in a family of the Welsh nobility, but converted to Christianity as a young adult. Educated in

@@ -1,5 +1,6 @@
 ---
 name: Saint Saxburgh of Ely
+stub: false
 honorific: Saint
 summary: >-
   Born a princess, the daughter of the King of East Anglia (part of modern England). Sister of Saint Etheldred, Saint

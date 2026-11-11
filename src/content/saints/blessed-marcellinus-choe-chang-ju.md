@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/a/a6/7645Shrine_of_Saint_Andrew_Kim_Bulacan_22_%28hq%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Marcellinus Choe Chang-ju
+stub: true
 honorific: Blessed
 summary: Layman martyr in the apostolic vicariate of Korea.
 birthYear: 1749

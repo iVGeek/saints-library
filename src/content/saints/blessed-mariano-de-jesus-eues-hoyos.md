@@ -1,5 +1,6 @@
 ---
 name: Blessed Mariano de Jesus Eues Hoyos
+stub: false
 honorific: Blessed
 summary: >-
   Eldest son of a religious rural Colombian family in a time when the state was hostile to the Church. From age 16 he

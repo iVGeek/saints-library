@@ -1,5 +1,6 @@
 ---
 name: Saint Joseph Mukasa
+stub: false
 honorific: Venerable
 summary: >-
   Kayozi clan. Major-domo to King Mwanga of Uganda, and captain of the king's pages. Convert, joining on 15 November

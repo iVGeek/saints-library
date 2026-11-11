@@ -1,5 +1,6 @@
 ---
 name: Saint Adeodato of Naples
+stub: false
 honorific: Saint
 title: Bishop
 summary: >-

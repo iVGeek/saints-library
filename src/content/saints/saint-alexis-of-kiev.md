@@ -1,5 +1,6 @@
 ---
 name: Saint Alexis of Kiev
+stub: false
 honorific: Saint
 summary: >-
   Russian nobleman who gave up his worldly position to become a Basilian monk. Archbishop of Kiev. Well educated, but he

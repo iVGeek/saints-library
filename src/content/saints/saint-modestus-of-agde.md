@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/1/1c/Catedral_de_Sant_Pere_%28Montpeller%29_-_Porta_i_fa%C3%A7ana_principals.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Modestus of Agde
+stub: true
 honorific: Saint
 summary: Martyred in the persecutions of Diocletian.
 deathYear: 303

@@ -1,5 +1,6 @@
 ---
 name: Blessed Lorenzo Villanueva Larrayoz
+stub: false
 honorific: Blessed
 summary: >-
   Joined the Hospitallers of Saint John of God on 4 March 1908. Worked at the San Rafael asylum hospital in Barcelona,

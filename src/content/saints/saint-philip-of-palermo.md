@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Philip of Palermo
+stub: false
 honorific: Saint
 summary: >-
   A wealthy couple of the Settimi family of Palermo, Italy had finally accepted that they were not going to have

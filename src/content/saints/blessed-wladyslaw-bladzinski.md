@@ -1,5 +1,6 @@
 ---
 name: Blessed Wladyslaw Bladzinski
+stub: false
 honorific: Blessed
 summary: >-
   Priest. Member of the Congregation of Saint Michael the Archangel. During the Nazi persecutions of World War II he was

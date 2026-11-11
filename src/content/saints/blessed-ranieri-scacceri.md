@@ -1,5 +1,6 @@
 ---
 name: Blessed Ranieri Scacceri
+stub: false
 honorific: Blessed
 summary: >-
   Son of a wealthy merchant, he spent a wild and sinful youth as a wandering minstrel and musician, partying all night,

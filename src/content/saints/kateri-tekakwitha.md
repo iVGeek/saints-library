@@ -1,5 +1,6 @@
 ---
 name: Kateri Tekakwitha
+stub: false
 honorific: Saint
 title: Virgin, Religious
 summary: >-

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Philip of Cluain-Bainbh
+stub: true
 honorific: Saint
 title: Bishop
 summary: Bishop of Cluain-Bainbh, Ireland.

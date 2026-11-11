@@ -1,5 +1,6 @@
 ---
 name: Saint Porphyrius of Gaza
+stub: false
 honorific: Saint
 summary: >-
   Born to wealth. Hermit in the desert of Skete, Egypt. Hermit in Palestine on the bank of the Jordan River. Ordained as

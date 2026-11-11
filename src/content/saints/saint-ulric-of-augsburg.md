@@ -1,5 +1,6 @@
 ---
 name: Saint Ulric of Augsburg
+stub: false
 honorific: Saint
 summary: >-
   Son of Count Hucpald and Thetbirga; related to the dukes of Alamannia and the imperial family of the Ottos. He was a

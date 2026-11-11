@@ -1,5 +1,6 @@
 ---
 name: Saint Amandus of Rodez
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Rodez, France, an area that had begun to fall away from Christianity. His evangelism brought his

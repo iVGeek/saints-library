@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Serapion of Rome
+stub: true
 honorific: Saint
 summary: Martyred by a pagan mob.
 died: dragged by the heels over rough ground until he died in Rome, Italy

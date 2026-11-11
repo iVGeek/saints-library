@@ -1,5 +1,6 @@
 ---
 name: Blessed Albert of Bologna
+stub: false
 image: https://commons.wikimedia.org/wiki/Special:FilePath/Flask_%2528Bologna_or_Ferrara%2529_about_1500.jpg?width=600
 honorific: Blessed
 summary: >-

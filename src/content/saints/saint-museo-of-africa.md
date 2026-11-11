@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/b/be/Niccol%C3%B2_di_Segna_-_Saint_Lucy_-_Walters_37756.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Museo of Africa
+stub: false
 honorific: Saint
 summary: One of a group of 35 martyrs who died together. No other information has survived.
 died: in northwestern Africa

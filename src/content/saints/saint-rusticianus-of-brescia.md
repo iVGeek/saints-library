@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Rusticianus of Brescia
+stub: true
 honorific: Saint
 summary: Sixth century bishop of Brescia, Italy.
 deathYear: 594

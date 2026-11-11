@@ -1,5 +1,6 @@
 ---
 name: Augustine of Hippo
+stub: false
 honorific: Saint
 title: Bishop, Doctor of the Church
 summary: >-

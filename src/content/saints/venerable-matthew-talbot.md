@@ -1,5 +1,6 @@
 ---
 name: Venerable Matthew Talbot
+stub: false
 honorific: Venerable
 summary: >-
   Born to a poor family with a history of alcoholism, Matt took to drink when still a child, and was considered a

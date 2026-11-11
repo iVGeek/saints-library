@@ -1,5 +1,6 @@
 ---
 name: Saint Bessus
+stub: false
 honorific: Saint
 summary: ' Because of the understandably poor records from the per Soldier of the Theban Legion. Convert to Christianity. He escaped the massacre of the Legion and became an evangelist in the mountain district of Val Soana. Reported to be a miracle worker and able to heal by prayer. Martyr.'
 image: >-

@@ -1,5 +1,6 @@
 ---
 name: Blessed Laura Vicuña
+stub: false
 honorific: Blessed
 summary: >-
   Daughter of Jose Domingo Vicuña and Mercedes Pino. Her father was a soldier, and Laura was born three months after the

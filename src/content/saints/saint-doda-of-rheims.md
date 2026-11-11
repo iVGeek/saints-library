@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Doda of Rheims
+stub: false
 honorific: Saint
 summary: >-
   Niece of Saint Balderic and Saint Bova of Rheims. Nun at and then abbess of the Saint Peter monastery in Rheims,

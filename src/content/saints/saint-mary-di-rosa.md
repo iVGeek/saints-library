@@ -1,5 +1,6 @@
 ---
 name: Saint Mary di Rosa
+stub: false
 honorific: Venerable
 summary: >-
   One of nine children born to the industrialist Clement di Rosa and Countess Camilla Albani and Clement di Rosa. Her

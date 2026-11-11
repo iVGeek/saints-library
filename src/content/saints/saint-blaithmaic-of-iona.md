@@ -1,5 +1,6 @@
 ---
 name: Saint Blaithmaic of Iona
+stub: false
 honorific: Saint
 summary: >-
   Born a prince, the son of an Irish king. Monk. Abbot. Missionary to England and Scotland, hoping to work with the

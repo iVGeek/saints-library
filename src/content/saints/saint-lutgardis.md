@@ -1,5 +1,6 @@
 ---
 name: Saint Lutgardis
+stub: false
 honorific: Saint
 summary: >-
   A pretty girl with a fondness for clothes and no apparent religious vocation, Lutgardis was sent to the Black

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Henry of Coquet
+stub: false
 honorific: Saint
 summary: >-
   Drawn to religious life from an early age, Henry sailed to England to live as a hermit on Coquet (Cocket) Island off

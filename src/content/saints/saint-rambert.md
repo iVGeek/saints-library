@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Rambert
+stub: false
 honorific: Saint
 summary: Member of the royal court in Austrasia. Murdered by the tyrant Ebroin; he has always been honoured as a martyr.
 searchAliases:

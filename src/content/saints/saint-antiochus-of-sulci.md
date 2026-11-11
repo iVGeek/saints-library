@@ -1,5 +1,6 @@
 ---
 name: Saint Antiochus of Sulci
+stub: false
 honorific: Saint
 summary: >-
   Travelling physician in Galatia and Cappadocia who evangelized as he went, converting many. When Emperor Hadrian

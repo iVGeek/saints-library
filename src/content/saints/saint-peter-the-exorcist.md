@@ -1,5 +1,6 @@
 ---
 name: Saint Peter the Exorcist
+stub: false
 honorific: Saint
 summary: >-
   Exorcist in Rome, Italy. Helped convert Saint Artemius of Rome, Saint Candida of Rome, and Saint Paulina of Rome.

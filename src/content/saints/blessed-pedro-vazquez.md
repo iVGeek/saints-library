@@ -1,5 +1,6 @@
 ---
 name: Blessed Pedro Vázquez
+stub: false
 honorific: Blessed
 summary: >-
   Dominican, assigned to Madrid, Spain, then Manila in the Philippines. Priest. Missionary to Japan. Arrested on 18

@@ -1,5 +1,6 @@
 ---
 name: Saint Stephen the Younger
+stub: false
 honorific: Saint
 summary: >-
   Monk at the monastery of Saint Auxentius at age fifteen. Abbot of Saint Auxentius in 744. Retired in 756 to live as a

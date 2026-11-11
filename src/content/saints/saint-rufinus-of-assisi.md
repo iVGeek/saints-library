@@ -1,5 +1,6 @@
 ---
 name: Saint Rufinus of Assisi
+stub: false
 honorific: Saint
 summary: >-
   Early bishop of Amasea in Pontus (part of Asia Minor) who travelled to the region of Assisi, Italy with his son

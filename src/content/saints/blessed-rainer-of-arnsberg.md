@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Rainer of Arnsberg
+stub: false
 honorific: Blessed
 summary: Premonstratensian monk. Canon of the monastery of Mariënweerd at Utrecht, Netherlands.
 deathYear: 1184

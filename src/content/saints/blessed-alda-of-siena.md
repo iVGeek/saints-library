@@ -1,5 +1,6 @@
 ---
 name: Blessed Alda of Siena
+stub: false
 image: https://commons.wikimedia.org/wiki/Special:FilePath/Piancastagnaio_-_Rocca_aldobrandesca_4.JPG?width=600
 honorific: Blessed
 summary: >-

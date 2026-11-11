@@ -1,5 +1,6 @@
 ---
 name: Blessed Florent Dumontet de Cardaillac
+stub: false
 honorific: Blessed
 summary: >-
   Priest in the diocese of Castres, France. Imprisoned for his faith on a prison ship during the persecutions of the

@@ -1,5 +1,6 @@
 ---
 name: Saint Agatha Hildegard of Carinthia
+stub: false
 honorific: Saint
 summary: >-
   Lay woman, married to Count Paul of Carinthia (part of modern Austria). He was a jealous man who abused her for years

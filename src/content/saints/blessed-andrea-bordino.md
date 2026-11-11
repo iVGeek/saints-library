@@ -1,5 +1,6 @@
 ---
 name: Blessed Andrea Bordino
+stub: false
 honorific: Blessed
 summary: >-
   Drafted into the Italian army, he fought in World War II, was captured by the Soviets, and imprisoned in Siberia.

@@ -1,5 +1,6 @@
 ---
 name: Blessed Gualfardus of Augsburg
+stub: false
 honorific: Blessed
 summary: >-
   Layman artison, trader and saddler at Verona, Italy. His reputation for sanctity spread, and the people of Verona saw

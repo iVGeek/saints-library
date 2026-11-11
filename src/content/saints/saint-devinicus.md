@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Devinicus
+stub: false
 honorific: Saint
 summary: >-
   As an old man he became a missionary in Caithness, Scotland, working with Saint Columba of Iona and Saint Machar of

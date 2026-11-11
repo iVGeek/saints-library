@@ -1,5 +1,6 @@
 ---
 name: Saint Fantinus of San Mercurius
+stub: false
 honorific: Saint
 summary: >-
   Monk in Calabria, Italy. Manuscript copyist. Known for his severely ascetic life style, and for receiving visions of

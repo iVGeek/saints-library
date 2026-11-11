@@ -1,5 +1,6 @@
 ---
 name: Blessed Apolonia Lizárraga Ochoa de Zabalegui
+stub: false
 honorific: Blessed
 summary: >-
   One of eleven children in a pious family. Joined the Carmelite Sisters of Charity on 16 July 1886. Studied at the

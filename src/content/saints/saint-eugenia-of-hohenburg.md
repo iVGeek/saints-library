@@ -1,5 +1,6 @@
 ---
 name: Saint Eugenia of Hohenburg
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility, the daughter of Duke Adalbert of Alsace (in modern France); sister of Saint Attale. Niece of

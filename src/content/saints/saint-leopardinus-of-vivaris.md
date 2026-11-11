@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Leopardinus of Vivaris
+stub: false
 honorific: Saint
 summary: Seventh century monk and abbot of the monastery of Saint Symphorian in Vivaris, province of Berry, France.
 region: France

@@ -1,5 +1,6 @@
 ---
 name: Saint Ðaminh Pham Trong Kham
+stub: false
 honorific: Venerable
 summary: >-
   Married lay Dominicans in the apostolic vicariate of Central Tonkin (modern Vietnam). Tortured and executed in the

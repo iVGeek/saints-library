@@ -1,5 +1,6 @@
 ---
 name: Saint Evermarus of Rousson
+stub: false
 honorific: Saint
 summary: >-
   Born to the Frisian nobility, he became a pilgrim to Santiago de Compostela in Spain, and to several shrines in

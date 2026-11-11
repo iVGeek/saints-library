@@ -1,5 +1,6 @@
 ---
 name: Saint Maria de Mattias
+stub: false
 honorific: Venerable
 summary: >-
   Born to a pious and educated upper class family. Though women of her day were forbidden a formal education, she

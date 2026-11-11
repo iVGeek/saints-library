@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/2/27/Onesimus_and_Philemon.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Paul of Byzantium
+stub: true
 honorific: Saint
 summary: Martyr.
 deathYear: 273

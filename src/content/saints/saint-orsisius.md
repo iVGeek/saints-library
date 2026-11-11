@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Orsisius
+stub: false
 honorific: Saint
 summary: >-
   Desert hermit. Writer. Spiritual student of Saint Pachomius in the desert in Egypt. Helped Pachomius develop the rules

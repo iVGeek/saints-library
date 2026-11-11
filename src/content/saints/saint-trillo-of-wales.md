@@ -1,5 +1,6 @@
 ---
 name: Saint Trillo of Wales
+stub: false
 honorific: Saint
 summary: >-
   Son of an Amorican chief in Brittany, France. Missionary to Wales. Monk at Bardsey. The towns of Llandrillo in

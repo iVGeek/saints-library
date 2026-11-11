@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/1/1c/Bakhita_Szent_Jozefina.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Lorenza Díaz Bolaños
+stub: false
 honorific: Blessed
 summary: >-
   Nun in the Archdiocese of Madrid, Spain. Member of the Daughters of Charity of Saint Vincent de Paul. Martyred in the

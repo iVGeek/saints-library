@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Pascual Castro Herrera
+stub: true
 honorific: Blessed
 summary: Member of the Salesians of Don Bosco. Martyred in the Spanish Civil War.
 birthYear: 1915

@@ -1,5 +1,6 @@
 ---
 name: Blessed Maria Murayama
+stub: false
 honorific: Blessed
 summary: >-
   Layman in the archdiocese of Nagasaki, Japan. Member of the Confraternity of the Rosary. Martyred in the persecution

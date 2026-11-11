@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed William Browne
+stub: false
 honorific: Blessed
 summary: >-
   Layman servant in the house of nobleman Thomas Darcy. Known for his love of the Faith and the Church, he refused to

@@ -1,5 +1,6 @@
 ---
 name: Blessed Maria Schininà Arezzo
+stub: false
 honorific: Blessed
 summary: >-
   Born to the Italian nobility, the fifth of eight children of Giambattista Schininà and Rosalia Arezzo. Though she had

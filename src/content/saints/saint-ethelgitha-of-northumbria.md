@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Ethelgitha of Northumbria
+stub: true
 honorific: Saint
 summary: Nun. Abbess of a convent in Northumbria, England.
 deathYear: 720

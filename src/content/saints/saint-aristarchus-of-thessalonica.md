@@ -1,5 +1,6 @@
 ---
 name: Saint Aristarchus of Thessalonica
+stub: false
 honorific: Saint
 summary: >-
   Convert and spiritual student of Saint Paul the Apostle, he worked with Paul in Ephesus, Corinth, Jerusalem, and Rome

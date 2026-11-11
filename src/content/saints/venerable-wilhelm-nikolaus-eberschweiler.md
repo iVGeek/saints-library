@@ -1,5 +1,6 @@
 ---
 name: Venerable Wilhelm Nikolaus Eberschweiler
+stub: false
 honorific: Venerable
 summary: >-
   Wilhelm was raised in a pious family; he and three of his brothers all joined the Jesuits. Wilhelm began his novitiate

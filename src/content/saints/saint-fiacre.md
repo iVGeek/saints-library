@@ -1,5 +1,6 @@
 ---
 name: Saint Fiacre
+stub: false
 honorific: Saint
 summary: >-
   Brother of Saint Syra of Troyes. Raised in an Irish monastery, which in the 7th century were great repositories of

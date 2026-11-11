@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Nectarius of Vienne
+stub: true
 honorific: Saint
 summary: 13th bishop of Vienne, France, serving from c.441 to c.449.
 searchAliases:

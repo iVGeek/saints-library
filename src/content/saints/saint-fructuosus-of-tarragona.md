@@ -1,5 +1,6 @@
 ---
 name: Saint Fructuosus of Tarragona
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Tarragona, Spain. Arrested on 16 January 259 by the Roman governor Emilian. Martyred with Saint Augurius and

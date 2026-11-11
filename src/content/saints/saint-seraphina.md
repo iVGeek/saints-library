@@ -1,5 +1,6 @@
 ---
 name: Saint Seraphina
+stub: false
 honorific: Saint
 summary: >-
   Born poor, and though she stayed that way, she still found ways to help those in worse shape that herself. A pretty

@@ -1,5 +1,6 @@
 ---
 name: Blessed Juan de Huete
+stub: false
 honorific: Blessed
 summary: >-
   Mercedarian friar. Sent by Blessed Antonio Morell to Muslim-occupied Granada, Spain to ransom Christians enslaved by

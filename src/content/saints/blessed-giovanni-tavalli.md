@@ -1,5 +1,6 @@
 ---
 name: Blessed Giovanni Tavalli
+stub: false
 honorific: Blessed
 summary: >-
   While studying civil law in Bologna, Italy, Giovanni quit to join the Order of the Gesuati; in 1426, he was chosen

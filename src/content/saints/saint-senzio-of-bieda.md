@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Senzio of Bieda
+stub: true
 honorific: Saint
 title: Hermit
 summary: Fifth-century hermit.

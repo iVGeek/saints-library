@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Terence of Iconium
+stub: false
 honorific: Saint
 summary: First century bishop of Iconium. May have been the Terius mentioned by Saint Paul the Apostle in Romans 16.22. Martyr.
 searchAliases:

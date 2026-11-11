@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Elfleda of Whitby
+stub: false
 honorific: Saint
 summary: >-
   Born a princess, the daughter of King Oswy of Northumbria (part of England). She was offered to God as a child at the

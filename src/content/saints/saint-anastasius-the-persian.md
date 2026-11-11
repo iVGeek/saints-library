@@ -1,5 +1,6 @@
 ---
 name: Saint Anastasius the Persian
+stub: false
 honorific: Saint
 summary: >-
   Pagan magician. Soldier in the army of Persian king Khusrow II during the campaign that brought the Holy Cross from

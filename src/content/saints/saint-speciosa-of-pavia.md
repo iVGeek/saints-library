@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Speciosa of Pavia
+stub: true
 honorific: Saint
 summary: Fifth century nun in Pavia, Lombardy, Italy.
 died: buried in the Basilica of San Vincenzo, Pavia, Italy

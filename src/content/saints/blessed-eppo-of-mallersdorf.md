@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Eppo of Mallersdorf
+stub: false
 honorific: Blessed
 summary: >-
   Benedictine monk, probably training at the St Georgen monastery in the Black Forest (in modern Germany). Chosen second

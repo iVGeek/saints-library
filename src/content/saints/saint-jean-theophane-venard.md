@@ -1,5 +1,6 @@
 ---
 name: Saint Jean-Théophane Vénard
+stub: false
 honorific: Saint
 summary: >-
   Raised in a pious family; one brother became a priest, and was later curator for Theophane's writings, and another was

@@ -1,5 +1,6 @@
 ---
 name: Blessed Bonaventure Tornielli
+stub: false
 honorific: Blessed
 summary: >-
   Joined the Servite Order in 1448, and became a Bible expert. Though he was noted by his brothers for his love of

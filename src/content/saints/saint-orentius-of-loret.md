@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/7/7a/Menaion_icon_%2817_c.%2C_TsAK%29_-_May.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Orentius of Loret
+stub: false
 honorific: Saint
 summary: >-
   Married to Saint Patientia of Loret. Lived near Huesca, Spain. An old Spanish tradition makes him the father of Saint

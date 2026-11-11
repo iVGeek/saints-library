@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Jarich of Mariegaarde
+stub: false
 honorific: Blessed
 summary: >-
   Premonstratensian monk. Canon of the Mariegaarde monastery in Hallum, Friesland (in the modern Netherlands). Priest. A

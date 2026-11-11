@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/5/54/Mark_and_Marcellian.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Mark the Mute
+stub: false
 honorific: Saint
 summary: A deaf-mute man known for his piety and ascetic lifestyle. No other information about him has survived.
 feastDay:

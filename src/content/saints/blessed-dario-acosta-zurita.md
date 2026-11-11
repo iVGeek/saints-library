@@ -1,5 +1,6 @@
 ---
 name: Blessed Darío Acosta Zurita
+stub: false
 honorific: Blessed
 summary: >-
   Priest in the diocese of Veracruz, Mexico. Known as an athletic, gentle and charitable man. Martyred in the

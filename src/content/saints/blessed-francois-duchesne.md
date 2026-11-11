@@ -1,5 +1,6 @@
 ---
 name: Blessed François Duchesne
+stub: false
 honorific: Blessed
 summary: >-
   Hermit. Priest in the diocese of Laval, France. Canon of Laval. Arrested for his faith on 12 October 1792 in the

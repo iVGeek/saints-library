@@ -1,5 +1,6 @@
 ---
 name: Venerable Emilio Venturini
+stub: false
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Il_Friuli_giornale_politico-amministrativo-letterario-commerciale_n._232_%281903%29_%28IA_IlFriuli_232-1903%29.pdf/page1-960px-Il_Friuli_giornale_politico-amministrativo-letterario-commerciale_n._232_%281903%29_%28IA_IlFriuli_232-1903%29.pdf.jpg
 honorific: Venerable

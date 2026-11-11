@@ -1,5 +1,6 @@
 ---
 name: Blessed Severinus Boethius
+stub: false
 honorific: Blessed
 summary: >-
   Descendant of a Roman consular family. His father was chosen as consul in 487, but died soon after, leaving Severinus

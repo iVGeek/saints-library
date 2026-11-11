@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/3/3a/Raban-Maur_Alcuin_Otgar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Leo of Saint-Bertin
+stub: false
 honorific: Blessed
 summary: >-
   Benedictine monk of Anchin Abbey in Pecquencourt, France. Abbot of Lobbes Abbey in Belgium. Abbot of Saint-Bertin

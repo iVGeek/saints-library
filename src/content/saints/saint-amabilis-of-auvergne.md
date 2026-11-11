@@ -1,5 +1,6 @@
 ---
 name: Saint Amabilis of Auvergne
+stub: false
 honorific: Saint
 summary: >-
   Cantor in the church of Saint Mary at Clermont, France. Precentor of the cathedral of Clermont. Parish priest in Riom,

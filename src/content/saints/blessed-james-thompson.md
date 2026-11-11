@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/1/10/Blessed-james-thompson.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed James Thompson
+stub: false
 honorific: Blessed
 summary: >-
   Educated at Cardinal Allen's college at Rheims, France. Ordained at Soissons, France. Returned to York, England to

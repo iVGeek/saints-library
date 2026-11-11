@@ -1,5 +1,6 @@
 ---
 name: Saint Bertilia of Mareuil
+stub: false
 honorific: Saint
 summary: >-
   Born to the Frankish nobility, the daughter of Ricomer and Gertrude. Noted in her youth for her piety and charity.

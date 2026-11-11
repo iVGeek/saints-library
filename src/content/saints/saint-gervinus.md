@@ -1,5 +1,6 @@
 ---
 name: Saint Gervinus
+stub: false
 honorific: Saint
 summary: >-
   Educated at episcopal school at Rheims, France. Benedictine. Canon of Rheims. Abbot. Friend of Saint Edward the

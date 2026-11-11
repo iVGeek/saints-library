@@ -1,5 +1,6 @@
 ---
 name: Saint Athanasius of Clysma
+stub: false
 honorific: Saint
 summary: >-
   High government official in 4th century Egypt, he was revealed to be a Christian when he was discovered at Christmas

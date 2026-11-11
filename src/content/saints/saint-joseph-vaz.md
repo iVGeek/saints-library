@@ -1,5 +1,6 @@
 ---
 name: Saint Joseph Vaz
+stub: false
 honorific: Venerable
 summary: >-
   Born to Christopher Vaz and Maria de Miranda, Christian parents of the Konkani Brahmin caste; the third of six

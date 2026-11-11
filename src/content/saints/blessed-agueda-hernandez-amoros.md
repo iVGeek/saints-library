@@ -1,5 +1,6 @@
 ---
 name: Blessed Agueda Hernández Amorós
+stub: false
 honorific: Blessed
 summary: >-
   Member of the Carmelite Sisters of Charity, beginning her novitiate on 27 November 1918. She served as a cook at

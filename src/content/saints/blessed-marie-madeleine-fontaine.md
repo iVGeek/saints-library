@@ -1,5 +1,6 @@
 ---
 name: Blessed Marie-Madeleine Fontaine
+stub: false
 honorific: Blessed
 summary: >-
   Joined the Sisters of Charity of Saint Vincent de Paul in 1748. Ran a girl's school for 19 years. Superior of the

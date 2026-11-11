@@ -1,5 +1,6 @@
 ---
 name: Blessed Manuel Segura-López
+stub: false
 honorific: Blessed
 summary: >-
   Worked at the Piarist school in Zaragoza, Spain. Entered the Piarist novitiate at age 18, and was professed in 1901.

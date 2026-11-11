@@ -1,5 +1,6 @@
 ---
 name: Saint Etheldritha
+stub: false
 honorific: Saint
 summary: >-
   A princess, the daughter of King Offa of Mercia. Betrothed to Saint Ethelbert of East Anglia. After the murder of

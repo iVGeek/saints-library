@@ -1,5 +1,6 @@
 ---
 name: Saint Mercurius the Soldier
+stub: false
 honorific: Saint
 summary: >-
   Son of a Scythian officer in the imperial Roman army. Soldier in the same army, he distinguished himself in the

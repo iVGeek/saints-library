@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/48/Painting_of_the_Nagasaki_Martyrs.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Paulus Hayashida Mohyoe
+stub: true
 honorific: Blessed
 summary: Layman of the archdiocese of Nagasaki, Japan. Martyr.
 birthYear: 1592

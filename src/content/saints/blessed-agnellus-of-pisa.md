@@ -1,5 +1,6 @@
 ---
 name: Blessed Agnellus of Pisa
+stub: false
 honorific: Blessed
 summary: >-
   Born to the Italian nobility. Received into the Franciscans by Saint Francis himself. Deacon. Custos of Saint-Denis,

@@ -1,5 +1,6 @@
 ---
 name: Blessed James of Viterbo
+stub: false
 honorific: Blessed
 summary: >-
   Augustinian hermit at Viterbo, Italy . Received his doctorate from the University of Paris. Well-known theology

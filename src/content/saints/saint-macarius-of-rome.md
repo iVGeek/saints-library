@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Macarius of Rome
+stub: false
 honorific: Saint
 summary: >-
   Macarius was a high civic official, a Vicarius Praefecti, in Rome, Italy. He retired from public life to live as a

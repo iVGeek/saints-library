@@ -1,5 +1,6 @@
 ---
 name: Saint Ceitho
+stub: false
 honorific: Saint
 summary: >-
   One of five 6th century brothers, all of whom are venerated as saints in Wales. Founded a church in Llangeitho, Dyfed,

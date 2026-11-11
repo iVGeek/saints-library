@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint James of Persia
+stub: true
 honorific: Saint
 summary: Martyred with Saint John in the persecution of King Shapur II.
 deathYear: 344

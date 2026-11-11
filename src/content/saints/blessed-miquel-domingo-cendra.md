@@ -1,5 +1,6 @@
 ---
 name: Blessed Miquel Domingo Cendra
+stub: false
 honorific: Blessed
 summary: >-
   Student at the Salesian school in Rocafort, Barcelona, Spain. Salesian brother, making his profession in 1928. Taught

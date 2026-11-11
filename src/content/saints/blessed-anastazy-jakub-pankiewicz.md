@@ -1,5 +1,6 @@
 ---
 name: Blessed Anastazy Jakub Pankiewicz
+stub: false
 honorific: Blessed
 summary: >-
   Joined the Franciscans in 1900, making his solemn profession on 24 February 1904. Ordained in 1906. Built the seminary

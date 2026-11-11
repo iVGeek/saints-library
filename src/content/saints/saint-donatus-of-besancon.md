@@ -1,5 +1,6 @@
 ---
 name: Saint Donatus of Besancon
+stub: false
 honorific: Saint
 summary: >-
   Benedictine monk at Luxeuil, France. Bishop of Besancon, France in 624. Noted monastic reformer. Founded Saint Paul

@@ -1,5 +1,6 @@
 ---
 name: Blessed Wladyslaw Goral
+stub: false
 honorific: Blessed
 summary: >-
   Ordained on 18 December 1920. Auxiliary bishop of Lublin, Poland and titular bishop of Meloë in Isauria on 10 August

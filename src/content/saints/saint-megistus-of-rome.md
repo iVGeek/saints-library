@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Megistus of Rome
+stub: false
 honorific: Saint
 summary: >-
   One of the three soldiers who escorted Saint Paul the Apostle to his death. They were all converted by Paul, and were

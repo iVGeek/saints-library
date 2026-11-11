@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Maedhog of Clonmore
+stub: true
 honorific: Saint
 summary: Sixth century abbot of Clonmore, Ireland.
 searchAliases:

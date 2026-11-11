@@ -1,5 +1,6 @@
 ---
 name: Blessed Bernard of Quintavalle
+stub: false
 honorific: Blessed
 summary: >-
   Born to the wealthy nobility of Assisi, Bernard studied at the University of Bologna and received degrees in both

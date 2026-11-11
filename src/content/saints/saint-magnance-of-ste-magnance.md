@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Magnance of Ste-Magnance
+stub: true
 honorific: Saint
 summary: Spiritual student of Saint Germanus of Auxerre.
 searchAliases:

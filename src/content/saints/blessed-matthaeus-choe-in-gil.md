@@ -1,5 +1,6 @@
 ---
 name: Blessed Matthaeus Choe In-gil
+stub: false
 honorific: Blessed
 summary: Layman in the apostolic vicariate of Korea, martyred for assisting Blessed Iacobus Chu Mun-mo.
 image: https://catholicsaints.info/wp-content/uploads/img-Maryrs-of-Korea.jpg

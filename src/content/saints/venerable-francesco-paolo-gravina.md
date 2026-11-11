@@ -1,5 +1,6 @@
 ---
 name: Venerable Francesco Paolo Gravina
+stub: false
 honorific: Venerable
 summary: Lifelong layman in the archdiocese of Palermo, Italy. Founder of the Sisters of Charity of Palermo.
 image: https://catholicsaints.info/wp-content/gallery/new-catholic-dictionary/francesco-paolo-gravina-01.jpg

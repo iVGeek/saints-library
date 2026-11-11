@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/b/b9/All_saint.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Macedonius of Nicomedia
+stub: false
 honorific: Saint
 summary: >-
   Married to Saint Patricia of Nicomedia; father of Saint Modesta of Nicomedia. The whole family was martyred with

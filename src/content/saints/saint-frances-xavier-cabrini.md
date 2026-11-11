@@ -1,5 +1,6 @@
 ---
 name: Saint Frances Xavier Cabrini
+stub: false
 honorific: Saint
 title: St. Frances Xavier Cabrini
 summary: >-

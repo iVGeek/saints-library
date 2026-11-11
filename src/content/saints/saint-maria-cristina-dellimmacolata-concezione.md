@@ -1,5 +1,6 @@
 ---
 name: Saint Maria Cristina dell'Immacolata Concezione
+stub: false
 honorific: Venerable
 summary: >-
   Born to a wealthy family, the daughter of Giovanni Giuseppe and Maria Concetta Marrazzo; her mother died with Adelaide

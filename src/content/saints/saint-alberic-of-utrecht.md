@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/4d/Reliquienbueste_Gregor_von_Utrecht.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Alberic of Utrecht
+stub: false
 honorific: Saint
 summary: >-
   Nephew of Saint Gregory of Utrecht. Friend of Blessed Alcuin. Benedictine monk in Utrecht, Netherlands. Prior of the

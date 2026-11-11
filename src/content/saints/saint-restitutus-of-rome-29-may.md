@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Restitutus of Rome
+stub: true
 honorific: Saint
 summary: Martyred in the persecutions of Diocletian.
 deathYear: 299

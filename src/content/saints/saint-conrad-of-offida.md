@@ -1,5 +1,6 @@
 ---
 name: Blessed Conrad of Offida
+stub: false
 honorific: Blessed
 summary: >-
   Conrad joined the Franciscans at age 14. He became a noted scholar, but gave up his studies to be a convent cook.

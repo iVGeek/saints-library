@@ -1,5 +1,6 @@
 ---
 name: Saint Paulinus of Aquileia
+stub: false
 honorific: Saint
 summary: >-
   Raised on a farm, and broadly self educated, gaining a wide reputation for scholarship. Teacher. Invited courtier to

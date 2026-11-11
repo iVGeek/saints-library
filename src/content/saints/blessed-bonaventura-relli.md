@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Bonaventura Relli
+stub: false
 honorific: Blessed
 summary: >-
   Drawn to the religious life, Bonaventure considered joining the Augustinians, but became a Franciscan in Giaveno,

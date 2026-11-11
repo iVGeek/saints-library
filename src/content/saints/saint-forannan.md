@@ -1,5 +1,6 @@
 ---
 name: Saint Forannan of Waulsort
+stub: false
 honorific: Saint
 summary: >-
   Priest. Bishop of Domhnach-Mor, Ireland, a diocese that no longer exists. Emigrated to Belgium, he helped found

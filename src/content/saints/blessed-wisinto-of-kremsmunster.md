@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Wisinto of Kremsmünster
+stub: false
 honorific: Blessed
 summary: >-
   Benedictine monk. Priest. Served at the abbey of Kremsmünster, Austria. Austrian Benedictines have always considered

@@ -1,5 +1,6 @@
 ---
 name: Saint Anatolius of Rome
+stub: true
 image: https://upload.wikimedia.org/wikipedia/commons/4/43/Frans_Anatolius_Sj%C3%B6str%C3%B6m.jpg
 honorific: Saint
 summary: Martyred in the persecutions of Nero.

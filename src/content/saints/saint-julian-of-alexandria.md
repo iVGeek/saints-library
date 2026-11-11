@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Julian of Alexandria
+stub: false
 honorific: Saint
 summary: >-
   Summoned by authorities to answer a charge of Christianity in the persecutions of Decius, Julian was too crippled with

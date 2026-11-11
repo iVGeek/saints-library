@@ -1,5 +1,6 @@
 ---
 name: Saint Diodorus of Corinth
+stub: false
 honorific: Saint
 summary: >-
   During the persecutions of Valerian, Anectus was arrested for his faith, tortured, and martyred with a group of fellow

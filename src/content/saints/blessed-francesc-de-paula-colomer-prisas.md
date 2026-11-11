@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Francesc de Paula Colomer Prísas
+stub: false
 honorific: Blessed
 summary: >-
   Franciscan Capuchin friar, making his first profession on 25 March 1936. He never made his solemn profession, being

@@ -1,5 +1,6 @@
 ---
 name: Blessed Maurus of Pécs
+stub: false
 honorific: Blessed
 summary: >-
   Benedictine monk in his youth at the San Martin monastery in Pannonhalma, Hungary. Abbot his monastery from 1029 till

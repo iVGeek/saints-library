@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/0/00/COA_Premonstratensians.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Philip of Ratzeburg
+stub: false
 honorific: Blessed
 summary: >-
   Member of the Premonstratensians. Canon of the monastery in Ratzeburg, Schleswig-Holstein, Germany. Bishop of

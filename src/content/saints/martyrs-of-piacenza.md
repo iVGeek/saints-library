@@ -1,5 +1,6 @@
 ---
 name: Martyrs of Piacenza
+stub: false
 honorific: Saint
 summary: >-
   A group of Christians who died together for their faith in the persecutions of Diocletian. No details about them have

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Fiorenzo of Cahors
+stub: false
 honorific: Saint
 title: Bishop
 summary: Bishop of Cahors, France. Saint Paulinus of Nola describes him as humble of heart, strong in grace, gentle in speech.

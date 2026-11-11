@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Desideratus of Besançon
+stub: true
 honorific: Saint
 title: Bishop
 summary: Bishop of Besançon, France c.400.

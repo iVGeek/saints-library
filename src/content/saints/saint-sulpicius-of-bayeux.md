@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Sulpicius of Bayeux
+stub: true
 honorific: Saint
 summary: Bishop of Bayeux, France from c.838 to 843. Martyred by Vikings.
 deathYear: 843

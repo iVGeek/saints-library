@@ -1,5 +1,6 @@
 ---
 name: Jude Thaddaeus
+stub: false
 honorific: Saint
 title: Apostle, Martyr
 summary: >-

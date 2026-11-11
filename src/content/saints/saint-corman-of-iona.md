@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Corman of Iona
+stub: false
 honorific: Saint
 summary: >-
   Seventh-century priest. Monk at Iona Abbey. Missionary to Northumbria in northern England; he may have been the first

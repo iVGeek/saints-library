@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Oceano of Nicomedia
+stub: true
 honorific: Saint
 summary: Martyr.
 died: Nicomedia, Bithynia (in modern Turkey)

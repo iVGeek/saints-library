@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Lauriano of Vistin
+stub: true
 honorific: Saint
 summary: Martyr.
 died: Vistin, Berry, France

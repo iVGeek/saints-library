@@ -1,5 +1,6 @@
 ---
 name: Saint Lucifer of Cagliari
+stub: false
 honorific: Saint
 summary: >-
   Priest. Bishop of Cagliari, Italy. Fierce opponent of Arianism and defender of the faith as expressed in the Nicene

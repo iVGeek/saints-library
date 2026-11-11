@@ -1,5 +1,6 @@
 ---
 name: Venerable Coínta Jáuregui Osés
+stub: false
 honorific: Venerable
 summary: >-
   Nun in the Company of Mary Our Lady, entering the novitiate in 1893. Teacher. Superior of her community in 1915. Her

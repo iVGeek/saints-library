@@ -1,5 +1,6 @@
 ---
 name: Blessed Hanna Helena Chrzanowska
+stub: false
 honorific: Blessed
 summary: >-
   Lay woman in the diocese of Kraków, Poland. She was the daughter of Ignacy Chrzanowski, a university professor, and

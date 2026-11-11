@@ -1,5 +1,6 @@
 ---
 name: Blessed Colagia
+stub: false
 honorific: Blessed
 summary: Mercedarian nun, one of the first. Great spiritual teacher to her sisters. Miracle worker.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Colagia.jpg

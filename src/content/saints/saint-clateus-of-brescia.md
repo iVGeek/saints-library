@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Clateus of Brescia
+stub: true
 honorific: Saint
 summary: Bishop of Brescia, Italy. Martyred in the persecutions of Nero.
 died: '64'

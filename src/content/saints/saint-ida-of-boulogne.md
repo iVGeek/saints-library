@@ -1,5 +1,6 @@
 ---
 name: Saint Ida of Boulogne
+stub: false
 honorific: Saint
 summary: >-
   Daughter of Duke Godfrey IV of Lorraine. Descendent of Blessed Charlemagne. Married Count Eustace II of Boulogne at

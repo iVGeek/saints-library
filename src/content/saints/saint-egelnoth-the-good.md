@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Egelnoth the Good
+stub: false
 honorific: Saint
 summary: Monk at Glastonbury Abbey. Archbishop of Canterbury, England in 1020. Advisor to King Cnut of England. Noted scholar.
 searchAliases:

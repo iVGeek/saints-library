@@ -1,5 +1,6 @@
 ---
 name: Saint Sophronius of Jerusalem
+stub: false
 honorific: Saint
 summary: >-
   Travelled widely in the East and West. Taught rhetoric. Monk in Palestine at several houses, including at Bethlehem.

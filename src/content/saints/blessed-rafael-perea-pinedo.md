@@ -1,5 +1,6 @@
 ---
 name: Blessed Rafael Perea Pinedo
+stub: false
 honorific: Blessed
 summary: >-
   Redemptorist brother, joining on 27 February 1923, and making his solemn profession on 27 February 1926. Martyred in

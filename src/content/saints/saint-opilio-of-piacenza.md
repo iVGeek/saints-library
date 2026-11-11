@@ -1,5 +1,6 @@
 ---
 name: Saint Opilio of Piacenza
+stub: false
 honorific: Saint
 title: Deacon
 summary: >-

@@ -1,5 +1,6 @@
 ---
 name: Saint Fintan of Doon
+stub: false
 honorific: Saint
 summary: >-
   Son of Pipan and Aes; brother of Saint Finlugh. Spiritual student of Saint Comgall at Bangor Abbey. Abbot at Doon,

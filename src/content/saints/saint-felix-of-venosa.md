@@ -1,5 +1,6 @@
 ---
 name: Saint Felix of Venosa
+stub: true
 honorific: Saint
 summary: Martyred in the persecutions of Maximian Herculeaus.
 deathYear: 303

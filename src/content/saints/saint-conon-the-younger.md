@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Conon the Younger
+stub: false
 honorific: Saint
 summary: >-
   Son of Saint Conon the Elder. A pious youth, he was a lector at age 12. Deacon. He and his father were charged with

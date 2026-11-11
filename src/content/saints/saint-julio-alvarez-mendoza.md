@@ -1,5 +1,6 @@
 ---
 name: Saint Julio Álvarez Mendoza
+stub: false
 honorific: Venerable
 summary: >-
   Ordained in 1894, Father Julio worked his entire ministry at Mechoacanejo, Jalisco, Mexico. He visited the area

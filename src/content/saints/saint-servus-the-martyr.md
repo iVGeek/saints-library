@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Servus the Martyr
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility. A layman, he was tortured and murdered in the persecutions of the Arian Vandal King Hunneric for

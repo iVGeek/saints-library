@@ -1,5 +1,6 @@
 ---
 name: Saint Teilo of Llandaff
+stub: false
 honorific: Saint
 summary: >-
   Son of Ensic and Guenhaff; brother of Queen Anaumed of Cornwall. Spiritual student of Saint Dyfrig of Wales. Friend of

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Aithalas of Adrianopolis
+stub: true
 honorific: Saint
 summary: Early martyr.
 died: whipped to death in Adrianopolis, Thrace (an area of modern Bulgaria)

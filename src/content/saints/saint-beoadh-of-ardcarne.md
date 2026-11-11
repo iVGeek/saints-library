@@ -1,5 +1,6 @@
 ---
 name: Saint Beoadh of Ardcarne
+stub: true
 honorific: Saint
 summary: Sixth-century bishop of Ardcarne, Roscommon, Ireland.
 searchAliases:

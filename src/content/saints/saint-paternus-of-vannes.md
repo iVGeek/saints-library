@@ -1,5 +1,6 @@
 ---
 name: Saint Paternus of Vannes
+stub: false
 honorific: Saint
 summary: >-
   Fifth-century bishop of Vannes in Brittany (in modern France). Late in life he retired from his see to spend his final

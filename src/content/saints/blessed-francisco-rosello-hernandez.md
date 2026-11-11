@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/f/fe/Beatificaciotarragona2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Francisco Roselló Hernández
+stub: false
 honorific: Blessed
 summary: >-
   Layman in the diocese of Cartagena, Spain. Member of the Association of the Sons of Mary of the Miraculous Medal.

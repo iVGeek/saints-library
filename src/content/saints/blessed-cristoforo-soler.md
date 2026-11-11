@@ -1,5 +1,6 @@
 ---
 name: Blessed Cristoforo Soler
+stub: false
 honorific: Blessed
 summary: >-
   Mercedarian friar. In 1380 he redeemed 198 Christians who had been enslaved by Muslim Moors in Oran, Algeria.

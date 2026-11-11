@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Drogo of Baume
+stub: false
 honorific: Blessed
 summary: >-
   After leading a worldly and dissolute life, Drogo became a Benedictine monk at the abbeys of Fleury-sur-Loire and

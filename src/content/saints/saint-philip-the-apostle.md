@@ -1,5 +1,6 @@
 ---
 name: Saint Philip the Apostle
+stub: false
 honorific: Saint
 summary: >-
   Disciple of Saint John the Baptist. Convert. One of the Twelve Apostle. Brought Saint Nathanael to Christ. Confidant

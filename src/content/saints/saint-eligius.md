@@ -1,5 +1,6 @@
 ---
 name: Saint Eligius of Noyon
+stub: false
 honorific: Saint
 summary: >-
   Son of Eucherius and Terrigia. Extremely skillful metalsmith. Apprenticed to the master of the mint at Limoges,

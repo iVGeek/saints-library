@@ -1,5 +1,6 @@
 ---
 name: Saint Richarius of Celles
+stub: false
 honorific: Saint
 summary: >-
   Born a pagan. As a young man he protected Saints Caidoc and Fricor, Irish missionaries in danger from local

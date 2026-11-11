@@ -1,6 +1,7 @@
 ---
 image: https://www.catholic.org/files/images/saints/4000.jpg
 name: Saint John of the Goths
+stub: false
 honorific: Saint
 summary: >-
   Bishop of the Goths in South Russia. Noted defender of religious images, opposing the iconoclasts. Driven from his see

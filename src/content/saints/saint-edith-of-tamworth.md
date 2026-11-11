@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Edith of Tamworth
+stub: false
 honorific: Saint
 summary: >-
   Sister of King Athelstan. Married the viking king Sihtric of Northumbria at York in 925. Widowed in 926. Benedictine

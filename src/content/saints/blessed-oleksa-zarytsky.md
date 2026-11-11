@@ -1,5 +1,6 @@
 ---
 name: Blessed Oleksa Zarytsky
+stub: false
 honorific: Blessed
 summary: >-
   Greek Catholic. Entered the seminary in Lviv in 1931. Ordained in 1936. Pastor of the Archeparchy of Lviv for the

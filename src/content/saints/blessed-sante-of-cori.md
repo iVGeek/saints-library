@@ -1,5 +1,6 @@
 ---
 name: Blessed Sante of Cori
+stub: false
 honorific: Blessed
 summary: Joined the Augustinians in Cori, Italy. Prior of his house. Priest. Noted preacher, always centered on Scripture.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Sante-of-Cori.jpg

@@ -1,5 +1,6 @@
 ---
 name: Blessed Melchora Adoración Cortés Bueno
+stub: false
 honorific: Blessed
 summary: >-
   Daughter of Charity nun in the Archdiocese of Madrid, Spain, joining on 18 March 1914. She served as a teacher in

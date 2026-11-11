@@ -1,5 +1,6 @@
 ---
 name: Saint Areta of Najran
+stub: false
 honorific: Saint
 summary: >-
   Christian prince of the city of Nagrana (modern Najran, Saudi Arabia). He, his wife and children were part of the

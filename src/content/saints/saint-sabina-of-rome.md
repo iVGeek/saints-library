@@ -1,5 +1,6 @@
 ---
 name: Saint Sabina of Rome
+stub: false
 honorific: Saint
 summary: >-
   Wealthy widow in Rome, Italy. Converted to Christianity by her Syrian servant Serapia. Serapia was martyred, and

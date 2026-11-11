@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/e/e9/B_Pierpont_112.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Pedro of Alcobaça
+stub: false
 honorific: Blessed
 summary: >-
   Cistercian monk in the monastery of Alcobaça, Portugal. His piety and his connection to this monastery, which was

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Ludovicus Matagoro
+stub: true
 honorific: Blessed
 summary: Layman in the Kyoto, Japan. One of the Martyrs of Kyoto.
 deathYear: 1619

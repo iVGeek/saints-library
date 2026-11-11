@@ -1,5 +1,6 @@
 ---
 name: Saint Porfirio
+stub: false
 honorific: Saint
 summary: >-
   Imperial executioner who was so moved by the courage of the Christians he was murdering that he examined the faith and

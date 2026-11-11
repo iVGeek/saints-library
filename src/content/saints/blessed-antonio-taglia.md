@@ -1,5 +1,6 @@
 ---
 name: Blessed Antonio Taglia
+stub: true
 honorific: Blessed
 summary: Mercedarian friar.
 image: https://catholicsaints.info/wp-content/uploads/img-Beati-Lotario-Arnari-e-Antonio-Taglia.jpg

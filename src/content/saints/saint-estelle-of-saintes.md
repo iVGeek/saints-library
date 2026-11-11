@@ -1,5 +1,6 @@
 ---
 name: Saint Estelle of Saintes
+stub: false
 honorific: Saint
 summary: >-
   Descended from a powerful family of Druids, and the daughter of a imperial Roman official. A convert to Christianity,

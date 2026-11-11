@@ -1,5 +1,6 @@
 ---
 name: Blessed Plácido García Gilabert
+stub: false
 honorific: Blessed
 summary: >-
   Raised in a pious family, and always known as an excellent student. Began studying at the Franciscan minor seminary in

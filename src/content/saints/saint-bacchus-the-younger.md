@@ -1,5 +1,6 @@
 ---
 name: Saint Bacchus the Younger
+stub: false
 honorific: Saint
 summary: >-
   Raised in a Christian family in the area of Jerusalem, Dahhat saw family members giving up the faith to become Muslim.

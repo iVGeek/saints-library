@@ -1,5 +1,6 @@
 ---
 name: Saint Quodvultdeus
+stub: false
 honorific: Saint
 summary: >-
   Fifth century North African church father. Known to have been living in Carthage c.407. Deacon c.421. Friend,

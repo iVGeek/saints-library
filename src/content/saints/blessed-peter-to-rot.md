@@ -1,5 +1,6 @@
 ---
 name: Blessed Peter To Rot
+stub: false
 honorific: Blessed
 summary: >-
   Son of Angelo To Puia, a village chief, and Maria la Tumul, an adult converts who were part of the region's first

@@ -1,5 +1,6 @@
 ---
 name: Saint Liberius of Ancona
+stub: false
 honorific: Saint
 title: Hermit
 summary: ' Because his relics have been moved several times to different churches and placed next to other tombs, many legends have grown up around him or existing stories have been assigned to him, but these are l Fifth century cave hermit near Ancona, Italy known for his piety and wisdom.'

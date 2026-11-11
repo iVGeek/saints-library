@@ -1,5 +1,6 @@
 ---
 name: Venerable Anastasius Hartmann
+stub: false
 honorific: Venerable
 summary: >-
   Capuchin Franciscan Friar. Educated in Solothurn. Ordained in 1825. Energetic missionary to India beginning in Agra in

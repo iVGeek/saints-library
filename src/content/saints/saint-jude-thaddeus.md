@@ -1,5 +1,6 @@
 ---
 name: Saint Jude Thaddeus
+stub: false
 honorific: Saint
 summary: >-
   Son of Cleophas, who died a martyr, and Mary who stood at the foot of the Cross, and who annointed Christ's body after

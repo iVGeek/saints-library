@@ -1,5 +1,6 @@
 ---
 name: Blessed Thomas Holland
+stub: false
 honorific: Blessed
 summary: >-
   Apparently the son of Richard Holland, a landed gentleman. Studied at Saint Omer, France, and Valladolid, Spain in

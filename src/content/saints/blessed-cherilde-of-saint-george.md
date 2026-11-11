@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Cherilde of Saint George
+stub: false
 honorific: Blessed
 title: Hermit
 summary: >-

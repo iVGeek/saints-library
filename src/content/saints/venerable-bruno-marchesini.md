@@ -1,5 +1,6 @@
 ---
 name: Venerable Bruno Marchesini
+stub: false
 honorific: Venerable
 summary: >-
   Born to a large, poor but pious farm family, Bruno was a happy and popular boy who loved soccer and swimming. He knew

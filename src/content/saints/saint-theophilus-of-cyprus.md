@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Theophilus of Cyprus
+stub: false
 honorific: Saint
 summary: >-
   Eighth-century soldier, sailor and admiral of the Christian fleet stationed on Cyprus. Captured in battle by invading

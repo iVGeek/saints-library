@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/7/7f/Marcellus_Cassian.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Lupercus of Léon
+stub: false
 honorific: Saint
 summary: >-
   Son of Saint Marcellus of Centurion; brother of Saint Claudius of Léon and Saint Victorius of Léon. Martyred in the

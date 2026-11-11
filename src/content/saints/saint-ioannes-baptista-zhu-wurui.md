@@ -1,5 +1,6 @@
 ---
 name: Saint Ioannes Baptista Zhu Wurui
+stub: false
 honorific: Venerable
 summary: >-
   Young layman in the apostolic vicariate of Southeastern Zhili, China. A teenager at the outbreak of the Boxer

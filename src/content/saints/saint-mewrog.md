@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Mewrog
+stub: true
 honorific: Saint
 summary: A saint from Denbighshire, Wales. No other information has survived.
 region: England

@@ -1,5 +1,6 @@
 ---
 name: Saint Simplician of Milan
+stub: false
 honorific: Saint
 summary: >-
   Raised in a Christian family. Teacher and catechist. Priest. Instrumental in the conversion of both Saint Alipius of

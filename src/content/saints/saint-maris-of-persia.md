@@ -1,5 +1,6 @@
 ---
 name: Saint Maris of Persia
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility. Husband of Saint Martha, father of Saint Audifax and Saint Abachum. Convert who gave his fortune

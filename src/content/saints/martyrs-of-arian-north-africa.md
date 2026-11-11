@@ -1,5 +1,6 @@
 ---
 name: Martyrs of Arian North Africa
+stub: false
 honorific: Saint
 summary: >-
   Commemoration of the 4,996 martyrs who died in the persecutions of the Vandals in Africa mandated by the Arian king

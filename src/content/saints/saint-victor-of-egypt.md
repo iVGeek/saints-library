@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Victor of Egypt
+stub: true
 honorific: Saint
 summary: Exiled to Egypt in 249. Tortured and martyred in the persecutions of Numerian.
 deathYear: 283

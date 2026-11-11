@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Planus of Terni
+stub: false
 honorific: Saint
 summary: Christian soldier in the imperial Roman army. Executed during the persecutions of emperor Claudius. Martyr.
 deathYear: 270

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/a/a2/La_conversion_de_Saint_Paul_Giordano_Nancy_3018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Paul of Damascus
+stub: false
 honorific: Saint
 summary: >-
   Married to Saint Tatta of Damascus; father of Saint Eugenia, Saint Maximus, Saint Rufus and Saint . Tortured to death

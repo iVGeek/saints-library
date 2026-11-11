@@ -1,5 +1,6 @@
 ---
 name: Blessed Raimondo of Santa Grazia
+stub: false
 honorific: Blessed
 summary: Mercedarian friar in the convent of San Tommaso in Tortosa, Spain. Theologian. Abbot of his house.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Raimondo-of-Santa-Grazia.jpg

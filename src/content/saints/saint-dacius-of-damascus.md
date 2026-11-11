@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Dacius of Damascus
+stub: true
 honorific: Saint
 summary: Martyred with six companions. No other information has survived.
 searchAliases:

@@ -1,6 +1,7 @@
 ---
 image: https://www.santiebeati.it/immagini/Thumbs/90294/90294.JPG
 name: Saint Fortunata of Baucina
+stub: false
 honorific: Saint
 summary: >-
   Young woman who converted to Christianity in her teens. Imprisoned for her faith by Imperial Roman troops, she was

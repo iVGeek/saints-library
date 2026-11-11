@@ -1,5 +1,6 @@
 ---
 name: Blessed Célestin Ringeard
+stub: false
 honorific: Blessed
 summary: >-
   Célestin served as a nurse during the Algeria Independence War, caring for the injured on both sides of the conflict.

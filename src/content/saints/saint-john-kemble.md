@@ -1,5 +1,6 @@
 ---
 name: Saint John Kemble
+stub: false
 honorific: Venerable
 summary: ' Betrayed to the authorities by the apostate John Son of John and Anne Kemble. Studied at Douai, France. Ordained on 23 February 1625 at Douai College. Returned to England on 4 June 1625 as a missioner in Monmouthshire and Herefordshire. He tended to his covert flock for 53 years.'
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-John-Kemble.jpg

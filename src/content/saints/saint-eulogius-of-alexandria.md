@@ -1,5 +1,6 @@
 ---
 name: Saint Eulogius of Alexandria
+stub: false
 honorific: Saint
 summary: >-
   Monk as a young man. Well educated in the literature and science of his day, was a Biblical scholar, and studied the

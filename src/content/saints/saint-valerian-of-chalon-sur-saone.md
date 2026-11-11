@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Valerian of Châlon-sur-Saône
+stub: false
 honorific: Saint
 summary: >-
   One of a group of 50 Christians who were imprisoned in Lyon, Gaul (in modern France) in the persecutions of Marcus

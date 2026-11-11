@@ -1,5 +1,6 @@
 ---
 name: Blessed Arnold Reche
+stub: false
 honorific: Blessed
 summary: >-
   Son of Claude and Anne Flausset Reche, a poor family in a small village. His father was extremely religious shoemaker,

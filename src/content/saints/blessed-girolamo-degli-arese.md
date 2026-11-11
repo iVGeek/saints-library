@@ -1,5 +1,6 @@
 ---
 name: Blessed Girolamo degli Arese
+stub: false
 honorific: Blessed
 summary: >-
   Born to the Italian nobility, part of the family of the barons of Arese. Franciscan Friar Minor deacon. One of the

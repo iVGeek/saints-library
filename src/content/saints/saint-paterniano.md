@@ -1,5 +1,6 @@
 ---
 name: Saint Paterniano
+stub: true
 honorific: Saint
 summary: Hermit near Fano, Italy. Monk. Abbot. Bishop of Marche, Italy for 40 years.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Paterniano.jpg

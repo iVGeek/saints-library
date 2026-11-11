@@ -1,5 +1,6 @@
 ---
 name: Saint Corona the Martyr
+stub: false
 honorific: Saint
 summary: >-
   Teenaged wife of an Imperial Roman soldier stationed in Damascus, Syria. Cared for Saint Victor the Martyr when he was

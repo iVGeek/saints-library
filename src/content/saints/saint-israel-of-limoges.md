@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Israel of Limoges
+stub: true
 honorific: Saint
 title: Priest
 searchAliases:

@@ -1,5 +1,6 @@
 ---
 name: Saint Vladimir I of Kiev
+stub: false
 honorific: Saint
 summary: >-
   Grandson of Saint Olga of Kiev. Son of the pagan Norman-Rus prince Svyatoslav of Kiev and his consort Malushka. Grand

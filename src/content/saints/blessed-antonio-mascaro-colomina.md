@@ -1,5 +1,6 @@
 ---
 name: Blessed Antonio Mascaró Colomina
+stub: false
 honorific: Blessed
 summary: >-
   Professed cleric in the Sons of the Holy Family. In 1935-1936 he was in the military, serving during the week and

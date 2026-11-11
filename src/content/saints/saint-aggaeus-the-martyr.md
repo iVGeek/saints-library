@@ -1,5 +1,6 @@
 ---
 name: Saint Aggaeus the Martyr
+stub: true
 honorific: Saint
 summary: Martyr. No other reliable information has survived.
 deathYear: 300

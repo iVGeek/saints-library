@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Venerable Louis Tijssen
+stub: true
 honorific: Venerable
 summary: Priest in the diocese of Roermond, Netherlands.
 birthYear: 1865

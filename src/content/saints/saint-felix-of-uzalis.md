@@ -1,5 +1,6 @@
 ---
 name: Saint Felix of Uzalis
+stub: true
 honorific: Saint
 summary: Martyr. No other information has survived.
 died: Uzalis in North Africa

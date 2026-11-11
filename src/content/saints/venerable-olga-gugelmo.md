@@ -1,5 +1,6 @@
 ---
 name: Venerable Olga Gugelmo
+stub: false
 honorific: Venerable
 summary: >-
   Her father died when Olga was very young. She was educated by the Christian Brothers, and known as an excellent

@@ -1,5 +1,6 @@
 ---
 name: Blessed Odoardo Focherini
+stub: false
 honorific: Blessed
 summary: >-
   Layman in the diocese of Carpi, Italy. Married, a father of seven, who worked as a journalist. Focherini provided Jews

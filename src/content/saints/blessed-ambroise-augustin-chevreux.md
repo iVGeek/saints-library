@@ -1,5 +1,6 @@
 ---
 name: Blessed Ambroise-Augustin Chevreux
+stub: false
 honorific: Blessed
 summary: >-
   Ambroise-Augustin joined the Benedictine Maurist abbey of Saint-Florent de Saumur in Orléans, France on 14 May 1744 at

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Proclus of Bisignano
+stub: false
 honorific: Saint
 summary: >-
   As a young layman, he lived a very ascetic life, spending his days roaming from town to town in order to worship in

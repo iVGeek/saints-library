@@ -1,5 +1,6 @@
 ---
 name: Venerable Jérôme Le Royer de la Dauversière
+stub: false
 honorific: Venerable
 summary: >-
   Married layman in the diocese of Le Mans, France. Co-founder of the Religieuses Hospitalières de Saint-Joseph

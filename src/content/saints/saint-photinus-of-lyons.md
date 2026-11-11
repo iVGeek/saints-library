@@ -1,5 +1,6 @@
 ---
 name: Saint Photinus of Lyons
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Lyons, France. At age 90 he was one of a group of 48 Christians from the areas of Vienne and Lyon in France,

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Florentius of Carracedo
+stub: false
 honorific: Saint
 summary: >-
   12th century Benedictine monk. Abbot of the monastery of Saint Mary of Carracedo, León, Castile and León, Spain. He

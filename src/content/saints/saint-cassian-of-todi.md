@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Cassian of Todi
+stub: false
 honorific: Saint
 summary: >-
   Fourth-century convert, brought to the faith by Saint Pontian of Todi. Bishop of Todi, Italy. Martyred in the

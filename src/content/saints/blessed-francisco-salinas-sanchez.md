@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/e/e3/La_Batalla_de_Clavijo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Francisco Salinas Sánchez
+stub: false
 honorific: Blessed
 summary: Layman in the diocese of Almeria, Spain. Franciscan Friars Minor aspirant. Martyred in the Spanish Civil War.
 birthYear: 1914

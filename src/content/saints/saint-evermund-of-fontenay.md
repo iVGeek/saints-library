@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Evermund of Fontenay
+stub: false
 honorific: Saint
 summary: >-
   Married. Founded several monasteries and convents. His wife then entered one of the convents as a nun, and Evermund

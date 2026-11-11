@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Simeon of Persia
+stub: false
 honorific: Saint
 summary: >-
   Brother of Saint Tarbula. Convert. Denounced for suspected treasonous collaboration with Roman authorities and

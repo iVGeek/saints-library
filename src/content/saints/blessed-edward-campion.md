@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/a/ae/Oaten-hill-martyrs.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Edward Campion
+stub: false
 honorific: Blessed
 summary: >-
   Gerard studied at Jesus College, Oxford, England, but did not earn a degree because he refused to take the oath

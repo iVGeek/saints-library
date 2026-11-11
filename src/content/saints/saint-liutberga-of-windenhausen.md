@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Liutberga of Windenhausen
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility, related to Duke Hessi of Ostfalen. Noted by the nobles for her exceptional skill at managing the

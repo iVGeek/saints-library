@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/a/a5/Coll%C3%A9giale_Notre-Dame-et-Saint-Nicolas_de_Brian%C3%A7on.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint William of Eygliers
+stub: false
 honorific: Saint
 summary: >-
   Raised in a poor family, William was born with crippled legs and missing his right hand. Priest. Pastor to the

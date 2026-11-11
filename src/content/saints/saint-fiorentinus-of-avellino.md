@@ -1,5 +1,6 @@
 ---
 name: Saint Fiorentinus of Avellino
+stub: false
 honorific: Saint
 summary: >-
   Priest in Antioch, Turkey, led by Saint Modestinus of Avellina. Imprisoned for his faith in the persecutions of

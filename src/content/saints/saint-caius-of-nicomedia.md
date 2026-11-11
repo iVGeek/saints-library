@@ -1,5 +1,6 @@
 ---
 name: Saint Caius of Nicomedia
+stub: false
 honorific: Saint
 summary: One of a group of 15 Christian soldiers who were tortured and martyred in the persecutions of Diocletian.
 searchAliases:

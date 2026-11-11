@@ -1,5 +1,6 @@
 ---
 name: Blessed Flora of Beaulieu
+stub: false
 honorific: Blessed
 summary: >-
   Know as a pious youth, her parents tried to arrange a marriage for her, but Flora resisted, and eventually entered a

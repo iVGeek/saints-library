@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Anastasius of Suppentonia
+stub: false
 honorific: Saint
 summary: >-
   Benedictine monk at Suppentonia (modern Castel Sant'Elia), diocese of Nepi, Italy. Abbot at Suppentonia. Pope Saint

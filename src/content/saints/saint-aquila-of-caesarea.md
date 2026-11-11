@@ -1,5 +1,6 @@
 ---
 name: Saint Aquila of Caesarea
+stub: true
 honorific: Saint
 summary: Martyred in the persecutions by Julian the Apostate.
 region: England

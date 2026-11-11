@@ -1,5 +1,6 @@
 ---
 name: Blessed John Soreth
+stub: false
 honorific: Blessed
 summary: >-
   Carmelite. Studied in Paris, France. Doctor of theology in 1438. Prior-general of his order from 1451 to 1471. Wrote a

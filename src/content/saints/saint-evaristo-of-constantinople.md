@@ -1,5 +1,6 @@
 ---
 name: Saint Evaristo of Constantinople
+stub: false
 honorific: Saint
 summary: >-
   Courtier to a relative who was an official in the Byzantine court in Constantinople c.842. Travelled on court business

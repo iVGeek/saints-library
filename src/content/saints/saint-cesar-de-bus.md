@@ -1,5 +1,6 @@
 ---
 name: Saint César de Bus
+stub: false
 honorific: Venerable
 summary: >-
   A middle child - the seventh of thirteen children, and raised as a pious child. Soldier at age 18, and fought in the

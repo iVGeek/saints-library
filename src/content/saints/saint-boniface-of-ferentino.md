@@ -1,5 +1,6 @@
 ---
 name: Saint Boniface of Ferentino
+stub: false
 honorific: Saint
 summary: >-
   Third bishop of Ferentino, Tuscany, Italy serving in the sixth century during the reign of Roman Emperor Justin. Saint

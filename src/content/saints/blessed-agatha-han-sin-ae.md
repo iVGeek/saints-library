@@ -1,5 +1,6 @@
 ---
 name: Blessed Agatha Han Sin-ae
+stub: false
 honorific: Blessed
 summary: >-
   Lay woman. Convert to Christianity. Organized catechism classes for other working glass young women. martyr in the

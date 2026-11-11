@@ -1,5 +1,6 @@
 ---
 name: Blessed Lucia of Settefonti
+stub: false
 honorific: Blessed
 summary: >-
   Twelfth-century nun in the Camaldolese monastery of Santa Cristina in Ozzana Emilia, Italy. Abbess of her house. Noted

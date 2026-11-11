@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/2/2f/Attributed_to_el_Greco_-_Portrait_of_Juan_de_%C3%81vila_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Juan of Granada
+stub: false
 honorific: Blessed
 summary: >-
   Grandson of King Ismael of Granada of convert from Islam; son of Ozmin Aben Adriz a convert from Islam. Studied in

@@ -1,5 +1,6 @@
 ---
 name: Blessed Abilio Ramos y Ramos
+stub: false
 honorific: Blessed
 summary: >-
   Passionist brother, joining in 1931, and made his profession on 23 October 1935. Martyred in the Spanish Civil War.

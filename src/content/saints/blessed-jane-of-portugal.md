@@ -1,5 +1,6 @@
 ---
 name: Blessed Jane of Portugal
+stub: false
 honorific: Blessed
 summary: >-
   Princess, the daughter of Elizabeth and King Alphonsus V of Portugal. Entered a Dominican convent at Aveiro, Portual

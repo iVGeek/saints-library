@@ -1,5 +1,6 @@
 ---
 name: Saint Synesius
+stub: true
 honorific: Saint
 summary: Lector. Martyred in the persecutions of Aurelian.
 deathYear: 275

@@ -1,5 +1,6 @@
 ---
 name: Blessed Anselm of Vigevano
+stub: false
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Catholic_Encyclopedia%2C_volume_15.djvu/page1-960px-Catholic_Encyclopedia%2C_volume_15.djvu.jpg
 honorific: Blessed

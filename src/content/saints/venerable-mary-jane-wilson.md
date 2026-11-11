@@ -1,5 +1,6 @@
 ---
 name: Venerable Mary Jane Wilson
+stub: false
 honorific: Venerable
 summary: >-
   Born to English parents in India. Raised an Anglican and converted to Catholicism, joining the Church in France in

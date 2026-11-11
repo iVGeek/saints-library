@@ -1,5 +1,6 @@
 ---
 name: Blessed Miroslav Bulešic
+stub: false
 honorific: Blessed
 summary: >-
   Studied at the Pontifical Gregorian University in Rome, Italy, but recalled to Croatia at the start of World War II.

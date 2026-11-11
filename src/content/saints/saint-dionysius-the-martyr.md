@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Dionysius the Martyr
+stub: true
 honorific: Saint
 summary: Martyr. No other reliable information has survived.
 region: Italy

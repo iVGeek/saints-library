@@ -1,5 +1,6 @@
 ---
 name: Saint Bede the Venerable
+stub: false
 honorific: Saint
 title: St. Bede the Venerable
 summary: >-

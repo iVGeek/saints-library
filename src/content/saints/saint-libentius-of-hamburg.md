@@ -1,5 +1,6 @@
 ---
 name: Saint Libentius of Hamburg
+stub: false
 honorific: Saint
 summary: >-
   Benedictine monk. Exiled to Hamburg, Germany with Pope Benedict V. Developed a ministery to the poor and sick of

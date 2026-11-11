@@ -1,5 +1,6 @@
 ---
 name: Saint Saturninus of Carthage
+stub: true
 honorific: Saint
 summary: Catechist. Martyr.
 deathYear: 203

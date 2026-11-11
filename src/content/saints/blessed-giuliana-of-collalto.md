@@ -1,5 +1,6 @@
 ---
 name: Blessed Giuliana of Collalto
+stub: false
 honorific: Blessed
 summary: >-
   Born to the Italian nobility, the daughter of Count Rambaldo VI and Countess Giovanna of Sant'Angelo of Mantua. She

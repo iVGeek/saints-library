@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Longinus of Africa
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Tlemcen, Mauritania who stayed loyal to orthodox Christianity and opposed Arianism. Tortured and martyred by

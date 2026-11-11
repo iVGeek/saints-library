@@ -1,5 +1,6 @@
 ---
 name: Blessed Catherine Soiron
+stub: false
 honorific: Blessed
 summary: >-
   Blood-sister of Blessed Thérèse Soiron. Served as a tourière, a lay woman who made non-canonical private vows in 1772,

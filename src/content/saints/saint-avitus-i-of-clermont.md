@@ -1,5 +1,6 @@
 ---
 name: Saint Avitus I of Clermont
+stub: true
 honorific: Saint
 summary: Bishop of Clermont, France. Ordained Saint Gregory of Tours as deacon.
 deathYear: 600

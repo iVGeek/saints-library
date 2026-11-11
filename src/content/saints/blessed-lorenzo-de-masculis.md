@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/7/73/Bild-Ottavio_Leoni%2C_Caravaggio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Lorenzo de Masculis
+stub: true
 honorific: Blessed
 title: Priest
 summary: Franciscan Friar Minor priest. Famous preacher.

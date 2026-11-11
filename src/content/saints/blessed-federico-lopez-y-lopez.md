@@ -1,5 +1,6 @@
 ---
 name: Blessed Federico López y López
+stub: false
 honorific: Blessed
 summary: >-
   Worked at a number of jobs and positions as a young adult, all the while feeling a call to religious life. In 1906 he

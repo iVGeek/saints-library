@@ -1,5 +1,6 @@
 ---
 name: Blessed Esclaramunda of Majorca
+stub: false
 honorific: Blessed
 summary: >-
   Daughter of Count Roger IV of Foix and Brunisenda Cardona. Queen of Majorca, married to King James II of Majorca (in

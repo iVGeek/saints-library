@@ -1,5 +1,6 @@
 ---
 name: Saint Genebald of Laon
+stub: false
 honorific: Saint
 summary: >-
   Relative of Saint Remigius of Rheims. Bishop of Laon, France. For some unnamed fault he committed, he sentenced

@@ -1,5 +1,6 @@
 ---
 name: Saint Medard of Noyon
+stub: false
 honorific: Saint
 summary: >-
   Son of Nectardus, a Frankish noble, and Protagia, Gallo-Roman nobility. Brother of Saint Gildardus, Bishop of Rouen,

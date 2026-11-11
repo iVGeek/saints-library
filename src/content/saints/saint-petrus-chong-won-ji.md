@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Petrus Chong Won-Ji
+stub: true
 honorific: Venerable
 summary: Young married layman in the apostolic vicariate of Korea.
 searchAliases:

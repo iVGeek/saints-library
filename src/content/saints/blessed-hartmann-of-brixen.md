@@ -1,5 +1,6 @@
 ---
 name: Blessed Hartmann of Brixen
+stub: false
 honorific: Blessed
 summary: >-
   Born to the Bavarian nobility. Educated by Augustinian monks at the Saint Nikola monastery in Passau, Germany. Dean of

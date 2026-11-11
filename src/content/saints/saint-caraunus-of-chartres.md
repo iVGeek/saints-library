@@ -1,5 +1,6 @@
 ---
 name: Saint Caraunus of Chartres
+stub: false
 honorific: Saint
 summary: >-
   When his parents died, Caraunus sold all his goods and estate, distributed the money to the poor, and retired from the

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/a/a1/Bb_giovanni_and_pietro.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Peter of Perugia
+stub: false
 honorific: Blessed
 summary: >-
   Franciscan Conventual Friar Minor at the Borgo San Sepolcro convent in Tuscany, Italy. He is listed in the Franciscan

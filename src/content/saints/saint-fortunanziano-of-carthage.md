@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Fortunanziano of Carthage
+stub: true
 honorific: Saint
 summary: Lector martyred in the persecutions of Diocletian.
 searchAliases:

@@ -1,5 +1,6 @@
 ---
 name: Saint Reinhold of Cologne
+stub: false
 honorific: Saint
 summary: >-
   Relative of Charlemagne. Benedictine monk. Supervised building operations at Saint Pantaleon abbey, Cologne, Germany.

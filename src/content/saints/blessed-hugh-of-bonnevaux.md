@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/3/38/Cathedrale_Saint-Pierre_de_Saintes.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Hugh of Bonnevaux
+stub: false
 honorific: Blessed
 summary: >-
   Nephew of Saint Hugh of Grenoble. Cistercian Bendictine monk at Mezieres Abbey, joining the Order in 1138. Abbot at

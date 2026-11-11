@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Venerable Luisa Aveledo y Aveledo
+stub: false
 honorific: Venerable
 summary: >-
   Nun in the diocese of Barranquilla, Colombia, taking the name Marcelina of Saint Joseph. Founded the Congregation of

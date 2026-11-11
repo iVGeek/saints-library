@@ -1,5 +1,6 @@
 ---
 name: Saint Henry II
+stub: false
 honorific: Saint
 summary: >-
   Son of Gisella of Burgundy and Henry II the Quarrelsome, Duke of Bavaria. Educated at the cathedral school in

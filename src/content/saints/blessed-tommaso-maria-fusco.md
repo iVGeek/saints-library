@@ -1,5 +1,6 @@
 ---
 name: Blessed Tommaso Maria Fusco
+stub: false
 honorific: Blessed
 summary: >-
   Son of Dr Antonio Fusco, a pharmacist, and Stella Giordano, an Italian noble; seventh of eight children in a pious

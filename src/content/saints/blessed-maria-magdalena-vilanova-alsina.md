@@ -1,5 +1,6 @@
 ---
 name: Blessed Maria Magdalena Vilanova Alsina
+stub: false
 honorific: Blessed
 summary: >-
   Baptized at the age of two days, Confirmed when she was three years old. She joined the Capuchin Institute of the

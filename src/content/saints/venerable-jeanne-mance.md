@@ -1,5 +1,6 @@
 ---
 name: Venerable Jeanne Mance
+stub: false
 honorific: Venerable
 summary: >-
   Daughter of Catherine Émonot and Charles Mance, a prosecutor for the king of France. When her mother died, Jeanne took

@@ -1,5 +1,6 @@
 ---
 name: Saint Aspren of Naples
+stub: false
 honorific: Saint
 summary: >-
   Convert, brought to the faith by Saint Candida the Elder. Knew Saint Peter the Apostle, and one story says he was

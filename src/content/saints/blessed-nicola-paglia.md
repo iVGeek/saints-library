@@ -1,5 +1,6 @@
 ---
 name: Blessed Nicola Paglia
+stub: false
 honorific: Blessed
 summary: >-
   Born to the Italian nobility, in his youth Nicola received a vision of an angel who warned him not to eat meat as he

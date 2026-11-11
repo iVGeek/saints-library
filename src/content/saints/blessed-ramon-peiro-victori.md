@@ -1,5 +1,6 @@
 ---
 name: Blessed Ramon Peiró Victori
+stub: false
 honorific: Blessed
 summary: >-
   Dominican priest, professed in the Order on 5 December 1908. Director of the schools in Solsona and Calanda, Spain.

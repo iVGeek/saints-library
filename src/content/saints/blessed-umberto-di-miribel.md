@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Umberto di Miribel
+stub: false
 honorific: Blessed
 summary: >-
   Carthusian monk. Prior of the Charterhouse of Silve-Bénite, France. Bishop of Valencia, Spain in 1200. The law at that

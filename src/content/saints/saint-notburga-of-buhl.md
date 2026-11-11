@@ -1,5 +1,6 @@
 ---
 name: Saint Notburga of Bühl
+stub: false
 honorific: Saint
 summary: >-
   Born a princess, the daughter of a Scottish chieftain. She ascended to the throne in 814, and was married to Duke

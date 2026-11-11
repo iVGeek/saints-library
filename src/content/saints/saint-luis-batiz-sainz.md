@@ -1,5 +1,6 @@
 ---
 name: Saint Luis Batiz Sainz
+stub: false
 honorific: Venerable
 summary: >-
   Known as a pious child, Luis entered the seminary at Durango, Mexico at age 12. Ordained on 1 January 1894. Seminary

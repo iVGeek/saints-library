@@ -1,5 +1,6 @@
 ---
 name: Saint Conrad of Piacenza
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility. Married to Euphrosyne, the daughter of a nobleman; the two led a pious life in the world. One

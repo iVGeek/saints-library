@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Sannudius of Bagensena
+stub: true
 honorific: Saint
 summary: Martyred in the persecutions of Maximian.
 deathYear: 303

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Cywyllog ferch Caw
+stub: false
 honorific: Saint
 summary: >-
   Born a princess, the daughter of Saint Caw, King of Arecluta, a district on the River Clyde in Scotland. When Caw was

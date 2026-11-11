@@ -1,5 +1,6 @@
 ---
 name: Blessed Magdalena Hayashida
+stub: false
 honorific: Blessed
 summary: >-
   Young lay woman in the archdiocese of Nagasaki, Japan. Daughter of Blessed Leo Hayashida Sukeemon and Blessed Martha

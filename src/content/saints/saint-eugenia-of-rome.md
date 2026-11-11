@@ -1,5 +1,6 @@
 ---
 name: Saint Eugenia of Rome
+stub: false
 honorific: Saint
 summary: >-
   Young noble woman. Converted by and martyred with her servants, Saint Hyacinth and Saint Protus during the persecution

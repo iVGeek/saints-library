@@ -1,5 +1,6 @@
 ---
 name: Blessed Natalia of Toulouse
+stub: false
 honorific: Blessed
 summary: >-
   Moved to Toulouse, France at age 16 to obtain an education. Joined the Mercedarians in Toulouse, received into the

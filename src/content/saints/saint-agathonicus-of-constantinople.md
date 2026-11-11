@@ -1,5 +1,6 @@
 ---
 name: Saint Agathonicus of Constantinople
+stub: false
 honorific: Saint
 summary: >-
   Member of the Patrician class in the area around Constantinople. Martyred in the late 3rd-century persecutions of

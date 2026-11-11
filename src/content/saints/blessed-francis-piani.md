@@ -1,5 +1,6 @@
 ---
 name: Blessed Francis Piani
+stub: false
 honorific: Blessed
 summary: >-
   Francis grew up in a poor farming community where he saw many people become enslaved to high-interest money lenders

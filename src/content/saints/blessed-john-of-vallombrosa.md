@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/c/c9/Santa_Trinita%2C_Neri_di_bicci%2C_San_giovanni_gualberto_%28dettaglio%292.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed John of Vallombrosa
+stub: false
 honorific: Blessed
 summary: >-
   Benedictine Vallombrosan monk at Florence, Italy, taking the religious name John of the Holy Trinity. Developed a

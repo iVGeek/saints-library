@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Hardulf of Breedon
+stub: true
 honorific: Saint
 summary: Hermit in Breedon, Leicestershire, England.
 died: 7th century

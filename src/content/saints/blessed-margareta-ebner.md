@@ -1,5 +1,6 @@
 ---
 name: Blessed Margareta Ebner
+stub: false
 honorific: Blessed
 summary: >-
   Born wealthy, Margareta received a thorough classical education at home. She became a Dominican nun at the

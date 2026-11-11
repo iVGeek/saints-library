@@ -1,5 +1,6 @@
 ---
 name: Blessed Hermann of Marienstatt
+stub: false
 honorific: Blessed
 summary: >-
   Born to the nobility of the Rhineland-Palatinate in modern Germany. Priest. Canon of the church of Saints Cassius and

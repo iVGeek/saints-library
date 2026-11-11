@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Venerable Amelia Rossi
+stub: false
 honorific: Venerable
 summary: >-
   Orphaned in her early teens, Amelia grew up in her uncle's house. She joined the Missionary Sisters of the Sacred

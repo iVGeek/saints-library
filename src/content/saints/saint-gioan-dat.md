@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Gioan Ðat
+stub: false
 honorific: Venerable
 summary: >-
   Parish priest in the apostolic vicariate of West Tonkin, ordained in 1798. Arrested for his faith soon after.  One of

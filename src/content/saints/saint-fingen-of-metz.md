@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Fingen of Metz
+stub: true
 honorific: Saint
 summary: Monk. Abbot. Known for restoring old monasteries.
 deathYear: 1005

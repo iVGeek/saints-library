@@ -1,5 +1,6 @@
 ---
 name: Saint Marciano José
+stub: false
 honorific: Venerable
 summary: >-
   Member of the Brothers of the Christian Schools, entering the novitate on 20 September 1916. One of the Martyrs of

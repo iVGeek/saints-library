@@ -1,5 +1,6 @@
 ---
 name: Saint Banban the Wise
+stub: false
 honorific: Saint
 title: Priest
 summary: >-

@@ -1,5 +1,6 @@
 ---
 name: Saint Pragmatius of Autun
+stub: true
 honorific: Saint
 summary: Bishop of Autun, France.
 searchAliases:

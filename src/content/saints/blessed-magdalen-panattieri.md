@@ -1,5 +1,6 @@
 ---
 name: Blessed Magdalen Panattieri
+stub: false
 honorific: Blessed
 summary: >-
   Tertiary of the Sisters of Penance of Saint Dominic at age 20. She had a great devotion to Saint Catherine of Siena.

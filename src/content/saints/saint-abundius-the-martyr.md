@@ -1,5 +1,6 @@
 ---
 name: Saint Abundius the Martyr
+stub: true
 honorific: Saint
 summary: Martyred during the persecutions of Valerian.
 deathYear: 258

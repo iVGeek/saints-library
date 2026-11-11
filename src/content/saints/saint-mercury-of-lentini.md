@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Mercury of Lentini
+stub: false
 honorific: Saint
 summary: >-
   Officer in the imperial Roman army. Led a group of soldiers escorting Christian prisoners to trial during the

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Sabinus
+stub: false
 honorific: Saint
 summary: >-
   During the persecutions of Decius, Sabinus and fifteen fellow parishioners, hearing they were about to be arrested,

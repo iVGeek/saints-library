@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/5/53/Milano_sancristoforo_facciata.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Cristoforo of Milan
+stub: false
 honorific: Blessed
 summary: >-
   Franciscan friar who lived for 40 years in the convent at Ciudad Rodrigo, Salamanca, Spain, known to his brothers and

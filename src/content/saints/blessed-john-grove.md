@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/e/e2/BensalemPA_DrexelShrineEntrance.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed John Grove
+stub: false
 honorific: Blessed
 summary: >-
   Layman. Servant of Blessed William Ireland and other Jesuits in London, England. Arrested on 28 September 1678,

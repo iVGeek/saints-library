@@ -1,5 +1,6 @@
 ---
 name: Saint Eusebius of Milan
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Milan, Italy for 16 years. Fought the heresy of Eutychianism. Rebuilt the cathedral after its destruction by

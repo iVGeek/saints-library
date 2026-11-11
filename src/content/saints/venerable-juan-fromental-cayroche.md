@@ -1,5 +1,6 @@
 ---
 name: Venerable Juan Fromental Cayroche
+stub: false
 honorific: Venerable
 summary: Salesian friar. Founded the Hermanas Guadalupanas de La Salle (Guadalupan Sisters of de La Salle).
 image: https://catholicsaints.info/wp-content/uploads/Juan-Fromental-Cayroche.png

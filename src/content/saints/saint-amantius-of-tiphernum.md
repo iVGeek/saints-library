@@ -1,5 +1,6 @@
 ---
 name: Saint Amantius of Tiphernum
+stub: false
 honorific: Saint
 summary: Priest. Friend of Pope Saint Gregory the Great who compared Amantius to the Apostles for his miracle working.
 deathYear: 600

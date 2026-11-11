@@ -1,5 +1,6 @@
 ---
 name: Venerable Annunziata Addolorata Lanfranco
+stub: false
 honorific: Venerable
 summary: >-
   At age 17 she met Blessed Elisa Martinez, founder of the Figlie di Santa Maria di Leuca (Daughters of Saint Mary of

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Ilud Ferch Brychan
+stub: false
 honorific: Saint
 summary: >-
   Born a princess, the daughter of Saint Brychan of Brycheiniog. A parish church in Luxulyan, Cornwall, England is

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/c/c8/Godfried_Maes_-_The_beheading_of_Saint_Dymphna.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Irenaeus the Soldier
+stub: true
 honorific: Saint
 summary: One of a group of ten soldier martyrs.
 deathYear: 120

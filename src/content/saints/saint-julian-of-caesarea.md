@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Julian of Caesarea
+stub: false
 honorific: Saint
 summary: >-
   Catechumen at Caesarea, Palestine. Arrested for venerating the martyred Saint Elias and companions. Martyred by order

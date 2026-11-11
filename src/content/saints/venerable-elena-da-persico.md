@@ -1,5 +1,6 @@
 ---
 name: Venerable Elena da Persico
+stub: false
 honorific: Venerable
 summary: Lay woman. Foundress of the Secular Institute of the Daughters of the Queen of the Apostles.
 image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Elena-da-Persico.gif

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Magdalena Han Yong-I
+stub: true
 honorific: Venerable
 summary: Married lay woman in the apostolic vicariate of Korea. Martyr.
 searchAliases:

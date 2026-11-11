@@ -1,5 +1,6 @@
 ---
 name: Saint Benedetto Menni
+stub: false
 honorific: Venerable
 summary: >-
   Son of Luigi Menni and Luisa Figini, the fifth of fifteen children in the family. Brother in the Order of Saint John

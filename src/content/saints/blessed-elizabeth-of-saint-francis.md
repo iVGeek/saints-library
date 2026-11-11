@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/3/33/Philip_Fruytiers_-_St._Francis_of_Assisi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Elizabeth of Saint Francis
+stub: false
 honorific: Blessed
 summary: Born to pious Portugese noble family. Poor Clare nun at Saint Clare Vila do Conde, diocese of Braga, Portutal.
 deathYear: 1534

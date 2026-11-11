@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/4a/Fresco_of_Saint_Paul_at_Ephesus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed James Saul
+stub: true
 honorific: Blessed
 summary: Franciscan Friar Minor monk. One of the Irish Martyrs.
 deathYear: 1647

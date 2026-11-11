@@ -1,5 +1,6 @@
 ---
 name: Blessed Florentina Nicol Goñi
+stub: false
 honorific: Blessed
 summary: >-
   Youngest of four children. Educated in the Saint Rose of Lima Dominican boarding school at Huesca, Spain where she

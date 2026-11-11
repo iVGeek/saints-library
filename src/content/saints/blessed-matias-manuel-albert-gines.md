@@ -1,5 +1,6 @@
 ---
 name: Blessed Matías Manuel Albert Ginés
+stub: false
 honorific: Blessed
 summary: >-
   Studied at the preceptory of Andorra in 1882, then the seminary in Zaragoza, Spain. Ordained in the diocese of

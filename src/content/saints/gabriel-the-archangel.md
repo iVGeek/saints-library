@@ -1,5 +1,6 @@
 ---
 name: Gabriel the Archangel
+stub: false
 honorific: Saint
 title: Archangel
 summary: Archangel and messenger of God. One of the three angels mentioned by name in the Catholic Bible.

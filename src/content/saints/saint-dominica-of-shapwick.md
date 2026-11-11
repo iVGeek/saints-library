@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Dominica of Shapwick
+stub: false
 honorific: Saint
 summary: >-
   Irish princess. Following a pilgrimage to Rome, Italy, she was murdered with her brother, Saint Indract, and six

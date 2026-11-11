@@ -1,5 +1,6 @@
 ---
 name: Saint Eustachius
+stub: false
 honorific: Saint
 summary: >-
   Pagan Roman general in the army of the emperor Trajan. Converted to Christianity following a hunting trip during which

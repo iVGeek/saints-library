@@ -1,5 +1,6 @@
 ---
 name: Saint Benjamin the Deacon
+stub: false
 honorific: Saint
 summary: >-
   Deacon. Imprisoned for a year for his faith, he was released on condition that he never speak about Christianity where

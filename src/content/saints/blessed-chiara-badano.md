@@ -1,5 +1,6 @@
 ---
 name: Blessed Chiara Badano
+stub: false
 honorific: Blessed
 summary: >-
   Young lay woman in the Diocese of Aqui Terme, Italy. Daughter of Ruggero Badano, a truck driver, and Maria Teresa

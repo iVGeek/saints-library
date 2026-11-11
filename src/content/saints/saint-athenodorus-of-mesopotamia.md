@@ -1,5 +1,6 @@
 ---
 name: Saint Athenodorus of Mesopotamia
+stub: true
 honorific: Saint
 summary: Tortured and martyred in the persecutions of Eleusis and Diocletian.
 searchAliases:

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Abakerazum
+stub: false
 honorific: Saint
 summary: A robber who converted to Christianity, gave up his old life, and was martyred for his faith.
 searchAliases:

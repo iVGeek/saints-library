@@ -1,5 +1,6 @@
 ---
 name: Blessed Nicolás Aramendía García
+stub: false
 honorific: Blessed
 summary: >-
   Joined the Hospitallers of Saint John of God in 1893. Served as superior of his community. Martyred in the Spanish

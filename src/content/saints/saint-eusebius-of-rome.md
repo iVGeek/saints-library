@@ -1,5 +1,6 @@
 ---
 name: Saint Eusebius of Rome
+stub: false
 honorific: Saint
 summary: >-
   Imperial Roman patrician. Priest. Pope Liberius subscribed to the Arian formula of Sirmium; when he was permitted by

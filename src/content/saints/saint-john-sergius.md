@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint John Sergius
+stub: false
 honorific: Saint
 summary: >-
   Monk at the eremetical abbey (a laura) of Saint Sabas' near Jerusalem. Martyred with 20 other monks in an Arab

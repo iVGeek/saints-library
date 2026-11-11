@@ -1,5 +1,6 @@
 ---
 name: Saint Febronia of Nisibis
+stub: false
 honorific: Saint
 summary: >-
   Beautiful young woman at Nisibis, Mesopotamia who had dedicated her life to God. During the persecutions of

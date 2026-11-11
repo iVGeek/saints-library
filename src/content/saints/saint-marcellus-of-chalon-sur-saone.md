@@ -1,5 +1,6 @@
 ---
 name: Saint Marcellus of Chalon-sur-Saône
+stub: false
 honorific: Saint
 summary: >-
   Priest in Lyons in Gaul (in modern France). Imprisoned for his faith during the persecutions of Marcus Aurelius, when

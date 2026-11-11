@@ -1,5 +1,6 @@
 ---
 name: Blessed Alejandro Más Ginester
+stub: false
 honorific: Blessed
 summary: >-
   Youngest of four children of Francisco Más and Vicenta Ginestar. Joined the Franciscan Capuchins on 1 August 1893 at

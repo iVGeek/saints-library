@@ -1,5 +1,6 @@
 ---
 name: Blessed Francisco Lahoz Moliner
+stub: false
 honorific: Blessed
 summary: >-
   Baptized at the age of 1 day. Joined the Brothers of the Christian Schools at Cambrils, Spain on 10 August 1925,

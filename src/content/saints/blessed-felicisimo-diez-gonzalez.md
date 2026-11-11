@@ -1,5 +1,6 @@
 ---
 name: Blessed Felicísimo Díez González
+stub: false
 honorific: Blessed
 summary: >-
   Lifelong friend of Blessed Saturio Rey Robles. Dominican priest, professed in the Order on 27 November 1923, and

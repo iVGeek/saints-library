@@ -1,5 +1,6 @@
 ---
 name: Saint Teresa Eustochio Verzeri
+stub: false
 honorific: Venerable
 summary: >-
   Teresa's mother, Countess Elena Pedrocca-Grumelli, had felt drawn to the religious life, but her aunt, a Poor Clare

@@ -1,5 +1,6 @@
 ---
 name: Blessed Gerhard Hirschfelder
+stub: false
 honorific: Blessed
 summary: >-
   Priest in the archdiocese of Münster, Germany, ordained in 1932. Member of the Schoenstatt Movement. For preaching

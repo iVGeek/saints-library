@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/b/b7/Embrun_Cath%C3%A9drale.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Agericus of Tours
+stub: true
 honorific: Saint
 summary: Spiritual student of Saint Eligius. Abbot of Saint Martin's in Tours, France.
 searchAliases:

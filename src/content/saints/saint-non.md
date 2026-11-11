@@ -1,5 +1,6 @@
 ---
 name: Saint Non
+stub: false
 honorific: Saint
 summary: >-
   Nobility, possibly of a royal house. Widow. Legend says she was the unwed mother of Saint David of Wales. Lived in

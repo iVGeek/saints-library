@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Frunumius of North Africa
+stub: true
 honorific: Saint
 summary: Martyr. No other information has survived.
 feastDay:

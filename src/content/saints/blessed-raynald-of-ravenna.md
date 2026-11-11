@@ -1,5 +1,6 @@
 ---
 name: Blessed Raynald of Ravenna
+stub: false
 honorific: Blessed
 summary: >-
   Priest. Canon of Lodi, Italy. Bishop of Vicenza, Italy in 1296. Held several governmental posts in the papal states.

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Herundo of Rome
+stub: false
 honorific: Saint
 summary: >-
   Hermitess near the church of Saint Mary Major in Rome, Italy with Saint Romula and Saint Redempta. Saint Gregory the

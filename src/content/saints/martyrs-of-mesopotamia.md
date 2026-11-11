@@ -1,5 +1,6 @@
 ---
 name: Martyrs of Mesopotamia
+stub: false
 honorific: Saint
 summary: >-
   A group of Christians martyred in Mesopotamia in persecutions by imperial Roman authorities. Their names and the

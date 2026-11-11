@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Peleusius of Alexandria
+stub: true
 honorific: Saint
 summary: Priest. Martyr.
 searchAliases:

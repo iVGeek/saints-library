@@ -1,5 +1,6 @@
 ---
 name: Venerable Luiza Maria Langstroth Figueira de Sousa
+stub: false
 honorific: Venerable
 summary: >-
   Born to the Portuguese nobility, Luiza was raised to use her resources to help the poor. She grew up in a time when

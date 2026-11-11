@@ -1,5 +1,6 @@
 ---
 name: Blessed James Benefatti
+stub: false
 honorific: Blessed
 summary: >-
   Dominican at Mantua, Italy in 1290. Doctor of theology. Priest. Friend and brother friar with Nicholas Boccasino who

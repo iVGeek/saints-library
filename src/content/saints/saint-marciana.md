@@ -1,5 +1,6 @@
 ---
 name: Saint Marciana
+stub: false
 honorific: Saint
 summary: >-
   Young Christian girl who was beaten, tortured and handed over to gladiators as a sex toy during the persecutions of

@@ -1,5 +1,6 @@
 ---
 name: Saint Calogerus of Fragalata
+stub: false
 honorific: Saint
 summary: >-
   Monk, receiving the habit in Rome. Abbot. Driven into North Africa by Arian Vandals with Saint Demetrius and Saint

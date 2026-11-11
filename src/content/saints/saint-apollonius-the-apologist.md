@@ -1,5 +1,6 @@
 ---
 name: Saint Apollonius the Apologist
+stub: false
 honorific: Saint
 summary: >-
   Imperial Roman senator and scholar. After studying pagan philosophy and the Scriptures, he converted to Christianity

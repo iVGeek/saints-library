@@ -1,5 +1,6 @@
 ---
 name: Saint Gertrude of Nivelles
+stub: false
 honorific: Saint
 summary: >-
   Younger daughter of Saint Pepin of Landen and Saint Ida of Nivelles; sister of Saint Begga of Ardenne. Devoted to her

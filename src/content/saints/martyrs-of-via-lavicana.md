@@ -1,5 +1,6 @@
 ---
 name: Martyrs of Via Lavicana
+stub: true
 honorific: Saint
 summary: A group of 30 Christians martyred together in the persecutions of Diocletian.
 deathYear: 303

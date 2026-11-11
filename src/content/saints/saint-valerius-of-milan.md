@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Valerius of Milan
+stub: true
 honorific: Saint
 summary: Venerated in Milan, Italy, but no details have survived.
 region: Italy

@@ -1,5 +1,6 @@
 ---
 name: Saint Odilia of Alsace
+stub: false
 honorific: Saint
 summary: >-
   Born blind to the family of the Duke of Alsace Lord Aldaric (aka Etichon, aka Athich) and Bereswinda; because she was

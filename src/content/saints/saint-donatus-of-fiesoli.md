@@ -1,5 +1,6 @@
 ---
 name: Saint Donatus of Fiesoli
+stub: false
 honorific: Saint
 summary: >-
   Pious and well-educated poet and scholar. While on pilgrimage to Rome, Italy in 816 with Andrew the Scot he was

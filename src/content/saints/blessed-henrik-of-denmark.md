@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/7/7c/Location_Nordic_Council.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Henrik of Denmark
+stub: false
 honorific: Blessed
 summary: >-
   Related to the Danish royal family, Henrik became a Franciscan tertiary and became a penitent pilgrim. In Perugia,

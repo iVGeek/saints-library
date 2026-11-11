@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/9/9c/Sand_-_Lelia_1867.djvu?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 name: Saint Lelia
+stub: false
 honorific: Saint
 summary: >-
   Daughter of Prince Cairthenn. Lived in the Irish cities of Limerick and Kerry. Nun. Superior of a convent in Munster,

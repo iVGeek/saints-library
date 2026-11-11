@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Corebus
+stub: false
 honorific: Saint
 summary: >-
   Imperial Roman prefect of Messina, Sicily. Converted to Christianity by Saint Eleutherius. Martyred in the

@@ -1,5 +1,6 @@
 ---
 name: Blessed Andrew of Segni
+stub: false
 honorific: Blessed
 summary: >-
   Member of the royal family of Anagni, Italy. Nephew of Pope Alexander IV. Franciscan lay-brother. Hermit in the

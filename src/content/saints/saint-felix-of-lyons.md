@@ -1,5 +1,6 @@
 ---
 name: Saint Felix of Lyons
+stub: true
 honorific: Saint
 summary: Bishop of Lyons, France. No other information has survived.
 region: France

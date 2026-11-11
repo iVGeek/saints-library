@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Rizziero of Muccia
+stub: false
 honorific: Blessed
 summary: >-
   Born to the the wealthy nobility and a law student in Bologna, Italy, he gave up the worldly life in 1222 to be a

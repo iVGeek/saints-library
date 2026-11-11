@@ -1,5 +1,6 @@
 ---
 name: Saint Gislenus
+stub: false
 honorific: Saint
 summary: >-
   Frankish hermit. Lived in a forest in Hainault, Belgium. His reputation for holiness attracted many disciples for whom

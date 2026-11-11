@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Venerable Petar Barbaric
+stub: true
 honorific: Venerable
 summary: Jesuit novice.
 birthYear: 1874

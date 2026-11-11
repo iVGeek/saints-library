@@ -1,5 +1,6 @@
 ---
 name: Saint Odulph of Utrecht
+stub: false
 honorific: Saint
 summary: >-
   French nobility. Pious and studious youth. Augustinian priest. Curate of Oresscoth in Brabant. Worked with Saint

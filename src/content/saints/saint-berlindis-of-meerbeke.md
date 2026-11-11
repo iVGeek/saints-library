@@ -1,5 +1,6 @@
 ---
 name: Saint Berlindis of Meerbeke
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility, the daughter of Odolard, Duke of Lothringia and Nona, and the niece of Saint Amand of

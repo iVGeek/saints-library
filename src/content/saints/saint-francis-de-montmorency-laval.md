@@ -1,5 +1,6 @@
 ---
 name: Saint Francis de Montmorency Laval
+stub: false
 honorific: Venerable
 summary: >-
   Third son of Hughes de Laval, an aristocrat soldier, and Michelle de P&eacute;ricard. His was an old, distinguished

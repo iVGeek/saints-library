@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/8/8b/Unknown_woman%2C_formerly_known_as_Margaret_Pole%2C_Countess_of_Salisbury_from_NPG_retouched.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Pietro Parenzo
+stub: false
 honorific: Blessed
 summary: >-
   Born to the Italian nobility, the son of Giovanni, a senator and judge; his mother's name was Odolina. We know he had

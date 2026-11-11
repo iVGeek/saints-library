@@ -1,5 +1,6 @@
 ---
 name: Blessed Secondo Giovanni Pollo
+stub: false
 honorific: Blessed
 summary: >-
   Educated by the Brothers of the Christian Schools, Secondo felt a call to the priesthood when he was a little boy, and

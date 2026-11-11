@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Lluís Albi Aguilar
+stub: false
 honorific: Blessed
 summary: >-
   Member of the Claretians, professed in 31 August 1926. Ordained a priest on 26 May 1934. Martyred in the Spanish Civil

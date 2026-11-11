@@ -1,5 +1,6 @@
 ---
 name: Saint Anastasius I of Antioch
+stub: false
 honorific: Saint
 summary: >-
   Patriarch of Antioch in 559. A learned, austere, pious and quiet man who strictly adhered to orthodox Christianity and

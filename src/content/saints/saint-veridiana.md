@@ -1,5 +1,6 @@
 ---
 name: Saint Veridiana
+stub: false
 honorific: Saint
 summary: >-
   Member of an impoverished but noble family, she was drawn to religious life from an early age. Pilgrim to Santiago de

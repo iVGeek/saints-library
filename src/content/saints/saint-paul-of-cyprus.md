@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/4a/Fresco_of_Saint_Paul_at_Ephesus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Paul of Cyprus
+stub: false
 honorific: Saint
 summary: >-
   Cypriot monk. During the reign of the iconoclast emperor Constantine Copronymus, Paul was ordered to trample a

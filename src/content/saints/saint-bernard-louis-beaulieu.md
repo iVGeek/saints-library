@@ -1,5 +1,6 @@
 ---
 name: Saint Bernard-Louis Beaulieu
+stub: false
 honorific: Venerable
 summary: >-
   Bernard-Louis's father died when the boy was very young, but his mother raised him with a good Christian education. He

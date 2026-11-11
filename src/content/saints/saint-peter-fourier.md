@@ -1,5 +1,6 @@
 ---
 name: Saint Peter Fourier
+stub: false
 honorific: Saint
 summary: >-
   Educated at the University of Pont-a-Mousson, entering at age 15. Tutor to the sons of many noble families.

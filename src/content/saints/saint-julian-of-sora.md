@@ -1,5 +1,6 @@
 ---
 name: Saint Julian of Sora
+stub: false
 honorific: Saint
 summary: >-
   Arrested, tortured, and executed in the persecutions of Antoninus Pius. While he was in custody, a pagan temple

@@ -1,5 +1,6 @@
 ---
 name: Saint Gualtero of Lodi
+stub: false
 honorific: Saint
 summary: >-
   The only child of Aliprando and Adelazia, pious parents who were childless so long that they promised God they would

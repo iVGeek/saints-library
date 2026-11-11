@@ -1,5 +1,6 @@
 ---
 name: Blessed Peter Gambacorta
+stub: false
 honorific: Blessed
 summary: >-
   Son of a government official and brother of Blessed Clara Gambacorta. At age 25, after a mis-spent youth and life at

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Gwendoline
+stub: true
 honorific: Saint
 summary: No information has survived.
 searchAliases:

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Pancharius of Nicomedia
+stub: false
 honorific: Saint
 summary: >-
   Roman senator. Imperial officer. Favorite of emperor Maximian. Covert Christian during the first stage of the

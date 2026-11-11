@@ -1,5 +1,6 @@
 ---
 name: Saint Aristo of Carthage
+stub: true
 honorific: Saint
 summary: Martyred in the persecutions of Decius.
 searchAliases:

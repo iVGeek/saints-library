@@ -1,5 +1,6 @@
 ---
 name: Saint Hedwig, Queen of Poland
+stub: false
 honorific: Saint
 summary: >-
   Youngest daughter of King Louis I of Hungary. Because she was great-niece to King Casimir III of Poland, she became

@@ -1,5 +1,6 @@
 ---
 name: Saint Marianne Cope
+stub: false
 honorific: Saint
 title: St. Marianne Cope
 summary: >-

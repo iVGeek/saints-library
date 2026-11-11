@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Martin of Brive
+stub: false
 honorific: Saint
 summary: >-
   Born to a pagan family, Martin converted to Christianity as a young man and left Spain to live in the area of

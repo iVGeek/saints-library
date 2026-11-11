@@ -1,5 +1,6 @@
 ---
 name: Saint Burchard of Meissen
+stub: false
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Mitteilungen_des_Vereins_f%C3%BCr_Geschichte_der_Stadt_Meissen_%28IA_mitteilungendesv02unse%29.pdf/page1-500px-Mitteilungen_des_Vereins_f%C3%BCr_Geschichte_der_Stadt_Meissen_%28IA_mitteilungendesv02unse%29.pdf.jpg
 honorific: Saint

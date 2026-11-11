@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Tenenan of Léon
+stub: true
 honorific: Saint
 summary: Seventh century hermit in Brittany (in modern France). Bishop of Léon, France.
 born: probably in Wales

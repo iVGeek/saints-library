@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Faustinus the Martyr
+stub: true
 honorific: Saint
 summary: The only one of a group of 45 Christian martyrs whose name has come down to us.
 region: England

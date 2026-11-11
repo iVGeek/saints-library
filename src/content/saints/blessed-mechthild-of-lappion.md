@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Mechthild of Lappion
+stub: true
 honorific: Blessed
 summary: Anchoress in Lappion, Diocese of Laon, France.
 searchAliases:

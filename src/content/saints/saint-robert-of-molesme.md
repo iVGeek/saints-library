@@ -1,5 +1,6 @@
 ---
 name: Saint Robert of Molesme
+stub: false
 honorific: Saint
 summary: >-
   Born to the French nobility. Benedictine monk in 1044. Prior of Moutiers-la-Celle Abbey. Abbot of

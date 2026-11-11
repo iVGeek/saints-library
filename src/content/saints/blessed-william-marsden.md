@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/a/a2/Blessed-robert-anderton.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed William Marsden
+stub: false
 honorific: Blessed
 summary: >-
   Convert to Catholicism; entered the English College at Rheims, France in 1580. Ordained at Rheims with his friend and

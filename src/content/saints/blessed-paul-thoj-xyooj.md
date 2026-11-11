@@ -1,5 +1,6 @@
 ---
 name: Blessed Paul Thoj Xyooj
+stub: true
 honorific: Blessed
 summary: Young lay catechist in the apostolic vicariate of Luang Prabang, Laos. Martyr.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Paul-Thoj-Xyooj.jpg

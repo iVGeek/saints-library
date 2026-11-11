@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Drithelm
+stub: false
 honorific: Saint
 summary: >-
   Wealthy and pious layman, a husband and father. Following a terrifying vision of the afterlife during a near-death

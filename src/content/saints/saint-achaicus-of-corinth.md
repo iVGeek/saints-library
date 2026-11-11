@@ -1,5 +1,6 @@
 ---
 name: Saint Achaicus of Corinth
+stub: false
 honorific: Saint
 summary: >-
   First-century Christian mentioned by the Saint Paul the Apostle in 1st Corinthians as taking correspondence back and

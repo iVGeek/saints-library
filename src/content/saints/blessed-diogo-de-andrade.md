@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/6/63/Max_Koch_Schlacht_bei_Hemmingstedt.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Diogo de Andrade
+stub: false
 honorific: Blessed
 summary: Jesuit priest. Martyred by the Huguenot Jacques Sourie while en route to Brazil.
 birthYear: 1531

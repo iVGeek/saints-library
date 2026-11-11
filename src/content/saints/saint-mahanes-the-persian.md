@@ -1,5 +1,6 @@
 ---
 name: Saint Mahanes the Persian
+stub: false
 image: https://commons.wikimedia.org/wiki/Special:FilePath/Mahane_Yehuda_Market_ap_035.jpg?width=600
 honorific: Saint
 summary: >-

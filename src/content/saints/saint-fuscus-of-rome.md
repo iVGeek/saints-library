@@ -1,5 +1,6 @@
 ---
 name: Saint Fuscus of Rome
+stub: false
 image: >-
   https://commons.wikimedia.org/wiki/Special:FilePath/Rome%252C_via_Appia_Antica_-_WMI-mAppiaM_2016_-_g8315.jpg?width=600
 honorific: Saint

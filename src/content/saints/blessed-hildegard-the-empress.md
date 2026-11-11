@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/3/3e/Sainte-Ad%C3%A9la%C3%AFde_-_%C3%89glise_de_Toury%2C_vitraux_par_Lorin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Hildegard the Empress
+stub: false
 honorific: Blessed
 summary: >-
   Daughter of the Duke of Swabia, Germany. Married Emperor Charlemagne in 771. Empress. Mother of nine during her twelve

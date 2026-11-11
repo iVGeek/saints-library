@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Saterius of Pavia
+stub: true
 honorific: Saint
 summary: Martyr.
 died: Pavia, Italy, date unknown

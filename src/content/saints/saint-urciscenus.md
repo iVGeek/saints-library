@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Urciscenus of Pavia
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Pavia, Italy, from c.183 until his death, serving for 33 years. He led his see during a turbulent period of

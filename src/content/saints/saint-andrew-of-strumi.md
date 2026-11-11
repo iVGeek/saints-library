@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/7/75/Santa_Trinita_16_Neri_di_Bicci.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Andrew of Strumi
+stub: false
 honorific: Saint
 summary: >-
   Benedictine. Spiritual student and chief supporter of Saint Arialdo of Milan in the campaign against simony in Milan,

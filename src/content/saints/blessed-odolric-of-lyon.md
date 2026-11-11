@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/0/00/007._Photo_prise_depuis_les_toits_de_la_Basilique_Notre-Dame_de_Fourvi%C3%A8re.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Odolric of Lyon
+stub: false
 honorific: Blessed
 summary: >-
   Canon and archdeacon of Langres, France. Archbishop of Lyon, France in 1041 at the request of Emperor Henry III of

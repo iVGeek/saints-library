@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/e/ea/San_Leone_Abate.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Leo of Cava
+stub: false
 honorific: Saint
 summary: >-
   Benedictine monk at the monastery of the Holy Trinity in La Cava de Tirreni at Salerno, Italy. Spiritual student of

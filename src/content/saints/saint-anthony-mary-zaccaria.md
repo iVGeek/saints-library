@@ -1,5 +1,6 @@
 ---
 name: Saint Anthony Mary Zaccaria
+stub: false
 honorific: Saint
 summary: >-
   Born to a patrician family. His father Lazzaro died when Anthony was two, and his mother, Antonia Pescorali, widowed

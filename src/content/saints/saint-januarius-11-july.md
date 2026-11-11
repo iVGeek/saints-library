@@ -1,5 +1,6 @@
 ---
 name: Saint Januarius
+stub: true
 honorific: Saint
 summary: Martyred in the persecutions of Licinius.
 deathYear: 320

@@ -1,5 +1,6 @@
 ---
 name: Saint Eugene of Tivoli
+stub: true
 honorific: Saint
 summary: Martyred in the persecutions of Hadrian.
 died: early 2nd century in Tivoli, Italy

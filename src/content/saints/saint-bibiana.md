@@ -1,5 +1,6 @@
 ---
 name: Saint Bibiana
+stub: false
 honorific: Saint
 summary: >-
   Her parents, Saint Flavian of Acquapendente and Dafrosa of Acquapendente, were martyred in the persecutions of Julian

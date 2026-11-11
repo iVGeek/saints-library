@@ -1,5 +1,6 @@
 ---
 name: Blessed Manfredo Settala
+stub: false
 honorific: Blessed
 summary: >-
   Born to an esteemed Milanese family. Priest of the parishes of Cuasso, Cuasso al Piano, Cuasso al Monte, Brusimpiano

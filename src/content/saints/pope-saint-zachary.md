@@ -1,5 +1,6 @@
 ---
 name: Pope Saint Zachary
+stub: false
 honorific: Saint
 summary: >-
   Son of Polichronius, but little else is known of his early life. Deacon. Advisor to Pope Gregory III. 91st pope. First

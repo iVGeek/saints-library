@@ -1,5 +1,6 @@
 ---
 name: Saint Dwynwen
+stub: false
 honorific: Saint
 summary: >-
   Beautiful, pious and virtuous daughter of the 5th century Welsh king, Brychan of Brecknock. A certain Maelon fell in

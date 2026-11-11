@@ -1,5 +1,6 @@
 ---
 name: Saint Victor of Africa
+stub: true
 image: https://upload.wikimedia.org/wikipedia/commons/d/d3/Pope_Victor_I.jpg
 honorific: Saint
 summary: Martyr.

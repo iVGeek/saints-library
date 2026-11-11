@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/a/ad/Saint_Nemesius_and_Saint_John_the_Baptist.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Nemesian of Sigum
+stub: false
 honorific: Saint
 summary: >-
   Bishop in Numidia, North Africa. Sentenced along with a large number of clergy and laity to slavery in the marble

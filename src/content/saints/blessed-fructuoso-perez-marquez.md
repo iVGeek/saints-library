@@ -1,5 +1,6 @@
 ---
 name: Blessed Fructuoso Pérez Márquez
+stub: false
 honorific: Blessed
 summary: >-
   Feeling a call to a religious life, Fructuoso studied in seminary, but left, married María Barceló Toro, and became a

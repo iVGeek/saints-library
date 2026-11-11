@@ -1,6 +1,7 @@
 ---
 image: https://www.santiebeati.it/immagini/Thumbs/92179/92179.JPG
 name: Saint Proietto
+stub: false
 honorific: Saint
 summary: Deacon, serving with and martyred with Saint Evasius of Asti in the persecutions by Arians.
 region: Italy

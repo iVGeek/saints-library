@@ -1,5 +1,6 @@
 ---
 name: Blessed Joachim Piccolomini
+stub: false
 honorific: Blessed
 summary: >-
   Born to the Sienese nobility. A pious youth, noted for a devotion to the Blessed Virgin, and for giving all he had to

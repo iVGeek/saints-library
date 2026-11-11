@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Mauro of Sardinia
+stub: true
 honorific: Saint
 summary: Married to Saint Beneria of Sardinia. Martyr.
 died: beheaded in Sardinia, Italy

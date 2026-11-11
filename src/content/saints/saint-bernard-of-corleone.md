@@ -1,5 +1,6 @@
 ---
 name: Saint Bernard of Corleone
+stub: false
 honorific: Venerable
 summary: >-
   Shoemaker by trade, and considered the greatest swordsman and duelist in Sicily in his day. After mortally wounding a

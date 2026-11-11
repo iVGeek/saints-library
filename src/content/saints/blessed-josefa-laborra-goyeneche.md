@@ -1,5 +1,6 @@
 ---
 name: Blessed Josefa Laborra Goyeneche
+stub: false
 honorific: Blessed
 summary: >-
   The daughter of Francisco and Javier, Josefa was raised in a pious farm family with three brothers. She was educated

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/b/b6/Cordoba_Ermita_de_San_Zoilo_El_titular_sobre_la_puerta.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Paul of Saint Zoilus
+stub: false
 honorific: Saint
 summary: >-
   Deacon in Moorish-occupied Cordoba, Spain. Monk at the Saint Zoilus monastery in Cordoba. Had a special ministry

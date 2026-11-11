@@ -1,5 +1,6 @@
 ---
 name: Martyrs of Egypt
+stub: false
 honorific: Saint
 summary: >-
   Large number of bishops, priests, deacons and lay people banished when the Arian heretics seized the diocese of

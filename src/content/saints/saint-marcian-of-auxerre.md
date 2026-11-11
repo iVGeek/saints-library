@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Marcian of Auxerre
+stub: false
 honorific: Saint
 summary: >-
   Monk at the monastery of Saints Cosmas and Damian in Auxerre, France. Had charge of the abbey's cattle. Miracle worker

@@ -1,5 +1,6 @@
 ---
 name: Pope Saint Felix I
+stub: false
 honorific: Saint
 summary: >-
   Son of Constantius; little else is known of his early life. Chosen 26th pope in 269. Believed to have given sanction

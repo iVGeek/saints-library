@@ -1,6 +1,7 @@
 ---
 image: https://www.catholic.org/files/images/saints/3137.jpg
 name: Saint Enodoch
+stub: true
 honorific: Saint
 summary: Venerated in Wales. No other information has survived.
 searchAliases:

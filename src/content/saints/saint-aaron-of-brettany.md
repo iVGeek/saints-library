@@ -1,5 +1,6 @@
 ---
 name: Saint Aaron of Brettany
+stub: false
 honorific: Saint
 summary: >-
   Migrated to Cesambre, a small island near Aleth in Armorica, Brittany (modern St Malo, France) to live as a hermit;

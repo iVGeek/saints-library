@@ -1,5 +1,6 @@
 ---
 name: Venerable Michel le Nobletz
+stub: false
 honorific: Venerable
 summary: >-
   One of eleven children born to a family in the minor French nobility, the son of Hervé Le Nobletz and Françoise de

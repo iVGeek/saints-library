@@ -1,5 +1,6 @@
 ---
 name: Blessed John Duckett
+stub: false
 honorific: Blessed
 summary: >-
   Relative of Blessed James Duckett, possibly his grandson. Educated at Douai, France. Ordained in 1639. Studied at the

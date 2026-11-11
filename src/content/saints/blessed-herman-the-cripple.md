@@ -1,5 +1,6 @@
 ---
 name: Blessed Herman the Cripple
+stub: false
 honorific: Blessed
 summary: >-
   Born with a cleft palate, cerebral palsy, and spina bifida to a farm family. His parents cared for him until the age

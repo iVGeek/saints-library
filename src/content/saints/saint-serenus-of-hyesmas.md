@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Serenus of Hyesmas
+stub: true
 honorific: Saint
 summary: Born to the Italian nobility. Monk. Hermit near the River Sarthe in France.
 born: Spoleto, Italy

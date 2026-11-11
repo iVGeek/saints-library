@@ -1,5 +1,6 @@
 ---
 name: Saint Claudine Thévenet
+stub: false
 honorific: Venerable
 summary: >-
   Raised in a pious family. Two of her brothers were murdered in the excesses of the French Revolution; they went to

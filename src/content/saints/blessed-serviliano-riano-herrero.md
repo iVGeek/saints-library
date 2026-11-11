@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Serviliano Riaño Herrero
+stub: false
 honorific: Blessed
 summary: Professed cleric in the Missionary Oblates of Mary Immaculate. Martyred in the Spanish Civil War.
 birthYear: 1916

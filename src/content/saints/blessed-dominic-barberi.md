@@ -1,5 +1,6 @@
 ---
 name: Blessed Dominic Barberi
+stub: false
 honorific: Blessed
 summary: >-
   Born to a poor farm family, orphaned by age eight, and raised by an aunt and uncle on a farm in Merlano, Italy. An

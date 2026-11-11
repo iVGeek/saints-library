@@ -1,5 +1,6 @@
 ---
 name: Blessed Luca Passi
+stub: false
 honorific: Blessed
 summary: >-
   Born to the Venetian nobility. Ordained on 13 March 1813. Priest in the archdiocese of Venice, Italy. Founded the

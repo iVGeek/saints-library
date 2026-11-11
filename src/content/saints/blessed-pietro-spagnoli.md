@@ -1,5 +1,6 @@
 ---
 name: Blessed Pietro Spagnoli
+stub: false
 honorific: Blessed
 summary: >-
   Pietro became a Gerolamini (Hermits of Saint Jerome) monk as a young man, lived most of his adult life in the

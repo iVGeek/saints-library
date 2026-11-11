@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Seleucus of Alexandria
+stub: false
 honorific: Saint
 summary: >-
   Student of Saint Pamphilus of Alexandria; fellow student with Saint Porphyrius of Alexandria. Seleucus applauded how

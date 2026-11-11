@@ -1,5 +1,6 @@
 ---
 name: Saint John Roberts
+stub: false
 honorific: Venerable
 summary: >-
   Son of John and Anna Roberts; his ancestors were princes in Wales. Raised Protestant, John always felt an affinity for

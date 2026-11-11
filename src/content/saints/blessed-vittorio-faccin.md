@@ -1,5 +1,6 @@
 ---
 name: Blessed Vittorio Faccin
+stub: false
 honorific: Blessed
 summary: >-
   Vittorio grew up in the countryside of Modena, Italy. He joined the Xaverian Missionaries in 1950 at age 16, making

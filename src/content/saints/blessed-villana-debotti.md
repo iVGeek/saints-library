@@ -1,5 +1,6 @@
 ---
 name: Blessed Villana de'Botti
+stub: false
 honorific: Blessed
 title: Priest
 summary: ' The rejection at the convent and the marriage seemed to change Vil Daughter of Andrew de''Botti, a merchant. Villana was a pious child, and at age 13 ran away from home to join a convent. She was refused and had to return home. Soon after, her family married her to Rosso di Piero.'

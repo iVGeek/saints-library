@@ -1,5 +1,6 @@
 ---
 name: Saint Gertrude the Elder
+stub: false
 honorific: Saint
 summary: >-
   Married lay woman. Widow. Founded the convent at Hamaye near Douai, France. She joined the convent as nun and first

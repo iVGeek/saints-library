@@ -1,5 +1,6 @@
 ---
 name: Blessed Vikentij Bosilkov
+stub: false
 honorific: Blessed
 summary: >-
   Passionist priest, ordained on 25 July 1926. Bishop of Nikopol, Bulgaria on 26 July 1947. Imprisoned and tortured for

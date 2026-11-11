@@ -1,5 +1,6 @@
 ---
 name: Blessed Matthew Malaventino
+stub: false
 honorific: Blessed
 summary: >-
   Mercedarian friar assigned to ransom Christians from slavery in Muslim north Africa. Along the way, he preached

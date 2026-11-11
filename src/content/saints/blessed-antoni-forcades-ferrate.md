@@ -1,5 +1,6 @@
 ---
 name: Blessed Antoni Forcades Ferraté
+stub: false
 honorific: Blessed
 summary: >-
   Joined the Hospitallers of Saint John of God on 29 August 1899, making his final vows on 26 May 1901. Martyred in the

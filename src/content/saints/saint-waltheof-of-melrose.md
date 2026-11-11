@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Waltheof of Melrose
+stub: false
 honorific: Saint
 summary: >-
   Born to the English nobility, the second son of Simon, Earl of Huntingdon, and Maud (Matilda), grand-niece of William

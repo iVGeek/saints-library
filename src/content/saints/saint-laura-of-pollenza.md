@@ -1,6 +1,7 @@
 ---
 image: https://www.santiebeati.it/immagini/Thumbs/91216/91216.JPG
 name: Saint Laura of Pollenza
+stub: true
 honorific: Saint
 summary: Martyred in the persecutions of Diocletian.
 died: beheaded in the early 4th century in Rome, Italy

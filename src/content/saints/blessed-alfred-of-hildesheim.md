@@ -1,5 +1,6 @@
 ---
 name: Blessed Alfred of Hildesheim
+stub: false
 honorific: Blessed
 summary: >-
   Benedictine monk at Corvey Abbey. Bishop of Hildesheim, Germany in 851. Founded Essen Abbey. Adviser to the East

@@ -1,5 +1,6 @@
 ---
 name: Saint Galdinus of Milan
+stub: false
 honorific: Saint
 summary: >-
   Milanese noble. Priest. Chancellor. Archdeacon. Supported the Roman Pope during the schism of 1159. Fled Milan, Italy

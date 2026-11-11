@@ -1,6 +1,7 @@
 ---
 image: https://www.catholic.org/files/images/saints/6604.jpg
 name: Saint Pontius of Carthage
+stub: false
 honorific: Saint
 summary: >-
   Deacon in Carthage, North Africa. Companion in exile, biographer of, and witness at the trial and execution Saint

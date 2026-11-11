@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Martin of Saujon
+stub: false
 honorific: Saint
 summary: Spiritual student of Saint Martin of Tours. Founded the monastery of Saujon, France.
 deathYear: 400

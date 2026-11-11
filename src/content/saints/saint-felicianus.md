@@ -1,5 +1,6 @@
 ---
 name: Saint Felicianus
+stub: false
 honorific: Saint
 summary: >-
   Brother of Saint Primus. With his brother he was tortured and martyred in the persecutions of Diocletian. The two were

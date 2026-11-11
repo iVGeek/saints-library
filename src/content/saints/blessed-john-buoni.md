@@ -1,5 +1,6 @@
 ---
 name: Blessed John Buoni
+stub: false
 honorific: Blessed
 summary: >-
   Spent his youth as a jester in Italian courts with his spare time mis-spent in wild living. After a severe illness in

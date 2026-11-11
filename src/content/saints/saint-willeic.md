@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/8/8f/Suitbertus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Willeic
+stub: false
 honorific: Saint
 summary: Benedictine monk. Spiritual student of Saint Swithbert. Prior and then abbot of the abbey of Kaiserwerth, Germany.
 searchAliases:

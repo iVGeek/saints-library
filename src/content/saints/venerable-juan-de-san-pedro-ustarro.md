@@ -1,5 +1,6 @@
 ---
 name: Venerable Juan de San Pedro Ustárro
+stub: false
 honorific: Venerable
 summary: >-
   Born to a Jewish family that had converted to Catholicism. Juan studied at the University of Alcalá de Henares from

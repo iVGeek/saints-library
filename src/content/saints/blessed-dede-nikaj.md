@@ -1,5 +1,6 @@
 ---
 name: Blessed Dedë Nikaj
+stub: false
 honorific: Blessed
 summary: >-
   Orphaned at age five, he was educated by the Franciscans. Studied in Shkodër, Albania, then Lankowitz and Graz in

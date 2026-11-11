@@ -1,5 +1,6 @@
 ---
 name: Saint Generalis of Carthage
+stub: true
 honorific: Saint
 summary: Martyr.
 deathYear: 258

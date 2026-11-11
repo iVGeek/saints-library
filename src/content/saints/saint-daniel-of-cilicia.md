@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Daniel of Cilicia
+stub: false
 honorific: Saint
 summary: >-
   Ministered to Christians who were condemned to work the mines of Cilicia in the persecutions of Maximus. This exposed

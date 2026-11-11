@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Vincent of Cologne
+stub: true
 honorific: Saint
 summary: Cardinal-priest. Travelled with and martyred with Saint Ursula.
 deathYear: 238

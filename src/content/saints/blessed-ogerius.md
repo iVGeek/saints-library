@@ -1,5 +1,6 @@
 ---
 name: Blessed Ogerius
+stub: false
 honorific: Blessed
 summary: >-
   Benedictine Cistercian monk. Abbot at Locedio, diocese of Vercelli, Italy. Wrote a series of sermons defending the

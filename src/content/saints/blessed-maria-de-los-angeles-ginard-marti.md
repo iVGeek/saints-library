@@ -1,5 +1,6 @@
 ---
 name: Blessed María de Los Ángeles Ginard Martí
+stub: false
 honorific: Blessed
 summary: >-
   Member of the Congregation of Sisters, Zealous of Eucharistic Devotion. Martyred in the persecutions of the Spanish

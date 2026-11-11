@@ -1,5 +1,6 @@
 ---
 name: Saint Eberhard of Einsiedeln
+stub: false
 honorific: Saint
 summary: >-
   Provost of the cathedral of Strasbourg (on the modern France and German border. In 934 he retired to live as a hermit

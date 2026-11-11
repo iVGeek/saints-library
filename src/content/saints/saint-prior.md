@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Prior
+stub: false
 honorific: Saint
 summary: Early spiritual student of Saint Anthony the Abbot. Monk. Hermit. Lived to nearly 100 years of age.
 born: late 3rd century Egypt

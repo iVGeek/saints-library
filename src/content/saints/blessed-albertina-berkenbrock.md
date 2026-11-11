@@ -1,5 +1,6 @@
 ---
 name: Blessed Albertina Berkenbrock
+stub: false
 honorific: Blessed
 summary: >-
   Lay person in the diocese of Tubar&atilde;o, Brazil. Raised in a pious family who insured that Albertina had a strong

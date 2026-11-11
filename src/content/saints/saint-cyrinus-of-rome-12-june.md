@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Cyrinus of Rome
+stub: false
 honorific: Saint
 summary: Born to the Imperial Roman nobility. Soldier, and possibly an officer. Martyred in the persecutions of Diocletian.
 searchAliases:

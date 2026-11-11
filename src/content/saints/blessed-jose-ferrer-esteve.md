@@ -1,5 +1,6 @@
 ---
 name: Blessed José Ferrer Esteve
+stub: false
 honorific: Blessed
 summary: >-
   The son of José and Francisca Ferrer, the boy was baptized at the age of one day. He joined the Piarists on 7 August

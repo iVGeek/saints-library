@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/0/08/Roma_martires_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Ruperto García Arce
+stub: true
 honorific: Blessed
 searchAliases:
   - Brother Florencio Miguel

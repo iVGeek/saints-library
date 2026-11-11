@@ -1,5 +1,6 @@
 ---
 name: Saint Giuse Túc
+stub: false
 honorific: Venerable
 summary: >-
   Christian peasant farmer in the apostolic vicariate of Central Tonkin (modern Vietnam). During the persecutions of

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Petronius of Die
+stub: false
 honorific: Saint
 summary: >-
   Son of an imperial Roman senator from the area around modern Avignon, France. Monk at Lerins Abbey. Bishop of Die,

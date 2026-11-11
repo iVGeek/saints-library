@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Felicio of Karden
+stub: false
 honorific: Saint
 summary: >-
   Father of Saint Simplicio and Saint Potentino. Pilgrim to various European holy places. Hermit at Karden (modern

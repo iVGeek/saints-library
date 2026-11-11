@@ -1,5 +1,6 @@
 ---
 name: Blessed Limbania
+stub: false
 honorific: Blessed
 summary: >-
   Born to a wealthy and noble family who worked to arrange a proper marriage for her. However, from an early age,

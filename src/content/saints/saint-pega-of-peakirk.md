@@ -1,5 +1,6 @@
 ---
 name: Saint Pega of Peakirk
+stub: false
 honorific: Saint
 summary: >-
   Daughter of Penwalh. Sister of Saint Guthlac of Croyland. Related to the royal family of the East Angles. Lived as a

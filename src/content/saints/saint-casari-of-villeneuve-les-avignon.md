@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Casari of Villeneuve-lès-Avignon
+stub: false
 honorific: Saint
 summary: Hermitess in the area of Avignon, France near where the Abbey Saint-André-de-Villeneuve was founded.
 searchAliases:

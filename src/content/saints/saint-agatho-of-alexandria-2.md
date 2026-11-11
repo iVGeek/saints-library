@@ -1,5 +1,6 @@
 ---
 name: Saint Agatho of Alexandria
+stub: true
 honorific: Saint
 summary: Exorcist. Martyr.
 died: burned at the stake in Alexandria, Egypt, date unknown

@@ -1,5 +1,6 @@
 ---
 name: Saint Nemesius of Alexandria
+stub: false
 honorific: Saint
 summary: >-
   Arrested for theft, Nemesius was proved innocent, but in the process the authorities discovered that he was a

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/7/76/San_Pietro_in_Montorio_-_esterno.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Antonio di San Pietro
+stub: false
 honorific: Blessed
 summary: >-
   Mercedarian lay brother at the convent of Sant'Anna in Genoa, Italy. Famous within the Order for this chastity,

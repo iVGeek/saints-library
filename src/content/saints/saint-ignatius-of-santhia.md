@@ -1,5 +1,6 @@
 ---
 name: Saint Ignatius of Santhià
+stub: false
 honorific: Venerable
 summary: >-
   Ordained in 1710 in the diocese of Vercelli, Italy. Parish priest for six years. He was offered a position of

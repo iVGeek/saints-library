@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Colman of Clontibret
+stub: true
 honorific: Saint
 summary: Mentioned in some martyrologies, but no information has survived.
 feastDay:

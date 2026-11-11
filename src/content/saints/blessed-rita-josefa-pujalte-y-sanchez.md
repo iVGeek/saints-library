@@ -1,5 +1,6 @@
 ---
 name: Blessed Rita Josefa Pujalte y Sánchez
+stub: false
 honorific: Blessed
 summary: >-
   Nun, a member of the Sisters of Charity of the Sacred Heart of Jesus, as was her sister Luisa. On the recommendation

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Hesychius of Jerusalem
+stub: false
 honorific: Saint
 summary: >-
   Educated in Jerusalem. Monk. Hermit. Priest. Noted for his learning and Bible scholarship. Worked with Saint Jerome

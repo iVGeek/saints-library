@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Hesychius of Durres
+stub: false
 honorific: Saint
 summary: >-
   Italian Christian who fled Italy to escape the persecutions of emperor Hadrian. Arrived in Dyrrachium, Macedonia to

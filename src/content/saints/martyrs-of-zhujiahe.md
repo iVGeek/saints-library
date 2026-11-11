@@ -1,5 +1,6 @@
 ---
 name: Martyrs of Zhujiahe
+stub: true
 honorific: Venerable
 image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-China1.jpg
 deathYear: 1900

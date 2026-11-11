@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Namphasius
+stub: false
 honorific: Saint
 summary: After a career as a soldier, he retired from the world to become a hermit near Marcillac, France.
 searchAliases:

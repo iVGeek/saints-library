@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Jeremiah of Cordoba
+stub: false
 honorific: Saint
 summary: >-
   As a very old man, Jeremiah founded the double-monastery of Tábanos in Moorish-occupied Cordoba, Spain, and became a

@@ -1,5 +1,6 @@
 ---
 name: Saint Marinus
+stub: false
 honorific: Saint
 summary: >-
   Stonemason who worked at Monte Titano in modern San Marino. Layman preacher who converted many, and ministered to

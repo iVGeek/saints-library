@@ -1,5 +1,6 @@
 ---
 name: Saint Ernan
+stub: false
 honorific: Saint
 summary: >-
   Nephew and spiritual student of Saint Columba of Iona. Missionary to the Picts. Founded a monastery in Donegal,

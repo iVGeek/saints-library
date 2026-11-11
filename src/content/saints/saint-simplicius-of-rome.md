@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Simplicius of Rome
+stub: false
 honorific: Saint
 summary: >-
   Roman imperial senator. Martyred with 68 members of his household, whose names have not come down to us, in the

@@ -1,5 +1,6 @@
 ---
 name: Blessed Teresa Bracco
+stub: false
 honorific: Blessed
 summary: >-
   Born to Giacomo Bracco and Anna Pera, two humble and devoutly Catholic farmers. A pious child, she early developed a

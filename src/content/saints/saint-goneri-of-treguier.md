@@ -1,5 +1,6 @@
 ---
 name: Saint Gonéri of Tréguier
+stub: false
 honorific: Saint
 summary: >-
   Son of Saint Elibouban. Sixth century exile who fled from Britain to Brittany to escape invading Anglo-Saxons. Hermit

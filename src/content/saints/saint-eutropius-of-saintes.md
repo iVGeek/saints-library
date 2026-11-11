@@ -1,5 +1,6 @@
 ---
 name: Saint Eutropius of Saintes
+stub: false
 honorific: Saint
 summary: >-
   Missionary to Gaul (modern France), consecrated and sent by Pope Saint Clement I. There he worked with Saint Denis of

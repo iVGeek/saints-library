@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/9/9d/Martyrs_of_laos.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Maisam Pho Inpèng
+stub: false
 honorific: Blessed
 summary: Married layman in the apostolic vicariate of Vientiane (in modern Laos). Martyr.
 birthYear: 1934

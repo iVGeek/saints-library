@@ -1,5 +1,6 @@
 ---
 name: Saint Victor Maurus
+stub: false
 honorific: Saint
 summary: >-
   Soldier in the Roman Praetorian Guard. A Christian from his youth, Victor lived in quiet praise of God. Around 303,

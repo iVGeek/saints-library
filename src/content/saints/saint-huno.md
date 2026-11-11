@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Huno
+stub: false
 honorific: Saint
 summary: >-
   Priest and Benedictine monk at Ely, England under Saint Etheldreda. After Etheldreda's death, Huno retired to a

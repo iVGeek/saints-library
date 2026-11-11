@@ -1,5 +1,6 @@
 ---
 name: Saint Elizabeth of Portugal
+stub: false
 honorific: Saint
 summary: >-
   Princess. Daughter of King Pedro III of Aragon and Constantia; great-granddaughter of Emperor Frederick II.

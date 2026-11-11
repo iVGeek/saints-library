@@ -1,6 +1,7 @@
 ---
 image: https://www.santiebeati.it/immagini/Thumbs/98410/98410.JPG
 name: Blessed José Rescalvo Ruiz
+stub: true
 honorific: Blessed
 summary: Priest of the archdiocese of Granada, Spain. Martyred in the Spanish Civil War.
 birthYear: 1880

@@ -1,5 +1,6 @@
 ---
 name: Saint Nilus the Elder
+stub: false
 honorific: Saint
 summary: ' After a few years on the Mount, Arab raiders Byzantine imperial official; may even have been a Prætorian Prefect. Married and father of two. When the children were grown, Nilus and the wife agreed to lead separate lives devoted to God. Monk on Mount Sinai with his son Theodulus.'
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Nilus-the-Elder.jpg

@@ -1,5 +1,6 @@
 ---
 name: Saint Magino of Tarragona
+stub: false
 honorific: Saint
 summary: >-
   Born to the Gallic nobility of Burgundy (in modern France), he was orphaned at an early age. Hermit on Mount Brufagaña

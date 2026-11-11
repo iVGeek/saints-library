@@ -1,5 +1,6 @@
 ---
 name: Saint Alexander of the Via Claudia
+stub: false
 honorific: Saint
 summary: >-
   Second century bishop in the area around Rome, Italy. Miracle worker. Arrested, tortured and executed for his faith.

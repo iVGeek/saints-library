@@ -1,5 +1,6 @@
 ---
 name: Blessed Stephen Bellesini
+stub: false
 honorific: Blessed
 summary: >-
   Born to the Italian nobility. Became Augustinian in 1790 at age 16 at the monastery of Saint Mark in Venice, Italy,

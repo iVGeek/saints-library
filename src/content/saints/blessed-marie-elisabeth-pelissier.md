@@ -1,5 +1,6 @@
 ---
 name: Blessed Marie-Elisabeth Pélissier
+stub: false
 honorific: Blessed
 summary: >-
   Joined the Sacramentine nuns at Bollène, Provence, France, making her profession on 25 June 1759. Musician, singer and

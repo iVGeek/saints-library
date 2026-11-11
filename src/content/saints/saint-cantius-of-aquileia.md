@@ -1,5 +1,6 @@
 ---
 name: Saint Cantius of Aquileia
+stub: false
 honorific: Saint
 summary: >-
   Born to the imperial Roman nobility and raised in a palace; his tutor and catechist was Saint Protus of Aquileia. To

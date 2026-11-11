@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Hilary the Hermit
+stub: true
 honorific: Saint
 summary: Hermit. Martyr.
 died: France

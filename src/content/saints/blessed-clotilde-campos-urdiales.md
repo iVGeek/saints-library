@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Clotilde Campos Urdiales
+stub: true
 honorific: Blessed
 summary: Conceptionist nun. Martyred in the Spanish Civil War.
 searchAliases:

@@ -1,5 +1,6 @@
 ---
 name: Saint Margaret of Antioch
+stub: false
 honorific: Saint
 title: St. Margaret of Antioch
 summary: >-

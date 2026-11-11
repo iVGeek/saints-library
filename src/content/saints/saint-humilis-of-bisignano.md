@@ -1,5 +1,6 @@
 ---
 name: Saint Humilis of Bisignano
+stub: false
 honorific: Venerable
 summary: >-
   Franciscan lay-brother. So renowned for his sanctity, he was summoned to Rome to be counselor to Pope Gregory XV and

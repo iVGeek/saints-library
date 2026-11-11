@@ -1,5 +1,6 @@
 ---
 name: Saint Gregory Barbarigo
+stub: false
 honorific: Saint
 summary: >-
   Son of a Venetian senator. Educated at the University of Padua. Civil and canon lawyer. Worked on the negotiations for

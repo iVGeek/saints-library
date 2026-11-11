@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Timothy the Deacon
+stub: true
 honorific: Saint
 summary: Deacon. Martyred in the persecutions of Decius.
 searchAliases:

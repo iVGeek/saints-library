@@ -1,5 +1,6 @@
 ---
 name: Saint Albert of Cashel
+stub: false
 honorific: Saint
 summary: >-
   Evangelist in Ireland, especially around the city of Cashel, and may have been a bishop. Noted as an excellent

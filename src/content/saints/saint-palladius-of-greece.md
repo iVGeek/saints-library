@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/c/ce/Simone_Martini_040.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Palladius of Greece
+stub: true
 honorific: Saint
 summary: Martyr. No other information has survived.
 feastDay:

@@ -1,5 +1,6 @@
 ---
 name: Blessed Leo Takedomi Kan'Emon
+stub: false
 honorific: Blessed
 summary: >-
   Married layman in the archdiocese of Nagasaki, Japan. Father of Blessed Paulus Takedomi Dan'Emon. One of the Martyrs

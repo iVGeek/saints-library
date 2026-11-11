@@ -1,5 +1,6 @@
 ---
 name: Blessed Augustinus Jeong Yak-jong
+stub: false
 honorific: Blessed
 summary: >-
   Married layman and father. A convert to Catholicism within two years of the first missionaries arriving in the

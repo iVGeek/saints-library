@@ -1,5 +1,6 @@
 ---
 name: Saint Nereus of Terracina
+stub: false
 honorific: Saint
 summary: >-
   Soldier in the imperial Roman army, and a member of the Praetorian Guard. Convert to Christianity, baptized by Saint

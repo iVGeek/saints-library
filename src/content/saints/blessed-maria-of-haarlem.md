@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/7/7c/Location_Nordic_Council.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Maria of Haarlem
+stub: true
 honorific: Blessed
 summary: Widow. Martyred by Calvinists.
 deathYear: 1572

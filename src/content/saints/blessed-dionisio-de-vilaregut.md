@@ -1,5 +1,6 @@
 ---
 name: Blessed Dionisio de Vilaregut
+stub: false
 honorific: Blessed
 summary: >-
   Born to the nobility. Mercedarian monk at the convent of San Eulalia, Montpellier, France. Exceptionally pious, even

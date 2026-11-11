@@ -1,5 +1,6 @@
 ---
 name: Blessed Réginald of Orléans
+stub: false
 honorific: Blessed
 summary: >-
   Priest. Professor of canon law at the Sorbonne in Paris, France. Dean of the collegiate church of Saint-Agnan in

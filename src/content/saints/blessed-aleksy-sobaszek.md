@@ -1,5 +1,6 @@
 ---
 name: Blessed Aleksy Sobaszek
+stub: false
 honorific: Blessed
 summary: >-
   After graduating high school in Ostrów, Poland, he studied in Freising, Germany, Poznań, Poland, and Gniezno, Poland,

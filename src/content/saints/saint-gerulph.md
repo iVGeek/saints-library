@@ -1,5 +1,6 @@
 ---
 name: Saint Gerulph
+stub: false
 honorific: Saint
 summary: >-
   Young man in Flanders, Belgium who was heir to a large estate but was drawn to spiritual life. Murdered by a relative

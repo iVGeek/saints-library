@@ -1,5 +1,6 @@
 ---
 name: Juan Diego
+stub: false
 honorific: Saint
 title: Layman
 summary: >-

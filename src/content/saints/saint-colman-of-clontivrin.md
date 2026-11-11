@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Colman of Clontivrin
+stub: false
 honorific: Saint
 summary: Saint with a church named for him in Clontivrin, Ireland, but no details have survived.
 searchAliases:

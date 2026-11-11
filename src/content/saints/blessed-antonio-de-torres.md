@@ -1,5 +1,6 @@
 ---
 name: Blessed Antonio de Torres
+stub: false
 honorific: Blessed
 summary: >-
   Mercedarian friar known as a man wholly devoted to God. In Algiers in North Africa, he ransomed and freed 80

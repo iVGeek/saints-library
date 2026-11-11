@@ -1,5 +1,6 @@
 ---
 name: Saint Arsenius the Hermit
+stub: true
 honorific: Saint
 summary: Hermit near Burgos, Old Castile, Spain. Martyred by Saracens.
 deathYear: 950

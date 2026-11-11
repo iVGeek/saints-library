@@ -1,5 +1,6 @@
 ---
 name: Saint Firmus of Nicea
+stub: true
 honorific: Saint
 summary: Martyr.
 died: Nicea, Asia Minor (Turkey)

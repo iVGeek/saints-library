@@ -1,5 +1,6 @@
 ---
 name: Saint Philip Neri
+stub: false
 honorific: Saint
 title: St. Philip Neri
 summary: >-

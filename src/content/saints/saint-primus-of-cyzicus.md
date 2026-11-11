@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Primus of Cyzicus
+stub: true
 honorific: Saint
 summary: Soldier in the Roman army. Martyr.
 deathYear: 320

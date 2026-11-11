@@ -1,5 +1,6 @@
 ---
 name: Saint Euphemia of Orense
+stub: false
 honorific: Saint
 summary: >-
   We have no information about the life, nor specifics about the death of this martyr. Tradition says that her relics

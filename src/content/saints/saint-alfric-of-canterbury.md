@@ -1,5 +1,6 @@
 ---
 name: Saint Alfric of Canterbury
+stub: false
 honorific: Saint
 summary: >-
   Benedictine monk of Abingdon Abbey, England. Abbot of Abingdon. Bishop of Wilton, England. Archbishop of Canterbury,

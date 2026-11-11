@@ -1,5 +1,6 @@
 ---
 name: Saint Bruno
+stub: false
 honorific: Saint
 title: St. Bruno
 summary: >-

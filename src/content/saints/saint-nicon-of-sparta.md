@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/d/db/Hosios_Loukas_%28nave%2C_lunette_in_south-west_bay_of_nave%29_-_Nikon_Metanoeite.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Nicon of Sparta
+stub: false
 honorific: Saint
 summary: >-
   Born to a wealthy, land-owning family. Monk. Wandering preacher and evangelist, especially in Greece, calling everyone

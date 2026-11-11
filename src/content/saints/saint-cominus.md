@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Cominus
+stub: true
 honorific: Saint
 summary: Fifth-century monk and abbot.
 region: Ireland

@@ -1,5 +1,6 @@
 ---
 name: Blessed Jul Bonati
+stub: false
 honorific: Blessed
 summary: >-
   He studied at the Jesuit Xaverian College in Shkodër, Albania. Ordained a priest on 8 April 1906. In 1912 he was

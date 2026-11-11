@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Thorette
+stub: false
 honorific: Saint
 summary: >-
   Worked as a shepherdess most of her life. Lived as a hermitess late in life. In both states she spent most of her time

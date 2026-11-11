@@ -1,5 +1,6 @@
 ---
 name: Saint Anastasius II of Antioch
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Antioch, Syria in 599. Fought simony in his diocese with the support of Pope Gregory the Great. Murdered by

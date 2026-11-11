@@ -1,5 +1,6 @@
 ---
 name: Blessed Manuel Domingo y Sol
+stub: false
 honorific: Blessed
 summary: >-
   One of twelve children in his family, Manuel entered the diocesan seminary in Tortosa, Spain at age 15. Ordained a

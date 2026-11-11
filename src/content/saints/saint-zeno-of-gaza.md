@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Zeno of Gaza
+stub: false
 honorific: Saint
 summary: >-
   Cousin of Saint Eusebius and Saint Nestabus. Monk. Survived the persecutions of Julian the Apostate. Bishop of Maïouma

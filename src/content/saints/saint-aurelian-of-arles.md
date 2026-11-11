@@ -1,5 +1,6 @@
 ---
 name: Saint Aurelian of Arles
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Arles, Gaul (modern France) in 546. Founded a monastery and convent in Arles, and brought many relics to

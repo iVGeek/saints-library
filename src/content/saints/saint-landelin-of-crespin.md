@@ -1,5 +1,6 @@
 ---
 name: Saint Landelin of Crespin
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility, Landelinus lived for a time as a highway bandit, but repented and became a Benedictine monk.

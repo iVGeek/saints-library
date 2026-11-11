@@ -1,5 +1,6 @@
 ---
 name: Blessed Peter Verhun
+stub: false
 honorific: Blessed
 summary: >-
   Greek Catholic. Doctor of philosophy. Ordained on 30 October 1927. Priest for Ukrainian Catholics at Berlin, Germany.

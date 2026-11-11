@@ -1,5 +1,6 @@
 ---
 name: Blessed Vincent Kadlubek
+stub: false
 honorific: Blessed
 summary: >-
   Born wealthy. Studied in France and Italy. Provost of the cathedral of Sandomir, Poland. May have been the principal

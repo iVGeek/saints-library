@@ -1,5 +1,6 @@
 ---
 name: Blessed Jurgis Matulaitis-Matulewicz
+stub: false
 honorific: Blessed
 summary: >-
   Born to a poor farm family, the youngest of eight children at a time when Lithuania was under the control of Tsarist

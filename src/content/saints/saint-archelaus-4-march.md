@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/e/e5/Peter_Paul_Rubens_-_St_James_the_Apostle_-_WGA20192.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Archelaus
+stub: true
 honorific: Saint
 summary: Martyr. No other information has survived.
 searchAliases:

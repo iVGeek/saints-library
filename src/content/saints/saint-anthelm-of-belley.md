@@ -1,5 +1,6 @@
 ---
 name: Saint Anthelm of Belley
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility. Priest. Provost of a cathedral chapter. He got caught up in Church politics, and sought

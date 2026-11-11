@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/8/8a/One-hundred-and-seven-martyrs-of-england-and-wales.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Edward Waterson
+stub: false
 honorific: Blessed
 summary: >-
   As a young man Edward travelled to Turkey with some English merchants. There he met and was befriended by a wealthy

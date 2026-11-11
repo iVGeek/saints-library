@@ -1,5 +1,6 @@
 ---
 name: Blessed François Mayaudon
+stub: false
 honorific: Blessed
 summary: >-
   Baptized at the age of two days. Priest in the diocese of Soissons, France. Imprisoned on a ship in the harbor of

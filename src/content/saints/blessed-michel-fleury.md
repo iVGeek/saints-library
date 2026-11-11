@@ -1,5 +1,6 @@
 ---
 name: Blessed Michel Fleury
+stub: false
 honorific: Blessed
 summary: >-
   Born to a poor peasant family, Michel joined the Prado congregation in 1971 and worked as a miller in Lyon and

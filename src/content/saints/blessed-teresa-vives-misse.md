@@ -1,5 +1,6 @@
 ---
 name: Blessed Teresa Vives Missé
+stub: false
 honorific: Blessed
 summary: >-
   Nun, a member of the Sisters Adorers, Handmaids of Charity and of the Blessed Sacrament. Martyred in the Spanish Civil

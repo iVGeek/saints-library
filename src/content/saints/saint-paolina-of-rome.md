@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/3/35/Apostolischer_Palast_-_Sixtinische_Kapelle_-_Grundriss.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Paolina of Rome
+stub: true
 honorific: Saint
 summary: One of a group of Roman women martyred in an early persecution, date unknown.
 died: relics enshrined in the catacombs of Via Salaria, Rome, Italy

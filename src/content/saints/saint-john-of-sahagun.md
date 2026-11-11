@@ -1,5 +1,6 @@
 ---
 name: Saint Juan de Sahagún
+stub: false
 honorific: Saint
 summary: >-
   Son of John Gonzalez de Castrillo and Sancia Martinez, the oldest of seven children, their first after sixteen years

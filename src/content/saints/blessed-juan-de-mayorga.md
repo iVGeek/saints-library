@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/b/ba/Antequera_-_Convento_de_San_Jos%C3%A9_%28Carmelitas_Descalzas%29_11.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Juan de Mayorga
+stub: false
 honorific: Blessed
 summary: Jesuit friar. Missionary. Martyred by the Huguenot Jacques Sourie while en route to Brazil.
 birthYear: 1533

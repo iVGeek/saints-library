@@ -1,5 +1,6 @@
 ---
 name: Blessed Thomas Percy
+stub: false
 honorific: Blessed
 summary: >-
   Married layman in the apostolic vicariate of England. Seventh Earl of Northumbria. Awarded the Order of the Garter on

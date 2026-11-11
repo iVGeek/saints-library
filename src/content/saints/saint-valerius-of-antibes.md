@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Valerius of Antibes
+stub: true
 honorific: Saint
 title: Bishop
 summary: Bishop of Antibes, France.

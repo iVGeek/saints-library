@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Jovinian of Auxerre
+stub: false
 honorific: Saint
 summary: Missionary. Lector of the church at Auxerre, France. Worked with Saint Peregrinus of Auxerre. Martyr.
 searchAliases:

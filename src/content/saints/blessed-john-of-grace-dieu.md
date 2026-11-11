@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/e/ea/Saint_Augustine_by_Philippe_de_Champaigne.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed John of Grace-Dieu
+stub: false
 honorific: Blessed
 summary: >-
   Benedictine Cistercian monk at Saint Denis monastery. Abbot of Igny. Abbot of Clairvaux in 1257. Abbot of Grace-Dieu

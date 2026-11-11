@@ -1,5 +1,6 @@
 ---
 name: Saint Ioannes Yi Mun-u
+stub: false
 honorific: Venerable
 summary: >-
   Married layman in the apostolic vicariate of Korea. Ministered to the poor and gave Christian burial to martyrs.

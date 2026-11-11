@@ -1,5 +1,6 @@
 ---
 name: Venerable María Beatriz del Rosario Arroyo y Pidal
+stub: false
 honorific: Venerable
 summary: >-
   The only daughter of Ignacio Arroyo and Doña Maria Pidal; her brother José became a senator in 1919, her brother

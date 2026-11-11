@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Thalus the Martyr
+stub: true
 honorific: Saint
 summary: Martyred in the persecutions of Diocletian. No other information has survived.
 searchAliases:

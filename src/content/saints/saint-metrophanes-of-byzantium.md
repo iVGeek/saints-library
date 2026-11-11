@@ -1,5 +1,6 @@
 ---
 name: Saint Metrophanes of Byzantium
+stub: false
 honorific: Saint
 summary: >-
   Son of Dometius, a convert, priest and bishop of Constantinople around the fourth century; nephew of Emperor Probus.

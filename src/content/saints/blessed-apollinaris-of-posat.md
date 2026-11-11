@@ -1,5 +1,6 @@
 ---
 name: Blessed Apollinaris of Posat
+stub: false
 honorific: Blessed
 summary: >-
   Educated by the Jesuits. Joined the Capuchins in Zug, Switzerland in 1762. Priest, noted preacher, valued confessor,

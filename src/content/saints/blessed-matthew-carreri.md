@@ -1,5 +1,6 @@
 ---
 name: Blessed Matthew Carreri
+stub: false
 honorific: Blessed
 summary: >-
   Joined the Dominicans at Mantua, Italy in 1440. Travelling preacher throughout Italy. Noted for his deep prayer life

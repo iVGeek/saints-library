@@ -1,5 +1,6 @@
 ---
 name: Blessed Jakov Varingez
+stub: false
 honorific: Blessed
 summary: >-
   Son of Leonardo and Beatrice Varingez. Jakov re-located to Bari, Italy to escape Turkish invaders. There he felt a

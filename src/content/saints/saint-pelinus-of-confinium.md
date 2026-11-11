@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Pelinus of Confinium
+stub: false
 honorific: Saint
 summary: >-
   Priest. Bishop of Brindisi, Italy. During the persecutions of Julian the Apostate, Pelinus prayed in front of a temple

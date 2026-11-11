@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Marcellinus of Carthage
+stub: false
 honorific: Saint
 summary: >-
   Married Christian layman and father; tribune and notary in imperial Roman North Africa. Friend of Saint Augustine of

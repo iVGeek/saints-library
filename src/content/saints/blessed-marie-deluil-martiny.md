@@ -1,5 +1,6 @@
 ---
 name: Blessed Marie Deluil-Martiny
+stub: false
 honorific: Blessed
 summary: >-
   The oldest of five children (she had one brother and three sisters) born to upper middle class parents; she was

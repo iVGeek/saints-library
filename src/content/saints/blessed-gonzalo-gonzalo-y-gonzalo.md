@@ -1,5 +1,6 @@
 ---
 name: Blessed Gonzalo Gonzalo y Gonzalo
+stub: false
 honorific: Blessed
 summary: >-
   Joined the Hospitallers of Saint John of God in 1931, making his final hows in August 1932. Worked at the Saint Rafael

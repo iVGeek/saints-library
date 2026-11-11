@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Henry of Zweifalten
+stub: false
 honorific: Blessed
 summary: Benedictine monk at Zwiefalten, Swabia (in modern Germany). Prior of Ochsenhausen, Swabia.
 deathYear: 1250

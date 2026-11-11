@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/e/ec/Moscow_July_2011-4a.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Abraham of Strelna
+stub: false
 honorific: Blessed
 summary: >-
   Like his three brothers, he became a Premonstratensian monk at the monastery in Hradisko, Moravia (in modern

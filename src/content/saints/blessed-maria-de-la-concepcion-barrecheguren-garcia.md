@@ -1,5 +1,6 @@
 ---
 name: Blessed María de la Concepción Barrecheguren García
+stub: false
 honorific: Blessed
 summary: >-
   Young lay woman of the archdiocese of Granada, Spain. Baptized at the age of 11 days. Her father, Venerable Francisco

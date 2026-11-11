@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Venerable John Travers
+stub: false
 honorific: Venerable
 summary: >-
   Oxford educated. Priest. Member of the Augustinians. Chancellor of Saint Patrick's Cathedral in Dublin, Ireland. Wrote

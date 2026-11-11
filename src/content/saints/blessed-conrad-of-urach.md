@@ -1,5 +1,6 @@
 ---
 name: Blessed Conrad of Urach
+stub: false
 honorific: Blessed
 summary: >-
   Priest. Canon of the church of Saint Lambert, the cathedral of Li&egrave;ge, when a young man. Cistercian monk at

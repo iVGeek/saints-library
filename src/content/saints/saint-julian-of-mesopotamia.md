@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Julian of Mesopotamia
+stub: false
 honorific: Saint
 summary: >-
   Kidnapped and sold into slavery in 4th century Syria. When free again, he became a monk in Mesopotamia. Spiritual

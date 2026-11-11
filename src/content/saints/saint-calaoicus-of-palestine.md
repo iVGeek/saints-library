@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Calaoicus of Palestine
+stub: true
 honorific: Saint
 summary: Martyred with 59 companions whose names have not come down to us.
 deathYear: 638

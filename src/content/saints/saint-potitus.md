@@ -1,5 +1,6 @@
 ---
 name: Saint Potitus
+stub: false
 honorific: Saint
 summary: >-
   Son of a rich pagan. Convert. Exorcised a demon from the daughter of Emperor Antoninus who then had Potitus arrested,

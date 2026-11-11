@@ -1,5 +1,6 @@
 ---
 name: Saint George Preca
+stub: false
 honorific: Venerable
 summary: >-
   Seventh in a Christian family of nine children, the son of Vincent Preco and Nathalie Ceravolo. His father was a

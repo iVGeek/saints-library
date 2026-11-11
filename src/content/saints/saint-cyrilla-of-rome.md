@@ -1,5 +1,6 @@
 ---
 name: Saint Cyrilla of Rome
+stub: false
 honorific: Saint
 summary: >-
   Daughter of Saint Tryphonia of Rome. Known for her charity and almsgiving. Martyred in the persecutions of Claudius

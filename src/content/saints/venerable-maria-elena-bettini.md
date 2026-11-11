@@ -1,5 +1,6 @@
 ---
 name: Venerable Maria Elena Bettini
+stub: true
 honorific: Venerable
 summary: Founder of the Daughters of Divine Providence.
 image: https://catholicsaints.info/wp-content/gallery/venerable-maria-elena-bettini/venerable-maria-elena-bettini-01.jpg

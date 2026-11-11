@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/2/20/Hosios_Loukas_%28nave%2C_west_arch%29_-_Mercurios.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Mercurius and Companions
+stub: false
 honorific: Saint
 summary: >-
   A group of Roman soldiers was ordered to escort a body of Christian prisoners to Lentini, Sicily where they were to be

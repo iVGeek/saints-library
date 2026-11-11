@@ -1,5 +1,6 @@
 ---
 name: Blessed Claude Laplace
+stub: false
 honorific: Blessed
 summary: >-
   Priest in the diocese of Moulins, France. Imprisoned on a ship in the harbor of Rochefort, France and left to die

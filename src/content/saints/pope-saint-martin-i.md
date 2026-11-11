@@ -1,5 +1,6 @@
 ---
 name: Pope Saint Martin I
+stub: false
 honorific: Saint
 summary: >-
   Chosen 74th pope in 649 without imperial approval. Conducted the Lateran Council which condemned the patriach of

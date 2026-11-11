@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Jucundus of Pannonia
+stub: true
 honorific: Saint
 summary: Martyr. No other information has survived.
 died: 4th century at Syrmium, Pannonia (modern Sremska Mitrovica, Vojvodina, Serbia)

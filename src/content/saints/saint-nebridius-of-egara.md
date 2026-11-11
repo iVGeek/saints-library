@@ -1,5 +1,6 @@
 ---
 name: Saint Nebridius of Ègara
+stub: false
 honorific: Saint
 summary: >-
   Brother of Saint Justus of Urgell, Saint Elpidius of Huesca and Saint Justinian of Valencia. Bible scholar and

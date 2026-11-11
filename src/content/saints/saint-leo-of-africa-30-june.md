@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Leo of Africa
+stub: true
 honorific: Saint
 summary: Sub-deacon. Martyr.
 died: unknown location in Africa, date unknown

@@ -1,5 +1,6 @@
 ---
 name: Saint Jean-François-Régis Clet
+stub: false
 honorific: Venerable
 summary: >-
   Tenth of fifteen children; his father was a farmer and merchant, and the boy was named after Saint John Francis Regis.

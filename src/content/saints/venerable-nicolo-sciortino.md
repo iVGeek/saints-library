@@ -1,5 +1,6 @@
 ---
 name: Venerable Nicolò Sciortino
+stub: false
 honorific: Venerable
 summary: >-
   The fifth of six children born to Domenico Sciortino and Ninfa Colletti, he was baptised on the day he was born and

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Josefa Bonilla Benavides
+stub: true
 honorific: Blessed
 summary: Lay woman in the diocese of Córdoba, Spain. Martyred in the Spanish Civil War.
 birthYear: 1897

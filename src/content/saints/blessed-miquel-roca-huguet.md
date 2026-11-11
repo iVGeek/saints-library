@@ -1,5 +1,6 @@
 ---
 name: Blessed Miquel Roca Huguet
+stub: false
 honorific: Blessed
 summary: >-
   Joined the Hospitallers of Saint John of God in 1910. Ordained in August 1926. Rector of the Holy Family school in

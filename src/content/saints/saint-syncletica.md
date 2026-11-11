@@ -1,5 +1,6 @@
 ---
 name: Saint Syncletica
+stub: false
 honorific: Saint
 summary: >-
   Wealthy Alexandrian lady who abandoned her riches and lived till age 84 as a hermitess in a tomb. She suffered in her

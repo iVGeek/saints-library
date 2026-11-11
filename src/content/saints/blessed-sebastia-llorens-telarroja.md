@@ -1,5 +1,6 @@
 ---
 name: Blessed Sebastià Llorens Telarroja
+stub: false
 honorific: Blessed
 summary: >-
   Studious and pious layman farm worker in the diocese of Girona, Spain, known locally for his mechanical skills.

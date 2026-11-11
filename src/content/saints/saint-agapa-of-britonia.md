@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Agapa of Britonia
+stub: true
 honorific: Saint
 summary: Martyred nun.
 died: in Britonia, Asturias (in modern Spain)

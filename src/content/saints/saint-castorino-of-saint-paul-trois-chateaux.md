@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Castorino of Saint-Paul-Trois-Châteaux
+stub: false
 honorific: Saint
 title: Bishop
 summary: Ninth bishop of Saint-Paul-Trois-Châteaux, Gaul (in modern France), serving in the late 5th and early 6th centuries.

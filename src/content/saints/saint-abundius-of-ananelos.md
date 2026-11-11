@@ -1,5 +1,6 @@
 ---
 name: Saint Abundius of Ananelos
+stub: false
 honorific: Saint
 summary: >-
   Priest at Ananelos, Spain during the Moorish occupation. For preaching against Islam, he was dragged before the caliph

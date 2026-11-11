@@ -1,5 +1,6 @@
 ---
 name: Blessed Georg Häfner
+stub: false
 honorific: Blessed
 summary: >-
   Priest in the diocese of Würzburg, Germany. Arrested by the Nazis and sent to die in the concentration camps for his

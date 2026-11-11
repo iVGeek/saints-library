@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Quarto of Capua
+stub: true
 honorific: Saint
 summary: Martyr.
 region: Italy

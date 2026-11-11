@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Herculanus of Porto Romano
+stub: true
 honorific: Saint
 summary: Martyred in the persecutions of Marcus Aurelius.
 searchAliases:

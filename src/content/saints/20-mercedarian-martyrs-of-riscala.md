@@ -1,5 +1,6 @@
 ---
 name: 20 Mercedarian Martyrs of Riscala
+stub: false
 honorific: Saint
 summary: 20 Mercedarian friars who were murdered by Huguenot heretics for refusing to denounce their faith.
 image: https://catholicsaints.info/wp-content/uploads/img-20-Mercedarian-Martyrs-of-Riscala.jpg

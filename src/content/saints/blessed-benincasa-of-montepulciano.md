@@ -1,5 +1,6 @@
 ---
 name: Blessed Benincasa of Montepulciano
+stub: false
 honorific: Blessed
 summary: >-
   Joined the Servites as a teenager. At age 25 he became a prayerful hermit in a cell on Monte Amiata near Siena, Italy.

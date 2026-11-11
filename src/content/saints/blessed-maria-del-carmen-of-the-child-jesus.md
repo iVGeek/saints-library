@@ -1,5 +1,6 @@
 ---
 name: Blessed Maria del Carmen of the Child Jesus
+stub: false
 honorific: Blessed
 summary: >-
   Born to a pious family. In 1857 she married Joaquín Muñoz del Caño, a violent, unfaithful man; Maria responded by

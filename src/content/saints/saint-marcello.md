@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Marcello
+stub: true
 honorific: Saint
 summary: Martyr.
 died: molten lead poured down his throat

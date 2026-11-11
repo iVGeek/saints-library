@@ -1,5 +1,6 @@
 ---
 name: Blessed Antonio Martín Hernández
+stub: false
 honorific: Blessed
 summary: >-
   Raised in a pious family, Antonio felt called to the Salesian charism of teaching. After training in Salamanca, Spain

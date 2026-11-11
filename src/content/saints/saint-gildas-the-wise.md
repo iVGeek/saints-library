@@ -1,5 +1,6 @@
 ---
 name: Saint Gildas the Wise
+stub: false
 honorific: Saint
 summary: >-
   Born to the English nobility. As a child, he was placed under the care of a nearby monastery where he was trained by

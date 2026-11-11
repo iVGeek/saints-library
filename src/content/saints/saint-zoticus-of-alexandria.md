@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Zoticus of Alexandria
+stub: true
 honorific: Saint
 summary: Martyr. No other information has survived.
 died: martyred in Alexandria, Egypt

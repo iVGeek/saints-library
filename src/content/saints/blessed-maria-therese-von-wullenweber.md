@@ -1,5 +1,6 @@
 ---
 name: Blessed Maria Therese von Wüllenweber
+stub: false
 honorific: Blessed
 summary: >-
   Born to the German nobility, the eldest of five daughters of Baron Theodor von Wüllenweber. Always deeply religious,

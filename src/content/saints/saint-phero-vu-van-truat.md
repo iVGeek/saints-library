@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Phêrô Vu Van Truat
+stub: false
 honorific: Venerable
 summary: Young layman catechist in the apostolic vicariate of West Tonkin (modern Vietnam). Martyr.
 searchAliases:

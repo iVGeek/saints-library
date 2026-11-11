@@ -1,5 +1,6 @@
 ---
 name: Blessed William de Sanjulia
+stub: true
 honorific: Blessed
 summary: Mercedarian friar and evangelist.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-William-de-Sanjulia.jpg

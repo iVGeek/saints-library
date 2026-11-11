@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Servulus of Verona
+stub: true
 honorific: Saint
 title: Bishop
 summary: Early bishop of Verona, Italy.

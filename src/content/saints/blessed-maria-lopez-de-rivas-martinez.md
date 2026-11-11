@@ -1,5 +1,6 @@
 ---
 name: Blessed María López de Rivas Martínez
+stub: false
 honorific: Blessed
 summary: >-
   Born wealthy, but she gave it all up. Her father died when Maria was four years old, and she was raised by her

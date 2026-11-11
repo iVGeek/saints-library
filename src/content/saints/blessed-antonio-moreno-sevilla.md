@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/5/51/Fachada_Museo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Antonio Moreno Sevilla
+stub: false
 honorific: Blessed
 summary: Married layman in the diocese of Córdoba, Spain. Martyred in the Spanish Civil War.
 birthYear: 1889

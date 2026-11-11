@@ -1,5 +1,6 @@
 ---
 name: Blessed Teofilius Matulionis
+stub: false
 honorific: Blessed
 summary: >-
   The middle of three brothers born to the peasant family of Jurgis Matulionis and Ona Juocepyte; after his mother died,

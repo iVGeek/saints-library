@@ -1,5 +1,6 @@
 ---
 name: Blessed Raymond Lull
+stub: false
 honorific: Blessed
 summary: ' Franciscan tertiary. Friend of Raymond of Penyafort Worked to convert Muslims in Seneschal, courtier and troubador at the court of King James of Aragon from about 1246. Married Blanca Picany in 1257. In 1263 he received a vision of Christ crucified, and was converted on the spot.'
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Raymond-Lull.jpg

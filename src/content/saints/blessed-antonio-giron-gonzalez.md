@@ -1,5 +1,6 @@
 ---
 name: Blessed Antonio Girón González
+stub: false
 honorific: Blessed
 summary: >-
   Member of the Redemptorists, making his profession on 15 August 1889. Ordained a priest on 19 May 1894. Arrested in a

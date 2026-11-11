@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Leobono of Salagnac
+stub: false
 honorific: Saint
 title: Hermit
 summary: Holy hermit in the region of Salagnac (modern Grand-Bourg), diocese of Limoges, France c.600.

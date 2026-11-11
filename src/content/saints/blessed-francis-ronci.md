@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/c/cf/Sandra_Sabattini.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Francis Ronci
+stub: false
 honorific: Blessed
 summary: >-
   Member of the  Holy Spirit Community of Maiella (Celestines). Spiritual student of Saint Peter Celestine. Priest.

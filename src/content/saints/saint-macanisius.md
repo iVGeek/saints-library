@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Macanisius
+stub: false
 honorific: Saint
 summary: >-
   Baptized as an infant by Saint Patrick. Spiritual student of Saint Olean. Pilgrim to Rome and the Holy Lands. Priest.

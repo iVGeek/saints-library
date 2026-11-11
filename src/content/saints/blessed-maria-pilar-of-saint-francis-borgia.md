@@ -1,5 +1,6 @@
 ---
 name: Blessed Maria Pilar of Saint Francis Borgia
+stub: false
 honorific: Blessed
 summary: >-
   Youngest of eleven children born to Gabino Martinez and Luisa Garcia; eight of her siblings died in childhood; her

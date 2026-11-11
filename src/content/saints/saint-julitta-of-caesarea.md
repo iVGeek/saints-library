@@ -1,5 +1,6 @@
 ---
 name: Saint Julitta of Caesarea
+stub: false
 honorific: Saint
 summary: >-
   Rich lay woman in Caesarea, Cappadocia (in modern Turkey) whose property was stolen by an influential local pagan. She

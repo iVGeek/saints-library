@@ -1,5 +1,6 @@
 ---
 name: Saint Justinian of Limoges
+stub: false
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Geschichte_der_r%C3%B6mischen_Litteratur_bis_zum_Gesetzgebungswerk_des_Kaisers_Justinian_%28IA_gri_33125001414453%29.pdf/page1-960px-Geschichte_der_r%C3%B6mischen_Litteratur_bis_zum_Gesetzgebungswerk_des_Kaisers_Justinian_%28IA_gri_33125001414453%29.pdf.jpg
 honorific: Saint

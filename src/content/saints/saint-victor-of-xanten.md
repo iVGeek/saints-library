@@ -1,5 +1,6 @@
 ---
 name: Saint Victor of Xanten
+stub: false
 honorific: Saint
 summary: Relative of Saint Verena. Soldier. Leader of a cohort of the Theban Legion. Martyr. One of the Theban Martyrs.
 image: https://catholicsaints.info/wp-content/gallery/saint-victor-of-xanten/saint-victor-of-xanten.jpg

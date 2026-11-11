@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Beata of Ribnitz
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility, the daughter of Duke Heinrich of Mecklenburg. Poor Clare nun at the convent in Ribnitz, Germany.

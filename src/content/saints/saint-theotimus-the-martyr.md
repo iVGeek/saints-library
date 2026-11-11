@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Theotimus the Martyr
+stub: true
 honorific: Saint
 summary: Martyred in the persecutions of Maximian.
 died: in the arena at Caesarea Maritima, Palestine

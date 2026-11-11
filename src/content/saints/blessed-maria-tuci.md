@@ -1,5 +1,6 @@
 ---
 name: Blessed Maria Tuci
+stub: false
 honorific: Blessed
 summary: >-
   Educated in a Stigmatine school, when she was old enough, Maria became a Stigmatine postulant. Elementary school

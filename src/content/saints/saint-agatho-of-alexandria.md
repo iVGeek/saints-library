@@ -1,5 +1,6 @@
 ---
 name: Saint Agatho of Alexandria
+stub: false
 honorific: Saint
 summary: >-
   Soldier in Alexandria, Egypt. When he prevented a mob of pagans from desecrating the bodies of Christian martyrs

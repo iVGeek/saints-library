@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/b/bc/Pitfour_Castle.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Madoes
+stub: false
 honorific: Saint
 summary: >-
   Though there are guesses and legends associated with this name, nothing is known about him except that he appears on

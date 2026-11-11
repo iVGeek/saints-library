@@ -1,5 +1,6 @@
 ---
 name: Our Lady of Meritxell
+stub: false
 honorific: Saint
 title: Virgin
 summary: >-

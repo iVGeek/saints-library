@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Miguel Borrero Picón
+stub: false
 honorific: Blessed
 summary: >-
   Ordained a priest of the archdiocese of Sevilla, Spain on 19 November 1903. Assistant pastor of Utrera on 26 February

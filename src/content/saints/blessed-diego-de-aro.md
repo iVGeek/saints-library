@@ -1,5 +1,6 @@
 ---
 name: Blessed Diego de Aro
+stub: false
 honorific: Blessed
 summary: >-
   Mercedarian friar at the convent of Santa Maria Guardia in Prats, Spain (in modern Andorra). Helped ransom a total of

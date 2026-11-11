@@ -1,5 +1,6 @@
 ---
 name: Blessed Hugh Green
+stub: false
 honorific: Blessed
 summary: >-
   Educated at Peterhouse, Cambridge, England. Convert to Catholicism. Studied for the priesthood, and ordained at Douai,

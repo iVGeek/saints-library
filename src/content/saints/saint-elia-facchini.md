@@ -1,5 +1,6 @@
 ---
 name: Saint Elia Facchini
+stub: false
 honorific: Venerable
 summary: >-
   Giuseppe joined the Franciscan Friars Minor (Observants) at the age of 18, taking the name Elia. Ordained a priest in

@@ -1,5 +1,6 @@
 ---
 name: Saint Gentian
+stub: false
 honorific: Saint
 summary: >-
   Elderly convert to Christianity. When troops arrested Saint Victoricus and Saint Fuscian, Gentian objected and was

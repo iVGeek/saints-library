@@ -1,5 +1,6 @@
 ---
 name: Blessed Jean-Georges Rehm
+stub: false
 honorific: Blessed
 summary: >-
   Dominican priest. Imprisoned on a ship in the harbor of Rochefort, France and left to die during the anti-Catholic

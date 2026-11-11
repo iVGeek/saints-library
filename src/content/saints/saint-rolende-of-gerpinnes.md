@@ -1,5 +1,6 @@
 ---
 name: Saint Rolende of Gerpinnes
+stub: false
 honorific: Saint
 summary: >-
   Born a princess, the daughter of King Didier of the Lombards who was in exile after being defeated in battle by

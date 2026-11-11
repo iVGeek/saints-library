@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Kigwe
+stub: false
 honorific: Saint
 summary: >-
   Sister of Saint Congar. She lived a life of quiet sanctity and private vows. Once when she visited her brother in his

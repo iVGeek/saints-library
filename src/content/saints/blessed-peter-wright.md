@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/e/eb/Holy_Ghost_Church_Providence_RI.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Peter Wright
+stub: false
 honorific: Blessed
 summary: >-
   Born to a Protestant family, Peter converted to Catholicism. Worked in a country lawyer's office for ten years. He

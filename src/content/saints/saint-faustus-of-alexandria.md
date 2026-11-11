@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Faustus of Alexandria
+stub: true
 honorific: Saint
 summary: One of a number of Christians martyred in the persecutions of Decius.
 died: Alexandria, Egypt

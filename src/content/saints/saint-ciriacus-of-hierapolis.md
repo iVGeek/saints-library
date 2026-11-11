@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Ciriacus of Hierapolis
+stub: true
 honorific: Saint
 summary: Martyr.
 died: Hierapolis, Phrygia (in modern Turkey)

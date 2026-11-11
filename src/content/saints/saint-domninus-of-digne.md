@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Domninus of Digne
+stub: true
 honorific: Saint
 summary: Missionary bishop to the Dauphiné area of France.
 searchAliases:

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Marcian of Chalcis
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility. Soldier, commander and member of the imperial court. He abandoned the worldly life to become a

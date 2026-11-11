@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Aponius of Bethlehem
+stub: true
 honorific: Saint
 summary: First century convert martyred in the persecutions of King Herod Antipas.
 died: 1st century Bethlehem

@@ -1,5 +1,6 @@
 ---
 name: Saint Antoninus of Pamiers
+stub: false
 honorific: Saint
 summary: >-
   First century convert to Christianity. Pilgim to Rome, Italy. Priest. Missionary to Aquitania, an area of modern

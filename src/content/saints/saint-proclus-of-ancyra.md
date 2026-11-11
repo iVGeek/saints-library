@@ -1,5 +1,6 @@
 ---
 name: Saint Proclus of Ancyra
+stub: true
 honorific: Saint
 summary: Martyred in the persecutions of emperor Trajan and the governor Maximus.
 image: https://catholicsaints.info/wp-content/uploads/img-Saints-Proclus-and-Hilarion-of-Ancyra.jpg

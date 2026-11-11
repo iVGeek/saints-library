@@ -1,5 +1,6 @@
 ---
 name: Blessed Battista de Bonafede
+stub: false
 honorific: Blessed
 summary: >-
   Mercedarian friar at the Sant'Anne convent in Palermo, Sicily. Imprisoned and tortured in Africa by Muslims for

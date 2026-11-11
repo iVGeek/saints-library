@@ -1,5 +1,6 @@
 ---
 name: Venerable José Vandor Puchner
+stub: true
 honorific: Venerable
 summary: Priest. Member of the Salesian Society of Don Bosco.
 image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Jose-Vandor-Puchner.jpg

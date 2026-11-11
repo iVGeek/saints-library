@@ -1,5 +1,6 @@
 ---
 name: Blessed Olympia Bida
+stub: false
 honorific: Blessed
 summary: >-
   Greek Catholic. Joined the Congregation of the Sisters of Saint Joseph. Worked in several towns as a catechist and

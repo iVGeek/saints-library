@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Silvanus of Terracina
+stub: true
 honorific: Saint
 summary: Fourth-century bishop of Terracina, Italy.
 region: Italy

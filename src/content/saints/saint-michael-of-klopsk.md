@@ -1,5 +1,6 @@
 ---
 name: Saint Michael of Klopsk
+stub: false
 honorific: Saint
 summary: >-
   He was a monk who suddenly showed up at the Klopsk Abbey near Novgorod, Russia and who would no speak to anyone or

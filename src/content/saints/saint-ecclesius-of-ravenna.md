@@ -1,5 +1,6 @@
 ---
 name: Saint Ecclesius of Ravenna
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Ravenna, Italy from 521 till his death in 532. Built the Basilica of San Vitale. Worked with Pope John I to

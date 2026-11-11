@@ -1,5 +1,6 @@
 ---
 name: Blessed Ivan Sleziuk
+stub: false
 honorific: Blessed
 summary: >-
   Greek Catholic. Ordained in 1923. Co-adjutor bishop in April 1945. Arrested for his faith on 2 June 1945, and

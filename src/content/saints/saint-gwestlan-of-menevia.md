@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Gwestlan of Menevia
+stub: false
 honorific: Saint
 summary: >-
   Son of Cynyr, chieftain of Menevia (western Wales) and Anna; brother of Saint Gwen and Saint Nonna; uncle of Saint

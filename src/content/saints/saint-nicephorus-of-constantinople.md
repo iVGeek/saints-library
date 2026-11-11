@@ -1,5 +1,6 @@
 ---
 name: Saint Nicephorus of Constantinople
+stub: false
 honorific: Saint
 summary: >-
   Son of the secretary to Emperor Constantine Copronymus, a man tortured and exiled for refusing to accept iconclasm.

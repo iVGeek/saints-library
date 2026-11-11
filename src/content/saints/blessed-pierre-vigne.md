@@ -1,5 +1,6 @@
 ---
 name: Blessed Pierre Vigne
+stub: false
 honorific: Blessed
 summary: >-
   One of five children born to Peter Vigne and Frances Gautier; his father was a textile merchant. Two of his sisters

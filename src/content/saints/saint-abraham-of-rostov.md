@@ -1,5 +1,6 @@
 ---
 name: Saint Abraham of Rostov
+stub: false
 honorific: Saint
 summary: >-
   Raised as a pagan, as a young man Abraham was struck down by a nearly fatal illness, then cured by prayer. Convert.

@@ -1,5 +1,6 @@
 ---
 name: Blessed Tadeusz Dulny
+stub: false
 honorific: Blessed
 summary: >-
   One of eight children born to Jan and Antonina Dulny, and raised in a very pious family. Seminarian in the diocese of

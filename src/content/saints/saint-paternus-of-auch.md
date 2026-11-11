@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Paternus of Auch
+stub: true
 honorific: Saint
 summary: Second-century bishop of Auch, France.
 born: Bilbao, Spain

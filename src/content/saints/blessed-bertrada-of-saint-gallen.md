@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Bertrada of Saint Gallen
+stub: false
 honorific: Blessed
 summary: >-
   Married, when she was widowed, Bertrada joined a cloister in the church of Saint Magnus in Saint Gallen, Switzerland.

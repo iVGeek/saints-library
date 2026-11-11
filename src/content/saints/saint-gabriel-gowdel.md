@@ -1,5 +1,6 @@
 ---
 name: Saint Gabriel Gowdel
+stub: false
 honorific: Saint
 summary: >-
   Son of Peter and Anastasia Gowdel who were pious Orthodox Christians. Gabriel was noted for his piety and prayer from

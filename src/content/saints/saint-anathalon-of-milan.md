@@ -1,5 +1,6 @@
 ---
 name: Saint Anathalon of Milan
+stub: false
 honorific: Saint
 summary: >-
   Spiritual student of Saint Barnabas the Apostle. First-century bishop of Milan, Italy, assigned by Saint Barnabas.

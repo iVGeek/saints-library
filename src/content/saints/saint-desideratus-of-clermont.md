@@ -1,5 +1,6 @@
 ---
 name: Saint Desideratus of Clermont
+stub: true
 honorific: Saint
 title: Bishop
 summary: Sixth century bishop of Clermont, Auvergne, France.

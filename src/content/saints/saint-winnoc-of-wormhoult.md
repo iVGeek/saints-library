@@ -1,5 +1,6 @@
 ---
 name: Saint Winnoc of Wormhoult
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility, possibly a prince, and some sources say his father was Saint Judicael. Raised and educated in

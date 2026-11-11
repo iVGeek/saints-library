@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Cornelius McConchailleach
+stub: false
 honorific: Saint
 summary: >-
   Joined the Augustinians at Armagh, Ireland in 1140. Abbot in 1151. Archbishop of Armagh in 1174. Pilgrim to Rome,

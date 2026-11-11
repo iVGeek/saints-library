@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Winaman of Sweden
+stub: false
 honorific: Saint
 summary: Nephew of Saint Sigfrid. Monk. Missionary to Sweden with Sigfrid. Martyred by pagans.
 deathYear: 1040

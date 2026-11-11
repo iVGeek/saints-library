@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Venerable Rafaela Veintemilla Villacís
+stub: false
 honorific: Venerable
 summary: Founder of the Congregation of the Augustinian Daughters of the Most Holy Redeemer.
 searchAliases:

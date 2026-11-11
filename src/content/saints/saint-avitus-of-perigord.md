@@ -1,5 +1,6 @@
 ---
 name: Saint Avitus of Périgord
+stub: false
 honorific: Saint
 summary: >-
   Soldier in the army of Alaric. Captured at the Battle of Vouillé and taken to Paris, France. When released he became a

@@ -1,5 +1,6 @@
 ---
 name: Blessed Josaphat Chichkov
+stub: false
 honorific: Blessed
 summary: >-
   Joined the Congregation of the Assumption at age 16 on 29 April 1900. Priest. Arrested by the Communist government in

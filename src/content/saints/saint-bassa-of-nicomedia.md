@@ -1,5 +1,6 @@
 ---
 name: Saint Bassa of Nicomedia
+stub: true
 honorific: Saint
 summary: Third-century lay woman, married to Saint Claudianus of Nicomedia. Martyr.
 region: Italy

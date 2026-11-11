@@ -1,5 +1,6 @@
 ---
 name: Blessed Alix le Clerc
+stub: false
 honorific: Blessed
 summary: >-
   Born to a wealthy family, Alix grew up loving dance and music and parties and was known as a silly and frivolous girl.

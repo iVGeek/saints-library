@@ -1,5 +1,6 @@
 ---
 name: Blessed Antonio Blasi
+stub: true
 honorific: Blessed
 title: Bishop
 summary: Mercedarian friar. Pious and enthusiastic archbishop of Athens, Greece.

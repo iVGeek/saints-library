@@ -1,5 +1,6 @@
 ---
 name: Saint Benito de Jesus
+stub: false
 honorific: Venerable
 summary: >-
   Member of the Brothers of the Christian Schools, entering the novitate on 7 August 1926. One of the Martyrs of

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/a/a1/Sanctus_Marcellinus_Martyr_Germany_Seligenstadt_2007.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Lupus of the Via Aurelia
+stub: true
 honorific: Saint
 summary: Martyr.
 died: 69 on the Via Aurelia near Rome, Italy

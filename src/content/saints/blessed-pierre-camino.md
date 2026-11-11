@@ -1,5 +1,6 @@
 ---
 name: Blessed Pierre Camino
+stub: false
 honorific: Blessed
 summary: >-
   Mercedarian friar. While sailing to north Africa on a mission for the Order to ransom Christians enslaved by Muslims,

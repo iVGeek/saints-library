@@ -1,5 +1,6 @@
 ---
 name: Blessed Agnes of Büren
+stub: false
 image: https://upload.wikimedia.org/wikipedia/commons/4/46/Agnes_of_Babenberg.JPG
 honorific: Blessed
 summary: >-

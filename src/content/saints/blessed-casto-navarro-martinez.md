@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Casto Navarro Martínez
+stub: false
 honorific: Blessed
 summary: >-
   Member of the Claretians, professed on 11 June 1926. Ordained a priest on 8 June 1928. Martyred in the Spanish Civil

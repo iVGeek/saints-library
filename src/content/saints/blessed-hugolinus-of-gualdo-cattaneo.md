@@ -1,5 +1,6 @@
 ---
 name: Blessed Hugolinus of Gualdo Cattaneo
+stub: false
 honorific: Blessed
 summary: >-
   Augustinian hermit as a young man. With Blessed Angelus of Foligno, he founded a monastery in Gualdo Cattaneo, Italy

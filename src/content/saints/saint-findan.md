@@ -1,5 +1,6 @@
 ---
 name: Saint Findan of Rheinau
+stub: false
 honorific: Saint
 summary: >-
   Captured by Norse raiders, who murdered the rest of his family, Findan was forced into slavery in the Orkney Islands.

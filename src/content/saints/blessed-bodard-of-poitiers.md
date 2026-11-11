@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Bodard of Poitiers
+stub: true
 honorific: Blessed
 summary: Hermit near Poitiers, France.
 deathYear: 740

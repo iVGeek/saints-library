@@ -1,5 +1,6 @@
 ---
 name: Saint Thomas of Villanova
+stub: false
 honorific: Saint
 summary: >-
   Son of Aloazo Tomas Garcia, a miller, and Lucia Martinez. He grew up in Villanova, Spain, and was educated at the

@@ -1,5 +1,6 @@
 ---
 name: Blessed Andrea Giacinto Longhin
+stub: false
 honorific: Blessed
 summary: >-
   The only son of Matthew and Judith Marin, poor and pious tenant farmers. He early felt a call to the priesthood.

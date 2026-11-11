@@ -1,5 +1,6 @@
 ---
 name: Saint John Yi Yun-on
+stub: false
 honorific: Venerable
 summary: >-
   Layman farmer. Married. Father. Catechist. Beaten, whipped and executed for his faith, the last martyr of a particular

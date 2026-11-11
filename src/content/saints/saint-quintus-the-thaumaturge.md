@@ -1,5 +1,6 @@
 ---
 name: Saint Quintus the Thaumaturge
+stub: false
 honorific: Saint
 summary: >-
   Raised a Christian. Immigrated to Aeolis in Asia Minor, and developed a ministry of serving the poor. Arrested and

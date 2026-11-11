@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/6/66/Cattedrale_di_Anagni_-_4211OP7478.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Paternus of Fondi
+stub: true
 honorific: Saint
 summary: Martyr.
 deathYear: 255

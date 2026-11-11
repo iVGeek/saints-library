@@ -1,5 +1,6 @@
 ---
 name: Blessed Gerard Tintorio
+stub: false
 honorific: Blessed
 summary: >-
   Well off layman in Monza, Lombardy, Italy. He spent his wealth founding a hospital in Monza where he worked with the

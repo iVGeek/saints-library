@@ -1,5 +1,6 @@
 ---
 name: Blessed Anthony of Saxony
+stub: false
 image: https://upload.wikimedia.org/wikipedia/commons/2/21/Anton-sachsen.jpg
 honorific: Blessed
 summary: >-

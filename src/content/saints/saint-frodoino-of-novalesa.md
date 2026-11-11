@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Frodoino of Novalesa
+stub: false
 honorific: Saint
 summary: >-
   Born to the Frankish nobility, the son of Magafredo, Frodoino became an oblate, then a monk, and then on 10 February

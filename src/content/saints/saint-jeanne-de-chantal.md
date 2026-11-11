@@ -1,5 +1,6 @@
 ---
 name: Saint Jeanne de Chantal
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility, the daughter of the president of the Parliament of Burgundy who raised her alone after the death

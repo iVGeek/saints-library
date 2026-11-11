@@ -1,5 +1,6 @@
 ---
 name: Saint Clerus of Antioch
+stub: true
 honorific: Saint
 summary: Deacon. Repeatedly tortured to give up his faith before being executed. Martyr.
 searchAliases:

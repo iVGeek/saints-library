@@ -1,5 +1,6 @@
 ---
 name: Blessed Guillermo Giraldi
+stub: false
 honorific: Blessed
 summary: >-
   Mercedarian friar. Prior of the Mercedarian convent in Barcelona, Spain. Made two trips to north Africa to ransom

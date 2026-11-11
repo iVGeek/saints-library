@@ -1,5 +1,6 @@
 ---
 name: Saint Evortius of Orléans
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Orleans, France. Spiritual teacher of Saint Aignan of Orléans. The monastery of Saint-Euvert was founded to

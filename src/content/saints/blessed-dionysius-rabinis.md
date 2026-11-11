@@ -1,5 +1,6 @@
 ---
 name: Blessed Dionysius Rabinis
+stub: false
 honorific: Blessed
 summary: Mercedarian friar. Wrote a number of works on theology, especially against heresies of his day.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Dionysius-Rabinis.jpg

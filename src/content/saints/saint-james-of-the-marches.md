@@ -1,5 +1,6 @@
 ---
 name: Saint James of the Marches
+stub: false
 honorific: Saint
 summary: >-
   Born poor. Doctor of Civil Law. Franciscan monk at age 22. Studied with Saint John of Capistrano. Disciple of Saint

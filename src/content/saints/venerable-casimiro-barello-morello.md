@@ -1,5 +1,6 @@
 ---
 name: Venerable Casimiro Barello Morello
+stub: true
 honorific: Venerable
 summary: Layman.
 image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Casimiro-Barello-Morello.jpg

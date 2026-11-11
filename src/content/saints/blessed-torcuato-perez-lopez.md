@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/8/8b/1949_5_pesetas.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Torcuato Pérez López
+stub: true
 honorific: Blessed
 summary: Priest of the diocese of Guadix, Spain. Martyred in the Spanish Civil War.
 birthYear: 1881

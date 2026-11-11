@@ -1,5 +1,6 @@
 ---
 name: Saint Demetria of Rome
+stub: false
 honorific: Saint
 summary: >-
   Daughter of Saint Flavian and Saint Dafrosa; sister of Saint Bibiana. Following the martyrdom of her parents during

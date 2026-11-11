@@ -1,5 +1,6 @@
 ---
 name: Saint John of Kanty
+stub: false
 honorific: Saint
 summary: ' Falsely accused and ousted by university rivals, at age 41 he was assigned as parish priest at Olkusz, Bohemia. He took his position seriously, and wa Polish country lad. Brilliant student at the University of Cracow, Poland. Priest. Professor of theology at University of Cracow.'
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-John-of-Kanty1.jpg

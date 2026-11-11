@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Quadratus
+stub: true
 honorific: Saint
 summary: Martyr. Saint Augustine of Hippo wrote about him.
 died: Africa, date unknown

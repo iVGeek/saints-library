@@ -1,5 +1,6 @@
 ---
 name: Venerable Franz Joseph Rudigier
+stub: false
 honorific: Venerable
 summary: >-
   Ordained in the diocese of Bressanone, Italy on 12 April 1835. Bishop of the diocese of Linz, Austria on 19 December

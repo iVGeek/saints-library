@@ -1,5 +1,6 @@
 ---
 name: Pope Saint Agapitus I
+stub: false
 honorific: Saint
 summary: >-
   Son of a priest named Gordian; his father was murdered. Archdeacon of the priests of Rome, Italy. Elected pope when a

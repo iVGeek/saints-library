@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint John Vincent
+stub: false
 honorific: Saint
 summary: Benedictine monk at Saint Michael of Chiusa where he built a church. Hermit on Monte Caprario. Bishop.
 deathYear: 1012

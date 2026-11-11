@@ -1,5 +1,6 @@
 ---
 name: Blessed Anna of the Angels Monteagudo
+stub: false
 honorific: Blessed
 summary: >-
   Educated at a convent. Over the objection of her family, she became a Dominican nun in 1618; she wore the veil for 68

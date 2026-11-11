@@ -1,5 +1,6 @@
 ---
 name: Saint Agapia of Gerona
+stub: true
 honorific: Saint
 summary: Martyr. No other details have survived.
 searchAliases:

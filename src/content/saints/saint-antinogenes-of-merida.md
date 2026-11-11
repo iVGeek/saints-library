@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Antinogenes of Merida
+stub: true
 honorific: Saint
 summary: Martyr.
 deathYear: 304

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Spinella of Rome
+stub: true
 honorific: Saint
 summary: One of a group of nine Christians, including seven brothers, martyred together.
 died: Rome, Italy, date unknown

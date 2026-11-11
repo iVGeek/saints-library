@@ -1,5 +1,6 @@
 ---
 name: Blessed Edward Oldcorne
+stub: false
 honorific: Blessed
 summary: >-
   Jesuit priest, ordained in Rome, Italy, and received into the Society in 1587. Worked in the English mission in

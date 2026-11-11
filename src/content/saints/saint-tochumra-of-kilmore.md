@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Tochumra of Kilmore
+stub: false
 honorific: Saint
 summary: A holy virgin venerated in Kilmore, Ireland. A church in the diocese of Killfenora, Ireland was dedicated to her.
 searchAliases:

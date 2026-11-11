@@ -1,5 +1,6 @@
 ---
 name: Saint Alexander Sauli
+stub: false
 honorific: Saint
 title: St. Alexander Sauli
 summary: >-

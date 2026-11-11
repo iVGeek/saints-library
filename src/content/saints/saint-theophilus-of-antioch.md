@@ -1,5 +1,6 @@
 ---
 name: Saint Theophilus of Antioch
+stub: false
 honorific: Saint
 summary: >-
   Convert, brought to the faith through scripture reading. Zealous apologist, both by speaking and by writing, opposing

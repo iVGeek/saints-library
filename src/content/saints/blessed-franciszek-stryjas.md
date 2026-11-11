@@ -1,5 +1,6 @@
 ---
 name: Blessed Franciszek Stryjas
+stub: false
 honorific: Blessed
 summary: >-
   The son of farmers, Franciszek was a married layman and father in the diocese of Kalisz, Poland; he and Józefa Kobylka

@@ -1,5 +1,6 @@
 ---
 name: Blessed Antonio Marini
+stub: false
 honorific: Blessed
 summary: >-
   Mercedarian friar. He earned a doctorate in theology from the University of Paris. Blessed Antonio was noted for his

@@ -1,5 +1,6 @@
 ---
 name: Saint Venantius of Camerino
+stub: false
 honorific: Saint
 summary: Teenager tortured extensively and martyred with ten other Christians during the persecutions of Decius.
 image: https://commons.wikimedia.org/wiki/Special:FilePath/Pf%25C3%25A4rrenbach_Wandmalerei_Venantiuslegende_1.jpg?width=600

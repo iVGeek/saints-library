@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Vicenta of Coria
+stub: true
 honorific: Saint
 summary: Nun. Martyr.
 region: Portugal

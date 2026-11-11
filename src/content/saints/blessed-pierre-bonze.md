@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/4f/Frm_beatification_banner.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Pierre Bonzé
+stub: false
 honorific: Blessed
 summary: Parish priest of Massey in the diocese of Versailles, France. One of the Martyrs of September.
 birthYear: 1719

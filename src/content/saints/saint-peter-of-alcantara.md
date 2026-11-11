@@ -1,5 +1,6 @@
 ---
 name: Saint Peter of Alcántara
+stub: false
 honorific: Saint
 title: St. Peter of Alcántara
 summary: >-

@@ -1,5 +1,6 @@
 ---
 name: Saint Megingaud of Würzburg
+stub: false
 honorific: Saint
 summary: >-
   Benedictine monk at the monastery of Fritzlar, Germany, in 738. Teacher at the abbey school. Abbot at Fritzlar. Bishop

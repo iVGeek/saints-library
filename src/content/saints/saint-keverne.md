@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Keverne
+stub: true
 honorific: Saint
 summary: Friend of and co-worker with Saint Kieran.
 born: 6th century Cornwall, England

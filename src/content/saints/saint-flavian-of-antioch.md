@@ -1,5 +1,6 @@
 ---
 name: Saint Flavian of Antioch
+stub: false
 honorific: Saint
 summary: >-
   Patriarch of Antioch. Exiled by the Emperor Anastasius supporting the decrees of the Council of Chalcedon which

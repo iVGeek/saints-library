@@ -1,5 +1,6 @@
 ---
 name: Blessed Giovanna Irrizaldi
+stub: false
 honorific: Blessed
 summary: >-
   Mercedarian nun in the monastery of Saint Joseph in Nalan, Asturia, Spain. Known as a miracle worker, she could travel

@@ -1,5 +1,6 @@
 ---
 name: Martyrs of Sinope
+stub: false
 honorific: Saint
 summary: 200 Christian soldiers martyred together for their faith. We don't even have their names.
 died: Sinope, Pontus, Asia Minor (in modern Turkey)

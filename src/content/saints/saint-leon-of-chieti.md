@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/2/23/Giuseppe_Marello_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Leon of Chieti
+stub: true
 honorific: Saint
 title: Bishop
 summary: Early bishop of Chieti, Italy.

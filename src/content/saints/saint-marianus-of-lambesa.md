@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Marianus of Lambesa
+stub: true
 honorific: Saint
 summary: Lector. Martyr.
 deathYear: 259

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/d/df/FBPB_30_Bischof_Meinwerk_auf_Tragaltar_Helmarshausen_1100.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Meinwerk of Paderborn
+stub: false
 honorific: Blessed
 summary: >-
   Son of Imad, Count of Tesiterbant and Radichen, he was born to the Immedinger nobility; related to the Saxon royal

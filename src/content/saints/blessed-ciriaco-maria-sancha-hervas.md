@@ -1,5 +1,6 @@
 ---
 name: Blessed Ciriaco María Sancha Hervás
+stub: false
 honorific: Blessed
 summary: >-
   Ordained on 27 June 1858. Auxiliary Bishop of Toledo, Spain, and Titular Bishop of Areopolis on 28 January 1876.

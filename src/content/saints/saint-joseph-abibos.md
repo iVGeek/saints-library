@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Joseph Abibos
+stub: true
 honorific: Saint
 summary: Abbot of Alavendi, Georgia. Disciple of Saint John Zedazneli.
 deathYear: 590

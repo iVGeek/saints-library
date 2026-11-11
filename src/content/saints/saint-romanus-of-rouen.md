@@ -1,5 +1,6 @@
 ---
 name: Saint Romanus of Rouen
+stub: false
 honorific: Saint
 summary: >-
   Courtier to King Clothaire II. Bishop of Rouen, France c.629. He worked to convert the remaining pagans in his

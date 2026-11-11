@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Isidore of Scété
+stub: false
 honorific: Saint
 summary: >-
   Desert hermit. Priest of Scété, Egypt. Worked to bring angry or negligent brother desert monks back to proper

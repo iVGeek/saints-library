@@ -1,5 +1,6 @@
 ---
 name: Blessed Giles of Assisi
+stub: false
 honorific: Blessed
 summary: >-
   Friend and third follower of Saint Francis of Assisi. Sent as a missionary to Muslims in Tunis, but had no success.

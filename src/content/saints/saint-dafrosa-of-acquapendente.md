@@ -1,5 +1,6 @@
 ---
 name: Saint Dafrosa of Acquapendente
+stub: false
 honorific: Saint
 summary: >-
   Married to Saint Flavian; mother of Saint Bibiana and Saint Demetria. Martyred in the persecutions of Julian the

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Hildelith of Barking
+stub: false
 honorific: Saint
 summary: >-
   Anglo-Saxon princess; she was well educated, very cultured, and could read Latin. Spent most of her youth in France.

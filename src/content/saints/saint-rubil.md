@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Rubil
+stub: false
 honorific: Saint
 summary: >-
   Monk, living the monastic life for 65 years. Superior of a house of 35 monks. Because of confusion among the

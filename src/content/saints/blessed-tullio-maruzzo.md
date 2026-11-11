@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/e/e1/Tullio_%28Tulio%29_Maruzzo_y_Angello_Roncali.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 name: Blessed Tullio Maruzzo
+stub: false
 honorific: Blessed
 summary: >-
   Born a twin, with a brother named Lucio. Member of the Order of Friars Minor, making his profession on 15 July 1951.

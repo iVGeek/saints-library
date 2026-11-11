@@ -1,5 +1,6 @@
 ---
 name: Saint Abdiesus the Deacon
+stub: true
 honorific: Saint
 summary: Deacon in Persia. Martyred in the persecutions of King Sapor II.
 searchAliases:

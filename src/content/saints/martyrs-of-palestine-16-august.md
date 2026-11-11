@@ -1,5 +1,6 @@
 ---
 name: Martyrs of Palestine
+stub: false
 honorific: Saint
 summary: >-
   Thirty-three Christians martyred in Palestine; they are commemorated in old martyrologies, but the date and exact

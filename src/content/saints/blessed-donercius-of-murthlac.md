@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Donercius of Murthlac
+stub: true
 honorific: Blessed
 title: Bishop
 summary: Second bishop of Murthlac, Scotland, serving in the latter 11th century.

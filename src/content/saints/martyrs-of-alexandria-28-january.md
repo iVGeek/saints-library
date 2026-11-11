@@ -1,5 +1,6 @@
 ---
 name: Martyrs of Alexandria
+stub: false
 honorific: Saint
 summary: >-
   A group of 4th-century parishioners in Alexandria, Egypt. During the celebration of Mass one day an Arian officer

@@ -1,5 +1,6 @@
 ---
 name: Blessed Luigj Prendushi
+stub: false
 honorific: Blessed
 summary: >-
   Studied in colleges and seminaries of Piedmont, Italy and Sarvano Skarnafacio. Ordained as a priest of the diocese of

@@ -1,5 +1,6 @@
 ---
 name: Saint Anne
+stub: false
 honorific: Saint
 title: St. Anne
 summary: >-

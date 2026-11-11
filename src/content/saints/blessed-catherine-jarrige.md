@@ -1,5 +1,6 @@
 ---
 name: Blessed Catherine Jarrige
+stub: false
 honorific: Blessed
 summary: >-
   The youngest of seven daughters born to Pietro Jarrige and Maria Célarier. At the age of nine, Catherine began

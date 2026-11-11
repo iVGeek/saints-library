@@ -1,5 +1,6 @@
 ---
 name: Saint Magdalena of Nagasaki
+stub: false
 honorific: Venerable
 summary: >-
   Her parents were martyred when Magdalena was about nine years old. She became an Augustianian tertiary, and worked as

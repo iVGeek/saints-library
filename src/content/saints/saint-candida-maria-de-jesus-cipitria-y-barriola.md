@@ -1,5 +1,6 @@
 ---
 name: Saint Candida Maria de Jesus Cipitria y Barriola
+stub: false
 honorific: Venerable
 summary: >-
   Oldest of seven children born to Juan Miguel Cipitria and María Jesús Barriola. The family were weavers, and Juana

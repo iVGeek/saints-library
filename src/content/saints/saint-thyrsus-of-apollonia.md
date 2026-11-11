@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Thyrsus of Apollonia
+stub: true
 honorific: Saint
 summary: Martyred in the persecutions of Decius. No other information has survived.
 deathYear: 251

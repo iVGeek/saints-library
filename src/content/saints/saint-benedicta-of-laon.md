@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Benedicta of Laon
+stub: true
 honorific: Saint
 summary: Virgin-martyr in Laon, France.
 region: France

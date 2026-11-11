@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Genesius, Count of Clermont
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility, the son of Audastrius and Tranquilla. Miracle worker in his youth, restoring sight to the blind,

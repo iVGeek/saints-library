@@ -1,5 +1,6 @@
 ---
 name: Saint Teresa de Gesu, Jornet y Ibars
+stub: false
 honorific: Venerable
 summary: >-
   Raised on a farm. Teacher at L&eacute;rida. Tried to join the religious life, but was refused. At the suggestion of

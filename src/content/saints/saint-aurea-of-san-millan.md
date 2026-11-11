@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/1/1c/Saint_Roch_MET_EP14.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Áurea of San Millán
+stub: false
 honorific: Saint
 summary: >-
   Daughter of Saint Amunia, she grew up a Christian child in a village invaded by Moors. She was devoted to Saint

@@ -1,5 +1,6 @@
 ---
 name: Saint Martin of Vertou
+stub: false
 honorific: Saint
 summary: >-
   Born wealthy, to a family well-known in his region. Ordained a deacon by Saint Felix. Noted for his lack of skill as a

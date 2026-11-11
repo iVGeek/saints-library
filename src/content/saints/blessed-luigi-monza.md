@@ -1,5 +1,6 @@
 ---
 name: Blessed Luigi Monza
+stub: false
 honorific: Blessed
 summary: >-
   Born to a poor farming family. Entered seminary at age 18, and was ordained in the archdiocese of Milan, Italy on 19

@@ -1,5 +1,6 @@
 ---
 name: Saint Valentine of Passau
+stub: false
 honorific: Saint
 summary: >-
   Monk. Abbot. Missionary bishop in Rhaetia, Switzerland, an area in the border region of modern Italy, Austria and

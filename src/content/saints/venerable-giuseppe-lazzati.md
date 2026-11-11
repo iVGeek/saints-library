@@ -1,5 +1,6 @@
 ---
 name: Venerable Giuseppe Lazzati
+stub: false
 honorific: Venerable
 summary: Layman in the archdiocese of Milan, Italy. Founded the Secular Institute of Christ the King.
 image: https://upload.wikimedia.org/wikipedia/commons/5/5e/Giuseppe_Lazzati_Cattolica.jpg

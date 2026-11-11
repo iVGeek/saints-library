@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Donatian of Cirta
+stub: true
 honorific: Saint
 summary: Martyr. No other information has survived.
 died: Cirta, Numidia (in modern Algeria)

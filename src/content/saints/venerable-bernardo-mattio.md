@@ -1,5 +1,6 @@
 ---
 name: Venerable Bernardo Mattio
+stub: false
 honorific: Venerable
 summary: >-
   Parish priest in Dronero, diocese of Saluzzo, Italy. Founded homes for the elderly, an orphanage for boys, and a

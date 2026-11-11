@@ -1,5 +1,6 @@
 ---
 name: Blessed Ludan
+stub: false
 honorific: Blessed
 summary: >-
   Born to the Scottish nobility, the son of Itiboldo. Used his inheritence to build a hospital for the poor, a hospice

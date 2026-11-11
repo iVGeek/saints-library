@@ -1,5 +1,6 @@
 ---
 name: Blessed Angelus de Scarpetti
+stub: false
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/e/eb/Ismeretlen_XV-XVI._sz%C3%A1zadi_fest%C5%91_Angelo_Scarpetti_Museo_Civico_Arezzo_Chiesa_di_S._Chiara.jpg
 honorific: Blessed

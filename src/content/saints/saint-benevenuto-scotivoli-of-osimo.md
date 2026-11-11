@@ -1,5 +1,6 @@
 ---
 name: Saint Benevenuto Scotivoli of Osimo
+stub: false
 honorific: Saint
 summary: >-
   Studied law at Bologna, Italy, a student with Saint Sylvester Gozzolini. Archdeacon in Ancona, Italy. Franciscan.

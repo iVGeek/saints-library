@@ -1,5 +1,6 @@
 ---
 name: Saint Fidelis of Sigmaringen
+stub: false
 honorific: Saint
 summary: >-
   Lawyer and philosophy teacher. Disgusted by the greed, corruption, and lack of interest in justice by his fellow

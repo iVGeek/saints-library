@@ -1,5 +1,6 @@
 ---
 name: Blessed Joan Franquesa Costa
+stub: false
 honorific: Blessed
 summary: >-
   Priest. Poet. Member of the Sons of the Holy Family. Preached devotion to the Holy Family in the pulpit, the press and

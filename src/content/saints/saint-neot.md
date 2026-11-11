@@ -1,5 +1,6 @@
 ---
 name: Saint Neot
+stub: false
 honorific: Saint
 summary: >-
   Related to King Alfred the Great. Monk of Glastonbury Abbey. Priest. Sacristan. Hermit in Cornwall, England. Reports

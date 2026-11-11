@@ -1,5 +1,6 @@
 ---
 name: Blessed Xavier Bordas Piferrer
+stub: false
 honorific: Blessed
 summary: >-
   Born to a pious family and educated by the Salesians, Xavier joined the Society in 1932. He studied philosophy at the

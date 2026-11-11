@@ -1,5 +1,6 @@
 ---
 name: Saint Athelm of Canterbury
+stub: false
 honorific: Saint
 summary: >-
   Paternal uncle of Saint Dunstan of Canterbury. Benedictine monk at Glastonbury, England. Abbot of Glastonbury. Bishop

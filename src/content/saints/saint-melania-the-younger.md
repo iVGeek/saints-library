@@ -1,5 +1,6 @@
 ---
 name: Saint Melania the Younger
+stub: false
 honorific: Saint
 summary: >-
   Wealthy Roman patrician noble; granddaughter of Saint Melania the Elder. Married against her will to Valerius Pinianus

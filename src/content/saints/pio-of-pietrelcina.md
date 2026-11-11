@@ -1,5 +1,6 @@
 ---
 name: Pio of Pietrelcina
+stub: false
 honorific: Saint
 title: Priest, Stigmatist
 summary: >-

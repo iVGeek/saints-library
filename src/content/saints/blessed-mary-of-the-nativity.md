@@ -1,5 +1,6 @@
 ---
 name: Blessed Mary of the Nativity
+stub: false
 honorific: Blessed
 summary: >-
   In her youth, Anna made a private vow, consecrating herself to God. She joined the Mercedarians at the monastery of

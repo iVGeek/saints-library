@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Robert of Syracuse
+stub: true
 honorific: Saint
 summary: Abbot of a monastery in Syracuse, Sicily.
 deathYear: 1000

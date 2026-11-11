@@ -1,5 +1,6 @@
 ---
 name: Abigail the Matriarch
+stub: false
 honorific: Saint
 summary: >-
   Jewish laywoman. Wife of King David. Old Testament matriarch. One of the seven women considered a prophet by the

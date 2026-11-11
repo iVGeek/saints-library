@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Daniel of Gerona
+stub: true
 honorific: Saint
 summary: Hermit. Martyr.
 born: Asia Minor

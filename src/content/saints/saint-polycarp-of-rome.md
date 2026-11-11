@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Polycarp of Rome
+stub: false
 honorific: Saint
 summary: Priest in Rome, Italy who was known for his ministry to people imprisoned for their faith.
 deathYear: 300

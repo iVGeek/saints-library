@@ -1,5 +1,6 @@
 ---
 name: Saint Apra
+stub: true
 honorific: Saint
 summary: Child martyr.
 died: Rome, Italy

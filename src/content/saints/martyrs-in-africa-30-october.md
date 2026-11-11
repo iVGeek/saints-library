@@ -1,5 +1,6 @@
 ---
 name: Martyrs in Africa
+stub: false
 honorific: Saint
 summary: >-
   A group of 100 to 200 Christians murdered in the early persecutions, and about whom we know nothing except that they

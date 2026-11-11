@@ -1,5 +1,6 @@
 ---
 name: Saint Tryphon of Lampsacus
+stub: false
 honorific: Saint
 summary: >-
   Raised in a Christian family, his father died when the boy was very young, he was raised by his mother Eukaria, and he

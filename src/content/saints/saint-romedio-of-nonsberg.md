@@ -1,5 +1,6 @@
 ---
 name: Saint Romedio of Nonsberg
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility, the family of the Counts of Thaur in modern Austria. He learned to read using the Bible and

@@ -1,5 +1,6 @@
 ---
 name: Saint Mark of Ephesus
+stub: true
 honorific: Saint
 summary: Martyr.
 died: stoned to death near Ephesus, Asia Minor (in modern Turkey)

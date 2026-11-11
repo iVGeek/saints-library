@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Cyrenia of Tarsus
+stub: true
 honorific: Saint
 summary: Martyred with Saint Juliana in the persecutions of Galerius and Maximian.
 deathYear: 306

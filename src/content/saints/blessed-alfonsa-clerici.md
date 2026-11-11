@@ -1,5 +1,6 @@
 ---
 name: Blessed Alfonsa Clerici
+stub: false
 honorific: Blessed
 summary: >-
   The eldest of ten children born to Angelo and Maria Romano Clerici; hers was a poor but pious family with two of her

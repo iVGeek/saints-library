@@ -1,5 +1,6 @@
 ---
 name: Saint Meriadoc II of Vannes
+stub: false
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Bulletin_arch%C3%A9ologique_de_l%27Association_bretonne_%28IA_bulletinarcheolo319asso%29.pdf/page1-960px-Bulletin_arch%C3%A9ologique_de_l%27Association_bretonne_%28IA_bulletinarcheolo319asso%29.pdf.jpg
 honorific: Saint

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Otger of Utrecht
+stub: false
 honorific: Saint
 summary: Worked with Saint Wiro of Utrecht to found a monastery at Odilienburg, Netherlands.
 searchAliases:

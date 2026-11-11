@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Donata of Silistria
+stub: true
 honorific: Saint
 summary: Martyr.
 feastDay:

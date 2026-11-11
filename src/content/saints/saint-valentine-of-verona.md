@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Valentine of Verona
+stub: false
 honorific: Saint
 summary: >-
   31st bishop of the diocese of Verona, Italy. Old records spell his name in various ways, put him at different places

@@ -1,5 +1,6 @@
 ---
 name: Blessed Placido Riccardi
+stub: false
 honorific: Blessed
 summary: >-
   Spent a worldly youth in Umbria, Italy. He moved to Rome, Italy in 1865 to study philosophy under the Dominicans at

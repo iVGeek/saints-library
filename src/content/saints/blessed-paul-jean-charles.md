@@ -1,5 +1,6 @@
 ---
 name: Blessed Paul-Jean Charles
+stub: false
 honorific: Blessed
 summary: >-
   Trappist monk. Priest. Prior of the Sept-Fons abbey. In 1791, the anti-Catholic forces of the French Revolution

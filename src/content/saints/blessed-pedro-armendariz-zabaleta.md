@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/f/fe/Beatificaciotarragona2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Pedro Armendáriz Zabaleta
+stub: false
 honorific: Blessed
 summary: Lay brother in the Vincentian Congregation of the Mission. Martyred in the Spanish Civil War.
 birthYear: 1877

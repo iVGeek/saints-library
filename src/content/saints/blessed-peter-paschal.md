@@ -1,5 +1,6 @@
 ---
 name: Blessed Peter Paschal
+stub: false
 honorific: Blessed
 summary: >-
   Received his doctorate from the University of Paris, France. Joined the Mercedarians in 1250. Priest. Tutor to Don

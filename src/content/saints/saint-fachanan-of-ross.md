@@ -1,5 +1,6 @@
 ---
 name: Saint Fachanan of Ross
+stub: false
 honorific: Saint
 summary: >-
   Monk. Abbot. Founded a monastery and school in the Rosscarbery area which became a celebrated seat of learning and

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Richard Yaxley
+stub: false
 honorific: Blessed
 summary: >-
   Studied at the University of Oxford, England, and then the Douai College in Rheims, France. Priest of the apostolic

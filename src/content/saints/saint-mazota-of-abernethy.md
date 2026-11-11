@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Mazota of Abernethy
+stub: true
 honorific: Saint
 searchAliases:
   - Mayota

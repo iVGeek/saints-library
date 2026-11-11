@@ -1,5 +1,6 @@
 ---
 name: Saint Odo of Novara
+stub: false
 honorific: Saint
 summary: >-
   Carthusian monk. Priest. Prior at Geyrach, Slavonia. Following difficulities with his bishop, he resigned his position

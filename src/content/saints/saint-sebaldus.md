@@ -1,5 +1,6 @@
 ---
 name: Saint Sebaldus
+stub: true
 honorific: Saint
 image: https://commons.wikimedia.org/wiki/Special:FilePath/Accademia_-_San_Sinibaldo_di_Sebastiano_del_Piombo.jpg?width=600
 searchAliases:

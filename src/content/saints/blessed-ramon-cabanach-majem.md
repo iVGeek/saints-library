@@ -1,5 +1,6 @@
 ---
 name: Blessed Ramon Cabanach Majem
+stub: false
 honorific: Blessed
 summary: >-
   Priest. Member of the Sons of the Holy Family. Director of the Saint Peter the Apostle school in Reus, Spain. Known

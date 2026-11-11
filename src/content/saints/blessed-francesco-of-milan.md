@@ -1,5 +1,6 @@
 ---
 name: Blessed Francesco of Milan
+stub: true
 honorific: Blessed
 title: Hermit
 summary: 17th century Camaldolese hermit.

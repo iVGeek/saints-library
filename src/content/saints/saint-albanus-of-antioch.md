@@ -1,5 +1,6 @@
 ---
 name: Saint Albanus of Antioch
+stub: true
 honorific: Saint
 summary: Soldier. Martyr.
 born: Greece

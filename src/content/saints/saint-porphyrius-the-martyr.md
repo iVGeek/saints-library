@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Porphyrius the Martyr
+stub: false
 honorific: Saint
 summary: >-
   An actor who, while performing in a play that mocked baptism, suddenly declared himself a Christian. Julian the

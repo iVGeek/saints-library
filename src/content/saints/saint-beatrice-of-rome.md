@@ -1,5 +1,6 @@
 ---
 name: Saint Beatrice of Rome
+stub: false
 honorific: Saint
 summary: >-
   Sister of Saint Faustinus of Rome and Saint Simplicius of Rome. Betrothed to be married even though she had taken

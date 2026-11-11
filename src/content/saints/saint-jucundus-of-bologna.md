@@ -1,6 +1,7 @@
 ---
 image: https://www.catholic.org/files/images/saints/4101.jpg
 name: Saint Jucundus of Bologna
+stub: true
 honorific: Saint
 summary: Bishop of Bologna, Italy.
 searchAliases:

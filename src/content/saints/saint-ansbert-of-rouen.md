@@ -1,5 +1,6 @@
 ---
 name: Saint Ansbert of Rouen
+stub: false
 honorific: Saint
 summary: >-
   Chancellor at the court of King Clotaire III. Married; with his wife's permission, he retired to become a Benedictine

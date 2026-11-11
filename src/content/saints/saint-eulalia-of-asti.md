@@ -1,5 +1,6 @@
 ---
 name: Saint Eulalia of Asti
+stub: true
 honorific: Saint
 summary: Nun and martyr sometime between the 2nd and 5th centuries.
 died: relics enshrined in the church of the Holy Apostles in Asti, Italy

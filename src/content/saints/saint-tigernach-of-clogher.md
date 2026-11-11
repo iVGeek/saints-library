@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Tigernach of Clogher
+stub: false
 honorific: Saint
 summary: >-
   Son of Dearfraych, daughter of the Irish king Eochod, and a famous general named Corbre. Baptized by Bishop Saint

@@ -1,5 +1,6 @@
 ---
 name: Saint Mel of Ardagh
+stub: false
 honorific: Saint
 summary: >-
   Son of Conis and Saint Darerca, one of their nineteen children. Brother of Saint Melchu. Nephew of Saint Patrick.

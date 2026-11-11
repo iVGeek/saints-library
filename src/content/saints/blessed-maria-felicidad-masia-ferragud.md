@@ -1,5 +1,6 @@
 ---
 name: Blessed María Felicidad Masiá Ferragud
+stub: true
 honorific: Blessed
 summary: Capuchin Poor Clare nun. Martyred in the Spanish Civil War.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-María-Felicidad-Masiá-Ferragud.jpg

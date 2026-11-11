@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Seven Holy Daughters of Fergus
+stub: false
 honorific: Saint
 summary: >-
   Seven 6th century nuns of the island and parish of Inis Cealtra, county of Clare and Galway, Ireland. Attended the

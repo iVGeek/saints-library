@@ -1,5 +1,6 @@
 ---
 name: Blessed Felipe de Jesús Munárriz Azcona
+stub: false
 honorific: Blessed
 summary: >-
   Born to a pious family; he became a Claretian priest, as did two of his brothers. He joined the Claretians in 1886.

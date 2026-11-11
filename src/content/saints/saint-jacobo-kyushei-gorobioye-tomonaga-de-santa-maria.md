@@ -1,5 +1,6 @@
 ---
 name: Saint Jacobo Kyushei Gorobioye Tomonaga de Santa María
+stub: false
 honorific: Venerable
 summary: >-
   Catechist. Joined the Dominicans in Manila, Philippines. Ordained in 1626, he returned to Japan as a missionary and to

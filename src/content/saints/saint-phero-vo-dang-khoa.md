@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Phêrô Võ Ðang Khoa
+stub: true
 honorific: Venerable
 summary: Priest. Worked with bishop Saint Peter Dumoulin. Martyr.
 searchAliases:

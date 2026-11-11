@@ -1,5 +1,6 @@
 ---
 name: Blessed Mariano of Roccacasale
+stub: false
 honorific: Blessed
 summary: >-
   Born to a poor but pious farm family, he worked as a shepherd on Mount Morrone until the age of 23. Joined the

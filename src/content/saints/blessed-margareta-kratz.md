@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/f/f1/Lieg_in_COC.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Margareta Kratz
+stub: false
 honorific: Blessed
 summary: >-
   Premonstratensian nun in the monastery of Engelport, Germany, entering the Order in 1450, and living her faith for the

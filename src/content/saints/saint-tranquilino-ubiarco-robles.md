@@ -1,5 +1,6 @@
 ---
 name: Saint Tranquilino Ubiarco Robles
+stub: false
 honorific: Venerable
 summary: >-
   Priest in the archdiocese of Guadalajara, Mexico. During the persecutions of the Mexican Revolution he continued his

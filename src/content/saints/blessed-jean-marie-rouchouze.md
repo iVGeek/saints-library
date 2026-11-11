@@ -1,5 +1,6 @@
 ---
 name: Blessed Jean-Marie Rouchouze
+stub: false
 honorific: Blessed
 summary: >-
   A member of the Picpus Fathers, making his professon to the Servant of God Marie Joseph Coudrin, the founder of the

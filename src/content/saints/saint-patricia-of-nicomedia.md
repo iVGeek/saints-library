@@ -1,5 +1,6 @@
 ---
 name: Saint Patricia of Nicomedia
+stub: false
 image: https://commons.wikimedia.org/wiki/Special:FilePath/Patricia_2015-10-23_1730Z.jpg?width=600
 honorific: Saint
 summary: >-

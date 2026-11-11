@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Luke the Deacon
+stub: false
 honorific: Saint
 summary: Deacon for and martyred with Bishop Silvanus of Emesa, Phoenicia. Martyred in the persecutions of Maximian.
 deathYear: 311

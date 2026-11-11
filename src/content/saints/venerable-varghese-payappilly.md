@@ -1,5 +1,6 @@
 ---
 name: Venerable Varghese Payappilly
+stub: false
 honorific: Venerable
 summary: >-
   Born to a wealthy family, he was educated in the parish school at Perumanoor, India, and at Saint Albert's School in

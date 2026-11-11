@@ -1,5 +1,6 @@
 ---
 name: Saint John of God
+stub: false
 honorific: Saint
 summary: >-
   Juan grew up working as a shepherd in the Castile region of Spain. He led a wild and misspent youth, and travelled

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Flavia of Vercelli
+stub: false
 honorific: Saint
 summary: >-
   Nun in Vercelli, Italy in the latter 5th century in a monastery founded by Saint Eusebius of Vercelli. There are

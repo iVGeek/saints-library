@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Injuriosus of Auvergne
+stub: false
 honorific: Saint
 summary: >-
   Married to Saint Scholastica of Auvergne.The two, known as the Les Deux Amants, lived their lives together as holy and

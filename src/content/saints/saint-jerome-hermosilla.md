@@ -1,5 +1,6 @@
 ---
 name: Saint Jerome Hermosilla
+stub: false
 honorific: Venerable
 summary: >-
   Dominican. Missionary to Manila, Philippines. Priest. Missionary to Viet Nam in 1828. Vicar Apostolic of Eastern

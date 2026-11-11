@@ -1,5 +1,6 @@
 ---
 name: Saint Maria Chaira
+stub: false
 honorific: Saint
 summary: >-
   Known as a pretty, high-spirited, intelligent, joyful, energetic and impulsive girl. Her parents encouraged her to a

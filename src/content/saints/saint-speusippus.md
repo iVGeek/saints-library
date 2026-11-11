@@ -1,5 +1,6 @@
 ---
 name: Saint Speusippus
+stub: false
 honorific: Saint
 summary: >-
   Triplet brother of Saint Eleusippus and Saint Meleusippus; grandson of Saint Leonilla. Martyred by Marcus Aurelius. An

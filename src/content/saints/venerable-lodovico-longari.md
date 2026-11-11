@@ -1,5 +1,6 @@
 ---
 name: Venerable Lodovico Longari
+stub: false
 honorific: Venerable
 summary: >-
   Eleventh child in his family, he was raised in a pious household; his family went to Mass daily. Lodovico entered

@@ -1,5 +1,6 @@
 ---
 name: Saint Marie de Saint Just
+stub: false
 honorific: Venerable
 summary: >-
   Daughter of a wealthy farmer known for his charity. A sensitive child, she retreated to silence and solitude. Her

@@ -1,5 +1,6 @@
 ---
 name: Blessed Dorothy of Montau
+stub: false
 honorific: Blessed
 summary: >-
   Peasant, one of nine children. Married at age 17 to a wealthy swordsmith named Adalbert or Albrecht of Prague (in

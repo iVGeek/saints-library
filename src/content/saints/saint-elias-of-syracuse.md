@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Elias of Syracuse
+stub: true
 honorific: Saint
 summary: Monk. Bishop of Syracuse, Sicily.
 deathYear: 660

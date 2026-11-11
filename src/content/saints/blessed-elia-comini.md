@@ -1,5 +1,6 @@
 ---
 name: Blessed Elia Comini
+stub: false
 honorific: Blessed
 summary: >-
   His father, Claudio, was a carpenter, and his mother Emma a dressmaker. In 1914, his family moved to the Casetta area

@@ -1,5 +1,6 @@
 ---
 name: Saint Claudius of Antwerp
+stub: true
 honorific: Saint
 summary: Martyr. We have no other information about his life.
 searchAliases:

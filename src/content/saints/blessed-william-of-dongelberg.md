@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed William of Dongelberg
+stub: false
 honorific: Blessed
 summary: >-
   13th century Cistercian monk at the abbey of Villers in Villers-la-Ville, Wallonia (in modern Belgium) remembered for

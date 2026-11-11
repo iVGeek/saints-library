@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/d/d8/Valence_depuis_Crussol_%2802%29-002.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed John of Valence
+stub: false
 honorific: Blessed
 summary: >-
   Canon at Lyons, France. Pilgrim to Compostela, Spain. Benedictine Cistercian monk at Clairvaux Abbey under Saint

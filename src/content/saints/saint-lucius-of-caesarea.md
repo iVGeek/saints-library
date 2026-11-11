@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/1/13/Francisco_de_Zurbar%C3%A1n_038.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Lucius of Caesarea
+stub: true
 honorific: Saint
 summary: Martyr. No other information has survived.
 died: Caesarea, Cappadocia, date unknown

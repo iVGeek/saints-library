@@ -1,5 +1,6 @@
 ---
 name: Venerable Roman Oleksandr Maria Sheptyts'kyi
+stub: false
 honorific: Venerable
 summary: >-
   Born to the aristocracy, he spent a life in religion, poverty and service to his flock. Educated in Krakow, Poland.

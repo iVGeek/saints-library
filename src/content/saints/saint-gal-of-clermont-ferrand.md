@@ -1,5 +1,6 @@
 ---
 name: Saint Gal of Clermont-Ferrand
+stub: false
 honorific: Saint
 title: Bishop
 summary: Mid-6th-century bishop of Clermont-Ferrand, France. Uncle of Saint Gregory of Tours.

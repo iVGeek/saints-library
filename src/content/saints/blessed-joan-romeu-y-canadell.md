@@ -1,5 +1,6 @@
 ---
 name: Blessed Joan Romeu y Canadell
+stub: false
 honorific: Blessed
 summary: >-
   Joan joined the Capuchin Franciscan Friars Minor in 1908, making his solemn profession on 4 October 1912. Ordained a

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Robert Dibdale
+stub: true
 honorific: Blessed
 summary: Priest for the apostolic vicariate of England. Martyr.
 birthYear: 1558

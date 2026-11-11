@@ -1,5 +1,6 @@
 ---
 name: Blessed Maria Anna Kratochwil
+stub: false
 honorific: Blessed
 summary: >-
   Nun, joining the School Sisters of Our Lady in 1901, and making her profession on 27 September 1910 in Breslau,

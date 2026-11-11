@@ -1,6 +1,7 @@
 ---
 image: https://www.catholic.org/files/images/saints/5610.jpg
 name: Saint Charbel
+stub: true
 honorific: Saint
 summary: Martyred in the persecutions of Trajan.
 deathYear: 107

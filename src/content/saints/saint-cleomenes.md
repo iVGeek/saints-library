@@ -1,5 +1,6 @@
 ---
 name: Saint Cleomenes
+stub: false
 honorific: Saint
 summary: One of the Martyrs of Crete who died in the persecutions of Decius. No other information has survived.
 searchAliases:

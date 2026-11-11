@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Gothalm
+stub: true
 honorific: Saint
 summary: Monk in Melk, Austria.
 deathYear: 1020

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Jesús Miquel Girbau
+stub: false
 honorific: Blessed
 summary: >-
   Franciscan Capuchin friar, professed on 17 September 1916. Ordained a priest on 20 December 1919. Imprisoned and

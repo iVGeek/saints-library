@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Faustus of Alexandria
+stub: true
 honorific: Saint
 summary: Priest. Martyred in the Diocletian.
 region: Italy

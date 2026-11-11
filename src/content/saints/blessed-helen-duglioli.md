@@ -1,5 +1,6 @@
 ---
 name: Blessed Helen Duglioli
+stub: false
 honorific: Blessed
 summary: >-
   Lay woman who, against her will, married Benedict dall'Oglio in order to please her family; she spent 30 happy years

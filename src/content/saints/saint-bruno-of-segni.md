@@ -1,5 +1,6 @@
 ---
 name: Saint Bruno of Segni
+stub: false
 honorific: Saint
 summary: >-
   Born to the Italian nobility. Studied theology at the Benedictine monastery of Saint Pepetuus at Asti, Italy, and at

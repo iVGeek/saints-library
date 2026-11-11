@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Venerable José Estanislao Zavala López
+stub: true
 honorific: Venerable
 summary: Augustinian priest.
 searchAliases:

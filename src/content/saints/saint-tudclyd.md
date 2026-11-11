@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Tudclyd
+stub: true
 honorific: Saint
 summary: Nun. A church in Dyfed, Wales is named for her.
 searchAliases:

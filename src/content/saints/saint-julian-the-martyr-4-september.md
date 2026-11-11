@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Julian the Martyr
+stub: true
 honorific: Saint
 summary: Martyred in the persecutions of Emperor Maximian Herculeus.
 deathYear: 310

@@ -1,5 +1,6 @@
 ---
 name: Blessed Torello of Poppi
+stub: false
 honorific: Blessed
 summary: After a wild and misspent youth, Torello lived 60 years as a Vallombrosan oblate hermit in a walled-up cave.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Torello-of-Poppi.jpg

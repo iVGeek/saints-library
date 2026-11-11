@@ -1,5 +1,6 @@
 ---
 name: Blessed Irmengard
+stub: false
 honorific: Blessed
 summary: >-
   Princess, one of eight children of King Louis the German and Hemma. Great-granddaughter of Charlemagne. Benedictine

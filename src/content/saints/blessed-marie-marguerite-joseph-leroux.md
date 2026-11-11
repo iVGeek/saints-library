@@ -1,5 +1,6 @@
 ---
 name: Blessed Marie-Marguerite-Joseph Leroux
+stub: false
 honorific: Blessed
 summary: >-
   Ursuline nun. One of a group of religious sisters murdered together in the anti-Christian excesses of the French

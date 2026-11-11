@@ -1,5 +1,6 @@
 ---
 name: Blessed Charles-Arnould Hanus
+stub: false
 honorific: Blessed
 summary: >-
   Priest in the diocese of Verdun France. Dean of the Chapter of Ligny, Meuse, France. Imprisoned on a ship in the

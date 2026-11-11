@@ -1,5 +1,6 @@
 ---
 name: Blessed Émilie d'Oultremont d'Hoogvorst
+stub: false
 honorific: Blessed
 summary: >-
   Born to the nobility, the daughter of Count d'Emile Oultremont de Wégimont a de Warfusée, a diplomat who represented

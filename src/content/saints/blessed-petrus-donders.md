@@ -1,5 +1,6 @@
 ---
 name: Blessed Petrus Donders
+stub: false
 honorific: Blessed
 summary: >-
   Son of Arnold Denis Donders and Petronella van den Brekel. Peter grew up poor, rarely getting to school, working at

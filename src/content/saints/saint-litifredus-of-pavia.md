@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Litifredus of Pavia
+stub: true
 honorific: Saint
 title: Bishop
 summary: Bishop of Pavia, Italy from 864 until his death.

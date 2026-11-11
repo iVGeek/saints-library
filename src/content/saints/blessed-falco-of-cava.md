@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/0/03/Calvi_137.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Falco of Cava
+stub: false
 honorific: Blessed
 summary: >-
   Educated at the Benedictine monastery of Holy Trinity in Cava dei Tirreni, Italy. Spiritual student of Saint Peter of

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Gavino of Sardinia
+stub: true
 honorific: Saint
 summary: Missionary priest in Sardinia, Italy. Martyred in the persecutions of Hadrian.
 searchAliases:

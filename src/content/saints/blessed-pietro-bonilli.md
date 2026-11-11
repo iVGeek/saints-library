@@ -1,5 +1,6 @@
 ---
 name: Blessed Pietro Bonilli
+stub: false
 honorific: Blessed
 summary: >-
   Priest in the diocese of Spoleto, Italy, ordained in 1863. Parish priest in Cannaiola, Trevi, Italy for 34 years.

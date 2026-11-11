@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Aper of Sens
+stub: false
 honorific: Saint
 summary: >-
   First priest in 7th century LaTerrasse, diocese of Grenoble, France. After years of bickering among his parishioners

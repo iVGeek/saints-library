@@ -1,5 +1,6 @@
 ---
 name: Saint Elias of Orta
+stub: false
 honorific: Saint
 summary: >-
   One of the early evangelists on the island of San Giulio in Lake Orta in the Piedmont region of Italy. He may have

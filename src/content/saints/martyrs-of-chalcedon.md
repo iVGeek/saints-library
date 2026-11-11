@@ -1,5 +1,6 @@
 ---
 name: Martyrs of Chalcedon
+stub: false
 honorific: Saint
 summary: >-
   Forty-nine Christian choir singers of the church in Chalcedon in Asia Minor who were martyred together in their

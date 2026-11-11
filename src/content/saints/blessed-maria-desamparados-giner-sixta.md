@@ -1,5 +1,6 @@
 ---
 name: Blessed María Desamparados Giner Sixta
+stub: false
 honorific: Blessed
 summary: >-
   Member of the Carmelite Sisters of Charity, beginning her novitiate on 2 June 1902. Assigned to the College of the

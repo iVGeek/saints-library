@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/47/Bernardo_Cavallino_-_La_Visione_di_San_Domenico_%28anni_1640%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Dominic of the Holy Rosary
+stub: true
 honorific: Blessed
 summary: Dominican novice. Marytr.
 searchAliases:

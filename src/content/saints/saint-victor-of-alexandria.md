@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Victor of Alexandria
+stub: true
 honorific: Saint
 summary: Martyr.
 died: 4th century Alexandria, Egypt

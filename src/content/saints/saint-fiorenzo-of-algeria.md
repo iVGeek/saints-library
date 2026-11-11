@@ -1,5 +1,6 @@
 ---
 name: Saint Fiorenzo of Algeria
+stub: false
 honorific: Saint
 summary: >-
   Fifth century bishop in north Africa. Leader of a Council called to express clear defense of the Catholic faith during

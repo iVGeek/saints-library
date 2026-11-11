@@ -1,5 +1,6 @@
 ---
 name: Saint Anthony of Athens
+stub: false
 honorific: Saint
 summary: >-
   A slave purchased by a series of Muslims, each of which tried (and failed) to convert him from Christianity. One of

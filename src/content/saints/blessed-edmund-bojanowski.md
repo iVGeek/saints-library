@@ -1,5 +1,6 @@
 ---
 name: Blessed Edmund Bojanowski
+stub: false
 honorific: Blessed
 summary: >-
   A member of a wealthy, landed, Polish noble family. He studied literature at universities in Breslau (modern Wroclaw,

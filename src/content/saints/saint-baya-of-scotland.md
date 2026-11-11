@@ -1,5 +1,6 @@
 ---
 name: Saint Baya of Scotland
+stub: false
 honorific: Saint
 summary: Tenth century anchoress in Scotland. Spiritual director of Saint Maura of Scotland.
 searchAliases:

@@ -1,5 +1,6 @@
 ---
 name: Saint John Berchmans
+stub: false
 honorific: Saint
 summary: >-
   Son of a shoemaker, and one of five children, three of whom entered religious life. John had great devotion to his

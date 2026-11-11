@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Ceollach
+stub: false
 honorific: Saint
 summary: Bishop of the Mercians. Monk at Iona, Scotland. Spent his final years in Ireland.
 born: Ireland

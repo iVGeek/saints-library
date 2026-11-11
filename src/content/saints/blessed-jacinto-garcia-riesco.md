@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/0/08/Roma_martires_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Jacinto García Riesco
+stub: true
 honorific: Blessed
 summary: Dominican cleric. Martyred in the Spanish Civil War.
 birthYear: 1894

@@ -1,5 +1,6 @@
 ---
 name: Venerable Teodora Campostrini
+stub: false
 honorific: Venerable
 summary: >-
   Second of eight children born to the wealthy family of Francisco and Angela Terzi. Teodora and her sister Rose were

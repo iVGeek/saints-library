@@ -1,5 +1,6 @@
 ---
 name: Saint Eugyppius
+stub: false
 honorific: Saint
 summary: >-
   Ordained in Rome, Italy. Worked with Saint Severinus in Noricum (part of modern Austria), and wrote a biography of

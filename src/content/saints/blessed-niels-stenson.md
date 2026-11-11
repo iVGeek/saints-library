@@ -1,5 +1,6 @@
 ---
 name: Blessed Niels Stenson
+stub: false
 honorific: Blessed
 summary: >-
   Anatomist and priest. Among his anatomical achievements was the discovery of the excretory duct of the parotid glands

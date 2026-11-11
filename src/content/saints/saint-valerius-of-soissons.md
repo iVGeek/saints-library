@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Valerius of Soissons
+stub: false
 honorific: Saint
 summary: >-
   Lived at Soissons, Gaul (in modern France). May have been a missionary from Rome, Italy. Fled during the persecution

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Ioannes Pak Hu-jae
+stub: true
 honorific: Venerable
 summary: Married layman in the apostolic vicariate of Korea. Martyr.
 searchAliases:

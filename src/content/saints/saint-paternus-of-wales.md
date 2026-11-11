@@ -1,5 +1,6 @@
 ---
 name: Saint Paternus of Wales
+stub: false
 honorific: Saint
 summary: >-
   Helped found the monastery of Llanbadarn Fawr in Wales where he served as abbot. Noted preacher in the area around

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Venerable Anne Madeleine Remuzat
+stub: false
 honorific: Venerable
 summary: >-
   A pious girl, at her request she entered a convent of the Order of the Visitation in 1704 at the age of eight, but was

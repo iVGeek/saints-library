@@ -1,5 +1,6 @@
 ---
 name: Saint Bernardo degli Uberti
+stub: false
 honorific: Saint
 summary: >-
   Member of the Florentine nobility. Benedictine Vallombrosan monk. Abbot of San Salvi monastery. General-superior of

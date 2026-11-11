@@ -1,5 +1,6 @@
 ---
 name: Saint Dio of Constantinople
+stub: false
 honorific: Saint
 summary: >-
   Ordained a priest in Antioch where he founded a monastery and lived there as a brother monk. With a great reputation

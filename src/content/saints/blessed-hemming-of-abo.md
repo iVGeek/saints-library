@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/7/7c/Location_Nordic_Council.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Hemming of Åbo
+stub: false
 honorific: Blessed
 summary: >-
   Studied in Uppsala, Sweden and Paris, France; one of his classmates in Paris became Pope Clement VI. Priest. Canon of

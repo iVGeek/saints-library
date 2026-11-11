@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Gunthildis of Ohrdruf
+stub: false
 honorific: Saint
 summary: >-
   Nun. At the request of Saint Boniface, she travelled to Germany to become abbess of a convent in Thuringia. Inspector

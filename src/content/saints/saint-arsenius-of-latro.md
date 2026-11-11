@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Arsenius of Latro
+stub: false
 honorific: Saint
 summary: >-
   An admiral in the imperial fleet. Shipwrecked in a violent storm, he learned that he benefitted from living as a

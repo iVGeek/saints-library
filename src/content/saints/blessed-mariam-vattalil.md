@@ -1,5 +1,6 @@
 ---
 name: Blessed Mariam Vattalil
+stub: false
 honorific: Blessed
 summary: >-
   The second child of Paily and Eliswa of Vattalil, Mariam was baptized in the church of Saint Thomas at the age of 7

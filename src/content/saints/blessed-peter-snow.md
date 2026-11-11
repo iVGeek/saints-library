@@ -1,5 +1,6 @@
 ---
 name: Blessed Peter Snow
+stub: false
 honorific: Blessed
 summary: Priest in the apostolic vicariate of England during a period of persecutions of Catholics. Martyr.
 deathYear: 1598

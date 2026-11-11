@@ -1,5 +1,6 @@
 ---
 name: Saint Balsamia of Reims
+stub: false
 honorific: Saint
 summary: >-
   Married lay women in 5th century France. Mother of Saint Celsinus. Close friend of Saint Celina, the mother of Saint

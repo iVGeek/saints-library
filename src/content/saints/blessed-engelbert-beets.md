@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Engelbert Beets
+stub: false
 honorific: Blessed
 summary: >-
   Joined the Premonstratensians in 1561 in the Averbode monastery near Diest, Brabant, Belgium. Ordained a priest and

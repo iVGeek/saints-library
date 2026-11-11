@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/d/d7/Bas%C3%ADlica_de_Nuestra_Se%C3%B1ora%2C_Ciudad_Ho_Chi_Minh%2C_Vietnam%2C_2013-08-14%2C_DD_03.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Nicolas Bùi Ðuc The
+stub: false
 honorific: Venerable
 summary: >-
   Lifelong layman in the apostolic vicariate of East Tonkin (in modern Vietnam). During the persecutions of emperor Minh

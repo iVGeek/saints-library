@@ -1,5 +1,6 @@
 ---
 name: Saint Bademus
+stub: false
 honorific: Saint
 summary: >-
   Born to the wealthy Persian nobility, Bademus cared little for worldly things, and when he was old enough he founded

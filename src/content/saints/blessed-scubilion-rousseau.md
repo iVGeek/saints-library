@@ -1,5 +1,6 @@
 ---
 name: Blessed Scubilion Rousseau
+stub: false
 honorific: Blessed
 summary: >-
   A pious young man who served as a catechist. Entered the Christian Brothers' noviate in Paris, France on 24 December

@@ -1,5 +1,6 @@
 ---
 name: Venerable Jean-Louis-Marie-Joseph Querbes
+stub: false
 honorific: Venerable
 summary: >-
   The son of a tailor, he was born in the middle of the French Revolution, baptized the day of his birth, and a bomb

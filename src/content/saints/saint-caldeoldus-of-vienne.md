@@ -1,5 +1,6 @@
 ---
 name: Saint Caldeoldus of Vienne
+stub: false
 honorific: Saint
 summary: Archbishop of Vienne, France from 653 to 664. Promoted monasticism in his diocese.
 searchAliases:

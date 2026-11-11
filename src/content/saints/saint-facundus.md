@@ -1,5 +1,6 @@
 ---
 name: Saint Facundus of Sahagun
+stub: false
 honorific: Saint
 summary: Martyr. The monastery of Sahagun, Spain, and the town that grew up around it, were named for him.
 searchAliases:

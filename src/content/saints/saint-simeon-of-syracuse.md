@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Simeon of Syracuse
+stub: false
 honorific: Saint
 summary: >-
   His father was Greek, his mother Calabrian. Educated in Constantinople. Pilgrim to the Holy Lands where he supported

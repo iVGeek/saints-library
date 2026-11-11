@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/1/1c/LuikVlag.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Wolbodó of Liège
+stub: false
 honorific: Blessed
 summary: >-
   May have been born to the Flemish nobility. Educated at the Domschool in Utrecht, Netherlands; he later taught there,

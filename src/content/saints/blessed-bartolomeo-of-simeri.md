@@ -1,5 +1,6 @@
 ---
 name: Blessed Bartolomeo of Simeri
+stub: false
 honorific: Blessed
 summary: >-
   The son of Giorgio and Elena, a pious couple who consecrated the boy to God, and insured he had a good education, both

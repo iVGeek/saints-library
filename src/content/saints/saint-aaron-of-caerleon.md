@@ -1,5 +1,6 @@
 ---
 name: Saint Aaron of Caerleon
+stub: false
 honorific: Saint
 summary: Worked with Saint Julius of Caerleon. Martyred in the persecutions of Diocletian.
 deathYear: 303

@@ -1,5 +1,6 @@
 ---
 name: Blessed Luis de Erdoiza Zamalloa
+stub: true
 honorific: Blessed
 summary: Trinitarian priest. Martyred in the Spanish Civil War.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Luis-de-Erdoiza-Zamalloa.jpg

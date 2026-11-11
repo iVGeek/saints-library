@@ -1,5 +1,6 @@
 ---
 name: Saint Neosnadia
+stub: false
 honorific: Saint
 summary: >-
   Fifth-century woman. Several ancient chapels and churches in the area of Poitiers, France are dedicated to her, and

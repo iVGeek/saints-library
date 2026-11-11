@@ -1,5 +1,6 @@
 ---
 name: Martyrs of Najran
+stub: false
 honorific: Saint
 summary: >-
   342 priests, religious and lay people who were martyred together by order of Dhu Nuwas, king of the Omeritani who had

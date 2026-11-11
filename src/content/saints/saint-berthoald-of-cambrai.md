@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Berthoald of Cambrai
+stub: true
 honorific: Saint
 title: Bishop
 summary: Seventh-century bishop of Cambrai, France.

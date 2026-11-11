@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/b/b9/Condestavel-1554.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Teresa of Ourem
+stub: false
 honorific: Blessed
 summary: >-
   13th century nun, assigned from 1220 until her death to assist the rector of the church in Ourem, Portugal. She was

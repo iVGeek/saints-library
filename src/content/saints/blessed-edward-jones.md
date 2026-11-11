@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/6/64/Saint_Edward%27s_Crown.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Edward Jones
+stub: false
 honorific: Blessed
 summary: >-
   Raised as an Anglican, he converted to Catholicism and was received into the Church at the English College in Rheims,

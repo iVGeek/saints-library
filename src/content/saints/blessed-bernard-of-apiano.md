@@ -1,5 +1,6 @@
 ---
 name: Blessed Bernard of Apiano
+stub: false
 honorific: Blessed
 summary: >-
   Mercedarian at the convent of Saint Martin in Perpignan, France. He was noted for his personal piety, hist observance

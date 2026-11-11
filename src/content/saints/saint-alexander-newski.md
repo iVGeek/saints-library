@@ -1,5 +1,6 @@
 ---
 name: Saint Alexander Newski
+stub: false
 honorific: Saint
 summary: >-
   Grand Duke of Novgorod and Kiev. He defeated the Swedes in battle on the River Neva; from that he derived his surname

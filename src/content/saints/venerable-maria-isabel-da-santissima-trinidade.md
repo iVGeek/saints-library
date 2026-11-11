@@ -1,5 +1,6 @@
 ---
 name: Venerable Maria Isabel da Santissima Trinidade
+stub: true
 honorific: Venerable
 summary: Nun. Founded the Conceptionist Sisters at the Service of the Poor.
 image: https://catholicsaints.info/wp-content/uploads/Maria-Isabel-da-Santissima-Trinidade.jpg

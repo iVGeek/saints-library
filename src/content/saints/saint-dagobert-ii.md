@@ -1,5 +1,6 @@
 ---
 name: Saint Dagobert II
+stub: false
 honorific: Saint
 summary: >-
   Born a Prince, the son of Saint Sigebert III, king of Austrasia, and Chimnechild of Burgundy. Upon Sigebert's death in

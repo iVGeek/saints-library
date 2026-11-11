@@ -1,5 +1,6 @@
 ---
 name: Martyrs of Valeria
+stub: false
 honorific: Saint
 summary: >-
   Two monks martyred by Lombards in Valeria, Italy who were never identified. After the monks were dead, their killers

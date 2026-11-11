@@ -1,5 +1,6 @@
 ---
 name: Blessed José Pavón Bueno
+stub: false
 honorific: Blessed
 summary: >-
   Joined the Claretians in Cervera, Spain in 1927. Priest, ordained on 24 February 1934 in Valencia, Spain. Taught at

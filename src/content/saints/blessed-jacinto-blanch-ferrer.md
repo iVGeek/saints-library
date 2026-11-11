@@ -1,5 +1,6 @@
 ---
 name: Blessed Jacinto Blanch Ferrer
+stub: false
 honorific: Blessed
 summary: >-
   The son of José Blanch Bosch, a secretary, and Maria Ferrer Raurell, Jacinto was baptized on the day of his birth in

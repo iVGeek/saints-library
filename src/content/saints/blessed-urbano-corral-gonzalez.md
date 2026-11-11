@@ -1,5 +1,6 @@
 ---
 name: Blessed Urbano Corral González
+stub: false
 honorific: Blessed
 summary: >-
   Joined the Salesians in Bujedo, Spain in September 1913, making his profession on 2 February 1916. Began teaching at

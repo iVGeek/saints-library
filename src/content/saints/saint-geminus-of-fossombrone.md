@@ -1,5 +1,6 @@
 ---
 name: Saint Geminus of Fossombrone
+stub: true
 honorific: Saint
 summary: Third century martyr. No other information has survived.
 died: martyred at Fossombrone, Italy

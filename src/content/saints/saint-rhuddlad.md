@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Rhuddlad
+stub: true
 honorific: Saint
 summary: Nun. No other information has survived.
 searchAliases:

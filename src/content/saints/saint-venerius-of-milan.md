@@ -1,5 +1,6 @@
 ---
 name: Saint Venerius of Milan
+stub: false
 honorific: Saint
 summary: >-
   Friend of Saint Paulinus of Nola, Saint Delphinus of Bordeaux, and Saint Chromatius of Aquileia. Ordained as a deacon

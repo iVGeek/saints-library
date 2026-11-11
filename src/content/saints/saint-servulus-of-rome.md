@@ -1,5 +1,6 @@
 ---
 name: Saint Servulus of Rome
+stub: false
 honorific: Saint
 summary: >-
   Afflicted from birth with a severe palsy that prevented him from ever standing or even sitting unaided. His family

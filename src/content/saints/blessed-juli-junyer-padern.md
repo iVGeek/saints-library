@@ -1,5 +1,6 @@
 ---
 name: Blessed Juli Junyer Padern
+stub: false
 honorific: Blessed
 summary: >-
   Salesian, making his profession in 1912. Ordained in 1921. Taught philosophy, literature and Gregory chant in Girona,

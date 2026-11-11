@@ -1,5 +1,6 @@
 ---
 name: Pope Saint Adeodatus I
+stub: false
 honorific: Saint
 summary: >-
   Son of Stephen, a subdeacon. Pope. Supported the clergy who were being repressed by the politics of the day, trying to

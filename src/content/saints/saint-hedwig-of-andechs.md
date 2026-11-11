@@ -1,5 +1,6 @@
 ---
 name: Saint Hedwig of Andechs
+stub: false
 honorific: Saint
 summary: >-
   Daughter of Berthold IV, Duke of Merania. Aunt of Saint Elizabeth of Hungary. Married Prince Henry I the Bearded of

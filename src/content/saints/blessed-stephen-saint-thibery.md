@@ -1,5 +1,6 @@
 ---
 name: Blessed Stephen Saint-Thibery
+stub: false
 honorific: Blessed
 summary: >-
   Franciscan Friar Minor. Abbot. Basing their operations in a farmhouse outside Avignonet, France, he and his brother

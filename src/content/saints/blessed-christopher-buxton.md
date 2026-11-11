@@ -1,5 +1,6 @@
 ---
 name: Blessed Christopher Buxton
+stub: false
 honorific: Blessed
 summary: >-
   School and spiritual student of Blessed Nicholas Garlick in Tideswell, England. He began studying for the priesthood

@@ -1,5 +1,6 @@
 ---
 name: Blessed Elisabetta Canori Mora
+stub: false
 honorific: Blessed
 summary: >-
   Born to a wealthy Italian noble family, the daughter of Tommaso and Teresa Primoli. She married Cristoforo Mora on 10

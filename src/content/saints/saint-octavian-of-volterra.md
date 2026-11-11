@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/8/8b/Roman_republic%2C_territory_44_BC.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Octavian of Volterra
+stub: false
 honorific: Saint
 summary: >-
   Octavian, along with Saint Justus, Saint Clemente and a group of other Christian priests and laity, fled North Africa

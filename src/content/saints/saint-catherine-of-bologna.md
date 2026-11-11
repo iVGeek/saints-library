@@ -1,5 +1,6 @@
 ---
 name: Saint Catherine of Bologna
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility of Bologna, Italy, the daughter of a diplomat. Tradition says her father received a vision

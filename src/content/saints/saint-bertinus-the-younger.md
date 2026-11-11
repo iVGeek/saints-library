@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Bertinus the Younger
+stub: false
 honorific: Saint
 summary: Benedictine monk at the abbey of Sithiu, France. Spiritual student of Saint Bertin the Great.
 deathYear: 699

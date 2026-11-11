@@ -1,5 +1,6 @@
 ---
 name: Blessed Fernando Español Berdie
+stub: true
 honorific: Blessed
 summary: Priest in the diocese of Cuenca, Spain. Martyred in the Spanish Civil War.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Fernando-Español-Berdie.jpg

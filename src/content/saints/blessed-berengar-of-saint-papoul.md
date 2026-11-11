@@ -1,5 +1,6 @@
 ---
 name: Blessed Berengar of Saint-Papoul
+stub: false
 honorific: Blessed
 summary: Benedictine monk at the monastery of Saint-Papoul, Toulouse, France. A model of the monastic life, and miracle worker.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Berenger.jpg

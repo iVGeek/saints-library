@@ -1,5 +1,6 @@
 ---
 name: Pope Saint Telesphorus
+stub: false
 honorific: Saint
 summary: >-
   Greek, probably from Calabria. Pope. Celebrated Easter on Sunday but maintained fellowship with communities that did

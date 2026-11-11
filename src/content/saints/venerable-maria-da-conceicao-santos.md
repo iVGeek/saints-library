@@ -1,5 +1,6 @@
 ---
 name: Venerable Maria da Conceição Santos
+stub: false
 honorific: Venerable
 summary: >-
   Maria grew up in a pious home, served as a catechist in her parish, and was known for her singing and guitar playing.

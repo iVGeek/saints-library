@@ -1,5 +1,6 @@
 ---
 name: Saint Athanasia of Timia
+stub: false
 honorific: Saint
 summary: >-
   Married. Her first husband died fighting the Saracens. Her second husband became a monk. Athanasia turned their home

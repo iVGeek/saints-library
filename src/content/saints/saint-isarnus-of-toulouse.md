@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Isarnus of Toulouse
+stub: false
 honorific: Saint
 summary: >-
   Educated at Saint Victor's, Marseilles, France. Benedictine monk at Saint Victor's. As abbot at Saint Victor's he

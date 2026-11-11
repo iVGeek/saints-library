@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Domitian of Lerins
+stub: false
 honorific: Saint
 summary: >-
   Orphaned young, when he was old enough he gave away all his possessions to the poor and became a monk in Rome, Italy.

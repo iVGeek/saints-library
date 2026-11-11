@@ -1,5 +1,6 @@
 ---
 name: Saint Robert Southwell
+stub: false
 honorific: Venerable
 summary: >-
   Raised in a piously Catholic family. Educated at Douai and at Paris, France. Joined the Jesuits in 1580. Prefect of

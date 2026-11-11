@@ -1,5 +1,6 @@
 ---
 name: Saint Swithbert the Younger
+stub: false
 honorific: Saint
 title: Bishop
 summary: Worked with missionaries to Germany. Bishop of Werden, Westphalia (in modern Germany).

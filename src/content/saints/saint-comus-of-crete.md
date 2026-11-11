@@ -1,5 +1,6 @@
 ---
 name: Saint Comus of Crete
+stub: false
 honorific: Saint
 summary: >-
   Monk. An opponent of the monothelite heresy, he withdrew from the world to become a naked, barefoot hermit on the

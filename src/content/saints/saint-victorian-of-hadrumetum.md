@@ -1,5 +1,6 @@
 ---
 name: Saint Victorian of Hadrumetum
+stub: false
 honorific: Saint
 summary: >-
   The wealthiest subject of the Vandal king Hunseric, Victorian served as governor of Carthage with the imperial Roman

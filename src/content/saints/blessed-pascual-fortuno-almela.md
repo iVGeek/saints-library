@@ -1,5 +1,6 @@
 ---
 name: Blessed Pascual Fortuño Almela
+stub: false
 honorific: Blessed
 summary: >-
   Born to a pious, hard-working family, Pascual was baptized at the age of one day. Joined the Franciscan Friar Minor

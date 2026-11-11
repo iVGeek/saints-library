@@ -1,5 +1,6 @@
 ---
 name: Pope Saint Eleuterus
+stub: false
 honorific: Saint
 summary: >-
   Son of Habundius. Deacon under Pope Anicetus and Pope Saint Soter. Chosen 13th Pope c.174. Declared opposition to

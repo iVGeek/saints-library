@@ -1,5 +1,6 @@
 ---
 name: Blessed Estefanía Saldaña Mayoral
+stub: false
 honorific: Blessed
 summary: >-
   Daughters of Charity of Saint Vincent de Paul nun in the Archdiocese of Madrid, Spain, joining on 9 August 1890. She

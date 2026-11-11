@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Castus of Ancyra
+stub: true
 honorific: Saint
 summary: One of a group of seventeen martyrs that died together.
 died: martyred at Ancyra, Galatia (in modern Turkey)

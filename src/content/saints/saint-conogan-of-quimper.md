@@ -1,5 +1,6 @@
 ---
 name: Saint Conogan of Quimper
+stub: true
 honorific: Saint
 summary: Bishop of Quimper, France.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Conogan-of-Quimper.jpg

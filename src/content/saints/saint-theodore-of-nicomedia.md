@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Theodore of Nicomedia
+stub: true
 honorific: Saint
 summary: Martyred in the persecutions of Diocletian.
 died: Nicomedia, Bithynia (in modern Turkey)

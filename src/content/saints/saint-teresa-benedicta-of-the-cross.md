@@ -1,5 +1,6 @@
 ---
 name: Saint Teresa Benedicta of the Cross
+stub: false
 honorific: Saint
 title: St. Teresa Benedicta of the Cross
 summary: >-

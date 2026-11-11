@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Diemut of Saint Gall
+stub: true
 honorific: Saint
 title: Hermit
 summary: Recluse in 12th century Saint Gall, Switzerland.

@@ -1,6 +1,7 @@
 ---
 image: https://www.catholic.org/files/images/saints/611.jpg
 name: Saint Colman of Dromore
+stub: false
 honorific: Saint
 summary: >-
   Knew Saint Patrick. Studied at Noendrum under Saint Mochae of Noendrum, and then under Saint Ailbe of Emly. First

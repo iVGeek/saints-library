@@ -1,5 +1,6 @@
 ---
 name: Blessed Luca da Toro
+stub: false
 honorific: Blessed
 summary: >-
   Born to the 14th-century Castilian nobility. Member of the Mercedarians. Redeemed and freed 118 Christians from

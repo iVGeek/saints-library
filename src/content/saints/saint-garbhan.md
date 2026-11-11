@@ -1,5 +1,6 @@
 ---
 name: Saint Garbhan
+stub: true
 honorific: Saint
 summary: Seventh century abbot at Dungarvan, Ireland.
 born: Irish

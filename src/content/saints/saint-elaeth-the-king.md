@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Elaeth the King
+stub: false
 honorific: Saint
 summary: >-
   Sixth century king in northern Britain. Driven into Wales by the Picts, he surrended authority and became a monk.

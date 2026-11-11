@@ -1,5 +1,6 @@
 ---
 name: Pope Saint Miltiades
+stub: false
 honorific: Saint
 summary: >-
   Pope during the time that Constantine the Great declared tolerance for Christians in the Roman Empire. Counted as a

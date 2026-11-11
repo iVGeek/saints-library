@@ -1,5 +1,6 @@
 ---
 name: Blessed Gil Rodicio y Rodicio
+stub: false
 honorific: Blessed
 summary: >-
   Born to pious family. Joined the Salesians as a co-adjutor brother in Sarria, Barcelona, Spain in 1908. Worked as

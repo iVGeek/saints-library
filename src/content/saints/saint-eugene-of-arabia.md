@@ -1,5 +1,6 @@
 ---
 name: Saint Eugene of Arabia
+stub: false
 honorific: Saint
 summary: >-
   Priest. With Saint Macarius, he was scourged and exiled into the Arabian desert for his faith. When they were strong

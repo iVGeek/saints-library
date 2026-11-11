@@ -1,5 +1,6 @@
 ---
 name: Saint Totnan of Thuringia
+stub: false
 honorific: Saint
 summary: Evangelized Franconia and East Thuringia. Worked and martyred with Saint Kilian and Saint Colman.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Totnan.jpg

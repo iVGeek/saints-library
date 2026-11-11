@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Sabinian of Potenza
+stub: true
 honorific: Saint
 summary: Martyred in the persecutions of Maximian.
 deathYear: 303

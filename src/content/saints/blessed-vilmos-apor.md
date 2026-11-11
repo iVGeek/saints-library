@@ -1,5 +1,6 @@
 ---
 name: Blessed Vilmos Apor
+stub: false
 honorific: Blessed
 summary: >-
   Born to the Hungarian nobility. Ordained on 24 August 1915. Chosen bishop of Gy&otilde;r, Hungary on 21 January 1941

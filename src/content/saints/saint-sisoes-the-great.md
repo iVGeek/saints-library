@@ -1,5 +1,6 @@
 ---
 name: Saint Sisoes the Great
+stub: false
 honorific: Saint
 summary: >-
   Monk at the desert monastery of Scetis in Egypt. In 357, believing the monastery was over-crowded, he became a hermit

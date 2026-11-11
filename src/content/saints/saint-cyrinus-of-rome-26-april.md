@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Cyrinus of Rome
+stub: false
 honorific: Saint
 summary: Martyred in the persecutions of Diocletian. Mentioned in the Acts of Saint Marcellinus, Pope and Martyr.
 died: beheaded

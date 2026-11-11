@@ -1,5 +1,6 @@
 ---
 name: Venerable Pio Giannotti
+stub: false
 honorific: Venerable
 summary: >-
   The second of five children born to Félix and Maria Giannotti, pious Italian peasants; his older brother, Guilherme,

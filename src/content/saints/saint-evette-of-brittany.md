@@ -1,5 +1,6 @@
 ---
 name: Saint Evette of Brittany
+stub: false
 honorific: Saint
 summary: >-
   Sister of Saint Demet of Plozévet. The siblings survived a shipwreck and washed up on the beach of Plozèvet in the bay

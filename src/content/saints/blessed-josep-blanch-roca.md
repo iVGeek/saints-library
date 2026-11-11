@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/7/72/Antoni_Gaudi_1878.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Josep Blanch Roca
+stub: false
 honorific: Blessed
 summary: Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War.
 searchAliases:

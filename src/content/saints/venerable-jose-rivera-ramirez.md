@@ -1,5 +1,6 @@
 ---
 name: Venerable José Rivera Ramírez
+stub: false
 honorific: Venerable
 summary: >-
   Youngest of four children. Studied at the seminary of the Universidad Pontificia Comillas from 1943 to 1948, then in

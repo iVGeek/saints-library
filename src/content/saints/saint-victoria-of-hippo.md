@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Victoria of Hippo
+stub: false
 honorific: Saint
 summary: One of a group of 20 Christians martyred together and celebrated by Saint Augustine.
 died: Hippo, Numidia (in north Africa)

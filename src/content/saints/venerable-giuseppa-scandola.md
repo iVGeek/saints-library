@@ -1,5 +1,6 @@
 ---
 name: Venerable Giuseppa Scandola
+stub: false
 honorific: Venerable
 summary: Nun in the Comboni Missionary Sisters. Missionary in what is today the southern Sudan.
 searchAliases:

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Evellius of Pisa
+stub: false
 honorific: Saint
 summary: >-
   Imperial advisor to emperor Nero. Converted to Christianity after witnessing the courage and faith of martyrs. He left

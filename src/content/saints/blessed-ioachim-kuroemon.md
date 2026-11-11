@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Ioachim Kuroemon
+stub: true
 honorific: Blessed
 summary: Layman catechist in the diocese of Hiroshima, Japan. Martyr.
 birthYear: 1559

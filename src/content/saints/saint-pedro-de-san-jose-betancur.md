@@ -1,5 +1,6 @@
 ---
 name: Saint Pedro de San José Betancur
+stub: false
 honorific: Venerable
 summary: >-
   Born a poor shepherd, Pedro devoted his time with the flocks to prayer. At age thirty-one, he journeyed to Guatemala

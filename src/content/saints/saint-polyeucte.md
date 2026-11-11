@@ -1,5 +1,6 @@
 ---
 name: Saint Polyeucte
+stub: false
 honorific: Saint
 summary: >-
   Pagan soldier in the 12th imperial Roman legion assigned to Armenia in the 3rd century. Friend of Saint Nearchus who

@@ -1,5 +1,6 @@
 ---
 name: Blessed Juan Agustín Codera Marqués
+stub: false
 honorific: Blessed
 summary: >-
   Baptized at the age of 1 day. Member of the Salesians of Don Bosco, taking his vows on 24 July 1919 in Carabanchel

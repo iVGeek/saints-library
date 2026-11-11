@@ -1,5 +1,6 @@
 ---
 name: Saint Benedict of Macerac
+stub: false
 honorific: Saint
 summary: >-
   Monk. Abbot at Petras. Hermit at Macerac, diocese of Nantes, France. His holiness and wisdom attacted so many

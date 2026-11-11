@@ -1,6 +1,7 @@
 ---
 image: https://www.catholic.org/files/images/saints/581.jpg
 name: Saint Fillan
+stub: false
 honorific: Saint
 summary: >-
   Son of Feriach and Saint Kentigerna, and related to Saint Comgan. Became a monk in his youth, taking the habit at

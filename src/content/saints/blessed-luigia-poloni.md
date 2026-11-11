@@ -1,5 +1,6 @@
 ---
 name: Blessed Luigia Poloni
+stub: false
 honorific: Blessed
 summary: >-
   Baptized on the day of her birth, the youngest of the twelve children, she was raised in a pious family, the daughter

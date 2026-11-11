@@ -1,5 +1,6 @@
 ---
 name: Blessed Serapio Sanz Iranzo
+stub: true
 honorific: Blessed
 summary: Mercedarian brother. Martyred in the Spanish Civil War.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Serapio-Sanz-Iranzo.jpg

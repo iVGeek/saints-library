@@ -1,5 +1,6 @@
 ---
 name: Blessed Louise of Savoy
+stub: false
 honorific: Blessed
 summary: >-
   Born to the nobility, the daughter of Blessed Amadeus IX, the duke of Savoy. Cousin of Saint Joan of Valois. Married

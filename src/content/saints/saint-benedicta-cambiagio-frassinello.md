@@ -1,5 +1,6 @@
 ---
 name: Saint Benedicta Cambiagio Frassinello
+stub: false
 honorific: Venerable
 summary: >-
   Daughter of Giuseppe and Francesca Cambiagio, she grew up in Pavia, Italy. At the age of 20 she had a profound

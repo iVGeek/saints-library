@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Rogato of Albitina
+stub: false
 honorific: Saint
 summary: >-
   Two people with the same name who were part of a group of 46 Christians arrested in Albitina, North Africa during

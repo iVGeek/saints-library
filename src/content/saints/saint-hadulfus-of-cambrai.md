@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Hadulfus of Cambrai
+stub: false
 honorific: Saint
 summary: >-
   His father, Ragnulfo, died a martyr. When he was of age, Hadulfus became a monk in the Abbey of St Vaast in Arras; he

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Placid of Autun
+stub: true
 honorific: Saint
 summary: Benedictine monk. Abbot in the basilica of Saint Symphorian at Autun, France.
 searchAliases:

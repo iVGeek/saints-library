@@ -1,5 +1,6 @@
 ---
 name: Saint Titus
+stub: false
 honorific: Saint
 summary: >-
   Disciple of Saint Paul the Apostle. Recipient of a canonical letter from Saint Paul. First bishop of the Church in

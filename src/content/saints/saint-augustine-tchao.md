@@ -1,5 +1,6 @@
 ---
 name: Saint Augustine Tchao
+stub: false
 honorific: Saint
 summary: >-
   Soldier. Escorted Saint Gabriel John Tauin du-Fresse to Beijing, China during his missionary work. Convert to

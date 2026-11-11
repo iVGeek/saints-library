@@ -1,5 +1,6 @@
 ---
 name: Blessed José Estalayo García
+stub: false
 honorific: Blessed
 summary: >-
   Passionist brother, he joined the order in 1928, he made his profession on 29 October 1933. Martyred in the Spanish

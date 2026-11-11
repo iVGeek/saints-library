@@ -1,5 +1,6 @@
 ---
 name: Blessed Kazimierz Tomasz Sykulski
+stub: false
 honorific: Blessed
 summary: >-
   Priest in the diocese of Radom, Poland, serving in the Konskie parish. Imprisoned, tortured, sent to the Auschwitz

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Eigil of Fulda
+stub: false
 honorific: Saint
 summary: >-
   Born to the Bavarian nobility; nephew of Saint Sturmi of Fulda. Educated in Fulda, Germany in the monastery of his

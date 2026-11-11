@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/b/bd/Croix_constantinien.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Beatrice of Belmonte
+stub: false
 honorific: Blessed
 summary: >-
   A member of the royal family of Navarre (in modern Spain), she became a Poor Clare nun who was described as an example

@@ -1,5 +1,6 @@
 ---
 name: Blessed Marcolinus Amanni
+stub: false
 honorific: Blessed
 summary: >-
   Marcolinus joined the Dominican in Forli, Emilia, Italy at the age of ten, and lived under their Rule for 70 years. He

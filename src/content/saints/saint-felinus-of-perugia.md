@@ -1,5 +1,6 @@
 ---
 name: Saint Felinus of Perugia
+stub: true
 honorific: Saint
 summary: Imperial Roman soldier. Martyred in the persecutions of Decius.
 image: https://catholicsaints.info/wp-content/uploads/img-Saints-Felinus-and-Gratian.jpg

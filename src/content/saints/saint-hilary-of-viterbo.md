@@ -1,5 +1,6 @@
 ---
 name: Saint Hilary of Viterbo
+stub: false
 honorific: Saint
 summary: Deacon. Worked with and martyred with Saint Valentine of Viterbo in the persecutions of Diocletian.
 image: https://catholicsaints.info/wp-content/uploads/img-Saints-Hilary-and-Valentine.jpg

@@ -1,5 +1,6 @@
 ---
 name: Blessed Claudio Granzotto
+stub: false
 honorific: Blessed
 summary: >-
   Youngest of nine children in a peasant farming family. His father died when Claudio was nine years old. Drafted into

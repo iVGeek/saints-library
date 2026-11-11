@@ -1,5 +1,6 @@
 ---
 name: Saint Pedro Calungsod
+stub: false
 honorific: Venerable
 summary: >-
   Educated by the Jesuits in the Visayas, a section of the Philippines. Pedro could read, write and speak Visayan,

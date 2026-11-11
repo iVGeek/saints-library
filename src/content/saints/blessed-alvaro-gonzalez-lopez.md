@@ -1,5 +1,6 @@
 ---
 name: Blessed Alvaro González López
+stub: true
 honorific: Blessed
 summary: Trappist cleric. Martyred in the Spanish Civil War.
 image: https://catholicsaints.info/wp-content/uploads/img-Martyred-Cistercians-of-the-Spanish-Civil-War.jpg

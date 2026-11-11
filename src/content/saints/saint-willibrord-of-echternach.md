@@ -1,5 +1,6 @@
 ---
 name: Saint Willibrord of Echternach
+stub: false
 honorific: Saint
 summary: >-
   Son of Saint Hilgis. Educated at Ripon, England and in Ireland under Saint Egbert. Missionary to Friesland and

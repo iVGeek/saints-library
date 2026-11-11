@@ -1,5 +1,6 @@
 ---
 name: Blessed Anton Zogaj
+stub: false
 honorific: Blessed
 summary: >-
   Studied at the Pontifical French Seminary. Ordained on 26 April 1932 in the archdiocese of Tiranë-Durrës, Albania.

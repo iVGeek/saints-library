@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Celeste of Metz
+stub: true
 honorific: Saint
 summary: Priest. Evangelist in the area of Metz, France. Second bishop of Metz.
 searchAliases:

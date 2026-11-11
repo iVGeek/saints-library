@@ -1,5 +1,6 @@
 ---
 name: Blessed Matthaeus Gim Hyeon-u
+stub: false
 honorific: Blessed
 summary: >-
   Brother of Blessed Barnabas Kim Iu. Layman in the apostolic vicariate of Korea. Supported the work of Father James

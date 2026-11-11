@@ -1,5 +1,6 @@
 ---
 name: Saint Adela of Messines
+stub: false
 honorific: Saint
 summary: >-
   Born a princess, the daughter of King Robert the Pious of France. Sister of Henry I. Married to Count Baldwin IV of

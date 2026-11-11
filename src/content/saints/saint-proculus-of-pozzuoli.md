@@ -1,5 +1,6 @@
 ---
 name: Saint Proculus of Pozzuoli
+stub: false
 honorific: Saint
 summary: >-
   Deacon of the church of Pozzuoli, Italy. Imprisoned and martyred in the persecutions of Diocletian for objecting to

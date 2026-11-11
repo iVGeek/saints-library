@@ -1,5 +1,6 @@
 ---
 name: Saint Gianna Beretta Molla
+stub: false
 honorific: Saint
 title: St. Gianna Beretta Molla
 summary: >-

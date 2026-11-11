@@ -1,5 +1,6 @@
 ---
 name: Saint Saturius of Soria
+stub: false
 honorific: Saint
 summary: >-
   Born to the wealthy, Visigoth nobility. When his parents died, Saturio sold his inheritance, gave away the proceeds to

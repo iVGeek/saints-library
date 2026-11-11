@@ -1,5 +1,6 @@
 ---
 name: Blessed Cecilia Butsi
+stub: false
 honorific: Blessed
 summary: >-
   Daughter of Amato Sinuen and Agatha Thep. Worked in the kitchen of a Catholic mission in the archdiocese of Thare and

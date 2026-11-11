@@ -1,5 +1,6 @@
 ---
 name: Saint Nikola Tavelic
+stub: false
 honorific: Saint
 summary: >-
   Franciscan friar. Priest. Missionary to Bosnia for 12 years; reports of the day say that the friars brought 50,000 to

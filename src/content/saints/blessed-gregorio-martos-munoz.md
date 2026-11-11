@@ -1,5 +1,6 @@
 ---
 name: Blessed Gregorio Martos Muñoz
+stub: false
 honorific: Blessed
 summary: >-
   Born to a farm family who had migrated from Válor, Spain to Argentina in search of a better life; Gregorio was

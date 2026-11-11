@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Cyriacus of Lower Moesia
+stub: true
 honorific: Saint
 summary: Martyr. No other information has survived.
 died: on the Black Sea at Lower Moesia (in modern Bulgaria), date unknown

@@ -1,5 +1,6 @@
 ---
 name: Saint Severinus of Agaunum
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility, and taught orthodox Christianity during the period of the Arian heresy. Monk. Abbot in Agaunum

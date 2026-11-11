@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Damian the Missionary
+stub: false
 honorific: Saint
 summary: >-
   Second century missionary from Rome, Italy to the British Isles, sent by Pope Saint Eleutherius at the request of King

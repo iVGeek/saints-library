@@ -1,5 +1,6 @@
 ---
 name: Saint Macrobius
+stub: true
 honorific: Saint
 summary: Martyed in the persecution of emperor Licinius.
 deathYear: 311

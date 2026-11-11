@@ -1,5 +1,6 @@
 ---
 name: Saint Marina of Bithynia
+stub: false
 honorific: Saint
 summary: >-
   Hermitess in 8th century Bithynia (in modern Turkey), wearing a monk's habit. The desert fathers of the time knew her,

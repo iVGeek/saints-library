@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/0/0b/Sant_Eustorgio_di_Milano.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Constantine of Orval
+stub: false
 honorific: Blessed
 summary: >-
   Cistercian monk. Spiritual student of Saint Bernard of Clairvaux. With abbot Roger and several brother monks, he

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Leopardus the Slave
+stub: true
 honorific: Saint
 summary: Slave-servant in the household of Julian the Apostate. Martyr.
 deathYear: 362

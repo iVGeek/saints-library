@@ -1,5 +1,6 @@
 ---
 name: Saint Veronica
+stub: false
 honorific: Saint
 title: St. Veronica
 summary: >-

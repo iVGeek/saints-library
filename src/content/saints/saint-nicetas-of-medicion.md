@@ -1,5 +1,6 @@
 ---
 name: Saint Nicetas of Medicion
+stub: false
 honorific: Saint
 summary: >-
   Monk and abbot of Medicion Abbey in Bithynia (in modern Turkey). He and his brother monks suffered in the persecutions

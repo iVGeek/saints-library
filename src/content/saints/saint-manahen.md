@@ -1,5 +1,6 @@
 ---
 name: Saint Manahen
+stub: false
 honorific: Saint
 summary: >-
   Friend of Herod Antipas. Manahen was one of those who laid hands on Saint Paul and Saint Barnabas, and sent the two

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/0/08/Roma_martires_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Manuel Borrajo Míguez
+stub: false
 honorific: Blessed
 summary: Professed cleric in the Salesians of Don Bosco. Martyred in the Spanish Civil War.
 birthYear: 1915

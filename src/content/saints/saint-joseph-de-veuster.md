@@ -1,5 +1,6 @@
 ---
 name: Saint Joseph de Veuster
+stub: false
 honorific: Venerable
 summary: >-
   Son of a small farmer. Studied at the college at Braine-le-Comte, Belgium. Joined the Picpus Fathers on 7 October

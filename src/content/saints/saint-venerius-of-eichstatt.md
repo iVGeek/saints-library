@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Venerius of Eichstätt
+stub: true
 honorific: Saint
 summary: Martyr.
 died: in Rome, Italy

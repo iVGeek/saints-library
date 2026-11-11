@@ -1,5 +1,6 @@
 ---
 name: Venerable Enrico Medi
+stub: false
 honorific: Venerable
 summary: >-
   The son of Arturo Medi, a physician, and Maria Luisa Mei. When Enrico was about 3 years old, his family moved to

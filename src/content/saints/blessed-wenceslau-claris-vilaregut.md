@@ -1,5 +1,6 @@
 ---
 name: Blessed Wenceslau Clarís Vilaregut
+stub: false
 honorific: Blessed
 summary: >-
   Born to a wealthy farm family. Studied in the Spanish cities of Vic in 1922, then Cervera and Barbastro. Intelligent

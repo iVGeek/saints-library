@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Severinus of Trier
+stub: true
 honorific: Saint
 summary: Bishop of Trier in modern Germany.
 deathYear: 300

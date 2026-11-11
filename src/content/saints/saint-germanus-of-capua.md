@@ -1,5 +1,6 @@
 ---
 name: Saint Germanus of Capua
+stub: false
 honorific: Saint
 summary: >-
   Friend of Saint Benedict of Nursia. Bishop of Capua, Italy. Papal legate to Constantinople to repair the damage caused

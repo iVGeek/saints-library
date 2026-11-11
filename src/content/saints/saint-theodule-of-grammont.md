@@ -1,5 +1,6 @@
 ---
 name: Saint Theodule of Grammont
+stub: false
 honorific: Saint
 summary: >-
   A missionary priest from east of the region, Theodulus became the first known bishop of Sion (Sitten), Switzerland,

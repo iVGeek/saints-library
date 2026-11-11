@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Theodore of Vienne
+stub: false
 honorific: Saint
 summary: >-
   Priest. Monk. Spiritual student of Saint Caesarius of Arles. Abbot of a monastery in Vienne, France. Founded several

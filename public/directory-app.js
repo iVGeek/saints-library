@@ -16,8 +16,10 @@
   var filterPanel = document.getElementById('filter-panel');
   var filterCount = document.getElementById('filter-count');
   var paginationEl = document.getElementById('pagination');
+  var hideStubsEl = document.getElementById('hide-stubs');
 
   var filters = {};
+  var hideStubs = false;
   var currentPage = 1;
   var visibleItems = [];
 
@@ -48,6 +50,7 @@
       filters[group].forEach(function (v) { params.append(group, v); });
     }
     if (search.value.trim()) params.set('q', search.value.trim());
+    if (hideStubs) params.set('stubs', 'hide');
     if (currentPage > 1) params.set('page', String(currentPage));
     var next = params.toString();
     var url = next ? location.pathname + '?' + next : location.pathname;
@@ -73,6 +76,10 @@
     }
     if (params.has('page')) currentPage = Math.max(1, parseInt(params.get('page') || '1', 10));
     if (params.has('sort')) sortEl.value = params.get('sort');
+    if (params.get('stubs') === 'hide') {
+      hideStubs = true;
+      if (hideStubsEl) hideStubsEl.checked = true;
+    }
   }
 
   function matchItem(s) {
@@ -119,6 +126,7 @@
     var q = '';
     if (filters['_search']) filters['_search'].forEach(function (v) { q = v; });
     if (q && s.sh.indexOf(q) === -1) return false;
+    if (hideStubs && s.stb) return false;
     return true;
   }
 
@@ -358,6 +366,8 @@
     for (var k in filters) delete filters[k];
     inputs.forEach(function (input) { input.checked = false; });
     search.value = '';
+    hideStubs = false;
+    if (hideStubsEl) hideStubsEl.checked = false;
     currentPage = 1;
     syncURL();
     applyFilters();
@@ -370,6 +380,14 @@
   if (clearAll) clearAll.addEventListener('click', clearAllFilters);
   if (emptyClear) emptyClear.addEventListener('click', clearAllFilters);
 
+  if (hideStubsEl) {
+    hideStubsEl.addEventListener('change', function () {
+      hideStubs = hideStubsEl.checked;
+      currentPage = 1;
+      syncURL();
+      applyFilters();
+    });
+  }
   parseURL();
   applyFilters();
 })();

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Verona of Mainz
+stub: false
 honorific: Blessed
 summary: >-
   Sister of Blessed Veronus of Lembeek. Having received supernatural knowledge of her brother's death, Verona set out to

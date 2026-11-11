@@ -1,5 +1,6 @@
 ---
 name: Saint Sigfrid of Sweden
+stub: false
 honorific: Saint
 summary: >-
   Priest at York and/or Glastonbury in England. Monk. Evangelized in Norway, Sweden, Denmark. Brought King Olaf of

@@ -1,5 +1,6 @@
 ---
 name: Saint Ðaminh Cam
+stub: false
 honorific: Venerable
 summary: >-
   Priest in the apostolic vicariate of Tonkin (in modern Vietnam). Member of the Fraternity of Dominican Priests. Worked

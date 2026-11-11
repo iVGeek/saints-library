@@ -1,5 +1,6 @@
 ---
 name: Saint Pelagius of Oviedo
+stub: false
 honorific: Saint
 summary: >-
   Left with Moors at age 10 as a hostage for his captured Christian uncle. Three years later, when Pelagius had not been

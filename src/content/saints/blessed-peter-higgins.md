@@ -1,5 +1,6 @@
 ---
 name: Blessed Peter Higgins
+stub: false
 honorific: Blessed
 summary: >-
   Joined the Dominicans in 1622. Priest. Prior of the Dominican house at Naas. He was ordered to acknowledge the English

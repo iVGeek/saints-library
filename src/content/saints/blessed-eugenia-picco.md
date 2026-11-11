@@ -1,5 +1,6 @@
 ---
 name: Blessed Eugenia Picco
+stub: false
 honorific: Blessed
 summary: >-
   Daughter of Giuseppe Picco, a famous touring musician, and Adelaide del Corno. Because her parents lived on the road,

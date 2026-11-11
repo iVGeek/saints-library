@@ -1,5 +1,6 @@
 ---
 name: Blessed Melchor Sánchez Pérez
+stub: true
 honorific: Blessed
 summary: Augustinian Recollect priest. Martyr.
 image: https://catholicsaints.info/wp-content/uploads/img-Augustinian-Martyrs-of-Japan.jpg

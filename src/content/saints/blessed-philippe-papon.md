@@ -1,5 +1,6 @@
 ---
 name: Blessed Philippe Papon
+stub: false
 honorific: Blessed
 summary: >-
   Priest of the diocese of Moulins, France. Imprisoned on a ship in the harbor of Rochefort, France and left to die

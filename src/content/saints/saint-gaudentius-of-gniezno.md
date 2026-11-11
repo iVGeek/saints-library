@@ -1,5 +1,6 @@
 ---
 name: Saint Gaudentius of Gniezno
+stub: false
 honorific: Saint
 summary: >-
   Born into the Bohemia nobility; younger brother of Saint Adalbert of Prague. Following the massacre of his family by a

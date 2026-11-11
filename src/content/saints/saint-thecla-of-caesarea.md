@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Thecla of Caesarea
+stub: false
 honorific: Saint
 summary: Martyred by order of Urban, governor of Palestine, during the persecutions of Diocletian.
 deathYear: 304

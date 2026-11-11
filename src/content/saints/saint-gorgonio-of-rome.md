@@ -1,5 +1,6 @@
 ---
 name: Saint Gorgonio of Rome
+stub: true
 honorific: Saint
 summary: Martyr.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Gorgonio-of-Rome.jpg

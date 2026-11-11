@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Theodotus of Heraclea
+stub: true
 honorific: Saint
 summary: Priest. Martyr.
 died: Heraclea, Thrace

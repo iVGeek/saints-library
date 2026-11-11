@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Martia of Syracuse
+stub: true
 honorific: Saint
 summary: Martyr. No other details have survived.
 died: Syracuse, Sicily, date unknown

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/1/14/Monreale_BW_2012-10-09_09-52-40.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Quiriacus of Palestine
+stub: false
 honorific: Saint
 summary: Hermit in Palestine who lived among several groups of hermits, and was renowned in each one for his holiness.
 searchAliases:

@@ -1,5 +1,6 @@
 ---
 name: Saint Longinus the Centurian
+stub: false
 honorific: Saint
 summary: Soldier who pierced the side of Jesus at the Crucifixion. Convert. Martyred by order of Pontius Pilate.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Longinus-the-Centurian.jpg

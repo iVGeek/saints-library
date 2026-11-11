@@ -1,5 +1,6 @@
 ---
 name: Saint Basil the Younger
+stub: false
 honorific: Saint
 summary: >-
   Hermit near Constantinople. Being a foreigner, and being odd in his appearance and behavior, he was arrested,

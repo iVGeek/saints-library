@@ -1,5 +1,6 @@
 ---
 name: Saint Discolio of Vercelli
+stub: true
 honorific: Saint
 title: Bishop
 summary: Fourth bishop of Vercelli, Italy. No records of his episcopate have survived.

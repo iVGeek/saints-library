@@ -1,5 +1,6 @@
 ---
 name: Blessed Victor Chumillas-Fernández
+stub: false
 honorific: Blessed
 summary: >-
   Son of Alfonso and Catalina Chumillas-Fernández, pious parents of six children; baptized at the age of two days.

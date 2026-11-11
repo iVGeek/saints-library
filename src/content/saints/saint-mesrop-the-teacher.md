@@ -1,5 +1,6 @@
 ---
 name: Saint Mesrop the Teacher
+stub: false
 honorific: Saint
 summary: >-
   Career soldier who retired from the military to become a hermit, monk and preacher. Worked with Saint Isaac the Great

@@ -1,5 +1,6 @@
 ---
 name: Venerable Aureliano of the Blessed Sacrament
+stub: false
 honorific: Venerable
 summary: >-
   Entered the novitiate of the Teresian Carmel of Larrea at age 15, taking the name Aureliano. Ordained at age 23.

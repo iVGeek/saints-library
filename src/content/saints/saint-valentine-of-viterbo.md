@@ -1,5 +1,6 @@
 ---
 name: Saint Valentine of Viterbo
+stub: false
 honorific: Saint
 summary: Priest. Worked with and martyred with Saint Hilary of Viterbo in the persecutions of Diocletian.
 image: https://catholicsaints.info/wp-content/uploads/img-Saints-Hilary-and-Valentine.jpg

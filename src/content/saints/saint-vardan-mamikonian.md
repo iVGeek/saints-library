@@ -1,5 +1,6 @@
 ---
 name: Saint Vardan Mamikonian
+stub: false
 honorific: Saint
 summary: >-
   Born a prince, the son of Hamazasp and Dustr; his maternal grandfather was Isaac, the Armenian katholikos or leader of

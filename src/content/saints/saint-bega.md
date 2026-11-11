@@ -1,5 +1,6 @@
 ---
 name: Saint Bega
+stub: false
 honorific: Saint
 summary: >-
   Born to the Irish royalty. Bega's family arranged her a marriage to the Prince of Norway, but Bega wanted to devote

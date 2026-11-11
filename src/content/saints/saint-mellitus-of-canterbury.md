@@ -1,5 +1,6 @@
 ---
 name: Saint Mellitus of Canterbury
+stub: false
 honorific: Saint
 summary: >-
   Abbot of Saint Andrew's Abbey on the Coelian Hill in Rome, Italy. Sent by Pope Saint Gregory the Great as a missionary

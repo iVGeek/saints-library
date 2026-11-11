@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Dathus of Ravenna
+stub: false
 honorific: Saint
 summary: >-
   Priest. Bishop of Ravenna, Italy during the reign of the Roman emperor Commodus. Elected to the see when a dove

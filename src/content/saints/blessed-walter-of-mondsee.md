@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Walter of Mondsee
+stub: true
 honorific: Blessed
 summary: Benedictine monk. Abbot of the Mondsee monastery in Upper Austria.
 deathYear: 1158

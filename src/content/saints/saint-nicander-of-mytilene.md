@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Nicander of Mytilene
+stub: true
 honorific: Saint
 summary: Martyred in the persecutions of Diocletian.
 deathYear: 300

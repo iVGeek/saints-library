@@ -1,5 +1,6 @@
 ---
 name: Blessed Camille Costa de Beauregard
+stub: false
 honorific: Blessed
 summary: >-
   Raised in a Christian family, Camille lost his faith as a young man, but came back enthusiastically when he had a

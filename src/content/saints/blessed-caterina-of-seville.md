@@ -1,5 +1,6 @@
 ---
 name: Blessed Caterina of Seville
+stub: true
 honorific: Blessed
 summary: Mercedarian nun at the monastery of the Assumption in Seville, Spain.
 image: https://catholicsaints.info/wp-content/uploads/img-Mercedarian-Nuns-of-Seville.jpg

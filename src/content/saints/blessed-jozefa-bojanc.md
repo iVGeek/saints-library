@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/5/5c/Sister_Krizina_Bojac.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Jožefa Bojanc
+stub: false
 honorific: Blessed
 summary: Member of the Daughters of Divine Charity. Martyred while fighting off Chetnik rapists.
 searchAliases:

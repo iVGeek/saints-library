@@ -1,5 +1,6 @@
 ---
 name: Blessed Peter Acotanto
+stub: false
 honorific: Blessed
 summary: >-
   Born to a wealthy Venetian patrician family, he gave away his wealth to the poor and lived a life of penance. Lived as

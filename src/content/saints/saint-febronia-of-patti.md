@@ -1,5 +1,6 @@
 ---
 name: Saint Febronia of Patti
+stub: true
 honorific: Saint
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Febronia-of-Patti.jpg
 born: late 3rd century in Patti, Sicily, Italy

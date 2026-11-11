@@ -1,5 +1,6 @@
 ---
 name: Blessed Fidelis Jerome Chojnacki
+stub: false
 honorific: Blessed
 summary: >-
   Youngest of six children born to Waclaw and Leokadia Spurinska. Raised in a pious family. Studied in public schools

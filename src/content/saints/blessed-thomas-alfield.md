@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/8/8a/One-hundred-and-seven-martyrs-of-england-and-wales.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Thomas Alfield
+stub: false
 honorific: Blessed
 summary: >-
   Educated at Eton and King's College, Cambridge, obtaining his degree in 1568. Raised Protestant, he converted as an

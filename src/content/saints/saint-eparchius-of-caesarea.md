@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Eparchius of Caesarea
+stub: true
 honorific: Saint
 summary: Martyred by Julian the Apostate.
 region: England

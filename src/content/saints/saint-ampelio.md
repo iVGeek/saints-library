@@ -1,5 +1,6 @@
 ---
 name: Saint Ampelio
+stub: false
 honorific: Saint
 summary: >-
   Blacksmith who gave up his work and worldly life to live as a hermit in Thebaid in Egypt. There his chastity was

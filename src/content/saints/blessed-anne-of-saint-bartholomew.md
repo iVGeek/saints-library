@@ -1,5 +1,6 @@
 ---
 name: Blessed Anne of Saint Bartholomew
+stub: false
 honorific: Blessed
 summary: >-
   Worked as a shepherdess in her youth. Lay Carmelite at age 20 under the direction of Saint Teresa of Avila. Anne

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Leonorious of Brittany
+stub: false
 honorific: Saint
 summary: >-
   Born a prince, Son of King Hoel I and Saint Koupaïa. Bishop, consecrated by Saint Dubricius of Wales. Founded the

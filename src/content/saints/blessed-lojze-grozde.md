@@ -1,5 +1,6 @@
 ---
 name: Blessed Lojze Grozde
+stub: false
 honorific: Blessed
 summary: >-
   As he was born out of wedlock, his mother had him baptized him on the day of his birth, but she, his biological

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Reginbold of Muri
+stub: false
 honorific: Blessed
 summary: >-
   Benedictine monk at the monastery of Einsiedeln, Switzerland. Leader of the brothers sent to establish the abbey in

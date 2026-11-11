@@ -1,5 +1,6 @@
 ---
 name: Blessed Maria Euthymia Üffing
+stub: false
 honorific: Blessed
 summary: >-
   One of eleven children of August Üffing and Maria Schmidt, Emma grew up in a pious family in a small town. At 18

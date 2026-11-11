@@ -1,5 +1,6 @@
 ---
 name: Martyrs of Emesa
+stub: false
 honorific: Saint
 summary: Group of Christian women tortured and executed for their faith in the persecutions of the Arab chieftain Mady.
 died: Emesa (modern Homs, Syria)

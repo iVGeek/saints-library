@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Arthelais of Benevento
+stub: false
 honorific: Saint
 summary: >-
   Daughter of Roman imperial proconsul Lucius and Aithuesa. The emperor Justinian desired her, but she had taken vows of

@@ -1,5 +1,6 @@
 ---
 name: Saint Louis Bertrand
+stub: false
 honorific: Saint
 summary: >-
   Relative of Saint Vincent Ferrer. Deeply religious from childhood, Louis joined the Dominicans in 1544 at age 18.

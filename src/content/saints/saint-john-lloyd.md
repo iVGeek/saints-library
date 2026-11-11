@@ -1,5 +1,6 @@
 ---
 name: Saint John Lloyd
+stub: false
 honorific: Venerable
 summary: >-
   Educated at the Royal College of Saint Alban at Valladolid, Spain, entering in 1649. Took the missionary oath on 16

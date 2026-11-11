@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Blasius of Oreto
+stub: true
 honorific: Saint
 summary: Bishop of Oreto, Spain. Martyred in the persecutions of Nero.
 searchAliases:

@@ -1,5 +1,6 @@
 ---
 name: Blessed Vasile Aftenie
+stub: false
 honorific: Blessed
 summary: >-
   Drafted into the army in 1917, Vasile fought in the front in Galacia and Italy in World War I. In 1918 he began

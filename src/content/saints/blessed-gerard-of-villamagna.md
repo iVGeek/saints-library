@@ -1,5 +1,6 @@
 ---
 name: Blessed Gerard of Villamagna
+stub: false
 honorific: Blessed
 summary: >-
   Esquire to a knight. As a Crusader he was captured, later ransomed, and then returned to Italy. Franciscan tertiary.

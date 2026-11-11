@@ -1,5 +1,6 @@
 ---
 name: Blessed Carlo Liviero
+stub: false
 honorific: Blessed
 summary: >-
   Son of a railway worker. Baptized on 30 May 1866. Entered seminary in Padua, Italy in October 1881. Ordained on 22

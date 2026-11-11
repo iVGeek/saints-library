@@ -1,5 +1,6 @@
 ---
 name: Saint Paragorius of Noli
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility. Soldier. Martyr. A late legend makes him an escaped member of the Theban Legend, but that's

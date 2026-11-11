@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Vacz
+stub: true
 honorific: Saint
 summary: Eleventh century hermit in Visegrád, Hungary.
 region: Hungary

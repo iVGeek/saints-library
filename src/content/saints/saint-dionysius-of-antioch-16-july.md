@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Dionysius of Antioch
+stub: true
 honorific: Saint
 summary: Martyr.
 died: Antioch, Syria, date unknown

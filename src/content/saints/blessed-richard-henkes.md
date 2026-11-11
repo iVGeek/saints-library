@@ -1,5 +1,6 @@
 ---
 name: Blessed Richard Henkes
+stub: false
 honorific: Blessed
 summary: >-
   One of eight children in the family of a stone mason. His mother taught the children religion, and would sprinkle them

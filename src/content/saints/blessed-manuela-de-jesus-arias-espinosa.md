@@ -1,5 +1,6 @@
 ---
 name: Blessed Manuela de Jesús Arias Espinosa
+stub: false
 honorific: Blessed
 summary: >-
   Fifth of eight children in her family. Nun, entering the monastery of the Hail Mary in Los Angeles, California in

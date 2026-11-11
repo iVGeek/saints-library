@@ -1,5 +1,6 @@
 ---
 name: Blessed John Adams
+stub: false
 honorific: Blessed
 summary: >-
   Protestant minister. Described as being of average height with dark eyes and a dark beard. Convert to Catholicism.

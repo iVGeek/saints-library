@@ -1,5 +1,6 @@
 ---
 name: Blessed Vivald of Gimignano
+stub: false
 honorific: Blessed
 summary: >-
   Spiritual student of Blessed Bartolo da San Gimignano. Following the death of Blessed Bartolo in 1300, Vivald withdrew

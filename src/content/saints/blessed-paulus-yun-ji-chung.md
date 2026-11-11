@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Paulus Yun Ji-chung
+stub: true
 honorific: Blessed
 summary: Layman martyr in the apostolic vicariate of Korea.
 birthYear: 1759

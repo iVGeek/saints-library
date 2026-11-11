@@ -1,5 +1,6 @@
 ---
 name: Saint Tiburtius of Rome
+stub: false
 honorific: Saint
 summary: >-
   Brother of Saint Valerian. Convert to Christianity. Ministered to Christians imprisoned for their faith. Arrested and

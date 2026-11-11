@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Tassio of Bavaria
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility. Duke of Bavaria (in modern Germany). Founded and endowed many monasteries and churches. Retired

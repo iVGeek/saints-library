@@ -1,5 +1,6 @@
 ---
 name: Saint Caius of Apema
+stub: false
 honorific: Saint
 summary: >-
   Missionary preacher in the area of Apema, Phrygia (part of modern Turkey). Worked with Saint Alexander of Apema.

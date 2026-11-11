@@ -1,5 +1,6 @@
 ---
 name: Saint Joseph of Cupertino
+stub: false
 honorific: Saint
 summary: >-
   Joseph's father, Felice Desa was a poor carpenter who died before the boy was born. Creditors drove his mother,

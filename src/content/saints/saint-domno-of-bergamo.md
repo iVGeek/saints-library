@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Domno of Bergamo
+stub: false
 honorific: Saint
 summary: >-
   Brother of Saint Eusebia of Bergamo; grandson of Saint Domnio of Bergamo. Imprisonsed for his faith during the

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/8/84/Reliquaire_saint_Amadour.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 name: Saint Amadour the Hermit
+stub: true
 honorific: Saint
 searchAliases:
   - Amadour of Lucca

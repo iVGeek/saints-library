@@ -1,5 +1,6 @@
 ---
 name: Saint Fortunatus of North Africa
+stub: true
 honorific: Saint
 summary: Martyr.
 region: England

@@ -1,5 +1,6 @@
 ---
 name: Saint Randoald of Granfield
+stub: false
 honorific: Saint
 summary: >-
   Monk. Prior of Granfield Abbey, Val Moutier, Switzerland. Martyred for interceding with local authorities on behalf of

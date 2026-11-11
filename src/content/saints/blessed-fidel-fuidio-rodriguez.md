@@ -1,5 +1,6 @@
 ---
 name: Blessed Fidel Fuidio Rodriguez
+stub: false
 honorific: Blessed
 summary: Member of the Society of Mary (Marianists). Martyred in the persecutions of the Spanish Civil War.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Fidel-Fuidio-Rodriguez.jpg

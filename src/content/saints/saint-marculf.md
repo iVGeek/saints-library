@@ -1,5 +1,6 @@
 ---
 name: Saint Marculf
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility. Priest. Successful missionary to the pagans of Gaul, but his heart was not in public life.

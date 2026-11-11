@@ -1,5 +1,6 @@
 ---
 name: Blessed Clemente López Yagüe
+stub: true
 honorific: Blessed
 summary: Discalced Carmelite novice. Martyred in the Spanish Civil War.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Clemente-Lopez-Yague.jpg

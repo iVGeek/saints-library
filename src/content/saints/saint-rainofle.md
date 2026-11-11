@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Rainofle
+stub: false
 honorific: Saint
 summary: >-
   Relative of Pepin, Mayor of the Palace to King Dagobert, and a member of the Dagobert court. Wishing to devote herself

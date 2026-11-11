@@ -1,5 +1,6 @@
 ---
 name: Blessed Ricardo Gil Barcelón
+stub: false
 honorific: Blessed
 summary: >-
   One of ten children born to Francesco and Francesca Gil Barcelon. As a young man, he enrolled in the Teruel Normal

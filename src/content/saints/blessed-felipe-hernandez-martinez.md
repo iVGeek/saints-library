@@ -1,5 +1,6 @@
 ---
 name: Blessed Felipe Hernández Martínez
+stub: false
 honorific: Blessed
 summary: >-
   Educated at a Salesian boarding school, Felipe joined the Salesians, trained in Campello, Spain, and made his

@@ -1,5 +1,6 @@
 ---
 name: Saint Perpetuus of Tours
+stub: false
 honorific: Saint
 summary: >-
   Related to Saint Eustachius of Tours and Saint Volusianus of Tours. Bishop of Tours, France for 30 years. Restored

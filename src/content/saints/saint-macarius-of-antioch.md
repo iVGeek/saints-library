@@ -1,5 +1,6 @@
 ---
 name: Saint Macarius of Antioch
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Antioch, Pisidia. Archbishop of Constantinople. Captured by Saracens, but escaped.  He then resigned his see

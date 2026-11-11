@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Simón Miguel Rodríguez
+stub: false
 honorific: Blessed
 summary: >-
   Franciscan lay brother at the college in Chipiona. Friar Minor, taking the name Simón Miguel and making his solemn

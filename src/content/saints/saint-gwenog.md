@@ -1,6 +1,7 @@
 ---
 image: https://www.santiebeati.it/immagini/Thumbs/100032/100032.JPG
 name: Saint Gwenog
+stub: false
 honorific: Saint
 summary: >-
   Nun. A 14th-century church, with a healing well, near Llanwenog, Cardiganshire, Wales is named for Gwenog, but no

@@ -1,5 +1,6 @@
 ---
 name: Saint Mateo Correa-Magallanes
+stub: false
 honorific: Venerable
 summary: >-
   Attended the seminary at Zacatecas, Mexico on a scholarship, beginning 12 January 1881. Ordained on 20 August 1893.

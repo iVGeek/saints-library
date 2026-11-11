@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Isidora of Lentini
+stub: false
 honorific: Saint
 summary: >-
   Born to the Sicilian nobility; sister of Saint Neofyta of Lentini. Married. Mother of Saint Thecla of Lentini. Seized,

@@ -1,5 +1,6 @@
 ---
 name: Saint John Nepomucene
+stub: false
 honorific: Saint
 summary: >-
   While a child, he was cured by the prayers of his parents; they then consecrated him to God. Priest. Known as a great

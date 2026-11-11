@@ -1,5 +1,6 @@
 ---
 name: Noah the Patriarch
+stub: false
 honorific: Saint
 summary: >-
   Son of Lamech, and ninth patriarch of the Sethite line, who, with his family, was saved in the Ark from the Deluge,

@@ -1,6 +1,7 @@
 ---
 image: https://www.catholic.org/files/images/saints/2966.jpg
 name: Saint Donat
+stub: true
 honorific: Saint
 summary: No information has survived.
 searchAliases:

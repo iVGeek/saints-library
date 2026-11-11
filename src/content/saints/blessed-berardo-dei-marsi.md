@@ -1,5 +1,6 @@
 ---
 name: Blessed Berardo dei Marsi
+stub: false
 honorific: Blessed
 summary: >-
   Born to the Italian nobilty, the son of Count Berardo and Countess Theodosia of Carsoli, Italy; great-uncle of Saint

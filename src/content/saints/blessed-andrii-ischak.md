@@ -1,5 +1,6 @@
 ---
 name: Blessed Andrii Ischak
+stub: false
 honorific: Blessed
 summary: >-
   Greek Catholic. Studied at universities in Lviv, Ukraine, and Innsbruck, Austria. Doctor of theology in 1914,

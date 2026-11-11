@@ -1,5 +1,6 @@
 ---
 name: Martyrs of Sicily
+stub: false
 honorific: Saint
 summary: >-
   Seventy-nine Christians martyred together in the persecutions of Diocletian. No other information about them has

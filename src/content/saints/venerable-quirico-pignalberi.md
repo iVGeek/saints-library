@@ -1,5 +1,6 @@
 ---
 name: Venerable Quirico Pignalberi
+stub: false
 honorific: Venerable
 summary: >-
   Youngest of five children born to the peasant family of Egidio Pignalberi and Catherine Proietti. Confirmed on 29

@@ -1,5 +1,6 @@
 ---
 name: Saint Venerius of Tino
+stub: false
 honorific: Saint
 summary: >-
   Hermit, monk and abbot on the Island of Tino near Genoa, Italy. The lighthouse on the island, and Venerius's holy

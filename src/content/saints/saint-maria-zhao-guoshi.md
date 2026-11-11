@@ -1,5 +1,6 @@
 ---
 name: Saint Maria Zhao Guoshi
+stub: false
 honorific: Venerable
 summary: >-
   Married lay woman in the apostolic vicariate of Southeastern Zhili, China. Mother of Saint Rosa Zhao and Saint Maria

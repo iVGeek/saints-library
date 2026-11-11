@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Juan Duarte Martín
+stub: true
 honorific: Blessed
 summary: Deacon in the diocese of Málaga, Spain. Martyred in the Spanish Civil War.
 birthYear: 1912

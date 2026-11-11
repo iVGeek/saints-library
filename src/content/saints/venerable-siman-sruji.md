@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Venerable Siman Sruji
+stub: true
 honorific: Venerable
 summary: Brother in the Salesians of Don Bosco.
 searchAliases:

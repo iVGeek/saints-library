@@ -1,5 +1,6 @@
 ---
 name: Saint Alypius Stylites
+stub: false
 honorific: Saint
 summary: >-
   Deacon. Gave away all his possessions to live first as a monk, and then as a cave hermit and finally as one of the

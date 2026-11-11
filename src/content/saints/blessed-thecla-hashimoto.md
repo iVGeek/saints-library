@@ -1,5 +1,6 @@
 ---
 name: Blessed Thecla Hashimoto
+stub: false
 honorific: Blessed
 summary: Lay woman, married to Blessed Ioannes Hashimoto Tahyoe; mother of four. One of the Martyrs of Kyoto.
 image: https://catholicsaints.info/wp-content/uploads/img-Martyred-Hashimoto-Family.jpg

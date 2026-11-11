@@ -1,5 +1,6 @@
 ---
 name: Blessed Angelus Agostini Mazzinghi
+stub: false
 honorific: Blessed
 summary: >-
   Carmelite in Florence, Italy. Priest. Professor of theology at Florence and Frascati, Italy. First member of the

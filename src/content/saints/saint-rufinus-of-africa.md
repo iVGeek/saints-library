@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Rufinus of Africa
+stub: true
 honorific: Saint
 died: martyred in North Africa
 region: Africa

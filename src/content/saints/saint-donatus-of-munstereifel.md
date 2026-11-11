@@ -1,5 +1,6 @@
 ---
 name: Saint Donatus of Münstereifel
+stub: false
 honorific: Saint
 summary: >-
   Son of Faustus, a non-Christian, and Flaminia, a Christian; his father was saved from a severe illness by the

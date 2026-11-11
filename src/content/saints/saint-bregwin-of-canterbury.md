@@ -1,5 +1,6 @@
 ---
 name: Saint Bregwin of Canterbury
+stub: false
 honorific: Saint
 summary: >-
   Noted spiritual teacher. Archbishop of Canterbury, England in 759. Received the pallium from Pope Paul I in 761.

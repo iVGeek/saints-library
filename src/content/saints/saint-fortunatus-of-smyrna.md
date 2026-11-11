@@ -1,5 +1,6 @@
 ---
 name: Saint Fortunatus of Smyrna
+stub: true
 honorific: Saint
 summary: Deacon. Martyr. No other information has suvived.
 died: at Smyrna (modern Izmir, Turkey)

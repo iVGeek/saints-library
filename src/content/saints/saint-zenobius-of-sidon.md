@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Zenobius of Sidon
+stub: false
 honorific: Saint
 summary: Priest. Martyred in the persecutions of Diocletian for encourging condemned Christians not to abandoned their faith.
 searchAliases:

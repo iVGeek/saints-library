@@ -1,5 +1,6 @@
 ---
 name: Saint Epicharis
+stub: true
 honorific: Saint
 summary: Martyred in the persecutions of Diocletian. No other information has survived.
 died: in Byzantium

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Roswinda
+stub: true
 honorific: Saint
 summary: Sister of Saint Ottilia. Benedictine nun at Hohenburg, Alsace, France.
 died: 8th century of natural causes

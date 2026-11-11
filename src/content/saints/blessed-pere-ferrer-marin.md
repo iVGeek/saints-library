@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/0/07/Engraving_of_Jun%C3%ADpero_Serra_%281787%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Pere Ferrer Marín
+stub: false
 honorific: Blessed
 summary: Professed religious in the Carmelites of the Ancient Observance. Martyred in the Spanish Civil War.
 searchAliases:

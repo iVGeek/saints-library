@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Heraclius the Soldier
+stub: true
 honorific: Saint
 summary: Martyred with Saint Alban in the persecutions of Diocletian.
 deathYear: 303

@@ -1,5 +1,6 @@
 ---
 name: Blessed Pierre-Lucien Claverie
+stub: false
 honorific: Blessed
 summary: >-
   Born to a working class French family living in Algeria. At age 10, Pierre joined the scouts in a troop led by

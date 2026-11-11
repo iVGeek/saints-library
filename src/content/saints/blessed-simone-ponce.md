@@ -1,5 +1,6 @@
 ---
 name: Blessed Simone Ponce
+stub: false
 honorific: Blessed
 summary: >-
   Mercedarian friar. Assigned to the Andalusia region of modern Spain, he suffered abuse from the Moors, but managed to

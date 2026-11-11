@@ -1,5 +1,6 @@
 ---
 name: Saint Maria Soledad Torres Acosta
+stub: false
 honorific: Venerable
 summary: >-
   Daughter of Francis Torres and Antonia Acosta, who ran a small business. From her youth, Emanuela felt a call to the

@@ -1,5 +1,6 @@
 ---
 name: Blessed Robert of Arbrissel
+stub: false
 honorific: Blessed
 summary: >-
   Son of a village priest, he became a priest himself. Archpriest at Rennes, France where he was known both as a

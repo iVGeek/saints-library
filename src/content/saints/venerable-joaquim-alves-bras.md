@@ -1,5 +1,6 @@
 ---
 name: Venerable Joaquim Alves Brás
+stub: false
 honorific: Venerable
 summary: >-
   Priest in the patriarchate of Lisbon, Portugal. Founded the Secular Institute of the Cooperators of the Family.

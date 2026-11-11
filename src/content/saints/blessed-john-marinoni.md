@@ -1,5 +1,6 @@
 ---
 name: Blessed John Marinoni
+stub: false
 honorific: Blessed
 summary: >-
   Priest. Canon of Saint Mark's cathedral, Venice, Italy. In 1530 he gave up his position to work with Saint Cajetan,

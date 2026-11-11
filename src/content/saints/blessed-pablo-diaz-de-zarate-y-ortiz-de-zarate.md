@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/b/ba/Antequera_-_Convento_de_San_Jos%C3%A9_%28Carmelitas_Descalzas%29_11.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Pablo Díaz de Zárate y Ortiz de Zárate
+stub: false
 honorific: Blessed
 summary: >-
   Professed religious in the Brothers of the Christian Schools (De La Salle Brothers). Martyred in the Spanish Civil

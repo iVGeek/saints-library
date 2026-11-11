@@ -1,5 +1,6 @@
 ---
 name: Blessed Józef Kut
+stub: false
 honorific: Blessed
 summary: >-
   Parish priest in Goscieszyn, archdiocese of Poznan, Poland. Arrested October  by the Gestapo during the Nazi

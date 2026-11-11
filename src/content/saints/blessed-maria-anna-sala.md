@@ -1,5 +1,6 @@
 ---
 name: Blessed Maria Anna Sala
+stub: false
 honorific: Blessed
 summary: >-
   Daughter of Giovanni and Giovannina Sala; fifth of eight children in a pious family. Educated in the convent school by

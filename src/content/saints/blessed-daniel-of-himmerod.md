@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/47/Neonaziaufmarsch_in_Muenchen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Daniel of Himmerod
+stub: true
 honorific: Blessed
 summary: Cistercian monk. No other information has survived.
 searchAliases:

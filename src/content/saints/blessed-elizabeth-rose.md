@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/3/33/Simone_Martini_046.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Elizabeth Rose
+stub: false
 honorific: Blessed
 summary: >-
   Benedictine nun at Chelles, France. Founded the convent of Sainte-Marie-du-Rozoy, near Courtenay, Loiret, France, and

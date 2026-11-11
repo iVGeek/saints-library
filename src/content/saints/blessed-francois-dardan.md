@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/4f/Frm_beatification_banner.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed François Dardan
+stub: false
 honorific: Blessed
 summary: >-
   Ordained a priest in the archdiocese of Paris, France on 5 June 1762. He taught at and served as director of the the

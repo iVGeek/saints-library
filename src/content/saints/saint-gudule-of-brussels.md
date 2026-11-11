@@ -1,5 +1,6 @@
 ---
 name: Saint Gudule of Brussels
+stub: false
 honorific: Saint
 summary: >-
   Daughter of Count Witger and Saint Amalburga; great-niece of Emperor Pepin; sister of Saint Pharaildis of Ghent, Saint

@@ -1,5 +1,6 @@
 ---
 name: Saint Phocas the Gardener
+stub: false
 honorific: Saint
 summary: >-
   Innkeeper. Gardener. Martyr. Used surplus crops to feed the poor. Even cared for the soldiers sent to execute him for

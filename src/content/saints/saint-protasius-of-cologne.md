@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Protasius of Cologne
+stub: true
 honorific: Saint
 summary: Martyr honoured in Cologne, Germany. His details have not survived.
 region: Germany

@@ -1,5 +1,6 @@
 ---
 name: Saint Claudianus of Egypt
+stub: true
 honorific: Saint
 summary: Exiled to Egypt in 249. Tortured and martyred in the persecutions of Numerian.
 deathYear: 283

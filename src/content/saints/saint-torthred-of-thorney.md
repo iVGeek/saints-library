@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Torthred of Thorney
+stub: true
 honorific: Saint
 summary: Hermit and monk at Thorney Abbey. Martyr.
 deathYear: 869

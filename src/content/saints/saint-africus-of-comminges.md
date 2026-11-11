@@ -1,5 +1,6 @@
 ---
 name: Saint Africus of Comminges
+stub: true
 honorific: Saint
 summary: Seventh century bishop of Comminges, France.
 searchAliases:

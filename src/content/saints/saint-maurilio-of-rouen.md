@@ -1,5 +1,6 @@
 ---
 name: Saint Maurilio of Rouen
+stub: false
 honorific: Saint
 summary: >-
   Born to the Gallic nobility. Studied theology in Liege, Belgium and in Saxony in modern Germany; member of the

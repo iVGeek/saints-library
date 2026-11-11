@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Muritta of Carthage
+stub: false
 honorific: Saint
 summary: Exiled from Carthage, North Africa to the desert of Tripoli by Arian Vandals. Martyr.
 deathYear: 505

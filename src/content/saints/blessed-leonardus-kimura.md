@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/b/b5/Martyrdom-of-Leonardo-Kimura-with-4-Christians-in-Nagasaki-Nov-18-1619-%28made-c1626%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Leonardus Kimura
+stub: false
 honorific: Blessed
 summary: >-
   His grandfather was the first Japanese person baptized by Saint Francis Xavier, and Leonard was raised Christian; he

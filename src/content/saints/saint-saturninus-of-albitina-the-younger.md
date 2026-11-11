@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Saturninus of Albitina the Younger
+stub: false
 honorific: Saint
 summary: >-
   Son of Saint Saturninus of Albitinia the Elder. Lector. One of a group of 46 Christians arrested in Albitina, North

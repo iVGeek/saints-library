@@ -1,5 +1,6 @@
 ---
 name: Blessed Walter Pierson
+stub: false
 honorific: Blessed
 summary: >-
   Carthusian lay brother in the London Charterhouse. Arrested with his brothers for opposing the takeover of the Church

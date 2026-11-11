@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Dionysius of Ruthenia
+stub: true
 honorific: Saint
 summary: Monk in Ruthenia (in modern Ukraine).
 deathYear: 1100

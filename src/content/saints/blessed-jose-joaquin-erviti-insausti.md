@@ -1,5 +1,6 @@
 ---
 name: Blessed José Joaquín Erviti Insausti
+stub: false
 honorific: Blessed
 summary: >-
   Redemptorist brother, joinin on 24 February 1930, and making his solemn profession on 24 February 1935. Martyred in

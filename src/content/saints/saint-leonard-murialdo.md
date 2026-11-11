@@ -1,5 +1,6 @@
 ---
 name: Saint Leonard Murialdo
+stub: false
 honorific: Venerable
 summary: >-
   Born to a wealthy, pious family. Studied at the University of Turin, and the College of Saint Sulpice in Paris,

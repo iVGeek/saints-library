@@ -1,5 +1,6 @@
 ---
 name: Blessed Gerardesca of Pisa
+stub: false
 honorific: Blessed
 summary: >-
   Lay woman who married young and had several children. She eventually convinced her husband to become a Camaldolese

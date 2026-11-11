@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/3/3e/Elena_Colosseo_Rome_Italy.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Antonina of Constantinople
+stub: false
 honorific: Saint
 summary: >-
   Consecrated virgin. In the persecutions of Maximian, she changed clothes and places with Saint Alexander of

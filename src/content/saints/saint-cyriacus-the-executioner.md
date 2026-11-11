@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Cyriacus the Executioner
+stub: false
 honorific: Saint
 summary: >-
   By order of governor Hadrian, he executed Saint Antiochus of Sebaste. When he saw the resolve of the Christians and

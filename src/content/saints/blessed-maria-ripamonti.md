@@ -1,5 +1,6 @@
 ---
 name: Blessed Maria Ripamonti
+stub: false
 honorific: Blessed
 summary: >-
   Youngest of four children in her family; her father's name was Ferdinando, and Maria was baptized when she was 4 days

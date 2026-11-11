@@ -1,5 +1,6 @@
 ---
 name: Saint Brigid of Fiesole
+stub: false
 honorific: Saint
 summary: >-
   Sister of Saint Andrew of Fiesole. Hermitess in the Apennines mountains of Italy. Legend says that when her brother

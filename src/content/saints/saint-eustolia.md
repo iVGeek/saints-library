@@ -1,5 +1,6 @@
 ---
 name: Saint Eustolia
+stub: false
 honorific: Saint
 summary: Seventh-century nun. May have been the daughter of Emperor Maurice of Constantinople.
 region: Turkey

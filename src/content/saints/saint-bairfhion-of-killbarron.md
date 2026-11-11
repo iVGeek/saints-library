@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Bairfhion of Killbarron
+stub: false
 honorific: Saint
 summary: >-
   Led the church founded by Saint Columba in Drum Cullen, Offaly, Ireland in the 6th century. Later lived in Killbarron

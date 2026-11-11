@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/a/a6/Krakow_WawelCathedral_A15.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Ermentrude of Liège
+stub: false
 honorific: Blessed
 summary: 13th century Cistercian nun. Spiritual student and close confidant of Blessed Juliana of Mont Cornillon.
 region: Italy

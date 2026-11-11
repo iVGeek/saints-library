@@ -1,5 +1,6 @@
 ---
 name: Saint Crescens of Galatia
+stub: false
 honorific: Saint
 summary: >-
   First century disciple of the Apostles. Companion of Saint Paul the Apostle during his second Roman captivity; he left

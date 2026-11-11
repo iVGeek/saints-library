@@ -1,5 +1,6 @@
 ---
 name: Saint Emerentiana
+stub: false
 honorific: Saint
 summary: >-
   Foster-sister of Saint Agnes of Rome. Catechumen. While on her way to pray at Saint Agnes's grave a few days after her

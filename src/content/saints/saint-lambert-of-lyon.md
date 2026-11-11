@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Lambert of Lyon
+stub: false
 honorific: Saint
 summary: >-
   Raised in the court of Clotaire III. Benedictine monk at Fontenelle Abbey. Worked with Saint Wandrille. Abbot of

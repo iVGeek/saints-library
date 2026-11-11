@@ -1,5 +1,6 @@
 ---
 name: Martyrs of Nicopolis
+stub: false
 honorific: Saint
 summary: >-
   A group of Christians martyred together. No details about them have survived except the names - Alexander, Carisius

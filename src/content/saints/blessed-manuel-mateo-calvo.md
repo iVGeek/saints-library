@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Manuel Mateo Calvo
+stub: true
 honorific: Blessed
 summary: Member of the Christian Brothers. Martyred in the Spanish Civil War.
 searchAliases:

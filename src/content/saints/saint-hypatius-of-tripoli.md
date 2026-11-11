@@ -1,5 +1,6 @@
 ---
 name: Saint Hypatius of Tripoli
+stub: true
 honorific: Saint
 summary: Soldier. Convert, brought to the faith by Saint Leontius of Tripoli. Martyr.
 image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Tripoli.jpg

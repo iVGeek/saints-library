@@ -1,5 +1,6 @@
 ---
 name: Blessed Tomás Carbonell Miquel
+stub: true
 honorific: Blessed
 summary: Mercedarian priest. Martyred in the Spanish Civil War.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Tomás-Carbonell-Miquel.jpg

@@ -1,5 +1,6 @@
 ---
 name: Saint Richard Gwyn
+stub: false
 honorific: Venerable
 summary: >-
   Cambridge educated. Teacher. Renounced Protestantism, and converted. Imprisoned and martyred for his profession of

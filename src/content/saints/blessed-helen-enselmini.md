@@ -1,5 +1,6 @@
 ---
 name: Blessed Helen Enselmini
+stub: false
 honorific: Blessed
 summary: >-
   Became a Poor Clare nun at age 12, receiving the veil from Saint Francis of Assisi himself at Arcella. Had the gift of

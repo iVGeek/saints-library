@@ -1,5 +1,6 @@
 ---
 name: Blessed Edward James
+stub: false
 honorific: Blessed
 summary: >-
   Raised Protestant. Educated at Saint John's College, Oxford, but was not awarded a degree because he would not

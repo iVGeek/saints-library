@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/7/7a/Salome_with_the_Head_of_John_the_Baptist-Caravaggio_%281610%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Nicephorus of Antioch
+stub: true
 honorific: Saint
 summary: Martyred in the persecutions of Valerian.
 searchAliases:

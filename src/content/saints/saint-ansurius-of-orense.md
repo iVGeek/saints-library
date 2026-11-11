@@ -1,5 +1,6 @@
 ---
 name: Saint Ansurius of Orense
+stub: false
 honorific: Saint
 summary: >-
   Benedictine monk. Bishop of Orense, Galacia, Spain in 915. Founded the abbey of Ribas de Sil. In 922 he retired from

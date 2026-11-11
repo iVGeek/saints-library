@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Valens of Verona
+stub: true
 honorific: Saint
 summary: Priest. Bishop of Verona, Italy from 5 November 522 until his death.
 searchAliases:

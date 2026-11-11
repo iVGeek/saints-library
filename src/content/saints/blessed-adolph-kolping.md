@@ -1,5 +1,6 @@
 ---
 name: Blessed Adolph Kolping
+stub: false
 honorific: Blessed
 summary: >-
   Son of a poor shepherd. Apprenticed to a shoemaker. Studied in Munich, Bonn and Cologne in Germany. Ordained on 10

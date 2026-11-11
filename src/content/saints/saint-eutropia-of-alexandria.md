@@ -1,5 +1,6 @@
 ---
 name: Saint Eutropia of Alexandria
+stub: false
 honorific: Saint
 summary: >-
   Ordered by a imperial Roman judge to deny Christ, he refused. Torn with metal hooks and burned to force him to change

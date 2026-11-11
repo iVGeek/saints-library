@@ -1,5 +1,6 @@
 ---
 name: Saint Aggai
+stub: false
 honorific: Saint
 summary: >-
   Royal jeweler to King Abgar the Black. Converted by Saint Addai. Bishop, and successor to Saint Addai as evangelist.

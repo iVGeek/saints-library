@@ -1,5 +1,6 @@
 ---
 name: Blessed Peter the Venerable
+stub: false
 honorific: Venerable
 summary: >-
   Born to the French nobility. Benedictine monk at Cluny Abbey, and at several sister houses. Abbot of Cluny in 1122.

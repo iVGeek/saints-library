@@ -1,5 +1,6 @@
 ---
 name: Blessed Jak Bushati
+stub: false
 honorific: Blessed
 summary: >-
   Studied at the Pontifical Seminary of Shkodrë, Albania. Ordained on 19 May 1915 as a priest of the archdiocese of

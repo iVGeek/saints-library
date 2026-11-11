@@ -1,5 +1,6 @@
 ---
 name: Venerable Antonietta Giugliano
+stub: false
 honorific: Venerable
 summary: >-
   Spiritual student of Venerable Vincenzo del Prete. Founded the Congregation of the Little Servants of Christ the King

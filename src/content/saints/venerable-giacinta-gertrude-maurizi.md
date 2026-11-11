@@ -1,5 +1,6 @@
 ---
 name: Venerable Giacinta Gertrude Maurizi
+stub: false
 honorific: Venerable
 summary: >-
   Born to a prominent Roman family, the daughter of Ambrogio Maurizi, secretary of Cardinal Orsini, and Anna Lucia

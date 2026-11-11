@@ -1,5 +1,6 @@
 ---
 name: Blessed Margaret of Ravenna
+stub: false
 honorific: Blessed
 summary: >-
   Nearly blind. Pious youth, given to severe, self-imposed austerities. She attracted followers, and founded a religious

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Nazarius of Lérins
+stub: true
 honorific: Saint
 summary: Monk and later abbot of Lérins Abbey in France.
 deathYear: 450

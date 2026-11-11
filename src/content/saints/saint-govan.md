@@ -1,5 +1,6 @@
 ---
 name: Saint Govan
+stub: false
 honorific: Saint
 summary: >-
   Sixth century hermit who lived on the face of a cliff at Saint Govan's Head, Dyfed, Wales; his stone hut survives

@@ -1,5 +1,6 @@
 ---
 name: Blessed Riccardo of Lotaringia
+stub: false
 honorific: Blessed
 summary: >-
   Spiritual student of Radolfo in Laon, France. He was so moved by a sermon of Saint Norbert of Xanten that he followed

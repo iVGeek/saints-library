@@ -1,5 +1,6 @@
 ---
 name: Saint Diodorus of Emesa
+stub: true
 honorific: Saint
 summary: Martyr.
 born: Emesa, Phoenicia (modern Homs, Syria)

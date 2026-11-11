@@ -1,5 +1,6 @@
 ---
 name: Blessed Alfons Maria Mazurek
+stub: false
 honorific: Blessed
 summary: >-
   Discalced Carmelite friar, taking the name Alfons Maria of the Holy Spirit. Ordained in July 1916. Teacher and noted

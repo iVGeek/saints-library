@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Fionnchu of Bangor
+stub: true
 honorific: Saint
 summary: Sixth century abbot at Bangor, Ireland.
 region: Ireland

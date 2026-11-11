@@ -1,5 +1,6 @@
 ---
 name: Saint Pierre Rose Ursule Dumoulin Borie
+stub: false
 honorific: Venerable
 summary: >-
   Studied at the seminary of the Paris Foreign Missions Society, beginning in 1829. Ordained in 1832. Missionary to

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Venerable Teresa Toda Juncosa
+stub: false
 honorific: Venerable
 summary: Nun Co-founded the Hermanas Carmelitas Teresas de San José (Teresian Carmelite Sisters of Saint Joseph).
 searchAliases:

@@ -1,5 +1,6 @@
 ---
 name: Saint Victor of Cologne
+stub: false
 honorific: Saint
 summary: >-
   Soldier in the Theban Legion. He escaped the massacre of his fellow Legionaires only to be arrested in Cologne,

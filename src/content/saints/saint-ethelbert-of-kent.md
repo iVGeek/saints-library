@@ -1,5 +1,6 @@
 ---
 name: Saint Ethelbert of Kent
+stub: false
 honorific: Saint
 summary: >-
   Son of Eormenric; great-grandson of Hengist, Saxon conqueror of Britain. Raised as a pagan worshipper of Odin. King of

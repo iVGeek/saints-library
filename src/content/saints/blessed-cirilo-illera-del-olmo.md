@@ -1,5 +1,6 @@
 ---
 name: Blessed Cirilo Illera del Olmo
+stub: false
 honorific: Blessed
 summary: >-
   Grew up with an uncle who was a priest. Joined the Congregation of San Pedro ad Víncula in Barcelona, Spain in 1901.

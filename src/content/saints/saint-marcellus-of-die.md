@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Marcellus of Die
+stub: false
 honorific: Saint
 summary: >-
   Younger brother of Saint Petronius of Die, who ensured Marcellus' education. Bishop of Die, France, consecrated by

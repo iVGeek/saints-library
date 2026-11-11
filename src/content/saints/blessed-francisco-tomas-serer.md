@@ -1,5 +1,6 @@
 ---
 name: Blessed Francisco Tomás Serer
+stub: false
 honorific: Blessed
 summary: >-
   Son of Antonio and Dolores. Studied with Capuchin tertiaries. Joined the Capuchin Tertiary Fathers and Brothers of Our

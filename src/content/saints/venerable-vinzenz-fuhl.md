@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Venerable Vinzenz Fuhl
+stub: true
 honorific: Venerable
 summary: Augustinian priest.
 searchAliases:

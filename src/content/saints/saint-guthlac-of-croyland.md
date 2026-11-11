@@ -1,5 +1,6 @@
 ---
 name: Saint Guthlac of Croyland
+stub: false
 honorific: Saint
 summary: >-
   Born to the Mercian nobility, the son of Penwald; brother of Saint Pega of Peakirk. Soldier for nine years in the army

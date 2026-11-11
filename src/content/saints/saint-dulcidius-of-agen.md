@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Dulcidius of Agen
+stub: false
 honorific: Saint
 title: Bishop
 summary: >-

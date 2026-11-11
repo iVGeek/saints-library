@@ -1,5 +1,6 @@
 ---
 name: Blessed Francesco Paleari
+stub: false
 honorific: Blessed
 summary: >-
   Priest. Member of the Society of the Priests of Saint Joseph Benedict Cottolengo. Noted preacher and deeply involved

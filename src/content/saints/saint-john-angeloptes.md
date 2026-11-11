@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint John Angeloptes
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Ravenna, Italy in 430. Metropolitan of Aemilia and Flaminia. Once received a vision of an angel who helped

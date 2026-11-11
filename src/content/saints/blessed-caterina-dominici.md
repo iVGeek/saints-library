@@ -1,5 +1,6 @@
 ---
 name: Blessed Caterina Dominici
+stub: false
 honorific: Blessed
 summary: >-
   Member of the Sisters of Saint Anne for 44 years, entering in November 1850 and taking the name Sister Mary Henrietta.

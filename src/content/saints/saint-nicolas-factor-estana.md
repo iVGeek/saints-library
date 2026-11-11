@@ -1,5 +1,6 @@
 ---
 name: Saint Nicolás Factor-Estaña
+stub: false
 honorific: Saint
 summary: >-
   The son of a tailor, Nicholas joined the Franciscans in 1537 and became a well-known, highly admired and sought after

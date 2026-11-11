@@ -1,5 +1,6 @@
 ---
 name: Saint Alphege of Winchester
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility but gave it up to become a young monk at Deerhurst Abbey in Gloucestershire, England. Monk,

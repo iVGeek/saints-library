@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Dorotheus of Tarsus
+stub: true
 honorific: Saint
 summary: Martyred in Tarsus, Cilicia. No other information has survived.
 region: England

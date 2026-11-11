@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/0/07/Engraving_of_Jun%C3%ADpero_Serra_%281787%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Francis Galvez
+stub: false
 honorific: Blessed
 summary: >-
   Joined the Franciscan Friars Minor in 1591. Missionary to Manila, Philippines in 1609. Missionary to Japan in 1612.

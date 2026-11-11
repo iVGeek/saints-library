@@ -1,5 +1,6 @@
 ---
 name: Saint Brachio of Auvergne
+stub: false
 honorific: Saint
 title: Hermit
 summary: >-

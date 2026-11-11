@@ -1,5 +1,6 @@
 ---
 name: Blessed Josep Albareda Ramoneda
+stub: false
 honorific: Blessed
 summary: >-
   Older brother of Cardinal Joaquín Anselmo María Albareda. Benedictine (Subiaco Congregation) monk at the abbey of

@@ -1,5 +1,6 @@
 ---
 name: Blessed Alvarus Garcia
+stub: false
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Cronica_del_famoso_cavallero_cid_ruydiez.djvu/page1-960px-Cronica_del_famoso_cavallero_cid_ruydiez.djvu.jpg
 honorific: Blessed

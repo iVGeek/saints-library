@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Vaughe of Ireland
+stub: false
 honorific: Saint
 summary: >-
   Priest in the diocese of Armagh, Ireland. When he heard rumours that he was going to be chosen bishop of Armagh,

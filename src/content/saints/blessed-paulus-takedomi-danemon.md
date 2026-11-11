@@ -1,5 +1,6 @@
 ---
 name: Blessed Paulus Takedomi Dan'Emon
+stub: false
 honorific: Blessed
 summary: Young layman in the archdiocese of Nagasaki, Japan. Son of Blessed Leo Takedomi Kan'Emon. One of the Martyrs of Arima.
 image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Arima.jpg

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Paschasius of Rome
+stub: true
 honorific: Saint
 summary: Deacon in Rome, Italy. Wrote on theology.
 deathYear: 512

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Athernaise of Fife
+stub: true
 honorific: Saint
 summary: Confessor of the faith in Fife, Scotland.
 searchAliases:

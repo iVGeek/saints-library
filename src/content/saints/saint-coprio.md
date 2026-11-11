@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Coprio
+stub: false
 honorific: Saint
 summary: >-
   Abandoned as an infant on a dungheap (Greek: koprìa) by his parents, the boy was found and rescued by monks of the

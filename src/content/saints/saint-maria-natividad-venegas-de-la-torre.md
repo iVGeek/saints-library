@@ -1,5 +1,6 @@
 ---
 name: Saint María Natividad Venegas de La Torre
+stub: false
 honorific: Venerable
 summary: >-
   Youngest of twelve children in a pious Bible-reading, Rosary-praying family; her father was an accountant and her

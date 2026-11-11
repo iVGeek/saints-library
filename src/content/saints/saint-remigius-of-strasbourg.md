@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Remigius of Strasbourg
+stub: false
 honorific: Saint
 title: Bishop
 summary: >-

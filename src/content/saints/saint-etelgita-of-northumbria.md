@@ -1,6 +1,7 @@
 ---
 image: https://www.santiebeati.it/immagini/Thumbs/99673/99673.jpg
 name: Saint Etelgita of Northumbria
+stub: true
 honorific: Saint
 summary: Nun and then abbess in Northumberland, England; we do not know at what house.
 searchAliases:

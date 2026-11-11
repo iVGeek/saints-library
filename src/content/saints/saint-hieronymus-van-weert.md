@@ -1,5 +1,6 @@
 ---
 name: Saint Hieronymus van Weert
+stub: false
 honorific: Saint
 summary: >-
   Franciscan missionary to Palestinian Muslims. Returning to Europe, he preached forcefully against Calvinism. Vicar of

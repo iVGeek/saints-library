@@ -1,5 +1,6 @@
 ---
 name: Blessed Bibiana Khamphai
+stub: false
 honorific: Blessed
 summary: >-
   Daughter of Lon and Monica Di Benedetto. Pious girl, dedicated to the sacraments, and attended the Catholic mission of

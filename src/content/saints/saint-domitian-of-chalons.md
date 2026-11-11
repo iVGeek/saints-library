@@ -1,6 +1,7 @@
 ---
 image: https://www.catholic.org/files/images/saints/2951.jpg
 name: Saint Domitian of Châlons
+stub: true
 honorific: Saint
 summary: Fourth-century bishop of Châlons-sur-Marne, France.
 region: France

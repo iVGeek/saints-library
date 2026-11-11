@@ -1,5 +1,6 @@
 ---
 name: Saint Daniel the Stylite
+stub: false
 honorific: Saint
 summary: >-
   Monk at Samosata on the Upper Euphrates River at the age of twelve. When chosen abbot by his brothers, he declined. He

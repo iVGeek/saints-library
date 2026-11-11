@@ -1,5 +1,6 @@
 ---
 name: Saint Sylvester Gozzolini
+stub: false
 honorific: Saint
 summary: >-
   Born to the Italian nobility. Began the study of civil law in Bologna and Padua in Italy in 1197. Renouncing civil

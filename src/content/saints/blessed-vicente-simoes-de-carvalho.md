@@ -1,5 +1,6 @@
 ---
 name: Blessed Vicente Simões de Carvalho
+stub: true
 honorific: Blessed
 summary: Augustinian priest. Martyr.
 image: https://catholicsaints.info/wp-content/uploads/img-Augustinian-Martyrs-of-Japan.jpg

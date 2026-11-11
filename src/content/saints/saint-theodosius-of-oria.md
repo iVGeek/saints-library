@@ -1,5 +1,6 @@
 ---
 name: Saint Theodosius of Oria
+stub: false
 honorific: Saint
 summary: >-
   Educated in Oria, Brindisi, Italy by Eastern hermits and monks. Young imperial courtier in Constantinople, Bishop of

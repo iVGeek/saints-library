@@ -1,5 +1,6 @@
 ---
 name: Saint Antoninus of Syria
+stub: false
 honorific: Saint
 summary: >-
   Stonemason in predominantly pagan Aribazus, Syria. He denounced their non-Christian practices of neighbors, and became

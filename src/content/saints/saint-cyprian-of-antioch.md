@@ -1,5 +1,6 @@
 ---
 name: Saint Cyprian of Antioch
+stub: false
 honorific: Saint
 summary: >-
   Pagan magician. He tried to use his dark arts to seduce Saint Justina, who had consecrated her virginity to God. He

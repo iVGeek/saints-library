@@ -1,5 +1,6 @@
 ---
 name: Blessed Julián Torrijo Sánchez
+stub: false
 honorific: Blessed
 summary: >-
   Baptized at the age of one day. Joined the Brothers of the Christian Schools in Cambrils, Spain on 13 November 1916.

@@ -1,5 +1,6 @@
 ---
 name: Saint Victor the Hermit
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility and raised in a pious, well-educated family. Priest. Hermit at Arcis-sur-Aube in the Champagne

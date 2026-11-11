@@ -1,5 +1,6 @@
 ---
 name: Blessed Gregory Celli of Verucchio
+stub: false
 honorific: Blessed
 summary: >-
   Augustinian monk in the monastery founded by his mother in Verucchio, Italy. For unknown (and apparently unjust)

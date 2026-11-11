@@ -1,5 +1,6 @@
 ---
 name: Saint Anoub of Skete
+stub: true
 honorific: Saint
 summary: Hermit in the desert of Skete in Egypt.
 died: latter 5th century in the desert of Skete in Egypt of natural causes

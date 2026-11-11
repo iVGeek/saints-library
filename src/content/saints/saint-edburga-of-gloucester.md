@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Edburga of Gloucester
+stub: false
 honorific: Saint
 summary: >-
   Born a princess, the sister of King Osric of Hwicce (an area in modern Worcestershire, England). Benedictine nun,

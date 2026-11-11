@@ -1,5 +1,6 @@
 ---
 name: Saint Simeon Stylites the Younger
+stub: false
 honorific: Saint
 summary: >-
   Son of Saint Marthe. Simeon's father died when the boy was five years old, and he became the ward of a monk named John

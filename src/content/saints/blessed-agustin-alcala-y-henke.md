@@ -1,5 +1,6 @@
 ---
 name: Blessed Agustín Alcalá y Henke
+stub: false
 honorific: Blessed
 summary: >-
   Married layman in the archdiocese Sevilla, Spain. Studied at the Jesuit College of El Puerto de Santa María, and then

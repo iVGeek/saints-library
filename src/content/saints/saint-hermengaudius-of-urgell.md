@@ -1,5 +1,6 @@
 ---
 name: Saint Hermengaudius of Urgell
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Urgell in the Spanish Pyrenees from 1010 till 1035. Built the cathedral in Urgell, and established a rule

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Joseph Barsabas
+stub: false
 honorific: Saint
 summary: >-
   A disciple of Jesus. Mentioned in Acts as the other candidate for the 12th Apostle's position, the one vacated by

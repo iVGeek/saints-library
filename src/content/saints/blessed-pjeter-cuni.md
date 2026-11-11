@@ -1,5 +1,6 @@
 ---
 name: Blessed Pjetër Çuni
+stub: false
 honorific: Blessed
 summary: >-
   Studied at the Pontifical Seminary in Shkodrë, Albania, and theology at the Propaganda Fide Congregation in Rome,

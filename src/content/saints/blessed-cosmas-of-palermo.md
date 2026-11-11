@@ -1,5 +1,6 @@
 ---
 name: Blessed Cosmas of Palermo
+stub: false
 honorific: Blessed
 summary: >-
   Feeling an early call to the Church, Cosmas became a deacon as a teenager, continued his studies, and was ordained a

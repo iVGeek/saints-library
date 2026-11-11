@@ -1,5 +1,6 @@
 ---
 name: Saint Albert of Butrio
+stub: false
 honorific: Saint
 summary: >-
   Born to a regionally important family. Hermit in Butrio (modern Palazzuolo) near the Borrione River Valley in the

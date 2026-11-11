@@ -1,5 +1,6 @@
 ---
 name: Blessed Agustín Navarro Iniesta
+stub: false
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Les_Archives_des_Indes_et_la_Biblioth%C3%A8que_Colombine_de_S%C3%A9ville%3B_renseignments_sur_leurs_richesses_bibliographiques_et_sur_l%27exposition_d%27anciens_documents_relatifs_%C3%A0_l%27Am%C3%A9rique_%28IA_lesarchivesdesind00larrrich%29.pdf/page1-500px-thumbnail.pdf.jpg
 honorific: Blessed

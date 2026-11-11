@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Vicente Alberich Lluch
+stub: true
 honorific: Blessed
 summary: Member of the Salesians. Martyred in the Spanish Civil War.
 searchAliases:

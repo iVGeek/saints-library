@@ -1,5 +1,6 @@
 ---
 name: Saint Senatro of Missanello
+stub: false
 honorific: Saint
 summary: >-
   Born to the Sicilian nobility, the son of Giovanni and Tebidia, and the brother of Saint Luca of Demenna. He lived

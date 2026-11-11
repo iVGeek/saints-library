@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Caerealis
+stub: false
 honorific: Saint
 summary: >-
   Imperial Roman soldier. Married to Saint Sallustia. Convert to Christianity, instructed in the faith by Pope Saint

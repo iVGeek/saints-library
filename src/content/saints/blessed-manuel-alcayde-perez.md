@@ -1,5 +1,6 @@
 ---
 name: Blessed Manuel Alcayde Pérez
+stub: false
 honorific: Blessed
 summary: >-
   Ordained a priest in the diocese of Guadix, Spain on 23 September 1893. Coadjutor priest in the parish of Fiñana,

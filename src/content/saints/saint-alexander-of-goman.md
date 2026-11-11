@@ -1,5 +1,6 @@
 ---
 name: Saint Alexander of Goman
+stub: false
 honorific: Saint
 summary: >-
   Monk. Abbot. Founder of the Acremetre (Greek: without sleep), monks of Asiatic origin. He converted Saint Rabulas, the

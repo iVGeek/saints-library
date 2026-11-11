@@ -1,5 +1,6 @@
 ---
 name: Blessed Maria Cristina di Savoia
+stub: false
 honorific: Blessed
 summary: >-
   Born a princess, the youngest daughter of King Victor Emmanuel I of Sardinia and Archduchess Maria Teresa of

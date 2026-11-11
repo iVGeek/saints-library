@@ -1,5 +1,6 @@
 ---
 name: Blessed Julián Pozo Ruiz de Samaniego
+stub: false
 honorific: Blessed
 summary: >-
   Julián entered the El Espino Redemptorist seminary as a boy, joined the Order/a> in his teens, and made his profession

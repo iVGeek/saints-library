@@ -1,5 +1,6 @@
 ---
 name: Pope Saint Gregory VII
+stub: false
 honorific: Saint
 summary: >-
   Educated in Rome, Italy. Benedictine monk. Chaplain to Pope Gregory VI. In charge of the Patrimony of Saint Peter.

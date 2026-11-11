@@ -1,5 +1,6 @@
 ---
 name: Blessed Marie-Claude-Cyprienne Brard
+stub: false
 honorific: Blessed
 summary: >-
   Carmelite nun, professed in 1757. One of the Carmelite Martyrs of Compiegne, killed in the anti-Catholic excesses of

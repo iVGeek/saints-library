@@ -1,5 +1,6 @@
 ---
 name: Blessed John Amias
+stub: false
 honorific: Blessed
 summary: >-
   Married layman cloth merchant in Wakefield, England. Father of several children. A widower, he divided his property

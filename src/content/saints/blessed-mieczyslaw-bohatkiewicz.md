@@ -1,5 +1,6 @@
 ---
 name: Blessed Mieczyslaw Bohatkiewicz
+stub: false
 honorific: Blessed
 summary: >-
   Priest in the diocese of Pinsk, Belarus known as an inspiring preacher with a ministry to the poor. Murdered in the

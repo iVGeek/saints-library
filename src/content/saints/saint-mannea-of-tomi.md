@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Mannea of Tomi
+stub: false
 honorific: Saint
 summary: >-
   Married to Saint Marcellinus; mother of Saint John of Tomi. One of group of 17 Christians imprisoned and excuted for

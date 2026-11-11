@@ -1,5 +1,6 @@
 ---
 name: Saint Jacques Berthieu
+stub: false
 honorific: Venerable
 summary: >-
   One of seven children in a pious farm family. Ordained on 21 May 1864. Parish priest in Roannes-Saint Mary, France.

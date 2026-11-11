@@ -1,5 +1,6 @@
 ---
 name: Blessed Cherubino Testa
+stub: false
 honorific: Blessed
 summary: >-
   Born to the Italian nobility, Cherubino was early drawn to religious life, and joined the Augustinian Hermits at age

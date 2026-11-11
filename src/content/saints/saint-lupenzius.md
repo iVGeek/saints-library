@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Lupenzius
+stub: false
 honorific: Saint
 summary: >-
   Monk. Abbot of the Basilica of Saint-Privat-de-Javols, Chalons, Neustria (in modern France). Tortured and murdered

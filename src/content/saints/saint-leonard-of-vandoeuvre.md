@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Leonard of Vandoeuvre
+stub: true
 honorific: Saint
 summary: Hermit. Founded Vandoeuvre Abbey in France, and served as its first abbot.
 deathYear: 570

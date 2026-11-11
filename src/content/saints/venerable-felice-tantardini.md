@@ -1,5 +1,6 @@
 ---
 name: Venerable Felice Tantardini
+stub: false
 honorific: Venerable
 summary: >-
   The sixth of eight children in his family. Brother in the Pontifical Institute for Foreign Missions, joining in 1921.

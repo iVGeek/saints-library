@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Canog ap Brychan
+stub: false
 honorific: Saint
 summary: >-
   Born a Prince, the eldest son of Saint Brychan of Brecknock, and Benedulved. Martyr. Defynnog, Ystradgynlais,

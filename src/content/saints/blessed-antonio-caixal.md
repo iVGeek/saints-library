@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/8/8d/Alfonso_X_di_Castiglia_%E2%80%93_Siete_partidas%2C_1611_%E2%80%93_BEIC_14162805.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Antonio Caixal
+stub: false
 honorific: Blessed
 summary: >-
   Well-educated Mercedarian friar. Chosen 15th Master-General of the Mercedarians in 1405, he worked to build up the

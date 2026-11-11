@@ -1,5 +1,6 @@
 ---
 name: Saint Macrina the Younger
+stub: false
 honorific: Saint
 summary: >-
   Daughter of Saint Emmelia and Saint Basil the Elder; sister of Saint Basil the Great, Saint Gregory of Nyssa, and

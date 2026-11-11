@@ -1,5 +1,6 @@
 ---
 name: Saint Germanus of Verona
+stub: false
 honorific: Saint
 title: Bishop
 summary: >-

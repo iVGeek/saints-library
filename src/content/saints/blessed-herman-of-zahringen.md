@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Herman of Zahringen
+stub: false
 honorific: Blessed
 summary: >-
   A member of the nobility, he was the Margrave of Zahringen, but gave up the position to become a Benedictine monk at

@@ -1,5 +1,6 @@
 ---
 name: Saint Benedict Joseph Labre
+stub: false
 honorific: Saint
 summary: >-
   Oldest of fifteen children in a prosperous middle class family. Educated by his uncle, a parish priest. Following his

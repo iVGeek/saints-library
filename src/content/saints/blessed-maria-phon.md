@@ -1,5 +1,6 @@
 ---
 name: Blessed Maria Phon
+stub: false
 honorific: Blessed
 summary: >-
   Daughter of John the Baptist and Catherine Tan Pha. A pious girl, Maria lived with an aunt named Mary and attended the

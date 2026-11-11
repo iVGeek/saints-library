@@ -1,5 +1,6 @@
 ---
 name: Blessed Bernardo Francisco de Hoyos Seña
+stub: false
 honorific: Blessed
 summary: >-
   Son of Don Manuel de Hoyos and Doña Francisca de Seña. Baptized at 16 days; he was named for Saint Bernard of

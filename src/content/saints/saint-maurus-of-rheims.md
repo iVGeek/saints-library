@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Maurus of Rheims
+stub: true
 honorific: Saint
 summary: Priest. The only one of a group of 50 martyrs whose name has survived.
 deathYear: 260

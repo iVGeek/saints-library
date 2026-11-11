@@ -1,5 +1,6 @@
 ---
 name: Blessed Amalia Abad Casasempere de Maestre
+stub: false
 honorific: Blessed
 summary: >-
   Lifelong lay woman in the archdiocese of Valencia, Spain. Baptized on the day of her birth; confirmed in 1906 and made

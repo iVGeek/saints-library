@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Carterius of Bourges
+stub: false
 honorific: Saint
 summary: >-
   Sixth-century missionary priest in the region of Bourges, France, working from the town of Lugny, France. The village

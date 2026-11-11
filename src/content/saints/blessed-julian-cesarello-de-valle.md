@@ -1,5 +1,6 @@
 ---
 name: Blessed Julian Cesarello de Valle
+stub: false
 honorific: Blessed
 summary: >-
   Born to the nobility. Joined the Franciscans as a teenager. Priest. Noted preacher throughout the region. Known for

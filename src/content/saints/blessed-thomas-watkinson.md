@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/d/db/Blessed-james-duckett.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Thomas Watkinson
+stub: false
 honorific: Blessed
 summary: >-
   Married layman and family man in the apostolic vicariate of England who provided aid to covert priests in the

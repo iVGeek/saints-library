@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/48/Painting_of_the_Nagasaki_Martyrs.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Domingos Jorge
+stub: false
 honorific: Blessed
 summary: >-
   Soldier. Immigrant to Japan. Layman. Member of the Confraternity of the Rosary. Arrested for hiding the Christian

@@ -1,5 +1,6 @@
 ---
 name: Saint Friard
+stub: false
 honorific: Saint
 title: Hermit
 summary: >-

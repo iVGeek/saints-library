@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Exuperius of Ravenna
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Ravenna, Italy. He ruled his diocese in the period when Flavius Odoacer became king of Italy, which marked

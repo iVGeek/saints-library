@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Guilminus
+stub: false
 honorific: Blessed
 summary: Benedictine monk at Thouace in Anjou, France. Friend and co-worker with Saint Burginus.
 deathYear: 1065

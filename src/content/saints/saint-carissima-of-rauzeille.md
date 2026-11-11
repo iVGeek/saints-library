@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Carissima of Rauzeille
+stub: false
 honorific: Saint
 summary: >-
   Born to the Gallic nobility. Married. Mother. Widow. Helped found the abbey of Saint-Martin in Rauzeille near

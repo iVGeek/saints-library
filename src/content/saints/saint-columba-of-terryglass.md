@@ -1,5 +1,6 @@
 ---
 name: Saint Columba of Terryglass
+stub: false
 honorific: Saint
 summary: >-
   Son of Crinthainn. Disciple of Saint Finnian of Clonard; administered Last Rites to Saint Finnian on his death-bed.

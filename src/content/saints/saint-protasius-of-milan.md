@@ -1,5 +1,6 @@
 ---
 name: Saint Protasius of Milan
+stub: false
 honorific: Saint
 summary: >-
   Born to the Italian nobility. Priest. Bishop of Milan, Italy c.330, serving the rest of his life over 20 years later.

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Melchior Kumagai Motonao
+stub: true
 honorific: Blessed
 summary: Married layman of the diocese of Hiroshima, Japan. Martyr.
 birthYear: 1554

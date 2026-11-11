@@ -1,5 +1,6 @@
 ---
 name: Saint Anastasius of Constantinople
+stub: false
 honorific: Saint
 summary: Monk in Constantinople. Spiritual student and biographer of Saint Maximus the Confessor.
 deathYear: 666

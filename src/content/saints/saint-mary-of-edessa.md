@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Mary of Edessa
+stub: false
 honorific: Saint
 summary: >-
   Niece of Saint Abraham Kidunaia. She lived for 20 years as an anchoress near Abraham's cell. In a moment of weakness,

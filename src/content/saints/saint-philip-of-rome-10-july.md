@@ -1,5 +1,6 @@
 ---
 name: Saint Philip of Rome
+stub: false
 honorific: Saint
 summary: >-
   Born to the Roman nobility, son of Saint Felicitas of Rome; one of the Seven Holy Brothers. His father died when the

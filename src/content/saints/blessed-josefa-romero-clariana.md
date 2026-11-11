@@ -1,5 +1,6 @@
 ---
 name: Blessed Josefa Romero Clariana
+stub: false
 honorific: Blessed
 summary: Professed religious in the Sisters of the Christian Doctrine. Martyred in the Spanish Civil War.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Josefa-Romero-Clariana.jpg

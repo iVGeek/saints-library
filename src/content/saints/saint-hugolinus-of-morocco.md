@@ -1,5 +1,6 @@
 ---
 name: Saint Hugolinus of Morocco
+stub: false
 honorific: Saint
 summary: >-
   Franciscan Friar Minor missionary sent with six others to Morocco by Saint Francis of Assisi himself to preach to the

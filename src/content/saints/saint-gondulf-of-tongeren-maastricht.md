@@ -1,5 +1,6 @@
 ---
 name: Saint Gondulf of Tongeren-Maastricht
+stub: false
 honorific: Saint
 title: Bishop
 summary: >-

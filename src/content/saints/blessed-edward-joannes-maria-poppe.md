@@ -1,5 +1,6 @@
 ---
 name: Blessed Edward Joannes Maria Poppe
+stub: false
 honorific: Blessed
 summary: >-
   Son of D&egrave;sir&egrave;, a baker, and Josefa; Edward was one of eleven children; one brother became a priest, five

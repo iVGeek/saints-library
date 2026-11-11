@@ -1,5 +1,6 @@
 ---
 name: Venerable Raymundo Jardón Herrera
+stub: false
 honorific: Venerable
 summary: >-
   Born to a family with 14 children, Raymundo was baptized at the age of three days. Priest of the archdiocese of

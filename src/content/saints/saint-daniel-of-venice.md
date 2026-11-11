@@ -1,5 +1,6 @@
 ---
 name: Saint Daniel of Venice
+stub: false
 honorific: Saint
 summary: >-
   15th-century Camaldolese monk at Venice, Italy. Known for giving away everything he had to care for the poor, and for

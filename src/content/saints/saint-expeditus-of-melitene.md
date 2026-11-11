@@ -1,5 +1,6 @@
 ---
 name: Saint Expeditus of Melitene
+stub: false
 honorific: Saint
 summary: >-
   Possibly legendary. Unclear whether his name led to his association with expeditious matters, or the other way around.

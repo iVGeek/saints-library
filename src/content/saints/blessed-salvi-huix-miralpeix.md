@@ -1,5 +1,6 @@
 ---
 name: Blessed Salvi Huix Miralpeix
+stub: false
 honorific: Blessed
 summary: >-
   Born to a pious and fairly wealthy family. Known for his hard work as a student and seminarian, and for his problems

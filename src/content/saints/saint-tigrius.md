@@ -1,6 +1,7 @@
 ---
 image: https://www.catholic.org/files/images/saints/5622.jpg
 name: Saint Tigrius
+stub: false
 honorific: Saint
 summary: >-
   Priest in Constantinople. Active supporter of Saint John Chrysostom during his exile. To silence him, Tigrius was

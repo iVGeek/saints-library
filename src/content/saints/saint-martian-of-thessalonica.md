@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/6/6e/Illustration_to_Richard_Wagner%27s_%22Das_Rheingold%22.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Martian of Thessalonica
+stub: true
 honorific: Saint
 summary: Martyr.
 died: in Thessalonica, Greece, date unknown

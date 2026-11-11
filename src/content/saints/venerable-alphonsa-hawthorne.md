@@ -1,5 +1,6 @@
 ---
 name: Venerable Alphonsa Hawthorne
+stub: false
 honorific: Venerable
 summary: >-
   Daughter of the New England author Nathaniel Hawthorne. Convert to Catholicism. Foundress of the Dominican Sisters of

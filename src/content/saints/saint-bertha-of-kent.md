@@ -1,5 +1,6 @@
 ---
 name: Saint Bertha of Kent
+stub: false
 honorific: Saint
 summary: >-
   Born a princess, the daughter of Charibert and Ingoberga. Married to the pagan King Ethelbert of Kent, she became the

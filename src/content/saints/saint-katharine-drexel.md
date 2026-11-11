@@ -1,5 +1,6 @@
 ---
 name: Saint Katharine Drexel
+stub: false
 honorific: Saint
 title: St. Katharine Drexel
 summary: >-

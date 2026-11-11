@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Antioco Sabaita
+stub: true
 honorific: Saint
 summary: Monk at the Saint Saba monastery near Bethlehem.
 deathYear: 630

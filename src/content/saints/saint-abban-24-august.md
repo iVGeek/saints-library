@@ -1,5 +1,6 @@
 ---
 name: Saint Abban
+stub: true
 honorific: Saint
 title: Priest
 summary: No information has survived.

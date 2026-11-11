@@ -1,5 +1,6 @@
 ---
 name: Saint Bertin the Great
+stub: false
 honorific: Saint
 summary: >-
   Educated at the Abbey of Luxeuil, France known for its strict adherence to the Rule of Saint Columban, a Rule known

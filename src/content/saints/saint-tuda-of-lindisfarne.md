@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Tuda of Lindisfarne
+stub: true
 honorific: Saint
 summary: Monk in Ireland. Bishop of Lindisfarne, England.
 deathYear: 664

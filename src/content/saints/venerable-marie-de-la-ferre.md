@@ -1,5 +1,6 @@
 ---
 name: Venerable Marie de la Ferre
+stub: true
 honorific: Venerable
 summary: Co-founder of the Institute of the Religious Hospitallers of Saint Joseph.
 image: https://catholicsaints.info/wp-content/gallery/venerable-marie-de-la-ferre/venerable-marie-de-la-ferre-01.jpg

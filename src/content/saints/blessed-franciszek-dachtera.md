@@ -1,5 +1,6 @@
 ---
 name: Blessed Franciszek Dachtera
+stub: false
 honorific: Blessed
 summary: >-
   Priest in the archdiocese of Gniezno, Poland. Prefect of the secondary school in Bydgoszcz, Poland. Arrested on 17

@@ -1,5 +1,6 @@
 ---
 name: Blessed Juan de Palafox Mendoza
+stub: false
 honorific: Blessed
 summary: >-
   Born the illegitimate son of an Aragonese noble, Jaime de Palafox, the Marquis of Ariaza; his father would not

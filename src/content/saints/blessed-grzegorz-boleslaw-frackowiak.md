@@ -1,5 +1,6 @@
 ---
 name: Blessed Grzegorz Boleslaw Frackowiak
+stub: false
 honorific: Blessed
 summary: >-
   Friar in the Society of the Divine Word. During World War II he developed a ministry to covert Catholics which led to

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Prosdocimus of Rieti
+stub: true
 honorific: Saint
 title: Bishop
 summary: Evangelizing first bishop of Rieti, Italy.

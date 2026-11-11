@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Bertrand of Fontaniva
+stub: false
 honorific: Blessed
 summary: >-
   As a young man, Bertrand gave up his worldly goods and became a pilgrim to the shrines in Rome, Italy. Near Fontaniva,

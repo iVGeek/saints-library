@@ -1,5 +1,6 @@
 ---
 name: Saint David of Thessalonica
+stub: false
 honorific: Saint
 summary: >-
   From his youth, David was known for his contamplative, prayerful personal piety. Hermit outside Thessalonica for 70

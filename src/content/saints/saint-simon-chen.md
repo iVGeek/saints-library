@@ -1,5 +1,6 @@
 ---
 name: Saint Simon Chen
+stub: false
 honorific: Venerable
 summary: >-
   Layman in the apostolic vicariate of Northern Shanxi, China. Member of the Secular Franciscans. Martyred in the Boxer

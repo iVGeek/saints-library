@@ -1,5 +1,6 @@
 ---
 name: Blessed Suzanne-Agathe Deloye
+stub: false
 honorific: Blessed
 summary: >-
   Benedictine nun at Caderousse in 1762, taking the name Mary Rose. Expelled from the convent, imprisoned and then

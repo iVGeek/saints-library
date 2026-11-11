@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Doucelin
+stub: true
 honorific: Saint
 summary: Spiritual student of Saint Martin of Tours. Evangelist.
 region: France

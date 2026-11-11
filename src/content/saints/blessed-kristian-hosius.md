@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Kristian Hosius
+stub: false
 honorific: Blessed
 title: Priest
 summary: >-

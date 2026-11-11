@@ -1,5 +1,6 @@
 ---
 name: Saint Eustochius the Martyr
+stub: true
 honorific: Saint
 summary: Martyr.
 deathYear: 362

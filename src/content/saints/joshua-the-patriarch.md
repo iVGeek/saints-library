@@ -1,5 +1,6 @@
 ---
 name: Joshua the Patriarch
+stub: false
 honorific: Saint
 summary: >-
   Old Testament patriarch. The successor of Moses the Patriarch as leader of the Israelites, he led them into Canaan.

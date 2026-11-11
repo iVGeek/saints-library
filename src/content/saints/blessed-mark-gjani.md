@@ -1,5 +1,6 @@
 ---
 name: Blessed Mark Gjani
+stub: false
 honorific: Blessed
 summary: >-
   Studied at the Shkodra Pontifical Seminary, and then theology in Bobion, Italy. Ordained on 21 March 1942 as a priest

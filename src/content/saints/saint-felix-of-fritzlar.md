@@ -1,5 +1,6 @@
 ---
 name: Saint Felix of Fritzlar
+stub: true
 honorific: Saint
 summary: Monk at Fritzlar, Germany. Martyred by a pagan mob.
 deathYear: 790

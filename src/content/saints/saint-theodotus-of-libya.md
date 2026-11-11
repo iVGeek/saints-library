@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Theodotus of Libya
+stub: true
 honorific: Saint
 summary: Listed on ancient menologies, but no details about him have survived.
 feastDay:

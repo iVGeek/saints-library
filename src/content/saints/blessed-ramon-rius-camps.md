@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/7/72/Antoni_Gaudi_1878.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Ramon Rius Camps
+stub: false
 honorific: Blessed
 summary: Member of the Claretians, professed on 15 August 1929/a>. Martyred in the Spanish Civil War.
 birthYear: 1913

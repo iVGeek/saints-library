@@ -1,5 +1,6 @@
 ---
 name: Saint Aleth of Dijon
+stub: false
 honorific: Saint
 summary: >-
   Daughter of the lord of Montbard. Lay woman, married to a man named Tecolin. Mother of Saint Bernard of Clairvaux,

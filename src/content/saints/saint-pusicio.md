@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Pusicio
+stub: true
 honorific: Saint
 summary: Courtier to Shapur II of Persia. Martyr.
 died: stabbed through the neck in Persia (modern Iran)

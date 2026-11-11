@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Lucidius of Verona
+stub: true
 honorific: Saint
 summary: Fourth century bishop of Verona, Italy. Famous for a life of prayer and study.
 region: Italy

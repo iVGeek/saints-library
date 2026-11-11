@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/2/28/EulogioCordovamart.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Wistremundus of Cordoba
+stub: false
 honorific: Saint
 summary: >-
   Monk at the monastery of Saint Zoilus in Moorish-occupied Cordoba, Spain. Martyred in the persecutions of Abderrahman

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Ethelwald of Lindisfarne
+stub: false
 honorific: Saint
 summary: >-
   Leather worker and bookbinder. Monk. Assistant to Saint Cuthbert of Lindisfarne. Prior and abbot of Old Melrose

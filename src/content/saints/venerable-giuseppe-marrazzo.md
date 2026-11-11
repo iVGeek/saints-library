@@ -1,5 +1,6 @@
 ---
 name: Venerable Giuseppe Marrazzo
+stub: false
 honorific: Venerable
 summary: ' His first mission as a Rogationist priest was to spread devotion to Saint A Born to a pious peasant family. Educated by the Rogationists of the Sacred Heart of Jesus, he joined them on 29 September 1934; he made his profession on 24 December 1940. Ordained a priest on 9 May 1943.'
 image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Giuseppe-Marrazzo.jpg

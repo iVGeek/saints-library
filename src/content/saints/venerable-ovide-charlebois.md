@@ -1,5 +1,6 @@
 ---
 name: Venerable Ovide Charlebois
+stub: false
 honorific: Venerable
 summary: >-
   Seventh of fourteen children born to Hyacinthe Charlebois and Émérente Chartier-Robert, he was raised in a poor and

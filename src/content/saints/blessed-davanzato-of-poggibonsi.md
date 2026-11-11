@@ -1,5 +1,6 @@
 ---
 name: Blessed Davanzato of Poggibonsi
+stub: false
 honorific: Blessed
 title: Priest
 summary: >-

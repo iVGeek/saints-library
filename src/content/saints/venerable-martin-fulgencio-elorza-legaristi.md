@@ -1,5 +1,6 @@
 ---
 name: Venerable Martín Fulgencio Elorza Legaristi
+stub: false
 honorific: Venerable
 summary: >-
   Member of the Passionists, joining in 1912 and making his solemn profession on 12 June 1924. Ordained a priest on 13

@@ -1,5 +1,6 @@
 ---
 name: Saint Gratus of Aosta
+stub: false
 honorific: Saint
 summary: >-
   Priest. Bishop of Aosta, Italy some time after 451. He evangelized his people, established charities, and was known as

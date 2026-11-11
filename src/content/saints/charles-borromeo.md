@@ -1,5 +1,6 @@
 ---
 name: Charles Borromeo
+stub: false
 honorific: Saint
 title: Cardinal, Bishop
 summary: >-

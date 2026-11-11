@@ -1,5 +1,6 @@
 ---
 name: Saint Evodius of Le Puy
+stub: true
 honorific: Saint
 summary: Bishop of Le Puy, France.
 deathYear: 560

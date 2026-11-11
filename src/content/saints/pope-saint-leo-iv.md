@@ -1,5 +1,6 @@
 ---
 name: Pope Saint Leo IV
+stub: false
 honorific: Saint
 summary: >-
   Cardinal-priest. 103rd pope. He saw the Saracens attack Rome, Italy in 846; upon his ascension, to prevent its

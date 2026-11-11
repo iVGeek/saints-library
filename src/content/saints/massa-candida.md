@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/44/Retrato_oficial_del_Presidente_Mauricio_Macri.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Massa Candida
+stub: false
 honorific: Saint
 summary: >-
   Three hundred 3rd century Christians at Carthage who were ordered to burn incense to Jupiter or face death by fire.

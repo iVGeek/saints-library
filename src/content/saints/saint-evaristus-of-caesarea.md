@@ -1,5 +1,6 @@
 ---
 name: Saint Evaristus of Caesarea
+stub: false
 honorific: Saint
 summary: >-
   Brother of Saint Carponius of Caesarea, Saint Priscianus of Caesarea and Saint Fortunata of Caesarea. Martyred in the

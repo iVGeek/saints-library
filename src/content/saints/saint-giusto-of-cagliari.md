@@ -1,5 +1,6 @@
 ---
 name: Saint Giusto of Cagliari
+stub: true
 honorific: Saint
 summary: Martyr.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Giusto-of-Cagliari.jpg

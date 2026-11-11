@@ -1,5 +1,6 @@
 ---
 name: Saint Eumenius Thaumaturgus
+stub: false
 honorific: Saint
 summary: Late 3rd-century bishop of Gortyna, Crete. Noted for his charity and as a miracle worker, but died in exile.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Eumenius-Thaumaturgus.jpg

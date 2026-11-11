@@ -1,5 +1,6 @@
 ---
 name: Saint Ludolf of Ratzeburg
+stub: false
 honorific: Saint
 summary: >-
   Praemonstratensian canon of the cathedral of Ratzeburg (modern Landkreis Herzogtum Lauenburg), Schleswig-Holstein,

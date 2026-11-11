@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Theobald of Vienne
+stub: true
 honorific: Saint
 title: Bishop
 summary: Archbishop of Vienne, France from 970 to 1001.

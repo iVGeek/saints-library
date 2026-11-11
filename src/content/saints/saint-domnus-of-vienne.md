@@ -1,6 +1,7 @@
 ---
 image: https://www.catholic.org/files/images/saints/2965.jpg
 name: Saint Domnus of Vienne
+stub: true
 honorific: Saint
 summary: Priest. Bishop of Vienne, France. He was zealous in ransoming captives.
 deathYear: 657

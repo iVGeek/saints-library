@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Stephen of Sweden
+stub: false
 honorific: Saint
 summary: >-
   Monk at New Corbie monastery, Saxony. Priest. Missionary bishop to Sweden. Achieved many conversions, and was the

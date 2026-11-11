@@ -1,5 +1,6 @@
 ---
 name: Saint Paul of Verdun
+stub: false
 honorific: Saint
 summary: >-
   Courtier. Hermit on Mount Voge (modern Paulberg) near Trier, Germany. Monk at Tholey, Germany. Bishop of Verdun,

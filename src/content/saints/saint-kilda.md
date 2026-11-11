@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Kilda
+stub: false
 honorific: Saint
 summary: >-
   An island off the Scottish coast is named for this saint, and there is a well on the island of the same name, but no

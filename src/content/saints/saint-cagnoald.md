@@ -1,5 +1,6 @@
 ---
 name: Saint Cagnoald of Laon
+stub: false
 honorific: Saint
 summary: >-
   Brother of Saint Faro of Meaux and Saint Burgundofara. Monk at Luxeuil, France. Spiritual student of Saint Columbanus

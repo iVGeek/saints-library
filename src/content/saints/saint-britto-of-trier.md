@@ -1,5 +1,6 @@
 ---
 name: Saint Britto of Trier
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Trier, Belgic Gaul (modern Germany) in 374, and a leader of the Church in Gaul. Attended the 382 synod of

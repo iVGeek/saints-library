@@ -1,5 +1,6 @@
 ---
 name: Blessed Zacarías Fernández Crespo
+stub: false
 honorific: Blessed
 summary: Passionist cleric. Martyred in the Spanish Civil War. One of the Martyrs of Daimiel.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Zacarias-Fernandez-Crespo.jpg

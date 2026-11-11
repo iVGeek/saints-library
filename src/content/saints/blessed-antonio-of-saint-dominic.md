@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/3/38/SaintDominic.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Antonio of Saint Dominic
+stub: true
 honorific: Blessed
 summary: Dominican friar. Martyr.
 birthYear: 1608

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Elias of Jerusalem
+stub: false
 honorific: Saint
 summary: >-
   Patriarch of Jerusalem from 494 to 516. Exiled by the Emperor Anastasius supporting the decrees of the Council of

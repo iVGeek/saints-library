@@ -1,5 +1,6 @@
 ---
 name: Saint Ildephonsus of Toledo
+stub: false
 honorific: Saint
 summary: >-
   Born to the Spanish nobility. Nephew of Saint Eugene of Toledo. Studied at Seville, Spain under Saint Isidore of

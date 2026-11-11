@@ -1,5 +1,6 @@
 ---
 name: Saint Mellon
+stub: false
 honorific: Saint
 summary: >-
   A pagan, Mellon travelled to Rome, Italy to bring tribute to the emperor from the British Isles. While making a

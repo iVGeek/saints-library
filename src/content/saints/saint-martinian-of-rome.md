@@ -1,5 +1,6 @@
 ---
 name: Saint Martinian of Rome
+stub: false
 honorific: Saint
 summary: >-
   Prison guard at the Mamertine prison in Rome, Italy. Worked with Saint Processus. Guarded Saint Peter the Apostle and

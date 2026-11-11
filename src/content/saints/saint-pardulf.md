@@ -1,5 +1,6 @@
 ---
 name: Saint Pardulf
+stub: false
 honorific: Saint
 summary: >-
   Hermit. Monk at Gueret, France. Abbot at Gueret. During the Saracen invasion of the area, the monks of his house

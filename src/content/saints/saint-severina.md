@@ -1,5 +1,6 @@
 ---
 name: Saint Severina
+stub: true
 honorific: Saint
 summary: Married to Saint Catervus, and mother of Saint Bassus. Martyr.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Catervus.jpg

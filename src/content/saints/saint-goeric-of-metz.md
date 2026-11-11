@@ -1,5 +1,6 @@
 ---
 name: Saint Goeric of Metz
+stub: false
 honorific: Saint
 summary: >-
   Nephew of Saint Arnulf of Metz. Married and father of two daughters, both of whom became nuns, and one of whom is

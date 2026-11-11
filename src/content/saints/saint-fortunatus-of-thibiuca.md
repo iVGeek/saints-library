@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Fortunatus of Thibiuca
+stub: false
 honorific: Saint
 summary: Martyred in the persecutions of Diocletian when he refused to give up copies of scripture for destruction.
 searchAliases:

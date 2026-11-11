@@ -1,5 +1,6 @@
 ---
 name: Mercedarian Martyrs of Paris
+stub: false
 honorific: Saint
 summary: >-
   Three Mercedarian preachers who were murdered by Huguenots for preaching, defending the faith, and setting a good

@@ -1,5 +1,6 @@
 ---
 name: Venerable Elyas Butros Al-Hwayek
+stub: false
 honorific: Venerable
 summary: >-
   Elias studied at the Seminary College of Saint John Maroun in North Lebanon, the Jesuit seminary in Ghazir, Lebanon

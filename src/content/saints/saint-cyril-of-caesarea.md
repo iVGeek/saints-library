@@ -1,5 +1,6 @@
 ---
 name: Saint Cyril of Caesarea
+stub: false
 honorific: Saint
 summary: >-
   Raised in a wealthy pagan family, in his youth Cyril was baptized in secret. When his family learned of his

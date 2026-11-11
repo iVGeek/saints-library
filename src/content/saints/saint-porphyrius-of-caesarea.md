@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Porphyrius of Caesarea
+stub: false
 honorific: Saint
 summary: >-
   Servant of Saint Pamphilus. Protested that the bodies of the martyred Saints Elias, Jeremy, Isaias, Samuel, and Daniel

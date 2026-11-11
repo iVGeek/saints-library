@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Nearchus
+stub: false
 honorific: Saint
 summary: >-
   Christian soldier in the 12th imperial Roman legion assigned to Armenia in the 3rd century. Friend of Saint Polyeucte.

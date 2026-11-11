@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint John of Tuy
+stub: true
 honorific: Saint
 summary: Hermit near Tuy, Spain.
 born: 9th century Spanish Galatia

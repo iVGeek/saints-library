@@ -1,5 +1,6 @@
 ---
 name: Blessed Alberto Leccapecore
+stub: false
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Relazione_delle_sacre_funzioni_eseguite_in_Pisa_in_rendimento_di_grazie_all%27_Altissimo_per_la_prodigiosa_liberazione_della_Toscana_dalle_armi_francesi_-_con_note_%28IA_relazionedellesa00gaet%29.pdf/page1-500px-thumbnail.pdf.jpg
 honorific: Blessed

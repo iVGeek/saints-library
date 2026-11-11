@@ -1,5 +1,6 @@
 ---
 name: Blessed Angelo Carletti
+stub: false
 honorific: Blessed
 summary: >-
   Born to the Italian nobility, Antonio studied law at Bologna, Italy, and practised in the Monferrato region of Italy.

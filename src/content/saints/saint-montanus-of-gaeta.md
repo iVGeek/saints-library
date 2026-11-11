@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/d/d8/Gaeta%2C_chiesa_di_Santa_Caterina_d%27Alessandria_-_Esterno_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Montanus of Gaeta
+stub: true
 honorific: Saint
 summary: Soldier. Martyr.
 deathYear: 300

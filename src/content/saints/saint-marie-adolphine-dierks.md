@@ -1,5 +1,6 @@
 ---
 name: Saint Marie Adolphine Dierks
+stub: false
 honorific: Venerable
 summary: >-
   One of six children in a very poor family. Her mother died when Anne was still quite young, and the children were

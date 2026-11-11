@@ -1,5 +1,6 @@
 ---
 name: Venerable Jan Pietraszko
+stub: false
 honorific: Venerable
 summary: >-
   Ordained a priest in the archdiocese of Kraków, Poland on 5 April 1936. Auxiliary Bishop of Kraków and Titular Bishop

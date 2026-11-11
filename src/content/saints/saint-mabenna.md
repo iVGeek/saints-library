@@ -1,5 +1,6 @@
 ---
 name: Saint Mabenna
+stub: false
 honorific: Saint
 summary: >-
   Born a princess, the daughter of Saint Brychan of Brycheiniog. She relocated to Cornwall, England where she lived as a

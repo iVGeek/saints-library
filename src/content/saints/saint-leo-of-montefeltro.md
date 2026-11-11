@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/c/cf/Guidobaldo_da_Montefeltro_-_Raphael.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Leo of Montefeltro
+stub: false
 honorific: Saint
 summary: >-
   In 257 Leo began work as a stone mason to support himself in Rimini, Italy while working with Saint Marinus to

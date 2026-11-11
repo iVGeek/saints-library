@@ -1,5 +1,6 @@
 ---
 name: Venerable Maria Orsola Bussone
+stub: false
 honorific: Venerable
 summary: >-
   Her father owned a car repair service, her mother was a tailor, and Maria was active in parish life from an early age,

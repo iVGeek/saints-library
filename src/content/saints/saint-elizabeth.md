@@ -1,5 +1,6 @@
 ---
 name: Saint Elizabeth of the Visitation
+stub: false
 honorific: Saint
 summary: >-
   Descendant of the Old Testament patriarch, Aaron. Wife of Zechariah, temple priest. Relative of Mary. Mother of Saint

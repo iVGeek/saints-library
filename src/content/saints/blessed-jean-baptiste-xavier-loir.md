@@ -1,5 +1,6 @@
 ---
 name: Blessed Jean-Baptiste-Xavier Loir
+stub: false
 honorific: Blessed
 summary: >-
   Son of Jacques-Louis Loir, director of the mint in Besançon, France and Elizabeth Juliot, the sixth of their eight

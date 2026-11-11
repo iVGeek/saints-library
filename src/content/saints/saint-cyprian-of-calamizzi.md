@@ -1,5 +1,6 @@
 ---
 name: Saint Cyprian of Calamizzi
+stub: false
 honorific: Saint
 summary: >-
   Born to the to wealthy nobility; his father was a physician, and Cyprian studied medicine himself. Monk at Holy

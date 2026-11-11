@@ -1,6 +1,7 @@
 ---
 image: https://www.santiebeati.it/immagini/Thumbs/91914/91914.jpg
 name: Blessed Timoteo da Monticchio
+stub: false
 honorific: Blessed
 summary: >-
   Born to a peasant family and grew up poor but pious. Joined the Franciscan Friars Minor. Priest. Franciscan novice

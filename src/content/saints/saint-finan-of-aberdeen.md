@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Finan of Aberdeen
+stub: true
 honorific: Saint
 summary: Spiritual student of Saint Kentigern.
 deathYear: 595

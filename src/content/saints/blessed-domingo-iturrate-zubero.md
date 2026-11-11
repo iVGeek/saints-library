@@ -1,5 +1,6 @@
 ---
 name: Blessed Domingo Iturrate Zubero
+stub: false
 honorific: Blessed
 summary: >-
   Devoted to the Blessed Virgin Mary at an early age. Trinitarian priest, taking the name Domenico Iturrate of the Most

@@ -1,5 +1,6 @@
 ---
 name: Saint Emilina of Boulancourt
+stub: false
 honorific: Saint
 summary: >-
   Joined the Cistercian Abbey of Boulancourt at Longeville, France when still very young. Noted for her deep prayer

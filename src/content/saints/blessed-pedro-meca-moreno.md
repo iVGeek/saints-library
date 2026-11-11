@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/3/36/Lollapalooza_2015.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Pedro Meca Moreno
+stub: false
 honorific: Blessed
 summary: >-
   Ordained a priest of the diocese of Almería, Spain on 9 June 1906. Parish priest of Sierro. Martyred in the Spanish

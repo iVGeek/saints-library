@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Antonio Hilario Delgado Vílchez
+stub: false
 honorific: Blessed
 summary: Member of the Hospitallers of Saint John of God. Martyred in the Spanish Civil War.
 searchAliases:

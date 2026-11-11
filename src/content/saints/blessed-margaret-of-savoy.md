@@ -1,5 +1,6 @@
 ---
 name: Blessed Margaret of Savoy
+stub: false
 honorific: Blessed
 summary: >-
   Born to the nobility, daughter of Amadeo of Savoy, Lord of Piedmont and titular Prince of Achaea, and Catherine of

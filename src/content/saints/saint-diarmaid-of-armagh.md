@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Diarmaid of Armagh
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Armagh, Ireland in 834. Renowned for his learning. Driven from his see by the usurper Foraunan in 835,

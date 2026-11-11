@@ -7,6 +7,17 @@ dist/
 
 # generated
 src/assets/generated/
+.cache/
+curation-queue.json
+curation-queue.md
+curation-queue-test.json
+wikipedia-queue.json
+wikipedia-queue.md
+wikipedia-queue-test.json
+quality-report.json
+
+# archived one-off exploration scripts and scraped data
+scripts/.scratch/
 
 # environment
 .env

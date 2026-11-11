@@ -1,5 +1,6 @@
 ---
 name: Saint Ðaminh Trach Ðoài
+stub: false
 honorific: Saint
 summary: >-
   Raised a devout Catholic. Dominican tertiary. Priest. Worked in the missions until his arrest in 1842. One of the

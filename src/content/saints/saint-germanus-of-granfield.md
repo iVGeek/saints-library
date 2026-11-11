@@ -1,5 +1,6 @@
 ---
 name: Saint Germanus of Granfield
+stub: false
 honorific: Saint
 summary: >-
   Born to a wealthy senatorial family; educated by Saint Modoald of Trier. Spiritual student of Saint Arnulf of Metz.

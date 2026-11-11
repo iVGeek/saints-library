@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/1/17/William_M._Baker_The_Critic_1881.tif?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed William Harrington
+stub: false
 honorific: Blessed
 summary: >-
   After meeting Saint Edmund Campion, William travelled to Rheims, France were he studied for the priesthood. Ordained

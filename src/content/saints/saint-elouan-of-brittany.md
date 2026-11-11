@@ -1,5 +1,6 @@
 ---
 name: Saint Elouan of Brittany
+stub: false
 honorific: Saint
 summary: Fifth century monk and evangelist in Armorique, an area of modern Brittany, France.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Elouan.jpg

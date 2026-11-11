@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Gibitrudis
+stub: true
 honorific: Saint
 summary: Nun at Faremoutiers-en-Brie, France. Spiritual student of Saint Fara.
 deathYear: 655

@@ -1,5 +1,6 @@
 ---
 name: Saint Gerold of Evreux
+stub: false
 honorific: Saint
 summary: >-
   Courtier to Blessed Charlemagne. Left court life to become a monk at the abbey of Fontenelle in Normandy, France.

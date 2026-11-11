@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Caesar of Korone
+stub: false
 honorific: Saint
 summary: >-
   First century convert. Spiritual student of Saint Paul the Apostle. One of the 72 disciples sent out to spread the

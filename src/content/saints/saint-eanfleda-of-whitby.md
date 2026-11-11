@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Eanfleda of Whitby
+stub: false
 honorific: Saint
 summary: >-
   Princess, the daughter of King Saint Edwin of Northumbria and Saint Ethelburga of Kent. Cousin of Saint Hilda of

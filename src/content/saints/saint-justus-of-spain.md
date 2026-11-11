@@ -1,5 +1,6 @@
 ---
 name: Saint Justus of Spain
+stub: true
 image: >-
   https://commons.wikimedia.org/wiki/Special:FilePath/Justus_Sustermans_-_Eleonora_Gonzaga_%25281598-1655%2529%252C_wife_of_Ferdinand_II%252C_in_wedding_dress.jpg?width=600
 honorific: Saint

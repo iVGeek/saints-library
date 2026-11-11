@@ -1,5 +1,6 @@
 ---
 name: Saint Ethelburgh of Barking
+stub: false
 honorific: Saint
 summary: >-
   Related to the East Anglian royal family and sister of Saint Erconwald of London. Nun and a spiritual student of Saint

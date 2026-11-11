@@ -1,5 +1,6 @@
 ---
 name: Saint Philip Evans
+stub: false
 honorific: Venerable
 summary: >-
   Educated at the college of Saint Omer. Could play the harp, and played tennis. Joined the Jesuits on 7 September 1665.

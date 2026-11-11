@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/7/76/Fontana_e_municipio%2C_Mortara%2C_Lombardia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Amicus of Mortara
+stub: false
 honorific: Saint
 summary: Knight in the army of Blessed Charlemagne. Fought in the campaign against the Lombards in northern Italy. Martyr.
 searchAliases:

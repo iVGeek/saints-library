@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/7/72/Antoni_Gaudi_1878.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Josep Alsina Casas
+stub: false
 honorific: Blessed
 summary: >-
   Franciscan Capuchin friar, professed on 19 December 1928. Ordained a priest on 20 February 1932. Murdered by Marxists

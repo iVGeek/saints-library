@@ -1,5 +1,6 @@
 ---
 name: Saint Wilfrid of York
+stub: false
 honorific: Saint
 summary: >-
   Son of a Northumbrian thegn. His mother died when Wilfrid was a boy, and he never got along with his step-mother. At

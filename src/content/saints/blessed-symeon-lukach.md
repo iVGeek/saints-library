@@ -1,5 +1,6 @@
 ---
 name: Blessed Symeon Lukach
+stub: false
 honorific: Blessed
 summary: >-
   Greek Catholic. Born to a farm family. Entered the seminary in 1913; his studies were interrupted by World War I, but

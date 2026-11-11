@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/9/97/Foligno_6.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Ermanno of Foligno
+stub: false
 honorific: Blessed
 summary: Franciscan friar minor at the convent in Foligno, Italy. Known as a miracle worker.
 deathYear: 1256

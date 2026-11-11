@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Amandus of Lérins
+stub: true
 honorific: Saint
 summary: Abbot of Lérins Abbey in 676.
 searchAliases:

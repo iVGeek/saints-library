@@ -1,5 +1,6 @@
 ---
 name: Saint Francesco Antonio Fasani
+stub: false
 honorific: Venerable
 summary: >-
   Known as a pious child. Entered the Conventual Franciscan order in 1695, taking the name Francis. Ordained in 1705.

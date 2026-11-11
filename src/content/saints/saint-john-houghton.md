@@ -1,5 +1,6 @@
 ---
 name: Saint John Houghton
+stub: false
 honorific: Saint
 summary: >-
   Graduated from Cambridge with degrees in civil and canon law. Ordained in 1501 and served as a parish priest for four

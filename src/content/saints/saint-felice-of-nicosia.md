@@ -1,5 +1,6 @@
 ---
 name: Saint Felice of Nicosia
+stub: false
 honorific: Venerable
 summary: >-
   Son of a shoemaker, he learned his father's trade. Pious, hard working youth. Orphan. At age 19 he tried to enter a

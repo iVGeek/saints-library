@@ -1,5 +1,6 @@
 ---
 name: Saint Phaolô Hanh
+stub: false
 honorific: Venerable
 summary: >-
   Born to a Christian family in the apostolic vicariate of West Cochinchina (in modern Vietnam), Paul and two of his

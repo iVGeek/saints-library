@@ -1,5 +1,6 @@
 ---
 name: Blessed Achilleo of Alexandria
+stub: false
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Books_from_the_Library_of_Congress_%28IA_classicalpronunc00carr%29.pdf/page1-500px-Books_from_the_Library_of_Congress_%28IA_classicalpronunc00carr%29.pdf.jpg
 honorific: Blessed

@@ -1,5 +1,6 @@
 ---
 name: Saint Hubert of Liège
+stub: false
 honorific: Saint
 summary: >-
   Grandson of Charibert, King of Toulouse. Eldest son of Bertrand, Duke of Aquitaine. Worldly, popular and dissolute

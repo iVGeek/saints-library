@@ -1,5 +1,6 @@
 ---
 name: Blessed Richard Langhorne
+stub: false
 honorific: Blessed
 summary: >-
   Third son of William Langhorne of the Inner Temple, London, England, and Lettice, daughter of Eustace Needham of

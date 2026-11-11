@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Dionysius of North Africa
+stub: false
 honorific: Saint
 summary: One of a group of 19 Christians martyred together in the persecutions of the Arian Vandal King Hunneric.
 deathYear: 430

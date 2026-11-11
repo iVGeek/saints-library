@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Gallicanus of Embrun
+stub: true
 honorific: Saint
 summary: Fifth bishop of Embrun, France.
 deathYear: 540

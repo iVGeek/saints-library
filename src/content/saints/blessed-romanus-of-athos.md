@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/b/b6/Menaion_icon_%2817_c.%2C_TsAK%29_-_October.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Romanus of Athos
+stub: false
 honorific: Blessed
 summary: >-
   A pius and illiterate man, following a pilgrimage to the Holy Lands, Romanus sought spiritual direction at the

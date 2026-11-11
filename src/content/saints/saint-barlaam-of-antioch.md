@@ -1,5 +1,6 @@
 ---
 name: Saint Barlaam of Antioch
+stub: false
 honorific: Saint
 summary: >-
   Uneducated Christian peasant. Jailed for his faith during the persecution of Diocletian. Brought to trial in 304, he

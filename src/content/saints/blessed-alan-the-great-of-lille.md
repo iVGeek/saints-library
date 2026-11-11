@@ -1,5 +1,6 @@
 ---
 name: Blessed Alan the Great of Lille
+stub: false
 honorific: Blessed
 summary: >-
   Philosopher. Theologian. Renowned professor universities at Paris and Montpellier in France. Joined the Cistercians

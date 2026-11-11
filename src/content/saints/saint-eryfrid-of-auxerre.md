@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Eryfrid of Auxerre
+stub: false
 honorific: Saint
 summary: >-
   Born to the Breton nobility, the son of Erifrifo and Iseberga. Priest. Chosen bishop of Auxerre, France by King

@@ -1,5 +1,6 @@
 ---
 name: Blessed Antonius Hamanomachi
+stub: false
 honorific: Blessed
 summary: >-
   Layman of the archdiocese of Nagasaki, Japan. Member of the Confraternity of the Rosary. Martyred in the persecution

@@ -1,5 +1,6 @@
 ---
 name: Blessed Engelmar Unzeitig
+stub: false
 honorific: Blessed
 summary: >-
   Professed priest in the Congregation of Missionaries of Mariannhill, ordained in 1939 and taking the name Engelmar.

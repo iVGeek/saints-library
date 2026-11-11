@@ -1,5 +1,6 @@
 ---
 name: Blessed Christian Lemarchand
+stub: false
 honorific: Blessed
 summary: >-
   Son of a career soldier, Christian lived part of his youth in Indochina (modern Vietnam) and Algeria. Director of the

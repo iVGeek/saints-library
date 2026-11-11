@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Peter of Pavia
+stub: true
 honorific: Saint
 summary: Bishop of Pavia, Italy.
 deathYear: 735

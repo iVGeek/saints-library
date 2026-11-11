@@ -1,6 +1,7 @@
 ---
 image: https://www.catholic.org/files/images/saints/3636.jpg
 name: Saint Gwen
+stub: false
 honorific: Saint
 summary: >-
   Married to Saint Fragan. Mother of Saint Winwallus, Saint Jacut, and Saint Guithern. Forced to flee Britain in the 5th

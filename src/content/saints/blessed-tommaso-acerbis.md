@@ -1,5 +1,6 @@
 ---
 name: Blessed Tommaso Acerbis
+stub: false
 honorific: Blessed
 summary: >-
   Born to a poor family, the boy worked as a shepherd in his youth and received no schooling at all. Joined the Capuchin

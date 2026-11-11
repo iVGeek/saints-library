@@ -1,5 +1,6 @@
 ---
 name: Saint Juventius of Antioch
+stub: false
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/St._Vincent%27s_manual_-_containing_a_selection_of_prayers_and_devotional_exercises%2C_originally_prepared_for_use_of_the_Sisters_of_Charity_in_the_United_States_of_America_%28IA_stvincentsmanual00cath%29.pdf/page1-500px-thumbnail.pdf.jpg
 honorific: Saint

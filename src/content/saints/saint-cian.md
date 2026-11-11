@@ -1,5 +1,6 @@
 ---
 name: Saint Cian of Wales
+stub: true
 honorific: Saint
 summary: Sixth century soldier. Hermit in Wales. Servant to Saint Peris.
 born: Welsh

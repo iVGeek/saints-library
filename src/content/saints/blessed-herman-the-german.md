@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/5/57/Anton_van_Dyck_-_The_Vision_of_the_Blessed_Hermann_Joseph_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 name: Blessed Herman the German
+stub: false
 honorific: Blessed
 summary: >-
   In 1218 he travelled from Krakow to Rome with Bishop Iwo Odrowaz, Saint Hyacinth and Blessed Ceslas Odrowaz where he

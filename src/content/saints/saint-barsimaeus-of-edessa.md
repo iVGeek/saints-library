@@ -1,5 +1,6 @@
 ---
 name: Saint Barsimaeus of Edessa
+stub: false
 honorific: Saint
 summary: Evangelizing bishop of Edessa, Syria. Martyred in the persecutions of President Lysias and Emperor Trajan.
 searchAliases:

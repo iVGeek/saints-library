@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Apronian the Executioner
+stub: false
 honorific: Saint
 summary: >-
   Executioner for imperial Rome. He was a witness at the trial of Saint Sisinnius who was charged with Christianity in

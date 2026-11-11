@@ -1,5 +1,6 @@
 ---
 name: Saint Camilla Battista Varano
+stub: false
 honorific: Saint
 summary: >-
   Born to the wealthy nobility; her father was the prince of Camerino, Italy. Camilla early felt a call to the religious

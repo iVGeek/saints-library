@@ -1,5 +1,6 @@
 ---
 name: Saint Edmund Arrowsmith
+stub: false
 honorific: Saint
 summary: >-
   Son of the farmer Robert Arrowsmith and Margery Gerard Arrowsmith. His rebel parents refused to attend Protestant

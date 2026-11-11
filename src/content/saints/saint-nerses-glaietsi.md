@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/e/e5/Nerses_shnorhali_illustration.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Nerses Glaietsi
+stub: false
 honorific: Saint
 summary: >-
   Uncle of Saint Nerces Lambronazi. Worked for the union of the Greek and Armenian churches, and of the Armenian church

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Benedict of Sebaste
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Sebaste, Samaria. During the persecutions of Julian the Apostate, Benedict fled to Gaul. Hermit near

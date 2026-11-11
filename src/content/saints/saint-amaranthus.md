@@ -1,5 +1,6 @@
 ---
 name: Saint Amaranthus
+stub: true
 honorific: Saint
 summary: Third century martyr.
 searchAliases:

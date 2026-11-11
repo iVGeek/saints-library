@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Derfel Gadarn
+stub: false
 honorific: Saint
 summary: >-
   Born a prince, the son of King Hywel Mawr; grandson of Hoel I Mawr the Great. Brother of Saint Tudwal. Brother of

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/6/63/Sant_Amon_CauFerrat_Escriptori_mallorca_sXVII%281%29_3876_-_Copy.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Ammonius of Egypt
+stub: false
 honorific: Saint
 summary: >-
   One of a group of 37 Christian noblemen who worked together to spread the faith through Egypt. Though there were many

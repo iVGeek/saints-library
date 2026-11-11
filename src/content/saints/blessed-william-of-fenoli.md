@@ -1,5 +1,6 @@
 ---
 name: Blessed William of Fenoli
+stub: false
 honorific: Blessed
 summary: >-
   Hermit in the Torre Mondovi region. Carthusian lay-brother at the Charterhouse of Casularum, Lombardy, Italy where he

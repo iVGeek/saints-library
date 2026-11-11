@@ -1,5 +1,6 @@
 ---
 name: Saint John Grande
+stub: false
 honorific: Venerable
 summary: >-
   Raised in a solidly Christian family, John was a choir boy from age 7 to 12. He was apprenticed in the linen business

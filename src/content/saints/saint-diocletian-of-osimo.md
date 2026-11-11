@@ -1,5 +1,6 @@
 ---
 name: Saint Diocletian of Osimo
+stub: true
 honorific: Saint
 summary: Martyr.
 died: Osimo, Italy

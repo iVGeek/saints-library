@@ -1,5 +1,6 @@
 ---
 name: Saint James the Lesser
+stub: false
 honorific: Saint
 summary: >-
   Cousin of Jesus. Brother of Saint Jude Thaddeus. Raised is a Jewish home of the time with all the training in

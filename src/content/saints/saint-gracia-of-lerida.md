@@ -1,5 +1,6 @@
 ---
 name: Saint Gracia of Lérida
+stub: false
 honorific: Saint
 summary: >-
   Daughter of Almanzor, Muslim caliph of Lerida, Catalonia. Sister of Saint Bernard and Saint Maria. Convert, brought to

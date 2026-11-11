@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Conan of Cornwall
+stub: true
 honorific: Saint
 summary: Companion of Saint Petroc in 6th century Cornwall, England.
 region: England

@@ -1,5 +1,6 @@
 ---
 name: Saint Matthias of Miyako
+stub: false
 honorific: Saint
 summary: >-
   Franciscan tertiary. When soldiers arrived to arrest Christians during an official persecution, they were looking for

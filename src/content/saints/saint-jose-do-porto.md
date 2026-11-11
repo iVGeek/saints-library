@@ -1,5 +1,6 @@
 ---
 name: Saint José do Porto
+stub: false
 honorific: Venerable
 summary: Layman in the archdiocese of Natal, Brazil. One of the Martyrs of Brazil murdered by Calvinist fanatics.
 image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Brazil.jpg

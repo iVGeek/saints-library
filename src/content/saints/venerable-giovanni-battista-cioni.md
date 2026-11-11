@@ -1,5 +1,6 @@
 ---
 name: Venerable Giovanni Battista Cioni
+stub: true
 honorific: Venerable
 title: Priest
 summary: Priest in the Clerics Regular of the Mother of God.

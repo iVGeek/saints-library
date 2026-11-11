@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/4f/Frm_beatification_banner.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Thomas-René Dubuisson
+stub: false
 honorific: Blessed
 summary: >-
   Priest of the diocese of Orléans, France. Served in the Holy Cross parish in Sens, France in 1781, and then at the

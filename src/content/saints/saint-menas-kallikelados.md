@@ -1,5 +1,6 @@
 ---
 name: Saint Menas Kallikelados
+stub: false
 honorific: Saint
 summary: >-
   May have been a camel driver in civilian life. Soldier in the imperial Roman army, serving under Firmilian. During the

@@ -1,5 +1,6 @@
 ---
 name: Saint Donatus of Arezzo
+stub: false
 honorific: Saint
 summary: >-
   Educated in Rome, Italy. During the persecutions of Diocletian, he fled from Rome to Arezzo, Italy. There his obvious

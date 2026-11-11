@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Serapion of Alexandria
+stub: false
 honorific: Saint
 summary: Tortured and martyred in the persecutions of Decius for permitting Christian worship in his home.
 deathYear: 248

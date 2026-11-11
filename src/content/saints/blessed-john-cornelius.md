@@ -1,5 +1,6 @@
 ---
 name: Blessed John Cornelius
+stub: false
 honorific: Blessed
 summary: >-
   Born to Irish immigrant parents. Educated at Oxford, and a fellow of Exeter College, Oxford. Studied theology at

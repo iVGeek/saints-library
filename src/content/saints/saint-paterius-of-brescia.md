@@ -1,5 +1,6 @@
 ---
 name: Saint Paterius of Brescia
+stub: false
 honorific: Saint
 summary: Monk. Friend and spiritual student of Pope Saint Gregory the Great. Bishop of Brescia, Italy. Prolific writer.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Paterius-of-Brescia.jpg

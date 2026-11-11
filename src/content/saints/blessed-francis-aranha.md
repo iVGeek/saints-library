@@ -1,5 +1,6 @@
 ---
 name: Blessed Francis Aranha
+stub: false
 honorific: Blessed
 summary: >-
   Jesuit missionary in India who entered the Order on 1 November 1571, assigned first to colleges in Cochin and Goa. In

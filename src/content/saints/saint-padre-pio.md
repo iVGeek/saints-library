@@ -1,5 +1,6 @@
 ---
 name: Saint Padre Pio
+stub: false
 honorific: Saint
 title: St. Padre Pio
 summary: >-

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Sennara
+stub: false
 honorific: Saint
 summary: >-
   Born a princess, the daughter of Count Even of Brest (in modern western France). She married the Count of Goëlo, an

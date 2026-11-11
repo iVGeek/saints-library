@@ -1,5 +1,6 @@
 ---
 name: Saint Stephen du Bourg
+stub: false
 honorific: Saint
 summary: >-
   Canon of Saint Rufus at Valence, France. Companion of Saint Bruno at the foundation of the Grande Chartreuse. Founded

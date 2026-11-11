@@ -1,5 +1,6 @@
 ---
 name: Saint Ariadne
+stub: false
 honorific: Saint
 summary: >-
   Christian slave of a Phrygian prince. Flogged for refusing to join in pagan celebrations on her owner's birthday. When

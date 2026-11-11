@@ -1,5 +1,6 @@
 ---
 name: Saint Exuperantius of Cingoli
+stub: true
 honorific: Saint
 summary: Fifth century bishop of Cingoli, Italy.
 image: >-

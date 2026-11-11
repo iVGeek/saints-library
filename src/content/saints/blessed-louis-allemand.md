@@ -1,5 +1,6 @@
 ---
 name: Blessed Louis Allemand
+stub: false
 honorific: Blessed
 summary: >-
   Born to the French nobility. Canon lawyer. Bishop of Maguelonne, France in 1418. Advisor, courtier and diplomat in

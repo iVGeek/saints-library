@@ -1,5 +1,6 @@
 ---
 name: Saint Joseph Zhang Dapeng
+stub: false
 honorific: Venerable
 summary: >-
   A clever and inquisitive boy, he was much attracted to Taoism in his youth. He moved to Guiyang in 1794, and entered

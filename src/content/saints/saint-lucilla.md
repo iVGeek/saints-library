@@ -1,5 +1,6 @@
 ---
 name: Saint Lucilla
+stub: false
 honorific: Saint
 summary: >-
   Sister of Saint Flora of Rome, she was kidnapped and enslaved by Saint Eugene of Rome, she was freed when he

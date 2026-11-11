@@ -1,5 +1,6 @@
 ---
 name: Martyrs of Caesarea
+stub: true
 honorific: Saint
 image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Caesarea.jpg
 deathYear: 309

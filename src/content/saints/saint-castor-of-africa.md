@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Castor of Africa
+stub: true
 honorific: Saint
 summary: African martyr. No other information has survived.
 region: England

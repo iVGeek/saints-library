@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Innocent of Apollonia
+stub: false
 honorific: Saint
 summary: >-
   Christian who fled to a cave near Apollonia, Macedonia to escape persecution for his faith, but was caught and

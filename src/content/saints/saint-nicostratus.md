@@ -1,5 +1,6 @@
 ---
 name: Saint Nicostratus
+stub: true
 honorific: Saint
 summary: One of the Four Crowned Martyrs.
 image: https://catholicsaints.info/wp-content/uploads/img-Four-Crowned-Martyrs.jpg

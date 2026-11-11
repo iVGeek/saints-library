@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Mamelta of Persia
+stub: true
 honorific: Saint
 summary: Pagan priest in Bethfarme, Persia. Convert to Christianity. Martyr.
 deathYear: 344

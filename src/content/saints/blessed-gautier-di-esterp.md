@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Gautier di Esterp
+stub: false
 honorific: Blessed
 title: Priest
 summary: >-

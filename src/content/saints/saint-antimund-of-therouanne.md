@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Antimund of Thérouanne
+stub: false
 honorific: Saint
 summary: >-
   Hermit in Gallia Belgica (in modern northern France) in the early 6th century. Priest. Feeling a call to missionary

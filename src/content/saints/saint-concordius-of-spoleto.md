@@ -1,5 +1,6 @@
 ---
 name: Saint Concordius of Spoleto
+stub: false
 honorific: Saint
 summary: >-
   Sub-deacon in Rome, Italy. Spent most of his time alone in prayer and meditation. Imprisoned for his faith during the

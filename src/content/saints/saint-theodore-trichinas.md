@@ -1,5 +1,6 @@
 ---
 name: Saint Theodore Trichinas
+stub: true
 honorific: Saint
 summary: Fourth century hermit.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Theodore-Trichinas.jpg

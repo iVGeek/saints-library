@@ -1,5 +1,6 @@
 ---
 name: Saint Sixtus of Rheims
+stub: true
 honorific: Saint
 summary: First bishop of Rheims, France, serving from c.260 to c.280.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Sixtus-of-Rheims-1.jpg

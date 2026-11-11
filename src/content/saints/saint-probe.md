@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Probe
+stub: false
 honorific: Saint
 summary: >-
   Young lay woman who was drawn to religious life, refused a marriage, and fled from her family's home to escape it. She

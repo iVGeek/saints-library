@@ -1,5 +1,6 @@
 ---
 name: Saint Valentina of Caesarea
+stub: false
 honorific: Saint
 summary: >-
   Nun. During the pesecutions of emperor Maximilian and governor Firmilian, Valentina was taken to an altar to a pagan

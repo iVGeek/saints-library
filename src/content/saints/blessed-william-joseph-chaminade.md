@@ -1,5 +1,6 @@
 ---
 name: Blessed William Joseph Chaminade
+stub: false
 honorific: Blessed
 summary: >-
   Second-youngest of fifteen children of Blaise Chaminade and Catherine Bethon; a deeply religious family, three of his

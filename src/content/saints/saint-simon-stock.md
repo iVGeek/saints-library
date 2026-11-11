@@ -1,5 +1,6 @@
 ---
 name: Saint Simon Stock
+stub: false
 honorific: Saint
 summary: >-
   Little is known of his early life. Legend says that at age twelve he began to live as a hermit in a hollow oak tree;

@@ -1,5 +1,6 @@
 ---
 name: Saint Sithney
+stub: false
 honorific: Saint
 summary: >-
   Emigrated from Britain to Guic-Sezni, Brittany (in modern France) where he founded a monastery. A Breton legend says

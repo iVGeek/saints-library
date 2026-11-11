@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/d/db/Operation_Tidal_Wave_in_1943.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Sylvester of Troina
+stub: false
 honorific: Blessed
 summary: >-
   Born to the local nobility, as a young man he became a twelfth-century monk in the Basilian monastery of Saint Michael

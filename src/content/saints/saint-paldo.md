@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/0/0d/Old_Dasmari%C3%B1as_City_Hall%2C_Cavite%2C_Feb_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Paldo
+stub: false
 honorific: Saint
 summary: >-
   Brother of Saint Tato and Saint Taso. Benedictine monk at Farfa, Sabina, Italy. The three brothers founded the

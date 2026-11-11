@@ -1,5 +1,6 @@
 ---
 name: Saint Basileus of Amasea
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Amasea in Pontus. When he was killed in the Licinius persecutions by being thrown into the sea to drown, one

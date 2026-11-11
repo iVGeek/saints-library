@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Macarius of Arabia
+stub: false
 honorific: Saint
 summary: >-
   Priest. With Saint Eugene, he was scourged and exiled into the Arabian desert for his faith. When they were strong

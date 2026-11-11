@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Victor the Martyr
+stub: false
 honorific: Saint
 summary: Martyred with nine other Christians whose names have not come down to us. No other information as survived.
 region: England

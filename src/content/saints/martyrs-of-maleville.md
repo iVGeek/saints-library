@@ -1,5 +1,6 @@
 ---
 name: Martyrs of Maleville
+stub: true
 honorific: Saint
 summary: 50 Mercedarian friars murdered for their faith by Huguenots.
 deathYear: 1563

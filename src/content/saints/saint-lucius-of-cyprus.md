@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/5/50/Saint_Spyridon_Icon.tif?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Lucius of Cyprus
+stub: false
 honorific: Saint
 summary: >-
   4th century imperial Roman government official in Cyrene, Africa. He witnessed the faith and martyrdom of Saint

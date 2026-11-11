@@ -1,5 +1,6 @@
 ---
 name: Saint Varus of Kemet
+stub: false
 honorific: Saint
 summary: >-
   Soldier in Upper Egypt assigned to guard a group of monks who were condemend to death for their faith. They led Varus

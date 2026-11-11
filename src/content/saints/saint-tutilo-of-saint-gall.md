@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Tutilo of Saint Gall
+stub: false
 honorific: Saint
 summary: >-
   A large, powerfully built man. Educated at Saint Gall's monastery in Switzerland where he stayed to become a

@@ -1,5 +1,6 @@
 ---
 name: Saint Eulalia of Barcelona
+stub: false
 honorific: Saint
 summary: >-
   Sanctified virgin, the forerunner of professed nun. Martyred at age 13 or 14 in the persecutions of Diocletian. Often

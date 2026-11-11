@@ -1,5 +1,6 @@
 ---
 name: Saint Abundius of Como
+stub: false
 honorific: Saint
 summary: >-
   Priest. Bishop of Como, Italy. Noted theologian. Attended the Council of Constantinople in 450. Diplomat from Pope Leo

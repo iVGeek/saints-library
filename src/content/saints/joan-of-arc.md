@@ -1,5 +1,6 @@
 ---
 name: Joan of Arc
+stub: false
 honorific: Saint
 title: Virgin, Patroness of France
 summary: >-

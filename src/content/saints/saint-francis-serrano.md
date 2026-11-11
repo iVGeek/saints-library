@@ -1,5 +1,6 @@
 ---
 name: Saint Francis Serrano
+stub: false
 honorific: Venerable
 summary: >-
   Dominican priest. Missionary to Fujian, China; worked with Saint John Alcober. Imprisoned with Saint Pere Sans Jorda

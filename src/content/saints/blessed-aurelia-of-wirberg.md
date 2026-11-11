@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Aurelia of Wirberg
+stub: false
 honorific: Blessed
 title: Priest
 summary: >-

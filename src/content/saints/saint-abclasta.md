@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Abclasta of Ebsdorf
+stub: false
 honorific: Saint
 summary: Member of the nobility. Soldier. Killed in battle against invading pagan Normans. One of the Martyrs of Ebsdorf.
 searchAliases:

@@ -1,5 +1,6 @@
 ---
 name: Blessed Idesbald of Dunes
+stub: false
 honorific: Blessed
 summary: >-
   Court page and courtier to the Count of Flanders, Belgium. Canon priest of Veurne, Belgium in 1135, a position he

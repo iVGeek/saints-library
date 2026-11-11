@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Sabinus of Poitiers
+stub: true
 honorific: Saint
 summary: Spiritual student of Saint Germanus of Auxerre. Martyr.
 died: 5th century near Poitiers, France

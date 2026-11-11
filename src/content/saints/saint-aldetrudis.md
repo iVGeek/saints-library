@@ -1,5 +1,6 @@
 ---
 name: Saint Aldetrudis
+stub: false
 honorific: Saint
 summary: >-
   Daughter of Saint Vincent Madelgarus and Saint Waldetrudis; sister of Saint Madalberta; niece of Saint Aldegund of

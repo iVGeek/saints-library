@@ -1,5 +1,6 @@
 ---
 name: Blessed Pedro Romero Espejo
+stub: false
 honorific: Blessed
 summary: >-
   After studying at the Redemptorist in El Espino, Pedro joined the Order himself, and made his profession on 24

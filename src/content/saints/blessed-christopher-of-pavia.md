@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/7/75/2014-01-01-Pavia_Certosa.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Christopher of Pavia
+stub: false
 honorific: Blessed
 summary: >-
   Franciscan Conventual Friar Minor at the Borgo San Sepolcro convent in Tuscany, Italy. He is listed in the Franciscan

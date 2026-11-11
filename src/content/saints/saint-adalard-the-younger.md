@@ -1,5 +1,6 @@
 ---
 name: Saint Adalard the Younger
+stub: true
 honorific: Saint
 summary: Monk at Corbie Abbey.
 deathYear: 824

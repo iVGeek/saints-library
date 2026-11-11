@@ -1,5 +1,6 @@
 ---
 name: Blessed Andrés Molina Muñoz
+stub: true
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/40/Primera_foto_oficial_del_Gabinete_Ministerial_de_Michelle_Bachelet.jpg
 honorific: Blessed

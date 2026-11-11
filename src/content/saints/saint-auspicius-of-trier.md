@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Auspicius of Trier
+stub: true
 honorific: Saint
 summary: Bishop of Trier, Germany
 searchAliases:

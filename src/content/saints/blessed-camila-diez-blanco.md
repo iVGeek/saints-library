@@ -1,5 +1,6 @@
 ---
 name: Blessed Camila Díez Blanco
+stub: false
 honorific: Blessed
 summary: >-
   Baptized on the day she was born, and Confirmed in 1892. In March 1930 she moved in with her recently widowed brother,

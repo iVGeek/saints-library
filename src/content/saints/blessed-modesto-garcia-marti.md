@@ -1,5 +1,6 @@
 ---
 name: Blessed Modesto García Martí
+stub: false
 honorific: Blessed
 summary: >-
   The third of seven children born to Francisco García and Joaquina Martí, Modesto was baptized at the age of two days.

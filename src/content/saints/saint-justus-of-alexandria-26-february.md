@@ -1,5 +1,6 @@
 ---
 name: Saint Justus of Alexandria
+stub: true
 image: >-
   https://commons.wikimedia.org/wiki/Special:FilePath/1855_Spruneri_Map_of_North_Africa_in_Ancient_Times_%2528_Carthage%252C_Numidia%252C_Alexandria_%2529_-_Geographicus_-_AfricaNorth-spruneri-1855.jpg?width=600
 honorific: Saint

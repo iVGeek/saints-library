@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Macarius of Valdesaz
+stub: false
 honorific: Saint
 title: Hermit
 summary: >-

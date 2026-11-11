@@ -1,5 +1,6 @@
 ---
 name: Blessed Robert of Malatesta
+stub: false
 honorific: Blessed
 summary: >-
   Born to the nobility, the son of Pandolph Malatesta, the Lord of Rimini, Robert was orphaned as a boy, and was

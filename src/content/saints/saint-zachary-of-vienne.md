@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/f/fc/John_in_Korovniki_church_-_prophet_07_Zechariach_%28c._1654%2C_Yaroslavl%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Zachary of Vienne
+stub: true
 honorific: Saint
 summary: Second bishop of Vienne, France. Martyred in the persecutions of Trajan.
 deathYear: 106

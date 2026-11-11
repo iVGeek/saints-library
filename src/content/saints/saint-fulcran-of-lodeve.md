@@ -1,5 +1,6 @@
 ---
 name: Saint Fulcran of Lodève
+stub: false
 honorific: Saint
 summary: >-
   Pious youth who early decided on a life in the Church. Priest. Bishop of Lodève, France for 57 years, consecrated on 4

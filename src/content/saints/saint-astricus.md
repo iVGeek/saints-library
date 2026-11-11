@@ -1,5 +1,6 @@
 ---
 name: Saint Astricus of Esztergom
+stub: false
 honorific: Saint
 summary: >-
   Monk in Rome, Italy, taking the name Astricus. Friend of Saint Adalbert of Prague, and assisted Adalbert on his

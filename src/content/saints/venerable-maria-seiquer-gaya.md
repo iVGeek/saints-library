@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Venerable María Séiquer Gayá
+stub: true
 honorific: Venerable
 summary: Founded the Apostolic Sisters of Christ Crucified.
 birthYear: 1891

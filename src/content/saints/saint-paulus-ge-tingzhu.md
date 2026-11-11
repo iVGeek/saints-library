@@ -1,5 +1,6 @@
 ---
 name: Saint Paulus Ge Tingzhu
+stub: false
 honorific: Venerable
 summary: >-
   Lifelong lay man in the apostolic vicariate of Southeastern Zhili, China. Farmer. Leader of the local Christians in

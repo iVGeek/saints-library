@@ -1,5 +1,6 @@
 ---
 name: Saint Elesbaan of Ethiopia
+stub: false
 honorific: Saint
 summary: >-
   Christian King in Ethiopia in the early 6th century. With the support of Byzantine emperors Justin I and Justinian, he

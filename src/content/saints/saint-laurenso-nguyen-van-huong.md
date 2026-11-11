@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Laurensô Nguyen Van Huong
+stub: false
 honorific: Saint
 summary: >-
   Priest of the apostolic vicariate of West Tonkin (in modern Vietnam). Arrested as he was visiting a dying man during

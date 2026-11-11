@@ -1,5 +1,6 @@
 ---
 name: Saint Cyril of Alexandria
+stub: false
 honorific: Saint
 title: St. Cyril of Alexandria
 summary: >-

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Manuel Collellmir Sentíes
+stub: false
 honorific: Blessed
 summary: >-
   Franciscan Capuchin friar, joining on 29 August 1935. He didn't live to make his solemn profession as he was murdered

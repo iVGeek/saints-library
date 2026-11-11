@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/2/29/SDamiano-Clara_og_s%C3%B8stre.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Felicia Meda
+stub: false
 honorific: Blessed
 summary: >-
   Eldest of three children, she was orphaned as a small girl, and had to care for her brother and sister. At age 12 she

@@ -1,5 +1,6 @@
 ---
 name: Saint Honorina of Graville
+stub: false
 honorific: Saint
 summary: >-
   One of the earliest martyrs in Gaul (modern France). Her cultus in Normandy goes back to the beginning of the Church,

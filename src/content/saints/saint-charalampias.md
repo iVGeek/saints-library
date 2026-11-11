@@ -1,5 +1,6 @@
 ---
 name: Saint Charalampias
+stub: false
 honorific: Saint
 summary: >-
   Elderly priest in Magnesia, Asia Minor (in modern Turkey). Tortured and martyred with Saint Baptus, Saint Porphyrius

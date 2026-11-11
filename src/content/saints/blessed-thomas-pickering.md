@@ -1,5 +1,6 @@
 ---
 name: Blessed Thomas Pickering
+stub: false
 honorific: Blessed
 summary: >-
   Benedictine lay brother at the Saint Gregory Monastery in Douai, France in 1660. Sent to London, England in 1665 to

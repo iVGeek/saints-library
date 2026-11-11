@@ -1,5 +1,6 @@
 ---
 name: Blessed Adalbert Nierychlewski
+stub: false
 honorific: Blessed
 summary: >-
   Professed priest in the Congregation of Saint Michael the Archangel, taking the name Adalbert. Arrested in 1941 in

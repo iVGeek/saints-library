@@ -1,5 +1,6 @@
 ---
 name: Blessed Andrea Schiafino
+stub: false
 honorific: Blessed
 summary: >-
   Mercedarian cantor. He was one of twenty Mercedarians who, when an unspecified plague struck Palermo, Italy,

@@ -1,5 +1,6 @@
 ---
 name: Saint John of Lycopolis
+stub: false
 honorific: Saint
 summary: >-
   Carpenter. Hermit on a mountain near Lycopolis from ages 25 to 65, living most of his life in a small, walled-up cell.

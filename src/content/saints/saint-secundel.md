@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Secundel
+stub: true
 honorific: Saint
 title: Hermit
 summary: Hermit on the island of Vindomitte, France. Friend of Saint Friard.

@@ -1,5 +1,6 @@
 ---
 name: Saint Bacchus
+stub: false
 honorific: Saint
 summary: >-
   An officer (secundarius) in the army of Emperor Maximian Herculeus. Held in high esteem by the emperor until he

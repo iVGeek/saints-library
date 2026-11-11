@@ -1,5 +1,6 @@
 ---
 name: Saint Hilary of Arles
+stub: false
 honorific: Saint
 summary: >-
   Born and raised a pagan; relative of Saint Honoratus of Arles. Highly placed civil authority. Honoratus invited Hilary

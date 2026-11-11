@@ -1,5 +1,6 @@
 ---
 name: Blessed Manuel Medina Olmos
+stub: false
 honorific: Blessed
 summary: >-
   Son of Juan Medina Garzón and Pilar Olmos Núñez. A prodigy, he graduated at age 13, earned a doctorate in theology at

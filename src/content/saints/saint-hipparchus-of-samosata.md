@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Hipparchus of Samosata
+stub: false
 honorific: Saint
 summary: >-
   Worked as a local magistrate. Martyred for refusing to perform a pagan rite in celebration of the victory of Emperor

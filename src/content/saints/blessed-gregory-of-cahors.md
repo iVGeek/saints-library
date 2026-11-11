@@ -1,5 +1,6 @@
 ---
 name: Blessed Gregory of Cahors
+stub: false
 honorific: Blessed
 summary: >-
   Mercedarian. Master of Sacred Theology. Assigned in 1462 to ransom Christians enslaved by Muslims in Africa, the

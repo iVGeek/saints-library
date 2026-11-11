@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Seustio
+stub: false
 honorific: Saint
 summary: >-
   Nephew of imperial proconsol Ablavio. One of a group of 80 Christians who had all been converted and baptized in Todi,

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Resignatus of Maastricht
+stub: false
 honorific: Saint
 summary: Son of Resignatus of Koblenz, a knight and Aielis. Bishop of Maastricht, Netherlands in 437, serving for 28 years.
 searchAliases:

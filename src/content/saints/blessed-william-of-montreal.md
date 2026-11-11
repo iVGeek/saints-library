@@ -1,5 +1,6 @@
 ---
 name: Blessed William of Montreal
+stub: false
 honorific: Blessed
 summary: Knight and member of the nobility in Aragon, Spain. One of early members of the Mercedarians.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-William-of-Montreal.jpg

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/d/de/ArmaghCICathedral.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Mac Laisre
+stub: false
 honorific: Saint
 summary: >-
   Monk and abbot who is reported to have lived at Bennchor or Bangor abbey in County Down, Ireland, in the 6th and 7th

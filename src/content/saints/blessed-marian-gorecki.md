@@ -1,5 +1,6 @@
 ---
 name: Blessed Marian Górecki
+stub: false
 honorific: Blessed
 summary: >-
   Son of Tomas and Petronela Górecki. Joined the army at age 17 fight in the Polish-Bolshevik war. Following his

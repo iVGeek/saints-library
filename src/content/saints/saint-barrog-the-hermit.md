@@ -1,5 +1,6 @@
 ---
 name: Saint Barrog the Hermit
+stub: false
 honorific: Saint
 summary: >-
   Seventh century spiritual student of Saint Cadoc of Wales. Hermit on an island off the coast of Glamorgan, a piece of

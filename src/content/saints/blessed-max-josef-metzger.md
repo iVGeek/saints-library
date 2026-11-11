@@ -1,5 +1,6 @@
 ---
 name: Blessed Max Josef Metzger
+stub: false
 honorific: Blessed
 summary: >-
   Ordained a priest of the archdiocese of Freiburg im Breisgau, Germany on 5 July 1911. Writer, poet, and from 1921 to

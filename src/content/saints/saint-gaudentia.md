@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Gaudentia
+stub: true
 honorific: Saint
 summary: Roman maiden. Early martyr. No other information has survived.
 region: Italy

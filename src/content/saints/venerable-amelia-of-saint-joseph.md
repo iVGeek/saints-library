@@ -1,5 +1,6 @@
 ---
 name: Venerable Amelia of Saint Joseph
+stub: true
 honorific: Venerable
 summary: Nun. Founded the Congregation of the Little Servants of the Poor of Maiquetia.
 image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Amelia-of-Saint-Joseph.jpg

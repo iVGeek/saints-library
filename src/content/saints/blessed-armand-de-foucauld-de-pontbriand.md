@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/6/60/Charles_de_Foucauld.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Armand de Foucauld de Pontbriand
+stub: true
 honorific: Blessed
 summary: Priest in the archdiocese of Arles, France. One of the Martyrs of September.
 birthYear: 1751

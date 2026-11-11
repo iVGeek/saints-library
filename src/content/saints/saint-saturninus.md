@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Saturninus
+stub: true
 honorific: Saint
 summary: Martyred in Africa. No other information has survived.
 region: England

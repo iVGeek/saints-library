@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Verus of Vienne
+stub: true
 honorific: Saint
 summary: Bishop of Vienne, Gaul (modern France). Attended the Synod of Arles in 314.
 searchAliases:

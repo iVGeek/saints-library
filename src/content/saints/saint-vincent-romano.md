@@ -1,5 +1,6 @@
 ---
 name: Saint Vincent Romano
+stub: false
 honorific: Venerable
 summary: >-
   Born to a poor but pius family. Educated in Naples, Italy where he studied the writings of Saint Alphonsus de Liguori

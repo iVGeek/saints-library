@@ -1,5 +1,6 @@
 ---
 name: Saint Albert of Tournai
+stub: false
 honorific: Saint
 summary: >-
   A pious youth, Albert received a good education in the faith from his parents, and preferred to spend his time alone

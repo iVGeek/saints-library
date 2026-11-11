@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Dionysia of Alexandria
+stub: false
 honorific: Saint
 summary: Married lay woman. Mother of a large family. Martyred in the persecutions of Decius.
 deathYear: 250

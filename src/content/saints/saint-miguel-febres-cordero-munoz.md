@@ -1,5 +1,6 @@
 ---
 name: Saint Miguel Febres Cordero Muñoz
+stub: false
 honorific: Venerable
 summary: >-
   Born to a prominent family, he had an unknown disability, and was unable to stand until age five when he received a

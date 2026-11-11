@@ -1,5 +1,6 @@
 ---
 name: Blessed Yosafat Kotsylovskyi
+stub: false
 honorific: Blessed
 summary: >-
   Greek Catholic. Studied theology in Rome, graduating in 1907. Ordained on 9 October 1907. Vice-rector and professor of

@@ -1,5 +1,6 @@
 ---
 name: Blessed Giuseppe Puglisi
+stub: false
 honorific: Blessed
 summary: >-
   Son of Carmelo and Giuseppa Fana Puglisi, a cobbler and a seamstress. Ordained on 2 July 1960 as a priest in the

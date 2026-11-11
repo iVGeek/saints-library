@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Guy of Auxerre
+stub: false
 honorific: Saint
 summary: >-
   Educated at the cathedral school at Auxerre, France. Priest. Chaplain and counselor to the court of king Raoul and

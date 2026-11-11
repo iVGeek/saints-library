@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Maura of Ravenna
+stub: true
 honorific: Saint
 summary: Nurse to Saint Fusca of Ravenna. Martyred in the persecutions of Decius.
 deathYear: 250

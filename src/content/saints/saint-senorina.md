@@ -1,5 +1,6 @@
 ---
 name: Saint Senorina of Basto
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility, and related to Saint Rudesind of Mondoñedo. Raised by her aunt, Blessed Godina who as abbess of

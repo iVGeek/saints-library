@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Teca
+stub: true
 honorific: Saint
 summary: Nun in or near Rúscach, County Louth, Ireland.
 searchAliases:

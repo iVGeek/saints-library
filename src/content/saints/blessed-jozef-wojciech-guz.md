@@ -1,5 +1,6 @@
 ---
 name: Blessed Józef Wojciech Guz
+stub: false
 honorific: Blessed
 summary: >-
   After high school Jozef tried to join the Jesuits, but was turned down. On 25 August 1908 be joined the Franciscans,

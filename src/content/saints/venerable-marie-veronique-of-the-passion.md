@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Venerable Marie-Veronique of the Passion
+stub: false
 honorific: Venerable
 summary: >-
   Daughter of an Anglican chaplain assigned to the British Embassy in Constantinople. An adult convert, joining the

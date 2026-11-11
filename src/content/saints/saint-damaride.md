@@ -1,6 +1,7 @@
 ---
 image: https://www.santiebeati.it/immagini/Thumbs/91089/91089.JPG
 name: Saint Damaride
+stub: true
 honorific: Saint
 summary: Martyr. No other information has survived.
 died: Rome, Italy, date unknown

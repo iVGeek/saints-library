@@ -1,5 +1,6 @@
 ---
 name: Saint Albert of Jerusalem
+stub: false
 honorific: Saint
 summary: >-
   Born to a wealthy and prominent noble Italian family. Well educated, especially in theology and law. Ordained, he

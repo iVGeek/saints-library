@@ -1,5 +1,6 @@
 ---
 name: Saint Prospero of Tarragona
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Tarragona, Spain c.693. In 711, ahead of Muslim invaders, Prospero packed up the cathedral's liturgical

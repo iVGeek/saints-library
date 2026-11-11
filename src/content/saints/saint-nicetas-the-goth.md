@@ -1,5 +1,6 @@
 ---
 name: Saint Nicetas the Goth
+stub: false
 honorific: Saint
 summary: >-
   Convert, brought to Christianity by the missionary and translator Ulphilas. Martyred in the persecutions of King

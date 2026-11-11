@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/9/9f/Facial_Chronicle_-_b.06%2C_p.028_-_Battle_of_Neva.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Margaret of Faenza
+stub: false
 honorific: Blessed
 summary: >-
   Benedictine Vallumbrosan nun at Saint John the Evangelist convent near Florence, Italy, where she eventually became

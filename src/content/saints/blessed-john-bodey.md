@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/4f/Alexander_Briant.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed John Bodey
+stub: false
 honorific: Blessed
 summary: >-
   Educated at Winchester and Oxford in England. Fellow of New College, Oxford in 1568. Convert. Studied law at Douai,

@@ -1,5 +1,6 @@
 ---
 name: Venerable Carlo Antonio Serafino Viale
+stub: false
 honorific: Venerable
 summary: >-
   From his youth, Carlo felt drawn to religious life. He joined Franciscan Friars Minor at the convent of Oregina, Italy

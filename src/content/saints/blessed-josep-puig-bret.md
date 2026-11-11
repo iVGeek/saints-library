@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Josep Puig Bret
+stub: false
 honorific: Blessed
 summary: >-
   Member of the Claretians, professed on 6 January 1880. Ordained a priest on 24 September 1883. Martyred in the Spanish

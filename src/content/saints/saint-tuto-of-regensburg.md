@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Tuto of Regensburg
+stub: false
 honorific: Saint
 summary: Monk and then abbot of Saint Emmeram Abbey in Regensburg, Germany. Bishop of Regensburg. Secretary to Emperor Arnold.
 searchAliases:

@@ -1,5 +1,6 @@
 ---
 name: Blessed Catherine of Pallanza
+stub: false
 honorific: Blessed
 summary: >-
   Catherine's entire family died of plague when the girl was very young, and she was adopted by a woman in Milan, Italy.

@@ -1,5 +1,6 @@
 ---
 name: Saint Maximus of Aquila
+stub: false
 honorific: Saint
 summary: >-
   Raised in a pious family, Maximus became a zealous deacon at Aveia, Italy. He aspired to the priesthood, but his open

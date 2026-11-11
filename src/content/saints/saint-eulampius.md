@@ -1,5 +1,6 @@
 ---
 name: Saint Eulampius
+stub: false
 honorific: Saint
 summary: >-
   Brother of Saint Eulampia. As a child he was arrested for being a Christian during the persecutions of Maximinian

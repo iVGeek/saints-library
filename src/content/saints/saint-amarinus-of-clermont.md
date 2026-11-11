@@ -1,5 +1,6 @@
 ---
 name: Saint Amarinus of Clermont
+stub: false
 honorific: Saint
 summary: >-
   Benedictine monk. Friend of Saint Praejectus of Clermont. Abbot of a monastery in the archdiocese of Clermont, France.

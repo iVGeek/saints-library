@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Mary the Consoler
+stub: true
 honorific: Saint
 summary: Sister of Saint Anno of Verona.
 died: 8th century

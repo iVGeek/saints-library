@@ -1,5 +1,6 @@
 ---
 name: Blessed Benedict of Urbino
+stub: false
 honorific: Blessed
 summary: >-
   The 7th of eleven children born to Domenico Passionei and Maddalena Cibo, members of the Italian nobility; Marco was

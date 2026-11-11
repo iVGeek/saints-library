@@ -1,5 +1,6 @@
 ---
 name: Saint Pulcheria
+stub: false
 honorific: Saint
 summary: >-
   Daughter of Byzantine Emperor Arcadius and Empress Eudoxia. Her father died when she was 15, and she became regent of

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/7/7f/Saint_Modestus_1851_Zidarovo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Modestus of Alexandria
+stub: true
 honorific: Saint
 summary: Child martyr.
 region: England

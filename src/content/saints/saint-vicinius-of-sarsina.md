@@ -1,5 +1,6 @@
 ---
 name: Saint Vicinius of Sarsina
+stub: false
 honorific: Saint
 summary: >-
   Prayerful hermit on a mountain near Sarsina, Italy; it has since been named Monte San Vicinio in his honour. As was

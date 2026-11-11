@@ -1,5 +1,6 @@
 ---
 name: Saint Aldo of Carbonari
+stub: true
 honorific: Saint
 title: Hermit
 summary: Eighth-century hermit charcoal-burner in northern Italy known for his holiness.

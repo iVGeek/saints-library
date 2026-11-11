@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Fraternus of Auxerre
+stub: true
 honorific: Saint
 summary: Bishop of Auxerre, France. Martyr.
 searchAliases:

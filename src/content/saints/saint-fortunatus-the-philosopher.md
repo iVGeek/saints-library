@@ -1,5 +1,6 @@
 ---
 name: Saint Fortunatus the Philosopher
+stub: false
 honorific: Saint
 summary: >-
   Bishop driven from the north of Italy by the Lombards, settling near Chelles, France. Known for the depth of both his

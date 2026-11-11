@@ -1,5 +1,6 @@
 ---
 name: Blessed Girolamo Carmelo di Savoia
+stub: false
 honorific: Blessed
 summary: >-
   Born to the nobility, a member of the family of the Dukes of Savoy. Soldier. Joined the Mercedarians in Barcelona,

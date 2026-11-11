@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Senach of Clonard
+stub: false
 honorific: Saint
 summary: >-
   Educated at the School of Clonard in Ireland. Spiritual student of Saint Finnian of Clonard. Extreme ascetic who lived

@@ -1,5 +1,6 @@
 ---
 name: Saint Ronald of Orkney
+stub: false
 honorific: Saint
 summary: >-
   Son of Lendmann Kol Kalisson and Gunhild Erlendsdotter, and described as “elegant and accomplished”. Appointed Earl of

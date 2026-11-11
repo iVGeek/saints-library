@@ -1,5 +1,6 @@
 ---
 name: Blessed Bolesława Maria Lament
+stub: false
 honorific: Blessed
 summary: >-
   Eldest of eight children born to Martin Lament and Lucia Cyganowska; three of her siblings died in childhood, deeply

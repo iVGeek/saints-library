@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Hermolaus of Nicomedia
+stub: false
 honorific: Saint
 summary: >-
   Priest in Nicomedia, Bithynia, Asia Minor (modern Izmit, Turkey). In his old age, he converted Saint Pantaleon, then

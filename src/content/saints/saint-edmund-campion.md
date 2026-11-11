@@ -1,5 +1,6 @@
 ---
 name: Saint Edmund Campion
+stub: false
 honorific: Saint
 summary: >-
   Son of a Catholic bookseller named Edmund whose family converted to Anglicanism. The boy planned to enter his father's

@@ -1,5 +1,6 @@
 ---
 name: Saint Eutropia of Palmyra
+stub: true
 honorific: Saint
 summary: Twelve-year-old girl martyred in the persecutions of Diocletian.
 deathYear: 303

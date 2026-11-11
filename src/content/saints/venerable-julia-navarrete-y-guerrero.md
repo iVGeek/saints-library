@@ -1,5 +1,6 @@
 ---
 name: Venerable Julia Navarrete y Guerrero
+stub: false
 honorific: Venerable
 summary: >-
   One of six children born to pious parents, Professor Demetrio Navarrette, director of a teacher's college, and Julia

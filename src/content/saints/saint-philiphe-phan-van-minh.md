@@ -1,5 +1,6 @@
 ---
 name: Saint Philiphê Phan Van Minh
+stub: false
 honorific: Venerable
 summary: >-
   Priest in the the apostolic vicariate of West Cochinchina (in modern Vietnam). Member of the Paris Society for Foreign

@@ -1,6 +1,7 @@
 ---
 image: https://www.catholic.org/files/images/saints/5533.jpg
 name: Saint Polychronius
+stub: false
 honorific: Saint
 summary: >-
   Priest. Attended the Council of Nicaea. Opposed Arianism. Murdered at the altar by Arian extremists while he was

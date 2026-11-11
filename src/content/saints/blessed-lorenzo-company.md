@@ -1,5 +1,6 @@
 ---
 name: Blessed Lorenzo Company
+stub: false
 honorific: Blessed
 summary: >-
   Joined the Mercedarians as a young man. Commander of the convent of Santa Maria degli Angeli in El Puig, Spain. While

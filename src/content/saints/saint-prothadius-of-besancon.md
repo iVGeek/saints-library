@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Prothadius of Besançon
+stub: true
 honorific: Saint
 title: Bishop
 summary: Bishop of Besançon, France in the early 7th century.

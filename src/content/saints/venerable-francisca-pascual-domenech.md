@@ -1,5 +1,6 @@
 ---
 name: Venerable Francisca Pascual Doménech
+stub: true
 honorific: Venerable
 summary: Founded the Franciscan Sisters of the Immaculate in 1876.
 image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Francisca-Pascual-Domenech.jpg

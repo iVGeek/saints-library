@@ -1,5 +1,6 @@
 ---
 name: Saint Irene of Thessalonica
+stub: false
 honorific: Saint
 summary: >-
   Sister of Saint Agape and Saint Chionia. Convicted of possessing the Scriptures despite a prohibition issued in 303 by

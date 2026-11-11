@@ -1,5 +1,6 @@
 ---
 name: Saint Buithe of Monasterboice
+stub: false
 honorific: Saint
 summary: Pilgrim to Rome who studied in Italy, then returned to Scotland to work as a missionary to the Picts.
 searchAliases:

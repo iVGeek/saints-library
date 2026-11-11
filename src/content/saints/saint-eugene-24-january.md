@@ -1,5 +1,6 @@
 ---
 name: Saint Eugene
+stub: true
 honorific: Saint
 summary: Martyr. No other information has survived.
 died: burned at the stake in Asia Minor

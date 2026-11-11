@@ -1,5 +1,6 @@
 ---
 name: Saint Eliano of Cagliari
+stub: true
 honorific: Saint
 title: Bishop
 summary: Eary bishop of Cagliari, Italy.

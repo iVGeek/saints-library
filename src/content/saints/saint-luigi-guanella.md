@@ -1,5 +1,6 @@
 ---
 name: Saint Luigi Guanella
+stub: false
 honorific: Venerable
 summary: >-
   Ninth of thirteen children born to Lawrence and Maria Guanella, a poor but pious family. Luigi entered seminary at age

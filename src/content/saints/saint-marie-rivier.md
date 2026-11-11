@@ -1,5 +1,6 @@
 ---
 name: Saint Marie Rivier
+stub: false
 honorific: Venerable
 summary: >-
   At the age of sixteen months, Marie broke her hip in a fall that left her crippled. Her mother, refusing to give up,

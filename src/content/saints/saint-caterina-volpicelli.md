@@ -1,5 +1,6 @@
 ---
 name: Saint Caterina Volpicelli
+stub: false
 honorific: Venerable
 summary: >-
   Born into an upper middle-class family, Caterina was well educated at the Royal Educational Institute of San

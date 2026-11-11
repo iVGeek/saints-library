@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Gobert of Apremont
+stub: false
 honorific: Saint
 summary: Count of Apremont. Crusader. Benedictine Cistercian monk at Villers, Brabant, Belgium.
 deathYear: 1263

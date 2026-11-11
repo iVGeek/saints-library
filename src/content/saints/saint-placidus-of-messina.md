@@ -1,5 +1,6 @@
 ---
 name: Saint Placidus of Messina
+stub: false
 honorific: Saint
 summary: >-
   Young spiritual student of Saint Benedictine of Nursia. Mentioned in the Dialogues of Pope Saint Gregory the Great.

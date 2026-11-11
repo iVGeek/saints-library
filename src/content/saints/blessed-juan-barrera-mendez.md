@@ -1,5 +1,6 @@
 ---
 name: Blessed Juan Barrera Méndez
+stub: false
 honorific: Blessed
 summary: >-
   Child of the diocese of Quiché, Guatemala. He was member of Catholic Action, and taught the faith to small children.

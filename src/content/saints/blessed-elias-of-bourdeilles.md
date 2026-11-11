@@ -1,5 +1,6 @@
 ---
 name: Blessed Elias of Bourdeilles
+stub: false
 honorific: Blessed
 summary: >-
   Born to the French nobility. Franciscan at age ten. Priest. Bishop of P&eacute;rigord, France in 1437. In 1452 he

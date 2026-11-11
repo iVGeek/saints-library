@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Tetta of Wimborne
+stub: false
 honorific: Saint
 summary: >-
   Abbess of Wimborne Abbey during a period when it had over 500 sisters including Saint Lioba of Bischofsheim, Saint

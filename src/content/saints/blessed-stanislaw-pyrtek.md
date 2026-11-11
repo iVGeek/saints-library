@@ -1,5 +1,6 @@
 ---
 name: Blessed Stanislaw Pyrtek
+stub: false
 honorific: Blessed
 summary: >-
   Priest in the diocese of Vilnius, Lithuania, ordained in 1940. He served in the Ikazni parish, working with Blessed

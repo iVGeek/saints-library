@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Dadas of Persia
+stub: false
 honorific: Saint
 summary: >-
   Persian noble. Related to King Shapur II. Married to Saint Casdoe. Martyred for refusing to deny Christianity during

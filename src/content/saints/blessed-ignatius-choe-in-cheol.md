@@ -1,5 +1,6 @@
 ---
 name: Blessed Ignatius Choe In-cheol
+stub: false
 honorific: Blessed
 summary: Brother of Blessed Matthias Choe In-gil. Layman convert and martyr in the apostolic vicariate of Korea.
 image: https://catholicsaints.info/wp-content/uploads/img-Maryrs-of-Korea.jpg

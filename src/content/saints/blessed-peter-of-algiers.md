@@ -1,5 +1,6 @@
 ---
 name: Blessed Peter of Algiers
+stub: false
 honorific: Blessed
 summary: >-
   Mercedarian friar sent to Algiers in northern Africa in the mid-15th century to redeem Christians from Muslim slavery.

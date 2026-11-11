@@ -1,5 +1,6 @@
 ---
 name: Saint Firmian the Abbot
+stub: true
 honorific: Saint
 summary: Abbot of San Sabino Piceno near Fermo, Italy.
 searchAliases:

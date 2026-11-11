@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/6/67/Santa_prisca.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Musa of Rome
+stub: false
 honorific: Saint
 summary: >-
   Young girl in 6th century Rome, Italy who had visions and mystical experiences. Saint Gregory the Great wrote about

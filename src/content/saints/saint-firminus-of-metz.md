@@ -1,6 +1,7 @@
 ---
 image: https://www.catholic.org/files/images/saints/3380.jpg
 name: Saint Firminus of Metz
+stub: true
 honorific: Saint
 summary: Bishop of Metz, France for eight years.
 searchAliases:

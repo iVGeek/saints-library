@@ -1,5 +1,6 @@
 ---
 name: Saint Scholastica
+stub: false
 honorific: Saint
 title: St. Scholastica
 image: https://commons.wikimedia.org/wiki/Special:FilePath/Kleinmariazell_-_Altar_Scholastica_2.jpg?width=600

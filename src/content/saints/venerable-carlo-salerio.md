@@ -1,5 +1,6 @@
 ---
 name: Venerable Carlo Salerio
+stub: false
 honorific: Venerable
 summary: >-
   He began his studies in seminaries in the Italian cities of Milan and Monza, and while still a seminarian, he fought

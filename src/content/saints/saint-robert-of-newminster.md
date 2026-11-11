@@ -1,5 +1,6 @@
 ---
 name: Saint Robert of Newminster
+stub: false
 honorific: Saint
 summary: >-
   Studied at the University of Paris. Wrote a commentary on the Psalms, but it has been lost. Parish priest at Gargrave,

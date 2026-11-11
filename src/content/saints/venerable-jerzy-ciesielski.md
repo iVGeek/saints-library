@@ -1,5 +1,6 @@
 ---
 name: Venerable Jerzy Ciesielski
+stub: false
 honorific: Venerable
 summary: >-
   Married layman in the diocese of Kraków, Poland. Civil engineer. Father of three. Teacher at the Cracow University of

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Arthur O'Neilly
+stub: false
 honorific: Blessed
 summary: >-
   Trinitarian priest assigned to care for and try to free Christians imprisoned, enslaved and held for ransom by Muslims

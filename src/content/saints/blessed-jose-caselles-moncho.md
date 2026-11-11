@@ -1,5 +1,6 @@
 ---
 name: Blessed José Caselles-Moncho
+stub: false
 honorific: Blessed
 summary: >-
   Studied at the Salesian College in Valencia, Spain. Joined the Salesians, making his profession in 1927. Teacher in

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Zosimus of Umbria
+stub: true
 honorific: Saint
 summary: Martyred in the persecutions of Trajan.
 searchAliases:

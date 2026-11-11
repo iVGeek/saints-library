@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/6/69/Teresa-de-Lisieux.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Ida of Louvain
+stub: false
 honorific: Blessed
 summary: Cistercian Benedictine nun at Rossendael (Val-des-Roses) near Malines. Visionary.
 deathYear: 1290

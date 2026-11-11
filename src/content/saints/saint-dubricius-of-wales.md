@@ -1,5 +1,6 @@
 ---
 name: Saint Dubricius of Wales
+stub: false
 honorific: Saint
 summary: >-
   Related to Saint Brychan of Brycheiniog. One of the founders of monastic life in Wales. He founded monasteries in

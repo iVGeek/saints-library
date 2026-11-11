@@ -1,5 +1,6 @@
 ---
 name: Saint Kentigern
+stub: false
 honorific: Saint
 summary: >-
   Grandson of the British prince Lothus; son of Saint Theneva. Hermit. Monk. Missionary to Scotland, beginning at

@@ -1,5 +1,6 @@
 ---
 name: Saint Aurelia
+stub: true
 honorific: Saint
 summary: Martyred in the persecutions of Valerian.
 deathYear: 258

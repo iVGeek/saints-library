@@ -1,5 +1,6 @@
 ---
 name: Saint Sigebert III of Austrasia
+stub: false
 honorific: Saint
 summary: >-
   Born a prince the eldest son of King Dagobert I. Brother of King Clovis II. Baptized by Saint Amand of Maastricht at

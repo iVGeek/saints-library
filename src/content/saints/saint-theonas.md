@@ -1,5 +1,6 @@
 ---
 name: Saint Theonas
+stub: false
 honorific: Saint
 summary: >-
   Pagan magician. Convert, brought to Christianity by Saint Theopemptus of Nicomedia. Martyred in the persecutions of

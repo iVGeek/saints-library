@@ -1,5 +1,6 @@
 ---
 name: Saint Ouen of Rouen
+stub: false
 honorific: Saint
 summary: >-
   Son of Aiga Saint Authaire of La-Ferté. Acquainted with Saint Columbanus, Saint Faro of Meaux, and Saint Aile.

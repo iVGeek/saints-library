@@ -1,5 +1,6 @@
 ---
 name: Saint Clement Mary Hofbauer
+stub: false
 honorific: Venerable
 summary: >-
   Ninth child of a butcher who changed the family name from the Moravian Dvor&aacute;k to the Germanic Hofbauer. His

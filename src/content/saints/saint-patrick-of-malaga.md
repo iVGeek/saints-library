@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/3/35/Colegiata_San_Patricio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Patrick of Málaga
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Malaga, Spain. At one point he was forced to flee to Auvergne, France to escape persecution. Little else is

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Amunia of San Millán
+stub: true
 honorific: Saint
 title: Hermit
 summary: Married and the mother of Saint Aurea of San Mill&aacute;n. Widow. Hermitess.

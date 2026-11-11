@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/4a/Guiss%C3%A9ny_%2829%29_%C3%89glise_Saint-Sezny_05.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed William Dean
+stub: false
 honorific: Blessed
 summary: >-
   Protestant minister who converted to Catholicism. Studied for the priesthood at Rheims, France. Ordained in 1581. He

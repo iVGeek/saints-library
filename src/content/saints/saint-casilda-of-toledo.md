@@ -1,5 +1,6 @@
 ---
 name: Saint Casilda of Toledo
+stub: false
 honorific: Saint
 summary: Born to Moorish parents. Convert to Christianity. Anchorite near Briviesca, Burgos, Spain.
 image: https://commons.wikimedia.org/wiki/Special:FilePath/Francisco_de_Zurbar%25C3%25A1n_-_Santa_Casilda.jpg?width=600

@@ -1,5 +1,6 @@
 ---
 name: Saint Desiderius of Vienne
+stub: false
 honorific: Saint
 summary: >-
   Educated in Vienne, France and a noted classics scholar, he became an Archdeacon and then Bishop of Vienne. Exiled and

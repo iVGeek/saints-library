@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Syncrotas of Syrmium
+stub: true
 honorific: Saint
 summary: One of a group of 4th century martyrs.
 deathYear: 303

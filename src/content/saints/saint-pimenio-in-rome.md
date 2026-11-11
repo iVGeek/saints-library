@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Pimenio in Rome
+stub: true
 honorific: Saint
 summary: Priest. Martyr.
 searchAliases:

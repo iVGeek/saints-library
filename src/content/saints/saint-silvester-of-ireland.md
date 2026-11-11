@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Silvester of Ireland
+stub: true
 honorific: Saint
 summary: Evangelizing bishop in Ireland, working with Saint Palladius of Ireland.
 searchAliases:

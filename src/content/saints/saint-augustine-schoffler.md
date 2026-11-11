@@ -1,5 +1,6 @@
 ---
 name: Saint Augustine Schoffler
+stub: false
 honorific: Venerable
 summary: >-
   Studied in the seminary at Pont a Mousson and the Grand Seminary of Nancy. Priest. Member of the Paris Society of

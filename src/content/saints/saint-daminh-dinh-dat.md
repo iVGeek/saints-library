@@ -1,5 +1,6 @@
 ---
 name: Saint Ðaminh Ðinh Ðat
+stub: false
 honorific: Venerable
 summary: >-
   Layman in the apostolic vicariate of East Tonkin (in modern Vietnam). A soldier during the persecutions of emperor

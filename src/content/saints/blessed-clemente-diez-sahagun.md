@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Clemente Díez Sahagún
+stub: false
 honorific: Blessed
 summary: Member of the Hospitallers of Saint John of God. Martyred in the Spanish Civil War.
 birthYear: 1861

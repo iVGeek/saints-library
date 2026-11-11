@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Victorinus of Auvergne
+stub: true
 honorific: Saint
 summary: Martyred in the persecutions of Valerian and Gallienus.
 deathYear: 265

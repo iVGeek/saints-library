@@ -1,5 +1,6 @@
 ---
 name: Saint Léon-Ignace Mangin
+stub: false
 honorific: Venerable
 summary: >-
   Joined the Jesuit on 5 November 1975. Priest. Missionary to China, sailing in 1882. Worked with Saint Paul Denn.

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Sulien of Amorica
+stub: false
 honorific: Saint
 summary: >-
   Born to the Breton nobility. Missionary to the British Isles, working to oppose heresies. Hermit on an island near

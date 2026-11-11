@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Facundinus of Taino
+stub: true
 honorific: Saint
 summary: Bishop of Taino, Italy.
 deathYear: 620

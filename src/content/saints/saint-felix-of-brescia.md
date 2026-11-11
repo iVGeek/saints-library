@@ -1,5 +1,6 @@
 ---
 name: Saint Felix of Brescia
+stub: true
 honorific: Saint
 summary: Bishop of Brescia, Italy for 40 years. Fierce opponent of Arianism.
 deathYear: 650

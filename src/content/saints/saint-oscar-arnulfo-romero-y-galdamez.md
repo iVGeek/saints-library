@@ -1,5 +1,6 @@
 ---
 name: Saint Oscar Arnulfo Romero y Galdámez
+stub: false
 honorific: Venerable
 summary: >-
   Second of seven children born to Santo Romero and Guadaleupe de Jesus Galdamez. Ordained on 4 April 1942 in Rome,

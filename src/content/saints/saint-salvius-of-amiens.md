@@ -1,5 +1,6 @@
 ---
 name: Saint Salvius of Amiens
+stub: false
 honorific: Saint
 summary: >-
   Probably born to a wealthy family as he had much time to study in his youth; through these studies Salvius became

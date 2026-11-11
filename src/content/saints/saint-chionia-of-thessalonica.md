@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Chionia of Thessalonica
+stub: false
 honorific: Saint
 summary: >-
   Sister of Saint Agape and Saint Irene. Convicted of possessing the Scriptures despite a prohibition issued in 303 by

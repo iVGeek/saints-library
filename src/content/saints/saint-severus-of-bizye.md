@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Severus of Bizye
+stub: false
 honorific: Saint
 summary: Brought Saint Mennone the Centurian to Christianity. Martyred in the persecutions of Diocletian.
 searchAliases:

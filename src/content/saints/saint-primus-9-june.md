@@ -1,5 +1,6 @@
 ---
 name: Saint Primus
+stub: false
 honorific: Saint
 summary: >-
   Brother of Saint Felicianus. With his brother he was tortured and martyred. The two were the first martyrs whose

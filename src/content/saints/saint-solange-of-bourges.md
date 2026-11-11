@@ -1,5 +1,6 @@
 ---
 name: Saint Solange of Bourges
+stub: false
 honorific: Saint
 summary: >-
   Born to a family of poor vine dressers. Young virgin shepherdess who took a personal vow of chastity, devoting herself

@@ -1,5 +1,6 @@
 ---
 name: Saint Adaucus of Phrygia
+stub: false
 honorific: Saint
 summary: >-
   Born to the Italian nobility. Friend and court favourite of Roman Emperor Diocletian who repeatedly honoured and

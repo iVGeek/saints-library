@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/c/cf/Johnchrysostom.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Arcadius of Cyprus
+stub: false
 honorific: Saint
 summary: Fourth century missionary, possibly a bishop, who worked for the conversion of people on the island of Cyprus.
 searchAliases:

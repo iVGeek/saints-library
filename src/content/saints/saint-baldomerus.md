@@ -1,5 +1,6 @@
 ---
 name: Saint Baldomerus of Saint Justus
+stub: false
 honorific: Saint
 summary: >-
   Blacksmith and locksmith in Lyon, France known for his personal piety, charity and simple living. Late in life he

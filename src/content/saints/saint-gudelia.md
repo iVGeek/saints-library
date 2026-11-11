@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Gudelia
+stub: true
 honorific: Saint
 summary: Maiden martyred in the persecutions of Shapur II.
 deathYear: 340

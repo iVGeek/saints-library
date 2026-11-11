@@ -1,5 +1,6 @@
 ---
 name: Saint Gemiliano of Cagliari
+stub: true
 honorific: Saint
 summary: First century bishop of Cagliari, Italy. Martyred in the persecutions of Nero.
 searchAliases:

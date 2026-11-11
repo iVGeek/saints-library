@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Tomás Alonso Sanjuán
+stub: true
 honorific: Blessed
 summary: Salesian priest. Martyred in the Spanish Civil War.
 birthYear: 1893

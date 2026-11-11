@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Desiderius of Fontenelle
+stub: false
 honorific: Saint
 summary: Son of Saint Waningus of Fécamp. Benedictine monk at Fontenelle, Normandy, France.
 deathYear: 700

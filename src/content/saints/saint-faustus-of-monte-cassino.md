@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Faustus of Monte Cassino
+stub: false
 honorific: Saint
 summary: Sixth-century Benedictine monk at Monte Cassino Abbey. Spiritual student of Saint Benedict of Nursia.
 region: England

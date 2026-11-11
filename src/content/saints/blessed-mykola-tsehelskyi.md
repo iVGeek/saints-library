@@ -1,5 +1,6 @@
 ---
 name: Blessed Mykola Tsehelskyi
+stub: false
 honorific: Blessed
 summary: >-
   Greek Catholic. Studied theology at the university of Lviv, Ukraine, graduating in 1923. Married with two sons and two

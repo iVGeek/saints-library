@@ -1,5 +1,6 @@
 ---
 name: Saint Joseph of Leonessa
+stub: false
 honorific: Saint
 summary: >-
   Third of eight children born to John Desideri, a wool merchant, and Serafina Paolini. His parents died when the boy

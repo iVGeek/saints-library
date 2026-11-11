@@ -1,5 +1,6 @@
 ---
 name: Saint Candida the Younger
+stub: true
 honorific: Saint
 summary: Married lay woman and mother in Naples, Italy.
 region: Italy

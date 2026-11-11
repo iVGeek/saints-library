@@ -1,5 +1,6 @@
 ---
 name: Saint Adolphus of Osnabrück
+stub: false
 honorific: Saint
 summary: >-
   Count of Tecklenburg, Westphalia. Priest. Canon of Cologne, Germany, a position he resigned to become a monk at the

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Domnina of Aegea
+stub: true
 honorific: Saint
 summary: Pious Christian woman martyred in the persecutions of Pro-consul Lysias.
 deathYear: 285

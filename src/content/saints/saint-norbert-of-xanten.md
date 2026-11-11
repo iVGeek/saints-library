@@ -1,5 +1,6 @@
 ---
 name: Saint Norbert of Xanten
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility, Norbert was raised around the royal court and served as almoner for Emperor Henry V. In the

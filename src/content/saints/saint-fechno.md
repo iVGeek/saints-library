@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Fechno
+stub: false
 honorific: Saint
 summary: Spiritual student of Saint Columbanus. Went with Columbanus to evangelize in Scotland.
 searchAliases:

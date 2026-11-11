@@ -1,5 +1,6 @@
 ---
 name: Blessed Ángel Roba Osorno
+stub: false
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Julieta_y_Romeo_-_drama_tr%C3%A1gico_en_cuatro_actos_y_en_verso_%28IA_julietayromeodra00daca%29.pdf/page1-960px-Julieta_y_Romeo_-_drama_tr%C3%A1gico_en_cuatro_actos_y_en_verso_%28IA_julietayromeodra00daca%29.pdf.jpg
 honorific: Blessed

@@ -1,5 +1,6 @@
 ---
 name: Saint Aedesius of Alexandria
+stub: false
 honorific: Saint
 summary: >-
   Brother of Saint Apphian of Caesarea. Publicly reproved a judge who had forced nuns to work in brothels in order to

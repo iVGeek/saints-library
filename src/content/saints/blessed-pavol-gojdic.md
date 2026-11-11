@@ -1,5 +1,6 @@
 ---
 name: Blessed Pavol Gojdic
+stub: false
 honorific: Blessed
 summary: >-
   Son of the Greek-Catholic priest Štefan Gojdic and Anna Gerberyov&aacute;. Attended elementary school at Cigelka,

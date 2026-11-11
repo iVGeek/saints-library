@@ -1,5 +1,6 @@
 ---
 name: Blessed Ignazio Maloyan
+stub: false
 honorific: Blessed
 summary: >-
   Son of Melkon and Farid&eacute; Maloyan. Studied at the convent of Bzommar-Lebanon where he was ordained on 6 August

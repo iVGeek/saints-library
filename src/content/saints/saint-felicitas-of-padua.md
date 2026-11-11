@@ -1,5 +1,6 @@
 ---
 name: Saint Felicitas of Padua
+stub: true
 honorific: Saint
 summary: Nun in Padua, Italy.
 died: 9th century

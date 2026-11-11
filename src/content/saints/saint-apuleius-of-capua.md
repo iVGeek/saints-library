@@ -1,5 +1,6 @@
 ---
 name: Saint Apuleius of Capua
+stub: false
 honorific: Saint
 summary: >-
   Student of Simon Magus. Converted to Christianity by Saint Peter the Apostle; an old tradition says that he was one of

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Etherius of Nicomedia
+stub: true
 honorific: Saint
 summary: Martyred in the persecutions of Diocletian.
 searchAliases:

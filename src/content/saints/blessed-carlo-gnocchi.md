@@ -1,5 +1,6 @@
 ---
 name: Blessed Carlo Gnocchi
+stub: false
 honorific: Blessed
 summary: >-
   Youngest of three boys born to Henry and Clementine Gnocchi; his father died when Carlo was 5 years old, and his two

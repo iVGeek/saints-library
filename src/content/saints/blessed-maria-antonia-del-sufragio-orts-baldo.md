@@ -1,5 +1,6 @@
 ---
 name: Blessed María Antonia del Sufragio Orts Baldó
+stub: false
 honorific: Blessed
 summary: >-
   Professed religious in the Sisters of the Christian Doctrine, entering on 5 April 1922. She served as local superior

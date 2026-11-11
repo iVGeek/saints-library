@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Theodorus of Alexandria
+stub: false
 honorific: Saint
 summary: >-
   Bishop in the area of Alexandria, Egypt. Martyred with approximately 600 Christians in the persecution of Maximian

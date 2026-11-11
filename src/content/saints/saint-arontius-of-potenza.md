@@ -1,5 +1,6 @@
 ---
 name: Saint Arontius of Potenza
+stub: true
 honorific: Saint
 summary: Martyred in the persecutions of Maximian.
 searchAliases:

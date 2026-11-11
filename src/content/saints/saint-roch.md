@@ -1,5 +1,6 @@
 ---
 name: Saint Roch
+stub: false
 honorific: Saint
 summary: >-
   French noble who early developed a sympathy for the poor and sick; reported to have been born with the image of a red

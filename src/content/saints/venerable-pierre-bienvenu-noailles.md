@@ -1,5 +1,6 @@
 ---
 name: Venerable Pierre-Bienvenu Noailles
+stub: false
 honorific: Venerable
 summary: >-
   Priest in the diocese of Bordeaux, France. Founded the Agricultural Sisters of the Holy Family and the Sisters of the

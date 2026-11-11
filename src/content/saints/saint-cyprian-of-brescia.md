@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Cyprian of Brescia
+stub: true
 honorific: Saint
 summary: Martyr. No other information has survived.
 region: Italy

@@ -1,5 +1,6 @@
 ---
 name: Saint Roderick of Cordoba
+stub: false
 honorific: Saint
 summary: >-
   A Christian priest in Moorish Spain, Roderick had a brother who became Moslem and another with no religion. One day he

@@ -1,5 +1,6 @@
 ---
 name: Saint Matthew the Apostle
+stub: false
 honorific: Saint
 summary: >-
   Son of Alphaeus, he lived at Capenaum on Lake Genesareth. He was a Roman tax collector, a position equated with

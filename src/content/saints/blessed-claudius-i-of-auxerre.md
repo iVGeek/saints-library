@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/b/b9/All_saint.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Claudius I of Auxerre
+stub: true
 honorific: Blessed
 title: Bishop
 summary: Seventh century bishop of Auxerre, France.

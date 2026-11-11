@@ -1,5 +1,6 @@
 ---
 name: Venerable Maria Carlotta Fontana
+stub: false
 honorific: Venerable
 summary: Nun. Member of the Poor Daughters of Saint Cajetan and served as its superior-general.
 image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Maria-Carlotta-Fontana.jpg

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Jovin of the Via Latina
+stub: true
 honorific: Saint
 summary: Martyred in the persecutions of Valerian and Gallienus.
 searchAliases:

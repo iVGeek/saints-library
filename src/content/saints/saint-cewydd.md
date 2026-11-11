@@ -1,5 +1,6 @@
 ---
 name: Saint Cewydd
+stub: true
 honorific: Saint
 summary: Known to have lived in Anglesey, Wales. No other information has survived.
 born: Welsh

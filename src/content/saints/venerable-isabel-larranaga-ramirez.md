@@ -1,5 +1,6 @@
 ---
 name: Venerable Isabel Larrañaga Ramírez
+stub: false
 honorific: Venerable
 summary: >-
   Nun. Founded the Hermanas de la Caridad del Sagrado Corazón de Jesús (Sisters of Charity of the Sacred Heart of

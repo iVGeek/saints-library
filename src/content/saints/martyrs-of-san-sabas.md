@@ -1,5 +1,6 @@
 ---
 name: Martyrs of San Sabas
+stub: false
 honorific: Saint
 summary: Twenty monks who were martyred together in their monastery by invading Saracens.
 deathYear: 797

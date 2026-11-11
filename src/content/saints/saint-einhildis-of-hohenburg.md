@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Einhildis of Hohenburg
+stub: true
 honorific: Saint
 summary: Benedictine nun at Hohenburg, Alsace, France. Abbess of nearby Niedermunster.
 searchAliases:

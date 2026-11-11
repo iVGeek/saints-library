@@ -1,5 +1,6 @@
 ---
 name: Saint Anastasius of Sinai
+stub: false
 honorific: Saint
 summary: >-
   May have studied medicine as he seemed to have a greater knowledge of the subject than most people. Monk at Saint

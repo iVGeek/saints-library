@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Ogasawara Shiro
+stub: false
 honorific: Blessed
 summary: >-
   Lifelong layman in the diocese of Fukuoka, Japan. Son of Blessed Ogasawara Yosaburo Gen'ya and Blessed Ogasawara Miya

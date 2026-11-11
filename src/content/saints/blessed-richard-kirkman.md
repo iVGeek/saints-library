@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/f/f9/Natascha_McElhone_2014_1.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Richard Kirkman
+stub: false
 honorific: Blessed
 summary: >-
   Studied at Douai, France; ordained in Rheims, France in 1579. Returned to England to minister to covert Catholics.

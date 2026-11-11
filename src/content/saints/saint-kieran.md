@@ -1,5 +1,6 @@
 ---
 name: Saint Kieran
+stub: false
 honorific: Saint
 summary: >-
   Convert to Christianity. Pilgrim to Rome, Italy. Ordained by Saint Patrick. First Bishop of Ossory, Ireland. Founder

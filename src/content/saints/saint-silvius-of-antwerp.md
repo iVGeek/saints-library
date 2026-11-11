@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Silvius of Antwerp
+stub: true
 honorific: Saint
 summary: Martyr.
 searchAliases:

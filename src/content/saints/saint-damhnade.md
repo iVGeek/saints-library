@@ -1,6 +1,7 @@
 ---
 image: https://www.catholic.org/files/images/saints/2815.jpg
 name: Saint Damhnade
+stub: true
 honorific: Saint
 summary: Virgin venerated in Ireland. No other information has survived.
 region: Ireland

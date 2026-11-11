@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Honorius of Ostia
+stub: true
 honorific: Saint
 summary: Martyr. No other information has survived.
 died: Ostia, Italy, date unknown

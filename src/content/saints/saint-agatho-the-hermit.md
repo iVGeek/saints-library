@@ -1,5 +1,6 @@
 ---
 name: Saint Agatho the Hermit
+stub: false
 honorific: Saint
 summary: >-
   Fourth-century hermit, monk and abbot in the Egyptian desert. He was one of the leaders in the early monastic

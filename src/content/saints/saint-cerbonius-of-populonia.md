@@ -1,5 +1,6 @@
 ---
 name: Saint Cerbonius of Populonia
+stub: false
 honorific: Saint
 summary: ' His reputation for holiness spread, and Ce Raised in a Christian family in North Africa. Priest, ordained by Saint Regulus. He and most other Christians in his area fled ahead of the Vandal persecutions; he and many other moved to the Tuscany region of Italy and lived as hermits.'
 image: https://catholicsaints.info/wp-content/gallery/saint-cerbonius-of-populonia/saint-cerbonius-of-populonia.jpg

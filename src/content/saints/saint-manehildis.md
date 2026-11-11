@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Manehildis
+stub: false
 honorific: Saint
 summary: >-
   Youngest of seven sisters, all of whom are honoured as saints in parts of Champagne, France. Hermitess. Nun, receiving

@@ -1,5 +1,6 @@
 ---
 name: Venerable Francisco of the Child Jesus
+stub: true
 honorific: Venerable
 summary: Discalced Carmelite brother.
 image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Francisco-of-the-Child-Jesus.jpg

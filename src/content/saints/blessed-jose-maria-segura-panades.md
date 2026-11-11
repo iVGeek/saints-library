@@ -1,5 +1,6 @@
 ---
 name: Blessed José María Segura Panadés
+stub: false
 honorific: Blessed
 summary: >-
   Studied at the seminary of Valencia, Spain, and ordained a priest in the archdiocese of Valencia on 12 June 1921.

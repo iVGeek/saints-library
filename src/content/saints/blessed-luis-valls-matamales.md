@@ -1,5 +1,6 @@
 ---
 name: Blessed Luis Valls Matamales
+stub: false
 honorific: Blessed
 summary: >-
   Franciscan Capuchin friar, professed on 28 May 1891. Ordained a priest on 22 December 1900. Noted preacher who devoted

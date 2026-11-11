@@ -1,5 +1,6 @@
 ---
 name: Saint Gaius of Ancyra
+stub: false
 honorific: Saint
 summary: >-
   Father of Saint Lollia, Saint Urban and Saint Probus of Ancyra; nephew of Saint Eustochius. Raised a pagan in Klistra,

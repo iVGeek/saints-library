@@ -1,5 +1,6 @@
 ---
 name: Saint Philomena
+stub: false
 honorific: Saint
 title: St. Philomena
 summary: >-

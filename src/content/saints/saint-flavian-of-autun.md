@@ -1,5 +1,6 @@
 ---
 name: Saint Flavian of Autun
+stub: true
 honorific: Saint
 summary: Seventh-century bishop of Autun, France.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Flavian-of-Autun.jpg

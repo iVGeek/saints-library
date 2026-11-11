@@ -1,5 +1,6 @@
 ---
 name: Saint Albert Chmielowski
+stub: false
 honorific: Venerable
 summary: >-
   Born to a wealthy aristocratic family, he initially studied agriculture in order to manage the family estate. Involved

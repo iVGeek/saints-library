@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Bertrand of Grand-Selve
+stub: false
 honorific: Blessed
 summary: >-
   Monk known for daily Gospel study and meditation; he was known to have heavenly visions during Mass. Noted preacher

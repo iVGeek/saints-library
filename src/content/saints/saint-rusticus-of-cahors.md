@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Rusticus of Cahors
+stub: false
 honorific: Saint
 summary: >-
   Born to the Gallo-Roman nobility, the son of Salvius and Herchenfreda; brother of Saint Desiderius of Cahors. Rusticus

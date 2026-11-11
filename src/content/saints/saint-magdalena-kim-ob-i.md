@@ -1,5 +1,6 @@
 ---
 name: Saint Magdalena Kim Ob-I
+stub: false
 honorific: Venerable
 summary: Married lay woman in the apostolic vicariate of Korea. One of the Martyrs of Korea.
 image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Korea.jpg

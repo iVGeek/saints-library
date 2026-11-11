@@ -1,5 +1,6 @@
 ---
 name: Saint Candidus of Lucania
+stub: true
 honorific: Saint
 summary: Martyr.
 died: Lucania (modern Basilicata), Italy, date unknown

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Anthusa of Africa
+stub: false
 honorific: Saint
 summary: Martyred in the persecutions of the Arian Vandal king Hunneric. No other information has surved.
 died: burned alive in the late 5th century

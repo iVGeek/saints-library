@@ -1,5 +1,6 @@
 ---
 name: Saint Firmus of Tagaste
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Tagaste, Numidia in North Africa (modern Souk Ahrus, Algeria). Tortured extensively to betray the hiding

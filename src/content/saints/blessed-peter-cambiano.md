@@ -1,5 +1,6 @@
 ---
 name: Blessed Peter Cambiano
+stub: false
 honorific: Blessed
 summary: >-
   Peter's father was a city councillor, his mother was from a noble family, and the boy was raised in a pious household.

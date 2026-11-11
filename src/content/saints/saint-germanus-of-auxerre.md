@@ -1,5 +1,6 @@
 ---
 name: Saint Germanus of Auxerre
+stub: false
 honorific: Saint
 summary: >-
   Born to a noble Gallic family, the son of Rusticus and Germanilla. Studied general topics in Arles and Lyon in France,

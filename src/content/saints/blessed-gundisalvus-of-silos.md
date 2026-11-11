@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Gundisalvus of Silos
+stub: true
 honorific: Blessed
 summary: Benedictine monk at Silos, Old Castile (Spain) under Saint Dominic of Silos.
 searchAliases:

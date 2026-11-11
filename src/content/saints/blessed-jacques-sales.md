@@ -1,5 +1,6 @@
 ---
 name: Blessed Jacques Salès
+stub: false
 honorific: Blessed
 summary: >-
   Jesuit. Preached against Protestantism in the Cevennes region of France. A band of Huguenot raiders dragged him and

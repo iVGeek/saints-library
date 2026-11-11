@@ -1,5 +1,6 @@
 ---
 name: Saint Petronilla of Rome
+stub: false
 honorific: Saint
 summary: >-
   For centuries legend said she was the daughter of Saint Peter, and that she was so beautiful that he had locked her in

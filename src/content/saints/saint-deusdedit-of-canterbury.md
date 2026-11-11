@@ -1,5 +1,6 @@
 ---
 name: Saint Deusdedit of Canterbury
+stub: false
 honorific: Saint
 summary: >-
   Benedictine monk. Sixth Archbishop of Canterbury, England in 655, the first Anglo-Saxon to hold the seat. Served

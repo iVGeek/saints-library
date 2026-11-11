@@ -1,6 +1,7 @@
 ---
 image: https://www.santiebeati.it/immagini/Thumbs/90983/90983.JPG
 name: Saint Gistaldo
+stub: false
 honorific: Saint
 summary: Son of Saint Sigismund of Burgundy. With his parents, he was captured and murdered by invading Franks in 523. Martyr.
 searchAliases:

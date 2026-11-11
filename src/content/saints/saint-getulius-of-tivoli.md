@@ -1,5 +1,6 @@
 ---
 name: Saint Getulius of Tivoli
+stub: false
 honorific: Saint
 summary: >-
   Husband of Saint Symphorosa of Tivoli. Roman officer in the armies of Emperors Trajan and Hadrian. Public convert to

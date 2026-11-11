@@ -1,5 +1,6 @@
 ---
 name: Blessed Hugolinus Magalotti
+stub: false
 honorific: Blessed
 summary: >-
   Born to the nobility, when Hugoline's parents died, he gave in to the call to religious life, became Franciscan Friar

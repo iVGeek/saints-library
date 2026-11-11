@@ -1,5 +1,6 @@
 ---
 name: Blessed Reyes Us Hernández
+stub: false
 honorific: Blessed
 summary: >-
   Married layman of the diocese of Quiché, Guatemala. He was very active in his local parish, and was murdered by

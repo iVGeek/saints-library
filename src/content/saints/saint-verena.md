@@ -1,5 +1,6 @@
 ---
 name: Saint Verena of Zürich
+stub: false
 honorific: Saint
 summary: >-
   Born to a wealthy Theban family, and baptized by Bishop Charemon. She was related to one of the soldiers of the Theban

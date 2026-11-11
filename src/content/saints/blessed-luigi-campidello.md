@@ -1,5 +1,6 @@
 ---
 name: Blessed Luigi Campidello
+stub: false
 honorific: Blessed
 summary: >-
   Fourth of six children of Joseph and Filomena Belpani. Known as a good student and an extremely pious child. Taught

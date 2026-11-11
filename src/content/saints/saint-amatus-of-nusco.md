@@ -1,5 +1,6 @@
 ---
 name: Saint Amatus of Nusco
+stub: false
 honorific: Saint
 summary: >-
   Born to a wealthy family. First bishop of Nusco, Italy in 1048. He restored and built churches, and helped found the

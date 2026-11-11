@@ -1,5 +1,6 @@
 ---
 name: Saint Fulrad of Saint Denis
+stub: false
 honorific: Saint
 summary: >-
   Born wealthy. Benedictine monk at the Saint-Denis abbey near Paris, France where he was chosen abbot in 750. Using his

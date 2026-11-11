@@ -1,5 +1,6 @@
 ---
 name: Blessed Pau Bori Puig
+stub: true
 honorific: Blessed
 summary: Jesuit priest. Martyred in the Spanish Civil War.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Pau-Bori-Puig.jpg

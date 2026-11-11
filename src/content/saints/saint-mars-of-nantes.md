@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/3/3c/Panorama_depuis_Butte_Sainte-Anne.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Mars of Nantes
+stub: true
 honorific: Saint
 summary: Sixth century bishop of Nantes, France.
 region: France

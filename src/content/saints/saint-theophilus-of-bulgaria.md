@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Theophilus of Bulgaria
+stub: false
 honorific: Saint
 summary: >-
   Benedictine monk in Asia Minor. Spoke out against the iconoclasts for which he was beaten, imprisoned, and exiled by

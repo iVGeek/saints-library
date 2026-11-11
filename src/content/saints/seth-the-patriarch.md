@@ -1,5 +1,6 @@
 ---
 name: Seth the Patriarch
+stub: false
 honorific: Saint
 summary: >-
   Old Testament patriarch. Third son of Adam and Eve, and the eldest son at home after the death of Abel by Cain. Lived

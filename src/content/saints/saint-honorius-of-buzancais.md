@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Honorius of Buzançais
+stub: false
 honorific: Saint
 summary: >-
   Wealthy layman cattle merchant noted for his love of life and his charity. When he returned from a trip, he found his

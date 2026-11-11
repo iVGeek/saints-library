@@ -1,5 +1,6 @@
 ---
 name: Saint Faro of Meaux
+stub: false
 honorific: Saint
 summary: >-
   Son of Count Agneric. Brother of Saint Cagnoald and Saint Burgundofara. Grew up in the court of King Theodebert II of

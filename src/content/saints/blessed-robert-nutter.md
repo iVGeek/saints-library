@@ -1,5 +1,6 @@
 ---
 name: Blessed Robert Nutter
+stub: false
 honorific: Blessed
 summary: >-
   Brother of Blessed John Nutter. Educated at Brasenose College, Oxford, England in the mid-1560's. Seminarian at the

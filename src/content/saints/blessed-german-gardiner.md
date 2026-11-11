@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/3/34/Heilige_Afra.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed German Gardiner
+stub: false
 honorific: Blessed
 summary: >-
   Educated at the University of Cambridge, England. Secretary to the bishop of Winchester, England. Martyred with

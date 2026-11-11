@@ -1,5 +1,6 @@
 ---
 name: Saint Flavianus II of Como
+stub: false
 honorific: Saint
 title: Bishop
 summary: 22nd bishop of Como, Italy, serving for 12 of the years between 692 and 712, but the exact dates have been lost.

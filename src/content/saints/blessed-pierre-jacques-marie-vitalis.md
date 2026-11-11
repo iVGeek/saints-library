@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/4f/Frm_beatification_banner.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Pierre-Jacques-Marie Vitalis
+stub: false
 honorific: Blessed
 summary: >-
   Priest in the archdiocese of Paris, France. He served in the parish of St-Nicolas-des-Champes in Paris from 1784 to

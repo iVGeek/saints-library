@@ -1,5 +1,6 @@
 ---
 name: Blessed John of Perugia
+stub: false
 honorific: Blessed
 summary: >-
   Franciscan friar. In 1216, he and Blessed Peter of Sassoferrato were sent by Saint Francis of Assisi to preach to the

@@ -1,5 +1,6 @@
 ---
 name: Saint Adeloga of Kitzingen
+stub: false
 honorific: Saint
 summary: >-
   Frankish princess. Benedictine nun. Founded the Benedictine convent of Kitzingen in Franconia (part of modern

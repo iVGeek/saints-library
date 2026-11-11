@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Sylvester of Réome
+stub: false
 honorific: Saint
 summary: >-
   Monk. Second abbot of Réome Abbey (modern Moutiers-Saint-Jean Abbey) near Dijon, France, selected by the founder of

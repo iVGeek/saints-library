@@ -1,5 +1,6 @@
 ---
 name: Blessed François-Joseph de la Rochefoucald-Maumont
+stub: false
 honorific: Blessed
 summary: >-
   Born to the French nobility. Priest. Bishop of Beauvais, France. Led his priests in resisting the schismatic oath of

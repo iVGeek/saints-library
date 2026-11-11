@@ -1,5 +1,6 @@
 ---
 name: Saint Alexander of Bergamo
+stub: false
 honorific: Saint
 summary: >-
   Imperial Roman centurian, possibly in the Theban Legion. Martyred both for his faith, and probably for refusing to

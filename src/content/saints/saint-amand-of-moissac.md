@@ -1,5 +1,6 @@
 ---
 name: Saint Amand of Moissac
+stub: true
 honorific: Saint
 title: Bishop
 summary: Founder and first abbot of the monastery of Moissac, France.

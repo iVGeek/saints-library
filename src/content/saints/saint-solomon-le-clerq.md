@@ -1,5 +1,6 @@
 ---
 name: Saint Solomon le Clerq
+stub: false
 honorific: Venerable
 summary: >-
   Son of a wealthy French wine merchant. Though his father wanted him to pursue the family business, Nicholas early

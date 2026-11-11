@@ -1,5 +1,6 @@
 ---
 name: Saint Germanus of Montfort
+stub: false
 honorific: Saint
 summary: >-
   Studied at Paris, France. Priest. Benedictine monk at Savigny, France. Prior of the monastery at Talloires, France.

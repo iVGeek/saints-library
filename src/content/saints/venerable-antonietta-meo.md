@@ -1,5 +1,6 @@
 ---
 name: Venerable Antonietta Meo
+stub: false
 honorific: Venerable
 summary: >-
   Younger daughter of Michele and Maria Meo. Member of the Catholic Action youth group. Nennolina developed bone cancer

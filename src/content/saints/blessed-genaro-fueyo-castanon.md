@@ -1,6 +1,7 @@
 ---
 image: https://www.santiebeati.it/immagini/Thumbs/96967/96967.JPG
 name: Blessed Genaro Fueyo Castañon
+stub: false
 honorific: Blessed
 summary: >-
   The son of Ramón Fueyo and Isabel Castañón. Ordained a priest in the diocese of Oviedo, Spain on 17 December 1887.

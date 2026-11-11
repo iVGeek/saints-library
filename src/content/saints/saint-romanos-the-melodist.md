@@ -1,5 +1,6 @@
 ---
 name: Saint Romanos the Melodist
+stub: false
 honorific: Saint
 summary: >-
   Convert to Christianity from Judaism. Deacon, serving at the Church of the Resurection in Beirut, Lebanon, and at

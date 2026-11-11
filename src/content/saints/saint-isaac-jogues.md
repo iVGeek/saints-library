@@ -1,5 +1,6 @@
 ---
 name: Saint Isaac Jogues
+stub: false
 honorific: Saint
 title: St. Isaac Jogues
 summary: >-

@@ -1,5 +1,6 @@
 ---
 name: Blessed Giuseppe Nascimbeni
+stub: false
 honorific: Blessed
 summary: >-
   Son of a carpenter. Franciscan tertiary. Priest in the diocese of Verona, Italy, ordained in 1874. Elementary school

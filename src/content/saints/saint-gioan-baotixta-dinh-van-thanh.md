@@ -1,5 +1,6 @@
 ---
 name: Saint Gioan Baotixta Ðinh Van Thành
+stub: false
 honorific: Venerable
 summary: >-
   Layman catechist in the apostolic vicariate of West Tonkin (in modern Vietnam). Worked with the Society of Foreign

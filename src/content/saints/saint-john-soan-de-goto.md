@@ -1,5 +1,6 @@
 ---
 name: Saint John Soan de Goto
+stub: false
 honorific: Saint
 summary: >-
   Raised Christian. He and his family fled to Nagasaki, Japan to escape persecution on the Goto Islands. Studied with

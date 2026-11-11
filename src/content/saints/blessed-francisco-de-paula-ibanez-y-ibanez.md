@@ -1,5 +1,6 @@
 ---
 name: Blessed Francisco de Paula Ibáñez y Ibáñez
+stub: false
 honorific: Blessed
 summary: Priest in the archdiocese of Valencia, Spain. Martyred in the Spanish Civil War.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Francisco-de-Paula-Ibáñez-y-Ibáñez.jpg

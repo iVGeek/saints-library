@@ -1,5 +1,6 @@
 ---
 name: Saint Francis Trung Von Tran
+stub: false
 honorific: Saint
 title: St. Francis Trung Von Tran
 summary: >-

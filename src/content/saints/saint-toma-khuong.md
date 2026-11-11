@@ -1,5 +1,6 @@
 ---
 name: Saint Tôma Khuông
+stub: false
 honorific: Venerable
 summary: >-
   Born to the Tonkinese nobility, he was raised in a Christian home. Priest in the apostolic vicariate of Central Tonkin

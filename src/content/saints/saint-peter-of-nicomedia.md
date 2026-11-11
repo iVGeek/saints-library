@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Peter of Nicomedia
+stub: false
 honorific: Saint
 summary: >-
   Chamberlain in the palace of Diocletian in Nicomedia (in modern Turkey). Overheard lamenting the cruelty shown to the

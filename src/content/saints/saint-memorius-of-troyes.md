@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Memorius of Troyes
+stub: false
 honorific: Saint
 summary: >-
   Deacon in Troyes, France. Along with five companions, he was sent by Saint Lupus to ask for mercy from Attila the Hun.

@@ -1,5 +1,6 @@
 ---
 name: Blessed Claudio Gallo
+stub: false
 honorific: Blessed
 title: Bishop
 summary: >-

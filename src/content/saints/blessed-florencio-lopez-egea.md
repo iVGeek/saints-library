@@ -1,5 +1,6 @@
 ---
 name: Blessed Florencio López Egea
+stub: false
 honorific: Blessed
 summary: >-
   Baptized at the age of two days. He studied in the Colegio de San Juan Almería and the San Indalecio Seminary.

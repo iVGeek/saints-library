@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/5/50/Liste_archev%C3%AAques_Canterbury.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Nothelm of Canterbury
+stub: false
 honorific: Saint
 summary: >-
   Friend of Saint Bede and Saint Boniface. Priest in London, England. Archbishop of Canterbury, England in 734. His

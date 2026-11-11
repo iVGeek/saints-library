@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Theotimus of Tomi
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Scytha or Tomi on the Black Sea. His sanctity won the admiration even of the barbarians. Defended Origen

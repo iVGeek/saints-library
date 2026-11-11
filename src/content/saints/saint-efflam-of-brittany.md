@@ -4,6 +4,7 @@ imageAlt: "Saint Efflam"
 imageCredit: Nominis (French Episcopal Conference)
 imageCreditUrl: https://nominis.cef.fr
 name: Saint Efflam of Brittany
+stub: false
 honorific: Saint
 summary: Son of a British prince. Founded a monastery in Brittany, France and served as its first abbot.
 region: France

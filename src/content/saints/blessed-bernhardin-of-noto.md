@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Bernhardin of Noto
+stub: false
 honorific: Blessed
 title: Priest
 summary: >-

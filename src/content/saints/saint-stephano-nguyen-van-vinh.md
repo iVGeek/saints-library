@@ -1,5 +1,6 @@
 ---
 name: Saint Stêphanô Nguyen Van Vinh
+stub: false
 honorific: Venerable
 summary: >-
   Layman farmer in the apostolic vicariate of East Tonkin (in modern Vietnam). Convert. Dominican tertiary. Imprisoned,

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/6/61/Emperor_charles_v.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Conrad Scheuber
+stub: false
 honorific: Blessed
 title: Hermit
 summary: Grandson of Saint Nicholas of Flüe. Hermit at the hermitage of Saint Nicholas, and then at Wolffenschiessen.

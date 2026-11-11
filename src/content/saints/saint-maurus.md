@@ -1,5 +1,6 @@
 ---
 name: Saint Maurus
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility, the son of Equitius, a senator, and Giulia. Disciple of Saint Benedict of Nursia at age 12.

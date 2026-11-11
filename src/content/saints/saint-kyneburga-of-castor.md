@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Kyneburga of Castor
+stub: false
 honorific: Saint
 summary: >-
   Daughter of Pendra of Mercia; her father was a pagan who fiercely opposed Christianity, but many in her family grew

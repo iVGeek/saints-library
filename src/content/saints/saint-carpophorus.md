@@ -1,6 +1,7 @@
 ---
 image: https://www.catholic.org/files/images/saints/2605.jpg
 name: Saint Carpophorus
+stub: true
 honorific: Saint
 summary: Priest. Martyred in the persecutions of Diocletian.
 searchAliases:

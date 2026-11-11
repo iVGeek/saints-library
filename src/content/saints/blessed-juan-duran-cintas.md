@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Juan Durán Cintas
+stub: false
 honorific: Blessed
 summary: Priest. Member of the Carmelites of the Ancient Observance. Martyred in the Spanish Civil War.
 searchAliases:

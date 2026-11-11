@@ -1,5 +1,6 @@
 ---
 name: Saint Moses the Black
+stub: false
 honorific: Saint
 summary: >-
   Born into slavery to an Egyptian official's family. An unruly thief, he was driven from the house and fell in with a

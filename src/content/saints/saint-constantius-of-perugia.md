@@ -1,5 +1,6 @@
 ---
 name: Saint Constantius of Perugia
+stub: false
 honorific: Saint
 summary: >-
   First bishop of Perugia, Italy at age 30. He evangelized his people, cared for the poor, and lived a simple life that

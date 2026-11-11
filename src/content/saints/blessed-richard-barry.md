@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/7/70/Madonna_Advocata.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Richard Barry
+stub: true
 honorific: Blessed
 summary: Dominican priest. One of the Irish Martyrs.
 deathYear: 1647

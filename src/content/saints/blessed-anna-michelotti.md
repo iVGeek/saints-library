@@ -1,5 +1,6 @@
 ---
 name: Blessed Anna Michelotti
+stub: false
 honorific: Blessed
 summary: >-
   Anna's father died when she was very young, and though she grew up in poverty, her family always had time to care for

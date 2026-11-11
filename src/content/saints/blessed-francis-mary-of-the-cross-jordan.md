@@ -1,5 +1,6 @@
 ---
 name: Blessed Francis Mary of the Cross Jordan
+stub: false
 honorific: Blessed
 summary: >-
   Johann grew up in a poor family, and in his youth he worked as a wandering laborer and house painter. As he travelled,

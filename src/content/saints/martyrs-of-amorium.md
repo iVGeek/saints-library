@@ -1,5 +1,6 @@
 ---
 name: Martyrs of Amorium
+stub: false
 honorific: Saint
 summary: >-
   A group of 42 Christian senior officials in the Byzantine empire who were captured by forces of the Abbasid Caliphate

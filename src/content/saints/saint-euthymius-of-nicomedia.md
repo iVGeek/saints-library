@@ -1,5 +1,6 @@
 ---
 name: Saint Euthymius of Nicomedia
+stub: false
 honorific: Saint
 summary: >-
   During the persecutions of Diocletian, Euthymius encouraged Christians to hold onto their faith, and gave Christian

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/9/9b/St-Nazaire-avenue1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Pens
+stub: false
 honorific: Saint
 summary: >-
   A cairn on the top of the Llanberis Pass in Wales is known as Corffwysfa Pens (the Resting-Place of Saint Pens), and

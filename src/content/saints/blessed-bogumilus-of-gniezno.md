@@ -1,5 +1,6 @@
 ---
 name: Blessed Bogumilus of Gniezno
+stub: false
 honorific: Blessed
 summary: >-
   Born to the Polish nobility, twin brother of Boguphalus. Studied in Paris, France. Priest. Served Holy Trinity parish

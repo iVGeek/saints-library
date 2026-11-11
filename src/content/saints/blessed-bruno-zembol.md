@@ -1,5 +1,6 @@
 ---
 name: Blessed Bruno Zembol
+stub: false
 honorific: Blessed
 summary: >-
   Franciscan friar at the monastery in Chelm Lubelski, Poland, taking the name Bruno. Arrested for his faith by the

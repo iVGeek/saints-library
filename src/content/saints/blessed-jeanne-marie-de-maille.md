@@ -1,5 +1,6 @@
 ---
 name: Blessed Jeanne Marie de Maille
+stub: false
 honorific: Blessed
 summary: >-
   Married for sixteen years to the Baron de Silly, but remained chaste. The Baron was captured in battle; Jeanne sold

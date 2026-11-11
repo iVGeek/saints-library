@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Radegund
+stub: false
 honorific: Saint
 summary: >-
   Poor servant girl in 13th century Augsburg, Germany who made a personal vow of devotion to God. Known for her piety

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/e/e4/CathBSlow.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed James Murphy
+stub: true
 honorific: Blessed
 summary: Priest in the diocese of Ferns, Ireland. One of the Irish Martyrs.
 deathYear: 1655

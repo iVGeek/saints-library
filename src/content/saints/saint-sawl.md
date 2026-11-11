@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Sawl
+stub: true
 honorific: Saint
 summary: Welsh chieftain. Father of Saint Asaph.
 searchAliases:

@@ -1,5 +1,6 @@
 ---
 name: Saint Sadalberga
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility, the daughter of Duke Gundoin of Alsace; sister of Saint Bodo. She went blind as a child, but was

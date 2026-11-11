@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Kingsmark
+stub: true
 honorific: Saint
 summary: Scottish chieftain. Lived in Wales. Several churches dedicated to him.
 searchAliases:

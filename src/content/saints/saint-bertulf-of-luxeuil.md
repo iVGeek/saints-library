@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Bertulf of Luxeuil
+stub: false
 honorific: Saint
 summary: >-
   Son of a pagan nobleman; relative of Saint Arnulf of Metz who was instrumental in Bertulf converting to Christianity.

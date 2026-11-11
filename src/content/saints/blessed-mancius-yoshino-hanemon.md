@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Mancius Yoshino Han'emon
+stub: false
 honorific: Blessed
 summary: Layman in the diocese of Niigata, Japan. Married to Blessed Iulia Yoshino. Martyr.
 deathYear: 1629

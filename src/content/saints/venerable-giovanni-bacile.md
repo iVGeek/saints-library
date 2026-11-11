@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Venerable Giovanni Bacile
+stub: true
 honorific: Venerable
 summary: Priest of the diocese of Monreale, Italy.
 birthYear: 1880

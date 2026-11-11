@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Isidore the Egyptian
+stub: false
 honorific: Saint
 summary: >-
   Desert hermit. Priest in charge of a Alexandria pilgrims hospice. Opposed Arianism, supported Saint Athanasius, and

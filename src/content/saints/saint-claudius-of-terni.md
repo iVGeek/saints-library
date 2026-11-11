@@ -1,5 +1,6 @@
 ---
 name: Saint Claudius of Terni
+stub: false
 honorific: Saint
 summary: >-
   Christian soldier and officer in the imperial Roman army. Executed during the persecutions of emperor Claudius.

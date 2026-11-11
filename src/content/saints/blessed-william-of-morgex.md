@@ -1,5 +1,6 @@
 ---
 name: Blessed William of Morgex
+stub: false
 honorific: Blessed
 summary: >-
   Priest. We have no certain information about this person except there was a tradition of a Blessed William in the town

@@ -1,5 +1,6 @@
 ---
 name: Blessed Angelus of Gualdo Tadino
+stub: false
 honorific: Blessed
 summary: >-
   Born to a poor family. Benedictine. As a youth he walked barefoot to Compostela, northern Spain, became a Camaldolese

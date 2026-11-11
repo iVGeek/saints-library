@@ -1,5 +1,6 @@
 ---
 name: Saint Paul Denn
+stub: false
 honorific: Venerable
 summary: >-
   When his father died, Paul held off entering the Jesuits in order to provide for his mother. Joined the Jesuits at age

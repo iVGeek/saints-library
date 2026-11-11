@@ -1,5 +1,6 @@
 ---
 name: Blessed Columba Gang Wan-suk
+stub: true
 honorific: Blessed
 summary: Lay woman catechist and martyr in the apostolic vicariate of Korea.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Columba-Gang-Wan-suk.jpg

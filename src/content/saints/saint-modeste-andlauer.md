@@ -1,5 +1,6 @@
 ---
 name: Saint Modeste Andlauer
+stub: false
 honorific: Venerable
 summary: >-
   Eighth son of Joseph Andlauer, a baker, and Françoise Barbe Bisch. Baptized on 23 May 1847 at the church of Saints

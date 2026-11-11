@@ -1,5 +1,6 @@
 ---
 name: Saint Severus of Vienne
+stub: true
 honorific: Saint
 summary: Priest. Missionary to the area of Vienne, France.
 deathYear: 455

@@ -1,5 +1,6 @@
 ---
 name: Pope Saint Simplicius
+stub: false
 honorific: Saint
 summary: >-
   Son of Castinus. Held the pontificate during the end of the Roman Empire. He defended the Council of Chalcedon against

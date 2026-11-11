@@ -1,5 +1,6 @@
 ---
 name: Blessed Alexander Crow
+stub: false
 image: https://upload.wikimedia.org/wikipedia/commons/7/75/Crow_Holme_-_geograph.org.uk_-_821199.jpg
 honorific: Blessed
 summary: Cobbler. Priest in the apostolic vicariate of England. Martyred in the persecutions of Queen Elizabeth I.

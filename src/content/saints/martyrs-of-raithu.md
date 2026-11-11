@@ -1,5 +1,6 @@
 ---
 name: Martyrs of Raithu
+stub: false
 honorific: Saint
 summary: >-
   A group of 43 monks in the Raithu Desert near Mount Sinai, Palestine, near the Red Sea. They were martyred for their

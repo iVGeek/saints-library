@@ -1,5 +1,6 @@
 ---
 name: Saint John of Pulsano
+stub: false
 honorific: Saint
 summary: >-
   Benedictine monk. Lived with such austerity that it brought on the enmity of his brothers who felt he was setting a

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Venerable Florence Kate Flanagan
+stub: false
 honorific: Venerable
 summary: >-
   Professed religious in the Bridgettine Sisters, joining in Rome, Italy in 1913. After studying in Sweden, she was

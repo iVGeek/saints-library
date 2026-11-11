@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Deyniolen the Younger
+stub: true
 honorific: Saint
 summary: Abbot in Bangor Abbey in Wales.
 searchAliases:

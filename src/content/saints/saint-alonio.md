@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Alonio
+stub: false
 honorific: Saint
 summary: Hermit in the Egyptian desert noted by other monks, abbots and hermits for his wisdom and clear thinking.
 searchAliases:

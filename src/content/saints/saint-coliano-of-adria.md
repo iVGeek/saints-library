@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Coliano of Adria
+stub: true
 honorific: Saint
 title: Bishop
 summary: Bishop of Adria, Italy in the mid-7th century.

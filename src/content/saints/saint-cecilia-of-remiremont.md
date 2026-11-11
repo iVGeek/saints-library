@@ -1,5 +1,6 @@
 ---
 name: Saint Cecilia of Remiremont
+stub: false
 honorific: Saint
 summary: >-
   Daughter of Saint Romaric of Remiremont. In the mid-7th century, she and her sister Azaltrude became nuns at the

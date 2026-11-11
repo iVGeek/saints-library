@@ -1,5 +1,6 @@
 ---
 name: Saint Aliprandus of Pavia
+stub: true
 honorific: Saint
 summary: Eighth century abbot of Saint Augustine's Abbey in Pavia, Italy.
 searchAliases:

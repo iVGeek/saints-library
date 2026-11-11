@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/b/b9/All_saint.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Ysarn of Saint Victor
+stub: false
 honorific: Saint
 summary: Benedictine monk and then abbot of Saint Victor Abbey in Marseilles, France, which flourished under him.
 deathYear: 1048

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/6/65/Blessed-john-finch.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed John Finch
+stub: false
 honorific: Blessed
 summary: >-
   Yoeman farmer. Raised in a family with Catholic and Protestant members, he was able to closely observe each side; John

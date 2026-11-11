@@ -1,5 +1,6 @@
 ---
 name: Our Lady of Altotting
+stub: false
 honorific: Saint
 summary: >-
   Shrine located in Altotting, Bavaria, Germany, the octagonal chapel was constructed of native stone c.680 and survives

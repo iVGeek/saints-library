@@ -1,5 +1,6 @@
 ---
 name: Blessed Carmen Rodríguez Banazal
+stub: false
 honorific: Blessed
 summary: >-
   The daughter of Francisco and Rosa, Carmen was educated in the local city school. In her teens, she became to feel a

@@ -1,5 +1,6 @@
 ---
 name: Blessed Àngel Maria Rodamilans Canals
+stub: false
 honorific: Blessed
 summary: Priest. Member of the Benedictine Subiaco Congregation. Martyred in the Spanish Civil War.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Àngel-Maria-Rodamilans-Canals.jpg

@@ -1,6 +1,7 @@
 ---
 image: https://www.catholic.org/files/images/saints/2477.jpg
 name: Saint Secundus
+stub: true
 honorific: Saint
 summary: Martyr. No other reliable information has survived.
 region: Italy

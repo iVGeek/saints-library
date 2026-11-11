@@ -1,5 +1,6 @@
 ---
 name: Saint Gamo of Brittany
+stub: false
 honorific: Saint
 summary: >-
   Eighth century Benedictine monk. Abbot of near Noyon, France. Worked for expansion of the monastic movement. Noted

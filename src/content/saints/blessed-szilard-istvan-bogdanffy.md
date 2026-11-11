@@ -1,5 +1,6 @@
 ---
 name: Blessed Szilárd István Bogdánffy
+stub: false
 honorific: Blessed
 summary: >-
   Son of teachers. Studied philosophy and theology at Peter Pazmany University of Budapest, Hungary. Ordained on 29 June

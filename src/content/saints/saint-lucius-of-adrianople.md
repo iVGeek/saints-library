@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/b/b9/All_saint.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Lucius of Adrianople
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Adrianople. Spoke zealously against Arianism at the Council of Sardica in 343; the feelings against orthodox

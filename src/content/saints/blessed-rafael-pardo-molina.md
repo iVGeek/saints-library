@@ -1,5 +1,6 @@
 ---
 name: Blessed Rafael Pardo Molina
+stub: false
 honorific: Blessed
 summary: >-
   Dominican co-operator brother, making his profession on 2 January 1926. He served as a sacristan; at the outbreak of

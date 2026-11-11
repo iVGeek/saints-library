@@ -1,5 +1,6 @@
 ---
 name: Faustina Kowalska
+stub: false
 honorific: Saint
 title: Religious, Mystic
 summary: >-

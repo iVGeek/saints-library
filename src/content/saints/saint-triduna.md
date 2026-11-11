@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Triduna
+stub: false
 honorific: Saint
 summary: >-
   Eighth century consecrated virgin who worked with Saint Regulus in Scotland. Legend says that she was pursued by a

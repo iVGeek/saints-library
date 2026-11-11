@@ -1,5 +1,6 @@
 ---
 name: Pope Saint Sixtus I
+stub: false
 honorific: Saint
 summary: >-
   Little known about his life before he was chosen seventh pope in 116. He concerned himself with the liturgy, and

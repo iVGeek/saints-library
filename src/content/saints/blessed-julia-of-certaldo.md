@@ -1,5 +1,6 @@
 ---
 name: Blessed Julia of Certaldo
+stub: false
 honorific: Blessed
 summary: >-
   Born to an impoverished noble family. Worked as a domestic servant in her youth in the Timolfi household at Florence,

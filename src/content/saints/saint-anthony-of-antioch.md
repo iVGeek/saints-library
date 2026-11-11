@@ -1,5 +1,6 @@
 ---
 name: Saint Anthony of Antioch
+stub: true
 honorific: Saint
 summary: Priest. Martyred in the persecutions of Diocletian.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Anthony-of-Antioch.jpg

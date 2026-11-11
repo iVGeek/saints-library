@@ -1,5 +1,6 @@
 ---
 name: Blessed Alfonso López Morales
+stub: false
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Las_siete_partidas_del_rey_Don_Alfonso_el_Sabio_%281807%29.djvu/page1-960px-Las_siete_partidas_del_rey_Don_Alfonso_el_Sabio_%281807%29.djvu.jpg
 honorific: Blessed

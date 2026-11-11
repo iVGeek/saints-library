@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Waldo of Evreux
+stub: false
 honorific: Saint
 summary: Seventh century bishop of Evreux, France. In late life he retired to live as a hermit.
 searchAliases:

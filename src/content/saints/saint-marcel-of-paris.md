@@ -1,5 +1,6 @@
 ---
 name: Saint Marcel of Paris
+stub: false
 honorific: Saint
 summary: >-
   Ninth bishop of Paris, France. Chaired the Council of Paris in 360 - 361 which recognized the edicts of the Council of

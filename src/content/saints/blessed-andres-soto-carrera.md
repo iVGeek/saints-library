@@ -1,5 +1,6 @@
 ---
 name: Blessed Andrés Soto Carrera
+stub: true
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/El_programa_de_Manzanares_%28IA_elprogramademanz00bote%29.pdf/page1-500px-El_programa_de_Manzanares_%28IA_elprogramademanz00bote%29.pdf.jpg
 honorific: Blessed

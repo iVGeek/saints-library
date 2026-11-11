@@ -1,5 +1,6 @@
 ---
 name: Blessed María Angélica Pérez
+stub: false
 honorific: Blessed
 summary: >-
   Born to immigrants from Spain, raised in a farm family, and known as a pious girl. Entered the Daughters of Our Lady

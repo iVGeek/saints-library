@@ -1,5 +1,6 @@
 ---
 name: Saint Apollo of Heliopolis
+stub: false
 honorific: Saint
 summary: >-
   Hermit for 40 years in the desert around Thebes during which time his reputation for holiness attracted many

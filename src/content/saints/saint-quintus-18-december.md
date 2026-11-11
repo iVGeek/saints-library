@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/b/b9/All_saint.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Quintus
+stub: true
 honorific: Saint
 summary: Martyred in the persecutions of Decius. No other information has survived.
 deathYear: 255

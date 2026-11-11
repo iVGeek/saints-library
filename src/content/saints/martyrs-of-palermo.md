@@ -1,5 +1,6 @@
 ---
 name: Martyrs of Palermo
+stub: false
 honorific: Saint
 summary: >-
   34 Christians who were imprisoned, whipped, tortured, and finally executed for refusing to worship idols during the

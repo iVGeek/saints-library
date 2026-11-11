@@ -1,5 +1,6 @@
 ---
 name: Saint Stephen the Martyr
+stub: false
 honorific: Saint
 summary: >-
   First Christian martyr. Deacon. Preacher. All we know of him is related in the Acts of the Apostles. While preaching

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Henry Webley
+stub: false
 honorific: Blessed
 summary: Layman in the apostolic vicariate of England. Martyred in the persecutions of Queen Elizabeth I.
 deathYear: 1588

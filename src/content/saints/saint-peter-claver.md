@@ -1,5 +1,6 @@
 ---
 name: Saint Peter Claver
+stub: false
 honorific: Saint
 title: St. Peter Claver
 summary: >-

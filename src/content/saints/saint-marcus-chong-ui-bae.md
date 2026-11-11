@@ -1,5 +1,6 @@
 ---
 name: Saint Marcus Chong Ui-Bae
+stub: false
 honorific: Venerable
 summary: >-
   Raised in a pagan family, he became a teacher. He married but was a widower with no children. He became interested in

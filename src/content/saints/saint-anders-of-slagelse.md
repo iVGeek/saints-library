@@ -1,5 +1,6 @@
 ---
 name: Saint Anders of Slagelse
+stub: false
 honorific: Saint
 summary: >-
   Early 13th-century priest at Saint Peter's Church, Slagalse, Denmark. While on pilgrimage in the Holy Lands he

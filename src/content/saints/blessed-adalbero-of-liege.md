@@ -1,5 +1,6 @@
 ---
 name: Blessed Adalbero of Liège
+stub: false
 image: https://commons.wikimedia.org/wiki/Special:FilePath/EnCadrement_tombe_Adalberon_40546_87967.jpg?width=600
 honorific: Blessed
 summary: >-

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Cassán of Cluain-Ratha
+stub: true
 honorific: Saint
 summary: No information about this subject has survived.
 region: England

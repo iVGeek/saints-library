@@ -1,5 +1,6 @@
 ---
 name: Venerable Benoîte Rencurel
+stub: false
 honorific: Venerable
 summary: >-
   Lay woman of the diocese of Gap, France. Member of the Lay Dominicans. Visionary who experienced the apparitions of

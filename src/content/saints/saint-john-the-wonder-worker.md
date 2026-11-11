@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint John the Wonder Worker
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Polybotum, Phrygia. Defended orthodox teachings and the use of images against emperor Leo the iconoclast.

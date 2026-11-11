@@ -1,5 +1,6 @@
 ---
 name: Venerable Silvio Gallotti
+stub: true
 honorific: Venerable
 summary: Priest in the diocese of Novara, Italy.
 image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Silvio-Gallotti.jpg

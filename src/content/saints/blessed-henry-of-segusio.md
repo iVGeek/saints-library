@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/2/2a/40_Innocenzo_V%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Henry of Segusio
+stub: false
 honorific: Blessed
 summary: >-
   Studied civil and canon law at Bologna, Italy. Taught in Bologna. Taught canon law in Paris, France. Diplomat from the

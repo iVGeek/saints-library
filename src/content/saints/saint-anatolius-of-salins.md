@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/1/1a/Dessin_des_stalles_sup%C3%A9rieures_de_droite_de_l%27%C3%A9glise_Saint-Anatoile_de_Salins-les-Bains_%28ao%C3%BBt_1842%29%2C_D%C3%A9sir%C3%A9_Monnier.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 name: Saint Anatolius of Salins
+stub: false
 honorific: Saint
 summary: Bishop in Scotland. Pilgrim to Rome, Italy. He abandoned his see to live as a hermit at Salins, France.
 born: Scottish

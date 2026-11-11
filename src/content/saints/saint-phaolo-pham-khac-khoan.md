@@ -1,5 +1,6 @@
 ---
 name: Saint Phaolô Pham Khac Khoan
+stub: false
 honorific: Saint
 summary: >-
   Priest in the apostolic vicariate of West Tonkin (in modern Vietnam). Imprisoned and tortured for their faith for

@@ -1,5 +1,6 @@
 ---
 name: Saint Aldric of Le Mans
+stub: false
 honorific: Saint
 summary: >-
   Grew up at Aachen, Germany, serving in the court of Charlemagne. Left court life at age 21 to study for the priesthood

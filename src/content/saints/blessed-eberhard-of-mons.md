@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/c/ca/Zagreb_Cathedral_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Eberhard of Mons
+stub: false
 honorific: Blessed
 summary: >-
   Born to the nobility, the Count of Mons in modern Belgium. After fighting as a soldier and commander for Limburg in a

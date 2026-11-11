@@ -1,5 +1,6 @@
 ---
 name: Saint Elizabeth Ann Seton
+stub: false
 honorific: Saint
 title: St. Elizabeth Ann Seton
 summary: >-

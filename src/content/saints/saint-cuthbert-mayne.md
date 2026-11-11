@@ -1,5 +1,6 @@
 ---
 name: Saint Cuthbert Mayne
+stub: false
 honorific: Saint
 summary: >-
   Raised a Protestant by his uncle, a schimastic priest. Ordained as a Anglican minister at age 19. Friend of Saint

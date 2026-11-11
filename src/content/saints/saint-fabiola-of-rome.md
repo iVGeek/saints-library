@@ -1,5 +1,6 @@
 ---
 name: Saint Fabiola of Rome
+stub: false
 honorific: Saint
 summary: >-
   Born to the Roman patrician class. Divorced from her first marriage after being abused by her adulterous husband.

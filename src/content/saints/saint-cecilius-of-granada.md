@@ -1,5 +1,6 @@
 ---
 name: Saint Cecilius of Granada
+stub: false
 honorific: Saint
 title: Bishop
 summary: >-

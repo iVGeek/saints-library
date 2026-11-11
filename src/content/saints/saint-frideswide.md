@@ -1,5 +1,6 @@
 ---
 name: Saint Frideswide
+stub: false
 honorific: Saint
 summary: >-
   Daughter of Prince Didan. When a neighbouring noble, Prince Algar, as for her hand in an arranged marriage, Frideswide

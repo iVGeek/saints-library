@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Luke Bergin
+stub: true
 honorific: Blessed
 summary: Cistercian priest. One of the Irish Martyrs.
 deathYear: 1655

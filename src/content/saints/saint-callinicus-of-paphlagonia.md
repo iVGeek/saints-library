@@ -1,5 +1,6 @@
 ---
 name: Saint Callinicus of Paphlagonia
+stub: true
 honorific: Saint
 summary: Martyr.
 searchAliases:

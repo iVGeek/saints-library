@@ -1,5 +1,6 @@
 ---
 name: Blessed Antoni Rewera
+stub: false
 honorific: Blessed
 summary: >-
   Priest in the diocese of Sandomierz, Poland. Taught theology at the Sandomierz seminary. Founded the Daughters of the

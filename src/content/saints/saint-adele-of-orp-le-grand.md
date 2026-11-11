@@ -1,5 +1,6 @@
 ---
 name: Saint Adele of Orp-le-Grand
+stub: false
 honorific: Saint
 summary: >-
   Born to the Gallic nobility, a member of the Merovingians, she became a nun in the 7th century at the monastery of

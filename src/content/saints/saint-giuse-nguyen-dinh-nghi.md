@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Giuse Nguyen Ðình Nghi
+stub: false
 honorific: Venerable
 summary: Priest in the apostolic vicariate of West Tonkin. Member of the Society of Foreign Missions of Paris. Martyr.
 searchAliases:

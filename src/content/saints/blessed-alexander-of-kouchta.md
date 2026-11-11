@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Alexander of Kouchta
+stub: false
 honorific: Blessed
 summary: >-
   Monk in Kamenni, Bulgaria. Seeking a more disciplined life, he became a hermit in the forest near Lake Koubensk in

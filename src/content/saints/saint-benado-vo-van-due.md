@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Bênadô Võ Van Duê
+stub: false
 honorific: Venerable
 summary: >-
   Adult convert to Catholicism. Priest in the apostolic vicariate of East Tonkin. Worked for decades at various missions

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/2/28/Church_Maredsous_Abbey_03.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Bernard of Villers-en-Brabant
+stub: false
 honorific: Blessed
 summary: >-
   12th century Cistercian monk at the monastery of Villers-en-Brabant in modern Belgium known as a pious, patient monk

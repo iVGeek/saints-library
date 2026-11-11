@@ -1,5 +1,6 @@
 ---
 name: Saint Guethenoc
+stub: false
 honorific: Saint
 summary: >-
   Son of Saint Fragan and Saint Gwen; brother of Saint Jacut and Saint Gwenaloe. Spiritual student of Saint Budoc. With

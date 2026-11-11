@@ -1,5 +1,6 @@
 ---
 name: Saint Alexander Akimetes
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility. Studied in Constantinople. Soldier and officer in the imperial army for four years. Adult

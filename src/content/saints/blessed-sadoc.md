@@ -1,5 +1,6 @@
 ---
 name: Blessed Sadoc of Sandomierz
+stub: false
 honorific: Blessed
 summary: >-
   Studied at the University of Bologna, Italy. Dominican friar, receiving the habit from Saint Dominic de Guzman

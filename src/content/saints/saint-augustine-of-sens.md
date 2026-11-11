@@ -1,5 +1,6 @@
 ---
 name: Saint Augustine of Sens
+stub: false
 honorific: Saint
 summary: >-
   Brother of Saint Benedicta of Sens and Saint Sanctian of Sens. During the persecution of Christians in Spain by

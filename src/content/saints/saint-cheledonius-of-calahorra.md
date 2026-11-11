@@ -1,5 +1,6 @@
 ---
 name: Saint Cheledonius of Calahorra
+stub: true
 honorific: Saint
 summary: Soldier in Imperial Roman army in Spain. Martyr.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Cheledonius-of-Calahorra.jpg

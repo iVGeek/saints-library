@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Zosimus of Spoleto
+stub: true
 honorific: Saint
 summary: Martyred in the persecutions of Emperor Trajan.
 deathYear: 110

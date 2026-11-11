@@ -1,5 +1,6 @@
 ---
 name: Saint Francis Borgia
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility, the great-grandson of Pope Alexander VI; grandson of King Ferdinand of Aragon; son of Duke Juan

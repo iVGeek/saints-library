@@ -1,5 +1,6 @@
 ---
 name: Saint Asterius of Edessa
+stub: false
 honorific: Saint
 summary: >-
   Executioner who killed Christians until his exposure to them converted him to the faith. Martyred in the persecutions

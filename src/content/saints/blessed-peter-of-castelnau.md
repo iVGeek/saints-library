@@ -1,5 +1,6 @@
 ---
 name: Blessed Peter of Castelnau
+stub: false
 image: https://commons.wikimedia.org/wiki/Special:FilePath/Tombeau_de_Pierre_de_Castelnau.jpg?width=600
 honorific: Blessed
 summary: >-

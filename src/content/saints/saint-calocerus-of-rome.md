@@ -1,5 +1,6 @@
 ---
 name: Saint Calocerus of Rome
+stub: false
 honorific: Saint
 summary: >-
   Brother of Saint Parthenius. Eunuch in the palace of Tryphonia, wife of emperor Decius, in charge of Anatolia,

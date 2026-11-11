@@ -1,5 +1,6 @@
 ---
 name: Samuel the Patriarch
+stub: false
 honorific: Saint
 summary: >-
   The last Judge of Israel, described in the Old Testament book of 1 Kings. The son of Elcana and Hannah, who vowed

@@ -1,5 +1,6 @@
 ---
 name: Saint Maria Bertilla Boscardin
+stub: false
 honorific: Venerable
 summary: >-
   Born to a poor peasant family headed by Angelo Boscardin who, by his own account, was a violently abusive drunk. Anna

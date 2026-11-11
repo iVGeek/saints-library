@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Euphemia of Altenmünster
+stub: false
 honorific: Blessed
 summary: >-
   Daughter of Count Berthold and Sophie of Andechs; sister of the Saint Mechtildis of Edelstetten. Benedictine nun.

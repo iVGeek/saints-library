@@ -1,5 +1,6 @@
 ---
 name: Blessed Josep Martí Coll
+stub: false
 honorific: Blessed
 summary: >-
   Franciscan Capuchin lay brother, making his first profession on 8 November 1923, and his solemn profession on 9

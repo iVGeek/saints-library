@@ -1,5 +1,6 @@
 ---
 name: Saint Aaron the Patriarch
+stub: false
 honorific: Saint
 summary: >-
   Great-grandson of Levi, son of Jacob, brother of Moses. Spokesman to Pharoah for Moses. One of the leaders of the

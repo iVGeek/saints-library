@@ -1,5 +1,6 @@
 ---
 name: Saint Argymirus of Cordoba
+stub: false
 honorific: Saint
 summary: >-
   Government official in Cordoba, Spain during the Moorish occupation, but he lost his position due to being a

@@ -1,5 +1,6 @@
 ---
 name: Saint Altfried of Münster
+stub: false
 honorific: Saint
 summary: >-
   Monk. Priest. Fifth abbot of the monastery of Werden, Germany. Abbot of the monastery of Helmstedt, Germany. Nephew of

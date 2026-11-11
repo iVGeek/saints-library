@@ -1,5 +1,6 @@
 ---
 name: Blessed Vicente Montserrat Millán
+stub: false
 honorific: Blessed
 summary: >-
   The son of a merchant, Vincente was baptized at the age of 4 days. He entered a minor seminary at age 10, and studied

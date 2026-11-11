@@ -1,5 +1,6 @@
 ---
 name: Saint Kallinikos of Gaza
+stub: true
 image: https://commons.wikimedia.org/wiki/Special:FilePath/Ancient_Orient_History_Map_basis.de.svg?width=600
 honorific: Saint
 searchAliases:

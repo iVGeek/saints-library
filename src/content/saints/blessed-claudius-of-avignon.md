@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/2/25/17_Thomasian_Martyrs.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Claudius of Avignon
+stub: true
 honorific: Blessed
 summary: Franciscan friar in the Avignon region of France.
 region: France

@@ -1,5 +1,6 @@
 ---
 name: Saint Robert of Knaresborough
+stub: false
 honorific: Saint
 summary: >-
   The son of the mayor of York, England, an office his brother later held, early in life Robert began studying for the

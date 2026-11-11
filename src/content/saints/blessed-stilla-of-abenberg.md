@@ -1,5 +1,6 @@
 ---
 name: Blessed Stilla of Abenberg
+stub: false
 honorific: Blessed
 summary: >-
   Born to the nobility, one of five children of the Count of Abenberg in Franconia (in modern Germany). Stilla lived as

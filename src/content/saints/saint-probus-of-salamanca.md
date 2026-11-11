@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Probus of Salamanca
+stub: false
 honorific: Saint
 summary: >-
   Courtier who accompanied the Vandal King Genseric to Africa. When anti-Christian persecutions began, he was first

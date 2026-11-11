@@ -1,5 +1,6 @@
 ---
 name: Saint Bertrand of Aquileia
+stub: false
 honorific: Saint
 summary: >-
   Studied civil and canon law at the University of Toulouse. Priest. Dean of the cathedral chapter of Angouleme, France

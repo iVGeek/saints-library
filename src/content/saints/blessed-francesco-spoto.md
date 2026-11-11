@@ -1,5 +1,6 @@
 ---
 name: Blessed Francesco Spoto
+stub: false
 honorific: Blessed
 summary: >-
   Priest. Member of the Congregation of Missionary Servants of the Poor. Chosen superior general of the Congregation in

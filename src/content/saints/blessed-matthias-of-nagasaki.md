@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Matthias of Nagasaki
+stub: true
 honorific: Blessed
 summary: Layman catechism in the archdiocese of Nagasaki, Japan. Martyr.
 birthYear: 1572

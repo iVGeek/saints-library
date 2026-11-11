@@ -1,5 +1,6 @@
 ---
 name: Blessed Alain Dieulangard
+stub: false
 honorific: Blessed
 summary: >-
   Alain studied law, and passed the bar in 1943; later in 1943 he and joined the Missionaries of Africa, making his

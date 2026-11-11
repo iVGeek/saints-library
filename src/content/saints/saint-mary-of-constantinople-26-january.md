@@ -1,5 +1,6 @@
 ---
 name: Saint Mary of Constantinople
+stub: false
 honorific: Saint
 summary: >-
   Married to Saint Xenophon of Constantinople, mother of Saint John and Saint Arcadius. Member of the wealthy governing

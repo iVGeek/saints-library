@@ -1,5 +1,6 @@
 ---
 name: Blessed Johann Philipp Jeningen
+stub: false
 honorific: Blessed
 summary: >-
   Johann joined the Jesuits on 19 January 1663 in Landsberg, Germany; he made his solemn vows on 2 February 1677.

@@ -1,5 +1,6 @@
 ---
 name: Blessed Saturnina Rodríguez de Zavalía
+stub: false
 honorific: Blessed
 summary: >-
   Though she early felt a call to religious life, Saturnina married the widower Manuel Antonio de Zavalia on 13 August

@@ -1,6 +1,7 @@
 ---
 image: https://www.catholic.org/files/images/saints/5623.jpg
 name: Saint Eutropius
+stub: false
 honorific: Saint
 summary: >-
   Lector in Constantinople. Active supporter of Saint John Chrysostom during his exile. To silence him, Eutropius was

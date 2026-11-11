@@ -1,5 +1,6 @@
 ---
 name: Blessed Gabriel of Ferrara
+stub: false
 honorific: Blessed
 summary: >-
   Born to the nobility, the Count of Ferrara, Italy. Trained as a surgeon, he practiced medicine in Milan, Italy and

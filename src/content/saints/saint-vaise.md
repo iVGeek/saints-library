@@ -1,5 +1,6 @@
 ---
 name: Saint Vaise
+stub: false
 honorific: Saint
 summary: >-
   Wealthy citizen of Saintes, France who was imprisoned and murdered by his relatives for giving his property to the

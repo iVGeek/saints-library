@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/a/a8/PalmezzanoIgneo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Henry of Albano
+stub: true
 honorific: Blessed
 summary: Cistercian Benedictine monk. Bishop of Albano, Italy in 1179. Cardinal.
 searchAliases:

@@ -1,5 +1,6 @@
 ---
 name: Blessed Giacomo Bianconi of Mevania
+stub: false
 honorific: Blessed
 summary: >-
   Joined the Dominicans at Spoleto, Italy at age 16 in 1236, choosing a life of extreme poverty even by Dominican

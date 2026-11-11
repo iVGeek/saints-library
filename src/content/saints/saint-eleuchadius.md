@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Eleuchadius of Ravenna
+stub: false
 honorific: Saint
 summary: >-
   Convert, brought to the faith by Saint Apollinaris of Ravenna who then ordained him a deacon. Bishop of Ravenna, Italy

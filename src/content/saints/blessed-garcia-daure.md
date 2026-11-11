@@ -1,5 +1,6 @@
 ---
 name: Blessed Garcia d'Aure
+stub: false
 honorific: Blessed
 summary: >-
   Dominican lay brother. Basing their operations in a farmhouse outside Avignonet, France, he and his brother missioners

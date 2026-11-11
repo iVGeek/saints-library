@@ -1,5 +1,6 @@
 ---
 name: Saint José Melchór García-Sampedro Suárez
+stub: false
 honorific: Venerable
 summary: >-
   Studied theology at the University of Oviedo. Dominican priest, ordained on 29 May 1847 at the Ocana monastery.

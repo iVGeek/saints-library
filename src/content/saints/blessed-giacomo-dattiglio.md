@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Giacomo d'Attiglio
+stub: false
 honorific: Blessed
 summary: >-
   Spiritual student of Saint Sylvester Gozzolini, and a lay brother in the Benedictine Sylvestrines near Fabriano,

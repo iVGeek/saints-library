@@ -1,5 +1,6 @@
 ---
 name: Blessed Barnabas of Terni
+stub: false
 honorific: Blessed
 summary: >-
   Born to the Italian nobility, Barnabas was well educated and earned a doctorate in medicine. He joined the Franciscan

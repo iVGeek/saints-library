@@ -1,5 +1,6 @@
 ---
 name: Saint Gatianus of Tours
+stub: false
 honorific: Saint
 summary: >-
   Spiritual student of Saint Dionysius of Paris. Gatianus brought Christianity to Tours, France in the 4th century,

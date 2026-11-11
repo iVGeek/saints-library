@@ -1,5 +1,6 @@
 ---
 name: Saint Clement the Martyr
+stub: true
 honorific: Saint
 summary: Martyr. No other information has survived.
 died: martyred in Rome, Italy, date unknown

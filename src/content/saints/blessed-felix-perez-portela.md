@@ -1,5 +1,6 @@
 ---
 name: Blessed Félix Pérez Portela
+stub: false
 honorific: Blessed
 summary: >-
   The son of Miguel Pérez and Portela Saturnina. Entered the seminary in Madrid, Spain in 1907. Began studying at the

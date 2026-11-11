@@ -1,5 +1,6 @@
 ---
 name: Saint Maurice of Carnoet
+stub: false
 honorific: Saint
 summary: >-
   Studied at the University of Paris. Cistercian monk at Langonette Monastery in France in 1144. Abbot of the house in

@@ -1,5 +1,6 @@
 ---
 name: Blessed Carlos de Dios Murias
+stub: false
 honorific: Blessed
 summary: >-
   Carlos studied civil engineering until he gave in to a call to religious life and the priesthood. Member of the Order

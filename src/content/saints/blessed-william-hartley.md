@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/6/64/St_Nicholas_Carpatho-Rusyn_church.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed William Hartley
+stub: false
 honorific: Blessed
 summary: >-
   Raised a Protestant, he studied at Oxford University and became an Anglican minister. Convert to Catholicism. Studied

@@ -1,5 +1,6 @@
 ---
 name: Saint Eparchius of Périgord
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility, the son and heir of the Duke of Périgord, France. He became a hermit, moving into a sealed up

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/b/b1/Montevergine_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Modesto of Capua
+stub: true
 honorific: Saint
 summary: Martyr.
 died: Capua, Campania, Italy

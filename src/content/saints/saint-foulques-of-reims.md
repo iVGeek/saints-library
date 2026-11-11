@@ -1,5 +1,6 @@
 ---
 name: Saint Foulques of Reims
+stub: false
 honorific: Saint
 summary: >-
   Born to the Frankish nobility; his brother Anscar I was the first Margrave of Ivrea in northern Italy. Fulk served as

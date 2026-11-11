@@ -1,5 +1,6 @@
 ---
 name: Saint Alpin de Châlons
+stub: false
 honorific: Saint
 title: Bishop
 summary: >-

@@ -1,5 +1,6 @@
 ---
 name: Saint Venanzio of Luni
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Luni, Italy from 594 to c.604. Friend of Saint Gregory the Great who wrote about Venanzio's personal piety

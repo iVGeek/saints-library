@@ -1,5 +1,6 @@
 ---
 name: Blessed Jacobinus de Canepaci
+stub: false
 honorific: Blessed
 summary: >-
   Born poor. Carmelite lay-brother at Vercelli, Italy. Alms-beggar for his house. Noted for his great piety and devotion

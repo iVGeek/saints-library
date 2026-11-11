@@ -1,5 +1,6 @@
 ---
 name: Saint Merryn
+stub: false
 image: https://upload.wikimedia.org/wikipedia/commons/4/46/St_Merryn_shops_-_geograph.org.uk_-_50594.jpg
 honorific: Saint
 summary: >-

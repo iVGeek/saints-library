@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/48/Painting_of_the_Nagasaki_Martyrs.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Leo Aibara
+stub: false
 honorific: Blessed
 summary: >-
   Lifelong layman in the archdiocese of Nagasaki, Japan. Grandson of Blessed Romanus Aibara; son of Blessed Paulus

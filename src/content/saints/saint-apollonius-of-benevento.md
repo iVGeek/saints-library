@@ -1,5 +1,6 @@
 ---
 name: Saint Apollonius of Benevento
+stub: false
 honorific: Saint
 summary: Bishop of Benevento, Italy. Forced into hiding during the persecutions of Diocletian.
 deathYear: 326

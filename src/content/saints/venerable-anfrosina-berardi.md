@@ -1,5 +1,6 @@
 ---
 name: Venerable Anfrosina Berardi
+stub: false
 honorific: Venerable
 summary: >-
   Child in the archdiocese of L'Aquila, Italy, born to a peasant family. In April 1931, when she was 10 years old,

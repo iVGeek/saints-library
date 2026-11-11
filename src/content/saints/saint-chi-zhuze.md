@@ -1,5 +1,6 @@
 ---
 name: Saint Chi Zhuze
+stub: false
 honorific: Venerable
 summary: >-
   Teenaged layman convert in the apostolic vicariate of Southeastern Zhili, China who was still a catechumen when,

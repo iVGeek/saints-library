@@ -1,5 +1,6 @@
 ---
 name: Saint Trasilla
+stub: false
 honorific: Saint
 summary: >-
   Sister of Saint Sylvia of Rome and Saint Emiliana. Aunt of Pope Saint Gregory the Great. Lived as a religious sister

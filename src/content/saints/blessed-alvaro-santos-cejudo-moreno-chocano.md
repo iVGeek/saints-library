@@ -1,5 +1,6 @@
 ---
 name: Blessed Álvaro Santos Cejudo Moreno Chocano
+stub: false
 honorific: Blessed
 summary: Married layman in the diocese of Ciudad Real, Spain. Martyred in the Spanish Civil War.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Álvaro-Santos-Cejudo-Moreno-Chocano.jpg

@@ -1,5 +1,6 @@
 ---
 name: Blessed Eugenio Sanz-Orozco Mortera
+stub: false
 honorific: Blessed
 summary: >-
   Son of Eugenio del Saz-Orozco de la Oz, the last Spanish mayor of Manila, Philippines, and Felisa Mortera y Camacho.

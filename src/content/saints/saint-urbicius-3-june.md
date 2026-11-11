@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Urbicius
+stub: false
 honorific: Saint
 summary: >-
   With Saint Liphardus of Orleans, he founded and entered a monastery of Meung-sur-Loire, France. Served as its second

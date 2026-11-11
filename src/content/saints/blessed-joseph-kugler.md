@@ -1,5 +1,6 @@
 ---
 name: Blessed Joseph Kugler
+stub: false
 honorific: Blessed
 summary: >-
   As a young man he was apprenticed as an iron worker, but an injury ended that career. He joined the Order of the

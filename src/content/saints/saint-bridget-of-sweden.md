@@ -1,5 +1,6 @@
 ---
 name: Saint Bridget of Sweden
+stub: false
 honorific: Saint
 title: St. Bridget of Sweden
 summary: >-

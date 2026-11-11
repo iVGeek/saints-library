@@ -1,5 +1,6 @@
 ---
 name: Blessed José del Amo y del Amo
+stub: false
 honorific: Blessed
 summary: >-
   Member of the Missionaries of the Sacred Heart, making his profession at age 16 in 1932. Martyred in the Spanish Civil

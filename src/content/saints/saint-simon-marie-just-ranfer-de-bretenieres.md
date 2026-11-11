@@ -1,5 +1,6 @@
 ---
 name: Saint Simon-Marie-Just Ranfer de Bretenières
+stub: false
 honorific: Venerable
 summary: >-
   Born to the nobility, he was well educated, and earned a degree in Lyon, France in 1856. Simon entered the Sulpician

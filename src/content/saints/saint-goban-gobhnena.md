@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Goban Gobhnena
+stub: true
 honorific: Saint
 summary: Sixth-seventh century abbot at Old-Leighlin, County Limerick, Ireland.
 region: Ireland

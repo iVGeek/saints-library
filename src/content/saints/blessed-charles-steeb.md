@@ -1,5 +1,6 @@
 ---
 name: Blessed Charles Steeb
+stub: false
 honorific: Blessed
 summary: >-
   Born to a wealthy Lutheran family. Studied briefly in Paris, France as a teenager, but fled during the French

@@ -1,5 +1,6 @@
 ---
 name: Saint Amata of Assisi
+stub: false
 honorific: Saint
 summary: >-
   Niece of Saint Clare of Assisi. Friend of Saint Dominic de Guzman. After a misspent youth, and with an arranged

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/0/08/Roma_martires_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Vicente Toledano Valenciano
+stub: true
 honorific: Blessed
 summary: Priest in the diocese of Cuenca, Spain. Martyred in the Spanish Civil War.
 birthYear: 1900

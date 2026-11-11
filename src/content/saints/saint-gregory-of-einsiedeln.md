@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Gregory of Einsiedeln
+stub: false
 honorific: Saint
 summary: >-
   While on pilgrimage to Rome, Italy he became a Benedictine monk, receiving the cowl on the Caelian Hill. In 949, on

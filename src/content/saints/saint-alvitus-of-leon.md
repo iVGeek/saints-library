@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Alvitus of León
+stub: false
 honorific: Saint
 summary: >-
   Related to Saint Rudesind. Benedictine monk at Sahagun, Spain. Bishop of León, Spain in 1057. Transferred the relics

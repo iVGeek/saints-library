@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Mordeyren
+stub: true
 honorific: Saint
 summary: No information about him has survived.
 died: relics formerly enshrined in a chapel of the parish church Nantglyn, Wales, but they have disappeared

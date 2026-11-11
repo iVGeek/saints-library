@@ -1,5 +1,6 @@
 ---
 name: Pope Saint Callistus I
+stub: false
 honorific: Saint
 summary: >-
   Born a slave, owned by Carpophorus, a Christian in the household of Caesar. His master entrusted a large sum to

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/2/27/Onesimus_and_Philemon.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Onesimus of Ephesus
+stub: true
 honorific: Saint
 summary: Priest. Bishop of Ephesus. Supported Saint Ignatius of Antioch.
 region: Turkey

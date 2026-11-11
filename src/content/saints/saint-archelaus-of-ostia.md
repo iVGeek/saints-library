@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/3/39/Saint_Publius_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Archelaus of Ostia
+stub: true
 honorific: Saint
 summary: Deacon. One of a group martyred in the persecutions of Alexander Severus.
 deathYear: 235

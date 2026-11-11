@@ -1,5 +1,6 @@
 ---
 name: Blessed Eystein Erlandsön
+stub: false
 honorific: Blessed
 summary: >-
   Born to the nobility, he studied in France. Priest. Court chaplain in the reign of King Inge Korkrygg. First

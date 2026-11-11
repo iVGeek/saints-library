@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/4a/Fresco_of_Saint_Paul_at_Ephesus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Paul of Palestine
+stub: false
 honorific: Saint
 summary: >-
   Martyred in the persecutions of Galerius. He spent his last minutes, standing at the executioner's block, praying for

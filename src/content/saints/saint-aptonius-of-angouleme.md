@@ -1,5 +1,6 @@
 ---
 name: Saint Aptonius of Angouleme
+stub: false
 honorific: Saint
 title: Bishop
 summary: Bishop of Angouleme, Aquitaine (in modern France) in 541. Attended the Fifth Council of Orleans in 549.

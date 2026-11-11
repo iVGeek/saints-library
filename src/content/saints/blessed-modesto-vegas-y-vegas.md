@@ -1,5 +1,6 @@
 ---
 name: Blessed Modesto Vegas y Vegas
+stub: false
 honorific: Blessed
 summary: >-
   Entered the novitiate of the Friars Minor Conventual at the Franciscan convent at Granollers, Spain as a teenager in

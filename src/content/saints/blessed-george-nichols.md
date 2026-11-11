@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/8/86/Assumption_BVM_Church_DC_06.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed George Nichols
+stub: false
 honorific: Blessed
 summary: >-
   Raised Protestant, he graduated from Brasenose College in Oxford, England in 1573. Taught at Saint Paul's School,

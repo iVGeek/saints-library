@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Jerome of Vallumbrosa
+stub: true
 honorific: Blessed
 summary: Benedictine Vallumbrosan monk. Hermit who lived 35 years on bread and water.
 deathYear: 1135

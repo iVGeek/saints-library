@@ -1,5 +1,6 @@
 ---
 name: Saint Benedict of Aniane
+stub: false
 honorific: Saint
 summary: >-
   Born a Visigoth, the son of Aigul, Count of Maguelone. Educated at the court of Pepin. Courtier and cup-bearer to King

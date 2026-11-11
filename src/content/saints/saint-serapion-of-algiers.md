@@ -1,5 +1,6 @@
 ---
 name: Saint Serapion of Algiers
+stub: false
 honorific: Saint
 summary: >-
   As a boy he accompanied his father in the Third Crusade, and was at the battle of Acre in 1191. Member of the Order of

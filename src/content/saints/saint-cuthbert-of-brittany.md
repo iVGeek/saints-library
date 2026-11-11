@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Cuthbert of Brittany
+stub: true
 honorific: Saint
 summary: No information has survived.
 searchAliases:

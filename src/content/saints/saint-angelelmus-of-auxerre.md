@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/8/88/Auxerre_Saint-Etienne_fa%C3%A7ade_occidentale.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Angelelmus of Auxerre
+stub: false
 honorific: Saint
 summary: Abbot of the monastery of Saint Gervase and Protase in Auxerre, France. Bishop of Auxerre.
 deathYear: 828

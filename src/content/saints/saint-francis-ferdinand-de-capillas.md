@@ -1,5 +1,6 @@
 ---
 name: Saint Francis Ferdinand de Capillas
+stub: false
 honorific: Venerable
 summary: >-
   Joined the Dominicans in Valladolid, Spain. Ordained in Manila, Philippines in 1631. Missionary and parish priest in

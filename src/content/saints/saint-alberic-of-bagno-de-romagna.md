@@ -1,5 +1,6 @@
 ---
 name: Saint Alberic of Bagno de Romagna
+stub: false
 honorific: Saint
 summary: >-
   Born to the wealthy Italian nobility. Lived as a prayerful hermit in the valley of Sant Anastasio. Monk at Bagno de

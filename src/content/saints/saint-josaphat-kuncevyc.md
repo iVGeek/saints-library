@@ -1,5 +1,6 @@
 ---
 name: Saint Josaphat Kuncevyc
+stub: false
 honorific: Saint
 summary: >-
   His father was a municipal counselor, and his mother known for her piety. Raised in the Orthodox Ruthenian Church

@@ -1,5 +1,6 @@
 ---
 name: Venerable Franz de Castro Holzwarth
+stub: false
 honorific: Venerable
 summary: >-
   Layman of the diocese of São José dos Campos, Brazil. He was a lawyer and human rights activist who was killed after

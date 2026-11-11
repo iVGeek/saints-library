@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/9/91/Nuremberg_chronicles_f_145v_4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Baldred the Hermit
+stub: false
 honorific: Saint
 summary: Eighth century hermit. Priest. Miracle worker. No other information has survived.
 searchAliases:

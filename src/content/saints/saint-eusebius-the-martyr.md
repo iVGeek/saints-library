@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Eusebius the Martyr
+stub: true
 honorific: Saint
 summary: Priest. Martyred in the persecutions of Valerian.
 deathYear: 257

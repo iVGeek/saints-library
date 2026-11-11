@@ -1,5 +1,6 @@
 ---
 name: Blessed María Dolores Barroso Villaseñor
+stub: false
 honorific: Blessed
 summary: >-
   Daughters of Charity of Saint Vincent de Paul nun in the Archdiocese of Madrid, Spain, joining on 2 December 1926. She

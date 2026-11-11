@@ -1,5 +1,6 @@
 ---
 name: Venerable Edward Morgan
+stub: false
 image: https://upload.wikimedia.org/wikipedia/commons/8/8b/Ted_Morgan_%28boxer%29.jpg
 honorific: Venerable
 summary: >-

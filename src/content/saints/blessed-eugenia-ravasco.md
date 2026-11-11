@@ -1,5 +1,6 @@
 ---
 name: Blessed Eugenia Ravasco
+stub: false
 honorific: Blessed
 summary: >-
   Third of six children born to Francesco Matteo and Carolina Mozzoni Frosconi. Eugenia's mother died when the girl was

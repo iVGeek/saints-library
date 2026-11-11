@@ -1,5 +1,6 @@
 ---
 name: Saint Joseph Studita of Thessalonica
+stub: false
 honorific: Saint
 summary: >-
   Brother of Saint Theodore the Studite. Monk. Hymnist. Bishop of Thessalonica. Fought hard to maintain ecclesiastical

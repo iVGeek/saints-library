@@ -1,5 +1,6 @@
 ---
 name: Blessed Maria Angeles of Saint Joseph
+stub: false
 honorific: Blessed
 summary: >-
   Youngest of eleven children born to Manual and Lorenza; six of her siblings died in childhood. Her mother died when

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Donatus of Africa
+stub: true
 honorific: Saint
 summary: Martyr.
 died: unknown location in Afria, date unknown

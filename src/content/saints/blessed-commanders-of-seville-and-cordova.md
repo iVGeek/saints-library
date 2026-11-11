@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/1/19/Sevilla_%28Frissius_1605%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Commanders of Seville and Cordova
+stub: false
 honorific: Blessed
 summary: >-
   Two Mercedarian Commanders, one from Seville, Spain, the other from Cordova, Spain, whose names have not come down to

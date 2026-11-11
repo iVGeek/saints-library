@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Donatus of North Africa
+stub: true
 honorific: Saint
 summary: One of a group of 13 martyrs in North Africa.
 region: England

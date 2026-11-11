@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Paulus Nishida Kyuhachi
+stub: true
 honorific: Blessed
 summary: Layman of the archdiocese of Nagasaki, Japan. Martyr.
 birthYear: 1553

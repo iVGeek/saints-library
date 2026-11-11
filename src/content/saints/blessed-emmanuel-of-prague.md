@@ -1,5 +1,6 @@
 ---
 name: Blessed Emmanuel of Prague
+stub: false
 honorific: Blessed
 summary: >-
   Franciscan Friar Minor lay brother who served as cook for his house. One of the Martyrs of Prague, killed by a

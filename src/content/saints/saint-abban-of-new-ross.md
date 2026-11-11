@@ -1,5 +1,6 @@
 ---
 name: Saint Abban of New Ross
+stub: false
 honorific: Saint
 title: Priest
 summary: Founded Ros-mic-treoin abbey (modern New Ross), and evangelized in the area of Wexford, Ireland.

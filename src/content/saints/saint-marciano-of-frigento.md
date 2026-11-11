@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Marciano of Frigento
+stub: false
 honorific: Saint
 summary: >-
   Born to a wealthy Christian family, when Marciano received his inheritance he gave it all away to the poor and devoted

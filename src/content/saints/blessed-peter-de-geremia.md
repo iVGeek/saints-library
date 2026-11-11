@@ -1,5 +1,6 @@
 ---
 name: Blessed Peter de Geremia
+stub: false
 honorific: Blessed
 summary: >-
   Educated at the University of Bologna, Italy; brilliant law student. One night while he meditated on the worldly

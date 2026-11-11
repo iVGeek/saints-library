@@ -1,5 +1,6 @@
 ---
 name: Saint Bruno of Ottobeuren
+stub: true
 honorific: Saint
 title: Bishop
 summary: Benedictine lay-brother at Ottobeuren Abbey, Bavaria (modern Germany).

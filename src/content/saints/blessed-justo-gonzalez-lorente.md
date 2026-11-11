@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Justo González Lorente
+stub: true
 honorific: Blessed
 summary: Priest. Member of the Missionary Oblates of Mary Immaculate. Martyr.
 birthYear: 1915

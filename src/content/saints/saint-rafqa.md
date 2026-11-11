@@ -1,5 +1,6 @@
 ---
 name: Saint Rafqa
+stub: false
 honorific: Venerable
 summary: >-
   Daughter and only child of Mourad Saber Shabaq al-Rayes and Rafqa Gemayel. Her mother died when Rafka was six. She and

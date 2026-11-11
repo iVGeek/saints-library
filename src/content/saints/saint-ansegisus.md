@@ -1,5 +1,6 @@
 ---
 name: Saint Ansegisus
+stub: false
 honorific: Saint
 summary: >-
   Benedictine monk at Fontenelle Abbey, France at age 18. Entrusted by Charlemagne and Louis le D&eacute;bonnaire with

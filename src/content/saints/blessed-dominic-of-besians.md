@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Dominic of Besians
+stub: false
 honorific: Blessed
 summary: >-
   Spanish Dominican. With Blessed Gregory, he preached in the villages of the Somontano, near Barbastro, near the

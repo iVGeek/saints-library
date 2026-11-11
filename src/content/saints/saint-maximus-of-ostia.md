@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Maximus of Ostia
+stub: true
 honorific: Saint
 summary: Priest. One of a group martyred in the persecutions of Alexander Severus.
 deathYear: 235

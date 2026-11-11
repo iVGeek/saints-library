@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/3/3d/The_King_Conrad_I_enthroned.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Konrad II of Mondsee
+stub: false
 honorific: Blessed
 summary: >-
   Benedictine monk at Siegburg Abbey. Abbot of Mondsee in Upper Austria in 1127. When some nobles seized property

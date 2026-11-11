@@ -1,5 +1,6 @@
 ---
 name: Venerable José Antonio Plancarte y Labastida
+stub: false
 honorific: Venerable
 summary: >-
   Around the age of 16, José travelled to England to study business, but he finally gave in to a call to the priesthood,

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Hedda of Wessex
+stub: false
 honorific: Saint
 summary: >-
   Benedictine monk. Abbot at Whitby, Yorkshire, England. Bishop of the Wessex, England region in 676; he served for

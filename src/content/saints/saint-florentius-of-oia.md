@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Florentius of Oia
+stub: false
 honorific: Saint
 summary: Martyred with five other Christians, date unknown. No other information has survived.
 died: Oia, Greece

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/a/a4/Guerric_d%27Igny.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Odo of Cambrai
+stub: false
 honorific: Blessed
 summary: >-
   One of the most learned French scholars of the 11th century. Layman headmaster of the cathedral school at Tournai in

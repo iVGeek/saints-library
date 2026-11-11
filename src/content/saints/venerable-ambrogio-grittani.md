@@ -1,5 +1,6 @@
 ---
 name: Venerable Ambrogio Grittani
+stub: false
 honorific: Venerable
 summary: >-
   Priest in the diocese of Bari, Italy. Taught in the regional seminary in Molfetta, Italy. Founder of the Pious Work of

@@ -1,5 +1,6 @@
 ---
 name: Saint Aristobulus of Britannia
+stub: false
 honorific: Saint
 summary: >-
   One of the 70 disciples sent out to preach Christianity at the beginning of the Church. Missionary to the British

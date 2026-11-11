@@ -1,5 +1,6 @@
 ---
 name: Blessed Alexander of Cîteaux
+stub: false
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Manual_of_piety_for_the_clients_of_the_Sacred_Heart_of_Jesus_%28IA_manualofpietyfor00unse%29.pdf/page1-500px-Manual_of_piety_for_the_clients_of_the_Sacred_Heart_of_Jesus_%28IA_manualofpietyfor00unse%29.pdf.jpg
 honorific: Blessed

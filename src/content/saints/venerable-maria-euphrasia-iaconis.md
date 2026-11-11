@@ -1,5 +1,6 @@
 ---
 name: Venerable Maria Euphrasia Iaconis
+stub: false
 honorific: Venerable
 summary: >-
   The daughter of Luigi Antonio Iaconis and Maria Antonia Spina, she was baptized at the age of 9 days. Her aunt, Mother

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Wulsin of Sherborne
+stub: false
 honorific: Saint
 summary: >-
   Benedictine monk. Spiritual student and close confidant of Saint Dunstan of Canterbury. Named by Dunstan c.960 to be

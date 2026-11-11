@@ -1,5 +1,6 @@
 ---
 name: Blessed Rose-Chretien de Neuville
+stub: false
 honorific: Blessed
 summary: >-
   Married young. Widow. Carmelite nun at Compiegne, France, taking the name Julia Louise of Jesus, professed in 1777.

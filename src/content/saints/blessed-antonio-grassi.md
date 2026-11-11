@@ -1,5 +1,6 @@
 ---
 name: Blessed Antonio Grassi
+stub: false
 honorific: Blessed
 summary: >-
   Oldest child in a devout family. Antonio's father, Vincenzo Grassi, died when the boy was only 10 years old, but he

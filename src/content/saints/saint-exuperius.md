@@ -1,5 +1,6 @@
 ---
 name: Saint Exuperius
+stub: true
 honorific: Saint
 summary: One of the Martyrs of the Theban Legion. No other information has survived.
 searchAliases:

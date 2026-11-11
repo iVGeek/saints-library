@@ -1,5 +1,6 @@
 ---
 name: Saint Withburgh of East Anglia
+stub: false
 honorific: Saint
 summary: >-
   Born a princess, the youngest daughter of King Anna of East Anglia (part of modern England). Following the death of

@@ -1,5 +1,6 @@
 ---
 name: Saint Gebhard of Constance
+stub: false
 honorific: Saint
 summary: Bishop of Constance (Konstantz), Germany from 979 till his death. Founded the Benedictine abbey of Peterhausen in 983.
 image: >-

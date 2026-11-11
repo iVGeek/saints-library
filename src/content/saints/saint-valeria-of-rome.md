@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Valeria of Rome
+stub: true
 honorific: Saint
 summary: Two Christians with the same name who were martyred together.
 died: Rome, Italy, date unknown

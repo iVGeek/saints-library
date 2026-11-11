@@ -1,5 +1,6 @@
 ---
 name: Saint Sergius of Caesarea
+stub: false
 honorific: Saint
 summary: >-
   Monk in Caesarea, Cappadocia. May have been a priest; records are unclear. He was one of a group of Christians

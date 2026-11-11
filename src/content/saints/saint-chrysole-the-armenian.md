@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Chrysole the Armenian
+stub: false
 honorific: Saint
 summary: >-
   Fled Armenia to northeast Gaul during the persecutions of Diocletian. Spiritual student of Saint Denis of Paris.

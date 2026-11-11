@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Joseph Luu
+stub: false
 honorific: Venerable
 summary: >-
   Lay man farmer and catechist in the apostolic vicariate of West Cochinchina. Imprisoned when he tried to take the

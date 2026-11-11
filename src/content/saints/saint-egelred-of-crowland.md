@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Egelred of Crowland
+stub: true
 honorific: Saint
 summary: Monk at Crowland Abbey in England. Martyred by pagan Danish invaders.
 deathYear: 869

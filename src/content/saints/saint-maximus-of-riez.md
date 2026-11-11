@@ -1,5 +1,6 @@
 ---
 name: Saint Maximus of Riez
+stub: false
 honorific: Saint
 summary: >-
   Raised in a Christian home, in his youth he began to live as a hermit there. Monk at the monastery founded by Saint

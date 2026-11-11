@@ -1,5 +1,6 @@
 ---
 name: Blessed Bernard Francis Casey
+stub: false
 honorific: Blessed
 summary: >-
   Bernard joined the Franciscan Capuchins in 1897. He was ordained a priest in 1904, but because he was unable to

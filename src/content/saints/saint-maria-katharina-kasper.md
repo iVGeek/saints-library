@@ -1,5 +1,6 @@
 ---
 name: Saint Maria Katharina Kasper
+stub: false
 honorific: Saint
 summary: >-
   Third of four children born to Heinrich Kasper and Katharina Fassel, poor but devout peasants; she had four

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Severinus the Hermit
+stub: false
 honorific: Saint
 summary: Hermit at and then near Paris, France. Lived in a walled up cell. Spiritual teacher of Saint Cloud.
 searchAliases:

@@ -1,5 +1,6 @@
 ---
 name: Blessed Clara Fey
+stub: false
 honorific: Blessed
 summary: >-
   Fourth of five children born to Louis and Katherine Fey; her father was a wealthy textile industrialist who died of a

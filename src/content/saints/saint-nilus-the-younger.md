@@ -1,5 +1,6 @@
 ---
 name: Saint Nilus the Younger
+stub: false
 honorific: Saint
 summary: >-
   Son of Greek immigrants to Italy. He led a wild and mis-spent youth, eventually finding work as a treasury official.

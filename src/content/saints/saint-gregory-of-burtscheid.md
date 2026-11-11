@@ -1,5 +1,6 @@
 ---
 name: Saint Gregory of Burtscheid
+stub: false
 honorific: Saint
 summary: >-
   Benedictine Basilian monk at Cerchiara, Calabria, Italy. Fled to Rome, Italy to escape invading Saracens. There he met

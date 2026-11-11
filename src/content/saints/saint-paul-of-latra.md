@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Paul of Latra
+stub: false
 honorific: Saint
 summary: 10th century hermit in Greece. Spiritual teacher and director for many Eastern monks.
 searchAliases:

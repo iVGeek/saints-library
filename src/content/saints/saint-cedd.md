@@ -1,5 +1,6 @@
 ---
 name: Saint Cedd
+stub: false
 honorific: Saint
 summary: >-
   Brother of Saint Chad and Saint Cynibild; his brother Caelin was also a priest. Benedictine monk at Lindisfarne,

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Philip of Fermo
+stub: true
 honorific: Saint
 summary: Bishop of Fermo, Italy. Martyred in the persecutions of Aurelian.
 deathYear: 270

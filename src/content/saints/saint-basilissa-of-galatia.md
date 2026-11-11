@@ -1,5 +1,6 @@
 ---
 name: Saint Basilissa of Galatia
+stub: false
 honorific: Saint
 summary: >-
   Wealthy woman in Galatia, Asia Minor (part of modern Turkey). Visited and comforted Christians imprisoned for their

@@ -1,5 +1,6 @@
 ---
 name: Saint Castritian of Milan
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Milan, Italy for 42 years. Noted for establishing care for the poor and travellers, and for restoring the

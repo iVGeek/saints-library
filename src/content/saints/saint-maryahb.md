@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Maryáhb
+stub: true
 honorific: Saint
 summary: Priest. Martyred in the persecutions of Shapur II.
 deathYear: 341

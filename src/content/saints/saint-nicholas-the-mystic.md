@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/0/0a/Ritratto_di_San_Nicola_da_Tolentino.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Nicholas the Mystic
+stub: false
 honorific: Saint
 title: Bishop
 summary: >-

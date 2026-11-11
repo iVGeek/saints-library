@@ -1,5 +1,6 @@
 ---
 name: Saint Margaret of Hungary
+stub: false
 honorific: Saint
 summary: >-
   Daughter of King Bela IV of Hungary and Marie Laskaris; grand-daughter of the Byzantine emperor. When Hungary was

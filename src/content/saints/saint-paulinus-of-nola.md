@@ -1,5 +1,6 @@
 ---
 name: Saint Paulinus of Nola
+stub: false
 honorific: Saint
 summary: ' Distinguished lawyer. Held several public offices in the Empire, then retired from public ministry with his wife, Therasia, first to Borde Friend of Saint Augustine of Hippo and Saint Nicetas of Remesiana, and mentioned for his holiness by at least six of his contemporary saints.'
 image: https://commons.wikimedia.org/wiki/Special:FilePath/Linzer_Dom_-_Fenster_-_Paulinus_von_Nola.jpg?width=600

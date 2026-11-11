@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Successus of North Africa
+stub: true
 honorific: Saint
 died: martyred in North Africa
 region: Africa

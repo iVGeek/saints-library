@@ -1,5 +1,6 @@
 ---
 name: Saint Bernard of Lérida
+stub: false
 honorific: Saint
 summary: >-
   Son of Almanzor, Muslim caliph of Lerida, Catalonia. Brother of Saint Mary and Saint Grace. Convert. Benedictine

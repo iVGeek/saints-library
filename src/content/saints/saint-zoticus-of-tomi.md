@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Zoticus of Tomi
+stub: true
 honorific: Saint
 summary: Martyr.
 searchAliases:

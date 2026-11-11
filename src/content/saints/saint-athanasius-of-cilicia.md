@@ -1,5 +1,6 @@
 ---
 name: Saint Athanasius of Cilicia
+stub: false
 honorific: Saint
 summary: >-
   A witness to the torture of Zosimus of Cilicia in the persecution of Diocletian. The courage and faith of Zosimus

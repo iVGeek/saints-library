@@ -1,5 +1,6 @@
 ---
 name: Blessed Redemptorus of the Cross
+stub: false
 honorific: Blessed
 summary: >-
   Military officer. Discalced Carmelite in 1615, taking the name Redemptorus of the Cross. With Blessed Denis of the

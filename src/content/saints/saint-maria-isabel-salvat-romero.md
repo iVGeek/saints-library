@@ -1,5 +1,6 @@
 ---
 name: Saint María Isabel Salvat Romero
+stub: false
 honorific: Venerable
 summary: >-
   Born to a wealthy and very pious family. Lived in Portugal from 1936 to 1938 to escape the persecutions of the Spanish

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Cummian Fada
+stub: false
 honorific: Saint
 summary: >-
   Born to the Irish nobility, the son of King Fiachna of West Munster. Columban monk in Clonfert, Ireland. Founded a

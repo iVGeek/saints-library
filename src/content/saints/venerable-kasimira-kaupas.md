@@ -1,5 +1,6 @@
 ---
 name: Venerable Kasimira Kaupas
+stub: true
 honorific: Venerable
 summary: Founded and led the Sisters of Saint Casimir.
 image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Kasimira-Kaupas.jpg

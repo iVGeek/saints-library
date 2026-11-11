@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/7/74/AlboxBB_33.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Antonio Lorca Muñoz
+stub: false
 honorific: Blessed
 summary: >-
   Ordained a priest of the diocese of Almeria Spain on 17 December 1910. Co-adjutor of the parish of Saint Mary of

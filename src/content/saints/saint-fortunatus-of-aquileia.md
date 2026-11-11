@@ -1,5 +1,6 @@
 ---
 name: Saint Fortunatus of Aquileia
+stub: false
 honorific: Saint
 summary: First century deacon, serving Saint Hermagorus of Aquileia. Martyred with Saint Hermagorus in the persecution of Nero.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Fortunatus-of-Aquileia.jpg

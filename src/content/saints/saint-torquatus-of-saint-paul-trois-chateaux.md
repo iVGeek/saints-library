@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Torquatus of Saint-Paul-Trois-Châteaux
+stub: true
 honorific: Saint
 title: Bishop
 summary: Mid-4th century bishop of the diocese of Saint-Paul-Trois-Châteaux, France.

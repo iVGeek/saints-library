@@ -1,5 +1,6 @@
 ---
 name: Blessed John Fenwick
+stub: false
 honorific: Blessed
 summary: >-
   Born to a Protestant family who disowned him when he converted to Catholicism. Educated at Jesuit College in

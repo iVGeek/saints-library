@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/4e/Pontifical_Mass_-_15th_Century_-_Project_Gutenberg_eText_16531.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Gaufridus
+stub: false
 honorific: Blessed
 summary: >-
   Benedictine monk. Spiritual student of Blessed Vitalis. Abbot at Savigny from 1122 to 1139 during which the

@@ -1,5 +1,6 @@
 ---
 name: Blessed Miquel Peiro Victori
+stub: false
 honorific: Blessed
 summary: >-
   Married layman in the archdiocese of Barcelona, Spain. Member of the Lay Dominicans. Martyred in the Spanish Civil

@@ -1,5 +1,6 @@
 ---
 name: Saint Goeznoveus of Léon
+stub: false
 honorific: Saint
 summary: Brother of Saint Maughan. Emigrated to Brittany (part of modern France). Bishop of Léon, France.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Goeznoveus-of-Léon.jpg

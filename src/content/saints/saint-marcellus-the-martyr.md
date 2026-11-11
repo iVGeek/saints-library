@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Marcellus the Martyr
+stub: true
 honorific: Saint
 summary: Deacon. Martyred in the persecutions of Valerian.
 deathYear: 257

@@ -1,5 +1,6 @@
 ---
 name: Blessed Giles of Laurenzana
+stub: false
 honorific: Blessed
 summary: >-
   Raised on a farm at Laurenzana, Naples. Franciscan lay brother. Lived as a hermit in the garden of the Franciscan

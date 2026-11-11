@@ -1,5 +1,6 @@
 ---
 name: Pope Saint Linus
+stub: false
 honorific: Saint
 summary: >-
   Second Pope, and the first to be chosen in Rome, Italy. According to Irenaeus, he is the Linus mentioned by Saint Paul

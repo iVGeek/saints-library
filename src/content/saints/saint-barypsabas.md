@@ -1,5 +1,6 @@
 ---
 name: Saint Barypsabas
+stub: false
 honorific: Saint
 summary: >-
   First century hermit. Legend says that Barypsabas made a pilgrimage to Rome, Italy, carrying a container of the blood

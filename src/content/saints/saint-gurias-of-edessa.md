@@ -1,5 +1,6 @@
 ---
 name: Saint Gurias of Edessa
+stub: true
 honorific: Saint
 summary: Martyred in the persecutions of Diocletian.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Gurias-of-Edessa.jpg

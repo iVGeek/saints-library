@@ -1,5 +1,6 @@
 ---
 name: Blessed Marie Cluse
+stub: false
 honorific: Blessed
 summary: Sacramentine nun, making her profession on 4 November 1783. Martyred in the French Revolution.
 image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Orange.jpg

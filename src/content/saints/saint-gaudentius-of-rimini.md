@@ -1,5 +1,6 @@
 ---
 name: Saint Gaudentius of Rimini
+stub: false
 honorific: Saint
 summary: >-
   Immigrant to Rome, Italy c.308; ordained there in 332. Evangelizing bishop of Rimini, Italy in 346. Ordained Saint

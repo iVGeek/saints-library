@@ -1,5 +1,6 @@
 ---
 name: Saint Anselm of Nonantola
+stub: false
 honorific: Saint
 summary: >-
   Duke of Friuli, Italy. Brother-in-law of the Lombard King Aistulph. Career soldier. Cleric. Founded the abbeys in

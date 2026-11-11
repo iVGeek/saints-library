@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed James of Certaldo
+stub: false
 honorific: Blessed
 summary: >-
   Son of a knight of Volterra (in modern Italy). Camaldolese Benedictine monk for over sixty years at the abbey of Saint

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/f/f2/Un_mural_del_padre_Rutilio_Grande.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Nelson Rutilio Lemus Chávez
+stub: false
 honorific: Blessed
 summary: >-
   Young, single layman in the archdiocese of San Salvador, El Salvador. Murdered by El Salvadoran security forces while

@@ -1,5 +1,6 @@
 ---
 name: Saint Aurea of Cordoba
+stub: false
 honorific: Saint
 summary: >-
   Raised Muslim during the period of Moorish occupation of Spain. Married. Widow. Convert to Christianity. Nun at

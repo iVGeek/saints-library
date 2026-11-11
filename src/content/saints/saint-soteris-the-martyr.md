@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Soteris the Martyr
+stub: false
 honorific: Saint
 summary: >-
   Wealthy 3rd century noble family. A beatiful young woman, she consecrated herself to God. Unlike other women of her

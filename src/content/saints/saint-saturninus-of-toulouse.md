@@ -1,5 +1,6 @@
 ---
 name: Saint Saturninus of Toulouse
+stub: false
 honorific: Saint
 summary: >-
   Born to the third century Roman nobility. Missionary to Gaul, the Pyrenees, and the Iberian peninsula. Worked with

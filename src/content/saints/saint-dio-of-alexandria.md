@@ -1,5 +1,6 @@
 ---
 name: Saint Dio of Alexandria
+stub: true
 honorific: Saint
 summary: Priest. Martyred in the Diocletian.
 region: Italy

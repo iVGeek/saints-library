@@ -1,5 +1,6 @@
 ---
 name: Blessed Sára Salkaházi
+stub: false
 honorific: Blessed
 summary: >-
   Second of three children born to Leopold and Klotild Salkahaz, hotel owners. Her father died when Sara was two. Her

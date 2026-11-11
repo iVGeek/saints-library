@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Duban
+stub: false
 honorific: Saint
 summary: >-
   Son of Saint Brychan of Brycheiniog and Din, a Saxon princess, Duban received a good education in the faith, and was

@@ -1,5 +1,6 @@
 ---
 name: Saint Petrus Yu Chong-nyul
+stub: false
 honorific: Venerable
 summary: >-
   Married layman and father in the apostolic vicariate of Korea. While reading the Bible to a group of friends at the

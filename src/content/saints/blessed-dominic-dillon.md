@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/8/88/Sta_Rosa_de_Lima_por_Claudio_Coello.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Dominic Dillon
+stub: true
 honorific: Blessed
 summary: Dominican priest. One of the Irish Martyrs.
 deathYear: 1649

@@ -1,5 +1,6 @@
 ---
 name: Saint Luxorius of Sardinia
+stub: false
 honorific: Saint
 summary: >-
   Christian soldier in the imperial Roman army. Comforted Saint Cisellus and Saint Camerinus after the boys had been

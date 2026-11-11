@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Edana of West Ireland
+stub: false
 honorific: Saint
 summary: >-
   Holy virgin who lived near the rivers Boyle and Shannon. A holy well is named for her, as are some parishes in western

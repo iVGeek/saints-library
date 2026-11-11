@@ -1,5 +1,6 @@
 ---
 name: Blessed Pedro Álvarez Pérez
+stub: false
 honorific: Blessed
 summary: >-
   Member of the Brothers of the Christian Schools, entering the novitiate in Griñón, Madrid, Spain in 1927, and making

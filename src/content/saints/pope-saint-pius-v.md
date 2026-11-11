@@ -1,5 +1,6 @@
 ---
 name: Pope Saint Pius V
+stub: false
 honorific: Saint
 summary: >-
   Born to impoverished Italian nobility, the son of Paolo Ghislieri and Domenica Augeria. Worked as a shepherd as a boy.

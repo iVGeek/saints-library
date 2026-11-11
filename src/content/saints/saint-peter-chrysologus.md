@@ -1,5 +1,6 @@
 ---
 name: Saint Peter Chrysologus
+stub: false
 honorific: Saint
 title: St. Peter Chrysologus
 summary: >-

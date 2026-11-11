@@ -1,5 +1,6 @@
 ---
 name: Saint Nicholas Peregrinus
+stub: false
 honorific: Saint
 summary: >-
   Moved from Greece to Apulia, Italy as a teenager where he wandered the streets carrying a cross and crying “Kyrie

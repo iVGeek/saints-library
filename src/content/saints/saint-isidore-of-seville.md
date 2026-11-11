@@ -1,5 +1,6 @@
 ---
 name: Saint Isidore of Seville
+stub: false
 honorific: Saint
 summary: >-
   Son of Severianus and Theodora, people known for their piety. Brother of Saint Fulgentius of Ecija, Saint Florentina

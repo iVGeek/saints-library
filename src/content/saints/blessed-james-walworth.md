@@ -1,5 +1,6 @@
 ---
 name: Blessed James Walworth
+stub: false
 honorific: Blessed
 summary: >-
   Carthusian priest and choir monk at the London Charterhouse. Exiled by the government to the Charterhouse of Saint

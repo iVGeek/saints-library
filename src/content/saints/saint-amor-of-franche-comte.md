@@ -1,5 +1,6 @@
 ---
 name: Saint Amor of Franche-Comté
+stub: true
 honorific: Saint
 summary: Venerated in Franche-Comté, France, but his story has been lost over time.
 searchAliases:

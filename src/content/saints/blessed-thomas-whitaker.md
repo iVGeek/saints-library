@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/en/d/d6/Real_Colegio_de_Ingleses_Valladolid.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Thomas Whitaker
+stub: false
 honorific: Blessed
 summary: >-
   Son of Thomas, a schoolmaster, and Helen. Studied at Saint Omer and in Valladolid, Spain. Ordained at Valladolid in

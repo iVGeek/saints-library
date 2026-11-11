@@ -1,5 +1,6 @@
 ---
 name: Venerable Giovanni Merlini
+stub: false
 honorific: Venerable
 summary: >-
   Against the strong wishes of his family, Giovanni was ordained a priest on 19 December 1818. Following a course of

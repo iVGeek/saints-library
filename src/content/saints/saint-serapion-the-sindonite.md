@@ -1,5 +1,6 @@
 ---
 name: Saint Serapion the Sindonite
+stub: false
 honorific: Saint
 summary: >-
   Early desert monk whose unflinching dedication to the ascetic life was an example to many others at the beginning of

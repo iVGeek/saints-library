@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Cruciatus of Ravenna
+stub: true
 honorific: Saint
 summary: Martyr.
 searchAliases:

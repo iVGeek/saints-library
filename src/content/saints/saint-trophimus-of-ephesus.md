@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Trophimus of Ephesus
+stub: false
 honorific: Saint
 summary: >-
   Gentile first century convert. Missionary with Saint Paul. Pilgim to Jerusalem where his Gentile presence in the

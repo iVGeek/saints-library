@@ -1,5 +1,6 @@
 ---
 name: Blessed Saturio Rey Robles
+stub: false
 honorific: Blessed
 summary: >-
   Lifelong friend of Blessed Felicísimo Díez González. Dominican priest, professed on 6 October 1925 and ordained on 21

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Elian of Marula
+stub: true
 honorific: Saint
 summary: Martyr.
 searchAliases:

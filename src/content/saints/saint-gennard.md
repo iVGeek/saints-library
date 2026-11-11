@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Gennard
+stub: false
 honorific: Saint
 summary: >-
   Educated at the court of Clotaire III. Benedictine monk at Fontenelle Abbey under Saint Wandrille. Abbot of Flay,

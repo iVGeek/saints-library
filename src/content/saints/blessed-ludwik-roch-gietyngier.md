@@ -1,5 +1,6 @@
 ---
 name: Blessed Ludwik Roch Gietyngier
+stub: false
 honorific: Blessed
 summary: >-
   Ordained a priest in 1927 in the archdiocese of Czestochowa, Poland. He was a dedicated teacher, catechist and youth

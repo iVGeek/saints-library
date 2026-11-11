@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Aquilinus of Fossombrone
+stub: true
 honorific: Saint
 summary: Third century martyr. No other information has survived.
 died: martyred at Fossombrone, Italy

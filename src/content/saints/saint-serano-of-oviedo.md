@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Serano of Oviedo
+stub: false
 honorific: Saint
 title: Bishop
 summary: >-

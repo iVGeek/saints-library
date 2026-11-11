@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Marcian of Constantinople
+stub: false
 honorific: Saint
 summary: >-
   Member of a Roman family of Constantinople. Related to Emperor Theodosius II. Ordained in 455. He lived such an

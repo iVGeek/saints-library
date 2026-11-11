@@ -1,5 +1,6 @@
 ---
 name: Saint Austregisilus of Bourges
+stub: false
 honorific: Saint
 summary: >-
   Educated and trained as a courtier to King Gontrano, but Austregisilus felt a call to religious life, and withdrew

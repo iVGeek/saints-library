@@ -1,5 +1,6 @@
 ---
 name: Saint Poemen
+stub: false
 honorific: Saint
 summary: >-
   Leader of a group of hermits in the desert of Skete in Egypt, living in the abandoned ruins of a pagan temple at

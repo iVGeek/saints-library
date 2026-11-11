@@ -1,5 +1,6 @@
 ---
 name: Saint Zosimus of Palestine
+stub: false
 honorific: Saint
 summary: >-
   Fifth century hermit on the banks of the Jordan River. Discovered Saint Mary of Egypt, brought her the Eucharist one

@@ -1,5 +1,6 @@
 ---
 name: Saint Rasso of Grafrath
+stub: false
 honorific: Saint
 summary: >-
   Born to the German nobility, he became a Count (Graf); he was an unusually large man for the time, standing at least 6

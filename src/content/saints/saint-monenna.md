@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Monenna of Killeavy
+stub: true
 honorific: Saint
 summary: Ascetic abbess of Sliabh Cuillin, Ireland.
 searchAliases:

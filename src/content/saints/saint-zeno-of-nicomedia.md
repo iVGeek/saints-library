@@ -1,5 +1,6 @@
 ---
 name: Saint Zeno of Nicomedia
+stub: false
 honorific: Saint
 summary: >-
   Imperial Roman soldier and regimental commander. As the emperor Diocletian offered sacrifice to a statue of the

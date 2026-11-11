@@ -1,5 +1,6 @@
 ---
 name: Blessed Marie Hanniset
+stub: false
 honorific: Blessed
 summary: >-
   Discalced Carmelite nun, professed in 1764. One of the Carmelite Martyrs of Compiegne, killed in the anti-Christian

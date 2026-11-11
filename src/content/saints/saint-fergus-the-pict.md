@@ -1,5 +1,6 @@
 ---
 name: Saint Fergus the Pict
+stub: false
 honorific: Saint
 summary: >-
   May have studied in both Scotland and Ireland. Priest. Travelling bishop in Ireland. Evangelist in the counties of

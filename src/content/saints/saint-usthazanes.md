@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Usthazanes
+stub: false
 honorific: Saint
 summary: >-
   Monk. Abbot in Persia. Tortured and executed with twelve of his brother monks during the persecutions of Sapor.

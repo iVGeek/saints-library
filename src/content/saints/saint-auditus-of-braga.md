@@ -1,5 +1,6 @@
 ---
 name: Saint Auditus of Braga
+stub: false
 honorific: Saint
 summary: >-
   Imperial Roman citizen. Auditus was chosen 3rd bishop of Braga, Portugal by Pope Clement I in 95. Baptized Saint

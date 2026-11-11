@@ -1,5 +1,6 @@
 ---
 name: Saint Auxentius of Bithynia
+stub: false
 honorific: Saint
 summary: >-
   Career soldier and equestrian guard of Emperor Theodosius the Younger, he was known to preach to his fellow guards. He

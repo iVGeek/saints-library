@@ -1,5 +1,6 @@
 ---
 name: Blessed Aldara Ériz de Lugo
+stub: false
 honorific: Blessed
 summary: >-
   Born to the Galician nobility, the daughter of Count Ero Fernández and Adosinda Romanez de Monterroso; sister of Saint

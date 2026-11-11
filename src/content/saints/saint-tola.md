@@ -4,6 +4,7 @@ imageAlt: "Saint Tola de Clonard"
 imageCredit: Nominis (French Episcopal Conference)
 imageCreditUrl: https://nominis.cef.fr
 name: Saint Tola
+stub: true
 honorific: Saint
 summary: Abbot and Bishop of Disert Tola in Meath, Ireland.
 deathYear: 733

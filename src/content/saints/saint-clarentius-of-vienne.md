@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Clarentius of Vienne
+stub: true
 honorific: Saint
 summary: Bishop of Vienne, France.
 searchAliases:

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Priscianus of Caesarea
+stub: false
 honorific: Saint
 summary: >-
   Brother of Saint Carponius of Caesarea, Saint Evaristus of Caesarea and Saint Fortunata of Caesarea. Martyred in the

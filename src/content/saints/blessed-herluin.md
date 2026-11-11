@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Herluin
+stub: false
 honorific: Blessed
 summary: >-
   Raised to be a soldier, and served as a knight at the court of the Count of Brionne, France. He left the life of arms

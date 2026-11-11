@@ -1,5 +1,6 @@
 ---
 name: Blessed Jaume Baríau y Martí
+stub: false
 honorific: Blessed
 summary: >-
   Jaume joined the Capuchin Franciscan Friars Minor in 1906, making his solemn profession on 15 August 1911. Ordained a

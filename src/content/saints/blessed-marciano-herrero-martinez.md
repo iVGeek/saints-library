@@ -1,5 +1,6 @@
 ---
 name: Blessed Marciano Herrero Martínez
+stub: false
 honorific: Blessed
 summary: >-
   Educated by the Brothers of the Christian Schools (De La Salle Brothers). Coming of age, he joined the Brothers

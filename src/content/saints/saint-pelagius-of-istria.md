@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Pelagius of Istria
+stub: true
 honorific: Saint
 summary: Boy martyred in the persecutions of Numerian.
 searchAliases:

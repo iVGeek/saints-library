@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint John Xenos
+stub: true
 honorific: Saint
 summary: Introduced the monastic life to the island for Crete.
 region: Italy

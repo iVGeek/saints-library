@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Abruncolo of Langres
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Langres, France in the latter 5th century, he operated from the city of Dijon, France. Exiled from the

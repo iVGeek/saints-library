@@ -1,5 +1,6 @@
 ---
 name: Saint Evasius of Asti
+stub: false
 honorific: Saint
 summary: >-
   First bishop of Asti in the Piedmont of Italy. Opponent of Arianism, which led to his martyrdom under Julian the

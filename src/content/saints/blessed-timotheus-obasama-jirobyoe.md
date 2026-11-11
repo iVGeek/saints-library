@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Timotheus Obasama Jirobyoe
+stub: false
 honorific: Blessed
 summary: Layman in the diocese of Niigata, Japan. Married to Blessed Lucia Obasama. Martyr.
 deathYear: 1629

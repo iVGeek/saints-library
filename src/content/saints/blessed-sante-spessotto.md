@@ -1,5 +1,6 @@
 ---
 name: Blessed Sante Spessotto
+stub: false
 honorific: Blessed
 summary: >-
   Sante was born to the peasant family of Vittorio Spessotto and Josefina Zamuner; he was baptized at the age of two

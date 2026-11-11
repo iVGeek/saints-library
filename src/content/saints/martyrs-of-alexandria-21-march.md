@@ -1,5 +1,6 @@
 ---
 name: Martyrs of Alexandria
+stub: false
 honorific: Saint
 summary: >-
   A large but unknown number of Catholics massacred in several churches during Good Friday services in Alexandria, Egypt

@@ -1,5 +1,6 @@
 ---
 name: Blessed Simon of Cassia Fidati
+stub: false
 honorific: Blessed
 summary: >-
   Joined the Augustinian Hermits as a young man. Initially a student of the natual sciences and philosophy, as he grew

@@ -1,5 +1,6 @@
 ---
 name: Saint Artemius of Clermont
+stub: false
 honorific: Saint
 title: Bishop
 summary: >-

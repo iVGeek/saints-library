@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Leobald of Fleury
+stub: false
 honorific: Saint
 summary: >-
   Benedictine monk. Founded Fleury Abbey (modern Fleury-Saint-Benoît-sur-Loire) near Orleans, France, c.640, and served

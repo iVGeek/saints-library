@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Conal of Drum
+stub: false
 honorific: Saint
 summary: Bishop of Drum, Ireland in the latter 5th century; the see city was later renamed Drumconnell in his honour.
 searchAliases:

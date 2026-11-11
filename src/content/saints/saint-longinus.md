@@ -1,5 +1,6 @@
 ---
 name: Saint Longinus of Africa
+stub: false
 honorific: Saint
 title: St. Longinus of Africa
 summary: >-

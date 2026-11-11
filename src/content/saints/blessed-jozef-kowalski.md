@@ -1,5 +1,6 @@
 ---
 name: Blessed Jozef Kowalski
+stub: false
 honorific: Blessed
 summary: >-
   Educated at the local state elementary school, and the Salesian school in Auschwitz, Poland. Member of the Holy

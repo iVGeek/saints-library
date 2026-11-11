@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Codratus of Corinth
+stub: false
 honorific: Saint
 summary: >-
   During the persecutions of Decius, Codratus and his mother fled to the forests of Greece. His mother died, and the boy

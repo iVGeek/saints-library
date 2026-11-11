@@ -1,5 +1,6 @@
 ---
 name: Saint Cunera
+stub: false
 honorific: Saint
 summary: >-
   Her legend says that she was a princess in the region of York, England. One of the holy virgins who travelled with

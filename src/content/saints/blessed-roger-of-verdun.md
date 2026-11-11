@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/49/Abbaye_st_sauveur_panorama_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Roger of Verdun
+stub: false
 honorific: Blessed
 summary: >-
   Born to the nobility. Courtier to Emperor Lothair III of Süpplingenburg. Having heard Saint Norbert of Xanten preach,

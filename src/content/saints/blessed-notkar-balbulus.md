@@ -1,5 +1,6 @@
 ---
 name: Blessed Notkar Balbulus
+stub: false
 honorific: Blessed
 summary: >-
   Benedictine monk. Priest. Poet. Musician. Teacher. Writer. Historian. Hagiographer; wrote a martyrology, a collection

@@ -1,5 +1,6 @@
 ---
 name: Saint Felix of Champagne
+stub: false
 honorific: Saint
 summary: >-
   Captured in England and sold into slavery in France. Ransomed out of slavery by Saint Gregory the Great. Ordained as a

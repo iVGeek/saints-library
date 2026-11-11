@@ -1,5 +1,6 @@
 ---
 name: Venerable Arcangelo Biasi
+stub: false
 honorific: Venerable
 summary: >-
   One of several sons born to a poor village family, Arcangelo was baptized at the age of one day. At the age of 12, he

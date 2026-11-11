@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Maura of Picardy
+stub: true
 honorific: Saint
 summary: Martyred while on pilgrimage to Rome, Italy.
 born: Scotland

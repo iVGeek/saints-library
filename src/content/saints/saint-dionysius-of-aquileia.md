@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Dionysius of Aquileia
+stub: true
 honorific: Saint
 summary: Layman in Aquileia, Italy. Martyred in the persecutions of Emperor Numerian.
 searchAliases:

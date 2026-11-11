@@ -1,5 +1,6 @@
 ---
 name: Saint Amphion of Nicomedia
+stub: false
 honorific: Saint
 summary: >-
   Priest during the reign of Valerius Maximianus Galerius. Earliest known bishop of Epiphania, Cilicia (in modern

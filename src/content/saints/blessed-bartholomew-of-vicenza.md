@@ -1,5 +1,6 @@
 ---
 name: Blessed Bartholomew of Vicenza
+stub: false
 honorific: Blessed
 summary: >-
   Joined the Dominicans at Bologna, Italy, receiving the habit from Saint Dominic himself. Noted preacher throughout

@@ -1,5 +1,6 @@
 ---
 name: Saint Homobonus of Cremona
+stub: false
 honorific: Saint
 summary: >-
   Son of a well-to-do tailor and merchant. He became a tailor himself, and took over his father's business. Married

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Demosthenes Ranzi
+stub: false
 honorific: Blessed
 summary: >-
   Graduated with a law degree from the University of Turin, Italy. Joined the Franciscans in 1477 at the convent of

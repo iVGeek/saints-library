@@ -1,5 +1,6 @@
 ---
 name: Blessed Pierre de Barellis
+stub: false
 honorific: Blessed
 summary: >-
   Born to the French nobility. Mercedarian friar. Served as the attorney general of his Order. Papal legate. Created

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/b/b9/All_saint.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Ammonius the Deacon
+stub: false
 honorific: Saint
 summary: >-
   Deacon at Pentapolis, Lybia. Tortured, his tongue was cut out and he was left for dead, but he survived. However,

@@ -1,5 +1,6 @@
 ---
 name: Saint Valerius of Langres
+stub: false
 honorific: Saint
 summary: >-
   Deacon in the early Church in the area of Langres, France. Worked with Saint Desiderius of Langres. Martyred by area

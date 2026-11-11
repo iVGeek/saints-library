@@ -1,5 +1,6 @@
 ---
 name: Saint Nicander of Venafro
+stub: false
 honorific: Saint
 summary: >-
   Soldier in the imperial Romany army. Married to Saint Daria of Venafro. Convert to Christianity. Martyred in the

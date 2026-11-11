@@ -1,5 +1,6 @@
 ---
 name: Saint Lupus of Troyes
+stub: false
 honorific: Saint
 summary: >-
   Married the sister of Saint Hilary for seven years at which point they separated so that Lupus could become a monk at

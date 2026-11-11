@@ -1,5 +1,6 @@
 ---
 name: Blessed Diego Llorca Llopis
+stub: false
 honorific: Blessed
 summary: >-
   Born to a pious family, Didaco early felt a call to the priesthood. He studied at the seminary in Valencia, Spain, and

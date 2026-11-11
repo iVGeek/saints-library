@@ -1,5 +1,6 @@
 ---
 name: Blessed Ángel Alonso Escribano
+stub: false
 honorific: Blessed
 summary: >-
   Studied at the seminary in Salamanca, Spain, and at the Universidad Pontificia de Commillas. Earned a doctorate in

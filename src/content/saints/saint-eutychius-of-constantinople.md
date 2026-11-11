@@ -1,5 +1,6 @@
 ---
 name: Saint Eutychius of Constantinople
+stub: false
 honorific: Saint
 summary: >-
   The son of Alexander, a general in the imperial Byzantine army of Belisarius. Monk at Amasea in Pontus (in modern

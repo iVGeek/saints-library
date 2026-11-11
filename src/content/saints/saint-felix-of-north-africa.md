@@ -1,5 +1,6 @@
 ---
 name: Saint Felix of North Africa
+stub: true
 honorific: Saint
 summary: Martyred in North Africa.
 region: Africa

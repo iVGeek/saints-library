@@ -1,5 +1,6 @@
 ---
 name: Saint Maruta
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Mayferkqat, Syria, part of the kingdom of Persia, in the late 4th and early 5th centuries. Presided over the

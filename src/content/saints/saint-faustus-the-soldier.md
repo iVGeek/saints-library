@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Faustus the Soldier
+stub: false
 honorific: Saint
 summary: Christian soldier. Martyred for his faith, but the time and place of his death have been lost.
 feastDay:

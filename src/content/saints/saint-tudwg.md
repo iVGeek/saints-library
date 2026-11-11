@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Tudwg
+stub: false
 honorific: Saint
 summary: >-
   A church was dedicated to him in Llandudwg (modern Tythegston, Glamorganshire, Wales). Some records say he was the son

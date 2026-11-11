@@ -1,5 +1,6 @@
 ---
 name: Blessed John Baptist Spagnuolo
+stub: false
 honorific: Blessed
 summary: >-
   Son of Peter Spagnoli, a Spanish nobleman assigned to the court in Mantua, Italy. Studied in Padua, Italy where a wild

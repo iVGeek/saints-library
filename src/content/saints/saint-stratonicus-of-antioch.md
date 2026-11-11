@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Stratonicus of Antioch
+stub: true
 honorific: Saint
 summary: Soldier. Martyr.
 born: Greece

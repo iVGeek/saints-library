@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/9/9b/Saint_Louppos_of_Thessalonica%2C_Protaton_Church.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 name: Saint Mark of Thessalonica
+stub: true
 honorific: Saint
 summary: Two Christians with the same name who were martyred.
 died: in Thessalonica, Greece, date unknown

@@ -1,5 +1,6 @@
 ---
 name: Saint Rupert of Salzburg
+stub: false
 honorific: Saint
 summary: >-
   Relative of Saint Ermentrude. Benedictine. Bishop of Worms, Germany. Evangelist to southern Germany. In 696 Theodo,

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/9/9d/Menaion_icon_%2817_c.%2C_TsAK%29_-_January.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Maelrhys
+stub: false
 honorific: Saint
 summary: Lived on the isle of Bardsey. Venerated in northern Wales where an ancient stone church is dedicated to him.
 born: 6th century Brittany (part of modern France)

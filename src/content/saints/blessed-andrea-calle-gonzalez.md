@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/7/7b/Stemma_777venc.gif?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Andrea Calle González
+stub: false
 honorific: Blessed
 summary: >-
   Nun in the Archdiocese of Madrid, Spain. Member of the Daughters of Charity of Saint Vincent de Paul. Martyred in the

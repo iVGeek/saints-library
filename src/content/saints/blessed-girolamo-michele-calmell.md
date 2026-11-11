@@ -1,5 +1,6 @@
 ---
 name: Blessed Girolamo Michele Calmell
+stub: false
 honorific: Blessed
 summary: >-
   Mercedarian friar. Doctor of theology who wrote a number of works on theology and spirituality. Defending of the dogma

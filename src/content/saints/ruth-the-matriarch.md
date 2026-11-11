@@ -1,5 +1,6 @@
 ---
 name: Ruth the Matriarch
+stub: false
 honorific: Saint
 summary: >-
   Old Testament matriarch, and the subject of the Old Testament Book of Ruth. Born to a pagan family, she married a

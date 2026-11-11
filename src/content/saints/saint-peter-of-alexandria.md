@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Peter of Alexandria
+stub: true
 honorific: Saint
 summary: Martyred for publicly proclaiming the faith.
 deathYear: 309

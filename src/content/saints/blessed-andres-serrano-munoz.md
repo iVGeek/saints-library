@@ -1,5 +1,6 @@
 ---
 name: Blessed Andrés Serrano Muñoz
+stub: false
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/El_contrabando_-_sainete_en_un_acto_y_en_prosa_%28IA_elcontrabandosai00serr%29.pdf/page1-960px-El_contrabando_-_sainete_en_un_acto_y_en_prosa_%28IA_elcontrabandosai00serr%29.pdf.jpg
 honorific: Blessed

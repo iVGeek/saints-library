@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Luglius of Lillers
+stub: false
 honorific: Saint
 summary: >-
   Brother of Saint Luglianus. Regional bishop in Ireland. In 696 the brothers joined a party making a pilgrimage to the

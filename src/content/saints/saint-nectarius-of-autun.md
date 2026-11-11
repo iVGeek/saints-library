@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Nectarius of Autun
+stub: true
 honorific: Saint
 summary: Bishop of Autun, France. Friend of Saint Germanus of Paris.
 deathYear: 550

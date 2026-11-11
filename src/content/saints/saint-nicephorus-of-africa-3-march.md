@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/3/3c/Moscow%2C_Catholic_Church_in_Presnya_b.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Nicephorus of Africa
+stub: true
 honorific: Saint
 summary: Martyr.
 died: in Africa, date and location unknown

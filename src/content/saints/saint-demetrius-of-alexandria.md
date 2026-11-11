@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Demetrius of Alexandria
+stub: false
 honorific: Saint
 summary: >-
   Patriarch of Alexandria, Egypt in 188; he served for 43 years. Supported the catechetical school of Alexandria,

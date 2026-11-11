@@ -1,5 +1,6 @@
 ---
 name: Saint Mozio of Constantinople
+stub: false
 honorific: Saint
 summary: >-
   Born to a wealthy imperial Roman family. Priest. Ordered by governor Laodicio to make a sacrifice to the god Bacchus,

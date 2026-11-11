@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Julian of Syria
+stub: true
 honorific: Saint
 summary: Priest. No other information has survived.
 born: Syrian

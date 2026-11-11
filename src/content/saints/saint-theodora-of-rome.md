@@ -1,5 +1,6 @@
 ---
 name: Saint Theodora of Rome
+stub: false
 honorific: Saint
 summary: Sister of Saint Hermes of Rome whom she visited and supported when Hermes was in prison. Martyr.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Theodora-of-Rome.jpg

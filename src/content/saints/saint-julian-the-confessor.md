@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Julian the Confessor
+stub: true
 honorific: Saint
 summary: Martyr. No other information has survived.
 region: England

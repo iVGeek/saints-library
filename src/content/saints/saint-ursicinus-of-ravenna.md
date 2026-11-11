@@ -1,5 +1,6 @@
 ---
 name: Saint Ursicinus of Ravenna
+stub: false
 honorific: Saint
 summary: >-
   Physician in Ravenna, Italy. Sentenced to death for being a Christian. He wavered toward the end, but after he spoke

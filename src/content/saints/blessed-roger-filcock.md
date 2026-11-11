@@ -1,5 +1,6 @@
 ---
 name: Blessed Roger Filcock
+stub: false
 honorific: Blessed
 summary: >-
   Educated at Rheims, France and Valladolid, Spain. Ordained in Valladolid c.1597. He returned to England in 1598 to

@@ -1,5 +1,6 @@
 ---
 name: Saint Priscilla the Tent Maker
+stub: false
 honorific: Saint
 summary: >-
   First century Jewish tent-maker. Married to Saint Aquila. Convert to Christianity. Entertained Saint Paul in Corinth

@@ -1,5 +1,6 @@
 ---
 name: Saint Olympias of Constantinople
+stub: false
 honorific: Saint
 summary: >-
   Born to a wealthy Constantinople noble family. Orphaned as a child. Married to Nebridius, prefect of Constantinople.

@@ -1,5 +1,6 @@
 ---
 name: Blessed Tarsykia Matskiv
+stub: false
 honorific: Blessed
 summary: >-
   Greek Catholic. Entered the Sister Servants of Mary Immaculate on 3 May 1938, taking her vows on 5 November 1940. Made

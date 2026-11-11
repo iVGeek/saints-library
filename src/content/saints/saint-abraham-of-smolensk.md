@@ -1,5 +1,6 @@
 ---
 name: Saint Abraham of Smolensk
+stub: false
 honorific: Saint
 summary: >-
   Born wealthy and orphaned young. When he was old enough to choose for himself, he gave away his fortune, and became a

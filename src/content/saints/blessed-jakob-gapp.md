@@ -1,5 +1,6 @@
 ---
 name: Blessed Jakob Gapp
+stub: false
 honorific: Blessed
 summary: >-
   Seventh child in the working class family of Martin Gapp and Antonia Wach. Received a basic education in his native

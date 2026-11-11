@@ -1,5 +1,6 @@
 ---
 name: Saint Julián Alfredo
+stub: false
 honorific: Saint
 summary: >-
   Member of the Brothers of the Christian Schools, entering the novitate on 4 February 1926. One of the Martyrs of

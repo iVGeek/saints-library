@@ -1,5 +1,6 @@
 ---
 name: Blessed José Medes Ferrís
+stub: false
 honorific: Blessed
 summary: >-
   A lifelong layman in the archdiocese of Valencia, Spain, José was baptized on the day of his birth. He grew up in a

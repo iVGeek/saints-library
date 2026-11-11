@@ -1,5 +1,6 @@
 ---
 name: Blessed Maria Louise Merkert
+stub: false
 honorific: Blessed
 summary: >-
   Second and last daughter born to Anthony Merkert and Maria Barbara Pfitzner, she was raised in a pious, middle-class

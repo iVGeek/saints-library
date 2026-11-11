@@ -1,5 +1,6 @@
 ---
 name: Saint Conrad of Constance
+stub: false
 honorific: Saint
 summary: >-
   Second son of Count Heinrich von Altdorf, part of the Guelf family. Educated at the cathedral school at Constance,

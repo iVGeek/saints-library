@@ -1,5 +1,6 @@
 ---
 name: Blessed Lanfranco Beccari
+stub: false
 honorific: Blessed
 summary: >-
   Born to the Italian nobility. Chosen bishop of Pavia, Italy by Pope Alexander III in 1159. Known as a pious and

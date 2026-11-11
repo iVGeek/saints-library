@@ -1,5 +1,6 @@
 ---
 name: Saint Cuthbert of Lindisfarne
+stub: false
 honorific: Saint
 summary: >-
   Orphaned at an early age. Shepherd. Received a vision of Saint Aidan of Lindesfarne entering heaven; the sight led

@@ -1,6 +1,7 @@
 ---
 image: https://www.santiebeati.it/immagini/Thumbs/95924/95924.JPG
 name: Saint Terenzio of Luni
+stub: false
 honorific: Saint
 summary: >-
   Sixth bishop of Luni, Italy, noted at the time for his charity and care for the poor. Martyred by Arian Lombards for

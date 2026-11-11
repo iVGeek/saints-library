@@ -1,5 +1,6 @@
 ---
 name: Blessed Vincent L’Hénoret
+stub: true
 honorific: Blessed
 summary: Member of the Missionary Oblates of Mary Immaculate. Priest. Martyr.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Vincent-L’Hénoret.jpg

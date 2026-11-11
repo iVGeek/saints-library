@@ -1,5 +1,6 @@
 ---
 name: Saint Maria Zhao
+stub: false
 honorific: Venerable
 summary: >-
   Teenaged lay woman in the apostolic vicariate of Southeastern Zhili, China. Daughter of Saint Maria Zhao Guoshi;

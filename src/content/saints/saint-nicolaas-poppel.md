@@ -1,5 +1,6 @@
 ---
 name: Saint Nicolaas Poppel
+stub: false
 honorific: Saint
 summary: >-
   Priest of the diocese of Utrecht, Netherlands. Martyred by Calvinists for “papism” and his belief in the Real Presence

@@ -1,5 +1,6 @@
 ---
 name: Saint Libertine of Agrigento
+stub: false
 honorific: Saint
 summary: >-
   First bishop of Agrigento, Italy; one tradition says he was assigned to the post by Saint Peter the Apostle, but it is

@@ -1,5 +1,6 @@
 ---
 name: Saint Rembert of Hamburg
+stub: false
 honorific: Saint
 summary: >-
   Benedictine monk at Turhout, Belgium. Worked with Saint Ansgar as a missionary to pagan Scandinavia. Bishop of

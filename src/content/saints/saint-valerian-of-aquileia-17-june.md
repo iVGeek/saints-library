@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Valerian of Aquileia
+stub: true
 honorific: Saint
 summary: Martyr.
 deathYear: 100

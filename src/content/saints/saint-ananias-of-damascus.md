@@ -1,5 +1,6 @@
 ---
 name: Saint Ananias of Damascus
+stub: false
 honorific: Saint
 summary: >-
   A Christian in Damascus, Syria, Ananias received a vision of Jesus in which he was ordered to find Saul (aka Paul the

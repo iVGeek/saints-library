@@ -1,5 +1,6 @@
 ---
 name: Saint Eugene of Carthage
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Carthage, North Africa in 481. Exiled to the desert of Tripoli with many of his parishioners, some of them

@@ -1,5 +1,6 @@
 ---
 name: Saint Valeria of Limoges
+stub: false
 honorific: Saint
 summary: >-
   Daughter of an imperial Roman senator. Convert. Spiritual student of Saint Martial of Limoges. Betrothed in an

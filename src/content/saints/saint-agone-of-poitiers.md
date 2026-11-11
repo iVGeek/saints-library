@@ -1,5 +1,6 @@
 ---
 name: Saint Agone of Poitiers
+stub: true
 honorific: Saint
 title: Bishop
 summary: Bishop of Poitiers, France in the late 3rd and 4th centuries.

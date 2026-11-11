@@ -1,6 +1,7 @@
 ---
 image: https://www.santiebeati.it/immagini/Thumbs/51825/PAOLINO.JPG
 name: Blessed Paolino Bigazzini
+stub: false
 honorific: Blessed
 summary: >-
   Born to the nobility. Monk at the monastery of Saints Marco e Lucia del Sambuco in Perugia, Italy. Spiritual student

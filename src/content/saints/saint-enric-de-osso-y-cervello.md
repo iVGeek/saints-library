@@ -1,5 +1,6 @@
 ---
 name: Saint Enric de Osso y Cervello
+stub: false
 honorific: Venerable
 summary: >-
   The youngest of three children born to Jaime and Micaela de Osso y Cervello. Enric felt an early call to the

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Wiltrudis of Bergen
+stub: false
 honorific: Saint
 summary: >-
   Wife of Duke Berthold of Bavaria. Widowed c.947. Benedictine nun. Founded the convent of Bergen, near Neuburg,

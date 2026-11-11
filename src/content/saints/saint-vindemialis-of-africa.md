@@ -1,5 +1,6 @@
 ---
 name: Saint Vindemialis of Africa
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Gafsa, Nicomedia (in modern Turkey) who stayed loyal to orthodox Christianity and opposed Arianism. Tortured

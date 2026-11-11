@@ -1,5 +1,6 @@
 ---
 name: Saint Eustace of Vilna
+stub: false
 honorific: Saint
 summary: >-
   Young nobleman and chamberlain at the court of Duke Olgierd. Originally a fire worshipper, he converted to

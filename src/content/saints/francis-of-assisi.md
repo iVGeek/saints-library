@@ -1,5 +1,6 @@
 ---
 name: Francis of Assisi
+stub: false
 honorific: Saint
 title: Founder of the Franciscan Order, Stigmatist
 summary: >-

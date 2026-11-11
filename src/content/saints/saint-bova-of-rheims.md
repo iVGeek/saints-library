@@ -1,5 +1,6 @@
 ---
 name: Saint Bova of Rheims
+stub: false
 honorific: Saint
 summary: >-
   Born a Merovingian princess, the daughter of King Sigebert of Austrasia; sister of Saint Balderic, aunt of Saint Doda

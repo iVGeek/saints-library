@@ -1,5 +1,6 @@
 ---
 name: Blessed Rafaela Ybarra Arambarri de Villalonga
+stub: false
 honorific: Blessed
 summary: >-
   Born to a wealthy and pious family, the daughter of Gutiérrez de Cabiedes and Rosaria de Arambarri y Mancebo. Rafeala

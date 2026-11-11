@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/0/04/Basil_of_Caesarea.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Modestus of Nicaea
+stub: true
 honorific: Saint
 summary: One of 279 Christians martyred together.
 died: Nicaea, Bithynia

@@ -1,5 +1,6 @@
 ---
 name: Saint Anthony of Lérins
+stub: false
 honorific: Saint
 summary: >-
   Anthony's father died when the boy was eight years old, and he was raised for several years by Saint Severinus of

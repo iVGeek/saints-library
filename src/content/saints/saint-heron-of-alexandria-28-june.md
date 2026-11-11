@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Heron of Alexandria
+stub: false
 honorific: Saint
 summary: A new convert, he was a spiritual student of Origen. Martyred in the persecutions of Severus.
 searchAliases:

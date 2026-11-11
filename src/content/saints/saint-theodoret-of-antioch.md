@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Theodoret of Antioch
+stub: false
 honorific: Saint
 summary: >-
   Priest in Antioch (in modern Turkey) where he served as the treasurer of the diocese. Effectively eliminated paganism

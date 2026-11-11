@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Lambert
+stub: true
 honorific: Saint
 summary: Spiritual student of Saint Gislenus in Belgium and France.
 deathYear: 680

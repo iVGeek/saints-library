@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint They
+stub: false
 honorific: Saint
 summary: Fifth century spiritual student of Saint Guénolé at Landévennec abbey in Brittany.
 searchAliases:

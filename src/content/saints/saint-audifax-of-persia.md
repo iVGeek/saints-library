@@ -1,5 +1,6 @@
 ---
 name: Saint Audifax of Persia
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility. Son of Saint Maris and Saint Martha, brother of Saint Abachum. Convert. Martyred with his whole

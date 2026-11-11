@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Justin of Paris
+stub: true
 honorific: Saint
 summary: Small child martyr. No other information has survived.
 deathYear: 290

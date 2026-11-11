@@ -1,5 +1,6 @@
 ---
 name: Blessed Enrico Alfieri
+stub: false
 honorific: Blessed
 summary: >-
   Born to the nobility of the Asti region of modern Italy, the son of Guglielmo and Agnesina Alfrieri. He joined the

@@ -1,5 +1,6 @@
 ---
 name: Saint Jerome
+stub: false
 honorific: Saint
 title: St. Jerome
 summary: >-

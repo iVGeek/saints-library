@@ -1,5 +1,6 @@
 ---
 name: Blessed William de Rovira
+stub: false
 honorific: Blessed
 summary: >-
   Mercedarian monk at the monastery of Saint Thomas the Apostle in Tortosa, Spain. Noted for his zealous faith and

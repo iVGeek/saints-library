@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Margaret of Hulme
+stub: true
 honorific: Saint
 summary: Martyr.
 searchAliases:

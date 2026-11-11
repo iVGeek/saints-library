@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/9/9d/Martyrs_of_laos.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Michel Coquelet
+stub: true
 honorific: Blessed
 summary: Member of the Missionary Oblates of Mary Immaculate. Priest. Martyr.
 birthYear: 1931

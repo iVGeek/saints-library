@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Laurentí Basil Matas
+stub: false
 honorific: Blessed
 summary: >-
   Franciscan Capuchin, making his profession on 20 October 1907. Ordained a priest on 13 June 1908. Murdered by Marxists

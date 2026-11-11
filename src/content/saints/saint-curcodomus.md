@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Curcodomus
+stub: true
 honorific: Saint
 summary: Benedictine abbot at Maroilles, diocese of Cambrai, France.
 deathYear: 680

@@ -1,5 +1,6 @@
 ---
 name: Many Martyrs Who Suffered in Rome
+stub: false
 honorific: Saint
 summary: >-
   There were many martyrs who suffered in the persecutions of Diocletian for refusing to surrender the holy books.

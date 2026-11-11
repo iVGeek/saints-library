@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Probus of Ancyra
+stub: false
 honorific: Saint
 summary: >-
   Son of Saint Gaius of Ancyra; brother of Saint Urban and Saint Lollia; great-nephew of Saint Eustochius. Raised a

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Theodota of Constantinople
+stub: false
 honorific: Saint
 summary: Born to the nobility of Constantinople. Martyred in the iconoclast persecutions of Emperor Leo the Isaurian.
 deathYear: 735

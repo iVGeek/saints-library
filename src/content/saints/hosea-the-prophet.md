@@ -1,5 +1,6 @@
 ---
 name: Hosea the Prophet
+stub: false
 honorific: Saint
 summary: Eighth century BC Old Testament prophet. His message concerned the destruction of his compatriots in Samaria.
 image: https://catholicsaints.info/wp-content/uploads/img-Hosea-the-Prophet.jpg

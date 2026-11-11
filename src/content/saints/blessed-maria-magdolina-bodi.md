@@ -1,5 +1,6 @@
 ---
 name: Blessed Mária Magdolina Bódi
+stub: false
 honorific: Blessed
 summary: >-
   The daughter of poor manorial servants and farmers in the archdiocese of Veszprém, Hungary, she was baptized at the

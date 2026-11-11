@@ -1,5 +1,6 @@
 ---
 name: Blessed Raymond of Capua
+stub: false
 honorific: Blessed
 summary: >-
   Studied at the University of Bologna, Italy. Dominican priest. Held assorted offices in various Dominican friaries

@@ -1,5 +1,6 @@
 ---
 name: Saint Elius of Lyon
+stub: true
 honorific: Saint
 title: Bishop
 summary: Bishop of Lyon, France in the early 3rd century.

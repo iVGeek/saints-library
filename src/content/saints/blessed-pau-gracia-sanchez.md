@@ -1,5 +1,6 @@
 ---
 name: Blessed Pau Gracia Sánchez
+stub: false
 honorific: Blessed
 summary: >-
   A pious youth, Pau joined the Salesians, entering the novitiate at Carabanchel Also, Madrid, Spain, and making his

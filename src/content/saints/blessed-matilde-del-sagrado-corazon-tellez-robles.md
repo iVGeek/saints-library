@@ -1,5 +1,6 @@
 ---
 name: Blessed Matilde del Sagrado Corazón Téllez Robles
+stub: true
 honorific: Blessed
 summary: Founded the Congregation of the Daughters of Mary, Mother of the Church.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Matilde-del-Sagrado-Corazón-Téllez-Robles.jpg

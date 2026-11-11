@@ -1,5 +1,6 @@
 ---
 name: Venerable Giovanni Battista Zuaboni
+stub: false
 honorific: Venerable
 summary: >-
   Orphaned at the age of two. Ordained a priest in the diocese of Brescia, Italy on 9 June 1906. Developed a ministry to

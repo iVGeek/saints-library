@@ -1,5 +1,6 @@
 ---
 name: Saint Patermutius of Egypt
+stub: false
 honorific: Saint
 summary: >-
   A notorious robber and thief, he converted to Christianity, brought to the faith by Saint Copra. Desert hermit in

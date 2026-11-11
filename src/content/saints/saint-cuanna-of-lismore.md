@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Cuanna of Lismore
+stub: false
 honorific: Saint
 summary: Seventh century bishop of Lismore, Ireland. Monk. Abbot at Cuannach, Ireland. Abbot of Connacie, Ireland.
 searchAliases:

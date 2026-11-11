@@ -1,5 +1,6 @@
 ---
 name: Blessed Tommaso of Costacciaro
+stub: false
 honorific: Blessed
 summary: >-
   After a visit to a Camaldolese hermitage in 1270, Tommaso was drawn to the monastic and eremetical life. Camaldolese

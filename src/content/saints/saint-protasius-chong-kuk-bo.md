@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Protasius Chong Kuk-bo
+stub: false
 honorific: Venerable
 summary: >-
   Married layman in the apostolic vicariate of Korea. At one point he abandoned Christianity, but recovered his faith,

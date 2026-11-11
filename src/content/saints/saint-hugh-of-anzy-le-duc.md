@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Hugh of Anzy-le-Duc
+stub: false
 honorific: Saint
 summary: >-
   Educated at the Benedictine abbey at Saint-Savin, Poitou, France, where he became a Benedictine monk. As an adult, he

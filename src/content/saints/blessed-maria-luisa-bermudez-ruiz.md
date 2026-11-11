@@ -1,5 +1,6 @@
 ---
 name: Blessed María Luisa Bermúdez Ruiz
+stub: false
 honorific: Blessed
 summary: >-
   The daughter of Elías Bermúdez Cotón and Maria del Carmen Ruiz García-Flores, both members of the Spanish nobility

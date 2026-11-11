@@ -1,5 +1,6 @@
 ---
 name: Blessed Albert of Genoa
+stub: false
 image: >-
   https://commons.wikimedia.org/wiki/Special:FilePath/Charles_II_by_Honore_Pelle%252C_Genoa%252C_signed_and_dated_1684%252C_marble_-_Victoria_and_Albert_Museum_-_London%252C_England_-_DSC05817.jpg?width=600
 honorific: Blessed

@@ -1,5 +1,6 @@
 ---
 name: Saint Servandus of Cadiz
+stub: false
 honorific: Saint
 summary: >-
   Son of Saint Marcellus of Léon, brother of Saint Germanus of Cadiz. Soldier in the imperial Roman army. When he was

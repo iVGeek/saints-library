@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Sebastiana
+stub: false
 honorific: Saint
 summary: >-
   Woman in 1st century Phrygia, Asia Minor. Convert, brought to Christianity by Saint Paul the Apostle. Imprisoned,

@@ -1,5 +1,6 @@
 ---
 name: Blessed Antonio Rondon
+stub: false
 honorific: Blessed
 title: Missionary
 summary: >-

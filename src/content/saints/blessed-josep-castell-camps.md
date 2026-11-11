@@ -1,5 +1,6 @@
 ---
 name: Blessed Josep Castell-Camps
+stub: false
 honorific: Blessed
 summary: >-
   Member of the Salesians, making his profession in 1918. Ordained in 1927. Parish priest in the Spanish cities of

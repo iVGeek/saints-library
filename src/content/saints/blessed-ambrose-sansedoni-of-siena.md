@@ -1,5 +1,6 @@
 ---
 name: Blessed Ambrose Sansedoni of Siena
+stub: false
 honorific: Blessed
 summary: >-
   The son of a book illuminator, he was born so badly deformed that his mother gave him off to the care of a nurse. The

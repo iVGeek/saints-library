@@ -1,5 +1,6 @@
 ---
 name: Saint Appian of Caesarea
+stub: false
 honorific: Saint
 summary: >-
   Born to wealthy, prominent and non-Christian family. Brother of Saint Aedesius of Alexandria. Well educated, studying

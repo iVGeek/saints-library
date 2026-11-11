@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed María Del Consuelo Ramiñán Carracedo
+stub: false
 honorific: Blessed
 summary: Nun of the Congregation of Franciscan Missionaries of the Divine Motherhood. Martyred in the Spanish Civil War.
 searchAliases:

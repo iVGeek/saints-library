@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Tertus
+stub: true
 honorific: Saint
 summary: Monk. Martyred in the persecutions of the Arian Vandal king Huneric.
 searchAliases:

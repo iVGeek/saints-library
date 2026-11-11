@@ -1,5 +1,6 @@
 ---
 name: Saint Victor of North Africa
+stub: false
 honorific: Saint
 summary: Marytred in the persecutions of Decius. Saint Augustine of Hippo wrote about him.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Victor-of-North-Africa.jpg

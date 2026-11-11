@@ -1,5 +1,6 @@
 ---
 name: Blessed Czeslaw Jozwiak
+stub: false
 honorific: Blessed
 summary: >-
   Son of a police officer in the archdiocese of Poznan, Poland, Czeslaw was educated by the Salesians. Member of the

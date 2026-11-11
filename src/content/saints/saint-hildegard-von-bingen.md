@@ -1,5 +1,6 @@
 ---
 name: Saint Hildegard von Bingen
+stub: false
 honorific: Saint
 summary: >-
   At a time when few women wrote, Hildegard produced major works of theology and visionary writings. When few women were

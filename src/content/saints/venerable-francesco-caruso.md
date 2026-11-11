@@ -1,5 +1,6 @@
 ---
 name: Venerable Francesco Caruso
+stub: false
 honorific: Venerable
 summary: >-
   Francesco early felt called to the priesthood but his family was too poor for him to be educated, and so, instead, he

@@ -1,5 +1,6 @@
 ---
 name: Saint Aemilius of Sardinia
+stub: false
 honorific: Saint
 summary: A church on Sardinia is dedicated to this saint, but no information about them has survived.
 feastDay:

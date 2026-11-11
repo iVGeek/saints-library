@@ -1,5 +1,6 @@
 ---
 name: Saint Walter of Pontoise
+stub: false
 honorific: Saint
 summary: >-
   Well educated in general, and a professor of philosophy and rhetoric. Joined the Benedictines at Rebais-en-Brie to

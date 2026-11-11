@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Venerable Enrico Mauri
+stub: false
 honorific: Venerable
 summary: Priest of the diocese of Chiavari, Italy. Founded the Secular Institute of the Oblates of Christ the King.
 birthYear: 1883

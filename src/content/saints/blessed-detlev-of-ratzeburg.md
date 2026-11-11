@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/3/3a/Raban-Maur_Alcuin_Otgar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Detlev of Ratzeburg
+stub: false
 honorific: Blessed
 summary: >-
   Born to the nobility. Premonstratensian canon. Canon of the Premonstratensian monastery in Ratzeburg (in modern

@@ -1,5 +1,6 @@
 ---
 name: Saint Maches
+stub: false
 honorific: Saint
 summary: >-
   Sister of Saint Cadog. Sixth century shepherdess killed by robbers who wished to steal her finest ram. Saint Tathyw

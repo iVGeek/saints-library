@@ -1,5 +1,6 @@
 ---
 name: Blessed Anthony of Stroncone
+stub: false
 honorific: Blessed
 summary: >-
   Raised in a pious family, both Anthony's parents were Franciscan tertiaries, his uncle was Blessed Giovanni Vici of

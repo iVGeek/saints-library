@@ -1,5 +1,6 @@
 ---
 name: Saint Aedh mac Bricc
+stub: false
 honorific: Saint
 summary: >-
   Son of Breece (Bricc) of the Hy Neill, the boy grew up working on his father's farm. When his father died, Aedh's

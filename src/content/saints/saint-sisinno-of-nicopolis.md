@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Sisinno of Nicopolis
+stub: true
 honorific: Saint
 summary: Tortured and martyred in the persecutions of emperor Licinius.
 deathYear: 329

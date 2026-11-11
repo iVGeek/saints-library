@@ -1,5 +1,6 @@
 ---
 name: Saint Callistus Caravario
+stub: false
 honorific: Venerable
 summary: >-
   Known as a pious and prayerful child. Salesian missionary priest. He worked at Macao, China, then in Timor, and then

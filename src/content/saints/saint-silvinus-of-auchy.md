@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Silvinus of Auchy
+stub: false
 honorific: Saint
 summary: >-
   Silvinus spent his youth in the courts of King Childeric II and King Thierry III. On the eve of his marriage, he left

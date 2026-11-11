@@ -1,5 +1,6 @@
 ---
 name: Venerable Marcelle Mallet
+stub: false
 honorific: Venerable
 summary: >-
   Entered the novitiate of the Grey Nuns of Montreal on 6 May 1824, making her final profession on 18 May 1826. She

@@ -1,5 +1,6 @@
 ---
 name: Saint Adjutor of Africa
+stub: false
 honorific: Saint
 summary: One of a group of 35 martyrs who died together. No other information has survived.
 died: in northwestern Africa

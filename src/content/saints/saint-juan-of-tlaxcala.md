@@ -1,5 +1,6 @@
 ---
 name: Saint Juan of Tlaxcala
+stub: false
 honorific: Venerable
 summary: Servant of Blessed Antonio. Convert to Christianity. One of the Three Child Martyrs of Tlaxcala.
 image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Tlaxcala.jpg

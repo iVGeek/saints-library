@@ -1,5 +1,6 @@
 ---
 name: Blessed Thomas Felton
+stub: false
 honorific: Blessed
 summary: >-
   Son of Blessed John Felton, Thomas was about 4 years old when his father was martyred. In his youth, he served as a

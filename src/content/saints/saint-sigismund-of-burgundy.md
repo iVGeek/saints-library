@@ -1,5 +1,6 @@
 ---
 name: Saint Sigismund of Burgundy
+stub: false
 honorific: Saint
 summary: ' A Christian by faith, Si Son of Gunebald, the Vandal king of Burgundy. Spiritual student of bishop Saint Avitus of Vienne. Built the monastery of Saint-Maurice at Agaune in Valais, Switzerland in 515. Married; father of Saint Gistaldo and Saint Gundebado. King of Burgundy in 516.'
 image: https://upload.wikimedia.org/wikipedia/commons/d/de/St._Sigismund.jpg

@@ -1,5 +1,6 @@
 ---
 name: Saint Laurus
+stub: false
 honorific: Saint
 summary: Founded the monastery later known as Saint-Léry, on the River Doneff in Brittany, France.
 searchAliases:

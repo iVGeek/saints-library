@@ -1,5 +1,6 @@
 ---
 name: Venerable Maria Rafaela Jesus Hostia
+stub: false
 honorific: Venerable
 summary: >-
   Joined the Capuchin Poor Clare nuns on 15 May 1941, taking the name Rafaela María de Jesús Hostia. Beginning in 1949,

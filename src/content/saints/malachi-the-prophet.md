@@ -1,5 +1,6 @@
 ---
 name: Malachi the Prophet
+stub: false
 honorific: Saint
 summary: >-
   Fifth century B.C., son of Sapha, Tribe of Zabulon. Post-Exilic and last of the Twelve Minor Prophets and the inspired

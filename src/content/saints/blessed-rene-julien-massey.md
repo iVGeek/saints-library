@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed René-Julien Massey
+stub: false
 honorific: Blessed
 summary: >-
   Baptized in the church of San Germano in Rennes, France. Called to religious life, he became a Benedictine Maurist

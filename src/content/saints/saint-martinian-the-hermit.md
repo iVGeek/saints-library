@@ -1,5 +1,6 @@
 ---
 name: Saint Martinian the Hermit
+stub: false
 honorific: Saint
 summary: ' Legend says that one day a miserable, bedraggled woman named Zoe showed at his door requesting a traveller''s hospitalit Hermit from age 18. Miracle worker. There are a couple of stories attached to Martinian; in them the line between fact and a good story probably blurs a little.'
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Martinian-the-Hermit.jpg

@@ -1,5 +1,6 @@
 ---
 name: Saint Euthymius of Perugia
+stub: false
 honorific: Saint
 summary: >-
   Married layman. Father of Saint Crescentius. During the persecutions of Diocletian he and his family fled Rome to

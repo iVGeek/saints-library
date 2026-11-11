@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/c/c5/Le_sacre_coeur.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Bruno of Paris
+stub: true
 honorific: Blessed
 summary: Cistercian monk in Paris, France. He died while on pilgrimage to the Holy Land.
 deathYear: 1227

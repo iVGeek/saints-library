@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Majorian of Auvergne
+stub: false
 honorific: Saint
 summary: >-
   While working as a stone mason on a church and monastery construction site, the work crew ran out of water; Majorian

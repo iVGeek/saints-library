@@ -1,5 +1,6 @@
 ---
 name: Saint Eugene of Toledo
+stub: true
 honorific: Saint
 summary: Third century missionary who worked with Saint Dionysius of Paris. Martyr.
 searchAliases:

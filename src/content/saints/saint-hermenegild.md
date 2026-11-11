@@ -1,5 +1,6 @@
 ---
 name: Saint Hermenegild
+stub: false
 honorific: Saint
 summary: >-
   Benedictine monk at Salcedo, diocese of Tui, Spanish Galatia. Helped Saint Rudesind spread the Benedictine Rule

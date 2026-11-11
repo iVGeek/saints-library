@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Marie Gasnier épouse Mercier
+stub: false
 honorific: Blessed
 summary: Married lay woman of the diocese of Angers, France. Martyred in the persecutions of the French Revolution.
 birthYear: 1756

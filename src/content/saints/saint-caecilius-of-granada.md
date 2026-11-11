@@ -1,5 +1,6 @@
 ---
 name: Saint Caecilius of Granada
+stub: false
 honorific: Saint
 summary: First century spiritual student of the Apostles. One of the first group of missionaries to Spain.
 region: Spain

@@ -1,5 +1,6 @@
 ---
 name: Saint Bartolomeu dei Martiri Fernandes
+stub: false
 honorific: Venerable
 summary: >-
   Joined the Dominicans on 11 November 1528. Took part in the Council of Trent, and introduced the Council's decisions

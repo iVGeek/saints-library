@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Argeus of Tomi
+stub: false
 honorific: Saint
 summary: Brother of Saint Narcissus and Saint Marcellinus. Soldier in the army of Emperor Licinius. Martyred with his brothers.
 deathYear: 320

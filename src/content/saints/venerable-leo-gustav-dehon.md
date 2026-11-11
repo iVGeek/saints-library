@@ -1,5 +1,6 @@
 ---
 name: Venerable Leo Gustav Dehon
+stub: false
 honorific: Venerable
 summary: >-
   Raised in a pious family; his mother was especially devoted to the Sacred Heart, and passed this on to Leo. As a young

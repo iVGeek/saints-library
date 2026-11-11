@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Hedwig of Hreford
+stub: false
 honorific: Blessed
 summary: Niece of Blessed Warinus of Corvey. Benedictine nun. Abbess of Hreford in Westphalia (part of modern Germany.
 searchAliases:

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Ternatius of Besançon
+stub: true
 honorific: Saint
 summary: Bishop of Besançon, France.
 searchAliases:

@@ -1,5 +1,6 @@
 ---
 name: Saint María Antonia de Paz y Figueroa
+stub: false
 honorific: Venerable
 summary: >-
   Raised in a pious family, Maria early felt a call to religious life, but as there were no cloistered religious

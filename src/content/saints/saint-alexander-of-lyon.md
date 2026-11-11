@@ -1,5 +1,6 @@
 ---
 name: Saint Alexander of Lyon
+stub: false
 honorific: Saint
 summary: >-
   Friend and worker with Saint Epipodius of Lyon. Imprisoned, scourged until his ribs showed, and executed with 34

@@ -1,5 +1,6 @@
 ---
 name: Blessed Carmelo Sastre y Sastre
+stub: false
 honorific: Blessed
 summary: Parish priest, ordained in 1919. Noted for his ministry to the poor. Martyred in the Spanish Civil War.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Carmelo-Sastre-y-Sastre.jpg

@@ -1,5 +1,6 @@
 ---
 name: Saint Barsabias
+stub: false
 honorific: Saint
 summary: Monk. Abbot. Martyred with eleven of his monks in the persecutions of King Shapur II.
 searchAliases:

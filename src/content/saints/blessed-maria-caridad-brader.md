@@ -1,5 +1,6 @@
 ---
 name: Blessed Maria Caridad Brader
+stub: false
 honorific: Blessed
 summary: >-
   The only child of Joseph Sebastian Brader and Maria Anna Carolina Zahner. Raised in a pious family, she was known as a

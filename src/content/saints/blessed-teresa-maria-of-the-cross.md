@@ -1,5 +1,6 @@
 ---
 name: Blessed Teresa Maria of the Cross
+stub: false
 honorific: Blessed
 summary: >-
   Daughter of Salvatore Manetti and Rosa Bigagli, Teresa had one brother, Adamo Raffaello; she lived her whole life in

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/9/9c/ADAMELLO_-_PAPA_-_Giovanni_Paolo_II_-_panoramio_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Fernando Salinas Romeo
+stub: false
 honorific: Blessed
 summary: Priest. Member of the Benedictine Solesmes Congregation. Martyred in the Spanish Civil War.
 birthYear: 1883

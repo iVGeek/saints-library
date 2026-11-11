@@ -1,5 +1,6 @@
 ---
 name: Blessed Thaddeus McCarthy
+stub: false
 honorific: Blessed
 summary: >-
   Son of the Lord of Muskerry, Ireland; grandson of the Lord of Kerry, Ireland. Educated by the Franciscans at

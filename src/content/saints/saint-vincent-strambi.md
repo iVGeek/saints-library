@@ -1,5 +1,6 @@
 ---
 name: Saint Vincent Strambi
+stub: false
 honorific: Venerable
 summary: >-
   Son of a druggist. His parents encouraged his vocation of a parish priest. Ordained in 1767. Joined the Passionists in

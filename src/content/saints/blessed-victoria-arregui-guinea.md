@@ -1,5 +1,6 @@
 ---
 name: Blessed Victoria Arregui Guinea
+stub: false
 honorific: Blessed
 summary: >-
   The daughter of Venancio, a farmhand, and Liboria, Victoria was educated by the Daughters of Charity, was a member of

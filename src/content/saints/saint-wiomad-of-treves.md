@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/d/d6/Trier_Dom_BW_1.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Wiomad of Trèves
+stub: false
 honorific: Saint
 summary: >-
   Benedictine monk at Saint Maximinus at Trèves (modern Trier, Germany) Abbot of the monastery of Mettlach, Germany.

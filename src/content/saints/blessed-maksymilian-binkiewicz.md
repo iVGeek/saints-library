@@ -1,5 +1,6 @@
 ---
 name: Blessed Maksymilian Binkiewicz
+stub: false
 honorific: Blessed
 summary: >-
   Maksymilian studied at the seminary in Czestochowa, Krakow, Poland, and then at the Jagiellonian University. He was

@@ -1,5 +1,6 @@
 ---
 name: Venerable Giorgio la Pira
+stub: false
 honorific: Venerable
 summary: >-
   Giorgio joined the Lay Dominicans in his early 20's, and their spirituality informed everthing in his life. Lawyer.

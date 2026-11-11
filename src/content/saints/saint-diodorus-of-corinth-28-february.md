@@ -1,5 +1,6 @@
 ---
 name: Saint Diodorus of Corinth
+stub: true
 honorific: Saint
 summary: Martyr.
 searchAliases:

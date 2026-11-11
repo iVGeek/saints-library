@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Philip of Alexandria
+stub: true
 honorific: Saint
 summary: Martyr.
 died: early 4th-century in Alexandria, Egypt

@@ -1,5 +1,6 @@
 ---
 name: Blessed Bernardine of Fossa
+stub: false
 honorific: Blessed
 summary: >-
   Born to the nobility, member of the Amici family. An excellent student, he was educated at Aquila, Italy. Obtained

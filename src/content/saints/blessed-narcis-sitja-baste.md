@@ -1,5 +1,6 @@
 ---
 name: Blessed Narcís Sitjà Basté
+stub: false
 honorific: Blessed
 summary: >-
   Priest. Member of the Sons of the Holy Family. Novice master and general counsel of Saint Jose Manyanet and the Sons.

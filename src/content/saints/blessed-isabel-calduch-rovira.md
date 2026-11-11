@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Isabel Calduch Rovira
+stub: true
 honorific: Blessed
 summary: Franciscan Capuchin Poor Clare nun. Martyred in the Spanish Civil War.
 birthYear: 1882

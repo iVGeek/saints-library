@@ -1,5 +1,6 @@
 ---
 name: Blessed Esther Paniagua Alonso
+stub: false
 honorific: Blessed
 summary: >-
   The daughter of Dolores Alonso and Nicasio Paniagua. Esther joined the Augustinian Missionary Congregation at age 18,

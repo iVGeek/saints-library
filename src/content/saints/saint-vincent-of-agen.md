@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Vincent of Agen
+stub: true
 honorific: Saint
 summary: Deacon and preacher. Martyred by pagans as a sacrifice to a sun god.
 searchAliases:

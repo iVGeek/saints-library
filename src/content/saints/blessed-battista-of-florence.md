@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/7/77/Santissima_Annunziata_2013-09-17.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Battista of Florence
+stub: false
 honorific: Blessed
 summary: Franciscan friar in the late 15th and early 16th century. No other information about him has survived.
 deathYear: 1510

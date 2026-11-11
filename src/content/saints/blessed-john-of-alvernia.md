@@ -1,5 +1,6 @@
 ---
 name: Blessed John of Alvernia
+stub: false
 honorific: Blessed
 summary: >-
   Joined the Franciscan Friars Minor in 1272. Part-time hermit, part-time evangelist and spiritual advisor in the area

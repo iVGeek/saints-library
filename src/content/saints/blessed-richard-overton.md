@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/0/0b/Richard_Gwyn.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Richard Overton
+stub: true
 honorific: Blessed
 summary: Dominican priest. One of the Irish Martyrs.
 deathYear: 1649

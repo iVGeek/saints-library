@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/1/17/Limoges_Cath%C3%A9drale_Saint-%C3%89tienne_676.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Martialis of Rome
+stub: true
 honorific: Saint
 summary: Martyr. No other details have survived.
 died: Rome, Italy, date unknown

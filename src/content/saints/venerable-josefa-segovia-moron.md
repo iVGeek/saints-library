@@ -1,5 +1,6 @@
 ---
 name: Venerable Josefa Segovia Morón
+stub: false
 honorific: Venerable
 summary: >-
   Lifelong lay woman in the archdiocese of Madrid, Spain. She studied in Granada and Madrid to become a school teacher.

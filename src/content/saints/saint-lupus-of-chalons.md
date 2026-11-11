@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/5/5e/Le_Lou-du-Lac_%2835%29_%C3%89glise_19.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Lupus of Châlons
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Châlons-sur-Saone, France. Friend and correspondent with Pope Saint Gregory the Great. Noted for his charity

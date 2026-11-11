@@ -1,5 +1,6 @@
 ---
 name: Saint Theodota of Thrace
+stub: false
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/The_rise_of_intellectual_liberty_from_Thales_to_Copernicus_%28IA_riseofintellectu00hollrich%29.pdf/page1-500px-The_rise_of_intellectual_liberty_from_Thales_to_Copernicus_%28IA_riseofintellectu00hollrich%29.pdf.jpg
 honorific: Saint

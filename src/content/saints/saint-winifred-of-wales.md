@@ -1,5 +1,6 @@
 ---
 name: Saint Winifred of Wales
+stub: false
 honorific: Saint
 summary: >-
   Daughter to Trevith, a member of the Welsh landed class and advisor to the king. Spiritual student of her maternal

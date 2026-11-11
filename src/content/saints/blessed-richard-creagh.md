@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/7/73/Congregatio_Sanctissimi_Redemptoris_CSsR.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Richard Creagh
+stub: false
 honorific: Blessed
 summary: >-
   Son of a wealthy merchant; as a young man Richard worked in his father's business. However, feeling a call to the

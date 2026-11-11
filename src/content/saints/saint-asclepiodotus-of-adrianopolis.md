@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Asclepiodotus of Adrianopolis
+stub: true
 honorific: Saint
 summary: Martyred in the persecutions of Maximian.
 deathYear: 310

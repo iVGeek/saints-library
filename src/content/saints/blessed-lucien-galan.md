@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/9/9d/Martyrs_of_laos.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Lucien Galan
+stub: false
 honorific: Blessed
 summary: >-
   Member of the Paris Foreign Missions Society. Priest. Missionary to China, working the Xichang, Sichuan area.

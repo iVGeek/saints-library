@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/3/3f/Chanter_Angelos_Akotandos_-_St_Anne_with_the_Virgin_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed John of Saint Martha
+stub: false
 honorific: Blessed
 summary: >-
   Franciscan priest, ordained in 1606. Missionary to Japan where he was noted for his quick mastery of the language.

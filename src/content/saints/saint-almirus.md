@@ -1,5 +1,6 @@
 ---
 name: Saint Almirus
+stub: true
 honorific: Saint
 summary: Hermit at Gréez-sur-Roc, France.
 searchAliases:

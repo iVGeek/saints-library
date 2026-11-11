@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Agrepe
+stub: false
 honorific: Saint
 summary: >-
   Seventh century bishop of Le Puy-en-Velay, France. Pilgrim to Rome, Italy. On his way home he was murdered by idol

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Thomas Toemon
+stub: false
 honorific: Blessed
 summary: Layman in the diocese of Kyoto, Japan. Married to Blessed Lucia Toemon. One of the Martyrs of Kyoto.
 deathYear: 1619

@@ -1,5 +1,6 @@
 ---
 name: Saint Maximus of Rome
+stub: true
 honorific: Saint
 summary: Third century martyr.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Valerian-of-Trastevere.jpg

@@ -1,5 +1,6 @@
 ---
 name: Saint Caprasius of Agen
+stub: false
 honorific: Saint
 summary: >-
   Tried to hide out in the hills near his home during the persecutions of Diocletian, but the courage shown by Saint

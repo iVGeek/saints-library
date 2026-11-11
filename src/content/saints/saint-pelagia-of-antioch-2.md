@@ -1,6 +1,7 @@
 ---
 image: https://www.catholic.org/files/images/saints/5335.jpg
 name: Saint Pelagia of Antioch
+stub: false
 honorific: Saint
 summary: One of a group of 59 Christians martyred together. No other information has survived.
 died: Antioch, Syria

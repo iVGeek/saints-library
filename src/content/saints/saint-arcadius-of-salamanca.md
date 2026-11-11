@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/4a/Fresco_of_Saint_Paul_at_Ephesus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Arcadius of Salamanca
+stub: false
 honorific: Saint
 summary: >-
   Courtier who accompanied the Vandal King Genseric to Africa. When anti-Christian persecutions began, he was first

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/b/ba/Hildegard_von_Bingen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Julia of Arezzo
+stub: true
 honorific: Blessed
 summary: Camaldolese nun at Arezzo, Italy.
 region: Italy

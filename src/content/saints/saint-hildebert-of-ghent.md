@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Hildebert of Ghent
+stub: false
 honorific: Saint
 summary: Benedictine monk. Abbot of Saint Peter's in Ghent. Martyr, killed for his defense of icons.
 searchAliases:

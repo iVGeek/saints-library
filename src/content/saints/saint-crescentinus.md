@@ -1,5 +1,6 @@
 ---
 name: Saint Crescentinus of Saldo
+stub: false
 honorific: Saint
 summary: >-
   Imperial Roman soldier. Convert to Christianity. During the persecutions of Diocletian, Crescentinus fled to Thifernum

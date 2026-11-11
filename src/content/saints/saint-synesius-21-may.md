@@ -1,5 +1,6 @@
 ---
 name: Saint Synesius
+stub: true
 honorific: Saint
 summary: Martyr.
 searchAliases:

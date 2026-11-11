@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Natalio Camazón Junquera
+stub: false
 honorific: Blessed
 summary: >-
   The son of Marcelino and Jacoba, Natalio was baptized at the age of two days. He was educated by the parish priest,

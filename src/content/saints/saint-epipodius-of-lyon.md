@@ -1,5 +1,6 @@
 ---
 name: Saint Epipodius of Lyon
+stub: false
 honorific: Saint
 summary: >-
   Friend of and worker with Saint Alexander of Lyon. Imprisoned, tortured, and martyred during the persecutions of

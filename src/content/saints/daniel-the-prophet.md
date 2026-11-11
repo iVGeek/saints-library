@@ -1,5 +1,6 @@
 ---
 name: Daniel the Prophet
+stub: false
 honorific: Saint
 summary: One of the four Great Prophets in the Old Testament, and the writer of the book of scripture that bears his name.
 image: https://catholicsaints.info/wp-content/uploads/img-Daniel-the-Prophet1.jpg

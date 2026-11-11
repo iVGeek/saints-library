@@ -1,5 +1,6 @@
 ---
 name: Saint Acharius of Tournai
+stub: false
 honorific: Saint
 summary: >-
   Monk at Luxeuil Abbey in Burgundy (in modern France) under the direction of Saint Eustace. Bishop of Noyon-Tournai in

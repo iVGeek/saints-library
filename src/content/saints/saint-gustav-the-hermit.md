@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Gustav the Hermit
+stub: false
 honorific: Saint
 title: Hermit
 summary: May have been the first person in Sweden baptized by Saint Ansgar of Hamburg-Bremen. Hermit in northern Sweden.

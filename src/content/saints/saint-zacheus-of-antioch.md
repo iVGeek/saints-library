@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/c/cc/St_Botolph-without-Bishopsgate%2C_London.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Zacheus of Antioch
+stub: true
 honorific: Saint
 summary: Martyr.
 died: Antioch, date unknown

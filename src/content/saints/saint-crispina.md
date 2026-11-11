@@ -1,5 +1,6 @@
 ---
 name: Saint Crispina
+stub: false
 honorific: Saint
 summary: >-
   Born a wealthy Roman citizen, she was a married lay woman, and mother of several children. Arrested for her

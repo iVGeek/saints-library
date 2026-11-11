@@ -1,5 +1,6 @@
 ---
 name: Saint Edith of Wilton
+stub: false
 honorific: Saint
 summary: >-
   Daughter of King Edgar the Peaceable and Saint Wilfrida. Raised in the abbey in Wilton, England, which she never left.

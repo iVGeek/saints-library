@@ -1,5 +1,6 @@
 ---
 name: Saint Eucherius of Lyon
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility, well educated, and known for his learning and as a gifted speaker. Married to Galla, who became

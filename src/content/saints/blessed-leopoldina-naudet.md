@@ -1,5 +1,6 @@
 ---
 name: Blessed Leopoldina Naudet
+stub: false
 honorific: Blessed
 summary: >-
   Born to a French father and German mother, Leopoldina and her sister Louisa were educated in monasteries in Italy and

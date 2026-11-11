@@ -1,5 +1,6 @@
 ---
 name: Saint Adrian of Maastricht
+stub: false
 honorific: Saint
 summary: >-
   Monk in Maastricht, Netherlands. Spiritual student of Saint Landoald of Maastricht. Murdered by robbers while begging

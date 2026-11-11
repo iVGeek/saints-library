@@ -1,5 +1,6 @@
 ---
 name: Blessed Juan Segura Rubira
+stub: false
 honorific: Blessed
 summary: >-
   The son of a school teacher, the nephew of a parish priest, Juan was baptized at the age of five days, and eventually

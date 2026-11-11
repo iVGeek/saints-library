@@ -1,5 +1,6 @@
 ---
 name: Saint Jonas of Hubaham
+stub: false
 honorific: Saint
 summary: >-
   Monk. Went with Saint Barachisius, his brother and fellow monk, to Hubaham, Persia, to minister to Chistians

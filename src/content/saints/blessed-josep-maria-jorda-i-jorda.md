@@ -1,5 +1,6 @@
 ---
 name: Blessed Josep Maria Jordá i Jordá
+stub: false
 honorific: Blessed
 summary: Member of the Benedictine Subiaco Congregation. Martyred in the Spanish Civil War.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Josep-Maria-Jordá-i-Jordá.jpg

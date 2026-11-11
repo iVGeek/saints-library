@@ -1,6 +1,7 @@
 ---
 image: https://www.santiebeati.it/immagini/Thumbs/98938/98938.JPG
 name: Blessed Fulgencio Martínez García
+stub: false
 honorific: Blessed
 summary: Priest in the diocese of Cartagena, Spain. Member of the Secular Franciscans. Martyred in the Spanish Civil War.
 birthYear: 1911

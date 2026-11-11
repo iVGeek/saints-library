@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Servilius of Istria
+stub: true
 honorific: Saint
 summary: Early martyr in the Istria peninsula.
 searchAliases:

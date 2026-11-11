@@ -1,5 +1,6 @@
 ---
 name: Saint Jacques Honoré Chastán
+stub: false
 honorific: Venerable
 summary: >-
   Ordained in 1826. Joined the Paris Society of Missions in 1827. Missionary in Thailand, then Malaysia, and then Korea,

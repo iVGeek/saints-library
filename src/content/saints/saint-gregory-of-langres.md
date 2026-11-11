@@ -1,5 +1,6 @@
 ---
 name: Saint Gregory of Langres
+stub: false
 honorific: Saint
 summary: >-
   Governor and leading citizen in the area of Autun, France. Married, and the father of Saint Tertricus of Langres.

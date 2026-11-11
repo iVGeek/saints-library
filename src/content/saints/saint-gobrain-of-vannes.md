@@ -1,5 +1,6 @@
 ---
 name: Saint Gobrain of Vannes
+stub: false
 honorific: Saint
 summary: >-
   Breton monk. Priest. Bishop of Vannes, France. At age 87, he retired from his see to live his remaining days as a

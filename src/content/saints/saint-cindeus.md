@@ -1,5 +1,6 @@
 ---
 name: Saint Cindeus
+stub: false
 honorific: Saint
 summary: Priest in Pamphylia, Asia Minor. Tortured and martyred in the persecutions of Diocletian.
 searchAliases:

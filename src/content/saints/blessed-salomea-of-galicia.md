@@ -1,5 +1,6 @@
 ---
 name: Blessed Salomea of Galicia
+stub: false
 honorific: Blessed
 summary: >-
   Born to the nobility, the daughter of Lescon V, Duke of Cracow, and Sandomir. At the age of three years, she was given

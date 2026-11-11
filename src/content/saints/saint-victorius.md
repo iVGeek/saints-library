@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Victorius of Le Mans
+stub: false
 honorific: Saint
 summary: >-
   Sub-deacon. Married and the father of one son. Spiritual student of Saint Martin of Tours. At the recommendation of

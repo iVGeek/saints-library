@@ -1,5 +1,6 @@
 ---
 name: Saint Felix of North Africa
+stub: false
 honorific: Saint
 summary: Fifth century North African bishop exiled by the Arian Vandal king Genseric for maintaining orthodox Christianity.
 region: Africa

@@ -1,5 +1,6 @@
 ---
 name: Saint Martin of Braga
+stub: false
 honorific: Saint
 summary: >-
   Monk in Palestine. In 550 he introduces communal monasticism into Galatia in Spain. Abbot at the Dumio Monastry in

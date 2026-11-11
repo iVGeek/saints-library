@@ -1,5 +1,6 @@
 ---
 name: Saint Hemma of Gurk
+stub: false
 honorific: Saint
 summary: ' Married to Blessed William of Sann in the diocese of Gurk, Austria; it was arranged marriage, but a very Born to the nobility, and a relative of emperor Saint Henry II; Countess of Zeltschach. Educated at the court of Henry II where she was a lady-in-waiting to Saint Cunegundes.'
 image: >-

@@ -1,5 +1,6 @@
 ---
 name: Saint Joseph Oriol
+stub: false
 honorific: Saint
 summary: >-
   Born poor. Studied at the University of Barcelona. Awarded a doctorate of theology on 1 August 1674. Ordained 30 May

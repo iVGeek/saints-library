@@ -1,5 +1,6 @@
 ---
 name: Saint Madrun
+stub: false
 honorific: Saint
 summary: >-
   Born a princess, the daughter of King Vortimer Fendigaid and Ynyr Gwent. Married to Prince Ynyr. Queen of Gwent. While

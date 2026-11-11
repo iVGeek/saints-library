@@ -1,5 +1,6 @@
 ---
 name: Blessed Giuseppina Catanea
+stub: false
 honorific: Blessed
 summary: >-
   Born to the Italian nobility, Giuseppina was known as a pious girl with great care for the poor, a devotion to Mary

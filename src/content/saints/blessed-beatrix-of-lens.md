@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/6/69/Teresa-de-Lisieux.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Beatrix of Lens
+stub: false
 honorific: Blessed
 summary: >-
   Founded the Benedictine Cistercian monastery of Epinklieu near Mons, Belgium and lived the rest of her life as a nun

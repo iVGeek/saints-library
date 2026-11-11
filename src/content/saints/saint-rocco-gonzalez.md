@@ -1,5 +1,6 @@
 ---
 name: Saint Rocco Gonzalez
+stub: false
 honorific: Venerable
 summary: >-
   Born to the Paraguayan nobility. Jesuit priest. One of the architects of the Jesuit Reductions in Paraguay. Realizing

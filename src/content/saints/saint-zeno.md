@@ -1,6 +1,7 @@
 ---
 image: https://upload.wikimedia.org/wikipedia/commons/San%20Zeno%20Naviglio%20Parrocchia.jpg
 name: Saint Zeno
+stub: true
 honorific: Saint
 summary: Martyred in the persecutions of Diocletian.
 died: burned to death, date unknown

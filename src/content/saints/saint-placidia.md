@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Placidia
+stub: false
 honorific: Saint
 summary: >-
   Nun venerated at Verona, Italy where she lived and was known for her sanctity. Often mistakenly identified as the

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Baithen of Iona
+stub: false
 honorific: Saint
 summary: >-
   Born to a noble Irish family, the son of Brenaron. Monk. Abbot of Tiree Island, Scotland. Spiritual student of Saint

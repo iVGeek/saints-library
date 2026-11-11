@@ -1,5 +1,6 @@
 ---
 name: Blessed Bernhard Lichtenberg
+stub: false
 honorific: Blessed
 summary: >-
   Priest in the diocese of Berlin, Germany. He served in the Berlin Cathedral, and was well known in civic circles. An

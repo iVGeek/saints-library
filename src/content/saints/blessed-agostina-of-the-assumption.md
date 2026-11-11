@@ -1,5 +1,6 @@
 ---
 name: Blessed Agostina of the Assumption
+stub: false
 honorific: Blessed
 summary: >-
   Mercedarian nun in monastery of the Assumption in Seville, Spain. Noted for a deep prayer life devoted to the

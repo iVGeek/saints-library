@@ -1,5 +1,6 @@
 ---
 name: Saint Sinicius of Reims
+stub: false
 honorific: Saint
 summary: >-
   Evangelizing priest in the regions of Soissons and Reims (in modern France) in the latter 3rd century, working with

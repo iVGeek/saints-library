@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Manuel Jové Bonet
+stub: false
 honorific: Blessed
 summary: >-
   Member of the Claretians, professed on 15 August 1912. Ordained a priest on 28 May 1926. Martyred in the Spanish Civil

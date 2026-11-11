@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/2/28/EulogioCordovamart.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Isaac of Cordoba
+stub: false
 honorific: Saint
 summary: >-
   Though Christian, his knowledge of Arabic allowed him to acquire the position of notary in the Moorish government of

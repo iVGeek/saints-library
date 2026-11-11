@@ -1,5 +1,6 @@
 ---
 name: Saint Bernward of Hildesheim
+stub: false
 honorific: Saint
 summary: >-
   Member of a noble Saxon family. Grandson of Athelbero, Count Palatine of Saxony. Orphaned at an early age. Raised by

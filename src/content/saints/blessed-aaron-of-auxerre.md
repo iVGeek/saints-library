@@ -1,5 +1,6 @@
 ---
 name: Blessed Aaron of Auxerre
+stub: true
 image: https://commons.wikimedia.org/wiki/Special:FilePath/Aaron_Kwok%2527s_concert_20111222.jpg?width=600
 honorific: Blessed
 summary: Ninth-century bishop of Auxerre, France.

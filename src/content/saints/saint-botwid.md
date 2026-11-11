@@ -1,5 +1,6 @@
 ---
 name: Saint Botwid of Sudermannland
+stub: false
 honorific: Saint
 summary: >-
   Raised a pagan in Sweden. He converted to Christianity in England, and then returned home to the region of

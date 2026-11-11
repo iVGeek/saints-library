@@ -1,5 +1,6 @@
 ---
 name: Saint Amasius of Teano
+stub: false
 honorific: Saint
 title: Bishop
 summary: Forced into exile in Italy for his opposition to the Arian heresy. Bishop of Teano, Italy in 346.

@@ -1,5 +1,6 @@
 ---
 name: Saint Aemilius of Capua
+stub: false
 honorific: Saint
 summary: Martyr who was either killed in Capua, Italy, or that's where his relics were first enshrined.
 region: Italy

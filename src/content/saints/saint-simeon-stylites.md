@@ -1,5 +1,6 @@
 ---
 name: Saint Simeon Stylites
+stub: false
 honorific: Saint
 summary: >-
   Son of a poor shepherd, and worked as a shepherd as a child. A would-be monk at age 13, he was turned away from

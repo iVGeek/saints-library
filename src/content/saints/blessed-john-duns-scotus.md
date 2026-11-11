@@ -1,5 +1,6 @@
 ---
 name: Blessed John Duns Scotus
+stub: false
 honorific: Blessed
 summary: >-
   Son of a wealthy farmer. Friar Minor at Dumfries where his uncle Elias Duns was superior. Studied at Oxford and Paris.

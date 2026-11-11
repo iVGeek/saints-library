@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/f/f4/Bishops_Beauvais_Louvre_OA11040.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 name: Blessed Herveus
+stub: true
 honorific: Blessed
 summary: Hermit on Chalonnes Island, Anjou, France.
 deathYear: 1130

@@ -1,5 +1,6 @@
 ---
 name: Saint Cormac of Cashel
+stub: false
 honorific: Saint
 summary: >-
   Friend of Saint Columba. First bishop of Cashel, Ireland. Wrote a glossary of the Irish language. The Psalter of

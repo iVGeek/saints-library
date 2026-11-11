@@ -1,5 +1,6 @@
 ---
 name: Saint Caesaria of Arles
+stub: false
 honorific: Saint
 summary: >-
   Sister of Saint Caesarius of Arles. Founder of a convent in 512; the house soon grew to hundreds of nuns, many of them

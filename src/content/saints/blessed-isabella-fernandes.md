@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/48/Painting_of_the_Nagasaki_Martyrs.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Isabella Fernandes
+stub: false
 honorific: Blessed
 summary: >-
   Married to Blessed Domingos Jorge. Mother of Blessed Ignatius Jorge-Fernandes. Member of the Confraternity of the

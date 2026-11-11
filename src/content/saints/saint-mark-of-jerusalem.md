@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Mark of Jerusalem
+stub: true
 honorific: Saint
 summary: First Gentile bishop of Jerusalem c.135, serving for over 20 years. Martyr.
 deathYear: 156

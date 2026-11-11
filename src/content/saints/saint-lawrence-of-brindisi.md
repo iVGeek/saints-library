@@ -1,5 +1,6 @@
 ---
 name: Saint Lawrence of Brindisi
+stub: false
 honorific: Saint
 summary: >-
   Son of Guglielmo de Rossi and Elisabetta Masella. He felt an early call to religious life, and was educated by the

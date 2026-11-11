@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Augustinô Phan Viet Huy
+stub: false
 honorific: Venerable
 summary: >-
   Lifelong layman in the apostolic vicariate of East Tonkin. Soldier. Worked to help the foreign missionaries. Worked,

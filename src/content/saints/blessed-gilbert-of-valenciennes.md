@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/5/59/Cambrai_Cath%C3%A9drale_21_11_09_08.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Gilbert of Valenciennes
+stub: false
 honorific: Blessed
 summary: >-
   Benedictine monk at Saint-Crespin-en-Chaie, Soissons, France. Abbot at the monastery of Saint John the Baptist Abbey

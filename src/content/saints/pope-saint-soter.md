@@ -1,5 +1,6 @@
 ---
 name: Pope Saint Soter
+stub: false
 honorific: Saint
 summary: >-
   Nothing is known of his life before he was chosen 12th pope c.166, and not much is known of his pontificate. Forbade

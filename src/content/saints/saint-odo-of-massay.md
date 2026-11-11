@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/c/c5/Odo_Cluny-11.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Odo of Massay
+stub: true
 honorific: Saint
 summary: Benedictine monk. Abbot at Massay the last 32 years of his life.
 deathYear: 967

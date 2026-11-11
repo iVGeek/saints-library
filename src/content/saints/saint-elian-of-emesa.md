@@ -1,5 +1,6 @@
 ---
 name: Saint Elian of Emesa
+stub: false
 honorific: Saint
 summary: >-
   The son of a senior officer in the imperial Roman army, Elian trained as a physician. He was a convert to

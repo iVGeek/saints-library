@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Follamon mac Nath Fraich
+stub: false
 honorific: Saint
 summary: >-
   A convert, brought to the faith by Saint Patrick. Evangelizing bishop/a>, based in the area of modern Santry just

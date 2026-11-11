@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Euerotas of Nicaea
+stub: true
 honorific: Saint
 summary: Martyr.
 deathYear: 230

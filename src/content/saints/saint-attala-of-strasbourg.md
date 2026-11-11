@@ -1,5 +1,6 @@
 ---
 name: Saint Attala of Strasbourg
+stub: false
 honorific: Saint
 summary: >-
   Niece of Saint Odilia of Alsace. Nun. Abbess at Strasbourg, France for 20 years. Known for her piety, prudence and

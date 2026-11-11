@@ -1,5 +1,6 @@
 ---
 name: Venerable Bertilla Antoniazzi
+stub: false
 honorific: Venerable
 summary: >-
   The 8th of nine children born to a peasant family, her heart was damaged at age 8 by rheumatic fever. This led to a

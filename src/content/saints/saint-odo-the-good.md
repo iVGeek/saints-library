@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/c/c5/Odo_Cluny-11.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Odo the Good
+stub: false
 honorific: Saint
 summary: >-
   Odo's parents were pagan Danish nobility who had come to East Anglia as part of a colonizing/invading force. Uncle of

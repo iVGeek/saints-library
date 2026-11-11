@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/3/34/Heilige_Afra.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Narcissus of Rome
+stub: false
 honorific: Saint
 summary: >-
   Owned a house in Rome, Italy that Saint Lawrence of Rome used as a base to distribute alms to the poor after Lawrence

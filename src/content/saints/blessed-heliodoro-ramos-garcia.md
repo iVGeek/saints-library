@@ -1,5 +1,6 @@
 ---
 name: Blessed Heliodoro Ramos García
+stub: false
 honorific: Blessed
 summary: >-
   Baptized at the age of two days, Heliodoro was a religious boy and grew up with a call to religious life. He joined

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Phlegon of Hyrcania
+stub: false
 honorific: Saint
 summary: >-
   First century bishop of Hyrcania, Greece. May have been one of the “70 Disciples of Christ”. Martyr. Mentioned by

@@ -1,5 +1,6 @@
 ---
 name: Blessed Andrés Iniesta Egea
+stub: false
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/EPC2024-Barcelona-paperetes-CERA.pdf/page1-960px-EPC2024-Barcelona-paperetes-CERA.pdf.jpg
 honorific: Blessed

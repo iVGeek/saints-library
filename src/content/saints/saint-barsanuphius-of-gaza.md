@@ -1,5 +1,6 @@
 ---
 name: Saint Barsanuphius of Gaza
+stub: false
 honorific: Saint
 summary: >-
   Hermit for 50 years in absolute seclusion near the monastery of Saint Seridon of Gaza, Palestine. Wrote against

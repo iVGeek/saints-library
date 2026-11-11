@@ -1,5 +1,6 @@
 ---
 name: Blessed María Severina Díaz-Pardo Gauna
+stub: false
 honorific: Blessed
 summary: >-
   Educated in a Carmelite school, Maria Severina's father was a member of the Society of Saint Vincent de Paul, and

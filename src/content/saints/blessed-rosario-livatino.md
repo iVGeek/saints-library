@@ -1,5 +1,6 @@
 ---
 name: Blessed Rosario Angelo Livatino
+stub: false
 honorific: Blessed
 summary: >-
   The son of Vincenzo Livatino and Rosalia Corbo, Rosario was an execellent student all his life, always getting top

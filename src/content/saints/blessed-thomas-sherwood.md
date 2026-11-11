@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/3/36/Mrs_mary_sherwood1775_1851.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Thomas Sherwood
+stub: false
 honorific: Blessed
 summary: >-
   A draper's assistant and a physically small man. Both parents had been arrested for clinging to their faith during a

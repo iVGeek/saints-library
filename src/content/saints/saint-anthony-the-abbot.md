@@ -1,5 +1,6 @@
 ---
 name: Saint Anthony the Abbot
+stub: false
 honorific: Saint
 summary: >-
   Following the death of his parents when he was about 20, Anthony insured that his sister completed her education, then

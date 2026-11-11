@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Barbasymas
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Seleucia and Ctesiphon, Greece in 342. Arrested and tortured with sixteen priests in the persecutions of

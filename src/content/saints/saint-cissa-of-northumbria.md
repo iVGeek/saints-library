@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Cissa of Northumbria
+stub: false
 honorific: Saint
 summary: Eighth-century spiritual student of Saint Guthlac and Benedictine hermit at Crowland Abbey in England.
 region: England

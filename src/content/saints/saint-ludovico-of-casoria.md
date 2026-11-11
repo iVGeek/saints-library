@@ -1,5 +1,6 @@
 ---
 name: Saint Ludovico of Casoria
+stub: false
 honorific: Venerable
 summary: >-
   An apprentice cabinet maker as a youth, Arcangelo joined the Franciscan Friars Minor on 1 July 1832, taking the name

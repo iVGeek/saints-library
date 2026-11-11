@@ -1,5 +1,6 @@
 ---
 name: Saint Agia
+stub: true
 honorific: Saint
 summary: Married. Mother of Saint Lupus of Sens. Widow.
 searchAliases:

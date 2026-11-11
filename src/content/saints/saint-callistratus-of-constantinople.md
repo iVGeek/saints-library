@@ -1,5 +1,6 @@
 ---
 name: Saint Callistratus of Constantinople
+stub: false
 honorific: Saint
 summary: One of a group of 50 African soldiers martyred in the persecutions of Diocletian.
 deathYear: 300

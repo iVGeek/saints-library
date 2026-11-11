@@ -1,5 +1,6 @@
 ---
 name: Saint Jeanne Jugan
+stub: false
 honorific: Venerable
 summary: >-
   Born in a small, impoverished fishing village. Her father was a fisherman named Joseph who was gone to sea most of the

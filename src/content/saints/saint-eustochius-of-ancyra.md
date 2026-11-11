@@ -1,5 +1,6 @@
 ---
 name: Saint Eustochius of Ancyra
+stub: false
 honorific: Saint
 summary: >-
   Uncle of Saint Gaius of Ancyra; great-uncle of Saint Lollia, Saint Urban and Saint Probus of Ancyra. Pagan priest in

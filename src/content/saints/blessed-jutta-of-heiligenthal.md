@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Jutta of Heiligenthal
+stub: false
 honorific: Blessed
 summary: >-
   Benedictine Cistercian nun. Founded a convent in Heiligenthal, Germany in 1222, and served as its first abbess for 16

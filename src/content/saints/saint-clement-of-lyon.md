@@ -1,5 +1,6 @@
 ---
 name: Saint Clement of Lyon
+stub: false
 honorific: Saint
 title: Priest
 summary: 2nd-3rd century priest in the vicinity of modern Lyon, France. Spiritual student of Saint Irenaeus.

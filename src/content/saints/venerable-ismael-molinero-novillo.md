@@ -1,5 +1,6 @@
 ---
 name: Venerable Ismael Molinero Novillo
+stub: false
 honorific: Venerable
 summary: >-
   The son of Francisco Antonio Lázaro Molinero Román and Ángela María Francisca Novillo y López, Ismael was baptized at

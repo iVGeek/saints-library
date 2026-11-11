@@ -1,5 +1,6 @@
 ---
 name: Saint Mary Salome
+stub: false
 honorific: Saint
 summary: >-
   Wife of Zebedee. Mother of Saint John the Apostle, and Saint James the Greater. May have been a cousin of the Blessed

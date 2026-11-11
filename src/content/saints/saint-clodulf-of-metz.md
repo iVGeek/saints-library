@@ -1,5 +1,6 @@
 ---
 name: Saint Clodulf of Metz
+stub: false
 honorific: Saint
 summary: Son of Saint Arnulf of Metz. Courtier. Bishop of Metz, France in 656 where he served for 40 years.
 searchAliases:

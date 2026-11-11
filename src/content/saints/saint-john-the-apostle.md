@@ -1,5 +1,6 @@
 ---
 name: Saint John the Apostle
+stub: false
 honorific: Saint
 summary: >-
   Son of Zebedee and Salome. Fisherman. Brother of Saint James the Greater, and called one of the Sons of Thunder.

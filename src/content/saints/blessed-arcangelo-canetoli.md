@@ -1,5 +1,6 @@
 ---
 name: Blessed Arcangelo Canetoli
+stub: false
 honorific: Blessed
 summary: >-
   As a boy he survived the politically inspired massacred of the rest of his family. Entered the Canons Regular of Santa

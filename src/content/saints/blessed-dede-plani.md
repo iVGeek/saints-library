@@ -1,5 +1,6 @@
 ---
 name: Blessed Dedë Plani
+stub: false
 honorific: Blessed
 summary: >-
   Studied at the Shkodrë Pontifical Seminary, and in Innsbruck, Austria. Ordained in Primiz, Austria on 3 August 1919 as

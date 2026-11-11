@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Marcellinus of Perugia
+stub: true
 honorific: Saint
 summary: Martyred in the persecutions of Decius.
 deathYear: 250

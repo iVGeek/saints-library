@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Diego Albañil Barrena
+stub: false
 honorific: Blessed
 summary: Priest of the diocese of Córdoba, Spain, serving in the parish of Argallón. Martyred in the Spanish Civil War.
 birthYear: 1903

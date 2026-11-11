@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Francisco García Pareja
+stub: false
 honorific: Blessed
 summary: Priest of the diocese of Córdoba, Spain, serving in the Bujalance community. Martyred in the Spanish Civil War.
 birthYear: 1877

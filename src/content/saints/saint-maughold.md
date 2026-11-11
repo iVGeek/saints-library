@@ -1,5 +1,6 @@
 ---
 name: Saint Maughold
+stub: false
 honorific: Saint
 summary: >-
   Prince, pirate and thief. Converted to Christianity by Saint Patrick. To avoid temptation, he set sail from Ireland in

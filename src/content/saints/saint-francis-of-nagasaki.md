@@ -1,5 +1,6 @@
 ---
 name: Saint Francis of Nagasaki
+stub: false
 honorific: Saint
 summary: >-
   Physician. Adult convert to Catholicism by Franciscan missionaries. Even before his conversion he carried a set of

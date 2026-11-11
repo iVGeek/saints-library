@@ -1,5 +1,6 @@
 ---
 name: Venerable Magdalena Aulina Saurina
+stub: false
 honorific: Venerable
 summary: >-
   Healed of a heart condition at age 24 through the intercession of Saint Gemma Galgani. She founded the Secular

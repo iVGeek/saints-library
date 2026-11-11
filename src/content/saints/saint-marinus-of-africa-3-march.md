@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Marinus of Africa
+stub: true
 honorific: Saint
 summary: Martyr.
 died: in Africa, date and location unknown

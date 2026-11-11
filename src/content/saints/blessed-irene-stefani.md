@@ -1,5 +1,6 @@
 ---
 name: Blessed Irene Stefani
+stub: false
 honorific: Blessed
 summary: >-
   Consolata Missionary Sisters nun, taking the name Irene. Missionary in Kenya where she worked with the sick hospitals,

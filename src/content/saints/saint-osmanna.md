@@ -1,5 +1,6 @@
 ---
 name: Saint Osmanna
+stub: false
 honorific: Saint
 summary: Born to an illustrious family. Benedictine nun. Anchoress near Brieuc, Brittany (in modern France).
 searchAliases:

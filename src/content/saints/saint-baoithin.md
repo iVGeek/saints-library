@@ -1,5 +1,6 @@
 ---
 name: Saint Baoithin
+stub: true
 honorific: Saint
 summary: Son of Cuana. No other information available.
 region: Ireland

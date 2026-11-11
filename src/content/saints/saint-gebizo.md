@@ -1,5 +1,6 @@
 ---
 name: Saint Gebizo
+stub: false
 honorific: Saint
 summary: >-
   Benedictine monk at Monte Cassino in 1076. Spiritual student of Saint Desiderius who was later Pope Victor III. Sent

@@ -1,5 +1,6 @@
 ---
 name: Saint Justus of Lugdunum
+stub: false
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/The_creeds_of_Christendom_-_with_a_history_and_critical_notes_%28IA_creedschristendo02scha%29.pdf/page1-500px-The_creeds_of_Christendom_-_with_a_history_and_critical_notes_%28IA_creedschristendo02scha%29.pdf.jpg
 honorific: Saint

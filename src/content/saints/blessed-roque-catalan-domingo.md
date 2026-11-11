@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/a/a3/Manila_Cathedral_at_dusk_2024-06-02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Roque Catalán Domingo
+stub: false
 honorific: Blessed
 summary: Brother in the Vincentian Congregation of the Mission. Martyred in the Spanish Civil War.
 birthYear: 1874

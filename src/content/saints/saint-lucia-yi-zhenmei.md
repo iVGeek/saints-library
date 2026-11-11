@@ -1,6 +1,7 @@
 ---
 image: https://www.santiebeati.it/immagini/Thumbs/92710/92710.JPG
 name: Saint Lucia Yi Zhenmei
+stub: false
 honorific: Venerable
 summary: >-
   Lay woman in the apostolic vicariate of Guizhou, China. She was the youngest child in her family, and grew up loving

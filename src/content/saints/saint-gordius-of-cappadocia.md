@@ -1,5 +1,6 @@
 ---
 name: Saint Gordius of Cappadocia
+stub: false
 honorific: Saint
 summary: >-
   Soldier in Caesarea, Cappadocia. Convert to Christianity. Dismissed from the army as his religion made his loyalties

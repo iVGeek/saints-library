@@ -1,5 +1,6 @@
 ---
 name: Saint Gundisalvus Garcia
+stub: false
 honorific: Saint
 summary: >-
   His father was a Portugese soldier and immigrant to India, his mother an Indian convert. Gundisalvus grew up a

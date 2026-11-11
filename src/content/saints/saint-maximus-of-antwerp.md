@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Maximus of Antwerp
+stub: true
 honorific: Saint
 summary: Martyr.
 died: 2nd century Rome, Italy

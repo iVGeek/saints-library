@@ -1,5 +1,6 @@
 ---
 name: Saint Amicus of Fonte Avellana
+stub: false
 honorific: Saint
 summary: >-
   Born to the Italian nobility, Amicus gave up the worldly life for a religious one in a Benedictine monastery near his

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Einard of Zurich
+stub: true
 honorific: Blessed
 title: Priest
 summary: Priest in Zürich, Switzerland.

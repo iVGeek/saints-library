@@ -1,5 +1,6 @@
 ---
 name: Saint Walfrid
+stub: false
 honorific: Saint
 summary: >-
   Eldest of five children in a wealthy family. Properous married layman, a solid citizen, and father of five sons and a

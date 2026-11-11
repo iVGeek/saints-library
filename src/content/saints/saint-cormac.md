@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Cormac
+stub: true
 honorific: Saint
 summary: Sixth century abbot in Ireland. Friend of Saint Columba of Iona.
 region: Ireland

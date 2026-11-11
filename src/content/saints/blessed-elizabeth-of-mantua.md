@@ -1,5 +1,6 @@
 ---
 name: Blessed Elizabeth of Mantua
+stub: false
 honorific: Blessed
 summary: >-
   Born wealthy. Received some formal education, instruction in meditation by her mother, and was taught Latin by her

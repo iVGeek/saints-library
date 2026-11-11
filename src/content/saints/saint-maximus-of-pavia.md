@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Maximus of Pavia
+stub: false
 honorific: Saint
 summary: Bishop of Pavia, Italy. Attended the councils of Rome convened by Pope Saint Symmachus.
 searchAliases:

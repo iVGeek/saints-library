@@ -1,5 +1,6 @@
 ---
 name: Saint Mona of Milan
+stub: true
 honorific: Saint
 title: Bishop
 summary: 3rd-4th century bishop of Milan, Italy.

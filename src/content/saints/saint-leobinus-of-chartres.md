@@ -1,5 +1,6 @@
 ---
 name: Saint Leobinus of Chartres
+stub: false
 honorific: Saint
 summary: >-
   Son of peasants, he was a field worker and shepherd in his youth. Thirsting for education, he went to the monastery at

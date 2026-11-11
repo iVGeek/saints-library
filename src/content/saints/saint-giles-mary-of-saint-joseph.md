@@ -1,5 +1,6 @@
 ---
 name: Saint Giles Mary-of-Saint-Joseph
+stub: false
 honorific: Venerable
 summary: >-
   Born to a pious family and raised in a small village. When his father died in 1747, Francesco took up the trade of

@@ -1,6 +1,7 @@
 ---
 image: https://www.catholic.org/files/images/saints/2700.jpg
 name: Saint Colman of Kilmacduagh
+stub: false
 honorific: Saint
 summary: >-
   Son of a chieftain named Duagh. Hermit in Arranmore where he built two churches. His reputation for holiness attracted

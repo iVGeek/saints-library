@@ -1,6 +1,7 @@
 ---
 image: https://www.catholic.org/files/images/saints/4166.jpg
 name: Saint Kentigerna
+stub: false
 honorific: Saint
 summary: >-
   Daughter of Prince Kelly of Leinster, and Saint Coellen. Sister of Saint Comghan. Married lay woman. Mother of Saint

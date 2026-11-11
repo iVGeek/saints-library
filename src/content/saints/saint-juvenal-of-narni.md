@@ -1,5 +1,6 @@
 ---
 name: Saint Juvenal of Narni
+stub: false
 honorific: Saint
 summary: >-
   Ordained by Pope Saint Damasus I. First bishop of Narni, Italy in 368. Legend says that he saved Narni from invasion

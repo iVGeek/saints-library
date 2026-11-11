@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Victorinus of Como
+stub: true
 honorific: Saint
 summary: Bishop of Como, Italy. Fought Arianism.
 deathYear: 644

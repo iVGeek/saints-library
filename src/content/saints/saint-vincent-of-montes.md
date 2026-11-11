@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Vincent of Montes
+stub: false
 honorific: Saint
 summary: Monk. Spiritual student of Saint Gennadius. Abbot of San Pedro de Montes Abbey in Spain.
 deathYear: 950

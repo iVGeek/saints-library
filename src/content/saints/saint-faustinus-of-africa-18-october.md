@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Faustinus of Africa
+stub: true
 honorific: Saint
 searchAliases:
   - Faustina

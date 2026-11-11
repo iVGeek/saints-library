@@ -1,5 +1,6 @@
 ---
 name: Blessed Perrine Besson
+stub: false
 image: https://commons.wikimedia.org/wiki/Special:FilePath/Perrine_Valli_%25285914965253%2529.jpg?width=600
 honorific: Blessed
 summary: Lay woman of the diocese of Angers, France. Martyred in the persecutions of the French Revolution.

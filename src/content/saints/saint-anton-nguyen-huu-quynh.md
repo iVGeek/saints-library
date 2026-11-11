@@ -1,5 +1,6 @@
 ---
 name: Saint Antôn Nguyen Huu Quynh
+stub: false
 honorific: Venerable
 summary: >-
   Layman. Physician. Catechist. Worked to help the missionaries of the Paris Foreign Mission Society. Arrested in 1838

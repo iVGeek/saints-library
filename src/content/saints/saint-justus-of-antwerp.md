@@ -1,5 +1,6 @@
 ---
 name: Saint Justus of Antwerp
+stub: true
 image: https://commons.wikimedia.org/wiki/Special:FilePath/Gent%252C_Justus_van_-_Aristotle_-_c._1476.jpg?width=600
 honorific: Saint
 summary: Martyr.

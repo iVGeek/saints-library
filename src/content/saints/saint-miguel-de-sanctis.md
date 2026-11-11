@@ -1,5 +1,6 @@
 ---
 name: Saint Miguel de Sanctis
+stub: false
 honorific: Saint
 summary: >-
   Michael decided at age six that he wanted to be a monk, and imposed such austerities on himself as a child that he had

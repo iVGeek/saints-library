@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Cillene
+stub: true
 honorific: Saint
 summary: Monk. Elected abbot in Iona Abbey in Scotland in 726.
 searchAliases:

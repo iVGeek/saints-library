@@ -1,5 +1,6 @@
 ---
 name: Blessed Eduard Müller
+stub: false
 honorific: Blessed
 summary: >-
   The youngest of seven children born to the family of a poor shoemaker, Eduard was a carpenter's apprentice when he

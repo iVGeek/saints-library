@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Gregory of Nonantula
+stub: true
 honorific: Blessed
 summary: Benedictine monk. Abbot at Nonantula, Italy.
 deathYear: 933

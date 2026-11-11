@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Laurentinus of Arezzo
+stub: true
 honorific: Saint
 summary: Brother of Saint Pergentinus of Arezzo. Martyred in the persecutions of Decius.
 deathYear: 251

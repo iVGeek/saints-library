@@ -1,5 +1,6 @@
 ---
 name: Saint Hugh of Lincoln
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility, the son of William, Lord of Avalon. His mother Anna died when he was eight, and he was raised

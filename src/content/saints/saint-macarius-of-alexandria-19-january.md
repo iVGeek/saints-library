@@ -1,5 +1,6 @@
 ---
 name: Saint Macarius of Alexandria
+stub: true
 honorific: Saint
 summary: Monk. Priest. Bishop. Abbot of a community in the mountains of Scete, Egypt.
 searchAliases:

@@ -1,5 +1,6 @@
 ---
 name: Venerable Stefano Ferrando
+stub: false
 honorific: Venerable
 summary: >-
   Son of Agostino Ferrando and Giuseppina Salvi. Stefano early felt a call to relgious life, and joined the Salesian

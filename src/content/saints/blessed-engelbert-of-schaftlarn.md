@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Engelbert of Schäftlarn
+stub: false
 honorific: Blessed
 summary: >-
   Premonstratensian monk. First prior of the convent in Ursber, Bavaria, Germany, the Order's first house in southern

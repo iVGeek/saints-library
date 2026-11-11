@@ -1,5 +1,6 @@
 ---
 name: Saint Glodesind of Metz
+stub: false
 honorific: Saint
 summary: >-
   Engaged to a courtier who was arrested on their wedding day, and later executed. She became a nun at Metz, France and

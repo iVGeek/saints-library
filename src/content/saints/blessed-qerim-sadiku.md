@@ -1,5 +1,6 @@
 ---
 name: Blessed Qerim Sadiku
+stub: false
 honorific: Blessed
 summary: >-
   Qerim served in the Albanian gendarmerie in the reign of Zog I, rising to the rank of lieutenant. During World War II,

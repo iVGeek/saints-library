@@ -1,5 +1,6 @@
 ---
 name: Blessed Jean-Martin Moÿe
+stub: false
 honorific: Blessed
 summary: >-
   Sixth of thirteen children born to John Mo&yuml;e and Catharine Demange. Studied at the College of Pont-à-Mousson, the

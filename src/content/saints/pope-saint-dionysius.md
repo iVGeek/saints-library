@@ -1,5 +1,6 @@
 ---
 name: Pope Saint Dionysius
+stub: false
 honorific: Saint
 summary: >-
   Roman citizen. Nothing is known about his early life. Monk. Priest. Bishop in Rome during the papacy of Saint Stephen

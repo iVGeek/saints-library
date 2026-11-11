@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Theon
+stub: true
 honorific: Saint
 title: Bishop
 summary: Sixth century bishop in Wales.

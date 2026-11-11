@@ -1,5 +1,6 @@
 ---
 name: Venerable Bianca Piccolomini-Clementini
+stub: true
 honorific: Venerable
 summary: Countess. Founder of the Society of Saint Angela Merici.
 image: https://catholicsaints.info/wp-content/uploads/phoca_thumb_l_9.jpg

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Cyril of Antioch
+stub: false
 honorific: Saint
 summary: Martyred in one of the early persecutions, date unknown. No other information has survived.
 died: in Antioch, Syria

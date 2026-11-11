@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Mennone the Centurian
+stub: false
 honorific: Saint
 summary: >-
   Centurian in the imperial army in the reign of Diocletian and Maximian. Convert, brought to the faith by Saint Severus

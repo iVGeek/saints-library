@@ -1,5 +1,6 @@
 ---
 name: Blessed Chiara Bosatta
+stub: false
 honorific: Blessed
 summary: >-
   Daughter of Alexander Bosatta and Rosa Mazzocchi. Her father was a silk manufacturer, and died when the girl was still

@@ -1,5 +1,6 @@
 ---
 name: Blessed Jean Hunot
+stub: false
 honorific: Blessed
 summary: >-
   Priest in the Archdiocese of Sens, France. Imprisoned on a ship in the harbor of Rochefort, France and left to die

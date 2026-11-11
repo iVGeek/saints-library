@@ -1,5 +1,6 @@
 ---
 name: Blessed Vicente Nicasio Renuncio Toribio
+stub: false
 honorific: Blessed
 summary: >-
   Member of the Redemptorists, professing his vows on 8 September 1895. Ordained a priest on 23 March, 1901, over the

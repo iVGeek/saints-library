@@ -1,5 +1,6 @@
 ---
 name: Blessed Licinius
+stub: true
 honorific: Blessed
 summary: Soldier martyr.
 searchAliases:

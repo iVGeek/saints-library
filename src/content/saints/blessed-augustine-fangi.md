@@ -1,5 +1,6 @@
 ---
 name: Blessed Augustine Fangi
+stub: false
 honorific: Blessed
 summary: >-
   Born to wealthy nobility. Joined the Dominicans as a young man, and entered the house in Biella, Italy. Noted for his

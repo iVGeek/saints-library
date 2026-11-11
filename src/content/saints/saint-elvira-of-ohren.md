@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Elvira of Ohren
+stub: true
 honorific: Saint
 summary: Nun. Abbess of a convent of Ohren in Trier, Germany.
 searchAliases:

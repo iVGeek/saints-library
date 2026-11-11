@@ -1,5 +1,6 @@
 ---
 name: Blessed Anacleto González Flores
+stub: false
 honorific: Blessed
 summary: >-
   Second of twelve children born to Valentín González Sanitiz and Maria Flores Navaho. He entered seminary, was an

@@ -1,5 +1,6 @@
 ---
 name: Venerable Antonio Provolo
+stub: false
 honorific: Venerable
 summary: >-
   Priest in the diocese of Verona, Italy, ordained on 18 December 1824. Taught for some months in his diocesan seminary,

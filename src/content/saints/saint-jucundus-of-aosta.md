@@ -1,5 +1,6 @@
 ---
 name: Saint Jucundus of Aosta
+stub: false
 honorific: Saint
 summary: >-
   Third bishop of Aosta, Italy. Saint Ursus of Aosta served as his archdeacon. Travelled with Saint Gratus of Aosta to

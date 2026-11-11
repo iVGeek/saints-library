@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Guillermo Fernández Aguilera
+stub: false
 honorific: Blessed
 summary: Married layman in the diocese of Córdoba, Spain. Martyred in the Spanish Civil War.
 birthYear: 1874

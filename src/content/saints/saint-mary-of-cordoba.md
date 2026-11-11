@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Mary of Cordoba
+stub: false
 honorific: Saint
 summary: >-
   Friend of Saint Flora, and ran away with her, briefly hiding in the home of Flora's sister. The sister, however,

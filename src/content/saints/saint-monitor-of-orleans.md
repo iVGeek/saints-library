@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Monitor of Orleans
+stub: true
 honorific: Saint
 summary: Bishop of Orleans, France. Supported monastic expansion in his diocese.
 deathYear: 490

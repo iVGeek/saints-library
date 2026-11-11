@@ -1,5 +1,6 @@
 ---
 name: Saint Elio of Koper
+stub: false
 honorific: Saint
 summary: >-
   First century convert. Spiritual student of Saint Ermacora of Aquileia. Deacon to Nazarius, first bishop of Koper (in

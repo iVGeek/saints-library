@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Pedro de Alcántara Bernalte Calzado
+stub: false
 honorific: Blessed
 summary: Novice in the Hospitallers of Saint John of God. Martyred in the Spanish Civil War.
 birthYear: 1910

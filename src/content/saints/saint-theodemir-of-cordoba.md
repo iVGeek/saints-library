@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Theodemir of Cordoba
+stub: false
 honorific: Saint
 summary: Monk in Moorish-controlled Andalusia. Martyred in the persecutions of Abderrahman II.
 searchAliases:

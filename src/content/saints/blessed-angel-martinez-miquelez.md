@@ -1,5 +1,6 @@
 ---
 name: Blessed Ángel Martínez Miquélez
+stub: false
 honorific: Blessed
 summary: >-
   The eldest son of José Martínez Polo and Juana Miquélez, Ángel was baptized at the age of one day; his aunt and

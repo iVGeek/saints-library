@@ -1,5 +1,6 @@
 ---
 name: Blessed Benedetta Bianchi Porro
+stub: false
 honorific: Blessed
 summary: >-
   Daughter of Guido Bianchi Porro and Elsa Giammarchi, the second of six children. Afflicted with poliomyelitis at an

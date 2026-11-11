@@ -1,5 +1,6 @@
 ---
 name: Blessed Luis Magaña Servín
+stub: false
 honorific: Blessed
 summary: >-
   Lifelong layman in the archdiocese of Guadalajara. Active member of the Catholic Association of Mexican Youth. Member

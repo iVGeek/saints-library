@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Sarmata
+stub: true
 honorific: Saint
 summary: Desert hermit and monk. Spiritual student of Saint Anthony the Abbot. Martyr.
 searchAliases:

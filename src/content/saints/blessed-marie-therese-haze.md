@@ -1,5 +1,6 @@
 ---
 name: Blessed Marie-Thérèse Haze
+stub: false
 honorific: Blessed
 summary: >-
   One of seven children born to the secretary of the last prince-bishop of Liège, Belgium. Could read and write by the

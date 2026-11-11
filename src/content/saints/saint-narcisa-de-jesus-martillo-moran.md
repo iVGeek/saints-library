@@ -1,5 +1,6 @@
 ---
 name: Saint Narcisa de Jesús Martillo-Morán
+stub: false
 honorific: Venerable
 summary: >-
   Daughter of Pedro Martillo Mosquera and Josefina Moran. Her people were farmers, and her parents died when she was

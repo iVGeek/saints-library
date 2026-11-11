@@ -1,5 +1,6 @@
 ---
 name: Saint Catellus of Castellammare
+stub: false
 honorific: Saint
 summary: >-
   Friend of Saint Antoninus of Sorrento. Bishop of Castellammare di Stabia, Italy. Spent part of his life as a hermit on

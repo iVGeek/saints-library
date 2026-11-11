@@ -1,5 +1,6 @@
 ---
 name: Blessed Luke of Messina
+stub: false
 honorific: Blessed
 summary: >-
   Twelfth-century monk at a Greek-rite monastery in southern Calabria, Italy. Around 1130 he lead a dozen monks to the

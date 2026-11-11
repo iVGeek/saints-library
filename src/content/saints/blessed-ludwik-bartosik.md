@@ -1,5 +1,6 @@
 ---
 name: Blessed Ludwik Bartosik
+stub: false
 honorific: Blessed
 summary: >-
   Eldest son of Wojciech, a poor shoemaker, and Wiktoria Tomczyk. With the help of his parish priest, Ludwik obtained a

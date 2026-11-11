@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Julius of Eretum
+stub: true
 honorific: Saint
 summary: Martyr.
 searchAliases:

@@ -1,5 +1,6 @@
 ---
 name: Blessed Józef Puchala
+stub: false
 honorific: Blessed
 summary: >-
   Baptized on the day of his birth. Entered the minor seminary in Lviv (in modern Ukraine) in 1924. Franciscan Friar

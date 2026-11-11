@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Emilian of Saujon
+stub: false
 honorific: Saint
 summary: >-
   Benedictine monk at Saujon, France. Hermit in the forest of Combes, Bordeaux, France. A well-known wine is named for

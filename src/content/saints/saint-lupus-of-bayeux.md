@@ -1,5 +1,6 @@
 ---
 name: Saint Lupus of Bayeux
+stub: true
 honorific: Saint
 summary: Fifth-century bishop of Bayeux, France.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Loup-of-Bayeux.jpg

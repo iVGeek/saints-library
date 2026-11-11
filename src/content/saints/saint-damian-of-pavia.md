@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Damian of Pavia
+stub: false
 honorific: Saint
 summary: >-
   Born to the Italian nobility. Known for both his learning and his piety. Bishop of Pavia, Italy in 680. He became an

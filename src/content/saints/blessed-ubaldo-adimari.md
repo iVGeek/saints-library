@@ -1,5 +1,6 @@
 ---
 name: Blessed Ubaldo Adimari
+stub: true
 honorific: Blessed
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Ubaldo-Adimari.jpg
 searchAliases:

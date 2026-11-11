@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Teresa Prats Martí
+stub: false
 honorific: Blessed
 summary: Member of the Dominican Sisters of the Anunciata. Martyred in the Spanish Civil War.
 birthYear: 1896

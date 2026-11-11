@@ -1,5 +1,6 @@
 ---
 name: Blessed Benito Solana Ruiz
+stub: false
 honorific: Blessed
 summary: >-
   Son of a village carpenter. Against his parent's wishes, Benito entered the Passionist novitiate in Corella, Spain in

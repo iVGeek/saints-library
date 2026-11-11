@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/4f/Frm_beatification_banner.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Mathurin-Victoir Deruelle
+stub: false
 honorific: Blessed
 summary: >-
   Mathurin graduated university with degrees in literature and philosophy in 1748. Ordained a priest of the archdiocese

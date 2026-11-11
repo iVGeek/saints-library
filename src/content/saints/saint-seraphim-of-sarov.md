@@ -1,5 +1,6 @@
 ---
 name: Saint Seraphim of Sarov
+stub: false
 honorific: Saint
 summary: >-
   Son of a builder, he had a middle-class upbringing. Monk at Sarov in 1777, taking the name Seraphim. Studious as a

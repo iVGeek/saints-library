@@ -1,5 +1,6 @@
 ---
 name: Blessed Sebastian of Aparicio
+stub: false
 honorific: Blessed
 summary: >-
   Born of Spanish peasants. Shepherd as a child, and a hired field hand as a young man, helping to support his family.

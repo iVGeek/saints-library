@@ -1,5 +1,6 @@
 ---
 name: Saint Ursicinus of Saint-Ursanne
+stub: false
 honorific: Saint
 title: Missionary
 summary: >-

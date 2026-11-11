@@ -1,5 +1,6 @@
 ---
 name: Saint Andrew Kim Taegon
+stub: false
 honorific: Saint
 title: St. Andrew Kim Taegon
 summary: >-

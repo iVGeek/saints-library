@@ -1,5 +1,6 @@
 ---
 name: Saint Theopistus of Rome
+stub: false
 honorific: Saint
 summary: >-
   Son of Saint Eustachius and Saint Theopistes of Rome; brother of Saint Agapitus of Rome. Martyred in the persecutions

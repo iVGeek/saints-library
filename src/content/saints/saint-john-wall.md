@@ -1,5 +1,6 @@
 ---
 name: Saint John Wall
+stub: false
 honorific: Venerable
 summary: >-
   Born to a wealthy Catholic family. Studied in Douai, France and entered the Roman College on 5 November 1641, using

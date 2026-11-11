@@ -1,5 +1,6 @@
 ---
 name: Saint Rafael Guízar y Valencia
+stub: false
 honorific: Venerable
 summary: >-
   One of eleven children born to Prudenzio Guizar and Natividad Valencia, wealthy and pious land owners. Ordained in

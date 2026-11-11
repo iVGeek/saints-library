@@ -1,5 +1,6 @@
 ---
 name: Saint Sanctinus of Meaux
+stub: true
 honorific: Saint
 summary: Spiritual student of Saint Denis of Paris. First bishop of Meaux, France.
 deathYear: 300

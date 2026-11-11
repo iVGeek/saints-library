@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Henrik Willebrorts
+stub: false
 honorific: Blessed
 summary: >-
   Member of the Premonstratensians, taking his vows in 1553. Canon in the Tongerlo monastery in Westerlo in Flanders (in

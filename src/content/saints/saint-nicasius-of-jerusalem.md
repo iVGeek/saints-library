@@ -1,5 +1,6 @@
 ---
 name: Saint Nicasius of Jerusalem
+stub: false
 honorific: Saint
 summary: >-
   Soldier. Member of the Knights Hospitaller. Crusader. Fought in the defense of Acre. Captured by Saracens. They

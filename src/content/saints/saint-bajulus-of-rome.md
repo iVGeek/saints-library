@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Bajulus of Rome
+stub: true
 honorific: Saint
 summary: Martyr.
 region: England

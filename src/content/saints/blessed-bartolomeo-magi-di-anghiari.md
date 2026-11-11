@@ -1,5 +1,6 @@
 ---
 name: Blessed Bartolomeo Magi di Anghiari
+stub: true
 honorific: Blessed
 title: Bishop
 summary: Franciscan friar.

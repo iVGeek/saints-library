@@ -1,5 +1,6 @@
 ---
 name: Saint Camillus of Lellis
+stub: false
 honorific: Saint
 summary: >-
   Son of a military officer who had served both for Naples and France. His mother died when Camillus was very young. He

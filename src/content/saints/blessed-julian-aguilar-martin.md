@@ -1,5 +1,6 @@
 ---
 name: Blessed Julián Aguilar Martín
+stub: true
 honorific: Blessed
 summary: Layman in the archdiocese of Madrid, Spain. Martyred in the Spanish Civil War.
 image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Julián-Aguilar-Martín.jpg

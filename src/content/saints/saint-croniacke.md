@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Croniacke
+stub: true
 honorific: Saint
 summary: Benedictine monk in northern Scotland.
 searchAliases:

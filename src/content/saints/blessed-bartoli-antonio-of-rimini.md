@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/d/d6/Il_porto_di_Ancona_%282426413820%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Bartoli Antonio of Rimini
+stub: false
 honorific: Blessed
 summary: >-
   A spiritual student of Saint Bernardino of Siena, Anthony became a Franciscan friar and travelled throughout Italy,

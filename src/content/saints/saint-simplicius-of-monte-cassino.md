@@ -1,5 +1,6 @@
 ---
 name: Saint Simplicius of Monte Cassino
+stub: false
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/The_life_of_Saint_Benedict%2C_patriarch_of_the_western_monks_%28IA_lifeofsaintbened00greg%29.pdf/page1-500px-The_life_of_Saint_Benedict%2C_patriarch_of_the_western_monks_%28IA_lifeofsaintbened00greg%29.pdf.jpg
 honorific: Saint

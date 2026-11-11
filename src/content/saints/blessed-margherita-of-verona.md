@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/b/b0/Vincenza_Maria_Poloni_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Margherita of Verona
+stub: false
 honorific: Blessed
 summary: >-
   As a small girl she was noted for her devotion to Mary, and would make little shrines devoted to her. She grew to live

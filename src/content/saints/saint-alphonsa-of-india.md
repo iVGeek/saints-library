@@ -1,5 +1,6 @@
 ---
 name: Saint Alphonsa of India
+stub: false
 honorific: Venerable
 summary: >-
   Born in a rural area to Joseph and Mary Muttathupadathu. Baptized on 27 August 1910. Her mother died when Anna was

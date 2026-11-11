@@ -1,5 +1,6 @@
 ---
 name: Saint Exuperius of Toulouse
+stub: false
 honorific: Saint
 title: St. Exuperius of Toulouse
 summary: >-

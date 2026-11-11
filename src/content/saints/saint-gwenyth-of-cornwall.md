@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Gwenyth of Cornwall
+stub: true
 honorific: Saint
 summary: Sister of Saint Samson of York. Nun.
 region: England

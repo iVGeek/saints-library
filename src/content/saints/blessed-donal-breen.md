@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/1/15/Lucinda_Williams_%26_guitar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Donal Breen
+stub: true
 honorific: Blessed
 summary: Priest in the diocese of Ferns, Ireland. One of the Irish Martyrs.
 deathYear: 1655

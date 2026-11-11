@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Veranus
+stub: false
 honorific: Saint
 summary: >-
   Brother of Saint Gibrian, Saint Helan, Saint Tressan, Saint Abran, Saint Petran, Saint Germain, Saint Promptia, Saint

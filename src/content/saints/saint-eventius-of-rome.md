@@ -1,5 +1,6 @@
 ---
 name: Saint Eventius of Rome
+stub: false
 honorific: Saint
 summary: Priest in Rome, Italy. Imprisoned, tortured and martyred with Saint Theodulus of Rome and Saint Alexander of Rome.
 deathYear: 113

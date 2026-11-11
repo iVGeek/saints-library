@@ -1,5 +1,6 @@
 ---
 name: Blessed Johann Nepomuk von Tschiderer
+stub: false
 honorific: Blessed
 summary: ' Though he was not a Benedictine, Joha Son of Joseph Joachim and Caterina de Giovanelli. Received his secondary education from the Franciscans. Moved with his family to Innsbruck, Austria in 1792 where he studied philosophy and theology at the university. Ordained on 27 July 1800.'
 image: >-

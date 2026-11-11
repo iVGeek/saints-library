@@ -1,5 +1,6 @@
 ---
 name: Blessed Hadrianus Takahashi Mondo
+stub: false
 honorific: Blessed
 summary: Layman in the archdiocese of Nagasaki, Japan. Married to Blessed Ioanna Takahashi. One of the Martyrs of Arima.
 image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Arima.jpg

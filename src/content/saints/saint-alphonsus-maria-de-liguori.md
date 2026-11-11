@@ -1,5 +1,6 @@
 ---
 name: Saint Alphonsus Maria de Liguori
+stub: false
 honorific: Venerable
 summary: >-
   Born to the nobility, Alphonsus was a child prodigy; he became extremely well-educated, and received his doctorate in

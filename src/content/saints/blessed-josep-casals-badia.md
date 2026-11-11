@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/7/72/Antoni_Gaudi_1878.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Josep Casals Badía
+stub: false
 honorific: Blessed
 summary: Member of the Claretians, professed on 2 February 1911. Martyred in the Spanish Civil War.
 birthYear: 1891

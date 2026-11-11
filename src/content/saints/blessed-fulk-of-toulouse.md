@@ -1,5 +1,6 @@
 ---
 name: Blessed Fulk of Toulouse
+stub: false
 honorific: Blessed
 summary: >-
   Professional minstrel. Benedictine Cistercian monk at Thoronet, France. Abbot in 1200. Bishop of Toulouse, France in

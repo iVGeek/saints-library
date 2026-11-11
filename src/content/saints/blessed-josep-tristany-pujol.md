@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/8/80/Basilica_of_the_National_Shrine_of_the_Immaculate_Conception.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Josep Tristany Pujol
+stub: true
 honorific: Blessed
 summary: Priest. Member of the Discalced Carmelites. Martyred in the Spanish Civil War.
 searchAliases:

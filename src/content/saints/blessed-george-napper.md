@@ -1,5 +1,6 @@
 ---
 name: Blessed George Napper
+stub: false
 honorific: Blessed
 summary: >-
   Son of George and Anne Napper; his father taught at All Souls College. Great-nephew of William Cardinal Peto. Educated

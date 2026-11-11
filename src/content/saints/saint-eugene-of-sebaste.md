@@ -1,5 +1,6 @@
 ---
 name: Saint Eugene of Sebaste
+stub: true
 image: https://upload.wikimedia.org/wikipedia/commons/7/71/Le_Tour_du_monde-03-p401.jpg
 honorific: Saint
 summary: Martyred in the persecutions of Diocletian.

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Polychronius of Babylon
+stub: true
 honorific: Saint
 summary: Bishop of Babylon. Martyr. No other reliable information has survived.
 region: England

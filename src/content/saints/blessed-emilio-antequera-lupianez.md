@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Emilio Antequera Lupiáñez
+stub: true
 honorific: Blessed
 summary: Priest of the diocese of Almería, Spain. Martyred in the Spanish Civil War.
 birthYear: 1868

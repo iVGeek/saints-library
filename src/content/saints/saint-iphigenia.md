@@ -1,5 +1,6 @@
 ---
 name: Saint Iphigenia
+stub: true
 honorific: Saint
 summary: Convert, brought to the faith by Saint Matthew the Apostle.
 born: 1st century in Ethiopia

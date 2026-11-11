@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Fibitius
+stub: true
 honorific: Saint
 summary: Abbot of a monastery in Trier, Germany. Bishop of Trier.
 searchAliases:

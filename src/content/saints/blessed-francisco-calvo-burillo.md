@@ -1,5 +1,6 @@
 ---
 name: Blessed Francisco Calvo Burillo
+stub: false
 honorific: Blessed
 summary: >-
   Member of the Dominicans, professed in the Order on 5 April 1898. Studied at the Dominican convents of Padron and

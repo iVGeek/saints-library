@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed María Fenollosa Alcaina
+stub: false
 honorific: Blessed
 summary: >-
   Nun, joining the Capuchin Tertiary Sisters of the Holy Family in 1921 and making her perpetual vows in 1928. Assistant

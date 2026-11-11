@@ -1,5 +1,6 @@
 ---
 name: Saint Marie of the Incarnation Guyart
+stub: false
 honorific: Venerable
 summary: >-
   Daughter of a baker, she was raised in a family of craftsmen and tradesmen, and was related on her mother's side to

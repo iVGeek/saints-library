@@ -1,5 +1,6 @@
 ---
 name: Venerable Teresa Enríquez de Alvarado de Cárdenas
+stub: false
 honorific: Venerable
 summary: >-
   Born to the nobility, the daughter of Lord Alonso II Enríquez and María de Alvarado y Villagrán; her mother died soon

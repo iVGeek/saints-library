@@ -1,5 +1,6 @@
 ---
 name: Saint Wendelin
+stub: false
 honorific: Saint
 summary: >-
   Prince of Scotland, the son of King Forchado and Queen Irelina. Educated by the local bishop, Wendelin decided to

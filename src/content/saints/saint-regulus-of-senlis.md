@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Regulus of Senlis
+stub: true
 honorific: Saint
 summary: First bishop of Civitas Silvanectium, Gaul (modern Senlis, France).
 searchAliases:

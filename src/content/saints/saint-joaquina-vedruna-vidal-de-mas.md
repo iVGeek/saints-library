@@ -1,5 +1,6 @@
 ---
 name: Saint Joaquina Vedruna Vidal de Mas
+stub: false
 honorific: Venerable
 summary: >-
   Married to the Spanish nobleman Theodore de Mas in 1799. Mother of nine children. Widowed in 1816. Founded the

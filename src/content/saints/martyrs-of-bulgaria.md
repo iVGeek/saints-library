@@ -1,5 +1,6 @@
 ---
 name: Martyrs of Bulgaria
+stub: false
 honorific: Saint
 summary: >-
   An unknown number of Christians killed for their faith during the 9th century war between the Greek Emperor Nicephorus

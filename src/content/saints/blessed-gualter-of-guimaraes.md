@@ -1,5 +1,6 @@
 ---
 name: Blessed Gualter of Guimarães
+stub: false
 honorific: Blessed
 summary: >-
   Spiritual student of Saint Francis of Assisi in the early 13th century. One of the first Franciscan friar, joining at

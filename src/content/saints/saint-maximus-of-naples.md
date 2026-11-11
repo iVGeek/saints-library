@@ -1,5 +1,6 @@
 ---
 name: Saint Maximus of Naples
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Naples, Italy in 359, but spent much of his service in exile for having defended the Nicene Creed against

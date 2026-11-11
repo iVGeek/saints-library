@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Sandratus
+stub: false
 honorific: Saint
 summary: >-
   Monk in Trier, Germany. Sent by Emperor Otto I to restore the monastery of Saint Gall in 972. Abbot of Gladbach Abbey.

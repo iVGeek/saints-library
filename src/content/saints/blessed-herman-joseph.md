@@ -1,5 +1,6 @@
 ---
 name: Blessed Herman Joseph
+stub: false
 honorific: Blessed
 summary: >-
   Son of Saint Hildegund. Had a great devotion to Mary from an early age, and as a child would spend his free time in

@@ -1,5 +1,6 @@
 ---
 name: Blessed Pope Innocent XI
+stub: false
 honorific: Blessed
 summary: >-
   Born to a pious patrician family; his brother became bishop of Novara, Italy. Benedetto felt an early call to the

@@ -1,5 +1,6 @@
 ---
 name: Blessed Eduard Cabanach Majem
+stub: false
 honorific: Blessed
 summary: >-
   Raised in a pious family; three of his brothers entered religious life. Had a devotion to Saint John Berchmans.

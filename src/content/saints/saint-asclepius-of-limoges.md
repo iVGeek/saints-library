@@ -1,5 +1,6 @@
 ---
 name: Saint Asclepius of Limoges
+stub: false
 honorific: Saint
 summary: >-
   Priest. Bishop of Limoges, France. Founded a Benedictine monastery in Limoges and restored the cloister in Bourges,

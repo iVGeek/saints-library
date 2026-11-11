@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/3/37/Saint-R%C3%A9my-aux-Bois_%28M-et-M%29_mairie.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Ludre
+stub: false
 honorific: Saint
 summary: Son of Saint Leocadio of Déols. A convert, he died almost immediately after baptism, still wearing the white robes.
 searchAliases:

@@ -1,5 +1,6 @@
 ---
 name: Blessed Paulus Shinsuke
+stub: true
 honorific: Blessed
 summary: Jesuit brother. Cathechist. Martyr.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Giovanni-Battista-Zola.jpg

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/4f/Frm_beatification_banner.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Louis Longuet
+stub: false
 honorific: Blessed
 summary: >-
   Ordained a priest in the archdiocese of Tours, France in 1781. Vicar of Néauphe at Séez, France. Canon of the

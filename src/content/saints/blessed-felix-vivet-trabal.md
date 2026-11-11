@@ -1,5 +1,6 @@
 ---
 name: Blessed Fèlix Vivet Trabal
+stub: false
 honorific: Blessed
 summary: >-
   Son of a building contractor. Studied in Rocafort, Barcelona, Spain and Campello, Alicante, Spain. Salesian brother,

@@ -1,5 +1,6 @@
 ---
 name: Saint Lupus of Sens
+stub: false
 honorific: Saint
 summary: >-
   Born to the Burgundian nobility, he was early noted to have a love to Christ and the Church. Nephew of Saint

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/8/82/Notker_der_Stammler.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Robert Thorpe
+stub: false
 honorific: Blessed
 summary: >-
   Began studying at the English College in Rheims, France on 1 March 1583. Ordained in April 1585. Returned to England

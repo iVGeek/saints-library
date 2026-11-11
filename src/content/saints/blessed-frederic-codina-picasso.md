@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Frederic Codina Picasso
+stub: false
 honorific: Blessed
 summary: >-
   Member of the Claretians, professed on 15 August 1904. Ordained a priest on 23 June 1912. Martyred in the Spanish

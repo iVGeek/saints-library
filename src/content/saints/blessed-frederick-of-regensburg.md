@@ -1,5 +1,6 @@
 ---
 name: Blessed Frederick of Regensburg
+stub: false
 honorific: Blessed
 summary: >-
   Born to a poor family. Skilled carpenter. Member of the Augustinians. Worked as a carpenter and wood cutter for his

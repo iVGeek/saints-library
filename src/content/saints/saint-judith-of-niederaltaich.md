@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Judith of Niederaltaich
+stub: false
 honorific: Saint
 summary: >-
   English princess. Niece of Saint Salome of Niederaltaich. Anchoress at Ober Altaich, Bavaria (in modern Germany). The

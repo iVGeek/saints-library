@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Leontius of Autun
+stub: true
 honorific: Saint
 summary: Fifth century bishop of Autun (Augustodunum), Gaul (in modern France).
 searchAliases:

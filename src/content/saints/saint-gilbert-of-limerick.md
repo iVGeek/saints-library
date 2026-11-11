@@ -1,5 +1,6 @@
 ---
 name: Saint Gilbert of Limerick
+stub: false
 honorific: Saint
 summary: >-
   Priest. Worked in Rouen, France from 1103 to 1106. Apostolic delegate to Ireland from the papacy of Pope Paschal II

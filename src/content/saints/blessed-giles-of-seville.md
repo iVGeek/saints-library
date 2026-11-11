@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Giles of Seville
+stub: false
 honorific: Blessed
 summary: >-
   Mercedarian friar sent with Blessed John of the Cross to the Moorish kingdom in Granada, Spain in 1324 to redeem

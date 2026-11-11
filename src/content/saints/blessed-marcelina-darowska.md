@@ -1,5 +1,6 @@
 ---
 name: Blessed Marcelina Darowska
+stub: false
 honorific: Blessed
 summary: >-
   Born to a land-owning Polish family, Marcellina was a pious child with a love of prayer. Though she would have

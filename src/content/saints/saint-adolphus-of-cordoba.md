@@ -1,5 +1,6 @@
 ---
 name: Saint Adolphus of Cordoba
+stub: false
 honorific: Saint
 summary: >-
   Born to a Moorish father and a Christian mother; brother of Saint John of Corboba. Martyred in the persecutions of

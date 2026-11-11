@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Elisabeth Hernden
+stub: true
 honorific: Blessed
 summary: Leader of a group of Franciscan tertiaries in Germany.
 deathYear: 1527

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/b/b9/All_saint.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Athanasius of Attalia
+stub: false
 honorific: Blessed
 summary: >-
   A Christian living in Muslim controlled Smyrna in Turkey, he one day stated “There is no God but God.” Some Muslims

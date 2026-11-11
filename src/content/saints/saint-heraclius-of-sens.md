@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Heraclius of Sens
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Sens, France. Witnessed the baptism of Clovis on 25 December 496. Built the abbey of Saint John the

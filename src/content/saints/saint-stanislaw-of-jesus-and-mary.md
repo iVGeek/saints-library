@@ -1,5 +1,6 @@
 ---
 name: Saint Stanislaw of Jesus and Mary
+stub: false
 honorific: Venerable
 summary: >-
   Youngest of eight children of Tomasz Papczyński, a village blacksmith and bailiff and Zofia Tacikowska. As a boy he

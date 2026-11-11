@@ -1,5 +1,6 @@
 ---
 name: Saint Thecla of Iconium
+stub: false
 honorific: Saint
 summary: >-
   First century convert in Iconium, brought to the faith by the preaching of Saint Paul the Apostle; her family threw

@@ -1,5 +1,6 @@
 ---
 name: Blessed Odette Prévost
+stub: false
 honorific: Blessed
 summary: >-
   Odette qualified as a school teacher in 1950, and worked as a teacher from then till 1953 when she joined the Little

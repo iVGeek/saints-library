@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Success of Carthage
+stub: false
 honorific: Saint
 summary: Bishop in North Africa. Attended the Council of Carthage in 259. Martyred in the persecutions of Decius.
 deathYear: 259

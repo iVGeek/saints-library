@@ -1,5 +1,6 @@
 ---
 name: Blessed Ángel Noguera Gallegos
+stub: false
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/El_Monumento_19_%28i.e.%2C_diez_y_nueve%29_de_abril_%28IA_elmonumento19ied00recu%29.pdf/page1-500px-El_Monumento_19_%28i.e.%2C_diez_y_nueve%29_de_abril_%28IA_elmonumento19ied00recu%29.pdf.jpg
 honorific: Blessed

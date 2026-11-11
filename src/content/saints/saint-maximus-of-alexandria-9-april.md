@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Maximus of Alexandria
+stub: false
 honorific: Saint
 summary: >-
   Priest in Alexandria, Egypt. When Saint Dionysius of Alexandria was exiled in 257, Maximus governed the patriarchate

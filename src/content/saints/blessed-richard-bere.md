@@ -1,5 +1,6 @@
 ---
 name: Blessed Richard Bere
+stub: false
 honorific: Blessed
 summary: >-
   Nephew of Richard Bere, abbot of Glastonbury. Educated at the Glastonbury abbey school and then Oxford. He refused an

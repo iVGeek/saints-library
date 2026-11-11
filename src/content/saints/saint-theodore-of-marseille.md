@@ -1,5 +1,6 @@
 ---
 name: Saint Theodore of Marseille
+stub: false
 honorific: Saint
 summary: >-
   Sixth-century bishop of Marseille, Gaul (in modern France). For trying to establish clerical discipline and control of

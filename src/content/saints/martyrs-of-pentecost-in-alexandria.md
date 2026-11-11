@@ -1,5 +1,6 @@
 ---
 name: Martyrs of Pentecost in Alexandria
+stub: false
 honorific: Saint
 summary: >-
   An unspecified number of Christian clerics and lay people who, on Pentecost in 338, were rounded up by order of the

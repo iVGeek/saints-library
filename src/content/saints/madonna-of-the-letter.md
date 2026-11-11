@@ -1,5 +1,6 @@
 ---
 name: Madonna of the Letter
+stub: false
 honorific: Saint
 title: Virgin
 summary: >-

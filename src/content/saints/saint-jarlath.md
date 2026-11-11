@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Jarlath of Armagh
+stub: false
 honorific: Saint
 summary: >-
   Spiritual student of Saint Patrick. Bishop of Armagh, Ireland. Involved in the monastic expansion and general

@@ -1,5 +1,6 @@
 ---
 name: Blessed Rudolph Aquaviva
+stub: false
 honorific: Blessed
 summary: >-
   Fifth child of the Duke of Atri. Nephew of Claudius Acquaviva, 5th General of the Jesuits. Cousin of Saint Aloysius

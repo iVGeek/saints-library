@@ -1,5 +1,6 @@
 ---
 name: Venerable Albertina Violi Zirondoli
+stub: false
 honorific: Venerable
 summary: >-
   Born to a pious middle class family, Albertina earned a master's degree from a teacher's college in Modena, Italy in

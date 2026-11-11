@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Flos of Catania
+stub: true
 honorific: Saint
 summary: One of a group early martyrs. No other information has survived.
 died: Catania, Sicily, date unknown

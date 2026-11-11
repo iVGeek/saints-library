@@ -1,5 +1,6 @@
 ---
 name: Saint Adalbero of Augsburg
+stub: false
 honorific: Saint
 title: Bishop
 summary: >-

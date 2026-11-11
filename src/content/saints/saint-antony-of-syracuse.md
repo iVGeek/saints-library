@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Antony of Syracuse
+stub: false
 honorific: Saint
 summary: >-
   Deported from Syracuse, Sicily by invading Saracens and sent to North Africa where he was tortured and executed for

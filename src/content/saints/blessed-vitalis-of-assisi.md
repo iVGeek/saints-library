@@ -1,5 +1,6 @@
 ---
 name: Blessed Vitalis of Assisi
+stub: false
 honorific: Blessed
 summary: >-
   Following a wild and mis-spent youth, Vitalis had a conversion and sought to do penance first by going on pilgrimage

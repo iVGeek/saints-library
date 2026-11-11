@@ -1,5 +1,6 @@
 ---
 name: Blessed Sebastian Valfrè
+stub: false
 honorific: Blessed
 summary: >-
   Born to a poor family, he struggled for years to work his way through schools, finally graduating from the University

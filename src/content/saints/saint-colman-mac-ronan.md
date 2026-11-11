@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Colman mac Rónán
+stub: true
 honorific: Saint
 summary: Irish bishop.
 searchAliases:

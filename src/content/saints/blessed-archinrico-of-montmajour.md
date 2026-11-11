@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Archinrico of Montmajour
+stub: false
 honorific: Blessed
 summary: >-
   Monk and abbot in the late 10th and early 11th centuries. He is mentioned in some documents, but little about the man

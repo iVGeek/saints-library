@@ -1,5 +1,6 @@
 ---
 name: Saint Guillermo de Peñacorada
+stub: false
 honorific: Saint
 summary: >-
   Benedictine monk in Sahagún, León, Spain. He and his brother monks fled from there ahead of invading Saracens, and

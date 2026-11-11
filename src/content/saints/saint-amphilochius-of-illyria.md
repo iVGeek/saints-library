@@ -1,5 +1,6 @@
 ---
 name: Saint Amphilochius of Illyria
+stub: true
 honorific: Saint
 summary: Military captain. Martyred in the persecutions of Hadrian.
 deathYear: 121

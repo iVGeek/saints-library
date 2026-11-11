@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Frameilde
+stub: false
 honorific: Saint
 summary: >-
   Born to a noble Alemannic family. Married to Count Badefrid, an official in the court of King Dagobert, in an

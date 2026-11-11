@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Folcuino of Therouanne
+stub: true
 honorific: Saint
 summary: Bishop in the area of Thérouanne, northern France for 39 years.
 searchAliases:

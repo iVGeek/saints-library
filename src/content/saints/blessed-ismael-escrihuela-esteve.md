@@ -1,5 +1,6 @@
 ---
 name: Blessed Ismael Escrihuela Esteve
+stub: false
 honorific: Blessed
 summary: >-
   Layman in the archdiocese of Valencia, Spain. Married to Josefa Grau, and the father of three. Member of Catholic

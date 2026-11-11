@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Wulganus
+stub: false
 honorific: Saint
 summary: >-
   Emigrant of France. Evangelized in the area of Atrebati, France. Hermit at Arras, France under the direction Saint

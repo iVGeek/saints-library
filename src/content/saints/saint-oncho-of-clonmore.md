@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Oncho of Clonmore
+stub: false
 honorific: Saint
 summary: >-
   Poet and pilgrim who roamed the memorials and shrines of Ireland, collecting and preserving information about and

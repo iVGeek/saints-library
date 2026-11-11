@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/e/ea/Saint_Augustine_by_Philippe_de_Champaigne.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Marianus Scotus
+stub: false
 honorific: Blessed
 summary: >-
   Pilgrim to Rome, Italy in 1067, but he never made it. As he passed through Michaelsberg, Germany, he was asked to help

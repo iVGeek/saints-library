@@ -1,5 +1,6 @@
 ---
 name: Saint Ethbin
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility. Spiritual student of Saint Samson of York in Brittany, France. Deacon. Served at the monastery

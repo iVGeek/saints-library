@@ -1,5 +1,6 @@
 ---
 name: Saint John de Brébeuf
+stub: false
 honorific: Saint
 title: St. John de Brébeuf
 summary: >-

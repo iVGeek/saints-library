@@ -1,5 +1,6 @@
 ---
 name: Saint Rene Goupil
+stub: false
 honorific: Saint
 title: St. Rene Goupil
 summary: >-

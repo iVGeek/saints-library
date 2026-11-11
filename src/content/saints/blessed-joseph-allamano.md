@@ -1,5 +1,6 @@
 ---
 name: Blessed Joseph Allamano
+stub: false
 honorific: Blessed
 summary: >-
   Fourth of five children; nephew of Saint John Cafasso. His father died when Joseph was three years old. Studied at the

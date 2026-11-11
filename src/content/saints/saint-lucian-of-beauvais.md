@@ -1,5 +1,6 @@
 ---
 name: Saint Lucian of Beauvais
+stub: false
 honorific: Saint
 summary: >-
   Priest. Missionary from Rome, Italy to Beauvais, France. Worked with Saint Piaton. Martyred with Saint Julian of

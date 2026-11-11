@@ -1,5 +1,6 @@
 ---
 name: Saint Boniface of Tarsus
+stub: false
 honorific: Saint
 summary: >-
   Steward to Saint Alexius. Travelled from Rome, Italy to Tarsus, Cilicia (in modern Turkey) to recover the bodies of

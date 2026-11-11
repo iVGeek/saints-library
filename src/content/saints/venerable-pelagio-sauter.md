@@ -1,5 +1,6 @@
 ---
 name: Venerable Pelágio Sauter
+stub: false
 honorific: Venerable
 summary: >-
   One of 15 children. Redemptorist priest, ordained in 1907. Missionary to Brazil in 1909 where he worked for the next

@@ -1,5 +1,6 @@
 ---
 name: Saint Eudocia of Heliopolis
+stub: false
 honorific: Saint
 summary: >-
   Courtesan who led a dissolute youth. She converted, and led a life of great penance to make up for her early

@@ -1,5 +1,6 @@
 ---
 name: Saint Aureus of Mainz
+stub: false
 honorific: Saint
 summary: >-
   Brother of Saint Justina of Mainz. Bishop of Mainz, Germany. When the Huns attacked Mainz, Aureus fled briefly into

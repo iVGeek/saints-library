@@ -1,5 +1,6 @@
 ---
 name: Blessed Gertrudis Rita Florència Surís Brusola
+stub: false
 honorific: Blessed
 summary: >-
   The daughter of Gerardo and Caridad, Gertrudis was orphaned at an early age. After studying at the Normal School in

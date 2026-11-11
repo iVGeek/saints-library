@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/4e/Acre_-_Akko_6_-_the_fishing_port_%286658890981%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Zaira
+stub: true
 honorific: Saint
 summary: Martyred by Moors.
 died: 10th century Spain

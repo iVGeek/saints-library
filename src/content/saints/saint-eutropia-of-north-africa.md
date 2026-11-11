@@ -1,5 +1,6 @@
 ---
 name: Saint Eutropia of North Africa
+stub: true
 honorific: Saint
 summary: Martyred in the persecutions of Valerian.
 deathYear: 253

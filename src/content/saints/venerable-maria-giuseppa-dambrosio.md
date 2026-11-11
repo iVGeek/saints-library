@@ -1,5 +1,6 @@
 ---
 name: Venerable Maria Giuseppa d'Ambrosio
+stub: false
 honorific: Venerable
 summary: >-
   Lay woman member of the Franciscan Third Order of Saint Peter of Alcantara in the archdiocese of Naples, Italy. Much

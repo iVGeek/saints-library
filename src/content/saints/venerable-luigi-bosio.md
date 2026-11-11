@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Venerable Luigi Bosio
+stub: true
 honorific: Venerable
 summary: Priest of the diocese of Verona, Italy.
 birthYear: 1909

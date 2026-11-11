@@ -1,6 +1,7 @@
 ---
 image: https://www.catholic.org/files/images/saints/541.jpg
 name: Saint Daria
+stub: true
 honorific: Saint
 summary: Mother of Saint Ursula.
 feastDay:

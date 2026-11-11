@@ -1,5 +1,6 @@
 ---
 name: Blessed Ingrid of Sweden
+stub: false
 honorific: Blessed
 summary: >-
   Born to the Swedish nobility, Ingrid was well educated, and was known from her youth as a pious girl. Given in an

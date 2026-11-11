@@ -1,5 +1,6 @@
 ---
 name: Saint Giuseppe Cafasso
+stub: false
 honorific: Venerable
 summary: >-
   Born with a deformed spine, and into a wealthy peasant family; he was short in stature and crippled throughout his

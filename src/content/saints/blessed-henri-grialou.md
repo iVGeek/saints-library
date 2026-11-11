@@ -1,5 +1,6 @@
 ---
 name: Blessed Henri Grialou
+stub: false
 honorific: Blessed
 summary: >-
   Son of Auguste Grialou and Marie Miral; his father died of pneumoniaStudied in Graves and Rodez in France; during his

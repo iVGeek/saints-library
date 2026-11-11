@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Wilicarius of Vienne
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Vienne, France. Went into exile to Rome, Italy, c.752 due to Frankish persecution. Retired from his see to

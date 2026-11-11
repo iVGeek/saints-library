@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Concessa of Carthage
+stub: true
 honorific: Saint
 summary: Martyr venerated in Carthage, North Africa.
 region: England

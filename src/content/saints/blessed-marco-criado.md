@@ -1,5 +1,6 @@
 ---
 name: Blessed Marco Criado
+stub: false
 honorific: Blessed
 summary: >-
   Known as a clever and intelligent youth. Joined the Trinitarians in 1536. Studied in Andujar, Spain. Priest. Preacher

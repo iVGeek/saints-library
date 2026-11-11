@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/2/2a/40_Innocenzo_V%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Pierre I of Tarantasia
+stub: false
 honorific: Blessed
 summary: >-
   Pietro was one of the first Cistercian monks. Friend of Saint Stephen Harding, Saint Robert of Molesme, and Saint

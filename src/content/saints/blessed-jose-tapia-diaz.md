@@ -1,6 +1,7 @@
 ---
 image: https://www.santiebeati.it/immagini/Thumbs/97200/97200.JPG
 name: Blessed José Tapia Díaz de Villachica
+stub: false
 honorific: Blessed
 summary: >-
   Young layman in the diocese of Almería, Spain, he was the son of merchants and early began working as a clerk to learn

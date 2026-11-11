@@ -1,5 +1,6 @@
 ---
 name: Blessed Alojzije Viktor Stepinac
+stub: false
 honorific: Blessed
 summary: >-
   Raised in the large Catholic Croatian family of Josip and Barbara (nee Penic) Stepinac. Graduated high school on 28

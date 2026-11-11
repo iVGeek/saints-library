@@ -1,5 +1,6 @@
 ---
 name: Blessed John Munden
+stub: false
 honorific: Blessed
 summary: >-
   Studied at New College, Oxford. Teacher and schoolmaster. Studied for the priesthood at Rheims, France, and Rome,

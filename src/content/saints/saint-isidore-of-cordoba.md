@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Isidore of Cordoba
+stub: false
 honorific: Saint
 summary: >-
   Spiritual student of Saint Elias of Cordoba. Martyr. Saint Eulogius of Cordoba witnessed the murder and wrote an

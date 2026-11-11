@@ -1,5 +1,6 @@
 ---
 name: Blessed Donizetti Tavares de Lima
+stub: false
 honorific: Blessed
 summary: >-
   One of nine boys born to Tristão and Francisca Cândida Tavares de Lima; his father was a lawyer, his mother a

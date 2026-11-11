@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/9/91/Nuremberg_chronicles_f_145v_4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Palladius of Ireland
+stub: false
 honorific: Saint
 summary: >-
   Born to an ancient Gallo-Roman family. Deacon in Rome. Dispatched Saint Germanus of Auxerre to Britain in 429 to fight

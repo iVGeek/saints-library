@@ -1,5 +1,6 @@
 ---
 name: Martyrs of Cappadocia
+stub: false
 honorific: Saint
 summary: >-
   A group of Christians tortured and martyred in the persecutions of Diocletian and Galerius. Their names and the

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Peter of Atroa
+stub: false
 honorific: Saint
 summary: >-
   Eldest of three children. Following a message from the Blessed Virgin, he became the spiritual student of Saint Paul

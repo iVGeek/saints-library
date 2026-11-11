@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Jucundus of Rheims
+stub: true
 honorific: Saint
 summary: Lector. Martyred in the barbarian invasion of Rheims, France.
 deathYear: 451

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Rufinus of Capua
+stub: true
 honorific: Saint
 summary: Fifth-century bishop of Capua, Italy.
 died: relics enshrined in the cathedral of Capua, Italy

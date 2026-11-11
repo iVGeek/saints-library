@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/6/67/TorreroB%C3%A9jar_Baltasar_foto2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 name: Blessed Baltasar Torrero Béjar
+stub: true
 honorific: Blessed
 summary: Layman in the diocese of Córdoba, Spain. Martyred in the Spanish Civil War.
 birthYear: 1865

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Bohtiso of Persia
+stub: false
 honorific: Saint
 summary: >-
   Tortured, mutilated, imprisoned, starved and finally executed for refusing to worship the sun and fire during the

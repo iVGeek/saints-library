@@ -1,6 +1,7 @@
 ---
 image: https://www.santiebeati.it/immagini/Thumbs/100697/100697.JPG
 name: Blessed Antonio Gaitán Perabad
+stub: false
 honorific: Blessed
 summary: A teenaged boy in the diocese of Córdoba, Spain. Martyred in the Spanish Civil War.
 birthYear: 1920

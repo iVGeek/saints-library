@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/5/5c/MortainVitalis.gif?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed William of Savigny
+stub: false
 honorific: Blessed
 summary: >-
   Novice in Savigny Abbey in the early 12th century. We have no details of his life, but we do know that the monks of

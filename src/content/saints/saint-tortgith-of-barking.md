@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Tortgith of Barking
+stub: false
 honorific: Saint
 summary: >-
   Benedictine nun at the abbey of Barking, England. Novice-mistress during the time when Saint Ethelburga was her

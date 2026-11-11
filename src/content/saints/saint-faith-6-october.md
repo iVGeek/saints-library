@@ -1,5 +1,6 @@
 ---
 name: Saint Faith of Agen
+stub: false
 honorific: Saint
 summary: >-
   Reported to have been an exquisitely beautiful woman, utterly indifferent to the world who had dedicated herself to

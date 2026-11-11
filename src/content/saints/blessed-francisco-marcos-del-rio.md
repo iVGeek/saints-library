@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/a/a2/San_H%C3%A9ctor_Valdivielso_S%C3%A1ez.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Francisco Marcos Del Río
+stub: true
 honorific: Blessed
 summary: Augustinian priest. Martyred in the Spanish Civil War.
 birthYear: 1874

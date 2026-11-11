@@ -1,5 +1,6 @@
 ---
 name: Saint Antipas of Pergamon
+stub: false
 honorific: Saint
 summary: >-
   Spiritual student of Saint John the Apostle. Bishop of Pergamum during the persecutions of emperor Domitian. Martyr.

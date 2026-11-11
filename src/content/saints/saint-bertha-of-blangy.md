@@ -1,5 +1,6 @@
 ---
 name: Saint Bertha of Blangy
+stub: false
 honorific: Saint
 summary: >-
   Daughter of Count Rigobertus and Ursanna, daughter of the king of Kent, England. Married a noble named Siegfried, a

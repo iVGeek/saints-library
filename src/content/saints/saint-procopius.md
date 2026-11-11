@@ -1,5 +1,6 @@
 ---
 name: Saint Procopius
+stub: false
 honorific: Saint
 summary: >-
   Born to a Christian family in recently converted Bohemia. Eastern Rite priest c.1003. Monk in the area of modern

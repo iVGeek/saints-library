@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/6/66/Valerian00579obverse.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Montanus of Carthage
+stub: false
 honorific: Saint
 summary: >-
   Disciple of Saint Cyprian of Carthage. When revolt erupted in Carthage in 259, during a period of persecution by

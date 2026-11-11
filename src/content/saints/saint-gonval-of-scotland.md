@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Gonval of Scotland
+stub: false
 honorific: Saint
 summary: >-
   King an area of Scotland, noted for his personal piety, his promotion of the faith, and his refusal to use his civil

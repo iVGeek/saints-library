@@ -1,5 +1,6 @@
 ---
 name: Saint Bellinus of Padua
+stub: false
 honorific: Saint
 summary: >-
   Priest. During a period of turmoil in his diocese, Bellinus stayed loyal to the bishop appointed by the legitimate

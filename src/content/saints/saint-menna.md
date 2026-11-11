@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Menna
+stub: true
 honorific: Saint
 summary: Relative of Saint Eucherius and Saint Elaptius. Nun.
 searchAliases:

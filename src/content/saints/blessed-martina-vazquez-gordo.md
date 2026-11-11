@@ -1,5 +1,6 @@
 ---
 name: Blessed Martina Vázquez Gordo
+stub: false
 honorific: Blessed
 summary: >-
   One of eight children born to Zacarías and Antonia, owners of a pastry shop, Martina was known to be an intelligent,

@@ -1,5 +1,6 @@
 ---
 name: Blessed Josefa Joaquina Lecuona Aramburu
+stub: true
 honorific: Blessed
 summary: Member of the Visitation Nuns. Martyred in the Spanish Civil War.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Josefa-Joaquina-Lecuona-Aramburu.jpg

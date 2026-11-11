@@ -1,5 +1,6 @@
 ---
 name: Saint Fursey of Péronne
+stub: false
 honorific: Saint
 summary: >-
   Son of an Irish prince. Related to Saint Foillan and Saint Ultan of Péronne. Educated by Saint Brendan the Voyager.

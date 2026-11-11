@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/0/01/Blessed_Richard_Whiting_of_Glastonbury.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Roger James
+stub: false
 honorific: Blessed
 summary: >-
   Sub-treasurer of, sacristan for and the youngest Benedictine monk in Glastonbury Abbey. Arrested for refusing to

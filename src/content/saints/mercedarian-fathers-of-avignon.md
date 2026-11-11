@@ -1,5 +1,6 @@
 ---
 name: Mercedarian Fathers of Avignon
+stub: false
 honorific: Saint
 summary: >-
   Several Mercedarians from the Santa Maria convent of Avignon, France who worked with plague victims in that city, and

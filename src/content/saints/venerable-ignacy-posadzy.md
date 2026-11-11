@@ -1,5 +1,6 @@
 ---
 name: Venerable Ignacy Posadzy
+stub: false
 honorific: Venerable
 summary: >-
   Ordained a priest on 19 February 1921. He developed a ministry to Polish migrants in the period between the world

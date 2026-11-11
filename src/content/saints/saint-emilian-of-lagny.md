@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Emilian of Lagny
+stub: true
 honorific: Saint
 summary: Benedictine monk. Monk and then abbot at Lagny, France.
 searchAliases:

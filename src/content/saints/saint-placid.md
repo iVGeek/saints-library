@@ -1,5 +1,6 @@
 ---
 name: Saint Placid
+stub: false
 honorific: Saint
 summary: >-
   Son of a patrician senator named Tertulus. Sent as a boy to study with Saint Benedict of Nursia at Subiaco, Italy, he

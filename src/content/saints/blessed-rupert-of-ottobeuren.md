@@ -1,5 +1,6 @@
 ---
 name: Blessed Rupert of Ottobeuren
+stub: false
 honorific: Blessed
 summary: >-
   Benedictine monk. Abbot of the run down abbey of Ottobeuren. Under his leadership, the house had a resurgence, and

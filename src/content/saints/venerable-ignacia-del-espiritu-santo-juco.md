@@ -1,5 +1,6 @@
 ---
 name: Venerable Ignacia del Espiritu Santo Juco
+stub: false
 honorific: Venerable
 summary: >-
   The eldest child of Jusepe Iuco, a Chinese convert to Christianity, and Maria Jeronima; Ignacia was the only one of

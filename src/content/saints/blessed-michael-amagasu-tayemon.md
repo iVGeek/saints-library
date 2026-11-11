@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Michaël Amagasu Tayemon
+stub: false
 honorific: Blessed
 summary: >-
   Layman in the diocese of Niigata, Japan. Son of Blessed Ludovicus Amagasu Uemon. Married to Blessed Dominica Amagasu

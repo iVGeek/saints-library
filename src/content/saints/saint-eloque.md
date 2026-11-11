@@ -1,5 +1,6 @@
 ---
 name: Saint Eloque
+stub: false
 honorific: Saint
 summary: Benedictine monk in Lagny, France. Spiritual student of Saint Fursey of Peronne. Abbot of the Lagny monastery.
 searchAliases:

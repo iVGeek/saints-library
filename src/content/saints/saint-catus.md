@@ -1,5 +1,6 @@
 ---
 name: Saint Catus
+stub: true
 honorific: Saint
 summary: Second century martyr. No other information has survived.
 died: in Numidia

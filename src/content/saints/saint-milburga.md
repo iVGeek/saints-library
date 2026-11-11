@@ -1,5 +1,6 @@
 ---
 name: Saint Milburga
+stub: false
 honorific: Saint
 summary: >-
   Daughter of Merewalh, King of Mercia, and Saint Ermenburga. Sister of Saint Mildred and Saint Mildgytha. Took the veil

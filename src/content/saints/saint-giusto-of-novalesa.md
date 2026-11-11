@@ -1,5 +1,6 @@
 ---
 name: Saint Giusto of Novalesa
+stub: true
 honorific: Saint
 summary: Monk of Novalesa Abbey. Martyred by Saracen raiders.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Giusto-of-Novalesa.jpg

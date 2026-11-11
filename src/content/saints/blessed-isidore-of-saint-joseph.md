@@ -1,5 +1,6 @@
 ---
 name: Blessed Isidore of Saint Joseph
+stub: false
 honorific: Blessed
 summary: >-
   Oldest of three children born to a pious farm family, and loved working the fields. Passionist lay brother, entering

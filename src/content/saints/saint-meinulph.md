@@ -1,5 +1,6 @@
 ---
 name: Saint Meinulph
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility; his godfather was Charlemagne. Educated at the cathedral school of Paderborn, Germany.

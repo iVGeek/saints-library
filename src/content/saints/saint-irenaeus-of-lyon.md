@@ -1,5 +1,6 @@
 ---
 name: Saint Irenaeus of Lyons
+stub: false
 honorific: Saint
 title: St. Irenaeus of Lyons
 summary: >-

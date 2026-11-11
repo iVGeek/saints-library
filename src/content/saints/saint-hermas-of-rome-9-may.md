@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Hermas of Rome
+stub: false
 honorific: Saint
 summary: First century Roman mentioned in Saint Paul's Epistle to the Romans. Bishop of Philippi. Martyr.
 searchAliases:

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Eusebius of Terracina
+stub: true
 honorific: Saint
 summary: Martyr. No other information has survived.
 died: 1st century in Terracina, Italy

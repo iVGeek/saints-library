@@ -1,5 +1,6 @@
 ---
 name: Blessed Franciscus Yi Bo-hyeon
+stub: true
 honorific: Blessed
 summary: Layman convert, martyred by the police in the apostolic vicariate of Korea.
 image: https://catholicsaints.info/wp-content/uploads/img-Maryrs-of-Korea.jpg

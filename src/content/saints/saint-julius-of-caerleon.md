@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Julius of Caerleon
+stub: true
 honorific: Saint
 summary: Martyred with several companions. No other information has survived.
 deathYear: 305

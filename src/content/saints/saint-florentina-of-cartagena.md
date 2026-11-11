@@ -1,5 +1,6 @@
 ---
 name: Saint Florentina of Cartagena
+stub: false
 honorific: Saint
 summary: >-
   Sister of Saint Leander of Seville, Saint Fulgentius of Ecija and Saint Isidore of Seville. Orphaned young and raised

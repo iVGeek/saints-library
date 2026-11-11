@@ -1,5 +1,6 @@
 ---
 name: Saint Manuel González García
+stub: false
 honorific: Venerable
 summary: >-
   Fourth of five boys in his family; his father was a carpenter. Manuel was very active in his parish church, sang in

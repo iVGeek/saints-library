@@ -1,6 +1,7 @@
 ---
 image: https://www.santiebeati.it/immagini/Thumbs/100176/100176.jpg
 name: Saint Fathna
+stub: true
 honorific: Saint
 title: Bishop
 summary: Bishop.

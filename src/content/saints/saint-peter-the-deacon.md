@@ -1,5 +1,6 @@
 ---
 name: Saint Peter the Deacon
+stub: false
 honorific: Saint
 summary: >-
   Benedictine monk, sub-deacon in Sicily, deacon in Rome. Friend, spiritual student and secretary to Pope Saint Gregory

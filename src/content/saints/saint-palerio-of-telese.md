@@ -1,5 +1,6 @@
 ---
 name: Saint Palerio of Telese
+stub: true
 honorific: Saint
 summary: Bishop of Telese, Italy. Saint Equizio of Telese served as his deacon.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Palerio-of-Telese.jpg

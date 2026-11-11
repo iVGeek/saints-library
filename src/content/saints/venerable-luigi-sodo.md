@@ -1,5 +1,6 @@
 ---
 name: Venerable Luigi Sodo
+stub: false
 honorific: Venerable
 summary: >-
   Ordained a priest on 20 December 1834, he continued his education and earned a degree in theology at the Royal

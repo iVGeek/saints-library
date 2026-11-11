@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Ebbo of Sens
+stub: false
 honorific: Saint
 summary: >-
   Monk of Saint-Pierre-le-Vif Abbey in Sens, France. Bishop of Sens. Held his flock together and helped them survive a

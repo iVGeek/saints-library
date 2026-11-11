@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Leontius of Lydda
+stub: false
 honorific: Saint
 summary: >-
   Convert to Christianity after seeing the courage and faith of Saint George. Martyred for that conversion on the day

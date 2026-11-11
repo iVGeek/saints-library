@@ -1,5 +1,6 @@
 ---
 name: Saint Rosa Zhao
+stub: false
 honorific: Venerable
 summary: >-
   Young lay catechist in the apostolic vicariate of Southeastern Zhili, China. Daughter of Saint Maria Zhao Guoshi;

@@ -1,5 +1,6 @@
 ---
 name: Saint Felix of Ravenna
+stub: true
 honorific: Saint
 summary: Martyr.
 died: Ravenna, Italy, date unknown

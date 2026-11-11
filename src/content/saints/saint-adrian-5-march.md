@@ -1,5 +1,6 @@
 ---
 name: Saint Adrian of Caesarea
+stub: false
 honorific: Saint
 summary: >-
   Travelled from Batanaea to Caesarea in Palestine to visit and minister to the Christians there. Martyred with Saint

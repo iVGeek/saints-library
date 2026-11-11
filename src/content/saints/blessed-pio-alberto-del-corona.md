@@ -1,5 +1,6 @@
 ---
 name: Blessed Pio Alberto del Corona
+stub: false
 honorific: Blessed
 summary: >-
   Joined the Dominicans on 3 November 1859. Priest, ordained on 5 February 1860. Titular bishop of Draso and co-adjutor

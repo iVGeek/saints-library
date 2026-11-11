@@ -1,5 +1,6 @@
 ---
 name: Saint Judas Cyriacus
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Ancona, Italy, possibly the first. Martyred in the persecutions of Julian the Apostate, possibly while on a

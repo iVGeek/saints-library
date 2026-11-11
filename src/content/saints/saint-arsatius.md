@@ -1,5 +1,6 @@
 ---
 name: Saint Arsatius
+stub: false
 honorific: Saint
 summary: >-
   May have been a spiritual student of Saint Ambrose of Milan; may have been a bishop of Milan, Italy; may have served

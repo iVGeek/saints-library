@@ -1,5 +1,6 @@
 ---
 name: Blessed Mary Frances Schervier
+stub: false
 honorific: Blessed
 summary: >-
   Daughter of Johann Heinrich Schervier, a wealthy needle-factory owner and vice-mayor of Aachen, Germany, and Maria

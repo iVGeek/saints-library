@@ -1,5 +1,6 @@
 ---
 name: Saint Basil the Great
+stub: false
 honorific: Saint
 title: St. Basil the Great
 summary: >-

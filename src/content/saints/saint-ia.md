@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Ia
+stub: false
 honorific: Saint
 summary: >-
   Sister of Saint Ercus (Euny). Spiritual student of Saint Baricus. Missionary to Cornwall with Saint Fingar, Saint

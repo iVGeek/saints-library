@@ -1,5 +1,6 @@
 ---
 name: Blessed John Colombini
+stub: false
 honorific: Blessed
 summary: >-
   Wealthy, greedy, ambitious, and ill-tempered son of a patrician family. Married layman, and father of two children,

@@ -1,5 +1,6 @@
 ---
 name: Saint Radbod of Utrecht
+stub: false
 honorific: Saint
 summary: >-
   Grandson of the last pagan king of the Frisons of the Netherlands. Raised by his uncle Gunther, bishop of Cologne,

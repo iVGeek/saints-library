@@ -1,5 +1,6 @@
 ---
 name: Blessed Enrico Comentina
+stub: false
 honorific: Blessed
 summary: >-
   Born to the nobility. Papal auditor. Bishop of Negroponte. Papal legate in Asia Minor where he worked for the union of

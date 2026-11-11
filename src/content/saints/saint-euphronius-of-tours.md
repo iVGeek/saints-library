@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Euphronius of Tours
+stub: false
 honorific: Saint
 summary: >-
   Born to a senatorial family, and known as a pious youth. Bishop of Tours, Neustria (in modern France) in 3rd Council

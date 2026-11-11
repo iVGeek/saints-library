@@ -1,5 +1,6 @@
 ---
 name: Blessed Joseph Boissel
+stub: false
 honorific: Blessed
 summary: >-
   Born to a poor peasant family, Joseph was baptized on the day of his birth. His father died when the boy was 14.

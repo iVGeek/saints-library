@@ -1,5 +1,6 @@
 ---
 name: Saint Aedesius of Ethiopia
+stub: false
 honorific: Saint
 summary: >-
   Brother of Saint Frumentius, he became a missionary to Ethiopia with him in the early 4th century. He served as

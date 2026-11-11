@@ -1,5 +1,6 @@
 ---
 name: Saint Maura of Antinoe
+stub: false
 honorific: Saint
 summary: >-
   Lay woman. Married to Saint Timothy of Antinoe. About twenty days into the marriage, and in the middle of the

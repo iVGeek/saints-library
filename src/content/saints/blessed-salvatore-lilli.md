@@ -1,5 +1,6 @@
 ---
 name: Blessed Salvatore Lilli
+stub: false
 honorific: Blessed
 summary: >-
   Son of Vincenzo and Annunziata Lilli. Joined the Franciscans in 1870, making his vows on 6 August 1871. Studied at the

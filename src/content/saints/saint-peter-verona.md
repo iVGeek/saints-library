@@ -1,5 +1,6 @@
 ---
 name: Saint Peter Verona
+stub: false
 honorific: Saint
 summary: >-
   Son of Catharist heretics. Educated in a Catholic school and at the University of Bologna, Italy. Embraced orthodox

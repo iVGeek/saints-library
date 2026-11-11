@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/5/53/1899._Tzarevich_Dmitry_by_M._Nesterov.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Cristóbal Pérez Pascual
+stub: false
 honorific: Blessed
 summary: >-
   Married layman in the archdiocese of Seville, Spain. In 1923 he opened a pharmacy in Cazalla de la Sierra; in addition

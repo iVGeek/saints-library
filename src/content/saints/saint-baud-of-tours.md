@@ -1,5 +1,6 @@
 ---
 name: Saint Baud of Tours
+stub: true
 honorific: Saint
 title: Bishop
 summary: Sixth century bishop of Tours, France, noted for his alms-giving.

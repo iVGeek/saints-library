@@ -1,5 +1,6 @@
 ---
 name: Blessed Guadalupe Ortiz de Landázuri Fernández de Heredia
+stub: false
 honorific: Blessed
 summary: >-
   Youngest of four children born to Manuel Ortiz de Landázuri, a career army officer, and Eulogia Fernández-Heredia; one

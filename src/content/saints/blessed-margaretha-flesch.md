@@ -1,5 +1,6 @@
 ---
 name: Blessed Margaretha Flesch
+stub: false
 honorific: Blessed
 summary: >-
   Daughter of an oil-seed miller, the oldest of seven children. When her parents died, Margaretha worked as a day

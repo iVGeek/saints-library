@@ -1,5 +1,6 @@
 ---
 name: Saint Buo of Ireland
+stub: true
 image: https://commons.wikimedia.org/wiki/Special:FilePath/Great_Britain_Snowy.jpg?width=600
 honorific: Saint
 summary: Monk. Missionary to the Norwegians on Iceland and the Faroe Islands.

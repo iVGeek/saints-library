@@ -1,5 +1,6 @@
 ---
 name: Saint Peter Ou
+stub: false
 honorific: Saint
 summary: >-
   Born to a non-Christian family. Known from his youth for his sense of justice, his quick defense of the poor and

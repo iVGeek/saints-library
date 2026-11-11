@@ -1,5 +1,6 @@
 ---
 name: Saint Evermod of Ratzeburg
+stub: false
 honorific: Saint
 summary: Priest. Evangelized with Saint Norbert. Abbot of Gottesgnaden and Magdeburg. Bishop of Ratzeburg, Germany.
 searchAliases:

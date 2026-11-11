@@ -1,5 +1,6 @@
 ---
 name: Blessed Joaquín Puente González
+stub: false
 honorific: Blessed
 summary: >-
   Baptized at the age of three days; confirmed on 13 October 1922. Like his brother before him, he joined the

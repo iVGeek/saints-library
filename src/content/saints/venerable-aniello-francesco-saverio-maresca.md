@@ -1,5 +1,6 @@
 ---
 name: Venerable Aniello Francesco Saverio Maresca
+stub: false
 honorific: Venerable
 summary: >-
   One of five children born to Pasquale Mariano Esposito and Rosa Maria Aversa, Aniello was baptized on the day he was

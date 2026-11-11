@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Plautilla of Rome
+stub: false
 honorific: Saint
 summary: >-
   Married to a former imperial proconsul. Mother of Flavia Domitilla of Terracina. An adult convert, tradition says she

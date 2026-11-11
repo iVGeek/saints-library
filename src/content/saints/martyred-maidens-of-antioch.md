@@ -1,5 +1,6 @@
 ---
 name: Martyred Maidens of Antioch
+stub: false
 honorific: Saint
 summary: A group of forty virgins martyred in the persecutions of Decius. None of their names have come down to us.
 deathYear: 250

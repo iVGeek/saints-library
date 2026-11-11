@@ -1,5 +1,6 @@
 ---
 name: Patrick of Ireland
+stub: false
 honorific: Saint
 title: Bishop, Apostle of Ireland
 summary: >-

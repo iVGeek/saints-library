@@ -1,5 +1,6 @@
 ---
 name: Saint Firmus
+stub: false
 honorific: Saint
 summary: Scourged and executed in the persecutions of Emperor Maximian Herculeus. Martyr.
 deathYear: 290

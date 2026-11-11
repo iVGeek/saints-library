@@ -1,5 +1,6 @@
 ---
 name: Saint Felix of Como
+stub: false
 honorific: Saint
 summary: Friend of Saint Ambrose of Milan. Worked with Saint Probinus of Como. First bishop of Como, Italy.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Felix-of-Como.jpg

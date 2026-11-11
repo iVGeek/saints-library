@@ -1,5 +1,6 @@
 ---
 name: Saint Austrebertha of Pavilly
+stub: false
 honorific: Saint
 summary: >-
   Daughter of Saint Framechildis and the Count Badefrid. Her parents arranged a marriage for her for political reasons,

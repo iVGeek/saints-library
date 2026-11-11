@@ -1,5 +1,6 @@
 ---
 name: Saint Phanurius
+stub: false
 honorific: Saint
 summary: >-
   Soldier. Martyr. No other reliable information has survived. An apparition of Phanurius was reported on the island of

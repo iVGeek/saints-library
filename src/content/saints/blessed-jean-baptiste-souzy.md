@@ -1,5 +1,6 @@
 ---
 name: Blessed Jean-Baptiste Souzy
+stub: false
 honorific: Blessed
 summary: >-
   Priest in the diocese of La Rochelle, France. Imprisoned on a ship in the harbor of Rochefort, France and left to die

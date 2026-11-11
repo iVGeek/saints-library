@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Theogenes of Cyzicus
+stub: false
 honorific: Saint
 summary: >-
   Priest. Bishop of Parios, Asia Minor. Ordered to join the imperial Roman army during the reign of emperor Licinius, he

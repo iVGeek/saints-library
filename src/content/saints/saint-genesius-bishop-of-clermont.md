@@ -1,5 +1,6 @@
 ---
 name: Saint Genesius, Bishop of Clermont
+stub: false
 honorific: Saint
 summary: >-
   Descendant of a senatorial family of Auvergne, France. Following a liberal education, he renounced the world for the

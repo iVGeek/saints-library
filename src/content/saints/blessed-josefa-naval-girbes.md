@@ -1,5 +1,6 @@
 ---
 name: Blessed Josefa Naval Girbes
+stub: false
 honorific: Blessed
 summary: >-
   Consecrated herself by a personal perpetual vow of chastity when a young woman. Very active in her parish life. Opened

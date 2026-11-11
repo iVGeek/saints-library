@@ -1,5 +1,6 @@
 ---
 name: Blessed María Purificación Gómez Vives
+stub: false
 honorific: Blessed
 summary: >-
   Professed religious in the Sisters of the Christian Doctrine, joining in 1906, serving as a teacher, and was noted for

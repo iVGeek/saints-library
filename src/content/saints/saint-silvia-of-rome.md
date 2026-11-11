@@ -1,5 +1,6 @@
 ---
 name: Saint Silvia of Rome
+stub: false
 honorific: Saint
 summary: >-
   Sister of Saint Tarsilla. Married to Gordianus, a Roman regionarius. Mother of two sons, one of which was Pope Saint

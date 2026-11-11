@@ -1,5 +1,6 @@
 ---
 name: Blessed Giuseppe Giaccardo
+stub: false
 honorific: Blessed
 summary: >-
   Oldest of five children born to farm workers Stefano and Maria Cagna; his mother was devoted to Our Lady of the

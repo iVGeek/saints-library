@@ -1,5 +1,6 @@
 ---
 name: Venerable Alessandra Ghilardi
+stub: false
 honorific: Venerable
 summary: >-
   While working at a nursing home, she met and came to admire the Sisters of the Poor, Palazzolo Institute, and joined

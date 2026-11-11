@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Cassius of Narni
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Narni, Italy. Known to have given away all his possessions and wealth to the poor. Made a yearly pilgrimage

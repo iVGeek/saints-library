@@ -1,5 +1,6 @@
 ---
 name: Martyrs of Constantinople
+stub: false
 honorific: Saint
 summary: >-
   Community of 5th century monks at the monastery of Saint Dius at Constantinople. Imprisoned and martyred for loyalty

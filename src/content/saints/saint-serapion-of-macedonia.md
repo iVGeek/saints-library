@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Serapion of Macedonia
+stub: false
 honorific: Saint
 summary: Zealous evangelist who brought many pagans to the faith. Martyred in the persecutions of Septimus Severus.
 deathYear: 195

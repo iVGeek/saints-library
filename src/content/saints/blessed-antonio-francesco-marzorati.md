@@ -1,5 +1,6 @@
 ---
 name: Blessed Antonio Francesco Marzorati
+stub: false
 honorific: Blessed
 summary: >-
   Franciscan, joining on 5 March 1792 at Lugano, Switzerland, and taking the name Samuele. priest Missionary to

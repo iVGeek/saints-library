@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Bairfhion
+stub: true
 honorific: Saint
 summary: Bishop. No other information has survived.
 born: Irish

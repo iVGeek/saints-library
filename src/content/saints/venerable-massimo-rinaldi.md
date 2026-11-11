@@ -1,5 +1,6 @@
 ---
 name: Venerable Massimo Rinaldi
+stub: false
 honorific: Venerable
 summary: >-
   Ordained a priest on 6 July 1893, serving in the Italian cities of Rieti, Ornaro, Greccio, and Montefiascone. He

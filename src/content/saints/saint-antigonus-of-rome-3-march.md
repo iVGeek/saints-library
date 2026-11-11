@@ -1,5 +1,6 @@
 ---
 name: Saint Antigonus of Rome
+stub: true
 honorific: Saint
 summary: A martyr of the early Church, date and location unknown.
 searchAliases:

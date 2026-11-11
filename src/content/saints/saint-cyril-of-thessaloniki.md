@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Cyril of Thessaloniki
+stub: false
 honorific: Saint
 summary: >-
   Orphaned at age 10, he became an apprentice to a Turkish shoemaker. Pressured by his master to renounce Christianity

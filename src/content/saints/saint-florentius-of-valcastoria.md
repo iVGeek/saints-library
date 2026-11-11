@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Florentius of Valcastoria
+stub: false
 honorific: Saint
 summary: >-
   Sixth-century hermit and monk whose piety led many to God. Miracle worker. Abbot of a monastery in Valcastoria, Italy.

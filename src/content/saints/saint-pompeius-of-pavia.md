@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Pompeius of Pavia
+stub: true
 honorific: Saint
 summary: Bishop of Pavia, Italy. Some records indicate his martyrdom, others not.
 deathYear: 290

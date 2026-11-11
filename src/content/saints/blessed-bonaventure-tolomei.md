@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/9/98/Benedykt_XVI_%282010-10-17%29_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Bonaventure Tolomei
+stub: false
 honorific: Blessed
 summary: >-
   Though he was initially considered a pious and devoted youth, Bonaventure gave himself over to worldly life for

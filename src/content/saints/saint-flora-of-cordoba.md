@@ -1,5 +1,6 @@
 ---
 name: Saint Flora of Cordoba
+stub: false
 honorific: Saint
 summary: >-
   Born to Muslim parents. She and her mother converted to Christianity - Flora was raised Christian, her brother Muslim.

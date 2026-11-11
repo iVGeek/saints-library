@@ -1,5 +1,6 @@
 ---
 name: Blessed Conor O'Devany
+stub: false
 honorific: Blessed
 summary: >-
   Franciscan Friars Minor (Observants) priest. Chosen bishop of the diocese of Down and Connor, Ireland on 13 May 1582

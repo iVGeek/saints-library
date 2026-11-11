@@ -1,5 +1,6 @@
 ---
 name: Saint Albinus of Vercelli
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Vercelli, Italy in 452, he took over a diocese in turmoil and ruins, and spent the rest of his life working

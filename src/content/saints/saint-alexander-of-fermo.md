@@ -1,5 +1,6 @@
 ---
 name: Saint Alexander of Fermo
+stub: true
 honorific: Saint
 summary: Bishop of Fermo, Italy. Martyred in the persecutions of Decius.
 searchAliases:

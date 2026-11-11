@@ -4,6 +4,7 @@ imageAlt: "Sainte Céronne, diocèse de Séez"
 imageCredit: Nominis (French Episcopal Conference)
 imageCreditUrl: https://nominis.cef.fr
 name: Saint Céronne
+stub: false
 honorific: Saint
 summary: Raised in a pagan family. Convert, baptized at Bordeaux, France where she became an evangelist.
 deathYear: 490

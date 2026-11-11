@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/2/24/Cardenal_Gregorio_Rosa_Ch%C3%A1vez.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Juan José Martínez Romero
+stub: true
 honorific: Blessed
 summary: Priest in the diocese of Cartagena, Spain. Martyred in the Spanish Civil War.
 birthYear: 1889

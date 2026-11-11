@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/3/3e/P1000261_Cloitre_saint-Cesaire_entree_reductwk.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Bernard de Arenis
+stub: false
 honorific: Blessed
 summary: >-
   Mercedarian friar. Sent to north Africa, he was abused throughout his travels for his faith, but managed to free 222

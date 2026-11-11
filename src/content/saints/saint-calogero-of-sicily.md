@@ -1,5 +1,6 @@
 ---
 name: Saint Calogero of Sicily
+stub: true
 honorific: Saint
 title: Hermit
 summary: Hermit with the gift of healing by prayer.

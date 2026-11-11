@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Elstan of Abingdon
+stub: false
 honorific: Saint
 summary: >-
   Monk at Abingdon Abbey. Friend and spiritual student of Saint Ethelwold. Known for his humility and his obedience to

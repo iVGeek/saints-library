@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/7/7b/Stemma_777venc.gif?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Thomas Atkinson
+stub: false
 honorific: Blessed
 summary: >-
   Studied and was ordained at Rheims, France. Returned to England in 1588 to minister to covert Catholics. He travelled

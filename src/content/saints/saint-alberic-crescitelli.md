@@ -1,5 +1,6 @@
 ---
 name: Saint Alberic Crescitelli
+stub: false
 honorific: Venerable
 summary: >-
   Seminarian at age twelve. Studied at the Pontifical Seminary for Foreign Missions in Rome. Ordained in 1887. Joined

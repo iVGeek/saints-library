@@ -1,5 +1,6 @@
 ---
 name: Blessed Juan Agramunt y Riera
+stub: false
 honorific: Blessed
 summary: >-
   Son of Jose Agramunt and Antonia Riera. Began his Piarist novitiate in August 1922, making his solemn vows on 15

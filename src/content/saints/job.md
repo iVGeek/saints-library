@@ -1,5 +1,6 @@
 ---
 name: Job
+stub: false
 honorific: Saint
 summary: >-
   Old Testament Patriarch. The man “simple and upright and fearing God and avoiding evil” who figures in the canonical

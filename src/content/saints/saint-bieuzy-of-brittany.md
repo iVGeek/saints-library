@@ -1,5 +1,6 @@
 ---
 name: Saint Bieuzy of Brittany
+stub: false
 honorific: Saint
 summary: >-
   Spiritual student of Saint Gildas the Wise. Followed Gildas in his work in Brittany (part of modern France). Monk.

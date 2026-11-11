@@ -1,5 +1,6 @@
 ---
 name: Blessed Edward Kazmierski
+stub: false
 honorific: Blessed
 summary: >-
   Son of a poor cobbler in the archdiocese of Poznan, Poland. He managed to finish elementary school, but had to leave

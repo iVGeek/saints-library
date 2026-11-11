@@ -1,6 +1,7 @@
 ---
 image: https://www.catholic.org/files/images/saints/970.jpg
 name: Saint Eusebius of Rome
+stub: false
 honorific: Saint
 summary: Martyred in the persecution of Emperor Commodus. No other information has survived.
 deathYear: 192

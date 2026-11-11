@@ -1,5 +1,6 @@
 ---
 name: Blessed Giovanna Maria Bonomo
+stub: false
 honorific: Blessed
 summary: >-
   Eldest of four children of Giovanni Bonomo, a wealthy merchant, and Virginia Ceschi di Santa Croce. Legend says that

@@ -1,5 +1,6 @@
 ---
 name: Saint Dionysius of Milan
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Milan, Italy in 351. Exiled to Cappadocia in 355 by the Arian Emperor Constantius for defending Saint

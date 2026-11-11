@@ -1,5 +1,6 @@
 ---
 name: Saint Dominic of Sora
+stub: false
 honorific: Saint
 summary: >-
   Benedictine monk and abbot. Founded nine monasteries in in the kingdom of Naples (in modern Italy) including

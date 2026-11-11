@@ -1,5 +1,6 @@
 ---
 name: Blessed Lanfranc of Canterbury
+stub: false
 honorific: Blessed
 summary: >-
   After a liberal education in England, he went to Normandy and entered the monastery at Bec, where he opened a famous

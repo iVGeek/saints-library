@@ -1,6 +1,7 @@
 ---
 image: https://www.catholic.org/files/images/saints/4969.jpg
 name: Saint Maternus of Milan
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Milan, Italy in 295. He was tortured in the persecutions of Diocletian, but survived to follow his vocation

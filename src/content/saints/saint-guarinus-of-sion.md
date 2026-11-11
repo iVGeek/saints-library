@@ -1,5 +1,6 @@
 ---
 name: Saint Guarinus of Sion
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility. Cistercian Benedictine monk at the monastery of Molesmes in Laignes, Côte-d'Or, Burgundy,

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/e/e7/Il_Moro_sulla_tomba_della_moglie.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Isabella Crivelli
+stub: false
 honorific: Blessed
 summary: Poor Clare nun at the convent of Sant'Apollinare in Porta Romana, Milan, Italy known for her mystical prayer life.
 deathYear: 1527

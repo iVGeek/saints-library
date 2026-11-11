@@ -1,5 +1,6 @@
 ---
 name: Saint Macarius of Jerusalem
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Jerusalem in 314. Fought Arianism. Participated in and signed the documents of the Council of Nicaea, and

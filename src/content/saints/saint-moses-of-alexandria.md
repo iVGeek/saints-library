@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/d/da/Saint_Catherine_of_Alexandria_%28Caravaggio%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Moses of Alexandria
+stub: true
 honorific: Saint
 summary: Martyr.
 died: drowned in the sea at Alexandria, Egypt

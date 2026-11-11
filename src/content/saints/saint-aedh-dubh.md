@@ -1,5 +1,6 @@
 ---
 name: Saint Aedh Dubh
+stub: false
 honorific: Saint
 summary: >-
   King of Leinster, Ireland. He abdicated in 592 to become a monk, and then abbot, at Kildare, Ireland. Bishop of

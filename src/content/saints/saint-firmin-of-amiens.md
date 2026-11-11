@@ -1,5 +1,6 @@
 ---
 name: Saint Firmin of Amiens
+stub: true
 honorific: Saint
 summary: Monk. Abbot in the region of Amiens, France.
 searchAliases:

@@ -1,5 +1,6 @@
 ---
 name: Saint Mary Euphrasia Pelletier
+stub: false
 honorific: Venerable
 summary: >-
   Born during the French Revolution. Studied at Tours, France. Joined the Refuge of Our Lady of Charity at Tours on 20

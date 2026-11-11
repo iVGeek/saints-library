@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Fergna the White
+stub: false
 honorific: Saint
 summary: Relative and spiritual student of Saint Columba. Abbot at the monastery of Iona.
 searchAliases:

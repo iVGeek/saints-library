@@ -1,5 +1,6 @@
 ---
 name: Saint Aurelius of Cordoba
+stub: false
 honorific: Saint
 summary: >-
   Born to a wealthy Moorish father, Spanish mother, and orphaned as a child. Raised as a secret Christian by his aunt

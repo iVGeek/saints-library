@@ -1,5 +1,6 @@
 ---
 name: Blessed Wladyslaw Mackowiak
+stub: false
 honorific: Blessed
 summary: >-
   Priest in the diocese of Vilnius, Lithuania, serving as a parish priest in Ikazni, working with Blessed Stanislaw

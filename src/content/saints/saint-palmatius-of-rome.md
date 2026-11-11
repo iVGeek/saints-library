@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/a/ab/Trier_Sankt_Paulin_BW_12.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Palmatius of Rome
+stub: false
 honorific: Saint
 summary: >-
   Roman imperial consul. Martyred with his wife, children and 42 members of his household, whose names have not come

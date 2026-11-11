@@ -1,5 +1,6 @@
 ---
 name: Blessed James Aymerich
+stub: false
 honorific: Blessed
 summary: >-
   Mercedarian friar. Elected Master General of the Mercedarians on 8 April 1419. He improved convents in several cities,

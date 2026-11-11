@@ -1,5 +1,6 @@
 ---
 name: Benedict of Nursia
+stub: false
 honorific: Saint
 title: Abbot, Father of Western Monasticism
 summary: >-

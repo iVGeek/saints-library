@@ -1,5 +1,6 @@
 ---
 name: Saint Rosalia
+stub: false
 honorific: Saint
 summary: >-
   Born to the Sicilian nobility, the daughter of Sinibald, Lord of Roses, and Quisquina. Descendant of Charlemagne.

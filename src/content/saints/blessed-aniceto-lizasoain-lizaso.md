@@ -1,5 +1,6 @@
 ---
 name: Blessed Aniceto Lizasoain Lizaso
+stub: false
 honorific: Blessed
 summary: Redemptorist brother; made his religious profession on 15 October 1896. Martyred in the Spanish Civil War.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Aniceto-Lizasoain-Lizaso.jpg

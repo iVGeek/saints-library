@@ -1,5 +1,6 @@
 ---
 name: Saint Tôma Tran Van Thien
+stub: false
 honorific: Venerable
 summary: >-
   Entered the seminary of the Paris Foreign Missionary Society in the apostolic vicariate of Cochinchina, Vietnam in his

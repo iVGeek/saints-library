@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Guasacht of Granard
+stub: false
 honorific: Saint
 summary: >-
   Son of Maelchu, the man who “owned” Saint Patrick when he was enslaved. Converted by Saint Patrick. Helped to

@@ -1,5 +1,6 @@
 ---
 name: Saint Comasia
+stub: true
 honorific: Saint
 summary: Martyr.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Comasia.jpg

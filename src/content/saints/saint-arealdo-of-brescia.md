@@ -1,6 +1,7 @@
 ---
 image: https://www.santiebeati.it/immagini/Thumbs/92081/92081.jpg
 name: Saint Arealdo of Brescia
+stub: true
 honorific: Saint
 summary: Martyred with his sons Carillo and Oderico by invading Lombards.
 deathYear: 576

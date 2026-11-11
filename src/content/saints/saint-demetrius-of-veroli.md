@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Demetrius of Veroli
+stub: true
 honorific: Saint
 summary: Martyr.
 died: at Veroli, Italy

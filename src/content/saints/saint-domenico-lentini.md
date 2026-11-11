@@ -1,5 +1,6 @@
 ---
 name: Blessed Domenico Lentini
+stub: false
 honorific: Blessed
 summary: >-
   Youngest of five children in a poor but pious family. By age 14 he felt a call to the priesthood, studied at the

@@ -1,5 +1,6 @@
 ---
 name: Blessed Victoire Rasoamanarivo
+stub: false
 honorific: Blessed
 summary: >-
   Daughter of Rainiandriantsilavo and Rambahinoro. Raised by her paternal uncle, Rainimaharavo, the commander-in-chief

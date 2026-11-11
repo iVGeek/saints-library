@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/b/b0/Lacock_Abbey_Cloisters%2C_Wiltshire%2C_UK_-_Diliff.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Ela of Lacock
+stub: false
 honorific: Blessed
 summary: >-
   Born to the English nobility, the daughter of William FitzPatrick, 2nd Earl of Salisbury, and Eléonore de Vitré.

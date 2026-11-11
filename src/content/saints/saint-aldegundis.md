@@ -1,5 +1,6 @@
 ---
 name: Saint Aldegundis
+stub: false
 honorific: Saint
 summary: >-
   Daughter of Saint Walbert of Hainault and Saint Bertilia; sister of Saint Waldetrudis; aunt of Saint Madalberta. Lived

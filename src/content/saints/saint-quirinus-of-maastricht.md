@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/4d/St.Hubert_Ottawa_St.Patrick_RC_Basilica.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Quirinus of Maastricht
+stub: true
 honorific: Saint
 title: Bishop
 summary: Bishop of Maastricht (in modern Netherlands) from 487 to 489.

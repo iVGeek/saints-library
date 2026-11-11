@@ -1,5 +1,6 @@
 ---
 name: Saint Guenninus
+stub: true
 honorific: Saint
 summary: 7th century bishop of Vannes, Brittany (in modern France).
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Guenninus.jpg

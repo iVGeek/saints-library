@@ -1,5 +1,6 @@
 ---
 name: Saint Alexander of Laodicea
+stub: true
 honorific: Saint
 summary: Martyr.
 died: Laodicea on the Lycus, Phrygia (near modern Denizli, Turkey), date unknown

@@ -1,5 +1,6 @@
 ---
 name: Blessed Adhemar
+stub: false
 honorific: Blessed
 summary: >-
   Cleric, working with the Inquisition. Basing their operations in a farmhouse outside Avignonet, France, he and his

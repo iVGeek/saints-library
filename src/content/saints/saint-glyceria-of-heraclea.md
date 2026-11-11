@@ -1,5 +1,6 @@
 ---
 name: Saint Glyceria of Heraclea
+stub: true
 honorific: Saint
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Glyceria-of-Heraclea.jpg
 searchAliases:

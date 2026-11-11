@@ -1,5 +1,6 @@
 ---
 name: Blessed Bogumila Noiszewska
+stub: false
 honorific: Blessed
 summary: >-
   Member of the Sisters of the Immaculate Conception of the Blessed Virgin, taking the name Maria Ewa of Providence.

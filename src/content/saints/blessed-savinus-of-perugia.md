@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/3/3f/Sabinus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Savinus of Perugia
+stub: true
 honorific: Blessed
 title: Hermit
 summary: Camaldolese hermit in the region of Perugia, Italy.

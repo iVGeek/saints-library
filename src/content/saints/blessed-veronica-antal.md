@@ -1,5 +1,6 @@
 ---
 name: Blessed Veronica Antal
+stub: false
 honorific: Blessed
 summary: >-
   The eldest of four children in her family, Veronica was taught Christianity by her pious grandmother. When she was old

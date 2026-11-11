@@ -1,5 +1,6 @@
 ---
 name: Venerable Attilio Giordani
+stub: false
 honorific: Venerable
 summary: >-
   Layman in the archdiocese of Milan, Italy. Soldier at different times from 1934 till 1945. Employed at Pirelli

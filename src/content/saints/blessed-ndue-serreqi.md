@@ -1,5 +1,6 @@
 ---
 name: Blessed Ndue Serreqi
+stub: false
 honorific: Blessed
 summary: >-
   Educated by Franciscan friars, he joined the Order as a young man. Seminarian in Brescia, Italy, he was ordained a

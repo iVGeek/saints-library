@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Gerbrand of Dokkum
+stub: false
 honorific: Blessed
 summary: >-
   Premonstratensian monk. Canon of the Premonstratensian monastery in Dokkum, Friesland (in the modern Netherlands.

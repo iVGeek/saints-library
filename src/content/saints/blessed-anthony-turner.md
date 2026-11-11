@@ -1,5 +1,6 @@
 ---
 name: Blessed Anthony Turner
+stub: false
 image: https://commons.wikimedia.org/wiki/Special:FilePath/St_Giles_in_the_Fields%252C_Jesuit_memorial.jpg?width=600
 honorific: Blessed
 summary: >-

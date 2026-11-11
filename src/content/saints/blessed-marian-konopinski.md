@@ -1,5 +1,6 @@
 ---
 name: Blessed Marian Konopinski Poznan
+stub: false
 honorific: Blessed
 summary: >-
   Priest and vicar-general of the archdiocese of Poznan, Poland. Chaplain of the Congregation of the Holy Archangels.

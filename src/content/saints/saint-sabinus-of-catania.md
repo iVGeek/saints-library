@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Sabinus of Catania
+stub: true
 honorific: Saint
 summary: Bishop of Catania, Sicily. In later years he resigned to become a hermit.
 deathYear: 760

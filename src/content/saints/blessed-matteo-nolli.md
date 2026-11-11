@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/6/6c/Santa_Maria_sopra_Minerva.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Matteo Nolli
+stub: false
 honorific: Blessed
 summary: >-
   Born to the Italian nobility. He joined the Franciscans at the convent of San Nazaro in Novara, Italy, receiving the

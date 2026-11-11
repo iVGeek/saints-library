@@ -1,5 +1,6 @@
 ---
 name: Saint Alexander
+stub: true
 honorific: Saint
 summary: Tortured and martyred in the persecutions of Decius.
 image: >-

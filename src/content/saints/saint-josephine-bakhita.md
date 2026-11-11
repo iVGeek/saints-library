@@ -1,5 +1,6 @@
 ---
 name: Saint Josephine Bakhita
+stub: false
 honorific: Saint
 title: St. Josephine Bakhita
 summary: >-

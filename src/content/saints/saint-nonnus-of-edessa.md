@@ -1,5 +1,6 @@
 ---
 name: Saint Nonnus of Edessa
+stub: false
 honorific: Saint
 summary: >-
   Deacon. Monk at the monastery of Tabenna in upper Egypt. Bishop of Edessa, Mesopotamia. Attended the Council of

@@ -1,5 +1,6 @@
 ---
 name: Blessed Jadwiga Karolina Zak
+stub: false
 honorific: Blessed
 summary: >-
   Professed religious, joining the Sisters of the Holy Family of Nazareth on 13 May 1911, taking the name Maria Imelda

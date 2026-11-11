@@ -1,5 +1,6 @@
 ---
 name: Blessed Ida of Nivelles
+stub: false
 honorific: Blessed
 summary: >-
   Joined the Benedictine Cistercians at Kerkheim, Leuven, Belgium at age 16; the house, and Ida, were later moved to

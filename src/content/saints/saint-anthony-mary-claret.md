@@ -1,5 +1,6 @@
 ---
 name: Saint Anthony Mary Claret
+stub: false
 honorific: Venerable
 summary: >-
   Worked as a weaver in his youth. Seminary student with Saint Francisco Coll Guitart. Ordained on 13 June 1835.

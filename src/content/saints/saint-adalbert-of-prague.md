@@ -1,5 +1,6 @@
 ---
 name: Saint Adalbert of Prague
+stub: false
 honorific: Saint
 title: St. Adalbert of Prague
 summary: >-

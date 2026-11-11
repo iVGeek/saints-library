@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/b/bc/Ch%C3%A2teau_Duhart-Milon_-_Charles_Lallemand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 name: Blessed Milon of Thérouanne
+stub: false
 honorific: Blessed
 summary: >-
   Premonstratensian monk. First abbot of the monastery at Dommartin, France. Bishop of Thérouanne, France in 1131 where

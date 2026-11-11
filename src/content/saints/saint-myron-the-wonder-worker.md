@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Myron the Wonder Worker
+stub: false
 honorific: Saint
 summary: >-
   Layman farmer and family man as a young adult, and known for his charity. Once a band of thieves broken in on him when

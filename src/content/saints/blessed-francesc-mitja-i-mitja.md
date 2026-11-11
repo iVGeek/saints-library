@@ -1,5 +1,6 @@
 ---
 name: Blessed Francesc Mitjá i Mitjá
+stub: true
 honorific: Blessed
 summary: Mercedarian brother. Martyred in the Spanish Civil War.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Francesc-Mitjá-i-Mitjá.jpg

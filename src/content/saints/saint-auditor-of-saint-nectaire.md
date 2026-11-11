@@ -1,5 +1,6 @@
 ---
 name: Saint Auditor of Saint-Nectaire
+stub: false
 honorific: Saint
 summary: >-
   Missionary sent by Pope Saint Fabian to take the faith into Gaul in the 3rd century, centering his work around the

@@ -1,5 +1,6 @@
 ---
 name: Saint Pedro de Jesús Maldonado-Lucero
+stub: false
 honorific: Venerable
 summary: >-
   Parish priest in Santa Isabel, archdiocese of Chihuáhua, Mexico. Beaten and martyred in the anti-Catholic persecutions

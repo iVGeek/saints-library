@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/d/d9/%C3%89glise_de_la_Nativit%C3%A9-de-la-Sainte-Vierge_d%27Humbauville.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Malou of Hautvillers
+stub: true
 honorific: Saint
 summary: Priest at Hautvillers, Marne, France. No other information has survived.
 searchAliases:

@@ -1,5 +1,6 @@
 ---
 name: Blessed Lanunio
+stub: false
 honorific: Blessed
 summary: >-
   Hermit at Santa Maria della Torre, diocese of Squillace, Calabria, Italy. When Saint Bruno began what became the

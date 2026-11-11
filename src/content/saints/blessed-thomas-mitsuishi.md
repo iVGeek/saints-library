@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Thomas Mitsuishi
+stub: true
 honorific: Blessed
 summary: Young son of Blessed Michaël Mitsuishi Hikoemon. Martyr.
 birthYear: 1597

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/e/e0/Tela_di_Santa_Filomena.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Niceta
+stub: false
 honorific: Saint
 summary: Sister of Saint Aquilina. Third-century convert, brought to the faith by Saint Christopher. Martyr.
 region: Italy

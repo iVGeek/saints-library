@@ -1,5 +1,6 @@
 ---
 name: Blessed Pierre-Joseph Cassant
+stub: false
 honorific: Blessed
 summary: >-
   A pious youth, Pierre-Joseph early felt a call to the priesthood, but after months of tutoring by his parish priest,

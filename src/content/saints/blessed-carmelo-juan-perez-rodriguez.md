@@ -1,5 +1,6 @@
 ---
 name: Blessed Carmelo Juan Pérez Rodríguez
+stub: false
 honorific: Blessed
 summary: >-
   Baptized at the age of two days. Member of the Salesians of Don Bosco, making his profession at Carabanchel Alto in

@@ -1,5 +1,6 @@
 ---
 name: Saint Severus of Ravenna
+stub: true
 honorific: Saint
 summary: Bishop of Ravenna, Italy in 283. Attended the Council of Sardica in 344.
 image: >-

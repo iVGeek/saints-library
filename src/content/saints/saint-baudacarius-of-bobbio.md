@@ -1,5 +1,6 @@
 ---
 name: Saint Baudacarius of Bobbio
+stub: false
 honorific: Saint
 summary: >-
   Benedictine monk in Bobbio, Italy. In charge of the monastery's vineyard and 30 brothers assigned to help him. Legend

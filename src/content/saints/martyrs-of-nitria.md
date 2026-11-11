@@ -1,5 +1,6 @@
 ---
 name: Martyrs of Nitria
+stub: false
 honorific: Saint
 summary: >-
   Four monks and the bishop of Alexandria, Egypt who were martyred by heretics. Saint John Chrysostom wrote about them,

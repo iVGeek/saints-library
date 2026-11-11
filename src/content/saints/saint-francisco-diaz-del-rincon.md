@@ -1,5 +1,6 @@
 ---
 name: Saint Francisco Díaz del Rincón
+stub: false
 honorific: Venerable
 summary: >-
   Joined the Dominicans in Ecija, Spain at age 17, making his profession on 12 September 1731. Priest. Missionary to the

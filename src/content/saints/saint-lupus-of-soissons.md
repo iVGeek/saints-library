@@ -1,5 +1,6 @@
 ---
 name: Saint Lupus of Soissons
+stub: true
 honorific: Saint
 title: Bishop
 summary: Nephew of Saint Remigius of Rheims. Bishop of Soissons, France.

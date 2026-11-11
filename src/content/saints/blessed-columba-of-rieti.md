@@ -1,5 +1,6 @@
 ---
 name: Blessed Columba of Rieti
+stub: false
 honorific: Blessed
 summary: >-
   Legend says that at her birth, angels gathered around Columba's house to sing. During her Baptism, a dove suddenly

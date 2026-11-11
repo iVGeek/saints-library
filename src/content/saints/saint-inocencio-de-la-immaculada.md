@@ -1,5 +1,6 @@
 ---
 name: Saint Inocencio de la Immaculada
+stub: false
 honorific: Venerable
 summary: >-
   Born to a farming family, Manuel early felt a call to religious life, and joined the Passionist as a young man, making

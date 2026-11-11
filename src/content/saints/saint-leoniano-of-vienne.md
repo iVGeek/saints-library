@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/8/8b/Il_Gesu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Leoniano of Vienne
+stub: false
 honorific: Saint
 summary: >-
   Captured by barbarians and dragged from Pannonia to Autun, France. When he achieved freedom, he became a monk then

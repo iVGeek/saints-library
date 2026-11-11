@@ -1,5 +1,6 @@
 ---
 name: Saint Caran of Scotland
+stub: false
 honorific: Saint
 summary: Missionary bishop in the east of Scotland. Commemorated in the Aberdeen Breviary.
 searchAliases:

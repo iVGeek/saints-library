@@ -1,5 +1,6 @@
 ---
 name: Blessed Sisto Brioschi
+stub: false
 honorific: Blessed
 summary: >-
   At age 16, after hearing a sermon by Saint Bernardino of Siena, Sisto joined the Franciscan Friars Minor at the

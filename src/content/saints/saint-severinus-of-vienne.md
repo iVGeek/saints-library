@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Severinus of Vienne
+stub: true
 honorific: Saint
 summary: Martyred in the persecutions of Marcus Aurelius.
 deathYear: 170

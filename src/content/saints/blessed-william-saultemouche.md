@@ -1,5 +1,6 @@
 ---
 name: Blessed William Saultemouche
+stub: false
 honorific: Blessed
 summary: >-
   Co-adjutor Jesuit lay brother. Preached against Protestantism at Aubenas in the Cevennes, and publicly argued theology

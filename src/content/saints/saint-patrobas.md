@@ -1,5 +1,6 @@
 ---
 name: Saint Patrobas
+stub: false
 image: https://commons.wikimedia.org/wiki/Special:FilePath/CP15-16_Gyrocheilus_patrobas_%25283430801959%2529.jpg?width=600
 honorific: Saint
 summary: >-

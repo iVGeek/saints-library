@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Boniface of Valperga
+stub: false
 honorific: Blessed
 summary: >-
   Born to the Italian nobility, a member of the family of the Counts of Valperga, the son of Matthew and Anna Levi

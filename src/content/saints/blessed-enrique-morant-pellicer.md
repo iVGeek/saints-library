@@ -1,5 +1,6 @@
 ---
 name: Blessed Enrique Morant Pellicer
+stub: false
 honorific: Blessed
 summary: >-
   Born to a deeply religious family, Enrique attended a Catholic high school in Gandia, Spain, began studying

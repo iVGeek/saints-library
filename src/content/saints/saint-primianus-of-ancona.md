@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Primianus of Ancona
+stub: false
 honorific: Saint
 summary: >-
   In 1376, a pious woman in Ancona, Italy, name Cecola, had a dream in which Saint Primianus appeared to her; he was

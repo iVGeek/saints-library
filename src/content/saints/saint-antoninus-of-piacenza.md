@@ -1,5 +1,6 @@
 ---
 name: Saint Antoninus of Piacenza
+stub: false
 honorific: Saint
 summary: >-
   Soldier. Martyr. A vial of his blood preserved as a relic is known to miraculously liquify. He somehow became

@@ -1,5 +1,6 @@
 ---
 name: Saint Devasahayam Pillai
+stub: false
 honorific: Venerable
 summary: >-
   Devasahayam was raised a high-caste Hindu, knew Sanskrit, Tamil and Malayalam, and was trained martial arts and

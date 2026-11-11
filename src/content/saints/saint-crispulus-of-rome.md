@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Crispulus of Rome
+stub: false
 honorific: Saint
 summary: Martyred in the persecutions of Emperor Nero. No other information has survived.
 died: martyred in the 1st century, either in Rome, Italy, or in Spain; records are unclear

@@ -1,5 +1,6 @@
 ---
 name: Saint Publius
+stub: true
 honorific: Saint
 summary: Bishop. Wrote in opposition to the Montanist heresy. Martyr.
 feastDay:

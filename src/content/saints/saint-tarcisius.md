@@ -1,5 +1,6 @@
 ---
 name: Saint Tarcisius
+stub: false
 honorific: Saint
 summary: >-
   Third to fourth century layman or deacon (sources vary). While taking Communion to prisoners, Tarcisius was attacked

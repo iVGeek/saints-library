@@ -1,6 +1,7 @@
 ---
 image: https://www.santiebeati.it/immagini/Thumbs/65230/65230.jpg
 name: Saint Gionato of Marchiennes
+stub: false
 honorific: Saint
 summary: >-
   Monk. Spiritual student of Saint Amand of Maastricht. On Amand's recommendation, Gionato was chosen abbot of

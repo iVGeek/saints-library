@@ -1,5 +1,6 @@
 ---
 name: Blessed Isidro Muñoz Antolín
+stub: false
 honorific: Blessed
 summary: >-
   Joined the Salesians on 7 February 1929, making his profession on 28 September 1932. Began teaching in Santa Cruz de

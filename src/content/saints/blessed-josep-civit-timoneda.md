@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/f/fe/Beatificaciotarragona2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Josep Civit Timoneda
+stub: false
 honorific: Blessed
 summary: Priest of the archdiocese of Tarragona, Spain. Martyred in the Spanish Civil War.
 birthYear: 1874

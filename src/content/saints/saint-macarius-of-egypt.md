@@ -1,5 +1,6 @@
 ---
 name: Saint Macarius of Egypt
+stub: false
 honorific: Saint
 summary: >-
   Shepherd in the desert region of Skete. Falsley accused of assaulting a woman, but was acquitted. Hermit. Spiritual

@@ -1,5 +1,6 @@
 ---
 name: Saint Junipero Serra
+stub: false
 honorific: Venerable
 summary: ' In 1749, Serra was sent to the missionary terri Entered the Franciscan University at Palma, Spain at age 15, and joined the Order at age 17, taking the name Junipero after the friend of Saint Francis. Ordained in 1737, and taught philosophy and theology at the Lullian University.'
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Junipero-Serra.jpg

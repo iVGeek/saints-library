@@ -1,6 +1,7 @@
 ---
 image: https://www.santiebeati.it/immagini/Thumbs/100155/100155.JPG
 name: Blessed Enrique Palacios Monrabá
+stub: false
 honorific: Blessed
 summary: >-
   The son of Blessed Manuel Palacios Rodríguez, Enrique entered the seminary of the archdiocese of Seville, Spain on 29

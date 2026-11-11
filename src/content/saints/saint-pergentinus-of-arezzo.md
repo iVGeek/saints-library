@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/f/fd/Santa_maria_delle_grazie_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Pergentinus of Arezzo
+stub: true
 honorific: Saint
 summary: Brother of Saint Laurentinus of Arezzo. Martyred in the persecutions of Decius.
 deathYear: 251

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Stephen of Catania
+stub: false
 honorific: Saint
 summary: One of a group of Christians martyred together, date unknown. No other information has survived.
 died: Catania, Sicily, Italy

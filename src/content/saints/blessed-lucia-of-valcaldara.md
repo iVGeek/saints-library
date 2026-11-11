@@ -1,5 +1,6 @@
 ---
 name: Blessed Lucia of Valcaldara
+stub: false
 honorific: Blessed
 summary: >-
   Born to a wealthy family, Lucia was drawn to religious life as a child, and at age 15 she made private vows. With

@@ -1,5 +1,6 @@
 ---
 name: Saint Caron
+stub: false
 honorific: Saint
 summary: Bishop. A church at Tregaron, Wales is named for him. No other information has survived.
 region: England

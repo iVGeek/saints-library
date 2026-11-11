@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Walter of Quesnoy
+stub: false
 honorific: Blessed
 summary: >-
   Premonstratensian canon in Vicogne, France. Abbot of the house in 1212. During his 17 year abbacy he was known for

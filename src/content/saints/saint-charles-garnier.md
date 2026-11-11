@@ -1,5 +1,6 @@
 ---
 name: Saint Charles Garnier
+stub: false
 honorific: Saint
 title: St. Charles Garnier
 summary: >-

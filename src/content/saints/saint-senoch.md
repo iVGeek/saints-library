@@ -1,5 +1,6 @@
 ---
 name: Saint Senoch
+stub: false
 honorific: Saint
 summary: >-
   Son of pagan parents. In his early 20's he became the spiritual student of Saint Martin de Vertou, and converted to

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Severus of Agde
+stub: false
 honorific: Saint
 summary: Monk. Founded a monastery in Agde, Gaul (in modern France), and served as its first abbot.
 region: France

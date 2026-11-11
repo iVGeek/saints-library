@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/f/f4/Ferdinand_the_Saint_%28St._Vincent_Panels%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Gonçalo Henriques
+stub: false
 honorific: Blessed
 summary: >-
   Deacon. Jesuit scholar. Friend and companion of Blessed Ignatius de Azevedo. Missionary. Martyred by the Huguenot

@@ -1,5 +1,6 @@
 ---
 name: Saint Bathilde
+stub: false
 honorific: Saint
 summary: >-
   Kidnapped in her youth from her native England and sold into slavery in France to Erkenwald, the Mayor of the Palace

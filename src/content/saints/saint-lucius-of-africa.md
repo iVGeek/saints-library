@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/8/86/StMaurice2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Lucius of Africa
+stub: true
 honorific: Saint
 deathYear: 300
 died: c.300 in Africa

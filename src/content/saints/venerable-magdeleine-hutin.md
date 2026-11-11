@@ -1,5 +1,6 @@
 ---
 name: Venerable Magdeleine Hutin
+stub: false
 honorific: Venerable
 summary: >-
   The youngest of six children born in a pious family, Magdelaine grew up in the French cities of Paris, Nantes,

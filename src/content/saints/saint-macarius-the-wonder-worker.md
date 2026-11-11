@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Macarius the Wonder Worker
+stub: false
 honorific: Saint
 summary: >-
   Monk at the monastery at Pelekete, taking the name Macarius. Abbot. Miracle worker. Ordained by Patriarch Tarasius of

@@ -1,5 +1,6 @@
 ---
 name: Saint Tryphaena of Cyzicus
+stub: true
 honorific: Saint
 summary: Martyr. No other information has survived.
 searchAliases:

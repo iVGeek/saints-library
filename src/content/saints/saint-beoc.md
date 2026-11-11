@@ -1,5 +1,6 @@
 ---
 name: Saint Beoc
+stub: false
 honorific: Saint
 summary: >-
   Founded a monastery on an island in Lough Derg, Donegal, Ireland, a site famous for barefoot pilgrimages that continue

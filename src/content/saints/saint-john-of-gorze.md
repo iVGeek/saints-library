@@ -1,6 +1,7 @@
 ---
 image: https://www.catholic.org/files/images/saints/3999.jpg
 name: Saint John of Gorze
+stub: false
 honorific: Saint
 summary: >-
   Born to a wealthy family. Studied at the Benedictine monastery of Saint-Mihiel in Metz, France. Reputed to have a

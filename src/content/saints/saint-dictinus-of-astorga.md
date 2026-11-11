@@ -1,5 +1,6 @@
 ---
 name: Saint Dictinus of Astorga
+stub: false
 honorific: Saint
 title: Bishop
 summary: >-

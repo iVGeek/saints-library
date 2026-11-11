@@ -1,5 +1,6 @@
 ---
 name: Saint Austindus of Auch
+stub: false
 honorific: Saint
 summary: >-
   Benedictine monk at Saint Oren's Abbey, Auch, France. Abbot. Instituted the Cluniac reform at Saint Oren's. Archbishop

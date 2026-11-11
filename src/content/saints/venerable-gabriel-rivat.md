@@ -1,5 +1,6 @@
 ---
 name: Venerable Gabriel Rivat
+stub: false
 honorific: Venerable
 summary: >-
   Joined the Marist Brothers in 1818, making his initial vows in 1819 and his perpetual profession in 1826. Served as a

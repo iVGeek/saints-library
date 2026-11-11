@@ -1,5 +1,6 @@
 ---
 name: Blessed Vicente Rubiols Castelló
+stub: false
 honorific: Blessed
 summary: >-
   Studied at the Seminary of Valencia, Spain. Priest, ordained in 1894 in the archdiocese of Valencia. Served 40 years

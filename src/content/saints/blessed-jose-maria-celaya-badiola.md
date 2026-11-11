@@ -1,5 +1,6 @@
 ---
 name: Blessed José María Celaya Badiola
+stub: false
 honorific: Blessed
 summary: >-
   Baptized at the age of one day. Joined the Salesians of Don Bosco in Carabanchel Alto, Madrid, Spain on 5 January

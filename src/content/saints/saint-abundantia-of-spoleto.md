@@ -1,5 +1,6 @@
 ---
 name: Saint Abundantia of Spoleto
+stub: true
 honorific: Saint
 deathYear: 804
 born: 8th century Spoleto, Italy

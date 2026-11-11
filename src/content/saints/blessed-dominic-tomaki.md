@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Dominic Tomaki
+stub: true
 honorific: Blessed
 summary: Son of Blessed John Tomaki. Martyred with his family.
 searchAliases:

@@ -1,5 +1,6 @@
 ---
 name: Blessed Juan de Segalars
+stub: false
 honorific: Blessed
 summary: >-
   Joined the Mercedarians in Barcelona, Spain. Prior of his house. General procurator of the Mercedarians in 1439.

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Ultan of Crayke
+stub: false
 honorific: Saint
 summary: Priest at the monastery of Saint Peter in Crayke, Yorkshire, England. Known as a master of book illumination.
 born: Ireland

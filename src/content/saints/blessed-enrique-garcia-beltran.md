@@ -1,5 +1,6 @@
 ---
 name: Blessed Enrique García Beltrán
+stub: false
 honorific: Blessed
 summary: >-
   The son of Vicente García and Donna Concepción Beltrán, Enrique was baptized on the day of his birth. As he grew, he

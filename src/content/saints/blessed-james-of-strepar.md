@@ -1,5 +1,6 @@
 ---
 name: Blessed James of Strepar
+stub: false
 honorific: Blessed
 summary: >-
   Born to the Polish nobility. Franciscan. Guardian of the Franciscan friary in Lviv, Poland. Defended mendicant friars

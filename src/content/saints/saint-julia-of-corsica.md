@@ -1,5 +1,6 @@
 ---
 name: Saint Julia of Corsica
+stub: false
 honorific: Saint
 summary: >-
   Born to the Carthaginian Christian nobility. Captured by invading Vandals in 616, and sold into slavery to a pagan

@@ -1,5 +1,6 @@
 ---
 name: Saint Vincent Ferrer
+stub: false
 honorific: Saint
 summary: >-
   Fourth child of the Anglo-Scottish nobleman William Stewart Ferrer and his Spanish wife, Constantia Miguel; his father

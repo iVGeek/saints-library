@@ -1,5 +1,6 @@
 ---
 name: Saint Agabius of Verona
+stub: true
 honorific: Saint
 summary: Ninth bishop of Verona, Italy.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Agabius-of-Verona.jpg

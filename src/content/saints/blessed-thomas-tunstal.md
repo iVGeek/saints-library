@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/2/2e/Diocese_of_Blackburn_arms_updated.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Thomas Tunstal
+stub: false
 honorific: Blessed
 summary: >-
   Benedictine. Studied at the seminary in Douai, France. Priest. He returned to England to minister to covert Catholics,

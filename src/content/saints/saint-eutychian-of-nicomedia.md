@@ -1,5 +1,6 @@
 ---
 name: Saint Eutychian of Nicomedia
+stub: true
 honorific: Saint
 summary: Martyr.
 searchAliases:

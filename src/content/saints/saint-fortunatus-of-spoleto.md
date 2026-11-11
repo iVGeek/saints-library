@@ -1,5 +1,6 @@
 ---
 name: Saint Fortunatus of Spoleto
+stub: false
 honorific: Saint
 summary: >-
   Fifth-century parish priest in the village of Territet near Spoleto, Italy. Famed for his love for the poor, his

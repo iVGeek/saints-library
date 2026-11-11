@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint John of Rome
+stub: false
 honorific: Saint
 summary: >-
   Son of Saint Marcian the Senator. Died of unknown causes, but was brought back to life through the prayers of Saint

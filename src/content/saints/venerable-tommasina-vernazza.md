@@ -1,5 +1,6 @@
 ---
 name: Venerable Tommasina Vernazza
+stub: false
 honorific: Venerable
 summary: >-
   Daughter of Ettore Vernazza, a patrician who founded hospitals for the poor in the Italian cities of Genoa, Rome, and

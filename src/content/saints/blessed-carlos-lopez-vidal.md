@@ -1,5 +1,6 @@
 ---
 name: Blessed Carlos López Vidal
+stub: false
 honorific: Blessed
 summary: >-
   Lifelong layman in the archdiocese of Valencia, Spain. Sacristan of the collegiate church of Gandia, Spain. Married to

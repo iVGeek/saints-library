@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed José Gomez De Haro
+stub: true
 honorific: Blessed
 summary: Priest in the diocese of Almería, Spain. Martyred in the Spanish Civil War.
 deathYear: 1936

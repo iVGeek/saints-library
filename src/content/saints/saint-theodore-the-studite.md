@@ -1,5 +1,6 @@
 ---
 name: Saint Theodore the Studite
+stub: false
 honorific: Saint
 summary: >-
   Monk at the monastery of Saccudion, Asia Minor in 781. Ordained c.787. Abbot of the Saccudion monastery in 794. Abbot

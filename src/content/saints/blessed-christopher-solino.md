@@ -1,5 +1,6 @@
 ---
 name: Blessed Christopher Solino
+stub: false
 honorific: Blessed
 summary: >-
   Professor of Sacred Theology at the University of Paris. Mercedarian monk at the convent of Santa Maria in Toulouse,

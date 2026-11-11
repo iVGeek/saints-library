@@ -1,5 +1,6 @@
 ---
 name: Saint Proculus of Verona
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Verona, Italy. Made public confession of his faith during the persecutions of Diocletian, for which he he

@@ -1,5 +1,6 @@
 ---
 name: Saint Atto of Oca
+stub: false
 honorific: Saint
 summary: Benedictine monk at Ona, Old Castile, Spain. Spiritual student of Saint Enneco. Bishop of Oca-Valpuesta, Spain.
 deathYear: 1044

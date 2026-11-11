@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed José Rada Royo
+stub: true
 honorific: Blessed
 summary: Augustinian Recollect priest. Martyred in the Spanish Civil War.
 searchAliases:

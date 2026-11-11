@@ -1,5 +1,6 @@
 ---
 name: Venerable María de Jesús Guízar Barragán
+stub: false
 honorific: Venerable
 summary: >-
   Fifth of 16 children born to Don Emiliano Guizar y Valencia and Lucia Barragan Guizar. Baptized at the age of one day.

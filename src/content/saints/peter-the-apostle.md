@@ -1,5 +1,6 @@
 ---
 name: Peter the Apostle
+stub: false
 honorific: Saint
 title: Prince of the Apostles, First Pope
 summary: The fisherman of Galilee whom Christ made the rock of his Church; martyred in Rome, he is the first of the popes.

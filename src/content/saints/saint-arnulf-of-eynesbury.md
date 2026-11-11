@@ -1,5 +1,6 @@
 ---
 name: Saint Arnulf of Eynesbury
+stub: false
 honorific: Saint
 summary: >-
   Ninth-century hermit whose records have been lost but who has been long venerated in Arnulphsbury, Cambridgeshire,

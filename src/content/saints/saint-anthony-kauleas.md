@@ -1,5 +1,6 @@
 ---
 name: Saint Anthony Kauleas
+stub: false
 honorific: Saint
 summary: >-
   Born to a noble family from Phrygia who had moved to the country to escape persecution by the iconoclasts. Monk near

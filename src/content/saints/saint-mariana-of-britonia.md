@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Mariana of Britonia
+stub: true
 honorific: Saint
 summary: Martyred nun.
 searchAliases:

@@ -1,5 +1,6 @@
 ---
 name: Blessed José María Poyatos-Ruiz
+stub: false
 honorific: Blessed
 summary: >-
   Young layman in the diocese of Jaén, Spain; factory worker, member of Catholic Action and frequently spent time in

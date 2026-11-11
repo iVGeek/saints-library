@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/4f/Frm_beatification_banner.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Georges Girault
+stub: false
 honorific: Blessed
 summary: >-
   Franciscan Friars of the Third Order Regular, making his final profession in 1750. Ordained in Paris, France in 1754.

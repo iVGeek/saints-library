@@ -1,5 +1,6 @@
 ---
 name: Saint Atticus of Constantinople
+stub: false
 honorific: Saint
 summary: >-
   Atticus supported the Macedonian heresy (i.e., the Holy Spirit is not God), opposed Saint John Chrysostom, and worked

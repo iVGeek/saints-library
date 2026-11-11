@@ -1,5 +1,6 @@
 ---
 name: Saint Ursula
+stub: true
 honorific: Saint
 image: https://commons.wikimedia.org/wiki/Special:FilePath/Carlo_Crivelli_041.jpg?width=600
 deathYear: 238

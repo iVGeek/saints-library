@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Vicente Andrés Llop Gaya
+stub: false
 honorific: Blessed
 summary: Priest. Member of the Hospitallers of Saint John of God. Martyred in the Spanish Civil War.
 searchAliases:

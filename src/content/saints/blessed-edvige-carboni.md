@@ -1,5 +1,6 @@
 ---
 name: Blessed Edvige Carboni
+stub: false
 honorific: Blessed
 summary: >-
   The second child of Giovanni Battista Carboni and Maria Domenica Pinna, Edvige had to leave school at the 4th grade.

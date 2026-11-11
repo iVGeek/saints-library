@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Tôma Toán
+stub: false
 honorific: Venerable
 summary: >-
   Layman in the apostolic vicariate of East Tonkin, Vietnam. Member of the lay Dominicans. Catechist and head of Mission

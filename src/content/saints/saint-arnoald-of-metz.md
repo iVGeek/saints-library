@@ -1,5 +1,6 @@
 ---
 name: Saint Arnoald of Metz
+stub: true
 honorific: Saint
 summary: Married. Father of Saint Arnulf of Metz. Bishop of Metz, France c.602.
 searchAliases:

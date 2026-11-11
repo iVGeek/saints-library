@@ -1,5 +1,6 @@
 ---
 name: Saint Gervase
+stub: false
 honorific: Saint
 summary: >-
   Second century martyr. Son of Saint Vitalis of Milan and Saint Valeria of Milan. He and his beheaded twin brother

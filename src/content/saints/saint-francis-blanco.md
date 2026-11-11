@@ -1,5 +1,6 @@
 ---
 name: Saint Francis Blanco
+stub: false
 honorific: Saint
 summary: >-
   Studied at Salamanca, Spain. Alcantarine Franciscan monk. Evangelist in Mexico, Philippines, and Japan. One of the

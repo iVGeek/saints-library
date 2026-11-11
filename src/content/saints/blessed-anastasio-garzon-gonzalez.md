@@ -1,5 +1,6 @@
 ---
 name: Blessed Anastasio Garzón González
+stub: false
 honorific: Blessed
 summary: >-
   Member of the Salesians of Don Bosco, taking his vows on 15 August 1929. Studied mechanics and religious formation in

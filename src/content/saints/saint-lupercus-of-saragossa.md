@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/7/7f/Marcellus_Cassian.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Lupercus of Saragossa
+stub: false
 honorific: Saint
 summary: >-
   One of the Martyrs of Saragossa about whom nothing is known except their deaths in the persecutions of Diocletian and

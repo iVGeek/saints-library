@@ -1,5 +1,6 @@
 ---
 name: Blessed Cruz Laplana Laguna
+stub: false
 honorific: Blessed
 summary: >-
   Ordained a priest on 24 September 1898. Chosen bishop of Cuenca, Spain on 30 November 1921. Martyred in the Spanish

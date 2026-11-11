@@ -1,5 +1,6 @@
 ---
 name: Saint Clether
+stub: false
 honorific: Saint
 summary: Known in Wales and Cornwall; several churches are dedicated to him. No details about him have survived.
 searchAliases:

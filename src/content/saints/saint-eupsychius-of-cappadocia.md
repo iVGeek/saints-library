@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Eupsychius of Cappadocia
+stub: false
 honorific: Saint
 summary: >-
   Fourth century patrician in Cappadocia. During the persecutions of Julian the Apostate, Eupsychius was arrested,

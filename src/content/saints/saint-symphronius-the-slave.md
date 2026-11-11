@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Symphronius the Slave
+stub: false
 honorific: Saint
 summary: >-
   Slave in imperial Rome. Helped bring Saint Olympius the Tribune, Saint Exuperia the Martyr and Saint Theodulus the

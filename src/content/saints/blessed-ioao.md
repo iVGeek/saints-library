@@ -1,5 +1,6 @@
 ---
 name: Blessed Iõao
+stub: false
 honorific: Blessed
 summary: >-
   Jesuit candidate. Missionary; his uncle was the captain of the ship that transported Iõao and the other Jesuit

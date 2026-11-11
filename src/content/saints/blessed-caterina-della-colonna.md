@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/b/bd/Camillavarano.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Caterina della Colonna
+stub: false
 honorific: Blessed
 summary: >-
   Poor Clare nun, professed at the Santa Chiara of Belalcázar convent in Cordoba, Spain where she served as novice

@@ -1,5 +1,6 @@
 ---
 name: Saint Augustine Moi Van Nguyen
+stub: false
 honorific: Saint
 summary: >-
   Poor day labourer. Lay Dominican tertiary in the apostolic vicariate of East Tonkin. Catechist. Ordered by government

@@ -1,5 +1,6 @@
 ---
 name: Saint Quirinus of Sescia
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Sescia (modern Sisak), Croatia. During the persecution of Galerius, he was ordered to sacrifice to pagan

@@ -1,5 +1,6 @@
 ---
 name: Saint Maria Josefa Sancho de Guerra
+stub: false
 honorific: Venerable
 summary: >-
   Nun, joining the Institute of the Servants of Mary at age 18, taking name Maria Josefa of the Heart of Mary. Helped

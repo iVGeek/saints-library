@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/7/73/Lidwinas_fall.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Joris
+stub: false
 honorific: Blessed
 summary: >-
   Son of Stephen and Helen, Joris grew up in a home with seven brothers. Priest. Bishop in Armenia. Died while on

@@ -1,5 +1,6 @@
 ---
 name: Blessed Burchard I of Halberstadt
+stub: false
 honorific: Blessed
 summary: >-
   Son of Henry of Schweinfurt, Margrave of Nordgau in Bavaria, Germany, and Gerberga von Henneberg, a daughter of Count

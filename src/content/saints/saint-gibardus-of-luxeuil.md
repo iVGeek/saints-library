@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Gibardus of Luxeuil
+stub: false
 honorific: Saint
 summary: >-
   Benedictine monk. Abbot at Luxeuil Abbey during an invasion of the Huns. He led his monks in an escape attempt, but

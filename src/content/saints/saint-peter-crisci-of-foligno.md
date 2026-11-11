@@ -1,5 +1,6 @@
 ---
 name: Saint Peter Crisci of Foligno
+stub: false
 honorific: Saint
 summary: >-
   As a young man, Peter lived a wild, profane, and dissolute life. Around the age of thirty his parents died, he came

@@ -1,5 +1,6 @@
 ---
 name: Saint Wenceslaus of Bohemia
+stub: false
 honorific: Saint
 title: St. Wenceslaus of Bohemia
 summary: >-

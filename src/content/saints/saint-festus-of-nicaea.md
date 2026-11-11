@@ -1,5 +1,6 @@
 ---
 name: Saint Festus of Nicaea
+stub: true
 honorific: Saint
 summary: One of 279 Christians martyred together.
 died: Nicaea, Bithynia

@@ -1,5 +1,6 @@
 ---
 name: Saint Verena Bütler
+stub: false
 honorific: Venerable
 summary: >-
   Fourth of eight children born to a family of farmers; baptized on the day she was born and made her First Communion on

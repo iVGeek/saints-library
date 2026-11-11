@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/0/0c/Catedral_y_Sagrario_Metropolitano_33.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Vicente Cecilia Gallardo
+stub: false
 honorific: Blessed
 summary: Novice in the Vincentian Congregation of the Mission. Martyred in the Spanish Civil War.
 birthYear: 1914

@@ -1,5 +1,6 @@
 ---
 name: Blessed Bernard of Baden
+stub: false
 honorific: Blessed
 summary: >-
   Born to the nobility, the son of Margrave Jacob of Baden and Catherine de Lorraine; grandson of Saint Margaret of

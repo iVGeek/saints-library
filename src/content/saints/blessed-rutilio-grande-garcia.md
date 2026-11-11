@@ -1,5 +1,6 @@
 ---
 name: Blessed Rutilio Grande García
+stub: false
 honorific: Blessed
 summary: >-
   The youngest of seven children born to a poor family, his parents divorced when Rutilio was small, and he was raised

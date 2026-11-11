@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Venerable Heinrich Hahn
+stub: false
 honorific: Venerable
 summary: >-
   Married layman and father of ten children in the diocese of Aachen, Germany. Physician, politician. Helped found the

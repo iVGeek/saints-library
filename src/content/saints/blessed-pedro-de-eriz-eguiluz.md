@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Pedro de Eriz Eguiluz
+stub: true
 honorific: Blessed
 summary: Discalced Carmelite priest. Martyred in the Spanish Civil War.
 searchAliases:

@@ -1,5 +1,6 @@
 ---
 name: Saint Apollinaris of Ravenna
+stub: false
 honorific: Saint
 summary: >-
   Mentioned in the Acts of the Apostles. Spiritual student of Saint Peter the Apostle. First bishop of Ravenna, Italy;

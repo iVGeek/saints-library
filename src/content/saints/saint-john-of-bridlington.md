@@ -1,5 +1,6 @@
 ---
 name: Saint John of Bridlington
+stub: false
 honorific: Saint
 summary: >-
   Studied at Oxford, England from age 17. Augustinian Canon Regular at age 19. Held several posts in Saint Mary's abbey

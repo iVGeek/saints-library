@@ -1,5 +1,6 @@
 ---
 name: Saint Abda of Mercia
+stub: true
 honorific: Saint
 summary: Priest. Missionary to the area of Mercia (in modern England).
 region: England

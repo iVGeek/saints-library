@@ -1,5 +1,6 @@
 ---
 name: Blessed Raymond de Fosso
+stub: false
 honorific: Blessed
 summary: >-
   Mercedarian friar. A redeemer who ransomed Christians who had been enslaved by Muslims in North Africa, working in

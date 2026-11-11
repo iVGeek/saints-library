@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/9/9f/Zurbar%C3%A1n_%28atribuido%29-John_of_the_Cross-1656.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Juan de Luca
+stub: false
 honorific: Blessed
 summary: >-
   Mercedarian friar. In 1343 he freed 116 Christians who had been enslaved in Algiers by Muslims; as he travelled

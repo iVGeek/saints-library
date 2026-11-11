@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Dermot of Inis Clothrann
+stub: false
 honorific: Saint
 summary: >-
   Abbot. Founder of a monastery on Innis-Closran, Ireland. Noted teacher, writer, and preacher. Spiritual director of

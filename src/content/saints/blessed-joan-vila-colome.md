@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/f/fe/Beatificaciotarragona2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Joan Vilá Colomé
+stub: false
 honorific: Blessed
 summary: >-
   Franciscan Capuchin, making his profession on 8 September 1903. Ordained a priest on 19 March 1904. Imprisoned and

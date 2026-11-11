@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Emmanuel of Cremona
+stub: false
 honorific: Saint
 summary: Bishop of Cremona, Italy from 1190 to 1195. May have become a Cistercian monk in later life.
 deathYear: 1198

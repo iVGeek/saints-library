@@ -1,5 +1,6 @@
 ---
 name: Saint Beatrice da Silva Meneses
+stub: false
 honorific: Saint
 summary: >-
   Daughter of the Count of Viana. Sister of Saint Amedeus of Portugal. Raised in the household of Princess Isabel, and

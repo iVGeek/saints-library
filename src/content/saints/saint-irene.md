@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/f/fc/St._Sebastian_by_Sodoma.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Irene
+stub: false
 honorific: Saint
 summary: >-
   Raised a pagan. At about 14 years of age, she witnessed a mob abusing Saint Porphyrius for his faith. The violence

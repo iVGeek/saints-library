@@ -1,5 +1,6 @@
 ---
 name: Saint Petrus Zhao Mingzhen
+stub: false
 honorific: Venerable
 summary: >-
   Layman Christian in the apostolic vicariate of Southeastern Zhili, China. Martyred in the Boxer Rebellion while trying

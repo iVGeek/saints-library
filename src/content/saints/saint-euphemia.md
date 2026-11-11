@@ -1,5 +1,6 @@
 ---
 name: Saint Euphemia of Aquileia
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility, the daughter of the pagan Valentius of Aquileia. As a young woman, she made a private vow,

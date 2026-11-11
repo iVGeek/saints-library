@@ -1,5 +1,6 @@
 ---
 name: Blessed Germán Martín y Martín
+stub: false
 honorific: Blessed
 summary: >-
   Member of the Salesians, making his novitiate in Carabanchel Alto, Spain, and making his religious profession in 1918.

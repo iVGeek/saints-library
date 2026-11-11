@@ -1,5 +1,6 @@
 ---
 name: Venerable Teresa Spinelli
+stub: false
 honorific: Venerable
 summary: Founder of the Congregation of the Augustinian Sisters Servants of Jesus and Mary.
 image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Teresa-Spinelli.jpg

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Venerable María Pilar Solsona Lambán
+stub: true
 honorific: Venerable
 summary: Nun in the Institute of the Daughters of Mary, Religious of the Pious Schools.
 searchAliases:

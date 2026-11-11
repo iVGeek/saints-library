@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/9/99/Fr.Maximilian_Kolbe_in_1936.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Claudius the Minor
+stub: true
 honorific: Blessed
 summary: Franciscan monk.
 searchAliases:

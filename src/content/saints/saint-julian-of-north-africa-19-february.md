@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Julian of North Africa
+stub: true
 honorific: Saint
 summary: Martyr. No other information has survived.
 died: North Africa, date unknown

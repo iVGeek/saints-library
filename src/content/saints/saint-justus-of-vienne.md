@@ -1,5 +1,6 @@
 ---
 name: Saint Justus of Vienne
+stub: true
 image: https://commons.wikimedia.org/wiki/Special:FilePath/Narbonne_Cathedrale_Saint_Just_et_Saint_Pasteur.jpg?width=600
 honorific: Saint
 summary: Bishop of Vienne, France.

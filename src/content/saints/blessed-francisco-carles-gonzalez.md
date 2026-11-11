@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/0/08/Roma_martires_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Francisco Carlés González
+stub: false
 honorific: Blessed
 summary: >-
   Franciscan Friar Minor, entering the novitiate on 19 March 1909 and making his solemn vows on 12 April 1913. Ordained

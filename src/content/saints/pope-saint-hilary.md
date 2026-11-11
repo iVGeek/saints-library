@@ -1,5 +1,6 @@
 ---
 name: Pope Saint Hilary
+stub: false
 honorific: Saint
 summary: >-
   Deacon. Trusted aide to Pope Saint Leo the Great. Papal legate. Sent to “Robber Synod” at Ephesus in 449 to report on

@@ -1,5 +1,6 @@
 ---
 name: Saint Digna of Rome
+stub: false
 honorific: Saint
 summary: >-
   Consecrated virgin, an early version of a nun. When dragged to court for the crime of Christianity during the

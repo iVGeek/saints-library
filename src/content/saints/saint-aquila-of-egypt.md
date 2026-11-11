@@ -1,5 +1,6 @@
 ---
 name: Saint Aquila of Egypt
+stub: true
 honorific: Saint
 summary: Martyred in the persecutions of Maximinus Daza.
 searchAliases:

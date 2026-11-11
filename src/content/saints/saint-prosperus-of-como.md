@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Prosperus of Como
+stub: true
 honorific: Saint
 title: Bishop
 summary: Bishop of Como, Italy in the latter 6th century.

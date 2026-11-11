@@ -1,5 +1,6 @@
 ---
 name: Saint Cecilia Yu Sosa
+stub: false
 honorific: Saint
 title: St. Cecilia Yu Sosa
 summary: >-

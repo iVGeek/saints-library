@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Teath
+stub: false
 honorific: Saint
 summary: >-
   Born a princess, the daughter of Saint Brychan of Brecknock in Wales. She is mentioned in 13th century documents. A

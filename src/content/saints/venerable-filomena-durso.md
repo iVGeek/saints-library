@@ -1,5 +1,6 @@
 ---
 name: Venerable Filomena d'Urso
+stub: true
 honorific: Venerable
 summary: Member of the Congregation of the Sisters of Jesus the Redeemer.
 image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Filomena-dUrso.jpg

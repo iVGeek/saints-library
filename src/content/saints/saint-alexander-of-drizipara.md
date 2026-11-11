@@ -1,5 +1,6 @@
 ---
 name: Saint Alexander of Drizipara
+stub: false
 honorific: Saint
 summary: >-
   Third-century imperial Roman soldier and Christian. Military tribune under the command of the tribune Tiberius. In

@@ -1,5 +1,6 @@
 ---
 name: Blessed Giovanni Giovenale Ancina
+stub: false
 honorific: Blessed
 summary: >-
   Born to a wealthy and politically connected family. Educated in medicine and philosophy. Noted scholar, musician,

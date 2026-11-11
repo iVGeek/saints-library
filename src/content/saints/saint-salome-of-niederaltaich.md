@@ -1,5 +1,6 @@
 ---
 name: Saint Salome of Niederaltaich
+stub: false
 honorific: Saint
 summary: >-
   English princess. Aunt of Saint Judith of Niederaltaich. Anchoress at Ober Altaich, Bavaria (in modern Germany). The

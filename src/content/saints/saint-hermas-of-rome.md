@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Hermas of Rome
+stub: true
 honorific: Saint
 summary: Martyred by a pagan mob.
 searchAliases:

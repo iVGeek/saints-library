@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Garibaldus of Regensburg
+stub: false
 honorific: Saint
 summary: >-
   Benedictine monk in Bavaria, Germany. Ordained by Saint Boniface c.740. Abbot of Saint Emmeran monastery at

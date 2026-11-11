@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/3/3e/Menaion_icon_%2817_c.%2C_TsAK%29_-_August.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Peregrinus of Modena
+stub: false
 honorific: Saint
 summary: >-
   Celtic monk. Pilgrim to the Holy Lands. On his return, he spent the rest of his life as a hermit in the Apennines near

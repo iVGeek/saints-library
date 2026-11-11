@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Emmanuel Nguyen Van Trieu
+stub: false
 honorific: Venerable
 summary: >-
   Raised Catholic. Soldier. Seminarian with the Paris Foreign Mission Society. Ordained at Pong-King. Parish priest in

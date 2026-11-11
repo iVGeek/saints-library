@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Fidharleus
+stub: false
 honorific: Saint
 summary: >-
   Monk. As abbot, he restored the monastery of Rathlin, Ireland after it was damaged in one of the many Viking raids,

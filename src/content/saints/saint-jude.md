@@ -1,5 +1,6 @@
 ---
 name: Saint Jude Thaddeus
+stub: false
 honorific: Saint
 title: St. Jude Thaddeus
 summary: >-

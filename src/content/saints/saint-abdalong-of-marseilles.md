@@ -1,5 +1,6 @@
 ---
 name: Saint Abdalong of Marseille
+stub: false
 honorific: Saint
 title: Bishop
 summary: >-

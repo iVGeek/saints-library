@@ -1,5 +1,6 @@
 ---
 name: Saint Felix of Messina
+stub: false
 honorific: Saint
 summary: Sixth-century spiritual student of Saint Placidus of Messina. Bishop of Messina, Sicily, Italy.
 searchAliases:

@@ -1,5 +1,6 @@
 ---
 name: Blessed María Climent Mateu
+stub: false
 honorific: Blessed
 summary: >-
   Lay woman in the archdiocese of Valencia, Spain, she was baptized on the day of her birth at her parish church of

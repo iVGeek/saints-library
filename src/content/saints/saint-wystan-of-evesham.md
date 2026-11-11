@@ -1,5 +1,6 @@
 ---
 name: Saint Wystan of Evesham
+stub: false
 honorific: Saint
 summary: >-
   Prince of Mercia, the son of Wigmund of Mercia and Ælfflæd, daughter of King Ceolwulf I of Mercia. Killed in his youth

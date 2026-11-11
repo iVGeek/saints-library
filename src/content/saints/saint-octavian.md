@@ -1,5 +1,6 @@
 ---
 name: Saint Octavian of Carthage
+stub: false
 honorific: Saint
 summary: >-
   Archdeacon at Carthage, North Africa. Martyred with several thousand of his flock in the persecutions of the Arian

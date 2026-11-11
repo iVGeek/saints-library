@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Ioachim Ogawa
+stub: true
 honorific: Blessed
 summary: Layman in the diocese of Kyoto, Japan. One of the Martyrs of Kyoto.
 deathYear: 1619

@@ -1,5 +1,6 @@
 ---
 name: Saint Gerald of Braga
+stub: false
 honorific: Saint
 summary: >-
   Born to the French nobility. Benedictine monk at Moissac, France. Taught grammer and music. Worked with the archbishop

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Edith of Caëstre
+stub: false
 honorific: Saint
 summary: >-
   Born a princess, the daughter of King Genolfo of Mercia (in modern England); sister of Saint Sabina and Saint Elfrida.

@@ -1,5 +1,6 @@
 ---
 name: Saint Galen of Armenia
+stub: true
 honorific: Saint
 summary: Martyred in the persecutions of emperor Hadrian.
 born: Armenian

@@ -1,5 +1,6 @@
 ---
 name: Saint Festo of Benevento
+stub: true
 honorific: Saint
 summary: Deacon. Martyr.
 searchAliases:

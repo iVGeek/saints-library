@@ -1,5 +1,6 @@
 ---
 name: Saint Agatha Lin
+stub: false
 honorific: Saint
 summary: Lay woman. Teacher in a Christian school. Catechist. One of the Martyrs of China.
 image: https://commons.wikimedia.org/wiki/Special:FilePath/AgathaLin.jpg?width=600

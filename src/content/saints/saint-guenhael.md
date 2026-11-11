@@ -1,5 +1,6 @@
 ---
 name: Saint Guénhaël
+stub: false
 honorific: Saint
 summary: >-
   Son of a Breton chieftain. Educated at Landevennec, Brittany (in modern France under Saint Winwaloe in 489. Monk at

@@ -1,5 +1,6 @@
 ---
 name: Saint Olympiad of Constantinople
+stub: false
 honorific: Saint
 summary: >-
   Friend of Saint Gregory of Nyssa and Gregory the Theologian. Married to the Prefect of Constantinople. Widowed after

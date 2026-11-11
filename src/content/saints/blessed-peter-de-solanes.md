@@ -1,5 +1,6 @@
 ---
 name: Blessed Peter de Solanes
+stub: true
 honorific: Blessed
 summary: Soldier. Knight. Mercedarian, receiving the habit from Saint Peter Nolasco.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Pietro-de-Solanes.jpg

@@ -1,5 +1,6 @@
 ---
 name: Blessed Filip Geryluk
+stub: false
 honorific: Blessed
 summary: >-
   Married layman and father from Zaczopki, Poland. One of the Marytrs of Podlasie. Noted for encouraging the others to

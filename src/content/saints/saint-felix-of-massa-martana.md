@@ -1,5 +1,6 @@
 ---
 name: Saint Felix of Massa Martana
+stub: false
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Commission_Regulation_%28EEC%29_No_2113-84_of_17_July_1984_fixing_for_the_1983-84_marketing_year_the_yields_of_olives_and_olive_oil_%28EUR_1984-2113%29.pdf/page1-960px-Commission_Regulation_%28EEC%29_No_2113-84_of_17_July_1984_fixing_for_the_1983-84_marketing_year_the_yields_of_olives_and_olive_oil_%28EUR_1984-2113%29.pdf.jpg
 honorific: Saint

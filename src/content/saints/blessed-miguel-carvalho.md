@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Miguel Carvalho
+stub: false
 honorific: Blessed
 summary: >-
   Entered the Jesuits in 1597. Missionary to Goa, India. Priest. Taught theology for 15 years. Missionary to Japan.

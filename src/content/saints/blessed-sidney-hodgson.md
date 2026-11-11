@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Sidney Hodgson
+stub: false
 honorific: Blessed
 summary: Layman. Convert. Martyred for assisting priests during a period of English history when Catholicism was outlawed.
 deathYear: 1591

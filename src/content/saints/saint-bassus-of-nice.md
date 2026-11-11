@@ -1,5 +1,6 @@
 ---
 name: Saint Bassus of Nice
+stub: false
 honorific: Saint
 summary: First bishop of Nice, France. Burned, beaten, tortured, and executed in the persecutions of Emperor Decius. Martyr.
 image: https://upload.wikimedia.org/wikipedia/commons/e/ea/Sanbasso.jpg

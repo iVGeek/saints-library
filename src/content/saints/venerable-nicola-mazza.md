@@ -1,5 +1,6 @@
 ---
 name: Venerable Nicola Mazza
+stub: false
 honorific: Venerable
 summary: >-
   Spiritual student and close friend of Saint Gaspare Bertoni. Ordained a priest in the diocese of Verona, Italy in

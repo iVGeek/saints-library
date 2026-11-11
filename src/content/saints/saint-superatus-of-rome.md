@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Superatus of Rome
+stub: true
 honorific: Saint
 summary: Martyr. No other information has survived.
 died: Rome, Italy

@@ -1,5 +1,6 @@
 ---
 name: Blessed Pope John Paul I
+stub: false
 honorific: Blessed
 summary: >-
   Son of Giovanni Luciani and Bortola Tancon, poor working folks; he was baptized the same day at home by the midwife as

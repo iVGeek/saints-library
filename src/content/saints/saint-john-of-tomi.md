@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint John of Tomi
+stub: false
 honorific: Saint
 summary: >-
   Son of Saint Mannea and Saint Marcellinus. One of group of 17 Christians imprisoned and excuted for their faith during

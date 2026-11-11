@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/8/8b/Il_Gesu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Davíd Carlos-Marañon
+stub: false
 honorific: Blessed
 summary: >-
   Born to a wealthy family, the son of Domenico Carlos and Gregoria Marañon. Served in the military. He then

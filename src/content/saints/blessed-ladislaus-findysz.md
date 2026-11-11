@@ -1,5 +1,6 @@
 ---
 name: Blessed Ladislaus Findysz
+stub: false
 honorific: Blessed
 summary: >-
   Born to pious peasants, the son of Stanislaus Findysz and Apollonia Rachwal. Received his early education from the

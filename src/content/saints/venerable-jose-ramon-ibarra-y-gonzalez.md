@@ -1,5 +1,6 @@
 ---
 name: Venerable José Ramón Ibarra y González
+stub: false
 honorific: Venerable
 summary: >-
   Ordained on 21 February 1880 in the diocese of Tlaxcala, Tlaxcala, México. Bishop of Chilapa, Guerrero, México on 30

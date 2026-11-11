@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/2/27/Heilige_Walburga.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Winebald of Saint Bertin
+stub: true
 honorific: Saint
 summary: Deacon at Saint Bertin Abbey. Murdered by invading Danes. Martyr.
 deathYear: 862

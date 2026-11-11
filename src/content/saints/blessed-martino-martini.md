@@ -1,5 +1,6 @@
 ---
 name: Blessed Martino Martini
+stub: false
 honorific: Blessed
 summary: >-
   Convert to Christianity. He joined the Franciscans, though he never made his solemn profession or became a friar. He

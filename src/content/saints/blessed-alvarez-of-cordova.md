@@ -1,5 +1,6 @@
 ---
 name: Blessed Alvarez of Cordova
+stub: false
 honorific: Blessed
 summary: >-
   Joined the Dominicans at Cordova, Spain in 1368. Renowned and well-travelled preacher, well known in Andalusia and

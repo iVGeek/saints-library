@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Lucian
+stub: false
 honorific: Saint
 summary: >-
   Spent his early life as a demon worshipper and sorcerer. When a Christian woman fended off his spells simply by making

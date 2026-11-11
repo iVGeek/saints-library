@@ -1,5 +1,6 @@
 ---
 name: Saint Lucia Wang Wangzhi
+stub: false
 honorific: Venerable
 summary: >-
   Married and mother of two. On 21 July 1900, an armed group associated with the anti-Christian, anti-Western Boxer

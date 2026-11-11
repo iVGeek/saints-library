@@ -1,5 +1,6 @@
 ---
 name: Blessed Antonio Migliorati
+stub: false
 honorific: Blessed
 summary: >-
   Son of Simpliciano Migliorati, a farmer whose family had little wealth but great faith. Inspired by the life and work

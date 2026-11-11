@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Venerable James Harrison
+stub: false
 honorific: Venerable
 summary: >-
   James studied at the English College at Reims, France, and was ordained a priest there in September 1583. In 1584 he

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Darlaugdach of Kildare
+stub: false
 honorific: Saint
 summary: >-
   Spiritual student of Saint Brigid at her convent in Kildare, Ireland. She succeeded Saint Brigid as abbess of the

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Ogasawara Mari
+stub: false
 honorific: Blessed
 summary: >-
   Lifelong lay woman in the diocese of Fukuoka, Japan. Daughter of Blessed Ogasawara Yosaburo Gen'ya and Blessed

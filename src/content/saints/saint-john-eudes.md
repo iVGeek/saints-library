@@ -1,5 +1,6 @@
 ---
 name: Saint John Eudes
+stub: false
 honorific: Venerable
 title: Missionary
 summary: >-

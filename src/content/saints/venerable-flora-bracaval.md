@@ -1,5 +1,6 @@
 ---
 name: Venerable Flora Bracaval
+stub: false
 honorific: Venerable
 summary: >-
   Nun in the Angelic Sisters of Saint Paul. Superior general of the congregation from 1919 to 1932, she oversaw the

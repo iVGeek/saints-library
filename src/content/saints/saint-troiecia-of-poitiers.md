@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Troiecia of Poitiers
+stub: true
 honorific: Saint
 title: Hermit
 summary: Fourth century hermitess in the area of Rodez, France.

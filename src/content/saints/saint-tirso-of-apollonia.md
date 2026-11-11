@@ -1,5 +1,6 @@
 ---
 name: Saint Tirso of Apollonia
+stub: true
 honorific: Saint
 summary: Martyred in the persecutions of Decius.
 image: https://catholicsaints.info/wp-content/uploads/81370.jpg

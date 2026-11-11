@@ -1,5 +1,6 @@
 ---
 name: Saint Athenogenes of Sebaste
+stub: false
 honorific: Saint
 summary: Bishop. Martyred with ten of his flock in the persecutions of Hierernarchus and Diocletian.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Athenogenes-of-Sebaste.jpg

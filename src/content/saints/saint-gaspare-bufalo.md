@@ -1,5 +1,6 @@
 ---
 name: Saint Gaspare Bufalo
+stub: false
 honorific: Venerable
 summary: >-
   Son of Antonio del Bufalo, a chef to Prince Altieri, and Annunziata Quartieroni. As an infant he suffered from an eye

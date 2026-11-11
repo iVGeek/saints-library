@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Andreas Yamamoto Shichiemon
+stub: false
 honorific: Blessed
 summary: Layman in the diocese of Niigata, Japan. Married to Blessed Maria Yamamoto. Martyr.
 deathYear: 1629

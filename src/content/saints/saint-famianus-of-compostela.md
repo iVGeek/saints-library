@@ -1,5 +1,6 @@
 ---
 name: Saint Famianus of Compostela
+stub: false
 honorific: Saint
 summary: >-
   Born to a wealthy family, he received minor orders at age 18, and planned for the priesthood. He began to despair of

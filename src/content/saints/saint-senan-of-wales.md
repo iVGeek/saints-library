@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Senan of Wales
+stub: true
 honorific: Saint
 summary: Seventh century hermit in north Wales.
 region: England

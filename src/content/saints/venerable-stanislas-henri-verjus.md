@@ -1,5 +1,6 @@
 ---
 name: Venerable Stanislas Henri Verjus
+stub: false
 honorific: Venerable
 summary: >-
   Ordained on 1 November 1883. Member of the Missionaries of the Sacred Heart of Jesus. Titular Bishop of Limyra and

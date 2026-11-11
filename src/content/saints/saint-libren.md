@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Librén
+stub: false
 honorific: Saint
 summary: No certain information about this man has survived, but he is listed in very early martyrologies.
 deathYear: 610

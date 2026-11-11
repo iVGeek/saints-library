@@ -1,5 +1,6 @@
 ---
 name: Saint Augustinus Yu Chin-Kil
+stub: false
 honorific: Venerable
 summary: >-
   Married layman catechist in the apstolic vicariate of Korea. Wrote to Pope Gregory XVI, asking for missionaries and

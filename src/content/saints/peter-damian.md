@@ -1,5 +1,6 @@
 ---
 name: Peter Damian
+stub: false
 honorific: Saint
 title: Cardinal, Doctor of the Church
 summary: >-

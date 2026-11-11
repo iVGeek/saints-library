@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/6/60/SSND_symbol_2017.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Maria of Kyoto
+stub: true
 honorific: Blessed
 summary: Lay woman in the Kyoto, Japan. One of the Martyrs of Kyoto.
 deathYear: 1619

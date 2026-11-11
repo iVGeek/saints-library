@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Gerebald of Chalons
+stub: false
 honorific: Saint
 title: Bishop
 summary: Bishop of Chalons-sur-Seine, France in 864; he served the last 21 years of his life.

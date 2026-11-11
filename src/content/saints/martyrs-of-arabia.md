@@ -1,5 +1,6 @@
 ---
 name: Martyrs of Arabia
+stub: false
 honorific: Saint
 summary: >-
   A memorial for all the unnamed Christians martyred in the desert and mountainous areas south of the Dead Sea during

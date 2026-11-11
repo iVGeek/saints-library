@@ -1,5 +1,6 @@
 ---
 name: Saint Iosephus Im Ch'i-P'ek
+stub: true
 honorific: Venerable
 summary: Married layman in the apostolic vicariate of Korea. Martyr.
 image: https://catholicsaints.info/wp-content/uploads/img-Maryrs-of-Korea.jpg

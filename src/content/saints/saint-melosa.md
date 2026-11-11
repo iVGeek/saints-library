@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Melosa
+stub: true
 honorific: Saint
 summary: Martyr. No other information has survived.
 died: Thessalonica

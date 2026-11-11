@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Florentius of Furcona
+stub: false
 honorific: Saint
 summary: One of a group of soldiers martyred in the persecutions of Maximinius the Thracian.
 deathYear: 235

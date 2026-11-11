@@ -1,5 +1,6 @@
 ---
 name: Blessed Alexander of Verona
+stub: false
 image: >-
   https://commons.wikimedia.org/wiki/Special:FilePath/Aleksander_Gierymski_-_Portal_of_the_church_of_St._Anastasia_in_Verona_-_MP_629_MNW_-_National_Museum_in_Warsaw.jpg?width=600
 honorific: Blessed

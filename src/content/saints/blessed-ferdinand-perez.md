@@ -1,5 +1,6 @@
 ---
 name: Blessed Ferdinand Perez
+stub: false
 honorific: Blessed
 summary: >-
   Mercedarian lay knight dispatched to Tunis in North Africa to redeem Christians who were enslaved by Muslim Saracens.

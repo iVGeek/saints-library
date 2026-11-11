@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/a/a5/Richard_III_of_Normandy.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Nichole
+stub: true
 honorific: Saint
 summary: Abbess of the convent at Almenêches Abbey, France.
 region: France

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Mark of Antioch
+stub: true
 honorific: Saint
 summary: Martyr. No other information has survived.
 died: Antioch, Pisidia (in modern Turkey)

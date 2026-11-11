@@ -1,5 +1,6 @@
 ---
 name: Saint Gioan Ðoàn Trinh Hoan
+stub: false
 honorific: Venerable
 summary: >-
   Priest in the apostolic vicariate of North Cochinchina (in modern Vietnam) who worked to evanglize his countrymen.

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Walter of Himmerode
+stub: false
 honorific: Blessed
 summary: >-
   Knight in the Third Crusade, and frequent combatant in royal jousts. Benedictine Cistercian monk at Himerrode (in

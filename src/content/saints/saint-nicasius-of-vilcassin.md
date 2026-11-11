@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Nicasius of Vilcassin
+stub: true
 honorific: Saint
 summary: Martyr.
 died: Vexin Lugdunense territory of Gaul (modern Vilcassin, France)

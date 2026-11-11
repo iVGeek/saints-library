@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Jorandus of Kergrist
+stub: false
 honorific: Saint
 summary: Benedictine monk and hermit at Kergrist, France. Hermit at Saint-Juhee monastery at Pedernec, France.
 deathYear: 1340

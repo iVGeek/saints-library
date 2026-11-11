@@ -1,5 +1,6 @@
 ---
 name: Guardians of the Holy Scriptures
+stub: false
 honorific: Saint
 summary: >-
   A large number of Christians tortured and murdered in Numidia (part of modern Algeria) during the persecutions of

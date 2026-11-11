@@ -1,5 +1,6 @@
 ---
 name: Venerable José María García Lahiguera
+stub: false
 honorific: Venerable
 summary: >-
   Ordained a priest in the archdiocese of Madrid, Spain on 29 May 1926. Doctor of canon law in 1928. He taught, served

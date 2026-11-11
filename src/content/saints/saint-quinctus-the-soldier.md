@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Quinctus the Soldier
+stub: false
 honorific: Saint
 summary: One of a group of 50 soldiers martyred in Africa. No other information about them has survived.
 died: in Africa

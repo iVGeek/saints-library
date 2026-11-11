@@ -1,5 +1,6 @@
 ---
 name: Saint Magnus of Anagni
+stub: false
 honorific: Saint
 summary: >-
   Son of Apollonius, a poor farmer. As a young man he worked as a shepherd to support his family and neighbors who were

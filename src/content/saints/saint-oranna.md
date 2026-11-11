@@ -1,5 +1,6 @@
 ---
 name: Saint Oranna
+stub: false
 honorific: Saint
 summary: >-
   While there are multiple stories about her origin, including that she was a princess from Ireland, a princess from

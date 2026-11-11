@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Maurus of Bisceglia
+stub: false
 honorific: Saint
 summary: >-
   Spiritual student of Saint Peter the Apostle. Assigned by Peter as the first Bishop of Bisceglia, Italy. Martyred in

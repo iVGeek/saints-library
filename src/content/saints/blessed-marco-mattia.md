@@ -1,5 +1,6 @@
 ---
 name: Blessed Marco Mattia
+stub: false
 honorific: Blessed
 summary: >-
   Joined the Mercedarians at the convent at Maleville, France. Missionary to Tunisia in 1293. Grabbed by a Muslim mob

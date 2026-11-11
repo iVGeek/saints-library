@@ -1,5 +1,6 @@
 ---
 name: Saint Patricia of Naples
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility, possibly related to the emperor. To escape an arranged marriage, and to give herself to the

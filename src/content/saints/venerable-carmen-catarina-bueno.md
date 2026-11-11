@@ -1,5 +1,6 @@
 ---
 name: Venerable Carmen Catarina Bueno
+stub: false
 honorific: Venerable
 summary: >-
   As her mother was only 15 years old when Carminha was born, she was raised by her grandparents in Campinas, Brazil.

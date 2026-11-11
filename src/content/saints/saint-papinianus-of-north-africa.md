@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/0/0e/Saint_Peter%27s_Basilica_facade%2C_Rome%2C_Italy.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Papinianus of North Africa
+stub: false
 honorific: Saint
 summary: Fifth century African bishop. Martyred in the persecutions of the Arian Vandal king Genseric.
 born: North Africa

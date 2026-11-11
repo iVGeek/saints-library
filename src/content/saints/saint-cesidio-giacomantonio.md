@@ -1,5 +1,6 @@
 ---
 name: Saint Cesidio Giacomantonio
+stub: false
 honorific: Venerable
 summary: >-
   Born to Giovanni and Maria Loreta Antonucci. Early feeling a call to religious life, Angelo joined the Franciscan

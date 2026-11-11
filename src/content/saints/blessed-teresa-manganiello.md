@@ -1,5 +1,6 @@
 ---
 name: Blessed Teresa Manganiello
+stub: false
 honorific: Blessed
 summary: >-
   Born to a farm family. Lifelong lay woman in the Diocese of Benevento, Italy. She was strongly drawn to the religious

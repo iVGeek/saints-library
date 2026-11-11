@@ -1,5 +1,6 @@
 ---
 name: Saint Gildard of Rouen
+stub: false
 honorific: Saint
 summary: Bishop of Rouen, France from 488 to 525. Attended the First Council of Orléans in 511.
 image: https://catholicsaints.info/wp-content/uploads/Gordard-of-Rouen-01-a.jpg

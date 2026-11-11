@@ -1,5 +1,6 @@
 ---
 name: Saint Lidanus of Sezze
+stub: false
 honorific: Saint
 summary: >-
   Benedictine monk. Abbot. Drained the Pontine marshes in Italy. Founded an abbey in Sezze in the Papal States (part of

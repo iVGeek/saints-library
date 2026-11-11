@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/a/a0/St.ANTONY%27S_CHURCH%2C_OLLUR.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Antony Page
+stub: false
 honorific: Blessed
 summary: >-
   Studied at Douai, France. Ordained in 1591. Returned to England to minister to covert Catholics in the persecutions of

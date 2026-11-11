@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Priscus of Caesarea
+stub: false
 honorific: Saint
 summary: >-
   Hermit in the area of Caesarea in Palestine. During a period of persecution in the region, he went into the city and

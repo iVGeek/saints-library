@@ -1,5 +1,6 @@
 ---
 name: Saint Joseph Pignatelli
+stub: false
 honorific: Venerable
 summary: >-
   His mother was Spanish, his father an Italian noble. An orphan at age 9, he became a resident student at the Jesuit

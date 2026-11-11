@@ -1,5 +1,6 @@
 ---
 name: Blessed Francis Patrizzi
+stub: false
 honorific: Blessed
 summary: >-
   Converted to an active faith after hearing the preaching of Blessed Ambrose Sansedoni. He felt drawn to religious

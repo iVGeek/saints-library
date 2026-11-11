@@ -1,5 +1,6 @@
 ---
 name: Blessed Vicente Cabanes Badenas
+stub: false
 honorific: Blessed
 summary: >-
   Eldest of four brothers. Studied at the University of Valencia and the Institute for Criminal Studies. Joined the

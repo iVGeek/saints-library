@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Dorimedonte of Synnada
+stub: true
 honorific: Saint
 summary: Martyr.
 died: Synnada, Phrygia (in modern Turkey)

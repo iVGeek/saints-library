@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Ornandus of Vicogne
+stub: false
 honorific: Blessed
 summary: >-
   Member of a gang of thieves, he was led to conversion by Abbot Egidius of Vicogne. Premonstratensian lay brother at

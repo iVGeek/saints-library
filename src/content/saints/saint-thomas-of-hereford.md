@@ -1,5 +1,6 @@
 ---
 name: Saint Thomas of Hereford
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility, the son of Baron William de Cantilupe. Educated in Oxford, England, and in France at Paris and

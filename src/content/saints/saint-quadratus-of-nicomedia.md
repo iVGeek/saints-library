@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Quadratus of Nicomedia
+stub: true
 honorific: Saint
 summary: Tortured and martyred in the persecutions of Decius.
 died: beheaded in Nicomedia (in modern Turkey)

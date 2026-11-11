@@ -1,5 +1,6 @@
 ---
 name: Saint Manchán of Lemanaghan
+stub: false
 honorific: Saint
 summary: >-
   His mother was Mella, his father Sillán, son of Conall, descendant of Rudraige Mór of Ulster. Monk. Spiritual student

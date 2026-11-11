@@ -1,5 +1,6 @@
 ---
 name: Blessed Alphais of Cudot
+stub: false
 honorific: Blessed
 summary: >-
   Born to a poor peasant family. Bed-ridden with leprosy while still very young; in later life she first lost the use of

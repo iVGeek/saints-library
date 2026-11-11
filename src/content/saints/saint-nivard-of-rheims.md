@@ -1,5 +1,6 @@
 ---
 name: Saint Nivard of Rheims
+stub: false
 honorific: Saint
 summary: >-
   Born to the wealthy Gallic nobility, a member of the ruling Merovingians. He served in the imperial court, and was the

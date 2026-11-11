@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/7/7e/Joseph_Overseer_of_Pharaoh%27s_Graneries_1874.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Peter of Chavanon
+stub: false
 honorific: Blessed
 title: Priest
 summary: >-

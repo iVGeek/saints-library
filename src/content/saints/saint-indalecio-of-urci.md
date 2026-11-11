@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Indalecio of Urci
+stub: true
 honorific: Saint
 summary: Early missionary and bishop of Urci (modern Almería, Spain).
 region: Spain

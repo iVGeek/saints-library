@@ -1,5 +1,6 @@
 ---
 name: Blessed Abilio Villareal Abaza
+stub: false
 honorific: Blessed
 summary: Monk. Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War.
 searchAliases:

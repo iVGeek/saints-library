@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Nestulus of Gaza
+stub: false
 honorific: Saint
 summary: >-
   Brother of Saint Eusebius and Zeno. Seized, dragged through the street, beaten and murdered by a pagan mob celebrating

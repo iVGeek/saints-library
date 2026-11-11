@@ -1,5 +1,6 @@
 ---
 name: Blessed Mariano Suárez Fernández
+stub: false
 image: https://upload.wikimedia.org/wikipedia/commons/c/c0/Mariano_Fernandez_GNAZZO.jpg
 honorific: Blessed
 summary: Seminarian of the archdiocese of Oviedo, Spain. Martyred in the Spanish Civil War.

@@ -1,5 +1,6 @@
 ---
 name: Saint Hallvard of Oslo
+stub: false
 honorific: Saint
 summary: >-
   Born to the Norwegian royalty. In 1043, as he was about to cross the Drammenfjord in a boat, a woman ran up to him,

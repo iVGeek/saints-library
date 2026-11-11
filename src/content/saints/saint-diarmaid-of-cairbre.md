@@ -1,5 +1,6 @@
 ---
 name: Saint Diarmaid of Cairbre
+stub: false
 honorific: Saint
 title: Priest
 summary: >-

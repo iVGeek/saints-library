@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Seleucius of Caesarea
+stub: false
 honorific: Saint
 summary: >-
   After watching the martyrdom of Saint Porphyrius, Seleucus praised the saint's actions. Some soldiers overheard him,

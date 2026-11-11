@@ -1,5 +1,6 @@
 ---
 name: Saint Basil of Ancyra
+stub: false
 honorific: Saint
 summary: >-
   Priest in Ancyra, Galatia (in Asia Minor). Fought against the Arian heretics in the reign of emperor Constantius, and

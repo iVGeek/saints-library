@@ -1,5 +1,6 @@
 ---
 name: Venerable Giulia Bonifacio
+stub: false
 honorific: Venerable
 summary: >-
   Member of the Alcantarine Franciscan Sisters where she served as novice mistress and vicar general of the Sisters.

@@ -1,5 +1,6 @@
 ---
 name: Blessed Jane of Orvieto
+stub: false
 honorific: Blessed
 summary: >-
   Born to a peasant family and orphaned at age five. Worked as a seamstress and embroiderer. Refused marriage as a young

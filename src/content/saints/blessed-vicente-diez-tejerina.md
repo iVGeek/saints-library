@@ -1,5 +1,6 @@
 ---
 name: Blessed Vicente Díez Tejerina
+stub: false
 honorific: Blessed
 summary: Passionist priest. Provincial superior of his Order. Martyred in the Spanish Civil War. One of the Martyrs of Daimiel.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Vicente-Díez-Tejerina.jpg

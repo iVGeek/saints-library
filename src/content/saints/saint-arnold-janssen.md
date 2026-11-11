@@ -1,5 +1,6 @@
 ---
 name: Saint Arnold Janssen
+stub: false
 honorific: Venerable
 summary: >-
   Arnold felt an early call to the priesthood, and was ordained in August 1861. Well educated, he taught science and

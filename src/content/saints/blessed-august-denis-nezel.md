@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/4f/Frm_beatification_banner.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed August-Dénis Nezel
+stub: false
 honorific: Blessed
 summary: >-
   Auguste studied classics at the college of Montaigu. Drawn to religious life, he joined Sulpicians, taught Latin and

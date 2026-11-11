@@ -1,5 +1,6 @@
 ---
 name: Blessed Maria Teresa of Jesus
+stub: false
 honorific: Blessed
 summary: >-
   An unknown illness kept the young Maria bedridden for two years; she was cured following a vision of Saint Fiorenzo,

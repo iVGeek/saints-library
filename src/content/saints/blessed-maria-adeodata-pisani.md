@@ -1,5 +1,6 @@
 ---
 name: Blessed Maria Adeodata Pisani
+stub: false
 honorific: Blessed
 summary: >-
   Daughter of Baron Benedict Pisani Mompalao Cuzker and Vincenza Carrano. Her father was rich, noble, Maltese, and an

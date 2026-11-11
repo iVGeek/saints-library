@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Drouet of Auxerre
+stub: true
 honorific: Saint
 summary: Bishop of Auxerre, France.
 deathYear: 532

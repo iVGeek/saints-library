@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/f/f8/Edmundus_Campion.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Maximus the Martyr
+stub: true
 honorific: Saint
 summary: Martyred in the persecutions of Valerian.
 deathYear: 257

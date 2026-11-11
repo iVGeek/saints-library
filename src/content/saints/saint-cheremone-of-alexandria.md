@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Cheremone of Alexandria
+stub: false
 honorific: Saint
 summary: Suffered and exiled in the persecutions of Decius. Martyred in the persecutions of Valerian.
 searchAliases:

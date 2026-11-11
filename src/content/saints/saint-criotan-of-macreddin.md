@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Criotan of Macreddin
+stub: false
 honorific: Saint
 summary: >-
   Son of Illudion (Iladon, Lolladon). After inadvertently killing his father, Criotan withdrew from the world to live as

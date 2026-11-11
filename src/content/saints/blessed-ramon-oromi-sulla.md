@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/f/fe/Beatificaciotarragona2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Ramon Oromí Sullà
+stub: false
 honorific: Blessed
 summary: >-
   Priest. Member of the Sons of the Holy Family; worked as secretary for his Institute. Publisher of their magazine.

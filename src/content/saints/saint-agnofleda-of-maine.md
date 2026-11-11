@@ -1,5 +1,6 @@
 ---
 name: Saint Agnofleda of Maine
+stub: true
 honorific: Saint
 summary: Nun. Spiritual student of Saint Lonochilus of Maine.
 searchAliases:

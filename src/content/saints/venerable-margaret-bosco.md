@@ -1,5 +1,6 @@
 ---
 name: Venerable Margaret Bosco
+stub: false
 honorific: Venerable
 summary: >-
   Married to Francis Bosco. Mother of Joseph and Saint John Bosco. Widowed in 1817 at age 29. Took care of her sons, her

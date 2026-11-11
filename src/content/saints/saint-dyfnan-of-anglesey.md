@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Dyfnan of Anglesey
+stub: true
 honorific: Saint
 summary: Founded a church in Anglesey, Wales.
 born: Wales

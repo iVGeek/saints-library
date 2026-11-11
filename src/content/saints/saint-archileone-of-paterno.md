@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Archileone of Paternò
+stub: false
 honorific: Saint
 summary: ' The records of this saint apparently compress several people of this name with similar works, because stories variously Monk and missionary to Sicily, working in the area of Sutera, Italy. He spent his later days as a prayerful ascetic cave hermit near the town of Paternò, Italy.'
 searchAliases:

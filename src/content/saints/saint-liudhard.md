@@ -1,5 +1,6 @@
 ---
 name: Saint Liudhard
+stub: false
 honorific: Saint
 summary: >-
   Chaplain of Queen Bertha of Kent. Bishop. Helped convert King Ethelbert of Kent, which led to the conversion of all of

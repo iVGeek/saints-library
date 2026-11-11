@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Angelus Sinesius
+stub: false
 honorific: Blessed
 summary: >-
   Benedictine monk in the monastery of San Nicolà l'Arena in Catania, Italy; he later served there as prior. Abbot of

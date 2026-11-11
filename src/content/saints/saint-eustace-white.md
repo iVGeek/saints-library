@@ -1,5 +1,6 @@
 ---
 name: Saint Eustace White
+stub: false
 honorific: Venerable
 summary: >-
   Convert to Catholicism which led to his anti-Catholic father cursing him and caused a permanent estrangement from his

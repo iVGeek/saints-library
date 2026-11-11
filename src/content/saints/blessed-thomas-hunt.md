@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/0/0a/St-thomas-aquinasFXD.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Thomas Hunt
+stub: false
 honorific: Blessed
 summary: >-
   Studied at the Royal College of Saint Alban in Valladolid, Spain, and the English College of Saint Gregory in Seville,

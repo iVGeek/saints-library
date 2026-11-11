@@ -1,5 +1,6 @@
 ---
 name: Saint Silvio of Toulouse
+stub: false
 honorific: Saint
 title: Bishop
 summary: >-

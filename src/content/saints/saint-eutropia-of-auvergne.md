@@ -1,6 +1,7 @@
 ---
 image: https://www.santiebeati.it/immagini/Thumbs/100208/100208.jpg
 name: Saint Eutropia of Auvergne
+stub: true
 honorific: Saint
 summary: Holy 5th century widow in Auvergne, France. No other information has survived.
 region: France

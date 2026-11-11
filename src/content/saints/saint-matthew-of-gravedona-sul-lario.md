@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Matthew of Gravedona sul Lario
+stub: true
 honorific: Saint
 summary: May have been a soldier in the Theban Legion. Martyr.
 deathYear: 1248

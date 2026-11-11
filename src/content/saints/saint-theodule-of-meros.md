@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Theodule of Meros
+stub: false
 honorific: Saint
 summary: Tortured and martyred in the persecutions of emperor Julian the Apostate and governor Almachio.
 searchAliases:

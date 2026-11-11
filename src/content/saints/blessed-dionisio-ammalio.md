@@ -1,5 +1,6 @@
 ---
 name: Blessed Dionisio Ammalio
+stub: false
 honorific: Blessed
 summary: >-
   Mercedarian friar at the convent of Santa Maria di Montebianco in Tarragona, Spain. Sent to Tunis in north Africa

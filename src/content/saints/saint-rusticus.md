@@ -1,5 +1,6 @@
 ---
 name: Saint Rusticus
+stub: true
 honorific: Saint
 summary: Priest. Tortured and martyred with Saint Denis.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Rusticus-and-Saint-Eleuthere.jpg

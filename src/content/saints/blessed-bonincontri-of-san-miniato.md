@@ -1,6 +1,7 @@
 ---
 image: https://www.santiebeati.it/immagini/Thumbs/99282/99282.jpg
 name: Blessed Bonincontri of San Miniato
+stub: false
 honorific: Blessed
 summary: >-
   A spiritual student of Saint Francis of Assisi, Bonincontri was one of the first Franciscan friars, helping found the

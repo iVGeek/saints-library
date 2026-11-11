@@ -1,5 +1,6 @@
 ---
 name: Saint Joseph Mary Tomasi
+stub: false
 honorific: Saint
 summary: >-
   Born to the wealthy Sicilian nobility, the son of the duke of Palermo, Italy and Rosalia Traino. When their children

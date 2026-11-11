@@ -1,5 +1,6 @@
 ---
 name: Saint Chuniald
+stub: false
 honorific: Saint
 summary: >-
   Seventh-century missionary priest in the region of Bavaria in modern Germany and Austria. Worked with Saint Rupert of

@@ -1,5 +1,6 @@
 ---
 name: Saint Abbo of Auxerre
+stub: false
 honorific: Saint
 summary: >-
   Monk and abbot at Saint Germain monastery at Auxerre, France. Bishop of Auxerre in 857. Assisted at the synod of Poncy

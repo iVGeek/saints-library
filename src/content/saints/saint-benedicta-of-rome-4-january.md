@@ -1,5 +1,6 @@
 ---
 name: Saint Benedicta of Rome
+stub: true
 honorific: Saint
 summary: Nun. Martyred in the persecutions of Julian the Apostate.
 searchAliases:

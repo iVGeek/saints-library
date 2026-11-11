@@ -1,5 +1,6 @@
 ---
 name: Saint Aubert of Arras
+stub: false
 honorific: Saint
 summary: >-
   Bishop of the diocese of Arras, France in 603. Built churches and founded several monasteries in Flanders and Hainault

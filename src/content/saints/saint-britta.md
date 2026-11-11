@@ -1,5 +1,6 @@
 ---
 name: Saint Britta
+stub: false
 image: https://upload.wikimedia.org/wikipedia/commons/b/bd/TS_Britta.jpg
 honorific: Saint
 summary: >-

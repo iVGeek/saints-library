@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Archebran
+stub: true
 honorific: Saint
 summary: Lived in Cornwall, England. No other information is available.
 born: Irish

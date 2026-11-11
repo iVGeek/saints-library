@@ -1,5 +1,6 @@
 ---
 name: Blessed Elizabeth Vendramini
+stub: false
 honorific: Blessed
 summary: >-
   Elizabeth studied with the Augustinian Sisters. At age 22, against the wishes of her family, she became engaged to a

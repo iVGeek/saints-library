@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Ethelburgh of Kent
+stub: false
 honorific: Saint
 summary: >-
   Born a princess, the daughter of King Saint Ethelbert of Kent (part of modern England). Married to King Edwin of

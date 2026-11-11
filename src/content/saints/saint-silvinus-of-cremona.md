@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Silvinus of Cremona
+stub: true
 honorific: Saint
 title: Bishop
 summary: Mid-eighth century bishop of Cremona, Italy, serving for 39 years.

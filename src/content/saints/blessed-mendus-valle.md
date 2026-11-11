@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Mendus Valle
+stub: false
 honorific: Blessed
 summary: >-
   Member of the Knights of Santiago de Castilla. During the re-conquest of the Iberian peninsula from the Muslims by

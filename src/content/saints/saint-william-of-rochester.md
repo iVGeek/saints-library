@@ -1,5 +1,6 @@
 ---
 name: Saint William of Rochester
+stub: false
 honorific: Saint
 summary: >-
   William led a wild and misspent youth, but as an adult he had a complete conversion, devoting himself to God, caring

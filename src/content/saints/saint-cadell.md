@@ -1,5 +1,6 @@
 ---
 name: Saint Cadell
+stub: false
 honorific: Saint
 summary: Llangadell, Glamorgan, Wales is named for this 7th century saint No other information has survived.
 searchAliases:

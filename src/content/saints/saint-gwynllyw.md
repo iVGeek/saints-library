@@ -1,5 +1,6 @@
 ---
 name: Saint Gwynllyw
+stub: false
 honorific: Saint
 summary: >-
   Chieftain and layman. Proposed marriage to Saint Gladys, the daughter of Brychan of Brecknock. When Brychan refused,

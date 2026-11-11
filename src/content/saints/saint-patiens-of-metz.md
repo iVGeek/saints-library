@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Patiens of Metz
+stub: true
 honorific: Saint
 summary: Fourth bishop of Metz, France in the second century.
 searchAliases:

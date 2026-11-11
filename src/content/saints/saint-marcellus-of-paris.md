@@ -1,5 +1,6 @@
 ---
 name: Saint Marcellus of Paris
+stub: true
 honorific: Saint
 title: Bishop
 summary: Bishop of Paris, France.

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Beocca of Chertsey
+stub: false
 honorific: Saint
 summary: Benedictine abbot at Chertsey Abbey. Martyred with 90 of his brothers by pagan Danish raiders.
 deathYear: 869

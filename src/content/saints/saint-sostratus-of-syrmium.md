@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Sostratus of Syrmium
+stub: true
 honorific: Saint
 summary: Martyr. No other information has survived.
 died: 4th century in Syrmium, Pannonia (modern Serbia)

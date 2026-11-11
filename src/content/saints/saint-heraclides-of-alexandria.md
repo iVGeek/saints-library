@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Heraclides of Alexandria
+stub: false
 honorific: Saint
 summary: Catechumen. Spiritual student of Origen. Martyred in the persecutions of Severus.
 searchAliases:

@@ -1,5 +1,6 @@
 ---
 name: Saint Fortunatus of Todi
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Todi, Italy. Saved Todi from being sacked by Totila the Goth. Converted many and showed the power of God

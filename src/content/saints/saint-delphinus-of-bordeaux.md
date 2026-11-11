@@ -1,5 +1,6 @@
 ---
 name: Saint Delphinus of Bordeaux
+stub: false
 honorific: Saint
 summary: >-
   Friend of Saint Ambrose of Milan and Saint Venerius of Milan. Instrumental in converting Saint Paulinus of Nola.

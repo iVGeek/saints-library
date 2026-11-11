@@ -1,5 +1,6 @@
 ---
 name: Blessed Franz Jägerstätter
+stub: false
 honorific: Blessed
 summary: >-
   Born to Rosalia Huber and Franz Bachmeier, servants too poor to get married. His father died in World War I when the

@@ -1,5 +1,6 @@
 ---
 name: Blessed Jacques André
+stub: true
 honorific: Blessed
 summary: Priest in the diocese of Laval, France. Martyred in the French Revolution.
 birthYear: 1743

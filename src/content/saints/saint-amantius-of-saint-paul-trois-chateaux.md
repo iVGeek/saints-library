@@ -1,5 +1,6 @@
 ---
 name: Saint Amantius of Saint-Paul-Trois-Châteaux
+stub: true
 honorific: Saint
 title: Bishop
 summary: 10th bishop of the diocese of Saint-Paul-Trois-Châteaux, France.

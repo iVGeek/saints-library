@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Hippolytus of Atripalda
+stub: false
 honorific: Saint
 summary: >-
   Priest, wandering preacher and miracle worker from Antioch. In the area of Abellinum (near modern Atripalda, Italy),

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Salaun of Leseven
+stub: false
 honorific: Saint
 summary: >-
   A poor man who lived as a beggar in a forest clearing outside Leseven, Brittany, France. He greeted everyone with the

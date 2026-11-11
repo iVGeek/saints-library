@@ -1,5 +1,6 @@
 ---
 name: Blessed Andrew the Catechist
+stub: false
 honorific: Blessed
 summary: >-
   Son of a devoutly Christian mother, Anrê was baptized at age 15 by Jesuit missionary Father Alexandre de Rhodes.

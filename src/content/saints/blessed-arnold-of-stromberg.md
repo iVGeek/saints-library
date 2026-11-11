@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/0/0e/Bakounine_-_Lettres_%C3%A0_Herzen_et_Ogarev%2C_trad._Stromberg%2C_Perrin%2C_1896.djvu?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 name: Blessed Arnold of Stromberg
+stub: false
 honorific: Blessed
 summary: >-
   A servant of Blessed Walter of Himmerode, the two men joined the Cistercians together and spent their days as

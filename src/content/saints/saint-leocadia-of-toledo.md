@@ -1,5 +1,6 @@
 ---
 name: Saint Leocadia of Toledo
+stub: false
 honorific: Saint
 summary: >-
   Slave. Beaten and imprisoned for refusing to denounce her faith during the Diocletian persecutions. Scheduled for

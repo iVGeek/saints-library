@@ -1,5 +1,6 @@
 ---
 name: Saint Hilarion of Espalion
+stub: false
 honorific: Saint
 summary: >-
   Born to the Gallic nobility, he was known as a pious child. Priest in Lévinhac, France. He would often pass through an

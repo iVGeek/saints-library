@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Pollio of Cybalae
+stub: false
 honorific: Saint
 summary: >-
   Lector of the church of Cybalae in Pannonia. Martyred in the persecutions of Diocletian for refusing to sacrifice to

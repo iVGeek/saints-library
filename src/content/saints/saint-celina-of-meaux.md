@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Celina of Meaux
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility, she was drawn to religious life; this desire was intensified when she met Saint Genevieve. Her

@@ -1,5 +1,6 @@
 ---
 name: Saint Nicolaas Pieck
+stub: false
 honorific: Saint
 summary: >-
   Son of John Pieck and Henriea Clavia, a pious Catholic family with a long history. Educated at Bois-le-Duc,

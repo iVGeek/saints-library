@@ -1,5 +1,6 @@
 ---
 name: Blessed Giovanni Bufalari
+stub: false
 honorific: Blessed
 summary: >-
   Brother of Blessed Lucy Bufalari. Augustinian friar-hermit at Rieti, Italy. Loved to serve at Mass. Friary porter,

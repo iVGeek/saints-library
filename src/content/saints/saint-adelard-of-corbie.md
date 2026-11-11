@@ -1,5 +1,6 @@
 ---
 name: Saint Adelard of Corbie
+stub: false
 honorific: Saint
 summary: >-
   Grandson of Charles Martel; nephew of King Pepin the Short; first cousin of Charlemagne; half-brother of Saint Walla

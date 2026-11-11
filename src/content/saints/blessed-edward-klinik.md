@@ -1,5 +1,6 @@
 ---
 name: Blessed Edward Klinik
+stub: false
 honorific: Blessed
 summary: >-
   Young layman in the archdiocese of Poznan, Poland; his sister became an Ursuline nun. Educated by Salesians in

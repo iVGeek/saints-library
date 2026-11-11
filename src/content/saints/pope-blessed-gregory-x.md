@@ -1,5 +1,6 @@
 ---
 name: Pope Blessed Gregory X
+stub: false
 honorific: Blessed
 summary: ' Worked Worked for Cardinal Jacopo of Palestrina. Archdeacon of Liege, Belgium. Assigned to preach the last Crusade. Accompanied the Crusaders to Palestine, and was still there when elected Pope; he was elected before being ordained a priest. Ordained on 19 March 1272. 184th pope.'
 image: https://commons.wikimedia.org/wiki/Special:FilePath/Gregory_X%252C_Buffalmacco%252C_Arezzo_Cathedral.jpg?width=600

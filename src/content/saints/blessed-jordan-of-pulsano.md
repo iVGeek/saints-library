@@ -1,5 +1,6 @@
 ---
 name: Blessed Jordan of Pulsano
+stub: false
 honorific: Blessed
 summary: >-
   Benedictine monk at Pulsano, Italy. Spiritual student of Saint John of Pulsano. Abbot-general of Pulsano from 1139 to

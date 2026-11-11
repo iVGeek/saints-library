@@ -1,5 +1,6 @@
 ---
 name: Blessed Charles of Blois
+stub: false
 honorific: Blessed
 summary: >-
   Son of Guy de Chatillon, Count of Blois, and Margaret, sister of King Philip VI of France. Charles felt a call to be a

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Romanus of Baghdad
+stub: false
 honorific: Saint
 summary: >-
   Monk in Bithynia. While out on business for his monastery, he was captured by Saracens and sent to Baghdad. He was

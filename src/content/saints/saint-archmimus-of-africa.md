@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Archmimus of Africa
+stub: true
 honorific: Saint
 summary: Marytred in the persecutions of the Vandal king Genseric.
 died: North Africa

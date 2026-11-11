@@ -1,5 +1,6 @@
 ---
 name: Blessed Helena Stollenwerk
+stub: false
 honorific: Blessed
 summary: >-
   Anna grew up in a pious farm family that was always involved in parish life. Feeling a call to religious life in her

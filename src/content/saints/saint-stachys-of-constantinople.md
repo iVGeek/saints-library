@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Stachys of Constantinople
+stub: false
 honorific: Saint
 summary: >-
   First bishop of Constantinople, ordained by Saint Andrew the Apostle. Greeted by Saint Paul the Apostle in the Epistle

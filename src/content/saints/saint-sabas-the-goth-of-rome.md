@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Sabas the Goth of Rome
+stub: false
 honorific: Saint
 summary: >-
   Military officer of Gothic descent. Tortured and murdered with 70 unnamed companions in the persecutions of Aurelian

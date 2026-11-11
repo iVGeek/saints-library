@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed James Gerius
+stub: false
 honorific: Blessed
 summary: Camaldolese monk at Florence, Italy. Noted for his devotion to the Sacred Will of God.
 birthYear: 1312

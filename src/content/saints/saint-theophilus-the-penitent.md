@@ -1,5 +1,6 @@
 ---
 name: Saint Theophilus the Penitent
+stub: false
 honorific: Saint
 summary: >-
   Archdeacon and treasurer of the church in Adana, Cilicia (in modern Turkey). Offered the bishopric of Adana, he

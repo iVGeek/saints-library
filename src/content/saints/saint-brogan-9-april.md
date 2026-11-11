@@ -1,5 +1,6 @@
 ---
 name: Saint Brogan
+stub: true
 image: https://commons.wikimedia.org/wiki/Special:FilePath/Brogan%252C_Oregon%252C_Frontier_store.jpg?width=600
 honorific: Saint
 summary: Mentioned in the Gorman Martyrology. No other information has survived.

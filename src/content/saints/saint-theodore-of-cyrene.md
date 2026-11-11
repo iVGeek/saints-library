@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Theodore of Cyrene
+stub: false
 honorific: Saint
 summary: >-
   Scribe and manuscript copyist. Bishop of Cyrene, Libya. Arrested in the persecutions of Diocletian. Theodore was

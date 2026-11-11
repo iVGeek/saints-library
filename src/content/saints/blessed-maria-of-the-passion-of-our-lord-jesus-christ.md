@@ -1,5 +1,6 @@
 ---
 name: Blessed Maria of the Passion of Our Lord Jesus Christ
+stub: false
 honorific: Blessed
 summary: >-
   Born to Leopoldo Tarallo and Concetta Borriello, Maria was raised in a pious family, and received a Christian

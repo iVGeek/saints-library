@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Celerinus of Carthage
+stub: false
 honorific: Saint
 summary: >-
   Nephew of Saint Laurentinus, Saint Laurentius, and Saint Clerina. Imprisoned and tortured during the persecutions of

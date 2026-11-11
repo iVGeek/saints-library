@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Cearan the Devout
+stub: true
 honorific: Saint
 summary: Abbot of Bellach-Duin (now Castle Kerrant), County Meath, Ireland.
 searchAliases:

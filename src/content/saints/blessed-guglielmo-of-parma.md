@@ -1,5 +1,6 @@
 ---
 name: Blessed Guglielmo of Parma
+stub: false
 honorific: Blessed
 summary: >-
   Born to the Italian nobility. Mercedarian lay knight, receiving the habit from Saint Peter Nolasco. Known as an

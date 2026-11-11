@@ -1,5 +1,6 @@
 ---
 name: Blessed William of Toulouse
+stub: false
 honorific: Blessed
 summary: >-
   Born to the French nobility. Joined the Augustinians in Toulouse, France at age 19. Studied there and in Paris,

@@ -1,5 +1,6 @@
 ---
 name: Thomas More
+stub: false
 honorific: Saint
 title: Martyr
 summary: >-

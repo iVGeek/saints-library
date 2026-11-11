@@ -1,5 +1,6 @@
 ---
 name: Saint Pelagia
+stub: true
 honorific: Saint
 summary: Martyred in the persecutions of Emperor Licinius.
 deathYear: 320

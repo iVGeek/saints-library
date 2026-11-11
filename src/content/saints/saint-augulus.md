@@ -1,5 +1,6 @@
 ---
 name: Saint Augulus
+stub: true
 image: https://commons.wikimedia.org/wiki/Special:FilePath/Aule_Alm_4.jpg?width=600
 honorific: Saint
 summary: Bishop. Martyr.

@@ -1,5 +1,6 @@
 ---
 name: Blessed Maria Theresia Ledóchowska
+stub: false
 honorific: Blessed
 summary: >-
   Born to the Austrian noblity, the daughter of Count Anton Ledóchowski and Josephine Salis-Zizers, known as extremely

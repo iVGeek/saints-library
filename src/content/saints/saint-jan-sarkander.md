@@ -1,5 +1,6 @@
 ---
 name: Saint Jan Sarkander
+stub: false
 honorific: Venerable
 summary: >-
   Son of Georg Mathias Sarkander and Helene Kornicz Sarkander. Born in a time and place in the midst of the turmoil of

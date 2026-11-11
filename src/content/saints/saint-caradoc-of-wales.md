@@ -1,5 +1,6 @@
 ---
 name: Saint Caradoc of Wales
+stub: false
 honorific: Saint
 summary: >-
   Born to a wealthy family, Caradoc spent part of his youth as a harp player in the court of King Rhys ap Twedwr of

@@ -1,5 +1,6 @@
 ---
 name: Blessed Sebastian Newdigate
+stub: false
 honorific: Blessed
 summary: >-
   Younger son of John Newdigate, a king's sergeant, and Amphelys, daughter and heiress of John Nevill of Sutton,

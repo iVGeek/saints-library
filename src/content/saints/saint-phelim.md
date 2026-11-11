@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Phelim
+stub: false
 honorific: Saint
 summary: >-
   Sixth century spiritual student of Saint Columba. Hermit. His reputation for holiness attracted would-be students who

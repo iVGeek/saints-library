@@ -1,5 +1,6 @@
 ---
 name: Saint Achea of Kill-Glais
+stub: false
 honorific: Saint
 summary: >-
   Daughter of Britannius Conis and Saint Dareca; niece of Saint Patrick; sister of Saint Lalloc. Nun at the abbey of

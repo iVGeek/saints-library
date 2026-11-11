@@ -1,5 +1,6 @@
 ---
 name: Saint Edburgh of Winchester
+stub: false
 honorific: Saint
 summary: >-
   Daughter of King Edward the Elder and Edgiva of Kent; grand-daughter of King Alfred the Great. As a child she was

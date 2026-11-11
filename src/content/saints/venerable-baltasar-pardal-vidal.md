@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Venerable Baltasár Pardal Vidal
+stub: false
 honorific: Venerable
 title: Priest
 summary: >-

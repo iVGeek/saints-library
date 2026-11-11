@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Rumon of Tavistock
+stub: true
 honorific: Saint
 summary: Bishop in  England. Romansleigh, England is named for him.
 searchAliases:

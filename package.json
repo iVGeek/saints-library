@@ -10,7 +10,11 @@
     "start": "npx serve dist --no-clipboard",
     "preview": "astro preview",
     "check": "astro check",
-    "sync:index": "astro sync"
+    "sync:index": "astro sync",
+    "quality": "node scripts/report-quality.mjs",
+    "curate:cathen": "node scripts/curate-catholic-encyclopedia.mjs",
+    "curate:wikipedia": "node scripts/curate-wikipedia.mjs",
+    "build:cathen-index": "node scripts/build-cathen-index.mjs"
   },
   "dependencies": {
     "@astrojs/check": "^0.9.4",

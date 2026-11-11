@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Berta of Busano
+stub: false
 honorific: Blessed
 summary: >-
   Born to the nobility, the daughter of Emilia della Rovere and Arduino II, Count of Valperga; sister of the Blessed

@@ -1,5 +1,6 @@
 ---
 name: Blessed Fran Mirakaj
+stub: false
 honorific: Blessed
 summary: >-
   A lifelong layman of the diocese of Sapës, Albania, Fran married Prenda Alija Kamerin in October 1934. He was a

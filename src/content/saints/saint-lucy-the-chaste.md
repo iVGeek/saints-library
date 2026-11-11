@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/b/b0/Cripta_de_santa_Leocadia.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Lucy the Chaste
+stub: true
 honorific: Saint
 summary: Dominican tertiary. Spiritual student of Saint Vincent Ferrer.
 deathYear: 1420

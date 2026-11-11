@@ -1,5 +1,6 @@
 ---
 name: Blessed Maddalena Caterina Morano
+stub: false
 honorific: Blessed
 summary: >-
   Her father and older sister died when Maddalena was 8 years old, and the girl had to work to help support her large

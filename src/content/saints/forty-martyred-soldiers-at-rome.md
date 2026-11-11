@@ -1,5 +1,6 @@
 ---
 name: Forty Martyred Soldiers at Rome
+stub: true
 honorific: Saint
 summary: Forty soldiers martyred in the persecutions of Gallienus.
 deathYear: 262

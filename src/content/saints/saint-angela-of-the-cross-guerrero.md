@@ -1,5 +1,6 @@
 ---
 name: Saint Angela of the Cross Guerrero
+stub: false
 honorific: Venerable
 summary: >-
   One of fourteen children born to a poor but pious family; only five of her siblings survived to adulthood. Her father

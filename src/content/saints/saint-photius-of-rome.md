@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Photius of Rome
+stub: true
 honorific: Saint
 summary: Martyred in the persecutions of Nero.
 died: in Rome, Italy

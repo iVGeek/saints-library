@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Emmingen of Saxony
+stub: true
 honorific: Saint
 summary: Missionary who worked with Saint Willehad of Bremen. Martyr.
 deathYear: 782

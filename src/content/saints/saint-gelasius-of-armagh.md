@@ -1,5 +1,6 @@
 ---
 name: Saint Gelasius of Armagh
+stub: false
 honorific: Saint
 summary: >-
   Son of the Irish poet Diarmaid. Abbot in Derry, Ireland for 16 years. Archbishop of Armagh, Ireland in 1138; he served

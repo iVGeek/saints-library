@@ -1,5 +1,6 @@
 ---
 name: Blessed Guala of Brescia
+stub: false
 honorific: Blessed
 summary: >-
   One of the first disciples in Italy of Saint Dominic de Guzman. First Dominican prior in Brescia, Italy, and of

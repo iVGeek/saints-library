@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Felicissima the Blind
+stub: false
 honorific: Saint
 summary: A blind girl whose sight was restored by Saint Gracilian when he was in prison for his faith. Convert. Martyr.
 deathYear: 304

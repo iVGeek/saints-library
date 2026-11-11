@@ -1,5 +1,6 @@
 ---
 name: Blessed Julia Rodzinska
+stub: false
 honorific: Blessed
 summary: >-
   Second of five children born to Michael Rodzinska and Marianna (née Sekuly). Michael was the church organist, led the

@@ -1,5 +1,6 @@
 ---
 name: Saint Basinus of Poitiers
+stub: true
 honorific: Saint
 summary: Monk. Abbot of the Saint Hilary of Poitiers monastery.
 searchAliases:

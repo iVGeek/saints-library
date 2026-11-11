@@ -1,5 +1,6 @@
 ---
 name: Dominic Savio
+stub: false
 honorific: Saint
 title: Religious, Youth
 summary: >-

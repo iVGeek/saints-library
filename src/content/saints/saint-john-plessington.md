@@ -1,5 +1,6 @@
 ---
 name: Saint John Plessington
+stub: false
 honorific: Venerable
 summary: >-
   Son of Robert Plessington, a royalist Catholic, and Alice Rawstone. His family was persecuted for both their religious

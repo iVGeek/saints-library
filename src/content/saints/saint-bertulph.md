@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Bertulph of Renty
+stub: false
 honorific: Saint
 summary: >-
   Convert as a young man in Flanders, Belgium. Managed a farm in Renty, France for Count Wambert for several years.

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Priscillianus of Rome
+stub: true
 honorific: Saint
 summary: Cleric. Martyred in the persecutions of Julian the Apostate.
 searchAliases:

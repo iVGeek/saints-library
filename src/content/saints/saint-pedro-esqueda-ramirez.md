@@ -1,5 +1,6 @@
 ---
 name: Saint Pedro Esqueda Ramírez
+stub: false
 honorific: Venerable
 summary: >-
   Priest. Vicar-general of the diocese of San Juan de los Lagos, Mexico. Discerning a need for religious education for

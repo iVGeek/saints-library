@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Sylvester of Châlons-sur-Saône
+stub: false
 honorific: Saint
 summary: >-
   Priest for 40 years. Bishop of Châlons-sur-Saône, France from c.484 to c.525. Saint Gregory of Tours describes him as

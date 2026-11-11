@@ -1,5 +1,6 @@
 ---
 name: Saint Paul Miki
+stub: false
 honorific: Saint
 title: St. Paul Miki
 summary: >-

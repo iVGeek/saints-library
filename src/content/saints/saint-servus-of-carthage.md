@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Servus of Carthage
+stub: true
 honorific: Saint
 summary: Monk. Sub-deacon.Martyred in the persecutions of the Arian King Hunneric.
 deathYear: 483

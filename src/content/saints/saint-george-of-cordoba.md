@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint George of Cordoba
+stub: false
 honorific: Saint
 summary: >-
   Monk from Palestine. Deacon. Arrested and condemned to death during the persecutions of Caliph Abderrahman II. He was

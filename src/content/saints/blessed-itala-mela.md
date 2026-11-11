@@ -1,5 +1,6 @@
 ---
 name: Blessed Itala Mela
+stub: false
 honorific: Blessed
 summary: >-
   Lay woman in the diocese of La Spezia, Italy, the daughter of primary school teachers of indifferent faith. Itala

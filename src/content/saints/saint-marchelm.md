@@ -1,5 +1,6 @@
 ---
 name: Saint Marchelm
+stub: false
 honorific: Saint
 summary: >-
   Missionary to the Netherlands with Saint Willibrord of Echternach. Worked with Saint Lebuin of Deventer in the area of

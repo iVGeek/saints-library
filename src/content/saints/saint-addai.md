@@ -1,5 +1,6 @@
 ---
 name: Saint Addai
+stub: false
 honorific: Saint
 summary: >-
   One of the 72 original disciples sent out to spread the faith. Addai was sent by Saint Thomas the Apostle to heal King

@@ -1,5 +1,6 @@
 ---
 name: Venerable Sebastiana Lladó Sala
+stub: false
 honorific: Venerable
 summary: >-
   Raised in a pious family, Sebastiana became a school teacher and catechist. With some like-minded young women, she

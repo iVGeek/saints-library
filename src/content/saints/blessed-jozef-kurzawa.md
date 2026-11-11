@@ -1,5 +1,6 @@
 ---
 name: Blessed Józef Kurzawa
+stub: false
 honorific: Blessed
 summary: >-
   Priest in the diocese of Wloclawek, Poland. Murdered by occupying Nazi forces for the crime of being a Catholic

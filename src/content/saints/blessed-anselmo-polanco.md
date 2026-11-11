@@ -1,5 +1,6 @@
 ---
 name: Blessed Anselmo Polanco
+stub: false
 honorific: Blessed
 summary: >-
   Son of a farmer. Joined the Augustinian Order at Valladolid, Spain in 1896 at age 15. Studied at the monastery of

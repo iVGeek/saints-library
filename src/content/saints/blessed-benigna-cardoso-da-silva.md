@@ -1,5 +1,6 @@
 ---
 name: Blessed Benigna Cardoso da Silva
+stub: false
 honorific: Blessed
 summary: >-
   The youngest of four children born to José Cardoso da Silva and Thereza Maria da Silva; her father died before she was

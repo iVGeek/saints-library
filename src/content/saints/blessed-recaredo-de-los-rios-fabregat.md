@@ -1,5 +1,6 @@
 ---
 name: Blessed Recaredo de Los Ríos Fabregat
+stub: false
 honorific: Blessed
 summary: Priest. Member of the Salesians of Don Bosco. Martyred in the Spanish Civil War.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Recaredo-De-Los-Rios-Fabregat.jpg

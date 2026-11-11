@@ -1,5 +1,6 @@
 ---
 name: Blessed Maria Bolognesi
+stub: false
 honorific: Blessed
 summary: >-
   Lay woman in the diocese of Adria-Rovigo, Italy. In her youth she received a vision of Christ giving her three rings

@@ -1,5 +1,6 @@
 ---
 name: Venerable August Józef Hlond
+stub: false
 honorific: Venerable
 summary: >-
   Ordained a priest of the Salesians of Don Bosco on 23 September 1905. Chosen bishop of Katowice, Poland on 14 December

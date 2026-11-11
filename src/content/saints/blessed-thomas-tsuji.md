@@ -1,5 +1,6 @@
 ---
 name: Blessed Thomas Tsuji
+stub: false
 honorific: Blessed
 summary: >-
   Born to the Japanese nobility. Educated by Jesuits at Arima, he joined the Society in 1587. Thomas traveled Japan and

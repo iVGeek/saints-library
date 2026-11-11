@@ -1,5 +1,6 @@
 ---
 name: Saint Asclepiades of Antioch
+stub: false
 honorific: Saint
 summary: Bishop of Antioch in 211. Sometimes listed as a martyr due to the trials he underwent as bishop.
 deathYear: 217

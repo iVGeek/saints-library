@@ -1,5 +1,6 @@
 ---
 name: Blessed Margaret of Lorraine
+stub: false
 honorific: Blessed
 summary: >-
   Youngest daughter of Duke Frederick of Lorraine (in modern France and Jolanta Anjou; niece of Margaret of Anjou.

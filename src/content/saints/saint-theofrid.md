@@ -1,6 +1,7 @@
 ---
 image: https://www.catholic.org/files/images/saints/2255.jpg
 name: Saint Theofrid
+stub: false
 honorific: Saint
 summary: Monk and then abbot at Carmery-en-Velay (Monastier-Saint-Chaffre). Martyred by invading Saracens.
 searchAliases:

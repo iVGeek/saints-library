@@ -1,5 +1,6 @@
 ---
 name: Saint Alburga of Wilton
+stub: false
 honorific: Saint
 summary: >-
   Princess, the half-sister of King Egbert of Wessex. Wife of Earl Wulstan of Wiltshire who founded Wilton Abbey near

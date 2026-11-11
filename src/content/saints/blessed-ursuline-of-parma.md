@@ -1,5 +1,6 @@
 ---
 name: Blessed Ursuline of Parma
+stub: false
 honorific: Blessed
 summary: >-
   Daughter of Peter and Veneri Bertolina. At age 11 she was healed from a serious illness through the intercession of

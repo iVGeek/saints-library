@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/8/80/John_Houghton.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed John Haile
+stub: false
 honorific: Blessed
 summary: >-
   Priest. Fellow of King's Hall, Cambridge. Vicar of Isleworth, Middlesex, England. Martyred with Saint John Houghton

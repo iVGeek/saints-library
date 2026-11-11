@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Successus of Carthage
+stub: false
 honorific: Saint
 summary: One of 39 Christians martyred together in Carthage, date unknown. We have no other information about them.
 died: Carthage, North Africa (modern Tunis, Tunisia)

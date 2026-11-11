@@ -1,5 +1,6 @@
 ---
 name: Saint Zacchaeus the Publican
+stub: false
 honorific: Saint
 summary: >-
   Mentioned in Gospel of Luke as the short tax collector who climbed a tree in order to see Jesus because he couldn't

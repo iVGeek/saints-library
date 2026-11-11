@@ -1,5 +1,6 @@
 ---
 name: Saint Andreas Chong Hwa-Gyong
+stub: false
 honorific: Venerable
 summary: >-
   Layman catechist in the the apostolic vicariate of Korea. Assistant to Saint Lawrence Imbert. Turned his home into a

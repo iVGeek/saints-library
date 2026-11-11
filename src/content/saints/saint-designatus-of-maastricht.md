@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Designatus of Maastricht
+stub: true
 honorific: Saint
 title: Bishop
 summary: Fifth century bishop of Maastricht, Netherlands.

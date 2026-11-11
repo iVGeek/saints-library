@@ -1,5 +1,6 @@
 ---
 name: Venerable Giovanni Nadiani
+stub: false
 honorific: Venerable
 summary: >-
   The youngest of three children, Giovanni's mother and two step-mothers were all Christian women who ensured the boy

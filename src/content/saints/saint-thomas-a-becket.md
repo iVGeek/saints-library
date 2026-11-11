@@ -1,5 +1,6 @@
 ---
 name: Saint Thomas a Becket
+stub: false
 honorific: Saint
 summary: >-
   Of Norman ancestry. Educated at Merton Priory, the University of Paris, in Bologna, Italy, and in Auxerre, France.

@@ -1,5 +1,6 @@
 ---
 name: Blessed Isabel Sánchez Romero
+stub: false
 honorific: Blessed
 summary: >-
   Isabella joined the Dominicans at age 17, taking the name Sister Ascensión de San José; she was known as an obedient,

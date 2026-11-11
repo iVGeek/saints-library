@@ -1,5 +1,6 @@
 ---
 name: Saint Felix of Vienne
+stub: false
 honorific: Saint
 summary: Priest. Sent by Saint Irenaeus of Lyons to evangelize around Vienne, France. Martyr.
 deathYear: 212

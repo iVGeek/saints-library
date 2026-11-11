@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Lietbert of Cambrai
+stub: false
 honorific: Saint
 summary: >-
   Born to the aristocracy. Archdeacon of Cambrai, France. Bishop of Cambrai in 1051. Pilgrim to the Holy Lands in 1054.

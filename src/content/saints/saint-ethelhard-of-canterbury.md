@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Ethelhard of Canterbury
+stub: false
 honorific: Saint
 summary: >-
   Abbot, probably of Louth, Lincolnshire, England. May have been bishop of Winchester, England. Archbishop of

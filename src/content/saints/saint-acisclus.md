@@ -1,5 +1,6 @@
 ---
 name: Saint Acisclus of Córdoba
+stub: false
 honorific: Saint
 summary: >-
   Brother of Saint Victoria of Cordoba. Martyred in the persecutions of Diocletian. After their deaths, their home was

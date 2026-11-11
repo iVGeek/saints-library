@@ -1,5 +1,6 @@
 ---
 name: Blessed Paulina Borowik
+stub: false
 honorific: Blessed
 summary: >-
   Member of the Sisters of the Holy Family of Nazareth; due to the turmoil of World War II, she was never able to make

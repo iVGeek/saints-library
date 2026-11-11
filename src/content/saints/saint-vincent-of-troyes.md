@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Vincent of Troyes
+stub: true
 honorific: Saint
 title: Bishop
 summary: Evangelizing bishop of Troyes, France from c.536 until his death.

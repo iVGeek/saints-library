@@ -1,5 +1,6 @@
 ---
 name: Blessed Dominik Jedrzejewski
+stub: false
 honorific: Blessed
 summary: >-
   Priest of the diocese of Wloclawek, Poland. Deported, imprisoned, tortured and martyred in the Nazi persecutions of

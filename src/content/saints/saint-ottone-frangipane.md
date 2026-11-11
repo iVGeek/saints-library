@@ -1,5 +1,6 @@
 ---
 name: Saint Ottone Frangipane
+stub: false
 honorific: Saint
 summary: >-
   Born to the Italian nobility, he became a knight and fought in defense in the pope in the area of Frascati, Italy.

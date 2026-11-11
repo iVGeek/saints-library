@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Vincent of Rome
+stub: true
 honorific: Saint
 summary: Martyred in the persecutions of Emperor Commodus.
 deathYear: 192

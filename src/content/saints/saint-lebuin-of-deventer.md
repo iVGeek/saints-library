@@ -1,5 +1,6 @@
 ---
 name: Saint Lebuin of Deventer
+stub: false
 honorific: Saint
 summary: >-
   Educated in a monastery. Benedictine monk at Ripon, England. Priest. Missionary to the Netherlands, following in the

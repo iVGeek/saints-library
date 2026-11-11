@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Theophilus the Martyr
+stub: true
 honorific: Saint
 summary: Deacon. Martyr.
 born: African

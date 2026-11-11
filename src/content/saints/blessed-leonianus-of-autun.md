@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Leonianus of Autun
+stub: false
 honorific: Blessed
 summary: >-
   Lay man who was captured and taken to Gaul as a slave. When he regained his freedom he became a hermit near Autun (in

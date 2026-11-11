@@ -1,5 +1,6 @@
 ---
 name: Saint Didius of Alexandria
+stub: false
 honorific: Saint
 summary: Martyred with approximately 600 Christians in the persecution of Maximian Galerius.
 deathYear: 311

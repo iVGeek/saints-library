@@ -1,5 +1,6 @@
 ---
 name: Saint Flavian of Constantinople
+stub: false
 honorific: Saint
 summary: >-
   Patriarch of Constantinople c.446. He condemned Eutyches, who began the heresy of Monophysitism. He refused to bribe

@@ -1,5 +1,6 @@
 ---
 name: Saint Eugendus of Condat
+stub: false
 honorific: Saint
 summary: >-
   Taught to read and write at home by his father, a man who became a priest himself. Following a vision in which

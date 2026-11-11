@@ -1,5 +1,6 @@
 ---
 name: Blessed Jerzy Popieluszko
+stub: false
 honorific: Blessed
 summary: >-
   Born to a farm family. Ordained on 28 May 1972 in the archdiocese of Warsaw, Poland. Noted and vocal anti-Communist

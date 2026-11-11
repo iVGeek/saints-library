@@ -1,5 +1,6 @@
 ---
 name: Blessed Michał Sopoćko
+stub: false
 honorific: Blessed
 summary: >-
   Michal began his studies at the seminary in Vilnius, Lithuania in 1910, and was ordained a priest in 1914. Parish

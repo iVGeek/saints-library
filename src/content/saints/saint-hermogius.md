@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Hermogius of Tuy
+stub: false
 honorific: Saint
 summary: >-
   Uncle of Saint Pelagius of Cordova. Benedictine monk. Bishop of Tuy, Spain. Founded the abbey at Lubrugia, Spanish

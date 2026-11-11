@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Ligorius
+stub: true
 honorific: Saint
 summary: Desert-living Christian murdered by a pagan mob. Martyr.
 died: relics venerated in Venice, Italy

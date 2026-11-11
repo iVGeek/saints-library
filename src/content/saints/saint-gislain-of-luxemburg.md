@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Gislain of Luxemburg
+stub: false
 honorific: Saint
 summary: >-
   Twelfth century forest hermit in Luxemburg who trusted so strongly to provide that he didn't even bother with shelter.

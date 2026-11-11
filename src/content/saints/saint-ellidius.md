@@ -1,5 +1,6 @@
 ---
 name: Saint Ellidius
+stub: true
 honorific: Saint
 summary: No details have survived.
 searchAliases:

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Cristiana di Paride
+stub: false
 honorific: Blessed
 summary: >-
   Cristiana was born to the nobility, the daughter of Cristiano di Paride, a knight who served as consol of Assisi. She

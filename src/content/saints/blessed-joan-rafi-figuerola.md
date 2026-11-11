@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Joan Rafí Figuerola
+stub: false
 honorific: Blessed
 summary: Member of the Claretians, professed on 8 December 1891. Martyred in the Spanish Civil War.
 birthYear: 1885

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Peter de Duenas
+stub: false
 honorific: Blessed
 summary: Franciscan. In 1396 he and Blessed John de Cetina began preaching to the Moors in Granada, Spain. Martyr.
 birthYear: 1378

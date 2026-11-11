@@ -1,5 +1,6 @@
 ---
 name: Blessed Jane of Toulouse
+stub: false
 honorific: Blessed
 summary: >-
   Received the Carmelite veil from Saint Simon Stock, taking a vow of perpetual chastity. Followed the rule of Saint

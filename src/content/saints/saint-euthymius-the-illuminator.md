@@ -1,5 +1,6 @@
 ---
 name: Saint Euthymius the Illuminator
+stub: false
 honorific: Saint
 summary: >-
   Son of Saint John the Iberian. Held hostage for a while in Constantinople by the emperor. Helped his father build the

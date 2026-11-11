@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/b/b7/Virgin_of_Mercy.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Juan de Molina
+stub: false
 honorific: Blessed
 summary: >-
   Mercedarian friar and commander of the convent of Saint Lazarus, Zarragoza, Spain. Noted for his personal piety, the

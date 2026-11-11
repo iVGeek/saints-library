@@ -1,5 +1,6 @@
 ---
 name: Saint Disciola of Poitiers
+stub: false
 honorific: Saint
 summary: >-
   Niece of Saint Salvius, bishop of Albi, France. Disciola became a nun at the abbey of Santa Croce in Poitiers, France

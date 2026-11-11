@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/b/b2/St_Thomas_Aquinas_Cathedral_-_panoramio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Thomas Abel
+stub: false
 honorific: Blessed
 summary: >-
   Thomas received his Doctor of Divinity from Oxford University in England. Priest. Chaplain to Queen Catherine of

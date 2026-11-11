@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/e/eb/Nicolas_Mignard-Saint_Bruno.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Henry of Cologne
+stub: false
 honorific: Blessed
 title: Priest
 summary: >-

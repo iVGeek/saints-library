@@ -1,5 +1,6 @@
 ---
 name: Blessed Gabriel Ferretti
+stub: false
 honorific: Blessed
 summary: >-
   Born to the Italian nobility, the eldest son of the Count Liverotto of Ferretti and Lady Alvisia. At age 18 he left

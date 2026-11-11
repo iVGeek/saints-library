@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Illyricus the Wonder Worker
+stub: false
 honorific: Saint
 summary: >-
   Monk. Hermit on a mountain near Pyrgos, Elis, Greece where his reputation for holiness, and as a miracle worker,

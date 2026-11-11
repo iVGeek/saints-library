@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Baldomero Márquez García-Maribello
+stub: false
 honorific: Blessed
 summary: >-
   Priest of the diocese of Córdoba, Spain, serving in the Hinojosa del Duque community. Martyred in the Spanish Civil

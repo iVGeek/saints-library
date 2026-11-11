@@ -1,5 +1,6 @@
 ---
 name: Blessed Abraham of Bulgaria
+stub: false
 honorific: Blessed
 summary: >-
   Muslim layman merchant, known for his charity. Convert to Christianity. For this, he was arrested, tortured and

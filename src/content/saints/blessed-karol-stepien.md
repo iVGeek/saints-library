@@ -1,5 +1,6 @@
 ---
 name: Blessed Karol Stepien
+stub: false
 honorific: Blessed
 summary: >-
   Born to Józef and Marianna Puch, poor working class farmers, Karol as a child was considered extremely intelligent and

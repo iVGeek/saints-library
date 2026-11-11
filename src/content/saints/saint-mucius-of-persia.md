@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Mucius of Persia
+stub: true
 honorific: Saint
 summary: Deacon martyred in Persia.
 feastDay:

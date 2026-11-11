@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/1/11/Basilica_di_San_Zeno_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Lupicinus of Verona
+stub: true
 honorific: Saint
 summary: Bishop of Verona, Italy in the early 5th century.
 searchAliases:

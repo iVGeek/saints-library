@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Eusebia of Bergamo
+stub: false
 honorific: Saint
 summary: Third-century niece of Saint Domnio. Nun in Bergamo, Italy. Martyred in the persecutions of Maximian Herculeus.
 died: beheaded in the late 3rd century

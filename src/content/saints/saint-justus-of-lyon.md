@@ -1,5 +1,6 @@
 ---
 name: Saint Justus of Lyon
+stub: false
 honorific: Saint
 summary: ' When a violently insane criminal sought sanctuary in the cathedral of Lyon afte Deacon at Vienne, France. Priest. Bishop of Lyon, France c.350. He presided over the Council of Aquileia in 381, strongly opposed the heresy of Arianism, and became a friend of Saint Ambrose of Milan.'
 image: https://commons.wikimedia.org/wiki/Special:FilePath/%25C3%2589glise_Saint-Just_Lyon_statue.jpg?width=600

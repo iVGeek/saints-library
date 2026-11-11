@@ -1,5 +1,6 @@
 ---
 name: Saint Edward the Confessor
+stub: false
 honorific: Saint
 summary: >-
   Born a prince, the son of King Ethelred II and Queen Emma; half-brother to King Edmund Ironside and King Hardicanute.

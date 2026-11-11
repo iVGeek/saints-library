@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/3/34/Heilige_Afra.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Narcissus
+stub: false
 honorific: Saint
 summary: >-
   First-century spiritual student of Saint Paul the Apostle, and mentioned by him in the Epistle to the Romans.

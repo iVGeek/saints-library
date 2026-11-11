@@ -1,5 +1,6 @@
 ---
 name: Saint Giovanni of Triora
+stub: false
 honorific: Venerable
 summary: >-
   The son of Antonio Maria Lantrua and Maria Pasqua Ferraironi, Francesco was educated in Barnabite schools. He joined

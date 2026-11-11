@@ -1,5 +1,6 @@
 ---
 name: Blessed Pere Sadurní Raventós
+stub: false
 honorific: Blessed
 summary: >-
   Pere was drawn to religious life from an early age, and he joined the Sons of the Holy Family in his late teens,

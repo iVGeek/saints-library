@@ -1,5 +1,6 @@
 ---
 name: Blessed Alfons Sorribes Teixidó
+stub: true
 image: https://upload.wikimedia.org/wikipedia/commons/5/53/Alfonso_Sorribes_Teixid%C3%B3%2C_C.M.F.png
 honorific: Blessed
 summary: Member of the Claretians. Martyred in the Spanish Civil War.

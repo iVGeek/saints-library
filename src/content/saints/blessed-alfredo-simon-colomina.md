@@ -1,5 +1,6 @@
 ---
 name: Blessed Alfredo Simón-Colomina
+stub: false
 honorific: Blessed
 summary: >-
   Jesuit priest. Dean and then rector of the Colegio de San José in Valencia, Spain. Rector in Sarriá, Spain in 1916,

@@ -1,5 +1,6 @@
 ---
 name: Saint Erkemboden of Thérouanne
+stub: false
 honorific: Saint
 summary: >-
   Travelling from Ireland to the continent to become a missionary, Erkemboden's companions were murdered and he decided

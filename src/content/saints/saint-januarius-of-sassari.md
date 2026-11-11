@@ -1,5 +1,6 @@
 ---
 name: Saint Januarius of Sassari
+stub: true
 honorific: Saint
 summary: Deacon in Sardinia. Martyred in the persecutions of Diocletian.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Proto-Gavino-e-Gianuario.jpg

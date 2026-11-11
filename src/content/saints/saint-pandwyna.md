@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Pandwyna
+stub: true
 honorific: Saint
 summary: Nun. The church in Eltisley, England is dedicated to her.
 born: Irish

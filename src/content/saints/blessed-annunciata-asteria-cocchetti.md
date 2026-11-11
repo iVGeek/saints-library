@@ -1,5 +1,6 @@
 ---
 name: Blessed Annunciata Asteria Cocchetti
+stub: false
 honorific: Blessed
 summary: >-
   Orphaned at age seven, she was raised by her grandmother. At 17 she opened a school for poor girls in her home. Taught

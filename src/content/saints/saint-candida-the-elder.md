@@ -1,5 +1,6 @@
 ---
 name: Saint Candida the Elder
+stub: false
 honorific: Saint
 summary: >-
   An elderly woman in Naples, Italy who was healed of an illness by Saint Peter the Apostle. She converted and was

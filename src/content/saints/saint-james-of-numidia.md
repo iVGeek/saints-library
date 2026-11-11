@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint James of Numidia
+stub: false
 honorific: Saint
 summary: >-
   Deacon in the same church as Saint Marianus, and imprisoned with him at Cirta (modern Constantine, Algeria) in the

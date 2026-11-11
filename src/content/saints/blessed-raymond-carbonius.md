@@ -1,5 +1,6 @@
 ---
 name: Blessed Raymond Carbonius
+stub: false
 honorific: Blessed
 summary: >-
   Franciscan Friar Minor. Basing their operations in a farmhouse outside Avignonet, France, he and his brother

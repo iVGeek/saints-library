@@ -1,5 +1,6 @@
 ---
 name: Blessed Arnold of Carcassonne
+stub: false
 honorific: Blessed
 summary: >-
   A cousin of Saint Peter Nolasco, Arnold joined the Mercedarians on the first day of their founding in the early 13th

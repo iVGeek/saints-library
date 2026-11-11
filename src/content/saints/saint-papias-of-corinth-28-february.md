@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/f/fb/Saint_Peter-Sinai_%286th_Century%29_Crop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Papias of Corinth
+stub: true
 honorific: Saint
 summary: Martyr.
 died: Corinth, Greece

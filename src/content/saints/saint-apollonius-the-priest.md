@@ -1,5 +1,6 @@
 ---
 name: Saint Apollonius the Priest
+stub: false
 honorific: Saint
 summary: Fourth-century priest. Martyred with five unnamed Christians in the persecutions of Diocletian.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Apollonius-the-Priest.jpg

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/f/f8/Cruz_de_la_Parra.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed José Muñoz Calvo
+stub: true
 honorific: Blessed
 summary: Priest of the archdiocese of Granada, Spain. Martyred in the Spanish Civil War.
 deathYear: 1936

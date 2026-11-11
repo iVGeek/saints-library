@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Sabinus of the Lavedan
+stub: false
 honorific: Saint
 summary: >-
   Educated in Poitiers, France. Benedictine monk at Liguge. Evangelist to the mountainous Lavedan region of the Pyrenees

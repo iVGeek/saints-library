@@ -1,5 +1,6 @@
 ---
 name: Saint Cajetan
+stub: false
 honorific: Saint
 summary: >-
   Cajetan was born the second son of pious and noble parents, Caspar de Thienna and Maria Porta, who dedicated him as an

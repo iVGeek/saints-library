@@ -1,5 +1,6 @@
 ---
 name: Blessed Maria Franciszka Siedliska
+stub: false
 honorific: Blessed
 summary: >-
   Eldest daughter of Adolf Adam Siedliski and Cecilia Marianna Morawska, wealthy and aristocratic landowners in the part

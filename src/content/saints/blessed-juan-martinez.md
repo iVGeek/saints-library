@@ -1,5 +1,6 @@
 ---
 name: Blessed Juan Martínez
+stub: false
 honorific: Blessed
 summary: >-
   Franciscan Friar Minor priest. Sacristan. One of the Martyrs of Prague, killed by a Lutheran mob. Father Juan had just

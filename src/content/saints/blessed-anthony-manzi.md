@@ -1,5 +1,6 @@
 ---
 name: Blessed Anthony Manzi
+stub: false
 image: https://commons.wikimedia.org/wiki/Special:FilePath/Mexico_topo.jpg?width=600
 honorific: Blessed
 summary: >-

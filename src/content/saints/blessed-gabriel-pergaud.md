@@ -1,5 +1,6 @@
 ---
 name: Blessed Gabriel Pergaud
+stub: false
 honorific: Blessed
 summary: >-
   Priest. Member of the Canons Regular of the Congregation of France. Imprisoned on a ship in the harbor of Rochefort,

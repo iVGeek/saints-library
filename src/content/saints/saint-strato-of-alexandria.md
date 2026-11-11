@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Strato of Alexandria
+stub: true
 honorific: Saint
 summary: Martyred in the persecutions of Diocletian.
 searchAliases:

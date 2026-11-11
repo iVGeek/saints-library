@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/e/ef/Amadeus_von_lausanne.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Humbert of Clairvaux
+stub: false
 honorific: Blessed
 summary: >-
   Benedictine monk at Chaise-Deux. Monk at Clairvaux Abbey in 1117. Prior at Clairvaux, appointed by Saint Bernard.

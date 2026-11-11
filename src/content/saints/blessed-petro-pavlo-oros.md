@@ -1,5 +1,6 @@
 ---
 name: Blessed Petro Pavlo Oros
+stub: false
 honorific: Blessed
 summary: >-
   Son of a Greek Catholic priest. In 1919 the family moved to Transcarpathia. Petr studied in the diocesan seminary in

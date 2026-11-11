@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Philip of Zell
+stub: false
 honorific: Saint
 summary: >-
   Anglo-Saxon pilgrim. Hermit near Worms, Germany. Friend of and advisor to King Pepin the Short. Founded the monastery

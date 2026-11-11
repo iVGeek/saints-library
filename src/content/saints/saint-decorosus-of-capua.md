@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Decorosus of Capua
+stub: false
 honorific: Saint
 summary: Bishop of Capua, Italy for 30 years. Assisted at and supported the Council of Rome in 680.
 searchAliases:

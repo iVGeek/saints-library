@@ -1,5 +1,6 @@
 ---
 name: Venerable Francisca Fuentes
+stub: true
 honorific: Venerable
 summary: Dominican nun. Founded the Dominican Sisters of Saint Catherine of Siena.
 image: https://catholicsaints.info/wp-content/uploads/img-Mother-Francesca-Fuentes.jpg

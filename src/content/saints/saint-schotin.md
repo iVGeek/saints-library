@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Schotin
+stub: false
 honorific: Saint
 summary: >-
   Left his homeland to become a spiritual student of Saint David of Wales. Hermit on Mount Mairge in Ireland. Founded a

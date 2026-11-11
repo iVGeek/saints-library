@@ -1,5 +1,6 @@
 ---
 name: Blessed Robert Bickerdike
+stub: false
 honorific: Blessed
 summary: Layman in the apostolic vicariate of England during a period of official persecution. Martyr.
 deathYear: 1586

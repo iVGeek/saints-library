@@ -1,5 +1,6 @@
 ---
 name: Blessed Gregorio Zugasti Fernández de Esquide
+stub: false
 honorific: Blessed
 summary: Redemptorist brother who made his religious profession on 25 December 1912. Martyred in the Spanish Civil War.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Gregorio-Zugasti-Fernandez-de-Esquide.jpg

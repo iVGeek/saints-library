@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Sequanus
+stub: false
 honorific: Saint
 summary: >-
   Hermit near Verreysous-Dree, France. Monk at Réomay, France. Founded a monastery in Segreste, France and served as its

@@ -1,5 +1,6 @@
 ---
 name: Saint Eusignius
+stub: false
 honorific: Saint
 summary: >-
   Career soldier in the army of Constantius Chlorus. When Julian the Apostate renounced Christianity, he ordered all his

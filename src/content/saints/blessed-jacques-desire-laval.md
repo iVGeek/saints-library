@@ -1,5 +1,6 @@
 ---
 name: Blessed Jacques Désiré Laval
+stub: false
 honorific: Blessed
 summary: >-
   Son of a prosperous farmer, Jacques grew up in a pious household with examples set by his mother and an uncle who was

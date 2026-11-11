@@ -1,5 +1,6 @@
 ---
 name: Saint Adelelmus of Le Mans
+stub: false
 honorific: Saint
 summary: >-
   Friend and spiritual student of a hermit named Albert around Le Mans, France. Spiritual student of Saint Bernard of

@@ -1,5 +1,6 @@
 ---
 name: Martyrs of Thebaid
+stub: false
 honorific: Saint
 summary: >-
   A large but unspecified number of Christians who were imprisoned, tortured and murdered together in the persecutions

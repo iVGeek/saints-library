@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/8/86/Martyrs_of_ireland.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Theobald Stapleton
+stub: true
 honorific: Blessed
 summary: Priest in the diocese of Cashel, Ireland. One of the Irish Martyrs.
 deathYear: 1647

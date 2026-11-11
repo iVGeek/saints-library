@@ -1,5 +1,6 @@
 ---
 name: Blessed Pauline-Marie Jaricot
+stub: false
 honorific: Blessed
 summary: >-
   Born to an aristocratic family. A pious child, at age 17 Pauline adopted a life of extreme asceticism. On 25 December

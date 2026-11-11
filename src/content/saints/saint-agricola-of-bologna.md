@@ -1,5 +1,6 @@
 ---
 name: Saint Agricola of Bologna
+stub: false
 honorific: Saint
 summary: >-
   During the persecutions of Diocletian, Agricola witnessed the martyrdom of Saint Vitalis of Bologna; the courage of

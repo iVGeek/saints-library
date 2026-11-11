@@ -1,5 +1,6 @@
 ---
 name: Saint Palladius of Saintes
+stub: true
 honorific: Saint
 title: Bishop
 summary: Bishop of Saintes, France in 570.

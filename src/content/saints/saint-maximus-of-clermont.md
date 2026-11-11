@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Maximus of Clermont
+stub: true
 honorific: Saint
 summary: Martyred by Teutonic barbarians led by Chrocas.
 deathYear: 264

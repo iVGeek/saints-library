@@ -1,5 +1,6 @@
 ---
 name: Saint Sérvulo of Trieste
+stub: true
 honorific: Saint
 summary: Martyred in the persecutions of Numerian.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Sérvulo-of-Trieste.gif

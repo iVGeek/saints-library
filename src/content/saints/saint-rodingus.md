@@ -1,5 +1,6 @@
 ---
 name: Saint Rodingus
+stub: false
 honorific: Saint
 summary: >-
   Monk. Priest. Missionary to Germany. Monk at Tholey Abbey near Trier, Germany. Founded the Wasloi Abbey in the forest

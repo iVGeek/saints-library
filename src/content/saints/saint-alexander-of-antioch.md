@@ -1,5 +1,6 @@
 ---
 name: Saint Alexander of Antioch
+stub: true
 honorific: Saint
 summary: Layman. One of the Martyrs of Antioch.
 deathYear: 303

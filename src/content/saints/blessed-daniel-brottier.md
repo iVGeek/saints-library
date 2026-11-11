@@ -1,5 +1,6 @@
 ---
 name: Blessed Daniel Brottier
+stub: false
 honorific: Blessed
 summary: ' At the request of Bishop Jalabert, he conducted a Ordained in 1899. Taught at the college of Pontlevoy, France. Entered the Congregation of the Holy Ghost at Orly, France in 1902. Missionary to Saint-Louis, Senegal in 1903. His health suffered, and he returned to France in 1911.'
 image: https://commons.wikimedia.org/wiki/Special:FilePath/Daniel_Brottier_in_WWI_as_chaplain.jpg?width=600

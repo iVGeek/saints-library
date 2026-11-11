@@ -1,5 +1,6 @@
 ---
 name: Saint Clotilde
+stub: false
 honorific: Saint
 summary: >-
   Born a princess, the daughter of King Chilperic of Burgundy. Married young to King Clovis of the Salian Franks while

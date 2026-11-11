@@ -1,5 +1,6 @@
 ---
 name: Blessed Zacarías Abadía Buesa
+stub: false
 honorific: Blessed
 summary: >-
   Educated by the Salesians from age 9, when he was old enough he joined the Society, making his profession in 1930. He

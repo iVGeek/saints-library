@@ -1,5 +1,6 @@
 ---
 name: Saint Tycho of Amathus
+stub: false
 honorific: Saint
 summary: >-
   Son of a poor baker. First bishop of Amathus (modern Limassol), Cyprus in the early 5th-century. Fought to rid Cyprus

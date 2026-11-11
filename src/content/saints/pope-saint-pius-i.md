@@ -1,5 +1,6 @@
 ---
 name: Pope Saint Pius I
+stub: false
 honorific: Saint
 summary: >-
   May have been born a slave. May have been the brother of Hermas, author of The Shepherd. Tenth Pope. Reportedly

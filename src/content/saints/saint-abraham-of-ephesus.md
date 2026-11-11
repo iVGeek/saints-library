@@ -1,5 +1,6 @@
 ---
 name: Saint Abraham of Ephesus
+stub: false
 honorific: Saint
 summary: >-
   Wrote several theological treatises. They became so well known that he attracted many students, and he founded

@@ -1,5 +1,6 @@
 ---
 name: Saint Caprasius of Lérins
+stub: false
 honorific: Saint
 summary: >-
   Hermit in Provence and Lerins, France, and in Greece. Friend of Saint Honoratus of Arles and Saint Venantius. With

@@ -1,5 +1,6 @@
 ---
 name: Pope Saint Clement I
+stub: false
 honorific: Saint
 summary: >-
   Convert, brought to Christianity either by Saint Peter or by Saint Paul. One of the Seventy Apostles. Consecrated as a

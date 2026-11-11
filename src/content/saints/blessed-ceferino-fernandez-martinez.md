@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/9/9c/Jos%C3%A9_Mar%C3%ADa_Caro_Mart%C3%ADnez_-_improved.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Ceferino Fernández Martínez
+stub: false
 honorific: Blessed
 summary: >-
   Ceferino began studying at the Colegio de Almagro in 1908, and later that year joined the Dominicans, taking the name

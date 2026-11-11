@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Zeno the Martyr
+stub: true
 honorific: Saint
 summary: Martyr.
 died: burned alive, date and place unknown

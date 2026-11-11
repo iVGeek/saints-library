@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Protasius of Lausanne
+stub: false
 honorific: Saint
 summary: >-
   Seventh-century priest noted for his severe self-denial, and his ministry to widows, orphans and the homeless poor.

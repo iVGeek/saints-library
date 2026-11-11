@@ -1,5 +1,6 @@
 ---
 name: Venerable Jane Ward
+stub: false
 honorific: Venerable
 summary: >-
   Mary was raised in a pious family, and early felt drawn to the religious life. In 1606 she entered the Poor Clare

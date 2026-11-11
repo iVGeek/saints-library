@@ -1,5 +1,6 @@
 ---
 name: Blessed Michaël Kozal
+stub: false
 honorific: Blessed
 summary: >-
   Born to a peasant family. Ordained a priest in 1918. Appointed auxiliary bishop of Wloclawek, Poland and titular

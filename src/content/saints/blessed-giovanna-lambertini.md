@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/a/a0/Giovanni_Battista_Tiepolo_096.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Giovanna Lambertini
+stub: false
 honorific: Blessed
 summary: >-
   Born to the nobility, in a wealthy and powerful family, Giovanna felt a call to religious life and left the worldly

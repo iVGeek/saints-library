@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/8/88/Epikouros_BM_1843.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Sixtus of Kyoto
+stub: false
 honorific: Blessed
 summary: Son of Blessed Maria of Kyoto. One of the Martyrs of Kyoto, murdered at the age of 3.
 birthYear: 1616

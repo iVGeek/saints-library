@@ -1,5 +1,6 @@
 ---
 name: Saint Arsenius of Alexandria
+stub: true
 honorific: Saint
 summary: Martyred in the persecutions of Decius.
 searchAliases:

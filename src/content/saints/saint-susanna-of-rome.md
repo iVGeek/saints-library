@@ -1,5 +1,6 @@
 ---
 name: Saint Susanna of Rome
+stub: false
 honorific: Saint
 summary: >-
   Roman noble, the beautiful daughter of Saint Gabinus, and niece of Pope Caius, living in the early part of

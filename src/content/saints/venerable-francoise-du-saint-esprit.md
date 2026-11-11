@@ -1,5 +1,6 @@
 ---
 name: Venerable Françoise du Saint Esprit
+stub: false
 honorific: Venerable
 summary: >-
   Entered the Sisters of the Holy Name of Joseph de Mailhac, and served as master of novices. She founded the Third

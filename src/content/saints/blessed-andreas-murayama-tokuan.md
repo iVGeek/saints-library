@@ -1,5 +1,6 @@
 ---
 name: Blessed Andreas Murayama Tokuan
+stub: false
 image: >-
   https://commons.wikimedia.org/wiki/Special:FilePath/Martyrdom-of-Leonardo-Kimura-with-4-Christians-in-Nagasaki-Nov-18-1619-%2528made-c1626%2529.png?width=600
 honorific: Blessed

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Zacarías Cuesta Campo
+stub: false
 honorific: Blessed
 summary: Young layman in the archdiocese of Burgos, Spain. Martyred in the Spanish Civil War. One of the Martyrs of Suances.
 birthYear: 1916

@@ -1,5 +1,6 @@
 ---
 name: Venerable Carlo Angelo Sonzini
+stub: false
 honorific: Venerable
 summary: >-
   Born to a wealthy family, Carlo was educated at seminaries in the Italian cities of Seveso, Monza and Milan. While

@@ -1,5 +1,6 @@
 ---
 name: Venerable Sílvia Cardoso Ferreiro da Silva
+stub: false
 honorific: Venerable
 summary: >-
   Oldest of four children of Umbelino Manuel Ferreira da Silva and Joaquina da Conceição Cardoso Emilia. Following the

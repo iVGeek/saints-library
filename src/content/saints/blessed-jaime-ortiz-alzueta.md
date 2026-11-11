@@ -1,5 +1,6 @@
 ---
 name: Blessed Jaime Ortiz Alzueta
+stub: false
 honorific: Blessed
 summary: >-
   A wild and undisciplined child, Jaime was educated from age 12 by the Salesians; in his teens he abandoned school to

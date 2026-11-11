@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Dionisio Senmartin
+stub: false
 honorific: Blessed
 summary: >-
   Mercedarian friar known for devotion to praying for souls in Purgatory. Ransomed 216 Christians from slavery in Muslim

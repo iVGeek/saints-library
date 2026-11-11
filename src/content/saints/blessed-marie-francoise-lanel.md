@@ -1,5 +1,6 @@
 ---
 name: Blessed Marie-Françoise Lanel
+stub: false
 honorific: Blessed
 summary: >-
   Attended the school of the Daughters of Charity of Saint Vincent de Paul. Nun in the Daughters at Arras, France,

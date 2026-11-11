@@ -1,5 +1,6 @@
 ---
 name: Martyrs of Antioch
+stub: true
 honorific: Saint
 summary: A group of Christians martyred together by Emperor Maximian Galerius.
 deathYear: 300

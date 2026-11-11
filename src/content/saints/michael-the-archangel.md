@@ -1,5 +1,6 @@
 ---
 name: Michael the Archangel
+stub: false
 honorific: Saint
 title: Archangel, Prince of the Heavenly Hosts
 summary: The warrior archangel who defeated Satan and protects the Church; invoked against evil in the Saint Michael Prayer.

@@ -1,5 +1,6 @@
 ---
 name: Blessed Adam of Guglionesi
+stub: false
 honorific: Blessed
 summary: >-
   Benedictine monk. Abbot of the monastery of Santa Maria to the Italian Tremiti Islands. Attended the council of Melfi

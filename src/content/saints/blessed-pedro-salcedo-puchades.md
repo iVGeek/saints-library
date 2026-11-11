@@ -1,5 +1,6 @@
 ---
 name: Blessed Pedro Salcedo Puchades
+stub: false
 honorific: Blessed
 summary: >-
   Second of five children born to the poor but pious family of Matías Salcedo and Elena Puchades. Baptized at the age of

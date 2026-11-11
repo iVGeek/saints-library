@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/1/12/Vicente_Carducho._Pinturas_para_la_cartuja_de_El_Paular._14.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed John Davy
+stub: false
 honorific: Blessed
 summary: >-
   Carthusian deacon and choir monk at the Charterhouse in London, England. Imprisoned on 29 May 1537 and martyred with

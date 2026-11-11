@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Eufrasio of Clermont
+stub: false
 honorific: Saint
 title: Bishop
 summary: Bishop of Arvenia, Aquitaine (modern Clermont-Ferrand, France). Saint Gregory of Tours wrote in praise of him.

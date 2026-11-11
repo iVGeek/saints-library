@@ -1,5 +1,6 @@
 ---
 name: Blessed Ricardo Guerra-Villazan
+stub: false
 honorific: Blessed
 summary: >-
   Baptized at the age of three days. Member of the Congregation of Saint Peter ad Vincula, making his novitiate in

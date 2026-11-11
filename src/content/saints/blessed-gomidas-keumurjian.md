@@ -1,5 +1,6 @@
 ---
 name: Blessed Gomidas Keumurjian
+stub: false
 honorific: Blessed
 summary: >-
   Married at age 20. Priest in the Armenian church. In 1696 he and his family made complete submission to the authority

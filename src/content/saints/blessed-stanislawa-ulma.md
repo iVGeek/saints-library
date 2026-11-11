@@ -1,5 +1,6 @@
 ---
 name: Blessed Stanislawa Ulma
+stub: false
 honorific: Blessed
 summary: >-
   Child in the archdiocese of Przemysl, Poland, the daughter of Józef and Wiktoria Ulma. Executed by Nazi forces because

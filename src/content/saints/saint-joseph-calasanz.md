@@ -1,5 +1,6 @@
 ---
 name: Saint Joseph Calasanz
+stub: false
 honorific: Saint
 summary: >-
   Youngest of five children born to Don Pedro Calasanz and Donna Maria Gastonia. His mother and a brother died while he

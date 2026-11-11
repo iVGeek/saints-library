@@ -1,5 +1,6 @@
 ---
 name: Saint Attilanus of Zamora
+stub: false
 honorific: Saint
 summary: >-
   Benedictine monk. Friend and spiritual student of Saint Froilan with whom he founded the monastery of Moreruela,

@@ -1,5 +1,6 @@
 ---
 name: Sarah the Matriarch
+stub: false
 honorific: Saint
 summary: >-
   Jewish Old Testament Matriarch. Wife of the Patriarch Abraham. A convert from paganism, she was the first female

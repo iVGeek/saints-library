@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Julian of Rome
+stub: false
 honorific: Saint
 summary: One of a group of over 20 martyrs who died together in the persecutions of Valerian and Gallienus.
 searchAliases:

@@ -1,5 +1,6 @@
 ---
 name: Saint Carthage the Younger
+stub: false
 honorific: Saint
 summary: >-
   Swineherd near Castlemaine, Ireland. Monk. Spiritual student of Saint Carthage the Elder. Priest. Hermit at

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Dius
+stub: false
 honorific: Saint
 summary: >-
   One of a group of young Christian men who protested to city authorities that gifts to temples of pagan gods should be

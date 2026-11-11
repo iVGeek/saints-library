@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Cadroe
+stub: false
 honorific: Saint
 summary: >-
   Prince. Studied in Arnagh, Ireland, in London, and in Fleury, France. Benedictine monk. Abbot of Waulsort monastery in

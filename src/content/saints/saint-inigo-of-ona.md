@@ -1,5 +1,6 @@
 ---
 name: Saint Iñigo of Oña
+stub: false
 honorific: Saint
 summary: >-
   Hermit. Monk at San Juan de Peña, Aragon (part of modern Spain), and later served as prior. Hermit in the Aragon

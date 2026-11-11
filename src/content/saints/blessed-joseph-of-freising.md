@@ -1,5 +1,6 @@
 ---
 name: Blessed Joseph of Freising
+stub: false
 honorific: Blessed
 summary: >-
   Benedictine monk. Founded the monastery of Saint Zeno at Isen, Bavaria, Germany in 752. Bishop of Freising (near

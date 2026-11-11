@@ -1,5 +1,6 @@
 ---
 name: Saint Germanus of Paris
+stub: false
 honorific: Saint
 summary: >-
   Priest, ordained by Saint Agrippinus of Autun. Abbot. Bishop of Paris, France in 555. Taught and ordained Saint

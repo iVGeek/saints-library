@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Auxentius of Epirus
+stub: false
 honorific: Saint
 summary: >-
   A furrier in Constantinople by trade. He joined the Turkish navy, but was forced to jump ship and return to

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Venerable Maria Luciani
+stub: true
 honorific: Venerable
 summary: Member of the Sisters of the Passion of Jesus Christ.
 searchAliases:

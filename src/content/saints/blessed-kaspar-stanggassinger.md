@@ -1,5 +1,6 @@
 ---
 name: Blessed Kaspar Stanggassinger
+stub: false
 honorific: Blessed
 summary: >-
   The second of sixteen children born to Kaspar Stanggassiner and Crescencia Hamberger, the boy was baptized on the day

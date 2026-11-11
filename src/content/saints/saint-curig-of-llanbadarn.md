@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Curig of Llanbadarn
+stub: true
 honorific: Saint
 summary: Bishop of Llanbadarn, Wales. Several Welsh churches are dedicated to him.
 born: Welsh

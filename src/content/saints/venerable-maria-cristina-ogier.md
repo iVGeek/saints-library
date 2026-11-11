@@ -1,5 +1,6 @@
 ---
 name: Venerable Maria Cristina Ogier
+stub: false
 honorific: Venerable
 summary: >-
   Diagnosed with a brain tumor at age 4, Maria lived her whole life with the limitations this imposed on her, being open

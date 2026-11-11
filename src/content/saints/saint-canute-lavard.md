@@ -1,5 +1,6 @@
 ---
 name: Saint Canute Lavard
+stub: false
 honorific: Saint
 summary: >-
   Second son of King Eric the Good of Denmark. Nephew of King Saint Canute of Denmark. Raised in the court of Saxony.

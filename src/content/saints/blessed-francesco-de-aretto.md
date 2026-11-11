@@ -1,5 +1,6 @@
 ---
 name: Blessed Francesco de Aretto
+stub: false
 honorific: Blessed
 summary: >-
   Mercedarian friar. Evangelized the area of Provence (in modern France), working to convert Muslims and free enslaved

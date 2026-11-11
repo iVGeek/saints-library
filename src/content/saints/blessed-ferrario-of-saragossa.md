@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Ferrario of Saragossa
+stub: true
 honorific: Blessed
 summary: Mercedarian friar known for his piety and as a miracle worker.
 died: San Lazzaro convent in Saragossa, Spain of natural causes

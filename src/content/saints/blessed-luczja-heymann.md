@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/5/52/Beatification_of_John_Paul_II_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Luczja Heymann
+stub: false
 honorific: Blessed
 summary: >-
   A member of the Sisters of Saint Elizabeth, joining in 1894 and making her perpetual profession on 2 July 1906. She

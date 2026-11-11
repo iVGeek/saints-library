@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Guy of Casauria
+stub: true
 honorific: Blessed
 summary: Benedictine monk at Farfa. Abbot of Casauria, Italy.
 deathYear: 1045

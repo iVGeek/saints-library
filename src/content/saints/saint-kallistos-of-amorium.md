@@ -1,5 +1,6 @@
 ---
 name: Saint Kallistos of Amorium
+stub: false
 honorific: Saint
 summary: >-
   Member of the Byzantine patrician class and imperial courtiers. Military commander. One of the 42 Martyrs of Amorium

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/2/2c/Fr_Moselle_Hesse_Eglise_abbatiale_gisant_Hugues_IV_de_Nordgau_detail.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Conrad of Toul
+stub: false
 honorific: Blessed
 summary: >-
   Conrad joined the Franciscan Friars Minor in 1245. He became a friend and spiritual student of fellow Franciscan and

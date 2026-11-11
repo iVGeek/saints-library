@@ -1,5 +1,6 @@
 ---
 name: Many Martyrs of Alexandria
+stub: false
 honorific: Saint
 summary: >-
   An unknown number of Christians who were martyred together by a mob of worshippers of the Graeco-Egyptian sun god

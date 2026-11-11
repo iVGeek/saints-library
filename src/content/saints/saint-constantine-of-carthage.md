@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Constantine of Carthage
+stub: true
 honorific: Saint
 summary: Confessor of the faith at Carthage. No other information has survived.
 region: Italy

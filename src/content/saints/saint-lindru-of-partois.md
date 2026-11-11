@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Lindru of Partois
+stub: true
 honorific: Saint
 summary: Nun in Partois, France.
 region: France

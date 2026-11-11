@@ -1,5 +1,6 @@
 ---
 name: Blessed Anne-Joseph Leroux
+stub: false
 honorific: Blessed
 summary: >-
   Ursuline nun at Valenciennes, France, taking the name Josephine. When the convents were suppressed in the French

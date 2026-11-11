@@ -1,5 +1,6 @@
 ---
 name: Saint Hieron of Mytilene
+stub: true
 honorific: Saint
 summary: Martyred with several fellow Christians in the persecutions of Diocletian.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Hieron-of-Mytilene.jpg

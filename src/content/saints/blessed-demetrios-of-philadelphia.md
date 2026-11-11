@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/1/1c/Menaion_icon_%2817_c.%2C_TsAK%29_-_September.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Demetrios of Philadelphia
+stub: false
 honorific: Blessed
 summary: >-
   Son of an Orthodox priest, at age 13 Demetrios converted from Christianity to Islam. However, by age 25 he realized

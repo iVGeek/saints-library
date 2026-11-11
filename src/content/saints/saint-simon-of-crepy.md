@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Simon of Crépy
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility, he was raised in the court of William the Conqueror in Normandy, France. Count of Crépy, France.

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Ciwg ap Arawn
+stub: false
 honorific: Saint
 summary: >-
   Son of Arawn ab Cynfarch Gul, prince of the Yscotlont region of northern Wales, and Nyfain; grandson of Saint Brychan

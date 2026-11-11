@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint John of Ravenna
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Ravenna, Italy from 452 for over 40 years. Saved his flock from the ravages of Attila the Hun. Secured

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Theophilus of Nicomedia
+stub: false
 honorific: Saint
 summary: >-
   Deacon in service to Saint Anthimos of Nicomedia. During the persecutions of Diocletian, he was captured while taking

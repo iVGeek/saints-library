@@ -1,5 +1,6 @@
 ---
 name: Venerable József Mindszenty
+stub: false
 honorific: Venerable
 summary: >-
   Ordained a priest in the diocese of Szombathely, Hungary on 12 June 1915. Parish priest in Felsopaty, Hungary. Taught

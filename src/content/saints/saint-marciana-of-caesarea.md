@@ -1,5 +1,6 @@
 ---
 name: Saint Marciana of Caesarea
+stub: false
 honorific: Saint
 summary: >-
   Making personal vows, she retired to the city of Caesarea, Mauritania (in modern Algeria) to live is a penitent

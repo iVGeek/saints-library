@@ -1,6 +1,7 @@
 ---
 image: https://www.santiebeati.it/immagini/Thumbs/100227/100227.jpg
 name: Saint Faendelach of Armagh
+stub: false
 honorific: Saint
 summary: >-
   Son of Maenach. Monk. Abbot. Archbishop of Armagh, Ireland from 768 to 771 when he resigned to end controversy in the

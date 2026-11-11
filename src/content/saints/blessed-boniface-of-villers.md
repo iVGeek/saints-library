@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/3/37/Armand_Bouthillier_Rance.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Boniface of Villers
+stub: true
 honorific: Blessed
 summary: Cistercian monk. Prior of the abbey in Villers, Belgium.
 deathYear: 1280

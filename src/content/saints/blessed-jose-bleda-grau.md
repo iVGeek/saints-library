@@ -1,5 +1,6 @@
 ---
 name: Blessed José Bleda Grau
+stub: false
 honorific: Blessed
 summary: >-
   Franciscan Capuchin friar, professed on 2 February 1901. Worked as a beggar and tailor for his religious community in

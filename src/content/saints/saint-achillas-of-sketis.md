@@ -1,5 +1,6 @@
 ---
 name: Saint Achillas of Sketis
+stub: false
 honorific: Saint
 title: Hermit
 summary: Fourth century desert hermit in Egypt for decades. Friend of Saint Amoes of Sketis.

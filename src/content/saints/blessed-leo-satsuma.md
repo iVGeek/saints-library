@@ -1,5 +1,6 @@
 ---
 name: Blessed Leo Satsuma
+stub: false
 honorific: Blessed
 summary: >-
   Layman in the archdiocese of Nagasaki, Japan. Member of the Secular Franciscans. Catechist. Martyred in the

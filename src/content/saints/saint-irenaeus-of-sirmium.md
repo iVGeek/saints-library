@@ -1,5 +1,6 @@
 ---
 name: Saint Irenaeus of Sirmium
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Sirmium, Pannonia (modern Sremska Mitrovica, Serbia). Arrested and tortured in the persecutions of

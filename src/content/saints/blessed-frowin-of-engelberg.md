@@ -1,5 +1,6 @@
 ---
 name: Blessed Frowin of Engelberg
+stub: false
 honorific: Blessed
 summary: >-
   Benedictine monk at Saint Blaise Abbey in Badan, Germany, and may have been at Einsiedeln Abbey in Switzerland. Abbot

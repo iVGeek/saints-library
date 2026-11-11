@@ -1,5 +1,6 @@
 ---
 name: Blessed Pietro Becchetti da Fabriano
+stub: false
 honorific: Blessed
 summary: >-
   Brother of Blessed Giovanni da Fabriano Becchetti; related to Saint Thomas Beckett. Augustinian priest known for his

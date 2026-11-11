@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Compagno of Recanati
+stub: false
 honorific: Blessed
 summary: Franciscan friar who had a reputation for piety, but about whom all information has been lost.
 deathYear: 1289

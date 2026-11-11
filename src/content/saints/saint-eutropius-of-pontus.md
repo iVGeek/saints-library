@@ -1,5 +1,6 @@
 ---
 name: Saint Eutropius of Pontus
+stub: false
 honorific: Saint
 summary: >-
   May have been a slave or soldier. One of a large groups martyred in the persecutions of Emperor Galerius. No other

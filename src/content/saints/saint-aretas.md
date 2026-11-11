@@ -1,5 +1,6 @@
 ---
 name: Saint Aretas of Rome
+stub: true
 honorific: Saint
 summary: Martyred with 504 other Christians whose names have not come down to us.
 searchAliases:

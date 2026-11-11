@@ -1,5 +1,6 @@
 ---
 name: Saint Margarito Flores-García
+stub: false
 honorific: Venerable
 summary: >-
   Priest of the diocese of Chilpancingo, Mexico, serving in the parish in Atenango del Rio. Imprisoned and executed for

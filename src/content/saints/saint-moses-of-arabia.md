@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/5/53/Mar_Musa.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Moses of Arabia
+stub: true
 honorific: Saint
 summary: Arab missionary bishop to the nomadic tribes in the Syro-Arabian desert.
 deathYear: 372

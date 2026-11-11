@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/9/9c/Johann_Otto_von_Gemmingen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Ralph of Sisteron
+stub: false
 honorific: Blessed
 summary: >-
   Cisterican monk at Thoronet Abbey located between the towns of Draguignan and Brignoles in modern France. Abbot of the

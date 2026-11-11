@@ -1,5 +1,6 @@
 ---
 name: Saint Brendan the Navigator
+stub: false
 honorific: Saint
 summary: >-
   Son of Findloga; brother of Saint Briga. Monk. Educated by Saint Ita of Killeedy and Saint Erc of Kerry. Friend of

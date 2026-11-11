@@ -1,5 +1,6 @@
 ---
 name: Saint Marko Križevcanin
+stub: false
 honorific: Venerable
 summary: >-
   Studied at the Germanicum in Rome, Italy. Priest and canon in the archdiocese of Esztergom, Hungary. Missionary near

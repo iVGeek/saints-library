@@ -1,5 +1,6 @@
 ---
 name: Blessed Teresa Chambó Palet
+stub: false
 honorific: Blessed
 summary: >-
   Member of the Carmelite Sisters of Charity, beginning novitiate on 21 April 1900. Humble and very quiet, she served as

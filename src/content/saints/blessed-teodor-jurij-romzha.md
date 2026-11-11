@@ -1,5 +1,6 @@
 ---
 name: Blessed Teodor Jurij Romzha
+stub: false
 honorific: Blessed
 summary: ' Drafted into the military, he served on the border with Germany; discharged in 1938. Minister to the impoverished parish of Berez Greek Catholic. Studied philosophy from 1930 to 1933. Studied theology in Rome from 1933 to 1937; received a Licentiate. Ordained on 25 December 1936.'
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Teodor-Jurij-Romzha.jpg

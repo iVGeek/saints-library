@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Zosimus of Antioch
+stub: true
 honorific: Saint
 summary: Deacon. Martyr.
 died: Antioch, Syria

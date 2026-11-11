@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Ermia of Pojani
+stub: true
 honorific: Saint
 summary: Martyr.
 died: Pojani, Macedonia (in modern Albania), date unknown

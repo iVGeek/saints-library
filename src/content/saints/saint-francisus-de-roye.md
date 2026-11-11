@@ -1,5 +1,6 @@
 ---
 name: Saint Francisus de Roye
+stub: false
 honorific: Saint
 summary: >-
   Franciscan Friars Minor monk. Martyred by Calvinists for “papism” and his belief in the Real Presence in the

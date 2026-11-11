@@ -1,5 +1,6 @@
 ---
 name: Saint Gall
+stub: false
 honorific: Saint
 summary: >-
   Younger brother of Saint Deicola. Studied at Bangor Abbey under Saint Comgall of Bangor and Saint Columba. Bible

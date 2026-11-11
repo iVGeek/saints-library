@@ -1,5 +1,6 @@
 ---
 name: Saint Mark
+stub: false
 honorific: Saint
 summary: >-
   Son of Saint Tranquillinus of Rome who raised him a pagan before his own conversion. Twin brother of Saint Marcellian.

@@ -1,5 +1,6 @@
 ---
 name: Saint Catherine of Sweden
+stub: false
 honorific: Saint
 summary: >-
   Fourth of the eight children of Saint Bridget of Sweden and Ulf Gudmarsson. Educated at the convent of Riseberg.

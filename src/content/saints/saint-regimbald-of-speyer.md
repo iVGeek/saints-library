@@ -1,5 +1,6 @@
 ---
 name: Saint Regimbald of Speyer
+stub: false
 honorific: Saint
 summary: >-
   Benedictine monk at the monastery of Saints Ulric and Afra in Augsburg, Germany. Monk at the monastery in Edersberg,

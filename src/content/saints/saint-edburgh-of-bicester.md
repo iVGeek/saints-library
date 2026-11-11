@@ -1,5 +1,6 @@
 ---
 name: Saint Edburgh of Bicester
+stub: false
 honorific: Saint
 summary: >-
   Born a princess, the daughter of the pagan King Penda of Mercia; sister of Saint Cuneburga and Saint Edith of

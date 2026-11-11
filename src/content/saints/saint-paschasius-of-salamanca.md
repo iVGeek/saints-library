@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Paschasius of Salamanca
+stub: false
 honorific: Saint
 summary: >-
   Brother of Saint Eutychianus of Salamanca and Saint Paulillus of Salamanca. Courtier who accompanied the Vandal King

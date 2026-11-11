@@ -1,5 +1,6 @@
 ---
 name: Venerable Pierre Monnereau
+stub: false
 honorific: Venerable
 summary: Priest in the diocese of Luçon, France. Founder of the Soeurs de Saintes Coeurs de Jésus et Marie de Mormaison.
 image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Pierre-Monnereau.jpg

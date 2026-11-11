@@ -1,5 +1,6 @@
 ---
 name: Blessed Luis Bertrán
+stub: false
 honorific: Blessed
 summary: >-
   Relative of Saint Louis Bertrán. Joined the Dominicans at the convent of Santa Catalina in Barcelona, Spain in 1611.

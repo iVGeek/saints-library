@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Bettelin
+stub: true
 honorific: Saint
 summary: I have no details on this saint.
 searchAliases:

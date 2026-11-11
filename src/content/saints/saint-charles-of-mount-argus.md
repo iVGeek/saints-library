@@ -1,5 +1,6 @@
 ---
 name: Saint Charles of Mount Argus
+stub: false
 honorific: Venerable
 summary: >-
   Fourth of eleven children born to Peter Joseph and Elizabeth Jane Houban. Made his first Communion at age 13. Studied

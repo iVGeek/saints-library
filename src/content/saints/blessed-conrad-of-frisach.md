@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Conrad of Frisach
+stub: false
 honorific: Blessed
 title: Missionary
 summary: >-

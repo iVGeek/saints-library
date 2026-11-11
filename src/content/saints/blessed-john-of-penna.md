@@ -1,5 +1,6 @@
 ---
 name: Blessed John of Penna
+stub: false
 honorific: Blessed
 summary: >-
   Joined the Franciscan in Recanati, Italy c.1213. Priest. Founded several Franciscan houses in Provence, France during

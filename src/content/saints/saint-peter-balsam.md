@@ -1,5 +1,6 @@
 ---
 name: Saint Peter Balsam
+stub: false
 honorific: Saint
 summary: >-
   Arrested for his faith in the persecutions of Maximinus. Tried by Severus, governor of Eleutheropolis; the transcript

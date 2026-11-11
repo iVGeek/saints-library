@@ -1,5 +1,6 @@
 ---
 name: Blessed Catherine of Racconigi
+stub: false
 honorific: Blessed
 summary: >-
   The youngest of six children, and the only daughter of Giorgio and Bilia de Ferrari Mattei. Hers was a poor family in

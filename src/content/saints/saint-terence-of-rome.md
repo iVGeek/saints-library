@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Terence of Rome
+stub: false
 honorific: Saint
 summary: >-
   Layman soldier and commander of an imperial Roman bodyguard during the reign of Julian the Apostate. Father of at

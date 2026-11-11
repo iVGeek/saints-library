@@ -1,5 +1,6 @@
 ---
 name: Blessed Elena Guerra
+stub: false
 honorific: Blessed
 summary: >-
   Born to wealthy, pious, aristocratic family, one of six children; only three survived to adulthood. From an early age

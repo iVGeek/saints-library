@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Waningus of Fécamp
+stub: false
 honorific: Saint
 summary: >-
   Frankish nobleman, living a worldly and dissolute life in the court of King Clotaire III of Neustria. Father of Saint

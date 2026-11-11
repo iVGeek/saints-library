@@ -1,5 +1,6 @@
 ---
 name: Blessed Balthassar of Chiavari
+stub: false
 honorific: Blessed
 summary: >-
   Born to the Italian nobility. Franciscan Friar Minor (Observant). Doctor of theology. Priest. Guardian of Chiavari,

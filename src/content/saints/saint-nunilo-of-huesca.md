@@ -1,5 +1,6 @@
 ---
 name: Saint Nunilo of Huesca
+stub: false
 honorific: Saint
 summary: >-
   Sister of Saint Alodia of Huesca, she was born to a Muslim father and Christian mother, and was raised Christian. When

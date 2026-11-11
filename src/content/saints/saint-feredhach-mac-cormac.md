@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Feredhach Mac Cormac
+stub: false
 honorific: Saint
 summary: >-
   Monk. Abbot of the monastery of Iona. Served during the period when the relics of Saint Columba of Iona were

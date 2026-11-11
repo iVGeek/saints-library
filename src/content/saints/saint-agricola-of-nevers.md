@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/3/3e/Nevers_Chevet_de_la_Cathedrale.1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Agricola of Nevers
+stub: true
 honorific: Saint
 title: Bishop
 summary: Bishop of Nevers, France from 570 to 594.

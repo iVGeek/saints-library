@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Hermes the Exorcist
+stub: true
 honorific: Saint
 summary: Priest. Exorcist. Martyred in the persecution of Marcus Aurelian.
 searchAliases:

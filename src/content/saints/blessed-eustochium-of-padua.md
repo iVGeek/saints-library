@@ -1,5 +1,6 @@
 ---
 name: Blessed Eustochium of Padua
+stub: false
 honorific: Blessed
 summary: >-
   Daughter of a Paduan nun who had been seduced into ignoring her vow of chastity; Lucrezia grew up in the convent. She

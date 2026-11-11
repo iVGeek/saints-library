@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/4f/Frm_beatification_banner.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Jacques-François de Lubersac
+stub: false
 honorific: Blessed
 summary: >-
   We know nothing about Jacques' life before he came to Paris, France to study civil law. Priest. Secretary to Victoria,

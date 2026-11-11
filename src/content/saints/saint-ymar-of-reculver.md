@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/2/2c/Detail_of_Reculver_Church_Sullivan_1755.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Ymar of Reculver
+stub: true
 honorific: Saint
 summary: Monk at Reculver Abbey, Kent, England. Martyr.
 deathYear: 830

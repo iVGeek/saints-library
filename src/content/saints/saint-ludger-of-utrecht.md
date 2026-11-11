@@ -1,5 +1,6 @@
 ---
 name: Saint Ludger of Utrecht
+stub: true
 honorific: Saint
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Ludger-of-Utrecht1.jpg
 searchAliases:

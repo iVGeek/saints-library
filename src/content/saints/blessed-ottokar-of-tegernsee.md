@@ -1,5 +1,6 @@
 ---
 name: Blessed Ottokar of Tegernsee
+stub: false
 honorific: Blessed
 summary: >-
   Brother of Blessed Adalbert of Tegernsee. Count of Tegernsee in Bavaria (in modern Germany). Helped found the

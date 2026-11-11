@@ -1,5 +1,6 @@
 ---
 name: Blessed Anicet Koplinski
+stub: false
 honorific: Blessed
 summary: >-
   Franciscan Capuchin friar. Priest. Friend of Blessed Fidelis Chojnacki. Martyred in the Nazi persecutions of World War

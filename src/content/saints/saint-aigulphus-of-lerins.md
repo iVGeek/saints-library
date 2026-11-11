@@ -1,5 +1,6 @@
 ---
 name: Saint Aigulphus of Lérins
+stub: false
 honorific: Saint
 summary: >-
   Benedictine monk at Fleury, France at age 20. Sent to Monte Cassino Abbey to obtain relics of Saint Benedict of

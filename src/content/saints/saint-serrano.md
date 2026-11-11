@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Serrano
+stub: true
 honorific: Saint
 summary: Bishop.
 searchAliases:

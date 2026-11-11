@@ -1,5 +1,6 @@
 ---
 name: Blessed José Antón Gómez
+stub: false
 honorific: Blessed
 summary: >-
   Benedictine monk, Solesmes Congregation. Priest. Prior of his house in Madrid, Spain in 1919. He restored the church

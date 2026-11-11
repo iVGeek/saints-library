@@ -1,5 +1,6 @@
 ---
 name: Blessed Terrence Albert O'Brien
+stub: false
 honorific: Blessed
 summary: >-
   Joined the Dominicans in 1622. Priest. Dominican prior provincial of Ireland. Bishop of Emly, Ireland. He was ordered

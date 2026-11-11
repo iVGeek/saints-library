@@ -1,5 +1,6 @@
 ---
 name: Saint Agapetus of Ruthenia
+stub: false
 honorific: Saint
 summary: Monk in Ruthenia (in modern Ukraine). Physician who did not charge for his services.
 searchAliases:

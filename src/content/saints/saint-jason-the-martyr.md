@@ -1,5 +1,6 @@
 ---
 name: Saint Jason the Martyr
+stub: false
 honorific: Saint
 summary: Son of Saint Claudius and Saint Hilaria; brother of Saint Maurus. Convert. Martyred in the persecutions of Numerian.
 image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Rome-3-December.jpg

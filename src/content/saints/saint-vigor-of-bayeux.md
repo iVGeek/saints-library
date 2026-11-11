@@ -1,5 +1,6 @@
 ---
 name: Saint Vigor of Bayeux
+stub: false
 honorific: Saint
 summary: >-
   Studied at Arras, France. Spiritual student of Saint Vedast of Arras. He studied for the priesthood, but found the

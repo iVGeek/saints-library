@@ -1,5 +1,6 @@
 ---
 name: Blessed Ohannes oglu Baldji
+stub: true
 honorific: Blessed
 summary: Married layman. One of the Martyrs of Armenia.
 image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Armenia.jpg

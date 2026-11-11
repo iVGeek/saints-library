@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Maurus of Rome
+stub: false
 honorific: Saint
 summary: Imperial Roman soldier. Martyred for defending the faith. No other information has survived.
 deathYear: 303

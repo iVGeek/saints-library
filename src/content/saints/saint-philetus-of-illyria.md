@@ -1,5 +1,6 @@
 ---
 name: Saint Philetus of Illyria
+stub: false
 honorific: Saint
 summary: >-
   Senator. Married to Saint Lydia of Illyria; father of Saint Macedo of Illyria and Saint Theoprepius of Illyria.

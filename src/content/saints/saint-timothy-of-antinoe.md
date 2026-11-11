@@ -1,5 +1,6 @@
 ---
 name: Saint Timothy of Antinoe
+stub: false
 honorific: Saint
 summary: >-
   Layman son of a priest named Pikolpossos. Lector and copyist, he was responsible for the security of the liturgical

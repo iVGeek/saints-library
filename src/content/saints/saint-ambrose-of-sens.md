@@ -1,5 +1,6 @@
 ---
 name: Saint Ambrose of Sens
+stub: true
 honorific: Saint
 title: Bishop
 summary: Bishop of Sens, France in the mid-5th-century.

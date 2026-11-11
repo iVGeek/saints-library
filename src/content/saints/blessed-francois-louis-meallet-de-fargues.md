@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/4f/Frm_beatification_banner.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed François-Louis Méallet de Fargues
+stub: false
 honorific: Blessed
 summary: Born to the French nobility. Priest in the diocese of Clermont, France. One of the Martyrs of September.
 birthYear: 1764

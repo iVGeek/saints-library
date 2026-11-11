@@ -1,5 +1,6 @@
 ---
 name: Saint Omer
+stub: false
 honorific: Saint
 summary: >-
   In 617, following the death of his parents, Omer became a Benedictine monk at Luxeuil, France under the direction of

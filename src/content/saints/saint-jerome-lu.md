@@ -1,5 +1,6 @@
 ---
 name: Saint Jerome Lu
+stub: true
 honorific: Venerable
 summary: Lay man catechist. One of the Martyrs of China.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Jerome-Lu.jpg

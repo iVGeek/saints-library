@@ -1,5 +1,6 @@
 ---
 name: Blessed John Forest
+stub: false
 honorific: Blessed
 summary: >-
   Joined the Friars Minor of the Regular Observance at Greenwich, England while in his late teens. Studied theology at

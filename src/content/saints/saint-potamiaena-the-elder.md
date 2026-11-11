@@ -1,5 +1,6 @@
 ---
 name: Saint Potamiaena the Elder
+stub: false
 honorific: Saint
 summary: >-
   Daughter of Saint Marcella of Alexandria. Young, beautiful, pious, Christian, virgin, girl. Tortured extensively for

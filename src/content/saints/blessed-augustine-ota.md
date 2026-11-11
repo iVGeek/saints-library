@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/48/Painting_of_the_Nagasaki_Martyrs.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Augustine Ota
+stub: false
 honorific: Blessed
 summary: >-
   Worked as a catechist, helping Jesuit missionaries. Imprisoned at Ikinoshima for his faith. While imprisoned, he was

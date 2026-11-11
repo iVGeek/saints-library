@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Hunna of Alsace
+stub: false
 honorific: Saint
 summary: >-
   Daughter of the duke of Alsace. Wife of an Alsatian nobleman named Huno of Hunnaweyer, she lived in the diocese of

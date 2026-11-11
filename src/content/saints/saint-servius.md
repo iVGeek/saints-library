@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Servius
+stub: true
 honorific: Saint
 summary: Martyred in the persecutions of the Arian Vandal king Huneric.
 deathYear: 484

@@ -1,5 +1,6 @@
 ---
 name: Saint Boniface of Hadrumetum
+stub: false
 honorific: Saint
 summary: >-
   Married to Saint Thecla of Hadrumetum. Father of the Twelve Holy Brothers. Martyred in the persecutions of Maximian

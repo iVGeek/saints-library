@@ -1,5 +1,6 @@
 ---
 name: Saint Aurelian of Tomis
+stub: true
 honorific: Saint
 summary: Martyr.
 died: in Tomis, Scythia Minor (modern Constanta, Romania), date unknown

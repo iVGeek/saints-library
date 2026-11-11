@@ -1,5 +1,6 @@
 ---
 name: Saint Nicetas of Remesiana
+stub: false
 honorific: Saint
 summary: >-
   Friend of Saint Paulinus of Nola. Missionary bishop in Decia (modern Romania and Yugoslavia). Author of several

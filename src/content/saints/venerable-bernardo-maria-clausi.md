@@ -1,5 +1,6 @@
 ---
 name: Venerable Bernardo Maria Clausi
+stub: false
 honorific: Venerable
 summary: >-
   Born to the Italian nobility, Bernard joined the Order of Minims at age 15, but the monastery was soon closed by the

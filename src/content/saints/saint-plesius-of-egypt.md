@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Plesius of Egypt
+stub: false
 honorific: Saint
 summary: >-
   One of a group of 37 Christian noblemen who worked together to spread the faith through Egypt. Though there were many

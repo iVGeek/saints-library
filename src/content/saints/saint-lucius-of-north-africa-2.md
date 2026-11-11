@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/1/1c/Bakhita_Szent_Jozefina.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Lucius of North Africa
+stub: true
 honorific: Saint
 summary: Martyred in North Africa. No other information has survived.
 region: Africa

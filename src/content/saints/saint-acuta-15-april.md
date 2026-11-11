@@ -1,5 +1,6 @@
 ---
 name: Saint Acuta of Mesopotamia
+stub: true
 honorific: Saint
 summary: Martyred in Mesopotamia. No other information has survived.
 feastDay:

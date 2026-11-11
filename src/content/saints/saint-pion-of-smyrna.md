@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Pion of Smyrna
+stub: true
 honorific: Saint
 summary: Martyr.
 searchAliases:

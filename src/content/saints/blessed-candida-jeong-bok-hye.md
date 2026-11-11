@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Candida Jeong Bok-hye
+stub: true
 honorific: Blessed
 summary: Married lay woman martyr in the apostolic vicariate of Korea.
 deathYear: 1801

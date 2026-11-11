@@ -1,6 +1,7 @@
 ---
 image: https://www.santiebeati.it/immagini/Thumbs/100786/100786.JPG
 name: Blessed Ciril Montaner Fabré
+stub: false
 honorific: Blessed
 summary: >-
   Member of the Claretians, professsed on 7 March 1897 in Cervera, Spain. Ordained a priest on 29 June 1902. Martyred in

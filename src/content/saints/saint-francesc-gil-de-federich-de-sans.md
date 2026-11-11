@@ -1,5 +1,6 @@
 ---
 name: Saint Francesc Gil de Federich de Sans
+stub: false
 honorific: Venerable
 summary: >-
   Educated in Barcelona, Spain where he joined the Dominicans. Priest. Missionary to the Philippines. Missionary to

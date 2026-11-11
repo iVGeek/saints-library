@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Helimenas
+stub: true
 honorific: Saint
 summary: Priest. Martyred when Decius invaded Mesapotamia.
 deathYear: 250

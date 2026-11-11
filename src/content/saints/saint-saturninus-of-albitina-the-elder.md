@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Saturninus of Albitina the Elder
+stub: false
 honorific: Saint
 summary: >-
   Father of Saint Saturninus of Albitina the Younger, Saint Felix of Albitina, Saint Hilarion of Albitina and Saint Mary

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/e/ef/Ewalde_scan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Benno of Osnabruck
+stub: false
 honorific: Blessed
 summary: >-
   Monk. Courtier to Emperor Henry III. Bishop of Osnabruck, Germany in 1068; he served for 20 years. Involved in the

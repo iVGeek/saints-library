@@ -1,5 +1,6 @@
 ---
 name: Saint Anastasia of Rome
+stub: false
 honorific: Saint
 summary: >-
   Born to the Imperial Roman nobility. Spiritual student of Saint Peter the Apostle and Saint Paul the Apostle whose

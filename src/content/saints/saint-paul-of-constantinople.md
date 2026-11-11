@@ -1,5 +1,6 @@
 ---
 name: Saint Paul of Constantinople
+stub: false
 honorific: Saint
 summary: >-
   Chosen Archbishop of Constantinople in 336. For supporting orthodox Christianity against Arianism, he was exiled to

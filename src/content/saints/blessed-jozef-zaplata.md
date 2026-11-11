@@ -1,5 +1,6 @@
 ---
 name: Blessed Józef Zaplata
+stub: false
 honorific: Blessed
 summary: >-
   Born to a poor farm family, and never made it past elementary school. Served in the army. Joined the Brothers of the

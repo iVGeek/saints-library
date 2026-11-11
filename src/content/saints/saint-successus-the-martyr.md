@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Successus the Martyr
+stub: false
 honorific: Saint
 summary: One of a group of 18 Christians martyred together in North Africa. No other information has survived.
 region: England

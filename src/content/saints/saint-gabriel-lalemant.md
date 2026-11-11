@@ -1,5 +1,6 @@
 ---
 name: Saint Gabriel Lalemant
+stub: false
 honorific: Saint
 title: St. Gabriel Lalemant
 summary: >-

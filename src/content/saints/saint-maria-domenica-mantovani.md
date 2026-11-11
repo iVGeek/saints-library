@@ -1,5 +1,6 @@
 ---
 name: Saint Maria Domenica Mantovani
+stub: false
 honorific: Venerable
 summary: >-
   Eldest of four children born to Giovanni and Prudenza Zamperini, Maria grew up in a small farm village She received

@@ -1,5 +1,6 @@
 ---
 name: Saint Calogerus the Anchorite
+stub: false
 honorific: Saint
 summary: >-
   Fifth century evangelist on the island of Lipari, Italy. Lived his last 35 years as a hermit near Girgenti, Sicily.

@@ -1,5 +1,6 @@
 ---
 name: Martyrs of Shanxi
+stub: false
 honorific: Saint
 image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Shanxi.jpg
 deathYear: 1900

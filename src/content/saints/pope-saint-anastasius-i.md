@@ -1,5 +1,6 @@
 ---
 name: Pope Saint Anastasius I
+stub: false
 honorific: Saint
 summary: >-
   All that is known of his early life is that he was considered pious as a youth, and cared nothing for material things

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Edbert of Lindisfarne
+stub: false
 honorific: Saint
 summary: >-
   Monk of Lindisfarne Abbey. Noted for his personal sanctity, his extensive Bible knowledge, and his charity to the

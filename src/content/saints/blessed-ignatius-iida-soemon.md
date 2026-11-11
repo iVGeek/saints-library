@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Ignatius Iida Soemon
+stub: true
 honorific: Blessed
 summary: Layman in the diocese of Niigata, Japan. Married to Blessed Lucia Iida. Martyr.
 deathYear: 1629

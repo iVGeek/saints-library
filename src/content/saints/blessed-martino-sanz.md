@@ -1,5 +1,6 @@
 ---
 name: Blessed Martino Sanz
+stub: false
 honorific: Blessed
 summary: Friar and then Commander of the Mercedarian convent of Santa Maria della Mercede Arguines in Spain.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Martin-Sanz.jpg

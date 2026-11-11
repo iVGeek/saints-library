@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/7/77/Plaque_in_honor_of_Blessed_George_Haydock.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Francis Ingleby
+stub: false
 honorific: Blessed
 summary: >-
   Studied at Rheims, France. Ordained on 21 March 1581, he returned to England in April 1581 to minister to covert

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Evonio of Auvergne
+stub: false
 honorific: Saint
 summary: Though his name appears on saint lists as early as 950, no information about him has survived.
 searchAliases:

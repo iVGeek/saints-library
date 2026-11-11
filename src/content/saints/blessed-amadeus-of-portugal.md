@@ -1,5 +1,6 @@
 ---
 name: Blessed Amadeus of Portugal
+stub: false
 honorific: Blessed
 summary: >-
   Born to the Portugese nobility, the youngest of eleven children of Rui Gomes, the Count of Viana, and Isabel de

@@ -1,5 +1,6 @@
 ---
 name: Blessed Rubén de Jesús López Aguilar
+stub: false
 honorific: Blessed
 summary: >-
   Joined the Hospitallers of Saint John of God in 1930, making his vows on 27 March 1932. Martyred in the Spanish Civil

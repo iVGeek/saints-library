@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Menedemo of Nicomedia
+stub: true
 honorific: Saint
 summary: Martyred in the persecutions of Valens.
 died: locked on a boat which was then set on fire on the shore of Nicomedia, Bithynia (in modern Turkey)

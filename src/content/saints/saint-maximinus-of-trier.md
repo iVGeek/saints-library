@@ -1,5 +1,6 @@
 ---
 name: Saint Maximinus of Trier
+stub: false
 honorific: Saint
 summary: >-
   Born to the Gallic nobility. Brother of Saint Maxentius of Poitiers. Educated and ordained by Saint Agritius, whom he

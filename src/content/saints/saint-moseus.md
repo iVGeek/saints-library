@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Moseus
+stub: false
 honorific: Saint
 summary: >-
   Soldier. Arrested with Saint Ammonius for the crime of hiring and supporting Christians during the persecutions of

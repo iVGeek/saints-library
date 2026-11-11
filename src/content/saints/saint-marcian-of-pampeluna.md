@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Marcian of Pampeluna
+stub: true
 honorific: Saint
 summary: Bishop of Pamplona, Spain. Attended the sixth Council of Toledo in 737.
 deathYear: 757

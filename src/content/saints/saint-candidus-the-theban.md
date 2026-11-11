@@ -1,5 +1,6 @@
 ---
 name: Saint Candidus the Theban
+stub: false
 honorific: Saint
 summary: Soldier. Martyr. One of the Martyrs of the Theban Legion. No other information has survived.
 image: https://catholicsaints.info/wp-content/uploads/Candidusaynebru.jpg

@@ -1,5 +1,6 @@
 ---
 name: Saint Joavan of Brittany
+stub: false
 honorific: Saint
 summary: >-
   Moved from Britain to Brittany to become the spiritual student of his uncle Saint Paul Aurelian. Monk at Landevennec,

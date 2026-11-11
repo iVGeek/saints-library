@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Melan of Viviers
+stub: true
 honorific: Saint
 title: Bishop
 summary: Bishop of Viviers, France from 519 until his death; he served for 30 years.

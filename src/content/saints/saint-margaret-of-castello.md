@@ -1,5 +1,6 @@
 ---
 name: Saint Margaret of Castello
+stub: false
 honorific: Saint
 summary: >-
   Born a blind, lame, deformed, hunchback midget. When she was six years old, her noble parents walled her up beside a

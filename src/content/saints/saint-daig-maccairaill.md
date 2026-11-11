@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Daig MacCairaill
+stub: false
 honorific: Saint
 summary: >-
   Spiritual student of Saint Finnian of Clonard. Bishop of Inish Cain Dega (Iniskeen or Iniskin), Ireland. He founded a

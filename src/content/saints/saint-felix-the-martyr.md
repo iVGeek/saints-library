@@ -1,5 +1,6 @@
 ---
 name: Saint Felix the Martyr
+stub: false
 honorific: Saint
 summary: Fifth century martyr, killed in the Vandal persecutions with 20 other Christians whose names have not come down to us.
 region: England

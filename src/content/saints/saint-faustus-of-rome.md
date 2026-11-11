@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Faustus of Rome
+stub: false
 honorific: Saint
 summary: >-
   Faustus was one of a group of 24 martyrs who died together in Rome, Italy, date unknown. His is the only name that has

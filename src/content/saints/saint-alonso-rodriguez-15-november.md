@@ -1,5 +1,6 @@
 ---
 name: Saint Alonso Rodriguez
+stub: false
 honorific: Venerable
 summary: >-
   Jesuit, ordained in 1624. Missionary to Paraguay and Brazil. With Saint Rocco Gonzalez and Saint Juan de Castillo, he

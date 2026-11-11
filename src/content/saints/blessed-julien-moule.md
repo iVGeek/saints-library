@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/e/e1/Three_Bishops_of_the_Anglican_Diocese_of_Szechwan.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Julien Moulé
+stub: false
 honorific: Blessed
 summary: >-
   Priest in the diocese of Laval, France. Curate and rector of the college at Beaufray, France. Parish priest at

@@ -1,5 +1,6 @@
 ---
 name: Blessed Eleanora
+stub: false
 honorific: Blessed
 summary: >-
   Daughter of Count Raymond IV of Provence. Married King Henry III of England on 14 January 1236 at the age of ten.

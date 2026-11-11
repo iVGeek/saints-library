@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Artur Tamarit Pinyol
+stub: false
 honorific: Blessed
 summary: >-
   Member of the Claretians, professed on 15 August 1929. Ordained a priest on 19 April 1936. Martyred in the Spanish

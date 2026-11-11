@@ -1,5 +1,6 @@
 ---
 name: Saint Memmius of Châlons-sur-Marne
+stub: false
 honorific: Saint
 summary: >-
   First bishop of Châlons-sur-Marne, France, serving in the latter 3rd century. Saint Gregory of Tours wrote about

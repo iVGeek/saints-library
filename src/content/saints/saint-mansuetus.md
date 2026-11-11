@@ -1,5 +1,6 @@
 ---
 name: Saint Mansuetus of Toul
+stub: false
 honorific: Saint
 summary: >-
   First bishop of Toul, France, c.338 serving until his death. He was so successful in spreading the faith in the region

@@ -1,5 +1,6 @@
 ---
 name: Blessed Francisco Castellet Vinale
+stub: false
 honorific: Blessed
 summary: >-
   Joined the Dominicans in Barcelona, Spain at a young age, taking the name Dominic. Priest. Missionary to the

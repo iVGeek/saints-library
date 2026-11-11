@@ -1,5 +1,6 @@
 ---
 name: Saint Agilbert of Paris
+stub: false
 honorific: Saint
 summary: >-
   Born to the Frankish nobility. Studied at the monastery of Jouarre in Ireland under the spiritual direction of his

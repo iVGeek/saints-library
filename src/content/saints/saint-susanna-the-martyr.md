@@ -1,5 +1,6 @@
 ---
 name: Saint Susanna the Martyr
+stub: false
 honorific: Saint
 summary: >-
   Young girl who fled to Nola, Italy to escape persecution. Arrested there for her faith, she was taken to Salerno,

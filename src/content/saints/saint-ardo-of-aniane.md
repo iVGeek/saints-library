@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Ardo of Aniane
+stub: false
 honorific: Saint
 summary: >-
   Monk at the abbey of Aniane, France, taking the name Ardo. Director of the abbey schools. Travelled with Saint

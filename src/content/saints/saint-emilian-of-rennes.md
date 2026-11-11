@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Emilian of Rennes
+stub: true
 honorific: Saint
 summary: Hermit in Rennes, Brittany, France.
 region: France

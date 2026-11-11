@@ -1,5 +1,6 @@
 ---
 name: Saint Maximus of Turin
+stub: false
 honorific: Saint
 summary: >-
   First known bishop of Turin, Italy. In 451 he attended the synod of Milan where northern Italian bishops accepted the

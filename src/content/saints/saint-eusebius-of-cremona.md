@@ -1,5 +1,6 @@
 ---
 name: Saint Eusebius of Cremona
+stub: false
 honorific: Saint
 summary: >-
   After hearing Saint Jerome speak in Rome, Italy, Eusebius accompanied the translator to the Holy Land. Made the

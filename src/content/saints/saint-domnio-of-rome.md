@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Domnio of Rome
+stub: false
 honorific: Saint
 summary: >-
   Fourth century priest in Rome, Italy. He collected old texts which were used by Saint Jerome. Both Saint Jerome and

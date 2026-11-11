@@ -1,5 +1,6 @@
 ---
 name: Saint Gajan
+stub: true
 honorific: Saint
 summary: Fourth century deacon. Martyr.
 died: martyred in Dacia (an area of modern Romania)

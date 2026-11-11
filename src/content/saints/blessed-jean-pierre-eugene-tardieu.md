@@ -1,5 +1,6 @@
 ---
 name: Blessed Jean-Pierre-Eugène Tardieu
+stub: false
 honorific: Blessed
 summary: >-
   A member of the Picpus Fathers, making his profession on 6 April 1839. Ordained a priest in 1840, he served as novice

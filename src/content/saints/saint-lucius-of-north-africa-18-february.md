@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/4a/11exupery-inline1-500_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Lucius of North Africa
+stub: false
 honorific: Saint
 summary: One of a group of Christians who were martyred together, date unknown. No other information has survived.
 born: African

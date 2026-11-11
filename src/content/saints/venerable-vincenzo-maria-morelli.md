@@ -1,5 +1,6 @@
 ---
 name: Venerable Vincenzo Maria Morelli
+stub: false
 honorific: Venerable
 summary: >-
   Born to a large and pious family; Vincenzo and two of his brothers were members of the Theatines. Ordained a priest on

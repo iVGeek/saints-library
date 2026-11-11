@@ -1,5 +1,6 @@
 ---
 name: Abdon the Judge
+stub: false
 image: >-
   https://commons.wikimedia.org/wiki/Special:FilePath/Descendants_of_Aaron_according_to_the_book_of_Esdras_Carthage_Judges_of_Israel-_Jephthah%252C_Elon%252C_Abdon%252C_Ibzan_Saul_Odysse_-_Schedell_Hartmann_-_1493.jpg?width=600
 honorific: Saint

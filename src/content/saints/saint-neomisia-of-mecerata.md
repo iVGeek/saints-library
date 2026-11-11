@@ -1,5 +1,6 @@
 ---
 name: Saint Neomisia of Mecerata
+stub: false
 honorific: Saint
 summary: >-
   Pilgrim to Palestine and then to Rome, Italy. Abused for her faith by pagans in Capua, Italy, but managed to escape

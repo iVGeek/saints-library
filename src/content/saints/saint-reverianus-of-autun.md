@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Reverianus of Autun
+stub: false
 honorific: Saint
 summary: >-
   Evangelizing bishop. Missionary to Gaul with Saint Paulus of Autun and ten companions whose names have not come down

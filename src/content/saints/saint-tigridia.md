@@ -1,5 +1,6 @@
 ---
 name: Saint Tigridia
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility, the daughter of Count Sancho Garcia. Her father founded the convent of Oña near Burgos, Spain,

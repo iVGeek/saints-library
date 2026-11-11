@@ -1,5 +1,6 @@
 ---
 name: Saint Aristone
+stub: true
 honorific: Saint
 summary: Martyr.
 died: Porto Romano, Italy

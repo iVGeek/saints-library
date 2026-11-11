@@ -1,5 +1,6 @@
 ---
 name: Saint Hippolytus of Belley
+stub: true
 honorific: Saint
 summary: Monk. Abbot of Saint-Oyend abbey. Bishop of Belley, France.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Hippolytus-of-Belley.jpg

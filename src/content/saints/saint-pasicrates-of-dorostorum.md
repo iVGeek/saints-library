@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Pasicrates of Dorostorum
+stub: false
 honorific: Saint
 summary: One of a group of four martyrs executed together. No details about them have survived.
 died: Dorostorum, Mysia, Asia Minor

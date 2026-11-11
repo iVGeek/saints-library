@@ -1,5 +1,6 @@
 ---
 name: Venerable Louis-Marie Baudouin
+stub: false
 honorific: Venerable
 summary: >-
   Ordained a priest of the diocese of Luçon, France on 19 September 1789. Refused to take the oath of allegiance to the

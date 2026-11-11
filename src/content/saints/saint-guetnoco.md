@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Guetnoco
+stub: false
 honorific: Saint
 summary: Brother monk of Saint Winwallus and Saint Giacuto at Landevennec monastery in Brittany, France. Abbot.
 region: France

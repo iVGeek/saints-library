@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/1/12/Quirinus_of_Siscia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Quirinus of Tivoli
+stub: true
 honorific: Saint
 summary: Martyr. No reliable information has survived.
 died: Tivoli, Italy, date unknown

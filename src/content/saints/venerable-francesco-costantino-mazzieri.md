@@ -1,5 +1,6 @@
 ---
 name: Venerable Francesco Costantino Mazzieri
+stub: false
 honorific: Venerable
 summary: >-
   A member of the Order of Friars Minor Conventual, he joined on 23 April 1905 and made his solemn profession on 15

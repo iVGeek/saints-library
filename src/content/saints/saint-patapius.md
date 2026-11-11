@@ -1,5 +1,6 @@
 ---
 name: Saint Patapius of Constantinople
+stub: false
 honorific: Saint
 summary: >-
   Desert monk near Thebes, Egypt. Hermit outside the city walls of Constantinople. His reputation for holiness attraced

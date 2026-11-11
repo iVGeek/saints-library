@@ -1,5 +1,6 @@
 ---
 name: Saint Epiphania
+stub: false
 honorific: Saint
 summary: >-
   Born a Princess, the daughter of King Ratchis of the Lombards. Nun at the convent of Santa Maria della Caccia in

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/2/2f/Santuario_del_Santo_Cristo%2C_San_Juan_City%2C_April_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Juan of Huete
+stub: false
 honorific: Blessed
 summary: >-
   Mercedarian friar at the convent of Santa Maria in Huete, Spain. Greatly increased their already excellent library.

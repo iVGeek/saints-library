@@ -1,5 +1,6 @@
 ---
 name: Blessed Fernando González Añon
+stub: false
 honorific: Blessed
 summary: Priest in the archdiocese of Valencia, Spain. Martyred in the Spanish Civil War.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Fernando-Gonzalez-Anon.jpg

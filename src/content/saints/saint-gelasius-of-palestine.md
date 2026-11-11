@@ -1,5 +1,6 @@
 ---
 name: Saint Gelasius of Palestine
+stub: false
 honorific: Saint
 summary: Fifth-century monk in Palestine. Opposing the Monophysite heresy, he was expelled from his monastery.
 region: Holy Land

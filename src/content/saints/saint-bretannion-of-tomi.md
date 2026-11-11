@@ -1,5 +1,6 @@
 ---
 name: Saint Bretannion of Tomi
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Tomi, Scythia (modern Constanta, Romania). He opposed Arianism for which he was exiled by Emperor Valens;

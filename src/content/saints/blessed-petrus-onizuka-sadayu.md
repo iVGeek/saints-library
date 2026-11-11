@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/48/Painting_of_the_Nagasaki_Martyrs.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Petrus Onizuka Sadayu
+stub: false
 honorific: Blessed
 summary: Convert to Christianity. Jesuit postulant. Catechist. Worked with Blessed Paul Navarro, and martyred with him.
 searchAliases:

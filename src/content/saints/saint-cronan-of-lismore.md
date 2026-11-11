@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Cronan of Lismore
+stub: true
 honorific: Saint
 summary: Monk. Abbot of Lismore Abbey.
 deathYear: 717

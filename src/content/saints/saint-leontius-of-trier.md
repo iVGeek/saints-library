@@ -1,5 +1,6 @@
 ---
 name: Saint Leontius of Trier
+stub: true
 honorific: Saint
 title: Bishop
 summary: Bishop of Trier, Germany from c.414 to c.445.

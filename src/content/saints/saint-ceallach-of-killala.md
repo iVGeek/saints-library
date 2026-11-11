@@ -1,5 +1,6 @@
 ---
 name: Saint Ceallach of Killala
+stub: false
 honorific: Saint
 summary: >-
   Spiritual student of Saint Kieran of Clonmacnoise. Bishop of Killala, Ireland. In his old age he retired from his see

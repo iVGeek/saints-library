@@ -1,5 +1,6 @@
 ---
 name: Saint Robert Bellarmine
+stub: false
 honorific: Venerable
 summary: >-
   Third of ten children of Vincenzo Bellarmine and Cinzia Cervini, a family of impoverished nobles. His mother, a niece

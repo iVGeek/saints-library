@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Dorus of Benevento
+stub: true
 honorific: Saint
 title: Bishop
 summary: Fifth century bishop of Benevento, Italy.

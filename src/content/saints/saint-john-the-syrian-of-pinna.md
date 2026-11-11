@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint John the Syrian of Pinna
+stub: false
 honorific: Saint
 summary: >-
   Hermit in Syria. Fled to Pinna, Italy to escape Monophysite persecution. He arrived in the dead of winter; some

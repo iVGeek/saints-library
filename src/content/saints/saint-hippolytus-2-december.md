@@ -1,6 +1,7 @@
 ---
 image: https://www.catholic.org/files/images/saints/3786.jpg
 name: Saint Hippolytus
+stub: true
 honorific: Saint
 summary: Martyred in the persecution of Valerian.
 deathYear: 258

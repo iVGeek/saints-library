@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/f/f1/Tommaso_De_Vivo_-_Virgil_and_Dante.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Musonius
+stub: true
 honorific: Saint
 summary: Martyr. No other information has survived.
 died: burned at the stake in Asia Minor

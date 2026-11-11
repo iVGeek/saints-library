@@ -1,5 +1,6 @@
 ---
 name: Saint Francisca Salesia
+stub: false
 honorific: Venerable
 summary: >-
   Daughter of Theodore Aviat, a shopkeeper, and Emilie Caillot. Baptized 17 September 1844; Confirmed on 2 July 1856.

@@ -1,5 +1,6 @@
 ---
 name: Blessed Ángel de la Iglesia Ociña
+stub: false
 honorific: Blessed
 summary: >-
   Baptized on the day he was born. Joined the Congregation of Saint Peter ad Vincula in 1926 in Marseille, France,

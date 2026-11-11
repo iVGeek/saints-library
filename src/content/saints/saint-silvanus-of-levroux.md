@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Silvanus of Levroux
+stub: false
 honorific: Saint
 summary: Early saint long venerated in Levroux, France. No other information has survived.
 searchAliases:

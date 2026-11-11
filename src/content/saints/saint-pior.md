@@ -1,6 +1,7 @@
 ---
 image: https://upload.wikimedia.org/wikipedia/commons/St.Pior.jpg
 name: Saint Pior
+stub: false
 honorific: Saint
 summary: Hermit in a cave in the Baid desert on the Nile in Egypt. Spiritual student of Saint Anthony the Abbot.
 deathYear: 395

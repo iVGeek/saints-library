@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Dionysia the Martyr
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility. Widow. Sister of Saint Dativa. Mother of Saint Majoricus the Martyr. Martyred during the

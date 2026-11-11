@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Eptadius of Autun
+stub: false
 honorific: Saint
 summary: >-
   Born to a wealthy and well-connected family, Eptadius was a well-educated young man known for his serious nature,

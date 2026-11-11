@@ -1,5 +1,6 @@
 ---
 name: Saint Ethelwold of Winchester
+stub: false
 honorific: Saint
 summary: >-
   He grew up in the court of King Athelstan. Studied under and was ordained by his relative, Saint Alphege of

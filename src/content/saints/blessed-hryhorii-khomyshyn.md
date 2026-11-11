@@ -1,5 +1,6 @@
 ---
 name: Blessed Hryhorii Khomyshyn
+stub: false
 honorific: Blessed
 summary: >-
   Greek Catholic. Ordained on 18 November 1893. Studied theology at Vienna, Austria from 1894 to 1899. Rector of the

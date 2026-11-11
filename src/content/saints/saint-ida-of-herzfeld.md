@@ -1,5 +1,6 @@
 ---
 name: Saint Ida of Herzfeld
+stub: false
 honorific: Saint
 summary: >-
   Great-granddaughter of Charlemagne, and grew up in his court. Married to Lord Egbert by arrangement of the emperor.

@@ -1,5 +1,6 @@
 ---
 name: Enoch the Patriarch
+stub: false
 honorific: Saint
 title: Priest
 summary: >-

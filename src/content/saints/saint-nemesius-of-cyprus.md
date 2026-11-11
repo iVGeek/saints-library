@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/6/69/Saint_Cyril_of_Jerusalem.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Nemesius of Cyprus
+stub: true
 honorific: Saint
 summary: Martyr.
 died: Cyprus

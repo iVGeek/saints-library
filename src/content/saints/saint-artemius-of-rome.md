@@ -1,5 +1,6 @@
 ---
 name: Saint Artemius of Rome
+stub: false
 honorific: Saint
 summary: >-
   Married to Saint Candida of Rome; father of Saint Paulina of Rome. Jailer. Convert, brought to the faith by Saint

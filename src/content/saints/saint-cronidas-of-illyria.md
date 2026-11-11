@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Cronidas of Illyria
+stub: true
 honorific: Saint
 summary: Notary. Martyred in the persecutions of Hadrian.
 deathYear: 121

@@ -1,5 +1,6 @@
 ---
 name: Saint Anna Wang
+stub: false
 honorific: Venerable
 summary: >-
   Born to a poor Christian farm family, Anna's mother, a pious woman, died when the girl was five years old. In addition

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Kyneswide of Castor
+stub: false
 honorific: Saint
 summary: >-
   Daughter of Pendra of Mercia, a fierce opponent of Christianity. Sister of Saint Kyneburga. Relative of Saint Tibba.

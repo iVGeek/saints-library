@@ -1,5 +1,6 @@
 ---
 name: Saint Columba of Cornwall
+stub: false
 honorific: Saint
 summary: >-
   Convert who became Christian when the Holy Spirit appeared to her in the form of a dove; hence, the name Columba,

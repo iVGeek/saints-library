@@ -1,5 +1,6 @@
 ---
 name: Blessed Dodone of Haske
+stub: false
 honorific: Blessed
 summary: >-
   After his father's death, Dodone was forced into an arranged marriage for the good of his family, but after a few

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/e/e1/Saint-Mandrier-sur-Mer_P1150078.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Mandrier of Toulon
+stub: false
 honorific: Saint
 summary: >-
   Sixth century Gothic soldier. He was a convert to Christianity, brought to the faith and baptized by Saint Cyprian of

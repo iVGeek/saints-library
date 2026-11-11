@@ -1,5 +1,6 @@
 ---
 name: Saint Alphaeus of Palestine
+stub: true
 honorific: Saint
 summary: Tortured and martyred in the persecutions of Diocletian.
 deathYear: 302

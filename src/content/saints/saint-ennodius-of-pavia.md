@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Ennodius of Pavia
+stub: false
 honorific: Saint
 summary: >-
   Born to the Gallo-Roman nobility. Well educated in the sciences and rhetoric. Married to a wealthy member of the

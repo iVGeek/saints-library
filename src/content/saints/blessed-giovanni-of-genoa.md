@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/6/65/Don_Bosco_%40_Torino%2C_1880_%28original%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Giovanni of Genoa
+stub: false
 honorific: Blessed
 summary: >-
   Camaldolese monk. Abbot of the Cistercian monastery of Sant'Andrea near Sestri, Italy in 1110. Abbot of the

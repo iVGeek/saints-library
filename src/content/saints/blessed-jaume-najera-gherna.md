@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Jaume Nàjera Gherna
+stub: false
 honorific: Blessed
 summary: >-
   Franciscan Capuchin friar, professed on 27 July 1931. Ordained a priest on 11 March 1933. Murdered by Marxists in the

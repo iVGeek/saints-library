@@ -1,5 +1,6 @@
 ---
 name: Saint Eusebius of Phoenicia
+stub: false
 honorific: Saint
 summary: >-
   Openly declared himself a Christian during an unspecified period of persecution in Phoenicia. Tortured and executed.

@@ -1,5 +1,6 @@
 ---
 name: Saint Gaudentius of Novara
+stub: false
 honorific: Saint
 summary: >-
   Convert. Priest at Ivrea near Turin, Italy. Friend of Saint Laurence of Novara, Saint Eusebius of Vercelli and Saint

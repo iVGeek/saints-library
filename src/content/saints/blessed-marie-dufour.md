@@ -1,5 +1,6 @@
 ---
 name: Blessed Marie Dufour
+stub: false
 honorific: Blessed
 summary: >-
   Discalced Carmelite lay sister, joining the community in 1772. One of the Carmelite Martyrs of Compiegne, killed in

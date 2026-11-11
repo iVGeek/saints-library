@@ -1,6 +1,7 @@
 ---
 image: https://www.catholic.org/files/images/saints/4088.jpg
 name: Saint Joseph of Volokolamsk
+stub: false
 honorific: Saint
 summary: >-
   Monk. Abbot at the monastery of Borovsk, Russia in 1477, but his strict discipline did not sit well with his brothers.

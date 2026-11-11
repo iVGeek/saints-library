@@ -1,5 +1,6 @@
 ---
 name: Saint José de Anchieta
+stub: false
 honorific: Venerable
 summary: >-
   Son of a wealthy and prominent family, and possibly related to Saint Ignatius of Loyola. Educated in Portugal. Joined

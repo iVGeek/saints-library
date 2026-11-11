@@ -1,5 +1,6 @@
 ---
 name: Saint Aithala of Persia
+stub: true
 honorific: Saint
 summary: Martyr.
 searchAliases:

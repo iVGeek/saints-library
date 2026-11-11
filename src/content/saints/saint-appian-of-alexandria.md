@@ -1,5 +1,6 @@
 ---
 name: Saint Appian of Alexandria
+stub: false
 honorific: Saint
 summary: Martyred with nine other Christians during disturbances caused by the heretical Monophysites.
 deathYear: 483

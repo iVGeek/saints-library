@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Rufo of Rome
+stub: true
 honorific: Saint
 summary: Martyr.
 died: Generosa cemetery, Rome, Italy

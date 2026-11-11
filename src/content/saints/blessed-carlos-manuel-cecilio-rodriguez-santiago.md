@@ -1,5 +1,6 @@
 ---
 name: Blessed Carlos Manuel Cecilio Rodriguez Santiago
+stub: false
 honorific: Blessed
 summary: >-
   Second of five children born to Manuel Baudilio Rodriguez and Herminia Santiago; theirs was a pious family as one of

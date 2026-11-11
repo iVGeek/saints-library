@@ -1,5 +1,6 @@
 ---
 name: Saint Galation
+stub: false
 honorific: Saint
 summary: >-
   Galation, a Christian, converted his wife, Saint Epistemis. They both then retired to monasteries and were later

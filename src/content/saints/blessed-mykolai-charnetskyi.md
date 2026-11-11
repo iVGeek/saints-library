@@ -1,5 +1,6 @@
 ---
 name: Blessed Mykolai Charnetskyi
+stub: false
 honorific: Blessed
 summary: >-
   Greek Catholic. Ordained on 2 October 1909. Received a doctorate in Dogmatic Theology in Rome, Italy. Entered the

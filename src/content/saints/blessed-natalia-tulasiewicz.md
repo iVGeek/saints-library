@@ -1,5 +1,6 @@
 ---
 name: Blessed Natalia Tulasiewicz
+stub: false
 honorific: Blessed
 summary: >-
   Lay woman in the archdiocese of Poznan, Poland. School teacher in Poznan. Very active in her parish. Arrested,

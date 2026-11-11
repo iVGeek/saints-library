@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Sabinus of Egypt
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility, he lived in Hermopolis (modern Al-Ashmunayn), Egypt. With other Christians, he retreated into

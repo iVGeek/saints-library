@@ -1,5 +1,6 @@
 ---
 name: Saint Felix of Milan
+stub: false
 honorific: Saint
 summary: >-
   Soldier in the imperial Roman army. Martyred in the persecutions of Diocletian when the ranks were violently purged of

@@ -1,5 +1,6 @@
 ---
 name: Saint Wigbert of Fritzlar
+stub: false
 honorific: Saint
 summary: >-
   Became a monk as a very young man, possibly at Glastonbury Abbey. Missionary who worked with Saint Boniface. He

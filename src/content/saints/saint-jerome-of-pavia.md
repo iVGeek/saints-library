@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Jerome of Pavia
+stub: true
 honorific: Saint
 summary: Bishop of Pavia, Italy from 778 until his death.
 searchAliases:

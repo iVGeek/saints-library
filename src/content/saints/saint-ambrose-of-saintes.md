@@ -1,5 +1,6 @@
 ---
 name: Saint Ambrose of Saintes
+stub: true
 honorific: Saint
 summary: Bishop of Saintes, France for about 14 years.
 deathYear: 450

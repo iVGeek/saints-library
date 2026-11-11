@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Claudius Marius Victorinus of Saussaye
+stub: false
 honorific: Saint
 summary: Commemorated in La Saussaye, Eure, France, but no details about him have survived.
 region: France

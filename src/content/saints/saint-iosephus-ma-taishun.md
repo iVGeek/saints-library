@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Iosephus Ma Taishun
+stub: false
 honorific: Venerable
 summary: >-
   Lifelong layman in the apostolic vicariate of Southeastern Zhili, China. Physician. Catechist. During the

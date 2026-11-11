@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Godeschalk of Zeliv
+stub: false
 honorific: Blessed
 summary: >-
   Premonstratensian canon in Steinfield, Germany. He led a group of Premonstratensian brothers who revived an abandoned

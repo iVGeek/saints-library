@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Privatus of Rome
+stub: true
 honorific: Saint
 summary: Martyred in the persecutions of Alexander Severus.
 deathYear: 223

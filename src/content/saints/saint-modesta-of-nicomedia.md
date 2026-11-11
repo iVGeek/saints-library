@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/3/32/Tongeren_Liebfrauenbasilika_Fenster_Andreas_736.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Modesta of Nicomedia
+stub: false
 honorific: Saint
 summary: >-
   Daughter of Saint Patricia of Nicomedia and Saint Macedonius of Nicomedia. The whole family was martyred with several

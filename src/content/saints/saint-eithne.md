@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Eithne
+stub: false
 honorific: Saint
 summary: >-
   Daughter of King Leoghaire of Ireland; sister of Saint Fedelemia. She and her sister met Saint Patrick near the

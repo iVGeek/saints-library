@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Hunger of Utrecht
+stub: false
 honorific: Saint
 summary: >-
   Priest. Bishop of Utrecht, Netherlands in 856. He fled to Roermond, then Deventer in the Netherlands, and finally

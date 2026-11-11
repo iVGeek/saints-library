@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/c/cf/Jolanta.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Helen of Hungary
+stub: false
 honorific: Blessed
 summary: >-
   Dominican nun in Veszprem, Hungary. Novice mistress to Saint Margaret of Hungary. Prioress. Reputed stigmatist. Given

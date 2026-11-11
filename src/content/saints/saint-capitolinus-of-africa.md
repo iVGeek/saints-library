@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Capitolinus of Africa
+stub: true
 honorific: Saint
 summary: Martyr. No other detail have survived.
 died: unknown location in Africa, date unknown

@@ -1,5 +1,6 @@
 ---
 name: Blessed Mary Fontanella
+stub: false
 honorific: Blessed
 summary: >-
   Born to the nobility, one of eleven children Count Fontenella of Santena, Italy. At age twelve she joined the

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Metuana of Rome
+stub: true
 honorific: Saint
 summary: Martyr.
 died: Rome, Italy, date unknown

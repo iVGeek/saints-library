@@ -1,5 +1,6 @@
 ---
 name: Saint Paternus of Sens
+stub: true
 image: https://commons.wikimedia.org/wiki/Special:FilePath/Mairie%252C_Saint-Pern%252C_France.jpg?width=600
 honorific: Saint
 summary: Monk at Cessier, France. Monk at Saint-Pierre-le-Vif near Sens, France. Martyr.

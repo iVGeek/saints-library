@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Macarius of Syria
+stub: true
 honorific: Saint
 summary: Monk. Martyred for trying to spread the faith to pagans.
 died: Syria

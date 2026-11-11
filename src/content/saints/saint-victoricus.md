@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Victoricus
+stub: false
 honorific: Saint
 summary: >-
   Missionary to the Gallic Moroni people. Arrested for their faith by order of Roman Governor Rictiovarus. Tortured in

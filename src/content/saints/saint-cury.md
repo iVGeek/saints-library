@@ -1,5 +1,6 @@
 ---
 name: Saint Cury
+stub: true
 honorific: Saint
 summary: Fourth-century missionary from Brittany to the Cornwall area of England.
 searchAliases:

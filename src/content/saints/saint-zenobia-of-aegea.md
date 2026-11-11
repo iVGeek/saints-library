@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Zenobia of Aegea
+stub: false
 honorific: Saint
 summary: Sister of Saint Zenobius of Aegae. Martyred in the persecutions of emperor Diocletian and governor Lysias.
 died: late 3rd century

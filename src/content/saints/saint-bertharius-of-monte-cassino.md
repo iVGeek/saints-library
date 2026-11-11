@@ -1,5 +1,6 @@
 ---
 name: Saint Bertharius of Monte Cassino
+stub: false
 honorific: Saint
 summary: >-
   Born to the royal house of France. Monk at Monte Cassino Abbey. Abbot there in 856. Murdered by invading Saracens

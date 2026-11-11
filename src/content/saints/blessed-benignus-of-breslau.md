@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Benignus of Breslau
+stub: false
 honorific: Blessed
 summary: >-
   Thirteenth-century Cistercian monk at Breslau, Silesia, Poland. Martyred with many of his brother monks for protecting

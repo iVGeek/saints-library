@@ -1,6 +1,7 @@
 ---
 image: https://www.santiebeati.it/immagini/Thumbs/97437/97437.JPG
 name: Saint Tangwn ab Caradog
+stub: false
 honorific: Saint
 summary: >-
   Sixth-century confessor. Brother of Saint Cadfarch, Saint Cawrdaf, and Saint Maethlu, legend says he was the son of

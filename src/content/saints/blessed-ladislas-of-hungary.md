@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/c/c8/King_St._Ladislaus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Ladislas of Hungary
+stub: false
 honorific: Blessed
 summary: >-
   Franciscan friar. Betrayed by a heretic monk, he and several of his religious brothers were martyred by order of King

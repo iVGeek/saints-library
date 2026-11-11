@@ -1,5 +1,6 @@
 ---
 name: Saint Balin
+stub: false
 honorific: Saint
 summary: >-
   Born to the 7th century English nobility. Brother of Saint Gerald. Worked with Saint Colman of Lindisfarne, and

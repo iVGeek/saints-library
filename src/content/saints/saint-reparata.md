@@ -1,5 +1,6 @@
 ---
 name: Saint Reparata
+stub: false
 honorific: Saint
 summary: >-
   Baptized very young. Arrested and tortured for her faith at age 11 during the persecution of Decius. Thrown into a

@@ -1,5 +1,6 @@
 ---
 name: Saint Deusdedit of Montecassino
+stub: false
 honorific: Saint
 summary: >-
   Benedictine monk in the abbey of Monte Cassino, Italy. Abbot of Monte Cassino in 828. Noted for his generosity and

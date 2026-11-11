@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Odran
+stub: false
 honorific: Saint
 summary: >-
   Saint Patrick's chariot driver. Legend says that one day on the road, he spotted what appeared to be an ambush. He

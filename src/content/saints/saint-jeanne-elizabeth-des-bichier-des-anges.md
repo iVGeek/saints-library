@@ -1,5 +1,6 @@
 ---
 name: Saint Jeanne Elizabeth des Bichier des Anges
+stub: false
 honorific: Venerable
 summary: >-
   Daughter of Antony Bichier, lord of Agnes, and Marie Augier de Moussac. From ages ten through nineteen she was

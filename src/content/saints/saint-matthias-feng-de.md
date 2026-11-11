@@ -1,5 +1,6 @@
 ---
 name: Saint Matthias Feng De
+stub: false
 honorific: Venerable
 summary: >-
   Married layman in the apostolic vicariate of Northern Shanxi, China. Member of the Secular Franciscans. Martyred in

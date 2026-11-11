@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Promo of Ashkelon
+stub: true
 honorific: Saint
 deathYear: 308
 died: beheaded at the gates of Ashkelon c.308

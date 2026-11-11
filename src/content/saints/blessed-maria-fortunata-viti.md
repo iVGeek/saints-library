@@ -1,5 +1,6 @@
 ---
 name: Blessed Maria Fortunata Viti
+stub: false
 honorific: Blessed
 summary: >-
   Daughter of Luigi Viti, a gambler and heavy drinker, and Anna Bono, who died when Anna was fourteen. Raised her eight

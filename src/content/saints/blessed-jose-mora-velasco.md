@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/6/60/Our_Lady_of_Guadalupe_Church%2C_Calle_69_n53_-Av.6%2C_Venustiano_Carranza%2C_Federal_District%2C_Mexico05.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed José Mora Velasco
+stub: false
 honorific: Blessed
 summary: Priest. Postulant in the Hospitallers of Saint John of God. Martyred in the Spanish Civil War.
 birthYear: 1886

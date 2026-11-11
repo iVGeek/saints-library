@@ -1,5 +1,6 @@
 ---
 name: Blessed Catherine de Solaguti
+stub: true
 honorific: Blessed
 summary: Mercedarian nun at the convent of Jesus and Mary in Orozco, Spain.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Catherine-de-Solaguti.jpg

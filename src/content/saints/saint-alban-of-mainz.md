@@ -1,5 +1,6 @@
 ---
 name: Saint Alban of Mainz
+stub: false
 honorific: Saint
 summary: >-
   Priest. Worked with Saint Ursus. The two fled Naxos, Greece to Naples, Italy to escape Arian persecution. Saint

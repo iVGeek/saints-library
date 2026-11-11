@@ -1,5 +1,6 @@
 ---
 name: Saint Eugene of Africa
+stub: true
 honorific: Saint
 summary: Martyred by the Arian Vandal king Hunneric.
 searchAliases:

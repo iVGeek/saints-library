@@ -1,5 +1,6 @@
 ---
 name: Blessed William Richardson
+stub: false
 honorific: Blessed
 summary: >-
   Grew up in the area of Sheffield, Yorkshire, England. Studied at Rheims, France, the English College, Valladolid,

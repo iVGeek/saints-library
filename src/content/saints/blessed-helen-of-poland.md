@@ -1,5 +1,6 @@
 ---
 name: Blessed Helen of Poland
+stub: false
 honorific: Blessed
 summary: >-
   Born a princess, the daughter of King Bela IV of Hungary and Maria Laskaris. Niece of Saint Elizabeth of Hungary,

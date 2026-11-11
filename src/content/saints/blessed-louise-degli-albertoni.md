@@ -1,5 +1,6 @@
 ---
 name: Blessed Louise degli Albertoni
+stub: false
 honorific: Blessed
 summary: >-
   Born to a wealthy and prominent family. Married to James de Citara. Mother of three. Widowed in 1506. Franciscan

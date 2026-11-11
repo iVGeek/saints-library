@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Santiago Calero Redondo
+stub: false
 honorific: Blessed
 summary: >-
   Priest of the diocese of Córdoba, Spain, serving as parish priest in the Villa del Río community. Martyred in the

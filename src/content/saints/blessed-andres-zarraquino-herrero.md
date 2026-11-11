@@ -1,5 +1,6 @@
 ---
 name: Blessed Andrés Zarraquino Herrero
+stub: false
 honorific: Blessed
 summary: >-
   Member of the Brothers of the Christian Schools, joining in Cambrils on 27 July 1924 and taking the habit on 15 August

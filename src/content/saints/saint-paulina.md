@@ -1,5 +1,6 @@
 ---
 name: Saint Paulina
+stub: true
 honorific: Saint
 summary: Roman martyr under Valerian.
 deathYear: 258

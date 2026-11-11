@@ -1,5 +1,6 @@
 ---
 name: Saint William of Vercelli
+stub: false
 honorific: Saint
 summary: >-
   Born to the Italian nobility. Orphaned as an infant, and raised by relatives. Pilgrim to Santiago de Compostela, Spain

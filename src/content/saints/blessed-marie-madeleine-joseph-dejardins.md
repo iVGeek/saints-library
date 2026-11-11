@@ -1,5 +1,6 @@
 ---
 name: Blessed Marie-Madeleine-Joseph Déjardins
+stub: false
 honorific: Blessed
 summary: One of a group of Ursuline nuns martyred  in the persecutions of the French Revolution.
 image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Valenciennes-1.jpg

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Pierius
+stub: false
 honorific: Saint
 summary: >-
   Priest. Wrote a number of treatises on philosophy and theology. Director of the Catechetical School of Alexandria,

@@ -1,5 +1,6 @@
 ---
 name: Saint Columba of Iona
+stub: false
 honorific: Saint
 summary: >-
   Born to the Irish royalty, the son of Fedhlimidh and Eithne of the Ui Neill clan. Bard. Miracle worker. Monk at

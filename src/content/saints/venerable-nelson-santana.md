@@ -1,5 +1,6 @@
 ---
 name: Venerable Nelson Santana
+stub: false
 honorific: Venerable
 summary: >-
   As a nine-year-old terminal cancer patient in the diocese of São Carlos, Brazil, Nelson offered all his sufferings to

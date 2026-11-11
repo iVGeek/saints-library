@@ -1,5 +1,6 @@
 ---
 name: Saint Cannatus of Marseille
+stub: true
 honorific: Saint
 summary: Fifth-century bishop of Marseilles, France.
 region: France

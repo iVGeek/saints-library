@@ -1,5 +1,6 @@
 ---
 name: Venerable Ana de Lobera Torres
+stub: false
 honorific: Venerable
 summary: >-
   Daughter of Diego de Lobera and Francisca Torres; her father died when she was a few months old. Her brother became a

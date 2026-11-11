@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Columbanus of Ghent
+stub: false
 honorific: Saint
 summary: >-
   Abbot of an Irish community. Following a series of Viking raids, he led his community to safer fields in Belgium. On 2

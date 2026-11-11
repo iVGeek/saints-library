@@ -1,5 +1,6 @@
 ---
 name: Blessed Pedro Mesonero Rodríguez
+stub: false
 honorific: Blessed
 summary: >-
   Studied at seminaries in Astudillo and Campello, Spain. Salesian, making his profession on 3 August 1931. Worked in

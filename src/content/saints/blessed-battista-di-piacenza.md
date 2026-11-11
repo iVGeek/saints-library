@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/5/51/Giovanni_Battista_Scalabrini.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Battista di Piacenza
+stub: false
 honorific: Blessed
 summary: >-
   Franciscan tertiary in the diocese of Piacenza-Bobbio, Italy. Little about her life has survived, but she was

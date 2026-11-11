@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/a/a3/Manila_Cathedral_at_dusk_2024-06-02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Melitón Martínez Gomez
+stub: false
 honorific: Blessed
 summary: Ordained a priest in the diocese of Guadix, Spain on 1 June 1901. Martyred in the Spanish Civil War.
 birthYear: 1878

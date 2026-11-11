@@ -1,5 +1,6 @@
 ---
 name: Saint Edward the Martyr
+stub: false
 honorific: Saint
 summary: >-
   Son of King Edgar the Peaceful, and &AElig;thelfl&aelig;d. On Edgar's death in 975, there was a disputed succession

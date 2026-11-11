@@ -1,5 +1,6 @@
 ---
 name: Blessed María Dolores Vidal Cervera
+stub: false
 honorific: Blessed
 summary: >-
   Member of the Carmelite Sisters of Charity. She served as a teacher at several schools run by the Sisters where he

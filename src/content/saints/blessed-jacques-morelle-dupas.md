@@ -1,5 +1,6 @@
 ---
 name: Blessed Jacques-Morelle Dupas
+stub: false
 honorific: Blessed
 summary: >-
   Priest in the diocese of Poitiers, France. Imprisoned on a ship in the harbor of Rochefort, France and left to die

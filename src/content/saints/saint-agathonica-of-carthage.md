@@ -1,5 +1,6 @@
 ---
 name: Saint Agathonica of Carthage
+stub: true
 honorific: Saint
 summary: Nun. Martyr.
 died: in Carthage in North Africa

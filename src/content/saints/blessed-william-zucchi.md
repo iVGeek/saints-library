@@ -1,5 +1,6 @@
 ---
 name: Blessed William Zucchi
+stub: false
 honorific: Blessed
 summary: >-
   As a young man, Guglielmo lived as a hermit. Priest. He was commissioned to oversee the construction of the cathedral

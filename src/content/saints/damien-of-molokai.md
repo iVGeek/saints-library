@@ -1,5 +1,6 @@
 ---
 name: Damien of Molokai
+stub: false
 honorific: Saint
 title: Priest, Religious
 summary: >-

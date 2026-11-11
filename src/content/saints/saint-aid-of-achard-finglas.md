@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Aid of Achard-Finglas
+stub: false
 honorific: Saint
 summary: Abbot at Achard-Finglas, County Carlow, Ireland. Titular saint for a church, a monastery, and several chapels.
 searchAliases:

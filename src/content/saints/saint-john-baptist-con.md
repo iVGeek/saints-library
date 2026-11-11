@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint John Baptist Con
+stub: true
 honorific: Venerable
 summary: Married layman. Martyr.
 searchAliases:

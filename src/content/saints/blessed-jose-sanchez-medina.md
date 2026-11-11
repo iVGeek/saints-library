@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/3/30/Biblioteca_de_Autores_Espa%C3%B1oles_%28Vol._67%29.djvu?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 name: Blessed José Sánchez Medina
+stub: true
 honorific: Blessed
 summary: Priest in the diocese of Cartagena, Spain. Martyred in the Spanish Civil War.
 birthYear: 1900

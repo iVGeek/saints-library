@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Irenion
+stub: true
 honorific: Saint
 summary: Bishop of Gaza in Palestine.
 searchAliases:

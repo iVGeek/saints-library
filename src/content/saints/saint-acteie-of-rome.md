@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Acteie of Rome
+stub: true
 honorific: Saint
 summary: Martyr. No other information has survived.
 died: in Rome, Italy, date unknown

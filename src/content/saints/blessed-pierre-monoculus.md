@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/0/0f/Cour_honneur_abbaye_Igny_06730.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Pierre Monoculus
+stub: false
 honorific: Blessed
 summary: >-
   Born to the Frankish nobility, Pierre was drawn to religious life as a youth, and joined the Cistercians, becoming a

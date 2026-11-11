@@ -1,5 +1,6 @@
 ---
 name: Pope Saint Felix IV
+stub: false
 honorific: Saint
 summary: >-
   Son of Castorius; nothing else is known of his early life. Chosen 54th pope at the insistence of Theodoric, king of

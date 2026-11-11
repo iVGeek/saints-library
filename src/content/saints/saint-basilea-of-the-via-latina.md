@@ -1,5 +1,6 @@
 ---
 name: Saint Basilea of the Via Latina
+stub: true
 honorific: Saint
 summary: Martyred in the persecutions of Valerian and Gallienus.
 searchAliases:

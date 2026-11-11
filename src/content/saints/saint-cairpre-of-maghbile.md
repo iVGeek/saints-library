@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Cairpre of Maghbile
+stub: true
 honorific: Saint
 summary: Early Irish bishop.
 region: Ireland

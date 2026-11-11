@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Bernardino of Rionero Sannitico
+stub: true
 honorific: Blessed
 summary: Franciscan friar.
 deathYear: 1505

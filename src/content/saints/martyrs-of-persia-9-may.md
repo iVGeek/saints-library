@@ -1,5 +1,6 @@
 ---
 name: Martyrs of Persia
+stub: false
 honorific: Saint
 summary: 310 Christians murdered together for their faith in Persia. No details about them have survived.
 region: Italy

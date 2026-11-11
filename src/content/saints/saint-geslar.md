@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Geslar
+stub: true
 honorific: Saint
 summary: Seventh century confessor of the faith. No details about him have survived.
 region: England

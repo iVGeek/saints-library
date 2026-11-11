@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/5/5c/Jos%C3%A9_Gregorio_Hern%C3%A1ndez.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Julián Benigno Moreno y Moreno
+stub: true
 honorific: Blessed
 summary: Augustinian Recollect priest. Martyred in the Spanish Civil War.
 searchAliases:

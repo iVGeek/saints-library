@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Julián Delgado Díez
+stub: false
 honorific: Blessed
 summary: Member of the Brothers of the Christian Schools. Martyred in the Spanish Civil War.
 searchAliases:

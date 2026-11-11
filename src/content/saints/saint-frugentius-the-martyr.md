@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Frugentius the Martyr
+stub: true
 honorific: Saint
 summary: Benedictine monk at Fleury, France. Martyr.
 deathYear: 676

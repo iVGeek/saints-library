@@ -1,5 +1,6 @@
 ---
 name: Saint Fortunata of Caesarea
+stub: false
 honorific: Saint
 summary: >-
   Sister of Saint Carponius of Caesarea, Saint Priscianus of Caesarea and Saint Evaristus of Caesarea. Martyred in the

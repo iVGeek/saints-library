@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Leontius of Fréjus
+stub: false
 honorific: Saint
 title: Bishop
 summary: >-

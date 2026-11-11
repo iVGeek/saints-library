@@ -1,5 +1,6 @@
 ---
 name: Blessed Vicente Robles Gómez
+stub: true
 honorific: Blessed
 summary: Claretian cleric. Martyred in the Spanish Civil War.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Vicente-Robles-Gomez.jpg

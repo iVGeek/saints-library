@@ -1,5 +1,6 @@
 ---
 name: Blessed Alfons Tracki
+stub: false
 honorific: Blessed
 summary: >-
   Born to a family with deep roots in the military. Studied in Bosnia. Priest of the archdiocese of Shkodrë-Pult,

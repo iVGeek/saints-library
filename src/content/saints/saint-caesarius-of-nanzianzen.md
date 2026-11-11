@@ -1,5 +1,6 @@
 ---
 name: Saint Caesarius of Nanzianzen
+stub: false
 honorific: Saint
 summary: >-
   Son of Saint Gregory of Nazianzen the Elder and Saint Nonna. Brother of Saint Gorgonia and Saint Gregory of Nazianzen.

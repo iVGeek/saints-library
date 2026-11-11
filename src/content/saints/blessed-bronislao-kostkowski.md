@@ -1,5 +1,6 @@
 ---
 name: Blessed Bronislao Kostkowski
+stub: false
 honorific: Blessed
 summary: >-
   Seminarian in the diocese of Wlaoclawek, Poland. Arrested by Nazi officials in 1939 along with his seminary teachers,

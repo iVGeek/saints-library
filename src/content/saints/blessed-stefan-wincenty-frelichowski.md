@@ -1,5 +1,6 @@
 ---
 name: Blessed Stefan Wincenty Frelichowski
+stub: false
 honorific: Blessed
 summary: >-
   After studying at the diocesan seminary in Pelpin, Poland Stefan was ordained on 13 March 1937. Known for his devotion

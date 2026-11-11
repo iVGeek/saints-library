@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/9/91/Nuremberg_chronicles_f_145v_4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed John Kearney
+stub: false
 honorific: Blessed
 summary: >-
   Son of John Kearney and Elizabeth Creagh. Franciscan Friars Minor (Observants), entering the novitiate at Kilkenny,

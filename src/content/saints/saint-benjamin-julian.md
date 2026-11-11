@@ -1,5 +1,6 @@
 ---
 name: Saint Benjamín Julián
+stub: false
 honorific: Venerable
 summary: >-
   Member of the Brothers of the Christian Schools, entering the novitate on 29 August 1924. One of the Martyrs of

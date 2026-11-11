@@ -1,5 +1,6 @@
 ---
 name: Venerable Suzanne Aubert
+stub: false
 honorific: Venerable
 summary: >-
   Worked as a nurse on the battlefields of the Crimean War in the 1850s. Suzanne was drawn to religious life, but her

@@ -1,5 +1,6 @@
 ---
 name: Saint Bassianus of Alexandria
+stub: true
 honorific: Saint
 summary: Lector. Martyr.
 searchAliases:

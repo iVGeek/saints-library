@@ -1,5 +1,6 @@
 ---
 name: Saint Gerlac of Valkenburg
+stub: false
 honorific: Saint
 summary: >-
   Born the nobility, he served as a soldier in the imperial German army. Led a wild and licentious life, part as a

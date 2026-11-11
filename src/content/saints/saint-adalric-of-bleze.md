@@ -1,5 +1,6 @@
 ---
 name: Saint Adalric of Bèze
+stub: false
 honorific: Saint
 summary: Young boy. Martyred at the monastery of Bèze, Côte-d'Or, France by Norman invaders.
 deathYear: 888

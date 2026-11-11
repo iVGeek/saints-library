@@ -1,5 +1,6 @@
 ---
 name: Saint Afan of Wales
+stub: false
 honorific: Saint
 summary: >-
   Bishop. Nothing else is known about him for certain; various writers have made him a descendant of the 3rd century

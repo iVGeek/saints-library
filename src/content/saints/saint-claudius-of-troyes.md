@@ -1,5 +1,6 @@
 ---
 name: Saint Claudius of Troyes
+stub: false
 honorific: Saint
 summary: >-
   Roman officer in the army of Aurelius. Received Saint Julia of Troyes as a slave and a spoil of war. She pleaded with

@@ -1,5 +1,6 @@
 ---
 name: Venerable Élisabeth Bruyère
+stub: false
 honorific: Venerable
 summary: >-
   Daughter of Jean Baptiste Charles Bruguier and Sophie Mercier. Joined the Sisters of Charity of the Hôpital Général of

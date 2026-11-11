@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/7/70/Madonna_Advocata.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Paul Mary
+stub: false
 honorific: Blessed
 summary: >-
   Dominican lay brother in Seville, Spain. Miracle worker and healer. When he was in charge of giving bread to the poor,

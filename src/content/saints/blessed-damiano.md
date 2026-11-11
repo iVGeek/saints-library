@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/8/89/SanDamianoAssisiDec132023_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Damiano
+stub: false
 honorific: Blessed
 summary: >-
   Nephew and spiritual student of Saint Pier Damiano. Camaldolese hermit in Fonte Avellana, Italy. Studied in Paris,

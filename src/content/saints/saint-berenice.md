@@ -1,5 +1,6 @@
 ---
 name: Saint Berenice
+stub: false
 honorific: Saint
 summary: Daughter of Saint Domnina; sister of Saint Prosdoce. Martyred in the persecutions of Diocletian.
 deathYear: 303

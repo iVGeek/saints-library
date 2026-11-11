@@ -1,5 +1,6 @@
 ---
 name: Saint Anselmo of Bomarzo
+stub: false
 honorific: Saint
 summary: >-
   Born to a wealthy, pious family who encouraged Anselmo from an early age to study the Bible. When the last of his

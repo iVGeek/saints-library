@@ -1,5 +1,6 @@
 ---
 name: Saint Poppo
+stub: false
 honorific: Saint
 summary: >-
   Born to the Belgian nobility, the son of Tizekinus and Adalwif, Poppo was two months premature and required much care

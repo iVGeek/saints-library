@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Honobertus of Sens
+stub: true
 honorific: Saint
 summary: Son of Saint Honulphus of Sens. 37th bishop of Sens, France c.738.
 searchAliases:

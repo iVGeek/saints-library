@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Venerable Edmund Brindholm
+stub: false
 honorific: Venerable
 summary: Parish priest at Our Lady’s Church in Calais, France, an area under English control at the time. Martyr.
 searchAliases:

@@ -1,5 +1,6 @@
 ---
 name: Blessed Gérard Cagnoli
+stub: false
 honorific: Blessed
 summary: >-
   Born to the Italian nobility. Cared for his mother until her death, then became a hermit for several years on Mount

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/0/0a/St-thomas-aquinasFXD.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Thomas Green
+stub: false
 honorific: Blessed
 summary: >-
   Carthusian choir monk of the Charterhouse in London, England. Martyred for refusing to accept King Henry VIII as head

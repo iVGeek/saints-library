@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Félix-Célestin Gombert Olympe
+stub: false
 honorific: Blessed
 summary: Monk. Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War.
 searchAliases:

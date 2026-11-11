@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/b/ba/Vicenza_-_James_Duffield_Harding.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Fortis Gabrielli
+stub: false
 honorific: Blessed
 summary: >-
   Hermit in the mountains near Scheggia, Italy. Spiritual student of Blessed Ludolph. Benedictine monk-hermit at the

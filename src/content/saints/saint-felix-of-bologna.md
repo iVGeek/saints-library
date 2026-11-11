@@ -1,5 +1,6 @@
 ---
 name: Saint Felix of Bologna
+stub: false
 honorific: Saint
 summary: Spiritual student of and deacon for Saint Ambrose of Milan. Bishop of Bologna, Italy c.397.
 searchAliases:

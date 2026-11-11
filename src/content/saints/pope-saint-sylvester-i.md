@@ -1,5 +1,6 @@
 ---
 name: Pope Saint Sylvester I
+stub: false
 honorific: Saint
 summary: >-
   Son of Rufinus. Pope in the reign of Emperor Constantine I. Built the Basilica of Saint John Lateran and other

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Prochorus the Deacon
+stub: false
 honorific: Saint
 summary: One of the first seven deacons ordained by the Apostles. Bishop of Nicomedia. Miracle worker. Martyr.
 searchAliases:

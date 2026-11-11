@@ -1,5 +1,6 @@
 ---
 name: Blessed Andrés de Peschiera Grego
+stub: false
 honorific: Blessed
 summary: >-
   Raised in a pious family, Andrés grew up on the shore of Lake Garda in Italy. He early felt a desire to become a

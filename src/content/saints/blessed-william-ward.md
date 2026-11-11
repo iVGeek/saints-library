@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/f/f8/Edmundus_Campion.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed William Ward
+stub: false
 honorific: Blessed
 summary: >-
   Raised Protestant. Teacher. Travelled to Spain with a Catholic friend, and there joined the Church. Back home, he

@@ -1,5 +1,6 @@
 ---
 name: Nahum the Prophet
+stub: false
 honorific: Saint
 summary: Old Testament minor prophet. His short prophecy is directed against Niniveh, whose destruction he warned of and saw.
 image: https://catholicsaints.info/wp-content/uploads/img-Nahum-the-Prophet.jpg

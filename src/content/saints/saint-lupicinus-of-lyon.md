@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/0/00/007._Photo_prise_depuis_les_toits_de_la_Basilique_Notre-Dame_de_Fourvi%C3%A8re.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Lupicinus of Lyon
+stub: true
 honorific: Saint
 summary: Bishop of Lyon, France in 486.
 searchAliases:

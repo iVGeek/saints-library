@@ -1,5 +1,6 @@
 ---
 name: Saint Irmgard of Süchteln
+stub: false
 honorific: Saint
 summary: >-
   Eleventh century Countess of Süchteln in the area of Cologne, Germany, the daughter of the Earl of Aspel. Known for

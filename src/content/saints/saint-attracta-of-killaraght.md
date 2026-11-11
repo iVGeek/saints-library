@@ -1,5 +1,6 @@
 ---
 name: Saint Attracta of Killaraght
+stub: false
 honorific: Saint
 summary: >-
   Daughter of an Irish noble. Drawn from an early age to a religious vocation, which was opposed by her family. Made her

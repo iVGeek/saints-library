@@ -1,5 +1,6 @@
 ---
 name: Blessed Karolina Gerhardinger
+stub: false
 honorific: Blessed
 summary: >-
   Born to a working class family. Educated by the Augustinian canonesses until 1809 when religious orders were closed by

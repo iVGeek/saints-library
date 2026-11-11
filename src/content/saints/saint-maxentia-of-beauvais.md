@@ -1,5 +1,6 @@
 ---
 name: Saint Maxentia of Beauvais
+stub: true
 honorific: Saint
 summary: Anchoress near Senlis, France. Martyr.
 born: Ireland

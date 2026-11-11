@@ -1,5 +1,6 @@
 ---
 name: Venerable Gaetano Francesco Mauro
+stub: false
 honorific: Venerable
 summary: >-
   Ordained a priest in the diocese of Cosenza, Italy on 14 July 1912. He served as a parish priest in Montalto Uffugo

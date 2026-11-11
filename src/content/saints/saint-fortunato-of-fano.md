@@ -1,5 +1,6 @@
 ---
 name: Saint Fortunato of Fano
+stub: true
 honorific: Saint
 title: Bishop
 summary: Sixth century bishop of Fano, Italy.

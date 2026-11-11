@@ -1,5 +1,6 @@
 ---
 name: Saint Mathurin of Larchant
+stub: false
 honorific: Saint
 summary: >-
   Raised a pagan; his father was even commissioned to persecute Christians by emperor Maximian. Mathurin converted at

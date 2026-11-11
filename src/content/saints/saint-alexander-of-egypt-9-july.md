@@ -1,5 +1,6 @@
 ---
 name: Saint Alexander of Egypt
+stub: false
 honorific: Saint
 summary: >-
   Soldier in the army of emperor Julian the Apostate. When he witnessed the faith and strength of Saint Patermutius and

@@ -1,5 +1,6 @@
 ---
 name: Saint Michael Kozaki
+stub: false
 honorific: Saint
 summary: >-
   Married lay man. Father of Saint Thomas Kozaki. Bow maker and carpenter. Already a Christian with the Franciscans

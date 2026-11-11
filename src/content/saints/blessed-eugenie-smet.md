@@ -1,5 +1,6 @@
 ---
 name: Blessed Eugenie Smet
+stub: false
 honorific: Blessed
 summary: >-
   Friend of Saint John Vianney, Eugenie felt a call to acts of charity done for souls in purgatory. She founded the

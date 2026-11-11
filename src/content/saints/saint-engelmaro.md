@@ -1,6 +1,7 @@
 ---
 image: https://www.santiebeati.it/immagini/Thumbs/92120/92120.JPG
 name: Saint Engelmaro
+stub: false
 honorific: Saint
 summary: >-
   Born to a poor peasant family. Hermit in the forest near Passau, Germany. As his reputation for piety and wisdom

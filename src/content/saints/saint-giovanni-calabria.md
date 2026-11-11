@@ -1,5 +1,6 @@
 ---
 name: Saint Giovanni Calabria
+stub: false
 honorific: Venerable
 summary: >-
   Youngest of seven boys born to Luigi Foschi and Angela Calabria. His was a poor family, and his father died when

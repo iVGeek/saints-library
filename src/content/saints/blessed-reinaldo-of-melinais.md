@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Reinaldo of Melinais
+stub: false
 honorific: Blessed
 title: Hermit
 summary: >-

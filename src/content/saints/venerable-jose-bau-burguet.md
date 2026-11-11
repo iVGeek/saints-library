@@ -1,5 +1,6 @@
 ---
 name: Venerable José Bau Burguet
+stub: false
 honorific: Venerable
 summary: >-
   After studying at the Colegio Mayor-Seminary of the Presentation of the Blessed Virgin Mary in the Temple and Saint

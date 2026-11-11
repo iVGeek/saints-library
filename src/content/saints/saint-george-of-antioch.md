@@ -1,5 +1,6 @@
 ---
 name: Saint George of Antioch
+stub: false
 honorific: Saint
 summary: >-
   Monk. Bishop of Antioch, Pisidia. Attended the Second Council of Nicea in 787. Opposed the iconoclasts, for which he

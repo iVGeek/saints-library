@@ -1,5 +1,6 @@
 ---
 name: Saint Serenus of Marseille
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Marseille, France c.595. Correspondent with Saint Gregory the Great; four of their letters have survived and

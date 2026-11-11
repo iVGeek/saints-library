@@ -1,5 +1,6 @@
 ---
 name: Saint Rainerio of Split
+stub: false
 honorific: Saint
 summary: >-
   Camaldolese monk. Bishop of Cagli, Italy in 1154. Martyred for defending the rights of the Church against civil

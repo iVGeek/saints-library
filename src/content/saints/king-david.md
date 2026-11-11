@@ -1,5 +1,6 @@
 ---
 name: King David
+stub: false
 honorific: Saint
 summary: >-
   Son of Jesse, and a shepherd in his youth. Anointed by the prophet Samuel. During war with the Philistines, David,

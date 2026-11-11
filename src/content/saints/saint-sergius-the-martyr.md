@@ -1,5 +1,6 @@
 ---
 name: Saint Sergius the Martyr
+stub: false
 honorific: Saint
 summary: >-
   An officer (primicerius) in the army of Emperor Maximian. Held in high esteem by the emperor until he admitted being a

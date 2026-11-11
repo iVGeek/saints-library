@@ -1,5 +1,6 @@
 ---
 name: Saint Engelbert of Cologne
+stub: false
 honorific: Saint
 summary: >-
   Son of the influential Count Englebert of Berg and Margaret, daughter of the Count of Gelderland. Studied at the

@@ -1,5 +1,6 @@
 ---
 name: Saint Luciano of Cagliari
+stub: false
 honorific: Saint
 summary: Convert, baptized by Saint Peter the Apostle. Spiritual student of Saint Paul the Apostle. Martyr.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Luciano-of-Cagliari.jpg

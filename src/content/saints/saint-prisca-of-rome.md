@@ -1,5 +1,6 @@
 ---
 name: Saint Prisca of Rome
+stub: false
 honorific: Saint
 summary: Born to the imperial Roman nobility. Supported the Church in Rome, Italy. Martyr.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Prisca-of-Rome.jpg

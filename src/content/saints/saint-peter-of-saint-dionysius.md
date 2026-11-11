@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Peter of Saint Dionysius
+stub: false
 honorific: Saint
 summary: >-
   Mercedarian priest. In 1247, he and Blessed Bernard de Prades were sent to Tunis, Tunisia to ransom Christians held in

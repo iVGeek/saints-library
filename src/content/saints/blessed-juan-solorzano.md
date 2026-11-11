@@ -1,5 +1,6 @@
 ---
 name: Blessed Juan Solorzano
+stub: false
 honorific: Blessed
 summary: >-
   Mercedarian friar in Fuentes, Spain. Missionary, sailing to Cuba with Christopher Columbus. There he converted many

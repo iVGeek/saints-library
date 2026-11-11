@@ -1,5 +1,6 @@
 ---
 name: Blessed Recaredo Centelles Abad
+stub: false
 honorific: Blessed
 summary: >-
   Studied at seminaries in Tortosa and Tarragona in Spain. Priest, ordained on 25 May 1929. Member of the Diocesan

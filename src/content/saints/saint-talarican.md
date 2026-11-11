@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Talarican of Sodor
+stub: false
 honorific: Saint
 summary: >-
   Sixth-century Pictish bishop of Sodor, Scotland where several churches were dedicated to him. Zealous evangelist and

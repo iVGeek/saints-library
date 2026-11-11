@@ -1,5 +1,6 @@
 ---
 name: Venerable Luisa Guidotti Mistrali
+stub: false
 honorific: Venerable
 summary: >-
   Born to the Italian nobility, the eldest of three children born to Camillo Guidotti and Anna Mistrali; her mother died

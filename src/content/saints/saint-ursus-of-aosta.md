@@ -1,5 +1,6 @@
 ---
 name: Saint Ursus of Aosta
+stub: false
 honorific: Saint
 summary: >-
   Evangelized the area of Digne, France. Fought Arianism. Archdeacon under Bishop Jucundus of Aosta, Italy. When the

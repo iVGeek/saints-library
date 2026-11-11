@@ -1,5 +1,6 @@
 ---
 name: Saint Xenophon of Constantinople
+stub: false
 honorific: Saint
 summary: >-
   Married to Saint Mary of Constantinople, father of Saint John and Saint Arcadius. A wealthy man of Senatorial rank in

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed N. Shichizaemon
+stub: false
 honorific: Blessed
 summary: >-
   Layman in the diocese of Niigata, Japan. Married to Blessed Magdalena of Hokusanbara. The couple and their two young

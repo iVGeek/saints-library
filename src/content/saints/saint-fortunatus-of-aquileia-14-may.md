@@ -1,5 +1,6 @@
 ---
 name: Saint Fortunatus of Aquileia
+stub: false
 honorific: Saint
 summary: Brother of Saint Felice of Aquileia. Martyred in the persecutions of Diocletian.
 searchAliases:

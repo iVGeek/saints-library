@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Felix of Monte Cassino
+stub: false
 honorific: Blessed
 summary: Benedictine monk at Monte Cassino who worked as spiritual teacher and director to area shepherds.
 searchAliases:

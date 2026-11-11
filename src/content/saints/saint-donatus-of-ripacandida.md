@@ -1,5 +1,6 @@
 ---
 name: Saint Donatus of Ripacandida
+stub: false
 honorific: Saint
 summary: >-
   Born to a poor family; named for Saint Donatus d'Arezzo. Benedictine monk at the monastery of Sant'Onofrio

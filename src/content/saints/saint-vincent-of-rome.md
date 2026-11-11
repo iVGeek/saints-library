@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Vincent of Rome
+stub: true
 honorific: Saint
 summary: Martyr.
 died: outside the walls of Rome, Italy

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Joseph of Rome
+stub: true
 honorific: Saint
 summary: Martyr.
 died: Antioch, Syria

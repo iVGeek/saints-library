@@ -1,5 +1,6 @@
 ---
 name: Saint Claudian of Perga
+stub: true
 honorific: Saint
 summary: Shepherd. Martyred in the persecutions of Decius.
 deathYear: 250

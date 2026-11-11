@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/5/53/1899._Tzarevich_Dmitry_by_M._Nesterov.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Mun
+stub: false
 honorific: Saint
 summary: >-
   Fifth century bishop, ordained by his uncle Saint Patrick. Late in life he became a hermit on the island of Lough Ree,

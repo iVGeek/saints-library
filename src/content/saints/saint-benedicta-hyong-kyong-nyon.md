@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Benedicta Hyong Kyong-Nyon
+stub: false
 honorific: Venerable
 summary: Married lay woman in the apostolic vicariate of Korea. Catechist. Widow. Martyr.
 searchAliases:

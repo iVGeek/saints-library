@@ -1,5 +1,6 @@
 ---
 name: Saint Ignatius of Laconi
+stub: false
 honorific: Venerable
 summary: >-
   Son of a poor farmer with seven children, Ignatius grew up in hard rural poverty, working the fields. At age 17, he

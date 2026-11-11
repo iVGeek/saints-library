@@ -1,5 +1,6 @@
 ---
 name: Saint Antoninus of Sorrento
+stub: false
 honorific: Saint
 summary: >-
   Benedictine monk. Forced by war to leave his monastery, he was first a hermit, then abbot at Saint Agrippinus and

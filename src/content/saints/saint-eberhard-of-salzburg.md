@@ -1,5 +1,6 @@
 ---
 name: Saint Eberhard of Salzburg
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility. Studied at the Benedictine school at Bamberg, Bavaria. Priest. Canon of the Cathedral of

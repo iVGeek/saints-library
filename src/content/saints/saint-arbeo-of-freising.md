@@ -1,5 +1,6 @@
 ---
 name: Saint Arbeo of Freising
+stub: false
 honorific: Saint
 summary: >-
   Student under Saint Corbinian. Benedictine monk. First abbot at the Scharnitz Monastery at Garmisch-Partenkirchen,

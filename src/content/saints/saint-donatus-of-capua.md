@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Donatus of Capua
+stub: true
 honorific: Saint
 summary: Martyr; no other information has survived. Long venerated in Capua, Italy.
 region: Italy

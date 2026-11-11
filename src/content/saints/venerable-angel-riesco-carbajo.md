@@ -1,5 +1,6 @@
 ---
 name: Venerable Ángel Riesco Carbajo
+stub: false
 honorific: Venerable
 summary: >-
   The oldest of three children, his family moved to Argentina when Ángel was eight years old, but returned to Spain four

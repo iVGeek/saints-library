@@ -1,5 +1,6 @@
 ---
 name: Venerable Félix Francisco José María de la Concepción Varela Morales
+stub: false
 honorific: Venerable
 summary: >-
   An asthmatic, Felix suffered from ill health as a boy, his mother died young, and he grew up in Saint Augustine,

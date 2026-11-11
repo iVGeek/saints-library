@@ -1,6 +1,7 @@
 ---
 image: https://www.catholic.org/files/images/saints/3140.jpg
 name: Saint Eochod of Galloway
+stub: false
 honorific: Saint
 summary: Spiritual student of Saint Columba, and of the twelve chosen by him to evangelize northern Britain.
 searchAliases:

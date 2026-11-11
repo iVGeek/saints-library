@@ -1,5 +1,6 @@
 ---
 name: Saint Veep
+stub: false
 honorific: Saint
 summary: >-
   Born a princess, the daughter of the chieftain Caw; sister of Saint Samson of York, and related to Saint Gwenyth of

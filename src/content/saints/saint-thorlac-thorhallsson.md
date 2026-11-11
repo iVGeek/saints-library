@@ -1,5 +1,6 @@
 ---
 name: Saint Thorlac Thorhallsson
+stub: false
 honorific: Saint
 summary: >-
   Born to the Icelandic nobility. Deacon by age 15, priest by 18. Studied in Paris, France and Lincoln, England, and

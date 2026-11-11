@@ -1,5 +1,6 @@
 ---
 name: Saint Galla of Auvergne
+stub: true
 honorific: Saint
 summary: Martyr. No other information has survived.
 died: somewhere in the area of modern France, date unknown

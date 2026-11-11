@@ -1,5 +1,6 @@
 ---
 name: Blessed Fulton John Sheen
+stub: false
 honorific: Blessed
 summary: >-
   Oldest of four sons born to Newton and Delia Sheen. Suffered from tuberculosis as an infant. Ordained on 20 September

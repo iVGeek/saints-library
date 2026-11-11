@@ -1,5 +1,6 @@
 ---
 name: Blessed Jan Franciszek Macha
+stub: false
 honorific: Blessed
 summary: >-
   One of four children born to Pawel Macha and Anna Cofalka. Jan felt a call to a priestly vocation, but was turned down

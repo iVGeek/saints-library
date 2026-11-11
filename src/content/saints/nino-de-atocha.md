@@ -1,5 +1,6 @@
 ---
 name: Niño de Atocha
+stub: false
 honorific: Saint
 summary: >-
   During the 13th century Moorish invasions of Spain, the town of Atocha was lost in a battle during which many

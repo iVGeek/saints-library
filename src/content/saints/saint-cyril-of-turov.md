@@ -1,5 +1,6 @@
 ---
 name: Saint Cyril of Turov
+stub: false
 honorific: Saint
 summary: >-
   Born wealthy. Fluent in Greek and Russian, he read heavily in all sacred works, and was later known as a Bible

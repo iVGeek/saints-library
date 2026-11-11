@@ -1,5 +1,6 @@
 ---
 name: Saint Vedastus of Vercelli
+stub: false
 honorific: Saint
 title: Bishop
 summary: >-

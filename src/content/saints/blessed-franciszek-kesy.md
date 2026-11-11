@@ -1,5 +1,6 @@
 ---
 name: Blessed Franciszek Kesy
+stub: false
 honorific: Blessed
 summary: >-
   Young layman in the archdiocese of Poznan, Poland, the son of a carpenter who moved to Poznan for work. Franciszek

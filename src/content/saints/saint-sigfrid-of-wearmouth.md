@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Sigfrid of Wearmouth
+stub: false
 honorific: Saint
 summary: >-
   Benedictine monk. Spiritual student of Saint Benedict Biscop, and brother monk to Saint Esterwine of Wearmouth and

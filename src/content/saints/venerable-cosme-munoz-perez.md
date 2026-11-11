@@ -1,5 +1,6 @@
 ---
 name: Venerable Cosme Muñoz Pérez
+stub: false
 honorific: Venerable
 summary: >-
   Baptized on 19 April 1573 in the parish of Santa María del Vado in Villar del Rio, Spain. As a young man, he felt a

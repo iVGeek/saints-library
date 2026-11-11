@@ -1,5 +1,6 @@
 ---
 name: Saint Felix of Nicomedia
+stub: true
 honorific: Saint
 summary: Martyr. No other information has survived.
 died: Nicomedia, Asia Minor

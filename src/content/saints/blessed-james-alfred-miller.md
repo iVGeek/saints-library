@@ -1,5 +1,6 @@
 ---
 name: Blessed James Alfred Miller
+stub: false
 honorific: Blessed
 summary: >-
   Member of the Brothers of the Christian Schools (De La Salle Brothers). He taught Spanish, English and religion, and

@@ -1,5 +1,6 @@
 ---
 name: Saint Erasmus of Antioch
+stub: false
 honorific: Saint
 summary: >-
   Priest. Bishop in Syria. During a period of persecution of Christians, he fled to Mount Linanus and lived as a hermit

@@ -1,5 +1,6 @@
 ---
 name: Saint Giovanni Antonio Farina
+stub: false
 honorific: Venerable
 summary: >-
   Son of Pedro and Francisca Bellame. Studied at the seminary in Vicenza, Italy, and taught there while still a student.

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/9/91/Nuremberg_chronicles_f_145v_4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed John Carey
+stub: false
 honorific: Blessed
 summary: >-
   Layman. Servant of Blessed Thomas Bosgrave. Arrested during the persecutions of Queen Elizabeth I for the treason of

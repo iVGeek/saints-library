@@ -1,5 +1,6 @@
 ---
 name: Blessed Christopher of Romagna
+stub: false
 honorific: Blessed
 summary: >-
   Priest. About age 40 he left his parish ministry to become one of the early Franciscan Friars Minor, working with

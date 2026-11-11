@@ -1,5 +1,6 @@
 ---
 name: Saint Gaius of Messina
+stub: true
 honorific: Saint
 summary: Martyred in the persecutions of Diocletian. No other information has survived.
 deathYear: 302

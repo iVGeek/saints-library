@@ -1,5 +1,6 @@
 ---
 name: Saint Gosbert of Osnabruck
+stub: false
 honorific: Saint
 summary: >-
   Spiritual student of Saint Anskar. Worked as a missionary with Saint Nithard. Bishop of Osnabruck, Germany from where

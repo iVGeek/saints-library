@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Cuán of Airbhre
+stub: false
 honorific: Saint
 summary: >-
   Tutor and spiritual teacher of of prince Ceallachán of Fothairt, Ireland. Cuán is mentioned in several early

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/7/70/Saint_Denise_Callot.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Leontia the Martyr
+stub: true
 honorific: Saint
 summary: Martyred in the persecutions of the Arian Vandal king Huneric.
 deathYear: 484

@@ -1,6 +1,7 @@
 ---
 image: https://www.catholic.org/files/images/saints/3522.jpg
 name: Saint Gaudiosus of Naples
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Abitinae in North Africa. Exiled by the Arian Vandal king Genseric in 440, he fled to Naples, Italy, where

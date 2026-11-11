@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/0/0a/PmAlba01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Castino
+stub: false
 honorific: Blessed
 summary: >-
   Franciscan friar and missionary. In the latter 13th century, he and Blessed Cesorio da Spira were sent by Saint

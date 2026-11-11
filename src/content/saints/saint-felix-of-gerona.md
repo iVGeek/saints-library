@@ -1,5 +1,6 @@
 ---
 name: Saint Felix of Gerona
+stub: true
 honorific: Saint
 summary: Deacon. Martyr.
 deathYear: 307

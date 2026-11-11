@@ -1,5 +1,6 @@
 ---
 name: Blessed Olga Pérez-Monteserín Núñez
+stub: false
 honorific: Blessed
 summary: Lay woman in the diocese of Astorga, Spain. Red Cross nurse. Raped and murdered in the Spanish Civil War. Martyr.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Olga-Perez-Monteserin-Nunez.jpg

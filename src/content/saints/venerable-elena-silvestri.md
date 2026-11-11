@@ -1,5 +1,6 @@
 ---
 name: Venerable Elena Silvestri
+stub: true
 honorific: Venerable
 summary: Foundress of the Congregation of the Handmaids of the Child Jesus.
 image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Elena-Silvestri.jpg

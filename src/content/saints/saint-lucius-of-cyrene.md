@@ -1,5 +1,6 @@
 ---
 name: Saint Lucius of Cyrene
+stub: false
 honorific: Saint
 summary: First bishop of Cyrene, Libya. He is mentioned by Saint Luke the Apostle in the Acts of the Apostles.
 searchAliases:

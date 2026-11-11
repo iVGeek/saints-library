@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/7/7f/M%C3%A4rtyrer_von_Nagasaki_1628.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Vincent de Cunha
+stub: false
 honorific: Blessed
 summary: >-
   Jesuit. Missionary to the kingdom of Tonkin (modern Vietnam). Arrested in March 1736. Tortured and martyred for his

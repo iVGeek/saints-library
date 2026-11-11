@@ -1,5 +1,6 @@
 ---
 name: Saint Tammarus of Campania
+stub: false
 honorific: Saint
 title: Priest
 summary: >-

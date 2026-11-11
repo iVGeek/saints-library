@@ -1,5 +1,6 @@
 ---
 name: Blessed Agnes of Chatillon
+stub: false
 honorific: Blessed
 summary: >-
   Cistercian nun at the monastery of Beaupré, Belgium c.1200 where she served as sub-prioress and novice mistress. A

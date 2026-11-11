@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Peter of Argos
+stub: false
 honorific: Saint
 title: Bishop
 summary: Bishop in Argos, Greece; known for his ministery to the poor and slaves, and as a peacemaker.

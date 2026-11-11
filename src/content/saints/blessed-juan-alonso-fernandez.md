@@ -1,5 +1,6 @@
 ---
 name: Blessed Juan Alonso Fernández
+stub: false
 honorific: Blessed
 summary: >-
   Juan joined the Missionaries of the Sacred Heart in 1953, making his perpetual vows on 8 September 1958. Ordained a

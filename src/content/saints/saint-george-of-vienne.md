@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint George of Vienne
+stub: true
 honorific: Saint
 summary: 35th bishop of Vienne, France, serving in the mid 7th century.
 region: France

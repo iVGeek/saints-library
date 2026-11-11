@@ -1,5 +1,6 @@
 ---
 name: Blessed John of Parma
+stub: false
 honorific: Blessed
 summary: >-
   Franciscan. Priest. Taught theology at Bologna and Naples. Seventh minister general of the Franciscans from 1247-1257.

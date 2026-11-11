@@ -1,5 +1,6 @@
 ---
 name: Saint John of Capistrano
+stub: false
 honorific: Saint
 summary: >-
   Son of a German knight, his father died when John was still young. The young man studied law at the University of

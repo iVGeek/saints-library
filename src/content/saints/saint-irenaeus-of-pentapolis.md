@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Irenaeus of Pentapolis
+stub: false
 honorific: Saint
 summary: >-
   Deacon at Pentapolis, Lybia. Tortured and had his tongue cut out and were left for dead, but they all survived and

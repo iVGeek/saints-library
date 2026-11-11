@@ -1,5 +1,6 @@
 ---
 name: Saint Lupo of Novi
+stub: true
 honorific: Saint
 summary: Martyr.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Lupo-of-Novi.jpg

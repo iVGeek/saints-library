@@ -1,5 +1,6 @@
 ---
 name: Blessed Bienvenido Villalón Acebrón
+stub: false
 honorific: Blessed
 summary: >-
   Member of the Brothers of the Christian Schools (De La Salle Brothers). Director of Saint Joseph College. Martyred in

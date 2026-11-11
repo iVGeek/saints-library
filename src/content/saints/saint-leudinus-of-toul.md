@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/f/fe/Trois-%C3%89v%C3%AAch%C3%A9s.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Leudinus of Toul
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility, the son of Duke Gundoin of Alsace and Saratrude of the Etichonids; brother of Saint Salaberga.

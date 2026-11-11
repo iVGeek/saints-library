@@ -1,5 +1,6 @@
 ---
 name: Saint Anastasius of Terni
+stub: false
 honorific: Saint
 summary: >-
   Hermit near Perugia, Italy. Bishop of Terni, Italy. Helped keep his flock from following the Arian heresy. Following

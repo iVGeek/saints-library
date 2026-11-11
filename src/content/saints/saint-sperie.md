@@ -1,5 +1,6 @@
 ---
 name: Saint Spérie
+stub: false
 honorific: Saint
 summary: >-
   Born to a wealthy, landed family, the daughter of duke Serenus. As a young woman, Spérie wished to devote herself to

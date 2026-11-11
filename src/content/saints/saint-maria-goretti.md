@@ -1,5 +1,6 @@
 ---
 name: Saint Maria Goretti
+stub: false
 honorific: Saint
 title: St. Maria Goretti
 summary: >-

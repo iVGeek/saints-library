@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Archangel of Agnone
+stub: true
 honorific: Blessed
 summary: Franciscan friar at the convent of Sant'Onofrio in Vasto, Italy.
 deathYear: 1651

@@ -1,5 +1,6 @@
 ---
 name: Saint Anastasius of Antioch
+stub: false
 honorific: Saint
 summary: >-
   Pagan who converted to Christianity after being raised from the dead by Saint Julian of Antioch. Soon after he was

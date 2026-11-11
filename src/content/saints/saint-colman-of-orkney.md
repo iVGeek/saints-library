@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Colmán of Orkney
+stub: false
 honorific: Saint
 title: Bishop
 summary: Bishop of the Orkney Islands off the coast of Scotland, consecrated in Rome, Italy c.994.

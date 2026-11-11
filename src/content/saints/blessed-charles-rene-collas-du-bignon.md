@@ -1,5 +1,6 @@
 ---
 name: Blessed Charles-René Collas du Bignon
+stub: false
 honorific: Blessed
 summary: >-
   Priest in the Society of Saint Sulpice. Superior of the minor seminary of Bourges, France. Martyred in the

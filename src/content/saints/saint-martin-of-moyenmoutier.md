@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Martin of Moyenmoutier
+stub: false
 honorific: Saint
 summary: Monk in the monastery in Moyenmoutier, France. Helped found the monastery in the area of Romont in modern Switzerland.
 deathYear: 690

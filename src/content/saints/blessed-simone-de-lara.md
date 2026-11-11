@@ -1,5 +1,6 @@
 ---
 name: Blessed Simone de Lara
+stub: false
 honorific: Blessed
 summary: >-
   Mercedarian friar at the convent of Seville, Spain. With Blessed Pedro of Santa Maria, he was sent to north Africa

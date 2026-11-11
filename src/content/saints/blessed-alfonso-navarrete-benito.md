@@ -1,5 +1,6 @@
 ---
 name: Blessed Alfonso Navarrete-Benito
+stub: false
 honorific: Blessed
 summary: >-
   Dominican priest. Missionary to the Philippines in 1578. In 1610 he returned to Europe to recruit missionaries, and in

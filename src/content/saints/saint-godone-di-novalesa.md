@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Godone di Novalesa
+stub: false
 honorific: Saint
 summary: Eighth-century monk. First abbot of the San Novalesa Abbey of Susa Valley, France.
 region: France

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Idda
+stub: false
 honorific: Saint
 summary: >-
   Born to the southern German nobility, Idda spent as much of her time in prayer as possible. Married. Widowed, she

@@ -1,5 +1,6 @@
 ---
 name: Blessed Antonio Sanchiz Silvestre
+stub: false
 honorific: Blessed
 summary: >-
   Novice in the Hospitallers of Saint John of God on 8 March 1936. Martyred in the Spanish Civil War; one of the

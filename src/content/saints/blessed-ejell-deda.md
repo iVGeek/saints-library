@@ -1,5 +1,6 @@
 ---
 name: Blessed Ejëll Deda
+stub: false
 honorific: Blessed
 summary: >-
   Studied with the Franciscans, and then at the Shkodrë Pontifical Seminary. Ordained on 24 February 1943 as a priest in

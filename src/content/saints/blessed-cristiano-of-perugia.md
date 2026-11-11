@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/41/Fra_Angelico_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Cristiano of Perugia
+stub: false
 honorific: Blessed
 summary: >-
   Born to the Italian nobility, Cristiano was sent to study at the university in Bologna, Italy; but after hearing Saint

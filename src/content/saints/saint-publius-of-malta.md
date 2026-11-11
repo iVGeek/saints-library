@@ -1,5 +1,6 @@
 ---
 name: Saint Publius of Malta
+stub: false
 honorific: Saint
 summary: >-
   Chief or prefect of the island of Malta, and a land-owner. He cared for Saint Paul when the apostle stopped there when

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Walembert of Cambrai
+stub: false
 honorific: Blessed
 summary: >-
   Studied with the canons of Sainte-Walpurga, Veurne, Flanders, Belgium. Servant to Mayor Oylard in Saint-Quentin,

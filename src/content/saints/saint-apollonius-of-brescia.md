@@ -1,5 +1,6 @@
 ---
 name: Saint Apollonius of Brescia
+stub: false
 honorific: Saint
 summary: >-
   Second century bishop of Brescia, Italy. Baptized Saint Afra of Brescia. The Acts of Saints Faustinus and Jovita say

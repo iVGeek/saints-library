@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Elaphius of Châlons
+stub: true
 honorific: Saint
 summary: Bishop of Châlons-sur-Marne, France. Envoy to Spain.
 deathYear: 580

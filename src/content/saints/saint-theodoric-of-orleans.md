@@ -1,5 +1,6 @@
 ---
 name: Saint Theodoric of Orleans
+stub: false
 honorific: Saint
 summary: >-
   Benedictine monk at Saint-Pierre-le-Vif monastery, Sens, France. Royal counselor. Bishop of Orleans, France. Died

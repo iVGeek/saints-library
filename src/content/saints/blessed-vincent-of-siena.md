@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/5/5a/Shield_of_Dominican_Order.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Vincent of Siena
+stub: false
 honorific: Blessed
 summary: Franciscan friar, serving in the Order for 22 years. Travelled and worked with Saint Bernadine of Siena.
 deathYear: 1442

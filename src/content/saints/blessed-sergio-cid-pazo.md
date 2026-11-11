@@ -1,5 +1,6 @@
 ---
 name: Blessed Sergio Cid Pazo
+stub: false
 honorific: Blessed
 summary: >-
   Sergio felt a call to religious life as a child, and joined the Salesians, making his profession in 1905. He studied

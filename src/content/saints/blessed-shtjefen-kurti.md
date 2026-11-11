@@ -1,5 +1,6 @@
 ---
 name: Blessed Shtjefën Kurti
+stub: false
 honorific: Blessed
 summary: >-
   Studied in Albania, in Graz, Feldkirch and Innsbruck in Austria, and in Rome, Italy. Ordained a priest in Rome on 13

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Julian Navio Colado
+stub: true
 honorific: Blessed
 summary: Franciscan Friars Minor priest. Martyred in the Spanish Civil War.
 birthYear: 1904

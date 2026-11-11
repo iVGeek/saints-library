@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Catwallon
+stub: false
 honorific: Blessed
 summary: >-
   Son of Duke Conan I of Brittany (in modern France). Monk. Abbot of Redon from 1019 to 1040. Helped the founders of

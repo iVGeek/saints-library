@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Florence of Poitiers
+stub: false
 honorific: Saint
 summary: >-
   Convert, brought to the faith by Saint Hilary of Poitiers while he was in exile. She then went with him back to

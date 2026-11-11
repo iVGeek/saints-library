@@ -1,5 +1,6 @@
 ---
 name: Saint Amantius of Tivoli
+stub: false
 honorific: Saint
 summary: >-
   Public convert to Christianity with his brother Saint Getulius. With Getulius he retired to the country of the

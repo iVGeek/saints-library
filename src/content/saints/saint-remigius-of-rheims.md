@@ -1,5 +1,6 @@
 ---
 name: Saint Remigius of Rheims
+stub: false
 honorific: Saint
 summary: >-
   Born to the Gallo-Roman nobility, the son of Emilius, count of Laon, and of Saint Celina; younger brother of Saint

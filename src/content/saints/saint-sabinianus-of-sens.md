@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Sabinianus of Sens
+stub: true
 honorific: Saint
 summary: Shepherd. Martyr.
 died: Sens, France

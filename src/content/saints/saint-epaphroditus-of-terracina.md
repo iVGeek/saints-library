@@ -1,5 +1,6 @@
 ---
 name: Saint Epaphroditus of Terracina
+stub: false
 honorific: Saint
 summary: >-
   First bishop of Terracina, Italy in the 1st century. May have been one of the Seventy Apostles, and the Epaphroditus

@@ -1,5 +1,6 @@
 ---
 name: Blessed Lazër Shantoja
+stub: false
 honorific: Blessed
 summary: >-
   Studied at the Pontifical French Seminary, and then theology in Innsbruck, Austria. Ordained on 29 May 1915 as a

@@ -1,5 +1,6 @@
 ---
 name: Saint Aetios of Amorium
+stub: false
 honorific: Saint
 summary: >-
   Member of the Byzantine patrician class. General of the Anatolian division of the imperial army. One of the 42 Martyrs

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Claritus Voglia
+stub: false
 honorific: Blessed
 summary: >-
   Born to the Italian nobility. Though he was early drawn to religious life, Claritus married a lady named Nicolosia;

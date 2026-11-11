@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Sisinnius of Rome
+stub: false
 honorific: Saint
 summary: Deacon in Rome. With his priest Saint Saturninus, he was sentenced to hard labor for his faith. Martyr.
 searchAliases:

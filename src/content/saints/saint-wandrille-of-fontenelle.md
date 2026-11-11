@@ -1,5 +1,6 @@
 ---
 name: Saint Wandrille of Fontenelle
+stub: false
 honorific: Saint
 summary: >-
   Member of the court of King Dagobert I. Married. Pilgrim to Rome, Italy, his wife became a nun and Wandrille became a

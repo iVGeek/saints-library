@@ -1,5 +1,6 @@
 ---
 name: Blessed Giuseppe Baldo
+stub: false
 honorific: Blessed
 summary: >-
   Sixth of nine children. Priest in the archdiocese of Verona, Italy. Founded the Sisters of Charity of Saint Mary in

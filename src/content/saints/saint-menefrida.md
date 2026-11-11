@@ -1,5 +1,6 @@
 ---
 name: Saint Menefrida
+stub: true
 honorific: Saint
 summary: Related to Brychan of Brycheiniog. No details about her have survived.
 searchAliases:

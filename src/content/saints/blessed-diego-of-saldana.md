@@ -1,5 +1,6 @@
 ---
 name: Blessed Diego of Saldaña
+stub: false
 honorific: Blessed
 summary: >-
   Mercedarian. Founded the monastery of Conxo at Santiago de Compostela, Spain, and the convent of Monterrey in Verin,

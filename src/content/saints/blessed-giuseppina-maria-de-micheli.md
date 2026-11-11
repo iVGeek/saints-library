@@ -1,5 +1,6 @@
 ---
 name: Blessed Giuseppina Maria de Micheli
+stub: false
 honorific: Blessed
 summary: >-
   Sister in the Daughters of the Immaculate Conception, joining in October 1913, taking the name Sister Maria Pierina

@@ -1,5 +1,6 @@
 ---
 name: Pope Saint Antherus
+stub: false
 honorific: Saint
 summary: >-
   Son of Romulus. His family seems to have originally been from Greece. Priest in Rome, Italy, and served as 19th Pope

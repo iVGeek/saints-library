@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/6/60/Martyr_Saints_of_China.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Neon the Martyr
+stub: true
 honorific: Saint
 summary: Martyred in the persecutions of Valerian.
 deathYear: 257

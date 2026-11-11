@@ -1,5 +1,6 @@
 ---
 name: Saint Anastasius of Sens
+stub: false
 honorific: Saint
 summary: >-
   Archbishop of Sens, France from 968 to 977. Started construction on the cathedral there. Great supporter of the monks

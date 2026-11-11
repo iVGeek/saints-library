@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/6/6d/Burial_of_Saint_Lucy-Caravaggio_%281608%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Andrew of Syracuse
+stub: false
 honorific: Saint
 summary: >-
   Deported from Syracuse, Sicily by invading Saracens and sent to North Africa where he was tortured and executed for

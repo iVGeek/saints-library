@@ -1,5 +1,6 @@
 ---
 name: Saint Fiorenzo of Populonia
+stub: false
 honorific: Saint
 summary: >-
   Priest. Bishop of Populonia, Italy. Known as a man of deep faith, piety and devotion. He welcomed Christians fleeing

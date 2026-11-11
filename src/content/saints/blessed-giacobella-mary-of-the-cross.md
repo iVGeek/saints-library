@@ -1,5 +1,6 @@
 ---
 name: Blessed Giacobella Mary of the Cross
+stub: false
 honorific: Blessed
 summary: Cloistered Mercedarian nun, she was the first leader of the Mercedarian monastery in Madrid, Spain. Miracle worker.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Giacobella-Mary-of-the-Cross.jpg

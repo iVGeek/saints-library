@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Emilian of Armenia
+stub: true
 honorific: Saint
 summary: Armenian monk. Martyr.
 searchAliases:

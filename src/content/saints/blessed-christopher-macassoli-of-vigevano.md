@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Christopher Macassoli of Vigevano
+stub: false
 honorific: Blessed
 summary: >-
   Born to the Italian nobility. Entered the Franciscans at age 20. Priest. Founded the monastery of Santa Maria delle

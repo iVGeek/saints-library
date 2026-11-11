@@ -1,5 +1,6 @@
 ---
 name: Blessed Ferdinando de Pazos
+stub: false
 honorific: Blessed
 summary: >-
   Mercedarian friar, assigned to ransom Christians enslaved by Muslims in Fez, Morocco. After freeing more than 100

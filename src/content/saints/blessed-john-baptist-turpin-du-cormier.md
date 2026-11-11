@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed John Baptist Turpin du Cormier
+stub: false
 honorific: Blessed
 summary: Parish priest in the diocese of Laval, France. Leader of the Blessed Martyrs of Laval.
 birthYear: 1732

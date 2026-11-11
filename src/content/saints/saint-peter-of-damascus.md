@@ -1,5 +1,6 @@
 ---
 name: Saint Peter of Damascus
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Damascus, Syria when the region was conquered by Muslims. He continued to preach Christianity. Imprisoned,

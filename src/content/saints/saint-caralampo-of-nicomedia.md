@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Caralampo of Nicomedia
+stub: true
 honorific: Saint
 summary: Martyred at Nicomedia (in modern Turkey). No other information has survived.
 region: Turkey

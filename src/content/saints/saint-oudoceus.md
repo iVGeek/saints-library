@@ -1,5 +1,6 @@
 ---
 name: Saint Oudoceus
+stub: false
 honorific: Saint
 summary: >-
   Son of a local leader in Brittany in France, he was dedicated to God at birth by his parents. Nephew and student of

@@ -1,5 +1,6 @@
 ---
 name: Saint Julian
+stub: false
 honorific: Saint
 summary: >-
   Married chastely to Saint Basillisa. The two converted their home into a hospital which could house up to 1,000;

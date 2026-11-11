@@ -1,5 +1,6 @@
 ---
 name: Blessed Maria Anna Rosa Caiani
+stub: false
 honorific: Blessed
 summary: >-
   As a young woman, Maria felt a call to service and religious life. When her parents died, relieving her of family

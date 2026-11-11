@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Romulus the Abbot
+stub: false
 honorific: Saint
 summary: >-
   Monk. Abbot of Saint Baudilius Abbey near Nimes, France. During an invasion of Saracens c.720, he and his brother

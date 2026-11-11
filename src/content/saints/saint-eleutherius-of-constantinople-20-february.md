@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Eleutherius of Constantinople
+stub: true
 honorific: Saint
 summary: Bishop in Constantinople. Martyr.
 searchAliases:

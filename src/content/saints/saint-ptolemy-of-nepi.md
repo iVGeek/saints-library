@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Ptolemy of Nepi
+stub: false
 honorific: Saint
 summary: >-
   Tradition says he was a spiritual student of Saint Peter the Apostle. Bishop of Nepi, Italy. Spiritual teacher of

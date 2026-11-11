@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Senary of Avranches
+stub: true
 honorific: Saint
 title: Bishop
 summary: Bishop in Avranches, Brittany, France.

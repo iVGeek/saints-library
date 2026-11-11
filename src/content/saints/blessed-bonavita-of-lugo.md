@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/8/8f/OFS-Mezin%C3%A1rodn%C3%AD_znak.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Bonavita of Lugo
+stub: false
 honorific: Blessed
 summary: >-
   Layman blacksmith, wheelwright and locksmith. Franciscan tertiary. Known for his deep prayer life and charitable

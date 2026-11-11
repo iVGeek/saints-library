@@ -1,5 +1,6 @@
 ---
 name: Blessed Brigida of Jesus
+stub: false
 honorific: Blessed
 summary: >-
   Sixth of eleven children born to a deeply religious family. Married to Matthew Zancano of Cremona, Italy on 14 October

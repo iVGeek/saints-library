@@ -1,5 +1,6 @@
 ---
 name: Blessed Albert of Steinfeld
+stub: false
 image: https://upload.wikimedia.org/wikipedia/commons/6/6d/Adoration-of-Magi-Steinfeld-Abbey.jpg
 honorific: Blessed
 summary: >-

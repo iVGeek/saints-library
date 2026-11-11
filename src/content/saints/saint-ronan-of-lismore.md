@@ -1,5 +1,6 @@
 ---
 name: Saint Ronan of Lismore
+stub: false
 honorific: Saint
 summary: >-
   Eighth century bishop of Lismore, Ireland. Several churches in Munster, Ireland are named for him. Confessor of the

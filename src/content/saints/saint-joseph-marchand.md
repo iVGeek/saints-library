@@ -1,5 +1,6 @@
 ---
 name: Saint Joseph Marchand
+stub: false
 honorific: Venerable
 summary: >-
   Seminarian in Orsan in 1821. Priest. Studied at the Paris Society of Foreign Missions. Missionary to Annam, Vietnam in

@@ -1,5 +1,6 @@
 ---
 name: Blessed Juan Vargas
+stub: false
 honorific: Blessed
 summary: >-
   Mercedarian missionary to the Americas, arriving in Peru in 1537. Avid and successful evangelist and administrator. He

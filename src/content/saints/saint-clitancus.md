@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Clitancus
+stub: true
 honorific: Saint
 summary: Member of the 5th-6th century royal family of Brycheiniog, Wales. Martyr.
 searchAliases:

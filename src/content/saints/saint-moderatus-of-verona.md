@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/5/59/1800471_10203364161694165_299594990_n.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Moderatus of Verona
+stub: false
 honorific: Saint
 summary: 33rd bishop of the diocese of Verona, Italy, serving 32 years from 712 until his death.
 searchAliases:

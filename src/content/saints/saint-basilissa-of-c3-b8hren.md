@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Basilissa of Øhren
+stub: true
 honorific: Saint
 summary: Benedictine nun. Abbess of Oehren (Herren; Horreum) Abbey, Trier, Germany.
 deathYear: 780

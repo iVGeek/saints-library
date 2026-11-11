@@ -1,5 +1,6 @@
 ---
 name: Saint John Francis Regis
+stub: false
 honorific: Saint
 title: Missionary
 summary: >-

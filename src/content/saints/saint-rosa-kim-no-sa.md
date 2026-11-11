@@ -1,5 +1,6 @@
 ---
 name: Saint Rosa Kim No-sa
+stub: true
 honorific: Venerable
 summary: Married lay woman in the apostolic vicariate of Korea. Martyr.
 image: https://catholicsaints.info/wp-content/uploads/img-Maryrs-of-Korea.jpg

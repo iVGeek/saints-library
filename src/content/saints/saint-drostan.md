@@ -1,5 +1,6 @@
 ---
 name: Saint Drostan
+stub: false
 honorific: Saint
 summary: >-
   Born to the Scottish royalty, the son of Cosgrach. Educated by Saint Columba. Benedictine monk. Travelled to Aberdeen,

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Nithard
+stub: false
 honorific: Saint
 summary: >-
   Benedictine monk at New Corbie Abbey, Saxony (in modern Germany). Worked with Saint Ansgar, preaching to pagans in

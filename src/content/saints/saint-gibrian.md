@@ -1,5 +1,6 @@
 ---
 name: Saint Gibrian
+stub: false
 honorific: Saint
 summary: >-
   Brother of Saint Tressan, Saint Helan, Saint Germanus, Saint Abran, Saint Petran, Saint Franca, Saint Promptia, and

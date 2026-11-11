@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/f/fd/Ancona_-_Pinacoteca_Francesco_Podesti_-_Guercino_-_Santa_Palazia%2C_1658_circa.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Palatias
+stub: false
 honorific: Saint
 summary: >-
   Lady of Ancona, Italy, Convert, brought to the faith by her slave, Saint Laurentia. Martyred in the persecutions of

@@ -1,5 +1,6 @@
 ---
 name: Blessed Deogracias Palacios del Río
+stub: false
 honorific: Blessed
 summary: >-
   The sixth of seven children in his family, Deogracius was known as a good student, and joined the Augustinian

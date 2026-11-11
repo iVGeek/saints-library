@@ -1,5 +1,6 @@
 ---
 name: Saint John Boste
+stub: false
 honorific: Venerable
 summary: >-
   Educated at Queen's College, Oxford, England from 1569 to 1572. Fellow at Queen's College. Convert to Catholicism in

@@ -1,5 +1,6 @@
 ---
 name: Blessed Lorenzo Lizasoáin Lizaso
+stub: false
 honorific: Blessed
 summary: >-
   The son of Miguel Ángel Lizasoain and Francisca Lizaso; he was baptized at the age of one day, and grew up speaking

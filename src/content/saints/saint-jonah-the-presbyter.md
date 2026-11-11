@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Jonah the Presbyter
+stub: false
 honorific: Saint
 summary: >-
   Father of Saint Theodorus of Apamea and Saint Theophanes of Nicaea. When his sons were grown and entering religious

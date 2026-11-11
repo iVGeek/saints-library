@@ -1,5 +1,6 @@
 ---
 name: Saint Stephen Harding
+stub: false
 honorific: Saint
 summary: >-
   Born to the English nobility. After a somewhat mis-spent youth, he was drawn to religious life and entered the

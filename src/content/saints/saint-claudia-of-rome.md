@@ -1,5 +1,6 @@
 ---
 name: Saint Claudia of Rome
+stub: false
 honorific: Saint
 summary: >-
   A princess, the daughter of British King Caractacus. Imprisoned with her father and taken with him to Rome, Italy in

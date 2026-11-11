@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Heraclas of Alexandria
+stub: false
 honorific: Saint
 summary: >-
   Brother of Saint Plutarch of Alexandria. Spiritual student of Origen. Succeeded Origen as the head of the catechetical

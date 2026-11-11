@@ -1,5 +1,6 @@
 ---
 name: Saint Alkelda of Middleham
+stub: false
 honorific: Saint
 summary: >-
   Saxon princess. Nun. Martyred by Viking raiders. A holy well near her place of death is reported to have healing

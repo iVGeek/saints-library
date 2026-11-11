@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Ammonius of Alexandria
+stub: true
 honorific: Saint
 summary: Child martyr.
 region: England

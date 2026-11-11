@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Adelard of Cysoing
+stub: false
 honorific: Saint
 summary: Son of Everardo, founder of Cysoing Abbey. Monk at Cysoing in the late 9th century.
 region: Italy

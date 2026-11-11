@@ -1,5 +1,6 @@
 ---
 name: Blessed Elías Carbonell Molla
+stub: false
 honorific: Blessed
 summary: >-
   Son of a physician; brother of Blessed Juan Carbonell Molla. Entered the seminary in Valencia, Spain in 1890. Ordained

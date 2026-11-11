@@ -1,5 +1,6 @@
 ---
 name: Saint Pudentiana of Rome
+stub: false
 honorific: Saint
 summary: >-
   Daughter of Saint Claudia of Rome and Senator Pudens; sister of Saint Praxedes. Gave away all her property to the

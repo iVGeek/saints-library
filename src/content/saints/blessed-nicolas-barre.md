@@ -1,5 +1,6 @@
 ---
 name: Blessed Nicolas Barré
+stub: false
 honorific: Blessed
 summary: >-
   Educated by Jesuits. Joined the Minims of Saint Francis of Paola at age 19. Taught philosophy while still a deacon.

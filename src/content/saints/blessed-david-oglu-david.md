@@ -1,5 +1,6 @@
 ---
 name: Blessed David Oglu David
+stub: true
 honorific: Blessed
 summary: Layman. One of the Martyrs of Armenia.
 image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Armenia.jpg

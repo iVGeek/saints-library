@@ -1,5 +1,6 @@
 ---
 name: Saint Agapitus of Thessalonica
+stub: false
 honorific: Saint
 summary: Martyred in Thessalonica in Greece, date unknown. No other information has survived.
 region: Greece

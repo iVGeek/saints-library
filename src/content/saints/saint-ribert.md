@@ -4,6 +4,7 @@ imageAlt: "Saint Ribert, ©ferranpou"
 imageCredit: Nominis (French Episcopal Conference)
 imageCreditUrl: https://nominis.cef.fr
 name: Saint Ribert
+stub: false
 honorific: Saint
 summary: >-
   Monk. Abbot of Saint-Valèry-sur-Somme, France. May have been a bishop in the Normandy and Picardy areas of modern

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Trea of Ardtree
+stub: false
 honorific: Saint
 summary: >-
   Daughter of the chieftain Cairthenn Bec mac Eircc and Mugain. An adult convert, she and her parents were brought to

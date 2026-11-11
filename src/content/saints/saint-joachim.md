@@ -1,5 +1,6 @@
 ---
 name: Saint Joachim
+stub: false
 honorific: Saint
 title: St. Joachim
 summary: >-

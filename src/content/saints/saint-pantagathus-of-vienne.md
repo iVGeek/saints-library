@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Pantagathus of Vienne
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility. Well-educated, he served as a diplomat and courtier to King Clovis I. Priest. Bishop of Vienne,

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/45/Greek_Catholic_Church_of_Holy_Trinity_in_Vilnius_01%28js%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Antony of Vilna
+stub: false
 honorific: Saint
 summary: >-
   Official at the court of the grand Duke of Lithuania. Martyred with Saint John of Vilna and Saint Eustace of Vilna for

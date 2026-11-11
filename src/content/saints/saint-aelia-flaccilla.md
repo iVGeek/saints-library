@@ -1,5 +1,6 @@
 ---
 name: Saint Aelia Flaccilla
+stub: false
 honorific: Saint
 summary: >-
   Her family was of Spanish descent, and she may have been the daughter of Claudius Antonius, Prefect of Gaul. Married

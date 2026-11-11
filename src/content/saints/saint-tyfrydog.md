@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Tyfrydog
+stub: false
 honorific: Saint
 summary: >-
   Son of Arwystli Glof ab Seithenyn. Sixth-century monk on Bardsey Island, Wales. Built a church in the village of

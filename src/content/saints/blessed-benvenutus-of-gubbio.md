@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Benvenutus of Gubbio
+stub: false
 honorific: Blessed
 summary: >-
   Soldier; he later said that soldiers became good monks as they had learned discipline, endurance and obedience.

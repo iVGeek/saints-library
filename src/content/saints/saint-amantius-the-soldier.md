@@ -1,5 +1,6 @@
 ---
 name: Saint Amantius the Soldier
+stub: true
 honorific: Saint
 summary: One of a group of ten soldier martyrs.
 deathYear: 120

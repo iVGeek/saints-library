@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Placid of Ocre
+stub: false
 honorific: Saint
 summary: >-
   Born to a working class family. Became a Cistercian monk at Saint Nicholas, Corno, Italy. Lived as a hermit at Ocre in

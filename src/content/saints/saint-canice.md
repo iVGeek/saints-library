@@ -1,5 +1,6 @@
 ---
 name: Saint Canice
+stub: false
 honorific: Saint
 summary: >-
   His father was a distinguished royal bard, and his mother's name was Maul. Spiritual student of Saint Finnian of

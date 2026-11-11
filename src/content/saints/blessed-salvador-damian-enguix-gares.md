@@ -1,5 +1,6 @@
 ---
 name: Blessed Salvador Damián Enguix Garés
+stub: false
 honorific: Blessed
 summary: >-
   Baptized at the age of one day. Married layman in the archdiocese of Valencia, Spain; father of five. Veterinarian.

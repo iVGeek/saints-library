@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Honoratus of Marseille
+stub: false
 honorific: Saint
 summary: >-
   Spiritual student of Saint Honoratus of Arles; he wrote a biography of Honoratus. Bishop of Marseille (in modern

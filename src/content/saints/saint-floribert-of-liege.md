@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Floribert of Liège
+stub: false
 honorific: Saint
 title: Bishop
 summary: >-

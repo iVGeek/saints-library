@@ -1,5 +1,6 @@
 ---
 name: Saint Francis Caracciolo
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility; related to Saint Thomas Aquinas and to the princes of Naples. Enjoyed hunting. Cured of a

@@ -1,5 +1,6 @@
 ---
 name: Blessed Julián Heredia Zubia
+stub: false
 honorific: Blessed
 summary: >-
   The son of Justo Heredia and Ceferina Zubía. On 29 October 1889, at the age of 15, Julian became a novice at the

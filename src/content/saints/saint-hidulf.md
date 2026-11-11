@@ -1,5 +1,6 @@
 ---
 name: Saint Hidulf of Moyenmoutier
+stub: false
 honorific: Saint
 summary: >-
   Benedictine monk at the monastery of Maximinus in Trier, Germany. Bishop. Founded the monastery of Moyenmourier in

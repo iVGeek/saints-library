@@ -1,5 +1,6 @@
 ---
 name: Saint Euthymius the Younger
+stub: false
 honorific: Saint
 summary: >-
   Hermit on Mount Olympus c.848. Hermit on Mount Athos in Greece, and became a noted preacher in the area. Founded a

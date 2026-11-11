@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Libania of Busano
+stub: false
 honorific: Blessed
 summary: >-
   Born to the nobility, the daughter of Lord Armerico of Barbania, Italy, and descended from the dukes of Lombardy.

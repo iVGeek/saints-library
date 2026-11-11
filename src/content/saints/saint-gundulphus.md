@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Gundulphus
+stub: true
 honorific: Saint
 summary: Sixth century bishop in Gaul.
 searchAliases:

@@ -1,5 +1,6 @@
 ---
 name: Venerable Agnelo Gustavo Adolfo de Souza
+stub: false
 honorific: Venerable
 summary: >-
   Joined the Society of Missionaries of Saint Francis Xavier (Pilar Fathers) on 17 July 1897. Ordained on 2 September

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Mark of Alexandria
+stub: true
 honorific: Saint
 summary: Martyr.
 born: Egypt

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/4f/Frm_beatification_banner.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Jean-Joseph Rateau
+stub: false
 honorific: Blessed
 summary: >-
   Jean-Joseph studied at the San Sulpizio seminary. He was ordained a priest in the archdiocese of Paris, France in

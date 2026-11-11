@@ -1,5 +1,6 @@
 ---
 name: Saint Sabbas of Mar Saba
+stub: false
 honorific: Saint
 summary: >-
   Spiritual student of Saint Euthymius the Great at age 20. Anchorite from age 30, living in a cave, devoting himself to

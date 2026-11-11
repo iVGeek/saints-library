@@ -1,5 +1,6 @@
 ---
 name: Saint Guy of Anderlecht
+stub: false
 honorific: Saint
 title: St. Guy of Anderlecht
 summary: >-

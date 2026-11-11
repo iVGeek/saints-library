@@ -1,5 +1,6 @@
 ---
 name: Saint Carolus Hyon Song-Mun
+stub: false
 honorific: Venerable
 summary: >-
   Married layman and father in the apostolic vicariate of Korea. Catechist. Travelled extensively throughout Korea to

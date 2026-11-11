@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Dominica of Constantinople
+stub: false
 honorific: Saint
 summary: >-
   Raised in a pious family, when she was grown Dominica slipped away from her home and took ship to Alexandria, Egypt.

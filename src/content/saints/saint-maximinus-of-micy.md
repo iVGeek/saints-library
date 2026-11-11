@@ -1,5 +1,6 @@
 ---
 name: Saint Maximinus of Micy
+stub: false
 honorific: Saint
 summary: >-
   Nephew of Saint Eusebius of Orleans. Co-founder and first abbot of the Abbey of Micy, France on land donated by King

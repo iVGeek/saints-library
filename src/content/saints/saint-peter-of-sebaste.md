@@ -1,6 +1,7 @@
 ---
 image: https://www.catholic.org/files/images/saints/885.jpg
 name: Saint Peter of Sebaste
+stub: false
 honorific: Saint
 summary: >-
   Youngest of ten children born to Saint Basil the Elder and Saint Emmelia; brother of Saint Basil the Great, Saint

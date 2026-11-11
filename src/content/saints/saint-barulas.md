@@ -1,5 +1,6 @@
 ---
 name: Saint Barulas
+stub: false
 honorific: Saint
 summary: >-
   A boy of seven who learned Christianity from Saint Romanus the Abbot. When he publicly announced his Christianity, he

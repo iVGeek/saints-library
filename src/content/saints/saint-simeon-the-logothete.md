@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Simeon the Logothete
+stub: false
 honorific: Saint
 summary: >-
   Logothete (secretary of state) to Emperor Constantine VII Porphyrogenitus. Wrote history, prayers, letters, and

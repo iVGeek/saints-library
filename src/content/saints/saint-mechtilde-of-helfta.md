@@ -1,5 +1,6 @@
 ---
 name: Saint Mechtilde of Helfta
+stub: false
 honorific: Saint
 summary: >-
   Born to a pious, powerful Thuringian noble family; her older sister was a nun. Convent-educated from age seven,

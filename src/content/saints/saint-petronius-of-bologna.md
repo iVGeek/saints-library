@@ -1,5 +1,6 @@
 ---
 name: Saint Petronius of Bologna
+stub: false
 honorific: Saint
 summary: >-
   Son of a Praetorian Prefect in Gaul, and may have been a Roman official himself. Pilgrim to the Holy Lands and the

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Zosimus of Tomi
+stub: true
 honorific: Saint
 summary: Martyr. No further information has survived.
 died: at Tomi, Scythia (modern Constanta, Romania)

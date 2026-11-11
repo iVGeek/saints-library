@@ -1,5 +1,6 @@
 ---
 name: Saint Arnulf of Toul
+stub: true
 honorific: Saint
 summary: Bishop of Toul, France from 847 to 871. Opposed the divorce of King Lothair II.
 deathYear: 871

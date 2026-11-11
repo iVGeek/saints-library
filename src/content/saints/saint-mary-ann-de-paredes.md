@@ -1,5 +1,6 @@
 ---
 name: Saint Mary Ann de Paredes
+stub: false
 honorific: Venerable
 summary: >-
   Daughter of Don Girolamo Flores Zenel de Paredes, a nobleman of Toledo, and Doña Mariana Cranobles de Xaramilo; her

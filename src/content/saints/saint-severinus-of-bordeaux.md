@@ -1,5 +1,6 @@
 ---
 name: Saint Severinus of Bordeaux
+stub: true
 honorific: Saint
 title: Bishop
 summary: Bishop of Bordeaux, France c.405.

@@ -1,5 +1,6 @@
 ---
 name: Blessed Elzbieta Róza Czacka
+stub: false
 honorific: Blessed
 summary: >-
   The youngest of four children in an aristocratic family who moved from a small town in Ukraine to Warsaw, Poland in

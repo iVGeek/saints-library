@@ -1,5 +1,6 @@
 ---
 name: Blessed María Caridad Álvarez Martín
+stub: false
 honorific: Blessed
 summary: >-
   The daughter of Sotera Martín and Constantino Álvarez, María joined the Augustinian Missionary Sisters in 1955, and

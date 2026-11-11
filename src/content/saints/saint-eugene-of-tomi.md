@@ -1,5 +1,6 @@
 ---
 name: Saint Eugene of Tomi
+stub: false
 honorific: Saint
 summary: One of a group of Christians martyred together. No other information has survived.
 died: at Tomi, Exinius Pontus, Moesia (modern Constanta, Romania)

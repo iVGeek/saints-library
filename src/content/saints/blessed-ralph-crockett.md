@@ -1,5 +1,6 @@
 ---
 name: Blessed Ralph Crockett
+stub: false
 honorific: Blessed
 summary: >-
   Educated at Christ College, University of Cambridge and at Glouscester Hall at the University of Oxford in England.

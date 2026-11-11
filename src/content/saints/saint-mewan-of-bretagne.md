@@ -1,5 +1,6 @@
 ---
 name: Saint Mewan of Bretagne
+stub: false
 honorific: Saint
 summary: >-
   Followed Saint Samson from Wales to Brittany in the sixth century, accompanied by his godson Saint Austell of

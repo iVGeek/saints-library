@@ -1,5 +1,6 @@
 ---
 name: Saint Gedeon of Besancon
+stub: true
 honorific: Saint
 summary: Bishop of Besancon, France from 790 to 796.
 deathYear: 796

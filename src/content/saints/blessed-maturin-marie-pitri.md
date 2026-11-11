@@ -1,5 +1,6 @@
 ---
 name: Blessed Maturin-Marie Pitri
+stub: false
 honorific: Blessed
 summary: >-
   Drafted into the French army, he was assigned to serve in Italy during the Napoleonic wars. He became seriously ill in

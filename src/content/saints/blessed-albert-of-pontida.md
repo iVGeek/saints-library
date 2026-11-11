@@ -1,5 +1,6 @@
 ---
 name: Blessed Albert of Pontida
+stub: false
 honorific: Blessed
 summary: >-
   Born to the Italian nobility. Soldier in the army of Bergamo, Italy. Severely wounded in battle, he made the common

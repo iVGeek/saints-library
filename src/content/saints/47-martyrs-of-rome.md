@@ -1,5 +1,6 @@
 ---
 name: 47 Martyrs of Rome
+stub: false
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Christian_heroes_and_martyrs_%28IA_christianheroesm00fost%29.pdf/page1-960px-Christian_heroes_and_martyrs_%28IA_christianheroesm00fost%29.pdf.jpg
 honorific: Saint

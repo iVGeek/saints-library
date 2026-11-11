@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Tudno of Caernarvon
+stub: true
 honorific: Saint
 summary: Llandudno in Wales is named after him. No other information has survived.
 died: 6th century

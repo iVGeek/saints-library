@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Loëvan of Brittany
+stub: false
 honorific: Saint
 summary: >-
   Monk and then abbot of the monastery of Saint Tudwals of Tréguier in Brittany (in modern France) c.528 to c.564 from

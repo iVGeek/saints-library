@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Christopher of Cordoba
+stub: false
 honorific: Saint
 summary: Monk at the Saint Martin de La Rojana monastery near Cordoba, Spain. Martyred in the persecutions of Abderrahman II.
 deathYear: 852

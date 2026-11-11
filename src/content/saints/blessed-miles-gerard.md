@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/9/97/Bicci_di_Lorenzo_-_Blessed_Gerard_of_Villamagna_-_WGA2163.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Miles Gerard
+stub: false
 honorific: Blessed
 summary: >-
   Studied at the English Seminary in Rheims, France. Priest, returning to England to minister to covert Catholics during

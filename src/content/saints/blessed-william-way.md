@@ -1,5 +1,6 @@
 ---
 name: Blessed William Way
+stub: false
 honorific: Blessed
 summary: >-
   Seminarian in Reims, France. Ordained in 1586. He returned to England to minister to covert Catholics, hiding under

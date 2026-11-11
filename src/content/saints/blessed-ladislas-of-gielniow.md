@@ -1,5 +1,6 @@
 ---
 name: Blessed Ladislas of Gielniów
+stub: false
 honorific: Blessed
 summary: >-
   Educated at the University of Warsaw, Poland. Joined the Franciscan Order of Friars Minor Observant. Doorkeeper in his

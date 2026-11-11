@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Eginus of Verona
+stub: false
 honorific: Blessed
 summary: >-
   Born to the Alemannic nobility, he was related to Hildegard, second wife of Blessed Charlemagne, and a served in the

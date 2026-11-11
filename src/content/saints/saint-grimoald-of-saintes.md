@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Grimoald of Saintes
+stub: true
 honorific: Saint
 summary: Deacon in Saintes, Belgium. Martyred by pagan Frisian invaders.
 deathYear: 700

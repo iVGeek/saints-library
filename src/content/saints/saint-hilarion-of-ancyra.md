@@ -1,5 +1,6 @@
 ---
 name: Saint Hilarion of Ancyra
+stub: true
 honorific: Saint
 summary: Martyred in the persecutions of Trajan.
 image: https://catholicsaints.info/wp-content/uploads/img-Saints-Proclus-and-Hilarion-of-Ancyra.jpg

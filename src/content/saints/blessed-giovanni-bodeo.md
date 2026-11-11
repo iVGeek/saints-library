@@ -1,5 +1,6 @@
 ---
 name: Blessed Giovanni Bodeo
+stub: false
 honorific: Blessed
 summary: >-
   Franciscan Friar Minor lay brother who served as gardener and assistant sacristan at his house. One of the Martyrs of

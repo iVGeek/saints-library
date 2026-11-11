@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Montfort Scott
+stub: false
 honorific: Blessed
 summary: >-
   Seminarian at Douai College in France beginning in 1574. As a sub-deacon he returned to England in 1575, was arrested,

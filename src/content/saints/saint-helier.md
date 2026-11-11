@@ -1,5 +1,6 @@
 ---
 name: Saint Hélier of Jersey
+stub: false
 honorific: Saint
 summary: >-
   Convert. Sixth century cave-dwelling hermit on the island of Jersey near the village that later bore his name.

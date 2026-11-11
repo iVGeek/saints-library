@@ -1,5 +1,6 @@
 ---
 name: Blessed Marie-Geneviève Meunier
+stub: false
 honorific: Blessed
 summary: >-
   Carmelite novice, taking the habit on 16 December 1788. One of the Carmelite Martyrs of Compiegne. She mounted the

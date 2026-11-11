@@ -1,5 +1,6 @@
 ---
 name: Blessed Lamberto María de Navascués de Juan
+stub: false
 honorific: Blessed
 summary: >-
   Lamberto studied with Jesuits, and then the Marists, and then went to law school at the university in Zaragoza, Spain.

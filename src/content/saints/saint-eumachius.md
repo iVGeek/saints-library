@@ -1,5 +1,6 @@
 ---
 name: Saint Eumachius
+stub: false
 honorific: Saint
 summary: >-
   Priest of the Angoulême and Périgord regions (in modern France) in the late 5th and early 6th centuries. We have

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/41/Cathedrale_vue_de_montjuzet_detail.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Blaise of Auvergne
+stub: false
 honorific: Blessed
 summary: Fourteenth century Dominican. Spiritual student of Saint Vincent Ferrer. Noted and passionate preacher.
 searchAliases:

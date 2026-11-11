@@ -1,5 +1,6 @@
 ---
 name: Venerable Domenica Bedonni Bernardini
+stub: false
 honorific: Venerable
 summary: >-
   Married to Venerable Sergio Bernardini; mother; lifelong lay woman in the archdiocese of Modena-Nonantola, Italy.

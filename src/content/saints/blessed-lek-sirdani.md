@@ -1,5 +1,6 @@
 ---
 name: Blessed Lek Sirdani
+stub: false
 honorific: Blessed
 summary: >-
   Studied at the Pontifical Seminary Shkodrë, and theology in Innsbruck, Austria. Ordained on 24 April 1916 as a priest

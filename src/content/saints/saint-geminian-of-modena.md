@@ -1,5 +1,6 @@
 ---
 name: Saint Geminian of Modena
+stub: false
 honorific: Saint
 summary: >-
   Deacon and later bishop of Modena, Italy. Sheltered Saint Athanasius of Alexandria and Saint John Chrystostom in their

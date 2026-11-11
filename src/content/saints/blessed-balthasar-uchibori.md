@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Balthasar Uchibori
+stub: false
 honorific: Blessed
 summary: >-
   Layman in the archdiocese of Nagasaki, Japan. Son of Blessed Paulus Uchibori Sakuemon; brother of Blessed Antonius

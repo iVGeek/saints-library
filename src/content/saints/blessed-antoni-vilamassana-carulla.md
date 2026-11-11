@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/f/fe/Beatificaciotarragona2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Antoni Vilamassana Carulla
+stub: true
 honorific: Blessed
 summary: Claretian brother. Martyred in the Spanish Civil War.
 birthYear: 1860

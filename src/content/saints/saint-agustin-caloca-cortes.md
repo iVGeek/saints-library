@@ -1,5 +1,6 @@
 ---
 name: Saint Agustin Caloca Cortes
+stub: false
 honorific: Venerable
 summary: >-
   Studied at the seminary in Guadalajara, Mexico until it was closed down by anti-clerical government forces. He resumed

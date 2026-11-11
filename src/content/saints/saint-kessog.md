@@ -1,5 +1,6 @@
 ---
 name: Saint Kessog
+stub: false
 honorific: Saint
 summary: >-
   Son of the king of Cashel, Ireland, Kessel grew up a pious child, and was known as a miracle worker. Missionary bishop

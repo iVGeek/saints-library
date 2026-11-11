@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Notburga of Cologne
+stub: true
 honorific: Saint
 summary: Benedictine nun at the convent of Saint Mary, Cologne, Germany.
 deathYear: 714

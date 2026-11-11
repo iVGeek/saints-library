@@ -1,5 +1,6 @@
 ---
 name: Saint Avitus II of Clermont
+stub: true
 honorific: Saint
 title: Bishop
 summary: Bishop of Clermont, Auvergne, France from 676 until his death.

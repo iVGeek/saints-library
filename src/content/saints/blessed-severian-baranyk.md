@@ -1,5 +1,6 @@
 ---
 name: Blessed Severian Baranyk
+stub: false
 honorific: Blessed
 summary: >-
   Greek Catholic. Entered the Krekhiv monastery of the Basilian Order of Saint Josaphat on 24 September 1904, and made

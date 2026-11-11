@@ -1,5 +1,6 @@
 ---
 name: Blessed Stanislaw Kostka Starowieyski
+stub: false
 honorific: Blessed
 summary: >-
   Graduated high school in 1914. Studied law at Jagiellonian University in Krakow, Poland, but his studies were

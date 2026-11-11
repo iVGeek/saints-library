@@ -1,6 +1,7 @@
 ---
 image: https://www.santiebeati.it/immagini/Thumbs/95220/95220.jpg
 name: Blessed Felicissimo of Mosciano
+stub: false
 honorific: Blessed
 summary: >-
   As a young man he became a Benedictine monk at the monstery of San Eutizio near Norcia, Italy, but was soon forced to

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/8/86/IMG_R449road2825a.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Molling of Wexford
+stub: false
 honorific: Saint
 summary: >-
   Monk at Glendalough. Abbot of Aghacainid. Bishop of Ferns, Ireland, but eventually resigned to specified his latter

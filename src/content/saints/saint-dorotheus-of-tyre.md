@@ -1,5 +1,6 @@
 ---
 name: Saint Dorotheus of Tyre
+stub: false
 honorific: Saint
 summary: >-
   Priest, scholar, and author at Tyre, Lebanon. Driven into exile during the persecutions of Diocletian, but later

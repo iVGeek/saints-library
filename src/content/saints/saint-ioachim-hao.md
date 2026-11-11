@@ -1,5 +1,6 @@
 ---
 name: Saint Ioachim Hao
+stub: false
 honorific: Venerable
 summary: >-
   Raised in a pagan family, he worked in cotton for a while, and then as a blacksmith. Convert some time after 1802.

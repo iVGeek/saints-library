@@ -1,5 +1,6 @@
 ---
 name: Blessed Gisella of Ungarn
+stub: false
 honorific: Blessed
 summary: >-
   Sister of Saint Henry II, emperor of Germany. Wife of Saint Stephen of Hungary. First Queen of Hungary. Widow. After a

@@ -1,5 +1,6 @@
 ---
 name: Saint Antonius of Florence
+stub: false
 honorific: Saint
 summary: >-
   When he first tried to join the Dominicans he was refused due to his poor health. When he persisted, the prior told

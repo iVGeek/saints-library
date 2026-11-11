@@ -1,5 +1,6 @@
 ---
 name: Saint Felix of Nicomedia
+stub: true
 honorific: Saint
 summary: Martyr.
 died: in Nicomedia, Bithynia, Asia Minor (modern Izmet, Turkey)

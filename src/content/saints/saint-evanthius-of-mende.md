@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Evanthius of Mende
+stub: true
 honorific: Saint
 summary: Bishop of Mende, France. Attended the 4th Council of Orleans in 541.
 region: France

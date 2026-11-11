@@ -1,5 +1,6 @@
 ---
 name: Saint John Leonardi
+stub: false
 honorific: Venerable
 summary: >-
   Worked as a pharmacist's apprentice while studying for the priesthood. After ordination on 22 December 1572, he worked

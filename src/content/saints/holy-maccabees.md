@@ -1,5 +1,6 @@
 ---
 name: Holy Maccabees
+stub: false
 honorific: Saint
 summary: >-
   Jewish dynasty which began with the rebellion of Mathathias and his five sons against the Syrian king, Antiochus IV

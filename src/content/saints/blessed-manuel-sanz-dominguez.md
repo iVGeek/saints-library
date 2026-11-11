@@ -1,5 +1,6 @@
 ---
 name: Blessed Manuel Sanz Domínguez
+stub: false
 honorific: Blessed
 summary: >-
   Priest in the Diocese of Madrid, Spain. Member of the Order of Saint Jerome, restorer. Martyred in the Spanish Civil

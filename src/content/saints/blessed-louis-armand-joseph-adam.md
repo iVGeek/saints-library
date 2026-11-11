@@ -1,5 +1,6 @@
 ---
 name: Blessed Louis-Armand-Joseph Adam
+stub: false
 honorific: Blessed
 summary: >-
   Franciscan Capuchin priest. Imprisoned on a ship in the harbor of Rochefort, France and left to die during the

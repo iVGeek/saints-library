@@ -1,5 +1,6 @@
 ---
 name: Blessed Jean Baptiste Guillaume
+stub: false
 honorific: Blessed
 summary: >-
   Salesian brother, joining on 16 October 1785. Imprisoned on a ship in the harbor of Rochefort, France and left to die

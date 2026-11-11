@@ -1,5 +1,6 @@
 ---
 name: Blessed Apolinar Franco
+stub: false
 honorific: Blessed
 summary: >-
   Franciscan Friars Minor (Observants) priest. Missionary to Japan during the 17th century when Christianity was a

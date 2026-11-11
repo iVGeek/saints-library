@@ -1,5 +1,6 @@
 ---
 name: Saint Baglan of Wales
+stub: false
 honorific: Saint
 summary: >-
   Fifth century missionary from Brittany to Britain, especially in Wales. He founded monasteries, including one whose

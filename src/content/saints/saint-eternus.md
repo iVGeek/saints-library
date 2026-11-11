@@ -1,5 +1,6 @@
 ---
 name: Saint Eternus of Évreux
+stub: true
 honorific: Saint
 summary: Bishop of Evreux, France.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Eternus-of-Evreux.jpg

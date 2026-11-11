@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Marcellus the Righteous
+stub: false
 honorific: Saint
 summary: >-
   Marcellus inherited a large fortune in his youth. Studied at Antioch and Ephesus. Monk and abbot of the Eirenaion

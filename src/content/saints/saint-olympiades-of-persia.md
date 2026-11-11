@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Olympiades of Persia
+stub: true
 honorific: Saint
 summary: Born to the Persian nobility. Martyred in the persecutions of Decius.
 deathYear: 251

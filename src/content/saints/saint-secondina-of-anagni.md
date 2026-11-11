@@ -1,5 +1,6 @@
 ---
 name: Saint Secondina of Anagni
+stub: false
 honorific: Saint
 summary: Convert, baptized by Saint Magnus of Anagni. Martyred in the persecutions of Decius.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Magnus-and-Saint-Secondina.jpg

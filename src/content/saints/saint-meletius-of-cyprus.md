@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Meletius of Cyprus
+stub: true
 honorific: Saint
 summary: Bishop in Cyprus. Martyr. No other information has survied.
 region: England

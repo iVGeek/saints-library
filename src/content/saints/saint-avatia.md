@@ -1,5 +1,6 @@
 ---
 name: Saint Avatia
+stub: false
 honorific: Saint
 title: Hermit
 summary: >-

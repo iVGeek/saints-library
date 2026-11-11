@@ -1,5 +1,6 @@
 ---
 name: Saint Eulalia of Merida
+stub: false
 honorific: Saint
 summary: >-
   A consecrated virgin who, from her early youth, wanted to be a martyr. During the Diocletian persecutions, when she

@@ -1,5 +1,6 @@
 ---
 name: Saint Priscus of Capua
+stub: false
 honorific: Saint
 summary: >-
   An ancient tradition holds that the Last Supper was held at the house of Priscus in Jerusalem. He may have worked with

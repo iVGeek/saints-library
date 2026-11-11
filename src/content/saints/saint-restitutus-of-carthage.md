@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Restitutus of Carthage
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Carthage in North Africa from 352 to 373. Part of the Council of Rimini in 359 where he supported the

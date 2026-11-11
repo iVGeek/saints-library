@@ -1,5 +1,6 @@
 ---
 name: Blessed Malgorzata Szewczyk
+stub: false
 honorific: Blessed
 summary: >-
   Born to a deeply religious family, she was orphaned young (her father died when Malgorzata was seven, her mother when

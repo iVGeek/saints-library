@@ -1,5 +1,6 @@
 ---
 name: Blessed Maria of Nagasaki
+stub: false
 honorific: Blessed
 summary: >-
   Layman in the archdiocese of Nagasaki, Japan. Member of the Lay Dominicans. Martyred in the persecution of the

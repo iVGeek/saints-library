@@ -1,5 +1,6 @@
 ---
 name: Saint Christina of Markyate
+stub: false
 honorific: Saint
 summary: >-
   Born to the Anglo-Saxon nobility, the daughter of Autti, a rich and influential guild merchant. At age 15 she visited

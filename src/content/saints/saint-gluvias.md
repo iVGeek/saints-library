@@ -1,6 +1,7 @@
 ---
 image: https://www.catholic.org/files/images/saints/3577.jpg
 name: Saint Gluvias
+stub: false
 honorific: Saint
 summary: >-
   Brother of Saint Cadoc of Llancarfan; may have been the nephew of Saint Petroc. Monk. Sent to Cornwall by Cadoc, he

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Valeria
+stub: true
 honorific: Saint
 summary: Martyred in the persecutions of Valerian.
 deathYear: 257

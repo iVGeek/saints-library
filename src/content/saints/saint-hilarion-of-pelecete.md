@@ -1,5 +1,6 @@
 ---
 name: Saint Hilarion of Pelecete
+stub: false
 honorific: Saint
 summary: >-
   Eighth-century hegumen (abbot) of the Pelecete Abbey on Mount Olympus, Bithynia, Greece. Persecuted for defending the

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Venerable Sebastià Gili Vives
+stub: false
 honorific: Venerable
 summary: >-
   Born to a farm family, the third son of Miquel Gili i Literas and Antònia Vives i Artigues. Ordained a diocesan priest

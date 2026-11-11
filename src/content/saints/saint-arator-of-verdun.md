@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/7/7e/55_VERDUN_Cathedrale%2BCloitre.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Arator of Verdun
+stub: true
 honorific: Saint
 summary: Fourth bishop of Verdun, France.
 deathYear: 460

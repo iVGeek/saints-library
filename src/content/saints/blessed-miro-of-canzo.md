@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Miro of Canzo
+stub: false
 honorific: Blessed
 summary: >-
   As a young man, Miro gave all that he owned to the poor and retired to live as a hermit around Lake Como, first near

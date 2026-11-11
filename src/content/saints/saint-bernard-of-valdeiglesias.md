@@ -1,6 +1,7 @@
 ---
 image: https://www.catholic.org/files/images/saints/1764.jpg
 name: Saint Bernard of Valdeiglesias
+stub: true
 honorific: Saint
 summary: Benedictine Cistercian monk.
 searchAliases:

@@ -1,5 +1,6 @@
 ---
 name: Blessed Giovanni Maria Boccardo
+stub: false
 honorific: Blessed
 summary: >-
   Eldest of ten children born to Gasparo Boccardo and Giuseppina Malerba; his was a pious family - he was baptized at

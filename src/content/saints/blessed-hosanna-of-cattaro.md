@@ -1,5 +1,6 @@
 ---
 name: Blessed Hosanna of Cattaro
+stub: false
 honorific: Blessed
 summary: >-
   Born to Greek Orthodox parents, and baptized in that tradition. She was a shepherdess in her youth, spending her

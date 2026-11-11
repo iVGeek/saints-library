@@ -1,5 +1,6 @@
 ---
 name: Blessed Jerome de Angelis
+stub: false
 honorific: Blessed
 summary: >-
   Jesuit priest. Sailed as a missionary to Japan shortly after ordination, but due to a series of problems, took six

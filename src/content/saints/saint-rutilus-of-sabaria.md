@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Rutilus of Sabaria
+stub: true
 honorific: Saint
 summary: One of a group of martyrs, and the only one whose name has come down to us.
 died: martyred in Sabaria, Pannonia (in modern Hungary)

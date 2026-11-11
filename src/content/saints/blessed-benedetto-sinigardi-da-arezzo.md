@@ -1,5 +1,6 @@
 ---
 name: Blessed Benedetto Sinigardi da Arezzo
+stub: true
 honorific: Blessed
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Benedetto-Sinigardi-da-Arezzo.jpg
 searchAliases:

@@ -1,5 +1,6 @@
 ---
 name: Blessed Matías Cardona-Meseguer
+stub: false
 honorific: Blessed
 summary: >-
   Son of  Narciso Cardona and Domenica Meseguer. Soldier. Joined the Piarists on 25 June 1929, and made his solemn

@@ -1,5 +1,6 @@
 ---
 name: Saint Albinus of Lyon
+stub: false
 honorific: Saint
 summary: Bishop of Lyon, France from 381 to 390. Built the Saint Stephen Cathedral there.
 searchAliases:

@@ -1,5 +1,6 @@
 ---
 name: Blessed Ioannes Kisaku
+stub: true
 honorific: Blessed
 summary: Jesuit novice. Martyr.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Giovanni-Battista-Zola.jpg

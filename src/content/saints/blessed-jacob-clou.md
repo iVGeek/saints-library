@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Jacob Clou
+stub: false
 honorific: Blessed
 summary: >-
   Premonstratensian monk. Canon of the Saint Nicholas monastery in Veurne, Belgium. Cured of a fever by participating in

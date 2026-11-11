@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Gordian of Pontus
+stub: true
 honorific: Saint
 summary: Martyred with several unnamed companions.
 feastDay:

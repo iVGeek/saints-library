@@ -1,5 +1,6 @@
 ---
 name: Saint Abbo of Fleury
+stub: false
 honorific: Saint
 summary: >-
   Benedictine monk, taking the habit and coming of age at Saint Beno&icirc;t-sur-Loire monastery, Fleury-sur-Loire,

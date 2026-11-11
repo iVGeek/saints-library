@@ -1,5 +1,6 @@
 ---
 name: Saint Martin of the Ascension
+stub: false
 honorific: Saint
 summary: >-
   Studied in Alcala, Spain. Joined the Franciscans in 1586. Priest. Loved to sing. Missionary to Mexico. Missionary to

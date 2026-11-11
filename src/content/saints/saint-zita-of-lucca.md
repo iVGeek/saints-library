@@ -1,5 +1,6 @@
 ---
 name: Saint Zita of Lucca
+stub: false
 honorific: Saint
 title: St. Zita of Lucca
 summary: >-

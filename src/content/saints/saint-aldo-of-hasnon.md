@@ -1,5 +1,6 @@
 ---
 name: Saint Aldo of Hasnon
+stub: false
 honorific: Saint
 summary: >-
   Count of Ostrevant, an area of modern northern France. Monk and then abbot of the Benedictine monastery in Hasnon,

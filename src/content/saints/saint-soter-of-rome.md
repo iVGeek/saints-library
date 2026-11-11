@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Soter of Rome
+stub: false
 honorific: Saint
 summary: Young woman martyred for refusing to sacrifice to idols. Related to Saint Ambrose of Milan who wrote about her.
 searchAliases:

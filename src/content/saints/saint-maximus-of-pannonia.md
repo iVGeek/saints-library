@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Maximus of Pannonia
+stub: true
 honorific: Saint
 summary: Fourth century martyr. No other information has survived.
 feastDay:

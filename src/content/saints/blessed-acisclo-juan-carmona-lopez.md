@@ -1,5 +1,6 @@
 ---
 name: Blessed Acisclo Juan Carmona López
+stub: true
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Annals_of_the_artists_of_Spain_%28IA_annalsofartistso04stir%29.pdf/page1-960px-Annals_of_the_artists_of_Spain_%28IA_annalsofartistso04stir%29.pdf.jpg
 honorific: Blessed

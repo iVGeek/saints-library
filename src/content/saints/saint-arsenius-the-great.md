@@ -1,5 +1,6 @@
 ---
 name: Saint Arsenius the Great
+stub: false
 honorific: Saint
 summary: >-
   Born to a wealthy Roman noble family. Deacon. Tutor to the sons of Emperor Theodosius the Great c.383. About 395 he

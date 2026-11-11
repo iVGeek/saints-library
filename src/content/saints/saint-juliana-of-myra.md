@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Juliana of Myra
+stub: true
 honorific: Saint
 summary: Martyr.
 died: at Myra, Lycia

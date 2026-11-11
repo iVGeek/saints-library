@@ -1,5 +1,6 @@
 ---
 name: Blessed Pío Conde y Conde
+stub: false
 honorific: Blessed
 summary: >-
   Baptized at the age of one day. Member of the Salesians of Don Bosco, beginning his novitiate in Sarrià-Barcelona,

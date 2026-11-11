@@ -1,6 +1,7 @@
 ---
 image: https://upload.wikimedia.org/wikipedia/commons/Tremezzo%20-%20Villa%20Carlotta%200789.JPG
 name: Saint Domnina
+stub: false
 honorific: Saint
 summary: Mother of Saint Domnina and Saint Berenice. Martyred in the persecutions of Diocletian.
 deathYear: 303

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Marcia the Martyr
+stub: true
 honorific: Saint
 summary: One of a group of martyrs. No other information has survived.
 died: martyred in North Africa, date unknown

@@ -1,5 +1,6 @@
 ---
 name: Anthony of Padua
+stub: false
 honorific: Saint
 title: Franciscan Priest, Doctor of the Church
 summary: A Franciscan friar and gifted preacher known as the "Hammer of Heretics" and, above all, as the patron of lost items.

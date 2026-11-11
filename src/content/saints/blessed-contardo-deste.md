@@ -1,5 +1,6 @@
 ---
 name: Blessed Contardo d'Este
+stub: false
 honorific: Blessed
 summary: >-
   Eldest son in a family of Italian nobility, he gave up wealth and the world for piety and poverty, and died while on

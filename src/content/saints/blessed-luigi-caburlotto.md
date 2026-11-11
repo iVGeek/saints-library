@@ -1,5 +1,6 @@
 ---
 name: Blessed Luigi Caburlotto
+stub: false
 honorific: Blessed
 summary: >-
   Son of a Venetian gondolier. Parish priest in the archdiocese of Venice, Italy, ordained on 24 September 1842. Worked

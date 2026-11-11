@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Secundinus of Cirta
+stub: true
 honorific: Saint
 summary: Priest. Martyr.
 deathYear: 259

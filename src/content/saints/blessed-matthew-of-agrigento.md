@@ -1,5 +1,6 @@
 ---
 name: Blessed Matthew of Agrigento
+stub: false
 honorific: Blessed
 summary: >-
   Matthew was a Franciscan friar, joining the Order in 1391 at the convent of Saint Francis of Assisi in Agrigento,

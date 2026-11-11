@@ -1,5 +1,6 @@
 ---
 name: Saint Felix of Gerona
+stub: false
 honorific: Saint
 summary: >-
   Missionary. Martyred in the persecutions of Maximian Herculeus and Prefect Dacianus. The Christian poet Prudentius

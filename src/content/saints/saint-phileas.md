@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Phileas
+stub: true
 honorific: Saint
 summary: Rural bishop in Egypt. Martyred in the persecutions of Maximian Galerius.
 died: early 4th century in Egypt

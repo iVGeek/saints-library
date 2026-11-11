@@ -1,5 +1,6 @@
 ---
 name: Saint Sicarius of Brantôme
+stub: true
 honorific: Saint
 summary: One of the Holy Innocents who died by order of King Herod.
 image: https://commons.wikimedia.org/wiki/Special:FilePath/Montagrier_%25C3%25A9glise_vitrail_%25283%2529.JPG?width=600

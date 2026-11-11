@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed William Boyton
+stub: true
 honorific: Blessed
 summary: Jesuit priest. One of the Irish Martyrs.
 deathYear: 1647

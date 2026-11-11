@@ -1,5 +1,6 @@
 ---
 name: Saint Alexander of Fiesole
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Fiesole, Italy. Defended the rights and authority of the Church against the kings of Lombardy. When he

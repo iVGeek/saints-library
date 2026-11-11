@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Sebastian de Burgherre
+stub: false
 honorific: Blessed
 summary: >-
   Mercedarian friar at the convent of Montpellier, France. Sent to Africa to ransom Christians who had been enslaved by

@@ -1,5 +1,6 @@
 ---
 name: Blessed Francisca de Amézua Ibaibarriaga
+stub: false
 honorific: Blessed
 summary: >-
   Raised in a pious Christian household. Member of the Carmelite Sisters of Charity, beginning her novitiate on 16

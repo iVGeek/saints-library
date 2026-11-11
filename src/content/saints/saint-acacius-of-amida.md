@@ -1,5 +1,6 @@
 ---
 name: Saint Acacius of Amida
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Amida, Mesopotamia (modern Diyarbakir, Turkey). Noted for his work with, and charity to Persian prisoners of

@@ -1,5 +1,6 @@
 ---
 name: Saint Paulus Liu Jinde
+stub: false
 honorific: Venerable
 summary: >-
   Married layman in the apostolic vicariate of Southeastern Zhili, China. During the persecutions of the Boxer

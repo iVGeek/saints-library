@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Lucanus of Lagny
+stub: true
 honorific: Saint
 summary: Martyr.
 died: 5th-century in Lagny, France where his relics are enshrined

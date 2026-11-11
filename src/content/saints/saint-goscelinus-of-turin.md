@@ -1,5 +1,6 @@
 ---
 name: Saint Goscelinus of Turin
+stub: false
 honorific: Saint
 summary: >-
   Born to the Italian nobility. Benedictine monk in 1006 at the San Solutore Abbey near Turin, Italy soon after its

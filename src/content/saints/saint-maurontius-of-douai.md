@@ -1,5 +1,6 @@
 ---
 name: Saint Maurontius of Douai
+stub: false
 honorific: Saint
 summary: >-
   Eldest son of Saint Adalbald of Ostrevant and Saint Rictrudis of Marchiennes; brother of Saint Clotsindis of

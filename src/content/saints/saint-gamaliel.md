@@ -1,5 +1,6 @@
 ---
 name: Saint Gamaliel
+stub: false
 honorific: Saint
 summary: >-
   First century Jewish Talmudic scholar. Teacher of Saint Paul the Apostle. In Acts 5:34-39 we read that his counsel

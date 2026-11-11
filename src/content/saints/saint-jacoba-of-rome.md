@@ -1,5 +1,6 @@
 ---
 name: Saint Jacoba of Rome
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility, the sister of the Duke of Apulia. To avoid marriage and live a life devoted to God, she

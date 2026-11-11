@@ -1,5 +1,6 @@
 ---
 name: Venerable Anne de Xainctonge
+stub: false
 honorific: Venerable
 summary: >-
   Born to the wealthy French nobility, the eldest daughter of Jean de Xainctonge, a member of the Dijon Parliament, and

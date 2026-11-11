@@ -1,5 +1,6 @@
 ---
 name: Saint Esicius of Antioch
+stub: true
 honorific: Saint
 summary: Martyr.
 searchAliases:

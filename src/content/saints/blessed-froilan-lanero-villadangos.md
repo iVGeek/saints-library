@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Froilán Lanero Villadangos
+stub: true
 honorific: Blessed
 summary: Augustinian priest. Martyred in the Spanish Civil War.
 birthYear: 1910

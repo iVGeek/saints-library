@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Polocronius of Africa
+stub: true
 honorific: Saint
 summary: One of a group of thirteen African martyrs. No other information has survived.
 region: Africa

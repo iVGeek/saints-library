@@ -1,5 +1,6 @@
 ---
 name: Saint Abram of Bavaria
+stub: false
 honorific: Saint
 summary: Spiritual student of Saint Romedio of Nonsberg. No other information has survived.
 searchAliases:

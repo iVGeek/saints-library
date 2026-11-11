@@ -1,5 +1,6 @@
 ---
 name: Saint Papias of Hierapolis
+stub: false
 honorific: Saint
 summary: >-
   Second century Apostolic Father. Friend of Saint Polycarp of Smyrna. Bishop of Hierapolis, Phrygia (in modern Turkey).

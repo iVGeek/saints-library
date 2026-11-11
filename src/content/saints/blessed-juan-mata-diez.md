@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/0/08/Roma_martires_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Juan Mata Díez
+stub: true
 honorific: Blessed
 summary: Layman in the diocese of Burgos, Spain. Martyred in the Spanish Civil War.
 birthYear: 1903

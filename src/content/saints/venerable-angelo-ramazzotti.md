@@ -1,5 +1,6 @@
 ---
 name: Venerable Angelo Ramazzotti
+stub: false
 honorific: Venerable
 summary: >-
   Received a doctorate in civil law. Priest, ordained on 13 June 1829. Member of the Order of the Oblate Missionaries of

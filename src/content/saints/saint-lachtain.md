@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Lachtain
+stub: true
 honorific: Saint
 summary: All details about his life have been lost.
 region: Ireland

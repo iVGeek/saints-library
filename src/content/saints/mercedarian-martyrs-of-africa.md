@@ -1,5 +1,6 @@
 ---
 name: Mercedarian Martyrs of Africa
+stub: false
 honorific: Saint
 summary: >-
   A group of Mercedarian monks sailing to Africa as on a mission to redeem capture Christians. Captured by Moors, they

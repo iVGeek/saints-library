@@ -1,5 +1,6 @@
 ---
 name: Saint Abraham of Persia
+stub: false
 honorific: Saint
 summary: >-
   Convert. Denounced for suspected treasonous collaboration with Roman authorities and Christianity in general, he was

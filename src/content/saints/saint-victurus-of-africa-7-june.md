@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Victurus of Africa
+stub: true
 honorific: Saint
 summary: Martyr. No other information has survived.
 died: unknown location in Africa, date unknown

@@ -1,5 +1,6 @@
 ---
 name: Saint Giles
+stub: false
 honorific: Saint
 summary: >-
   Born to a wealthy noble family, when his parents died, Giles gave his fortune to help the poor. Known as a miracle

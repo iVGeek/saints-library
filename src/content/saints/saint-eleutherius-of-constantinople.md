@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Eleutherius of Constantinople
+stub: true
 honorific: Saint
 summary: Martyr. No other information has survived.
 died: burned to death in Constantinople, date unknown

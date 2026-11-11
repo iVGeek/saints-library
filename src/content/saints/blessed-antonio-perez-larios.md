@@ -1,5 +1,6 @@
 ---
 name: Blessed Antonio Pérez Lários
+stub: true
 honorific: Blessed
 summary: Layman. Martyred in the anti-Catholic persecutions of the Mexican Revolution.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Antonio-Perez-Larios.jpg

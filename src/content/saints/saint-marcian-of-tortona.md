@@ -1,5 +1,6 @@
 ---
 name: Saint Marcian of Tortona
+stub: false
 honorific: Saint
 summary: >-
   Convert, brought to the faith by Saint Barnabas the Apostle. Evangelist in and first bishop of Tortona, Italy where he

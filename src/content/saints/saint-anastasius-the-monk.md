@@ -1,5 +1,6 @@
 ---
 name: Saint Anastasius the Monk
+stub: false
 honorific: Saint
 summary: >-
   Friend and spiritual student of Saint Acacius. Monk. Imprisoned and exiled for failure to adopt the Monothelite

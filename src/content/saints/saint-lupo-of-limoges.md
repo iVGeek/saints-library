@@ -1,5 +1,6 @@
 ---
 name: Saint Lupo of Limoges
+stub: true
 honorific: Saint
 summary: Priest. Bishop of Limoges, France. Helped found the monastery of Solesme.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Lupus-of-Limoges.jpg

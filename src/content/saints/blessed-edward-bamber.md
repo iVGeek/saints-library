@@ -1,5 +1,6 @@
 ---
 name: Blessed Edward Bamber
+stub: false
 honorific: Blessed
 summary: >-
   Studied at the seminary of Saint Omer, and at the English College of Saint Gregory in Seville, Spain. Ordained in

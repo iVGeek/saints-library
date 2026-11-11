@@ -1,5 +1,6 @@
 ---
 name: Blessed José González Ramos Campos
+stub: false
 honorific: Blessed
 summary: >-
   Franciscan Capuchin friar, joining in Andalusia, Spain on 24 June 1896, and making his professed on 11 July 1897.

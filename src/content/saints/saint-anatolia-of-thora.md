@@ -1,5 +1,6 @@
 ---
 name: Saint Anatolia of Thora
+stub: false
 honorific: Saint
 summary: >-
   Beautiful Roman Christian noblewoman. Sister of Saint Victoria. The two sisters were set for arranged marriages to

@@ -1,5 +1,6 @@
 ---
 name: Blessed Augustin-Joseph Desgardin
+stub: false
 honorific: Blessed
 summary: >-
   Trappist monk at Sept-Fons abbey. When it was suppressed in September 1791 by the anti-Christian forces of the French

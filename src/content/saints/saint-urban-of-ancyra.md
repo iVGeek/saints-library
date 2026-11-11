@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Urban of Ancyra
+stub: false
 honorific: Saint
 summary: >-
   Son of Saint Gaius of Ancyra; brother of Saint Probus and Saint Lollia; great-nephew of Saint Eustochius. Raised a

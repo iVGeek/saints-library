@@ -1,5 +1,6 @@
 ---
 name: Saint Fragan
+stub: false
 honorific: Saint
 summary: >-
   Married to Saint Gwen. Father of Saint Winwallus, Saint Jacut, and Saint Guithern. Forced to flee Britain in the 5th

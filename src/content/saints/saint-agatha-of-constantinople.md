@@ -1,5 +1,6 @@
 ---
 name: Saint Agatha of Constantinople
+stub: false
 honorific: Saint
 summary: One of a group of martyred convert to Christianity, possibly in the persecutions of Maximinus.
 searchAliases:

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/6/6f/Valladolid_Portada_Convento_san_Francisco_Ventura_P%C3%A9rez_lou.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Antonio Sierra Leyva
+stub: false
 honorific: Blessed
 summary: Member of the Servants of the Divine Child Mary. Priest. Martyred in the Spanish Civil War.
 birthYear: 1876

@@ -1,5 +1,6 @@
 ---
 name: Blessed Carlos Díaz Gandía
+stub: false
 honorific: Blessed
 summary: >-
   Lifelong layman in the archdiocese of Valencia, Spain, baptized at the age of one day. Member of Youth Catholic Action

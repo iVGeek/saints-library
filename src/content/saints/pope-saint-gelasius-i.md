@@ -1,5 +1,6 @@
 ---
 name: Pope Saint Gelasius I
+stub: false
 honorific: Saint
 summary: >-
   Son of an African immigrant named Valerius. Priest. Pope. Known for his learning, charity, and sense of justice.

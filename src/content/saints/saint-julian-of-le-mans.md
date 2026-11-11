@@ -1,5 +1,6 @@
 ---
 name: Saint Julian of Le Mans
+stub: false
 honorific: Saint
 summary: >-
   Born to the Roman nobility. First bishop of Cenomanum (modern Le Mans, France). Evangelized around Le Mans, an area

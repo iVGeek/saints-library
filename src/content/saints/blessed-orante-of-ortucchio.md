@@ -1,5 +1,6 @@
 ---
 name: Blessed Orante of Ortucchio
+stub: false
 honorific: Blessed
 summary: >-
   A monk who made pilgrimages to holy sites and lived on alms; we don't know his real name. When passing through

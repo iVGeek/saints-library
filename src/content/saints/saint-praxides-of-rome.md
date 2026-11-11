@@ -1,5 +1,6 @@
 ---
 name: Saint Praxides of Rome
+stub: false
 honorific: Saint
 summary: >-
   Daughter of a Senator Pudens and Saint Claudia of Rome; sister of Saint Prudentiana. Lifelong single lay woman. She

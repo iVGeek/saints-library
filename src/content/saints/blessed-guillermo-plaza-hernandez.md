@@ -1,5 +1,6 @@
 ---
 name: Blessed Guillermo Plaza Hernández
+stub: false
 honorific: Blessed
 summary: >-
   Studied in the seminary of Toledo, Spain. Joined the Diocesan Laborer Priests of the Sacred Heart of Jesus on 11

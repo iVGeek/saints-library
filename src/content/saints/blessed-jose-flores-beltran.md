@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/5/53/Mexico_city_Insigne_y_Nacional_Bas%C3%ADlica_de_Santa_Mar%C3%ADa_de_Guadalupe.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed José Flores Beltrán
+stub: false
 honorific: Blessed
 summary: >-
   Ordained a priest in the diocese of Almería, Spain in December 1899. he served over 30 years in the parish of Cuevas

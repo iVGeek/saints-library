@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Severin of Paris
+stub: true
 honorific: Saint
 title: Hermit
 summary: Sixth-century hermit who lived in a cell in Paris, France.

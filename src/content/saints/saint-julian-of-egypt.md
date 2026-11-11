@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Julian of Egypt
+stub: false
 honorific: Saint
 summary: >-
   Leader of a group of martyrs, some or all of whom may have been imperial soldiers. The dates are unknown, and none of

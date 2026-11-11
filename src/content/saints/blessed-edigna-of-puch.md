@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/d/d7/Edigna_St-Sebastian_Langhaus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Edigna of Puch
+stub: true
 honorific: Blessed
 birthYear: 1055
 deathYear: 1109

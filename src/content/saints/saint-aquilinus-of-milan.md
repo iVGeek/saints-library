@@ -1,5 +1,6 @@
 ---
 name: Saint Aquilinus of Milan
+stub: false
 honorific: Saint
 summary: >-
   Priest. Offered the diocese in Cologne, Germany, but turned it down to become a wandering preacher, travelling to

@@ -1,5 +1,6 @@
 ---
 name: Saint Priscus of Nocera
+stub: false
 honorific: Saint
 summary: Early bishop of Nocera, Italy. Martyr. Saint Paulinus of Nola wrote a poem in praise of him.
 image: https://commons.wikimedia.org/wiki/Special:FilePath/SanPrisco.png?width=600

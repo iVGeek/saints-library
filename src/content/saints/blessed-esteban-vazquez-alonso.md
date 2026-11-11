@@ -1,5 +1,6 @@
 ---
 name: Blessed Esteban Vázquez Alonso
+stub: false
 honorific: Blessed
 summary: >-
   Baptized at the age of three days. As a young man, he was drawn to religious life, and member of the Salesians of Don

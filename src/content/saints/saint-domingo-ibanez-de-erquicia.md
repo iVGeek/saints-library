@@ -1,5 +1,6 @@
 ---
 name: Saint Domingo Ibáñez de Erquicia
+stub: false
 honorific: Venerable
 summary: >-
   Joined the Dominicans in 1605. Priest. Missionary to Pangasinan, Philippines in 1611. Taught theology at the Colegio

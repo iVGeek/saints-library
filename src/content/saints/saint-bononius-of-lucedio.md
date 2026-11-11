@@ -1,5 +1,6 @@
 ---
 name: Saint Bononius of Lucedio
+stub: false
 honorific: Saint
 summary: >-
   Benedictine monk at the Abbey of San Esteban in , Italy. Hermit near Cairo, Egypt, and then on Mount Sinai; even the

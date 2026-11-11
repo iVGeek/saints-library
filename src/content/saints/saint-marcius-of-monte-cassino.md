@@ -1,5 +1,6 @@
 ---
 name: Saint Marcius of Monte Cassino
+stub: false
 honorific: Saint
 summary: >-
   Born to the Italian nobility. Hermit on Monte Cassino when Saint Benedict arrived to start his abbey; the two fasted

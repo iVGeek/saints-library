@@ -1,5 +1,6 @@
 ---
 name: Saint Severus of Naples
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Naples, Italy from 363 to 409. Friend of Saint Ambrose of Milan. Built four basilicas and other churches.

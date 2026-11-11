@@ -1,5 +1,6 @@
 ---
 name: Saint Arnulf of Metz
+stub: false
 honorific: Saint
 summary: >-
   Courtier and advisor of Austrasian King Theodebert II. Soldier. Married the Lady Doda. Father. From his son Ansegisel

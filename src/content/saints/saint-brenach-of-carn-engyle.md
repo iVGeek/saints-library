@@ -1,5 +1,6 @@
 ---
 name: Saint Brenach of Carn-Engyle
+stub: false
 honorific: Saint
 summary: >-
   Contemporary of Saint Patrick. Fifth-century missionary to Wales. Converted a large part of Wales, including Brecan,

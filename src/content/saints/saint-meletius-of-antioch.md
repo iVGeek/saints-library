@@ -1,5 +1,6 @@
 ---
 name: Saint Meletius of Antioch
+stub: false
 honorific: Saint
 summary: >-
   Born to a wealthy and prominent family. Bishop of Sebaste, Armenia (modern Sivas, Turkey) in 358 following the

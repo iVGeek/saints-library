@@ -1,5 +1,6 @@
 ---
 name: Saint William of Dijon
+stub: false
 honorific: Saint
 summary: >-
   Born to the Italian nobility, the son of Count Robert of Volpiano. Born during a battle in which his father defended

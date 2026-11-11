@@ -1,5 +1,6 @@
 ---
 name: Blessed Julian of Saint Augustine
+stub: false
 honorific: Blessed
 summary: >-
   Tailor's apprentice in youth. Briefly admitted to the Franciscan monastery at Medinaceli, Spain, but was dismissed as

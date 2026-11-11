@@ -1,5 +1,6 @@
 ---
 name: Saint Sabinus of Piacenza
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Piacenza, Italy. Friend of Saint Ambrose of Milan, he regularly read and commented on the first draft of

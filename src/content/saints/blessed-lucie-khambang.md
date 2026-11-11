@@ -1,5 +1,6 @@
 ---
 name: Blessed Lucie Khambang
+stub: false
 honorific: Blessed
 summary: >-
   Daughter of James and Mary Dam May Li; baptized on 10 March 1917, Confirmed and received her first Communion on 4 June

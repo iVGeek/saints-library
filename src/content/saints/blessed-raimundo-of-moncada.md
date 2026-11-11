@@ -1,5 +1,6 @@
 ---
 name: Blessed Raimundo of Moncada
+stub: false
 honorific: Blessed
 summary: >-
   Born to the Spanish nobility, Raimondo was a knight who fought against the invading Saracen Moors to defend

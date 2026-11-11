@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/6/66/1-pasquino.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Martial of Tomi
+stub: true
 honorific: Saint
 summary: Martyr.
 died: Tomi (Tomes, Tomis), Pontus Euxinus (modern Constanta, Romania)

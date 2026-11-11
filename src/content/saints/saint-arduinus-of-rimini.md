@@ -1,5 +1,6 @@
 ---
 name: Saint Arduinus of Rimini
+stub: false
 honorific: Saint
 summary: >-
   Spiritual student of Venerio, rector of the church of San Gregorio in Rimini, Italy. Priest in Rimini, ordained by

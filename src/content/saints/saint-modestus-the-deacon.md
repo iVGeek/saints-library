@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/4d/Modestus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Modestus the Deacon
+stub: true
 honorific: Saint
 summary: Deacon. Martyred in the persecutions of Diocletian.
 deathYear: 304

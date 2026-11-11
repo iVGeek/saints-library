@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/5/53/1899._Tzarevich_Dmitry_by_M._Nesterov.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Thomas Kajiya Yoemon
+stub: false
 honorific: Blessed
 summary: Child in the Kyoto, Japan, the son of Blessed Anna Kajiya. One of the Martyrs of Kyoto.
 deathYear: 1619

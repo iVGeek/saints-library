@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Masona of Mérida
+stub: false
 honorific: Saint
 summary: >-
   Born to the Gothic nobility, Masona was educated at the monastery affiliated with the Basilica of Saint Eulalia in

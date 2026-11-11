@@ -1,5 +1,6 @@
 ---
 name: Blessed Lambert Trouvez
+stub: false
 honorific: Blessed
 summary: >-
   Richard worked as a tailor in Brussels, Belgium until he gave into a call to religious life and became a Franciscan

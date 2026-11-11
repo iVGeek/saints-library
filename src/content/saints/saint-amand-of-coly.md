@@ -1,5 +1,6 @@
 ---
 name: Saint Amand of Coly
+stub: false
 honorific: Saint
 summary: Founder and first abbot of Saint-Amand de Coly monastery, diocese of Limoges, France.
 searchAliases:

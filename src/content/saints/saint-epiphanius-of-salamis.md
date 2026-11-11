@@ -1,5 +1,6 @@
 ---
 name: Saint Epiphanius of Salamis
+stub: false
 honorific: Saint
 summary: >-
   A Hellenized Jew, and convert to Christianity. Fluent in five languages, and extensively studied in theology and the

@@ -1,5 +1,6 @@
 ---
 name: Saint Vitus
+stub: false
 honorific: Saint
 summary: >-
   Legend says that Vitus was the son of a pagan Sicilian senator named Hylas. The boy was converted to Christianity at

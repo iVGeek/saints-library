@@ -1,5 +1,6 @@
 ---
 name: Saint Bandaridus of Soissons
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Soissons, France in 540. Founded at monastery at Crépin, France. Exiled from his see, he worked as a

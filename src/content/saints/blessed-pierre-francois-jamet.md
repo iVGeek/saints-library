@@ -1,5 +1,6 @@
 ---
 name: Blessed Pierre-François Jamet
+stub: false
 honorific: Blessed
 summary: >-
   One of eight children born to a wealthy farm family. Studied at the College of Vire, then the University of Caen.

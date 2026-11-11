@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Veremundus of Irache
+stub: false
 honorific: Saint
 summary: >-
   Monk. Abbot of Irache Abbey in Ayegui, Spain. Counselor to King Sancho Garcés IV of Navarre and King Sancho Ramírez of

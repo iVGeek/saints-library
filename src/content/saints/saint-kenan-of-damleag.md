@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Kenan of Damleag
+stub: false
 honorific: Saint
 summary: >-
   Descended from the royalty of Munster. In his youth, Kenan was one of fifty hostages given to King Leogair by the

@@ -1,5 +1,6 @@
 ---
 name: Saint Paulus Wu Anju
+stub: false
 honorific: Venerable
 summary: >-
   Married layman in the apostolic vicariate of Southeastern Zhili, China. Father of Saint Ioannes Baptista Wu Mantang;

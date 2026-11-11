@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/d/da/Waldenser-Wappen.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Patto of Werden
+stub: true
 honorific: Saint
 summary: Abbot of a monastery in Saxony. Bishop of Werden, Germany.
 searchAliases:

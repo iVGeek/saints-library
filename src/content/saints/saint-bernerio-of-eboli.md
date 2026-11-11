@@ -1,5 +1,6 @@
 ---
 name: Saint Bernerio of Eboli
+stub: false
 honorific: Saint
 title: Hermit
 summary: Pilgrim to all the major shrines in Spain and then in Rome, Italy. Cave hermit in Eboli, Salerno, Italy.

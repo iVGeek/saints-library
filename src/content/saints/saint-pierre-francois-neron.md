@@ -1,5 +1,6 @@
 ---
 name: Saint Pierre-François Néron
+stub: false
 honorific: Venerable
 summary: >-
   Fith of nine children. Studied in seminaries in Nozeroy and Vaux-sur-Poligny, France. Member of the Paris Foreign

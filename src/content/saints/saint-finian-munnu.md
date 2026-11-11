@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Finian Munnu
+stub: false
 honorific: Saint
 summary: >-
   Member of the noble Ui Neill clan. Monk and spiritual student of Saint Columba and Saint Seenell at Cluain Inis,

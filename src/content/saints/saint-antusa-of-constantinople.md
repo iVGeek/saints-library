@@ -1,5 +1,6 @@
 ---
 name: Saint Antusa of Constantinople
+stub: false
 honorific: Saint
 summary: >-
   Born a princess, the daughter of the inconoclastic Emperor Konstantinos Kopronimos and Empress Irene; her twin brother

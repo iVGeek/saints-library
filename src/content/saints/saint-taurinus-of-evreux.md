@@ -1,5 +1,6 @@
 ---
 name: Saint Taurinus of Evreux
+stub: false
 honorific: Saint
 summary: >-
   Evangelist in Milan, Italy. First bishop of Evreux, Normandy (in modern France) c.385. Fought against the pagan

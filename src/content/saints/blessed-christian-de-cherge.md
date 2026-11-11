@@ -1,5 +1,6 @@
 ---
 name: Blessed Christian de Chergé
+stub: false
 honorific: Blessed
 summary: >-
   Born to an aristocratic French family with a military tradition; his father, a general, was the commander of the 67th

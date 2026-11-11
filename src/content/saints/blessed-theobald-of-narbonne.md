@@ -1,5 +1,6 @@
 ---
 name: Blessed Theobald of Narbonne
+stub: false
 honorific: Blessed
 summary: >-
   Mercedarian friar. Worked with Saint Ferdinand of Portalegre. In 1253 the two sailed from Barcelona, Spain to Tunis in

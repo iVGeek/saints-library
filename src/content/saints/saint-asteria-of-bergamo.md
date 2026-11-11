@@ -1,5 +1,6 @@
 ---
 name: Saint Asteria of Bergamo
+stub: false
 honorific: Saint
 summary: >-
   Sister of Saint Grata of Bergamo. Worked to provide Christian burial for martyrs. Executed by Diocletian for doing it.

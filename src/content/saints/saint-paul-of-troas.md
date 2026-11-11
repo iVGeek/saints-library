@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/4a/Fresco_of_Saint_Paul_at_Ephesus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Paul of Troas
+stub: false
 honorific: Saint
 summary: >-
   Christian imprisoned for refusing to sacrifice to pagan idols during the persecutions of Decius. After one night in

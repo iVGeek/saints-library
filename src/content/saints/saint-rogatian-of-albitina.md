@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Rogatian of Albitina
+stub: false
 honorific: Saint
 summary: >-
   Three members, all named Rogation, of a group of 46 Christians arrested in Albitina, North Africa during Mass, shipped

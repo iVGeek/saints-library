@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Hilary of Dijon
+stub: true
 honorific: Saint
 summary: Fifth century senator. Husband of Saint Quieta with whom he was martyred.
 died: 5th century Dijon, France

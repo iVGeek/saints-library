@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/e/eb/Paradiso_Canto_31_%28148200393%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Beatrice of Cochem
+stub: false
 honorific: Blessed
 summary: >-
   A Premonstratensian nun who lived her entire religious life in the monastery of Porta Angelica in Kochem,

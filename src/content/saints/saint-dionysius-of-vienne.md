@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Dionysius of Vienne
+stub: true
 honorific: Saint
 summary: Bishop of Vienne, France.
 searchAliases:

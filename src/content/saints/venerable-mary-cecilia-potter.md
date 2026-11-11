@@ -1,5 +1,6 @@
 ---
 name: Venerable Mary Cecilia Potter
+stub: false
 honorific: Venerable
 summary: >-
   The youngest of five children, her father deserted the family when Mary was still a toddler, and she never knew him.

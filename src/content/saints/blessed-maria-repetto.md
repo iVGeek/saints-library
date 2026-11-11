@@ -1,5 +1,6 @@
 ---
 name: Blessed Maria Repetto
+stub: false
 honorific: Blessed
 summary: >-
   Daughter of a notary, and the oldest of eleven children. It was a pious family - three of her sisters became nuns, one

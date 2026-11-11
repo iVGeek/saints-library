@@ -1,5 +1,6 @@
 ---
 name: Saint Pacian of Barcelona
+stub: false
 honorific: Saint
 summary: >-
   Married and a father; his son Dexter was high chamberlain to Emperor Theodosius. Bishop of Barcelona, Spain. Wrote on

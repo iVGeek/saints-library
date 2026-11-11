@@ -1,5 +1,6 @@
 ---
 name: Blessed Francisco Martín Fernández de Posadas
+stub: false
 honorific: Blessed
 summary: >-
   Decided young to be a priest, and at age 19 entered the Dominican novitiate. Noted preacher. Home missioner in western

@@ -1,5 +1,6 @@
 ---
 name: Saint Fortunatus
+stub: true
 honorific: Saint
 summary: One of a group of martyrs. No other information has survived.
 died: North Africa, date unknown

@@ -1,5 +1,6 @@
 ---
 name: Blessed Josep Maria Vidal Segú
+stub: false
 honorific: Blessed
 summary: >-
   Studied at convent schools in Solsona and Calanda, Spain. He joined the Dominicans, and was professed in the Order in

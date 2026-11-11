@@ -1,5 +1,6 @@
 ---
 name: Saint Erastus
+stub: false
 honorific: Saint
 summary: >-
   Treasurer of the city of Corinth, Greece. Convert, brought to the faith by Saint Paul the Apostle. Assisted Paul,

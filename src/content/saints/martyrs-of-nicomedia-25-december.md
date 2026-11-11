@@ -1,5 +1,6 @@
 ---
 name: Martyrs of Nicomedia
+stub: false
 honorific: Saint
 summary: >-
   20,000 Christians martyred by order of Diocletian. They were reported to have all been in the single basilica to

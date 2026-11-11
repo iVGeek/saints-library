@@ -1,5 +1,6 @@
 ---
 name: Saint Lea of Rome
+stub: false
 honorific: Saint
 summary: >-
   Born to the wealthy nobility, she lived and was married in Rome, Italy. Widow. She supported the house run by Saint

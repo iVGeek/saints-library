@@ -1,5 +1,6 @@
 ---
 name: Saint Cuthburgh of Wimborne
+stub: false
 honorific: Saint
 summary: >-
   Sister of King Ina of Wessex in England; sister of Saint Cwenburgh of Wimborne. Benedictine nun at Barking Abbey in

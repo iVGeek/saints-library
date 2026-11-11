@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Maximus of Illyria
+stub: true
 honorific: Saint
 summary: Sculptor. Stone-cutter who worked to build Christian churches. Martyr.
 died: drowned in a well

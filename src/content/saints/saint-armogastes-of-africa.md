@@ -1,5 +1,6 @@
 ---
 name: Saint Armogastes of Africa
+stub: false
 honorific: Saint
 summary: >-
   Servant of Theodoric, son of the Arian Vandal King Genseric. After Genseric renounced his Christianity and returned to

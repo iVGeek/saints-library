@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Dorotheus of Rome
+stub: false
 honorific: Saint
 summary: >-
   Executioner who killed Saint Marcellinus and Saint Peter the Exorcist; he saw their souls leave the bodies and ascend

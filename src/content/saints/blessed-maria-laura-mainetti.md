@@ -1,5 +1,6 @@
 ---
 name: Blessed Maria Laura Mainetti
+stub: false
 honorific: Blessed
 summary: >-
   Baptized in Villatico di Colico on 22 August 1939 at the age of 2 days. Sisters of the Cross nun, entering the

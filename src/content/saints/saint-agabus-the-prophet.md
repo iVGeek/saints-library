@@ -1,5 +1,6 @@
 ---
 name: Saint Agabus the Prophet
+stub: false
 honorific: Saint
 summary: >-
   Jewish convert. One of the 72 disciples sent out by Jesus to preach. Had the gift of prophecy, and predicted an

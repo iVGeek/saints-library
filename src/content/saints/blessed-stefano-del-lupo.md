@@ -1,5 +1,6 @@
 ---
 name: Blessed Stefano del Lupo
+stub: false
 honorific: Blessed
 summary: >-
   Benedictine monk at the San Liberatore monastery in Maiella mountains of Abruzzo Apennines, Italy. Feeling a call to a

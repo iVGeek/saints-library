@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/3/36/Domenico_di_Michelino_-_Dante_Illuminating_Florence_with_his_Poem_%28detail%29_-_WGA06423.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Quintius the Martyr
+stub: true
 honorific: Saint
 summary: One of a group of three sisters and a brother who were martyred together.
 died: Sorrento, Italy, date unknown

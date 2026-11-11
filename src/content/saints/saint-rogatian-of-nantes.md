@@ -1,5 +1,6 @@
 ---
 name: Saint Rogatian of Nantes
+stub: false
 honorific: Saint
 summary: >-
   Brother of Saint Donatian of Nantes. Arrested, torture, mutilated, and finally martyred in the persecutions of

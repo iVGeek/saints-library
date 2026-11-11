@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Aedh McLugack
+stub: true
 honorific: Saint
 summary: No information has survived.
 born: Irish

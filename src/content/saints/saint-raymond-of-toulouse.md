@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Raymond of Toulouse
+stub: false
 honorific: Saint
 summary: >-
   Married layman. Widower. Cantor, archdeacon and canon of Saint Sernin church in Toulouse, France. Helped rebuild the

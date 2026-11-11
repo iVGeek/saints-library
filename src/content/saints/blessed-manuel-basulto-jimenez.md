@@ -1,5 +1,6 @@
 ---
 name: Blessed Manuel Basulto Jiménez
+stub: false
 honorific: Blessed
 summary: >-
   Son of a miller. Seminarian in Avila, Spain in 1880. Ordained on 15 March 1893. Parish priest in Narros del Puerto,

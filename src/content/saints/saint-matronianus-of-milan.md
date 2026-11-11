@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Matronianus of Milan
+stub: true
 honorific: Saint
 summary: Hermit. No other information has survived.
 searchAliases:

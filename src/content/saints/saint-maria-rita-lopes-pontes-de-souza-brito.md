@@ -1,5 +1,6 @@
 ---
 name: Saint Maria Rita Lópes Pontes de Souza Brito
+stub: false
 honorific: Venerable
 summary: >-
   Nun in the Congregation of the Missionary Sisters of the Immaculate Conception. She founded the first Catholic

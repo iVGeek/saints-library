@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Marcian of Ravenna
+stub: true
 honorific: Saint
 summary: Bishop of Ravenna, Italy in 112.
 searchAliases:

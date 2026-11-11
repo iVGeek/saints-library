@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Colman Mac Ui Cluasigh of Cork
+stub: false
 honorific: Saint
 summary: >-
   7th-century professor and prayerful poet in Cork, Ireland. Led his students on a pilgrimage to a small island to save

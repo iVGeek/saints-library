@@ -1,5 +1,6 @@
 ---
 name: Saint Centolla of Burgos
+stub: false
 honorific: Saint
 summary: >-
   Daughter of a noble of Toledo, Spain who made a private vow of chastity and dedication to God. To escape the

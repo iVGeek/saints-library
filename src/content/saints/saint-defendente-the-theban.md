@@ -1,5 +1,6 @@
 ---
 name: Saint Defendente the Theban
+stub: false
 honorific: Saint
 summary: >-
   Christian soldier in the Theban Legion of the imperial Roman army. Martyred by emperor Maximian for refusing to

@@ -1,5 +1,6 @@
 ---
 name: Cecilia of Rome
+stub: false
 honorific: Saint
 title: Virgin, Martyr
 summary: >-

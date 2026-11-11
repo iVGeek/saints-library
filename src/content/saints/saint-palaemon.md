@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Palaemon of Thebaid
+stub: false
 honorific: Saint
 summary: >-
   During the persecutions of Diocletian, he sought refuge in the deserts of Upper Egypt, and became one of the earliest

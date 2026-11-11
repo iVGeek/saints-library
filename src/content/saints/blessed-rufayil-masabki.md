@@ -1,5 +1,6 @@
 ---
 name: Blessed Rufayil Masabki
+stub: false
 honorific: Blessed
 summary: >-
   Layman in the archeparchy of Damascus of the Maronites. Ordered by Druz Muslims to convert to Islam; he refused. One

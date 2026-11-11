@@ -1,5 +1,6 @@
 ---
 name: Venerable Ismael Perdomo Borrero
+stub: false
 honorific: Venerable
 summary: >-
   Ismael studied at the seminary in Bogotá, Colombia, and the Latin American Pontifical College in Rome, Italy where he

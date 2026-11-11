@@ -1,5 +1,6 @@
 ---
 name: Saint Lauto of Coutances
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Coutances, France in 528; he served for 40 years. Participated in the conclave of bishops in Angers, France

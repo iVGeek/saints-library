@@ -1,6 +1,7 @@
 ---
 image: https://www.santiebeati.it/immagini/Thumbs/94341/94341.JPG
 name: Blessed Giorgio Porta
+stub: false
 honorific: Blessed
 summary: >-
   Mercedarian monk. Commander of the San Lazzaro convent in Zaragoza, Spain. Ransomed many Christians enslaved by

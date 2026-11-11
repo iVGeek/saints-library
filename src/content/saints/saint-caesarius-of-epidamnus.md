@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Caesarius of Epidamnus
+stub: false
 honorific: Saint
 summary: One of the 72 disciples of Christ described in Acts. Bishop of Epidamnus (modern Durrës, Albania). Martyr.
 searchAliases:

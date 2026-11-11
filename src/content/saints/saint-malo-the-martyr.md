@@ -1,5 +1,6 @@
 ---
 name: Saint Malo the Martyr
+stub: false
 honorific: Saint
 summary: >-
   Layman. Soldier in a legion of Christian soldiers from Upper Egypt during the reign of Emperor Maximian Herculeus. The

@@ -1,5 +1,6 @@
 ---
 name: Blessed Klymentii Sheptytskyi
+stub: false
 honorific: Blessed
 summary: >-
   Greek Catholic. Younger brother of the Servant of God Metropolitan Roman Oleksandr Maria Sheptytskyi. Klymentii

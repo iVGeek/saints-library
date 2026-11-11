@@ -1,5 +1,6 @@
 ---
 name: Blessed Paul Favre-Miville
+stub: false
 honorific: Blessed
 summary: >-
   Paul worked as a plumber, then joined the army and served as a paratrooper officer in Algeria. In his 40's, Paul

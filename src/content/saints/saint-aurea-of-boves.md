@@ -1,5 +1,6 @@
 ---
 name: Saint Aurea of Boves
+stub: true
 honorific: Saint
 summary: Nun in Boves, Italy. Abbess of a large convent in Rouen, France.
 born: Amiens, France

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/0/07/Ordem_Vila_Vi%C3%A7osa_AEAColl.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Maria Ito
+stub: false
 honorific: Blessed
 summary: Married lay woman in the diocese of Niigata, Japan. Mother of Blessed Marina Chobo. Martyr.
 deathYear: 1629

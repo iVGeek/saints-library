@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Rufus of Philippi
+stub: true
 honorific: Saint
 summary: Martyr. Saint Polycarp wrote about him as a “most happy man”.
 deathYear: 109

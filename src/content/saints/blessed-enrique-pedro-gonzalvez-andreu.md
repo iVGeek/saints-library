@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Enrique Pedro Gonzálvez Andreu
+stub: false
 honorific: Blessed
 summary: >-
   Layman in the diocese of Cartegena, Spain. Member of the Association of the Sons of Mary of the Miraculous Medal.

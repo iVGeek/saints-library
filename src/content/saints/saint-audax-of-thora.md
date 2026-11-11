@@ -1,5 +1,6 @@
 ---
 name: Saint Audax of Thora
+stub: false
 honorific: Saint
 summary: >-
   Pagan prison guard. During the persecutions of Decius, Audax was one of the guards of Saint Anatolia, who helped

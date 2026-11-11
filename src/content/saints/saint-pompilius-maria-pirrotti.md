@@ -1,5 +1,6 @@
 ---
 name: Saint Pompilius Maria Pirrotti
+stub: false
 honorific: Venerable
 summary: >-
   The sixth of eleven children born to Jerome and Donna Pirrotti; his father was a well-known lawyer. In his mid-teens,

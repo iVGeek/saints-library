@@ -1,5 +1,6 @@
 ---
 name: Saint Antonio of Tlaxcala
+stub: false
 honorific: Venerable
 summary: >-
   Grandson of the Tlaxcala noble Xicoht&eacute;ncati, and heir to his title and estates. Convert to Christianity. One of

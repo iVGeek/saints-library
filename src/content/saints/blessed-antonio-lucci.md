@@ -1,5 +1,6 @@
 ---
 name: Blessed Antonio Lucci
+stub: false
 honorific: Blessed
 summary: >-
   The son of Francesco Lucci, a cobbler and coppersmith, and Angela Paolantonio, he was raised in a pious home, taught

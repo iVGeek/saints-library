@@ -1,5 +1,6 @@
 ---
 name: Blessed Enrico Angelo Angelelli Carletti
+stub: false
 honorific: Blessed
 summary: >-
   Son of Italian immigrants. He entered the seminary of Our Lady of Loreto at age 15, studied in Rome, Italy, and then

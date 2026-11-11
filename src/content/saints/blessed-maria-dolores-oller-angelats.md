@@ -1,5 +1,6 @@
 ---
 name: Blessed Maria Dolores Oller Angelats
+stub: true
 honorific: Blessed
 summary: Nun. Member of the Sisters of Saint Joseph. Martyred in the Spanish Civil War.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Maria-Dolores-Oller-Angelats.jpg

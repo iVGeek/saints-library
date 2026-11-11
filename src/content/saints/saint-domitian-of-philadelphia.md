@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Domitian of Philadelphia
+stub: true
 honorific: Saint
 summary: Martyr. No other information has survived.
 died: martyred in Philadelphia (modern Alasehir, Turkey)

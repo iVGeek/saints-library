@@ -1,5 +1,6 @@
 ---
 name: Blessed Jules-Honoré-Cyprien Pazery de Thorame
+stub: false
 honorific: Blessed
 summary: >-
   Born to the French nobility, the son of Pierre Symphorien de Pazery, a knight, the lord of Thorame, and councilor to

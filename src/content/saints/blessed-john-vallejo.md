@@ -1,5 +1,6 @@
 ---
 name: Blessed John Vallejo
+stub: false
 honorific: Blessed
 summary: >-
   Member of the Mercedarians at the convent of San Antonio in Valladolid, Spain. Known for his personal piety, his quiet

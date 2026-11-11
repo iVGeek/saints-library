@@ -1,5 +1,6 @@
 ---
 name: Saint Hermylus
+stub: false
 honorific: Saint
 summary: >-
   Deacon at Singidunum (modern Belgrade, Serbia). Martyred with his servant, Saint Stratonicus, in the persecutions of

@@ -1,5 +1,6 @@
 ---
 name: Blessed Joaquina Rey Aguirre
+stub: false
 honorific: Blessed
 summary: >-
   The daughter of Francisco, a commercial real estate agent, and Jerónima, Joaquina was baptized at the age of six days.

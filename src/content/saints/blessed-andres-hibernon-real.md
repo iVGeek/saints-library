@@ -1,5 +1,6 @@
 ---
 name: Blessed Andrés Hibernón Real
+stub: false
 honorific: Blessed
 summary: >-
   Born to an impoverished Spanish noble family. Educated by his uncle who was a chaplain in the cathedral of Murcia,

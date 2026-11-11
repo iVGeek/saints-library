@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Venerable Sélim Abu Mrad
+stub: true
 honorific: Venerable
 summary: Basilian Salvatorians of the Melkites priest.
 searchAliases:

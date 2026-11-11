@@ -1,5 +1,6 @@
 ---
 name: Saint Colman of Stockerau
+stub: false
 honorific: Saint
 summary: >-
   May have been of noble or royal birth. Monk. While on a pilgrimage to the Holy Lands, Colman was stopped by the

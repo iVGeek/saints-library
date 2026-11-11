@@ -1,5 +1,6 @@
 ---
 name: Blessed Agnes Takeda
+stub: false
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Annals_of_botany_%28IA_annalsofbotany271913balf%29.pdf/page1-500px-Annals_of_botany_%28IA_annalsofbotany271913balf%29.pdf.jpg
 honorific: Blessed

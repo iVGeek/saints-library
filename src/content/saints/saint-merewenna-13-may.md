@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Merewenna
+stub: false
 honorific: Saint
 summary: >-
   Benedictine nun. First abbess of Rumsey convent in Hampshire after its restoration of King Edward the Peaceful in 967.

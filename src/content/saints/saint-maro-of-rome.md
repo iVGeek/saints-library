@@ -1,5 +1,6 @@
 ---
 name: Saint Maro of Rome
+stub: false
 honorific: Saint
 summary: >-
   Friend of Saint Flavia Domitilla, whom they accompanied in exile to the island of Ponza. Martyred in the persecutions

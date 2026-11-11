@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Venerable María Consuelo Sanjurjo Santos
+stub: false
 honorific: Venerable
 summary: Professed religious of the Congregation of the Servants of Mary, Ministers to the Sick.
 searchAliases:

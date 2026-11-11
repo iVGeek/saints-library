@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Cuanna of Glenn
+stub: true
 honorific: Saint
 summary: Monk. Abbot of Mag Bile in Ireland from 731 to 746.
 region: Ireland

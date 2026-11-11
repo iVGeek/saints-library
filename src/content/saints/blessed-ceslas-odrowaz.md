@@ -1,5 +1,6 @@
 ---
 name: Blessed Ceslas Odrowaz
+stub: false
 honorific: Blessed
 summary: >-
   Relative, possibly the brother, of Saint Hyacinth. Studied at Prague in Bohemia, and Bologna, Italy. Ordained in

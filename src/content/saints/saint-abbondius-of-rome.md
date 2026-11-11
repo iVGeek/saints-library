@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Abbondius of Rome
+stub: true
 honorific: Saint
 summary: Martyr.
 died: cemetery of Saint Lawrence, Via Tiburtina, Rome, Italy

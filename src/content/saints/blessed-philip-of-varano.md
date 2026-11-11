@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/b/bd/Camillavarano.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Philip of Varano
+stub: false
 honorific: Blessed
 summary: >-
   Benedictine monk in the monastery of Grottafucile in Fabriano, Italy. First spiritual student of Saint Sylvester

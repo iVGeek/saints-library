@@ -1,5 +1,6 @@
 ---
 name: Saint Abraham the Martyr
+stub: true
 honorific: Saint
 summary: Bishop. Martyr.
 deathYear: 348

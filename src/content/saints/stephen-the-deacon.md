@@ -1,5 +1,6 @@
 ---
 name: Stephen the Deacon
+stub: false
 honorific: Saint
 title: Deacon, Protomartyr
 summary: >-

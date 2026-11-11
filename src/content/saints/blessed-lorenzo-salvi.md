@@ -1,5 +1,6 @@
 ---
 name: Blessed Lorenzo Salvi
+stub: false
 honorific: Blessed
 summary: >-
   Studied at the Collegio Romano in Rome, Italy; his classmates included Saint Gaspare del Bufalo and the future Pope

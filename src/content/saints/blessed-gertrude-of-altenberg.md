@@ -1,5 +1,6 @@
 ---
 name: Blessed Gertrude of Altenberg
+stub: false
 honorific: Blessed
 summary: >-
   Daughter of Saint Elizabeth of Hungary and Louis IV, landgrave of Thuringia. Educated at Altenberg Abbey. Cistercian

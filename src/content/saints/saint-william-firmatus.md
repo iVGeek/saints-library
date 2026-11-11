@@ -1,5 +1,6 @@
 ---
 name: Saint William Firmatus
+stub: false
 honorific: Saint
 summary: >-
   Canon and physician at Saint-Venance. Because of a divine warning against avarice, William gave all his possessions to

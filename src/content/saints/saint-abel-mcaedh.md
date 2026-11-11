@@ -1,5 +1,6 @@
 ---
 name: Saint Abel McAedh
+stub: true
 honorific: Saint
 summary: Holy Irish woman. No other information has survived.
 born: Irish

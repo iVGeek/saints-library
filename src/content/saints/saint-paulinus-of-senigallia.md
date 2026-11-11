@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/d/d2/Senigallia-collage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Paulinus of Senigallia
+stub: true
 honorific: Saint
 title: Bishop
 summary: Bishop of Senigallia, Italy.

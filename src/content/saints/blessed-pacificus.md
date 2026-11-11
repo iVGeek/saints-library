@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/6/6c/Blessed_pacificus_of_ceredano.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Pacificus
+stub: false
 honorific: Blessed
 summary: >-
   Travelling musician, he was crowned a “prince of poets” in Rome, Italy by the Emperor, and lived a very dissolute

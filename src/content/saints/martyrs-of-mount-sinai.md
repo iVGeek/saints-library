@@ -1,5 +1,6 @@
 ---
 name: Martyrs of Mount Sinai
+stub: true
 honorific: Saint
 image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Mount-Sinai.jpg
 died: martyred by Bedouins

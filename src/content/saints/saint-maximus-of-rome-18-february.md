@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Maximus of Rome
+stub: false
 honorific: Saint
 summary: One of a group of Christians martyred together in the persecutions of Diocletian. No other information has survived.
 deathYear: 295

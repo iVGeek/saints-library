@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Ribert of Saint-Oyend
+stub: true
 honorific: Saint
 summary: Monk. Abbot of the monastery of Saint Oyend, France.
 searchAliases:

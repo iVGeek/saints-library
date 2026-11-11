@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Zebina of Caesarea
+stub: false
 honorific: Saint
 summary: >-
   Christian man who was scourged and martyred in the persecutions of Diocletian and Galerius. Just before he died, the

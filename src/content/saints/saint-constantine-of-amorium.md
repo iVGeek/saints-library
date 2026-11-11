@@ -1,5 +1,6 @@
 ---
 name: Saint Constantine of Amorium
+stub: false
 honorific: Saint
 summary: >-
   Secretary to Saint Constantine Baboutzikos. One of the 42 Martyrs of Amorium who were captured by invading Muslims,

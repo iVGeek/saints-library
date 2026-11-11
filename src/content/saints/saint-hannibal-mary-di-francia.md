@@ -1,5 +1,6 @@
 ---
 name: Saint Hannibal Mary di Francia
+stub: false
 honorific: Venerable
 summary: >-
   Third of four children of Francis the Marquises of Saint Catherine of Jonio, a Papal Vice-Consul, a knight, and

@@ -1,5 +1,6 @@
 ---
 name: Saint Adalbert of Egmond
+stub: false
 honorific: Saint
 summary: >-
   Member of the Northumbrian royal family. Spiritual student of and fellow evangelist in Ireland with Saint Egbert of

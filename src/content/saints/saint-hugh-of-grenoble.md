@@ -1,5 +1,6 @@
 ---
 name: Saint Hugh of Grenoble
+stub: false
 honorific: Saint
 summary: >-
   Son of a soldier named Odilo, a man known for his Christian life, and who later became a Cistercian monk; his mother

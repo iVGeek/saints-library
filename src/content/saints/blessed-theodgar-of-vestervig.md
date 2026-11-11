@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/5/55/Vestervig_Kirke_ydre4.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 name: Blessed Theodgar of Vestervig
+stub: false
 honorific: Blessed
 summary: >-
   Studied theology in England. Priest. Missionary to Norway. Courtier to King Olav Haraldsson II. Known to heal the sick

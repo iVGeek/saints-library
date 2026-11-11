@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Ilpidius of Brioude
+stub: false
 honorific: Saint
 summary: >-
   Raised a pagan, Ilpidius was an adult convert to Christianity who, after coming to the faith, sold all he had, gave

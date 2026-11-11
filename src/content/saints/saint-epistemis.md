@@ -1,5 +1,6 @@
 ---
 name: Saint Epistemis
+stub: false
 honorific: Saint
 summary: >-
   Married to Saint Galation, who brought her to the faith. They both then retired to monasteries and were later martyred

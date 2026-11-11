@@ -1,5 +1,6 @@
 ---
 name: Saint Ita of Killeedy
+stub: false
 honorific: Saint
 summary: >-
   Born to the Irish nobility, possibly a member of the royal family. She refused to marry, and eventually received her

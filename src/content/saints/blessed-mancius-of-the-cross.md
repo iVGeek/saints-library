@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/48/Painting_of_the_Nagasaki_Martyrs.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Mancius of the Cross
+stub: false
 honorific: Blessed
 summary: >-
   Worked with Blessed Luis Bertran, often acting as a guide for the missionaries. During a period of persecution, he hid

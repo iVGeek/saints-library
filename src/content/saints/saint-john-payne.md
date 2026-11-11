@@ -1,5 +1,6 @@
 ---
 name: Saint John Payne
+stub: false
 honorific: Saint
 summary: >-
   Convert. Studied at Douai, France in 1574. Ordained on 7 April 1576. Returned to Ingatestone, Essex, England,

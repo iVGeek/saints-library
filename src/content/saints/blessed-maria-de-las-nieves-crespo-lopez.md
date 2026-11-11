@@ -1,5 +1,6 @@
 ---
 name: Blessed María de Las Nieves Crespo López
+stub: false
 honorific: Blessed
 summary: >-
   Member of the Carmelite Sisters of Charity, joining on 11 September 1922. Noted as an excellent teacher. Martyred in

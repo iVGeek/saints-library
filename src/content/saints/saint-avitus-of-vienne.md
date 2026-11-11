@@ -1,5 +1,6 @@
 ---
 name: Saint Avitus of Vienne
+stub: false
 honorific: Saint
 summary: >-
   Son of Saint Isychius. Brother of Saint Apollinaris of Valence. Bishop of Vienne, France, succeeding his father.

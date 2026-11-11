@@ -1,5 +1,6 @@
 ---
 name: Saint Avertinus of Tours
+stub: false
 honorific: Saint
 summary: >-
   Deacon who travelled into exile in France with Saint Thomas Becket. Participated in the synod of Tours, France in

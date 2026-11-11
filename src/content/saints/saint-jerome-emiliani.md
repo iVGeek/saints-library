@@ -1,5 +1,6 @@
 ---
 name: Saint Jerome Emiliani
+stub: false
 honorific: Saint
 summary: >-
   Born wealthy, the son of Angelo and Eleanor Mauroceni Emiliani. His father died when Jerome was a teenager, and he ran

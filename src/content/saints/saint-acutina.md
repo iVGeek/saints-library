@@ -1,5 +1,6 @@
 ---
 name: Saint Acutina
+stub: false
 honorific: Saint
 summary: One of a group of 79 Christians martyred together. No other information has survived.
 searchAliases:

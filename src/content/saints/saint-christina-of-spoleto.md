@@ -1,5 +1,6 @@
 ---
 name: Blessed Christina of Spoleto
+stub: false
 honorific: Blessed
 summary: >-
   Daughter of a physician. Married to a stone cutter, but widowed very young. She became mistress to a soldier, and bore

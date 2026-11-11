@@ -1,5 +1,6 @@
 ---
 name: Saint Nicodemus
+stub: false
 honorific: Saint
 summary: >-
   Member of the Sanhedrin in Israel during the life of Jesus. He was a secret disciple of Christ, meeting him by night

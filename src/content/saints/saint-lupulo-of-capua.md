@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Lupulo of Capua
+stub: true
 honorific: Saint
 summary: Martyr.
 died: Capua, Campania, Italy

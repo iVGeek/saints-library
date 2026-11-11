@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Blaise of Verona
+stub: false
 honorific: Saint
 title: Bishop
 summary: Mid-8th century bishop of Verona, Italy. Remembered in older writings for his ministry to the poor.

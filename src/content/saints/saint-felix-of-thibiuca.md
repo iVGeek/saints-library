@@ -1,5 +1,6 @@
 ---
 name: Saint Felix of Thibiuca
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Thibiuca in North Africa. Martyred in the persecutions of Diolcetian for refusing to surrender sacred books

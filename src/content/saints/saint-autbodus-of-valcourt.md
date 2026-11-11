@@ -1,5 +1,6 @@
 ---
 name: Saint Autbodus of Valcourt
+stub: false
 honorific: Saint
 summary: >-
   Missionary and evangelist in the areas of Artois, Hainault and Picardy, regions today in modern France and Belgium. He

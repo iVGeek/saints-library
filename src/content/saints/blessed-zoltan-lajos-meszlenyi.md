@@ -1,5 +1,6 @@
 ---
 name: Blessed Zoltán Lajos Meszlényi
+stub: false
 honorific: Blessed
 summary: >-
   Second of five children in a devoutly Catholic family; his father was a school teacher and principal. Graduated from a

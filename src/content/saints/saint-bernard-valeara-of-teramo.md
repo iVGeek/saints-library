@@ -1,5 +1,6 @@
 ---
 name: Saint Bernard Valeara of Teramo
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility; brother of Blessed Colomba of Mount Brancastello. Benedictine monk at Monte Cassino abbey.

@@ -1,5 +1,6 @@
 ---
 name: Blessed Buenaventura Bonaccorsi
+stub: false
 honorific: Blessed
 summary: >-
   Buenaventura was given a conversion experience after hearing Saint Philip Benizi preach in Pistoia, Italy. Joined the

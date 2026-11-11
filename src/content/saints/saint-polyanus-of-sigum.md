@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Polyanus of Sigum
+stub: false
 honorific: Saint
 summary: >-
   Bishop in Numidia, North Africa. Sentenced along with a large number of clergy and laity to slavery in the marble

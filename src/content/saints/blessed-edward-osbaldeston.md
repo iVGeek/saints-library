@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Edward Osbaldeston
+stub: false
 honorific: Blessed
 summary: >-
   Son of Thomas Osbaldeston. Studied at the English College in Douai, France, and then at the seminary in Rheims,

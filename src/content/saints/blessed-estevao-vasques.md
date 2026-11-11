@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/2/20/2022_Brazil_Presidential_Elections%2C_Round_1.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Estêvão Vasques
+stub: false
 honorific: Blessed
 summary: >-
   Member of the Knights of Santiago de Castilla. During the re-conquest of the Iberian peninsula from the Muslims by

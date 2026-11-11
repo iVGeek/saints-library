@@ -1,5 +1,6 @@
 ---
 name: Venerable Hovhannes Zohrabian
+stub: false
 honorific: Venerable
 summary: >-
   The fifth of eight children of Vartan Zohrabian, an Armenian baker, and his wife Sara, née Hovhannessian. Cirillo

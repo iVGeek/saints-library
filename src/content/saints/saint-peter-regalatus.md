@@ -1,5 +1,6 @@
 ---
 name: Saint Peter Regalatus
+stub: false
 honorific: Saint
 summary: >-
   Born to a wealth, pious, noble family. His father died when Peter was very young. Tried to join the Franciscans when

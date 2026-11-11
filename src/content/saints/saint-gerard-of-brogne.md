@@ -1,5 +1,6 @@
 ---
 name: Saint Gérard of Brogne
+stub: false
 honorific: Saint
 title: St. Gérard of Brogne
 summary: >-

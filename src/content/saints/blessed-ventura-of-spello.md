@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/e/e8/SpelloDec122023_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Ventura of Spello
+stub: false
 honorific: Blessed
 summary: >-
   Born wealthy. Joined the Benedictine Italian Cruciferi. Built an abbey and hospital on his family estate near Assisi,

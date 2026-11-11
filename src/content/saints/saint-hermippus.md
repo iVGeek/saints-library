@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Hermippus
+stub: true
 honorific: Saint
 summary: Martyr.
 deathYear: 305

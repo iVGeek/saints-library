@@ -1,5 +1,6 @@
 ---
 name: Saint Peter Sukejiroo
+stub: false
 honorific: Saint
 summary: >-
   Franciscan tertiary. Catechist. House servant and sacristan to the Franciscan missionaries. Arrested for his faith in

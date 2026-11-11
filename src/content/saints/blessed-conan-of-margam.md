@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/1/1c/Margamabbey-wyrdlight-7458.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Conan of Margam
+stub: false
 honorific: Blessed
 summary: >-
   Cistercian monk. Third abbot of the Margam monastery in Wales in 1156, he served there until his death, 37 years

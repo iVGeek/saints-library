@@ -1,5 +1,6 @@
 ---
 name: Saint Pietro of Anagni
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility, part of the family of the princes of Lombardy (part of modern Italy). Benedictine monk at the

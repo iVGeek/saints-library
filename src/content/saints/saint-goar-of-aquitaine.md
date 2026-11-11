@@ -1,5 +1,6 @@
 ---
 name: Saint Goar of Aquitaine
+stub: false
 honorific: Saint
 summary: >-
   Priest. In 519, to serve God anonymously, he migrated to the area around Trier, Germany, and became a hermit in a cell

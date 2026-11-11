@@ -1,5 +1,6 @@
 ---
 name: Saint Felix of Cordoba
+stub: false
 honorific: Saint
 summary: >-
   Born into a Berber family. Monk at Asturias, Spain. Monk at the double monastery of T&aacute;banos. One of the first

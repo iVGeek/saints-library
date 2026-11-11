@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Venerable Angelica Durà
+stub: false
 honorific: Venerable
 title: Virgin
 summary: >-

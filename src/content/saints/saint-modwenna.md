@@ -1,5 +1,6 @@
 ---
 name: Saint Modwenna
+stub: false
 honorific: Saint
 summary: Princess who renounced her wealth and position to become a nun. Renowned for her sanctity and miracles.
 image: >-

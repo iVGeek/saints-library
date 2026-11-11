@@ -1,5 +1,6 @@
 ---
 name: Saint Adria the Martyr
+stub: true
 honorific: Saint
 summary: Martyred in the persecutions of Valerian.
 searchAliases:

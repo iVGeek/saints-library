@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Fromundus of Coutances
+stub: true
 honorific: Saint
 summary: Monk. Abbot. Bishop of Coutances, France.
 searchAliases:

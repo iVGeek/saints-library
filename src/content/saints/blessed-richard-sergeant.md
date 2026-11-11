@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/c/c0/Pampuri.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Richard Sergeant
+stub: false
 honorific: Blessed
 summary: >-
   Son of Thomas and Katherine Sergeant. Graduated Oxford University c.1570. Seminarian at the English College in Rheims,

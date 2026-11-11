@@ -1,5 +1,6 @@
 ---
 name: Saint Gulstan
+stub: false
 honorific: Saint
 summary: >-
   Sailor. Hermit. Benedictine monk and then abbot at the abbey of Saint Gildas of Rhuys, Brittany under Saint Felix.

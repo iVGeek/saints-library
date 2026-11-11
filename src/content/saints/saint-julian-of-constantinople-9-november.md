@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Julian of Constantinople
+stub: false
 honorific: Saint
 summary: >-
   One of a group of ten Catholic Christians who tried to defend an image of Jesus over the Brazen Gate of Constantinople

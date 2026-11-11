@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Teresa Kwon Cheon-Rye
+stub: true
 honorific: Blessed
 summary: Married lay woman of the archdiocese of Seoul, Korea. Martyr.
 birthYear: 1784

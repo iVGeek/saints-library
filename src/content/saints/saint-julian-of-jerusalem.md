@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Julian of Jerusalem
+stub: false
 honorific: Saint
 summary: >-
   Around the year 454, Julian felt a call to monastic life and travelled to Jerusalem. There he found all the

@@ -1,5 +1,6 @@
 ---
 name: Saint Blane
+stub: false
 honorific: Saint
 summary: >-
   Nephew of Saint Cathan. Studied in Ireland under Saint Comgall of Bangor, Saint Kenneth, and Saint Canice. Monk. After

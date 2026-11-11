@@ -1,5 +1,6 @@
 ---
 name: Blessed Frederick of Hallum
+stub: false
 honorific: Blessed
 summary: >-
   Son of a poor widow. Had a special devotion to the Blessed Virgin Mary, to Saint John the Baptist, and to Saint

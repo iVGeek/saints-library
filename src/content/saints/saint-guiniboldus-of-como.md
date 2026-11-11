@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Guiniboldus of Como
+stub: false
 honorific: Saint
 summary: >-
   Brother of Saint Guinifortus. While making a pilgrimage, Guiniboldus, his brother and two unnamed sisters travelled

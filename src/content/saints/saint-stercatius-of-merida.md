@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Stercatius of Merida
+stub: true
 honorific: Saint
 summary: Martyr.
 deathYear: 304

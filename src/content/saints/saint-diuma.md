@@ -1,6 +1,7 @@
 ---
 image: https://www.catholic.org/files/images/saints/2914.jpg
 name: Saint Diuma
+stub: false
 honorific: Saint
 summary: >-
   Missionary and evangelizing bishop in Mercia, England. The modern town of Peterborough, England, grew up around a

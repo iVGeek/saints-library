@@ -1,6 +1,7 @@
 ---
 image: https://www.santiebeati.it/immagini/Thumbs/92103/92103.JPG
 name: Saint Viola of Verona
+stub: true
 honorific: Saint
 summary: Early martyr. No other information has survived.
 searchAliases:

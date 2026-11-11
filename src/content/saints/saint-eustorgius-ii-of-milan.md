@@ -1,5 +1,6 @@
 ---
 name: Saint Eustorgius II of Milan
+stub: false
 honorific: Saint
 summary: >-
   Priest in Rome, Italy. Bishop of Milan, Italy in 512. Spent hugely to ransom Christians who had been abducted by

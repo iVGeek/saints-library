@@ -1,5 +1,6 @@
 ---
 name: Venerable Maria Domenica Lazzeri
+stub: false
 honorific: Venerable
 summary: >-
   Lifelong lay woman in the archdiocese of Trent, Italy who received the stigmata, and spent the last 14 years of her

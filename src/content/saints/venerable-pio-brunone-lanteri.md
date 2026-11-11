@@ -1,5 +1,6 @@
 ---
 name: Venerable Pio Brunone Lanteri
+stub: false
 honorific: Venerable
 summary: >-
   Priest of the diocese of Pinerolo, Italy. Founded the Oblates of the Virgin Mary. His spiritual life was centered on

@@ -1,5 +1,6 @@
 ---
 name: Blessed Adam Bargielski
+stub: false
 honorific: Blessed
 summary: >-
   Priest and assistant pastor of the Myszyniec parish. On 9 April 1940, the Gestapo arrested his 83 year old senior

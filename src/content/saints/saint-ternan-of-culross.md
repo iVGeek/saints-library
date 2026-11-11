@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Ternan of Culross
+stub: false
 honorific: Saint
 summary: >-
   Fifth-century missionary bishop to the Picts in Scotland, consecrated by Saint Palladius of Ireland. He used

@@ -1,5 +1,6 @@
 ---
 name: Saint Felix of San Felice
+stub: false
 honorific: Saint
 summary: Sixth-century bishop. Pilgrim to Rome, Italy. Settled in the village of San Felice near Narni, Italy.
 born: Palestine

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Privatus of Africa
+stub: true
 honorific: Saint
 summary: Martyr. No other information has survived.
 died: somewhere in Africa, date unknown

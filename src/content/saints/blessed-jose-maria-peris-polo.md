@@ -1,5 +1,6 @@
 ---
 name: Blessed José María Peris Polo
+stub: false
 honorific: Blessed
 summary: >-
   Studied at the College of Saint Joseph in Tortosa, Spain. Priest, ordained on 6 June 1914. Member of the Diocesan

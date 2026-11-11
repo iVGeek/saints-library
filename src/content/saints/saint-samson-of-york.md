@@ -1,5 +1,6 @@
 ---
 name: Saint Samson of York
+stub: false
 honorific: Saint
 summary: >-
   Born to the Welsh nobility; brother of Saint Gwenyth of Cornwall and Saint Veep. At age seven, Samson was sent to the

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Maximus of Mainz
+stub: true
 honorific: Saint
 summary: Bishop of Mainz, Germany from 354 to 378. Greatly persecuted by Arian heretics.
 deathYear: 378

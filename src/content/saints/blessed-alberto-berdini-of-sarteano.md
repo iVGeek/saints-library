@@ -1,5 +1,6 @@
 ---
 name: Blessed Alberto Berdini of Sarteano
+stub: false
 image: https://upload.wikimedia.org/wikipedia/commons/a/aa/Blessed_albert_berdini.png
 honorific: Blessed
 summary: >-

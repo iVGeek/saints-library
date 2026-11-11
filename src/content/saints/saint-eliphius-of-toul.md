@@ -1,5 +1,6 @@
 ---
 name: Saint Eliphius of Toul
+stub: true
 honorific: Saint
 summary: Martyred in the persecutions of Julian the Apostate.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Eliphius-of-Toul.jpg

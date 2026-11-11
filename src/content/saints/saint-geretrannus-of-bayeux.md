@@ -1,5 +1,6 @@
 ---
 name: Saint Geretrannus of Bayeux
+stub: true
 honorific: Saint
 title: Bishop
 summary: Sixth century bishop of Bayeux, France.

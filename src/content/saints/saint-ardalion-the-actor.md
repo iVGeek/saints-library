@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Ardalion the Actor
+stub: false
 honorific: Saint
 summary: >-
   An actor who specialized in mocking Christianity, and who was very popular with pagan audiences. One day during a

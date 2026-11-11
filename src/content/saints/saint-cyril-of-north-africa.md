@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Cyril of North Africa
+stub: true
 honorific: Saint
 summary: Bishop. Martyred in North Africa.
 region: Africa

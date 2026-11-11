@@ -1,5 +1,6 @@
 ---
 name: Saint Alexius of Rome
+stub: false
 honorific: Saint
 summary: >-
   The only son of a wealthy Christian Roman senator. The young man wanted to devote himself to God, but his parents

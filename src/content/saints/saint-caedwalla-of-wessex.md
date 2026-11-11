@@ -1,5 +1,6 @@
 ---
 name: Saint Caedwalla of Wessex
+stub: false
 honorific: Saint
 summary: >-
   Son of Coenberht; descendent of King Ceawlin of Wessex in England. Exiled, but later returned to reclaim the throne by

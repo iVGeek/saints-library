@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Chillien of Aubigny
+stub: false
 honorific: Saint
 summary: >-
   Relative of Saint Fiacre whom he visited while on pilgrimage to Rome, Italy. Stayed for a while to learn contemplative

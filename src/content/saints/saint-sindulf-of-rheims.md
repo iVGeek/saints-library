@@ -1,5 +1,6 @@
 ---
 name: Saint Sindulf of Rheims
+stub: true
 honorific: Saint
 summary: Hermit in Aussonce, France.
 searchAliases:

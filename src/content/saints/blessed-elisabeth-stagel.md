@@ -1,5 +1,6 @@
 ---
 name: Blessed Elisabeth Stagel
+stub: false
 honorific: Blessed
 summary: >-
   Born to the nobility. Dominican nun. Friend and spiritual student of Blessed Henry Suso; unknown to him, she kept all

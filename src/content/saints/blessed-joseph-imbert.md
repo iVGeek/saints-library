@@ -1,5 +1,6 @@
 ---
 name: Blessed Joseph Imbert
+stub: false
 honorific: Blessed
 summary: >-
   Jesuit priest. Vicar apostolic of Moulins, France. Imprisoned on a ship during the anti-Catholic persecutions of the

@@ -1,5 +1,6 @@
 ---
 name: Saint Erentrude
+stub: false
 honorific: Saint
 summary: >-
   Relative of Saint Rupert of Salzburg worked with him as a missionary. Benedictine nun. First abbess at Nonnberg

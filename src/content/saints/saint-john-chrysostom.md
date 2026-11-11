@@ -1,5 +1,6 @@
 ---
 name: Saint John Chrysostom
+stub: false
 honorific: Saint
 title: St. John Chrysostom
 summary: >-

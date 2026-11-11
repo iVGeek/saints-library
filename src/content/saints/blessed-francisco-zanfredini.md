@@ -1,5 +1,6 @@
 ---
 name: Blessed Francisco Zanfredini
+stub: false
 honorific: Blessed
 summary: >-
   Orphaned when he was very young; when he came of age, Francisco gave away all that he had, became a Franciscan

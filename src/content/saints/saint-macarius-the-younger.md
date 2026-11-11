@@ -1,5 +1,6 @@
 ---
 name: Saint Macarius the Younger
+stub: false
 honorific: Saint
 summary: >-
   Successful merchant in fruits, candies, and pastries in Alexandria, Egypt. Converting to Christianity, Macarius gave

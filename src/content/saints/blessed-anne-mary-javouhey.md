@@ -1,5 +1,6 @@
 ---
 name: Blessed Anne Mary Javouhey
+stub: false
 honorific: Blessed
 summary: >-
   Daughter of a wealthy farmer, she grew up during the French Revolution, and saw her family risk everything by hiding

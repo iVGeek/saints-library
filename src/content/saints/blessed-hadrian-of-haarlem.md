@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/5/5d/Bell_Beaker_culture.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Hadrian of Haarlem
+stub: true
 honorific: Blessed
 summary: Layman government official. Martyred by Calvinists.
 deathYear: 1572

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Harduin of Fontenelle
+stub: false
 honorific: Saint
 summary: >-
   Benedictine monk at the monastery of Saint-Wandrille in Fontenelle, Rouen, Normandy (in modern France). Priest. He

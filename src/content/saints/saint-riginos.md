@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Riginos
+stub: true
 honorific: Saint
 summary: Bishop. Martyr.
 deathYear: 362

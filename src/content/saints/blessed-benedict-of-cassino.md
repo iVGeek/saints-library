@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/c/ce/Collegio_Sant%27Anselmo_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Benedict of Cassino
+stub: false
 honorific: Blessed
 summary: >-
   Benedictine monk at Monte Cassino. Abbot of the monastery at Capua, Italy. Known in his house for austere life style,

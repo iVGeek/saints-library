@@ -1,5 +1,6 @@
 ---
 name: Blessed Eduard Profittlich
+stub: false
 honorific: Blessed
 summary: >-
   Jesuit priest, ordained on 27 August 1922. Apostolic administrator of Estonia on 11 May 1931. Titular Archbishop of

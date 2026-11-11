@@ -1,5 +1,6 @@
 ---
 name: Saint Maelrubius of Applecross
+stub: false
 honorific: Saint
 summary: >-
   Son of Elganach and Subtan; related to King Niall of Ireland and Saint Comgall the Great. Monk at Saint Comgall's

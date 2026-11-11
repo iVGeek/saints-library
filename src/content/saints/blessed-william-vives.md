@@ -1,5 +1,6 @@
 ---
 name: Blessed William Vives
+stub: false
 honorific: Blessed
 summary: >-
   Mercedarian friar at Barcelona, Spain. Prior of his house. At one point he became involved in political maneuvers

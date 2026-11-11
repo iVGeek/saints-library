@@ -1,5 +1,6 @@
 ---
 name: Blessed Louis-Antoine-Rose Ormières Lacase
+stub: false
 honorific: Blessed
 summary: >-
   Ordained a priest in the diocese of Carcassonne, France on 21 December 1833. Professor in his seminary while still

@@ -1,5 +1,6 @@
 ---
 name: Blessed Alfonso Gomez de Encinas
+stub: false
 honorific: Blessed
 summary: >-
   Joined the Mercedarians in Valladolis, Spain. Studied at the University of Salamanca, Spain. Priest. Vicar of the

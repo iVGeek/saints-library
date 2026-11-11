@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Berthevin of Lisieux
+stub: false
 honorific: Saint
 summary: >-
   Priest in the diocese of Bayeaux, France. During the Norman invasions, Berthevin fled to Laval, France where he became

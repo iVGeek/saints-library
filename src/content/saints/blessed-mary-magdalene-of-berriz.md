@@ -1,5 +1,6 @@
 ---
 name: Blessed Mary Magdalene of Berriz
+stub: true
 honorific: Blessed
 summary: Pious Mercedarian nun at the monastery of Vera Cruz, Berriz, Spain.
 image: https://catholicsaints.info/wp-content/uploads/img-Mercedarian-Nuns-of-Berriz.jpg

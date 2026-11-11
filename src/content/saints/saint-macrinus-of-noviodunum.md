@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/9/90/Otto_Albert_Koch_Varusschlacht_1909.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Macrinus of Noviodunum
+stub: true
 honorific: Saint
 summary: Martyr.
 died: Noviodunum, Lower Moesia (near modern Isaccea, Romania

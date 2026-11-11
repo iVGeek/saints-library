@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Maria Chujo
+stub: true
 honorific: Blessed
 summary: Married lay woman in the Kyoto, Japan. One of the Martyrs of Kyoto.
 deathYear: 1619

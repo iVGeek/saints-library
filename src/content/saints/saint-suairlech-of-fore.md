@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Suairlech of Fore
+stub: true
 honorific: Saint
 summary: First bishop of Fore, Westmeath, Ireland from c.735 to c.750.
 deathYear: 750

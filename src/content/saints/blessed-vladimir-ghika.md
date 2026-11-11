@@ -1,5 +1,6 @@
 ---
 name: Blessed Vladimir Ghika
+stub: false
 honorific: Blessed
 summary: >-
   Born a Romanian prince, grandson of the last ruler of Moldavia, Prince Gregory V. Studied in Toulouse, France, at the

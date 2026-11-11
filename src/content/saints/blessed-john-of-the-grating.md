@@ -1,5 +1,6 @@
 ---
 name: Blessed John of the Grating
+stub: false
 honorific: Blessed
 summary: >-
   Benedictine Cistercian monk at Clairvaux Abbey, professing his vows under Saint Bernard. Abbot at Guingamp, France.

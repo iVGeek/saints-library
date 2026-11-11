@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Crispin of Ravenna
+stub: true
 honorific: Saint
 summary: Martyr.
 died: Ravenna, Italy, date unknown

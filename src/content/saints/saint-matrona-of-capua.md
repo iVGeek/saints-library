@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Matrona of Capua
+stub: true
 honorific: Saint
 summary: Nun in Capua, Italy.
 region: Italy

@@ -1,5 +1,6 @@
 ---
 name: Blessed Bernard of Corbara
+stub: false
 honorific: Blessed
 summary: >-
   Born to the Italian nobility, part of the family of the counts of Montemarte. A well-educated and pious young man, he

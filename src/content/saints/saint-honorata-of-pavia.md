@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Honorata of Pavia
+stub: false
 honorific: Saint
 summary: >-
   Sister of Saint Epiphanius of Pavia and Saint Liberata of Pavia. Nun at Pavia, Lombardy, Italy. Captured by King

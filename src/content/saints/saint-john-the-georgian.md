@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint John the Georgian
+stub: false
 honorific: Saint
 summary: >-
   Born to the 10th century Iberian nobility. Married layman, and outstanding military commander. Father of Saint

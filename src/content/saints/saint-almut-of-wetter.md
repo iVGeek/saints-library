@@ -1,5 +1,6 @@
 ---
 name: Saint Almut of Wetter
+stub: false
 honorific: Saint
 summary: >-
   Born to the royal family. With her sister Digmund, she founded the convent of Wetter in Oberlahngau, Germany, and

@@ -1,5 +1,6 @@
 ---
 name: Blessed Marià Mullerat Soldevila
+stub: false
 honorific: Blessed
 summary: Married layman in the archdiocese of Tarragona, Spain. Martyred in the Spanish Civil War.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Maria-Mullerat-Soldevila.jpg

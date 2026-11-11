@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Colman Mc O'Laoighse
+stub: false
 honorific: Saint
 summary: >-
   Sixth-century spiritual student of Saint Columba and Saint Fintan of Clonenagh. Founded a monastery in Oughaval,

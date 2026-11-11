@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Valeria
+stub: false
 honorific: Saint
 summary: Roman martyr whose cultus was very popular in France during the time of Saint Eligius.
 region: France

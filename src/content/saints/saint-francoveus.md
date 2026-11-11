@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Francoveus
+stub: false
 honorific: Saint
 summary: >-
   Seventh-century monk in Saint Martin de la Bretonnière (modern Sainte Maire, Nièvre), France. Noted for the jealousy

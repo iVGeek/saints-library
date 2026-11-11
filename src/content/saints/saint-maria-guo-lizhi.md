@@ -1,6 +1,7 @@
 ---
 image: https://www.santiebeati.it/immagini/Thumbs/61120/61120.jpg
 name: Saint Maria Guo Lizhi
+stub: false
 honorific: Saint
 summary: >-
   Married lay woman. Imprisoned and tortured with seven members of her family during the Boxer Rebellion, she spent her

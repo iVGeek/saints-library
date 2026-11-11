@@ -1,5 +1,6 @@
 ---
 name: Saint Maurus of Cesena
+stub: false
 honorific: Saint
 summary: >-
   Nephew of Pope John IX. Priest. Benedictine monk at Classe monastery, Ravenna, Italy. Abbot of Classe in 926. Bishop

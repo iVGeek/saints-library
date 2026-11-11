@@ -1,5 +1,6 @@
 ---
 name: Blessed Zef Palaj
+stub: false
 honorific: Blessed
 summary: >-
   Educated by the Franciscans, and then joined the Friars Minor, taking the name Bernardin; he made his solemn

@@ -1,5 +1,6 @@
 ---
 name: Venerable Enzo Boschetti
+stub: false
 honorific: Venerable
 summary: >-
   Middle of three children born to a poor, rural family, the son of Esterina and Silvio Boschetti, a truck driver. A

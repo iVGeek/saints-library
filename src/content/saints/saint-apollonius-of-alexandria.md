@@ -1,5 +1,6 @@
 ---
 name: Saint Apollonius of Alexandria
+stub: false
 honorific: Saint
 summary: Priest in Alexandria, Egypt. Martyred with five companions in the persecutions of Decius.
 deathYear: 250

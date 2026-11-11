@@ -1,5 +1,6 @@
 ---
 name: Saint Theophilus of Corte
+stub: false
 honorific: Saint
 summary: >-
   Joined the Franciscans in 1693, taking the name Theophilus (friend of God). Ordained in Naples, Italy. Taught at

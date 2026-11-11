@@ -1,5 +1,6 @@
 ---
 name: Saint Nazarius of Rome
+stub: false
 honorific: Saint
 summary: >-
   His father was a pagan imperial Roman army officer, his mother Saint Perpetua of Rome. Raised a Christian and taught

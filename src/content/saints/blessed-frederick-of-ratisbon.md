@@ -1,5 +1,6 @@
 ---
 name: Blessed Frederick of Ratisbon
+stub: false
 honorific: Blessed
 summary: Augustinian lay-brother at Ratisbon, Germany. Worked for the holy hermits in the area as a carpenter and wood cutter.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Frederick-of-Ratisbon.jpg

@@ -1,5 +1,6 @@
 ---
 name: Saint Eustorgius of Nicomedia
+stub: true
 honorific: Saint
 summary: Priest in Nicomedia, Asia Minor. Martyred in the persecutions of Diocletian.
 deathYear: 300

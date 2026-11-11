@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/4f/Frm_beatification_banner.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Jean-Antoine-Hyacinthe Boucharenc de Chaumeils
+stub: true
 honorific: Blessed
 summary: Priest of the diocese of Viviers, France. One of the Martyrs of September.
 birthYear: 1738

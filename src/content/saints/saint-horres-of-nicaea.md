@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Horres of Nicaea
+stub: true
 honorific: Saint
 summary: Son of Saint Theusitas of Nicaea. Martyred with his father and several others.
 searchAliases:

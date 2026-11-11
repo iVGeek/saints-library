@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Luceja of Alexandria
+stub: true
 honorific: Saint
 summary: Nun. Martyr.
 died: Alexandria, Egypt, date unknown

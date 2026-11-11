@@ -1,5 +1,6 @@
 ---
 name: Saint John Baptist Con
+stub: true
 honorific: Saint
 title: St. John Baptist Con
 summary: Married layman. Martyr.

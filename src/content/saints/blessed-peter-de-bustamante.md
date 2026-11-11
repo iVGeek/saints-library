@@ -1,5 +1,6 @@
 ---
 name: Blessed Peter de Bustamante
+stub: false
 honorific: Blessed
 summary: >-
   Joined the Mercedarians in Valladolid, Spain. His reputation for piety and devotion to the faith led to his being

@@ -1,5 +1,6 @@
 ---
 name: Blessed Domenico di San Pietro
+stub: false
 honorific: Blessed
 summary: Mercedarian. Helped ransom 187 Christians held in slavery by North African Moors.
 image: >-

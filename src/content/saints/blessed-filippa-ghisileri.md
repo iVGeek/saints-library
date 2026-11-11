@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Filippa Ghisileri
+stub: false
 honorific: Blessed
 summary: >-
   Her father was named Leonardo, and she Filipa was related to Pope Saint Pius V. She became a spiritual student of

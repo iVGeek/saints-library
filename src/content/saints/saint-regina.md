@@ -1,5 +1,6 @@
 ---
 name: Saint Regina
+stub: false
 honorific: Saint
 summary: >-
   Daughter of a pagan aristocrat named Clement. A convert to Christianity, she was driven from her family's home because

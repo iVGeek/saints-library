@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Zenaides of Caesarea
+stub: true
 honorific: Saint
 summary: Convert. Martyr.
 searchAliases:

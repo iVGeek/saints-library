@@ -1,5 +1,6 @@
 ---
 name: Blessed Antoine Chevrier
+stub: false
 honorific: Blessed
 summary: >-
   An only child in a family of workers in the silk industry, Antoine was baptized at the age of 2 days. He made his

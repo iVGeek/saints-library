@@ -1,5 +1,6 @@
 ---
 name: Saint Agnes of Assisi
+stub: false
 honorific: Saint
 summary: >-
   Daughter of Count Favorino Scifi and Blessed Hortulana, she was raised in a series of castles in and around Assisi,

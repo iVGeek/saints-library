@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Brithwald of Canterbury
+stub: false
 honorific: Saint
 summary: >-
   Educated at Canterbury, England. Benedictine monk and then abbot of Reculver Abbey, Kent, England. Abbot of

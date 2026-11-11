@@ -1,5 +1,6 @@
 ---
 name: Saint Aemilian of Trevi
+stub: false
 honorific: Saint
 summary: Fourth-century bishop of Trevi, Italy. Tortured and martyred in the persecutions of Diocletian.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Aemilian-of-Trebi.jpg

@@ -1,5 +1,6 @@
 ---
 name: Venerable Ursula Benincasa
+stub: false
 honorific: Venerable
 summary: >-
   Daughter of Girolamo Benincasa and Vincenza Genuina; hers was a wealthy and pious family who supported the arts and

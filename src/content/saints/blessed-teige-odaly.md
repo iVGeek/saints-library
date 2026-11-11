@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Teige O'Daly
+stub: true
 honorific: Blessed
 summary: Franciscan priest. One of the Irish Martyrs.
 deathYear: 1578

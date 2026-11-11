@@ -1,5 +1,6 @@
 ---
 name: Saint Felix of Fondi
+stub: false
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Selected_letters_of_Mendelssohn_1894.djvu/page1-960px-Selected_letters_of_Mendelssohn_1894.djvu.jpg
 honorific: Saint

@@ -1,5 +1,6 @@
 ---
 name: Saint Laserian of Leighlin
+stub: false
 honorific: Saint
 summary: >-
   Son of Cairel. Student of Saint Murin of Fahan. Hermit on Holy Island, Lamlach bay. Ordained by Pope Saint Gregory the

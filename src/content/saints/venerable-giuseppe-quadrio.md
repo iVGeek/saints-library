@@ -1,5 +1,6 @@
 ---
 name: Venerable Giuseppe Quadrio
+stub: false
 honorific: Venerable
 summary: >-
   Born to a poor but pious peasant family, the son of Augustine and Jacqueline Robustelli; at age 8 he developed his own

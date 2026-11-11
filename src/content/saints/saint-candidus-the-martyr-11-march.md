@@ -1,5 +1,6 @@
 ---
 name: Saint Candidus the Martyr
+stub: true
 honorific: Saint
 summary: One of a group of 22 martyrs who died together.
 deathYear: 257

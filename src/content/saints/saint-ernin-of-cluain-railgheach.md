@@ -1,6 +1,7 @@
 ---
 image: https://www.santiebeati.it/immagini/Thumbs/99675/99675.jpg
 name: Saint Ernin of Cluain-railgheach
+stub: true
 honorific: Saint
 summary: Sixth-century bishop who worked in Ireland with Saint Columba.
 region: Ireland

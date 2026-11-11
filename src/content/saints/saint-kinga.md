@@ -1,5 +1,6 @@
 ---
 name: Saint Kinga
+stub: false
 honorific: Saint
 summary: >-
   Daughter of King Béla IV of Hungary and Maria Laskarina; sister of Saint Margaret of Hungary and Blessed Jolenta of

@@ -1,5 +1,6 @@
 ---
 name: Saint Teresa of the Andes
+stub: false
 honorific: Venerable
 summary: >-
   Born to an upper class family. From her adolescence Teresa was devoted to Christ. Greatly influenced by the

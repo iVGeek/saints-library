@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/e/ee/UST_at_Christmas2007.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Enrique Beltrán Llorca
+stub: false
 honorific: Blessed
 summary: >-
   Joined the Hospitallers of Saint John of God on 7 December 1935. Martyred in the Spanish Civil War while still a

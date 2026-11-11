@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/9/97/Melchior_k%C3%BCsel-diego_carvalho.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Diego Carvalho
+stub: false
 honorific: Blessed
 summary: Jesuit priest. Missionary to Japan. Martyred with 60 companions by being exposed to the cold for days.
 searchAliases:

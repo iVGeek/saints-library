@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/2/21/R%C3%B2tul_Pl_Catalunya.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Pere Vives Coll
+stub: true
 honorific: Blessed
 summary: Member of the Claretians. Martyred in the Spanish Civil War.
 birthYear: 1878

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Siviard
+stub: false
 honorific: Saint
 summary: >-
   Monk at Saint-Calais Abbey on the River Anisole in France where his father served as abbot. He served as abbot

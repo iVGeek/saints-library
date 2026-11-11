@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/e/e4/Sceaux_Saint-Jean-Baptiste_36.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Mamete
+stub: false
 honorific: Saint
 title: Priest
 summary: >-

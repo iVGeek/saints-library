@@ -1,5 +1,6 @@
 ---
 name: Blessed Anna Maria Teresa Scherer
+stub: false
 honorific: Blessed
 summary: >-
   The fourth of seven children, Katharina's father died when the girl was only seven years old. Her mother determined

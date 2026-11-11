@@ -1,5 +1,6 @@
 ---
 name: Blessed Charlemagne
+stub: false
 honorific: Blessed
 summary: >-
   Born a prince, the eldest son of Bertha and Pepin the Short, Mayor of the Palace under King Childeric III and then

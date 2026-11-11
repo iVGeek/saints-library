@@ -1,5 +1,6 @@
 ---
 name: Saint Adrione of Alexandria
+stub: true
 honorific: Saint
 summary: Martyr.
 searchAliases:

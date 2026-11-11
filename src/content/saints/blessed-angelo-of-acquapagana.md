@@ -1,5 +1,6 @@
 ---
 name: Blessed Angelo of Acquapagana
+stub: false
 honorific: Blessed
 summary: >-
   Monk at Valdicastro, Italy. Hermit, joining the Camaldolese c.1285 at the San Salvatore di Acquapagana hermitage and

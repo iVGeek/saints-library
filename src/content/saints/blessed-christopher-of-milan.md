@@ -1,5 +1,6 @@
 ---
 name: Blessed Christopher of Milan
+stub: false
 honorific: Blessed
 summary: >-
   Nothing is known of the early life of Blessed Christopher. He joined the Dominican at San Eustorgio convent, Milan,

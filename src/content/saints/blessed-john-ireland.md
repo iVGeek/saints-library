@@ -1,5 +1,6 @@
 ---
 name: Blessed John Ireland
+stub: false
 honorific: Blessed
 summary: >-
   Priest. Chaplain to Blessed John Larke and Saint Thomas More. Rector at Eltham, Kent, England from 1535 to 1536.

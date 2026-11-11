@@ -1,5 +1,6 @@
 ---
 name: Blessed Guglielmo of Florence
+stub: false
 honorific: Blessed
 summary: >-
   Born to the nobility, the family of the counts of Gueda. Mercedarian friar. Served as the Master General of the

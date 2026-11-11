@@ -1,5 +1,6 @@
 ---
 name: Saint Waldebert of Luxeuil
+stub: false
 honorific: Saint
 summary: >-
   Monk. Abott of Luxeuil Abbey c.628. Worked with Saint Salaberga to found the convent of Saint John the Baptist in

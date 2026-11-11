@@ -1,5 +1,6 @@
 ---
 name: Saint Firminus of Viviers
+stub: false
 honorific: Saint
 summary: >-
   Born to the Gallo-Roman nobility. Priest. The 12th or 13th bishop of Viviers, France, serving in the early 6th

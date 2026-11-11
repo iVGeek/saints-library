@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/e/e4/Sceaux_Saint-Jean-Baptiste_36.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Mamas
+stub: true
 honorific: Saint
 summary: Martyr. No other information has survived.
 feastDay:

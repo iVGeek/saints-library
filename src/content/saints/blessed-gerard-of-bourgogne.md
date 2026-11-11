@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/9/97/Bernard_Aleidis_Tescelin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Gerard of Bourgogne
+stub: true
 honorific: Blessed
 summary: Cistercian Benedictine monk. Abbot at Cambron, France.
 deathYear: 1172

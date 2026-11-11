@@ -1,5 +1,6 @@
 ---
 name: Blessed Elias del Socorro Nieves
+stub: false
 honorific: Blessed
 summary: >-
   Born a sickly baby in a deeply religious peasant family; had to be quickly baptized as they did not think he would

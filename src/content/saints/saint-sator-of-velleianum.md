@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Sator of Velleianum
+stub: true
 honorific: Saint
 summary: Martyred in the persecutions of Maximian Herculeaus.
 searchAliases:

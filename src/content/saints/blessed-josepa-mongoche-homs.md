@@ -1,5 +1,6 @@
 ---
 name: Blessed Josepa Mongoche Homs
+stub: false
 honorific: Blessed
 summary: >-
   Professed religious in the Sisters of the Christian Doctrine. Worked as a seamstress to support the Sisters, and was

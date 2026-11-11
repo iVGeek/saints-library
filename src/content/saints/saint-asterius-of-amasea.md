@@ -1,5 +1,6 @@
 ---
 name: Saint Asterius of Amasea
+stub: false
 honorific: Saint
 summary: >-
   Studied law and rhetoric in his youth, and practiced law for a while, but gave it up for the priesthood. Bishop of

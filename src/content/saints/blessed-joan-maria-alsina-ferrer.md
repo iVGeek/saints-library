@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/5/53/1899._Tzarevich_Dmitry_by_M._Nesterov.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Joan Maria Alsina Ferrer
+stub: false
 honorific: Blessed
 summary: >-
   Member of the Claretians, professed on 8 December 1900. Ordained a priest on 22 December 1907. Martyred in the Spanish

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Venerable Juana de la Concepción Sanchez Garcia
+stub: true
 honorific: Venerable
 summary: Poor Clare nun.
 searchAliases:

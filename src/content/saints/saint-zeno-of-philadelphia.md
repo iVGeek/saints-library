@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Zeno of Philadelphia
+stub: false
 honorific: Saint
 summary: >-
   A wealthy noble. Soldier in the imperial Roman army. Seeing other Christians being martyred, he was led to become open

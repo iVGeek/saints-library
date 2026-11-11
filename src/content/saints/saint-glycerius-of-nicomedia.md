@@ -1,5 +1,6 @@
 ---
 name: Saint Glycerius of Nicomedia
+stub: false
 honorific: Saint
 summary: >-
   Priest at Nicomedia, Asia Minor (in modern Turkey). Arrested and tortured in the persecutions of Diocletian; he was

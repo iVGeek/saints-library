@@ -1,5 +1,6 @@
 ---
 name: Blessed José Gregorio Hernandez-Cisneros
+stub: false
 honorific: Blessed
 summary: >-
   The eldest of six children born to Benigno María Hernández Manzaneda and Josefa Antonia Cisneros Mansilla; he was

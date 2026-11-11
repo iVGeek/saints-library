@@ -1,5 +1,6 @@
 ---
 name: Blessed William Harcourt
+stub: false
 honorific: Blessed
 summary: >-
   Studied at the Jesuit College, Saint-Omer, France. Joined the Jesuits at Watten in 1632. Priest. Returned to England

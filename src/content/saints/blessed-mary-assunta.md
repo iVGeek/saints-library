@@ -1,5 +1,6 @@
 ---
 name: Blessed Mary Assunta
+stub: false
 honorific: Blessed
 summary: >-
   Daughter of Luigi Pallotta and Eufrasia Casali. Baptized on 21 August 1878. She grew up in Castello di Croce, Marches

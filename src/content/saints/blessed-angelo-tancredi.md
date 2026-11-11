@@ -1,5 +1,6 @@
 ---
 name: Blessed Angelo Tancredi
+stub: false
 honorific: Blessed
 summary: >-
   Born to the nobility, Angelo became a knight. In 1223 he was in service to Cardinal Leone Brancaleone in Rome, Italy

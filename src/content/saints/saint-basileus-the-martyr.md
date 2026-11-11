@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/d/d0/Martyrion_Agiou_Basileos_Amasias_Dionysiou.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Basileus the Martyr
+stub: true
 honorific: Saint
 summary: Martyred in the persecution of Valerian.
 deathYear: 258

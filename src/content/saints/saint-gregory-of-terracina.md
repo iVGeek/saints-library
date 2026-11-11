@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Gregory of Terracina
+stub: false
 honorific: Saint
 summary: >-
   Brother of Saint Speciosus. Spiritual student of Saint Benedict of Nursia. Benedictine monk at Terracina, Italy. Pope

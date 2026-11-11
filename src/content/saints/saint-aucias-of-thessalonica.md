@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Aucias of Thessalonica
+stub: true
 honorific: Saint
 summary: Reported to be a king, but of where is unknown. Martyr.
 died: in Thessalonica, Greece, date unknown

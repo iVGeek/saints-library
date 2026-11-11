@@ -1,5 +1,6 @@
 ---
 name: Blessed Luigi Talamoni
+stub: false
 honorific: Blessed
 summary: >-
   The second of six children born to Giuseppe Talamoni, a hat maker, and Maria Angelica Sala; Luigi was baptized on the

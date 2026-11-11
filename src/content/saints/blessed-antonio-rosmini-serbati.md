@@ -1,5 +1,6 @@
 ---
 name: Blessed Antonio Rosmini-Serbati
+stub: false
 honorific: Blessed
 summary: >-
   Educated at home, and then three years at the University of Padua, Italy. Ordained on 21 April 1821 at Chioggia,

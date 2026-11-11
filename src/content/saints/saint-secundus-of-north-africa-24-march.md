@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Secundus of North Africa
+stub: true
 honorific: Saint
 summary: Brother of Saint Romulus. Martyr.
 searchAliases:

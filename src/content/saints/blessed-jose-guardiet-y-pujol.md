@@ -1,5 +1,6 @@
 ---
 name: Blessed Jose Guardiet y Pujol
+stub: false
 honorific: Blessed
 summary: >-
   Priest of the archdiocese of Barcelona, Spain. Rector of the parish of San Pedro in Rubi, Spain, he organized

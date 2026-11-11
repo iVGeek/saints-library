@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Victor of Africa
+stub: true
 honorific: Saint
 summary: Martyr.
 died: unknown location in Africa, date unknown

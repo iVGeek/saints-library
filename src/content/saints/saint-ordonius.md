@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/8/8c/Privilegium_imperatoris.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Ordonius of Astorga
+stub: false
 honorific: Saint
 summary: >-
   Notary to the court of King Ferdinando I of Léon. Travelled with the king to combat Muslim forces. Benedictine monk in

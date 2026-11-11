@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Donal O'Neylan
+stub: true
 honorific: Blessed
 summary: Franciscan priest. Martyr.
 deathYear: 1580

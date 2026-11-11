@@ -1,5 +1,6 @@
 ---
 name: Saint Martha of Persia
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility. Wife of Saint Maris, mother of Saint Audifax and Saint Abachum. Convert. Martyred with her whole

@@ -1,5 +1,6 @@
 ---
 name: Saint Gorgonius of Nicomedia
+stub: false
 honorific: Saint
 summary: >-
   Soldier. Favourite and trusted servant in the court of Emperor Diocletian. Convert to Christianity. Tortured and

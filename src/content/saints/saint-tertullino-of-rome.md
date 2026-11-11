@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Tertullino of Rome
+stub: true
 honorific: Saint
 summary: Martyr.
 died: on the Via Latina, Rome, Italy

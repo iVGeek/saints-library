@@ -1,5 +1,6 @@
 ---
 name: Blessed Carl Lampert
+stub: false
 honorific: Blessed
 summary: >-
   Youngest of seven children. Priest, ordained on 12 May 1918 in the cathedral in Brixen, Italy. Taught at several

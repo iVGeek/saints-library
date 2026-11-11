@@ -1,5 +1,6 @@
 ---
 name: Blessed John Righi of Fabriano
+stub: false
 honorific: Blessed
 summary: >-
   Born to the Italian nobility. Joined the Franciscans in 1484 at Forano, Italy. From 1511, he lived as a hermit at

@@ -1,5 +1,6 @@
 ---
 name: Francis de Sales
+stub: false
 honorific: Saint
 title: Bishop, Doctor of the Church
 summary: >-

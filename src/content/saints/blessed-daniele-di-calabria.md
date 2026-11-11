@@ -1,5 +1,6 @@
 ---
 name: Blessed Daniele di Calabria
+stub: false
 honorific: Blessed
 summary: ' Called to missionary work, he was one of a group of seven Fria Priest who joined the Franciscans in 1219. In 1224 he helped found the convent of Santa Maria del Soccorso near Rogliano, Italy. He helped found the convent of Gerace Superiore. Provincial superior of Calabria, Italy.'
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Daniele-di-Calabria.jpg

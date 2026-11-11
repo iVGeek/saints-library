@@ -1,5 +1,6 @@
 ---
 name: Saint Cornelius the Centurion
+stub: false
 honorific: Saint
 summary: >-
   Centurion of the Roman cohort stationed at Caesarea, Palestine in the early 1st century. A Roman pagan, he received

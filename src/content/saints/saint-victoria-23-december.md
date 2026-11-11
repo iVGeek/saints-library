@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Victoria
+stub: false
 honorific: Saint
 summary: >-
   A young Christian woman betrothed in an arranged marriage to a pagan named Eugene; she refused to marry him, refused

@@ -1,5 +1,6 @@
 ---
 name: Saint Basil of Bologna
+stub: false
 honorific: Saint
 summary: Priest. Bishop of Bologna, Italy for twenty years in the 4th century, appointed by Pope Saint Sylvester.
 deathYear: 335

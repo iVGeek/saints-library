@@ -1,5 +1,6 @@
 ---
 name: Saint Lazarus of Bethany
+stub: false
 honorific: Saint
 summary: >-
   The brother of Saint Martha and Saint Mary of Bethany. He was the man whom Jesus raised from the dead after having

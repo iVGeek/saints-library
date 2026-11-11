@@ -1,5 +1,6 @@
 ---
 name: Blessed Maria Crucified Satellico
+stub: false
 honorific: Blessed
 summary: >-
   Daughter of Piero Satellico and Lucia Mander, she grew up in the home of her maternal uncle who was a priest. Weak and

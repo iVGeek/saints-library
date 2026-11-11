@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Marcellus of Nicomedia
+stub: false
 honorific: Saint
 summary: Priest in Asia Minor. Martyred in the persecutions of the Arian Emperor Constantius.
 deathYear: 349

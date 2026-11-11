@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/0/00/FNeri.gif?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Thomas Caccia
+stub: false
 honorific: Blessed
 summary: >-
   Born to the Italian nobility. He joined the Franciscans at the convent of San Nazaro in Novara, Italy, receiving the

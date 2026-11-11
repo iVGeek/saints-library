@@ -1,5 +1,6 @@
 ---
 name: Blessed Florencio Arnáiz Cejudo
+stub: true
 honorific: Blessed
 summary: Marianist brother. Martyred in the Spanish Civil War.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Florencio-Arnaiz-Cejudo.jpg

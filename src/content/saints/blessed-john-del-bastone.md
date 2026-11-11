@@ -1,5 +1,6 @@
 ---
 name: Blessed John del Bastone
+stub: false
 honorific: Blessed
 summary: >-
   Born to a wealthy farm family, the youngest of five children of Bonello and Superla Botegoni. He was sent to study in

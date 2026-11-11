@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Cynibild of Laestingaeu
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility, the brother of Saint Chad and Saint Cedd. Educated at Lindisfarne by Saint Aidan and Saint

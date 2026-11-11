@@ -1,5 +1,6 @@
 ---
 name: Blessed Celestine of the Mother of God
+stub: false
 honorific: Blessed
 summary: >-
   She early felt drawn to religious life. Founded the Congregation of the Daughters of the Poor of Saint Joseph

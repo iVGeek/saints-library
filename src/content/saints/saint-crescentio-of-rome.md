@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Crescentio of Rome
+stub: true
 honorific: Saint
 summary: Martyr.
 died: on the Via Tiburtina, Rome, Italy

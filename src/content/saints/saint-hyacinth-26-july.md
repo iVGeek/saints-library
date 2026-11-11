@@ -1,5 +1,6 @@
 ---
 name: Saint Hyacinth
+stub: true
 honorific: Saint
 summary: Martyred in the persecutions of Trajan.
 deathYear: 110

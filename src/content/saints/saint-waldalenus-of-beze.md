@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Waldalenus of Bèze
+stub: false
 honorific: Saint
 summary: >-
   Born to the wealthy Burgundian nobility, the son of Duke Almagar and Duchess Aquilina; he was the brother of Saint

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/1/1b/Giotto%2C_Santa_Maria_Novella.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Giovanni da Vespignano
+stub: false
 honorific: Blessed
 summary: >-
   Born to the wealthy nobility. From his youth he felt drawn to religious vocation, gave up his claim to wealth and

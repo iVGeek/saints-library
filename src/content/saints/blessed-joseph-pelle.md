@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/3/38/Perceval-arrives-at-grail-castle-bnf-fr-12577-f18v-1330-detail.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Joseph Pellé
+stub: true
 honorific: Blessed
 summary: Priest in the diocese of Laval, France. Martyred in the French Revolution.
 birthYear: 1720

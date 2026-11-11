@@ -1,5 +1,6 @@
 ---
 name: Saint Maria of Lérida
+stub: false
 honorific: Saint
 summary: >-
   Daughter of Almanzor, Muslim caliph of Lerida, Catalonia in modern Spain. Sister of Saint Bernard of Lérida and Saint

@@ -1,5 +1,6 @@
 ---
 name: Saint Mark of Arethusa
+stub: false
 honorific: Saint
 summary: >-
   Bishop of Arethusa, Mount Lebanon. Attended the 351 synod at Sirmium where he produced a creed that got him falsely

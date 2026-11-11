@@ -1,5 +1,6 @@
 ---
 name: Blessed Engrecia Andiarena Sagaseta
+stub: false
 honorific: Blessed
 summary: Nun in the Servants of Mary, Ministers of the Sick. Martyred in the Spanish Civil War.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Engrecia-Andiarena-Sagaseta.jpg

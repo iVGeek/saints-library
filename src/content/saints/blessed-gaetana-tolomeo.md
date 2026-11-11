@@ -1,5 +1,6 @@
 ---
 name: Blessed Gaetana Tolomeo
+stub: false
 honorific: Blessed
 summary: >-
   Lay woman of the archdiocese of Catanzaro-Squillace, Italy who suffered all her life from physical deformities and

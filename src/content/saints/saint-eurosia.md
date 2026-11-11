@@ -1,5 +1,6 @@
 ---
 name: Saint Eurosia
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility. Promised in an arranged marriage to a Moor, she hid in a cave, but the smoke from her fire gave

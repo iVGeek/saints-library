@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Severinus of Tivoli
+stub: true
 honorific: Saint
 summary: Benedictine monk. Hermit at Tivoli, Italy.
 deathYear: 609

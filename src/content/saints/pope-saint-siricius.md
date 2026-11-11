@@ -1,5 +1,6 @@
 ---
 name: Pope Saint Siricius
+stub: false
 honorific: Saint
 summary: >-
   Son of Tiburtius. Lector. Deacon. Friend of Saint Ambrose of Milan. Unanimously elected 38th pope in 384. He was

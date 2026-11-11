@@ -1,5 +1,6 @@
 ---
 name: Saint Ferrutius
+stub: false
 honorific: Saint
 summary: >-
   Roman soldier. Christian. When stationed at Mainz, Germany, as part of his duty he was ordered to worship an idol. He

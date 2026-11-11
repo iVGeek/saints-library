@@ -1,5 +1,6 @@
 ---
 name: Saint Boniface of Cilicia
+stub: false
 honorific: Saint
 summary: >-
   Slave and servant to the imperial Roman noble woman Aglaia at Tarsus, Cilicia. Martyred in the persecutions of

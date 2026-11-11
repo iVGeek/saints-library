@@ -1,5 +1,6 @@
 ---
 name: Blessed Thomas Maxfield
+stub: false
 honorific: Blessed
 summary: >-
   Son of Ursula and William Macclesfield; his father was later charged with hiding and supporting priests, one of which

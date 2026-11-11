@@ -1,5 +1,6 @@
 ---
 name: Venerable Domenico Lázaro Castro
+stub: true
 image: https://upload.wikimedia.org/wikipedia/commons/5/5d/Gundemaro.jpg
 honorific: Venerable
 summary: Priest. Member of the Society of Mary.

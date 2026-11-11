@@ -1,5 +1,6 @@
 ---
 name: Saint Flavianus of Avellino
+stub: false
 honorific: Saint
 summary: >-
   Deacon in Antioch, Turkey, serving Saint Modestinus of Avellina. Imprisoned for his faith in the persecutions of

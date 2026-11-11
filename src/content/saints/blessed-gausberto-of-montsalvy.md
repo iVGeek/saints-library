@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Gausberto of Montsalvy
+stub: false
 honorific: Blessed
 summary: >-
   Priest. Hermit. Augustinian monk and then abbot at Montsalvy Abbey, Clermont-Ferrand, France. He helped turn the house

@@ -1,5 +1,6 @@
 ---
 name: Saint Satyrus of Milan
+stub: false
 honorific: Saint
 summary: >-
   Older brother of Saint Ambrose of Milan and Saint Marcellina. Lawyer. Prefect of an imperial Roman province. Handled

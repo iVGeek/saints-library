@@ -1,5 +1,6 @@
 ---
 name: Saint Julian the Hospitaller
+stub: false
 honorific: Saint
 summary: >-
   Noble layman; friend and counselor to the king, he was married to a wealthy widow. A stag he was hunting predicted he

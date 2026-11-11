@@ -1,5 +1,6 @@
 ---
 name: Blessed Thomas Redyng
+stub: false
 honorific: Blessed
 summary: >-
   Carthusian choir monk of the Charterhouse in London, England. Martyred for refusing to accept King Henry VIII as head

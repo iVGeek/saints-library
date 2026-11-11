@@ -1,5 +1,6 @@
 ---
 name: Saint Jeanne de Lestonnac
+stub: false
 honorific: Venerable
 summary: ' Believing that her obligations to the world w Married Gaston de Montferrant, Baron of Landiras, in 1572 at age 16. Mother of seven, five of whom lived to adulthood; two of the five entered religious life. Widowed at age 41, she ran the affairs of her estate and castle by herself.'
 image: https://commons.wikimedia.org/wiki/Special:FilePath/Saint_Jeanne_de_Lestonnac.jpg?width=600

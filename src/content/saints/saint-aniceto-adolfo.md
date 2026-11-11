@@ -1,5 +1,6 @@
 ---
 name: Saint Aniceto Adolfo
+stub: false
 honorific: Venerable
 summary: >-
   Member of the Brothers of the Christian Schools, entering the novitate on 6 September 1928. One of the Martyrs of

@@ -1,5 +1,6 @@
 ---
 name: Saint Gennadius of Constantinople
+stub: false
 honorific: Saint
 summary: >-
   Priest, bishop and Patriarch of Constantinople from 458 to 471. Known for his learning, his biblical scholarship, and

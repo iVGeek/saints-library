@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Theodosius of Antioch
+stub: true
 honorific: Saint
 summary: Monk. Founded a monastery in Cilicia (modern Çukurova, Turkey).
 deathYear: 412

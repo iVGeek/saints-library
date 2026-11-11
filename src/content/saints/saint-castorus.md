@@ -1,5 +1,6 @@
 ---
 name: Saint Castorus
+stub: false
 honorific: Saint
 summary: >-
   Worked as a carver in the imperial quarries at modern Sremska Mitrovica, Serbia for emperor Diocletian. Imprisoned for

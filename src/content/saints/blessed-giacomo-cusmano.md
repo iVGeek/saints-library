@@ -1,5 +1,6 @@
 ---
 name: Blessed Giacomo Cusmano
+stub: false
 honorific: Blessed
 summary: >-
   Fourth of five children born to Giacomo and Magdalene Cusmano; his father worked as a surveyor, and the family was

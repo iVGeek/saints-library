@@ -1,5 +1,6 @@
 ---
 name: Saint Nathy
+stub: false
 honorific: Saint
 summary: >-
   Nothing reliable is known about his early life. Spiritual student of Saint Finnian of Clonnard. Priest. Founded a

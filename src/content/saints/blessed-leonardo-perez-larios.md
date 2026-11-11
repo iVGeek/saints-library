@@ -1,5 +1,6 @@
 ---
 name: Blessed Leonardo Pérez Lários
+stub: false
 honorific: Blessed
 summary: >-
   The third of eleven children born to a ranching family. Leonardo felt a call to religious life, but when his father

@@ -1,5 +1,6 @@
 ---
 name: Saint Anastasia Guadalupe García Zavala
+stub: false
 honorific: Venerable
 summary: >-
   Daughter of Fortino García and Refugio Zavala de García; her father ran a religious goods store in front of the

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/1/1d/StMarysCathedral_b.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Peter of Subiaco
+stub: false
 honorific: Blessed
 summary: >-
   Benedictine monk. Abbot of the monastery of Subiaco, Italy. Blinded and imprisoned by the baron of Monticello for

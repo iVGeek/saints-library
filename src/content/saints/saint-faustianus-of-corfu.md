@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Faustianus of Corfu
+stub: false
 honorific: Saint
 summary: >-
   A criminal, he was converted by Saint Jason and Saint Sosipater while in prison with them. Killed for his new faith,

@@ -1,5 +1,6 @@
 ---
 name: Maximilian Kolbe
+stub: false
 honorific: Saint
 title: Priest, Martyr
 summary: >-

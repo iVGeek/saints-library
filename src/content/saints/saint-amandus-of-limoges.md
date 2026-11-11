@@ -1,5 +1,6 @@
 ---
 name: Saint Amandus of Limoges
+stub: false
 honorific: Saint
 summary: >-
   Born to the Hungarian nobility. In the late 5th century, with the support of Bishop Ruricius I, he became a hermit at

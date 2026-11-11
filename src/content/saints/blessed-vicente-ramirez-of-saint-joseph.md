@@ -1,5 +1,6 @@
 ---
 name: Blessed Vicente Ramírez of Saint Joseph
+stub: false
 honorific: Blessed
 summary: >-
   Franciscan Friars Minor (Alcantarines) friary. Martyred in the persecution of the Tokugawa Shogunate as part of the

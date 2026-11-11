@@ -1,5 +1,6 @@
 ---
 name: Saint Swithbert
+stub: false
 honorific: Saint
 summary: >-
   Studied in Ireland with Saint Egbert of Rathemigisi. Benedictine monk. Preacher. Spiritual teacher of Saint Willeic.

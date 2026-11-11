@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/e/e2/BensalemPA_DrexelShrineEntrance.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed John Lockwood
+stub: false
 honorific: Blessed
 summary: >-
   Studied for the priesthood in Rome, Italy during the persecution of Catholics in England. Ordained in 1597. Worked

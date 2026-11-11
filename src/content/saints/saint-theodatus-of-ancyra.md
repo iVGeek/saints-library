@@ -1,5 +1,6 @@
 ---
 name: Saint Theodatus of Ancyra
+stub: false
 honorific: Saint
 summary: >-
   Married innkeeper and vintner in Ancyra, Galatia (in modern Turkey). Martyred in the persecutions of Diocletian for

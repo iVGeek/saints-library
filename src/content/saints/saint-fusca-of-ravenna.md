@@ -1,5 +1,6 @@
 ---
 name: Saint Fusca of Ravenna
+stub: false
 honorific: Saint
 summary: >-
   Raised in a pagan family, at age 15 Fusca converted to Christianity and was baptized along with her nursemaid, Saint

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/d/dd/Rysunek_NSPJ_i_r%C4%99kopis_Aktu_Po%C5%9Bwi%C4%99cenia_si%C4%99_Mu_%C5%9Bw._Ma%C5%82gorzaty_Marii_Alacoque.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Jesús Delgado De La Fuente
+stub: false
 honorific: Blessed
 summary: Monk. Member of the Marist Brothers of the Schools. Martyred in the Spanish Civil War.
 searchAliases:

@@ -1,5 +1,6 @@
 ---
 name: Saint Charity
+stub: false
 honorific: Saint
 summary: >-
   One of the daughters of Saint Sophia. Tortured and martyred for her faith at the age of nine in the persecutions of

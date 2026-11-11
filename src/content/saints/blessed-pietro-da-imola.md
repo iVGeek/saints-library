@@ -1,5 +1,6 @@
 ---
 name: Blessed Pietro da Imola
+stub: false
 honorific: Blessed
 summary: >-
   Son of Giacomo di Antonio, a member of the Ghibelline political faction, and related to the Italian nobility. Lawyer.

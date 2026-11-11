@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/0/0b/Harvard_Rowing_Crew_at_Henley_2004_-2.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Mac Earc
+stub: false
 honorific: Saint
 summary: >-
   Traditionally born to a family of saints, Mac Earc is mentioned in several ancient Irish martyrologies as a bishop,

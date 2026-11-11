@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Fiachra of Erard
+stub: false
 honorific: Saint
 summary: Monk. Abbot of Erard, in the ancient kingdom of Ui-Drona (in modern County Carlow, Ireland).
 region: Ireland

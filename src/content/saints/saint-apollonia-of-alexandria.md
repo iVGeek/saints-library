@@ -1,5 +1,6 @@
 ---
 name: Saint Apollonia of Alexandria
+stub: false
 honorific: Saint
 summary: >-
   Consecrated virgin. Deaconess. During an anti-Christian uprising in Alexandria, Egypt caused by a pagan prophecy, the

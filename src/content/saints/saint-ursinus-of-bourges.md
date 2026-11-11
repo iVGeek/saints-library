@@ -1,5 +1,6 @@
 ---
 name: Saint Ursinus of Bourges
+stub: false
 honorific: Saint
 summary: >-
   Missionary to and first bishop of Bourges, France. Legend says he was a disciple of the Apostles who sent him as a

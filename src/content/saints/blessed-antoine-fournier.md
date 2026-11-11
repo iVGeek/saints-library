@@ -1,5 +1,6 @@
 ---
 name: Blessed Antoine Fournier
+stub: false
 image: >-
   https://commons.wikimedia.org/wiki/Special:FilePath/Figure_of_a_River_God%252C_1747-1750%252C_S%25C3%25A8vres_Porcelain_Manufactory%252C_possibly_modeled_by_Louis-Antoine_Fournier_-_Art_Institute_of_Chicago_-_DSC09447.JPG?width=600
 honorific: Blessed

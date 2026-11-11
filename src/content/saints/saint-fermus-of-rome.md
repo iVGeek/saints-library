@@ -1,5 +1,6 @@
 ---
 name: Saint Fermus of Rome
+stub: true
 honorific: Saint
 summary: Martyr.
 searchAliases:

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Vincent of Rome
+stub: true
 honorific: Saint
 summary: Deacon. Martyred with Pope Saint Sixtus II and other deacons.
 deathYear: 258

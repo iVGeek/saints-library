@@ -1,5 +1,6 @@
 ---
 name: Saint Ginés de la Jara
+stub: false
 honorific: Saint
 summary: >-
   A holy man, and probably a hermit, who lived in the area of modern Cartagena, Spain early in the faith. We know almost

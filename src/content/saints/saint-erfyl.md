@@ -1,6 +1,7 @@
 ---
 image: https://www.catholic.org/files/images/saints/3165.jpg
 name: Saint Erfyl
+stub: false
 honorific: Saint
 summary: Holy virgin who founded the church of Llanerfyl, Montgomeryshire, Wales. No reliable information has survived.
 searchAliases:

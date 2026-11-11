@@ -1,5 +1,6 @@
 ---
 name: Clare of Assisi
+stub: false
 honorific: Saint
 title: Abbess, Foundress of the Poor Clares
 summary: >-

@@ -1,5 +1,6 @@
 ---
 name: Saint Gerold of Cologne
+stub: false
 honorific: Saint
 summary: >-
   Thirteenth century pilgrim from Cologne, Germany who was murdered by robbers at Cremona, Italy. Honoured at both

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/3/33/Blessed-edward-james.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Edward Stransham
+stub: false
 honorific: Blessed
 summary: >-
   Educated at Oxford, England, Douai and Rheims, France. Ordained in 1580. Returned to England in 1581 and covertly

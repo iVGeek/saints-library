@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Venerable Joaquina María Mercedes Barceló Pagés
+stub: false
 honorific: Venerable
 summary: Nun. Co-founder of the Congregation of the Augustinian Sisters of Our Lady of Consolation.
 searchAliases:

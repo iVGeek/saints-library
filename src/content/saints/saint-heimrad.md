@@ -1,5 +1,6 @@
 ---
 name: Saint Heimrad
+stub: false
 honorific: Saint
 summary: >-
   Priest. Made several pilgrimages to holy sites. He was so unworldly, his mind so much on spiritual matters that many

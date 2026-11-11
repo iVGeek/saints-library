@@ -1,5 +1,6 @@
 ---
 name: Saint Acacius of Byzantium
+stub: false
 honorific: Saint
 summary: >-
   Christian centurian in the imperial Roman army stationed in Thrace. Tortured and executed in the persecutions of

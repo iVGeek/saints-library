@@ -1,5 +1,6 @@
 ---
 name: Saint Emily de Vialar
+stub: false
 honorific: Venerable
 summary: >-
   Born to an aristocratic family, the eldest of three children, and only daughter of Baron James Augustine and

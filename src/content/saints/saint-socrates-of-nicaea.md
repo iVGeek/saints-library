@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Socrates of Nicaea
+stub: true
 honorific: Saint
 summary: Priest in Bithynia (modern Iznik, Turkey). Martyr.
 deathYear: 230

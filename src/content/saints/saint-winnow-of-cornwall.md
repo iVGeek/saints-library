@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/6/6f/St_Winnow_Parish_Church.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Winnow of Cornwall
+stub: false
 honorific: Saint
 summary: Sixth century saint who lived in Cornwall. A church is dedicated to him, but no information about him has survived.
 born: Ireland

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Domnio of Salona
+stub: false
 honorific: Saint
 summary: >-
   One of the 72 disciples sent by Christ in His early ministry. Travelled to Rome, Italy with Saint Peter the Apostle.

@@ -1,5 +1,6 @@
 ---
 name: Saint Felix of Cantalice
+stub: false
 honorific: Saint
 summary: ' Having little education, Felix had a friend read him th Born to pious peasants, he was a shepherd in his youth. At age nine he was hired out as a shepherd and farm hand at Cotta Ducale; he worked there over twenty years. A pious youth and man, Felix spent his free time in prayer.'
 image: https://commons.wikimedia.org/wiki/Special:FilePath/Rubens_Felice_da_Cantalice.JPG?width=600

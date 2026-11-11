@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Venerable Maria Elisa Andreoli
+stub: false
 honorific: Venerable
 summary: Founder of the Congregation of the Reparatrix Sisters, Servants of Mary (Serve di Maria Riparatrici).
 birthYear: 1861

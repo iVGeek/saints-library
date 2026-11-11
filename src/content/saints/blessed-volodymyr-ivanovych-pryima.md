@@ -1,5 +1,6 @@
 ---
 name: Blessed Volodymyr Ivanovych Pryima
+stub: false
 honorific: Blessed
 summary: >-
   Greek Catholic. Layman, married and a father. Cantor and choir director at Stradch. Martyred with Blessed Mykola

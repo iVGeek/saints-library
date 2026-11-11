@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Helanus
+stub: false
 honorific: Saint
 summary: >-
   He and nine siblings settled near Rheims, France. Helanus became a parish priest there most of his life, ending his

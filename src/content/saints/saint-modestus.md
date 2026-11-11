@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/3/39/Saint_Publius_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Modestus of Carthage
+stub: true
 honorific: Saint
 summary: Martyr. No other information has survived.
 deathYear: 160

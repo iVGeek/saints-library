@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/c/c5/Le_sacre_coeur.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Pierre-Louis Gervais
+stub: true
 honorific: Blessed
 summary: Priest of the archdiocese of Paris, France. One of the Martyrs of September.
 birthYear: 1753

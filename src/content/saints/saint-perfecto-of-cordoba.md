@@ -1,5 +1,6 @@
 ---
 name: Saint Perfecto of Córdoba
+stub: false
 honorific: Saint
 summary: >-
   Priest. Accosted on the street one day by Moors who asked his opinion of Jesus and Mohammed, promising no harm to him

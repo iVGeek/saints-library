@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Maximus of Carthage
+stub: false
 honorific: Saint
 summary: Child who was being educated in a monastery. Martyred in the persecutions of the Arian King Hunneric.
 deathYear: 483

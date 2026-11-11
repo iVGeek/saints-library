@@ -1,5 +1,6 @@
 ---
 name: Blessed Amalarius of Metz
+stub: false
 honorific: Blessed
 summary: >-
   Ninth-century liturgical writer. A pupil of Alcuin at Aix-la-Chapelle, Germany, he was bishop of Trier, Germany from

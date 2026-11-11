@@ -1,5 +1,6 @@
 ---
 name: Saint Alexander of Prusa
+stub: true
 honorific: Saint
 summary: Bishop of Prusa, Bithynia (in modern Turkey). Martyr.
 searchAliases:

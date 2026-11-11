@@ -1,5 +1,6 @@
 ---
 name: Blessed Dedë Maçaj
+stub: false
 honorific: Blessed
 summary: >-
   Studied at the Shkodra Pontifical Seminary and then in Rome, Italy. Ordained on 19 March 1944 as a priest in the

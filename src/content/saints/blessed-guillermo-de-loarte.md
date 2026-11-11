@@ -1,5 +1,6 @@
 ---
 name: Blessed Guillermo de Loarte
+stub: false
 honorific: Blessed
 title: Priest
 summary: >-

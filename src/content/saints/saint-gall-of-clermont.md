@@ -1,5 +1,6 @@
 ---
 name: Saint Gall of Clermont
+stub: false
 honorific: Saint
 summary: >-
   Born to the Gallic nobility; relative of Saint Vettius Apagatus. Uncle and teacher of Saint Gregory of Tours. He

@@ -1,5 +1,6 @@
 ---
 name: Blessed Maria de Requesens
+stub: false
 honorific: Blessed
 summary: >-
   Born to the Catalan nobility, she gave away her fortune to the poor and became one of the first Mercedarians. Worked

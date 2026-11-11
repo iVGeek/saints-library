@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Eterius of Auxerre
+stub: false
 honorific: Saint
 title: Bishop
 summary: Bishop of Auxerre, France in 552, he served the remaining nine years of his life.

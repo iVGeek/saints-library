@@ -1,5 +1,6 @@
 ---
 name: Blessed Gerardo Mecatti
+stub: false
 honorific: Blessed
 summary: >-
   A member of the Knights of Malta, Gerardo was inspired by the example of Saint Francis of Assisi, gave all his wealth

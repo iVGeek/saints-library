@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Helwisa
+stub: false
 honorific: Blessed
 title: Virgin
 summary: >-

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Ensfrid of Cologne
+stub: false
 honorific: Saint
 summary: >-
   Parish priest in Siegburg and Friedburg in Germany. Dean of the church of Saint Andrew in Cologne, Germany. Noted for

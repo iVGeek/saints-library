@@ -1,5 +1,6 @@
 ---
 name: Saint Simeon Senex
+stub: false
 honorific: Saint
 summary: >-
   The man who, in Luke 2, picked up the Infant Jesus and gave the blessing known as the Nunc dimittis. No other

@@ -1,5 +1,6 @@
 ---
 name: Blessed Andrea Carlo Ferrari
+stub: false
 honorific: Blessed
 summary: >-
   Educated in the seminary of Parma, Italy. Ordained on 20 December 1873 in Parma. Episcopal delegate of Mariano,

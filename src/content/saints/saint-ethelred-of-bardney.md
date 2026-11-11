@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Ethelred of Bardney
+stub: false
 honorific: Saint
 summary: >-
   Born a prince, the son of King Penda of Mercia in England. Ethelred became king of Mercia himself in 674. Abdicated in

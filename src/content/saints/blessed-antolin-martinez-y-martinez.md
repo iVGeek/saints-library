@@ -1,5 +1,6 @@
 ---
 name: Blessed Antolín Martínez y Martínez
+stub: false
 honorific: Blessed
 summary: >-
   Joined the Salesians on 29 September 1928 in Bujedo, Spain, making his profession on 1 February 1931. Taught in Santa

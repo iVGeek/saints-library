@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Pedro Malasanch
+stub: false
 honorific: Blessed
 summary: >-
   Born to the Catalan nobility. Joined the Mercedarians at age 18. Made redemption trips to Africa in 1415 and 1427 to

@@ -1,5 +1,6 @@
 ---
 name: Saint Ferreolus of Limoges
+stub: true
 honorific: Saint
 title: Bishop
 summary: Bishop of Limoges, France in 579. Much admired by Saint Gregory of Tours.

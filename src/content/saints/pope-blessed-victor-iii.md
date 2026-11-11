@@ -1,5 +1,6 @@
 ---
 name: Pope Blessed Victor III
+stub: false
 honorific: Blessed
 summary: >-
   Son of Prince Landolfo V of Benevento, Italy. He felt an early call to religious life, but as he was the only son, his

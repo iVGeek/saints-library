@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/7/75/Santa_Trinita_16_Neri_di_Bicci.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Orlando of Vallombrosa
+stub: true
 honorific: Blessed
 summary: Lay-brother in the Vallombrosan Order. Noted exorcist.
 deathYear: 1242

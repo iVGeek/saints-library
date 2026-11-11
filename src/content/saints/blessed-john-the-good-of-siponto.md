@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed John the Good of Siponto
+stub: false
 honorific: Blessed
 summary: >-
   12th century monk. Spiritual student of Blessed John of Matera, and of Blessed Jordan of Pulsano. Founded the

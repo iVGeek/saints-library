@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Sigiranus
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility of Berry, France; son of the Count of Bourges, a man who later became bishop of Tours, France.

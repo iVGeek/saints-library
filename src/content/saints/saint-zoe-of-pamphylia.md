@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Zoe of Pamphylia
+stub: false
 honorific: Saint
 summary: >-
   Married to Saint Exsuperius. Mother of Saint Cyriacus and Saint Theodulus. Slave, owned by a rich devout worshipper of

@@ -1,5 +1,6 @@
 ---
 name: Saint Jean-Gabriel-Taurin Dufresse
+stub: false
 honorific: Venerable
 summary: >-
   Entered the Society of Foreign Missions of Paris seminary in 1774, and ordained on 17 September. Missionary to

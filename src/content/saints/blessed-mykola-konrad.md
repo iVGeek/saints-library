@@ -1,5 +1,6 @@
 ---
 name: Blessed Mykola Konrad
+stub: false
 honorific: Blessed
 summary: >-
   Greek Catholic. Studied philosophy and theology at Rome, Italy. Ordained in 1899. Taught in high schools in Berezhony

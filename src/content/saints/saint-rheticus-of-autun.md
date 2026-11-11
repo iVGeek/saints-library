@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Rheticus of Autun
+stub: false
 honorific: Saint
 title: Bishop
 summary: >-

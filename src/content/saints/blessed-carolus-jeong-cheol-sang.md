@@ -1,5 +1,6 @@
 ---
 name: Blessed Carolus Jeong Cheol-sang
+stub: true
 honorific: Blessed
 summary: Married layman martyr in the apostolic vicariate of Korea.
 image: https://catholicsaints.info/wp-content/uploads/img-Maryrs-of-Korea.jpg

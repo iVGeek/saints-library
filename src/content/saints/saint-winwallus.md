@@ -1,5 +1,6 @@
 ---
 name: Saint Winwallus
+stub: false
 honorific: Saint
 summary: >-
   His father was Fragan, a Welsh noble who had recently emigrated to Brittany to escape a Saxon invasion. Ward and

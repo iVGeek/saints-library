@@ -1,5 +1,6 @@
 ---
 name: Saint Eulogius of Tarragona
+stub: false
 honorific: Saint
 summary: >-
   Deacon in Tarragona, Spain, working with Saint Fructuosus and Saint Augurius. Arrested in 259 by the Roman governor

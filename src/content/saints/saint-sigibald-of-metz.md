@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Sigibald of Metz
+stub: false
 honorific: Saint
 title: Bishop
 summary: Bishop of Metz, France in 716. Built several monasteries including Neuweiter and Saint-Avold.

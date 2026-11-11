@@ -1,5 +1,6 @@
 ---
 name: Blessed Almus of Balmerino
+stub: false
 honorific: Blessed
 summary: 13th century Cistercian monk in Melrose, England. First abbot of Balmerino Abbey, founded c.1228.
 searchAliases:

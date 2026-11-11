@@ -1,5 +1,6 @@
 ---
 name: Blessed Elia of San Clemente
+stub: false
 honorific: Blessed
 summary: >-
   The third of nine children born in a devout family; four of her siblings did not survive childhood. On 10 May 1911,

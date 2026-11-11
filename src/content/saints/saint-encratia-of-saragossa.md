@@ -1,5 +1,6 @@
 ---
 name: Saint Encratia of Saragossa
+stub: false
 honorific: Saint
 summary: >-
   Nun who was tortured in Saragossa, Spain for her faith. She survived, but is counted as a martyr due to the extent of

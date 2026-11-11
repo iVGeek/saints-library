@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Herbert of Tours
+stub: true
 honorific: Saint
 summary: Monk. Abbot at Marmoutier Abbey. Archbishop of Tours, France.
 searchAliases:

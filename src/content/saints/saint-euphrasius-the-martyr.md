@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Euphrasius the Martyr
+stub: true
 honorific: Saint
 summary: Bishop. Martyred by Arian Vandals.
 searchAliases:

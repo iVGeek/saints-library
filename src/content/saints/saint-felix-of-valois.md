@@ -1,5 +1,6 @@
 ---
 name: Saint Felix of Valois
+stub: false
 honorific: Saint
 summary: >-
   Son of Count Raoul de Vermandois et de Valois and Alienor de Champagne. As a child, Felix received the blessings of

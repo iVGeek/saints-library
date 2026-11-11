@@ -1,5 +1,6 @@
 ---
 name: Venerable Vasco de Quiroga
+stub: false
 honorific: Venerable
 summary: >-
   Quiroga studied for the priesthood, canon law and civil law, at the University of Valladolid, Spain and the University

@@ -1,5 +1,6 @@
 ---
 name: Saint Paul Aurelian
+stub: false
 honorific: Saint
 summary: >-
   Born a Romano-Briton prince, the son of Perphius, a Welsh chieftain. Educated at Llantwit Major with Saint David of

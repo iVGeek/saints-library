@@ -1,5 +1,6 @@
 ---
 name: Blessed Anselmo
+stub: true
 image: https://commons.wikimedia.org/wiki/Special:FilePath/Anselmo%252C_Nebraska_community_building.JPG?width=600
 honorific: Blessed
 summary: Twelfth century Camaldolese hermit.

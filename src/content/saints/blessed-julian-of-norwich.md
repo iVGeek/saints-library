@@ -1,5 +1,6 @@
 ---
 name: Blessed Julian of Norwich
+stub: false
 honorific: Blessed
 summary: >-
   Almost nothing is known of her early life; we don't even know if she was from Norwich or chose to move there, and

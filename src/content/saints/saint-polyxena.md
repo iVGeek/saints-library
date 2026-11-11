@@ -1,5 +1,6 @@
 ---
 name: Saint Polyxena
+stub: true
 honorific: Saint
 summary: Spiritual student of the Apostles.
 image: https://commons.wikimedia.org/wiki/Special:FilePath/Sacrifice_Polyxena_BM_GR1897.7-27.2.jpg?width=600

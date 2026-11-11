@@ -1,5 +1,6 @@
 ---
 name: Saint Gabianus of Rome
+stub: true
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Armenia%27s_ordeal_%28IA_armeniasordeal00vart%29.pdf/page1-500px-Armenia%27s_ordeal_%28IA_armeniasordeal00vart%29.pdf.jpg
 honorific: Saint

@@ -1,5 +1,6 @@
 ---
 name: Blessed Antonio Silvestre Moya
+stub: false
 honorific: Blessed
 summary: >-
   Son of a policeman. Studied at the seminary of Valencia, Spain. Priest in the Archdiocese of Valencia, ordained in

@@ -1,5 +1,6 @@
 ---
 name: Blessed Alejandro Cobos Celada
+stub: false
 honorific: Blessed
 summary: >-
   Joined the Hospitallers of Saint John of God at age 14, making his final nows 12 November 1905. Martyred in the

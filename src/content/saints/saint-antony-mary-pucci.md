@@ -1,5 +1,6 @@
 ---
 name: Saint Antony Mary Pucci
+stub: false
 honorific: Venerable
 summary: >-
   Second of seven children from a peasant family. His father was sacristan of the local church, but he opposed his son's

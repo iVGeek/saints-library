@@ -1,5 +1,6 @@
 ---
 name: Saint Eric of Sweden
+stub: false
 honorific: Saint
 summary: >-
   King of Sweden. Defended his country from Finnish invasions. Codified Swedish law under Gospel principles. Used his

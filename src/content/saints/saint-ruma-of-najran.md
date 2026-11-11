@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Ruma of Najran
+stub: false
 honorific: Saint
 summary: >-
   Christian princess of the city of Nagrana (modern Najran, Saudi Arabia). She, her husband and children were part of

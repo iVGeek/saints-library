@@ -1,5 +1,6 @@
 ---
 name: Blessed Alejandro González Blanco
+stub: false
 image: >-
   https://commons.wikimedia.org/wiki/Special:FilePath/1906-12-01%252C_Blanco_y_Negro%252C_Real_Academia_Espa%25C3%25B1ola_%252822_nov._1906%2529%252C_B._y_N.jpg?width=600
 honorific: Blessed

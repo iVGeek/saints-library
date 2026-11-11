@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/1/15/Blessed-everard-hanse.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Everard Hanse
+stub: false
 honorific: Blessed
 summary: >-
   Raised Protestant. Educated at Cambridge University. Anglican minister. A near-fatal illness caused him to re-examine

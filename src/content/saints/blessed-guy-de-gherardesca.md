@@ -1,5 +1,6 @@
 ---
 name: Blessed Guy de Gherardesca
+stub: true
 honorific: Blessed
 title: Hermit
 summary: Hermit at Campo, Italy.

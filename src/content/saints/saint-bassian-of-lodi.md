@@ -1,5 +1,6 @@
 ---
 name: Saint Bassian of Lodi
+stub: false
 honorific: Saint
 summary: >-
   Son of Servius, prefect of Syracuse, Sicily. Student in Rome, Italy. Convert to Christianity. His family opposed the

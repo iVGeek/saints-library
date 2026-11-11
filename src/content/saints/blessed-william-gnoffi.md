@@ -1,5 +1,6 @@
 ---
 name: Blessed William Gnoffi
+stub: false
 honorific: Blessed
 summary: >-
   Born to the Sicilian nobility, William early felt a call to religion, possibly in response to briefly giving himself

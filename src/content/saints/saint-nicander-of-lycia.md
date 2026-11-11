@@ -1,5 +1,6 @@
 ---
 name: Saint Nicander of Lycia
+stub: true
 honorific: Saint
 summary: Bishop. Martyr.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Nicander-of-Lycia.jpg

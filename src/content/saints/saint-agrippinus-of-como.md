@@ -1,5 +1,6 @@
 ---
 name: Saint Agrippinus of Como
+stub: true
 honorific: Saint
 title: Bishop
 summary: Bishop of Como, Italy.

@@ -1,5 +1,6 @@
 ---
 name: Saint Baldwin
+stub: false
 honorific: Saint
 summary: >-
   Son of Saint Sadalberga and Saint Blandinus of Laon. Brother of Saint Anstrude of Laon. Archdeacon of Laon in the time

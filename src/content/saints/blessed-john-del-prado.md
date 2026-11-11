@@ -1,5 +1,6 @@
 ---
 name: Blessed John del Prado
+stub: false
 honorific: Blessed
 summary: >-
   Studied theology at Salamanca, Spain. Priest. Member of the Barefooted Franciscans of the Strict Observance.

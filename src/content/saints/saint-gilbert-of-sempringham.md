@@ -1,5 +1,6 @@
 ---
 name: Saint Gilbert of Sempringham
+stub: false
 honorific: Saint
 summary: >-
   Son of the wealthy Norman knight Jocelin. When Gilbert showed no signs of becoming a soldier, his father exiled him to

@@ -1,5 +1,6 @@
 ---
 name: Saint Martin-Luc Huin
+stub: false
 honorific: Venerable
 summary: >-
   One of ten children born to a pious vintner's family. Began to study theology in 1851, studying with missionaries who

@@ -1,5 +1,6 @@
 ---
 name: Saint Wulfram of Sens
+stub: false
 honorific: Saint
 summary: >-
   Son of an official in the court of King Dagobert. Courtier under Clotaire III. Priest. Benedictine. Archbishop of

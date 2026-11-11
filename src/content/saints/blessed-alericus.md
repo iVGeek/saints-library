@@ -1,5 +1,6 @@
 ---
 name: Blessed Alericus
+stub: false
 honorific: Blessed
 summary: >-
   Son of duke Burhard II of Swabia. Educated at Einsiedeln, Switzerland. Monk of Einsiedeln. Hermit on the island of

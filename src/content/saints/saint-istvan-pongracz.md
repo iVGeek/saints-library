@@ -1,5 +1,6 @@
 ---
 name: Saint István Pongrácz
+stub: false
 honorific: Venerable
 summary: >-
   Jesuit priest. Missionary near Košice, Hungary (in modern Slovakia). Arrested by Calvinist troops in 1619, tortured

@@ -1,5 +1,6 @@
 ---
 name: Blessed Marcel-Gaucher Labiche de Reignefort
+stub: false
 honorific: Blessed
 summary: >-
   Priest in the diocese of Bourges, France. Imprisoned on a ship in the harbor of Rochefort, France and left to die

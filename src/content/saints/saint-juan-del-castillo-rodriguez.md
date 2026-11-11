@@ -1,5 +1,6 @@
 ---
 name: Saint Juan del Castillo Rodríguez
+stub: false
 honorific: Venerable
 summary: >-
   Born to the Spanish nobility, the son of Alonso del Castillo and María Rodríguez, Juan was baptized at the age of

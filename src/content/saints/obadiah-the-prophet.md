@@ -1,5 +1,6 @@
 ---
 name: Obadiah the Prophet
+stub: false
 honorific: Saint
 summary: >-
   Old Testament prophet whose writings are dated between the 9th and 5th centuries before Christ. Outside of the text,

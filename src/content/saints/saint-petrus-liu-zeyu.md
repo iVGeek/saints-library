@@ -1,5 +1,6 @@
 ---
 name: Saint Petrus Liu Zeyu
+stub: false
 honorific: Venerable
 summary: >-
   Layman in the apostolic vicariate of Southeastern Zhili, China. During the Boxer Rebellion, he was ordered by the

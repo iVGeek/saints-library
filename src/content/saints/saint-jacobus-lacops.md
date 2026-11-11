@@ -1,5 +1,6 @@
 ---
 name: Saint Jacobus Lacops
+stub: false
 honorific: Saint
 summary: >-
   Norbertine monk at Middelburg, Belgium. In 1566 he apostatized, writing and preaching against the Church. He later

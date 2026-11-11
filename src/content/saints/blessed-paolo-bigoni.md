@@ -1,5 +1,6 @@
 ---
 name: Blessed Paolo Bigoni
+stub: false
 honorific: Blessed
 summary: >-
   In 1430, Cozzando joined the Servants of Mary at the convent of Sant Alessandro in Brescia, Italy, taking the name

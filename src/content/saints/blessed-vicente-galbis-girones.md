@@ -1,5 +1,6 @@
 ---
 name: Blessed Vicente Galbis Gironés
+stub: false
 honorific: Blessed
 summary: Married layman in the archdiocese of Valencia, Spain. Martyred in the Spanish Civil War.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Vicente-Galbis-Girones.jpg

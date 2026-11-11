@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Dorotheus the Younger
+stub: false
 honorific: Saint
 summary: >-
   Monk at Samsun, Turkey on the Black Sea. Following the command of a mysterious stranger, he founded a monastery at

@@ -1,5 +1,6 @@
 ---
 name: Blessed Isaias Boner
+stub: false
 honorific: Blessed
 summary: >-
   A member of the Augustinian friars. Beginning in 1419, he studied theology in Padua, Italy. He began teaching at the

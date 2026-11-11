@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Colman Muillin of Derrykeighan
+stub: false
 honorific: Saint
 summary: >-
   Late 6th-century member of a gang of bandits who was brought to the faith by Colman Elo of Lynally. The name “miller”

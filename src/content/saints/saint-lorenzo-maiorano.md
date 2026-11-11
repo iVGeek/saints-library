@@ -1,5 +1,6 @@
 ---
 name: Saint Lorenzo Maiorano
+stub: false
 honorific: Saint
 summary: >-
   Related to Emperor Zeno of Byzantium. Bishop of Siponto, Italy in 492, consecrated by Pope Gelasius I. Received a

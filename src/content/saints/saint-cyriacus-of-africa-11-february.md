@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Cyriacus of Africa
+stub: true
 honorific: Saint
 summary: Martyr. No other details have survived.
 feastDay:

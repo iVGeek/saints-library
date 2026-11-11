@@ -1,5 +1,6 @@
 ---
 name: Saint Daria
+stub: false
 honorific: Saint
 summary: ' Not surprisingly, many legends developed around couple of married martyrs, and others were rewritten to use them as their lead characters. Modern scholarship has dismissed a Married to Saint Chrysanthus. Zealous and public in her Christianity. Martyred under Numerian and Carinus.'
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Chrysanthus.jpg

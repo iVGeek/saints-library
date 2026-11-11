@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Leontinus of Braga
+stub: true
 honorific: Saint
 summary: Early bishop of Braga, Portugal. Martyr.
 searchAliases:

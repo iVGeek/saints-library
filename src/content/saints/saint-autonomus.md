@@ -1,5 +1,6 @@
 ---
 name: Saint Autonomus
+stub: false
 honorific: Saint
 summary: >-
   Bishop. Fled to Bithynia, Asia Minor to escape the persecution of Diocletian. The people there accepted him as one of

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/d/d7/Francisco_de_Zurbar%C3%A1n_035.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Anianus of Asti
+stub: false
 honorific: Saint
 title: Bishop
 summary: Fifth century bishop of Asti, Italy. Little information has survived, and historians don't agree on any of it.

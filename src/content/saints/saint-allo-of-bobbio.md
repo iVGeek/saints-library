@@ -1,5 +1,6 @@
 ---
 name: Saint Allo of Bobbio
+stub: false
 honorific: Saint
 summary: >-
   Monk of the Bobbio Abbey. His burial next to Saint Columbanus is evidence of his holiness, but all details of his life

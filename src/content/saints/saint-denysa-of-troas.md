@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Denysa of Troas
+stub: false
 honorific: Saint
 summary: >-
   A Christian girl ordered to sacrifice to pagan idols during the persecutions of Decius. She refused and was given over

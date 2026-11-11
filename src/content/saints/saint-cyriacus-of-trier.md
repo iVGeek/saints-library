@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Cyriacus of Trier
+stub: false
 honorific: Saint
 title: Priest
 summary: Priest. Friend of and assistant to Saint Maximinus of Trier. Known to spend all night in prayer vigils.

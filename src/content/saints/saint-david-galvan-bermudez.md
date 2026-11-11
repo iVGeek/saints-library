@@ -1,5 +1,6 @@
 ---
 name: Saint David Galván-Bermúdez
+stub: false
 honorific: Venerable
 summary: >-
   Entered the seminary in Guadalajara, Mexico at age 14. An excellent student. Questioning his vocation, David left the

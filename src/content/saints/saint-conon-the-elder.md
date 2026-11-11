@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Conon the Elder
+stub: false
 honorific: Saint
 summary: >-
   Father of Conon the Younger. On the death of his wife, the Elder urged his son to religious life, and lived as a

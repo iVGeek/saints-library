@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Jeremias of Cordoba
+stub: false
 honorific: Saint
 summary: >-
   Friend of and fellow student with Saint Emilas at Cordova, Spain during a time when the city was under Moorish

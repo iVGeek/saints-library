@@ -1,5 +1,6 @@
 ---
 name: Blessed Margaret Ball
+stub: false
 honorific: Blessed
 summary: >-
   Lay women in the archdiocese of Dublin, Ireland. Married to wealth merchant Bartholomew Ball. Hid priests and bishops

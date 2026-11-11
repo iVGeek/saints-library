@@ -1,5 +1,6 @@
 ---
 name: Saint Trudpert of Münstertal
+stub: false
 honorific: Saint
 summary: >-
   Abbot. Following a pilgrimage to Rome, he became a missionary hermit at Münstertal, Germany. Legend says that some

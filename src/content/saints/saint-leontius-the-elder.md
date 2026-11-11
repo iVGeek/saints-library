@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Leontius the Elder
+stub: true
 honorific: Saint
 summary: Bishop of Bordeaux, France.
 deathYear: 541

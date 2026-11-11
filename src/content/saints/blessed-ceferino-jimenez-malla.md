@@ -1,5 +1,6 @@
 ---
 name: Blessed Ceferino Jimenez-Malla
+stub: false
 honorific: Blessed
 summary: >-
   Lifelong layman. He had little education, and was possibly illiterate, but his native intelligence was obvious to all

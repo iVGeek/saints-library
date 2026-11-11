@@ -1,5 +1,6 @@
 ---
 name: Saint Athanasia of Aegina
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility, the daughter of Nikita and Marina, Athanasia grew up in a pious family. She early felt drawn to

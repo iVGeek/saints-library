@@ -1,5 +1,6 @@
 ---
 name: Blessed Bernard Perani
+stub: false
 honorific: Blessed
 summary: >-
   The third of eight children born to a pious peasant family, he was baptized on the day of his birth and worked the

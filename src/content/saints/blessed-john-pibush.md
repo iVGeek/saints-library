@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/8/8a/One-hundred-and-seven-martyrs-of-england-and-wales.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed John Pibush
+stub: false
 honorific: Blessed
 summary: >-
   Son of Thomas and Jane Pibush. Educated at Rheims, France beginning 4 August 1580. Deacon in 1586. Ordained on 14

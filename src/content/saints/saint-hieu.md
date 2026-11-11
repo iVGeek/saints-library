@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Hieu
+stub: false
 honorific: Saint
 summary: >-
   Nun, receiving the veil from Saint Aidan of Lindesfarne. Abbess at Tadcaster, Yorkshire, England. Some writings

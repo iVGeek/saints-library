@@ -1,5 +1,6 @@
 ---
 name: Blessed Ekbert of Muensterschwarzach
+stub: true
 honorific: Blessed
 summary: Monk at Gorze. Abbot of M&ouml;nsterschwarzach, Bavaria, Germany.
 image: https://catholicsaints.info/wp-content/uploads/Blessed-Ekbert-of-Muensterschwarzach-in-Wurzburg-Germany.jpg

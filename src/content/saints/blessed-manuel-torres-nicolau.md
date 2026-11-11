@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/5/51/Tezonco-Panes_de_muerto.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Manuel Torres Nicolau
+stub: false
 honorific: Blessed
 summary: >-
   Member of the Claretians, professed on 16 July 1891. Ordained a priest on 13 May 1899. Martyred in the Spanish Civil

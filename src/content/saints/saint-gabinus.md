@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Gabinus of Rome
+stub: false
 honorific: Saint
 summary: >-
   Member of the imperial Roman nobility. Brother of Pope Caius. Father of Saint Susanna. Relative of the emperor

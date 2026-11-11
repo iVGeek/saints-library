@@ -1,5 +1,6 @@
 ---
 name: Blessed Augustine Thevarparampil
+stub: false
 honorific: Blessed
 summary: >-
   Priest in the eparchy of Palai, India, ordained on 17 December 1921. Worked the the “untouchable” caste in India,

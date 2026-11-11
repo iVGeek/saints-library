@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/9/91/Nuremberg_chronicles_f_145v_4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Mac Nissi of Clonmacnoise
+stub: true
 honorific: Saint
 summary: Monk. Abbot of Clonmacnoise monastery, County Offaly, Ireland c.574 to c.590.
 searchAliases:

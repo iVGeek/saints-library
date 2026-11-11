@@ -1,5 +1,6 @@
 ---
 name: Saint Parisius
+stub: false
 honorific: Saint
 summary: >-
   Camaldolese monk at age 12 at the monastery of Saint Michael's. Hermit. Priest. Chaplain and spiritual director of the

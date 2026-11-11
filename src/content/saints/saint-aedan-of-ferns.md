@@ -1,5 +1,6 @@
 ---
 name: Saint Aedan of Ferns
+stub: false
 honorific: Saint
 summary: >-
   Son of Eithne and Sedna, chief of Connaught. A widespread reputation for sanctity brought him potential disciples in

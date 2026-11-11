@@ -1,5 +1,6 @@
 ---
 name: Blessed Bernard of Toulouse
+stub: false
 honorific: Blessed
 summary: >-
   Archdeacon, assisting the clergy of the cathedral of Toulouse, France. Basing their operations in a farmhouse outside

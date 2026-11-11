@@ -1,5 +1,6 @@
 ---
 name: Blessed Adalbert III of Salzburg
+stub: false
 image: https://commons.wikimedia.org/wiki/Special:FilePath/Adalbertus_III._Archiepiscopus_Salzburgenzis.JPG?width=600
 honorific: Blessed
 summary: >-

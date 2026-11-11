@@ -1,5 +1,6 @@
 ---
 name: Saint Baudimius of Auvergne
+stub: false
 honorific: Saint
 summary: >-
   Priest. Late 3rd and early 4th century missionary to the Auvergne region of Gaul (in modern France) where he worked

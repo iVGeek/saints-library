@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Colman of Clonard
+stub: true
 honorific: Saint
 summary: Related to Saint Finnian of Clonard. Monk. Abbot of Clonard Abbey.
 searchAliases:

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/9/95/Blessed_Robert_Nutter_O.P.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Edward Thwing
+stub: false
 honorific: Blessed
 summary: >-
   Second son of Thomas and Jane Thwing. Studied at the English College in Rheims, France, with the Jesuits at

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Timothy of Antioch
+stub: true
 honorific: Saint
 summary: Spiritual student of Saint Babylas of Antioch. Martyr.
 deathYear: 284

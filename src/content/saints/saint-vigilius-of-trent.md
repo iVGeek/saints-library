@@ -1,5 +1,6 @@
 ---
 name: Saint Vigilius of Trent
+stub: false
 honorific: Saint
 summary: >-
   Roman patrician, son of Theodosius and Maxentia. Brother of Saint Claudian and Saint Magorian. Studied at Athens,

@@ -1,5 +1,6 @@
 ---
 name: Saint Leo of Rouen
+stub: false
 honorific: Saint
 summary: >-
   Raised in a pious family. Bishop of Rouen, France. Evangelist in Navarre and the Basque regions. Martyred by Saracen

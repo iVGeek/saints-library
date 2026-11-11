@@ -1,5 +1,6 @@
 ---
 name: Saint Cosmas the Melodist
+stub: false
 honorific: Saint
 summary: >-
   Born to a very poor family. Educated by an Italian monk who had been taken prisoner by his people. Monk at the San

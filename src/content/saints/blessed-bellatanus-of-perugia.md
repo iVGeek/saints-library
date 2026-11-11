@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Bellatanus of Perugia
+stub: true
 honorific: Blessed
 title: Hermit
 summary: Camaldolese hermit in the region of Perugia, Italy.

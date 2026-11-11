@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Bruno of Rommersdorf
+stub: false
 honorific: Blessed
 summary: >-
   Born to the noblity in Braunschweig, Germany. Knight. He gave up worldly privilete and joined the Premonstratensians.

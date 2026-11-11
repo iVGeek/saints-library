@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Girald of Fontenelle
+stub: false
 honorific: Saint
 summary: >-
   Studied at the cathedral school in Rheims, France; student of Gerbert of Aurillac, who would later become Pope

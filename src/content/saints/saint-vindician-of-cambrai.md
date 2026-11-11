@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Vindician of Cambrai
+stub: false
 honorific: Saint
 summary: >-
   Spiritual student of Saint Eligius. Bishop of Arras-Cambrai, France in 669. Promoted monasticism in his diocese.

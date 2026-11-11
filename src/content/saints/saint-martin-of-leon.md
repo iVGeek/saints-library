@@ -1,5 +1,6 @@
 ---
 name: Blessed Martin of León
+stub: false
 honorific: Blessed
 title: Priest
 summary: >-

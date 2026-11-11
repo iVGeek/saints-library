@@ -1,5 +1,6 @@
 ---
 name: Saint William of Saint-Brieuc
+stub: false
 honorific: Saint
 summary: >-
   Born to a peasant family. Priest. Canon of the cathedral of Tours, France. Bishop of San-Brieuc, Brittany, France in

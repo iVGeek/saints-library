@@ -1,5 +1,6 @@
 ---
 name: Venerable Satoko Elisabeth Maria Kitahara
+stub: false
 honorific: Venerable
 summary: >-
   Born to the Japanese aristocracy, a descendent of samurai warriors, and raised in a Shinto household. Lay woman in the

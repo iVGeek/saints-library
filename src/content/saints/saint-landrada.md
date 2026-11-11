@@ -1,5 +1,6 @@
 ---
 name: Saint Landrada of Bilsen
+stub: true
 honorific: Saint
 summary: Founded the convent of Munsterbilsen, Belgium and served as its first abbess.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Landrada.jpg

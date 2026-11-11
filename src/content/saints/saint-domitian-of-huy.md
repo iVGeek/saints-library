@@ -1,5 +1,6 @@
 ---
 name: Saint Domitian of Huy
+stub: false
 honorific: Saint
 summary: >-
   Priest. Bishop of Tongres (in modern Belgium). He spoke out convincingly against heretics and pagans. Opposed heretics

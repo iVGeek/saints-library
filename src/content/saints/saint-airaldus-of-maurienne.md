@@ -1,5 +1,6 @@
 ---
 name: Blessed Airaldus of Maurienne
+stub: false
 honorific: Blessed
 summary: >-
   Son of William II, Count of Burgundy. Carthusian monk at Portes, diocese of Belley, France. Prior of his house. Bishop

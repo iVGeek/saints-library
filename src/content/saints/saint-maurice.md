@@ -1,5 +1,6 @@
 ---
 name: Saint Maurice
+stub: false
 honorific: Saint
 summary: >-
   Layman. Soldier. Officer in a legion of Christian soldiers from Upper Egypt during the reign of Emperor Maximian

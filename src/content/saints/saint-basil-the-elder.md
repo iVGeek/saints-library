@@ -1,5 +1,6 @@
 ---
 name: Saint Basil the Elder
+stub: false
 honorific: Saint
 summary: >-
   Son of Saint Macrina the Elder; married to Saint Emmelia; father of Saint Basil the Great, Saint Gregory Nyssen, Saint

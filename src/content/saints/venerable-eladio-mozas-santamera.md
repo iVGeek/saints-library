@@ -1,5 +1,6 @@
 ---
 name: Venerable Eladio Mozas Santamera
+stub: false
 honorific: Venerable
 summary: >-
   Studied theology at the Universidad Central de Madrid. Ordained in the diocese of Plasencia, Spain in April 1865.

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint John of Chinon
+stub: false
 honorific: Saint
 summary: >-
   Priest. Spiritual advisor to Queen Saint Radegunde. Known as a healer and prophet. Hermit in Chinon, Diocese of Tours,

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Hywyn of Aberdaron
+stub: true
 honorific: Saint
 summary: Pilgrim companion of Saint Cadfan. Founded Aberdaron abbey, Gwynedd, Wales.
 searchAliases:

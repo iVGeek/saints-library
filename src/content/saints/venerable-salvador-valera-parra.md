@@ -1,5 +1,6 @@
 ---
 name: Venerable Salvador Valera Parra
+stub: false
 honorific: Venerable
 summary: >-
   Ordained a priest of the diocese of Almería, Spain in 1840. Treasurer of the Curate of Alhama de Murcia in 1849. A

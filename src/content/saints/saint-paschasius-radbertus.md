@@ -1,5 +1,6 @@
 ---
 name: Saint Paschasius Radbertus
+stub: false
 honorific: Saint
 summary: >-
   A foundling whose background is completely unknown. Raised by monks after being found by nuns on the steps of Notre

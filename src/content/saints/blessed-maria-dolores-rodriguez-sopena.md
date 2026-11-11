@@ -1,5 +1,6 @@
 ---
 name: Blessed María Dolores Rodríguez Sopeña
+stub: false
 honorific: Blessed
 summary: >-
   The fourth of seven children born to Tomas Rodr&iacute;guez Sope&ntilde;a, a lawyer, magistrate and administrator, and

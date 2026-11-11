@@ -1,5 +1,6 @@
 ---
 name: Saint Bernardo Tolomei
+stub: false
 honorific: Saint
 summary: >-
   Giovannni early changed his name to Bernard from admiration for Bernard of Clairvaux. Educated by his Dominican uncle.

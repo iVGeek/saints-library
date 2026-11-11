@@ -1,5 +1,6 @@
 ---
 name: Saint Gratus of Oloron
+stub: false
 honorific: Saint
 title: Bishop
 summary: >-

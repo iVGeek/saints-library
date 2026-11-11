@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Romulus of North Africa
+stub: true
 honorific: Saint
 summary: Brother of Saint Secundus. Martyr.
 region: England

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/8/8c/St_Veit_G%C3%B6lsen_Pfarrkirche_Fenster02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Modestus the Martyr
+stub: false
 honorific: Saint
 summary: One of a group of 50 soldiers martyred in Africa. No other information about them has survived.
 died: in Africa

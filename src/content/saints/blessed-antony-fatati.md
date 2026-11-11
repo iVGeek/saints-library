@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/8/8f/Blessed_antonio_fatati.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Antony Fatati
+stub: false
 honorific: Blessed
 summary: >-
   Priest. Archpriest of Ancona, Italy. Vicar-general of Siena, Italy. Canon of the Vatican in Rome, Italy. Bishop of

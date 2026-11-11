@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Faeldobair of Clochar
+stub: true
 honorific: Saint
 summary: Monk.
 searchAliases:

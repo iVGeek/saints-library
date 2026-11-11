@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Maria Koshima Shinshiro
+stub: false
 honorific: Blessed
 summary: Lay woman in the diocese of Kyoto, Japan. Married to Blessed Thomas Koshima Shinshiro. One of the Martyrs of Kyoto.
 deathYear: 1619

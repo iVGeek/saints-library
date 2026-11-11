@@ -1,5 +1,6 @@
 ---
 name: Saint Eugene of Milan
+stub: true
 honorific: Saint
 summary: Bishop of Milan, Italy. No other information has survived.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Eugene-of-Milan.jpg

@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/42/Meczennicy_kanadyjscy_1649.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Jean Ménard
+stub: false
 honorific: Blessed
 summary: Married layman of the diocese of Angers, France. Martyred in the persecutions of the French Revolution.
 birthYear: 1736

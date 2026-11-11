@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/8/8c/Tumba_de_San_Pedro_de_Jesus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Dionisio Pérez García
+stub: false
 honorific: Blessed
 summary: >-
   Dionesio joined the Dominicans in Almagro, Spain on 30 September 1930 and made his solemn vows as a cooperator brother

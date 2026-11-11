@@ -1,5 +1,6 @@
 ---
 name: Pope Saint John XXIII
+stub: false
 honorific: Venerable
 summary: >-
   Born to an Italian peasant family. Educated at Bergamo and the Pontifical Roman Seminary. Ordained on 10 August 1904.

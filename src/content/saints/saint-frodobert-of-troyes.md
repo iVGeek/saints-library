@@ -1,5 +1,6 @@
 ---
 name: Saint Frodobert of Troyes
+stub: false
 honorific: Saint
 summary: >-
   Educated in the cathedral school at Troyes, France. Benedictine monk at Luxeuil Abbey where he was a spiritual student

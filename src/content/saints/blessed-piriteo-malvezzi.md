@@ -1,5 +1,6 @@
 ---
 name: Blessed Piriteo Malvezzi
+stub: false
 honorific: Blessed
 summary: >-
   A member of the Servants of Mary in Bologna, Italy, Piriteo became a travelling evangelist, preaching against heresy

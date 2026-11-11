@@ -1,5 +1,6 @@
 ---
 name: Blessed Timoteo Valero Pérez
+stub: false
 honorific: Blessed
 summary: >-
   Priest. Member of the Capuchin Tertiary Fathers and Brothers of Our Lady of Sorrows. Martyred in the Spanish Civil

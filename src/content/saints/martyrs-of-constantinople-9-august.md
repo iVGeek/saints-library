@@ -1,5 +1,6 @@
 ---
 name: Martyrs of Constantinople
+stub: true
 honorific: Saint
 image: https://catholicsaints.info/wp-content/uploads/img-Martyrs-of-Constantinople.jpg
 died: beheaded in Constantinople

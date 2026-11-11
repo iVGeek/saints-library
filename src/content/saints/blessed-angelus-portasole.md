@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Angelus Portasole
+stub: true
 honorific: Blessed
 title: Bishop
 summary: Dominican. Bishop of Iglesias, Sardinia, Italy in 1330.

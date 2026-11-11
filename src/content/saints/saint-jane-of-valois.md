@@ -1,5 +1,6 @@
 ---
 name: Saint Jane of Valois
+stub: false
 honorific: Saint
 summary: >-
   Born a princess, the daughter of King Louis XI of France and Charlotte of Savoy. Cousin of Blessed Louise of Savoy.

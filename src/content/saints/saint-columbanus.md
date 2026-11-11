@@ -1,5 +1,6 @@
 ---
 name: Saint Columbanus
+stub: false
 honorific: Saint
 summary: >-
   Well-born, handsome and educated, Columbanus was torn between a desire for God and easy access to the pleasures of the

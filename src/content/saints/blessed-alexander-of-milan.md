@@ -1,5 +1,6 @@
 ---
 name: Blessed Alexander of Milan
+stub: false
 image: >-
   https://commons.wikimedia.org/wiki/Special:FilePath/Remembering_9-11%252C_15_Years_Later_%252829409607990%2529.jpg?width=600
 honorific: Blessed

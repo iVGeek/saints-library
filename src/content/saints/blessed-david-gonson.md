@@ -1,5 +1,6 @@
 ---
 name: Blessed David Gonson
+stub: false
 honorific: Blessed
 summary: >-
   Son of a British vice-admiral and a member of the English nobility. Lifelong layman in the apostolic vicariate of

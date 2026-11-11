@@ -1,5 +1,6 @@
 ---
 name: Saint Zenobius of Florence
+stub: false
 honorific: Saint
 summary: >-
   Born a pagan, Zenobius converted and was baptized as an adult. Priest. Archdeacon. Friend of Saint Ambrose of Milan.

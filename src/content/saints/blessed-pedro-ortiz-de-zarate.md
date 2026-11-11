@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/a/a4/Museo_de_Arte_Colonial_-_Don_Pedro_Ortiz_de_Z%C3%A1rate.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Pedro Ortiz de Zárate
+stub: false
 honorific: Blessed
 summary: >-
   Priest in the diocese of Orán, Argentina. Missionary to the Tobas, Mocovíes and Mataguayos people in Argentina.

@@ -1,5 +1,6 @@
 ---
 name: Venerable Bernard Alojzy Lubienski
+stub: false
 honorific: Venerable
 summary: >-
   Born to the nobility and related to royalty, Bernard was the second of twelve children born to Count Tomasz Wentworth

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Peter of Canterbury
+stub: false
 honorific: Saint
 summary: >-
   Benedictine monk at Saint Andrew's monastery in Rome, Italy. Chosen by Pope Gregory the Great to work with Saint

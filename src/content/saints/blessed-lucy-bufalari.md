@@ -1,5 +1,6 @@
 ---
 name: Blessed Lucy Bufalari
+stub: false
 honorific: Blessed
 summary: Sister of Blessed John of Rieti. Augustinian Oblate nun at Amelia, Italy where she became prioress.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Lucy-Bufalari.jpg

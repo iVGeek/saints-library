@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Gerebernus
+stub: false
 honorific: Saint
 summary: >-
   Aged 7th century Irish priest who baptized Saint Dympna in her infancy, accompanied her when she fled to Belgium, and

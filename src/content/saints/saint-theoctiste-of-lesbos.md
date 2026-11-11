@@ -1,6 +1,7 @@
 ---
 image: https://www.catholic.org/files/images/saints/2200.jpg
 name: Saint Theoctiste of Lesbos
+stub: false
 honorific: Saint
 summary: >-
   Orphaned as a child, Theoctiste was raised in a convent. Kidnapped by Arab raiders and forced into slavery on Paros

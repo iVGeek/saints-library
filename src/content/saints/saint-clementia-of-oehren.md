@@ -1,5 +1,6 @@
 ---
 name: Saint Clementia of Oehren
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility, the daughter of Count Adolph of Hohenburg in modern Germany. She was married to Count Crafto of

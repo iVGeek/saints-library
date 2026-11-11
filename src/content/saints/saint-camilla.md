@@ -1,5 +1,6 @@
 ---
 name: Saint Camilla
+stub: true
 honorific: Saint
 summary: Converted by and spiritual student of Saint Germain of Auxerre. Hermit.
 deathYear: 437

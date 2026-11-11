@@ -1,5 +1,6 @@
 ---
 name: Saint Teresa Kim
+stub: false
 honorific: Venerable
 summary: >-
   Married lay women in the apostolic vicariate of Korea. Widow. Imprisoned, beaten, tortured and executed for being a

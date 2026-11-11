@@ -1,5 +1,6 @@
 ---
 name: Saint Fructos of Segovia
+stub: false
 honorific: Saint
 summary: >-
   Brother of Saint Engratia of Segovia and Saint Valentine of Segovia. When his brother and sister were martyred by

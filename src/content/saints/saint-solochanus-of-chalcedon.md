@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Solochanus of Chalcedon
+stub: false
 honorific: Saint
 summary: Imperial Roman soldier martyred with many of his Christian companions in the persecutions of emperor Maximian.
 searchAliases:

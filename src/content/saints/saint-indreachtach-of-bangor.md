@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Indreachtach of Bangor
+stub: true
 honorific: Saint
 summary: Son of Dobhailen. Monk. Abbot of Bangor Abbey.
 deathYear: 901

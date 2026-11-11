@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Julian of Tivoli
+stub: true
 honorific: Saint
 summary: Martyred in the persecutions of Hadrian.
 died: Tivoli, Italy in the early 2nd century

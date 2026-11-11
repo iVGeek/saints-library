@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/a/ab/Sant-orso-basilica-classe.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Liberius of Ravenna
+stub: true
 honorific: Saint
 summary: One of the first bishops of the diocese of Ravenna, Italy.
 deathYear: 200

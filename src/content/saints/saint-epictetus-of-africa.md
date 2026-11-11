@@ -1,5 +1,6 @@
 ---
 name: Saint Epictetus of Africa
+stub: false
 honorific: Saint
 summary: Bishop. Martyred in the persecutions of Decius with 21 other Christians. No other information has survived.
 searchAliases:

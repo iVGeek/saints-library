@@ -1,5 +1,6 @@
 ---
 name: Saint Lucas Hwang Sok-tu
+stub: false
 honorific: Venerable
 summary: >-
   The only child in a wealthy family, Lucas learned about Christianity from a person he met while on the road to study

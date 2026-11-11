@@ -1,5 +1,6 @@
 ---
 name: Saint Emily de Rodat
+stub: false
 honorific: Venerable
 summary: >-
   Raised by her grandmother. Educated at Maison Sain-Cyr, Villefrance, France, and at age 18, she became a teacher

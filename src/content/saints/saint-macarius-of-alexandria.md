@@ -1,5 +1,6 @@
 ---
 name: Saint Macarius of Alexandria
+stub: false
 honorific: Saint
 summary: >-
   During the persecutions of Decius he was dragged before a judge who tried to reason him into rejecting Christianty; it

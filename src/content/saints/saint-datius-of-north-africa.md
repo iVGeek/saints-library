@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Datius of North Africa
+stub: true
 honorific: Saint
 summary: One of a group of 30 Christians martyred together by Arian Vandals.
 searchAliases:

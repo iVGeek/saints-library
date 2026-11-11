@@ -1,5 +1,6 @@
 ---
 name: Blessed Santiago Arriaga Arrien
+stub: true
 honorific: Blessed
 summary: Trinitarian priest. Martyred in the Spanish Civil War.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Santiago-Arriaga-Arrien.jpg

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Bitheus
+stub: false
 honorific: Saint
 summary: Sixth-century monk in Wales. Travelled with and helped Saint Finian of Clonard in his work in Ireland.
 region: Ireland

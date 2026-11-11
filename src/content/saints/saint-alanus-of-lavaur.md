@@ -1,5 +1,6 @@
 ---
 name: Saint Alanus of Lavaur
+stub: false
 honorific: Saint
 summary: Seventh century founder and abbot of the monastery of Lavaur in Gascony (in modern France).
 searchAliases:

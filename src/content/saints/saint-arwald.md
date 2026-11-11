@@ -1,5 +1,6 @@
 ---
 name: Saint Arwald
+stub: false
 honorific: Saint
 summary: Son of a prince on the Isle of Wight. Martyred by the then-pagan King Caedwalla on the day after his baptism.
 deathYear: 686

@@ -1,5 +1,6 @@
 ---
 name: Saint Dorothy of Caesarea
+stub: false
 honorific: Saint
 summary: >-
   Apochryphal martyr whose story has been beautifully told, and was popular for many years. Having made a personal vow

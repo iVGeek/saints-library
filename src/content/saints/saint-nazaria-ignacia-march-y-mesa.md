@@ -1,5 +1,6 @@
 ---
 name: Saint Nazaria Ignacia March y Mesa
+stub: false
 honorific: Venerable
 summary: >-
   Fourth of eighteen children born to José Alejandro March y Reus, a merchant, fisherman and industrial worker, and

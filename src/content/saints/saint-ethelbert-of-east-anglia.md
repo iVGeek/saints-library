@@ -1,5 +1,6 @@
 ---
 name: Saint Ethelbert of East Anglia
+stub: false
 honorific: Saint
 summary: >-
   Son of Ethelred, King of the East Angles, and Leofrana. A pious youth, he would have preferred religious life, but was

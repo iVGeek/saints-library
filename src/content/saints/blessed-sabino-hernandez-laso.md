@@ -1,5 +1,6 @@
 ---
 name: Blessed Sabino Hernández Laso
+stub: false
 honorific: Blessed
 summary: >-
   Member of the Salesians of Don Bosco, making his novitiate in Carabanchel Alto, Madrid, Spain, and his solemn

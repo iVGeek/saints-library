@@ -1,5 +1,6 @@
 ---
 name: Blessed Tiburcio Arnáiz Muñoz
+stub: true
 honorific: Blessed
 image: https://upload.wikimedia.org/wikipedia/commons/b/b9/Tiburcio_Arnaiz.jpg
 birthYear: 1865

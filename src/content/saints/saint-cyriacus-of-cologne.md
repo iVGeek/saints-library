@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Cyriacus of Cologne
+stub: false
 honorific: Saint
 summary: Priest. Worked with Pope Pontian. Travelled with and martyred with Saint Ursula.
 deathYear: 238

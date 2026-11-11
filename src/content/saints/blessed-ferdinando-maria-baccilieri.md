@@ -1,5 +1,6 @@
 ---
 name: Blessed Ferdinando Maria Baccilieri
+stub: false
 honorific: Blessed
 summary: >-
   Raised in a pious family, he was educated by the Barnabites in Bologna, Italy and the Jesuits in Ferrara, Italy.

@@ -1,5 +1,6 @@
 ---
 name: Mercedarian Martyrs of Damietta
+stub: false
 honorific: Saint
 summary: >-
   Three Mercedarian lay knights who worked to ransom Christians enslaved by Muslims. During the 7th Crusade, a plague

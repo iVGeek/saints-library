@@ -1,5 +1,6 @@
 ---
 name: Blessed Andrew Dotti
+stub: false
 honorific: Blessed
 summary: >-
   Born to the nobility, the brother of Count Dotto Dotti. A career soldier, he rose to the rank of captain of archers in

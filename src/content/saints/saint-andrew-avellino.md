@@ -1,5 +1,6 @@
 ---
 name: Saint Andrew Avellino
+stub: false
 honorific: Saint
 summary: ' Lawyer at the ecclesiastical court at Naples, Italy. During a heated courtroom argument on behalf of a friend, he supported his position with a lie; in that setting, he Studied humanities and philosophy at Venice, Italy. Doctor of civil and ecclesiastical law. Ordained at age 26.'
 image: >-

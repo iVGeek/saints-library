@@ -1,5 +1,6 @@
 ---
 name: Saint Frigidian of Lucca
+stub: false
 honorific: Saint
 summary: >-
   Sometimes confused with Saint Finnian of Moville. Son of King Ultach of Ulster, Ireland. Educated in Irish

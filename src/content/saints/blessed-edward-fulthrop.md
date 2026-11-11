@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Edward Fulthrop
+stub: true
 honorific: Blessed
 summary: Martyr.
 deathYear: 1594

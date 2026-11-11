@@ -1,5 +1,6 @@
 ---
 name: Blessed Gregorio Díez Blanco
+stub: false
 honorific: Blessed
 summary: >-
   Baptized on the day he was born, and Confirmed in 1903. As a young man, he moved to Barcelona, Spain and worked for a

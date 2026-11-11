@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Maurus of North Africa
+stub: false
 honorific: Saint
 summary: >-
   Raised in a Christian family in North Africa. Immigrant to Rome, Italy. Martyred in the persecutions of Emperor

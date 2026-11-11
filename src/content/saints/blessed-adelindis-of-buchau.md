@@ -1,5 +1,6 @@
 ---
 name: Blessed Adelindis of Buchau
+stub: false
 honorific: Blessed
 summary: >-
   Married to Count Otto of Eesselburg, and mother of four sons. Widowed when her husband and three sons were killed in

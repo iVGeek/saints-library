@@ -1,5 +1,6 @@
 ---
 name: Martyrs in Africa
+stub: false
 honorific: Saint
 summary: Unknown number of Christian men and women who were martyred in the persecutions of Septimus Severus.
 deathYear: 210

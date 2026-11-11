@@ -1,5 +1,6 @@
 ---
 name: Saint Emmelia
+stub: false
 honorific: Saint
 summary: >-
   Married to Saint Basil the Elder; mother of Saint Basil the Great, Saint Gregory Nyssen, Saint Peter of Sebaste, and

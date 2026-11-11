@@ -1,5 +1,6 @@
 ---
 name: Blessed José Ramón Ferragud Girbes
+stub: false
 honorific: Blessed
 summary: >-
   Baptized at the age of two days at his parish church of Saint James the Apostle. Lifelong layman in the archdiocese of

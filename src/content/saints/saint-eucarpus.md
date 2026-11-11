@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Eucarpus
+stub: false
 honorific: Saint
 summary: One of a group of 28 Christians martyred in the early days of the Church in Asia Minor.
 feastDay:

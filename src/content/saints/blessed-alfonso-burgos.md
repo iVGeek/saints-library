@@ -1,5 +1,6 @@
 ---
 name: Blessed Alfonso Burgos
+stub: false
 honorific: Blessed
 summary: >-
   Mercedarian friar in the convent of Santa Caterina in Toledo, Spain. Ransomed 159 Christians who had been enslaved and

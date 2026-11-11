@@ -1,5 +1,6 @@
 ---
 name: Saint Vincentia Gerosa
+stub: false
 honorific: Venerable
 summary: >-
   Orphaned young. Spent 40 years as a homemaker and lay woman devoted to care for the poor. Around 1832 she and Saint

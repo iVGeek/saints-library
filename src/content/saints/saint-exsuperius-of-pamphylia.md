@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Exsuperius of Pamphylia
+stub: false
 honorific: Saint
 summary: >-
   Married to Saint Zoe. Father of Saint Cyriacus and Saint Theodulus. Slave, owned by a rich devout worshipper of the

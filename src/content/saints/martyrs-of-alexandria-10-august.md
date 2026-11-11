@@ -1,5 +1,6 @@
 ---
 name: Martyrs of Alexandria
+stub: false
 honorific: Saint
 summary: >-
   A large number of Christians who died in Alexandria, Egypt between 260 and 267 in the persecutions of Decius and

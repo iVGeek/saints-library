@@ -1,5 +1,6 @@
 ---
 name: Saint Hugh dei Lippi-Uguccioni
+stub: false
 honorific: Saint
 summary: >-
   One of the Seven Founders of the Servants of Mary. Worked with Saint Philip Benizi in France and Germany.

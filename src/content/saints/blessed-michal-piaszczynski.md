@@ -1,5 +1,6 @@
 ---
 name: Blessed Michał Piaszczyński
+stub: false
 honorific: Blessed
 summary: >-
   Priest in the diocese of Lomza, Poland. Teacher and spiritual director at the Lomza seminary where he invited rabbis

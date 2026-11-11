@@ -1,5 +1,6 @@
 ---
 name: Blessed Joaquín Prats Baltueña
+stub: false
 honorific: Blessed
 summary: >-
   Educated in a Piarist school, and at the Piarist Precepturia. Dominican novice, joining in Calanda, Spain on 20

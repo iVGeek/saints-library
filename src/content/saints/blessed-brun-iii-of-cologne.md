@@ -1,5 +1,6 @@
 ---
 name: Blessed Brun III of Cologne
+stub: false
 honorific: Blessed
 summary: >-
   Born to the nobility, the son of Adolf II, the Count of Berg, and of Irmengarde von Dießen-Schwarzenberg; brother of

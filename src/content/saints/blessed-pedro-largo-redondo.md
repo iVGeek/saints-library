@@ -1,5 +1,6 @@
 ---
 name: Blessed Pedro Largo Redondo
+stub: false
 honorific: Blessed
 summary: >-
   Born to a peasant family. Joined the Passionists in 1922 in Corella, Spain. Never a great student, and known for a

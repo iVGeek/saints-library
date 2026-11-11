@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Beatrix of Engelport
+stub: false
 honorific: Blessed
 summary: >-
   Dominican nun in 1262 at the convent of Engelport in Hundsrück, Germany. All the nuns at the convent became

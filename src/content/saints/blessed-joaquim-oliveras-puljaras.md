@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/f/fe/Beatificaciotarragona2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Joaquim Oliveras Puljarás
+stub: false
 honorific: Blessed
 summary: >-
   Professed religious in the Brothers of the Christian Schools (De La Salle Brothers). Martyred in the Spanish Civil

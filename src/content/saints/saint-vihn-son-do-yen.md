@@ -1,5 +1,6 @@
 ---
 name: Saint Vihn Son Ðo Yen
+stub: false
 honorific: Venerable
 summary: >-
   Born to a Christian family. Ordained in 1798 by Blessed Ignatius Delgado in the vicariate apostolic on Eastern Tonkin

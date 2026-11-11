@@ -1,5 +1,6 @@
 ---
 name: Pope Blessed Urban V
+stub: false
 honorific: Blessed
 summary: >-
   Born to the nobility, one of four children of Guillaume de Grimoard, Lord of Bellegarde, and of Amphélise de

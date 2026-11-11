@@ -1,5 +1,6 @@
 ---
 name: Saint Agathon of Scete
+stub: false
 honorific: Saint
 summary: >-
   Around the year 364, Agathon retired from the world to live as a prayerful, austere hermit in the desert of Scete near

@@ -1,5 +1,6 @@
 ---
 name: Blessed Artaldo of Belley
+stub: false
 honorific: Blessed
 summary: >-
   Served briefly in the court of Amadeus III of Savoy. In 1120 he joined the Carthusians at the Charterhouse of Portes,

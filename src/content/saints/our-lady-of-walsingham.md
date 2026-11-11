@@ -1,5 +1,6 @@
 ---
 name: Our Lady of Walsingham
+stub: false
 honorific: Saint
 summary: >-
   In 1061 Lady Richeldis de Faverches, lady of the manor near the village of Walsingham, Norfolk, England, was taken in

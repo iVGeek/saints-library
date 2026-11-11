@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Luc Sy
+stub: false
 honorific: Blessed
 summary: Married layman school teacher and catechist in the apostolic vicariate of Vientiane (in modern Laos). Martyr.
 birthYear: 1938

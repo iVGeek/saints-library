@@ -1,5 +1,6 @@
 ---
 name: Blessed Emilia Martí Lacal
+stub: false
 honorific: Blessed
 summary: >-
   Professed religious in the Sisters of the Christian Doctrine. Worked as a seamstress to support the Sisters. Known for

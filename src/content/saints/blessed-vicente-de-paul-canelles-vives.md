@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Vicente de Paúl Canelles Vives
+stub: false
 honorific: Blessed
 summary: >-
   Joined the Carmelites at age 24 but realized that his vocation was work with the sick. Joined the Hospitallers of

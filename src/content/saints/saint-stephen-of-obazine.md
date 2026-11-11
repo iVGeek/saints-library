@@ -1,5 +1,6 @@
 ---
 name: Saint Stephen of Obazine
+stub: false
 honorific: Saint
 summary: >-
   Pious youth. Priest. Hermit with another priest named Pierre. The pair's reputation for holiness drew so many

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Adalbert of Caramaico
+stub: false
 honorific: Blessed
 summary: >-
   Benedictine monk at Casauria, Abruzzi, Italy. He retired to live as a hermit in the Caramaico mountain area near

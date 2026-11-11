@@ -1,5 +1,6 @@
 ---
 name: Saint Epiphanes of Besançon
+stub: false
 honorific: Saint
 summary: >-
   Martyr venerated at the cathedral at Besançon, France until the French Revolution. His story may have been recorded

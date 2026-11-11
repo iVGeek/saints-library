@@ -1,5 +1,6 @@
 ---
 name: Blessed Rolando Rivi
+stub: false
 honorific: Blessed
 summary: >-
   Born to a farm family. Seminarian in the diocese of Reggio Emilia-Guastalla, Italy with a plan to become a missionary

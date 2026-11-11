@@ -1,5 +1,6 @@
 ---
 name: Saint Buonfiglio Monaldi
+stub: false
 honorific: Saint
 summary: >-
   One of the Seven Founders of the Servants of Mary. The eldest of the Founders. First superior of the Servites, serving

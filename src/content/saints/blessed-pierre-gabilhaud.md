@@ -1,5 +1,6 @@
 ---
 name: Blessed Pierre Gabilhaud
+stub: false
 honorific: Blessed
 summary: >-
   Priest in the diocese of Limoges, France. Imprisoned on a ship in the harbor of Rochefort, France and left to die

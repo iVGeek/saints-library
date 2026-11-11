@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Ethelwin of Lindsey
+stub: false
 honorific: Saint
 summary: >-
   Eighth century monk at Ripon Abbey. Hermit on Farne Island for 12 years. Friend of Saint Egbert. Bishop of Lindsey,

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Aristeus of Capua
+stub: true
 honorific: Saint
 summary: Bishop. Martyr.
 searchAliases:

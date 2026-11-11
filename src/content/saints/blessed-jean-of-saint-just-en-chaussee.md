@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/4/4f/S%C3%A9pulcre_Ligier_Richier_301008_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Jean of Saint-Just-en-Chaussée
+stub: false
 honorific: Blessed
 summary: >-
   Member of the Premonstratensians. Canon of Saint-Just-en-Chaussée monastery. In 1147 he was placed in charge of

@@ -1,5 +1,6 @@
 ---
 name: Saint Volusian of Tours
+stub: false
 honorific: Saint
 summary: >-
   As a layman, he suffered through years of a terrible marriage. Imperial Roman senator at Tours, France. Bishop of

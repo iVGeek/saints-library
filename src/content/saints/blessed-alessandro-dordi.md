@@ -1,5 +1,6 @@
 ---
 name: Blessed Alessandro Dordi
+stub: false
 honorific: Blessed
 summary: >-
   Priest in the diocese of Bergamo, Italy. Missionary of Fidei Donum. One of the Martyrs of Chimbote, murdered by

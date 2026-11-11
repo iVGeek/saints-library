@@ -1,5 +1,6 @@
 ---
 name: Saint Melaine of Rennes
+stub: false
 honorific: Saint
 summary: >-
   Monk. Bishop of Rennes, France during the 5th and 6th centuries when the Franks were conquering all of Gaul. Nearly

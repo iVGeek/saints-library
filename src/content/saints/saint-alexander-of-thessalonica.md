@@ -1,5 +1,6 @@
 ---
 name: Saint Alexander of Thessalonica
+stub: true
 honorific: Saint
 summary: Martyred in the persecutions of Diocletian.
 died: in Thessalonica, Greece

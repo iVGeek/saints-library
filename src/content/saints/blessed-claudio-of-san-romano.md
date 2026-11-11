@@ -1,5 +1,6 @@
 ---
 name: Blessed Claudio of San Romano
+stub: true
 honorific: Blessed
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-Claudio-of-San-Romano.jpg
 region: Italy

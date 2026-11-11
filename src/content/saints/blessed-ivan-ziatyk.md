@@ -1,5 +1,6 @@
 ---
 name: Blessed Ivan Ziatyk
+stub: false
 honorific: Blessed
 summary: >-
   Greek Catholic. Graduated high school in 1919, and obtained a degree in theology in 1923. Ordained in 1923. Taught

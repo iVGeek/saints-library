@@ -1,5 +1,6 @@
 ---
 name: Saint Bertrand of Comminges
+stub: false
 honorific: Saint
 summary: >-
   Son of a military officer. His family exepected a military life for Bertrand, but he was drawn to religion, joined the

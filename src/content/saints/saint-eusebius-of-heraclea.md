@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Eusebius of Heraclea
+stub: false
 honorific: Saint
 summary: >-
   Priest in Heraclea. Arrested in the persecutions of Diocletian and ordered to turn over all scriptures; he refused.

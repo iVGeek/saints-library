@@ -1,5 +1,6 @@
 ---
 name: Blessed Wittikund of Westphalia
+stub: false
 honorific: Blessed
 summary: >-
   Raised a pagan. Duke of Westphalia (in modern Germany). When Communion was given to Christian soldiers on Christmas

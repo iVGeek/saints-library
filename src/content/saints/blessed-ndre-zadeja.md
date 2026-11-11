@@ -1,5 +1,6 @@
 ---
 name: Blessed Ndre Zadeja
+stub: false
 honorific: Blessed
 summary: >-
   Studied at the Shkodrë Pontifical Seminary, and then theology in Innsbruck, Austria. Ordained on 24 April 1916 as a

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Bertilo of Dijon
+stub: false
 honorific: Saint
 summary: Abbot of Saint Benignus Abbey in Dijon, France. Martyred with several of his brother monks.
 searchAliases:

@@ -1,5 +1,6 @@
 ---
 name: Saint Hospitius of Cap-Saint-Hospice
+stub: false
 honorific: Saint
 summary: >-
   Hermit at a place now named Cap-Saint-Hospice in his honour, living in the ruins of an old tower, wearing heavy iron

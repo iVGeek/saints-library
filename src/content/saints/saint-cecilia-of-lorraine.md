@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Cecilia of Lorraine
+stub: false
 honorific: Saint
 summary: >-
   Tenth-century princess, the daughter of the king of Lorraine. Sister of Saint Benedicta of Lorraine. Nun and then

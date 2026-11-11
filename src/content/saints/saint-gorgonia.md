@@ -1,5 +1,6 @@
 ---
 name: Saint Gorgonia
+stub: false
 honorific: Saint
 summary: >-
   Daughter of Saint Gregory of Nazianzen the Elder and Saint Nonna. Sister of Saint Gregory of Nazianzen and Saint

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Bernarius of Corbie
+stub: true
 honorific: Saint
 summary: Benedictine monk of Corbie Abbey.
 searchAliases:

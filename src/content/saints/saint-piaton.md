@@ -1,5 +1,6 @@
 ---
 name: Saint Piaton of Tournai
+stub: false
 honorific: Saint
 summary: >-
   Priest, ordained by Saint Dionysius the Areopagite. Early evangelist to the areas of Tournai, Belgium and Chartres in

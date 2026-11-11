@@ -1,5 +1,6 @@
 ---
 name: Blessed Stefan Grelewski
+stub: false
 honorific: Blessed
 summary: >-
   Older brother of Blessed Kazimierz Grelewski. Studied at the Progimnazjum in Sandomierz and Lubartów in Poland.

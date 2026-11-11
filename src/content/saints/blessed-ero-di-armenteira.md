@@ -1,5 +1,6 @@
 ---
 name: Blessed Ero di Armenteira
+stub: false
 honorific: Blessed
 summary: >-
   Benedictine monk. Founded the Armenteira monastery in the Diocese of Compostela, Spain in 1153. Introduced the

@@ -1,5 +1,6 @@
 ---
 name: Saint Eustathius of Galatia
+stub: true
 honorific: Saint
 summary: Tortured and drowned in a river in Galatia, date unknown. Martyr.
 searchAliases:

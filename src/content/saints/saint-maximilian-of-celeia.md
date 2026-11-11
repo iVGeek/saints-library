@@ -1,5 +1,6 @@
 ---
 name: Saint Maximilian of Celeia
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility, the only child of rich and pious parents. After the death of his parents, Maximilian freed the

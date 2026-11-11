@@ -1,5 +1,6 @@
 ---
 name: Saint Theodore of Sykeon
+stub: false
 honorific: Saint
 summary: >-
   Son of pagans named Mary and Cosmas; his father was an imperial messenger. Attracted to the ascetic life of the desert

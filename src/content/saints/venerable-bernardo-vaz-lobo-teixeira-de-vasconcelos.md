@@ -1,5 +1,6 @@
 ---
 name: Venerable Bernardo Vaz Lobo Teixeira de Vasconcelos
+stub: false
 honorific: Venerable
 summary: >-
   Studied at the University of Coimbra, Portugal. Member of the Saint Vincent de Paul Society. Devoted to eucharistic

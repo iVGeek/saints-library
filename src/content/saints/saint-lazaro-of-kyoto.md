@@ -1,5 +1,6 @@
 ---
 name: Saint Lazaro of Kyoto
+stub: true
 honorific: Venerable
 summary: Layman. Leper. Martyr.
 image: https://catholicsaints.info/wp-content/uploads/img-Saint-Lorenzo-Ruiz-and-Companions.jpg

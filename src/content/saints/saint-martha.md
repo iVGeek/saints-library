@@ -1,5 +1,6 @@
 ---
 name: Saint Martha of Bethany
+stub: false
 honorific: Saint
 summary: >-
   Sister of Saint Lazarus and Saint Mary of Bethany. Friend of Jesus, and hostess to him in her house. May have been

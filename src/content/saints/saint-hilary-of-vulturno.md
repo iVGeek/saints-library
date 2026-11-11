@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Hilary of Vulturno
+stub: false
 honorific: Saint
 summary: >-
   Benedictine monk. Abbot of San Vincenco, Volturno, Italy for 34 years, resurrecting the monastery as a center for

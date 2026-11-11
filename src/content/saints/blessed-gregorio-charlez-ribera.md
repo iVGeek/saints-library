@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Gregorio Charlez Ribera
+stub: false
 honorific: Blessed
 summary: >-
   Franciscan Capuchin friar, making his solemn profession on 6 February 1905. Late in his life he began losing his

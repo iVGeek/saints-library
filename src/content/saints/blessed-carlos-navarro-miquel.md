@@ -1,5 +1,6 @@
 ---
 name: Blessed Carlos Navarro Miquel
+stub: false
 honorific: Blessed
 summary: >-
   Member of the Piarists, entering the novitiate on 11 August 1929, and making his solemn vows on 18 December 1934.

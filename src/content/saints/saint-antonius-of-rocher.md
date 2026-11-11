@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/8/86/Ignatius-Loyola.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Saint Antonius of Rocher
+stub: false
 honorific: Saint
 summary: >-
   Sixth century Bendictine monk, and a disciple of Saint Benedictine himself. Sent to France by Saint Benedict to

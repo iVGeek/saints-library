@@ -1,5 +1,6 @@
 ---
 name: Saint Giustino Maria Russolillo
+stub: false
 honorific: Venerable
 summary: >-
   Studied at the seminary of Pozzuoli, Italy where he was noted for his personal piety and stood out as an exceptional

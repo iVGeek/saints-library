@@ -1,5 +1,6 @@
 ---
 name: Saint Phêrô Nguyen Van Hien
+stub: false
 honorific: Venerable
 summary: >-
   Layman catechist in the apostolic vicariate of West Tonkin (in modern Vietnam). Imprisoned and tortured for their

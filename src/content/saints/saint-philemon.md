@@ -1,5 +1,6 @@
 ---
 name: Saint Philemon
+stub: false
 honorific: Saint
 summary: >-
   First century Christian convert at Colossae, Phrygia, brought to the faith by Saint Paul the Apostle. Married to Saint

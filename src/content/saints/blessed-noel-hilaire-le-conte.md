@@ -1,5 +1,6 @@
 ---
 name: Blessed Noël-Hilaire Le Conte
+stub: false
 honorific: Blessed
 summary: >-
   Son of a gardener. Priest in the diocese of Bourges, France. Director of music for the cathedral of Bruges, France.

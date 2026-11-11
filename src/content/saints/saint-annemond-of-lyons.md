@@ -1,5 +1,6 @@
 ---
 name: Saint Annemond of Lyons
+stub: false
 honorific: Saint
 summary: >-
   Born to the nobility, the son of Sigon, a prefect in Lyons, France; his brother was Count Dalfin of Lyons. Annemond

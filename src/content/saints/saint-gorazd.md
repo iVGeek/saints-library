@@ -1,5 +1,6 @@
 ---
 name: Saint Gorazd
+stub: true
 honorific: Saint
 summary: One of the Seven Apostles of Bulgaria.
 searchAliases:

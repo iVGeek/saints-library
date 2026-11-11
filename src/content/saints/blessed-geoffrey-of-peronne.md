@@ -2,6 +2,7 @@
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/a/a6/Krakow_WawelCathedral_A15.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original
 name: Blessed Geoffrey of Peronne
+stub: false
 honorific: Blessed
 summary: Friend of Saint Bernard of Clairvaux. Prior of Clairvaux Abbey. Refused the bishopric of Tournai, Belgium.
 deathYear: 1147

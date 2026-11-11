@@ -1,5 +1,6 @@
 ---
 name: Blessed Esteban Anuncibay Letona
+stub: false
 honorific: Blessed
 summary: >-
   Member of the Brothers of the Christian Schools, joining at age 16, taking the habit on 28 June 1909, making his first

@@ -1,5 +1,6 @@
 ---
 name: Blessed Maria Serafina of the Sacred Heart
+stub: false
 honorific: Blessed
 summary: >-
   Founder the Institute of the Sisters of the Angels on 28 June 1891 devoted to adoration of the Holy Trinity, similar

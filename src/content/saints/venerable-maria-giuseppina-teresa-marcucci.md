@@ -1,5 +1,6 @@
 ---
 name: Venerable Maria Giuseppina Teresa Marcucci
+stub: true
 honorific: Venerable
 summary: Passionist nun.
 image: https://catholicsaints.info/wp-content/uploads/img-Venerable-Maria-Giuseppina-Teresa-Marcucci.jpg

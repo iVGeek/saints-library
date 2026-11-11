@@ -1,5 +1,6 @@
 ---
 name: Saint Anianus of Wilparting
+stub: true
 honorific: Saint
 summary: Nephew of Saint Anianus of Wilparting. Travelling missionary deacon. Martyr.
 image: https://catholicsaints.info/wp-content/uploads/img-Saints-Marinus-and-Arianus-of-Wilparting.jpg

@@ -1,5 +1,6 @@
 ---
 name: Saint Fulk of Piacenza
+stub: false
 honorific: Saint
 summary: >-
   Canon. Studied in Paris, France. Archpriest and then bishop of Piacenza, Italy. Bishop of Pavia, Italy in 1216, chosen

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Saint Aldemar the Wise
+stub: false
 honorific: Saint
 summary: >-
   Monk at Monte Cassino Abbey. Spiritual director of a convent at Capua, Italy, a house founded by princess Aloara.

@@ -1,5 +1,6 @@
 ---
 name: Blessed Agata Phutta Bi
+stub: false
 honorific: Blessed
 summary: >-
   Raised in a pagan family, Agata converted to Christianity in her 30's, being baptized and confirmed on 3 March 1918 at

@@ -1,6 +1,7 @@
 ---
 image: /placeholder-saint.svg
 name: Blessed Ebontius of Babastro
+stub: false
 honorific: Blessed
 summary: >-
   Benedictine monk in Sainte-Foi, Tomieres, France. Abbot of San Victorian, Ainsa, Aragon, Spain. Bishop of Roda de

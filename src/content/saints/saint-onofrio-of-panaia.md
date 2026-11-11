@@ -1,5 +1,6 @@
 ---
 name: Saint Onofrio of Panaia
+stub: false
 honorific: Saint
 title: Hermit
 summary: >-

@@ -18,6 +18,7 @@ born: '1821'
 birthPlace: Saenamteo
 centuries:
   - 19
+region: Korea
 feastDay:
   month: 9
   day: 16

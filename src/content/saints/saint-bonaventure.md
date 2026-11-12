@@ -19,6 +19,7 @@ born: '1221'
 birthPlace: Bagnoregio
 centuries:
   - 13
+region: Italy
 feastDay:
   month: 7
   day: 15

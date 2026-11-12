@@ -14,6 +14,7 @@ searchAliases:
 birthPlace: Imola
 centuries:
   - 16
+region: Italy
 feastDay:
   month: 7
   day: 30

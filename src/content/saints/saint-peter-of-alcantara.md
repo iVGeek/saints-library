@@ -16,6 +16,7 @@ born: '1499'
 birthPlace: Estremadura
 centuries:
   - 15
+region: Spain
 feastDay:
   month: 10
   day: 18

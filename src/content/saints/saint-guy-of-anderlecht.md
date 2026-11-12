@@ -19,6 +19,7 @@ born: '1012'
 birthPlace: Anderlecht
 centuries:
   - 11
+region: Belgium
 feastDay:
   month: 9
   day: 12

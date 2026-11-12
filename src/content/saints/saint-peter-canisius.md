@@ -19,6 +19,7 @@ born: '1521'
 birthPlace: Fribourg
 centuries:
   - 16
+region: Switzerland
 feastDay:
   month: 12
   day: 21

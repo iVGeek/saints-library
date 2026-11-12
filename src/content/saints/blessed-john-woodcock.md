@@ -1,6 +1,6 @@
 ---
 name: Blessed John Woodcock
-stub: true
+stub: false
 honorific: Blessed
 summary: Franciscan Friar Minor (Recollects) priest. Martyr.
 image: https://catholicsaints.info/wp-content/uploads/img-Blessed-John-Woodcock.jpg
@@ -24,6 +24,10 @@ vocation:
 religiousOrder: Franciscan
 martyr: true
 prayers: []
+sources:
+  - 'Wikipedia, "John Woodcock (martyr)", https://en.wikipedia.org/wiki/John_Woodcock_(martyr) (CC BY-SA 4.0)'
 ---
 
-Franciscan Friar Minor (Recollects) priest. Martyr.
+> John Woodcock (1603–1646), sometimes called John Farington, was a Franciscan priest from Lancashire executed in August 1646 under the Jesuits, etc. Act 1584 for being a priest and present in the realm.
+
+*Source: [Wikipedia, "John Woodcock (martyr)"](https://en.wikipedia.org/wiki/John_Woodcock_(martyr)), CC BY-SA 4.0.*

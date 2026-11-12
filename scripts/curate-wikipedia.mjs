@@ -33,7 +33,13 @@ const OFFSET = Number(arg('offset', 0)) || 0;
 const APPLY = has('apply');
 const MIN_CONF = Number(arg('min-confidence', 0.9));
 const OUT = arg('out', 'wikipedia-queue.json');
-const ONLY_FILE = arg('file', '');
+const ONLY_FILES = (() => {
+  const values = [];
+  for (let index = 0; index < args.length; index++) {
+    if (args[index] === '--file') values.push(args[index + 1]);
+  }
+  return values.filter((value) => Boolean(value));
+})();
 
 const MONTHS = [
   'january', 'february', 'march', 'april', 'may', 'june',
@@ -237,7 +243,7 @@ async function findMatches(profile) {
 
 async function main() {
   let files;
-  if (ONLY_FILE) files = [ONLY_FILE];
+  if (ONLY_FILES.length) files = ONLY_FILES;
   else files = JSON.parse(fs.readFileSync(STUBS, 'utf8'));
   if (OFFSET) files = files.slice(OFFSET);
   if (LIMIT) files = files.slice(0, LIMIT);

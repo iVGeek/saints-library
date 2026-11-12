@@ -6,6 +6,7 @@ summary: Tortured and drowned in a river in Galatia, date unknown. Martyr.
 searchAliases:
   - Eustasius
   - Eustacius
+region: Turkey
 feastDay:
   month: 7
   day: 28

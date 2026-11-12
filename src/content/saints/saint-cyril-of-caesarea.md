@@ -12,6 +12,7 @@ searchAliases:
 deathYear: 251
 died: beheaded in 251 in Caesarea, Cappadocia
 deathPlace: Cappadocia
+region: Turkey
 feastDay:
   month: 5
   day: 29

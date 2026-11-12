@@ -10,6 +10,7 @@ born: c.1790 in Thuan Nghia, Nghe An, Vietnam
 died: martyred on 24 November 1838 in Ðong Hoi, Quang Bình, Vietnam
 birthPlace: Nghe An, Vietnam
 deathPlace: Quang Bình, Vietnam
+region: Vietnam
 feastDay:
   month: 11
   day: 24

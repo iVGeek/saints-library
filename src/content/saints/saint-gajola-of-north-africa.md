@@ -9,6 +9,7 @@ searchAliases:
   - Gajole
   - Gajolus
   - Gajulus
+region: Africa
 feastDay:
   month: 3
   day: 3

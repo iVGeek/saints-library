@@ -8,6 +8,7 @@ searchAliases:
   - Tutila
   - Tutilla
   - Tuttella
+region: Italy
 feastDay:
   month: 3
   day: 3

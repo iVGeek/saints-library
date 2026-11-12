@@ -5,6 +5,7 @@ name: Saint Nemesius of Lisieux
 stub: true
 honorific: Saint
 summary: No information about him has survived.
+region: France
 feastDay:
   month: 8
   day: 1

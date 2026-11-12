@@ -12,6 +12,7 @@ deathYear: 1090
 born: 11th century Kiev, Ukraine
 died: 1090 of natural causes
 birthPlace: Ukraine
+region: Ukraine
 feastDay:
   month: 5
   day: 15

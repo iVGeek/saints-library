@@ -6,6 +6,7 @@ honorific: Saint
 summary: Bishop of Albee. Martyred with a group of his disciples.
 deathYear: 304
 died: 304 near Ephesus
+region: Turkey
 feastDay:
   month: 5
   day: 4

@@ -12,6 +12,7 @@ searchAliases:
   - Kineburga
 deathYear: 1390
 died: relics translated by Archbishop Courtenay and Bishop Henry Wakefield of Worcester on 10 April 1390
+region: England
 feastDay:
   month: 6
   day: 25

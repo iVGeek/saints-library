@@ -6,6 +6,7 @@ honorific: Saint
 summary: Martyr. No other information has survived.
 died: Amphipolis, Macedonia
 deathPlace: Macedonia
+region: Greece
 feastDay:
   month: 11
   day: 7

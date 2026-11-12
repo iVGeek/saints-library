@@ -11,6 +11,7 @@ born: c.1806 in Phú Trang, Nam Ðinh Vietnam
 died: martyred on 19 December 1839 in Co Me, Bac Ninh, Vietnam
 birthPlace: Nam Ðinh Vietnam
 deathPlace: Bac Ninh, Vietnam
+region: Vietnam
 feastDay:
   month: 12
   day: 19

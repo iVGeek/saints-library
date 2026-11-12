@@ -5,6 +5,7 @@ name: Saint Leonides of Thebaid
 stub: true
 honorific: Saint
 summary: Martyred with a group of fellow Christians in the persecutions of Diocletian.
+region: Egypt
 feastDay:
   month: 1
   day: 28

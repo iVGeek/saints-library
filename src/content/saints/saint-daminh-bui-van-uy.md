@@ -10,6 +10,7 @@ born: c.1801 at Tiên Môn, Thái Bình, Vietnam
 died: martyred on 19 December 1839 in Co Me, Bac Ninh, Vietnam
 birthPlace: Thái Bình, Vietnam
 deathPlace: Bac Ninh, Vietnam
+region: Vietnam
 feastDay:
   month: 12
   day: 19

@@ -5,6 +5,7 @@ stub: true
 honorific: Saint
 summary: Martyr.
 died: Mauritania
+region: Africa
 feastDay:
   month: 3
   day: 24

@@ -5,6 +5,7 @@ stub: false
 honorific: Saint
 summary: Martyred in the persecutions of the Arian Vandal king Hunneric. No other information has surved.
 died: burned alive in the late 5th century
+region: Africa
 feastDay:
   month: 12
   day: 8

@@ -7,6 +7,7 @@ summary: Martyred with several hundred companions during the persecutions of Sha
 deathYear: 362
 born: Persia
 died: '362'
+region: Persia
 feastDay:
   month: 8
   day: 20

@@ -8,6 +8,7 @@ searchAliases:
   - Ajobosus
 died: Massylis (Marula), Numidia (in modern Algeria)
 deathPlace: Numidia (modern Algeria)
+region: Africa
 feastDay:
   month: 7
   day: 22

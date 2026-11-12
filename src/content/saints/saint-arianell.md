@@ -8,6 +8,7 @@ summary: >-
   Soon after, Arianell became a nun and spiritual student of Dyfrig.
 born: Gwent, Wales
 birthPlace: Wales
+region: Wales
 feastDay:
   month: 6
   day: 27

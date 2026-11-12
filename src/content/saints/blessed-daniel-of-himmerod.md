@@ -7,6 +7,7 @@ honorific: Blessed
 summary: Cistercian monk. No other information has survived.
 searchAliases:
   - Daniel Himmerod the Younger
+region: Germany
 feastDay:
   month: 1
   day: 3

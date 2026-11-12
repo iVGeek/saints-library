@@ -4,6 +4,7 @@ name: Saint Thecla of Antioch
 stub: false
 honorific: Saint
 summary: Martyr commemorated at Antioch on 1 June.
+region: Turkey
 feastDay:
   month: 6
   day: 1

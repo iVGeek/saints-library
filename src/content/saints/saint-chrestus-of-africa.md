@@ -4,6 +4,7 @@ name: Saint Chrestus of Africa
 stub: true
 honorific: Saint
 summary: An early martyr of the Church. No other information has survived.
+region: Africa
 feastDay:
   month: 12
   day: 18

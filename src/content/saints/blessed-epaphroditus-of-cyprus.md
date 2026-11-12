@@ -8,6 +8,7 @@ summary: >-
   Christian who retired to Cyprus to live as a cave hermit, devoting himself to prayer and an ascetic life devoted to
   God. Tortured and martyred for his faith.
 died: beheaded in the 12th century on Cyprus
+region: Cyprus
 feastDay:
   month: 7
   day: 13

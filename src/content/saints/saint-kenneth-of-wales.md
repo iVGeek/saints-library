@@ -14,6 +14,7 @@ searchAliases:
   - Gynydd
   - Kined
   - Kyned
+region: Wales
 feastDay:
   month: 8
   day: 1

@@ -19,6 +19,7 @@ born: '1458'
 birthPlace: Grondo
 centuries:
   - 15
+region: Poland
 feastDay:
   month: 3
   day: 4

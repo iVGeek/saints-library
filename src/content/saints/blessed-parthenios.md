@@ -9,6 +9,7 @@ summary: >-
   Christians.
 deathYear: 1905
 died: 1905 at the Koudomia monastery on Crete
+region: Greece
 feastDay:
   month: 7
   day: 10

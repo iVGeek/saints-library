@@ -17,6 +17,7 @@ searchAliases:
 birthPlace: Sardinia
 centuries:
   - 16
+region: Italy
 feastDay:
   month: 8
   day: 2

@@ -14,6 +14,7 @@ searchAliases:
 deathYear: 1151
 died: c.1151 in Viborg, Denmark of natural causes
 deathPlace: Denmarknatural causes
+region: Scandinavia
 feastDay:
   month: 7
   day: 11

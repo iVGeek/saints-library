@@ -18,6 +18,7 @@ born: '1534'
 birthPlace: Milan
 centuries:
   - 16
+region: Italy
 feastDay:
   month: 10
   day: 11

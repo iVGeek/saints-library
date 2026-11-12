@@ -6,6 +6,7 @@ honorific: Saint
 summary: Martyr.
 died: at Nicomedia, date unknown
 deathPlace: date unknown
+region: Turkey
 feastDay:
   month: 6
   day: 10

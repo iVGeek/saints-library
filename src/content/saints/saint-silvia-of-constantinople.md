@@ -9,6 +9,7 @@ searchAliases:
   - Sylvia
 deathYear: 420
 died: c.420
+region: Turkey
 feastDay:
   month: 12
   day: 15

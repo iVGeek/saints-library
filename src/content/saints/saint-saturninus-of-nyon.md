@@ -8,6 +8,7 @@ searchAliases:
   - Saturnine
 died: beheaded in Noviodunum (modern Nyon, Switzerland)
 deathPlace: Switzerland)
+region: Switzerland
 feastDay:
   month: 6
   day: 4

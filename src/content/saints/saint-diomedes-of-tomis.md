@@ -5,6 +5,7 @@ honorific: Saint
 summary: Martyr.
 died: in Tomis, Scythia Minor (modern Constanta, Romania)
 deathPlace: Scythia Minor (modern Constanta, Romania)
+region: Romania
 feastDay:
   month: 7
   day: 10

@@ -5,6 +5,7 @@ honorific: Saint
 summary: Martyr. No other information has survived.
 died: Tomi (modern Constanta, Romania)
 deathPlace: Romania)
+region: Romania
 feastDay:
   month: 10
   day: 1

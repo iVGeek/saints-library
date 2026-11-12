@@ -9,6 +9,7 @@ summary: >-
   Bazarath.
 deathYear: 1369
 died: 1369 at Vidin (in modern Bulgaria)
+region: Bulgaria
 feastDay:
   month: 2
   day: 12

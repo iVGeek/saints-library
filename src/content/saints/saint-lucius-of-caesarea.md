@@ -7,6 +7,7 @@ honorific: Saint
 summary: Martyr. No other information has survived.
 died: Caesarea, Cappadocia, date unknown
 deathPlace: Cappadocia, date unknown
+region: Turkey
 feastDay:
   month: 3
   day: 2

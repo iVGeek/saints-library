@@ -8,6 +8,7 @@ summary: >-
   Christians. Martyr.
 deathYear: 341
 died: c.341 in Persia
+region: Persia
 feastDay:
   month: 4
   day: 17

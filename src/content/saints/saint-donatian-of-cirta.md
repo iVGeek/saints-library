@@ -6,6 +6,7 @@ honorific: Saint
 summary: Martyr. No other information has survived.
 died: Cirta, Numidia (in modern Algeria)
 deathPlace: Numidia (modern Algeria)
+region: Africa
 feastDay:
   month: 5
   day: 31

@@ -10,6 +10,7 @@ summary: >-
 deathYear: 1820
 born: Ephesus
 died: beheaded in 1820 in Ephesus
+region: Turkey
 feastDay:
   month: 7
   day: 11

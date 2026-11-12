@@ -7,6 +7,7 @@ honorific: Blessed
 summary: Dominican friar. Opposed Albigensianism. Martyr.
 deathYear: 1320
 died: tortured and sawn in half in 1320 by Albigensians
+region: France
 feastDay:
   month: 12
   day: 3

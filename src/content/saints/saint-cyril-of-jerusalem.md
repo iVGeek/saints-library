@@ -14,6 +14,7 @@ searchAliases:
   - Kyrillos
 centuries:
   - 16
+region: Holy Land
 feastDay:
   month: 3
   day: 18

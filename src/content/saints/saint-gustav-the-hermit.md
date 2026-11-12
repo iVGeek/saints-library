@@ -11,6 +11,7 @@ birthYear: 810
 deathYear: 890
 born: c.810 in Sweden
 died: 10 March 890 in northern Sweden of natural causes
+region: Scandinavia
 feastDay:
   month: 3
   day: 10

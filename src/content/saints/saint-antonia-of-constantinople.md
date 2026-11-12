@@ -6,6 +6,7 @@ stub: false
 honorific: Saint
 summary: Christian maiden who was tortured and martyred in the persecutions of Diocletian and Galerius.
 died: burned at the stake in the late 3rd century in Constantinople
+region: Turkey
 feastDay:
   month: 5
   day: 4

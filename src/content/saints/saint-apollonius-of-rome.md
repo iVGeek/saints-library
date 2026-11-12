@@ -4,6 +4,7 @@ stub: true
 honorific: Saint
 summary: Martyr. No other information has survived.
 died: tied to a stake and shot with arrows
+region: Italy
 feastDay:
   month: 7
   day: 23

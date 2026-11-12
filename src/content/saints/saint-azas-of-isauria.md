@@ -7,6 +7,7 @@ summary: One of about 150 Christian soldiers martyred together in the persecutio
 deathYear: 304
 died: 304 in Isauria, Asia Minor
 deathPlace: Asia Minor
+region: Turkey
 feastDay:
   month: 11
   day: 19

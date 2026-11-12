@@ -5,6 +5,7 @@ honorific: Saint
 summary: Martyr. No other information has survived.
 searchAliases:
   - Emeterus
+region: Africa
 feastDay:
   month: 3
   day: 3

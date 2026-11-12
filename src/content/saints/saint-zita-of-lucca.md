@@ -19,6 +19,7 @@ born: '1218'
 birthPlace: Lucca
 centuries:
   - 13
+region: Italy
 feastDay:
   month: 4
   day: 27

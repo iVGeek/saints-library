@@ -6,6 +6,7 @@ honorific: Saint
 summary: Martyr. No other information as survived.
 died: burned alive at Eleutheropolis, Asia Minor, date unknown
 deathPlace: Asia Minor, date unknown
+region: Turkey
 feastDay:
   month: 1
   day: 11

@@ -6,6 +6,7 @@ summary: Priest. Hymnist. Martyr.
 deathYear: 196
 died: burned at the stake in 196 in Pontus, Asia Minor
 deathPlace: Asia Minor
+region: Turkey
 feastDay:
   month: 1
   day: 18

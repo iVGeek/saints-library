@@ -17,6 +17,7 @@ born: '1891'
 birthPlace: Cologne
 centuries:
   - 19
+region: Germany
 feastDay:
   month: 8
   day: 9

@@ -17,6 +17,7 @@ birthYear: 1562
 born: '1562'
 centuries:
   - 16
+region: France
 feastDay:
   month: 6
   day: 28

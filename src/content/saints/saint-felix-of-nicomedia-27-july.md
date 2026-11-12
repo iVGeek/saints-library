@@ -5,6 +5,7 @@ honorific: Saint
 summary: Martyr. No other information has survived.
 died: Nicomedia, Asia Minor
 deathPlace: Asia Minor
+region: Turkey
 feastDay:
   month: 7
   day: 27

@@ -18,6 +18,7 @@ searchAliases:
 birthPlace: Prague
 centuries:
   - 16
+region: Czech Republic
 feastDay:
   month: 9
   day: 28

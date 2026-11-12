@@ -7,6 +7,7 @@ summary: Zealous evangelist who brought many pagans to the faith. Martyred in th
 deathYear: 195
 died: burned alive c.195, probably in Macedonia
 deathPlace: probablyMacedonia
+region: Greece
 feastDay:
   month: 7
   day: 13

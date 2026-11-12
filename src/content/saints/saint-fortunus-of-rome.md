@@ -6,6 +6,7 @@ honorific: Saint
 summary: A martyr of the early Church, date and location unknown.
 searchAliases:
   - Furtunus
+region: Italy
 feastDay:
   month: 3
   day: 3

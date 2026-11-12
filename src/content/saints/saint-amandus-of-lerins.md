@@ -10,6 +10,7 @@ searchAliases:
   - Amatius of Lérins
 deathYear: 708
 died: 708 of natural causes
+region: France
 feastDay:
   month: 11
   day: 18

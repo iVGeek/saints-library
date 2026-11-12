@@ -10,6 +10,7 @@ summary: >-
 deathYear: 420
 born: Persia
 died: '420'
+region: Persia
 feastDay:
   month: 8
   day: 8

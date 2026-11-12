@@ -12,6 +12,7 @@ deathYear: 304
 born: 239 at Claudiopolis, Isauria, Ephesus
 died: stabbed to death c.304 by Roman soldiers at Tarsus after being mauled but not killed by animals in the arena
 birthPlace: Isauria, Ephesus
+region: Turkey
 feastDay:
   month: 10
   day: 11

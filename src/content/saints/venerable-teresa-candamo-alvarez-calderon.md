@@ -13,6 +13,7 @@ born: 19 August 1875 in Lima, Peru
 died: 24 August 1953 in Lima, Peru of natural causes
 birthPlace: Peru
 deathPlace: Perunatural causes
+region: Peru
 feastDay:
   month: 1
   day: 1

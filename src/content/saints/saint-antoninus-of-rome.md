@@ -9,6 +9,7 @@ summary: >-
   previous life.
 deathYear: 186
 died: '186'
+region: Italy
 feastDay:
   month: 8
   day: 22

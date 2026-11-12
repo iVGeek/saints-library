@@ -12,6 +12,7 @@ searchAliases:
 deathYear: 1227
 died: beheaded in 1227 in Ceuta, Morocco
 deathPlace: Morocco
+region: Africa
 feastDay:
   month: 10
   day: 10

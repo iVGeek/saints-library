@@ -19,6 +19,7 @@ born: '1908'
 birthPlace: Antioch
 centuries:
   - 20
+region: Turkey
 feastDay:
   month: 9
   day: 13

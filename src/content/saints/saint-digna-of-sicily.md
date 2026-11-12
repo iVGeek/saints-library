@@ -4,6 +4,7 @@ stub: true
 honorific: Saint
 summary: Martyr. No other information has survived.
 died: in Sicily
+region: Italy
 feastDay:
   month: 10
   day: 11

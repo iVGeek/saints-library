@@ -9,6 +9,7 @@ searchAliases:
   - Sabianus
   - Sabiniana
   - Sabinianus
+region: Africa
 feastDay:
   month: 3
   day: 3

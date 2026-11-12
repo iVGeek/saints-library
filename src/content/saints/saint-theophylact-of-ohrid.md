@@ -7,6 +7,7 @@ summary: >-
   theologian and orator; many of his homilies and commentaries have survived to today.
 deathYear: 1126
 died: '1126'
+region: North Macedonia
 feastDay:
   month: 12
   day: 31

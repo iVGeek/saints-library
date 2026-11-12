@@ -5,6 +5,7 @@ image: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Catholic_Encyclopedia%2C_volume_6.djvu/page1-960px-Catholic_Encyclopedia%2C_volume_6.djvu.jpg
 honorific: Saint
 summary: Martyr. No other information has survived.
+region: Africa
 feastDay:
   month: 3
   day: 3

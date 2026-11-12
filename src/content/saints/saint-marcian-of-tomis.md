@@ -8,6 +8,7 @@ searchAliases:
   - Marcianus
 died: in Tomis, Scythia Minor (modern Constanta, Romania), date unknown
 deathPlace: Scythia Minor (modern Constanta, Romania), date unknown
+region: Romania
 feastDay:
   month: 7
   day: 10

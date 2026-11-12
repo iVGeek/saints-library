@@ -6,6 +6,7 @@ honorific: Saint
 summary: Companion of Saint Ursula. Martyr.
 died: Rapperswil, Switzerland
 deathPlace: Switzerland
+region: Switzerland
 feastDay:
   month: 6
   day: 16

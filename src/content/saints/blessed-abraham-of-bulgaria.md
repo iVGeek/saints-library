@@ -7,6 +7,7 @@ summary: >-
   executed. Martyr.
 deathYear: 1229
 died: c.1229
+region: Bulgaria
 feastDay:
   month: 4
   day: 1

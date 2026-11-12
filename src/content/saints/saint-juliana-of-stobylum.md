@@ -6,6 +6,7 @@ honorific: Saint
 summary: Martyr.
 died: Strobylum, Asia Minor
 deathPlace: Asia Minor
+region: Turkey
 feastDay:
   month: 8
   day: 18

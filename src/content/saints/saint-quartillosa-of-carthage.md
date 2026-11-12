@@ -8,6 +8,7 @@ summary: >-
   persecutions of Valerian.
 deathYear: 258
 died: c.258 in Carthage (modern Tunis Tunisia)
+region: Africa
 feastDay:
   month: 12
   day: 29

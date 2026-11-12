@@ -12,6 +12,7 @@ deathYear: 374
 born: c.276 at Nazianzos, Cappadocia, Asia Minor
 died: 374 of natural causes
 birthPlace: Cappadocia, Asia Minor
+region: Turkey
 feastDay:
   month: 1
   day: 1

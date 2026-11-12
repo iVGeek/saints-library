@@ -5,6 +5,7 @@ honorific: Saint
 summary: Priest in Nicomedia, Asia Minor. Martyred in the persecutions of Diocletian.
 deathYear: 300
 died: martyred c.300
+region: Turkey
 feastDay:
   month: 4
   day: 11

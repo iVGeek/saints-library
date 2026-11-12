@@ -6,6 +6,7 @@ honorific: Saint
 summary: Bishop in Persia. Martyred in the persecutions of King Sapor II.
 deathYear: 360
 died: c.360 in Persia
+region: Persia
 feastDay:
   month: 4
   day: 22

@@ -6,6 +6,7 @@ summary: Eldest son of Saint Brychan of Brycheiniog, and ruler of part of Brycha
 searchAliases:
   - Clydwyn of Wales
 died: 5th century
+region: Wales
 feastDay:
   month: 11
   day: 1

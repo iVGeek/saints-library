@@ -12,6 +12,7 @@ imageCredit: Wikimedia Commons
 birthPlace: Alexandria
 centuries:
   - 16
+region: Egypt
 feastDay:
   month: 6
   day: 27

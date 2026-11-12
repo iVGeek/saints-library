@@ -9,6 +9,7 @@ summary: >-
   before being captured. Tortured and martyred.
 died: martyed in Caesarea, Asia Minor
 deathPlace: Asia Minor
+region: Turkey
 feastDay:
   month: 4
   day: 12

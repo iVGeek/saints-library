@@ -10,6 +10,7 @@ searchAliases:
   - Quinto
 deathYear: 484
 died: in 484
+region: Africa
 feastDay:
   month: 1
   day: 4

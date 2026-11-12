@@ -13,6 +13,7 @@ searchAliases:
 deathYear: 305
 died: c.305 at Sebaste, Armenia
 deathPlace: Armenia
+region: Armenia
 feastDay:
   month: 11
   day: 27

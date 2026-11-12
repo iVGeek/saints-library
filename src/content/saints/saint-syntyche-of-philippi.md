@@ -9,6 +9,7 @@ summary: >-
 searchAliases:
   - Synteches
   - Syntykhé
+region: Greece
 feastDay:
   month: 7
   day: 22

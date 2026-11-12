@@ -6,6 +6,7 @@ honorific: Saint
 summary: Thirteenth century knight.
 died: relics at Caltagirone, Sicily
 deathPlace: Sicily
+region: Italy
 feastDay:
   month: 6
   day: 18

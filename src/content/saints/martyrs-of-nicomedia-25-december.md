@@ -8,6 +8,7 @@ summary: >-
   ancient sources exaggerated the numbers of this inci
 deathYear: 303
 died: burned alive in 303 in the basilica of Nicomedia
+region: Turkey
 feastDay:
   month: 12
   day: 25

@@ -8,6 +8,7 @@ summary: Franciscan Friar Minor.
 searchAliases:
   - Damiano
   - Damianus
+region: Italy
 feastDay:
   month: 6
   day: 28

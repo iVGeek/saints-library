@@ -4,6 +4,7 @@ name: Saint Sergius of Cluny
 stub: true
 honorific: Saint
 summary: Martyr. No other information has survived.
+region: France
 feastDay:
   month: 6
   day: 7

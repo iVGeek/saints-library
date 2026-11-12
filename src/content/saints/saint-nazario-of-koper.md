@@ -11,6 +11,7 @@ birthYear: 475
 deathYear: 555
 born: c.475 in Elpidium (Böste)
 died: c.555
+region: Slovenia
 feastDay:
   month: 6
   day: 19

@@ -8,6 +8,7 @@ summary: >-
   chaste lay people.
 deathYear: 550
 died: c.550
+region: France
 feastDay:
   month: 5
   day: 25

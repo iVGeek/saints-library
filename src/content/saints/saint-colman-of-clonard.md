@@ -9,6 +9,7 @@ searchAliases:
   - Colmanus….
 deathYear: 654
 died: 8 February 654 of natural causes
+region: Ireland
 feastDay:
   month: 12
   day: 12

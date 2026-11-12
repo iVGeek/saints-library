@@ -6,6 +6,7 @@ honorific: Saint
 summary: Martyr. No further information has survived.
 died: at Tomi, Scythia (modern Constanta, Romania)
 deathPlace: Scythia (modern Constanta, Romania)
+region: Romania
 feastDay:
   month: 4
   day: 3

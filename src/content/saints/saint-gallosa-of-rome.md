@@ -4,6 +4,7 @@ name: Saint Gallosa of Rome
 stub: true
 honorific: Saint
 summary: A martyr of the early Church, date and location unknown.
+region: Italy
 feastDay:
   month: 3
   day: 3

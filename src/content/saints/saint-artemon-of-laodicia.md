@@ -6,6 +6,7 @@ summary: Priest. Martyred in the persecutions of Diocletian.
 deathYear: 305
 died: burned to death in 305 in Laodicea, Phrygia
 deathPlace: Phrygia
+region: Turkey
 feastDay:
   month: 10
   day: 8

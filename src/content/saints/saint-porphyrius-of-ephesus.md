@@ -7,6 +7,7 @@ summary: Martyred in the persecutions of Emperor Aurelian.
 deathYear: 171
 died: 171 in Ephesus, Asia Minor
 deathPlace: Asia Minor
+region: Turkey
 feastDay:
   month: 11
   day: 4

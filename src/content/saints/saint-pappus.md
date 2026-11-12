@@ -9,6 +9,7 @@ searchAliases:
   - Pappo
 died: Constanta, Romania
 deathPlace: Romania
+region: Romania
 feastDay:
   month: 4
   day: 3

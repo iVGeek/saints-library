@@ -14,6 +14,7 @@ born: '1030'
 birthPlace: Cologne
 centuries:
   - 11
+region: Germany
 feastDay:
   month: 10
   day: 6

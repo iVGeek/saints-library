@@ -18,6 +18,7 @@ birthYear: 1039
 born: '1039'
 centuries:
   - 11
+region: Czech Republic
 feastDay:
   month: 4
   day: 23

@@ -10,6 +10,7 @@ searchAliases:
   - Alexius of Moscow
 deathYear: 1364
 died: '1364'
+region: Ukraine
 feastDay:
   month: 2
   day: 12

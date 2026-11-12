@@ -11,6 +11,7 @@ searchAliases:
 deathYear: 1893
 died: 18 January 1893 at Macuto, Venezuela of natural causes
 deathPlace: Venezuelanatural causes
+region: Venezuela
 feastDay:
   month: 1
   day: 1

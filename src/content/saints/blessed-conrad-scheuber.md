@@ -14,6 +14,7 @@ born: 1481 in Altfellen, Switzerland
 died: 5 March 1559 in Bettelruti, Switzerland of natural causes
 birthPlace: Switzerland
 deathPlace: Switzerlandnatural causes
+region: Switzerland
 feastDay:
   month: 3
   day: 5

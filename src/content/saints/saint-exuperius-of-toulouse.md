@@ -16,6 +16,7 @@ searchAliases:
   - Soupire
 centuries:
   - 16
+region: France
 feastDay:
   month: 9
   day: 28

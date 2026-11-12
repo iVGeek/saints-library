@@ -7,6 +7,7 @@ honorific: Saint
 summary: A martyr of the early Church, date and location unknown.
 searchAliases:
   - Marcia
+region: Italy
 feastDay:
   month: 3
   day: 3

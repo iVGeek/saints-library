@@ -6,6 +6,7 @@ honorific: Saint
 summary: >-
   The only one of a group of eleven Christians martyred together in Nicomedia, Asia Minor whose name has come down to
   us.
+region: Turkey
 feastDay:
   month: 4
   day: 7

@@ -12,6 +12,7 @@ deathYear: 1556
 born: Archangel, Russia
 died: '1556'
 birthPlace: Russia
+region: Russia
 feastDay:
   month: 12
   day: 7

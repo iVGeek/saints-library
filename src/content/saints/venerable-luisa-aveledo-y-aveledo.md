@@ -14,6 +14,7 @@ born: 18 June 1874 in Caracas, Venezuela as Luisa Aveledo y Aveledo
 died: 16 November 1959 in Barranquilla, Atlantico, Colombia of natural causes
 birthPlace: Venezuela as Luisa Aveledo y Aveledo
 deathPlace: Atlantico, Colombianatural causes
+region: Venezuela
 feastDay:
   month: 1
   day: 1

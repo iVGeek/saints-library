@@ -9,6 +9,7 @@ summary: >-
   the Vatican.
 died: Astrakhan, Russia
 deathPlace: Russia
+region: Russia
 feastDay:
   month: 12
   day: 28

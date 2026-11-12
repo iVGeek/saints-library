@@ -10,6 +10,7 @@ searchAliases:
 deathYear: 484
 died: 484 at Carthage (modern Tunis, Tunisia)
 deathPlace: Tunisia)
+region: Africa
 feastDay:
   month: 3
   day: 23

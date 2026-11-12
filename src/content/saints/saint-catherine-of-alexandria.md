@@ -15,6 +15,7 @@ searchAliases:
   - Katharina von Alexandrien
 centuries:
   - 16
+region: Egypt
 feastDay:
   month: 11
   day: 25

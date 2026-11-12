@@ -6,6 +6,7 @@ honorific: Saint
 summary: Deacon. Martyred in the persecutions of Diocletian.
 died: in Aphrodisia, Caria, Asia Minor
 deathPlace: Caria, Asia Minor
+region: Turkey
 feastDay:
   month: 5
   day: 3

@@ -5,6 +5,7 @@ stub: true
 honorific: Saint
 summary: Martyr. No other information has survived.
 died: Thessalonica
+region: Greece
 feastDay:
   month: 6
   day: 1

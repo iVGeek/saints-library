@@ -7,6 +7,7 @@ summary: Born to the Bohemian nobility. Sister of Blessed Hrosnata. Nun.
 searchAliases:
   - Bozena of Bohemia
 born: 12 century Bohemia
+region: Czech Republic
 feastDay:
   month: 11
   day: 13

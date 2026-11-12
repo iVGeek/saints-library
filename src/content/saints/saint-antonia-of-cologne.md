@@ -7,6 +7,7 @@ honorific: Saint
 summary: One of the companions of Saint Ursula. Martyr.
 searchAliases:
   - Antonina
+region: Germany
 feastDay:
   month: 10
   day: 21

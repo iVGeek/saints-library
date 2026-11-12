@@ -8,6 +8,7 @@ summary: >-
 deathYear: 362
 died: died from general torture and abuse while in prayer in prison in Tarsus, Cilicia in 362
 deathPlace: Cilicia362
+region: Turkey
 feastDay:
   month: 11
   day: 2

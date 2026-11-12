@@ -16,6 +16,7 @@ searchAliases:
   - Margaritha
 centuries:
   - 16
+region: Turkey
 feastDay:
   month: 7
   day: 20

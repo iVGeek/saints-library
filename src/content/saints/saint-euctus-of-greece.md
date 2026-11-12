@@ -6,6 +6,7 @@ honorific: Saint
 summary: Martyr. No other information has survived.
 searchAliases:
   - Polyeuctus
+region: Greece
 feastDay:
   month: 1
   day: 8

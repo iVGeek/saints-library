@@ -7,6 +7,7 @@ honorific: Blessed
 summary: Franciscan friar, serving in the Order for 22 years. Travelled and worked with Saint Bernadine of Siena.
 deathYear: 1442
 died: '1442'
+region: Italy
 feastDay:
   month: 2
   day: 14

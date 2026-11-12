@@ -10,6 +10,7 @@ born: 24 October 1790 in San Juan, Puerto Rico
 died: 5 July 1868 in San Juan, Puerto Rico of natural causes
 birthPlace: Puerto Rico
 deathPlace: Puerto Riconatural causes
+region: Caribbean
 feastDay:
   month: 1
   day: 1

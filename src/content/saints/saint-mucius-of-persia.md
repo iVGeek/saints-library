@@ -4,6 +4,7 @@ name: Saint Mucius of Persia
 stub: true
 honorific: Saint
 summary: Deacon martyred in Persia.
+region: Persia
 feastDay:
   month: 4
   day: 22

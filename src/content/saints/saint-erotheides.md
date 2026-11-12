@@ -6,6 +6,7 @@ honorific: Saint
 summary: Martyred in the persecutions of Diocletian.
 deathYear: 304
 died: 304 in Cappadocia
+region: Turkey
 feastDay:
   month: 10
   day: 27

@@ -6,6 +6,7 @@ summary: >-
   Spiritual student of Saint Paul the Apostle. May have been the young man raised from the dead by Paul at Troas in Acts
   20. Worked with Saint John the Evangelist on Patmos. Imprisoned and tortured for his faith, but he avoided martyrdom.
 born: 1st century Phrygia
+region: Turkey
 feastDay:
   month: 8
   day: 24

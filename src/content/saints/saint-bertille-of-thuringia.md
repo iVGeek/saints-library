@@ -8,6 +8,7 @@ searchAliases:
   - Bertilia
 deathYear: 660
 died: c.660 of natural causes
+region: Germany
 feastDay:
   month: 1
   day: 3

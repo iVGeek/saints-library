@@ -8,6 +8,7 @@ summary: One of the Martyrs of the Theban Legion. No other information has survi
 deathYear: 287
 died: martyred c.287 in Agaunum (modern St-Maurice-en-Valais, Switzerland
 deathPlace: Switzerland
+region: Switzerland
 feastDay:
   month: 9
   day: 22

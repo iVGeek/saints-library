@@ -5,6 +5,7 @@ stub: true
 honorific: Saint
 summary: Martyr. No other information has survived.
 died: Ethiopia
+region: Ethiopia
 feastDay:
   month: 1
   day: 2

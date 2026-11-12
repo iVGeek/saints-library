@@ -16,6 +16,7 @@ searchAliases:
 birthPlace: Drepanon
 centuries:
   - 16
+region: Turkey
 feastDay:
   month: 8
   day: 18

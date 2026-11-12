@@ -7,6 +7,7 @@ summary: Martyr. No other information has survived.
 searchAliases:
   - Cipiscus
   - Pisseus
+region: Greece
 feastDay:
   month: 1
   day: 8

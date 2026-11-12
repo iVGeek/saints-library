@@ -7,6 +7,7 @@ summary: A martyr of the early Church, date and location unknown.
 searchAliases:
   - Belbianus
   - Hebianus
+region: Italy
 feastDay:
   month: 3
   day: 3

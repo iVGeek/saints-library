@@ -6,6 +6,7 @@ summary: Fought the Montanist heresy. Martyred in the persecutions of Marcus Aur
 deathYear: 172
 died: c.172 at Apamea, Phrygia
 deathPlace: Phrygia
+region: Turkey
 feastDay:
   month: 3
   day: 10

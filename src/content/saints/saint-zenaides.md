@@ -10,6 +10,7 @@ searchAliases:
   - Zenais
 born: Tarsus, Cilicia
 birthPlace: Cilicia
+region: Turkey
 feastDay:
   month: 10
   day: 11

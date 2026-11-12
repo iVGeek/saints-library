@@ -7,6 +7,7 @@ summary: Married to Saint Theodotus of Caesarea. Mother of Saint Mamas. Martyred
 deathYear: 270
 died: c.270 at Caesarea, Cappadocia, Asia Minor
 deathPlace: Cappadocia, Asia Minor
+region: Turkey
 feastDay:
   month: 8
   day: 31

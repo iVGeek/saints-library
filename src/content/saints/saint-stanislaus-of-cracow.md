@@ -16,6 +16,7 @@ born: '1030'
 birthPlace: Assisi
 centuries:
   - 11
+region: Poland
 feastDay:
   month: 4
   day: 11

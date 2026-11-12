@@ -3,6 +3,7 @@ name: Saint Basilissa of Asia
 stub: true
 honorific: Saint
 summary: Married to a man named Felicius. Martyred, date unknown.
+region: Turkey
 feastDay:
   month: 3
   day: 12

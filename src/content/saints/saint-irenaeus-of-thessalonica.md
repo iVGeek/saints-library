@@ -7,6 +7,7 @@ honorific: Saint
 summary: Martyred in the persecution of Diocletian.
 deathYear: 303
 died: burned at the stake c.303 at Thessalonica
+region: Greece
 feastDay:
   month: 5
   day: 5

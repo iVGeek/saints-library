@@ -4,6 +4,7 @@ stub: true
 honorific: Saint
 summary: Sixth century soldier. Hermit in Wales. Servant to Saint Peris.
 born: Welsh
+region: Wales
 feastDay:
   month: 12
   day: 11

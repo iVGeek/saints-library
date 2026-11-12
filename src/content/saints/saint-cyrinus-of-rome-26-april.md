@@ -5,6 +5,7 @@ stub: false
 honorific: Saint
 summary: Martyred in the persecutions of Diocletian. Mentioned in the Acts of Saint Marcellinus, Pope and Martyr.
 died: beheaded
+region: Italy
 feastDay:
   month: 4
   day: 26

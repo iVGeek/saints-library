@@ -17,6 +17,7 @@ searchAliases:
 birthPlace: Pskov
 centuries:
   - 16
+region: Ukraine
 feastDay:
   month: 7
   day: 11

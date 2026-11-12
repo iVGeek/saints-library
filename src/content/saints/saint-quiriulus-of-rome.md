@@ -8,6 +8,7 @@ searchAliases:
   - Quirillus
   - Quiriolus
   - Quitillus
+region: Italy
 feastDay:
   month: 3
   day: 3

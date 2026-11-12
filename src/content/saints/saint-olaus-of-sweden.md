@@ -11,6 +11,7 @@ searchAliases:
   - Olave
 died: early 10th century at Birca, Sweden (near modern Stockholm)
 deathPlace: Sweden (near modern Stockholm)
+region: Scandinavia
 feastDay:
   month: 7
   day: 29

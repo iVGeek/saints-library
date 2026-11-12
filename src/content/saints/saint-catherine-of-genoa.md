@@ -19,6 +19,7 @@ born: '1447'
 birthPlace: Genoa
 centuries:
   - 15
+region: Italy
 feastDay:
   month: 9
   day: 15

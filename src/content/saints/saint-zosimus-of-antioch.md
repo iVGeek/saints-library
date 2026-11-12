@@ -4,6 +4,7 @@ name: Saint Zosimus of Antioch
 stub: true
 honorific: Saint
 summary: Martyr. No other information has survived.
+region: Turkey
 feastDay:
   month: 6
   day: 1

@@ -14,6 +14,7 @@ searchAliases:
 deathYear: 1193
 born: early 12th century Wales
 died: 1193 in Wales of natural causes
+region: Wales
 feastDay:
   month: 1
   day: 15

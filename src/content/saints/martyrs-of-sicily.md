@@ -7,6 +7,7 @@ summary: >-
   survived.
 deathYear: 303
 died: c.303 on Sicily
+region: Italy
 feastDay:
   month: 2
   day: 21

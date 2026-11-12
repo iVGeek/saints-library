@@ -6,6 +6,7 @@ honorific: Saint
 summary: Martyr. No other information has survived.
 searchAliases:
   - Sabiniana
+region: Africa
 feastDay:
   month: 3
   day: 3

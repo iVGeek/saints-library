@@ -10,6 +10,7 @@ born: c.1783 in Phú Nhai, Nam Ðinh, Vietnam
 died: martyred on 26 November 1839 in Bay Mau, Hanoi, Vietnam
 birthPlace: Nam Ðinh, Vietnam
 deathPlace: Hanoi, Vietnam
+region: Vietnam
 feastDay:
   month: 11
   day: 26

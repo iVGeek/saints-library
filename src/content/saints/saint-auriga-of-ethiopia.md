@@ -6,6 +6,7 @@ summary: Martyr. No other information has survived.
 searchAliases:
   - Aurec
 died: Ethiopia
+region: Ethiopia
 feastDay:
   month: 1
   day: 2

@@ -11,6 +11,7 @@ imageAlt: Portrait of Saint Longinus of Africa
 imageCredit: Wikimedia Commons
 centuries:
   - 16
+region: Africa
 feastDay:
   month: 5
   day: 2

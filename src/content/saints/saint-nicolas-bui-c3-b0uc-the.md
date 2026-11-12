@@ -11,6 +11,7 @@ born: c.1792 in Kiên Trung, Nam Ðinh, Vietnam
 died: martyred on 12 June 1839 in Thua Thiên, Vietnam
 birthPlace: Nam Ðinh, Vietnam
 deathPlace: Vietnam
+region: Vietnam
 feastDay:
   month: 6
   day: 12

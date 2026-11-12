@@ -20,6 +20,7 @@ born: '1185'
 birthPlace: Kildare
 centuries:
   - 12
+region: Ireland
 feastDay:
   month: 2
   day: 1

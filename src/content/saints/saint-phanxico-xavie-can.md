@@ -10,6 +10,7 @@ born: c.1803 in Son Miêng, Hà Ðông, Vietnam
 died: martyred on 20 November 1837 at Ô Cau Giay, Hanoi, Vietnam
 birthPlace: Hà Ðông, Vietnam
 deathPlace: Hanoi, Vietnam
+region: Vietnam
 feastDay:
   month: 11
   day: 20

@@ -7,6 +7,7 @@ summary: Martyr.
 searchAliases:
   - Feliciano
   - Felicianus
+region: Italy
 feastDay:
   month: 7
   day: 9

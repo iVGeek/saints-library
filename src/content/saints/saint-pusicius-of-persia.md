@@ -7,6 +7,7 @@ summary: Martyred with about 100 other believers during the persecutions of King
 deathYear: 345
 born: Persian
 died: Good Friday 345
+region: Persia
 feastDay:
   month: 4
   day: 21

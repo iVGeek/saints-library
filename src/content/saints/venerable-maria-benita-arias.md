@@ -12,6 +12,7 @@ born: 3 April 1822 in La Carlota, Córdoba, Argentina
 died: 25 September 1894 in Buenos Aires, Argentina of natural causes
 birthPlace: Córdoba, Argentina
 deathPlace: Argentinanatural causes
+region: Argentina
 feastDay:
   month: 11
   day: 21

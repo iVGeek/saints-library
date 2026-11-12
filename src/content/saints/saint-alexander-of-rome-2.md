@@ -3,6 +3,7 @@ name: Saint Alexander of Rome
 stub: true
 honorific: Saint
 summary: Martyr. No other information has survived.
+region: Italy
 feastDay:
   month: 2
   day: 27

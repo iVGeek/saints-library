@@ -6,6 +6,7 @@ honorific: Saint
 summary: Martyr.
 died: 4th century Sirmium, Pannonia (modern Sremska Mitrovica, Serbia)
 deathPlace: Pannonia (modern Sremska Mitrovica, Serbia)
+region: Serbia
 feastDay:
   month: 8
   day: 9

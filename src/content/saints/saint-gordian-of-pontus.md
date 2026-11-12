@@ -4,6 +4,7 @@ name: Saint Gordian of Pontus
 stub: true
 honorific: Saint
 summary: Martyred with several unnamed companions.
+region: Turkey
 feastDay:
   month: 9
   day: 13

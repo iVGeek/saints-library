@@ -8,6 +8,7 @@ searchAliases:
   - Focius
   - Fotius
   - Fovus
+region: Africa
 feastDay:
   month: 3
   day: 3

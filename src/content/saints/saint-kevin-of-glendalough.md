@@ -18,6 +18,7 @@ birthYear: 1903
 born: '1903'
 centuries:
   - 20
+region: Ireland
 feastDay:
   month: 6
   day: 3

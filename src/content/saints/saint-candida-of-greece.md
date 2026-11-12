@@ -3,6 +3,7 @@ name: Saint Candida of Greece
 stub: true
 honorific: Saint
 summary: Martyr. No other information has survived.
+region: Greece
 feastDay:
   month: 1
   day: 7

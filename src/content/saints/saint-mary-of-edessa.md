@@ -7,6 +7,7 @@ summary: >-
   Niece of Saint Abraham Kidunaia. She lived for 20 years as an anchoress near Abraham's cell. In a moment of weakness,
   she was seduced by a renegade monk who had turned from his vows. Mary despaired of forgiveness for her lapse, and in
   her shame, moved far away and gave herself ov
+region: Turkey
 feastDay:
   month: 10
   day: 29

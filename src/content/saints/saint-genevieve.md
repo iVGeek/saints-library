@@ -16,6 +16,7 @@ born: '1871'
 birthPlace: Paris
 centuries:
   - 19
+region: France
 feastDay:
   month: 1
   day: 3

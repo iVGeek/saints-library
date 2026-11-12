@@ -12,6 +12,7 @@ born: 19 May 1853 in Zahleh, Al Biqa', Lebanon
 died: 22 February 1930 in Saïda, Al Janub, Lebanon of natural causes
 birthPlace: Al Biqa', Lebanon
 deathPlace: Al Janub, Lebanonnatural causes
+region: Lebanon
 feastDay:
   month: 1
   day: 1

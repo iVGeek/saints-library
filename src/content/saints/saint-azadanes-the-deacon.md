@@ -8,6 +8,7 @@ searchAliases:
   - Azadames
 deathYear: 360
 died: c.360 in Persia
+region: Persia
 feastDay:
   month: 4
   day: 22

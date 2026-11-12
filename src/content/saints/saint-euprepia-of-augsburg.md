@@ -8,6 +8,7 @@ summary: >-
   persecutions of Diocletian.
 deathYear: 304
 died: c.304
+region: Germany
 feastDay:
   month: 8
   day: 12

@@ -7,6 +7,7 @@ summary: Monk. Martyred in the persecutions of Julian the Apostate. No other inf
 deathYear: 361
 died: beheaded in 361 at Tiberiopolis, Phrygia Pacatiana, Asia Minor
 deathPlace: Phrygia Pacatiana, Asia Minor
+region: Turkey
 feastDay:
   month: 11
   day: 28

@@ -16,6 +16,7 @@ born: '1823'
 birthPlace: Lisieux
 centuries:
   - 19
+region: France
 feastDay:
   month: 7
   day: 12

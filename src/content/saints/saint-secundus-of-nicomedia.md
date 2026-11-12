@@ -7,6 +7,7 @@ summary: Martyred in the persecutions of Diocletian.
 deathYear: 303
 died: 303 at Nicomedia, Asia Minor
 deathPlace: Asia Minor
+region: Turkey
 feastDay:
   month: 12
   day: 19

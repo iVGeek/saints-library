@@ -10,6 +10,7 @@ searchAliases:
   - Balto of Wessobr&uuml;nn
 birthYear: 1090
 born: '1090'
+region: Germany
 feastDay:
   month: 12
   day: 27

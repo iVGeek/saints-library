@@ -5,6 +5,7 @@ stub: true
 honorific: Saint
 summary: Martyr.
 died: Cyprus
+region: Cyprus
 feastDay:
   month: 2
   day: 20

@@ -18,6 +18,7 @@ born: '1515'
 birthPlace: Florence
 centuries:
   - 16
+region: Italy
 feastDay:
   month: 5
   day: 26

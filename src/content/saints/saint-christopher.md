@@ -18,6 +18,7 @@ searchAliases:
 birthPlace: Canaan as
 centuries:
   - 16
+region: Holy Land
 feastDay:
   month: 7
   day: 25

@@ -13,6 +13,7 @@ born: 11 December 1874 in Quito, Ecuador
 died: 24 October 1964 in Quito, Ecuador
 birthPlace: Ecuador
 deathPlace: Ecuador
+region: Ecuador
 feastDay:
   month: 1
   day: 1

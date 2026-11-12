@@ -9,6 +9,7 @@ searchAliases:
 deathYear: 203
 died: 203 at Carthage (modern Tunis, Tunisia)
 deathPlace: Tunisia)
+region: Africa
 feastDay:
   month: 7
   day: 18

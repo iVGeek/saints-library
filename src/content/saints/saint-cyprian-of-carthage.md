@@ -16,6 +16,7 @@ birthYear: 1914
 born: '1914'
 centuries:
   - 20
+region: Africa
 feastDay:
   month: 9
   day: 16

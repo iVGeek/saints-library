@@ -6,6 +6,7 @@ honorific: Saint
 summary: Persian Christian martyred in the persecutions of King Shapur II.
 deathYear: 344
 died: '344'
+region: Persia
 feastDay:
   month: 2
   day: 21

@@ -11,6 +11,7 @@ searchAliases:
 deathYear: 315
 died: burned at the stake c.315 at Sebaste, Armenia
 deathPlace: Armenia
+region: Armenia
 feastDay:
   month: 11
   day: 2

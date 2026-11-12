@@ -9,6 +9,7 @@ summary: >-
   authorities, arrested for leaving his appren
 deathYear: 1566
 died: burned to death in 1566 near the church of Saint Constantine in Tessaloniki
+region: Greece
 feastDay:
   month: 7
   day: 6

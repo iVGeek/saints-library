@@ -6,6 +6,7 @@ honorific: Saint
 summary: Martyr.
 died: Aulona, Illyricum (modern Vlorë, Albania)
 deathPlace: Illyricum (modern Vlorë, Albania)
+region: Albania
 feastDay:
   month: 1
   day: 16

@@ -7,6 +7,7 @@ summary: Archbishop from Bulgaria. Missionary to Russia. Built a monastery in No
 deathYear: 1180
 died: 1180 in Kiev, Russia of natural causes
 deathPlace: Russianatural causes
+region: Ukraine
 feastDay:
   month: 6
   day: 26

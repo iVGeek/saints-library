@@ -9,6 +9,7 @@ summary: >-
   Martyr.
 deathYear: 789
 died: 789 in Cyprus
+region: Cyprus
 feastDay:
   month: 7
   day: 22

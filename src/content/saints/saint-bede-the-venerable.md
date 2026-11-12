@@ -17,6 +17,7 @@ born: '1899'
 birthPlace: Wearmouth
 centuries:
   - 19
+region: England
 feastDay:
   month: 5
   day: 25

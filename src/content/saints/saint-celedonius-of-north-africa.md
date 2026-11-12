@@ -4,6 +4,7 @@ name: Saint Celedonius of North Africa
 stub: true
 honorific: Saint
 summary: Martyr. No other information has survived.
+region: Africa
 feastDay:
   month: 3
   day: 3

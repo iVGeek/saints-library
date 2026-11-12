@@ -8,6 +8,7 @@ summary: >-
 searchAliases:
   - Akaikos
   - Akaikus
+region: Greece
 feastDay:
   month: 6
   day: 15

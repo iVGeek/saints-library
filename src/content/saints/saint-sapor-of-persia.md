@@ -7,6 +7,7 @@ summary: Relative of King Shapur II who had him executed for his faith. Martyr.
 searchAliases:
   - Shapor
 died: stabbed with a sword in the mid-4th century in Persia
+region: Persia
 feastDay:
   month: 9
   day: 29

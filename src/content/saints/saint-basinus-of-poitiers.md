@@ -5,6 +5,7 @@ honorific: Saint
 summary: Monk. Abbot of the Saint Hilary of Poitiers monastery.
 searchAliases:
   - Basino
+region: France
 feastDay:
   month: 7
   day: 11

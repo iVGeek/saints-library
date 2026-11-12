@@ -3,6 +3,7 @@ name: Saint Apollinaris of Africa
 stub: true
 honorific: Saint
 summary: Martyr. No other information has survived.
+region: Africa
 feastDay:
   month: 6
   day: 21

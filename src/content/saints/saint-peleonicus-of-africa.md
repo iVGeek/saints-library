@@ -4,6 +4,7 @@ name: Saint Peleonicus of Africa
 stub: true
 honorific: Saint
 summary: Martyr. No other details have survived.
+region: Africa
 feastDay:
   month: 2
   day: 11

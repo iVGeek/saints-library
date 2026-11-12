@@ -10,6 +10,7 @@ summary: >-
 deathYear: 310
 died: c.310 at Cyrene, Libya
 deathPlace: Libya
+region: Africa
 feastDay:
   month: 7
   day: 4

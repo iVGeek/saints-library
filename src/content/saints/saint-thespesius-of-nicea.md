@@ -7,6 +7,7 @@ summary: Martyred in the persecutions of Emperor Maximinius the Thracian.
 deathYear: 235
 died: 235 in Nicea, Asia Minor
 deathPlace: Asia Minor
+region: Turkey
 feastDay:
   month: 11
   day: 20

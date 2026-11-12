@@ -6,6 +6,7 @@ summary: Martyred in the persecutions of Licinius.
 deathYear: 320
 died: beheaded in 320 at Nicopolis, Lesser Armenia
 deathPlace: Lesser Armenia
+region: Armenia
 feastDay:
   month: 7
   day: 11

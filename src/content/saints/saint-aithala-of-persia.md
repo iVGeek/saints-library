@@ -6,6 +6,7 @@ summary: Martyr.
 searchAliases:
   - Aithelas
 died: 4th century Persia
+region: Persia
 feastDay:
   month: 4
   day: 22

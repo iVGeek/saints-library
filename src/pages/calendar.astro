@@ -1,437 +1,1500 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 import Breadcrumbs from '../components/Breadcrumbs.astro';
-import SectionHeading from '../components/SectionHeading.astro';
 import { getCollection } from 'astro:content';
-import { MONTHS, liturgicalSeason, seasonTheme } from '../data/calendar';
+import {
+  MONTHS,
+  liturgicalSeason,
+  seasonTheme,
+  movableFeasts,
+  type LiturgicalSeason,
+} from '../data/calendar';
+import { buildCalendarMonth } from '../utils/calendar-data';
 
 const saints = await getCollection('saints');
-
-const RANK_ORDER: Record<string, number> = {
-  Solemnity: 0,
-  Feast: 1,
-  Memorial: 2,
-  'Optional Memorial': 3,
-  Commemoration: 4,
-};
-
-interface DaySaint {
-  id: string;
-  name: string;
-  rank?: string;
-  status: string;
-  martyr: boolean;
-  summary?: string;
-  patronage: string[];
-}
-
-const byDay = new Map<string, DaySaint[]>();
-for (const s of saints) {
-  const key = `${s.data.feastDay.month}-${s.data.feastDay.day}`;
-  const list = byDay.get(key) ?? [];
-  list.push({
-    id: s.id,
-    name: s.data.name,
-    rank: s.data.liturgicalRank,
-    status: s.data.canonizationStatus,
-    martyr: s.data.martyr,
-    summary: s.data.summary,
-    patronage: s.data.patronage,
-  });
-  byDay.set(key, list);
-}
-
-for (const list of byDay.values()) {
-  list.sort((a, b) => (RANK_ORDER[a.rank ?? 'Commemoration'] ?? 5) - (RANK_ORDER[b.rank ?? 'Commemoration'] ?? 5));
-}
-
-const PREVIEW_COUNT = 6;
-
-const WEEKDAYS = ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'];
-const daysInMonth = (y: number, m: number) => new Date(y, m, 0).getDate();
 const now = new Date();
-const year = now.getFullYear();
-const today = { m: now.getMonth() + 1, d: now.getDate() };
+const buildYear = now.getFullYear();
+const buildMonth = now.getMonth() + 1;
 
-const seasonBorder: Record<string, string> = {
-  Advent: 'border-l-4 border-l-violet-500',
-  Christmas: 'border-l-4 border-l-gold-300',
-  'Ordinary Time': 'border-l-4 border-l-emerald-600',
-  Lent: 'border-l-4 border-l-violet-600',
-  Triduum: 'border-l-4 border-l-red-600',
-  Easter: 'border-l-4 border-l-gold-400',
+const monthData = buildCalendarMonth(saints, buildMonth);
+const todayEntries = monthData.days[String(now.getDate())] ?? [];
+const currentSeason = liturgicalSeason(now);
+const currentTheme = seasonTheme(currentSeason);
+
+const stats = {
+  total: saints.length,
+  feastDays: new Set(
+    saints.map((saint) => `${saint.data.feastDay.month}-${saint.data.feastDay.day}`)
+  ).size,
+  martyrs: saints.filter((saint) => saint.data.martyr).length,
+  canonized: saints.filter((saint) => saint.data.canonizationStatus === 'Saint').length,
+  blesseds: saints.filter((saint) => saint.data.canonizationStatus === 'Blessed').length,
+  venerables: saints.filter((saint) => saint.data.canonizationStatus === 'Venerable').length,
 };
 
-const seasonLabel: Record<string, string> = {
-  Advent: 'Advent',
-  Christmas: 'Christmas',
-  'Ordinary Time': 'Ordinary Time',
-  Lent: 'Lent',
-  Triduum: 'Easter Triduum',
-  Easter: 'Easter Season',
-};
-
-interface Cell {
-  day: number;
-  saints: DaySaint[];
-}
-interface Month {
-  month: number;
-  name: string;
-  cells: (Cell | null)[];
-  season: string;
-}
-
-const months: Month[] = [];
-for (let m = 1; m <= 12; m++) {
-  const firstDow = new Date(year, m - 1, 1).getDay();
-  const total = daysInMonth(year, m);
-  const cells: (Cell | null)[] = Array.from({ length: firstDow }, () => null);
-  for (let d = 1; d <= total; d++) {
-    cells.push({ day: d, saints: byDay.get(`${m}-${d}`) ?? [] });
+function seasonsInMonth(year: number, month: number): LiturgicalSeason[] {
+  const total = new Date(year, month, 0).getDate();
+  const found: LiturgicalSeason[] = [];
+  for (let day = 1; day <= total; day++) {
+    const season = liturgicalSeason(new Date(year, month - 1, day));
+    if (!found.includes(season)) found.push(season);
   }
-  const midMonth = new Date(year, m - 1, 15);
-  const season = liturgicalSeason(midMonth);
-  months.push({ month: m, name: MONTHS[m - 1], cells, season });
+  return found;
 }
 
-const rankTone: Record<string, string> = {
-  Solemnity: 'bg-burgundy-700 text-ivory',
-  Feast: 'bg-gold-600 text-ivory',
-  Memorial: 'bg-forest-700 text-ivory',
-  'Optional Memorial': 'bg-forest-600 text-ivory',
-  Commemoration: 'bg-navy-600 text-ivory',
-};
+const buildMonthSeasons = seasonsInMonth(buildYear, buildMonth);
+const feastMap = new Map(
+  movableFeasts(buildYear).map((feast) => [
+    `${feast.date.getMonth() + 1}-${feast.date.getDate()}`,
+    feast.name,
+  ])
+);
 
-const rankBorder: Record<string, string> = {
-  Solemnity: 'border-l-burgundy-700',
-  Feast: 'border-l-gold-600',
-  Memorial: 'border-l-forest-700',
-  'Optional Memorial': 'border-l-forest-600',
-  Commemoration: 'border-l-navy-600',
-};
+const buildDaysInMonth = new Date(buildYear, buildMonth, 0).getDate();
+const noScriptDays = Array.from({ length: buildDaysInMonth }, (_, index) => {
+  const day = index + 1;
+  return {
+    day,
+    entries: monthData.days[String(day)] ?? [],
+    feast: feastMap.get(`${buildMonth}-${day}`) ?? null,
+  };
+}).filter((entry) => entry.entries.length > 0 || entry.feast);
 
-const statusDot: Record<string, string> = {
-  Saint: 'bg-gold-500',
-  Blessed: 'bg-forest-600',
-  Venerable: 'bg-navy-500',
-};
+const longToday = new Intl.DateTimeFormat('en-GB', {
+  weekday: 'long',
+  day: 'numeric',
+  month: 'long',
+  year: 'numeric',
+}).format(now);
+
+// Escape `<` so a summary containing `</script>` cannot terminate the inline
+// data block; the JSON remains valid and `JSON.parse` restores the content.
+const initialJson = JSON.stringify(monthData).replace(/</g, '\\u003c');
+
+const description = `Explore the feast days of ${stats.total.toLocaleString()} saints, blesseds, and venerables in an interactive liturgical calendar drawn directly from the library.`;
 ---
 
 <BaseLayout
   title="Liturgical Calendar"
-  description="The feast days and memorials of the saints, gathered into an interactive liturgical calendar for the Church year."
+  description={description}
   canonicalPath="/calendar"
   bodyClass="parchment-bg"
 >
   <div class="mx-auto max-w-6xl px-4 py-10 sm:px-6">
     <Breadcrumbs crumbs={[{ label: 'Home', href: '/' }, { label: 'Liturgical Calendar' }]} />
-    <SectionHeading
-      label="The Church's year"
-      title="Liturgical Calendar"
-      sub="The sanctoral cycle keeps a saint's feast at nearly every turn of the year. Tap a day to see its saints."
-    />
 
-    <div class="mt-8 flex flex-wrap items-center gap-4">
-      <p class="label">Rank</p>
-      {Object.entries(rankTone).map(([rank, tone]) => (
-        <span class="flex items-center gap-2 font-body text-sm text-ink-600">
-          <span class={`h-3 w-3 rounded-full ${tone}`} />
-          {rank}
-        </span>
-      ))}
-    </div>
+    <!-- ===== Hero ===== -->
+    <section class="navy-bg relative overflow-hidden rounded-lg border border-gold-600/30">
+      <div
+        class="pointer-events-none absolute -right-24 -top-24 h-72 w-72 rounded-full opacity-20"
+        style="background: radial-gradient(circle, #c6a155 0%, transparent 68%)"
+        aria-hidden="true"
+      ></div>
+      <div class="relative z-10 grid gap-8 px-6 py-10 sm:px-10 lg:grid-cols-[1.35fr_1fr] lg:items-center">
+        <div>
+          <p class="label-dark">The Church's year</p>
+          <h1 class="mt-3 max-w-2xl font-display text-3xl font-semibold leading-tight text-ivory sm:text-4xl">
+            Liturgical Calendar
+          </h1>
+          <p class="mt-4 max-w-xl font-body text-lg text-parchment-100/80">
+            The sanctoral cycle keeps a saint's feast at nearly every turn of the year.
+            Move through the months, search for a name, and open any day to meet the
+            saints the Church remembers.
+          </p>
 
-    <div class="mt-4 flex flex-wrap items-center gap-4">
-      <p class="label">Season</p>
-      {Object.entries(seasonBorder).map(([season, cls]) => (
-        <span class="flex items-center gap-2 font-body text-sm text-ink-600">
-          <span class={`h-3 w-3 rounded-sm border-l-4 ${cls.replace('border-l-4 ', '')}`} />
-          {seasonLabel[season]}
-        </span>
-      ))}
-    </div>
-
-    <div class="mt-6 flex flex-wrap items-center gap-3">
-      <span class="label">Show:</span>
-      <button data-cal-filter="all" class="cal-btn active" type="button">All</button>
-      <button data-cal-filter="Saint" class="cal-btn" type="button">Saints</button>
-      <button data-cal-filter="Blessed" class="cal-btn" type="button">Blessed</button>
-      <button data-cal-filter="Venerable" class="cal-btn" type="button">Venerable</button>
-      <button data-cal-filter="martyr" class="cal-btn" type="button">Martyrs</button>
-    </div>
-
-    <div class="mt-6 flex flex-wrap items-center gap-2">
-      <a href={`#month-${today.m}`} class="cal-btn active">↓ Today</a>
-      {MONTHS.map((m, i) => (
-        <a href={`#month-${i + 1}`} class="cal-btn">{m.slice(0, 3)}</a>
-      ))}
-    </div>
-
-    <div class="mt-8 grid gap-8 lg:grid-cols-2">
-      {months.map((month) => (
-        <section id={`month-${month.month}`} class:list={['rounded-lg border border-gold-600/30 bg-ivory/80 p-4 scroll-mt-24', seasonBorder[month.season] ?? '']}>
-          <h2 class="mb-4 text-center font-display text-xl font-semibold text-navy-900">{month.name} {year} <span class="text-sm font-normal text-ink-500">· {seasonLabel[month.season]}</span></h2>
-          <div class="grid grid-cols-7 gap-1 text-center">
-            {WEEKDAYS.map((w) => (
-              <span class="label !text-[10px] py-1">{w}</span>
-            ))}
-            {month.cells.map((cell) =>
-              cell ? (
-                <div
-                  class:list={[
-                    'cal-cell relative rounded border p-1 text-left transition-colors overflow-hidden cursor-pointer hover:ring-1 hover:ring-gold-400',
-                    cell.day === today.d && month.month === today.m
-                      ? 'border-gold-600 bg-gold-600/15 ring-1 ring-gold-500'
-                      : 'border-gold-600/20 bg-parchment-100/60 hover:border-gold-500',
-                  ]}
-                  data-month={month.month}
-                  data-day={cell.day}
-                  data-count={cell.saints.length}
-                  title={cell.saints.length ? `${cell.saints.length} saint${cell.saints.length > 1 ? 's' : ''} — click to view` : undefined}
-                >
-                  <span class:list={['absolute right-1 top-1 font-display text-sm font-semibold z-10', cell.day === today.d && month.month === today.m ? 'text-burgundy-700' : 'text-ink-500']}>
-                    {cell.day}
-                  </span>
-                  <div class="mt-5 space-y-0.5 pr-2">
-                    {cell.saints.slice(0, PREVIEW_COUNT).map((s) => (
-                      <span
-                        class:list={[
-                          'cal-link block truncate rounded px-1 py-0.5 font-body text-[11px] leading-tight',
-                          s.rank ? rankTone[s.rank] ?? 'bg-navy-600/80 text-ivory' : 'bg-navy-600/80 text-ivory',
-                        ]}
-                        data-status={s.status}
-                        data-martyr={String(s.martyr)}
-                      >
-                        {s.name}
-                      </span>
-                    ))}
-                    {cell.saints.length > PREVIEW_COUNT && (
-                      <span class="block text-center font-body text-[10px] text-gold-700">
-                        +{cell.saints.length - PREVIEW_COUNT} more
-                      </span>
-                    )}
-                  </div>
-                  <div class="cal-hidden-links" style="display:none">
-                    {cell.saints.map((s) => (
-                      <span
-                        class="cal-link-data"
-                        data-id={s.id}
-                        data-name={s.name}
-                        data-rank={s.rank ?? ''}
-                        data-status={s.status}
-                        data-martyr={String(s.martyr)}
-                        data-summary={s.summary ?? ''}
-                        data-patronage={s.patronage.map(p => p.replace(/-/g, ' ')).join(', ')}
-                      />
-                    ))}
-                  </div>
-                </div>
-              ) : (
-                <span class="min-h-[3.4rem]" aria-hidden="true" />
-              )
-            )}
+          <div class="mt-6 flex flex-wrap items-center gap-3">
+            <span
+              class="inline-flex items-center gap-2 rounded-full border px-3 py-1 font-heading text-sm font-medium"
+              style={`border-color:${currentTheme.accent}66;background:${currentTheme.soft};color:${currentTheme.text}`}
+            >
+              <span aria-hidden="true">{currentTheme.symbol}</span>
+              {currentSeason}
+            </span>
+            <span class="rounded-full border border-gold-600/30 bg-navy-900/40 px-3 py-1 font-heading text-sm text-parchment-100/80">
+              {stats.total.toLocaleString()} profiles
+            </span>
+            <span class="rounded-full border border-gold-600/30 bg-navy-900/40 px-3 py-1 font-heading text-sm text-parchment-100/80">
+              {stats.feastDays} feast days
+            </span>
           </div>
-        </section>
-      ))}
-    </div>
 
-    <div class="mt-10 text-center">
-      <p class="font-body text-ink-500">
-        <span class="font-semibold text-navy-900">{saints.length.toLocaleString()}</span> saints across the liturgical year.
-        <a href="/saints" class="text-burgundy-700 underline transition-colors hover:text-burgundy-800">Browse the full directory →</a>
-      </p>
-    </div>
-  </div>
-
-  <!-- Day Detail Panel -->
-  <div id="day-panel" class="fixed inset-y-0 right-0 z-50 hidden w-full max-w-lg transform transition-transform duration-300 translate-x-full" role="dialog" aria-modal="true" aria-label="Saints for this day">
-    <div class="day-panel-backdrop absolute inset-0 bg-navy-950/60 backdrop-blur-sm" data-close-panel></div>
-    <div class="relative ml-auto h-full w-full max-w-lg overflow-y-auto border-l border-gold-600/40 bg-ivory shadow-deep">
-      <div class="sticky top-0 z-10 border-b border-gold-600/30 bg-ivory/95 backdrop-blur-sm px-5 py-4">
-        <div class="flex items-center justify-between">
-          <div>
-            <p id="panel-month" class="label text-gold-700"></p>
-            <h3 id="panel-title" class="font-display text-2xl font-semibold text-navy-900"></h3>
-          </div>
-          <button id="panel-close" type="button" class="rounded-lg border border-gold-600/30 p-2 text-ink-500 transition-colors hover:bg-gold-600/10 hover:text-navy-900" data-close-panel>
-            <svg viewBox="0 0 24 24" class="h-5 w-5" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M18 6 6 18M6 6l12 12"/></svg>
-          </button>
+          <dl class="mt-7 grid max-w-lg grid-cols-3 gap-4 border-t border-gold-600/25 pt-5">
+            <div>
+              <dt class="label-dark !text-[9px]">Profiles</dt>
+              <dd class="mt-1 font-display text-xl font-semibold text-gold-300">{stats.total.toLocaleString()}</dd>
+            </div>
+            <div>
+              <dt class="label-dark !text-[9px]">Martyrs</dt>
+              <dd class="mt-1 font-display text-xl font-semibold text-gold-300">{stats.martyrs.toLocaleString()}</dd>
+            </div>
+            <div>
+              <dt class="label-dark !text-[9px]">Beatified</dt>
+              <dd class="mt-1 font-display text-xl font-semibold text-gold-300">{stats.blesseds.toLocaleString()}</dd>
+            </div>
+          </dl>
         </div>
-        <p id="panel-count" class="mt-1 font-body text-sm text-ink-500"></p>
+
+        <!-- Today card -->
+        <aside class="rounded-md border border-gold-600/40 bg-navy-900/55 p-5 shadow-deep sm:p-6">
+          <div class="flex items-start justify-between gap-3">
+            <div>
+              <p class="label-dark !text-[10px]">Today in the calendar</p>
+              <p id="today-date" class="mt-2 font-display text-lg font-semibold leading-snug text-ivory sm:text-xl">
+                {longToday}
+              </p>
+            </div>
+            <span
+              class="mt-1 inline-flex h-9 w-9 shrink-0 items-center justify-center rounded-full border text-base"
+              style={`border-color:${currentTheme.accent}66;background:${currentTheme.soft};color:${currentTheme.text}`}
+              aria-hidden="true"
+            >
+              {currentTheme.symbol}
+            </span>
+          </div>
+          <p id="today-season" class="mt-1 font-heading text-base" style={`color:${currentTheme.accent}`}>
+            {currentSeason}
+          </p>
+
+          <ul id="today-list" class="mt-4 space-y-1.5">
+            {todayEntries.slice(0, 4).map((entry) => (
+              <li class="flex items-center gap-2">
+                <span
+                  class:list={[
+                    'h-1.5 w-1.5 shrink-0 rounded-full',
+                    entry.status === 'Blessed' ? 'bg-forest-500' : entry.status === 'Venerable' ? 'bg-navy-500' : 'bg-gold-500',
+                  ]}
+                  aria-hidden="true"
+                />
+                <a
+                  href={`/saints/${entry.slug}`}
+                  class="truncate font-heading text-base text-ivory transition-colors hover:text-gold-300 hover:underline"
+                >
+                  {entry.name}
+                </a>
+                {entry.status !== 'Saint' && (
+                  <span class="shrink-0 font-display text-[9px] uppercase tracking-[0.16em] text-gold-400">
+                    {entry.status}
+                  </span>
+                )}
+              </li>
+            ))}
+            {todayEntries.length === 0 && (
+              <li class="font-body text-sm text-parchment-100/60">No profiles are recorded for today.</li>
+            )}
+          </ul>
+
+          <div class="mt-5 flex flex-wrap items-center gap-3">
+            <button id="today-open" type="button" class="btn btn-gold !px-4 !py-2 !text-base">
+              See all {todayEntries.length}
+            </button>
+            <a href="/saints" class="font-heading text-sm text-gold-300 underline-offset-4 hover:underline">
+              Browse the directory
+            </a>
+          </div>
+        </aside>
       </div>
-      <div id="panel-saints" class="divide-y divide-gold-600/20 px-5 py-2"></div>
-      <div id="panel-empty" class="hidden px-5 py-10 text-center">
-        <p class="font-heading text-xl italic text-ink-600">No saints on this day.</p>
+    </section>
+
+    <!-- ===== Toolbar ===== -->
+    <section
+      id="calendar-app"
+      class="mt-8 rounded-lg border border-gold-600/30 bg-ivory/80 p-4 shadow-candle sm:p-5"
+      aria-label="Calendar controls"
+    >
+      <div class="flex flex-col gap-4 lg:flex-row lg:items-center lg:justify-between">
+        <div class="flex items-center gap-2 sm:gap-3">
+          <button id="month-prev" type="button" class="cal-nav" aria-label="Previous month">
+            <svg viewBox="0 0 24 24" class="h-4 w-4" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true">
+              <path d="m15 18-6-6 6-6" />
+            </svg>
+          </button>
+          <div class="min-w-0 text-center sm:text-left">
+            <h2 id="month-heading" tabindex="-1" class="font-display text-2xl font-semibold leading-tight text-navy-900" aria-live="polite">
+              {MONTHS[buildMonth - 1]} {buildYear}
+            </h2>
+            <p id="month-sub" class="mt-0.5 font-body text-sm text-ink-500">
+              {monthData.total.toLocaleString()} profiles · {Object.keys(monthData.days).length} feast days
+            </p>
+          </div>
+          <button id="month-next" type="button" class="cal-nav" aria-label="Next month">
+            <svg viewBox="0 0 24 24" class="h-4 w-4" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true">
+              <path d="m9 6 6 6-6 6" />
+            </svg>
+          </button>
+          <button id="month-today" type="button" class="chip ml-1">Today</button>
+        </div>
+
+        <div class="flex flex-col gap-3 sm:flex-row sm:items-center">
+          <div class="relative">
+            <svg viewBox="0 0 24 24" class="pointer-events-none absolute left-3 top-1/2 h-4 w-4 -translate-y-1/2 text-gold-600" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+              <circle cx="11" cy="11" r="7" />
+              <path d="m20 20-3.5-3.5" stroke-linecap="round" />
+            </svg>
+            <label for="cal-search" class="sr-only">Search this month's saints</label>
+            <input
+              id="cal-search"
+              type="search"
+              autocomplete="off"
+              placeholder="Search this month…"
+              class="w-full rounded-md border border-gold-600/40 bg-parchment-50 py-2 pl-9 pr-3 font-body text-base text-ink-800 placeholder:text-ink-400 focus:border-gold-500 focus:outline-none sm:w-64"
+            />
+          </div>
+          <p id="month-season" class="font-heading text-sm text-ink-600"></p>
+        </div>
       </div>
-    </div>
+
+      <div class="mt-4 flex flex-wrap items-center gap-2 border-t border-gold-600/20 pt-4">
+        <span class="label mr-1 !text-[10px]">Show</span>
+        <button type="button" class="chip chip-active" data-filter="all" aria-pressed="true">All</button>
+        <button type="button" class="chip" data-filter="Saint" aria-pressed="false">Saints</button>
+        <button type="button" class="chip" data-filter="Blessed" aria-pressed="false">Blesseds</button>
+        <button type="button" class="chip" data-filter="Venerable" aria-pressed="false">Venerables</button>
+        <button type="button" class="chip" data-filter="martyr" aria-pressed="false">Martyrs</button>
+        <span id="filter-count" class="ml-auto font-body text-sm text-ink-500"></span>
+      </div>
+
+      <div class="mt-3 flex flex-wrap items-center gap-x-4 gap-y-2 font-body text-xs text-ink-500">
+        <span class="flex items-center gap-1.5">
+          <span class="h-2.5 w-1 rounded-sm" style="background:#c6a155" aria-hidden="true"></span>
+          Christmas &amp; Easter
+        </span>
+        <span class="flex items-center gap-1.5">
+          <span class="h-2.5 w-1 rounded-sm" style="background:#3c6e4d" aria-hidden="true"></span>
+          Ordinary Time
+        </span>
+        <span class="flex items-center gap-1.5">
+          <span class="h-2.5 w-1 rounded-sm" style="background:#6d4a8f" aria-hidden="true"></span>
+          Advent &amp; Lent
+        </span>
+        <span class="flex items-center gap-1.5">
+          <span class="h-2.5 w-1 rounded-sm" style="background:#8a2434" aria-hidden="true"></span>
+          Triduum
+        </span>
+        <span class="hidden h-3 w-px bg-gold-600/30 sm:block" aria-hidden="true"></span>
+        <span class="flex items-center gap-1.5">
+          <span class="h-2 w-2 rounded-full bg-gold-500" aria-hidden="true"></span>
+          Saint
+        </span>
+        <span class="flex items-center gap-1.5">
+          <span class="h-2 w-2 rounded-full bg-forest-500" aria-hidden="true"></span>
+          Blessed
+        </span>
+        <span class="flex items-center gap-1.5">
+          <span class="h-2 w-2 rounded-full bg-navy-500" aria-hidden="true"></span>
+          Venerable
+        </span>
+      </div>
+    </section>
+
+    <!-- ===== Month ===== -->
+    <section id="month-panel" class="mt-6 scroll-mt-24" aria-labelledby="month-heading">
+      <div class="rounded-lg border border-gold-600/25 bg-ivory/70 p-3 shadow-candle sm:p-4">
+        <div id="calendar-grid" class="cal-grid" role="group" aria-label="Days of the month"></div>
+        <div id="calendar-agenda" class="cal-day-list cal-agenda"></div>
+        <div id="search-panel" class="cal-hidden mt-2">
+          <div class="flex flex-wrap items-baseline justify-between gap-2">
+            <h3 id="search-heading" class="font-display text-xl font-semibold text-navy-900"></h3>
+            <button id="search-clear" type="button" class="font-heading text-sm text-burgundy-700 underline-offset-4 hover:underline">
+              Clear search
+            </button>
+          </div>
+          <div id="search-list" class="cal-day-list mt-3"></div>
+        </div>
+      </div>
+
+      <div id="month-message" class="mt-4 hidden rounded-md border border-gold-600/40 bg-gold-600/10 px-5 py-4"></div>
+      <p id="month-status" class="sr-only" role="status" aria-live="polite"></p>
+
+      <noscript>
+        <div class="mt-5 rounded-lg border border-gold-600/30 bg-ivory/80 p-5">
+          <p class="font-heading text-lg text-navy-900">
+            The interactive calendar needs JavaScript. Here is {MONTHS[buildMonth - 1]} at a glance:
+          </p>
+          <p class="mt-1 font-body text-sm text-ink-500">
+            This month spans {buildMonthSeasons.map((season) => season).join(' · ')}.
+          </p>
+          <ol class="mt-4 divide-y divide-gold-600/20">
+            {noScriptDays.map(({ day, entries, feast }) => (
+              <li class="flex gap-4 py-3">
+                <span class="w-8 shrink-0 font-display text-lg font-semibold text-navy-900">{day}</span>
+                <div class="min-w-0">
+                  {feast && <p class="font-heading text-sm italic text-burgundy-700">{feast}</p>}
+                  <p class="font-body text-sm text-ink-700">
+                    {entries.slice(0, 4).map((entry, index) => (
+                      <span>
+                        {index > 0 && ', '}
+                        <a href={`/saints/${entry.slug}`} class="text-burgundy-700 underline-offset-2 hover:underline">
+                          {entry.name}
+                        </a>
+                      </span>
+                    ))}
+                    {entries.length > 4 && ` +${entries.length - 4} more`}
+                  </p>
+                </div>
+              </li>
+            ))}
+          </ol>
+        </div>
+      </noscript>
+    </section>
+
+    <!-- ===== Notes ===== -->
+    <section class="mt-10 grid gap-4 lg:grid-cols-3">
+      <div class="rounded-lg border border-gold-600/25 bg-ivory/80 p-5">
+        <p class="label !text-[10px]">Using the calendar</p>
+        <h2 class="mt-2 font-display text-lg font-semibold text-navy-900">A day at a time</h2>
+        <p class="mt-2 font-body text-sm leading-relaxed text-ink-600">
+          Choose a month with the arrows, search within it, or filter by canonization status and
+          martyrdom. Select any day to open its full list of profiles, with summaries and patronages.
+        </p>
+      </div>
+      <div class="rounded-lg border border-gold-600/25 bg-ivory/80 p-5">
+        <p class="label !text-[10px]">About the data</p>
+        <h2 class="mt-2 font-display text-lg font-semibold text-navy-900">Drawn from the library</h2>
+        <p class="mt-2 font-body text-sm leading-relaxed text-ink-600">
+          Every entry is a real profile with a validated feast day — {stats.total.toLocaleString()} in all.
+          Liturgical ranks appear only where a profile records one; the calendar never invents a rank.
+        </p>
+        <p class="mt-3 font-display text-[10px] uppercase tracking-[0.16em] text-ink-500">
+          {stats.canonized.toLocaleString()} saints · {stats.blesseds.toLocaleString()} blesseds · {stats.venerables.toLocaleString()} venerables
+        </p>
+      </div>
+      <div class="rounded-lg border border-gold-600/25 bg-ivory/80 p-5">
+        <p class="label !text-[10px]">Take it with you</p>
+        <h2 class="mt-2 font-display text-lg font-semibold text-navy-900">Subscribe or download</h2>
+        <p class="mt-2 font-body text-sm leading-relaxed text-ink-600">
+          Import the whole sanctoral cycle into your calendar app as yearly recurring feasts.
+        </p>
+        <a href="/calendar.ics" class="btn btn-ghost mt-4 !px-4 !py-2 !text-base">Download iCal (.ics)</a>
+      </div>
+    </section>
   </div>
 
-  <div class="mx-auto max-w-6xl px-4 pb-10 sm:px-6">
-    <a href="/calendar.ics" class="btn btn-ghost">Download as iCal (.ics)</a>
-  </div>
+  <!-- ===== Day dialog ===== -->
+  <dialog id="day-dialog" class="day-dialog" aria-labelledby="dialog-title">
+    <div class="day-dialog-card">
+      <header class="day-dialog-head">
+        <div class="flex items-start justify-between gap-3">
+          <div class="min-w-0">
+            <p id="dialog-season" class="label !text-[10px]"></p>
+            <h2 id="dialog-title" class="mt-1 font-display text-2xl font-semibold text-navy-900"></h2>
+            <p id="dialog-count" class="mt-1 font-body text-sm text-ink-500"></p>
+          </div>
+          <div class="flex shrink-0 items-center gap-1">
+            <button id="dialog-prev" type="button" class="cal-nav !h-9 !w-9" aria-label="Previous day">
+              <svg viewBox="0 0 24 24" class="h-4 w-4" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true">
+                <path d="m15 18-6-6 6-6" />
+              </svg>
+            </button>
+            <button id="dialog-next" type="button" class="cal-nav !h-9 !w-9" aria-label="Next day">
+              <svg viewBox="0 0 24 24" class="h-4 w-4" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true">
+                <path d="m9 6 6 6-6 6" />
+              </svg>
+            </button>
+            <button id="dialog-close" type="button" class="cal-nav !h-9 !w-9" aria-label="Close">
+              <svg viewBox="0 0 24 24" class="h-4 w-4" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true">
+                <path d="M18 6 6 18M6 6l12 12" />
+              </svg>
+            </button>
+          </div>
+        </div>
+      </header>
+      <div id="dialog-body" class="day-dialog-body"></div>
+      <footer id="dialog-footer" class="day-dialog-foot" hidden>
+        <button id="dialog-more" type="button" class="btn btn-ghost !px-4 !py-2 !text-base">Show more</button>
+      </footer>
+    </div>
+  </dialog>
+
+  <script is:inline type="application/json" id="calendar-initial-data" set:html={initialJson}></script>
 </BaseLayout>
 
-<style>
-  .cal-btn {
+<style is:global>
+  /* ——— Month toolbar ——— */
+  .cal-nav {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 2.35rem;
+    height: 2.35rem;
     border-radius: 9999px;
-    border: 1px solid rgba(180, 140, 60, 0.3);
-    background: #fdf8f0;
-    padding: 0.25rem 0.75rem;
-    font-size: 0.875rem;
-    color: #4a3f35;
-    transition: all 0.15s;
+    border: 1px solid rgba(198, 161, 85, 0.45);
+    background: var(--color-ivory);
+    color: var(--color-ink-600);
+    transition: border-color 0.18s, background 0.18s, color 0.18s;
     cursor: pointer;
   }
-  .cal-btn:hover {
-    border-color: #b48c3c;
-    color: #1a1520;
+  .cal-nav:hover:not(:disabled) {
+    border-color: var(--color-gold-500);
+    background: rgba(198, 161, 85, 0.12);
+    color: var(--color-navy-900);
   }
-  .cal-btn.active {
-    border-color: #b48c3c;
-    background: #b48c3c;
-    color: #fdf8f0;
+  .cal-nav:disabled {
+    opacity: 0.4;
+    cursor: not-allowed;
   }
-  .day-panel-open {
+  .is-busy {
+    opacity: 0.55;
+    pointer-events: none;
+    transition: opacity 0.2s;
+  }
+
+  /* ——— Desktop month grid ——— */
+  .cal-grid {
+    display: none;
+    grid-template-columns: repeat(7, minmax(0, 1fr));
+    gap: 0.4rem;
+  }
+  @media (min-width: 1024px) {
+    .cal-grid {
+      display: grid;
+    }
+  }
+  .cal-dow {
+    padding: 0.25rem 0 0.4rem;
+    text-align: center;
+    font-family: var(--font-display);
+    font-size: 0.66rem;
+    font-weight: 600;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: var(--color-gold-700);
+  }
+  .cal-blank {
+    min-height: 7.4rem;
+    border-radius: 0.375rem;
+    background: rgba(198, 161, 85, 0.04);
+  }
+  .cal-day {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    gap: 0.15rem;
+    min-height: 7.4rem;
+    padding: 0.45rem 0.5rem 0.45rem 0.65rem;
+    border: 1px solid rgba(198, 161, 85, 0.24);
+    border-radius: 0.375rem;
+    background: rgba(241, 231, 212, 0.55);
+    text-align: left;
+    cursor: pointer;
     overflow: hidden;
+    transition: border-color 0.18s, background 0.18s, box-shadow 0.18s;
+  }
+  .cal-day:hover {
+    border-color: var(--color-gold-500);
+    background: var(--color-ivory);
+    box-shadow: var(--shadow-candle);
+  }
+  .cal-day.is-empty {
+    opacity: 0.45;
+  }
+  .cal-day.is-today {
+    border-color: var(--color-gold-600);
+    background: #fdf7e7;
+    box-shadow: 0 0 0 2px rgba(198, 161, 85, 0.32);
+  }
+  .cal-season-bar {
+    position: absolute;
+    inset: 0 auto 0 0;
+    width: 3px;
+    background: var(--accent, var(--color-gold-500));
+  }
+  .cal-day-head {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.25rem;
+  }
+  .cal-num {
+    font-family: var(--font-display);
+    font-size: 1.02rem;
+    font-weight: 600;
+    line-height: 1;
+    color: var(--color-ink-700);
+  }
+  .cal-day.is-today .cal-num {
+    color: var(--color-burgundy-700);
+  }
+  .cal-count {
+    min-width: 1.35rem;
+    border-radius: 9999px;
+    padding: 0.05rem 0.3rem;
+    background: rgba(17, 26, 54, 0.08);
+    font-family: var(--font-body);
+    font-size: 0.68rem;
+    line-height: 1.35;
+    text-align: center;
+    color: var(--color-ink-600);
+  }
+  .cal-feast {
+    font-family: var(--font-heading);
+    font-size: 0.72rem;
+    font-style: italic;
+    line-height: 1.15;
+    color: var(--season-text, var(--color-burgundy-700));
+  }
+  .cal-names {
+    display: flex;
+    flex-direction: column;
+    gap: 0.12rem;
+    margin-top: 0.15rem;
+    overflow: hidden;
+  }
+  .cal-name {
+    font-family: var(--font-body);
+    font-size: 0.72rem;
+    line-height: 1.2;
+    color: var(--color-ink-700);
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  .cal-more {
+    margin-top: auto;
+    font-family: var(--font-body);
+    font-size: 0.64rem;
+    font-weight: 600;
+    color: var(--color-gold-700);
+  }
+  .cal-none {
+    font-family: var(--font-body);
+    font-size: 0.72rem;
+    font-style: italic;
+    color: var(--color-ink-400);
+  }
+
+  /* ——— Agenda / search list ——— */
+  .cal-day-list {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+  .cal-agenda {
+    display: flex;
+  }
+  @media (min-width: 1024px) {
+    .cal-agenda {
+      display: none;
+    }
+  }
+  .cal-agenda-day {
+    display: flex;
+    align-items: center;
+    gap: 0.85rem;
+    width: 100%;
+    padding: 0.7rem 0.8rem;
+    border: 1px solid rgba(198, 161, 85, 0.22);
+    border-left: 3px solid var(--accent, var(--color-gold-500));
+    border-radius: 0.375rem;
+    background: rgba(252, 248, 240, 0.75);
+    text-align: left;
+    cursor: pointer;
+    transition: border-color 0.18s, background 0.18s;
+  }
+  .cal-agenda-day:hover {
+    border-color: var(--color-gold-500);
+    background: var(--color-ivory);
+  }
+  .cal-agenda-date {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-width: 2.6rem;
+  }
+  .cal-agenda-date .dow {
+    font-family: var(--font-display);
+    font-size: 0.58rem;
+    font-weight: 600;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--color-gold-700);
+  }
+  .cal-agenda-date .num {
+    font-family: var(--font-display);
+    font-size: 1.35rem;
+    font-weight: 600;
+    line-height: 1.05;
+    color: var(--color-navy-900);
+  }
+  .cal-agenda-main {
+    display: flex;
+    flex-direction: column;
+    gap: 0.1rem;
+    min-width: 0;
+    flex: 1;
+  }
+  .cal-agenda-feast {
+    font-family: var(--font-heading);
+    font-size: 0.8rem;
+    font-style: italic;
+    color: var(--season-text, var(--color-burgundy-700));
+  }
+  .cal-agenda-names {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.1rem 0.5rem;
+    font-family: var(--font-body);
+    font-size: 0.88rem;
+    line-height: 1.3;
+    color: var(--color-ink-700);
+  }
+  .cal-agenda-name {
+    max-width: 100%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+  .cal-agenda-count {
+    flex-shrink: 0;
+    font-family: var(--font-display);
+    font-size: 0.78rem;
+    color: var(--color-ink-500);
+  }
+
+  /* ——— Day dialog ——— */
+  .day-dialog {
+    width: min(44rem, 100%);
+    max-height: min(86vh, 52rem);
+    margin: auto;
+    padding: 0;
+    border: 0;
+    background: transparent;
+    color: inherit;
+  }
+  .day-dialog::backdrop {
+    background: rgba(10, 16, 34, 0.74);
+    backdrop-filter: blur(3px);
+  }
+  .day-dialog-card {
+    display: flex;
+    flex-direction: column;
+    max-height: min(86vh, 52rem);
+    overflow: hidden;
+    border: 1px solid rgba(198, 161, 85, 0.5);
+    border-radius: 0.6rem;
+    background: var(--color-ivory);
+    box-shadow: var(--shadow-deep);
+  }
+  .day-dialog-head {
+    position: sticky;
+    top: 0;
+    z-index: 2;
+    padding: 1rem 1.1rem;
+    border-bottom: 1px solid rgba(198, 161, 85, 0.3);
+    background: rgba(252, 248, 240, 0.97);
+  }
+  .day-dialog-body {
+    flex: 1 1 auto;
+    min-height: 0;
+    overflow-y: auto;
+    overscroll-behavior: contain;
+    padding: 0.25rem 1.1rem;
+  }
+  .day-dialog-foot {
+    border-top: 1px solid rgba(198, 161, 85, 0.25);
+    padding: 0.75rem 1.1rem;
+  }
+  .day-dialog[open] .day-dialog-card {
+    animation: calSheet 0.28s var(--ease-reverent) both;
+  }
+  @keyframes calSheet {
+    from {
+      opacity: 0;
+      transform: translateY(14px) scale(0.99);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0) scale(1);
+    }
+  }
+  @media (max-width: 639px) {
+    .day-dialog {
+      width: 100%;
+      max-width: 100%;
+      max-height: 92vh;
+      margin: auto auto 0;
+    }
+    .day-dialog-card {
+      max-height: 92vh;
+      border-radius: 1rem 1rem 0 0;
+    }
+    .day-dialog-head {
+      padding: 0.85rem 1rem;
+    }
+    #dialog-title {
+      font-size: 1.35rem;
+      line-height: 1.2;
+    }
+    .day-dialog-body {
+      padding: 0.2rem 0.9rem;
+    }
+    .day-dialog-foot {
+      padding: 0.65rem 0.9rem;
+    }
+  }
+
+  .cal-entry {
+    display: flex;
+    gap: 0.65rem;
+    padding: 0.8rem 0;
+    border-bottom: 1px solid rgba(198, 161, 85, 0.18);
+  }
+  .cal-entry:last-child {
+    border-bottom: 0;
+  }
+  .cal-entry-dot {
+    flex-shrink: 0;
+    width: 0.55rem;
+    height: 0.55rem;
+    margin-top: 0.5rem;
+    border-radius: 9999px;
+    background: var(--color-gold-500);
+  }
+  .cal-entry-dot.is-blessed {
+    background: var(--color-forest-500);
+  }
+  .cal-entry-dot.is-venerable {
+    background: var(--color-navy-500);
+  }
+  .cal-entry-main {
+    min-width: 0;
+    flex: 1;
+  }
+  .cal-entry-title {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.35rem;
+  }
+  .cal-entry-title a {
+    font-family: var(--font-heading);
+    font-size: 1.05rem;
+    font-weight: 600;
+    line-height: 1.3;
+    color: var(--color-navy-900);
+  }
+  .cal-entry-title a:hover {
+    color: var(--color-burgundy-700);
+    text-decoration: underline;
+    text-underline-offset: 2px;
+  }
+  .cal-entry-summary {
+    margin-top: 0.2rem;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    font-family: var(--font-body);
+    font-size: 0.86rem;
+    line-height: 1.45;
+    color: var(--color-ink-600);
+  }
+  .cal-entry-patronage {
+    margin-top: 0.25rem;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    font-family: var(--font-body);
+    font-size: 0.78rem;
+    color: var(--color-gold-700);
+  }
+  .cal-badge {
+    border-radius: 0.2rem;
+    padding: 0.1rem 0.35rem;
+    font-family: var(--font-display);
+    font-size: 0.56rem;
+    font-weight: 600;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    white-space: nowrap;
+  }
+  .cal-badge-blessed {
+    background: rgba(47, 87, 60, 0.14);
+    color: var(--color-forest-700);
+  }
+  .cal-badge-venerable {
+    background: rgba(50, 70, 117, 0.14);
+    color: var(--color-navy-700);
+  }
+  .cal-badge-martyr {
+    background: rgba(138, 36, 52, 0.12);
+    color: var(--color-burgundy-700);
+  }
+  .cal-badge-rank {
+    background: rgba(198, 161, 85, 0.2);
+    color: var(--color-gold-700);
+  }
+  .cal-hidden {
+    display: none !important;
   }
 </style>
 
-<script is:inline>
-(function () {
-  var MONTHS = ['January','February','March','April','May','June','July','August','September','October','November','December'];
-  var RANK_TONE = {
-    Solemnity: 'bg-burgundy-700 text-ivory',
-    Feast: 'bg-gold-600 text-ivory',
-    Memorial: 'bg-forest-700 text-ivory',
-    'Optional Memorial': 'bg-forest-600 text-ivory',
-    Commemoration: 'bg-navy-600 text-ivory'
-  };
-  var STATUS_DOT = { Saint: 'bg-gold-500', Blessed: 'bg-forest-600', Venerable: 'bg-navy-500' };
+<script>
+  import {
+    WEEKDAYS,
+    liturgicalSeason,
+    seasonTheme,
+    movableFeasts,
+    type LiturgicalSeason,
+  } from '../data/calendar';
+  import type { CalendarEntry, CalendarMonth } from '../utils/calendar-data';
 
-  var btns = document.querySelectorAll('.cal-btn');
-  var cells = document.querySelectorAll('.cal-cell');
-  var activeFilter = 'all';
-  var panel = document.getElementById('day-panel');
-  var panelTitle = document.getElementById('panel-title');
-  var panelMonth = document.getElementById('panel-month');
-  var panelCount = document.getElementById('panel-count');
-  var panelSaints = document.getElementById('panel-saints');
-  var panelEmpty = document.getElementById('panel-empty');
-  var panelClose = document.getElementById('panel-close');
+  type Filter = 'all' | 'Saint' | 'Blessed' | 'Venerable' | 'martyr';
 
-  function esc(s) {
-    return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+  interface DayView {
+    day: number;
+    entries: CalendarEntry[];
+    total: number;
+    feast: string | null;
+    season: LiturgicalSeason;
   }
 
-  function openPanel(cell) {
-    var month = parseInt(cell.getAttribute('data-month'));
-    var day = parseInt(cell.getAttribute('data-day'));
-    var dataEls = cell.querySelectorAll('.cal-link-data');
-    var saints = [];
-    dataEls.forEach(function (el) {
-      saints.push({
-        id: el.getAttribute('data-id'),
-        name: el.getAttribute('data-name'),
-        rank: el.getAttribute('data-rank'),
-        status: el.getAttribute('data-status'),
-        martyr: el.getAttribute('data-martyr') === 'true',
-        summary: el.getAttribute('data-summary'),
-        patronage: el.getAttribute('data-patronage')
-      });
+  const initialScript = document.getElementById('calendar-initial-data');
+  if (!initialScript?.textContent) throw new Error('Calendar data is missing.');
+  const initialData = JSON.parse(initialScript.textContent) as CalendarMonth;
+
+  const $ = <T extends HTMLElement = HTMLElement>(id: string): T =>
+    document.getElementById(id) as T;
+
+  const monthPanel = $('month-panel');
+  const monthHeading = $('month-heading');
+  const monthSub = $('month-sub');
+  const monthSeason = $('month-season');
+  const grid = $('calendar-grid');
+  const agenda = $('calendar-agenda');
+  const searchPanel = $('search-panel');
+  const searchHeading = $('search-heading');
+  const searchList = $('search-list');
+  const searchInput = $<HTMLInputElement>('cal-search');
+  const searchClear = $<HTMLButtonElement>('search-clear');
+  const filterCount = $('filter-count');
+  const monthMessage = $('month-message');
+  const monthStatus = $('month-status');
+  const prevButton = $<HTMLButtonElement>('month-prev');
+  const nextButton = $<HTMLButtonElement>('month-next');
+  const todayButton = $<HTMLButtonElement>('month-today');
+  const targetButtons = Array.from(document.querySelectorAll<HTMLButtonElement>('[data-filter]'));
+
+  const todayDate = $('today-date');
+  const todaySeason = $('today-season');
+  const todayList = $('today-list');
+  const todayOpen = $<HTMLButtonElement>('today-open');
+
+  const dialog = $<HTMLDialogElement>('day-dialog');
+  const dialogTitle = $('dialog-title');
+  const dialogSeason = $('dialog-season');
+  const dialogCount = $('dialog-count');
+  const dialogBody = $('dialog-body');
+  const dialogFooter = $('dialog-footer');
+  const dialogMore = $<HTMLButtonElement>('dialog-more');
+  const dialogPrev = $<HTMLButtonElement>('dialog-prev');
+  const dialogNext = $<HTMLButtonElement>('dialog-next');
+  const dialogClose = $<HTMLButtonElement>('dialog-close');
+
+  const urlParams = new URLSearchParams(window.location.search);
+  const readInt = (key: string, min: number, max: number, fallback: number): number => {
+    const value = Number(urlParams.get(key));
+    return Number.isInteger(value) && value >= min && value <= max ? value : fallback;
+  };
+
+  const now = new Date();
+  const state = {
+    month: readInt('m', 1, 12, now.getMonth() + 1),
+    year: readInt('y', 1900, 2200, now.getFullYear()),
+    filter: 'all' as Filter,
+    query: '',
+    day: null as number | null,
+  };
+
+  const cache = new Map<number, CalendarMonth>();
+  cache.set(initialData.month, initialData);
+
+  let lastTrigger: HTMLElement | null = null;
+  let loadToken = 0;
+  let dialogEntries: CalendarEntry[] = [];
+  let dialogShown = 0;
+  const DIALOG_CHUNK = 40;
+  let searchTimer: number | undefined;
+
+  function esc(value: string): string {
+    return value.replace(/[&<>"']/g, (character) => {
+      switch (character) {
+        case '&':
+          return '&amp;';
+        case '<':
+          return '&lt;';
+        case '>':
+          return '&gt;';
+        case '"':
+          return '&quot;';
+        default:
+          return '&#39;';
+      }
     });
+  }
 
-    panelMonth.textContent = MONTHS[month - 1];
-    panelTitle.textContent = MONTHS[month - 1] + ' ' + day;
-    panelCount.textContent = saints.length + ' saint' + (saints.length !== 1 ? 's' : '') + ' commemorated';
+  function normalize(value: string): string {
+    return value
+      .normalize('NFD')
+      .replace(/[\u0300-\u036f]/g, '')
+      .toLowerCase();
+  }
 
-    if (saints.length === 0) {
-      panelSaints.innerHTML = '';
-      panelEmpty.classList.remove('hidden');
-    } else {
-      panelEmpty.classList.add('hidden');
-      panelSaints.innerHTML = saints.map(function (s) {
-        var rankClass = s.rank ? (RANK_TONE[s.rank] || 'bg-navy-600/80 text-ivory') : 'bg-navy-600/80 text-ivory';
-        var dotClass = STATUS_DOT[s.status] || 'bg-navy-500';
-        var patronageHtml = s.patronage ? '<p class="mt-1 font-body text-xs text-ink-500">Patron of: ' + esc(s.patronage) + '</p>' : '';
-        var summaryHtml = s.summary ? '<p class="mt-1 font-body text-xs text-ink-600 leading-relaxed line-clamp-2">' + esc(s.summary) + '</p>' : '';
-        var martyrTag = s.martyr ? '<span class="ml-2 inline-flex items-center gap-1 rounded bg-burgundy-700/10 px-1.5 py-0.5 text-[10px] font-semibold text-burgundy-700">Martyr</span>' : '';
+  const searchCache = new WeakMap<CalendarEntry, string>();
+  function searchText(entry: CalendarEntry): string {
+    const cached = searchCache.get(entry);
+    if (cached) return cached;
+    const text = normalize(
+      `${entry.name} ${entry.patronage.join(' ').replace(/-/g, ' ')} ${entry.summary}`
+    );
+    searchCache.set(entry, text);
+    return text;
+  }
 
-        return '<div class="flex items-start gap-3 py-3">' +
-          '<span class="mt-1.5 h-2.5 w-2.5 shrink-0 rounded-full ' + dotClass + '"></span>' +
-          '<div class="min-w-0 flex-1">' +
-            '<div class="flex flex-wrap items-center gap-1.5">' +
-              '<a href="/saints/' + esc(s.id) + '" class="font-heading text-base font-semibold text-navy-900 hover:text-burgundy-700 hover:underline">' + esc(s.name) + '</a>' +
-              (s.rank ? '<span class="rounded px-1.5 py-0.5 text-[10px] font-semibold ' + rankClass + '">' + esc(s.rank) + '</span>' : '') +
-              martyrTag +
-            '</div>' +
-            patronageHtml +
-            summaryHtml +
-          '</div>' +
-        '</div>';
-      }).join('');
+  function matchesFilter(entry: CalendarEntry): boolean {
+    if (state.filter === 'all') return true;
+    if (state.filter === 'martyr') return entry.martyr;
+    return entry.status === state.filter;
+  }
+
+  function matchesQuery(entry: CalendarEntry): boolean {
+    const query = state.query.trim();
+    return !query || searchText(entry).includes(normalize(query));
+  }
+
+  function matches(entry: CalendarEntry): boolean {
+    return matchesFilter(entry) && matchesQuery(entry);
+  }
+
+  function dotClass(status: string): string {
+    if (status === 'Blessed') return 'bg-forest-500';
+    if (status === 'Venerable') return 'bg-navy-500';
+    return 'bg-gold-500';
+  }
+
+  async function getMonth(month: number): Promise<CalendarMonth> {
+    const cached = cache.get(month);
+    if (cached) return cached;
+    const response = await fetch(`/calendar/${month}.json`, {
+      headers: { Accept: 'application/json' },
+    });
+    if (!response.ok) throw new Error(`Calendar request failed: ${response.status}`);
+    const data = (await response.json()) as CalendarMonth;
+    cache.set(month, data);
+    return data;
+  }
+
+  function setBusy(busy: boolean): void {
+    monthPanel.classList.toggle('is-busy', busy);
+    monthPanel.setAttribute('aria-busy', String(busy));
+    prevButton.disabled = busy;
+    nextButton.disabled = busy;
+    todayButton.disabled = busy;
+  }
+
+  function buildDays(data: CalendarMonth): DayView[] {
+    const feasts = new Map(
+      movableFeasts(state.year).map((feast) => [
+        `${feast.date.getMonth() + 1}-${feast.date.getDate()}`,
+        feast.name,
+      ])
+    );
+    const total = new Date(state.year, state.month, 0).getDate();
+    const views: DayView[] = [];
+
+    for (let day = 1; day <= total; day++) {
+      const all = data.days[String(day)] ?? [];
+      views.push({
+        day,
+        entries: all.filter(matches),
+        total: all.length,
+        feast: feasts.get(`${state.month}-${day}`) ?? null,
+        season: liturgicalSeason(new Date(state.year, state.month - 1, day)),
+      });
     }
 
-    panel.classList.remove('hidden');
-    panel.classList.remove('translate-x-full');
-    document.body.classList.add('day-panel-open');
+    return views;
   }
 
-  function closePanel() {
-    panel.classList.add('translate-x-full');
-    setTimeout(function () { panel.classList.add('hidden'); }, 300);
-    document.body.classList.remove('day-panel-open');
+  function cellLabel(view: DayView, data: CalendarMonth): string {
+    const date = new Date(state.year, state.month - 1, view.day);
+    const count =
+      view.entries.length === view.total
+        ? `${view.total.toLocaleString()} ${view.total === 1 ? 'profile' : 'profiles'}`
+        : `${view.entries.length.toLocaleString()} of ${view.total.toLocaleString()} profiles shown`;
+    const feast = view.feast ? `, ${view.feast}` : '';
+    return `${WEEKDAYS[date.getDay()]} ${view.day} ${data.name} ${state.year}, ${count}${feast}`;
   }
 
-  cells.forEach(function (cell) {
-    cell.addEventListener('click', function () {
-      openPanel(cell);
+  function renderGrid(days: DayView[], data: CalendarMonth): string {
+    const today = new Date();
+    const firstWeekday = new Date(state.year, state.month - 1, 1).getDay();
+    let html = WEEKDAYS.map((weekday) => `<div class="cal-dow" aria-hidden="true">${weekday.slice(0, 3)}</div>`).join('');
+
+    for (let blank = 0; blank < firstWeekday; blank++) {
+      html += '<div class="cal-blank" aria-hidden="true"></div>';
+    }
+
+    for (const view of days) {
+      const theme = seasonTheme(view.season);
+      const isToday =
+        today.getFullYear() === state.year &&
+        today.getMonth() + 1 === state.month &&
+        today.getDate() === view.day;
+      const names = view.entries
+        .slice(0, 3)
+        .map((entry) => `<span class="cal-name">${esc(entry.name)}</span>`)
+        .join('');
+      const more =
+        view.entries.length > 3
+          ? `<span class="cal-more">+${view.entries.length - 3} more</span>`
+          : '';
+      const feast = view.feast ? `<span class="cal-feast">${esc(view.feast)}</span>` : '';
+
+      html += `<button type="button" class="cal-day${view.entries.length === 0 ? ' is-empty' : ''}${isToday ? ' is-today' : ''}" data-day="${view.day}" style="--accent:${theme.accent};--season-text:${theme.text}" aria-label="${esc(cellLabel(view, data))}">
+        <span class="cal-season-bar" aria-hidden="true"></span>
+        <span class="cal-day-head"><span class="cal-num">${view.day}</span><span class="cal-count">${view.entries.length}</span></span>
+        ${feast}
+        <span class="cal-names">${names || '<span class="cal-none">—</span>'}</span>
+        ${more}
+      </button>`;
+    }
+
+    return html;
+  }
+
+  function renderDayList(views: DayView[], container: HTMLElement, data: CalendarMonth): void {
+    container.innerHTML = views
+      .map((view) => {
+        const theme = seasonTheme(view.season);
+        const weekday = WEEKDAYS[new Date(state.year, state.month - 1, view.day).getDay()];
+        const names = view.entries
+          .slice(0, 3)
+          .map((entry) => `<span class="cal-agenda-name">${esc(entry.name)}</span>`)
+          .join('');
+        const more =
+          view.entries.length > 3
+            ? `<span class="cal-agenda-name text-gold-700">+${view.entries.length - 3} more</span>`
+            : '';
+        const feast = view.feast ? `<span class="cal-agenda-feast">${esc(view.feast)}</span>` : '';
+
+        return `<button type="button" class="cal-agenda-day" data-day="${view.day}" style="--accent:${theme.accent};--season-text:${theme.text}" aria-label="${esc(cellLabel(view, data))}">
+          <span class="cal-agenda-date"><span class="dow">${weekday.slice(0, 3)}</span><span class="num">${view.day}</span></span>
+          <span class="cal-agenda-main">${feast}<span class="cal-agenda-names">${names || '<span class="cal-none">No saints match</span>'}</span>${more}</span>
+          <span class="cal-agenda-count">${view.entries.length}</span>
+        </button>`;
+      })
+      .join('');
+  }
+
+  function showMessage(text: string, options: { retry?: boolean; clear?: boolean } = {}): void {
+    const action = options.retry
+      ? '<button type="button" class="chip mt-3" data-retry>Try again</button>'
+      : options.clear
+        ? '<button type="button" class="chip mt-3" data-clear>Clear filters</button>'
+        : '';
+    monthMessage.innerHTML = `<p class="font-body text-ink-700">${esc(text)}</p>${action}`;
+    monthMessage.classList.remove('hidden');
+  }
+
+  function hideMessage(): void {
+    monthMessage.classList.add('hidden');
+    monthMessage.innerHTML = '';
+  }
+
+  function updateURL(): void {
+    const today = new Date();
+    const isCurrent = state.month === today.getMonth() + 1 && state.year === today.getFullYear();
+    const params = new URLSearchParams(window.location.search);
+
+    if (isCurrent) {
+      params.delete('m');
+      params.delete('y');
+    } else {
+      params.set('m', String(state.month));
+      params.set('y', String(state.year));
+    }
+
+    if (state.day) params.set('d', String(state.day));
+    else params.delete('d');
+
+    const query = params.toString();
+    window.history.replaceState(null, '', query ? `${window.location.pathname}?${query}` : window.location.pathname);
+  }
+
+  function render(): void {
+    const data = cache.get(state.month);
+    if (!data) return;
+
+    const days = buildDays(data);
+    const searching = state.query.trim().length > 0;
+    const matched = days.reduce((sum, view) => sum + view.entries.length, 0);
+    const seasons = Array.from(new Set(days.map((view) => view.season)));
+
+    monthHeading.textContent = `${data.name} ${state.year}`;
+    monthSub.textContent = `${data.total.toLocaleString()} profiles · ${Object.keys(data.days).length} feast days`;
+    monthSeason.innerHTML = seasons
+      .map((season) => {
+        const theme = seasonTheme(season);
+        return `<span style="color:${theme.text}">${theme.symbol} ${season}</span>`;
+      })
+      .join('<span class="text-ink-400"> · </span>');
+    filterCount.textContent = `${matched.toLocaleString()} shown`;
+
+    targetButtons.forEach((button) => {
+      const active = button.dataset.filter === state.filter;
+      button.classList.toggle('chip-active', active);
+      button.setAttribute('aria-pressed', String(active));
     });
-  });
 
-  panelClose.addEventListener('click', closePanel);
-  document.querySelectorAll('[data-close-panel]').forEach(function (el) {
-    el.addEventListener('click', closePanel);
-  });
+    grid.innerHTML = renderGrid(days, data);
+    renderDayList(days.filter((view) => view.entries.length > 0), agenda, data);
 
-  window.addEventListener('keydown', function (e) {
-    if (e.key === 'Escape' && !panel.classList.contains('hidden')) closePanel();
-  });
+    searchPanel.classList.toggle('cal-hidden', !searching);
+    grid.classList.toggle('cal-hidden', searching);
+    agenda.classList.toggle('cal-hidden', searching);
 
-  btns.forEach(function (btn) {
-    btn.addEventListener('click', function () {
-      btns.forEach(function (b) { b.classList.remove('active'); });
-      btn.classList.add('active');
-      activeFilter = btn.getAttribute('data-cal-filter');
-      applyFilter();
-    });
-  });
+    if (searching) {
+      const matches = days.filter((view) => view.entries.length > 0);
+      searchHeading.textContent = `${matched.toLocaleString()} ${matched === 1 ? 'saint' : 'saints'} matching “${state.query.trim()}” in ${data.name}`;
+      renderDayList(matches, searchList, data);
+    }
 
-  function applyFilter() {
-    cells.forEach(function (cell) {
-      var links = cell.querySelectorAll('.cal-link');
-      var visibleCount = 0;
+    if (matched === 0) {
+      showMessage(
+        searching
+          ? `No saints match “${state.query.trim()}” in ${data.name}. Try another name or clear the search.`
+          : 'No saints match this filter in this month.',
+        { clear: true }
+      );
+    } else {
+      hideMessage();
+    }
 
-      links.forEach(function (link) {
-        var status = link.getAttribute('data-status');
-        var martyr = link.getAttribute('data-martyr');
-        var show = false;
+    monthStatus.textContent = `${data.name} ${state.year}. ${matched.toLocaleString()} saints shown.`;
+    updateURL();
+  }
 
-        if (activeFilter === 'all') {
-          show = true;
-        } else if (activeFilter === 'martyr') {
-          show = martyr === 'true';
-        } else {
-          show = status === activeFilter;
-        }
+  async function loadMonth(month: number, year: number, options: { focus?: boolean; scroll?: boolean } = {}): Promise<void> {
+    const token = ++loadToken;
+    setBusy(true);
+    hideMessage();
 
-        link.style.display = show ? '' : 'none';
-        if (show) visibleCount++;
+    try {
+      await getMonth(month);
+      if (token !== loadToken) return;
+      state.month = month;
+      state.year = year;
+      state.day = null;
+      render();
+      if (options.focus) monthHeading.focus({ preventScroll: true });
+      if (options.scroll) {
+        monthPanel.scrollIntoView({
+          behavior: window.matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth',
+          block: 'start',
+        });
+      }
+    } catch {
+      if (token !== loadToken) return;
+      showMessage('This month could not be loaded. Check your connection and try again.', {
+        retry: true,
       });
+    } finally {
+      if (token === loadToken) setBusy(false);
+    }
+  }
 
-      var count = parseInt(cell.getAttribute('data-count') || '0');
-      cell.style.opacity = visibleCount === 0 && activeFilter !== 'all' ? '0.4' : '1';
+  function statusBadge(entry: CalendarEntry): string {
+    if (entry.status === 'Saint') return '';
+    const modifier = entry.status === 'Blessed' ? 'cal-badge-blessed' : 'cal-badge-venerable';
+    return `<span class="cal-badge ${modifier}">${entry.status}</span>`;
+  }
+
+  function rankBadge(entry: CalendarEntry): string {
+    const label = entry.label || entry.rank;
+    if (!label) return '';
+    return `<span class="cal-badge cal-badge-rank">${esc(label)}</span>`;
+  }
+
+  function entryHtml(entry: CalendarEntry): string {
+    const patronage = entry.patronage.length
+      ? `<p class="cal-entry-patronage">Patron of ${esc(
+          entry.patronage
+            .slice(0, 6)
+            .map((item) => item.replace(/-/g, ' '))
+            .join(', ')
+        )}</p>`
+      : '';
+    const summary = entry.summary
+      ? `<p class="cal-entry-summary">${esc(entry.summary)}</p>`
+      : '';
+    const martyr = entry.martyr ? '<span class="cal-badge cal-badge-martyr">Martyr</span>' : '';
+
+    return `<article class="cal-entry">
+      <span class="cal-entry-dot${entry.status === 'Blessed' ? ' is-blessed' : entry.status === 'Venerable' ? ' is-venerable' : ''}" aria-hidden="true"></span>
+      <div class="cal-entry-main">
+        <div class="cal-entry-title">
+          <a href="/saints/${esc(entry.slug)}">${esc(entry.name)}</a>
+          ${rankBadge(entry)}${statusBadge(entry)}${martyr}
+        </div>
+        ${summary}${patronage}
+      </div>
+    </article>`;
+  }
+
+  function renderDialogChunk(): void {
+    const next = dialogEntries.slice(dialogShown, dialogShown + DIALOG_CHUNK);
+    dialogBody.insertAdjacentHTML('beforeend', next.map(entryHtml).join(''));
+    dialogShown += next.length;
+    const remaining = dialogEntries.length - dialogShown;
+    dialogFooter.hidden = remaining <= 0;
+    dialogMore.textContent = `Show ${Math.min(DIALOG_CHUNK, remaining)} more`;
+  }
+
+  function renderDialog(): void {
+    const data = cache.get(state.month);
+    if (!data || !state.day) return;
+
+    const all = data.days[String(state.day)] ?? [];
+    const entries = all.filter(matchesFilter);
+    const date = new Date(state.year, state.month - 1, state.day);
+    const season = liturgicalSeason(date);
+    const theme = seasonTheme(season);
+    const qualifier =
+      entries.length !== all.length
+        ? ` · ${entries.length.toLocaleString()} shown by filter`
+        : '';
+
+    dialogTitle.textContent = `${WEEKDAYS[date.getDay()]}, ${data.name} ${state.day}`;
+    dialogSeason.innerHTML = `<span style="color:${theme.text}">${theme.symbol} ${season}</span>`;
+    dialogCount.textContent =
+      all.length === 0
+        ? 'No profiles are recorded on this day.'
+        : `${all.length.toLocaleString()} ${all.length === 1 ? 'profile' : 'profiles'}${qualifier}`;
+
+    dialogBody.innerHTML = '';
+    dialogEntries = entries;
+    dialogShown = 0;
+
+    if (all.length === 0) {
+      dialogBody.innerHTML =
+        '<p class="py-10 text-center font-heading text-xl italic text-ink-500">No profiles are recorded for this day yet.</p>';
+      dialogFooter.hidden = true;
+    } else if (entries.length === 0) {
+      dialogBody.innerHTML =
+        '<p class="py-10 text-center font-heading text-lg italic text-ink-500">No profiles match the current filter.<br><button type="button" class="chip mt-3" data-dialog-clear>Clear filter</button></p>';
+      dialogFooter.hidden = true;
+    } else {
+      renderDialogChunk();
+    }
+
+    const lastDay = new Date(state.year, state.month, 0).getDate();
+    dialogPrev.disabled = state.day <= 1;
+    dialogNext.disabled = state.day >= lastDay;
+  }
+
+  function openDay(day: number, trigger: HTMLElement | null): void {
+    state.day = day;
+    lastTrigger = trigger;
+    renderDialog();
+    if (!dialog.open) dialog.showModal();
+    updateURL();
+  }
+
+  function closeDialog(): void {
+    if (dialog.open) dialog.close();
+  }
+
+  function moveDialogDay(delta: number): void {
+    if (!state.day) return;
+    const lastDay = new Date(state.year, state.month, 0).getDate();
+    const next = state.day + delta;
+    if (next < 1 || next > lastDay) return;
+    state.day = next;
+    renderDialog();
+    updateURL();
+  }
+
+  function renderTodayCard(): void {
+    const today = new Date();
+    const data = cache.get(today.getMonth() + 1);
+    if (!data) return;
+
+    const entries = data.days[String(today.getDate())] ?? [];
+    todayDate.textContent = today.toLocaleDateString('en-GB', {
+      weekday: 'long',
+      day: 'numeric',
+      month: 'long',
+      year: 'numeric',
+    });
+    todaySeason.textContent = liturgicalSeason(today);
+    todayList.innerHTML = entries.length
+      ? entries
+          .slice(0, 4)
+          .map(
+            (entry) =>
+              `<li class="flex items-center gap-2"><span class="h-1.5 w-1.5 shrink-0 rounded-full ${dotClass(entry.status)}" aria-hidden="true"></span><a href="/saints/${esc(entry.slug)}" class="truncate font-heading text-base text-ivory transition-colors hover:text-gold-300 hover:underline">${esc(entry.name)}</a>${
+                entry.status !== 'Saint'
+                  ? `<span class="shrink-0 font-display text-[9px] uppercase tracking-[0.16em] text-gold-400">${entry.status}</span>`
+                  : ''
+              }</li>`
+          )
+          .join('')
+      : '<li class="font-body text-sm text-parchment-100/60">No profiles are recorded for today.</li>';
+
+    if (entries.length === 0) {
+      todayOpen.textContent = 'No entries today';
+      todayOpen.disabled = true;
+    } else if (entries.length <= 4) {
+      todayOpen.textContent = 'Open today’s saints';
+      todayOpen.disabled = false;
+    } else {
+      todayOpen.textContent = `See all ${entries.length.toLocaleString()}`;
+      todayOpen.disabled = false;
+    }
+  }
+
+  function openDeepLink(): void {
+    const day = Number(urlParams.get('d'));
+    if (!Number.isInteger(day) || day < 1) return;
+    const lastDay = new Date(state.year, state.month, 0).getDate();
+    if (day > lastDay) return;
+    if (!cache.has(state.month)) return;
+    openDay(day, null);
+  }
+
+  prevButton.addEventListener('click', () => {
+    let month = state.month - 1;
+    let year = state.year;
+    if (month < 1) {
+      month = 12;
+      year -= 1;
+    }
+    if (year < 1900) return;
+    void loadMonth(month, year, { focus: true, scroll: true });
+  });
+
+  nextButton.addEventListener('click', () => {
+    let month = state.month + 1;
+    let year = state.year;
+    if (month > 12) {
+      month = 1;
+      year += 1;
+    }
+    if (year > 2200) return;
+    void loadMonth(month, year, { focus: true, scroll: true });
+  });
+
+  todayButton.addEventListener('click', () => {
+    const today = new Date();
+    state.query = '';
+    searchInput.value = '';
+    void loadMonth(today.getMonth() + 1, today.getFullYear(), { focus: true, scroll: true });
+  });
+
+  targetButtons.forEach((button) => {
+    button.addEventListener('click', () => {
+      state.filter = (button.dataset.filter as Filter) ?? 'all';
+      render();
+    });
+  });
+
+  searchInput.addEventListener('input', () => {
+    state.query = searchInput.value;
+    window.clearTimeout(searchTimer);
+    searchTimer = window.setTimeout(render, 90);
+  });
+
+  searchInput.addEventListener('keydown', (event) => {
+    if (event.key === 'Escape' && searchInput.value) {
+      searchInput.value = '';
+      state.query = '';
+      render();
+    }
+  });
+
+  searchClear.addEventListener('click', () => {
+    searchInput.value = '';
+    state.query = '';
+    searchInput.focus();
+    render();
+  });
+
+  monthMessage.addEventListener('click', (event) => {
+    const target = event.target as HTMLElement;
+    if (target.closest('[data-retry]')) {
+      void loadMonth(state.month, state.year);
+      return;
+    }
+    if (target.closest('[data-clear]')) {
+      state.filter = 'all';
+      state.query = '';
+      searchInput.value = '';
+      render();
+    }
+  });
+
+  for (const container of [grid, agenda, searchList]) {
+    container.addEventListener('click', (event) => {
+      const trigger = (event.target as HTMLElement).closest<HTMLElement>('[data-day]');
+      if (!trigger) return;
+      const day = Number(trigger.dataset.day);
+      if (Number.isInteger(day)) openDay(day, trigger);
     });
   }
-})();
+
+  todayOpen.addEventListener('click', () => {
+    const today = new Date();
+    const month = today.getMonth() + 1;
+    const year = today.getFullYear();
+    if (state.month !== month || state.year !== year) {
+      void loadMonth(month, year).then(() => {
+        if (cache.has(month)) openDay(today.getDate(), todayOpen);
+      });
+      return;
+    }
+    openDay(today.getDate(), todayOpen);
+  });
+
+  dialogClose.addEventListener('click', closeDialog);
+  dialogPrev.addEventListener('click', () => moveDialogDay(-1));
+  dialogNext.addEventListener('click', () => moveDialogDay(1));
+  dialogMore.addEventListener('click', renderDialogChunk);
+
+  dialog.addEventListener('click', (event) => {
+    if (event.target === dialog) closeDialog();
+  });
+
+  dialogBody.addEventListener('click', (event) => {
+    if ((event.target as HTMLElement).closest('[data-dialog-clear]')) {
+      state.filter = 'all';
+      render();
+      renderDialog();
+    }
+  });
+
+  dialog.addEventListener('close', () => {
+    state.day = null;
+    updateURL();
+    lastTrigger?.focus();
+    lastTrigger = null;
+  });
+
+  async function boot(): Promise<void> {
+    const today = new Date();
+    const pending: Promise<unknown>[] = [];
+
+    if (!cache.has(state.month)) pending.push(loadMonth(state.month, state.year));
+    if (!cache.has(today.getMonth() + 1)) {
+      pending.push(getMonth(today.getMonth() + 1).catch(() => null));
+    }
+
+    await Promise.all(pending);
+    if (cache.has(state.month)) render();
+    renderTodayCard();
+    openDeepLink();
+  }
+
+  void boot();
 </script>

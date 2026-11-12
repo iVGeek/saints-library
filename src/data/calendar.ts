@@ -13,6 +13,16 @@ export const MONTHS = [
   'December',
 ] as const;
 
+export const WEEKDAYS = [
+  'Sunday',
+  'Monday',
+  'Tuesday',
+  'Wednesday',
+  'Thursday',
+  'Friday',
+  'Saturday',
+] as const;
+
 export interface FeastDay {
   month: number;
   day: number;
@@ -61,46 +71,76 @@ export type LiturgicalSeason =
   | 'Triduum'
   | 'Easter';
 
+function atMidnight(date: Date): Date {
+  return new Date(date.getFullYear(), date.getMonth(), date.getDate());
+}
+
+function addDays(date: Date, days: number): Date {
+  const result = atMidnight(date);
+  result.setDate(result.getDate() + days);
+  return result;
+}
+
+/** The first Sunday on or after the given date. */
+function sundayOnOrAfter(date: Date): Date {
+  const result = atMidnight(date);
+  result.setDate(result.getDate() + ((7 - result.getDay()) % 7));
+  return result;
+}
+
 /**
- * Approximate liturgical season for a date. The Church's year pivots on the
- * movable date of Easter; this is a fair approximation used for display.
+ * Liturgical season for a date in the Ordinary Form (Western rite).
+ *
+ * Boundaries follow the Church's actual calendar rather than fixed month
+ * heuristics: Advent begins on the fourth Sunday before Christmas, Christmas
+ * runs through the Baptism of the Lord, and the Easter cycle is derived from
+ * the movable date of Easter.
  */
 export function liturgicalSeason(date = new Date()): LiturgicalSeason {
-  const month = date.getMonth() + 1;
-  const day = date.getDate();
+  const day = atMidnight(date);
+  const year = day.getFullYear();
 
-  const today = (m: number, d: number) => month === m && day >= d;
-  const before = (m: number, d: number) => month < m || (month === m && day < d);
+  const easter = approximateEaster(year);
+  const ashWednesday = addDays(easter, -46);
+  const holyThursday = addDays(easter, -3);
+  const pentecost = addDays(easter, 49);
 
-  // Approximate boundaries (Easter falls Mar 22–Apr 25).
-  if ((month === 11 && day >= 27) || (month === 12 && day < 25)) return 'Advent';
-  if (today(12, 25) || (month === 1 && day <= 13)) return 'Christmas';
+  const christmas = new Date(year, 11, 25);
+  const baptismOfTheLord = sundayOnOrAfter(new Date(year, 0, 7));
+  const adventStart = sundayOnOrAfter(new Date(year, 10, 27));
 
-  const easter = approximateEaster(date.getFullYear());
-  const seasonStart = new Date(date.getFullYear(), month - 1, day);
+  // Christmas spans the civil year boundary: 25 December through the
+  // Baptism of the Lord (the Sunday after 6 January).
+  if (day.getTime() >= christmas.getTime()) return 'Christmas';
+  if (day.getTime() <= baptismOfTheLord.getTime()) return 'Christmas';
 
-  const ashWednesday = new Date(easter);
-  ashWednesday.setDate(easter.getDate() - 46);
-  const triduum = new Date(easter);
-  triduum.setDate(easter.getDate() - 3);
-  const pentecost = new Date(easter);
-  pentecost.setDate(easter.getDate() + 49);
+  if (day.getTime() >= adventStart.getTime()) return 'Advent';
 
-  if (seasonStart >= triduum && seasonStart <= new Date(easter.getFullYear(), easter.getMonth(), easter.getDate() + 1)) {
+  // The Easter Triduum runs from Holy Thursday to Holy Saturday; Easter
+  // Sunday itself belongs to the Easter season.
+  if (day.getTime() >= holyThursday.getTime() && day.getTime() < easter.getTime()) {
     return 'Triduum';
   }
-  if (seasonStart >= ashWednesday && seasonStart < triduum) return 'Lent';
-  if (seasonStart >= easter && seasonStart < pentecost) return 'Easter';
+  if (day.getTime() >= easter.getTime() && day.getTime() <= pentecost.getTime()) {
+    return 'Easter';
+  }
+  if (day.getTime() >= ashWednesday.getTime() && day.getTime() < holyThursday.getTime()) {
+    return 'Lent';
+  }
+
   return 'Ordinary Time';
 }
 
-const SEASON_THEME: Record<LiturgicalSeason, { color: string; symbol: string }> = {
-  Advent: { color: 'violet', symbol: '✠' },
-  Christmas: { color: 'white', symbol: '✦' },
-  'Ordinary Time': { color: 'green', symbol: '❖' },
-  Lent: { color: 'violet', symbol: '✠' },
-  Triduum: { color: 'red', symbol: '✟' },
-  Easter: { color: 'white', symbol: '✚' },
+const SEASON_THEME: Record<
+  LiturgicalSeason,
+  { color: string; symbol: string; accent: string; soft: string; text: string }
+> = {
+  Advent: { color: 'violet', symbol: '✠', accent: '#6d4a8f', soft: '#f2edf8', text: '#4f3268' },
+  Christmas: { color: 'gold', symbol: '✦', accent: '#c6a155', soft: '#fbf5e6', text: '#8a6523' },
+  'Ordinary Time': { color: 'green', symbol: '❖', accent: '#3c6e4d', soft: '#edf4ee', text: '#23432d' },
+  Lent: { color: 'violet', symbol: '✠', accent: '#6d4a8f', soft: '#f2edf8', text: '#4f3268' },
+  Triduum: { color: 'red', symbol: '✟', accent: '#8a2434', soft: '#f8ecee', text: '#6d1a28' },
+  Easter: { color: 'white', symbol: '✚', accent: '#a87f2e', soft: '#fdf8ec', text: '#8a6523' },
 };
 
 export function seasonTheme(season: LiturgicalSeason) {
@@ -110,16 +150,13 @@ export function seasonTheme(season: LiturgicalSeason) {
 /** Movable feasts for a given year (Western rite), derived from Easter. */
 export function movableFeasts(year: number): { name: string; date: Date }[] {
   const easter = approximateEaster(year);
-  const mk = (offset: number) => {
-    const d = new Date(easter);
-    d.setDate(easter.getDate() + offset);
-    return d;
-  };
+  const mk = (offset: number) => addDays(easter, offset);
   return [
     { name: 'Ash Wednesday', date: mk(-46) },
     { name: 'Palm Sunday', date: mk(-7) },
     { name: 'Holy Thursday', date: mk(-3) },
     { name: 'Good Friday', date: mk(-2) },
+    { name: 'Holy Saturday', date: mk(-1) },
     { name: 'Easter Sunday', date: mk(0) },
     { name: 'Ascension', date: mk(39) },
     { name: 'Pentecost', date: mk(49) },

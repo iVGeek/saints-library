@@ -2,6 +2,7 @@
 name: Saint John of Gaza
 stub: true
 honorific: Saint
+summary: A Christian monk of Gaza who was martyred there during the early persecution of Christians.
 died: beheaded in Gaza, Palestine
 deathPlace: Palestine
 region: Italy

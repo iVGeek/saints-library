@@ -2,6 +2,7 @@
 name: Martyred Soldiers of Rome
 stub: true
 honorific: Saint
+summary: A group of Christian soldiers and monks martyred in Rome during the early persecution of Christians.
 died: martyred c.68 in Rome, Italy
 deathPlace: Italy
 region: Italy

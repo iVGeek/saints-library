@@ -2,6 +2,7 @@
 name: Saint Ursula
 stub: true
 honorific: Saint
+summary: Saxon abbess of Cologne who led the missionary expansion to Britain and died in 238.
 image: https://commons.wikimedia.org/wiki/Special:FilePath/Carlo_Crivelli_041.jpg?width=600
 deathYear: 238
 died: 21 October 238 in Cologne, Germany
